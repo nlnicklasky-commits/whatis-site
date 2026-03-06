@@ -1,0 +1,20 @@
+# WhatIs.site
+
+> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more.
+
+## Categories
+
+- [Technology](/category/technology): How digital tools and innovations actually work
+- [Science](/category/science): The natural world explained
+- [Mathematics](/category/mathematics): Numbers, patterns, and logic
+- [Finance](/category/finance): Money, markets, and economic decisions
+- [Philosophy](/category/philosophy): The big questions about existence and knowledge
+- [History](/category/history): People and events that shaped the world
+- [Psychology](/category/psychology): How the human mind works
+- [Health & Wellness](/category/health-amp-wellness): The human body and medicine
+- [Economics](/category/economics): How societies allocate resources
+- [Law](/category/law): Legal concepts and systems
+
+## Popular Articles
+
+<!-- Updated as articles are published -->

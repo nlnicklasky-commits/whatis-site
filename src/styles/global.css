@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #3498db;
+    --color-text: #1a1a2e;
+    --color-text-light: #4a5568;
+    --color-accent: #667eea;
+    --color-bg: #ffffff;
+    --color-bg-secondary: #f8fafc;
+    --color-border: #e2e8f0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-family: Georgia, Cambria, serif;
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.75;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Inter, system-ui, sans-serif;
+  }
+
+  /* Smooth anchor scroll offset for sticky header */
+  [id] {
+    scroll-margin-top: 80px;
+  }
+}
+
+@layer components {
+  .article-content img {
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .category-badge {
+    @apply inline-block bg-blue-50 text-blue-700 px-2.5 py-0.5 rounded-full text-sm font-medium;
+  }
+}

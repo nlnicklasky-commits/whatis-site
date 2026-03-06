@@ -1,0 +1,43 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+
+interface Props {
+  category: string;
+  description: string;
+  articles: any[];
+}
+
+const { category, description, articles } = Astro.props;
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const canonicalUrl = `${siteUrl}/category/${category}`;
+const displayName = category.replace(/-/g, ' ').replace(/\bamp\b/g, '&');
+---
+
+<BaseLayout
+  title={`${displayName} Articles`}
+  description={description}
+  canonicalUrl={canonicalUrl}
+>
+  <div class="max-w-5xl mx-auto px-4 py-12">
+    <header class="mb-12">
+      <nav class="text-sm text-gray-500 mb-4">
+        <a href="/" class="hover:text-blue-600">Home</a>
+        <span class="mx-1">/</span>
+        <span class="text-gray-900 capitalize">{displayName}</span>
+      </nav>
+      <h1 class="font-heading text-4xl font-bold text-gray-900 mb-4 capitalize">{displayName}</h1>
+      <p class="text-lg text-gray-600 max-w-prose">{description}</p>
+      <p class="mt-2 text-sm text-gray-400">{articles.length} articles</p>
+    </header>
+
+    <AdSlot position="header-leaderboard" />
+
+    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+      {articles.map((article) => (
+        <ArticleCard article={article} />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

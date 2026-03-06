@@ -1,0 +1,50 @@
+---
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+const categories = [
+  { label: 'Technology', slug: 'technology' },
+  { label: 'Science', slug: 'science' },
+  { label: 'Finance', slug: 'finance' },
+  { label: 'History', slug: 'history' },
+  { label: 'Philosophy', slug: 'philosophy' },
+  { label: 'Health', slug: 'health-amp-wellness' },
+];
+---
+
+<header class="border-b border-gray-100 bg-white sticky top-0 z-40">
+  <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+    <a href="/" class="font-heading text-xl font-bold text-gray-900 hover:text-primary transition-colors">
+      {siteName}
+    </a>
+
+    <nav class="hidden md:flex items-center gap-6 text-sm">
+      {categories.map(cat => (
+        <a
+          href={`/category/${cat.slug}`}
+          class="text-gray-600 hover:text-primary transition-colors"
+        >
+          {cat.label}
+        </a>
+      ))}
+    </nav>
+
+    <!-- Mobile menu button -->
+    <button
+      class="md:hidden p-2 text-gray-600"
+      aria-label="Open menu"
+      onclick="document.getElementById('mobile-menu').classList.toggle('hidden')"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-gray-100 bg-white px-4 py-3">
+    <nav class="flex flex-col gap-3 text-sm">
+      {categories.map(cat => (
+        <a href={`/category/${cat.slug}`} class="text-gray-600 hover:text-primary py-1">{cat.label}</a>
+      ))}
+    </nav>
+  </div>
+</header>

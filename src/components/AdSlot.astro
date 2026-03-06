@@ -1,0 +1,30 @@
+---
+interface Props {
+  position: 'header-leaderboard' | 'in-content' | 'sidebar-sticky' | 'end-of-article' | 'mobile-anchor';
+}
+
+const { position } = Astro.props;
+const adNetwork = import.meta.env.PUBLIC_AD_NETWORK || 'none';
+
+const positionClasses: Record<string, string> = {
+  'header-leaderboard': 'w-full max-w-4xl mx-auto my-4',
+  'in-content': 'my-8',
+  'sidebar-sticky': 'sticky top-64 mt-8',
+  'end-of-article': 'mt-12 mb-8',
+  'mobile-anchor': 'fixed bottom-0 left-0 right-0 z-50 lg:hidden',
+};
+---
+
+{adNetwork !== 'none' && (
+  <div
+    class={`ad-slot ${positionClasses[position] || ''}`}
+    data-ad-position={position}
+    data-ad-network={adNetwork}
+    aria-label="Advertisement"
+  >
+    {/* Network-specific scripts inject content here */}
+    {/* AdSense: uses data-ad-slot attribute */}
+    {/* Ezoic: uses placeholder div with ezoic ID */}
+    {/* Mediavine: auto-placed by their script */}
+  </div>
+)}

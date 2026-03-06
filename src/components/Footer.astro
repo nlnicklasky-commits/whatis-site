@@ -1,0 +1,59 @@
+---
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+const year = new Date().getFullYear();
+
+const categoryGroups = [
+  { label: 'Knowledge', items: [
+    { name: 'Technology', slug: 'technology' },
+    { name: 'Science', slug: 'science' },
+    { name: 'Mathematics', slug: 'mathematics' },
+    { name: 'Philosophy', slug: 'philosophy' },
+  ]},
+  { label: 'Society', items: [
+    { name: 'History', slug: 'history' },
+    { name: 'Economics', slug: 'economics' },
+    { name: 'Psychology', slug: 'psychology' },
+    { name: 'Law', slug: 'law' },
+  ]},
+  { label: 'Life', items: [
+    { name: 'Health', slug: 'health-amp-wellness' },
+    { name: 'Finance', slug: 'finance' },
+    { name: 'Food & Drink', slug: 'food-amp-drink' },
+    { name: 'Sports', slug: 'sports' },
+  ]},
+];
+---
+
+<footer class="bg-gray-50 border-t border-gray-200 mt-16">
+  <div class="max-w-5xl mx-auto px-4 py-12">
+    <div class="grid gap-8 md:grid-cols-4">
+      <div>
+        <a href="/" class="font-heading text-lg font-bold text-gray-900">{siteName}</a>
+        <p class="mt-2 text-sm text-gray-500 leading-relaxed">
+          Clear, human-written explanations of the concepts that shape our world.
+        </p>
+      </div>
+
+      {categoryGroups.map(group => (
+        <div>
+          <h3 class="font-heading text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">
+            {group.label}
+          </h3>
+          <ul class="space-y-2 text-sm">
+            {group.items.map(item => (
+              <li>
+                <a href={`/category/${item.slug}`} class="text-gray-500 hover:text-primary transition-colors">
+                  {item.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-12 pt-8 border-t border-gray-200 text-center text-sm text-gray-400">
+      <p>&copy; {year} {siteName}. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

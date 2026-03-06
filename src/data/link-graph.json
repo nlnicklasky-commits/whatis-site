@@ -1,0 +1,32 @@
+{
+  "blockchain": {
+    "linksTo": ["cryptocurrency", "cryptography"],
+    "linkedFrom": [],
+    "relatedArticles": ["machine-learning", "cryptocurrency", "cryptography"]
+  },
+  "cognitive-bias": {
+    "linksTo": ["behavioral-economics"],
+    "linkedFrom": [],
+    "relatedArticles": ["machine-learning", "critical-thinking", "behavioral-economics"]
+  },
+  "machine-learning": {
+    "linksTo": [],
+    "linkedFrom": [],
+    "relatedArticles": ["artificial-intelligence", "neural-network", "deep-learning"]
+  },
+  "silk-road": {
+    "linksTo": ["roman-empire", "buddhism", "globalization"],
+    "linkedFrom": [],
+    "relatedArticles": ["roman-empire", "buddhism", "globalization"]
+  },
+  "sourdough": {
+    "linksTo": ["fermentation", "gluten", "probiotics"],
+    "linkedFrom": [],
+    "relatedArticles": ["fermentation", "gluten", "probiotics"]
+  },
+  "stoicism": {
+    "linksTo": [],
+    "linkedFrom": [],
+    "relatedArticles": ["philosophy", "ethics", "mindfulness"]
+  }
+}

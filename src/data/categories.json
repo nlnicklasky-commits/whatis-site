@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "technology",
+    "label": "Technology",
+    "description": "How the tools, systems, and innovations shaping our digital world actually work — from AI and blockchain to cloud computing and cybersecurity."
+  },
+  {
+    "slug": "science",
+    "label": "Science",
+    "description": "The natural world explained — physics, chemistry, biology, astronomy, and the scientific method itself."
+  },
+  {
+    "slug": "mathematics",
+    "label": "Mathematics",
+    "description": "Numbers, patterns, and logic. From basic arithmetic concepts to the abstract structures that underpin modern science."
+  },
+  {
+    "slug": "finance",
+    "label": "Finance",
+    "description": "Money, markets, and economic decisions. Understanding the financial systems that affect everyday life."
+  },
+  {
+    "slug": "philosophy",
+    "label": "Philosophy",
+    "description": "The big questions — existence, knowledge, ethics, logic, and the nature of mind. Ideas that have shaped how we think."
+  },
+  {
+    "slug": "history",
+    "label": "History",
+    "description": "People, events, and movements that shaped the world we live in. From ancient civilizations to the modern era."
+  },
+  {
+    "slug": "psychology",
+    "label": "Psychology",
+    "description": "How the human mind works — behavior, cognition, emotion, development, and the science behind why we do what we do."
+  },
+  {
+    "slug": "health-amp-wellness",
+    "label": "Health & Wellness",
+    "description": "The human body, medicine, nutrition, and mental health. Understanding what keeps us healthy and what happens when things go wrong."
+  },
+  {
+    "slug": "economics",
+    "label": "Economics",
+    "description": "How societies allocate resources, from supply and demand to macroeconomic policy and international trade."
+  },
+  {
+    "slug": "law",
+    "label": "Law",
+    "description": "Legal concepts, systems, and principles — from constitutional law to criminal justice and intellectual property."
+  },
+  {
+    "slug": "arts-amp-culture",
+    "label": "Arts & Culture",
+    "description": "Creative expression across mediums — visual art, literature, film, architecture, and the cultural movements that define eras."
+  },
+  {
+    "slug": "social-sciences",
+    "label": "Social Sciences",
+    "description": "The study of human society — sociology, anthropology, political science, and how people organize themselves."
+  },
+  {
+    "slug": "everyday-concepts",
+    "label": "Everyday Concepts",
+    "description": "Common terms and ideas you encounter daily, explained clearly so they actually make sense."
+  },
+  {
+    "slug": "business",
+    "label": "Business",
+    "description": "How organizations operate — management, strategy, entrepreneurship, and the mechanics of running a company."
+  },
+  {
+    "slug": "education",
+    "label": "Education",
+    "description": "Learning, teaching, and educational systems — from pedagogy and curricula to the philosophy of education."
+  },
+  {
+    "slug": "sports",
+    "label": "Sports",
+    "description": "Athletics, competition, and the games we play — rules, history, and the science of physical performance."
+  },
+  {
+    "slug": "music",
+    "label": "Music",
+    "description": "Sound, rhythm, and harmony. From music theory fundamentals to genres, instruments, and the physics of sound."
+  },
+  {
+    "slug": "food-amp-drink",
+    "label": "Food & Drink",
+    "description": "Culinary concepts, cooking techniques, ingredients, and the science behind what we eat and drink."
+  },
+  {
+    "slug": "language",
+    "label": "Language",
+    "description": "How human language works — linguistics, grammar, semantics, and the remarkable system we use to communicate."
+  },
+  {
+    "slug": "engineering",
+    "label": "Engineering",
+    "description": "Applying science to solve real problems — civil, mechanical, electrical, and software engineering concepts."
+  },
+  {
+    "slug": "biology-amp-medicine",
+    "label": "Biology & Medicine",
+    "description": "Life sciences and medical knowledge — from cellular biology to clinical medicine and public health."
+  },
+  {
+    "slug": "geography",
+    "label": "Geography",
+    "description": "The Earth's landscapes, climates, peoples, and places — physical and human geography explained."
+  },
+  {
+    "slug": "religion",
+    "label": "Religion",
+    "description": "World religions, spiritual practices, and belief systems — their histories, teachings, and cultural impact."
+  },
+  {
+    "slug": "politics",
+    "label": "Politics",
+    "description": "Government, power, and public policy — how political systems work and the ideologies that drive them."
+  },
+  {
+    "slug": "marketing",
+    "label": "Marketing",
+    "description": "How businesses reach and persuade audiences — branding, advertising, digital marketing, and consumer behavior."
+  }
+]

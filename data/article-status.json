@@ -1,0 +1,8 @@
+{
+  "machine-learning": { "status": "published", "tier": "1", "category": "technology", "dateGenerated": "2026-03-06" },
+  "blockchain": { "status": "published", "tier": "1", "category": "technology", "dateGenerated": "2026-03-06" },
+  "stoicism": { "status": "published", "tier": "1", "category": "philosophy", "dateGenerated": "2026-03-06" },
+  "sourdough": { "status": "published", "tier": "3", "category": "food-and-drink", "dateGenerated": "2026-03-06" },
+  "silk-road": { "status": "published", "tier": "2", "category": "history", "dateGenerated": "2026-03-06" },
+  "cognitive-bias": { "status": "published", "tier": "1", "category": "psychology", "dateGenerated": "2026-03-06" }
+}

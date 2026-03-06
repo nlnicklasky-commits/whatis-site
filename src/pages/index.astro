@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+
+const allArticles = await getCollection('articles');
+const sortedArticles = allArticles.sort((a, b) =>
+  new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
+);
+
+// Group by category for featured sections
+const categories = [...new Set(allArticles.map(a => a.data.category))];
+const featuredByCategory = categories.slice(0, 6).map(cat => ({
+  name: cat,
+  displayName: cat.replace(/-/g, ' ').replace(/\bamp\b/g, '&'),
+  articles: sortedArticles.filter(a => a.data.category === cat).slice(0, 3),
+})).filter(c => c.articles.length > 0);
+
+const latestArticles = sortedArticles.slice(0, 6);
+---
+
+<BaseLayout
+  title="Clear Explanations of Everything"
+  description="WhatIs.site provides clear, human-written explanations of the concepts, ideas, and terms that shape our world. From technology to philosophy, science to finance."
+  canonicalUrl={siteUrl}
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-b from-blue-50 to-white py-16 px-4">
+    <div class="max-w-3xl mx-auto text-center">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+        Clear explanations of everything
+      </h1>
+      <p class="text-lg text-gray-600 leading-relaxed">
+        Human-written articles that explain the concepts, ideas, and terms that shape our world.
+        No jargon. No fluff. Just understanding.
+      </p>
+    </div>
+  </section>
+
+  <!-- Latest Articles -->
+  {latestArticles.length > 0 && (
+    <section class="max-w-5xl mx-auto px-4 py-12">
+      <h2 class="font-heading text-2xl font-bold text-gray-900 mb-8">Latest Articles</h2>
+      <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {latestArticles.map(article => (
+          <ArticleCard article={article} />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Browse by Category -->
+  {featuredByCategory.length > 0 && (
+    <section class="bg-gray-50 py-12">
+      <div class="max-w-5xl mx-auto px-4">
+        <h2 class="font-heading text-2xl font-bold text-gray-900 mb-8">Browse by Category</h2>
+        {featuredByCategory.map(cat => (
+          <div class="mb-12">
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="font-heading text-xl font-semibold text-gray-900 capitalize">{cat.displayName}</h3>
+              <a href={`/category/${cat.name}`} class="text-sm text-primary hover:underline">
+                View all &rarr;
+              </a>
+            </div>
+            <div class="grid gap-6 md:grid-cols-3">
+              {cat.articles.map(article => (
+                <ArticleCard article={article} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- All Categories listing (when no articles yet) -->
+  {allArticles.length === 0 && (
+    <section class="max-w-5xl mx-auto px-4 py-12 text-center">
+      <p class="text-gray-500 text-lg">Articles coming soon. Stay tuned.</p>
+    </section>
+  )}
+</BaseLayout>

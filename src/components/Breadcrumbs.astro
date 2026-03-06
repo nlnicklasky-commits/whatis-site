@@ -1,0 +1,30 @@
+---
+interface Props {
+  category: string;
+  title: string;
+}
+
+const { category, title } = Astro.props;
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const displayCategory = category.replace(/-/g, ' ').replace(/\bamp\b/g, '&');
+---
+
+<nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-4">
+  <ol class="flex items-center gap-1 flex-wrap">
+    <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
+    <li class="before:content-['/'] before:mx-1.5 before:text-gray-300">
+      <a href={`/category/${category}`} class="hover:text-blue-600 transition-colors capitalize">{displayCategory}</a>
+    </li>
+    <li class="before:content-['/'] before:mx-1.5 before:text-gray-300 text-gray-900 truncate max-w-xs">{title}</li>
+  </ol>
+</nav>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+    { "@type": "ListItem", "position": 2, "name": displayCategory, "item": `${siteUrl}/category/${category}` },
+    { "@type": "ListItem", "position": 3, "name": title }
+  ]
+})} />
