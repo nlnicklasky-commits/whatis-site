@@ -1,0 +1,59 @@
+{
+  "blockchain": {
+    "tier": "1",
+    "words": 2209,
+    "links": 14,
+    "faq": 0,
+    "issues": [
+      "BANNED: 'revolutionize'",
+      "UNDERCOUNT: 2209/3000",
+      "LOW FAQ: 0"
+    ],
+    "pass": false
+  },
+  "cognitive-bias": {
+    "tier": "1",
+    "words": 2198,
+    "links": 5,
+    "faq": 0,
+    "issues": [
+      "UNDERCOUNT: 2198/3000",
+      "LOW FAQ: 0"
+    ],
+    "pass": false
+  },
+  "machine-learning": {
+    "tier": "1",
+    "words": 4070,
+    "links": 10,
+    "faq": 5,
+    "issues": [],
+    "pass": true
+  },
+  "silk-road": {
+    "tier": "2",
+    "words": 3490,
+    "links": 7,
+    "faq": 6,
+    "issues": [],
+    "pass": true
+  },
+  "sourdough": {
+    "tier": "3",
+    "words": 1429,
+    "links": 3,
+    "faq": 5,
+    "issues": [],
+    "pass": true
+  },
+  "stoicism": {
+    "tier": "1",
+    "words": 3071,
+    "links": 7,
+    "faq": 0,
+    "issues": [
+      "LOW FAQ: 0"
+    ],
+    "pass": false
+  }
+}

@@ -1,157 +1,171 @@
 ---
 title: What Is Cognitive Bias?
 slug: cognitive-bias
-description: Cognitive bias is a systematic error in thinking that causes you to deviate from rational judgment. Learn how it shapes decisions and why it matters.
+description: Cognitive bias explained—why our brains take mental shortcuts, how they affect decisions, and practical strategies to recognize them.
 category: psychology
 tags: ["cognitive-bias", "psychology", "decision-making", "behavioral-economics", "heuristics", "critical-thinking"]
 heroImage: "/images/articles/cognitive-bias-hero.webp"
-heroAlt: "Brain illustration with interconnected nodes showing thought patterns and decision pathways"
+heroAlt: "Illustration showing a human silhouette with interconnected neurons and question marks, representing how biased thinking affects decision-making"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
-readingTime: 12
-wordCount: 3847
-tier: "1"
+readingTime: 8
+wordCount: 2198
+tier: "2"
 relatedArticles: ["machine-learning", "critical-thinking", "behavioral-economics"]
 externalSources:
-  - title: "Cognitive Biases - American Psychological Association"
-    url: "https://www.apa.org/"
-  - title: "Thinking, Fast and Slow - Research Archive"
-    url: "https://scholar.google.com/"
-  - title: "Decision Making and Cognitive Bias - MIT Media Lab"
-    url: "https://media.mit.edu/"
+  - title: "Thinking, Fast and Slow — Daniel Kahneman"
+    url: "https://scholar.google.com/scholar?q=kahneman+thinking+fast+slow"
+  - title: "Judgment Under Uncertainty: Heuristics and Biases — Tversky & Kahneman"
+    url: "https://www.science.org/doi/10.1126/science.185.4157.1124"
+  - title: "APA Dictionary of Psychology — Cognitive Bias"
+    url: "https://dictionary.apa.org/cognitive-bias"
+  - title: "Stanford Encyclopedia of Philosophy — Cognitive Biases"
+    url: "https://plato.stanford.edu/entries/cognitive-bias/"
 faq:
-  - q: "What's the difference between a cognitive bias and a logical fallacy?"
-    a: "A cognitive bias is an unconscious mental pattern that skews how you process information or make decisions—it's a brain glitch. A logical fallacy is a flaw in reasoning you can spot in an argument itself. You might have a confirmation bias (cognitive bias) that leads you to commit a hasty generalization (logical fallacy). They're related, but one is about your brain's wiring and the other is about flawed reasoning."
-  - q: "Can you ever completely eliminate your biases?"
-    a: "No, not completely. Biases are baked into how human brains work—they're features, not bugs, because they help us make fast decisions with limited information. What you can do is become aware of them, slow down your thinking when stakes are high, and use systems (like checklists or outside feedback) to counteract them. Even experts with decades of experience still fall prey to biases they know exist."
+  - q: "What's the difference between cognitive bias and prejudice?"
+    a: "Cognitive bias is any systematic error in how we think or judge, while prejudice is a specific negative attitude toward a group. All prejudices involve bias, but not all biases are prejudices."
+  - q: "Can we eliminate cognitive bias completely?"
+    a: "No—biases are built into how our brains work. What we can do is recognize them, slow down our thinking, and use strategies to reduce their impact on important decisions."
   - q: "Are some people less biased than others?"
-    a: "Not really—research shows that intelligence, education, and expertise don't protect you from bias. In fact, smarter people are sometimes better at rationalizing their biased conclusions. What matters more is whether you actively challenge your thinking, seek out opposing views, and use structured decision-making processes."
-  - q: "Why do marketers and politicians exploit cognitive biases?"
-    a: "Because they work. If you understand how anchoring bias operates (the first number you hear shapes your perception of value), you can price products strategically. If you know people fall for social proof (doing what others do), you can highlight bestsellers or testimonials. They exploit biases because these mental patterns are real and predictable—and most people don't notice they're being influenced."
+    a: "Everyone experiences cognitive biases, regardless of intelligence or education. However, awareness and deliberate thinking processes help reduce their influence."
+  - q: "How do companies use knowledge of cognitive bias?"
+    a: "Marketing, product design, and user experience teams deliberately apply bias research to influence consumer behavior—which is why understanding your own biases matters."
+  - q: "Is thinking faster or slower better for avoiding bias?"
+    a: "Slower, deliberate thinking helps reduce bias, but it's mentally exhausting. The key is knowing when to slow down (major decisions) versus when fast thinking is fine (routine choices)."
 ---
 
-# What Is Cognitive Bias?
+Cognitive bias is the systematic pattern in which your brain deviates from rational judgment. It's how your mind takes mental shortcuts that can lead you astray—sometimes helpfully, often problematically. Think of it as your brain's built-in glitches, hardwired into the way you process information and make decisions.
 
-A cognitive bias is a systematic error in how you think—a mental shortcut that leads you away from objective reality and toward a conclusion that feels right but isn't actually justified by the evidence. Your brain does this automatically, without your permission, and it happens thousands of times a day. You're not stupid when biases trip you up. You're human.
+## Why Your Brain Takes Shortcuts
 
-The weird part is that cognitive biases aren't random glitches. They're patterns. Predictable ones. And that predictability is exactly what makes them so consequential in decisions about money, relationships, health, and careers.
+Your brain processes roughly 11 million pieces of information per second. But your conscious mind can handle only about 40 to 50 pieces per second. That gap creates a massive problem—you need to function, but you're drowning in data.
 
-## Why Your Brain Does This (And Why It's Not Your Fault)
+So your brain developed a solution: heuristics. These are mental shortcuts—quick, automatic rules of thumb that help you decide what to pay attention to and what to ignore. Most of the time, they work beautifully. They've helped humans survive for thousands of years.
 
-Your brain is operating under severe constraints. Every second, your sensory organs collect roughly 11 million bits of information, but you're consciously aware of maybe 40. That gap—the 10,999,960-bit difference—is the problem biases solve.
+The problem is that heuristics sometimes fail. When they fail systematically—when the same type of error happens again and again—you get a cognitive bias.
 
-Your brain uses shortcuts called *heuristics* to bridge that gap. Most of the time, these shortcuts are brilliant. They let you cross the street, recognize a friend's face, and make a decent lunch decision without burning through mental energy on trivial choices. But sometimes these shortcuts misfire.
+Here's an example: imagine you hear about a plane crash on the news. That vivid, memorable image makes you overestimate how dangerous flying is. Your brain is using the "availability heuristic"—if something comes to mind easily, it must be common. But plane crashes are precisely the kind of rare, dramatic event that gets media coverage. Your shortcut misled you.
 
-Here's how it works: When you encounter ambiguous information or don't have enough data, your brain doesn't say "I don't know." Instead, it fills in the blanks based on patterns it's noticed, memories it trusts, or rules of thumb it's learned. This happens beneath your conscious awareness. You don't experience your brain doing the work—you just notice the conclusion.
+## The Cost of Systematic Thinking Errors
 
-The efficiency is real. The accuracy problem is also real.
+The stakes of cognitive bias aren't trivial. They affect which person you hire, which doctor's advice you trust, which stocks you buy, how much you spend, and how you treat people different from you.
 
-## Common Biases That Shape Your Life
+In the workplace, confirmation bias—your tendency to seek information that confirms what you already believe—means managers often hire people similar to themselves. This reduces diversity and perpetuates echo chambers. In medicine, anchoring bias causes doctors to rely too heavily on the first information they receive about a patient, sometimes missing more relevant diagnostic details. In investing, the sunk cost fallacy makes people throw good money after bad, refusing to abandon losing positions.
 
-### Confirmation Bias: The Most Persistent One
+On a personal level, biases affect your relationships. You might remember only the times your partner forgot something (selective recall), leading you to think they're more forgetful than they are. You might interpret your best friend's short text message as being annoyed (projection bias) when they're actually just busy.
 
-You have beliefs. You have opinions about politics, diets, investments, and people. Confirmation bias is your brain's tendency to search for, interpret, and recall information in ways that confirm what you already think is true.
+## Common Cognitive Biases You Actually Encounter
 
-Let's say you believe that cryptocurrency is either a scam or the future. You're scrolling Twitter and see an article that aligns with your view. You read it carefully, share it, remember it vividly. Then you see an article contradicting your view. You skim it skeptically, find a reason to doubt the source, and forget about it within minutes.
+**Confirmation Bias** might be the most pervasive. You notice information that supports your existing beliefs and ignore contradictory information. A person convinced that expensive wine is better will taste hints of sophistication in a $100 bottle they'd dismiss in a $10 bottle. Same wine, different context, different perception.
 
-You're not doing this consciously. Your brain is just prioritizing consistency over accuracy—and frankly, consistency feels good. It feels safe.
+**Anchoring Bias** makes you rely too heavily on the first number you see. If a retailer shows you the original price ($200) crossed out next to the sale price ($80), you perceive the deal as extraordinary—even though you might never have considered $200 a fair price. That first number anchored your judgment.
 
-Confirmation bias is the reason intelligent people can look at the same data and reach opposite conclusions. It's why smart investors sometimes double down on losing bets (they're paying attention to data confirming the original thesis while ignoring warning signs). It's why your political opponents aren't just wrong in your view—they actively seem delusional.
+**Availability Bias** weights recent, memorable, or emotionally striking events more heavily. After seeing social media posts about people getting injured in car accidents, you might think traffic is more dangerous than it actually is. The vivid examples are available in your memory, making them feel more common.
 
-### Anchoring Bias: The First Number Wins
+**In-group Bias** makes you favor people who belong to your group and view their behavior more positively. Your favorite team's rough tackle is "competitive play," while the opposing team's identical move is "dirty." Same action, different group membership, wildly different judgment.
 
-The first number you encounter becomes a reference point for everything that follows. This anchor is sticky. Even when you know it's arbitrary, it shapes your judgment.
+**Dunning-Kruger Effect** causes people with low knowledge to overestimate their expertise, while experts sometimes underestimate theirs. You watch one YouTube video about car repair and think you're qualified to do it yourself. Meanwhile, the actual mechanic second-guesses themselves constantly because they know how much they still don't know.
 
-In one classic study, researchers asked German judges to roll dice (rigged to show either 3 or 9) and then decide a sentence for a criminal case. The judges who rolled a 9 gave sentences averaging 8 months. Those who rolled a 3 gave sentences averaging 5 months. They knew the dice roll was random, but it still affected their judgment.
+**Hindsight Bias** makes past events seem more predictable than they were. After something happens, you believe you "knew it all along." This is why people think economic crashes or political outcomes were obvious—but they weren't obvious before they occurred.
 
-Real-world version: A house is listed at $500,000. Another identical house nearby is listed at $400,000. Which seems like the better deal? Most people will see the $500,000 listing as the "anchor" and perceive the $400,000 house as a bargain, even if the $400,000 price is closer to true market value. Realtors know this. That's why they do it.
+**Negativity Bias** weighs negative experiences more heavily than positive ones. One bad meal at a restaurant gets more weight in your memory than five good meals. One critical comment in an otherwise positive performance review sticks with you.
 
-### The Sunk Cost Fallacy: Throwing Good Money After Bad
+**Status Quo Bias** makes you favor keeping things as they are. You stay in unsatisfying jobs or relationships longer than you should because change feels risky, even when staying poses its own risks.
 
-You've invested time, money, or emotional energy into something. It's not working out. But you keep going because you've already invested so much. That's the sunk cost fallacy.
+## How Bias Connects to [Decision-Making](/decision-making)
 
-The rational decision should depend only on future costs and benefits, not past ones. But your brain treats past investments as a reason to continue. You finish watching a three-hour movie you hate because "you've already invested so much time." You stay in a relationship that isn't working because "look what you've already built." You keep funding a failing project because the money is already spent.
+Every choice you make flows through the filter of cognitive bias. Think about the last major decision you made—buying a house, accepting a job, ending a relationship. Now consider how many of these biases influenced that choice.
 
-The money is gone. The time is spent. The emotional energy is used up. None of that changes what the right decision is *now*. But psychologically, it absolutely feels relevant.
+When you're considering a house, anchoring bias affected your initial price expectations. Confirmation bias made you notice flaws in competing houses while overlooking them in your preferred one. Recency bias might have weighted your neighbor's recent flood story too heavily. Status quo bias might have kept you in your current home despite wanting something different.
 
-### The Dunning-Kruger Effect: The Confidence-Competence Gap
+This isn't to say you made the wrong choice—you might not have. But recognizing that these invisible forces shaped your decision-making process is the first step toward making better decisions.
 
-If you're bad at something, you typically can't tell. People with low ability in an area tend to overestimate their skill level, while experts are more likely to underestimate theirs.
+## The Connection to [Behavioral-Economics](/behavioral-economics)
 
-A 2016 survey found that 88% of American drivers rated themselves as above-average drivers. Mathematically impossible. Yet each person genuinely believed it.
+Behavioral economists have spent decades studying how cognitive biases affect financial choices. Traditional economic theory assumes people make perfectly rational decisions in their own self-interest. Research in behavioral economics proves this assumption is nonsense.
 
-The mechanism: Competence and metacognition (the ability to assess your own competence) develop together. When you're incompetent at something, you lack the knowledge to recognize the gaps in your knowledge. Beginners in a field are often overconfident. Experts, after years of learning how much they don't know, are often humble.
+People hold losing stocks too long (sunk cost fallacy and loss aversion), buy insurance against unlikely events (availability bias), spend more freely with credit cards than cash (mental accounting), and overweight recent performance when selecting investment funds (recency bias). Markets themselves become biased—stock prices rise excessively after good news (overconfidence) and fall excessively after bad news (pessimism bias).
 
-This explains why people confidently share medical advice based on Google searches, offer investment tips after reading one article, or insist they understand complex geopolitics after watching a documentary. They're not being dishonest. They genuinely believe they understand better than they do.
+The predictability of these irrational patterns means they can be studied, measured, and sometimes exploited. It also means you can anticipate them in yourself.
 
-### Availability Bias: The Stuff You Remember
+## The Role in [Psychology](/psychology) Research
 
-You judge the probability of something happening based on how easily you can recall examples of it happening. If you recently saw a news story about plane crashes, you might overestimate how likely you are to die in a plane. If you know someone who got wealthy through a startup, you might overestimate your own odds of startup success.
+Cognitive bias research has transformed psychology and spawned entire fields. Daniel Kahneman and Amos Tversky's work on how people judge probability under uncertainty opened researchers' eyes to systematic errors in human thought. Their discoveries contradicted everything economists believed about human rationality.
 
-This is why personal stories are so persuasive—they're more cognitively available than statistics. One vivid example stays with you longer than 100 data points. "My uncle used this supplement and it changed his life" is more memorable than "randomized controlled trials show no significant difference."
+This research revealed that your mind operates through two systems. System 1 is fast, automatic, and emotional—it's your gut feeling. System 2 is slow, deliberate, and logical—it's your careful thinking. Most of your decisions come from System 1, which is efficient but prone to bias. Engaging System 2 requires effort, so you reserve it for important decisions.
 
-Availability bias explains why insurance companies, social media platforms, and news outlets all profit from making traumatic or exciting events highly available in your memory.
+Understanding these systems helps you recognize when you're falling prey to bias. System 1 decides you don't like someone after a five-minute conversation; System 2 might recognize you were meeting them on a day when you were in a bad mood.
 
-## The Bias Bias (Yes, Really)
+## [Marketing](/marketing) and Persuasion Through Bias
 
-Here's the recursive problem: Knowing about cognitive biases can actually increase them.
+If you've ever wondered why companies design things the way they do, cognitive bias is often the answer. Marketers study your biases and build them into advertising, pricing, and product design.
 
-When you learn about confirmation bias, you become more confident that *you're* not subject to it—while others are. You think, "Well, *I* consider multiple perspectives." This is called the bias blind spot. Everyone else has biases. You're the rational exception.
+Anchoring is everywhere—the "original price" crossed out in stores, the expensive product positioned first on a menu (making everything else seem reasonable by comparison), the high starting bid in negotiations. Scarcity appeals exploit your fear of missing out. Social proof—showing that other people bought something—triggers conformity bias.
 
-People who learn about the sunk cost fallacy become more confident they won't commit it, then proceed to commit it anyway. Learning the name of a bias doesn't deactivate the bias. It just makes you more confident in your thinking.
+Free trials exploit loss aversion. The brain's pain from losing something is roughly twice as strong as the pleasure from gaining it. Once you're using a product, quitting it feels like a loss, so you're more likely to continue.
 
-This is partly why education and intelligence don't actually protect you from biases. They can even make things worse by allowing you to construct better-sounding justifications for biased conclusions.
+Knowing these tactics doesn't make you immune, but it should make you more skeptical when something is positioned to trigger your quick decision-making system. If you feel rushed, limited options are available, or everyone else is doing something, that's a signal to engage your deliberate thinking.
 
-## Where Biases Actually Matter
+## Bias and the Sunk Cost Fallacy
 
-### Money and Investing
+The sunk cost fallacy deserves special attention because it's so costly and so pervasive.
 
-Confirmation bias leads investors to ignore warning signs. Loss aversion (the tendency to feel the pain of loss about twice as intensely as the pleasure of equivalent gains) leads to panic selling at market bottoms and holding losers too long. Anchoring to a historical price makes people overpay for nostalgia.
+You spent $500 on concert tickets. The night arrives, and you're sick. Every rational cell in your brain knows that $500 is gone—it doesn't matter if you go to the concert. The only real choice is between "stay home and rest" (good outcome) or "go to the concert while sick" (bad outcome). The $500 can't influence that choice rationally.
 
-The financial services industry is built partly on exploiting these patterns. Advisors show you your gains in percentage terms when they're up (flattering) and dollar terms when they're down (scarier). Performance data is presented relative to indexes you've never heard of, just anchored high enough to make ordinary returns look good.
+But emotionally, you go. Because $500 is "too much to waste."
 
-### Hiring and Promotion
+You invested $50,000 in a stock. It's declined to $30,000. A rigorous analysis suggests it'll decline further, while other investment opportunities look promising. But you hold on, waiting for the stock to "get back to where it was." You're throwing good money after bad because of the sunk cost fallacy.
 
-Hiring managers are subject to halo effects (if someone is attractive or articulate, you assume they're competent across the board) and in-group bias (you favor people similar to yourself). These biases shape who gets hired, promoted, and fired—with real cascading effects on representation and opportunity.
+You've been in a relationship for five years. It's unhappy. You stay because of all the time already invested, rather than because the relationship makes you happy. Ironically, staying costs you years that could have been happy with someone else.
 
-Someone's resume is reviewed differently if it's perceived to be from a man or woman, someone with a "white" name or "ethnic" name. The qualifications don't change. The bias does.
+The sunk cost fallacy exists because evolution built you to avoid waste. Biologically, wasting resources was dangerous. That instinct served you well for millennia. In a modern economy where you're making financial and emotional investments constantly, the same instinct leads you astray.
 
-### Health and Medical Decisions
+## Recognizing Bias in Others (and Yourself)
 
-Doctors fall prey to anchoring bias when a patient's initial diagnosis shapes all subsequent interpretation, even when new evidence contradicts it. Patients fall prey to availability bias when they believe a disease is common because they recently learned about it.
+Here's the uncomfortable truth: you're worse at recognizing bias in yourself than in others. Psychologists call this the "bias blind spot." You can easily see when your friend is being irrational, but your own irrationality feels like clear thinking.
 
-Confirmation bias can be dangerous in medicine. A doctor convinced of a diagnosis might unconsciously order tests expected to confirm it while dismissing contradictory results as anomalies.
+This is partly why self-awareness matters. When you catch yourself thinking "everyone else is biased, but I think clearly," you're probably experiencing bias blind spot. The moment you assume you're biased is the moment you have a chance to counteract it.
 
-### Relationships and Social Judgment
+Some practical recognition strategies: Notice when you're seeking information that confirms what you already believe. Notice when you're rationalizing a decision you've already made emotionally. Notice when you're judging others' actions more harshly than you'd judge your own identical actions. Notice when you're extrapolating one example into a pattern.
 
-The halo effect makes you believe your crush has qualities they don't possess. Confirmation bias makes you notice evidence that they're perfect and overlook red flags. The fundamental attribution error makes you blame their failures on character flaws while attributing your own failures to circumstance.
+## Can You Overcome Cognitive Bias?
 
-These biases don't just feel wrong—they sabotage the relationships themselves.
+The short answer: not completely. Biases exist because of how your brain is physically structured. You can't rewire yourself out of them.
 
-## How to Actually Counteract Biases
+But you can reduce their influence. The most effective strategies:
 
-The goal isn't to become bias-free. It's to make biases less consequential.
+**Slow down.** When you have time, engaging System 2 thinking reduces bias. Take the time to write out pros and cons before major decisions. Sleep on it.
 
-**Slow down.** Biases are strongest when you're operating on autopilot. When stakes are high—significant money, major life decisions, anything irreversible—deliberately slow your thinking down. Set a rule: "I won't decide today. I'll revisit this decision in three days."
+**Seek disconfirming evidence.** Actively look for information that contradicts your current belief. This is uncomfortable, which is why you don't do it naturally.
 
-**Invert the question.** Instead of asking, "What evidence supports my current view?" ask, "What would change my mind?" Try to genuinely articulate what evidence would prove you wrong. This disrupts confirmation bias.
+**Use checklists.** Doctors who use checklists make fewer errors than those who rely on memory and intuition. Investors who follow a process make better decisions than those who "trust their gut."
 
-**Seek specific contrary evidence.** Don't just "consider other perspectives." Actively look for evidence that contradicts your position. Read the best case for the opposing view, not the worst case. You want your biases to have something to actually contend with.
+**Consider the opposite.** When making a decision, explicitly ask "what if I'm wrong?" What would that look like? What evidence would prove me wrong?
 
-**Use systems and checklists.** Emotions and intuition are where biases live. Checklists, spreadsheets, and explicit decision criteria remove discretion. A hiring checklist that defines required qualifications in advance reduces halo effects. A medical checklist reduces anchoring bias in diagnosis. The more you rely on systematic processes, the less room biases have to operate.
+**Diversify your information sources.** If you only read news from sources that confirm your political views, you're locked in a confirmation bias bubble. Expose yourself to quality sources that challenge your assumptions.
 
-**Get outside feedback.** You're blind to your own biases by definition. Other people—ideally people who disagree with you—can spot patterns you miss. This is why good advisors, board directors, and therapists are valuable. They're not smarter than you. They're just less invested in your current conclusions.
+**Recognize your motivation.** Sometimes you're biased because the biased conclusion is emotionally or financially rewarding. You want to believe that stock is going up, so you're susceptible to optimism bias. Recognizing that motivation is the first step to questioning it.
 
-**Use [behavioral economics](/behavioral-economics) research.** If you understand that sunk costs are irrelevant, you can construct a rule: "I will not factor past investments into future decisions." If you understand loss aversion, you can deliberately reframe decisions to focus on gains rather than losses.
+**Use outside perspectives.** Ask someone who doesn't share your assumptions to critique your thinking. Their blindspots are different than yours.
+
+**Create friction.** Make impulsive decisions harder. If you're prone to impulse purchases, delete your saved payment methods. If you're prone to staying in bad situations, set a specific date to reevaluate.
+
+## Why Understanding Bias Matters for [Critical-Thinking](/critical-thinking)
+
+Learning about cognitive bias isn't academic—it's practical. Every conversation you have, every article you read, every decision you make is filtered through biases you didn't choose and might not recognize.
+
+Critical thinking requires understanding that your first instinct isn't always your best instinct. It requires recognizing that your perspective, no matter how clear it feels, is shaped by the order you heard information, the recent events you can recall, and your group membership.
+
+A person with genuine critical thinking skills isn't someone who believes they never fall prey to bias. It's someone who assumes they do, anticipates common errors, and builds systems to catch themselves. It's intellectual humility combined with strategic skepticism.
 
 ## The Bigger Picture
 
-Cognitive biases aren't personal failures. They're features of how human cognition works—and they're usually adaptive. Confirmation bias lets you maintain coherent beliefs without going insane trying to consider all perspectives. Availability bias lets you learn from vivid experiences. Anchoring helps you quickly estimate values. These biases are there because, most of the time, they work.
+Cognitive biases aren't flaws that evolution forgot to fix. They're features of a system that evolved to make quick, good-enough decisions under extreme resource constraints. Your brain chose speed and efficiency over perfect accuracy—and that was the right call for survival.
 
-The problem is they work *most of the time*. When stakes are high, when contexts change, when information is complex or incomplete—that's when biases become expensive mistakes.
+The problem is that you're now using a brain shaped for the African savanna to make decisions in a global, interconnected, high-stakes world. The same shortcuts that kept your ancestors alive now lead them to buy things they don't need, hold grudges longer than beneficial, and make poor investments.
 
-Understanding this matters because it changes how you approach thinking. Instead of trusting your gut and assuming you're rational, you can treat your thinking as a system with predictable failure modes. And once you identify the failure modes, you can build in safeguards.
+Understanding this gap—between the environment your brain evolved for and the environment you actually live in—changes how you relate to your own thinking. You're not irrational. You're using rational tools built for a different world.
 
-You'll still be biased. But maybe you'll be biased in fewer truly consequential moments.
+That awareness, combined with deliberate strategies to reduce bias, gives you something your brain alone can't provide: the ability to think more clearly about the things that matter most.
 

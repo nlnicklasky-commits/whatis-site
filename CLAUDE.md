@@ -87,13 +87,47 @@ Controlled by `PUBLIC_AD_NETWORK` env var. Currently set to `none`. Positions:
 
 ## Commands
 
-When working on this project, the following operations are common:
+```bash
+npm run build      # Build the site — must pass before deploying
+npm run dev        # Local dev server at localhost:4321
+npm run preview    # Preview production build locally
+npx astro check    # Type-check content collections
+```
 
-- **Generate article:** Research topic → write markdown → save to `src/content/articles/{slug}.md`
-- **Build link graph:** Read all articles → compute similarity → output `src/data/link-graph.json`
-- **Audit:** Check all articles against quality/SEO/humanization rules → output report
+## Common Workflows
+
+- **Generate article:** Research topic → write markdown → save to `src/content/articles/{slug}.md` → update `data/article-status.json`
+- **Batch generate:** Read `data/topics-master.json` → filter ungenerated → write articles → update status → build → push
+- **Build link graph:** Read all articles → extract internal links → output `src/data/link-graph.json`
+- **Audit:** Check all articles against quality/SEO/humanization rules → output `data/audit-report.json`
 - **Edit:** Make surgical, targeted edits based on audit or feedback — never rewrite whole articles
-- **Build:** `npm run build` — must complete without errors before deploying
+- **Deploy:** `npm run build` → `git add/commit/push` → Vercel auto-deploys from main
+
+## Subagents
+
+Custom agents are in `.claude/agents/`:
+- `article-writer.md` — Generates a single publication-ready article
+- `content-auditor.md` — Audits articles for quality, SEO, and humanization compliance
+- `build-deployer.md` — Builds, verifies, commits, and pushes for deployment
+
+## Astro 5 Gotchas
+
+These are known issues that have already been solved. DO NOT revert these patterns:
+
+1. **Content collections use glob loader, NOT `type: 'content'`.**
+   The schema in `src/content/config.ts` uses `loader: glob({ pattern: '**/*.md', base: './src/content/articles' })`.
+   Do NOT change this to `type: 'content'` — it breaks the `slug` field.
+
+2. **Rendering uses `render()` from `astro:content`, NOT `article.render()`.**
+   In `src/pages/[...slug].astro`: `import { render } from 'astro:content'` then `const { Content, headings } = await render(article)`.
+   Do NOT change this to `article.render()` — that method doesn't exist with the glob loader.
+
+3. **Tailwind must be v3, NOT v4.**
+   `@astrojs/tailwind@6` requires `tailwindcss@^3.0.24`. Do NOT upgrade to Tailwind v4.
+
+4. **Hero images fall back to placeholder.**
+   The ArticleLayout has `onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"`.
+   Missing images show a blue placeholder, not broken image icons.
 
 ## Environment Variables (Vercel)
 

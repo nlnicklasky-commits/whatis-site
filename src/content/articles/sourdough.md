@@ -9,8 +9,8 @@ heroAlt: "A freshly baked sourdough loaf with a crackling golden crust, scored i
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
-readingTime: 7
-wordCount: 1418
+readingTime: 5
+wordCount: 1429
 tier: "3"
 relatedArticles: ["fermentation", "gluten", "probiotics"]
 externalSources:

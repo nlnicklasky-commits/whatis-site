@@ -24,9 +24,10 @@ const { data } = article;
     alt={data.heroAlt}
     width="400"
     height="225"
-    class="w-full aspect-video object-cover"
+    class="w-full aspect-video object-cover bg-gray-100"
     loading="lazy"
     decoding="async"
+    onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
   />
   <div class="p-4">
     <div class="flex items-center gap-2 mb-2 text-xs text-gray-500">
