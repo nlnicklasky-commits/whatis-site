@@ -30,15 +30,21 @@ const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content={siteName} />
-  {ogImage && <meta property="og:image" content={ogImage} />}
+  <meta property="og:image" content={ogImage || `${siteUrl}/og-image.png`} />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
-  {ogImage && <meta name="twitter:image" content={ogImage} />}
+  <meta name="twitter:image" content={ogImage || `${siteUrl}/og-image.png`} />
 
-  <link rel="icon" href="/favicon.ico" />
+  <!-- Favicons -->
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <meta name="theme-color" content="#2563eb" />
 
   <!-- Preconnect to font CDNs -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -48,8 +54,11 @@ const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   <slot name="head" />
 </head>
 <body class="bg-white text-gray-900 font-body min-h-screen flex flex-col">
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-blue-600 focus:text-white focus:px-4 focus:py-2 focus:rounded focus:text-sm focus:font-medium">
+    Skip to main content
+  </a>
   <Header />
-  <main class="flex-1">
+  <main id="main-content" class="flex-1">
     <slot />
   </main>
   <Footer />

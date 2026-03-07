@@ -12,7 +12,7 @@ interface Props {
 const { category, description, articles } = Astro.props;
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
 const canonicalUrl = `${siteUrl}/category/${category}`;
-const displayName = category.replace(/-/g, ' ').replace(/\bamp\b/g, '&');
+const displayName = category.replace(/-/g, ' ').replace(/\bamp\b/g, '&').replace(/\b\w/g, c => c.toUpperCase());
 ---
 
 <BaseLayout
