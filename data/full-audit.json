@@ -1,0 +1,5661 @@
+{
+  "total": 1612,
+  "yaml_errors": [],
+  "missing_fields": [],
+  "word_count_fail": [
+    {
+      "slug": "abacus",
+      "tier": "3",
+      "words": 1105,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "acupressure",
+      "tier": "2",
+      "words": 1483,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "acupuncture",
+      "tier": "2",
+      "words": 1859,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "african-history",
+      "tier": "2",
+      "words": 1839,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "aikido",
+      "tier": "3",
+      "words": 1041,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "alchemy",
+      "tier": "2",
+      "words": 1620,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "allergies",
+      "tier": "2",
+      "words": 1745,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "american-football",
+      "tier": "3",
+      "words": 1163,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "american-history",
+      "tier": "2",
+      "words": 1788,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "ancient-egyptian-history",
+      "tier": "2",
+      "words": 1753,
+      "min": 2000,
+      "max": 3000
+    },
+    {
+      "slug": "angling",
+      "tier": "3",
+      "words": 1111,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "animation",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "antiques-collecting",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "aquariums",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "arabic-language",
+      "tier": "3",
+      "words": 1054,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "archery",
+      "tier": "3",
+      "words": 970,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "architecture",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "art-history",
+      "tier": "3",
+      "words": 1026,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "artisan-bread-making",
+      "tier": "3",
+      "words": 1063,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "athletics",
+      "tier": "3",
+      "words": 901,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "automotive-repair",
+      "tier": "3",
+      "words": 1025,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "backgammon",
+      "tier": "3",
+      "words": 923,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "backpacking",
+      "tier": "3",
+      "words": 1010,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "baking",
+      "tier": "3",
+      "words": 1020,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ballet",
+      "tier": "3",
+      "words": 1048,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ballroom-dancing",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "banjo",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "barbecuing",
+      "tier": "3",
+      "words": 977,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bartending",
+      "tier": "3",
+      "words": 939,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "baseball",
+      "tier": "3",
+      "words": 1064,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "basket-weaving",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "basketball",
+      "tier": "3",
+      "words": 1035,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bass-guitar",
+      "tier": "3",
+      "words": 989,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bayesian-statistics",
+      "tier": "3",
+      "words": 1028,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "beachcombing",
+      "tier": "3",
+      "words": 898,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "beadwork",
+      "tier": "3",
+      "words": 888,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "beer-brewing",
+      "tier": "3",
+      "words": 1004,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "behavioral-economics",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "billiards",
+      "tier": "3",
+      "words": 898,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "biogeography",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "biography",
+      "tier": "3",
+      "words": 922,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "biological-anthropology",
+      "tier": "3",
+      "words": 906,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bird-watching",
+      "tier": "3",
+      "words": 970,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "blacksmithing",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "blogging",
+      "tier": "3",
+      "words": 887,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "blues-music",
+      "tier": "3",
+      "words": 972,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "board-games",
+      "tier": "3",
+      "words": 975,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "boat-building",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bodybuilding",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bookbinding",
+      "tier": "3",
+      "words": 928,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bowling",
+      "tier": "3",
+      "words": 911,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "boxing",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "brazilian-jiu-jitsu",
+      "tier": "3",
+      "words": 986,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bread-making",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "bridge-card-game",
+      "tier": "3",
+      "words": 873,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "broadcasting",
+      "tier": "3",
+      "words": 881,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cabaret",
+      "tier": "3",
+      "words": 864,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cabinet-making",
+      "tier": "3",
+      "words": 929,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "calligraphy",
+      "tier": "3",
+      "words": 842,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "camera-operation",
+      "tier": "3",
+      "words": 858,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "camping",
+      "tier": "3",
+      "words": 926,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "candy-making",
+      "tier": "3",
+      "words": 813,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "canoeing",
+      "tier": "3",
+      "words": 909,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "card-games",
+      "tier": "3",
+      "words": 895,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "card-making",
+      "tier": "3",
+      "words": 1132,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "carpentry",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cartooning",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cat-breeding",
+      "tier": "3",
+      "words": 948,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "caving",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "celtic-mythology",
+      "tier": "3",
+      "words": 1086,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ceramics",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "chaos-theory",
+      "tier": "3",
+      "words": 1096,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "charcuterie",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "checkers",
+      "tier": "3",
+      "words": 931,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cheerleading",
+      "tier": "3",
+      "words": 988,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cheese-making",
+      "tier": "3",
+      "words": 994,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "chess",
+      "tier": "3",
+      "words": 1124,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "chicken-farming",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "chinese-language",
+      "tier": "3",
+      "words": 1084,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "chinese-mythology",
+      "tier": "3",
+      "words": 1106,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "choral-music",
+      "tier": "3",
+      "words": 929,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cinematography",
+      "tier": "3",
+      "words": 1028,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "circus-arts",
+      "tier": "3",
+      "words": 1023,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "civil-law",
+      "tier": "3",
+      "words": 1020,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "classical-composition",
+      "tier": "3",
+      "words": 1155,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "classical-music",
+      "tier": "3",
+      "words": 1096,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "claymation",
+      "tier": "3",
+      "words": 982,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "clowning",
+      "tier": "3",
+      "words": 1015,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cocktail-making",
+      "tier": "3",
+      "words": 998,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "coffee-roasting",
+      "tier": "3",
+      "words": 1111,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "coin-collecting",
+      "tier": "3",
+      "words": 1016,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "collectibles",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "color-theory",
+      "tier": "3",
+      "words": 1093,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comedy",
+      "tier": "3",
+      "words": 1089,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comic-book-art",
+      "tier": "3",
+      "words": 992,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comic-book-collecting",
+      "tier": "3",
+      "words": 1023,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comparative-literature",
+      "tier": "3",
+      "words": 976,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comparative-mythology",
+      "tier": "3",
+      "words": 945,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "comparative-politics",
+      "tier": "3",
+      "words": 882,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "competitive-eating",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "complex-analysis",
+      "tier": "3",
+      "words": 1166,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "composting",
+      "tier": "3",
+      "words": 995,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "computer-repair",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "computer-vision",
+      "tier": "3",
+      "words": 1079,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "confectionery",
+      "tier": "3",
+      "words": 945,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "conflict-resolution",
+      "tier": "3",
+      "words": 1065,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "construction",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "control-theory",
+      "tier": "3",
+      "words": 1047,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cooking",
+      "tier": "3",
+      "words": 1041,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "coppersmithing",
+      "tier": "3",
+      "words": 849,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "copywriting",
+      "tier": "3",
+      "words": 977,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "coral-reef-ecology",
+      "tier": "1",
+      "words": 2800,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "costume-design",
+      "tier": "3",
+      "words": 885,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "country-music",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "couponing",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "crab-fishing",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "craft-beer",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "creative-writing",
+      "tier": "3",
+      "words": 1068,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "creole-languages",
+      "tier": "3",
+      "words": 992,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "criminology",
+      "tier": "3",
+      "words": 959,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "critical-thinking",
+      "tier": "3",
+      "words": 1004,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "crochet",
+      "tier": "3",
+      "words": 972,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cross-stitch",
+      "tier": "3",
+      "words": 931,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "crossword-puzzles",
+      "tier": "3",
+      "words": 984,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cryptography",
+      "tier": "1",
+      "words": 2865,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "cryptozoology",
+      "tier": "3",
+      "words": 960,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "culinary-arts",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cultural-anthropology",
+      "tier": "3",
+      "words": 951,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "curling",
+      "tier": "3",
+      "words": 952,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "cycling",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dairy-farming",
+      "tier": "3",
+      "words": 920,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dance-history",
+      "tier": "3",
+      "words": 964,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dance",
+      "tier": "3",
+      "words": 923,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "debate",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "decorating",
+      "tier": "3",
+      "words": 909,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "detective-fiction",
+      "tier": "3",
+      "words": 908,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "digital-art",
+      "tier": "3",
+      "words": 1078,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "digital-logic",
+      "tier": "3",
+      "words": 1100,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "digital-photography",
+      "tier": "3",
+      "words": 1059,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "disaster-preparedness",
+      "tier": "3",
+      "words": 1012,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "diving",
+      "tier": "3",
+      "words": 916,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "diy-home-improvement",
+      "tier": "3",
+      "words": 1072,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dog-training",
+      "tier": "3",
+      "words": 1054,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "doll-making",
+      "tier": "3",
+      "words": 908,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dominoes",
+      "tier": "3",
+      "words": 987,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "drama",
+      "tier": "3",
+      "words": 1074,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "drawing",
+      "tier": "3",
+      "words": 994,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dressage",
+      "tier": "3",
+      "words": 950,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dried-flowers",
+      "tier": "3",
+      "words": 916,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "drumming",
+      "tier": "3",
+      "words": 1072,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "dyeing",
+      "tier": "3",
+      "words": 972,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "eastern-philosophy",
+      "tier": "3",
+      "words": 1006,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "editing",
+      "tier": "3",
+      "words": 1041,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "education",
+      "tier": "3",
+      "words": 1098,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "electricity",
+      "tier": "3",
+      "words": 1068,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "electronic-music",
+      "tier": "3",
+      "words": 1011,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "elementology",
+      "tier": "3",
+      "words": 1001,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "embroidery",
+      "tier": "3",
+      "words": 1030,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "enameling",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "energy-healing",
+      "tier": "3",
+      "words": 1141,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "english-language",
+      "tier": "3",
+      "words": 1115,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "english-literature",
+      "tier": "3",
+      "words": 1077,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "engraving",
+      "tier": "3",
+      "words": 969,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "epistemology",
+      "tier": "3",
+      "words": 1119,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "equestrianism",
+      "tier": "3",
+      "words": 1095,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "etymology",
+      "tier": "3",
+      "words": 1132,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "evolutionary-psychology",
+      "tier": "3",
+      "words": 1127,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "existentialism",
+      "tier": "3",
+      "words": 1132,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "exploration-history",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fabric-arts",
+      "tier": "3",
+      "words": 898,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fairy-tales",
+      "tier": "3",
+      "words": 993,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "falconry",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fantasy-literature",
+      "tier": "3",
+      "words": 913,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "farming",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fashion-design",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fencing",
+      "tier": "3",
+      "words": 1017,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "feng-shui",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fiction-writing",
+      "tier": "3",
+      "words": 984,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "field-hockey",
+      "tier": "3",
+      "words": 1133,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "figure-skating",
+      "tier": "3",
+      "words": 1078,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-criticism",
+      "tier": "3",
+      "words": 938,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-direction",
+      "tier": "3",
+      "words": 1012,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-editing",
+      "tier": "3",
+      "words": 1017,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-history",
+      "tier": "3",
+      "words": 938,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-noir",
+      "tier": "3",
+      "words": 972,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-production",
+      "tier": "3",
+      "words": 956,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "film-theory",
+      "tier": "3",
+      "words": 899,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "filmmaking",
+      "tier": "3",
+      "words": 1051,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fine-art",
+      "tier": "3",
+      "words": 937,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fire-safety",
+      "tier": "3",
+      "words": 1020,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "firefighting",
+      "tier": "3",
+      "words": 1042,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "first-aid",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fishing",
+      "tier": "3",
+      "words": 965,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "flemish-painting",
+      "tier": "3",
+      "words": 912,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "floral-design",
+      "tier": "3",
+      "words": 911,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "flute",
+      "tier": "3",
+      "words": 975,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "folk-art",
+      "tier": "3",
+      "words": 925,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "folk-dancing",
+      "tier": "3",
+      "words": 891,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "folk-music",
+      "tier": "3",
+      "words": 981,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "folklore",
+      "tier": "3",
+      "words": 990,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "food-preservation",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "food-styling",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "food-writing",
+      "tier": "3",
+      "words": 919,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "foraging",
+      "tier": "3",
+      "words": 915,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "foreign-policy",
+      "tier": "3",
+      "words": 1006,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "formal-languages",
+      "tier": "3",
+      "words": 971,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fountain-pen-collecting",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "four-wheel-driving",
+      "tier": "3",
+      "words": 968,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "frame-making",
+      "tier": "3",
+      "words": 908,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "french-history",
+      "tier": "3",
+      "words": 1116,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "french-horn",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fresco-painting",
+      "tier": "3",
+      "words": 928,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "fruit-growing",
+      "tier": "3",
+      "words": 971,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "functional-analysis",
+      "tier": "3",
+      "words": 991,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "furniture-design",
+      "tier": "3",
+      "words": 888,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "furniture-making",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "game-design",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "game-theory",
+      "tier": "3",
+      "words": 1104,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gaming",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gardening",
+      "tier": "3",
+      "words": 1049,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gastronomy",
+      "tier": "3",
+      "words": 942,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gemology",
+      "tier": "3",
+      "words": 912,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "glass-blowing",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gliding",
+      "tier": "3",
+      "words": 995,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "go-game",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "goat-farming",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gold-panning",
+      "tier": "3",
+      "words": 1190,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "goldsmithing",
+      "tier": "3",
+      "words": 1139,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "golf",
+      "tier": "3",
+      "words": 1166,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gothic-architecture",
+      "tier": "3",
+      "words": 1112,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gourmet-cooking",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "graffiti-art",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "grammar",
+      "tier": "3",
+      "words": 1031,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "graphic-design",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "graphology",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "greek-language",
+      "tier": "3",
+      "words": 1018,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "greek-mythology",
+      "tier": "3",
+      "words": 1093,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "grilling",
+      "tier": "3",
+      "words": 1013,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "guerrilla-marketing",
+      "tier": "3",
+      "words": 986,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "guitar",
+      "tier": "3",
+      "words": 1062,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "gymnastics",
+      "tier": "3",
+      "words": 1075,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "haiku",
+      "tier": "3",
+      "words": 1022,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hair-styling",
+      "tier": "3",
+      "words": 1008,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "handball",
+      "tier": "3",
+      "words": 996,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "handwriting-analysis",
+      "tier": "3",
+      "words": 938,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "harmonica",
+      "tier": "3",
+      "words": 1155,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "harmony",
+      "tier": "3",
+      "words": 1065,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "harp",
+      "tier": "3",
+      "words": 993,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "haute-couture",
+      "tier": "3",
+      "words": 989,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hedge-fund-management",
+      "tier": "3",
+      "words": 1064,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "heuristics",
+      "tier": "3",
+      "words": 1124,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hiking",
+      "tier": "3",
+      "words": 964,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "historical-conspiracy-theories",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "historical-linguistics",
+      "tier": "3",
+      "words": 1067,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hobby-machining",
+      "tier": "3",
+      "words": 931,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hockey",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "home-brewing",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "home-economics",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "home-education",
+      "tier": "3",
+      "words": 1076,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "home-organization",
+      "tier": "3",
+      "words": 936,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "homeopathy",
+      "tier": "3",
+      "words": 1098,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "horse-racing",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hospitality-management",
+      "tier": "3",
+      "words": 960,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hot-air-ballooning",
+      "tier": "3",
+      "words": 1040,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "houseplants",
+      "tier": "3",
+      "words": 987,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "human-evolution",
+      "tier": "3",
+      "words": 1123,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "human-resources",
+      "tier": "3",
+      "words": 976,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hunting",
+      "tier": "3",
+      "words": 1035,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "hydrogen-power",
+      "tier": "3",
+      "words": 1060,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ice-carving",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ice-climbing",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ice-hockey",
+      "tier": "3",
+      "words": 1079,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ice-skating",
+      "tier": "3",
+      "words": 1037,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "iconography",
+      "tier": "3",
+      "words": 911,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "illustration",
+      "tier": "3",
+      "words": 987,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "image-processing",
+      "tier": "3",
+      "words": 1006,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "immunology",
+      "tier": "3",
+      "words": 1078,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "impressionism",
+      "tier": "3",
+      "words": 914,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "indian-classical-music",
+      "tier": "3",
+      "words": 990,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "indian-history",
+      "tier": "3",
+      "words": 937,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "indian-mythology",
+      "tier": "3",
+      "words": 928,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "indigenous-religions",
+      "tier": "3",
+      "words": 713,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "industrial-engineering",
+      "tier": "3",
+      "words": 463,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "information-theory",
+      "tier": "3",
+      "words": 625,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "instrument-making",
+      "tier": "3",
+      "words": 875,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "intellectual-history",
+      "tier": "3",
+      "words": 692,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "intellectual-property-law",
+      "tier": "3",
+      "words": 869,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "intelligence-analysis",
+      "tier": "3",
+      "words": 695,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "interior-design",
+      "tier": "3",
+      "words": 752,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "international-development",
+      "tier": "3",
+      "words": 864,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "international-relations",
+      "tier": "3",
+      "words": 881,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "internet-of-things-iot",
+      "tier": "3",
+      "words": 901,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "interviewing-skills",
+      "tier": "3",
+      "words": 900,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ionic-architecture",
+      "tier": "3",
+      "words": 776,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "irrigation",
+      "tier": "3",
+      "words": 804,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "islam",
+      "tier": "3",
+      "words": 862,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "italian-language",
+      "tier": "3",
+      "words": 845,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "jainism",
+      "tier": "3",
+      "words": 800,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "japanese-art",
+      "tier": "3",
+      "words": 774,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "japanese-language",
+      "tier": "3",
+      "words": 790,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "japanese-mythology",
+      "tier": "3",
+      "words": 880,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "jazz-music",
+      "tier": "3",
+      "words": 872,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "jewelry-making",
+      "tier": "3",
+      "words": 762,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "jigsaw-puzzles",
+      "tier": "3",
+      "words": 782,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "journalism",
+      "tier": "3",
+      "words": 770,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "judo",
+      "tier": "3",
+      "words": 748,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "juggling",
+      "tier": "3",
+      "words": 788,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "jukebox-collecting",
+      "tier": "3",
+      "words": 752,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "kabbalah",
+      "tier": "3",
+      "words": 800,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "kites",
+      "tier": "3",
+      "words": 1151,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "knex",
+      "tier": "3",
+      "words": 1049,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "knitting",
+      "tier": "3",
+      "words": 1064,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "knot-tying",
+      "tier": "3",
+      "words": 1088,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "korean-history",
+      "tier": "3",
+      "words": 1107,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "korean-language",
+      "tier": "3",
+      "words": 1074,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lacrosse",
+      "tier": "3",
+      "words": 972,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "landscape-architecture",
+      "tier": "3",
+      "words": 1004,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "landscape-painting",
+      "tier": "3",
+      "words": 1027,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "landscaping",
+      "tier": "3",
+      "words": 1007,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "language-acquisition",
+      "tier": "3",
+      "words": 1131,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lapidary",
+      "tier": "3",
+      "words": 1040,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "laser-technology",
+      "tier": "3",
+      "words": 1034,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "latin-language",
+      "tier": "3",
+      "words": 1007,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "latticework",
+      "tier": "3",
+      "words": 992,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lawn-care",
+      "tier": "3",
+      "words": 1013,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "leadership",
+      "tier": "3",
+      "words": 1096,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "leatherworking",
+      "tier": "3",
+      "words": 1095,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "legends",
+      "tier": "3",
+      "words": 1048,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lego-building",
+      "tier": "3",
+      "words": 1093,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lexicography",
+      "tier": "3",
+      "words": 904,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "light-opera",
+      "tier": "3",
+      "words": 925,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lighting-design",
+      "tier": "3",
+      "words": 996,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "literary-criticism",
+      "tier": "3",
+      "words": 1034,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "literary-theory",
+      "tier": "3",
+      "words": 1097,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "literature",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lithography",
+      "tier": "3",
+      "words": 1115,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "livestock-farming",
+      "tier": "3",
+      "words": 1018,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lobbying",
+      "tier": "3",
+      "words": 1044,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lobster-fishing",
+      "tier": "3",
+      "words": 1004,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "locksmithing",
+      "tier": "3",
+      "words": 1010,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "logic-puzzles",
+      "tier": "3",
+      "words": 1077,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "logic",
+      "tier": "3",
+      "words": 1074,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "loom-weaving",
+      "tier": "3",
+      "words": 1056,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "lumberjacking",
+      "tier": "3",
+      "words": 1120,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "luthiery",
+      "tier": "3",
+      "words": 1102,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "magic-illusion",
+      "tier": "3",
+      "words": 919,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mahjong",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "makeup-artistry",
+      "tier": "3",
+      "words": 1035,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "management",
+      "tier": "3",
+      "words": 1079,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mandarin-chinese",
+      "tier": "3",
+      "words": 1118,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mandolin",
+      "tier": "3",
+      "words": 925,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "manicuring",
+      "tier": "3",
+      "words": 924,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "maori-culture",
+      "tier": "3",
+      "words": 1004,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "marathon-running",
+      "tier": "3",
+      "words": 1054,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "marine-navigation",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "marionettes",
+      "tier": "3",
+      "words": 975,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "marksmanship",
+      "tier": "3",
+      "words": 999,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "martial-arts",
+      "tier": "3",
+      "words": 1016,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "marxism",
+      "tier": "3",
+      "words": 1090,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "masonry",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "measure-theory",
+      "tier": "3",
+      "words": 1147,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "media-production",
+      "tier": "3",
+      "words": 902,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "media-studies",
+      "tier": "3",
+      "words": 965,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "medical-terminology",
+      "tier": "3",
+      "words": 997,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "medieval-history",
+      "tier": "3",
+      "words": 963,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "meditation",
+      "tier": "3",
+      "words": 1064,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "memory-techniques",
+      "tier": "3",
+      "words": 1010,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mens-fashion",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "merchant-marine",
+      "tier": "3",
+      "words": 969,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "metal-detecting",
+      "tier": "3",
+      "words": 968,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "metaphysics",
+      "tier": "3",
+      "words": 987,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "military-strategy",
+      "tier": "3",
+      "words": 886,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "millinery",
+      "tier": "3",
+      "words": 886,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mime",
+      "tier": "3",
+      "words": 757,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "miniature-golf",
+      "tier": "3",
+      "words": 840,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "miniature-painting",
+      "tier": "3",
+      "words": 705,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "minimalism",
+      "tier": "3",
+      "words": 803,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mixology",
+      "tier": "3",
+      "words": 755,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mnemotechnics",
+      "tier": "3",
+      "words": 786,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "model-building",
+      "tier": "3",
+      "words": 747,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "model-railroading",
+      "tier": "3",
+      "words": 856,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "modern-art",
+      "tier": "3",
+      "words": 896,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "modern-dance",
+      "tier": "3",
+      "words": 911,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "molecular-gastronomy",
+      "tier": "3",
+      "words": 693,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "monarchy",
+      "tier": "3",
+      "words": 801,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mongol-history",
+      "tier": "3",
+      "words": 873,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "montessori-method",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mosaic-art",
+      "tier": "3",
+      "words": 660,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "motorcycle-maintenance",
+      "tier": "3",
+      "words": 692,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "motorcycle-racing",
+      "tier": "3",
+      "words": 724,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mountain-biking",
+      "tier": "3",
+      "words": 824,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mountaineering",
+      "tier": "3",
+      "words": 1122,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "movie-memorabilia",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mural-painting",
+      "tier": "3",
+      "words": 964,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "museology",
+      "tier": "3",
+      "words": 986,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mushroom-hunting",
+      "tier": "3",
+      "words": 991,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-composition",
+      "tier": "3",
+      "words": 982,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-education",
+      "tier": "3",
+      "words": 948,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-history",
+      "tier": "3",
+      "words": 998,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-performance",
+      "tier": "3",
+      "words": 1052,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-production",
+      "tier": "3",
+      "words": 1080,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "music-theory",
+      "tier": "3",
+      "words": 1036,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "musical-theatre",
+      "tier": "3",
+      "words": 1008,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mystery-fiction",
+      "tier": "3",
+      "words": 979,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "mythology",
+      "tier": "3",
+      "words": 1029,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "narratology",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "national-parks",
+      "tier": "3",
+      "words": 1183,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "natural-building",
+      "tier": "3",
+      "words": 938,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "natural-disasters",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "navigation",
+      "tier": "3",
+      "words": 1052,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "negotiation",
+      "tier": "3",
+      "words": 1125,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "neoclassicism",
+      "tier": "3",
+      "words": 892,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "neolithic-history",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "neural-networks",
+      "tier": "3",
+      "words": 1042,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "new-testament-studies",
+      "tier": "3",
+      "words": 1036,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "newspaper-history",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "nihilism",
+      "tier": "3",
+      "words": 944,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "nineteenth-century-history",
+      "tier": "3",
+      "words": 1061,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "norse-mythology",
+      "tier": "3",
+      "words": 1076,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "notary-public",
+      "tier": "3",
+      "words": 1016,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "novel-writing",
+      "tier": "3",
+      "words": 1063,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "nuclear-physics",
+      "tier": "3",
+      "words": 1029,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "numismatics",
+      "tier": "3",
+      "words": 946,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "nursery-management",
+      "tier": "3",
+      "words": 998,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "object-oriented-programming",
+      "tier": "3",
+      "words": 1088,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "off-roading",
+      "tier": "3",
+      "words": 975,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "oil-painting",
+      "tier": "3",
+      "words": 1010,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "olive-oil-production",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "opera",
+      "tier": "3",
+      "words": 996,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "operations-management",
+      "tier": "3",
+      "words": 970,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "optimization",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "oratory",
+      "tier": "3",
+      "words": 1001,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "orchestration",
+      "tier": "3",
+      "words": 1000,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "orchid-growing",
+      "tier": "3",
+      "words": 939,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "organic-farming",
+      "tier": "3",
+      "words": 1017,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "organizational-behavior",
+      "tier": "3",
+      "words": 988,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "origami",
+      "tier": "3",
+      "words": 930,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "outdoor-survival",
+      "tier": "3",
+      "words": 1074,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pageantry",
+      "tier": "3",
+      "words": 925,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "paintball",
+      "tier": "3",
+      "words": 927,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "painting",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "paleoanthropology",
+      "tier": "3",
+      "words": 1010,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "paleoclimatology",
+      "tier": "3",
+      "words": 1092,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pali-language",
+      "tier": "3",
+      "words": 885,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pantomime",
+      "tier": "3",
+      "words": 911,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "paper-making",
+      "tier": "3",
+      "words": 989,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "papier-mch",
+      "tier": "3",
+      "words": 791,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "paragliding",
+      "tier": "3",
+      "words": 1035,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "parenting",
+      "tier": "3",
+      "words": 1034,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "parkour",
+      "tier": "3",
+      "words": 1022,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "parliamentary-procedure",
+      "tier": "3",
+      "words": 1020,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "particle-physics",
+      "tier": "3",
+      "words": 1069,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pastry-arts",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "performance-art",
+      "tier": "3",
+      "words": 1019,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "perfume-making",
+      "tier": "3",
+      "words": 942,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "periodontology",
+      "tier": "3",
+      "words": 970,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "permaculture",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "personal-growth",
+      "tier": "3",
+      "words": 989,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "perspective-drawing",
+      "tier": "3",
+      "words": 1005,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pet-care",
+      "tier": "3",
+      "words": 958,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pet-grooming",
+      "tier": "3",
+      "words": 882,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "phenomenology",
+      "tier": "3",
+      "words": 1018,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philately",
+      "tier": "3",
+      "words": 1060,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy-of-language",
+      "tier": "3",
+      "words": 1115,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy-of-law",
+      "tier": "3",
+      "words": 1091,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy-of-mind",
+      "tier": "3",
+      "words": 1131,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy-of-music",
+      "tier": "3",
+      "words": 1041,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy-of-religion",
+      "tier": "3",
+      "words": 1047,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "philosophy",
+      "tier": "3",
+      "words": 1022,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "photographic-history",
+      "tier": "3",
+      "words": 1034,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "photolithography",
+      "tier": "3",
+      "words": 1036,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "phrenology",
+      "tier": "3",
+      "words": 962,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "physical-chemistry",
+      "tier": "3",
+      "words": 927,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "physical-comedy",
+      "tier": "3",
+      "words": 993,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "physical-education",
+      "tier": "3",
+      "words": 994,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "physiognomy",
+      "tier": "3",
+      "words": 957,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "physiology",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "piano-tuning",
+      "tier": "3",
+      "words": 1053,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "piano",
+      "tier": "3",
+      "words": 1023,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pictography",
+      "tier": "3",
+      "words": 910,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pig-farming",
+      "tier": "3",
+      "words": 966,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pilates",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pilot-training",
+      "tier": "3",
+      "words": 1003,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pipe-organ",
+      "tier": "3",
+      "words": 979,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pizza-making",
+      "tier": "3",
+      "words": 1081,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "plastering",
+      "tier": "3",
+      "words": 1011,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "plumbing",
+      "tier": "3",
+      "words": 1175,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "poker",
+      "tier": "3",
+      "words": 1193,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "political-cartoons",
+      "tier": "3",
+      "words": 901,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "political-science",
+      "tier": "3",
+      "words": 1046,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "politics",
+      "tier": "3",
+      "words": 1042,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "polynesian-culture",
+      "tier": "3",
+      "words": 1116,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pontoon-boating",
+      "tier": "3",
+      "words": 1026,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pool-billiards",
+      "tier": "3",
+      "words": 1131,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pop-art",
+      "tier": "3",
+      "words": 967,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pop-music",
+      "tier": "3",
+      "words": 988,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "popular-culture",
+      "tier": "3",
+      "words": 974,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "porcelain-making",
+      "tier": "3",
+      "words": 985,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "portrait-photography",
+      "tier": "3",
+      "words": 1060,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "portuguese-language",
+      "tier": "3",
+      "words": 986,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "post-impressionism",
+      "tier": "3",
+      "words": 1096,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pottery",
+      "tier": "3",
+      "words": 1120,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "powerlifting",
+      "tier": "3",
+      "words": 1137,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "prehistoric-art",
+      "tier": "3",
+      "words": 1093,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "preservation-food",
+      "tier": "3",
+      "words": 1040,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "press-release-writing",
+      "tier": "3",
+      "words": 957,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "printmaking",
+      "tier": "3",
+      "words": 1023,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "productivity",
+      "tier": "3",
+      "words": 1112,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "professional-wrestling",
+      "tier": "3",
+      "words": 1112,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "prop-making",
+      "tier": "3",
+      "words": 949,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "prophecy",
+      "tier": "3",
+      "words": 1003,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "prose",
+      "tier": "3",
+      "words": 936,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "proverbs",
+      "tier": "3",
+      "words": 864,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "pruning",
+      "tier": "3",
+      "words": 914,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "public-administration",
+      "tier": "3",
+      "words": 1011,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "public-policy",
+      "tier": "3",
+      "words": 1092,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "public-relations",
+      "tier": "3",
+      "words": 1007,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "public-speaking",
+      "tier": "3",
+      "words": 1097,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "publishing",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "puppetry",
+      "tier": "3",
+      "words": 976,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "quakerism",
+      "tier": "3",
+      "words": 1118,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "quantum-mechanics",
+      "tier": "3",
+      "words": 1177,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "quantum-physics",
+      "tier": "3",
+      "words": 1114,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "quilting",
+      "tier": "3",
+      "words": 960,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "race-car-driving",
+      "tier": "3",
+      "words": 1129,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "racquetball",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "radio-broadcasting",
+      "tier": "3",
+      "words": 965,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "radiocarbon-dating",
+      "tier": "3",
+      "words": 1020,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rafting",
+      "tier": "3",
+      "words": 932,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "raku-pottery",
+      "tier": "3",
+      "words": 996,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rapping",
+      "tier": "3",
+      "words": 955,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "real-analysis",
+      "tier": "3",
+      "words": 1025,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "realism-art",
+      "tier": "3",
+      "words": 899,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "recreational-flying",
+      "tier": "3",
+      "words": 898,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "recycling",
+      "tier": "3",
+      "words": 872,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "relativity",
+      "tier": "3",
+      "words": 1037,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "renaissance-art",
+      "tier": "3",
+      "words": 1027,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "reptile-keeping",
+      "tier": "3",
+      "words": 971,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "restoration-art",
+      "tier": "3",
+      "words": 901,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "restoration-automobile",
+      "tier": "3",
+      "words": 882,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rhetoric",
+      "tier": "3",
+      "words": 923,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "riddles",
+      "tier": "3",
+      "words": 860,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "riding-horse",
+      "tier": "3",
+      "words": 904,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "road-cycling",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rock-climbing",
+      "tier": "3",
+      "words": 1027,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "romance-languages",
+      "tier": "3",
+      "words": 1029,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "romance-literature",
+      "tier": "3",
+      "words": 1172,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "romanesque-architecture",
+      "tier": "3",
+      "words": 1133,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "romanticism-art",
+      "tier": "3",
+      "words": 1070,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "roofing",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rope-skipping",
+      "tier": "3",
+      "words": 1062,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rowing",
+      "tier": "3",
+      "words": 1089,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rugby",
+      "tier": "3",
+      "words": 1155,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "running",
+      "tier": "3",
+      "words": 1170,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "rural-sociology",
+      "tier": "3",
+      "words": 1120,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "russian-language",
+      "tier": "3",
+      "words": 1140,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sailing",
+      "tier": "3",
+      "words": 1100,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "salsa-dancing",
+      "tier": "3",
+      "words": 1139,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "saltwater-aquariums",
+      "tier": "3",
+      "words": 1102,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sand-art",
+      "tier": "3",
+      "words": 1052,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sanskrit",
+      "tier": "3",
+      "words": 1137,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "scholasticism",
+      "tier": "3",
+      "words": 1105,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "school-administration",
+      "tier": "3",
+      "words": 1131,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "science-fiction",
+      "tier": "3",
+      "words": 1180,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "science-journalism",
+      "tier": "3",
+      "words": 1099,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "scientific-illustration",
+      "tier": "3",
+      "words": 1054,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "scrabble",
+      "tier": "3",
+      "words": 1092,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "screen-printing",
+      "tier": "3",
+      "words": 974,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "seafood-cookery",
+      "tier": "3",
+      "words": 1058,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "seasonal-cooking",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "self-publishing",
+      "tier": "3",
+      "words": 1062,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "semantics",
+      "tier": "3",
+      "words": 1105,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sericulture",
+      "tier": "3",
+      "words": 1121,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "set-design",
+      "tier": "3",
+      "words": 1148,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "set-theory",
+      "tier": "3",
+      "words": 1102,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sewing",
+      "tier": "3",
+      "words": 1073,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "shakespearean-literature",
+      "tier": "3",
+      "words": 1159,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sheep-farming",
+      "tier": "3",
+      "words": 1028,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "shenanigans",
+      "tier": "3",
+      "words": 890,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "shoemaking",
+      "tier": "3",
+      "words": 1114,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "shooting-sports",
+      "tier": "3",
+      "words": 985,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "shorthand",
+      "tier": "3",
+      "words": 993,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "showmanship",
+      "tier": "3",
+      "words": 1082,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sign-language",
+      "tier": "3",
+      "words": 1129,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "silversmithing",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "singing",
+      "tier": "3",
+      "words": 1037,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "skateboarding",
+      "tier": "3",
+      "words": 992,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sketching",
+      "tier": "3",
+      "words": 1013,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "skiing",
+      "tier": "3",
+      "words": 1055,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "skill-based-gaming",
+      "tier": "3",
+      "words": 1062,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "skydiving",
+      "tier": "3",
+      "words": 1080,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "slavic-languages",
+      "tier": "3",
+      "words": 965,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sleight-of-hand",
+      "tier": "3",
+      "words": 803,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "small-engine-repair",
+      "tier": "3",
+      "words": 730,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "snooker",
+      "tier": "3",
+      "words": 704,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "snorkeling",
+      "tier": "3",
+      "words": 806,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "snowboarding",
+      "tier": "3",
+      "words": 809,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "soap-making",
+      "tier": "3",
+      "words": 797,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "soccer",
+      "tier": "3",
+      "words": 794,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-anthropology",
+      "tier": "3",
+      "words": 717,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-choice-theory",
+      "tier": "3",
+      "words": 886,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-commentary",
+      "tier": "3",
+      "words": 793,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-contract-theory",
+      "tier": "3",
+      "words": 693,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-darwinism",
+      "tier": "3",
+      "words": 836,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-democracy",
+      "tier": "3",
+      "words": 873,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-dynamics",
+      "tier": "3",
+      "words": 805,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-engineering",
+      "tier": "3",
+      "words": 841,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "social-work",
+      "tier": "3",
+      "words": 769,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "socialism",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sociolinguistics",
+      "tier": "3",
+      "words": 770,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sociology",
+      "tier": "3",
+      "words": 809,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "solar-sailing",
+      "tier": "3",
+      "words": 854,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "solo-performance",
+      "tier": "3",
+      "words": 750,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "songwriting",
+      "tier": "3",
+      "words": 950,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sound-design",
+      "tier": "3",
+      "words": 710,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "space-law",
+      "tier": "3",
+      "words": 538,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "spanish-language",
+      "tier": "3",
+      "words": 763,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "spearfishing",
+      "tier": "3",
+      "words": 800,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "special-effects",
+      "tier": "3",
+      "words": 1050,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "spectroscopy",
+      "tier": "3",
+      "words": 1038,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "speech-writing",
+      "tier": "3",
+      "words": 1046,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "speed-reading",
+      "tier": "3",
+      "words": 1025,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sponge-biology",
+      "tier": "3",
+      "words": 1069,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-analytics",
+      "tier": "3",
+      "words": 1058,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-broadcasting",
+      "tier": "3",
+      "words": 993,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-coaching",
+      "tier": "3",
+      "words": 1044,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-officiating",
+      "tier": "3",
+      "words": 1104,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-photography",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sports-writing",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "spreadsheet-modeling",
+      "tier": "3",
+      "words": 1089,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "squash",
+      "tier": "3",
+      "words": 1144,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stained-glass",
+      "tier": "3",
+      "words": 1029,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stamp-collecting",
+      "tier": "3",
+      "words": 1086,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stand-up-comedy",
+      "tier": "3",
+      "words": 1195,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "state-government",
+      "tier": "3",
+      "words": 741,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "statistical-modeling",
+      "tier": "3",
+      "words": 740,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stenography",
+      "tier": "3",
+      "words": 722,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stone-carving",
+      "tier": "3",
+      "words": 711,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stonemasonry",
+      "tier": "3",
+      "words": 698,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "storytelling",
+      "tier": "3",
+      "words": 743,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "string-theory",
+      "tier": "3",
+      "words": 819,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "structural-biology",
+      "tier": "3",
+      "words": 783,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "stucco",
+      "tier": "3",
+      "words": 720,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "student-government",
+      "tier": "3",
+      "words": 751,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "styling-fashion",
+      "tier": "3",
+      "words": 708,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sudoku",
+      "tier": "3",
+      "words": 795,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sumo-wrestling",
+      "tier": "3",
+      "words": 811,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "superconductivity",
+      "tier": "3",
+      "words": 804,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "superfoods",
+      "tier": "3",
+      "words": 820,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "supernatural-folklore",
+      "tier": "3",
+      "words": 825,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "surfing",
+      "tier": "3",
+      "words": 821,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sushi-making",
+      "tier": "3",
+      "words": 813,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "sustainable-development",
+      "tier": "3",
+      "words": 811,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "swahili-language",
+      "tier": "3",
+      "words": 769,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "swimming",
+      "tier": "3",
+      "words": 883,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "swordsmanship",
+      "tier": "3",
+      "words": 831,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "symbology",
+      "tier": "3",
+      "words": 766,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "symphony-composition",
+      "tier": "3",
+      "words": 763,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "synchronized-swimming",
+      "tier": "3",
+      "words": 756,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "syntax",
+      "tier": "3",
+      "words": 845,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "syriac-language",
+      "tier": "3",
+      "words": 794,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "systems-analysis",
+      "tier": "3",
+      "words": 781,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "systems-engineering",
+      "tier": "3",
+      "words": 845,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "table-tennis",
+      "tier": "3",
+      "words": 793,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tabletop-role-playing-games",
+      "tier": "3",
+      "words": 799,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tactical-analysis",
+      "tier": "3",
+      "words": 801,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "taekwondo",
+      "tier": "3",
+      "words": 784,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tai-chi",
+      "tier": "3",
+      "words": 862,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tailoring",
+      "tier": "3",
+      "words": 760,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "talmudic-law",
+      "tier": "3",
+      "words": 833,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tantra",
+      "tier": "3",
+      "words": 840,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tapestry",
+      "tier": "3",
+      "words": 738,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tarot-reading",
+      "tier": "3",
+      "words": 854,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "taxidermy",
+      "tier": "3",
+      "words": 806,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tea-ceremony",
+      "tier": "3",
+      "words": 814,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "teaching",
+      "tier": "3",
+      "words": 854,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "television-production",
+      "tier": "3",
+      "words": 778,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "television-writing",
+      "tier": "3",
+      "words": 890,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tennis",
+      "tier": "3",
+      "words": 850,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "terrariums",
+      "tier": "3",
+      "words": 802,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "terrorism-studies",
+      "tier": "3",
+      "words": 784,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "textile-arts",
+      "tier": "3",
+      "words": 802,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "textile-design",
+      "tier": "3",
+      "words": 727,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "thai-language",
+      "tier": "3",
+      "words": 861,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "thatching",
+      "tier": "3",
+      "words": 790,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "the-history-of-physics",
+      "tier": "3",
+      "words": 912,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "theater-arts",
+      "tier": "3",
+      "words": 686,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "theater-direction",
+      "tier": "3",
+      "words": 765,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "theatrical-history",
+      "tier": "3",
+      "words": 819,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "theology",
+      "tier": "3",
+      "words": 749,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tile-setting",
+      "tier": "3",
+      "words": 700,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "time-management",
+      "tier": "3",
+      "words": 846,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tinsmithing",
+      "tier": "3",
+      "words": 542,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "titanium-forging",
+      "tier": "3",
+      "words": 762,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "topiary",
+      "tier": "3",
+      "words": 674,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tort-law",
+      "tier": "3",
+      "words": 767,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tourism",
+      "tier": "3",
+      "words": 783,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "toy-making",
+      "tier": "3",
+      "words": 676,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "track-and-field",
+      "tier": "3",
+      "words": 754,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "traditional-chinese-medicine",
+      "tier": "3",
+      "words": 797,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tragedy-literature",
+      "tier": "3",
+      "words": 849,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "trail-running",
+      "tier": "3",
+      "words": 671,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "train-spotting",
+      "tier": "3",
+      "words": 669,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "transcendentalism",
+      "tier": "3",
+      "words": 775,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "transcription",
+      "tier": "3",
+      "words": 676,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "translation",
+      "tier": "3",
+      "words": 759,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "trapping",
+      "tier": "3",
+      "words": 703,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "travel-hacking",
+      "tier": "3",
+      "words": 736,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "travel-photography",
+      "tier": "3",
+      "words": 717,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "travel-writing",
+      "tier": "3",
+      "words": 1156,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tree-climbing",
+      "tier": "3",
+      "words": 1155,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "triathlon",
+      "tier": "3",
+      "words": 1171,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "trombone",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tuba",
+      "tier": "3",
+      "words": 983,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "tuning-instruments",
+      "tier": "3",
+      "words": 986,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "turkish-language",
+      "tier": "3",
+      "words": 872,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "turning-wood",
+      "tier": "3",
+      "words": 995,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "type-design",
+      "tier": "3",
+      "words": 1051,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "typesetting",
+      "tier": "3",
+      "words": 1107,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "typography",
+      "tier": "3",
+      "words": 1044,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ufology",
+      "tier": "3",
+      "words": 1073,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ukelele",
+      "tier": "3",
+      "words": 931,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "underwater-photography",
+      "tier": "3",
+      "words": 951,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "university-administration",
+      "tier": "3",
+      "words": 1007,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "upholstery",
+      "tier": "3",
+      "words": 928,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "urban-exploration",
+      "tier": "3",
+      "words": 973,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "urban-farming",
+      "tier": "3",
+      "words": 1033,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "urdu-language",
+      "tier": "3",
+      "words": 971,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "user-interface-ui-design",
+      "tier": "3",
+      "words": 1012,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vaudeville",
+      "tier": "3",
+      "words": 962,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vector-calculus",
+      "tier": "1",
+      "words": 2793,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "vegan-cooking",
+      "tier": "3",
+      "words": 891,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vegetable-gardening",
+      "tier": "3",
+      "words": 940,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vegetarian-cooking",
+      "tier": "3",
+      "words": 890,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "ventriloquism",
+      "tier": "3",
+      "words": 1059,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "venture-capital",
+      "tier": "1",
+      "words": 2524,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "veterinary-medicine",
+      "tier": "1",
+      "words": 2533,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "vexillology",
+      "tier": "3",
+      "words": 944,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vibration-analysis",
+      "tier": "1",
+      "words": 2446,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "video-editing",
+      "tier": "3",
+      "words": 978,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "video-game-design",
+      "tier": "3",
+      "words": 1133,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "video-game-history",
+      "tier": "3",
+      "words": 1063,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "video-game-journalism",
+      "tier": "3",
+      "words": 878,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "video-production",
+      "tier": "3",
+      "words": 984,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "videography",
+      "tier": "3",
+      "words": 969,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "viennese-waltz",
+      "tier": "3",
+      "words": 1003,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "viola",
+      "tier": "3",
+      "words": 951,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "violin-making",
+      "tier": "3",
+      "words": 937,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "violin",
+      "tier": "3",
+      "words": 1079,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "virology",
+      "tier": "1",
+      "words": 2395,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "virtual-reality",
+      "tier": "1",
+      "words": 2515,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "virtue-ethics",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "visual-arts",
+      "tier": "3",
+      "words": 971,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "visual-basic",
+      "tier": "1",
+      "words": 2372,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "visual-effects",
+      "tier": "3",
+      "words": 1013,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vocal-coaching",
+      "tier": "3",
+      "words": 976,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "vocal-performance",
+      "tier": "3",
+      "words": 1009,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "volcanology",
+      "tier": "1",
+      "words": 2349,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "volleyball",
+      "tier": "3",
+      "words": 1068,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "voodoo",
+      "tier": "3",
+      "words": 991,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "voting-theory",
+      "tier": "3",
+      "words": 985,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wall-painting",
+      "tier": "3",
+      "words": 815,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wargaming",
+      "tier": "3",
+      "words": 807,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "warhammer",
+      "tier": "3",
+      "words": 1017,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "waste-management",
+      "tier": "3",
+      "words": 935,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "watchmaking",
+      "tier": "3",
+      "words": 939,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-color-painting",
+      "tier": "3",
+      "words": 875,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-law",
+      "tier": "3",
+      "words": 934,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-management",
+      "tier": "3",
+      "words": 948,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-polo",
+      "tier": "3",
+      "words": 1014,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-purification",
+      "tier": "3",
+      "words": 881,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "water-skiing",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wealth-management",
+      "tier": "1",
+      "words": 2341,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "weaving",
+      "tier": "3",
+      "words": 869,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "web-analytics",
+      "tier": "1",
+      "words": 2492,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "web-security",
+      "tier": "3",
+      "words": 930,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wedding-planning",
+      "tier": "3",
+      "words": 903,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "weightlifting",
+      "tier": "3",
+      "words": 1017,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "western-art",
+      "tier": "3",
+      "words": 1114,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "western-film-genre",
+      "tier": "3",
+      "words": 1105,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "western-philosophy",
+      "tier": "3",
+      "words": 1132,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wetland-ecology",
+      "tier": "3",
+      "words": 965,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "whale-watching",
+      "tier": "3",
+      "words": 977,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "whittling",
+      "tier": "3",
+      "words": 1032,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wildfire-management",
+      "tier": "3",
+      "words": 1106,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wildlife-conservation",
+      "tier": "3",
+      "words": 1031,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wildlife-management",
+      "tier": "3",
+      "words": 938,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wildlife-photography",
+      "tier": "3",
+      "words": 980,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wind-power",
+      "tier": "3",
+      "words": 1030,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "windsurfing",
+      "tier": "3",
+      "words": 990,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wine-making",
+      "tier": "3",
+      "words": 1058,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wine-tasting",
+      "tier": "3",
+      "words": 921,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wood-carving",
+      "tier": "3",
+      "words": 1019,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wood-finishing",
+      "tier": "3",
+      "words": 1054,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "woodworking",
+      "tier": "3",
+      "words": 1037,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "word-games",
+      "tier": "3",
+      "words": 959,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "world-cuisine",
+      "tier": "3",
+      "words": 954,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "world-music",
+      "tier": "3",
+      "words": 975,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "wrestling",
+      "tier": "3",
+      "words": 1122,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "writing",
+      "tier": "3",
+      "words": 1094,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "xylography",
+      "tier": "3",
+      "words": 1057,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "yachting",
+      "tier": "3",
+      "words": 1187,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "zentangle",
+      "tier": "3",
+      "words": 1172,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "zincography",
+      "tier": "3",
+      "words": 1123,
+      "min": 1200,
+      "max": 2000
+    },
+    {
+      "slug": "zodiac",
+      "tier": "1",
+      "words": 2606,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "zoology",
+      "tier": "1",
+      "words": 2493,
+      "min": 3000,
+      "max": 5000
+    },
+    {
+      "slug": "zoroastrianism",
+      "tier": "1",
+      "words": 2438,
+      "min": 3000,
+      "max": 5000
+    }
+  ],
+  "desc_fail": [],
+  "rt_fail": [],
+  "faq_format_fail": [],
+  "banned_words": [],
+  "banned_phrases": []
+}

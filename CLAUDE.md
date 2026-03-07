@@ -97,7 +97,7 @@ npx astro check    # Type-check content collections
 ## Common Workflows
 
 - **Generate article:** Research topic → write markdown → save to `src/content/articles/{slug}.md` → update `data/article-status.json`
-- **Batch generate:** Read `data/topics-master.json` → filter ungenerated → write articles → update status → build → push
+- **Batch generate:** Read `data/topics-master.json` → filter ungenerated → write articles in batches of 50-100 → update status → build after each batch → commit and push after each successful build
 - **Build link graph:** Read all articles → extract internal links → output `src/data/link-graph.json`
 - **Audit:** Check all articles against quality/SEO/humanization rules → output `data/audit-report.json`
 - **Edit:** Make surgical, targeted edits based on audit or feedback — never rewrite whole articles

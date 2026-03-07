@@ -1,0 +1,9451 @@
+[
+  {
+    "slug": "workplace-safety",
+    "title": "What Is Workplace Safety?",
+    "category": "business",
+    "tier": "2",
+    "tags": [
+      "workplace safety",
+      "business"
+    ]
+  },
+  {
+    "slug": "aikido",
+    "title": "What Is Aikido?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "aikido",
+      "martial arts",
+      "japanese martial arts",
+      "self-defense",
+      "budo",
+      "jujutsu"
+    ]
+  },
+  {
+    "slug": "american-football",
+    "title": "What Is American Football?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "american football",
+      "football",
+      "nfl",
+      "sports",
+      "gridiron",
+      "super bowl"
+    ]
+  },
+  {
+    "slug": "angling",
+    "title": "What Is Angling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "angling",
+      "fishing",
+      "sport fishing",
+      "recreational fishing",
+      "fish hook",
+      "fly fishing"
+    ]
+  },
+  {
+    "slug": "animation",
+    "title": "What Is Animation?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "animation",
+      "cgi",
+      "2d animation",
+      "3d animation",
+      "stop motion",
+      "motion graphics"
+    ]
+  },
+  {
+    "slug": "antiques-collecting",
+    "title": "What Is Antiques Collecting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "antiques",
+      "collecting",
+      "collectibles",
+      "vintage",
+      "history",
+      "appraisal"
+    ]
+  },
+  {
+    "slug": "aquariums",
+    "title": "What Is Aquariums?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "aquarium",
+      "fishkeeping",
+      "aquascape",
+      "marine biology",
+      "fish",
+      "pets"
+    ]
+  },
+  {
+    "slug": "arabic-language",
+    "title": "What Is Arabic Language?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "arabic language",
+      "arabic",
+      "language",
+      "linguistics",
+      "middle east",
+      "semitic"
+    ]
+  },
+  {
+    "slug": "archery",
+    "title": "What Is Archery?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "archery",
+      "bow and arrow",
+      "marksmanship",
+      "target sports",
+      "olympics",
+      "hunting"
+    ]
+  },
+  {
+    "slug": "architecture",
+    "title": "What Is Architecture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "architecture",
+      "building design",
+      "construction",
+      "structural engineering",
+      "urban planning",
+      "design"
+    ]
+  },
+  {
+    "slug": "art-history",
+    "title": "What Is Art History?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "art history",
+      "history",
+      "art",
+      "visual arts",
+      "painting",
+      "sculpture"
+    ]
+  },
+  {
+    "slug": "artisan-bread-making",
+    "title": "What Is Artisan Bread Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "artisan bread",
+      "bread making",
+      "baking",
+      "sourdough",
+      "fermentation",
+      "cooking"
+    ]
+  },
+  {
+    "slug": "athletics",
+    "title": "What Is Athletics?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "athletics",
+      "track and field",
+      "sports",
+      "running",
+      "olympics",
+      "marathon"
+    ]
+  },
+  {
+    "slug": "automotive-repair",
+    "title": "What Is Automotive Repair?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "automotive repair",
+      "auto repair",
+      "mechanic",
+      "car repair",
+      "vehicle maintenance",
+      "cars"
+    ]
+  },
+  {
+    "slug": "backgammon",
+    "title": "What Is Backgammon?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "backgammon",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "backpacking",
+    "title": "What Is Backpacking?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "backpacking",
+      "travel",
+      "adventure",
+      "budget travel",
+      "hiking",
+      "cultural immersion"
+    ]
+  },
+  {
+    "slug": "baking",
+    "title": "What Is Baking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "baking",
+      "cooking",
+      "culinary arts",
+      "bread",
+      "cakes",
+      "pastries"
+    ]
+  },
+  {
+    "slug": "ballet",
+    "title": "What Is Ballet?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "ballet",
+      "dance",
+      "classical dance",
+      "performing arts",
+      "choreography",
+      "swan lake"
+    ]
+  },
+  {
+    "slug": "ballroom-dancing",
+    "title": "What Is Ballroom Dancing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "ballroom dancing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "banjo",
+    "title": "What Is Banjo?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "banjo",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "barbecuing",
+    "title": "What Is Barbecuing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "barbecuing",
+      "bbq",
+      "smoking food",
+      "outdoor cooking",
+      "low and slow",
+      "brisket"
+    ]
+  },
+  {
+    "slug": "bartending",
+    "title": "What Is Bartending?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bartending",
+      "mixology",
+      "cocktails",
+      "bar",
+      "customer service",
+      "hospitality"
+    ]
+  },
+  {
+    "slug": "baseball",
+    "title": "What Is Baseball?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "baseball",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "basket-weaving",
+    "title": "What Is Basket Weaving?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "basket weaving",
+      "basketry",
+      "traditional craft",
+      "fiber art",
+      "handmade",
+      "natural materials"
+    ]
+  },
+  {
+    "slug": "basketball",
+    "title": "What Is Basketball?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "basketball",
+      "sport",
+      "nba",
+      "team sport",
+      "court sports",
+      "dribbling"
+    ]
+  },
+  {
+    "slug": "bass-guitar",
+    "title": "What Is Bass Guitar?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "bass guitar",
+      "musical instrument",
+      "low frequency",
+      "rhythm section",
+      "electric bass",
+      "funk"
+    ]
+  },
+  {
+    "slug": "bayesian-statistics",
+    "title": "What Is Bayesian Statistics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bayesian statistics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "beachcombing",
+    "title": "What Is Beachcombing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "beachcombing",
+      "shells",
+      "sea glass",
+      "driftwood",
+      "coastal exploration",
+      "ocean"
+    ]
+  },
+  {
+    "slug": "beadwork",
+    "title": "What Is Beadwork?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "beadwork",
+      "beads",
+      "craft",
+      "jewelry making",
+      "textile arts",
+      "traditional crafts"
+    ]
+  },
+  {
+    "slug": "beer-brewing",
+    "title": "What Is Beer Brewing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "beer brewing",
+      "brewing",
+      "beer",
+      "hops",
+      "malt",
+      "yeast"
+    ]
+  },
+  {
+    "slug": "behavioral-economics",
+    "title": "What Is Behavioral Economics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "behavioral economics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "billiards",
+    "title": "What Is Billiards?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "billiards",
+      "pool",
+      "snooker",
+      "cue sports",
+      "8-ball",
+      "9-ball"
+    ]
+  },
+  {
+    "slug": "biogeography",
+    "title": "What Is Biogeography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "biogeography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "biography",
+    "title": "What Is Biography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "biography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "biological-anthropology",
+    "title": "What Is Biological Anthropology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "biological anthropology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "bird-watching",
+    "title": "What Is Bird Watching?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "bird watching",
+      "birding",
+      "ornithology",
+      "nature observation",
+      "wildlife",
+      "conservation"
+    ]
+  },
+  {
+    "slug": "blacksmithing",
+    "title": "What Is Blacksmithing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "blacksmithing",
+      "metalworking",
+      "forging",
+      "ironwork",
+      "traditional craft",
+      "anvil"
+    ]
+  },
+  {
+    "slug": "blogging",
+    "title": "What Is Blogging?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "blogging",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "blues-music",
+    "title": "What Is Blues Music?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "blues music",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "board-games",
+    "title": "What Is Board Games?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "board games",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "boat-building",
+    "title": "What Is Boat Building?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "boat building",
+      "shipbuilding",
+      "marine engineering",
+      "naval architecture",
+      "woodworking",
+      "fiberglass"
+    ]
+  },
+  {
+    "slug": "bodybuilding",
+    "title": "What Is Bodybuilding?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bodybuilding",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "bookbinding",
+    "title": "What Is Bookbinding?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "bookbinding",
+      "book",
+      "crafts",
+      "traditional craft",
+      "book restoration",
+      "printing"
+    ]
+  },
+  {
+    "slug": "bowling",
+    "title": "What Is Bowling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bowling",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "boxing",
+    "title": "What Is Boxing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "boxing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "br2-solar-thermal-systems-collectors-absorb-sunlight-to-heat-a-fluid-water-or-air-for-direct-use-eg",
+    "title": "What Is <br>2. **Solar Thermal Systems:** Collectors absorb sunlight to heat a fluid (water or air) for direct use (e.g.?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "br2 solar thermal systems collectors absorb sunlight to heat a fluid water or air for direct use eg",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "brazilian-jiu-jitsu",
+    "title": "What Is Brazilian Jiu-Jitsu?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "brazilian jiu jitsu",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "bread-making",
+    "title": "What Is Bread Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bread making",
+      "baking",
+      "bread",
+      "yeast",
+      "sourdough",
+      "gluten"
+    ]
+  },
+  {
+    "slug": "bridge-card-game",
+    "title": "What Is Bridge (Card Game)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "bridge card game",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "broadcasting",
+    "title": "What Is Broadcasting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "broadcasting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "cabaret",
+    "title": "What Is Cabaret?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "cabaret",
+      "live performance",
+      "theatre",
+      "music",
+      "entertainment",
+      "nightlife"
+    ]
+  },
+  {
+    "slug": "cabinet-making",
+    "title": "What Is Cabinet Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "cabinet making",
+      "woodworking",
+      "furniture",
+      "craft",
+      "joinery",
+      "woodcraft"
+    ]
+  },
+  {
+    "slug": "calligraphy",
+    "title": "What Is Calligraphy?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "calligraphy",
+      "handwriting",
+      "art",
+      "lettering",
+      "script",
+      "typography"
+    ]
+  },
+  {
+    "slug": "camera-operation",
+    "title": "What Is Camera Operation?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "camera",
+      "photography",
+      "videography",
+      "exposure",
+      "composition",
+      "lenses"
+    ]
+  },
+  {
+    "slug": "camping",
+    "title": "What Is Camping?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "camping",
+      "outdoor recreation",
+      "nature",
+      "tenting",
+      "wilderness",
+      "adventure"
+    ]
+  },
+  {
+    "slug": "candy-making",
+    "title": "What Is Candy Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "candy making",
+      "confectionery",
+      "sweets",
+      "sugar",
+      "culinary arts",
+      "baking"
+    ]
+  },
+  {
+    "slug": "canoeing",
+    "title": "What Is Canoeing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "canoeing",
+      "paddling",
+      "water sports",
+      "outdoor recreation",
+      "canoes",
+      "adventure"
+    ]
+  },
+  {
+    "slug": "card-games",
+    "title": "What Is Card Games?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "card games",
+      "cards",
+      "games",
+      "strategy",
+      "entertainment",
+      "playing cards"
+    ]
+  },
+  {
+    "slug": "card-making",
+    "title": "What Is Card-making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "card-making",
+      "craft",
+      "handmade cards",
+      "paper craft",
+      "scrapbooking",
+      "stamping"
+    ]
+  },
+  {
+    "slug": "carpentry",
+    "title": "What Is Carpentry?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "carpentry",
+      "woodworking",
+      "construction",
+      "trade",
+      "crafts",
+      "building"
+    ]
+  },
+  {
+    "slug": "cartooning",
+    "title": "What Is Cartooning?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "cartooning",
+      "cartoons",
+      "comic art",
+      "illustration",
+      "humor",
+      "satire"
+    ]
+  },
+  {
+    "slug": "cat-breeding",
+    "title": "What Is Cat Breeding?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cat breeding",
+      "cats",
+      "feline",
+      "pet care",
+      "genetics",
+      "animal husbandry"
+    ]
+  },
+  {
+    "slug": "caving",
+    "title": "What Is Caving?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "caving",
+      "spelunking",
+      "caves",
+      "outdoor adventure",
+      "geology",
+      "exploration"
+    ]
+  },
+  {
+    "slug": "celtic-mythology",
+    "title": "What Is Celtic Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "celtic mythology",
+      "mythology",
+      "folklore",
+      "irish mythology",
+      "welsh mythology",
+      "celtic history"
+    ]
+  },
+  {
+    "slug": "ceramics",
+    "title": "What Is Ceramics?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "ceramics",
+      "pottery",
+      "clay",
+      "art",
+      "craft",
+      "kiln"
+    ]
+  },
+  {
+    "slug": "chaos-theory",
+    "title": "What Is Chaos Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "chaos theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "charcuterie",
+    "title": "What Is Charcuterie?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "charcuterie",
+      "cured meats",
+      "culinary arts",
+      "food preservation",
+      "french cuisine",
+      "gastronomy"
+    ]
+  },
+  {
+    "slug": "checkers",
+    "title": "What Is Checkers?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "checkers",
+      "draughts",
+      "board games",
+      "strategy games",
+      "classic games",
+      "mind games"
+    ]
+  },
+  {
+    "slug": "cheerleading",
+    "title": "What Is Cheerleading?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "cheerleading",
+      "sports",
+      "athletics",
+      "dance",
+      "gymnastics",
+      "stunting"
+    ]
+  },
+  {
+    "slug": "cheese-making",
+    "title": "What Is Cheese Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cheese making",
+      "cheese",
+      "dairy",
+      "fermentation",
+      "food production",
+      "culinary arts"
+    ]
+  },
+  {
+    "slug": "chess",
+    "title": "What Is Chess?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "chess",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "chicken-farming",
+    "title": "What Is Chicken Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "chicken farming",
+      "poultry",
+      "agriculture",
+      "broilers",
+      "layers",
+      "eggs"
+    ]
+  },
+  {
+    "slug": "chinese-language",
+    "title": "What Is Chinese Language?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "chinese language",
+      "mandarin",
+      "hanzi",
+      "tonal language",
+      "linguistics",
+      "china"
+    ]
+  },
+  {
+    "slug": "chinese-mythology",
+    "title": "What Is Chinese Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "chinese mythology",
+      "mythology",
+      "folklore",
+      "china",
+      "deities",
+      "legends"
+    ]
+  },
+  {
+    "slug": "choral-music",
+    "title": "What Is Choral Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "choral music",
+      "choir",
+      "chorus",
+      "singing",
+      "vocal music",
+      "classical music"
+    ]
+  },
+  {
+    "slug": "cinematography",
+    "title": "What Is Cinematography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "cinematography",
+      "film",
+      "photography",
+      "visual arts",
+      "lighting",
+      "camera"
+    ]
+  },
+  {
+    "slug": "circus-arts",
+    "title": "What Is Circus Arts?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "circus arts",
+      "acrobatics",
+      "aerial arts",
+      "juggling",
+      "clowning",
+      "performance"
+    ]
+  },
+  {
+    "slug": "civil-law",
+    "title": "What Is Civil Law?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "civil law",
+      "law",
+      "legal system",
+      "private rights",
+      "contracts",
+      "torts"
+    ]
+  },
+  {
+    "slug": "classical-composition",
+    "title": "What Is Classical Composition?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "classical composition",
+      "classical music",
+      "music theory",
+      "mozart",
+      "haydn",
+      "beethoven"
+    ]
+  },
+  {
+    "slug": "classical-guitar",
+    "title": "What Is Classical Guitar?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "classical guitar",
+      "guitar",
+      "music",
+      "classical music",
+      "flamenco",
+      "nylon strings"
+    ]
+  },
+  {
+    "slug": "classical-music",
+    "title": "What Is Classical Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "classical music",
+      "music",
+      "orchestra",
+      "symphony",
+      "opera",
+      "music history"
+    ]
+  },
+  {
+    "slug": "claymation",
+    "title": "What Is Claymation?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "claymation",
+      "stop-motion",
+      "animation",
+      "clay",
+      "film",
+      "art"
+    ]
+  },
+  {
+    "slug": "clowning",
+    "title": "What Is Clowning?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "clowning",
+      "circus arts",
+      "comedy",
+      "physical comedy",
+      "mime",
+      "performance art"
+    ]
+  },
+  {
+    "slug": "cocktail-making",
+    "title": "What Is Cocktail Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cocktail making",
+      "mixology",
+      "cocktails",
+      "drinks",
+      "bartending",
+      "culinary arts"
+    ]
+  },
+  {
+    "slug": "coffee-roasting",
+    "title": "What Is Coffee Roasting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "coffee roasting",
+      "coffee",
+      "roasting",
+      "food science",
+      "flavor",
+      "coffee beans"
+    ]
+  },
+  {
+    "slug": "coin-collecting",
+    "title": "What Is Coin Collecting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "coin collecting",
+      "numismatics",
+      "coins",
+      "collectibles",
+      "history",
+      "hobbies"
+    ]
+  },
+  {
+    "slug": "collectibles",
+    "title": "What Is Collectibles?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "collectibles",
+      "hobbies",
+      "collecting",
+      "antiques",
+      "rarity",
+      "value"
+    ]
+  },
+  {
+    "slug": "color-theory",
+    "title": "What Is Color Theory?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "color theory",
+      "color",
+      "art",
+      "design",
+      "visual arts",
+      "hue"
+    ]
+  },
+  {
+    "slug": "comedy",
+    "title": "What Is Comedy?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "comedy",
+      "humor",
+      "entertainment",
+      "stand-up",
+      "satire",
+      "theatre"
+    ]
+  },
+  {
+    "slug": "comic-book-art",
+    "title": "What Is Comic Book Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "comic book art",
+      "comics",
+      "graphic novels",
+      "illustration",
+      "sequential art",
+      "drawing"
+    ]
+  },
+  {
+    "slug": "comic-book-collecting",
+    "title": "What Is Comic Book Collecting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "comic book collecting",
+      "comics",
+      "collectibles",
+      "hobbies",
+      "graphic novels",
+      "superheroes"
+    ]
+  },
+  {
+    "slug": "comparative-literature",
+    "title": "What Is Comparative Literature?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "comparative literature",
+      "literature",
+      "world literature",
+      "cultural studies",
+      "literary criticism",
+      "translation"
+    ]
+  },
+  {
+    "slug": "comparative-mythology",
+    "title": "What Is Comparative Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "comparative mythology",
+      "mythology",
+      "folklore",
+      "archetypes",
+      "cultural studies",
+      "religious studies"
+    ]
+  },
+  {
+    "slug": "comparative-politics",
+    "title": "What Is Comparative Politics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "comparative politics",
+      "political science",
+      "politics",
+      "government",
+      "political systems",
+      "international relations"
+    ]
+  },
+  {
+    "slug": "competitive-eating",
+    "title": "What Is Competitive Eating?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "competitive eating",
+      "eating contests",
+      "sports",
+      "entertainment",
+      "nathan's hot dogs",
+      "endurance"
+    ]
+  },
+  {
+    "slug": "complex-analysis",
+    "title": "What Is Complex Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "complex analysis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "composting",
+    "title": "What Is Composting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "composting",
+      "recycling",
+      "waste management",
+      "organic waste",
+      "soil",
+      "gardening"
+    ]
+  },
+  {
+    "slug": "computer-repair",
+    "title": "What Is Computer Repair?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "computer repair",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "computer-vision",
+    "title": "What Is Computer Vision?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "computer vision",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "confectionery",
+    "title": "What Is Confectionery?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "food",
+      "sweets",
+      "cooking",
+      "baking",
+      "desserts",
+      "culinary arts"
+    ]
+  },
+  {
+    "slug": "conflict-resolution",
+    "title": "What Is Conflict Resolution?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "peacebuilding",
+      "negotiation",
+      "mediation",
+      "communication",
+      "dispute resolution",
+      "psychology"
+    ]
+  },
+  {
+    "slug": "construction",
+    "title": "What Is Construction?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "engineering",
+      "architecture",
+      "building",
+      "infrastructure",
+      "project management",
+      "trades"
+    ]
+  },
+  {
+    "slug": "control-theory",
+    "title": "What Is Control Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "control theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "cooking",
+    "title": "What Is Cooking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "food",
+      "culinary arts",
+      "nutrition",
+      "baking",
+      "grilling",
+      "meal preparation"
+    ]
+  },
+  {
+    "slug": "coppersmithing",
+    "title": "What Is Coppersmithing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "crafts",
+      "metalworking",
+      "artisan",
+      "copper",
+      "traditional crafts",
+      "handicrafts"
+    ]
+  },
+  {
+    "slug": "copywriting",
+    "title": "What Is Copywriting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "marketing",
+      "advertising",
+      "writing",
+      "sales",
+      "content creation",
+      "branding"
+    ]
+  },
+  {
+    "slug": "costume-design",
+    "title": "What Is Costume Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "costume design",
+      "theater",
+      "film",
+      "fashion",
+      "character",
+      "production"
+    ]
+  },
+  {
+    "slug": "country-music",
+    "title": "What Is Country Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "country music",
+      "music genre",
+      "american music",
+      "folk music",
+      "blues",
+      "nashville"
+    ]
+  },
+  {
+    "slug": "couponing",
+    "title": "What Is Couponing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "couponing",
+      "savings",
+      "discounts",
+      "frugal",
+      "budgeting",
+      "shopping"
+    ]
+  },
+  {
+    "slug": "crab-fishing",
+    "title": "What Is Crab Fishing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "crab fishing",
+      "fishing",
+      "seafood",
+      "marine industry",
+      "crab",
+      "fishermen"
+    ]
+  },
+  {
+    "slug": "craft-beer",
+    "title": "What Is Craft Beer?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "craft beer",
+      "beer",
+      "brewing",
+      "microbrewery",
+      "independent brewery",
+      "ale"
+    ]
+  },
+  {
+    "slug": "creative-writing",
+    "title": "What Is Creative Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "creative writing",
+      "writing",
+      "fiction",
+      "poetry",
+      "storytelling",
+      "literature"
+    ]
+  },
+  {
+    "slug": "creole-languages",
+    "title": "What Is Creole Languages?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "creole languages",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "criminology",
+    "title": "What Is Criminology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "criminology",
+      "crime",
+      "criminal justice",
+      "sociology",
+      "law",
+      "deviance"
+    ]
+  },
+  {
+    "slug": "critical-thinking",
+    "title": "What Is Critical Thinking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "critical thinking",
+      "logic",
+      "reasoning",
+      "problem solving",
+      "decision making",
+      "analysis"
+    ]
+  },
+  {
+    "slug": "crochet",
+    "title": "What Is Crochet?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "crochet",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "cross-stitch",
+    "title": "What Is Cross-Stitch?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "cross-stitch",
+      "embroidery",
+      "needlework",
+      "craft",
+      "textile art",
+      "hobby"
+    ]
+  },
+  {
+    "slug": "crossword-puzzles",
+    "title": "What Is Crossword Puzzles?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "crossword puzzles",
+      "puzzles",
+      "word games",
+      "brain teasers",
+      "mental exercise",
+      "logic"
+    ]
+  },
+  {
+    "slug": "cryptozoology",
+    "title": "What Is Cryptozoology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cryptozoology",
+      "cryptids",
+      "bigfoot",
+      "loch ness monster",
+      "yeti",
+      "pseudoscience"
+    ]
+  },
+  {
+    "slug": "culinary-arts",
+    "title": "What Is Culinary Arts?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "culinary arts",
+      "cooking",
+      "food",
+      "chef",
+      "cuisine",
+      "gastronomy"
+    ]
+  },
+  {
+    "slug": "cultural-anthropology",
+    "title": "What Is Cultural Anthropology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cultural anthropology",
+      "anthropology",
+      "culture",
+      "ethnography",
+      "society",
+      "human behavior"
+    ]
+  },
+  {
+    "slug": "curling",
+    "title": "What Is Curling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "curling",
+      "ice sport",
+      "winter sports",
+      "strategy",
+      "team sport",
+      "granite"
+    ]
+  },
+  {
+    "slug": "cycling",
+    "title": "What Is Cycling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "cycling",
+      "bicycle",
+      "biking",
+      "exercise",
+      "transportation",
+      "sport"
+    ]
+  },
+  {
+    "slug": "dairy-farming",
+    "title": "What Is Dairy Farming?",
+    "category": "agriculture",
+    "tier": "3",
+    "tags": [
+      "dairy farming",
+      "agriculture"
+    ]
+  },
+  {
+    "slug": "dance",
+    "title": "What Is Dance?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "dance",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "dance-history",
+    "title": "What Is Dance History?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "dance history",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "debate",
+    "title": "What Is Debate?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "debate",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "decorating",
+    "title": "What Is Decorating?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "decorating",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "detective-fiction",
+    "title": "What Is Detective Fiction?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "detective fiction",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "digital-art",
+    "title": "What Is Digital Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "digital art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "digital-logic",
+    "title": "What Is Digital Logic?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "digital logic",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "digital-photography",
+    "title": "What Is Digital Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "digital photography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "disaster-preparedness",
+    "title": "What Is Disaster Preparedness?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "disaster preparedness",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "diving",
+    "title": "What Is Diving?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "diving",
+      "sports"
+    ]
+  },
+  {
+    "slug": "diy-home-improvement",
+    "title": "What Is DIY Home Improvement?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "diy home improvement",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "dog-training",
+    "title": "What Is Dog Training?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "dog training",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "doll-making",
+    "title": "What Is Doll Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "doll making",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "dominoes",
+    "title": "What Is Dominoes?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "dominoes",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "drama",
+    "title": "What Is Drama?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "drama",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "drawing",
+    "title": "What Is Drawing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "drawing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "dressage",
+    "title": "What Is Dressage?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "dressage",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "dried-flowers",
+    "title": "What Is Dried Flowers?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "dried flowers",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "drumming",
+    "title": "What Is Drumming?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "drumming",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "dyeing",
+    "title": "What Is Dyeing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "dyeing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "eastern-philosophy",
+    "title": "What Is Eastern Philosophy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "eastern philosophy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "editing",
+    "title": "What Is Editing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "editing",
+      "writing",
+      "publishing",
+      "proofreading",
+      "copyediting",
+      "content creation"
+    ]
+  },
+  {
+    "slug": "education",
+    "title": "What Is Education?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "education",
+      "learning",
+      "pedagogy",
+      "schooling",
+      "knowledge",
+      "skills"
+    ]
+  },
+  {
+    "slug": "electricity",
+    "title": "What Is Electricity?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "electricity",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "electronic-music",
+    "title": "What Is Electronic Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "electronic music",
+      "music",
+      "synthesizer",
+      "sampling",
+      "digital music",
+      "genre"
+    ]
+  },
+  {
+    "slug": "elementology",
+    "title": "What Is Elementology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "elementology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "embroidery",
+    "title": "What Is Embroidery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "embroidery",
+      "textile art",
+      "needlework",
+      "handicraft",
+      "fabric",
+      "stitches"
+    ]
+  },
+  {
+    "slug": "enameling",
+    "title": "What Is Enameling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "enameling",
+      "art",
+      "craft",
+      "glass",
+      "metalwork",
+      "jewelry"
+    ]
+  },
+  {
+    "slug": "energy-healing",
+    "title": "What Is Energy Healing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "energy healing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "english-language",
+    "title": "What Is English Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "english language",
+      "linguistics",
+      "global language",
+      "communication",
+      "grammar",
+      "vocabulary"
+    ]
+  },
+  {
+    "slug": "english-literature",
+    "title": "What Is English Literature?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "english literature",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "engraving",
+    "title": "What Is Engraving?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "engraving",
+      "printmaking",
+      "art",
+      "intaglio",
+      "burin",
+      "metalwork"
+    ]
+  },
+  {
+    "slug": "epistemology",
+    "title": "What Is Epistemology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "epistemology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "equestrianism",
+    "title": "What Is Equestrianism?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "equestrianism",
+      "horses",
+      "horsemanship",
+      "riding",
+      "horse riding",
+      "sports"
+    ]
+  },
+  {
+    "slug": "etching",
+    "title": "What Is Etching?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "etching",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "etymology",
+    "title": "What Is Etymology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "etymology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "evolutionary-psychology",
+    "title": "What Is Evolutionary Psychology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "evolutionary psychology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "existentialism",
+    "title": "What Is Existentialism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "existentialism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "exploration-history",
+    "title": "What Is Exploration History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "exploration history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "fabric-arts",
+    "title": "What Is Fabric Arts?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "textile art",
+      "fiber art",
+      "crafts",
+      "quilting",
+      "embroidery",
+      "weaving"
+    ]
+  },
+  {
+    "slug": "fairy-tales",
+    "title": "What Is Fairy Tales?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "folklore",
+      "mythology",
+      "children's literature",
+      "storytelling",
+      "fantasy",
+      "traditional stories"
+    ]
+  },
+  {
+    "slug": "falconry",
+    "title": "What Is Falconry?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "birds of prey",
+      "raptors",
+      "hunting",
+      "avian",
+      "conservation",
+      "traditional sport"
+    ]
+  },
+  {
+    "slug": "fantasy-literature",
+    "title": "What Is Fantasy Literature?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "literature",
+      "fiction",
+      "magic",
+      "imaginary worlds",
+      "mythology",
+      "speculative fiction"
+    ]
+  },
+  {
+    "slug": "farming",
+    "title": "What Is Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "agriculture",
+      "crops",
+      "livestock",
+      "food production",
+      "sustainability",
+      "agronomy"
+    ]
+  },
+  {
+    "slug": "fashion-design",
+    "title": "What Is Fashion Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "fashion",
+      "design",
+      "clothing",
+      "apparel",
+      "textiles",
+      "trends"
+    ]
+  },
+  {
+    "slug": "fencing",
+    "title": "What Is Fencing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "combat sport",
+      "swordplay",
+      "foil",
+      "\u00e9p\u00e9e",
+      "sabre",
+      "olympic sport"
+    ]
+  },
+  {
+    "slug": "feng-shui",
+    "title": "What Is Feng Shui?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "chinese philosophy",
+      "qi",
+      "energy",
+      "home decor",
+      "interior design",
+      "harmony"
+    ]
+  },
+  {
+    "slug": "fiction-writing",
+    "title": "What Is Fiction Writing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "fiction writing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "field-hockey",
+    "title": "What Is Field Hockey?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "hockey",
+      "team sport",
+      "stick sport",
+      "olympics",
+      "athletics",
+      "field games"
+    ]
+  },
+  {
+    "slug": "figure-skating",
+    "title": "What Is Figure Skating?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "ice skating",
+      "olympics",
+      "winter sports",
+      "jumps",
+      "spins",
+      "choreography"
+    ]
+  },
+  {
+    "slug": "film-criticism",
+    "title": "What Is Film Criticism?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "film",
+      "cinema",
+      "review",
+      "analysis",
+      "evaluation",
+      "media studies"
+    ]
+  },
+  {
+    "slug": "film-direction",
+    "title": "What Is Film Direction?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "film direction",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "film-editing",
+    "title": "What Is Film Editing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "film",
+      "cinema",
+      "post-production",
+      "editing",
+      "filmmaking",
+      "movie making"
+    ]
+  },
+  {
+    "slug": "film-history",
+    "title": "What Is Film History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "film history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "film-noir",
+    "title": "What Is Film Noir?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "film noir",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "film-production",
+    "title": "What Is Film Production?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "film",
+      "cinema",
+      "movie making",
+      "filmmaking",
+      "production",
+      "pre-production"
+    ]
+  },
+  {
+    "slug": "film-theory",
+    "title": "What Is Film Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "film theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "filmmaking",
+    "title": "What Is Filmmaking?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "film",
+      "movie making",
+      "cinema",
+      "production",
+      "storytelling",
+      "directing"
+    ]
+  },
+  {
+    "slug": "fine-art",
+    "title": "What Is Fine Art?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "fine art",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "fire-safety",
+    "title": "What Is Fire Safety?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "safety",
+      "emergency preparedness",
+      "fire prevention",
+      "fire extinguishers",
+      "smoke detectors",
+      "risk management"
+    ]
+  },
+  {
+    "slug": "firefighting",
+    "title": "What Is Firefighting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "emergency services",
+      "public safety",
+      "fire",
+      "rescue",
+      "first responders",
+      "hazardous materials"
+    ]
+  },
+  {
+    "slug": "first-aid",
+    "title": "What Is First Aid?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "first aid",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "fishing",
+    "title": "What Is Fishing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "angling",
+      "seafood",
+      "fisheries",
+      "recreation",
+      "commercial fishing",
+      "sustainability"
+    ]
+  },
+  {
+    "slug": "flemish-painting",
+    "title": "What Is Flemish Painting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "flemish painting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "floral-design",
+    "title": "What Is Floral Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "floristry",
+      "flowers",
+      "arrangement",
+      "design",
+      "botanical art",
+      "event decor"
+    ]
+  },
+  {
+    "slug": "flute",
+    "title": "What Is Flute?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "musical instrument",
+      "woodwind",
+      "orchestra",
+      "music",
+      "classical music",
+      "jazz"
+    ]
+  },
+  {
+    "slug": "folk-art",
+    "title": "What Is Folk Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "art",
+      "crafts",
+      "traditional art",
+      "cultural heritage",
+      "indigenous art",
+      "self-taught artists"
+    ]
+  },
+  {
+    "slug": "folk-dancing",
+    "title": "What Is Folk Dancing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "dance",
+      "culture",
+      "traditional dance",
+      "folklore",
+      "community",
+      "heritage"
+    ]
+  },
+  {
+    "slug": "folk-music",
+    "title": "What Is Folk Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music",
+      "traditional music",
+      "culture",
+      "oral tradition",
+      "acoustic",
+      "storytelling"
+    ]
+  },
+  {
+    "slug": "folklore",
+    "title": "What Is Folklore?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "folklore",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "food-preservation",
+    "title": "What Is Food Preservation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "food science",
+      "food safety",
+      "preservation",
+      "shelf life",
+      "canning",
+      "freezing"
+    ]
+  },
+  {
+    "slug": "food-styling",
+    "title": "What Is Food Styling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "food",
+      "photography",
+      "culinary arts",
+      "visual arts",
+      "marketing",
+      "styling"
+    ]
+  },
+  {
+    "slug": "food-writing",
+    "title": "What Is Food Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "food",
+      "writing",
+      "culinary arts",
+      "journalism",
+      "culture",
+      "recipes"
+    ]
+  },
+  {
+    "slug": "foraging",
+    "title": "What Is Foraging?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wild food",
+      "edible plants",
+      "mushrooms",
+      "nature",
+      "sustainability",
+      "self-sufficiency"
+    ]
+  },
+  {
+    "slug": "foreign-policy",
+    "title": "What Is Foreign Policy?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "international relations",
+      "diplomacy",
+      "geopolitics",
+      "national security",
+      "trade",
+      "international law"
+    ]
+  },
+  {
+    "slug": "formal-languages",
+    "title": "What Is Formal Languages?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "formal languages",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "fountain-pen-collecting",
+    "title": "What Is Fountain Pen Collecting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "collecting",
+      "hobby",
+      "writing instruments",
+      "pens",
+      "antiques",
+      "craftsmanship"
+    ]
+  },
+  {
+    "slug": "four-wheel-driving",
+    "title": "What Is Four-Wheel Driving?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "four wheel driving",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "frame-making",
+    "title": "What Is Frame Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "crafts",
+      "art",
+      "design",
+      "woodworking",
+      "picture framing",
+      "art preservation"
+    ]
+  },
+  {
+    "slug": "french-history",
+    "title": "What Is French History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "french history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "french-horn",
+    "title": "What Is French Horn?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "musical instrument",
+      "brass",
+      "orchestra",
+      "music performance",
+      "classical music",
+      "horn"
+    ]
+  },
+  {
+    "slug": "fresco-painting",
+    "title": "What Is Fresco Painting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "fresco painting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "fruit-growing",
+    "title": "What Is Fruit Growing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "agriculture",
+      "horticulture",
+      "fruits",
+      "farming",
+      "orchard",
+      "vineyard"
+    ]
+  },
+  {
+    "slug": "functional-analysis",
+    "title": "What Is Functional Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "functional analysis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "furniture-design",
+    "title": "What Is Furniture Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "furniture",
+      "design",
+      "interior design",
+      "industrial design",
+      "ergonomics",
+      "aesthetics"
+    ]
+  },
+  {
+    "slug": "furniture-making",
+    "title": "What Is Furniture Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "furniture",
+      "craftsmanship",
+      "woodworking",
+      "carpentry",
+      "materials",
+      "joinery"
+    ]
+  },
+  {
+    "slug": "game-design",
+    "title": "What Is Game Design?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "game design",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "game-theory",
+    "title": "What Is Game Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "game theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "gaming",
+    "title": "What Is Gaming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "gaming",
+      "video games",
+      "esports",
+      "interactive entertainment",
+      "game culture",
+      "hobby"
+    ]
+  },
+  {
+    "slug": "gardening",
+    "title": "What Is Gardening?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "gardening",
+      "plants",
+      "horticulture",
+      "agriculture",
+      "vegetables",
+      "flowers"
+    ]
+  },
+  {
+    "slug": "gastronomy",
+    "title": "What Is Gastronomy?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "gastronomy",
+      "food",
+      "culinary arts",
+      "cooking",
+      "food culture",
+      "food science"
+    ]
+  },
+  {
+    "slug": "gemology",
+    "title": "What Is Gemology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "gemology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "glass-blowing",
+    "title": "What Is Glass Blowing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "glass blowing",
+      "glass art",
+      "craft",
+      "artisan",
+      "molten glass",
+      "glassware"
+    ]
+  },
+  {
+    "slug": "gliding",
+    "title": "What Is Gliding?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "gliding",
+      "sailplane",
+      "aviation",
+      "thermals",
+      "aerodynamics",
+      "flight"
+    ]
+  },
+  {
+    "slug": "go-game",
+    "title": "What Is Go (Game)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "go game",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "goat-farming",
+    "title": "What Is Goat Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "goat farming",
+      "goats",
+      "agriculture",
+      "livestock",
+      "dairy farming",
+      "meat production"
+    ]
+  },
+  {
+    "slug": "gold-panning",
+    "title": "What Is Gold Panning?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "gold panning",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "goldsmithing",
+    "title": "What Is Goldsmithing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "goldsmithing",
+      "gold",
+      "jewelry making",
+      "precious metals",
+      "craftsmanship",
+      "art"
+    ]
+  },
+  {
+    "slug": "golf",
+    "title": "What Is Golf?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "golf",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "gothic-architecture",
+    "title": "What Is Gothic Architecture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "gothic architecture",
+      "medieval",
+      "cathedral",
+      "pointed arch",
+      "flying buttress",
+      "stained glass"
+    ]
+  },
+  {
+    "slug": "gourmet-cooking",
+    "title": "What Is Gourmet Cooking?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "gourmet cooking",
+      "culinary arts",
+      "fine dining",
+      "food",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "slug": "graffiti-art",
+    "title": "What Is Graffiti Art?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "graffiti art",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "grammar",
+    "title": "What Is Grammar?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "grammar",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "graphic-design",
+    "title": "What Is Graphic Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "graphic design",
+      "design",
+      "visual communication",
+      "branding",
+      "typography",
+      "logo design"
+    ]
+  },
+  {
+    "slug": "graphology",
+    "title": "What Is Graphology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "graphology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "greek-language",
+    "title": "What Is Greek Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "greek language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "greek-mythology",
+    "title": "What Is Greek Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "greek mythology",
+      "gods",
+      "heroes",
+      "ancient greece",
+      "mythology",
+      "literature"
+    ]
+  },
+  {
+    "slug": "grilling",
+    "title": "What Is Grilling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "grilling",
+      "barbecue",
+      "cooking",
+      "outdoor cooking",
+      "food",
+      "charcoal"
+    ]
+  },
+  {
+    "slug": "guerrilla-marketing",
+    "title": "What Is Guerrilla Marketing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "guerrilla marketing",
+      "marketing",
+      "advertising",
+      "branding",
+      "viral marketing",
+      "unconventional"
+    ]
+  },
+  {
+    "slug": "guitar",
+    "title": "What Is Guitar?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "guitar",
+      "musical instrument",
+      "strings",
+      "music",
+      "acoustic guitar",
+      "electric guitar"
+    ]
+  },
+  {
+    "slug": "gymnastics",
+    "title": "What Is Gymnastics?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "gymnastics",
+      "sport",
+      "athletics",
+      "flexibility",
+      "strength",
+      "balance"
+    ]
+  },
+  {
+    "slug": "haiku",
+    "title": "What Is Haiku?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "haiku",
+      "poetry",
+      "japanese poetry",
+      "literature",
+      "nature",
+      "verse"
+    ]
+  },
+  {
+    "slug": "hair-styling",
+    "title": "What Is Hair Styling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hair styling",
+      "haircut",
+      "hairstyles",
+      "beauty",
+      "fashion",
+      "grooming"
+    ]
+  },
+  {
+    "slug": "handball",
+    "title": "What Is Handball?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "handball",
+      "team sport",
+      "sports",
+      "ball game",
+      "olympic sport",
+      "agility"
+    ]
+  },
+  {
+    "slug": "handwriting-analysis",
+    "title": "What Is Handwriting Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "handwriting analysis",
+      "graphology",
+      "pseudoscience",
+      "personality",
+      "character",
+      "writing"
+    ]
+  },
+  {
+    "slug": "harmonica",
+    "title": "What Is Harmonica?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "harmonica",
+      "musical instrument",
+      "wind instrument",
+      "blues",
+      "folk music",
+      "music"
+    ]
+  },
+  {
+    "slug": "harmony",
+    "title": "What Is Harmony?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "harmony",
+      "music theory",
+      "music",
+      "chords",
+      "consonance",
+      "dissonance"
+    ]
+  },
+  {
+    "slug": "harp",
+    "title": "What Is Harp?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "harp",
+      "musical instrument",
+      "string instrument",
+      "music",
+      "orchestral music",
+      "folk music"
+    ]
+  },
+  {
+    "slug": "haute-couture",
+    "title": "What Is Haute Couture?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "haute couture",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "hedge-fund-management",
+    "title": "What Is Hedge Fund Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hedge fund management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "heuristics",
+    "title": "What Is Heuristics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "heuristics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "hiking",
+    "title": "What Is Hiking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hiking",
+      "outdoor recreation",
+      "walking",
+      "nature",
+      "trails",
+      "wilderness"
+    ]
+  },
+  {
+    "slug": "historical-conspiracy-theories",
+    "title": "What Is Historical Conspiracy Theories?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "historical conspiracy theories",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "historical-linguistics",
+    "title": "What Is Historical Linguistics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "historical linguistics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "hobby-machining",
+    "title": "What Is Hobby Machining?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hobby machining",
+      "machining",
+      "metalworking",
+      "diy",
+      "craftsmanship",
+      "engineering"
+    ]
+  },
+  {
+    "slug": "hockey",
+    "title": "What Is Hockey?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "hockey",
+      "ice hockey",
+      "field hockey",
+      "sports",
+      "team sport",
+      "puck"
+    ]
+  },
+  {
+    "slug": "home-brewing",
+    "title": "What Is Home Brewing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "home brewing",
+      "brewing",
+      "beer",
+      "wine",
+      "fermentation",
+      "craft beer"
+    ]
+  },
+  {
+    "slug": "home-economics",
+    "title": "What Is Home Economics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "home economics",
+      "life skills",
+      "family studies",
+      "nutrition",
+      "personal finance",
+      "consumer education"
+    ]
+  },
+  {
+    "slug": "home-education",
+    "title": "What Is Home Education?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "home education",
+      "homeschooling",
+      "education",
+      "child development",
+      "learning",
+      "curriculum"
+    ]
+  },
+  {
+    "slug": "home-organization",
+    "title": "What Is Home Organization?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "home organization",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "homeopathy",
+    "title": "What Is Homeopathy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "homeopathy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "horse-racing",
+    "title": "What Is Horse Racing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "horse racing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "hospitality-management",
+    "title": "What Is Hospitality Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hospitality management",
+      "hotels",
+      "restaurants",
+      "tourism",
+      "customer service",
+      "business"
+    ]
+  },
+  {
+    "slug": "hot-air-ballooning",
+    "title": "What Is Hot Air Ballooning?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hot air ballooning",
+      "hot air balloon",
+      "aviation",
+      "flight",
+      "aerodynamics",
+      "adventure"
+    ]
+  },
+  {
+    "slug": "houseplants",
+    "title": "What Is Houseplants?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "houseplants",
+      "plants",
+      "indoor plants",
+      "gardening",
+      "horticulture",
+      "home decor"
+    ]
+  },
+  {
+    "slug": "human-evolution",
+    "title": "What Is Human Evolution?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "human evolution",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "human-resources",
+    "title": "What Is Human Resources?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "human resources",
+      "hr",
+      "employment",
+      "recruitment",
+      "talent management",
+      "workplace"
+    ]
+  },
+  {
+    "slug": "hunting",
+    "title": "What Is Hunting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hunting",
+      "wildlife management",
+      "conservation",
+      "outdoor recreation",
+      "game meat",
+      "subsistence"
+    ]
+  },
+  {
+    "slug": "hydrogen-power",
+    "title": "What Is Hydrogen Power?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "hydrogen power",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "ice-carving",
+    "title": "What Is Ice Carving?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "ice sculpture",
+      "carving",
+      "art",
+      "winter art",
+      "ephemeral art",
+      "sculpture techniques"
+    ]
+  },
+  {
+    "slug": "ice-climbing",
+    "title": "What Is Ice Climbing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "ice climbing",
+      "mountaineering",
+      "winter sports",
+      "climbing",
+      "ice axes",
+      "crampons"
+    ]
+  },
+  {
+    "slug": "ice-hockey",
+    "title": "What Is Ice Hockey?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "ice hockey",
+      "hockey",
+      "winter sports",
+      "team sports",
+      "nhl",
+      "puck"
+    ]
+  },
+  {
+    "slug": "ice-skating",
+    "title": "What Is Ice Skating?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "ice skating",
+      "skates",
+      "figure skating",
+      "speed skating",
+      "ice hockey",
+      "winter sports"
+    ]
+  },
+  {
+    "slug": "iconography",
+    "title": "What Is Iconography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "iconography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "illustration",
+    "title": "What Is Illustration?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "illustration",
+      "art",
+      "visual communication",
+      "drawing",
+      "painting",
+      "digital art"
+    ]
+  },
+  {
+    "slug": "image-processing",
+    "title": "What Is Image Processing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "image processing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "immunology",
+    "title": "What Is Immunology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "immunology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "impressionism",
+    "title": "What Is Impressionism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "impressionism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "indian-classical-music",
+    "title": "What Is Indian Classical Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "indian classical music",
+      "raga",
+      "tala",
+      "hindustani music",
+      "carnatic music",
+      "indian music"
+    ]
+  },
+  {
+    "slug": "indian-history",
+    "title": "What Is Indian History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "indian history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "indian-mythology",
+    "title": "What Is Indian Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "indian mythology",
+      "hinduism",
+      "mythology",
+      "ramayana",
+      "mahabharata",
+      "gods"
+    ]
+  },
+  {
+    "slug": "indigenous-religions",
+    "title": "What Is Indigenous Religions?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "indigenous religions",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "industrial-engineering",
+    "title": "What Is Industrial Engineering?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "industrial engineering",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "information-theory",
+    "title": "What Is Information Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "information theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "instrument-making",
+    "title": "What Is Instrument Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "instrument making",
+      "musical instruments",
+      "luthiery",
+      "acoustics",
+      "craftsmanship",
+      "music technology"
+    ]
+  },
+  {
+    "slug": "intellectual-history",
+    "title": "What Is Intellectual History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "intellectual history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "intellectual-property-law",
+    "title": "What Is Intellectual Property Law?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "intellectual property law",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "intelligence-analysis",
+    "title": "What Is Intelligence Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "intelligence analysis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "interior-design",
+    "title": "What Is Interior Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "interior design",
+      "design",
+      "home decor",
+      "space planning",
+      "commercial design",
+      "aesthetics"
+    ]
+  },
+  {
+    "slug": "international-development",
+    "title": "What Is International Development?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "international development",
+      "poverty reduction",
+      "global health",
+      "sustainable development",
+      "ngos",
+      "humanitarian aid"
+    ]
+  },
+  {
+    "slug": "international-relations",
+    "title": "What Is International Relations?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "international relations",
+      "global politics",
+      "diplomacy",
+      "foreign policy",
+      "international law",
+      "geopolitics"
+    ]
+  },
+  {
+    "slug": "internet-of-things-iot",
+    "title": "What Is Internet of Things (IoT)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "internet of things iot",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "interviewing-skills",
+    "title": "What Is Interviewing Skills?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "interviewing skills",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "ionic-architecture",
+    "title": "What Is Ionic Architecture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "ionic architecture",
+      "classical orders",
+      "greek architecture",
+      "roman architecture",
+      "volutes",
+      "columns"
+    ]
+  },
+  {
+    "slug": "irrigation",
+    "title": "What Is Irrigation?",
+    "category": "agriculture",
+    "tier": "3",
+    "tags": [
+      "irrigation",
+      "agriculture"
+    ]
+  },
+  {
+    "slug": "islam",
+    "title": "What Is Islam?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "islam",
+      "religion"
+    ]
+  },
+  {
+    "slug": "italian-language",
+    "title": "What Is Italian Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "italian language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "jainism",
+    "title": "What Is Jainism?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "jainism",
+      "religion"
+    ]
+  },
+  {
+    "slug": "japanese-art",
+    "title": "What Is Japanese Art?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "japanese art",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "japanese-language",
+    "title": "What Is Japanese Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "japanese language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "japanese-mythology",
+    "title": "What Is Japanese Mythology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "japanese mythology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "jazz-music",
+    "title": "What Is Jazz Music?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "jazz music",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "jewelry-making",
+    "title": "What Is Jewelry Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "jewelry making",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "jigsaw-puzzles",
+    "title": "What Is Jigsaw Puzzles?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "jigsaw puzzles",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "journalism",
+    "title": "What Is Journalism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "journalism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "judo",
+    "title": "What Is Judo?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "judo",
+      "sports"
+    ]
+  },
+  {
+    "slug": "juggling",
+    "title": "What Is Juggling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "juggling",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "jukebox-collecting",
+    "title": "What Is Jukebox Collecting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "jukebox collecting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "kabbalah",
+    "title": "What Is Kabbalah?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "kabbalah",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "kites",
+    "title": "What Is Kites?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "kites",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "knex",
+    "title": "What Is K'nex?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "knex",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "knitting",
+    "title": "What Is Knitting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "knitting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "knot-tying",
+    "title": "What Is Knot Tying?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "knot tying",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "korean-history",
+    "title": "What Is Korean History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "korean history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "korean-language",
+    "title": "What Is Korean Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "korean language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lacrosse",
+    "title": "What Is Lacrosse?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "lacrosse",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "landscape-architecture",
+    "title": "What Is Landscape Architecture?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "landscape architecture",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "landscape-painting",
+    "title": "What Is Landscape Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "landscape painting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "landscaping",
+    "title": "What Is Landscaping?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "landscaping",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "language-acquisition",
+    "title": "What Is Language Acquisition?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "language acquisition",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lapidary",
+    "title": "What Is Lapidary?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "lapidary",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "laser-technology",
+    "title": "What Is Laser Technology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "laser technology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "latin-language",
+    "title": "What Is Latin Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "latin language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "latticework",
+    "title": "What Is Latticework?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "latticework",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lawn-care",
+    "title": "What Is Lawn Care?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "lawn care",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "leadership",
+    "title": "What Is Leadership?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "leadership",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "leatherworking",
+    "title": "What Is Leatherworking?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "leatherworking",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "legends",
+    "title": "What Is Legends?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "legends",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "lego-building",
+    "title": "What Is Lego Building?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "lego building",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lexicography",
+    "title": "What Is Lexicography?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "lexicography",
+      "language"
+    ]
+  },
+  {
+    "slug": "light-opera",
+    "title": "What Is Light Opera?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "light opera",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lighting-design",
+    "title": "What Is Lighting Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "lighting design",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "literary-criticism",
+    "title": "What Is Literary Criticism?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "literary criticism",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "literary-theory",
+    "title": "What Is Literary Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "literary theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "literature",
+    "title": "What Is Literature?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "literature",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "lithography",
+    "title": "What Is Lithography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "lithography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "livestock-farming",
+    "title": "What Is Livestock Farming?",
+    "category": "agriculture",
+    "tier": "3",
+    "tags": [
+      "livestock farming",
+      "agriculture"
+    ]
+  },
+  {
+    "slug": "lobbying",
+    "title": "What Is Lobbying?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "lobbying",
+      "politics"
+    ]
+  },
+  {
+    "slug": "lobster-fishing",
+    "title": "What Is Lobster Fishing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "lobster fishing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "locksmithing",
+    "title": "What Is Locksmithing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "locksmithing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "logic",
+    "title": "What Is Logic?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "logic",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "logic-puzzles",
+    "title": "What Is Logic Puzzles?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "logic puzzles",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "loom-weaving",
+    "title": "What Is Loom Weaving?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "loom weaving",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "lumberjacking",
+    "title": "What Is Lumberjacking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "lumberjacking",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "luthiery",
+    "title": "What Is Luthiery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "luthiery",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "magic-illusion",
+    "title": "What Is Magic (Illusion)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "magic illusion",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "mahjong",
+    "title": "What Is Mahjong?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mahjong",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "makeup-artistry",
+    "title": "What Is Makeup Artistry?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "makeup artistry",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "management",
+    "title": "What Is Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mandarin-chinese",
+    "title": "What Is Mandarin Chinese?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mandarin chinese",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mandolin",
+    "title": "What Is Mandolin?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mandolin",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "manicuring",
+    "title": "What Is Manicuring?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "manicuring",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "maori-culture",
+    "title": "What Is Maori Culture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "maori culture",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "marathon-running",
+    "title": "What Is Marathon Running?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "marathon running",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "marine-navigation",
+    "title": "What Is Marine Navigation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "marine navigation",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "marionettes",
+    "title": "What Is Marionettes?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "marionettes",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "marksmanship",
+    "title": "What Is Marksmanship?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "marksmanship",
+      "sports"
+    ]
+  },
+  {
+    "slug": "martial-arts",
+    "title": "What Is Martial Arts?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "martial arts",
+      "sports"
+    ]
+  },
+  {
+    "slug": "marxism",
+    "title": "What Is Marxism?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "marxism",
+      "politics"
+    ]
+  },
+  {
+    "slug": "masonry",
+    "title": "What Is Masonry?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "masonry",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "measure-theory",
+    "title": "What Is Measure Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "measure theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "media-production",
+    "title": "What Is Media Production?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "media production",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "media-studies",
+    "title": "What Is Media Studies?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "media studies",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "medical-terminology",
+    "title": "What Is Medical Terminology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "medical terminology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "medieval-history",
+    "title": "What Is Medieval History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "medieval history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "meditation",
+    "title": "What Is Meditation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "meditation",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "memory-techniques",
+    "title": "What Is Memory Techniques?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "memory techniques",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mens-fashion",
+    "title": "What Is Men's Fashion?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mens fashion",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "merchant-marine",
+    "title": "What Is Merchant Marine?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "merchant marine",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "metal-detecting",
+    "title": "What Is Metal Detecting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "metal detecting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "metaphysics",
+    "title": "What Is Metaphysics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "metaphysics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "military-strategy",
+    "title": "What Is Military Strategy?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "military strategy",
+      "politics"
+    ]
+  },
+  {
+    "slug": "millinery",
+    "title": "What Is Millinery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "millinery",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "mime",
+    "title": "What Is Mime?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mime",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "miniature-golf",
+    "title": "What Is Miniature Golf?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "miniature golf",
+      "sports"
+    ]
+  },
+  {
+    "slug": "miniature-painting",
+    "title": "What Is Miniature Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "miniature painting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "minimalism",
+    "title": "What Is Minimalism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "minimalism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mixology",
+    "title": "What Is Mixology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mixology",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "mnemotechnics",
+    "title": "What Is Mnemotechnics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mnemotechnics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "model-building",
+    "title": "What Is Model Building?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "model building",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "model-railroading",
+    "title": "What Is Model Railroading?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "model railroading",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "modern-art",
+    "title": "What Is Modern Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "modern art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "modern-dance",
+    "title": "What Is Modern Dance?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "modern dance",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "molecular-gastronomy",
+    "title": "What Is Molecular Gastronomy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "molecular gastronomy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "monarchy",
+    "title": "What Is Monarchy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "monarchy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mongol-history",
+    "title": "What Is Mongol History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mongol history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "montessori-method",
+    "title": "What Is Montessori Method?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "montessori method",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mosaic-art",
+    "title": "What Is Mosaic Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mosaic",
+      "art",
+      "tesserae",
+      "grout",
+      "decorative arts",
+      "ancient art"
+    ]
+  },
+  {
+    "slug": "motorcycle-maintenance",
+    "title": "What Is Motorcycle Maintenance?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "motorcycle",
+      "maintenance",
+      "bike care",
+      "vehicle maintenance",
+      "motorcycle repair",
+      "riding safety"
+    ]
+  },
+  {
+    "slug": "motorcycle-racing",
+    "title": "What Is Motorcycle Racing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "motorcycle racing",
+      "motorsport",
+      "motogp",
+      "motocross",
+      "road racing",
+      "bike racing"
+    ]
+  },
+  {
+    "slug": "mountain-biking",
+    "title": "What Is Mountain Biking?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "mountain biking",
+      "cycling",
+      "off-road",
+      "trail riding",
+      "bike sports",
+      "outdoor recreation"
+    ]
+  },
+  {
+    "slug": "mountaineering",
+    "title": "What Is Mountaineering?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "mountaineering",
+      "mountain climbing",
+      "alpine climbing",
+      "trekking",
+      "rock climbing",
+      "adventure sports"
+    ]
+  },
+  {
+    "slug": "movie-memorabilia",
+    "title": "What Is Movie Memorabilia?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "movie memorabilia",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mural-painting",
+    "title": "What Is Mural Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mural",
+      "painting",
+      "public art",
+      "street art",
+      "wall art",
+      "fresco"
+    ]
+  },
+  {
+    "slug": "museology",
+    "title": "What Is Museology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "museology",
+      "museums",
+      "cultural heritage",
+      "conservation",
+      "exhibition design",
+      "collection management"
+    ]
+  },
+  {
+    "slug": "mushroom-hunting",
+    "title": "What Is Mushroom Hunting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mushroom hunting",
+      "foraging",
+      "mycology",
+      "wild mushrooms",
+      "edible fungi",
+      "outdoor activities"
+    ]
+  },
+  {
+    "slug": "music-composition",
+    "title": "What Is Music Composition?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music composition",
+      "composing",
+      "music creation",
+      "melody",
+      "harmony",
+      "rhythm"
+    ]
+  },
+  {
+    "slug": "music-education",
+    "title": "What Is Music Education?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music education",
+      "music learning",
+      "music teaching",
+      "music theory",
+      "music performance",
+      "arts education"
+    ]
+  },
+  {
+    "slug": "music-history",
+    "title": "What Is Music History?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music history",
+      "musicology",
+      "music periods",
+      "music styles",
+      "music genres",
+      "cultural history"
+    ]
+  },
+  {
+    "slug": "music-performance",
+    "title": "What Is Music Performance?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music performance",
+      "live music",
+      "concert",
+      "musical arts",
+      "performing arts",
+      "musicianship"
+    ]
+  },
+  {
+    "slug": "music-production",
+    "title": "What Is Music Production?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music production",
+      "audio production",
+      "recording",
+      "mixing",
+      "mastering",
+      "music industry"
+    ]
+  },
+  {
+    "slug": "music-theory",
+    "title": "What Is Music Theory?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "music theory",
+      "harmony",
+      "rhythm",
+      "melody",
+      "composition",
+      "musical analysis"
+    ]
+  },
+  {
+    "slug": "musical-theatre",
+    "title": "What Is Musical Theatre?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "musical theatre",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mystery-fiction",
+    "title": "What Is Mystery Fiction?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mystery fiction",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "mythology",
+    "title": "What Is Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "mythology",
+      "myths",
+      "folklore",
+      "ancient stories",
+      "gods",
+      "heroes"
+    ]
+  },
+  {
+    "slug": "narratology",
+    "title": "What Is Narratology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "narratology",
+      "narrative",
+      "storytelling",
+      "literary theory",
+      "plot",
+      "character"
+    ]
+  },
+  {
+    "slug": "national-parks",
+    "title": "What Is National Parks?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "national parks",
+      "conservation",
+      "wildlife",
+      "ecosystems",
+      "outdoor recreation",
+      "protected areas"
+    ]
+  },
+  {
+    "slug": "natural-building",
+    "title": "What Is Natural Building?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "natural building",
+      "sustainable architecture",
+      "green building",
+      "eco-friendly",
+      "straw bale",
+      "cob"
+    ]
+  },
+  {
+    "slug": "natural-disasters",
+    "title": "What Is Natural Disasters?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "natural disasters",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "navigation",
+    "title": "What Is Navigation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "navigation",
+      "gps",
+      "mapping",
+      "orienteering",
+      "celestial navigation",
+      "route planning"
+    ]
+  },
+  {
+    "slug": "negotiation",
+    "title": "What Is Negotiation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "negotiation",
+      "bargaining",
+      "conflict resolution",
+      "diplomacy",
+      "agreement",
+      "communication skills"
+    ]
+  },
+  {
+    "slug": "neoclassicism",
+    "title": "What Is Neoclassicism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "neoclassicism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "neolithic-history",
+    "title": "What Is Neolithic History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "neolithic history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "neural-networks",
+    "title": "What Is Neural Networks?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "neural networks",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "new-testament-studies",
+    "title": "What Is New Testament Studies?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "new testament",
+      "biblical studies",
+      "christianity",
+      "theology",
+      "religious history",
+      "bible"
+    ]
+  },
+  {
+    "slug": "newspaper-history",
+    "title": "What Is Newspaper History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "newspaper history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "nihilism",
+    "title": "What Is Nihilism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "nihilism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "nineteenth-century-history",
+    "title": "What Is Nineteenth-Century History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "nineteenth century history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "norse-mythology",
+    "title": "What Is Norse Mythology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "norse mythology",
+      "viking age",
+      "mythology",
+      "odin",
+      "thor",
+      "loki"
+    ]
+  },
+  {
+    "slug": "notary-public",
+    "title": "What Is Notary Public?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "notary public",
+      "notarization",
+      "legal documents",
+      "witness",
+      "fraud prevention",
+      "public officer"
+    ]
+  },
+  {
+    "slug": "novel-writing",
+    "title": "What Is Novel Writing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "novel writing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "nuclear-physics",
+    "title": "What Is Nuclear Physics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "nuclear physics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "numismatics",
+    "title": "What Is Numismatics?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "numismatics",
+      "coins",
+      "currency",
+      "money",
+      "coin collecting",
+      "economic history"
+    ]
+  },
+  {
+    "slug": "nursery-management",
+    "title": "What Is Nursery Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "nursery management",
+      "horticulture",
+      "plant propagation",
+      "gardening",
+      "agriculture",
+      "plant health"
+    ]
+  },
+  {
+    "slug": "object-oriented-programming",
+    "title": "What Is Object-Oriented Programming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "object oriented programming",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "off-roading",
+    "title": "What Is Off-roading?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "off roading",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "oil-painting",
+    "title": "What Is Oil Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "oil painting",
+      "art medium",
+      "painting techniques",
+      "fine art",
+      "linseed oil",
+      "pigments"
+    ]
+  },
+  {
+    "slug": "olive-oil-production",
+    "title": "What Is Olive Oil Production?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "olive oil",
+      "olive cultivation",
+      "oil extraction",
+      "mediterranean diet",
+      "extra virgin olive oil",
+      "agronomy"
+    ]
+  },
+  {
+    "slug": "opera",
+    "title": "What Is Opera?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "opera",
+      "classical music",
+      "performing arts",
+      "music drama",
+      "aria",
+      "libretto"
+    ]
+  },
+  {
+    "slug": "operations-management",
+    "title": "What Is Operations Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "operations management",
+      "business efficiency",
+      "supply chain",
+      "production",
+      "manufacturing",
+      "service delivery"
+    ]
+  },
+  {
+    "slug": "optimization",
+    "title": "What Is Optimization?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "optimization",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "oratory",
+    "title": "What Is Oratory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "oratory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "orchestration",
+    "title": "What Is Orchestration?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "orchestration",
+      "music",
+      "classical music",
+      "instrumentation",
+      "score",
+      "timbre"
+    ]
+  },
+  {
+    "slug": "orchid-growing",
+    "title": "What Is Orchid Growing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "orchid growing",
+      "orchids",
+      "horticulture",
+      "houseplants",
+      "phalaenopsis",
+      "plant care"
+    ]
+  },
+  {
+    "slug": "organic-farming",
+    "title": "What Is Organic Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "organic farming",
+      "sustainable agriculture",
+      "permaculture",
+      "soil health",
+      "biodiversity",
+      "pesticide-free"
+    ]
+  },
+  {
+    "slug": "organizational-behavior",
+    "title": "What Is Organizational Behavior?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "organizational behavior",
+      "ob",
+      "workplace psychology",
+      "human resources",
+      "leadership",
+      "team dynamics"
+    ]
+  },
+  {
+    "slug": "origami",
+    "title": "What Is Origami?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "origami",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "outdoor-survival",
+    "title": "What Is Outdoor Survival?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "outdoor survival",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pageantry",
+    "title": "What Is Pageantry?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "pageantry",
+      "beauty pageants",
+      "spectacle",
+      "performance",
+      "competition",
+      "ceremony"
+    ]
+  },
+  {
+    "slug": "paintball",
+    "title": "What Is Paintball?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "paintball",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "painting",
+    "title": "What Is Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "painting",
+      "art",
+      "art medium",
+      "visual arts",
+      "pigment",
+      "canvas"
+    ]
+  },
+  {
+    "slug": "paleoanthropology",
+    "title": "What Is Paleoanthropology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "paleoanthropology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "paleoclimatology",
+    "title": "What Is Paleoclimatology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "paleoclimatology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pali-language",
+    "title": "What Is Pali Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pali language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pantomime",
+    "title": "What Is Pantomime?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pantomime",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "paper-making",
+    "title": "What Is Paper Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "paper making",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "papier-mch",
+    "title": "What Is Papier-m\u00e2ch\u00e9?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "papier mch",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "paragliding",
+    "title": "What Is Paragliding?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "paragliding",
+      "adventure sport",
+      "flight",
+      "gliding",
+      "outdoor recreation",
+      "air sports"
+    ]
+  },
+  {
+    "slug": "parenting",
+    "title": "What Is Parenting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "parenting",
+      "child development",
+      "family",
+      "child rearing",
+      "nurturing",
+      "discipline"
+    ]
+  },
+  {
+    "slug": "parkour",
+    "title": "What Is Parkour?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "parkour",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "parliamentary-procedure",
+    "title": "What Is Parliamentary Procedure?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "parliamentary procedure",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "particle-physics",
+    "title": "What Is Particle Physics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "particle physics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pastry-arts",
+    "title": "What Is Pastry Arts?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pastry arts",
+      "baking",
+      "desserts",
+      "confectionery",
+      "pastry chef",
+      "culinary arts"
+    ]
+  },
+  {
+    "slug": "performance-art",
+    "title": "What Is Performance Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "performance art",
+      "contemporary art",
+      "live art",
+      "marina abramovi?",
+      "conceptual art",
+      "art performance"
+    ]
+  },
+  {
+    "slug": "perfume-making",
+    "title": "What Is Perfume Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "perfume making",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "periodontology",
+    "title": "What Is Periodontology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "periodontology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "permaculture",
+    "title": "What Is Permaculture?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "permaculture",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "personal-growth",
+    "title": "What Is Personal Growth?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "self-improvement",
+      "self-development",
+      "mindset",
+      "well-being",
+      "life skills",
+      "learning"
+    ]
+  },
+  {
+    "slug": "perspective-drawing",
+    "title": "What Is Perspective Drawing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "drawing",
+      "art",
+      "illustration",
+      "architecture",
+      "design",
+      "depth"
+    ]
+  },
+  {
+    "slug": "pet-care",
+    "title": "What Is Pet Care?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pets",
+      "animal welfare",
+      "veterinary",
+      "grooming",
+      "pet health",
+      "responsible ownership"
+    ]
+  },
+  {
+    "slug": "pet-grooming",
+    "title": "What Is Pet Grooming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "grooming",
+      "pets",
+      "animal care",
+      "hygiene",
+      "bathing",
+      "nails"
+    ]
+  },
+  {
+    "slug": "phenomenology",
+    "title": "What Is Phenomenology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "phenomenology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philately",
+    "title": "What Is Philately?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "stamps",
+      "collecting",
+      "postal history",
+      "philatelist",
+      "hobbies",
+      "history"
+    ]
+  },
+  {
+    "slug": "philosophy",
+    "title": "What Is Philosophy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philosophy-of-language",
+    "title": "What Is Philosophy of Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy of language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philosophy-of-law",
+    "title": "What Is Philosophy of Law?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy of law",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philosophy-of-mind",
+    "title": "What Is Philosophy of Mind?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy of mind",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philosophy-of-music",
+    "title": "What Is Philosophy of Music?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy of music",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "philosophy-of-religion",
+    "title": "What Is Philosophy of Religion?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "philosophy of religion",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "photographic-history",
+    "title": "What Is Photographic History?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "photography",
+      "history",
+      "art",
+      "camera",
+      "image",
+      "visual arts"
+    ]
+  },
+  {
+    "slug": "photolithography",
+    "title": "What Is Photolithography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "photolithography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "phrenology",
+    "title": "What Is Phrenology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "phrenology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "physical-chemistry",
+    "title": "What Is Physical Chemistry?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "physical chemistry",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "physical-comedy",
+    "title": "What Is Physical Comedy?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "comedy",
+      "humor",
+      "slapstick",
+      "performance",
+      "entertainment",
+      "clowning"
+    ]
+  },
+  {
+    "slug": "physical-education",
+    "title": "What Is Physical Education?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "education",
+      "fitness",
+      "health",
+      "sports",
+      "movement",
+      "wellness"
+    ]
+  },
+  {
+    "slug": "physiognomy",
+    "title": "What Is Physiognomy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "physiognomy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "physiology",
+    "title": "What Is Physiology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "physiology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "piano",
+    "title": "What Is Piano?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "piano",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "piano-tuning",
+    "title": "What Is Piano Tuning?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "piano tuning",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pictography",
+    "title": "What Is Pictography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pictography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pig-farming",
+    "title": "What Is Pig Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "agriculture",
+      "pigs",
+      "farming",
+      "pork",
+      "livestock",
+      "animal husbandry"
+    ]
+  },
+  {
+    "slug": "pilates",
+    "title": "What Is Pilates?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pilates",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pilot-training",
+    "title": "What Is Pilot Training?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pilot training",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pipe-organ",
+    "title": "What Is Pipe Organ?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pipe organ",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pizza-making",
+    "title": "What Is Pizza Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "cooking",
+      "food",
+      "pizza",
+      "baking",
+      "dough",
+      "culinary"
+    ]
+  },
+  {
+    "slug": "plastering",
+    "title": "What Is Plastering?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "construction",
+      "building",
+      "plaster",
+      "walls",
+      "ceilings",
+      "craft"
+    ]
+  },
+  {
+    "slug": "plate-tectonics",
+    "title": "What Is Plate Tectonics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "plate tectonics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "playwriting",
+    "title": "What Is Playwriting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "theater",
+      "drama",
+      "scriptwriting",
+      "writing",
+      "performing arts",
+      "storytelling"
+    ]
+  },
+  {
+    "slug": "plumbing",
+    "title": "What Is Plumbing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "construction",
+      "home improvement",
+      "water",
+      "pipes",
+      "drains",
+      "maintenance"
+    ]
+  },
+  {
+    "slug": "poetry",
+    "title": "What Is Poetry?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "literature",
+      "writing",
+      "verse",
+      "rhyme",
+      "rhythm",
+      "expression"
+    ]
+  },
+  {
+    "slug": "poker",
+    "title": "What Is Poker?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "poker",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "political-cartoons",
+    "title": "What Is Political Cartoons?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "politics",
+      "art",
+      "satire",
+      "journalism",
+      "humor",
+      "current events"
+    ]
+  },
+  {
+    "slug": "political-science",
+    "title": "What Is Political Science?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "politics",
+      "government",
+      "power",
+      "public policy",
+      "international relations",
+      "political theory"
+    ]
+  },
+  {
+    "slug": "politics",
+    "title": "What Is Politics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "government",
+      "power",
+      "decision-making",
+      "society",
+      "elections",
+      "policy"
+    ]
+  },
+  {
+    "slug": "polynesian-culture",
+    "title": "What Is Polynesian Culture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "polynesia",
+      "pacific islands",
+      "indigenous culture",
+      "oceania",
+      "voyaging",
+      "navigation"
+    ]
+  },
+  {
+    "slug": "pontoon-boating",
+    "title": "What Is Pontoon Boating?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "boating",
+      "pontoon boat",
+      "recreational boating",
+      "lake life",
+      "water sports",
+      "cruising"
+    ]
+  },
+  {
+    "slug": "pool-billiards",
+    "title": "What Is Pool (Billiards)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pool billiards",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "pop-art",
+    "title": "What Is Pop Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "pop art",
+      "andy warhol",
+      "roy lichtenstein",
+      "richard hamilton",
+      "mass culture",
+      "consumerism"
+    ]
+  },
+  {
+    "slug": "pop-music",
+    "title": "What Is Pop Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "pop music",
+      "popular music",
+      "music genre",
+      "catchy songs",
+      "commercial music",
+      "radio hits"
+    ]
+  },
+  {
+    "slug": "popular-culture",
+    "title": "What Is Popular Culture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "popular culture",
+      "pop culture",
+      "mass media",
+      "trends",
+      "mainstream",
+      "cultural phenomena"
+    ]
+  },
+  {
+    "slug": "porcelain-making",
+    "title": "What Is Porcelain Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "porcelain",
+      "ceramics",
+      "pottery",
+      "kaolin",
+      "kiln",
+      "glaze"
+    ]
+  },
+  {
+    "slug": "portrait-photography",
+    "title": "What Is Portrait Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "portrait photography",
+      "photography",
+      "portraiture",
+      "studio photography",
+      "environmental portrait",
+      "headshots"
+    ]
+  },
+  {
+    "slug": "portuguese-language",
+    "title": "What Is Portuguese Language?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "portuguese language",
+      "romance languages",
+      "brazil",
+      "portugal",
+      "lusophone",
+      "linguistics"
+    ]
+  },
+  {
+    "slug": "post-impressionism",
+    "title": "What Is Post-Impressionism?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "post-impressionism",
+      "art movement",
+      "vincent van gogh",
+      "paul c\u00e9zanne",
+      "georges seurat",
+      "paul gauguin"
+    ]
+  },
+  {
+    "slug": "pottery",
+    "title": "What Is Pottery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "pottery",
+      "ceramics",
+      "clay",
+      "kiln",
+      "glazing",
+      "hand-building"
+    ]
+  },
+  {
+    "slug": "powerlifting",
+    "title": "What Is Powerlifting?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "powerlifting",
+      "strength sport",
+      "squat",
+      "bench press",
+      "deadlift",
+      "strength training"
+    ]
+  },
+  {
+    "slug": "prb-music-functions-through-a-combination-of-rhythmic-drive-and-soulful-vocal-delivery-the-rhythm-section-drums",
+    "title": "What Is <p>R&B music functions through a combination of rhythmic drive and soulful vocal delivery. The rhythm section (drums?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "prb music functions through a combination of rhythmic drive and soulful vocal delivery the rhythm section drums",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "prehistoric-art",
+    "title": "What Is Prehistoric Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "prehistoric art",
+      "cave paintings",
+      "paleolithic art",
+      "neolithic art",
+      "archaeology",
+      "ancient art"
+    ]
+  },
+  {
+    "slug": "preservation-food",
+    "title": "What Is Preservation (Food)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "food preservation",
+      "food storage",
+      "canning",
+      "freezing",
+      "drying",
+      "fermentation"
+    ]
+  },
+  {
+    "slug": "press-release-writing",
+    "title": "What Is Press Release Writing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "press release",
+      "public relations",
+      "pr",
+      "media relations",
+      "journalism",
+      "corporate communication"
+    ]
+  },
+  {
+    "slug": "printmaking",
+    "title": "What Is Printmaking?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "printmaking",
+      "art",
+      "woodcut",
+      "etching",
+      "lithography",
+      "screen printing"
+    ]
+  },
+  {
+    "slug": "productivity",
+    "title": "What Is Productivity?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "productivity",
+      "efficiency",
+      "time management",
+      "work ethic",
+      "performance",
+      "output"
+    ]
+  },
+  {
+    "slug": "professional-wrestling",
+    "title": "What Is Professional Wrestling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "professional wrestling",
+      "wwe",
+      "wrestling",
+      "sports entertainment",
+      "lucha libre",
+      "njpw"
+    ]
+  },
+  {
+    "slug": "prop-making",
+    "title": "What Is Prop Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "prop making",
+      "props",
+      "theater arts",
+      "film production",
+      "stagecraft",
+      "set design"
+    ]
+  },
+  {
+    "slug": "prophecy",
+    "title": "What Is Prophecy?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "prophecy",
+      "prophet",
+      "divine",
+      "revelation",
+      "foretelling",
+      "religion"
+    ]
+  },
+  {
+    "slug": "prose",
+    "title": "What Is Prose?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "prose",
+      "writing",
+      "literature",
+      "fiction",
+      "non-fiction",
+      "grammar"
+    ]
+  },
+  {
+    "slug": "proverbs",
+    "title": "What Is Proverbs?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "proverbs",
+      "sayings",
+      "wisdom",
+      "folklore",
+      "culture",
+      "oral tradition"
+    ]
+  },
+  {
+    "slug": "pruning",
+    "title": "What Is Pruning?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "pruning",
+      "horticulture",
+      "gardening",
+      "arboriculture",
+      "plant care",
+      "tree pruning"
+    ]
+  },
+  {
+    "slug": "public-administration",
+    "title": "What Is Public Administration?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "public administration",
+      "government",
+      "public policy",
+      "bureaucracy",
+      "public service",
+      "management"
+    ]
+  },
+  {
+    "slug": "public-policy",
+    "title": "What Is Public Policy?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "public policy",
+      "government",
+      "policy making",
+      "public administration",
+      "law",
+      "social issues"
+    ]
+  },
+  {
+    "slug": "public-relations",
+    "title": "What Is Public Relations?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "public relations",
+      "pr",
+      "media relations",
+      "communication",
+      "reputation management",
+      "crisis communication"
+    ]
+  },
+  {
+    "slug": "public-speaking",
+    "title": "What Is Public Speaking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "public speaking",
+      "communication skills",
+      "presentation",
+      "rhetoric",
+      "oratory",
+      "speaking"
+    ]
+  },
+  {
+    "slug": "publishing",
+    "title": "What Is Publishing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "publishing",
+      "books",
+      "magazines",
+      "digital publishing",
+      "content creation",
+      "distribution"
+    ]
+  },
+  {
+    "slug": "puppetry",
+    "title": "What Is Puppetry?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "puppetry",
+      "puppets",
+      "puppeteer",
+      "marionette",
+      "hand puppet",
+      "shadow puppetry"
+    ]
+  },
+  {
+    "slug": "quakerism",
+    "title": "What Is Quakerism?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "quakerism",
+      "religion"
+    ]
+  },
+  {
+    "slug": "quantum-mechanics",
+    "title": "What Is Quantum Mechanics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "quantum mechanics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "quantum-physics",
+    "title": "What Is Quantum Physics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "quantum physics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "quilting",
+    "title": "What Is Quilting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "quilting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "race-car-driving",
+    "title": "What Is Race Car Driving?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "race car driving",
+      "sports"
+    ]
+  },
+  {
+    "slug": "racquetball",
+    "title": "What Is Racquetball?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "racquetball",
+      "sports"
+    ]
+  },
+  {
+    "slug": "radio-broadcasting",
+    "title": "What Is Radio Broadcasting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "radio broadcasting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "radiocarbon-dating",
+    "title": "What Is Radiocarbon Dating?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "radiocarbon dating",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "rafting",
+    "title": "What Is Rafting?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "rafting",
+      "sports"
+    ]
+  },
+  {
+    "slug": "raku-pottery",
+    "title": "What Is Raku Pottery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "raku pottery",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "rapping",
+    "title": "What Is Rapping?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "rapping",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "real-analysis",
+    "title": "What Is Real Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "real analysis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "realism-art",
+    "title": "What Is Realism (Art)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "realism art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "recreational-flying",
+    "title": "What Is Recreational Flying?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "recreational flying",
+      "sports"
+    ]
+  },
+  {
+    "slug": "recycling",
+    "title": "What Is Recycling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "recycling",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "relativity",
+    "title": "What Is Relativity?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "relativity",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "renaissance-art",
+    "title": "What Is Renaissance Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "renaissance art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "reptile-keeping",
+    "title": "What Is Reptile Keeping?",
+    "category": "hobbies",
+    "tier": "3",
+    "tags": [
+      "reptile keeping",
+      "hobbies"
+    ]
+  },
+  {
+    "slug": "restoration-art",
+    "title": "What Is Restoration (Art)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "restoration art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "restoration-automobile",
+    "title": "What Is Restoration (Automobile)?",
+    "category": "hobbies",
+    "tier": "3",
+    "tags": [
+      "restoration automobile",
+      "hobbies"
+    ]
+  },
+  {
+    "slug": "rhetoric",
+    "title": "What Is Rhetoric?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "rhetoric",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "riddles",
+    "title": "What Is Riddles?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "riddles",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "riding-horse",
+    "title": "What Is Riding (Horse)?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "riding horse",
+      "sports"
+    ]
+  },
+  {
+    "slug": "road-cycling",
+    "title": "What Is Road Cycling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "road cycling",
+      "sports"
+    ]
+  },
+  {
+    "slug": "rock-climbing",
+    "title": "What Is Rock Climbing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "rock climbing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "romance-languages",
+    "title": "What Is Romance Languages?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "latin",
+      "vulgar latin",
+      "spanish",
+      "french",
+      "italian",
+      "portuguese"
+    ]
+  },
+  {
+    "slug": "romance-literature",
+    "title": "What Is Romance Literature?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "medieval romance",
+      "chivalry",
+      "courtly love",
+      "love stories",
+      "fiction",
+      "novel"
+    ]
+  },
+  {
+    "slug": "romanesque-architecture",
+    "title": "What Is Romanesque Architecture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "medieval architecture",
+      "romanesque",
+      "european architecture",
+      "church architecture",
+      "cathedral",
+      "arches"
+    ]
+  },
+  {
+    "slug": "romanticism-art",
+    "title": "What Is Romanticism (Art)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "romantic art",
+      "19th century art",
+      "emotion",
+      "individualism",
+      "sublime",
+      "art movement"
+    ]
+  },
+  {
+    "slug": "roofing",
+    "title": "What Is Roofing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "roof",
+      "roofing materials",
+      "construction",
+      "building",
+      "home repair",
+      "roof repair"
+    ]
+  },
+  {
+    "slug": "rope-skipping",
+    "title": "What Is Rope Skipping?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "jump rope",
+      "skipping",
+      "fitness",
+      "exercise",
+      "cardio",
+      "coordination"
+    ]
+  },
+  {
+    "slug": "rowing",
+    "title": "What Is Rowing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "rowing",
+      "oars",
+      "boats",
+      "water sports",
+      "crew",
+      "endurance sport"
+    ]
+  },
+  {
+    "slug": "rugby",
+    "title": "What Is Rugby?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "rugby union",
+      "rugby league",
+      "contact sport",
+      "team sport",
+      "oval ball",
+      "tackling"
+    ]
+  },
+  {
+    "slug": "running",
+    "title": "What Is Running?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "exercise",
+      "fitness",
+      "cardio",
+      "marathon",
+      "running",
+      "track and field"
+    ]
+  },
+  {
+    "slug": "rural-sociology",
+    "title": "What Is Rural Sociology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "rural communities",
+      "agriculture",
+      "rural development",
+      "social studies",
+      "sociology",
+      "community"
+    ]
+  },
+  {
+    "slug": "russian-language",
+    "title": "What Is Russian Language?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "russian",
+      "slavic languages",
+      "cyrillic",
+      "language learning",
+      "linguistics",
+      "eastern europe"
+    ]
+  },
+  {
+    "slug": "sailing",
+    "title": "What Is Sailing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sailing",
+      "sailboat",
+      "yachting",
+      "wind power",
+      "nautical",
+      "water sports"
+    ]
+  },
+  {
+    "slug": "salsa-dancing",
+    "title": "What Is Salsa Dancing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "salsa dancing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "saltwater-aquariums",
+    "title": "What Is Saltwater Aquariums?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "aquarium",
+      "saltwater",
+      "marine life",
+      "fishkeeping",
+      "reef tank",
+      "coral"
+    ]
+  },
+  {
+    "slug": "sand-art",
+    "title": "What Is Sand Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sand",
+      "art",
+      "sculpture",
+      "beach art",
+      "sandcastle",
+      "temporary art"
+    ]
+  },
+  {
+    "slug": "sanskrit",
+    "title": "What Is Sanskrit?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "sanskrit",
+      "classical language",
+      "india",
+      "hinduism",
+      "buddhism",
+      "linguistics"
+    ]
+  },
+  {
+    "slug": "saxophone",
+    "title": "What Is Saxophone?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "saxophone",
+      "musical instrument",
+      "woodwind",
+      "jazz",
+      "classical music",
+      "adolphe sax"
+    ]
+  },
+  {
+    "slug": "scent-training-dogs",
+    "title": "What Is Scent Training (Dogs)?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "dog training",
+      "scent detection",
+      "nose work",
+      "canine",
+      "olfaction",
+      "dog behavior"
+    ]
+  },
+  {
+    "slug": "scheduling",
+    "title": "What Is Scheduling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "scheduling",
+      "time management",
+      "project management",
+      "planning",
+      "resource allocation",
+      "productivity"
+    ]
+  },
+  {
+    "slug": "scholasticism",
+    "title": "What Is Scholasticism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "scholasticism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "school-administration",
+    "title": "What Is School Administration?",
+    "category": "education",
+    "tier": "3",
+    "tags": [
+      "school management",
+      "education",
+      "school leadership",
+      "principal",
+      "superintendent",
+      "educational administration"
+    ]
+  },
+  {
+    "slug": "science-fiction",
+    "title": "What Is Science Fiction?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "science fiction",
+      "sci-fi",
+      "futuristic",
+      "space exploration",
+      "technology",
+      "speculative fiction"
+    ]
+  },
+  {
+    "slug": "science-journalism",
+    "title": "What Is Science Journalism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "science",
+      "journalism",
+      "science communication",
+      "research",
+      "public understanding",
+      "scientific literacy"
+    ]
+  },
+  {
+    "slug": "scientific-illustration",
+    "title": "What Is Scientific Illustration?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "scientific illustration",
+      "biology",
+      "anatomy",
+      "botany",
+      "art",
+      "science communication"
+    ]
+  },
+  {
+    "slug": "scrabble",
+    "title": "What Is Scrabble?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "scrabble",
+      "word game",
+      "board game",
+      "vocabulary",
+      "crossword",
+      "strategy game"
+    ]
+  },
+  {
+    "slug": "screen-printing",
+    "title": "What Is Screen Printing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "screen printing",
+      "silk screen",
+      "printing",
+      "textile printing",
+      "art print",
+      "stencil"
+    ]
+  },
+  {
+    "slug": "screenwriting",
+    "title": "What Is Screenwriting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "screenwriting",
+      "screenplay",
+      "film",
+      "television",
+      "script",
+      "storytelling"
+    ]
+  },
+  {
+    "slug": "scuba-diving",
+    "title": "What Is Scuba Diving?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "scuba diving",
+      "underwater",
+      "diving",
+      "marine life",
+      "ocean",
+      "exploration"
+    ]
+  },
+  {
+    "slug": "sculpture",
+    "title": "What Is Sculpture?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sculpture",
+      "art",
+      "three-dimensional art",
+      "statue",
+      "public art",
+      "carving"
+    ]
+  },
+  {
+    "slug": "seafood-cookery",
+    "title": "What Is Seafood Cookery?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "seafood",
+      "cooking",
+      "culinary",
+      "fish",
+      "shellfish",
+      "recipes"
+    ]
+  },
+  {
+    "slug": "seasonal-cooking",
+    "title": "What Is Seasonal Cooking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "seasonal food",
+      "local food",
+      "cooking",
+      "fresh ingredients",
+      "sustainability",
+      "culinary arts"
+    ]
+  },
+  {
+    "slug": "second-language-acquisition",
+    "title": "What Is Second Language Acquisition?",
+    "category": "education",
+    "tier": "3",
+    "tags": [
+      "second language",
+      "language learning",
+      "language acquisition",
+      "linguistics",
+      "bilingualism",
+      "foreign language"
+    ]
+  },
+  {
+    "slug": "self-publishing",
+    "title": "What Is Self-Publishing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "self-publishing",
+      "author",
+      "book publishing",
+      "independent publishing",
+      "ebooks",
+      "print-on-demand"
+    ]
+  },
+  {
+    "slug": "semantics",
+    "title": "What Is Semantics?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "semantics",
+      "linguistics",
+      "meaning",
+      "language",
+      "philosophy of language",
+      "lexical semantics"
+    ]
+  },
+  {
+    "slug": "sericulture",
+    "title": "What Is Sericulture?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sericulture",
+      "silkworms",
+      "silk",
+      "textile",
+      "agriculture",
+      "mulberry"
+    ]
+  },
+  {
+    "slug": "set-design",
+    "title": "What Is Set Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "set design",
+      "scenic design",
+      "theater",
+      "film",
+      "television",
+      "production design"
+    ]
+  },
+  {
+    "slug": "set-theory",
+    "title": "What Is Set Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "set theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "sewing",
+    "title": "What Is Sewing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sewing",
+      "craft",
+      "textile arts",
+      "fabric",
+      "needlework",
+      "tailoring"
+    ]
+  },
+  {
+    "slug": "shakespearean-literature",
+    "title": "What Is Shakespearean Literature?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "shakespeare",
+      "english literature",
+      "plays",
+      "poetry",
+      "drama",
+      "renaissance"
+    ]
+  },
+  {
+    "slug": "sheep-farming",
+    "title": "What Is Sheep Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sheep",
+      "farming",
+      "agriculture",
+      "wool",
+      "lamb",
+      "mutton"
+    ]
+  },
+  {
+    "slug": "shenanigans",
+    "title": "What Is Shenanigans?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "mischief",
+      "playful",
+      "pranks",
+      "trickery",
+      "amusing",
+      "behavior"
+    ]
+  },
+  {
+    "slug": "shoemaking",
+    "title": "What Is Shoemaking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "shoemaking",
+      "footwear",
+      "shoes",
+      "craft",
+      "leatherwork",
+      "fashion"
+    ]
+  },
+  {
+    "slug": "shooting-sports",
+    "title": "What Is Shooting Sports?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "shooting sports",
+      "target shooting",
+      "archery",
+      "firearms",
+      "precision",
+      "accuracy"
+    ]
+  },
+  {
+    "slug": "shorthand",
+    "title": "What Is Shorthand?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "shorthand",
+      "stenography",
+      "writing",
+      "note-taking",
+      "speed writing",
+      "gregg shorthand"
+    ]
+  },
+  {
+    "slug": "showmanship",
+    "title": "What Is Showmanship?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "showmanship",
+      "performance",
+      "stage presence",
+      "entertainment",
+      "charisma",
+      "public speaking"
+    ]
+  },
+  {
+    "slug": "sign-language",
+    "title": "What Is Sign Language?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "sign language",
+      "asl",
+      "bsl",
+      "deaf culture",
+      "communication",
+      "linguistics"
+    ]
+  },
+  {
+    "slug": "silversmithing",
+    "title": "What Is Silversmithing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "silversmithing",
+      "silver",
+      "metalworking",
+      "jewelry making",
+      "craft",
+      "artisanship"
+    ]
+  },
+  {
+    "slug": "singing",
+    "title": "What Is Singing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "singing",
+      "voice",
+      "music",
+      "vocal performance",
+      "choral music",
+      "performance art"
+    ]
+  },
+  {
+    "slug": "skateboarding",
+    "title": "What Is Skateboarding?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "skateboarding",
+      "skateboard",
+      "action sports",
+      "extreme sports",
+      "tricks",
+      "skatepark"
+    ]
+  },
+  {
+    "slug": "sketching",
+    "title": "What Is Sketching?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sketching",
+      "drawing",
+      "art",
+      "concept art",
+      "visual arts",
+      "illustration"
+    ]
+  },
+  {
+    "slug": "skiing",
+    "title": "What Is Skiing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "skiing",
+      "winter sports",
+      "snow",
+      "alpine skiing",
+      "cross-country skiing",
+      "ski resort"
+    ]
+  },
+  {
+    "slug": "skill-based-gaming",
+    "title": "What Is Skill-Based Gaming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "skill-based games",
+      "video games",
+      "esports",
+      "gaming",
+      "strategy",
+      "competitive gaming"
+    ]
+  },
+  {
+    "slug": "skydiving",
+    "title": "What Is Skydiving?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "skydiving",
+      "parachuting",
+      "freefall",
+      "extreme sports",
+      "adrenaline",
+      "adventure"
+    ]
+  },
+  {
+    "slug": "slavic-languages",
+    "title": "What Is Slavic Languages?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "slavic languages",
+      "east slavic",
+      "west slavic",
+      "south slavic",
+      "russian",
+      "polish"
+    ]
+  },
+  {
+    "slug": "sleight-of-hand",
+    "title": "What Is Sleight of Hand?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sleight of hand",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "small-engine-repair",
+    "title": "What Is Small Engine Repair?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "small engine repair",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "snooker",
+    "title": "What Is Snooker?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "snooker",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "snorkeling",
+    "title": "What Is Snorkeling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "snorkeling",
+      "sports"
+    ]
+  },
+  {
+    "slug": "snowboarding",
+    "title": "What Is Snowboarding?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "snowboarding",
+      "sports"
+    ]
+  },
+  {
+    "slug": "soap-making",
+    "title": "What Is Soap Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "soap making",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "soccer",
+    "title": "What Is Soccer?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "soccer",
+      "sports"
+    ]
+  },
+  {
+    "slug": "social-anthropology",
+    "title": "What Is Social Anthropology?",
+    "category": "social-sciences",
+    "tier": "3",
+    "tags": [
+      "social anthropology",
+      "social-sciences"
+    ]
+  },
+  {
+    "slug": "social-choice-theory",
+    "title": "What Is Social Choice Theory?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "social choice theory",
+      "politics"
+    ]
+  },
+  {
+    "slug": "social-commentary",
+    "title": "What Is Social Commentary?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "social commentary",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "social-contract-theory",
+    "title": "What Is Social Contract Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "social contract theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "social-darwinism",
+    "title": "What Is Social Darwinism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "social darwinism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "social-democracy",
+    "title": "What Is Social Democracy?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "social democracy",
+      "politics"
+    ]
+  },
+  {
+    "slug": "social-dynamics",
+    "title": "What Is Social Dynamics?",
+    "category": "social-sciences",
+    "tier": "3",
+    "tags": [
+      "social dynamics",
+      "social-sciences"
+    ]
+  },
+  {
+    "slug": "social-engineering",
+    "title": "What Is Social Engineering?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "social engineering",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "social-work",
+    "title": "What Is Social Work?",
+    "category": "social-sciences",
+    "tier": "3",
+    "tags": [
+      "social work",
+      "social-sciences"
+    ]
+  },
+  {
+    "slug": "socialism",
+    "title": "What Is Socialism?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "socialism",
+      "politics"
+    ]
+  },
+  {
+    "slug": "sociolinguistics",
+    "title": "What Is Sociolinguistics?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "sociolinguistics",
+      "language"
+    ]
+  },
+  {
+    "slug": "sociology",
+    "title": "What Is Sociology?",
+    "category": "social-sciences",
+    "tier": "3",
+    "tags": [
+      "sociology",
+      "social-sciences"
+    ]
+  },
+  {
+    "slug": "solar-sailing",
+    "title": "What Is Solar Sailing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "solar sailing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "solo-performance",
+    "title": "What Is Solo Performance?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "solo performance",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "songwriting",
+    "title": "What Is Songwriting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "songwriting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "sound-design",
+    "title": "What Is Sound Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sound design",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "space-law",
+    "title": "What Is Space Law?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "space law",
+      "politics"
+    ]
+  },
+  {
+    "slug": "spanish-language",
+    "title": "What Is Spanish Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "spanish language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "spearfishing",
+    "title": "What Is Spearfishing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "spearfishing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "special-education",
+    "title": "What Is Special Education?",
+    "category": "education",
+    "tier": "3",
+    "tags": [
+      "special education",
+      "education"
+    ]
+  },
+  {
+    "slug": "special-effects",
+    "title": "What Is Special Effects?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "special effects",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "spectroscopy",
+    "title": "What Is Spectroscopy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "spectroscopy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "speech-writing",
+    "title": "What Is Speech Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "speech writing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "speed-reading",
+    "title": "What Is Speed Reading?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "speed reading",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "sponge-biology",
+    "title": "What Is Sponge Biology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sponge biology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "sports-analytics",
+    "title": "What Is Sports Analytics?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sports analytics",
+      "sports"
+    ]
+  },
+  {
+    "slug": "sports-broadcasting",
+    "title": "What Is Sports Broadcasting?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sports broadcasting",
+      "sports"
+    ]
+  },
+  {
+    "slug": "sports-coaching",
+    "title": "What Is Sports Coaching?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sports coaching",
+      "sports"
+    ]
+  },
+  {
+    "slug": "sports-officiating",
+    "title": "What Is Sports Officiating?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sports officiating",
+      "sports"
+    ]
+  },
+  {
+    "slug": "sports-photography",
+    "title": "What Is Sports Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sports photography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "sports-writing",
+    "title": "What Is Sports Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sports writing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "spreadsheet-modeling",
+    "title": "What Is Spreadsheet Modeling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "spreadsheet modeling",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "squash",
+    "title": "What Is Squash?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "squash",
+      "sports"
+    ]
+  },
+  {
+    "slug": "stained-glass",
+    "title": "What Is Stained Glass?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "stained glass",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "stamp-collecting",
+    "title": "What Is Stamp Collecting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "stamp collecting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "stand-up-comedy",
+    "title": "What Is Stand-up Comedy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "stand up comedy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "state-government",
+    "title": "What Is State Government?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "state government",
+      "politics"
+    ]
+  },
+  {
+    "slug": "statistical-modeling",
+    "title": "What Is Statistical Modeling?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "statistical modeling",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "stenography",
+    "title": "What Is Stenography?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "stenography",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "stone-carving",
+    "title": "What Is Stone Carving?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "stone carving",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "stonemasonry",
+    "title": "What Is Stonemasonry?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "stonemasonry",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "storytelling",
+    "title": "What Is Storytelling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "storytelling",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "string-theory",
+    "title": "What Is String Theory?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "string theory",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "structural-biology",
+    "title": "What Is Structural Biology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "structural biology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "stucco",
+    "title": "What Is Stucco?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "stucco",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "student-government",
+    "title": "What Is Student Government?",
+    "category": "education",
+    "tier": "3",
+    "tags": [
+      "student government",
+      "education"
+    ]
+  },
+  {
+    "slug": "styling-fashion",
+    "title": "What Is Styling (Fashion)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "styling fashion",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "sudoku",
+    "title": "What Is Sudoku?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sudoku",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "sumo-wrestling",
+    "title": "What Is Sumo Wrestling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "sumo wrestling",
+      "sports"
+    ]
+  },
+  {
+    "slug": "superconductivity",
+    "title": "What Is Superconductivity?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "superconductivity",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "superfoods",
+    "title": "What Is Superfoods?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "superfoods",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "supernatural-folklore",
+    "title": "What Is Supernatural Folklore?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "supernatural folklore",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "surfing",
+    "title": "What Is Surfing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "promoting a lifestyle closely tied to the ocean",
+      "nature",
+      "improves balance and core strength"
+    ]
+  },
+  {
+    "slug": "sushi-making",
+    "title": "What Is Sushi Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "sushi making",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "sustainable-development",
+    "title": "What Is Sustainable Development?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sustainable development",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "swahili-language",
+    "title": "What Is Swahili Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "swahili language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "swimming",
+    "title": "What Is Swimming?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "swimming",
+      "sports"
+    ]
+  },
+  {
+    "slug": "swordsmanship",
+    "title": "What Is Swordsmanship?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "swordsmanship",
+      "sports"
+    ]
+  },
+  {
+    "slug": "symbology",
+    "title": "What Is Symbology?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "symbology",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "symphony-composition",
+    "title": "What Is Symphony Composition?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "symphony composition",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "synchronized-swimming",
+    "title": "What Is Synchronized Swimming?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "synchronized swimming",
+      "sports"
+    ]
+  },
+  {
+    "slug": "syntax",
+    "title": "What Is Syntax?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "syntax",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "syriac-language",
+    "title": "What Is Syriac Language?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "syriac language",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "systems-analysis",
+    "title": "What Is Systems Analysis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "systems analysis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "systems-engineering",
+    "title": "What Is Systems Engineering?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "systems engineering",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "table-tennis",
+    "title": "What Is Table Tennis?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "table tennis",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "tabletop-role-playing-games",
+    "title": "What Is Tabletop Role-Playing Games?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tabletop role playing games",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "tactical-analysis",
+    "title": "What Is Tactical Analysis?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "tactical analysis",
+      "sports"
+    ]
+  },
+  {
+    "slug": "taekwondo",
+    "title": "What Is Taekwondo?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "taekwondo",
+      "sports"
+    ]
+  },
+  {
+    "slug": "tai-chi",
+    "title": "What Is Tai Chi?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tai chi",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "tailoring",
+    "title": "What Is Tailoring?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tailoring",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "talmudic-law",
+    "title": "What Is Talmudic Law?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "talmud",
+      "jewish law",
+      "halakha",
+      "rabbinic judaism",
+      "mishnah",
+      "gemara"
+    ]
+  },
+  {
+    "slug": "tantra",
+    "title": "What Is Tantra?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "tantra",
+      "spirituality",
+      "hinduism",
+      "buddhism",
+      "shakti",
+      "mantra"
+    ]
+  },
+  {
+    "slug": "tapestry",
+    "title": "What Is Tapestry?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tapestry",
+      "textile art",
+      "weaving",
+      "loom",
+      "fiber art",
+      "wall hanging"
+    ]
+  },
+  {
+    "slug": "tarot-reading",
+    "title": "What Is Tarot Reading?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tarot",
+      "tarot reading",
+      "divination",
+      "cartomancy",
+      "major arcana",
+      "minor arcana"
+    ]
+  },
+  {
+    "slug": "taxidermy",
+    "title": "What Is Taxidermy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "taxidermy",
+      "animal preservation",
+      "specimen",
+      "mounting",
+      "craft",
+      "art"
+    ]
+  },
+  {
+    "slug": "tea-ceremony",
+    "title": "What Is Tea Ceremony?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tea ceremony",
+      "japanese tea ceremony",
+      "chanoyu",
+      "gongfu cha",
+      "tea",
+      "culture"
+    ]
+  },
+  {
+    "slug": "teaching",
+    "title": "What Is Teaching?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "teaching",
+      "education",
+      "pedagogy",
+      "learning",
+      "instructor",
+      "educator"
+    ]
+  },
+  {
+    "slug": "television-production",
+    "title": "What Is Television Production?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "television production",
+      "tv production",
+      "filmmaking",
+      "media production",
+      "broadcasting",
+      "pre-production"
+    ]
+  },
+  {
+    "slug": "television-writing",
+    "title": "What Is Television Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "television writing",
+      "tv writing",
+      "screenwriting",
+      "scriptwriting",
+      "showrunner",
+      "writers' room"
+    ]
+  },
+  {
+    "slug": "tennis",
+    "title": "What Is Tennis?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "tennis",
+      "racket sport",
+      "court",
+      "net",
+      "ball",
+      "serve"
+    ]
+  },
+  {
+    "slug": "terrariums",
+    "title": "What Is Terrariums?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "terrariums",
+      "ecosystem",
+      "plants",
+      "gardening",
+      "indoor plants",
+      "glass container"
+    ]
+  },
+  {
+    "slug": "terrorism-studies",
+    "title": "What Is Terrorism Studies?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "terrorism studies",
+      "terrorism",
+      "counterterrorism",
+      "political violence",
+      "extremism",
+      "radicalization"
+    ]
+  },
+  {
+    "slug": "textile-arts",
+    "title": "What Is Textile Arts?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "textile arts",
+      "fiber art",
+      "weaving",
+      "knitting",
+      "dyeing",
+      "embroidery"
+    ]
+  },
+  {
+    "slug": "textile-design",
+    "title": "What Is Textile Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "textile design",
+      "fabric design",
+      "pattern design",
+      "weave",
+      "print",
+      "knitting"
+    ]
+  },
+  {
+    "slug": "thai-language",
+    "title": "What Is Thai Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "thai language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "thatching",
+    "title": "What Is Thatching?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "thatching",
+      "roofing",
+      "craft",
+      "traditional building",
+      "sustainable architecture",
+      "straw roof"
+    ]
+  },
+  {
+    "slug": "the-history-of-physics",
+    "title": "What Is The History of Physics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "the history of physics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "theater-arts",
+    "title": "What Is Theater Arts?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "theater arts",
+      "theatre",
+      "drama",
+      "acting",
+      "directing",
+      "stagecraft"
+    ]
+  },
+  {
+    "slug": "theater-direction",
+    "title": "What Is Theater Direction?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "theater direction",
+      "directing",
+      "theatre",
+      "stage director",
+      "artistic director",
+      "play production"
+    ]
+  },
+  {
+    "slug": "theatrical-history",
+    "title": "What Is Theatrical History?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "theatrical history",
+      "theatre",
+      "drama",
+      "performance",
+      "stage",
+      "acting"
+    ]
+  },
+  {
+    "slug": "theology",
+    "title": "What Is Theology?",
+    "category": "religion",
+    "tier": "3",
+    "tags": [
+      "theology",
+      "religion",
+      "god",
+      "faith",
+      "doctrine",
+      "ethics"
+    ]
+  },
+  {
+    "slug": "tile-setting",
+    "title": "What Is Tile Setting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tile setting",
+      "tiling",
+      "construction",
+      "home improvement",
+      "ceramic tile",
+      "porcelain tile"
+    ]
+  },
+  {
+    "slug": "time-management",
+    "title": "What Is Time Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "time management",
+      "productivity",
+      "organization",
+      "planning",
+      "prioritization",
+      "efficiency"
+    ]
+  },
+  {
+    "slug": "tinsmithing",
+    "title": "What Is Tinsmithing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tinsmithing",
+      "metalworking",
+      "craft",
+      "tinplate",
+      "soldering",
+      "sheet metal"
+    ]
+  },
+  {
+    "slug": "titanium-forging",
+    "title": "What Is Titanium Forging?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "titanium forging",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "topiary",
+    "title": "What Is Topiary?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "topiary",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "tort-law",
+    "title": "What Is Tort Law?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tort law",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "tourism",
+    "title": "What Is Tourism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "tourism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "toy-making",
+    "title": "What Is Toy Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "toy making",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "track-and-field",
+    "title": "What Is Track and Field?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "track and field",
+      "sports"
+    ]
+  },
+  {
+    "slug": "traditional-chinese-medicine",
+    "title": "What Is Traditional Chinese Medicine?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "traditional chinese medicine",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "tragedy-literature",
+    "title": "What Is Tragedy (Literature)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tragedy literature",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "trail-running",
+    "title": "What Is Trail Running?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "trail running",
+      "sports"
+    ]
+  },
+  {
+    "slug": "train-spotting",
+    "title": "What Is Train Spotting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "train spotting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "transcendentalism",
+    "title": "What Is Transcendentalism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "transcendentalism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "transcription",
+    "title": "What Is Transcription?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "transcription",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "translation",
+    "title": "What Is Translation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "translation",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "trapping",
+    "title": "What Is Trapping?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "trapping",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "travel-hacking",
+    "title": "What Is Travel Hacking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "travel hacking",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "travel-photography",
+    "title": "What Is Travel Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "travel photography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "travel-writing",
+    "title": "What Is Travel Writing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "travel writing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "tree-climbing",
+    "title": "What Is Tree Climbing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "tree climbing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "triathlon",
+    "title": "What Is Triathlon?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "triathlon",
+      "sports"
+    ]
+  },
+  {
+    "slug": "trombone",
+    "title": "What Is Trombone?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "trombone",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "truck-driving",
+    "title": "What Is Truck Driving?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "truck driving",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "trumpet",
+    "title": "What Is Trumpet?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "trumpet",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "tuba",
+    "title": "What Is Tuba?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tuba",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "tuning-instruments",
+    "title": "What Is Tuning (Instruments)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "tuning instruments",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "turkish-language",
+    "title": "What Is Turkish Language?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "turkish language",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "turning-wood",
+    "title": "What Is Turning (Wood)?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "turning wood",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "type-design",
+    "title": "What Is Type Design?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "type design",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "typesetting",
+    "title": "What Is Typesetting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "typesetting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "typography",
+    "title": "What Is Typography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "typography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "ufology",
+    "title": "What Is Ufology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "ufology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "ukelele",
+    "title": "What Is Ukelele?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "ukelele",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "ullicooperative-brood-care-members-of-the-colony-care-for-the-young-of-other-individualslilioverlapping-generations-adults-of-different-generations-live-together-and-contribute-to-colony-laborlilireproductive-division-of-labor-only-a-few-individuals-eg",
+    "title": "What Is <ul><li>**Cooperative Brood Care:** Members of the colony care for the young of other individuals.</li><li>**Overlapping Generations:** Adults of different generations live together and contribute to colony labor.</li><li>**Reproductive Division of Labor:** Only a few individuals (e.g.?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "ullicooperative brood care members of the colony care for the young of other individualslilioverlapping generations adults of different generations live together and contribute to colony laborlilireproductive division of labor only a few individuals eg",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "ullistructure-the-physical-framework-of-the-spacecraftlilipropulsion-systems-for-thrust-and-maneuverabilitylilipower-generating-and-distributing-electrical-power-eg",
+    "title": "What Is <ul><li>**Structure:** The physical framework of the spacecraft.</li><li>**Propulsion:** Systems for thrust and maneuverability.</li><li>**Power:** Generating and distributing electrical power (e.g.?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "ullistructure the physical framework of the spacecraftlilipropulsion systems for thrust and maneuverabilitylilipower generating and distributing electrical power eg",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "underwater-photography",
+    "title": "What Is Underwater Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "underwater photography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "university-administration",
+    "title": "What Is University Administration?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "university administration",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "upholstery",
+    "title": "What Is Upholstery?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "upholstery",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "urban-exploration",
+    "title": "What Is Urban Exploration?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "urban exploration",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "urban-farming",
+    "title": "What Is Urban Farming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "urban farming",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "urdu-language",
+    "title": "What Is Urdu Language?",
+    "category": "language",
+    "tier": "3",
+    "tags": [
+      "urdu language",
+      "language"
+    ]
+  },
+  {
+    "slug": "user-interface-ui-design",
+    "title": "What Is User Interface (UI) Design?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "user interface ui design",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "vaudeville",
+    "title": "What Is Vaudeville?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "vaudeville",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "vegan-cooking",
+    "title": "What Is Vegan Cooking?",
+    "category": "food-amp-drink",
+    "tier": "3",
+    "tags": [
+      "vegan cooking",
+      "food-amp-drink"
+    ]
+  },
+  {
+    "slug": "vegetable-gardening",
+    "title": "What Is Vegetable Gardening?",
+    "category": "lifestyle",
+    "tier": "3",
+    "tags": [
+      "vegetable gardening",
+      "lifestyle"
+    ]
+  },
+  {
+    "slug": "vegetarian-cooking",
+    "title": "What Is Vegetarian Cooking?",
+    "category": "food-amp-drink",
+    "tier": "3",
+    "tags": [
+      "vegetarian cooking",
+      "food-amp-drink"
+    ]
+  },
+  {
+    "slug": "ventriloquism",
+    "title": "What Is Ventriloquism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "ventriloquism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "vexillology",
+    "title": "What Is Vexillology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "vexillology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "video-editing",
+    "title": "What Is Video Editing?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "video editing",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "video-game-design",
+    "title": "What Is Video Game Design?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "video game design",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "video-game-history",
+    "title": "What Is Video Game History?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "video game history",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "video-game-journalism",
+    "title": "What Is Video Game Journalism?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "video game journalism",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "video-production",
+    "title": "What Is Video Production?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "video production",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "videography",
+    "title": "What Is Videography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "videography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "viennese-waltz",
+    "title": "What Is Viennese Waltz?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "viennese waltz",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "viola",
+    "title": "What Is Viola?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "viola",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "violin",
+    "title": "What Is Violin?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "violin",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "violin-making",
+    "title": "What Is Violin Making?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "violin making",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "virtue-ethics",
+    "title": "What Is Virtue Ethics?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "virtue ethics",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "visual-arts",
+    "title": "What Is Visual Arts?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "visual arts",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "visual-effects",
+    "title": "What Is Visual Effects?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "visual effects",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "vocal-coaching",
+    "title": "What Is Vocal Coaching?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "vocal coaching",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "vocal-performance",
+    "title": "What Is Vocal Performance?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "vocal performance",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "volleyball",
+    "title": "What Is Volleyball?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "volleyball",
+      "sports"
+    ]
+  },
+  {
+    "slug": "voodoo",
+    "title": "What Is Voodoo?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "voodoo",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "voting-theory",
+    "title": "What Is Voting Theory?",
+    "category": "politics",
+    "tier": "3",
+    "tags": [
+      "voting theory",
+      "politics"
+    ]
+  },
+  {
+    "slug": "wall-painting",
+    "title": "What Is Wall Painting?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "wall painting",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "wargaming",
+    "title": "What Is Wargaming?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wargaming",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "warhammer",
+    "title": "What Is Warhammer?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "warhammer",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "waste-management",
+    "title": "What Is Waste Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "waste management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "watchmaking",
+    "title": "What Is Watchmaking?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "watchmaking",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "water-color-painting",
+    "title": "What Is Water Color Painting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "water color painting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "water-law",
+    "title": "What Is Water Law?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "water law",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "water-management",
+    "title": "What Is Water Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "water management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "water-polo",
+    "title": "What Is Water Polo?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "water polo",
+      "sports"
+    ]
+  },
+  {
+    "slug": "water-purification",
+    "title": "What Is Water Purification?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "water purification",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "water-skiing",
+    "title": "What Is Water Skiing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "water skiing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "weaving",
+    "title": "What Is Weaving?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "weaving",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "web-security",
+    "title": "What Is Web Security?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "web security",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wedding-planning",
+    "title": "What Is Wedding Planning?",
+    "category": "lifestyle",
+    "tier": "3",
+    "tags": [
+      "wedding planning",
+      "lifestyle"
+    ]
+  },
+  {
+    "slug": "weightlifting",
+    "title": "What Is Weightlifting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "weightlifting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "western-art",
+    "title": "What Is Western Art?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "western art",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "western-film-genre",
+    "title": "What Is Western Film Genre?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "western film genre",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "western-philosophy",
+    "title": "What Is Western Philosophy?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "western philosophy",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wetland-ecology",
+    "title": "What Is Wetland Ecology?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wetland ecology",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "whale-watching",
+    "title": "What Is Whale Watching?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "whale watching",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "whittling",
+    "title": "What Is Whittling?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "whittling",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "wildfire-management",
+    "title": "What Is Wildfire Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wildfire management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wildlife-conservation",
+    "title": "What Is Wildlife Conservation?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wildlife conservation",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wildlife-management",
+    "title": "What Is Wildlife Management?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wildlife management",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wildlife-photography",
+    "title": "What Is Wildlife Photography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "wildlife photography",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "wind-power",
+    "title": "What Is Wind Power?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wind power",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "windsurfing",
+    "title": "What Is Windsurfing?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "windsurfing",
+      "sports"
+    ]
+  },
+  {
+    "slug": "wine-making",
+    "title": "What Is Wine Making?",
+    "category": "food-amp-drink",
+    "tier": "3",
+    "tags": [
+      "wine making",
+      "food-amp-drink"
+    ]
+  },
+  {
+    "slug": "wine-tasting",
+    "title": "What Is Wine Tasting?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wine tasting",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "wood-carving",
+    "title": "What Is Wood Carving?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "wood carving",
+      "arts-amp-culture"
+    ]
+  },
+  {
+    "slug": "wood-finishing",
+    "title": "What Is Wood Finishing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "wood finishing",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "woodworking",
+    "title": "What Is Woodworking?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "woodworking",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "word-games",
+    "title": "What Is Word Games?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "word games",
+      "everyday-concepts"
+    ]
+  },
+  {
+    "slug": "world-cuisine",
+    "title": "What Is World Cuisine?",
+    "category": "food-amp-drink",
+    "tier": "3",
+    "tags": [
+      "world cuisine",
+      "food-amp-drink"
+    ]
+  },
+  {
+    "slug": "world-music",
+    "title": "What Is World Music?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "global music",
+      "traditional music",
+      "ethnic music",
+      "cultural music",
+      "music genres",
+      "cross-cultural"
+    ]
+  },
+  {
+    "slug": "wrestling",
+    "title": "What Is Wrestling?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "combat sport",
+      "grappling",
+      "martial arts",
+      "olympic sports",
+      "physical fitness",
+      "self-defense"
+    ]
+  },
+  {
+    "slug": "writing",
+    "title": "What Is Writing?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "communication",
+      "language",
+      "literacy",
+      "creative writing",
+      "journalism",
+      "education"
+    ]
+  },
+  {
+    "slug": "xylography",
+    "title": "What Is Xylography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "woodcut",
+      "printmaking",
+      "engraving",
+      "art history",
+      "printing techniques",
+      "relief printing"
+    ]
+  },
+  {
+    "slug": "yachting",
+    "title": "What Is Yachting?",
+    "category": "sports",
+    "tier": "3",
+    "tags": [
+      "boating",
+      "sailing",
+      "luxury",
+      "recreation",
+      "marine sports",
+      "maritime"
+    ]
+  },
+  {
+    "slug": "yogurt-making",
+    "title": "What Is Yogurt Making?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "food science",
+      "cooking",
+      "dairy",
+      "fermentation",
+      "probiotics",
+      "healthy eating"
+    ]
+  },
+  {
+    "slug": "zentangle",
+    "title": "What Is Zentangle?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "art",
+      "drawing",
+      "mindfulness",
+      "relaxation",
+      "creative expression",
+      "pattern art"
+    ]
+  },
+  {
+    "slug": "zero-waste-living",
+    "title": "What Is Zero-Waste Living?",
+    "category": "everyday-concepts",
+    "tier": "3",
+    "tags": [
+      "sustainability",
+      "environmentalism",
+      "eco-friendly",
+      "waste reduction",
+      "green living",
+      "recycling"
+    ]
+  },
+  {
+    "slug": "zincography",
+    "title": "What Is Zincography?",
+    "category": "arts-amp-culture",
+    "tier": "3",
+    "tags": [
+      "printmaking",
+      "lithography",
+      "art history",
+      "printing techniques",
+      "graphic arts",
+      "historical printing"
+    ]
+  }
+]
