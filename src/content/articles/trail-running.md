@@ -4,7 +4,7 @@ slug: trail-running
 description: "Trail running is the sport of running on unpaved paths through natural terrain. Learn the gear, techniques, benefits, and how it differs from road running."
 category: sports
 tags: ["trail running", "running", "outdoor sports", "nature", "endurance", "ultramarathon"]
-heroImage: "/images/articles/trail-running.webp"
+heroImage: "/images/articles/trail-running-hero.webp"
 heroAlt: "Editorial photograph representing the concept of trail running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ And then there's the mental component. Trail running demands attention. You can'
 
 **Hydration** — Trails rarely have water fountains. Running vests or hydration packs with water reservoirs and space for [nutrition](/nutrition), emergency supplies, and extra layers are standard for anything beyond a short outing.
 
-**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-[physiology](/physiology)) runners consume thousands of calories during races.
+**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-physiology)) runners consume thousands of calories during races.
 
 **[Navigation](/navigation)** — GPS watches, phone apps (like AllTrails or Gaia GPS), and occasionally old-fashioned maps and compasses. Getting lost on trails is a real possibility.
 

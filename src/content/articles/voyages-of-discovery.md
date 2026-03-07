@@ -4,7 +4,7 @@ slug: voyages-of-discovery
 description: "Voyages of discovery were the European maritime expeditions from the 15th to 17th centuries that mapped the world and reshaped global trade and power."
 category: history
 tags: ["voyages of discovery", "age of exploration", "maritime history", "colonialism"]
-heroImage: "/images/articles/voyages-of-discovery.webp"
+heroImage: "/images/articles/voyages-of-discovery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of voyages of discovery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Voyages of Discovery?
 
-The voyages of discovery — also called the Age of Exploration — were a series of European maritime expeditions from roughly the early 1400s to the late 1600s that mapped previously unknown (to Europeans) coastlines, established new [trade](/trade) routes, and fundamentally reshaped the world's political, economic, and demographic order.
+The voyages of discovery — also called the Age of Exploration — were a series of European maritime expeditions from roughly the early 1400s to the late 1600s that mapped previously unknown (to Europeans) coastlines, established new [trade](/trade) routes, and fundamentally reshaped the [world](/world-war-i)'s political, economic, and demographic order.
 
 These voyages connected continents that had been largely isolated from each other. They also set in motion colonialism, the Atlantic slave trade, and the near-destruction of Indigenous civilizations across multiple continents. Understanding them means holding two realities at once: extraordinary feats of seamanship and [navigation](/navigation) alongside extraordinary acts of violence and exploitation.
 

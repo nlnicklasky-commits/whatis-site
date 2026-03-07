@@ -1,10 +1,10 @@
 ---
 title: "What Is Ancient Roman History?"
 slug: ancient-roman-history
-description: "Ancient Roman history traces Rome's growth from a small Italian village to an empire spanning three continents over roughly 1,200 years."
+description: "Ancient Roman history traces Rome's growth from a small Italian village to an empire spanning three continents over roughly 1,200 years. Discover the key fac..."
 category: history
 tags: ["ancient rome", "roman history", "roman republic", "roman empire", "julius caesar"]
-heroImage: "/images/articles/ancient-roman-history.webp"
+heroImage: "/images/articles/ancient-roman-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ancient roman history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Rome's lasting contributions include legal codes that underpin Western law, concrete and arch-based engineering, road networks, republican government, Latin (the root of Romance languages), and the spread of Christianity as a major world religion."
 ---
 
+# What Is Ancient Roman History?
 Ancient Roman history spans roughly 1,200 years — from Rome's legendary founding in 753 BCE to the fall of the Western Roman Empire in 476 CE. During that time, a small settlement on the Tiber River grew into the largest empire the ancient Mediterranean world had ever seen, governing an estimated 60–70 million people across three continents.
 
 What makes Rome fascinating isn't just its size or duration. It's how Rome kept reinventing itself. Monarchy, republic, empire — each political system emerged from the failures of the last. And the things Romans built, both physical and institutional, are still with you today. The legal systems, roads, languages, and even the calendar you use trace back to Roman innovations.

@@ -4,7 +4,7 @@ slug: human-rights-law
 description: "Human rights law is the body of international and domestic rules protecting fundamental freedoms. Learn about its origins, key treaties, and enforcement."
 category: law
 tags: ["human rights law", "human rights", "international law", "justice", "equality"]
-heroImage: "/images/articles/human-rights-law.webp"
+heroImage: "/images/articles/human-rights-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of human rights law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

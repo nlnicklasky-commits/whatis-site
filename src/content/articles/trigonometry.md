@@ -4,7 +4,7 @@ slug: trigonometry
 description: "Trigonometry is the branch of math studying relationships between angles and sides of triangles. Learn about sine, cosine, tangent, and real-world applications."
 category: science
 tags: ["trigonometry", "mathematics", "geometry"]
-heroImage: "/images/articles/trigonometry.webp"
+heroImage: "/images/articles/trigonometry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of trigonometry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

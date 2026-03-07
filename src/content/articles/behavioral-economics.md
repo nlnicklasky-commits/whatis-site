@@ -4,7 +4,7 @@ slug: behavioral-economics
 description: "Behavioral economics studies how psychological factors and cognitive biases influence economic decisions, challenging the assumption of purely rational actors."
 category: everyday-concepts
 tags: ["behavioral economics", "economics", "psychology", "cognitive bias", "decision making", "nudge theory"]
-heroImage: "/images/articles/behavioral-economics.webp"
+heroImage: "/images/articles/behavioral-economics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of behavioral economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

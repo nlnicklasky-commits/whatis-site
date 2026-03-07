@@ -1,10 +1,10 @@
 ---
 title: "What Is Nuclear Physics?"
 slug: nuclear-physics
-description: "Nuclear physics studies the atomic nucleus and the forces holding it together. Learn about fission, fusion, radioactivity, and nuclear energy."
+description: "Nuclear physics studies the atomic nucleus and the forces holding it together. Learn about fission, fusion, radioactivity, and nuclear energy. Discover the k..."
 category: everyday-concepts
 tags: ["nuclear physics", "atomic energy", "radioactivity", "fission", "fusion", "particle physics"]
-heroImage: "/images/articles/nuclear-physics.webp"
+heroImage: "/images/articles/nuclear-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nuclear physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Nuclear [Physics](/physics)?
 
-Nuclear physics is the branch of physics that studies the atomic nucleus — the tiny, dense core of an atom made up of protons and neutrons. It examines how these particles are held together, how nuclei transform through radioactive decay, and what happens when you split them apart (fission) or smash them together (fusion). The field has given us everything from [nuclear power](/nuclear-power) plants and [medical imaging](/medical-imaging) to atomic weapons and our understanding of how stars burn.
+Nuclear [physics](/particle-physics) is the branch of physics that studies the atomic nucleus — the tiny, dense core of an atom made up of protons and neutrons. It examines how these particles are held together, how nuclei transform through radioactive decay, and what happens when you split them apart (fission) or smash them together (fusion). The field has given us everything from [nuclear power](/nuclear-power) plants and [medical imaging](/medical-imaging) to atomic weapons and our understanding of how stars burn.
 
 ## Inside the Nucleus
 

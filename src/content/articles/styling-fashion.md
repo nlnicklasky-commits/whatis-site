@@ -4,7 +4,7 @@ slug: styling-fashion
 description: "Fashion styling is the art of selecting and arranging clothing and accessories to create a specific look. Learn how stylists work and where they're needed."
 category: arts-amp-culture
 tags: ["styling fashion", "fashion", "wardrobe", "personal styling", "editorial", "visual arts"]
-heroImage: "/images/articles/styling-fashion.webp"
+heroImage: "/images/articles/styling-fashion-hero.webp"
 heroAlt: "Editorial photograph representing the concept of styling (fashion)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Styling (Fashion)?
 
-Fashion styling is the practice of selecting, combining, and arranging clothing, accessories, hair, and makeup to create a specific visual effect or communicate an idea. It's the difference between wearing clothes and wearing an *outfit* — between getting dressed and making a statement.
+Fashion styling is the practice of selecting, combining, and arranging clothing, accessories, hair, and makeup to create a specific [visual](/visual-merchandising) effect or communicate an idea. It's the difference between wearing clothes and wearing an *outfit* — between getting dressed and making a statement.
 
 A fashion stylist doesn't design clothes. They curate them. They take pieces from different designers, brands, and eras and put them together in ways that tell a story, flatter a body, set a mood, or sell a product.
 

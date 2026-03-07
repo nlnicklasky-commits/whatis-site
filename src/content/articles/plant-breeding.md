@@ -1,7 +1,7 @@
 ---
 title: "What Is Plant Breeding?"
 slug: plant-breeding
-description: "Plant breeding is the science of changing plant genetics to develop improved varieties with better yield, disease resistance, and nutritional value."
+description: "Plant breeding is the science of changing plant genetics to develop improved varieties with better yield, disease resistance, and nutritional value. Discover..."
 category: technology
 tags: ["agriculture", "plants", "genetics", "crops", "breeding", "food security", "biotechnology"]
 heroImage: "/images/articles/plant-breeding-hero.webp"

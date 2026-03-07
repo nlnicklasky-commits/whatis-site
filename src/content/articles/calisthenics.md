@@ -1,10 +1,10 @@
 ---
 title: "What Is Calisthenics?"
 slug: calisthenics
-description: "Calisthenics is a form of exercise using your own body weight for resistance, building strength, flexibility, and control without gym equipment."
+description: "Calisthenics is a form of exercise using your own body weight for resistance, building strength, flexibility, and control without gym equipment. Discover the..."
 category: health-amp-wellness
 tags: ["calisthenics", "bodyweight", "exercise", "fitness", "strength training"]
-heroImage: "/images/articles/calisthenics.webp"
+heroImage: "/images/articles/calisthenics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of calisthenics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "You can start with zero equipment — push-ups, squats, and lunges require nothing. However, a pull-up bar is strongly recommended since pulling exercises are essential for balanced development. Parallel bars and gymnastic rings are useful but optional."
 ---
 
+# What Is Calisthenics?
 Calisthenics is a form of [strength training](/strength-training) that uses your own body weight as resistance — push-ups, pull-ups, squats, dips, and their countless variations. The word comes from the Greek "kalos" (beautiful) and "sthenos" (strength), and that [etymology](/etymology) captures something real: calisthenics builds a kind of functional, balanced strength that looks as good as it performs.
 
 No gym membership. No expensive equipment. No waiting for machines. Just you, gravity, and progressively harder movements. That simplicity is both the appeal and, frankly, the reason people underestimate it.

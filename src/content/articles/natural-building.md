@@ -1,10 +1,10 @@
 ---
 title: "What Is Natural Building?"
 slug: natural-building
-description: "Natural building uses earth, straw, wood, and other minimally processed materials to create structures. Learn about cob, straw bale, and more."
+description: "Natural building uses earth, straw, wood, and other minimally processed materials to create structures. Learn about cob, straw bale, and more. Discover the k..."
 category: everyday-concepts
 tags: ["natural building", "sustainable architecture", "green building", "eco-friendly", "straw bale", "cob"]
-heroImage: "/images/articles/natural-building.webp"
+heroImage: "/images/articles/natural-building-hero.webp"
 heroAlt: "Editorial photograph representing the concept of natural building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Natural Building?
 
-Natural building is a [construction](/construction) approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of [structural engineering](/structural-[engineering](/engineering)), insulation, and design.
+Natural building is a [construction](/construction) approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of [structural engineering](/construction)), insulation, and design.
 
 ## Why People Are Doing This Again
 
 About 90% of all structures ever built by humans used natural materials. Mud brick, stone, timber framing — these were the defaults until industrialized construction took over in the 20th century. Concrete, steel, and synthetic insulation became the standard, and for good reason. They're predictable, fast to work with, and well-understood by building codes.
 
-But they come with costs. The cement industry alone produces roughly 8% of global CO2 emissions. Construction and demolition waste accounts for about 600 million tons annually in the U.S. And the energy embedded in manufacturing modern building materials is enormous.
+But they come with costs. The cement industry alone produces roughly 8% of global CO2 emissions. Construction and demolition [waste](/zero-waste-living) accounts for about 600 million tons annually in the U.S. And the energy embedded in manufacturing modern building materials is enormous.
 
 Natural builders argue there's a better path — or at least a complementary one. Earth doesn't need to be manufactured. Straw is an agricultural waste product. Timber can be harvested sustainably. These materials have carbon footprints that are a fraction of their conventional equivalents.
 

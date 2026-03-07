@@ -4,7 +4,7 @@ slug: wildlife-management
 description: "Wildlife management applies science to maintain healthy animal populations and habitats. Learn about techniques, hunting regulations, and habitat management."
 category: science-technology
 tags: ["wildlife management", "conservation", "hunting", "ecology", "habitat", "natural resources"]
-heroImage: "/images/articles/wildlife-management.webp"
+heroImage: "/images/articles/wildlife-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wildlife management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

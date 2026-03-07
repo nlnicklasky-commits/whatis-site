@@ -4,7 +4,7 @@ slug: sports-broadcasting
 description: "Sports broadcasting delivers live athletic events to audiences through TV, radio, and streaming. Learn about production, commentary, and the business."
 category: sports
 tags: ["sports broadcasting", "television", "commentary", "live production", "streaming", "media rights"]
-heroImage: "/images/articles/sports-broadcasting.webp"
+heroImage: "/images/articles/sports-broadcasting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports broadcasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

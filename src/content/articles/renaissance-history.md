@@ -4,7 +4,7 @@ slug: renaissance-history
 description: "Renaissance history covers the cultural explosion in Europe from the 14th to 17th century, when art, science, and philosophy were radically reinvented."
 category: history
 tags: ["european history", "renaissance", "art", "culture"]
-heroImage: "/images/articles/renaissance-history.webp"
+heroImage: "/images/articles/renaissance-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of renaissance history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ Florence wasn't alone. Venice, Milan, Rome, and Naples all became centers of Ren
 
 The intellectual engine of the Renaissance was humanism — not to be confused with modern secular humanism, though they share some DNA. Renaissance humanism was, at its simplest, a renewed focus on classical Greek and Latin texts and a belief that studying these works could improve human life.
 
-Medieval education revolved around theology. Humanist education — the *studia humanitatis* — added grammar, rhetoric, history, poetry, and [moral philosophy](/moral-[philosophy](/philosophy)). The idea was that a well-rounded education in the "humanities" would produce better citizens, better leaders, and better human beings.
+Medieval education revolved around theology. Humanist education — the *studia humanitatis* — added grammar, rhetoric, history, poetry, and [moral philosophy](/moral-philosophy)). The idea was that a well-rounded education in the "humanities" would produce better citizens, better leaders, and better human beings.
 
 Francesco Petrarch (1304-1374) is often called the father of humanism. He spent decades hunting down and copying ancient Roman manuscripts, and he openly mourned what he saw as the cultural decline between Rome's fall and his own era. His attitude — reverence for classical antiquity combined with dissatisfaction with the present — became the template for Renaissance thought.
 

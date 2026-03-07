@@ -4,7 +4,7 @@ slug: human-evolution
 description: "Human evolution is how our species developed from earlier primates over millions of years. Learn about key ancestors, fossil evidence, and milestones."
 category: everyday-concepts
 tags: ["human evolution", "anthropology", "biology", "fossils", "natural selection", "primates"]
-heroImage: "/images/articles/human-evolution.webp"
+heroImage: "/images/articles/human-evolution-hero.webp"
 heroAlt: "Editorial photograph representing the concept of human evolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -74,7 +74,7 @@ The answer is probably some combination of all of these, varying by environment 
 
 ## The Brain Explosion
 
-Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in [evolutionary biology](/evolutionary-[biology](/biology)).
+Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in [evolutionary biology](/human-evolution)).
 
 **Meat-eating and [cooking](/cooking)** may have fueled brain growth. Brains are metabolically expensive — yours consumes about 20% of your total energy despite being 2% of your body weight. Cooked food provides more calories per gram than raw food, potentially providing the energy surplus needed to support larger brains. Evidence of controlled fire appears around 1 million years ago.
 

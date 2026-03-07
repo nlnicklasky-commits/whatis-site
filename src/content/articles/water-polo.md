@@ -1,10 +1,10 @@
 ---
 title: "What Is Water Polo?"
 slug: water-polo
-description: "Water polo is an aquatic team sport where players swim, pass, and shoot a ball into goals. Learn about rules, positions, skills, and Olympic history."
+description: "Water polo is an aquatic team sport where players swim, pass, and shoot a ball into goals. Learn about rules, positions, skills, and Olympic history. Discove..."
 category: sports
 tags: ["water polo", "aquatic sports", "team sports", "Olympic sports", "swimming", "athletics"]
-heroImage: "/images/articles/water-polo.webp"
+heroImage: "/images/articles/water-polo-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water polo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

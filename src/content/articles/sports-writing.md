@@ -4,7 +4,7 @@ slug: sports-writing
 description: "Sports writing covers athletic events, athletes, and sports culture through journalism, analysis, and storytelling. Learn about styles, careers, and craft."
 category: arts-amp-culture
 tags: ["sports writing", "journalism", "sports media", "sportswriting", "athletic storytelling", "reporting"]
-heroImage: "/images/articles/sports-writing.webp"
+heroImage: "/images/articles/sports-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

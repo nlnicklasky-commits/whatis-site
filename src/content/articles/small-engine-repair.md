@@ -4,7 +4,7 @@ slug: small-engine-repair
 description: "Small engine repair covers fixing and maintaining compact engines in lawn mowers, chainsaws, and generators. Learn the basics of diagnosis and service."
 category: everyday-concepts
 tags: ["small engine repair", "maintenance", "lawn mower", "chainsaw", "two-stroke", "four-stroke"]
-heroImage: "/images/articles/small-engine-repair.webp"
+heroImage: "/images/articles/small-engine-repair-hero.webp"
 heroAlt: "Editorial photograph representing the concept of small engine repair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Small [Engine Repair](/engine-repair)?
 
-Small engine repair is the maintenance, diagnosis, and fixing of compact internal combustion engines — the kind that power lawn mowers, chainsaws, leaf blowers, generators, pressure washers, tillers, and snow blowers. These engines typically range from 50cc to 700cc and produce between 2 and 25 horsepower.
+Small engine [repair](/automotive-repair) is the maintenance, diagnosis, and fixing of compact internal combustion engines — the kind that power lawn mowers, chainsaws, leaf blowers, generators, pressure washers, tillers, and snow blowers. These engines typically range from 50cc to 700cc and produce between 2 and 25 horsepower.
 
 If you own a home with a yard, you almost certainly own small engines. Understanding the basics of how they work and what goes wrong saves money (professional repair often costs more than the equipment is worth), reduces waste, and gives you the satisfaction of fixing things yourself.
 

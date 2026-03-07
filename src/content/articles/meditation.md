@@ -4,7 +4,7 @@ slug: meditation
 description: "Meditation is a practice of focused attention and awareness training. Learn about types, scientific benefits, techniques, and how to start meditating."
 category: everyday-concepts
 tags: ["meditation", "mindfulness", "mental health", "wellness", "stress relief", "contemplation"]
-heroImage: "/images/articles/meditation.webp"
+heroImage: "/images/articles/meditation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of meditation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ Systematically moving your attention through different parts of your body, notic
 
 ### Movement Meditation
 
-Meditation combined with gentle physical activity — [walking](/walking) meditation, [tai chi](/tai-chi), [qigong](/qigong), and certain yoga practices. These are useful for people who find sitting still difficult.
+Meditation combined with gentle physical activity — [walking](/walking) meditation, [tai chi](/tai-chi), [qigong](/qigong), and certain [yoga](/yoga) practices. These are useful for people who find sitting still difficult.
 
 ## What the Science Says
 

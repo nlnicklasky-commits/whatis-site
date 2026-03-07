@@ -4,7 +4,7 @@ slug: jazz-music
 description: "Jazz is an American music genre born in New Orleans, built on improvisation, swing, and blues roots. Learn about its history, styles, and greatest artists."
 category: everyday-concepts
 tags: ["jazz music", "improvisation", "blues", "American music", "swing", "bebop"]
-heroImage: "/images/articles/jazz-music.webp"
+heroImage: "/images/articles/jazz-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jazz music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Archery?"
 slug: archery
-description: "Archery is the skill of shooting arrows with a bow. Learn about its ancient origins, modern competitive formats, equipment types, and Olympic events."
+description: "Archery is the skill of shooting arrows with a bow. Learn about its ancient origins, modern competitive formats, equipment types, and Olympic events. Discove..."
 category: sports
 tags: ["archery", "bow and arrow", "marksmanship", "target sports", "olympics", "hunting"]
-heroImage: "/images/articles/archery.webp"
+heroImage: "/images/articles/archery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of archery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: pizza-making
 description: "Pizza making is the craft of preparing dough, sauce, and toppings to create one of the world's favorite foods. Learn about techniques, styles, and dough."
 category: everyday-concepts
 tags: ["cooking", "food", "pizza", "baking", "dough", "culinary"]
-heroImage: "/images/articles/pizza-making.webp"
+heroImage: "/images/articles/pizza-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pizza making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,16 +1,16 @@
 ---
 title: "What Is Zoroastrianism?"
 slug: zoroastrianism
-description: "Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zarathustra in ancient Persia around 1500-500 BCE."
+description: "Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zarathustra in ancient Persia around 1500-500 BCE. Discover the ke..."
 category: philosophy
 tags: ["religion", "ancient religions", "persian culture", "monotheism", "spirituality"]
-heroImage: "/images/articles/zoroastrianism.webp"
+heroImage: "/images/articles/zoroastrianism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of zoroastrianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3950
+readingTime: 10
+wordCount: 2413
 tier: '1'
 relatedArticles: ["religion", "hinduism", "christianity", "philosophy", "comparative-religion"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "This is debated within the community. Traditional Parsi communities in India generally do not accept converts, believing Zoroastrian identity is inherited. Iranian Zoroastrians and some reform-minded groups do accept converts after a period of study."
 ---
 
+# What Is Zoroastrianism?
 Zoroastrianism is one of the world's oldest continuously practiced religions, founded by the prophet Zarathustra (known as Zoroaster in Greek) in ancient Persia sometime between 1500 and 500 BCE. It centers on the worship of Ahura Mazda — the "Wise Lord" — and teaches that human beings must actively choose between good and evil through their thoughts, words, and deeds.
 
 That founding date range is wide because scholars genuinely don't agree. Some place Zarathustra as early as 1500 BCE based on linguistic analysis of the oldest texts; others argue for around 600 BCE based on historical context. Either way, Zoroastrianism predates Christianity by centuries and may have profoundly shaped it.

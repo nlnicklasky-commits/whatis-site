@@ -4,7 +4,7 @@ slug: heraldry
 description: Heraldry is the system of designing, displaying, and regulating coats of arms and other armorial bearings used to identify individuals and families.
 category: history
 tags: ["heraldry", "coats of arms", "medieval", "genealogy", "symbols"]
-heroImage: "/images/articles/heraldry.webp"
+heroImage: "/images/articles/heraldry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of heraldry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

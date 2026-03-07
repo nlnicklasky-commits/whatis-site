@@ -4,7 +4,7 @@ slug: sociology
 description: "Sociology studies human societies, social institutions, and group behavior. Learn about its methods, major theories, and why it matters for understanding."
 category: social-sciences
 tags: ["sociology", "society", "social institutions", "Durkheim", "Weber", "research methods"]
-heroImage: "/images/articles/sociology.webp"
+heroImage: "/images/articles/sociology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sociology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

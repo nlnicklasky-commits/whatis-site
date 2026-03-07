@@ -1,10 +1,10 @@
 ---
 title: "What Is Soil Mechanics?"
 slug: soil-mechanics
-description: "Soil mechanics studies how soil behaves under stress and water flow. Learn about soil properties, testing methods, and applications in construction."
+description: "Soil mechanics studies how soil behaves under stress and water flow. Learn about soil properties, testing methods, and applications in construction. Discover..."
 category: science
 tags: ["soil mechanics", "geotechnical engineering", "civil engineering", "geology", "construction", "earth science"]
-heroImage: "/images/articles/soil-mechanics.webp"
+heroImage: "/images/articles/soil-mechanics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soil mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

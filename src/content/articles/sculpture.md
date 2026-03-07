@@ -1,10 +1,10 @@
 ---
 title: "What Is Sculpture?"
 slug: sculpture
-description: "Sculpture is three-dimensional art created by shaping materials like stone, metal, clay, or wood. Learn about techniques, history, and famous works."
+description: "Sculpture is three-dimensional art created by shaping materials like stone, metal, clay, or wood. Learn about techniques, history, and famous works. Discover..."
 category: arts-amp-culture
 tags: ["sculpture", "art", "three-dimensional art", "statue", "public art", "carving"]
-heroImage: "/images/articles/sculpture.webp"
+heroImage: "/images/articles/sculpture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sculpture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

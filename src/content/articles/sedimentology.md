@@ -1,7 +1,7 @@
 ---
 title: "What Is Sedimentology?"
 slug: sedimentology
-description: "Sedimentology studies how sediments form, move, and become rock, covering depositional environments, sedimentary structures, and Earth's history."
+description: "Sedimentology studies how sediments form, move, and become rock, covering depositional environments, sedimentary structures, and Earth's history. Discover th..."
 category: science
 tags: ["sedimentology", "geology", "sedimentary rocks", "stratigraphy", "earth science", "depositional environments"]
 heroImage: "/images/articles/sedimentology-hero.webp"
@@ -89,7 +89,7 @@ The conditions under which sediment is deposited leave distinctive signatures in
 
 **Beaches and barrier islands** produce well-sorted, clean sand with low-angle planar bedding and distinctive assemblages of shell fragments. These environments are highly active—storms reshape entire beach profiles in hours.
 
-**Tidal flats** are broad, flat areas alternately exposed and submerged by tides. They produce characteristic fine-grained sediments with mud cracks (from drying during exposure), ripple marks, and intricate biological features (burrows, trails, feeding traces). Tidal flat deposits are common in the geological record and often contain excellent examples of trace fossils.
+**Tidal flats** are broad, flat areas alternately exposed and submerged by tides. They produce characteristic fine-grained sediments with mud cracks (from drying during exposure), ripple marks, and elaborate biological features (burrows, trails, feeding traces). Tidal flat deposits are common in the geological record and often contain excellent examples of trace fossils.
 
 ### Marine Environments
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Celtic Mythology?"
 slug: celtic-mythology
-description: "Celtic mythology is the collection of myths, legends, and religious beliefs of the Celtic peoples of ancient Ireland, Wales, Scotland, and Gaul."
+description: "Celtic mythology is the collection of myths, legends, and religious beliefs of the Celtic peoples of ancient Ireland, Wales, Scotland, and Gaul. Discover the..."
 category: arts-amp-culture
 tags: ["Celtic mythology", "mythology", "Ireland", "folklore", "legends", "ancient religion"]
-heroImage: "/images/articles/celtic-mythology.webp"
+heroImage: "/images/articles/celtic-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of celtic mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "Who are the main gods in Celtic mythology?"
     a: "Irish mythology features the Tuatha Dé Danann, including the Dagda (father figure, associated with abundance), Lugh (skill and craftsmanship), Brigid (healing, poetry, and smithcraft), Manannán mac Lir (the sea), and the Morrígan (war, fate, and death). Welsh mythology includes Rhiannon, Arawn, and Math fab Mathonwy. Unlike Greek mythology, Celtic gods didn't form a neat hierarchical pantheon."
   - q: "What is the difference between Celtic mythology and Norse mythology?"
-    a: "Celtic and Norse mythologies come from different Indo-European traditions. Celtic mythology is primarily preserved in Irish and Welsh texts, emphasizes the Otherworld (a parallel supernatural realm), and features shape-shifting and the blurring of mortal and divine. Norse mythology comes from Scandinavian sources, features a structured cosmos (nine worlds connected by Yggdrasil), and emphasizes Ragnarök (the apocalyptic final battle). Both influenced each other in areas of Viking-Celtic contact."
+    a: "Celtic and Norse mythologies come from different Indo-European traditions. Celtic mythology is primarily preserved in Irish and Welsh texts, emphasizes the Otherworld (a parallel supernatural domain), and features shape-shifting and the blurring of mortal and divine. Norse mythology comes from Scandinavian sources, features a structured cosmos (nine worlds connected by Yggdrasil), and emphasizes Ragnarök (the apocalyptic final battle). Both influenced each other in areas of Viking-Celtic contact."
   - q: "Are Celtic myths historically accurate?"
     a: "Celtic myths aren't history, but they contain historical echoes. The warrior societies, cattle-raiding culture, and social structures described in Irish mythology align with archaeological evidence from Iron Age Ireland. The myths were transmitted orally for centuries before being written down by Christian monks (8th-12th centuries), who likely altered some elements. They're best understood as cultural documents rather than historical records."
 ---

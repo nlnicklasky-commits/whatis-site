@@ -1,16 +1,16 @@
 ---
 title: "What Is Ancient Egyptian History?"
 slug: ancient-egyptian-history
-description: "Ancient Egyptian history spans over 3,000 years of civilization along the Nile, from the first pharaohs around 3100 BCE to Roman conquest in 30 BCE."
+description: "Ancient Egyptian history spans over 3,000 years of civilization along the Nile, from the first pharaohs around 3100 BCE to Roman conquest in 30 BCE. Discover..."
 category: history
 tags: ["ancient egypt", "egyptian history", "pharaoh", "pyramids", "nile valley"]
-heroImage: "/images/articles/ancient-egyptian-history.webp"
+heroImage: "/images/articles/ancient-egyptian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ancient egyptian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 13
-wordCount: 2880
+readingTime: 7
+wordCount: 1737
 tier: '2'
 relatedArticles: ["archaeology", "anthropology", "architecture", "comparative-religion", "geography"]
 externalSources:
@@ -33,6 +33,7 @@ faq:
     a: "Egyptian religion gradually declined after Alexander the Great's conquest (332 BCE) and the Roman takeover (30 BCE). Christianity spread through Egypt in the 1st-4th centuries CE, and the last known hieroglyphic inscription dates to 394 CE. Islam arrived in the 7th century and became the dominant religion."
 ---
 
+# What Is Ancient Egyptian History?
 Ancient Egyptian history covers approximately 3,000 years of continuous civilization along the Nile River in northeastern Africa — from the unification of Upper and Lower Egypt around 3100 BCE to the Roman conquest in 30 BCE. It's one of the longest-lasting and most influential civilizations in human history, producing architectural marvels, writing systems, medical knowledge, and religious traditions that continue to fascinate and inform us today.
 
 Here's a useful perspective: ancient Egypt was already ancient to the ancient Greeks. When the Greek historian Herodotus visited Egypt around 450 BCE, the Great Pyramid was already 2,000 years old. Cleopatra VII lived closer in time to the Moon landing than to the building of the pyramids. The sheer time scale is difficult to grasp.

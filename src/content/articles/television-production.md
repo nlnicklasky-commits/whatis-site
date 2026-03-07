@@ -1,10 +1,10 @@
 ---
 title: "What Is Television Production?"
 slug: television-production
-description: "Television production is the process of creating TV content from concept to broadcast. Learn the stages, key roles, and how shows get made."
+description: "Television production is the process of creating TV content from concept to broadcast. Learn the stages, key roles, and how shows get made. Discover the key ..."
 category: arts-amp-culture
 tags: ["television production", "tv production", "filmmaking", "media production", "broadcasting", "pre-production"]
-heroImage: "/images/articles/television-production.webp"
+heroImage: "/images/articles/television-production-hero.webp"
 heroAlt: "Editorial photograph representing the concept of television production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -71,7 +71,7 @@ Where the raw footage becomes a finished show:
 
 **Editing** — The editor assembles the best takes into a coherent narrative, working closely with the director and producer. Multiple editing passes refine timing, pacing, and structure.
 
-**[Sound design](/sound-design)** — Dialogue is cleaned up, sound effects are added, ambient audio is mixed, and music is scored and integrated. [Sound](/sound-[engineering](/engineering)) work can take as long as filming.
+**[Sound design](/sound-design)** — Dialogue is cleaned up, sound effects are added, ambient audio is mixed, and music is scored and integrated. [Sound](/sound-design)) work can take as long as filming.
 
 **[Visual effects](/visual-effects)** — Anything from minor cleanup (removing a boom mic shadow) to major CG work (creating environments, creatures, or action sequences). Even "realistic" shows often use significant invisible VFX.
 

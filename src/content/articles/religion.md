@@ -1,7 +1,7 @@
 ---
 title: "What Is Religion?"
 slug: religion
-description: "Religion is a system of beliefs, practices, and community centered on questions of meaning, morality, and the sacred across major world traditions."
+description: "Religion is a system of beliefs, practices, and community centered on questions of meaning, morality, and the sacred across major world traditions. Discover ..."
 category: philosophy
 tags: ["religion", "faith", "spirituality", "theology", "worship", "belief systems", "philosophy"]
 heroImage: "/images/articles/religion-hero.webp"

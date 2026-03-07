@@ -1,10 +1,10 @@
 ---
 title: "What Is Legal History?"
 slug: legal-history
-description: "Legal history studies how laws, legal institutions, and judicial thinking have evolved across societies and centuries."
+description: "Legal history studies how laws, legal institutions, and judicial thinking have evolved across societies and centuries. Discover the key facts, history, and w..."
 category: history
 tags: ["law", "legal history", "jurisprudence", "courts", "civil rights"]
-heroImage: "/images/articles/legal-history.webp"
+heroImage: "/images/articles/legal-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of legal history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "English common law, developed after the Norman Conquest of 1066, spread through British colonization to North America, Australia, India, and much of Africa. Its emphasis on judicial precedent and case-by-case reasoning shaped the legal systems of roughly one-third of the world's population."
 ---
 
+# What Is Legal History?
 Legal history is the scholarly study of how laws, legal systems, and judicial institutions have developed and changed over time. It examines not just what the rules were, but why they existed, who they served, and how they reflected the societies that created them.
 
 This might sound like a niche academic pursuit. It's not. Every law you encounter today — from speed limits to free speech protections to tax codes — has a history. Understanding that history explains why the law works the way it does, where it came from, and where it might be heading.
@@ -105,7 +106,7 @@ Some of legal history's most important chapters involve the use — and abuse �
 
 Slavery was legal in most of the world for most of human history. The legal abolition of slavery, beginning with Britain's Slavery Abolition Act (1833) and continuing through the U.S. Thirteenth Amendment (1865), represented a profound shift in legal thinking about human personhood and rights. But abolition didn't end racial injustice — Jim Crow laws, apartheid, and discriminatory legal systems persisted long after formal emancipation.
 
-Women's legal history is a story of systematic exclusion gradually — very gradually — overcome. Under English common law, married women had virtually no independent legal existence (a doctrine called "coverture"). They couldn't own property, enter contracts, or sue in their own names. The legal recognition of women's equality has been one of the most significant legal developments of the last two centuries, touching everything from [voting rights](/history) to employment law.
+Women's legal history is a story of systematic exclusion gradually — very gradually — overcome. Under English common law, married women had virtually no independent legal existence (a doctrine called "coverture"). They couldn't own property, enter contracts, or sue in their own names. The legal recognition of women's equality has been one of the most significant legal developments of the last two centuries, touching everything from [voting rights](/histology) to employment law.
 
 The Nuremberg Trials (1945-1946) established that "following orders" was not a defense for war crimes and that individuals could be held legally responsible under [international law](/international-law). This principle reshaped international criminal law and led eventually to the creation of the International Criminal Court in 2002.
 

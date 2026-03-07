@@ -1,7 +1,7 @@
 ---
 title: "What Is Concrete Technology?"
 slug: concrete-technology
-description: "Concrete technology is the science of designing, mixing, placing, and curing concrete for construction — the most used building material on Earth."
+description: "Concrete technology is the science of designing, mixing, placing, and curing concrete for construction — the most used building material on Earth. Discover t..."
 category: technology
 tags: ["construction", "engineering", "materials science", "civil engineering", "building materials", "concrete", "cement"]
 heroImage: "/images/articles/concrete-technology-hero.webp"

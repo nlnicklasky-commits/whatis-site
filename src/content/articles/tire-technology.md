@@ -4,7 +4,7 @@ slug: tire-technology
 description: "Tire technology is the engineering behind how tires are designed, built, and optimized. Learn about rubber compounds, tread patterns, run-flats, and more."
 category: technology
 tags: ["tire technology", "tires", "rubber", "automotive engineering"]
-heroImage: "/images/articles/tire-technology.webp"
+heroImage: "/images/articles/tire-technology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tire technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

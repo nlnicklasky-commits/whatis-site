@@ -4,7 +4,7 @@ slug: technical-analysis
 description: "Technical analysis is a method of evaluating securities by analyzing price charts, trading volume, and statistical patterns to forecast future movements."
 category: finance
 tags: ["technical analysis", "trading", "investing", "stock market"]
-heroImage: "/images/articles/technical-analysis.webp"
+heroImage: "/images/articles/technical-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of technical analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "You need a charting platform with real-time or delayed price data. Free options include TradingView, Yahoo Finance, and most brokerage platforms. Professional traders may use Bloomberg Terminal or MetaTrader. You do not need expensive software to get started."
 ---
 
+# What Is Technical Analysis?
 Technical analysis is a method of evaluating financial securities — stocks, bonds, currencies, commodities — by studying historical price movements, trading volume, and chart patterns to predict where prices might go next. Rather than examining a company's financial statements or economic conditions, technical analysts focus entirely on what the market itself is doing.
 
 The core idea is simple: price movements aren't random. They follow identifiable patterns that tend to repeat because the human [psychology](/psychology) driving buying and selling decisions doesn't change much over time. Whether that's actually true is one of the biggest debates in [finance](/finance). But roughly 30-40% of professional traders and portfolio managers report using technical analysis as a significant part of their decision-making process.

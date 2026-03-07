@@ -1,10 +1,10 @@
 ---
 title: "What Is Organic Farming?"
 slug: organic-farming
-description: "Organic farming produces food without synthetic pesticides, fertilizers, or GMOs. Learn about its methods, certification, benefits, and limitations."
+description: "Organic farming produces food without synthetic pesticides, fertilizers, or GMOs. Learn about its methods, certification, benefits, and limitations. Discover..."
 category: everyday-concepts
 tags: ["organic farming", "sustainable agriculture", "permaculture", "soil health", "biodiversity", "pesticide-free"]
-heroImage: "/images/articles/organic-farming.webp"
+heroImage: "/images/articles/organic-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of organic farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

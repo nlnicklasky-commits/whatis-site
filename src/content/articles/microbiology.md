@@ -1,7 +1,7 @@
 ---
 title: "What Is Microbiology?"
 slug: microbiology
-description: "Microbiology studies bacteria, viruses, fungi, and other microorganisms. Learn how microbes work, their role in health, disease, and industry."
+description: "Microbiology studies bacteria, viruses, fungi, and other microorganisms. Learn how microbes work, their role in health, disease, and industry. Discover the k..."
 category: science
 tags: ["microbiology", "bacteria", "viruses", "fungi", "microorganisms", "biology", "infectious disease"]
 heroImage: "/images/articles/microbiology-hero.webp"

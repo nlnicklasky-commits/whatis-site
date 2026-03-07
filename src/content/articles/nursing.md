@@ -4,7 +4,7 @@ slug: nursing
 description: "Nursing is a healthcare profession focused on patient care, health promotion, and illness prevention. Learn about nursing roles, education, and specialties."
 category: health-amp-wellness
 tags: ["nursing", "healthcare", "patient care", "registered nurse"]
-heroImage: "/images/articles/nursing.webp"
+heroImage: "/images/articles/nursing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nursing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

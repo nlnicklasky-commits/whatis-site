@@ -1,7 +1,7 @@
 ---
 title: "What Is Monetary Policy?"
 slug: monetary-policy
-description: "Monetary policy is how central banks manage money supply and interest rates to control inflation, stabilize the economy, and promote employment."
+description: "Monetary policy is how central banks manage money supply and interest rates to control inflation, stabilize the economy, and promote employment. Discover the..."
 category: finance
 tags: ["monetary policy", "central banking", "interest rates", "inflation", "federal reserve", "money supply", "economics"]
 heroImage: "/images/articles/monetary-policy-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Molecular Biology?"
 slug: molecular-biology
-description: "Molecular biology studies the molecular basis of life—DNA, RNA, and proteins. Learn how genes work, how proteins are made, and why it matters."
+description: "Molecular biology studies the molecular basis of life—DNA, RNA, and proteins. Learn how genes work, how proteins are made, and why it matters. Discover the k..."
 category: science
 tags: ["molecular biology", "dna", "rna", "proteins", "genetics", "gene expression", "biology"]
 heroImage: "/images/articles/molecular-biology-hero.webp"
@@ -61,7 +61,7 @@ The sugars and phosphates form the structural backbone. The bases point inward, 
 
 Two strands of DNA wind around each other in a right-handed helix, with about 10 base pairs per turn. The strands run in opposite directions (antiparallel). Human DNA contains about 3.2 billion base pairs, and if you stretched out all the DNA from a single cell, it would be about 2 meters long—compressed into a nucleus about 6 micrometers across. The packing ratio is staggering: roughly 10,000 to 1.
 
-Watson and Crick's work relied critically on [X-ray crystallography](/x-ray-[crystallography](/crystallography)) data from Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's Photo 51—an X-ray diffraction image of DNA—provided the key evidence for the helical structure. Franklin died of ovarian cancer in 1958, and Watson, Crick, and Wilkins received the Nobel Prize in 1962. The question of proper credit for Franklin remains one of science's most significant attribution debates.
+Watson and Crick's work relied critically on [X-ray crystallography](/x-ray-crystallography)) data from Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's Photo 51—an X-ray diffraction image of DNA—provided the key evidence for the helical structure. Franklin died of ovarian cancer in 1958, and Watson, Crick, and Wilkins received the Nobel Prize in 1962. The question of proper credit for Franklin remains one of science's most significant attribution debates.
 
 ## DNA Replication: Copying the Blueprint
 

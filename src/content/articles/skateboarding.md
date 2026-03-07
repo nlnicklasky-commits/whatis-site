@@ -4,7 +4,7 @@ slug: skateboarding
 description: "Skateboarding is a sport and culture built around riding and performing tricks on a skateboard. Learn about its history, techniques, and cultural impact."
 category: sports
 tags: ["skateboarding", "skateboard", "action sports", "extreme sports", "tricks", "skatepark"]
-heroImage: "/images/articles/skateboarding.webp"
+heroImage: "/images/articles/skateboarding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of skateboarding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Quarrying?"
 slug: quarrying
-description: "Quarrying extracts stone, sand, and gravel from the earth for construction and industry, covering methods, environmental impact, and practices."
+description: "Quarrying extracts stone, sand, and gravel from the earth for construction and industry, covering methods, environmental impact, and practices. Discover the ..."
 category: technology
 tags: ["quarrying", "mining", "stone", "construction materials", "geology", "aggregates", "extraction"]
 heroImage: "/images/articles/quarrying-hero.webp"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Quarrying?
 
-Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface excavations called quarries. Unlike underground [mining](/mining-[engineering](/engineering)), quarrying works from the surface downward, removing material in benches or terraces to access rock deposits. The extracted material is then processed -- crushed, screened, washed, and sized -- into products used in [construction](/construction), infrastructure, and industry.
+Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface excavations called quarries. Unlike underground [mining](/minimalism)), quarrying works from the surface downward, removing material in benches or terraces to access rock deposits. The extracted material is then processed -- crushed, screened, washed, and sized -- into products used in [construction](/construction), infrastructure, and industry.
 
 You probably don't think about quarrying very often. But consider this: nearly every building you've ever entered, every road you've driven on, every bridge you've crossed, and every sidewalk you've walked on contains materials that came from a quarry. The average American home requires about 400 tons of aggregate and stone products. A single mile of highway uses roughly 38,000 tons. Globally, the quarrying industry produces over 40 billion tons of material annually -- more by weight than any other extractive industry on Earth.
 

@@ -4,7 +4,7 @@ slug: frame-making
 description: "Frame making is the craft of creating picture frames to display and protect artwork. Learn about materials, techniques, and the art of custom framing."
 category: arts-amp-culture
 tags: ["crafts", "art", "design", "woodworking", "picture framing", "art preservation"]
-heroImage: "/images/articles/frame-making.webp"
+heroImage: "/images/articles/frame-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of frame making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

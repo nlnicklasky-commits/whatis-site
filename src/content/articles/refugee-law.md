@@ -4,7 +4,7 @@ slug: refugee-law
 description: "Refugee law is the body of international and domestic law protecting people fleeing persecution. Learn about asylum, the 1951 Convention, and key principles."
 category: law
 tags: ["human rights", "refugee law", "asylum", "international law"]
-heroImage: "/images/articles/refugee-law.webp"
+heroImage: "/images/articles/refugee-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of refugee law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

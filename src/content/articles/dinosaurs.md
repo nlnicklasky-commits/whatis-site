@@ -1,7 +1,7 @@
 ---
 title: What Is Dinosaurs?
 slug: dinosaurs
-description: "Dinosaurs were reptiles that dominated Earth for over 160 million years. Learn about their evolution, diversity, extinction, and what fossils reveal."
+description: "Dinosaurs were reptiles that dominated Earth for over 160 million years. Learn about their evolution, diversity, extinction, and what fossils reveal. Discove..."
 category: science
 tags: ["dinosaurs", "paleontology", "fossils", "prehistoric", "evolution", "extinction", "mesozoic"]
 heroImage: "/images/articles/dinosaurs-hero.webp"

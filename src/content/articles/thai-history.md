@@ -1,10 +1,10 @@
 ---
 title: "What Is Thai History?"
 slug: thai-history
-description: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern Thailand. Learn how Siam became the only Southeast Asian nation never colonized."
+description: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern Thailand. Learn how Siam became the only Southeast Asian nation never colonized. Discover th..."
 category: history
 tags: ["thai history", "thailand", "siam", "sukhothai", "southeast asia"]
-heroImage: "/images/articles/thai-history.webp"
+heroImage: "/images/articles/thai-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of thai history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

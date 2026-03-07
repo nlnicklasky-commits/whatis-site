@@ -4,7 +4,7 @@ slug: osteopathy
 description: "Osteopathy is a medical approach that emphasizes the musculoskeletal system's role in health. Learn about DOs, OMT, training, and how it differs from MDs."
 category: health-amp-wellness
 tags: ["osteopathy", "osteopathic medicine", "manual therapy", "alternative medicine"]
-heroImage: "/images/articles/osteopathy.webp"
+heroImage: "/images/articles/osteopathy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of osteopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

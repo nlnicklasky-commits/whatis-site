@@ -4,7 +4,7 @@ slug: sociolinguistics
 description: "Sociolinguistics studies how language varies with social factors like class, gender, ethnicity, and region. Learn how society shapes the way we speak."
 category: language
 tags: ["sociolinguistics", "language", "dialects", "social class", "linguistics", "identity"]
-heroImage: "/images/articles/sociolinguistics.webp"
+heroImage: "/images/articles/sociolinguistics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sociolinguistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

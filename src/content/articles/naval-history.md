@@ -4,7 +4,7 @@ slug: naval-history
 description: "Naval history studies how sea power shaped civilizations, wars, and trade. Learn about ancient fleets, age of sail, modern navies, and key naval battles."
 category: history
 tags: ["naval history", "maritime history", "sea power", "naval warfare"]
-heroImage: "/images/articles/naval-history.webp"
+heroImage: "/images/articles/naval-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of naval history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

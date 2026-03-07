@@ -4,7 +4,7 @@ slug: confectionery
 description: "Confectionery is the art and business of making sweets, candies, and chocolate. Learn about sugar science, candy types, techniques, and industry facts."
 category: everyday-concepts
 tags: ["food", "sweets", "cooking", "baking", "desserts", "culinary arts"]
-heroImage: "/images/articles/confectionery.webp"
+heroImage: "/images/articles/confectionery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of confectionery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

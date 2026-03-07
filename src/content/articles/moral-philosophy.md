@@ -32,7 +32,7 @@ faq:
   - q: "Can you study ethics without being religious?"
     a: "Absolutely. While many religious traditions include ethical teachings, moral philosophy as an academic discipline does not require religious belief. Most major ethical theories (utilitarianism, Kantian ethics, virtue ethics, contractualism) are entirely secular. In fact, the Euthyphro dilemma—posed by Plato 2,400 years ago—argues that morality must be independent of divine command to be coherent."
   - q: "Why does moral philosophy matter practically?"
-    a: "Moral philosophy shapes real decisions in medicine (should we euthanize terminally ill patients?), law (what punishments are just?), business (what are a corporation's obligations to society?), technology (how should AI make life-or-death decisions?), and politics (how should resources be distributed?). Every policy debate is, at its core, a moral argument."
+    a: "Moral philosophy shapes real decisions in medicine (should we euthanize terminally ill patients?), law (what punishments are just?), business (what are a corporation's obligations to society?), technology (how should AI make life-or-death decisions?), and politics (how should resources be distributed?). Every policy debate is, fundamentally, a moral argument."
 ---
 
 # What Is Moral Philosophy?

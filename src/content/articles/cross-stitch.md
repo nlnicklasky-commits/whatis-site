@@ -1,10 +1,10 @@
 ---
 title: "What Is Cross-Stitch?"
 slug: cross-stitch
-description: "Cross-stitch is a form of embroidery using X-shaped stitches on gridded fabric. Learn about techniques, patterns, materials, and modern trends."
+description: "Cross-stitch is a form of embroidery using X-shaped stitches on gridded fabric. Learn about techniques, patterns, materials, and modern trends. Discover the ..."
 category: arts-amp-culture
 tags: ["cross-stitch", "embroidery", "needlework", "craft", "textile art", "hobby"]
-heroImage: "/images/articles/cross-stitch.webp"
+heroImage: "/images/articles/cross-stitch-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cross-stitch"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,14 +24,14 @@ faq:
   - q: "Is cross-stitch easy to learn?"
     a: "Yes, cross-stitch is one of the easiest needlework techniques to learn. The basic stitch is simply two diagonal stitches forming an X. Most beginners can produce their first small project within a few hours. Reading a pattern chart (a grid where each square represents one stitch) is straightforward once you understand that each symbol represents a thread color."
   - q: "What supplies do you need for cross-stitch?"
-    a: "You need Aida cloth (an evenly woven fabric with visible holes, 14-count is standard for beginners), embroidery floss (DMC brand is the standard, sold in individual colors), a tapestry needle (blunt-tipped, size 24 or 26), an embroidery hoop to hold the fabric taut, and small scissors. A basic starter kit costs 10 to 20 dollars."
+    a: "You need Aida cloth (an evenly woven fabric with visible holes, 14-count is standard for beginners), embroidery floss (DMC brand is the standard, sold in individual colors), a mix needle (blunt-tipped, size 24 or 26), an embroidery hoop to hold the fabric taut, and small scissors. A basic starter kit costs 10 to 20 dollars."
   - q: "How long does a cross-stitch project take?"
     a: "A small design (4x4 inches) might take 5-15 hours. A medium sampler (8x10 inches) can take 40-80 hours. Large, detailed pieces with full coverage can take hundreds of hours — some dedicated stitchers work on a single project for over a year. The meditative nature of the craft makes those hours feel less like work and more like relaxation."
 ---
 
 # What Is Cross-Stitch?
 
-Cross-stitch is a form of [embroidery](/embroidery) where X-shaped stitches are sewn onto gridded fabric to create patterns and images. Each stitch occupies one square of the grid, functioning like a pixel in a digital image. The technique is simple enough for an absolute beginner to learn in an afternoon, yet capable of producing artwork of remarkable detail and beauty.
+Cross-stitch is a form of [embroidery](/embroidery) where X-shaped stitches are sewn onto gridded [fabric](/fabric-arts) to create patterns and images. Each stitch occupies one square of the grid, functioning like a pixel in a digital image. The technique is simple enough for an absolute beginner to learn in an afternoon, yet capable of producing artwork of remarkable detail and beauty.
 
 ## How It Works
 
@@ -47,7 +47,7 @@ Cross-stitch has ancient roots. Examples of counted-thread embroidery have been 
 
 European sampler tradition — where young girls stitched alphabets, numbers, and decorative motifs as proof of their needlework skill — dates to at least the 15th century. The earliest known dated sampler is from 1598 (now in the Victoria and Albert Museum). These samplers served both as practice pieces and as references for stitch patterns.
 
-Different regions developed distinctive styles. Scandinavian cross-stitch features geometric patterns in red thread on white linen. Eastern European designs are more colorful and often incorporate regional symbols. Chinese cross-stitch incorporates intricate pictorial designs with silk thread.
+Different regions developed distinctive styles. Scandinavian cross-stitch features geometric patterns in red thread on white linen. Eastern European designs are more colorful and often incorporate regional symbols. Chinese cross-stitch incorporates complex pictorial designs with silk thread.
 
 The craft's popularity has waxed and waned with cultural trends. A major revival began in the 1990s and accelerated dramatically in the 2010s, fueled by social media, the maker movement, and a new generation of designers creating patterns that speak to contemporary tastes.
 

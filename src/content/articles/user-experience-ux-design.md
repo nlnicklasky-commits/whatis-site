@@ -4,7 +4,7 @@ slug: user-experience-ux-design
 description: "UX design shapes how people interact with products and services. Learn about research methods, design processes, usability principles, and career paths."
 category: technology
 tags: ["user experience", "ux design", "design", "usability", "human-computer interaction", "product design"]
-heroImage: "/images/articles/user-experience-ux-design.webp"
+heroImage: "/images/articles/user-experience-ux-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of user experience (ux) design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

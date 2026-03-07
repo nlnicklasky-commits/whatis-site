@@ -1,10 +1,10 @@
 ---
 title: "What Is Japanese Language?"
 slug: japanese-language
-description: "Japanese is spoken by 125 million people and uses three writing systems. Learn about kanji, hiragana, katakana, grammar, and what makes it unique."
+description: "Japanese is spoken by 125 million people and uses three writing systems. Learn about kanji, hiragana, katakana, grammar, and what makes it unique. Discover t..."
 category: everyday-concepts
 tags: ["japanese language", "kanji", "hiragana", "linguistics", "writing systems"]
-heroImage: "/images/articles/japanese-language.webp"
+heroImage: "/images/articles/japanese-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of japanese language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "The Japanese government's joyo kanji list contains 2,136 characters considered necessary for everyday use — these are taught through high school. Newspapers use roughly 3,000 to 4,000. An educated adult might know 4,000 to 6,000. The JLPT N1 (highest proficiency level) requires knowledge of about 2,000 kanji."
 ---
 
-# What Is Japanese Language?
+# What Is [Japanese](/[japanese](/japanese-mythology)-art) Language?
 
-Japanese is spoken by approximately 125 million people, primarily in Japan. It is one of the most fascinating languages in the world — partly because of its three simultaneous [writing](/writing) systems, partly because of its intricate honorific system, and partly because it is a linguistic mystery. Despite extensive study, linguists have not conclusively linked Japanese to any other language family, making it what many consider a language isolate (though the Japonic family includes the Ryukyuan languages of Okinawa).
+Japanese is spoken by approximately 125 million people, primarily in Japan. It is one of the most fascinating languages in the world — partly because of its three simultaneous [writing](/writing) systems, partly because of its involved honorific system, and partly because it is a linguistic mystery. Despite extensive study, linguists have not conclusively linked Japanese to any other language family, making it what many consider a language isolate (though the Japonic family includes the Ryukyuan languages of Okinawa).
 
 ## Three Writing Systems
 

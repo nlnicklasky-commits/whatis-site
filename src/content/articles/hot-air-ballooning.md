@@ -1,10 +1,10 @@
 ---
 title: "What Is Hot Air Ballooning?"
 slug: hot-air-ballooning
-description: "Hot air ballooning is flight using heated air inside a fabric envelope for lift. Learn how balloons work, their history, and what a ride is like."
+description: "Hot air ballooning is flight using heated air inside a fabric envelope for lift. Learn how balloons work, their history, and what a ride is like. Discover th..."
 category: everyday-concepts
 tags: ["hot air ballooning", "hot air balloon", "aviation", "flight", "aerodynamics", "adventure"]
-heroImage: "/images/articles/hot-air-ballooning.webp"
+heroImage: "/images/articles/hot-air-ballooning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hot air ballooning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -69,7 +69,7 @@ Competitive ballooning exists too. Tasks include precision landings (dropping ma
 
 ## Safety Considerations
 
-Hot air ballooning has a good safety record — statistically, it is safer per hour of flight than driving a car. The NTSB reports about 20 balloon accidents per year in the U.S., most resulting in minor injuries. Fatal accidents are rare but do occur, almost always related to weather (flying in winds above safe limits), power line contact, or pilot error.
+Hot air ballooning has a good safety record — statistically, it is safer per hour of flight than [driving](/four-wheel-driving) a car. The NTSB reports about 20 balloon accidents per year in the U.S., most resulting in minor injuries. Fatal accidents are rare but do occur, almost always related to weather (flying in winds above safe limits), power line contact, or pilot error.
 
 Weather is the single biggest risk factor. Balloons cannot fly in wind above about 10 mph at ground level, in rain, or near thunderstorms. Good pilots are conservative — they cancel flights frequently when conditions are marginal. If a balloon ride operator is willing to fly in iffy weather, that is a red flag, not confidence.
 

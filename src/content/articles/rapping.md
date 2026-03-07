@@ -1,10 +1,10 @@
 ---
 title: "What Is Rapping?"
 slug: rapping
-description: "Rapping is the rhythmic vocal delivery of lyrics over beats, forming the core of hip-hop music. Learn the techniques, styles, and history."
+description: "Rapping is the rhythmic vocal delivery of lyrics over beats, forming the core of hip-hop music. Learn the techniques, styles, and history. Discover the key f..."
 category: arts-amp-culture
 tags: ["rapping", "hip-hop", "music", "lyrics", "rhythm", "spoken word"]
-heroImage: "/images/articles/rapping.webp"
+heroImage: "/images/articles/rapping-hero.webp"
 heroAlt: "Editorial photograph representing the concept of rapping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

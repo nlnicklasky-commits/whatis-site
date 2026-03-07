@@ -4,7 +4,7 @@ slug: textile-arts
 description: "Textile arts encompass all art forms made with fibers and fabric, from weaving to embroidery. Learn the major techniques, history, and modern revival."
 category: arts-amp-culture
 tags: ["textile arts", "fiber art", "weaving", "knitting", "dyeing", "embroidery"]
-heroImage: "/images/articles/textile-arts.webp"
+heroImage: "/images/articles/textile-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of textile arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ These are among the oldest human art forms. People were spinning fiber and weavi
 
 ### Weaving
 
-Interlacing two sets of threads (warp and weft) on a loom to create fabric. Weaving produces everything from everyday cloth to fine [tapestries](/mix). The technique is ancient — evidence of woven textiles dates to at least 25,000 BC — and the basic principle hasn't changed: threads cross over and under each other in patterns that determine the fabric's structure.
+Interlacing two sets of threads (warp and weft) on a loom to create fabric. Weaving produces everything from everyday cloth to fine [tapestries](/mixology). The technique is ancient — evidence of woven textiles dates to at least 25,000 BC — and the basic principle hasn't changed: threads cross over and under each other in patterns that determine the fabric's structure.
 
 ### Knitting
 

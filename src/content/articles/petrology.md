@@ -43,7 +43,7 @@ That sentence might be a hard sell. Rocks seem boring — they just sit there. B
 
 A metamorphic rock like gneiss tells the story of tectonic forces that buried it deep in the Earth, subjected it to crushing pressure and searing heat, and then brought it back to the surface. Reading that story — decoding the information recorded in a rock's minerals, textures, and [chemistry](/chemistry) — is what petrologists do.
 
-And the practical stakes are high. Petroleum reservoirs are rocks. Ore deposits are rocks. The foundations of buildings, bridges, and dams are rocks. Underground water supplies flow through rocks. Nuclear waste must be stored in rocks that will remain stable for hundreds of thousands of years. Petrology underpins every field that interacts with Earth's solid materials — which is essentially every branch of [earth science](/earth-science) and many branches of [engineering](/engineering).
+And the practical stakes are high. Petroleum reservoirs are rocks. Ore deposits are rocks. The foundations of buildings, bridges, and dams are rocks. Underground water supplies flow through rocks. Nuclear waste must be stored in rocks that will remain stable for hundreds of thousands of years. Petrology drives every field that interacts with Earth's solid materials — which is essentially every branch of [earth science](/earth-science) and many branches of [engineering](/engineering).
 
 ## The Rock Cycle: Nothing Stays the Same
 
@@ -55,7 +55,7 @@ One of petrology's most important concepts is that rocks aren't permanent. They'
 
 **Metamorphic rocks** form when existing rocks — igneous, sedimentary, or even older metamorphic rocks — are subjected to heat, pressure, or chemically active fluids that change their mineral composition and texture without melting them completely.
 
-Any rock type can transform into any other type given the right conditions. Granite can weather into sand that becomes sandstone. Sandstone can be buried and metamorphosed into quartzite. Quartzite can melt and produce new igneous rock. This cycle has operated for billions of years and will continue as long as Earth's interior remains hot enough to drive [plate tectonics](/plate-[tectonics](/tectonics)).
+Any rock type can transform into any other type given the right conditions. Granite can weather into sand that becomes sandstone. Sandstone can be buried and metamorphosed into quartzite. Quartzite can melt and produce new igneous rock. This cycle has operated for billions of years and will continue as long as Earth's interior remains hot enough to drive [plate tectonics](/plate-tectonics)).
 
 ## Igneous Petrology
 

@@ -4,7 +4,7 @@ slug: pantomime
 description: "Pantomime is a theatrical form combining comedy, music, and audience participation, popular in Britain. Learn about its traditions and performance style."
 category: everyday-concepts
 tags: ["pantomime", "theater", "performing arts", "comedy", "british culture", "entertainment"]
-heroImage: "/images/articles/pantomime.webp"
+heroImage: "/images/articles/pantomime-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pantomime"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ And if you've never experienced one, it's hard to describe how gloriously weird 
 
 ## The Basics
 
-A typical pantomime takes a well-known story — Cinderella, Jack and the Beanstalk, Aladdin, Sleeping Beauty, Snow White — and retells it with comedy, contemporary references, and audience interaction. The plots are loose frameworks for a series of comedy routines, musical numbers, and set pieces.
+A typical pantomime takes a well-known story — Cinderella, Jack and the Beanstalk, Aladdin, Sleeping Beauty, Snow White — and retells it with [comedy](/stand-up-comedy), contemporary references, and audience interaction. The plots are loose frameworks for a series of comedy routines, musical numbers, and set pieces.
 
 Several conventions make panto distinctive:
 

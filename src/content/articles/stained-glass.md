@@ -4,7 +4,7 @@ slug: stained-glass
 description: "Stained glass is the art of creating decorative windows from colored glass pieces joined with lead. Learn about techniques, history, and modern practice."
 category: everyday-concepts
 tags: ["stained glass", "art", "glasswork", "cathedrals", "crafts", "architecture"]
-heroImage: "/images/articles/stained-glass.webp"
+heroImage: "/images/articles/stained-glass-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stained glass"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

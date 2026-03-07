@@ -4,7 +4,7 @@ slug: indian-history
 description: "Indian history spans over 5,000 years from the Indus Valley civilization to modern independence. Learn about key empires, cultural achievements, and eras."
 category: everyday-concepts
 tags: ["indian history", "India", "ancient civilizations", "Mughal Empire", "British Raj"]
-heroImage: "/images/articles/indian-history.webp"
+heroImage: "/images/articles/indian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of indian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

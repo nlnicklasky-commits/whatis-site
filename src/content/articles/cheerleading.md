@@ -1,10 +1,10 @@
 ---
 title: "What Is Cheerleading?"
 slug: cheerleading
-description: "Cheerleading is a physical activity combining dance, gymnastics, stunts, and chanting to support sports teams or compete as an independent sport."
+description: "Cheerleading is a physical activity combining dance, gymnastics, stunts, and chanting to support sports teams or compete as an independent sport. Discover th..."
 category: sports
 tags: ["cheerleading", "sports", "gymnastics", "dance", "athletics", "competition"]
-heroImage: "/images/articles/cheerleading.webp"
+heroImage: "/images/articles/cheerleading-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cheerleading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

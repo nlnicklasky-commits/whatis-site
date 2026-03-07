@@ -4,7 +4,7 @@ slug: legends
 description: "Legends are traditional stories rooted in history but shaped by imagination. Learn how they differ from myths, their cultural roles, and famous examples."
 category: arts-amp-culture
 tags: ["legends", "folklore", "storytelling", "oral tradition", "mythology", "cultural heritage"]
-heroImage: "/images/articles/legends.webp"
+heroImage: "/images/articles/legends-hero.webp"
 heroAlt: "Editorial photograph representing the concept of legends"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ Not every notable person becomes legendary. Plenty of kings and warriors fade fr
 
 **Emotional resonance.** Legends tap into feelings people already have — resentment of authority (Robin Hood), national pride (King Arthur), frontier independence (Davy Crockett). The story succeeds because it confirms something the audience wants to believe.
 
-**Simplicity.** Complex, nuanced truth doesn't survive oral transmission well. Legends strip characters down to essentials — the brave knight, the clever outlaw, the selfless healer. This simplification makes stories easy to remember and retell.
+**Simplicity.** Complex, layered truth doesn't survive oral transmission well. Legends strip characters down to essentials — the brave knight, the clever outlaw, the selfless healer. This simplification makes stories easy to remember and retell.
 
 **Adaptability.** Great legends get retold in every medium. Arthur has been the subject of medieval romances, Victorian [poetry](/poetry), Broadway musicals, Hollywood films, and video games. Each era reshapes the legend to reflect its own values and concerns. The 12th-century Arthur is a feudal king; the 21st-century Arthur often grapples with diversity and moral ambiguity.
 

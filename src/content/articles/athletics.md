@@ -4,7 +4,7 @@ slug: athletics
 description: "Athletics is a collection of sporting events including running, jumping, throwing, and walking competitions. It forms the core of the modern Olympic Games."
 category: sports
 tags: ["athletics", "track and field", "sports", "running", "olympics", "marathon"]
-heroImage: "/images/articles/athletics.webp"
+heroImage: "/images/articles/athletics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of athletics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

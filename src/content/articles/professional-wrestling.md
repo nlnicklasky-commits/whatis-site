@@ -1,10 +1,10 @@
 ---
 title: "What Is Professional Wrestling?"
 slug: professional-wrestling
-description: "Professional wrestling combines athletic performance with scripted storytelling. Learn how it works, its history, and why millions watch."
+description: "Professional wrestling combines athletic performance with scripted storytelling. Learn how it works, its history, and why millions watch. Discover the key fa..."
 category: arts-amp-culture
 tags: ["professional wrestling", "wwe", "wrestling", "sports entertainment", "lucha libre", "njpw"]
-heroImage: "/images/articles/professional-wrestling.webp"
+heroImage: "/images/articles/professional-wrestling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of professional wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: diy-home-improvement
 description: "DIY home improvement means tackling home repairs and upgrades yourself. Learn which projects to DIY, which to hire out, tools, costs, and safety tips."
 category: everyday-concepts
 tags: ["diy home improvement", "everyday-concepts"]
-heroImage: "/images/articles/diy-home-improvement.webp"
+heroImage: "/images/articles/diy-home-improvement-hero.webp"
 heroAlt: "Editorial photograph representing the concept of diy home improvement"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

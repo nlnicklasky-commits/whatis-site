@@ -1,10 +1,10 @@
 ---
 title: "What Is Cabaret?"
 slug: cabaret
-description: "Cabaret is a form of live entertainment combining music, comedy, dance, and theatrical performance in intimate nightclub or restaurant settings."
+description: "Cabaret is a form of live entertainment combining music, comedy, dance, and theatrical performance in intimate nightclub or restaurant settings. Discover the..."
 category: arts-amp-culture
 tags: ["cabaret", "live performance", "theatre", "music", "entertainment", "nightlife"]
-heroImage: "/images/articles/cabaret.webp"
+heroImage: "/images/articles/cabaret-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cabaret"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

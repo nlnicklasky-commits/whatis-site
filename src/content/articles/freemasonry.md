@@ -4,7 +4,7 @@ slug: freemasonry
 description: "Freemasonry is the world's oldest and largest fraternal organization, using ritual and symbolism to teach moral philosophy and encourage charitable work."
 category: history
 tags: ["fraternal organizations", "secret societies", "symbolism", "ethics", "charity"]
-heroImage: "/images/articles/freemasonry.webp"
+heroImage: "/images/articles/freemasonry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of freemasonry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

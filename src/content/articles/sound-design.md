@@ -4,7 +4,7 @@ slug: sound-design
 description: "Sound design creates and manipulates audio for film, theater, games, and installations. Learn about techniques, tools, and how sound shapes experience."
 category: arts-amp-culture
 tags: ["sound design", "audio", "film sound", "Foley", "game audio", "acoustics"]
-heroImage: "/images/articles/sound-design.webp"
+heroImage: "/images/articles/sound-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sound design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Nihilism?"
 slug: nihilism
-description: "Nihilism is the philosophical view that life lacks objective meaning, purpose, or value. Learn about its history, types, and key thinkers."
+description: "Nihilism is the philosophical view that life lacks objective meaning, purpose, or value. Learn about its history, types, and key thinkers. Discover the key f..."
 category: everyday-concepts
 tags: ["nihilism", "philosophy", "existentialism", "Nietzsche", "meaning of life", "metaphysics"]
-heroImage: "/images/articles/nihilism.webp"
+heroImage: "/images/articles/nihilism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nihilism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Nihilism is the philosophical position that life has no inherent meaning, purpos
 
 ## What People Get Wrong
 
-Most people hear "nihilism" and picture someone shrugging at everything, caring about nothing, and probably wearing a lot of black. That's the pop-culture version. The actual philosophical tradition is more nuanced and, frankly, more interesting.
+Most people hear "nihilism" and picture someone shrugging at everything, caring about nothing, and probably wearing a lot of black. That's the pop-culture version. The actual philosophical tradition is more subtle and, frankly, more interesting.
 
 Nihilism isn't necessarily about not caring. It's about confronting a specific claim: that there is no objective foundation for meaning, morality, or truth. What you do with that confrontation — despair, liberation, creative rebellion — varies enormously among nihilistic thinkers.
 
@@ -45,7 +45,7 @@ Nihilism isn't one thing. It splits into several distinct forms:
 
 **Existential nihilism** holds that life has no intrinsic meaning or purpose. You weren't born for a reason. The universe doesn't care about you. There's no script, no destiny, no cosmic plan. This is the version most people mean when they say "nihilism."
 
-**Moral nihilism** (also called ethical nihilism) claims that no moral statements are objectively true. "Murder is wrong" isn't a fact about the universe — it's a human convention, a feeling, or a social agreement. Nothing is inherently right or wrong.
+**Moral nihilism** (also called ethical nihilism) claims that no moral statements are objectively true. "Murder is wrong" isn't a fact about the universe — it's a human convention, a feeling, or a [social](/social-contract-theory) agreement. Nothing is inherently right or wrong.
 
 **Epistemological nihilism** goes further, questioning whether any knowledge is possible. If our senses can deceive us and our reasoning can be flawed, how can we claim to know anything with certainty?
 

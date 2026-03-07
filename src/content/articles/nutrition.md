@@ -4,7 +4,7 @@ slug: nutrition
 description: "Nutrition is the science of how food nourishes the body. Learn about macronutrients, micronutrients, dietary guidelines, and how your diet affects health."
 category: health-amp-wellness
 tags: ["nutrition", "diet", "nutrients", "health", "food science"]
-heroImage: "/images/articles/nutrition.webp"
+heroImage: "/images/articles/nutrition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nutrition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

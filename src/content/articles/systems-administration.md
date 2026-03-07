@@ -4,7 +4,7 @@ slug: systems-administration
 description: "Systems administration is the practice of managing, maintaining, and configuring computer servers, networks, and infrastructure to keep IT systems running."
 category: technology
 tags: ["technology", "systems administration", "IT infrastructure", "networking", "server management", "DevOps"]
-heroImage: "/images/articles/systems-administration.webp"
+heroImage: "/images/articles/systems-administration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of systems administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "No, but it's evolving. Cloud computing has shifted some traditional sysadmin tasks to cloud providers, but it has also created demand for cloud administration skills. The BLS projects steady job growth through 2032. Sysadmins who learn automation, cloud platforms, and security remain highly employable."
 ---
 
+# What Is Systems Administration?
 Systems administration is the professional discipline of managing, configuring, maintaining, and ensuring the reliable operation of computer systems, servers, networks, and IT infrastructure within an organization.
 
 Every time you send an email, load a website, save a file to a shared drive, or log into a work application — a systems administrator (sysadmin) made that possible. And if something breaks at 3 AM on a Saturday, a sysadmin is probably the one who gets the phone call. It's a profession that's mostly invisible when things work and intensely visible when they don't.

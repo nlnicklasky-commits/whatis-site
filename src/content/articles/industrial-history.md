@@ -4,7 +4,7 @@ slug: industrial-history
 description: "Industrial history traces how manufacturing, technology, and labor shaped modern economies. Learn about key revolutions, factory systems, and their lasting."
 category: history
 tags: ["industrial history", "industrial revolution", "economic history", "technology", "labor history"]
-heroImage: "/images/articles/industrial-history.webp"
+heroImage: "/images/articles/industrial-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of industrial history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

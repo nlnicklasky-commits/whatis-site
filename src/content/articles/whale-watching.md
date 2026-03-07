@@ -4,7 +4,7 @@ slug: whale-watching
 description: "Whale watching is the observation of whales and dolphins in their natural habitat. Learn about top destinations, species, best seasons, and responsible."
 category: lifestyle
 tags: ["whale watching", "marine life", "ecotourism", "whales", "ocean wildlife", "nature"]
-heroImage: "/images/articles/whale-watching.webp"
+heroImage: "/images/articles/whale-watching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of whale watching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -65,7 +65,7 @@ The species you'll encounter depend entirely on where and when you go.
 
 **Maui, Hawaii** — Roughly 10,000 humpback whales migrate to Hawaiian waters each winter (December-April) to breed and calve. The shallow, warm channels between islands create exceptional viewing.
 
-**Peninsula Valdés, Argentina** — Southern right whales, orcas, and elephant seals. The orcas here intentionally beach themselves to catch sea lion pups — some of the most dramatic wildlife behavior on Earth.
+**Peninsula Valdés, Argentina** — Southern right whales, orcas, and elephant seals. The orcas here intentionally beach themselves to catch sea lion pups — some of the most dramatic [wildlife](/[wildlife](/wildlife-conservation)-photography) behavior on Earth.
 
 ## What a Trip Looks Like
 

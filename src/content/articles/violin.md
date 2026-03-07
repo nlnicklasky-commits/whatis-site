@@ -4,7 +4,7 @@ slug: violin
 description: "The violin is a four-stringed instrument and the highest-pitched member of the string family. Learn about its construction, history, technique, and masters."
 category: arts-amp-culture
 tags: ["violin", "string instruments", "orchestra", "classical music", "fiddle", "music"]
-heroImage: "/images/articles/violin.webp"
+heroImage: "/images/articles/violin-hero.webp"
 heroAlt: "Editorial photograph representing the concept of violin"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Structurally, nothing — they're the same instrument. 'Violin' typically refers to the instrument in classical contexts, while 'fiddle' is used in folk, country, bluegrass, and Celtic music traditions. Some fiddlers modify their instrument slightly (flatter bridge for easier double-stopping, different string choices), but the instrument itself is identical. As the saying goes: a violin sings, a fiddle dances."
 ---
 
-# What Is Violin?
+# What Is [Violin](/violin-making)?
 
 The violin is a four-stringed instrument played with a bow, producing the highest pitch range in the string family. It's arguably the most versatile acoustic instrument ever created — equally at home in a symphony orchestra, a jazz club, an Irish pub session, a Bollywood film score, and a Romanian wedding band. About 70 of the 100 or so musicians in a full orchestra are string players, and violins make up about half of those.
 

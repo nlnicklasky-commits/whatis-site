@@ -4,7 +4,7 @@ slug: drawing
 description: "Drawing is the art of making marks on a surface to create images. Explore techniques, materials, styles, and why drawing is the foundation of all visual art."
 category: arts-amp-culture
 tags: ["drawing", "arts-amp-culture"]
-heroImage: "/images/articles/drawing.webp"
+heroImage: "/images/articles/drawing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

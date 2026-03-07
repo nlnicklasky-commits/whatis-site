@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 11
-wordCount: 2923
+wordCount: 2615
 tier: "2"
 relatedArticles: ["anatomy", "crystallography", "coral-reef-ecology", "cosmology"]
 externalSources:

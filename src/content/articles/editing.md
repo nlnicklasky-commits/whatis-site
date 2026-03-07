@@ -4,7 +4,7 @@ slug: editing
 description: "Editing is the process of refining written or visual content for clarity, accuracy, and impact. Learn about editing types, techniques, and career paths."
 category: arts-amp-culture
 tags: ["editing", "writing", "publishing", "proofreading", "copyediting", "content creation"]
-heroImage: "/images/articles/editing.webp"
+heroImage: "/images/articles/editing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

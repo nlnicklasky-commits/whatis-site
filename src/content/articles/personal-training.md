@@ -4,7 +4,7 @@ slug: personal-training
 description: "Personal training is one-on-one fitness coaching tailored to your goals. Learn what trainers do, certifications, costs, and how to find the right fit."
 category: health-amp-wellness
 tags: ["fitness", "personal training", "exercise", "health"]
-heroImage: "/images/articles/personal-training.webp"
+heroImage: "/images/articles/personal-training-hero.webp"
 heroAlt: "Editorial photograph representing the concept of personal training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

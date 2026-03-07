@@ -4,7 +4,7 @@ slug: tungsten-inert-gas-tig-welding
 description: "TIG welding uses a non-consumable tungsten electrode and inert gas to create precise, high-quality welds. Learn about equipment, techniques, and applications."
 category: technology
 tags: ["tig welding", "welding", "manufacturing", "metalworking", "fabrication"]
-heroImage: "/images/articles/tungsten-inert-gas-tig-welding.webp"
+heroImage: "/images/articles/tungsten-inert-gas-tig-welding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tungsten inert gas (tig) welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -89,7 +89,7 @@ The torch cup — the ceramic or glass nozzle that directs the shielding gas —
 
 ### The Foot Pedal
 
-This is the part that makes TIG welding feel like playing a musical instrument. The foot pedal gives the welder real-time control over amperage. Press harder, more heat. Ease off, less heat. This variable control is what allows TIG welders to work on everything from 0.5mm stainless steel sheet to 25mm thick [pressure vessels](/civil-[engineering](/engineering)) — the same machine, just different pedal pressure.
+This is the part that makes TIG welding feel like playing a musical instrument. The foot pedal gives the welder real-time control over amperage. Press harder, more heat. Ease off, less heat. This variable control is what allows TIG welders to work on everything from 0.5mm stainless steel sheet to 25mm thick [pressure vessels](/civil-law)) — the same machine, just different pedal pressure.
 
 Some welders use a finger-tip control on the torch instead of a foot pedal, especially when welding in positions where foot access is awkward (overhead, cramped spaces, pipe work).
 

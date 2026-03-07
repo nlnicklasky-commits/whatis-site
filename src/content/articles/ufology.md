@@ -4,7 +4,7 @@ slug: ufology
 description: "Ufology is the study of unidentified flying objects and related phenomena. Learn about its history, famous cases, government involvement, and debates."
 category: everyday-concepts
 tags: ["ufology", "UFOs", "UAP", "extraterrestrial", "paranormal", "unexplained phenomena"]
-heroImage: "/images/articles/ufology.webp"
+heroImage: "/images/articles/ufology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ufology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

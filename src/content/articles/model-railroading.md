@@ -1,10 +1,10 @@
 ---
 title: "What Is Model Railroading?"
 slug: model-railroading
-description: "Model railroading is the hobby of building and operating miniature train layouts. Learn about scales, track planning, scenery, and the community."
+description: "Model railroading is the hobby of building and operating miniature train layouts. Learn about scales, track planning, scenery, and the community. Discover th..."
 category: everyday-concepts
 tags: ["model railroading", "trains", "hobby", "miniatures", "model trains", "layouts"]
-heroImage: "/images/articles/model-railroading.webp"
+heroImage: "/images/articles/model-railroading-hero.webp"
 heroAlt: "Editorial photograph representing the concept of model railroading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "A basic HO layout fits on a 4x8 foot table — the classic 'starter size.' N scale layouts can work on a 2x4 foot surface. Serious layouts often occupy entire basements or spare rooms (8x12 feet or larger). Some modelers build narrow shelf layouts along walls to maximize limited space."
 ---
 
-# What Is Model Railroading?
+# What Is [Model](/model-building) Railroading?
 
-Model railroading is the hobby of building and operating miniature railroad systems — tiny trains [running](/running) on precisely scaled track through handcrafted landscapes of mountains, towns, bridges, and tunnels. It combines [electrical engineering](/electrical-[engineering](/engineering)), [carpentry](/carpentry), field artistry, historical research, and the simple childhood joy of watching trains go around in circles. Except the circles become complex route networks, and the landscapes become astonishingly realistic miniature worlds.
+Model railroading is the hobby of building and operating miniature railroad systems — tiny trains [running](/running) on precisely scaled track through handcrafted landscapes of mountains, towns, bridges, and tunnels. It combines [electrical engineering](/electricity)), [carpentry](/carpentry), field artistry, historical research, and the simple childhood joy of watching trains go around in circles. Except the circles become complex route networks, and the landscapes become astonishingly realistic miniature worlds.
 
 An estimated 500,000+ people in North America actively pursue model railroading, making it one of the most popular hobbies in the country. The average model railroader spends about $500 per year on the hobby, supporting an industry worth roughly $500 million annually.
 
@@ -81,6 +81,6 @@ The hobby skews older — the average model railroader is over 50 — and the co
 
 ## Why It Endures
 
-Model railroading satisfies multiple drives simultaneously. The engineering appeal of making things work. The artistic satisfaction of creating realistic miniature landscapes. The historical interest of recreating specific railroads and eras. The problem-solving of operational sessions. And something harder to articulate — the meditative pleasure of working with your hands on a project that's never truly finished, in a miniature world where you control every detail.
+Model railroading satisfies multiple drives simultaneously. The [engineering](/engineering) appeal of making things work. The artistic satisfaction of creating realistic miniature landscapes. The historical interest of recreating specific railroads and eras. The problem-solving of operational sessions. And something harder to articulate — the meditative pleasure of working with your hands on a project that's never truly finished, in a miniature world where you control every detail.
 
 A model railroad is never "done." There's always another section to scenic, another building to add, another detail to refine. For many hobbyists, that's not a frustration — it's the point.

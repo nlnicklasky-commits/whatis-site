@@ -4,7 +4,7 @@ slug: modern-art
 description: "Modern art refers to artistic works from roughly 1860 to 1970 that broke with traditional styles. Learn about movements, key artists, and why it matters."
 category: arts-amp-culture
 tags: ["modern art", "art history", "impressionism", "cubism", "abstract art", "contemporary art"]
-heroImage: "/images/articles/modern-art.webp"
+heroImage: "/images/articles/modern-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of modern art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

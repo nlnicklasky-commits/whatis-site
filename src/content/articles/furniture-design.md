@@ -4,7 +4,7 @@ slug: furniture-design
 description: "Furniture design combines aesthetics, ergonomics, and engineering to create functional objects. Learn about styles, famous designers, and the design process."
 category: arts-amp-culture
 tags: ["furniture", "design", "interior design", "industrial design", "ergonomics", "aesthetics"]
-heroImage: "/images/articles/furniture-design.webp"
+heroImage: "/images/articles/furniture-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of furniture design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What education do furniture designers need?"
     a: "Most furniture designers hold degrees in industrial design, furniture design, or architecture from programs like RISD, Cranbrook, RCA London, or Eindhoven. Programs typically cover sketching, 3D modeling, materials science, ergonomics, prototyping, and design history. Some successful designers are self-taught or come from architecture or engineering backgrounds."
   - q: "What is mid-century modern furniture?"
-    a: "Mid-century modern refers to furniture designed roughly between 1945 and 1970, characterized by clean lines, organic curves, minimal ornamentation, and innovative use of new materials like molded plywood, fiberglass, and bent metal. Key designers include Charles and Ray Eames, Arne Jacobsen, Hans Wegner, and Eero Saarinen. The style remains enormously popular and widely reproduced."
+    a: "Mid-century modern refers to furniture designed roughly between 1945 and 1970, characterized by clean lines, organic curves, minimal ornamentation, and new use of new materials like molded plywood, fiberglass, and bent metal. Key designers include Charles and Ray Eames, Arne Jacobsen, Hans Wegner, and Eero Saarinen. The style remains enormously popular and widely reproduced."
 ---
 
 # What Is Furniture Design?

@@ -34,7 +34,7 @@ faq:
   - q: "Does financial regulation hurt economic growth?"
     a: "This is debated. Excessive or poorly designed regulation can increase costs, reduce lending, and slow innovation. But inadequate regulation leads to crises that cause far greater economic damage—the 2008 crisis cost an estimated $12.8 trillion in lost output. The goal is regulation that prevents excessive risk without stifling productive economic activity."
   - q: "Are cryptocurrencies regulated?"
-    a: "Regulation of cryptocurrencies varies by country and is rapidly evolving. In the U.S., the SEC considers many crypto tokens to be securities subject to its authority. The CFTC regulates crypto derivatives. The EU's Markets in Crypto-Assets (MiCA) regulation, effective 2024, provides a comprehensive framework. Many jurisdictions are still developing their approach, creating regulatory uncertainty."
+    a: "Regulation of cryptocurrencies varies by country and is rapidly evolving. In the U.S., the SEC considers many crypto tokens to be securities subject to its authority. The CFTC regulates crypto derivatives. The EU's Markets in Crypto-Assets (MiCA) regulation, effective 2024, provides a full framework. Many jurisdictions are still developing their approach, creating regulatory uncertainty."
 ---
 
 # What Is Financial Regulation?
@@ -200,7 +200,7 @@ Financial institutions operate globally, but regulation is national. A bank regu
 
 ### Complexity vs. Simplicity
 
-Some economists argue that financial regulation is too complex—thousands of pages of rules that even experts struggle to understand. They advocate for simpler rules: higher capital requirements, outright prohibitions on certain activities, and clear bright-line tests rather than nuanced standards that sophisticated firms can game.
+Some economists argue that financial regulation is too complex—thousands of pages of rules that even experts struggle to understand. They advocate for simpler rules: higher capital requirements, outright prohibitions on certain activities, and clear bright-line tests rather than complex standards that sophisticated firms can game.
 
 Others argue that the financial system is inherently complex, and simple rules create loopholes and unintended consequences. A rule that seems straightforward can produce bizarre outcomes when applied to the thousands of different situations that arise in modern finance.
 

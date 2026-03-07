@@ -4,7 +4,7 @@ slug: special-effects
 description: "Special effects create illusions in film, TV, and theater using practical techniques and CGI. Learn how explosions, creatures, and impossible scenes are made."
 category: arts-amp-culture
 tags: ["special effects", "VFX", "CGI", "practical effects", "film production", "motion capture"]
-heroImage: "/images/articles/special-effects.webp"
+heroImage: "/images/articles/special-effects-hero.webp"
 heroAlt: "Editorial photograph representing the concept of special effects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

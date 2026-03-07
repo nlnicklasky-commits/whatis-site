@@ -1,7 +1,7 @@
 ---
 title: "What Is Communication Theory?"
 slug: communication-theory
-description: "Communication theory studies how messages are created, transmitted, received, and interpreted between individuals, groups, and mass audiences."
+description: "Communication theory studies how messages are created, transmitted, received, and interpreted between individuals, groups, and mass audiences. Discover the k..."
 category: science
 tags: ["communication theory", "communication", "linguistics", "sociology", "psychology", "media", "information"]
 heroImage: "/images/articles/communication-theory-hero.webp"

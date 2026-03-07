@@ -4,7 +4,7 @@ slug: wetland-ecology
 description: "Wetland ecology studies marshes, swamps, and bogs and the organisms that depend on them. Learn about wetland types, functions, biodiversity, and conservation."
 category: science-technology
 tags: ["wetland ecology", "wetlands", "ecology", "conservation", "biodiversity", "environment"]
-heroImage: "/images/articles/wetland-ecology.webp"
+heroImage: "/images/articles/wetland-ecology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wetland ecology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Wetland Ecology?
 
-Wetland ecology is the scientific study of wetland ecosystems — marshes, swamps, bogs, fens, and other areas where water meets land. These are places where the soil stays saturated long enough to create unique conditions that support specialized plants, animals, and microorganisms found nowhere else. Wetlands cover only about 6% of Earth's land surface, but they punch far above their weight in ecological importance, and understanding how they function is the business of wetland ecologists.
+Wetland ecology is the scientific study of wetland ecosystems — marshes, swamps, bogs, fens, and other areas where [water](/water-management) meets land. These are places where the soil stays saturated long enough to create unique conditions that support specialized plants, animals, and microorganisms found nowhere else. Wetlands cover only about 6% of Earth's land surface, but they punch far above their weight in ecological importance, and understanding how they function is the business of wetland ecologists.
 
 ## What Makes a Wetland
 

@@ -4,13 +4,13 @@ slug: volcanology
 description: "Volcanology is the study of volcanoes, lava, magma, and eruptions. Learn about volcano types, eruption mechanics, monitoring methods, and hazard prediction."
 category: science
 tags: ["volcanology", "geology", "earth science", "natural hazards"]
-heroImage: "/images/articles/volcanology.webp"
+heroImage: "/images/articles/volcanology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of volcanology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3850
+readingTime: 9
+wordCount: 2333
 tier: '1'
 relatedArticles: ["geology", "earth-science", "seismology", "geophysics", "geochemistry"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Volcanic soils are extremely fertile, supporting productive agriculture. Geothermal energy provides cheap power. Many volcanic areas are culturally significant, and some eruptions happen so infrequently that the risk feels abstract. About 800 million people live within 100 km of an active volcano."
 ---
 
+# What Is Volcanology?
 Volcanology (also spelled vulcanology) is the branch of [geology](/geology) that studies volcanoes, volcanic eruptions, magma, lava, and related geological phenomena. Volcanologists investigate how magma forms deep in the Earth, how it rises to the surface, why eruptions vary from gentle lava flows to catastrophic explosions, and how to monitor volcanic activity to protect communities.
 
 About 800 million people worldwide live within 100 kilometers of an active volcano, making this field literally a matter of life and death.

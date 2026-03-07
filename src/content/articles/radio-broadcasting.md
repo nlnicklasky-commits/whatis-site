@@ -1,10 +1,10 @@
 ---
 title: "What Is Radio Broadcasting?"
 slug: radio-broadcasting
-description: "Radio broadcasting transmits audio content wirelessly to listeners via electromagnetic waves. Learn how radio works and why it endures."
+description: "Radio broadcasting transmits audio content wirelessly to listeners via electromagnetic waves. Learn how radio works and why it endures. Discover the key fact..."
 category: arts-amp-culture
 tags: ["radio broadcasting", "media", "communication", "FM", "AM", "broadcasting"]
-heroImage: "/images/articles/radio-broadcasting.webp"
+heroImage: "/images/articles/radio-broadcasting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of radio broadcasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

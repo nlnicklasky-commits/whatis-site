@@ -4,7 +4,7 @@ slug: hagiography
 description: Hagiography is the writing of saints' lives, a literary genre that blends biography, theology, and moral instruction to celebrate holy figures.
 category: history
 tags: ["hagiography", "saints", "religious studies", "biography", "christianity"]
-heroImage: "/images/articles/hagiography.webp"
+heroImage: "/images/articles/hagiography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hagiography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

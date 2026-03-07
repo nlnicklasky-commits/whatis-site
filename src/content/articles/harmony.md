@@ -4,7 +4,7 @@ slug: harmony
 description: "Harmony is how musical notes combine into chords and progressions. Learn about consonance, dissonance, chord theory, and why some sounds click together."
 category: arts-amp-culture
 tags: ["harmony", "music theory", "music", "chords", "consonance", "dissonance"]
-heroImage: "/images/articles/harmony.webp"
+heroImage: "/images/articles/harmony-hero.webp"
 heroAlt: "Editorial photograph representing the concept of harmony"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

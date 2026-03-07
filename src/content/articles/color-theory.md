@@ -4,7 +4,7 @@ slug: color-theory
 description: "Color theory explains how colors interact, combine, and affect perception. Learn about the color wheel, harmony, psychology, and practical applications."
 category: arts-amp-culture
 tags: ["color theory", "color", "art", "design", "visual arts", "hue"]
-heroImage: "/images/articles/color-theory.webp"
+heroImage: "/images/articles/color-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of color theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

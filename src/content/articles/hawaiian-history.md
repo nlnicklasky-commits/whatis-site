@@ -4,7 +4,7 @@ slug: hawaiian-history
 description: Hawaiian history spans over 1,000 years from Polynesian voyagers to statehood, covering a unique kingdom, colonial overthrow, and cultural revival.
 category: history
 tags: ["hawaiian history", "hawaii", "polynesia", "hawaiian kingdom", "us history"]
-heroImage: "/images/articles/hawaiian-history.webp"
+heroImage: "/images/articles/hawaiian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hawaiian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

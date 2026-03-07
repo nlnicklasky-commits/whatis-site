@@ -1,10 +1,10 @@
 ---
 title: "What Is Goldsmithing?"
 slug: goldsmithing
-description: "Goldsmithing is the craft of shaping gold and precious metals into jewelry and objects. Learn about techniques, tools, history, and the trade today."
+description: "Goldsmithing is the craft of shaping gold and precious metals into jewelry and objects. Learn about techniques, tools, history, and the trade today. Discover..."
 category: arts-amp-culture
 tags: ["goldsmithing", "gold", "jewelry making", "precious metals", "craftsmanship", "art"]
-heroImage: "/images/articles/goldsmithing.webp"
+heroImage: "/images/articles/goldsmithing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of goldsmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

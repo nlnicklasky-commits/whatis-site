@@ -4,7 +4,7 @@ slug: textile-history
 description: "Textile history traces fabric production from ancient hand-spinning to the Industrial Revolution and beyond. Learn about weaving, trade routes, and fibers."
 category: history
 tags: ["textile history", "fabric", "weaving", "industrial revolution", "silk road"]
-heroImage: "/images/articles/textile-history.webp"
+heroImage: "/images/articles/textile-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of textile history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "How did the spinning jenny change textile production?"
     a: "James Hargreaves invented the spinning jenny around 1764. It allowed a single worker to operate eight spindles at once instead of one, multiplying thread output by eight times. Later versions had up to 120 spindles. The spinning jenny was one of the key inventions that launched the Industrial Revolution by moving textile production from hand-powered cottage industry to mechanized factory production."
   - q: "Why was silk so valuable in ancient trade?"
-    a: "Silk production was a closely guarded Chinese monopoly for roughly 3,000 years. The fabric was lightweight, strong, lustrous, and could be dyed brilliantly. Because only China knew how to cultivate silkworms and process raw silk into fabric, the material commanded enormous prices. The Silk Road trade network, spanning over 6,400 kilometers, existed largely because of demand for this single fiber. Silk was literally worth its weight in gold in Roman markets."
+    a: "Silk production was a closely guarded Chinese monopoly for roughly 3,000 years. The fabric was lightweight, strong, lustrous, and could be dyed brilliantly. Because only China knew how to nurture silkworms and process raw silk into fabric, the material commanded enormous prices. The Silk Road trade network, spanning over 6,400 kilometers, existed largely because of demand for this single fiber. Silk was literally worth its weight in gold in Roman markets."
   - q: "What are synthetic textiles made from?"
     a: "Most synthetic textiles are made from petrochemicals — crude oil and natural gas derivatives. Nylon (invented 1935) is a polyamide made from coal, water, and air. Polyester (commercialized 1951) is made from ethylene glycol and terephthalic acid, both derived from petroleum. Acrylic, spandex, and polypropylene are also petroleum-based. Today, synthetic fibers account for about 62% of global fiber production, with polyester alone representing roughly 52%."
 ---

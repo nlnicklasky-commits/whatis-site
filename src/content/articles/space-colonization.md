@@ -4,7 +4,7 @@ slug: space-colonization
 description: "Space colonization is the idea of establishing permanent human settlements beyond Earth. Learn about Mars plans, space habitats, and the challenges involved."
 category: technology
 tags: ["space colonization", "space exploration", "Mars", "space habitat", "aerospace", "astronomy"]
-heroImage: "/images/articles/space-colonization.webp"
+heroImage: "/images/articles/space-colonization-hero.webp"
 heroAlt: "Editorial photograph representing the concept of space colonization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

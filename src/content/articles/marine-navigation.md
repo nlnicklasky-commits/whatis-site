@@ -4,7 +4,7 @@ slug: marine-navigation
 description: "Marine navigation is the science of directing a vessel safely across water. Learn about GPS, charts, celestial methods, and modern navigation systems."
 category: everyday-concepts
 tags: ["marine navigation", "sailing", "GPS", "nautical", "seamanship", "maritime"]
-heroImage: "/images/articles/marine-navigation.webp"
+heroImage: "/images/articles/marine-navigation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marine navigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

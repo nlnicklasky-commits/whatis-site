@@ -4,7 +4,7 @@ slug: cinematography
 description: "Cinematography is the art of visual storytelling through motion pictures — controlling light, camera movement, lens choice, and composition to create film."
 category: arts-amp-culture
 tags: ["cinematography", "filmmaking", "camera", "visual storytelling", "movies", "directing"]
-heroImage: "/images/articles/cinematography.webp"
+heroImage: "/images/articles/cinematography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cinematography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

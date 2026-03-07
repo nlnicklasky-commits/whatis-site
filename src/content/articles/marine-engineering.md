@@ -1,7 +1,7 @@
 ---
 title: "What Is Marine Engineering?"
 slug: marine-engineering
-description: "Marine engineering designs and maintains the systems that keep ships, submarines, and offshore structures operating at sea."
+description: "Marine engineering designs and maintains the systems that keep ships, submarines, and offshore structures operating at sea. Discover the key facts, history, ..."
 category: technology
 tags: ["marine engineering", "naval architecture", "ship systems", "propulsion", "maritime", "engineering", "ocean"]
 heroImage: "/images/articles/marine-engineering-hero.webp"

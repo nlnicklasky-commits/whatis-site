@@ -227,4 +227,4 @@ Linguistics is the scientific study of language — not just specific languages,
 
 The field extends into language change over time, language's role in society, how children acquire language, how computers process language, and the documentation of the world's linguistic diversity.
 
-What makes linguistics fascinating is the gap between what you *do* with language and what you *know* about it. You produce and understand complex sentences effortlessly, apply intricate grammatical rules unconsciously, and work through subtle social meanings automatically. Linguistics makes that invisible knowledge visible — and in doing so, reveals one of the most remarkable capabilities of the human mind.
+What makes linguistics fascinating is the gap between what you *do* with language and what you *know* about it. You produce and understand complex sentences effortlessly, apply involved grammatical rules unconsciously, and work through subtle social meanings automatically. Linguistics makes that invisible knowledge visible — and in doing so, reveals one of the most remarkable capabilities of the human mind.

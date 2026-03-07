@@ -4,7 +4,7 @@ slug: travel-hacking
 description: "Travel hacking uses credit card points, miles, and loyalty programs to travel cheaply or free. Learn the strategies, risks, and whether it's worth the effort."
 category: everyday-concepts
 tags: ["travel hacking", "travel", "credit cards", "loyalty programs", "miles", "points"]
-heroImage: "/images/articles/travel-hacking.webp"
+heroImage: "/images/articles/travel-hacking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of travel hacking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Experienced travel hackers regularly book flights and hotels worth $5,000-15,000+ per year using points and miles. A single premium credit card sign-up bonus (often worth 50,000-100,000 points) can cover a round-trip domestic flight or several hotel nights. Results depend on spending volume, strategy, and willingness to invest time in learning the systems."
 ---
 
-# What Is Travel Hacking?
+# What Is [Travel](/travel-writing) Hacking?
 
-Travel hacking is the practice of strategically earning and redeeming credit card points, airline miles, and hotel loyalty points to travel at dramatically reduced costs — or free. It's a system of maximizing rewards from everyday spending, sign-up bonuses, and loyalty program features to fund flights, hotels, and travel experiences.
+Travel hacking is the practice of strategically earning and redeeming [credit](/credit-management) card points, airline miles, and hotel loyalty points to travel at dramatically reduced costs — or free. It's a system of maximizing rewards from everyday spending, sign-up bonuses, and loyalty program features to fund flights, hotels, and travel experiences.
 
 The name sounds illicit, but there's nothing illegal about it. You're simply using the rewards programs that banks and airlines offer — just more strategically than most people do. Credit card companies are happy to give you points because they make money from merchant fees and from cardholders who carry balances. If you never carry a balance, you're getting rewarded for purchases you'd make anyway.
 
@@ -88,6 +88,6 @@ The gap is real, and it scales with spending volume and number of cardholders in
 
 For people who pay balances in full, spend at least moderately, and enjoy optimization puzzles — yes, absolutely. The returns can fund multiple vacations per year.
 
-For people who carry credit card [debt](/personal-[finance](/finance)), tend to overspend when using cards, or find tracking complex systems stressful — no. The psychological and financial costs outweigh the rewards.
+For people who carry credit card [debt](/coppersmithing)), tend to overspend when using cards, or find tracking complex systems stressful — no. The psychological and financial costs outweigh the rewards.
 
 The honest truth: travel hacking rewards the organized and disciplined. If you're already good with money, it's a powerful tool. If you're not, it's a potential trap dressed up as a deal.

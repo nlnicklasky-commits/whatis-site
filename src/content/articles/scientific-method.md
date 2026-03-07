@@ -1,7 +1,7 @@
 ---
 title: "What Is Scientific Method?"
 slug: scientific-method
-description: "The scientific method is a systematic process for investigating the natural world through observation, hypothesis, experiment, and analysis."
+description: "The scientific method is a systematic process for investigating the natural world through observation, hypothesis, experiment, and analysis. Discover the key..."
 category: science
 tags: ["scientific method", "science", "research", "hypothesis", "experiment", "observation", "empirical"]
 heroImage: "/images/articles/scientific-method-hero.webp"

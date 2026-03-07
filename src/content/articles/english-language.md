@@ -4,7 +4,7 @@ slug: english-language
 description: "English is a global language spoken by over 1.5 billion people. Explore its history, structure, dialects, quirks, and why it became the world's lingua franca."
 category: everyday-concepts
 tags: ["english language", "linguistics", "global language", "communication", "grammar", "vocabulary"]
-heroImage: "/images/articles/english-language.webp"
+heroImage: "/images/articles/english-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of english language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

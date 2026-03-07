@@ -4,7 +4,7 @@ slug: thermodynamics
 description: "Thermodynamics is the branch of physics studying heat, energy, work, and entropy. Learn about its four laws, engines, and why perpetual motion machines are."
 category: science
 tags: ["thermodynamics", "physics", "heat", "energy", "entropy"]
-heroImage: "/images/articles/thermodynamics.webp"
+heroImage: "/images/articles/thermodynamics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of thermodynamics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

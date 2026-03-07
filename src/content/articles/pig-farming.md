@@ -4,7 +4,7 @@ slug: pig-farming
 description: "Pig farming is the raising of domestic pigs for pork, bacon, and other products. Learn about breeds, housing, feed, and the economics of pork production."
 category: everyday-concepts
 tags: ["agriculture", "pigs", "farming", "pork", "livestock", "animal husbandry"]
-heroImage: "/images/articles/pig-farming.webp"
+heroImage: "/images/articles/pig-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pig farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ These practices maximize production efficiency but raise serious animal welfare 
 
 **Feeding.** Feed accounts for 60-70% of production costs. Commercial pig diets are primarily corn and soybean meal, supplemented with vitamins, minerals, and amino acids. Diets are formulated precisely for each growth stage — starter (just after weaning), grower, and finisher — each with different protein, energy, and nutrient levels.
 
-**[Waste management](/waste-[management](/management)).** A 1,000-sow operation produces as much waste as a small city. Manure is typically stored in lagoons or underground pits and applied to cropland as fertilizer. When properly managed, this closes the nutrient loop. When mismanaged — and it frequently is — it pollutes waterways, generates hydrogen sulfide and ammonia, and creates significant [public health](/public-health) concerns for nearby communities.
+**[Waste management](/waste-management)).** A 1,000-sow operation produces as much waste as a small city. Manure is typically stored in lagoons or underground pits and applied to cropland as fertilizer. When properly managed, this closes the nutrient loop. When mismanaged — and it frequently is — it pollutes waterways, generates hydrogen sulfide and ammonia, and creates significant [public health](/public-health) concerns for nearby communities.
 
 ## Small-Scale and Alternative Systems
 

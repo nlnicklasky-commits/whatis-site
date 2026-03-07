@@ -1,10 +1,10 @@
 ---
 title: "What Is Spanish History?"
 slug: spanish-history
-description: "Spanish history covers millennia of invasions, empires, and cultural exchange. Learn about the Reconquista, the Golden Age, and modern Spain."
+description: "Spanish history covers millennia of invasions, empires, and cultural exchange. Learn about the Reconquista, the Golden Age, and modern Spain. Discover the ke..."
 category: history
 tags: ["spanish history", "spain", "european history", "reconquista"]
-heroImage: "/images/articles/spanish-history.webp"
+heroImage: "/images/articles/spanish-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of spanish history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

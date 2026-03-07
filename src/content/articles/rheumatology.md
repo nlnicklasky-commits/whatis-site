@@ -4,7 +4,7 @@ slug: rheumatology
 description: "Rheumatology is the medical specialty focused on diagnosing and treating arthritis, autoimmune diseases, and other disorders of joints and connective tissue."
 category: health-amp-wellness
 tags: ["medical", "rheumatology", "arthritis", "autoimmune"]
-heroImage: "/images/articles/rheumatology.webp"
+heroImage: "/images/articles/rheumatology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of rheumatology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

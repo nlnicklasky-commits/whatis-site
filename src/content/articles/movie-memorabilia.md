@@ -4,7 +4,7 @@ slug: movie-memorabilia
 description: "Movie memorabilia includes props, costumes, posters, and collectibles from films. Learn about collecting, authentication, valuation, and famous items."
 category: arts-amp-culture
 tags: ["movie memorabilia", "film collectibles", "props", "Hollywood", "collecting", "entertainment"]
-heroImage: "/images/articles/movie-memorabilia.webp"
+heroImage: "/images/articles/movie-memorabilia-hero.webp"
 heroAlt: "Editorial photograph representing the concept of movie memorabilia"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

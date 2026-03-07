@@ -199,7 +199,7 @@ Cooling technology shows up in places you might not expect.
 
 ## Key Takeaways
 
-Refrigeration is the removal of heat from a space to reduce its temperature, and it underpins modern food safety, medicine, industry, and comfort. The vapor-compression cycle — using a compressor, condenser, expansion valve, and evaporator — handles roughly 90% of all cooling worldwide.
+Refrigeration is the removal of heat from a space to reduce its temperature, and it backs up modern food safety, medicine, industry, and comfort. The vapor-compression cycle — using a compressor, condenser, expansion valve, and evaporator — handles roughly 90% of all cooling worldwide.
 
 Refrigerant chemistry has evolved through four generations, each solving the previous generation's environmental problems while sometimes creating new ones. The current transition to low-GWP refrigerants represents the industry's response to climate concerns.
 

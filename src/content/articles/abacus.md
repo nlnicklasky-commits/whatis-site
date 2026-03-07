@@ -1,10 +1,10 @@
 ---
 title: "What Is Abacus?"
 slug: abacus
-description: "An abacus is one of the oldest counting tools in history, used for arithmetic across many cultures. Learn how it works and why it still matters."
+description: "An abacus is one of the oldest counting tools in history, used for arithmetic across many cultures. Learn how it works and why it still matters. Discover the..."
 category: everyday-concepts
 tags: ["abacus", "counting tool", "mathematics", "arithmetic"]
-heroImage: "/images/articles/abacus.webp"
+heroImage: "/images/articles/abacus-hero.webp"
 heroAlt: "Editorial photograph representing the concept of abacus"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

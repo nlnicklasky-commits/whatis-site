@@ -4,7 +4,7 @@ slug: orchestration
 description: "Orchestration is the art of assigning musical parts to different instruments in an ensemble or orchestra. Learn about techniques, timbres, and scoring."
 category: arts-amp-culture
 tags: ["orchestration", "music", "classical music", "instrumentation", "score", "timbre"]
-heroImage: "/images/articles/orchestration.webp"
+heroImage: "/images/articles/orchestration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of orchestration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

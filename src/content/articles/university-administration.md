@@ -4,7 +4,7 @@ slug: university-administration
 description: "University administration manages the operations, finances, and strategy of higher education institutions. Learn about roles, structure, and challenges."
 category: everyday-concepts
 tags: ["university administration", "higher education", "academic management", "college", "education", "governance"]
-heroImage: "/images/articles/university-administration.webp"
+heroImage: "/images/articles/university-administration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of university administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

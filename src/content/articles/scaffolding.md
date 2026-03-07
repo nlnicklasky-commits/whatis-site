@@ -24,7 +24,7 @@ externalSources:
     url: "https://www.cdc.gov/niosh/construction/stopfalls.html"
 faq:
   - q: "How high can scaffolding go?"
-    a: "Standard scaffolding systems can reach heights of 40-60 meters (130-200 feet) with proper engineering. For taller structures—like skyscrapers, cooling towers, or bridges—engineered scaffold designs can exceed 100 meters. At these heights, structural calculations must account for wind loads, settlement, and dynamic forces. Anything over about 38 feet (roughly 12 meters) in the U.S. requires design by a qualified engineer."
+    a: "Standard scaffolding systems can reach heights of 40-60 meters (130-200 feet) with proper engineering. For taller structures—like skyscrapers, cooling towers, or bridges—engineered scaffold designs can exceed 100 meters. At these heights, structural calculations must account for wind loads, settlement, and active forces. Anything over about 38 feet (roughly 12 meters) in the U.S. requires design by a qualified engineer."
   - q: "How much weight can scaffolding hold?"
     a: "Load capacity depends on the scaffold type and classification. Light-duty scaffolding supports about 25 pounds per square foot (painting, inspection). Medium-duty supports 50 lbs/sq ft (bricklaying, plastering). Heavy-duty supports 75 lbs/sq ft (masonry, stone work). Special-duty scaffolds for extremely heavy loads are engineered on a case-by-case basis. These ratings include workers, materials, tools, and the scaffold's own weight."
   - q: "Who is allowed to erect scaffolding?"
@@ -57,7 +57,7 @@ There's no one-size-fits-all scaffold. Different situations demand different sys
 
 This is what most people picture when they hear "scaffolding"—a structure built from the ground up.
 
-**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The trade-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-[engineering](/engineering)) projects with unusual geometry, and heavy-duty applications.
+**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The trade-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-law)) projects with unusual geometry, and heavy-duty applications.
 
 **Frame scaffolding** (also called fabricated frame) uses pre-welded rectangular frames that stack and lock together. Cross-braces pin between frames for lateral stability. It's the fastest scaffold to erect and the most common type on residential and light commercial construction in North America. A crew of two can erect 40-60 frames per hour. The downside is limited configurability—frames come in standard sizes, and adapting to irregular buildings requires filler pieces and creativity.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Macrobiotics?"
 slug: macrobiotics
-description: "Macrobiotics is a dietary and lifestyle philosophy rooted in Eastern traditions that emphasizes whole grains, vegetables, and balance."
+description: "Macrobiotics is a dietary and lifestyle philosophy rooted in Eastern traditions that emphasizes whole grains, vegetables, and balance. Discover the key facts..."
 category: health-amp-wellness
 tags: ["nutrition", "macrobiotics", "wellness", "whole grains", "Eastern philosophy"]
-heroImage: "/images/articles/macrobiotics.webp"
+heroImage: "/images/articles/macrobiotics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of macrobiotics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "While both emphasize plant foods, macrobiotics occasionally includes fish and is built on a broader philosophy involving yin-yang balance, cooking methods, and lifestyle practices beyond food choices. Veganism is defined purely by avoiding all animal products. Macrobiotics also avoids certain plant foods (nightshades, tropical fruits, refined flour) that veganism permits."
 ---
 
+# What Is Macrobiotics?
 Macrobiotics is a dietary and lifestyle system based on the idea that food choices and daily habits should create balance between opposing natural forces — what [Eastern philosophy](/eastern-philosophy) calls yin and yang. In practice, it means eating mostly whole grains, vegetables, beans, and sea vegetables while avoiding processed foods, most animal products, sugar, and artificial additives.
 
 The word comes from the Greek *makros* (great) and *bios* (life). Hippocrates used the term around 400 BCE to describe people who were healthy and long-lived. The modern macrobiotic movement, though, is primarily a 20th-century creation — blending traditional Japanese dietary practices with philosophical principles about balance, [harmony](/harmony), and the relationship between food and health.
@@ -43,7 +44,7 @@ Modern macrobiotics traces back to two Japanese thinkers who believed that diet 
 
 **Michio Kushi** (1926-2014) brought macrobiotics to the United States in the 1950s and became its most influential Western advocate. Based in Boston, Kushi moderated Ohsawa's more extreme positions, developed educational programs, and wrote dozens of books. He founded the East West Journal (later renamed Natural Health), the Kushi Institute, and Erewhon, one of America's first natural food stores. More than anyone else, Kushi shaped the version of macrobiotics that most people encounter today.
 
-The movement peaked in popularity during the 1960s-1980s, when it attracted people interested in alternative health, Eastern philosophy, and natural foods. Its influence on the broader natural foods movement was significant — many concepts now mainstream in [health](/health) food culture (whole grains, miso soup, sea vegetables, avoiding processed foods) were introduced to Western audiences partly through macrobiotic advocacy.
+The movement peaked in popularity during the 1960s-1980s, when it attracted people interested in alternative health, Eastern philosophy, and natural foods. Its influence on the broader natural foods movement was significant — many concepts now mainstream in [health](/health-law) food culture (whole grains, miso soup, sea vegetables, avoiding processed foods) were introduced to Western audiences partly through macrobiotic advocacy.
 
 ## The Yin-Yang Framework
 

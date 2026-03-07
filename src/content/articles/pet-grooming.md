@@ -4,7 +4,7 @@ slug: pet-grooming
 description: "Pet grooming is the practice of cleaning and maintaining a pet's coat, skin, nails, and overall hygiene. Learn about techniques, tools, and professional."
 category: everyday-concepts
 tags: ["grooming", "pets", "animal care", "hygiene", "bathing", "nails"]
-heroImage: "/images/articles/pet-grooming.webp"
+heroImage: "/images/articles/pet-grooming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pet grooming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pet Grooming?
 
-Pet grooming is the practice of maintaining a pet's physical [hygiene](/hygiene) and appearance through bathing, brushing, hair cutting, nail trimming, ear cleaning, and dental care. It's not just about making your pet look good — though that's a nice bonus. Regular grooming is a health practice that prevents skin infections, catches early signs of illness, removes parasites, and keeps your pet comfortable.
+Pet grooming is the practice of maintaining a pet's physical [hygiene](/hygiene) and appearance through bathing, brushing, [hair](/hair-styling) cutting, nail trimming, ear cleaning, and dental care. It's not just about making your pet look good — though that's a nice bonus. Regular grooming is a health practice that prevents skin infections, catches early signs of illness, removes parasites, and keeps your pet comfortable.
 
 ## Why It Matters
 
@@ -75,7 +75,7 @@ You don't need to outsource everything. Basic home grooming between professional
 
 **Start young.** Introduce grooming tools and handling to puppies and kittens early. Touch their paws, ears, and mouth regularly so they're comfortable being handled. Positive associations (treats during nail trims) make future grooming sessions easier for everyone.
 
-**Go slow.** If your pet is nervous, don't force a full grooming session. Trim one nail and give a treat. Brush for two minutes and stop. Build tolerance gradually. Forcing a stressed animal creates lasting negative associations.
+**Go slow.** If your pet is nervous, don't force a full grooming session. Trim one nail and give a treat. Brush for two minutes and stop. Build tolerance gradually. Forcing a stressed [animal](/animal-behavior) creates lasting negative associations.
 
 **Invest in decent tools.** Quality clippers, sharp scissors, appropriate brushes, and a sturdy nail trimmer make the job easier and safer. Dull tools pull hair, snag coat, and create discomfort.
 

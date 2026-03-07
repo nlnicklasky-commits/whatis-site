@@ -4,7 +4,7 @@ slug: theology
 description: "Theology is the systematic study of the nature of God, religious beliefs, and spiritual questions. Learn the major branches, methods, and key debates."
 category: religion
 tags: ["theology", "religion", "god", "faith", "doctrine", "ethics"]
-heroImage: "/images/articles/theology.webp"
+heroImage: "/images/articles/theology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of theology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ The study of theological themes within the Bible itself — tracing how concepts
 
 ### Historical Theology
 
-How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-[religion](/religion)) theology traces the evolution of religious thought.
+How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-logic)) theology traces the evolution of religious thought.
 
 ### Moral Theology / Theological Ethics
 

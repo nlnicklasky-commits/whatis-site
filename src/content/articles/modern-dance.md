@@ -4,7 +4,7 @@ slug: modern-dance
 description: "Modern dance is an expressive style that broke from classical ballet to explore natural movement and personal expression. Learn its history and techniques."
 category: everyday-concepts
 tags: ["modern dance", "dance", "performing arts", "choreography", "Martha Graham", "expression"]
-heroImage: "/images/articles/modern-dance.webp"
+heroImage: "/images/articles/modern-dance-hero.webp"
 heroAlt: "Editorial photograph representing the concept of modern dance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

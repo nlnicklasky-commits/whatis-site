@@ -1,7 +1,7 @@
 ---
 title: "What Is the German Language?"
 slug: german-language
-description: "German is a West Germanic language spoken by over 130 million people. Learn about its grammar, history, dialects, and why it matters globally."
+description: "German is a West Germanic language spoken by over 130 million people. Learn about its grammar, history, dialects, and why it matters globally. Discover the k..."
 category: philosophy
 tags: ["german language", "linguistics", "germanic languages", "germany", "language learning", "indo-european", "culture"]
 heroImage: "/images/articles/german-language-hero.webp"

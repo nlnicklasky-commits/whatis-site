@@ -1,10 +1,10 @@
 ---
 title: "What Is Sheep Farming?"
 slug: sheep-farming
-description: "Sheep farming raises sheep for wool, meat, and milk. Learn about breeds, husbandry, economics, and what running a flock actually involves."
+description: "Sheep farming raises sheep for wool, meat, and milk. Learn about breeds, husbandry, economics, and what running a flock actually involves. Discover the key f..."
 category: everyday-concepts
 tags: ["sheep", "farming", "agriculture", "wool", "lamb", "mutton"]
-heroImage: "/images/articles/sheep-farming.webp"
+heroImage: "/images/articles/sheep-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sheep farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

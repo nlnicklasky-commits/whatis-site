@@ -1,10 +1,10 @@
 ---
 title: "What Is Special Education?"
 slug: special-education
-description: "Special education provides tailored instruction for students with disabilities. Learn about IEPs, eligibility, services, and how the system works."
+description: "Special education provides tailored instruction for students with disabilities. Learn about IEPs, eligibility, services, and how the system works. Discover t..."
 category: education
 tags: ["special education", "IEP", "disabilities", "IDEA", "learning disabilities", "inclusion"]
-heroImage: "/images/articles/special-education.webp"
+heroImage: "/images/articles/special-education-hero.webp"
 heroAlt: "Editorial photograph representing the concept of special education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

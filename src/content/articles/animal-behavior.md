@@ -49,6 +49,7 @@ faq:
     a: "This depends on how you define intelligence. Great apes (especially chimpanzees and bonobos) excel at tool use and social reasoning. Dolphins demonstrate self-awareness and complex communication. Corvids like crows and ravens solve multi-step problems. Octopuses show remarkable problem-solving despite having a completely different brain structure. There is no single winner — different species are intelligent in different ways."
 ---
 
+# What Is Animal Behavior?
 Animal behavior is the scientific study of how animals act, respond to stimuli, interact with each other, and adapt to their environments. It draws from biology, psychology, ecology, and evolution to explain everything from a spider spinning its web to a whale singing across an ocean basin.
 
 If you have ever watched a dog tilt its head at a strange noise or wondered why birds fly in V-formations, you have already been doing informal animal behavior research. The formal version — backed by rigorous observation, experiments, and statistical analysis — has been an active scientific discipline since the early 20th century, and it keeps turning up surprises.

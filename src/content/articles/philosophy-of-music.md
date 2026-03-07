@@ -1,10 +1,10 @@
 ---
 title: "What Is Philosophy of Music?"
 slug: philosophy-of-music
-description: "Philosophy of music examines what music is, why it moves us emotionally, and what makes it meaningful. Learn about key debates and thinkers."
+description: "Philosophy of music examines what music is, why it moves us emotionally, and what makes it meaningful. Learn about key debates and thinkers. Discover the key..."
 category: everyday-concepts
 tags: ["philosophy of music", "aesthetics", "music theory", "emotion", "art", "meaning"]
-heroImage: "/images/articles/philosophy-of-music.webp"
+heroImage: "/images/articles/philosophy-of-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy of music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

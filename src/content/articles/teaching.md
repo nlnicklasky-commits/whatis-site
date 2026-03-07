@@ -4,7 +4,7 @@ slug: teaching
 description: "Teaching is the practice of facilitating learning by sharing knowledge and skills. Learn what effective teaching involves, its methods, and why it matters."
 category: everyday-concepts
 tags: ["teaching", "education", "pedagogy", "learning", "instructor", "educator"]
-heroImage: "/images/articles/teaching.webp"
+heroImage: "/images/articles/teaching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of teaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ Students work in groups to discuss, solve problems, or create products together.
 
 ### Socratic Method
 
-The teacher asks sequential questions that guide students to discover answers through their own reasoning. Named after the [Greek philosopher](/[philosophy](/philosophy)-of-[education](/education)), it's powerful for developing analytical thinking but requires skill to execute well.
+The teacher asks sequential questions that guide students to discover answers through their own reasoning. Named after the Greek philosopher-of-[education](/education)), it's powerful for developing analytical thinking but requires skill to execute well.
 
 ### Differentiated Instruction
 

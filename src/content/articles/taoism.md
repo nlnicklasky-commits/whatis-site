@@ -4,7 +4,7 @@ slug: taoism
 description: "Taoism is an ancient Chinese philosophy and religion centered on the Tao, emphasizing harmony with nature, simplicity, and wu wei (effortless action)."
 category: philosophy
 tags: ["taoism", "chinese philosophy", "tao", "wu wei", "yin and yang", "nature", "simplicity", "qi"]
-heroImage: "/images/articles/taoism.webp"
+heroImage: "/images/articles/taoism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of taoism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "The Tao Te Ching is a short text of about 5,000 Chinese characters attributed to Laozi, written around the 6th century BCE. It is the foundational text of Taoism, containing 81 brief chapters on the nature of the Tao, leadership, virtue, and living wisely."
 ---
 
+# What Is Taoism?
 Taoism (also spelled Daoism) is an ancient Chinese philosophy and religion built around the concept of the Tao — the fundamental, nameless force that flows through all things. Originating over 2,500 years ago, Taoism teaches that the best way to live is in harmony with this natural order rather than fighting against it.
 
 If you've ever heard someone say "go with the flow," they were — probably without knowing it — channeling a Taoist idea. But Taoism goes much deeper than a bumper sticker. It's a complete system for understanding reality, living ethically, and even governing societies. And frankly, the more you learn about it, the more you realize how much of it shows up in places you'd never expect.

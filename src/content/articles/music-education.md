@@ -4,7 +4,7 @@ slug: music-education
 description: "Music education is the teaching and learning of music in schools and private settings. Learn about methods, benefits, curricula, and the state of the field."
 category: arts-amp-culture
 tags: ["music education", "teaching music", "school music", "music pedagogy", "arts education", "music learning"]
-heroImage: "/images/articles/music-education.webp"
+heroImage: "/images/articles/music-education-hero.webp"
 heroAlt: "Editorial photograph representing the concept of music education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: dutch-history
 description: "Dutch history traces the Netherlands from Roman-era marshlands to global trading empire to modern constitutional monarchy. Learn about its key periods and."
 category: history
 tags: ["dutch history", "netherlands", "holland", "european history", "maritime"]
-heroImage: "/images/articles/dutch-history.webp"
+heroImage: "/images/articles/dutch-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dutch history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What is the difference between the Netherlands, Holland, and the Dutch?"
     a: "The Netherlands is the country's official name. Holland technically refers to only two of its twelve provinces — North Holland and South Holland — which contain Amsterdam, Rotterdam, and The Hague. Using 'Holland' for the whole country is like calling the United States 'New York.' 'Dutch' refers to the people, language, and culture of the Netherlands. The word comes from the old Germanic 'diutsc,' meaning 'of the people,' which is also the root of 'Deutsch' (German)."
   - q: "Why was the Dutch Golden Age so significant?"
-    a: "The Dutch Golden Age (roughly 1588-1672) was extraordinary because a small, swampy nation of about 1.5 million people became the world's dominant economic and maritime power. The Dutch East India Company was the first multinational corporation and the first to issue stock. Amsterdam became Europe's financial capital. Dutch artists — Rembrandt, Vermeer, Hals — produced masterpieces. Dutch scientists like Leeuwenhoek and Huygens made groundbreaking discoveries. Per capita income in the Netherlands was the highest in the world. Nothing quite like it had happened before."
+    a: "The Dutch Golden Age (roughly 1588-1672) was extraordinary because a small, swampy nation of about 1.5 million people became the world's dominant economic and maritime power. The Dutch East India Company was the first multinational corporation and the first to issue stock. Amsterdam became Europe's financial capital. Dutch artists — Rembrandt, Vermeer, Hals — produced masterpieces. Dutch scientists like Leeuwenhoek and Huygens made first-of-its-kind discoveries. Per capita income in the Netherlands was the highest in the world. Nothing quite like it had happened before."
   - q: "How did the Dutch build their country below sea level?"
     a: "About one-third of the Netherlands lies below sea level. The Dutch reclaimed land from the sea using a system of dikes (barriers to hold back water), windmill-powered pumps (later steam and electric pumps), and polders (reclaimed land enclosed by dikes). The Zuiderzee Works, completed between 1927 and 1968, is the largest land reclamation project in history — it turned an inland sea into a freshwater lake and created an entire new province (Flevoland). The Dutch spend about 1 billion euros annually on water management."
   - q: "Was the Dutch Empire as large as the British Empire?"

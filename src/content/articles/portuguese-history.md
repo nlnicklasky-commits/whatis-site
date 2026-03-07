@@ -4,7 +4,7 @@ slug: portuguese-history
 description: "Portuguese history spans from ancient Lusitania to a global maritime empire and modern democracy. Explore Portugal's key eras, figures, and lasting impact."
 category: history
 tags: ["portuguese history", "portugal", "age of discovery", "european history"]
-heroImage: "/images/articles/portuguese-history.webp"
+heroImage: "/images/articles/portuguese-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of portuguese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

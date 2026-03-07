@@ -4,7 +4,7 @@ slug: physical-comedy
 description: "Physical comedy uses the body to generate laughter through falls, exaggerated movement, and visual gags. Learn about slapstick, clowning, and famous performers."
 category: arts-amp-culture
 tags: ["comedy", "humor", "slapstick", "performance", "entertainment", "clowning"]
-heroImage: "/images/articles/physical-comedy.webp"
+heroImage: "/images/articles/physical-comedy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of physical comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ Physical comedy works through several psychological mechanisms:
 
 ## The Trained Body
 
-Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese [opera](/opera), which includes [martial arts](/martial-arts), acrobatics, and [dance](/dance). Rowan Atkinson (Mr. Bean) studied [electrical engineering](/electrical-[engineering](/engineering)) but had an instinctive physical control that's almost eerie to watch.
+Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese [opera](/opera), which includes [martial arts](/martial-arts), acrobatics, and [dance](/dance). Rowan Atkinson (Mr. Bean) studied [electrical engineering](/electricity)) but had an instinctive physical control that's almost eerie to watch.
 
 The skills involved include:
 

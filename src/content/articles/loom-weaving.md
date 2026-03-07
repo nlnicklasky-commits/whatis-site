@@ -4,7 +4,7 @@ slug: loom-weaving
 description: "Loom weaving is the craft of interlacing threads on a frame to create fabric. Learn about loom types, basic techniques, patterns, and getting started."
 category: everyday-concepts
 tags: ["loom weaving", "weaving", "textiles", "fiber arts", "handcraft", "fabric"]
-heroImage: "/images/articles/loom-weaving.webp"
+heroImage: "/images/articles/loom-weaving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of loom weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

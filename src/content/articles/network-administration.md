@@ -1,7 +1,7 @@
 ---
 title: "What Is Network Administration?"
 slug: network-administration
-description: "Network administration is the management of computer networks — keeping systems connected, secure, and running. Here's what the job involves."
+description: "Network administration is the management of computer networks — keeping systems connected, secure, and running. Here's what the job involves. Discover the ke..."
 category: technology
 tags: ["network administration", "it", "networking", "cybersecurity", "system administration", "network security"]
 heroImage: "/images/articles/network-administration-hero.webp"

@@ -4,7 +4,7 @@ slug: literary-criticism
 description: "Literary criticism is the study, analysis, and evaluation of literature. Learn about major schools of thought, methods, and why it matters for readers."
 category: arts-amp-culture
 tags: ["literary criticism", "literature", "literary analysis", "criticism", "English", "humanities"]
-heroImage: "/images/articles/literary-criticism.webp"
+heroImage: "/images/articles/literary-criticism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of literary criticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: dressage
 description: "Dressage is an equestrian discipline where horse and rider perform precise movements in harmony. Learn about its history, scoring, levels, and training."
 category: everyday-concepts
 tags: ["dressage", "everyday-concepts"]
-heroImage: "/images/articles/dressage.webp"
+heroImage: "/images/articles/dressage-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dressage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -65,7 +65,7 @@ Subjectivity is inherent, and it generates controversy. Scores from different ju
 
 ## The Horse-Rider Partnership
 
-Dressage is unusual among sports because it involves two athletes from different species who must cooperate perfectly. The horse weighs roughly 1,200 pounds and possesses its own opinions, moods, physical limitations, and temperament. The rider weighs perhaps 150 pounds and must guide this much larger creature through precise movements using signals so subtle they're invisible.
+Dressage is unusual among [sports](/sports-psychology) because it involves two athletes from different species who must cooperate perfectly. The horse weighs roughly 1,200 pounds and possesses its own opinions, moods, physical limitations, and temperament. The rider weighs perhaps 150 pounds and must guide this much larger creature through precise movements using signals so subtle they're invisible.
 
 The best dressage partnerships develop over years. British rider Charlotte Dujardin and her horse Valegro won Olympic gold in 2012 and 2016 and set world record scores that may stand for decades. Their performances were characterized by something beyond technical perfection — a visible joy and harmony that brought audiences (even those who knew nothing about dressage) to tears.
 

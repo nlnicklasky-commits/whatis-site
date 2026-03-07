@@ -4,7 +4,7 @@ slug: natural-medicine
 description: "Natural medicine uses plants, nutrition, and lifestyle changes to support health. Learn about herbal remedies, evidence, risks, and how it fits with modern."
 category: health-amp-wellness
 tags: ["natural medicine", "naturopathy", "alternative medicine", "herbal medicine"]
-heroImage: "/images/articles/natural-medicine.webp"
+heroImage: "/images/articles/natural-medicine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of natural medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

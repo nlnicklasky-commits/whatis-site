@@ -4,7 +4,7 @@ slug: computing-history
 description: "Computing history traces the evolution of calculating machines from ancient abacuses to modern supercomputers, covering the key inventions and people who."
 category: history
 tags: ["computers", "technology history", "digital age", "invention", "information technology"]
-heroImage: "/images/articles/computing-history.webp"
+heroImage: "/images/articles/computing-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of computing history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

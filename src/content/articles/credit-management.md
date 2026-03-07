@@ -1,7 +1,7 @@
 ---
 title: "What Is Credit Management?"
 slug: credit-management
-description: "Credit management controls how businesses and individuals handle credit risk, debt, and collections. Learn the principles that keep finances healthy."
+description: "Credit management controls how businesses and individuals handle credit risk, debt, and collections. Learn the principles that keep finances healthy. Discove..."
 category: finance
 tags: ["credit management", "finance", "debt", "credit", "accounts receivable", "collections", "financial health"]
 heroImage: "/images/articles/credit-management-hero.webp"
@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 11
-wordCount: 2929
+wordCount: 2605
 tier: "2"
 relatedArticles: ["corporate-finance", "contract-law", "accounting", "currency-trading"]
 externalSources:

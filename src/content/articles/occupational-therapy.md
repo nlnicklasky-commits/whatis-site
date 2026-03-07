@@ -1,10 +1,10 @@
 ---
 title: "What Is Occupational Therapy?"
 slug: occupational-therapy
-description: "Occupational therapy helps people perform daily activities after injury, illness, or disability. Learn about OT methods, settings, and who benefits."
+description: "Occupational therapy helps people perform daily activities after injury, illness, or disability. Learn about OT methods, settings, and who benefits. Discover..."
 category: health-amp-wellness
 tags: ["occupational therapy", "rehabilitation", "healthcare", "therapy"]
-heroImage: "/images/articles/occupational-therapy.webp"
+heroImage: "/images/articles/occupational-therapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of occupational therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -128,7 +128,7 @@ For children with autism, sensory integration therapy — an OT-driven approach 
 
 ## Why OT Gets Overlooked
 
-Frankly, occupational therapy has a visibility problem. Most people know what a doctor does, what a nurse does, what a physical therapist does. But occupational therapy? The name itself is confusing, and the profession's scope is so broad that it's hard to summarize in a sentence.
+Frankly, occupational therapy has a visibility problem. Most people know what a doctor does, what a nurse does, what a physical therapist does. But occupational therapy? The name itself is confusing, and the profession's scope is so broad that it's hard in short in a sentence.
 
 That's a shame, because OT addresses something fundamental — your ability to live your life on your own terms. When a 78-year-old woman can stay in her home after a hip fracture because an OT taught her safe bathtub transfers and recommended a raised toilet seat, that's a massive win for her quality of life (and a significant cost savings for the healthcare system). When a child with sensory processing difficulties goes from melting down at every school assembly to participating comfortably, that changes a trajectory.
 

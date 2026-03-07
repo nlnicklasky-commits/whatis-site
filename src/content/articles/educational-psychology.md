@@ -1,7 +1,7 @@
 ---
 title: "What Is Educational Psychology?"
 slug: educational-psychology
-description: "Educational psychology studies how people learn, applying psychological science to improve teaching methods, curriculum design, and student outcomes."
+description: "Educational psychology studies how people learn, applying psychological science to improve teaching methods, curriculum design, and student outcomes. Discove..."
 category: psychology
 tags: ["educational psychology", "learning", "psychology", "education", "teaching", "cognitive development", "motivation"]
 heroImage: "/images/articles/educational-psychology-hero.webp"
@@ -212,6 +212,6 @@ If you're a student (or anyone learning something new), here's what the research
 3. **Interleave** different topics or problem types. Don't practice the same thing 20 times before moving on.
 4. **Elaborate.** Ask yourself why and how. Connect new material to things you already know. Teach the material to someone else (or pretend to).
 5. **Use concrete examples.** Abstract concepts become memorable when connected to specific, vivid examples.
-6. **Get enough sleep.** Memory consolidation happens during sleep. Pulling an all-nighter before an exam is [neurologically](/cognitive-[neuroscience](/neuroscience)) counterproductive—you're studying during the time your brain needs to process what you've already studied.
+6. **Get enough sleep.** Memory consolidation happens during sleep. Pulling an all-nighter before an exam is [neurologically](/cognitive-bias)) counterproductive—you're studying during the time your brain needs to process what you've already studied.
 
 These strategies feel harder than rereading and highlighting—because they are. But that difficulty is the point. Effective learning isn't supposed to feel effortless. The struggle is where the learning happens.

@@ -4,7 +4,7 @@ slug: set-theory
 description: "Set theory is the mathematical study of collections of objects. Learn about sets, operations, infinity, and why set theory underlies all of mathematics."
 category: everyday-concepts
 tags: ["set theory", "mathematics", "logic", "infinity", "Georg Cantor", "foundations"]
-heroImage: "/images/articles/set-theory.webp"
+heroImage: "/images/articles/set-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of set theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

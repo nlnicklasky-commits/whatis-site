@@ -4,7 +4,7 @@ slug: toy-making
 description: "Toy making is the craft and industry of designing and producing playthings. Learn the history, materials, safety standards, and how modern toys are created."
 category: everyday-concepts
 tags: ["toy making", "toys", "design", "manufacturing", "children", "crafts"]
-heroImage: "/images/articles/toy-making.webp"
+heroImage: "/images/articles/toy-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of toy making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

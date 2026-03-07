@@ -1,10 +1,10 @@
 ---
 title: "What Is Puppetry?"
 slug: puppetry
-description: "Puppetry is the art of bringing inanimate figures to life through manipulation and performance. Learn the types, history, and techniques."
+description: "Puppetry is the art of bringing inanimate figures to life through manipulation and performance. Learn the types, history, and techniques. Discover the key fa..."
 category: arts-amp-culture
 tags: ["puppetry", "puppets", "puppeteer", "marionette", "hand puppet", "shadow puppetry"]
-heroImage: "/images/articles/puppetry.webp"
+heroImage: "/images/articles/puppetry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of puppetry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

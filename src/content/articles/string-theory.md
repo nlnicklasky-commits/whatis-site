@@ -4,7 +4,7 @@ slug: string-theory
 description: "String theory proposes that the universe's fundamental building blocks are tiny vibrating strings. Learn the basics, why physicists care, and the big debates."
 category: everyday-concepts
 tags: ["string theory", "physics", "theoretical physics", "quantum mechanics", "dimensions", "particle physics"]
-heroImage: "/images/articles/string-theory.webp"
+heroImage: "/images/articles/string-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of string theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

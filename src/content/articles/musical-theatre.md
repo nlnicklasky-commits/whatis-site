@@ -4,7 +4,7 @@ slug: musical-theatre
 description: "Musical theatre combines singing, dialogue, acting, and dance to tell stories on stage. Learn about its history, major shows, and how productions come together."
 category: arts-amp-culture
 tags: ["musical theatre", "Broadway", "musicals", "performing arts", "theatre", "stage performance"]
-heroImage: "/images/articles/musical-theatre.webp"
+heroImage: "/images/articles/musical-theatre-hero.webp"
 heroAlt: "Editorial photograph representing the concept of musical theatre"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: jewelry-making
 description: "Jewelry making is the craft of creating wearable ornaments from metals, gems, and other materials. Learn about techniques, tools, and getting started."
 category: arts-amp-culture
 tags: ["jewelry making", "metalsmithing", "gemstones", "crafts", "silversmithing"]
-heroImage: "/images/articles/jewelry-making.webp"
+heroImage: "/images/articles/jewelry-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jewelry making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ Jewelry making is the craft of designing and constructing wearable ornaments —
 
 **Wire wrapping** uses wire (typically sterling silver, copper, or gold-filled) bent and wrapped around stones and beads to create settings and structures without [soldering](/soldering). It is the most accessible entry point for beginners — you need only pliers, wire, and stones.
 
-**Beading** involves stringing beads on wire, cord, or thread. Seed bead [weaving](/weaving) creates intricate patterns. Bead stringing with crimps and clasps makes finished necklaces and bracelets. Low barrier to entry, high creative potential.
+**Beading** involves stringing beads on wire, cord, or thread. Seed bead [weaving](/weaving) creates involved patterns. Bead stringing with crimps and clasps makes finished necklaces and bracelets. Low barrier to entry, high creative potential.
 
 **Stone setting** is the specialized skill of securing gemstones in metal settings. Prong settings, bezel settings (a metal rim around the stone), channel settings, and pave settings each require different techniques and tools. Precise stone setting is one of the most difficult jewelry skills to master.
 

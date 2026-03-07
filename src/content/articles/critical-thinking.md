@@ -4,7 +4,7 @@ slug: critical-thinking
 description: "Critical thinking is the disciplined process of analyzing information and reasoning clearly. Learn about key skills, common fallacies, and how to improve."
 category: everyday-concepts
 tags: ["critical thinking", "logic", "reasoning", "problem solving", "decision making", "analysis"]
-heroImage: "/images/articles/critical-thinking.webp"
+heroImage: "/images/articles/critical-thinking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of critical thinking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

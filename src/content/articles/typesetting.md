@@ -1,10 +1,10 @@
 ---
 title: "What Is Typesetting?"
 slug: typesetting
-description: "Typesetting is the process of arranging text for printing or display. Learn about its history from movable type to digital layout tools."
+description: "Typesetting is the process of arranging text for printing or display. Learn about its history from movable type to digital layout tools. Discover the key fac..."
 category: arts-amp-culture
 tags: ["typesetting", "printing", "typography", "publishing", "graphic design", "layout"]
-heroImage: "/images/articles/typesetting.webp"
+heroImage: "/images/articles/typesetting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of typesetting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Typesetting is the process of arranging text — letter by letter, line by line,
 
 ## Gutenberg Changed Everything (But He Didn't Invent It)
 
-Johannes Gutenberg gets credit for inventing movable type in Europe around 1440, and that credit is deserved. His system of individual cast metal letters that could be arranged, printed, disassembled, and rearranged made mass printing economically viable for the first time in [European history](/european-history).
+Johannes Gutenberg gets credit for inventing movable [type](/type-design) in Europe around 1440, and that credit is deserved. His system of individual cast metal letters that could be arranged, printed, disassembled, and rearranged made mass printing economically viable for the first time in [European history](/european-history).
 
 But — and this matters — Bi Sheng in China had already created movable type from fired clay around 1040 CE, roughly 400 years earlier. Korea developed metal movable type in the 13th century. Gutenberg's contribution wasn't the concept but the complete system: durable metal alloy type, oil-based ink, and a screw press adapted from wine presses. Together, these made printing fast, consistent, and scalable.
 
@@ -73,7 +73,7 @@ In 1985, three things converged: the Apple Macintosh computer, Adobe PostScript 
 
 The transition was brutal for traditional typesetters. Skills honed over decades became obsolete in a few years. Print shops that had invested heavily in phototypesetting equipment saw that investment evaporate.
 
-But the democratization was real. By the early 1990s, anyone could set type. Whether they could set it *well* was another question. The early years of desktop publishing produced a flood of badly typeset documents — randomly mixed typefaces, inappropriate fonts, amateur spacing. Professional typesetters cringed.
+But the democratization was real. By the early 1990s, anyone could set type. Whether they could set it *well* was another question. The early years of desktop [publishing](/publishing) produced a flood of badly typeset documents — randomly mixed typefaces, inappropriate fonts, amateur spacing. Professional typesetters cringed.
 
 ## What Good Typesetting Actually Looks Like
 

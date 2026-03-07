@@ -4,7 +4,7 @@ slug: urban-planning
 description: "Urban planning is the process of managing city growth through land use, zoning, and infrastructure decisions. Learn about methods, history, and zoning types."
 category: technology
 tags: ["urban planning", "city planning", "zoning", "land use", "infrastructure", "transportation"]
-heroImage: "/images/articles/urban-planning.webp"
+heroImage: "/images/articles/urban-planning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urban planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,9 +24,9 @@ externalSources:
     url: "https://www.nlc.org/"
 faq:
   - q: "What is zoning and why does it exist?"
-    a: "Zoning divides a city into districts with specific rules about what can be built and how land can be used — residential, commercial, industrial, mixed-use, etc. It originated in the early 1900s to separate incompatible uses (keeping factories away from homes) and protect property values. The first comprehensive zoning law was New York City's 1916 Zoning Resolution. Today, zoning also controls building height, density, setbacks, parking requirements, and floor area ratios. Critics argue that overly restrictive zoning contributes to housing shortages and segregation."
+    a: "Zoning divides a city into districts with specific rules about what can be built and how land can be used — residential, commercial, industrial, mixed-use, etc. It originated in the early 1900s to separate incompatible uses (keeping factories away from homes) and protect property values. The first complete zoning law was New York City's 1916 Zoning Resolution. Today, zoning also controls building height, density, setbacks, parking requirements, and floor area ratios. Critics argue that overly restrictive zoning contributes to housing shortages and segregation."
   - q: "How do comprehensive plans work?"
-    a: "A comprehensive plan (also called a general plan or master plan) is a long-range document that outlines a community's vision for future growth and development, typically covering 10-20 years. It addresses land use, transportation, housing, parks, utilities, economic development, and environmental protection. In most U.S. states, zoning must be consistent with the comprehensive plan. The plan is developed through public input processes and adopted by the local governing body, though it is generally a policy guide rather than a legally binding regulation."
+    a: "A detailed plan (also called a general plan or master plan) is a long-range document that outlines a community's vision for future growth and development, typically covering 10-20 years. It addresses land use, transportation, housing, parks, utilities, economic development, and environmental protection. In most U.S. states, zoning must be consistent with the complete plan. The plan is developed through public input processes and adopted by the local governing body, though it is generally a policy guide rather than a legally binding regulation."
   - q: "What is the difference between urban planning and civil engineering?"
     a: "Urban planning determines what should be built and where — setting policies for land use, transportation networks, housing, and growth management. Civil engineering determines how to build it — designing the roads, bridges, water systems, and buildings that implement the plan. Planners work with policy, community engagement, and spatial analysis. Engineers work with structural calculations, materials, and construction methods. Both professions collaborate closely on major projects."
   - q: "Can urban planning reduce inequality?"

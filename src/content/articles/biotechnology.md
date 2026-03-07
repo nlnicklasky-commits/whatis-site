@@ -1,7 +1,7 @@
 ---
 title: "What Is Biotechnology?"
 slug: biotechnology
-description: "Biotechnology uses living organisms and biological systems to develop products and technologies across medicine, agriculture, and industry."
+description: "Biotechnology uses living organisms and biological systems to develop products and technologies across medicine, agriculture, and industry. Discover the key ..."
 category: technology
 tags: ["biotechnology", "genetic engineering", "molecular biology", "pharmaceuticals", "agriculture", "bioremediation", "gene therapy"]
 heroImage: "/images/articles/biotechnology-hero.webp"
@@ -186,7 +186,7 @@ Drug development is brutally expensive. It takes an average of 10-15 years and $
 
 Biotech startups typically follow a distinct pattern: academic researchers discover something promising, form a company, raise venture capital, run clinical trials, and either get acquired by a larger pharmaceutical company or (rarely) bring the product to market independently. About 90% of biotech startups fail.
 
-The industry also depends heavily on intellectual property. Patents on genes, proteins, and processes are fiercely contested. The 2013 Supreme Court case Association for Molecular Pathology v. Myriad Genetics ruled that naturally occurring DNA sequences cannot be patented, but synthetic DNA (cDNA) can — a decision that reshaped the entire industry.
+The industry also depends heavily on intellectual property. Patents on genes, proteins, and processes are fiercely contested. The 2013 Supreme Court case Association for Molecular Pathology v. Many Genetics ruled that naturally occurring DNA sequences cannot be patented, but synthetic DNA (cDNA) can — a decision that reshaped the entire industry.
 
 ## Emerging Frontiers
 

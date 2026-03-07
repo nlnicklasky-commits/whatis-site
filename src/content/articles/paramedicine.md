@@ -1,10 +1,10 @@
 ---
 title: "What Is Paramedicine?"
 slug: paramedicine
-description: "Paramedicine is the field of emergency pre-hospital medical care. Learn what paramedics do, how they train, and how EMS systems work."
+description: "Paramedicine is the field of emergency pre-hospital medical care. Learn what paramedics do, how they train, and how EMS systems work. Discover the key facts,..."
 category: health-amp-wellness
 tags: ["paramedicine", "paramedic", "ems", "emergency medicine"]
-heroImage: "/images/articles/paramedicine.webp"
+heroImage: "/images/articles/paramedicine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paramedicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Human Resources?"
 slug: human-resources
-description: "Human resources (HR) manages hiring, employee relations, benefits, and compliance in organizations. Learn what HR does and why it matters."
+description: "Human resources (HR) manages hiring, employee relations, benefits, and compliance in organizations. Learn what HR does and why it matters. Discover the key f..."
 category: everyday-concepts
 tags: ["human resources", "hr", "employment", "recruitment", "talent management", "workplace"]
-heroImage: "/images/articles/human-resources.webp"
+heroImage: "/images/articles/human-resources-hero.webp"
 heroAlt: "Editorial photograph representing the concept of human resources"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

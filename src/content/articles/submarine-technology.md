@@ -4,7 +4,7 @@ slug: submarine-technology
 description: "Submarine technology is the engineering of vessels that operate underwater, using pressure hulls, ballast systems, and propulsion to explore and defend the."
 category: technology
 tags: ["engineering", "submarine technology", "naval engineering", "military technology", "underwater exploration"]
-heroImage: "/images/articles/submarine-technology.webp"
+heroImage: "/images/articles/submarine-technology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of submarine technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Cylindrical shapes distribute water pressure evenly across the hull. A sphere would be ideal for pressure resistance, but cylinders offer a practical compromise between pressure resistance and usable interior space."
 ---
 
+# What Is Submarine Technology?
 Submarine technology is the branch of [engineering](/engineering) concerned with designing, building, and operating vessels capable of independent operation beneath the water's surface. It encompasses pressure hull design, propulsion systems, life support, [navigation](/navigation), and stealth — all working together to let humans survive and work in one of the most hostile environments on Earth.
 
 The ocean is not a friendly place for machines, let alone people. At just 10 meters of depth, pressure doubles compared to the surface. At 300 meters — a typical operating depth for a military sub — every square centimeter of hull endures 31 kilograms of force. And that's not even deep by ocean standards. Building a vessel that withstands this kind of punishment while keeping a crew alive, comfortable, and combat-ready is one of engineering's great achievements.

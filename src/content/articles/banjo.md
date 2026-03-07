@@ -4,7 +4,7 @@ slug: banjo
 description: "The banjo is a stringed instrument with a thin membrane stretched over a circular frame, known for its bright, twangy sound in bluegrass and folk music."
 category: everyday-concepts
 tags: ["banjo", "musical instrument", "bluegrass", "folk music", "string instrument", "country music"]
-heroImage: "/images/articles/banjo.webp"
+heroImage: "/images/articles/banjo-hero.webp"
 heroAlt: "Editorial photograph representing the concept of banjo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.britannica.com/art/banjo"
 faq:
   - q: "How many strings does a banjo have?"
-    a: "The most common banjo has five strings. The fifth string is shorter, attached at the fifth fret, and serves as a drone — it rings continuously at the same pitch rather than being fretted. Four-string banjos (tenor and plectrum) are used in jazz and Irish music. Six-string banjos, tuned like guitars, also exist for guitarists wanting a banjo sound."
+    a: "The most common banjo has five strings. The fifth string is shorter, attached at the fifth fret, and is a drone — it rings continuously at the same pitch rather than being fretted. Four-string banjos (tenor and plectrum) are used in jazz and Irish music. Six-string banjos, tuned like guitars, also exist for guitarists wanting a banjo sound."
   - q: "Is banjo hard to learn?"
     a: "The banjo is considered moderately difficult. Basic clawhammer strumming can be learned relatively quickly (weeks to months), making it accessible to beginners. Three-finger Scruggs-style picking is more technically demanding and typically takes 6-12 months to play at a basic level. The five-string tuning (open G) makes simple chords easier than on guitar."
   - q: "What is the difference between clawhammer and Scruggs style?"

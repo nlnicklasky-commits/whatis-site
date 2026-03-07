@@ -4,7 +4,7 @@ slug: elementology
 description: "Elementology is the study of chemical elements, their properties, and their roles in nature. Learn about the periodic table, key elements, and discoveries."
 category: everyday-concepts
 tags: ["elementology", "everyday-concepts"]
-heroImage: "/images/articles/elementology.webp"
+heroImage: "/images/articles/elementology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of elementology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

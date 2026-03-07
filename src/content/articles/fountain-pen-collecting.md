@@ -4,7 +4,7 @@ slug: fountain-pen-collecting
 description: "Fountain pen collecting is the hobby of acquiring, using, and preserving fine writing instruments. Learn about pen types, brands, inks, and getting started."
 category: arts-amp-culture
 tags: ["collecting", "hobby", "writing instruments", "pens", "antiques", "craftsmanship"]
-heroImage: "/images/articles/fountain-pen-collecting.webp"
+heroImage: "/images/articles/fountain-pen-collecting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fountain pen collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

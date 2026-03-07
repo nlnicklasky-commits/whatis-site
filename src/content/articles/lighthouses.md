@@ -1,10 +1,10 @@
 ---
 title: "What Is Lighthouses?"
 slug: lighthouses
-description: "Lighthouses are tower structures built on coastlines or offshore to project light signals that guide ships and warn sailors of hazards."
+description: "Lighthouses are tower structures built on coastlines or offshore to project light signals that guide ships and warn sailors of hazards. Discover the key fact..."
 category: history
 tags: ["maritime history", "lighthouses", "navigation", "architecture", "coastal safety"]
-heroImage: "/images/articles/lighthouses.webp"
+heroImage: "/images/articles/lighthouses-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lighthouses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Invented by French physicist Augustin-Jean Fresnel in 1822, the Fresnel lens uses a series of concentric rings of glass prisms to capture and focus light into a powerful beam. It was revolutionary because it could project light visible over 20 miles while using far less fuel than previous mirror-based systems. Many historic lighthouses still contain original Fresnel lenses."
 ---
 
+# What Is Lighthouses?
 A lighthouse is a tower or structure — usually located on a coastline, rocky outcrop, or offshore shoal — designed to emit light (and sometimes sound) to guide ships and warn mariners of dangerous waters. For centuries, lighthouses were the difference between safe passage and shipwreck, between cargo delivered and lives lost.
 
 They're also some of the most iconic structures humans have ever built. There's a reason lighthouses appear on everything from postage stamps to tattoos. Something about a solitary tower standing against the ocean, projecting light into darkness, resonates with people on a level that goes beyond mere [navigation](/navigation).
@@ -83,7 +84,7 @@ The work was relentless. Oil lamps needed constant attention: wicks trimmed, fue
 
 Ida Lewis became America's most famous lighthouse keeper after rescuing at least 18 people from drowning off Lime Rock Light in Newport, Rhode Island, between the 1850s and 1900s. She was celebrated nationally — even visiting President Ulysses S. Grant came to see her. Her story illustrates both the heroism and the everyday reality of lighthouse keeping.
 
-The job had a psychological cost. Isolation, monotony, and the constant responsibility for other people's safety took a toll. Accounts of keepers struggling with loneliness, [mental health](/mental-health) issues, and the strain on family relationships are common in lighthouse [history](/history). The cliche of the solitary lighthouse keeper exists for a reason.
+The job had a psychological cost. Isolation, monotony, and the constant responsibility for other people's safety took a toll. Accounts of keepers struggling with loneliness, [mental health](/mental-health) issues, and the strain on family relationships are common in lighthouse [history](/histology). The cliche of the solitary lighthouse keeper exists for a reason.
 
 ## Fog Signals and Day Marks
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Unemployment Economics?"
 slug: unemployment-economics
-description: "Unemployment economics studies why people who want jobs can't find them. Learn about types, measurement, causes, and policy responses to joblessness."
+description: "Unemployment economics studies why people who want jobs can't find them. Learn about types, measurement, causes, and policy responses to joblessness. Discove..."
 category: finance
 tags: ["unemployment economics", "economics", "labor", "macroeconomics", "employment"]
-heroImage: "/images/articles/unemployment-economics.webp"
+heroImage: "/images/articles/unemployment-economics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of unemployment economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: web-development
 description: "Web development is the building and maintenance of websites, covering frontend, backend, and full-stack programming with languages like HTML, CSS, and."
 category: technology
 tags: ["web development", "programming", "html", "javascript"]
-heroImage: "/images/articles/web-development.webp"
+heroImage: "/images/articles/web-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of web development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

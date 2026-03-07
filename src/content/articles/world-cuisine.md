@@ -4,7 +4,7 @@ slug: world-cuisine
 description: "World cuisine encompasses the diverse food traditions of cultures globally. Learn about major culinary traditions, key ingredients, cooking techniques, and."
 category: lifestyle
 tags: ["world cuisine", "food", "cooking", "culinary traditions", "international food", "gastronomy"]
-heroImage: "/images/articles/world-cuisine.webp"
+heroImage: "/images/articles/world-cuisine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of world cuisine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

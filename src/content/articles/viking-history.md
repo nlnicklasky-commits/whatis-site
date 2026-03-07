@@ -4,7 +4,7 @@ slug: viking-history
 description: "Viking history covers the Norse seafarers who raided, traded, and settled across Europe from 793 to 1066 CE. Learn about their culture, voyages, and legacy."
 category: history
 tags: ["viking history", "norse", "scandinavia", "medieval history"]
-heroImage: "/images/articles/viking-history.webp"
+heroImage: "/images/articles/viking-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of viking history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

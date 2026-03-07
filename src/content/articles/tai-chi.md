@@ -4,7 +4,7 @@ slug: tai-chi
 description: "Tai chi is a Chinese martial art practiced with slow, flowing movements for health and meditation. Learn the styles, benefits, and how to get started."
 category: everyday-concepts
 tags: ["tai chi", "martial arts", "meditation", "exercise", "Chinese culture", "wellness"]
-heroImage: "/images/articles/tai-chi.webp"
+heroImage: "/images/articles/tai-chi-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tai chi"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Tai chi has more scientific research backing its health benefits than almost any
 
 **[Mental health](/mental-health)** — Research supports benefits for depression, anxiety, and stress reduction. A 2020 systematic review found tai chi significantly reduced depressive symptoms.
 
-**Balance and mobility** — Consistent improvements in balance, gait speed, and functional mobility, particularly in [older adults](/exercise-[physiology](/physiology)).
+**Balance and mobility** — Consistent improvements in balance, gait speed, and functional mobility, particularly in [older adults](/exercise-physiology)).
 
 **Cognitive function** — Emerging evidence suggests tai chi may improve memory, executive function, and processing speed.
 

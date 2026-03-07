@@ -4,7 +4,7 @@ slug: shooting-sports
 description: "Shooting sports are competitive and recreational activities involving firearms or air guns for target accuracy. Learn about disciplines, safety, and history."
 category: sports
 tags: ["shooting sports", "target shooting", "archery", "firearms", "precision", "accuracy"]
-heroImage: "/images/articles/shooting-sports.webp"
+heroImage: "/images/articles/shooting-sports-hero.webp"
 heroAlt: "Editorial photograph representing the concept of shooting sports"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: What Is Digital Marketing?
 slug: digital-marketing
-description: "Digital marketing promotes products and services through online channels. Learn about SEO, social media, email, paid ads, and measuring what works."
+description: "Digital marketing promotes products and services through online channels. Learn about SEO, social media, email, paid ads, and measuring what works. Discover ..."
 category: technology
 tags: ["digital marketing", "marketing", "seo", "social media", "advertising", "content marketing", "analytics"]
 heroImage: "/images/articles/digital-marketing-hero.webp"
@@ -32,7 +32,7 @@ faq:
   - q: "Do I need a big team to do digital marketing?"
     a: "No. Many successful small businesses handle digital marketing with one or two people, often using automation tools. A solo marketer can manage a website, write content, run social media accounts, send email campaigns, and manage basic paid ads. As you scale, specialization becomes valuable—dedicated SEO analysts, content writers, paid media managers, and data analysts. But starting small and focused beats waiting until you can afford a large team."
   - q: "Is social media marketing still effective?"
-    a: "Yes, but it's changed significantly. Organic reach on most platforms has declined dramatically—Facebook pages might reach only 2-5% of their followers organically. Effective social media marketing now requires either paid amplification, highly engaging content that drives shares, or community-building approaches that foster direct interaction. The platforms still work, but the playbook from 2015 definitely doesn't."
+    a: "Yes, but it's changed significantly. Organic reach on most platforms has declined dramatically—Facebook pages might reach only 2-5% of their followers organically. Effective social media marketing now requires either paid amplification, highly engaging content that drives shares, or community-building approaches that promote direct interaction. The platforms still work, but the playbook from 2015 definitely doesn't."
 ---
 
 # What Is Digital [Marketing](/marketing)?

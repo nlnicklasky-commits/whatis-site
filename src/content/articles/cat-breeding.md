@@ -1,10 +1,10 @@
 ---
 title: "What Is Cat Breeding?"
 slug: cat-breeding
-description: "Cat breeding is the intentional mating of pedigreed cats to produce kittens that conform to specific breed standards for appearance and temperament."
+description: "Cat breeding is the intentional mating of pedigreed cats to produce kittens that conform to specific breed standards for appearance and temperament. Discover..."
 category: everyday-concepts
 tags: ["cat breeding", "cats", "pedigree cats", "animal husbandry", "pets", "feline genetics"]
-heroImage: "/images/articles/cat-breeding.webp"
+heroImage: "/images/articles/cat-breeding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cat breeding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Shipbuilding?"
 slug: shipbuilding
-description: "Shipbuilding is the design and construction of ships and marine vessels, from ancient wooden craft to modern steel cargo ships and naval warships."
+description: "Shipbuilding is the design and construction of ships and marine vessels, from ancient wooden craft to modern steel cargo ships and naval warships. Discover t..."
 category: technology
 tags: ["shipbuilding", "naval architecture", "maritime", "construction", "engineering", "vessels", "marine"]
 heroImage: "/images/articles/shipbuilding-hero.webp"
@@ -59,7 +59,7 @@ The transition from wood to iron and then steel happened remarkably quickly. The
 
 ## How Modern Ships Are Designed
 
-Modern ship design — [naval architecture](/naval-[architecture](/architecture)) — combines [hydrodynamics](/hydrodynamics), [structural engineering](/structural-engineering), [materials science](/materials-science), and systems integration into one of the most complex engineering disciplines practiced today.
+Modern ship design — [naval architecture](/naval-history)) — combines [hydrodynamics](/hydrodynamics), [structural engineering](/structural-engineering), [materials science](/materials-science), and systems integration into one of the most complex engineering disciplines practiced today.
 
 ### Hull Form Design
 

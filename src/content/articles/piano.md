@@ -4,7 +4,7 @@ slug: piano
 description: "The piano is a keyboard instrument that produces sound by striking strings with hammers. Learn about its history, mechanics, types, and cultural significance."
 category: everyday-concepts
 tags: ["piano", "music", "instrument", "keyboard", "classical music", "performance"]
-heroImage: "/images/articles/piano.webp"
+heroImage: "/images/articles/piano-hero.webp"
 heroAlt: "Editorial photograph representing the concept of piano"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ The piano is a keyboard instrument in which pressing a key causes a felt-covered
 
 ## How It Works
 
-The piano's mechanism — called the action — is an intricate assembly of levers, [springs](/springs), and felts that converts finger pressure into musical sound. Here's the simplified version:
+The piano's mechanism — called the action — is an detailed assembly of levers, [springs](/springs), and felts that converts finger pressure into musical sound. Here's the simplified version:
 
 You press a key. The key pivots, lifting a mechanism that launches a felt-covered hammer toward the strings. The hammer strikes the strings and immediately rebounds (so it doesn't dampen the vibration). The strings vibrate at specific frequencies determined by their length, thickness, and tension. These vibrations transfer through a bridge to the soundboard — a large, thin wooden panel — which amplifies the sound by moving a much larger volume of air.
 
@@ -55,7 +55,7 @@ By 1900, the piano was the centerpiece of middle-class domestic life in Europe a
 
 ## Types of Piano
 
-**Grand piano.** The full-sized horizontal piano, with strings extending away from the player. Concert grands (8-9 feet) produce the most powerful and nuanced sound. Baby grands (4.5-5.5 feet) fit in homes while preserving some of the grand's tonal advantages. The grand piano's horizontal design allows gravity to assist the hammer's return, enabling faster repetition of notes.
+**Grand piano.** The full-sized horizontal piano, with strings extending away from the player. Concert grands (8-9 feet) produce the most powerful and layered sound. Baby grands (4.5-5.5 feet) fit in homes while preserving some of the grand's tonal advantages. The grand piano's horizontal design allows gravity to assist the hammer's return, enabling faster repetition of notes.
 
 **Upright piano.** The strings run vertically, making the instrument much more compact. Uprights range from spinets (36-40 inches tall) to full-sized uprights (48-60 inches). They sacrifice some volume and tonal richness compared to grands but fit in apartments and small rooms. Most pianos in homes, schools, and practice rooms are uprights.
 

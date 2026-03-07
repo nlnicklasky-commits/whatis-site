@@ -1,10 +1,10 @@
 ---
 title: "What Is Media History?"
 slug: media-history
-description: "Media history traces how communication technologies evolved from printing presses and telegraphs to radio, TV, the internet, and social media."
+description: "Media history traces how communication technologies evolved from printing presses and telegraphs to radio, TV, the internet, and social media. Discover the k..."
 category: history
 tags: ["media", "journalism", "broadcasting"]
-heroImage: "/images/articles/media-history.webp"
+heroImage: "/images/articles/media-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of media history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -77,7 +77,7 @@ The Associated Press was founded in 1846 specifically to share the cost of teleg
 
 ### Radio — Voice in the Air
 
-[Radio broadcasting](/radio-[broadcasting](/broadcasting)) began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
+[Radio broadcasting](/radiology)) began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
 
 Radio was the first truly intimate electronic medium. It entered your living room — or your bedroom, or your car. Franklin Roosevelt's "fireside chats" (beginning in 1933) demonstrated radio's political power: the president speaking directly to citizens, bypassing newspapers and political intermediaries. Roosevelt's calm, conversational tone was perfectly suited to the medium.
 

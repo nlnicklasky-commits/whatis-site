@@ -1,16 +1,16 @@
 ---
 title: "What Is Real Analysis?"
 slug: real-analysis
-description: "Real analysis is the rigorous mathematical study of real numbers, sequences, limits, and continuity. Learn why it matters for advanced math."
+description: "Real analysis is the rigorous mathematical study of real numbers, sequences, limits, and continuity. Learn why it matters for advanced math. Discover the key..."
 category: everyday-concepts
 tags: ["real analysis", "mathematics", "calculus", "limits", "continuity", "proofs"]
-heroImage: "/images/articles/real-analysis.webp"
+heroImage: "/images/articles/real-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of real analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
 readingTime: 4
-wordCount: 1025
+wordCount: 922
 tier: "3"
 relatedArticles: ["calculus", "mathematics", "algebra", "topology", "statistics"]
 externalSources:
@@ -94,7 +94,7 @@ If you're not a math major, why does real analysis matter?
 Because the concepts it formalizes — convergence, approximation, continuity, limiting behavior — show up everywhere:
 
 - **[Computer science](/computer-science)** uses convergence theory for algorithms that approximate solutions ([machine learning](/machine-learning), numerical methods)
-- **Physics** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-[relativity](/relativity))
+- **Physics** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/genetics))
 - **Economics** uses analysis for [optimization](/optimization) theory and equilibrium analysis
 - **[Statistics](/statistics)** depends on convergence theorems (the Central Limit Theorem requires analysis to prove)
 - **[Engineering](/engineering)** uses approximation theory and Fourier analysis (both grounded in real analysis)

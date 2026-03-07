@@ -1,7 +1,7 @@
 ---
 title: "What Is Quantum Electrodynamics?"
 slug: quantum-electrodynamics
-description: "QED is the quantum theory of light and matter, and the most precisely tested theory in all of science. Here's what it says and why it matters."
+description: "QED is the quantum theory of light and matter, and the most precisely tested theory in all of science. Here's what it says and why it matters. Discover the k..."
 category: science
 tags: ["quantum electrodynamics", "qed", "physics", "quantum field theory", "feynman diagrams", "particle physics"]
 heroImage: "/images/articles/quantum-electrodynamics-hero.webp"

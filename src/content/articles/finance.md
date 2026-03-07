@@ -1,7 +1,7 @@
 ---
 title: "What Is Finance?"
 slug: finance
-description: "Finance is the study and management of money, investments, and financial systems. Learn about personal, corporate, and public finance."
+description: "Finance is the study and management of money, investments, and financial systems. Learn about personal, corporate, and public finance. Discover the key facts..."
 category: finance
 tags: ["money management", "investment", "banking", "capital markets", "economics", "financial services"]
 heroImage: "/images/articles/finance-hero.webp"
@@ -53,7 +53,7 @@ The core concepts are deceptively simple. Spend less than you earn. Save the dif
 
 But "simple" doesn't mean "easy." Americans carry over $1.14 trillion in credit card debt as of 2025. The median retirement savings for Americans aged 55-64 is about $185,000—far less than most financial planners recommend. About 56% of Americans can't cover an unexpected $1,000 expense from savings.
 
-The math behind personal finance involves concepts like compound interest (Albert Einstein allegedly called it the eighth wonder of the world, though that attribution is probably apocryphal), time value of money, and risk-return tradeoffs. A dollar today is worth more than a dollar tomorrow because today's dollar can be invested. This principle—so basic it sounds obvious—underpins virtually every financial decision.
+The math behind personal finance involves concepts like compound interest (Albert Einstein allegedly called it the eighth wonder of the world, though that attribution is probably apocryphal), time value of money, and risk-return tradeoffs. A dollar today is worth more than a dollar tomorrow because today's dollar can be invested. This principle—so basic it sounds obvious—is the foundation of virtually every financial decision.
 
 [Budgeting](/budgeting) is the foundation. Without tracking income and expenses, you're flying blind. The 50/30/20 rule offers a starting framework: 50% of after-tax income for needs, 30% for wants, 20% for savings and debt repayment. It's a guideline, not a law—but it gives people a concrete target.
 
@@ -173,7 +173,7 @@ Financial technology—fintech—has reshaped how financial services are deliver
 
 **Robo-advisors** like Betterment and Wealthfront provide automated [investment management](/investment-management) at a fraction of the cost of human financial advisors. They construct diversified portfolios, rebalance automatically, and harvest tax losses—all for fees of 0.25% or less.
 
-**Blockchain and cryptocurrency** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptocurrency) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
+**Blockchain and cryptocurrency** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptography) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
 
 **Buy now, pay later (BNPL)** services have exploded, offering interest-free installment payments at the point of sale. While convenient, they've raised concerns about encouraging overspending, particularly among younger consumers.
 

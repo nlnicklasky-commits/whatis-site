@@ -1,10 +1,10 @@
 ---
 title: "What Is Haute Couture?"
 slug: haute-couture
-description: "Haute couture is custom-made high fashion governed by strict French regulations. Learn what qualifies, how it works, and why it costs six figures."
+description: "Haute couture is custom-made high fashion governed by strict French regulations. Learn what qualifies, how it works, and why it costs six figures. Discover t..."
 category: everyday-concepts
 tags: ["haute couture", "fashion", "luxury", "design", "Paris fashion"]
-heroImage: "/images/articles/haute-couture.webp"
+heroImage: "/images/articles/haute-couture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of haute couture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

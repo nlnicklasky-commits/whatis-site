@@ -4,7 +4,7 @@ slug: native-american-history
 description: "Native American history spans over 15,000 years of indigenous life in North America. Learn about pre-contact civilizations, colonization, and resilience."
 category: history
 tags: ["native american history", "indigenous peoples", "american history", "tribal nations"]
-heroImage: "/images/articles/native-american-history.webp"
+heroImage: "/images/articles/native-american-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of native american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

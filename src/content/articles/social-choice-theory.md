@@ -4,7 +4,7 @@ slug: social-choice-theory
 description: "Social choice theory studies how individual preferences combine into collective decisions. Learn about voting paradoxes, Arrow's theorem, and fair elections."
 category: politics
 tags: ["social choice theory", "voting", "elections", "Arrow's theorem", "democracy", "decision-making"]
-heroImage: "/images/articles/social-choice-theory.webp"
+heroImage: "/images/articles/social-choice-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social choice theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

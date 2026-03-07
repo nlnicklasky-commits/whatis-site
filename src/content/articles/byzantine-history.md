@@ -4,7 +4,7 @@ slug: byzantine-history
 description: "Byzantine history covers the Eastern Roman Empire from 330 to 1453 CE, a thousand-year civilization centered on Constantinople and Orthodox Christianity."
 category: history
 tags: ["byzantine history", "eastern roman empire", "constantinople", "orthodox christianity"]
-heroImage: "/images/articles/byzantine-history.webp"
+heroImage: "/images/articles/byzantine-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of byzantine history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Constantinople fell to the Ottoman Turks under Sultan Mehmed II on May 29, 1453, after a 53-day siege. The Ottomans used massive cannons to breach the legendary walls. The last emperor, Constantine XI, reportedly died fighting on the walls."
 ---
 
+# What Is Byzantine History?
 Byzantine history is the story of the Eastern Roman Empire — a civilization that lasted over 1,100 years, from the founding of Constantinople in 330 CE to its fall in 1453. It was the longest-surviving empire in [European history](/european-history), and it preserved, transformed, and transmitted classical knowledge while Western Europe stumbled through its so-called "Dark Ages."
 
 Here's the strange part: the Byzantines never called themselves "Byzantine." They called themselves Romans. The term "Byzantine" was invented by German historians in the 16th century, long after the empire ceased to exist. The people of Constantinople would have had no idea what you were talking about.

@@ -4,7 +4,7 @@ slug: classical-civilizations
 description: "Classical civilizations refers to the ancient Greek and Roman societies whose ideas about government, philosophy, art, and law shaped the foundations of."
 category: history
 tags: ["classical civilizations", "ancient greece", "ancient rome", "philosophy", "western civilization"]
-heroImage: "/images/articles/classical-civilizations.webp"
+heroImage: "/images/articles/classical-civilizations-hero.webp"
 heroAlt: "Editorial photograph representing the concept of classical civilizations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

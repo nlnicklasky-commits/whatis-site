@@ -1,7 +1,7 @@
 ---
 title: "What Is Fuel Cell Technology?"
 slug: fuel-cell-technology
-description: "Fuel cells generate electricity from hydrogen and oxygen with water as the only byproduct. Explore how they work, types, and real-world uses."
+description: "Fuel cells generate electricity from hydrogen and oxygen with water as the only byproduct. Explore how they work, types, and real-world uses. Discover the ke..."
 category: technology
 tags: ["energy", "hydrogen", "clean energy", "electrochemistry", "renewable energy", "sustainable technology", "power generation"]
 heroImage: "/images/articles/fuel-cell-technology-hero.webp"

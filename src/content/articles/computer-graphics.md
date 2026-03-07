@@ -1,7 +1,7 @@
 ---
 title: "What Is Computer Graphics?"
 slug: computer-graphics
-description: "Computer graphics is the creation and manipulation of visual content using computers, from 3D rendering and animation to real-time gaming and VR."
+description: "Computer graphics is the creation and manipulation of visual content using computers, from 3D rendering and animation to real-time gaming and VR. Discover th..."
 category: technology
 tags: ["digital art", "visuals", "3d modeling", "animation", "gaming", "virtual reality", "cgi"]
 heroImage: "/images/articles/computer-graphics-hero.webp"

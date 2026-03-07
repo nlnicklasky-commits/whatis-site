@@ -4,7 +4,7 @@ slug: japanese-art
 description: "Japanese art spans centuries of painting, ceramics, printmaking, and calligraphy shaped by Zen, nature, and refined aesthetics. Explore key forms and eras."
 category: everyday-concepts
 tags: ["japanese art", "ukiyo-e", "ceramics", "calligraphy", "wabi-sabi", "Japanese culture"]
-heroImage: "/images/articles/japanese-art.webp"
+heroImage: "/images/articles/japanese-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of japanese art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

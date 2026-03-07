@@ -4,7 +4,7 @@ slug: translation
 description: "Translation is the process of converting text or speech from one language to another. Learn the methods, challenges, and how AI is changing the field."
 category: everyday-concepts
 tags: ["translation", "linguistics", "language", "interpretation", "localization", "communication"]
-heroImage: "/images/articles/translation.webp"
+heroImage: "/images/articles/translation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of translation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -80,7 +80,7 @@ But AI still struggles with:
 - Low-resource languages (those with limited training data)
 - Highly specialized terminology in context
 
-The practical reality: AI handles simple, straightforward content well. For complex, nuanced, or high-stakes text, human translators remain necessary — often using AI as a first-draft tool, then revising extensively. This "[post-editing](/natural-language-processing)" workflow is becoming the industry standard.
+The practical reality: AI handles simple, straightforward content well. For complex, subtle, or high-stakes text, human translators remain necessary — often using AI as a first-draft tool, then revising extensively. This "[post-editing](/natural-language-processing)" workflow is becoming the industry standard.
 
 ## Translation as a Career
 

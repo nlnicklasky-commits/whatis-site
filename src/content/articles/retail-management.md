@@ -4,7 +4,7 @@ slug: retail-management
 description: "Retail management is the process of running a store or retail business, from inventory and merchandising to staffing, sales strategy, and customer service."
 category: business
 tags: ["management", "retail", "business", "commerce"]
-heroImage: "/images/articles/retail-management.webp"
+heroImage: "/images/articles/retail-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of retail management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: paintball
 description: "Paintball is a competitive sport where players shoot paint-filled capsules at opponents using air-powered markers. Learn about the game and its formats."
 category: everyday-concepts
 tags: ["paintball", "outdoor recreation", "team sports", "tactical games", "competition", "adventure"]
-heroImage: "/images/articles/paintball.webp"
+heroImage: "/images/articles/paintball-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paintball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ Organized paintball competition operates at local, regional, national, and inter
 
 **5-man speedball** is the most common tournament format. Two teams of five play on a symmetrical field of inflatable bunkers. Games are fast — typically 2-5 minutes — and decided by flag captures or eliminations. Professional leagues include the National Xball League (NXL).
 
-**10-man and scenario events** are larger-format competitions emphasizing strategy, communication, and sustained play. Events like Oklahoma D-Day and Living [Legends](/legends) draw thousands of players for multi-day scenarios.
+**10-man and scenario events** are larger-format competitions emphasizing [strategy](/strategy-games), communication, and sustained play. Events like Oklahoma D-Day and Living [Legends](/legends) draw thousands of players for multi-day scenarios.
 
 Professional paintball players train seriously — physical [fitness](/fitness), marker handling, snap shooting, communication, and coordinated team movements. Top teams practice several days a week and travel nationally for events.
 

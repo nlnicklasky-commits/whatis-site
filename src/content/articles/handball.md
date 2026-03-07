@@ -4,7 +4,7 @@ slug: handball
 description: "Handball is a fast-paced team sport where players throw a ball into a goal. Learn about rules, positions, Olympic history, and why it's so popular in Europe."
 category: sports
 tags: ["handball", "team sport", "sports", "ball game", "olympic sport", "agility"]
-heroImage: "/images/articles/handball.webp"
+heroImage: "/images/articles/handball-hero.webp"
 heroAlt: "Editorial photograph representing the concept of handball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Handball?
 
-Handball (also called team handball or Olympic handball) is a fast, physical team sport where two teams of seven players pass, dribble, and throw a ball, trying to score by launching it into the opposing team's goal. If you've never watched it, imagine a combination of [basketball](/basketball)'s passing and movement, [soccer](/soccer)'s goalkeeping, and the physicality of [ice hockey](/ice-[hockey](/hockey)) — all played at a pace that barely lets you blink. It's the second most popular team sport in Europe (after soccer), an Olympic sport since 1972, and virtually unknown in the United States, which is one of the great curiosities of American sports culture.
+Handball (also called team handball or Olympic handball) is a fast, physical team sport where two teams of seven players pass, dribble, and throw a ball, trying to score by launching it into the opposing team's goal. If you've never watched it, imagine a combination of [basketball](/basketball)'s passing and movement, [soccer](/soccer)'s goalkeeping, and the physicality of [ice hockey](/ice-hockey)) — all played at a pace that barely lets you blink. It's the second most popular team sport in Europe (after soccer), an Olympic sport since 1972, and virtually unknown in the United States, which is one of the great curiosities of American sports culture.
 
-## How the Game Works
+## How the [Game](/game-theory) Works
 
 Each team has six outfield players and a goalkeeper. The court is 40 meters long and 20 meters wide — an indoor surface, usually. A semi-circular zone extending 6 meters from each goal (the "crease" or "D-zone") belongs exclusively to the goalkeeper. Outfield players cannot step inside this zone — but they can jump over it, which is where handball gets spectacular.
 

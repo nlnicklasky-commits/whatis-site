@@ -4,7 +4,7 @@ slug: engraving
 description: "Engraving is the art of incising designs into hard surfaces for printing or decoration. Explore its techniques, history, tools, and modern applications."
 category: arts-amp-culture
 tags: ["engraving", "printmaking", "art", "intaglio", "burin", "metalwork"]
-heroImage: "/images/articles/engraving.webp"
+heroImage: "/images/articles/engraving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of engraving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ Durer also understood engraving's commercial potential. He sold prints throughou
 
 The most widespread application of engraving today is currency. Every U.S. dollar bill is printed from engraved steel plates, and the Bureau of Engraving and Printing still employs hand engravers who create the original designs.
 
-Currency engraving is deliberately complex — the intricate cross-hatching, fine lines, and micro-details serve as anti-counterfeiting measures. Reproducing the subtle variations of a hand-engraved plate is extremely difficult even with modern technology. The portrait on a $100 bill contains line work too fine to reproduce accurately with commercial printing equipment.
+Currency engraving is deliberately complex — the complex cross-hatching, fine lines, and micro-details serve as anti-counterfeiting measures. Reproducing the subtle variations of a hand-engraved plate is extremely difficult even with modern technology. The portrait on a $100 bill contains line work too fine to reproduce accurately with commercial printing equipment.
 
 Other countries use similar techniques. Swiss currency is particularly admired for its engraving quality. Stamps, bonds, and official documents also use engraved printing for security and prestige — the slight texture of inked grooves pressed into paper has an authority that flat printing lacks.
 
@@ -67,7 +67,7 @@ Other countries use similar techniques. Swiss currency is particularly admired f
 
 **[Jewelry](/enameling) engraving** adds personalization and decoration — monograms on rings, patterns on watch cases, decorative borders on bracelets. While laser engraving has replaced hand work for most commercial jewelry, hand engraving produces a distinctive cut quality (with slightly irregular, lively lines) that machine work can't replicate.
 
-**Glass engraving** uses diamond-tipped or stone-tipped tools to cut designs into glass surfaces. It's technically a different process from metal engraving (the glass is abraded rather than cut), but the visual results — intricate designs rendered in crystalline material — are stunning.
+**Glass engraving** uses diamond-tipped or stone-tipped tools to cut designs into glass surfaces. It's technically a different process from metal engraving (the glass is abraded rather than cut), but the visual results — detailed designs rendered in crystalline material — are stunning.
 
 ## Laser and Machine Engraving
 

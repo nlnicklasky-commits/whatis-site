@@ -4,7 +4,7 @@ slug: journalism
 description: "Journalism is gathering, verifying, and reporting news and information to the public. Learn about its principles, types, challenges, and evolving landscape."
 category: everyday-concepts
 tags: ["journalism", "media", "news", "press freedom", "reporting"]
-heroImage: "/images/articles/journalism.webp"
+heroImage: "/images/articles/journalism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

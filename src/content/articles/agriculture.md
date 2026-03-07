@@ -1,7 +1,7 @@
 ---
 title: What Is Agriculture?
 slug: agriculture
-description: "Agriculture is the practice of cultivating crops and raising livestock for food, fiber, and fuel. Learn its history, methods, and future."
+description: "Agriculture is the practice of cultivating crops and raising livestock for food, fiber, and fuel. Learn its history, methods, and future. Discover the key fa..."
 category: science
 tags: ["agriculture", "farming", "cultivation", "livestock", "crops", "agronomy", "food production"]
 heroImage: "/images/articles/agriculture-hero.webp"

@@ -4,7 +4,7 @@ slug: emergency-medicine
 description: "Emergency medicine is the medical specialty focused on diagnosing and treating acute injuries and illnesses requiring immediate care. Learn how it works."
 category: health-amp-wellness
 tags: ["emergency medicine", "emergency care", "healthcare", "acute care", "triage"]
-heroImage: "/images/articles/emergency-medicine.webp"
+heroImage: "/images/articles/emergency-medicine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of emergency medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

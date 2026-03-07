@@ -1,7 +1,7 @@
 ---
 title: "What Is Economic Theory?"
 slug: economic-theory
-description: "Economic theory is a set of principles and models that explain how economies function, how people make choices, and how resources get allocated."
+description: "Economic theory is a set of principles and models that explain how economies function, how people make choices, and how resources get allocated. Discover the..."
 category: finance
 tags: ["economic theory", "economics", "microeconomics", "macroeconomics", "supply and demand", "scarcity", "rational choice"]
 heroImage: "/images/articles/economic-theory-hero.webp"
@@ -81,7 +81,7 @@ This resolved the "diamond-water paradox" that had puzzled economists for centur
 
 The answer: price reflects marginal value, not total value. The *total* value of water is enormous, but the marginal value of one more glass (when water is abundant) is tiny. The *total* value of diamonds is debatable, but the marginal value of one more diamond (when diamonds are scarce) is high.
 
-This single insight—that economic decisions happen at the margin—underpins all of modern [microeconomics](/microeconomics). Should a firm hire one more worker? Only if the additional revenue from that worker exceeds the additional cost. Should you study one more hour for an exam? Only if the expected improvement in your grade exceeds the value of that hour spent doing something else.
+This single insight—that economic decisions happen at the margin—supports all of modern [microeconomics](/microeconomics). Should a firm hire one more worker? Only if the additional revenue from that worker exceeds the additional cost. Should you study one more hour for an exam? Only if the expected improvement in your grade exceeds the value of that hour spent doing something else.
 
 ### General Equilibrium
 
@@ -131,7 +131,7 @@ When governments interfere with market prices, economic theory predicts specific
 
 **Price ceilings** (maximum prices, like rent control) set below equilibrium create shortages. Demand exceeds supply. In rent-controlled cities, this manifests as housing shortages, long waiting lists, and deteriorating housing quality—exactly as theory predicts.
 
-**Price floors** (minimum prices, like minimum wage) set above equilibrium create surpluses. Supply exceeds demand. For labor markets, the theoretical prediction is unemployment among low-skilled workers, though empirical evidence (particularly Card and Krueger's work) suggests the effects are more nuanced than simple theory implies.
+**Price floors** (minimum prices, like minimum wage) set above equilibrium create surpluses. Supply exceeds demand. For labor markets, the theoretical prediction is unemployment among low-skilled workers, though empirical evidence (particularly Card and Krueger's work) suggests the effects are more complex than simple theory implies.
 
 This tension between theoretical predictions and empirical reality is one of the most productive dynamics in economics.
 

@@ -4,7 +4,7 @@ slug: pageantry
 description: "Pageantry is the spectacle of elaborate ceremonies, parades, and competitions with colorful displays. Learn about its history, types, and cultural role."
 category: arts-amp-culture
 tags: ["pageantry", "beauty pageants", "spectacle", "performance", "competition", "ceremony"]
-heroImage: "/images/articles/pageantry.webp"
+heroImage: "/images/articles/pageantry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pageantry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

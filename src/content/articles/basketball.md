@@ -1,10 +1,10 @@
 ---
 title: "What Is Basketball?"
 slug: basketball
-description: "Basketball is a fast-paced team sport where two teams of five try to score by shooting a ball through a 10-foot-high hoop on the opponent's court."
+description: "Basketball is a fast-paced team sport where two teams of five try to score by shooting a ball through a 10-foot-high hoop on the opponent's court. Discover t..."
 category: sports
 tags: ["basketball", "sport", "nba", "team sport", "court sports", "dribbling"]
-heroImage: "/images/articles/basketball.webp"
+heroImage: "/images/articles/basketball-hero.webp"
 heroAlt: "Editorial photograph representing the concept of basketball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Basketball is a team sport in which two teams of five players each compete on a 
 
 ## Invented in a Gym, Conquered the World
 
-James Naismith's [invention](/invention) in 1891 is one of the few major sports with a known creator, specific date, and documented original rules. Naismith, a [physical education](/physical-[education](/education)) instructor in Springfield, Massachusetts, needed a game that could be played indoors during New England winters, was vigorous enough to keep students fit, and was simple enough to learn quickly.
+James Naismith's [invention](/invention) in 1891 is one of the few major sports with a known creator, specific date, and documented original rules. Naismith, a [physical education](/physics)) instructor in Springfield, Massachusetts, needed a game that could be played indoors during New England winters, was vigorous enough to keep students fit, and was simple enough to learn quickly.
 
 He nailed a peach basket to a 10-foot-high balcony at each end of the gym and wrote 13 rules. Someone had to climb up and retrieve the ball after every made basket — it took a while before someone thought to cut the bottom out. The game spread with extraordinary speed through YMCA networks, colleges, and military bases. By the 1936 Olympics, basketball was an international sport.
 
@@ -89,6 +89,6 @@ The NBA itself is now more international — over 25% of NBA players in 2024 wer
 
 ## Why It Works
 
-Basketball succeeds because of its accessibility and excitement. You need one ball, one hoop, and you can play alone (shooting practice), one-on-one, or with any number up to five-on-five. Courts exist in parks, driveways, gyms, and schoolyards worldwide. The [physical demands](/exercise-[physiology](/physiology)) — speed, agility, jumping, hand-eye coordination — develop naturally through play.
+Basketball succeeds because of its accessibility and excitement. You need one ball, one hoop, and you can play alone (shooting practice), one-on-one, or with any number up to five-on-five. Courts exist in parks, driveways, gyms, and schoolyards worldwide. The [physical demands](/exercise-physiology)) — speed, agility, jumping, hand-eye coordination — develop naturally through play.
 
 And the game is inherently dramatic. Lead changes happen constantly. Individual brilliance can take over at any moment. A three-pointer at the buzzer can change everything. The ball goes in, or it doesn't. There's something beautifully binary about that.

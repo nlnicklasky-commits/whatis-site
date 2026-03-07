@@ -1,10 +1,10 @@
 ---
 title: "What Is Zentangle?"
 slug: zentangle
-description: "Zentangle is a structured drawing method using repetitive patterns to promote relaxation and creativity. Learn the rules, benefits, and how to start."
+description: "Zentangle is a structured drawing method using repetitive patterns to promote relaxation and creativity. Learn the rules, benefits, and how to start. Discove..."
 category: arts-amp-culture
 tags: ["art", "drawing", "mindfulness", "relaxation", "creative expression", "pattern art"]
-heroImage: "/images/articles/zentangle.webp"
+heroImage: "/images/articles/zentangle-hero.webp"
 heroAlt: "Editorial photograph representing the concept of zentangle"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,9 +35,9 @@ faq:
 
 # What Is Zentangle?
 
-Zentangle is a structured method of creating art by [drawing](/drawing) repetitive patterns — called "tangles" — within small, defined spaces. Created in 2004 by Rick Roberts (a former monk) and Maria Thomas (a lettering artist), it was designed as an accessible, meditative drawing practice that anyone can do, regardless of artistic skill.
+Zentangle is a structured method of creating art by [drawing](/drawing) repetitive patterns — called "tangles" — within small, defined spaces. Created in 2004 by Rick Roberts (a former monk) and Maria Thomas (a lettering artist), it was designed as an accessible, meditative [drawing](/technical-drawing) practice that anyone can do, regardless of artistic skill.
 
-The whole concept rests on a simple observation: when you focus on drawing one deliberate stroke at a time, your mind quiets down. You stop worrying about the outcome. You stop thinking about your to-do list. For a little while, your entire world shrinks to the tip of a pen touching paper. That's not an accident — it's the point.
+The whole concept rests on a simple observation: when you focus on [drawing](/perspective-drawing) one deliberate stroke at a time, your mind quiets down. You stop worrying about the outcome. You stop thinking about your to-do list. For a little while, your entire world shrinks to the tip of a pen touching paper. That's not an accident — it's the point.
 
 ## How It Works
 
@@ -132,4 +132,4 @@ But here's the thing: you can start with what you have. A square of cardstock an
 
 Your first tile will probably surprise you. Most people who say "I can't draw" produce something they're genuinely proud of within 15 minutes. The method is designed for that.
 
-And if you find yourself drawn back to it — making one more tile, then another, then another — that's normal too. There's something quietly addictive about watching intricate patterns emerge from simple strokes, one line at a time. No plan. No mistakes. Just the pen, the paper, and whatever happens next.
+And if you find yourself drawn back to it — making one more tile, then another, then another — that's normal too. There's something quietly addictive about watching involved patterns emerge from simple strokes, one line at a time. No plan. No mistakes. Just the pen, the paper, and whatever happens next.

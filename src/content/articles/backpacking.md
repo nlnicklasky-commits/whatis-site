@@ -1,10 +1,10 @@
 ---
 title: "What Is Backpacking?"
 slug: backpacking
-description: "Backpacking is independent, budget-conscious travel where you carry your belongings in a backpack, often combining hiking and cultural exploration."
+description: "Backpacking is independent, budget-conscious travel where you carry your belongings in a backpack, often combining hiking and cultural exploration. Discover ..."
 category: sports
 tags: ["backpacking", "travel", "adventure", "budget travel", "hiking", "cultural immersion"]
-heroImage: "/images/articles/backpacking.webp"
+heroImage: "/images/articles/backpacking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of backpacking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

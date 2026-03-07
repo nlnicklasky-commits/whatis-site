@@ -1,7 +1,7 @@
 ---
 title: "What Is Quantum Computing?"
 slug: quantum-computing
-description: "Quantum computing uses qubits, superposition, and entanglement to solve problems classical computers can't touch. Here's how it actually works."
+description: "Quantum computing uses qubits, superposition, and entanglement to solve problems classical computers can't touch. Here's how it actually works. Discover the ..."
 category: technology
 tags: ["quantum computing", "qubits", "quantum mechanics", "superposition", "entanglement", "algorithms"]
 heroImage: "/images/articles/quantum-computing-hero.webp"

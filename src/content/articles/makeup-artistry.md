@@ -4,7 +4,7 @@ slug: makeup-artistry
 description: "Makeup artistry is the professional application of cosmetics to enhance or transform appearance. Learn about techniques, career paths, and the industry."
 category: everyday-concepts
 tags: ["makeup artistry", "cosmetics", "beauty", "special effects", "fashion", "film makeup"]
-heroImage: "/images/articles/makeup-artistry.webp"
+heroImage: "/images/articles/makeup-artistry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of makeup artistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

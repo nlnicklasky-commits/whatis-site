@@ -4,7 +4,7 @@ slug: transcription
 description: "Transcription is the process of converting spoken language into written text. Learn the types, tools, skills, and career opportunities in this growing field."
 category: everyday-concepts
 tags: ["transcription", "writing", "audio", "documentation", "typing", "language"]
-heroImage: "/images/articles/transcription.webp"
+heroImage: "/images/articles/transcription-hero.webp"
 heroAlt: "Editorial photograph representing the concept of transcription"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

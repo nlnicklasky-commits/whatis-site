@@ -4,7 +4,7 @@ slug: midwifery
 description: "Midwifery is the practice of supporting women through pregnancy, labor, and postpartum care. Learn about midwife training, birth options, and outcomes."
 category: health-amp-wellness
 tags: ["healthcare", "midwifery", "childbirth"]
-heroImage: "/images/articles/midwifery.webp"
+heroImage: "/images/articles/midwifery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of midwifery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

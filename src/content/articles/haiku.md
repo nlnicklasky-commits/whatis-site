@@ -4,7 +4,7 @@ slug: haiku
 description: "Haiku is a Japanese poetry form using 5-7-5 syllables to capture a moment in nature. Learn about its rules, history, famous poets, and how to write one."
 category: arts-amp-culture
 tags: ["haiku", "poetry", "japanese poetry", "literature", "nature", "verse"]
-heroImage: "/images/articles/haiku.webp"
+heroImage: "/images/articles/haiku-hero.webp"
 heroAlt: "Editorial photograph representing the concept of haiku"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

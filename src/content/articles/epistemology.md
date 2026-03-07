@@ -4,7 +4,7 @@ slug: epistemology
 description: "Epistemology is the branch of philosophy studying knowledge itself. Explore what knowledge is, how we know things, and why it matters for everyday life."
 category: everyday-concepts
 tags: ["epistemology", "everyday-concepts"]
-heroImage: "/images/articles/epistemology.webp"
+heroImage: "/images/articles/epistemology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of epistemology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What is the Gettier problem?"
     a: "In 1963, philosopher Edmund Gettier published a three-page paper showing that justified true belief isn't sufficient for knowledge. His examples described situations where someone has a justified belief that happens to be true, but only by luck — most people agree the person doesn't really 'know' in these cases. For example: you see what looks like a sheep in a field and believe there's a sheep there. There IS a sheep, but the object you saw was actually a dog wearing a sheepskin — the real sheep is hidden behind a hill. Your belief is justified and true, but it doesn't seem like knowledge."
   - q: "Does epistemology matter in everyday life?"
-    a: "Absolutely. Every time you evaluate a news source, assess someone's credibility, decide whether evidence supports a conclusion, or ask 'how do I know this is true?' you're doing applied epistemology. In an era of misinformation, filter bubbles, and competing claims about reality, the ability to think carefully about what counts as good evidence, who constitutes a reliable authority, and when certainty is appropriate versus when humility is warranted has never been more practically important."
+    a: "Absolutely. Every time you evaluate a news source, assess someone's credibility, decide whether evidence supports a conclusion, or ask 'how do I know this is true?' you're doing applied epistemology. In a time of misinformation, filter bubbles, and competing claims about reality, the ability to think carefully about what counts as good evidence, who constitutes a reliable authority, and when certainty is appropriate versus when humility is warranted has never been more practically important."
 ---
 
 # What Is Epistemology?

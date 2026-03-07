@@ -4,7 +4,7 @@ slug: springs
 description: "Springs are elastic devices that store and release mechanical energy. Learn how springs work, their types, applications, and the physics behind spring behavior."
 category: science
 tags: ["springs", "mechanical engineering", "physics", "elasticity", "Hooke's law", "energy storage"]
-heroImage: "/images/articles/springs.webp"
+heroImage: "/images/articles/springs-hero.webp"
 heroAlt: "Editorial photograph representing the concept of springs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

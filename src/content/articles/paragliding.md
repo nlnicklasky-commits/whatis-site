@@ -1,10 +1,10 @@
 ---
 title: "What Is Paragliding?"
 slug: paragliding
-description: "Paragliding is a recreational flying sport using a lightweight fabric wing launched from hillsides. Learn about the gear, training, and experience."
+description: "Paragliding is a recreational flying sport using a lightweight fabric wing launched from hillsides. Learn about the gear, training, and experience. Discover ..."
 category: sports
 tags: ["paragliding", "adventure sport", "flight", "gliding", "outdoor recreation", "air sports"]
-heroImage: "/images/articles/paragliding.webp"
+heroImage: "/images/articles/paragliding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paragliding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "How long can you stay airborne while paragliding?"
     a: "A simple glide from a hillside lasts 5-20 minutes. But skilled pilots using thermals (rising columns of warm air) or ridge lift can stay aloft for hours. Cross-country flights of 100+ miles are possible. The world distance record exceeds 350 miles in a single flight. Duration depends on conditions, pilot skill, and available lift."
   - q: "How much does it cost to get into paragliding?"
-    a: "Training courses (P1-P2 certification) typically cost $1,500-$3,000 for 7-10 days of instruction. A new beginner wing costs $2,500-$4,000. Harness, reserve parachute, helmet, and instruments add another $1,500-$3,000. Total startup cost is roughly $5,000-$10,000. Used equipment can reduce costs significantly. Tandem flights with an instructor cost $150-$300 if you just want to try it."
+    a: "Training courses (P1-P2 certification) typically cost $1,500-$3,000 for 7-10 days of instruction. A new beginner wing costs $2,500-$4,000. Capture, reserve parachute, helmet, and instruments add another $1,500-$3,000. Total startup cost is roughly $5,000-$10,000. Used equipment can reduce costs significantly. Tandem flights with an instructor cost $150-$300 if you just want to try it."
 ---
 
 # What Is Paragliding?
@@ -87,7 +87,7 @@ In the air, the world changes. Roads become ribbons. Buildings become dots. The 
 
 Thermaling — circling upward inside a rising column of warm air — feels like riding an invisible elevator. You can feel the thermal through the wing, sense its edges, and track its center. When you core a strong thermal and the variometer sings with a steady rising tone, the satisfaction is hard to describe.
 
-## [Risk Management](/risk-[management](/management))
+## [Risk Management](/risk-management))
 
 Paragliding has real risks. Weather is the biggest variable — strong winds, thunderstorms, turbulence, and rapid condition changes can turn a pleasant flight dangerous quickly. The single most important safety skill is the willingness to not fly. If conditions look sketchy, stay on the ground. The mountain will be there tomorrow.
 

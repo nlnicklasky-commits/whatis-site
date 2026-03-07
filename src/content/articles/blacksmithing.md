@@ -1,10 +1,10 @@
 ---
 title: "What Is Blacksmithing?"
 slug: blacksmithing
-description: "Blacksmithing is the craft of shaping iron and steel by heating metal in a forge and hammering it on an anvil into tools, hardware, and art."
+description: "Blacksmithing is the craft of shaping iron and steel by heating metal in a forge and hammering it on an anvil into tools, hardware, and art. Discover the key..."
 category: arts-amp-culture
 tags: ["blacksmithing", "metalworking", "forging", "ironwork", "traditional craft", "anvil"]
-heroImage: "/images/articles/blacksmithing.webp"
+heroImage: "/images/articles/blacksmithing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of blacksmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

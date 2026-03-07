@@ -1,10 +1,10 @@
 ---
 title: "What Is Windsurfing?"
 slug: windsurfing
-description: "Windsurfing combines sailing and surfing on a board with an attached sail. Learn about equipment, techniques, conditions, and how to get started."
+description: "Windsurfing combines sailing and surfing on a board with an attached sail. Learn about equipment, techniques, conditions, and how to get started. Discover th..."
 category: sports
 tags: ["windsurfing", "water sports", "sailing", "surfing", "extreme sports", "outdoor recreation"]
-heroImage: "/images/articles/windsurfing.webp"
+heroImage: "/images/articles/windsurfing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of windsurfing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.britannica.com/sports/windsurfing"
 faq:
   - q: "How hard is it to learn windsurfing?"
-    a: "Most people can stand on a board and sail in a straight line within their first lesson (1-2 hours). Turning, controlling speed, and sailing upwind take a few sessions. Becoming comfortable in moderate winds (12-18 knots) typically takes 10-20 hours of practice. Advanced skills like planing, using a harness, and jumping take months to years. Windsurfing has a steeper initial learning curve than stand-up paddleboarding but isn't as difficult as kiteboarding to learn safely."
+    a: "Most people can stand on a board and sail in a straight line within their first lesson (1-2 hours). Turning, controlling speed, and sailing upwind take a few sessions. Becoming comfortable in moderate winds (12-18 knots) typically takes 10-20 hours of practice. Advanced skills like planing, using a tap into, and jumping take months to years. Windsurfing has a steeper initial learning curve than stand-up paddleboarding but isn't as difficult as kiteboarding to learn safely."
   - q: "What wind conditions do you need for windsurfing?"
     a: "Beginners need light winds of 5-12 knots (6-14 mph) and flat water. Intermediate sailors enjoy 12-20 knots. Advanced windsurfers seek 18-35+ knots for high-speed planing, jumps, and wave riding. Below 5 knots, there's not enough power to sail effectively. Above 35-40 knots, conditions become dangerous for all but experts. The ideal learning spot has consistent, steady wind, shallow water, and minimal currents."
   - q: "Is windsurfing still popular or has kiteboarding replaced it?"

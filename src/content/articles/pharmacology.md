@@ -171,7 +171,7 @@ Traditional pharmacology focused on small molecules --- drugs with molecular wei
 
 ## Connections Across Science
 
-Pharmacology connects to virtually every biomedical discipline. It relies on [biochemistry](/biochemistry) to understand drug targets at the molecular level. It shares territory with [neuroscience](/neuroscience) when studying drugs that affect the brain. [Genetics](/genetics) increasingly determines who responds to which drugs. [Cell biology](/cell-biology) explains how drugs affect cellular processes. [Physiology](/human-[physiology](/physiology)) provides the organ-level context for understanding drug effects.
+Pharmacology connects to virtually every biomedical discipline. It relies on [biochemistry](/biochemistry) to understand drug targets at the molecular level. It shares territory with [neuroscience](/neuroscience) when studying drugs that affect the brain. [Genetics](/genetics) increasingly determines who responds to which drugs. [Cell biology](/cell-biology) explains how drugs affect cellular processes. [Physiology](/humanism)) provides the organ-level context for understanding drug effects.
 
 If you want to understand how drugs are designed and built before they reach pharmacological testing, explore [pharmaceutical chemistry](/pharmaceutical-chemistry). For the nervous system focus, [neuropharmacology](/neuropharmacology) goes deeper. And if you're curious about the broader question of how chemicals interact with living systems (not just drugs), [biochemistry](/biochemistry) is your starting point.
 

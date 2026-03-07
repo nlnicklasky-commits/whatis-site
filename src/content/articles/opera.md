@@ -4,7 +4,7 @@ slug: opera
 description: "Opera is a dramatic art form combining singing, orchestral music, acting, and stagecraft to tell stories. Learn about its history, styles, and impact."
 category: arts-amp-culture
 tags: ["opera", "classical music", "performing arts", "music drama", "aria", "libretto"]
-heroImage: "/images/articles/opera.webp"
+heroImage: "/images/articles/opera-hero.webp"
 heroAlt: "Editorial photograph representing the concept of opera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

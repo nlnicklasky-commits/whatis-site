@@ -4,7 +4,7 @@ slug: physiology
 description: "Physiology is the science of how living organisms function, from cellular processes to whole-body systems. Learn about key systems and why physiology matters."
 category: everyday-concepts
 tags: ["physiology", "biology", "body systems", "medicine", "health", "science"]
-heroImage: "/images/articles/physiology.webp"
+heroImage: "/images/articles/physiology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of physiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

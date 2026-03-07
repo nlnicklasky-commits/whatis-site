@@ -1,7 +1,7 @@
 ---
 title: "What Is Game Development?"
 slug: game-development
-description: "Game development is the process of creating video games, from concept to release. Learn about design, programming, art, audio, and publishing."
+description: "Game development is the process of creating video games, from concept to release. Learn about design, programming, art, audio, and publishing. Discover the k..."
 category: technology
 tags: ["game development", "programming", "game art", "sound design", "quality assurance", "video games", "software engineering"]
 heroImage: "/images/articles/game-development-hero.webp"

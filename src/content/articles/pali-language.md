@@ -1,10 +1,10 @@
 ---
 title: "What Is Pali Language?"
 slug: pali-language
-description: "Pali is the sacred language of Theravada Buddhism, preserving the oldest Buddhist scriptures. Learn about its history, structure, and significance."
+description: "Pali is the sacred language of Theravada Buddhism, preserving the oldest Buddhist scriptures. Learn about its history, structure, and significance. Discover ..."
 category: everyday-concepts
 tags: ["pali language", "buddhism", "ancient languages", "theravada", "linguistics", "sacred texts"]
-heroImage: "/images/articles/pali-language.webp"
+heroImage: "/images/articles/pali-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pali language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -69,7 +69,7 @@ Some distinctive features:
 
 **Buddhist practice.** Monks in Theravada countries study Pali as part of their training. Chanting in Pali is a daily practice in temples across Southeast Asia. Serious lay practitioners often learn enough Pali to read suttas in the original or understand chanted texts.
 
-**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or [comparative religion](/comparative-[religion](/religion)) need Pali to work with primary sources. [Translation](/translation) inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
+**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or [comparative religion](/composting)) need Pali to work with primary sources. [Translation](/translation) inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
 
 **Meditation.** The most widely practiced Theravada meditation techniques — vipassana (insight meditation) and samatha (calm abiding) — are described in detail in Pali texts. Practitioners who study the original descriptions sometimes find nuances that translations obscure.
 

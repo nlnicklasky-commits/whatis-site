@@ -1,7 +1,7 @@
 ---
 title: "What Is Neurolinguistics?"
 slug: neurolinguistics
-description: "Neurolinguistics studies how the brain processes language, from speech production and comprehension to reading, bilingualism, and language disorders."
+description: "Neurolinguistics studies how the brain processes language, from speech production and comprehension to reading, bilingualism, and language disorders. Discove..."
 category: science
 tags: ["neurolinguistics", "language", "brain", "neuroscience", "linguistics", "aphasia", "cognitive science"]
 heroImage: "/images/articles/neurolinguistics-hero.webp"
@@ -45,7 +45,7 @@ You do this without effort. You don't consciously decode grammar or look up word
 
 Consider what's required to understand a single sentence. Your brain must segment continuous sound (or text) into discrete words. Retrieve each word's meaning from a mental dictionary of roughly 50,000-100,000 entries. Determine the grammatical relationships between words. Resolve ambiguities (does "bank" mean a financial institution or a river's edge?). Integrate the sentence's meaning with everything else you know. And do all of this fast enough to keep up with speech arriving at 150-200 words per minute.
 
-No computer does this as well as a human brain. Despite massive advances in [artificial intelligence](/artificial-intelligence) and [computational linguistics](/computational-[linguistics](/linguistics)), language processing remains an area where human brains outperform machines in naturalness, flexibility, and contextual understanding.
+No computer does this as well as a human brain. Despite massive advances in [artificial intelligence](/artificial-intelligence) and [computational linguistics](/composting)), language processing remains an area where human brains outperform machines in naturalness, flexibility, and contextual understanding.
 
 Neurolinguistics wants to know how.
 
@@ -89,7 +89,7 @@ The anterior temporal lobe acts as a "semantic hub," integrating information fro
 
 The left inferior frontal gyrus (including Broca's area) handles syntactic processing — building and parsing grammatical structures. It's especially active during complex sentences with embedded clauses or unusual word orders.
 
-This region also performs selection among competing alternatives — choosing the right word when several are activated, or selecting the correct interpretation of an ambiguous sentence. This executive function connects language processing to the broader cognitive control network studied in [cognitive psychology](/cognitive-[psychology](/psychology)).
+This region also performs selection among competing alternatives — choosing the right word when several are activated, or selecting the correct interpretation of an ambiguous sentence. This executive function connects language processing to the broader cognitive control network studied in [cognitive psychology](/cognitive-bias)).
 
 The premotor cortex and supplementary motor area plan and execute the motor sequences for speech — coordinating the roughly 100 muscles involved in articulating speech sounds. Speaking requires some of the most rapid and precise motor control the human body performs.
 

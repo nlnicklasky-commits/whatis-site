@@ -4,7 +4,7 @@ slug: comparative-literature
 description: "Comparative literature studies texts across languages, cultures, and media. Learn about its methods, major thinkers, and why cross-cultural reading matters."
 category: arts-amp-culture
 tags: ["comparative literature", "literature", "world literature", "cultural studies", "literary criticism", "translation"]
-heroImage: "/images/articles/comparative-literature.webp"
+heroImage: "/images/articles/comparative-literature-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comparative literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -77,7 +77,7 @@ You might wonder why any of this matters if you're not an academic. Fair questio
 
 Here's the thing: we live in a world where stories constantly cross borders. A Korean TV show (*Squid Game*) becomes the most-watched series in [American history](/american-history). A Japanese novelist (Haruki Murakami) tops bestseller lists in 50 countries. A Nigerian author (Chimamanda Ngozi Adichie) shapes global conversations about identity and feminism.
 
-Understanding how stories work across cultures — and how they change when they travel — is increasingly a practical life skill, not just an academic exercise. [Creative writers](/creative-[writing](/writing)), filmmakers, journalists, diplomats, and marketers all benefit from the kind of cross-cultural literacy that comparative literature develops.
+Understanding how stories work across cultures — and how they change when they travel — is increasingly a practical life skill, not just an academic exercise. [Creative writers](/creative-writing)), filmmakers, journalists, diplomats, and marketers all benefit from the kind of cross-cultural literacy that comparative literature develops.
 
 The discipline also provides a corrective to the natural human tendency to assume your own culture's stories are universal while everyone else's are "ethnic" or "foreign." Reading broadly across traditions reveals that every literary tradition is simultaneously unique and connected to others. That's a useful thing to know.
 

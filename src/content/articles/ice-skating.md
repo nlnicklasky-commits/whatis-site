@@ -1,10 +1,10 @@
 ---
 title: "What Is Ice Skating?"
 slug: ice-skating
-description: "Ice skating is gliding on ice using bladed boots. Learn about figure skating, speed skating, recreational skating, and how to get started on the ice."
+description: "Ice skating is gliding on ice using bladed boots. Learn about figure skating, speed skating, recreational skating, and how to get started on the ice. Discove..."
 category: sports
 tags: ["ice skating", "skates", "figure skating", "speed skating", "ice hockey", "winter sports"]
-heroImage: "/images/articles/ice-skating.webp"
+heroImage: "/images/articles/ice-skating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ice skating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -47,7 +47,7 @@ The current understanding: ice surfaces naturally have a thin quasi-liquid layer
 
 **Speed skating** — pure racing on ice. Long-track speed skating uses a 400-meter oval; short-track uses a 111-meter oval shared by multiple skaters simultaneously. Long-track skaters reach speeds of 35+ mph. The Netherlands dominates long-track historically, winning more Olympic medals in the sport than any other country.
 
-**[Ice hockey](/ice-[hockey](/hockey)) skating** — a specific style emphasizing quick starts, stops, tight turns, and backward skating. Hockey skates differ from figure skates — shorter blades, no toe picks, more ankle support. Hockey players are among the most agile skaters in any discipline.
+**[Ice hockey](/ice-hockey)) skating** — a specific style emphasizing quick starts, stops, tight turns, and backward skating. Hockey skates differ from figure skates — shorter blades, no toe picks, more ankle support. Hockey players are among the most agile skaters in any discipline.
 
 **Synchronized skating** — teams of 12 to 20 skaters performing choreographed routines in formation. Think figure skating meets marching band. It is not currently an Olympic event but has a dedicated competitive circuit.
 

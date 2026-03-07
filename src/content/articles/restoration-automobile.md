@@ -1,10 +1,10 @@
 ---
 title: "What Is Restoration (Automobile)?"
 slug: restoration-automobile
-description: "Automobile restoration is the process of returning a classic or vintage vehicle to its original condition. Learn the methods, costs, and culture."
+description: "Automobile restoration is the process of returning a classic or vintage vehicle to its original condition. Learn the methods, costs, and culture. Discover th..."
 category: hobbies
 tags: ["restoration automobile", "classic cars", "vintage vehicles", "automotive", "hobby", "mechanics"]
-heroImage: "/images/articles/restoration-automobile.webp"
+heroImage: "/images/articles/restoration-automobile-hero.webp"
 heroAlt: "Editorial photograph representing the concept of restoration (automobile)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

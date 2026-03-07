@@ -4,7 +4,7 @@ slug: electricity
 description: "Electricity is the flow of electric charge that powers modern life. Learn how it works, its history, generation methods, safety, and future energy trends."
 category: everyday-concepts
 tags: ["electricity", "everyday-concepts"]
-heroImage: "/images/articles/electricity.webp"
+heroImage: "/images/articles/electricity-hero.webp"
 heroAlt: "Editorial photograph representing the concept of electricity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ At the atomic level, electricity is about electrons — the tiny negatively char
 
 Apply a voltage (an electrical "pressure"), and these free electrons start drifting in one direction. That drift is electric current. The individual electrons move surprisingly slowly — only about 0.1 millimeters per second in a typical wire. But the electromagnetic field that pushes them propagates at nearly the speed of light, which is why your light turns on instantly when you flip the switch. It's like a long tube full of marbles — push one marble in one end, and a marble pops out the other end almost immediately, even though no single marble traveled the full distance.
 
-**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/digital-[logic](/logic)).
+**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/digital-art)).
 
 ## A Quick History
 

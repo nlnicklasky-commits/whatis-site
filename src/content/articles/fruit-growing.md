@@ -4,7 +4,7 @@ slug: fruit-growing
 description: "Fruit growing is the cultivation of fruit-bearing plants for food and commerce. Learn about orchard management, popular fruits, and growing techniques."
 category: everyday-concepts
 tags: ["agriculture", "horticulture", "fruits", "farming", "orchard", "vineyard"]
-heroImage: "/images/articles/fruit-growing.webp"
+heroImage: "/images/articles/fruit-growing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fruit growing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

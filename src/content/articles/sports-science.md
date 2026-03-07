@@ -4,7 +4,7 @@ slug: sports-science
 description: "Sports science applies biology, physics, and psychology to improve athletic performance, prevent injuries, and optimize training. Here's how it works."
 category: science
 tags: ["sports", "exercise science", "physiology", "biomechanics", "nutrition", "performance"]
-heroImage: "/images/articles/sports-science.webp"
+heroImage: "/images/articles/sports-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -32,7 +32,7 @@ faq:
   - q: "What should athletes eat before competition?"
     a: "A pre-competition meal, consumed 2 to 4 hours before an event, should be high in carbohydrates (1 to 4 grams per kilogram of body weight), moderate in protein, low in fat and fiber (which slow digestion), and familiar to the athlete. For endurance events, carbohydrate loading in the 1 to 3 days before competition tops off glycogen stores. Individual tolerance varies, so experimenting during training is essential."
   - q: "Is stretching before exercise necessary?"
-    a: "Static stretching before exercise has fallen out of favor. Research shows it can temporarily reduce muscle strength and power output without reducing injury risk. A dynamic warm-up — movements that progressively increase range of motion and heart rate, like leg swings, arm circles, and light jogging — is more effective. Static stretching is better suited for post-exercise cooldowns or dedicated flexibility sessions."
+    a: "Static stretching before exercise has fallen out of favor. Research shows it can temporarily reduce muscle strength and power output without reducing injury risk. A energetic warm-up — movements that progressively increase range of motion and heart rate, like leg swings, arm circles, and light jogging — is more effective. Static stretching is better suited for post-exercise cooldowns or dedicated flexibility sessions."
 ---
 
 # What Is Sports Science?

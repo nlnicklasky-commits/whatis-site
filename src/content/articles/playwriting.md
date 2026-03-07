@@ -1,10 +1,10 @@
 ---
 title: "What Is Playwriting?"
 slug: playwriting
-description: "Playwriting is the craft of writing scripts for theatrical performance. Learn about structure, dialogue, and what separates stage writing from prose."
+description: "Playwriting is the craft of writing scripts for theatrical performance. Learn about structure, dialogue, and what separates stage writing from prose. Discove..."
 category: arts-amp-culture
 tags: ["theater", "drama", "scriptwriting", "writing", "performing arts", "storytelling"]
-heroImage: "/images/articles/playwriting.webp"
+heroImage: "/images/articles/playwriting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of playwriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Playwriting is the art and craft of [writing](/writing) scripts intended for live theatrical performance. A playwright creates the dialogue, stage directions, and dramatic structure that actors, directors, and designers use to build a production. Unlike novels or films, plays are written to be performed in real time, in front of a live audience, with no second takes.
 
-## Writing for the Stage, Not the Page
+## [Writing](/creative-writing) for the Stage, Not the Page
 
 The first thing to understand about playwriting — and frankly, the thing most beginners get wrong — is that a play is not a novel with quotation marks removed. Stage writing operates under fundamentally different constraints.
 

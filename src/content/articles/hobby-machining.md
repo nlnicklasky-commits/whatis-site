@@ -4,7 +4,7 @@ slug: hobby-machining
 description: "Hobby machining is using lathes, mills, and other machine tools at home to shape metal and other materials. Learn about equipment, skills, and projects."
 category: everyday-concepts
 tags: ["hobby machining", "machining", "metalworking", "diy", "craftsmanship", "engineering"]
-heroImage: "/images/articles/hobby-machining.webp"
+heroImage: "/images/articles/hobby-machining-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hobby machining"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -76,7 +76,7 @@ The most common beginner mistakes:
 - **Skipping measuring.** Check dimensions frequently. Measure twice, cut once is not just a saying — it is survival in machining.
 - **Ignoring tool sharpness.** Dull cutting tools produce bad finishes, inaccurate dimensions, and dangerous conditions. Learn to sharpen (or replace) your tooling.
 
-The best resource for learning is a combination of YouTube channels (like This Old Tony, Abom79, or Stefan Gotteswinter), online forums, and actual practice. Nothing substitutes for making chips.
+The best resource for learning is a combination of YouTube channels (like This Old Tony, Abom79, or Stefan Gotteswinter), online forums, and actual practice. Nothing substitutes for [making](/instrument-making) chips.
 
 ## Safety Is Not Optional
 

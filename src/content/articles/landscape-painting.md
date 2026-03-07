@@ -1,10 +1,10 @@
 ---
 title: "What Is Landscape Painting?"
 slug: landscape-painting
-description: "Landscape painting is the art of depicting natural scenery on canvas. Learn about its history from Chinese masters to the Impressionists and beyond."
+description: "Landscape painting is the art of depicting natural scenery on canvas. Learn about its history from Chinese masters to the Impressionists and beyond. Discover..."
 category: arts-amp-culture
 tags: ["landscape painting", "art history", "painting", "nature", "fine art", "plein air"]
-heroImage: "/images/articles/landscape-painting.webp"
+heroImage: "/images/articles/landscape-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of landscape painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ These paintings were created with brush and ink on silk or paper, using techniqu
 
 ## Europe Comes Around
 
-In European art, field was slow to gain respect. Medieval and Renaissance painters included field backgrounds in religious paintings and portraits, but field for its own sake was not considered serious art. The academy hierarchy placed history painting (biblical, mythological, and historical narratives) at the top and field near the bottom.
+In European art, field was slow to gain respect. Medieval and [Renaissance](/renaissance-art) painters included field backgrounds in religious paintings and portraits, but field for its own sake was not considered serious art. The academy hierarchy placed history painting (biblical, mythological, and historical narratives) at the top and field near the bottom.
 
 **The Dutch Golden Age** (17th century) changed things. Painters like Jacob van Ruisdael, Meindert Hobbema, and Aelbert Cuyp produced landscapes as primary subjects — not backgrounds but main events. The Dutch Republic was a commercial society without aristocratic or church patronage dominating art production, so artists painted what middle-class buyers wanted: scenes of their own countryside, their skies, their canals.
 

@@ -4,7 +4,7 @@ slug: solar-sailing
 description: "Solar sailing propels spacecraft using pressure from sunlight on large reflective sails. Learn how it works, its history, and future mission potential."
 category: everyday-concepts
 tags: ["solar sailing", "space propulsion", "spacecraft", "photon pressure", "NASA", "space exploration"]
-heroImage: "/images/articles/solar-sailing.webp"
+heroImage: "/images/articles/solar-sailing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of solar sailing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

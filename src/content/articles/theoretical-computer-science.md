@@ -4,7 +4,7 @@ slug: theoretical-computer-science
 description: "Theoretical computer science studies computation itself — what can be computed, how efficiently, and what problems are fundamentally unsolvable. Learn about."
 category: technology
 tags: ["theoretical computer science", "computer science", "algorithms", "computability"]
-heroImage: "/images/articles/theoretical-computer-science.webp"
+heroImage: "/images/articles/theoretical-computer-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of theoretical computer science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -143,7 +143,7 @@ The interplay between TCS and cryptography illustrates how abstract theory has i
 
 ## Randomness and Computation
 
-Can randomness help computation? The answer is nuanced.
+Can randomness help computation? The answer is subtle.
 
 **Randomized algorithms** use random choices to achieve efficiency or simplicity. The Miller-Rabin primality test, for example, can determine with high probability whether a number is prime in polynomial time, while the best known deterministic test is slower (though still polynomial, thanks to the AKS algorithm).
 

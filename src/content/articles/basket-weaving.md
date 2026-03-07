@@ -1,10 +1,10 @@
 ---
 title: "What Is Basket Weaving?"
 slug: basket-weaving
-description: "Basket weaving is the craft of interlacing flexible materials like reeds, willow, and grasses to create containers, art, and functional objects."
+description: "Basket weaving is the craft of interlacing flexible materials like reeds, willow, and grasses to create containers, art, and functional objects. Discover the..."
 category: arts-amp-culture
 tags: ["basket weaving", "basketry", "traditional craft", "fiber art", "handmade", "natural materials"]
-heroImage: "/images/articles/basket-weaving.webp"
+heroImage: "/images/articles/basket-weaving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of basket weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ There are three fundamental basket-weaving techniques, and nearly every basket i
 
 ### Coiling
 
-A foundation material (a bundle of grass, pine needles, or a single thick rod) is wrapped in a spiral, with each coil stitched to the previous one using a thinner, flexible material. Coiled baskets are common in African, Native American, and Middle Eastern traditions. The stitching pattern creates the visual design — skilled coilers produce intricate geometric patterns through color and stitch variation.
+A foundation material (a bundle of grass, pine needles, or a single thick rod) is wrapped in a spiral, with each coil stitched to the previous one using a thinner, flexible material. Coiled baskets are common in African, Native American, and Middle Eastern traditions. The stitching pattern creates the visual design — skilled coilers produce complex geometric patterns through color and stitch variation.
 
 ### Plaiting
 

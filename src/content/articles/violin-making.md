@@ -4,7 +4,7 @@ slug: violin-making
 description: "Violin making (lutherie) is the craft of building stringed instruments by hand. Learn about materials, construction methods, famous makers, and training."
 category: arts-amp-culture
 tags: ["violin making", "lutherie", "luthier", "craftsmanship", "woodworking", "string instruments"]
-heroImage: "/images/articles/violin-making.webp"
+heroImage: "/images/articles/violin-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of violin making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "A violin from an established contemporary maker typically costs $10,000-$50,000. Instruments from emerging makers might start at $5,000-$10,000. Student-grade factory instruments cost $500-$2,000. Historic Italian instruments from makers like Stradivari and Guarneri sell for $2 million to $20 million at auction. The price reflects craftsmanship quality, the maker's reputation, tonal characteristics, and for antique instruments, historical significance and rarity."
 ---
 
-# What Is Violin Making?
+# What Is [Violin](/violin) Making?
 
 Violin making — also called lutherie — is the craft of building stringed instruments by hand from raw wood. A luthier (the maker) selects, shapes, carves, assembles, and finishes each instrument individually, combining [woodworking](/woodworking) skill with acoustic knowledge and artistic sensibility. The process hasn't changed fundamentally since the 16th century, and the best modern makers produce instruments that rival anything from the legendary Cremona workshops.
 

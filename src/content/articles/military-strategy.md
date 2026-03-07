@@ -4,7 +4,7 @@ slug: military-strategy
 description: "Military strategy is the planning and conduct of warfare at the highest level. Learn about key principles, famous strategists, and how strategy evolves."
 category: politics
 tags: ["military strategy", "warfare", "defense", "tactics", "geopolitics", "history"]
-heroImage: "/images/articles/military-strategy.webp"
+heroImage: "/images/articles/military-strategy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of military strategy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

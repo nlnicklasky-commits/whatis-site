@@ -4,7 +4,7 @@ slug: water-aerobics
 description: "Water aerobics is group exercise performed in a pool, using water resistance for a low-impact workout. Learn about its benefits, common moves, and who it's for."
 category: health-amp-wellness
 tags: ["fitness", "water aerobics", "aquatic exercise", "swimming"]
-heroImage: "/images/articles/water-aerobics.webp"
+heroImage: "/images/articles/water-aerobics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water aerobics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

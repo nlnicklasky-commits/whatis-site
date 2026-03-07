@@ -4,7 +4,7 @@ slug: indigenous-religions
 description: "Indigenous religions are spiritual traditions of native peoples worldwide, rooted in land, ancestors, and oral tradition. Learn about beliefs and practices."
 category: everyday-concepts
 tags: ["indigenous religions", "spirituality", "animism", "oral tradition", "native peoples"]
-heroImage: "/images/articles/indigenous-religions.webp"
+heroImage: "/images/articles/indigenous-religions-hero.webp"
 heroAlt: "Editorial photograph representing the concept of indigenous religions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

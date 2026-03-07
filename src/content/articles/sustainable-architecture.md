@@ -4,7 +4,7 @@ slug: sustainable-architecture
 description: "Sustainable architecture is designing buildings that minimize environmental impact through energy efficiency, smart materials, and integration with natural."
 category: technology
 tags: ["architecture", "sustainable architecture", "green building", "energy efficiency", "environmental design"]
-heroImage: "/images/articles/sustainable-architecture.webp"
+heroImage: "/images/articles/sustainable-architecture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sustainable architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "LEED (Leadership in Energy and Environmental Design) is the most widely used green building rating system globally. Developed by the U.S. Green Building Council, it awards points for energy efficiency, water conservation, materials, indoor quality, and site design across four certification levels: Certified, Silver, Gold, and Platinum."
 ---
 
+# What Is Sustainable Architecture?
 Sustainable [architecture](/architecture) is the practice of designing buildings and built environments to minimize negative environmental impact while maximizing the health, comfort, and well-being of occupants — through energy efficiency, responsible material selection, water conservation, and thoughtful integration with natural systems.
 
 Buildings are quietly one of the biggest environmental problems we have. They account for about 39% of all carbon emissions in the United States — 28% from operations (heating, cooling, lighting, appliances) and 11% from [construction](/construction) materials and processes. Globally, the numbers are similar. If you care about climate change, you can't ignore buildings. Sustainable architecture is the discipline that says: we can do this differently.

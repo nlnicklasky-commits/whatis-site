@@ -4,7 +4,7 @@ slug: marine-archeology
 description: "Marine archeology studies human interaction with the sea through submerged artifacts, shipwrecks, and underwater ruins. Discover its methods and finds."
 category: history
 tags: ["archaeology", "marine archeology", "shipwrecks"]
-heroImage: "/images/articles/marine-archeology.webp"
+heroImage: "/images/articles/marine-archeology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marine archeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

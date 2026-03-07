@@ -1,7 +1,7 @@
 ---
 title: "What Is Lichenology?"
 slug: lichenology
-description: "Lichenology is the study of lichens, organisms formed by symbiosis between fungi and algae. Learn about lichen biology, ecology, and uses."
+description: "Lichenology is the study of lichens, organisms formed by symbiosis between fungi and algae. Learn about lichen biology, ecology, and uses. Discover the key f..."
 category: science
 tags: ["lichenology", "lichens", "symbiosis", "biology", "ecology", "fungi", "algae"]
 heroImage: "/images/articles/lichenology-hero.webp"

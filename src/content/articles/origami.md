@@ -4,7 +4,7 @@ slug: origami
 description: "Origami is the Japanese art of paper folding, creating sculptures from a single sheet without cuts. Learn about its history, techniques, and modern uses."
 category: everyday-concepts
 tags: ["origami", "paper art", "Japanese culture", "folding", "mathematics", "craft"]
-heroImage: "/images/articles/origami.webp"
+heroImage: "/images/articles/origami-hero.webp"
 heroAlt: "Editorial photograph representing the concept of origami"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What is the most famous origami model?"
     a: "The paper crane (orizuru) is origami's most iconic model. In Japanese tradition, folding 1,000 cranes (senbazuri) grants a wish. The symbol gained international recognition through Sadako Sasaki, a Hiroshima bombing survivor who folded cranes while ill with leukemia. The crane has become a global symbol of peace and hope."
   - q: "Can origami be done with any paper?"
-    a: "Technically yes, but results vary greatly. Standard origami paper (kami) is thin, square, colored on one side, and holds creases well. Specialized papers include washi (Japanese handmade paper), tant (thick and crisp), and tissue foil (tissue paper backed with metal foil) for complex models. Regular printer paper works for simple models but is too thick for intricate designs."
+    a: "Technically yes, but results vary greatly. Standard origami paper (kami) is thin, square, colored on one side, and holds creases well. Specialized papers include washi (Japanese handmade paper), tant (thick and crisp), and tissue foil (tissue paper backed with metal foil) for complex models. Regular printer paper works for simple models but is too thick for elaborate designs."
   - q: "How is origami used in science and engineering?"
     a: "NASA has used origami folding patterns to design solar panels that collapse compactly for launch and unfold in space. Medical researchers use origami-inspired designs for stents that expand inside blood vessels. Airbag engineers use origami-based folding for compact deployment. The Miura fold, invented by astrophysicist Koryo Miura, allows flat-packed structures to unfold with a single pull."
 ---

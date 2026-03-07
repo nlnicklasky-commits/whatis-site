@@ -4,7 +4,7 @@ slug: social-darwinism
 description: "Social Darwinism misapplied evolutionary theory to justify inequality and competition in human societies. Learn its history, arguments, and why it's wrong."
 category: everyday-concepts
 tags: ["social darwinism", "evolution", "sociology", "Herbert Spencer", "history", "ethics"]
-heroImage: "/images/articles/social-darwinism.webp"
+heroImage: "/images/articles/social-darwinism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social darwinism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Social Darwinism was a set of ideas popular in the late 19th and early 20th centuries that misapplied Charles Darwin's theory of biological evolution to human societies. Its core claim: just as nature selects the fittest organisms to survive and reproduce, human societies are naturally competitive, and the wealthy and powerful deserve their position because they're the "fittest." The poor, the weak, and the colonized are simply losers in the natural order.
 
-It's important to state clearly: Social Darwinism is bad science, bad [philosophy](/philosophy), and bad [ethics](/ethics). It misunderstands [evolutionary biology](/evolutionary-[biology](/biology)), commits a basic logical error (assuming what is natural is therefore right), and was used to justify horrific policies including forced sterilization, racial oppression, and genocide. Understanding it matters not because it has merit, but because its influence was enormous and its echoes persist.
+It's important to state clearly: Social Darwinism is bad science, bad [philosophy](/philosophy), and bad [ethics](/ethics). It misunderstands [evolutionary biology](/human-evolution)), commits a basic logical error (assuming what is natural is therefore right), and was used to justify horrific policies including forced sterilization, racial oppression, and genocide. Understanding it matters not because it has merit, but because its influence was enormous and its echoes persist.
 
 ## The Ideas
 

@@ -4,7 +4,7 @@ slug: media-studies
 description: "Media studies is the academic field examining how media shapes society, culture, and politics. Learn about theories, methods, and career applications."
 category: arts-amp-culture
 tags: ["media studies", "communications", "journalism", "cultural studies", "media literacy", "mass media"]
-heroImage: "/images/articles/media-studies.webp"
+heroImage: "/images/articles/media-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of media studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

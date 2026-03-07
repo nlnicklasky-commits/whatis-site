@@ -1,7 +1,7 @@
 ---
 title: "What Is Cartography?"
 slug: cartography
-description: "Cartography is the science and art of making maps, from ancient hand-drawn charts to modern GIS and satellite-based digital mapping systems."
+description: "Cartography is the science and art of making maps, from ancient hand-drawn charts to modern GIS and satellite-based digital mapping systems. Discover the key..."
 category: science
 tags: ["cartography", "maps", "geography", "gis", "mapping", "geographic information", "spatial data"]
 heroImage: "/images/articles/cartography-hero.webp"

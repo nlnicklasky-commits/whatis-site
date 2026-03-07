@@ -1,10 +1,10 @@
 ---
 title: "What Is Canadian History?"
 slug: canadian-history
-description: "Canadian history traces the development of Canada from Indigenous civilizations through European colonization, confederation, and modern nationhood."
+description: "Canadian history traces the development of Canada from Indigenous civilizations through European colonization, confederation, and modern nationhood. Discover..."
 category: history
 tags: ["canadian history", "canada", "indigenous peoples", "confederation"]
-heroImage: "/images/articles/canadian-history.webp"
+heroImage: "/images/articles/canadian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of canadian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Residential schools were government-funded, church-run boarding schools that forcibly removed Indigenous children from their families between the 1880s and 1996. The system aimed to assimilate Indigenous children into Euro-Canadian culture. The Truth and Reconciliation Commission documented widespread physical, sexual, and emotional abuse, calling the system cultural genocide."
 ---
 
+# What Is Canadian History?
 Canadian history is the story of the land, peoples, and events that shaped Canada — from Indigenous civilizations stretching back over 14,000 years through European colonization, confederation, and the emergence of a modern multicultural nation spanning the world's second-largest landmass.
 
 There's a running joke that Canadian history is boring. That's completely wrong. It includes Viking landings a thousand years ago, fur trade empires spanning half a continent, armed rebellions, forced cultural destruction, world-shaping military contributions, and ongoing struggles over identity and reconciliation. The story just gets told quietly — which is, in fairness, very Canadian.

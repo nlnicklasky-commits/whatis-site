@@ -4,7 +4,7 @@ slug: ophthalmology
 description: "Ophthalmology is the medical specialty for eye diseases and vision disorders. Learn about common conditions, treatments, eye surgery, and when to see one."
 category: health-amp-wellness
 tags: ["ophthalmology", "eye care", "eye diseases", "vision"]
-heroImage: "/images/articles/ophthalmology.webp"
+heroImage: "/images/articles/ophthalmology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ophthalmology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What is the difference between an ophthalmologist and an optometrist?"
     a: "An ophthalmologist is a medical doctor (MD or DO) who completed medical school, a one-year internship, and a three-year ophthalmology residency. They can diagnose and treat all eye diseases, prescribe medications, and perform surgery. An optometrist (OD) completes a four-year Doctor of Optometry program after college and focuses on vision testing, prescribing glasses and contacts, and diagnosing common eye conditions. Optometrists refer complex cases and surgical needs to ophthalmologists."
   - q: "How often should you get an eye exam?"
-    a: "The American Academy of Ophthalmology recommends a baseline comprehensive eye exam at age 40, when early signs of disease or vision changes may appear. Before 40, adults with no risk factors should have exams every 5-10 years. After 40, every 2-4 years. After 55, every 1-3 years. After 65, every 1-2 years. People with diabetes, a family history of glaucoma, or other risk factors should be examined more frequently — typically annually."
+    a: "The American Academy of Ophthalmology recommends a baseline thorough eye exam at age 40, when early signs of disease or vision changes may appear. Before 40, adults with no risk factors should have exams every 5-10 years. After 40, every 2-4 years. After 55, every 1-3 years. After 65, every 1-2 years. People with diabetes, a family history of glaucoma, or other risk factors should be examined more frequently — typically annually."
   - q: "What is LASIK surgery and who is a good candidate?"
     a: "LASIK (Laser-Assisted in Situ Keratomileusis) is a refractive surgery that reshapes the cornea to correct nearsightedness, farsightedness, and astigmatism. A laser creates a thin flap in the cornea, reshapes the underlying tissue, then repositions the flap. Good candidates are generally 18 or older, have had a stable prescription for at least a year, have healthy corneas of adequate thickness, and don't have certain conditions like keratoconus or severe dry eye. About 96% of patients achieve 20/20 vision or better."
   - q: "Can glaucoma be cured?"

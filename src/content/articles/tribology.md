@@ -4,7 +4,7 @@ slug: tribology
 description: "Tribology is the science of friction, lubrication, and wear between surfaces in relative motion. Learn how tribology shapes engineering, energy use, and design."
 category: science
 tags: ["tribology", "friction", "lubrication", "wear"]
-heroImage: "/images/articles/tribology.webp"
+heroImage: "/images/articles/tribology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tribology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "Why is tribology important?"
     a: "Friction and wear cost the global economy an estimated 6% of GDP annually — roughly $6 trillion. About 23% of the world's total energy consumption goes to overcoming friction. In mechanical systems, 80% of component failures are caused by wear. Tribology provides the science to reduce these losses through better lubricants, coatings, surface treatments, and material selection. Even modest improvements in tribological performance translate to billions of dollars in savings and significant reductions in energy use and emissions."
   - q: "What is the difference between static and kinetic friction?"
-    a: "Static friction is the force that prevents a stationary object from starting to move — it's what keeps a book from sliding off a tilted surface. Kinetic (or dynamic) friction is the force that resists motion once the object is already moving. Static friction is typically higher than kinetic friction for the same materials, which is why it takes more force to start pushing a heavy box than to keep it moving."
+    a: "Static friction is the force that prevents a stationary object from starting to move — it's what keeps a book from sliding off a tilted surface. Kinetic (or energetic) friction is the force that resists motion once the object is already moving. Static friction is typically higher than kinetic friction for the same materials, which is why it takes more force to start pushing a heavy box than to keep it moving."
   - q: "What does a tribologist do?"
     a: "Tribologists study how surfaces interact when they slide, roll, or press against each other. They work in industries including automotive (engine lubrication, brake design), aerospace (bearing systems, space mechanisms), manufacturing (tool wear, cutting fluids), biomedical (artificial joint materials), and energy (wind turbine bearings, drilling equipment). They combine expertise in physics, chemistry, materials science, and mechanical engineering."
   - q: "Can friction ever be zero?"

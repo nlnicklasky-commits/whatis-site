@@ -1,10 +1,10 @@
 ---
 title: "What Is Running?"
 slug: running
-description: "Running is the most natural form of human locomotion beyond walking. Learn about technique, training, health benefits, and racing distances."
+description: "Running is the most natural form of human locomotion beyond walking. Learn about technique, training, health benefits, and racing distances. Discover the key..."
 category: sports
 tags: ["exercise", "fitness", "cardio", "marathon", "running", "track and field"]
-heroImage: "/images/articles/running.webp"
+heroImage: "/images/articles/running-hero.webp"
 heroAlt: "Editorial photograph representing the concept of running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

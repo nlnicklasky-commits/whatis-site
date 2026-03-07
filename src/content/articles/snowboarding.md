@@ -1,10 +1,10 @@
 ---
 title: "What Is Snowboarding?"
 slug: snowboarding
-description: "Snowboarding is a winter sport where you ride a single board down snow-covered slopes. Learn about styles, equipment, history, and getting started."
+description: "Snowboarding is a winter sport where you ride a single board down snow-covered slopes. Learn about styles, equipment, history, and getting started. Discover ..."
 category: sports
 tags: ["snowboarding", "winter sports", "snow", "halfpipe", "freestyle", "mountain"]
-heroImage: "/images/articles/snowboarding.webp"
+heroImage: "/images/articles/snowboarding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of snowboarding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

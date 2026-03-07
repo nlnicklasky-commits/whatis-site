@@ -1,10 +1,10 @@
 ---
 title: "What Is Intellectual Property Law?"
 slug: intellectual-property-law
-description: "Intellectual property law protects creations of the mind through patents, copyrights, trademarks, and trade secrets. Learn how each type works."
+description: "Intellectual property law protects creations of the mind through patents, copyrights, trademarks, and trade secrets. Learn how each type works. Discover the ..."
 category: everyday-concepts
 tags: ["intellectual property law", "patents", "copyright", "trademarks", "legal"]
-heroImage: "/images/articles/intellectual-property-law.webp"
+heroImage: "/images/articles/intellectual-property-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of intellectual property law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

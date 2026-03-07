@@ -4,7 +4,7 @@ slug: jainism
 description: "Jainism is an ancient Indian religion emphasizing non-violence, truth, and asceticism. Learn about its beliefs, practices, and 4 million followers worldwide."
 category: religion
 tags: ["jainism", "religion", "non-violence", "ahimsa", "Indian religion"]
-heroImage: "/images/articles/jainism.webp"
+heroImage: "/images/articles/jainism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jainism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

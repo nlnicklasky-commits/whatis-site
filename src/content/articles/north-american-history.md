@@ -4,7 +4,7 @@ slug: north-american-history
 description: "North American history spans thousands of years, from Indigenous civilizations to modern nations. Learn about key events, peoples, and turning points."
 category: history
 tags: ["north american history", "american history", "canadian history", "indigenous peoples"]
-heroImage: "/images/articles/north-american-history.webp"
+heroImage: "/images/articles/north-american-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of north american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

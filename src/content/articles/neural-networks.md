@@ -1,10 +1,10 @@
 ---
 title: "What Is Neural Networks?"
 slug: neural-networks
-description: "Neural networks are computing systems inspired by the human brain that learn from data. Learn how they work, their types, and real-world uses."
+description: "Neural networks are computing systems inspired by the human brain that learn from data. Learn how they work, their types, and real-world uses. Discover the k..."
 category: everyday-concepts
 tags: ["neural networks", "machine learning", "artificial intelligence", "deep learning", "data science", "algorithms"]
-heroImage: "/images/articles/neural-networks.webp"
+heroImage: "/images/articles/neural-networks-hero.webp"
 heroAlt: "Editorial photograph representing the concept of neural networks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "How many layers does a neural network need?"
     a: "It depends on the task. Simple problems might need just one hidden layer with a few neurons. Complex tasks like image recognition or language processing may use hundreds of layers with millions or billions of parameters. The term 'deep learning' refers to neural networks with many layers — typically more than three."
   - q: "Do neural networks actually work like the brain?"
-    a: "Only loosely. Artificial neurons are vastly simplified compared to biological neurons. Real neurons communicate through complex electrochemical signals, form intricate three-dimensional connections, and operate in ways we still don't fully understand. Neural networks borrow the general concept of interconnected processing units but are fundamentally mathematical models, not biological simulations."
+    a: "Only loosely. Artificial neurons are vastly simplified compared to biological neurons. Real neurons communicate through complex electrochemical signals, form involved three-dimensional connections, and operate in ways we still don't fully understand. Neural networks borrow the general concept of interconnected processing units but are fundamentally mathematical models, not biological simulations."
 ---
 
 # What Is Neural Networks?
@@ -53,7 +53,7 @@ A neural network is organized into layers.
 
 The magic is in the weights. Initially, they're set randomly, so the network's guesses are essentially random too. But during training, [an algorithm](/algorithms) called backpropagation calculates how much each weight contributed to the error and adjusts it accordingly. Do this millions of times across thousands of examples, and the weights gradually converge on values that produce accurate predictions.
 
-The math behind this is mostly [calculus](/calculus) and [linear algebra](/linear-[algebra](/algebra)) — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
+The math behind this is mostly [calculus](/calculus) and [linear algebra](/millinery)) — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
 
 ## Types of Neural Networks
 

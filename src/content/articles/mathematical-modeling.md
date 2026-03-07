@@ -1,7 +1,7 @@
 ---
 title: "What Is Mathematical Modeling?"
 slug: mathematical-modeling
-description: "Mathematical modeling translates real-world problems into equations to simulate, predict, and optimize systems from disease to climate."
+description: "Mathematical modeling translates real-world problems into equations to simulate, predict, and optimize systems from disease to climate. Discover the key fact..."
 category: science
 tags: ["mathematical modeling", "simulation", "mathematics", "applied math", "differential equations", "optimization", "prediction"]
 heroImage: "/images/articles/mathematical-modeling-hero.webp"

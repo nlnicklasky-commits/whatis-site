@@ -4,7 +4,7 @@ slug: latin-language
 description: "Latin is the ancient language of Rome that shaped Western civilization, law, science, and modern Romance languages. Learn about its history and influence."
 category: everyday-concepts
 tags: ["Latin language", "ancient Rome", "linguistics", "Romance languages", "classical education"]
-heroImage: "/images/articles/latin-language.webp"
+heroImage: "/images/articles/latin-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the latin language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

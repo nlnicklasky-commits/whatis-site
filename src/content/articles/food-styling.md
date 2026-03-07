@@ -1,10 +1,10 @@
 ---
 title: "What Is Food Styling?"
 slug: food-styling
-description: "Food styling is the art of arranging food to look appealing for photography and video. Learn about techniques, tools, and career paths in the field."
+description: "Food styling is the art of arranging food to look appealing for photography and video. Learn about techniques, tools, and career paths in the field. Discover..."
 category: arts-amp-culture
 tags: ["food", "photography", "culinary arts", "visual arts", "marketing", "styling"]
-heroImage: "/images/articles/food-styling.webp"
+heroImage: "/images/articles/food-styling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of food styling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Culinary skills are essential — you need to cook well and understand how different foods behave. Visual composition, color theory, and attention to detail are critical. Knowledge of photography helps you work effectively with photographers. Patience is mandatory — styling a single shot can take hours. Most successful food stylists have culinary school training or extensive kitchen experience."
 ---
 
-# What Is Food Styling?
+# What Is [Food](/food-writing) Styling?
 
 Food styling is the specialized practice of preparing and arranging food so it looks as appealing as possible for photographs, video, film, and advertising. Every gorgeous food image you've ever seen — in cookbooks, magazines, Instagram posts, commercials, and restaurant menus — involved someone carefully arranging, adjusting, and perfecting the food before the camera clicked. Food styling sits at the intersection of [cooking](/cooking), visual art, and commercial production.
 
@@ -39,7 +39,7 @@ Here's the thing about food that most people don't think about: it doesn't natur
 
 Food stylists solve these problems through a combination of culinary skill, technical knowledge, and creative tricks.
 
-**Undercooking** is standard practice. A burger patty in a photo is usually cooked only on the outside — raw in the center — because a fully cooked patty shrinks and looks dry. Pasta is slightly undercooked so it holds its shape. Vegetables are blanched briefly to achieve vibrant color without the limpness that comes with full cooking.
+**Undercooking** is standard practice. A burger patty in a photo is usually cooked only on the outside — raw in the center — because a fully cooked patty shrinks and looks dry. Pasta is slightly undercooked so it holds its shape. Vegetables are blanched briefly to achieve vibrant color without the limpness that comes with full [cooking](/gourmet-cooking).
 
 **Propping and positioning** involve tweezers, toothpicks, cotton balls, and other tools to arrange food precisely. Individual sesame seeds are placed on buns with tweezers. Toothpicks hold towering sandwiches together. Cotton balls soaked in water are microwaved and tucked behind dishes to produce steam on command.
 
@@ -81,7 +81,7 @@ The most successful food content creators combine genuine cooking skill with str
 
 ## Becoming a Food Stylist
 
-Most food stylists come from culinary backgrounds — culinary school, restaurant kitchens, or catering. Some come from photography or design backgrounds and learn the food side. The field has no formal certification or licensing.
+Most food stylists come from culinary backgrounds — culinary school, restaurant kitchens, or catering. Some come from photography or [design](/graphic-design) backgrounds and learn the food side. The field has no formal certification or licensing.
 
 Breaking in typically involves assisting established stylists — carrying equipment, shopping for props, and learning techniques on set. The apprenticeship model remains strong because so much of food styling is hands-on knowledge that's difficult to learn from books or videos.
 

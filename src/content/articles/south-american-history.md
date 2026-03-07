@@ -4,7 +4,7 @@ slug: south-american-history
 description: "South American history spans thousands of years, from ancient civilizations like the Inca to colonialism and modern independence. Here's the full story."
 category: history
 tags: ["south american history", "latin america", "history", "colonialism"]
-heroImage: "/images/articles/south-american-history.webp"
+heroImage: "/images/articles/south-american-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of south american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

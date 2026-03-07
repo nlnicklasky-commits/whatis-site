@@ -1,10 +1,10 @@
 ---
 title: "What Is Mexican History?"
 slug: mexican-history
-description: "Mexican history spans ancient Mesoamerican civilizations through Spanish colonization to modern democracy. Explore the events that shaped Mexico."
+description: "Mexican history spans ancient Mesoamerican civilizations through Spanish colonization to modern democracy. Explore the events that shaped Mexico. Discover th..."
 category: history
 tags: ["history", "mexico", "latin america"]
-heroImage: "/images/articles/mexican-history.webp"
+heroImage: "/images/articles/mexican-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mexican history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

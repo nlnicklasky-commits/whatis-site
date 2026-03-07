@@ -4,7 +4,7 @@ slug: latin-american-history
 description: "Latin American history covers indigenous civilizations, European colonization, independence movements, and modern struggles across Central and South America."
 category: history
 tags: ["colonialism", "latin america", "history", "indigenous peoples", "independence movements"]
-heroImage: "/images/articles/latin-american-history.webp"
+heroImage: "/images/articles/latin-american-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of latin american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "The Monroe Doctrine, declared by U.S. President James Monroe in 1823, opposed European colonization in the Americas. In practice, it became justification for U.S. intervention throughout Latin America during the 19th and 20th centuries, influencing politics, economics, and military conflicts across the region."
 ---
 
+# What Is Latin American History?
 Latin [American history](/american-history) is the study of the peoples, events, and forces that shaped the vast region stretching from Mexico through Central America, the Caribbean, and South America. It covers roughly 15,000 years of human experience — from the earliest migrations into the Western Hemisphere to the political and social movements of the 21st century.
 
 That's a staggering span of time and geography. And frankly, most people only know fragments of it. The Aztecs. The conquistadors. Maybe something about banana republics. But the full story is far richer — and more relevant to the modern world — than those scattered pieces suggest.
@@ -83,7 +84,7 @@ The 20th century brought revolution, military dictatorships, and the Cold War to
 
 The Mexican Revolution (1910-1920) was the first major social revolution of the century. It killed roughly one million people and produced the 1917 constitution, which included radical provisions on land reform, labor rights, and limits on the Catholic Church's power.
 
-Cuba's 1959 revolution, led by Fidel Castro and Che Guevara, transformed the island into a socialist state and made it a flashpoint for Cold War tensions. The Cuban Missile Crisis of 1962 brought the world closer to nuclear war than perhaps any other moment in [history](/history).
+Cuba's 1959 revolution, led by Fidel Castro and Che Guevara, transformed the island into a socialist state and made it a flashpoint for Cold War tensions. The Cuban Missile Crisis of 1962 brought the world closer to nuclear war than perhaps any other moment in [history](/histology).
 
 The Cold War era was devastating for Latin America. The United States supported military coups and authoritarian regimes across the region — in Guatemala (1954), Brazil (1964), Chile (1973), Argentina (1976), and elsewhere. The rationale was containing communism, but the consequences included thousands of political killings, forced disappearances, and the suppression of democratic movements.
 
@@ -103,7 +104,7 @@ The early 2000s brought the "Pink Tide," as left-leaning governments rose to pow
 
 ## Cultural Identity: The Blending of Worlds
 
-One of the most fascinating aspects of Latin American history is the cultural synthesis that emerged from the collision of indigenous, African, and European traditions. This isn't just academic — it shapes music, food, religion, [art](/arts-amp-culture), and daily life across the region.
+One of the most fascinating aspects of Latin American history is the cultural synthesis that emerged from the collision of indigenous, African, and European traditions. This isn't just academic — it shapes music, food, religion, [art](/circus-arts), and daily life across the region.
 
 Syncretic religions like Santeria (Cuba), Candomble (Brazil), and the veneration of indigenous saints in Mexico blend Catholic and African or indigenous spiritual traditions. Day of the Dead celebrations in Mexico weave pre-Columbian ancestor worship with Catholic All Saints' Day.
 

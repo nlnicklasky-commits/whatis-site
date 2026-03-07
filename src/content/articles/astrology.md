@@ -203,7 +203,7 @@ The astrology industry is worth an estimated $2.2 billion in the US alone. Astro
 
 Professional astrologers argue that newspaper horoscopes are a trivialized version of a sophisticated interpretive art. Serious astrologers spend years studying chart interpretation and claim their work is closer to counseling than prediction. Some have graduate degrees and professional certifications through organizations like the International Society for Astrological Research.
 
-Skeptics counter that sophistication doesn't equal validity. A detailed, nuanced reading of a natal chart may be psychologically engaging, but no level of interpretive skill can make a false premise true. If planetary positions don't influence personality, then more detailed analysis of those positions doesn't help.
+Skeptics counter that sophistication doesn't equal validity. A detailed, subtle reading of a natal chart may be psychologically engaging, but no level of interpretive skill can make a false premise true. If planetary positions don't influence personality, then more detailed analysis of those positions doesn't help.
 
 ## The Relationship Between Astrology and Astronomy
 

@@ -4,7 +4,7 @@ slug: theatrical-history
 description: "Theatrical history traces the evolution of live performance from ancient Greece to modern Broadway. Learn the key eras, movements, and turning points."
 category: arts-amp-culture
 tags: ["theatrical history", "theatre", "drama", "performance", "stage", "acting"]
-heroImage: "/images/articles/theatrical-history.webp"
+heroImage: "/images/articles/theatrical-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of theatrical history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

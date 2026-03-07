@@ -4,7 +4,7 @@ slug: sustainable-agriculture
 description: "Sustainable agriculture is farming that meets current food needs without compromising future generations' ability to do the same, balancing ecology and profit."
 category: science
 tags: ["environmental science", "sustainable agriculture", "farming", "ecology", "food systems", "soil science"]
-heroImage: "/images/articles/sustainable-agriculture.webp"
+heroImage: "/images/articles/sustainable-agriculture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sustainable agriculture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Regenerative agriculture goes beyond sustainability — it aims to actively restore degraded ecosystems. Key practices include minimal tillage, diverse cover crops, managed grazing, composting, and eliminating synthetic inputs. The goal is to rebuild soil organic matter, sequester carbon, and increase biodiversity."
 ---
 
+# What Is Sustainable Agriculture?
 Sustainable agriculture is a system of farming that produces food, fiber, and other agricultural products while maintaining ecological health, economic profitability, and social equity — meeting present needs without undermining the ability of future generations to meet theirs.
 
 That definition sounds abstract, so here's the concrete version: it's farming that doesn't wreck the soil, poison the water, or bankrupt the farmer. Which, frankly, is a higher bar than a lot of modern [agriculture](/agriculture) manages to clear.
@@ -149,7 +150,7 @@ The Rodale Institute's 40-year Farming Systems Trial — the longest-running com
 
 Sustainable agriculture isn't anti-technology. Many of the most promising sustainability improvements come from technology.
 
-**Precision agriculture** uses GPS, sensors, [drones](/aerospace-[engineering](/engineering)), and data analytics to apply inputs (fertilizer, water, pesticides) exactly where and when they're needed, reducing waste and environmental impact. Variable-rate technology can adjust fertilizer application within a single field based on soil test maps, applying more where needed and less where it's not.
+**Precision agriculture** uses GPS, sensors, [drones](/aerodynamics)), and data analytics to apply inputs (fertilizer, water, pesticides) exactly where and when they're needed, reducing waste and environmental impact. Variable-rate technology can adjust fertilizer application within a single field based on soil test maps, applying more where needed and less where it's not.
 
 **Soil carbon measurement** tools are improving rapidly, which matters because soil carbon is both an indicator of soil health and a potential climate solution. Healthy soils sequester carbon from the atmosphere; degraded soils release it.
 

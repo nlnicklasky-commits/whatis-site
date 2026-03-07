@@ -1,10 +1,10 @@
 ---
 title: "What Is Telecommunication?"
 slug: telecommunication
-description: "Telecommunication is the transmission of information over distances using electronic or electromagnetic signals, from phone calls to internet data."
+description: "Telecommunication is the transmission of information over distances using electronic or electromagnetic signals, from phone calls to internet data. Discover ..."
 category: technology
 tags: ["telecommunication", "communication", "networks", "data transmission"]
-heroImage: "/images/articles/telecommunication.webp"
+heroImage: "/images/articles/telecommunication-hero.webp"
 heroAlt: "Editorial photograph representing the concept of telecommunication"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "Yes, gradually. The number of U.S. households with landlines has dropped from over 90% in 2004 to under 30%. Many traditional copper phone networks are being decommissioned. However, the underlying infrastructure is being replaced by Voice over IP (VoIP) carried over broadband connections, so 'landline' service continues even as the technology changes."
 ---
 
+# What Is Telecommunication?
 Telecommunication is the transmission of information — voice, data, text, images, video — across distances using electronic, electromagnetic, or optical signals. It encompasses everything from a phone call to a livestream, from a text message to a satellite broadcast, from an email to a video conference connecting people on opposite sides of the planet.
 
 The word comes from the Greek "tele" (far) and the Latin "communicare" (to share). Sharing information across distances. That's really all it is. But the technology, infrastructure, and systems that make it possible are among the most complex and far-reaching things humanity has ever built. There are currently over 1.4 million kilometers of submarine fiber optic cable on the ocean floor — enough to circle the Earth 35 times — and that's just the underwater portion of the global telecommunications network.
@@ -152,7 +153,7 @@ Telecommunications is one of the most heavily regulated industries in the world,
 
 Telecommunications is a capital-intensive industry. Building networks requires enormous upfront investment — laying fiber, erecting cell towers, launching satellites — with revenue coming gradually over years of service.
 
-Global telecom revenue reached approximately $1.8 trillion in 2023. The industry employs millions of people worldwide and underpins virtually every other industry's operations.
+Global telecom revenue reached approximately $1.8 trillion in 2023. The industry employs millions of people worldwide and drives virtually every other industry's operations.
 
 Consolidation has been a persistent trend. The number of major telecom providers in most countries has declined through mergers and acquisitions. In the United States, three carriers (AT&T, Verizon, T-Mobile) now control the vast majority of the wireless market, down from dozens in the early cellular era.
 

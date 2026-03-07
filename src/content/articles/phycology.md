@@ -1,7 +1,7 @@
 ---
 title: "What Is Phycology?"
 slug: phycology
-description: "Phycology is the scientific study of algae. Learn about these diverse organisms, from microscopic phytoplankton to giant kelp, and why they matter."
+description: "Phycology is the scientific study of algae. Learn about these diverse organisms, from microscopic phytoplankton to giant kelp, and why they matter. Discover ..."
 category: science
 tags: ["algae", "biology", "marine biology", "ecology", "photosynthesis", "biofuels", "aquatic ecosystems"]
 heroImage: "/images/articles/phycology-hero.webp"
@@ -79,7 +79,7 @@ Sargassum, a genus of floating brown algae, creates the Sargasso Sea --- a 2-mil
 
 ### Diatoms (Bacillariophyta)
 
-Diatoms are single-celled algae encased in intricate glass (silicon dioxide) shells called frustules. Under a microscope, they're jaw-droppingly beautiful --- geometric patterns of stunning complexity, like microscopic snowflakes.
+Diatoms are single-celled algae encased in complex glass (silicon dioxide) shells called frustules. Under a microscope, they're jaw-droppingly beautiful --- geometric patterns of stunning complexity, like microscopic snowflakes.
 
 There are an estimated 100,000 diatom species, making them one of the most species-rich groups of organisms on Earth. They're also staggeringly abundant: diatoms are responsible for roughly 20% of global photosynthesis. That means roughly one in five breaths of oxygen you take exists because of diatoms.
 

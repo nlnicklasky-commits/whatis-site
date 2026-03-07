@@ -4,7 +4,7 @@ slug: walking
 description: "Walking is the most basic human exercise — free, low-impact, and surprisingly effective. Learn about its health benefits, proper form, and how much you need."
 category: health-amp-wellness
 tags: ["walking", "exercise", "fitness", "health", "physical activity"]
-heroImage: "/images/articles/walking.webp"
+heroImage: "/images/articles/walking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of walking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -87,7 +87,7 @@ Walking after meals lowers blood sugar spikes. A 2016 study in *Diabetologia* fo
 
 Here's a fun fact: the 10,000-step target that dominates [fitness](/fitness) trackers worldwide has no medical origin. It came from a 1965 Japanese [marketing](/marketing) campaign for a pedometer called the Manpo-kei, which translates to "10,000 steps meter." The number was chosen because it sounded good, not because of any health research.
 
-Actual research paints a more nuanced picture. A 2019 study in *JAMA Internal Medicine* found that among older women, significant mortality benefits began at just 4,400 steps per day. Benefits continued to increase up to about 7,500 steps, then leveled off. For younger adults, research suggests benefits continue up to about 8,000-10,000 steps but show diminishing returns beyond that.
+Actual research paints a more layered picture. A 2019 study in *JAMA Internal Medicine* found that among older women, significant mortality benefits began at just 4,400 steps per day. Benefits continued to increase up to about 7,500 steps, then leveled off. For younger adults, research suggests benefits continue up to about 8,000-10,000 steps but show diminishing returns beyond that.
 
 The takeaway: more steps are generally better, but perfection isn't necessary. Going from 2,000 steps to 5,000 steps per day provides more health benefit than going from 8,000 to 12,000.
 

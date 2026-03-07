@@ -4,7 +4,7 @@ slug: international-development
 description: "International development works to reduce poverty and improve living standards in lower-income countries. Learn about aid, goals, and major organizations."
 category: everyday-concepts
 tags: ["international development", "poverty reduction", "global health", "sustainable development", "ngos", "humanitarian aid"]
-heroImage: "/images/articles/international-development.webp"
+heroImage: "/images/articles/international-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of international development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

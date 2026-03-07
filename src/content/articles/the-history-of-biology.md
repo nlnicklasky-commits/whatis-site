@@ -4,7 +4,7 @@ slug: the-history-of-biology
 description: "The history of biology traces our understanding of life from Aristotle's classifications to DNA sequencing. Learn about evolution, genetics, and key figures."
 category: history
 tags: ["history of biology", "biology", "evolution", "genetics", "darwin"]
-heroImage: "/images/articles/the-history-of-biology.webp"
+heroImage: "/images/articles/the-history-of-biology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

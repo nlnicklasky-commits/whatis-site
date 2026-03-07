@@ -1,10 +1,10 @@
 ---
 title: "What Is Law?"
 slug: law
-description: "Law is the system of rules a society creates and enforces to regulate behavior, protect rights, resolve disputes, and maintain order."
+description: "Law is the system of rules a society creates and enforces to regulate behavior, protect rights, resolve disputes, and maintain order. Discover the key facts,..."
 category: law
 tags: ["legal system", "law", "justice", "governance", "civil rights", "courts"]
-heroImage: "/images/articles/law.webp"
+heroImage: "/images/articles/law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Yes. History is full of examples — slavery laws, apartheid, Jim Crow segregation. Legal philosophers have long debated whether an unjust law is truly 'law' at all. The natural law tradition argues that law must align with moral principles to be legitimate, while legal positivists maintain that law and morality are separate questions."
 ---
 
+# What Is Law?
 Law is the system of rules that a society or [government](/government) creates, recognizes, and enforces to regulate behavior, protect individual rights, and resolve disputes. It's the framework that separates ordered civilization from chaos — though, honestly, it's messier and more interesting than that tidy definition suggests.
 
 Think of it this way: every society, from the smallest village to the largest nation, needs agreed-upon rules. Who owns what? What happens when someone harms another person? How do we make collective decisions? Law answers these questions — imperfectly, often controversially, but persistently.

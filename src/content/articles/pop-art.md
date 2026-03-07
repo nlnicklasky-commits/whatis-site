@@ -1,10 +1,10 @@
 ---
 title: "What Is Pop Art?"
 slug: pop-art
-description: "Pop Art is an art movement that drew from advertising, comics, and consumer goods. Learn about Warhol, Lichtenstein, and why it changed art."
+description: "Pop Art is an art movement that drew from advertising, comics, and consumer goods. Learn about Warhol, Lichtenstein, and why it changed art. Discover the key..."
 category: arts-amp-culture
 tags: ["pop art", "andy warhol", "roy lichtenstein", "richard hamilton", "mass culture", "consumerism"]
-heroImage: "/images/articles/pop-art.webp"
+heroImage: "/images/articles/pop-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pop art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

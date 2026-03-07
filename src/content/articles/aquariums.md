@@ -1,10 +1,10 @@
 ---
 title: "What Is Aquariums?"
 slug: aquariums
-description: "An aquarium is a transparent container or facility housing aquatic organisms. Learn about home fishkeeping, public aquariums, and tank setup basics."
+description: "An aquarium is a transparent container or facility housing aquatic organisms. Learn about home fishkeeping, public aquariums, and tank setup basics. Discover..."
 category: everyday-concepts
 tags: ["aquarium", "fishkeeping", "aquascape", "marine biology", "fish", "pets"]
-heroImage: "/images/articles/aquariums.webp"
+heroImage: "/images/articles/aquariums-hero.webp"
 heroAlt: "Editorial photograph representing the concept of aquariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

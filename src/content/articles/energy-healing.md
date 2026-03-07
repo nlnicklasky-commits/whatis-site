@@ -4,7 +4,7 @@ slug: energy-healing
 description: "Energy healing is a set of practices claiming to channel healing energy to restore health. Explore its types, claims, evidence, and what science says."
 category: everyday-concepts
 tags: ["energy healing", "everyday-concepts"]
-heroImage: "/images/articles/energy-healing.webp"
+heroImage: "/images/articles/energy-healing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of energy healing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -51,7 +51,7 @@ A famous 1998 study published in *JAMA* tested whether TT practitioners could ac
 
 **Pranic healing** teaches that the body has a "pranic" (energy) body that extends beyond the physical body. Practitioners scan this field with their hands, identify problem areas, and use sweeping and energizing techniques to clear and rebalance it. It's practiced globally, particularly in the Philippines and Southeast Asia.
 
-**Qigong healing** extends the Chinese practice of [qigong](/eastern-[philosophy](/philosophy)) (coordinated breathing, movement, and meditation) into a healing modality where practitioners project *qi* toward patients. It's the most physically active form of energy healing, as practitioners often perform exercises alongside therapeutic work.
+**Qigong healing** extends the Chinese practice of [qigong](/eastern-philosophy)) (coordinated breathing, movement, and meditation) into a healing modality where practitioners project *qi* toward patients. It's the most physically active form of energy healing, as practitioners often perform exercises alongside therapeutic work.
 
 **Crystal healing** uses specific stones and crystals placed on or around the body, based on the belief that crystals have energetic properties that influence health. Different crystals are associated with different effects — rose quartz for emotional healing, amethyst for spiritual awareness, black tourmaline for protection. No scientific mechanism for crystal healing has been identified.
 

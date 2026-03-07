@@ -4,7 +4,7 @@ slug: philosophy-of-law
 description: "Philosophy of law examines what law is, why it has authority, and its relationship to morality. Learn about legal positivism, natural law, and key debates."
 category: everyday-concepts
 tags: ["philosophy of law", "jurisprudence", "legal theory", "ethics", "justice", "natural law"]
-heroImage: "/images/articles/philosophy-of-law.webp"
+heroImage: "/images/articles/philosophy-of-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy of law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

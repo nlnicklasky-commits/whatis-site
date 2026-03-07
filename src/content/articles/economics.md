@@ -1,7 +1,7 @@
 ---
 title: "What Is Economics?"
 slug: economics
-description: "Economics is the social science that studies how people, firms, and governments allocate scarce resources to satisfy unlimited wants and needs."
+description: "Economics is the social science that studies how people, firms, and governments allocate scarce resources to satisfy unlimited wants and needs. Discover the ..."
 category: finance
 tags: ["economics", "scarcity", "microeconomics", "macroeconomics", "supply and demand", "opportunity cost", "economic policy"]
 heroImage: "/images/articles/economics-hero.webp"
@@ -175,7 +175,7 @@ No country is an island—economically speaking.
 
 ### Trade
 
-[International trade](/international-trade) allows countries to specialize in what they produce most efficiently and trade for everything else. The US exports aircraft, [machinery](/automotive-[engineering](/engineering)), and services; it imports [electronics](/electronics), vehicles, and consumer goods.
+[International trade](/international-trade) allows countries to specialize in what they produce most efficiently and trade for everything else. The US exports aircraft, [machinery](/automata-theory)), and services; it imports [electronics](/electronics), vehicles, and consumer goods.
 
 Free trade increases total economic output, but the gains aren't evenly distributed. When a factory moves overseas, the workers who lose their jobs bear concentrated costs while consumers enjoy slightly lower prices—diffuse benefits. This tension between aggregate efficiency and distributional fairness drives trade policy debates in every country.
 

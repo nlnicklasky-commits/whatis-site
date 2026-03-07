@@ -1,10 +1,10 @@
 ---
 title: "What Is Folk Music?"
 slug: folk-music
-description: "Folk music is traditional music passed down orally within communities. Learn about its origins, instruments, key artists, and modern folk revival."
+description: "Folk music is traditional music passed down orally within communities. Learn about its origins, instruments, key artists, and modern folk revival. Discover t..."
 category: arts-amp-culture
 tags: ["music", "traditional music", "culture", "oral tradition", "acoustic", "storytelling"]
-heroImage: "/images/articles/folk-music.webp"
+heroImage: "/images/articles/folk-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of folk music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

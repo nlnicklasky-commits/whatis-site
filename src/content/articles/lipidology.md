@@ -1,10 +1,10 @@
 ---
 title: "What Is Lipidology?"
 slug: lipidology
-description: "Lipidology is the medical specialty focused on diagnosing and treating disorders of blood lipids like cholesterol and triglycerides."
+description: "Lipidology is the medical specialty focused on diagnosing and treating disorders of blood lipids like cholesterol and triglycerides. Discover the key facts, ..."
 category: health-amp-wellness
 tags: ["medicine", "lipidology", "cholesterol", "cardiovascular health", "nutrition"]
-heroImage: "/images/articles/lipidology.webp"
+heroImage: "/images/articles/lipidology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lipidology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Yes, for many people. Dietary changes (reducing saturated fat, increasing fiber), regular exercise, weight loss, and quitting smoking can significantly improve lipid levels. However, some people — especially those with genetic lipid disorders — need medication even with optimal lifestyle habits."
 ---
 
+# What Is Lipidology?
 Lipidology is the branch of medicine dedicated to the study, diagnosis, and treatment of lipid disorders — conditions involving abnormal levels of fats in your blood, including cholesterol and triglycerides. A lipidologist is a physician who specializes in understanding why your lipid levels are off and what to do about it.
 
 You might wonder why an entire medical specialty exists for cholesterol. The answer is straightforward: cardiovascular disease kills more people worldwide than any other cause — roughly 17.9 million deaths annually, according to the World Health Organization. Abnormal blood lipids are one of the primary drivers of that staggering number.
@@ -55,7 +56,7 @@ The lipids that concern lipidologists most are the ones circulating in your bloo
 
 ## The Cholesterol Story: More Complicated Than You Think
 
-The popular understanding of cholesterol — eat eggs, cholesterol goes up, heart attack happens — is almost comically oversimplified. The actual science is far more nuanced, and lipidology as a field exists partly because the details matter enormously for treatment decisions.
+The popular understanding of cholesterol — eat eggs, cholesterol goes up, heart attack happens — is almost comically oversimplified. The actual science is far more complex, and lipidology as a field exists partly because the details matter enormously for treatment decisions.
 
 Your liver produces about 80% of the cholesterol in your body. Dietary cholesterol (from foods like eggs and shellfish) has a much smaller impact on blood cholesterol levels than was once believed. The 2015-2020 Dietary Guidelines for Americans removed the long-standing recommendation to limit dietary cholesterol to 300 mg per day, though they still recommend eating "as little dietary cholesterol as possible" within a healthy eating pattern.
 
@@ -97,7 +98,7 @@ Lipid [management](/management) typically starts with lifestyle modifications an
 
 ### Lifestyle Interventions
 
-Diet changes can lower LDL by 10-30%, depending on the baseline diet and the changes made. The most evidence-supported dietary approaches include reducing saturated fat (below 7% of calories), eliminating trans fats, increasing soluble fiber (oats, beans, lentils), adding plant stanols and sterols, and following overall dietary patterns like the Mediterranean diet or DASH diet. These approaches connect to broader questions about [health](/health) and [nutrition](/nutrition).
+Diet changes can lower LDL by 10-30%, depending on the baseline diet and the changes made. The most evidence-supported dietary approaches include reducing saturated fat (below 7% of calories), eliminating trans fats, increasing soluble fiber (oats, beans, lentils), adding plant stanols and sterols, and following overall dietary patterns like the Mediterranean diet or DASH diet. These approaches connect to broader questions about [health](/health-law) and [nutrition](/nutrition).
 
 Regular aerobic exercise raises HDL and lowers triglycerides. Even moderate activity — 150 minutes per week of brisk [walking](/walking) — produces measurable improvements.
 

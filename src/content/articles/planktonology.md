@@ -162,7 +162,7 @@ Microplastics (particles smaller than 5 mm) are now ubiquitous in ocean waters. 
 
 ## Connections to Other Fields
 
-Planktonology connects to [marine biology](/marine-[biology](/biology)) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean physics and [chemistry](/chemistry), [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
+Planktonology connects to [marine biology](/marionettes)) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean physics and [chemistry](/chemistry), [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
 
 If the broader marine ecosystem interests you, [marine biology](/marine-biology) provides the wider context. For ocean physics and chemistry, [oceanography](/oceanography) goes deeper. If the carbon cycle and climate connections fascinate you, [climatology](/climatology) expands the picture. And if the algal side of phytoplankton is your focus, [phycology](/phycology) --- the study of algae --- is the specialized discipline.
 

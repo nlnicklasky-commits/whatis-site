@@ -1,10 +1,10 @@
 ---
 title: "What Is Medieval History?"
 slug: medieval-history
-description: "Medieval history covers the period from roughly 500 to 1500 CE in Europe. Learn about feudalism, the Church, crusades, culture, and daily life."
+description: "Medieval history covers the period from roughly 500 to 1500 CE in Europe. Learn about feudalism, the Church, crusades, culture, and daily life. Discover the ..."
 category: everyday-concepts
 tags: ["medieval history", "Middle Ages", "feudalism", "history", "European history", "crusades"]
-heroImage: "/images/articles/medieval-history.webp"
+heroImage: "/images/articles/medieval-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of medieval history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -53,7 +53,7 @@ This is when medieval Europe hit its stride. Population grew. Cities expanded. T
 
 **Universities.** Bologna (1088), Paris (circa 1150), and Oxford (1096-1167) were among the first universities. They taught theology, law, medicine, and the liberal arts. [Scholasticism](/scholasticism) — the rigorous application of logical reasoning to theological questions — produced thinkers like Thomas Aquinas, whose synthesis of Aristotelian [philosophy](/philosophy) and Christian theology remains influential.
 
-**[Gothic architecture](/gothic-[architecture](/architecture)).** The great cathedrals — Chartres, Notre-Dame, Canterbury, Cologne — are among humanity's most impressive architectural achievements. Flying buttresses allowed walls of [stained glass](/stained-glass) that filled interiors with colored light. These buildings took decades or centuries to complete and remain standing nearly a thousand years later.
+**[Gothic architecture](/gothic-architecture)).** The great cathedrals — Chartres, Notre-Dame, Canterbury, Cologne — are among humanity's most impressive architectural achievements. Flying buttresses allowed walls of [stained glass](/stained-glass) that filled interiors with colored light. These buildings took decades or centuries to complete and remain standing nearly a thousand years later.
 
 **The Crusades** (1095-1291). Military campaigns to recapture the Holy Land from Muslim control. They were violent, politically complex, and culturally consequential — introducing Europeans to Arabic science, [mathematics](/mathematics), and philosophy, and dramatically worsening Christian-Muslim relations for centuries to come.
 

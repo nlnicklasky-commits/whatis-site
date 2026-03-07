@@ -4,7 +4,7 @@ slug: hiking
 description: "Hiking is walking outdoors on trails or paths for recreation and exercise. Learn about gear, trail types, safety tips, and why millions hit the trails."
 category: everyday-concepts
 tags: ["hiking", "outdoor recreation", "walking", "nature", "trails", "wilderness"]
-heroImage: "/images/articles/hiking.webp"
+heroImage: "/images/articles/hiking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hiking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

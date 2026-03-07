@@ -4,7 +4,7 @@ slug: lego-building
 description: "Lego building is the art of constructing models and structures from interlocking plastic bricks. Learn about techniques, sets, communities, and history."
 category: everyday-concepts
 tags: ["lego building", "construction toys", "hobbies", "AFOL", "building blocks", "creativity"]
-heroImage: "/images/articles/lego-building.webp"
+heroImage: "/images/articles/lego-building-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lego building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

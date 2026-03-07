@@ -91,7 +91,7 @@ Russell Coope pioneered this approach in the 1960s, showing that beetle faunas i
 
 Chemical signatures in biological materials record environmental conditions. The ratio of oxygen-18 to oxygen-16 in carbonate shells tracks temperature and ice volume. The ratio of carbon-13 to carbon-12 in organic matter distinguishes between different photosynthetic pathways (and thus vegetation types). Nitrogen isotope ratios indicate nutrient cycling and trophic level.
 
-Stable isotope analysis has become standard in paleoecology. Ice cores from Greenland and Antarctica, analyzed for oxygen isotopes, have produced the most detailed record of global temperature change over the past 800,000 years — a record that clearly shows the correlation between temperature and atmospheric CO2 concentration that underpins our understanding of greenhouse gas warming.
+Stable isotope analysis has become standard in paleoecology. Ice cores from Greenland and Antarctica, analyzed for oxygen isotopes, have produced the most detailed record of global temperature change over the past 800,000 years — a record that clearly shows the correlation between temperature and atmospheric CO2 concentration that backs up our understanding of greenhouse gas warming.
 
 ### Charcoal
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Surfing?"
 slug: surfing
-description: "Surfing is the sport of riding ocean waves on a board. Learn the basics, the history, the gear, and why surfers are so obsessed with the ocean."
+description: "Surfing is the sport of riding ocean waves on a board. Learn the basics, the history, the gear, and why surfers are so obsessed with the ocean. Discover the ..."
 category: everyday-concepts
 tags: ["surfing", "ocean", "water sports", "waves", "balance", "beach culture"]
-heroImage: "/images/articles/surfing.webp"
+heroImage: "/images/articles/surfing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of surfing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -82,6 +82,6 @@ Surfing debuted at the 2020 Tokyo Olympics (held in 2021) and returned in 2024 i
 
 ## Why People Get Hooked
 
-The honest answer? It feels incredible. The combination of physical exertion, [balance](/exercise-[physiology](/physiology)), immersion in nature, and the raw thrill of harnessing ocean energy creates a sensation unlike any other sport. Every wave is different. Every session is different. The ocean demands your full attention, which is — in a world of constant distraction — surprisingly therapeutic.
+The honest answer? It feels incredible. The combination of physical exertion, [balance](/exercise-physiology)), immersion in nature, and the raw thrill of harnessing ocean energy creates a sensation unlike any other sport. Every wave is different. Every session is different. The ocean demands your full attention, which is — in a world of constant distraction — surprisingly therapeutic.
 
 Surfers joke that they have an addiction. But research backs them up: studies show that time in the ocean reduces cortisol levels, improves mood, and activates the parasympathetic nervous system. It's exercise, [meditation](/meditation), and nature exposure rolled into one.

@@ -4,7 +4,7 @@ slug: music-history
 description: "Music history traces the development of musical styles, forms, and traditions across cultures and centuries. Learn about major eras, composers, and movements."
 category: arts-amp-culture
 tags: ["music history", "musicology", "classical music", "musical eras", "composers", "music evolution"]
-heroImage: "/images/articles/music-history.webp"
+heroImage: "/images/articles/music-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of music history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: underwater-photography
 description: "Underwater photography captures images beneath the water's surface. Learn about equipment, techniques, lighting challenges, and marine photography tips."
 category: arts-amp-culture
 tags: ["underwater photography", "photography", "marine life", "diving", "ocean", "camera gear"]
-heroImage: "/images/articles/underwater-photography.webp"
+heroImage: "/images/articles/underwater-photography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of underwater photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "For anything beyond snorkeling depth, yes. Most underwater photography happens while scuba diving, which requires certification (PADI Open Water or equivalent). You should be a confident, comfortable diver before adding camera equipment — managing buoyancy, air consumption, and a camera simultaneously is challenging. Many dive organizations offer specialty courses in underwater photography."
 ---
 
-# What Is Underwater Photography?
+# What Is Underwater [Photography](/wildlife-photography)?
 
 Underwater photography is exactly what it sounds like — capturing images beneath the surface of water, whether that's a [swimming](/swimming) pool, a freshwater lake, or the open ocean at 130 feet. It combines photography skills with [diving](/diving) ability and demands solutions to problems that don't exist on land: your camera is surrounded by a medium that absorbs light, distorts distances, and would destroy your equipment if it got inside.
 
@@ -73,7 +73,7 @@ The good news is that underwater photography has been a powerful force for ocean
 
 ## Getting Started
 
-The lowest-barrier entry point is a waterproof action camera (GoPro or similar, $200-$400) and a snorkel. Shallow reefs in tropical locations offer incredible subjects within breath-hold depth. You'll learn composition and the basics of underwater light without the complexity of scuba equipment.
+The lowest-barrier entry point is a waterproof action camera (GoPro or similar, $200-$400) and a snorkel. Shallow reefs in tropical locations offer incredible subjects within breath-hold depth. You'll learn composition and the basics of underwater light without the complexity of [scuba](/scuba-diving) equipment.
 
 If you're already a certified diver, a housing for your existing camera is the next step. Expect to spend $300-$1,500 depending on your camera model. Add a single strobe ($200-$600) when you're ready to get serious about color and lighting.
 

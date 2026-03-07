@@ -63,7 +63,7 @@ That changed in the 1920s and 1930s when General Motors hired Harley Earl — wi
 
 Earl's approach created an entirely new profession. Before him, "car design" wasn't a job title. After him, every major manufacturer scrambled to build in-house design studios.
 
-### The Streamline Era (1930s-1940s)
+### The Make more efficient Era (1930s-1940s)
 
 The [aesthetics](/aesthetics) of speed dominated this period. Designers borrowed from aviation and train design, creating teardrop shapes, enclosed fenders, and flowing bodywork. The 1936 Lincoln Zephyr and the 1938 Phantom Corsair embodied this thinking. Wind tunnel testing was rare — most of the "aerodynamic" styling was purely visual suggestion rather than actual drag reduction.
 

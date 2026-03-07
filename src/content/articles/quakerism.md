@@ -1,10 +1,10 @@
 ---
 title: "What Is Quakerism?"
 slug: quakerism
-description: "Quakerism is a Christian movement emphasizing direct experience of God, silent worship, equality, and peace. Learn its beliefs and history."
+description: "Quakerism is a Christian movement emphasizing direct experience of God, silent worship, equality, and peace. Learn its beliefs and history. Discover the key ..."
 category: religion
 tags: ["quakerism", "religion", "Christianity", "peace", "equality", "silent worship"]
-heroImage: "/images/articles/quakerism.webp"
+heroImage: "/images/articles/quakerism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of quakerism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

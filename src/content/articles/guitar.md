@@ -4,7 +4,7 @@ slug: guitar
 description: "The guitar is a stringed instrument played by strumming or plucking. Learn about acoustic and electric types, playing techniques, history, and how to start."
 category: arts-amp-culture
 tags: ["guitar", "musical instrument", "strings", "music", "acoustic guitar", "electric guitar"]
-heroImage: "/images/articles/guitar.webp"
+heroImage: "/images/articles/guitar-hero.webp"
 heroAlt: "Editorial photograph representing the concept of a guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

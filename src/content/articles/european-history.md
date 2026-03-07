@@ -1,10 +1,10 @@
 ---
 title: "What Is European History?"
 slug: european-history
-description: "European history spans from ancient Greece and Rome through the Renaissance, revolutions, world wars, and the formation of the modern European Union."
+description: "European history spans from ancient Greece and Rome through the Renaissance, revolutions, world wars, and the formation of the modern European Union. Discove..."
 category: history
 tags: ["european history", "europe", "renaissance", "revolutions", "world wars"]
-heroImage: "/images/articles/european-history.webp"
+heroImage: "/images/articles/european-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of european history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

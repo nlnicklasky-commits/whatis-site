@@ -1,10 +1,10 @@
 ---
 title: "What Is Roman Law?"
 slug: roman-law
-description: "Roman law is the legal system of ancient Rome that shaped Western jurisprudence, civil law traditions, and modern legal concepts still used today."
+description: "Roman law is the legal system of ancient Rome that shaped Western jurisprudence, civil law traditions, and modern legal concepts still used today. Discover t..."
 category: history
 tags: ["roman legal system", "ancient law", "jurisprudence", "civil law"]
-heroImage: "/images/articles/roman-law.webp"
+heroImage: "/images/articles/roman-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of roman law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Emperor Justinian I (527-565 CE) commissioned the Corpus Juris Civilis, a massive compilation of Roman legal writings. This collection preserved Roman law through the Middle Ages and became the foundation for modern civil law traditions worldwide."
 ---
 
+# What Is Roman Law?
 Roman law is the legal system developed in ancient Rome between roughly 753 BCE and 565 CE, spanning the Kingdom, Republic, and Empire periods. Its principles — contracts, property rights, due process, legal equality — form the backbone of most Western legal systems today, and frankly, a surprising number of non-Western ones too.
 
 You probably interact with concepts from Roman law daily without realizing it. Signed a contract recently? Roman idea. Own property? Roman framework. Got sued? The entire structure of civil litigation traces back to Roman courts. About 150 countries today operate under [civil law](/civil-law) systems directly descended from Roman [jurisprudence](/jurisprudence).

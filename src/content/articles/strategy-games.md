@@ -4,7 +4,7 @@ slug: strategy-games
 description: "Strategy games are games where the player's decisions and planning determine the outcome. Learn about real-time, turn-based, and grand strategy game design."
 category: technology
 tags: ["gaming", "strategy games", "game design", "real-time strategy", "turn-based", "artificial intelligence"]
-heroImage: "/images/articles/strategy-games.webp"
+heroImage: "/images/articles/strategy-games-hero.webp"
 heroAlt: "Editorial photograph representing the concept of strategy games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -104,7 +104,7 @@ Named for their four core activities: eXplore, eXpand, eXploit, eXterminate. 4X 
 
 Civilization is the most famous 4X game, but the subgenre also includes space-based entries like **Stellaris**, **Master of Orion**, and **Endless Space**, as well as fantasy variations like **Endless Legend** and **Age of Wonders**.
 
-The 4X structure creates a natural narrative arc: early exploration and optimism, mid-game expansion and competition, and late-game conflict and domination. This arc mirrors real [historical](/history) patterns of empire-building, which is part of the genre's appeal.
+The 4X structure creates a natural narrative arc: early exploration and optimism, mid-game expansion and competition, and late-game conflict and domination. This arc mirrors real [historical](/histology) patterns of empire-building, which is part of the genre's appeal.
 
 ### Tower Defense
 
@@ -166,7 +166,7 @@ The techniques developed for game AI — Monte Carlo tree search, deep reinforce
 
 Strategy games have influenced culture beyond gaming in several ways.
 
-The **Civilization** series has introduced millions of players to historical concepts, political systems, and the names of world leaders they'd never have encountered otherwise. Research suggests players develop more interest in [history](/history) and geography after playing historical strategy games, though the games' simplified models of complex processes (like colonialism or religious conversion) have been criticized for distorting understanding.
+The **Civilization** series has introduced millions of players to historical concepts, political systems, and the names of world leaders they'd never have encountered otherwise. Research suggests players develop more interest in [history](/histology) and geography after playing historical strategy games, though the games' simplified models of complex processes (like colonialism or religious conversion) have been criticized for distorting understanding.
 
 **Chess** remains the world's most played strategy game, with an estimated 600 million regular players. The 2020 Netflix series "The Queen's Gambit" triggered a massive surge in chess interest, with Chess.com gaining millions of new accounts.
 

@@ -4,7 +4,7 @@ slug: figure-skating
 description: "Figure skating combines athletic jumps, spins, and footwork with artistic expression on ice. Learn about its disciplines, scoring, and Olympic history."
 category: sports
 tags: ["ice skating", "olympics", "winter sports", "jumps", "spins", "choreography"]
-heroImage: "/images/articles/figure-skating.webp"
+heroImage: "/images/articles/figure-skating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of figure skating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

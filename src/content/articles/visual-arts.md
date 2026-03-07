@@ -4,7 +4,7 @@ slug: visual-arts
 description: "Visual arts encompass creative works experienced primarily through sight, including painting, sculpture, photography, and digital art. Learn about forms and."
 category: everyday-concepts
 tags: ["visual arts", "art", "painting", "sculpture", "photography", "creative expression"]
-heroImage: "/images/articles/visual-arts.webp"
+heroImage: "/images/articles/visual-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of visual arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

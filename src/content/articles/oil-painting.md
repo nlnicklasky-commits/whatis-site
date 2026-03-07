@@ -1,10 +1,10 @@
 ---
 title: "What Is Oil Painting?"
 slug: oil-painting
-description: "Oil painting uses pigments mixed with drying oils to create art on canvas or panel. Learn about techniques, materials, and the medium's rich history."
+description: "Oil painting uses pigments mixed with drying oils to create art on canvas or panel. Learn about techniques, materials, and the medium's rich history. Discove..."
 category: arts-amp-culture
 tags: ["oil painting", "art medium", "painting techniques", "fine art", "linseed oil", "pigments"]
-heroImage: "/images/articles/oil-painting.webp"
+heroImage: "/images/articles/oil-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of oil painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ This oxidation process is slow. Depending on the oil used, pigment, and thicknes
 
 With watercolors, you have minutes before the paint dries. With acrylics, maybe 15-30 minutes. With oils, you can work wet-into-wet for hours or days, blending colors directly on the canvas, pushing paint around, wiping areas back and starting over. This extended open time allows a level of subtlety in color transitions, atmosphere, and surface quality that faster-drying media struggle to match.
 
-## A Brief History
+## A Brief [History](/art-history)
 
 People have mixed pigments with oils since at least the 7th century — Afghan painters used walnut and poppy oil in Buddhist cave murals. But oil painting as we know it was perfected in 15th-century Flanders (modern Belgium and Netherlands).
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Pop Music?"
 slug: pop-music
-description: "Pop music is a genre built on catchy melodies, simple structures, and mass appeal. Here's how it works and why it dominates global charts."
+description: "Pop music is a genre built on catchy melodies, simple structures, and mass appeal. Here's how it works and why it dominates global charts. Discover the key f..."
 category: arts-amp-culture
 tags: ["pop music", "popular music", "music genre", "catchy songs", "commercial music", "radio hits"]
-heroImage: "/images/articles/pop-music.webp"
+heroImage: "/images/articles/pop-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pop music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What makes a song 'pop' music?"
     a: "Pop music typically features catchy melodies, repetitive hooks, verse-chorus structure, relatable lyrics, and production designed for broad appeal. Songs are usually 2.5-4 minutes long with a strong chorus that arrives within 30-60 seconds. The genre borrows freely from other styles — rock, R&B, electronic, hip-hop — and adapts them for mainstream audiences. If it's designed to be widely accessible and commercially successful, it's probably pop."
   - q: "Is pop music getting worse over time?"
-    a: "Every generation says this about the next generation's pop music. Objectively, some studies (notably a 2012 Spanish National Research Council analysis) found that modern pop uses less timbral variety and a narrower dynamic range than older pop. But production quality, rhythmic complexity, and genre blending have increased. 'Worse' is subjective — what's changed is the industry, the technology, and the audience, not necessarily the quality."
+    a: "Every generation says this about the next generation's pop music. Objectively, some studies (notably a 2012 Spanish National Research Council analysis) found that modern pop uses less timbral variety and a narrower active range than older pop. But production quality, rhythmic complexity, and genre blending have increased. 'Worse' is subjective — what's changed is the industry, the technology, and the audience, not necessarily the quality."
   - q: "Who has sold the most pop music records of all time?"
     a: "The Beatles are the best-selling music act of all time with estimated sales over 600 million records. Elvis Presley follows with roughly 500 million. Among solo artists still active in recent decades, Rihanna, Taylor Swift, and Drake have each sold or streamed hundreds of millions of units. Streaming has complicated these comparisons since the mid-2010s."
 ---

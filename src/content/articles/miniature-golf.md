@@ -4,7 +4,7 @@ slug: miniature-golf
 description: "Miniature golf is a scaled-down version of golf played on short courses with creative obstacles. Learn about its history, design, and cultural appeal."
 category: sports
 tags: ["miniature golf", "putt-putt", "recreation", "family entertainment", "golf", "amusement"]
-heroImage: "/images/articles/miniature-golf.webp"
+heroImage: "/images/articles/miniature-golf-hero.webp"
 heroAlt: "Editorial photograph representing the concept of miniature golf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

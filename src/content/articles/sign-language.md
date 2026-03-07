@@ -1,10 +1,10 @@
 ---
 title: "What Is Sign Language?"
 slug: sign-language
-description: "Sign language is a visual language using hand shapes, facial expressions, and body movement to communicate. Learn about ASL, BSL, and deaf culture."
+description: "Sign language is a visual language using hand shapes, facial expressions, and body movement to communicate. Learn about ASL, BSL, and deaf culture. Discover ..."
 category: language
 tags: ["sign language", "asl", "bsl", "deaf culture", "communication", "linguistics"]
-heroImage: "/images/articles/sign-language.webp"
+heroImage: "/images/articles/sign-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sign language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

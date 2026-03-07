@@ -1,10 +1,10 @@
 ---
 title: "What Is Medical Imaging?"
 slug: medical-imaging
-description: "Medical imaging uses technologies like X-rays, MRI, and CT scans to see inside the body without surgery. Learn the types, uses, and how they work."
+description: "Medical imaging uses technologies like X-rays, MRI, and CT scans to see inside the body without surgery. Learn the types, uses, and how they work. Discover t..."
 category: health-amp-wellness
 tags: ["medicine", "medical imaging", "radiology"]
-heroImage: "/images/articles/medical-imaging.webp"
+heroImage: "/images/articles/medical-imaging-hero.webp"
 heroAlt: "Editorial photograph representing the concept of medical imaging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

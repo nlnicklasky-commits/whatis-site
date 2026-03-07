@@ -1,16 +1,16 @@
 ---
 title: "What Is Acupuncture?"
 slug: acupuncture
-description: "Acupuncture is a traditional Chinese medical practice that inserts thin needles into specific body points to treat pain and various conditions."
+description: "Acupuncture is a traditional Chinese medical practice that inserts thin needles into specific body points to treat pain and various conditions. Discover the ..."
 category: health-amp-wellness
 tags: ["acupuncture", "traditional chinese medicine", "alternative medicine", "pain management"]
-heroImage: "/images/articles/acupuncture.webp"
+heroImage: "/images/articles/acupuncture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of acupuncture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 12
-wordCount: 2820
+readingTime: 7
+wordCount: 1844
 tier: '2'
 relatedArticles: ["anatomy", "health-science", "psychology", "biology", "neuroscience"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "The placebo question is complex. Large trials show acupuncture outperforms no-treatment controls but often performs only modestly better than sham acupuncture. Some researchers argue the needle insertion itself has real physiological effects even at non-traditional points, making the sham comparison problematic."
 ---
 
+# What Is Acupuncture?
 Acupuncture is a medical practice originating in ancient China that involves inserting thin, sterile needles into specific points on the body to treat pain, manage symptoms, and promote healing. It's one of the oldest continuously practiced medical interventions in the world, with written records dating back over 2,000 years.
 
 Today, acupuncture sits in an unusual position — practiced in hospitals alongside MRI machines and chemotherapy, yet based on a theoretical framework that predates the discovery of cells, nerves, and bacteria. Over 10 million acupuncture treatments are administered annually in the United States alone, and the practice is licensed in all 50 states.

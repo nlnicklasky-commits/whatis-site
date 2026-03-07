@@ -4,7 +4,7 @@ slug: speech-writing
 description: "Speech writing is the craft of composing speeches for public delivery. Learn about structure, persuasion techniques, and how professional speechwriters work."
 category: arts-amp-culture
 tags: ["speech writing", "rhetoric", "public speaking", "persuasion", "communication", "oratory"]
-heroImage: "/images/articles/speech-writing.webp"
+heroImage: "/images/articles/speech-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of speech writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ Humans have been giving speeches for thousands of years. Aristotle wrote *[Rheto
 
 ## The Fundamental Difference
 
-Writing for the ear is different from writing for the eye. Read this sentence: "The implementation of the aforementioned policy will facilitate the [optimization](/optimization) of operational outcomes." You can parse it on a page. But speak it to an audience and watch their eyes glaze. Now try: "This policy will make things work better." Same meaning. Completely different impact when spoken.
+Writing for the ear is different from writing for the eye. Read this sentence: "The implementation of the the one mentioned above policy will facilitate the [optimization](/optimization) of operational outcomes." You can parse it on a page. But speak it to an audience and watch their eyes glaze. Now try: "This policy will make things work better." Same meaning. Completely different impact when spoken.
 
 Spoken language favors short sentences, concrete words, active voice, and natural rhythm. It avoids jargon, complex subordinate clauses, and words that are hard to pronounce or easy to stumble over. A good speechwriter reads every draft aloud — if you trip on a phrase, the speaker will too.
 

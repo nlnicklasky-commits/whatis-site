@@ -4,7 +4,7 @@ slug: social-contract-theory
 description: "Social contract theory explains why people form governments by agreeing to give up some freedoms for collective security. Learn about Hobbes, Locke, and."
 category: everyday-concepts
 tags: ["social contract theory", "philosophy", "government", "Hobbes", "Locke", "Rousseau"]
-heroImage: "/images/articles/social-contract-theory.webp"
+heroImage: "/images/articles/social-contract-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social contract theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "No. It's a philosophical concept — a thought experiment explaining why rational people would agree to be governed. No one actually signs it. However, constitutions function as something close to explicit social contracts, spelling out the rights citizens retain and the powers they grant to government. The U.S. Constitution's opening — 'We the People' — echoes social contract language directly."
 ---
 
-# What Is Social Contract Theory?
+# What Is [Social](/[social](/social-choice-theory)-democracy) Contract Theory?
 
 Social contract theory is the philosophical idea that legitimate political authority comes from an agreement — explicit or implied — between individuals and their [government](/government). People consent to give up certain freedoms and follow certain rules in exchange for the benefits of organized society: security, order, property protection, and collective services they couldn't provide alone.
 

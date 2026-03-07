@@ -4,7 +4,7 @@ slug: systems-analysis
 description: "Systems analysis is the process of studying a system to identify problems and propose solutions. Learn the methods, stages, and where it's used across."
 category: everyday-concepts
 tags: ["systems analysis", "systems thinking", "IT", "business analysis", "problem solving", "engineering"]
-heroImage: "/images/articles/systems-analysis.webp"
+heroImage: "/images/articles/systems-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of systems analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ The analyst models the current system using diagrams, flowcharts, data flow diag
 
 ### 4. Design
 
-Based on the analysis, the analyst proposes one or more solutions — redesigned processes, new [software](/software-[engineering](/engineering)), modified workflows, or organizational changes. Good design considers technical feasibility, cost, timeline, and user acceptance.
+Based on the analysis, the analyst proposes one or more solutions — redesigned processes, new [software](/software-testing)), modified workflows, or organizational changes. Good design considers technical feasibility, cost, timeline, and user acceptance.
 
 ### 5. Implementation and Evaluation
 

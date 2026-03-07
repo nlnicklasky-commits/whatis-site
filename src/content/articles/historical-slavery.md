@@ -4,7 +4,7 @@ slug: historical-slavery
 description: Historical slavery is the system of forced, unpaid labor in which human beings were legally owned as property, practiced across civilizations for millennia.
 category: history
 tags: ["historical slavery", "slavery", "human rights", "forced labor", "abolitionism"]
-heroImage: "/images/articles/historical-slavery.webp"
+heroImage: "/images/articles/historical-slavery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical slavery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: syriac-language
 description: "Syriac is an ancient Aramaic dialect that shaped Middle Eastern Christianity and scholarship. Learn its history, script, and ongoing significance today."
 category: arts-amp-culture
 tags: ["syriac language", "Aramaic", "ancient languages", "Christianity", "Middle East", "linguistics"]
-heroImage: "/images/articles/syriac-language.webp"
+heroImage: "/images/articles/syriac-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of syriac language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

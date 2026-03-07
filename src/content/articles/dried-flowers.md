@@ -4,7 +4,7 @@ slug: dried-flowers
 description: "Dried flowers are preserved blooms used in arrangements, crafts, and decor. Learn drying methods, best flowers to dry, and creative uses for lasting beauty."
 category: everyday-concepts
 tags: ["dried flowers", "everyday-concepts"]
-heroImage: "/images/articles/dried-flowers.webp"
+heroImage: "/images/articles/dried-flowers-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dried flowers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

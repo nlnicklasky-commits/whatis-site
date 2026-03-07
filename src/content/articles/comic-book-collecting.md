@@ -1,10 +1,10 @@
 ---
 title: "What Is Comic Book Collecting?"
 slug: comic-book-collecting
-description: "Comic book collecting is the hobby of acquiring, preserving, and trading comics. Learn about grading, key issues, storage, and building a collection."
+description: "Comic book collecting is the hobby of acquiring, preserving, and trading comics. Learn about grading, key issues, storage, and building a collection. Discove..."
 category: everyday-concepts
 tags: ["comic book collecting", "comics", "collectibles", "hobbies", "graphic novels", "superheroes"]
-heroImage: "/images/articles/comic-book-collecting.webp"
+heroImage: "/images/articles/comic-book-collecting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comic book collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Key issues and first appearances of popular characters have historically appreciated significantly. Action Comics #1 has gone from a 10-cent cover price to sales exceeding 6 million dollars. However, most comics are worth very little — the 1990s speculator boom proved that mass-produced comics rarely gain value. Collect what you enjoy reading first."
 ---
 
-# What Is Comic Book Collecting?
+# What Is Comic Book [Collecting](/coin-collecting)?
 
 Comic book collecting is the hobby of acquiring, organizing, preserving, and sometimes trading comic books. Collectors pursue comics for many reasons — nostalgia, artistic appreciation, investment potential, or the simple joy of [hunting](/hunting) for specific issues. The hobby supports a global market worth an estimated $1.3 billion annually.
 

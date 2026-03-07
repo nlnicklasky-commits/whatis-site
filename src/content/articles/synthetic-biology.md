@@ -1,10 +1,10 @@
 ---
 title: "What Is Synthetic Biology?"
 slug: synthetic-biology
-description: "Synthetic biology is the engineering of biological systems by designing, building, and testing DNA, cells, and organisms for useful purposes."
+description: "Synthetic biology is the engineering of biological systems by designing, building, and testing DNA, cells, and organisms for useful purposes. Discover the ke..."
 category: science
 tags: ["biology", "synthetic biology", "genetic engineering", "biotechnology", "bioengineering", "DNA"]
-heroImage: "/images/articles/synthetic-biology.webp"
+heroImage: "/images/articles/synthetic-biology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of synthetic biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "In 2010, Craig Venter's team created a bacterial cell controlled entirely by a chemically synthesized genome — the first organism with a fully synthetic DNA. However, it used an existing cell as a 'chassis.' Creating truly new life from non-living chemicals remains beyond current capabilities."
 ---
 
+# What Is Synthetic Biology?
 Synthetic biology is the application of engineering principles to biology — designing, constructing, and testing biological systems and organisms that perform new functions not found in nature, or redesigning existing biological systems to work more efficiently.
 
 Think of it this way: traditional [biology](/biology) studies life as it exists. [Genetic engineering](/biotechnology) modifies life by moving genes around. Synthetic biology goes a step further — it treats biological components like Lego bricks that can be designed, standardized, and assembled into systems that do whatever you want. Read DNA. Write DNA. Debug DNA. It's biology meets [software engineering](/software-engineering), and it's changing what's possible.

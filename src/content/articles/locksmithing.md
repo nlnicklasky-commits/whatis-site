@@ -1,10 +1,10 @@
 ---
 title: "What Is Locksmithing?"
 slug: locksmithing
-description: "Locksmithing is the trade of making, installing, and opening locks. Learn about the skills, tools, history, and career outlook for modern locksmiths."
+description: "Locksmithing is the trade of making, installing, and opening locks. Learn about the skills, tools, history, and career outlook for modern locksmiths. Discove..."
 category: everyday-concepts
 tags: ["locksmithing", "locks", "security", "trade skills", "keys", "lock picking"]
-heroImage: "/images/articles/locksmithing.webp"
+heroImage: "/images/articles/locksmithing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of locksmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ The real revolution came in the 18th and 19th centuries. Robert Barron patented 
 
 The job is more varied than most people realize. A working locksmith might handle:
 
-**Residential lockouts.** Someone's locked out of their house at 2 AM. They call a locksmith. The locksmith arrives, identifies the lock type, and opens it — usually by picking, though sometimes by other non-destructive methods. This is the bread-and-butter work for many locksmiths, and it's the scenario most people imagine when they think of the profession.
+**Residential lockouts.** Someone's locked out of their house at 2 AM. They call a locksmith. The locksmith arrives, identifies the lock type, and opens it — usually by picking, though sometimes by other non-destructive methods. This is the [bread](/artisan-bread-making)-and-butter work for many locksmiths, and it's the scenario most people imagine when they think of the profession.
 
 **Re-keying.** Changing the internal pins of a lock so old keys no longer work and new keys do. This is cheaper than replacing the entire lock and is commonly done when people move into a new home, lose keys, or end relationships. A skilled locksmith can re-key a standard pin tumbler lock in 10-15 minutes.
 

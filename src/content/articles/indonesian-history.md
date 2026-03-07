@@ -4,7 +4,7 @@ slug: indonesian-history
 description: "Indonesian history spans ancient Hindu-Buddhist kingdoms, Islamic sultanates, Dutch colonialism, and independence. Learn about this archipelago's rich past."
 category: history
 tags: ["indonesian history", "indonesia", "southeast asia", "dutch east indies", "colonialism"]
-heroImage: "/images/articles/indonesian-history.webp"
+heroImage: "/images/articles/indonesian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of indonesian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -97,4 +97,4 @@ Post-Suharto Indonesia has undergone a remarkable democratic transformation — 
 
 But the scale of the achievement is worth appreciating. A country of 275 million people, spanning 17,000 islands, with hundreds of languages and the world's largest Muslim population, has maintained democratic governance for over two decades. That's not guaranteed — plenty of observers predicted Indonesia would fragment or revert to authoritarianism after Suharto. So far, it hasn't.
 
-Understanding Indonesian history matters because Indonesia matters. It is the world's fourth most populous country, a major economy, a key player in Southeast Asian [politics](/political-[philosophy](/philosophy)), and a test case for whether democracy, Islam, and ethnic diversity can coexist in a large, developing nation. The answer to that question has implications far beyond the archipelago itself.
+Understanding Indonesian history matters because Indonesia matters. It is the world's fourth most populous country, a major economy, a key player in Southeast Asian [politics](/politics)), and a test case for whether democracy, Islam, and ethnic diversity can coexist in a large, developing nation. The answer to that question has implications far beyond the archipelago itself.

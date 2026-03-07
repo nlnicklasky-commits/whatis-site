@@ -210,7 +210,7 @@ Each preparation method introduces its own potential artifacts. A major challeng
 
 ### Medicine and Pathology
 
-Microscopy underpins virtually all of medical diagnostics. When a surgeon removes a tumor, a pathologist examines thin sections under a microscope to determine whether the cancer has spread. Blood smears reveal infections, anemias, and blood cancers. Urine microscopy identifies kidney disease. [Anatomy](/anatomy) and histopathology would not exist without light microscopy.
+Microscopy supports virtually all of medical diagnostics. When a surgeon removes a tumor, a pathologist examines thin sections under a microscope to determine whether the cancer has spread. Blood smears reveal infections, anemias, and blood cancers. Urine microscopy identifies kidney disease. [Anatomy](/anatomy) and histopathology would not exist without light microscopy.
 
 ### Materials Science
 

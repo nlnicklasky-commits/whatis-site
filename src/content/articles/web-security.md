@@ -4,7 +4,7 @@ slug: web-security
 description: "Web security protects websites and users from cyber threats like hacking, data breaches, and malware. Learn about common attacks, defenses, and best practices."
 category: everyday-concepts
 tags: ["web security", "cybersecurity", "hacking", "encryption", "data protection", "internet safety"]
-heroImage: "/images/articles/web-security.webp"
+heroImage: "/images/articles/web-security-hero.webp"
 heroAlt: "Editorial photograph representing the concept of web security"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

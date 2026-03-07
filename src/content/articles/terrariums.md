@@ -1,10 +1,10 @@
 ---
 title: "What Is Terrariums?"
 slug: terrariums
-description: "A terrarium is a miniature garden enclosed in glass that creates its own ecosystem. Learn how to build one, the types, and why they're so popular."
+description: "A terrarium is a miniature garden enclosed in glass that creates its own ecosystem. Learn how to build one, the types, and why they're so popular. Discover t..."
 category: everyday-concepts
 tags: ["terrariums", "ecosystem", "plants", "gardening", "indoor plants", "glass container"]
-heroImage: "/images/articles/terrariums.webp"
+heroImage: "/images/articles/terrariums-hero.webp"
 heroAlt: "Editorial photograph representing the concept of terrariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: web-design
 description: "Web design is the process of planning and creating websites, combining visual layout, typography, color, and user experience to build effective online pages."
 category: technology
 tags: ["web design", "design", "html", "css"]
-heroImage: "/images/articles/web-design.webp"
+heroImage: "/images/articles/web-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of web design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

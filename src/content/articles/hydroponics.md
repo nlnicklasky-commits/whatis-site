@@ -1,7 +1,7 @@
 ---
 title: "What Is Hydroponics?"
 slug: hydroponics
-description: "Hydroponics is soilless plant growing using nutrient-rich water. Learn how hydroponic systems work, their types, benefits, and how to get started."
+description: "Hydroponics is soilless plant growing using nutrient-rich water. Learn how hydroponic systems work, their types, benefits, and how to get started. Discover t..."
 category: technology
 tags: ["hydroponics", "soilless growing", "agriculture", "gardening", "controlled environment", "urban farming", "nutrients"]
 heroImage: "/images/articles/hydroponics-hero.webp"

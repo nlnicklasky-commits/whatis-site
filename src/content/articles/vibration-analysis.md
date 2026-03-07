@@ -4,13 +4,13 @@ slug: vibration-analysis
 description: "Vibration analysis detects machinery faults by measuring mechanical oscillations. Learn techniques, sensors, signal processing, and predictive maintenance."
 category: technology
 tags: ["vibration analysis", "mechanical engineering", "predictive maintenance", "signal processing"]
-heroImage: "/images/articles/vibration-analysis.webp"
+heroImage: "/images/articles/vibration-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vibration analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 15
-wordCount: 3650
+readingTime: 10
+wordCount: 2424
 tier: '1'
 relatedArticles: ["mechanical-engineering", "signal-processing", "acoustics", "digital-signal-processing", "electrical-engineering"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Primarily, yes — rotating machines like motors, pumps, fans, turbines, and compressors are the main focus. But vibration analysis also applies to structural health monitoring (bridges, buildings), automotive testing, aerospace components, and even medical devices."
 ---
 
+# What Is Vibration Analysis?
 Vibration analysis is the process of measuring and interpreting the mechanical oscillations of machinery to detect faults, predict failures, and optimize performance. By analyzing the frequency, amplitude, and patterns of vibration signals, engineers can identify problems like bearing wear, shaft misalignment, and rotor imbalance long before a machine breaks down.
 
 Think of it as listening to a machine's heartbeat — except with instruments that are far more sensitive than any human ear.

@@ -1,7 +1,7 @@
 ---
 title: "What Is Number Theory?"
 slug: number-theory
-description: "Number theory studies the properties of integers, primes, and divisibility. Learn why this pure math branch powers modern cryptography and computing."
+description: "Number theory studies the properties of integers, primes, and divisibility. Learn why this pure math branch powers modern cryptography and computing. Discove..."
 category: science
 tags: ["number theory", "mathematics", "integers", "prime numbers", "cryptography", "algebra", "divisibility"]
 heroImage: "/images/articles/number-theory-hero.webp"

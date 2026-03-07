@@ -1,10 +1,10 @@
 ---
 title: "What Is Scent Training (Dogs)?"
 slug: scent-training-dogs
-description: "Scent training teaches dogs to detect specific odors using their powerful noses. Learn how nose work builds confidence and mental stimulation."
+description: "Scent training teaches dogs to detect specific odors using their powerful noses. Learn how nose work builds confidence and mental stimulation. Discover the k..."
 category: everyday-concepts
 tags: ["dog training", "scent detection", "nose work", "canine", "olfaction", "dog behavior"]
-heroImage: "/images/articles/scent-training-dogs.webp"
+heroImage: "/images/articles/scent-training-dogs-hero.webp"
 heroAlt: "Editorial photograph representing the concept of scent training (dogs)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
     a: "Absolutely. Nose work is one of the best activities for anxious or reactive dogs because it builds confidence through independent problem-solving. Dogs work at their own pace, there's no physical pressure, and the mental stimulation is exhausting in a good way. Many trainers specifically recommend it for fearful dogs."
 ---
 
-# What Is Scent Training (Dogs)?
+# What Is Scent [Training](/dog-training) (Dogs)?
 
 Scent training — also called nose work or scent detection — is a structured activity where dogs learn to find and identify specific odors using their extraordinary sense of smell. It's built on the same principles that guide professional detection dogs who sniff out explosives, narcotics, or missing persons, but adapted so any pet dog can participate and enjoy it.
 
@@ -53,7 +53,7 @@ The basic process follows a progression that starts dead simple and gets gradual
 
 **Phase two: searching.** Once the dog associates the scent with rewards, you start hiding the odor source in easy locations. Behind a chair leg. Under a box. The dog learns to actively seek out the smell rather than just stumbling onto it. You'll notice them develop a systematic search pattern — some dogs work methodically left to right, others spiral inward.
 
-**Phase three: indication.** This is where the dog learns to tell you they've found the source. Some dogs naturally sit or paw at the spot. Others freeze and stare. In competition, dogs need a clear, consistent alert behavior. For casual training at home, any obvious signal works fine.
+**Phase three: indication.** This is where the dog learns to tell you they've found the source. Some dogs naturally sit or paw at the spot. Others freeze and stare. In competition, dogs need a clear, consistent alert [behavior](/animal-behavior). For casual training at home, any obvious signal works fine.
 
 **Phase four: complexity.** You increase difficulty — more hiding spots, larger search areas, elevated hides, distracting odors layered in. Professional detection dogs eventually learn to isolate a single target scent from thousands of competing smells. Even pet dogs can get surprisingly sophisticated at this.
 

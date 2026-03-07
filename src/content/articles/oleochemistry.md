@@ -139,7 +139,7 @@ Life cycle analyses generally show oleochemicals having lower carbon footprints 
 
 ### Bio-Based Polymers
 
-Oleochemistry is contributing to the development of bio-based plastics and polymers. **Polyamide 11** (marketed as Rilsan), made from castor oil, has been used since the 1940s in high-performance applications — automotive fuel lines, offshore oil pipes, sports equipment. It's a bio-based [engineering](/chemical-[engineering](/engineering)) polymer that outperforms many petroleum-based alternatives.
+Oleochemistry is contributing to the development of bio-based plastics and polymers. **Polyamide 11** (marketed as Rilsan), made from castor oil, has been used since the 1940s in high-performance applications — automotive fuel lines, offshore oil pipes, sports equipment. It's a bio-based [engineering](/alchemy)) polymer that outperforms many petroleum-based alternatives.
 
 **Epoxidized soybean oil** acts as a plasticizer and stabilizer in PVC, replacing petroleum-based phthalates that raise health concerns.
 

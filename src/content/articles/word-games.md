@@ -4,13 +4,13 @@ slug: word-games
 description: "Word games are puzzles and competitions based on language and vocabulary. Learn about popular types like Scrabble, crosswords, Wordle, and their cognitive."
 category: everyday-concepts
 tags: ["word games", "puzzles", "Scrabble", "crosswords", "Wordle", "language"]
-heroImage: "/images/articles/word-games.webp"
+heroImage: "/images/articles/word-games-hero.webp"
 heroAlt: "Editorial photograph representing the concept of a word game"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
 readingTime: 3
-wordCount: 959
+wordCount: 857
 tier: "3"
 relatedArticles: ["algorithms", "writing", "typography"]
 externalSources:

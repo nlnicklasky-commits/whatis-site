@@ -1,7 +1,7 @@
 ---
 title: "What Is Computational Biology?"
 slug: computational-biology
-description: "Computational biology uses algorithms, statistics, and computing power to analyze biological data, from DNA sequences to protein structures."
+description: "Computational biology uses algorithms, statistics, and computing power to analyze biological data, from DNA sequences to protein structures. Discover the key..."
 category: science
 tags: ["computational biology", "bioinformatics", "biology", "computer science", "genomics", "data science", "ai"]
 heroImage: "/images/articles/computational-biology-hero.webp"

@@ -151,7 +151,7 @@ You can't see molecules directly. So how do organic chemists know what they've m
 
 **Infrared Spectroscopy (IR)**: Functional groups absorb infrared light at characteristic frequencies. A sharp absorption at 1700 cm^-1 signals a carbonyl group. A broad absorption around 3300 cm^-1 indicates an O-H or N-H bond. IR is quick and useful for confirming the presence or absence of specific functional groups.
 
-**[X-ray Crystallography](/x-ray-[crystallography](/crystallography))**: When you can grow a crystal of your compound, X-ray diffraction gives you the exact three-dimensional arrangement of every atom. This technique determined the structures of DNA (Rosalind Franklin's famous Photo 51), penicillin (Dorothy Hodgkin), and thousands of proteins. It's definitive but requires crystals, which aren't always easy to obtain.
+**[X-ray Crystallography](/x-ray-crystallography))**: When you can grow a crystal of your compound, X-ray diffraction gives you the exact three-dimensional arrangement of every atom. This technique determined the structures of DNA (Rosalind Franklin's famous Photo 51), penicillin (Dorothy Hodgkin), and thousands of proteins. It's definitive but requires crystals, which aren't always easy to obtain.
 
 ## Organic Chemistry Meets Biology
 
@@ -191,4 +191,4 @@ Understanding organic chemistry — even at a basic level — helps you make sen
 
 ## Key Takeaways
 
-Organic chemistry is the science of carbon-based compounds, covering their structure, reactions, synthesis, and properties. Carbon's unique ability to form four bonds in diverse arrangements creates a universe of over 100 million known molecules. Functional groups determine reactivity, stereochemistry determines biological activity, and spectroscopy reveals structure. The field underpins pharmaceuticals, [materials science](/materials-science), energy, and biology — making it one of the most practically important sciences. Modern frontiers include green chemistry, AI-assisted synthesis, bioorthogonal chemistry, and organic electronics.
+Organic chemistry is the science of carbon-based compounds, covering their structure, reactions, synthesis, and properties. Carbon's unique ability to form four bonds in diverse arrangements creates a universe of over 100 million known molecules. Functional groups determine reactivity, stereochemistry determines biological activity, and spectroscopy reveals structure. The field supports pharmaceuticals, [materials science](/materials-science), energy, and biology — making it one of the most practically important sciences. Modern frontiers include green chemistry, AI-assisted synthesis, bioorthogonal chemistry, and organic electronics.

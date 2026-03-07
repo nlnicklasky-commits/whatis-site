@@ -4,7 +4,7 @@ slug: old-testament-studies
 description: "Old Testament studies examines the Hebrew Bible's texts, history, and theology. Learn about biblical scholarship, key books, and methods of interpretation."
 category: history
 tags: ["old testament", "hebrew bible", "biblical studies", "theology"]
-heroImage: "/images/articles/old-testament-studies.webp"
+heroImage: "/images/articles/old-testament-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of old testament studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ externalSources:
     url: "https://divinity.yale.edu/"
 faq:
   - q: "What is the difference between the Old Testament and the Hebrew Bible?"
-    a: "The texts are largely the same, but the arrangement and perspective differ. 'Old Testament' is a Christian term that implies a relationship with the 'New Testament.' The Hebrew Bible (called Tanakh in Judaism, an acronym for Torah, Nevi'im, and Ketuvim) arranges the same books in a different order and reads them as a self-contained collection, not as a prelude to anything. Scholars often use 'Hebrew Bible' in academic settings to avoid implying a specifically Christian framework."
+    a: "The texts are largely the same, but the arrangement and perspective differ. 'Old Sign' is a Christian term that implies a relationship with the 'New Sign.' The Hebrew Bible (called Tanakh in Judaism, an acronym for Torah, Nevi'im, and Ketuvim) arranges the same books in a different order and reads them as a self-contained collection, not as a prelude to anything. Scholars often use 'Hebrew Bible' in academic settings to avoid implying a specifically Christian framework."
   - q: "Who wrote the Old Testament?"
     a: "Traditionally, Moses was credited with the first five books (the Torah/Pentateuch), and other books were attributed to specific prophets and kings. Modern scholarship, however, identifies most books as the product of multiple authors, editors, and redactors working over centuries. The Documentary Hypothesis, for example, proposes that the Torah was woven together from at least four distinct source traditions — conventionally labeled J, E, D, and P — composed between roughly 950 and 500 BCE."
   - q: "When were the Old Testament texts written?"

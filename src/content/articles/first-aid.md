@@ -1,10 +1,10 @@
 ---
 title: "What Is First Aid?"
 slug: first-aid
-description: "First aid is emergency care given before professional medical help arrives. Learn essential techniques for bleeding, burns, choking, and CPR."
+description: "First aid is emergency care given before professional medical help arrives. Learn essential techniques for bleeding, burns, choking, and CPR. Discover the ke..."
 category: everyday-concepts
 tags: ["first aid", "emergency care", "CPR", "medical training", "health", "safety"]
-heroImage: "/images/articles/first-aid.webp"
+heroImage: "/images/articles/first-aid-hero.webp"
 heroAlt: "Editorial photograph representing the concept of first aid"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ In many emergencies, the minutes before professional help arrives are the most c
 
 Emergency medical services (EMS) response times average 7-14 minutes in urban areas and can exceed 20 minutes in rural communities. That gap between the emergency starting and professional help arriving is where first aid saves lives.
 
-The numbers back this up. Bystander CPR doubles or triples the survival rate for out-of-hospital cardiac arrest, according to the American Heart Association. Immediate pressure on a bleeding wound prevents shock. Proper positioning of an unconscious but breathing person prevents airway obstruction. These are simple actions with massive impact.
+The numbers back this up. Bystander CPR doubles or triples the [survival](/outdoor-survival) rate for out-of-hospital cardiac arrest, according to the American Heart Association. Immediate pressure on a bleeding wound prevents shock. Proper positioning of an unconscious but breathing person prevents airway obstruction. These are simple actions with massive impact.
 
 ## Essential Skills
 
@@ -68,7 +68,7 @@ For infants under one year, the technique is different: five back blows (between
 
 ### Burns
 
-For minor burns: cool the burn under cool (not cold) [running](/running) water for at least 10 minutes. Don't use ice, butter, or toothpaste — these common folk remedies actually make burns worse. Cover with a sterile bandage.
+For minor burns: cool the burn under cool (not cold) [running](/running) [water](/water-purification) for at least 10 minutes. Don't use ice, butter, or toothpaste — these common folk remedies actually make burns worse. Cover with a sterile bandage.
 
 For severe burns: call 911. Don't remove burned clothing stuck to skin. Don't apply water to large burns (risk of hypothermia). Cover loosely with clean, dry cloth and wait for professional help.
 

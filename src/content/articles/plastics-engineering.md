@@ -1,7 +1,7 @@
 ---
 title: "What Is Plastics Engineering?"
 slug: plastics-engineering
-description: "Plastics engineering is the design, processing, and testing of polymer-based materials and products — from packaging to aerospace components."
+description: "Plastics engineering is the design, processing, and testing of polymer-based materials and products — from packaging to aerospace components. Discover the ke..."
 category: technology
 tags: ["plastics", "engineering", "polymers", "manufacturing", "product design", "materials science", "recycling"]
 heroImage: "/images/articles/plastics-engineering-hero.webp"

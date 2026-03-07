@@ -4,7 +4,7 @@ slug: toxicology
 description: "Toxicology is the science of poisons and their effects on living organisms. Learn about dose-response, risk assessment, forensic toxicology, and more."
 category: science
 tags: ["toxicology", "pharmacology", "poisons"]
-heroImage: "/images/articles/toxicology.webp"
+heroImage: "/images/articles/toxicology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of toxicology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

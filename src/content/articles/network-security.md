@@ -287,7 +287,7 @@ Network security is evolving rapidly in response to changing threats and technol
 
 ## Key Takeaways
 
-Network security protects the infrastructure that connects our digital world. It combines firewalls, encryption, access controls, monitoring, and human practices to defend against an ever-evolving threat field. No single tool or technique is sufficient — effective security requires layered defenses, continuous monitoring, and regular updates.
+Network security protects the infrastructure that connects our digital world. It combines firewalls, encryption, access controls, monitoring, and human practices to defend against an shifting threat field. No single tool or technique is sufficient — effective security requires layered defenses, continuous monitoring, and regular updates.
 
 The shift to zero trust architectures, cloud computing, and AI-powered security tools represents a fundamental rethinking of how we protect networks. The perimeter-based "castle and moat" model is giving way to granular, identity-based security that assumes threats exist everywhere.
 

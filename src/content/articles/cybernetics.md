@@ -1,7 +1,7 @@
 ---
 title: "What Is Cybernetics?"
 slug: cybernetics
-description: "Cybernetics studies how systems regulate themselves through feedback. Learn about communication and control in machines, organisms, and society."
+description: "Cybernetics studies how systems regulate themselves through feedback. Learn about communication and control in machines, organisms, and society. Discover the..."
 category: technology
 tags: ["cybernetics", "systems theory", "control systems", "feedback loops", "ai", "robotics", "communication"]
 heroImage: "/images/articles/cybernetics-hero.webp"
@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 10
-wordCount: 2673
+wordCount: 2359
 tier: "2"
 relatedArticles: ["cryptography", "algorithms", "app-development", "acoustics"]
 externalSources:

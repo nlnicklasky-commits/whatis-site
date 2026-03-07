@@ -4,7 +4,7 @@ slug: digital-art
 description: "Digital art is visual art created using computers, tablets, and software. Explore its forms, tools, history, and how it changed the art world forever."
 category: arts-amp-culture
 tags: ["digital art", "arts-amp-culture"]
-heroImage: "/images/articles/digital-art.webp"
+heroImage: "/images/articles/digital-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of digital art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

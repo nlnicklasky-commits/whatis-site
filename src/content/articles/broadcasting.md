@@ -1,10 +1,10 @@
 ---
 title: "What Is Broadcasting?"
 slug: broadcasting
-description: "Broadcasting is the transmission of audio or video content to a wide audience through radio, television, or digital platforms simultaneously."
+description: "Broadcasting is the transmission of audio or video content to a wide audience through radio, television, or digital platforms simultaneously. Discover the ke..."
 category: everyday-concepts
 tags: ["broadcasting", "radio", "television", "media", "communication", "journalism"]
-heroImage: "/images/articles/broadcasting.webp"
+heroImage: "/images/articles/broadcasting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of broadcasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

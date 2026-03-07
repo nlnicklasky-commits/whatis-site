@@ -1,10 +1,10 @@
 ---
 title: "What Is Motorcycle Racing?"
 slug: motorcycle-racing
-description: "Motorcycle racing is competitive motorsport on two wheels, from MotoGP to motocross. Learn about disciplines, famous races, and the sport's appeal."
+description: "Motorcycle racing is competitive motorsport on two wheels, from MotoGP to motocross. Learn about disciplines, famous races, and the sport's appeal. Discover ..."
 category: sports
 tags: ["motorcycle racing", "motorsport", "motogp", "motocross", "road racing", "bike racing"]
-heroImage: "/images/articles/motorcycle-racing.webp"
+heroImage: "/images/articles/motorcycle-racing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of motorcycle racing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Most professional racers start as children in minimoto or motocross. Adult beginners can start through track day programs (riding on closed circuits with instruction), amateur racing organizations, or club-level competitions. The Motorcycle Safety Foundation offers racing-oriented courses. You'll need a race-prepared motorcycle, safety gear (leather suit, helmet, gloves, boots), and an organization membership."
 ---
 
-# What Is Motorcycle Racing?
+# What Is [Motorcycle](/motorcycle-maintenance) Racing?
 
 Motorcycle racing is competitive motorsport on two-wheeled vehicles, encompassing everything from grand prix circuit racing at 220 mph to motocross riders flying 50 feet through the air over dirt jumps. It's one of the most physically demanding, technically challenging, and frankly dangerous sports in existence — and it draws millions of fans worldwide.
 
@@ -43,7 +43,7 @@ The appeal is visceral. Watching a MotoGP rider drag a knee through a corner at 
 
 **World Superbike Championship (WSBK)** — uses modified production motorcycles rather than prototypes. Closer racing (since machines are more similar) and a strong connection to bikes you can actually buy make WSBK popular with fans.
 
-**Isle of Man TT** — the most famous and dangerous motorcycle race on Earth. Held since 1907 on 37.73 miles of public roads on the Isle of Man, with stone walls, houses, and hedgerows lining the course. Average lap speeds exceed 135 mph. Over 260 competitors have died. Nothing else in motorsport compares.
+**Isle of Man TT** — the most famous and dangerous motorcycle [race](/race-car-driving) on Earth. Held since 1907 on 37.73 miles of public roads on the Isle of Man, with stone walls, houses, and hedgerows lining the course. Average lap speeds exceed 135 mph. Over 260 competitors have died. Nothing else in motorsport compares.
 
 ### Motocross and Off-Road
 

@@ -4,7 +4,7 @@ slug: jigsaw-puzzles
 description: "Jigsaw puzzles are pictures cut into interlocking pieces that you reassemble. Learn about their history, cognitive benefits, and why they remain popular."
 category: everyday-concepts
 tags: ["jigsaw puzzles", "puzzles", "games", "hobbies", "brain training"]
-heroImage: "/images/articles/jigsaw-puzzles.webp"
+heroImage: "/images/articles/jigsaw-puzzles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jigsaw puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

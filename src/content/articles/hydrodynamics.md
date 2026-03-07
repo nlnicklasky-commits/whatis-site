@@ -59,7 +59,7 @@ All of hydrodynamics rests on three conservation principles borrowed from [class
 
 The left side describes acceleration (how the fluid velocity changes in time and space). The right side lists the forces: pressure gradient, viscous stress, and body forces (gravity). Simple in principle. Impossibly complex in practice for most real flows.
 
-**Conservation of energy** — the first law of [thermodynamics](/thermodynamics) applied to flowing fluid. Energy exists as kinetic energy (motion), potential energy (height), pressure energy, and internal energy (heat). Bernoulli's equation — one of hydrodynamics' most useful results — is a simplified energy conservation statement for steady, inviscid (frictionless) flow along a streamline: total pressure (static + active + elevation) remains constant.
+**Conservation of energy** — the first law of [thermodynamics](/thermodynamics) applied to flowing fluid. Energy exists as kinetic energy (motion), potential energy (height), pressure energy, and internal energy (heat). Bernoulli's equation — one of hydrodynamics' most useful results — is a simplified energy conservation statement for steady, inviscid (frictionless) flow along a make more efficient: total pressure (static + active + elevation) remains constant.
 
 ### Bernoulli's Principle in Action
 

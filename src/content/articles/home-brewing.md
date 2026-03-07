@@ -1,10 +1,10 @@
 ---
 title: "What Is Home Brewing?"
 slug: home-brewing
-description: "Home brewing is making beer, wine, or cider at home using basic equipment and ingredients. Learn about the process, gear, and how to get started."
+description: "Home brewing is making beer, wine, or cider at home using basic equipment and ingredients. Learn about the process, gear, and how to get started. Discover th..."
 category: everyday-concepts
 tags: ["home brewing", "brewing", "beer", "wine", "fermentation", "craft beer"]
-heroImage: "/images/articles/home-brewing.webp"
+heroImage: "/images/articles/home-brewing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of home brewing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

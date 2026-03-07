@@ -159,7 +159,7 @@ The current estimated number of species on Earth ranges from 8 million to over 1
 
 What we do know is that biodiversity is declining rapidly. The current extinction rate is estimated at 100-1,000 times the natural background rate. The IUCN Red List classifies more than 44,000 species as threatened with extinction. Habitat destruction, climate change, invasive species, pollution, and overexploitation are the primary drivers.
 
-This matters beyond aesthetics. Biodiversity underpins ecosystem services that humans depend on: pollination of crops (worth an estimated $235-577 billion annually), [water purification](/water-purification), carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
+This matters beyond aesthetics. Biodiversity supports ecosystem services that humans depend on: pollination of crops (worth an estimated $235-577 billion annually), [water purification](/water-purification), carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
 
 ## The Major Branches
 

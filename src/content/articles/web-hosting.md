@@ -4,7 +4,7 @@ slug: web-hosting
 description: "Web hosting is a service that stores website files on servers and makes them accessible via the internet, enabling anyone to visit your site from a browser."
 category: technology
 tags: ["web hosting", "internet", "servers"]
-heroImage: "/images/articles/web-hosting.webp"
+heroImage: "/images/articles/web-hosting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of web hosting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

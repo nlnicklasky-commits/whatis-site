@@ -4,7 +4,7 @@ slug: swimming
 description: "Swimming is the sport and skill of moving through water using body movements. Learn the strokes, health benefits, competitive formats, and safety basics."
 category: sports
 tags: ["swimming", "sports", "water", "exercise", "Olympics", "fitness"]
-heroImage: "/images/articles/swimming.webp"
+heroImage: "/images/articles/swimming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of swimming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ Swimming is remarkably good for you, and the evidence is strong:
 
 - **Cardiovascular [fitness](/fitness)** — Regular swimming improves heart health, lowers blood pressure, and reduces the risk of heart disease. A study in the *British Journal of Sports Medicine* found swimmers had a 41% lower risk of dying from heart disease.
 - **Full-body workout** — Every stroke engages arms, shoulders, core, back, and legs simultaneously. Few exercises work as many muscle groups at once.
-- **Low impact** — Water buoyancy supports about 90% of your body weight, making swimming one of the gentlest forms of [exercise](/exercise-[physiology](/physiology)) on joints and bones. It's recommended for people with arthritis, back pain, and injuries.
+- **Low impact** — Water buoyancy supports about 90% of your body weight, making swimming one of the gentlest forms of [exercise](/exercise-physiology)) on joints and bones. It's recommended for people with arthritis, back pain, and injuries.
 - **[Mental health](/mental-health)** — Swimming reduces anxiety and depression symptoms. The rhythmic breathing and sensory experience of being in water have meditative qualities.
 - **Calorie burn** — Moderate lap swimming burns roughly 400-500 calories per hour. Vigorous swimming burns 600-700+.
 

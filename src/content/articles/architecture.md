@@ -4,7 +4,7 @@ slug: architecture
 description: "Architecture is the art and science of designing buildings and structures. Learn about architectural styles, key principles, famous architects, and careers."
 category: arts-amp-culture
 tags: ["architecture", "building design", "construction", "structural engineering", "urban planning", "design"]
-heroImage: "/images/articles/architecture.webp"
+heroImage: "/images/articles/architecture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

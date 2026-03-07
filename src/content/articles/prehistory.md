@@ -4,7 +4,7 @@ slug: prehistory
 description: "Prehistory is the period of human history before written records, spanning millions of years. Explore the Stone Age, Bronze Age, and how we study the past."
 category: history
 tags: ["prehistory", "archaeology", "stone age", "neolithic revolution"]
-heroImage: "/images/articles/prehistory.webp"
+heroImage: "/images/articles/prehistory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of prehistory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: philately
 description: "Philately is the study and collection of postage stamps and postal history. Learn about stamp collecting, grading, and why it remains a popular hobby."
 category: arts-amp-culture
 tags: ["stamps", "collecting", "postal history", "philatelist", "hobbies", "history"]
-heroImage: "/images/articles/philately.webp"
+heroImage: "/images/articles/philately-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philately"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

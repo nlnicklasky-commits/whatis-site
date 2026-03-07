@@ -4,7 +4,7 @@ slug: public-health
 description: "Public health protects and improves the health of entire populations through prevention, education, and policy. Learn its history, branches, and impact."
 category: health-amp-wellness
 tags: ["public health", "disease prevention", "epidemiology", "community health"]
-heroImage: "/images/articles/public-health.webp"
+heroImage: "/images/articles/public-health-hero.webp"
 heroAlt: "Editorial photograph representing the concept of public health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: interviewing-skills
 description: "Interviewing skills are techniques for performing well in job interviews. Learn about preparation, common questions, body language, and follow-up strategies."
 category: everyday-concepts
 tags: ["interviewing skills", "job search", "career", "communication", "hiring"]
-heroImage: "/images/articles/interviewing-skills.webp"
+heroImage: "/images/articles/interviewing-skills-hero.webp"
 heroAlt: "Editorial photograph representing the concept of interviewing skills"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ Behavioral interview questions — "Tell me about a time when you dealt with a d
 
 **Result** — what happened? Quantify when possible. "Revenue increased 15%" is stronger than "things improved."
 
-Practice STAR responses for 8 to 10 scenarios covering common themes: [leadership](/leadership), conflict, failure, teamwork, problem-solving, and time pressure. You will not predict exact questions, but having practiced stories makes you adaptable.
+Practice STAR responses for 8 to 10 scenarios covering common themes: [leadership](/leadership), [conflict](/conflict-resolution), failure, teamwork, problem-solving, and time pressure. You will not predict exact questions, but having practiced stories makes you adaptable.
 
 ## During the Interview
 
@@ -71,7 +71,7 @@ Practice STAR responses for 8 to 10 scenarios covering common themes: [leadershi
 
 **Handle difficult questions honestly.** If you do not know something, say so — then explain how you would find out. If you were fired from a previous job, give a brief, honest explanation without blaming others. If you have an employment gap, explain it simply and redirect to your qualifications.
 
-## Body Language
+## Body [Language](/english-language)
 
 Nonverbal communication carries more weight than most people realize. Research suggests that interviewers form strong impressions in the first 30 seconds — before you have said anything substantive.
 

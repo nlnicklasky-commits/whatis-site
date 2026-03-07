@@ -4,7 +4,7 @@ slug: traditional-chinese-medicine
 description: "Traditional Chinese Medicine (TCM) is an ancient health system using acupuncture, herbs, and other practices. Learn how it works and what research shows."
 category: everyday-concepts
 tags: ["traditional chinese medicine", "TCM", "acupuncture", "herbal medicine", "health", "wellness"]
-heroImage: "/images/articles/traditional-chinese-medicine.webp"
+heroImage: "/images/articles/traditional-chinese-medicine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of traditional chinese medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

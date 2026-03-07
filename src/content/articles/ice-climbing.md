@@ -1,10 +1,10 @@
 ---
 title: "What Is Ice Climbing?"
 slug: ice-climbing
-description: "Ice climbing is ascending frozen waterfalls and ice formations using specialized gear. Learn about techniques, equipment, grading, and safety."
+description: "Ice climbing is ascending frozen waterfalls and ice formations using specialized gear. Learn about techniques, equipment, grading, and safety. Discover the k..."
 category: sports
 tags: ["ice climbing", "mountaineering", "winter sports", "climbing", "ice axes", "crampons"]
-heroImage: "/images/articles/ice-climbing.webp"
+heroImage: "/images/articles/ice-climbing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ice climbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What fitness level do you need for ice climbing?"
     a: "You need good upper body strength (especially forearms and grip), cardiovascular fitness, and core stability. However, technique matters more than raw strength — efficient climbers use their legs and body positioning to conserve energy. Most reasonably fit people can try introductory ice climbing with a guide."
   - q: "How much does ice climbing gear cost?"
-    a: "A full setup — two technical ice axes ($300-600), crampons ($200-350), boots ($400-600), harness ($60-100), helmet ($60-100), and ice screws ($50-70 each, need 6-10) — runs $1,500 to $3,000. Many beginners rent gear initially or try guided trips where equipment is provided."
+    a: "A full setup — two technical ice axes ($300-600), crampons ($200-350), boots ($400-600), use ($60-100), helmet ($60-100), and ice screws ($50-70 each, need 6-10) — runs $1,500 to $3,000. Many beginners rent gear initially or try guided trips where equipment is provided."
 ---
 
 # What Is Ice Climbing?

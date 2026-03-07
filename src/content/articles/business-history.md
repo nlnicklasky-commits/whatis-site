@@ -1,10 +1,10 @@
 ---
 title: "What Is Business History?"
 slug: business-history
-description: "Business history studies how companies, industries, and commercial practices have evolved over time, revealing patterns that shape modern economies."
+description: "Business history studies how companies, industries, and commercial practices have evolved over time, revealing patterns that shape modern economies. Discover..."
 category: history
 tags: ["business history", "economic history", "corporations", "entrepreneurship"]
-heroImage: "/images/articles/business-history.webp"
+heroImage: "/images/articles/business-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of business history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Business history reveals recurring patterns in innovation, market disruption, corporate failure, and organizational change. Understanding how past companies succeeded or failed helps leaders avoid repeating mistakes and recognize emerging opportunities."
 ---
 
+# What Is Business History?
 Business history is the study of how commercial enterprises, industries, and economic practices have developed over time — from ancient trading networks to modern multinational corporations. It examines the people, decisions, and forces that shaped how we produce, sell, and organize economic activity.
 
 Here's what makes business history different from just reading about old companies: it reveals patterns. The same types of disruptions, management failures, and market shifts keep happening across centuries. Understanding those patterns gives you a genuine edge in making sense of the present.

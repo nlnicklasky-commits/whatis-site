@@ -1,10 +1,10 @@
 ---
 title: "What Is Taxonomy?"
 slug: taxonomy
-description: "Taxonomy is the science of classifying and naming organisms into hierarchical groups based on shared characteristics and evolutionary relationships."
+description: "Taxonomy is the science of classifying and naming organisms into hierarchical groups based on shared characteristics and evolutionary relationships. Discover..."
 category: science
 tags: ["taxonomy", "biology", "classification", "nomenclature", "species", "genus", "kingdom", "phylum"]
-heroImage: "/images/articles/taxonomy.webp"
+heroImage: "/images/articles/taxonomy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of taxonomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "The five-kingdom system (Monera, Protista, Fungi, Plantae, Animalia) is still taught in many schools but has been largely replaced in scientific literature by the three-domain system (Bacteria, Archaea, Eukarya) proposed by Carl Woese in 1977, based on ribosomal RNA analysis."
 ---
 
+# What Is Taxonomy?
 Taxonomy is the branch of science concerned with classifying, naming, and organizing living organisms into groups based on their shared characteristics and evolutionary relationships. It's the system that gives every known species a unique, universally recognized name and a place in the tree of life.
 
 You probably remember bits of it from biology class — kingdom, phylum, class, order, family, genus, species. Maybe you memorized a mnemonic like "King Philip Came Over For Good Spaghetti." But taxonomy is far more than a memorization exercise. It's the framework that makes sense of the staggering diversity of life on Earth, and without it, [biology](/biology) would be chaos.

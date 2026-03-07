@@ -4,7 +4,7 @@ slug: nautical-archaeology
 description: "Nautical archaeology studies shipwrecks and underwater sites to understand maritime history. Learn about methods, famous discoveries, and preservation."
 category: history
 tags: ["nautical archaeology", "underwater archaeology", "shipwrecks", "maritime history"]
-heroImage: "/images/articles/nautical-archaeology.webp"
+heroImage: "/images/articles/nautical-archaeology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nautical archaeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

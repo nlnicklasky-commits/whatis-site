@@ -1,10 +1,10 @@
 ---
 title: "What Is Science Journalism?"
 slug: science-journalism
-description: "Science journalism translates research findings into stories the public can understand. Learn how it works, why it matters, and its challenges."
+description: "Science journalism translates research findings into stories the public can understand. Learn how it works, why it matters, and its challenges. Discover the ..."
 category: everyday-concepts
 tags: ["science", "journalism", "science communication", "research", "public understanding", "scientific literacy"]
-heroImage: "/images/articles/science-journalism.webp"
+heroImage: "/images/articles/science-journalism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of science journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -63,7 +63,7 @@ University press offices often write sensational press releases because they wan
 
 A 2014 study in the *British Medical Journal* found that 40% of university press releases contained exaggerated claims. And when the press release exaggerated, the resulting news story exaggerated 58% of the time. The distortion starts before the journalist even gets involved.
 
-Then there's the headline problem. Editors — not journalists — typically write headlines, and they optimize for clicks. The journalist might write a careful, nuanced story, only to see it published under "Scientists Say Coffee Could Save Your Life." The journalist cringes. The editor watches traffic numbers climb.
+Then there's the headline problem. Editors — not journalists — typically write headlines, and they optimize for clicks. The journalist might write a careful, detailed story, only to see it published under "Scientists Say Coffee Could Save Your Life." The journalist cringes. The editor watches traffic numbers climb.
 
 ## Good Science Journalism in Action
 

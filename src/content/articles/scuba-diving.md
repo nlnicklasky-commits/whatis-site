@@ -4,7 +4,7 @@ slug: scuba-diving
 description: "Scuba diving lets you breathe underwater using portable air tanks. Learn about equipment, certification, safety, and what it's like below the surface."
 category: sports
 tags: ["scuba diving", "underwater", "diving", "marine life", "ocean", "exploration"]
-heroImage: "/images/articles/scuba-diving.webp"
+heroImage: "/images/articles/scuba-diving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of scuba diving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

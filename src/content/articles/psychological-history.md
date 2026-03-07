@@ -4,7 +4,7 @@ slug: psychological-history
 description: "Psychological history applies psychology to understand historical figures and events. Learn about psychohistory, its methods, famous studies, and criticisms."
 category: history
 tags: ["psychological history", "psychology", "history", "psychoanalysis"]
-heroImage: "/images/articles/psychological-history.webp"
+heroImage: "/images/articles/psychological-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of psychological history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

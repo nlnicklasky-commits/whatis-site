@@ -4,7 +4,7 @@ slug: utilitarianism
 description: "Utilitarianism is the ethical theory that the right action is the one producing the greatest good for the greatest number. Learn about types and key debates."
 category: philosophy
 tags: ["utilitarianism", "ethics", "philosophy", "moral theory", "consequentialism"]
-heroImage: "/images/articles/utilitarianism.webp"
+heroImage: "/images/articles/utilitarianism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of utilitarianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

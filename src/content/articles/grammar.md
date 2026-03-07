@@ -4,7 +4,7 @@ slug: grammar
 description: "Grammar is the system of rules governing how words combine into sentences. Learn about parts of speech, syntax, usage debates, and why grammar matters."
 category: everyday-concepts
 tags: ["grammar", "language", "linguistics", "writing", "syntax", "English"]
-heroImage: "/images/articles/grammar.webp"
+heroImage: "/images/articles/grammar-hero.webp"
 heroAlt: "Editorial photograph representing the concept of grammar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Grammar?
 
-Grammar is the set of structural rules that governs how words combine into phrases, clauses, and sentences in a language. Every language has grammar — it's what allows speakers to produce and understand an infinite number of sentences they've never heard before. You've never seen this exact sentence in your life, yet you understand it instantly because you know English grammar. That's remarkable if you think about it.
+Grammar is the set of structural rules that governs how words combine into phrases, clauses, and sentences in a [language](/greek-language). Every language has grammar — it's what allows speakers to produce and understand an infinite number of sentences they've never heard before. You've never seen this exact sentence in your life, yet you understand it instantly because you know [English](/english-language) grammar. That's remarkable if you think about it.
 
 ## Two Kinds of Grammar
 
@@ -75,7 +75,7 @@ Some grammar "rules" aren't really rules at all — they're preferences that got
 
 **Singular "they"** — using "they" to refer to one person of unspecified or non-binary gender. Prescriptivists historically objected because "they" is "plural." But English speakers have used singular "they" since the 14th century (Chaucer did it), and it fills a genuine gap in English's pronoun system. Major style guides including the AP Stylebook now accept it.
 
-**"Who" versus "whom"** — "whom" is the object form (like "him" versus "he"). In formal [writing](/writing), the distinction matters. In speech, "whom" is rapidly disappearing — most English speakers never use it naturally, which suggests the language is simplifying its pronoun system (again).
+**"Who" versus "whom"** — "whom" is the object form (like "him" versus "he"). In [formal](/formal-languages) [writing](/writing), the distinction matters. In speech, "whom" is rapidly disappearing — most English speakers never use it naturally, which suggests the language is simplifying its pronoun system (again).
 
 ## Why Grammar Matters
 

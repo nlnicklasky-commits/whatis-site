@@ -1,10 +1,10 @@
 ---
 title: "What Is Quantum Physics?"
 slug: quantum-physics
-description: "Quantum physics studies matter and energy at atomic scales, where particles follow probability rules instead of classical certainty."
+description: "Quantum physics studies matter and energy at atomic scales, where particles follow probability rules instead of classical certainty. Discover the key facts, ..."
 category: everyday-concepts
 tags: ["quantum physics", "physics", "atoms", "science", "wave function", "subatomic"]
-heroImage: "/images/articles/quantum-physics.webp"
+heroImage: "/images/articles/quantum-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of quantum physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Quantum Physics?
 
-Quantum physics is the branch of science that studies how nature works at its smallest scales — atoms, electrons, photons, quarks, and the forces between them. It's the most accurate description of reality we have, yet it describes a reality that seems impossible by everyday standards. Particles that exist in multiple states simultaneously. Outcomes determined by probability rather than certainty. Measurement that changes what's being measured. Quantum physics works — it underpins all modern technology — but understanding *why* it works the way it does remains one of the deepest puzzles in science.
+Quantum physics is the branch of science that studies how nature works at its smallest scales — atoms, electrons, photons, quarks, and the forces between them. It's the most accurate description of reality we have, yet it describes a reality that seems impossible by everyday standards. Particles that exist in multiple states simultaneously. Outcomes determined by probability rather than certainty. Measurement that changes what's being measured. Quantum physics works — it backs up all modern technology — but understanding *why* it works the way it does remains one of the deepest puzzles in science.
 
 ## From Classical to Quantum
 

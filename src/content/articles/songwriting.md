@@ -1,10 +1,10 @@
 ---
 title: "What Is Songwriting?"
 slug: songwriting
-description: "Songwriting is the craft of composing lyrics and melodies to create songs. Learn about structure, techniques, and how professional songwriters work."
+description: "Songwriting is the craft of composing lyrics and melodies to create songs. Learn about structure, techniques, and how professional songwriters work. Discover..."
 category: arts-amp-culture
 tags: ["songwriting", "music composition", "lyrics", "melody", "music industry", "creativity"]
-heroImage: "/images/articles/songwriting.webp"
+heroImage: "/images/articles/songwriting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of songwriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: smelting
 description: "Smelting is the process of extracting metal from ore using heat and chemical reactions. Learn how it works, its history, types, and environmental impact."
 category: science
 tags: ["metallurgy", "chemistry", "metals", "mining", "industrial processes", "materials science"]
-heroImage: "/images/articles/smelting.webp"
+heroImage: "/images/articles/smelting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of smelting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

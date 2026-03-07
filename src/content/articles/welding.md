@@ -4,7 +4,7 @@ slug: welding
 description: "Welding is a fabrication process that joins materials, usually metals, by applying heat, pressure, or both to fuse them together at the molecular level."
 category: technology
 tags: ["welding", "manufacturing", "metalwork"]
-heroImage: "/images/articles/welding.webp"
+heroImage: "/images/articles/welding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Gas Metal Arc Welding, universally called MIG (Metal Inert Gas) welding, feeds a
 
 The wire electrode serves double duty as both the electrical conductor that creates the arc and the filler metal that builds up the joint. Wire feed speed and voltage are the primary settings, and modern MIG machines are surprisingly user-friendly -- some even have auto-set features that dial in parameters based on material thickness.
 
-MIG welding works well on steel, stainless steel, and aluminum (with the right wire and gas). It's the go-to process for automotive fabrication, structural steel, [manufacturing](/manufacturing-[engineering](/engineering)) production lines, and general-purpose shop work. Its main limitation is wind sensitivity -- the shielding gas can blow away outdoors, creating poor welds.
+MIG welding works well on steel, stainless steel, and aluminum (with the right wire and gas). It's the go-to process for automotive fabrication, structural steel, [manufacturing](/lean-manufacturing)) production lines, and general-purpose shop work. Its main limitation is wind sensitivity -- the shielding gas can blow away outdoors, creating poor welds.
 
 ### Stick Welding (SMAW)
 

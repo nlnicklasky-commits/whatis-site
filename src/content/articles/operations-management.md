@@ -4,7 +4,7 @@ slug: operations-management
 description: "Operations management oversees the production of goods and services efficiently. Learn about supply chains, quality control, and process optimization."
 category: everyday-concepts
 tags: ["operations management", "business efficiency", "supply chain", "production", "manufacturing", "service delivery"]
-heroImage: "/images/articles/operations-management.webp"
+heroImage: "/images/articles/operations-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of operations management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

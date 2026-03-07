@@ -1,10 +1,10 @@
 ---
 title: "What Is Subatomic Particles?"
 slug: subatomic-particles
-description: "Subatomic particles are the tiny building blocks smaller than atoms—quarks, leptons, and bosons—that make up all matter and force in the universe."
+description: "Subatomic particles are the tiny building blocks smaller than atoms—quarks, leptons, and bosons—that make up all matter and force in the universe. Discover t..."
 category: science
 tags: ["physics", "subatomic particles", "quantum mechanics", "particle physics", "standard model"]
-heroImage: "/images/articles/subatomic-particles.webp"
+heroImage: "/images/articles/subatomic-particles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of subatomic particles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "The Higgs boson is the particle associated with the Higgs field, which gives other particles their mass. Its discovery in 2012 at CERN confirmed a 48-year-old prediction and completed the Standard Model."
 ---
 
+# What Is Subatomic Particles?
 Subatomic particles are any particles smaller than an atom — the quarks, leptons, and bosons that constitute matter and mediate the fundamental forces of nature. They are the smallest known building blocks of the physical universe.
 
 Here's something wild to think about: you, this screen, the chair you're sitting in — all of it is made of atoms. But atoms themselves aren't the bottom of the rabbit hole. Inside every atom are protons, neutrons, and electrons. And inside those protons and neutrons? Even tinier things called quarks, held together by particles called gluons. We've been peeling back layers of reality for over a century, and the picture keeps getting stranger.

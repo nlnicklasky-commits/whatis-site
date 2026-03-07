@@ -4,7 +4,7 @@ slug: irrigation
 description: "Irrigation is supplying water to crops through artificial channels and systems. Learn about methods from flood to drip irrigation and their global impact."
 category: agriculture
 tags: ["irrigation", "agriculture", "water management", "farming", "food production"]
-heroImage: "/images/articles/irrigation.webp"
+heroImage: "/images/articles/irrigation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of irrigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

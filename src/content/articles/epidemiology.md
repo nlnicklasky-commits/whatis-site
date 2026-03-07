@@ -4,7 +4,7 @@ slug: epidemiology
 description: "Epidemiology is the study of how diseases spread through populations, who gets sick, and why. It's the detective science behind public health decisions."
 category: health-amp-wellness
 tags: ["epidemiology", "public health", "disease", "population health", "biostatistics"]
-heroImage: "/images/articles/epidemiology.webp"
+heroImage: "/images/articles/epidemiology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of epidemiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

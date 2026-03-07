@@ -4,7 +4,7 @@ slug: slavic-languages
 description: "Slavic languages are a family of related languages spoken by over 300 million people across Eastern Europe and beyond. Learn about their branches and features."
 category: language
 tags: ["slavic languages", "east slavic", "west slavic", "south slavic", "russian", "polish"]
-heroImage: "/images/articles/slavic-languages.webp"
+heroImage: "/images/articles/slavic-languages-hero.webp"
 heroAlt: "Editorial photograph representing the concept of slavic languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ What makes the Slavic family interesting linguistically is how recently these la
 
 Slavic languages split into three geographical groupings, each with distinctive features.
 
-**East Slavic** includes Russian, Ukrainian, and Belarusian. Russian is by far the largest, with about 150 million native speakers and significant second-language use across the former Soviet Union. Ukrainian (about 40 million speakers) and Belarusian (about 5 million active speakers) are closely related to Russian but distinct languages with their own literatures, standards, and national identities. All three use Cyrillic script, though Ukrainian and Belarusian Cyrillic differ from Russian Cyrillic in several letters.
+**East Slavic** includes Russian, Ukrainian, and Belarusian. Russian is by far the largest, with about 150 million native speakers and significant [second](/second-language-acquisition)-language use across the former Soviet Union. Ukrainian (about 40 million speakers) and Belarusian (about 5 million active speakers) are closely related to Russian but distinct languages with their own literatures, standards, and national identities. All three use Cyrillic script, though Ukrainian and Belarusian Cyrillic differ from Russian Cyrillic in several letters.
 
 **West Slavic** includes Polish, Czech, Slovak, and Sorbian. Polish (45 million speakers) is the largest, followed by Czech (10 million) and Slovak (5 million). These languages use the Latin alphabet with diacritical marks — the accents and hooks over letters that distinguish Polish from, say, English text. Czech and Slovak are close enough that speakers typically understand each other with minimal difficulty. Polish is more divergent but still recognizably related.
 

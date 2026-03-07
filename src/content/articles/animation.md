@@ -4,7 +4,7 @@ slug: animation
 description: "Animation is the art of creating the illusion of movement by displaying a sequence of images in rapid succession. Explore its types, history, and techniques."
 category: arts-amp-culture
 tags: ["animation", "cgi", "2d animation", "3d animation", "stop motion", "motion graphics"]
-heroImage: "/images/articles/animation.webp"
+heroImage: "/images/articles/animation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of animation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

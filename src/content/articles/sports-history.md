@@ -1,10 +1,10 @@
 ---
 title: "What Is Sports History?"
 slug: sports-history
-description: "Sports history traces how athletic competition evolved from ancient rituals to a global industry. Explore key moments, figures, and cultural shifts."
+description: "Sports history traces how athletic competition evolved from ancient rituals to a global industry. Explore key moments, figures, and cultural shifts. Discover..."
 category: history
 tags: ["sports history", "athletics", "olympics", "sports culture"]
-heroImage: "/images/articles/sports-history.webp"
+heroImage: "/images/articles/sports-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

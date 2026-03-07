@@ -1,10 +1,10 @@
 ---
 title: "What Is Pharmacy?"
 slug: pharmacy
-description: "Pharmacy is the science of preparing, dispensing, and managing medications. Learn about pharmacist roles, education, drug safety, and career paths."
+description: "Pharmacy is the science of preparing, dispensing, and managing medications. Learn about pharmacist roles, education, drug safety, and career paths. Discover ..."
 category: health-amp-wellness
 tags: ["pharmacist", "medications", "drugs", "healthcare"]
-heroImage: "/images/articles/pharmacy.webp"
+heroImage: "/images/articles/pharmacy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pharmacy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -62,7 +62,7 @@ Medication non-adherence is a massive problem. The World Health Organization est
 
 This is where the profession gets interesting. Clinical pharmacists work in hospitals, clinics, and specialty practices, making drug therapy recommendations directly to physicians. They round with medical teams, adjust dosages based on lab values, and manage complex medication regimens for patients with multiple conditions.
 
-In many hospitals, clinical pharmacists run anticoagulation clinics (managing blood thinners like warfarin), [diabetes management](/diabetes-[management](/management)) programs, and pain management consultations. They're embedded in the care team, not behind a counter.
+In many hospitals, clinical pharmacists run anticoagulation clinics (managing blood thinners like warfarin), [diabetes management](/diabetes-management)) programs, and pain management consultations. They're embedded in the care team, not behind a counter.
 
 ## Pharmacy Education
 

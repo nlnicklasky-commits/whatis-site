@@ -1,10 +1,10 @@
 ---
 title: "What Is Fishing?"
 slug: fishing
-description: "Fishing is the practice of catching fish for food, sport, or livelihood. Learn about techniques, gear, regulations, and the global fishing industry."
+description: "Fishing is the practice of catching fish for food, sport, or livelihood. Learn about techniques, gear, regulations, and the global fishing industry. Discover..."
 category: sports
 tags: ["angling", "seafood", "fisheries", "recreation", "commercial fishing", "sustainability"]
-heroImage: "/images/articles/fishing.webp"
+heroImage: "/images/articles/fishing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ The commercial fishing industry is massive and complex. Major methods include:
 
 **Purse seining** encircles schools of fish (often tuna or sardines) with a large net that closes at the bottom like a drawstring purse. It's efficient but can capture dolphins and other marine mammals along with target species.
 
-**[Aquaculture](/aquaculture)** ([fish farming](/fish-[farming](/farming))) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
+**[Aquaculture](/aquaculture)** ([fish farming](/fishing))) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
 
 ## The Sustainability Problem
 

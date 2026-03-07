@@ -4,7 +4,7 @@ slug: particle-physics
 description: "Particle physics studies the fundamental building blocks of matter and the forces between them. Learn about quarks, the Higgs boson, and the Standard Model."
 category: everyday-concepts
 tags: ["particle physics", "quantum physics", "Standard Model", "quarks", "CERN", "Higgs boson"]
-heroImage: "/images/articles/particle-physics.webp"
+heroImage: "/images/articles/particle-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of particle physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ The data volumes are staggering. The LHC produces about 1 petabyte (1 million gi
 
 The Standard Model is spectacularly successful — but it's incomplete. Several major problems remain:
 
-**Gravity.** The Standard Model doesn't include gravity. [Quantum mechanics](/quantum-mechanics) and [general relativity](/general-[relativity](/relativity)) — our best theories of the very small and very large — are mathematically incompatible. [String theory](/string-theory) and loop quantum gravity are attempts to reconcile them, but neither has been experimentally confirmed.
+**Gravity.** The Standard Model doesn't include gravity. [Quantum mechanics](/quantum-mechanics) and [general relativity](/genetics)) — our best theories of the very small and very large — are mathematically incompatible. [String theory](/string-theory) and loop quantum gravity are attempts to reconcile them, but neither has been experimentally confirmed.
 
 **Dark matter.** Astronomical observations show that about 27% of the universe's mass-energy consists of matter that doesn't interact with light. No known Standard Model particle fits. Whatever dark matter is, it's something new. Experiments like XENON, LUX-ZEPLIN, and searches at the LHC continue looking.
 

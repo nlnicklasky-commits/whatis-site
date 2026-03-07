@@ -4,7 +4,7 @@ slug: curling
 description: "Curling is a winter sport where players slide stones across ice toward a target. Learn about rules, strategy, sweeping, and why it's called chess on ice."
 category: sports
 tags: ["curling", "ice sport", "winter sports", "strategy", "team sport", "granite"]
-heroImage: "/images/articles/curling.webp"
+heroImage: "/images/articles/curling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of curling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

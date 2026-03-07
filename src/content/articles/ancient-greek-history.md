@@ -1,10 +1,10 @@
 ---
 title: "What Is Ancient Greek History?"
 slug: ancient-greek-history
-description: "Ancient Greek history spans roughly 1,500 years of civilization that gave the world democracy, philosophy, theater, and the Olympic Games."
+description: "Ancient Greek history spans roughly 1,500 years of civilization that gave the world democracy, philosophy, theater, and the Olympic Games. Discover the key f..."
 category: history
 tags: ["ancient greece", "greek history", "athens", "sparta", "philosophy", "democracy"]
-heroImage: "/images/articles/ancient-greek-history.webp"
+heroImage: "/images/articles/ancient-greek-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ancient greek history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Yes, religion was woven into every aspect of Greek daily life. They built temples, held festivals, made sacrifices, and consulted oracles. The gods explained natural phenomena and provided moral frameworks, though some philosophers questioned traditional beliefs."
 ---
 
+# What Is Ancient Greek History?
 Ancient Greek history covers roughly 1,500 years of civilization centered around the Aegean Sea, from the collapse of Mycenaean palace cultures around 1200 BCE to the Roman conquest in 146 BCE. This civilization produced democracy, Western [philosophy](/philosophy), dramatic theater, the Olympic Games, and foundational advances in mathematics, science, and art.
 
 You might think of ancient Greece as one unified country. It wasn't. Greece was a patchwork of independent city-states — each with its own government, laws, currency, and military. They fought each other constantly. They also produced an outsized share of the ideas that still shape how you think, govern, and create today.

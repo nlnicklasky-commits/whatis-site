@@ -1,10 +1,10 @@
 ---
 title: "What Is Mandarin Chinese?"
 slug: mandarin-chinese
-description: "Mandarin Chinese is the most spoken language in the world, with over 920 million native speakers. Learn about its tones, writing system, and grammar."
+description: "Mandarin Chinese is the most spoken language in the world, with over 920 million native speakers. Learn about its tones, writing system, and grammar. Discove..."
 category: everyday-concepts
 tags: ["mandarin chinese", "language", "Chinese", "tonal language", "linguistics", "world languages"]
-heroImage: "/images/articles/mandarin-chinese.webp"
+heroImage: "/images/articles/mandarin-chinese-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mandarin chinese"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

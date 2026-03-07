@@ -4,7 +4,7 @@ slug: mongol-history
 description: "Mongol history covers the rise of Genghis Khan, the vast Mongol Empire, and its lasting impact on Eurasia. Learn about conquests, culture, and legacy."
 category: everyday-concepts
 tags: ["mongol history", "Genghis Khan", "Mongol Empire", "Asian history", "conquests", "steppe nomads"]
-heroImage: "/images/articles/mongol-history.webp"
+heroImage: "/images/articles/mongol-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mongol history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

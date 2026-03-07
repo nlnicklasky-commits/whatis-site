@@ -4,7 +4,7 @@ slug: superfoods
 description: "Superfoods are nutrient-dense foods marketed as especially beneficial for health. Learn what the term means, which foods qualify, and what science says."
 category: everyday-concepts
 tags: ["superfoods", "nutrition", "health", "diet", "antioxidants", "food science"]
-heroImage: "/images/articles/superfoods.webp"
+heroImage: "/images/articles/superfoods-hero.webp"
 heroAlt: "Editorial photograph representing the concept of superfoods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

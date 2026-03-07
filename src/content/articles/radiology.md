@@ -1,10 +1,10 @@
 ---
 title: "What Is Radiology?"
 slug: radiology
-description: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultrasound to diagnose and treat diseases. Learn how it works and why it matters."
+description: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultrasound to diagnose and treat diseases. Learn how it works and why it matters. Discover the ..."
 category: health-amp-wellness
 tags: ["medical", "radiology", "imaging", "x-ray"]
-heroImage: "/images/articles/radiology.webp"
+heroImage: "/images/articles/radiology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of radiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -117,7 +117,7 @@ It's intellectually demanding [pattern recognition](/pattern-recognition) work. 
 
 AI is genuinely good at specific, well-defined tasks: detecting diabetic retinopathy in eye scans, flagging suspicious lung nodules on CT, identifying fractures on X-rays. Several FDA-cleared AI tools assist radiologists by prioritizing urgent cases or providing a "second read."
 
-But replacing the radiologist? That requires understanding clinical context, integrating information across multiple studies, communicating nuanced findings, and exercising judgment — things AI still struggles with. The emerging consensus: AI won't replace radiologists, but radiologists who use AI will replace those who don't.
+But replacing the radiologist? That requires understanding clinical context, integrating information across multiple studies, communicating layered findings, and exercising judgment — things AI still struggles with. The emerging consensus: AI won't replace radiologists, but radiologists who use AI will replace those who don't.
 
 ## Radiation Safety — The Numbers
 

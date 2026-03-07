@@ -1,7 +1,7 @@
 ---
 title: "What Is Neurobiology?"
 slug: neurobiology
-description: "Neurobiology studies how the nervous system works at the cellular and molecular level, from neuron signaling to brain circuits that drive behavior."
+description: "Neurobiology studies how the nervous system works at the cellular and molecular level, from neuron signaling to brain circuits that drive behavior. Discover ..."
 category: science
 tags: ["neurobiology", "neuroscience", "brain", "nervous system", "neurons", "synapses", "brain function"]
 heroImage: "/images/articles/neurobiology-hero.webp"

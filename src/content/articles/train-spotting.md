@@ -1,10 +1,10 @@
 ---
 title: "What Is Train Spotting?"
 slug: train-spotting
-description: "Train spotting is the hobby of observing, recording, and photographing trains. Learn why people do it, how it started, and the community behind it."
+description: "Train spotting is the hobby of observing, recording, and photographing trains. Learn why people do it, how it started, and the community behind it. Discover ..."
 category: everyday-concepts
 tags: ["train spotting", "railfan", "trains", "hobby", "transportation", "railways"]
-heroImage: "/images/articles/train-spotting.webp"
+heroImage: "/images/articles/train-spotting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of train spotting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -43,7 +43,7 @@ It's one of those hobbies that outsiders find baffling and insiders find endless
 
 **Timetable and route study** — Understanding schedules, formations, and operating patterns. Some enthusiasts can predict which specific locomotive will appear on which service.
 
-**Historical research** — Studying the history of specific locomotives, railway companies, routes, and infrastructure. Railway [history](/railroad-history) is enormously well-documented, and archival research is a significant part of the hobby.
+**Historical research** — Studying the [history](/transportation-history) of specific locomotives, railway companies, routes, and infrastructure. Railway [history](/railroad-history) is enormously well-documented, and archival research is a significant part of the hobby.
 
 **Model railways** — Many train spotters also build model railways, combining observation with hands-on [construction](/construction) and [engineering](/engineering).
 
@@ -67,7 +67,7 @@ The timing wasn't coincidental. The immediate postwar period saw steam locomotiv
 
 Digital technology has transformed the hobby. GPS-equipped tracking apps show train movements in real time. Online databases catalog every locomotive built. Social media groups share photographs, sightings, and information instantly. YouTube channels dedicated to railway footage attract millions of views.
 
-Drone photography has opened new perspectives, and high-quality [digital cameras](/photography) make professional-looking railway photography accessible to amateurs.
+Drone photography has opened new perspectives, and high-quality [digital cameras](/photovoltaics) make professional-looking railway photography accessible to amateurs.
 
 ## The Cultural Image
 

@@ -4,7 +4,7 @@ slug: greek-language
 description: "Greek is one of the oldest recorded languages, spoken for over 3,400 years. Learn about its history, alphabet, influence on English, and modern usage."
 category: everyday-concepts
 tags: ["greek language", "Greek", "linguistics", "ancient languages", "alphabet", "Indo-European"]
-heroImage: "/images/articles/greek-language.webp"
+heroImage: "/images/articles/greek-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the greek language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

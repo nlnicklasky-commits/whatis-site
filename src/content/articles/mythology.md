@@ -4,7 +4,7 @@ slug: mythology
 description: "Mythology is the collection of myths belonging to a culture, explaining origins, nature, and human existence. Learn about major mythologies and their themes."
 category: arts-amp-culture
 tags: ["mythology", "myths", "folklore", "ancient religions", "storytelling", "cultural heritage"]
-heroImage: "/images/articles/mythology.webp"
+heroImage: "/images/articles/mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

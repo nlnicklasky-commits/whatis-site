@@ -180,7 +180,7 @@ This "is-ought gap" means that ethics can never be purely scientific. Science ca
 
 This is the most common objection, and it confuses two things. Yes, people disagree about ethics. But people also disagree about history, economics, and nutrition. Disagreement doesn't prove there are no right answers — it proves the questions are hard.
 
-Moreover, some ethical claims are clearly better supported by reasons than others. "It's wrong to torture babies for entertainment" is more defensible than "it's wrong to eat ice cream on Tuesdays." If ethics were purely subjective, you couldn't explain why.
+On top of that, some ethical claims are clearly better supported by reasons than others. "It's wrong to torture babies for entertainment" is more defensible than "it's wrong to eat ice cream on Tuesdays." If ethics were purely subjective, you couldn't explain why.
 
 ### "You can't prove ethical claims"
 

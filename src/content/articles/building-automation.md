@@ -1,7 +1,7 @@
 ---
 title: "What Is Building Automation?"
 slug: building-automation
-description: "Building automation uses technology to automatically control HVAC, lighting, security, and other building systems for efficiency and comfort."
+description: "Building automation uses technology to automatically control HVAC, lighting, security, and other building systems for efficiency and comfort. Discover the ke..."
 category: technology
 tags: ["building automation", "building management systems", "bms", "smart buildings", "hvac", "energy efficiency", "iot"]
 heroImage: "/images/articles/building-automation-hero.webp"

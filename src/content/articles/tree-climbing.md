@@ -4,7 +4,7 @@ slug: tree-climbing
 description: "Tree climbing is the activity of ascending trees for recreation, sport, or professional work. Learn the techniques, gear, safety practices, and competitions."
 category: sports
 tags: ["tree climbing", "outdoor recreation", "arboriculture", "climbing", "adventure sports", "nature"]
-heroImage: "/images/articles/tree-climbing.webp"
+heroImage: "/images/articles/tree-climbing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tree climbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "Is tree climbing dangerous?"
     a: "Unprotected free climbing can be very dangerous — falls from height cause serious injuries and deaths. However, recreational and professional tree climbing with proper rope systems and harnesses has an excellent safety record. Modern techniques use redundant anchor points and friction devices that prevent falls. The biggest risks come from dead branches, improper equipment use, and climbing in bad weather."
   - q: "What equipment do you need for recreational tree climbing?"
-    a: "The basics include a climbing-rated harness (saddle), a static or low-stretch climbing rope (at least 150 feet), a friction device or mechanical ascender, a throw line and weight for setting ropes, carabiners, a helmet, and sturdy closed-toe shoes. Quality starter kits run $300-600. Never use hardware store rope or non-climbing harnesses."
+    a: "The basics include a climbing-rated tap into (saddle), a static or low-stretch climbing rope (at least 150 feet), a friction device or mechanical ascender, a throw line and weight for setting ropes, carabiners, a helmet, and sturdy closed-toe shoes. Quality starter kits run $300-600. Never use hardware store rope or non-climbing harnesses."
   - q: "Is tree climbing bad for the trees?"
     a: "When done properly, recreational tree climbing causes minimal damage. Using cambium savers (bark protectors) where ropes contact branches, avoiding climbing during active growth periods, staying off small branches, and not using climbing spikes (which wound the trunk) all protect tree health. Professional arborists follow strict protocols to minimize tree impact."
 ---
@@ -103,6 +103,6 @@ The biggest danger isn't falling (rope systems prevent that) — it's dead branc
 
 ## Getting Started
 
-Most cities have tree climbing groups, guided experiences, or [outdoor recreation](/outdoor-recreation) companies that offer introductory sessions. A half-day course typically costs $75-200 and includes all equipment. That's the best way to try it — you'll learn basic technique, climb a real tree under supervision, and figure out whether this is something you want to pursue.
+Most cities have tree climbing groups, guided experiences, or [outdoor recreation](/outdoor-survival) companies that offer introductory sessions. A half-day course typically costs $75-200 and includes all equipment. That's the best way to try it — you'll learn basic technique, climb a real tree under supervision, and figure out whether this is something you want to pursue.
 
 If it clicks, expect to invest $400-700 in personal gear and additional training time. The learning curve is manageable — most people can make their first independent climb after a weekend of instruction. Getting *good* — moving efficiently, reading trees, managing complex rope setups — takes much longer. But that first time you settle into a hammock strung 60 feet up in an old oak, watching the world from a perspective humans rarely see, you'll understand why people get hooked.

@@ -1,7 +1,7 @@
 ---
 title: "What Is Psychology?"
 slug: psychology
-description: "Psychology is the scientific study of mind and behavior. Learn about its major branches, research methods, history, and how it shapes everyday life."
+description: "Psychology is the scientific study of mind and behavior. Learn about its major branches, research methods, history, and how it shapes everyday life. Discover..."
 category: science
 tags: ["psychology", "mind", "behavior", "mental health", "cognitive psychology", "social psychology", "clinical psychology"]
 heroImage: "/images/articles/psychology-hero.webp"

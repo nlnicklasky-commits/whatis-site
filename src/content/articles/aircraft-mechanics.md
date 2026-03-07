@@ -1,7 +1,7 @@
 ---
 title: What Is Aircraft Mechanics?
 slug: aircraft-mechanics
-description: "Aircraft mechanics keeps planes flying safely through inspection, repair, and maintenance governed by strict FAA regulations and A&P certification."
+description: "Aircraft mechanics keeps planes flying safely through inspection, repair, and maintenance governed by strict FAA regulations and A&P certification. Discover ..."
 category: technology
 tags: ["aircraft mechanics", "aviation", "amt", "a&p", "aviation maintenance", "aircraft repair", "faa"]
 heroImage: "/images/articles/aircraft-mechanics-hero.webp"

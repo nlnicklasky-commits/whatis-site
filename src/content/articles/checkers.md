@@ -1,10 +1,10 @@
 ---
 title: "What Is Checkers?"
 slug: checkers
-description: "Checkers (draughts) is a two-player strategy board game played on an 8x8 board where players capture opponent pieces by jumping over them diagonally."
+description: "Checkers (draughts) is a two-player strategy board game played on an 8x8 board where players capture opponent pieces by jumping over them diagonally. Discove..."
 category: everyday-concepts
 tags: ["checkers", "draughts", "board games", "strategy", "games", "puzzles"]
-heroImage: "/images/articles/checkers.webp"
+heroImage: "/images/articles/checkers-hero.webp"
 heroAlt: "Editorial photograph representing the concept of checkers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

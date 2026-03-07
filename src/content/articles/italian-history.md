@@ -4,7 +4,7 @@ slug: italian-history
 description: "Italian history spans from ancient Rome through the Renaissance to modern unification. Learn about the Roman Empire, city-states, and Italy's cultural legacy."
 category: history
 tags: ["roman empire", "italy", "renaissance", "unification", "italian history"]
-heroImage: "/images/articles/italian-history.webp"
+heroImage: "/images/articles/italian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of italian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -109,6 +109,6 @@ Modern Italy remains a study in contradictions. It has the EU's third-largest ec
 
 ## Why Italian History Matters
 
-Italy's influence on Western civilization is almost impossible to overstate. Roman law underpins legal systems across Europe and the Americas. The Latin language evolved into Italian, French, Spanish, Portuguese, and Romanian. [Renaissance art](/renaissance-art) set the standards by which Western visual culture is still measured. Italian music, from Gregorian chant to opera, shaped European [aesthetics](/aesthetics) for centuries.
+Italy's influence on Western civilization is almost impossible to overstate. Roman law backs up legal systems across Europe and the Americas. The Latin language evolved into Italian, French, Spanish, Portuguese, and Romanian. [Renaissance art](/renaissance-art) set the standards by which Western visual culture is still measured. Italian music, from Gregorian chant to opera, shaped European [aesthetics](/aesthetics) for centuries.
 
 Understanding Italian history also means understanding a recurring pattern: political fragmentation coexisting with cultural brilliance. Italy's greatest achievements often came during periods of political division and even chaos. That's a useful thing to remember — unity and creativity don't always go together, and a messy political field can sometimes produce extraordinary results.

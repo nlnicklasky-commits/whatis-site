@@ -1,10 +1,10 @@
 ---
 title: "What Is Fiction Writing?"
 slug: fiction-writing
-description: "Fiction writing is the craft of creating imaginary stories and characters. Explore the elements, genres, and techniques that make fiction work."
+description: "Fiction writing is the craft of creating imaginary stories and characters. Explore the elements, genres, and techniques that make fiction work. Discover the ..."
 category: everyday-concepts
 tags: ["fiction writing", "creative writing", "storytelling", "novels", "short stories", "literature"]
-heroImage: "/images/articles/fiction-writing.webp"
+heroImage: "/images/articles/fiction-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fiction writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

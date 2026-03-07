@@ -4,7 +4,7 @@ slug: property-law
 description: "Property law governs ownership, use, and transfer of land and possessions. Learn about real property, personal property, easements, and tenant rights."
 category: law
 tags: ["property law", "real estate law", "land law", "ownership"]
-heroImage: "/images/articles/property-law.webp"
+heroImage: "/images/articles/property-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of property law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

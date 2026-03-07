@@ -4,7 +4,7 @@ slug: urban-farming
 description: "Urban farming is growing food in cities using rooftops, vacant lots, and indoor spaces. Learn about methods, benefits, challenges, and getting started."
 category: everyday-concepts
 tags: ["urban farming", "agriculture", "city gardening", "food production", "sustainability", "community"]
-heroImage: "/images/articles/urban-farming.webp"
+heroImage: "/images/articles/urban-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urban farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

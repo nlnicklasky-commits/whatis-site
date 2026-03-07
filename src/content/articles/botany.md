@@ -1,7 +1,7 @@
 ---
 title: "What Is Botany?"
 slug: botany
-description: "Botany is the scientific study of plants, covering their structure, growth, reproduction, ecology, and vital role in Earth's ecosystems."
+description: "Botany is the scientific study of plants, covering their structure, growth, reproduction, ecology, and vital role in Earth's ecosystems. Discover the key fac..."
 category: science
 tags: ["botany", "plant biology", "plants", "photosynthesis", "plant taxonomy", "ethnobotany", "ecology"]
 heroImage: "/images/articles/botany-hero.webp"

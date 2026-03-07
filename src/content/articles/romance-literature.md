@@ -1,10 +1,10 @@
 ---
 title: "What Is Romance Literature?"
 slug: romance-literature
-description: "Romance literature is fiction centered on love and emotional relationships. Learn about its origins, subgenres, and massive cultural impact."
+description: "Romance literature is fiction centered on love and emotional relationships. Learn about its origins, subgenres, and massive cultural impact. Discover the key..."
 category: everyday-concepts
 tags: ["medieval romance", "chivalry", "courtly love", "love stories", "fiction", "novel"]
-heroImage: "/images/articles/romance-literature.webp"
+heroImage: "/images/articles/romance-literature-hero.webp"
 heroAlt: "Editorial photograph representing the concept of romance literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -75,7 +75,7 @@ Romance fiction accounts for roughly 23% of all fiction sales in the United Stat
 
 About 82% of romance readers are women, though male readership has been growing. The average romance reader consumes multiple books per month — some read one or two per week. This voracious readership creates a market where prolific authors thrive. Nora Roberts has published over 225 novels. Some indie romance authors release 8-12 books per year.
 
-The rise of [self-publishing](/self-[publishing](/publishing)) and ebook platforms — particularly Amazon's Kindle Unlimited — transformed the romance market starting around 2012. Indie authors now capture a significant share of romance sales, and some earn six or seven figures annually without traditional publishing deals.
+The rise of [self-publishing](/self-defense)) and ebook platforms — particularly Amazon's Kindle Unlimited — transformed the romance market starting around 2012. Indie authors now capture a significant share of romance sales, and some earn six or seven figures annually without traditional publishing deals.
 
 ## Why It Works
 

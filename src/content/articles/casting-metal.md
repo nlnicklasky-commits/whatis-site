@@ -1,7 +1,7 @@
 ---
 title: "What Is Casting (Metal)?"
 slug: casting-metal
-description: "Metal casting is a manufacturing process where molten metal is poured into a mold and solidified into a desired shape, used for thousands of years."
+description: "Metal casting is a manufacturing process where molten metal is poured into a mold and solidified into a desired shape, used for thousands of years. Discover ..."
 category: technology
 tags: ["metal casting", "manufacturing", "metallurgy", "foundry", "mold", "molten metal", "industrial process"]
 heroImage: "/images/articles/casting-metal-hero.webp"

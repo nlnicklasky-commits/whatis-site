@@ -4,7 +4,7 @@ slug: youtube-content-creation
 description: "YouTube content creation is the process of producing and publishing video content on YouTube, covering filming, editing, optimization, and audience growth."
 category: technology
 tags: ["digital media", "video production", "online content", "social media"]
-heroImage: "/images/articles/youtube-content-creation.webp"
+heroImage: "/images/articles/youtube-content-creation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of youtube content creation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

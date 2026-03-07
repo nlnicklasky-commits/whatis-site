@@ -4,7 +4,7 @@ slug: video-game-journalism
 description: "Video game journalism covers the gaming industry through reviews, news, features, and criticism. Learn about its history, challenges, and evolving formats."
 category: everyday-concepts
 tags: ["video game journalism", "gaming media", "game reviews", "industry coverage", "content creation", "criticism"]
-heroImage: "/images/articles/video-game-journalism.webp"
+heroImage: "/images/articles/video-game-journalism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of video game journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -63,7 +63,7 @@ Review scores are game journalism's most contentious feature. A 7/10 sounds reas
 
 This creates several problems. Score compression means the effective range is 7-10 rather than 1-10. A 6/10 game (which should mean "above average") gets treated as a disaster. Different reviewers use scales differently — one person's 7 is another's 8.
 
-Some outlets have responded by dropping scores entirely (Eurogamer, Kotaku at various points). Others use simplified scales (buy/wait/skip). The tension between nuanced criticism and a reductive number has never been resolved.
+Some outlets have responded by dropping scores entirely (Eurogamer, Kotaku at various points). Others use simplified scales (buy/wait/skip). The tension between complex criticism and a reductive number has never been resolved.
 
 ## The Access Problem
 

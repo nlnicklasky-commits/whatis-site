@@ -4,13 +4,13 @@ slug: virology
 description: "Virology is the study of viruses and viral diseases. Learn about virus structure, replication, classification, vaccines, and how virologists fight pandemics."
 category: science
 tags: ["virology", "biology", "microbiology", "infectious disease", "vaccines"]
-heroImage: "/images/articles/virology.webp"
+heroImage: "/images/articles/virology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of virology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3900
+readingTime: 10
+wordCount: 2384
 tier: '1'
 relatedArticles: ["microbiology", "biology", "cell-biology", "genetics", "molecular-biology"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "The 'common cold' is caused by over 200 different viruses across multiple families. Rhinoviruses alone have more than 100 types. Developing a single vaccine or drug that works against all of them is extremely difficult, and the infections are mild enough that the research investment hasn't been prioritized."
 ---
 
+# What Is Virology?
 Virology is the branch of [biology](/biology) that studies viruses — submicroscopic infectious agents that replicate only inside the living cells of other organisms. Virologists investigate how viruses are structured, how they infect and replicate within host cells, how they cause disease, and how they can be prevented or treated.
 
 Viruses infect every form of life on Earth, from bacteria to blue whales, and they outnumber every other biological entity on the planet by orders of magnitude.

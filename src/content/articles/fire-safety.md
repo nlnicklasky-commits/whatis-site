@@ -4,7 +4,7 @@ slug: fire-safety
 description: "Fire safety covers prevention, detection, and response practices that protect people and property from fire. Learn about alarms, extinguishers, and plans."
 category: everyday-concepts
 tags: ["safety", "emergency preparedness", "fire prevention", "fire extinguishers", "smoke detectors", "risk management"]
-heroImage: "/images/articles/fire-safety.webp"
+heroImage: "/images/articles/fire-safety-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fire safety"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

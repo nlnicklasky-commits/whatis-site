@@ -1,10 +1,10 @@
 ---
 title: "What Is Eastern Philosophy?"
 slug: eastern-philosophy
-description: "Eastern philosophy encompasses the philosophical traditions of Asia, including Buddhism, Hinduism, Taoism, and Confucianism. Explore their key ideas."
+description: "Eastern philosophy encompasses the philosophical traditions of Asia, including Buddhism, Hinduism, Taoism, and Confucianism. Explore their key ideas. Discove..."
 category: everyday-concepts
 tags: ["eastern philosophy", "everyday-concepts"]
-heroImage: "/images/articles/eastern-philosophy.webp"
+heroImage: "/images/articles/eastern-philosophy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of eastern philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

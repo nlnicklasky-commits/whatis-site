@@ -4,7 +4,7 @@ slug: folk-art
 description: "Folk art is traditional creative work made by self-taught artists within cultural communities. Learn about its forms, history, and lasting significance."
 category: arts-amp-culture
 tags: ["art", "crafts", "traditional art", "cultural heritage", "indigenous art", "self-taught artists"]
-heroImage: "/images/articles/folk-art.webp"
+heroImage: "/images/articles/folk-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of folk art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

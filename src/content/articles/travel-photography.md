@@ -4,7 +4,7 @@ slug: travel-photography
 description: "Travel photography captures places, people, and cultures through images. Learn the gear, techniques, and tips for taking better photos on your travels."
 category: arts-amp-culture
 tags: ["travel photography", "photography", "travel", "culture", "landscape", "visual arts"]
-heroImage: "/images/articles/travel-photography.webp"
+heroImage: "/images/articles/travel-photography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of travel photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "It's possible but very competitive. Income streams include stock photography sales, magazine and guidebook commissions, workshop teaching, social media sponsorships, print sales, and content creation for tourism boards. Most travel photographers combine several revenue sources. Full-time travel photography as a sole income requires strong business skills alongside photographic talent."
 ---
 
-# What Is Travel Photography?
+# What Is [Travel](/travel-writing) Photography?
 
-Travel photography is the genre of photography focused on documenting places, people, landscapes, cultures, and experiences encountered while traveling. It sits at the intersection of field photography, portraiture, documentary photography, and street photography — borrowing techniques from all of them to tell visual stories about the world.
+Travel photography is the genre of photography focused on documenting places, people, landscapes, cultures, and experiences encountered while traveling. It sits at the intersection of field photography, portraiture, documentary photography, and street photography — borrowing techniques from all of them to tell [visual](/visual-arts) stories about the world.
 
 At its best, travel photography does something remarkable: it makes you feel like you've been somewhere you haven't, or helps you see a place you have been with fresh eyes. A great travel photo doesn't just show you what something looks like — it conveys what it *feels* like to be there.
 
@@ -47,7 +47,7 @@ A good travel photo tells a story or evokes a feeling. A market scene isn't just
 
 ### Composition
 
-The arrangement of elements within the frame. The rule of thirds, leading lines, framing devices, depth layers, and negative space all apply to [travel photography](/photography). But the best compositions are intuitive rather than formulaic — they draw the viewer's eye naturally to what matters.
+The arrangement of elements within the frame. The rule of thirds, leading lines, framing devices, depth layers, and negative space all apply to [travel photography](/photovoltaics). But the best compositions are intuitive rather than formulaic — they draw the viewer's eye naturally to what matters.
 
 ### Authenticity
 

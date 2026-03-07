@@ -1,10 +1,10 @@
 ---
 title: "What Is Popular Culture?"
 slug: popular-culture
-description: "Popular culture is the set of ideas, images, and phenomena that dominate mainstream society. Learn what shapes it and why it matters."
+description: "Popular culture is the set of ideas, images, and phenomena that dominate mainstream society. Learn what shapes it and why it matters. Discover the key facts,..."
 category: arts-amp-culture
 tags: ["popular culture", "pop culture", "mass media", "trends", "mainstream", "cultural phenomena"]
-heroImage: "/images/articles/popular-culture.webp"
+heroImage: "/images/articles/popular-culture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of popular culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

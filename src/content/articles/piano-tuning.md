@@ -4,7 +4,7 @@ slug: piano-tuning
 description: "Piano tuning adjusts string tension to correct pitch and temperament. Learn how tuners work, why pianos go out of tune, and what equal temperament means."
 category: everyday-concepts
 tags: ["piano tuning", "music", "acoustics", "temperament", "pitch", "instrument maintenance"]
-heroImage: "/images/articles/piano-tuning.webp"
+heroImage: "/images/articles/piano-tuning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of piano tuning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,4 +83,4 @@ Some tuners work entirely by ear, using beat rates to set the temperament and ch
 
 In practice, the best tuners combine both approaches — using electronic assistance for precision while relying on trained ears for the subtle musical judgments that make a tuning sound alive rather than mechanical.
 
-A well-tuned piano is one of life's quiet pleasures. Every note rings clearly, chords shimmer, and the instrument responds to your touch with clarity and warmth. A piano out of tune sounds muddy, sour, and vaguely wrong — even to people who can't identify the problem. Tuning is the invisible maintenance that keeps the instrument doing what it was designed to do: turn mechanical energy into music.
+A well-tuned piano is one of life's quiet pleasures. Every note rings clearly, chords shimmer, and the instrument responds to your touch with clarity and warmth. A piano out of tune sounds muddy, sour, and vaguely wrong — even to people who can't identify the problem. Tuning is the invisible maintenance that keeps the instrument doing what it was designed to do: turn mechanical energy into [music](/blues-music).

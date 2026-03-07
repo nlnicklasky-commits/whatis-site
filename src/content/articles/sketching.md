@@ -4,7 +4,7 @@ slug: sketching
 description: "Sketching is quick, freehand drawing used to capture ideas, observations, and compositions. Learn about techniques, materials, and building a practice."
 category: arts-amp-culture
 tags: ["sketching", "drawing", "art", "concept art", "visual arts", "illustration"]
-heroImage: "/images/articles/sketching.webp"
+heroImage: "/images/articles/sketching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sketching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -51,7 +51,7 @@ Beyond memory, sketching develops visual problem-solving. Architects who sketch 
 
 **Value studies** explore light and dark. Using the side of a pencil or charcoal, you block in shadows and highlights without worrying about outlines. This teaches you to see form in terms of light — how a sphere looks round because of gradual shadow transition, how a cube looks angular because of sharp shadow edges.
 
-**Perspective sketching** captures spatial depth — how parallel lines converge toward vanishing points, how objects appear smaller with distance. Even rough perspective sketching makes your drawings feel three-dimensional. Two-point perspective (two vanishing points on the horizon) covers most real-world scenes adequately.
+**[Perspective](/perspective-drawing) sketching** captures spatial depth — how parallel lines converge toward vanishing points, how objects appear smaller with distance. Even rough perspective sketching makes your drawings feel three-dimensional. Two-point perspective (two vanishing points on the horizon) covers most real-world scenes adequately.
 
 ## Building a Sketching Practice
 
@@ -67,7 +67,7 @@ The biggest obstacle isn't skill — it's starting. Here's what works.
 
 ## Famous Sketchers
 
-Leonardo da Vinci's notebooks — filled with sketches of [anatomy](/anatomy), machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his scientific and artistic thinking.
+Leonardo da Vinci's notebooks — filled with sketches of [anatomy](/anatomy), machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his [scientific](/scientific-illustration) and artistic thinking.
 
 Rembrandt's sketches are masterclasses in economy — capturing a sleeping child, a beggar, or a field in a few quick pen strokes that convey more than most artists achieve with hours of careful work. His sketches show that skill isn't about detail; it's about selecting the right marks.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Iconography?"
 slug: iconography
-description: "Iconography is the study of visual symbols and images in art. Learn how artists encode meaning through imagery and how scholars decode it."
+description: "Iconography is the study of visual symbols and images in art. Learn how artists encode meaning through imagery and how scholars decode it. Discover the key f..."
 category: everyday-concepts
 tags: ["iconography", "art history", "symbols", "visual culture", "religious art"]
-heroImage: "/images/articles/iconography.webp"
+heroImage: "/images/articles/iconography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of iconography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

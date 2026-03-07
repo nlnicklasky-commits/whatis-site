@@ -4,7 +4,7 @@ slug: table-tennis
 description: "Table tennis (ping-pong) is a fast-paced racket sport played on a table with a small ball. Learn the rules, techniques, and why it's so popular worldwide."
 category: everyday-concepts
 tags: ["table tennis", "ping-pong", "racket sport", "Olympics", "sports", "recreation"]
-heroImage: "/images/articles/table-tennis.webp"
+heroImage: "/images/articles/table-tennis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of table tennis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ The famous "Ping-Pong [Diplomacy](/diplomacy)" of 1971, when American and Chines
 
 ## Health Benefits
 
-Table tennis is excellent [exercise](/exercise-[physiology](/physiology)) despite its modest appearance. It improves hand-eye coordination, reflexes, and fine motor skills. It provides moderate cardiovascular conditioning. Research suggests it may be particularly beneficial for brain health — a Japanese study found that table tennis improved cognitive function in elderly participants more than other physical activities.
+Table tennis is excellent [exercise](/exercise-physiology)) despite its modest appearance. It improves hand-eye coordination, reflexes, and fine motor skills. It provides moderate cardiovascular conditioning. Research suggests it may be particularly beneficial for brain health — a Japanese study found that table tennis improved cognitive function in elderly participants more than other physical activities.
 
 The sport is also remarkably accessible. You can play at any age, any [fitness](/fitness) level, and in a very small space. Many rehabilitation programs use table tennis for stroke recovery, Parkinson's disease [management](/management), and mobility improvement.
 

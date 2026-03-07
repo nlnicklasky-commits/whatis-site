@@ -4,7 +4,7 @@ slug: civil-rights-history
 description: "Civil rights history traces the struggle for legal equality and social justice, from abolition movements to landmark legislation like the Civil Rights Act."
 category: history
 tags: ["civil rights", "civil rights movement", "african american history", "social justice", "equality"]
-heroImage: "/images/articles/civil-rights-history.webp"
+heroImage: "/images/articles/civil-rights-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of civil rights history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

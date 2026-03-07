@@ -1,10 +1,10 @@
 ---
 title: "What Is Real Estate Law?"
 slug: real-estate-law
-description: "Real estate law governs ownership, use, and transfer of land and buildings. Learn about property rights, deeds, zoning, leases, and common disputes."
+description: "Real estate law governs ownership, use, and transfer of land and buildings. Learn about property rights, deeds, zoning, leases, and common disputes. Discover..."
 category: law
 tags: ["real estate", "property law", "legal", "conveyancing"]
-heroImage: "/images/articles/real-estate-law.webp"
+heroImage: "/images/articles/real-estate-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of real estate law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

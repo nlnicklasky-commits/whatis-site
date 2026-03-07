@@ -4,7 +4,7 @@ slug: motorcycle-maintenance
 description: "Motorcycle maintenance covers the routine care and repair of motorcycles to ensure safety and performance. Learn about essential tasks, tools, and schedules."
 category: sports
 tags: ["motorcycle", "maintenance", "bike care", "vehicle maintenance", "motorcycle repair", "riding safety"]
-heroImage: "/images/articles/motorcycle-maintenance.webp"
+heroImage: "/images/articles/motorcycle-maintenance-hero.webp"
 heroAlt: "Editorial photograph representing the concept of motorcycle maintenance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Tire condition and pressure. Motorcycles have only two contact patches with the road, each about the size of a credit card. Under-inflated, worn, or damaged tires dramatically increase crash risk. Check pressure before every ride and inspect tread and sidewalls regularly. After tires, chain condition and brake function are the next priorities."
 ---
 
-# What Is Motorcycle Maintenance?
+# What Is [Motorcycle](/motorcycle-racing) Maintenance?
 
 Motorcycle maintenance is the regular care, inspection, and repair of motorcycles to keep them [running](/running) safely, reliably, and efficiently. Unlike cars — which can often tolerate neglected maintenance for thousands of miles — motorcycles are less forgiving. They have fewer safety margins, more exposed components, and two-wheeled dynamics that demand everything works correctly.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Complexity Theory?"
 slug: complexity-theory
-description: "Complexity theory studies how large systems of interacting parts produce emergent behavior that cannot be predicted from individual components alone."
+description: "Complexity theory studies how large systems of interacting parts produce emergent behavior that cannot be predicted from individual components alone. Discove..."
 category: science
 tags: ["complexity theory", "complex systems", "emergence", "self-organization", "chaos theory", "interdisciplinary", "science"]
 heroImage: "/images/articles/complexity-theory-hero.webp"
@@ -65,7 +65,7 @@ The key distinction is between weak and strong emergence. **Weak emergence** mea
 
 ### Self-Organization
 
-Complex systems often organize themselves without central coordination. No one designs a snowflake — its intricate hexagonal structure emerges from the physics of water crystallization. No architect designs a termite mound — millions of termites following simple chemical signals collectively build a structure with sophisticated temperature regulation. No urban planner designed the spontaneous order of a city's informal economy.
+Complex systems often organize themselves without central coordination. No one designs a snowflake — its elaborate hexagonal structure emerges from the physics of water crystallization. No architect designs a termite mound — millions of termites following simple chemical signals collectively build a structure with sophisticated temperature regulation. No urban planner designed the spontaneous order of a city's informal economy.
 
 Ilya Prigogine won the Nobel Prize in [Chemistry](/chemistry) in 1977 for showing that systems far from thermodynamic equilibrium can spontaneously develop ordered structures. This was revolutionary because the second law of [thermodynamics](/thermodynamics) says that disorder (entropy) tends to increase. Prigogine showed that open systems — systems that exchange energy and matter with their environment — can decrease local entropy by increasing entropy elsewhere. Life itself is the ultimate example: organisms maintain extraordinary internal order by exporting entropy (heat, waste) to their surroundings.
 

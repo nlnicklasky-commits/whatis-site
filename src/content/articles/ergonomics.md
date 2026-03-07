@@ -4,7 +4,7 @@ slug: ergonomics
 description: "Ergonomics is the science of designing workplaces, products, and systems to fit the people who use them, reducing injury and boosting comfort and efficiency."
 category: health-amp-wellness
 tags: ["ergonomics", "human factors", "workplace safety", "design", "productivity"]
-heroImage: "/images/articles/ergonomics.webp"
+heroImage: "/images/articles/ergonomics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ergonomics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

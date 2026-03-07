@@ -1,7 +1,7 @@
 ---
 title: "What Is International Business?"
 slug: international-business
-description: "International business is commercial activity that crosses national borders, from exporting products to operating subsidiaries in foreign countries."
+description: "International business is commercial activity that crosses national borders, from exporting products to operating subsidiaries in foreign countries. Discover..."
 category: finance
 tags: ["international business", "global business", "trade", "foreign direct investment", "globalization", "export", "import"]
 heroImage: "/images/articles/international-business-hero.webp"

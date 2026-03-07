@@ -4,7 +4,7 @@ slug: decorating
 description: "Decorating is the practice of arranging and styling living spaces for beauty and function. Learn about design principles, styles, color, and DIY tips."
 category: everyday-concepts
 tags: ["decorating", "everyday-concepts"]
-heroImage: "/images/articles/decorating.webp"
+heroImage: "/images/articles/decorating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of decorating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

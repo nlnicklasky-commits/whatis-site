@@ -4,7 +4,7 @@ slug: topology
 description: "Topology is the branch of mathematics studying properties preserved through continuous deformation. Learn about open sets, manifolds, and topological spaces."
 category: science
 tags: ["topology", "mathematics", "geometry"]
-heroImage: "/images/articles/topology.webp"
+heroImage: "/images/articles/topology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of topology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

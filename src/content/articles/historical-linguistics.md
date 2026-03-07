@@ -4,7 +4,7 @@ slug: historical-linguistics
 description: "Historical linguistics studies how languages change over time. Learn about language families, sound shifts, reconstruction methods, and linguistic evolution."
 category: everyday-concepts
 tags: ["historical linguistics", "linguistics", "language", "etymology", "language families"]
-heroImage: "/images/articles/historical-linguistics.webp"
+heroImage: "/images/articles/historical-linguistics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical linguistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

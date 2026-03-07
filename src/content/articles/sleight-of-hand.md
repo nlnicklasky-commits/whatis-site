@@ -4,7 +4,7 @@ slug: sleight-of-hand
 description: "Sleight of hand is the art of using manual dexterity to perform magic tricks undetected. Learn about techniques, misdirection, and famous practitioners."
 category: arts-amp-culture
 tags: ["sleight of hand", "magic", "illusion", "close-up magic", "card tricks", "dexterity"]
-heroImage: "/images/articles/sleight-of-hand.webp"
+heroImage: "/images/articles/sleight-of-hand-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sleight of hand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sleight of Hand?
 
-Sleight of hand is the practice of using skilled hand movements to secretly manipulate objects — cards, coins, balls, cups — to create the illusion of magic. It's the mechanical foundation of close-up magic: the hidden moves that make coins vanish, cards change identity, and objects teleport from one location to another.
+Sleight of hand is the practice of using skilled hand movements to secretly manipulate objects — cards, coins, balls, cups — to create the illusion of [magic](/magic-illusion). It's the mechanical foundation of close-up magic: the hidden moves that make coins vanish, cards change identity, and objects teleport from one location to another.
 
 The phrase comes from the French "leger de main" — lightness of hand. But speed is actually less important than most people think. The real secret is misdirection — directing the audience's attention away from the secret action at the precise moment it happens. A skilled magician performs the secret move slowly and naturally while the audience looks elsewhere.
 
@@ -53,7 +53,7 @@ What you can do is manage their attention. Humans can only focus detailed attent
 
 Studies using eye-tracking technology confirm this. When a magician looks at a specific spot, the audience follows. When the magician makes a large dramatic gesture, smaller movements elsewhere go unnoticed. Misdirection is applied [psychology](/psychology).
 
-## The History
+## The [History](/art-history)
 
 Sleight of hand has ancient roots — Egyptian tomb paintings from 2500 BC appear to depict the cups and balls trick, one of the oldest known magic effects. Roman conjurors performed with cups and pebbles in marketplaces.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Mycology?"
 slug: mycology
-description: "Mycology is the scientific study of fungi — mushrooms, molds, and yeasts. Learn how fungi shape ecosystems, medicine, and biotechnology."
+description: "Mycology is the scientific study of fungi — mushrooms, molds, and yeasts. Learn how fungi shape ecosystems, medicine, and biotechnology. Discover the key fac..."
 category: science
 tags: ["mycology", "fungi", "mushrooms", "biology", "ecology", "decomposers", "biotechnology"]
 heroImage: "/images/articles/mycology-hero.webp"

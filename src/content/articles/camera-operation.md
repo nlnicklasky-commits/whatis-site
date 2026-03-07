@@ -4,7 +4,7 @@ slug: camera-operation
 description: "Camera operation is the art and technical skill of capturing images and video using cameras, involving exposure, composition, focus, and lens selection."
 category: arts-amp-culture
 tags: ["camera", "photography", "videography", "exposure", "composition", "lenses"]
-heroImage: "/images/articles/camera-operation.webp"
+heroImage: "/images/articles/camera-operation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of camera operation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

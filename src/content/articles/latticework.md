@@ -4,7 +4,7 @@ slug: latticework
 description: "Latticework is a framework of crossed strips forming a grid pattern, used in architecture, gardening, and decorative arts. Learn about types and applications."
 category: everyday-concepts
 tags: ["latticework", "architecture", "garden design", "woodworking", "decorative arts"]
-heroImage: "/images/articles/latticework.webp"
+heroImage: "/images/articles/latticework-hero.webp"
 heroAlt: "Editorial photograph representing the concept of latticework"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -61,7 +61,7 @@ Latticework has served architectural purposes for centuries across cultures.
 
 Mashrabiya screens are assembled from hundreds of individually turned wooden spindles, fitted together without nails or glue. The geometric patterns range from simple grids to extraordinarily complex compositions. The craft is recognized by UNESCO as intangible cultural heritage.
 
-**Jali** — the Indian equivalent. Jali screens are carved from stone or marble, creating intricate geometric and floral patterns that filter light and air. The Mughal monuments (including elements of the Taj Mahal) feature jali work of stunning complexity. A single stone panel might contain patterns so fine they appear to be lace.
+**Jali** — the Indian equivalent. Jali screens are carved from stone or marble, creating detailed geometric and floral patterns that filter light and air. The Mughal monuments (including elements of the Taj Mahal) feature jali work of stunning complexity. A single stone panel might contain patterns so fine they appear to be lace.
 
 **European latticework** — wooden lattice has been used in European gardens since at least the Renaissance. French formal gardens (Versailles) incorporated elaborate lattice structures called *treillage* — architectural frameworks of lattice that created outdoor rooms, tunnels, and theatrical backdrops.
 

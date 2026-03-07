@@ -4,7 +4,7 @@ slug: card-making
 description: "Card making is the craft of designing and creating handmade greeting cards using paper, stamps, inks, embellishments, and various artistic techniques."
 category: arts-amp-culture
 tags: ["card making", "craft", "handmade cards", "paper craft", "scrapbooking", "stamping"]
-heroImage: "/images/articles/card-making.webp"
+heroImage: "/images/articles/card-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of card making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Card Making?
 
-Card making is the craft of designing and creating handmade greeting cards using paper, stamps, inks, embellishments, and artistic techniques ranging from simple to extraordinarily intricate. In a world of mass-produced cards and digital messages, a handmade card says something that a Hallmark card and a text message simply cannot.
+Card making is the craft of designing and creating handmade greeting cards using paper, stamps, inks, embellishments, and artistic techniques ranging from simple to extraordinarily complex. In a world of mass-produced cards and digital messages, a handmade card says something that a Hallmark card and a text message simply cannot.
 
 ## Why People Still Make Cards by Hand
 
@@ -51,7 +51,7 @@ Ink matters more than beginners expect. Dye inks dry quickly and work on most su
 
 ### Die Cutting
 
-Metal dies pressed through paper with a manual or electronic cutting machine create precise shapes — flowers, letters, frames, intricate lace patterns. Die-cutting machines (Sizzix Big Shot, Cricut) are the single biggest upgrade in card making capability. A $100 machine and a collection of dies let you cut shapes that would be impossible by hand.
+Metal dies pressed through paper with a manual or electronic cutting machine create precise shapes — flowers, letters, frames, detailed lace patterns. Die-cutting machines (Sizzix Big Shot, Cricut) are the single biggest upgrade in card making capability. A $100 machine and a collection of dies let you cut shapes that would be impossible by hand.
 
 Electronic cutting machines (Cricut, Silhouette) take this further — you design or download shapes digitally and the machine cuts them from paper, vinyl, or fabric. The precision is remarkable, and the design possibilities are essentially unlimited.
 
@@ -75,7 +75,7 @@ Stamped images can be colored with markers (Copic markers are the gold standard,
 
 **Shabby chic/vintage** — Distressed edges, sepia tones, lace, ribbon, and antique-looking elements. Ink distressing (rubbing ink pads along paper edges) creates the aged look.
 
-**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require [engineering](/engineering) as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/basket-[weaving](/weaving)) in their ingenuity.
+**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require [engineering](/engineering) as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/basketball)) in their ingenuity.
 
 **Mixed media** — Combining paper craft with other materials: fabric, metal charms, wire, beads, natural elements. These cards push into art object territory and are often framed rather than mailed.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Fabric Arts?"
 slug: fabric-arts
-description: "Fabric arts encompass textile-based creative practices like weaving, quilting, and embroidery. Learn about techniques, history, and modern fiber art."
+description: "Fabric arts encompass textile-based creative practices like weaving, quilting, and embroidery. Learn about techniques, history, and modern fiber art. Discove..."
 category: arts-amp-culture
 tags: ["textile art", "fiber art", "crafts", "quilting", "embroidery", "weaving"]
-heroImage: "/images/articles/fabric-arts.webp"
+heroImage: "/images/articles/fabric-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fabric arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ Fabric arts — sometimes called [textile arts](/textile-arts) — cover any cre
 
 People have been making textiles for at least 27,000 years. The evidence comes from clay impressions found at archaeological sites in the Czech Republic — the fabric itself decomposed long ago, but the patterns it left in wet clay survived. By about 7,000 BCE, communities in what's now Turkey were producing sophisticated woven cloth.
 
-Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and [the Silk Road](/silk-road) trade network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and intricate patterns — that researchers are still trying to decode the information they encoded.
+Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and [the Silk Road](/silk-road) trade network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and complex patterns — that researchers are still trying to decode the information they encoded.
 
 The weird part is that despite this deep history, fabric arts were consistently treated as "lesser" compared to [painting](/painting) or [sculpture](/sculpture). The reason? Gender. Textile work was primarily associated with women and domestic life, so the art world classified it as "craft" rather than "art." That distinction had nothing to do with skill or creativity and everything to do with who was doing the work.
 
@@ -49,7 +49,7 @@ The weird part is that despite this deep history, fabric arts were consistently 
 
 **Quilting** joins layers of fabric together, usually with a decorative top layer, a middle layer of batting for warmth, and a backing. American quilting traditions are particularly rich — from Amish geometric designs to African American story quilts. Quilts have served as everything from bed covers to political statements to (according to disputed but interesting claims) encoded maps on the Underground Railroad.
 
-**Dyeing** transforms plain fabric through color. Indigo dyeing is practiced across Africa, Asia, and the Americas. Japanese shibori uses folding, twisting, and binding techniques to create intricate resist-dye patterns. Batik, from Indonesia, applies wax to fabric before dyeing to create detailed designs.
+**Dyeing** transforms plain fabric through color. Indigo dyeing is practiced across Africa, Asia, and the Americas. Japanese shibori uses folding, twisting, and binding techniques to create elaborate resist-dye patterns. Batik, from Indonesia, applies wax to fabric before dyeing to create detailed designs.
 
 **Felting** creates fabric without weaving at all — you mat, press, and agitate wool fibers until they lock together. It's one of the oldest fabric-making techniques, used by Central Asian nomads to make everything from clothing to entire yurt coverings.
 

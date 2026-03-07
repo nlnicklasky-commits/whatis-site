@@ -4,13 +4,13 @@ slug: african-history
 description: "African history spans millions of years of human development, ancient civilizations, empires, colonialism, and independence movements across the continent."
 category: history
 tags: ["african history", "africa", "history", "civilizations", "colonialism"]
-heroImage: "/images/articles/african-history.webp"
+heroImage: "/images/articles/african-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of african history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 13
-wordCount: 2950
+readingTime: 7
+wordCount: 1825
 tier: '2'
 relatedArticles: ["anthropology", "archaeology", "economics", "geography", "comparative-religion"]
 externalSources:
@@ -33,6 +33,7 @@ faq:
     a: "Most African countries gained independence between 1956 and 1968. The year 1960 is known as the 'Year of Africa' because 17 countries became independent that year alone. A few countries gained independence earlier (Libya in 1951, Sudan and Morocco in 1956) or later (Zimbabwe in 1980, Namibia in 1990)."
 ---
 
+# What Is African History?
 African history encompasses the full human story on the world's second-largest continent — from the emergence of *Homo sapiens* over 300,000 years ago through ancient civilizations, medieval empires, the devastating impacts of slavery and colonialism, independence movements, and the complex realities of modern African nations.
 
 For too long, mainstream historical education treated Africa as if its history began with European contact. That's not just wrong — it's absurdly wrong. Africa is where humanity itself began, where some of the earliest civilizations arose, and where empires of extraordinary wealth and sophistication flourished for centuries before Europeans arrived.

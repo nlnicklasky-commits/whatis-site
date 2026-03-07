@@ -4,7 +4,7 @@ slug: homeopathy
 description: "Homeopathy is an alternative medicine system using ultra-diluted substances to treat illness. Learn about its principles, history, and what science says."
 category: everyday-concepts
 tags: ["homeopathy", "alternative medicine", "health", "placebo", "natural remedies"]
-heroImage: "/images/articles/homeopathy.webp"
+heroImage: "/images/articles/homeopathy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of homeopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: parkour
 description: "Parkour is the athletic discipline of moving through environments by running, jumping, climbing, and vaulting. Learn about its origins and techniques."
 category: everyday-concepts
 tags: ["parkour", "freerunning", "movement", "athletics", "urban sport", "fitness"]
-heroImage: "/images/articles/parkour.webp"
+heroImage: "/images/articles/parkour-hero.webp"
 heroAlt: "Editorial photograph representing the concept of parkour"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

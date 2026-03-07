@@ -4,7 +4,7 @@ slug: tidal-power
 description: "Tidal power generates electricity from the rise and fall of ocean tides. Learn about tidal barrages, stream generators, tidal lagoons, and their energy."
 category: technology
 tags: ["tidal power", "renewable energy", "tidal energy", "hydropower"]
-heroImage: "/images/articles/tidal-power.webp"
+heroImage: "/images/articles/tidal-power-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tidal power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

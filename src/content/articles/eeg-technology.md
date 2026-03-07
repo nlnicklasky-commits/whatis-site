@@ -1,7 +1,7 @@
 ---
 title: "What Is EEG Technology?"
 slug: eeg-technology
-description: "EEG technology records the brain's electrical activity through scalp electrodes, used in medicine, neuroscience, and brain-computer interfaces."
+description: "EEG technology records the brain's electrical activity through scalp electrodes, used in medicine, neuroscience, and brain-computer interfaces. Discover the ..."
 category: technology
 tags: ["eeg", "electroencephalography", "neuroscience", "brain activity", "neurology", "brain waves", "medical technology"]
 heroImage: "/images/articles/eeg-technology-hero.webp"

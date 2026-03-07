@@ -4,7 +4,7 @@ slug: solar-physics
 description: "Solar physics studies the Sun's structure, behavior, and effects on the solar system. Learn about sunspots, solar flares, the solar wind, and space weather."
 category: science
 tags: ["solar physics", "astronomy", "astrophysics", "space weather", "physics", "sun"]
-heroImage: "/images/articles/solar-physics.webp"
+heroImage: "/images/articles/solar-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of solar physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

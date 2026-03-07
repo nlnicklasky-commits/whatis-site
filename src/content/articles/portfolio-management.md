@@ -1,7 +1,7 @@
 ---
 title: "What Is Portfolio Management?"
 slug: portfolio-management
-description: "Portfolio management is the process of selecting and overseeing investments to meet long-term financial goals while managing risk."
+description: "Portfolio management is the process of selecting and overseeing investments to meet long-term financial goals while managing risk. Discover the key facts, hi..."
 category: finance
 tags: ["portfolio management", "investment", "asset allocation", "financial planning", "risk management", "wealth management"]
 heroImage: "/images/articles/portfolio-management-hero.webp"
@@ -206,7 +206,7 @@ The professional portfolio management industry manages over $100 trillion global
 
 How do you know if your portfolio manager is doing a good job? Comparing returns to an appropriate benchmark is essential. A U.S. stock portfolio should be compared to the S&P 500 or Russell 3000, not to bonds or cash. Returns should be measured after fees — gross returns are meaningless to the investor.
 
-Risk-adjusted performance measures like the Sharpe ratio (return per unit of risk) provide more nuanced evaluation than raw returns. A manager who returns 12% with 20% volatility isn't necessarily better than one who returns 10% with 10% volatility.
+Risk-adjusted performance measures like the Sharpe ratio (return per unit of risk) provide more detailed evaluation than raw returns. A manager who returns 12% with 20% volatility isn't necessarily better than one who returns 10% with 10% volatility.
 
 ## The Behavioral Dimension
 

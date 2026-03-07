@@ -4,7 +4,7 @@ slug: the-physics-of-time-travel
 description: "The physics of time travel explores whether moving through time is possible under known physical laws. Learn about relativity, time dilation, wormholes, and."
 category: science
 tags: ["physics of time travel", "time travel", "relativity", "time dilation", "wormholes"]
-heroImage: "/images/articles/the-physics-of-time-travel.webp"
+heroImage: "/images/articles/the-physics-of-time-travel-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the physics of time travel"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

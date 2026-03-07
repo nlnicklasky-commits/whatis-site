@@ -1,10 +1,10 @@
 ---
 title: "What Is Political Cartoons?"
 slug: political-cartoons
-description: "Political cartoons use humor, satire, and visual metaphors to comment on politics and current events. Learn their history and lasting impact."
+description: "Political cartoons use humor, satire, and visual metaphors to comment on politics and current events. Learn their history and lasting impact. Discover the ke..."
 category: arts-amp-culture
 tags: ["politics", "art", "satire", "journalism", "humor", "current events"]
-heroImage: "/images/articles/political-cartoons.webp"
+heroImage: "/images/articles/political-cartoons-hero.webp"
 heroAlt: "Editorial photograph representing the concept of political cartoons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

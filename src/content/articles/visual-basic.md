@@ -4,13 +4,13 @@ slug: visual-basic
 description: "Visual Basic is a programming language from Microsoft that made Windows app development accessible. Learn its history, VB.NET, VBA, and modern relevance."
 category: technology
 tags: ["programming", "visual basic", "microsoft", "software development"]
-heroImage: "/images/articles/visual-basic.webp"
+heroImage: "/images/articles/visual-basic-hero.webp"
 heroAlt: "Editorial photograph representing the concept of visual basic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 15
-wordCount: 3700
+readingTime: 9
+wordCount: 2357
 tier: '1'
 relatedArticles: ["c-programming", "programming-languages", "app-development", "algorithms", "data-structures"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Microsoft hasn't fully stopped — VB.NET still receives bug fixes and compatibility updates. But the company shifted investment to C# because maintaining feature parity between two languages with different design philosophies was unsustainable, and the developer community had largely moved to C#."
 ---
 
+# What Is Visual Basic?
 Visual Basic is a programming language and development environment created by Microsoft in 1991 that allowed developers to build Windows applications by visually designing user interfaces and writing code in an English-like syntax. It was one of the first languages to make graphical application development accessible to non-expert programmers, and it became one of the most widely used [programming languages](/programming-languages) in history.
 
 At its peak in the late 1990s, there were an estimated 6 million Visual Basic developers worldwide — more than any other programming language at the time.

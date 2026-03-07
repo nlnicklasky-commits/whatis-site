@@ -4,7 +4,7 @@ slug: video-game-design
 description: "Video game design is the process of creating game rules, mechanics, levels, and player experiences. Learn about design roles, processes, and key concepts."
 category: everyday-concepts
 tags: ["video game design", "game development", "game mechanics", "level design", "interactive media", "gaming"]
-heroImage: "/images/articles/video-game-design.webp"
+heroImage: "/images/articles/video-game-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of video game design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

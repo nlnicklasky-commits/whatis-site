@@ -1,7 +1,7 @@
 ---
 title: "What Is Graph Theory?"
 slug: graph-theory
-description: "Graph theory studies networks of nodes and edges. Learn how this math field powers social networks, GPS routing, internet search, and more."
+description: "Graph theory studies networks of nodes and edges. Learn how this math field powers social networks, GPS routing, internet search, and more. Discover the key ..."
 category: science
 tags: ["graph theory", "mathematics", "graphs", "networks", "algorithms", "computer science", "discrete mathematics"]
 heroImage: "/images/articles/graph-theory-hero.webp"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Graph Theory?
 
-Graph theory is the branch of mathematics that studies graphs—structures made up of vertices (nodes) connected by edges (links). It provides the formal framework for analyzing relationships, connections, and networks of all kinds, from social media friendships to airline routes to molecular bonds. As one of the most widely applied areas of [mathematics](/applied-mathematics), graph theory underpins search engines, social networks, GPS navigation, and much of modern [computer science](/computer-science).
+Graph theory is the branch of mathematics that studies graphs—structures made up of vertices (nodes) connected by edges (links). It provides the formal framework for analyzing relationships, connections, and networks of all kinds, from social media friendships to airline routes to molecular bonds. As one of the most widely applied areas of [mathematics](/applied-mathematics), graph theory drives search engines, social networks, GPS navigation, and much of modern [computer science](/computer-science).
 
 ## The Seven Bridges That Started It All
 

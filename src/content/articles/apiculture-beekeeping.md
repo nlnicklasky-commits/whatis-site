@@ -153,7 +153,7 @@ The learning curve is real but manageable. Expect to lose your first colony. Ser
 
 ## The Future of Apiculture
 
-Beekeeping is changing rapidly. Colony losses remain high, and the combination of Varroa mites, pesticide exposure (particularly neonicotinoids), habitat loss, poor [nutrition](/nutrition) from monoculture agriculture, and [climate change](/climate-change) has made keeping bees alive harder than it was a generation ago.
+Beekeeping is changing rapidly. Colony losses remain high, and the combination of Varroa mites, pesticide exposure (particularly neonicotinoids), habitat loss, poor [nutrition](/nutrition) from monoculture agriculture, and [climate change](/climatology) has made keeping bees alive harder than it was a generation ago.
 
 But there's genuinely good news too. The number of managed colonies in the United States has actually increased from about 2.5 million in 2008 to over 2.7 million in recent years, partly because beekeepers are getting better at replacing lost colonies and partly because new beekeepers keep entering the field. Globally, hive numbers have grown by about 26% since 2000, driven largely by increases in Asia and Africa.
 

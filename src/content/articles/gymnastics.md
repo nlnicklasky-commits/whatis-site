@@ -4,7 +4,7 @@ slug: gymnastics
 description: "Gymnastics combines strength, flexibility, and artistry in events like floor, vault, and bars. Learn about disciplines, scoring, training, and Olympic history."
 category: sports
 tags: ["gymnastics", "sport", "athletics", "flexibility", "strength", "balance"]
-heroImage: "/images/articles/gymnastics.webp"
+heroImage: "/images/articles/gymnastics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gymnastics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

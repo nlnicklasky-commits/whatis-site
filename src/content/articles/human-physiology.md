@@ -1,7 +1,7 @@
 ---
 title: "What Is Human Physiology?"
 slug: human-physiology
-description: "Human physiology studies how your body's systems function. Explore homeostasis, organ system roles, exercise responses, and clinical applications."
+description: "Human physiology studies how your body's systems function. Explore homeostasis, organ system roles, exercise responses, and clinical applications. Discover t..."
 category: science
 tags: ["human physiology", "physiology", "human body", "biology", "health science", "medicine", "homeostasis"]
 heroImage: "/images/articles/human-physiology-hero.webp"

@@ -215,7 +215,7 @@ Green chromatography aims to reduce the environmental impact of the technique it
 
 ## Why Chromatography Deserves Your Attention
 
-Chromatography might seem like a niche laboratory technique, but it quietly underpins much of modern life. The safety of your medications, the purity of your drinking water, the authenticity of your food, the reliability of forensic evidence, and the accuracy of environmental monitoring all depend on chromatographic methods.
+Chromatography might seem like a niche laboratory technique, but it quietly supports much of modern life. The safety of your medications, the purity of your drinking water, the authenticity of your food, the reliability of forensic evidence, and the accuracy of environmental monitoring all depend on chromatographic methods.
 
 Every time an athlete is tested for performance-enhancing drugs, a water utility checks for contaminants, a pharmaceutical company verifies a drug batch, or a forensic lab analyzes crime scene evidence—chromatography is doing the heavy lifting.
 

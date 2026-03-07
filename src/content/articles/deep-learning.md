@@ -1,7 +1,7 @@
 ---
 title: "What Is Deep Learning?"
 slug: deep-learning
-description: "Deep learning uses multi-layered neural networks to learn patterns from data. Learn how it works, its architectures, applications, and limitations."
+description: "Deep learning uses multi-layered neural networks to learn patterns from data. Learn how it works, its architectures, applications, and limitations. Discover ..."
 category: technology
 tags: ["deep learning", "neural networks", "ai", "machine learning", "computer vision", "nlp", "tensorflow"]
 heroImage: "/images/articles/deep-learning-hero.webp"

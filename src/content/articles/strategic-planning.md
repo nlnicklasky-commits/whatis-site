@@ -4,7 +4,7 @@ slug: strategic-planning
 description: "Strategic planning is the process of setting organizational goals and determining how to achieve them. Learn key steps, frameworks, and best practices."
 category: business
 tags: ["management", "strategic planning", "business", "goal setting"]
-heroImage: "/images/articles/strategic-planning.webp"
+heroImage: "/images/articles/strategic-planning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of strategic planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Absolutely. Nonprofits benefit enormously from strategic planning, and many funders and grantmakers require it. The process is similar to for-profit planning but with different success metrics — impact, mission fulfillment, and sustainability rather than profit and shareholder value. Nonprofits often face tighter resource constraints, making deliberate strategic choices even more critical. Organizations like the Balanced Scorecard Institute have adapted frameworks specifically for nonprofit use."
 ---
 
-# What Is Strategic Planning?
+# What Is [Strategic](/strategic-management) Planning?
 
 Strategic planning is the structured process through which an organization defines its direction, sets priorities, allocates resources, and establishes a roadmap for achieving its long-term goals. It answers the fundamental question every organization faces: given where we are now and where we want to be, what do we actually need to do — and in what order?
 

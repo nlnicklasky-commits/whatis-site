@@ -4,7 +4,7 @@ slug: zero-waste-living
 description: "Zero-waste living aims to send nothing to landfills by reducing, reusing, and composting. Learn practical strategies and whether true zero waste is possible."
 category: everyday-concepts
 tags: ["sustainability", "environmentalism", "eco-friendly", "waste reduction", "green living", "recycling"]
-heroImage: "/images/articles/zero-waste-living.webp"
+heroImage: "/images/articles/zero-waste-living-hero.webp"
 heroAlt: "Editorial photograph representing the concept of zero-waste living"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

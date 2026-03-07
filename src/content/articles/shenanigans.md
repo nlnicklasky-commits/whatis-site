@@ -1,10 +1,10 @@
 ---
 title: "What Is Shenanigans?"
 slug: shenanigans
-description: "Shenanigans refers to playful mischief, trickery, or dubious behavior. Learn the word's origins, usage, and cultural significance."
+description: "Shenanigans refers to playful mischief, trickery, or dubious behavior. Learn the word's origins, usage, and cultural significance. Discover the key facts, hi..."
 category: everyday-concepts
 tags: ["mischief", "playful", "pranks", "trickery", "amusing", "behavior"]
-heroImage: "/images/articles/shenanigans.webp"
+heroImage: "/images/articles/shenanigans-hero.webp"
 heroAlt: "Editorial photograph representing the concept of shenanigans"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ The word carries a distinctive tone — part disapproval, part amusement, and en
 
 ## The [Etymology](/etymology)
 
-Shenanigans first appeared in print in California around 1855, making it a surprisingly recent addition to English. But pinning down where it came from is its own little mystery — and etymologists have been arguing about it for over a century.
+Shenanigans first appeared in print in California around 1855, [making](/artisan-bread-making) it a surprisingly recent addition to English. But pinning down where it came from is its own little mystery — and etymologists have been arguing about it for over a century.
 
 The leading theory traces it to the Irish word *sionnachuighim*, meaning "I play the fox" — a verb for being crafty or tricky. Given the large Irish immigrant population in 1850s California (many drawn by the Gold Rush), this origin is plausible both linguistically and historically.
 

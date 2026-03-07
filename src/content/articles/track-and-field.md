@@ -4,7 +4,7 @@ slug: track-and-field
 description: "Track and field is a collection of athletic events including running, jumping, and throwing. Learn the events, history, and why it anchors the Olympics."
 category: sports
 tags: ["track and field", "athletics", "Olympics", "running", "sports", "competition"]
-heroImage: "/images/articles/track-and-field.webp"
+heroImage: "/images/articles/track-and-field-hero.webp"
 heroAlt: "Editorial photograph representing the concept of track and field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -55,7 +55,7 @@ It's also the foundation of the Olympic Games. Track and field events have been 
 
 **Jumps** — High jump, long jump, triple jump, pole vault. The pole vault is particularly spectacular — athletes launch themselves 6+ meters into the air using a flexible fiberglass pole.
 
-**Throws** — Shot put, discus, javelin, hammer throw. Power events requiring explosive [strength](/exercise-[physiology](/physiology)) and technique.
+**Throws** — Shot put, discus, javelin, hammer throw. Power events requiring explosive [strength](/exercise-physiology)) and technique.
 
 ### Combined Events
 

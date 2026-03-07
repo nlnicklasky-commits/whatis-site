@@ -1,10 +1,10 @@
 ---
 title: "What Is Architectural History?"
 slug: architectural-history
-description: "Architectural history studies how buildings and structures have been designed, built, and understood across cultures and centuries."
+description: "Architectural history studies how buildings and structures have been designed, built, and understood across cultures and centuries. Discover the key facts, h..."
 category: history
 tags: ["architectural history", "architecture", "art history", "design", "historic preservation"]
-heroImage: "/images/articles/architectural-history.webp"
+heroImage: "/images/articles/architectural-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of architectural history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Absolutely. Architectural history is an academic discipline within art history and humanities departments. Many architectural historians have backgrounds in history, art history, or cultural studies rather than architecture. The focus is on analysis and interpretation, not design practice."
 ---
 
+# What Is Architectural History?
 Architectural history is the study of buildings and built environments across time, examining how structures were designed, constructed, used, and understood within their cultural, social, and technological contexts. It treats buildings not just as functional objects but as expressions of the societies that created them.
 
 Every building tells a story. A medieval cathedral tells you about religious devotion, engineering ambition, and community wealth. A suburban ranch house tells you about postwar American values, automobile culture, and mass production. Architectural historians read these stories — and the good ones find meanings that aren't obvious at first glance.
@@ -65,7 +66,7 @@ After Rome's fall, European architecture fragmented. But two major styles emerge
 
 Here's what most people miss about Gothic cathedrals: they were technological achievements as much as artistic ones. The flying buttress wasn't decorative — it was an engineering solution that redirected lateral forces outward, allowing walls that would otherwise collapse. Gothic builders were essentially proto-engineers working without [calculus](/calculus), stress analysis, or even consistent units of measurement. Many buildings did collapse during construction. The ones that survived represent successful experiments.
 
-Outside Europe, extraordinary architectural traditions developed independently. Islamic architecture produced the Alhambra's intricate geometric decoration and the vast mosques of Istanbul. Chinese and Japanese architecture perfected wooden frame construction with sophisticated joinery. Mesoamerican civilizations built enormous pyramid-temples. Each tradition solved building problems differently, reflecting different materials, climates, values, and structural approaches.
+Outside Europe, extraordinary architectural traditions developed independently. Islamic architecture produced the Alhambra's detailed geometric decoration and the vast mosques of Istanbul. Chinese and Japanese architecture perfected wooden frame construction with sophisticated joinery. Mesoamerican civilizations built enormous pyramid-temples. Each tradition solved building problems differently, reflecting different materials, climates, values, and structural approaches.
 
 ## Renaissance Through Neoclassical: Rediscovery and Rule
 

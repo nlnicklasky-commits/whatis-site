@@ -158,7 +158,7 @@ Modern logic chips have features as small as 3-5 nm. Only electron beam instrume
 
 SEM reveals the microstructure that determines a material's properties. Grain size and shape, phase distribution, precipitate morphology, fracture surfaces, corrosion products, coating thickness, weld integrity—all are routinely examined by SEM.
 
-Fractography—the study of fracture surfaces—is perhaps the most dramatically visual SEM application. A fractured metal surface that looks smooth and featureless to the naked eye reveals intricate detail under SEM: ductile dimples, brittle cleavage facets, fatigue striations, intergranular cracking, and inclusions that initiated failure. A skilled fractographer can read a fracture surface like a book, reconstructing the stress state, crack propagation direction, and failure mechanism from the SEM images alone.
+Fractography—the study of fracture surfaces—is perhaps the most dramatically visual SEM application. A fractured metal surface that looks smooth and featureless to the naked eye reveals complex detail under SEM: ductile dimples, brittle cleavage facets, fatigue striations, intergranular cracking, and inclusions that initiated failure. A skilled fractographer can read a fracture surface like a book, reconstructing the stress state, crack propagation direction, and failure mechanism from the SEM images alone.
 
 ### [Forensic Science](/forensic-science)
 
@@ -220,4 +220,4 @@ For industrial quality control requiring frequent SEM use, a tabletop SEM may pa
 
 Scanning electron microscopy opened a window into a world our eyes can't see. Before SEM, the surfaces of materials, the shapes of microorganisms, the [architecture](/architecture) of fractured metals, and the topography of semiconductor circuits were either invisible or crudely imagined. SEM made them visible with startling clarity and detail.
 
-The iconic SEM images—a fly's compound eye, a pollen grain's intricate surface, the branching crystallites of a metal fracture—have become part of our visual culture. They remind us that the world at the nanoscale is just as complex, beautiful, and surprising as the world we see with our own eyes. And unlike so many technologies that have come and gone, SEM after 60 years remains indispensable. It's hard to think of another scientific instrument that serves so many different fields so effectively.
+The iconic SEM images—a fly's compound eye, a pollen grain's complex surface, the branching crystallites of a metal fracture—have become part of our visual culture. They remind us that the world at the nanoscale is just as complex, beautiful, and surprising as the world we see with our own eyes. And unlike so many technologies that have come and gone, SEM after 60 years remains indispensable. It's hard to think of another scientific instrument that serves so many different fields so effectively.

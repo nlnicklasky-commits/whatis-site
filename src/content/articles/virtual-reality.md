@@ -4,13 +4,13 @@ slug: virtual-reality
 description: "Virtual reality immerses users in computer-generated 3D environments using headsets and sensors. Learn how VR works, its applications, and where it's headed."
 category: technology
 tags: ["virtual reality", "technology", "immersive", "computer graphics", "gaming"]
-heroImage: "/images/articles/virtual-reality.webp"
+heroImage: "/images/articles/virtual-reality-hero.webp"
 heroAlt: "Editorial photograph representing the concept of virtual reality"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3800
+readingTime: 10
+wordCount: 2499
 tier: '1'
 relatedArticles: ["computer-graphics", "artificial-intelligence", "game-development", "human-computer-interaction", "app-development"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Standalone VR doesn't require an internet connection for most applications. Cloud-streamed VR gaming needs at least 50 Mbps. Social VR platforms work well with 25+ Mbps. PC VR connects to the headset via cable or local Wi-Fi, not the internet."
 ---
 
+# What Is Virtual Reality?
 Virtual reality is a technology that uses computer-generated imagery, spatial audio, and motion tracking to create immersive, three-dimensional environments that users can explore and interact with as if they were physically present. Using specialized headsets and input devices, VR replaces your visual and auditory perception of the real world with a simulated one.
 
 The goal isn't just showing you a 3D image — it's making your brain genuinely believe, at a sensory level, that you're somewhere else.

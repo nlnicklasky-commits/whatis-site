@@ -4,7 +4,7 @@ slug: craft-beer
 description: "Craft beer is beer made by small, independent breweries focused on quality and flavor. Learn about the movement's history, styles, and industry impact."
 category: everyday-concepts
 tags: ["craft beer", "beer", "brewing", "microbrewery", "independent brewery", "ale"]
-heroImage: "/images/articles/craft-beer.webp"
+heroImage: "/images/articles/craft-beer-hero.webp"
 heroAlt: "Editorial photograph representing the concept of craft beer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

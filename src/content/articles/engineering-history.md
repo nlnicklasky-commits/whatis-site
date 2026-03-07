@@ -1,10 +1,10 @@
 ---
 title: "What Is Engineering History?"
 slug: engineering-history
-description: "Engineering history traces how humans have designed and built structures, machines, and systems from ancient aqueducts to modern microchips."
+description: "Engineering history traces how humans have designed and built structures, machines, and systems from ancient aqueducts to modern microchips. Discover the key..."
 category: history
 tags: ["engineering history", "engineering", "technology", "industrial revolution"]
-heroImage: "/images/articles/engineering-history.webp"
+heroImage: "/images/articles/engineering-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of engineering history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

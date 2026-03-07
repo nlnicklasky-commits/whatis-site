@@ -4,7 +4,7 @@ slug: storytelling
 description: "Storytelling is the ancient art of sharing narratives to entertain, teach, and connect. Learn how it works, why it matters, and where it shows up today."
 category: arts-amp-culture
 tags: ["storytelling", "narrative", "oral tradition", "literature", "communication", "culture"]
-heroImage: "/images/articles/storytelling.webp"
+heroImage: "/images/articles/storytelling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of storytelling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

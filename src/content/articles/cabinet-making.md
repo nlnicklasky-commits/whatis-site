@@ -4,7 +4,7 @@ slug: cabinet-making
 description: "Cabinet making is the skilled craft of designing and building fine furniture and storage pieces from wood using joinery, carving, and finishing techniques."
 category: arts-amp-culture
 tags: ["cabinet making", "woodworking", "furniture", "craft", "joinery", "woodcraft"]
-heroImage: "/images/articles/cabinet-making.webp"
+heroImage: "/images/articles/cabinet-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cabinet making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -79,7 +79,7 @@ Good furniture [design](/design-patterns) follows principles of proportion (the 
 
 ## Modern Cabinet Making
 
-The field has evolved significantly. CNC technology allows small shops to produce work with factory precision while maintaining custom flexibility. [Sustainable forestry](/conservation-[biology](/biology)) certification (FSC) helps conscientious makers source wood responsibly. Modern finishes (water-based polyurethane, hardwax oils, conversion varnish) offer better performance and lower environmental impact than traditional lacquers.
+The field has evolved significantly. CNC technology allows small shops to produce work with factory precision while maintaining custom flexibility. [Sustainable forestry](/construction)) certification (FSC) helps conscientious makers source wood responsibly. Modern finishes (water-based polyurethane, hardwax oils, conversion varnish) offer better performance and lower environmental impact than traditional lacquers.
 
 The maker movement has renewed interest in handmade furniture. Instagram and YouTube showcase remarkable work by solo craftspeople and small shops, connecting makers directly with customers who value handwork and are willing to pay for it.
 

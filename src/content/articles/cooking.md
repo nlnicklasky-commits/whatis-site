@@ -4,7 +4,7 @@ slug: cooking
 description: "Cooking is the practice of preparing food using heat and technique. Learn about cooking methods, the science behind flavor, kitchen basics, and food culture."
 category: everyday-concepts
 tags: ["food", "culinary arts", "nutrition", "baking", "grilling", "meal preparation"]
-heroImage: "/images/articles/cooking.webp"
+heroImage: "/images/articles/cooking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

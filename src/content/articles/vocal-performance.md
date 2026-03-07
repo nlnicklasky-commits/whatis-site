@@ -4,7 +4,7 @@ slug: vocal-performance
 description: "Vocal performance is the art of singing or speaking before an audience. Learn about technique, genres, stage presence, and what makes a great performer."
 category: arts-amp-culture
 tags: ["vocal performance", "singing", "performing arts", "stage presence", "music", "live performance"]
-heroImage: "/images/articles/vocal-performance.webp"
+heroImage: "/images/articles/vocal-performance-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vocal performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

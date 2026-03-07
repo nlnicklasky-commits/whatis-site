@@ -4,13 +4,13 @@ slug: allergies
 description: "Allergies are immune system overreactions to normally harmless substances like pollen, food, or pet dander, causing symptoms from sneezing to anaphylaxis."
 category: health-amp-wellness
 tags: ["allergies", "immune system", "allergen", "histamine", "immunology"]
-heroImage: "/images/articles/allergies.webp"
+heroImage: "/images/articles/allergies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of allergies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 12
-wordCount: 2750
+readingTime: 7
+wordCount: 1725
 tier: '2'
 relatedArticles: ["biology", "anatomy", "health-science", "genetics", "cell-biology"]
 externalSources:
@@ -33,6 +33,7 @@ faq:
     a: "The leading theory is the 'hygiene hypothesis' — modern cleanliness, antibiotics, and less outdoor exposure reduce early immune challenges, causing the immune system to overreact to harmless substances instead. Other factors include increased air pollution, climate change extending pollen seasons, and dietary changes."
 ---
 
+# What Is Allergies?
 An allergy is an exaggerated immune system response to a substance that's normally harmless — things like pollen, peanuts, dust mites, or cat dander. Your body treats these substances as dangerous invaders and launches an inflammatory attack that produces symptoms ranging from mildly annoying (sneezing, itchy eyes) to life-threatening (anaphylactic shock).
 
 About 50 million Americans experience allergies each year, making allergic disease the sixth leading cause of chronic illness in the United States. Globally, the number of people with allergies has been rising steadily for decades — and nobody is entirely sure why, though there are strong theories.

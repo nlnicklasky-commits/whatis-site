@@ -4,7 +4,7 @@ slug: biogeography
 description: "Biogeography studies the distribution of species and ecosystems across geographic space and geological time, explaining why organisms live where they do."
 category: everyday-concepts
 tags: ["biogeography", "biology", "geography", "ecology", "evolution", "species distribution"]
-heroImage: "/images/articles/biogeography.webp"
+heroImage: "/images/articles/biogeography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of biogeography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

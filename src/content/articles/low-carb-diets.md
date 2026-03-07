@@ -1,10 +1,10 @@
 ---
 title: "What Is Low-Carb Diets?"
 slug: low-carb-diets
-description: "Low-carb diets restrict carbohydrate intake to promote fat burning, weight loss, and improved blood sugar control."
+description: "Low-carb diets restrict carbohydrate intake to promote fat burning, weight loss, and improved blood sugar control. Discover the key facts, history, and why i..."
 category: health-amp-wellness
 tags: ["nutrition", "low-carb diets", "health", "weight loss", "metabolism"]
-heroImage: "/images/articles/low-carb-diets.webp"
+heroImage: "/images/articles/low-carb-diets-hero.webp"
 heroAlt: "Editorial photograph representing the concept of low-carb diets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Yes, though it may require more attention to protein intake and workout nutrition. Adequate protein (0.7-1 gram per pound of body weight) supports muscle growth regardless of carb intake. Some athletes find performance in high-intensity exercise suffers on very low-carb diets, while endurance performance may improve after adaptation."
 ---
 
+# What Is Low-Carb Diets?
 A low-carb diet is any eating pattern that restricts carbohydrate intake — typically to somewhere between 20 and 130 grams per day — below the standard dietary recommendation of 225 to 325 grams. The general idea: by eating fewer carbs, you force your body to burn fat for fuel instead of glucose, which can lead to weight loss and improvements in certain metabolic markers.
 
 The concept has been around far longer than most people realize. William Banting published the first popular low-carb diet book in 1863 — a "Letter on Corpulence" that became a Victorian bestseller. The basic insight hasn't changed much in 160 years, even if the science behind it has gotten considerably more interesting.

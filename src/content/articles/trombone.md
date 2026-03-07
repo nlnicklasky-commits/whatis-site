@@ -4,7 +4,7 @@ slug: trombone
 description: "The trombone is a brass instrument that uses a slide instead of valves to change pitch. Learn how it works, the types, its history, and where it's played."
 category: everyday-concepts
 tags: ["trombone", "brass instruments", "music", "jazz", "orchestra", "marching band"]
-heroImage: "/images/articles/trombone.webp"
+heroImage: "/images/articles/trombone-hero.webp"
 heroAlt: "Editorial photograph representing the concept of a trombone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ Like all brass instruments, the trombone produces sound through the buzzing of t
 
 The slide has seven standard positions, spaced roughly 3.5 inches apart. First position (slide fully retracted) gives the shortest tube length and highest notes in a given harmonic series. Seventh position (slide almost fully extended) gives the longest tube and lowest notes.
 
-Here's what makes the trombone uniquely expressive: because the slide moves continuously rather than clicking between fixed positions, a trombonist can glide between notes seamlessly. That smooth slide between pitches — the glissando — is the trombone's signature sound effect. It's the reason trombones show up in [comedy](/comedy), [jazz](/jazz) solos, and orchestral moments where a composer wants something dramatic or playful.
+Here's what makes the trombone uniquely expressive: because the slide moves continuously rather than clicking between fixed positions, a trombonist can glide between notes seamlessly. That smooth slide between pitches — the glissando — is the trombone's signature sound effect. It's the reason trombones show up in [comedy](/comedy), [jazz](/jazz-music) solos, and orchestral moments where a composer wants something dramatic or playful.
 
 But that continuous slide is also what makes playing in tune so demanding. A [trumpet](/trumpet) player presses a valve and gets a note. A trombonist has to *find* each note by ear, placing the slide precisely in the right spot — and that spot shifts slightly depending on temperature, the harmonic series, and the player's embouchure. It's like the difference between a piano (fixed pitches) and a [violin](/violin) (the player determines intonation).
 
@@ -53,7 +53,7 @@ The standard trombone — the one you picture when someone says "trombone." It p
 
 ### Bass Trombone
 
-Larger bore, larger bell, and one or two rotary valves (called triggers) that add extra tubing for lower notes. The bass trombone handles the lowest brass parts in the [orchestra](/orchestra) and provides the bottom of the trombone section in big bands. It requires more air and a different embouchure approach than the tenor.
+Larger bore, larger bell, and one or two rotary valves (called triggers) that add extra tubing for lower notes. The bass trombone handles the lowest brass parts in the [orchestra](/orchestration) and provides the bottom of the trombone section in big bands. It requires more air and a different embouchure approach than the tenor.
 
 ### Alto Trombone
 

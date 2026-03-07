@@ -1,7 +1,7 @@
 ---
 title: "What Is Audio Engineering?"
 slug: audio-engineering
-description: "Audio engineering is the technical practice of recording, mixing, and reproducing sound. Learn about equipment, techniques, and career paths."
+description: "Audio engineering is the technical practice of recording, mixing, and reproducing sound. Learn about equipment, techniques, and career paths. Discover the ke..."
 category: technology
 tags: ["audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering", "acoustics"]
 heroImage: "/images/articles/audio-engineering-hero.webp"
@@ -34,7 +34,7 @@ faq:
   - q: "What software do audio engineers use?"
     a: "The most common digital audio workstations (DAWs) are Pro Tools (the industry standard for professional studios), Logic Pro (popular for music production on Mac), Ableton Live (electronic music and live performance), Cubase, and Studio One. For film and game audio, Pro Tools and Nuendo dominate. Engineers also use various plugins for effects processing, virtual instruments, and audio restoration."
   - q: "What is the loudness war?"
-    a: "The loudness war refers to the trend of making commercial recordings progressively louder over decades, especially from the 1990s through the 2010s, by applying heavy compression and limiting during mastering. Louder recordings sound more impactful in brief comparisons but sacrifice dynamic range — the difference between quiet and loud passages. Streaming platforms like Spotify now normalize loudness, reducing the incentive to master as loud as possible."
+    a: "The loudness war refers to the trend of making commercial recordings progressively louder over decades, especially from the 1990s through the 2010s, by applying heavy compression and limiting during mastering. Louder recordings sound more impactful in brief comparisons but sacrifice active range — the difference between quiet and loud passages. Streaming platforms like Spotify now normalize loudness, reducing the incentive to master as loud as possible."
 ---
 
 # What Is Audio [Engineering](/engineering)?

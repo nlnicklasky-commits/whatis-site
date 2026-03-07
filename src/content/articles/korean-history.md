@@ -4,7 +4,7 @@ slug: korean-history
 description: "Korean history spans 5,000 years from ancient kingdoms to a divided peninsula. Learn about key dynasties, colonization, war, and modern transformation."
 category: everyday-concepts
 tags: ["Korean history", "Korea", "Joseon dynasty", "Korean War", "East Asia", "world history"]
-heroImage: "/images/articles/korean-history.webp"
+heroImage: "/images/articles/korean-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of korean history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

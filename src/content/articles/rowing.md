@@ -4,7 +4,7 @@ slug: rowing
 description: "Rowing is a water sport where athletes propel boats using oars. Learn about the techniques, equipment, and competitive side of this demanding endurance sport."
 category: sports
 tags: ["rowing", "oars", "boats", "water sports", "crew", "endurance sport"]
-heroImage: "/images/articles/rowing.webp"
+heroImage: "/images/articles/rowing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of rowing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

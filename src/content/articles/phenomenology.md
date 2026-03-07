@@ -1,10 +1,10 @@
 ---
 title: "What Is Phenomenology?"
 slug: phenomenology
-description: "Phenomenology is a philosophy focused on the structures of conscious experience. Learn about Husserl, Heidegger, and how we experience the world."
+description: "Phenomenology is a philosophy focused on the structures of conscious experience. Learn about Husserl, Heidegger, and how we experience the world. Discover th..."
 category: everyday-concepts
 tags: ["phenomenology", "philosophy", "consciousness", "Husserl", "Heidegger", "existentialism"]
-heroImage: "/images/articles/phenomenology.webp"
+heroImage: "/images/articles/phenomenology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of phenomenology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

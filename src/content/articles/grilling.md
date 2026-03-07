@@ -1,10 +1,10 @@
 ---
 title: "What Is Grilling?"
 slug: grilling
-description: "Grilling cooks food over direct high heat from charcoal, gas, or wood. Learn about techniques, equipment, temperatures, and how to grill better."
+description: "Grilling cooks food over direct high heat from charcoal, gas, or wood. Learn about techniques, equipment, temperatures, and how to grill better. Discover the..."
 category: everyday-concepts
 tags: ["grilling", "barbecue", "cooking", "outdoor cooking", "food", "charcoal"]
-heroImage: "/images/articles/grilling.webp"
+heroImage: "/images/articles/grilling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of grilling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Grilling?
 
-Grilling is [cooking](/cooking) food over direct heat — typically from burning charcoal, gas flames, or wood — at temperatures ranging from 400 to 700 degrees Fahrenheit. It's one of the oldest cooking methods humans have (we've been cooking over fire for at least 400,000 years), and it remains one of the most popular. About 75% of American adults own a grill. Roughly 60% of them grill year-round, not just in summer. There's something about cooking over open flame that feels right in a way that microwaving dinner never will.
+Grilling is [cooking](/cooking) food over direct heat — typically from burning charcoal, gas flames, or wood — at temperatures ranging from 400 to 700 degrees Fahrenheit. It's one of the oldest [cooking](/gourmet-cooking) methods humans have (we've been cooking over fire for at least 400,000 years), and it remains one of the most popular. About 75% of American adults own a grill. Roughly 60% of them grill year-round, not just in summer. There's something about cooking over open flame that feels right in a way that microwaving dinner never will.
 
 ## How It Works
 

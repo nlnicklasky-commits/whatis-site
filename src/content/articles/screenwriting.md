@@ -1,10 +1,10 @@
 ---
 title: "What Is Screenwriting?"
 slug: screenwriting
-description: "Screenwriting is the craft of writing scripts for film and television. Learn about screenplay structure, formatting, and what makes a script work."
+description: "Screenwriting is the craft of writing scripts for film and television. Learn about screenplay structure, formatting, and what makes a script work. Discover t..."
 category: arts-amp-culture
 tags: ["screenwriting", "screenplay", "film", "television", "script", "storytelling"]
-heroImage: "/images/articles/screenwriting.webp"
+heroImage: "/images/articles/screenwriting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of screenwriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -47,7 +47,7 @@ This constraint is what makes screenwriting difficult and also what makes it int
 
 ## Three-Act Structure (And Why Everyone Argues About It)
 
-Most mainstream screenwriting follows a three-act structure, and most screenwriting teachers will tell you it's essential. The reality is more nuanced.
+Most mainstream screenwriting follows a three-act structure, and most screenwriting teachers will tell you it's essential. The reality is more subtle.
 
 **Act One** (roughly pages 1-30 of a feature) establishes the world, introduces the main character, and presents the central dramatic question. It ends with a turning point that propels the character into unfamiliar territory. In *Jaws*, it's the moment Chief Brody sees the shark for the first time and realizes this is his problem to solve.
 

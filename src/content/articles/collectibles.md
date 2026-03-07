@@ -4,7 +4,7 @@ slug: collectibles
 description: "Collectibles are objects valued for their rarity, nostalgia, or cultural significance. Learn what makes items collectible, market trends, and how to start."
 category: everyday-concepts
 tags: ["collectibles", "hobbies", "collecting", "antiques", "rarity", "value"]
-heroImage: "/images/articles/collectibles.webp"
+heroImage: "/images/articles/collectibles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of collectibles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

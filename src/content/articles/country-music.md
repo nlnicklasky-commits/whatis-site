@@ -4,7 +4,7 @@ slug: country-music
 description: "Country music is an American genre rooted in folk, blues, and gospel traditions. Explore its history, subgenres, iconic artists, and cultural influence."
 category: arts-amp-culture
 tags: ["country music", "music genre", "american music", "folk music", "blues", "nashville"]
-heroImage: "/images/articles/country-music.webp"
+heroImage: "/images/articles/country-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of country music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

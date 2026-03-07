@@ -1,10 +1,10 @@
 ---
 title: "What Is Bowling?"
 slug: bowling
-description: "Bowling is a sport where players roll a heavy ball down a lane to knock down pins arranged in a triangle, scoring points based on pins toppled."
+description: "Bowling is a sport where players roll a heavy ball down a lane to knock down pins arranged in a triangle, scoring points based on pins toppled. Discover the ..."
 category: everyday-concepts
 tags: ["bowling", "sports", "recreation", "pins", "lanes", "strike"]
-heroImage: "/images/articles/bowling.webp"
+heroImage: "/images/articles/bowling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of bowling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -69,7 +69,7 @@ League bowling — organized teams competing weekly over a season — was the ba
 
 Recreational bowling (also called open bowling) has evolved in the opposite direction. Modern bowling centers feature cosmic bowling (blacklights, music, [special effects](/special-effects)), arcade games, restaurants, and bar areas. The experience is less about the sport and more about entertainment — a shift that keeps bowling centers profitable even as competitive participation declines.
 
-Professional bowling exists through the PBA (Professional Bowlers Association) Tour. Prize money has grown but remains modest compared to major sports — top professional bowlers earn $200,000-500,000 annually. ESPN broadcasts PBA events, and the sport has a dedicated fan base.
+Professional bowling exists through the PBA (Professional Bowlers Association) Tour. Prize money has grown but remains modest compared to major [sports](/sports-science) — top professional bowlers earn $200,000-500,000 annually. ESPN broadcasts PBA events, and the sport has a dedicated fan base.
 
 ## Variations
 

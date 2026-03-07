@@ -1,10 +1,10 @@
 ---
 title: "What Is Celtic History?"
 slug: celtic-history
-description: "Celtic history covers the Iron Age peoples who spread across Europe from 800 BCE, leaving lasting marks on language, art, law, and cultural identity."
+description: "Celtic history covers the Iron Age peoples who spread across Europe from 800 BCE, leaving lasting marks on language, art, law, and cultural identity. Discove..."
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
-heroImage: "/images/articles/celtic-history.webp"
+heroImage: "/images/articles/celtic-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of celtic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Continental Celtic peoples were gradually absorbed into the Roman Empire through conquest and cultural assimilation (Romanization). Their languages disappeared, replaced by Latin-derived languages. Celtic identity survived primarily in the British Isles and Brittany, which were less thoroughly Romanized."
 ---
 
+# What Is Celtic History?
 Celtic history is the study of the peoples who spoke Celtic languages and shared recognizable cultural patterns across a vast stretch of Europe, from roughly 800 BCE through the medieval period and into the present. At their peak, Celtic-speaking peoples inhabited territory from Ireland and Scotland to Turkey, from Spain to the Danube.
 
 The weird part is that the Celts never called themselves "Celts." That label comes from the Greek word "Keltoi," used by writers like Herodotus around 500 BCE to describe the peoples living north and west of the Mediterranean world. What we call "Celtic" civilization was actually a loose collection of hundreds of distinct tribes united by language, art, and certain cultural practices — not by political organization.
@@ -73,7 +74,7 @@ This matters enormously. Because Ireland was never Romanized, it preserved Celti
 
 The early medieval period (roughly 400–1000 CE) is sometimes called the "Celtic Golden Age," particularly in Ireland and Scotland. With Roman civilization collapsing on the continent, Celtic Christian monasteries became centers of learning, art, and manuscript production.
 
-Irish monks produced extraordinary illuminated manuscripts — the Book of Kells, created around 800 CE, is perhaps the finest surviving example. These weren't just religious texts; they were artistic masterpieces combining Celtic artistic traditions with Christian themes. The intricate knotwork, spirals, and intertwined animals of Celtic art reached their highest expression in these manuscripts.
+Irish monks produced extraordinary illuminated manuscripts — the Book of Kells, created around 800 CE, is perhaps the finest surviving example. These weren't just religious texts; they were artistic masterpieces combining Celtic artistic traditions with Christian themes. The detailed knotwork, spirals, and intertwined animals of Celtic art reached their highest expression in these manuscripts.
 
 Irish and Scottish monks also launched a remarkable missionary movement, establishing monasteries across Britain and continental Europe. Columba founded Iona in Scotland. Columbanus traveled to Gaul, Switzerland, and Italy. These monks brought literacy, scholarship, and [Christian](/christianity) learning to communities that had lost connection with the classical tradition.
 

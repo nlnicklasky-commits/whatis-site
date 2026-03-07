@@ -185,7 +185,7 @@ Epidemiologists use probabilistic models to predict disease spread. During COVID
 
 ### Finance and Risk Management
 
-Modern [finance](/finance) is built on probability theory. The Black-Scholes model for pricing options uses stochastic [differential equations](/differential-equations) — probability theory meets [calculus](/calculus). Value at Risk (VaR) calculations, which banks use to estimate potential losses, are probability computations. Portfolio theory, which underpins how billions of dollars are invested, optimizes expected return versus the probability of losses.
+Modern [finance](/finance) is built on probability theory. The Black-Scholes model for pricing options uses stochastic [differential equations](/differential-equations) — probability theory meets [calculus](/calculus). Value at Risk (VaR) calculations, which banks use to estimate potential losses, are probability computations. Portfolio theory, which drives how billions of dollars are invested, optimizes expected return versus the probability of losses.
 
 The 2008 financial crisis partly resulted from underestimating tail probabilities — the likelihood of extreme events. Models assumed housing prices followed normal distributions and that mortgage defaults were independent. Both assumptions were wrong, and the consequences were catastrophic. Probability theory isn't just abstract mathematics; getting it wrong costs real money and real livelihoods.
 

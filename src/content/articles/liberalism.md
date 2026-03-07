@@ -1,7 +1,7 @@
 ---
 title: "What Is Liberalism?"
 slug: liberalism
-description: "Liberalism is a political philosophy centered on individual rights, liberty, and constitutional government. Learn its history, branches, and debates."
+description: "Liberalism is a political philosophy centered on individual rights, liberty, and constitutional government. Learn its history, branches, and debates. Discove..."
 category: philosophy
 tags: ["liberalism", "political philosophy", "individual rights", "democracy", "liberty", "constitutional government", "enlightenment"]
 heroImage: "/images/articles/liberalism-hero.webp"

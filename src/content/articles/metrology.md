@@ -1,7 +1,7 @@
 ---
 title: "What Is Metrology?"
 slug: metrology
-description: "Metrology is the science of measurement. Learn about measurement standards, calibration, uncertainty, SI units, and why precise measurement matters."
+description: "Metrology is the science of measurement. Learn about measurement standards, calibration, uncertainty, SI units, and why precise measurement matters. Discover..."
 category: science
 tags: ["metrology", "measurement", "standards", "calibration", "precision", "accuracy", "science"]
 heroImage: "/images/articles/metrology-hero.webp"
@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 9
-wordCount: 2564
+wordCount: 2269
 tier: "2"
 relatedArticles: ["mechanical-engineering", "mathematics", "classical-mechanics", "chemistry", "algorithms"]
 externalSources:
@@ -107,7 +107,7 @@ This is the practical arm. Industrial metrology ensures that manufacturing measu
 
 Coordinate measuring machines (CMMs) measure complex 3D parts to micrometer-level accuracy. Optical measurement systems capture surfaces without physical contact. Gauge blocks --- precision-ground steel or ceramic blocks of known thickness --- serve as physical calibration references. Laser interferometers measure displacements with sub-wavelength precision.
 
-Quality standards like ISO 9001 require documented measurement traceability. In industries like [aerospace engineering](/aerospace-[engineering](/engineering)), automotive, and medical devices, metrology isn't optional --- it's a regulatory requirement. A jet engine turbine blade specified at 100.000 mm must actually be 100.000 mm (within stated tolerances), and the measurement that confirms this must be traceable to the SI meter.
+Quality standards like ISO 9001 require documented measurement traceability. In industries like [aerospace engineering](/aerodynamics)), automotive, and medical devices, metrology isn't optional --- it's a regulatory requirement. A jet engine turbine blade specified at 100.000 mm must actually be 100.000 mm (within stated tolerances), and the measurement that confirms this must be traceable to the SI meter.
 
 ### Legal Metrology
 
@@ -198,4 +198,4 @@ Rather than measuring parts after they're made (and scrapping defective ones), i
 
 ## Key Takeaways
 
-Metrology is the science that makes reliable measurement possible. It provides the standards, calibration infrastructure, and uncertainty analysis methods that ensure measurements made anywhere in the world are compatible and trustworthy. From the redefinition of SI units based on fundamental physical constants to the daily calibration of instruments in factories and hospitals, metrology underpins modern manufacturing, trade, healthcare, environmental protection, and scientific research. It's a field most people never hear about, which is precisely the point --- when measurement works properly, you don't need to think about it.
+Metrology is the science that makes reliable measurement possible. It provides the standards, calibration infrastructure, and uncertainty analysis methods that ensure measurements made anywhere in the world are compatible and trustworthy. From the redefinition of SI units based on fundamental physical constants to the daily calibration of instruments in factories and hospitals, metrology supports modern manufacturing, trade, healthcare, environmental protection, and scientific research. It's a field most people never hear about, which is precisely the point --- when measurement works properly, you don't need to think about it.

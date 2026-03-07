@@ -4,7 +4,7 @@ slug: mosaic-art
 description: "Mosaic art creates images and patterns from small pieces of stone, glass, or tile called tesserae. Learn about techniques, history, and modern practice."
 category: arts-amp-culture
 tags: ["mosaic", "art", "tesserae", "grout", "decorative arts", "ancient art"]
-heroImage: "/images/articles/mosaic-art.webp"
+heroImage: "/images/articles/mosaic-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mosaic art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Mosaic art is the technique of creating images, patterns, and decorative surface
 
 It's one of the oldest art forms on the planet. The mosaics of ancient Rome, the gold-backed glass of Byzantine churches, the geometric tilework of Islamic [architecture](/architecture), and the vibrant community murals of modern cities all share the same fundamental technique: small pieces, carefully placed, adding up to something much larger than any individual fragment.
 
-## A Long History
+## A Long [History](/art-history)
 
 The earliest known mosaics come from Mesopotamia (modern Iraq), dating to roughly 3000 BCE — cone-shaped clay pieces pushed into walls to create geometric patterns. Greek artisans from the 5th century BCE created sophisticated pebble mosaics depicting mythological scenes.
 
@@ -47,7 +47,7 @@ Islamic architecture developed geometric and calligraphic mosaic traditions of e
 
 ## Materials and Techniques
 
-**Stone tesserae** — natural marble, limestone, granite, or other stones, cut into small cubes. Traditional Roman and Greek materials. Durable but limited in color range.
+**Stone tesserae** — natural marble, limestone, granite, or other stones, cut into small cubes. Traditional Roman and Greek materials. Durable but limited in [color](/color-theory) range.
 
 **Smalti** — handmade Italian glass in brilliant, opaque colors. Made by pouring molten glass into slabs and cutting them into small pieces. Smalti offers the richest colors and can be set at angles to catch light differently.
 

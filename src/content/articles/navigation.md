@@ -1,10 +1,10 @@
 ---
 title: "What Is Navigation?"
 slug: navigation
-description: "Navigation is the science and practice of determining position and plotting a course. Learn about GPS, celestial navigation, maps, and wayfinding."
+description: "Navigation is the science and practice of determining position and plotting a course. Learn about GPS, celestial navigation, maps, and wayfinding. Discover t..."
 category: everyday-concepts
 tags: ["navigation", "gps", "mapping", "orienteering", "celestial navigation", "route planning"]
-heroImage: "/images/articles/navigation.webp"
+heroImage: "/images/articles/navigation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of navigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

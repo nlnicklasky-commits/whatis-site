@@ -1,10 +1,10 @@
 ---
 title: "What Is Claymation?"
 slug: claymation
-description: "Claymation is a stop-motion animation technique using clay figures. Learn how it works, its history, famous films, and why artists still choose clay."
+description: "Claymation is a stop-motion animation technique using clay figures. Learn how it works, its history, famous films, and why artists still choose clay. Discove..."
 category: arts-amp-culture
 tags: ["claymation", "stop-motion", "animation", "clay", "film", "art"]
-heroImage: "/images/articles/claymation.webp"
+heroImage: "/images/articles/claymation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of claymation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

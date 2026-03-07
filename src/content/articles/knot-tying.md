@@ -1,10 +1,10 @@
 ---
 title: "What Is Knot Tying?"
 slug: knot-tying
-description: "Knot tying is the skill of fastening rope or cord into functional configurations. Learn about essential knots, their uses, and how to tie them."
+description: "Knot tying is the skill of fastening rope or cord into functional configurations. Learn about essential knots, their uses, and how to tie them. Discover the ..."
 category: everyday-concepts
 tags: ["knot tying", "rope work", "sailing", "camping", "survival skills", "scouting"]
-heroImage: "/images/articles/knot-tying.webp"
+heroImage: "/images/articles/knot-tying-hero.webp"
 heroAlt: "Editorial photograph representing the concept of knot tying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Knot Tying?
 
-Knot tying is the practical skill of manipulating rope, cord, or line into configurations that hold things together, create loops, join two ropes, or secure loads. It sounds unglamorous until you need it — and then it turns out that knowing the right knot for the situation is the difference between a tent that stays up in the wind and one that collapses at 3 AM, between a boat that stays at the dock and one that drifts away, between a climbing anchor you can trust with your life and one you cannot.
+Knot tying is the practical skill of manipulating rope, cord, or line into configurations that hold things together, create loops, join two ropes, or secure loads. It sounds unglamorous until you need it — and then it turns out that knowing the right knot for the situation is the difference between a tent that stays up in the wind and one that collapses at 3 AM, between a boat that stays at the dock and one that drifts away, between a [climbing](/ice-climbing) anchor you can trust with your life and one you cannot.
 
 ## Why Knots Still Matter
 

@@ -4,7 +4,7 @@ slug: vocal-coaching
 description: "Vocal coaching helps singers and speakers improve their voice through technique, breathing, and performance skills. Learn what coaches do and how to find one."
 category: arts-amp-culture
 tags: ["vocal coaching", "singing", "voice training", "music education", "performance", "breath control"]
-heroImage: "/images/articles/vocal-coaching.webp"
+heroImage: "/images/articles/vocal-coaching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vocal coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

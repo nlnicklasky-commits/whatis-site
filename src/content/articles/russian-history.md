@@ -1,10 +1,10 @@
 ---
 title: "What Is Russian History?"
 slug: russian-history
-description: "Russian history spans over 1,100 years from medieval Kievan Rus to the modern Russian Federation, shaped by tsars, revolutions, and empire."
+description: "Russian history spans over 1,100 years from medieval Kievan Rus to the modern Russian Federation, shaped by tsars, revolutions, and empire. Discover the key ..."
 category: history
 tags: ["russia", "soviet union", "tsarist russia", "eastern europe"]
-heroImage: "/images/articles/russian-history.webp"
+heroImage: "/images/articles/russian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of russian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Russia's enormous territory (17.1 million square kilometers) resulted from centuries of eastward expansion. Cossack explorers, fur traders, and military campaigns pushed Russia's borders across Siberia to the Pacific Ocean between the 16th and 19th centuries, incorporating vast but sparsely populated lands."
 ---
 
+# What Is Russian History?
 Russian history is the story of a civilization that grew from a collection of medieval trading settlements into the largest country on Earth — a story marked by autocratic power, periodic upheaval, extraordinary cultural achievement, and an almost stubborn refusal to follow the patterns of Western European development. It spans over 1,100 years and covers one-eighth of the world's land surface.
 
 Understanding Russia's past matters because so much of modern [geopolitics](/geopolitics) — NATO, nuclear weapons policy, energy markets, conflicts in Eastern Europe — traces directly back to decisions made decades or centuries ago. You can't make sense of the present without knowing how Russia got here.

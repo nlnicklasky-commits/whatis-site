@@ -1,10 +1,10 @@
 ---
 title: "What Is Race Car Driving?"
 slug: race-car-driving
-description: "Race car driving is the competitive sport of driving vehicles at high speeds on circuits or courses. Learn about the types, skills, and risks."
+description: "Race car driving is the competitive sport of driving vehicles at high speeds on circuits or courses. Learn about the types, skills, and risks. Discover the k..."
 category: sports
 tags: ["race car driving", "motorsport", "Formula 1", "NASCAR", "racing", "automotive"]
-heroImage: "/images/articles/race-car-driving.webp"
+heroImage: "/images/articles/race-car-driving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of race car driving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Race Car Driving?
 
-Race car driving is the competitive sport of operating purpose-built or modified vehicles at high speeds, either against other drivers on a circuit or against the clock on a course. It combines [engineering](/engineering), [athletics](/athletics), strategy, and [risk management](/risk-[management](/management)) at speeds where mistakes are measured in fractions of a second and consequences can be severe. About 500 million people worldwide watch Formula 1 alone, making motorsport one of the most-watched sporting categories on Earth.
+Race car driving is the competitive sport of operating purpose-built or modified vehicles at high speeds, either against other drivers on a circuit or against the clock on a course. It combines [engineering](/engineering), [athletics](/athletics), strategy, and [risk management](/risk-management)) at speeds where mistakes are measured in fractions of a second and consequences can be severe. About 500 million people worldwide watch Formula 1 alone, making motorsport one of the most-watched sporting categories on Earth.
 
 ## The Major Series
 

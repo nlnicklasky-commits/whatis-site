@@ -4,7 +4,7 @@ slug: speleology
 description: "Speleology is the scientific study of caves, including their formation, geology, biology, and hydrology. Learn about karst landscapes, cave ecosystems, and."
 category: science
 tags: ["speleology", "caves", "geology", "karst", "underground", "earth science"]
-heroImage: "/images/articles/speleology.webp"
+heroImage: "/images/articles/speleology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of speleology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

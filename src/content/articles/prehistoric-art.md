@@ -1,10 +1,10 @@
 ---
 title: "What Is Prehistoric Art?"
 slug: prehistoric-art
-description: "Prehistoric art includes cave paintings, carvings, and sculptures created before written records. Learn about humanity's earliest creative works."
+description: "Prehistoric art includes cave paintings, carvings, and sculptures created before written records. Learn about humanity's earliest creative works. Discover th..."
 category: arts-amp-culture
 tags: ["prehistoric art", "cave paintings", "paleolithic art", "neolithic art", "archaeology", "ancient art"]
-heroImage: "/images/articles/prehistoric-art.webp"
+heroImage: "/images/articles/prehistoric-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of prehistoric art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

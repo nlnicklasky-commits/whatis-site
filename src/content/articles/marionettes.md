@@ -4,7 +4,7 @@ slug: marionettes
 description: "Marionettes are puppets controlled from above by strings or wires attached to a control bar. Learn about their history, construction, and performance."
 category: arts-amp-culture
 tags: ["marionettes", "puppetry", "performing arts", "string puppets", "theater", "folk art"]
-heroImage: "/images/articles/marionettes.webp"
+heroImage: "/images/articles/marionettes-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marionettes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Medical Terminology?"
 slug: medical-terminology
-description: "Medical terminology is the standardized language used by healthcare professionals to describe the body, diseases, and treatments. Learn the basics."
+description: "Medical terminology is the standardized language used by healthcare professionals to describe the body, diseases, and treatments. Learn the basics. Discover ..."
 category: everyday-concepts
 tags: ["medical terminology", "healthcare", "anatomy", "medicine", "Latin", "Greek roots"]
-heroImage: "/images/articles/medical-terminology.webp"
+heroImage: "/images/articles/medical-terminology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of medical terminology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

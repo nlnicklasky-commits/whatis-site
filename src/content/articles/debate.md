@@ -1,10 +1,10 @@
 ---
 title: "What Is Debate?"
 slug: debate
-description: "Debate is the structured exchange of arguments on a topic. Learn about formats, skills, competitive debate, and how arguing well improves thinking."
+description: "Debate is the structured exchange of arguments on a topic. Learn about formats, skills, competitive debate, and how arguing well improves thinking. Discover ..."
 category: arts-amp-culture
 tags: ["debate", "arts-amp-culture"]
-heroImage: "/images/articles/debate.webp"
+heroImage: "/images/articles/debate-hero.webp"
 heroAlt: "Editorial photograph representing the concept of debate"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

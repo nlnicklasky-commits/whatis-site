@@ -4,7 +4,7 @@ slug: videography
 description: "Videography is the art of capturing video footage for events, commercial projects, and creative work. Learn about equipment, techniques, and career paths."
 category: arts-amp-culture
 tags: ["videography", "video recording", "camera work", "cinematography", "content creation", "media"]
-heroImage: "/images/articles/videography.webp"
+heroImage: "/images/articles/videography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of videography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

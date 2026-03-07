@@ -1,10 +1,10 @@
 ---
 title: "What Is Pool (Billiards)?"
 slug: pool-billiards
-description: "Pool is a cue sport played on a felt-covered table with pockets. Learn the rules, major game types, and physics behind the perfect shot."
+description: "Pool is a cue sport played on a felt-covered table with pockets. Learn the rules, major game types, and physics behind the perfect shot. Discover the key fac..."
 category: everyday-concepts
 tags: ["pool billiards", "cue sports", "eight-ball", "nine-ball", "snooker", "recreation"]
-heroImage: "/images/articles/pool-billiards.webp"
+heroImage: "/images/articles/pool-billiards-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pool (billiards)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

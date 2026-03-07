@@ -4,7 +4,7 @@ slug: leadership
 description: "Leadership is the ability to guide, influence, and inspire others toward shared goals. Learn about leadership styles, theories, and what makes leaders."
 category: everyday-concepts
 tags: ["leadership", "management", "organizational behavior", "influence", "teamwork"]
-heroImage: "/images/articles/leadership.webp"
+heroImage: "/images/articles/leadership-hero.webp"
 heroAlt: "Editorial photograph representing the concept of leadership"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ Leadership books tend to focus on inspiration and strategy. The daily reality is
 
 **Firing people.** Sometimes necessary, always painful, and never taught well in leadership programs. The way you handle this — with fairness, dignity, and clear reasoning — defines your leadership character more than any success.
 
-**Managing up.** Most leaders also have bosses. Advocating for your team to your own superiors, pushing back on unreasonable demands, and translating organizational priorities into team-level reality require diplomatic skill and courage.
+**Managing up.** Most leaders also have bosses. Advocating for your team to your own superiors, pushing back on unreasonable demands, and translating [organizational](/organizational-behavior) priorities into team-level reality require diplomatic skill and courage.
 
 ## Can Leadership Be Learned?
 

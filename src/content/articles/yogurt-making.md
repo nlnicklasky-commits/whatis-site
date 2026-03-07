@@ -1,10 +1,10 @@
 ---
 title: "What Is Yogurt Making?"
 slug: yogurt-making
-description: "Yogurt making is the process of fermenting milk with live bacteria cultures. Learn the science, methods, and tips for making yogurt at home."
+description: "Yogurt making is the process of fermenting milk with live bacteria cultures. Learn the science, methods, and tips for making yogurt at home. Discover the key..."
 category: everyday-concepts
 tags: ["food science", "cooking", "dairy", "fermentation", "probiotics", "healthy eating"]
-heroImage: "/images/articles/yogurt-making.webp"
+heroImage: "/images/articles/yogurt-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of yogurt making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -113,7 +113,7 @@ Yogurt making isn't one thing — it varies dramatically across cultures.
 
 **Indian dahi**: Often made with full-fat buffalo milk and set in clay pots, which absorb some moisture and add a subtle earthy flavor.
 
-**Mongolian airag**: Fermented mare's milk — mildly alcoholic, effervescent, and central to Mongolian food culture for centuries.
+**Mongolian airag**: Fermented mare's milk — mildly alcoholic, effervescent, and central to Mongolian [food](/food-science) culture for centuries.
 
 **Bulgarian yogurt**: Uses *Lactobacillus bulgaricus* specifically (named after Bulgaria). Bulgarians consider their yogurt the original and the best, and honestly, the national pride around it is kind of endearing.
 

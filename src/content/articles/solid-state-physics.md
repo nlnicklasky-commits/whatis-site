@@ -4,7 +4,7 @@ slug: solid-state-physics
 description: "Solid-state physics studies how atoms arranged in solids create the electrical, magnetic, and thermal properties we depend on. From semiconductors to."
 category: science
 tags: ["solid-state physics", "physics", "semiconductors", "crystals", "quantum mechanics", "materials science"]
-heroImage: "/images/articles/solid-state-physics.webp"
+heroImage: "/images/articles/solid-state-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of solid-state physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

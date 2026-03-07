@@ -1,10 +1,10 @@
 ---
 title: "What Is Dietetics?"
 slug: dietetics
-description: "Dietetics is the science of applying nutrition knowledge to plan diets that improve health. Learn about its practice, history, and career paths."
+description: "Dietetics is the science of applying nutrition knowledge to plan diets that improve health. Learn about its practice, history, and career paths. Discover the..."
 category: health-amp-wellness
 tags: ["dietetics", "nutrition", "diet", "health", "food science"]
-heroImage: "/images/articles/dietetics.webp"
+heroImage: "/images/articles/dietetics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dietetics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

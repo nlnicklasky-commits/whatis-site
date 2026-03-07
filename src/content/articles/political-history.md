@@ -4,7 +4,7 @@ slug: political-history
 description: "Political history studies how governments, leaders, and power structures have shaped societies over time. Learn its methods, key debates, and major themes."
 category: history
 tags: ["history", "politics", "government", "power"]
-heroImage: "/images/articles/political-history.webp"
+heroImage: "/images/articles/political-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of political history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

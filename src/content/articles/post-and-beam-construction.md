@@ -1,7 +1,7 @@
 ---
 title: "What Is Post-and-Beam Construction?"
 slug: post-and-beam-construction
-description: "Post-and-beam construction uses large vertical posts and horizontal beams to create a structural frame, leaving walls free from load-bearing duties."
+description: "Post-and-beam construction uses large vertical posts and horizontal beams to create a structural frame, leaving walls free from load-bearing duties. Discover..."
 category: technology
 tags: ["construction", "timber framing", "woodworking", "architecture", "building techniques", "sustainable building"]
 heroImage: "/images/articles/post-and-beam-construction-hero.webp"
@@ -103,7 +103,7 @@ This makes post-and-beam homes adaptable over decades. Family grows? Add walls t
 
 Post-and-beam structures require engineering — you can't just eyeball the timber sizes and hope for the best. A structural engineer calculates loads (dead loads from the building's weight, live loads from occupants and furniture, snow loads, wind loads, seismic loads) and specifies timber sizes, species, grades, and connections for each member.
 
-Engineering software can model the entire frame, analyzing stresses in every member and connection. For standard residential construction, many post-and-beam companies have pre-engineered systems that streamline the design process.
+Engineering software can model the entire frame, analyzing stresses in every member and connection. For standard residential construction, many post-and-beam companies have pre-engineered systems that simplify the design process.
 
 Building codes — the International Building Code (IBC) and International Residential Code (IRC) — govern timber construction, specifying minimum sizes, connection requirements, fire ratings, and other structural standards. Post-and-beam construction is fully code-recognized and widely permitted.
 

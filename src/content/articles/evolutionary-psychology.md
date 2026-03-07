@@ -4,7 +4,7 @@ slug: evolutionary-psychology
 description: "Evolutionary psychology studies how natural selection shaped human behavior and mental processes. Learn about its theories, debates, and key findings."
 category: everyday-concepts
 tags: ["evolutionary psychology", "human behavior", "natural selection", "cognitive science", "adaptation", "psychology"]
-heroImage: "/images/articles/evolutionary-psychology.webp"
+heroImage: "/images/articles/evolutionary-psychology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of evolutionary psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

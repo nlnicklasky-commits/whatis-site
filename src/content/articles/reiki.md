@@ -1,10 +1,10 @@
 ---
 title: "What Is Reiki?"
 slug: reiki
-description: "Reiki is a Japanese energy healing practice where practitioners channel life force energy through their hands to promote relaxation and well-being."
+description: "Reiki is a Japanese energy healing practice where practitioners channel life force energy through their hands to promote relaxation and well-being. Discover ..."
 category: health-amp-wellness
 tags: ["alternative medicine", "reiki", "energy healing", "wellness"]
-heroImage: "/images/articles/reiki.webp"
+heroImage: "/images/articles/reiki-hero.webp"
 heroAlt: "Editorial photograph representing the concept of reiki"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

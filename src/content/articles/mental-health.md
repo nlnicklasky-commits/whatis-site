@@ -4,7 +4,7 @@ slug: mental-health
 description: "Mental health is your emotional, psychological, and social well-being. Learn what affects it, common disorders, treatment options, and how to protect yours."
 category: health-amp-wellness
 tags: ["health", "mental health", "psychology", "wellness"]
-heroImage: "/images/articles/mental-health.webp"
+heroImage: "/images/articles/mental-health-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mental health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: social-psychology
 description: "Social psychology studies how people's thoughts, feelings, and behaviors are influenced by others. Learn about key experiments, theories, and applications."
 category: psychology
 tags: ["social psychology", "psychology", "behavior", "social influence", "group dynamics", "cognitive bias"]
-heroImage: "/images/articles/social-psychology.webp"
+heroImage: "/images/articles/social-psychology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

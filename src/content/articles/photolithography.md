@@ -4,7 +4,7 @@ slug: photolithography
 description: "Photolithography is the process used to pattern microchips by projecting light through masks onto silicon wafers. Learn how it makes modern electronics."
 category: everyday-concepts
 tags: ["photolithography", "semiconductors", "microchips", "manufacturing", "silicon", "technology"]
-heroImage: "/images/articles/photolithography.webp"
+heroImage: "/images/articles/photolithography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of photolithography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -85,4 +85,4 @@ The industry is already pushing EUV further. High-NA (Numerical Aperture) EUV sy
 
 Beyond that, researchers are exploring alternatives: directed self-assembly (letting molecules arrange themselves into patterns), nanoimprint lithography (physically stamping patterns), and even electron beam lithography for specialized applications. But for high-volume manufacturing, no technology has come close to displacing optical lithography.
 
-For over 60 years, photolithography has been the workhorse behind Moore's Law — the observation that transistor density doubles roughly every two years. Every time experts predicted it would hit physical limits, engineers found ways around them. Whether that streak can continue is one of the most important technological questions of our time.
+For over 60 years, photolithography has been the workhorse behind Moore's Law — the observation that transistor density doubles roughly every two years. Every time experts predicted it would hit [physical](/physical-chemistry) limits, engineers found ways around them. Whether that streak can continue is one of the most important technological questions of our time.

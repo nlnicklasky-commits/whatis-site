@@ -1,10 +1,10 @@
 ---
 title: "What Is Aromatherapy?"
 slug: aromatherapy
-description: "Aromatherapy uses plant-derived essential oils to promote physical and psychological well-being through inhalation or topical application."
+description: "Aromatherapy uses plant-derived essential oils to promote physical and psychological well-being through inhalation or topical application. Discover the key f..."
 category: health-amp-wellness
 tags: ["aromatherapy", "essential oils", "alternative medicine", "wellness", "relaxation"]
-heroImage: "/images/articles/aromatherapy.webp"
+heroImage: "/images/articles/aromatherapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of aromatherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "In most countries, aromatherapy is not regulated as a medical practice. Essential oils are typically classified as cosmetics or consumer products, not drugs, meaning they don't undergo the same testing and approval processes as pharmaceuticals. Quality and purity vary significantly between brands."
 ---
 
+# What Is Aromatherapy?
 Aromatherapy is a practice that uses concentrated plant extracts — called essential oils — to support physical and emotional well-being. These oils are typically inhaled through diffusers or applied to the skin in diluted form, with the goal of triggering beneficial responses in the body and mind.
 
 The word "aromatherapy" was coined in 1937 by a French chemist named Rene-Maurice Gattefosse, but the underlying practice is ancient. Humans have used aromatic plants for healing, religious ceremonies, and personal care for thousands of years. What's new is the attempt to understand these practices through modern science — with mixed but genuinely interesting results.

@@ -4,7 +4,7 @@ slug: world-religions
 description: "World religions is the study of major belief systems including Christianity, Islam, Hinduism, Buddhism, and Judaism, their histories, practices, and teachings."
 category: philosophy
 tags: ["religions", "belief systems", "spirituality", "faith", "theology"]
-heroImage: "/images/articles/world-religions.webp"
+heroImage: "/images/articles/world-religions-hero.webp"
 heroAlt: "Editorial photograph representing the concept of world religions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

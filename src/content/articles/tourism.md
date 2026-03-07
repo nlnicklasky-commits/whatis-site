@@ -4,7 +4,7 @@ slug: tourism
 description: "Tourism is the business and activity of traveling for pleasure, culture, or recreation. Learn the types, economic impact, and challenges of modern tourism."
 category: everyday-concepts
 tags: ["tourism", "travel", "hospitality", "economy", "culture", "recreation"]
-heroImage: "/images/articles/tourism.webp"
+heroImage: "/images/articles/tourism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tourism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

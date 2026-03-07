@@ -1,10 +1,10 @@
 ---
 title: "What Is Relaxation Techniques?"
 slug: relaxation-techniques
-description: "Relaxation techniques are methods like deep breathing, meditation, and progressive muscle relaxation that reduce stress and calm your nervous system."
+description: "Relaxation techniques are methods like deep breathing, meditation, and progressive muscle relaxation that reduce stress and calm your nervous system. Discove..."
 category: health-amp-wellness
 tags: ["mental health", "relaxation", "stress management", "wellness"]
-heroImage: "/images/articles/relaxation-techniques.webp"
+heroImage: "/images/articles/relaxation-techniques-hero.webp"
 heroAlt: "Editorial photograph representing the concept of relaxation techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

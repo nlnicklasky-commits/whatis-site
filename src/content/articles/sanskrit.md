@@ -1,10 +1,10 @@
 ---
 title: "What Is Sanskrit?"
 slug: sanskrit
-description: "Sanskrit is an ancient Indo-European language of India, sacred to Hinduism and Buddhism, and one of the world's oldest documented languages."
+description: "Sanskrit is an ancient Indo-European language of India, sacred to Hinduism and Buddhism, and one of the world's oldest documented languages. Discover the key..."
 category: language
 tags: ["sanskrit", "classical language", "india", "hinduism", "buddhism", "linguistics"]
-heroImage: "/images/articles/sanskrit.webp"
+heroImage: "/images/articles/sanskrit-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sanskrit"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

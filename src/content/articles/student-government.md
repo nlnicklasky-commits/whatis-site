@@ -1,10 +1,10 @@
 ---
 title: "What Is Student Government?"
 slug: student-government
-description: "Student government is a student-run organization that represents the student body at schools and colleges. Learn how it works and why it matters."
+description: "Student government is a student-run organization that represents the student body at schools and colleges. Learn how it works and why it matters. Discover th..."
 category: education
 tags: ["student government", "education", "leadership", "student council", "elections", "school"]
-heroImage: "/images/articles/student-government.webp"
+heroImage: "/images/articles/student-government-hero.webp"
 heroAlt: "Editorial photograph representing the concept of student government"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://nces.ed.gov/"
 faq:
   - q: "What does student government actually do?"
-    a: "Student government typically manages student activity budgets, plans events (homecoming, prom, spirit weeks), advocates for student concerns to school administration, and serves as a liaison between students and faculty. At the college level, student governments may control budgets of hundreds of thousands of dollars and influence real policy decisions."
+    a: "Student government typically manages student activity budgets, plans events (homecoming, prom, spirit weeks), advocates for student concerns to school administration, and is a liaison between students and faculty. At the college level, student governments may control budgets of hundreds of thousands of dollars and influence real policy decisions."
   - q: "Do student government positions look good on college applications?"
     a: "Yes, but context matters. Admissions officers value demonstrated leadership and impact over titles. Being student body president is impressive, but what you actually accomplished in the role matters more. Specific achievements — like starting a tutoring program or changing a school policy — carry more weight than the title alone."
   - q: "How are student government officers typically chosen?"
@@ -83,7 +83,7 @@ Here's what student government participants rarely talk about but what makes the
 
 ## The Criticism
 
-Let's be honest: student government has a reputation problem. Critics (including many students) see it as a resume-padding exercise, a popularity contest, or an irrelevant institution that nobody outside the participants cares about. Voter turnout in student government [elections](/political-[philosophy](/philosophy)) is often dismal — 10-20% at many colleges.
+Let's be honest: student government has a reputation problem. Critics (including many students) see it as a resume-padding exercise, a popularity contest, or an irrelevant institution that nobody outside the participants cares about. Voter turnout in student government [elections](/politics)) is often dismal — 10-20% at many colleges.
 
 Some of that criticism is fair. When student government spends its energy on internal politics rather than serving students, it deserves the eye-rolls. But when it's done well — when leaders actually listen to students, manage money responsibly, and push for meaningful change — it's a genuinely effective training ground for democratic participation.
 

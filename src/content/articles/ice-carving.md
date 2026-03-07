@@ -4,7 +4,7 @@ slug: ice-carving
 description: "Ice carving is the art of sculpting blocks of ice into decorative forms. Learn about techniques, tools, competitions, and the ephemeral nature of ice art."
 category: arts-amp-culture
 tags: ["ice sculpture", "carving", "art", "winter art", "ephemeral art", "sculpture techniques"]
-heroImage: "/images/articles/ice-carving.webp"
+heroImage: "/images/articles/ice-carving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ice carving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ Ice carvers use a mix of power tools and hand tools:
 
 **Chisels and gouges** handle detail work — facial features, textures, fine lines. Ice chisels are similar to [woodworking](/woodworking) chisels but with different angles and often heated slightly to prevent sticking.
 
-**Die grinders and rotary tools** create smooth surfaces and fine details. Dremel-type tools with carbide bits work well for intricate textures like feathers or scales.
+**Die grinders and rotary tools** create smooth surfaces and fine details. Dremel-type tools with carbide bits work well for detailed textures like feathers or scales.
 
 **Flat irons and heat guns** smooth surfaces and add clarity. [Running](/running) a warm iron over carved ice melts a thin surface layer that refreezes as a smooth, glass-like finish.
 
@@ -75,7 +75,7 @@ A typical single-block sculpture takes 1 to 4 hours from start to finish. Multi-
 
 ## The Ephemeral Factor
 
-Here is what makes ice carving philosophically interesting: the medium guarantees its own destruction. Every piece melts. The most intricate, labor-intensive sculpture has a lifespan measured in hours at room temperature, or days to weeks outdoors in winter.
+Here is what makes ice carving philosophically interesting: the medium guarantees its own destruction. Every piece melts. The most complex, labor-intensive sculpture has a lifespan measured in hours at room temperature, or days to weeks outdoors in winter.
 
 This impermanence changes the artist's relationship to the work. There is no museum for ice sculptures. No collector's market. No permanence. The art exists fully in the present — you see it, you experience it, and then it is gone.
 

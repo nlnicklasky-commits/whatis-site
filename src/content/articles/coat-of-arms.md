@@ -4,7 +4,7 @@ slug: coat-of-arms
 description: "A coat of arms is a heraldic design on a shield used to identify individuals, families, or institutions, following rules that date back to 12th-century Europe."
 category: history
 tags: ["coat of arms", "heraldry", "symbolism", "genealogy", "medieval"]
-heroImage: "/images/articles/coat-of-arms.webp"
+heroImage: "/images/articles/coat-of-arms-hero.webp"
 heroAlt: "Editorial photograph representing the concept of coat of arms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -101,7 +101,7 @@ In England and Scotland, heraldry is still legally regulated. The College of Arm
 
 National arms are used on passports, [government](/government) buildings, and official documents. Corporate heraldry — logos and emblems that follow heraldic conventions — remains common for universities, law firms, and organizations wanting to project tradition and authority. The shields of Oxford and Cambridge are genuine heraldic arms, not just logos.
 
-Cities, states, and organizations worldwide maintain heraldic [traditions](/comparative-[religion](/religion)) in their official emblems. The Vatican's coat of arms (crossed keys beneath a papal tiara) is one of the most recognized symbols on earth. Every Canadian province has official arms granted by the Canadian Heraldic Authority, established in 1988.
+Cities, states, and organizations worldwide maintain heraldic [traditions](/composting)) in their official emblems. The Vatican's coat of arms (crossed keys beneath a papal tiara) is one of the most recognized symbols on earth. Every Canadian province has official arms granted by the Canadian Heraldic Authority, established in 1988.
 
 ## The [Genealogy](/genealogy) Connection
 

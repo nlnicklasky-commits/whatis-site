@@ -1,10 +1,10 @@
 ---
 title: "What Is Crochet?"
 slug: crochet
-description: "Crochet is a fiber craft using a hooked needle to create fabric from yarn. Learn about basic stitches, patterns, history, and getting started."
+description: "Crochet is a fiber craft using a hooked needle to create fabric from yarn. Learn about basic stitches, patterns, history, and getting started. Discover the k..."
 category: everyday-concepts
 tags: ["crochet", "everyday-concepts"]
-heroImage: "/images/articles/crochet.webp"
+heroImage: "/images/articles/crochet-hero.webp"
 heroAlt: "Editorial photograph representing the concept of crochet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ From these five stitches, combined with variations in placement, grouping, and s
 
 The exact origins of crochet are surprisingly unclear. No definitive evidence of crochet exists before the early 19th century — which is strangely recent for such a fundamental craft. Some historians speculate it evolved from Chinese needlework, Arabian knotting, or South American practices, but concrete documentation is lacking.
 
-What's clear is that crochet became enormously popular in Ireland during the 1840s famine. Irish crochet lace — an incredibly intricate technique that creates three-dimensional floral motifs joined by mesh grounds — became an important source of income for impoverished families. Lace pieces were exported to England and America, and the money earned helped families survive.
+What's clear is that crochet became enormously popular in Ireland during the 1840s famine. Irish crochet lace — an incredibly elaborate technique that creates three-dimensional floral motifs joined by mesh grounds — became an important source of income for impoverished families. Lace pieces were exported to England and America, and the money earned helped families survive.
 
 By the late 19th century, crochet was a standard domestic skill taught to girls across Europe and America. The 20th century saw waves of popularity — the granny square explosion of the 1970s, the craft revival of the 2000s, and the current social media-driven renaissance.
 

@@ -4,7 +4,7 @@ slug: gourmet-cooking
 description: "Gourmet cooking elevates food through premium ingredients, precise techniques, and artful presentation. Learn what separates gourmet from everyday cooking."
 category: arts-amp-culture
 tags: ["gourmet cooking", "culinary arts", "fine dining", "food", "cooking", "chef"]
-heroImage: "/images/articles/gourmet-cooking.webp"
+heroImage: "/images/articles/gourmet-cooking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gourmet cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Gourmet [Cooking](/cooking)?
 
-Gourmet cooking is the preparation of food with exceptional attention to ingredient quality, cooking technique, flavor balance, and visual presentation. It's not a strict category — there's no governing body that certifies a dish as "gourmet." Instead, it's a standard of care and intention that separates cooking done with precision and thought from cooking done on autopilot. A perfectly roasted chicken with crispy skin, moist meat, and a pan sauce made from the drippings can be gourmet. A complicated dish with 30 components that doesn't taste good isn't.
+Gourmet cooking is the preparation of [food](/[food](/food-styling)-science) with exceptional attention to ingredient quality, cooking technique, flavor balance, and visual presentation. It's not a strict category — there's no governing body that certifies a dish as "gourmet." Instead, it's a standard of care and intention that separates cooking done with precision and thought from cooking done on autopilot. A perfectly roasted chicken with crispy skin, moist meat, and a pan sauce made from the drippings can be gourmet. A complicated dish with 30 components that doesn't taste good isn't.
 
 ## What Makes It Different
 
@@ -81,6 +81,6 @@ If you want to cook at a gourmet level at home, focus on these fundamentals.
 
 ## The Democratization
 
-Gourmet cooking has become far more accessible than it used to be. YouTube channels, cooking blogs, and online courses teach techniques that previously required culinary school. Specialty ingredients are available through online retailers. Equipment that was once professional-only (sous vide machines, instant-read thermometers, high-powered blenders) is now affordable for home cooks.
+Gourmet cooking has become far more accessible than it used to be. YouTube channels, cooking blogs, and online courses teach techniques that previously required [culinary](/culinary-arts) school. Specialty ingredients are available through online retailers. Equipment that was once professional-only (sous vide machines, instant-read thermometers, high-powered blenders) is now affordable for home cooks.
 
 The result is a generation of home cooks who can produce genuinely impressive food — not restaurant-level volume, but restaurant-level quality on individual dishes. And honestly, the best gourmet cooking has always been less about formal training and more about paying attention, caring about quality, and putting in the practice to execute well.

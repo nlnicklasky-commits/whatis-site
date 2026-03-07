@@ -4,7 +4,7 @@ slug: weightlifting
 description: "Weightlifting is the sport of lifting heavy barbells overhead in the snatch and clean & jerk. Learn about techniques, training, competition, and benefits."
 category: everyday-concepts
 tags: ["weightlifting", "Olympic lifting", "strength training", "fitness", "barbell", "athletics"]
-heroImage: "/images/articles/weightlifting.webp"
+heroImage: "/images/articles/weightlifting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of weightlifting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -51,7 +51,7 @@ Because the lift is broken into two phases, athletes can handle more weight than
 
 ## The Technique
 
-Weightlifting technique is far more nuanced than "pick it up and put it over your head." The movement patterns involve precise timing and coordination:
+Weightlifting technique is far more subtle than "pick it up and put it over your head." The movement patterns involve precise timing and coordination:
 
 **First pull** — The bar rises from the floor to roughly knee height. This phase is relatively slow and controlled, driven primarily by the legs.
 

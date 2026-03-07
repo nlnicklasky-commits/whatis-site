@@ -1,10 +1,10 @@
 ---
 title: "What Is Kite Flying?"
 slug: kites
-description: "Kite flying is the practice of launching and controlling tethered aircraft using wind. Learn about kite types, history, and how to get started."
+description: "Kite flying is the practice of launching and controlling tethered aircraft using wind. Learn about kite types, history, and how to get started. Discover the ..."
 category: everyday-concepts
 tags: ["kites", "outdoor recreation", "wind", "hobbies", "aerodynamics"]
-heroImage: "/images/articles/kites.webp"
+heroImage: "/images/articles/kites-hero.webp"
 heroAlt: "Editorial photograph representing the concept of kite flying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

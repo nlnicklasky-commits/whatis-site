@@ -4,7 +4,7 @@ slug: instrument-making
 description: "Instrument making is the craft of building musical instruments by hand. Learn about luthiery, woodworking techniques, and the science behind great sound."
 category: arts-amp-culture
 tags: ["instrument making", "musical instruments", "luthiery", "acoustics", "craftsmanship", "music technology"]
-heroImage: "/images/articles/instrument-making.webp"
+heroImage: "/images/articles/instrument-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of instrument making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -269,6 +269,6 @@ The weird thing about geometry is that it feels visual and intuitive, but the de
 
 Geometry is the mathematical study of shapes, space, and spatial relationships. It started with practical land measurement in ancient civilizations, was formalized by Euclid into an axiomatic system around 300 BCE, and has expanded into a vast discipline spanning non-Euclidean geometries, topology, differential geometry, and computational methods.
 
-It underpins modern technology from GPS navigation to medical imaging to video games. It provides the mathematical framework for Einstein's general relativity. And at its heart, it's about understanding the structure of space itself—flat or curved, continuous or fractured, finite or infinite.
+It backs up modern technology from GPS navigation to medical imaging to video games. It provides the mathematical framework for Einstein's general relativity. And at its heart, it's about understanding the structure of space itself—flat or curved, continuous or fractured, finite or infinite.
 
 Whether you're an architect designing a building, a programmer rendering 3D graphics, a physicist modeling spacetime, or a student learning to think logically, geometry gives you the tools to reason precisely about the world's most fundamental property: its shape.

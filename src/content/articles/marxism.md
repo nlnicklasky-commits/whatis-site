@@ -4,7 +4,7 @@ slug: marxism
 description: "Marxism is a social, economic, and political theory developed by Karl Marx analyzing class struggle and capitalism. Learn its core ideas and influence."
 category: politics
 tags: ["marxism", "political theory", "economics", "Karl Marx", "socialism", "class struggle"]
-heroImage: "/images/articles/marxism.webp"
+heroImage: "/images/articles/marxism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marxism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

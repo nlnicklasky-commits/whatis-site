@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Science?"
 slug: the-history-of-science
-description: "The history of science tracks how humanity moved from myth to method, reshaping our understanding of nature over 3,000 years."
+description: "The history of science tracks how humanity moved from myth to method, reshaping our understanding of nature over 3,000 years. Discover the key facts, history..."
 category: history
 tags: ["history of science", "science", "scientific revolution", "scientific method"]
-heroImage: "/images/articles/the-history-of-science.webp"
+heroImage: "/images/articles/the-history-of-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What was the Scientific Revolution?"
     a: "The Scientific Revolution was a period from roughly 1543 to 1687 when European thinkers fundamentally changed how humans investigate nature. It began with Copernicus placing the sun at the center of the solar system and culminated with Newton's laws of motion and gravitation. Key figures include Galileo, Kepler, Boyle, and Harvey. The Revolution established observation, experimentation, and mathematical modeling as the primary methods for understanding the natural world."
   - q: "Who invented the scientific method?"
-    a: "No single person invented the scientific method. It developed gradually over centuries. Aristotle emphasized observation. Ibn al-Haytham (Alhazen) around 1000 CE introduced controlled experiments and peer review. Roger Bacon advocated experimental science in the 13th century. Francis Bacon formalized inductive reasoning in 1620. Galileo demonstrated the power of combining experiment with mathematics. The method as we recognize it today crystallized during the 17th century Scientific Revolution."
+    a: "No single person invented the scientific method. It developed gradually over centuries. Aristotle emphasized observation. Ibn al-Haytham (Alhazen) around 1000 CE introduced controlled experiments and peer review. Roger Bacon advocated experimental science in the 13th century. Francis Bacon formalized inductive reasoning in 1620. Galileo demonstrated how much combining experiment with mathematics. The method as we recognize it today crystallized during the 17th century Scientific Revolution."
   - q: "Why did modern science develop in Europe rather than elsewhere?"
     a: "This is hotly debated. Science thrived in China, India, and the Islamic world for centuries, often ahead of Europe. Some factors proposed for Europe's later acceleration include: the printing press enabling rapid knowledge sharing, the Protestant Reformation encouraging individual inquiry, competition among European states funding research, the establishment of scientific societies and journals, and specific institutional structures in European universities. But framing it as 'why Europe' oversimplifies a complex, contingent process."
 ---

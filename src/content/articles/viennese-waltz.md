@@ -1,10 +1,10 @@
 ---
 title: "What Is Viennese Waltz?"
 slug: viennese-waltz
-description: "The Viennese waltz is a fast, elegant ballroom dance in 3/4 time. Learn about its history, technique, music, and place in competitive dance."
+description: "The Viennese waltz is a fast, elegant ballroom dance in 3/4 time. Learn about its history, technique, music, and place in competitive dance. Discover the key..."
 category: arts-amp-culture
 tags: ["viennese waltz", "ballroom dance", "dance", "waltz", "classical music", "performing arts"]
-heroImage: "/images/articles/viennese-waltz.webp"
+heroImage: "/images/articles/viennese-waltz-hero.webp"
 heroAlt: "Editorial photograph representing the concept of viennese waltz"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,14 +24,14 @@ faq:
   - q: "How fast is the Viennese waltz?"
     a: "The Viennese waltz is performed at 58-60 measures per minute (174-180 beats per minute), making it roughly twice as fast as the slower 'English' or 'American' waltz, which runs at 28-30 measures per minute. This speed requires dancers to rely on momentum and frame connection rather than careful placement of each step."
   - q: "What is the difference between Viennese waltz and regular waltz?"
-    a: "Speed is the primary difference — Viennese waltz is about twice as fast. The slower waltz (sometimes called 'English waltz' or 'slow waltz') allows more varied figures, rise and fall, and nuanced body movement. Viennese waltz uses fewer figures (mainly natural and reverse turns plus changes) but demands greater stamina, balance, and spatial awareness due to the speed."
+    a: "Speed is the primary difference — Viennese waltz is about twice as fast. The slower waltz (sometimes called 'English waltz' or 'slow waltz') allows more varied figures, rise and fall, and detailed body movement. Viennese waltz uses fewer figures (mainly natural and reverse turns plus changes) but demands greater stamina, balance, and spatial awareness due to the speed."
   - q: "Why was the waltz considered scandalous?"
     a: "When the waltz emerged in the late 18th century, it was the first European social dance where partners held each other in a close embrace while turning rapidly. Previous court dances kept partners at arm's length or involved minimal physical contact. The close hold, the spinning, and the breathlessness were considered sexually provocative. Religious and social authorities condemned it widely, which only increased its popularity."
 ---
 
 # What Is Viennese Waltz?
 
-The Viennese waltz is a fast, spinning ballroom [dance](/dance) performed in 3/4 time at roughly 180 beats per minute. It's the original waltz — the one that scandalized 18th-century Europe, launched a music dynasty (the Strauss family), and remains one of the most elegant and physically demanding ballroom dances. If you've seen footage of couples sweeping across a grand ballroom floor at the Vienna [Opera](/opera) Ball, that's Viennese waltz.
+The Viennese waltz is a fast, spinning ballroom [dance](/dance) performed in 3/4 time at roughly 180 beats per minute. It's the original waltz — the one that scandalized 18th-century Europe, launched a [music](/pop-music) dynasty (the Strauss family), and remains one of the most elegant and physically demanding ballroom dances. If you've seen footage of couples sweeping across a grand ballroom floor at the Vienna [Opera](/opera) Ball, that's Viennese waltz.
 
 ## The Dance That Shocked Europe
 

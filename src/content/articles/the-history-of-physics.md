@@ -4,7 +4,7 @@ slug: the-history-of-physics
 description: "The history of physics traces how humans came to understand the fundamental laws of nature. Learn the key breakthroughs from ancient Greece to quantum theory."
 category: everyday-concepts
 tags: ["the history of physics", "physics", "science history", "Newton", "Einstein", "quantum mechanics"]
-heroImage: "/images/articles/the-history-of-physics.webp"
+heroImage: "/images/articles/the-history-of-physics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

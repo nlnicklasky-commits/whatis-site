@@ -1,7 +1,7 @@
 ---
 title: "What Is Business Ethics?"
 slug: business-ethics
-description: "Business ethics applies moral principles to commercial activity, guiding decisions about fairness, responsibility, and corporate conduct."
+description: "Business ethics applies moral principles to commercial activity, guiding decisions about fairness, responsibility, and corporate conduct. Discover the key fa..."
 category: finance
 tags: ["business ethics", "corporate governance", "csr", "corporate social responsibility", "ethical dilemmas", "business responsibility", "moral principles"]
 heroImage: "/images/articles/business-ethics-hero.webp"

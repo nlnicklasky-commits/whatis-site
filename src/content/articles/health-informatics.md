@@ -1,7 +1,7 @@
 ---
 title: "What Is Health Informatics?"
 slug: health-informatics
-description: "Health informatics applies IT to healthcare, managing electronic records, clinical data, and systems that improve patient care and outcomes."
+description: "Health informatics applies IT to healthcare, managing electronic records, clinical data, and systems that improve patient care and outcomes. Discover the key..."
 category: technology
 tags: ["health informatics", "healthcare", "information technology", "ehr", "data analytics", "medical technology", "digital health"]
 heroImage: "/images/articles/health-informatics-hero.webp"

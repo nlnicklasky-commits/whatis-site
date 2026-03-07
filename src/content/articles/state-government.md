@@ -4,7 +4,7 @@ slug: state-government
 description: "State government is the level of government that manages affairs within a U.S. state. Learn how it works, its branches, and why it affects your daily life."
 category: politics
 tags: ["state government", "politics", "legislature", "governor", "federalism", "public policy"]
-heroImage: "/images/articles/state-government.webp"
+heroImage: "/images/articles/state-government-hero.webp"
 heroAlt: "Editorial photograph representing the concept of state government"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -74,7 +74,7 @@ States spend roughly $2.4 trillion annually — real money affecting real people
 
 The relationship between state and federal power has been contested since before the Constitution was ratified. The Tenth Amendment says powers not delegated to the federal government are reserved to the states. But the Commerce Clause, the Supremacy Clause, and various Supreme Court decisions have steadily expanded federal authority over the centuries.
 
-Today, many [policy](/political-[philosophy](/philosophy)) areas involve both levels working together — or occasionally, butting heads. Marijuana legalization is a perfect example: dozens of states have legalized it in some form while it remains federally illegal. Immigration enforcement, environmental standards, and healthcare all involve similar federal-state tensions.
+Today, many [policy](/politics)) areas involve both levels working together — or occasionally, butting heads. Marijuana legalization is a perfect example: dozens of states have legalized it in some form while it remains federally illegal. Immigration enforcement, environmental standards, and healthcare all involve similar federal-state tensions.
 
 ## Why State Government Matters More Than You Think
 

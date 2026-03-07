@@ -1,10 +1,10 @@
 ---
 title: "What Is Biography?"
 slug: biography
-description: "A biography is a detailed written account of a person's life, exploring their experiences, achievements, relationships, and historical significance."
+description: "A biography is a detailed written account of a person's life, exploring their experiences, achievements, relationships, and historical significance. Discover..."
 category: everyday-concepts
 tags: ["biography", "literature", "writing", "nonfiction", "history", "memoir"]
-heroImage: "/images/articles/biography.webp"
+heroImage: "/images/articles/biography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of biography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

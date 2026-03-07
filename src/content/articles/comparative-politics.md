@@ -4,7 +4,7 @@ slug: comparative-politics
 description: "Comparative politics studies political systems across countries to understand how governments work. Learn about its methods, key questions, and subfields."
 category: everyday-concepts
 tags: ["comparative politics", "political science", "politics", "government", "political systems", "international relations"]
-heroImage: "/images/articles/comparative-politics.webp"
+heroImage: "/images/articles/comparative-politics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comparative politics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

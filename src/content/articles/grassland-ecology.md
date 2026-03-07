@@ -104,7 +104,7 @@ Natural grassland fires—ignited by lightning or, for millennia, by indigenous 
 
 **Maintaining diversity**: Different plant species respond differently to fire. Frequent fire favors fire-adapted grasses and forbs (wildflowers). Infrequent fire allows woody plants to establish. Managing fire frequency is a tool for maintaining specific community compositions.
 
-Grassland fire ecology has direct implications for [conservation](/conservation-[biology](/biology)) [management](/management). Restoring fire to landscapes where it's been suppressed—often for a century or more—is one of the most effective conservation strategies for grassland ecosystems. But prescribed burning near urban areas is politically and practically difficult, creating a persistent management challenge.
+Grassland fire ecology has direct implications for [conservation](/construction)) [management](/management). Restoring fire to landscapes where it's been suppressed—often for a century or more—is one of the most effective conservation strategies for grassland ecosystems. But prescribed burning near urban areas is politically and practically difficult, creating a persistent management challenge.
 
 ## Soil: The Hidden Half
 

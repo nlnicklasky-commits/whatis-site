@@ -4,7 +4,7 @@ slug: card-games
 description: "Card games are games played with a deck of playing cards, encompassing thousands of variations from poker and bridge to solitaire and collectible card games."
 category: everyday-concepts
 tags: ["card games", "cards", "games", "strategy", "entertainment", "playing cards"]
-heroImage: "/images/articles/card-games.webp"
+heroImage: "/images/articles/card-games-hero.webp"
 heroAlt: "Editorial photograph representing the concept of card games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

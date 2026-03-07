@@ -4,7 +4,7 @@ slug: wildlife-conservation
 description: "Wildlife conservation protects animal species and their habitats from extinction and decline. Learn about threats, strategies, success stories, and how you."
 category: science-technology
 tags: ["wildlife conservation", "endangered species", "biodiversity", "ecology", "habitat protection", "conservation"]
-heroImage: "/images/articles/wildlife-conservation.webp"
+heroImage: "/images/articles/wildlife-conservation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wildlife conservation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.worldwildlife.org/"
 faq:
   - q: "How many species are currently endangered?"
-    a: "The IUCN Red List, the most comprehensive global assessment, lists over 44,000 species as threatened with extinction as of 2023 — roughly 28% of all assessed species. This includes 41% of amphibians, 37% of sharks and rays, 36% of reef-building corals, 26% of mammals, and 13% of birds. The actual number of threatened species is likely much higher because only about 150,000 of an estimated 8-10 million species have been assessed."
+    a: "The IUCN Red List, the most thorough global assessment, lists over 44,000 species as threatened with extinction as of 2023 — roughly 28% of all assessed species. This includes 41% of amphibians, 37% of sharks and rays, 36% of reef-building corals, 26% of mammals, and 13% of birds. The actual number of threatened species is likely much higher because only about 150,000 of an estimated 8-10 million species have been assessed."
   - q: "What is the biggest threat to wildlife?"
     a: "Habitat loss and degradation is the single largest threat to wildlife worldwide, affecting 85% of all species on the IUCN Red List. Other major threats include overexploitation (hunting, fishing, poaching), invasive species, pollution, disease, and climate change. For many species, multiple threats interact — a species might survive habitat loss if not also facing climate change, but the combination pushes it toward extinction."
   - q: "Has wildlife conservation actually saved any species?"

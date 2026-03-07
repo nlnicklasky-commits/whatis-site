@@ -1,10 +1,10 @@
 ---
 title: "What Is Oratory?"
 slug: oratory
-description: "Oratory is the art of public speaking, using rhetoric and persuasion to move audiences. Learn about its history, techniques, and famous orators."
+description: "Oratory is the art of public speaking, using rhetoric and persuasion to move audiences. Learn about its history, techniques, and famous orators. Discover the..."
 category: everyday-concepts
 tags: ["oratory", "public speaking", "rhetoric", "persuasion", "communication", "speech"]
-heroImage: "/images/articles/oratory.webp"
+heroImage: "/images/articles/oratory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of oratory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ The Western tradition of oratory begins in ancient Greece, where public speaking
 
 The Sophists — traveling teachers like Gorgias and Protagoras — taught oratory for fees in the 5th century BCE. They focused on technique: how to construct arguments, how to appeal to emotions, how to make the weaker argument appear stronger. Their critics (notably Plato) accused them of [teaching](/teaching) manipulation over truth.
 
-Aristotle's *[Rhetoric](/rhetoric)* (4th century BCE) provided the theoretical framework that still underpins oratory today. He identified three modes of persuasion:
+Aristotle's *[Rhetoric](/rhetoric)* (4th century BCE) provided the theoretical framework that still drives oratory today. He identified three modes of persuasion:
 
 **Ethos** — the speaker's credibility and character. You believe someone you trust. Establishing expertise, fairness, and goodwill is essential before an audience will accept your arguments.
 

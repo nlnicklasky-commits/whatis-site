@@ -1,10 +1,10 @@
 ---
 title: "What Is Scheduling?"
 slug: scheduling
-description: "Scheduling is the process of organizing tasks and resources across time. Learn about methods, tools, and strategies for effective planning."
+description: "Scheduling is the process of organizing tasks and resources across time. Learn about methods, tools, and strategies for effective planning. Discover the key ..."
 category: everyday-concepts
 tags: ["scheduling", "time management", "project management", "planning", "resource allocation", "productivity"]
-heroImage: "/images/articles/scheduling.webp"
+heroImage: "/images/articles/scheduling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of scheduling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ This is why your "simple" attempt to plan a week often falls apart by Tuesday. Y
 
 ## Core Scheduling Concepts
 
-**Dependencies** are tasks that can't start until other tasks finish. You can't paint a wall before the drywall is hung. In [project management](/project-[management](/management)), mapping these dependencies correctly is often the difference between a project finishing on time and one that drags on for months.
+**Dependencies** are tasks that can't start until other tasks finish. You can't paint a wall before the drywall is hung. In [project management](/project-management)), mapping these dependencies correctly is often the difference between a project finishing on time and one that drags on for months.
 
 **Constraints** are limits on when or how work can happen. A meeting room is available only from 2 to 4 PM. A specialist works only on Tuesdays. A permit must be obtained before construction begins. Constraints narrow your options and force trade-offs.
 

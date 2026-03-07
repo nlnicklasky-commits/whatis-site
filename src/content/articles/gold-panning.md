@@ -4,7 +4,7 @@ slug: gold-panning
 description: "Gold panning uses water and gravity to separate gold from sediment. Learn the technique, where to pan, and why people still chase flakes and nuggets today."
 category: everyday-concepts
 tags: ["gold panning", "gold", "prospecting", "mining", "outdoor recreation", "geology"]
-heroImage: "/images/articles/gold-panning.webp"
+heroImage: "/images/articles/gold-panning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gold panning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

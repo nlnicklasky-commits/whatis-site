@@ -4,7 +4,7 @@ slug: swahili-language
 description: "Swahili is a Bantu language spoken by over 100 million people across East Africa. Learn its origins, structure, global influence, and why it keeps growing."
 category: everyday-concepts
 tags: ["swahili language", "linguistics", "Africa", "Bantu", "language", "East Africa"]
-heroImage: "/images/articles/swahili-language.webp"
+heroImage: "/images/articles/swahili-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of swahili language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.ethnologue.com/language/swh/"
 faq:
   - q: "How many people speak Swahili?"
-    a: "Estimates vary, but roughly 100-150 million people speak Swahili, making it one of the most widely spoken languages in Africa. However, only about 15-20 million are native speakers — the vast majority speak it as a second or third language. It serves as a lingua franca across East and Central Africa."
+    a: "Estimates vary, but roughly 100-150 million people speak Swahili, making it one of the most widely spoken languages in Africa. However, only about 15-20 million are native speakers — the vast majority speak it as a second or third language. It is a lingua franca across East and Central Africa."
   - q: "Is Swahili hard to learn for English speakers?"
     a: "Swahili is generally considered one of the easier African languages for English speakers. It uses the Latin alphabet, has relatively regular pronunciation (words are pronounced as they're spelled), and has absorbed many Arabic and English loanwords. The noun class system and verb conjugation take practice, but the grammar is logical and consistent."
   - q: "Where is Swahili an official language?"

@@ -1,0 +1,10780 @@
+[
+  {
+    "slug": "abacus",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "abstract-algebra",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "acting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "acupressure",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "acupuncture",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aerodynamics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "african-history",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "agile-software-development",
+    "fixes": [
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "agriculture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aikido",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aircraft-mechanics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "alchemy",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "algebra",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "allergies",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "amateur-radio",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "american-football",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "american-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ancient-egyptian-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ancient-greek-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ancient-roman-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "anesthesiology",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "angling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "animal-behavior",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "animation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "anthropology",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "antiques-collecting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "app-development",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "applied-mathematics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aquaculture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aquariums",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "arabic-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "archery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "architectural-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "architecture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aromatherapy",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "art-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "artisan-bread-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "asian-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "astrology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "athletics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "audio-engineering",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "australian-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "automotive-design",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "automotive-engineering",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "automotive-repair",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aviation-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "aviation",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "babylonian-mythology",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "backgammon",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "backpacking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "baking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ballet",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ballroom-dancing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "banjo",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "barbecuing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bartending",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "baseball",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "basket-weaving",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "basketball",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bass-guitar",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bayesian-statistics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "beachcombing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "beadwork",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "beer-brewing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "behavioral-economics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biblical-studies",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "billiards",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biogeography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biological-anthropology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biomechanics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biophysics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "biotechnology",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bird-watching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "blacksmithing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "blockchain",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "blogging",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "blues-music",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "board-games",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "boat-building",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bodybuilding",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bookbinding",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bookkeeping",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "botany",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bowling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "boxing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "brazilian-jiu-jitsu",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bread-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "bridge-card-game",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "british-history",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "broadcasting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "buddhism",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "budgeting",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "building-automation",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "business-administration",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "business-ethics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "business-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "business-law",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "business-strategy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "byzantine-history",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cabaret",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cabinet-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "calisthenics",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "calligraphy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "camera-operation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "camping",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "canadian-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "candy-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "canoeing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "carbohydrate-chemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "card-games",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "card-making",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "carpentry",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cartography",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cartooning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "casting-metal",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cat-breeding",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "caving",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cell-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cellular-automata",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "celtic-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "celtic-mythology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ceramics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cereal-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chaos-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "charcuterie",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "checkers",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cheerleading",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cheese-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chess",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chicken-farming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "child-development",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chinese-history",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chinese-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chinese-mythology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chiropractic",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chivalry",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "choral-music",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "christianity",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "chromatography",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cinematography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "circus-arts",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "civil-law",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "civil-rights-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "classical-civilizations",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "classical-composition",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "classical-guitar",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "classical-music",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "claymation",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "clinical-psychology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "clowning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coaching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coat-of-arms",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cocktail-making",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coffee-roasting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cognitive-bias",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cognitive-neuroscience",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cognitive-psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coin-collecting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cold-war-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "collectibles",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "color-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comedy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comic-book-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comic-book-collecting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "communication-theory",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comparative-anatomy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comparative-literature",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comparative-mythology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comparative-politics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "comparative-religion",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "competitive-eating",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "complex-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "complexity-theory",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "composting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computational-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computational-linguistics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computational-physics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-architecture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-graphics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-hardware",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-networking",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-repair",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computer-vision",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "computing-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "conchology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "concrete-technology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "confectionery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "conflict-resolution",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "conservation-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "construction",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "contract-law",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "control-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cooking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coppersmithing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "copywriting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "coral-reef-ecology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "corporate-finance",
+    "fixes": [
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "costume-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "country-music",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "couponing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "crab-fishing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "craft-beer",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "creative-writing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "credit-management",
+    "fixes": [
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "creole-languages",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "criminology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "critical-thinking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "crochet",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cross-stitch",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "crossword-puzzles",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cryptozoology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "crystallography",
+    "fixes": [
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cuban-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "culinary-arts",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cultural-anthropology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "curling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "currency-trading",
+    "fixes": [
+      "banned_words",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cybernetics",
+    "fixes": [
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cycling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "cytology",
+    "fixes": [
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dairy-farming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dance-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "data-mining",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "data-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "debate",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "decorating",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "deep-learning",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dental-hygiene",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dentistry",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dermatology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "design-patterns",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "detective-fiction",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "developmental-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "developmental-psychology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "diabetes-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dietetics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "differential-equations",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "digital-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "digital-logic",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "digital-marketing",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "digital-photography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dinosaurs",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "diplomacy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "disaster-preparedness",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "diving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "diy-electronics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "diy-home-improvement",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dog-training",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "doll-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dominoes",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "drama",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "drawing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dream-analysis",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dressage",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dried-flowers",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "drumming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dutch-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dyeing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "dynamic-programming",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "early-modern-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "earth-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "eastern-philosophy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ecology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "econometrics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "economic-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "economic-theory",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "economics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "editing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "education",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "educational-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "educational-psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "eeg-technology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "egyptian-mythology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "electricity",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "electrodynamics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "electromagnetism",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "electron-microscopy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "electronic-music",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "elementology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "embroidery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "emergency-medicine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "emotional-intelligence",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "enameling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "endocrinology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "energy-healing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "engineering-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "english-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "english-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "english-literature",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "engraving",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "environmental-law",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "epidemiology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "epistemology",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "equestrianism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ergonomics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "espionage-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ethics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ethology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "etymology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "european-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "evolutionary-psychology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "exercise-physiology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "existentialism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "exoplanetology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "exploration-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fabric-arts",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fairy-tales",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "falconry",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "family-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "family-therapy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fantasy-literature",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "farming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fashion-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fashion-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fencing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "feng-shui",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "feudalism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fiction-writing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "field-hockey",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "figure-skating",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-criticism",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "banned_phrases",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-direction",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-editing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-noir",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-production",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "film-theory",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "filmmaking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "finance",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "financial-regulation",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fine-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fire-safety",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "firefighting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "first-aid",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fish-farming",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fishing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fitness",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "flemish-painting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "floral-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fluid-dynamics",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "flute",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "folk-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "folk-dancing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "folk-music",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "folklore",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "food-chemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "food-preservation",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "food-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "food-styling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "food-writing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "foraging",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "foreign-policy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "forensic-anthropology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "forensic-psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "forestry",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "forging",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "formal-languages",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fossil-collecting",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fountain-pen-collecting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "four-wheel-driving",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fractal-geometry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "frame-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "franchising",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "freemasonry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "french-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "french-horn",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "french-language",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fresco-painting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "freshwater-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fruit-growing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fuel-cell-technology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "functional-analysis",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "functional-programming",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "fundamental-analysis",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "furniture-design",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "furniture-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "game-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "game-development",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "game-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gaming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gardening",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gas-dynamics",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gastroenterology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gastronomy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gemology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "genealogy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "general-relativity",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geochemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geographic-information-systems-gis",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geography",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geomagnetism",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geometry",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geophysics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "geopolitics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "german-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "german-language",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gerontology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "glass-blowing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gliding",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "global-economics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "go-game",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "goat-farming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gold-panning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "goldsmithing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "golf",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gothic-architecture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gourmet-cooking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "government",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "graffiti-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "grammar",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "graph-theory",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "graphic-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "graphology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "greek-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "greek-mythology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "grilling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "group-theory",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "guerrilla-marketing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "guitar",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "gymnastics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hagiography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "haiku",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hair-styling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "handball",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "handwriting-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "harmonica",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "harmony",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "harp",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "haute-couture",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hawaiian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "health-economics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "health-informatics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "health-insurance",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "health-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "health-science",
+    "fixes": [
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hedge-fund-management",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "heraldry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "herbal-medicine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "herpetology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "heuristics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hiking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-conspiracy-theories",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-gunslinging",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-linguistics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-piracy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-reenactment",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-slavery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-weaponry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-witchcraft",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "historical-zionism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hobby-machining",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hockey",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "home-brewing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "home-economics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "home-education",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "home-organization",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "homeopathy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "horse-racing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "horticulture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hospitality-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hot-air-ballooning",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "houseplants",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-anatomy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-computer-interaction",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-evolution",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-geography",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-nutrition",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-physiology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-resources",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "human-rights-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "humanism",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hungarian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hunting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hydraulics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hydrodynamics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hydrogen-power",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hydrogeology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hydroponics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hygiene",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "hypnotherapy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "iberian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ice-carving",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ice-climbing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ice-hockey",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ice-skating",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ichthyology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "iconography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "illustration",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "image-processing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "immunology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "impressionism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "indian-classical-music",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "indian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "indian-mythology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "indigenous-religions",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "indonesian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "industrial-engineering",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "industrial-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "industrial-psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "information-architecture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "information-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "instrument-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "insurance",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "integer-programming",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "intellectual-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "intellectual-property-law",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "intelligence-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "interior-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "international-business",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "international-development",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "international-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "international-relations",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "internet-of-things-iot",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "interviewing-skills",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "inventory-management",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "investment-banking",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "investment-management",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ionic-architecture",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "iranian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "irish-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "irrigation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "islam",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "islamic-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "italian-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "italian-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jacobean-era",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jainism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "japanese-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "japanese-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "japanese-language",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "japanese-mythology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jazz-music",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jewelry-making",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jewish-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jigsaw-puzzles",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "journalism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "judo",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "juggling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jukebox-collecting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "jurisprudence",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "kabbalah",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "kites",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "knex",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "knitting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "knot-tying",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "korean-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "korean-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lacrosse",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "land-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "landscape-architecture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "landscape-painting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "landscaping",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "language-acquisition",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lapidary",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "laser-technology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "latin-american-history",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "latin-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "latticework",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "law",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lawn-care",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "leadership",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lean-manufacturing",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "leatherworking",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "legal-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "legal-writing",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "legends",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lego-building",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lens-grinding",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lexicography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "liberalism",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "library-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lichenology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "life-coaching",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "light-opera",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lighthouses",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lighting-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "limnology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "linear-algebra",
+    "fixes": [
+      "banned_phrases",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "linear-programming",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "linguistics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lipidology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "literary-criticism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "literary-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "literature",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lithography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "livestock-farming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lobbying",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lobster-fishing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "local-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "locksmithing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "logic-puzzles",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "logic",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "loom-weaving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "low-carb-diets",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "lumberjacking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "luthiery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "machine-learning",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "macrobiotics",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "magic-illusion",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "magnetism",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mahjong",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "makeup-artistry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "malacology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mandarin-chinese",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mandolin",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "manicuring",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "manufacturing-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "maori-culture",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marathon-running",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marine-archeology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marine-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marine-navigation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marionettes",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "maritime-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "maritime-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "market-research",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marketing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marksmanship",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "martial-arts",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "marxism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "masonry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "massage-therapy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "materials-science",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mathematical-biology",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mathematical-logic",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mathematical-modeling",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mathematics",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "measure-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mechanical-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mechatronics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "media-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "media-production",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "media-studies",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-anthropology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-ethics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-imaging",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-jurisprudence",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medical-terminology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medicinal-chemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "medieval-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "meditation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mediterranean-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "memory-techniques",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mens-fashion",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mental-health",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mercantilism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "merchant-marine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mesopotamian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "metabolic-pathways",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "metal-detecting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "metaphysics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "metrology",
+    "fixes": [
+      "banned_words",
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mexican-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "microbiology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "microeconomics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "microscopy",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "microwave-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "middle-eastern-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "midwifery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "military-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "military-strategy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "millinery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mime",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mineralogy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "miniature-golf",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "miniature-painting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "minimalism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mithraism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mixology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mnemotechnics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "model-building",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "model-railroading",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "modern-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "modern-dance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "modern-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "molecular-biology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "molecular-gastronomy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "monarchy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "monetary-policy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mongol-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "montessori-method",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "moral-philosophy",
+    "fixes": [
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mosaic-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "motion-graphics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "motorcycle-maintenance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "motorcycle-racing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mountain-biking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mountaineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "movie-memorabilia",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mural-painting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "museology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mushroom-hunting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-composition",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-education",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-performance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-production",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "music-theory",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "musical-theatre",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mycology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "myology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "myrmecology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mystery-fiction",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "mythology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nanotechnology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "napoleonic-wars",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "narratology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "national-parks",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "native-american-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "natural-building",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "natural-disasters",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "natural-history",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "natural-language-processing",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "natural-medicine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "naturopathy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nautical-archaeology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "naval-architecture",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "naval-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "navigation",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "negotiation",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neoclassicism",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neolithic-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nephrology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "network-administration",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "network-security",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "networking",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neural-networks",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neuroanatomy",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neurobiology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neurochemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neuroeconomics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neurolinguistics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neurology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "neuromarketing",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "new-testament-studies",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "newspaper-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nihilism",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nineteenth-century-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "norse-mythology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "north-american-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "notary-public",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "novel-writing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nuclear-physics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "number-theory",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "numerical-analysis",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "numismatics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nursery-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nursing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "nutrition",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "object-oriented-programming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "obstetrics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "occupational-health",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "occupational-therapy",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ocean-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "off-roading",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "oil-painting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "old-testament-studies",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "olive-oil-production",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "oncology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "opera",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "operations-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ophthalmology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "optimal-control",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "optimization",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "optometry",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "oral-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "oratory",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "orchestration",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "orchid-growing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "organic-chemistry",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "organic-farming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "organizational-behavior",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "organizational-psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "organometallic-chemistry",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "origami",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ornithology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "orthodontics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "orthopedics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "osteology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "osteopathy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ottoman-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "outdoor-survival",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pageantry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paintball",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "painting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paleoanthropology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paleobiology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paleoclimatology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paleoecology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pali-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pantomime",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paper-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "papier-mch",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paragliding",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "paramedicine",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "parasitology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "parenting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "parkour",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "parliamentary-procedure",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "particle-physics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pastry-arts",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pathology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pediatrics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "penology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pension-management",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "performance-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "perfume-making",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "periodontology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "permaculture",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "persian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "personal-growth",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "personal-training",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "personality-psychology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "perspective-drawing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pet-care",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pet-grooming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "petroleum-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "petrology",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pharmacy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "phenomenology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philately",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy-of-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy-of-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy-of-mind",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy-of-music",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy-of-religion",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "philosophy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "photographic-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "photolithography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "photovoltaics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "phrenology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "phycology",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physical-chemistry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physical-comedy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physical-education",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physical-therapy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physiognomy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "physiology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "piano-tuning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "piano",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pictography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pig-farming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pilates",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pilot-training",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pipe-organ",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pizza-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plant-breeding",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plant-pathology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plasma-physics",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plastering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plastics-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plate-tectonics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "playwriting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "plumbing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "podcasting",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "podiatry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "poetry",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "poker",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "political-cartoons",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "political-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "political-philosophy",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "political-science",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "politics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pollination",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "polynesian-culture",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pontoon-boating",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pool-billiards",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pop-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pop-music",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "popular-culture",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "porcelain-making",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "portfolio-management",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "portrait-photography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "portuguese-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "portuguese-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "post-and-beam-construction",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "post-impressionism",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "postal-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "postcolonial-studies",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pottery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "poultry-farming",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "powerlifting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pragmatism",
+    "fixes": [
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pre-columbian-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prehistoric-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prehistoric-man",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prehistory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "preservation-food",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "presidential-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "press-release-writing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "printmaking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "probability-theory",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "process-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "productivity",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "professional-wrestling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "programming-languages",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prop-making",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "property-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "property-management",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prophecy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prose",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "prosthetics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "proteomics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "protohistory",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "proverbs",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pruning",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychiatry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychoanalysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psycholinguistics",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychological-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychological-warfare",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychometrics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychopharmacology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "psychotherapy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "public-administration",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "public-health",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "public-policy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "public-relations",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "public-speaking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "publishing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pulmonology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "puppetry",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "pyrotechnics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "python-programming",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "qigong",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quakerism",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantitative-easing",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantum-chemistry",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantum-computing",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantum-electrodynamics",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantum-mechanics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quantum-physics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quarrying",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "quilting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "race-car-driving",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "racquetball",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "radio-broadcasting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "radiocarbon-dating",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "radiography",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "radiology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rafting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "railroad-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rainforest-ecology",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "raku-pottery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rapping",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "real-analysis",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "real-estate-development",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "real-estate-investing",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "real-estate-law",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "real-estate",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "realism-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "recreational-flying",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "recycling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "reflexology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "refrigeration",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "refugee-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "reiki",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "relativity",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "relaxation-techniques",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "religion",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "renaissance-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "renaissance-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "reptile-keeping",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "reservoir-engineering",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "resource-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "restaurant-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "restoration-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "restoration-automobile",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "retail-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rhetoric",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rheumatology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rhinology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "riddles",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "riding-horse",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "risk-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "river-ecology",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "road-cycling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "robotics",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rock-climbing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "roman-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "roman-law",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "roman-mythology",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "romance-languages",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "romance-literature",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "romanesque-architecture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "romanticism-art",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "roofing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rope-skipping",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rowing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rugby",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "running",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "rural-sociology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "russian-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "russian-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sailing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sales",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "salsa-dancing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "saltwater-aquariums",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sand-art",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sandblasting",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sanskrit",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "saxophone",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scaffolding",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scandinavian-history",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scanning-electron-microscopy",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scent-training-dogs",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scheduling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scholasticism",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "school-administration",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "science-fiction",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "science-journalism",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scientific-illustration",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scientific-method",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scrabble",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "screen-printing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "screenwriting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "scuba-diving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sculpture",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "seafood-cookery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "seasonal-cooking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "second-language-acquisition",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "secret-societies",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "security-analysis",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sedimentology",
+    "fixes": [
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "self-defense",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "self-publishing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "semantics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "senior-care",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "seo-search-engine-optimization",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "septuagint-studies",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sericulture",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "set-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "set-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sewing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sexual-health",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shakespearean-literature",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sheep-farming",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sheet-metal-work",
+    "fixes": [
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shenanigans",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shipbuilding",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shipwreck-archeology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shoemaking",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shooting-sports",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shop-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "shorthand",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "showmanship",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "siege-warfare",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sign-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sikhism",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "silversmithing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "singing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "skateboarding",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sketching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "skiing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "skill-based-gaming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "skin-care",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "skydiving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "slate-roofing",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "slavic-languages",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sleep-science",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sleight-of-hand",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "small-business-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "small-engine-repair",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "smelting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "snooker",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "snorkeling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "snowboarding",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soap-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soccer",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-anthropology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-choice-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-commentary",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-contract-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-darwinism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-democracy",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-dynamics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-engineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-justice",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-media-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-network-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-psychology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "social-work",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "socialism",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sociolinguistics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sociology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "software-architecture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "software-engineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "software-testing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soil-mechanics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soil-science",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "solar-physics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "solar-sailing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soldering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "solid-mechanics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "solid-state-physics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "solo-performance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "songwriting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sound-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sound-engineering",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sound-healing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sourdough",
+    "fixes": [
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "south-american-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "southeast-asian-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "soviet-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "space-colonization",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "space-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "space-medicine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "space-science",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spanish-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spanish-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spearfishing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "special-education",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "special-effects",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spectroscopy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "speech-pathology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "speech-writing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "speed-reading",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "speleology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spice-trade-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spiritualism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sponge-biology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-analytics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-broadcasting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-coaching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-officiating",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-photography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-psychology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-science",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sports-writing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "spreadsheet-modeling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "springs",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "squash",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stained-glass",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stamp-collecting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stand-up-comedy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "state-government",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "statistical-mechanics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "statistical-modeling",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "statistics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "steam-engines",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "steel-production",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stellar-astronomy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stenography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stereoscopy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stichomancy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stoicism",
+    "fixes": [
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stone-carving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stonemasonry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "storytelling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "strategic-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "strategic-planning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "strategy-games",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stream-ecology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "strength-training",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "string-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "structural-biology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "structural-engineering",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "stucco",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "student-government",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "styling-fashion",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "subatomic-particles",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "submarine-technology",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sudoku",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sufism",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sumo-wrestling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "superconductivity",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "superfoods",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "supernatural-folklore",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "supply-chain-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "surfing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "surgery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "surveying",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "survival-skills",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sushi-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sustainable-agriculture",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sustainable-architecture",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "sustainable-development",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "swahili-language",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "swimming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "swordsmanship",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "symbology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "symphony-composition",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "synchronized-swimming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "syntax",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "synthetic-biology",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "syriac-language",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "systems-administration",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "systems-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "systems-biology",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "systems-engineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "systems-theory",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "table-tennis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tabletop-role-playing-games",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tactical-analysis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "taekwondo",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tai-chi",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tailoring",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "talmudic-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tantra",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "taoism",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tapestry",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tarot-reading",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tax-law",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "taxidermy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "taxonomy",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tea-ceremony",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "teaching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "technical-analysis",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "technical-drawing",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "technical-writing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "technology-management",
+    "fixes": [
+      "hero_image_path",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tectonics",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "telecommunication",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "telepathy-research",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "telescope-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "television-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "television-production",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "television-writing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tennis",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "teratology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "terraforming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "terrariums",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "terrorism-studies",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "textile-arts",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "textile-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "textile-history",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "textile-science",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thai-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thai-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thatching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-astronomy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-biology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-chemistry",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-logic",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-mathematics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-philosophy",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-physics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-political-science",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-religion",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-science",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-space-exploration",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-technology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-history-of-warfare",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "the-physics-of-time-travel",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theater-arts",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theater-direction",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theatrical-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theoretical-computer-science",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "theoretical-physics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thermodynamics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thesaurus-construction",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "thirty-years-war",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tidal-power",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tile-setting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "time-management",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tinsmithing",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tire-technology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "titanium-forging",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "topiary",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "topography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "topology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tort-law",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tourism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "toxicology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "toy-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "track-and-field",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trade",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "traditional-chinese-medicine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "traffic-engineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tragedy-literature",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trail-running",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "train-spotting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "transcendentalism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "transcription",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "translation",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "transportation-engineering",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "transportation-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trapping",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "travel-hacking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "travel-photography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "travel-writing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tree-climbing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "triathlon",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tribology",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trigonometry",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trombone",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tropical-agriculture",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tropical-ecology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "truck-driving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "trumpet",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tuba",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tungsten-inert-gas-tig-welding",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tuning-instruments",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "tunneling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "turkish-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "turkish-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "turning-wood",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "twentieth-century-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "type-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "typesetting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "typography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ufology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ukelele",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ultrasonography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "underwater-archaeology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "underwater-photography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "underwater-welding",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "unemployment-economics",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "uniformology",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "united-kingdom-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "united-nations-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "united-states-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "university-administration",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "upholstery",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urban-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urban-development",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urban-exploration",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urban-farming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urban-planning",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urdu-language",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "urology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "user-experience-ux-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "user-interface-ui-design",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "utilitarianism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vaudeville",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vector-calculus",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vegan-cooking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vegetable-gardening",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vegetarian-cooking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "ventriloquism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "venture-capital",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "veterinary-medicine",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vexillology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vibration-analysis",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "video-editing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "video-game-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "video-game-history",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "video-game-journalism",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "video-production",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "videography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "viennese-waltz",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "viking-history",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "viola",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "violin-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "violin",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "virology",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "virtual-reality",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "virtue-ethics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "visual-arts",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "visual-basic",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "visual-effects",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "visual-merchandising",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vocal-coaching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "vocal-performance",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "volcanology",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "volleyball",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "voodoo",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "voting-theory",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "voyages-of-discovery",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wagon-trains",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "walking",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wall-painting",
+    "fixes": [
+      "hero_image_path",
+      "banned_phrases"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wargaming",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "warhammer",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "waste-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "watchmaking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-aerobics",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-color-painting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-law",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-polo",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-purification",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "water-skiing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wealth-management",
+    "fixes": [
+      "hero_image_path",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "weaving",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "web-analytics",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "web-design",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "web-development",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "web-hosting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "web-security",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wedding-planning",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "weightlifting",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "welding",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wellness",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "western-art",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "western-esotericism",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "western-film-genre",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "western-philosophy",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wetland-ecology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "whale-watching",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "whittling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wilderness-first-aid",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wildfire-management",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wildlife-biology",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wildlife-conservation",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wildlife-management",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wildlife-photography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wind-power",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "windsurfing",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wine-making",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wine-tasting",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wood-carving",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wood-finishing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "woodworking",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "word-games",
+    "fixes": [
+      "hero_image_path",
+      "metadata"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "word-processing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "workplace-safety",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "world-cuisine",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "world-music",
+    "fixes": [
+      "hero_image_path",
+      "banned_words"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "world-religions",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "world-war-i",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "world-war-ii",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "wrestling",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "writing",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "x-ray-crystallography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "xylography",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "yachting",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "yoga",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "yogurt-making",
+    "fixes": [
+      "hero_image_path",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "youtube-content-creation",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zentangle",
+    "fixes": [
+      "hero_image_path",
+      "banned_words",
+      "description"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zero-waste-living",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zincography",
+    "fixes": [
+      "hero_image_path"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zodiac",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zoology",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  },
+  {
+    "slug": "zoroastrianism",
+    "fixes": [
+      "hero_image_path",
+      "description",
+      "metadata",
+      "missing_h1"
+    ],
+    "timestamp": "2026-03-07"
+  }
+]

@@ -4,7 +4,7 @@ slug: nephrology
 description: "Nephrology is the medical specialty focused on kidney health and disease. Learn about kidney function, common conditions, dialysis, and transplant options."
 category: health-amp-wellness
 tags: ["nephrology", "kidney disease", "dialysis", "internal medicine"]
-heroImage: "/images/articles/nephrology.webp"
+heroImage: "/images/articles/nephrology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nephrology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,16 +1,16 @@
 ---
 title: "What Is Venture Capital?"
 slug: venture-capital
-description: "Venture capital is high-risk investment in early-stage startups. Learn how VC funds work, deal stages, term sheets, and what founders should know."
+description: "Venture capital is high-risk investment in early-stage startups. Learn how VC funds work, deal stages, term sheets, and what founders should know. Discover t..."
 category: finance
 tags: ["venture capital", "investing", "startups", "finance", "entrepreneurship"]
-heroImage: "/images/articles/venture-capital.webp"
+heroImage: "/images/articles/venture-capital-hero.webp"
 heroAlt: "Editorial photograph representing the concept of venture capital"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3920
+readingTime: 10
+wordCount: 2508
 tier: '1'
 relatedArticles: ["entrepreneurship", "corporate-finance", "investment-management", "private-equity", "financial-planning"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Top-tier VC funds target 3x or more return on the entire fund over a 10-year period, which translates to roughly 20-25% annual returns. The best-performing funds in history have returned 10x or more, but median fund returns are much more modest."
 ---
 
+# What Is Venture Capital?
 Venture capital is a form of private equity financing where investors provide money to early-stage, high-growth-potential startups in exchange for ownership stakes. The investors — called venture capitalists — bet that a small number of their portfolio companies will grow enormously, producing returns large enough to compensate for the many investments that fail.
 
 It's a high-risk, high-reward game, and it has funded some of the most important companies of the last fifty years.

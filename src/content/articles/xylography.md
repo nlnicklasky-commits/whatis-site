@@ -1,10 +1,10 @@
 ---
 title: "What Is Xylography?"
 slug: xylography
-description: "Xylography is the art of printing from carved wood blocks. Learn how this ancient technique shaped publishing, art, and culture across centuries."
+description: "Xylography is the art of printing from carved wood blocks. Learn how this ancient technique shaped publishing, art, and culture across centuries. Discover th..."
 category: arts-amp-culture
 tags: ["woodcut", "printmaking", "engraving", "art history", "printing techniques", "relief printing"]
-heroImage: "/images/articles/xylography.webp"
+heroImage: "/images/articles/xylography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of xylography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

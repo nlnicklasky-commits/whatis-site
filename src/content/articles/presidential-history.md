@@ -4,7 +4,7 @@ slug: presidential-history
 description: "Presidential history is the study of U.S. presidents, their decisions, and their impact on America. Explore key eras, powers, and how the office has evolved."
 category: history
 tags: ["presidential history", "u.s. presidents", "political history", "american history"]
-heroImage: "/images/articles/presidential-history.webp"
+heroImage: "/images/articles/presidential-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of presidential history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

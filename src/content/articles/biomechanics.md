@@ -1,7 +1,7 @@
 ---
 title: "What Is Biomechanics?"
 slug: biomechanics
-description: "Biomechanics applies physics and engineering to biological movement. Learn about human motion, sports science, prosthetics, and injury prevention."
+description: "Biomechanics applies physics and engineering to biological movement. Learn about human motion, sports science, prosthetics, and injury prevention. Discover t..."
 category: science
 tags: ["biomechanics", "human movement", "physics", "engineering", "sports science", "medical devices", "prosthetics"]
 heroImage: "/images/articles/biomechanics-hero.webp"

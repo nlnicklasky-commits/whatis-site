@@ -107,7 +107,7 @@ The implications are genuinely bizarre. Particles exist in superpositions of sta
 
 And yet, quantum mechanics works. It predicts the properties of atoms, molecules, and materials with extraordinary precision. The anomalous magnetic moment of the electron has been calculated to 12 decimal places and matches experiment to 12 decimal places. No theory in the history of science has been tested this precisely and passed.
 
-Quantum mechanics underpins all of [chemistry](/chemistry) (chemical bonds are quantum phenomena), all of [electronics](/electronics) (semiconductors depend on quantum band structure), and technologies from lasers to MRI machines to the atomic clocks that keep GPS accurate.
+Quantum mechanics is the foundation of all of [chemistry](/chemistry) (chemical bonds are quantum phenomena), all of [electronics](/electronics) (semiconductors depend on quantum band structure), and technologies from lasers to MRI machines to the atomic clocks that keep GPS accurate.
 
 ### Relativity
 

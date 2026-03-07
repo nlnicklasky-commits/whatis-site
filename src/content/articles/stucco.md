@@ -4,7 +4,7 @@ slug: stucco
 description: "Stucco is a plaster-like building material applied to walls and ceilings. Learn how it's made, how it's applied, and why it's been popular for centuries."
 category: everyday-concepts
 tags: ["stucco", "construction", "building materials", "plaster", "architecture", "exterior finish"]
-heroImage: "/images/articles/stucco.webp"
+heroImage: "/images/articles/stucco-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stucco"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: physical-therapy
 description: "Physical therapy restores movement and reduces pain through exercise and hands-on care. Learn about PT education, specialties, treatments, and when to go."
 category: health-amp-wellness
 tags: ["physical therapy", "physiotherapy", "rehabilitation", "healthcare"]
-heroImage: "/images/articles/physical-therapy.webp"
+heroImage: "/images/articles/physical-therapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of physical therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

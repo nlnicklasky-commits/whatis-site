@@ -1,10 +1,10 @@
 ---
 title: "What Is Anesthesiology?"
 slug: anesthesiology
-description: "Anesthesiology is the medical specialty focused on pain management, sedation, and life support during surgery and other procedures."
+description: "Anesthesiology is the medical specialty focused on pain management, sedation, and life support during surgery and other procedures. Discover the key facts, h..."
 category: health-amp-wellness
 tags: ["anesthesiology", "anesthesia", "medicine", "surgery", "pain management"]
-heroImage: "/images/articles/anesthesiology.webp"
+heroImage: "/images/articles/anesthesiology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of anesthesiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "In the United States, becoming an anesthesiologist typically requires four years of undergraduate education, four years of medical school, and four years of residency training — a minimum of 12 years after high school. Subspecialty fellowships add one to two more years."
 ---
 
+# What Is Anesthesiology?
 Anesthesiology is the branch of medicine dedicated to pain relief, sedation, and the [management](/management) of patients' vital functions before, during, and after surgical procedures. Anesthesiologists are physicians who ensure patients remain unconscious, pain-free, and physiologically stable while surgeons operate.
 
 Think about that for a moment. Someone puts you into a state so deep you feel nothing — not the scalpel, not the drill, not the saw cutting through bone — and then brings you back. Safely. Reliably. Millions of times a year. It's one of the most consequential medical achievements in human history, and most people barely think about it.

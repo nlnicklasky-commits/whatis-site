@@ -4,7 +4,7 @@ slug: music-performance
 description: "Music performance is the act of presenting music to an audience through singing or playing instruments. Learn about technique, stage presence, and careers."
 category: arts-amp-culture
 tags: ["music performance", "performing", "live music", "concerts", "musicianship", "stage performance"]
-heroImage: "/images/articles/music-performance.webp"
+heroImage: "/images/articles/music-performance-hero.webp"
 heroAlt: "Editorial photograph representing the concept of music performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

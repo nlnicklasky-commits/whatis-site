@@ -4,7 +4,7 @@ slug: textile-design
 description: "Textile design is the creation of patterns, prints, and structures for fabrics. Learn about the process, techniques, and career paths in this creative field."
 category: arts-amp-culture
 tags: ["textile design", "fabric design", "pattern design", "weave", "print", "knitting"]
-heroImage: "/images/articles/textile-design.webp"
+heroImage: "/images/articles/textile-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of textile design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

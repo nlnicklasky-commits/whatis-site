@@ -1,10 +1,10 @@
 ---
 title: "What Is Risk Management?"
 slug: risk-management
-description: "Risk management is the process of identifying, analyzing, and responding to potential threats that could affect a business, project, or investment."
+description: "Risk management is the process of identifying, analyzing, and responding to potential threats that could affect a business, project, or investment. Discover ..."
 category: business
 tags: ["finance", "risk management", "business", "insurance"]
-heroImage: "/images/articles/risk-management.webp"
+heroImage: "/images/articles/risk-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of risk management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

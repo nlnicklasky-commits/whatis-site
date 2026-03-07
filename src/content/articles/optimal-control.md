@@ -1,7 +1,7 @@
 ---
 title: "What Is Optimal Control?"
 slug: optimal-control
-description: "Optimal control is a mathematical framework for finding the best way to steer a system over time, used in robotics, aerospace, economics, and more."
+description: "Optimal control is a mathematical framework for finding the best way to steer a system over time, used in robotics, aerospace, economics, and more. Discover ..."
 category: technology
 tags: ["optimal control", "control theory", "optimization", "robotics", "aerospace engineering", "mathematical modeling"]
 heroImage: "/images/articles/optimal-control-hero.webp"
@@ -26,11 +26,11 @@ faq:
   - q: "What is the difference between optimal control and classical control?"
     a: "Classical control focuses on stabilizing a system using feedback (like a thermostat keeping a room at a set temperature). Optimal control goes further — it finds the control strategy that minimizes a cost function over time, optimizing for things like fuel efficiency, speed, or accuracy. Classical control asks 'how do I keep this stable?' while optimal control asks 'what is the absolute best way to do this?'"
   - q: "Is optimal control the same as optimization?"
-    a: "Not exactly. Optimization finds the best value of a static function (like minimizing cost or maximizing profit at a single point). Optimal control solves a dynamic problem — it finds the best sequence of actions over time to steer a system from one state to another. Optimal control uses optimization as a tool but applies it to systems that evolve continuously."
+    a: "Not exactly. Optimization finds the best value of a static function (like minimizing cost or maximizing profit at a single point). Optimal control solves a lively problem — it finds the best sequence of actions over time to steer a system from one state to another. Optimal control uses optimization as a tool but applies it to systems that evolve continuously."
   - q: "What software is used for optimal control?"
     a: "Common tools include MATLAB (with its Control System Toolbox and Optimization Toolbox), Python libraries like CasADi and GPOPS-II, and Julia's JuMP framework. For aerospace applications, NASA's General Mission Analysis Tool (GMAT) handles trajectory optimization. The choice depends on whether you need real-time solutions or can compute offline."
   - q: "Can optimal control handle uncertainty?"
-    a: "Yes. Stochastic optimal control extends the framework to handle systems with random disturbances or uncertain parameters. Robust control theory designs controllers that perform well even when the model is imprecise. These extensions are critical for real-world applications where perfect knowledge of the system is impossible."
+    a: "Yes. Stochastic optimal control extends the framework to handle systems with random disturbances or uncertain parameters. Reliable control theory designs controllers that perform well even when the model is imprecise. These extensions are critical for real-world applications where perfect knowledge of the system is impossible."
   - q: "Where is optimal control used in everyday life?"
     a: "Cruise control in cars, automated climate systems in buildings, insulin pump controllers for diabetics, portfolio optimization in finance, and traffic signal timing all use forms of optimal control. Any system that needs to make a sequence of decisions over time to achieve a goal as efficiently as possible can benefit from optimal control."
 ---
@@ -85,7 +85,7 @@ The elegance is real. Pontryagin's approach reduces an impossibly hard problem t
 
 ### Bellman's Active Programming
 
-Richard Bellman, working in the United States around the same time, took a completely different approach. His [active programming](/active-programming) method works backward from the end. The core idea — Bellman's Principle of Optimality — states: "An optimal policy has the property that whatever the initial state and initial decision are, the remaining decisions must constitute an optimal policy with regard to the state resulting from the first decision."
+Richard Bellman, working in the United States around the same time, took a completely different approach. His [active programming](/acting) method works backward from the end. The core idea — Bellman's Principle of Optimality — states: "An optimal policy has the property that whatever the initial state and initial decision are, the remaining decisions must constitute an optimal policy with regard to the state resulting from the first decision."
 
 In plain language: if you've found the best route from New York to Los Angeles, then any portion of that route is also the best route between those intermediate points. You can't improve the whole by improving a piece.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Four-Wheel Driving?"
 slug: four-wheel-driving
-description: "Four-wheel driving sends power to all four wheels for better traction off-road. Learn about 4WD systems, off-road techniques, and vehicle types."
+description: "Four-wheel driving sends power to all four wheels for better traction off-road. Learn about 4WD systems, off-road techniques, and vehicle types. Discover the..."
 category: everyday-concepts
 tags: ["four wheel driving", "off-road", "vehicles", "adventure", "4WD", "outdoor recreation"]
-heroImage: "/images/articles/four-wheel-driving.webp"
+heroImage: "/images/articles/four-wheel-driving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of four-wheel driving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

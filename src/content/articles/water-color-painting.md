@@ -4,7 +4,7 @@ slug: water-color-painting
 description: "Watercolor painting uses water-soluble pigments on paper to create luminous, transparent art. Learn about techniques, materials, and famous watercolorists."
 category: everyday-concepts
 tags: ["water color painting", "watercolor", "painting", "art", "fine art", "techniques"]
-heroImage: "/images/articles/water-color-painting.webp"
+heroImage: "/images/articles/water-color-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water color painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Both use water-soluble pigments, but watercolor is transparent (light passes through the paint to the white paper and reflects back), while gouache is opaque (it contains white pigment or chalk that blocks light). Watercolor builds luminous, glowing effects through transparency. Gouache allows covering mistakes and painting light colors over dark. Many artists use both in the same painting."
 ---
 
-# What Is Water Color Painting?
+# What Is Water Color [Painting](/wall-painting)?
 
 Watercolor painting is a technique where pigments suspended in a water-based binder (usually gum arabic) are applied to paper. The paint is transparent — light passes through it, hits the white paper underneath, and bounces back through the color, creating a luminous glow that no other painting medium quite replicates. It's simultaneously one of the most accessible art forms (you can start with a $20 set) and one of the most demanding to master.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Hospitality Management?"
 slug: hospitality-management
-description: "Hospitality management covers running hotels, restaurants, and tourism businesses. Learn about careers, skills needed, and how the industry works."
+description: "Hospitality management covers running hotels, restaurants, and tourism businesses. Learn about careers, skills needed, and how the industry works. Discover t..."
 category: everyday-concepts
 tags: ["hospitality management", "hotels", "restaurants", "tourism", "customer service", "business"]
-heroImage: "/images/articles/hospitality-management.webp"
+heroImage: "/images/articles/hospitality-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hospitality management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

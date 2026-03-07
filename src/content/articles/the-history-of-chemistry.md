@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Chemistry?"
 slug: the-history-of-chemistry
-description: "The history of chemistry stretches from ancient alchemy to modern atomic theory. Explore how humanity learned to understand matter itself."
+description: "The history of chemistry stretches from ancient alchemy to modern atomic theory. Explore how humanity learned to understand matter itself. Discover the key f..."
 category: history
 tags: ["history of chemistry", "chemistry", "alchemy", "atomic theory", "periodic table"]
-heroImage: "/images/articles/the-history-of-chemistry.webp"
+heroImage: "/images/articles/the-history-of-chemistry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of chemistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

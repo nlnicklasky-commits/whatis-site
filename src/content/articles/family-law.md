@@ -4,7 +4,7 @@ slug: family-law
 description: "Family law governs legal relationships between family members, including marriage, divorce, child custody, adoption, and domestic violence protections."
 category: law
 tags: ["family law", "legal", "marriage", "divorce", "child custody", "adoption"]
-heroImage: "/images/articles/family-law.webp"
+heroImage: "/images/articles/family-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of family law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -100,7 +100,7 @@ Virtually every state uses the "best interests of the child" as the guiding prin
 - Each parent's ability to provide for the child's physical, emotional, and developmental needs
 - The strength of the child's relationship with each parent
 - The stability of each parent's home environment
-- Each parent's mental and physical health
+- Each parent's mental and physical [health](/health-law)
 - The child's own preferences (weighted more heavily as the child matures)
 - Any history of domestic violence, abuse, or substance abuse
 - Each parent's willingness to support the child's relationship with the other parent
@@ -127,7 +127,7 @@ Adoption creates a legal parent-child relationship where one didn't exist biolog
 
 **Agency adoption** involves working with a licensed public or private agency that matches prospective parents with children. **Independent (private) adoption** involves a direct arrangement, often through an attorney or intermediary. **Stepparent adoption** — where a stepparent adopts their spouse's child — is the most common type. **International adoption** involves adopting a child from another country, governed by both US law and the laws of the child's birth country, plus the Hague Convention on Intercountry Adoption.
 
-**Encourage care adoption** involves adopting children who have been removed from their biological families due to abuse or neglect and whose parents' rights have been terminated. There are currently about 117,000 children in US [encourage care](/behavioral-[psychology](/psychology)) waiting to be adopted, according to the Children's Bureau.
+**Encourage care adoption** involves adopting children who have been removed from their biological families due to abuse or neglect and whose parents' rights have been terminated. There are currently about 117,000 children in US [encourage care](/animal-behavior)) waiting to be adopted, according to the Children's Bureau.
 
 ### The Legal Process
 
@@ -147,4 +147,4 @@ According to the National Coalition Against Domestic Violence, roughly 1 in 4 wo
 
 Family law continues to evolve alongside [society](/anthropology). Surrogacy agreements, the legal status of embryos in divorce cases, the rights of non-biological parents in same-sex relationships, and the use of AI in custody evaluation are all active areas of legal development.
 
-Online dispute resolution, virtual court hearings, and mediation-first approaches are also changing how family law disputes are handled — making the process potentially less adversarial and more accessible. But the core challenge remains: balancing the rights and needs of adults with the welfare of children in situations charged with emotion, loss, and sometimes fear. No algorithm solves that. It takes human judgment, informed by law and tempered by compassion.
+Online dispute resolution, virtual court hearings, and mediation-first approaches are also changing how family law disputes are handled — making the process potentially less adversarial and more accessible. But the core challenge remains: balancing the rights and needs of adults with the welfare of children in situations charged with emotion, loss, and sometimes fear. No algorithm solves that. It takes [human](/human-rights-law) judgment, informed by law and tempered by compassion.

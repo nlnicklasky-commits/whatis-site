@@ -1,10 +1,10 @@
 ---
 title: "What Is Urban Exploration?"
 slug: urban-exploration
-description: "Urban exploration is the hobby of visiting abandoned or hidden man-made structures. Learn about its culture, risks, ethics, and famous locations."
+description: "Urban exploration is the hobby of visiting abandoned or hidden man-made structures. Learn about its culture, risks, ethics, and famous locations. Discover th..."
 category: everyday-concepts
 tags: ["urban exploration", "urbex", "abandoned places", "photography", "adventure", "subculture"]
-heroImage: "/images/articles/urban-exploration.webp"
+heroImage: "/images/articles/urban-exploration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urban exploration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Urban Exploration?
 
-Urban exploration — usually shortened to "urbex" — is the practice of visiting and documenting abandoned, hidden, or otherwise off-limits man-made structures. Abandoned factories, decommissioned hospitals, disused subway tunnels, forgotten rooftops, and crumbling mansions are all fair game. The appeal is part adventure, part history, part photography, and part confrontation with the reality that nothing humans build lasts forever.
+Urban exploration — usually shortened to "urbex" — is the practice of visiting and documenting abandoned, hidden, or otherwise off-limits man-made structures. Abandoned factories, decommissioned hospitals, disused subway tunnels, forgotten rooftops, and crumbling mansions are all fair game. The appeal is part adventure, part history, part [photography](/wildlife-photography), and part confrontation with the reality that nothing humans build lasts forever.
 
 ## The Draw of Decay
 

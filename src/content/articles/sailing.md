@@ -1,10 +1,10 @@
 ---
 title: "What Is Sailing?"
 slug: sailing
-description: "Sailing is the practice of using wind to propel a boat across water. Learn about the physics, boat types, racing, and how to get started."
+description: "Sailing is the practice of using wind to propel a boat across water. Learn about the physics, boat types, racing, and how to get started. Discover the key fa..."
 category: sports
 tags: ["sailing", "sailboat", "yachting", "wind power", "nautical", "water sports"]
-heroImage: "/images/articles/sailing.webp"
+heroImage: "/images/articles/sailing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sailing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

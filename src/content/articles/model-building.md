@@ -4,7 +4,7 @@ slug: model-building
 description: "Model building is the hobby of constructing scaled replicas of vehicles, buildings, and figures. Learn about types, techniques, tools, and getting started."
 category: everyday-concepts
 tags: ["model building", "scale models", "hobby", "crafts", "miniatures", "plastic models"]
-heroImage: "/images/articles/model-building.webp"
+heroImage: "/images/articles/model-building-hero.webp"
 heroAlt: "Editorial photograph representing the concept of model building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

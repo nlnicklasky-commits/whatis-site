@@ -1,10 +1,10 @@
 ---
 title: "What Is Lapidary?"
 slug: lapidary
-description: "Lapidary is the art of cutting, shaping, and polishing stones and gems. Learn about techniques, equipment, and how to start working with gemstones."
+description: "Lapidary is the art of cutting, shaping, and polishing stones and gems. Learn about techniques, equipment, and how to start working with gemstones. Discover ..."
 category: arts-amp-culture
 tags: ["lapidary", "gemstones", "rock cutting", "jewelry", "mineral collecting", "craft"]
-heroImage: "/images/articles/lapidary.webp"
+heroImage: "/images/articles/lapidary-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lapidary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Lapidary is the art and craft of cutting, shaping, and polishing stones — turn
 
 ## The Basic Processes
 
-Lapidary work follows a general sequence: select the rough stone, cut it to approximate size, shape it to final form, and polish it to a shine. The tools and techniques vary depending on what you are making.
+Lapidary work follows a general sequence: select the rough stone, cut it to approximate size, shape it to final form, and polish it to a shine. The tools and techniques vary depending on what you are [making](/instrument-making).
 
 **Sawing** — a diamond-blade saw cuts rough rock into slabs or smaller pieces. Trim saws handle pieces up to a few inches. Slab saws cut larger rocks into flat slabs that reveal the stone's internal patterns. The blades are thin metal discs impregnated with industrial diamond grit, and they cut with water cooling to prevent overheating and dust.
 
@@ -47,11 +47,11 @@ Lapidary work follows a general sequence: select the rough stone, cut it to appr
 
 ## Cabochon Cutting
 
-Cabochon cutting (making "cabs") is the most common lapidary activity and the best place to start. A cabochon is a stone with a smooth, rounded top and a flat bottom — the shape you see in most turquoise, opal, moonstone, and agate jewelry.
+Cabochon cutting (making "cabs") is the most common lapidary activity and the best place to start. A cabochon is a stone with a smooth, rounded top and a flat bottom — the shape you see in most turquoise, opal, moonstone, and agate [jewelry](/jewelry-making).
 
 The process: start with a slab of stone. Mark your desired shape with a template and aluminum pencil. Cut around the outline with a trim saw. Grind the edges to shape on a coarse wheel. Dome the top on progressively finer wheels. Sand through grits. Polish.
 
-A beginner can produce a decent cabochon on their first day with proper instruction. Producing consistently excellent cabs — perfect domes, no flat spots, mirror polish, no undercutting — takes months of practice. But the learning curve is forgiving enough that you are making usable stones almost immediately.
+A beginner can produce a decent cabochon on their first day with proper instruction. Producing consistently excellent cabs — perfect domes, no flat spots, mirror polish, no undercutting — takes months of practice. But the learning curve is forgiving enough that you are [making](/cabinet-making) usable stones almost immediately.
 
 ## Faceting
 

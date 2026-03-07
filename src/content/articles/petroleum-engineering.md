@@ -1,7 +1,7 @@
 ---
 title: "What Is Petroleum Engineering?"
 slug: petroleum-engineering
-description: "Petroleum engineering applies science and technology to extract oil and gas from underground reservoirs, covering drilling, production, and energy."
+description: "Petroleum engineering applies science and technology to extract oil and gas from underground reservoirs, covering drilling, production, and energy. Discover ..."
 category: technology
 tags: ["oil and gas", "petroleum", "engineering", "drilling", "reservoir", "energy", "hydrocarbons"]
 heroImage: "/images/articles/petroleum-engineering-hero.webp"

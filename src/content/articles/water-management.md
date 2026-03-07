@@ -4,7 +4,7 @@ slug: water-management
 description: "Water management is the planning and control of water resources for human use and environmental health. Learn about supply, treatment, conservation, and policy."
 category: everyday-concepts
 tags: ["water management", "water resources", "hydrology", "conservation", "infrastructure", "sustainability"]
-heroImage: "/images/articles/water-management.webp"
+heroImage: "/images/articles/water-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Market Research?"
 slug: market-research
-description: "Market research is the process of gathering and analyzing data about customers, competitors, and markets to make smarter business decisions."
+description: "Market research is the process of gathering and analyzing data about customers, competitors, and markets to make smarter business decisions. Discover the key..."
 category: business
 tags: ["marketing", "market research", "business"]
-heroImage: "/images/articles/market-research.webp"
+heroImage: "/images/articles/market-research-hero.webp"
 heroAlt: "Editorial photograph representing the concept of market research"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

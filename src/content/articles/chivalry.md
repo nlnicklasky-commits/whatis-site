@@ -1,10 +1,10 @@
 ---
 title: "What Is Chivalry?"
 slug: chivalry
-description: "Chivalry was the medieval code of conduct for knights, blending martial skill, religious duty, and courtly behavior into an idealized warrior ethic."
+description: "Chivalry was the medieval code of conduct for knights, blending martial skill, religious duty, and courtly behavior into an idealized warrior ethic. Discover..."
 category: history
 tags: ["chivalry", "medieval history", "knighthood", "middle ages", "code of conduct"]
-heroImage: "/images/articles/chivalry.webp"
+heroImage: "/images/articles/chivalry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chivalry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "No. Chivalric protections applied primarily to noble classes. Peasants, merchants, and non-Christians received far less consideration. The chivalric code was fundamentally an aristocratic ethic — it governed how elites should treat each other, not how they should treat everyone."
 ---
 
+# What Is Chivalry?
 Chivalry was the moral, religious, and social code that governed the behavior of medieval European knights — a system of ideals that blended martial courage, Christian duty, loyalty to one's lord, and courtesy toward women and the weak. The word comes from the French "chevalerie," meaning horsemanship or knighthood.
 
 Here's the catch that most people miss: chivalry was always more aspiration than reality. Medieval knights could be spectacularly brutal, and the gap between the chivalric ideal and actual knightly behavior was often enormous. But the ideal itself — the idea that physical power should be guided by moral principle — has shaped Western culture for nearly a thousand years.

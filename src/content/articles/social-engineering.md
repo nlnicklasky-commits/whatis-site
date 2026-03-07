@@ -4,7 +4,7 @@ slug: social-engineering
 description: "Social engineering manipulates people into revealing information or taking actions that compromise security. Learn about phishing, pretexting, and defense."
 category: everyday-concepts
 tags: ["social engineering", "cybersecurity", "phishing", "manipulation", "security", "hacking"]
-heroImage: "/images/articles/social-engineering.webp"
+heroImage: "/images/articles/social-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

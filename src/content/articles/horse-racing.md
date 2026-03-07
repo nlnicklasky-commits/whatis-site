@@ -1,10 +1,10 @@
 ---
 title: "What Is Horse Racing?"
 slug: horse-racing
-description: "Horse racing is a competitive sport where thoroughbreds race on tracks for speed. Learn about types, the Triple Crown, betting, and controversies."
+description: "Horse racing is a competitive sport where thoroughbreds race on tracks for speed. Learn about types, the Triple Crown, betting, and controversies. Discover t..."
 category: sports
 tags: ["horse racing", "sports", "thoroughbred", "equestrian", "betting", "Triple Crown"]
-heroImage: "/images/articles/horse-racing.webp"
+heroImage: "/images/articles/horse-racing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of horse racing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Horse Racing?
 
-Horse racing is a competitive sport in which horses — typically Thoroughbreds — race against each other on a track, with the first to cross the finish line winning. It has been called "the sport of kings," a nickname earned centuries ago when royal patronage supported breeding and racing operations across Europe. Today, it is a global industry worth over $100 billion annually, built on breeding, training, betting, and the raw spectacle of a 1,000-pound animal [running](/running) at 40 mph.
+Horse racing is a [competitive](/competitive-eating) sport in which horses — typically Thoroughbreds — race against each other on a track, with the first to cross the finish line winning. It has been called "the sport of kings," a nickname earned centuries ago when royal patronage supported breeding and racing operations across Europe. Today, it is a global industry worth over $100 billion annually, built on breeding, training, betting, and the raw spectacle of a 1,000-pound animal [running](/running) at 40 mph.
 
 ## The Basics
 
@@ -41,7 +41,7 @@ Each horse carries a **jockey** — a rider weighing typically 108 to 126 pounds
 
 Races are run on different surfaces:
 
-- **Dirt** — the dominant surface in American racing. Fast, favors speed horses.
+- **Dirt** — the dominant surface in [American](/american-football) racing. Fast, favors speed horses.
 - **Turf (grass)** — common in European racing. Tends to favor stamina and tactical running.
 - **Synthetic** — artificial surfaces designed to reduce injuries. Used at some U.S. and international tracks.
 

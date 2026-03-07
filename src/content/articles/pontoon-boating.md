@@ -1,10 +1,10 @@
 ---
 title: "What Is Pontoon Boating?"
 slug: pontoon-boating
-description: "Pontoon boating uses flat-decked boats supported by aluminum tubes for relaxed cruising on lakes and rivers. Here's what to know."
+description: "Pontoon boating uses flat-decked boats supported by aluminum tubes for relaxed cruising on lakes and rivers. Here's what to know. Discover the key facts, his..."
 category: sports
 tags: ["boating", "pontoon boat", "recreational boating", "lake life", "water sports", "cruising"]
-heroImage: "/images/articles/pontoon-boating.webp"
+heroImage: "/images/articles/pontoon-boating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pontoon boating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pontoon Boating?
 
-A pontoon boat is a flat-decked watercraft supported by two or three aluminum tubes (pontoons) that keep it floating. Unlike traditional V-hull boats designed to cut through waves, pontoon boats sit on top of the water like a floating patio. And that's basically what they are — a deck with furniture, a motor, and a good view. They're the most approachable boats on the water, and there's a reason they've become wildly popular.
+A pontoon boat is a flat-decked watercraft supported by two or three aluminum tubes (pontoons) that keep it floating. Unlike traditional V-hull boats designed to cut through waves, pontoon boats sit on top of the [water](/water-skiing) like a floating patio. And that's basically what they are — a deck with furniture, a motor, and a good view. They're the most approachable boats on the water, and there's a reason they've become wildly popular.
 
 ## How They Work
 

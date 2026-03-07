@@ -1,16 +1,16 @@
 ---
 title: "What Is Zodiac?"
 slug: zodiac
-description: "The zodiac is a belt of 12 constellations along the ecliptic used in astrology and astronomy to map celestial positions and personality types."
+description: "The zodiac is a belt of 12 constellations along the ecliptic used in astrology and astronomy to map celestial positions and personality types. Discover the k..."
 category: philosophy
 tags: ["astrology", "horoscope", "constellations", "spirituality", "divination"]
-heroImage: "/images/articles/zodiac.webp"
+heroImage: "/images/articles/zodiac-hero.webp"
 heroAlt: "Editorial photograph representing the concept of zodiac"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 15
-wordCount: 3820
+readingTime: 10
+wordCount: 2585
 tier: '1'
 relatedArticles: ["astronomy", "astrology", "religion", "philosophy", "mythology"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "The sun actually passes through 13 constellations along the ecliptic, including Ophiuchus. Traditional astrology omits Ophiuchus because the Babylonians wanted 12 signs to match their 12-month calendar."
 ---
 
+# What Is Zodiac?
 The zodiac is a band of sky extending roughly 8 degrees on either side of the ecliptic — the apparent path the sun traces across the sky over a year — divided into 12 sections, each named after a constellation. It's been used for thousands of years in both [astronomy](/astronomy) and [astrology](/astrology) to track celestial positions, mark seasons, and (more controversially) predict human behavior.
 
 Whether you check your horoscope every morning or roll your eyes at anyone who asks "what's your sign," the zodiac has shaped human culture in ways you probably don't realize. It influenced ancient calendars, navigation systems, agricultural planning, and — yes — billions of people's daily routines. About 29% of Americans believe in astrology according to a 2022 Pew Research survey. That's not a small number.

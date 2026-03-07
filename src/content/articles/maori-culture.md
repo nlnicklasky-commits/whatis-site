@@ -4,7 +4,7 @@ slug: maori-culture
 description: "Maori culture is the indigenous culture of New Zealand, known for its art, haka, language, and deep connection to land. Learn about traditions and values."
 category: arts-amp-culture
 tags: ["maori culture", "New Zealand", "indigenous culture", "haka", "Te Reo Maori", "Polynesian"]
-heroImage: "/images/articles/maori-culture.webp"
+heroImage: "/images/articles/maori-culture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of maori culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ Several foundational concepts run through Maori culture:
 
 Maori art is among the most visually striking of any indigenous culture:
 
-**Whakairo** (carving) decorates meeting houses, canoes, weapons, and ceremonial objects with intricate spirals, curves, and figurative designs. Carved meeting houses (wharenui) are the physical embodiment of tribal identity — the ridgepole represents the ancestor's spine, the rafters are ribs, and the interior is the ancestor's body.
+**Whakairo** (carving) decorates meeting houses, canoes, weapons, and ceremonial objects with elaborate spirals, curves, and figurative designs. Carved meeting houses (wharenui) are the physical embodiment of tribal identity — the ridgepole represents the ancestor's spine, the rafters are ribs, and the interior is the ancestor's body.
 
 **Ta moko** (tattooing) marks identity directly on the body. Traditional moko uses chisels to carve grooves in the skin, producing raised, textured designs quite different from flat needle tattoos. Facial moko for men (moko kauae for women, on the chin) tells genealogical and personal history.
 

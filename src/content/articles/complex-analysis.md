@@ -4,7 +4,7 @@ slug: complex-analysis
 description: "Complex analysis is the study of functions involving complex numbers. Learn about key theorems, applications in physics, and why imaginary numbers matter."
 category: everyday-concepts
 tags: ["complex analysis", "everyday-concepts"]
-heroImage: "/images/articles/complex-analysis.webp"
+heroImage: "/images/articles/complex-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of complex analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

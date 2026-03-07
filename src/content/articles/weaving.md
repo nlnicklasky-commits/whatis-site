@@ -4,7 +4,7 @@ slug: weaving
 description: "Weaving is the craft of interlacing threads on a loom to create fabric. Learn about loom types, techniques, fiber choices, and weaving's ancient history."
 category: everyday-concepts
 tags: ["weaving", "textiles", "fiber arts", "crafts", "loom", "fabric"]
-heroImage: "/images/articles/weaving.webp"
+heroImage: "/images/articles/weaving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What is the difference between weaving and knitting?"
     a: "Weaving interlaces two sets of threads (warp and weft) at right angles on a loom, creating a stable fabric that doesn't stretch much. Knitting loops a single continuous thread into interlocking loops using needles, creating a stretchy, elastic fabric. Woven fabrics (denim, canvas, linen) are structured and stable. Knitted fabrics (t-shirts, sweaters, socks) are flexible and stretchy."
   - q: "How long does it take to weave fabric?"
-    a: "On a table or floor loom, an experienced weaver can produce about 1-3 yards of fabric per day, depending on complexity. Setting up the loom (called 'dressing' the loom — threading hundreds of individual warp threads) takes several hours to a full day before weaving begins. A simple scarf might take 2-4 hours of actual weaving. A complex tapestry can take months."
+    a: "On a table or floor loom, an experienced weaver can produce about 1-3 yards of fabric per day, depending on complexity. Setting up the loom (called 'dressing' the loom — threading hundreds of individual warp threads) takes several hours to a full day before weaving begins. A simple scarf might take 2-4 hours of actual weaving. A complex collection can take months."
   - q: "Can I learn to weave at home?"
     a: "Yes. Rigid heddle looms ($100-$300) are designed specifically for beginners and fit on a table. They can produce scarves, towels, placemats, and fabric yardage. Free online tutorials and YouTube videos cover every aspect from warping to finishing. Many communities have weaving guilds that offer classes and mentorship. The learning curve is moderate — you can produce a usable item within your first project."
 ---
@@ -37,13 +37,13 @@ Weaving is the process of interlacing two sets of threads — the warp (vertical
 
 The concept is simple. Stretch a set of parallel threads tightly (the warp). Pass another thread perpendicular to them, going over one warp thread, under the next, over the next, and so on (the weft). Push the weft thread tightly against the previous row. Repeat. The resulting grid of interlocked threads creates fabric.
 
-The loom — the device that holds the warp threads under tension — exists solely to make this process manageable. Without a loom, you'd be manually lifting individual threads for every pass of the weft. A loom automates this by grouping warp threads into sets that can be raised or lowered simultaneously, creating an opening (called a "shed") through which the weft passes.
+The [loom](/loom-weaving) — the device that holds the warp threads under tension — exists solely to make this process manageable. Without a loom, you'd be manually lifting individual threads for every pass of the weft. A loom automates this by grouping warp threads into sets that can be raised or lowered simultaneously, creating an opening (called a "shed") through which the weft passes.
 
 ## Loom Types
 
 **Rigid heddle loom** — The most accessible loom for beginners. A frame loom with a heddle (a rigid frame with slots and holes) that creates two sheds. Suitable for scarves, towels, and simple fabrics. Compact and relatively affordable ($100-$300).
 
-**Table loom** — A more versatile loom with 4-8 shafts (harnesses that control different groupings of warp threads). More shafts allow more complex patterns — twills, satins, and intricate designs become possible. Sits on a table, moderately priced ($300-$1,500).
+**Table loom** — A more versatile loom with 4-8 shafts (harnesses that control different groupings of warp threads). More shafts allow more complex patterns — twills, satins, and complex designs become possible. Sits on a table, moderately priced ($300-$1,500).
 
 **Floor loom** — A large, freestanding loom with 4-16+ shafts, operated by foot pedals (treadles) that free both hands for shuttling the weft. The workhorse of serious hand weavers. Produces wider fabric more efficiently. Costs $800-$5,000+.
 

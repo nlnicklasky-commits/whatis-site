@@ -1,7 +1,7 @@
 ---
 title: What Is Amateur Radio?
 slug: amateur-radio
-description: "Amateur radio (ham radio) explained: licensing, frequencies, equipment, emergency use, and why millions worldwide still transmit over the airwaves."
+description: "Amateur radio (ham radio) explained: licensing, frequencies, equipment, emergency use, and why millions worldwide still transmit over the airwaves. Discover ..."
 category: technology
 tags: ["amateur radio", "ham radio", "radio", "shortwave", "electronics", "communication", "fcc"]
 heroImage: "/images/articles/amateur-radio-hero.webp"

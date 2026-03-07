@@ -1,10 +1,10 @@
 ---
 title: "What Is Visual Effects?"
 slug: visual-effects
-description: "Visual effects (VFX) are digitally created or enhanced imagery in film and media. Learn about CGI, compositing, motion capture, and VFX careers."
+description: "Visual effects (VFX) are digitally created or enhanced imagery in film and media. Learn about CGI, compositing, motion capture, and VFX careers. Discover the..."
 category: everyday-concepts
 tags: ["visual effects", "VFX", "CGI", "filmmaking", "digital art", "post-production"]
-heroImage: "/images/articles/visual-effects.webp"
+heroImage: "/images/articles/visual-effects-hero.webp"
 heroAlt: "Editorial photograph representing the concept of visual effects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -95,6 +95,6 @@ This unglamorous work represents the vast majority of VFX labor. It's tedious, d
 
 The VFX industry operates under intense pressure. Studios demand ever-more-spectacular effects on tight schedules. The work is typically outsourced to specialized VFX houses (Industrial Light & Magic, Weta Digital, Framestore, DNEG) that bid competitively for contracts.
 
-The combination of fixed-price contracts, expanding scope during production, and tight deadlines creates notorious working conditions. "Crunch" — extended periods of mandatory overtime, often unpaid — is a well-documented industry problem. Several high-profile VFX studios have filed for bankruptcy despite working on commercially successful films.
+The combination of fixed-price contracts, expanding scope during [production](/video-production), and tight deadlines creates notorious working conditions. "Crunch" — extended periods of mandatory overtime, often unpaid — is a well-documented industry problem. Several high-profile VFX studios have filed for bankruptcy despite working on commercially successful films.
 
 Despite these challenges, the demand for VFX artists continues to grow as visual effects become integral to television, streaming content, advertising, and [gaming](/gaming) in addition to film. The craft combines artistic skill with technical knowledge in a way that few other fields match — and when you watch a scene that takes your breath away, someone made that happen pixel by pixel.

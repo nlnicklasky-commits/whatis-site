@@ -4,7 +4,7 @@ slug: warhammer
 description: "Warhammer is a tabletop miniature wargame franchise by Games Workshop. Learn about Warhammer 40K, Age of Sigmar, lore, miniature painting, and gameplay."
 category: everyday-concepts
 tags: ["warhammer", "tabletop gaming", "miniatures", "Games Workshop", "strategy", "sci-fi fantasy"]
-heroImage: "/images/articles/warhammer.webp"
+heroImage: "/images/articles/warhammer-hero.webp"
 heroAlt: "Editorial photograph representing the concept of warhammer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,12 +26,12 @@ faq:
   - q: "How expensive is the Warhammer hobby?"
     a: "The entry cost for a basic army is roughly $300-$600, including a starter set, paints, brushes, and glue. A full competitive army can cost $500-$1,500 or more in models alone. Individual character models cost $30-$60, while large kits can exceed $100. Paints and hobby supplies add ongoing costs. The hobby is genuinely expensive, though buying secondhand, splitting starter sets, and painting slowly can reduce the financial burden."
   - q: "Do you have to paint the miniatures?"
-    a: "Technically no — you can play with unpainted or assembled-only models. But painting is considered a core part of the hobby by most enthusiasts. Many tournaments require minimum painting standards (called 'three-color minimum'). The painting hobby is deeply rewarding in its own right, and many Warhammer hobbyists spend more time painting than playing. Games Workshop sells a comprehensive paint range specifically designed for their miniatures."
+    a: "Technically no — you can play with unpainted or assembled-only models. But painting is considered a core part of the hobby by most enthusiasts. Many tournaments require minimum painting standards (called 'three-color minimum'). The painting hobby is deeply rewarding in its own right, and many Warhammer hobbyists spend more time painting than playing. Games Workshop sells a detailed paint range specifically designed for their miniatures."
 ---
 
 # What Is Warhammer?
 
-Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main game systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop [gaming](/gaming) properties in the world.
+Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main [game](/[video](/video-game-history)-game-design) systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop [gaming](/gaming) properties in the world.
 
 ## The Two Universes
 

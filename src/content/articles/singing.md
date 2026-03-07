@@ -4,7 +4,7 @@ slug: singing
 description: "Singing is the act of producing musical sounds with the voice. Learn about vocal technique, voice types, training methods, and the science of the voice."
 category: arts-amp-culture
 tags: ["singing", "voice", "music", "vocal performance", "choral music", "performance art"]
-heroImage: "/images/articles/singing.webp"
+heroImage: "/images/articles/singing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of singing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: home-organization
 description: "Home organization is the practice of arranging your living space for efficiency and calm. Learn about decluttering methods, storage systems, and habits."
 category: everyday-concepts
 tags: ["home organization", "decluttering", "minimalism", "storage", "home management"]
-heroImage: "/images/articles/home-organization.webp"
+heroImage: "/images/articles/home-organization-hero.webp"
 heroAlt: "Editorial photograph representing the concept of home organization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

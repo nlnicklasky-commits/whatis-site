@@ -4,7 +4,7 @@ slug: philosophy
 description: "Philosophy is the study of fundamental questions about existence, knowledge, ethics, and reason. Learn about its branches, major thinkers, and why it matters."
 category: everyday-concepts
 tags: ["philosophy", "ethics", "metaphysics", "epistemology", "logic", "reason"]
-heroImage: "/images/articles/philosophy.webp"
+heroImage: "/images/articles/philosophy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

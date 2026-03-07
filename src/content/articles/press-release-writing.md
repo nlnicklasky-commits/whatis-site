@@ -1,10 +1,10 @@
 ---
 title: "What Is Press Release Writing?"
 slug: press-release-writing
-description: "Press release writing is the craft of creating news announcements for media outlets. Learn the format, structure, and best practices."
+description: "Press release writing is the craft of creating news announcements for media outlets. Learn the format, structure, and best practices. Discover the key facts,..."
 category: everyday-concepts
 tags: ["press release", "public relations", "pr", "media relations", "journalism", "corporate communication"]
-heroImage: "/images/articles/press-release-writing.webp"
+heroImage: "/images/articles/press-release-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of press release writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Some shifts in modern practice:
 
 **Multimedia releases** include images, video, infographics, and social media content alongside the text. Journalists appreciate having ready-to-use assets.
 
-**SEO [optimization](/optimization)** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a [digital marketing](/digital-[marketing](/marketing)) tool, for better or worse.
+**SEO [optimization](/optimization)** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a [digital marketing](/digital-art)) tool, for better or worse.
 
 **Direct distribution** — many organizations now bypass traditional media entirely, [publishing](/publishing) releases on their own newsrooms and social channels. The press release becomes a public record of announcements, whether journalists pick it up or not.
 

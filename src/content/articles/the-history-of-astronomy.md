@@ -4,7 +4,7 @@ slug: the-history-of-astronomy
 description: "The history of astronomy traces humanity's study of the cosmos from ancient stargazers to modern space telescopes. Learn about key discoveries and figures."
 category: history
 tags: ["history of astronomy", "astronomy", "cosmology", "copernicus", "galileo"]
-heroImage: "/images/articles/the-history-of-astronomy.webp"
+heroImage: "/images/articles/the-history-of-astronomy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of astronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

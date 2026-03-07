@@ -1,7 +1,7 @@
 ---
 title: "What Is the French Language?"
 slug: french-language
-description: "French is a Romance language spoken by 321 million people worldwide. Explore its history, grammar, global spread, and cultural significance."
+description: "French is a Romance language spoken by 321 million people worldwide. Explore its history, grammar, global spread, and cultural significance. Discover the key..."
 category: philosophy
 tags: ["french language", "linguistics", "romance languages", "france", "francophone", "language learning", "culture"]
 heroImage: "/images/articles/french-language-hero.webp"
@@ -212,4 +212,4 @@ French is a Romance language with approximately 321 million speakers across five
 
 The language is growing — primarily in Africa, which will account for the vast majority of French speakers by mid-century. French remains essential in international organizations, global cuisine, the arts, and diplomacy. For English speakers, it's among the most accessible foreign languages to learn, thanks to centuries of shared vocabulary dating from the Norman Conquest.
 
-Understanding French means understanding not just a language, but a cultural tradition that helped shape modern democracy, international law, philosophy, and the [communication theory](/communication-theory) that underpins how we discuss ideas across borders.
+Understanding French means understanding not just a language, but a cultural tradition that helped shape modern democracy, international law, philosophy, and the [communication theory](/communication-theory) that backs up how we discuss ideas across borders.

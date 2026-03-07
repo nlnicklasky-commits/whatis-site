@@ -1,10 +1,10 @@
 ---
 title: "What Is Paleoanthropology?"
 slug: paleoanthropology
-description: "Paleoanthropology studies human evolution through fossil evidence. Learn about hominid species, key discoveries, and how our ancestors lived."
+description: "Paleoanthropology studies human evolution through fossil evidence. Learn about hominid species, key discoveries, and how our ancestors lived. Discover the ke..."
 category: everyday-concepts
 tags: ["paleoanthropology", "human evolution", "fossils", "archaeology", "hominids", "anthropology"]
-heroImage: "/images/articles/paleoanthropology.webp"
+heroImage: "/images/articles/paleoanthropology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paleoanthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Paleoanthropology?
 
-Paleoanthropology is the scientific study of [human evolution](/human-evolution) — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines [physical anthropology](/physical-[anthropology](/anthropology)), [archaeology](/archaeology), [geology](/geology), and [genetics](/genetics) to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
+Paleoanthropology is the scientific study of [human evolution](/human-evolution) — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines [physical anthropology](/physics)), [archaeology](/archaeology), [geology](/geology), and [genetics](/genetics) to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
 
 ## What the Fossil Record Shows
 

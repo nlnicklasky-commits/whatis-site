@@ -1,10 +1,10 @@
 ---
 title: "What Is Aviation History?"
 slug: aviation-history
-description: "Aviation history traces humanity's quest for flight from early gliders to supersonic jets, reshaping warfare, travel, and global commerce."
+description: "Aviation history traces humanity's quest for flight from early gliders to supersonic jets, reshaping warfare, travel, and global commerce. Discover the key f..."
 category: history
 tags: ["aviation history", "flight", "aircraft", "wright brothers", "aerospace"]
-heroImage: "/images/articles/aviation-history.webp"
+heroImage: "/images/articles/aviation-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of aviation history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "The Concorde, which flew from 1976 to 2003, was the fastest commercial aircraft, cruising at Mach 2.04 (about 1,354 mph). It could cross the Atlantic in under 3.5 hours. High operating costs, a fatal crash in 2000, and post-9/11 travel decline led to its retirement."
 ---
 
+# What Is Aviation History?
 Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903 and the modern aviation industry that moves over 4 billion passengers annually. It's a history of [engineering](/engineering), warfare, commerce, and the persistent human refusal to accept that we were meant to stay on the ground.
 
 The speed of aviation's development is almost hard to believe. In 1903, the Wright Flyer traveled 120 feet at roughly 6.8 miles per hour. Sixty-six years later, Apollo 11 astronauts walked on the moon. A person born in 1900 could have witnessed the entire arc — from "flight is impossible" to "we left the planet."

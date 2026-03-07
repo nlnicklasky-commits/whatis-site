@@ -4,7 +4,7 @@ slug: syntax
 description: "Syntax is the set of rules governing how words combine into sentences. Learn how it works, why it matters, and how different languages structure meaning."
 category: everyday-concepts
 tags: ["syntax", "linguistics", "grammar", "language", "sentence structure", "parsing"]
-heroImage: "/images/articles/syntax.webp"
+heroImage: "/images/articles/syntax-hero.webp"
 heroAlt: "Editorial photograph representing the concept of syntax"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

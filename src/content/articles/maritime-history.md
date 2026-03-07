@@ -1,10 +1,10 @@
 ---
 title: "What Is Maritime History?"
 slug: maritime-history
-description: "Maritime history examines humanity's relationship with the sea, from ancient seafaring and trade routes to naval warfare and modern shipping."
+description: "Maritime history examines humanity's relationship with the sea, from ancient seafaring and trade routes to naval warfare and modern shipping. Discover the ke..."
 category: history
 tags: ["seafaring", "maritime history", "naval"]
-heroImage: "/images/articles/maritime-history.webp"
+heroImage: "/images/articles/maritime-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of maritime history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: physical-chemistry
 description: "Physical chemistry applies physics principles to chemical systems, studying how matter behaves at the molecular level. Learn about thermodynamics and kinetics."
 category: everyday-concepts
 tags: ["physical chemistry", "thermodynamics", "kinetics", "quantum chemistry", "science", "molecules"]
-heroImage: "/images/articles/physical-chemistry.webp"
+heroImage: "/images/articles/physical-chemistry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of physical chemistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -60,7 +60,7 @@ Physical chemists are obsessed with spectroscopy — the study of how matter int
 - **Microwave radiation** rotates molecules — rotational spectroscopy reveals bond lengths and molecular geometry
 - **Infrared radiation** vibrates molecular bonds — IR spectroscopy identifies functional groups and molecular structure
 - **Visible/UV radiation** excites electrons — UV-Vis spectroscopy reveals electronic structure and concentration
-- **X-rays** diffract off crystal lattices — [X-ray crystallography](/x-ray-[crystallography](/crystallography)) reveals three-dimensional molecular structure
+- **X-rays** diffract off crystal lattices — [X-ray crystallography](/x-ray-crystallography)) reveals three-dimensional molecular structure
 
 NMR (nuclear magnetic resonance) spectroscopy — which exploits the quantum mechanical spin of atomic nuclei — is arguably the most powerful structural tool in chemistry. It's the same physics behind MRI machines in hospitals, just applied to molecules instead of bodies.
 

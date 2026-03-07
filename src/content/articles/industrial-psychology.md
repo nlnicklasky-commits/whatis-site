@@ -1,7 +1,7 @@
 ---
 title: "What Is Industrial Psychology?"
 slug: industrial-psychology
-description: "Industrial psychology applies psychological science to workplaces. Learn about hiring, motivation, performance, and making work better for everyone."
+description: "Industrial psychology applies psychological science to workplaces. Learn about hiring, motivation, performance, and making work better for everyone. Discover..."
 category: science
 tags: ["industrial psychology", "organizational psychology", "i-o psychology", "human resources", "workplace", "employee well-being", "performance management"]
 heroImage: "/images/articles/industrial-psychology-hero.webp"

@@ -4,7 +4,7 @@ slug: maritime-law
 description: "Maritime law governs activities on the sea, from shipping contracts and cargo disputes to piracy, pollution, and sailors' rights. Here's how it works."
 category: law
 tags: ["international law", "maritime law", "admiralty"]
-heroImage: "/images/articles/maritime-law.webp"
+heroImage: "/images/articles/maritime-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of maritime law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "International waters (the high seas) begin where no nation's exclusive economic zone (EEZ) applies — generally beyond 200 nautical miles from any coastline. In international waters, no single country has sovereignty. Ships are governed by the laws of their flag state, and all nations have freedom of navigation, fishing (subject to treaties), and scientific research."
 ---
 
-# What Is Maritime Law?
+# What Is [Maritime](/maritime-history) Law?
 
 Maritime law — also called admiralty law — is the body of laws, conventions, and regulations governing activities on navigable waters. It covers everything from shipping contracts and cargo damage to oil spills, piracy, sailors' wages, and what happens when two ships collide in the middle of the Pacific.
 

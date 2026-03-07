@@ -4,7 +4,7 @@ slug: turning-wood
 description: "Wood turning is the craft of shaping wood on a lathe. Learn about techniques, tools, types of turning, and how to get started with this hands-on craft."
 category: arts-amp-culture
 tags: ["turning wood", "woodworking", "lathe", "crafts", "woodturning", "handmade"]
-heroImage: "/images/articles/turning-wood.webp"
+heroImage: "/images/articles/turning-wood-hero.webp"
 heroAlt: "Editorial photograph representing the concept of turning (wood)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Turning (Wood)?
 
-Wood turning is the craft of shaping wood while it spins on a lathe. You hold sharp cutting tools against the rotating workpiece, and the spinning motion does most of the material removal. The result is objects with circular symmetry — bowls, spindles, pens, table legs, decorative vessels, and countless other forms.
+[Wood](/wood-carving) turning is the craft of shaping wood while it spins on a lathe. You hold sharp cutting tools against the rotating workpiece, and the spinning motion does most of the material removal. The result is objects with circular symmetry — bowls, spindles, pens, table legs, decorative vessels, and countless other forms.
 
 ## The Oldest Power Tool Idea
 

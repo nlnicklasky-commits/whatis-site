@@ -1,7 +1,7 @@
 ---
 title: "What Is Mathematical Biology?"
 slug: mathematical-biology
-description: "Mathematical biology uses equations and models to understand living systems, from disease spread to population dynamics and cell division."
+description: "Mathematical biology uses equations and models to understand living systems, from disease spread to population dynamics and cell division. Discover the key f..."
 category: science
 tags: ["mathematical biology", "biomathematics", "modeling", "population dynamics", "epidemiology", "ecology", "mathematics"]
 heroImage: "/images/articles/mathematical-biology-hero.webp"
@@ -128,7 +128,7 @@ Each extension adds realism but also complexity. The art is choosing which exten
 
 Mathematical models guide vaccination policy directly. The herd immunity threshold (1 - 1/R0) tells you what fraction of the population needs immunity to prevent epidemics. For measles (R0 roughly 12-18), that's about 92-95% — explaining why even small drops in vaccination rates can trigger outbreaks.
 
-But herd immunity thresholds assume uniform mixing, which isn't realistic. Mathematical models that incorporate age structure, spatial heterogeneity, and social networks give more nuanced predictions. They can identify which groups to prioritize for vaccination, how to allocate limited vaccine supplies, and what happens if coverage drops in specific communities.
+But herd immunity thresholds assume uniform mixing, which isn't realistic. Mathematical models that incorporate age structure, spatial heterogeneity, and social networks give more detailed predictions. They can identify which groups to prioritize for vaccination, how to allocate limited vaccine supplies, and what happens if coverage drops in specific communities.
 
 During the COVID-19 pandemic, mathematical models informed decisions about lockdowns, school closures, vaccine distribution priorities, and booster timing. The models weren't perfect — biological reality always surprises — but they provided the best available framework for making decisions under uncertainty.
 

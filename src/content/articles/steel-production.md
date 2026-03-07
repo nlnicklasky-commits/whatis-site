@@ -4,7 +4,7 @@ slug: steel-production
 description: "Steel production is the process of converting iron ore into steel alloys. Learn about blast furnaces, electric arc furnaces, and modern steelmaking methods."
 category: technology
 tags: ["manufacturing", "steel production", "metallurgy", "iron", "engineering", "materials science"]
-heroImage: "/images/articles/steel-production.webp"
+heroImage: "/images/articles/steel-production-hero.webp"
 heroAlt: "Editorial photograph representing the concept of steel production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -127,7 +127,7 @@ Solid steel from the caster is shaped into final products through rolling — pa
 
 **Hot rolling** happens above the steel's recrystallization temperature (typically 900-1,200°C). The steel is soft and can be deformed easily with less force. Hot-rolled products include structural beams, railroad rails, plate steel, and hot-rolled coils.
 
-**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-[engineering](/engineering)) applications where surface quality matters.
+**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-law)) applications where surface quality matters.
 
 Other forming processes include forging (shaping with compressive force), extrusion (pushing through a die), [drawing](/drawing) (pulling through a die to make wire), and tube making (welding a rolled strip or seamlessly piercing a solid billet).
 

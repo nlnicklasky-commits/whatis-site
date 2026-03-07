@@ -1,7 +1,7 @@
 ---
 title: "What Is Computer Hardware?"
 slug: computer-hardware
-description: "Computer hardware includes all the physical components of a computer system — CPUs, memory, storage, motherboards, and peripherals that process data."
+description: "Computer hardware includes all the physical components of a computer system — CPUs, memory, storage, motherboards, and peripherals that process data. Discove..."
 category: technology
 tags: ["computing", "hardware", "electronics", "computer components", "it", "cpu", "memory"]
 heroImage: "/images/articles/computer-hardware-hero.webp"
@@ -63,7 +63,7 @@ The Central Processing Unit is the primary processor that executes program instr
 
 A CPU executes instructions in a cycle: fetch an instruction from memory, decode it to figure out what to do, execute the operation, and write the result. Modern CPUs do this billions of times per second.
 
-What makes modern CPUs remarkable is how many tricks they use to go faster. They don't just execute one instruction at a time — they use [pipelining, out-of-order execution, and branch prediction](/computer-[architecture](/architecture)) to process multiple instructions simultaneously. A modern Intel or AMD processor might have 20+ pipeline stages and execute 4-6 instructions per clock cycle.
+What makes modern CPUs remarkable is how many tricks they use to go faster. They don't just execute one instruction at a time — they use [pipelining, out-of-order execution, and branch prediction](/composting)) to process multiple instructions simultaneously. A modern Intel or AMD processor might have 20+ pipeline stages and execute 4-6 instructions per clock cycle.
 
 ### Key CPU Specifications
 

@@ -4,7 +4,7 @@ slug: narratology
 description: "Narratology is the study of narrative structure and how stories work across media. Learn about key concepts, theorists, and why story structure matters."
 category: arts-amp-culture
 tags: ["narratology", "narrative theory", "storytelling", "literary theory", "story structure", "fiction"]
-heroImage: "/images/articles/narratology.webp"
+heroImage: "/images/articles/narratology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of narratology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

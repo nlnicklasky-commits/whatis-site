@@ -4,7 +4,7 @@ slug: soil-science
 description: "Soil science studies the formation, classification, and properties of soil as a natural resource. Learn about soil types, composition, and why soil matters."
 category: science
 tags: ["soil science", "earth science", "agriculture", "ecology", "geology", "environmental science"]
-heroImage: "/images/articles/soil-science.webp"
+heroImage: "/images/articles/soil-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soil science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Soil Science?
 
-Soil science is the study of soil as a natural body — its formation, classification, physical and chemical properties, biological communities, and the processes that create, sustain, and degrade it. It treats soil not as inert material but as a complex, living system that underpins nearly all terrestrial life on Earth.
+Soil science is the study of soil as a natural body — its formation, classification, physical and chemical properties, biological communities, and the processes that create, sustain, and degrade it. It treats soil not as inert material but as a complex, living system that drives nearly all terrestrial life on Earth.
 
 ## The Stuff Beneath Your Feet Is More Interesting Than You Think
 

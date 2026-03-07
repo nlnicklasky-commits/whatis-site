@@ -1,7 +1,7 @@
 ---
 title: "What Is Christianity?"
 slug: christianity
-description: "Christianity is a monotheistic religion centered on Jesus Christ. Learn about its beliefs, history, denominations, scriptures, and global influence."
+description: "Christianity is a monotheistic religion centered on Jesus Christ. Learn about its beliefs, history, denominations, scriptures, and global influence. Discover..."
 category: philosophy
 tags: ["christianity", "religion", "jesus christ", "bible", "faith", "theology", "monotheism"]
 heroImage: "/images/articles/christianity-hero.webp"
@@ -34,7 +34,7 @@ faq:
   - q: "What is the Holy Trinity?"
     a: "The Trinity is the Christian doctrine that God exists as three persons—Father, Son (Jesus Christ), and Holy Spirit—who are distinct yet constitute one God. This concept, formally defined in the 4th century, is central to most Christian theology but is not explicitly stated in the Bible, which has made it a subject of ongoing theological discussion."
   - q: "Is Christianity the oldest religion?"
-    a: "No. Christianity is approximately 2,000 years old, originating in the 1st century CE. Hinduism, Judaism, Zoroastrianism, and several other religions predate it by centuries or millennia. Christianity grew out of Judaism and shares many of its scriptures (the Hebrew Bible/Old Testament)."
+    a: "No. Christianity is approximately 2,000 years old, originating in the 1st century CE. Hinduism, Judaism, Zoroastrianism, and several other religions predate it by centuries or millennia. Christianity grew out of Judaism and shares many of its scriptures (the Hebrew Bible/Old Sign)."
 ---
 
 # What Is Christianity?
@@ -149,7 +149,7 @@ The artistic legacy is staggering. Christian patronage produced Michelangelo's S
 
 Honesty requires acknowledging Christianity's darker chapters. The Crusades (1096-1291) launched military campaigns that killed thousands. The Inquisitions persecuted alleged heretics, Jews, and others. European colonialism often justified itself through Christian missionary ideology, destroying indigenous cultures and enabling exploitation. Denominational conflicts—Catholic vs. Protestant, Orthodox vs. Catholic—produced wars, persecution, and lasting social divisions.
 
-The relationship between Christianity and science has been complicated. The Galileo affair (the Church's condemnation of heliocentrism) is the most famous example, though the historical reality is more nuanced than the popular narrative suggests. Many pioneering scientists—Copernicus, Mendel, Lemaitre—were themselves clergy.
+The relationship between Christianity and science has been complicated. The Galileo affair (the Church's condemnation of heliocentrism) is the most famous example, though the historical reality is more complex than the popular narrative suggests. Many pioneering scientists—Copernicus, Mendel, Lemaitre—were themselves clergy.
 
 ## Christianity and Philosophy
 

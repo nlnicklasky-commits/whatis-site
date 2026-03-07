@@ -4,7 +4,7 @@ slug: logic-puzzles
 description: "Logic puzzles are brain teasers solved through deductive reasoning rather than guesswork. Learn about types, strategies, benefits, and famous examples."
 category: everyday-concepts
 tags: ["logic puzzles", "puzzles", "brain teasers", "deductive reasoning", "games", "critical thinking"]
-heroImage: "/images/articles/logic-puzzles.webp"
+heroImage: "/images/articles/logic-puzzles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of logic puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -99,6 +99,6 @@ Whether puzzles actually *improve* brain function or whether people with better 
 
 If you're new to logic puzzles, Sudoku is the easiest entry point — apps like NYT Games and dedicated Sudoku apps offer graded difficulty levels from beginner to expert. Grid logic puzzles are available through apps like Logic Puzzles by Puzzle Baron and in printed puzzle magazines.
 
-For something more varied, the World Puzzle Federation publishes free sample puzzles from their championships. These include dozens of puzzle types at various difficulty levels and are an excellent way to discover what kind of logical thinking you enjoy most.
+For something more varied, the World Puzzle Federation publishes free sample puzzles from their championships. These include dozens of puzzle types at various difficulty levels and are an excellent way to discover what kind of logical [thinking](/critical-thinking) you enjoy most.
 
 Start easy. Build up. The learning curve is gentle, and the satisfaction of cracking a tough puzzle — without hints, without guessing, just pure reasoning — is genuinely hard to beat.

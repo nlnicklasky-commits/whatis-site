@@ -4,7 +4,7 @@ slug: english-history
 description: "English history covers over 2,000 years of events that shaped England, from Roman Britain through the monarchy, parliamentary democracy, and the British Empire."
 category: history
 tags: ["english history", "england", "british history", "monarchy", "parliament"]
-heroImage: "/images/articles/english-history.webp"
+heroImage: "/images/articles/english-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of english history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -95,7 +95,7 @@ The 18th and 19th centuries saw England — now part of Great Britain after the 
 
 The British Empire expanded relentlessly. By 1920, it covered roughly a quarter of the world's land surface and governed about 458 million people. India, vast stretches of Africa, Canada, Australia, the Caribbean — all under the British flag. The moral [accounting](/accounting) of this empire is complicated: it brought railways, legal systems, and educational institutions to colonized lands, but it also brought exploitation, cultural destruction, and horrific episodes like the Bengal Famine of 1943.
 
-The [Industrial Revolution](/[engineering](/engineering)-history) started in England in the 1760s. Textile mills, [steam engines](/steam-engines), iron foundries, and railways transformed the country from a largely agricultural society into the world's first industrial power. Manchester, Birmingham, and Leeds exploded in population. The social costs were staggering — child labor, urban squalor, life-threatening working conditions — and eventually produced the labor movement and modern social welfare.
+The Industrial Revolution-history) started in England in the 1760s. Textile mills, [steam engines](/steam-engines), iron foundries, and railways transformed the country from a largely agricultural society into the world's first industrial power. Manchester, Birmingham, and Leeds exploded in population. The social costs were staggering — child labor, urban squalor, life-threatening working conditions — and eventually produced the labor movement and modern social welfare.
 
 ## The World Wars and After
 

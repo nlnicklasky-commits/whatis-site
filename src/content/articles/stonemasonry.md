@@ -4,7 +4,7 @@ slug: stonemasonry
 description: "Stonemasonry is the craft of cutting, shaping, and building with stone. Learn about the techniques, history, and types of masonry work still practiced today."
 category: everyday-concepts
 tags: ["stonemasonry", "masonry", "construction", "craft", "architecture", "stone"]
-heroImage: "/images/articles/stonemasonry.webp"
+heroImage: "/images/articles/stonemasonry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stonemasonry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

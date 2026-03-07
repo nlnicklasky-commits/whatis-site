@@ -1,10 +1,10 @@
 ---
 title: "What Is Yachting?"
 slug: yachting
-description: "Yachting covers sailing and motorboating for sport, leisure, or racing. Learn about yacht types, racing events, costs, and how to get started."
+description: "Yachting covers sailing and motorboating for sport, leisure, or racing. Learn about yacht types, racing events, costs, and how to get started. Discover the k..."
 category: sports
 tags: ["boating", "sailing", "luxury", "recreation", "marine sports", "maritime"]
-heroImage: "/images/articles/yachting.webp"
+heroImage: "/images/articles/yachting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of yachting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: symbology
 description: "Symbology is the study of symbols and their meanings across cultures, religions, and art. Learn how symbols communicate, where they come from, and why they."
 category: arts-amp-culture
 tags: ["symbology", "symbols", "semiotics", "culture", "religion", "art history"]
-heroImage: "/images/articles/symbology.webp"
+heroImage: "/images/articles/symbology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of symbology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

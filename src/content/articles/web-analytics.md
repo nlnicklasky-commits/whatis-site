@@ -4,13 +4,13 @@ slug: web-analytics
 description: "Web analytics measures and analyzes website traffic and user behavior. Learn about key metrics, tools like Google Analytics, and data-driven optimization."
 category: technology
 tags: ["web analytics", "digital marketing", "data", "SEO", "marketing"]
-heroImage: "/images/articles/web-analytics.webp"
+heroImage: "/images/articles/web-analytics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of web analytics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 15
-wordCount: 3750
+readingTime: 10
+wordCount: 2478
 tier: '1'
 relatedArticles: ["digital-marketing", "data-analysis", "data-visualization", "seo-search-engine-optimization", "data-science"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Traditional web analytics uses cookies and device fingerprinting to track users across sessions, though privacy changes (Safari ITP, Firefox ETP, Chrome's cookie deprecation plans) are limiting this. Analytics tools can identify patterns but should not track personally identifiable information without explicit consent under most privacy frameworks."
 ---
 
+# What Is Web Analytics?
 Web analytics is the collection, measurement, analysis, and reporting of website data to understand and optimize how people use websites. It answers fundamental questions about your site: how many people visit, where they come from, what they look at, how long they stay, and — most importantly — whether they do what you want them to do.
 
 Without web analytics, [running](/running) a website is like running a store with no cash register, no inventory system, and blacked-out windows. You know the doors are open, but you have no idea what's happening inside.
@@ -97,7 +98,7 @@ Web analytics produces an ocean of numbers. Knowing which ones matter — and wh
 
 **Bounce rate** — the percentage of sessions where the visitor viewed only one page and left. A high bounce rate on a landing page designed to drive clicks is bad. A high bounce rate on a blog post that fully answers the reader's question might be fine — they got what they came for.
 
-Google Analytics 4 replaced bounce rate with **engagement rate** — the percentage of sessions that lasted more than 10 seconds, had a conversion event, or had 2+ pageviews. This is a more nuanced measure than binary bounce/no-bounce.
+Google Analytics 4 replaced bounce rate with **engagement rate** — the percentage of sessions that lasted more than 10 seconds, had a conversion event, or had 2+ pageviews. This is a more subtle measure than binary bounce/no-bounce.
 
 **Average engagement time** — how long users actively interact with your page (the tab is in focus). This is more meaningful than the old "time on page" metric, which couldn't measure time on the last page of a session and was notoriously inaccurate.
 

@@ -4,7 +4,7 @@ slug: massage-therapy
 description: "Massage therapy is the manual manipulation of soft tissues to relieve pain, reduce stress, and improve physical function. Learn about types and benefits."
 category: health-amp-wellness
 tags: ["wellness", "massage therapy", "bodywork"]
-heroImage: "/images/articles/massage-therapy.webp"
+heroImage: "/images/articles/massage-therapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of massage therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

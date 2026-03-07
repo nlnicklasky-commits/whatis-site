@@ -4,7 +4,7 @@ slug: terraforming
 description: "Terraforming is the hypothetical process of modifying a planet's atmosphere, temperature, and surface to make it habitable for Earth life. Learn about Mars."
 category: science
 tags: ["terraforming", "planetary science", "space colonization", "astrobiology"]
-heroImage: "/images/articles/terraforming.webp"
+heroImage: "/images/articles/terraforming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of terraforming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

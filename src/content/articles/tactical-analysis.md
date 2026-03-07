@@ -4,7 +4,7 @@ slug: tactical-analysis
 description: "Tactical analysis is the study of strategies and formations in sports to understand and improve performance. Learn how analysts work and why teams rely on them."
 category: sports
 tags: ["tactical analysis", "sports", "strategy", "coaching", "data analytics", "football"]
-heroImage: "/images/articles/tactical-analysis.webp"
+heroImage: "/images/articles/tactical-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tactical analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

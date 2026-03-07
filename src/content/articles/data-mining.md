@@ -1,7 +1,7 @@
 ---
 title: "What Is Data Mining?"
 slug: data-mining
-description: "Data mining extracts patterns from large datasets using statistics and machine learning. Learn about techniques, tools, applications, and ethics."
+description: "Data mining extracts patterns from large datasets using statistics and machine learning. Learn about techniques, tools, applications, and ethics. Discover th..."
 category: technology
 tags: ["data mining", "machine learning", "data science", "pattern recognition", "analytics", "algorithms", "big data"]
 heroImage: "/images/articles/data-mining-hero.webp"

@@ -4,7 +4,7 @@ slug: hydrogen-power
 description: "Hydrogen power uses hydrogen gas as a clean fuel for electricity and transportation. Learn how fuel cells work, production methods, and current challenges."
 category: everyday-concepts
 tags: ["hydrogen power", "fuel cells", "clean energy", "renewable energy", "green hydrogen"]
-heroImage: "/images/articles/hydrogen-power.webp"
+heroImage: "/images/articles/hydrogen-power-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hydrogen power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

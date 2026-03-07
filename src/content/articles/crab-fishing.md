@@ -4,7 +4,7 @@ slug: crab-fishing
 description: "Crab fishing is the commercial and recreational harvesting of crabs from the ocean. Learn about methods, species, dangers, and the industry behind it."
 category: everyday-concepts
 tags: ["crab fishing", "fishing", "seafood", "marine industry", "crab", "fishermen"]
-heroImage: "/images/articles/crab-fishing.webp"
+heroImage: "/images/articles/crab-fishing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of crab fishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Major commercial species include Alaskan king crab (red, blue, and golden varieties), snow crab (also called opilio), Dungeness crab (Pacific Coast), blue crab (Atlantic and Gulf Coasts), stone crab (Florida), and Jonah crab (Northeast). Each species has distinct seasonality, habitat, and harvesting methods. King crab and snow crab command the highest market prices."
 ---
 
-# What Is Crab Fishing?
+# What Is Crab [Fishing](/lobster-fishing)?
 
 Crab fishing is the harvesting of crabs from oceans, bays, and estuaries for commercial sale or personal consumption. It ranges from recreational crabbers dropping pots off a dock to industrial-scale operations pulling thousands of pounds of king crab from the Bering Sea. The industry supplies a global market worth billions of dollars annually — and it's one of the most physically demanding and dangerous occupations on Earth.
 

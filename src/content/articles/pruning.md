@@ -1,10 +1,10 @@
 ---
 title: "What Is Pruning?"
 slug: pruning
-description: "Pruning is the selective removal of plant parts to improve health, shape, and productivity. Learn when and how to prune properly."
+description: "Pruning is the selective removal of plant parts to improve health, shape, and productivity. Learn when and how to prune properly. Discover the key facts, his..."
 category: everyday-concepts
 tags: ["pruning", "horticulture", "gardening", "arboriculture", "plant care", "tree pruning"]
-heroImage: "/images/articles/pruning.webp"
+heroImage: "/images/articles/pruning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pruning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

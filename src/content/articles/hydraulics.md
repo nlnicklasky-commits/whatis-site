@@ -1,7 +1,7 @@
 ---
 title: "What Is Hydraulics?"
 slug: hydraulics
-description: "Hydraulics uses pressurized fluid to generate force and motion. Learn how hydraulic systems work, their components, and where they power our world."
+description: "Hydraulics uses pressurized fluid to generate force and motion. Learn how hydraulic systems work, their components, and where they power our world. Discover ..."
 category: technology
 tags: ["hydraulics", "fluid mechanics", "engineering", "fluid power", "mechanical engineering", "pressure", "machinery"]
 heroImage: "/images/articles/hydraulics-hero.webp"

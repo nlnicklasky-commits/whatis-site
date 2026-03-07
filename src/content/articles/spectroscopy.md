@@ -1,10 +1,10 @@
 ---
 title: "What Is Spectroscopy?"
 slug: spectroscopy
-description: "Spectroscopy studies how matter interacts with light to identify chemical compositions. Learn about techniques, applications, and how it works."
+description: "Spectroscopy studies how matter interacts with light to identify chemical compositions. Learn about techniques, applications, and how it works. Discover the ..."
 category: everyday-concepts
 tags: ["spectroscopy", "chemistry", "light", "electromagnetic spectrum", "analytical chemistry", "physics"]
-heroImage: "/images/articles/spectroscopy.webp"
+heroImage: "/images/articles/spectroscopy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of spectroscopy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

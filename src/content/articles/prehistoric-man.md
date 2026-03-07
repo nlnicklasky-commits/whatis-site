@@ -4,7 +4,7 @@ slug: prehistoric-man
 description: "Prehistoric man refers to human ancestors who lived before written records. Learn about species, tools, migration, and what fossils reveal about our origins."
 category: history
 tags: ["prehistoric man", "human evolution", "archaeology", "paleoanthropology"]
-heroImage: "/images/articles/prehistoric-man.webp"
+heroImage: "/images/articles/prehistoric-man-hero.webp"
 heroAlt: "Editorial photograph representing the concept of prehistoric man"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -115,6 +115,6 @@ Language is even harder to pin down. The hyoid bone (involved in speech) is pres
 
 Studying prehistoric man isn't just academic. It tells us what we are as a species — what's hardwired and what's cultural, what's ancient and what's recent. The fact that humans cooperated in large groups, cared for injured individuals, and created art for tens of thousands of years before civilization tells you something about human nature that no modern [psychology](/psychology) study can.
 
-It also provides perspective. Modern humans have existed for about 300,000 years. [Agriculture](/agriculture) started about 12,000 years ago. Cities, about 6,000 years ago. The iPhone, 2007. We spent the vast majority of our existence as small-band hunter-gatherers. That's the environment our brains and bodies evolved for — and understanding that context sheds light on everything from diet to [mental health](/mental-health) to social behavior.
+It also provides perspective. Modern humans have existed for about 300,000 years. [Agriculture](/agriculture) started about 12,000 years ago. Cities, about 6,000 years ago. The iPhone, 2007. We spent the vast majority of our existence as small-band hunter-gatherers. That's the environment our brains and bodies evolved for — and understanding that context helps explain everything from diet to [mental health](/mental-health) to social behavior.
 
 Prehistoric man isn't a primitive prelude to "real" history. It's the main event. Everything since is an epilogue.

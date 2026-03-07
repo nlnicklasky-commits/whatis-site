@@ -1,10 +1,10 @@
 ---
 title: "What Is Plumbing?"
 slug: plumbing
-description: "Plumbing is the system of pipes, valves, and fixtures that delivers clean water and removes waste. Here's how it works in your home."
+description: "Plumbing is the system of pipes, valves, and fixtures that delivers clean water and removes waste. Here's how it works in your home. Discover the key facts, ..."
 category: everyday-concepts
 tags: ["construction", "home improvement", "water", "pipes", "drains", "maintenance"]
-heroImage: "/images/articles/plumbing.webp"
+heroImage: "/images/articles/plumbing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of plumbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

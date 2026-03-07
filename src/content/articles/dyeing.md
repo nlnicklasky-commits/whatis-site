@@ -4,7 +4,7 @@ slug: dyeing
 description: "Dyeing is the process of adding color to textiles and materials using dyes. Explore natural and synthetic dyes, techniques, history, and modern applications."
 category: arts-amp-culture
 tags: ["dyeing", "arts-amp-culture"]
-heroImage: "/images/articles/dyeing.webp"
+heroImage: "/images/articles/dyeing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dyeing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Dyeing is the process of applying color to textiles, yarns, fibers, or other materials using dyes — substances that bond chemically or physically to the material to produce lasting color. It's one of humanity's oldest technologies, practiced for at least 5,000 years, and one of the most environmentally consequential — the textile dyeing industry processes roughly 100 billion garments annually, using enormous quantities of water, energy, and chemicals.
 
-## A History in Color
+## A [History](/[dance](/dance)-history) in Color
 
 The oldest evidence of textile dyeing comes from the Indus Valley civilization, around 3000 BC, where traces of madder dye (a red derived from the *Rubia tinctorum* root) have been found on fragments of cotton cloth. But color lust goes back further — ancient Egyptians used natural dyes on linen wrappings, and Mesopotamian texts describe dyeing recipes.
 

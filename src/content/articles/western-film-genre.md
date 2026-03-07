@@ -4,7 +4,7 @@ slug: western-film-genre
 description: "The Western film genre tells stories of the American frontier with cowboys, outlaws, and lawmen. Learn about its history, iconic films, and lasting influence."
 category: arts-culture
 tags: ["western films", "movie genres", "film history", "cowboys", "American cinema", "Hollywood"]
-heroImage: "/images/articles/western-film-genre.webp"
+heroImage: "/images/articles/western-film-genre-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the western film genre"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: naturopathy
 description: "Naturopathy is a form of medicine using natural therapies like herbs, nutrition, and lifestyle changes. Learn about its principles, treatments, and evidence."
 category: health-amp-wellness
 tags: ["naturopathy", "natural medicine", "alternative medicine", "preventative care"]
-heroImage: "/images/articles/naturopathy.webp"
+heroImage: "/images/articles/naturopathy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of naturopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: titanium-forging
 description: "Titanium forging shapes titanium alloys under heat and pressure into high-performance parts. Learn the process, applications, and why titanium is so valued."
 category: everyday-concepts
 tags: ["titanium forging", "metalworking", "aerospace", "manufacturing", "materials science", "engineering"]
-heroImage: "/images/articles/titanium-forging.webp"
+heroImage: "/images/articles/titanium-forging-hero.webp"
 heroAlt: "Editorial photograph representing the concept of titanium forging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: philosophy-of-religion
 description: "Philosophy of religion examines questions about God, faith, evil, and religious experience through rational argument. Learn about key debates and positions."
 category: everyday-concepts
 tags: ["philosophy of religion", "theology", "God", "faith", "ethics", "metaphysics"]
-heroImage: "/images/articles/philosophy-of-religion.webp"
+heroImage: "/images/articles/philosophy-of-religion-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy of religion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

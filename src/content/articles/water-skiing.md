@@ -4,7 +4,7 @@ slug: water-skiing
 description: "Water skiing is a surface water sport where a person is pulled by a boat while standing on skis. Learn about techniques, equipment, types, and safety."
 category: sports
 tags: ["water skiing", "water sports", "boating", "recreation", "extreme sports", "summer sports"]
-heroImage: "/images/articles/water-skiing.webp"
+heroImage: "/images/articles/water-skiing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water skiing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "You need a motorboat capable of maintaining steady speed (at least 75-100 HP recommended), a tow rope designed for water skiing (75 feet is standard), water skis appropriate for your skill level, a properly fitted Coast Guard-approved life jacket, and an observer in the boat (required by law in most states) who watches the skier and communicates with the driver."
 ---
 
-# What Is Water Skiing?
+# What Is [Water](/water-polo) Skiing?
 
 Water skiing is a surface water sport where a person stands on one or two skis and is pulled across the water's surface by a motorboat via a tow rope. The skier holds a handle attached to the rope, leans back against the pull of the boat, and uses body position and weight shifts to control direction and speed. It's been around since 1922 and remains one of the most popular warm-weather water sports worldwide.
 

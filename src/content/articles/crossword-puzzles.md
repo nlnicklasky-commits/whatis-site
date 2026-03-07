@@ -4,7 +4,7 @@ slug: crossword-puzzles
 description: "Crossword puzzles are word games where clues lead to interlocking answers in a grid. Learn about their history, construction, solving tips, and culture."
 category: everyday-concepts
 tags: ["crossword puzzles", "puzzles", "word games", "brain teasers", "mental exercise", "logic"]
-heroImage: "/images/articles/crossword-puzzles.webp"
+heroImage: "/images/articles/crossword-puzzles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of crossword puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

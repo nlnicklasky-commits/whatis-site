@@ -1,10 +1,10 @@
 ---
 title: "What Is Memory Techniques?"
 slug: memory-techniques
-description: "Memory techniques are strategies for improving recall, from the memory palace to spaced repetition. Learn proven methods backed by cognitive science."
+description: "Memory techniques are strategies for improving recall, from the memory palace to spaced repetition. Learn proven methods backed by cognitive science. Discove..."
 category: everyday-concepts
 tags: ["memory techniques", "mnemonics", "learning", "cognitive science", "memory palace", "study skills"]
-heroImage: "/images/articles/memory-techniques.webp"
+heroImage: "/images/articles/memory-techniques-hero.webp"
 heroAlt: "Editorial photograph representing the concept of memory techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Memory techniques work because they align with how your brain actually processes
 
 **Elaborative encoding.** The more deeply you process information — connecting it to existing knowledge, creating meaningful associations, generating explanations — the better you remember it. Memory techniques force deep processing by requiring you to actively create connections.
 
-**Retrieval practice.** The act of recalling information strengthens the memory more than re-reading or re-studying. Testing yourself (or being tested) is one of the most effective study strategies known. Spaced repetition builds retrieval practice into the review schedule.
+**Retrieval practice.** The act of recalling information strengthens the memory more than re-[reading](/speed-reading) or re-studying. Testing yourself (or being tested) is one of the most effective study strategies known. Spaced repetition builds retrieval practice into the review schedule.
 
 **Emotional enhancement.** Emotionally charged memories are stronger and more durable. Making mental images bizarre, funny, or shocking activates emotional processing, which enhances encoding.
 

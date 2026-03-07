@@ -1,7 +1,7 @@
 ---
 title: "What Is Insurance?"
 slug: insurance
-description: "Insurance is a financial contract where you pay premiums to transfer risk to an insurer, who covers your losses if specific bad events happen."
+description: "Insurance is a financial contract where you pay premiums to transfer risk to an insurer, who covers your losses if specific bad events happen. Discover the k..."
 category: finance
 tags: ["insurance", "risk management", "finance", "premiums", "claims", "policy", "financial protection"]
 heroImage: "/images/articles/insurance-hero.webp"

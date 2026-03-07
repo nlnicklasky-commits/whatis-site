@@ -24,7 +24,7 @@ externalSources:
     url: "https://commonfund.nih.gov/proteomics"
 faq:
   - q: "What is the difference between proteomics and genomics?"
-    a: "Genomics studies an organism's complete DNA sequence—its genetic blueprint. Proteomics studies the actual proteins present in a cell at a given time. The genome is static (your DNA doesn't change), but the proteome is dynamic—different cells express different proteins, and protein levels change constantly in response to conditions."
+    a: "Genomics studies an organism's complete DNA sequence—its genetic blueprint. Proteomics studies the actual proteins present in a cell at a given time. The genome is static (your DNA doesn't change), but the proteome is energetic—different cells express different proteins, and protein levels change constantly in response to conditions."
   - q: "Why can't we just study genes instead of proteins?"
     a: "Genes are instructions; proteins are the actual workers. Knowing the gene sequence doesn't tell you how much protein is made, how it's modified after production, where it is in the cell, or which other proteins it interacts with. Many diseases involve protein-level changes that genomics can't detect."
   - q: "How many proteins are in the human proteome?"

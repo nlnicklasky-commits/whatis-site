@@ -4,7 +4,7 @@ slug: thatching
 description: "Thatching is the craft of building roofs from dried plant materials like straw and reed. Learn the techniques, history, and why thatched roofs still exist."
 category: everyday-concepts
 tags: ["thatching", "roofing", "craft", "traditional building", "sustainable architecture", "straw roof"]
-heroImage: "/images/articles/thatching.webp"
+heroImage: "/images/articles/thatching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of thatching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

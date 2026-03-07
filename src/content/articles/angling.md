@@ -4,7 +4,7 @@ slug: angling
 description: "Angling is the sport of catching fish using a hook, line, and rod. Learn about techniques, equipment, types of fishing, and why millions find it irresistible."
 category: sports
 tags: ["angling", "fishing", "sport fishing", "recreational fishing", "fish hook", "fly fishing"]
-heroImage: "/images/articles/angling.webp"
+heroImage: "/images/articles/angling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of angling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

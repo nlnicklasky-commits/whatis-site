@@ -4,7 +4,7 @@ slug: mural-painting
 description: "Mural painting is the art of creating large-scale artwork directly on walls or ceilings. Learn about techniques, history, and famous murals worldwide."
 category: arts-amp-culture
 tags: ["mural painting", "murals", "wall art", "fresco", "public art", "art history"]
-heroImage: "/images/articles/mural-painting.webp"
+heroImage: "/images/articles/mural-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mural painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

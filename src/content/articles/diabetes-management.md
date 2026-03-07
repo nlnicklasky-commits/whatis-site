@@ -4,7 +4,7 @@ slug: diabetes-management
 description: "Diabetes management is the ongoing process of controlling blood sugar through medication, diet, exercise, and monitoring. Learn what it involves and why it."
 category: health-amp-wellness
 tags: ["diabetes management", "diabetes", "blood sugar", "insulin", "health"]
-heroImage: "/images/articles/diabetes-management.webp"
+heroImage: "/images/articles/diabetes-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of diabetes management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Riddles?"
 slug: riddles
-description: "Riddles are puzzles posed as questions or statements requiring creative thinking to solve. Learn their history and role across cultures."
+description: "Riddles are puzzles posed as questions or statements requiring creative thinking to solve. Learn their history and role across cultures. Discover the key fac..."
 category: arts-amp-culture
 tags: ["riddles", "puzzles", "wordplay", "folklore", "language", "logic"]
-heroImage: "/images/articles/riddles.webp"
+heroImage: "/images/articles/riddles-hero.webp"
 heroAlt: "Editorial photograph representing the concept of riddles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

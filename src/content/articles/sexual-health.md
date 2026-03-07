@@ -1,10 +1,10 @@
 ---
 title: "What Is Sexual Health?"
 slug: sexual-health
-description: "Sexual health covers physical, emotional, and social well-being related to sexuality. Learn about STI prevention, consent, and why it matters."
+description: "Sexual health covers physical, emotional, and social well-being related to sexuality. Learn about STI prevention, consent, and why it matters. Discover the k..."
 category: health-amp-wellness
 tags: ["sexual health", "reproductive health", "sti prevention", "consent", "sex education"]
-heroImage: "/images/articles/sexual-health.webp"
+heroImage: "/images/articles/sexual-health-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sexual health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

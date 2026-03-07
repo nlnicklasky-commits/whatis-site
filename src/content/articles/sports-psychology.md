@@ -4,7 +4,7 @@ slug: sports-psychology
 description: "Sports psychology studies mental factors that affect athletic performance. Learn about visualization, focus, anxiety management, and peak performance."
 category: health-amp-wellness
 tags: ["psychology", "sports psychology", "mental performance", "athletics"]
-heroImage: "/images/articles/sports-psychology.webp"
+heroImage: "/images/articles/sports-psychology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

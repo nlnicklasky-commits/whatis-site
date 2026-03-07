@@ -4,7 +4,7 @@ slug: historical-reenactment
 description: Historical reenactment is the practice of recreating past events, battles, and daily life using period-accurate clothing, tools, and techniques.
 category: history
 tags: ["historical reenactment", "living history", "reenactment", "education"]
-heroImage: "/images/articles/historical-reenactment.webp"
+heroImage: "/images/articles/historical-reenactment-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical reenactment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

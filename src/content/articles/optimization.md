@@ -1,10 +1,10 @@
 ---
 title: "What Is Optimization?"
 slug: optimization
-description: "Optimization is finding the best solution from a set of possibilities given constraints. Learn about its methods, applications, and why it matters."
+description: "Optimization is finding the best solution from a set of possibilities given constraints. Learn about its methods, applications, and why it matters. Discover ..."
 category: everyday-concepts
 tags: ["optimization", "mathematics", "operations research", "algorithms", "decision making", "efficiency"]
-heroImage: "/images/articles/optimization.webp"
+heroImage: "/images/articles/optimization-hero.webp"
 heroAlt: "Editorial photograph representing the concept of optimization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ Simple optimization problems — finding the minimum of a smooth function with t
 
 **Nonlinear programming** addresses problems with curved objective functions or constraints. Gradient descent — repeatedly moving in the direction that improves the objective fastest — is the workhorse method. It powers machine learning training, where the "objective" is minimizing prediction error across millions of data points.
 
-**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, [inventory management](/inventory-[management](/management)), and sequence alignment in bioinformatics.
+**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, [inventory management](/invention)), and sequence alignment in bioinformatics.
 
 **Metaheuristics** — genetic algorithms, simulated annealing, particle swarm optimization — are general-purpose methods inspired by natural processes. They don't guarantee the best possible answer, but they find good solutions to problems that are too complex for exact methods. They're popular in [engineering](/engineering) design, scheduling, and [logistics](/logistics).
 

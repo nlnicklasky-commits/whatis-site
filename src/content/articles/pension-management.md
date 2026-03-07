@@ -1,7 +1,7 @@
 ---
 title: "What Is Pension Management?"
 slug: pension-management
-description: "Pension management handles retirement funds through investment, actuarial analysis, and regulatory compliance so retirees get their promised income."
+description: "Pension management handles retirement funds through investment, actuarial analysis, and regulatory compliance so retirees get their promised income. Discover..."
 category: finance
 tags: ["pension management", "retirement planning", "defined benefit", "defined contribution", "actuarial science", "investment management"]
 heroImage: "/images/articles/pension-management-hero.webp"

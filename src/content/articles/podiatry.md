@@ -4,7 +4,7 @@ slug: podiatry
 description: "Podiatry is the medical specialty focused on diagnosing and treating foot and ankle conditions. Learn about podiatrists, common treatments, and foot health."
 category: health-amp-wellness
 tags: ["foot health", "podiatry", "medicine", "healthcare"]
-heroImage: "/images/articles/podiatry.webp"
+heroImage: "/images/articles/podiatry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of podiatry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

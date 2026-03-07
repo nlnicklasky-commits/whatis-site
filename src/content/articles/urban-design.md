@@ -4,7 +4,7 @@ slug: urban-design
 description: "Urban design shapes the physical layout of cities, from streets and plazas to building arrangements. Learn about principles, history, and modern practice."
 category: technology
 tags: ["urban design", "architecture", "city planning", "public space", "built environment"]
-heroImage: "/images/articles/urban-design.webp"
+heroImage: "/images/articles/urban-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urban design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Philosophy of Language?"
 slug: philosophy-of-language
-description: "Philosophy of language studies how words mean things, how language relates to reality, and what communication actually involves. Learn the key ideas."
+description: "Philosophy of language studies how words mean things, how language relates to reality, and what communication actually involves. Learn the key ideas. Discove..."
 category: everyday-concepts
 tags: ["philosophy of language", "semantics", "meaning", "linguistics", "logic", "communication"]
-heroImage: "/images/articles/philosophy-of-language.webp"
+heroImage: "/images/articles/philosophy-of-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy of language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is [Philosophy](/philosophy) of Language?
 
-Philosophy of language is the branch of philosophy that investigates the nature of language, meaning, reference, and communication. It asks questions that seem absurdly simple until you try to answer them: How do words mean things? What connects the word "cat" to actual cats? When you say something, how does another person understand what you mean? Can language express everything, or are some things beyond words?
+[Philosophy](/philosophy-of-mind) of language is the branch of philosophy that investigates the nature of language, meaning, reference, and communication. It asks questions that seem absurdly simple until you try to answer them: How do words mean things? What connects the word "cat" to actual cats? When you say something, how does another person understand what you mean? Can language express everything, or are some things beyond words?
 
 ## The Central Problem
 

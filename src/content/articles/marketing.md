@@ -4,7 +4,7 @@ slug: marketing
 description: "Marketing is the process of identifying customer needs and promoting products or services to meet them. Learn about strategy, channels, and core concepts."
 category: business
 tags: ["business strategy", "marketing", "advertising"]
-heroImage: "/images/articles/marketing.webp"
+heroImage: "/images/articles/marketing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marketing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: optometry
 description: "Optometry is the healthcare profession focused on vision care and eye health. Learn about eye exams, corrective lenses, common conditions, and careers."
 category: health-amp-wellness
 tags: ["optometry", "eye care", "vision", "eyeglasses"]
-heroImage: "/images/articles/optometry.webp"
+heroImage: "/images/articles/optometry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of optometry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What is the difference between an optometrist and an ophthalmologist?"
     a: "An optometrist (OD) completes a four-year Doctor of Optometry program after college and specializes in eye exams, vision correction, and managing common eye conditions. An ophthalmologist (MD or DO) completes medical school plus a residency in ophthalmology and can perform eye surgery, treat complex diseases, and manage the full spectrum of eye conditions. Think of it this way: optometrists are your primary eye care providers, while ophthalmologists are specialists and surgeons. Many patients see an optometrist regularly and are referred to an ophthalmologist only when needed."
   - q: "How often should adults get their eyes examined?"
-    a: "The American Optometric Association recommends comprehensive eye exams every two years for adults aged 18-64 with no risk factors, and annually for adults 65 and older. If you have diabetes, a family history of eye disease, wear contact lenses, or take medications that affect vision, annual exams are recommended at any age. Children should have their first exam between 6 and 12 months, again at age 3, and before starting school."
+    a: "The American Optometric Association recommends complete eye exams every two years for adults aged 18-64 with no risk factors, and annually for adults 65 and older. If you have diabetes, a family history of eye disease, wear contact lenses, or take medications that affect vision, annual exams are recommended at any age. Children should have their first exam between 6 and 12 months, again at age 3, and before starting school."
   - q: "Can optometrists prescribe medication?"
     a: "Yes. All 50 U.S. states authorize optometrists to prescribe diagnostic and therapeutic pharmaceutical agents, including antibiotics, anti-inflammatory drugs, glaucoma medications, and allergy eye drops. The specific scope of prescriptive authority varies by state — some limit certain drug classes. Optometrists cannot prescribe oral controlled substances in most states. This prescriptive authority has expanded significantly since the 1970s, when optometrists couldn't prescribe any medications."
   - q: "Do children need eye exams even if they seem to see fine?"

@@ -4,7 +4,7 @@ slug: waste-management
 description: "Waste management covers the collection, transport, processing, and disposal of waste materials. Learn about methods, recycling, landfills, and sustainability."
 category: everyday-concepts
 tags: ["waste management", "recycling", "environment", "landfills", "sustainability", "public health"]
-heroImage: "/images/articles/waste-management.webp"
+heroImage: "/images/articles/waste-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of waste management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

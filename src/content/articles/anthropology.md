@@ -35,6 +35,7 @@ faq:
     a: "It's both. Biological anthropology and archaeology use scientific methods like DNA analysis and carbon dating. Cultural and linguistic anthropology lean toward the humanities and interpretive social sciences. This dual identity is actually one of the discipline's greatest strengths."
 ---
 
+# What Is Anthropology?
 Anthropology is the study of humans in every dimension — our biology, our cultures, our languages, and our deep history stretching back millions of years. It's the one discipline that refuses to look at people from just one angle, combining scientific methods with humanistic inquiry to understand what makes us *us*.
 
 That might sound impossibly broad. And honestly? It kind of is. But that breadth is the whole point.

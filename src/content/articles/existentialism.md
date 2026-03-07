@@ -4,7 +4,7 @@ slug: existentialism
 description: "Existentialism is a philosophy centered on individual freedom, choice, and meaning. Explore its origins, key thinkers, and why it still resonates today."
 category: everyday-concepts
 tags: ["existentialism", "philosophy", "freedom", "Sartre", "Kierkegaard", "meaning"]
-heroImage: "/images/articles/existentialism.webp"
+heroImage: "/images/articles/existentialism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of existentialism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ Existentialism is a philosophical movement built on one uncomfortable idea: you'
 
 The phrase most associated with existentialism is Jean-Paul Sartre's "existence precedes essence." In plain language, that means you exist first, and *then* you define who you are through your choices. A hammer has an essence before it exists — someone designs it with a purpose. But you? You showed up without instructions.
 
-This flips centuries of [Western philosophy](/western-[philosophy](/philosophy)) on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
+This flips centuries of [Western philosophy](/western-art)) on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
 
 And here's the kicker: you can't escape this. Even refusing to choose is a choice. Sartre called this being "condemned to be free."
 

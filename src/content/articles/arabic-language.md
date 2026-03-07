@@ -4,7 +4,7 @@ slug: arabic-language
 description: "Arabic is a Semitic language spoken by over 400 million people, known for its right-to-left script, rich literary tradition, and role as a liturgical language."
 category: arts-amp-culture
 tags: ["arabic language", "arabic", "language", "linguistics", "middle east", "semitic"]
-heroImage: "/images/articles/arabic-language.webp"
+heroImage: "/images/articles/arabic-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of arabic language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

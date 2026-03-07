@@ -1,7 +1,7 @@
 ---
 title: "What Is Dynamic Programming?"
 slug: dynamic-programming
-description: "Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid redundant work."
+description: "Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid redundant work. Discover the key facts, histor..."
 category: technology
 tags: ["dynamic programming", "algorithms", "computer science", "optimization", "recursion", "memoization", "programming"]
 heroImage: "/images/articles/dynamic-programming-hero.webp"
@@ -24,9 +24,9 @@ externalSources:
     url: "https://web.stanford.edu/class/cs161/"
 faq:
   - q: "When should I use dynamic programming instead of a greedy algorithm?"
-    a: "Use dynamic programming when the greedy choice doesn't guarantee an optimal solution—when you need to consider multiple possibilities at each step. If making the locally best choice at every step always leads to the globally best solution, greedy works and is simpler. If not, you likely need DP."
+    a: "Use lively programming when the greedy choice doesn't guarantee an optimal solution—when you need to consider multiple possibilities at each step. If making the locally best choice at every step always leads to the globally best solution, greedy works and is simpler. If not, you likely need DP."
   - q: "Is dynamic programming the same as recursion?"
-    a: "No. Recursion is a programming technique where a function calls itself. Dynamic programming often uses recursion but adds memoization (caching results) to avoid solving the same subproblem multiple times. Plain recursion without caching can be exponentially slower than DP."
+    a: "No. Recursion is a programming technique where a function calls itself. Active programming often uses recursion but adds memoization (caching results) to avoid solving the same subproblem multiple times. Plain recursion without caching can be exponentially slower than DP."
   - q: "How do I identify if a problem can be solved with dynamic programming?"
     a: "Look for two properties: optimal substructure (the optimal solution contains optimal solutions to subproblems) and overlapping subproblems (the same subproblems are solved repeatedly). If both exist, DP is likely applicable. Common indicators include problems asking for maximum/minimum values, counting possibilities, or making sequential decisions."
   - q: "What's the difference between top-down and bottom-up dynamic programming?"

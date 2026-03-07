@@ -1,10 +1,10 @@
 ---
 title: "What Is Ice Hockey?"
 slug: ice-hockey
-description: "Ice hockey is a fast team sport played on ice where skaters use sticks to shoot a puck into the goal. Learn about rules, positions, and the NHL."
+description: "Ice hockey is a fast team sport played on ice where skaters use sticks to shoot a puck into the goal. Learn about rules, positions, and the NHL. Discover the..."
 category: sports
 tags: ["ice hockey", "hockey", "winter sports", "team sports", "nhl", "puck"]
-heroImage: "/images/articles/ice-hockey.webp"
+heroImage: "/images/articles/ice-hockey-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ice hockey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Ice [Hockey](/hockey)?
 
-Ice hockey is a team sport played on an enclosed ice rink where two teams of six skaters each use sticks to shoot a vulcanized rubber puck into the opposing team's net. It is the fastest major team sport in the world — players skate at 20 to 30 mph, pucks travel over 100 mph, and the combination of speed, physicality, and skill creates a game that is chaotic, violent, and addictive to watch.
+Ice [hockey](/field-hockey) is a team sport played on an enclosed ice rink where two teams of six skaters each use sticks to shoot a vulcanized rubber puck into the opposing team's net. It is the fastest major team sport in the world — players skate at 20 to 30 mph, pucks travel over 100 mph, and the combination of speed, physicality, and skill creates a game that is chaotic, violent, and addictive to watch.
 
 ## The Basics
 
@@ -53,7 +53,7 @@ The rink is 200 feet long and 85 feet wide in the NHL (international rinks are w
 
 ## The Physical Game
 
-Body checking — using your body to separate an opponent from the puck — is legal and integral to the sport. A clean check involves contacting an opponent who has the puck, using the shoulder or hip, without targeting the head. The force of two 200-pound athletes colliding at skating speed is considerable.
+Body checking — using your body to separate an opponent from the puck — is legal and integral to the sport. A clean check involves contacting an opponent who has the puck, using the shoulder or hip, without targeting the head. The force of two 200-pound athletes colliding at [skating](/ice-skating) speed is considerable.
 
 Penalties result from illegal contact (tripping, hooking, slashing, boarding, elbowing) or other infractions. A penalized player serves time in the penalty box — two minutes for minor penalties, five for majors. Their team plays short-handed, creating a **power play** for the opposing team. Power plays produce roughly 20% of all goals in the NHL.
 
@@ -83,4 +83,4 @@ Hockey inspires fanatical devotion, particularly in northern cities and countrie
 
 The game rewards the eye once you learn to follow it. Casual viewers see chaos. Experienced fans see positioning, passing lanes, defensive assignments, and tactical decisions made at 25 mph. The combination of speed, skill, strategy, and controlled violence is unique among major sports.
 
-If you want to try playing, most rinks offer adult beginner hockey programs. Learning to skate comes first — and skating well enough for hockey takes months of practice. But once you can handle a puck while skating, the game is as fun to play as it is to watch.
+If you want to try playing, most rinks offer adult beginner hockey programs. Learning to skate comes first — and [skating](/figure-skating) well enough for hockey takes months of practice. But once you can handle a puck while skating, the game is as fun to play as it is to watch.

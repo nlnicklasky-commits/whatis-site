@@ -35,6 +35,7 @@ faq:
     a: "Begin with the dichotomy of control (focus on what you can influence), practice negative visualization (imagine loss to increase gratitude), and reflect daily on your values and reactions."
 ---
 
+# Stanford Encyclopedia of Philosophy — Stoicism
 Stoicism is an ancient [philosophy](/philosophy) that teaches you can achieve lasting peace and fulfillment by focusing on what you control—your thoughts, judgments, and actions—and accepting what you cannot. Born in ancient Greece around 300 BCE, it remains one of the most practical and life-changing approaches to living well.
 
 The philosophy emerged during turbulent times—wars, political instability, economic uncertainty. Sound familiar? The Stoics weren't offering escapism. They were offering something more practical: a framework for living well regardless of external circumstances. And somehow, two millennia later, it still works.
@@ -125,7 +126,7 @@ You might think Stoicism is an ancient relic. But it's surprisingly relevant to 
 
 ### Mental Health and Resilience
 
-Modern [cognitive-behavioral-therapy](/cognitive-behavioral-therapy) is remarkably similar to Stoic practice. CBT teaches that your thoughts create your emotions—not external events directly. Change your interpretation of events, and you change how you feel. That's almost exactly what Epictetus taught: "It's not things that disturb you, but your judgments about them."
+Modern [cognitive-behavioral-therapy](/cognitive-bias) is remarkably similar to Stoic practice. CBT teaches that your thoughts create your emotions—not external events directly. Change your interpretation of events, and you change how you feel. That's almost exactly what Epictetus taught: "It's not things that disturb you, but your judgments about them."
 
 Stoic practices are being studied in modern [psychology](/psychology). The dichotomy of control reduces anxiety by redirecting focus. Negative visualization increases resilience. Reflective practice strengthens self-awareness. These aren't ancient superstitions—they're powerful psychological tools.
 
@@ -179,7 +180,7 @@ You don't need years of study to begin. Start simple.
 
 **Read the classics.** Marcus Aurelius' "Meditations" is short and accessible. Epictetus' "Enchiridion" is even shorter. These men wrote to help people live better.
 
-**Embrace [mindfulness](/mindfulness).** Stoic practice is very close to modern mindfulness. Bring attention to the present moment. Notice your thoughts without judgment. Choose your responses consciously.
+**Embrace [mindfulness](/philosophy-of-mind).** Stoic practice is very close to modern mindfulness. Bring attention to the present moment. Notice your thoughts without judgment. Choose your responses consciously.
 
 ## The Historical Stoics: From Ancient Greece to Rome
 
@@ -191,7 +192,7 @@ Seneca (4 BCE-65 CE) was a wealthy statesman and playwright who wrote letters ex
 
 Marcus Aurelius (121-180 CE) was Emperor, managing an empire during plague and constant military threats. His "Meditations" was a private journal reminding himself to stay sane and virtuous. It's the most authentic philosophical text from antiquity—raw reflections of someone genuinely trying to live by these principles.
 
-## Stoicism in [Ancient Greece](/ancient-greece) and Beyond
+## Stoicism in [Ancient Greece](/folk-dancing) and Beyond
 
 Stoicism flourished in the ancient world because it addressed real suffering. After Alexander the Great's conquests, the world became chaotic and unpredictable. Traditional [religion](/religion) and community structures felt less stable. People needed a philosophy that worked anywhere, for anyone—whether you were poor or rich, enslaved or free, in Athens or Rome.
 

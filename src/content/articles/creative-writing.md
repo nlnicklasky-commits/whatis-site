@@ -4,7 +4,7 @@ slug: creative-writing
 description: "Creative writing is original composition that uses imagination and literary craft. Learn about fiction, poetry, memoir, the writing process, and programs."
 category: arts-amp-culture
 tags: ["creative writing", "writing", "fiction", "poetry", "storytelling", "literature"]
-heroImage: "/images/articles/creative-writing.webp"
+heroImage: "/images/articles/creative-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of creative writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

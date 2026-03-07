@@ -4,7 +4,7 @@ slug: triathlon
 description: "Triathlon is an endurance race combining swimming, cycling, and running. Learn the distances, training, gear, and what it takes to finish your first race."
 category: sports
 tags: ["triathlon", "endurance sports", "swimming", "cycling", "running", "multisport"]
-heroImage: "/images/articles/triathlon.webp"
+heroImage: "/images/articles/triathlon-hero.webp"
 heroAlt: "Editorial photograph representing the concept of triathlon"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

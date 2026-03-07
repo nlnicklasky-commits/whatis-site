@@ -1,10 +1,10 @@
 ---
 title: "What Is Radiocarbon Dating?"
 slug: radiocarbon-dating
-description: "Radiocarbon dating measures the decay of carbon-14 in organic materials to determine their age, up to about 50,000 years old."
+description: "Radiocarbon dating measures the decay of carbon-14 in organic materials to determine their age, up to about 50,000 years old. Discover the key facts, history..."
 category: everyday-concepts
 tags: ["radiocarbon dating", "archaeology", "carbon-14", "science", "dating methods", "geology"]
-heroImage: "/images/articles/radiocarbon-dating.webp"
+heroImage: "/images/articles/radiocarbon-dating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of radiocarbon dating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

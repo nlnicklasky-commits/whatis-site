@@ -1,7 +1,7 @@
 ---
 title: What Is Agile Software Development?
 slug: agile-software-development
-description: "Agile software development explained: its origins, core values, frameworks like Scrum and Kanban, and why most tech teams have adopted it since 2001."
+description: "Agile software development explained: its origins, core values, frameworks like Scrum and Kanban, and why most tech teams have adopted it since 2001. Discove..."
 category: technology
 tags: ["agile", "agile software development", "scrum", "kanban", "project management", "software development", "technology"]
 heroImage: "/images/articles/agile-software-development-hero.webp"
@@ -9,7 +9,7 @@ heroAlt: "Editorial photograph representing the concept of agile software develo
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
-readingTime: 13
+readingTime: 15
 wordCount: 3705
 tier: "1"
 relatedArticles: ["machine-learning", "blockchain", "cloud-computing", "project-management", "software-engineering"]

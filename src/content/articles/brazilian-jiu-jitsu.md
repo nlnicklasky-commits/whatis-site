@@ -4,7 +4,7 @@ slug: brazilian-jiu-jitsu
 description: "Brazilian Jiu-Jitsu (BJJ) is a grappling martial art focused on ground fighting and submissions, where technique and leverage overcome size and strength."
 category: everyday-concepts
 tags: ["brazilian jiu jitsu", "martial arts", "grappling", "self-defense", "mma", "combat sports"]
-heroImage: "/images/articles/brazilian-jiu-jitsu.webp"
+heroImage: "/images/articles/brazilian-jiu-jitsu-hero.webp"
 heroAlt: "Editorial photograph representing the concept of brazilian jiu-jitsu"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -88,7 +88,7 @@ The relationship runs both ways — MMA has influenced BJJ training. Competition
 
 BJJ provides a full-body workout that burns 500-1,000 calories per hour depending on intensity. It develops cardiovascular endurance, functional strength (particularly grip, core, and hip strength), flexibility, and body awareness.
 
-The [physical demands](/exercise-[physiology](/physiology)) are significant. BJJ stresses joints — particularly the neck, shoulders, elbows, and knees — and injuries are common with years of training. Cauliflower ear (permanent ear deformation from repeated friction and impact) is a recognizable badge among long-term practitioners.
+The [physical demands](/exercise-physiology)) are significant. BJJ stresses joints — particularly the neck, shoulders, elbows, and knees — and injuries are common with years of training. Cauliflower ear (permanent ear deformation from repeated friction and impact) is a recognizable badge among long-term practitioners.
 
 [Mental health](/mental-health) benefits are widely reported. The intense focus required during rolling — where a momentary lapse in attention means getting submitted — functions as forced [meditation](/meditation). Many practitioners describe BJJ as the only time their mind is completely quiet, because the demands of the moment overwhelm everything else.
 

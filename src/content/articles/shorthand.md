@@ -1,10 +1,10 @@
 ---
 title: "What Is Shorthand?"
 slug: shorthand
-description: "Shorthand is a fast writing system using symbols and abbreviations to capture speech at speed. Learn about Gregg, Pitman, and modern uses."
+description: "Shorthand is a fast writing system using symbols and abbreviations to capture speech at speed. Learn about Gregg, Pitman, and modern uses. Discover the key f..."
 category: everyday-concepts
 tags: ["shorthand", "stenography", "writing", "note-taking", "speed writing", "gregg shorthand"]
-heroImage: "/images/articles/shorthand.webp"
+heroImage: "/images/articles/shorthand-hero.webp"
 heroAlt: "Editorial photograph representing the concept of shorthand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

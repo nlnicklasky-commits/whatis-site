@@ -1,10 +1,10 @@
 ---
 title: "What Is Statistical Modeling?"
 slug: statistical-modeling
-description: "Statistical modeling uses math to represent real-world processes and data patterns. Learn the types, how they work, and where they're used every day."
+description: "Statistical modeling uses math to represent real-world processes and data patterns. Learn the types, how they work, and where they're used every day. Discove..."
 category: everyday-concepts
 tags: ["statistical modeling", "statistics", "data science", "regression", "probability", "machine learning"]
-heroImage: "/images/articles/statistical-modeling.webp"
+heroImage: "/images/articles/statistical-modeling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of statistical modeling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

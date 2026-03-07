@@ -4,7 +4,7 @@ slug: symphony-composition
 description: "Symphony composition is the art of writing large-scale orchestral works in multiple movements. Learn the structure, history, and what makes a great symphony."
 category: everyday-concepts
 tags: ["symphony composition", "classical music", "orchestra", "music theory", "composers", "movements"]
-heroImage: "/images/articles/symphony-composition.webp"
+heroImage: "/images/articles/symphony-composition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of symphony composition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -65,7 +65,7 @@ Romantic composers expanded the symphony's scale, emotional range, and orchestra
 
 The symphony didn't die after Mahler, despite frequent predictions. Shostakovich wrote 15 symphonies under Soviet rule that are among the most powerful of the century. Sibelius compressed the form into a single continuous movement. Minimalists like Philip Glass and John Adams brought new approaches.
 
-Contemporary composers continue writing [symphonies](/music-[engineering](/engineering)), though the form competes with film scoring, [electronic music](/electronic-music), and other outlets for orchestral ambition.
+Contemporary composers continue writing [symphonies](/pop-music)), though the form competes with film scoring, [electronic music](/electronic-music), and other outlets for orchestral ambition.
 
 ## The Craft of Orchestration
 

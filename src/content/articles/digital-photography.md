@@ -4,7 +4,7 @@ slug: digital-photography
 description: "Digital photography captures images using electronic sensors instead of film. Learn how it works, key techniques, camera types, and tips for better photos."
 category: arts-amp-culture
 tags: ["digital photography", "arts-amp-culture"]
-heroImage: "/images/articles/digital-photography.webp"
+heroImage: "/images/articles/digital-photography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of digital photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ Light enters through the lens and hits the image sensor. Each photosite on the s
 
 The result is a grid of pixels — a 24-megapixel sensor produces a grid of roughly 6,000 x 4,000 pixels, each with red, green, and blue color values. That grid is your photograph.
 
-The whole process takes milliseconds. Modern cameras can repeat it 20-30 times per second for burst shooting, and some mirrorless cameras hit 120 frames per second. Film photographers had to wait days to see their results. Digital photographers see them instantly on a screen — a difference that fundamentally changed how people learn [photography](/photography).
+The whole process takes milliseconds. Modern cameras can repeat it 20-30 times per second for burst shooting, and some mirrorless cameras hit 120 frames per second. Film photographers had to wait days to see their results. Digital photographers see them instantly on a screen — a difference that fundamentally changed how people learn [photography](/photovoltaics).
 
 ## The Revolution Nobody Expected
 

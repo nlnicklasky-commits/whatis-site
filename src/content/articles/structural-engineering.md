@@ -4,7 +4,7 @@ slug: structural-engineering
 description: "Structural engineering is the branch of engineering that designs buildings, bridges, and other structures to safely resist loads and forces. Learn how it works."
 category: technology
 tags: ["engineering", "structural engineering", "construction", "civil engineering", "architecture", "materials science"]
-heroImage: "/images/articles/structural-engineering.webp"
+heroImage: "/images/articles/structural-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of structural engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -165,7 +165,7 @@ The **Tacoma Narrows Bridge** (1940) collapsed due to wind-induced aeroelastic f
 
 The **Ronan Point apartment tower** (1968, London) suffered a progressive collapse when a gas explosion blew out a load-bearing wall panel on the 18th floor, causing floors above to collapse sequentially. This event introduced the concept of structural robustness — designing structures so that local failure doesn't trigger global collapse.
 
-The **Hyatt Regency walkway** (1981, Kansas City) collapsed during a crowded event, killing 114 people. The cause was a seemingly minor design change to the connection detail that doubled the load on a critical hanger rod. This disaster underscores that structural safety depends on every detail, not just the overall concept.
+The **Hyatt Regency walkway** (1981, Kansas City) collapsed during a crowded event, killing 114 people. The cause was a seemingly minor design change to the connection detail that doubled the load on a critical hanger rod. This disaster shows that structural safety depends on every detail, not just the overall concept.
 
 ## The Future of Structural Engineering
 

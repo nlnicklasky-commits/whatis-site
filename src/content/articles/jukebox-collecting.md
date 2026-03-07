@@ -4,7 +4,7 @@ slug: jukebox-collecting
 description: "Jukebox collecting is the hobby of acquiring, restoring, and preserving coin-operated music machines. Learn about classic models, values, and restoration."
 category: everyday-concepts
 tags: ["jukebox collecting", "vintage", "music history", "antiques", "restoration"]
-heroImage: "/images/articles/jukebox-collecting.webp"
+heroImage: "/images/articles/jukebox-collecting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jukebox collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Jukebox Collecting?
 
-Jukebox collecting is the hobby of finding, buying, restoring, and displaying coin-operated music machines — primarily the colorful, chrome-laden models from the 1940s through 1970s that were once fixtures in diners, bars, and soda fountains across America. These machines are equal parts musical instrument, mechanical marvel, and design icon, and they attract collectors who appreciate the intersection of music, [engineering](/engineering), and visual art.
+Jukebox collecting is the [hobby](/hobby-machining) of finding, buying, restoring, and displaying coin-operated [music](/jazz-music) machines — primarily the colorful, chrome-laden models from the 1940s through 1970s that were once fixtures in diners, bars, and soda fountains across America. These machines are equal parts musical instrument, mechanical marvel, and design icon, and they attract collectors who appreciate the intersection of music, [engineering](/engineering), and visual art.
 
 ## The Golden Age
 

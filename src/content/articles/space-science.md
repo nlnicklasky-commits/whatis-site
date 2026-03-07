@@ -1,10 +1,10 @@
 ---
 title: "What Is Space Science?"
 slug: space-science
-description: "Space science is the study of everything beyond Earth's atmosphere, from planets and stars to galaxies and cosmic radiation. Includes astronomy and."
+description: "Space science is the study of everything beyond Earth's atmosphere, from planets and stars to galaxies and cosmic radiation. Includes astronomy and. Discover..."
 category: science
 tags: ["space science", "astronomy", "astrophysics", "planetary science", "NASA", "cosmology"]
-heroImage: "/images/articles/space-science.webp"
+heroImage: "/images/articles/space-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of space science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

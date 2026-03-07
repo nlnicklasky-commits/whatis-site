@@ -1,10 +1,10 @@
 ---
 title: "What Is Comedy?"
 slug: comedy
-description: "Comedy is a genre of entertainment designed to make people laugh. Explore its ancient origins, major forms, famous comedians, and why humor matters."
+description: "Comedy is a genre of entertainment designed to make people laugh. Explore its ancient origins, major forms, famous comedians, and why humor matters. Discover..."
 category: arts-amp-culture
 tags: ["comedy", "humor", "entertainment", "stand-up", "satire", "theatre"]
-heroImage: "/images/articles/comedy.webp"
+heroImage: "/images/articles/comedy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

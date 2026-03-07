@@ -4,7 +4,7 @@ slug: spanish-language
 description: "Spanish is a Romance language spoken by over 500 million people worldwide, making it the fourth most spoken language. Learn about its history and global reach."
 category: everyday-concepts
 tags: ["spanish language", "Romance languages", "linguistics", "Latin America", "bilingualism", "global language"]
-heroImage: "/images/articles/spanish-language.webp"
+heroImage: "/images/articles/spanish-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of spanish language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Spanish Language?
 
-Spanish (espanol) is a Romance language descended from Latin, spoken by approximately 500 million native speakers across 20 countries — making it the fourth most spoken language in the world by native speakers and the second most spoken by total number of speakers. It's the primary language of most of Latin America, Spain, and significant communities in the United States, where roughly 42 million people speak it at home.
+Spanish (espanol) is a Romance language descended from Latin, spoken by approximately 500 million native speakers across 20 countries — making it the fourth most spoken language in the world by native speakers and the [second](/second-language-acquisition) most spoken by total number of speakers. It's the primary language of most of Latin America, Spain, and significant communities in the United States, where roughly 42 million people speak it at home.
 
 Spanish evolved from Vulgar Latin (the everyday spoken Latin of Roman soldiers and settlers, not the literary Latin of Cicero) on the Iberian Peninsula between the 6th and 9th centuries. It emerged as a distinct language in the Kingdom of Castile, which is why it's also called Castilian (castellano). Spanish colonialism then carried it across the Americas, the Philippines, and parts of Africa — creating a global language with enormous regional diversity.
 
 ## Key Features
 
-**Pronunciation is remarkably regular.** Spanish is largely phonetic — words are spelled as they sound. Once you learn the rules (which are few and consistent), you can pronounce any Spanish word correctly just by reading it. This makes Spanish one of the most learner-friendly languages in terms of reading and speaking.
+**Pronunciation is remarkably regular.** Spanish is largely phonetic — words are spelled as they sound. Once you learn the rules (which are few and consistent), you can pronounce any Spanish word correctly just by reading it. This makes Spanish one of the most learner-friendly [languages](/slavic-languages) in terms of reading and speaking.
 
 **Grammatical gender** assigns every noun as masculine or feminine. "El libro" (the book, masculine), "la mesa" (the table, feminine). Adjectives and articles must agree in gender and number with the nouns they modify. This system has no logical basis — there's nothing inherently feminine about a table — but it's deeply embedded in the language's structure.
 
-**Verb conjugation** is more complex than English. Spanish verbs change form for person, number, tense, mood, and aspect — producing dozens of forms per verb. Regular verbs follow predictable patterns (three conjugation classes: -ar, -er, -ir), but many common verbs are irregular. The subjunctive mood — rare in English but essential in Spanish — expresses doubt, emotion, possibility, and hypothetical situations.
+**Verb conjugation** is more complex than [English](/english-language). Spanish verbs change form for person, number, tense, mood, and aspect — producing dozens of forms per verb. Regular verbs follow predictable patterns (three conjugation classes: -ar, -er, -ir), but many common verbs are irregular. The subjunctive mood — rare in English but essential in Spanish — expresses doubt, emotion, possibility, and hypothetical situations.
 
 **Formal vs. informal address** uses different pronouns. "Tu" (informal you) vs. "usted" (formal you) changes verb conjugations and reflects social relationships. Latin American usage adds "vos" in several countries (Argentina, Uruguay, Central America), creating a three-way distinction.
 

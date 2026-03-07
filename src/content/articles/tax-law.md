@@ -1,10 +1,10 @@
 ---
 title: "What Is Tax Law?"
 slug: tax-law
-description: "Tax law is the body of legal rules governing how governments impose, collect, and enforce taxes on individuals, businesses, and transactions."
+description: "Tax law is the body of legal rules governing how governments impose, collect, and enforce taxes on individuals, businesses, and transactions. Discover the ke..."
 category: finance
 tags: ["tax law", "taxation", "income tax", "sales tax", "property tax", "tax deductions", "tax credits", "tax evasion"]
-heroImage: "/images/articles/tax-law.webp"
+heroImage: "/images/articles/tax-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tax law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "The Internal Revenue Code has grown to over 10,000 sections because Congress uses it not just to raise revenue but to encourage specific behaviors—homeownership, charitable giving, retirement saving, business investment—through deductions, credits, and exemptions. Each new incentive adds complexity."
 ---
 
+# What Is Tax Law?
 Tax law is the body of legal rules and regulations that govern how governments levy, collect, and enforce taxes on individuals, businesses, and transactions. It determines who pays what, when they pay it, and what happens if they don't.
 
 If taxes are the price of civilization — as Oliver Wendell Holmes famously put it — then tax law is the rulebook. And it's a rulebook that affects virtually every financial decision you make, from accepting a job offer to buying a house to starting a business. Understanding at least the basics isn't optional. It's financial self-defense.

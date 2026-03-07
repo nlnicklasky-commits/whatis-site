@@ -4,7 +4,7 @@ slug: artisan-bread-making
 description: "Artisan bread making is the craft of producing handmade bread using traditional techniques, long fermentation, and simple ingredients like flour, water, and."
 category: everyday-concepts
 tags: ["artisan bread", "bread making", "baking", "sourdough", "fermentation", "cooking"]
-heroImage: "/images/articles/artisan-bread-making.webp"
+heroImage: "/images/articles/artisan-bread-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of artisan bread making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Comic Book Art?"
 slug: comic-book-art
-description: "Comic book art is visual storytelling through sequential images and text. Learn about styles, techniques, famous artists, and how comics are created."
+description: "Comic book art is visual storytelling through sequential images and text. Learn about styles, techniques, famous artists, and how comics are created. Discove..."
 category: arts-amp-culture
 tags: ["comic book art", "comics", "graphic novels", "illustration", "sequential art", "drawing"]
-heroImage: "/images/articles/comic-book-art.webp"
+heroImage: "/images/articles/comic-book-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comic book art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

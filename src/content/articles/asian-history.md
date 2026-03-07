@@ -1,10 +1,10 @@
 ---
 title: "What Is Asian History?"
 slug: asian-history
-description: "Asian history covers thousands of years of civilization across the world's largest continent, from ancient China and India to modern geopolitics."
+description: "Asian history covers thousands of years of civilization across the world's largest continent, from ancient China and India to modern geopolitics. Discover th..."
 category: history
 tags: ["asian history", "asia", "china", "india", "japan", "silk road"]
-heroImage: "/images/articles/asian-history.webp"
+heroImage: "/images/articles/asian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of asian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,9 +33,10 @@ faq:
     a: "The Mongol Empire (1206–1368) was the largest contiguous land empire in history, stretching from Korea to Hungary. It devastated some regions through conquest but also created political stability that revived Silk Road trade, facilitated cross-cultural exchange, and connected East and West Asia more directly than ever before."
 ---
 
+# What Is Asian History?
 Asian history encompasses the political, cultural, economic, and social developments across Earth's largest and most populous continent — from the earliest civilizations in Mesopotamia and the Indus Valley through the rise and fall of great empires to the region's current position as the economic center of gravity for the 21st century.
 
-Trying to summarize "Asian history" in a single article is a bit like trying to summarize "everyone's history." Asia contains 48 countries, over 4.7 billion people, thousands of languages, and civilizations that have been developing independently and interacting with each other for at least 5,000 years. What follows is necessarily a high-altitude view — but even from altitude, the patterns are striking.
+Trying in short "Asian history" in a single article is a bit like trying in short "everyone's history." Asia contains 48 countries, over 4.7 billion people, thousands of languages, and civilizations that have been developing independently and interacting with each other for at least 5,000 years. What follows is necessarily a high-altitude view — but even from altitude, the patterns are striking.
 
 ## The Ancient Foundations
 

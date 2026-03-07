@@ -4,7 +4,7 @@ slug: hunting
 description: "Hunting is pursuing and taking wild animals for food, conservation, or sport. Learn about methods, regulations, ethics, and its role in wildlife management."
 category: everyday-concepts
 tags: ["hunting", "wildlife management", "conservation", "outdoor recreation", "game meat", "subsistence"]
-heroImage: "/images/articles/hunting.webp"
+heroImage: "/images/articles/hunting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hunting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

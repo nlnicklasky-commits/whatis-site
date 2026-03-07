@@ -4,7 +4,7 @@ slug: biological-anthropology
 description: "Biological anthropology studies human evolution, genetics, primatology, and physical variation to understand our species' biological history and diversity."
 category: everyday-concepts
 tags: ["biological anthropology", "anthropology", "evolution", "primatology", "genetics", "human biology"]
-heroImage: "/images/articles/biological-anthropology.webp"
+heroImage: "/images/articles/biological-anthropology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of biological anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

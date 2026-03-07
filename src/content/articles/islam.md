@@ -4,7 +4,7 @@ slug: islam
 description: "Islam is a monotheistic religion founded in 7th-century Arabia, practiced by nearly 2 billion people. Learn about its beliefs, practices, and history."
 category: religion
 tags: ["islam", "religion", "monotheism", "Quran", "Muslim", "five pillars"]
-heroImage: "/images/articles/islam.webp"
+heroImage: "/images/articles/islam-hero.webp"
 heroAlt: "Editorial photograph representing the concept of islam"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

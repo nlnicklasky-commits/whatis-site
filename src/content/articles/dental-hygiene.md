@@ -4,7 +4,7 @@ slug: dental-hygiene
 description: "Dental hygiene is the practice of keeping your mouth, teeth, and gums clean and healthy to prevent cavities, gum disease, and other oral health problems."
 category: health-amp-wellness
 tags: ["dental hygiene", "oral health", "teeth", "preventive care"]
-heroImage: "/images/articles/dental-hygiene.webp"
+heroImage: "/images/articles/dental-hygiene-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dental hygiene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

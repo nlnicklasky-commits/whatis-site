@@ -1,7 +1,7 @@
 ---
 title: What Is Design Patterns?
 slug: design-patterns
-description: "Design patterns are reusable solutions to common software problems. Learn the Gang of Four patterns, when to use them, and when to skip them."
+description: "Design patterns are reusable solutions to common software problems. Learn the Gang of Four patterns, when to use them, and when to skip them. Discover the ke..."
 category: technology
 tags: ["design patterns", "software engineering", "programming", "object-oriented", "architecture", "code reuse", "best practices"]
 heroImage: "/images/articles/design-patterns-hero.webp"

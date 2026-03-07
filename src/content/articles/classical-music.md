@@ -4,7 +4,7 @@ slug: classical-music
 description: "Classical music spans over 1,000 years of Western art music tradition. Explore its major periods, composers, instruments, and why it still matters today."
 category: arts-amp-culture
 tags: ["classical music", "music", "orchestra", "symphony", "opera", "music history"]
-heroImage: "/images/articles/classical-music.webp"
+heroImage: "/images/articles/classical-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of classical music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ People tend to lump everything from Bach to Beethoven into one bucket. In realit
 
 **Medieval (500-1400):** This is where it all starts — Gregorian chant, monophonic vocal music sung in monasteries. Eventually, composers began layering multiple vocal lines on top of each other, creating polyphony. Hildegard von Bingen (1098-1179) is one of the earliest named composers whose work survives.
 
-**Renaissance (1400-1600):** Polyphony gets increasingly sophisticated. Josquin des Prez, Palestrina, and William Byrd wrote intricate vocal works — masses, motets, madrigals. Instrumental music started gaining ground too, though voices still dominated.
+**Renaissance (1400-1600):** Polyphony gets increasingly sophisticated. Josquin des Prez, Palestrina, and William Byrd wrote involved vocal works — masses, motets, madrigals. Instrumental music started gaining ground too, though voices still dominated.
 
 **Baroque (1600-1750):** Things get dramatic. [Opera](/opera) was invented. Bach, Handel, and Vivaldi defined this era. The music features ornate melodies, strong bass lines, and a new emphasis on contrast — loud against soft, solo against ensemble. Vivaldi's *Four Seasons* (1725) remains one of the most-performed works in the entire repertoire.
 

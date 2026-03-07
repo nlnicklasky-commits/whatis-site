@@ -1,10 +1,10 @@
 ---
 title: "What Is Quilting?"
 slug: quilting
-description: "Quilting is the craft of sewing layers of fabric together into a padded textile. Learn the techniques, history, and modern quilting culture."
+description: "Quilting is the craft of sewing layers of fabric together into a padded textile. Learn the techniques, history, and modern quilting culture. Discover the key..."
 category: arts-amp-culture
 tags: ["quilting", "sewing", "textile arts", "fabric", "crafts", "handmade"]
-heroImage: "/images/articles/quilting.webp"
+heroImage: "/images/articles/quilting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of quilting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What are the three layers of a quilt?"
     a: "Every quilt has three layers: the quilt top (the decorative surface, often made from pieced or appliqued fabric), the batting or wadding (the middle layer that provides warmth and loft, usually cotton, polyester, or wool), and the backing (the bottom layer, typically a single piece of fabric). These three layers are held together by quilting stitches that pass through all layers."
   - q: "How long does it take to make a quilt?"
-    a: "A simple lap quilt can be completed in 20-40 hours. A complex, queen-sized quilt with intricate piecing might take 200-500+ hours. Machine quilting is significantly faster than hand quilting. Many quilters work on projects over weeks or months, fitting quilting into available time."
+    a: "A simple lap quilt can be completed in 20-40 hours. A complex, queen-sized quilt with elaborate piecing might take 200-500+ hours. Machine quilting is significantly faster than hand quilting. Many quilters work on projects over weeks or months, fitting quilting into available time."
   - q: "Is quilting expensive to start?"
     a: "You can start quilting with basic sewing supplies and fabric scraps for very little money. However, quality quilting fabric typically costs $10-$15 per yard, and a queen-sized quilt requires 8-12 yards or more. A basic sewing machine costs $100-$300. A typical first quilt project costs $50-$150 in materials, assuming you already have a sewing machine."
 ---
@@ -43,7 +43,7 @@ A quilt is fundamentally a fabric sandwich with three layers.
 
 **The backing** is the bottom layer — usually a single fabric or a few large pieces sewn together.
 
-**Quilting** — the stitching holding the three layers together — gives the craft its name. Quilting stitches can be straight lines, curves, intricate patterns, or free-motion designs. The stitching adds texture and dimension. A beautifully pieced top with poor quilting looks flat. A simple top with stunning quilting becomes artwork.
+**Quilting** — the stitching holding the three layers together — gives the craft its name. Quilting stitches can be straight lines, curves, detailed patterns, or free-motion designs. The stitching adds texture and dimension. A beautifully pieced top with poor quilting looks flat. A simple top with stunning quilting becomes artwork.
 
 ## A Deep History
 

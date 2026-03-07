@@ -4,7 +4,7 @@ slug: wrestling
 description: "Wrestling is a combat sport where two opponents grapple for control using throws, pins, and holds. Learn about styles, rules, Olympic history, and how to start."
 category: sports
 tags: ["wrestling", "combat sports", "Olympic sports", "grappling", "martial arts", "athletics"]
-heroImage: "/images/articles/wrestling.webp"
+heroImage: "/images/articles/wrestling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Wrestling is consistently rated among the most physically demanding sports. A co
 
 Wrestling traditions exist on every inhabited continent, and the cultural variations are fascinating.
 
-**Sumo** (Japan) — Wrestlers (rikishi) attempt to force opponents out of a circular ring or make them touch the ground with any body part other than the soles of their feet. Weight is an advantage, and top wrestlers often exceed 300 pounds. The ritual and ceremony surrounding sumo have made it Japan's national sport.
+**[Sumo](/sumo-wrestling)** (Japan) — Wrestlers (rikishi) attempt to force opponents out of a circular ring or make them touch the ground with any body part other than the soles of their feet. Weight is an advantage, and top wrestlers often exceed 300 pounds. The ritual and ceremony surrounding sumo have made it Japan's national sport.
 
 **Turkish oil wrestling** (Yağlı güreş) — Wrestlers cover themselves in olive oil, making grips incredibly difficult. Matches can last 30-40 minutes. The Kırkpınar tournament has been held annually since 1362, making it one of the oldest organized sporting competitions in the world.
 

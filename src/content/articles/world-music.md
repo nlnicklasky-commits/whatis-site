@@ -4,7 +4,7 @@ slug: world-music
 description: "World music is a broad category for traditional and contemporary music from non-Western cultures. Learn about genres, instruments, key artists, and ongoing."
 category: arts-culture
 tags: ["world music", "global music", "traditional music", "ethnomusicology", "folk music", "cultural music"]
-heroImage: "/images/articles/world-music.webp"
+heroImage: "/images/articles/world-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of world music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ Despite the category's problems, the music it encompasses is extraordinary. Here
 
 ### West African Music
 
-West Africa has produced some of the world's most influential musical traditions. Griot music (the hereditary musician-historians of the Mandinka, Wolof, and other peoples) features the kora (a 21-string harp-lute), balafon (wooden xylophone), and intricate vocal traditions. Afrobeat, created by Fela Kuti in Lagos in the late 1960s, fused Yoruba rhythms, jazz, funk, and political lyrics into extended compositions that influenced music globally. Highlife from Ghana and Nigeria blended local rhythms with Western instruments to create a genre that dominated West African pop for decades.
+West Africa has produced some of the world's most influential musical traditions. Griot music (the hereditary musician-historians of the Mandinka, Wolof, and other peoples) features the kora (a 21-string harp-lute), balafon (wooden xylophone), and detailed vocal traditions. Afrobeat, created by Fela Kuti in Lagos in the late 1960s, fused Yoruba rhythms, jazz, funk, and political lyrics into extended compositions that influenced music globally. Highlife from Ghana and Nigeria blended local rhythms with Western instruments to create a genre that dominated West African pop for decades.
 
 ### Indian Classical Music
 

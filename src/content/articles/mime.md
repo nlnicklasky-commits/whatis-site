@@ -1,10 +1,10 @@
 ---
 title: "What Is Mime?"
 slug: mime
-description: "Mime is a theatrical art form that tells stories through body movement and gesture without words. Learn about techniques, history, and famous mimes."
+description: "Mime is a theatrical art form that tells stories through body movement and gesture without words. Learn about techniques, history, and famous mimes. Discover..."
 category: everyday-concepts
 tags: ["mime", "performing arts", "theater", "physical theater", "Marcel Marceau", "silent performance"]
-heroImage: "/images/articles/mime.webp"
+heroImage: "/images/articles/mime-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mime"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ The art form relies on the extraordinary expressiveness of the human body. Every
 
 ## Ancient Roots
 
-Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated [physical comedy](/physical-[comedy](/comedy)) and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
+Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated [physical comedy](/physics)) and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
 
 Modern mime took shape in early 19th-century Paris. Jean-Gaspard Deburau created the character of Pierrot — the sad, white-faced, silent figure — at the Theatre des Funambules. This established the visual template that most people associate with mime today.
 

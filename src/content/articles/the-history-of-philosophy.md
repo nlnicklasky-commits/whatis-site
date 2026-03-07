@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Philosophy?"
 slug: the-history-of-philosophy
-description: "The history of philosophy follows 2,600 years of human thought on existence, knowledge, ethics, and reality across world traditions."
+description: "The history of philosophy follows 2,600 years of human thought on existence, knowledge, ethics, and reality across world traditions. Discover the key facts, ..."
 category: history
 tags: ["history of philosophy", "philosophy", "ancient philosophy", "ethics", "metaphysics"]
-heroImage: "/images/articles/the-history-of-philosophy.webp"
+heroImage: "/images/articles/the-history-of-philosophy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

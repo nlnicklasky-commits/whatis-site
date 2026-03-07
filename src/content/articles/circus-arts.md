@@ -4,7 +4,7 @@ slug: circus-arts
 description: "Circus arts encompass the performance disciplines of acrobatics, aerial arts, juggling, clowning, and other physical feats performed for entertainment."
 category: arts-amp-culture
 tags: ["circus arts", "acrobatics", "aerial arts", "juggling", "performance", "entertainment"]
-heroImage: "/images/articles/circus-arts.webp"
+heroImage: "/images/articles/circus-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of circus arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

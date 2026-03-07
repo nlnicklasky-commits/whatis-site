@@ -1,10 +1,10 @@
 ---
 title: "What Is Sustainable Development?"
 slug: sustainable-development
-description: "Sustainable development meets present needs without compromising future generations. Learn the principles, goals, and real-world challenges involved."
+description: "Sustainable development meets present needs without compromising future generations. Learn the principles, goals, and real-world challenges involved. Discove..."
 category: everyday-concepts
 tags: ["sustainable development", "sustainability", "environment", "economics", "United Nations", "climate"]
-heroImage: "/images/articles/sustainable-development.webp"
+heroImage: "/images/articles/sustainable-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sustainable development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

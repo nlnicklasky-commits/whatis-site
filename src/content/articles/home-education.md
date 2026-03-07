@@ -1,10 +1,10 @@
 ---
 title: "What Is Home Education?"
 slug: home-education
-description: "Home education (homeschooling) is parent-directed learning outside traditional schools. Learn about methods, legal requirements, and outcomes."
+description: "Home education (homeschooling) is parent-directed learning outside traditional schools. Learn about methods, legal requirements, and outcomes. Discover the k..."
 category: everyday-concepts
 tags: ["home education", "homeschooling", "education", "child development", "learning", "curriculum"]
-heroImage: "/images/articles/home-education.webp"
+heroImage: "/images/articles/home-education-hero.webp"
 heroAlt: "Editorial photograph representing the concept of home education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

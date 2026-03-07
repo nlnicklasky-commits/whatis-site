@@ -4,7 +4,7 @@ slug: perspective-drawing
 description: "Perspective drawing creates the illusion of depth on a flat surface using vanishing points and converging lines. Learn about one-point, two-point, and more."
 category: arts-amp-culture
 tags: ["drawing", "art", "illustration", "architecture", "design", "depth"]
-heroImage: "/images/articles/perspective-drawing.webp"
+heroImage: "/images/articles/perspective-drawing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of perspective drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

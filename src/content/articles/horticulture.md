@@ -1,7 +1,7 @@
 ---
 title: "What Is Horticulture?"
 slug: horticulture
-description: "Horticulture is the science and art of growing fruits, vegetables, flowers, and ornamental plants. Learn its branches, techniques, and career paths."
+description: "Horticulture is the science and art of growing fruits, vegetables, flowers, and ornamental plants. Learn its branches, techniques, and career paths. Discover..."
 category: science
 tags: ["horticulture", "gardening", "plants", "agriculture", "botany", "landscape design", "plant science"]
 heroImage: "/images/articles/horticulture-hero.webp"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Rhetoric?"
 slug: rhetoric
-description: "Rhetoric is the art of persuasive communication through language. Learn about ethos, pathos, logos, and why rhetoric still matters today."
+description: "Rhetoric is the art of persuasive communication through language. Learn about ethos, pathos, logos, and why rhetoric still matters today. Discover the key fa..."
 category: arts-amp-culture
 tags: ["rhetoric", "persuasion", "communication", "Aristotle", "speech", "writing"]
-heroImage: "/images/articles/rhetoric.webp"
+heroImage: "/images/articles/rhetoric-hero.webp"
 heroAlt: "Editorial photograph representing the concept of rhetoric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

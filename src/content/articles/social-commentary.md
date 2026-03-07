@@ -4,7 +4,7 @@ slug: social-commentary
 description: "Social commentary is art, writing, or speech that critiques aspects of society. Learn how artists and writers use their work to challenge the status quo."
 category: arts-amp-culture
 tags: ["social commentary", "satire", "critique", "art", "literature", "activism"]
-heroImage: "/images/articles/social-commentary.webp"
+heroImage: "/images/articles/social-commentary-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social commentary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "History suggests yes, though rarely directly. Harriet Beecher Stowe's Uncle Tom's Cabin (1852) influenced anti-slavery sentiment. Upton Sinclair's The Jungle (1906) led to food safety laws. More recently, works like The Handmaid's Tale have shaped public discourse about women's rights. Art rarely changes policy alone, but it shifts how people think and feel about issues — which eventually changes what they'll accept or demand."
 ---
 
-# What Is Social Commentary?
+# What Is [Social](/social-contract-theory) Commentary?
 
 Social commentary is the use of art, [literature](/literature), music, film, [comedy](/comedy), or any creative medium to make observations about society — its flaws, contradictions, inequalities, and absurdities. It's not neutral description; it's pointed observation with an angle. When a comedian jokes about healthcare costs, when a novelist writes about racial injustice, when a muralist paints corporate greed on a city wall — that's social commentary.
 

@@ -4,7 +4,7 @@ slug: music-composition
 description: "Music composition is the art of creating original musical works. Learn about the process, techniques, forms, and how composers turn ideas into finished pieces."
 category: arts-amp-culture
 tags: ["music composition", "composing", "songwriting", "music theory", "classical music", "music creation"]
-heroImage: "/images/articles/music-composition.webp"
+heroImage: "/images/articles/music-composition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of music composition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -91,7 +91,7 @@ MIDI controllers — keyboards, pad controllers, wind controllers — let compos
 
 ## Learning to Compose
 
-The traditional path runs through formal [music education](/music-[education](/education)) — conservatory or university programs [teaching](/teaching) theory, counterpoint, orchestration, and analysis. Studying scores by great composers is the literary equivalent of reading great novels before writing your own.
+The traditional path runs through formal [music education](/pop-music)) — conservatory or university programs [teaching](/teaching) theory, counterpoint, orchestration, and analysis. Studying scores by great composers is the literary equivalent of reading great novels before writing your own.
 
 But many working composers are self-taught or informally trained. The ability to hear, imagine, and organize sound matters more than credentials. What helps most is writing constantly — finishing pieces, hearing them performed (or at least played back through software), and critically evaluating what works and what doesn't.
 

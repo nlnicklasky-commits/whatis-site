@@ -1,7 +1,7 @@
 ---
 title: "What Is Networking?"
 slug: networking
-description: "Networking connects computers and devices to share data. Learn about protocols, LANs, WANs, the internet, and how modern networks actually work."
+description: "Networking connects computers and devices to share data. Learn about protocols, LANs, WANs, the internet, and how modern networks actually work. Discover the..."
 category: technology
 tags: ["networking", "computer networks", "internet", "protocols", "lan", "wan", "data communication"]
 heroImage: "/images/articles/networking-hero.webp"

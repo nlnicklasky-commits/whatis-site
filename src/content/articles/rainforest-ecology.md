@@ -1,7 +1,7 @@
 ---
 title: "What Is Rainforest Ecology?"
 slug: rainforest-ecology
-description: "Rainforest ecology studies how tropical forest organisms interact with each other and their environment, from canopy layers to nutrient cycling."
+description: "Rainforest ecology studies how tropical forest organisms interact with each other and their environment, from canopy layers to nutrient cycling. Discover the..."
 category: science
 tags: ["rainforest ecology", "tropical rainforest", "biodiversity", "ecology", "deforestation", "conservation", "ecosystems"]
 heroImage: "/images/articles/rainforest-ecology-hero.webp"
@@ -45,7 +45,7 @@ When most people picture a rainforest, they imagine a wall of green. And sure, t
 
 A single hectare of Amazonian rainforest can contain over 400 tree species. For comparison, the entire continent of Europe has about 500 native tree species total. That kind of density creates ecological dynamics you simply don't find anywhere else.
 
-The field of rainforest [ecology](/ecology) tries to make sense of this staggering complexity. How do so many species coexist without one outcompeting the rest? How does the forest maintain itself? And what happens when humans disrupt a system this intricate?
+The field of rainforest [ecology](/ecology) tries to make sense of this staggering complexity. How do so many species coexist without one outcompeting the rest? How does the forest maintain itself? And what happens when humans disrupt a system this involved?
 
 ## The [Architecture](/architecture): Layers of a Rainforest
 

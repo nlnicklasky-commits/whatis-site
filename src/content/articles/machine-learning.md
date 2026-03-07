@@ -31,6 +31,7 @@ faq:
     a: "Getting quality data is often the biggest hurdle. A machine learning model is only as good as the data it learns from—biased, incomplete, or poor-quality data leads to poor predictions."
 ---
 
+# What Is Machine Learning? How Computers Learn Without Being Programmed
 Machine learning is a branch of [artificial intelligence](/artificial-intelligence) that teaches computers to learn patterns from data and make predictions without being explicitly programmed for every scenario. Rather than following step-by-step instructions you write out, a machine learning system examines examples, identifies patterns, and then applies what it learned to new, unseen data.
 
 The fundamental idea is deceptively simple: show a computer lots of examples, let it figure out the underlying rules, and trust it to apply those rules to situations it's never encountered before.
@@ -49,7 +50,7 @@ Machine learning works fundamentally through iteration and feedback. Here's the 
 
 **Step one: You collect data.** This might be thousands (or millions) of photos labeled with what's in them. Customer transactions labeled as "fraud" or "legitimate." Emails labeled as "spam" or "not spam." The labels are crucial—they're the answer key the system learns from.
 
-**Step two: You choose a model architecture.** A model is essentially a mathematical structure with adjustable parameters. Think of it like a recipe where the ingredients are fixed but the amounts are variable. Different model types work better for different problems—decision trees for some tasks, [neural networks](/neural-network) for others, linear regression for straightforward relationships.
+**Step two: You choose a model architecture.** A model is essentially a mathematical structure with adjustable parameters. Think of it like a recipe where the ingredients are fixed but the amounts are variable. Different model types work better for different problems—decision trees for some tasks, [neural networks](/neural-networks) for others, linear regression for straightforward relationships.
 
 **Step three: You feed data through the model.** The model makes predictions based on its current (usually random) parameters. Those predictions will be terrible at first. A randomly initialized neural network asked to recognize cats will be spectacularly wrong.
 
@@ -65,9 +66,9 @@ This cycle—predict, measure error, adjust, repeat—is the heartbeat of machin
 
 Not all machine learning works the same way. The main categories reflect different assumptions about what you're trying to accomplish.
 
-**Supervised learning** is what most people imagine when they think of machine learning. You have labeled data (inputs paired with correct outputs), and you're trying to learn the relationship between them. Predict house prices based on features like square footage and location. Classify emails as spam or not spam. Predict whether a patient has a disease based on medical tests. The label—the correct answer—supervises the learning process. This is why it's called "supervised." [Classification](/classification) and [regression](/regression) are the two major flavors of supervised learning tasks.
+**Supervised learning** is what most people imagine when they think of machine learning. You have labeled data (inputs paired with correct outputs), and you're trying to learn the relationship between them. Predict house prices based on features like square footage and location. Classify emails as spam or not spam. Predict whether a patient has a disease based on medical tests. The label—the correct answer—supervises the learning process. This is why it's called "supervised." [Classification](/neoclassicism) and regression are the two major flavors of supervised learning tasks.
 
-**Unsupervised learning** has no labels. You just have data, and you're looking for hidden patterns or structure within it. Maybe you have customer purchase histories, and you want to discover natural groupings—customer segments that share similar buying behaviors. You're not predicting a specific outcome; you're exploring. [Clustering](/clustering) algorithms group similar items together. [Dimensionality reduction](/dimensionality-reduction) techniques simplify high-dimensional data while preserving important patterns.
+**Unsupervised learning** has no labels. You just have data, and you're looking for hidden patterns or structure within it. Maybe you have customer purchase histories, and you want to discover natural groupings—customer segments that share similar buying behaviors. You're not predicting a specific outcome; you're exploring. Clustering algorithms group similar items together. [Dimensionality reduction](/sedimentology) techniques simplify high-dimensional data while preserving important patterns.
 
 **[Reinforcement learning](/reinforcement-learning)** mimics how humans and animals learn through trial and error, with rewards and penalties. An AI playing chess or Go doesn't learn from labeled game outcomes; it learns by playing thousands of games, receiving a reward signal when it wins. AlphaGo, the system that defeated world champions at Go, learned primarily through reinforcement learning—playing against itself millions of times and getting better through feedback.
 
@@ -85,7 +86,7 @@ The term "model" gets used loosely, but it refers to the specific mathematical s
 
 **Random forests** build multiple decision trees and combine their predictions, usually through averaging or voting. This ensemble approach typically outperforms single trees while reducing overfitting.
 
-**[Neural networks](/neural-network)**, especially [deep learning](/deep-learning) architectures, are inspired by how brains process information. They're networks of interconnected nodes (neurons) arranged in layers. Data flows in one side, gets transformed by each layer, and produces an output. Deep networks have many layers, enabling them to learn incredibly complex, non-linear patterns. Convolutional neural networks (CNNs) excel at image recognition. Recurrent neural networks (RNNs) handle sequential data like text and time series. Transformers, the architecture behind modern language models, process entire sequences in parallel rather than step-by-step.
+**[Neural networks](/neural-networks)**, especially [deep learning](/deep-learning) architectures, are inspired by how brains process information. They're networks of interconnected nodes (neurons) arranged in layers. Data flows in one side, gets transformed by each layer, and produces an output. Deep networks have many layers, enabling them to learn incredibly complex, non-linear patterns. Convolutional neural networks (CNNs) excel at image recognition. Recurrent neural networks (RNNs) handle sequential data like text and time series. Transformers, the architecture behind modern language models, process entire sequences in parallel rather than step-by-step.
 
 The choice of model depends on your specific problem—the size of your data, the nature of the relationships you're trying to capture, how much interpretability you need, and your computational resources.
 

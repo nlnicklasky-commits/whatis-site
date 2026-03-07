@@ -4,7 +4,7 @@ slug: immunology
 description: "Immunology is the study of the immune system — how your body fights infections and disease. Learn about immune cells, vaccines, and autoimmune disorders."
 category: everyday-concepts
 tags: ["immunology", "immune system", "biology", "medicine", "vaccines", "autoimmune"]
-heroImage: "/images/articles/immunology.webp"
+heroImage: "/images/articles/immunology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of immunology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ Two interconnected systems handle defense:
 
 ## The Key Players
 
-**B cells** produce antibodies — Y-shaped proteins that bind to specific molecules (antigens) on pathogen surfaces. Each B cell produces antibodies targeting one specific antigen. When activated, B cells multiply and flood the body with antibodies that tag pathogens for destruction. Some B cells become long-lived memory cells that persist for decades.
+**B cells** produce antibodies — Y-shaped proteins that bind to specific molecules (antigens) on pathogen surfaces. Each B [cell](/cell-biology) produces antibodies targeting one specific antigen. When activated, B cells multiply and flood the body with antibodies that tag pathogens for destruction. Some B cells become long-lived memory cells that persist for decades.
 
 **T cells** come in several varieties. **Helper T cells** (CD4+) coordinate the immune response — they activate B cells, call in reinforcements, and orchestrate the attack. **Cytotoxic T cells** (CD8+) directly kill infected cells by recognizing pathogen fragments displayed on cell surfaces. **Regulatory T cells** suppress immune responses to prevent overreaction.
 
@@ -76,7 +76,7 @@ Traditional vaccines use killed pathogens (inactivated vaccines), weakened patho
 
 In all cases, the result is the same: your adaptive immune system creates memory cells that recognize the pathogen. If you encounter the real thing later, your immune response is faster, stronger, and often prevents illness entirely.
 
-Vaccines have eliminated smallpox (the only human disease eradicated), nearly eliminated polio, and dramatically reduced deaths from measles, tetanus, diphtheria, whooping cough, and many other diseases. The WHO estimates that vaccines prevent 3.5 to 5 million deaths per year.
+Vaccines have eliminated smallpox (the only [human](/human-evolution) disease eradicated), nearly eliminated polio, and dramatically reduced deaths from measles, tetanus, diphtheria, whooping cough, and many other diseases. The WHO estimates that vaccines prevent 3.5 to 5 million deaths per year.
 
 ## When the System Goes Wrong
 

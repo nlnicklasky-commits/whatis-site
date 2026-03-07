@@ -4,7 +4,7 @@ slug: graphic-design
 description: "Graphic design uses typography, imagery, and layout to communicate ideas visually. Learn about design principles, tools, career paths, and the field today."
 category: arts-amp-culture
 tags: ["graphic design", "design", "visual communication", "branding", "typography", "logo design"]
-heroImage: "/images/articles/graphic-design.webp"
+heroImage: "/images/articles/graphic-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of graphic design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

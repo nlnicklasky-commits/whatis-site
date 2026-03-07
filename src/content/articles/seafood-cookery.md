@@ -4,7 +4,7 @@ slug: seafood-cookery
 description: "Seafood cookery covers the techniques for preparing fish, shellfish, and other marine foods. Learn methods, safety tips, and how to buy fresh seafood."
 category: everyday-concepts
 tags: ["seafood", "cooking", "culinary", "fish", "shellfish", "recipes"]
-heroImage: "/images/articles/seafood-cookery.webp"
+heroImage: "/images/articles/seafood-cookery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of seafood cookery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Protohistory?"
 slug: protohistory
-description: "Protohistory is the transitional period between prehistory and recorded history. Learn how it differs from both, and why this in-between era matters."
+description: "Protohistory is the transitional period between prehistory and recorded history. Learn how it differs from both, and why this in-between era matters. Discove..."
 category: history
 tags: ["protohistory", "prehistory", "archaeology", "early history"]
-heroImage: "/images/articles/protohistory.webp"
+heroImage: "/images/articles/protohistory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of protohistory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

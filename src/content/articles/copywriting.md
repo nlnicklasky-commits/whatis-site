@@ -1,10 +1,10 @@
 ---
 title: "What Is Copywriting?"
 slug: copywriting
-description: "Copywriting is writing text that persuades people to take action. Learn about techniques, types of copy, career paths, and what makes copy effective."
+description: "Copywriting is writing text that persuades people to take action. Learn about techniques, types of copy, career paths, and what makes copy effective. Discove..."
 category: everyday-concepts
 tags: ["marketing", "advertising", "writing", "sales", "content creation", "branding"]
-heroImage: "/images/articles/copywriting.webp"
+heroImage: "/images/articles/copywriting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of copywriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

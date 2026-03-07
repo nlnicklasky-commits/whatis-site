@@ -4,7 +4,7 @@ slug: tantra
 description: "Tantra is a spiritual tradition within Hinduism and Buddhism focused on ritual, meditation, and energy practices. Learn what it actually involves and means."
 category: religion
 tags: ["tantra", "spirituality", "hinduism", "buddhism", "shakti", "mantra"]
-heroImage: "/images/articles/tantra.webp"
+heroImage: "/images/articles/tantra-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tantra"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -97,4 +97,4 @@ Traditional tantric practitioners and scholars have repeatedly pointed out that 
 
 Tantra profoundly influenced Indian art, temple [architecture](/architecture), yoga practices, and devotional traditions. Many practices that modern Westerners associate with "yoga" — including chakra work, kundalini practices, and certain meditation techniques — have tantric origins.
 
-The tradition remains alive in Hindu temples that follow tantric ritual protocols, in Tibetan Buddhist monasteries where tantric practices continue, and in the lineage-based traditions that transmit specific practices from teacher to student across [generations](/comparative-[religion](/religion)).
+The tradition remains alive in Hindu temples that follow tantric ritual protocols, in Tibetan Buddhist monasteries where tantric practices continue, and in the lineage-based traditions that transmit specific practices from teacher to student across [generations](/composting)).

@@ -4,7 +4,7 @@ slug: tailoring
 description: "Tailoring is the craft of cutting and sewing fabric to create fitted garments. Learn the techniques, history, and difference between bespoke and off-the-rack."
 category: everyday-concepts
 tags: ["tailoring", "fashion", "sewing", "bespoke", "garments", "craft"]
-heroImage: "/images/articles/tailoring.webp"
+heroImage: "/images/articles/tailoring-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tailoring"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: language-acquisition
 description: "Language acquisition is how humans learn to understand and produce language. Learn about first and second language learning, key theories, and critical periods."
 category: everyday-concepts
 tags: ["language acquisition", "linguistics", "child development", "second language", "Chomsky", "education"]
-heroImage: "/images/articles/language-acquisition.webp"
+heroImage: "/images/articles/language-acquisition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of language acquisition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -65,7 +65,7 @@ There appears to be a window — roughly from birth to puberty — during which 
 
 The strongest evidence comes from tragic cases of children deprived of language input. Genie, discovered in 1970 at age 13 after years of extreme isolation, never achieved normal language despite intensive intervention. Children who are deaf and not exposed to [sign language](/sign-language) until after puberty develop language but never reach native-level fluency.
 
-For second language learning, the critical period evidence is more nuanced. Adults can and do learn second languages to high levels of proficiency. But achieving native-like pronunciation becomes progressively harder after childhood, and intuitive grammatical judgment (the "feel" for what sounds right) rarely reaches native levels in late learners.
+For second language learning, the critical period evidence is more layered. Adults can and do learn second languages to high levels of proficiency. But achieving native-like pronunciation becomes progressively harder after childhood, and intuitive grammatical judgment (the "feel" for what sounds right) rarely reaches native levels in late learners.
 
 ## [Second Language Acquisition](/second-language-acquisition)
 

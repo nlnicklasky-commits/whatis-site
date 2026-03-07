@@ -4,7 +4,7 @@ slug: thesaurus-construction
 description: "Thesaurus construction is the process of building structured vocabularies that map relationships between terms for information retrieval and knowledge."
 category: technology
 tags: ["thesaurus construction", "information retrieval", "knowledge organization"]
-heroImage: "/images/articles/thesaurus-construction.webp"
+heroImage: "/images/articles/thesaurus-construction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of thesaurus construction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -172,7 +172,7 @@ A thesaurus is never finished. New concepts emerge, terminology changes, and usa
 
 ## Thesauri in the Digital Age
 
-You might wonder whether thesauri are obsolete. Full-text search engines like Google seem to do fine without them. But the picture is more nuanced than that.
+You might wonder whether thesauri are obsolete. Full-text search engines like Google seem to do fine without them. But the picture is more subtle than that.
 
 Google uses something very much like a thesaurus — its Knowledge Graph contains entities, relationships, and synonyms that help it understand queries. When you search for "Eiffel Tower height," Google doesn't just match keywords — it understands that "Eiffel Tower" is a specific entity with a "height" property. That understanding is built on structured knowledge that functions much like a thesaurus.
 

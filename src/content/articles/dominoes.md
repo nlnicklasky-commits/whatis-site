@@ -4,7 +4,7 @@ slug: dominoes
 description: "Dominoes is a tile-based game played worldwide for centuries. Learn the rules, popular variants, strategy, history, and how to play this classic game."
 category: everyday-concepts
 tags: ["dominoes", "everyday-concepts"]
-heroImage: "/images/articles/dominoes.webp"
+heroImage: "/images/articles/dominoes-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dominoes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -53,7 +53,7 @@ That's it. Five minutes to learn. But the strategy goes deeper than it looks.
 
 Good dominoes players track what's been played and calculate probabilities about what opponents hold.
 
-**Counting pips** is the fundamental skill. A double-six set contains a total of 168 pips across 28 tiles. Each value (0-6) appears on exactly eight tiles. If you hold three sixes and two are on the board, only three sixes remain among your opponents' tiles. This information guides decisions about which end of the chain to play and when to hold certain tiles.
+**Counting pips** is the fundamental skill. A double-six set contains a total of 168 pips across 28 tiles. Each value (0-6) appears on exactly eight tiles. If you hold three sixes and two are on the [board](/board-games), only three sixes remain among your opponents' tiles. This information guides decisions about which end of the chain to play and when to hold certain tiles.
 
 **Controlling the board** means playing tiles that create ends you can match while limiting opponents' options. If you hold several fives, playing tiles that leave fives on both open ends is powerful — you can always play, and opponents often can't.
 
@@ -77,7 +77,7 @@ In the Caribbean, dominoes isn't just a game — it's a social ritual. Tables ap
 
 In China, where dominoes originated, they evolved into different games including Tien Gow and Pai Gow (which later became the basis for Pai Gow [Poker](/poker) played in casinos). Chinese dominoes use a 32-tile set with different pip distributions than Western sets.
 
-The non-game use of dominoes — standing them on end in elaborate chains and toppling them — has become its own art form. Domino toppling world records involve millions of tiles arranged in complex patterns that cascade when triggered. The current record for most dominoes toppled in a chain is over 5 million.
+The non-game use of dominoes — standing them on end in elaborate chains and toppling them — has become its own art form. Domino toppling world records involve millions of tiles arranged in [complex](/complex-analysis) patterns that cascade when triggered. The current record for most dominoes toppled in a chain is over 5 million.
 
 ## Why Dominoes Endures
 

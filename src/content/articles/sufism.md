@@ -1,10 +1,10 @@
 ---
 title: "What Is Sufism?"
 slug: sufism
-description: "Sufism is the mystical tradition within Islam focused on direct personal experience of God through devotion, meditation, and spiritual purification."
+description: "Sufism is the mystical tradition within Islam focused on direct personal experience of God through devotion, meditation, and spiritual purification. Discover..."
 category: philosophy
 tags: ["religion", "sufism", "islam", "mysticism", "spirituality", "meditation"]
-heroImage: "/images/articles/sufism.webp"
+heroImage: "/images/articles/sufism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sufism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "Yes. Sufi orders remain active across the Muslim world — from Morocco to Indonesia, Turkey to Pakistan. Some estimates suggest hundreds of millions of Muslims identify with or are influenced by Sufi traditions."
 ---
 
+# What Is Sufism?
 Sufism (Arabic: *tasawwuf*) is the mystical and ascetic tradition within Islam that seeks direct, personal experience of God through practices of devotion, meditation, remembrance, and spiritual purification. It emphasizes the inner dimensions of faith over outward ritual alone.
 
 You might have encountered Sufism through Rumi's poetry — those gorgeous lines about love and longing that show up on Instagram and wedding invitations. But Sufism is far more than quotable verses. It's a living tradition that has shaped Islamic civilization for over a thousand years, producing some of the world's greatest [literature](/literature), music, art, and philosophy. And its core question is one that resonates across every culture: how do you experience the divine directly, not just believe in it?
@@ -135,7 +136,7 @@ Sufism has produced an extraordinary artistic legacy. Some of the greatest works
 
 **Music** has been central to many Sufi traditions. The *qawwali* devotional music of South Asia, the *gnawa* music of Morocco, the *ilahi* hymns of Turkey, and the *hadra* rhythmic chanting of North Africa all emerged from Sufi practice. Many Sufi orders use music and rhythmic movement to induce states of spiritual ecstasy — despite ongoing debates within Islam about the permissibility of music.
 
-**[Calligraphy](/calligraphy) and [visual arts](/visual-arts)** also carry Sufi influence. The intricate geometric patterns of Islamic art are sometimes interpreted as visual representations of divine unity and cosmic order — themes central to Sufi [metaphysics](/metaphysics).
+**[Calligraphy](/calligraphy) and [visual arts](/visual-arts)** also carry Sufi influence. The involved geometric patterns of Islamic art are sometimes interpreted as visual representations of divine unity and cosmic order — themes central to Sufi [metaphysics](/metaphysics).
 
 **[Architecture](/architecture)** bears Sufi marks across the Islamic world. Sufi shrines (*dargahs*, *tekkes*, *zawiyas*) are among the most beautiful buildings in cities from Istanbul to Delhi to Fez. The tomb of Rumi in Konya, Turkey — the "Green Dome" — attracts millions of visitors annually.
 

@@ -4,7 +4,7 @@ slug: costume-design
 description: "Costume design is the art of creating clothing for theater, film, and TV characters. Learn about the design process, famous designers, and career paths."
 category: arts-amp-culture
 tags: ["costume design", "theater", "film", "fashion", "character", "production"]
-heroImage: "/images/articles/costume-design.webp"
+heroImage: "/images/articles/costume-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of costume design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: plastering
 description: "Plastering is the craft of applying plaster to walls and ceilings for smooth, durable finishes. Learn about techniques, materials, and different plaster types."
 category: everyday-concepts
 tags: ["construction", "building", "plaster", "walls", "ceilings", "craft"]
-heroImage: "/images/articles/plastering.webp"
+heroImage: "/images/articles/plastering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of plastering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -43,7 +43,7 @@ Lime plaster has properties that make it superior to gypsum in certain applicati
 
 **Cement plaster** ([stucco](/stucco), when used on exteriors) combines Portland cement with sand and water. It's stronger and more water-resistant than either gypsum or lime plaster, making it suitable for exterior surfaces. It sets hard and brittle — less forgiving of building movement than lime plaster.
 
-**Clay plaster** uses natural clay as the binder, mixed with sand and often straw or other fibers. It's the oldest plaster type and is experiencing a revival in green building. Clay plaster is non-toxic, regulates humidity naturally, and has a warm, earthy aesthetic.
+**Clay plaster** uses [natural](/natural-building) clay as the binder, mixed with sand and often straw or other fibers. It's the oldest plaster type and is experiencing a revival in green building. Clay plaster is non-toxic, regulates humidity naturally, and has a warm, earthy aesthetic.
 
 ## The Process
 
@@ -81,4 +81,4 @@ But plaster has real advantages:
 
 The tradeoff is cost. Wet plastering costs 3-5 times more than drywall, almost entirely due to labor. In new construction where budget matters, drywall wins. In historic restoration, high-end custom homes, and buildings where quality justifies cost, plaster remains the superior finish.
 
-Plastering is a [trade](/trade) where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an [oil painting](/oil-[painting](/painting)) — both cover the wall, but one has a quality the other doesn't.
+Plastering is a [trade](/trade) where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an [oil painting](/soil-science)) — both cover the wall, but one has a quality the other doesn't.

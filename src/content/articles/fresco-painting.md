@@ -4,7 +4,7 @@ slug: fresco-painting
 description: "Fresco painting applies pigment to wet plaster, creating durable wall art. Learn about buon fresco technique, famous frescoes, and its lasting influence."
 category: everyday-concepts
 tags: ["fresco painting", "mural art", "Renaissance art", "Michelangelo", "wall painting", "art history"]
-heroImage: "/images/articles/fresco-painting.webp"
+heroImage: "/images/articles/fresco-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fresco painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

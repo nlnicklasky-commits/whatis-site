@@ -1,10 +1,10 @@
 ---
 title: "What Is Political Science?"
 slug: political-science
-description: "Political science studies how governments, power structures, and public policies work. Learn its subfields, methods, and why it matters."
+description: "Political science studies how governments, power structures, and public policies work. Learn its subfields, methods, and why it matters. Discover the key fac..."
 category: everyday-concepts
 tags: ["politics", "government", "power", "public policy", "international relations", "political theory"]
-heroImage: "/images/articles/political-science.webp"
+heroImage: "/images/articles/political-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of political science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

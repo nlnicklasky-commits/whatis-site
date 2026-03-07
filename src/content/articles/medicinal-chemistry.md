@@ -1,7 +1,7 @@
 ---
 title: "What Is Medicinal Chemistry?"
 slug: medicinal-chemistry
-description: "Medicinal chemistry designs and optimizes drug molecules for treating disease. Learn about drug discovery, SAR, pharmacology, and career paths."
+description: "Medicinal chemistry designs and optimizes drug molecules for treating disease. Learn about drug discovery, SAR, pharmacology, and career paths. Discover the ..."
 category: science
 tags: ["medicinal chemistry", "drug design", "pharmacology", "chemistry", "pharmaceuticals", "molecular biology", "drug discovery"]
 heroImage: "/images/articles/medicinal-chemistry-hero.webp"
@@ -69,7 +69,7 @@ This period established the model that still drives the field: discover a biolog
 
 ### The Rational Design Era (1970s -- Present)
 
-The arrival of [X-ray crystallography](/x-ray-[crystallography](/crystallography)), nuclear magnetic resonance (NMR), and computational chemistry allowed scientists to see drug targets at the molecular level for the first time. Instead of blindly testing thousands of compounds, chemists could now *design* molecules to fit specific biological targets --- like fitting a key to a lock.
+The arrival of [X-ray crystallography](/x-ray-crystallography)), nuclear magnetic resonance (NMR), and computational chemistry allowed scientists to see drug targets at the molecular level for the first time. Instead of blindly testing thousands of compounds, chemists could now *design* molecules to fit specific biological targets --- like fitting a key to a lock.
 
 The HIV protease inhibitors of the 1990s were triumphs of rational drug design. Scientists determined the three-dimensional structure of the HIV protease enzyme, then designed molecules that fit into its active site and blocked its function. These drugs transformed HIV from a death sentence into a manageable chronic condition.
 

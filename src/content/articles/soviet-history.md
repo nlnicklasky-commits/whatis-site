@@ -1,10 +1,10 @@
 ---
 title: "What Is Soviet History?"
 slug: soviet-history
-description: "Soviet history covers the rise and fall of the USSR from 1917 to 1991. Learn about its revolutions, leaders, Cold War role, and lasting impact."
+description: "Soviet history covers the rise and fall of the USSR from 1917 to 1991. Learn about its revolutions, leaders, Cold War role, and lasting impact. Discover the ..."
 category: history
 tags: ["soviet history", "ussr", "communism", "cold war"]
-heroImage: "/images/articles/soviet-history.webp"
+heroImage: "/images/articles/soviet-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soviet history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

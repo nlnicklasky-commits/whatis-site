@@ -1,10 +1,10 @@
 ---
 title: "What Is Scholasticism?"
 slug: scholasticism
-description: "Scholasticism was a medieval method of learning that used logic and debate to reconcile faith with reason. Here's how it shaped Western thought."
+description: "Scholasticism was a medieval method of learning that used logic and debate to reconcile faith with reason. Here's how it shaped Western thought. Discover the..."
 category: everyday-concepts
 tags: ["scholasticism", "medieval philosophy", "theology", "logic", "Thomas Aquinas", "university"]
-heroImage: "/images/articles/scholasticism.webp"
+heroImage: "/images/articles/scholasticism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of scholasticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

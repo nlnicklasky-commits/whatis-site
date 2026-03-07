@@ -4,7 +4,7 @@ slug: indian-mythology
 description: "Indian mythology encompasses the gods, epics, and creation stories of Hindu, Buddhist, and Jain traditions. Learn about key deities, texts, and themes."
 category: arts-amp-culture
 tags: ["indian mythology", "hinduism", "mythology", "ramayana", "mahabharata", "gods"]
-heroImage: "/images/articles/indian-mythology.webp"
+heroImage: "/images/articles/indian-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of indian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

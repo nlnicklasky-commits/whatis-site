@@ -4,7 +4,7 @@ slug: film-history
 description: "Film history traces cinema from its 1890s invention to today's streaming era. Explore the key movements, technologies, and films that shaped the medium."
 category: everyday-concepts
 tags: ["film history", "cinema", "movies", "Hollywood", "silent film", "film movements"]
-heroImage: "/images/articles/film-history.webp"
+heroImage: "/images/articles/film-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of film history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

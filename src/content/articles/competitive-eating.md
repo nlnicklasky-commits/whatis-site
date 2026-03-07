@@ -4,7 +4,7 @@ slug: competitive-eating
 description: "Competitive eating is a sport where contestants race to consume large quantities of food. Learn about its history, top eaters, events, and controversies."
 category: sports
 tags: ["competitive eating", "eating contests", "sports", "entertainment", "nathan's hot dogs", "endurance"]
-heroImage: "/images/articles/competitive-eating.webp"
+heroImage: "/images/articles/competitive-eating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of competitive eating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -65,7 +65,7 @@ This is where things get uncomfortable. Competitive eating is objectively hard o
 
 Short-term risks include choking (the most dangerous), nausea, gastric distress, and in extreme cases, gastric rupture — where the stomach literally tears. Several deaths have occurred at amateur eating contests, primarily from choking.
 
-Long-term effects are less studied, but concerns include damage to the esophageal sphincter, disrupted hunger signaling, and potential impacts on metabolic function. A 2007 study published in the *American Journal of Roentgenology* compared a competitive eater's stomach to a normal person's and found dramatically different gastric function — the competitive eater's stomach had essentially lost its normal contraction patterns.
+Long-term effects are less studied, but concerns include damage to the esophageal sphincter, disrupted hunger signaling, and potential impacts on metabolic function. A 2007 study published in the *[American](/american-football) Journal of Roentgenology* compared a competitive eater's stomach to a normal person's and found dramatically different gastric function — the competitive eater's stomach had essentially lost its normal contraction patterns.
 
 MLE requires participants to sign waivers and has medical staff at sanctioned events. Amateur contests — the ones at county fairs and bar promotions — are significantly more dangerous because they often lack proper safety protocols.
 
@@ -87,4 +87,4 @@ International variations exist too. Japan has competitive eating shows with mass
 
 Each food presents unique challenges. Wings require bone-stripping technique. Watermelon involves managing volume with relatively low calorie density. Jalapeños add the dimension of capsaicin heat. The skill sets are surprisingly distinct — dominance in one food doesn't guarantee success in another.
 
-Competitive eating remains a niche but surprisingly durable part of the sports and entertainment world. Whether you see it as athletic achievement, cultural curiosity, or cautionary tale probably says as much about you as it does about the sport itself.
+Competitive eating remains a niche but surprisingly durable part of the [sports](/sports-broadcasting) and entertainment world. Whether you see it as athletic achievement, cultural curiosity, or cautionary tale probably says as much about you as it does about the sport itself.

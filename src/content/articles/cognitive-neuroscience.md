@@ -1,7 +1,7 @@
 ---
 title: "What Is Cognitive Neuroscience?"
 slug: cognitive-neuroscience
-description: "Cognitive neuroscience studies how brain structures and neural activity produce thought, memory, perception, and decision-making in humans."
+description: "Cognitive neuroscience studies how brain structures and neural activity produce thought, memory, perception, and decision-making in humans. Discover the key ..."
 category: science
 tags: ["cognitive neuroscience", "neuroscience", "psychology", "brain", "cognition", "neuroimaging", "mental processes"]
 heroImage: "/images/articles/cognitive-neuroscience-hero.webp"

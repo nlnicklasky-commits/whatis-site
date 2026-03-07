@@ -1,7 +1,7 @@
 ---
 title: "What Is Forestry?"
 slug: forestry
-description: "Forestry is the science and practice of managing forests for timber, biodiversity, water protection, carbon storage, and recreation."
+description: "Forestry is the science and practice of managing forests for timber, biodiversity, water protection, carbon storage, and recreation. Discover the key facts, ..."
 category: science
 tags: ["forests", "conservation", "sustainability", "ecology", "timber", "natural resources", "environmental science"]
 heroImage: "/images/articles/forestry-hero.webp"
@@ -117,7 +117,7 @@ The most effective long-term strategy is maintaining healthy, diverse forests. M
 
 ## Forest Mensuration and Inventory
 
-You can't manage what you can't measure. Forest mensuration — the measurement of tree and forest characteristics — underpins all management decisions.
+You can't manage what you can't measure. Forest mensuration — the measurement of tree and forest characteristics — is the foundation of all management decisions.
 
 Foresters measure tree diameter (at breast height, 4.5 feet above ground), height, age (by counting growth rings in an increment core), crown characteristics, and defects. From individual tree measurements, they estimate stand-level metrics: trees per acre, basal area (total cross-sectional area of all trees), volume per acre, and growth rate.
 

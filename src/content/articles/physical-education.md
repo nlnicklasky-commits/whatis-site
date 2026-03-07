@@ -4,7 +4,7 @@ slug: physical-education
 description: "Physical education teaches movement skills, fitness, and healthy habits through structured activity in schools. Learn about its goals, benefits, and methods."
 category: sports
 tags: ["education", "fitness", "health", "sports", "movement", "wellness"]
-heroImage: "/images/articles/physical-education.webp"
+heroImage: "/images/articles/physical-education-hero.webp"
 heroAlt: "Editorial photograph representing the concept of physical education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: guerrilla-marketing
 description: "Guerrilla marketing uses unconventional, low-cost tactics to promote products through surprise and creativity. Learn about its strategies, examples, and risks."
 category: everyday-concepts
 tags: ["guerrilla marketing", "marketing", "advertising", "branding", "viral marketing", "unconventional"]
-heroImage: "/images/articles/guerrilla-marketing.webp"
+heroImage: "/images/articles/guerrilla-marketing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of guerrilla marketing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Guerrilla marketing is an advertising strategy that uses unconventional, low-cos
 
 ## The Core Idea
 
-Traditional marketing operates through purchased media: TV commercials, magazine ads, digital banner ads, sponsored search results. You pay for exposure. The more you pay, the more people see your message. Big companies with big budgets dominate because they can simply outspend everyone.
+Traditional marketing operates through purchased media: TV commercials, magazine ads, [digital](/digital-marketing) banner ads, sponsored search results. You pay for exposure. The more you pay, the more people see your message. Big companies with big budgets dominate because they can simply outspend everyone.
 
 Guerrilla marketing rejects that model — or at least supplements it. Instead of paying for attention, you earn it by creating something so surprising, clever, or entertaining that people voluntarily pay attention and share it with others. A brilliant guerrilla campaign can generate millions of impressions for the cost of materials and labor.
 

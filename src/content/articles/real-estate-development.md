@@ -1,10 +1,10 @@
 ---
 title: "What Is Real Estate Development?"
 slug: real-estate-development
-description: "Real estate development is the process of creating value by improving land and buildings. Learn about the stages, financing, risks, and key players."
+description: "Real estate development is the process of creating value by improving land and buildings. Learn about the stages, financing, risks, and key players. Discover..."
 category: business
 tags: ["real estate", "development", "property", "construction"]
-heroImage: "/images/articles/real-estate-development.webp"
+heroImage: "/images/articles/real-estate-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of real estate development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

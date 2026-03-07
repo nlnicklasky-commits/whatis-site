@@ -4,7 +4,7 @@ slug: fitness
 description: "Fitness is your body's ability to perform physical tasks effectively. It covers cardiovascular endurance, strength, flexibility, and body composition."
 category: health-amp-wellness
 tags: ["health", "exercise", "physical activity", "nutrition", "wellness", "strength training"]
-heroImage: "/images/articles/fitness.webp"
+heroImage: "/images/articles/fitness-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fitness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -113,7 +113,7 @@ The key nutritional principles for fitness are surprisingly straightforward:
 
 ## The [Mental Health](/mental-health) Connection
 
-The mental health benefits of exercise are, honestly, almost as impressive as the physical ones. Regular physical activity reduces symptoms of depression by 20-30% on average, according to multiple meta-analyses. It reduces anxiety. It improves sleep quality. It enhances [cognitive](/cognitive-[psychology](/psychology)) function, including memory and attention.
+The mental health benefits of exercise are, honestly, almost as impressive as the physical ones. Regular physical activity reduces symptoms of depression by 20-30% on average, according to multiple meta-analyses. It reduces anxiety. It improves sleep quality. It enhances [cognitive](/cognitive-bias)) function, including memory and attention.
 
 The mechanisms are well-documented: exercise increases production of brain-derived neurotrophic factor (BDNF), which supports the growth of new neurons. It triggers endorphin release. It reduces cortisol (the stress hormone) over time. It improves blood flow to the brain.
 

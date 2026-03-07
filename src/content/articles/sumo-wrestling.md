@@ -4,7 +4,7 @@ slug: sumo-wrestling
 description: "Sumo wrestling is Japan's ancient national sport where two wrestlers try to force each other out of a ring. Learn the rules, rituals, and ranking system."
 category: sports
 tags: ["sumo wrestling", "sports", "Japan", "martial arts", "wrestling", "tradition"]
-heroImage: "/images/articles/sumo-wrestling.webp"
+heroImage: "/images/articles/sumo-wrestling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sumo wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Yes, but with restrictions. Foreign-born wrestlers have competed in professional sumo since the 1960s, and several have reached the highest rank of yokozuna. However, each sumo stable is limited to one foreign recruit at a time, which limits the total number of foreign wrestlers in the sport."
 ---
 
-# What Is Sumo Wrestling?
+# What Is Sumo [Wrestling](/wrestling)?
 
 Sumo is Japan's national sport — a form of wrestling where two competitors face off inside a small circular ring, each trying to force the other out of the ring or make them touch the ground with anything other than the soles of their feet. Matches typically last just seconds. The rituals surrounding them can last minutes.
 
@@ -67,7 +67,7 @@ All of this ritual isn't decorative fluff — it's integral to what sumo is. The
 
 Professional sumo uses a strict hierarchical ranking called *banzuke*, published before each tournament. The top division (*makuuchi*) has only 42 wrestlers. Within it:
 
-- **Yokozuna** — Grand Champion. The highest rank. Only about 70 wrestlers have held this title in recorded history. Once promoted, a yokozuna can never be demoted — they're expected to retire if their performance drops.
+- **Yokozuna** — Grand Champion. The highest rank. Only about 70 wrestlers have held this title in recorded [history](/sports-history). Once promoted, a yokozuna can never be demoted — they're expected to retire if their performance drops.
 - **Ozeki** — Champion. The second-highest rank.
 - **Sekiwake and Komusubi** — Junior champions.
 - **Maegashira** — The rank-and-file of the top division.

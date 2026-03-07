@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Technology?"
 slug: the-history-of-technology
-description: "The history of technology tracks how human tool-making evolved from stone axes to smartphones across 3.3 million years."
+description: "The history of technology tracks how human tool-making evolved from stone axes to smartphones across 3.3 million years. Discover the key facts, history, and ..."
 category: history
 tags: ["history of technology", "technology", "innovation", "industrial revolution"]
-heroImage: "/images/articles/the-history-of-technology.webp"
+heroImage: "/images/articles/the-history-of-technology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

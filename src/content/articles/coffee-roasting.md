@@ -4,7 +4,7 @@ slug: coffee-roasting
 description: "Coffee roasting transforms green beans into the aromatic brown beans you brew. Learn about roast levels, the roasting process, and flavor development."
 category: everyday-concepts
 tags: ["coffee roasting", "coffee", "roasting", "food science", "flavor", "coffee beans"]
-heroImage: "/images/articles/coffee-roasting.webp"
+heroImage: "/images/articles/coffee-roasting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of coffee roasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -77,7 +77,7 @@ Neither approach is inherently superior. A well-crafted blend can be just as del
 
 ## Freshness Actually Matters
 
-Roasted coffee is a perishable product. Flavor peaks about 3 to 14 days after roasting (depending on the roast level and brewing method) and degrades steadily after that. The enemies are oxygen, moisture, heat, and light.
+Roasted coffee is a perishable product. Flavor peaks about 3 to 14 days after roasting (depending on the roast level and [brewing](/beer-brewing) method) and degrades steadily after that. The enemies are oxygen, moisture, heat, and light.
 
 Whole beans stay fresh much longer than pre-ground coffee because grinding dramatically increases the surface area exposed to air. If you're buying [craft](/craft-beer) specialty coffee, whole beans stored in an opaque, airtight container at room temperature will serve you well. Grinding right before brewing makes a genuine, measurable difference in cup quality.
 

@@ -4,7 +4,7 @@ slug: strategic-management
 description: "Strategic management is how organizations set goals, analyze competition, and allocate resources for long-term success. Learn frameworks and key concepts."
 category: business
 tags: ["management", "strategic management", "business strategy", "planning"]
-heroImage: "/images/articles/strategic-management.webp"
+heroImage: "/images/articles/strategic-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of strategic management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

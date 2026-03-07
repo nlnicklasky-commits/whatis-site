@@ -4,7 +4,7 @@ slug: trapping
 description: "Trapping is the practice of capturing wild animals using mechanical devices. Learn about the methods, history, regulations, and ongoing ethical debates."
 category: everyday-concepts
 tags: ["trapping", "wildlife", "hunting", "fur trade", "conservation", "outdoors"]
-heroImage: "/images/articles/trapping.webp"
+heroImage: "/images/articles/trapping-hero.webp"
 heroAlt: "Editorial photograph representing the concept of trapping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ By the late 1800s, overharvesting had decimated many furbearer species. The cons
 
 **Wildlife management** — State and federal wildlife agencies use trapping to control overabundant species, manage predators that threaten endangered species, remove invasive animals, and prevent wildlife-related damage to property and [agriculture](/agriculture).
 
-**Scientific research** — Biologists use live-capture traps to study wildlife populations — attaching GPS collars, collecting samples, and monitoring [health](/conservation-[biology](/biology)).
+**Scientific research** — Biologists use live-capture traps to study wildlife populations — attaching GPS collars, collecting samples, and monitoring [health](/construction)).
 
 **Nuisance wildlife control** — Removing animals (raccoons, skunks, coyotes, beavers) that cause property damage, threaten livestock, or create safety hazards.
 

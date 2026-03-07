@@ -49,7 +49,7 @@ Then there are the boundary-crossers. [Organometallic chemistry](/organometallic
 
 ## The Periodic Table: Inorganic Chemistry's Map
 
-If organic chemistry revolves around carbon, inorganic chemistry revolves around the entire [periodic table](/periodic-table). And the periodic table is, in a real sense, the most important organizing tool in all of science.
+If organic chemistry revolves around carbon, inorganic chemistry revolves around the entire [periodic table](/periodontology). And the periodic table is, in a real sense, the most important organizing tool in all of science.
 
 ### Transition Metals: The Workhorses
 

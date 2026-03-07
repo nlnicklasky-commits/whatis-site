@@ -1,7 +1,7 @@
 ---
 title: What Is Algebra?
 slug: algebra
-description: "Algebra explained clearly: variables, equations, functions, and why this branch of math matters far beyond the classroom."
+description: "Algebra explained clearly: variables, equations, functions, and why this branch of math matters far beyond the classroom. Discover the key facts, history, an..."
 category: science
 tags: ["algebra", "mathematics", "math", "equations", "variables", "functions", "problem-solving"]
 heroImage: "/images/articles/algebra-hero.webp"
@@ -276,6 +276,6 @@ Algebra is the mathematical language of generalization and problem-solving. It t
 
 The subject has roots stretching back 4,000 years across Babylonian, Greek, Indian, and Islamic civilizations. It earned its name from al-Khwarizmi's ninth-century book and its modern symbolic form from European mathematicians of the Renaissance. Every century added depth, and every century found new uses.
 
-Today, algebra underpins virtually every technical field, powers the algorithms running your digital life, and provides the reasoning framework used across sciences, engineering, finance, and beyond. Whether you're balancing a budget, programming a computer, or studying the structure of the universe, you're doing algebra — even when you don't realize it.
+Today, algebra backs up virtually every technical field, powers the algorithms running your digital life, and provides the reasoning framework used across sciences, engineering, finance, and beyond. Whether you're balancing a budget, programming a computer, or studying the structure of the universe, you're doing algebra — even when you don't realize it.
 
 The real question was never "when will I use this?" It's "how much could I do if I actually understood it?"

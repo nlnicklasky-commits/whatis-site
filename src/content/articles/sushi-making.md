@@ -4,7 +4,7 @@ slug: sushi-making
 description: "Sushi making is the Japanese culinary art of preparing vinegared rice with fish and other ingredients. Learn the types, techniques, and traditions behind it."
 category: arts-amp-culture
 tags: ["sushi making", "Japanese cuisine", "culinary arts", "cooking", "seafood", "rice"]
-heroImage: "/images/articles/sushi-making.webp"
+heroImage: "/images/articles/sushi-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sushi making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sushi Making?
 
-Sushi making is the culinary art of preparing sushi — the Japanese dish built around vinegared rice combined with raw or cooked seafood, vegetables, and other ingredients. The word "sushi" actually refers to the seasoned rice, not the fish. That distinction matters: sushi without fish is still sushi. Fish without rice is sashimi.
+Sushi making is the culinary art of preparing sushi — the [Japanese](/japanese-history) dish built around vinegared rice combined with raw or cooked seafood, vegetables, and other ingredients. The word "sushi" actually refers to the seasoned rice, not the fish. That distinction matters: sushi without fish is still sushi. Fish without rice is sashimi.
 
 What looks simple on the plate — a few pieces of fish on small mounds of rice — actually represents one of the most technically demanding cuisines in the world. Every element, from the rice temperature to the knife angle to the wasabi placement, follows precise traditions refined over centuries.
 

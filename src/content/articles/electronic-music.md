@@ -4,7 +4,7 @@ slug: electronic-music
 description: "Electronic music is created primarily with electronic instruments and technology. Explore its history, genres, key artists, production tools, and culture."
 category: arts-amp-culture
 tags: ["electronic music", "music", "synthesizer", "sampling", "digital music", "genre"]
-heroImage: "/images/articles/electronic-music.webp"
+heroImage: "/images/articles/electronic-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of electronic music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ The **Theremin** (1920), created by Russian physicist Leon Theremin, was the fir
 
 **Musique concrete**, developed by Pierre Schaeffer in Paris in 1948, manipulated recorded sounds — train noises, [piano](/piano) notes, voices — by cutting, splicing, and transforming magnetic tape. For the first time, any sound could become music. This idea — that music isn't limited to traditional notes played on traditional instruments — is the philosophical foundation of all electronic music.
 
-**Karlheinz Stockhausen** at the WDR studio in Cologne created compositions from purely electronically generated sounds in the 1950s. His work was academic, cerebral, and deliberately challenging — but it proved that compelling music could be built entirely from electronic oscillators and [audio processing](/digital-[logic](/logic)).
+**Karlheinz Stockhausen** at the WDR studio in Cologne created compositions from purely electronically generated sounds in the 1950s. His work was academic, cerebral, and deliberately challenging — but it proved that compelling music could be built entirely from electronic oscillators and [audio processing](/digital-art)).
 
 ## Synthesizers Change Everything
 

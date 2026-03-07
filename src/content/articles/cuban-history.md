@@ -4,7 +4,7 @@ slug: cuban-history
 description: "Cuban history spans from the indigenous Taino people through Spanish colonialism, U.S. influence, the 1959 revolution, and decades of Cold War tension and."
 category: history
 tags: ["cuban history", "cuba", "cuban revolution", "fidel castro", "cold war"]
-heroImage: "/images/articles/cuban-history.webp"
+heroImage: "/images/articles/cuban-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cuban history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

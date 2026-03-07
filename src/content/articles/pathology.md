@@ -4,7 +4,7 @@ slug: pathology
 description: "Pathology is the medical science of disease — its causes, mechanisms, and effects on the body. Learn about anatomical, clinical, and forensic pathology."
 category: health-amp-wellness
 tags: ["pathology", "disease", "diagnosis", "medical science"]
-heroImage: "/images/articles/pathology.webp"
+heroImage: "/images/articles/pathology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pathology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -53,7 +53,7 @@ Giovanni Morgagni, an Italian anatomist, published *De Sedibus et Causis Morboru
 
 Rudolf Virchow took things further in 1858 with his book *Cellular Pathology*, arguing that all disease originates at the cellular level. Virchow's insight — that every sick organ is made of sick cells — remains the foundation of pathology today. He's often called the father of modern pathology, and the title is well earned.
 
-The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, [electron microscopy](/electron-[microscopy](/microscopy)) for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
+The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, [electron microscopy](/electricity)) for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
 
 Today's pathology is a blend of the traditional (looking at cells under glass) and the advanced (sequencing tumor genomes to guide precision cancer therapy). The microscope hasn't gone anywhere, but it's been joined by an arsenal of molecular, genetic, and digital tools that Virchow couldn't have imagined.
 

@@ -4,7 +4,7 @@ slug: management
 description: "Management is the process of planning, organizing, leading, and controlling resources to achieve organizational goals. Learn key theories and practices."
 category: everyday-concepts
 tags: ["management", "business", "leadership", "organization", "strategy", "administration"]
-heroImage: "/images/articles/management.webp"
+heroImage: "/images/articles/management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

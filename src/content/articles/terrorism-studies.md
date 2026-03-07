@@ -4,7 +4,7 @@ slug: terrorism-studies
 description: "Terrorism studies is the academic field examining political violence, its causes, and how societies respond. Learn the key debates, methods, and challenges."
 category: politics
 tags: ["terrorism studies", "terrorism", "counterterrorism", "political violence", "extremism", "radicalization"]
-heroImage: "/images/articles/terrorism-studies.webp"
+heroImage: "/images/articles/terrorism-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of terrorism studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

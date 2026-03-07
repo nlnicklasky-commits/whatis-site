@@ -4,7 +4,7 @@ slug: information-theory
 description: "Information theory is the math behind data compression and transmission. Learn about entropy, Shannon's theorems, and how they enable modern technology."
 category: everyday-concepts
 tags: ["information theory", "mathematics", "data", "entropy", "Claude Shannon"]
-heroImage: "/images/articles/information-theory.webp"
+heroImage: "/images/articles/information-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of information theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

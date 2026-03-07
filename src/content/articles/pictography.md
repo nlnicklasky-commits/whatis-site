@@ -4,7 +4,7 @@ slug: pictography
 description: "Pictography is a system of communication using pictures to represent objects and ideas. Learn about its history from cave art to modern icons and emoji."
 category: everyday-concepts
 tags: ["pictography", "writing systems", "communication", "symbols", "history", "visual language"]
-heroImage: "/images/articles/pictography.webp"
+heroImage: "/images/articles/pictography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pictography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

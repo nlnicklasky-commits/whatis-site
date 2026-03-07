@@ -1,10 +1,10 @@
 ---
 title: "What Is Taxidermy?"
 slug: taxidermy
-description: "Taxidermy is the art of preserving and mounting animal specimens to appear lifelike. Learn the process, its history, and its role in science and art."
+description: "Taxidermy is the art of preserving and mounting animal specimens to appear lifelike. Learn the process, its history, and its role in science and art. Discove..."
 category: everyday-concepts
 tags: ["taxidermy", "animal preservation", "specimen", "mounting", "craft", "natural history"]
-heroImage: "/images/articles/taxidermy.webp"
+heroImage: "/images/articles/taxidermy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of taxidermy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ Carl Akeley (1864-1926) revolutionized the field. Working at the Field Museum in
 
 ### Natural History Museums
 
-Museum taxidermy is the most publicly visible application. Institutions like the Smithsonian, the American Museum of Natural History, and the Natural History Museum in London contain tens of thousands of mounted specimens. These displays serve both [education](/education) and conservation — many mounted animals represent species that are now rare or [extinct](/conservation-[biology](/biology)).
+Museum taxidermy is the most publicly visible application. Institutions like the Smithsonian, the American Museum of Natural History, and the Natural History Museum in London contain tens of thousands of mounted specimens. These displays serve both [education](/education) and conservation — many mounted animals represent species that are now rare or [extinct](/construction)).
 
 ### Scientific Research
 

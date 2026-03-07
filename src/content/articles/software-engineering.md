@@ -4,7 +4,7 @@ slug: software-engineering
 description: "Software engineering is the disciplined approach to designing, building, testing, and maintaining software systems. Learn its principles, methods, and history."
 category: technology
 tags: ["software engineering", "programming", "software development", "computer science", "agile", "technology"]
-heroImage: "/images/articles/software-engineering.webp"
+heroImage: "/images/articles/software-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of software engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Logic?"
 slug: logic
-description: "Logic is the study of valid reasoning and argumentation. Learn about deductive and inductive logic, fallacies, formal systems, and why logic matters."
+description: "Logic is the study of valid reasoning and argumentation. Learn about deductive and inductive logic, fallacies, formal systems, and why logic matters. Discove..."
 category: everyday-concepts
 tags: ["logic", "reasoning", "philosophy", "argumentation", "critical thinking", "formal logic"]
-heroImage: "/images/articles/logic.webp"
+heroImage: "/images/articles/logic-hero.webp"
 heroAlt: "Editorial photograph representing the concept of logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

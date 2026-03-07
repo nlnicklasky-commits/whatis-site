@@ -1,7 +1,7 @@
 ---
 title: "What Is Pyrotechnics?"
 slug: pyrotechnics
-description: "Pyrotechnics is the science and craft of creating controlled fire, explosions, and light effects, from fireworks displays to movie special effects."
+description: "Pyrotechnics is the science and craft of creating controlled fire, explosions, and light effects, from fireworks displays to movie special effects. Discover ..."
 category: science
 tags: ["pyrotechnics", "fireworks", "chemistry", "combustion", "explosives", "special effects", "safety"]
 heroImage: "/images/articles/pyrotechnics-hero.webp"

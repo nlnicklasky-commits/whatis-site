@@ -1,7 +1,7 @@
 ---
 title: "What Is Aviation?"
 slug: aviation
-description: "Aviation is the science and practice of flight. Learn about aerodynamics, aircraft types, pilot training, air traffic control, and aviation history."
+description: "Aviation is the science and practice of flight. Learn about aerodynamics, aircraft types, pilot training, air traffic control, and aviation history. Discover..."
 category: technology
 tags: ["aviation", "flight", "aircraft", "airplanes", "aerodynamics", "aerospace", "pilot"]
 heroImage: "/images/articles/aviation-hero.webp"

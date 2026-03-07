@@ -4,7 +4,7 @@ slug: historical-zionism
 description: "Historical Zionism was the political movement to establish a Jewish homeland in Palestine. Learn about its origins, key figures, debates, and lasting impact."
 category: history
 tags: ["historical zionism", "zionism", "jewish history", "israel", "antisemitism"]
-heroImage: "/images/articles/historical-zionism.webp"
+heroImage: "/images/articles/historical-zionism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical zionism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

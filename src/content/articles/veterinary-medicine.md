@@ -4,13 +4,13 @@ slug: veterinary-medicine
 description: "Veterinary medicine prevents, diagnoses, and treats disease in animals. Learn about vet specialties, education, public health roles, and career paths."
 category: science
 tags: ["veterinary medicine", "animal health", "biology", "medicine"]
-heroImage: "/images/articles/veterinary-medicine.webp"
+heroImage: "/images/articles/veterinary-medicine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of veterinary medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3780
+readingTime: 10
+wordCount: 2515
 tier: '1'
 relatedArticles: ["biology", "anatomy", "pharmacology", "genetics", "microbiology"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Absolutely. Many drugs and surgical techniques were developed in veterinary medicine first. The One Health approach recognizes that animal, human, and environmental health are interconnected — about 75% of emerging infectious diseases in humans originate in animals."
 ---
 
+# What Is Veterinary Medicine?
 Veterinary medicine is the branch of medicine that deals with the prevention, diagnosis, and treatment of disease, injury, and other conditions in animals. It covers everything from routine pet checkups to complex surgical procedures on horses, wildlife conservation efforts, food safety inspection, and research that directly benefits human health.
 
 If you think vets just give dogs shots and trim cat nails, you're missing about 90% of what this field actually does.

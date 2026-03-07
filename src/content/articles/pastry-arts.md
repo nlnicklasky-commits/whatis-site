@@ -4,7 +4,7 @@ slug: pastry-arts
 description: "Pastry arts is the culinary discipline of creating baked goods, desserts, and confections. Learn about techniques, training, and the craft behind pastry."
 category: everyday-concepts
 tags: ["pastry arts", "baking", "desserts", "confectionery", "pastry chef", "culinary arts"]
-heroImage: "/images/articles/pastry-arts.webp"
+heroImage: "/images/articles/pastry-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pastry arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.cordonbleu.edu/"
 faq:
   - q: "What is the difference between a pastry chef and a baker?"
-    a: "A baker primarily produces bread, rolls, and basic baked goods — the focus is on yeast-leavened products and high-volume production. A pastry chef creates desserts, cakes, pastries, chocolate work, sugar art, and plated desserts. Pastry work demands more artistic skill, a broader range of techniques, and typically involves more intricate decoration and presentation."
+    a: "A baker primarily produces bread, rolls, and basic baked goods — the focus is on yeast-leavened products and high-volume production. A pastry chef creates desserts, cakes, pastries, chocolate work, sugar art, and plated desserts. Pastry work demands more artistic skill, a broader range of techniques, and typically involves more complex decoration and presentation."
   - q: "How long does it take to become a pastry chef?"
     a: "Culinary school pastry programs typically run 6-24 months. But school is just the beginning. Most pastry chefs then work 3-5 years in professional kitchens before leading a pastry department. Reaching the top of the profession — earning roles at fine-dining restaurants or opening your own patisserie — usually takes 8-15 years of combined training and experience."
   - q: "Why is precision so important in pastry?"
@@ -47,7 +47,7 @@ Temperature precision matters too. Chocolate must be tempered at specific temper
 
 **Lamination** creates the flaky layers in croissants, puff pastry, and Danish dough. Butter is folded into dough in repeated turns, creating hundreds of alternating layers of butter and dough. In the oven, the butter melts, the water in it creates steam, and the dough layers puff apart. A well-made croissant has 81 layers. Getting there requires precise temperature control — too warm and the butter melts into the dough; too cold and it shatters.
 
-**Meringue** — whipping egg whites with sugar into a foam — underpins countless desserts. French meringue (raw whites whipped with sugar) is the simplest. Italian meringue (hot sugar syrup poured into whipping whites) is more stable. Swiss meringue (whites and sugar heated together, then whipped) falls between. Each has specific applications.
+**Meringue** — whipping egg whites with sugar into a foam — backs up countless desserts. French meringue (raw whites whipped with sugar) is the simplest. Italian meringue (hot sugar syrup poured into whipping whites) is more stable. Swiss meringue (whites and sugar heated together, then whipped) falls between. Each has specific applications.
 
 **Custard** combines eggs, dairy, and sugar, cooked gently to create silky textures. Creme anglaise (pourable custard), pastry cream (thick, pipeable), creme brulee, flan, and ice cream bases are all custards. The [chemistry](/chemistry) involves egg proteins denaturing and thickening the liquid — overcook by a few degrees and you get scrambled eggs.
 
@@ -67,7 +67,7 @@ The French tradition emphasizes technique and precision above all. If you can ex
 
 Contemporary pastry has expanded far beyond the French classical tradition. Influences from Japan (light, delicate textures, matcha and yuzu flavors), Latin America (dulce de leche, tropical fruits), the Middle East (rosewater, pistachios, phyllo), and Scandinavia (cardamom, berries, restraint) have broadened the palette.
 
-[Molecular gastronomy](/molecular-[gastronomy](/gastronomy)) techniques have entered the pastry kitchen: gelification with agar and gellan gum, spherification, liquid nitrogen for instant freezing, and hydrocolloids for texture control. These tools expand what's possible but don't replace fundamental technique — you still need to know how to make custard before you can reinvent it.
+[Molecular gastronomy](/molecular-biology)) techniques have entered the pastry kitchen: gelification with agar and gellan gum, spherification, liquid nitrogen for instant freezing, and hydrocolloids for texture control. These tools expand what's possible but don't replace fundamental technique — you still need to know how to make custard before you can reinvent it.
 
 Plated desserts at fine-dining restaurants are miniature compositions — combining multiple textures (crispy, creamy, chewy, frozen), temperatures, and flavors on a single plate. A restaurant dessert might include a main element (cake, tart, souffle), a sauce, a frozen component (ice cream, sorbet), a crispy element, and a decorative piece, all balanced in flavor and visual presentation.
 

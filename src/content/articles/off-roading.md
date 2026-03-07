@@ -1,10 +1,10 @@
 ---
 title: "What Is Off-roading?"
 slug: off-roading
-description: "Off-roading is driving vehicles on unpaved terrain like trails, sand, mud, and rocks. Learn about vehicles, techniques, and the culture behind it."
+description: "Off-roading is driving vehicles on unpaved terrain like trails, sand, mud, and rocks. Learn about vehicles, techniques, and the culture behind it. Discover t..."
 category: everyday-concepts
 tags: ["off roading", "4x4", "adventure", "outdoor recreation", "vehicles", "trail driving"]
-heroImage: "/images/articles/off-roading.webp"
+heroImage: "/images/articles/off-roading-hero.webp"
 heroAlt: "Editorial photograph representing the concept of off-roading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -43,7 +43,7 @@ The appeal goes beyond driving, though. Off-roading takes you to places most peo
 
 **Trail riding** is the most common form — driving maintained or unmaintained trails through forests, mountains, or deserts. Trails are often rated by difficulty (like ski runs) from easy to extreme. The Rubicon Trail in California, the Moab trails in Utah, and the Ouray trails in Colorado are legendary destinations.
 
-**Rock crawling** involves navigating over large rocks and boulders at very low speeds. It demands precise wheel placement, extreme suspension articulation, and usually a heavily modified vehicle. Competitions like King of the Hammers combine rock crawling with high-speed desert racing.
+**Rock crawling** involves navigating over large rocks and boulders at very low speeds. It demands precise [wheel](/four-wheel-driving) placement, extreme suspension articulation, and usually a heavily modified vehicle. Competitions like King of the Hammers combine rock crawling with high-speed desert racing.
 
 **Mud bogging** means driving through deep mud pits, often competitively. Vehicles range from stock trucks to purpose-built monsters with enormous tires and high-horsepower engines. It's messy, loud, and enormously popular in the southeastern United States.
 
@@ -93,4 +93,4 @@ Online forums and social media have expanded the community enormously. YouTube c
 
 There's also a DIY ethos. Many off-roaders build and modify their own vehicles, fabricating custom bumpers, installing lifts, and wiring electrical systems. The garage is as much part of the hobby as the trail.
 
-Off-roading connects driving skill, mechanical knowledge, outdoor exploration, and problem-solving in a way that few other activities match. It's not for everyone — it's rough on vehicles, occasionally rough on you, and the learning curve involves getting stuck, probably more than once. But that's part of the point. Getting stuck and getting unstuck is where the stories come from.
+Off-roading connects driving skill, mechanical knowledge, [outdoor](/outdoor-survival) exploration, and problem-solving in a way that few other activities match. It's not for everyone — it's rough on vehicles, occasionally rough on you, and the learning curve involves getting stuck, probably more than once. But that's part of the point. Getting stuck and getting unstuck is where the stories come from.

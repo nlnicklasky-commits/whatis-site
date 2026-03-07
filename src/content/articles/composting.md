@@ -4,7 +4,7 @@ slug: composting
 description: "Composting is the natural decomposition of organic matter into nutrient-rich soil. Learn how it works, methods, what to compost, and benefits for gardens."
 category: everyday-concepts
 tags: ["composting", "recycling", "waste management", "organic waste", "soil", "gardening"]
-heroImage: "/images/articles/composting.webp"
+heroImage: "/images/articles/composting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of composting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

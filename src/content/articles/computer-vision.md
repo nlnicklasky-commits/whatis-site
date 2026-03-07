@@ -4,7 +4,7 @@ slug: computer-vision
 description: "Computer vision enables machines to interpret visual information from images and video. Learn how it works, key techniques, and real-world applications."
 category: everyday-concepts
 tags: ["computer vision", "everyday-concepts"]
-heroImage: "/images/articles/computer-vision.webp"
+heroImage: "/images/articles/computer-vision-hero.webp"
 heroAlt: "Editorial photograph representing the concept of computer vision"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: topography
 description: "Topography is the study and mapping of Earth's surface features, including elevation, slope, and landforms. Learn how topographic data shapes science and."
 category: science
 tags: ["topography", "geography", "mapping", "terrain"]
-heroImage: "/images/articles/topography.webp"
+heroImage: "/images/articles/topography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of topography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

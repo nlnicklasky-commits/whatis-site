@@ -1,7 +1,7 @@
 ---
 title: "What Is Mathematics?"
 slug: mathematics
-description: "Mathematics is the study of numbers, patterns, structures, and logical reasoning. Learn how math works, its branches, history, and why it matters."
+description: "Mathematics is the study of numbers, patterns, structures, and logical reasoning. Learn how math works, its branches, history, and why it matters. Discover t..."
 category: science
 tags: ["mathematics", "math", "algebra", "geometry", "calculus", "logic", "numbers"]
 heroImage: "/images/articles/mathematics-hero.webp"
@@ -26,7 +26,7 @@ faq:
   - q: "Is mathematics discovered or invented?"
     a: "This is one of the oldest philosophical debates in math. Platonists argue mathematical truths exist independently and we discover them, while formalists say math is a human-made system of symbols and rules. Most working mathematicians hold views somewhere in between, treating math as discovered structures expressed through invented notation."
   - q: "Why is mathematics important in everyday life?"
-    a: "Math underpins nearly everything in modern life. Your phone uses number theory for encryption, GPS relies on geometry and relativity corrections, weather forecasts use differential equations, and financial markets run on probability and statistics. Even cooking, budgeting, and home improvement require basic arithmetic and measurement."
+    a: "Math drives nearly everything in modern life. Your phone uses number theory for encryption, GPS relies on geometry and relativity corrections, weather forecasts use differential equations, and financial markets run on probability and statistics. Even cooking, budgeting, and home improvement require basic arithmetic and measurement."
   - q: "What is the hardest branch of mathematics?"
     a: "There is no single hardest branch since difficulty depends on the person. However, areas like algebraic topology, algebraic geometry, and mathematical logic are widely considered among the most abstract and challenging. The Millennium Prize Problems, which carry a one-million-dollar reward each, span several of these difficult areas."
   - q: "Can you be good at math without being a genius?"

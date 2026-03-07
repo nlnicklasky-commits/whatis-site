@@ -4,7 +4,7 @@ slug: metaphysics
 description: "Metaphysics is the branch of philosophy studying the fundamental nature of reality, existence, and being. Learn about key questions and major thinkers."
 category: everyday-concepts
 tags: ["metaphysics", "philosophy", "ontology", "reality", "existence", "consciousness"]
-heroImage: "/images/articles/metaphysics.webp"
+heroImage: "/images/articles/metaphysics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of metaphysics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

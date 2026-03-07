@@ -4,7 +4,7 @@ slug: home-economics
 description: "Home economics is the study of practical life skills including cooking, budgeting, nutrition, and household management. Learn its history and modern form."
 category: everyday-concepts
 tags: ["home economics", "life skills", "family studies", "nutrition", "personal finance", "consumer education"]
-heroImage: "/images/articles/home-economics.webp"
+heroImage: "/images/articles/home-economics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of home economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

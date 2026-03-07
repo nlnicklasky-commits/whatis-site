@@ -1,7 +1,7 @@
 ---
 title: "What Is Pollination?"
 slug: pollination
-description: "Pollination is the transfer of pollen from a flower's anther to its stigma, enabling plant reproduction and the production of fruits and seeds."
+description: "Pollination is the transfer of pollen from a flower's anther to its stigma, enabling plant reproduction and the production of fruits and seeds. Discover the ..."
 category: science
 tags: ["biology", "plants", "ecology", "pollinators", "reproduction", "agriculture", "ecosystems"]
 heroImage: "/images/articles/pollination-hero.webp"
@@ -105,7 +105,7 @@ The pollinator world gets wonderfully weird beyond the usual suspects.
 
 **Beetles** are ancient pollinators — they were visiting flowers before bees evolved. Beetle-pollinated flowers tend to be large, white or dull-colored, and strongly scented. Magnolias and water lilies are beetle-pollinated, reflecting their ancient evolutionary origins.
 
-**Wasps** pollinate figs in one of nature's most intricate mutualisms. Each of the approximately 750 fig species has a specific wasp partner. The wasp enters the fig (which is actually an inside-out flower cluster), pollinates the flowers, lays eggs, and dies inside. The larvae develop, mate, and females leave carrying pollen to the next fig. This relationship has persisted for at least 80 million years.
+**Wasps** pollinate figs in one of nature's most complex mutualisms. Each of the approximately 750 fig species has a specific wasp partner. The wasp enters the fig (which is actually an inside-out flower cluster), pollinates the flowers, lays eggs, and dies inside. The larvae develop, mate, and females leave carrying pollen to the next fig. This relationship has persisted for at least 80 million years.
 
 **Lizards** pollinate some island flowers, particularly in New Zealand, Mauritius, and the Canary Islands. Island ecosystems often develop unusual pollination relationships because the typical pollinators (especially bees) may be absent.
 
@@ -199,7 +199,7 @@ These small actions, multiplied across millions of gardens, genuinely add up. Po
 
 ## The Big Picture
 
-Pollination connects food production, [ecology](/ecology), evolutionary history, and conservation in ways that few other biological processes can match. It's the mechanism through which most of the world's flowering plants reproduce, the service that supports a third of human food production, and one of the most intricate examples of co-evolution in nature.
+Pollination connects food production, [ecology](/ecology), evolutionary history, and conservation in ways that few other biological processes can match. It's the mechanism through which most of the world's flowering plants reproduce, the service that supports a third of human food production, and one of the most complex examples of co-evolution in nature.
 
 The ongoing decline of pollinators represents both an ecological crisis and an agricultural one. The solutions are known — reduce pesticide exposure, restore habitat, diversify farming practices, protect wild pollinator communities. Whether we implement them at sufficient scale depends on political will, economic incentives, and public understanding.
 

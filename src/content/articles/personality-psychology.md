@@ -133,7 +133,7 @@ The genome-wide association studies (GWAS) that have identified specific genetic
 
 ### Environmental Influences
 
-The environmental side of personality development is surprisingly nuanced.
+The environmental side of personality development is surprisingly layered.
 
 **Shared environment** — growing up in the same family, attending the same schools — contributes remarkably little to adult personality similarities between siblings. This finding consistently shocks people who assume parenting style has a dominant influence on personality. It doesn't mean parenting is irrelevant (it affects many outcomes), but it doesn't make siblings' personalities more similar.
 

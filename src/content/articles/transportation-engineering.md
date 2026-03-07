@@ -4,7 +4,7 @@ slug: transportation-engineering
 description: "Transportation engineering designs and maintains systems that move people and goods. Learn about highway design, transit planning, freight logistics, and more."
 category: technology
 tags: ["transportation engineering", "civil engineering", "infrastructure"]
-heroImage: "/images/articles/transportation-engineering.webp"
+heroImage: "/images/articles/transportation-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of transportation engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

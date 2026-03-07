@@ -4,7 +4,7 @@ slug: drama
 description: "Drama is the art of storytelling through performance, from ancient Greek theater to modern stage and screen. Explore its history, forms, and techniques."
 category: everyday-concepts
 tags: ["drama", "everyday-concepts"]
-heroImage: "/images/articles/drama.webp"
+heroImage: "/images/articles/drama-hero.webp"
 heroAlt: "Editorial photograph representing the concept of drama"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ Three Athenian playwrights shaped drama so profoundly that their influence persi
 
 Aristotle's *Poetics* (c. 335 BC) defined tragedy as the imitation of a serious action that arouses pity and fear, achieving "catharsis" — an emotional purification. The tragic hero, he argued, should be neither perfectly good nor entirely wicked but a fundamentally decent person brought down by a flaw (hamartia) or error in judgment. This formula described Oedipus perfectly and still describes most dramatic protagonists today.
 
-Comedy, for the Greeks, meant stories that ended happily and satirized contemporary society. Aristophanes wrote comedies attacking politicians, philosophers (including Socrates), and warmongers with a vulgarity and directness that would make modern satirists blush. Comedy's purpose was and remains holding a mirror up to society's absurdities — [making you laugh](/creative-[writing](/writing)) so you can see clearly.
+Comedy, for the Greeks, meant stories that ended happily and satirized contemporary society. Aristophanes wrote comedies attacking politicians, philosophers (including Socrates), and warmongers with a vulgarity and directness that would make modern satirists blush. Comedy's purpose was and remains holding a mirror up to society's absurdities — [making you laugh](/creative-writing)) so you can see clearly.
 
 ## Shakespeare and the English Tradition
 
@@ -77,7 +77,7 @@ Contemporary drama continues in several directions simultaneously.
 
 Broadway and the West End produce large-scale commercial theater — musicals (*Hamilton*, *The Lion King*) and plays (*The Lehman Trilogy*, *The Inheritance*) that combine artistic ambition with economic sustainability. A Broadway production can cost $10-$25 million to mount.
 
-Regional and community theater brings live performance to audiences everywhere. Approximately 7,000 community theaters operate in the United States, producing plays and musicals with volunteer casts. They're where most Americans encounter live [drama](/theater) — and where most actors get their start.
+Regional and community theater brings live performance to audiences everywhere. Approximately 7,000 community theaters operate in the United States, producing plays and musicals with volunteer casts. They're where most Americans encounter live [drama](/theater-arts) — and where most actors get their start.
 
 Screen drama — film and television — has become the dominant delivery system for dramatic storytelling. The writing techniques, character development methods, and structural principles developed for stage drama underpin virtually all screen storytelling. When people discuss the "golden age of television," they're really discussing the golden age of televised drama.
 

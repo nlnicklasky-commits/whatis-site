@@ -4,7 +4,7 @@ slug: soccer
 description: "Soccer (football) is the world's most popular sport, played by two teams of 11 kicking a ball into the opposing goal. Learn rules, history, and culture."
 category: sports
 tags: ["soccer", "football", "FIFA", "World Cup", "goal", "team sport"]
-heroImage: "/images/articles/soccer.webp"
+heroImage: "/images/articles/soccer-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soccer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

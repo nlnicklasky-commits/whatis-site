@@ -1,7 +1,7 @@
 ---
 title: "What Is Podcasting?"
 slug: podcasting
-description: "Podcasting is creating and distributing audio content online via RSS feeds, letting listeners subscribe and download episodes on demand."
+description: "Podcasting is creating and distributing audio content online via RSS feeds, letting listeners subscribe and download episodes on demand. Discover the key fac..."
 category: technology
 tags: ["audio", "digital media", "content creation", "broadcasting", "entertainment", "information"]
 heroImage: "/images/articles/podcasting-hero.webp"
@@ -125,7 +125,7 @@ Raw recordings need work. At minimum, you'll want to:
 - Cut tangents that don't serve the episode
 - Level audio so all speakers are at consistent volume
 - Add intro/outro music and any [sound design](/sound-design) elements
-- Apply basic [audio-engineering](/audio-[engineering](/engineering)) processing: noise reduction, compression, EQ
+- Apply basic [audio-engineering](/audio-engineering)) processing: noise reduction, compression, EQ
 
 The amount of editing varies enormously by format. A casual conversation podcast might get a light cleanup in 30 minutes. A narrative production like *Radiolab* reportedly spends 40+ hours editing a single episode.
 

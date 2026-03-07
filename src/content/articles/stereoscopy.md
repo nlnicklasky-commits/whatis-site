@@ -4,7 +4,7 @@ slug: stereoscopy
 description: "Stereoscopy is the technique of creating depth perception from two slightly different images. Learn how 3D vision works in film, VR, and scientific imaging."
 category: technology
 tags: ["imaging", "stereoscopy", "3D vision", "virtual reality", "depth perception", "photography"]
-heroImage: "/images/articles/stereoscopy.webp"
+heroImage: "/images/articles/stereoscopy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stereoscopy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ The human fascination with artificial 3D goes back further than you might expect
 
 The geometry of binocular vision was understood by Euclid around 280 BCE, and Leonardo da Vinci wrote about binocular disparity in his notebooks around 1508. But nobody figured out how to actually reproduce it artificially until 1838, when Sir Charles Wheatstone invented the stereoscope.
 
-Wheatstone used mirrors to present separate drawings to each eye and demonstrated that the brain would fuse them into a single 3D scene. His timing was perfect — the invention of [photography](/photography) just a year later in 1839 made it practical to capture real-world stereo pairs. You just took two photographs from positions about 6.5 cm apart.
+Wheatstone used mirrors to present separate drawings to each eye and demonstrated that the brain would fuse them into a single 3D scene. His timing was perfect — the invention of [photography](/photovoltaics) just a year later in 1839 made it practical to capture real-world stereo pairs. You just took two photographs from positions about 6.5 cm apart.
 
 ### The Victorian Craze
 

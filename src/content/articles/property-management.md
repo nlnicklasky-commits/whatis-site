@@ -1,7 +1,7 @@
 ---
 title: "What Is Property Management?"
 slug: property-management
-description: "Property management handles the daily operations of rental real estate. Learn what property managers do, how fees work, and when you need one."
+description: "Property management handles the daily operations of rental real estate. Learn what property managers do, how fees work, and when you need one. Discover the k..."
 category: finance
 tags: ["property management", "real estate", "tenant relations", "landlord", "property maintenance", "leasing"]
 heroImage: "/images/articles/property-management-hero.webp"

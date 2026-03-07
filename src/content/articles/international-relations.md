@@ -4,7 +4,7 @@ slug: international-relations
 description: "International relations studies how countries interact through diplomacy, trade, conflict, and cooperation. Learn about key theories and institutions."
 category: everyday-concepts
 tags: ["international relations", "global politics", "diplomacy", "foreign policy", "international law", "geopolitics"]
-heroImage: "/images/articles/international-relations.webp"
+heroImage: "/images/articles/international-relations-hero.webp"
 heroAlt: "Editorial photograph representing the concept of international relations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: bread-making
 description: "Bread making is the process of combining flour, water, salt, and a leavener to create dough that is shaped and baked into one of humanity's oldest foods."
 category: everyday-concepts
 tags: ["bread making", "baking", "bread", "yeast", "sourdough", "gluten"]
-heroImage: "/images/articles/bread-making.webp"
+heroImage: "/images/articles/bread-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of bread making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ The gap between "edible bread" and "extraordinary bread" is where the craft live
 
 ## The Science
 
-Bread making is applied [food chemistry](/food-[chemistry](/chemistry)). Here's what's actually happening:
+Bread making is applied [food chemistry](/superfoods)). Here's what's actually happening:
 
 **Mixing** — Flour meets water. Proteins in the flour (glutenin and gliadin) hydrate and begin forming gluten, an elastic, stretchy network. This network is the skeleton of your bread.
 

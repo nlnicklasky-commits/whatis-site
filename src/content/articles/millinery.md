@@ -1,10 +1,10 @@
 ---
 title: "What Is Millinery?"
 slug: millinery
-description: "Millinery is the craft of designing and making hats. Learn about techniques, materials, history, and the art of creating headwear from scratch."
+description: "Millinery is the craft of designing and making hats. Learn about techniques, materials, history, and the art of creating headwear from scratch. Discover the ..."
 category: arts-amp-culture
 tags: ["millinery", "hats", "fashion", "craft", "headwear", "design"]
-heroImage: "/images/articles/millinery.webp"
+heroImage: "/images/articles/millinery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of millinery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Millinery?
 
-Millinery is the art and craft of designing and constructing hats. A milliner creates headwear from raw materials — felt, straw, fabric, wire, and trimmings — shaping, blocking, [sewing](/sewing), and [decorating](/decorating) to produce everything from a simple cocktail hat to an elaborate Royal Ascot showpiece. It's one of the oldest fashion crafts, and despite the general decline of everyday hat-wearing, it survives as a specialized discipline serving weddings, [horse racing](/horse-racing), fashion, theater, and anyone who appreciates a well-made hat.
+Millinery is the art and craft of designing and constructing hats. A milliner creates headwear from raw materials — felt, straw, fabric, wire, and trimmings — shaping, blocking, [sewing](/sewing), and [decorating](/decorating) to produce everything from a simple cocktail hat to an elaborate Royal Ascot showpiece. It's one of the oldest [fashion](/fashion-design) crafts, and despite the general decline of everyday hat-wearing, it survives as a specialized discipline serving weddings, [horse racing](/horse-racing), fashion, theater, and anyone who appreciates a well-made hat.
 
 The word "milliner" comes from "Milan," the Italian city that was a center for hat-making and fashion goods in the 16th century. Milliners in Milan exported fine hats, ribbons, and accessories across Europe, and the [trade](/trade) name stuck.
 

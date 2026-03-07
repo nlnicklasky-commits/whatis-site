@@ -4,7 +4,7 @@ slug: psychiatry
 description: "Psychiatry is the medical specialty focused on diagnosing and treating mental illness. Learn about medications, therapy, and how it differs from psychology."
 category: health-amp-wellness
 tags: ["psychiatry", "mental health", "mental illness", "psychotherapy"]
-heroImage: "/images/articles/psychiatry.webp"
+heroImage: "/images/articles/psychiatry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of psychiatry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

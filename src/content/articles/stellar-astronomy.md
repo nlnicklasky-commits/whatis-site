@@ -4,7 +4,7 @@ slug: stellar-astronomy
 description: "Stellar astronomy is the study of stars, from their birth in nebulae to their death as white dwarfs, neutron stars, or black holes. Learn how stars work."
 category: science
 tags: ["astronomy", "stellar astronomy", "stars", "astrophysics", "nuclear fusion", "cosmology"]
-heroImage: "/images/articles/stellar-astronomy.webp"
+heroImage: "/images/articles/stellar-astronomy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stellar astronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
     a: "No. The Sun doesn't have nearly enough mass. Only stars with initial masses above roughly 20-25 solar masses can form black holes. When the Sun exhausts its fuel in about 5 billion years, it will expand into a red giant, shed its outer layers as a planetary nebula, and leave behind a white dwarf — a dense but stable stellar remnant about the size of Earth."
 ---
 
-# What Is Stellar Astronomy?
+# What Is Stellar [Astronomy](/observational-astronomy)?
 
 Stellar astronomy is the branch of [astronomy](/astronomy) dedicated to studying stars — their formation, structure, evolution, and death. Since stars are the fundamental building blocks of galaxies and the source of nearly every chemical element heavier than hydrogen and helium, understanding them is central to understanding the universe itself.
 
@@ -133,7 +133,7 @@ White dwarfs have a maximum mass — the Chandrasekhar limit — of about 1.44 s
 
 Neutron stars are almost incomprehensibly extreme. Their density — about 10¹⁷ kg/m³ — is comparable to an atomic nucleus. Their surface gravity is about 2 × 10¹¹ times Earth's. If you dropped a marshmallow onto a neutron star from a height of one meter, it would hit the surface with the energy of a small nuclear weapon.
 
-Pulsars are rapidly rotating neutron stars that emit beams of radio waves from their magnetic poles. As the star rotates, these beams sweep across Earth like a lighthouse, producing regular radio pulses. The fastest known pulsar spins at 716 revolutions per second. Pulsars are extraordinarily precise clocks — millisecond pulsars rival atomic clocks in timekeeping accuracy, and arrays of pulsars are being used to detect gravitational waves from supermassive black hole mergers.
+Pulsars are rapidly rotating neutron stars that emit beams of [radio](/radio-astronomy) waves from their magnetic poles. As the star rotates, these beams sweep across Earth like a lighthouse, producing regular radio pulses. The fastest known pulsar spins at 716 revolutions per second. Pulsars are extraordinarily precise clocks — millisecond pulsars rival atomic clocks in timekeeping accuracy, and arrays of pulsars are being used to detect gravitational waves from supermassive black hole mergers.
 
 ### Black Holes
 

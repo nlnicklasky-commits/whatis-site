@@ -4,7 +4,7 @@ slug: viola
 description: "The viola is a string instrument slightly larger than a violin, producing a warm, rich alto tone. Learn about its history, role, technique, and repertoire."
 category: arts-amp-culture
 tags: ["viola", "string instruments", "orchestra", "music", "classical music", "chamber music"]
-heroImage: "/images/articles/viola.webp"
+heroImage: "/images/articles/viola-hero.webp"
 heroAlt: "Editorial photograph representing the concept of viola"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Viola?
 
-The viola is a string instrument in the [violin](/violin) family — slightly larger than a violin, tuned a fifth lower, and producing a warm, dark tone that sits between the violin's brightness and the cello's depth. It reads the alto clef (the only standard orchestral instrument that does), plays a vital harmonic role in ensembles, and has endured centuries of being the butt of orchestra jokes despite being genuinely beautiful to listen to.
+The viola is a string instrument in the [violin](/violin) family — slightly larger than a [violin](/violin-making), tuned a fifth lower, and producing a warm, dark tone that sits between the violin's brightness and the cello's depth. It reads the alto clef (the only standard orchestral instrument that does), plays a vital harmonic role in ensembles, and has endured centuries of being the butt of orchestra jokes despite being genuinely beautiful to listen to.
 
 ## The Middle Child of Strings
 

@@ -4,7 +4,7 @@ slug: paleoclimatology
 description: "Paleoclimatology studies Earth's past climates using ice cores, tree rings, and ocean sediments. Learn how scientists reconstruct ancient climate data."
 category: everyday-concepts
 tags: ["paleoclimatology", "climate science", "ice cores", "geology", "climate change", "earth science"]
-heroImage: "/images/articles/paleoclimatology.webp"
+heroImage: "/images/articles/paleoclimatology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paleoclimatology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Paleoclimatology?
 
-Paleoclimatology is the study of Earth's past climates — how temperatures, precipitation patterns, atmospheric composition, and ocean conditions have changed over thousands, millions, and even billions of years. Since nobody was taking temperature readings during the Ice Age, paleoclimatologists use natural archives — ice cores, tree rings, ocean sediments, coral skeletons, cave formations, and ancient pollen — to reconstruct climate conditions that existed long before thermometers were invented.
+Paleoclimatology is the study of Earth's past climates — how temperatures, precipitation patterns, atmospheric composition, and ocean conditions have changed over thousands, millions, and even billions of years. Since nobody was taking temperature readings during the Ice Age, paleoclimatologists use [natural](/natural-disasters) archives — ice cores, tree rings, ocean sediments, coral skeletons, cave formations, and ancient pollen — to reconstruct climate conditions that existed long before thermometers were invented.
 
 ## Why Past Climates Matter Now
 
@@ -43,7 +43,7 @@ And what that data shows is both reassuring and alarming. Reassuring: Earth's cl
 
 ## The Natural Archives
 
-**Ice cores** are the gold standard for recent paleoclimate reconstruction. When snow falls on ice sheets in Greenland and Antarctica, it compresses into ice, [trapping](/trapping) tiny bubbles of the atmosphere at the time. Drill down through an ice sheet and you're drilling through time — each layer represents a year's accumulation.
+**Ice cores** are the [gold](/gold-panning) standard for recent paleoclimate reconstruction. When snow falls on ice sheets in Greenland and Antarctica, it compresses into ice, [trapping](/trapping) tiny bubbles of the atmosphere at the time. Drill down through an ice sheet and you're drilling through time — each layer represents a year's accumulation.
 
 The Vostok and EPICA ice cores from Antarctica extend back over 800,000 years. They reveal a tight correlation between CO2 levels and temperature: when CO2 rises, temperature rises, and vice versa. They also show that current atmospheric CO2 (approximately 420 ppm in 2025) is far above anything in the 800,000-year record, which ranged between roughly 180-300 ppm.
 

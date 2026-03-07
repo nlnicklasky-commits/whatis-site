@@ -1,10 +1,10 @@
 ---
 title: "What Is Baking?"
 slug: baking
-description: "Baking is the method of cooking food using dry heat in an oven. Learn about the science, essential techniques, equipment, and why precision matters."
+description: "Baking is the method of cooking food using dry heat in an oven. Learn about the science, essential techniques, equipment, and why precision matters. Discover..."
 category: everyday-concepts
 tags: ["baking", "cooking", "culinary arts", "bread", "cakes", "pastries"]
-heroImage: "/images/articles/baking.webp"
+heroImage: "/images/articles/baking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of baking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

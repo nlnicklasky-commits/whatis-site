@@ -1,10 +1,10 @@
 ---
 title: "What Is Trumpet?"
 slug: trumpet
-description: "The trumpet is a brass instrument played by buzzing into a mouthpiece. Learn about its history, types, playing techniques, and role in music."
+description: "The trumpet is a brass instrument played by buzzing into a mouthpiece. Learn about its history, types, playing techniques, and role in music. Discover the ke..."
 category: arts-amp-culture
 tags: ["trumpet", "brass instruments", "music", "jazz", "orchestra", "wind instruments"]
-heroImage: "/images/articles/trumpet.webp"
+heroImage: "/images/articles/trumpet-hero.webp"
 heroAlt: "Editorial photograph representing the concept of trumpet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -78,7 +78,7 @@ The standard B-flat trumpet is what most people picture, but several other varie
 
 The trumpet's versatility is genuinely remarkable. Few instruments cross as many genre boundaries.
 
-**Classical and orchestral music** — Trumpets provide brilliance and power. From Mahler symphonies to Copland fanfares, the trumpet cuts through a full orchestra like nothing else. The famous opening of Richard Strauss's *Also sprach Zarathustra* (you know it from *2001: A Space Odyssey*) features three trumpets.
+**[Classical](/classical-music) and orchestral [music](/pop-music)** — Trumpets provide brilliance and power. From Mahler symphonies to Copland fanfares, the trumpet cuts through a full orchestra like nothing else. The famous opening of Richard Strauss's *Also sprach Zarathustra* (you know it from *2001: A Space Odyssey*) features three trumpets.
 
 **Jazz** — This is where the trumpet became a star. Louis Armstrong essentially invented jazz trumpet playing in the 1920s, turning it from an ensemble instrument into a solo voice. Then came Dizzy Gillespie, Miles Davis, Clifford Brown, Freddie Hubbard — each pushing the instrument in new directions. Miles Davis alone reinvented his approach at least four times across his career.
 

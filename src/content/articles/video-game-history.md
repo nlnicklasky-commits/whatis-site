@@ -1,10 +1,10 @@
 ---
 title: "What Is Video Game History?"
 slug: video-game-history
-description: "Video game history traces gaming from 1950s experiments to a $180 billion industry. Learn about key eras, consoles, genres, and cultural milestones."
+description: "Video game history traces gaming from 1950s experiments to a $180 billion industry. Learn about key eras, consoles, genres, and cultural milestones. Discover..."
 category: everyday-concepts
 tags: ["video game history", "gaming", "consoles", "arcade games", "game industry", "technology"]
-heroImage: "/images/articles/video-game-history.webp"
+heroImage: "/images/articles/video-game-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of video game history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

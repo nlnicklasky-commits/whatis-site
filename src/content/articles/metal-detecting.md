@@ -4,7 +4,7 @@ slug: metal-detecting
 description: "Metal detecting is the hobby of using electronic devices to find buried metal objects. Learn about equipment, techniques, laws, and notable discoveries."
 category: everyday-concepts
 tags: ["metal detecting", "treasure hunting", "hobby", "archaeology", "coins", "artifacts"]
-heroImage: "/images/articles/metal-detecting.webp"
+heroImage: "/images/articles/metal-detecting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of metal detecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Metal Detecting?
 
-Metal detecting is the hobby of using an electronic device to locate metal objects buried underground. You sweep a coil-equipped device over the ground, it beeps or displays a signal when it senses metal beneath the surface, and you dig it up. The object might be a coin from 1823. It might also be a pull tab from a 1983 beer can. That uncertainty is part of the appeal.
+Metal detecting is the hobby of using an electronic device to locate metal objects buried underground. You sweep a coil-equipped device over the ground, it beeps or displays a signal when it senses metal beneath the surface, and you dig it up. The object might be a [coin](/coin-collecting) from 1823. It might also be a pull tab from a 1983 beer can. That uncertainty is part of the appeal.
 
 About 3-5 million people practice metal detecting as a hobby worldwide. Some do it for the thrill of finding historical artifacts. Some hope to find valuable coins or jewelry. Some just enjoy being outdoors with a purpose. And a few have made genuinely spectacular discoveries — the Staffordshire Hoard, the largest collection of Anglo-Saxon gold ever found (over 11 pounds of gold), was discovered by a metal detectorist in 2009.
 
@@ -71,7 +71,7 @@ Beyond the detector itself:
 
 ## The [Ethics](/ethics)
 
-Metal detecting exists in tension with professional [archaeology](/archaeology). Archaeologists value context — where an object was found, what was next to it, and what layer of soil it was in. This context tells the story of the past. A detectorist who digs up a Roman coin has an interesting object; an archaeologist who finds it in situ can reconstruct the history of a settlement.
+Metal detecting exists in tension with professional [archaeology](/archaeology). Archaeologists value context — where an object was found, what was next to it, and what layer of soil it was in. This context tells the story of the past. A detectorist who digs up a Roman coin has an interesting object; an archaeologist who finds it in situ can reconstruct the [history](/neolithic-history) of a settlement.
 
 Responsible detectorists follow a code of ethics: obtain permission, fill all holes, report significant finds to local authorities or museums, don't damage archaeological sites, and remove trash. Many detectorists work cooperatively with archaeologists, and some significant archaeological investigations have begun with a detectorist's discovery.
 

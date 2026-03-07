@@ -4,7 +4,7 @@ slug: saltwater-aquariums
 description: "Saltwater aquariums are tanks that recreate marine environments for keeping ocean fish, corals, and invertebrates. Learn setup, costs, and care basics."
 category: everyday-concepts
 tags: ["aquarium", "saltwater", "marine life", "fishkeeping", "reef tank", "coral"]
-heroImage: "/images/articles/saltwater-aquariums.webp"
+heroImage: "/images/articles/saltwater-aquariums-hero.webp"
 heroAlt: "Editorial photograph representing the concept of saltwater aquariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Natural History?"
 slug: natural-history
-description: "Natural history is the observation and study of the natural world — plants, animals, rocks, and ecosystems. Here's why it still matters today."
+description: "Natural history is the observation and study of the natural world — plants, animals, rocks, and ecosystems. Here's why it still matters today. Discover the k..."
 category: science
 tags: ["natural history", "biology", "ecology", "biodiversity", "observation", "conservation", "nature"]
 heroImage: "/images/articles/natural-history-hero.webp"

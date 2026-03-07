@@ -1,10 +1,10 @@
 ---
 title: "What Is Acting?"
 slug: acting
-description: "Acting is the art of portraying characters through speech, movement, and emotion. Explore its history, techniques, and what makes a performance work."
+description: "Acting is the art of portraying characters through speech, movement, and emotion. Explore its history, techniques, and what makes a performance work. Discove..."
 category: arts-amp-culture
 tags: ["acting", "theater", "film", "drama", "performance"]
-heroImage: "/images/articles/acting.webp"
+heroImage: "/images/articles/acting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of acting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -43,7 +43,7 @@ Roman theater borrowed from the Greeks but added spectacle: elaborate staging, m
 
 It resurfaced in the Middle Ages through the church, of all places. Mystery plays and morality plays dramatized Biblical stories, performed on wagons rolled through town squares. Acting was still broad and declamatory — subtlety wasn't the goal when you were competing with a noisy crowd and a market day.
 
-The Renaissance changed everything. Shakespeare's Globe Theatre (built 1599) demanded more nuanced performance. His characters have interior lives, contradictions, and psychological depth that required actors to do more than declaim. Hamlet's "To be or not to be" isn't a speech to be shouted — it's a private struggle made public.
+The Renaissance changed everything. Shakespeare's Globe Theatre (built 1599) demanded more layered performance. His characters have interior lives, contradictions, and psychological depth that required actors to do more than declaim. Hamlet's "To be or not to be" isn't a speech to be shouted — it's a private struggle made public.
 
 ## The Big Techniques
 

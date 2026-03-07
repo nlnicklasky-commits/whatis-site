@@ -4,7 +4,7 @@ slug: wildfire-management
 description: "Wildfire management involves preventing, suppressing, and using fire to protect communities and ecosystems. Learn about strategies, tools, and prescribed burns."
 category: science-technology
 tags: ["wildfire management", "firefighting", "prescribed burns", "forestry", "natural disasters", "ecology"]
-heroImage: "/images/articles/wildfire-management.webp"
+heroImage: "/images/articles/wildfire-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wildfire management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Yes, by most measures. The annual area burned in the western U.S. has more than doubled since the 1980s. The fire season is 78 days longer than in 1970. The number of large fires (over 1,000 acres) has increased sevenfold since the 1970s. Climate change (higher temperatures, earlier snowmelt, longer droughts) and a century of fire suppression (which allowed fuel to accumulate) are the primary drivers."
 ---
 
-# What Is Wildfire Management?
+# What Is Wildfire [Management](/wildlife-management)?
 
 Wildfire management is the practice of preventing, detecting, controlling, and strategically using fire across landscapes to protect human communities, infrastructure, and natural ecosystems. It's not simply [firefighting](/firefighting) — though that's the most visible part. Modern wildfire management includes prescribed burning, fuel reduction, land-use planning, community preparedness, and the increasingly uncomfortable acknowledgment that some ecosystems need fire and that trying to eliminate it entirely made things worse.
 
@@ -47,7 +47,7 @@ After the Great Fires of 1910 burned 3 million acres across Idaho, Montana, and 
 
 This policy was effective at what it intended: fewer acres burned annually. But it created an unintended consequence that took decades to recognize. By preventing frequent, low-intensity fires, suppression allowed fuels to accumulate to unprecedented levels. When fires inevitably occurred — through lightning, human carelessness, or conditions that overwhelmed suppression efforts — they burned with an intensity that natural ecosystems and human communities couldn't survive.
 
-The Yellowstone fires of 1988, which burned 793,000 acres despite $120 million in suppression costs and 25,000 firefighters, forced a national reckoning. Total suppression wasn't working. Fire managers began shifting toward a more nuanced approach.
+The Yellowstone fires of 1988, which burned 793,000 acres despite $120 million in suppression costs and 25,000 firefighters, forced a national reckoning. Total suppression wasn't working. Fire managers began shifting toward a more subtle approach.
 
 ## Modern Wildfire Strategy
 

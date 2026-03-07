@@ -1,7 +1,7 @@
 ---
 title: "What Is Computer Networking?"
 slug: computer-networking
-description: "Computer networking connects devices to share data using protocols like TCP/IP, enabling the internet, cloud computing, and modern communication."
+description: "Computer networking connects devices to share data using protocols like TCP/IP, enabling the internet, cloud computing, and modern communication. Discover th..."
 category: technology
 tags: ["networking", "internet", "data communication", "it", "network protocols", "cybersecurity", "cloud computing"]
 heroImage: "/images/articles/computer-networking-hero.webp"

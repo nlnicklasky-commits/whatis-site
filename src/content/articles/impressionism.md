@@ -4,7 +4,7 @@ slug: impressionism
 description: "Impressionism is an art movement from 1860s France that captured light and momentary scenes with visible brushwork. Learn about key artists and techniques."
 category: everyday-concepts
 tags: ["impressionism", "art history", "painting", "French art", "Monet", "modern art"]
-heroImage: "/images/articles/impressionism.webp"
+heroImage: "/images/articles/impressionism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of impressionism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

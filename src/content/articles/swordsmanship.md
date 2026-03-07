@@ -4,7 +4,7 @@ slug: swordsmanship
 description: "Swordsmanship is the art and skill of fighting with a sword. Learn about its history, major traditions, modern practice, and why people still train today."
 category: sports
 tags: ["swordsmanship", "martial arts", "fencing", "sword", "combat", "history"]
-heroImage: "/images/articles/swordsmanship.webp"
+heroImage: "/images/articles/swordsmanship-hero.webp"
 heroAlt: "Editorial photograph representing the concept of swordsmanship"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

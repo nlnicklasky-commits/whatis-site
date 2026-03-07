@@ -4,7 +4,7 @@ slug: sound-healing
 description: "Sound healing uses instruments like singing bowls and tuning forks to promote relaxation and well-being. Learn what the practice involves and what science says."
 category: health-amp-wellness
 tags: ["sound healing", "alternative medicine", "wellness", "meditation"]
-heroImage: "/images/articles/sound-healing.webp"
+heroImage: "/images/articles/sound-healing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sound healing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: vegan-cooking
 description: "Vegan cooking prepares food without any animal products. Learn about plant-based techniques, protein sources, flavor building, and essential ingredients."
 category: food-amp-drink
 tags: ["vegan cooking", "plant-based", "food", "nutrition", "cooking techniques", "recipes"]
-heroImage: "/images/articles/vegan-cooking.webp"
+heroImage: "/images/articles/vegan-cooking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vegan cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Vitamin B12 is the main concern — it's not found in plant foods and requires supplementation or fortified foods. Omega-3 fatty acids (available from flaxseed, chia seeds, walnuts, and algae supplements), iron (abundant in legumes and leafy greens but less bioavailable than animal iron), calcium (from fortified plant milks, tofu, and leafy greens), and vitamin D (supplementation recommended for most people regardless of diet) also deserve attention."
 ---
 
-# What Is Vegan Cooking?
+# What Is Vegan [Cooking](/vegetarian-cooking)?
 
-Vegan cooking is the preparation of food using exclusively plant-derived ingredients — no meat, dairy, eggs, honey, or any other animal products. It's cooking that works entirely within the plant kingdom, and when done well, it produces food that's satisfying, flavorful, and genuinely exciting to eat. When done poorly, it produces sad salads and flavorless tofu. The difference comes down to technique.
+Vegan [cooking](/cooking) is the preparation of [food](/food-science) using exclusively plant-derived ingredients — no meat, dairy, eggs, honey, or any other animal products. It's cooking that works entirely within the plant kingdom, and when done well, it produces food that's satisfying, flavorful, and genuinely exciting to eat. When done poorly, it produces sad salads and flavorless tofu. The difference comes down to technique.
 
 ## Beyond "Just Remove the Meat"
 
@@ -89,7 +89,7 @@ Many traditional cuisines feature extensive plant-based cooking that doesn't fee
 
 **East Asian cuisine** — Buddhist temple cooking in China, Korea, and Japan has produced centuries of sophisticated vegan cuisine. Mapo tofu, vegetable dumplings, japchae (Korean glass noodles), and dozens of Japanese preparations work beautifully without animal products.
 
-**Ethiopian cuisine** — During Orthodox fasting periods (which cover about 200 days per year), Ethiopians eat entirely plant-based. The resulting dishes — misir wot (red lentil stew), shiro (chickpea flour stew), gomen (collard greens) — served on injera bread, constitute one of the world's great vegan food traditions.
+**Ethiopian cuisine** — During Orthodox fasting periods (which cover about 200 days per year), Ethiopians eat entirely plant-based. The resulting dishes — misir wot (red lentil stew), shiro (chickpea flour stew), gomen (collard greens) — served on injera bread, constitute one of the [world](/world-cuisine)'s great vegan food traditions.
 
 ## The Practical Side
 

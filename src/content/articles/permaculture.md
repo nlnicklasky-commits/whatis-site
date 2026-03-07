@@ -1,10 +1,10 @@
 ---
 title: "What Is Permaculture?"
 slug: permaculture
-description: "Permaculture is a design system for sustainable living that mimics natural ecosystems. Learn about its principles, practices, and applications."
+description: "Permaculture is a design system for sustainable living that mimics natural ecosystems. Learn about its principles, practices, and applications. Discover the ..."
 category: everyday-concepts
 tags: ["permaculture", "sustainable living", "regenerative agriculture", "ecology", "food systems", "design"]
-heroImage: "/images/articles/permaculture.webp"
+heroImage: "/images/articles/permaculture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of permaculture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,7 +39,7 @@ The core question permaculture asks is deceptively simple: How do we meet human 
 
 Permaculture was developed in the 1970s by Bill Mollison and David Holmgren in Tasmania, Australia. Mollison, a biologist and field researcher, spent years observing natural ecosystems and became frustrated with conventional [agriculture](/agriculture)'s dependence on fossil fuels, synthetic chemicals, and soil-degrading practices.
 
-He and Holmgren proposed an alternative: design productive human systems by modeling them on the patterns of natural ecosystems. A forest doesn't need fertilizer, pesticide, or [irrigation](/irrigation). It maintains itself through interconnected relationships between species, nutrient cycling, [water management](/water-[management](/management)), and energy flow. What if human food systems could work the same way?
+He and Holmgren proposed an alternative: design productive human systems by modeling them on the patterns of natural ecosystems. A forest doesn't need fertilizer, pesticide, or [irrigation](/irrigation). It maintains itself through interconnected relationships between species, nutrient cycling, [water management](/water-law)), and energy flow. What if human food systems could work the same way?
 
 Their 1978 book *Permaculture One* laid out the principles. Mollison's subsequent *Permaculture: A Designers' Manual* (1988) became the movement's bible — a dense, 576-page guide covering everything from [soil science](/soil-science) to [economics](/economics).
 

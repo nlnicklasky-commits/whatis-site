@@ -4,7 +4,7 @@ slug: intelligence-analysis
 description: "Intelligence analysis is evaluating information to support decision-making in security and policy contexts. Learn about methods, agencies, and career paths."
 category: everyday-concepts
 tags: ["intelligence analysis", "national security", "critical thinking", "geopolitics", "data analysis"]
-heroImage: "/images/articles/intelligence-analysis.webp"
+heroImage: "/images/articles/intelligence-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of intelligence analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Most entry-level positions require a bachelor's degree, often in international relations, political science, area studies, languages, computer science, or a STEM field. Language skills are highly valued. Security clearance is required, which involves extensive background investigation. Advanced degrees and relevant experience improve prospects. Salaries range from $55,000 to $120,000+ depending on agency and experience."
 ---
 
-# What Is Intelligence Analysis?
+# What Is Intelligence [Analysis](/data-analysis)?
 
 Intelligence analysis is the systematic evaluation of information to produce assessments that support decision-making — primarily in national security, military, and law enforcement contexts. It is not spying (that is intelligence *collection*). Analysis is what happens after the information arrives: sorting fact from noise, evaluating source reliability, identifying patterns, and producing judgments about what it all means and what might happen next.
 
@@ -49,7 +49,7 @@ Intelligence operates through a defined process:
 
 ## Analytic Methods
 
-**Structured Analytic Techniques (SATs)** combat the cognitive biases that naturally affect human judgment:
+**Structured Analytic Techniques (SATs)** combat the [cognitive](/cognitive-bias) biases that naturally affect human judgment:
 
 - **Analysis of Competing Hypotheses (ACH)** — systematically evaluating evidence for and against multiple explanations rather than fixating on one.
 - **Red teaming** — assigning analysts to argue the opposing position, challenging assumptions.

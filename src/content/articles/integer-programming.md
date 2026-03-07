@@ -1,7 +1,7 @@
 ---
 title: "What Is Integer Programming?"
 slug: integer-programming
-description: "Integer programming is an optimization method where variables must be whole numbers, used to solve scheduling and logistics problems."
+description: "Integer programming is an optimization method where variables must be whole numbers, used to solve scheduling and logistics problems. Discover the key facts,..."
 category: technology
 tags: ["integer programming", "optimization", "operations research", "mathematical modeling", "discrete optimization", "linear programming"]
 heroImage: "/images/articles/integer-programming-hero.webp"
@@ -209,6 +209,6 @@ If you want to get into integer programming, here's a practical path.
 
 Integer programming is a mathematical optimization technique that handles problems where decision variables must be whole numbers — representing real-world constraints like yes/no decisions, indivisible resources, and discrete choices. It's dramatically harder to solve than continuous linear programming due to its combinatorial nature, but modern algorithms and solvers have made previously intractable problems routinely solvable.
 
-The field underpins logistics, scheduling, network design, energy systems, and [financial planning](/financial-planning) across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
+The field is the foundation of logistics, scheduling, network design, energy systems, and [financial planning](/financial-planning) across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
 
 If optimization interests you, integer programming is where theory meets practice in the most impactful way. The problems are mathematically deep, computationally challenging, and practically everywhere.

@@ -1,10 +1,10 @@
 ---
 title: "What Is Senior Care?"
 slug: senior-care
-description: "Senior care encompasses the services, support systems, and medical attention designed to help older adults live safely and with dignity."
+description: "Senior care encompasses the services, support systems, and medical attention designed to help older adults live safely and with dignity. Discover the key fac..."
 category: health-amp-wellness
 tags: ["senior care", "elder care", "gerontology", "assisted living"]
-heroImage: "/images/articles/senior-care.webp"
+heroImage: "/images/articles/senior-care-hero.webp"
 heroAlt: "Editorial photograph representing the concept of senior care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Warning signs include: difficulty managing medications, frequent falls, significant weight loss or poor nutrition, neglected personal hygiene, isolation and depression, unsafe driving, wandering or confusion, inability to manage finances, and caregiver burnout among family members. A geriatric care assessment from a healthcare professional can help determine the appropriate level of care."
 ---
 
+# What Is Senior Care?
 Senior care is the broad category of services, support systems, and medical attention designed to help older adults maintain their health, safety, independence, and quality of life as they age. It ranges from occasional help with grocery shopping to round-the-clock skilled [nursing](/nursing) — and everything in between.
 
 This matters to virtually everyone. About 10,000 Americans turn 65 every day, according to the U.S. Census Bureau. By 2030, all Baby Boomers will be over 65, making roughly 21% of the U.S. population seniors. Globally, the number of people aged 60 and older will double to 2.1 billion by 2050, according to the World Health Organization. Whether you're planning for your own aging or figuring out care for a parent, understanding senior care options isn't optional — it's a conversation most families will face.

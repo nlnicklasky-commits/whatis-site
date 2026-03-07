@@ -1,7 +1,7 @@
 ---
 title: "What Is Paleobiology?"
 slug: paleobiology
-description: "Paleobiology studies ancient life through fossils, combining biology and geology to understand evolution, extinction, and how organisms shaped Earth."
+description: "Paleobiology studies ancient life through fossils, combining biology and geology to understand evolution, extinction, and how organisms shaped Earth. Discove..."
 category: science
 tags: ["paleobiology", "paleontology", "fossils", "evolution", "paleoecology", "ancient life", "biology"]
 heroImage: "/images/articles/paleobiology-hero.webp"

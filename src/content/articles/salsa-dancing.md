@@ -1,10 +1,10 @@
 ---
 title: "What Is Salsa Dancing?"
 slug: salsa-dancing
-description: "Salsa dancing is a partner dance originating from Cuban and Puerto Rican music traditions. Learn about styles, basic steps, and the global scene."
+description: "Salsa dancing is a partner dance originating from Cuban and Puerto Rican music traditions. Learn about styles, basic steps, and the global scene. Discover th..."
 category: everyday-concepts
 tags: ["salsa dancing", "dance", "Latin dance", "partner dance", "music", "rhythm"]
-heroImage: "/images/articles/salsa-dancing.webp"
+heroImage: "/images/articles/salsa-dancing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of salsa dancing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Salsa is danced to faster, more complex music with a strong Afro-Cuban rhythm, emphasizing quick footwork, turns, and energetic movement. Bachata originated in the Dominican Republic, is danced to slower, more romantic music, and emphasizes body movement and close connection between partners. Both are popular Latin social dances and are often played at the same events. Many dancers learn both. Bachata is generally considered easier for beginners because the basic step is simpler and the music is slower."
 ---
 
-# What Is Salsa Dancing?
+# What Is Salsa [Dancing](/ballroom-dancing)?
 
-Salsa dancing is a partner [dance](/dance) performed to salsa music — a genre rooted in Cuban son, Puerto Rican bomba and plena, jazz, and other Caribbean and African rhythms. It's characterized by quick footwork, spins, and intricate lead-follow communication between partners, all built on a rhythmic foundation that makes your body want to move even before your brain decides to. Salsa is danced in clubs, studios, congresses, and street corners in virtually every major city on Earth, making it one of the most widely practiced social dances in the world.
+Salsa dancing is a partner [dance](/dance) performed to salsa [music](/pop-music) — a genre rooted in Cuban son, Puerto Rican bomba and plena, jazz, and other Caribbean and African rhythms. It's characterized by quick footwork, spins, and elaborate lead-follow communication between partners, all built on a rhythmic foundation that makes your body want to move even before your brain decides to. Salsa is danced in clubs, studios, congresses, and street corners in virtually every major city on Earth, making it one of the most widely practiced social dances in the world.
 
 ## Where It Came From
 
 Salsa's origins are complicated, and people argue about them passionately. Here's the short version.
 
-Cuban son — a blend of Spanish [guitar](/guitar) tradition and African rhythmic patterns — emerged in eastern Cuba in the late 19th century and became Cuba's national music by the 1930s. When Cuban musicians brought their sound to New York City in the 1940s and 1950s, it mixed with jazz, Puerto Rican music, and the energy of the Latin communities in East Harlem (El Barrio) and the South Bronx.
+Cuban son — a blend of Spanish [guitar](/guitar) tradition and African rhythmic patterns — emerged in eastern Cuba in the late 19th century and became Cuba's national [music](/blues-music) by the 1930s. When Cuban musicians brought their sound to New York City in the 1940s and 1950s, it mixed with jazz, Puerto Rican music, and the energy of the Latin communities in East Harlem (El Barrio) and the South Bronx.
 
 In the 1960s and 1970s, the Fania Records label in New York — run by Johnny Pacheco and Jerry Masucci — marketed this blend of Cuban, Puerto Rican, and jazz-influenced Latin music as "salsa." The name stuck, though Cuban musicians sometimes resent it, arguing that "salsa" is just Cuban music repackaged.
 
@@ -59,7 +59,7 @@ From this basic step, everything else builds: turns, cross-body leads, combinati
 
 **Cuban style (casino)** — danced in a circular pattern rather than the linear, slot-based movement of On1 and On2. Cuban salsa has a more relaxed, grounded feel with Afro-Cuban body movement. Rueda de casino — where multiple couples dance in a circle and exchange partners on the caller's commands — is one of the most fun group dance experiences you can have.
 
-**Colombian style** — faster, with intricate, rapid footwork close to the ground. Colombian salsa (particularly from Cali, the "salsa capital of the world") features lightning-fast foot patterns that are genuinely jaw-dropping.
+**Colombian style** — faster, with complex, rapid footwork close to the ground. Colombian salsa (particularly from Cali, the "salsa capital of the world") features lightning-fast foot patterns that are genuinely jaw-dropping.
 
 The style debates can get heated. On1 dancers and On2 dancers sometimes bicker. Cuban and linear dancers argue about which is "authentic." In practice, most social dancers adapt to whatever the floor demands, and the best dancers are comfortable in multiple styles.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Psychopharmacology?"
 slug: psychopharmacology
-description: "Psychopharmacology studies how drugs affect mood, thought, and behavior by altering brain chemistry, covering antidepressants to antipsychotics."
+description: "Psychopharmacology studies how drugs affect mood, thought, and behavior by altering brain chemistry, covering antidepressants to antipsychotics. Discover the..."
 category: science
 tags: ["psychopharmacology", "psychiatry", "neuroscience", "psychotropic drugs", "antidepressants", "antipsychotics"]
 heroImage: "/images/articles/psychopharmacology-hero.webp"

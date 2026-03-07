@@ -4,7 +4,7 @@ slug: exploration-history
 description: "Exploration history traces humanity's drive to map the unknown, from ancient seafarers to space missions. Learn about key expeditions and their impact."
 category: everyday-concepts
 tags: ["exploration history", "discovery", "navigation", "geography", "expeditions", "colonialism"]
-heroImage: "/images/articles/exploration-history.webp"
+heroImage: "/images/articles/exploration-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of exploration history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

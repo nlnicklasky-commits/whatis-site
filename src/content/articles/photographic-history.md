@@ -4,7 +4,7 @@ slug: photographic-history
 description: "Photographic history traces the evolution of photography from early experiments to digital imaging. Learn about key inventors, processes, and milestones."
 category: arts-amp-culture
 tags: ["photography", "history", "art", "camera", "image", "visual arts"]
-heroImage: "/images/articles/photographic-history.webp"
+heroImage: "/images/articles/photographic-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of photographic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

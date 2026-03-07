@@ -1,10 +1,10 @@
 ---
 title: "What Is Film Theory?"
 slug: film-theory
-description: "Film theory examines how movies create meaning through image, sound, and editing. Explore key theories from formalism to feminist film criticism."
+description: "Film theory examines how movies create meaning through image, sound, and editing. Explore key theories from formalism to feminist film criticism. Discover th..."
 category: everyday-concepts
 tags: ["film theory", "cinema studies", "semiotics", "auteur theory", "media studies", "aesthetics"]
-heroImage: "/images/articles/film-theory.webp"
+heroImage: "/images/articles/film-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of film theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Biophysics?"
 slug: biophysics
-description: "Biophysics uses physics methods to study biological systems. Learn about protein folding, cell membranes, molecular motors, and sensory perception."
+description: "Biophysics uses physics methods to study biological systems. Learn about protein folding, cell membranes, molecular motors, and sensory perception. Discover ..."
 category: science
 tags: ["biophysics", "physics", "biology", "molecular biology", "protein folding", "cell membrane", "sensory perception"]
 heroImage: "/images/articles/biophysics-hero.webp"

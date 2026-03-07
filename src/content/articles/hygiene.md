@@ -4,7 +4,7 @@ slug: hygiene
 description: "Hygiene is the set of practices that prevent disease and maintain health through cleanliness. Learn about personal, food, and public hygiene and their history."
 category: health-amp-wellness
 tags: ["hygiene", "cleanliness", "health", "public health", "disease prevention"]
-heroImage: "/images/articles/hygiene.webp"
+heroImage: "/images/articles/hygiene-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hygiene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -51,7 +51,7 @@ Humans have practiced some form of hygiene for as long as we've been human. Arch
 
 Ancient Rome was obsessed with bathing. The public baths (thermae) were massive [engineering](/engineering) projects — the Baths of Caracalla, completed around 216 CE, could hold an estimated 1,600 bathers simultaneously. Romans bathed daily if possible, used olive oil as a cleansing agent (scraped off with a curved tool called a strigil), and built aqueducts and sewer systems that were engineering marvels. The Cloaca Maxima, Rome's main sewer, is still partly in use 2,500 years after [construction](/construction).
 
-Medieval Europe gets a bad reputation for hygiene, but the reality is more nuanced. Bathhouses existed in most European cities through the 13th and 14th centuries. Islamic civilization during the same period maintained extraordinarily high standards of personal cleanliness — the hammam (public bath) was a social institution, and Islamic legal traditions prescribed specific hygiene practices. Clean water, dental care, and regular bathing were religious obligations.
+Medieval Europe gets a bad reputation for hygiene, but the reality is more layered. Bathhouses existed in most European cities through the 13th and 14th centuries. Islamic civilization during the same period maintained extraordinarily high standards of personal cleanliness — the hammam (public bath) was a social institution, and Islamic legal traditions prescribed specific hygiene practices. Clean water, dental care, and regular bathing were religious obligations.
 
 The real dark age for Western hygiene was roughly the 16th through 18th centuries. A combination of factors — fear that water carried disease, moral panics that led to bathhouse closures, and the Little Ice Age making heated baths expensive — led many Europeans to avoid bathing and instead rely on changing linen undergarments as a substitute for washing. It sounds disgusting because it was.
 
@@ -101,7 +101,7 @@ In 1989, epidemiologist David Strachan noticed something odd: children with more
 
 Subsequent research has broadly supported this idea, though with important nuances. The issue isn't personal hygiene per se — washing your hands doesn't cause asthma. The problem seems to be the overall reduction in microbial diversity in modern environments: smaller families, less time outdoors, more antibiotic use, C-section births (which bypass exposure to maternal vaginal microbiome), and highly sanitized indoor environments.
 
-This connects to growing research on the [human microbiome](/human-[nutrition](/nutrition)) and its relationship to immune function. The takeaway isn't that you should stop washing your hands — that would be foolish. It's that some exposure to environmental microbes, particularly in early childhood, appears to be beneficial for immune development. Let kids play in dirt. Get a dog. Don't sterilize everything.
+This connects to growing research on the [human microbiome](/humanism)) and its relationship to immune function. The takeaway isn't that you should stop washing your hands — that would be foolish. It's that some exposure to environmental microbes, particularly in early childhood, appears to be beneficial for immune development. Let kids play in dirt. Get a dog. Don't sterilize everything.
 
 ## Hygiene in the 21st Century
 

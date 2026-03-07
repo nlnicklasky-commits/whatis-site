@@ -4,7 +4,7 @@ slug: social-democracy
 description: "Social democracy blends capitalism with strong social welfare programs and worker protections. Learn how it differs from socialism and where it's practiced."
 category: politics
 tags: ["social democracy", "welfare state", "Nordic model", "politics", "capitalism", "labor rights"]
-heroImage: "/images/articles/social-democracy.webp"
+heroImage: "/images/articles/social-democracy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social democracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "Which countries are social democracies?"
     a: "The Nordic countries — Sweden, Denmark, Norway, Finland, and Iceland — are the most commonly cited examples. Germany, France, the Netherlands, Belgium, and Canada also have strong social democratic elements. These countries feature universal healthcare, free or subsidized education, generous unemployment benefits, strong labor unions, and progressive taxation — while maintaining market economies with private businesses."
   - q: "Does social democracy hurt economic growth?"
-    a: "Evidence suggests not. Nordic countries consistently rank among the world's most competitive, innovative, and prosperous economies. Denmark, Sweden, and Finland appear in the top 10 of the World Economic Forum's competitiveness rankings. High taxes fund high-quality public services that reduce poverty, improve health, and create a well-educated workforce — factors that support rather than hinder economic performance."
+    a: "Evidence suggests not. Nordic countries consistently rank among the world's most competitive, original, and prosperous economies. Denmark, Sweden, and Finland appear in the top 10 of the World Economic Forum's competitiveness rankings. High taxes fund high-quality public services that reduce poverty, improve health, and create a well-educated workforce — factors that support rather than hinder economic performance."
 ---
 
 # What Is Social Democracy?

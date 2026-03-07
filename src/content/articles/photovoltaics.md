@@ -161,7 +161,7 @@ Cells are soldered together, laminated between sheets of glass and polymer (typi
 
 ## Environmental Considerations
 
-Solar energy produces no emissions during operation, but the full lifecycle picture is more nuanced.
+Solar energy produces no emissions during operation, but the full lifecycle picture is more subtle.
 
 ### Energy Payback Time
 

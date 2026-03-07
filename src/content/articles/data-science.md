@@ -1,7 +1,7 @@
 ---
 title: "What Is Data Science?"
 slug: data-science
-description: "Data science combines statistics, programming, and domain expertise to extract knowledge from data. Learn about methods, tools, and careers."
+description: "Data science combines statistics, programming, and domain expertise to extract knowledge from data. Learn about methods, tools, and careers. Discover the key..."
 category: technology
 tags: ["data science", "machine learning", "statistics", "analytics", "big data", "ai", "programming"]
 heroImage: "/images/articles/data-science-hero.webp"

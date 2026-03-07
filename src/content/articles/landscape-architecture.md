@@ -4,7 +4,7 @@ slug: landscape-architecture
 description: "Landscape architecture is the design of outdoor spaces including parks, gardens, and urban areas. Learn about its principles, history, and career paths."
 category: everyday-concepts
 tags: ["landscape architecture", "urban design", "parks", "environmental design", "outdoor spaces"]
-heroImage: "/images/articles/landscape-architecture.webp"
+heroImage: "/images/articles/landscape-architecture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of landscape architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

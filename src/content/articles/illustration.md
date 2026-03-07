@@ -4,7 +4,7 @@ slug: illustration
 description: "Illustration is visual art created to explain, decorate, or tell stories alongside text. Learn about styles, careers, and the shift from print to digital."
 category: arts-amp-culture
 tags: ["illustration", "art", "visual communication", "drawing", "painting", "digital art"]
-heroImage: "/images/articles/illustration.webp"
+heroImage: "/images/articles/illustration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of illustration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ This does not make illustration lesser than fine art — a common and irritating
 
 ## A Quick History
 
-Illustration is as old as the combination of words and pictures. Medieval illuminated manuscripts — hand-painted pages with ornate borders, gilded initials, and narrative scenes — are illustration in its purest form. The Book of Kells (circa 800 CE) contains some of the most intricate illustrative work ever produced.
+Illustration is as old as the combination of words and pictures. Medieval illuminated manuscripts — hand-painted pages with ornate borders, gilded initials, and narrative scenes — are illustration in its purest form. The Book of Kells (circa 800 CE) contains some of the most involved illustrative work ever produced.
 
 The printing press changed everything. Woodcuts and later engravings made illustrations reproducible. By the 1800s, illustration was big business. Magazines like Harper's, Scribner's, and The Saturday Evening Post hired artists whose names became household words — Howard Pyle, N.C. Wyeth, Maxfield Parrish.
 

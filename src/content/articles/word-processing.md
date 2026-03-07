@@ -4,7 +4,7 @@ slug: word-processing
 description: "Word processing is the creation, editing, formatting, and printing of text documents using software, from basic letters to complex reports and manuscripts."
 category: technology
 tags: ["software", "word processing", "productivity"]
-heroImage: "/images/articles/word-processing.webp"
+heroImage: "/images/articles/word-processing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of word processing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

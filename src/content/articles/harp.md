@@ -4,7 +4,7 @@ slug: harp
 description: "The harp is one of the oldest string instruments, spanning cultures from ancient Egypt to modern orchestras. Learn about types, tuning, and technique."
 category: arts-amp-culture
 tags: ["harp", "musical instrument", "string instrument", "music", "orchestral music", "folk music"]
-heroImage: "/images/articles/harp.webp"
+heroImage: "/images/articles/harp-hero.webp"
 heroAlt: "Editorial photograph representing the concept of harp"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

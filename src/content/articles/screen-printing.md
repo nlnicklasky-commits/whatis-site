@@ -1,10 +1,10 @@
 ---
 title: "What Is Screen Printing?"
 slug: screen-printing
-description: "Screen printing pushes ink through a stenciled mesh to create designs on fabric, paper, and more. Learn the process, history, and applications."
+description: "Screen printing pushes ink through a stenciled mesh to create designs on fabric, paper, and more. Learn the process, history, and applications. Discover the ..."
 category: arts-amp-culture
 tags: ["screen printing", "silk screen", "printing", "textile printing", "art print", "stencil"]
-heroImage: "/images/articles/screen-printing.webp"
+heroImage: "/images/articles/screen-printing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of screen printing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: fairy-tales
 description: "Fairy tales are short stories featuring magical elements, moral lessons, and archetypal characters. Discover their origins, evolution, and lasting appeal."
 category: arts-amp-culture
 tags: ["folklore", "mythology", "children's literature", "storytelling", "fantasy", "traditional stories"]
-heroImage: "/images/articles/fairy-tales.webp"
+heroImage: "/images/articles/fairy-tales-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fairy tales"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Fairy Tales?
 
-A fairy tale is a short narrative featuring magical elements — enchanted objects, supernatural beings, impossible transformations — usually set in a vague "once upon a time" past. Despite the name, most fairy tales don't actually contain fairies. What they do contain are witches, talking wolves, cursed princes, clever peasants, and moral lessons wrapped in stories strange enough to stick in your memory for decades.
+A fairy tale is a short narrative featuring magical elements — enchanted objects, [supernatural](/supernatural-folklore) beings, impossible transformations — usually set in a vague "once upon a time" past. Despite the name, most fairy tales don't actually contain fairies. What they do contain are witches, talking wolves, cursed princes, clever peasants, and moral lessons wrapped in stories strange enough to stick in your memory for decades.
 
 ## Older Than You Think
 

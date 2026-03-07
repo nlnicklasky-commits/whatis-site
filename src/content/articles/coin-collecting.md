@@ -4,7 +4,7 @@ slug: coin-collecting
 description: "Coin collecting (numismatics) is the hobby of acquiring and studying coins. Learn about grading, rare coins, getting started, and building a collection."
 category: everyday-concepts
 tags: ["coin collecting", "numismatics", "coins", "collectibles", "history", "hobbies"]
-heroImage: "/images/articles/coin-collecting.webp"
+heroImage: "/images/articles/coin-collecting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of coin collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

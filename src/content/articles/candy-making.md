@@ -4,7 +4,7 @@ slug: candy-making
 description: "Candy making is the art of creating confections by heating sugar to specific temperatures and combining it with flavors, colors, and other ingredients."
 category: everyday-concepts
 tags: ["candy making", "confectionery", "sweets", "sugar", "culinary arts", "baking"]
-heroImage: "/images/articles/candy-making.webp"
+heroImage: "/images/articles/candy-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of candy making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
 
 Candy making ([confectionery](/confectionery)) is the craft of creating sweet treats by manipulating sugar — heating it to precise temperatures, combining it with other ingredients, and shaping the results into everything from soft fudge to hard lollipops to silky truffles. It's one of the most temperature-sensitive forms of [cooking](/cooking), where a few degrees can mean the difference between success and a sticky disaster.
 
-## Sugar Science
+## Sugar [Science](/food-science)
 
-The [chemistry](/food-[chemistry](/chemistry)) of candy making is fundamentally about sugar and water. When you dissolve sugar in water and heat the solution, water evaporates. The higher the temperature, the less water remains, and the harder the cooled candy will be. This is why candy recipes specify exact temperatures rather than cooking times.
+The [chemistry](/superfoods)) of candy making is fundamentally about sugar and water. When you dissolve sugar in water and heat the solution, water evaporates. The higher the temperature, the less water remains, and the harder the cooled candy will be. This is why candy recipes specify exact temperatures rather than cooking times.
 
 The stages, from lowest to highest temperature:
 

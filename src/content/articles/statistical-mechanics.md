@@ -4,7 +4,7 @@ slug: statistical-mechanics
 description: "Statistical mechanics connects the microscopic behavior of atoms and molecules to the macroscopic properties we observe, like temperature and pressure."
 category: science
 tags: ["physics", "statistical mechanics", "thermodynamics", "entropy", "Boltzmann", "quantum mechanics"]
-heroImage: "/images/articles/statistical-mechanics.webp"
+heroImage: "/images/articles/statistical-mechanics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of statistical mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

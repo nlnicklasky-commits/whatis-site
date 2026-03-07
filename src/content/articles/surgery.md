@@ -4,7 +4,7 @@ slug: surgery
 description: "Surgery is a medical procedure involving manual or instrumental techniques to treat injuries, diseases, or deformities. Learn about types, risks, and history."
 category: health-amp-wellness
 tags: ["medicine", "surgery", "healthcare", "surgical procedures"]
-heroImage: "/images/articles/surgery.webp"
+heroImage: "/images/articles/surgery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of surgery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

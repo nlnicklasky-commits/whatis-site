@@ -1,7 +1,7 @@
 ---
 title: "What Is Carbohydrate Chemistry?"
 slug: carbohydrate-chemistry
-description: "Carbohydrate chemistry studies the structure, synthesis, and reactions of sugars and polysaccharides, from glucose molecules to cellulose and starch."
+description: "Carbohydrate chemistry studies the structure, synthesis, and reactions of sugars and polysaccharides, from glucose molecules to cellulose and starch. Discove..."
 category: science
 tags: ["carbohydrate chemistry", "organic chemistry", "biochemistry", "sugars", "glucose", "polysaccharides", "monosaccharides"]
 heroImage: "/images/articles/carbohydrate-chemistry-hero.webp"

@@ -4,7 +4,7 @@ slug: spiritualism
 description: "Spiritualism is the belief that the living can communicate with the dead through mediums. Learn about its history, practices, key figures, and lasting."
 category: philosophy
 tags: ["spiritualism", "philosophy", "religion", "mediumship", "paranormal", "history"]
-heroImage: "/images/articles/spiritualism.webp"
+heroImage: "/images/articles/spiritualism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of spiritualism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

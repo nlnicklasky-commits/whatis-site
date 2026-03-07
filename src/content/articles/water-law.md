@@ -4,7 +4,7 @@ slug: water-law
 description: "Water law governs the rights to use, distribute, and protect water resources. Learn about water rights doctrines, disputes, regulations, and key issues."
 category: everyday-concepts
 tags: ["water law", "water rights", "environmental law", "natural resources", "policy", "regulation"]
-heroImage: "/images/articles/water-law.webp"
+heroImage: "/images/articles/water-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Water is scarce in the American West while demand is high. Agriculture consumes about 80% of Western water, and growing cities need more. The Colorado River, which supplies 40 million people, has been over-allocated since the 1922 Compact — the river doesn't contain enough water to satisfy all legal claims. Climate change is reducing snowpack and river flows, intensifying competition among states, cities, farmers, tribes, and ecosystems."
 ---
 
-# What Is Water Law?
+# What Is [Water](/[water](/water-purification)-management) Law?
 
 Water law is the body of legal rules governing who can use water, how much they can take, what they can do with it, and who's responsible when things go wrong. It sounds dry (no pun intended), but water law is actually one of the most contested and consequential areas of legal practice — because water is simultaneously essential for human survival, economic activity, and ecosystem health, and there's never enough to satisfy every demand.
 
@@ -67,7 +67,7 @@ Several major federal laws overlay state water rights systems:
 
 **Clean Water Act (1972)** — Regulates discharge of pollutants into navigable waters. Established the permit system for industrial and municipal discharges. The EPA sets water quality standards; states implement them.
 
-**Safe Drinking Water Act (1974)** — Sets standards for drinking water quality and oversees the systems (about 150,000 public water systems) that deliver water to Americans.
+**Safe Drinking Water Act (1974)** — Sets standards for drinking water quality and oversees the systems (about 150,000 [public](/public-policy) water systems) that deliver water to Americans.
 
 **Endangered Species Act (1973)** — Can restrict water use when threatened or endangered species depend on specific water flows. This creates fierce conflicts when environmental water needs compete with agricultural or urban demands.
 

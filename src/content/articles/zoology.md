@@ -1,16 +1,16 @@
 ---
 title: "What Is Zoology?"
 slug: zoology
-description: "Zoology is the branch of biology that studies animals, their behavior, physiology, genetics, evolution, and interactions with ecosystems."
+description: "Zoology is the branch of biology that studies animals, their behavior, physiology, genetics, evolution, and interactions with ecosystems. Discover the key fa..."
 category: science
 tags: ["biology", "animals", "ecology", "wildlife", "evolution"]
-heroImage: "/images/articles/zoology.webp"
+heroImage: "/images/articles/zoology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of zoology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 4050
+readingTime: 10
+wordCount: 2469
 tier: '1'
 relatedArticles: ["biology", "ecology", "evolutionary-biology", "animal-behavior", "anatomy"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "Zoology studies animals scientifically — their biology, behavior, and ecology. Veterinary science focuses specifically on diagnosing, treating, and preventing diseases in animals. A vet is essentially an animal doctor; a zoologist is an animal scientist."
 ---
 
+# What Is Zoology?
 Zoology is the scientific study of animals — their structure, development, behavior, classification, distribution, evolution, and ecological relationships. It's one of the oldest branches of [biology](/biology), stretching back to Aristotle's systematic observations of over 500 species in the 4th century BCE.
 
 If that sounds broad, it's because it is. Zoology covers everything from microscopic tardigrades that can survive in outer space to 100-foot blue whales, from the social behavior of chimpanzees to the biochemistry of jellyfish venom. Any question about any animal, at any level of analysis, falls under zoology's umbrella.

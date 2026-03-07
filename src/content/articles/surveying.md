@@ -4,7 +4,7 @@ slug: surveying
 description: "Surveying is the science of measuring and mapping land, determining precise positions, elevations, and boundaries using instruments like GPS and total stations."
 category: technology
 tags: ["engineering", "surveying", "cartography", "civil engineering", "geospatial technology"]
-heroImage: "/images/articles/surveying.webp"
+heroImage: "/images/articles/surveying-hero.webp"
 heroAlt: "Editorial photograph representing the concept of surveying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "A land (boundary) survey determines property lines and corners. A topographic survey maps the elevation and features of the land surface — hills, valleys, trees, structures — and is used primarily for engineering design and construction planning."
 ---
 
+# What Is Surveying?
 Surveying is the science and practice of determining the precise positions, distances, angles, and elevations of points on, above, or below the Earth's surface. It produces the spatial data that makes [construction](/construction), property ownership, mapping, and [infrastructure planning](/infrastructure-planning) possible.
 
 Every building you've ever entered, every road you've driven on, every property line that separates your yard from your neighbor's — all of these started with a surveyor. Before a single shovel breaks ground on a construction project, before a property changes hands, before a bridge or highway is designed, someone has to measure the land. That someone is a surveyor, and they've been doing this work — in one form or another — for about 5,000 years.

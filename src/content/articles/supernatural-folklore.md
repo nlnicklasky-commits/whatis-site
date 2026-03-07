@@ -4,7 +4,7 @@ slug: supernatural-folklore
 description: "Supernatural folklore includes myths, legends, and beliefs about ghosts, spirits, and the unexplained. Learn where these stories come from and why they persist."
 category: arts-amp-culture
 tags: ["supernatural folklore", "folklore", "mythology", "ghosts", "legends", "culture"]
-heroImage: "/images/articles/supernatural-folklore.webp"
+heroImage: "/images/articles/supernatural-folklore-hero.webp"
 heroAlt: "Editorial photograph representing the concept of supernatural folklore"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -79,7 +79,7 @@ The human body is traditionally divided into 11 organ systems. Here's the quick 
 
 **Muscular system.** Over 600 skeletal muscles, accounting for roughly 40% of your body weight. Three types exist: skeletal (voluntary, attached to bones), cardiac (involuntary, only in the heart), and smooth (involuntary, lining organs and vessels). Your strongest muscle depends on how you measure — the masseter (jaw) generates the most force per unit area, but the gluteus maximus is the largest overall.
 
-**Circulatory system.** The heart, blood vessels, and blood. Your heart beats about 100,000 times per day, pumping roughly 7,500 liters of blood. Laid end to end, your blood vessels would stretch about 100,000 kilometers — enough to circle the Earth twice and then some. [Medicine](/medicine) probably owes more discoveries to studying this system than any other.
+**Circulatory system.** The heart, blood vessels, and blood. Your heart beats about 100,000 times per day, pumping roughly 7,500 liters of blood. Laid end to end, your blood vessels would stretch about 100,000 kilometers — enough to circle the Earth twice and then some. [Medicine](/meditation) probably owes more discoveries to studying this system than any other.
 
 **Nervous system.** The brain, spinal cord, and peripheral nerves. Your brain contains approximately 86 billion neurons, each connected to thousands of others. Nerve signals can travel at speeds up to 120 meters per second (about 268 mph) along myelinated fibers. The nervous system is where anatomy starts bleeding into [neuroscience](/neuroscience), and frankly, the line between the two is blurry.
 
@@ -157,7 +157,7 @@ Clinicians use **surface anatomy** — landmarks visible or palpable on the body
 
 ### Cross-Sectional and Radiological Anatomy
 
-Modern [medicine](/medicine) demands that doctors read CT scans, MRIs, and ultrasound images fluently. This requires a different kind of anatomical thinking — you're seeing the body in two-dimensional slices rather than three-dimensional space, and you have to mentally reconstruct the 3D arrangement. Radiology residents spend years training their eyes to distinguish normal from abnormal on these images, and it all starts with knowing what normal anatomy looks like in cross-section.
+Modern [medicine](/meditation) demands that doctors read CT scans, MRIs, and ultrasound images fluently. This requires a different kind of anatomical thinking — you're seeing the body in two-dimensional slices rather than three-dimensional space, and you have to mentally reconstruct the 3D arrangement. Radiology residents spend years training their eyes to distinguish normal from abnormal on these images, and it all starts with knowing what normal anatomy looks like in cross-section.
 
 ### Anatomical Variation
 

@@ -4,7 +4,7 @@ slug: sleep-science
 description: "Sleep science studies why and how we sleep, covering sleep stages, circadian rhythms, and the health effects of sleep deprivation. Here's what researchers know."
 category: health-amp-wellness
 tags: ["sleep", "neuroscience", "health", "circadian rhythm"]
-heroImage: "/images/articles/sleep-science.webp"
+heroImage: "/images/articles/sleep-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sleep science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

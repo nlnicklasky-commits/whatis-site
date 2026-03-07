@@ -4,7 +4,7 @@ slug: transportation-history
 description: "Transportation history traces how humans moved people and goods, from ancient roads to railways, automobiles, and aviation that reshaped civilization."
 category: history
 tags: ["transportation history", "transport", "railways", "aviation", "automobiles"]
-heroImage: "/images/articles/transportation-history.webp"
+heroImage: "/images/articles/transportation-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of transportation history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

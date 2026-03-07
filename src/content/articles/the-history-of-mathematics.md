@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Mathematics?"
 slug: the-history-of-mathematics
-description: "The history of mathematics spans from ancient counting systems to modern abstractions, covering geometry, algebra, calculus, and beyond."
+description: "The history of mathematics spans from ancient counting systems to modern abstractions, covering geometry, algebra, calculus, and beyond. Discover the key fac..."
 category: history
 tags: ["history of mathematics", "mathematics", "geometry", "algebra", "calculus"]
-heroImage: "/images/articles/the-history-of-mathematics.webp"
+heroImage: "/images/articles/the-history-of-mathematics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of mathematics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -103,7 +103,7 @@ The 18th century saw **Leonhard Euler** become the most prolific mathematician i
 
 Mathematics in the 1800s underwent a radical shift from calculation to abstraction.
 
-**Carl Friedrich Gauss** contributed to virtually every branch of mathematics. **Evariste Galois**, killed in a duel at age 20, left behind work that founded [group theory](/group-theory) — a framework for understanding symmetry that now underpins modern physics. **Bernhard Riemann** reimagined geometry in higher dimensions, creating the mathematical framework Einstein would later need for [general relativity](/general-relativity).
+**Carl Friedrich Gauss** contributed to virtually every branch of mathematics. **Evariste Galois**, killed in a duel at age 20, left behind work that founded [group theory](/group-theory) — a framework for understanding symmetry that now supports modern physics. **Bernhard Riemann** reimagined geometry in higher dimensions, creating the mathematical framework Einstein would later need for [general relativity](/general-relativity).
 
 **Georg Cantor** blew everyone's minds by proving that infinity comes in different sizes. The set of real numbers is "bigger" (in a precise sense) than the set of natural numbers, even though both are infinite. Many of his contemporaries hated this idea. Henri Poincare called it a "disease." Leopold Kronecker called Cantor a "corrupter of youth." Cantor suffered severe depression and died in a sanatorium.
 

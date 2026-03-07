@@ -4,7 +4,7 @@ slug: livestock-farming
 description: "Livestock farming is the raising of animals for food, fiber, and labor. Learn about types of livestock, farming methods, economics, and sustainability."
 category: agriculture
 tags: ["livestock farming", "agriculture", "animal husbandry", "cattle", "farming", "food production"]
-heroImage: "/images/articles/livestock-farming.webp"
+heroImage: "/images/articles/livestock-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of livestock farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

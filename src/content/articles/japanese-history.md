@@ -4,7 +4,7 @@ slug: japanese-history
 description: "Japanese history spans from ancient Jomon culture to modern economic power. Learn about samurai, shoguns, the Meiji Restoration, and Japan's global influence."
 category: history
 tags: ["japanese culture", "japan", "samurai", "shogunate", "meiji restoration"]
-heroImage: "/images/articles/japanese-history.webp"
+heroImage: "/images/articles/japanese-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of japanese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

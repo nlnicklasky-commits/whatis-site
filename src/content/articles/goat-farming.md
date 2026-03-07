@@ -1,10 +1,10 @@
 ---
 title: "What Is Goat Farming?"
 slug: goat-farming
-description: "Goat farming raises goats for milk, meat, fiber, and land management. Learn about breeds, care requirements, products, and starting a goat operation."
+description: "Goat farming raises goats for milk, meat, fiber, and land management. Learn about breeds, care requirements, products, and starting a goat operation. Discove..."
 category: everyday-concepts
 tags: ["goat farming", "goats", "agriculture", "livestock", "dairy farming", "meat production"]
-heroImage: "/images/articles/goat-farming.webp"
+heroImage: "/images/articles/goat-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of goat farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

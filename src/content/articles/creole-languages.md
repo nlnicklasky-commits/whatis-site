@@ -4,7 +4,7 @@ slug: creole-languages
 description: "Creole languages are fully developed languages that emerged from contact between different linguistic groups. Learn about their origins and structure."
 category: everyday-concepts
 tags: ["creole languages", "everyday-concepts"]
-heroImage: "/images/articles/creole-languages.webp"
+heroImage: "/images/articles/creole-languages-hero.webp"
 heroAlt: "Editorial photograph representing the concept of creole languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

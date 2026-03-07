@@ -4,7 +4,7 @@ slug: modern-history
 description: "Modern history covers roughly 1500 CE to today. Learn how the Renaissance, revolutions, world wars, and globalization shaped the world you live in now."
 category: history
 tags: ["history", "modern era", "world history"]
-heroImage: "/images/articles/modern-history.webp"
+heroImage: "/images/articles/modern-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of modern history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

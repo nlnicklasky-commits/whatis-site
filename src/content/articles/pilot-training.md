@@ -4,7 +4,7 @@ slug: pilot-training
 description: "Pilot training is the process of learning to fly aircraft through ground school, flight hours, and certification. Learn about licenses, costs, and career paths."
 category: everyday-concepts
 tags: ["pilot training", "aviation", "flying", "career", "FAA", "aerospace"]
-heroImage: "/images/articles/pilot-training.webp"
+heroImage: "/images/articles/pilot-training-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pilot training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

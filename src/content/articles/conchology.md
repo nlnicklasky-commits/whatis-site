@@ -1,7 +1,7 @@
 ---
 title: "What Is Conchology?"
 slug: conchology
-description: "Conchology is the study of mollusk shells — their structure, classification, evolution, and beauty — spanning snails, clams, nautilus, and more."
+description: "Conchology is the study of mollusk shells — their structure, classification, evolution, and beauty — spanning snails, clams, nautilus, and more. Discover the..."
 category: science
 tags: ["biology", "molluscs", "shells", "marine life", "zoology", "natural history", "biodiversity"]
 heroImage: "/images/articles/conchology-hero.webp"

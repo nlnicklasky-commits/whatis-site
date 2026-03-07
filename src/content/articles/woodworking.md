@@ -4,7 +4,7 @@ slug: woodworking
 description: "Woodworking is the craft of building objects from wood using hand and power tools. Learn about joinery, essential tools, wood types, and beginner project ideas."
 category: everyday-concepts
 tags: ["woodworking", "carpentry", "joinery", "hand tools", "furniture making", "crafts"]
-heroImage: "/images/articles/woodworking.webp"
+heroImage: "/images/articles/woodworking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of woodworking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

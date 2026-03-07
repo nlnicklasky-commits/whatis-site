@@ -4,7 +4,7 @@ slug: film-editing
 description: "Film editing is the art of selecting and assembling footage into a finished movie. Learn about editing techniques, tools, and why editors shape stories."
 category: arts-amp-culture
 tags: ["film", "cinema", "post-production", "editing", "filmmaking", "movie making"]
-heroImage: "/images/articles/film-editing.webp"
+heroImage: "/images/articles/film-editing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of film editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: urban-development
 description: "Urban development is the process of building, expanding, and improving cities. Learn about housing, infrastructure, economic growth, and redevelopment."
 category: technology
 tags: ["urban development", "city planning", "infrastructure", "housing", "real estate"]
-heroImage: "/images/articles/urban-development.webp"
+heroImage: "/images/articles/urban-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urban development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -71,7 +71,7 @@ How people move through a city shapes everything about it. Transportation invest
 
 The invisible infrastructure — water supply, sewerage, stormwater [management](/management), electricity, natural gas, telecommunications — is less glamorous than buildings and transit but equally essential.
 
-Many American cities have aging utility infrastructure that needs replacement. The American Society of [Civil Engineers](/civil-[engineering](/engineering)) gives U.S. infrastructure a C- grade overall. Water main breaks cause an estimated 6 billion gallons of treated water loss per day. Sewer overflows discharge untreated wastewater during storms. Fixing these systems costs billions, but the cost of not fixing them is higher — the EPA estimates that the U.S. needs about $625 billion in water infrastructure investment over the next 20 years.
+Many American cities have aging utility infrastructure that needs replacement. The American Society of [Civil Engineers](/civil-law)) gives U.S. infrastructure a C- grade overall. Water main breaks cause an estimated 6 billion gallons of treated water loss per day. Sewer overflows discharge untreated wastewater during storms. Fixing these systems costs billions, but the cost of not fixing them is higher — the EPA estimates that the U.S. needs about $625 billion in water infrastructure investment over the next 20 years.
 
 ## How Urban Development Happens
 

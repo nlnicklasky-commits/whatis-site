@@ -4,7 +4,7 @@ slug: social-anthropology
 description: "Social anthropology studies human societies and cultures through fieldwork and observation. Learn how anthropologists understand social structures and customs."
 category: social-sciences
 tags: ["social anthropology", "culture", "ethnography", "fieldwork", "kinship", "social structure"]
-heroImage: "/images/articles/social-anthropology.webp"
+heroImage: "/images/articles/social-anthropology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,6 +59,6 @@ The discipline has changed enormously since its colonial-era origins. Early anth
 
 Contemporary anthropologists study everything from Silicon Valley tech culture to climate change adaptation in Pacific Island communities. Corporate ethnography has become a significant field — companies like Intel, Microsoft, and Google employ anthropologists to understand how people actually use technology (as opposed to how engineers think they should use it).
 
-[Medical anthropology](/medical-anthropology) examines how different cultures understand health, illness, and healing — crucial knowledge for [public health](/public-health) programs that fail when they ignore local beliefs and practices. Development anthropology studies why aid programs succeed or fail based on cultural context. Digital anthropology examines online communities and virtual worlds.
+[Medical anthropology](/medical-anthropology) examines how different cultures understand health, illness, and healing — crucial knowledge for [public health](/public-health) programs that fail when they ignore local beliefs and practices. Development anthropology studies why aid programs succeed or fail based on [cultural](/cultural-anthropology) context. Digital anthropology examines online communities and virtual worlds.
 
 The discipline's insistence on context, complexity, and the insider's perspective remains its greatest strength. In a world that loves simple explanations and universal solutions, social anthropology reminds us that human life is complicated, that different is not inferior, and that understanding requires patience, humility, and genuine engagement with how other people see the world.

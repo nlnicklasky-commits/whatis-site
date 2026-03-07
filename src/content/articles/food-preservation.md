@@ -1,10 +1,10 @@
 ---
 title: "What Is Food Preservation?"
 slug: food-preservation
-description: "Food preservation extends the shelf life of food through techniques like canning, freezing, drying, and fermentation. Learn the methods and science."
+description: "Food preservation extends the shelf life of food through techniques like canning, freezing, drying, and fermentation. Learn the methods and science. Discover..."
 category: everyday-concepts
 tags: ["food science", "food safety", "preservation", "shelf life", "canning", "freezing"]
-heroImage: "/images/articles/food-preservation.webp"
+heroImage: "/images/articles/food-preservation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of food preservation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

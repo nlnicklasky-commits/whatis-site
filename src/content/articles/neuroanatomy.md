@@ -1,7 +1,7 @@
 ---
 title: "What Is Neuroanatomy?"
 slug: neuroanatomy
-description: "Neuroanatomy studies the structure of the nervous system, from brain regions and spinal cord pathways to individual neurons and their connections."
+description: "Neuroanatomy studies the structure of the nervous system, from brain regions and spinal cord pathways to individual neurons and their connections. Discover t..."
 category: science
 tags: ["neuroanatomy", "nervous system", "brain", "spinal cord", "neurons", "anatomy", "neuroscience"]
 heroImage: "/images/articles/neuroanatomy-hero.webp"
@@ -28,7 +28,7 @@ faq:
   - q: "What is the difference between neuroanatomy and neuroscience?"
     a: "Neuroanatomy specifically studies the physical structure of the nervous system — the parts, their locations, and how they connect. Neuroscience is the broader field that includes neuroanatomy along with neurophysiology, neurochemistry, cognitive neuroscience, and other subdisciplines."
   - q: "Why do neuroanatomists study brain damage?"
-    a: "Brain injuries and strokes reveal which brain structures are responsible for specific functions. When damage to a particular area causes a specific deficit — like loss of speech or inability to recognize faces — it demonstrates that area's role. This lesion-function mapping has been a cornerstone of neuroanatomy for over 150 years."
+    a: "Brain injuries and strokes reveal which brain structures are responsible for specific functions. When damage to a particular area causes a specific deficit — like loss of speech or inability to recognize faces — it demonstrates that area's role. This lesion-function mapping has been a foundation of neuroanatomy for over 150 years."
   - q: "Can neuroanatomy explain consciousness?"
     a: "Neuroanatomy identifies the brain structures involved in conscious awareness — the thalamus, cerebral cortex, and brainstem reticular formation all play roles. But how physical brain structures produce subjective experience remains one of the deepest unsolved questions in science."
 ---
@@ -55,7 +55,7 @@ But neuroanatomy as a real science began with **Andreas Vesalius** in 1543, whos
 
 The real revolution came with **Santiago Ramon y Cajal** in the late 1800s. Using a staining technique developed by Camillo Golgi, Cajal painstakingly drew individual neurons under the microscope. His drawings — thousands of them — proved that the nervous system is composed of discrete cells (neurons) rather than a continuous web. This "neuron doctrine" earned Cajal and Golgi the Nobel Prize in 1906, even though they disagreed about the finding it supported.
 
-Modern neuroanatomy uses MRI, diffusion tensor imaging, [electron microscopy](/electron-[microscopy](/microscopy)), and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
+Modern neuroanatomy uses MRI, diffusion tensor imaging, [electron microscopy](/electricity)), and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
 
 ## Gross Anatomy: The Big Structures
 

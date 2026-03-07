@@ -4,7 +4,7 @@ slug: human-nutrition
 description: "Human nutrition is the science of how food sustains the body. Learn about macronutrients, micronutrients, dietary guidelines, and common myths about eating."
 category: health-amp-wellness
 tags: ["human nutrition", "nutrition", "diet", "health", "food science"]
-heroImage: "/images/articles/human-nutrition.webp"
+heroImage: "/images/articles/human-nutrition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of human nutrition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

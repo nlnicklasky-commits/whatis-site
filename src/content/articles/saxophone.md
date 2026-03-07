@@ -1,10 +1,10 @@
 ---
 title: "What Is Saxophone?"
 slug: saxophone
-description: "The saxophone is a woodwind instrument invented in the 1840s, famous for its role in jazz, classical music, and popular music."
+description: "The saxophone is a woodwind instrument invented in the 1840s, famous for its role in jazz, classical music, and popular music. Discover the key facts, histor..."
 category: arts-amp-culture
 tags: ["saxophone", "musical instrument", "woodwind", "jazz", "classical music", "adolphe sax"]
-heroImage: "/images/articles/saxophone.webp"
+heroImage: "/images/articles/saxophone-hero.webp"
 heroAlt: "Editorial photograph representing the concept of saxophone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

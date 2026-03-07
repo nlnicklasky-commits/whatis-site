@@ -1,10 +1,10 @@
 ---
 title: "What Is Neoclassicism?"
 slug: neoclassicism
-description: "Neoclassicism is an art and architectural movement inspired by ancient Greece and Rome. Learn about its origins, key artists, and lasting influence."
+description: "Neoclassicism is an art and architectural movement inspired by ancient Greece and Rome. Learn about its origins, key artists, and lasting influence. Discover..."
 category: everyday-concepts
 tags: ["neoclassicism", "art history", "architecture", "classical art", "enlightenment", "sculpture"]
-heroImage: "/images/articles/neoclassicism.webp"
+heroImage: "/images/articles/neoclassicism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of neoclassicism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Neoclassicism?
 
-Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to [government](/government) buildings and [political philosophy](/political-[philosophy](/philosophy)).
+Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to [government](/government) buildings and [political philosophy](/politics)).
 
 ## Why It Happened When It Did
 

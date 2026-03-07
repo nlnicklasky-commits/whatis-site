@@ -4,7 +4,7 @@ slug: korean-language
 description: "Korean is the language of the Korean peninsula, spoken by 80 million people, with a unique alphabet called Hangul. Learn about its structure and history."
 category: everyday-concepts
 tags: ["Korean language", "Hangul", "linguistics", "Korean alphabet", "East Asian languages"]
-heroImage: "/images/articles/korean-language.webp"
+heroImage: "/images/articles/korean-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the korean language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Korean is the language spoken by roughly 80 million people on the Korean peninsu
 
 ## A Language Without Relatives
 
-Korean is a language isolate, meaning linguists have not been able to conclusively link it to any other living language family. This is unusual — most languages have identifiable relatives. English is related to German. Spanish is related to Italian. Japanese has the Ryukyuan languages. Korean stands alone.
+Korean is a language isolate, meaning linguists have not been able to conclusively link it to any other living language family. This is unusual — most languages have identifiable relatives. English is related to German. Spanish is related to [Italian](/italian-language). [Japanese](/japanese-language) has the Ryukyuan languages. Korean stands alone.
 
 There have been attempts to connect Korean to the Altaic language family (which would group it with Turkish, Mongolian, and possibly Japanese), but the Altaic hypothesis has fallen out of favor among most linguists. The similarities between Korean and Japanese — and there are many — may result from centuries of geographic proximity and cultural exchange rather than a common ancestor.
 

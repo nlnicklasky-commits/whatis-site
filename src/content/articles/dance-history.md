@@ -4,7 +4,7 @@ slug: dance-history
 description: "Dance history traces the evolution of dance forms across cultures and centuries. Explore key movements, pioneers, and how dance has shaped human culture."
 category: arts-amp-culture
 tags: ["dance history", "arts-amp-culture"]
-heroImage: "/images/articles/dance-history.webp"
+heroImage: "/images/articles/dance-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dance history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

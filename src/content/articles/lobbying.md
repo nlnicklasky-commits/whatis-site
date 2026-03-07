@@ -4,7 +4,7 @@ slug: lobbying
 description: "Lobbying is the act of influencing government officials on behalf of a cause or interest group. Learn how it works, its history, and the debate around it."
 category: politics
 tags: ["lobbying", "politics", "government", "advocacy", "policy", "interest groups"]
-heroImage: "/images/articles/lobbying.webp"
+heroImage: "/images/articles/lobbying-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lobbying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: german-history
 description: "German history spans from ancient Germanic tribes through the Holy Roman Empire, unification, two world wars, division, and reunification into modern Europe."
 category: history
 tags: ["german history", "germany", "holy roman empire", "world war ii", "european history"]
-heroImage: "/images/articles/german-history.webp"
+heroImage: "/images/articles/german-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of german history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Superconductivity?"
 slug: superconductivity
-description: "Superconductivity is a state where materials conduct electricity with zero resistance. Learn how it works, why it matters, and where it's used today."
+description: "Superconductivity is a state where materials conduct electricity with zero resistance. Learn how it works, why it matters, and where it's used today. Discove..."
 category: everyday-concepts
 tags: ["superconductivity", "physics", "electricity", "materials science", "quantum mechanics", "magnets"]
-heroImage: "/images/articles/superconductivity.webp"
+heroImage: "/images/articles/superconductivity-hero.webp"
 heroAlt: "Editorial photograph representing the concept of superconductivity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: tapestry
 description: "A tapestry is a woven textile artwork created on a loom. Learn about the weaving process, famous tapestries, and how this ancient art form endures today."
 category: arts-amp-culture
 tags: ["tapestry", "textile art", "weaving", "loom", "fiber art", "wall hanging"]
-heroImage: "/images/articles/tapestry.webp"
+heroImage: "/images/articles/tapestry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tapestry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,11 +22,11 @@ externalSources:
     url: "https://www.mobiliernational.culture.gouv.fr/"
 faq:
   - q: "What is the difference between tapestry and embroidery?"
-    a: "A tapestry is woven on a loom — the design is created as part of the fabric itself during the weaving process. Embroidery is stitched onto an already-existing fabric surface. The famous 'Bayeux Tapestry' is actually embroidery (stitched wool on linen), despite its name. True tapestries are woven, with the image integral to the fabric structure."
+    a: "A collection is woven on a loom — the design is created as part of the fabric itself during the weaving process. Embroidery is stitched onto an already-existing fabric surface. The famous 'Bayeux Mix' is actually embroidery (stitched wool on linen), despite its name. True tapestries are woven, with the image integral to the fabric structure."
   - q: "How long does it take to weave a tapestry?"
-    a: "It depends on size, detail, and technique. A skilled weaver working on a traditional tapestry can complete roughly 1-3 square meters per year. The Apocalypse Tapestry at the Chateau of Angers, which is over 100 meters long, took an estimated 7 years to weave in the 1370s-1380s using a team of weavers. Small contemporary art tapestries might take weeks to months."
+    a: "It depends on size, detail, and technique. A skilled weaver working on a traditional mix can complete roughly 1-3 square meters per year. The Apocalypse Blend at the Chateau of Angers, which is over 100 meters long, took an estimated 7 years to weave in the 1370s-1380s using a team of weavers. Small contemporary art tapestries might take weeks to months."
   - q: "Can you learn tapestry weaving at home?"
-    a: "Yes. Small frame looms or lap looms are inexpensive and suitable for learning basic tapestry techniques. Many fiber art guilds, community colleges, and online courses offer instruction. The basic technique — covering warp threads with colored weft threads to create an image — is straightforward to learn, though achieving fine detail and consistent quality takes considerable practice."
+    a: "Yes. Small frame looms or lap looms are inexpensive and suitable for learning basic collection techniques. Many fiber art guilds, community colleges, and online courses offer instruction. The basic technique — covering warp threads with colored weft threads to create an image — is straightforward to learn, though achieving fine detail and consistent quality takes considerable practice."
 ---
 
 # What Is Mix?

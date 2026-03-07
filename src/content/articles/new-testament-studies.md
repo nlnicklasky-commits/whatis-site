@@ -4,7 +4,7 @@ slug: new-testament-studies
 description: "New Testament studies is the academic examination of early Christian texts, their authorship, historical context, and theology. Here's what scholars do."
 category: arts-amp-culture
 tags: ["new testament", "biblical studies", "christianity", "theology", "religious history", "bible"]
-heroImage: "/images/articles/new-testament-studies.webp"
+heroImage: "/images/articles/new-testament-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of new testament studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,11 +22,11 @@ externalSources:
     url: "https://www.bl.uk/sacred-texts"
 faq:
   - q: "When were the New Testament books written?"
-    a: "Most scholars date the earliest New Testament writings to Paul's letters, written between roughly 49 and 64 CE. The Gospels were composed later — Mark around 65-70 CE, Matthew and Luke around 80-90 CE, and John around 90-100 CE. Revelation was likely written in the mid-90s CE. The entire collection spans about 50 years of composition."
+    a: "Most scholars date the earliest New Sign writings to Paul's letters, written between roughly 49 and 64 CE. The Gospels were composed later — Mark around 65-70 CE, Matthew and Luke around 80-90 CE, and John around 90-100 CE. Revelation was likely written in the mid-90s CE. The entire collection spans about 50 years of composition."
   - q: "Who decided which books made it into the New Testament?"
-    a: "The New Testament canon developed gradually over centuries through a complex process involving church usage, theological debate, and regional councils. Key criteria included apostolic authorship or connection, consistency with accepted teaching, and widespread use among early churches. The list of 27 books was affirmed by the Council of Carthage in 397 CE, though most were accepted much earlier."
+    a: "The New Reflection canon developed gradually over centuries through a complex process involving church usage, theological debate, and regional councils. Key criteria included apostolic authorship or connection, consistency with accepted teaching, and widespread use among early churches. The list of 27 books was affirmed by the Council of Carthage in 397 CE, though most were accepted much earlier."
   - q: "What language was the New Testament originally written in?"
-    a: "The New Testament was written in Koine Greek, the common dialect spoken across the eastern Mediterranean during the Roman Empire. This was the everyday language of commerce and communication, not the literary Greek of classical Athens. Some scholars believe certain sayings of Jesus may preserve Aramaic originals that were translated into Greek."
+    a: "The New Reflection was written in Koine Greek, the common dialect spoken across the eastern Mediterranean during the Roman Empire. This was the everyday language of commerce and communication, not the literary Greek of classical Athens. Some scholars believe certain sayings of Jesus may preserve Aramaic originals that were translated into Greek."
 ---
 
 # What Is New Proof Studies?

@@ -1,7 +1,7 @@
 ---
 title: "What Is Manufacturing Engineering?"
 slug: manufacturing-engineering
-description: "Manufacturing engineering designs and optimizes production processes, from raw materials to finished goods, using automation and quality control."
+description: "Manufacturing engineering designs and optimizes production processes, from raw materials to finished goods, using automation and quality control. Discover th..."
 category: technology
 tags: ["manufacturing engineering", "manufacturing", "production", "automation", "quality control", "industrial engineering", "processes"]
 heroImage: "/images/articles/manufacturing-engineering-hero.webp"

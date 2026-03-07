@@ -1,7 +1,7 @@
 ---
 title: "What Is Gas Dynamics?"
 slug: gas-dynamics
-description: "Gas dynamics studies how gases behave when they move at high speeds. Learn about shock waves, supersonic flow, nozzles, and aerospace applications."
+description: "Gas dynamics studies how gases behave when they move at high speeds. Learn about shock waves, supersonic flow, nozzles, and aerospace applications. Discover ..."
 category: science
 tags: ["gas dynamics", "fluid dynamics", "aerodynamics", "supersonic flow", "shock waves", "aerospace engineering", "thermodynamics"]
 heroImage: "/images/articles/gas-dynamics-hero.webp"
@@ -205,4 +205,4 @@ Gas dynamics is the study of gas flows where compressibility matters — primari
 
 Shock waves, expansion fans, and nozzle flow are the central phenomena. Shock waves are thin regions where pressure, temperature, and density jump abruptly. Expansion waves are gradual, isentropic turns where supersonic flow accelerates. Converging-diverging nozzles exploit the reversal of area-velocity relationships at Mach 1 to accelerate gases to supersonic speeds for rocket and jet propulsion.
 
-The field underpins spacecraft reentry, supersonic flight, rocket engines, wind tunnel testing, and numerous industrial processes. Despite increasing reliance on computational methods, the fundamental gas dynamics relationships — derivable from conservation of mass, momentum, and energy — remain the essential tools for understanding and designing systems where gases move fast enough to change density.
+The field backs up spacecraft reentry, supersonic flight, rocket engines, wind tunnel testing, and numerous industrial processes. Despite increasing reliance on computational methods, the fundamental gas dynamics relationships — derivable from conservation of mass, momentum, and energy — remain the essential tools for understanding and designing systems where gases move fast enough to change density.

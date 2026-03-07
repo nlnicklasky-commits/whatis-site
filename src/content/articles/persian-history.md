@@ -4,7 +4,7 @@ slug: persian-history
 description: "Persian history covers over 2,500 years of civilization in modern-day Iran. Learn about the Achaemenid, Sassanid, and Islamic eras and their global impact."
 category: history
 tags: ["persian history", "iran", "ancient persia", "achaemenid empire"]
-heroImage: "/images/articles/persian-history.webp"
+heroImage: "/images/articles/persian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of persian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -105,7 +105,7 @@ Persian civilization endured two catastrophic invasions that would have destroye
 
 The Mongol invasion under Genghis Khan and his successors (1219-1258) was apocalyptic. Entire cities were razed. Populations were massacred on a scale that wouldn't be matched until the 20th century. The city of Nishapur was reportedly destroyed so thoroughly that the site was plowed over and planted with barley. Estimates suggest Iran's population may not have recovered to pre-Mongol levels until the 20th century.
 
-And yet — Persian culture persisted. The Mongol rulers, like so many conquerors before them, gradually adopted Persian administrative practices, patronized Persian art, and commissioned Persian literature. The Ilkhanid period (the Mongol dynasty in Persia) produced extraordinary [miniature painting](/miniature-[painting](/painting)) and some of the finest illustrated manuscripts in history.
+And yet — Persian culture persisted. The Mongol rulers, like so many conquerors before them, gradually adopted Persian administrative practices, patronized Persian art, and commissioned Persian literature. The Ilkhanid period (the Mongol dynasty in Persia) produced extraordinary [miniature painting](/minimalism)) and some of the finest illustrated manuscripts in history.
 
 Timur (Tamerlane) brought another wave of destruction in the late 14th century. And again, Persian culture survived and influenced its conqueror. Timurid-era Herat became one of the Islamic world's greatest centers of art and learning.
 

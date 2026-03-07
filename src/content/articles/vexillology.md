@@ -4,7 +4,7 @@ slug: vexillology
 description: "Vexillology is the scholarly study of flags, their history, symbolism, and design. Learn about flag design principles, famous flags, and flag protocol."
 category: everyday-concepts
 tags: ["vexillology", "flags", "symbols", "heraldry", "design", "history"]
-heroImage: "/images/articles/vexillology.webp"
+heroImage: "/images/articles/vexillology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vexillology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Vexillology?
 
-Vexillology is the study of flags — their history, symbolism, design, and usage. The name comes from the Latin "vexillum," a type of military standard used by Roman legions, combined with the Greek "-logia" meaning "study of." It's a real academic discipline with journals, conferences, and passionate practitioners, even though most people have never heard the word.
+Vexillology is the study of flags — their history, symbolism, design, and usage. The name comes from the Latin "vexillum," a [type](/type-design) of military standard used by Roman legions, combined with the Greek "-logia" meaning "study of." It's a real academic discipline with journals, conferences, and passionate practitioners, even though most people have never heard the word.
 
 ## More to Study Than You'd Think
 
-Flags seem simple. Colored cloth on a pole. But they're actually dense packages of political, cultural, and historical information compressed into a visual format that needs to work at a distance, in wind, and across language barriers.
+Flags seem simple. Colored cloth on a pole. But they're actually dense packages of political, cultural, and [historical](/historical-conspiracy-theories) information compressed into a [visual](/visual-arts) format that needs to work at a distance, in wind, and across language barriers.
 
 Consider Japan's flag: a red circle on a white field. It represents the sun — Japan's name in Japanese (Nihon) literally means "origin of the sun." The design is over 700 years old. It's instantly recognizable from hundreds of yards away. A child can draw it from memory. It works at any size. That's extraordinary design efficiency.
 

@@ -4,7 +4,7 @@ slug: television-history
 description: "Television history spans from 1920s mechanical experiments to modern streaming. Learn how TV evolved through technology, culture, and business shifts."
 category: history
 tags: ["television history", "media history", "broadcasting", "tv", "entertainment"]
-heroImage: "/images/articles/television-history.webp"
+heroImage: "/images/articles/television-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of television history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

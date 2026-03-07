@@ -4,7 +4,7 @@ slug: vegetable-gardening
 description: "Vegetable gardening is growing edible plants at home or in community plots. Learn about planning, soil, planting schedules, and beginner-friendly crops."
 category: lifestyle
 tags: ["vegetable gardening", "gardening", "growing food", "home garden", "organic", "sustainability"]
-heroImage: "/images/articles/vegetable-gardening.webp"
+heroImage: "/images/articles/vegetable-gardening-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vegetable gardening"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Realism (Art)?"
 slug: realism-art
-description: "Realism is an art movement depicting everyday subjects truthfully, without idealization. Learn about Courbet, Millet, and its lasting impact."
+description: "Realism is an art movement depicting everyday subjects truthfully, without idealization. Learn about Courbet, Millet, and its lasting impact. Discover the ke..."
 category: arts-amp-culture
 tags: ["realism art", "art movement", "19th century", "painting", "Gustave Courbet", "naturalism"]
-heroImage: "/images/articles/realism-art.webp"
+heroImage: "/images/articles/realism-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of realism (art)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Uniformology?"
 slug: uniformology
-description: "Uniformology is the study of military uniforms and their history — how they evolved, what they signified, and why they changed across centuries."
+description: "Uniformology is the study of military uniforms and their history — how they evolved, what they signified, and why they changed across centuries. Discover the..."
 category: history
 tags: ["uniformology", "military uniforms", "historical clothing", "military history"]
-heroImage: "/images/articles/uniformology.webp"
+heroImage: "/images/articles/uniformology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of uniformology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

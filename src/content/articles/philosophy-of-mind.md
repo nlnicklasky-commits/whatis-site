@@ -4,7 +4,7 @@ slug: philosophy-of-mind
 description: "Philosophy of mind studies consciousness, mental states, and how the mind relates to the body. Learn about dualism, physicalism, and the hard problem."
 category: everyday-concepts
 tags: ["philosophy of mind", "consciousness", "dualism", "physicalism", "mental states", "brain"]
-heroImage: "/images/articles/philosophy-of-mind.webp"
+heroImage: "/images/articles/philosophy-of-mind-hero.webp"
 heroAlt: "Editorial photograph representing the concept of philosophy of mind"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Lexicography?"
 slug: lexicography
-description: "Lexicography is the practice of compiling, editing, and publishing dictionaries. Learn about methods, history, and how modern dictionaries are made."
+description: "Lexicography is the practice of compiling, editing, and publishing dictionaries. Learn about methods, history, and how modern dictionaries are made. Discover..."
 category: language
 tags: ["lexicography", "dictionaries", "linguistics", "language", "etymology", "words"]
-heroImage: "/images/articles/lexicography.webp"
+heroImage: "/images/articles/lexicography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lexicography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

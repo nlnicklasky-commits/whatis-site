@@ -4,7 +4,7 @@ slug: dance
 description: "Dance is the art of moving the body rhythmically, usually to music. Explore its forms, cultural significance, health benefits, and history across cultures."
 category: arts-amp-culture
 tags: ["dance", "arts-amp-culture"]
-heroImage: "/images/articles/dance.webp"
+heroImage: "/images/articles/dance-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

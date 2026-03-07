@@ -4,7 +4,7 @@ slug: talmudic-law
 description: "Talmudic law is the body of Jewish legal discussion found in the Talmud. Learn how it works, its structure, and its role in Jewish life and legal thinking."
 category: religion
 tags: ["talmud", "jewish law", "halakha", "rabbinic judaism", "mishnah", "gemara"]
-heroImage: "/images/articles/talmudic-law.webp"
+heroImage: "/images/articles/talmudic-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of talmudic law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: skill-based-gaming
 description: "Skill-based gaming rewards player ability over luck. Learn how skill-based games work, their rise in esports, and the debate around chance vs. talent."
 category: everyday-concepts
 tags: ["skill-based games", "video games", "esports", "gaming", "strategy", "competitive gaming"]
-heroImage: "/images/articles/skill-based-gaming.webp"
+heroImage: "/images/articles/skill-based-gaming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of skill-based gaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

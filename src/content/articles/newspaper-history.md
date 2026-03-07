@@ -1,10 +1,10 @@
 ---
 title: "What Is Newspaper History?"
 slug: newspaper-history
-description: "Newspaper history traces how printed news evolved from handwritten bulletins to mass media empires. Learn about the press's origins and impact."
+description: "Newspaper history traces how printed news evolved from handwritten bulletins to mass media empires. Learn about the press's origins and impact. Discover the ..."
 category: everyday-concepts
 tags: ["newspaper history", "journalism", "media", "printing press", "press freedom", "mass media"]
-heroImage: "/images/articles/newspaper-history.webp"
+heroImage: "/images/articles/newspaper-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of newspaper history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ In medieval Europe, merchants exchanged handwritten newsletters containing marke
 
 But none of these were newspapers in the modern sense. They lacked regular publication schedules, wide distribution, and the mechanical reproduction that makes a newspaper a newspaper.
 
-## The Printing Press Changed Everything
+## The Printing [Press](/press-release-writing) Changed Everything
 
 Johannes Gutenberg's movable-type printing press (around 1440) made mass reproduction of text possible, but it took over 150 years for that technology to produce actual newspapers. The gap matters — printing technology alone wasn't enough. You also needed postal systems for distribution, literacy for readership, and commercial demand for regular news.
 
@@ -81,7 +81,7 @@ But the period also produced genuine public service journalism. Pulitzer funded 
 
 Newspapers dominated American news consumption until the 1920s, when radio began stealing the speed advantage. You could hear about events hours before the morning paper arrived. Television accelerated this trend — by the 1960s, more Americans got their news from TV than from newspapers.
 
-But newspapers adapted. They emphasized depth, analysis, and local coverage that broadcast media couldn't match. The *Washington Post's* Watergate investigation (1972-74) demonstrated the effect of sustained investigative reporting. The *New York Times'* publication of the Pentagon Papers (1971) tested and confirmed the press's First Amendment protections.
+But newspapers adapted. They emphasized depth, analysis, and local coverage that broadcast [media](/media-studies) couldn't match. The *Washington Post's* Watergate investigation (1972-74) demonstrated the effect of sustained investigative reporting. The *New York Times'* publication of the Pentagon Papers (1971) tested and confirmed the press's First Amendment protections.
 
 U.S. newspaper circulation peaked around 1990 at roughly 62 million daily copies. Then the internet arrived.
 

@@ -4,7 +4,7 @@ slug: dermatology
 description: "Dermatology is the medical specialty focused on diagnosing and treating skin, hair, and nail conditions. Learn about its history, subspecialties, and methods."
 category: health-amp-wellness
 tags: ["dermatology", "skin health", "medicine", "skin conditions"]
-heroImage: "/images/articles/dermatology.webp"
+heroImage: "/images/articles/dermatology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dermatology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

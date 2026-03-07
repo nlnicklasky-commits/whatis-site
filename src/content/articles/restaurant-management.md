@@ -4,7 +4,7 @@ slug: restaurant-management
 description: "Restaurant management is the practice of running a food service business, covering operations, staffing, finances, menu planning, and customer experience."
 category: business
 tags: ["hospitality", "restaurant management", "food service"]
-heroImage: "/images/articles/restaurant-management.webp"
+heroImage: "/images/articles/restaurant-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of restaurant management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

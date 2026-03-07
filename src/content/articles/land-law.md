@@ -4,7 +4,7 @@ slug: land-law
 description: "Land law governs the ownership, use, and transfer of real property. Learn about freehold, leasehold, easements, mortgages, and how property rights actually."
 category: law
 tags: ["property law", "land law", "real estate", "land ownership", "conveyancing"]
-heroImage: "/images/articles/land-law.webp"
+heroImage: "/images/articles/land-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of land law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

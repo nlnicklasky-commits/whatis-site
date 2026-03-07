@@ -4,7 +4,7 @@ slug: farming
 description: "Farming is the practice of growing crops and raising livestock for food and materials. Learn about modern agriculture, methods, and global challenges."
 category: everyday-concepts
 tags: ["agriculture", "crops", "livestock", "food production", "sustainability", "agronomy"]
-heroImage: "/images/articles/farming.webp"
+heroImage: "/images/articles/farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

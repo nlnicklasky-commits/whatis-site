@@ -4,7 +4,7 @@ slug: jacobean-era
 description: "The Jacobean era (1603-1625) was the reign of King James I of England. Learn about its politics, literature, the King James Bible, and Gunpowder Plot."
 category: history
 tags: ["english history", "jacobean", "james i", "stuart dynasty", "early modern"]
-heroImage: "/images/articles/jacobean-era.webp"
+heroImage: "/images/articles/jacobean-era-hero.webp"
 heroAlt: "Editorial photograph representing the concept of jacobean era"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Cocktail Making?"
 slug: cocktail-making
-description: "Cocktail making is the art and science of mixing drinks. Learn about essential techniques, classic recipes, tools, and the history behind the bar."
+description: "Cocktail making is the art and science of mixing drinks. Learn about essential techniques, classic recipes, tools, and the history behind the bar. Discover t..."
 category: everyday-concepts
 tags: ["cocktail making", "mixology", "cocktails", "drinks", "bartending", "culinary arts"]
-heroImage: "/images/articles/cocktail-making.webp"
+heroImage: "/images/articles/cocktail-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cocktail making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "The Sazerac, originating in 1830s New Orleans, is often cited as the oldest American cocktail. However, the word 'cocktail' first appeared in print in 1806 in a New York newspaper, defined as a mixture of spirit, sugar, water, and bitters — essentially describing an Old Fashioned."
 ---
 
-# What Is Cocktail Making?
+# What Is Cocktail [Making](/candy-making)?
 
 Cocktail making is the practice of combining spirits, mixers, and other ingredients to create mixed drinks. It blends precise measurement, an understanding of flavor balance, and a flair for presentation. Whether you're stirring a Manhattan in your kitchen or shaking margaritas at a beach bar, you're participating in a tradition that's roughly 200 years old.
 

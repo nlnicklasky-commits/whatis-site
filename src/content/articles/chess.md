@@ -1,10 +1,10 @@
 ---
 title: "What Is Chess?"
 slug: chess
-description: "Chess is a two-player strategy board game played on a 64-square board with 16 pieces per side, where the goal is to checkmate the opponent's king."
+description: "Chess is a two-player strategy board game played on a 64-square board with 16 pieces per side, where the goal is to checkmate the opponent's king. Discover t..."
 category: everyday-concepts
 tags: ["chess", "board games", "strategy", "competition", "games", "puzzles"]
-heroImage: "/images/articles/chess.webp"
+heroImage: "/images/articles/chess-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chess"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Chess?
 
-Chess is a two-player strategy game played on an 8x8 board with 32 pieces — 16 per side — where each piece type moves differently and the objective is to trap the opponent's king in an inescapable attack called checkmate. It has been played for roughly 1,500 years, is recognized in virtually every country on Earth, and has approximately 600 million active players worldwide. No other game has generated as much theory, [literature](/literature), competition, and cultural significance.
+Chess is a two-player strategy game played on an 8x8 [board](/board-games) with 32 pieces — 16 per side — where each piece type moves differently and the objective is to trap the opponent's king in an inescapable attack called checkmate. It has been played for roughly 1,500 years, is recognized in virtually every country on Earth, and has approximately 600 million active players worldwide. No other game has generated as much theory, [literature](/literature), competition, and cultural significance.
 
 ## The Game That Measures Minds
 

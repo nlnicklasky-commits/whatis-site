@@ -1,7 +1,7 @@
 ---
 title: "What Is Psycholinguistics?"
 slug: psycholinguistics
-description: "Psycholinguistics examines how your brain processes language, from understanding speech to learning new words, reading, and producing sentences."
+description: "Psycholinguistics examines how your brain processes language, from understanding speech to learning new words, reading, and producing sentences. Discover the..."
 category: science
 tags: ["psycholinguistics", "psychology", "linguistics", "language acquisition", "language comprehension", "speech production"]
 heroImage: "/images/articles/psycholinguistics-hero.webp"
@@ -178,7 +178,7 @@ Modern neuroimaging has mapped language processing onto brain anatomy with incre
 
 **Broca's area** (left inferior frontal gyrus) was historically associated with speech production after Paul Broca's 1861 observations of a patient who could understand speech but could only produce the syllable "tan." **Wernicke's area** (left posterior superior temporal gyrus) was associated with comprehension after Carl Wernicke's observations of patients who spoke fluently but produced meaningless speech.
 
-The modern picture is more nuanced. Both areas contribute to both production and comprehension. Broca's area is now understood to be involved in syntactic processing and working memory for language, not just motor programming for speech. And language processing involves a far more distributed network than the classic model suggested.
+The modern picture is more layered. Both areas contribute to both production and comprehension. Broca's area is now understood to be involved in syntactic processing and working memory for language, not just motor programming for speech. And language processing involves a far more distributed network than the classic model suggested.
 
 ### The Dual-Stream Model
 

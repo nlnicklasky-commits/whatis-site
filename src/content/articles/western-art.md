@@ -4,7 +4,7 @@ slug: western-art
 description: "Western art spans thousands of years of visual culture from ancient Greece to contemporary movements. Learn about major periods, styles, and influential."
 category: arts-culture
 tags: ["western art", "art history", "painting", "sculpture", "fine arts", "visual culture"]
-heroImage: "/images/articles/western-art.webp"
+heroImage: "/images/articles/western-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of western art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

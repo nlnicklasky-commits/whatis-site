@@ -4,7 +4,7 @@ slug: equestrianism
 description: "Equestrianism covers all equestrian sports and horsemanship. Explore disciplines like dressage, show jumping, eventing, polo, and riding fundamentals."
 category: sports
 tags: ["equestrianism", "horses", "horsemanship", "riding", "horse riding", "sports"]
-heroImage: "/images/articles/equestrianism.webp"
+heroImage: "/images/articles/equestrianism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of equestrianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

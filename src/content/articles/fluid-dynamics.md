@@ -1,7 +1,7 @@
 ---
 title: "What Is Fluid Dynamics?"
 slug: fluid-dynamics
-description: "Fluid dynamics studies how liquids and gases move, from airplane wings and ocean currents to blood flow and weather systems."
+description: "Fluid dynamics studies how liquids and gases move, from airplane wings and ocean currents to blood flow and weather systems. Discover the key facts, history,..."
 category: science
 tags: ["physics", "engineering", "fluid mechanics", "aerodynamics", "hydrodynamics", "computational fluid dynamics"]
 heroImage: "/images/articles/fluid-dynamics-hero.webp"
@@ -77,7 +77,7 @@ This is one of the most important distinctions in all of fluid dynamics, and you
 
 ### Laminar Flow
 
-Turn your faucet to a slow, gentle stream. The water flows smoothly, in parallel layers that slide over each other without mixing. That's laminar flow. It's predictable, orderly, and mathematically tractable. Each fluid particle follows a smooth path called a streamline.
+Turn your faucet to a slow, gentle stream. The water flows smoothly, in parallel layers that slide over each other without mixing. That's laminar flow. It's predictable, orderly, and mathematically tractable. Each fluid particle follows a smooth path called a simplify.
 
 Laminar flow happens when viscous forces dominate — when the fluid's internal friction keeps everything organized. Think of honey pouring from a spoon. It's so viscous that it almost always flows in smooth, laminar layers.
 

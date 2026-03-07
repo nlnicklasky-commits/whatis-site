@@ -1,7 +1,7 @@
 ---
 title: "What Is Sourdough?"
 slug: sourdough
-description: "Sourdough is bread made through slow fermentation using wild yeast and bacteria — here's how it works and why it tastes better."
+description: "Sourdough is bread made through slow fermentation using wild yeast and bacteria — here's how it works and why it tastes better. Discover the key facts, histo..."
 category: food-and-drink
 tags: ["sourdough", "bread", "fermentation", "baking", "starter", "wild yeast"]
 heroImage: "/images/articles/sourdough-hero.webp"
@@ -45,7 +45,7 @@ You might think sourdough is just bread that tastes sour. That's partly true, bu
 
 There's also the durability factor. Sourdough stays fresh longer than conventional bread because the acids produced during fermentation naturally preserve it. A loaf from Monday can still be great on Wednesday. Compare that to supermarket sandwich bread that goes moldy in three days, and you've got something worth the effort.
 
-Then there's the health angle, though it's worth being honest here: sourdough isn't a miracle food. But the extended fermentation does reduce phytic acid—a compound that can interfere with nutrient absorption—making minerals like iron, zinc, and magnesium more bioavailable. Some people with [gluten](/gluten) sensitivity report better tolerance with sourdough, though whether that's from fermentation breaking down gluten proteins or just placebo effect remains debated. The bottom line: it's more digestible than regular bread, with more [probiotics](/probiotics) from the living culture, but it's not a cure-all.
+Then there's the health angle, though it's worth being honest here: sourdough isn't a miracle food. But the extended fermentation does reduce phytic acid—a compound that can interfere with nutrient absorption—making minerals like iron, zinc, and magnesium more bioavailable. Some people with gluten sensitivity report better tolerance with sourdough, though whether that's from fermentation breaking down gluten proteins or just placebo effect remains debated. The bottom line: it's more digestible than regular bread, with more [probiotics](/probability-theory) from the living culture, but it's not a cure-all.
 
 The weird part is that people get *attached* to their starters. There are legitimate stories of sourdough cultures being passed down through generations, sometimes for over 150 years. Some bakers name their starters, keep them at specific temperatures, and talk about them like pets. It's not entirely irrational—you're literally maintaining a living ecosystem.
 

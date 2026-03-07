@@ -1,7 +1,7 @@
 ---
 title: "What Is Health Economics?"
 slug: health-economics
-description: "Health economics studies how societies allocate scarce resources to healthcare, analyzing costs, outcomes, and policies shaping medical access."
+description: "Health economics studies how societies allocate scarce resources to healthcare, analyzing costs, outcomes, and policies shaping medical access. Discover the ..."
 category: finance
 tags: ["health economics", "healthcare", "economics", "public health", "health policy", "resource allocation", "health insurance"]
 heroImage: "/images/articles/health-economics-hero.webp"

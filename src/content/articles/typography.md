@@ -4,7 +4,7 @@ slug: typography
 description: "Typography is the art of arranging type to make text readable and appealing. Learn about typeface categories, hierarchy, spacing, and design principles."
 category: arts-amp-culture
 tags: ["typography", "design", "typefaces", "fonts", "graphic design", "visual communication"]
-heroImage: "/images/articles/typography.webp"
+heroImage: "/images/articles/typography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of typography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Typography?
 
-Typography is the art and technique of arranging type — selecting typefaces, setting sizes, adjusting spacing, and organizing text on a page or screen so that it's both readable and visually effective. Every word you're reading right now is a typographic decision someone made.
+Typography is the art and technique of arranging [type](/type-design) — selecting typefaces, setting sizes, adjusting spacing, and organizing text on a page or screen so that it's both readable and visually effective. Every word you're reading right now is a typographic decision someone made.
 
 ## Not Just "Picking a Font"
 

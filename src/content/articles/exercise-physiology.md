@@ -4,7 +4,7 @@ slug: exercise-physiology
 description: "Exercise physiology studies how your body responds and adapts to physical activity, covering energy systems, muscle function, and training principles."
 category: health-amp-wellness
 tags: ["exercise physiology", "exercise", "sports science", "health", "fitness"]
-heroImage: "/images/articles/exercise-physiology.webp"
+heroImage: "/images/articles/exercise-physiology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of exercise physiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

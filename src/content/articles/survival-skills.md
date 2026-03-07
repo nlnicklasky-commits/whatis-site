@@ -4,7 +4,7 @@ slug: survival-skills
 description: "Survival skills are techniques for staying alive in emergencies or wilderness settings. Learn about shelter, water, fire, navigation, and preparedness."
 category: health-amp-wellness
 tags: ["outdoor recreation", "survival skills", "wilderness", "emergency preparedness"]
-heroImage: "/images/articles/survival-skills.webp"
+heroImage: "/images/articles/survival-skills-hero.webp"
 heroAlt: "Editorial photograph representing the concept of survival skills"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

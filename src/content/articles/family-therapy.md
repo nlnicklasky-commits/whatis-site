@@ -4,7 +4,7 @@ slug: family-therapy
 description: "Family therapy is a type of psychotherapy that treats the family unit as a whole to resolve conflicts, improve communication, and strengthen relationships."
 category: health-amp-wellness
 tags: ["therapy", "counseling", "psychotherapy", "family dynamics", "mental health"]
-heroImage: "/images/articles/family-therapy.webp"
+heroImage: "/images/articles/family-therapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of family therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -43,7 +43,7 @@ Here's the thing most people don't consider: your behavior doesn't exist in a va
 
 Family therapists call this "systems thinking." The family is a system, and every part affects every other part. Pull one thread and the whole fabric moves. This isn't just theory — research published in the *Journal of Marital and Family Therapy* found that treating the family system produces longer-lasting results for many conditions than treating individuals alone.
 
-That's a pretty big deal. It means that sometimes the most effective way to help a child with [anxiety](/cognitive-[psychology](/psychology)) isn't just to work with the child — it's to change how the entire family communicates.
+That's a pretty big deal. It means that sometimes the most effective way to help a child with [anxiety](/cognitive-bias)) isn't just to work with the child — it's to change how the entire family communicates.
 
 ## A Brief History
 

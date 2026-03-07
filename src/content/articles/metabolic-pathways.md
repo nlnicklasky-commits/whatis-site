@@ -1,7 +1,7 @@
 ---
 title: "What Is Metabolic Pathways?"
 slug: metabolic-pathways
-description: "Metabolic pathways are linked chemical reactions in cells that build or break down molecules. Learn how they work, their types, and why they matter."
+description: "Metabolic pathways are linked chemical reactions in cells that build or break down molecules. Learn how they work, their types, and why they matter. Discover..."
 category: science
 tags: ["metabolic pathways", "metabolism", "biochemistry", "enzymes", "cellular respiration", "biosynthesis", "biology"]
 heroImage: "/images/articles/metabolic-pathways-hero.webp"

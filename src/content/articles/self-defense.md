@@ -1,10 +1,10 @@
 ---
 title: "What Is Self-Defense?"
 slug: self-defense
-description: "Self-defense is the right and ability to protect yourself from physical harm using awareness, de-escalation, and physical techniques."
+description: "Self-defense is the right and ability to protect yourself from physical harm using awareness, de-escalation, and physical techniques. Discover the key facts,..."
 category: health-amp-wellness
 tags: ["self-defense", "personal safety", "martial arts", "conflict management"]
-heroImage: "/images/articles/self-defense.webp"
+heroImage: "/images/articles/self-defense-hero.webp"
 heroAlt: "Editorial photograph representing the concept of self-defense"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Many martial arts programs accept children as young as 4-5 years old, focusing on coordination, confidence, and basic boundary-setting. More practical self-defense concepts can be introduced around ages 8-10. Age-appropriate instruction emphasizes when to seek adult help, how to escape grabs, and the importance of telling trusted adults about threats."
 ---
 
+# What Is Self-Defense?
 Self-defense is the act of protecting yourself or others from physical harm through awareness, avoidance, de-escalation, and — when necessary — physical force. It's both a legal right recognized in virtually every legal system on Earth and a practical skill set that combines mental preparation, situational awareness, and physical techniques.
 
 Here's something that might surprise you: the most effective self-defense rarely involves fighting. The Bureau of Justice [Statistics](/statistics) reports that about 5.6 million violent crimes occur annually in the United States. But the vast majority of dangerous situations can be avoided entirely through awareness and smart decision-making. The best fight is the one that never happens.

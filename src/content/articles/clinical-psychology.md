@@ -4,7 +4,7 @@ slug: clinical-psychology
 description: "Clinical psychology is the branch of psychology focused on diagnosing and treating mental illness, emotional disorders, and behavioral problems through therapy."
 category: health-amp-wellness
 tags: ["clinical psychology", "psychology", "mental health", "psychotherapy", "therapy"]
-heroImage: "/images/articles/clinical-psychology.webp"
+heroImage: "/images/articles/clinical-psychology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of clinical psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

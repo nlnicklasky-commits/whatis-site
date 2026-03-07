@@ -125,7 +125,7 @@ Understanding protein misfolding isn't just academic — it's driving drug devel
 
 ### AlphaFold: The AI Revolution
 
-For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — [X-ray crystallography](/x-ray-[crystallography](/crystallography)), NMR spectroscopy, cryo-[electron microscopy](/electron-microscopy) — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
+For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — [X-ray crystallography](/x-ray-crystallography)), NMR spectroscopy, cryo-[electron microscopy](/electron-microscopy) — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
 
 In 2020, DeepMind's AlphaFold AI system solved the structure prediction problem. At the Critical Assessment of Structure Prediction (CASP14) competition, AlphaFold predicted protein structures with accuracy matching experimental methods — a result that stunned the scientific community.
 

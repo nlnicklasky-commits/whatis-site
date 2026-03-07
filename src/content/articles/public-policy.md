@@ -1,10 +1,10 @@
 ---
 title: "What Is Public Policy?"
 slug: public-policy
-description: "Public policy is the set of government actions, laws, and regulations designed to address societal problems. Here's how the process works."
+description: "Public policy is the set of government actions, laws, and regulations designed to address societal problems. Here's how the process works. Discover the key f..."
 category: politics
 tags: ["public policy", "government", "policy making", "public administration", "law", "social issues"]
-heroImage: "/images/articles/public-policy.webp"
+heroImage: "/images/articles/public-policy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of public policy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ Public policy is what governments do (and choose not to do) about public problem
 
 Political scientists describe the policy process as a cycle, though "messy loop" would be more accurate.
 
-**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked [health insurance](/health-[insurance](/insurance)) for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
+**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked [health insurance](/health-law)) for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
 
 **Agenda setting.** Getting a problem onto the political agenda — the list of issues decision-makers are actively considering — requires political will, public attention, or both. John Kingdon's "multiple streams" model suggests that policy change happens when three things align: a recognized problem, a viable solution, and political willingness to act. When these streams converge (often triggered by a crisis or election), a "policy window" opens.
 

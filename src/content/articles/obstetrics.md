@@ -4,7 +4,7 @@ slug: obstetrics
 description: "Obstetrics is the medical specialty focused on pregnancy, childbirth, and postpartum care. Learn about prenatal care, delivery methods, and complications."
 category: health-amp-wellness
 tags: ["obstetrics", "pregnancy", "childbirth", "maternal health"]
-heroImage: "/images/articles/obstetrics.webp"
+heroImage: "/images/articles/obstetrics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of obstetrics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

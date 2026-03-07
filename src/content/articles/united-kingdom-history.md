@@ -1,10 +1,10 @@
 ---
 title: "What Is United Kingdom History?"
 slug: united-kingdom-history
-description: "United Kingdom history covers Britain from Roman times through the medieval period, the British Empire, two world wars, and the modern era."
+description: "United Kingdom history covers Britain from Roman times through the medieval period, the British Empire, two world wars, and the modern era. Discover the key ..."
 category: history
 tags: ["united kingdom history", "uk", "british history", "england", "scotland"]
-heroImage: "/images/articles/united-kingdom-history.webp"
+heroImage: "/images/articles/united-kingdom-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of united kingdom history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

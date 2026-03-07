@@ -4,7 +4,7 @@ slug: literary-theory
 description: "Literary theory provides frameworks for interpreting texts. Learn about structuralism, deconstruction, and other approaches to understanding literature."
 category: everyday-concepts
 tags: ["literary theory", "criticism", "structuralism", "deconstruction", "humanities", "interpretation"]
-heroImage: "/images/articles/literary-theory.webp"
+heroImage: "/images/articles/literary-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of literary theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

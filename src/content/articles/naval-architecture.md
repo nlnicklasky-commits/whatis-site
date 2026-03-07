@@ -1,7 +1,7 @@
 ---
 title: "What Is Naval Architecture?"
 slug: naval-architecture
-description: "Naval architecture is the engineering of ships and marine vessels — from hull design to stability to propulsion. Here's how ships get built."
+description: "Naval architecture is the engineering of ships and marine vessels — from hull design to stability to propulsion. Here's how ships get built. Discover the key..."
 category: technology
 tags: ["naval architecture", "marine engineering", "ship design", "vessel design", "hydrodynamics", "maritime technology"]
 heroImage: "/images/articles/naval-architecture-hero.webp"

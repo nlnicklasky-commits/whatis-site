@@ -1,7 +1,7 @@
 ---
 title: "What Is Myology?"
 slug: myology
-description: "Myology is the study of muscles — their structure, function, and diseases. Learn how your 600+ muscles work and what happens when they don't."
+description: "Myology is the study of muscles — their structure, function, and diseases. Learn how your 600+ muscles work and what happens when they don't. Discover the ke..."
 category: science
 tags: ["myology", "muscles", "anatomy", "physiology", "biomechanics", "muscle contraction", "myopathies"]
 heroImage: "/images/articles/myology-hero.webp"

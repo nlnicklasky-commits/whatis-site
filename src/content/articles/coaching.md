@@ -4,7 +4,7 @@ slug: coaching
 description: "Coaching is a structured, goal-oriented process where a trained professional helps individuals improve performance, develop skills, and achieve personal goals."
 category: health-amp-wellness
 tags: ["coaching", "personal development", "professional development", "goal setting", "leadership"]
-heroImage: "/images/articles/coaching.webp"
+heroImage: "/images/articles/coaching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

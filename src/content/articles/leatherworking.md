@@ -4,7 +4,7 @@ slug: leatherworking
 description: "Leatherworking is the craft of cutting, shaping, and stitching animal hides into functional and decorative items. Learn techniques, tools, and history."
 category: arts-amp-culture
 tags: ["leatherworking", "crafts", "leather", "tooling", "tanning", "handmade goods"]
-heroImage: "/images/articles/leatherworking.webp"
+heroImage: "/images/articles/leatherworking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of leatherworking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.vam.ac.uk/collections/leatherwork"
 faq:
   - q: "What tools do beginners need for leatherworking?"
-    a: "Start with a cutting mat, a sharp rotary cutter or utility knife, a stitching groover, diamond chisels for making stitch holes, waxed thread, and two harness needles. A mallet and a few basic stamps are helpful for tooling. You can get a decent starter kit for under $50."
+    a: "Start with a cutting mat, a sharp rotary cutter or utility knife, a stitching groover, diamond chisels for making stitch holes, waxed thread, and two tap into needles. A mallet and a few basic stamps are helpful for tooling. You can get a decent starter kit for under $50."
   - q: "What types of leather are best for beginners?"
     a: "Vegetable-tanned cowhide in the 4-5 oz weight range is ideal for beginners. It's firm enough to hold its shape, takes tooling and dye well, and is widely available. Chrome-tanned leather is softer and better for garments but harder to tool."
   - q: "How long does it take to learn leatherworking?"

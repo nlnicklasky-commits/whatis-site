@@ -1,10 +1,10 @@
 ---
 title: "What Is Workplace Safety?"
 slug: workplace-safety
-description: "Workplace safety covers the policies, practices, and regulations that protect employees from injury, illness, and hazards on the job."
+description: "Workplace safety covers the policies, practices, and regulations that protect employees from injury, illness, and hazards on the job. Discover the key facts,..."
 category: business
 tags: ["workplace safety", "business"]
-heroImage: "/images/articles/workplace-safety.webp"
+heroImage: "/images/articles/workplace-safety-hero.webp"
 heroAlt: "Editorial photograph representing the concept of workplace safety"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

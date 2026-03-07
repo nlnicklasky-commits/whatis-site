@@ -4,7 +4,7 @@ slug: social-media-management
 description: "Social media management is the process of creating, scheduling, and analyzing content across social platforms. Learn about strategy, tools, and metrics."
 category: business
 tags: ["social media", "digital marketing", "content strategy", "management"]
-heroImage: "/images/articles/social-media-management.webp"
+heroImage: "/images/articles/social-media-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social media management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: lighting-design
 description: "Lighting design is the planned use of light to shape spaces, moods, and experiences. Learn about techniques, tools, and careers in this creative field."
 category: arts-amp-culture
 tags: ["lighting design", "stage lighting", "architectural lighting", "design", "theater", "illumination"]
-heroImage: "/images/articles/lighting-design.webp"
+heroImage: "/images/articles/lighting-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lighting design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

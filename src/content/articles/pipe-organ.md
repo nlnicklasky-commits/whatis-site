@@ -1,10 +1,10 @@
 ---
 title: "What Is a Pipe Organ?"
 slug: pipe-organ
-description: "A pipe organ is a keyboard instrument that produces sound by pushing air through tuned pipes. Learn about its history, mechanics, and role in music."
+description: "A pipe organ is a keyboard instrument that produces sound by pushing air through tuned pipes. Learn about its history, mechanics, and role in music. Discover..."
 category: everyday-concepts
 tags: ["pipe organ", "music", "instrument", "church music", "keyboard", "acoustics"]
-heroImage: "/images/articles/pipe-organ.webp"
+heroImage: "/images/articles/pipe-organ-hero.webp"
 heroAlt: "Editorial photograph representing the concept of a pipe organ"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

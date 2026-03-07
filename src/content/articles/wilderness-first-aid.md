@@ -4,7 +4,7 @@ slug: wilderness-first-aid
 description: "Wilderness first aid is emergency medical care given in remote settings where professional help is hours or days away. Learn the skills, training, and."
 category: health-amp-wellness
 tags: ["outdoor activities", "wilderness first aid", "emergency care", "hiking"]
-heroImage: "/images/articles/wilderness-first-aid.webp"
+heroImage: "/images/articles/wilderness-first-aid-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wilderness first aid"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: writing
 description: "Writing is the skill of communicating ideas through text. Learn about writing types, techniques for clarity and style, the writing process, and how to improve."
 category: everyday-concepts
 tags: ["writing", "communication", "creative writing", "nonfiction", "literacy", "language arts"]
-heroImage: "/images/articles/writing.webp"
+heroImage: "/images/articles/writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

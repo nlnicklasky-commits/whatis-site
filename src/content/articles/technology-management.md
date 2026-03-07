@@ -4,7 +4,7 @@ slug: technology-management
 description: "Technology management is the discipline of planning, implementing, and governing technology resources to achieve organizational goals and competitive advantage."
 category: technology
 tags: ["technology management", "it management", "strategy", "project management"]
-heroImage: "/images/articles/technology-management.webp"
+heroImage: "/images/articles/technology-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of technology management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Project management is about executing specific initiatives on time and budget. Technology management encompasses the broader strategic context—deciding which projects to pursue, how technologies fit together, long-term technology roadmaps, and organizational capability building. Project management is one tool within technology management."
 ---
 
+# What Is Technology Management?
 Technology management is the discipline of selecting, deploying, and overseeing technology resources within an organization to meet business objectives, control costs, manage risk, and maintain competitive position. It sits at the intersection of technology expertise and [business strategy](/business-strategy) — the practice of making smart decisions about which technologies to adopt, how to implement them, and when to retire them.
 
 Every organization of any size faces technology decisions. Should we move to the cloud? Build or buy? Upgrade now or wait? How do we secure our data? What skills does our team need next year? Technology management is the structured approach to answering these questions instead of making them up as you go. And given that the average large enterprise spends 3-8% of revenue on technology, the stakes are significant.

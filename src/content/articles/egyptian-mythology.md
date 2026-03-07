@@ -4,7 +4,7 @@ slug: egyptian-mythology
 description: "Egyptian mythology is the collection of myths, gods, and rituals from ancient Egypt that explained creation, death, and the natural world for over 3,000 years."
 category: history
 tags: ["egyptian mythology", "ancient egypt", "mythology", "gods", "afterlife"]
-heroImage: "/images/articles/egyptian-mythology.webp"
+heroImage: "/images/articles/egyptian-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of egyptian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -28,7 +28,7 @@ faq:
   - q: "Did ancient Egyptians really believe in the afterlife?"
     a: "Absolutely, and it shaped almost every aspect of their culture. Egyptians believed that death was not an ending but a transition to the Duat (underworld), where the deceased's heart would be weighed against the feather of Ma'at (truth and justice). If the heart was lighter, the person entered the Field of Reeds — a paradise version of Egypt. If heavier, the heart was devoured by the monster Ammit. Mummification, tomb building, and grave goods all served to ensure the deceased survived the journey and lived well in the afterlife."
   - q: "What is the Book of the Dead?"
-    a: "The Book of the Dead is a collection of roughly 200 spells, prayers, and instructions written on papyrus scrolls and placed in tombs to help the deceased navigate the afterlife. It was not a single book but a customizable collection — wealthier individuals could afford more spells. The texts guided the dead through dangers in the underworld and provided the correct words to say during the judgment of the heart. The most famous spell is Chapter 125, the 'Negative Confession,' where the deceased declares before 42 divine judges all the sins they did not commit."
+    a: "The Book of the Dead is a collection of roughly 200 spells, prayers, and instructions written on papyrus scrolls and placed in tombs to help the deceased work through the afterlife. It was not a single book but a customizable collection — wealthier individuals could afford more spells. The texts guided the dead through dangers in the underworld and provided the correct words to say during the judgment of the heart. The most famous spell is Chapter 125, the 'Negative Confession,' where the deceased declares before 42 divine judges all the sins they did not commit."
   - q: "Why did Egyptian gods have animal heads?"
     a: "Egyptian gods were often depicted with animal heads on human bodies (or sometimes full animal forms) because Egyptians associated specific animals with divine qualities. Horus had a falcon head because falcons were associated with the sky and kingship. Anubis had a jackal head because jackals were seen near cemeteries and associated with death. Thoth had an ibis head linked to wisdom. These weren't costumes — Egyptians understood that gods could manifest in many forms. The animal-human hybrid form was an artistic convention for representing divine beings whose true nature was beyond human comprehension."
 ---

@@ -4,7 +4,7 @@ slug: life-coaching
 description: "Life coaching is a goal-oriented practice where a trained coach helps you clarify objectives, overcome obstacles, and take action toward personal growth."
 category: health-amp-wellness
 tags: ["personal development", "life coaching", "wellness", "psychology", "goal setting"]
-heroImage: "/images/articles/life-coaching.webp"
+heroImage: "/images/articles/life-coaching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of life coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Costs vary widely. Individual sessions typically range from $75 to $300 per hour, with executive and high-performance coaches charging $500 or more. Most coaching engagements involve weekly or biweekly sessions over three to six months. Some coaches offer group programs or packages at lower per-session rates."
 ---
 
+# What Is Life Coaching?
 Life coaching is a collaborative, goal-oriented practice in which a trained coach helps you identify what you want, figure out what's stopping you, and take consistent action toward the life you're trying to build. It's not therapy, not consulting, and not someone telling you what to do — though it gets confused with all three.
 
 The profession has exploded in the last two decades. The International Coaching Federation estimates that there are over 100,000 professional coaches worldwide, generating roughly $4.5 billion in annual revenue as of 2023. That's a lot of people paying other people to help them get unstuck.

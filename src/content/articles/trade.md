@@ -4,7 +4,7 @@ slug: trade
 description: "Trade is the voluntary exchange of goods, services, or money between parties. Learn about comparative advantage, trade agreements, tariffs, and global commerce."
 category: finance
 tags: ["trade", "economics", "commerce", "international trade"]
-heroImage: "/images/articles/trade.webp"
+heroImage: "/images/articles/trade-hero.webp"
 heroAlt: "Editorial photograph representing the concept of trade"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

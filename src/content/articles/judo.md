@@ -4,7 +4,7 @@ slug: judo
 description: "Judo is a Japanese martial art focused on throws and grappling, now an Olympic sport. Learn about techniques, belt rankings, and its founding philosophy."
 category: sports
 tags: ["judo", "sports", "martial arts", "Olympic sport", "grappling", "self-defense"]
-heroImage: "/images/articles/judo.webp"
+heroImage: "/images/articles/judo-hero.webp"
 heroAlt: "Editorial photograph representing the concept of judo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.usajudo.com/"
 faq:
   - q: "What does judo mean?"
-    a: "Judo means 'the gentle way' in Japanese — from 'ju' (gentle/flexible) and 'do' (way/path). The name reflects the founding principle that a smaller, weaker person can defeat a larger opponent by using technique and leverage rather than brute strength. Despite the gentle name, competitive judo is physically demanding."
+    a: "Judo means 'the gentle way' in Japanese — from 'ju' (gentle/flexible) and 'do' (way/path). The name reflects the founding principle that a smaller, weaker person can defeat a larger opponent by using technique and apply rather than brute strength. Despite the gentle name, competitive judo is physically demanding."
   - q: "What is the difference between judo and jiu-jitsu?"
     a: "Judo was derived from traditional Japanese jiu-jitsu by Jigoro Kano in 1882, who removed the most dangerous techniques and created a system safe for full-speed practice. Judo emphasizes standing throws; Brazilian jiu-jitsu (which evolved from judo) emphasizes ground fighting. Traditional Japanese jiu-jitsu includes strikes, weapons, and lethal techniques that judo excludes."
   - q: "How long does it take to get a black belt in judo?"

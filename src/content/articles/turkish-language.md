@@ -1,10 +1,10 @@
 ---
 title: "What Is Turkish Language?"
 slug: turkish-language
-description: "Turkish is a Turkic language spoken by over 80 million people. Learn about its agglutinative grammar, vowel harmony, script reform, and origins."
+description: "Turkish is a Turkic language spoken by over 80 million people. Learn about its agglutinative grammar, vowel harmony, script reform, and origins. Discover the..."
 category: everyday-concepts
 tags: ["turkish language", "linguistics", "Turkic languages", "agglutinative", "vowel harmony", "language"]
-heroImage: "/images/articles/turkish-language.webp"
+heroImage: "/images/articles/turkish-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of turkish language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Modern Turkish uses a modified Latin alphabet with 29 letters, adopted in 1928 as part of Ataturk's language reforms. Before that, Turkish was written in a modified Arabic script for about 1,000 years. The switch was remarkably fast — within a few years, the new alphabet was used universally in Turkey, though it meant older generations could no longer read historical documents."
 ---
 
-# What Is Turkish Language?
+# What Is Turkish [Language](/urdu-language)?
 
 Turkish is the most widely spoken member of the Turkic language family, with roughly 80 to 85 million native speakers concentrated in Turkey and Northern Cyprus. It's an agglutinative language — meaning it builds words by stacking suffixes onto root words, sometimes creating single words that would require an entire English sentence to translate.
 

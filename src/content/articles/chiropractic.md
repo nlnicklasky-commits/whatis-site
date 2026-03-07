@@ -1,10 +1,10 @@
 ---
 title: "What Is Chiropractic?"
 slug: chiropractic
-description: "Chiropractic is a healthcare profession focused on diagnosing and treating musculoskeletal disorders, primarily through manual spinal adjustments."
+description: "Chiropractic is a healthcare profession focused on diagnosing and treating musculoskeletal disorders, primarily through manual spinal adjustments. Discover t..."
 category: health-amp-wellness
 tags: ["chiropractic", "spinal health", "manual therapy", "alternative medicine"]
-heroImage: "/images/articles/chiropractic.webp"
+heroImage: "/images/articles/chiropractic-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chiropractic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Increasingly, yes. Many medical doctors refer patients to chiropractors for back and neck pain. The American College of Physicians and the Lancet both recommend spinal manipulation as a treatment option for low back pain. However, some physicians remain skeptical, particularly about chiropractic claims that extend beyond musculoskeletal care."
 ---
 
+# What Is Chiropractic?
 Chiropractic is a licensed healthcare profession that focuses on disorders of the musculoskeletal and nervous systems, particularly the spine. Chiropractors primarily use hands-on spinal manipulation — called adjustments — to restore joint mobility, relieve pain, and support the body's ability to heal itself.
 
 It's one of the most debated professions in healthcare. Roughly 35 million Americans visit chiropractors annually, making it the largest alternative healthcare profession in the United States. Yet arguments about its scientific basis, scope of practice, and relationship to mainstream medicine have raged since the profession was founded over 125 years ago.

@@ -4,7 +4,7 @@ slug: neurology
 description: "Neurology is the medical specialty that treats disorders of the brain and nervous system. Learn about common conditions, diagnostic methods, and treatments."
 category: health-amp-wellness
 tags: ["neurology", "neurological disorders", "brain", "nervous system"]
-heroImage: "/images/articles/neurology.webp"
+heroImage: "/images/articles/neurology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of neurology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

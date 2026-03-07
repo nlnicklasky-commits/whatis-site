@@ -1,7 +1,7 @@
 ---
 title: "What Is Python Programming?"
 slug: python-programming
-description: "Python is a high-level programming language prized for readability and versatility, used in data science, web development, AI, automation, and more."
+description: "Python is a high-level programming language prized for readability and versatility, used in data science, web development, AI, automation, and more. Discover..."
 category: technology
 tags: ["python", "programming", "software development", "data science", "web development", "automation", "scripting"]
 heroImage: "/images/articles/python-programming-hero.webp"

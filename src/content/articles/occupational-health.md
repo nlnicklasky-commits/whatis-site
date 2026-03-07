@@ -4,7 +4,7 @@ slug: occupational-health
 description: "Occupational health protects workers from job-related hazards and illness. Learn about workplace safety, industrial hygiene, ergonomics, and regulations."
 category: health-amp-wellness
 tags: ["occupational health", "workplace safety", "industrial hygiene", "ergonomics"]
-heroImage: "/images/articles/occupational-health.webp"
+heroImage: "/images/articles/occupational-health-hero.webp"
 heroAlt: "Editorial photograph representing the concept of occupational health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: wellness
 description: "Wellness is the active pursuit of overall health across physical, mental, and social dimensions. Learn what it means, its history, and how to practice it."
 category: health-amp-wellness
 tags: ["wellness", "health", "well-being", "self-care"]
-heroImage: "/images/articles/wellness.webp"
+heroImage: "/images/articles/wellness-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wellness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

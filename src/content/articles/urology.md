@@ -4,7 +4,7 @@ slug: urology
 description: "Urology is the medical specialty focused on the urinary tract and male reproductive system. Learn about common conditions, treatments, and when to see a."
 category: health-amp-wellness
 tags: ["urology", "urinary tract", "kidney", "bladder", "medicine"]
-heroImage: "/images/articles/urology.webp"
+heroImage: "/images/articles/urology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of urology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

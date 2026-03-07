@@ -1,7 +1,7 @@
 ---
 title: "What Is Herpetology?"
 slug: herpetology
-description: "Herpetology is the branch of zoology that studies reptiles and amphibians, covering their biology, ecology, behavior, evolution, and conservation."
+description: "Herpetology is the branch of zoology that studies reptiles and amphibians, covering their biology, ecology, behavior, evolution, and conservation. Discover t..."
 category: science
 tags: ["herpetology", "amphibians", "reptiles", "zoology", "conservation", "ecology", "snakes"]
 heroImage: "/images/articles/herpetology-hero.webp"

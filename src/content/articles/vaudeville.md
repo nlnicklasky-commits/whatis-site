@@ -4,7 +4,7 @@ slug: vaudeville
 description: "Vaudeville was a popular American entertainment form featuring variety acts from the 1880s to 1930s. Learn about its history, performers, and lasting impact."
 category: arts-amp-culture
 tags: ["vaudeville", "theater", "performing arts", "entertainment history", "comedy", "variety shows"]
-heroImage: "/images/articles/vaudeville.webp"
+heroImage: "/images/articles/vaudeville-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vaudeville"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

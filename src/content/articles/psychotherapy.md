@@ -4,7 +4,7 @@ slug: psychotherapy
 description: "Psychotherapy is structured talk-based treatment for mental health conditions. Learn about types, how it works, what to expect, and who benefits most."
 category: health-amp-wellness
 tags: ["psychotherapy", "talk therapy", "mental health", "counseling"]
-heroImage: "/images/articles/psychotherapy.webp"
+heroImage: "/images/articles/psychotherapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of psychotherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: environmental-law
 description: "Environmental law is the body of regulations governing how humans interact with the natural world, covering pollution, conservation, and resource management."
 category: law
 tags: ["environmental law", "environment", "pollution control", "conservation", "regulations"]
-heroImage: "/images/articles/environmental-law.webp"
+heroImage: "/images/articles/environmental-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of environmental law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ externalSources:
     url: "https://e360.yale.edu/"
 faq:
   - q: "What are the main environmental laws in the United States?"
-    a: "The major US environmental laws include the Clean Air Act (1970), the Clean Water Act (1972), the National Environmental Policy Act (NEPA, 1970), the Endangered Species Act (1973), the Resource Conservation and Recovery Act (1976), and the Comprehensive Environmental Response, Compensation, and Liability Act (Superfund, 1980). These are enforced primarily by the Environmental Protection Agency (EPA)."
+    a: "The major US environmental laws include the Clean Air Act (1970), the Clean Water Act (1972), the National Environmental Policy Act (NEPA, 1970), the Endangered Species Act (1973), the Resource Conservation and Recovery Act (1976), and the Thorough Environmental Response, Compensation, and Liability Act (Superfund, 1980). These are enforced primarily by the Environmental Protection Agency (EPA)."
   - q: "Who enforces environmental law?"
     a: "In the US, the Environmental Protection Agency (EPA) is the primary federal enforcement agency, though states often have their own environmental agencies with delegated authority. Internationally, enforcement is more complex — treaties like the Paris Agreement rely on national governments to implement and comply. Citizens can also enforce environmental laws through citizen suit provisions included in many statutes."
   - q: "Can individuals sue polluters under environmental law?"

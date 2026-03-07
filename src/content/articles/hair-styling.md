@@ -4,7 +4,7 @@ slug: hair-styling
 description: "Hair styling shapes and arranges hair using cutting, coloring, and heat tools. Learn about techniques, trends, hair science, and the profession behind it."
 category: everyday-concepts
 tags: ["hair styling", "haircut", "hairstyles", "beauty", "fashion", "grooming"]
-heroImage: "/images/articles/hair-styling.webp"
+heroImage: "/images/articles/hair-styling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hair styling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Australian History?"
 slug: australian-history
-description: "Australian history spans over 65,000 years of Indigenous civilization and 236 years since British colonization in 1788."
+description: "Australian history spans over 65,000 years of Indigenous civilization and 236 years since British colonization in 1788. Discover the key facts, history, and ..."
 category: history
 tags: ["australian history", "australia", "indigenous australians", "federation"]
-heroImage: "/images/articles/australian-history.webp"
+heroImage: "/images/articles/australian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of australian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Australia's path to independence was gradual. The six colonies federated into the Commonwealth of Australia on January 1, 1901, with self-governing status. The Statute of Westminster (adopted 1942) and the Australia Act 1986 progressively removed remaining British legal authority. Australia's head of state remains the British monarch."
 ---
 
+# What Is Australian History?
 Australian history encompasses over 65,000 years of Indigenous civilization — the longest continuous cultural tradition on Earth — followed by roughly 236 years of European settlement that radically transformed the continent's people, environment, and position in the world.
 
 That time gap is worth sitting with. Sixty-five thousand years of continuous habitation, then everything changed within a few generations of British arrival. No other national history involves quite this collision between ancient and modern, and the tension between these two chapters still shapes Australian politics, identity, and daily life.

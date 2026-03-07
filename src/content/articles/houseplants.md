@@ -4,7 +4,7 @@ slug: houseplants
 description: "Houseplants are plants grown indoors for decoration, air quality, and well-being. Learn about popular varieties, care basics, and their proven benefits."
 category: everyday-concepts
 tags: ["houseplants", "plants", "indoor plants", "gardening", "horticulture", "home decor"]
-heroImage: "/images/articles/houseplants.webp"
+heroImage: "/images/articles/houseplants-hero.webp"
 heroAlt: "Editorial photograph representing the concept of houseplants"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

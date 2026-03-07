@@ -4,7 +4,7 @@ slug: economic-history
 description: "Economic history studies how economies developed over time, from ancient trade to modern capitalism. Learn about its methods, key periods, and major debates."
 category: history
 tags: ["economic history", "economics", "industrial revolution", "capitalism"]
-heroImage: "/images/articles/economic-history.webp"
+heroImage: "/images/articles/economic-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of economic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

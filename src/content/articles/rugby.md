@@ -1,10 +1,10 @@
 ---
 title: "What Is Rugby?"
 slug: rugby
-description: "Rugby is a contact team sport played with an oval ball where players score by carrying or kicking the ball into the opponent's goal area."
+description: "Rugby is a contact team sport played with an oval ball where players score by carrying or kicking the ball into the opponent's goal area. Discover the key fa..."
 category: sports
 tags: ["rugby union", "rugby league", "contact sport", "team sport", "oval ball", "tackling"]
-heroImage: "/images/articles/rugby.webp"
+heroImage: "/images/articles/rugby-hero.webp"
 heroAlt: "Editorial photograph representing the concept of rugby"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Rugby?
 
-Rugby is a full-contact team sport played with an oval ball on a rectangular grass field, where two teams of 15 (rugby union) or 13 (rugby league) players attempt to score by carrying, passing, or kicking the ball into the opposing team's in-goal area. Here's the rule that makes rugby different from almost every other ball sport: you cannot pass the ball forward. It can only go backward or sideways through the hands. To advance, you run with it — and the other team tries to tackle you to the ground. No pads. No helmets. Just bodies.
+Rugby is a full-contact team sport played with an oval ball on a rectangular grass [field](/field-hockey), where two teams of 15 (rugby union) or 13 (rugby league) players attempt to score by carrying, passing, or kicking the ball into the opposing team's in-goal area. Here's the rule that makes rugby different from almost every other ball sport: you cannot pass the ball forward. It can only go backward or sideways through the hands. To advance, you run with it — and the other team tries to tackle you to the ground. No pads. No helmets. Just bodies.
 
 ## The Origin Story
 

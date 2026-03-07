@@ -1,10 +1,10 @@
 ---
 title: "What Is Recycling?"
 slug: recycling
-description: "Recycling converts waste materials into new products, reducing landfill use and conserving resources. Learn how it works and what's recyclable."
+description: "Recycling converts waste materials into new products, reducing landfill use and conserving resources. Learn how it works and what's recyclable. Discover the ..."
 category: everyday-concepts
 tags: ["recycling", "environment", "waste management", "sustainability", "conservation", "materials"]
-heroImage: "/images/articles/recycling.webp"
+heroImage: "/images/articles/recycling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of recycling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Recycling?
 
-Recycling is the process of collecting waste materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard. Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the environmental benefits — when recycling works — are genuine and significant.
+Recycling is the process of collecting [waste](/[waste](/zero-waste-living)-management) materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard. Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the [environmental](/environmental-engineering) benefits — when recycling works — are genuine and significant.
 
 ## How It Works
 
@@ -73,7 +73,7 @@ This highlighted a painful truth: recycling programs that lose money depend on t
 
 Recycling is part of the "reduce, reuse, recycle" hierarchy — and it's intentionally last. Reducing consumption prevents waste from being created. Reusing extends a product's life without reprocessing. Recycling is the fallback when the first two options aren't possible.
 
-The focus on recycling can actually distract from more effective environmental actions. A reusable water bottle used for years has more environmental benefit than hundreds of "recycled" plastic bottles. Buying less stuff — fewer disposable products, less packaging, fewer fast-fashion garments — prevents waste more effectively than recycling it after the fact.
+The focus on recycling can actually distract from more effective environmental actions. A reusable [water](/water-management) bottle used for years has more environmental benefit than hundreds of "recycled" plastic bottles. Buying less stuff — fewer disposable products, less packaging, fewer fast-fashion garments — prevents waste more effectively than recycling it after the fact.
 
 That said, recycling genuine does reduce resource extraction, energy use, and greenhouse gas emissions for many materials. Manufacturing products from recycled aluminum, paper, and steel is significantly less energy-intensive than using virgin materials. The environmental case for recycling these materials is strong.
 

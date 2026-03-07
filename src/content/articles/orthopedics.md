@@ -4,7 +4,7 @@ slug: orthopedics
 description: "Orthopedics is the medical specialty that treats bones, joints, muscles, and connective tissue. Learn about common conditions, surgeries, and treatments."
 category: health-amp-wellness
 tags: ["orthopedics", "musculoskeletal", "bones", "joints", "surgery"]
-heroImage: "/images/articles/orthopedics.webp"
+heroImage: "/images/articles/orthopedics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of orthopedics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

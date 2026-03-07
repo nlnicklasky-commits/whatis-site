@@ -4,7 +4,7 @@ slug: couponing
 description: "Couponing is the practice of using discount vouchers to save money on purchases. Learn about strategies, digital coupons, extreme couponing, and tips."
 category: everyday-concepts
 tags: ["couponing", "savings", "discounts", "frugal", "budgeting", "shopping"]
-heroImage: "/images/articles/couponing.webp"
+heroImage: "/images/articles/couponing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of couponing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

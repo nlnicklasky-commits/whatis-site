@@ -4,7 +4,7 @@ slug: english-literature
 description: "English literature spans centuries of poetry, prose, and drama in the English language. Explore its major periods, key authors, and enduring significance."
 category: everyday-concepts
 tags: ["english literature", "everyday-concepts"]
-heroImage: "/images/articles/english-literature.webp"
+heroImage: "/images/articles/english-literature-hero.webp"
 heroAlt: "Editorial photograph representing the concept of english literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ The 20th century's first half shattered literary conventions.
 
 ## Contemporary and Beyond
 
-English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-[writing](/writing)) a century ago.
+English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-writing)) a century ago.
 
 The question of which works "count" as literature remains contentious. Genre fiction ([science fiction](/science-fiction), mystery, fantasy) has gained literary respectability. Graphic novels (*Maus*, *Persepolis*) are taught in university courses. Memoir and creative nonfiction blur boundaries. The definition of literature expands with each generation — and the expansion is mostly healthy.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Squash?"
 slug: squash
-description: "Squash is a fast-paced racquet sport played in a four-walled court. Learn about rules, equipment, fitness benefits, and the sport's Olympic debut."
+description: "Squash is a fast-paced racquet sport played in a four-walled court. Learn about rules, equipment, fitness benefits, and the sport's Olympic debut. Discover t..."
 category: sports
 tags: ["squash", "racquet sports", "fitness", "court sports", "Olympics", "exercise"]
-heroImage: "/images/articles/squash.webp"
+heroImage: "/images/articles/squash-hero.webp"
 heroAlt: "Editorial photograph representing the concept of squash"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

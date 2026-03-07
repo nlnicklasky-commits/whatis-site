@@ -1,10 +1,10 @@
 ---
 title: "What Is Powerlifting?"
 slug: powerlifting
-description: "Powerlifting is a strength sport where athletes compete in the squat, bench press, and deadlift. Learn the rules, training, and culture."
+description: "Powerlifting is a strength sport where athletes compete in the squat, bench press, and deadlift. Learn the rules, training, and culture. Discover the key fac..."
 category: sports
 tags: ["powerlifting", "strength sport", "squat", "bench press", "deadlift", "strength training"]
-heroImage: "/images/articles/powerlifting.webp"
+heroImage: "/images/articles/powerlifting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of powerlifting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Powerlifting?
 
-Powerlifting is a strength sport built around three lifts: the squat, the bench press, and the deadlift. In competition, athletes get three attempts at each lift, and the heaviest successful attempt from each is added together for a total. Highest total wins. That's it. No style points, no judges evaluating form (beyond whether the lift meets the rules), no artistic impression. Just you, a barbell, and gravity.
+Powerlifting is a [strength](/strength-training) sport built around three lifts: the squat, the bench press, and the deadlift. In competition, athletes get three attempts at each lift, and the heaviest successful attempt from each is added together for a total. Highest total wins. That's it. No style points, no judges evaluating form (beyond whether the lift meets the rules), no artistic impression. Just you, a barbell, and gravity.
 
 ## The Three Lifts
 

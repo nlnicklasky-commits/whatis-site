@@ -35,6 +35,7 @@ faq:
     a: "Slower, deliberate thinking helps reduce bias, but it's mentally exhausting. The key is knowing when to slow down (major decisions) versus when fast thinking is fine (routine choices)."
 ---
 
+# Thinking, Fast and Slow — Daniel Kahneman
 Cognitive bias is the systematic pattern in which your brain deviates from rational judgment. It's how your mind takes mental shortcuts that can lead you astray—sometimes helpfully, often problematically. Think of it as your brain's built-in glitches, hardwired into the way you process information and make decisions.
 
 ## Why Your Brain Takes Shortcuts
@@ -73,7 +74,7 @@ On a personal level, biases affect your relationships. You might remember only t
 
 **Status Quo Bias** makes you favor keeping things as they are. You stay in unsatisfying jobs or relationships longer than you should because change feels risky, even when staying poses its own risks.
 
-## How Bias Connects to [Decision-Making](/decision-making)
+## How Bias Connects to Decision-Making
 
 Every choice you make flows through the filter of cognitive bias. Think about the last major decision you made—buying a house, accepting a job, ending a relationship. Now consider how many of these biases influenced that choice.
 

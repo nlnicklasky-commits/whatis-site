@@ -1,10 +1,10 @@
 ---
 title: "What Is Secret Societies?"
 slug: secret-societies
-description: "Secret societies are organizations with hidden membership, rituals, and goals that have influenced politics, religion, and culture for centuries."
+description: "Secret societies are organizations with hidden membership, rituals, and goals that have influenced politics, religion, and culture for centuries. Discover th..."
 category: history
 tags: ["secret society", "freemasonry", "fraternal order", "conspiracy"]
-heroImage: "/images/articles/secret-societies.webp"
+heroImage: "/images/articles/secret-societies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of secret societies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "People join for various reasons: a sense of belonging and identity, networking and mutual aid, access to esoteric knowledge or spiritual practices, social status, shared ideological goals, and the simple human attraction to mystery and exclusivity. In many historical contexts, secrecy was also necessary for safety — discussing radical ideas openly could mean imprisonment or death."
 ---
 
+# What Is Secret Societies?
 A secret society is an organization that conceals some or all of its membership, rituals, internal practices, or goals from outsiders. They've existed for thousands of years across virtually every civilization — from ancient mystery religions in Greece to medieval craft guilds, from Enlightenment-era political clubs to modern fraternal orders. And they've generated more conspiracy theories than probably any other type of human institution.
 
 Here's the thing about secret societies: the reality is almost always less exciting than the conspiracy theories but more interesting than most people expect. Real secret societies tell us something profound about human nature — our desire for belonging, meaning, and the thrill of knowing something others don't.

@@ -4,7 +4,7 @@ slug: internet-of-things-iot
 description: "The Internet of Things connects everyday devices to the internet for data collection and automation. Learn how IoT works, its uses, and security risks."
 category: everyday-concepts
 tags: ["internet of things iot", "smart devices", "automation", "sensors", "connected technology"]
-heroImage: "/images/articles/internet-of-things-iot.webp"
+heroImage: "/images/articles/internet-of-things-iot-hero.webp"
 heroAlt: "Editorial photograph representing the concept of internet of things (iot)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: minimalism
 description: "Minimalism is a lifestyle and design philosophy focused on reducing excess to emphasize what matters most. Learn about its origins, principles, and practice."
 category: everyday-concepts
 tags: ["minimalism", "lifestyle", "design", "simplicity", "decluttering", "intentional living"]
-heroImage: "/images/articles/minimalism.webp"
+heroImage: "/images/articles/minimalism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of minimalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -62,7 +62,7 @@ Practical minimalist practices include:
 - **Decluttering** — removing possessions that don't serve a purpose or bring genuine satisfaction
 - **Intentional purchasing** — buying less but choosing higher quality
 - **Digital minimalism** — reducing screen time, app usage, and information overload
-- **[Time management](/time-[management](/management))** — saying no to commitments that don't align with your priorities
+- **[Time management](/maritime-law))** — saying no to commitments that don't align with your priorities
 - **Financial simplification** — reducing expenses, avoiding debt, and building financial freedom
 
 ## The Critiques

@@ -4,7 +4,7 @@ slug: clowning
 description: "Clowning is a performance art centered on comedy, physical humor, and audience connection. Discover its history, types of clowns, and modern practice."
 category: arts-amp-culture
 tags: ["clowning", "circus arts", "comedy", "physical comedy", "mime", "performance art"]
-heroImage: "/images/articles/clowning.webp"
+heroImage: "/images/articles/clowning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of clowning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

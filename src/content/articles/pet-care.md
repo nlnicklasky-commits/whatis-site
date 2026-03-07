@@ -4,7 +4,7 @@ slug: pet-care
 description: "Pet care is the responsible management of a pet's health, nutrition, exercise, and well-being. Learn about veterinary needs, feeding, and responsible ownership."
 category: everyday-concepts
 tags: ["pets", "animal welfare", "veterinary", "grooming", "pet health", "responsible ownership"]
-heroImage: "/images/articles/pet-care.webp"
+heroImage: "/images/articles/pet-care-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pet care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pet Care?
 
-Pet care is everything involved in keeping a domesticated animal healthy, safe, and content — feeding, veterinary visits, exercise, grooming, training, socialization, and meeting their emotional and behavioral needs. It's a responsibility that roughly 70% of American households have taken on (about 90 million families own at least one pet), and doing it well requires more knowledge, time, and money than most people expect before they bring an animal home.
+Pet care is everything involved in keeping a domesticated [animal](/animal-behavior) healthy, safe, and content — feeding, veterinary visits, exercise, grooming, training, socialization, and meeting their emotional and behavioral needs. It's a responsibility that roughly 70% of American households have taken on (about 90 million families own at least one pet), and doing it well requires more knowledge, time, and money than most people expect before they bring an animal home.
 
 ## The Basics
 

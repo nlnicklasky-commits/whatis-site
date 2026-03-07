@@ -4,7 +4,7 @@ slug: game-theory
 description: "Game theory is the mathematical study of strategic decision-making between rational agents. Learn about Nash equilibrium, the prisoner's dilemma, and more."
 category: everyday-concepts
 tags: ["game theory", "mathematics", "strategy", "economics", "decision making", "Nash equilibrium"]
-heroImage: "/images/articles/game-theory.webp"
+heroImage: "/images/articles/game-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of game theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

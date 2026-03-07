@@ -4,7 +4,7 @@ slug: transcendentalism
 description: "Transcendentalism was a 19th-century American philosophical movement emphasizing nature, individualism, and intuition. Learn its ideas, key figures, and legacy."
 category: everyday-concepts
 tags: ["transcendentalism", "philosophy", "Emerson", "Thoreau", "individualism", "nature"]
-heroImage: "/images/articles/transcendentalism.webp"
+heroImage: "/images/articles/transcendentalism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of transcendentalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -82,7 +82,7 @@ Transcendentalism emerged during a period of rapid change in America — industr
 - **Materialism** — The growing commercial culture of the 1830s-40s prioritized wealth over wisdom
 - **Conformity** — Social pressure to fit in conflicted with the transcendentalist emphasis on individual expression
 
-The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philosophy-of-[education](/education)) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
+The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philately)) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
 
 ## The Legacy
 

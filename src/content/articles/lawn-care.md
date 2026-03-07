@@ -4,7 +4,7 @@ slug: lawn-care
 description: "Lawn care is the practice of maintaining a healthy, attractive grass lawn through mowing, watering, fertilizing, and pest management. Learn the essentials."
 category: everyday-concepts
 tags: ["lawn care", "gardening", "yard maintenance", "grass", "landscaping", "home improvement"]
-heroImage: "/images/articles/lawn-care.webp"
+heroImage: "/images/articles/lawn-care-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lawn care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

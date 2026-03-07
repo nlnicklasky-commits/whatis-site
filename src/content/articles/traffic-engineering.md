@@ -4,7 +4,7 @@ slug: traffic-engineering
 description: "Traffic engineering is the branch of civil engineering focused on safe, efficient movement of people and vehicles. Learn about signal timing, road design."
 category: technology
 tags: ["traffic engineering", "transportation", "civil engineering"]
-heroImage: "/images/articles/traffic-engineering.webp"
+heroImage: "/images/articles/traffic-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of traffic engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

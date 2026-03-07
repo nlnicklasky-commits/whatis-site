@@ -4,7 +4,7 @@ slug: manicuring
 description: "Manicuring is the cosmetic care of hands and fingernails, including shaping, polishing, and treating cuticles. Learn about techniques, types, and trends."
 category: everyday-concepts
 tags: ["manicuring", "nail care", "beauty", "personal grooming", "cosmetics", "nail art"]
-heroImage: "/images/articles/manicuring.webp"
+heroImage: "/images/articles/manicuring-hero.webp"
 heroAlt: "Editorial photograph representing the concept of manicuring"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

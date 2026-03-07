@@ -4,7 +4,7 @@ slug: firefighting
 description: "Firefighting is the practice of extinguishing fires and rescuing people from dangerous situations. Learn about techniques, equipment, and career paths."
 category: everyday-concepts
 tags: ["emergency services", "public safety", "fire", "rescue", "first responders", "hazardous materials"]
-heroImage: "/images/articles/firefighting.webp"
+heroImage: "/images/articles/firefighting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of firefighting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Firefighting?
 
-Firefighting is the organized effort to extinguish fires, rescue people and animals from dangerous situations, and respond to emergencies including medical calls, hazardous material incidents, and [natural disasters](/natural-disasters). The United States has approximately 1.1 million firefighters serving about 29,700 fire departments. They respond to roughly 1.4 million fires per year — but fires are actually a shrinking portion of their work. About 65% of fire department calls are now medical emergencies.
+Firefighting is the organized effort to extinguish fires, rescue people and animals from dangerous situations, and respond to emergencies including medical calls, hazardous material incidents, and [natural disasters](/natural-disasters). The United States has approximately 1.1 million firefighters serving about 29,700 [fire](/fire-safety) departments. They respond to roughly 1.4 million fires per year — but fires are actually a shrinking portion of their work. About 65% of fire department calls are now medical emergencies.
 
 ## What Firefighters Actually Do
 
@@ -51,7 +51,7 @@ The popular image — rushing into a burning building with an axe — captures a
 
 Fighting a structural fire follows a general tactical approach, though every fire is different.
 
-**Size-up** happens first. The incident commander assesses the building type, fire location and extent, smoke conditions, and potential for occupants. This assessment determines the strategy — offensive (going inside to fight the fire directly) or defensive (fighting from outside because conditions are too dangerous for interior operations).
+**Size-up** happens [first](/first-aid). The incident commander assesses the building type, fire location and extent, smoke conditions, and potential for occupants. This assessment determines the strategy — offensive (going inside to fight the fire directly) or defensive (fighting from outside because conditions are too dangerous for interior operations).
 
 **Search and rescue** is the top priority. Firefighters enter the building in teams of two or more, searching systematically for occupants. Visibility is often near zero — dense smoke fills rooms floor to ceiling. Firefighters work through by touch, following walls and feeling the floor ahead of them.
 

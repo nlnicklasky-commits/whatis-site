@@ -4,7 +4,7 @@ slug: medical-ethics
 description: "Medical ethics is the set of moral principles guiding healthcare decisions, from patient consent and confidentiality to end-of-life care and research."
 category: health-amp-wellness
 tags: ["ethics", "medical ethics", "bioethics"]
-heroImage: "/images/articles/medical-ethics.webp"
+heroImage: "/images/articles/medical-ethics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of medical ethics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -103,7 +103,7 @@ Healthcare resources are limited. Not everyone can receive every treatment. Just
 
 During the COVID-19 pandemic, this principle was tested daily. When ventilators were scarce, who should get one? The youngest patient? The sickest? The one most likely to survive? The healthcare worker who could save others if they recovered? There's no algorithm for this. Justice requires human judgment, transparency, and consistency.
 
-At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where [health insurance](/health-[insurance](/insurance)) status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
+At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where [health insurance](/health-law)) status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
 
 ## Major Ethical Debates in Modern Medicine
 

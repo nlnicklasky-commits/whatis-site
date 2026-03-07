@@ -4,7 +4,7 @@ slug: social-network-analysis
 description: "Social network analysis maps and measures relationships between people, groups, or organizations. Learn about its methods, metrics, and real-world uses."
 category: science
 tags: ["social network analysis", "graph theory", "sociology", "data science", "network science", "research methods"]
-heroImage: "/images/articles/social-network-analysis.webp"
+heroImage: "/images/articles/social-network-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social network analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

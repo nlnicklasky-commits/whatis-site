@@ -1,10 +1,10 @@
 ---
 title: "What Is Romance Languages?"
 slug: romance-languages
-description: "Romance languages are a family of languages descended from Latin, including Spanish, French, Italian, and Portuguese."
+description: "Romance languages are a family of languages descended from Latin, including Spanish, French, Italian, and Portuguese. Discover the key facts, history, and wh..."
 category: language
 tags: ["latin", "vulgar latin", "spanish", "french", "italian", "portuguese"]
-heroImage: "/images/articles/romance-languages.webp"
+heroImage: "/images/articles/romance-languages-hero.webp"
 heroAlt: "Editorial photograph representing the concept of romance languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Romance Languages?
 
-Romance languages are a family of languages that all descended from Latin — specifically from Vulgar Latin, the everyday spoken language of the Roman Empire, not the formal literary Latin of Cicero and Virgil. The family includes Spanish, Portuguese, French, Italian, Romanian, and dozens of smaller languages spoken across Europe, the Americas, Africa, and parts of Asia. With roughly 1 billion native speakers combined, Romance languages are the most widely spoken language family derived from a single ancestor.
+Romance languages are a family of languages that all descended from Latin — specifically from Vulgar Latin, the everyday spoken language of the Roman Empire, not the formal literary Latin of Cicero and Virgil. The family includes Spanish, [Portuguese](/portuguese-language), French, Italian, Romanian, and dozens of smaller languages spoken across Europe, the Americas, Africa, and parts of Asia. With roughly 1 billion native speakers combined, Romance languages are the most widely spoken language family derived from a single ancestor.
 
 ## From Latin to Many
 

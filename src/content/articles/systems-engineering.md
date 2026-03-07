@@ -4,7 +4,7 @@ slug: systems-engineering
 description: "Systems engineering is the discipline of designing and managing complex systems over their entire lifecycle. Learn the principles, process, and where it's."
 category: everyday-concepts
 tags: ["systems engineering", "engineering", "design", "lifecycle", "requirements", "integration"]
-heroImage: "/images/articles/systems-engineering.webp"
+heroImage: "/images/articles/systems-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of systems engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

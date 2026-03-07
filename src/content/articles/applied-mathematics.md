@@ -47,7 +47,7 @@ The distinction between pure and applied mathematics sounds clean on paper. Pure
 
 Take number theory. For centuries, it was the poster child for "useless" pure math — mathematicians playing with prime numbers because primes were fascinating, full stop. Then in the 1970s, RSA encryption came along and suddenly prime factorization became the backbone of internet security. Every time you buy something online, you're relying on number theory that was developed with zero practical intent.
 
-This keeps happening. Group theory, born from abstract [algebra](/algebra) puzzles in the 19th century, now underpins particle physics. Topology, once dismissed as mathematical philosophy, drives modern data analysis. The line between pure and applied isn't a wall — it's a revolving door.
+This keeps happening. Group theory, born from abstract [algebra](/algebra) puzzles in the 19th century, now backs up particle physics. Topology, once dismissed as mathematical philosophy, drives modern data analysis. The line between pure and applied isn't a wall — it's a revolving door.
 
 Still, there's a genuine difference in *approach*. A pure mathematician might spend years proving that a solution to a differential equation exists, without ever calculating what that solution actually is. An applied mathematician needs the actual number. Or at least a good approximation. That pragmatic focus — "give me something I can use" — is what defines the field.
 

@@ -4,7 +4,7 @@ slug: classical-guitar
 description: "Classical guitar is a nylon-stringed acoustic instrument with centuries of tradition. Learn about its history, technique, repertoire, and famous players."
 category: arts-amp-culture
 tags: ["classical guitar", "guitar", "music", "classical music", "flamenco", "nylon strings"]
-heroImage: "/images/articles/classical-guitar.webp"
+heroImage: "/images/articles/classical-guitar-hero.webp"
 heroAlt: "Editorial photograph representing the concept of classical guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

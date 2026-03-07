@@ -4,7 +4,7 @@ slug: qigong
 description: "Qigong is an ancient Chinese practice combining slow movement, breathing, and meditation to improve health. Learn its types, benefits, and how to start."
 category: health-amp-wellness
 tags: ["qigong", "traditional chinese medicine", "meditation", "energy"]
-heroImage: "/images/articles/qigong.webp"
+heroImage: "/images/articles/qigong-hero.webp"
 heroAlt: "Editorial photograph representing the concept of qigong"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

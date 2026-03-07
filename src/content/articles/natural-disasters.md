@@ -1,10 +1,10 @@
 ---
 title: "What Is Natural Disasters?"
 slug: natural-disasters
-description: "Natural disasters are extreme geological or weather events that cause significant destruction. Learn about earthquakes, hurricanes, floods, and more."
+description: "Natural disasters are extreme geological or weather events that cause significant destruction. Learn about earthquakes, hurricanes, floods, and more. Discove..."
 category: everyday-concepts
 tags: ["natural disasters", "earthquakes", "hurricanes", "floods", "emergency preparedness", "geology"]
-heroImage: "/images/articles/natural-disasters.webp"
+heroImage: "/images/articles/natural-disasters-hero.webp"
 heroAlt: "Editorial photograph representing the concept of natural disasters"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -45,7 +45,7 @@ This distinction matters because it means the severity of a "natural" disaster d
 
 ### Geological Disasters
 
-**Earthquakes** occur when tectonic plates shift, releasing stored energy as seismic waves. About 500,000 detectable earthquakes happen each year; roughly 100 cause damage. The Ring of Fire — a horseshoe-shaped zone around the Pacific Ocean — produces about 90% of the world's earthquakes.
+**Earthquakes** occur when tectonic plates shift, releasing stored energy as seismic waves. About 500,000 detectable earthquakes happen each year; roughly 100 cause damage. The Ring of [Fire](/fire-safety) — a horseshoe-shaped zone around the Pacific Ocean — produces about 90% of the world's earthquakes.
 
 **Volcanic eruptions** happen when magma from Earth's mantle reaches the surface. They range from gentle lava flows (like Hawaii's Kilauea) to explosive events that can alter global climate. The 1815 eruption of Mount Tambora in Indonesia lowered global temperatures by 0.4-0.7°C, causing the "Year Without a Summer" in 1816.
 

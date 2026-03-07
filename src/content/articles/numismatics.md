@@ -1,10 +1,10 @@
 ---
 title: "What Is Numismatics?"
 slug: numismatics
-description: "Numismatics is the study and collection of coins, paper currency, and medals. Learn about coin grading, rare coins, and monetary history."
+description: "Numismatics is the study and collection of coins, paper currency, and medals. Learn about coin grading, rare coins, and monetary history. Discover the key fa..."
 category: arts-amp-culture
 tags: ["numismatics", "coins", "currency", "money", "coin collecting", "economic history"]
-heroImage: "/images/articles/numismatics.webp"
+heroImage: "/images/articles/numismatics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of numismatics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -68,7 +68,7 @@ Professional grading services — primarily PCGS (Professional Coin Grading Serv
 
 ## What Makes Coins Valuable
 
-**Rarity** is the obvious factor, but it's more nuanced than "fewer is better." The 1909-S VDB Lincoln cent had a mintage of 484,000 — small but not tiny. It's valuable because demand from Lincoln cent collectors vastly exceeds supply.
+**Rarity** is the obvious factor, but it's more subtle than "fewer is better." The 1909-S VDB Lincoln cent had a mintage of 484,000 — small but not tiny. It's valuable because demand from Lincoln cent collectors vastly exceeds supply.
 
 **Condition** often matters more than rarity. A common-date Morgan silver dollar in MS-67 condition can be worth thousands, while the same date in VF-30 might sell for $50. The grading scale isn't linear in terms of value — the jump from MS-65 to MS-66 can double or triple a coin's price.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Poetry?"
 slug: poetry
-description: "Poetry is a literary form that uses rhythm, imagery, and condensed language to express ideas and emotions. Here's what makes it different from prose."
+description: "Poetry is a literary form that uses rhythm, imagery, and condensed language to express ideas and emotions. Here's what makes it different from prose. Discove..."
 category: arts-amp-culture
 tags: ["literature", "writing", "verse", "rhyme", "rhythm", "expression"]
-heroImage: "/images/articles/poetry.webp"
+heroImage: "/images/articles/poetry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of poetry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ Emily Dickinson wrote: "After great pain, a formal feeling comes." That's eight 
 
 **Blank verse** — unrhymed iambic pentameter. Shakespeare's plays are mostly in blank verse. Milton's *Paradise Lost* is blank verse. It sounds like elevated speech — rhythmic but not sing-songy.
 
-**Villanelle** — 19 lines with an intricate pattern of two repeating refrains. Dylan Thomas's "Do Not Go Gentle into That Good Night" is the most famous English villanelle. The repeating lines create an obsessive, incantatory quality.
+**Villanelle** — 19 lines with an detailed pattern of two repeating refrains. Dylan Thomas's "Do Not Go Gentle into That Good Night" is the most famous English villanelle. The repeating lines create an obsessive, incantatory quality.
 
 **Ghazal** — an Arabic form of rhyming couplets with a refrain, each couplet self-contained. It's been adapted into English by poets like Agha Shahid Ali. The couplets create a sequence of connected but independent moments, like beads on a string.
 

@@ -4,7 +4,7 @@ slug: papier-mch
 description: "Papier-mache is a craft technique using paper and adhesive to create sculptures and objects. Learn about methods, materials, and creative applications."
 category: everyday-concepts
 tags: ["papier mch", "crafts", "sculpture", "art", "paper art", "DIY"]
-heroImage: "/images/articles/papier-mch.webp"
+heroImage: "/images/articles/papier-mch-hero.webp"
 heroAlt: "Editorial photograph representing the concept of papier-mache"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Papier-mache?
 
-Papier-mache (from the French for "chewed paper") is a craft technique that uses paper combined with an adhesive — usually flour paste or white glue — to create three-dimensional objects. Strips of paper are layered over a form, or paper pulp is pressed into molds, then dried to create a hard, lightweight shell that can be painted, varnished, and decorated. It's one of the most accessible crafting methods in existence — you need paper, paste, and patience, and you can make nearly anything.
+Papier-mache (from the French for "chewed [paper](/paper-making)") is a craft technique that uses paper combined with an adhesive — usually flour paste or white glue — to create three-dimensional objects. Strips of paper are layered over a form, or paper pulp is pressed into molds, then dried to create a hard, lightweight shell that can be painted, varnished, and decorated. It's one of the most accessible crafting methods in existence — you need paper, paste, and patience, and you can make nearly anything.
 
 ## Two Basic Methods
 
@@ -45,7 +45,7 @@ Both methods produce a hard, paintable surface when fully dried. The strip metho
 
 If you associate papier-mache only with elementary school art projects, the history might surprise you. The technique has been used for serious manufacturing for centuries.
 
-Chinese artisans used lacquered paper for helmets during the Han Dynasty (202 BCE - 220 CE). Persian artists created elaborate papier-mache boxes, book covers, and decorative objects with intricate hand-painted designs — some are museum pieces worth thousands of dollars.
+Chinese artisans used lacquered paper for helmets during the Han Dynasty (202 BCE - 220 CE). Persian artists created elaborate papier-mache boxes, book covers, and decorative objects with complex hand-painted designs — some are museum pieces worth thousands of dollars.
 
 In 18th and 19th century Europe, papier-mache became a legitimate manufacturing material. Henry Clay of Birmingham, England, patented a heat-treated papier-mache process in 1772 that produced panels strong enough for furniture, trays, and architectural elements. Victorian manufacturers produced papier-mache chairs, tables, wall panels, and even a prefabricated village in Australia.
 
@@ -67,7 +67,7 @@ The material's lightness made it ideal for theatrical props and carnival figures
 
 Contemporary artists use papier-mache for large-scale sculptures, installation art, and mixed-media work. The material's affordability and workability make it attractive for projects where cost matters — theatrical set pieces, parade floats, and festival decorations.
 
-Educational settings love papier-mache because it's cheap, safe, and teaches layering, patience, and three-dimensional thinking. A classroom globe, an animal diorama, or a volcano model (every kid makes one eventually) — papier-mache handles all of them.
+Educational settings love papier-mache because it's cheap, safe, and teaches layering, patience, and three-dimensional thinking. A classroom globe, an animal diorama, or a volcano [model](/model-building) (every kid makes one eventually) — papier-mache handles all of them.
 
 DIY culture has embraced papier-mache for home decor — bowls, vases, picture frames, and decorative objects. Pinterest and YouTube have revived interest among adults who discover that the technique they used in second grade can actually produce sophisticated results with a bit more care and better finishing techniques.
 

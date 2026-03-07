@@ -4,7 +4,7 @@ slug: islamic-history
 description: "Islamic history covers 1,400 years from the Prophet Muhammad to modern Muslim-majority nations. Learn about caliphates, the golden age, and key turning points."
 category: history
 tags: ["islamic civilization", "islam", "history", "caliphate", "muslim world"]
-heroImage: "/images/articles/islamic-history.webp"
+heroImage: "/images/articles/islamic-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of islamic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

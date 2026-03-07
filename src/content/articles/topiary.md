@@ -1,10 +1,10 @@
 ---
 title: "What Is Topiary?"
 slug: topiary
-description: "Topiary is the art of trimming and training plants into decorative shapes. Learn the history, techniques, popular plants, and how to try it yourself."
+description: "Topiary is the art of trimming and training plants into decorative shapes. Learn the history, techniques, popular plants, and how to try it yourself. Discove..."
 category: arts-amp-culture
 tags: ["topiary", "gardening", "horticulture", "garden art", "landscaping", "plants"]
-heroImage: "/images/articles/topiary.webp"
+heroImage: "/images/articles/topiary-hero.webp"
 heroAlt: "Editorial photograph representing the concept of topiary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

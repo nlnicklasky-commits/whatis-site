@@ -4,7 +4,7 @@ slug: merchant-marine
 description: "The merchant marine is a nation's commercial shipping fleet and the civilians who operate it. Learn about careers, history, and global trade's backbone."
 category: everyday-concepts
 tags: ["merchant marine", "shipping", "maritime", "cargo", "global trade", "seafaring"]
-heroImage: "/images/articles/merchant-marine.webp"
+heroImage: "/images/articles/merchant-marine-hero.webp"
 heroAlt: "Editorial photograph representing the concept of merchant marine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

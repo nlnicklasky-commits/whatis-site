@@ -1,10 +1,10 @@
 ---
 title: "What Is Orthodontics?"
 slug: orthodontics
-description: "Orthodontics is the dental specialty focused on correcting misaligned teeth and jaws. Learn about braces, aligners, treatment types, and costs."
+description: "Orthodontics is the dental specialty focused on correcting misaligned teeth and jaws. Learn about braces, aligners, treatment types, and costs. Discover the ..."
 category: health-amp-wellness
 tags: ["orthodontics", "braces", "dentistry", "oral health"]
-heroImage: "/images/articles/orthodontics.webp"
+heroImage: "/images/articles/orthodontics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of orthodontics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

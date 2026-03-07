@@ -4,7 +4,7 @@ slug: personal-growth
 description: "Personal growth is the ongoing process of improving yourself through learning, self-awareness, and skill development. Learn about methods and mindset."
 category: everyday-concepts
 tags: ["self-improvement", "self-development", "mindset", "well-being", "life skills", "learning"]
-heroImage: "/images/articles/personal-growth.webp"
+heroImage: "/images/articles/personal-growth-hero.webp"
 heroAlt: "Editorial photograph representing the concept of personal growth"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

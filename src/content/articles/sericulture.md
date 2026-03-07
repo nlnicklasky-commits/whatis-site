@@ -1,10 +1,10 @@
 ---
 title: "What Is Sericulture?"
 slug: sericulture
-description: "Sericulture is the farming of silkworms to produce silk fiber. Learn how silk is made, its 5,000-year history, and the modern silk industry."
+description: "Sericulture is the farming of silkworms to produce silk fiber. Learn how silk is made, its 5,000-year history, and the modern silk industry. Discover the key..."
 category: everyday-concepts
 tags: ["sericulture", "silkworms", "silk", "textile", "agriculture", "mulberry"]
-heroImage: "/images/articles/sericulture.webp"
+heroImage: "/images/articles/sericulture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sericulture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

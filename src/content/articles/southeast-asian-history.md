@@ -1,10 +1,10 @@
 ---
 title: "What Is Southeast Asian History?"
 slug: southeast-asian-history
-description: "Southeast Asian history spans thousands of years of empires, trade networks, colonialism, and independence. Discover what shaped this diverse region."
+description: "Southeast Asian history spans thousands of years of empires, trade networks, colonialism, and independence. Discover what shaped this diverse region. Discove..."
 category: history
 tags: ["southeast asian history", "asia", "colonialism", "history"]
-heroImage: "/images/articles/southeast-asian-history.webp"
+heroImage: "/images/articles/southeast-asian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of southeast asian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -55,7 +55,7 @@ The result was a series of "Indianized" kingdoms that blended Indian and indigen
 
 **Srivijaya (7th-13th century)** — A maritime empire based in Sumatra that controlled the Strait of Malacca, one of the most strategically important waterways in the world. Srivijaya's power came from controlling trade rather than territory. Chinese pilgrims described it as a major center of Buddhist learning.
 
-**The Khmer Empire (802-1431)** — Frankly, this is the one most people have heard of, thanks to Angkor Wat. At its peak in the 12th century under Suryavarman II and Jayavarman VII, the Khmer Empire ruled most of mainland Southeast Asia. Angkor, the capital, may have had a population of up to one million people — making it possibly the largest pre-industrial city on Earth. The empire's sophisticated [water management](/water-[management](/management)) system, called the *baray*, sustained massive rice production that fed this population.
+**The Khmer Empire (802-1431)** — Frankly, this is the one most people have heard of, thanks to Angkor Wat. At its peak in the 12th century under Suryavarman II and Jayavarman VII, the Khmer Empire ruled most of mainland Southeast Asia. Angkor, the capital, may have had a population of up to one million people — making it possibly the largest pre-industrial city on Earth. The empire's sophisticated [water management](/water-law)) system, called the *baray*, sustained massive rice production that fed this population.
 
 **Pagan Kingdom (9th-13th century)** — The first Burmese empire, centered in present-day Myanmar. At its height, the city of Bagan contained over 10,000 Buddhist temples, monasteries, and pagodas. Around 2,200 of them still stand.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Osteology?"
 slug: osteology
-description: "Osteology is the scientific study of bones and the skeletal system, applied in medicine, archaeology, forensics, and physical anthropology."
+description: "Osteology is the scientific study of bones and the skeletal system, applied in medicine, archaeology, forensics, and physical anthropology. Discover the key ..."
 category: science
 tags: ["osteology", "bones", "skeletal system", "anatomy", "archaeology", "forensic science", "physical anthropology"]
 heroImage: "/images/articles/osteology-hero.webp"
@@ -95,7 +95,7 @@ Intervertebral discs between vertebrae are fibrocartilage cushions that allow fl
 
 Long bones (femur, tibia, humerus, radius, ulna) are the structural pillars of the limbs. Each has a shaft (diaphysis) of thick cortical bone surrounding a medullary cavity filled with marrow, and two ends (epiphyses) covered with articular cartilage for smooth joint movement.
 
-The femur is the longest and strongest bone in the body. It can withstand compressive forces of about 1,700 pounds before fracturing. Its neck angle (about 125 degrees in adults) is an adaptation for efficient bipedal walking — a feature that [physical anthropology](/physical-[anthropology](/anthropology)) uses to distinguish human from non-human fossils and to track the evolution of upright walking.
+The femur is the longest and strongest bone in the body. It can withstand compressive forces of about 1,700 pounds before fracturing. Its neck angle (about 125 degrees in adults) is an adaptation for efficient bipedal walking — a feature that [physical anthropology](/physics)) uses to distinguish human from non-human fossils and to track the evolution of upright walking.
 
 ### The Hand
 

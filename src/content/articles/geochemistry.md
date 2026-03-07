@@ -1,7 +1,7 @@
 ---
 title: "What Is Geochemistry?"
 slug: geochemistry
-description: "Geochemistry studies the chemical composition of Earth and other planets, tracing how elements move through rocks, water, and air to shape our world."
+description: "Geochemistry studies the chemical composition of Earth and other planets, tracing how elements move through rocks, water, and air to shape our world. Discove..."
 category: science
 tags: ["geochemistry", "geology", "chemistry", "earth science", "elements", "isotopes", "minerals"]
 heroImage: "/images/articles/geochemistry-hero.webp"

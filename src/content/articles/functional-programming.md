@@ -1,7 +1,7 @@
 ---
 title: "What Is Functional Programming?"
 slug: functional-programming
-description: "Functional programming builds software using pure functions, immutability, and composition. Learn how FP works and why developers adopt it."
+description: "Functional programming builds software using pure functions, immutability, and composition. Learn how FP works and why developers adopt it. Discover the key ..."
 category: technology
 tags: ["programming", "software development", "computer science", "pure functions", "immutability", "declarative programming"]
 heroImage: "/images/articles/functional-programming-hero.webp"
@@ -30,7 +30,7 @@ faq:
   - q: "Is functional programming faster than object-oriented programming?"
     a: "Not inherently. Functional programs may be slower due to immutable data structures and extra function calls, or faster due to better optimization opportunities, easier parallelization, and no lock contention. In practice, the difference is usually negligible. Developer productivity and code correctness matter more than raw speed for most applications."
   - q: "What languages are best for functional programming?"
-    a: "Pure functional languages include Haskell, Elm, and PureScript. Multi-paradigm languages with strong FP support include Scala, F#, Clojure, Elixir, OCaml, and Erlang. Mainstream languages with good FP features include JavaScript/TypeScript, Python, Kotlin, Rust, and Swift. The best choice depends on your ecosystem and use case."
+    a: "Pure functional languages include Haskell, Elm, and PureScript. Multi-approach languages with strong FP support include Scala, F#, Clojure, Elixir, OCaml, and Erlang. Mainstream languages with good FP features include JavaScript/TypeScript, Python, Kotlin, Rust, and Swift. The best choice depends on your ecosystem and use case."
 ---
 
 # What Is Functional Programming?

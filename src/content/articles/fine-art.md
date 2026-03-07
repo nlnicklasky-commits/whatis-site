@@ -4,7 +4,7 @@ slug: fine-art
 description: "Fine art refers to creative works made primarily for aesthetic value, including painting, sculpture, and drawing. Learn its history and modern debates."
 category: everyday-concepts
 tags: ["fine art", "painting", "sculpture", "visual arts", "art history", "aesthetics"]
-heroImage: "/images/articles/fine-art.webp"
+heroImage: "/images/articles/fine-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of fine art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

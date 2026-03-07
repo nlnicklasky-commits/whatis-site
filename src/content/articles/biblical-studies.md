@@ -4,7 +4,7 @@ slug: biblical-studies
 description: "Biblical studies is the academic examination of the Bible using historical, literary, and archaeological methods to understand its texts and contexts."
 category: history
 tags: ["biblical studies", "bible", "old testament", "new testament", "historical criticism"]
-heroImage: "/images/articles/biblical-studies.webp"
+heroImage: "/images/articles/biblical-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of biblical studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Not necessarily. Many biblical scholars are practicing Jews, Christians, or Muslims who see historical analysis as enriching their understanding of sacred texts. Others approach the Bible purely as an academic subject. The relationship between scholarship and faith varies by individual and religious tradition."
 ---
 
+# What Is Biblical Studies?
 Biblical studies is the academic discipline that examines the Bible — its texts, authorship, historical contexts, literary forms, transmission, and interpretation — using the same critical methods applied to any ancient [literature](/literature). It asks questions like: who wrote this text, when, for whom, and why? How has the text changed over time? What did it mean to its original audience?
 
 This is distinct from devotional reading or theological study, though all three overlap. A pastor might read the book of Isaiah to find spiritual guidance. A theologian might analyze its doctrine of God. A biblical scholar asks: which parts were written by the historical Isaiah (8th century BCE), which were added by later authors, and how does the text reflect the political crises of ancient Judah?

@@ -1,10 +1,10 @@
 ---
 title: "What Is Performance Art?"
 slug: performance-art
-description: "Performance art is a live art form where the artist's body and actions become the medium. Learn about its history, key artists, and major works."
+description: "Performance art is a live art form where the artist's body and actions become the medium. Learn about its history, key artists, and major works. Discover the..."
 category: arts-amp-culture
 tags: ["performance art", "contemporary art", "live art", "conceptual art", "art performance", "body art"]
-heroImage: "/images/articles/performance-art.webp"
+heroImage: "/images/articles/performance-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of performance art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

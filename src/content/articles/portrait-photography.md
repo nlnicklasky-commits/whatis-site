@@ -1,10 +1,10 @@
 ---
 title: "What Is Portrait Photography?"
 slug: portrait-photography
-description: "Portrait photography captures people's likeness, personality, and mood through deliberate composition and lighting. Here's how it works."
+description: "Portrait photography captures people's likeness, personality, and mood through deliberate composition and lighting. Here's how it works. Discover the key fac..."
 category: arts-amp-culture
 tags: ["portrait photography", "photography", "portraiture", "studio photography", "environmental portrait", "headshots"]
-heroImage: "/images/articles/portrait-photography.webp"
+heroImage: "/images/articles/portrait-photography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of portrait photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -61,7 +61,7 @@ Studio lighting gives complete control. The standard setup uses a main light (ke
 
 **Environmental portraits** — the subject is photographed in a meaningful location, usually their home, workplace, or community. The setting provides context and tells part of the story. Arnold Newman's portrait of Igor Stravinsky at a grand [piano](/piano) — with the piano's angular shape dominating the composition — is a textbook example.
 
-**Candid portraits** — captured without formal posing, often during events or daily life. Street photography that focuses on individuals falls into this category. The challenge is capturing a revealing moment without the subject being aware of (or disrupted by) the camera.
+**Candid portraits** — captured without formal posing, often during events or daily life. Street photography that focuses on individuals falls into this category. The challenge is capturing a revealing moment without the subject being aware of (or disrupted by) the [camera](/camera-operation).
 
 **Self-portraits** — artists photographing themselves. Cindy Sherman built her entire career on self-portraits in which she transformed herself into different characters, commenting on gender, media, and identity. Frida Kahlo did the same thing in paint decades earlier.
 

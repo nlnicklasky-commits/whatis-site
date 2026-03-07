@@ -4,7 +4,7 @@ slug: tunneling
 description: "Tunneling is the engineering of underground passages through rock, soil, or water. Learn about TBMs, construction methods, and famous tunnels worldwide."
 category: technology
 tags: ["tunneling", "civil engineering", "construction", "infrastructure", "underground"]
-heroImage: "/images/articles/tunneling.webp"
+heroImage: "/images/articles/tunneling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tunneling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

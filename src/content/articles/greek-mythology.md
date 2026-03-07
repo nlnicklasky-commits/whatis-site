@@ -4,7 +4,7 @@ slug: greek-mythology
 description: "Greek mythology is the collection of myths about gods, heroes, and monsters from ancient Greece. Learn about the major gods, key stories, and lasting influence."
 category: arts-amp-culture
 tags: ["greek mythology", "gods", "heroes", "ancient greece", "mythology", "literature"]
-heroImage: "/images/articles/greek-mythology.webp"
+heroImage: "/images/articles/greek-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of greek mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

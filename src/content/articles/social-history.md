@@ -1,10 +1,10 @@
 ---
 title: "What Is Social History?"
 slug: social-history
-description: "Social history studies the everyday experiences of ordinary people throughout time. Learn how historians examine work, family, class, and daily life."
+description: "Social history studies the everyday experiences of ordinary people throughout time. Learn how historians examine work, family, class, and daily life. Discove..."
 category: history
 tags: ["social history", "history", "cultural history", "everyday life"]
-heroImage: "/images/articles/social-history.webp"
+heroImage: "/images/articles/social-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

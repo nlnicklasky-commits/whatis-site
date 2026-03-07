@@ -1,7 +1,7 @@
 ---
 title: "What Is Crystallography?"
 slug: crystallography
-description: "Crystallography determines crystal atomic structure using X-ray diffraction. Learn how it works and why it shapes modern science."
+description: "Crystallography determines crystal atomic structure using X-ray diffraction. Learn how it works and why it shapes modern science. Discover the key facts, his..."
 category: science
 tags: ["crystallography", "crystals", "atomic structure", "x-ray diffraction", "materials science", "chemistry", "physics"]
 heroImage: "/images/articles/crystallography-hero.webp"
@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 10
-wordCount: 2809
+wordCount: 2502
 tier: "2"
 relatedArticles: ["cosmology", "anatomy", "algorithms", "acoustics"]
 externalSources:

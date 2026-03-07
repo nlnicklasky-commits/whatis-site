@@ -4,7 +4,7 @@ slug: technical-writing
 description: "Technical writing is the practice of creating clear, precise documents that explain complex information to specific audiences, from user manuals to API docs."
 category: technology
 tags: ["technical writing", "documentation", "user manuals", "information design"]
-heroImage: "/images/articles/technical-writing.webp"
+heroImage: "/images/articles/technical-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of technical writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -32,9 +32,10 @@ faq:
   - q: "What tools do technical writers use?"
     a: "Common tools include MadCap Flare and Adobe FrameMaker for structured documentation, Confluence and Notion for collaborative docs, Markdown editors for developer documentation, Oxygen XML for DITA-based content, Snagit for screenshots, and version control systems like Git."
   - q: "Can AI replace technical writers?"
-    a: "AI tools can assist with drafting, editing, and formatting, but they cannot replace the human judgment needed to understand user needs, organize complex information effectively, verify technical accuracy, and make nuanced decisions about what to include or exclude. The role is evolving, not disappearing."
+    a: "AI tools can assist with drafting, editing, and formatting, but they cannot replace the human judgment needed to understand user needs, organize complex information effectively, verify technical accuracy, and make layered decisions about what to include or exclude. The role is evolving, not disappearing."
 ---
 
+# What Is Technical Writing?
 Technical writing is the practice of creating clear, accurate, and well-organized documents that help specific audiences understand or use complex products, processes, or concepts. It translates specialized knowledge into language that the intended reader can actually act on — whether that's a software developer reading API documentation, a nurse operating medical equipment, or a homeowner assembling a bookshelf.
 
 The field is bigger than most people realize. Technical writers produce everything from user manuals and help systems to regulatory submissions, safety procedures, training materials, and internal process documentation. If you've ever successfully assembled furniture thanks to clear instructions, or figured out a software feature from a help article, you've benefited from good technical writing. And if you've thrown instructions across the room in frustration — well, that's what bad technical writing looks like.

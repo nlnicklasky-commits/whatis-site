@@ -1,10 +1,10 @@
 ---
 title: "What Is Strength Training?"
 slug: strength-training
-description: "Strength training builds muscle and bone density through resistance exercises. Learn about types, benefits, proper form, and how to start a program."
+description: "Strength training builds muscle and bone density through resistance exercises. Learn about types, benefits, proper form, and how to start a program. Discover..."
 category: health-amp-wellness
 tags: ["fitness", "strength training", "exercise", "muscle building"]
-heroImage: "/images/articles/strength-training.webp"
+heroImage: "/images/articles/strength-training-hero.webp"
 heroAlt: "Editorial photograph representing the concept of strength training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
     a: "Strength training focuses on increasing the maximum force your muscles can produce, typically using heavier weights and fewer repetitions (1 to 5 reps per set). Bodybuilding prioritizes muscle size and aesthetics, using moderate weights with higher rep ranges (8 to 15 reps) and more total volume. Many people blend both approaches."
 ---
 
-# What Is Strength Training?
+# What Is Strength [Training](/personal-training)?
 
-Strength training is any form of exercise where you work your muscles against resistance — gravity, weights, bands, or even your own body weight — to make them stronger over time. It's also called resistance training or weight training, though those terms aren't perfectly interchangeable (more on that in a moment).
+Strength training is any form of [exercise](/exercise-physiology) where you work your muscles against resistance — gravity, weights, bands, or even your own body weight — to make them stronger over time. It's also called resistance training or weight training, though those terms aren't perfectly interchangeable (more on that in a moment).
 
 Here's the simple version: you load a muscle with more force than it's used to handling. That stress causes microscopic tears in the muscle fibers. Your body repairs those tears and, in the process, builds the fibers back thicker and stronger. Repeat this cycle thousands of times over months and years, and you get measurably stronger.
 

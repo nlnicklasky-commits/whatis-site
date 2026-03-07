@@ -4,7 +4,7 @@ slug: vegetarian-cooking
 description: "Vegetarian cooking prepares meals without meat or fish. Learn about types of vegetarianism, protein sources, essential techniques, and global traditions."
 category: food-amp-drink
 tags: ["vegetarian cooking", "plant-based", "meatless meals", "nutrition", "food", "recipes"]
-heroImage: "/images/articles/vegetarian-cooking.webp"
+heroImage: "/images/articles/vegetarian-cooking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vegetarian cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Estimates vary, but roughly 8-10% of the global population follows a vegetarian diet. India has the highest proportion — approximately 20-39% of the population is vegetarian, depending on the survey and region. In the U.S., about 5% of adults identify as vegetarian, while in the UK the figure is around 7%. These numbers have been gradually increasing in most Western countries."
 ---
 
-# What Is Vegetarian Cooking?
+# What Is Vegetarian [Cooking](/cooking)?
 
 Vegetarian cooking is the preparation of meals without meat, poultry, or fish. Depending on the type of vegetarianism practiced, it may include dairy products, eggs, and honey — which gives vegetarian cooks a wider ingredient palette than [vegan cooking](/vegan-cooking) while still excluding the obvious: anything that required killing an animal.
 
@@ -67,9 +67,9 @@ Meat provides three things that vegetarian cooking needs to address differently:
 
 ## Cuisines That Do This Best
 
-Some food traditions have centuries of vegetarian cooking sophistication. Learning from them is far more productive than trying to reinvent the wheel.
+Some [food](/food-science) traditions have centuries of vegetarian cooking sophistication. Learning from them is far more productive than trying to reinvent the wheel.
 
-**Indian cuisine** — The world's largest vegetarian culinary tradition. Hundreds of millions of Indians eat vegetarian diets, and the cuisine has developed accordingly. Paneer (fresh cheese), dal (lentils), chana (chickpeas), and an enormous variety of vegetable preparations, enriched by complex spice blends, produce meals that never feel like they're missing anything.
+**Indian cuisine** — The [world](/world-cuisine)'s largest vegetarian culinary tradition. Hundreds of millions of Indians eat vegetarian diets, and the cuisine has developed accordingly. Paneer (fresh cheese), dal (lentils), chana (chickpeas), and an enormous variety of vegetable preparations, enriched by complex spice blends, produce meals that never feel like they're missing anything.
 
 **Italian cuisine** — Pasta with vegetables, risotto, eggplant Parmigiana, pizza margherita, caprese salad, minestrone soup. Italian cooking makes vegetables, grains, cheese, and olive oil taste extraordinary through simple techniques and quality ingredients.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Resource Management?"
 slug: resource-management
-description: "Resource management is the process of planning, allocating, and optimizing people, money, equipment, and time to complete projects efficiently."
+description: "Resource management is the process of planning, allocating, and optimizing people, money, equipment, and time to complete projects efficiently. Discover the ..."
 category: business
 tags: ["management", "resource management", "business operations"]
-heroImage: "/images/articles/resource-management.webp"
+heroImage: "/images/articles/resource-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of resource management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

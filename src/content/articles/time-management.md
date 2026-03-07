@@ -1,10 +1,10 @@
 ---
 title: "What Is Time Management?"
 slug: time-management
-description: "Time management is the practice of organizing and planning how you spend your hours. Learn proven techniques, common traps, and what actually works."
+description: "Time management is the practice of organizing and planning how you spend your hours. Learn proven techniques, common traps, and what actually works. Discover..."
 category: everyday-concepts
 tags: ["time management", "productivity", "organization", "planning", "prioritization", "efficiency"]
-heroImage: "/images/articles/time-management.webp"
+heroImage: "/images/articles/time-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of time management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

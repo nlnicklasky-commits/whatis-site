@@ -4,7 +4,7 @@ slug: statistics
 description: "Statistics is the science of collecting, analyzing, and interpreting data to make decisions under uncertainty. Learn its methods, concepts, and applications."
 category: science
 tags: ["statistics", "mathematics", "probability", "data analysis", "hypothesis testing", "regression"]
-heroImage: "/images/articles/statistics.webp"
+heroImage: "/images/articles/statistics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of statistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -187,7 +187,7 @@ Analyzing only the data that survived some selection process. Studying successfu
 
 ## Statistics in the Modern World
 
-Statistics underpins virtually every data-driven decision being made today.
+Statistics drives virtually every data-driven decision being made today.
 
 **Medicine** relies on clinical trials — randomized controlled experiments analyzed with statistical methods — to determine which treatments work. The entire evidence-based medicine movement is built on statistical thinking.
 

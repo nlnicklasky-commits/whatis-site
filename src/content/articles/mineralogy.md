@@ -1,7 +1,7 @@
 ---
 title: "What Is Mineralogy?"
 slug: mineralogy
-description: "Mineralogy studies minerals, their structure, composition, properties, and formation. Learn how scientists classify Earth's building blocks."
+description: "Mineralogy studies minerals, their structure, composition, properties, and formation. Learn how scientists classify Earth's building blocks. Discover the key..."
 category: science
 tags: ["mineralogy", "minerals", "geology", "crystals", "earth science", "geochemistry", "rocks"]
 heroImage: "/images/articles/mineralogy-hero.webp"

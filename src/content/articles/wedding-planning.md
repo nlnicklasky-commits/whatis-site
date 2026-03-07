@@ -4,7 +4,7 @@ slug: wedding-planning
 description: "Wedding planning is the process of organizing a wedding ceremony and reception. Learn about budgets, timelines, vendors, and tips for a stress-free event."
 category: lifestyle
 tags: ["wedding planning", "event planning", "celebrations", "lifestyle", "organization", "budgeting"]
-heroImage: "/images/articles/wedding-planning.webp"
+heroImage: "/images/articles/wedding-planning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wedding planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

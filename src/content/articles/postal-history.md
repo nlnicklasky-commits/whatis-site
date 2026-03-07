@@ -4,7 +4,7 @@ slug: postal-history
 description: "Postal history traces the development of mail systems from ancient couriers to modern delivery. Learn about stamps, postal routes, and communication history."
 category: history
 tags: ["postal history", "philately", "mail", "communication history"]
-heroImage: "/images/articles/postal-history.webp"
+heroImage: "/images/articles/postal-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of postal history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

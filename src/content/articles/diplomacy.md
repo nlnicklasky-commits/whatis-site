@@ -4,7 +4,7 @@ slug: diplomacy
 description: "Diplomacy is the practice of managing international relations through negotiation, dialogue, and treaty-making rather than force. Learn its history and methods."
 category: history
 tags: ["diplomacy", "international relations", "foreign policy", "treaties"]
-heroImage: "/images/articles/diplomacy.webp"
+heroImage: "/images/articles/diplomacy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of diplomacy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

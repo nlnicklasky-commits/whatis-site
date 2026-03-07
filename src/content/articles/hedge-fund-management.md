@@ -4,7 +4,7 @@ slug: hedge-fund-management
 description: "Hedge fund management involves running pooled investment funds that use advanced strategies to generate returns. Learn about fees, strategies, and risks."
 category: everyday-concepts
 tags: ["hedge fund management", "investing", "finance", "alternative investments", "portfolio management"]
-heroImage: "/images/articles/hedge-fund-management.webp"
+heroImage: "/images/articles/hedge-fund-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hedge fund management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "What is the '2 and 20' fee structure?"
     a: "The traditional hedge fund fee model charges 2% of assets under management annually (the management fee) plus 20% of any profits (the performance fee). So on a $10 million investment that earns 15%, the fund keeps $200,000 in management fees plus $300,000 in performance fees. Many funds have reduced these rates under competitive pressure."
   - q: "Are hedge funds risky?"
-    a: "Yes, though the level of risk varies enormously by strategy. Some hedge funds use heavy leverage and concentrated bets that can produce catastrophic losses. Others employ conservative, market-neutral strategies designed to produce steady returns with limited downside. The lack of regulatory transparency makes it harder for investors to assess risk accurately."
+    a: "Yes, though the level of risk varies enormously by strategy. Some hedge funds use heavy apply and concentrated bets that can produce catastrophic losses. Others employ conservative, market-neutral strategies designed to produce steady returns with limited downside. The lack of regulatory transparency makes it harder for investors to assess risk accurately."
 ---
 
 # What Is Hedge Fund [Management](/management)?

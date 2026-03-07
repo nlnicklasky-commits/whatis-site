@@ -1,10 +1,10 @@
 ---
 title: "What Is Television Writing?"
 slug: television-writing
-description: "Television writing is the craft of creating scripts for TV shows. Learn how writers' rooms work, script formats, and how to break into the industry."
+description: "Television writing is the craft of creating scripts for TV shows. Learn how writers' rooms work, script formats, and how to break into the industry. Discover..."
 category: arts-amp-culture
 tags: ["television writing", "tv writing", "screenwriting", "scriptwriting", "showrunner", "writers' room"]
-heroImage: "/images/articles/television-writing.webp"
+heroImage: "/images/articles/television-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of television writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

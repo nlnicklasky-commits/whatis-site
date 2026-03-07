@@ -1,10 +1,10 @@
 ---
 title: "What Is Mnemotechnics?"
 slug: mnemotechnics
-description: "Mnemotechnics is the systematic practice of memory-enhancing techniques using associations, visualization, and structured recall methods."
+description: "Mnemotechnics is the systematic practice of memory-enhancing techniques using associations, visualization, and structured recall methods. Discover the key fa..."
 category: everyday-concepts
 tags: ["mnemotechnics", "memory", "learning", "cognitive science", "study skills", "mnemonics"]
-heroImage: "/images/articles/mnemotechnics.webp"
+heroImage: "/images/articles/mnemotechnics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mnemotechnics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -39,9 +39,9 @@ If "[memory techniques](/memory-techniques)" is the casual term, mnemotechnics i
 
 The ancient Greeks took memory seriously. Simonides of Ceos (circa 556-468 BCE) is traditionally credited with inventing the method of loci after reportedly identifying crushed bodies at a banquet hall collapse by remembering where each person had been sitting. The Romans refined these techniques — Cicero and Quintilian both wrote extensively about memory training as essential to [oratory](/oratory).
 
-During the Middle Ages and Renaissance, elaborate mnemonic systems were developed. Ramon Llull created complex memory wheels. Giordano Bruno (later burned for heresy) developed intricate mnemonic systems involving celestial imagery. The "memory palace" was a standard tool of educated people.
+During the Middle Ages and Renaissance, elaborate mnemonic systems were developed. Ramon Llull created complex memory wheels. Giordano Bruno (later burned for heresy) developed complex mnemonic systems involving celestial imagery. The "memory palace" was a standard tool of educated people.
 
-The rise of printed books diminished the perceived need for trained memory — why memorize what you can look up? But modern cognitive science has rehabilitated mnemotechnics, confirming what the ancients knew: systematic memory training works, and anyone can benefit from it.
+The rise of printed books diminished the perceived need for trained memory — why memorize what you can look up? But modern [cognitive](/cognitive-psychology) science has rehabilitated mnemotechnics, confirming what the ancients knew: systematic memory training works, and anyone can benefit from it.
 
 ## The Systems
 

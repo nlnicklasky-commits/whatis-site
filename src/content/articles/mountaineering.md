@@ -4,7 +4,7 @@ slug: mountaineering
 description: "Mountaineering is the sport of climbing mountains using specialized skills and equipment. Learn about techniques, gear, famous peaks, and how to start."
 category: sports
 tags: ["mountaineering", "climbing", "mountains", "alpine", "outdoor recreation", "adventure sports"]
-heroImage: "/images/articles/mountaineering.webp"
+heroImage: "/images/articles/mountaineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mountaineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

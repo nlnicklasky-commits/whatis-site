@@ -1,10 +1,10 @@
 ---
 title: "What Is Boxing?"
 slug: boxing
-description: "Boxing is a combat sport where two opponents fight using only their fists within a roped ring, governed by rules, rounds, and weight classes."
+description: "Boxing is a combat sport where two opponents fight using only their fists within a roped ring, governed by rules, rounds, and weight classes. Discover the ke..."
 category: everyday-concepts
 tags: ["boxing", "combat sports", "fighting", "martial arts", "fitness", "athletics"]
-heroImage: "/images/articles/boxing.webp"
+heroImage: "/images/articles/boxing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of boxing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

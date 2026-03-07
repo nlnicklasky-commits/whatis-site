@@ -4,7 +4,7 @@ slug: psychological-warfare
 description: "Psychological warfare uses propaganda and manipulation to influence enemy morale and behavior. Learn about psyops history, methods, and modern examples."
 category: history
 tags: ["psychological warfare", "psyops", "propaganda", "information warfare"]
-heroImage: "/images/articles/psychological-warfare.webp"
+heroImage: "/images/articles/psychological-warfare-hero.webp"
 heroAlt: "Editorial photograph representing the concept of psychological warfare"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

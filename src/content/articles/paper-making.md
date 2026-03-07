@@ -4,7 +4,7 @@ slug: paper-making
 description: "Paper making transforms plant fibers into flat sheets used for writing, printing, and packaging. Learn about the process from ancient origins to today."
 category: everyday-concepts
 tags: ["paper making", "pulp", "manufacturing", "history", "wood pulp", "recycling"]
-heroImage: "/images/articles/paper-making.webp"
+heroImage: "/images/articles/paper-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of paper making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

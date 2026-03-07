@@ -1,10 +1,10 @@
 ---
 title: "What Is United Nations History?"
 slug: united-nations-history
-description: "United Nations history traces the founding and evolution of the UN, from its 1945 creation to its role in peacekeeping and international cooperation."
+description: "United Nations history traces the founding and evolution of the UN, from its 1945 creation to its role in peacekeeping and international cooperation. Discove..."
 category: history
 tags: ["united nations history", "un", "international relations", "peacekeeping"]
-heroImage: "/images/articles/united-nations-history.webp"
+heroImage: "/images/articles/united-nations-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of united nations history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

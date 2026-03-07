@@ -1,7 +1,7 @@
 ---
 title: "What Is Fundamental Analysis?"
 slug: fundamental-analysis
-description: "Fundamental analysis evaluates a stock's true value by studying financial statements, industry conditions, and economic factors. Here's how it works."
+description: "Fundamental analysis evaluates a stock's true value by studying financial statements, industry conditions, and economic factors. Here's how it works. Discove..."
 category: finance
 tags: ["investment", "stocks", "bonds", "valuation", "financial analysis", "economics", "market analysis"]
 heroImage: "/images/articles/fundamental-analysis-hero.webp"

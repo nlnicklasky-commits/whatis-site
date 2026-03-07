@@ -32,7 +32,7 @@ faq:
   - q: "What is coral bleaching and can corals recover from it?"
     a: "Coral bleaching occurs when stressed corals expel their symbiotic algae, turning white. Common causes include elevated water temperatures, pollution, and extreme low tides. Corals can recover if the stress is short-lived and conditions return to normal within weeks. However, prolonged or repeated bleaching events often lead to coral death."
   - q: "Why are coral reefs called the rainforests of the sea?"
-    a: "Coral reefs cover less than 1% of the ocean floor but support roughly 25% of all marine species—a concentration of biodiversity comparable to tropical rainforests on land. Both ecosystems feature complex structures that create numerous habitats, support intricate food webs, and house species found nowhere else."
+    a: "Coral reefs cover less than 1% of the ocean floor but support roughly 25% of all marine species—a concentration of biodiversity comparable to tropical rainforests on land. Both ecosystems feature complex structures that create numerous habitats, support detailed food webs, and house species found nowhere else."
   - q: "Can artificial reefs replace natural ones?"
     a: "Artificial reefs—made from sunken ships, concrete structures, or purpose-built materials—can provide habitat for marine life but cannot fully replace natural coral reefs. They lack the biological complexity, self-sustaining growth, and ecosystem services of natural reefs. They're best used as supplements to conservation efforts, not substitutes."
 ---

@@ -4,7 +4,7 @@ slug: outdoor-survival
 description: "Outdoor survival is the skill of staying alive in wilderness situations using knowledge of shelter, water, fire, and food. Here's what you need to know."
 category: everyday-concepts
 tags: ["outdoor survival", "wilderness skills", "bushcraft", "emergency preparedness", "camping", "first aid"]
-heroImage: "/images/articles/outdoor-survival.webp"
+heroImage: "/images/articles/outdoor-survival-hero.webp"
 heroAlt: "Editorial photograph representing the concept of outdoor survival"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

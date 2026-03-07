@@ -4,7 +4,7 @@ slug: mesopotamian-history
 description: "Mesopotamian history covers the ancient civilizations between the Tigris and Euphrates rivers. Discover the Sumerians, Babylonians, and birth of writing."
 category: history
 tags: ["history", "mesopotamia", "ancient civilizations"]
-heroImage: "/images/articles/mesopotamian-history.webp"
+heroImage: "/images/articles/mesopotamian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mesopotamian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Poker?"
 slug: poker
-description: "Poker is a family of card games combining skill, strategy, and psychology. Learn how it works, the main variants, and why bluffing matters."
+description: "Poker is a family of card games combining skill, strategy, and psychology. Learn how it works, the main variants, and why bluffing matters. Discover the key ..."
 category: everyday-concepts
 tags: ["poker", "card games", "gambling", "strategy", "Texas Hold'em", "bluffing"]
-heroImage: "/images/articles/poker.webp"
+heroImage: "/images/articles/poker-hero.webp"
 heroAlt: "Editorial photograph representing the concept of poker"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

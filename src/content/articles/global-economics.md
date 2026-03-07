@@ -1,7 +1,7 @@
 ---
 title: "What Is Global Economics?"
 slug: global-economics
-description: "Global economics studies international trade, finance, and policy across borders. Learn how exchange rates, trade agreements, and capital flows work."
+description: "Global economics studies international trade, finance, and policy across borders. Learn how exchange rates, trade agreements, and capital flows work. Discove..."
 category: finance
 tags: ["global economics", "international trade", "economics", "finance", "globalization", "foreign investment", "exchange rates"]
 heroImage: "/images/articles/global-economics-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Information Architecture?"
 slug: information-architecture
-description: "Information architecture organizes content so people can find what they need. Learn about IA principles, methods, and its role in websites and apps."
+description: "Information architecture organizes content so people can find what they need. Learn about IA principles, methods, and its role in websites and apps. Discover..."
 category: technology
 tags: ["information architecture", "ia", "ux design", "usability", "content strategy", "web design", "user experience"]
 heroImage: "/images/articles/information-architecture-hero.webp"

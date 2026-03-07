@@ -4,7 +4,7 @@ slug: oncology
 description: "Oncology is the medical specialty focused on diagnosing and treating cancer. Learn about cancer types, treatment methods, staging, and recent advances."
 category: health-amp-wellness
 tags: ["oncology", "cancer", "cancer treatment", "chemotherapy", "radiation therapy"]
-heroImage: "/images/articles/oncology.webp"
+heroImage: "/images/articles/oncology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of oncology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

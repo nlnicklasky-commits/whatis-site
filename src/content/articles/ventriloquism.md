@@ -4,7 +4,7 @@ slug: ventriloquism
 description: "Ventriloquism is the art of speaking so your voice appears to come from elsewhere. Learn about techniques, history, famous performers, and how it works."
 category: everyday-concepts
 tags: ["ventriloquism", "performing arts", "puppetry", "comedy", "entertainment", "illusion"]
-heroImage: "/images/articles/ventriloquism.webp"
+heroImage: "/images/articles/ventriloquism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ventriloquism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

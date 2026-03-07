@@ -1,7 +1,7 @@
 ---
 title: What Is Abstract Algebra?
 slug: abstract-algebra
-description: "Abstract algebra studies algebraic structures like groups, rings, and fields. Learn how this branch of math works and why it matters."
+description: "Abstract algebra studies algebraic structures like groups, rings, and fields. Learn how this branch of math works and why it matters. Discover the key facts,..."
 category: science
 tags: ["abstract algebra", "mathematics", "group theory", "rings", "fields", "math", "algebra"]
 heroImage: "/images/articles/abstract-algebra-hero.webp"
@@ -28,7 +28,7 @@ faq:
   - q: "Do you need to be good at regular algebra to learn abstract algebra?"
     a: "Solid algebra skills help, but abstract algebra is surprisingly different from high school algebra. It relies more on logical reasoning and proof-writing than on solving equations. Many students who struggled with computational math find abstract algebra more intuitive because it focuses on patterns and structure rather than calculation."
   - q: "Where is abstract algebra used in real life?"
-    a: "Abstract algebra underpins modern cryptography (including RSA encryption and elliptic curve cryptography), error-correcting codes in telecommunications, quantum computing, physics (particularly particle physics and crystallography), computer graphics, and music theory. Every time you make a secure online purchase, abstract algebra is working behind the scenes."
+    a: "Abstract algebra supports modern cryptography (including RSA encryption and elliptic curve cryptography), error-correcting codes in telecommunications, quantum computing, physics (particularly particle physics and crystallography), computer graphics, and music theory. Every time you make a secure online purchase, abstract algebra is working behind the scenes."
   - q: "What are the main topics in abstract algebra?"
     a: "The three foundational structures are groups (sets with one operation), rings (sets with two operations), and fields (rings where division is possible). Beyond these, abstract algebra covers homomorphisms, isomorphisms, quotient structures, Galois theory, and module theory, among other topics."
   - q: "Is abstract algebra hard?"
@@ -256,6 +256,6 @@ If this article has sparked your curiosity, here's a realistic roadmap.
 
 Abstract algebra studies the deep structure of mathematical operations — the rules that make algebra work, stripped down to their essentials. Its three foundational structures (groups, rings, and fields) capture patterns that appear across mathematics, physics, chemistry, computer science, and engineering.
 
-What started as a purely theoretical pursuit in the 19th century now underpins the security of the internet, the reliability of digital communications, the Standard Model of physics, and the emerging field of quantum computing. The distance between "abstract" and "applied" turns out to be much shorter than the name suggests.
+What started as a purely theoretical pursuit in the 19th century now supports the security of the internet, the reliability of digital communications, the Standard Model of physics, and the emerging field of quantum computing. The distance between "abstract" and "applied" turns out to be much shorter than the name suggests.
 
 The real lesson of abstract algebra is this: when you strip away the specifics and focus on structure, you find connections between systems that look nothing alike on the surface. And those connections aren't just elegant — they're useful.

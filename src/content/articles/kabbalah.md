@@ -4,7 +4,7 @@ slug: kabbalah
 description: "Kabbalah is the mystical tradition within Judaism that seeks hidden meanings in scripture and explores divine nature. Learn about its concepts and history."
 category: everyday-concepts
 tags: ["kabbalah", "Jewish mysticism", "religion", "spirituality", "Torah"]
-heroImage: "/images/articles/kabbalah.webp"
+heroImage: "/images/articles/kabbalah-hero.webp"
 heroAlt: "Editorial photograph representing the concept of kabbalah"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -69,4 +69,4 @@ Within Judaism, Kabbalistic ideas have profoundly influenced Hasidism (the mysti
 
 ## Why It Matters
 
-Kabbalah is one of the world's most sophisticated mystical traditions — a 1,000-year intellectual project to understand the relationship between the infinite and the finite, the divine and the human. Whether or not you find its [metaphysics](/metaphysics) convincing, its central question — how do we live meaningfully in a world that seems broken? — is universally relevant. And its answer — that every human action has significance beyond what we can see — offers a framework for purpose that resonates far beyond its religious origins.
+Kabbalah is one of the world's most sophisticated mystical traditions — a 1,000-year [intellectual](/intellectual-history) project to understand the relationship between the infinite and the finite, the divine and the human. Whether or not you find its [metaphysics](/metaphysics) convincing, its central question — how do we live meaningfully in a world that seems broken? — is universally relevant. And its answer — that every human action has significance beyond what we can see — offers a framework for purpose that resonates far beyond its religious origins.

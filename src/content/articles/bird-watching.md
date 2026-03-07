@@ -4,7 +4,7 @@ slug: bird-watching
 description: "Bird watching (birding) is the observation and identification of wild birds in their natural habitat, enjoyed by over 45 million Americans as a hobby."
 category: sports
 tags: ["bird watching", "birding", "ornithology", "nature observation", "wildlife", "conservation"]
-heroImage: "/images/articles/bird-watching.webp"
+heroImage: "/images/articles/bird-watching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of bird watching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ Traveling specifically to see birds in different habitats and regions. A birder 
 
 ## Citizen Science
 
-Birding generates enormous scientific value through citizen science programs. **eBird**, run by the Cornell Lab, receives over 100 million bird observation records annually from birders worldwide. This data feeds research on migration timing, population trends, range shifts, and [conservation](/conservation-[biology](/biology)) priorities.
+Birding generates enormous scientific value through citizen science programs. **eBird**, run by the Cornell Lab, receives over 100 million bird observation records annually from birders worldwide. This data feeds research on migration timing, population trends, range shifts, and [conservation](/construction)) priorities.
 
 The **Christmas Bird Count** ([running](/running) since 1900) is the longest-running citizen science project in the world. Thousands of volunteers count birds in designated circles across the Americas each December, generating a century-long dataset that tracks population changes.
 

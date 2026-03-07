@@ -4,7 +4,7 @@ slug: wine-making
 description: "Wine making (vinification) is the process of turning grapes into wine through fermentation. Learn about grape varieties, fermentation, aging, and winemaking."
 category: everyday-concepts
 tags: ["wine making", "vinification", "fermentation", "viticulture", "wine", "beverages"]
-heroImage: "/images/articles/wine-making.webp"
+heroImage: "/images/articles/wine-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wine making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

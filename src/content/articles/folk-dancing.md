@@ -4,7 +4,7 @@ slug: folk-dancing
 description: "Folk dancing refers to traditional dances passed down within cultural communities. Learn about styles, cultural significance, and popular folk dances."
 category: arts-amp-culture
 tags: ["dance", "culture", "traditional dance", "folklore", "community", "heritage"]
-heroImage: "/images/articles/folk-dancing.webp"
+heroImage: "/images/articles/folk-dancing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of folk dancing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -49,7 +49,7 @@ They're **tied to music.** Each folk dance tradition has its own musical accompa
 
 The variety is staggering. A sampling:
 
-**Irish step dancing** features rapid, intricate footwork while the upper body remains relatively still — arms at the sides, back straight. This upright posture may have originated from small living spaces (not enough room to swing your arms) or from Catholic restrictions on "immodest" body movement. Riverdance brought it to global attention in 1994.
+**Irish step dancing** features rapid, elaborate footwork while the upper body remains relatively still — arms at the sides, back straight. This upright posture may have originated from small living spaces (not enough room to swing your arms) or from Catholic restrictions on "immodest" body movement. Riverdance brought it to global attention in 1994.
 
 **Greek folk dancing** includes dozens of regional styles. The sirtaki (popularized by the film *Zorba the Greek*) starts slowly and accelerates. The kalamatianos is a 12-beat circle dance. Greek dancing is deeply social — wedding celebrations can involve hours of continuous group dancing.
 

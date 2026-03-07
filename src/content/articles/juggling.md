@@ -4,7 +4,7 @@ slug: juggling
 description: "Juggling is the skill of tossing and catching multiple objects in continuous patterns. Learn about techniques, history, and how to start with three balls."
 category: arts-amp-culture
 tags: ["juggling", "circus arts", "performance", "coordination", "skill"]
-heroImage: "/images/articles/juggling.webp"
+heroImage: "/images/articles/juggling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of juggling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

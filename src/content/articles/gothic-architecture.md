@@ -4,7 +4,7 @@ slug: gothic-architecture
 description: "Gothic architecture uses pointed arches, flying buttresses, and stained glass to create soaring medieval structures. Learn its features, history, and legacy."
 category: arts-amp-culture
 tags: ["gothic architecture", "medieval", "cathedral", "pointed arch", "flying buttress", "stained glass"]
-heroImage: "/images/articles/gothic-architecture.webp"
+heroImage: "/images/articles/gothic-architecture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gothic architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

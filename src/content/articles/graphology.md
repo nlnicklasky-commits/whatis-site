@@ -4,7 +4,7 @@ slug: graphology
 description: "Graphology claims to analyze personality through handwriting. Learn about its methods, scientific standing, and why it persists despite lacking evidence."
 category: everyday-concepts
 tags: ["graphology", "handwriting", "personality", "pseudoscience", "psychology", "analysis"]
-heroImage: "/images/articles/graphology.webp"
+heroImage: "/images/articles/graphology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of graphology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Graphology?
 
-Graphology is the claimed analysis of personality, character traits, and psychological states through the study of handwriting. A graphologist examines features like letter size, slant, pressure, spacing, and stroke patterns, then interprets them as indicators of the writer's temperament, emotional state, and behavioral tendencies. It has been practiced since at least the 17th century, is still used in some countries for hiring decisions, and — here's the uncomfortable part — has virtually no scientific support.
+Graphology is the claimed analysis of personality, character traits, and psychological states through the study of handwriting. A graphologist examines features like letter size, slant, pressure, spacing, and stroke patterns, then interprets them as indicators of the writer's temperament, emotional state, and [behavioral](/behavioral-economics) tendencies. It has been practiced since at least the 17th century, is still used in some countries for hiring decisions, and — here's the uncomfortable part — has virtually no scientific support.
 
 ## What Graphologists Claim
 
@@ -55,7 +55,7 @@ The first known work on [handwriting analysis](/handwriting-analysis) was Camill
 
 The field split into two traditions. The **French school** (Michon's approach) assigned fixed meanings to individual handwriting features — each sign meant something specific. The **German school** (developed by Ludwig Klages in the early 1900s) took a more complete approach, arguing that the overall rhythm and pattern of writing mattered more than individual features.
 
-Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, [clinical psychology](/clinical-[psychology](/psychology)), and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
+Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, [clinical psychology](/cycling)), and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
 
 ## The Scientific Problem
 

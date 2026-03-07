@@ -1,16 +1,16 @@
 ---
 title: "What Is American History?"
 slug: american-history
-description: "American history covers the story of the United States from Indigenous civilizations through colonization, revolution, civil war, and modern era."
+description: "American history covers the story of the United States from Indigenous civilizations through colonization, revolution, civil war, and modern era. Discover th..."
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
-heroImage: "/images/articles/american-history.webp"
+heroImage: "/images/articles/american-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 13
-wordCount: 2900
+readingTime: 7
+wordCount: 1775
 tier: '2'
 relatedArticles: ["economics", "capitalism", "jurisprudence", "geography", "philosophy"]
 externalSources:
@@ -33,6 +33,7 @@ faq:
     a: "The civil rights movement (1950s-1960s) dismantled legal segregation, secured voting rights for Black Americans through the Civil Rights Act (1964) and Voting Rights Act (1965), and reshaped American law and culture around racial equality — though the struggle for full equality continues."
 ---
 
+# What Is American History?
 American history is the study of the people, events, ideas, and forces that shaped the United States — from the Indigenous civilizations that existed for millennia before European contact through colonization, revolution, westward expansion, civil war, industrialization, world wars, and the ongoing complexities of being the world's most powerful nation.
 
 It's a history defined by contradictions. A country founded on the principle that "all men are created equal" that simultaneously enslaved millions of people. A nation built by immigrants that has repeatedly tried to shut the door behind each new wave. A democracy that expanded rights over time — but rarely without a fight.

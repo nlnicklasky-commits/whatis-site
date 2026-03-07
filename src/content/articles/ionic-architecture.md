@@ -4,7 +4,7 @@ slug: ionic-architecture
 description: "The Ionic order is a style of classical Greek architecture known for its scroll-shaped volutes and elegant proportions. Learn about its features and legacy."
 category: arts-amp-culture
 tags: ["ionic architecture", "classical orders", "greek architecture", "roman architecture", "volutes", "columns"]
-heroImage: "/images/articles/ionic-architecture.webp"
+heroImage: "/images/articles/ionic-architecture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ionic architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,12 +26,12 @@ faq:
   - q: "Where can you see Ionic architecture today?"
     a: "The most famous surviving Ionic building is the Erechtheion on the Athenian Acropolis (421-406 BCE). Ionic columns appear on the Jefferson Memorial, the U.S. Capitol, the British Museum, many courthouses, banks, and university buildings worldwide. The style has been continuously replicated for over 2,500 years."
   - q: "What is a volute?"
-    a: "A volute is the spiral scroll-shaped ornament that defines the Ionic capital — the decorated top section of the column. Ionic capitals typically have two volutes on the front and back, connected by a curved element called the bolster on the sides. The volute may have originated from the natural spiral of a nautilus shell or a ram's horn."
+    a: "A volute is the spiral scroll-shaped ornament that defines the Ionic capital — the decorated top section of the column. Ionic capitals typically have two volutes on the front and back, connected by a curved element called the support on the sides. The volute may have originated from the natural spiral of a nautilus shell or a ram's horn."
 ---
 
 # What Is Ionic [Architecture](/architecture)?
 
-The Ionic order is one of three classical orders of ancient Greek architecture, distinguished by its scroll-shaped capitals (volutes), slender proportions, and refined decorative details. Developed in the eastern Greek world — Ionia, along the coast of modern Turkey — around the 6th century BCE, the Ionic order represented elegance and intellectual refinement, contrasting with the sturdy simplicity of the Doric order. Its influence on Western architecture is immense and ongoing.
+The Ionic order is one of three classical orders of ancient Greek [architecture](/landscape-architecture), distinguished by its scroll-shaped capitals (volutes), slender proportions, and refined decorative details. Developed in the eastern Greek world — Ionia, along the coast of modern Turkey — around the 6th century BCE, the Ionic order represented elegance and intellectual refinement, contrasting with the sturdy simplicity of the Doric order. Its influence on Western architecture is immense and ongoing.
 
 ## The Classical Orders Explained
 

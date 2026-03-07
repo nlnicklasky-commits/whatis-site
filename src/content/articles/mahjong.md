@@ -1,10 +1,10 @@
 ---
 title: "What Is Mahjong?"
 slug: mahjong
-description: "Mahjong is a tile-based strategy game for four players that originated in China. Learn the rules, history, variations, and cultural significance."
+description: "Mahjong is a tile-based strategy game for four players that originated in China. Learn the rules, history, variations, and cultural significance. Discover th..."
 category: everyday-concepts
 tags: ["mahjong", "tile games", "Chinese games", "strategy games", "board games", "traditional games"]
-heroImage: "/images/articles/mahjong.webp"
+heroImage: "/images/articles/mahjong-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mahjong"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Mahjong?
 
-Mahjong is a tile-based game for four players that originated in China, probably in the mid-to-late 19th century. Players draw and discard tiles — small rectangular blocks bearing various symbols — trying to assemble specific combinations (called "melds") into a winning hand. It combines elements of strategy, [pattern recognition](/pattern-recognition), probability assessment, and a healthy dose of calculated risk.
+Mahjong is a tile-based [game](/game-design) for four players that originated in China, probably in the mid-to-late 19th century. Players draw and discard tiles — small rectangular blocks bearing various symbols — trying to assemble specific combinations (called "melds") into a winning hand. It combines elements of strategy, [pattern recognition](/pattern-recognition), probability assessment, and a healthy dose of calculated risk.
 
 If you've only encountered "mahjong" as the tile-matching solitaire game on your computer, that's something entirely different. Real mahjong is a four-player competitive game with a depth comparable to [poker](/poker) — easy to learn at a basic level, endlessly complex at the top.
 
@@ -72,7 +72,7 @@ Mahjong's exact origins are debated, but most historians place its creation in t
 
 The game reached the West in the 1920s and became a massive fad — especially in the United States. Joseph Park Babcock published "Rules of Mah-Jongg" in 1920, and the game exploded. Mahjong sets sold out across America. Importers couldn't keep up with demand. The craze peaked around 1923-1924 before the public moved on to the next thing.
 
-But the game didn't disappear. It remained deeply embedded in Chinese, Japanese, and Southeast Asian culture. In the U.S., it found a permanent home in Jewish-American communities, where women's mahjong groups became a social institution — weekly games that have continued in some families for generations.
+But the game didn't disappear. It remained deeply embedded in Chinese, Japanese, and Southeast Asian culture. In the U.S., it found a permanent home in Jewish-American communities, where women's mahjong groups became a social institution — weekly [games](/board-games) that have continued in some families for generations.
 
 ## Regional Variations
 

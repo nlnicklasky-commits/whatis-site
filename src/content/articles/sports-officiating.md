@@ -4,7 +4,7 @@ slug: sports-officiating
 description: "Sports officiating is the enforcement of rules during athletic competitions by referees, umpires, and judges. Learn about training, challenges, and careers."
 category: sports
 tags: ["sports officiating", "referee", "umpire", "rules enforcement", "instant replay", "game management"]
-heroImage: "/images/articles/sports-officiating.webp"
+heroImage: "/images/articles/sports-officiating-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports officiating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Productivity?"
 slug: productivity
-description: "Productivity measures how efficiently you turn inputs into outputs. Learn what affects it, how to measure it, and how to improve it."
+description: "Productivity measures how efficiently you turn inputs into outputs. Learn what affects it, how to measure it, and how to improve it. Discover the key facts, ..."
 category: everyday-concepts
 tags: ["productivity", "efficiency", "time management", "work ethic", "performance", "output"]
-heroImage: "/images/articles/productivity.webp"
+heroImage: "/images/articles/productivity-hero.webp"
 heroAlt: "Editorial photograph representing the concept of productivity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

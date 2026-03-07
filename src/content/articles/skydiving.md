@@ -4,7 +4,7 @@ slug: skydiving
 description: "Skydiving is the sport of jumping from aircraft and freefalling before deploying a parachute. Learn about training, safety, and what the experience is like."
 category: sports
 tags: ["skydiving", "parachuting", "freefall", "extreme sports", "adrenaline", "adventure"]
-heroImage: "/images/articles/skydiving.webp"
+heroImage: "/images/articles/skydiving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of skydiving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -85,7 +85,7 @@ Skydiving carries real risk, and honest discussion matters.
 
 The fatality rate — about 0.28 per 100,000 jumps — is low in absolute terms but not zero. Equipment malfunctions, though rare, do occur. The most common fatal errors involve low-altitude parachute maneuvers (aggressive turns close to the ground) and failure to follow emergency procedures. Most fatalities involve experienced jumpers pushing limits, not beginners on tandem jumps.
 
-[Risk management](/risk-[management](/management)) is central to skydiving culture. Every jump includes a pre-jump briefing, equipment check, and clear emergency procedures. Skydivers are trained to handle specific malfunctions — total malfunction, partial malfunction, line twists, and premature deployment — with practiced, automatic responses.
+[Risk management](/risk-management)) is central to skydiving culture. Every jump includes a pre-jump briefing, equipment check, and clear emergency procedures. Skydivers are trained to handle specific malfunctions — total malfunction, partial malfunction, line twists, and premature deployment — with practiced, automatic responses.
 
 The sport has gotten dramatically safer over time. Fatality rates in the 1970s were roughly ten times higher than today. Better equipment (AADs, improved canopy design), better training, and better safety culture have all contributed. But risk never reaches zero when you're jumping out of airplanes, and anyone who tells you otherwise isn't being straight with you.
 

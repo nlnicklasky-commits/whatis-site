@@ -1,10 +1,10 @@
 ---
 title: "What Is Septuagint Studies?"
 slug: septuagint-studies
-description: "Septuagint studies is the academic field examining the ancient Greek translation of the Hebrew Bible, its origins, textual history, and influence."
+description: "Septuagint studies is the academic field examining the ancient Greek translation of the Hebrew Bible, its origins, textual history, and influence. Discover t..."
 category: history
 tags: ["septuagint", "bible", "old testament", "greek translation", "biblical studies"]
-heroImage: "/images/articles/septuagint-studies.webp"
+heroImage: "/images/articles/septuagint-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of septuagint studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -28,9 +28,10 @@ faq:
   - q: "Why does the Septuagint differ from the Hebrew Bible?"
     a: "Differences arise for several reasons: the Septuagint translators may have worked from Hebrew texts that differed from the later standardized Masoretic Text, some passages were interpreted rather than literally translated, and the Septuagint includes additional books (like Wisdom of Solomon and Sirach) not found in the Hebrew canon. Dead Sea Scroll discoveries have confirmed that some Septuagint readings reflect genuinely ancient Hebrew variants."
   - q: "Do any churches still use the Septuagint today?"
-    a: "Yes. The Greek Orthodox Church and other Eastern Orthodox churches use the Septuagint as their authoritative Old Testament text, not the Hebrew Masoretic Text. This is why Orthodox Bibles include books like Tobit, Judith, and Wisdom of Solomon that Protestant Bibles exclude. The Catholic Church also recognizes several of these additional books as deuterocanonical."
+    a: "Yes. The Greek Orthodox Church and other Eastern Orthodox churches use the Septuagint as their authoritative Old Proof text, not the Hebrew Masoretic Text. This is why Orthodox Bibles include books like Tobit, Judith, and Wisdom of Solomon that Protestant Bibles exclude. The Catholic Church also recognizes several of these additional books as deuterocanonical."
 ---
 
+# What Is Septuagint Studies?
 Septuagint studies is the academic discipline focused on the Septuagint (abbreviated LXX) — the ancient Greek [translation](/translation) of the Hebrew Bible produced in Alexandria, Egypt, beginning around the 3rd century BCE. It's a field that sits at the intersection of [biblical studies](/biblical-studies), [linguistics](/linguistics), ancient history, and textual criticism, and it matters far more than most people realize.
 
 Why should you care about a 2,300-year-old translation? Because the Septuagint was the Bible that early Christians used, the text that New Proof authors quoted, and the version that shaped Christian [theology](/theology) in ways that still reverberate today. When the Gospel of Matthew says a "virgin" will conceive a child (Matthew 1:23), it's quoting the Septuagint's Greek word *parthenos* — the original Hebrew word, *almah*, simply means "young woman." That single translation choice influenced 2,000 years of Christian doctrine.

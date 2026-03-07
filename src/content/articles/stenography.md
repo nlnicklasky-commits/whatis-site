@@ -4,7 +4,7 @@ slug: stenography
 description: "Stenography is the practice of writing in shorthand to capture speech at high speed. Learn how it works, its history, and where it's still used today."
 category: everyday-concepts
 tags: ["stenography", "shorthand", "court reporting", "transcription", "writing", "steno machine"]
-heroImage: "/images/articles/stenography.webp"
+heroImage: "/images/articles/stenography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stenography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

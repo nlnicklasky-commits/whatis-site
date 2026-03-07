@@ -4,7 +4,7 @@ slug: classical-composition
 description: "Classical composition is the art of creating musical works in the Western classical tradition, using formal structures, orchestration, and music notation."
 category: arts-amp-culture
 tags: ["classical composition", "music composition", "classical music", "orchestration", "music theory", "composers"]
-heroImage: "/images/articles/classical-composition.webp"
+heroImage: "/images/articles/classical-composition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of classical composition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

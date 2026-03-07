@@ -4,7 +4,7 @@ slug: dairy-farming
 description: "Dairy farming is the agricultural practice of raising cows for milk production. Learn about operations, breeds, milk processing, and industry challenges."
 category: agriculture
 tags: ["dairy farming", "agriculture"]
-heroImage: "/images/articles/dairy-farming.webp"
+heroImage: "/images/articles/dairy-farming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dairy farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

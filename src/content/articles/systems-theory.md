@@ -1,10 +1,10 @@
 ---
 title: "What Is Systems Theory?"
 slug: systems-theory
-description: "Systems theory is the study of how complex wholes emerge from interacting parts, applicable across biology, engineering, sociology, and management."
+description: "Systems theory is the study of how complex wholes emerge from interacting parts, applicable across biology, engineering, sociology, and management. Discover ..."
 category: science
 tags: ["philosophy", "systems theory", "complexity", "cybernetics", "interdisciplinary science", "systems thinking"]
-heroImage: "/images/articles/systems-theory.webp"
+heroImage: "/images/articles/systems-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of systems theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Feedback loops occur when a system's output influences its own input. Negative feedback loops stabilize systems (like a thermostat maintaining temperature). Positive feedback loops amplify changes (like compound interest or viral social media posts). Most complex system behaviors arise from the interaction of multiple feedback loops."
 ---
 
+# What Is Systems Theory?
 Systems theory is the interdisciplinary study of systems — organized wholes made up of interacting, interdependent components whose collective behavior cannot be fully explained by analyzing any component in isolation. It provides a framework for understanding complexity across biology, engineering, social science, ecology, and virtually every other field.
 
 You've probably noticed that the same patterns keep showing up in very different places. A traffic jam behaves like a blood clot in an artery. An economy responds to shocks like an ecosystem responds to an invasive species. An organization resists change the way a thermostat resists temperature shifts. Systems theory is the discipline that takes these recurring patterns seriously and asks: are there universal principles governing how complex systems behave, regardless of what they're made of?

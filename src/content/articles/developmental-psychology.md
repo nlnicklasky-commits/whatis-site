@@ -199,6 +199,6 @@ Developmental psychology isn't just academic. Its findings shape policies and pr
 
 Developmental psychology studies how humans change across the entire lifespan—physically, cognitively, emotionally, and socially. The field's major theories—Piaget's cognitive stages, Erikson's psychosocial challenges, Vygotsky's social learning, attachment theory—each illuminate different aspects of development, and none alone captures the full picture.
 
-The nature-nurture debate has been replaced by a more nuanced understanding of gene-environment interaction. Brain development continues into the mid-20s. Personality continues shifting throughout adulthood. Cognitive abilities change but don't simply decline with age.
+The nature-nurture debate has been replaced by a more layered understanding of gene-environment interaction. Brain development continues into the mid-20s. Personality continues shifting throughout adulthood. Cognitive abilities change but don't simply decline with age.
 
 What makes developmental psychology so compelling is its fundamental subject: the story of how we become who we are. That story starts before birth, unfolds across decades, and doesn't end until we do. Understanding it helps us parent more effectively, teach more wisely, design better policies, and—maybe most importantly—understand ourselves.

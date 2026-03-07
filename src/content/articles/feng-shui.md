@@ -4,7 +4,7 @@ slug: feng-shui
 description: "Feng shui is an ancient Chinese system for arranging spaces to promote harmony and positive energy flow. Learn its principles, history, and practices."
 category: everyday-concepts
 tags: ["chinese philosophy", "qi", "energy", "home decor", "interior design", "harmony"]
-heroImage: "/images/articles/feng-shui.webp"
+heroImage: "/images/articles/feng-shui-hero.webp"
 heroAlt: "Editorial photograph representing the concept of feng shui"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

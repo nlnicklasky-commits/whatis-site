@@ -1,10 +1,10 @@
 ---
 title: "What Is Tarot Reading?"
 slug: tarot-reading
-description: "Tarot reading uses a deck of 78 cards to gain insight into questions and situations. Learn the history, how readings work, and what the cards mean."
+description: "Tarot reading uses a deck of 78 cards to gain insight into questions and situations. Learn the history, how readings work, and what the cards mean. Discover ..."
 category: arts-amp-culture
 tags: ["tarot", "tarot reading", "divination", "cartomancy", "major arcana", "minor arcana"]
-heroImage: "/images/articles/tarot-reading.webp"
+heroImage: "/images/articles/tarot-reading-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tarot reading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

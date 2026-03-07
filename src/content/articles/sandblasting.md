@@ -126,7 +126,7 @@ Smart restorers use lower pressures (40-60 PSI), finer media, and careful techni
 
 ### Glass Etching and Artistic Applications
 
-Sandblasting glass creates frosted effects, intricate patterns, and three-dimensional carvings. Artists use rubber or vinyl stencils to mask areas they want to protect, then blast the exposed glass to varying depths. Multi-stage blasting—removing parts of the stencil between passes—creates layered, relief-carved effects that are genuinely stunning.
+Sandblasting glass creates frosted effects, detailed patterns, and three-dimensional carvings. Artists use rubber or vinyl stencils to mask areas they want to protect, then blast the exposed glass to varying depths. Multi-stage blasting—removing parts of the stencil between passes—creates layered, relief-carved effects that are genuinely stunning.
 
 Architectural glass for privacy windows, shower enclosures, and decorative panels is almost always sandblasted. The technique has been used for over a century and remains the preferred method for permanent glass frosting because it creates a true texture change rather than a surface coating.
 
@@ -270,7 +270,7 @@ Sandblasting technology continues advancing, though perhaps less dramatically th
 
 ## Wrapping Up
 
-Sandblasting—or abrasive blasting, if you want the accurate term—is a surprisingly versatile process that underpins industries from [civil engineering](/civil-engineering) to art restoration. Fundamentally, it's simple physics: accelerate small particles at a surface and let kinetic energy do the work. But the choice of media, pressure, technique, and safety measures makes the difference between a process that's precise, efficient, and safe versus one that's destructive and dangerous.
+Sandblasting—or abrasive blasting, if you want the accurate term—is a surprisingly versatile process that backs up industries from [civil engineering](/civil-engineering) to art restoration. Fundamentally, it's simple physics: accelerate small particles at a surface and let kinetic energy do the work. But the choice of media, pressure, technique, and safety measures makes the difference between a process that's precise, efficient, and safe versus one that's destructive and dangerous.
 
 The industry has come a long way from the days of unprotected workers blasting with silica sand in open air. Modern media choices, containment systems, automation, and respiratory protection have made it dramatically safer. And the range of applications continues expanding as new media types and delivery systems open up possibilities that traditional sand-and-air couldn't touch.
 

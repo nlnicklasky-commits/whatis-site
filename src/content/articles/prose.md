@@ -1,10 +1,10 @@
 ---
 title: "What Is Prose?"
 slug: prose
-description: "Prose is ordinary written language that flows in sentences and paragraphs, without the line breaks of poetry. Here's how it works."
+description: "Prose is ordinary written language that flows in sentences and paragraphs, without the line breaks of poetry. Here's how it works. Discover the key facts, hi..."
 category: arts-amp-culture
 tags: ["prose", "writing", "literature", "fiction", "non-fiction", "grammar"]
-heroImage: "/images/articles/prose.webp"
+heroImage: "/images/articles/prose-hero.webp"
 heroAlt: "Editorial photograph representing the concept of prose"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

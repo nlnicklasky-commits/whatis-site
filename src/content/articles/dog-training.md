@@ -4,7 +4,7 @@ slug: dog-training
 description: "Dog training teaches dogs desired behaviors through structured methods. Learn about techniques, obedience basics, behavioral science, and training tips."
 category: everyday-concepts
 tags: ["dog training", "everyday-concepts"]
-heroImage: "/images/articles/dog-training.webp"
+heroImage: "/images/articles/dog-training-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dog training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

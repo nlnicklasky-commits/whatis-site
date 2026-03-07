@@ -1,10 +1,10 @@
 ---
 title: "What Is Comparative Mythology?"
 slug: comparative-mythology
-description: "Comparative mythology studies shared themes and motifs across different cultures' myths. Explore flood stories, hero journeys, and why myths overlap."
+description: "Comparative mythology studies shared themes and motifs across different cultures' myths. Explore flood stories, hero journeys, and why myths overlap. Discove..."
 category: arts-amp-culture
 tags: ["comparative mythology", "mythology", "folklore", "archetypes", "cultural studies", "religious studies"]
-heroImage: "/images/articles/comparative-mythology.webp"
+heroImage: "/images/articles/comparative-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of comparative mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: british-history
 description: "British history spans thousands of years from ancient Celtic tribes to a modern constitutional monarchy, shaped by invasion, empire, and democratic reform."
 category: history
 tags: ["british history", "england", "scotland", "wales", "british empire"]
-heroImage: "/images/articles/british-history.webp"
+heroImage: "/images/articles/british-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of british history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "The Magna Carta, signed in 1215, was a charter limiting the English king's power and establishing the principle that no one — including the monarch — is above the law. It became a foundational document for constitutional governance worldwide."
 ---
 
+# What Is British History?
 British history is the story of the peoples, events, and institutions that shaped the island of Great Britain — England, Scotland, and Wales — and their global influence over thousands of years. It stretches from prehistoric settlements through Roman occupation, medieval kingdoms, and an empire that once spanned a quarter of the globe.
 
 What makes British history so fascinating — and frankly, so messy — is that it's never really been one single story. It's English, Scottish, Welsh, and Irish narratives tangled together, sometimes cooperating, often clashing. And somehow that tangle produced a constitutional system, a language, and a cultural influence that spread to every continent on Earth.

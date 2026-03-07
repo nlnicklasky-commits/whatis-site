@@ -1,10 +1,10 @@
 ---
 title: "What Is Perfume Making?"
 slug: perfume-making
-description: "Perfume making blends aromatic compounds to create fragrances. Learn about ingredients, extraction methods, and the art of scent composition."
+description: "Perfume making blends aromatic compounds to create fragrances. Learn about ingredients, extraction methods, and the art of scent composition. Discover the ke..."
 category: everyday-concepts
 tags: ["perfume making", "fragrance", "essential oils", "perfumery", "scent", "aromatics"]
-heroImage: "/images/articles/perfume-making.webp"
+heroImage: "/images/articles/perfume-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of perfume making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

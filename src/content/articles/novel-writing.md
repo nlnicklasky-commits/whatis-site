@@ -1,10 +1,10 @@
 ---
 title: "What Is Novel Writing?"
 slug: novel-writing
-description: "Novel writing is the craft of creating long-form fiction with developed characters, plot, and themes. Learn about structure, process, and publishing."
+description: "Novel writing is the craft of creating long-form fiction with developed characters, plot, and themes. Learn about structure, process, and publishing. Discove..."
 category: everyday-concepts
 tags: ["novel writing", "fiction", "creative writing", "storytelling", "publishing", "literature"]
-heroImage: "/images/articles/novel-writing.webp"
+heroImage: "/images/articles/novel-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of novel writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

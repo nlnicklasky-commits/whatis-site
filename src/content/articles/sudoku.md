@@ -1,10 +1,10 @@
 ---
 title: "What Is Sudoku?"
 slug: sudoku
-description: "Sudoku is a number-placement puzzle where you fill a 9x9 grid using logic. Learn the rules, solving strategies, and the surprising history behind it."
+description: "Sudoku is a number-placement puzzle where you fill a 9x9 grid using logic. Learn the rules, solving strategies, and the surprising history behind it. Discove..."
 category: everyday-concepts
 tags: ["sudoku", "puzzle", "logic", "number puzzle", "games", "brain teaser"]
-heroImage: "/images/articles/sudoku.webp"
+heroImage: "/images/articles/sudoku-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sudoku"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

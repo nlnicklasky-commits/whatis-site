@@ -4,7 +4,7 @@ slug: second-language-acquisition
 description: "Second language acquisition is how people learn languages beyond their mother tongue. Learn about key theories, methods, and what research says works."
 category: education
 tags: ["second language", "language learning", "language acquisition", "linguistics", "bilingualism", "foreign language"]
-heroImage: "/images/articles/second-language-acquisition.webp"
+heroImage: "/images/articles/second-language-acquisition-hero.webp"
 heroAlt: "Editorial photograph representing the concept of second language acquisition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Second language acquisition (SLA) is the scientific study of how people learn languages beyond their first. It examines why a three-year-old picks up their parents' language effortlessly while a 30-year-old adult struggles with the same language in a classroom — and what we can do about that gap.
 
-SLA draws from [linguistics](/linguistics), [psychology](/psychology), [neuroscience](/neuroscience), and [education](/education) to answer fundamental questions: How does language knowledge develop? Why do some learners succeed while others plateau? What role does age play? Is [grammar](/grammar) instruction useful, or should learners just immerse themselves? The answers are more nuanced — and more useful — than most language-learning apps would have you believe.
+SLA draws from [linguistics](/linguistics), [psychology](/psychology), [neuroscience](/neuroscience), and [education](/education) to answer fundamental questions: How does language knowledge develop? Why do some learners succeed while others plateau? What role does age play? Is [grammar](/grammar) instruction useful, or should learners just immerse themselves? The answers are more subtle — and more useful — than most language-learning apps would have you believe.
 
 ## The Big Theories
 

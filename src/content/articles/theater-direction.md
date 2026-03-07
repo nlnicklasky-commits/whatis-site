@@ -4,7 +4,7 @@ slug: theater-direction
 description: "Theater direction is the art of guiding actors and creative teams to bring a script to life on stage. Learn what directors do, their methods, and key skills."
 category: arts-amp-culture
 tags: ["theater direction", "directing", "theatre", "stage director", "artistic director", "play production"]
-heroImage: "/images/articles/theater-direction.webp"
+heroImage: "/images/articles/theater-direction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of theater direction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

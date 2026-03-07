@@ -10,7 +10,7 @@ author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
 readingTime: 11
-wordCount: 2941
+wordCount: 2607
 tier: "2"
 relatedArticles: ["contract-law", "credit-management", "accounting", "currency-trading"]
 externalSources:

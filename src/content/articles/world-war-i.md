@@ -4,7 +4,7 @@ slug: world-war-i
 description: "World War I (1914-1918) was a global conflict that killed 20 million people and reshaped the political map of Europe. Learn about its causes, battles, and."
 category: history
 tags: ["wwi", "great war", "european history", "military history"]
-heroImage: "/images/articles/world-war-i.webp"
+heroImage: "/images/articles/world-war-i-hero.webp"
 heroAlt: "Editorial photograph representing the concept of world war i"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

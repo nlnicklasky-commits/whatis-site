@@ -4,7 +4,7 @@ slug: education
 description: "Education is the process of acquiring knowledge, skills, and values through teaching and learning. Explore its history, systems, theories, and future."
 category: everyday-concepts
 tags: ["education", "learning", "pedagogy", "schooling", "knowledge", "skills"]
-heroImage: "/images/articles/education.webp"
+heroImage: "/images/articles/education-hero.webp"
 heroAlt: "Editorial photograph representing the concept of education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

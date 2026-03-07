@@ -1,10 +1,10 @@
 ---
 title: "What Is Printmaking?"
 slug: printmaking
-description: "Printmaking is an art form where images are transferred from a prepared surface to paper or fabric. Learn about woodcut, etching, and more."
+description: "Printmaking is an art form where images are transferred from a prepared surface to paper or fabric. Learn about woodcut, etching, and more. Discover the key ..."
 category: arts-amp-culture
 tags: ["printmaking", "art", "woodcut", "etching", "lithography", "screen printing"]
-heroImage: "/images/articles/printmaking.webp"
+heroImage: "/images/articles/printmaking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of printmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

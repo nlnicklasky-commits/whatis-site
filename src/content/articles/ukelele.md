@@ -1,10 +1,10 @@
 ---
 title: "What Is Ukelele?"
 slug: ukelele
-description: "The ukulele is a small, four-stringed instrument from Hawaii. Learn about its types, tuning, playing techniques, history, and how to get started."
+description: "The ukulele is a small, four-stringed instrument from Hawaii. Learn about its types, tuning, playing techniques, history, and how to get started. Discover th..."
 category: arts-amp-culture
 tags: ["ukelele", "ukulele", "string instruments", "Hawaii", "music", "acoustic"]
-heroImage: "/images/articles/ukelele.webp"
+heroImage: "/images/articles/ukelele-hero.webp"
 heroAlt: "Editorial photograph representing the concept of ukelele"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -57,7 +57,7 @@ Standard tuning for soprano, concert, and tenor ukuleles is G-C-E-A. The weird p
 
 The ukulele has experienced at least three major popularity waves, and it's currently riding the biggest one yet.
 
-**1910s-1930s: The first craze.** The Panama-Pacific International Exposition in San Francisco (1915) introduced mainland Americans to Hawaiian music and the ukulele. Tin Pan Alley embraced it. [Vaudeville](/vaudeville) performers featured it. [Sales](/sales) boomed.
+**1910s-1930s: The first craze.** The Panama-Pacific International Exposition in San Francisco (1915) introduced mainland Americans to Hawaiian [music](/pop-music) and the ukulele. Tin Pan Alley embraced it. [Vaudeville](/vaudeville) performers featured it. [Sales](/sales) boomed.
 
 **1950s-1960s: TV revival.** Arthur Godfrey, a hugely popular TV host, played ukulele on his show and inspired millions to pick one up. Tiny Tim's falsetto rendition of "Tiptoe Through the Tulips" in the late 1960s cemented the instrument in pop culture — though in a slightly comedic way.
 

@@ -4,7 +4,7 @@ slug: volleyball
 description: "Volleyball is a team sport where two sides hit a ball over a net. Learn about rules, positions, techniques, variations like beach volleyball, and its history."
 category: sports
 tags: ["volleyball", "team sports", "Olympic sports", "beach volleyball", "athletics", "indoor sports"]
-heroImage: "/images/articles/volleyball.webp"
+heroImage: "/images/articles/volleyball-hero.webp"
 heroAlt: "Editorial photograph representing the concept of volleyball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,13 +4,13 @@ slug: alchemy
 description: "Alchemy was an ancient practice blending proto-chemistry, philosophy, and mysticism aimed at transforming base metals into gold and finding immortality."
 category: history
 tags: ["alchemy", "history", "pseudoscience", "transmutation", "history of science"]
-heroImage: "/images/articles/alchemy.webp"
+heroImage: "/images/articles/alchemy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of alchemy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 12
-wordCount: 2780
+readingTime: 6
+wordCount: 1602
 tier: '2'
 relatedArticles: ["chemistry", "philosophy", "physics", "scientific-method", "western-esotericism"]
 externalSources:
@@ -33,6 +33,7 @@ faq:
     a: "Alchemists developed essential lab equipment (distillation apparatus, furnaces, crucibles), discovered numerous substances (phosphorus, hydrochloric acid, sulfuric acid, aqua regia), and refined techniques like distillation, crystallization, and sublimation that remain fundamental to chemistry."
 ---
 
+# What Is Alchemy?
 Alchemy was a centuries-long tradition of experimental, philosophical, and spiritual practice centered on transforming matter — most famously, turning base metals like lead into gold. It was practiced across the ancient and medieval world, from Hellenistic Egypt to Islamic civilization to European courts, and while it never achieved its primary goals, it accidentally laid the groundwork for modern [chemistry](/chemistry).
 
 Calling alchemy simply "fake chemistry" misses the point entirely. Alchemists were working with a fundamentally different understanding of matter — one where physical transformation and spiritual purification were inseparable, and where the laboratory was as much a place of meditation as experimentation.

@@ -4,7 +4,7 @@ slug: tragedy-literature
 description: "Tragedy is a genre of drama depicting a protagonist's downfall through fate, flaws, or circumstance. Learn the origins, key elements, and famous examples."
 category: arts-amp-culture
 tags: ["tragedy literature", "drama", "theater", "Greek tragedy", "Shakespeare", "literary genre"]
-heroImage: "/images/articles/tragedy-literature.webp"
+heroImage: "/images/articles/tragedy-literature-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tragedy (literature)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -85,7 +85,7 @@ Television has arguably become the most fertile ground for modern tragedy. *Brea
 
 ## Why Tragedy Endures
 
-The obvious question: why do people voluntarily watch stories about suffering and death? Why is tragedy — the genre most calculated to cause emotional pain — also one of the most valued art forms in human history?
+The obvious question: why do people voluntarily watch stories about suffering and death? Why is tragedy — the genre most calculated to cause emotional pain — also one of the most valued art forms in human [history](/theatrical-history)?
 
 Several theories:
 

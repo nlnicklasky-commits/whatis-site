@@ -1,7 +1,7 @@
 ---
 title: What Is Blockchain?
 slug: blockchain
-description: "Learn how blockchain technology works: distributed ledgers, cryptography, consensus mechanisms, and real-world applications beyond cryptocurrency"
+description: "Learn how blockchain technology works: distributed ledgers, cryptography, consensus mechanisms, and real-world applications beyond cryptocurrency. Discover t..."
 category: technology
 tags: ["blockchain", "cryptocurrency", "distributed-ledger", "bitcoin", "decentralization", "web3"]
 heroImage: "/images/articles/blockchain-hero.webp"
@@ -63,7 +63,7 @@ Additionally, blockchain uses public-key [cryptography](/cryptography) for owner
 
 Here's what separates blockchain from a traditional database maintained by your bank: there's no central authority. Thousands of computers (called "nodes") each maintain a complete copy of the ledger. When someone initiates a transaction, it broadcasts across this entire network.
 
-This [distributed-systems](/distributed-systems) approach creates redundancy and resilience. You can't shut down the network by taking out one server. You'd need to somehow compromise the majority of thousands of independent computers simultaneously—which is exponentially harder than hacking a single corporate database.
+This [distributed-systems](/distillation) approach creates redundancy and resilience. You can't shut down the network by taking out one server. You'd need to somehow compromise the majority of thousands of independent computers simultaneously—which is exponentially harder than hacking a single corporate database.
 
 Each node validates transactions using agreed-upon rules. If one node claims a transaction is valid but others disagree, the network's consensus mechanism kicks in to determine what's actually true.
 
@@ -87,15 +87,15 @@ Historically, we've relied on intermediaries to verify transactions. Your bank c
 
 Blockchain removes this requirement. The network itself becomes the trusted authority. You don't need to trust a bank, a [government](/government), or any company. You trust [mathematics](/mathematics) and distributed verification. This is genuinely revolutionary for certain use cases.
 
-### [Cryptocurrency](/cryptocurrency) and Digital Assets
+### [Cryptocurrency](/cryptography) and Digital Assets
 
 The most famous application is cryptocurrency like Bitcoin and Ethereum. For the first time, digital assets could be owned and transferred without a bank processing the transaction. Your cryptocurrency lives on the blockchain. When you send someone Bitcoin, you're not asking a bank to move numbers in a database—you're creating a transaction that the network verifies and records permanently.
 
 This matters tremendously in countries with unstable currencies or limited banking infrastructure. It matters when remittances would normally cost 5-10% in fees. It matters when geopolitical tensions freeze your assets.
 
-### [Smart Contracts](/smart-contracts) and Automation
+### Smart Contracts and Automation
 
-Ethereum introduced [smart-contracts](/smart-contracts)—code that lives on the blockchain and executes automatically when conditions are met. Imagine a vending machine: you insert money (condition), the machine delivers snacks (execution). Smart contracts work similarly but for complex agreements.
+Ethereum introduced smart-contracts—code that lives on the blockchain and executes automatically when conditions are met. Imagine a vending machine: you insert money (condition), the machine delivers snacks (execution). Smart contracts work similarly but for complex agreements.
 
 A farmer could create a smart contract that automatically pays their insurance claim if rainfall falls below a certain level—no paperwork, no claims processing, instant execution. An artist could embed a royalty smart contract in a digital artwork so they automatically receive a percentage every time it's resold. A supply chain company could trigger automatic payments when goods arrive at specific locations.
 
@@ -131,7 +131,7 @@ Blockchain's permanence is both feature and bug. You can't lose money and have a
 
 ### Scalability Challenges
 
-A blockchain that's truly decentralized—where ordinary people can run nodes on their home computers—tends to be slower and less efficient than centralized systems. Competing [distributed-systems](/distributed-systems) demands create constant tradeoffs. Fully decentralized systems that are also fast and cheap don't yet exist at scale.
+A blockchain that's truly decentralized—where ordinary people can run nodes on their home computers—tends to be slower and less efficient than centralized systems. Competing [distributed-systems](/distillation) demands create constant tradeoffs. Fully decentralized systems that are also fast and cheap don't yet exist at scale.
 
 ### Regulatory Uncertainty
 
@@ -147,7 +147,7 @@ Blockchains aren't monolithic. Different designs serve different purposes.
 
 **Hybrid blockchains** combine elements of both. Maybe the ledger is publicly readable but only authorized validators can add blocks.
 
-**Consortium blockchains** are controlled by a group of organizations rather than one entity or the general public. These are popular among industry groups coordinating on [distributed-systems](/distributed-systems) problems.
+**Consortium blockchains** are controlled by a group of organizations rather than one entity or the general public. These are popular among industry groups coordinating on [distributed-systems](/distillation) problems.
 
 ## Beyond Cryptocurrency: Emerging Applications
 
@@ -159,7 +159,7 @@ Blockchain is expanding far beyond digital money.
 
 **Real Estate**: Property titles and transfers could be recorded on blockchain, eliminating title search companies and reducing fraud.
 
-**Intellectual Property**: Artists and creators could register works with timestamp proof of creation and automatic royalty distribution through [smart-contracts](/smart-contracts).
+**Intellectual Property**: Artists and creators could register works with timestamp proof of creation and automatic royalty distribution through smart-contracts.
 
 **Government Services**: Licenses, permits, and certifications could be issued and verified on blockchain.
 
@@ -167,7 +167,7 @@ Blockchain is expanding far beyond digital money.
 
 Blockchain has suffered through an enormous hype cycle. During 2017-2018, venture capitalists funded hundreds of projects that made blockchain claims without meaningful problems to solve. Most failed. Blockchain was supposed to reshape everything overnight. It didn't.
 
-What actually happened is more measured: blockchain solved specific problems where decentralization, transparency, and immutability matter more than speed and efficiency. Cryptocurrency created entirely new asset classes. [Smart-contracts](/smart-contracts) enabled new financial instruments. Supply chains became more transparent in industries where that transparency has real value.
+What actually happened is more measured: blockchain solved specific problems where decentralization, transparency, and immutability matter more than speed and efficiency. Cryptocurrency created entirely new asset classes. Smart-contracts enabled new financial instruments. Supply chains became more transparent in industries where that transparency has real value.
 
 But blockchain didn't replace databases for storing customer records. It didn't become the foundation of all internet infrastructure. It didn't eliminate corruption through sheer code force.
 
@@ -183,7 +183,7 @@ For enterprise blockchain applications without cryptocurrency components, the va
 
 ## The Evolution Continues
 
-Blockchain technology continues evolving rapidly. Initial blockchains prioritized decentralization. Second-generation blockchains added [smart-contracts](/smart-contracts). Third-generation designs optimize for speed, efficiency, and interoperability between different blockchains.
+Blockchain technology continues evolving rapidly. Initial blockchains prioritized decentralization. Second-generation blockchains added smart-contracts. Third-generation designs optimize for speed, efficiency, and interoperability between different blockchains.
 
 Layer-2 solutions process transactions off the main blockchain and settle them periodically, dramatically improving speed without sacrificing security. Cross-chain bridges allow value movement between different blockchains. New consensus mechanisms emerge constantly.
 
@@ -193,11 +193,11 @@ The technology that seemed advanced two years ago often looks primitive today. T
 
 Here's the real question: does blockchain matter to your life?
 
-If you're interested in [cryptocurrency](/cryptocurrency), the answer is yes—you need to understand the technology underlying digital assets.
+If you're interested in [cryptocurrency](/cryptography), the answer is yes—you need to understand the technology underlying digital assets.
 
 If you're in supply chain, healthcare, finance, or any industry where multiple parties need to agree on shared records, blockchain deserves serious investigation.
 
-If you're just an ordinary person who doesn't use [cryptocurrency](/cryptocurrency) and your institutions work fine, blockchain probably won't directly impact your life for years—if ever. Many problems are already solved well by existing systems. Blockchain isn't always an improvement.
+If you're just an ordinary person who doesn't use [cryptocurrency](/cryptography) and your institutions work fine, blockchain probably won't directly impact your life for years—if ever. Many problems are already solved well by existing systems. Blockchain isn't always an improvement.
 
 What matters is understanding what blockchain is, what problems it genuinely solves, and where the hype outpaces reality. Armed with that knowledge, you can evaluate blockchain claims critically instead of dismissing or accepting them uncritically.
 
@@ -205,7 +205,7 @@ The technology is real. The capabilities are genuine. But like most technologies
 
 ## Key Takeaways
 
-Blockchain is a distributed, immutable ledger maintained by many participants using cryptography and consensus mechanisms. It solves the problem of reaching agreement without a central authority. It works exceptionally well for creating decentralized networks of mutually-mistrusting parties, transparent supply chains, and [smart-contracts](/smart-contracts) that execute without intermediaries.
+Blockchain is a distributed, immutable ledger maintained by many participants using cryptography and consensus mechanisms. It solves the problem of reaching agreement without a central authority. It works exceptionally well for creating decentralized networks of mutually-mistrusting parties, transparent supply chains, and smart-contracts that execute without intermediaries.
 
 It's not inherently faster, cheaper, or better than traditional databases for most purposes. It requires significant energy in its Proof of Work implementations. It creates permanent records that can't be reversed. But where these tradeoffs make sense, blockchain opens possibilities that were previously impossible.
 

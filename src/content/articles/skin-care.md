@@ -4,7 +4,7 @@ slug: skin-care
 description: "Skin care is the practice of maintaining skin health through cleansing, protection, and treatment. Learn about routines, ingredients, sunscreen, and more."
 category: health-amp-wellness
 tags: ["skin care", "dermatology", "beauty", "sunscreen", "skincare routine"]
-heroImage: "/images/articles/skin-care.webp"
+heroImage: "/images/articles/skin-care-hero.webp"
 heroAlt: "Editorial photograph representing the concept of skin care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

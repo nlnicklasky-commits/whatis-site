@@ -4,7 +4,7 @@ slug: napoleonic-wars
 description: "The Napoleonic Wars (1803-1815) were a series of conflicts between Napoleon's French Empire and European coalitions. Learn about key battles and outcomes."
 category: history
 tags: ["napoleonic wars", "napoleon bonaparte", "european history", "military history"]
-heroImage: "/images/articles/napoleonic-wars.webp"
+heroImage: "/images/articles/napoleonic-wars-hero.webp"
 heroAlt: "Editorial photograph representing the concept of napoleonic wars"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Mechatronics?"
 slug: mechatronics
-description: "Mechatronics combines mechanical engineering, electronics, and computer science to create smart systems. Learn how it works and where it's used."
+description: "Mechatronics combines mechanical engineering, electronics, and computer science to create smart systems. Learn how it works and where it's used. Discover the..."
 category: technology
 tags: ["mechatronics", "robotics", "automation", "electronics", "mechanical engineering", "control systems", "sensors"]
 heroImage: "/images/articles/mechatronics-hero.webp"

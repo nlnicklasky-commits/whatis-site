@@ -1,10 +1,10 @@
 ---
 title: "What Is Digital Logic?"
 slug: digital-logic
-description: "Digital logic is the foundation of computing, using binary signals and logic gates to process information. Learn how ones and zeros run the world."
+description: "Digital logic is the foundation of computing, using binary signals and logic gates to process information. Learn how ones and zeros run the world. Discover t..."
 category: everyday-concepts
 tags: ["digital logic", "everyday-concepts"]
-heroImage: "/images/articles/digital-logic.webp"
+heroImage: "/images/articles/digital-logic-hero.webp"
 heroAlt: "Editorial photograph representing the concept of digital logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

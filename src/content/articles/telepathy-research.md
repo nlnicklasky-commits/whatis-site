@@ -1,10 +1,10 @@
 ---
 title: "What Is Telepathy Research?"
 slug: telepathy-research
-description: "Telepathy research is the scientific investigation of alleged mind-to-mind communication, studied within parapsychology using controlled experiments."
+description: "Telepathy research is the scientific investigation of alleged mind-to-mind communication, studied within parapsychology using controlled experiments. Discove..."
 category: science
 tags: ["telepathy research", "parapsychology", "esp", "extrasensory perception"]
-heroImage: "/images/articles/telepathy-research.webp"
+heroImage: "/images/articles/telepathy-research-hero.webp"
 heroAlt: "Editorial photograph representing the concept of telepathy research"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "A few. The University of Virginia's Division of Perceptual Studies, the University of Edinburgh's Koestler Parapsychology Unit, and the Rhine Research Center at Duke University are among the most notable. However, parapsychology remains marginalized in mainstream academia, with very few university positions and limited funding."
 ---
 
+# What Is Telepathy Research?
 Telepathy research is the systematic, experimental investigation of whether direct mind-to-mind communication is possible — whether one person can transmit thoughts, feelings, or mental images to another without using any known sensory channel. It's one of the most controversial areas of scientific inquiry, sitting at the uncomfortable intersection of genuine experimental methodology and claims that most scientists regard as unsupported.
 
 Let's be clear about the state of the field upfront: after more than a century of controlled experiments, telepathy has not been scientifically proven. No experiment has produced results that the mainstream scientific community accepts as definitive evidence. But the story of how researchers have tried — the experiments they've designed, the debates they've had, and the methodological lessons they've learned — is genuinely interesting and reveals a lot about how science works at its edges.
@@ -127,7 +128,7 @@ Defenders of telepathy research argue:
 
 **Dismissal is often ideological, not evidential.** Some critics have acknowledged that they would not accept telepathy regardless of the evidence because it conflicts with their understanding of physics. This, parapsychologists argue, is unscientific.
 
-These are fair points, and they make the debate more nuanced than a simple "believers vs. skeptics" narrative suggests. But they don't resolve the core issue: the effects are small, inconsistent, and have no known mechanism.
+These are fair points, and they make the debate more complex than a simple "believers vs. skeptics" narrative suggests. But they don't resolve the core issue: the effects are small, inconsistent, and have no known mechanism.
 
 ## Related Phenomena and Research
 

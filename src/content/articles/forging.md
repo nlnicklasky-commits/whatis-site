@@ -1,7 +1,7 @@
 ---
 title: "What Is Forging?"
 slug: forging
-description: "Forging shapes metal using compressive force, producing parts with superior strength for aerospace, automotive, and industrial applications."
+description: "Forging shapes metal using compressive force, producing parts with superior strength for aerospace, automotive, and industrial applications. Discover the key..."
 category: technology
 tags: ["metalworking", "manufacturing", "metallurgy", "strength", "materials science", "industrial process", "blacksmithing"]
 heroImage: "/images/articles/forging-hero.webp"
@@ -181,4 +181,4 @@ Forging is evolving with the rest of manufacturing.
 
 ## Key Takeaways
 
-Forging shapes metal through compressive force, producing parts with superior grain structure, mechanical properties, and internal soundness compared to casting or machining. The process ranges from open-die forging of massive industrial components to precision closed-die forging of [aerospace](/aerospace-[engineering](/engineering)) and [automotive](/automotive-engineering) parts. The aligned grain flow, refined microstructure, and elimination of internal defects make forgings the material of choice for safety-critical applications. With origins in ancient blacksmithing and a future shaped by simulation, automation, and new materials, forging remains one of manufacturing's most essential processes.
+Forging shapes metal through compressive force, producing parts with superior grain structure, mechanical properties, and internal soundness compared to casting or machining. The process ranges from open-die forging of massive industrial components to precision closed-die forging of [aerospace](/aerodynamics)) and [automotive](/automotive-engineering) parts. The aligned grain flow, refined microstructure, and elimination of internal defects make forgings the material of choice for safety-critical applications. With origins in ancient blacksmithing and a future shaped by simulation, automation, and new materials, forging remains one of manufacturing's most essential processes.

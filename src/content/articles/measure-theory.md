@@ -4,7 +4,7 @@ slug: measure-theory
 description: "Measure theory is the mathematical study of assigning sizes to sets, forming the foundation of modern probability and integration. Learn the key concepts."
 category: everyday-concepts
 tags: ["measure theory", "mathematics", "probability", "integration", "analysis", "Lebesgue"]
-heroImage: "/images/articles/measure-theory.webp"
+heroImage: "/images/articles/measure-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of measure theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: chinese-mythology
 description: "Chinese mythology is the collection of myths, legends, and folk tales from ancient China, blending cosmology, ancestor worship, and Daoist-Buddhist themes."
 category: arts-amp-culture
 tags: ["Chinese mythology", "mythology", "folklore", "China", "legends", "Daoism"]
-heroImage: "/images/articles/chinese-mythology.webp"
+heroImage: "/images/articles/chinese-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chinese mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: wargaming
 description: "Wargaming is the hobby of simulating military conflicts using miniatures, boards, or computers. Learn about its history, types, strategy, and community."
 category: everyday-concepts
 tags: ["wargaming", "tabletop games", "strategy games", "miniatures", "military history", "board games"]
-heroImage: "/images/articles/wargaming.webp"
+heroImage: "/images/articles/wargaming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wargaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

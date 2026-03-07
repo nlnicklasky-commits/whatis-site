@@ -4,7 +4,7 @@ slug: image-processing
 description: "Image processing is manipulating digital images using algorithms to enhance, analyze, or extract information. Learn about techniques and applications."
 category: everyday-concepts
 tags: ["image processing", "computer vision", "digital imaging", "photography", "algorithms"]
-heroImage: "/images/articles/image-processing.webp"
+heroImage: "/images/articles/image-processing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of image processing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

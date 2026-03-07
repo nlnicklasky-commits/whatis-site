@@ -4,7 +4,7 @@ slug: software-testing
 description: "Software testing is the process of evaluating software to find bugs and verify it meets requirements. Learn about testing types, methods, and best practices."
 category: technology
 tags: ["software testing", "quality assurance", "software engineering", "debugging", "automation", "programming"]
-heroImage: "/images/articles/software-testing.webp"
+heroImage: "/images/articles/software-testing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of software testing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

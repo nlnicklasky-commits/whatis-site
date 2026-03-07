@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Political Science?"
 slug: the-history-of-political-science
-description: "The history of political science traces how the study of government, power, and governance evolved from ancient philosophy to modern research."
+description: "The history of political science traces how the study of government, power, and governance evolved from ancient philosophy to modern research. Discover the k..."
 category: history
 tags: ["history of political science", "political science", "governance", "democracy"]
-heroImage: "/images/articles/the-history-of-political-science.webp"
+heroImage: "/images/articles/the-history-of-political-science-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of political science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

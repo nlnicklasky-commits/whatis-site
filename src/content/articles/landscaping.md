@@ -4,7 +4,7 @@ slug: landscaping
 description: "Landscaping is the practice of modifying outdoor areas with plants, structures, and terrain changes. Learn about design principles, materials, and planning."
 category: everyday-concepts
 tags: ["landscaping", "gardening", "outdoor design", "yard maintenance", "hardscaping"]
-heroImage: "/images/articles/landscaping.webp"
+heroImage: "/images/articles/landscaping-hero.webp"
 heroAlt: "Editorial photograph representing the concept of landscaping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -89,7 +89,7 @@ Sustainable alternatives are gaining ground:
 
 **Rain gardens** capture and filter stormwater runoff, reducing pollution and flooding while creating attractive planting beds.
 
-**Reduced lawn areas** — replacing some turf with groundcovers, meadow plantings, or mulched beds cuts mowing time, water use, and chemical inputs.
+**Reduced [lawn](/lawn-care) areas** — replacing some turf with groundcovers, meadow plantings, or mulched beds cuts mowing time, water use, and chemical inputs.
 
 ## The Return on Investment
 

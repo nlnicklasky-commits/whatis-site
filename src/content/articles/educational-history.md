@@ -4,7 +4,7 @@ slug: educational-history
 description: "Educational history studies how teaching, learning, and schooling have evolved from ancient times to today. Learn about key movements, figures, and turning."
 category: history
 tags: ["educational history", "education", "pedagogy", "curriculum", "schooling"]
-heroImage: "/images/articles/educational-history.webp"
+heroImage: "/images/articles/educational-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of educational history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -95,7 +95,7 @@ Maria Montessori developed her child-centered educational method in Rome in 1907
 
 The struggle for equal educational access is a central theme of modern educational history, particularly in the United States. The Supreme Court's Brown v. Board of Education decision in 1954 declared racially segregated schools unconstitutional. Implementation was slow, fiercely resisted, and incomplete — many American schools remain effectively segregated by race and income today.
 
-Title IX (1972) prohibited sex discrimination in federally funded education programs, dramatically expanding opportunities for women in [higher education](/developmental-[psychology](/psychology)) and [athletics](/athletics). The Individuals with Disabilities Education Act (1975) guaranteed free appropriate public education for children with disabilities.
+Title IX (1972) prohibited sex discrimination in federally funded education programs, dramatically expanding opportunities for women in [higher education](/web-development)) and [athletics](/athletics). The Individuals with Disabilities Education Act (1975) guaranteed free appropriate public education for children with disabilities.
 
 Globally, the push for universal education continues. UNESCO reports that about 244 million children and youth worldwide were out of school in 2021 — down from over 380 million in 2000, but still enormous.
 

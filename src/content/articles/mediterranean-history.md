@@ -4,7 +4,7 @@ slug: mediterranean-history
 description: "Mediterranean history covers thousands of years of civilizations around the Mediterranean Sea. Explore the empires, trade routes, and cultures that shaped it."
 category: history
 tags: ["history", "mediterranean", "ancient civilizations"]
-heroImage: "/images/articles/mediterranean-history.webp"
+heroImage: "/images/articles/mediterranean-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mediterranean history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

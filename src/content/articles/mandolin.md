@@ -4,7 +4,7 @@ slug: mandolin
 description: "The mandolin is a stringed instrument with paired strings and a bright, tremolo-rich sound. Learn about its history, types, playing styles, and music."
 category: arts-amp-culture
 tags: ["mandolin", "stringed instruments", "bluegrass", "music", "folk music", "classical music"]
-heroImage: "/images/articles/mandolin.webp"
+heroImage: "/images/articles/mandolin-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mandolin"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

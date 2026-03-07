@@ -1,7 +1,7 @@
 ---
 title: "What Is Real Estate Investing?"
 slug: real-estate-investing
-description: "Real estate investing means buying property to generate income or profit, including rental properties, REITs, flipping, and syndications."
+description: "Real estate investing means buying property to generate income or profit, including rental properties, REITs, flipping, and syndications. Discover the key fa..."
 category: finance
 tags: ["real estate investing", "investment", "rental property", "reits", "passive income", "property", "finance"]
 heroImage: "/images/articles/real-estate-investing-hero.webp"
@@ -28,11 +28,11 @@ faq:
   - q: "What is the 1% rule in real estate investing?"
     a: "The 1% rule is a quick screening tool: monthly rent should be at least 1% of the purchase price. A $200,000 property should rent for at least $2,000 per month. Properties meeting this threshold have a better chance of generating positive cash flow. It's a rough filter, not a guarantee—you still need to account for vacancies, repairs, taxes, insurance, and management costs."
   - q: "Are REITs better than owning rental property?"
-    a: "Neither is universally better—they serve different goals. REITs offer liquidity, diversification, and zero management headaches. Rental properties offer more control, higher potential returns through leverage, and better tax advantages (depreciation, 1031 exchanges). REITs are better for passive investors. Rental properties reward those willing to put in time and effort managing them."
+    a: "Neither is universally better—they serve different goals. REITs offer liquidity, diversification, and zero management headaches. Rental properties offer more control, higher potential returns through use, and better tax advantages (depreciation, 1031 exchanges). REITs are better for passive investors. Rental properties reward those willing to put in time and effort managing them."
   - q: "What is a 1031 exchange?"
     a: "A 1031 exchange (named after IRS Section 1031) lets you defer capital gains taxes when selling an investment property by reinvesting proceeds into a 'like-kind' property. You must identify a replacement property within 45 days and close within 180 days. The property must be held for investment, not personal use. This is one of the most powerful tax advantages in real estate."
   - q: "Can you lose money investing in real estate?"
-    a: "Absolutely. Property values can decline, tenants can stop paying rent, unexpected repairs can wipe out returns, and high leverage amplifies losses. During the 2008 crisis, some investors lost everything when property values crashed below their mortgage balances. Real estate is not a guaranteed path to wealth—it requires research, prudent financing, and active management."
+    a: "Absolutely. Property values can decline, tenants can stop paying rent, unexpected repairs can wipe out returns, and high apply amplifies losses. During the 2008 crisis, some investors lost everything when property values crashed below their mortgage balances. Real estate is not a guaranteed path to wealth—it requires research, prudent financing, and active management."
 ---
 
 # What Is [Real Estate](/real-estate) Investing?

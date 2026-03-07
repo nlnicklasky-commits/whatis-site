@@ -4,7 +4,7 @@ slug: cartooning
 description: "Cartooning is the art of creating cartoons — simplified, often humorous drawings used in comic strips, editorial commentary, animation, and illustration."
 category: arts-amp-culture
 tags: ["cartooning", "cartoons", "comic art", "illustration", "humor", "satire"]
-heroImage: "/images/articles/cartooning.webp"
+heroImage: "/images/articles/cartooning-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cartooning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

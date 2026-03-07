@@ -4,7 +4,7 @@ slug: postcolonial-studies
 description: "Postcolonial studies examines the cultural, political, and economic effects of colonialism and imperialism. Learn its key thinkers, debates, and methods."
 category: history
 tags: ["postcolonial studies", "colonialism", "imperialism", "decolonization"]
-heroImage: "/images/articles/postcolonial-studies.webp"
+heroImage: "/images/articles/postcolonial-studies-hero.webp"
 heroAlt: "Editorial photograph representing the concept of postcolonial studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

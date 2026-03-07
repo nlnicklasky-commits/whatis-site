@@ -4,7 +4,7 @@ slug: endocrinology
 description: "Endocrinology is the medical field focused on hormones and the glands that produce them. Learn how your endocrine system works and what happens when it doesn't."
 category: health-amp-wellness
 tags: ["endocrinology", "hormones", "endocrine system", "metabolism", "diabetes"]
-heroImage: "/images/articles/endocrinology.webp"
+heroImage: "/images/articles/endocrinology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of endocrinology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

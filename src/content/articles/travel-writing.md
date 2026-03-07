@@ -4,7 +4,7 @@ slug: travel-writing
 description: "Travel writing captures the experience of places through narrative prose. Learn the genres, techniques, and how to turn your journeys into compelling stories."
 category: arts-amp-culture
 tags: ["travel writing", "writing", "travel", "journalism", "creative nonfiction", "literature"]
-heroImage: "/images/articles/travel-writing.webp"
+heroImage: "/images/articles/travel-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of travel writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

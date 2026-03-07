@@ -4,7 +4,7 @@ slug: genealogy
 description: "Genealogy is the study of family history and lineage, tracing ancestors through records, DNA testing, and oral traditions to build a picture of your past."
 category: history
 tags: ["genealogy", "family history", "ancestry", "family tree", "dna testing"]
-heroImage: "/images/articles/genealogy.webp"
+heroImage: "/images/articles/genealogy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of genealogy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -115,7 +115,7 @@ If you want to start, here's the practical path:
 
 **Consider DNA testing.** Take an autosomal DNA test and upload your results to multiple platforms (GEDmatch, FamilyTreeDNA) to maximize your chances of finding matches. Be prepared for surprises.
 
-**Join a community.** Local genealogical societies, online forums, and [social](/anthropology) media groups dedicated to specific surnames, regions, or ethnic groups can provide expertise and collaboration. Genealogy is inherently collaborative — your ancestors are someone else's ancestors too.
+**Join a community.** [Local](/local-history) genealogical societies, online forums, and [social](/anthropology) media groups dedicated to specific surnames, regions, or ethnic groups can provide expertise and collaboration. Genealogy is inherently collaborative — your ancestors are someone else's ancestors too.
 
 ## Common Pitfalls
 

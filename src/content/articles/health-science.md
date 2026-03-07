@@ -30,7 +30,7 @@ faq:
   - q: "Is health science a good major for pre-med students?"
     a: "Yes, health science is a strong pre-med major because it covers many prerequisite courses (biology, chemistry, anatomy, physiology) while also providing context in public health and healthcare systems. However, medical schools accept students from any major—what matters most is completing the required prerequisites and performing well on the MCAT."
   - q: "How has health science changed in the last 50 years?"
-    a: "Dramatically. Fifty years ago, health science was largely focused on infectious diseases and acute care. Today, chronic diseases (heart disease, diabetes, cancer) dominate. Genomics has transformed our understanding of disease at the molecular level. Imaging technology has advanced from basic X-rays to MRI and PET scans. Evidence-based medicine has replaced much of the tradition-based practice. And the COVID-19 pandemic demonstrated the power of rapid vaccine development using mRNA technology."
+    a: "Dramatically. Fifty years ago, health science was largely focused on infectious diseases and acute care. Today, chronic diseases (heart disease, diabetes, cancer) dominate. Genomics has transformed our understanding of disease at the molecular level. Imaging technology has advanced from basic X-rays to MRI and PET scans. Evidence-based medicine has replaced much of the tradition-based practice. And the COVID-19 pandemic demonstrated how much rapid vaccine development using mRNA technology."
 ---
 
 # What Is Health Science?

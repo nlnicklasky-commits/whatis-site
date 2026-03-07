@@ -214,7 +214,7 @@ Radiographers follow three principles to minimize exposure:
 **Distance** -- maximize distance from the radiation source (dose drops with the square of distance).
 **Shielding** -- use lead aprons, thyroid shields, and gonadal shields when appropriate. Lead-lined walls protect people outside the X-ray room.
 
-Special care is taken with **children** (more sensitive to radiation due to rapidly dividing cells) and **pregnant women** (to protect the developing fetus). The "10-day rule" historically restricted abdominal X-rays in women to the first 10 days of the menstrual cycle, when pregnancy is least likely. Modern practice takes a more nuanced approach, balancing clinical urgency against fetal risk.
+Special care is taken with **children** (more sensitive to radiation due to rapidly dividing cells) and **pregnant women** (to protect the developing fetus). The "10-day rule" historically restricted abdominal X-rays in women to the first 10 days of the menstrual cycle, when pregnancy is least likely. Modern practice takes a more complex approach, balancing clinical urgency against fetal risk.
 
 ## Industrial Radiography: Beyond Medicine
 

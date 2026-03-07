@@ -1,10 +1,10 @@
 ---
 title: "What Is Proverbs?"
 slug: proverbs
-description: "Proverbs are short, memorable sayings that express common truths or practical wisdom passed down through generations."
+description: "Proverbs are short, memorable sayings that express common truths or practical wisdom passed down through generations. Discover the key facts, history, and wh..."
 category: arts-amp-culture
 tags: ["proverbs", "sayings", "wisdom", "folklore", "culture", "oral tradition"]
-heroImage: "/images/articles/proverbs.webp"
+heroImage: "/images/articles/proverbs-hero.webp"
 heroAlt: "Editorial photograph representing the concept of proverbs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

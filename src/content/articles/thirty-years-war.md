@@ -1,10 +1,10 @@
 ---
 title: "What Is Thirty Years' War?"
 slug: thirty-years-war
-description: "The Thirty Years' War (1618-1648) devastated Central Europe and reshaped the political order. Learn its causes, phases, and lasting impact."
+description: "The Thirty Years' War (1618-1648) devastated Central Europe and reshaped the political order. Learn its causes, phases, and lasting impact. Discover the key ..."
 category: history
 tags: ["thirty years war", "european history", "peace of westphalia", "holy roman empire"]
-heroImage: "/images/articles/thirty-years-war.webp"
+heroImage: "/images/articles/thirty-years-war-hero.webp"
 heroAlt: "Editorial photograph representing the concept of thirty years' war"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: theater-arts
 description: "Theater arts is the discipline of creating live performances through acting, directing, design, and stagecraft. Learn the elements, history, and career paths."
 category: arts-amp-culture
 tags: ["theater arts", "theatre", "drama", "acting", "directing", "stagecraft"]
-heroImage: "/images/articles/theater-arts.webp"
+heroImage: "/images/articles/theater-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of theater arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ Set [construction](/construction), rigging, prop building, lighting and sound op
 
 ## A Very Brief History
 
-Theater originated in ancient Greece around the 5th century BC, emerging from religious festivals honoring Dionysus. Playwrights like Aeschylus, Sophocles, and Euripides created tragedies that explored fate, justice, and human nature. Aristophanes wrote comedies that skewered [politics](/political-[philosophy](/philosophy)) and social customs.
+Theater originated in ancient Greece around the 5th century BC, emerging from religious festivals honoring Dionysus. Playwrights like Aeschylus, Sophocles, and Euripides created tragedies that explored fate, justice, and human nature. Aristophanes wrote comedies that skewered [politics](/politics)) and social customs.
 
 Roman theater borrowed heavily from Greek models, adding more spectacular elements. Medieval Europe produced religious mystery plays and morality plays performed in town squares.
 

@@ -4,7 +4,7 @@ slug: wood-finishing
 description: "Wood finishing applies coatings to protect and beautify wood surfaces. Learn about stains, oils, varnishes, lacquer, polyurethane, and application techniques."
 category: everyday-concepts
 tags: ["wood finishing", "woodworking", "staining", "varnish", "furniture", "DIY"]
-heroImage: "/images/articles/wood-finishing.webp"
+heroImage: "/images/articles/wood-finishing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wood finishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Stain changes the color of wood but provides little or no protection. It penetrates into the wood fibers and alters their appearance. A finish (polyurethane, varnish, lacquer, oil) provides a protective coating that resists moisture, scratches, and wear. Most projects use stain first (if color change is desired), then a protective finish on top. Some products combine stain and finish in one application, though purists prefer separate steps for more control."
 ---
 
-# What Is Wood Finishing?
+# What Is [Wood](/wood-carving) Finishing?
 
 Wood finishing is the process of applying protective and decorative coatings to wood surfaces — the final step that transforms raw wood into something that resists moisture, wear, and time while looking its best. It's arguably the most underappreciated skill in [woodworking](/woodworking). You can build a flawless piece of furniture with perfect joinery, and a bad finish will make it look amateur. A great finish on modest [construction](/construction) looks professional. The finish is what people see and touch.
 

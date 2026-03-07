@@ -1,10 +1,10 @@
 ---
 title: "What Is Portuguese Language?"
 slug: portuguese-language
-description: "Portuguese is a Romance language spoken by over 250 million people across four continents. Learn its history, spread, and unique features."
+description: "Portuguese is a Romance language spoken by over 250 million people across four continents. Learn its history, spread, and unique features. Discover the key f..."
 category: arts-amp-culture
 tags: ["portuguese language", "romance languages", "brazil", "portugal", "lusophone", "linguistics"]
-heroImage: "/images/articles/portuguese-language.webp"
+heroImage: "/images/articles/portuguese-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of portuguese language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

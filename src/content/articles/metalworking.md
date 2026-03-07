@@ -120,7 +120,7 @@ Joining processes connect separate metal pieces into assemblies.
 **Welding** fuses metals together by melting the base materials (and often adding filler metal) at the joint. There are dozens of welding processes:
 
 - *MIG (GMAW)*: Uses a continuously fed wire electrode and shielding gas. Fastest and easiest to learn. Dominant in manufacturing and fabrication.
-- *TIG (GTAW)*: Uses a non-consumable tungsten electrode and separate filler rod. Slower but produces the highest quality welds. Preferred for [aerospace engineering](/aerospace-[engineering](/engineering)), piping, and thin materials.
+- *TIG (GTAW)*: Uses a non-consumable tungsten electrode and separate filler rod. Slower but produces the highest quality welds. Preferred for [aerospace engineering](/aerodynamics)), piping, and thin materials.
 - *Stick (SMAW)*: Uses a consumable electrode coated in flux. Versatile and portable. Common in [construction](/construction) and repair.
 - *Flux-cored (FCAW)*: Similar to MIG but uses a tubular wire filled with flux. Works well outdoors and on dirty or rusty metal.
 

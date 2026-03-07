@@ -4,7 +4,7 @@ slug: etymology
 description: "Etymology is the study of word origins and how their meanings evolved over time. Explore how words are born, borrowed, and transformed across languages."
 category: everyday-concepts
 tags: ["etymology", "everyday-concepts"]
-heroImage: "/images/articles/etymology.webp"
+heroImage: "/images/articles/etymology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of etymology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: western-esotericism
 description: "Western esotericism is a collection of spiritual and philosophical traditions including alchemy, Hermeticism, Kabbalah, and mysticism within Western culture."
 category: philosophy
 tags: ["western esotericism", "occultism", "mysticism"]
-heroImage: "/images/articles/western-esotericism.webp"
+heroImage: "/images/articles/western-esotericism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of western esotericism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

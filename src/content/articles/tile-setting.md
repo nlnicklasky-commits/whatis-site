@@ -4,7 +4,7 @@ slug: tile-setting
 description: "Tile setting is the skilled trade of installing ceramic, porcelain, and stone tiles on floors, walls, and surfaces. Learn the process, tools, and techniques."
 category: everyday-concepts
 tags: ["tile setting", "tiling", "construction", "home improvement", "ceramic tile", "porcelain tile"]
-heroImage: "/images/articles/tile-setting.webp"
+heroImage: "/images/articles/tile-setting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tile setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,14 +26,14 @@ faq:
   - q: "What is the difference between ceramic and porcelain tile?"
     a: "Both are made from clay fired at high temperatures, but porcelain is fired at higher temperatures (2,200°F+) and made from finer, denser clay. Porcelain is harder, denser, more water-resistant, and more durable — but also more difficult to cut and more expensive. Ceramic works well for walls and light-traffic floors. Porcelain is better for high-traffic areas, outdoor use, and wet environments."
   - q: "How long does it take to learn tile setting professionally?"
-    a: "Most tile setters learn through apprenticeships lasting 2-4 years, combining classroom instruction with on-the-job training. Basic competency develops within the first year, but mastering complex installations (shower systems, large-format tile, intricate patterns, natural stone) takes many years of experience."
+    a: "Most tile setters learn through apprenticeships lasting 2-4 years, combining classroom instruction with on-the-job training. Basic competency develops within the first year, but mastering complex installations (shower systems, large-format tile, elaborate patterns, natural stone) takes many years of experience."
 ---
 
 # What Is Tile Setting?
 
 Tile setting is the construction [trade](/trade) of installing tiles — ceramic, porcelain, natural stone, glass, or other materials — on floors, walls, countertops, showers, and other surfaces. It's a skilled craft that combines precision measurement, surface preparation, adhesive application, and artistic layout to create durable, waterproof, and attractive finishes.
 
-If you've ever stood in a beautifully tiled bathroom or admired an intricate kitchen backsplash, a tile setter made that happen. The work looks simple from the finished side. From the installation side, it's a trade that demands real knowledge and skill.
+If you've ever stood in a beautifully tiled bathroom or admired an involved kitchen backsplash, a tile setter made that happen. The work looks simple from the finished side. From the installation side, it's a trade that demands real knowledge and skill.
 
 ## The Process
 

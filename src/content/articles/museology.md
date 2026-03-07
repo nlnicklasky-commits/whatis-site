@@ -4,7 +4,7 @@ slug: museology
 description: "Museology is the study of museums, their purpose, organization, and role in society. Learn about museum theory, practice, and how collections are managed."
 category: arts-amp-culture
 tags: ["museology", "museums", "curation", "museum studies", "cultural heritage", "preservation"]
-heroImage: "/images/articles/museology.webp"
+heroImage: "/images/articles/museology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of museology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Space Exploration?"
 slug: the-history-of-space-exploration
-description: "The history of space exploration covers the journey from early rocketry to the Moon landings, space stations, and Mars missions."
+description: "The history of space exploration covers the journey from early rocketry to the Moon landings, space stations, and Mars missions. Discover the key facts, hist..."
 category: history
 tags: ["space exploration", "space race", "nasa", "rockets", "satellites"]
-heroImage: "/images/articles/the-history-of-space-exploration.webp"
+heroImage: "/images/articles/the-history-of-space-exploration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of space exploration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

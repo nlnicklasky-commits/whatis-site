@@ -4,7 +4,7 @@ slug: truck-driving
 description: "Truck driving is the profession of operating large commercial vehicles to transport goods. Learn about CDL requirements, pay, lifestyle, and industry trends."
 category: everyday-concepts
 tags: ["truck driving", "transportation", "logistics", "CDL", "careers", "freight"]
-heroImage: "/images/articles/truck-driving.webp"
+heroImage: "/images/articles/truck-driving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of truck driving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -88,7 +88,7 @@ The sleeper cab — a small living space behind the driver's seat — is your ho
 
 ### The Physical Toll
 
-Studies consistently show truck drivers have higher rates of obesity, diabetes, heart disease, sleep apnea, and musculoskeletal problems compared to the general population. The combination of prolonged sitting, irregular sleep, limited exercise opportunities, and poor dietary options creates serious [health](/exercise-[physiology](/physiology)) risks. The DOT physical every two years catches some conditions, but prevention is difficult given the lifestyle constraints.
+Studies consistently show truck drivers have higher rates of obesity, diabetes, heart disease, sleep apnea, and musculoskeletal problems compared to the general population. The combination of prolonged sitting, irregular sleep, limited exercise opportunities, and poor dietary options creates serious [health](/exercise-physiology)) risks. The DOT physical every two years catches some conditions, but prevention is difficult given the lifestyle constraints.
 
 ## The Business Side
 

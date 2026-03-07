@@ -4,7 +4,7 @@ slug: cycling
 description: "Cycling is riding a bicycle for transport, exercise, or sport. Learn about road cycling, mountain biking, racing, health benefits, and getting started."
 category: sports
 tags: ["cycling", "bicycle", "biking", "exercise", "transportation", "sport"]
-heroImage: "/images/articles/cycling.webp"
+heroImage: "/images/articles/cycling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cycling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

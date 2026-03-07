@@ -1,10 +1,10 @@
 ---
 title: "What Is School Administration?"
 slug: school-administration
-description: "School administration covers the leadership, management, and operations that keep schools running. Learn what administrators do and why it matters."
+description: "School administration covers the leadership, management, and operations that keep schools running. Learn what administrators do and why it matters. Discover ..."
 category: education
 tags: ["school management", "education", "school leadership", "principal", "superintendent", "educational administration"]
-heroImage: "/images/articles/school-administration.webp"
+heroImage: "/images/articles/school-administration-hero.webp"
 heroAlt: "Editorial photograph representing the concept of school administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -47,7 +47,7 @@ The core responsibilities break down into several areas.
 
 **Budget and [finance](/finance)** is where idealism meets reality. Public school administrators work with limited budgets funded primarily through local property taxes and state allocations. A principal might have $50,000 in discretionary spending for a school of 500 students. That's $100 per student for everything beyond salaries and fixed costs. Deciding whether to buy new science textbooks or fix the gymnasium floor — that's a real [trade](/trade)-off administrators face.
 
-**Student services** includes discipline, counseling, [special education](/special-[education](/education)) coordination, extracurricular activities, and maintaining a safe environment. Since about 2000, safety concerns have dramatically expanded this role. Active shooter drills, [mental health](/mental-health) support, anti-bullying programs, and pandemic response plans are now standard responsibilities.
+**Student services** includes discipline, counseling, [special education](/spectroscopy)) coordination, extracurricular activities, and maintaining a safe environment. Since about 2000, safety concerns have dramatically expanded this role. Active shooter drills, [mental health](/mental-health) support, anti-bullying programs, and pandemic response plans are now standard responsibilities.
 
 **Community relations** means working with parents, local businesses, community organizations, and media. A school doesn't exist in isolation — it's embedded in a community whose support (and property tax dollars) the school depends on.
 

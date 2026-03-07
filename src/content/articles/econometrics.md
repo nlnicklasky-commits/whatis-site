@@ -1,7 +1,7 @@
 ---
 title: "What Is Econometrics?"
 slug: econometrics
-description: "Econometrics applies statistical and mathematical methods to economic data to test theories, estimate relationships, and forecast economic outcomes."
+description: "Econometrics applies statistical and mathematical methods to economic data to test theories, estimate relationships, and forecast economic outcomes. Discover..."
 category: finance
 tags: ["econometrics", "statistics", "economics", "economic modeling", "regression analysis", "forecasting", "economic policy"]
 heroImage: "/images/articles/econometrics-hero.webp"

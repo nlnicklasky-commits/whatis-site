@@ -1,10 +1,10 @@
 ---
 title: "What Is Sales?"
 slug: sales
-description: "Sales is the process of persuading someone to exchange money for a product or service, driving revenue and growth for every business."
+description: "Sales is the process of persuading someone to exchange money for a product or service, driving revenue and growth for every business. Discover the key facts,..."
 category: business
 tags: ["sales", "selling", "business", "customer service"]
-heroImage: "/images/articles/sales.webp"
+heroImage: "/images/articles/sales-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sales"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "The most important sales skills are active listening, clear communication, empathy, resilience (handling rejection), time management, product knowledge, and the ability to ask good questions. Contrary to the stereotype, the best salespeople talk less and listen more."
 ---
 
+# What Is Sales?
 Sales is the process of identifying potential buyers, understanding their needs, and persuading them to exchange money for a product or service. Every business on Earth depends on it — you can build the greatest product ever made, but if nobody buys it, you don't have a business. You have a hobby.
 
 The global sales profession employs roughly 14.5 million people in the United States alone, according to the Bureau of Labor [Statistics](/statistics). Total global B2B (business-to-business) sales exceed $20 trillion annually. Whether you're a solo freelancer or a Fortune 500 corporation, sales is the activity that keeps the lights on.

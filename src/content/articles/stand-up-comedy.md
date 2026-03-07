@@ -4,7 +4,7 @@ slug: stand-up-comedy
 description: "Stand-up comedy is a performance art where a comedian speaks directly to a live audience to make them laugh. Learn about styles, craft, and the business."
 category: everyday-concepts
 tags: ["stand-up comedy", "comedy", "performing arts", "humor", "entertainment", "live performance"]
-heroImage: "/images/articles/stand-up-comedy.webp"
+heroImage: "/images/articles/stand-up-comedy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stand-up comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

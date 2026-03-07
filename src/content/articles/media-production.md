@@ -4,7 +4,7 @@ slug: media-production
 description: "Media production is the process of creating content for film, TV, radio, web, and social platforms. Learn about stages, roles, and career opportunities."
 category: arts-amp-culture
 tags: ["media production", "film", "television", "video", "content creation", "broadcasting"]
-heroImage: "/images/articles/media-production.webp"
+heroImage: "/images/articles/media-production-hero.webp"
 heroAlt: "Editorial photograph representing the concept of media production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

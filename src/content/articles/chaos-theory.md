@@ -4,7 +4,7 @@ slug: chaos-theory
 description: "Chaos theory studies deterministic systems whose behavior is highly sensitive to initial conditions, making long-term prediction practically impossible."
 category: science
 tags: ["chaos theory", "mathematics", "physics", "nonlinear dynamics", "fractals", "complexity"]
-heroImage: "/images/articles/chaos-theory.webp"
+heroImage: "/images/articles/chaos-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chaos theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

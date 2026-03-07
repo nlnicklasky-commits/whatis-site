@@ -4,7 +4,7 @@ slug: stone-carving
 description: "Stone carving is the art of shaping stone into sculptures, architecture, and decorative objects. Learn the techniques, tools, and history behind this craft."
 category: arts-amp-culture
 tags: ["stone carving", "sculpture", "art", "masonry", "marble", "chisel"]
-heroImage: "/images/articles/stone-carving.webp"
+heroImage: "/images/articles/stone-carving-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stone carving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

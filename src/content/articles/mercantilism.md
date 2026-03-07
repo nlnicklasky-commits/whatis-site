@@ -4,7 +4,7 @@ slug: mercantilism
 description: "Mercantilism was the dominant economic theory from the 1500s to 1700s. Learn how it shaped colonial empires, trade wars, and modern economic thinking."
 category: history
 tags: ["economics", "mercantilism", "trade"]
-heroImage: "/images/articles/mercantilism.webp"
+heroImage: "/images/articles/mercantilism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mercantilism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

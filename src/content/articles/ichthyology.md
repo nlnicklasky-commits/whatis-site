@@ -177,7 +177,7 @@ The consequences of getting it wrong are severe. Atlantic cod stocks off Newfoun
 
 [Aquaculture](/aquaculture) — [fish farming](/fish-farming) — now produces more fish for human consumption than wild capture fisheries. Global aquaculture production exceeded 120 million metric tons in 2022, with China producing about 60% of the total.
 
-Ichthyology underpins every aspect of aquaculture: understanding fish nutrition, disease, reproduction, genetics, and behavior. Breeding programs have dramatically improved growth rates and disease resistance in farmed salmon, tilapia, and catfish, applying the same selective breeding principles used in [agriculture](/agriculture) for millennia.
+Ichthyology is the foundation of every aspect of aquaculture: understanding fish nutrition, disease, reproduction, genetics, and behavior. Breeding programs have dramatically improved growth rates and disease resistance in farmed salmon, tilapia, and catfish, applying the same selective breeding principles used in [agriculture](/agriculture) for millennia.
 
 But aquaculture creates its own problems. Escaped farmed fish can interbreed with wild populations, reducing genetic fitness. Concentrated fish waste pollutes surrounding waters. Disease outbreaks in crowded pens require antibiotics, raising resistance concerns. Feeding carnivorous farmed fish (like salmon) requires catching enormous quantities of smaller wild fish for feed — a questionable net benefit.
 

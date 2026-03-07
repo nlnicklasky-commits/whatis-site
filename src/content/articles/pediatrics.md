@@ -4,7 +4,7 @@ slug: pediatrics
 description: "Pediatrics is the medical specialty focused on the health of infants, children, and adolescents. Learn about pediatric care, training, and subspecialties."
 category: health-amp-wellness
 tags: ["pediatrics", "child health", "children's medicine", "healthcare"]
-heroImage: "/images/articles/pediatrics.webp"
+heroImage: "/images/articles/pediatrics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pediatrics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

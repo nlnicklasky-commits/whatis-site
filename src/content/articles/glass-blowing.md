@@ -1,10 +1,10 @@
 ---
 title: "What Is Glass Blowing?"
 slug: glass-blowing
-description: "Glass blowing shapes molten glass into art and functional objects using air and tools. Learn about techniques, history, and modern glass art."
+description: "Glass blowing shapes molten glass into art and functional objects using air and tools. Learn about techniques, history, and modern glass art. Discover the ke..."
 category: arts-amp-culture
 tags: ["glass blowing", "glass art", "craft", "artisan", "molten glass", "glassware"]
-heroImage: "/images/articles/glass-blowing.webp"
+heroImage: "/images/articles/glass-blowing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of glass blowing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

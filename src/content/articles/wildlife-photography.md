@@ -4,7 +4,7 @@ slug: wildlife-photography
 description: "Wildlife photography captures images of animals in their natural habitats. Learn about essential gear, techniques, ethics, and tips for stunning animal photos."
 category: arts-culture
 tags: ["wildlife photography", "photography", "nature", "camera gear", "animals", "outdoor photography"]
-heroImage: "/images/articles/wildlife-photography.webp"
+heroImage: "/images/articles/wildlife-photography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wildlife photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Long telephoto lenses are the primary solution — a 600mm lens makes an animal 150 feet away fill the frame. Beyond that: learn animal behavior to predict movement and position yourself in advance, use natural blinds (vegetation, terrain features), move slowly and avoid direct eye contact, wear muted clothing, approach at angles rather than head-on, and let animals approach you when possible. Patience is the most important skill — professional wildlife photographers spend hours or days waiting for a single shot."
 ---
 
-# What Is Wildlife Photography?
+# What Is Wildlife [Photography](/underwater-photography)?
 
 Wildlife photography is the practice of capturing images of wild animals in their natural environments — from backyard songbirds to African elephants, from coral reef fish to Arctic wolves. It sits at the intersection of technical photography skill, field naturalism, physical endurance, and often extraordinary patience. The best wildlife photographs reveal [animal behavior](/animal-behavior), beauty, or [ecology](/ecology) in ways that text alone can't communicate, and they've been instrumental in building public support for conservation.
 

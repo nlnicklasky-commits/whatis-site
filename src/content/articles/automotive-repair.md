@@ -4,7 +4,7 @@ slug: automotive-repair
 description: "Automotive repair covers the diagnosis, maintenance, and fixing of motor vehicles. Learn about common repairs, costs, DIY vs. professional work, and careers."
 category: everyday-concepts
 tags: ["automotive repair", "auto repair", "mechanic", "car repair", "vehicle maintenance", "cars"]
-heroImage: "/images/articles/automotive-repair.webp"
+heroImage: "/images/articles/automotive-repair-hero.webp"
 heroAlt: "Editorial photograph representing the concept of automotive repair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -63,7 +63,7 @@ The owner's manual — that book nobody reads in the glove compartment — conta
 
 ## The Modern Diagnostic Process
 
-Gone are the days when a skilled mechanic could diagnose every problem by listening to the engine and checking a few things by hand. Modern vehicles are rolling [computer networks](/computer-[networking](/networking)), and diagnosis increasingly requires specialized equipment.
+Gone are the days when a skilled mechanic could diagnose every problem by listening to the engine and checking a few things by hand. Modern vehicles are rolling [computer networks](/composting)), and diagnosis increasingly requires specialized equipment.
 
 **OBD-II scanners** read diagnostic trouble codes stored by the vehicle's computer. Every car sold in the U.S. since 1996 has a standardized OBD-II port. When your "check engine" light comes on, the system has stored a code indicating what triggered it. A code might say "P0301 — Cylinder 1 Misfire Detected," which gives the technician a starting point.
 
@@ -83,7 +83,7 @@ The right-to-repair movement has pushed back against manufacturers who restrict 
 
 Electric vehicles are reshaping the repair industry. EVs have far fewer moving parts than internal combustion vehicles — no engine oil, no transmission fluid, no spark plugs, no exhaust system. Brake pads last longer because regenerative braking does much of the work.
 
-But EVs bring their own repair challenges. Battery replacement costs $5,000-15,000+. High-voltage systems require specialized training and safety equipment. And the integration of advanced [software](/automotive-[engineering](/engineering)) means that some repairs can only be performed by the manufacturer, raising right-to-repair concerns.
+But EVs bring their own repair challenges. Battery replacement costs $5,000-15,000+. High-voltage systems require specialized training and safety equipment. And the integration of advanced [software](/automata-theory)) means that some repairs can only be performed by the manufacturer, raising right-to-repair concerns.
 
 The Bureau of Labor [Statistics](/statistics) projects steady demand for automotive technicians, with about 69,000 openings annually through 2032. The pay varies widely — median annual wage is roughly $46,000, but experienced technicians specializing in complex diagnostics or specific brands can earn significantly more.
 

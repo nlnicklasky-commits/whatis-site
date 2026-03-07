@@ -1,10 +1,10 @@
 ---
 title: "What Is Russian Language?"
 slug: russian-language
-description: "Russian is a Slavic language spoken by 258 million people, known for its Cyrillic alphabet, complex grammar, and rich literary tradition."
+description: "Russian is a Slavic language spoken by 258 million people, known for its Cyrillic alphabet, complex grammar, and rich literary tradition. Discover the key fa..."
 category: language
 tags: ["russian", "slavic languages", "cyrillic", "language learning", "linguistics", "eastern europe"]
-heroImage: "/images/articles/russian-language.webp"
+heroImage: "/images/articles/russian-language-hero.webp"
 heroAlt: "Editorial photograph representing the concept of russian language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: hockey
 description: "Hockey is a fast-paced team sport played on ice or field where players use sticks to score goals. Learn about rules, positions, equipment, and history."
 category: sports
 tags: ["hockey", "ice hockey", "field hockey", "sports", "team sport", "puck"]
-heroImage: "/images/articles/hockey.webp"
+heroImage: "/images/articles/hockey-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hockey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

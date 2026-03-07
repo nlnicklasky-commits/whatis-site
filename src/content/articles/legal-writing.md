@@ -1,10 +1,10 @@
 ---
 title: "What Is Legal Writing?"
 slug: legal-writing
-description: "Legal writing is the specialized form of written communication used by lawyers, judges, and legal scholars to analyze law and persuade courts."
+description: "Legal writing is the specialized form of written communication used by lawyers, judges, and legal scholars to analyze law and persuade courts. Discover the k..."
 category: law
 tags: ["legal profession", "legal writing", "law", "communication", "courts"]
-heroImage: "/images/articles/legal-writing.webp"
+heroImage: "/images/articles/legal-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of legal writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "A legal brief is a written document submitted to a court that presents legal arguments supporting a party's position. It typically includes a statement of facts, legal issues, arguments with supporting case law, and a conclusion. Despite the name, briefs are often quite long — sometimes 50 pages or more."
 ---
 
+# What Is Legal Writing?
 Legal writing is the specialized form of written communication used by lawyers, judges, legislators, and legal scholars to analyze legal issues, document transactions, and persuade courts. It's how the legal profession thinks on paper — and it's a skill that separates effective lawyers from mediocre ones.
 
 If you've ever tried to read a contract, a court opinion, or a statute, you already know that legal writing has a reputation for being dense and impenetrable. That reputation is partly deserved. But the best legal writing is actually precise, clear, and even elegant — and the profession is slowly getting better at it.

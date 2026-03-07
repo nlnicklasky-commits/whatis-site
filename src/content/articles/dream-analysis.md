@@ -1,7 +1,7 @@
 ---
 title: "What Is Dream Analysis?"
 slug: dream-analysis
-description: "Dream analysis is the process of interpreting the content and meaning of dreams, drawing on psychology, neuroscience, and symbolic frameworks."
+description: "Dream analysis is the process of interpreting the content and meaning of dreams, drawing on psychology, neuroscience, and symbolic frameworks. Discover the k..."
 category: science
 tags: ["dream analysis", "psychology", "sleep", "subconscious", "freud", "neuroscience", "dreams"]
 heroImage: "/images/articles/dream-analysis-hero.webp"

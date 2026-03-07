@@ -1,10 +1,10 @@
 ---
 title: "What Is Folklore?"
 slug: folklore
-description: "Folklore is the traditional beliefs, stories, customs, and practices shared within a community. Learn about myths, legends, superstitions, and more."
+description: "Folklore is the traditional beliefs, stories, customs, and practices shared within a community. Learn about myths, legends, superstitions, and more. Discover..."
 category: everyday-concepts
 tags: ["folklore", "mythology", "traditions", "oral history", "cultural heritage", "legends"]
-heroImage: "/images/articles/folklore.webp"
+heroImage: "/images/articles/folklore-hero.webp"
 heroAlt: "Editorial photograph representing the concept of folklore"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

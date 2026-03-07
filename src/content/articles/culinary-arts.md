@@ -4,7 +4,7 @@ slug: culinary-arts
 description: "Culinary arts is the professional practice of preparing, cooking, and presenting food. Learn about training, kitchen hierarchy, techniques, and careers."
 category: arts-amp-culture
 tags: ["culinary arts", "cooking", "food", "chef", "cuisine", "gastronomy"]
-heroImage: "/images/articles/culinary-arts.webp"
+heroImage: "/images/articles/culinary-arts-hero.webp"
 heroAlt: "Editorial photograph representing the concept of culinary arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

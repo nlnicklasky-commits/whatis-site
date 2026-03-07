@@ -4,7 +4,7 @@ slug: phrenology
 description: "Phrenology was a pseudoscience claiming personality could be read from skull shape. Learn its history, why it was wrong, and its lasting cultural impact."
 category: everyday-concepts
 tags: ["phrenology", "pseudoscience", "psychology", "history of science", "neuroscience", "brain"]
-heroImage: "/images/articles/phrenology.webp"
+heroImage: "/images/articles/phrenology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of phrenology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

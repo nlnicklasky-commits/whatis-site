@@ -1,7 +1,7 @@
 ---
 title: "What Is Human Geography?"
 slug: human-geography
-description: "Human geography studies how people shape and are shaped by the world. Explore its subfields, key theories, and why location still matters today."
+description: "Human geography studies how people shape and are shaped by the world. Explore its subfields, key theories, and why location still matters today. Discover the..."
 category: science
 tags: ["human geography", "geography", "population", "culture", "economy", "political geography", "urban studies"]
 heroImage: "/images/articles/human-geography-hero.webp"

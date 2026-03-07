@@ -1,10 +1,10 @@
 ---
 title: "What Is Neolithic History?"
 slug: neolithic-history
-description: "The Neolithic era was when humans first farmed, settled, and built communities. Learn about the agricultural revolution that changed everything."
+description: "The Neolithic era was when humans first farmed, settled, and built communities. Learn about the agricultural revolution that changed everything. Discover the..."
 category: everyday-concepts
 tags: ["neolithic history", "prehistoric era", "agriculture", "archaeology", "ancient civilizations", "stone age"]
-heroImage: "/images/articles/neolithic-history.webp"
+heroImage: "/images/articles/neolithic-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of neolithic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

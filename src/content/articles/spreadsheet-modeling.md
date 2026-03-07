@@ -4,7 +4,7 @@ slug: spreadsheet-modeling
 description: "Spreadsheet modeling uses programs like Excel to build financial, scientific, or business models. Learn about techniques, best practices, and common uses."
 category: everyday-concepts
 tags: ["spreadsheet modeling", "Excel", "financial modeling", "data analysis", "business", "forecasting"]
-heroImage: "/images/articles/spreadsheet-modeling.webp"
+heroImage: "/images/articles/spreadsheet-modeling-hero.webp"
 heroAlt: "Editorial photograph representing the concept of spreadsheet modeling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

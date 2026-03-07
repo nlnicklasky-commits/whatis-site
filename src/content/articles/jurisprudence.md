@@ -1,7 +1,7 @@
 ---
 title: "What Is Jurisprudence?"
 slug: jurisprudence
-description: "Jurisprudence is the philosophy of law, examining what law is, why it exists, and how it should work. Learn the major theories and thinkers."
+description: "Jurisprudence is the philosophy of law, examining what law is, why it exists, and how it should work. Learn the major theories and thinkers. Discover the key..."
 category: philosophy
 tags: ["jurisprudence", "philosophy of law", "legal theory", "justice", "natural law", "legal positivism", "rights"]
 heroImage: "/images/articles/jurisprudence-hero.webp"
@@ -181,7 +181,7 @@ Modern jurisprudence grapples with challenges its founders couldn't have imagine
 
 **Digital privacy** forces reconsideration of what constitutes a "search" under the Fourth Amendment. When police access your cell phone location data, is that a search? The Supreme Court said yes in *Carpenter v. United States* (2018)—but the existing framework of physical trespass law was never designed for digital surveillance.
 
-**Global governance** challenges the Westphalian model of sovereign nation-states that underpins most jurisprudential theory. Climate change, pandemics, and financial crises don't respect borders, but legal authority still resides primarily within them.
+**Global governance** challenges the Westphalian model of sovereign nation-states that backs up most jurisprudential theory. Climate change, pandemics, and financial crises don't respect borders, but legal authority still resides primarily within them.
 
 **Algorithmic decision-making** in criminal justice—predictive policing, sentencing algorithms, parole risk assessments—raises questions about due process, equal protection, and the very nature of legal judgment. Can [an algorithm](/algorithms) deliver justice? And if it reproduces existing biases in the data, is it dispensing law or entrenching injustice?
 

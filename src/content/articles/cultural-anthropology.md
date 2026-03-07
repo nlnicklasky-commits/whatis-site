@@ -4,7 +4,7 @@ slug: cultural-anthropology
 description: "Cultural anthropology studies human cultures, beliefs, and social practices. Learn about fieldwork, key concepts, famous anthropologists, and methods."
 category: everyday-concepts
 tags: ["cultural anthropology", "anthropology", "culture", "ethnography", "society", "human behavior"]
-heroImage: "/images/articles/cultural-anthropology.webp"
+heroImage: "/images/articles/cultural-anthropology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cultural anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

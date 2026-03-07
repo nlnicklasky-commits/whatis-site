@@ -4,7 +4,7 @@ slug: bass-guitar
 description: "The bass guitar is a stringed instrument that produces low-frequency tones, providing rhythmic and harmonic foundation in virtually every genre of modern music."
 category: arts-amp-culture
 tags: ["bass guitar", "musical instrument", "low frequency", "rhythm section", "electric bass", "funk"]
-heroImage: "/images/articles/bass-guitar.webp"
+heroImage: "/images/articles/bass-guitar-hero.webp"
 heroAlt: "Editorial photograph representing the concept of bass guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

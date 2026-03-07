@@ -4,7 +4,7 @@ slug: furniture-making
 description: "Furniture making is the craft of building functional objects from wood and other materials. Learn about joinery, tools, wood types, and getting started."
 category: arts-amp-culture
 tags: ["furniture", "craftsmanship", "woodworking", "carpentry", "materials", "joinery"]
-heroImage: "/images/articles/furniture-making.webp"
+heroImage: "/images/articles/furniture-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of furniture making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Building basic furniture (a simple bookshelf or stool) is achievable within weeks of starting. Making well-fitted furniture with good joinery takes 1-2 years of regular practice. Mastering the craft — producing work with the precision and refinement expected of professional furniture makers — takes 5-10+ years. The learning never really stops."
 ---
 
-# What Is Furniture Making?
+# What Is [Furniture](/furniture-design) Making?
 
 Furniture making is the craft of constructing furniture — chairs, tables, cabinets, beds, shelves, and desks — from wood, metal, and other materials. It's one of humanity's oldest crafts, predating written history. Egyptian tombs contained sophisticated furniture over 4,000 years old, and many of the joinery techniques used today were developed centuries ago. Despite mass manufacturing, handmade furniture remains valued for its quality, individuality, and the satisfaction of owning something made by human hands rather than machines.
 

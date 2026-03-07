@@ -4,7 +4,7 @@ slug: construction
 description: "Construction is the process of building structures and infrastructure. Learn about methods, trades, project management, and the industry's massive scale."
 category: everyday-concepts
 tags: ["engineering", "architecture", "building", "infrastructure", "project management", "trades"]
-heroImage: "/images/articles/construction.webp"
+heroImage: "/images/articles/construction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of construction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

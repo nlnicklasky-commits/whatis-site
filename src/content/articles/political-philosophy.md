@@ -1,7 +1,7 @@
 ---
 title: "What Is Political Philosophy?"
 slug: political-philosophy
-description: "Political philosophy examines questions about government, justice, rights, liberty, and the proper relationship between individuals and the state."
+description: "Political philosophy examines questions about government, justice, rights, liberty, and the proper relationship between individuals and the state. Discover t..."
 category: philosophy
 tags: ["politics", "government", "justice", "liberty", "rights", "ethics", "political science"]
 heroImage: "/images/articles/political-philosophy-hero.webp"

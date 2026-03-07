@@ -83,7 +83,7 @@ Developing a new vehicle from concept to production is a massive, multi-year pro
 
 ### Concept and Architecture Phase
 
-This phase defines the vehicle's fundamental parameters: size, weight targets, powertrain type, platform architecture, and target market positioning. Platform sharing — where multiple vehicles share the same basic structure — has become the dominant strategy. Volkswagen's MQB platform underpins everything from the Golf to the Tiguan to the Audi A3. Toyota's TNGA platform serves a similarly wide range.
+This phase defines the vehicle's fundamental parameters: size, weight targets, powertrain type, platform architecture, and target market positioning. Platform sharing — where multiple vehicles share the same basic structure — has become the dominant strategy. Volkswagen's MQB platform drives everything from the Golf to the Tiguan to the Audi A3. Toyota's TNGA platform serves a similarly wide range.
 
 Platform sharing dramatically reduces engineering costs. Developing a new platform from scratch costs $1 billion or more. Sharing that platform across 5 or 6 models makes the per-vehicle engineering cost manageable.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is Notary Public?"
 slug: notary-public
-description: "A notary public is a state-appointed official who witnesses signatures, administers oaths, and deters fraud. Here's how notarization works."
+description: "A notary public is a state-appointed official who witnesses signatures, administers oaths, and deters fraud. Here's how notarization works. Discover the key ..."
 category: everyday-concepts
 tags: ["notary public", "notarization", "legal documents", "witness", "fraud prevention", "public officer"]
-heroImage: "/images/articles/notary-public.webp"
+heroImage: "/images/articles/notary-public-hero.webp"
 heroAlt: "Editorial photograph representing the concept of notary public"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Notary Public?
 
-A notary public is a person appointed by a [state government](/state-[government](/government)) to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
+A notary public is a person appointed by a [state government](/statistics)) to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
 
 ## Why Notarization Exists
 
 The core purpose is fraud prevention. Without some verification process, anyone could forge a signature on a deed, a power of attorney, or a contract. Notarization adds a layer of accountability — someone independent looked at your ID, watched you sign, and put their own name and seal on the line confirming it happened.
 
-The concept goes back to ancient Rome. Roman notarii were scribes who recorded legal proceedings and prepared official documents. The practice spread through the Roman Empire and into European legal systems. English common law adapted it, and the American colonies brought it along.
+The concept goes back to ancient Rome. Roman notarii were scribes who recorded legal proceedings and prepared official documents. The practice spread through the Roman Empire and into European legal systems. English common [law](/law) adapted it, and the American colonies brought it along.
 
 Today, every U.S. state has its own notary laws, and the specifics vary considerably. But the basic function remains the same across all jurisdictions: an impartial witness who adds credibility and legal weight to document transactions.
 
@@ -88,7 +88,7 @@ The commission typically lasts four to ten years depending on the state. Renewal
 
 The biggest change in notary practice in decades is remote online notarization (RON). Instead of meeting in person, the signer connects with the notary via secure video conference. Identity is verified through knowledge-based authentication questions and credential analysis technology.
 
-Virginia was the first state to authorize RON in 2012. As of 2025, most states have passed RON legislation. The COVID-19 pandemic accelerated adoption dramatically — when people couldn't meet in person, remote notarization became essential for [real estate](/real-estate) closings, estate planning, and business transactions.
+Virginia was the first state to authorize RON in 2012. As of 2025, most states have passed RON legislation. The COVID-19 pandemic accelerated adoption dramatically — when people couldn't meet in person, remote notarization became essential for [real estate](/real-estate) closings, estate planning, and [business](/business-law) transactions.
 
 RON platforms record the entire session on video, creating a more detailed record than traditional paper-based notarization. Critics argue that video verification is less reliable than in-person identification, but proponents counter that the recorded session actually provides better evidence if questions arise later.
 

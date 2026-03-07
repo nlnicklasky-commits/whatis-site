@@ -4,7 +4,7 @@ slug: handwriting-analysis
 description: "Handwriting analysis examines writing to identify authorship or infer traits. Learn about forensic document examination vs. graphology, methods, and uses."
 category: everyday-concepts
 tags: ["handwriting analysis", "graphology", "pseudoscience", "personality", "forensic science", "writing"]
-heroImage: "/images/articles/handwriting-analysis.webp"
+heroImage: "/images/articles/handwriting-analysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of handwriting analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

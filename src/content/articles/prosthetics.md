@@ -4,7 +4,7 @@ slug: prosthetics
 description: "Prosthetics is the field of designing and fitting artificial limbs and body parts. Learn about types, materials, costs, and how modern prostheses work."
 category: health-amp-wellness
 tags: ["prosthetics", "artificial limbs", "rehabilitation", "biomedical engineering"]
-heroImage: "/images/articles/prosthetics.webp"
+heroImage: "/images/articles/prosthetics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of prosthetics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

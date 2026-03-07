@@ -4,7 +4,7 @@ slug: psychoanalysis
 description: "Psychoanalysis is a theory of the mind and a therapy method founded by Sigmund Freud. Learn about the unconscious, key concepts, and its lasting influence."
 category: health-amp-wellness
 tags: ["psychoanalysis", "sigmund freud", "unconscious mind", "psychotherapy"]
-heroImage: "/images/articles/psychoanalysis.webp"
+heroImage: "/images/articles/psychoanalysis-hero.webp"
 heroAlt: "Editorial photograph representing the concept of psychoanalysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

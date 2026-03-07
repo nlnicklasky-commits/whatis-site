@@ -1,7 +1,7 @@
 ---
 title: "What Is Human-Computer Interaction?"
 slug: human-computer-interaction
-description: "Human-computer interaction (HCI) studies how people use technology. Learn about usability, UX design, interface principles, and the future of HCI."
+description: "Human-computer interaction (HCI) studies how people use technology. Learn about usability, UX design, interface principles, and the future of HCI. Discover t..."
 category: technology
 tags: ["human-computer interaction", "hci", "ux design", "usability", "interface design", "computer science", "user experience"]
 heroImage: "/images/articles/human-computer-interaction-hero.webp"

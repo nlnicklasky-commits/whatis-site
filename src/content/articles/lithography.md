@@ -4,7 +4,7 @@ slug: lithography
 description: "Lithography is a printing technique based on the repulsion of oil and water. Learn about its invention, artistic uses, and modern industrial applications."
 category: arts-amp-culture
 tags: ["lithography", "printmaking", "printing", "art", "graphics", "Alois Senefelder"]
-heroImage: "/images/articles/lithography.webp"
+heroImage: "/images/articles/lithography-hero.webp"
 heroAlt: "Editorial photograph representing the concept of lithography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

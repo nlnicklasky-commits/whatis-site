@@ -161,7 +161,7 @@ After intelligence, personality is psychometrics' biggest domain.
 
 The dominant model in personality [psychology](/psychology) organizes personality into five broad dimensions: Openness to Experience, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (remembered by the acronym OCEAN). This structure emerged from factor-analyzing personality descriptors across many studies, languages, and cultures.
 
-The NEO Personality Inventory (NEO-PI-R) is the most well-validated Big Five measure. Each dimension is broken into six facets, giving a nuanced personality profile. Test-retest reliability over periods of years is around 0.60-0.80, suggesting personality is moderately stable but not fixed.
+The NEO Personality Inventory (NEO-PI-R) is the most well-validated Big Five measure. Each dimension is broken into six facets, giving a complex personality profile. Test-retest reliability over periods of years is around 0.60-0.80, suggesting personality is moderately stable but not fixed.
 
 ### The MBTI Controversy
 

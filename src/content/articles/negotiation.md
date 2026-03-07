@@ -1,10 +1,10 @@
 ---
 title: "What Is Negotiation?"
 slug: negotiation
-description: "Negotiation is a dialogue between parties aimed at reaching an agreement. Learn about strategies, tactics, BATNA, and how to negotiate effectively."
+description: "Negotiation is a dialogue between parties aimed at reaching an agreement. Learn about strategies, tactics, BATNA, and how to negotiate effectively. Discover ..."
 category: everyday-concepts
 tags: ["negotiation", "bargaining", "conflict resolution", "diplomacy", "agreement", "communication skills"]
-heroImage: "/images/articles/negotiation.webp"
+heroImage: "/images/articles/negotiation-hero.webp"
 heroAlt: "Editorial photograph representing the concept of negotiation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -22,7 +22,7 @@ externalSources:
     url: "https://www.gsb.stanford.edu/"
 faq:
   - q: "What is BATNA in negotiation?"
-    a: "BATNA stands for Best Alternative to a Negotiated Agreement — your best option if the current negotiation fails. Knowing your BATNA gives you leverage because you can walk away with confidence. A strong BATNA means you don't need to accept a bad deal. The concept was introduced by Roger Fisher and William Ury in their 1981 book Getting to Yes."
+    a: "BATNA stands for Best Alternative to a Negotiated Agreement — your best option if the current negotiation fails. Knowing your BATNA gives you take advantage of because you can walk away with confidence. A strong BATNA means you don't need to accept a bad deal. The concept was introduced by Roger Fisher and William Ury in their 1981 book Getting to Yes."
   - q: "What is the difference between distributive and integrative negotiation?"
     a: "Distributive negotiation treats the outcome as a fixed pie — one side's gain is the other's loss. Integrative negotiation looks for ways to expand the pie so both sides can gain. Most real negotiations involve elements of both, but integrative approaches generally produce better long-term outcomes and stronger relationships."
   - q: "Can negotiation skills be learned?"

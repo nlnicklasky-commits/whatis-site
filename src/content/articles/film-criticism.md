@@ -1,10 +1,10 @@
 ---
 title: "What Is Film Criticism?"
 slug: film-criticism
-description: "Film criticism analyzes and evaluates movies through artistic, cultural, and technical lenses. Learn about its history, methods, and top critics."
+description: "Film criticism analyzes and evaluates movies through artistic, cultural, and technical lenses. Learn about its history, methods, and top critics. Discover th..."
 category: arts-amp-culture
 tags: ["film", "cinema", "review", "analysis", "evaluation", "media studies"]
-heroImage: "/images/articles/film-criticism.webp"
+heroImage: "/images/articles/film-criticism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of film criticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "Who is considered the greatest film critic?"
     a: "Roger Ebert and Pauline Kael are the most commonly cited American critics. Ebert, who reviewed for the Chicago Sun-Times from 1967 until his death in 2013, was the first film critic to win a Pulitzer Prize. Kael wrote for The New Yorker from 1968-1991 and was famous for her passionate, combative style. Andre Bazin in France is considered the most influential theorist-critic."
   - q: "Has Rotten Tomatoes changed film criticism?"
-    a: "Significantly. Rotten Tomatoes aggregates critics' reviews into a single percentage score (fresh or rotten), which has become a major marketing tool. Critics worry this reduces nuanced analysis to a binary thumbs-up/thumbs-down. Studios have noticed — films with high Rotten Tomatoes scores can see box office bumps of 10-15%."
+    a: "Significantly. Rotten Tomatoes aggregates critics' reviews into a single percentage score (fresh or rotten), which has become a major marketing tool. Critics worry this reduces subtle analysis to a binary thumbs-up/thumbs-down. Studios have noticed — films with high Rotten Tomatoes scores can see box office bumps of 10-15%."
 ---
 
 # What Is Film Criticism?
@@ -65,9 +65,9 @@ American film criticism hit its peak influence between roughly 1960 and 2000. **
 
 Aggregation sites have changed the field dramatically. Rotten Tomatoes (launched 1998) and Metacritic (launched 2001) compile critics' reviews into single scores. A film's Rotten Tomatoes percentage has become a major [marketing](/marketing) tool — or liability.
 
-The problem, critics argue, is reductionism. A nuanced review that praises a film's ambition while noting its flaws gets reduced to "fresh" or "rotten." Two critics might give a film 6/10 for completely different reasons, but both count the same in the aggregate. The score captures consensus but loses specificity.
+The problem, critics argue, is reductionism. A detailed review that praises a film's ambition while noting its flaws gets reduced to "fresh" or "rotten." Two critics might give a film 6/10 for completely different reasons, but both count the same in the aggregate. The score captures consensus but loses specificity.
 
-Studios have adapted. Marketing campaigns now [trumpet](/trumpet) Rotten Tomatoes scores. Some studios have reportedly pressured critics to post positive reviews before release. The tail is wagging the dog — a system designed to summarize criticism is now influencing how films are made and marketed.
+Studios have adapted. Marketing campaigns now [trumpet](/trumpet) Rotten Tomatoes scores. Some studios have reportedly pressured critics to post positive reviews before release. The tail is wagging the dog — a system designed in short criticism is now influencing how films are made and marketed.
 
 ## Does Criticism Still Matter?
 

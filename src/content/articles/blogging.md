@@ -4,7 +4,7 @@ slug: blogging
 description: "Blogging is the practice of writing and publishing content on a website, typically in a conversational style, covering personal interests or professional."
 category: everyday-concepts
 tags: ["blogging", "writing", "content creation", "digital media", "web publishing", "online writing"]
-heroImage: "/images/articles/blogging.webp"
+heroImage: "/images/articles/blogging-hero.webp"
 heroAlt: "Editorial photograph representing the concept of blogging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

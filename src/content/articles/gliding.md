@@ -1,10 +1,10 @@
 ---
 title: "What Is Gliding?"
 slug: gliding
-description: "Gliding is the sport of flying engineless aircraft using natural air currents. Learn about sailplanes, thermal flying, and how to get started."
+description: "Gliding is the sport of flying engineless aircraft using natural air currents. Learn about sailplanes, thermal flying, and how to get started. Discover the k..."
 category: sports
 tags: ["gliding", "sailplane", "aviation", "thermals", "aerodynamics", "flight"]
-heroImage: "/images/articles/gliding.webp"
+heroImage: "/images/articles/gliding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gliding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Gliding?
 
-Gliding (also called soaring) is the sport and practice of flying aircraft without engines — sailplanes that stay aloft by finding and riding columns of rising air. It sounds impossible, and it feels like magic. A glider has no motor, no fuel, and no propeller. Once released from its tow, it's sustained entirely by the pilot's ability to read the sky and find lift. Experienced pilots routinely fly hundreds of miles, climb to altitudes above 30,000 feet, and stay airborne for hours — all without burning a drop of fuel.
+Gliding (also called soaring) is the sport and practice of [flying](/recreational-flying) aircraft without engines — sailplanes that stay aloft by finding and riding columns of rising air. It sounds impossible, and it feels like magic. A glider has no motor, no fuel, and no propeller. Once released from its tow, it's sustained entirely by the pilot's ability to read the sky and find lift. Experienced pilots routinely fly hundreds of miles, climb to altitudes above 30,000 feet, and stay airborne for hours — all without burning a drop of fuel.
 
-## How Engineless Flight Works
+## How Engineless [Flight](/flight-simulation) Works
 
 Every glider is constantly descending relative to the air around it. A modern competition sailplane descends at roughly 1-2 feet per second in calm air. But if the air itself is rising faster than the glider is sinking, the net result is climb.
 

@@ -4,7 +4,7 @@ slug: shop-management
 description: "Shop management covers the systems and practices used to run a retail store efficiently. Learn about inventory, staffing, merchandising, and profitability."
 category: business
 tags: ["shop management", "retail", "business operations", "management"]
-heroImage: "/images/articles/shop-management.webp"
+heroImage: "/images/articles/shop-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of shop management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: showmanship
 description: "Showmanship is the art of captivating an audience through performance, presence, and presentation skill. Learn what separates good from unforgettable."
 category: arts-amp-culture
 tags: ["showmanship", "performance", "stage presence", "entertainment", "charisma", "public speaking"]
-heroImage: "/images/articles/showmanship.webp"
+heroImage: "/images/articles/showmanship-hero.webp"
 heroAlt: "Editorial photograph representing the concept of showmanship"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

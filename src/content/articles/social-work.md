@@ -4,7 +4,7 @@ slug: social-work
 description: "Social work helps individuals, families, and communities overcome challenges and access resources. Learn about the profession, methods, and career paths."
 category: social-sciences
 tags: ["social work", "mental health", "community services", "child welfare", "counseling", "advocacy"]
-heroImage: "/images/articles/social-work.webp"
+heroImage: "/images/articles/social-work-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social work"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Clinical social workers (LCSWs) provide therapy and counseling, similar to psychologists and licensed counselors. But social work is broader — it also includes case management, advocacy, community organizing, policy work, and connecting clients with resources. Social workers treat the whole person in context, not just mental health symptoms. Many social workers don't do therapy at all."
 ---
 
-# What Is Social Work?
+# What Is [Social](/social-anthropology) Work?
 
 Social work is a profession dedicated to helping individuals, families, groups, and communities enhance their well-being and address problems caused by poverty, discrimination, mental illness, substance abuse, trauma, disability, and social injustice. Social workers connect people with resources, provide counseling, advocate for policy changes, and intervene in crises — from child abuse cases to homelessness to addiction recovery.
 

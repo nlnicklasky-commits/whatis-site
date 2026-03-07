@@ -30,7 +30,7 @@ faq:
   - q: "How does pragmatism differ from other philosophies?"
     a: "Unlike rationalism (which trusts abstract reasoning) or empiricism (which trusts sense data), pragmatism focuses on outcomes. It doesn't care whether an idea came from logic or observation—it cares whether believing and acting on that idea produces real, positive results."
   - q: "Is pragmatism still relevant today?"
-    a: "Absolutely. Pragmatism influences fields from psychology to public policy to software development. Its emphasis on testing ideas against real-world results, iterating based on feedback, and rejecting rigid ideologies makes it more relevant than ever in an era of rapid change."
+    a: "Absolutely. Pragmatism influences fields from psychology to public policy to software development. Its emphasis on testing ideas against real-world results, iterating based on feedback, and rejecting rigid ideologies makes it more relevant than ever in a time of rapid change."
   - q: "Does pragmatism mean you have no principles?"
     a: "No. Pragmatists can hold strong moral principles—they just believe those principles should be evaluated by their real consequences for human well-being, not treated as unchangeable dogma. Pragmatism isn't about being unprincipled; it's about being thoughtfully principled."
 ---

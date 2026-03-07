@@ -1,10 +1,10 @@
 ---
 title: "What Is Local History?"
 slug: local-history
-description: "Local history is the study of past events, people, and changes within a specific community, town, county, or region over time."
+description: "Local history is the study of past events, people, and changes within a specific community, town, county, or region over time. Discover the key facts, histor..."
 category: history
 tags: ["community history", "local history", "heritage", "genealogy", "archives"]
-heroImage: "/images/articles/local-history.webp"
+heroImage: "/images/articles/local-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of local history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Absolutely. Local history is one of the most accessible forms of historical research. You don't need an advanced degree — just curiosity, patience, and access to local archives and libraries. Many historical societies welcome volunteer researchers, and digitized records have made much primary source material available online."
 ---
 
+# What Is Local History?
 Local history is the study of the past as it unfolded in a specific place — a town, neighborhood, county, or region. It examines the people who lived there, the events that shaped their community, and the forces that made the place what it is today.
 
 This might sound small-scale compared to studying world wars or the rise and fall of empires. But here's the thing: all history is local somewhere. The Great Depression wasn't just a macroeconomic event — it was families in specific towns losing specific farms. The Industrial Revolution wasn't just a shift in production methods — it was a particular mill opening on a particular river, changing a particular community forever.
@@ -91,7 +92,7 @@ Digital technology has transformed the field. Digitized records, online database
 
 Local history shapes community identity in ways that matter practically, not just sentimentally.
 
-Understanding your community's history gives you context for current issues. Why is that neighborhood segregated? Why is that factory closed? Why is that building preserved while that one was demolished? These aren't random outcomes — they're products of specific decisions made by specific people at specific times. Knowing that [history](/history) helps you understand the present and participate more effectively in decisions about the future.
+Understanding your community's history gives you context for current issues. Why is that neighborhood segregated? Why is that factory closed? Why is that building preserved while that one was demolished? These aren't random outcomes — they're products of specific decisions made by specific people at specific times. Knowing that [history](/histology) helps you understand the present and participate more effectively in decisions about the future.
 
 Heritage tourism — people visiting places because of their historical significance — is a significant economic force. Communities that preserve and interpret their history attract visitors, support local businesses, and create jobs. The National Trust for Historic Preservation estimates that heritage tourism contributes over $170 billion annually to the U.S. economy.
 

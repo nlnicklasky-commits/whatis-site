@@ -1,10 +1,10 @@
 ---
 title: "What Is Geopolitics?"
 slug: geopolitics
-description: "Geopolitics studies how geography, resources, and territorial control shape international power dynamics, foreign policy, and global conflict."
+description: "Geopolitics studies how geography, resources, and territorial control shape international power dynamics, foreign policy, and global conflict. Discover the k..."
 category: history
 tags: ["geopolitics", "international relations", "geography", "political science", "global power"]
-heroImage: "/images/articles/geopolitics.webp"
+heroImage: "/images/articles/geopolitics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of geopolitics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

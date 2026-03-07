@@ -1,10 +1,10 @@
 ---
 title: "What Is Dentistry?"
 slug: dentistry
-description: "Dentistry is the branch of medicine focused on diagnosing, treating, and preventing diseases and conditions of the teeth, gums, jaw, and mouth."
+description: "Dentistry is the branch of medicine focused on diagnosing, treating, and preventing diseases and conditions of the teeth, gums, jaw, and mouth. Discover the ..."
 category: health-amp-wellness
 tags: ["dentistry", "oral health", "dental care", "teeth", "medicine"]
-heroImage: "/images/articles/dentistry.webp"
+heroImage: "/images/articles/dentistry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of dentistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ Just as medicine has cardiologists, neurologists, and surgeons, dentistry has re
 
 **Oral and maxillofacial surgery** is the most extensive dental specialty, requiring 4-6 years of hospital-based surgical residency. Oral surgeons remove impacted wisdom teeth, place implants, perform corrective jaw surgery (orthognathic surgery), treat facial trauma, and manage oral cancers. Many are trained in both dental and medical procedures.
 
-**Pediatric dentistry** focuses on children from infancy through adolescence. Pediatric dentists complete 2-3 years of additional training in child [development](/developmental-[psychology](/psychology)), behavior [management](/management), and conditions specific to growing mouths. Their offices are designed to reduce anxiety — think cartoon murals, ceiling-mounted TVs, and treasure chests.
+**Pediatric dentistry** focuses on children from infancy through adolescence. Pediatric dentists complete 2-3 years of additional training in child [development](/web-development)), behavior [management](/management), and conditions specific to growing mouths. Their offices are designed to reduce anxiety — think cartoon murals, ceiling-mounted TVs, and treasure chests.
 
 **Prosthodontics** specializes in replacing missing teeth and restoring damaged ones with prosthetics — crowns, bridges, dentures, and implant-supported restorations. If you need a full-mouth reconstruction, a prosthodontist is your specialist.
 

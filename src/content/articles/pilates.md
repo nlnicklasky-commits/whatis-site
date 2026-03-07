@@ -4,7 +4,7 @@ slug: pilates
 description: "Pilates is a low-impact exercise method focused on core strength, flexibility, and controlled movement. Learn about mat and reformer Pilates and their benefits."
 category: everyday-concepts
 tags: ["pilates", "exercise", "fitness", "core strength", "flexibility", "wellness"]
-heroImage: "/images/articles/pilates.webp"
+heroImage: "/images/articles/pilates-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pilates"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

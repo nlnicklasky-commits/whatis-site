@@ -4,7 +4,7 @@ slug: international-law
 description: "International law is the set of rules governing relations between nations. Learn about treaties, customary law, the UN system, and how enforcement actually."
 category: law
 tags: ["international law", "treaties", "customary law", "un", "human rights", "diplomacy"]
-heroImage: "/images/articles/international-law.webp"
+heroImage: "/images/articles/international-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of international law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

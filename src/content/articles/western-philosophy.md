@@ -4,7 +4,7 @@ slug: western-philosophy
 description: "Western philosophy is the tradition of rational inquiry from ancient Greece to modern times. Learn about major thinkers, schools, and the questions they."
 category: science-technology
 tags: ["western philosophy", "philosophy", "ancient Greece", "ethics", "metaphysics", "epistemology"]
-heroImage: "/images/articles/western-philosophy.webp"
+heroImage: "/images/articles/western-philosophy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of western philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

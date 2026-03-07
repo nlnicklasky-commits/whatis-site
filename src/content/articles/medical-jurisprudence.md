@@ -1,10 +1,10 @@
 ---
 title: "What Is Medical Jurisprudence?"
 slug: medical-jurisprudence
-description: "Medical jurisprudence applies medical knowledge to legal questions. Learn how forensic medicine, malpractice law, and ethics intersect in courts."
+description: "Medical jurisprudence applies medical knowledge to legal questions. Learn how forensic medicine, malpractice law, and ethics intersect in courts. Discover th..."
 category: law
 tags: ["medicine", "law", "forensic medicine"]
-heroImage: "/images/articles/medical-jurisprudence.webp"
+heroImage: "/images/articles/medical-jurisprudence-hero.webp"
 heroAlt: "Editorial photograph representing the concept of medical jurisprudence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -55,7 +55,7 @@ A forensic pathologist performing an autopsy is answering specific legal questio
 
 The process is methodical. External examination comes first — documenting injuries, scars, identifying marks. Then the internal examination: organs are removed, weighed, examined, and sampled for microscopic analysis. Blood and other fluids go to [toxicology](/toxicology). Stomach contents are analyzed. Tissue samples are preserved.
 
-Forensic medicine also encompasses forensic toxicology (identifying drugs and poisons in biological specimens), forensic [psychiatry](/psychiatry) (evaluating mental state for legal purposes), forensic odontology (dental identification of remains), and [forensic anthropology](/forensic-[anthropology](/anthropology)) (analyzing skeletal remains).
+Forensic medicine also encompasses forensic toxicology (identifying drugs and poisons in biological specimens), forensic [psychiatry](/psychiatry) (evaluating mental state for legal purposes), forensic odontology (dental identification of remains), and [forensic anthropology](/forestry)) (analyzing skeletal remains).
 
 Here's something that might surprise you: in the United States, only about 20% of deaths are investigated by a medical examiner or coroner. The rest — the vast majority — are certified by the decedent's treating physician without any forensic investigation at all.
 

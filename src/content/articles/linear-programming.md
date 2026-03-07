@@ -1,7 +1,7 @@
 ---
 title: "What Is Linear Programming?"
 slug: linear-programming
-description: "Linear programming optimizes outcomes under constraints. Learn about the simplex method, real-world uses, and how LP shapes billion-dollar decisions."
+description: "Linear programming optimizes outcomes under constraints. Learn about the simplex method, real-world uses, and how LP shapes billion-dollar decisions. Discove..."
 category: science
 tags: ["linear programming", "optimization", "mathematics", "operations research", "simplex method", "constraints", "decision making"]
 heroImage: "/images/articles/linear-programming-hero.webp"

@@ -4,7 +4,7 @@ slug: coppersmithing
 description: "Coppersmithing is the craft of shaping copper into functional and decorative objects. Learn about techniques, history, tools, and modern applications."
 category: arts-amp-culture
 tags: ["crafts", "metalworking", "artisan", "copper", "traditional crafts", "handicrafts"]
-heroImage: "/images/articles/coppersmithing.webp"
+heroImage: "/images/articles/coppersmithing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of coppersmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -47,7 +47,7 @@ Copper is among the most workable metals. Its malleability allows coppersmiths t
 
 **Planishing** smooths the surface after raising, using a flat-faced hammer to remove tool marks and create an even finish. A well-planished piece has a beautiful, slightly textured surface that catches light differently than machine-finished metal.
 
-**Chasing and repousse** create decorative relief patterns. Repousse works from the back of the metal, pushing the design outward. Chasing works from the front, refining details. Together, they can produce intricate three-dimensional designs — flowers, faces, geometric patterns — without removing any material.
+**Chasing and repousse** create decorative relief patterns. Repousse works from the back of the metal, pushing the design outward. Chasing works from the front, refining details. Together, they can produce elaborate three-dimensional designs — flowers, faces, geometric patterns — without removing any material.
 
 **[Soldering](/soldering) and brazing** join pieces together using a filler metal with a lower melting point than copper itself. Silver solder is common for fine work; brass brazing works for structural joints.
 

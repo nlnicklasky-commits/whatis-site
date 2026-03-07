@@ -4,7 +4,7 @@ slug: detective-fiction
 description: "Detective fiction is a genre centered on solving crimes through investigation and logic. Explore its origins, famous detectives, subgenres, and appeal."
 category: arts-amp-culture
 tags: ["detective fiction", "arts-amp-culture"]
-heroImage: "/images/articles/detective-fiction.webp"
+heroImage: "/images/articles/detective-fiction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of detective fiction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

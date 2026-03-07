@@ -1,7 +1,7 @@
 ---
 title: "What Is Neurochemistry?"
 slug: neurochemistry
-description: "Neurochemistry studies the chemical processes in the brain, including neurotransmitters, receptors, and how brain chemistry shapes mood and behavior."
+description: "Neurochemistry studies the chemical processes in the brain, including neurotransmitters, receptors, and how brain chemistry shapes mood and behavior. Discove..."
 category: science
 tags: ["neurochemistry", "neurotransmitters", "neuroscience", "brain chemistry", "psychopharmacology", "biochemistry"]
 heroImage: "/images/articles/neurochemistry-hero.webp"
@@ -143,7 +143,7 @@ When a neurotransmitter binds to a metabotropic receptor, it doesn't directly op
 
 **Calcium signaling** — calcium itself acts as a second messenger. It activates CaMKII (calcium/calmodulin-dependent protein kinase II), which is the most abundant protein at excitatory synapses and is essential for long-term potentiation — the cellular basis of learning.
 
-These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-[neuroscience](/neuroscience)).
+These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-bias)).
 
 ## Neurochemistry of Mental Illness
 

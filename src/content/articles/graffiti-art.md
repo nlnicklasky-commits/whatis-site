@@ -4,7 +4,7 @@ slug: graffiti-art
 description: "Graffiti art is visual expression created on public surfaces, from tags to murals. Learn about its origins, techniques, legal issues, and cultural impact."
 category: everyday-concepts
 tags: ["graffiti art", "street art", "urban art", "murals", "spray paint", "culture"]
-heroImage: "/images/articles/graffiti-art.webp"
+heroImage: "/images/articles/graffiti-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of graffiti art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

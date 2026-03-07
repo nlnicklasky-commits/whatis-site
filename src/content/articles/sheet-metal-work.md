@@ -51,7 +51,7 @@ Common sheet metals include:
 
 **Stainless steel** resists corrosion thanks to its chromium content (at least 10.5%). Used for kitchen equipment, medical devices, architectural features, and anywhere appearance and hygiene matter. More expensive and harder to work than mild steel.
 
-**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerospace-[engineering](/engineering)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
+**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerodynamics)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
 
 **Galvanized steel** is mild steel coated with a thin layer of zinc to prevent rust. The standard material for HVAC ductwork, outdoor enclosures, and agricultural equipment.
 
@@ -69,7 +69,7 @@ Guillotine shears are the most common — a fixed lower blade and a moving upper
 
 ### Laser Cutting
 
-A focused laser beam melts, burns, or vaporizes metal along a programmed path. CNC (computer numerical control) laser cutters can produce extraordinarily precise cuts — accuracy within 0.1mm — in virtually any shape. Complex contours, tiny holes, intricate patterns — if you can draw it in CAD software, a laser cutter can cut it.
+A focused laser beam melts, burns, or vaporizes metal along a programmed path. CNC (computer numerical control) laser cutters can produce extraordinarily precise cuts — accuracy within 0.1mm — in virtually any shape. Complex contours, tiny holes, detailed patterns — if you can draw it in CAD software, a laser cutter can cut it.
 
 CO2 lasers dominated for decades, but fiber lasers have largely replaced them. Fiber lasers are more energy-efficient, require less maintenance, and cut faster — particularly in thin materials. A modern fiber laser cutting machine can cut 1mm mild steel at speeds exceeding 30 meters per minute.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Plasma Physics?"
 slug: plasma-physics
-description: "Plasma physics studies ionized gas — the fourth state of matter that makes up 99% of the visible universe, from stars to fusion reactors."
+description: "Plasma physics studies ionized gas — the fourth state of matter that makes up 99% of the visible universe, from stars to fusion reactors. Discover the key fa..."
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"
@@ -201,7 +201,7 @@ And fundamental plasma physics continues to reveal surprises. Turbulence in plas
 
 ## The Bottom Line
 
-Plasma physics studies the most common state of matter in the universe — a state that's simultaneously all around us and deeply unfamiliar. It underpins our understanding of stars, the space between them, and some of the most promising [alternative-energy](/alternative-energy) technologies on Earth.
+Plasma physics studies the most common state of matter in the universe — a state that's simultaneously all around us and deeply unfamiliar. It supports our understanding of stars, the space between them, and some of the most promising [alternative-energy](/alternative-energy) technologies on Earth.
 
 The field is hard. The math is challenging, the experiments are expensive, and the plasma itself seems to enjoy defying expectations. But the payoff — understanding how 99% of visible matter behaves, and potentially unlocking a nearly limitless clean energy source — is worth the difficulty.
 

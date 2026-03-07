@@ -1,7 +1,7 @@
 ---
 title: "What Is Ethology?"
 slug: ethology
-description: "Ethology is the scientific study of animal behavior in natural conditions — instinct, learning, communication, and key figures in the field."
+description: "Ethology is the scientific study of animal behavior in natural conditions — instinct, learning, communication, and key figures in the field. Discover the key..."
 category: science
 tags: ["ethology", "animal behavior", "zoology", "biology", "ecology", "instinct", "learning"]
 heroImage: "/images/articles/ethology-hero.webp"

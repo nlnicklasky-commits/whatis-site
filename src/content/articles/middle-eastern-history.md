@@ -1,10 +1,10 @@
 ---
 title: "What Is Middle Eastern History?"
 slug: middle-eastern-history
-description: "Middle Eastern history spans the birth of civilization to modern geopolitics. Explore the empires, religions, and conflicts that shaped the region."
+description: "Middle Eastern history spans the birth of civilization to modern geopolitics. Explore the empires, religions, and conflicts that shaped the region. Discover ..."
 category: history
 tags: ["history", "middle east", "islamic history"]
-heroImage: "/images/articles/middle-eastern-history.webp"
+heroImage: "/images/articles/middle-eastern-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of middle eastern history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

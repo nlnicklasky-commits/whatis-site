@@ -1,10 +1,10 @@
 ---
 title: "What Is Marathon Running?"
 slug: marathon-running
-description: "Marathon running is the sport of racing 26.2 miles on foot. Learn about training, history, physiology, and how to prepare for your first marathon."
+description: "Marathon running is the sport of racing 26.2 miles on foot. Learn about training, history, physiology, and how to prepare for your first marathon. Discover t..."
 category: everyday-concepts
 tags: ["marathon running", "running", "endurance sports", "fitness", "athletics", "distance running"]
-heroImage: "/images/articles/marathon-running.webp"
+heroImage: "/images/articles/marathon-running-hero.webp"
 heroAlt: "Editorial photograph representing the concept of marathon running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,10 +1,10 @@
 ---
 title: "What Is Object-Oriented Programming?"
 slug: object-oriented-programming
-description: "Object-oriented programming organizes code into objects that combine data and behavior. Learn about classes, inheritance, and OOP principles."
+description: "Object-oriented programming organizes code into objects that combine data and behavior. Learn about classes, inheritance, and OOP principles. Discover the ke..."
 category: everyday-concepts
 tags: ["object oriented programming", "software development", "coding", "classes", "inheritance", "polymorphism"]
-heroImage: "/images/articles/object-oriented-programming.webp"
+heroImage: "/images/articles/object-oriented-programming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of object-oriented programming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

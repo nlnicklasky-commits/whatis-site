@@ -1,7 +1,7 @@
 ---
 title: "What Is Organometallic Chemistry?"
 slug: organometallic-chemistry
-description: "Organometallic chemistry studies compounds with metal-carbon bonds, powering catalysis breakthroughs in pharmaceuticals, polymers, and green energy."
+description: "Organometallic chemistry studies compounds with metal-carbon bonds, powering catalysis breakthroughs in pharmaceuticals, polymers, and green energy. Discover..."
 category: science
 tags: ["organometallic chemistry", "catalysis", "organic synthesis", "metal-carbon bond", "inorganic chemistry", "homogeneous catalysis"]
 heroImage: "/images/articles/organometallic-chemistry-hero.webp"
@@ -89,7 +89,7 @@ The later development of metallocene catalysts (single-site catalysts based on s
 
 ### C-H Activation: The Frontier
 
-Most organic molecules contain C-H bonds — carbon bonded to hydrogen. These bonds are strong (about 400-440 kJ/mol) and generally unreactive. If you could selectively break specific C-H bonds and replace the hydrogen with something else, you could streamline synthesis dramatically, skipping the installation of reactive "handles" (like halides) that traditional methods require.
+Most organic molecules contain C-H bonds — carbon bonded to hydrogen. These bonds are strong (about 400-440 kJ/mol) and generally unreactive. If you could selectively break specific C-H bonds and replace the hydrogen with something else, you could make more efficient synthesis dramatically, skipping the installation of reactive "handles" (like halides) that traditional methods require.
 
 C-H activation uses organometallic catalysts to do exactly this. A metal center inserts into a specific C-H bond, and subsequent steps introduce a new functional group. The field has exploded since 2000, with palladium, rhodium, iridium, and ruthenium catalysts achieving selective C-H functionalization in increasingly complex molecules.
 

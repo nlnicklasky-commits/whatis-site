@@ -1,7 +1,7 @@
 ---
 title: "What Is Ecology?"
 slug: ecology
-description: "Ecology is the scientific study of how organisms interact with each other and their physical environment, from individual behavior to global systems."
+description: "Ecology is the scientific study of how organisms interact with each other and their physical environment, from individual behavior to global systems. Discove..."
 category: science
 tags: ["ecology", "ecosystems", "biodiversity", "environmental science", "conservation", "biology", "organisms"]
 heroImage: "/images/articles/ecology-hero.webp"

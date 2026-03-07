@@ -4,7 +4,7 @@ slug: historical-witchcraft
 description: "Historical witchcraft covers centuries of beliefs, accusations, and trials tied to magic and sorcery. Learn how witch hunts reshaped law, religion, and society."
 category: history
 tags: ["historical witchcraft", "witchcraft", "witch hunts", "early modern history", "folklore"]
-heroImage: "/images/articles/historical-witchcraft.webp"
+heroImage: "/images/articles/historical-witchcraft-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical witchcraft"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

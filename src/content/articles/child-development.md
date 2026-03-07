@@ -1,10 +1,10 @@
 ---
 title: "What Is Child Development?"
 slug: child-development
-description: "Child development is the study of how children grow physically, cognitively, emotionally, and socially from birth through adolescence."
+description: "Child development is the study of how children grow physically, cognitively, emotionally, and socially from birth through adolescence. Discover the key facts..."
 category: health-amp-wellness
 tags: ["child development", "psychology", "education", "parenting", "childhood"]
-heroImage: "/images/articles/child-development.webp"
+heroImage: "/images/articles/child-development-hero.webp"
 heroAlt: "Editorial photograph representing the concept of child development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Parents should consult a pediatrician if their child is not meeting milestones significantly later than typical — for example, not babbling by 12 months, not speaking any words by 16 months, not walking by 18 months, or showing a loss of previously acquired skills at any age."
 ---
 
+# What Is Child Development?
 Child development is the scientific study of how children change and grow from conception through adolescence — physically, cognitively, emotionally, and socially. It's one of the most researched areas in [psychology](/psychology) and one of the most practical, because understanding how kids develop helps parents, teachers, doctors, and policymakers make better decisions.
 
 Every child develops on their own timeline, but the broad patterns are remarkably consistent. A six-month-old in Tokyo and a six-month-old in Toronto are hitting roughly the same physical milestones at roughly the same time. That universality tells us something profound about human biology — and about what happens when normal development gets disrupted.
@@ -79,7 +80,7 @@ The timeline is roughly consistent across cultures and languages. Cooing by 2-3 
 
 The "language explosion" between ages 18 and 24 months is genuinely explosive — children go from a handful of words to several hundred in a matter of months. They're learning 8-10 new words per day, most of them after just one or two exposures.
 
-What drives this? Partly biology — the human brain appears to be specifically wired for language acquisition. But environment matters enormously. The famous "30 million word gap" study (Hart and Risley, 1995) found that children from professional families heard roughly 30 million more words by age 3 than children from low-income families. Recent research has nuanced these numbers, but the core finding — that the quantity and quality of language exposure profoundly affects development — remains solid.
+What drives this? Partly biology — the human brain appears to be specifically wired for language acquisition. But environment matters enormously. The famous "30 million word gap" study (Hart and Risley, 1995) found that children from professional families heard roughly 30 million more words by age 3 than children from low-income families. Recent research has detailed these numbers, but the core finding — that the quantity and quality of language exposure profoundly affects development — remains solid.
 
 ## Social and Emotional Development
 
@@ -97,7 +98,7 @@ The old "nature versus nurture" debate is dead — replaced by a much more inter
 
 Genes set the range of developmental possibilities. Environment determines where within that range a child ends up. A child might have genetic potential for high intelligence, but malnutrition, neglect, or toxic stress can prevent that potential from being realized. Conversely, a supportive environment can maximize whatever genetic potential exists.
 
-Epigenetics has made this even more interesting. Environmental experiences can actually change how genes are expressed — turning them "on" or "off" without altering the DNA itself. Early adversity can create epigenetic changes that affect stress response systems for years, even decades. This isn't destiny — epigenetic changes can sometimes be reversed — but it underscores just how much early experience matters.
+Epigenetics has made this even more interesting. Environmental experiences can actually change how genes are expressed — turning them "on" or "off" without altering the DNA itself. Early adversity can create epigenetic changes that affect stress response systems for years, even decades. This isn't destiny — epigenetic changes can sometimes be reversed — but it makes clear just how much early experience matters.
 
 ## When Development Doesn't Follow the Typical Path
 

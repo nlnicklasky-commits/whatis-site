@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Logic?"
 slug: the-history-of-logic
-description: "The history of logic traces how humans developed formal reasoning, from Aristotle's syllogisms to modern symbolic logic and computer science."
+description: "The history of logic traces how humans developed formal reasoning, from Aristotle's syllogisms to modern symbolic logic and computer science. Discover the ke..."
 category: history
 tags: ["history of logic", "logic", "philosophy", "aristotle", "formal logic"]
-heroImage: "/images/articles/the-history-of-logic.webp"
+heroImage: "/images/articles/the-history-of-logic-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

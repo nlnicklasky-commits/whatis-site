@@ -4,7 +4,7 @@ slug: underwater-welding
 description: "Underwater welding joins metals beneath the water's surface using specialized techniques. Learn about wet and dry methods, risks, training, and career paths."
 category: technology
 tags: ["underwater welding", "welding", "marine engineering", "diving", "construction"]
-heroImage: "/images/articles/underwater-welding.webp"
+heroImage: "/images/articles/underwater-welding-hero.webp"
 heroAlt: "Editorial photograph representing the concept of underwater welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -109,7 +109,7 @@ A typical offshore structure sits in water ranging from 20 to 300+ meters deep. 
 
 Inspecting and repairing ship hulls without dry-docking saves enormous time and money. A large container ship might cost $50,000-100,000 per day in dry-dock fees plus lost revenue. If a diver can weld a patch on a corroded hull plate while the ship is alongside a pier, the savings are obvious.
 
-Most navies maintain teams of diver-welders for emergency ship repairs. The U.S. Navy's underwater [construction](/construction) teams (UCTs) train extensively in underwater [welding and cutting](/civil-[engineering](/engineering)) for both routine maintenance and battle damage repair.
+Most navies maintain teams of diver-welders for emergency ship repairs. The U.S. Navy's underwater [construction](/construction) teams (UCTs) train extensively in underwater [welding and cutting](/civil-law)) for both routine maintenance and battle damage repair.
 
 ### Bridges and Dams
 

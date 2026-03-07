@@ -4,7 +4,7 @@ slug: watchmaking
 description: "Watchmaking is the art and science of designing and building timepieces. Learn about mechanical movements, complications, Swiss watchmaking, and horology."
 category: arts-amp-culture
 tags: ["watchmaking", "horology", "craftsmanship", "mechanical watches", "Swiss watches", "precision"]
-heroImage: "/images/articles/watchmaking.webp"
+heroImage: "/images/articles/watchmaking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of watchmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Watchmaking?
 
-Watchmaking — formally called horology — is the craft of designing, building, and maintaining timepieces. At its most basic, it's about making a device that measures time accurately. At its most refined, it's about creating miniature mechanical marvels containing hundreds of hand-finished parts that can run for decades with periodic maintenance. The fact that we still make and buy mechanical watches when a $10 quartz watch keeps better time tells you that watchmaking is about more than just telling time.
+Watchmaking — formally called horology — is the craft of designing, building, and maintaining timepieces. At its most basic, it's about [making](/clock-making) a device that measures time accurately. At its most refined, it's about creating miniature mechanical marvels containing hundreds of hand-finished parts that can run for decades with periodic maintenance. The fact that we still make and buy mechanical watches when a $10 quartz watch keeps better time tells you that watchmaking is about more than just telling time.
 
 ## How a Mechanical Watch Works
 
@@ -47,7 +47,7 @@ The mechanical watch movement is one of the most elegant [engineering](/engineer
 
 These components are tiny. A typical watch movement is roughly 25-30mm in diameter and 3-6mm thick. Individual screws can be smaller than a grain of salt. Working at this scale requires specialized tools, magnification, and steady hands.
 
-## Complications: Making It More Complex
+## Complications: [Making](/violin-making) It More Complex
 
 A "complication" in watchmaking is any function beyond basic hour-minute-second timekeeping. The name is literal — each function complicates the mechanism.
 

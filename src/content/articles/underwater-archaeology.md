@@ -4,7 +4,7 @@ slug: underwater-archaeology
 description: "Underwater archaeology studies human history through submerged sites — shipwrecks, sunken cities, and artifacts preserved beneath oceans, lakes, and rivers."
 category: history
 tags: ["underwater archaeology", "shipwrecks", "maritime", "conservation"]
-heroImage: "/images/articles/underwater-archaeology.webp"
+heroImage: "/images/articles/underwater-archaeology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of underwater archaeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

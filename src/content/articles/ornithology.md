@@ -1,7 +1,7 @@
 ---
 title: "What Is Ornithology?"
 slug: ornithology
-description: "Ornithology is the scientific study of birds — their anatomy, behavior, evolution, ecology, and conservation across roughly 10,000 living species."
+description: "Ornithology is the scientific study of birds — their anatomy, behavior, evolution, ecology, and conservation across roughly 10,000 living species. Discover t..."
 category: science
 tags: ["ornithology", "birds", "zoology", "avian biology", "bird watching", "ecology", "conservation"]
 heroImage: "/images/articles/ornithology-hero.webp"

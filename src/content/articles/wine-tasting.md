@@ -4,7 +4,7 @@ slug: wine-tasting
 description: "Wine tasting is the sensory evaluation of wine's appearance, aroma, flavor, and finish. Learn tasting techniques, common terms, and how to develop your palate."
 category: lifestyle
 tags: ["wine tasting", "wine", "sommelier", "beverages", "food and drink", "sensory evaluation"]
-heroImage: "/images/articles/wine-tasting.webp"
+heroImage: "/images/articles/wine-tasting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wine tasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Studies show mixed results. In blind tastings, experts can generally distinguish quality levels, but price correlation is imperfect. A famous 2008 study by Robin Goldstein found that non-expert tasters actually slightly preferred cheaper wines in blind conditions. However, trained tasters showed more consistent quality assessment. The honest answer: there's often a quality difference between $10 and $30 wines, diminishing returns between $30 and $100, and mostly brand and scarcity pricing above $100."
 ---
 
-# What Is Wine Tasting?
+# What Is [Wine](/wine-making) Tasting?
 
 Wine tasting is the practice of evaluating wine through systematic sensory analysis — examining its appearance, smell, taste, and overall character to assess quality, identify characteristics, and (frankly) decide whether you like it. It ranges from casual sipping at a winery's tasting bar to the formal, structured evaluations performed by professional sommeliers and critics. The underlying skill set is the same at every level: paying attention to what your senses are telling you.
 

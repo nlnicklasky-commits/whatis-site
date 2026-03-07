@@ -1,10 +1,10 @@
 ---
 title: "What Is Film Direction?"
 slug: film-direction
-description: "Film direction is the art of guiding a movie's creative vision, from script to screen. Learn what directors do, key techniques, and famous auteurs."
+description: "Film direction is the art of guiding a movie's creative vision, from script to screen. Learn what directors do, key techniques, and famous auteurs. Discover ..."
 category: everyday-concepts
 tags: ["film direction", "filmmaking", "cinema", "directing", "movies", "storytelling"]
-heroImage: "/images/articles/film-direction.webp"
+heroImage: "/images/articles/film-direction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of film direction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,7 +35,7 @@ Film direction is the process of translating a screenplay into a finished motion
 
 ## What Directors Actually Do
 
-The short answer: everything creative. The longer answer is more nuanced.
+The short answer: everything creative. The longer answer is more complex.
 
 **Pre-production** is where the director's vision takes shape. They work with the screenwriter to refine the script. They cast actors — arguably the most consequential decision a director makes. They collaborate with the production designer on sets, the costume designer on wardrobe, and the cinematographer (Director of Photography) on visual style. They create storyboards or shot lists planning every scene.
 

@@ -4,7 +4,7 @@ slug: irish-history
 description: "Irish history spans ancient Celtic culture through British rule, the Great Famine, and independence. Learn about the key events that shaped modern Ireland."
 category: history
 tags: ["irish history", "ireland", "great famine", "celtic", "british rule", "independence"]
-heroImage: "/images/articles/irish-history.webp"
+heroImage: "/images/articles/irish-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of irish history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

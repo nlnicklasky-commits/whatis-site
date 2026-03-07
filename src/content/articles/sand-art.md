@@ -1,10 +1,10 @@
 ---
 title: "What Is Sand Art?"
 slug: sand-art
-description: "Sand art encompasses creative works made from or with sand, including sculptures, paintings, animation, and mandala designs."
+description: "Sand art encompasses creative works made from or with sand, including sculptures, paintings, animation, and mandala designs. Discover the key facts, history,..."
 category: arts-amp-culture
 tags: ["sand", "art", "sculpture", "beach art", "sandcastle", "temporary art"]
-heroImage: "/images/articles/sand-art.webp"
+heroImage: "/images/articles/sand-art-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sand art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -75,7 +75,7 @@ This work sits at the intersection of art and environmental performance. The tid
 
 Layered sand art in bottles — creating images or patterns by pouring different colored sands into glass containers — is a [folk art](/folk-art) tradition found in various cultures and a popular craft at fairs and tourist destinations. At its simplest, it's alternating colored layers. At its most sophisticated, artists create detailed scenes — palm trees, camels, buildings — by carefully manipulating the sand layers with thin tools.
 
-Jordan's sand bottle tradition is particularly developed, with artisans in Petra and other tourist sites creating intricate desert scenes inside narrow glass bottles. The skill is genuine — one wrong poke and the entire image collapses.
+Jordan's sand bottle tradition is particularly developed, with artisans in Petra and other tourist sites creating complex desert scenes inside narrow glass bottles. The skill is genuine — one wrong poke and the entire image collapses.
 
 ## Why Sand?
 

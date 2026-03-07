@@ -4,7 +4,7 @@ slug: tropical-ecology
 description: "Tropical ecology studies life in Earth's warmest regions, from rainforest canopies to coral reefs. Learn about biodiversity, nutrient cycles, and conservation."
 category: science
 tags: ["tropical ecology", "ecology", "biodiversity", "rainforest", "conservation", "ecosystems"]
-heroImage: "/images/articles/tropical-ecology.webp"
+heroImage: "/images/articles/tropical-ecology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tropical ecology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

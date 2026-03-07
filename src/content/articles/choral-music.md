@@ -1,10 +1,10 @@
 ---
 title: "What Is Choral Music?"
 slug: choral-music
-description: "Choral music is vocal music written for and performed by a choir — an ensemble of singers performing together, typically in multiple voice parts."
+description: "Choral music is vocal music written for and performed by a choir — an ensemble of singers performing together, typically in multiple voice parts. Discover th..."
 category: arts-amp-culture
 tags: ["choral music", "choir", "singing", "vocal music", "classical music", "performance"]
-heroImage: "/images/articles/choral-music.webp"
+heroImage: "/images/articles/choral-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of choral music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

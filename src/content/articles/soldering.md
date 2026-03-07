@@ -4,7 +4,7 @@ slug: soldering
 description: "Soldering is the process of joining metals using a filler alloy melted at low temperatures. Learn about techniques, tools, flux, and common applications."
 category: technology
 tags: ["soldering", "electronics", "metalwork", "circuit board", "welding", "manufacturing"]
-heroImage: "/images/articles/soldering.webp"
+heroImage: "/images/articles/soldering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soldering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

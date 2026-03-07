@@ -4,7 +4,7 @@ slug: pre-columbian-history
 description: "Pre-Columbian history covers the Americas before 1492, from early migrations to the Maya, Aztec, and Inca empires. Explore their achievements and legacy."
 category: history
 tags: ["pre-columbian history", "indigenous americas", "mesoamerica", "maya", "inca"]
-heroImage: "/images/articles/pre-columbian-history.webp"
+heroImage: "/images/articles/pre-columbian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of pre-columbian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -79,7 +79,7 @@ What the Maya achieved is extraordinary by any standard:
 
 **Astronomy.** Maya astronomers calculated the length of the solar year to 365.2420 days. The actual figure is 365.2422 days — an error of roughly 0.0001%. They tracked Venus's synodic period to within two hours of the modern measurement. They did this without telescopes, without metal tools, and without the mathematical notation that European astronomers relied on.
 
-**[Architecture](/architecture).** Cities like Tikal, Palenque, Calakmul, and Copan featured massive stone pyramids, elaborate palace complexes, ball courts, and sophisticated [water management](/water-[management](/management)) systems. Tikal's Temple IV rises 70 meters above the jungle floor. At its peak around 700 CE, Tikal may have housed 60,000-100,000 people.
+**[Architecture](/architecture).** Cities like Tikal, Palenque, Calakmul, and Copan featured massive stone pyramids, elaborate palace complexes, ball courts, and sophisticated [water management](/water-law)) systems. Tikal's Temple IV rises 70 meters above the jungle floor. At its peak around 700 CE, Tikal may have housed 60,000-100,000 people.
 
 The Maya "collapse" — the abandonment of major southern lowland cities between roughly 800 and 1000 CE — is one of history's great puzzles. Drought, warfare, overpopulation, environmental degradation, and political fragmentation all likely contributed. But the Maya didn't disappear. Millions of Maya people live in Mexico, Guatemala, Belize, and Honduras today, and Maya languages are still spoken by approximately 6 million people.
 

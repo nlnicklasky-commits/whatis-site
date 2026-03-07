@@ -4,7 +4,7 @@ slug: stichomancy
 description: "Stichomancy is the practice of seeking guidance by opening a book to a random page and reading the passage found there. Learn its history, methods, and legacy."
 category: philosophy
 tags: ["divination", "stichomancy", "bibliomancy", "fortune telling", "history", "literature"]
-heroImage: "/images/articles/stichomancy.webp"
+heroImage: "/images/articles/stichomancy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of stichomancy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -133,7 +133,7 @@ This is essentially the hermeneutic position, and it applies far beyond stichoma
 
 Carl Jung proposed the concept of synchronicity — meaningful coincidences that aren't causally connected but share a common meaning. Jung used the *I Ching* regularly and considered it a legitimate tool for accessing the unconscious mind. He didn't claim that supernatural forces were at work; rather, he suggested that the mind and the world are connected in ways that transcend simple cause and effect.
 
-Most scientists consider synchronicity unfalsifiable and therefore outside the scope of science. But Jung's framing influenced how many people think about stichomancy: not as magic, but as a way of tapping into [patterns](/cognitive-[psychology](/psychology)) the conscious mind hasn't recognized.
+Most scientists consider synchronicity unfalsifiable and therefore outside the scope of science. But Jung's framing influenced how many people think about stichomancy: not as magic, but as a way of tapping into [patterns](/cognitive-bias)) the conscious mind hasn't recognized.
 
 ## Modern Digital Stichomancy
 

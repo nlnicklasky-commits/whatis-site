@@ -4,7 +4,7 @@ slug: historical-weaponry
 description: "Historical weaponry spans every tool of war from stone-tipped spears to early firearms. Learn how weapons shaped civilizations, battles, and technology."
 category: history
 tags: ["historical weaponry", "weapons", "military history", "ancient weapons", "firearms"]
-heroImage: "/images/articles/historical-weaponry.webp"
+heroImage: "/images/articles/historical-weaponry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical weaponry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -83,7 +83,7 @@ The crossbow solved the training problem. Almost anyone could learn to use one i
 
 ## Gunpowder — The Great Equalizer
 
-Chinese alchemists discovered gunpowder sometime around the 9th century, likely while searching for an elixir of immortality. The irony writes itself. By the 10th century, the Chinese were using "fire lances" — tubes filled with gunpowder and shrapnel, attached to spears. These were the first [firearms](/firearms) in any meaningful sense.
+Chinese alchemists discovered gunpowder sometime around the 9th century, likely while searching for an elixir of immortality. The irony writes itself. By the 10th century, the Chinese were using "fire lances" — tubes filled with gunpowder and shrapnel, attached to spears. These were the first [firearms](/fire-safety) in any meaningful sense.
 
 Gunpowder weapons reached Europe by the early 14th century. The first European guns were crude — heavy, inaccurate, slow to reload, and prone to exploding in the user's face. But they had one critical advantage: they required almost no training. A farmer handed a musket was dangerous within hours. A farmer handed a longbow was useless for years.
 

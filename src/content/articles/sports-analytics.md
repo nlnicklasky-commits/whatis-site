@@ -1,10 +1,10 @@
 ---
 title: "What Is Sports Analytics?"
 slug: sports-analytics
-description: "Sports analytics uses data and statistics to evaluate players, optimize strategy, and gain competitive advantages. Learn how numbers changed sports."
+description: "Sports analytics uses data and statistics to evaluate players, optimize strategy, and gain competitive advantages. Learn how numbers changed sports. Discover..."
 category: sports
 tags: ["sports analytics", "sabermetrics", "data science", "statistics", "Moneyball", "performance analysis"]
-heroImage: "/images/articles/sports-analytics.webp"
+heroImage: "/images/articles/sports-analytics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports analytics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

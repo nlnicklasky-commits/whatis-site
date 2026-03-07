@@ -4,7 +4,7 @@ slug: taekwondo
 description: "Taekwondo is a Korean martial art known for powerful kicks and fast footwork. Learn its history, belt system, techniques, and Olympic competition format."
 category: sports
 tags: ["taekwondo", "martial arts", "Korean", "Olympics", "self-defense", "kicks"]
-heroImage: "/images/articles/taekwondo.webp"
+heroImage: "/images/articles/taekwondo-hero.webp"
 heroAlt: "Editorial photograph representing the concept of taekwondo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -91,7 +91,7 @@ Black belts are ranked in *Dan* levels from 1st through 9th (or 10th in some org
 - **[Fitness](/fitness)** — Taekwondo builds cardiovascular endurance, flexibility, strength, and coordination
 - **Discipline** — Structured training, respect for instructors, and adherence to tenets (courtesy, integrity, perseverance, self-control, indomitable spirit) develop character
 - **Confidence** — Progressing through belts and mastering difficult techniques builds genuine self-assurance
-- **Flexibility** — The kicking emphasis makes taekwondo practitioners some of the most flexible [athletes](/exercise-[physiology](/physiology)) in martial arts
+- **Flexibility** — The kicking emphasis makes taekwondo practitioners some of the most flexible [athletes](/exercise-physiology)) in martial arts
 
 ## Getting Started
 

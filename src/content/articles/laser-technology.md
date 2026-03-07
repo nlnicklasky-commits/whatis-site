@@ -4,7 +4,7 @@ slug: laser-technology
 description: "Laser technology uses focused beams of coherent light for cutting, communication, medicine, and more. Learn how lasers work and their key applications."
 category: everyday-concepts
 tags: ["laser technology", "physics", "optics", "light", "photonics", "engineering"]
-heroImage: "/images/articles/laser-technology.webp"
+heroImage: "/images/articles/laser-technology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of laser technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

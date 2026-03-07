@@ -4,7 +4,7 @@ slug: masonry
 description: "Masonry is the building craft using stone, brick, or concrete blocks joined with mortar. Learn about techniques, materials, history, and career paths."
 category: everyday-concepts
 tags: ["masonry", "construction", "brickwork", "stonework", "building trades", "architecture"]
-heroImage: "/images/articles/masonry.webp"
+heroImage: "/images/articles/masonry-hero.webp"
 heroAlt: "Editorial photograph representing the concept of masonry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

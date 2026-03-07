@@ -1,7 +1,7 @@
 ---
 title: "What Is Organizational Psychology?"
 slug: organizational-psychology
-description: "Organizational psychology applies psychological science to the workplace, studying motivation, leadership, team dynamics, and job satisfaction."
+description: "Organizational psychology applies psychological science to the workplace, studying motivation, leadership, team dynamics, and job satisfaction. Discover the ..."
 category: psychology
 tags: ["organizational psychology", "i-o psychology", "workplace psychology", "human resources", "leadership", "job satisfaction"]
 heroImage: "/images/articles/organizational-psychology-hero.webp"

@@ -4,7 +4,7 @@ slug: space-law
 description: "Space law governs human activities in outer space, including satellite operations, resource rights, and liability. Learn about treaties and emerging issues."
 category: politics
 tags: ["space law", "outer space treaty", "international law", "satellites", "space exploration", "governance"]
-heroImage: "/images/articles/space-law.webp"
+heroImage: "/images/articles/space-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of space law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "The Outer Space Treaty prohibits placing nuclear weapons or weapons of mass destruction in orbit or on celestial bodies. It declares that the Moon and other celestial bodies shall be used exclusively for peaceful purposes. However, it doesn't prohibit conventional weapons in space or anti-satellite weapons fired from Earth — significant gaps that concern defense analysts as space becomes increasingly militarized."
 ---
 
-# What Is Space Law?
+# What Is [Space](/the-history-of-space-exploration) Law?
 
 Space law is the body of international and national law governing human activities in outer space — from satellite operations and space station [management](/management) to lunar mining, space [tourism](/tourism), and the increasingly urgent problem of orbital debris. It addresses questions that would have seemed absurd a century ago: Who's responsible when a satellite crashes? Can you mine asteroids for profit? What rules apply on Mars?
 

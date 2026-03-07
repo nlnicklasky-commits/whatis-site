@@ -4,7 +4,7 @@ slug: hypnotherapy
 description: "Hypnotherapy uses guided hypnosis to address habits, anxiety, pain, and more. Learn how it works, what the evidence says, and what to expect in a session."
 category: health-amp-wellness
 tags: ["hypnotherapy", "hypnosis", "therapy", "mental health", "anxiety"]
-heroImage: "/images/articles/hypnotherapy.webp"
+heroImage: "/images/articles/hypnotherapy-hero.webp"
 heroAlt: "Editorial photograph representing the concept of hypnotherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -67,7 +67,7 @@ A typical hypnotherapy session runs 50 to 90 minutes and follows a fairly standa
 
 **Deepening.** Once you're in a light trance, the therapist uses additional techniques to deepen the state — counting down, asking you to imagine descending a staircase, or simply allowing time for relaxation to increase. Not everyone reaches the same depth, and that's fine. Even light hypnosis can be therapeutically useful.
 
-**Therapeutic work.** This is the core of the session, and it varies dramatically based on the treatment goal. For smoking cessation, the therapist might use direct suggestion ("you find the taste of cigarettes repulsive") and cognitive restructuring ("you are a non-smoker"). For pain [management](/management), the therapist might teach you to alter your perception of pain — imagining it as a dial you can turn down, or as a color that fades. For [anxiety](/behavioral-[psychology](/psychology)), the therapist might guide you through imagined exposure to feared situations while maintaining deep relaxation.
+**Therapeutic work.** This is the core of the session, and it varies dramatically based on the treatment goal. For smoking cessation, the therapist might use direct suggestion ("you find the taste of cigarettes repulsive") and cognitive restructuring ("you are a non-smoker"). For pain [management](/management), the therapist might teach you to alter your perception of pain — imagining it as a dial you can turn down, or as a color that fades. For [anxiety](/animal-behavior)), the therapist might guide you through imagined exposure to feared situations while maintaining deep relaxation.
 
 **Emergence.** The therapist gradually brings you out of the hypnotic state, usually by counting up or suggesting that you'll feel alert and refreshed. Most people feel relaxed and calm afterward. Some report feeling mildly disoriented for a few minutes.
 

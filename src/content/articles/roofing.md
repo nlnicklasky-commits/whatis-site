@@ -1,10 +1,10 @@
 ---
 title: "What Is Roofing?"
 slug: roofing
-description: "Roofing is the craft of constructing and repairing the top covering of buildings. Learn about materials, roof types, and maintenance basics."
+description: "Roofing is the craft of constructing and repairing the top covering of buildings. Learn about materials, roof types, and maintenance basics. Discover the key..."
 category: everyday-concepts
 tags: ["roof", "roofing materials", "construction", "building", "home repair", "roof repair"]
-heroImage: "/images/articles/roofing.webp"
+heroImage: "/images/articles/roofing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of roofing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

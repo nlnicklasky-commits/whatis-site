@@ -1,10 +1,10 @@
 ---
 title: "What Is Blues Music?"
 slug: blues-music
-description: "Blues is a music genre originating from African American communities in the Deep South, characterized by call-and-response patterns and blue notes."
+description: "Blues is a music genre originating from African American communities in the Deep South, characterized by call-and-response patterns and blue notes. Discover ..."
 category: everyday-concepts
 tags: ["blues music", "music", "african american culture", "guitar", "musical genre", "jazz"]
-heroImage: "/images/articles/blues-music.webp"
+heroImage: "/images/articles/blues-music-hero.webp"
 heroAlt: "Editorial photograph representing the concept of blues music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

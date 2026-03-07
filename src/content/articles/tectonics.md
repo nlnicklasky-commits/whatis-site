@@ -1,10 +1,10 @@
 ---
 title: "What Is Tectonics?"
 slug: tectonics
-description: "Tectonics is the study of Earth's large-scale structural features and the forces that shape them, including the movement of tectonic plates."
+description: "Tectonics is the study of Earth's large-scale structural features and the forces that shape them, including the movement of tectonic plates. Discover the key..."
 category: science
 tags: ["tectonics", "plate tectonics", "geology", "earth science", "continental drift"]
-heroImage: "/images/articles/tectonics.webp"
+heroImage: "/images/articles/tectonics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of tectonics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -35,6 +35,7 @@ faq:
     a: "The primary driving force is convection in the mantle—hot rock rises, cools, and sinks in slow circulation patterns. Additional forces include ridge push (gravity pushing plates away from elevated mid-ocean ridges) and slab pull (dense subducting plates dragging the rest of the plate behind them). Slab pull is considered the strongest single force."
 ---
 
+# What Is Tectonics?
 Tectonics is the branch of [geology](/geology) that studies the large-scale structure of Earth's outer layer — its crust and upper mantle — and the forces that deform, break, and rearrange it. [Plate tectonics](/plate-tectonics), the theory that Earth's surface is divided into rigid plates that move, collide, and separate, is the unifying framework of modern [earth science](/earth-science) and one of the most powerful scientific ideas of the 20th century.
 
 Think of it this way: the ground under your feet feels solid and permanent. It's neither. You're standing on a slab of rock — somewhere between 10 and 250 kilometers thick — that's drifting across the planet's surface at roughly the speed your fingernails grow. That movement, accumulated over hundreds of millions of years, has built mountains, opened oceans, triggered volcanic eruptions, caused earthquakes, and rearranged entire continents. Tectonics explains how.

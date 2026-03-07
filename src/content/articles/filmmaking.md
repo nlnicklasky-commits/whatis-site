@@ -1,10 +1,10 @@
 ---
 title: "What Is Filmmaking?"
 slug: filmmaking
-description: "Filmmaking is the art and process of creating motion pictures. Learn about the craft, from screenwriting and cinematography to directing and editing."
+description: "Filmmaking is the art and process of creating motion pictures. Learn about the craft, from screenwriting and cinematography to directing and editing. Discove..."
 category: arts-amp-culture
 tags: ["film", "movie making", "cinema", "production", "storytelling", "directing"]
-heroImage: "/images/articles/filmmaking.webp"
+heroImage: "/images/articles/filmmaking-hero.webp"
 heroAlt: "Editorial photograph representing the concept of filmmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

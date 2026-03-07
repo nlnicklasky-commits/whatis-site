@@ -4,7 +4,7 @@ slug: golf
 description: "Golf is a precision sport where players hit a ball into holes across a course in as few strokes as possible. Learn about rules, equipment, and the game's."
 category: everyday-concepts
 tags: ["golf", "sports", "recreation", "outdoor sports", "PGA", "country club"]
-heroImage: "/images/articles/golf.webp"
+heroImage: "/images/articles/golf-hero.webp"
 heroAlt: "Editorial photograph representing the concept of golf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

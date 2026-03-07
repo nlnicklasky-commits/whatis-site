@@ -1,10 +1,10 @@
 ---
 title: "What Is Oral History?"
 slug: oral-history
-description: "Oral history is the practice of recording firsthand accounts from people who lived through events. Learn about its methods, ethics, and uses."
+description: "Oral history is the practice of recording firsthand accounts from people who lived through events. Learn about its methods, ethics, and uses. Discover the ke..."
 category: history
 tags: ["oral history", "historical research", "interviews", "social history"]
-heroImage: "/images/articles/oral-history.webp"
+heroImage: "/images/articles/oral-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of oral history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

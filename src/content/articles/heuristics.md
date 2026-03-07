@@ -4,7 +4,7 @@ slug: heuristics
 description: "Heuristics are mental shortcuts your brain uses to make quick decisions. Learn about common heuristics, their benefits, and when they lead you astray."
 category: everyday-concepts
 tags: ["heuristics", "psychology", "decision making", "cognitive science", "mental shortcuts"]
-heroImage: "/images/articles/heuristics.webp"
+heroImage: "/images/articles/heuristics-hero.webp"
 heroAlt: "Editorial photograph representing the concept of heuristics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,7 +26,7 @@ faq:
   - q: "Are heuristics always bad?"
     a: "Not at all. Heuristics are often remarkably effective — they let you make fast decisions with limited information, which is exactly what most real-world situations demand. Problems arise when heuristics are applied in contexts where they produce systematic errors, known as cognitive biases."
   - q: "Who discovered heuristics in psychology?"
-    a: "Psychologists Daniel Kahneman and Amos Tversky published their groundbreaking research on heuristics and biases in 1974. Their work showed that people rely on a small number of mental shortcuts that are generally useful but can lead to predictable errors in judgment. Kahneman won the Nobel Prize in Economics in 2002 for this research."
+    a: "Psychologists Daniel Kahneman and Amos Tversky published their first-of-its-kind research on heuristics and biases in 1974. Their work showed that people rely on a small number of mental shortcuts that are generally useful but can lead to predictable errors in judgment. Kahneman won the Nobel Prize in Economics in 2002 for this research."
 ---
 
 # What Is Heuristics?

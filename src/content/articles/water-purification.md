@@ -4,7 +4,7 @@ slug: water-purification
 description: "Water purification removes contaminants to make water safe for drinking. Learn about filtration, disinfection, reverse osmosis, and treatment processes."
 category: everyday-concepts
 tags: ["water purification", "drinking water", "filtration", "public health", "water treatment", "safety"]
-heroImage: "/images/articles/water-purification.webp"
+heroImage: "/images/articles/water-purification-hero.webp"
 heroAlt: "Editorial photograph representing the concept of water purification"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -26,10 +26,10 @@ faq:
   - q: "Do home water filters actually work?"
     a: "Yes, but effectiveness depends on the filter type and the contaminant. Activated carbon filters (like Brita pitchers) reduce chlorine taste, some heavy metals, and certain organic chemicals but don't remove bacteria or dissolved minerals. Reverse osmosis systems remove most contaminants including lead, fluoride, and dissolved solids. UV purifiers kill bacteria and viruses. No single filter removes everything — choose based on what's actually in your water."
   - q: "What is the most effective water purification method?"
-    a: "For comprehensive purification, reverse osmosis (RO) combined with UV disinfection removes virtually all contaminants — bacteria, viruses, heavy metals, dissolved chemicals, and particulates. Municipal treatment plants use multi-stage processes (coagulation, sedimentation, filtration, disinfection) that are extremely effective at scale. For emergency situations, boiling water for one minute kills most disease-causing organisms but doesn't remove chemical contaminants."
+    a: "For complete purification, reverse osmosis (RO) combined with UV disinfection removes virtually all contaminants — bacteria, viruses, heavy metals, dissolved chemicals, and particulates. Municipal treatment plants use multi-stage processes (coagulation, sedimentation, filtration, disinfection) that are extremely effective at scale. For emergency situations, boiling water for one minute kills most disease-causing organisms but doesn't remove chemical contaminants."
 ---
 
-# What Is Water Purification?
+# What Is [Water](/water-management) Purification?
 
 Water purification is the process of removing unwanted contaminants from water to make it safe for a specific purpose — most commonly, drinking. Raw water from any natural source contains some combination of sediment, bacteria, viruses, parasites, dissolved minerals, organic chemicals, and industrial pollutants. Purification reduces or eliminates these contaminants to levels considered safe for human consumption.
 

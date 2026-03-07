@@ -4,13 +4,13 @@ slug: vector-calculus
 description: "Vector calculus extends calculus to vector fields, enabling the math behind physics, engineering, and fluid flow. Learn gradients, curls, and divergence."
 category: science
 tags: ["mathematics", "vector calculus", "physics", "engineering"]
-heroImage: "/images/articles/vector-calculus.webp"
+heroImage: "/images/articles/vector-calculus-hero.webp"
 heroAlt: "Editorial photograph representing the concept of vector calculus"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
-readingTime: 16
-wordCount: 3850
+readingTime: 11
+wordCount: 2771
 tier: '1'
 relatedArticles: ["calculus", "linear-algebra", "differential-equations", "physics", "geometry"]
 externalSources:
@@ -35,6 +35,7 @@ faq:
     a: "It builds on concepts from single-variable calculus and adds spatial reasoning in three dimensions. Most students find the visualization challenging at first, but the operations themselves follow clear rules. The difficulty is more about building geometric intuition than raw computation."
 ---
 
+# What Is Vector Calculus?
 Vector calculus is the branch of mathematics that extends [calculus](/calculus) to vector fields — functions that assign a vector (a quantity with both magnitude and direction) to every point in space. It provides the mathematical language for describing how physical quantities like velocity, force, and electromagnetic fields behave across regions of two- or three-dimensional space.
 
 If regular calculus asks "how fast is this changing?" then vector calculus asks "how fast is this changing, and in which direction, and across what kind of surface?"

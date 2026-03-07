@@ -1,10 +1,10 @@
 ---
 title: "What Is The History of Religion?"
 slug: the-history-of-religion
-description: "The history of religion covers how belief systems developed worldwide, from prehistoric rituals to today's major faiths and traditions."
+description: "The history of religion covers how belief systems developed worldwide, from prehistoric rituals to today's major faiths and traditions. Discover the key fact..."
 category: history
 tags: ["history of religion", "religion", "belief systems", "world religions"]
-heroImage: "/images/articles/the-history-of-religion.webp"
+heroImage: "/images/articles/the-history-of-religion-hero.webp"
 heroAlt: "Editorial photograph representing the concept of the history of religion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

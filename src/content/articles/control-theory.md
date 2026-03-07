@@ -4,7 +4,7 @@ slug: control-theory
 description: "Control theory is the math behind systems that regulate themselves. Learn about feedback loops, PID controllers, stability, and everyday applications."
 category: everyday-concepts
 tags: ["control theory", "everyday-concepts"]
-heroImage: "/images/articles/control-theory.webp"
+heroImage: "/images/articles/control-theory-hero.webp"
 heroAlt: "Editorial photograph representing the concept of control theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

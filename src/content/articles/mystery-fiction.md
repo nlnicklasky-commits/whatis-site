@@ -4,7 +4,7 @@ slug: mystery-fiction
 description: "Mystery fiction centers on solving a crime or puzzle, typically a murder. Learn about subgenres, famous authors, conventions, and the genre's lasting appeal."
 category: arts-amp-culture
 tags: ["mystery fiction", "detective fiction", "crime fiction", "whodunit", "thriller", "literary genre"]
-heroImage: "/images/articles/mystery-fiction.webp"
+heroImage: "/images/articles/mystery-fiction-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mystery fiction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

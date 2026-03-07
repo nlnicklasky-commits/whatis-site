@@ -4,7 +4,7 @@ slug: systems-biology
 description: "Systems biology studies biological organisms as integrated systems of interacting genes, proteins, and networks rather than isolated individual components."
 category: science
 tags: ["biology", "systems biology", "bioinformatics", "computational biology", "genomics", "molecular biology"]
-heroImage: "/images/articles/systems-biology.webp"
+heroImage: "/images/articles/systems-biology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of systems biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Partially. Computational models can predict certain behaviors — metabolic fluxes, gene expression responses to stimuli, and some drug interactions. But biological complexity means predictions are approximate. The field is rapidly improving as data quality and computational power increase."
 ---
 
+# What Is Systems Biology?
 Systems biology is an interdisciplinary field that studies biological organisms as integrated, interacting networks of genes, proteins, metabolites, and cells — aiming to understand how these components work together to produce the behaviors and properties of living systems.
 
 Here's the core insight: knowing every part of a car doesn't tell you how it drives. You need to understand how the engine, transmission, steering, and brakes work together. [Biology](/biology) faces the same challenge. We've cataloged tens of thousands of genes and proteins, but understanding what they do individually hasn't explained how a [cell](/cell-biology) actually works, why a heart beats, or why cancer develops. Systems biology exists because the whole is genuinely more than the sum of its parts.

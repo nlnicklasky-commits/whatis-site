@@ -1,7 +1,7 @@
 ---
 title: "What Is Aquaculture?"
 slug: aquaculture
-description: "Aquaculture is the farming of fish, shellfish, and aquatic plants. Learn how it works, its environmental impact, and why it outpaces wild fishing."
+description: "Aquaculture is the farming of fish, shellfish, and aquatic plants. Learn how it works, its environmental impact, and why it outpaces wild fishing. Discover t..."
 category: science
 tags: ["aquaculture", "farming", "fish farming", "fisheries", "mariculture", "seafood", "agriculture"]
 heroImage: "/images/articles/aquaculture-hero.webp"

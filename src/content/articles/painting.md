@@ -4,7 +4,7 @@ slug: painting
 description: "Painting is the practice of applying pigment to a surface to create images, express ideas, and evoke emotions. Learn about its history and techniques."
 category: arts-amp-culture
 tags: ["painting", "art", "art medium", "visual arts", "pigment", "canvas"]
-heroImage: "/images/articles/painting.webp"
+heroImage: "/images/articles/painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

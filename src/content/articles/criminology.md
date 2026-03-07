@@ -4,7 +4,7 @@ slug: criminology
 description: "Criminology is the scientific study of crime, criminals, and the criminal justice system. Learn about theories of crime, research methods, and careers."
 category: everyday-concepts
 tags: ["criminology", "crime", "criminal justice", "sociology", "law", "deviance"]
-heroImage: "/images/articles/criminology.webp"
+heroImage: "/images/articles/criminology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of criminology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ Criminology is the scientific study of crime — its causes, consequences, preve
 
 Criminologists have proposed dozens of theories to explain why crime happens. None explains everything, but several have significantly shaped policy and understanding.
 
-**Classical theory** (Cesare Beccaria, 1764) assumes people are rational actors who weigh costs and benefits. Crime occurs when the expected benefit exceeds the expected punishment. This theory underpins deterrence-based policies — harsher sentences, visible policing, surveillance. The [logic](/logic) is intuitive but incomplete: plenty of crime happens impulsively, and many criminals don't rationally calculate consequences.
+**Classical theory** (Cesare Beccaria, 1764) assumes people are rational actors who weigh costs and benefits. Crime occurs when the expected benefit exceeds the expected punishment. This theory backs up deterrence-based policies — harsher sentences, visible policing, surveillance. The [logic](/logic) is intuitive but incomplete: plenty of crime happens impulsively, and many criminals don't rationally calculate consequences.
 
 **Social disorganization theory** (Shaw and McKay, 1942) argues that crime concentrates in neighborhoods with weak social institutions — high residential turnover, poverty, family disruption, and lack of community organizations. The theory explains why crime rates remain high in certain areas regardless of who lives there. It's the neighborhood's structure, not the individuals, that produces crime.
 

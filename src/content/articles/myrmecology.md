@@ -1,7 +1,7 @@
 ---
 title: "What Is Myrmecology?"
 slug: myrmecology
-description: "Myrmecology is the scientific study of ants — the most successful social insects on Earth. Discover ant biology, colonies, and why they matter."
+description: "Myrmecology is the scientific study of ants — the most successful social insects on Earth. Discover ant biology, colonies, and why they matter. Discover the ..."
 category: science
 tags: ["myrmecology", "ants", "entomology", "social insects", "ant colonies", "insect biology", "ecology"]
 heroImage: "/images/articles/myrmecology-hero.webp"

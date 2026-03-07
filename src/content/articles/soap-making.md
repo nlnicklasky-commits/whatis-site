@@ -4,7 +4,7 @@ slug: soap-making
 description: "Soap making is the craft of creating soap from oils and lye through a chemical process called saponification. Learn methods, ingredients, and safety tips."
 category: everyday-concepts
 tags: ["soap making", "craft", "saponification", "handmade", "chemistry", "natural products"]
-heroImage: "/images/articles/soap-making.webp"
+heroImage: "/images/articles/soap-making-hero.webp"
 heroAlt: "Editorial photograph representing the concept of soap making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -37,7 +37,7 @@ The modern handmade soap movement has boomed since the early 2000s, driven by in
 
 ## The Chemistry
 
-Saponification is a surprisingly elegant reaction. Triglycerides (the molecular structure of fats and oils) react with sodium hydroxide (lye) to produce soap molecules and glycerin.
+Saponification is a surprisingly elegant reaction. Triglycerides (the [molecular](/molecular-gastronomy) structure of fats and oils) react with sodium hydroxide (lye) to produce soap molecules and glycerin.
 
 Each oil produces soap with different properties. Coconut oil makes a hard bar with fluffy lather. Olive oil makes a gentle, conditioning bar. Palm oil adds hardness and stability. Most soap recipes use a blend of several oils to balance hardness, lather, conditioning, and longevity.
 

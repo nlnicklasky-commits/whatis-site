@@ -1,10 +1,10 @@
 ---
 title: "What Is Gaming?"
 slug: gaming
-description: "Gaming is interactive electronic entertainment played on consoles, PCs, and mobile devices. Learn about genres, culture, esports, and the industry."
+description: "Gaming is interactive electronic entertainment played on consoles, PCs, and mobile devices. Learn about genres, culture, esports, and the industry. Discover ..."
 category: everyday-concepts
 tags: ["gaming", "video games", "esports", "interactive entertainment", "game culture", "hobby"]
-heroImage: "/images/articles/gaming.webp"
+heroImage: "/images/articles/gaming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of gaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

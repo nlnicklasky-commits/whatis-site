@@ -1,7 +1,7 @@
 ---
 title: "What Is Computer Architecture?"
 slug: computer-architecture
-description: "Computer architecture defines how CPUs, memory, and I/O systems are designed and organized to execute instructions and process data efficiently."
+description: "Computer architecture defines how CPUs, memory, and I/O systems are designed and organized to execute instructions and process data efficiently. Discover the..."
 category: technology
 tags: ["computer science", "hardware", "processor", "memory", "system design", "computing", "engineering"]
 heroImage: "/images/articles/computer-architecture-hero.webp"

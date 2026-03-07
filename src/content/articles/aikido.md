@@ -4,7 +4,7 @@ slug: aikido
 description: "Aikido is a Japanese martial art focused on redirecting an attacker's energy rather than meeting force with force. Learn its history, techniques, and."
 category: sports
 tags: ["aikido", "martial arts", "japanese martial arts", "self-defense", "budo", "jujutsu"]
-heroImage: "/images/articles/aikido.webp"
+heroImage: "/images/articles/aikido-hero.webp"
 heroAlt: "Editorial photograph representing the concept of aikido"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

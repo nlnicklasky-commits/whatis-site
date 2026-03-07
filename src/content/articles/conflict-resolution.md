@@ -4,7 +4,7 @@ slug: conflict-resolution
 description: "Conflict resolution is the process of settling disputes peacefully. Learn about negotiation, mediation, key strategies, and when to use each approach."
 category: everyday-concepts
 tags: ["peacebuilding", "negotiation", "mediation", "communication", "dispute resolution", "psychology"]
-heroImage: "/images/articles/conflict-resolution.webp"
+heroImage: "/images/articles/conflict-resolution-hero.webp"
 heroAlt: "Editorial photograph representing the concept of conflict resolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

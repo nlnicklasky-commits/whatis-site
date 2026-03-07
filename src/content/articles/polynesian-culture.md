@@ -1,10 +1,10 @@
 ---
 title: "What Is Polynesian Culture?"
 slug: polynesian-culture
-description: "Polynesian culture spans the Pacific islands from Hawaii to New Zealand, known for navigation, oral tradition, and deep ocean heritage."
+description: "Polynesian culture spans the Pacific islands from Hawaii to New Zealand, known for navigation, oral tradition, and deep ocean heritage. Discover the key fact..."
 category: arts-amp-culture
 tags: ["polynesia", "pacific islands", "indigenous culture", "oceania", "voyaging", "navigation"]
-heroImage: "/images/articles/polynesian-culture.webp"
+heroImage: "/images/articles/polynesian-culture-hero.webp"
 heroAlt: "Editorial photograph representing the concept of polynesian culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -73,7 +73,7 @@ Polynesian art traditions are living practices, not museum relics.
 
 **Tapa cloth** (*siapo* in Samoan, *kapa* in Hawaiian) is made from beaten bark, typically of the paper mulberry tree. It's decorated with geometric patterns using natural dyes and used for ceremonial garments, gifts, and wrapping. Each island group has distinctive patterns.
 
-**Wood and [stone carving](/stone-carving)** — from the massive *moai* statues of Easter Island to the intricate meeting house carvings of the Maori, Polynesian carving traditions are among the most distinctive in the world. The 887 moai on Rapa Nui, some over 30 feet tall and weighing 80 tons, remain one of [archaeology](/archaeology)'s most studied achievements.
+**Wood and [stone carving](/stone-carving)** — from the massive *moai* statues of Easter Island to the involved meeting house carvings of the Maori, Polynesian carving traditions are among the most distinctive in the world. The 887 moai on Rapa Nui, some over 30 feet tall and weighing 80 tons, remain one of [archaeology](/archaeology)'s most studied achievements.
 
 ## Colonialism and Resilience
 

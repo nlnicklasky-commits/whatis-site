@@ -4,7 +4,7 @@ slug: chinese-history
 description: "Chinese history spans over 5,000 years of continuous civilization, from ancient dynasties and philosophical traditions to modern revolution and reform."
 category: history
 tags: ["chinese history", "china", "dynasties", "confucianism", "asian history"]
-heroImage: "/images/articles/chinese-history.webp"
+heroImage: "/images/articles/chinese-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of chinese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "The last imperial dynasty, the Qing, fell in 1912 during the Xinhai Revolution. The last emperor, Puyi, was only six years old when he abdicated. This ended over 2,000 years of imperial rule and established the Republic of China."
 ---
 
+# What Is Chinese History?
 Chinese history is the record of one of the world's oldest continuous civilizations — spanning roughly 5,000 years from ancient river valley settlements through imperial dynasties, philosophical revolutions, foreign conquests, and the dramatic transformations of the modern era. No other civilization on Earth can match its combination of age, continuity, and scale.
 
 The sheer scope is humbling. When Rome was being founded, China already had a thousand years of recorded history. When the Western Roman Empire fell, China was in the middle of a golden age. When Columbus sailed to America, China had already invented paper, printing, gunpowder, the compass, and had been drinking tea for centuries.

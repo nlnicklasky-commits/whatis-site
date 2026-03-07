@@ -4,7 +4,7 @@ slug: nursery-management
 description: "Nursery management is the practice of growing and caring for plants commercially for sale or transplanting. Learn about plant propagation and operations."
 category: everyday-concepts
 tags: ["nursery management", "horticulture", "plant propagation", "gardening", "agriculture", "plant health"]
-heroImage: "/images/articles/nursery-management.webp"
+heroImage: "/images/articles/nursery-management-hero.webp"
 heroAlt: "Editorial photograph representing the concept of nursery management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

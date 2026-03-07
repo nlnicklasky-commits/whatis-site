@@ -1,10 +1,10 @@
 ---
 title: "What Is Interior Design?"
 slug: interior-design
-description: "Interior design is planning and creating functional, beautiful indoor spaces. Learn about design principles, styles, careers, and the design process."
+description: "Interior design is planning and creating functional, beautiful indoor spaces. Learn about design principles, styles, careers, and the design process. Discove..."
 category: arts-amp-culture
 tags: ["interior design", "design", "home decor", "space planning", "commercial design", "aesthetics"]
-heroImage: "/images/articles/interior-design.webp"
+heroImage: "/images/articles/interior-design-hero.webp"
 heroAlt: "Editorial photograph representing the concept of interior design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

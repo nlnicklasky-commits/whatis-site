@@ -1,10 +1,10 @@
 ---
 title: "What Is United States History?"
 slug: united-states-history
-description: "United States history covers the American story from colonial settlement and revolution through civil war, industrialization, and superpower status."
+description: "United States history covers the American story from colonial settlement and revolution through civil war, industrialization, and superpower status. Discover..."
 category: history
 tags: ["united states history", "american history", "us government", "democracy"]
-heroImage: "/images/articles/united-states-history.webp"
+heroImage: "/images/articles/united-states-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of united states history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

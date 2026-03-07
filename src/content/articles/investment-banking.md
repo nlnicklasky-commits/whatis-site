@@ -1,7 +1,7 @@
 ---
 title: "What Is Investment Banking?"
 slug: investment-banking
-description: "Investment banking helps companies raise capital, execute mergers, and navigate financial markets. Learn how it works and why it matters."
+description: "Investment banking helps companies raise capital, execute mergers, and navigate financial markets. Learn how it works and why it matters. Discover the key fa..."
 category: finance
 tags: ["investment banking", "finance", "m&a", "capital markets", "underwriting", "ipo", "financial advisory"]
 heroImage: "/images/articles/investment-banking-hero.webp"
@@ -84,7 +84,7 @@ Trading revenue has become more complicated since the 2008 [financial-regulation
 
 Bank research analysts study industries, companies, and economic trends, publishing reports and recommendations for the firm's clients. If a healthcare analyst at JPMorgan publishes a "buy" recommendation on a pharmaceutical stock, institutional investors pay attention.
 
-Research is supposed to be independent of the banking division (a Wall Street reform following the dot-com bubble), but the reality is more nuanced. Research coverage helps win banking mandates—a company is more likely to hire a bank for its IPO if that bank has analysts who will cover its stock afterward.
+Research is supposed to be independent of the banking division (a Wall Street reform following the dot-com bubble), but the reality is more subtle. Research coverage helps win banking mandates—a company is more likely to hire a bank for its IPO if that bank has analysts who will cover its stock afterward.
 
 ### Restructuring
 

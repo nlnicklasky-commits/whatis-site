@@ -1,10 +1,10 @@
 ---
 title: "What Is Scandinavian History?"
 slug: scandinavian-history
-description: "Scandinavian history covers the shared past of Denmark, Norway, and Sweden from prehistoric times through the Viking Age to modern welfare states."
+description: "Scandinavian history covers the shared past of Denmark, Norway, and Sweden from prehistoric times through the Viking Age to modern welfare states. Discover t..."
 category: history
 tags: ["scandinavia", "nordic history", "viking age", "denmark", "norway"]
-heroImage: "/images/articles/scandinavian-history.webp"
+heroImage: "/images/articles/scandinavian-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of scandinavian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "No. There is zero archaeological evidence that Vikings wore horned helmets in battle. This myth originated in 19th-century Romantic art and theater, particularly in costumes designed for Wagner's operas. Actual Viking helmets were simple iron or leather caps, sometimes with nose guards."
 ---
 
+# What Is Scandinavian History?
 Scandinavian history is the shared story of Denmark, Norway, and Sweden — three nations whose fates have been intertwined for over 10,000 years through geography, language, trade, war, and culture. From Stone Age hunters following retreating glaciers to modern welfare states consistently ranked among the happiest and most prosperous on Earth, it's a story of adaptation, ambition, and — during one very famous 273-year stretch — a whole lot of raiding.
 
 These three countries occupy a relatively small corner of northern Europe, with a combined population today of roughly 22 million. But their outsized influence on world history — from Viking expansion to Reformation politics to the modern welfare state model — makes their story worth knowing.

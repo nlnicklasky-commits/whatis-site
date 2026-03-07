@@ -4,7 +4,7 @@ slug: cold-war-history
 description: "Cold War history covers the 45-year geopolitical standoff between the U.S. and Soviet Union from 1947 to 1991, fought through proxy wars, espionage, and."
 category: history
 tags: ["cold war", "geopolitics", "soviet union", "united states", "communism"]
-heroImage: "/images/articles/cold-war-history.webp"
+heroImage: "/images/articles/cold-war-history-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cold war history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

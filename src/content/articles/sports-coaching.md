@@ -4,7 +4,7 @@ slug: sports-coaching
 description: "Sports coaching is the practice of guiding athletes to improve performance, develop skills, and achieve goals. Learn about methods, psychology, and careers."
 category: sports
 tags: ["sports coaching", "athlete development", "training", "coaching philosophy", "mentorship", "youth sports"]
-heroImage: "/images/articles/sports-coaching.webp"
+heroImage: "/images/articles/sports-coaching-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sports coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

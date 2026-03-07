@@ -4,7 +4,7 @@ slug: wall-painting
 description: "Wall painting is the art of applying pigment directly to walls and ceilings. Learn about frescoes, murals, techniques, famous works, and modern forms."
 category: arts-amp-culture
 tags: ["wall painting", "murals", "fresco", "art", "public art", "visual arts"]
-heroImage: "/images/articles/wall-painting.webp"
+heroImage: "/images/articles/wall-painting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of wall painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What is the difference between a fresco and a mural?"
     a: "A mural is any large painting applied to a wall, ceiling, or other large surface. A fresco is a specific mural technique where pigment is applied to wet plaster, bonding chemically as it dries. All frescoes are murals, but not all murals are frescoes. Modern murals are often painted with acrylic or spray paint on dry surfaces, which is technically 'secco' painting rather than true fresco."
   - q: "What is the most famous wall painting in the world?"
-    a: "Michelangelo's Sistine Chapel ceiling (1508-1512) is arguably the most famous. Leonardo da Vinci's The Last Supper (1495-1498), painted on a wall of the Santa Maria delle Grazie convent in Milan, is another strong contender. Both demonstrate the power of wall painting to create immersive, emotionally overwhelming experiences that no easel painting can match."
+    a: "Michelangelo's Sistine Chapel ceiling (1508-1512) is arguably the most famous. Leonardo da Vinci's The Last Supper (1495-1498), painted on a wall of the Santa Maria delle Grazie convent in Milan, is another strong contender. Both demonstrate how much wall painting to create immersive, emotionally overwhelming experiences that no easel painting can match."
   - q: "How long do wall paintings last?"
     a: "True frescoes can last thousands of years because the pigment is embedded in the plaster itself. Roman frescoes at Pompeii survived 2,000 years under volcanic ash. Modern exterior murals painted with acrylics typically last 10-20 years before UV damage and weathering require restoration. Interior murals in climate-controlled environments can last much longer."
 ---

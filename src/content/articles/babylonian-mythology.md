@@ -1,10 +1,10 @@
 ---
 title: "What Is Babylonian Mythology?"
 slug: babylonian-mythology
-description: "Babylonian mythology is the collection of myths, gods, and creation stories from ancient Mesopotamia, including the Epic of Gilgamesh."
+description: "Babylonian mythology is the collection of myths, gods, and creation stories from ancient Mesopotamia, including the Epic of Gilgamesh. Discover the key facts..."
 category: history
 tags: ["babylonian mythology", "ancient mesopotamia", "epic of gilgamesh", "ancient religions"]
-heroImage: "/images/articles/babylonian-mythology.webp"
+heroImage: "/images/articles/babylonian-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of babylonian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -33,6 +33,7 @@ faq:
     a: "Not exactly. Sumerian mythology is older (dating to roughly 3500–2000 BCE) and forms the foundation that Babylonian mythology built upon. The Babylonians adopted many Sumerian gods and stories but modified them — often elevating Marduk above older Sumerian deities like Enlil and Enki."
 ---
 
+# What Is Babylonian Mythology?
 Babylonian mythology is the body of myths, religious narratives, and cosmological stories produced by the ancient Babylonian civilization in Mesopotamia (modern-day Iraq), roughly between 1894 BCE and 539 BCE. It includes creation stories, divine genealogies, epic tales of heroic kings, and accounts of floods, underworld journeys, and the origins of human suffering.
 
 These aren't just ancient stories. The Epic of Gilgamesh — the oldest surviving major work of literature — was composed over 4,000 years ago, and its central question is one you've probably asked yourself: what do you do with the knowledge that you're going to die? Babylonian mythology tackled the biggest questions humans have ever faced, and it did so with narrative power that still holds up.

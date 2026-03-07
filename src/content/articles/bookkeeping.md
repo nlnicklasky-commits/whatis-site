@@ -1,7 +1,7 @@
 ---
 title: "What Is Bookkeeping?"
 slug: bookkeeping
-description: "Bookkeeping is the systematic recording of financial transactions. Learn methods, principles, and how it differs from accounting."
+description: "Bookkeeping is the systematic recording of financial transactions. Learn methods, principles, and how it differs from accounting. Discover the key facts, his..."
 category: finance
 tags: ["bookkeeping", "accounting", "financial transactions", "double-entry bookkeeping", "financial records", "finance", "business management"]
 heroImage: "/images/articles/bookkeeping-hero.webp"

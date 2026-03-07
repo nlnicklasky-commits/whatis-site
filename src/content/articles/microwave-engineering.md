@@ -1,7 +1,7 @@
 ---
 title: "What Is Microwave Engineering?"
 slug: microwave-engineering
-description: "Microwave engineering deals with electromagnetic waves from 300 MHz to 300 GHz. Learn how it powers radar, satellites, 5G, and your kitchen."
+description: "Microwave engineering deals with electromagnetic waves from 300 MHz to 300 GHz. Learn how it powers radar, satellites, 5G, and your kitchen. Discover the key..."
 category: technology
 tags: ["microwave engineering", "electromagnetics", "rf engineering", "antennas", "radar", "telecommunications", "electronics"]
 heroImage: "/images/articles/microwave-engineering-hero.webp"

@@ -4,7 +4,7 @@ slug: historical-conspiracy-theories
 description: "Historical conspiracy theories are alternative explanations for past events that allege hidden plots. Learn about famous examples and why they persist."
 category: everyday-concepts
 tags: ["historical conspiracy theories", "history", "critical thinking", "misinformation", "skepticism"]
-heroImage: "/images/articles/historical-conspiracy-theories.webp"
+heroImage: "/images/articles/historical-conspiracy-theories-hero.webp"
 heroAlt: "Editorial photograph representing the concept of historical conspiracy theories"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -53,7 +53,7 @@ The tricky part? Sometimes conspiracy theories turn out to be true. The U.S. [go
 
 ## Why Conspiracy Theories Stick
 
-The [psychology](/psychology) behind conspiracy belief is well-studied, and it is more nuanced than "people are gullible."
+The [psychology](/psychology) behind conspiracy belief is well-studied, and it is more detailed than "people are gullible."
 
 **[Pattern recognition](/pattern-recognition) gone wrong.** Your brain is wired to detect patterns — it is one of humanity's most useful cognitive abilities. But the same system that helped our ancestors spot a predator in tall grass also sees meaningful connections in random data. Coincidences feel like evidence.
 

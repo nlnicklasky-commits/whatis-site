@@ -4,7 +4,7 @@ slug: social-justice
 description: "Social justice is the fair distribution of wealth, opportunities, and privileges in society. Learn about its history, key theories, movements, and debates."
 category: philosophy
 tags: ["social justice", "ethics", "equality", "human rights", "political philosophy", "sociology"]
-heroImage: "/images/articles/social-justice.webp"
+heroImage: "/images/articles/social-justice-hero.webp"
 heroAlt: "Editorial photograph representing the concept of social justice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

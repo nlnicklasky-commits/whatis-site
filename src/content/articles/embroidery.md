@@ -4,7 +4,7 @@ slug: embroidery
 description: "Embroidery is the craft of decorating fabric with needle and thread. Explore its history, techniques, styles, materials, and the modern embroidery revival."
 category: arts-amp-culture
 tags: ["embroidery", "textile art", "needlework", "handicraft", "fabric", "stitches"]
-heroImage: "/images/articles/embroidery.webp"
+heroImage: "/images/articles/embroidery-hero.webp"
 heroAlt: "Editorial photograph representing the concept of embroidery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

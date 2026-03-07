@@ -1,10 +1,10 @@
 ---
 title: "What Is Food Writing?"
 slug: food-writing
-description: "Food writing covers restaurant reviews, cookbooks, food journalism, and culinary memoir. Learn about the craft, key writers, and career paths."
+description: "Food writing covers restaurant reviews, cookbooks, food journalism, and culinary memoir. Learn about the craft, key writers, and career paths. Discover the k..."
 category: arts-amp-culture
 tags: ["food", "writing", "culinary arts", "journalism", "culture", "recipes"]
-heroImage: "/images/articles/food-writing.webp"
+heroImage: "/images/articles/food-writing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of food writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

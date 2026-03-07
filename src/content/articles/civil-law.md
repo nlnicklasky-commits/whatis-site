@@ -4,7 +4,7 @@ slug: civil-law
 description: "Civil law is the body of law governing disputes between private parties, covering contracts, property, torts, and family matters — distinct from criminal law."
 category: everyday-concepts
 tags: ["civil law", "law", "legal system", "courts", "contracts", "justice"]
-heroImage: "/images/articles/civil-law.webp"
+heroImage: "/images/articles/civil-law-hero.webp"
 heroAlt: "Editorial photograph representing the concept of civil law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -24,7 +24,7 @@ faq:
   - q: "What is the difference between civil law and criminal law?"
     a: "Criminal law deals with offenses against the state or society (crimes), prosecuted by the government, with penalties including imprisonment. Civil law deals with disputes between private parties (individuals, companies, organizations), where the injured party sues for compensation or specific performance. The burden of proof differs: criminal cases require proof 'beyond a reasonable doubt'; civil cases require only a 'preponderance of the evidence' (more likely than not)."
   - q: "What does civil law mean in different contexts?"
-    a: "The term 'civil law' has two distinct meanings. First: the branch of law governing private disputes (contracts, torts, property) — as opposed to criminal law. Second: the civil law legal tradition (based on Roman law and comprehensive legal codes) used in continental Europe, Latin America, and much of the world — as opposed to the common law tradition (based on judicial precedent) used in England, the U.S., and other former British colonies."
+    a: "The term 'civil law' has two distinct meanings. First: the branch of law governing private disputes (contracts, torts, property) — as opposed to criminal law. Second: the civil law legal tradition (based on Roman law and complete legal codes) used in continental Europe, Latin America, and much of the world — as opposed to the common law tradition (based on judicial precedent) used in England, the U.S., and other former British colonies."
   - q: "Do you need a lawyer for a civil case?"
     a: "Legally, no — you have the right to represent yourself (pro se) in civil cases. Practically, it depends on complexity and stakes. Small claims court is designed for self-representation (claims typically under $5,000-$10,000). Complex litigation — contract disputes, personal injury, business conflicts — generally requires legal representation. About 76% of civil cases in state courts involve at least one self-represented party, usually in family law matters."
 ---

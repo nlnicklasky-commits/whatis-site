@@ -4,7 +4,7 @@ slug: drumming
 description: "Drumming is the art of creating rhythm by striking drums and percussion instruments. Explore its history, techniques, styles, health benefits, and culture."
 category: arts-amp-culture
 tags: ["drumming", "arts-amp-culture"]
-heroImage: "/images/articles/drumming.webp"
+heroImage: "/images/articles/drumming-hero.webp"
 heroAlt: "Editorial photograph representing the concept of drumming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -41,7 +41,7 @@ Every culture on Earth drums. West African djembe ensembles, Japanese taiko grou
 
 ## The Modern Drum Kit
 
-The drum kit (or drum set) is a 20th-century American [invention](/invention). Before it existed, marching bands and orchestras used separate percussionists for each instrument — one person on bass drum, another on snare, another on cymbals. Around 1900, New Orleans musicians began combining these instruments so a single player could play them simultaneously, driven partly by [economics](/economics) (one drummer is cheaper than three) and partly by the demands of the emerging [jazz](/jazz) idiom.
+The drum kit (or drum set) is a 20th-century American [invention](/invention). Before it existed, marching bands and orchestras used separate percussionists for each instrument — one person on bass drum, another on snare, another on cymbals. Around 1900, New Orleans musicians began combining these instruments so a single player could play them simultaneously, driven partly by [economics](/economics) (one drummer is cheaper than three) and partly by the demands of the emerging [jazz](/jazz-music) idiom.
 
 The standard five-piece kit — bass drum, snare drum, three toms, hi-hat, ride cymbal, and crash cymbals — was largely established by the 1930s-1940s. Gene Krupa, Buddy Rich, and Max Roach were among the first drummers to make the kit a solo instrument rather than merely a timekeeping device.
 

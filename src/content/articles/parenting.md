@@ -4,7 +4,7 @@ slug: parenting
 description: "Parenting is the process of raising children, shaping their development through care, guidance, and support. Learn about styles, challenges, and research."
 category: everyday-concepts
 tags: ["parenting", "child development", "family", "child rearing", "nurturing", "discipline"]
-heroImage: "/images/articles/parenting.webp"
+heroImage: "/images/articles/parenting-hero.webp"
 heroAlt: "Editorial photograph representing the concept of parenting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -59,7 +59,7 @@ Parenting research has produced mountains of data and several genuinely useful i
 
 **Harsh punishment backfires.** Decades of research show that physical punishment and harsh verbal criticism are associated with increased aggression, lower self-esteem, and damaged parent-child relationships. Effective discipline focuses on [teaching](/teaching), not punishing — natural consequences, logical consequences, and redirection.
 
-**Screen time is complicated.** The AAP recommends no screens before 18 months (except video calling), limited use for ages 2-5, and consistent limits thereafter. But the research is more nuanced than simple time limits suggest — the content matters more than the clock. Educational content has different effects than passive consumption, and interactive use (video calling with grandparents) is different from passive screen time.
+**Screen time is complicated.** The AAP recommends no screens before 18 months (except video calling), limited use for ages 2-5, and consistent limits thereafter. But the research is more layered than simple time limits suggest — the content matters more than the clock. Educational content has different effects than passive consumption, and interactive use (video calling with grandparents) is different from passive screen time.
 
 ## The Stages
 

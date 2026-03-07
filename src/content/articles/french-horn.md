@@ -1,10 +1,10 @@
 ---
 title: "What Is French Horn?"
 slug: french-horn
-description: "The French horn is a brass instrument known for its warm, rich tone. Learn about its design, technique, orchestral role, and famous repertoire."
+description: "The French horn is a brass instrument known for its warm, rich tone. Learn about its design, technique, orchestral role, and famous repertoire. Discover the ..."
 category: arts-amp-culture
 tags: ["musical instrument", "brass", "orchestra", "music performance", "classical music", "horn"]
-heroImage: "/images/articles/french-horn.webp"
+heroImage: "/images/articles/french-horn-hero.webp"
 heroAlt: "Editorial photograph representing the concept of french horn"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -4,7 +4,7 @@ slug: sound-engineering
 description: "Sound engineering is the technical craft of recording, mixing, and reproducing audio. Learn about microphones, signal flow, mixing consoles, and studio."
 category: technology
 tags: ["sound engineering", "audio", "music production", "recording", "acoustics", "mixing"]
-heroImage: "/images/articles/sound-engineering.webp"
+heroImage: "/images/articles/sound-engineering-hero.webp"
 heroAlt: "Editorial photograph representing the concept of sound engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -28,7 +28,7 @@ faq:
   - q: "Do you need a degree to become a sound engineer?"
     a: "No, though formal education helps. Many successful sound engineers learned through apprenticeships, internships at recording studios, or self-study. What matters most is practical experience with real equipment and real sessions. That said, degree programs in audio engineering teach signal processing theory, acoustics, and electronics fundamentals that are hard to pick up on your own."
   - q: "What is the loudness war?"
-    a: "The loudness war refers to the trend from the 1990s through the 2010s of mastering music at progressively higher levels, compressing the dynamic range to make songs sound louder on radio and in casual listening. The trade-off was reduced musical dynamics and increased listener fatigue. Streaming platforms now normalize playback volume, which has reduced the incentive to master as loud as possible."
+    a: "The loudness war refers to the trend from the 1990s through the 2010s of mastering music at progressively higher levels, compressing the energetic range to make songs sound louder on radio and in casual listening. The trade-off was reduced musical dynamics and increased listener fatigue. Streaming platforms now normalize playback volume, which has reduced the incentive to master as loud as possible."
   - q: "What sample rate should I record at?"
     a: "44.1 kHz is the CD standard and captures all frequencies up to 22.05 kHz — well above the 20 kHz limit of human hearing. Recording at 48 kHz is standard for video production. Higher rates like 96 kHz or 192 kHz are sometimes used in professional studios to provide headroom for processing, but the audible difference is debated among engineers."
   - q: "What does a mastering engineer do?"

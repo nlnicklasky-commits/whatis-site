@@ -4,7 +4,7 @@ slug: formal-languages
 description: "Formal languages are mathematically defined sets of strings used in computer science and linguistics. Learn about grammars, automata, and applications."
 category: everyday-concepts
 tags: ["formal languages", "computer science", "automata theory", "grammar", "programming", "linguistics"]
-heroImage: "/images/articles/formal-languages.webp"
+heroImage: "/images/articles/formal-languages-hero.webp"
 heroAlt: "Editorial photograph representing the concept of formal languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

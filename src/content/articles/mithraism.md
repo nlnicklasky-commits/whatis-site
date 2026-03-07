@@ -4,7 +4,7 @@ slug: mithraism
 description: "Mithraism was a mysterious Roman cult centered on the god Mithras. Learn about its secret rituals, underground temples, and rivalry with early Christianity."
 category: history
 tags: ["religion", "mithraism", "ancient religions"]
-heroImage: "/images/articles/mithraism.webp"
+heroImage: "/images/articles/mithraism-hero.webp"
 heroAlt: "Editorial photograph representing the concept of mithraism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

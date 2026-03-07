@@ -1,10 +1,10 @@
 ---
 title: "What Is Roman Mythology?"
 slug: roman-mythology
-description: "Roman mythology is the collection of myths, gods, and legends from ancient Rome that shaped religion, culture, and Western storytelling traditions."
+description: "Roman mythology is the collection of myths, gods, and legends from ancient Rome that shaped religion, culture, and Western storytelling traditions. Discover ..."
 category: history
 tags: ["roman gods", "roman legends", "ancient rome", "mythology"]
-heroImage: "/images/articles/roman-mythology.webp"
+heroImage: "/images/articles/roman-mythology-hero.webp"
 heroAlt: "Editorial photograph representing the concept of roman mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,6 +31,7 @@ faq:
     a: "Roman mythology declined gradually as Christianity spread through the Empire during the 3rd and 4th centuries CE. Emperor Theodosius I banned pagan worship in 391 CE. However, Roman myths survived through literature and were enthusiastically revived during the Renaissance."
 ---
 
+# What Is Roman Mythology?
 Roman [mythology](/mythology) is the body of myths, [legends](/legends), and religious beliefs from ancient Rome — stories about gods, heroes, and the founding of civilization that shaped Roman identity for over a thousand years. These aren't just quaint old tales. They influenced art, [literature](/literature), law, [politics](/politics), and even the calendar you use today.
 
 If you know the days of the week or the planets in our solar system, you already know Roman mythology. Saturday? Named for Saturn. Mars, Venus, Jupiter, Mercury? All Roman gods. January comes from Janus, the two-faced god of doorways and beginnings. Roman mythology is baked into Western culture so deeply that most people don't even notice it.

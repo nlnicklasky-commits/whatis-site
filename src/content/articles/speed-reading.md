@@ -1,10 +1,10 @@
 ---
 title: "What Is Speed Reading?"
 slug: speed-reading
-description: "Speed reading is a set of techniques for reading faster while retaining information. Learn about methods, the science, and what actually works."
+description: "Speed reading is a set of techniques for reading faster while retaining information. Learn about methods, the science, and what actually works. Discover the ..."
 category: everyday-concepts
 tags: ["speed reading", "reading", "literacy", "study skills", "productivity", "learning"]
-heroImage: "/images/articles/speed-reading.webp"
+heroImage: "/images/articles/speed-reading-hero.webp"
 heroAlt: "Editorial photograph representing the concept of speed reading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Speed Reading?
 
-Speed reading refers to a collection of techniques designed to increase reading speed beyond the normal 200-300 words per minute that most adults manage. The practice has been promoted since the 1950s, when Evelyn Wood — a schoolteacher from Utah — claimed she could read at 2,700 words per minute and began [teaching](/teaching) her methods commercially. Since then, speed reading has been a fixture of self-improvement culture, promising that you can read three, five, or even ten times faster with the right techniques.
+Speed reading refers to a collection of [techniques](/memory-techniques) designed to increase reading speed beyond the normal 200-300 words per minute that most adults manage. The practice has been promoted since the 1950s, when Evelyn Wood — a schoolteacher from Utah — claimed she could read at 2,700 words per minute and began [teaching](/teaching) her methods commercially. Since then, speed reading has been a fixture of self-improvement culture, promising that you can read three, five, or even ten times faster with the right techniques.
 
 Here's the honest version: some speed reading principles genuinely help. Others are scientifically questionable at best. And the most extreme claims — reading 1,000+ words per minute with full comprehension — are almost certainly impossible, based on what we know about how the human visual system and brain process text.
 

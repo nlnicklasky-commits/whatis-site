@@ -4,7 +4,7 @@ slug: video-editing
 description: "Video editing is the process of selecting, arranging, and modifying recorded footage into a finished production. Learn about techniques, software, and skills."
 category: arts-amp-culture
 tags: ["video editing", "filmmaking", "post-production", "editing software", "content creation", "media"]
-heroImage: "/images/articles/video-editing.webp"
+heroImage: "/images/articles/video-editing-hero.webp"
 heroAlt: "Editorial photograph representing the concept of video editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Plant Pathology?"
 slug: plant-pathology
-description: "Plant pathology studies diseases in plants caused by fungi, bacteria, viruses, and environmental stress — and how to prevent crop losses worldwide."
+description: "Plant pathology studies diseases in plants caused by fungi, bacteria, viruses, and environmental stress — and how to prevent crop losses worldwide. Discover ..."
 category: science
 tags: ["plants", "diseases", "agriculture", "pathogens", "crops", "botany", "ecology"]
 heroImage: "/images/articles/plant-pathology-hero.webp"
