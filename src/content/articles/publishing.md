@@ -5,7 +5,7 @@ description: "Publishing is the process of producing and distributing written co
 category: everyday-concepts
 tags: ["publishing", "books", "magazines", "digital publishing", "content creation", "distribution"]
 heroImage: "/images/articles/publishing.webp"
-heroAlt: "Printing press with books and manuscripts in a publishing facility"
+heroAlt: "Editorial photograph representing the concept of publishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Publishing?
 
-Publishing is the process of making content — books, magazines, newspapers, journals, digital media — available to the public. It encompasses everything from a manuscript sitting on an author's desk to a finished book in a reader's hands: editing, design, production, marketing, distribution, and sales. The industry is ancient (movable type appeared in China around 1040 CE), massive ($130+ billion globally for books alone), and currently undergoing its biggest transformation since Gutenberg.
+Publishing is the process of making content — books, magazines, newspapers, journals, digital media — available to the public. It encompasses everything from a manuscript sitting on an author's desk to a finished book in a reader's hands: [editing](/editing), design, production, [marketing](/marketing), distribution, and [sales](/sales). The industry is ancient (movable type appeared in China around 1040 CE), massive ($130+ billion globally for books alone), and currently undergoing its biggest transformation since Gutenberg.
 
 ## How Traditional Book Publishing Works
 
@@ -42,12 +42,12 @@ The traditional publishing process is slower than most people expect. From finis
 **Editing.** The manuscript goes through multiple rounds of editing:
 - Developmental editing (big-picture structure, pacing, character, argument)
 - Line editing (sentence-level clarity, style, flow)
-- Copy editing (grammar, consistency, factual accuracy)
+- Copy editing ([grammar](/grammar), consistency, factual accuracy)
 - Proofreading (final error-catching before printing)
 
 Good editing transforms manuscripts. The difference between a raw manuscript and a finished book is usually dramatic — and invisible to readers, which is exactly how it should be.
 
-**Design and production.** Cover design (which affects sales more than most authors like to admit), interior layout, typesetting, and paper selection. The cover design process can be contentious — authors often have limited control, and the marketing department's opinion carries significant weight because they know what sells.
+**Design and production.** Cover design (which affects sales more than most authors like to admit), interior layout, [typesetting](/typesetting), and paper selection. The cover design process can be contentious — authors often have limited control, and the marketing department's opinion carries significant weight because they know what sells.
 
 **Marketing and publicity.** The publisher's marketing team creates a launch plan: advance review copies to media and booksellers, author interviews and events, social media campaigns, advertising, and placement in bookstores. Most of the marketing budget goes to a small number of "lead titles" — the books the publisher expects to sell the most. The majority of books get minimal marketing support.
 
@@ -55,7 +55,7 @@ Good editing transforms manuscripts. The difference between a raw manuscript and
 
 ## The Big Five
 
-Five major publishing conglomerates dominate English-language trade publishing:
+Five major publishing conglomerates dominate English-language [trade](/trade) publishing:
 
 1. **Penguin Random House** (owned by Bertelsmann) — the largest, publishing over 15,000 titles annually
 2. **HarperCollins** (owned by News Corp)
@@ -67,7 +67,7 @@ These five publishers and their many imprints account for roughly 80% of traditi
 
 Thousands of independent publishers also operate — small presses, university presses, and specialty publishers that often take more creative risks than the Big Five and serve niche audiences underserved by mainstream publishing.
 
-## Self-Publishing
+## [Self-Publishing](/self-publishing)
 
 Self-publishing has exploded since Amazon launched Kindle Direct Publishing (KDP) in 2007. Authors can now publish ebooks and print-on-demand paperbacks with no upfront cost, reaching the same global marketplace as traditionally published authors.
 
@@ -83,7 +83,7 @@ Publishing extends well beyond books:
 
 **Magazines and periodicals** operate on a different model — advertising revenue historically subsidized content, with subscription fees covering only a fraction of costs. The shift to digital has devastated this model, as online advertising pays far less than print advertising. Many magazines have folded or gone digital-only.
 
-**Academic and scholarly publishing** is its own world, with distinct economics. Researchers typically receive no payment for journal articles (their universities pay their salaries). Journals charge libraries $1,000-$40,000 per subscription. The open-access movement is challenging this model, arguing that publicly funded research should be freely available.
+**Academic and scholarly publishing** is its own world, with distinct [economics](/economics). Researchers typically receive no payment for journal articles (their universities pay their salaries). Journals charge libraries $1,000-$40,000 per subscription. The open-access movement is challenging this model, arguing that publicly funded research should be freely available.
 
 **Digital-native publishing** — newsletters (Substack), podcasts, blogs, and social media content creation — has created new forms of publishing that bypass traditional gatekeepers entirely. Some newsletter writers earn six or seven figures. Some podcasters reach audiences larger than many magazines.
 

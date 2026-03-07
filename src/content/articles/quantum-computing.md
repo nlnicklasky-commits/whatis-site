@@ -5,7 +5,7 @@ description: "Quantum computing uses qubits, superposition, and entanglement to 
 category: technology
 tags: ["quantum computing", "qubits", "quantum mechanics", "superposition", "entanglement", "algorithms"]
 heroImage: "/images/articles/quantum-computing-hero.webp"
-heroAlt: "Quantum computer processor with glowing blue qubits in a dilution refrigerator"
+heroAlt: "Editorial photograph representing the concept of quantum computing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -109,7 +109,7 @@ A 2048-bit RSA key would require a classical computer billions of years to crack
 
 Grover's algorithm, published in 1996, provides a quadratic speedup for unstructured search problems. If searching through N items classically takes N steps, Grover's algorithm takes roughly the square root of N steps. For a database of 1 million items, that's 1,000 steps instead of 1,000,000.
 
-A quadratic speedup is less dramatic than Shor's exponential speedup, but it applies to a much broader class of problems. Any computation that involves searching through possibilities -- optimization, constraint satisfaction, certain machine learning tasks -- could potentially benefit.
+A quadratic speedup is less dramatic than Shor's exponential speedup, but it applies to a much broader class of problems. Any computation that involves searching through possibilities -- [optimization](/optimization), constraint satisfaction, certain machine learning tasks -- could potentially benefit.
 
 ### Quantum Simulation: The Original Motivation
 
@@ -117,7 +117,7 @@ Richard Feynman proposed quantum computing in 1982, and his original motivation 
 
 Simulating the behavior of molecules and materials on classical computers is extraordinarily difficult because the quantum state space grows exponentially. A molecule with 100 electrons requires tracking quantum states in a space with more dimensions than atoms in the universe. Classical computers simply can't do it for interesting molecules.
 
-Quantum computers can simulate quantum systems naturally because they are quantum systems. This has enormous implications for drug discovery, materials science, and [chemistry](/quantum-chemistry). Instead of spending years synthesizing and testing new drugs in the lab, pharmaceutical companies could simulate molecular interactions on a quantum computer.
+Quantum computers can simulate quantum systems naturally because they are quantum systems. This has enormous implications for drug discovery, [materials science](/materials-science), and [chemistry](/quantum-chemistry). Instead of spending years synthesizing and testing new drugs in the lab, pharmaceutical companies could simulate molecular interactions on a quantum computer.
 
 In 2024, researchers at Google Quantum AI simulated the behavior of a crystalline material with greater accuracy than any classical method, demonstrating that quantum simulation is beginning to deliver on Feynman's original vision.
 
@@ -145,7 +145,7 @@ The solution is quantum error correction (QEC), which encodes a single "logical 
 
 The catch: overhead is enormous. Current estimates suggest you need 1,000 to 10,000 physical qubits per logical qubit, depending on the error rate and the error correction code used. To run Shor's algorithm on a 2048-bit number, you'd need roughly 4,000 logical qubits -- meaning 4 million to 40 million physical qubits.
 
-In 2024, Google demonstrated that increasing the size of its error-correcting code actually reduced the logical error rate -- a milestone called "below threshold" that proves QEC works in practice, not just in theory. This was a genuine breakthrough, but scaling to millions of physical qubits remains a formidable engineering challenge.
+In 2024, Google demonstrated that increasing the size of its error-correcting code actually reduced the logical error rate -- a milestone called "below threshold" that proves QEC works in practice, not just in theory. This was a genuine breakthrough, but scaling to millions of physical qubits remains a formidable [engineering](/engineering) challenge.
 
 ## Who's Building Quantum Computers?
 
@@ -211,9 +211,9 @@ The field is making genuine, rapid progress. But the gap between a research mile
 
 One of the most discussed -- and most uncertain -- potential applications is using quantum computers to accelerate machine learning.
 
-The theory is promising. Many machine learning tasks involve optimization over high-dimensional spaces, linear algebra on enormous matrices, and sampling from complex probability distributions. These are all things quantum computers could theoretically accelerate.
+The theory is promising. Many machine learning tasks involve optimization over high-dimensional spaces, [linear algebra](/linear-algebra) on enormous matrices, and sampling from complex probability distributions. These are all things quantum computers could theoretically accelerate.
 
-In practice, the results are mixed. Quantum machine learning algorithms exist (quantum kernel methods, quantum neural networks, quantum Boltzmann machines), but they haven't yet demonstrated clear advantages over classical methods on practical datasets. The challenge is that classical machine learning algorithms are incredibly well-optimized, and quantum hardware is still too noisy and small to compete.
+In practice, the results are mixed. Quantum machine learning algorithms exist (quantum kernel methods, quantum [neural networks](/neural-networks), quantum Boltzmann machines), but they haven't yet demonstrated clear advantages over classical methods on practical datasets. The challenge is that classical machine learning algorithms are incredibly well-optimized, and quantum hardware is still too noisy and small to compete.
 
 This will likely change as quantum hardware improves, but the timeline is uncertain. The intersection of quantum computing and AI is an active research area with more questions than answers.
 
@@ -231,7 +231,7 @@ The technology is real. The progress is genuine. The timeline is uncertain but m
 
 ## Key Takeaways
 
-Quantum computing uses the principles of quantum mechanics -- superposition, entanglement, and interference -- to perform calculations that are fundamentally impossible for classical computers. It's not a faster version of your laptop; it's a different kind of machine for a different class of problems.
+Quantum computing uses the principles of [quantum mechanics](/quantum-mechanics) -- superposition, entanglement, and interference -- to perform calculations that are fundamentally impossible for classical computers. It's not a faster version of your laptop; it's a different kind of machine for a different class of problems.
 
 The field has achieved genuine milestones: quantum advantage demonstrations, below-threshold error correction, and early practical applications in chemistry simulation. Major challenges remain, particularly in scaling qubit counts while maintaining coherence and reducing errors.
 

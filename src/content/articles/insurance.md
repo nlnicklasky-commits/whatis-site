@@ -5,7 +5,7 @@ description: "Insurance is a financial contract where you pay premiums to transf
 category: finance
 tags: ["insurance", "risk management", "finance", "premiums", "claims", "policy", "financial protection"]
 heroImage: "/images/articles/insurance-hero.webp"
-heroAlt: "Umbrella sheltering a family silhouette representing insurance protection"
+heroAlt: "Editorial photograph representing the concept of insurance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Insurance is a financial contract between you and an insurance company. You pay regular amounts of money (premiums), and in return, the insurer promises to cover certain financial losses if specific bad things happen to you — car accidents, house fires, medical emergencies, or death.
 
-That's the basic deal: you trade a small, predictable expense (premiums) for protection against large, unpredictable expenses (catastrophic losses). You're essentially paying someone else to worry about the worst-case scenario so you don't have to.
+That's the basic deal: you [trade](/trade) a small, predictable expense (premiums) for protection against large, unpredictable expenses (catastrophic losses). You're essentially paying someone else to worry about the worst-case scenario so you don't have to.
 
 ## How Insurance Actually Works
 
@@ -93,7 +93,7 @@ Most Americans get health insurance through their employer (about 49%), Medicare
 
 The Affordable Care Act (2010) made several major changes: insurers can't deny coverage for pre-existing conditions, children can stay on parents' plans until age 26, and all plans must cover essential health benefits. These protections came with trade-offs — mainly higher premiums for some healthy individuals who now subsidize sicker enrollees.
 
-[Health insurance](/health-insurance) is genuinely one of the most important financial decisions you'll make. A three-day hospital stay can easily cost $30,000. Major surgery can exceed $100,000. Without insurance, these costs can cause bankruptcy — medical debt is the leading cause of personal bankruptcy in the United States.
+[Health insurance](/health-insurance) is genuinely one of the most important financial decisions you'll make. A three-day hospital stay can easily cost $30,000. Major [surgery](/surgery) can exceed $100,000. Without insurance, these costs can cause bankruptcy — medical debt is the leading cause of personal bankruptcy in the United States.
 
 ### Auto Insurance
 
@@ -179,7 +179,7 @@ For most property and casualty insurers, the combined ratio (claims plus expense
 
 Insurance companies deny claims more often than most people expect. Common reasons: the event isn't covered (many people don't read their policies carefully), the policyholder didn't meet filing deadlines, there's a coverage dispute about the cause or extent of damage, or the insurer alleges misrepresentation on the application.
 
-If your claim is denied, request the denial in writing with specific reasons. Review your policy language carefully. File a formal appeal with the insurer. If that fails, contact your state insurance commissioner — they have consumer complaint processes that can pressure insurers to reconsider. For large claims, hiring a public adjuster or attorney may be worthwhile.
+If your claim is denied, request the denial in [writing](/writing) with specific reasons. Review your policy language carefully. File a formal appeal with the insurer. If that fails, contact your state insurance commissioner — they have consumer complaint processes that can pressure insurers to reconsider. For large claims, hiring a public adjuster or attorney may be worthwhile.
 
 ### Underinsurance
 
@@ -229,7 +229,7 @@ Insurance should be a foundation of [financial planning](/financial-planning), n
 
 ## Key Takeaways
 
-Insurance is a financial mechanism for transferring risk from individuals to a large pool of policyholders, managed by insurance companies that use statistical modeling to price that risk. It works because large groups have predictable loss patterns even though individual outcomes are uncertain.
+Insurance is a financial mechanism for transferring risk from individuals to a large pool of policyholders, managed by insurance companies that use [statistical modeling](/statistical-modeling) to price that risk. It works because large groups have predictable loss patterns even though individual outcomes are uncertain.
 
 The major types — health, auto, homeowner's, life, and disability — each protect against different risks. Insurance is regulated at the state level, priced by actuaries, and evolving rapidly due to climate change, technology, and shifting risk patterns.
 

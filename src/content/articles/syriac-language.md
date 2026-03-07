@@ -5,7 +5,7 @@ description: "Syriac is an ancient Aramaic dialect that shaped Middle Eastern Ch
 category: arts-amp-culture
 tags: ["syriac language", "Aramaic", "ancient languages", "Christianity", "Middle East", "linguistics"]
 heroImage: "/images/articles/syriac-language.webp"
-heroAlt: "Syriac script written on an ancient manuscript with ornate lettering"
+heroAlt: "Editorial photograph representing the concept of syriac language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Syriac Language?
 
-Syriac is an ancient Semitic language — a literary dialect of Aramaic that emerged around the 1st century AD in Edessa (modern-day Sanliurfa, Turkey) and became one of the most important literary and religious languages of the Middle East. For over a thousand years, it served as the language of theology, philosophy, science, and poetry across a vast region from the Mediterranean to India.
+Syriac is an ancient Semitic language — a literary dialect of Aramaic that emerged around the 1st century AD in Edessa (modern-day Sanliurfa, Turkey) and became one of the most important literary and religious languages of the Middle East. For over a thousand years, it served as the language of theology, [philosophy](/philosophy), science, and [poetry](/poetry) across a vast region from the Mediterranean to India.
 
 If you've heard of Aramaic — the language Jesus likely spoke — Syriac is its most accomplished literary descendant. And its influence on world history is far greater than most people realize.
 
@@ -39,9 +39,9 @@ If you've heard of Aramaic — the language Jesus likely spoke — Syriac is its
 
 Syriac's greatest significance is religious. It became the primary language of [Christianity](/christianity) across the eastern reaches of the faith — from the Syriac Orthodox Church and the Church of the East to the Maronite and Chaldean Catholic traditions.
 
-The Peshitta, the Syriac translation of the Bible, dates to the 2nd-5th centuries and remains the standard scripture for several Eastern Christian denominations. Some scholars argue that portions of the New Proof may have been originally composed in Aramaic/Syriac rather than Greek — a debated but persistent theory.
+The Peshitta, the Syriac [translation](/translation) of the Bible, dates to the 2nd-5th centuries and remains the standard scripture for several Eastern Christian denominations. Some scholars argue that portions of the New Proof may have been originally composed in Aramaic/Syriac rather than Greek — a debated but persistent theory.
 
-Syriac hymns, composed by figures like Ephrem the Syrian (306-373 AD), are still sung in Syriac churches today. Ephrem's poetry is considered some of the finest devotional literature ever written, and his theological ideas influenced both Eastern and Western Christian thought.
+Syriac hymns, composed by figures like Ephrem the Syrian (306-373 AD), are still sung in Syriac churches today. Ephrem's poetry is considered some of the finest devotional [literature](/literature) ever written, and his theological ideas influenced both Eastern and Western Christian thought.
 
 ## The Script
 
@@ -59,15 +59,15 @@ All three are written right to left, like Arabic and Hebrew. The Syriac alphabet
 
 Here's the part of the story that deserves more attention: Syriac scholars preserved and transmitted Greek knowledge during a period when much of it was being lost in the West.
 
-Between the 5th and 8th centuries, Syriac-speaking [scholars](/middle-eastern-history) — many of them monks — translated Greek works of philosophy, medicine, astronomy, and logic into Syriac. Aristotle, Hippocrates, Galen, and Euclid were all rendered into Syriac at monastic translation centers.
+Between the 5th and 8th centuries, Syriac-speaking [scholars](/middle-eastern-history) — many of them monks — translated Greek works of philosophy, medicine, [astronomy](/astronomy), and logic into Syriac. Aristotle, Hippocrates, Galen, and Euclid were all rendered into Syriac at monastic translation centers.
 
 When Arab Muslim scholars later undertook their own massive translation project during the Islamic Golden Age (8th-12th centuries), they frequently translated from Syriac rather than directly from Greek. The famous Baghdad House of Wisdom employed numerous Syriac-speaking Christian scholars, including Hunayn ibn Ishaq, who supervised translations of hundreds of Greek medical and scientific works.
 
-Without this Syriac bridge, the transmission of Greek knowledge to the Islamic world — and eventually back to medieval Europe — might not have happened. The intellectual history of the world would look very different.
+Without this Syriac bridge, the transmission of Greek knowledge to the Islamic world — and eventually back to medieval Europe — might not have happened. The [intellectual history](/intellectual-history) of the world would look very different.
 
 ## The Spread East
 
-One of the most remarkable chapters in Syriac history is its eastward expansion. The Church of the East — sometimes called the Nestorian Church — sent missionaries along the Silk Road, bringing Syriac language and Christian faith as far as China, India, and Mongolia.
+One of the most remarkable chapters in Syriac history is its eastward expansion. The Church of the East — sometimes called the Nestorian Church — sent missionaries along the [Silk Road](/silk-road), bringing Syriac language and Christian faith as far as China, India, and Mongolia.
 
 Syriac inscriptions have been found in China dating to the 7th century. The famous Xi'an Stele (erected in 781 AD) describes the arrival of Christianity in China in both Chinese and Syriac. The Thomas Christians of India used Syriac in their liturgy for centuries.
 

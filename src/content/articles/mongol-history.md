@@ -5,7 +5,7 @@ description: "Mongol history covers the rise of Genghis Khan, the vast Mongol Em
 category: everyday-concepts
 tags: ["mongol history", "Genghis Khan", "Mongol Empire", "Asian history", "conquests", "steppe nomads"]
 heroImage: "/images/articles/mongol-history.webp"
-heroAlt: "Mongolian steppe landscape with traditional ger tent and horseman in the distance"
+heroAlt: "Editorial photograph representing the concept of mongol history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The Mongol Empire at its peak (circa 1279) stretched from the Pacific coast of K
 
 The Mongol steppe — the vast grassland stretching across what's now Mongolia and southern Siberia — was home to numerous nomadic tribes who lived by herding horses, cattle, sheep, and goats. These tribes were fractious, constantly warring with each other, and generally regarded by neighboring civilizations (China, Persia) as barbarians.
 
-Life on the steppe was harsh. Winters dropped to -40°F. Food was seasonal and unpredictable. Children learned to ride horses almost before they could walk. This environment produced extraordinarily tough, mobile people with superb horsemanship and archery skills — skills that would prove devastating when organized and directed.
+Life on the steppe was harsh. Winters dropped to -40°F. Food was seasonal and unpredictable. Children learned to ride horses almost before they could walk. This environment produced extraordinarily tough, mobile people with superb horsemanship and [archery](/archery) skills — skills that would prove devastating when organized and directed.
 
 ## The Rise of Genghis Khan
 
@@ -47,7 +47,7 @@ Temujin, born around 1162, grew up in a world of tribal feuds and personal hards
 
 In 1206, a great assembly (kurultai) of Mongol leaders proclaimed him "Genghis Khan" — roughly "universal ruler." He was about 44 years old. Over the next 21 years until his death in 1227, he would conquer more territory than any individual in history.
 
-His military innovations were remarkable. The Mongol army operated on a decimal system (units of 10, 100, 1,000, and 10,000). Promotions were based on merit, not birth. Communication used relay stations (the yam postal system). Intelligence gathering was systematic — spies and scouts preceded every campaign. Psychological warfare (spreading terror through reputation) often convinced cities to surrender without a fight.
+His military innovations were remarkable. The Mongol army operated on a decimal system (units of 10, 100, 1,000, and 10,000). Promotions were based on merit, not birth. Communication used relay stations (the yam postal system). Intelligence gathering was systematic — spies and scouts preceded every campaign. [Psychological warfare](/psychological-warfare) (spreading terror through reputation) often convinced cities to surrender without a fight.
 
 The Mongol army's combination of mobility (each warrior had 3-5 horses), firepower (the composite bow, effective at 300+ yards), discipline, and tactical flexibility made them nearly unbeatable in the field. They defeated every major army they encountered — Chinese, Persians, Russians, Poles, Hungarians — often while outnumbered.
 
@@ -63,9 +63,9 @@ The Mongol army's combination of mobility (each warrior had 3-5 horses), firepow
 
 Here's what's often overlooked: the Mongol Empire wasn't just destruction. The "Pax Mongolica" — the period of relative peace and stability across the empire — produced genuine benefits:
 
-**Trade.** The Silk Road flourished under Mongol protection. Goods, ideas, and technologies flowed between China and Europe more freely than at any previous time. Marco Polo's famous journey to China was possible because of Mongol-secured routes.
+**[Trade](/trade).** [The Silk Road](/silk-road) flourished under Mongol protection. Goods, ideas, and technologies flowed between China and Europe more freely than at any previous time. Marco Polo's famous journey to China was possible because of Mongol-secured routes.
 
-**Religious tolerance.** The Mongols practiced shamanism but were remarkably tolerant of other religions. Christians, Muslims, Buddhists, and others coexisted within the empire. This was unusual for the era.
+**Religious tolerance.** The Mongols practiced [shamanism](/shamanism) but were remarkably tolerant of other religions. Christians, Muslims, Buddhists, and others coexisted within the empire. This was unusual for the era.
 
 **Cultural exchange.** Chinese gunpowder technology reached Europe. Persian astronomical knowledge reached China. Artistic, medical, and agricultural knowledge circulated across the continent.
 

@@ -5,7 +5,7 @@ description: "Theoretical computer science studies computation itself — what c
 category: technology
 tags: ["theoretical computer science", "computer science", "algorithms", "computability"]
 heroImage: "/images/articles/theoretical-computer-science.webp"
-heroAlt: "An abstract visualization of a Turing machine tape with binary symbols stretching into the distance alongside computational complexity class diagrams"
+heroAlt: "Editorial photograph representing the concept of theoretical computer science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -109,7 +109,7 @@ Basically, if P = NP, the world as we know it would change overnight. The fact t
 
 In 1971, Stephen Cook proved that the Boolean satisfiability problem (SAT) — given a logical formula with variables, is there an assignment of true/false values that makes it true? — is NP-complete. This means SAT is as hard as any problem in NP. If you could solve SAT efficiently, you could solve every NP problem efficiently.
 
-Shortly after, Richard Karp showed that 21 other well-known problems are also NP-complete, including the traveling salesman problem, graph coloring, integer programming, and the knapsack problem. Today, thousands of problems are known to be NP-complete.
+Shortly after, Richard Karp showed that 21 other well-known problems are also NP-complete, including the traveling salesman problem, graph coloring, [integer programming](/integer-programming), and the knapsack problem. Today, thousands of problems are known to be NP-complete.
 
 The practical impact is huge. When a programmer encounters an NP-complete problem, they know (with very high confidence) that no efficient exact algorithm exists. They need approximation algorithms, heuristics, or restricted versions of the problem. This knowledge saves enormous amounts of wasted effort.
 
@@ -119,11 +119,11 @@ Before Turing machines, there are simpler models of computation that can do less
 
 **Finite automata** have a fixed number of states and no memory beyond the current state. They can recognize regular languages — patterns like "any string of a's followed by a single b." Your email validation regex runs on what's essentially a finite automaton. But finite automata can't count — they can't recognize, for instance, the set of strings with equal numbers of opening and closing parentheses.
 
-**Pushdown automata** add a stack (last-in, first-out memory). They can handle nested structures like matched parentheses and are the basis for parsing programming languages. But they can't do everything either.
+**Pushdown automata** add a stack (last-in, first-out memory). They can handle nested structures like matched parentheses and are the basis for parsing [programming languages](/programming-languages). But they can't do everything either.
 
 **Turing machines** add an unrestricted tape. They can do everything computationally possible.
 
-This hierarchy — finite automata < pushdown automata < Turing machines — is fundamental. It shows that computation has layers, and each layer of additional capability allows solving strictly more problems. The theory of formal languages, which classifies languages by which type of automaton recognizes them (the Chomsky hierarchy), connects [linguistics](/computational-linguistics), mathematics, and computer science.
+This hierarchy — finite automata < pushdown automata < Turing machines — is fundamental. It shows that computation has layers, and each layer of additional capability allows solving strictly more problems. The theory of [formal languages](/formal-languages), which classifies languages by which type of automaton recognizes them (the Chomsky hierarchy), connects [linguistics](/computational-linguistics), mathematics, and computer science.
 
 ## Information Theory and Coding
 
@@ -137,7 +137,7 @@ Claude Shannon's 1948 paper "A Mathematical Theory of Communication" founded inf
 
 Modern [cryptography](/cryptography) is applied TCS. The security of RSA encryption rests on the presumed difficulty of factoring large numbers — a problem believed (but not proven) to be outside P. If someone proved P = NP, RSA would be broken. If someone proved P ≠ NP, RSA's security would be strengthened (though not guaranteed — NP-hardness doesn't automatically mean a specific problem is hard).
 
-Quantum computing threatens this arrangement. Peter Shor's 1994 algorithm showed that a quantum computer could factor large numbers in polynomial time, breaking RSA. This prompted the field of post-quantum cryptography — designing encryption schemes secure even against quantum computers, based on problems (like lattice problems) believed to be hard even for quantum machines.
+[Quantum computing](/quantum-computing) threatens this arrangement. Peter Shor's 1994 algorithm showed that a quantum computer could factor large numbers in polynomial time, breaking RSA. This prompted the field of post-[quantum cryptography](/quantum-cryptography) — designing encryption schemes secure even against quantum computers, based on problems (like lattice problems) believed to be hard even for quantum machines.
 
 The interplay between TCS and cryptography illustrates how abstract theory has immediate practical consequences. The security of your online banking depends on unproven conjectures about computational complexity.
 

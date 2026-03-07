@@ -5,7 +5,7 @@ description: "Lawn care is the practice of maintaining a healthy, attractive gra
 category: everyday-concepts
 tags: ["lawn care", "gardening", "yard maintenance", "grass", "landscaping", "home improvement"]
 heroImage: "/images/articles/lawn-care.webp"
-heroAlt: "Freshly mowed green lawn with diagonal mowing stripes and garden border"
+heroAlt: "Editorial photograph representing the concept of lawn care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -83,8 +83,8 @@ American lawns collectively cover about 40 million acres — more than any singl
 
 Alternatives are gaining traction. Clover lawns (naturally nitrogen-fixing, drought-tolerant, low-mowing) are increasingly popular. Native groundcovers replace grass in areas where turf struggles. "No-mow" fine fescue blends create a meadow-like lawn that needs mowing only a few times per year. Xeriscaping eliminates lawn entirely in arid climates.
 
-The middle ground that most lawn-care experts now recommend: keep lawn where you actively use it (play areas, entertaining spaces, walking paths), and replace the rest with native plantings, groundcovers, or mulched garden beds. A smaller, well-maintained lawn is more environmentally sensible than a large, chemically dependent one.
+The middle ground that most lawn-care experts now recommend: keep lawn where you actively use it (play areas, entertaining spaces, [walking](/walking) paths), and replace the rest with native plantings, groundcovers, or mulched garden beds. A smaller, well-maintained lawn is more environmentally sensible than a large, chemically dependent one.
 
 ## Why People Care
 
-The honest answer to why Americans spend roughly $100 billion annually on lawn care is part aesthetics, part social pressure, part genuine enjoyment. A well-kept lawn does look good. Neighbors do notice. And for many people, the ritual of weekend mowing — the outdoor time, the physical activity, the visible result — is genuinely enjoyable. Whether the traditional lawn survives changing environmental awareness and water restrictions is an open question, but for now, it remains America's largest crop.
+The honest answer to why Americans spend roughly $100 billion annually on lawn care is part [aesthetics](/aesthetics), part social pressure, part genuine enjoyment. A well-kept lawn does look good. Neighbors do notice. And for many people, the ritual of weekend mowing — the outdoor time, the physical activity, the visible result — is genuinely enjoyable. Whether the traditional lawn survives changing environmental awareness and water restrictions is an open question, but for now, it remains America's largest crop.

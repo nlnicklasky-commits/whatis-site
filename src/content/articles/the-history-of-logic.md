@@ -5,7 +5,7 @@ description: "The history of logic traces how humans developed formal reasoning,
 category: history
 tags: ["history of logic", "logic", "philosophy", "aristotle", "formal logic"]
 heroImage: "/images/articles/the-history-of-logic.webp"
-heroAlt: "Ancient Greek columns alongside modern circuit boards symbolizing the evolution of logical thought"
+heroAlt: "Editorial photograph representing the concept of the history of logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 The history of logic is the story of how humans learned to think about thinking. It stretches from ancient Greek philosophers arguing in the Athenian agora all the way to the silicon chips in your phone — and the thread connecting those two endpoints is surprisingly direct.
 
-Logic, at its simplest, is the study of valid reasoning. What makes an argument actually hold together? When does a conclusion genuinely follow from its premises? These questions sound abstract, but they've shaped everything from legal systems to mathematics to the very architecture of modern computers.
+Logic, at its simplest, is the study of valid reasoning. What makes an argument actually hold together? When does a conclusion genuinely follow from its premises? These questions sound abstract, but they've shaped everything from legal systems to mathematics to the very [architecture](/architecture) of modern computers.
 
 ## The Ancient Greeks Got the Ball Rolling
 
@@ -73,7 +73,7 @@ The medieval logicians also developed the theory of **consequences** (rules gove
 
 Meanwhile, logic wasn't only a European affair. **Indian logic** had been developing independently for centuries. The Nyaya school, founded by Aksapada Gautama around the 2nd century BCE, created a five-part inference scheme. Later, Buddhist logicians like **Dignaga** (c. 480–540 CE) and **Dharmakirti** (c. 600–660 CE) developed sophisticated epistemological frameworks that included formal rules for valid inference and debate. Their work influenced philosophical traditions across South and East Asia.
 
-Chinese logic, particularly in the **Mohist** tradition (c. 400 BCE), also produced formal analyses of argumentation, including work on paradoxes and the relationship between names and reality.
+Chinese logic, particularly in the **Mohist** tradition (c. 400 BCE), also produced formal analyses of [argumentation](/argumentation), including work on paradoxes and the relationship between names and reality.
 
 ## The Long Stagnation — And Why It Happened
 
@@ -85,7 +85,7 @@ That pressure came from [mathematics](/the-history-of-mathematics).
 
 ## The 19th Century: Logic Gets Mathematical
 
-By the 1800s, mathematicians were running into problems that Aristotle's logic couldn't handle. The rigor required for calculus, analysis, and abstract algebra demanded more precise tools for reasoning.
+By the 1800s, mathematicians were running into problems that Aristotle's logic couldn't handle. The rigor required for calculus, analysis, and [abstract algebra](/abstract-algebra) demanded more precise tools for reasoning.
 
 **George Boole** (1815–1864) made the first big move. In *The Mathematical Analysis of Logic* (1847) and *An Investigation of the Laws of Thought* (1854), he showed that logical operations could be treated algebraically. True and false mapped to 1 and 0. "And" became multiplication. "Or" became addition (roughly). This was **Boolean algebra**, and it would eventually become the mathematical foundation of every digital computer on Earth.
 
@@ -103,7 +103,7 @@ The early 1900s were wild for logic. Russell and Alfred North Whitehead spent a 
 
 In 1931, **Kurt Godel** published his incompleteness theorems and basically shattered the dream. He proved that any consistent formal system powerful enough to describe basic arithmetic will contain true statements that can't be proved within the system. And you can't prove the system's own consistency from within it, either. This is one of the most important results in the history of human thought, full stop.
 
-Around the same time, **Alan Turing** and **Alonzo Church** independently tackled the "decision problem" — whether there's a mechanical procedure that can determine the truth or falsity of any logical statement. Both proved the answer is no (1936), but Turing's approach was especially important because he invented the concept of the **Turing machine** to do it. This abstract device — a theoretical computer — became the foundation of computer science.
+Around the same time, **Alan Turing** and **Alonzo Church** independently tackled the "decision problem" — whether there's a mechanical procedure that can determine the truth or falsity of any logical statement. Both proved the answer is no (1936), but Turing's approach was especially important because he invented the concept of the **Turing machine** to do it. This abstract device — a theoretical computer — became the foundation of [computer science](/computer-science).
 
 ## Logic Meets Electricity
 
@@ -117,7 +117,7 @@ This insight is the reason computers exist. Every processor in every device you 
 
 Modern logic has branched into dozens of subfields. **Modal logic** handles necessity and possibility. **Temporal logic** deals with time-dependent truths. **Fuzzy logic** allows degrees of truth between 0 and 1. **Intuitionistic logic** rejects the law of excluded middle. **Paraconsistent logic** tolerates contradictions without everything collapsing.
 
-In computer science, logic is everywhere. Programming languages are built on formal logic. Database queries use predicate logic. Artificial intelligence systems employ various logical frameworks for reasoning. The automated theorem provers used in software verification are direct descendants of the work Frege started in 1879.
+In computer science, logic is everywhere. [Programming languages](/programming-languages) are built on formal logic. Database queries use predicate logic. [Artificial intelligence](/artificial-intelligence) systems employ various logical frameworks for reasoning. The automated theorem provers used in software verification are direct descendants of the work Frege started in 1879.
 
 And yet — fundamental questions remain open. The relationship between provability and truth that Godel exposed is still philosophically unsettled. The foundations of mathematics are still debated. The limits of mechanical reasoning that Turing identified still constrain what computers can do.
 

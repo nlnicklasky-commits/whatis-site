@@ -5,7 +5,7 @@ description: "Goat farming raises goats for milk, meat, fiber, and land manageme
 category: everyday-concepts
 tags: ["goat farming", "goats", "agriculture", "livestock", "dairy farming", "meat production"]
 heroImage: "/images/articles/goat-farming.webp"
-heroAlt: "Herd of goats grazing on a green hillside pasture"
+heroAlt: "Editorial photograph representing the concept of goat farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Goats are intelligent, curious, and often described as escape artists — they will test every fence constantly. They need adequate fencing (at least 4 feet high, preferably woven wire), shelter from rain and wind, fresh water, quality hay or pasture, minerals, and regular hoof trimming and veterinary care. They're not low-maintenance, but they're rewarding."
 ---
 
-# What Is Goat Farming?
+# What Is Goat [Farming](/farming)?
 
-Goat farming is the agricultural practice of raising domestic goats for milk, meat, fiber (cashmere and mohair), hides, and land management. There are approximately 1 billion goats worldwide, making them one of the most numerous domesticated animals on Earth. Goats were among the first animals domesticated by humans — around 10,000 years ago in the Zagros Mountains of western Iran. Today they're raised on every continent except Antarctica, from industrial-scale operations to backyard homesteads.
+Goat farming is the agricultural practice of raising domestic goats for milk, meat, fiber (cashmere and mohair), hides, and land [management](/management). There are approximately 1 billion goats worldwide, making them one of the most numerous domesticated animals on Earth. Goats were among the first animals domesticated by humans — around 10,000 years ago in the Zagros Mountains of western Iran. Today they're raised on every continent except Antarctica, from industrial-scale operations to backyard homesteads.
 
 ## Why Goats
 
@@ -63,21 +63,21 @@ Different breeds suit different purposes.
 
 ## Basic Care
 
-**Fencing** is the first challenge. Goats are legendary escape artists — they climb, squeeze through gaps, and test boundaries relentlessly. Good goat fencing is at least 4 feet high, made of woven wire or cattle panels, with no gaps larger than 4x4 inches. Electric fencing works but requires training and maintenance.
+**[Fencing](/fencing)** is the first challenge. Goats are legendary escape artists — they climb, squeeze through gaps, and test boundaries relentlessly. Good goat fencing is at least 4 feet high, made of woven wire or cattle panels, with no gaps larger than 4x4 inches. Electric fencing works but requires training and maintenance.
 
 **Shelter** doesn't need to be elaborate, but goats must have protection from rain and wind. They hate getting wet (despite popular belief about their toughness) and need dry bedding. A three-sided shelter is the minimum.
 
-**Nutrition** centers on quality hay or pasture, supplemented with grain for lactating does and growing kids. Loose minerals formulated for goats (containing copper, which is toxic to sheep but essential for goats) should be available at all times. Clean water — goats drink 1-3 gallons per day — is non-negotiable.
+**[Nutrition](/nutrition)** centers on quality hay or pasture, supplemented with grain for lactating does and growing kids. Loose minerals formulated for goats (containing copper, which is toxic to sheep but essential for goats) should be available at all times. Clean water — goats drink 1-3 gallons per day — is non-negotiable.
 
 **Health management** includes regular hoof trimming (every 6-8 weeks), parasite monitoring (internal parasites are the number one health challenge), vaccination programs, and access to veterinary care. Finding a vet experienced with goats can be challenging in some areas — large-animal vets often specialize in cattle and horses.
 
-## The Economics
+## The [Economics](/economics)
 
 Goat farming economics vary dramatically by operation type and scale.
 
 **Dairy goat farming** requires the most infrastructure — milking equipment, milk storage, and potentially cheese-making facilities. Raw goat milk sells for $8-$15 per gallon at farm gates. Artisan goat cheese commands premium prices. But dairy operations require twice-daily milking, consistent management, and market development.
 
-**Meat goat production** has lower startup costs and less intensive management. Live goats sell for $2-$4 per pound. Direct-to-consumer sales (whole or half goats, sold to ethnic communities or through farmers markets) often bring higher returns than selling through auction.
+**Meat goat production** has lower startup costs and less intensive management. Live goats sell for $2-$4 per pound. Direct-to-consumer [sales](/sales) (whole or half goats, sold to ethnic communities or through farmers markets) often bring higher returns than selling through auction.
 
 **Small-scale homestead operations** often don't aim for profitability — they produce milk and meat for family consumption, with surplus sold or bartered. The satisfaction of producing your own dairy and meat drives these operations more than financial return.
 

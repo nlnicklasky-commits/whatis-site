@@ -5,7 +5,7 @@ description: "Gourmet cooking elevates food through premium ingredients, precise
 category: arts-amp-culture
 tags: ["gourmet cooking", "culinary arts", "fine dining", "food", "cooking", "chef"]
 heroImage: "/images/articles/gourmet-cooking.webp"
-heroAlt: "Elegantly plated gourmet dish with sauce art on a white plate"
+heroAlt: "Editorial photograph representing the concept of gourmet cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Haute cuisine (French for 'high cooking') specifically refers to the elaborate, codified French cooking tradition established by chefs like Escoffier. Gourmet is a broader term for any high-quality, skillfully prepared food regardless of cuisine. Thai street food prepared by a master can be gourmet. A perfect taco from a skilled cook is gourmet. Haute cuisine is always gourmet, but gourmet is not always haute cuisine."
 ---
 
-# What Is Gourmet Cooking?
+# What Is Gourmet [Cooking](/cooking)?
 
 Gourmet cooking is the preparation of food with exceptional attention to ingredient quality, cooking technique, flavor balance, and visual presentation. It's not a strict category — there's no governing body that certifies a dish as "gourmet." Instead, it's a standard of care and intention that separates cooking done with precision and thought from cooking done on autopilot. A perfectly roasted chicken with crispy skin, moist meat, and a pan sauce made from the drippings can be gourmet. A complicated dish with 30 components that doesn't taste good isn't.
 
@@ -71,7 +71,7 @@ If you want to cook at a gourmet level at home, focus on these fundamentals.
 
 **Knife skills** — Consistent cuts mean consistent cooking. A uniformly diced onion cooks evenly; a ragged chop doesn't. Speed comes with practice, but consistency matters more than speed.
 
-**Heat management** — Understanding when to use high heat (searing, caramelization) versus low heat (braising, gentle poaching) versus no heat (ceviche, tartare). Most home cooks are too timid with high heat and too aggressive with low heat.
+**Heat [management](/management)** — Understanding when to use high heat (searing, caramelization) versus low heat (braising, gentle poaching) versus no heat (ceviche, tartare). Most home cooks are too timid with high heat and too aggressive with low heat.
 
 **Sauce making** — Pan sauces (fond + liquid + reduction + fat), emulsions (vinaigrettes, hollandaise), and compound butters transform simple proteins and vegetables into something special. A good sauce is the fastest way to elevate a dish.
 

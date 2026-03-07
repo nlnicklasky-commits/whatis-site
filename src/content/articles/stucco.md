@@ -5,7 +5,7 @@ description: "Stucco is a plaster-like building material applied to walls and ce
 category: everyday-concepts
 tags: ["stucco", "construction", "building materials", "plaster", "architecture", "exterior finish"]
 heroImage: "/images/articles/stucco.webp"
-heroAlt: "A stucco-covered Mediterranean-style house with a terracotta roof"
+heroAlt: "Editorial photograph representing the concept of stucco"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -72,8 +72,8 @@ Traditional stucco is more forgiving of moisture because it's breathable — wat
 **Advantages:**
 - Excellent durability — properly applied stucco lasts decades
 - Fire resistant — cement doesn't burn
-- Low maintenance — no painting required if color is mixed into the finish coat
-- Versatile aesthetics — virtually any color and texture
+- Low maintenance — no [painting](/painting) required if color is mixed into the finish coat
+- Versatile [aesthetics](/aesthetics) — virtually any color and texture
 - Good insulation properties, especially with EIFS
 
 **Disadvantages:**

@@ -5,7 +5,7 @@ description: "Venture capital is high-risk investment in early-stage startups. L
 category: finance
 tags: ["venture capital", "investing", "startups", "finance", "entrepreneurship"]
 heroImage: "/images/articles/venture-capital.webp"
-heroAlt: "Business handshake in a modern office with startup pitch deck visible in the background"
+heroAlt: "Editorial photograph representing the concept of venture capital"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ It's a high-risk, high-reward game, and it has funded some of the most important
 
 ## How the Venture Capital Model Actually Works
 
-The basic logic of venture capital is counterintuitive. Most VC investments lose money. The entire model depends on a few massive winners offsetting dozens of losers. This is the "power law" of venture returns — and understanding it is key to understanding everything else about the industry.
+The basic [logic](/logic) of venture capital is counterintuitive. Most VC investments lose money. The entire model depends on a few massive winners offsetting dozens of losers. This is the "power law" of venture returns — and understanding it is key to understanding everything else about the industry.
 
 A typical VC fund might invest in 20-30 companies. Of those, perhaps 10-15 will fail completely. Another 5-10 might return the invested capital or produce modest gains. But 1-3 companies might return 10x, 50x, or even 100x the investment. Those outliers make the entire fund profitable.
 
@@ -51,11 +51,11 @@ This is why VCs are obsessed with market size. They're not looking for companies
 
 Venture capitalists don't usually invest their own money — or at least, not primarily. They raise money from limited partners (LPs) and manage it through a fund structure.
 
-**Limited partners** are the people and institutions who actually provide the capital. They include university endowments (Harvard, Yale, Stanford have been enormous VC investors), pension funds, sovereign wealth funds, foundations, insurance companies, and wealthy families. They commit capital to the VC fund, which the VCs then deploy over time.
+**Limited partners** are the people and institutions who actually provide the capital. They include university endowments (Harvard, Yale, Stanford have been enormous VC investors), pension funds, sovereign wealth funds, foundations, [insurance](/insurance) companies, and wealthy families. They commit capital to the VC fund, which the VCs then deploy over time.
 
 **General partners** (GPs) are the venture capitalists themselves — the people who make investment decisions. They typically invest 1-2% of the fund's capital themselves (called "GP commit"), which ensures they have skin in the game.
 
-The standard economic arrangement is "2 and 20" — a 2% annual management fee on committed capital, plus 20% of profits (called "carried interest" or just "carry"). If a $500 million fund produces $1.5 billion in returns (a 3x return), the $1 billion in profit gets split: 20% ($200 million) goes to the GPs, and 80% ($800 million) goes to the LPs. The math explains why top VC partners are extraordinarily wealthy.
+The standard economic arrangement is "2 and 20" — a 2% annual [management](/management) fee on committed capital, plus 20% of profits (called "carried interest" or just "carry"). If a $500 million fund produces $1.5 billion in returns (a 3x return), the $1 billion in profit gets split: 20% ($200 million) goes to the GPs, and 80% ($800 million) goes to the LPs. The math explains why top VC partners are extraordinarily wealthy.
 
 Funds typically have a 10-year lifespan. The first 3-5 years are the "investment period" when new investments are made. The remaining years are the "harvest period" when portfolio companies (hopefully) exit through acquisitions or IPOs, returning cash to investors.
 
@@ -79,7 +79,7 @@ This is where traditional VC firms enter. They're looking for evidence of produc
 
 Series B funding scales what's working. The company has proven the business model and needs capital to expand — hire salespeople, enter new markets, build out infrastructure. Rounds are typically $15-50 million at valuations of $50-200 million.
 
-Investors at this stage look for strong revenue growth, improving unit economics, and a clear path to becoming the dominant player in the market. The risk is lower than Series A, but so are the potential return multiples.
+Investors at this stage look for strong revenue growth, improving unit [economics](/economics), and a clear path to becoming the dominant player in the market. The risk is lower than Series A, but so are the potential return multiples.
 
 ### Series C and Beyond
 
@@ -171,7 +171,7 @@ Venture capital isn't the only option for startups, and honestly, it's wrong for
 
 **Revenue-based financing** — borrowing against future revenue. You repay as a percentage of monthly revenue, so payments adjust to your performance.
 
-**Grants** — government and foundation grants, especially for science-heavy companies. The NIH, NSF, and DOE all fund early-stage research through SBIR/STTR programs.
+**Grants** — [government](/government) and foundation grants, especially for science-heavy companies. The NIH, NSF, and DOE all fund early-stage research through SBIR/STTR programs.
 
 **Crowdfunding** — platforms like Kickstarter (for products) or Republic/Wefunder (for equity). Useful for consumer products with broad appeal.
 
@@ -181,7 +181,7 @@ Venture capital isn't the only option for startups, and honestly, it's wrong for
 
 Not all VCs are equal, and choosing the right investor matters as much as the money itself. Here's what experienced founders look for:
 
-**Pattern recognition without rigidity.** Good VCs have seen dozens of companies at your stage and can spot common mistakes. But they don't force every company into the same template.
+**[Pattern recognition](/pattern-recognition) without rigidity.** Good VCs have seen dozens of companies at your stage and can spot common mistakes. But they don't force every company into the same template.
 
 **Network access.** The best VCs can introduce you to potential customers, executives you need to hire, and follow-on investors. This "value add" is often worth more than the check.
 

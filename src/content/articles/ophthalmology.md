@@ -5,7 +5,7 @@ description: "Ophthalmology is the medical specialty for eye diseases and vision
 category: health-amp-wellness
 tags: ["ophthalmology", "eye care", "eye diseases", "vision"]
 heroImage: "/images/articles/ophthalmology.webp"
-heroAlt: "Ophthalmologist examining a patient's eye using a slit lamp biomicroscope"
+heroAlt: "Editorial photograph representing the concept of ophthalmology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ faq:
 
 # What Is Ophthalmology?
 
-Ophthalmology is the branch of medicine devoted to the diagnosis, treatment, and prevention of diseases and disorders of the eye and visual system. Ophthalmologists are physicians — MDs or DOs — who can prescribe medications, perform surgery, and manage everything from routine vision problems to complex conditions threatening permanent blindness.
+Ophthalmology is the branch of medicine devoted to the diagnosis, treatment, and prevention of diseases and disorders of the eye and visual system. Ophthalmologists are physicians — MDs or DOs — who can prescribe medications, perform [surgery](/surgery), and manage everything from routine vision problems to complex conditions threatening permanent blindness.
 
-## The Eye: A Quick Anatomy Lesson
+## The Eye: A Quick [Anatomy](/anatomy) Lesson
 
-Before you can understand eye diseases, you need a basic map of the eye. And it's genuinely remarkable engineering.
+Before you can understand eye diseases, you need a basic map of the eye. And it's genuinely remarkable [engineering](/engineering).
 
 Light enters through the **cornea** — the clear, dome-shaped front surface that does about 65-75% of the eye's focusing. Behind the cornea sits the **iris** (the colored part) surrounding the **pupil**, which dilates and constricts to control how much light enters. The **lens**, just behind the iris, fine-tunes focus by changing shape — a process called accommodation that gradually diminishes with age (which is why nearly everyone needs reading glasses after 40).
 
@@ -55,7 +55,7 @@ Ophthalmologists deal with a wide spectrum of conditions, from minor annoyances 
 
 The most common vision problems are simply issues of focus. **Myopia** (nearsightedness) means the eye is too long or the cornea too curved — light focuses in front of the retina, making distant objects blurry. **Hyperopia** (farsightedness) is the opposite. **Astigmatism** occurs when the cornea has an irregular shape, causing distorted or blurred vision at all distances. **Presbyopia** — the age-related loss of near focus — hits almost everyone by their mid-40s as the lens stiffens and loses its ability to change shape.
 
-Globally, about 2.7 billion people have uncorrected refractive errors. In wealthy countries, this is mostly a minor inconvenience — glasses or contacts fix it. In low-income countries, lack of access to corrective lenses remains a major cause of functional blindness and lost productivity.
+Globally, about 2.7 billion people have uncorrected refractive errors. In wealthy countries, this is mostly a minor inconvenience — glasses or contacts fix it. In low-income countries, lack of access to corrective lenses remains a major cause of functional blindness and lost [productivity](/productivity).
 
 Myopia is also increasing at alarming rates worldwide. In East Asia, up to 90% of young adults in some urban populations are now myopic, compared to 10-30% two generations ago. Research strongly suggests that lack of outdoor time in childhood is a key driver — children who spend more time outside have lower myopia rates, likely due to the brightness of natural light and the need to focus at varying distances.
 
@@ -105,9 +105,9 @@ Ophthalmology is one of the most surgery-heavy medical specialties. Common proce
 
 Ophthalmology is at the forefront of some genuinely exciting medical technology. Gene therapy for inherited retinal diseases is already a reality — voretigene neparvovec (Luxturna), approved in 2017, treats a specific form of inherited blindness by delivering a functional copy of the RPE65 gene directly to retinal cells.
 
-Artificial intelligence is being integrated into screening programs — algorithms that analyze retinal photographs can detect diabetic retinopathy with accuracy comparable to trained ophthalmologists, potentially enabling mass screening in areas without eye doctors.
+[Artificial intelligence](/artificial-intelligence) is being integrated into screening programs — [algorithms](/algorithms) that analyze retinal photographs can detect diabetic retinopathy with accuracy comparable to trained ophthalmologists, potentially enabling mass screening in areas without eye doctors.
 
-Retinal prosthetics (bionic eyes) remain experimental but have produced some vision restoration in patients with complete blindness. The technology is crude by biological standards — current devices provide very low resolution — but the concept works, and improvements are ongoing.
+Retinal [prosthetics](/prosthetics) (bionic eyes) remain experimental but have produced some vision restoration in patients with complete blindness. The technology is crude by biological standards — current devices provide very low resolution — but the concept works, and improvements are ongoing.
 
 Stem cell-based therapies for macular degeneration and other retinal diseases are in clinical trials, with early results showing promise for regenerating damaged retinal tissue.
 

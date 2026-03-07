@@ -5,7 +5,7 @@ description: "Alchemy was an ancient practice blending proto-chemistry, philosop
 category: history
 tags: ["alchemy", "history", "pseudoscience", "transmutation", "history of science"]
 heroImage: "/images/articles/alchemy.webp"
-heroAlt: "Medieval alchemist's laboratory with glass vessels, flames, and ancient manuscripts on a wooden table"
+heroAlt: "Editorial photograph representing the concept of alchemy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Calling alchemy simply "fake chemistry" misses the point entirely. Alchemists we
 
 ## Origins: Where Alchemy Began
 
-The word "alchemy" likely derives from the Arabic "al-kimiya," though the root "kimiya" itself is debated — it may come from the Egyptian "khem" (meaning black, referring to Egypt's fertile soil) or the Greek "chymeia" (meaning the art of metalworking or pouring).
+The word "alchemy" likely derives from the Arabic "al-kimiya," though the root "kimiya" itself is debated — it may come from the Egyptian "khem" (meaning black, referring to Egypt's fertile soil) or the Greek "chymeia" (meaning the art of [metalworking](/metalworking) or pouring).
 
 ### Hellenistic Egypt (c. 300 BCE - 400 CE)
 
@@ -53,7 +53,7 @@ These early alchemists already pursued the core goals that would define the trad
 
 Arabic-speaking scholars preserved, translated, and massively expanded on Greek alchemical knowledge. This was alchemy's intellectual peak.
 
-Jabir ibn Hayyan (known as Geber in Latin, c. 721-815 CE) — or more likely, a school of writers using his name — produced a vast corpus of alchemical texts. The Jabirian corpus introduced systematic experimental methodology to alchemy, developed the mercury-sulfur theory of metals (arguing that all metals are composed of different proportions of mercury and sulfur), and described chemical processes like distillation, crystallization, calcination, and sublimation with unprecedented precision.
+Jabir ibn Hayyan (known as Geber in Latin, c. 721-815 CE) — or more likely, a school of writers using his name — produced a vast corpus of alchemical texts. The Jabirian corpus introduced systematic experimental methodology to alchemy, developed the mercury-sulfur theory of metals (arguing that all metals are composed of different proportions of mercury and sulfur), and described chemical processes like [distillation](/distillation), crystallization, calcination, and sublimation with unprecedented precision.
 
 Abu Bakr al-Razi (Rhazes, 854-925 CE) was perhaps history's closest thing to a true alchemist-scientist. He classified substances into categories (animal, vegetable, mineral, derivative), described chemical reactions in reproducible terms, and explicitly rejected mystical interpretations in favor of empirical investigation. His work was centuries ahead of its time.
 
@@ -114,7 +114,7 @@ Alchemists identified or first prepared:
 
 ### Techniques
 
-Processes first developed or refined by alchemists include distillation, sublimation (solid-to-gas conversion), crystallization, calcination (heating to decompose), amalgamation (dissolving metals in mercury), and fermentation. Every one of these remains fundamental to modern [chemistry](/chemistry) and [chemical engineering](/chemical-engineering).
+Processes first developed or refined by alchemists include distillation, sublimation (solid-to-gas conversion), crystallization, calcination (heating to decompose), amalgamation (dissolving metals in mercury), and [fermentation](/fermentation). Every one of these remains fundamental to modern [chemistry](/chemistry) and [chemical engineering](/chemical-engineering).
 
 ## Famous Alchemists
 
@@ -146,7 +146,7 @@ Alchemy didn't disappear overnight. It gradually transformed into chemistry duri
 
 **Atomic theory** (John Dalton, early 1800s) provided a coherent framework for understanding matter that made alchemical theories obsolete.
 
-But alchemy didn't die completely. Its symbolic and spiritual traditions continued in [Western esotericism](/western-esotericism), influencing movements from Rosicrucianism to Freemasonry to modern occultism. And its practical legacy lives on in every chemistry laboratory in the world.
+But alchemy didn't die completely. Its symbolic and spiritual traditions continued in [Western esotericism](/western-esotericism), influencing movements from Rosicrucianism to [Freemasonry](/freemasonry) to modern occultism. And its practical legacy lives on in every chemistry laboratory in the world.
 
 ## Alchemy's Real Legacy
 

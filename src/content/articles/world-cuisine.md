@@ -5,7 +5,7 @@ description: "World cuisine encompasses the diverse food traditions of cultures 
 category: lifestyle
 tags: ["world cuisine", "food", "cooking", "culinary traditions", "international food", "gastronomy"]
 heroImage: "/images/articles/world-cuisine.webp"
-heroAlt: "Colorful spread of dishes from various world cuisines arranged on a wooden table"
+heroAlt: "Editorial photograph representing the concept of world cuisine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is World Cuisine?
 
-World cuisine is the collective term for the diverse food traditions, cooking techniques, ingredients, and eating customs practiced across human cultures globally. It's not a single thing — it's thousands of distinct food traditions shaped by geography, climate, agriculture, religion, trade, migration, and centuries of accumulated kitchen knowledge. When you eat pad thai, paella, or pho, you're tasting a specific culture's answer to the universal human question: what should we eat, and how should we prepare it?
+World cuisine is the collective term for the diverse food traditions, [cooking](/cooking) techniques, ingredients, and eating customs practiced across human cultures globally. It's not a single thing — it's thousands of distinct food traditions shaped by [geography](/geography), climate, [agriculture](/agriculture), [religion](/religion), trade, migration, and centuries of accumulated kitchen knowledge. When you eat pad thai, paella, or pho, you're tasting a specific culture's answer to the universal human question: what should we eat, and how should we prepare it?
 
 ## What Shapes a Cuisine
 
@@ -39,9 +39,9 @@ Every cuisine is a product of its circumstances. The same human creativity appli
 
 **Geography and climate** determine what grows. Rice dominates Asian cuisines because it thrives in monsoon climates. Wheat dominates European and Middle Eastern cooking because it grows well in temperate continental climates. Corn (maize) anchors Mexican and Central American food because it was domesticated there 9,000 years ago.
 
-**Available protein** follows similar logic. Coastal cultures developed seafood-centric cuisines. Pastoral cultures relied on meat and dairy. Vegetarian traditions developed partly from necessity (limited grazing land) and partly from religious prohibition (Hinduism, Buddhism).
+**Available protein** follows similar [logic](/logic). Coastal cultures developed seafood-centric cuisines. Pastoral cultures relied on meat and dairy. Vegetarian traditions developed partly from necessity (limited grazing land) and partly from religious prohibition ([Hinduism](/hinduism), [Buddhism](/buddhism)).
 
-**Preservation needs** created entire flavor profiles. Fermentation (kimchi in Korea, sauerkraut in Germany, fish sauce across Southeast Asia) was originally about preventing spoilage. Smoking, salting, and drying preserved meat and fish. Chili peppers and strong spices helped mask the taste of food that was past its prime in hot climates without refrigeration. These practical solutions became defining flavors.
+**Preservation needs** created entire flavor profiles. [Fermentation](/fermentation) (kimchi in Korea, sauerkraut in Germany, fish sauce across Southeast Asia) was originally about preventing spoilage. Smoking, salting, and drying preserved meat and fish. Chili peppers and strong spices helped mask the taste of food that was past its prime in hot climates without [refrigeration](/refrigeration). These practical solutions became defining flavors.
 
 **Trade and colonization** moved ingredients across continents. Tomatoes, native to the Americas, became central to Italian cooking only after the 16th century. Chili peppers, also American, now define Thai, Indian, and Sichuan cuisines. The Columbian Exchange — the transfer of plants, animals, and ingredients between the Old and New Worlds after 1492 — reshaped virtually every cuisine on Earth.
 
@@ -79,7 +79,7 @@ Some cooking methods appear independently across multiple cultures.
 
 **Fermentation** — Koreans have kimchi, Japanese have miso and soy sauce, Germans have sauerkraut, Ethiopians have injera. Humans everywhere discovered that controlled microbial activity preserves food and creates complex flavors.
 
-**Grilling over open flame** — Argentine asado, American barbecue, Turkish kebab, Japanese yakitori, South African braai. Fire cooking is universal and ancient, but each culture developed its own fuel, timing, and seasoning traditions.
+**[Grilling](/grilling) over open flame** — Argentine asado, American barbecue, Turkish kebab, Japanese yakitori, South African braai. Fire cooking is universal and ancient, but each culture developed its own fuel, timing, and seasoning traditions.
 
 **Wrapping food in dough** — Chinese dumplings, Italian ravioli, Polish pierogi, Indian samosas, Mexican empanadas, Georgian khinkali. Every wheat-and-meat culture independently arrived at "put filling in dough and cook it."
 

@@ -5,7 +5,7 @@ description: "Business strategy is a plan that defines how an organization compe
 category: finance
 tags: ["business strategy", "strategic management", "competitive advantage", "market positioning", "business goals", "organizational planning", "swot analysis"]
 heroImage: "/images/articles/business-strategy-hero.webp"
-heroAlt: "Chess pieces on a board representing strategic planning and competitive positioning"
+heroAlt: "Editorial photograph representing the concept of business strategy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -79,7 +79,7 @@ Done poorly, SWOT becomes a brainstorming exercise that generates long lists wit
 
 ### The Value Chain
 
-Porter's value chain breaks a company into discrete activities — inbound logistics, operations, outbound logistics, marketing and sales, and service (primary activities) plus procurement, technology development, human resource management, and firm infrastructure (support activities).
+Porter's value chain breaks a company into discrete activities — inbound [logistics](/logistics), operations, outbound logistics, [marketing](/marketing) and sales, and service (primary activities) plus procurement, technology development, human [resource management](/resource-management), and firm infrastructure (support activities).
 
 The insight: competitive advantage comes from performing specific activities better or differently than competitors. Southwest Airlines doesn't just have "lower costs" — it achieves lower costs through specific value chain choices: single aircraft type (lower maintenance and training costs), no assigned seating (faster boarding and turnaround), point-to-point routes (no hub complexity), and minimal frills (no meals, no first class).
 
@@ -97,7 +97,7 @@ Blue Ocean strategy is intellectually appealing but practically rare. Most busin
 
 Porter identified three fundamental strategic positions — each representing a different way to achieve competitive advantage.
 
-### Cost Leadership
+### Cost [Leadership](/leadership)
 
 Compete by being the lowest-cost producer in your industry. This doesn't necessarily mean the lowest price — it means the lowest cost structure, which can be deployed as lower prices (gaining market share) or similar prices with higher margins.
 
@@ -131,7 +131,7 @@ The practical takeaway: strategic clarity matters. Knowing what you're trying to
 
 ## Building a Strategic Plan
 
-Strategic planning translates strategic thinking into an actionable document. Most organizations follow a structured process.
+[Strategic planning](/strategic-planning) translates strategic thinking into an actionable document. Most organizations follow a structured process.
 
 ### Step 1: Assess the Current Position
 
@@ -175,7 +175,7 @@ Strategy execution bridges the gap between plan and results. This includes:
 
 No strategic plan survives contact with reality unchanged. Markets shift, competitors respond, assumptions prove wrong, and new opportunities emerge. The best strategies are frameworks for making decisions rather than rigid scripts to follow.
 
-Amazon's strategy has evolved enormously from its origin as an online bookstore. But the core strategic principles — customer obsession, long-term thinking, willingness to fail, and operational excellence — have remained consistent. The specific initiatives change; the strategic logic persists.
+Amazon's strategy has evolved enormously from its origin as an online bookstore. But the core strategic principles — customer obsession, long-term thinking, willingness to fail, and operational excellence — have remained consistent. The specific initiatives change; the strategic [logic](/logic) persists.
 
 ## Strategy in Different Contexts
 

@@ -5,7 +5,7 @@ description: "Cabinet making is the skilled craft of designing and building fine
 category: arts-amp-culture
 tags: ["cabinet making", "woodworking", "furniture", "craft", "joinery", "woodcraft"]
 heroImage: "/images/articles/cabinet-making.webp"
-heroAlt: "Craftsman fitting dovetail joints on a wooden cabinet in a traditional woodworking shop"
+heroAlt: "Editorial photograph representing the concept of cabinet making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Cabinet making is the skilled craft of designing and constructing fine furniture
 
 ## Craft vs. Production
 
-There's an important distinction between cabinet making as craft and kitchen cabinet installation as a trade. The craft tradition — hand-selecting wood, cutting joints, fitting and finishing by hand — produces one-of-a-kind or small-run pieces that are as much art as furniture. The trade of installing manufactured kitchen cabinets is valuable work but involves different skills and goals.
+There's an important distinction between cabinet making as craft and kitchen cabinet installation as a [trade](/trade). The craft tradition — hand-selecting wood, cutting joints, fitting and finishing by hand — produces one-of-a-kind or small-run pieces that are as much art as furniture. The trade of installing manufactured kitchen cabinets is valuable work but involves different skills and goals.
 
 This article focuses on the craft tradition, though the skills overlap. A cabinet maker who can cut a perfect dovetail by hand can certainly install manufactured cabinets — but the reverse isn't necessarily true.
 
@@ -43,7 +43,7 @@ This article focuses on the craft tradition, though the skills overlap. A cabine
 
 Cabinet making as a distinct trade emerged in Europe during the 17th century, separating from general [carpentry](/carpentry) as furniture became more refined. The term "cabinetmaker" (from the French *ébéniste*) specifically referred to craftspeople who made fine furniture, as opposed to joiners who made doors, window frames, and other architectural woodwork.
 
-The great historical periods of furniture — Chippendale (mid-18th century English), Shaker (19th century American), Arts and Crafts (late 19th century), Art Deco (1920s-1930s), and Danish Modern (mid-20th century) — each produced distinctive approaches to form, ornament, and construction. Many contemporary cabinet makers draw inspiration from these traditions while incorporating modern materials and techniques.
+The great historical periods of furniture — Chippendale (mid-18th century English), Shaker (19th century American), Arts and Crafts (late 19th century), Art Deco (1920s-1930s), and Danish Modern (mid-20th century) — each produced distinctive approaches to form, ornament, and [construction](/construction). Many contemporary cabinet makers draw inspiration from these traditions while incorporating modern materials and techniques.
 
 ## Essential Joinery
 
@@ -63,7 +63,7 @@ The quality of a piece of furniture is ultimately determined by its joints — h
 
 ### Hand Tools
 
-A hand-tool cabinet maker works with planes (smoothing surfaces), chisels (cutting joints), saws (rip saws, crosscut saws, dovetail saws, coping saws), marking tools (gauge, square, knife), and sharpening equipment. The quality of hand work depends directly on the sharpness of edge tools — learning to sharpen is arguably the most important skill in woodworking.
+A hand-tool cabinet maker works with planes (smoothing surfaces), chisels (cutting joints), saws (rip saws, crosscut saws, dovetail saws, coping saws), marking tools (gauge, square, knife), and sharpening equipment. The quality of hand work depends directly on the sharpness of edge tools — learning to sharpen is arguably the most important skill in [woodworking](/woodworking).
 
 ### Power Tools
 
@@ -79,11 +79,11 @@ Good furniture [design](/design-patterns) follows principles of proportion (the 
 
 ## Modern Cabinet Making
 
-The field has evolved significantly. CNC technology allows small shops to produce work with factory precision while maintaining custom flexibility. [Sustainable forestry](/conservation-biology) certification (FSC) helps conscientious makers source wood responsibly. Modern finishes (water-based polyurethane, hardwax oils, conversion varnish) offer better performance and lower environmental impact than traditional lacquers.
+The field has evolved significantly. CNC technology allows small shops to produce work with factory precision while maintaining custom flexibility. [Sustainable forestry](/conservation-[biology](/biology)) certification (FSC) helps conscientious makers source wood responsibly. Modern finishes (water-based polyurethane, hardwax oils, conversion varnish) offer better performance and lower environmental impact than traditional lacquers.
 
 The maker movement has renewed interest in handmade furniture. Instagram and YouTube showcase remarkable work by solo craftspeople and small shops, connecting makers directly with customers who value handwork and are willing to pay for it.
 
-Career paths include custom furniture shops, kitchen and bath cabinet companies, architectural millwork, restoration and conservation, museum preparation, and teaching. The median salary for cabinet makers in the U.S. is approximately $40,000-50,000, with experienced custom builders earning significantly more.
+Career paths include custom furniture shops, kitchen and bath cabinet companies, architectural millwork, restoration and conservation, museum preparation, and [teaching](/teaching). The median salary for cabinet makers in the U.S. is approximately $40,000-50,000, with experienced custom builders earning significantly more.
 
 ## Why It Matters
 

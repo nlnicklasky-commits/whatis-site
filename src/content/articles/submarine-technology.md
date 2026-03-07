@@ -5,7 +5,7 @@ description: "Submarine technology is the engineering of vessels that operate un
 category: technology
 tags: ["engineering", "submarine technology", "naval engineering", "military technology", "underwater exploration"]
 heroImage: "/images/articles/submarine-technology.webp"
-heroAlt: "A modern submarine surfacing from deep blue ocean waters with waves breaking over its hull"
+heroAlt: "Editorial photograph representing the concept of submarine technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Cylindrical shapes distribute water pressure evenly across the hull. A sphere would be ideal for pressure resistance, but cylinders offer a practical compromise between pressure resistance and usable interior space."
 ---
 
-Submarine technology is the branch of engineering concerned with designing, building, and operating vessels capable of independent operation beneath the water's surface. It encompasses pressure hull design, propulsion systems, life support, navigation, and stealth — all working together to let humans survive and work in one of the most hostile environments on Earth.
+Submarine technology is the branch of [engineering](/engineering) concerned with designing, building, and operating vessels capable of independent operation beneath the water's surface. It encompasses pressure hull design, propulsion systems, life support, [navigation](/navigation), and stealth — all working together to let humans survive and work in one of the most hostile environments on Earth.
 
 The ocean is not a friendly place for machines, let alone people. At just 10 meters of depth, pressure doubles compared to the surface. At 300 meters — a typical operating depth for a military sub — every square centimeter of hull endures 31 kilograms of force. And that's not even deep by ocean standards. Building a vessel that withstands this kind of punishment while keeping a crew alive, comfortable, and combat-ready is one of engineering's great achievements.
 
@@ -51,9 +51,9 @@ The Civil War brought the H.L. Hunley (1864), the first submarine to sink an ene
 
 John Philip Holland's *Holland VI* (1900) was the first submarine purchased by the U.S. Navy and the first to combine an internal combustion engine for surface running with an electric motor for underwater travel. This dual-propulsion approach — diesel engines on the surface, electric motors submerged — defined submarine design for the next 50 years.
 
-World War I demonstrated that submarines could reshape naval warfare. German U-boats sank over 5,000 ships during the conflict, nearly starving Britain into submission. Suddenly, undersea warfare wasn't a curiosity — it was a strategic game-changer.
+[World War I](/world-war-i) demonstrated that submarines could reshape naval warfare. German U-boats sank over 5,000 ships during the conflict, nearly starving Britain into submission. Suddenly, undersea warfare wasn't a curiosity — it was a strategic game-changer.
 
-World War II amplified this even further. The German U-boat campaign in the Atlantic and American submarine operations in the Pacific proved that submarines could control sea lanes and project power far from home. The war also drove rapid improvements in sonar, torpedo technology, hull design, and snorkels (devices that let diesel submarines run their engines while submerged at periscope depth).
+[World War II](/world-war-ii) amplified this even further. The German U-boat campaign in the Atlantic and American submarine operations in the Pacific proved that submarines could control sea lanes and project power far from home. The war also drove rapid improvements in sonar, torpedo technology, hull design, and snorkels (devices that let diesel submarines run their engines while submerged at periscope depth).
 
 ## How Submarines Actually Work
 
@@ -99,7 +99,7 @@ Keeping a crew of 100+ people alive in a sealed metal tube for months is no smal
 
 **Atmosphere monitoring** is constant. Sensors track oxygen, CO2, carbon monoxide, hydrogen, and various trace gases. Submarine air quality is actually quite tightly controlled — CO2 is kept below 0.5%, compared to about 0.04% in normal atmosphere. Crew members adapt to this elevated CO2 level, but it can cause headaches and fatigue.
 
-Fresh water comes from desalination — distilling seawater using waste heat from the reactor. A nuclear submarine can produce thousands of gallons of fresh water daily, enough for drinking, cooking, and even showers (though water discipline remains part of submarine culture).
+Fresh water comes from [desalination](/desalination) — distilling seawater using waste heat from the reactor. A nuclear submarine can produce thousands of gallons of fresh water daily, enough for drinking, cooking, and even showers (though water discipline remains part of submarine culture).
 
 ## Stealth: The Submarine's Greatest Weapon
 

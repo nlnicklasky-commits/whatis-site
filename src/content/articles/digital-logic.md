@@ -5,7 +5,7 @@ description: "Digital logic is the foundation of computing, using binary signals
 category: everyday-concepts
 tags: ["digital logic", "everyday-concepts"]
 heroImage: "/images/articles/digital-logic.webp"
-heroAlt: "A circuit board with glowing logic gate symbols and binary code flowing through traces"
+heroAlt: "Editorial photograph representing the concept of digital logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Analog signals are continuous — they can take any value within a range, like the smooth sweep of a clock's hands. Digital signals are discrete — they snap to specific values, like a digital clock showing exact numbers. Digital signals resist noise better because small disturbances don't change a 1 to a 0. This noise resistance is why digital technology replaced analog in most applications, from music (CDs replaced vinyl) to television (digital broadcast replaced analog)."
 ---
 
-# What Is Digital Logic?
+# What Is Digital [Logic](/logic)?
 
 Digital logic is the system of rules and circuits that processes information using binary signals — ones and zeros, on and off, true and false. Every smartphone, laptop, car computer, and smart thermostat runs on digital logic. It's the invisible foundation beneath all modern computing, and it boils down to a surprisingly simple idea: you can build anything computable from circuits that answer yes-or-no questions.
 
@@ -43,7 +43,7 @@ That's it. Three basic operations. From these, you can build [arithmetic](/algeb
 
 The person who made all of this possible was a 21-year-old master's student at MIT named Claude Shannon. In 1937, Shannon submitted what's been called "the most important master's thesis of the 20th century." He demonstrated that Boolean algebra — a system of logic developed by mathematician George Boole in 1854 — could be implemented with electrical relay circuits.
 
-Before Shannon, circuit designers built complex switching networks through trial and error. After Shannon, they had a mathematical framework. If you could express a problem in Boolean algebra, you could build a circuit to solve it. This single insight bridges the gap between abstract mathematics and physical [electronics](/electricity), and it's the reason we have computers.
+Before Shannon, circuit designers built complex switching networks through trial and error. After Shannon, they had a mathematical framework. If you could express a problem in Boolean algebra, you could build a circuit to solve it. This single insight bridges the gap between abstract [mathematics](/mathematics) and physical [electronics](/electricity), and it's the reason we have computers.
 
 ## The Building Blocks
 
@@ -92,6 +92,6 @@ A digital signal carrying the same music is a stream of 1s and 0s. A "1" might b
 
 ## Where Digital Logic Lives
 
-Digital logic isn't just in computers. It's in your car's engine management system (dozens of processors), your microwave's control panel, your washing machine's cycle timer, traffic light controllers, elevator systems, and medical devices. A modern car contains 100+ microprocessors, all running digital logic.
+Digital logic isn't just in computers. It's in your car's engine [management](/management) system (dozens of processors), your microwave's control panel, your washing machine's cycle timer, traffic light controllers, elevator systems, and medical devices. A modern car contains 100+ microprocessors, all [running](/running) digital logic.
 
-The field continues evolving. Quantum computing challenges binary logic with qubits that can be 0, 1, or both simultaneously. Neuromorphic chips mimic brain architecture instead of traditional gate-based design. But for now — and for the foreseeable future — the digital logic that Claude Shannon formalized in 1937 remains the foundation of the information age. Ones and zeros, running the world.
+The field continues evolving. [Quantum computing](/quantum-computing) challenges binary logic with qubits that can be 0, 1, or both simultaneously. Neuromorphic chips mimic brain [architecture](/architecture) instead of traditional gate-based design. But for now — and for the foreseeable future — the digital logic that Claude Shannon formalized in 1937 remains the foundation of the information age. Ones and zeros, running the world.

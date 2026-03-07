@@ -5,7 +5,7 @@ description: "Swimming is the sport and skill of moving through water using body
 category: sports
 tags: ["swimming", "sports", "water", "exercise", "Olympics", "fitness"]
 heroImage: "/images/articles/swimming.webp"
-heroAlt: "A swimmer doing the freestyle stroke in a competition pool with lane markers"
+heroAlt: "Editorial photograph representing the concept of swimming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Swimming is the act of propelling yourself through water using coordinated movements of your arms, legs, and body. It's simultaneously a survival skill, a form of exercise, a competitive sport, and a recreational activity enjoyed by hundreds of millions of people worldwide.
 
-Humans are one of the few land mammals that can swim instinctively (sort of — babies demonstrate a basic paddle reflex, though they can't actually swim safely). But efficient swimming is a learned skill, and the difference between thrashing and gliding is entirely a matter of technique.
+Humans are one of the few land mammals that can swim instinctively (sort of — babies demonstrate a basic paddle reflex, though they can't actually swim safely). But efficient swimming is a learned skill, and the difference between thrashing and [gliding](/gliding) is entirely a matter of technique.
 
 ## The Strokes
 
@@ -57,10 +57,10 @@ The most physically demanding stroke. Both arms recover forward simultaneously w
 
 Swimming is remarkably good for you, and the evidence is strong:
 
-- **Cardiovascular fitness** — Regular swimming improves heart health, lowers blood pressure, and reduces the risk of heart disease. A study in the *British Journal of Sports Medicine* found swimmers had a 41% lower risk of dying from heart disease.
+- **Cardiovascular [fitness](/fitness)** — Regular swimming improves heart health, lowers blood pressure, and reduces the risk of heart disease. A study in the *British Journal of Sports Medicine* found swimmers had a 41% lower risk of dying from heart disease.
 - **Full-body workout** — Every stroke engages arms, shoulders, core, back, and legs simultaneously. Few exercises work as many muscle groups at once.
-- **Low impact** — Water buoyancy supports about 90% of your body weight, making swimming one of the gentlest forms of [exercise](/exercise-physiology) on joints and bones. It's recommended for people with arthritis, back pain, and injuries.
-- **Mental health** — Swimming reduces anxiety and depression symptoms. The rhythmic breathing and sensory experience of being in water have meditative qualities.
+- **Low impact** — Water buoyancy supports about 90% of your body weight, making swimming one of the gentlest forms of [exercise](/exercise-[physiology](/physiology)) on joints and bones. It's recommended for people with arthritis, back pain, and injuries.
+- **[Mental health](/mental-health)** — Swimming reduces anxiety and depression symptoms. The rhythmic breathing and sensory experience of being in water have meditative qualities.
 - **Calorie burn** — Moderate lap swimming burns roughly 400-500 calories per hour. Vigorous swimming burns 600-700+.
 
 ## Competitive Swimming

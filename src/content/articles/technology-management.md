@@ -5,7 +5,7 @@ description: "Technology management is the discipline of planning, implementing,
 category: technology
 tags: ["technology management", "it management", "strategy", "project management"]
 heroImage: "/images/articles/technology-management.webp"
-heroAlt: "A modern office with digital dashboards and team collaboration screens showing technology infrastructure and project timelines"
+heroAlt: "Editorial photograph representing the concept of technology management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Project management is about executing specific initiatives on time and budget. Technology management encompasses the broader strategic context—deciding which projects to pursue, how technologies fit together, long-term technology roadmaps, and organizational capability building. Project management is one tool within technology management."
 ---
 
-Technology management is the discipline of selecting, deploying, and overseeing technology resources within an organization to meet business objectives, control costs, manage risk, and maintain competitive position. It sits at the intersection of technology expertise and business strategy — the practice of making smart decisions about which technologies to adopt, how to implement them, and when to retire them.
+Technology management is the discipline of selecting, deploying, and overseeing technology resources within an organization to meet business objectives, control costs, manage risk, and maintain competitive position. It sits at the intersection of technology expertise and [business strategy](/business-strategy) — the practice of making smart decisions about which technologies to adopt, how to implement them, and when to retire them.
 
 Every organization of any size faces technology decisions. Should we move to the cloud? Build or buy? Upgrade now or wait? How do we secure our data? What skills does our team need next year? Technology management is the structured approach to answering these questions instead of making them up as you go. And given that the average large enterprise spends 3-8% of revenue on technology, the stakes are significant.
 
@@ -52,8 +52,8 @@ Technology management emerged as a formal discipline because organizations reali
 Technology strategy answers the question: "How should technology support our organizational goals over the next 3-5 years?" It involves:
 
 - **Technology roadmapping** — plotting the timeline for major technology initiatives, upgrades, and retirements
-- **Portfolio management** — managing the organization's collection of technology investments as a portfolio, balancing risk, cost, and potential value
-- **Architecture decisions** — choosing the underlying technology platforms and frameworks that other systems will build upon
+- **[Portfolio management](/portfolio-management)** — managing the organization's collection of technology investments as a portfolio, balancing risk, cost, and potential value
+- **[Architecture](/architecture) decisions** — choosing the underlying technology platforms and frameworks that other systems will build upon
 - **Build vs. buy analysis** — determining whether to develop custom solutions or purchase existing ones
 
 Good technology strategy is not about chasing every new trend. It's about ruthless prioritization. With limited budget, limited staff, and limited time, which technology investments will generate the most value? That's the core question.
@@ -115,13 +115,13 @@ Software licensing alone is a massive cost center. Gartner estimates that organi
 
 **Chief Technology Officer (CTO)** — focuses more on technology vision, product technology, and R&D. The CIO/CTO distinction varies by organization — some have both, some have one or the other.
 
-**Chief Information Security Officer (CISO)** — dedicated security leadership, reporting to the CIO or directly to the CEO. This role has grown rapidly as security threats have intensified.
+**Chief [Information Security](/information-security) Officer (CISO)** — dedicated security leadership, reporting to the CIO or directly to the CEO. This role has grown rapidly as security threats have intensified.
 
 **IT Director / VP of Engineering** — manages technology teams and projects, typically reporting to the CIO or CTO.
 
 **Enterprise Architect** — designs the overall technology blueprint, ensuring systems work together coherently.
 
-**[Project managers](/agile-software-development)** — execute specific technology initiatives. PMP (Project Management Professional) certification is the most recognized credential.
+**[Project managers](/agile-software-development)** — execute specific technology initiatives. PMP ([Project Management](/project-management) Professional) certification is the most recognized credential.
 
 ## Frameworks for Technology Decisions
 
@@ -169,7 +169,7 @@ Every organization is asking how to use artificial intelligence. The challenge f
 
 ### Talent and Skills
 
-The technology talent shortage is real and persistent. There aren't enough qualified people for the available roles — particularly in cybersecurity, cloud engineering, data science, and AI. Technology managers must:
+The technology talent shortage is real and persistent. There aren't enough qualified people for the available roles — particularly in cybersecurity, cloud engineering, [data science](/data-science), and AI. Technology managers must:
 
 - Compete for scarce talent (compensation, culture, growth opportunities)
 - Develop internal talent through training and rotation

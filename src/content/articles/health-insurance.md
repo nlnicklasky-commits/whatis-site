@@ -5,7 +5,7 @@ description: "Health insurance is a contract where you pay premiums so an insure
 category: finance
 tags: ["health insurance", "insurance", "healthcare", "medical expenses", "premiums", "deductibles", "finance"]
 heroImage: "/images/articles/health-insurance-hero.webp"
-heroAlt: "A medical insurance card resting on top of hospital billing documents and a stethoscope"
+heroAlt: "Editorial photograph representing the concept of health insurance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "The out-of-pocket maximum is the most you'll have to pay for covered services in a plan year. Once you reach this amount through deductibles, copays, and coinsurance, your insurance pays 100% of covered costs for the rest of the year. For 2024 ACA plans, the maximum out-of-pocket limit is $9,450 for an individual and $18,900 for a family."
 ---
 
-# What Is Health Insurance?
+# What Is Health [Insurance](/insurance)?
 
 Health insurance is a contract between an individual and an insurance company in which the insurer agrees to pay for some or all of the insured person's medical expenses in exchange for regular premium payments. It works by spreading the financial risk of illness and injury across a large group of people, so that no single person faces the full cost of a medical catastrophe alone.
 
@@ -59,7 +59,7 @@ Once you've met your deductible, costs don't disappear—they're shared between 
 
 A **copay** is a flat fee. You pay $30 for a doctor visit, $50 for a specialist, $15 for a generic drug. Simple enough.
 
-**Coinsurance** is a percentage split. If your plan has 20% coinsurance, you pay 20% of the bill and insurance pays 80%. For a $10,000 surgery, that's $2,000 out of your pocket—on top of whatever you already paid toward your deductible.
+**Coinsurance** is a percentage split. If your plan has 20% coinsurance, you pay 20% of the bill and insurance pays 80%. For a $10,000 [surgery](/surgery), that's $2,000 out of your pocket—on top of whatever you already paid toward your deductible.
 
 ### The Out-of-Pocket Maximum
 
@@ -121,7 +121,7 @@ An insurer collects premiums from all its members and pays claims for the ones w
 
 The ACA requires that insurers in the individual and small group markets spend at least 80% of premium revenue on actual healthcare (the "medical loss ratio" or MLR rule). Large group plans must spend 85%. If insurers don't meet this threshold, they must issue rebates to enrollees. In 2022, insurers issued $1.1 billion in MLR rebates.
 
-This means insurers can keep only 15-20% of premiums for administration, marketing, and profit. That sounds like a tight margin—but when premiums total hundreds of billions of dollars, 15% is still a massive number.
+This means insurers can keep only 15-20% of premiums for administration, [marketing](/marketing), and profit. That sounds like a tight margin—but when premiums total hundreds of billions of dollars, 15% is still a massive number.
 
 ### Investment Income
 
@@ -133,7 +133,7 @@ Many large employers don't actually buy insurance. They "self-fund"—paying cla
 
 About 65% of covered workers are in self-funded plans. This is significant because self-funded plans are regulated by federal law (ERISA) rather than state insurance regulations, which means they're exempt from many state-mandated benefits.
 
-## Government Health Insurance Programs
+## [Government](/government) Health Insurance Programs
 
 Not everyone gets insurance through an employer or the marketplace. Government programs cover over 150 million Americans.
 
@@ -142,7 +142,7 @@ Not everyone gets insurance through an employer or the marketplace. Government p
 Medicare covers people 65 and older, plus younger people with certain disabilities or end-stage renal disease. About 65 million Americans are enrolled.
 
 It comes in parts:
-- **Part A** (Hospital Insurance): Covers inpatient hospital stays, skilled nursing, hospice, and some home health. Most people pay no premium because they paid Medicare taxes during their working years.
+- **Part A** (Hospital Insurance): Covers inpatient hospital stays, skilled [nursing](/nursing), hospice, and some home health. Most people pay no premium because they paid Medicare taxes during their working years.
 - **Part B** (Medical Insurance): Covers doctor visits, outpatient care, preventive services, and medical equipment. Standard premium: $174.70/month in 2024.
 - **Part C** (Medicare Advantage): Private insurance plans that bundle Parts A and B, often adding dental, vision, and drug coverage. About 51% of Medicare beneficiaries now choose Advantage plans.
 - **Part D** (Prescription Drug Coverage): Covers prescription medications through private plans. The Inflation Reduction Act capped out-of-pocket drug costs at $2,000 annually starting in 2025.
@@ -171,7 +171,7 @@ This opacity matters because prices for the same procedure at hospitals in the s
 
 ## Employer-Sponsored Insurance: The American System
 
-About 155 million Americans—nearly half the population—get health insurance through their employer. This arrangement dates back to World War II, when wage freezes prevented companies from attracting workers with higher pay. Companies offered health benefits instead, and the IRS ruled these benefits weren't taxable income. That wartime workaround became the foundation of American healthcare coverage.
+About 155 million Americans—nearly half the population—get health insurance through their employer. This arrangement dates back to [World War II](/world-war-ii), when wage freezes prevented companies from attracting workers with higher pay. Companies offered health benefits instead, and the IRS ruled these benefits weren't taxable income. That wartime workaround became the foundation of American healthcare coverage.
 
 It's a weird system when you think about it. Your access to healthcare is tied to your job. Lose your job, lose your insurance. Change jobs, change your doctor network. This employer dependency creates what economists call "job lock"—people staying in jobs they hate because they need the health benefits.
 
@@ -215,7 +215,7 @@ The U.S. is the only wealthy nation without universal health coverage. Every oth
 
 **National health services** (UK, Spain) have the government own and operate the healthcare system directly. Doctors are government employees, hospitals are government-run, and care is free at the point of use.
 
-Each system has tradeoffs in access, wait times, cost, and innovation. But they all share one thing the U.S. system lacks: nobody goes bankrupt from medical bills, and nobody dies because they can't afford treatment for a treatable condition. Understanding these different approaches to [capitalism](/capitalism) and public welfare is essential for informed policy debate.
+Each system has tradeoffs in access, wait times, cost, and innovation. But they all share one thing the U.S. system lacks: nobody goes bankrupt from medical bills, and nobody dies because they can't afford treatment for a treatable condition. Understanding these different approaches to [capitalism](/capitalism) and public welfare is essential for informed policy [debate](/debate).
 
 ## What to Look for When Choosing a Plan
 

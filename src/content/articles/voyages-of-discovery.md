@@ -5,7 +5,7 @@ description: "Voyages of discovery were the European maritime expeditions from t
 category: history
 tags: ["voyages of discovery", "age of exploration", "maritime history", "colonialism"]
 heroImage: "/images/articles/voyages-of-discovery.webp"
-heroAlt: "A wooden sailing ship crossing the open ocean under billowing sails"
+heroAlt: "Editorial photograph representing the concept of voyages of discovery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
 
 # What Is Voyages of Discovery?
 
-The voyages of discovery — also called the Age of Exploration — were a series of European maritime expeditions from roughly the early 1400s to the late 1600s that mapped previously unknown (to Europeans) coastlines, established new trade routes, and fundamentally reshaped the world's political, economic, and demographic order.
+The voyages of discovery — also called the Age of Exploration — were a series of European maritime expeditions from roughly the early 1400s to the late 1600s that mapped previously unknown (to Europeans) coastlines, established new [trade](/trade) routes, and fundamentally reshaped the world's political, economic, and demographic order.
 
-These voyages connected continents that had been largely isolated from each other. They also set in motion colonialism, the Atlantic slave trade, and the near-destruction of Indigenous civilizations across multiple continents. Understanding them means holding two realities at once: extraordinary feats of seamanship and navigation alongside extraordinary acts of violence and exploitation.
+These voyages connected continents that had been largely isolated from each other. They also set in motion colonialism, the Atlantic slave trade, and the near-destruction of Indigenous civilizations across multiple continents. Understanding them means holding two realities at once: extraordinary feats of seamanship and [navigation](/navigation) alongside extraordinary acts of violence and exploitation.
 
 ## Why Europeans Started Sailing
 
@@ -47,7 +47,7 @@ Europe didn't wake up one morning and decide to explore the world. Several press
 
 **New technology.** The magnetic compass (adopted from Chinese and Arab navigators), the astrolabe (for determining latitude), and — crucially — the caravel (a small, maneuverable ship that could sail close to the wind) made long-distance ocean voyages feasible for the first time.
 
-**Competition and ambition.** Portugal and Spain, sitting on the western edge of Europe with direct access to the Atlantic, were geographically positioned to lead. Their monarchies poured resources into exploration partly for trade, partly for religious fervor (spreading Christianity), and partly because national prestige demanded it.
+**Competition and ambition.** Portugal and Spain, sitting on the western edge of Europe with direct access to the Atlantic, were geographically positioned to lead. Their monarchies poured resources into exploration partly for trade, partly for religious fervor (spreading [Christianity](/christianity)), and partly because national prestige demanded it.
 
 ## Portugal Leads the Way
 
@@ -119,7 +119,7 @@ The Columbian Exchange, while introducing useful crops in both directions, unlea
 
 The voyages of discovery created the interconnected global economy we live in now. Before these expeditions, the world's major civilizations operated in relative isolation. Afterward, they were linked — permanently, and often painfully.
 
-The food you eat today reflects the Columbian Exchange. Italian cuisine without tomatoes, Irish cooking without potatoes, Thai food without chili peppers — none of these existed before European exploration connected the continents.
+The food you eat today reflects the Columbian Exchange. Italian cuisine without tomatoes, Irish [cooking](/cooking) without potatoes, Thai food without chili peppers — none of these existed before European exploration connected the continents.
 
 The political map of the modern world — why certain countries exist, why certain languages are spoken where they are, why wealth and power are distributed as they are — traces directly back to decisions made by Portuguese, Spanish, English, French, and Dutch explorers and the empires they built.
 

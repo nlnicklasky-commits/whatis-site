@@ -5,7 +5,7 @@ description: "Intellectual history studies how ideas develop and spread across t
 category: everyday-concepts
 tags: ["intellectual history", "history of ideas", "philosophy", "culture", "thought"]
 heroImage: "/images/articles/intellectual-history.webp"
-heroAlt: "Library shelves filled with classic philosophy and history books"
+heroAlt: "Editorial photograph representing the concept of intellectual history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,19 +37,19 @@ Intellectual history is the study of how ideas develop, spread, and shape human 
 
 Intellectual history is sometimes caricatured as a parade of Great Men Having Big Thoughts. Modern practitioners push back hard on this. Yes, figures like Plato, Descartes, and Darwin matter enormously. But intellectual history also studies how ideas moved through pamphlets, newspapers, sermons, and coffeehouses. It examines who was excluded from intellectual life and how marginalized thinkers contributed despite barriers. It asks how ordinary people understood and adapted the ideas that elites produced.
 
-The field sits between philosophy and history. Philosophers evaluate whether ideas are true or valid. Intellectual historians ask different questions: Why did *this* idea emerge *here* and *now*? What made it persuasive to its audience? How did it change as it moved between contexts? What did people actually mean by the words they used — which is not always what those words mean today?
+The field sits between [philosophy](/philosophy) and history. Philosophers evaluate whether ideas are true or valid. Intellectual historians ask different questions: Why did *this* idea emerge *here* and *now*? What made it persuasive to its audience? How did it change as it moved between contexts? What did people actually mean by the words they used — which is not always what those words mean today?
 
 ## Key Movements That Changed Everything
 
-**Greek philosophy (5th-4th century BCE)** — Socrates, Plato, and Aristotle asked questions about reality, knowledge, ethics, and governance that shaped Western thought for 2,500 years. Their methods — logical argument, systematic inquiry, dialectical questioning — became the foundation of intellectual life.
+**Greek philosophy (5th-4th century BCE)** — Socrates, Plato, and Aristotle asked questions about reality, knowledge, [ethics](/ethics), and governance that shaped Western thought for 2,500 years. Their methods — logical argument, systematic inquiry, dialectical questioning — became the foundation of intellectual life.
 
-**The Scientific Revolution (1543-1687)** — Copernicus, Galileo, Kepler, and Newton replaced Aristotelian physics and geocentric cosmology with mathematical, observation-based models. This was not just a change in scientific knowledge — it was a change in how people understood knowledge itself. Authority shifted from tradition to evidence.
+**The Scientific Revolution (1543-1687)** — Copernicus, Galileo, Kepler, and Newton replaced Aristotelian [physics](/physics) and geocentric [cosmology](/cosmology) with mathematical, observation-based models. This was not just a change in scientific knowledge — it was a change in how people understood knowledge itself. Authority shifted from tradition to evidence.
 
 **The Enlightenment (18th century)** — thinkers like Locke, Voltaire, Hume, and Kant argued that reason, not tradition or revelation, should guide human affairs. Their ideas about natural rights, religious tolerance, separation of powers, and individual liberty directly produced the American and French Revolutions and shaped modern democratic governance.
 
-**Darwinism (1859 onward)** — Darwin's *On the Origin of Species* did more than reshape biology. It challenged the idea of fixed, divinely created species and introduced a mechanism — natural selection — that explained complexity without design. Its implications rippled through philosophy, religion, social theory, and ethics.
+**Darwinism (1859 onward)** — Darwin's *On the Origin of Species* did more than reshape [biology](/biology). It challenged the idea of fixed, divinely created species and introduced a mechanism — natural selection — that explained complexity without design. Its implications rippled through philosophy, [religion](/religion), social theory, and ethics.
 
-**Marxism (1848 onward)** — Marx's analysis of capitalism, class struggle, and historical materialism influenced political movements across the globe. Whether one agrees with Marx or not, his ideas shaped the 20th century more than those of almost any other single thinker — inspiring revolutions, counter-revolutions, and ongoing debates about economic justice.
+**[Marxism](/marxism) (1848 onward)** — Marx's analysis of [capitalism](/capitalism), class struggle, and historical materialism influenced political movements across the globe. Whether one agrees with Marx or not, his ideas shaped the 20th century more than those of almost any other single thinker — inspiring revolutions, counter-revolutions, and ongoing debates about economic justice.
 
 ## How Ideas Travel
 
@@ -59,7 +59,7 @@ Ideas do not exist in isolation. They travel through specific channels:
 
 **Institutions** — universities, academies, salons, coffeehouses. The French salons of the 18th century were intellectual clearinghouses where writers, scientists, and philosophers exchanged ideas. Modern universities remain the primary institutional home of intellectual production.
 
-**Translation** — ideas cross linguistic boundaries through translators, often with significant transformation. Arabic translations of Greek philosophy preserved classical knowledge during the European Middle Ages. The translation of Buddhist texts from Sanskrit to Chinese reshaped East Asian thought.
+**[Translation](/translation)** — ideas cross linguistic boundaries through translators, often with significant transformation. Arabic translations of Greek philosophy preserved classical knowledge during the European Middle Ages. The translation of Buddhist texts from [Sanskrit](/sanskrit) to Chinese reshaped East Asian thought.
 
 **Popularization** — most people encounter major ideas not through original texts but through popularizers, teachers, journalists, and cultural products. How many people have actually read Darwin versus how many understand (or misunderstand) natural selection?
 

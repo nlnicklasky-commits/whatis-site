@@ -5,7 +5,7 @@ description: "Group theory studies mathematical symmetry through algebraic struc
 category: science
 tags: ["group theory", "mathematics", "abstract algebra", "symmetry", "algebra", "physics", "chemistry"]
 heroImage: "/images/articles/group-theory-hero.webp"
-heroAlt: "Symmetrical geometric patterns representing mathematical group structures and transformations"
+heroAlt: "Editorial photograph representing the concept of group theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -145,7 +145,7 @@ Physics is where group theory really shows its muscle. The fundamental laws of p
 
 ### Noether's Theorem
 
-Emmy Noether's 1918 theorem—one of the most important results in theoretical physics—states that every continuous symmetry of a physical system corresponds to a conserved quantity.
+Emmy Noether's 1918 theorem—one of the most important results in [theoretical physics](/theoretical-physics)—states that every continuous symmetry of a physical system corresponds to a conserved quantity.
 
 - Symmetry under time translation (physics works the same today as tomorrow) gives conservation of energy
 - Symmetry under spatial translation (physics works the same here as there) gives conservation of momentum
@@ -153,7 +153,7 @@ Emmy Noether's 1918 theorem—one of the most important results in theoretical p
 
 Each of these symmetries corresponds to a group. Time translations form a group. Spatial translations form a group. Rotations form SO(3). Noether showed that the group structure directly determines the conservation law. This connection between symmetry groups and conservation laws is the deepest organizing principle in [physics](/classical-mechanics).
 
-### Particle Physics and the Standard Model
+### [Particle Physics](/particle-physics) and the Standard Model
 
 The Standard Model of particle physics—our best theory of fundamental matter and forces—is built entirely on group theory. The model's gauge symmetry group is SU(3) x SU(2) x U(1). Each factor corresponds to a fundamental force:
 
@@ -171,7 +171,7 @@ When physicists search for "grand unified theories" that combine the three force
 
 Crystals are periodic arrangements of atoms. Their symmetries—which rotations, reflections, and translations leave the crystal structure unchanged—are described by space groups. In three dimensions, there are exactly 230 space groups. Every crystal belongs to one of them.
 
-This classification, completed in the late 19th century, was a triumph of applied group theory. It predicts which crystal shapes are possible, constrains the physical properties of crystalline materials, and guides X-ray crystallography (the technique used to determine molecular structures, including DNA's double helix).
+This classification, completed in the late 19th century, was a triumph of applied group theory. It predicts which crystal shapes are possible, constrains the physical properties of crystalline materials, and guides [X-ray crystallography](/x-ray-crystallography) (the technique used to determine molecular structures, including DNA's double helix).
 
 ## Group Theory in Chemistry
 

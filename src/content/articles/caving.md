@@ -5,7 +5,7 @@ description: "Caving (spelunking) is the recreational exploration of natural cav
 category: sports
 tags: ["caving", "spelunking", "caves", "outdoor recreation", "adventure", "geology"]
 heroImage: "/images/articles/caving.webp"
-heroAlt: "Caver wearing a headlamp exploring a limestone cave with stalactites and stalagmites"
+heroAlt: "Editorial photograph representing the concept of caving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Caving?
 
-Caving — also called spelunking or potholing — is the recreational exploration of natural underground cave systems. It involves climbing, crawling, squeezing, swimming, and sometimes rappelling through passages formed over millions of years by water dissolving rock. It is, frankly, one of the strangest hobbies anyone can have: voluntarily crawling into dark, tight, cold, wet spaces underground. And yet roughly 50,000 Americans do it regularly.
+Caving — also called spelunking or potholing — is the recreational exploration of natural underground cave systems. It involves climbing, crawling, squeezing, [swimming](/swimming), and sometimes rappelling through passages formed over millions of years by water dissolving rock. It is, frankly, one of the strangest hobbies anyone can have: voluntarily crawling into dark, tight, cold, wet spaces underground. And yet roughly 50,000 Americans do it regularly.
 
 ## Why People Go Underground
 
@@ -39,7 +39,7 @@ The appeal is hard to explain to someone who hasn't tried it. Caves are alien en
 
 That last point is real. Unlike mountains, which are visible and mapped by satellite, caves must be physically entered to be discovered. The National Speleological Society estimates that only about half of significant caves in the United States have been found and documented. New passages are discovered regularly, even in well-known cave systems.
 
-There's also the challenge element. Caving tests physical fitness, problem-solving, comfort with confined spaces, and mental composure in an environment where sunlight doesn't reach. Getting through a passage that's 12 inches tall and 60 feet long — on your belly, helmet scraping the ceiling — requires a particular calm that some people find addictive.
+There's also the challenge element. Caving tests physical [fitness](/fitness), problem-solving, comfort with confined spaces, and mental composure in an environment where sunlight doesn't reach. Getting through a passage that's 12 inches tall and 60 feet long — on your belly, helmet scraping the ceiling — requires a particular calm that some people find addictive.
 
 ## How Caves Form
 
@@ -47,15 +47,15 @@ Most recreational caves are solution caves — formed when slightly acidic groun
 
 The formations inside caves — collectively called speleothems — are the visual payoff. Stalactites grow down from ceilings (think: stalactites hold "tight" to the ceiling). Stalagmites grow up from floors. Flowstone cascades down walls. Soda straws are thin, hollow tubes of calcite that can grow to several feet. Some formations grow less than an inch per century — a 3-foot stalactite might be 3,600 years old.
 
-These formations are extraordinarily fragile. A single touch deposits oils that can stop growth permanently. This is why responsible cavers follow strict cave conservation ethics: take nothing, leave nothing, break nothing. Damage to cave formations is irreversible on any human timescale.
+These formations are extraordinarily fragile. A single touch deposits oils that can stop growth permanently. This is why responsible cavers follow strict cave conservation [ethics](/ethics): take nothing, leave nothing, break nothing. Damage to cave formations is irreversible on any human timescale.
 
 ## Types of Caving
 
-**Horizontal caving** — Exploring cave passages that are primarily horizontal. Walking, crawling, climbing over breakdown (collapsed rock), and wading through water. Most beginners start here. Popular tourist caves (Mammoth Cave in Kentucky, Carlsbad Caverns in New Mexico) offer guided horizontal experiences.
+**Horizontal caving** — Exploring cave passages that are primarily horizontal. [Walking](/walking), crawling, climbing over breakdown (collapsed rock), and wading through water. Most beginners start here. Popular tourist caves (Mammoth Cave in Kentucky, Carlsbad Caverns in New Mexico) offer guided horizontal experiences.
 
 **Vertical caving** — Caves with significant vertical elements requiring rope techniques. Single Rope Technique (SRT) uses one rope for both descent (rappelling) and ascent (mechanical ascenders). Vertical caves can involve drops of hundreds of feet — Fantastic Pit in Georgia drops 586 feet in a single shaft, making it one of the deepest single drops in the United States.
 
-**Cave diving** — Exploring water-filled cave passages using scuba equipment. This is categorically the most dangerous form of recreational caving — cave diving accounts for a disproportionate number of caving fatalities. It combines the challenges of scuba diving (equipment failure, air supply management) with the challenges of caving (navigation in confined spaces, no direct access to the surface). Only for those with extensive specialized training.
+**Cave [diving](/diving)** — Exploring water-filled cave passages using scuba equipment. This is categorically the most dangerous form of recreational caving — cave diving accounts for a disproportionate number of caving fatalities. It combines the challenges of [scuba diving](/scuba-diving) (equipment failure, air supply [management](/management)) with the challenges of caving ([navigation](/navigation) in confined spaces, no direct access to the surface). Only for those with extensive specialized training.
 
 **Survey and exploration** — Mapping unmapped passages, extending known caves, and documenting geological features. This is the scientific edge of recreational caving. Survey teams use compasses, clinometers, and measuring tapes to create detailed maps of cave passages. Some cave survey projects have continued for decades.
 

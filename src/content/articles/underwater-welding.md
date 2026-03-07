@@ -5,7 +5,7 @@ description: "Underwater welding joins metals beneath the water's surface using 
 category: technology
 tags: ["underwater welding", "welding", "marine engineering", "diving", "construction"]
 heroImage: "/images/articles/underwater-welding.webp"
-heroAlt: "A diver in full helmet gear performing underwater welding with bright arc light visible beneath the water"
+heroAlt: "Editorial photograph representing the concept of underwater welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ But the water creates problems that surface welders never deal with:
 
 **Reduced visibility.** The arc creates a cloud of bubbles and steam that obscures the welder's view. Add in naturally murky water, currents, and the fact that the diver is wearing a full-face helmet, and it's clear why wet welding demands extreme concentration.
 
-**Electrical hazard.** You're running 300+ amps of electricity through water. The welding machines use DC current (which is safer than AC in water) and incorporate safety switches that cut power when the electrode isn't in contact with the workpiece. But the risk of electrical shock is ever-present.
+**Electrical hazard.** You're [running](/running) 300+ amps of [electricity](/electricity) through water. The welding machines use DC current (which is safer than AC in water) and incorporate safety switches that cut power when the electrode isn't in contact with the workpiece. But the risk of electrical shock is ever-present.
 
 Despite these challenges, wet welding is used extensively because it's fast, relatively cheap, and doesn't require elaborate setup. Most routine maintenance work on marine structures — patching corroded steel, reattaching loose fittings, installing cathodic protection anodes — is done with wet welding.
 
@@ -67,7 +67,7 @@ This is the premium approach. A sealed chamber — called a habitat — is posit
 
 Inside the habitat, you can use any welding process that works on the surface: [TIG](/tungsten-inert-gas-tig-welding), MIG, flux-cored arc welding — whatever the application requires. The welds are dramatically better than wet welds, often meeting the same quality standards as surface welds. The AWS D3.6 code classifies these as Class A welds.
 
-The catch? Cost and complexity. Building, deploying, and operating a hyperbaric habitat is expensive. A typical dry welding operation on an offshore platform might cost $500,000 to $2 million just for the habitat setup, before any welding even starts. The chamber has to be custom-fitted to the joint geometry, sealed against the surrounding water pressure, supplied with breathing gas, and ventilated to remove welding fumes.
+The catch? Cost and complexity. Building, deploying, and operating a hyperbaric habitat is expensive. A typical dry welding operation on an offshore platform might cost $500,000 to $2 million just for the habitat setup, before any welding even starts. The chamber has to be custom-fitted to the joint [geometry](/geometry), sealed against the surrounding water pressure, supplied with breathing gas, and ventilated to remove welding fumes.
 
 Dry welding is reserved for critical applications where weld quality can't be compromised: structural repairs on offshore platforms, pipeline tie-ins, nuclear plant intake systems, and military submarine hull repairs.
 
@@ -109,7 +109,7 @@ A typical offshore structure sits in water ranging from 20 to 300+ meters deep. 
 
 Inspecting and repairing ship hulls without dry-docking saves enormous time and money. A large container ship might cost $50,000-100,000 per day in dry-dock fees plus lost revenue. If a diver can weld a patch on a corroded hull plate while the ship is alongside a pier, the savings are obvious.
 
-Most navies maintain teams of diver-welders for emergency ship repairs. The U.S. Navy's underwater construction teams (UCTs) train extensively in underwater [welding and cutting](/civil-engineering) for both routine maintenance and battle damage repair.
+Most navies maintain teams of diver-welders for emergency ship repairs. The U.S. Navy's underwater [construction](/construction) teams (UCTs) train extensively in underwater [welding and cutting](/civil-[engineering](/engineering)) for both routine maintenance and battle damage repair.
 
 ### Bridges and Dams
 
@@ -143,7 +143,7 @@ Becoming an underwater welder takes serious commitment. The typical path:
 
 1. **Welding training** — Many aspiring underwater welders start with surface welding certification. Understanding metallurgy, joint preparation, and weld quality assessment is essential before adding water to the equation.
 
-2. **Commercial dive school** — Accredited programs (typically 5-7 months) teach diving physics, physiology, equipment, emergency procedures, and underwater work skills. In the U.S., the Association of Diving Contractors International (ADCI) accredits schools.
+2. **Commercial dive school** — Accredited programs (typically 5-7 months) teach diving [physics](/physics), [physiology](/physiology), equipment, emergency procedures, and underwater work skills. In the U.S., the Association of Diving Contractors International (ADCI) accredits schools.
 
 3. **Underwater welding training** — Some dive schools include welding modules. Others require you to learn on the job as a tender (support crew) before progressing to diver-welder.
 

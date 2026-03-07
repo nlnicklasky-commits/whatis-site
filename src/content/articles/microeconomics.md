@@ -5,7 +5,7 @@ description: "Microeconomics studies how individuals and businesses make decisio
 category: finance
 tags: ["microeconomics", "economics", "supply and demand", "market structure", "consumer behavior", "pricing", "competition"]
 heroImage: "/images/articles/microeconomics-hero.webp"
-heroAlt: "Market stall with price tags illustrating supply and demand dynamics"
+heroAlt: "Editorial photograph representing the concept of microeconomics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

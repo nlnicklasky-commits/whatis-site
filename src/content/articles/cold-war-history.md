@@ -5,7 +5,7 @@ description: "Cold War history covers the 45-year geopolitical standoff between 
 category: history
 tags: ["cold war", "geopolitics", "soviet union", "united states", "communism"]
 heroImage: "/images/articles/cold-war-history.webp"
-heroAlt: "The Berlin Wall with graffiti and guard towers silhouetted against a grey sky"
+heroAlt: "Editorial photograph representing the concept of cold war history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Cold War history is the study of the geopolitical, ideological, and military riv
 
 ## How Two Allies Became Enemies
 
-During World War II, the U.S. and Soviet Union fought on the same side against Nazi Germany. They weren't friends — they were allies of necessity. Franklin Roosevelt, Winston Churchill, and Joseph Stalin met at conferences in Tehran (1943) and Yalta (1945) to coordinate strategy and plan the postwar order. But underneath the handshakes, deep distrust was already building.
+During [World War II](/world-war-ii), the U.S. and Soviet Union fought on the same side against Nazi Germany. They weren't friends — they were allies of necessity. Franklin Roosevelt, Winston Churchill, and Joseph Stalin met at conferences in Tehran (1943) and Yalta (1945) to coordinate strategy and plan the postwar order. But underneath the handshakes, deep distrust was already building.
 
 The reasons were fundamental. The Soviet Union was a one-party communist state that viewed [capitalism](/capitalism) as exploitative and doomed. The United States was a capitalist democracy that viewed communism as tyrannical and aggressive. Each saw the other's system as a direct threat to its own survival.
 
@@ -69,11 +69,11 @@ The space race was the Cold War's most dramatic non-military competition. The So
 
 The U.S. responded with the Apollo program. On July 20, 1969, Neil Armstrong and Buzz Aldrin walked on the moon. It remains one of humanity's greatest achievements — and it was funded primarily because of Cold War competition. NASA's budget peaked at 4.4% of federal spending in 1966. Today it's about 0.5%.
 
-The space race had lasting effects on [computing](/computing-history) and technology. The demands of rocket guidance systems, satellite communications, and mission control accelerated developments in miniaturized electronics, software engineering, and telecommunications that eventually transformed civilian life.
+The space race had lasting effects on [computing](/computing-history) and technology. The demands of rocket guidance systems, satellite communications, and mission control accelerated developments in miniaturized [electronics](/electronics), [software engineering](/software-engineering), and telecommunications that eventually transformed civilian life.
 
 ## The Cuban Missile Crisis: Thirteen Days on the Brink
 
-In October 1962, U.S. reconnaissance planes discovered Soviet nuclear missile installations under construction in [Cuba](/cuban-history). The missiles, once operational, could reach Washington, D.C. in about 13 minutes.
+In October 1962, U.S. reconnaissance planes discovered Soviet nuclear missile installations under [construction](/construction) in [Cuba](/cuban-history). The missiles, once operational, could reach Washington, D.C. in about 13 minutes.
 
 President Kennedy imposed a naval blockade (called a "quarantine" for legal reasons) and demanded the missiles be removed. Soviet Premier Khrushchev initially refused. For 13 days, the world genuinely stood at the edge of nuclear war.
 
@@ -81,9 +81,9 @@ The crisis was resolved through a deal: the Soviets removed their missiles from 
 
 ## The Vietnam Era and Detente
 
-The Vietnam War (1955–1975) was the Cold War's most divisive proxy conflict for the United States. Over 58,000 Americans and an estimated 2-3 million Vietnamese died. The U.S. framed its involvement as containing communism; critics saw it as propping up a corrupt South Vietnamese government against a popular nationalist movement.
+The Vietnam War (1955–1975) was the Cold War's most divisive proxy conflict for the United States. Over 58,000 Americans and an estimated 2-3 million Vietnamese died. The U.S. framed its involvement as containing communism; critics saw it as propping up a corrupt South Vietnamese [government](/government) against a popular nationalist movement.
 
-Vietnam shattered the Cold War consensus in American politics. For the first time, a significant portion of the American public questioned whether containing communism everywhere was worth the cost. The [civil rights movement](/civil-rights-history) and antiwar movement together transformed American political culture.
+Vietnam shattered the Cold War consensus in American [politics](/politics). For the first time, a significant portion of the American public questioned whether containing communism everywhere was worth the cost. The [civil rights movement](/civil-rights-history) and antiwar movement together transformed American political culture.
 
 The exhaustion led to detente — a period of reduced tensions in the 1970s. Richard Nixon visited China in 1972 and signed the Strategic Arms Limitation Treaty (SALT I) with the Soviet Union. The Helsinki Accords of 1975 affirmed European borders and established human rights commitments.
 

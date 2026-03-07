@@ -5,7 +5,7 @@ description: "Mountain biking is off-road cycling on rough terrain using special
 category: sports
 tags: ["mountain biking", "cycling", "off-road", "trail riding", "bike sports", "outdoor recreation"]
 heroImage: "/images/articles/mountain-biking.webp"
-heroAlt: "Mountain biker riding down a forested singletrack trail with dust kicking up"
+heroAlt: "Editorial photograph representing the concept of mountain biking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Mountain biking is the sport of riding specially designed bicycles on off-road terrain — dirt trails, forest paths, mountain tracks, rock gardens, and purpose-built bike parks. It started in the 1970s when a group of Northern California cyclists began racing modified beach cruisers down the fire roads of Mount Tamalpais in Marin County. Within two decades, it became an Olympic sport.
 
-Today, mountain biking is practiced by an estimated 40+ million people in the U.S. alone. It's both a competitive sport (cross-country racing became Olympic in 1996) and a recreational activity that offers fitness, adventure, and an addictive combination of physical challenge and technical skill.
+Today, mountain biking is practiced by an estimated 40+ million people in the U.S. alone. It's both a competitive sport (cross-country racing became Olympic in 1996) and a recreational activity that offers [fitness](/fitness), adventure, and an addictive combination of physical challenge and technical skill.
 
 ## The Disciplines
 
@@ -51,11 +51,11 @@ Today, mountain biking is practiced by an estimated 40+ million people in the U.
 
 ## The Bikes
 
-Modern mountain bikes are engineering marvels. Key components include:
+Modern mountain bikes are [engineering](/engineering) marvels. Key components include:
 
-**Frame** — aluminum or carbon fiber, designed for specific riding styles. Geometry has evolved dramatically — modern bikes are longer, lower, and slacker (more relaxed head tube angle) than bikes from even five years ago, improving stability at speed.
+**Frame** — aluminum or carbon fiber, designed for specific riding styles. [Geometry](/geometry) has evolved dramatically — modern bikes are longer, lower, and slacker (more relaxed head tube angle) than bikes from even five years ago, improving stability at speed.
 
-**Suspension** — front forks and rear shocks absorb impacts. Air springs are adjustable for rider weight. Damping controls how quickly the suspension compresses and rebounds. Quality suspension transforms rough terrain from punishing to manageable.
+**Suspension** — front forks and rear shocks absorb impacts. Air [springs](/springs) are adjustable for rider weight. Damping controls how quickly the suspension compresses and rebounds. Quality suspension transforms rough terrain from punishing to manageable.
 
 **Dropper seatpost** — a lever-activated post that lets riders lower their seat for descents and raise it for climbing. This single innovation has changed how people ride more than almost any other technology in recent years.
 
@@ -78,7 +78,7 @@ Organizations like IMBA (International Mountain Bicycling Association) work to b
 
 Mountain biking has a strong community ethic. Riders greet each other on trails. More experienced riders help beginners. Group rides are social events. Trail building brings people together for physical work that directly benefits the community.
 
-The sport has become more inclusive in recent years, with growing participation among women (about 36% of mountain bikers are female, up from 23% a decade ago), people of color, and older adults. Organizations like NICA (National Interscholastic Cycling Association) have brought mountain biking to high school students, with leagues in nearly every U.S. state.
+The sport has become more inclusive in recent years, with growing participation among women (about 36% of mountain bikers are female, up from 23% a decade ago), people of color, and older adults. Organizations like NICA (National Interscholastic [Cycling](/cycling) Association) have brought mountain biking to high school students, with leagues in nearly every U.S. state.
 
 ## Getting Started
 

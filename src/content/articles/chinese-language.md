@@ -5,7 +5,7 @@ description: "Chinese is a family of related languages spoken by over 1.3 billio
 category: arts-amp-culture
 tags: ["Chinese language", "Mandarin", "languages", "linguistics", "writing systems", "tonal languages"]
 heroImage: "/images/articles/chinese-language.webp"
-heroAlt: "Chinese calligraphy characters written with brush and ink on rice paper"
+heroAlt: "Editorial photograph representing the concept of the chinese language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is the Chinese Language?
 
-Chinese is a family of related tonal languages spoken by over 1.3 billion people — roughly one-sixth of humanity. It's written with one of the oldest continuously used writing systems on Earth, distinguished from alphabetic scripts by using logographic characters (each character represents a word or morpheme rather than a sound). "Chinese" as a single language is actually a simplification — it encompasses multiple spoken varieties that are as different from each other as French is from Spanish.
+Chinese is a family of related tonal languages spoken by over 1.3 billion people — roughly one-sixth of humanity. It's written with one of the oldest continuously used [writing](/writing) systems on Earth, distinguished from alphabetic scripts by using logographic characters (each character represents a word or morpheme rather than a sound). "Chinese" as a single language is actually a simplification — it encompasses multiple spoken varieties that are as different from each other as French is from Spanish.
 
 ## Not One Language, Many
 
@@ -54,7 +54,7 @@ Chinese is a tonal language — the pitch pattern used to pronounce a syllable c
 
 Same syllable, four completely different words. The classic example: "māma mà mǎ de má" means "mother scolds the horse's hemp." For non-tonal-language speakers (including English speakers), hearing and producing tonal distinctions is the first major hurdle.
 
-Cantonese has 6-9 tones (depending on how you count), making it even more challenging tonally. Other Chinese varieties have their own tonal systems. This tonal nature means that Chinese song lyrics sometimes need contextual cues that spoken Chinese would convey through tone — singing flattens tonal distinctions.
+Cantonese has 6-9 tones (depending on how you count), making it even more challenging tonally. Other Chinese varieties have their own tonal systems. This tonal nature means that Chinese song lyrics sometimes need contextual cues that spoken Chinese would convey through tone — [singing](/singing) flattens tonal distinctions.
 
 ## The Writing System
 
@@ -66,7 +66,7 @@ The system has ancient roots. Oracle bone inscriptions (甲骨文, jiǎgǔwén) 
 
 **Simplified vs. Traditional characters:** In the 1950s-60s, the People's Republic of China simplified many characters to improve literacy (reducing stroke counts and standardizing forms). Mainland China and Singapore use simplified characters. Taiwan, Hong Kong, and Macau use traditional characters. Both systems are fully functional; readers literate in one can often read the other with some adjustment.
 
-## Grammar: Simpler Than You'd Expect
+## [Grammar](/grammar): Simpler Than You'd Expect
 
 While the writing system is notoriously difficult, Chinese grammar is in many ways simpler than European languages. No conjugation — verbs don't change form for person, number, or tense. 我去 (wǒ qù, "I go"), 他去 (tā qù, "he go"), 他们去 (tāmen qù, "they go") — same verb every time. Tense is indicated by context, time words, or aspect particles.
 
@@ -76,9 +76,9 @@ The difficulty lies elsewhere: measure words (classifiers required between numbe
 
 ## Chinese in the Modern World
 
-Mandarin is the most spoken language on Earth by native speakers (920 million) and total speakers (roughly 1.12 billion). It's one of the six official languages of the United Nations. China's economic rise has driven enormous growth in Mandarin language learning worldwide — the Confucius Institute network (now reorganized as the Chinese International Education Foundation) has established hundreds of language programs globally.
+Mandarin is the most spoken language on Earth by native speakers (920 million) and total speakers (roughly 1.12 billion). It's one of the six official languages of the United Nations. China's economic rise has driven enormous growth in Mandarin language learning worldwide — the Confucius Institute network (now reorganized as the Chinese International [Education](/education) Foundation) has established hundreds of language programs globally.
 
-Chinese internet content is massive — roughly 1.5 billion Chinese characters are published online daily. Chinese social media platforms (WeChat, Weibo, Douyin) collectively have billions of users. Chinese-language literature has a continuous tradition spanning over 3,000 years, making it one of the oldest literary traditions in existence.
+Chinese internet content is massive — roughly 1.5 billion Chinese characters are published online daily. Chinese social media platforms (WeChat, Weibo, Douyin) collectively have billions of users. Chinese-language [literature](/literature) has a continuous tradition spanning over 3,000 years, making it one of the oldest literary traditions in existence.
 
 The character-based writing system creates unique challenges and opportunities in the digital age. Chinese input methods allow typing characters phonetically (using pinyin romanization) with predictive selection — remarkably efficient once mastered. Chinese text takes up less space than equivalent English text (characters are information-dense), which is why Chinese tweets and messages convey more content in fewer characters.
 

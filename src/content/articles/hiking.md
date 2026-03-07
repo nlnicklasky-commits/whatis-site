@@ -5,7 +5,7 @@ description: "Hiking is walking outdoors on trails or paths for recreation and e
 category: everyday-concepts
 tags: ["hiking", "outdoor recreation", "walking", "nature", "trails", "wilderness"]
 heroImage: "/images/articles/hiking.webp"
-heroAlt: "Hiker with backpack walking along a mountain trail with scenic valley views"
+heroAlt: "Editorial photograph representing the concept of hiking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Hiking?
 
-Hiking is walking outdoors on trails, paths, or natural terrain for recreation, exercise, or both. It ranges from a casual stroll through a local park to a multi-day trek across mountain ranges. About 60 million Americans went hiking in 2023, making it one of the most popular outdoor activities in the country — and globally, the numbers are even larger.
+Hiking is [walking](/walking) outdoors on trails, paths, or natural terrain for recreation, exercise, or both. It ranges from a casual stroll through a local park to a multi-day trek across mountain ranges. About 60 million Americans went hiking in 2023, making it one of the most popular outdoor activities in the country — and globally, the numbers are even larger.
 
 ## More Than Just Walking
 
@@ -41,9 +41,9 @@ That said, hiking covers an enormous range of difficulty:
 
 **Day hikes** are the most common. You leave in the morning, walk a trail, and return the same day. These can be anything from a flat 2-mile loop to a grueling 15-mile climb with 4,000 feet of elevation gain.
 
-**Backpacking** (or "thru-hiking" on long trails) involves carrying everything you need — tent, sleeping bag, food, water — and spending multiple nights on the trail. The Appalachian Trail (2,190 miles, Georgia to Maine) and the Pacific Crest Trail (2,650 miles, Mexico to Canada) are the most famous long-distance routes in the U.S.
+**[Backpacking](/backpacking)** (or "thru-hiking" on long trails) involves carrying everything you need — tent, sleeping bag, food, water — and spending multiple nights on the trail. The Appalachian Trail (2,190 miles, Georgia to Maine) and the Pacific Crest Trail (2,650 miles, Mexico to Canada) are the most famous long-distance routes in the U.S.
 
-**Scrambling** sits between hiking and rock climbing. You are still walking, but steep sections require using your hands for balance or stability. No ropes or technical gear, but definitely not a stroll.
+**Scrambling** sits between hiking and [rock climbing](/rock-climbing). You are still walking, but steep sections require using your hands for balance or stability. No ropes or technical gear, but definitely not a stroll.
 
 **Peak bagging** is the practice of summiting specific mountains, often from a list. Colorado's "14ers" (peaks over 14,000 feet) and New England's "4,000-footers" are popular targets for hikers who like checking boxes.
 
@@ -51,11 +51,11 @@ That said, hiking covers an enormous range of difficulty:
 
 The reasons are both obvious and scientifically validated.
 
-**Physical health.** Hiking burns 400 to 700 calories per hour depending on terrain and pack weight. It strengthens leg muscles, improves cardiovascular fitness, and is easier on joints than running because the surfaces are softer. A 2022 study in *Current Biology* found that outdoor exercise produces greater health benefits than equivalent indoor exercise — your body seems to respond differently when surrounded by nature.
+**Physical health.** Hiking burns 400 to 700 calories per hour depending on terrain and pack weight. It strengthens leg muscles, improves cardiovascular [fitness](/fitness), and is easier on joints than [running](/running) because the surfaces are softer. A 2022 study in *Current [Biology](/biology)* found that outdoor exercise produces greater health benefits than equivalent indoor exercise — your body seems to respond differently when surrounded by nature.
 
-**Mental health.** Multiple studies — including a widely cited 2015 Stanford paper — show that walking in natural settings reduces activity in the subgenual prefrontal cortex, a brain region associated with rumination (repetitive negative thinking). In plain terms: hiking literally quiets the anxious chatter in your head. Participants showed measurable reductions in anxiety and depression after just 90 minutes of nature walking.
+**[Mental health](/mental-health).** Multiple studies — including a widely cited 2015 Stanford paper — show that walking in natural settings reduces activity in the subgenual prefrontal cortex, a brain region associated with rumination (repetitive negative thinking). In plain terms: hiking literally quiets the anxious chatter in your head. Participants showed measurable reductions in anxiety and depression after just 90 minutes of nature walking.
 
-**It is cheap.** You need shoes and water. Everything else is optional. Unlike skiing, golf, or cycling, the barrier to entry is almost zero.
+**It is cheap.** You need shoes and water. Everything else is optional. Unlike skiing, golf, or [cycling](/cycling), the barrier to entry is almost zero.
 
 **Social connection.** Hiking with others creates bonding opportunities that differ from regular socializing. Something about walking side by side — rather than facing each other — makes conversation flow more naturally. And shared physical challenges build camaraderie quickly.
 
@@ -69,7 +69,7 @@ The outdoor gear industry would love you to think you need $2,000 worth of equip
 
 **Layers.** Weather changes quickly in mountains. Bring a rain jacket and an extra warm layer even if the forecast looks perfect. Cotton is terrible for hiking — it absorbs sweat and loses insulation when wet. Synthetic or merino wool is vastly better.
 
-**Navigation.** For well-marked trails, a downloaded trail map on your phone (apps like AllTrails or Gaia GPS) is sufficient. For backcountry hiking, carry a physical map and compass as backup — phones die.
+**[Navigation](/navigation).** For well-marked trails, a downloaded trail map on your phone (apps like AllTrails or Gaia GPS) is sufficient. For backcountry hiking, carry a physical map and compass as backup — phones die.
 
 **Snacks.** Trail mix, energy bars, fruit, sandwiches. Hiking hungry is miserable. Pack more food than you think you need.
 
@@ -86,7 +86,7 @@ The most common hiking emergencies are dehydration, twisted ankles, and getting 
 
 ## Where to Start
 
-If you are new to hiking, the best approach is simple: find a short, well-reviewed trail near you and go walk it. Most state and national parks have trails rated by difficulty. Start with "easy" or "moderate" ratings. Build distance and elevation gradually.
+If you are new to hiking, the best approach is simple: find a short, well-reviewed trail near you and go walk it. Most state and [national parks](/national-parks) have trails rated by difficulty. Start with "easy" or "moderate" ratings. Build distance and elevation gradually.
 
 Resources like AllTrails, the National Park Service website, and local hiking clubs provide trail descriptions, difficulty ratings, and user reviews. Many communities have hiking groups that organize beginner-friendly outings — joining one is a great way to learn trail skills and find hiking partners.
 

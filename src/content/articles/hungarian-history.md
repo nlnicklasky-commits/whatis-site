@@ -5,7 +5,7 @@ description: "Hungarian history traces the Magyars from the Eurasian steppe to m
 category: history
 tags: ["hungarian history", "hungary", "magyars", "ottoman empire", "central europe"]
 heroImage: "/images/articles/hungarian-history.webp"
-heroAlt: "The Hungarian Parliament Building on the Danube River in Budapest"
+heroAlt: "Editorial photograph representing the concept of hungarian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Hungarian history is the story of the Magyar people — from their origins on th
 
 ## A People From the East
 
-The Magyars are an anomaly in Europe. Their language — Hungarian — belongs to the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to any of the Slavic, Germanic, or Romance languages spoken by Hungary's neighbors. This linguistic isolation reflects the Magyars' distinctive origins.
+The Magyars are an anomaly in Europe. Their language — Hungarian — belongs to the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to any of the Slavic, Germanic, or [Romance languages](/romance-languages) spoken by Hungary's neighbors. This linguistic isolation reflects the Magyars' distinctive origins.
 
 They came from the Ural Mountain region, in what is now Russia. Semi-nomadic herders and warriors, they migrated westward over centuries, spending time in the steppe regions north of the Black Sea before making their decisive move into the Carpathian Basin around 895 CE. The migration was led by Arpad, who became the founder of Hungary's first ruling dynasty.
 
@@ -47,7 +47,7 @@ The Carpathian Basin turned out to be a superb strategic choice. Surrounded by m
 
 ## Becoming a Christian Kingdom
 
-The raiding stopped abruptly after the Battle of Lechfeld in 955, when German King Otto I decisively defeated a Magyar force in southern Bavaria. The Magyars' leadership recognized that continued raiding would provoke a coordinated European response they couldn't survive. The strategic pivot was dramatic: within a generation, Hungary converted to Christianity and reorganized itself as a European-style kingdom.
+The raiding stopped abruptly after the Battle of Lechfeld in 955, when German King Otto I decisively defeated a Magyar force in southern Bavaria. The Magyars' [leadership](/leadership) recognized that continued raiding would provoke a coordinated European response they couldn't survive. The strategic pivot was dramatic: within a generation, Hungary converted to [Christianity](/christianity) and reorganized itself as a European-style kingdom.
 
 The key figure was Stephen I, crowned in 1000 or 1001 CE with a crown sent by Pope Sylvester II. Stephen's conversion and coronation were brilliant geopolitical moves — they simultaneously gained papal recognition, allied Hungary with Western Christendom against Byzantine and pagan rivals, and gave the new kingdom legitimacy under European political norms. Stephen organized the country into counties (megyek), established bishoprics, and invited foreign clergy and knights to help build institutions.
 
@@ -65,11 +65,11 @@ Ottoman rule lasted roughly 150 years and left deep marks. The population of the
 
 After the Ottomans were driven out in the 1680s-1690s, Hungary fell under Habsburg domination. The Habsburgs viewed Hungary as a conquered territory to be administered from Vienna. Hungarians viewed themselves as a historic kingdom with ancient constitutional rights, including the right to elect their own king (the Habsburgs held the throne, but Hungarians insisted it was by consent, not conquest).
 
-This tension exploded repeatedly. The Rakoczi War of Independence (1703-1711), led by Prince Francis II Rakoczi, was a full-scale revolt against Habsburg rule. It failed militarily but extracted some constitutional concessions. The 1848 Revolution — part of the wave of revolutions sweeping Europe that year — briefly established an independent Hungarian government under Lajos Kossuth before being crushed by Austrian and Russian armies.
+This tension exploded repeatedly. The Rakoczi War of Independence (1703-1711), led by Prince Francis II Rakoczi, was a full-scale revolt against Habsburg rule. It failed militarily but extracted some constitutional concessions. The 1848 Revolution — part of the wave of revolutions sweeping Europe that year — briefly established an independent Hungarian [government](/government) under Lajos Kossuth before being crushed by Austrian and Russian armies.
 
-The Austro-Hungarian Compromise of 1867 finally established a workable arrangement. The Habsburg Empire was reorganized as a dual monarchy — Austria-Hungary — with Hungary gaining internal self-government, its own parliament, and control over its domestic affairs. The period from 1867 to 1914 was, in many ways, a golden age: Budapest was transformed from a provincial city into one of Europe's great capitals, with its iconic Parliament building, opera house, and the first underground railway on the European continent (opened in 1896).
+The Austro-Hungarian Compromise of 1867 finally established a workable arrangement. The Habsburg Empire was reorganized as a dual [monarchy](/monarchy) — Austria-Hungary — with Hungary gaining internal self-government, its own parliament, and control over its domestic affairs. The period from 1867 to 1914 was, in many ways, a golden age: Budapest was transformed from a provincial city into one of Europe's great capitals, with its iconic Parliament building, opera house, and the first underground railway on the European continent (opened in 1896).
 
-But the Compromise also created problems. Hungary's ruling elite — the Magyar gentry — controlled a multi-ethnic state where ethnic Hungarians constituted less than half the population. Their policies of Magyarization — forcing the Hungarian language and identity on Slovak, Romanian, Serbian, Croatian, and German minorities — generated resentment that would have severe consequences after World War I.
+But the Compromise also created problems. Hungary's ruling elite — the Magyar gentry — controlled a multi-ethnic state where ethnic Hungarians constituted less than half the population. Their policies of Magyarization — forcing the Hungarian language and identity on Slovak, Romanian, Serbian, Croatian, and German minorities — generated resentment that would have severe consequences after [World War I](/world-war-i).
 
 ## Trianon and Its Shadow
 
@@ -77,13 +77,13 @@ Hungary entered World War I as part of the Central Powers. It lost. The 1920 Tre
 
 About 3.3 million ethnic Hungarians — roughly one-third of all Magyars — found themselves as minorities in neighboring states. The trauma of Trianon became the defining event of modern Hungarian national consciousness. "Nem, nem, soha!" ("No, no, never!") became the nationalist rallying cry.
 
-The desire to revise Trianon drove interwar Hungarian [foreign policy](/political-philosophy) and pushed the country toward alliance with Nazi Germany, which promised territorial revision. Hungary recovered some lost territories between 1938 and 1941 through German and Italian arbitration — but the price was catastrophic. Hungary entered World War II on the Axis side, suffered massive military losses (particularly at the Battle of the Don in January 1943, where the Second Hungarian Army was virtually destroyed), and experienced the Holocaust's final horrific chapter.
+The desire to revise Trianon drove interwar Hungarian [foreign policy](/political-[philosophy](/philosophy)) and pushed the country toward alliance with Nazi Germany, which promised territorial revision. Hungary recovered some lost territories between 1938 and 1941 through German and Italian arbitration — but the price was catastrophic. Hungary entered [World War II](/world-war-ii) on the Axis side, suffered massive military losses (particularly at the Battle of the Don in January 1943, where the Second Hungarian Army was virtually destroyed), and experienced the Holocaust's final horrific chapter.
 
 In 1944, Germany occupied Hungary and, with the collaboration of Hungarian authorities, deported approximately 437,000 Hungarian Jews to Auschwitz in just 56 days — one of the most concentrated mass murders of the entire Holocaust. By the end of the war, roughly 565,000 Hungarian Jews — about two-thirds of the prewar Jewish population — had been killed.
 
 ## Communism and Revolution
 
-Soviet forces occupied Hungary in 1944-1945, and by 1949, Hungary was a full Soviet satellite state under the Stalinist dictatorship of Matyas Rakosi. The regime imposed collectivization of agriculture, rapid industrialization, political terror, and cultural conformity.
+Soviet forces occupied Hungary in 1944-1945, and by 1949, Hungary was a full Soviet satellite state under the Stalinist dictatorship of Matyas Rakosi. The regime imposed collectivization of [agriculture](/agriculture), rapid industrialization, political terror, and cultural conformity.
 
 The 1956 Revolution was the most dramatic challenge to Soviet control in Eastern Europe before 1989. Triggered by student demonstrations on October 23, the uprising quickly spread. Within days, the communist government collapsed, political prisoners were freed, and a new government under Imre Nagy declared Hungary's withdrawal from the Warsaw Pact. For about 12 days, it seemed like Hungary might actually break free.
 

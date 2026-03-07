@@ -5,7 +5,7 @@ description: "Scuba diving lets you breathe underwater using portable air tanks.
 category: sports
 tags: ["scuba diving", "underwater", "diving", "marine life", "ocean", "exploration"]
 heroImage: "/images/articles/scuba-diving.webp"
-heroAlt: "A scuba diver swimming alongside colorful coral formations in clear tropical water"
+heroAlt: "Editorial photograph representing the concept of scuba diving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "A basic Open Water certification (the entry-level license) costs $300-600 in most locations, including classroom sessions, pool training, and open water dives. Equipment rental is usually included during the course. Buying your own gear later costs $1,000-3,000 for a full setup. Ongoing costs are primarily dive trip expenses — boat fees run $80-150 per outing at most dive operations."
 ---
 
-# What Is Scuba Diving?
+# What Is Scuba [Diving](/diving)?
 
-Scuba diving is the practice of swimming underwater while breathing from a portable compressed air supply carried on your back. The word "scuba" is actually an acronym — Self-Contained Underwater Breathing Apparatus — though hardly anyone thinks of it that way anymore. It's simply the activity of going underwater and staying there, breathing normally, in a world you couldn't otherwise experience.
+Scuba diving is the practice of [swimming](/swimming) underwater while breathing from a portable compressed air supply carried on your back. The word "scuba" is actually an acronym — Self-Contained Underwater Breathing Apparatus — though hardly anyone thinks of it that way anymore. It's simply the activity of going underwater and staying there, breathing normally, in a world you couldn't otherwise experience.
 
-Unlike snorkeling, which keeps you at the surface, scuba diving takes you down to depth — 30, 60, 100 feet or more. And unlike free diving, which tests how long you can hold your breath, scuba lets you stay down for extended periods, exploring at your own pace. Recreational scuba diving has a maximum depth limit of 130 feet (40 meters), though most casual dives happen between 30 and 80 feet.
+Unlike [snorkeling](/snorkeling), which keeps you at the surface, scuba diving takes you down to depth — 30, 60, 100 feet or more. And unlike free diving, which tests how long you can hold your breath, scuba lets you stay down for extended periods, exploring at your own pace. Recreational scuba diving has a maximum depth limit of 130 feet (40 meters), though most casual dives happen between 30 and 80 feet.
 
 ## The Equipment That Makes It Possible
 
@@ -49,7 +49,7 @@ Scuba gear is elegantly engineered, if you think about it. You're carrying your 
 
 **The dive computer** has largely replaced dive tables. It tracks your depth, time, and nitrogen absorption in real time, calculating how long you can safely remain at depth and how quickly you can ascend. It's essentially a tiny decompression calculator strapped to your wrist.
 
-## The Physics You Need to Know
+## The [Physics](/physics) You Need to Know
 
 Scuba diving is applied physics — specifically, gas laws. Understanding a few principles keeps you alive.
 
@@ -63,7 +63,7 @@ Scuba diving is applied physics — specifically, gas laws. Understanding a few 
 
 You can't just rent gear and jump in. Scuba diving requires certification from a recognized training agency — PADI, SSI, NAUI, or similar organizations. The certification process typically takes 3-5 days and involves three components.
 
-**Classroom learning** covers physics, physiology, equipment, and dive planning. Many programs now offer this portion online, which lets you study at your own pace before showing up for practical training.
+**Classroom learning** covers physics, [physiology](/physiology), equipment, and dive planning. Many programs now offer this portion online, which lets you study at your own pace before showing up for practical training.
 
 **Confined water training** happens in a pool or calm, shallow water. You learn equipment assembly, underwater breathing, mask clearing, buoyancy control, and emergency procedures. These skills are practiced until they're automatic — because underwater, you need skills that work without conscious thought.
 
@@ -87,7 +87,7 @@ Marine life is different underwater than from above. Fish that scatter from snor
 
 Scuba diving is statistically safe — safer than driving to the dive site, in most cases. But the risks are real and specific.
 
-Decompression sickness, equipment failure, running out of air, entanglement, and disorientation in low visibility are all possibilities. What makes diving manageable is that nearly all of these risks are preventable through training, equipment maintenance, and conservative dive planning.
+Decompression sickness, equipment failure, [running](/running) out of air, entanglement, and disorientation in low visibility are all possibilities. What makes diving manageable is that nearly all of these risks are preventable through training, equipment maintenance, and conservative dive planning.
 
 The Divers Alert Network (DAN) tracks diving incidents and reports that the vast majority involve divers who exceeded their training, ignored equipment warnings, or dove in conditions beyond their skill level. Following the rules — check your gear, stay within your limits, monitor your air, ascend slowly, never dive alone — reduces risk to very manageable levels.
 

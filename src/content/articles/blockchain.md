@@ -5,7 +5,7 @@ description: "Learn how blockchain technology works: distributed ledgers, crypto
 category: technology
 tags: ["blockchain", "cryptocurrency", "distributed-ledger", "bitcoin", "decentralization", "web3"]
 heroImage: "/images/articles/blockchain-hero.webp"
-heroAlt: "Visual representation of interconnected blocks in a blockchain network"
+heroAlt: "Editorial photograph representing the concept of blockchain"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -83,9 +83,9 @@ You might be thinking, "Sure, that's technically clever—but why does it matter
 
 ### Trust Without Intermediaries
 
-Historically, we've relied on intermediaries to verify transactions. Your bank confirms you have money before processing a payment. Credit card companies validate transactions. Real estate lawyers confirm property transfers. These institutions exist primarily because we need a trusted third party—someone we believe will keep accurate records and won't cheat us.
+Historically, we've relied on intermediaries to verify transactions. Your bank confirms you have money before processing a payment. Credit card companies validate transactions. [Real estate](/real-estate) lawyers confirm property transfers. These institutions exist primarily because we need a trusted third party—someone we believe will keep accurate records and won't cheat us.
 
-Blockchain removes this requirement. The network itself becomes the trusted authority. You don't need to trust a bank, a government, or any company. You trust mathematics and distributed verification. This is genuinely revolutionary for certain use cases.
+Blockchain removes this requirement. The network itself becomes the trusted authority. You don't need to trust a bank, a [government](/government), or any company. You trust [mathematics](/mathematics) and distributed verification. This is genuinely revolutionary for certain use cases.
 
 ### [Cryptocurrency](/cryptocurrency) and Digital Assets
 
@@ -109,7 +109,7 @@ When a food recall happens, instead of checking thousands of stores and hoping y
 
 ### Digital Identity and Records
 
-In developing nations, hundreds of millions lack official identification. Without it, they can't open bank accounts, access government services, or prove education credentials. A blockchain-based identity system could provide tamper-proof, portable proof of identity that individuals control directly.
+In developing nations, hundreds of millions lack official identification. Without it, they can't open bank accounts, access government services, or prove [education](/education) credentials. A blockchain-based identity system could provide tamper-proof, portable proof of identity that individuals control directly.
 
 Medical records, educational credentials, employment history—these could all be stored on blockchain in a way you control completely. You grant access to employers or doctors as needed, and they see verified, unhackable records.
 
@@ -123,7 +123,7 @@ Bitcoin processes about 7 transactions per second. Visa handles 24,000. Ethereum
 
 ### Energy Consumption
 
-Proof of Work blockchains require enormous computational power. Bitcoin's network consumes roughly as much electricity as a small country. This environmental cost is real and substantial. Proof of Stake systems are vastly more efficient, but the damage to blockchain's reputation from Bitcoin's energy use persists.
+Proof of Work blockchains require enormous computational power. Bitcoin's network consumes roughly as much [electricity](/electricity) as a small country. This environmental cost is real and substantial. Proof of Stake systems are vastly more efficient, but the damage to blockchain's reputation from Bitcoin's energy use persists.
 
 ### The Immutability Double-Edger
 
@@ -173,7 +173,7 @@ But blockchain didn't replace databases for storing customer records. It didn't 
 
 This is actually fine. Technology doesn't need to reshape everything to be valuable. It needs to solve real problems better than alternatives.
 
-## Understanding the Economics
+## Understanding the [Economics](/economics)
 
 Blockchain networks maintain value through various mechanisms. Bitcoin's value comes partly from its limited supply—only 21 million will ever exist—and growing adoption as a store of value. Other cryptocurrencies derive value from utility. Ethereum's ETH token is required to pay "gas fees" for using the network.
 

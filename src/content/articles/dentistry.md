@@ -5,7 +5,7 @@ description: "Dentistry is the branch of medicine focused on diagnosing, treatin
 category: health-amp-wellness
 tags: ["dentistry", "oral health", "dental care", "teeth", "medicine"]
 heroImage: "/images/articles/dentistry.webp"
-heroAlt: "Modern dental treatment room with a patient chair, overhead light, and dental instruments"
+heroAlt: "Editorial photograph representing the concept of dentistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 # What Is Dentistry?
 
-Dentistry is the branch of medicine dedicated to the study, diagnosis, treatment, and prevention of diseases and conditions affecting the teeth, gums, jaw, and related structures of the mouth. Practiced by licensed dentists — doctors who complete four years of dental school after undergraduate education — dentistry ranges from routine cleanings and cavity fillings to complex surgical reconstruction of the jaw and face.
+Dentistry is the branch of medicine dedicated to the study, diagnosis, treatment, and prevention of diseases and conditions affecting the teeth, gums, jaw, and related structures of the mouth. Practiced by licensed dentists — doctors who complete four years of dental school after undergraduate [education](/education) — dentistry ranges from routine cleanings and cavity fillings to complex surgical reconstruction of the jaw and face.
 
 ## A Surprisingly Ancient Practice
 
 People think of dentistry as modern. It's not. The earliest evidence of dental treatment dates back roughly 14,000 years — researchers found a tooth in northern Italy with signs that a cavity had been scraped out and filled with bitumen (natural tar). The Ebers Papyrus, an Egyptian medical text from about 1550 BCE, describes remedies for toothache and gum disease.
 
-The ancient Egyptians had dental specialists. Hesy-Ra, who lived around 2600 BCE, is the first individual identified as a dentist — his tomb inscription includes the title "Greatest of those who deal with teeth." The Greeks and Romans developed early dental prosthetics, including gold dental bridges that replaced missing teeth.
+The ancient Egyptians had dental specialists. Hesy-Ra, who lived around 2600 BCE, is the first individual identified as a dentist — his tomb inscription includes the title "Greatest of those who deal with teeth." The Greeks and Romans developed early dental [prosthetics](/prosthetics), including gold dental bridges that replaced missing teeth.
 
 But for most of history, dental treatment was crude and agonizing. Barber-surgeons pulled teeth. Blacksmiths made dental instruments. Anesthesia didn't exist. George Washington's famous "wooden teeth" were actually made from hippopotamus ivory, human teeth, and metal — and they caused him constant pain.
 
@@ -55,7 +55,7 @@ A general dentist is your primary dental care provider — the equivalent of a f
 
 Prevention is the foundation of modern dentistry. This includes regular examinations, professional cleanings (performed by dental hygienists under a dentist's supervision), dental X-rays to detect problems invisible to the naked eye, fluoride treatments, and dental sealants — thin plastic coatings applied to the chewing surfaces of back teeth to prevent cavities.
 
-Good preventive care means catching problems early. A small cavity caught on an X-ray can be fixed with a simple filling in 30 minutes. That same cavity, left untreated for two years, might require a root canal and crown costing 10 times as much. The economics of prevention are hard to argue with.
+Good preventive care means catching problems early. A small cavity caught on an X-ray can be fixed with a simple filling in 30 minutes. That same cavity, left untreated for two years, might require a root canal and crown costing 10 times as much. The [economics](/economics) of prevention are hard to argue with.
 
 ### Restorative Work
 
@@ -75,7 +75,7 @@ When teeth are damaged by decay, trauma, or wear, dentists restore them.
 
 Just as medicine has cardiologists, neurologists, and surgeons, dentistry has recognized specialties requiring additional training beyond dental school.
 
-**Orthodontics** corrects misaligned teeth and jaws using braces, clear aligners, and other devices. An orthodontist completes 2-3 years of residency training after dental school. About 4 million Americans wear braces at any given time. Clear aligner therapy (Invisalign being the best-known brand) has expanded orthodontic treatment to adults who wouldn't consider traditional metal brackets.
+**[Orthodontics](/orthodontics)** corrects misaligned teeth and jaws using braces, clear aligners, and other devices. An orthodontist completes 2-3 years of residency training after dental school. About 4 million Americans wear braces at any given time. Clear aligner therapy (Invisalign being the best-known brand) has expanded orthodontic treatment to adults who wouldn't consider traditional metal brackets.
 
 **Periodontics** focuses on the gums and supporting structures of the teeth. Periodontists treat gum disease — from mild gingivitis to severe periodontitis requiring surgical intervention. They also place dental implants and perform procedures to regenerate bone and tissue lost to disease.
 
@@ -83,7 +83,7 @@ Just as medicine has cardiologists, neurologists, and surgeons, dentistry has re
 
 **Oral and maxillofacial surgery** is the most extensive dental specialty, requiring 4-6 years of hospital-based surgical residency. Oral surgeons remove impacted wisdom teeth, place implants, perform corrective jaw surgery (orthognathic surgery), treat facial trauma, and manage oral cancers. Many are trained in both dental and medical procedures.
 
-**Pediatric dentistry** focuses on children from infancy through adolescence. Pediatric dentists complete 2-3 years of additional training in child [development](/developmental-psychology), behavior management, and conditions specific to growing mouths. Their offices are designed to reduce anxiety — think cartoon murals, ceiling-mounted TVs, and treasure chests.
+**Pediatric dentistry** focuses on children from infancy through adolescence. Pediatric dentists complete 2-3 years of additional training in child [development](/developmental-[psychology](/psychology)), behavior [management](/management), and conditions specific to growing mouths. Their offices are designed to reduce anxiety — think cartoon murals, ceiling-mounted TVs, and treasure chests.
 
 **Prosthodontics** specializes in replacing missing teeth and restoring damaged ones with prosthetics — crowns, bridges, dentures, and implant-supported restorations. If you need a full-mouth reconstruction, a prosthodontist is your specialist.
 
@@ -115,7 +115,7 @@ Several developments are shaping where the field is heading.
 
 **Regenerative dentistry** aims to regrow damaged teeth rather than replacing them with artificial materials. Researchers are experimenting with stem cells, growth factors, and bioactive materials that could stimulate the tooth to repair itself. A drug originally developed for Alzheimer's treatment (Tideglusib) has shown promise in stimulating natural tooth repair in studies.
 
-**AI-assisted diagnosis** is already entering dental offices. Machine learning algorithms can analyze X-rays and flag potential cavities, bone loss, and other pathology, sometimes catching things human eyes miss. These tools augment rather than replace the dentist's judgment.
+**AI-assisted diagnosis** is already entering dental offices. [Machine learning](/machine-learning) algorithms can analyze X-rays and flag potential cavities, bone loss, and other pathology, sometimes catching things human eyes miss. These tools augment rather than replace the dentist's judgment.
 
 **Tele-dentistry** expanded during COVID-19 and continues to grow, particularly for initial consultations, follow-up care, and triaging emergencies in underserved areas.
 

@@ -5,7 +5,7 @@ description: "Organizational psychology applies psychological science to the wor
 category: psychology
 tags: ["organizational psychology", "i-o psychology", "workplace psychology", "human resources", "leadership", "job satisfaction"]
 heroImage: "/images/articles/organizational-psychology-hero.webp"
-heroAlt: "A diverse team collaborating in a modern office setting with charts and whiteboards"
+heroAlt: "Editorial photograph representing the concept of organizational psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,11 +39,11 @@ Organizational psychology is the scientific study of human behavior in the workp
 
 ## The Field Nobody Knows by Name
 
-Here's the funny thing about organizational psychology: almost nobody outside the field knows what it's called, but almost everybody has been affected by it. That job interview with behavioral questions? Designed by organizational psychologists. The employee engagement survey your company sends out quarterly? Based on organizational psychology research. The leadership training your manager attended? Developed using organizational psychology principles.
+Here's the funny thing about organizational psychology: almost nobody outside the field knows what it's called, but almost everybody has been affected by it. That job interview with behavioral questions? Designed by organizational psychologists. The employee engagement survey your company sends out quarterly? Based on organizational psychology research. The [leadership](/leadership) training your manager attended? Developed using organizational psychology principles.
 
 The formal name is Industrial-Organizational (I-O) psychology, and it sits at the intersection of [psychology](/psychology) and business. The "industrial" side deals with individuals — selecting the right people for jobs, training them effectively, evaluating their performance. The "organizational" side deals with groups and systems — leadership, motivation, culture, team dynamics, and organizational change.
 
-Together, these two halves address a fundamental question: how do you create workplaces where people are both productive and satisfied? Because — and this is one of the field's core findings — those two goals aren't in conflict nearly as often as traditional management assumes.
+Together, these two halves address a fundamental question: how do you create workplaces where people are both productive and satisfied? Because — and this is one of the field's core findings — those two goals aren't in conflict nearly as often as traditional [management](/management) assumes.
 
 ## Motivation: Why People Work (And Why They Stop)
 
@@ -115,7 +115,7 @@ Not all selection methods are equally good at predicting job performance. Meta-a
 
 **Years of experience** (r = .18) — surprisingly weak as a predictor. Experience helps in the early years of a career, but after about five years, additional experience adds little predictive power.
 
-**Unstructured interviews** (r = .38), **reference checks** (r = .26), and **graphology** (r = .02, literally useless) round out the bottom. Yet unstructured interviews remain the most common selection method worldwide. Organizations routinely rely on the hiring methods that research shows are least effective. That gap between science and practice is one of the field's persistent frustrations.
+**Unstructured interviews** (r = .38), **reference checks** (r = .26), and **[graphology](/graphology)** (r = .02, literally useless) round out the bottom. Yet unstructured interviews remain the most common selection method worldwide. Organizations routinely rely on the hiring methods that research shows are least effective. That gap between science and practice is one of the field's persistent frustrations.
 
 ## Teams: More Than the Sum of Parts (Sometimes)
 
@@ -131,7 +131,7 @@ Whether a team performs better or worse than its individual members would separa
 
 Google's famous Project Aristotle spent two years studying what made teams effective. The strongest predictor, by a wide margin, was psychological safety — the belief that you can speak up, take risks, and admit mistakes without being punished or humiliated. This finding echoed decades of prior research by Amy Edmondson at Harvard.
 
-Beyond psychological safety, effective teams share clear goals, defined roles, appropriate resources, and structured processes for decision-making and conflict resolution. Diversity helps — teams with diverse perspectives generate more creative solutions — but only when psychological safety is high enough that diverse views are actually expressed.
+Beyond psychological safety, effective teams share clear goals, defined roles, appropriate resources, and structured processes for decision-making and [conflict resolution](/conflict-resolution). Diversity helps — teams with diverse perspectives generate more creative solutions — but only when psychological safety is high enough that diverse views are actually expressed.
 
 Team size matters too. Jeff Bezos's "two-pizza rule" (no team should be larger than two pizzas can feed) has research support. Communication pathways increase exponentially with team size, making coordination increasingly difficult. Research suggests that 4-8 members is optimal for most tasks.
 
@@ -139,13 +139,13 @@ Team size matters too. Jeff Bezos's "two-pizza rule" (no team should be larger t
 
 Culture is "how we do things around here" — the shared values, beliefs, and assumptions that guide behavior. Climate is how employees perceive their work environment — fairness, support, safety emphasis, innovation encouragement.
 
-Both predict outcomes that matter. Safety climate — the extent to which employees believe management truly prioritizes safety — predicts accident rates in manufacturing, healthcare, and construction. Innovation climate predicts new product success. Service climate predicts customer satisfaction.
+Both predict outcomes that matter. Safety climate — the extent to which employees believe management truly prioritizes safety — predicts accident rates in manufacturing, healthcare, and [construction](/construction). Innovation climate predicts new product success. Service climate predicts customer satisfaction.
 
 Edgar Schein's three-level model describes culture as having visible artifacts (office layout, dress code, rituals), espoused values (stated mission and principles), and basic underlying assumptions (unconscious beliefs about human nature and organizational purpose). The deeper levels are harder to see but more powerful in shaping behavior.
 
 Culture change is notoriously difficult — Schein estimates 5-15 years for significant shifts — but not impossible. It requires consistent leadership behavior, aligned systems (rewards, selection, promotion), and persistent reinforcement. Many organizational change efforts fail because leaders underestimate the time required.
 
-## Occupational Health and Well-Being
+## [Occupational Health](/occupational-health) and Well-Being
 
 Organizational psychology increasingly addresses employee well-being — not just as a nice-to-have but as a driver of organizational performance.
 
@@ -179,7 +179,7 @@ Research consistently shows that procedural and interactional justice matter at 
 
 ## The Data Revolution in Organizational Psychology
 
-The field has been transformed by the availability of data. People analytics — using data science to answer HR questions — has moved from a niche specialty to a mainstream practice. Organizations now track employee sentiment in real time through pulse surveys, analyze communication patterns to identify collaboration bottlenecks, use [machine learning](/machine-learning) to predict turnover risk, and measure the actual (not just perceived) impact of management practices on performance.
+The field has been transformed by the availability of data. People analytics — using [data science](/data-science) to answer HR questions — has moved from a niche specialty to a mainstream practice. Organizations now track employee sentiment in real time through pulse surveys, analyze communication patterns to identify collaboration bottlenecks, use [machine learning](/machine-learning) to predict turnover risk, and measure the actual (not just perceived) impact of management practices on performance.
 
 This data-driven approach brings organizational psychology closer to its scientific roots while creating new ethical challenges around privacy, surveillance, and the appropriate use of employee data. The field is actively grappling with where to draw these lines.
 

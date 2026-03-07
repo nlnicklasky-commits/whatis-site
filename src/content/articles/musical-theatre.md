@@ -5,7 +5,7 @@ description: "Musical theatre combines singing, dialogue, acting, and dance to t
 category: arts-amp-culture
 tags: ["musical theatre", "Broadway", "musicals", "performing arts", "theatre", "stage performance"]
 heroImage: "/images/articles/musical-theatre.webp"
-heroAlt: "Broadway theatre marquee lights illuminating a city street at night"
+heroAlt: "Editorial photograph representing the concept of musical theatre"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Musical Theatre?
 
-Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, acting, and dance to tell a story. The songs aren't decorative — in a well-written musical, characters sing because their emotions become too intense for ordinary speech. When Eliza Doolittle bursts into "I Could Have Danced All Night" or Elphaba belts "Defying Gravity," the music expresses what words alone can't.
+Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, [acting](/acting), and [dance](/dance) to tell a story. The songs aren't decorative — in a well-written musical, characters sing because their emotions become too intense for ordinary speech. When Eliza Doolittle bursts into "I Could Have Danced All Night" or Elphaba belts "Defying Gravity," the music expresses what words alone can't.
 
 It's an art form that shouldn't work. People breaking into song in the middle of a conversation is, on its face, absurd. And yet musical theatre is one of the most popular entertainment forms in the world. Broadway grossed $1.58 billion in the 2022-2023 season. *Hamilton* became a genuine cultural phenomenon. High school musicals involve millions of students annually. Something about the combination of music, story, and spectacle taps into a deep human appetite.
 
 ## Origins
 
-Musical theatre's roots stretch back to ancient Greek drama (which included choral singing), medieval mystery plays, and the Italian opera tradition dating to 1600. But the modern American musical emerged from several distinct threads in the late 19th and early 20th centuries:
+Musical theatre's roots stretch back to ancient Greek drama (which included choral [singing](/singing)), medieval mystery plays, and the Italian opera tradition dating to 1600. But the modern American musical emerged from several distinct threads in the late 19th and early 20th centuries:
 
 **Operetta** — light comic operas, particularly those of Gilbert and Sullivan (*The Mikado*, *H.M.S. Pinafore*) and European composers like Johann Strauss II and Franz Lehar. These established the template of alternating dialogue and song within a narrative framework.
 
-**Vaudeville and revue** — variety shows that mixed songs, comedy, dance, and spectacle. The Ziegfeld Follies (1907-1931) were the most famous revues, featuring lavish production numbers but minimal story.
+**[Vaudeville](/vaudeville) and revue** — variety shows that mixed songs, [comedy](/comedy), dance, and spectacle. The Ziegfeld Follies (1907-1931) were the most famous revues, featuring lavish production numbers but minimal story.
 
 **The book musical** — the crucial innovation was integrating songs into a coherent plot. *Show Boat* (1927, music by Jerome Kern, book and lyrics by Oscar Hammerstein II) is often cited as the first "modern" musical — it told a serious story about race and love, with songs that advanced the narrative rather than just interrupting it.
 
@@ -49,7 +49,7 @@ Musical theatre's roots stretch back to ancient Greek drama (which included chor
 
 The period from roughly 1943 to 1964 is considered Broadway's Golden Age. It produced many of the most beloved musicals ever written:
 
-*Oklahoma!* (1943) — Rodgers and Hammerstein's first collaboration. It fully integrated book, music, lyrics, and choreography (Agnes de Mille's dream ballet was revolutionary). It ran for 2,212 performances and established the template for the modern musical.
+*Oklahoma!* (1943) — Rodgers and Hammerstein's first collaboration. It fully integrated book, music, lyrics, and choreography (Agnes de Mille's dream [ballet](/ballet) was revolutionary). It ran for 2,212 performances and established the template for the modern musical.
 
 *West Side Story* (1957) — Leonard Bernstein's music, Stephen Sondheim's lyrics, and Jerome Robbins's choreography retold Romeo and Juliet in 1950s New York with gang warfare replacing family feuds. The score combined jazz, Latin rhythms, and classical complexity.
 
@@ -65,7 +65,7 @@ Sondheim wrote about middle-aged ambivalence, artistic obsession, moral compromi
 
 ## The Megamusical and Beyond
 
-The 1980s and 1990s brought the British megamusical — spectacle-driven, sung-through shows that ran for decades. *Cats* (1982), *Les Miserables* (1987), *The Phantom of the Opera* (1988), and *Miss Saigon* (1991) — all produced by Andrew Lloyd Webber or Cameron Mackintosh — dominated Broadway and the West End with elaborate sets, powerful scores, and marketing machines that made them global brands.
+The 1980s and 1990s brought the British megamusical — spectacle-driven, sung-through shows that ran for decades. *Cats* (1982), *Les Miserables* (1987), *The Phantom of the Opera* (1988), and *Miss Saigon* (1991) — all produced by Andrew Lloyd Webber or Cameron Mackintosh — dominated Broadway and the West End with elaborate sets, powerful scores, and [marketing](/marketing) machines that made them global brands.
 
 *Rent* (1996) brought rock music and contemporary themes (HIV/AIDS, poverty, bohemian life in New York) to Broadway. *Wicked* (2003) became a cultural juggernaut by retelling *The Wizard of Oz* from the witches' perspective.
 
@@ -75,7 +75,7 @@ Then *Hamilton* (2015) changed everything again. Lin-Manuel Miranda's hip-hop mu
 
 The development process is long and expensive:
 
-**Writing** — a composer, lyricist, and book writer (sometimes one person fills multiple roles) develop the show over months or years. Songs are written, rewritten, cut, and replaced.
+**[Writing](/writing)** — a composer, lyricist, and book writer (sometimes one person fills multiple roles) develop the show over months or years. Songs are written, rewritten, cut, and replaced.
 
 **Readings and workshops** — actors perform the show (usually with scripts in hand) for invited audiences. Feedback shapes revisions.
 
@@ -87,6 +87,6 @@ The development process is long and expensive:
 
 ## Why Musicals Endure
 
-Every few years, someone declares that the musical is dead or irrelevant. And every few years, a show comes along that proves them wrong. The form adapts — it's absorbed jazz, rock, hip-hop, pop, and electronic music. It's tackled racism, sexuality, immigration, and mental health. It's evolved from all-white casts to casting that looks more like the world.
+Every few years, someone declares that the musical is dead or irrelevant. And every few years, a show comes along that proves them wrong. The form adapts — it's absorbed jazz, rock, hip-hop, pop, and [electronic music](/electronic-music). It's tackled racism, sexuality, immigration, and [mental health](/mental-health). It's evolved from all-white casts to casting that looks more like the world.
 
 The fundamental appeal is simple: music makes stories hit harder. A well-placed song can make you cry in a way that dialogue alone rarely does. And the live, in-the-room experience — real humans singing and dancing feet from your seat — creates an emotional connection that screens can't quite match. Musicals are ridiculous, excessive, and emotionally manipulative. They work anyway.

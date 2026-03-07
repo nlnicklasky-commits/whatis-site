@@ -5,7 +5,7 @@ description: "Macroeconomics studies economies at the national and global level.
 category: finance
 tags: ["macroeconomics", "economics", "gdp", "inflation", "unemployment", "monetary policy", "fiscal policy"]
 heroImage: "/images/articles/macroeconomics-hero.webp"
-heroAlt: "Illustration of economic indicators including GDP graph, currency symbols, and employment charts"
+heroAlt: "Editorial photograph representing the concept of macroeconomics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Macroeconomics?
 
-Macroeconomics is the branch of economics that studies the behavior, structure, and performance of entire economies — nations, regions, or the world as a whole. While microeconomics zooms in on individual consumers and firms, macroeconomics zooms out to look at total output, employment, price levels, and the policies governments use to influence these aggregates.
+Macroeconomics is the branch of economics that studies the behavior, structure, and performance of entire economies — nations, regions, or the world as a whole. While [microeconomics](/microeconomics) zooms in on individual consumers and firms, macroeconomics zooms out to look at total output, employment, price levels, and the policies governments use to influence these aggregates.
 
 If you've ever heard a news anchor say "GDP grew 2.4% last quarter" or "the Fed raised interest rates by 25 basis points," you've encountered macroeconomics. It's the economics of the big picture — and it affects every person, business, and government on the planet, whether they realize it or not.
 
@@ -63,7 +63,7 @@ GDP can be measured three ways, and all three should (in theory) give the same a
 
 ### What GDP Misses
 
-GDP is an imperfect measure. It doesn't count unpaid work (household labor, volunteering). It doesn't subtract environmental damage. It counts spending on natural disasters as positive (reconstruction spending increases GDP). It doesn't capture income distribution — GDP can grow while most people's incomes stagnate.
+GDP is an imperfect measure. It doesn't count unpaid work (household labor, volunteering). It doesn't subtract environmental damage. It counts spending on [natural disasters](/natural-disasters) as positive (reconstruction spending increases GDP). It doesn't capture income distribution — GDP can grow while most people's incomes stagnate.
 
 Robert Kennedy said it best in 1968: GDP "measures everything except that which makes life worthwhile." Alternative measures like the Human Development Index (HDI) and Genuine Progress Indicator (GPI) attempt to address these gaps, but GDP remains the dominant benchmark.
 
@@ -105,7 +105,7 @@ But the headline number hides important details:
 
 **Labor force participation rate**: The percentage of working-age adults either employed or actively seeking employment. This has declined in the U.S. from about 67% in 2000 to roughly 62% in the mid-2020s, partly due to aging demographics, increased college enrollment, and early retirement trends.
 
-## Monetary Policy: The Central Bank's Toolkit
+## [Monetary Policy](/monetary-policy): The Central Bank's Toolkit
 
 Central banks — the Federal Reserve in the U.S., the European Central Bank in Europe, the Bank of Japan — are the primary institutions managing macroeconomic stability. Their main tool is monetary policy.
 
@@ -117,7 +117,7 @@ When the Fed cuts rates, the opposite happens: borrowing becomes cheaper, encour
 
 The Fed's challenge is timing and magnitude. Raise rates too aggressively, and you trigger a recession. Keep them too low for too long, and inflation overheats. This balancing act — sometimes called "threading the needle" — is why Fed meetings are watched obsessively by financial markets. A single unexpected word in the Fed chair's statement can move trillions of dollars in asset values.
 
-### Quantitative Easing (QE)
+### [Quantitative Easing](/quantitative-easing) (QE)
 
 When interest rates hit zero (or near it) and the economy still needs stimulus, central banks turn to **quantitative easing** — buying government bonds and other securities to inject money directly into the financial system. This pushes down long-term interest rates and encourages lending and investment.
 
@@ -135,7 +135,7 @@ While central banks control monetary policy, governments control **fiscal policy
 
 During recessions, governments often increase spending or cut taxes to stimulate demand. The logic: if consumers and businesses aren't spending enough, the government can step in. The 2009 American Recovery and Reinvestment Act ($831 billion) and the 2020 CARES Act ($2.2 trillion) were massive fiscal stimulus programs.
 
-**The multiplier effect**: Government spending can generate additional economic activity beyond the initial amount. If the government pays $1 million to build a road, the construction workers spend their wages at local businesses, those businesses hire more staff, and so on. The multiplier — how much total GDP increases per dollar of government spending — is debated, but estimates typically range from 0.5 to 2.0.
+**The multiplier effect**: Government spending can generate additional economic activity beyond the initial amount. If the government pays $1 million to build a road, the [construction](/construction) workers spend their wages at local businesses, those businesses hire more staff, and so on. The multiplier — how much total GDP increases per dollar of government spending — is debated, but estimates typically range from 0.5 to 2.0.
 
 ### Contractionary Fiscal Policy
 
@@ -194,7 +194,7 @@ A weaker currency makes exports cheaper (good for exporters) but imports more ex
 
 ### Trade and Globalization
 
-International trade allows countries to specialize in what they produce most efficiently — [economics](/economics) calls this comparative advantage. The U.S. exports technology and agriculture; Saudi Arabia exports oil; Bangladesh exports textiles. Everyone benefits from specialization and trade, at least in aggregate.
+[International trade](/international-trade) allows countries to specialize in what they produce most efficiently — [economics](/economics) calls this comparative advantage. The U.S. exports technology and agriculture; Saudi Arabia exports oil; Bangladesh exports textiles. Everyone benefits from specialization and trade, at least in aggregate.
 
 But trade creates winners and losers within countries. Factory workers whose jobs move overseas bear concentrated costs, while consumers benefit from lower prices across the board. Managing this tension — through trade adjustment assistance, retraining programs, and social safety nets — is a political challenge that [global economics](/global-economics) continues to grapple with.
 

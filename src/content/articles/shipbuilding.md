@@ -5,7 +5,7 @@ description: "Shipbuilding is the design and construction of ships and marine ve
 category: technology
 tags: ["shipbuilding", "naval architecture", "maritime", "construction", "engineering", "vessels", "marine"]
 heroImage: "/images/articles/shipbuilding-hero.webp"
-heroAlt: "Large container ship under construction in a dry dock with cranes overhead"
+heroAlt: "Editorial photograph representing the concept of shipbuilding"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Shipbuilding?
 
-Shipbuilding is the design, engineering, and construction of ships and other marine vessels. It is one of the oldest engineering disciplines in human history and remains one of the most complex manufacturing endeavors undertaken today. A modern container ship contains roughly 30,000 tons of steel, hundreds of kilometers of piping and wiring, and must function reliably for 25 years in the most corrosive environment on Earth — the open ocean. The global shipbuilding industry generates approximately $150 billion in annual revenue, and over 90% of world trade by volume moves aboard ships that someone designed and built.
+Shipbuilding is the design, engineering, and [construction](/construction) of ships and other marine vessels. It is one of the oldest engineering disciplines in human history and remains one of the most complex manufacturing endeavors undertaken today. A modern container ship contains roughly 30,000 tons of steel, hundreds of kilometers of piping and wiring, and must function reliably for 25 years in the most corrosive environment on Earth — the open ocean. The global shipbuilding industry generates approximately $150 billion in annual revenue, and over 90% of world trade by volume moves aboard ships that someone designed and built.
 
 ## A Very Brief History of Building Boats
 
@@ -59,7 +59,7 @@ The transition from wood to iron and then steel happened remarkably quickly. The
 
 ## How Modern Ships Are Designed
 
-Modern ship design — naval architecture — combines hydrodynamics, structural engineering, materials science, and systems integration into one of the most complex engineering disciplines practiced today.
+Modern ship design — [naval architecture](/naval-[architecture](/architecture)) — combines [hydrodynamics](/hydrodynamics), [structural engineering](/structural-engineering), [materials science](/materials-science), and systems integration into one of the most complex engineering disciplines practiced today.
 
 ### Hull Form Design
 
@@ -67,7 +67,7 @@ The shape of a ship's hull determines its resistance through water, its stabilit
 
 **Block coefficient** is a key measure — the ratio of the hull's actual volume to the volume of a rectangular block the same length, width, and depth. A tanker might have a block coefficient of 0.85 (very full, maximizing cargo volume at the expense of speed). A container ship might be 0.65. A destroyer might be 0.50 (sleek and fast, sacrificing volume for speed).
 
-Computational fluid dynamics (CFD) has revolutionized hull design. Engineers simulate water flow around proposed hull shapes using millions of computational cells, predicting resistance, wake patterns, and propulsive efficiency before any physical model is built. A single CFD simulation might take several days of supercomputer time but costs far less than building and testing a physical scale model in a towing tank.
+Computational [fluid dynamics](/fluid-dynamics) (CFD) has revolutionized hull design. Engineers simulate water flow around proposed hull shapes using millions of computational cells, predicting resistance, wake patterns, and propulsive efficiency before any physical model is built. A single CFD simulation might take several days of supercomputer time but costs far less than building and testing a physical scale model in a towing tank.
 
 That said, towing tank testing hasn't been abandoned. Scale models (typically 5-8 meters long) are still built and tested in long, narrow tanks to validate CFD predictions. The correlation between model tests and full-scale performance, refined over a century of data, remains remarkably accurate.
 
@@ -79,9 +79,9 @@ The structure is organized around a central **keel** (the backbone running the l
 
 Classification societies — organizations like Lloyd's Register, DNV, and the American Bureau of Shipping — set structural standards based on the ship's size, type, and intended service. These rules specify minimum plate thicknesses, frame spacing, and weld quality for every part of the structure. A ship must be classified to get insurance, and without insurance, it can't trade. So classification rules effectively set the minimum engineering standard for the industry.
 
-### Systems Engineering
+### [Systems Engineering](/systems-engineering)
 
-A modern ship is a self-contained city on water. The main propulsion system (diesel engines, gas turbines, or increasingly electric motors) drives the ship forward. Auxiliary systems generate electricity, produce fresh water from seawater, treat sewage, provide heating and cooling, and manage ballast water. Navigation systems include GPS, radar, electronic charts, and automatic identification systems. Communication systems include satellite internet, radio, and emergency beacons.
+A modern ship is a self-contained city on water. The main propulsion system (diesel engines, gas turbines, or increasingly electric motors) drives the ship forward. Auxiliary systems generate [electricity](/electricity), produce fresh water from seawater, treat sewage, provide heating and cooling, and manage ballast water. Navigation systems include GPS, radar, electronic charts, and automatic identification systems. Communication systems include satellite internet, radio, and emergency beacons.
 
 A large container ship has approximately 500 kilometers of electrical cable, 100 kilometers of piping, and thousands of valves, pumps, motors, and sensors. Integrating all these systems so they work together reliably — in a structure that rolls, pitches, and vibrates constantly — is a genuinely remarkable engineering achievement.
 
@@ -143,7 +143,7 @@ The diversity of commercial and military vessels is extraordinary. Each type rep
 
 **LNG carriers** are among the most technologically sophisticated commercial vessels. They transport natural gas cooled to -162 degrees Celsius using specialized containment systems (either membrane tanks or independent spherical tanks). South Korea's shipyards dominate LNG carrier construction, and each vessel costs roughly $250 million.
 
-**Cruise ships** are essentially floating cities. The largest (Royal Caribbean's Icon-class ships) exceed 250,000 gross tons, carry 7,000+ passengers and 2,000+ crew, and include theaters, water parks, rock climbing walls, and multiple restaurants. Building one takes about three years and costs over $1 billion. European yards — particularly Meyer Werft (Germany), Chantiers de l'Atlantique (France), and Fincantieri (Italy) — dominate cruise ship construction.
+**Cruise ships** are essentially floating cities. The largest (Royal Caribbean's Icon-class ships) exceed 250,000 gross tons, carry 7,000+ passengers and 2,000+ crew, and include theaters, water parks, [rock climbing](/rock-climbing) walls, and multiple restaurants. Building one takes about three years and costs over $1 billion. European yards — particularly Meyer Werft (Germany), Chantiers de l'Atlantique (France), and Fincantieri (Italy) — dominate cruise ship construction.
 
 **Naval vessels** — destroyers, frigates, submarines, aircraft carriers — prioritize combat capability over commercial efficiency. A modern destroyer bristles with radar systems, missile launchers, and countermeasure systems integrated into a stealthy hull form designed to minimize radar cross-section. Naval shipbuilding is slower, more expensive, and subject to far stricter security requirements than commercial work.
 
@@ -169,7 +169,7 @@ The maritime industry accounts for approximately 2.5% of global greenhouse gas e
 
 **Methanol, ammonia, and hydrogen** are being explored as zero-carbon marine fuels. Maersk has ordered methanol-powered container ships. Ammonia-powered engines are in development. Each fuel presents unique challenges — ammonia is toxic, hydrogen requires cryogenic storage, and all three are currently more expensive than conventional fuel.
 
-**Battery-electric propulsion** works for short-distance ferries (Norway operates dozens of electric ferries) but current battery technology can't provide the energy density needed for ocean-going vessels. A trans-Pacific container ship would need a battery weighing more than its entire cargo capacity.
+**Battery-electric propulsion** works for short-distance ferries (Norway operates dozens of electric ferries) but current [battery technology](/battery-technology) can't provide the energy density needed for ocean-going vessels. A trans-Pacific container ship would need a battery weighing more than its entire cargo capacity.
 
 **Wind-assisted propulsion** — modern interpretations of sail technology using rigid wing sails, rotor sails (Flettner rotors), or kite systems — can reduce fuel consumption by 10-30% on favorable routes. Several ships are already operating with rotor sails, and the technology is commercially viable today.
 

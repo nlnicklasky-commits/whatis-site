@@ -5,7 +5,7 @@ description: "Earth science is the study of our planet's physical systems, from 
 category: science
 tags: ["earth", "geology", "meteorology", "oceanography", "environmental science", "planet earth", "geosciences"]
 heroImage: "/images/articles/earth-science-hero.webp"
-heroAlt: "Layers of the Earth showing geological strata with oceans and atmosphere"
+heroAlt: "Editorial photograph representing the concept of earth science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ Earth science is traditionally divided into four major branches, each studying a
 
 ### Geology: The Solid Earth
 
-Geology studies Earth's rocks, minerals, internal structure, and the processes that shape the surface. It's the oldest branch of Earth science—people have been studying rocks and mining minerals for thousands of years—but the field was completely revolutionized in the 1960s by plate tectonics.
+Geology studies Earth's rocks, minerals, internal structure, and the processes that shape the surface. It's the oldest branch of Earth science—people have been studying rocks and mining minerals for thousands of years—but the field was completely revolutionized in the 1960s by [plate tectonics](/plate-tectonics).
 
 **Plate tectonics** is the unifying theory of geology, similar to what evolution is for biology. The Earth's outer shell (the lithosphere) is broken into about 15 major plates that float on the semi-fluid asthenosphere beneath. These plates move at rates of 1-15 centimeters per year—about as fast as your fingernails grow.
 
@@ -168,7 +168,7 @@ Earth science directly impacts human civilization in ways most people rarely thi
 
 **Energy resources.** Petroleum geology locates oil and gas deposits. Geothermal energy taps Earth's internal heat. Understanding geological formations is essential for carbon capture and storage, and for assessing sites for [alternative energy](/alternative-energy) installations like wind farms.
 
-**Construction and infrastructure.** Every building, bridge, tunnel, and dam requires geotechnical assessment—understanding the properties of the soil and rock it will sit on. The leaning Tower of Pisa is a 800-year-old lesson in what happens when you ignore soil mechanics.
+**[Construction](/construction) and infrastructure.** Every building, bridge, tunnel, and dam requires geotechnical assessment—understanding the properties of the soil and rock it will sit on. The leaning Tower of Pisa is a 800-year-old lesson in what happens when you ignore [soil mechanics](/soil-mechanics).
 
 **Climate change.** Earth scientists are the primary source of knowledge about how the climate system works, how it has changed in the past, and how human activities are changing it now. Ice core records from Antarctica show atmospheric CO2 levels over the past 800,000 years, providing critical context for understanding current levels (above 420 ppm—higher than at any point in at least 800,000 years).
 

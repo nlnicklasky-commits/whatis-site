@@ -5,7 +5,7 @@ description: "Dominoes is a tile-based game played worldwide for centuries. Lear
 category: everyday-concepts
 tags: ["dominoes", "everyday-concepts"]
 heroImage: "/images/articles/dominoes.webp"
-heroAlt: "A line of black and white domino tiles arranged on a wooden table during a game"
+heroAlt: "Editorial photograph representing the concept of dominoes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -75,7 +75,7 @@ Good dominoes players track what's been played and calculate probabilities about
 
 In the Caribbean, dominoes isn't just a game — it's a social ritual. Tables appear on sidewalks, in barbershops, and under trees. The tiles slam down (not gently placed — slammed, with emphasis). Trash talk is expected. Spectators gather and comment. The game functions as community gathering, social bonding, and competitive outlet simultaneously.
 
-In China, where dominoes originated, they evolved into different games including Tien Gow and Pai Gow (which later became the basis for Pai Gow Poker played in casinos). Chinese dominoes use a 32-tile set with different pip distributions than Western sets.
+In China, where dominoes originated, they evolved into different games including Tien Gow and Pai Gow (which later became the basis for Pai Gow [Poker](/poker) played in casinos). Chinese dominoes use a 32-tile set with different pip distributions than Western sets.
 
 The non-game use of dominoes — standing them on end in elaborate chains and toppling them — has become its own art form. Domino toppling world records involve millions of tiles arranged in complex patterns that cascade when triggered. The current record for most dominoes toppled in a chain is over 5 million.
 

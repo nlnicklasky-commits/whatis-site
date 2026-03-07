@@ -5,7 +5,7 @@ description: "Confectionery is the art and business of making sweets, candies, a
 category: everyday-concepts
 tags: ["food", "sweets", "cooking", "baking", "desserts", "culinary arts"]
 heroImage: "/images/articles/confectionery.webp"
-heroAlt: "Assorted handmade chocolates and colorful candies displayed on marble"
+heroAlt: "Editorial photograph representing the concept of confectionery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Confectionery?
 
-Confectionery is the craft of making sweets — candies, chocolates, caramels, marshmallows, fudge, and everything else that satisfies a sugar craving. It's also the industry that produces these products, a global market worth over $230 billion annually. Behind every gummy bear and truffle lies a surprising amount of chemistry, technique, and centuries of culinary tradition.
+Confectionery is the craft of making sweets — candies, chocolates, caramels, marshmallows, fudge, and everything else that satisfies a sugar craving. It's also the industry that produces these products, a global market worth over $230 billion annually. Behind every gummy bear and truffle lies a surprising amount of [chemistry](/chemistry), technique, and centuries of culinary tradition.
 
 ## Sugar Science
 
-The foundation of almost all confectionery is sugar — specifically, understanding how sugar behaves at different temperatures. This is where candy making becomes genuinely scientific.
+The foundation of almost all confectionery is sugar — specifically, understanding how sugar behaves at different temperatures. This is where [candy making](/candy-making) becomes genuinely scientific.
 
 When you dissolve sugar in water and heat the solution, water evaporates and the sugar concentration increases. The temperature of the syrup tells you exactly what the sugar is doing, and each temperature range produces a different candy texture:
 
@@ -73,7 +73,7 @@ The industrial revolution changed everything. Mechanized sugar refining dropped 
 The global confectionery industry produces roughly 25 million metric tons of product annually. Mars, Mondelez International, Ferrero, Nestle, and Hershey dominate the market, but thousands of smaller artisan producers thrive in the premium segment.
 
 The industry divides roughly into:
-- **Chocolate products** (45% of global sales)
+- **Chocolate products** (45% of global [sales](/sales))
 - **Sugar candy** (35%)
 - **Gum** (20%)
 

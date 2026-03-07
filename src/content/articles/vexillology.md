@@ -5,7 +5,7 @@ description: "Vexillology is the scholarly study of flags, their history, symbol
 category: everyday-concepts
 tags: ["vexillology", "flags", "symbols", "heraldry", "design", "history"]
 heroImage: "/images/articles/vexillology.webp"
-heroAlt: "Colorful national flags from around the world fluttering on poles against a blue sky"
+heroAlt: "Editorial photograph representing the concept of vexillology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Consider Japan's flag: a red circle on a white field. It represents the sun — 
 
 Now consider most U.S. state flags: a state seal (containing detailed imagery, Latin mottos, and tiny text) centered on a blue background. At any practical viewing distance, they're indistinguishable from each other. They fail as flags while succeeding as seals — which is the fundamental problem. A seal is designed to be examined up close. A flag is designed to be identified from far away.
 
-Vexillologists study why some flags work and others don't, how flags evolve over time, what their symbols mean, and how they function as tools of identity, politics, and communication.
+Vexillologists study why some flags work and others don't, how flags evolve over time, what their symbols mean, and how they function as tools of identity, [politics](/politics), and communication.
 
 ## The Five Principles of Good Flag Design
 
@@ -63,7 +63,7 @@ Flags are among the most politically charged objects humans have created. Burnin
 
 Flag changes often signal political transformation. South Africa adopted a new flag in 1994 to mark the end of apartheid. Rwanda changed its flag in 2001 after the genocide. Germany reunified its flag when the Berlin Wall fell. The flag is often the first thing a new nation creates and the last symbol an old regime surrenders.
 
-Even within established democracies, flag politics can be intense. New Zealand held a $26 million referendum in 2015-2016 about whether to change its flag (voters kept the existing one). Mississippi finally removed the Confederate battle emblem from its state flag in 2020, after decades of debate.
+Even within established democracies, flag politics can be intense. New Zealand held a $26 million referendum in 2015-2016 about whether to change its flag (voters kept the existing one). Mississippi finally removed the Confederate battle emblem from its state flag in 2020, after decades of [debate](/debate).
 
 ## Flag Protocol and Etiquette
 

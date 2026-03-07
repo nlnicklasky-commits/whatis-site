@@ -5,7 +5,7 @@ description: "Human anatomy is the study of the body's structures. Explore its o
 category: science
 tags: ["human anatomy", "anatomy", "human body", "medicine", "biology", "health science", "physiology"]
 heroImage: "/images/articles/human-anatomy-hero.webp"
-heroAlt: "Detailed anatomical illustration showing the major organ systems of the human body"
+heroAlt: "Editorial photograph representing the concept of human anatomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -180,7 +180,7 @@ Understanding variation matters clinically. A surgeon who assumes the textbook a
 
 ## Why Anatomy Still Matters
 
-In an age of genetic medicine, molecular biology, and artificial intelligence, you might wonder whether learning the physical layout of the body still matters. It does — profoundly.
+In an age of genetic medicine, [molecular biology](/molecular-biology), and artificial intelligence, you might wonder whether learning the physical layout of the body still matters. It does — profoundly.
 
 Surgeons can't operate without knowing anatomy. Every incision follows anatomical landmarks. Every procedure requires understanding which structures lie in the surgical field and how to avoid damaging critical ones. Robotic surgery hasn't changed this — the robot doesn't know anatomy; the surgeon controlling it does.
 

@@ -5,7 +5,7 @@ description: "Cell biology studies the structure, function, and behavior of cell
 category: science
 tags: ["cell biology", "biology", "cells", "molecular biology", "organelles", "genetics", "biochemistry"]
 heroImage: "/images/articles/cell-biology-hero.webp"
-heroAlt: "Microscopic view of colorful human cells showing nuclei and organelle structures"
+heroAlt: "Editorial photograph representing the concept of cell biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "Cancer results from mutations in genes that control cell growth and division. When these control mechanisms fail, cells divide uncontrollably and can invade surrounding tissues. It typically requires multiple mutations in the same cell lineage — a single mutation rarely causes cancer alone."
 ---
 
-# What Is Cell Biology?
+# What Is Cell [Biology](/biology)?
 
 Cell biology is the scientific discipline that studies cells — the basic structural, functional, and biological units of all known living organisms. It examines how cells are structured, how they function, how they divide, how they communicate, and how they die. Every process in biology — from digestion to thought to evolution — ultimately happens at the cellular level.
 
@@ -63,7 +63,7 @@ Prokaryotes — bacteria and archaea — were the first cells to appear on Earth
 
 A prokaryotic cell is essentially a bag of cytoplasm surrounded by a membrane and usually a rigid cell wall. The DNA floats freely in the cytoplasm as a single circular chromosome, plus sometimes smaller DNA circles called plasmids. Ribosomes (the molecular machines that build proteins) are scattered throughout.
 
-Don't mistake simplicity for inferiority. Bacteria are the most numerous organisms on Earth. There are roughly 10^30 bacteria on the planet — a number so large it's meaningless to the human brain. They live in boiling hot springs, frozen Antarctic ice, deep-sea volcanic vents, and your intestines. They were here 3 billion years before animals existed, and they'll almost certainly be here long after we're gone.
+Don't mistake simplicity for inferiority. Bacteria are the most numerous organisms on Earth. There are roughly 10^30 bacteria on the planet — a number so large it's meaningless to the human brain. They live in boiling hot [springs](/springs), frozen Antarctic ice, deep-sea volcanic vents, and your intestines. They were here 3 billion years before animals existed, and they'll almost certainly be here long after we're gone.
 
 Bacteria can also share DNA horizontally — passing genes between unrelated species through plasmid transfer, transformation, and viral transduction. This is why antibiotic resistance spreads so fast. A resistance gene that evolves in one bacterial species can transfer to a completely different species within hours.
 
@@ -115,7 +115,7 @@ The Golgi apparatus receives proteins from the ER, modifies them (adding sugar c
 
 Glycosylation — the addition of carbohydrate chains to proteins — is a major Golgi function. These sugar modifications are crucial for protein folding, stability, and recognition. The [carbohydrate chemistry](/carbohydrate-chemistry) of cell surface glycoproteins determines blood type, immune recognition, and cell-cell communication.
 
-### Lysosomes — The Recycling Center
+### Lysosomes — The [Recycling](/recycling) Center
 
 Lysosomes are membrane-bound bags of digestive enzymes that break down damaged organelles, foreign particles, and cellular waste. They operate at an acidic pH (around 4.5-5.0, compared to the cell's neutral 7.2), which activates their enzymes while keeping them safely isolated from the rest of the cell.
 
@@ -187,21 +187,21 @@ The study of [anatomy](/anatomy) at every level, from organs to tissues to indiv
 
 ## Modern Techniques — How We Study Cells
 
-### Microscopy
+### [Microscopy](/microscopy)
 
 Light microscopy can resolve structures down to about 200 nanometers. Fluorescence microscopy uses glowing molecular labels to visualize specific proteins or structures within living cells. Confocal microscopy produces sharper images by eliminating out-of-focus light.
 
-Electron microscopy provides far higher resolution (down to 0.1 nanometers) but requires killing and fixing cells. Cryo-electron microscopy (cryo-EM), which flash-freezes cells and images them at near-atomic resolution, won the Nobel Prize in Chemistry in 2017 and has revealed the structures of countless cellular machines.
+[Electron microscopy](/electron-microscopy) provides far higher resolution (down to 0.1 nanometers) but requires killing and fixing cells. Cryo-electron microscopy (cryo-EM), which flash-freezes cells and images them at near-atomic resolution, won the Nobel Prize in Chemistry in 2017 and has revealed the structures of countless cellular machines.
 
 Super-resolution microscopy techniques — STED, PALM, STORM — break the traditional resolution limit, allowing visualization of structures as small as 20 nanometers in living cells. These techniques won the Nobel Prize in Chemistry in 2014.
 
-### Genomics and Proteomics
+### Genomics and [Proteomics](/proteomics)
 
 Single-cell RNA sequencing can measure which genes are active in individual cells. This has revealed surprising diversity within seemingly uniform cell populations — a "type" of immune cell actually comprises dozens of subtypes with distinct gene expression profiles.
 
 Proteomics catalogs all the proteins in a cell, revealing how the cell's molecular machinery changes in disease, development, and in response to signals.
 
-### CRISPR and Gene Editing
+### CRISPR and Gene [Editing](/editing)
 
 CRISPR-Cas9 (Nobel Prize in Chemistry, 2020) lets researchers cut, delete, or insert DNA at precise locations. This technology has accelerated cell biology research enormously — you can knock out any gene and observe the consequences, essentially asking "what happens if this gene stops working?"
 

@@ -5,7 +5,7 @@ description: Historical slavery is the system of forced, unpaid labor in which h
 category: history
 tags: ["historical slavery", "slavery", "human rights", "forced labor", "abolitionism"]
 heroImage: "/images/articles/historical-slavery.webp"
-heroAlt: "Broken iron shackles and chains on weathered stone representing the history of slavery and emancipation"
+heroAlt: "Editorial photograph representing the concept of historical slavery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ faq:
 
 # What Is Historical Slavery?
 
-Historical slavery is the practice of owning human beings as property, compelling them to work without pay through violence or the threat of violence. It existed on every inhabited continent, in nearly every major civilization, for thousands of years. The transatlantic slave trade and the chattel slavery system in the Americas represent its most systematized and commercially driven form.
+Historical slavery is the practice of owning human beings as property, compelling them to work without pay through violence or the threat of violence. It existed on every inhabited continent, in nearly every major civilization, for thousands of years. The transatlantic slave [trade](/trade) and the chattel slavery system in the Americas represent its most systematized and commercially driven form.
 
 ## The Uncomfortable Scope
 
-Here's what makes slavery difficult to discuss historically: its sheer universality. The Sumerians had slaves. The Egyptians had slaves. The Greeks — those supposed champions of democracy and philosophy — depended on slave labor so thoroughly that Athens may have had more slaves than free citizens. The Roman economy was built on it. Ancient China, India, the Ottoman Empire, the Aztec and Inca empires, West African kingdoms, Norse Vikings — all practiced various forms of human bondage.
+Here's what makes slavery difficult to discuss historically: its sheer universality. The Sumerians had slaves. The Egyptians had slaves. The Greeks — those supposed champions of democracy and [philosophy](/philosophy) — depended on slave labor so thoroughly that Athens may have had more slaves than free citizens. The Roman economy was built on it. Ancient China, India, the Ottoman Empire, the Aztec and Inca empires, West African kingdoms, Norse Vikings — all practiced various forms of human bondage.
 
 This doesn't minimize any particular form of slavery by comparing it to others. It means that for most of human history, the enslavement of other people was considered normal — as ordinary and unremarkable as [agriculture](/agriculture) or warfare. The idea that slavery was morally wrong, that human beings had an inherent right not to be owned, was a radical notion that took millennia to gain traction and is still, in practice, not universally enforced.
 
@@ -51,7 +51,7 @@ In the ancient world, slavery was typically a consequence of war, debt, or birth
 
 **Greek slavery** was central to the economy and to the famous Athenian "democracy" that excluded women, foreigners, and enslaved people from citizenship. Historians estimate that 30-40% of Athens' population was enslaved during the classical period. Enslaved people worked in homes, farms, mines (the silver mines at Laurium were notorious for brutal conditions), and workshops. Aristotle argued that some people were "natural slaves" — a justification that influenced pro-slavery arguments for centuries.
 
-**Roman slavery** operated on an even larger scale. At its peak, enslaved people may have constituted 25-40% of Italy's population. The Roman economy — its farms, mines, workshops, and households — depended fundamentally on slave labor. Roman law treated enslaved people as property (*res*), though masters could grant freedom (manumission). Slave revolts occurred periodically, most famously Spartacus's rebellion (73-71 BCE), which required multiple Roman legions to suppress.
+**Roman slavery** operated on an even larger scale. At its peak, enslaved people may have constituted 25-40% of Italy's population. The Roman economy — its farms, mines, workshops, and households — depended fundamentally on slave labor. [Roman law](/roman-law) treated enslaved people as property (*res*), though masters could grant freedom (manumission). Slave revolts occurred periodically, most famously Spartacus's rebellion (73-71 BCE), which required multiple Roman legions to suppress.
 
 **Islamic slavery** was widespread from the 7th century onward. The Islamic world's slave trade drew from sub-Saharan Africa, Central Asia, and Europe. Islamic law regulated slavery — enslaved people had some legal protections, manumission was encouraged as a pious act, and children of enslaved concubines by free fathers were born free. But the scale was enormous. Historians estimate that 10-18 million Africans were taken in the trans-Saharan and Indian Ocean slave trades, comparable to the transatlantic trade.
 
@@ -61,9 +61,9 @@ The transatlantic slave trade, operating from approximately 1500 to 1870, was th
 
 The trade was a business. A brutally efficient, thoroughly documented business. European traders established forts along the West African coast. They purchased or captured Africans, often working with local African rulers and merchants who profited from the trade. The captured were marched to the coast — sometimes hundreds of miles — chained together, and held in coastal forts or barracoons until ships arrived.
 
-The Middle Passage was a horror that defies adequate description. Enslaved people were packed into ships so tightly that many couldn't sit upright. Disease, dehydration, and suffocation killed people daily. Some jumped overboard. Some starved themselves to death. Ship captains calculated expected mortality rates into their business plans — they loaded extra people to compensate for anticipated deaths, the way a modern logistics company accounts for shipping damage.
+The Middle Passage was a horror that defies adequate description. Enslaved people were packed into ships so tightly that many couldn't sit upright. Disease, dehydration, and suffocation killed people daily. Some jumped overboard. Some starved themselves to death. Ship captains calculated expected mortality rates into their business plans — they loaded extra people to compensate for anticipated deaths, the way a modern [logistics](/logistics) company accounts for shipping damage.
 
-The trade was triangular. European manufactured goods — textiles, guns, metal tools — went to Africa. Enslaved Africans went to the Americas. Sugar, tobacco, cotton, and other plantation products went to Europe. Every leg of the triangle generated profit. Banks, insurance companies, shipping firms, and manufacturers across Europe profited from the trade, including many institutions that still exist today.
+The trade was triangular. European manufactured goods — textiles, guns, metal tools — went to Africa. Enslaved Africans went to the Americas. Sugar, tobacco, cotton, and other plantation products went to Europe. Every leg of the triangle generated profit. Banks, [insurance](/insurance) companies, shipping firms, and manufacturers across Europe profited from the trade, including many institutions that still exist today.
 
 ## American Chattel Slavery
 
@@ -83,7 +83,7 @@ The conditions varied by region, time period, and individual slaveholder, but th
 
 Enslaved people resisted constantly — a fact that older historical narratives often minimized or ignored.
 
-**Daily resistance** was ubiquitous: working slowly, breaking tools, feigning illness, poisoning livestock, setting fires, running away temporarily, maintaining forbidden religious practices and cultural traditions, and preserving African languages, music, and stories.
+**Daily resistance** was ubiquitous: working slowly, breaking tools, feigning illness, poisoning livestock, setting fires, [running](/running) away temporarily, maintaining forbidden religious practices and cultural traditions, and preserving African languages, music, and stories.
 
 **Organized revolts** occurred regularly, though most were suppressed before they could succeed. The Stono Rebellion in South Carolina (1739). Gabriel's Conspiracy in Virginia (1800). Charles Deslondes' rebellion in Louisiana (1811). Denmark Vesey's planned uprising in Charleston (1822). Nat Turner's Rebellion in Virginia (1831), which killed roughly 60 white people and triggered a massive, violent white backlash that killed over 200 Black people — most of whom had nothing to do with the revolt.
 
@@ -103,7 +103,7 @@ But abolition didn't end the systems of racial oppression that slavery had creat
 
 ## The Legacy That Won't Quit
 
-Slavery's effects didn't end with abolition. The wealth extracted from enslaved labor built institutions, cities, and national economies that still exist. Racial disparities in wealth, health, education, housing, and criminal justice in the United States trace directly to slavery and its aftermath.
+Slavery's effects didn't end with abolition. The wealth extracted from enslaved labor built institutions, cities, and national economies that still exist. Racial disparities in wealth, health, [education](/education), housing, and criminal justice in the United States trace directly to slavery and its aftermath.
 
 The International Labour Organization estimates that roughly 28 million people worldwide are in forced labor today — including debt bondage, human trafficking, and state-imposed forced labor. Slavery wasn't a problem that humanity solved and moved past. In raw numbers, there may be more people in conditions of forced labor today than at any point in history.
 

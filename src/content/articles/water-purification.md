@@ -5,7 +5,7 @@ description: "Water purification removes contaminants to make water safe for dri
 category: everyday-concepts
 tags: ["water purification", "drinking water", "filtration", "public health", "water treatment", "safety"]
 heroImage: "/images/articles/water-purification.webp"
-heroAlt: "Clean water flowing through a modern filtration system in a water treatment facility"
+heroAlt: "Editorial photograph representing the concept of water purification"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Most Americans get their drinking water from public water systems that treat sur
 
 **Disinfection** — The critical step that kills pathogenic microorganisms. Chlorine is the most common disinfectant in the U.S. — it's cheap, effective, and provides residual protection throughout the distribution system (meaning it continues killing bacteria as water travels through miles of pipes to your tap). Chloramine (chlorine bonded to ammonia) provides longer-lasting residual protection. UV light and ozone are also used, particularly in systems where chlorine byproducts are a concern.
 
-**Fluoridation** — Most U.S. public water systems add fluoride (at 0.7 ppm) to reduce tooth decay. This is one of public health's most effective interventions — the CDC calls community water fluoridation one of the ten great public health achievements of the 20th century.
+**Fluoridation** — Most U.S. public water systems add fluoride (at 0.7 ppm) to reduce tooth decay. This is one of [public health](/public-health)'s most effective interventions — the CDC calls community water fluoridation one of the ten great public health achievements of the 20th century.
 
 ## Home Purification Options
 
@@ -61,13 +61,13 @@ Even treated municipal water may contain contaminants you'd rather remove, and w
 
 **UV purification** — Ultraviolet light damages the DNA of bacteria, viruses, and parasites, rendering them unable to reproduce. Good for: biological contaminants. Not effective for: chemical contaminants, heavy metals, dissolved solids. Often used in combination with other filtration methods.
 
-**Distillation** — Water is boiled, and the steam is collected and condensed. This removes virtually all contaminants except volatile organic compounds (which evaporate and condense along with the water). Effective but slow and energy-intensive.
+**[Distillation](/distillation)** — Water is boiled, and the steam is collected and condensed. This removes virtually all contaminants except volatile organic compounds (which evaporate and condense along with the water). Effective but slow and energy-intensive.
 
 ## The Flint Water Crisis: What Went Wrong
 
 The Flint, Michigan water crisis (2014-present) is a case study in how water purification failures compound. When Flint switched its water source from Lake Huron (treated by Detroit) to the Flint River in April 2014, the new water was more corrosive than the old. The city failed to add corrosion control chemicals.
 
-The corrosive water dissolved lead from aging service lines and household plumbing, exposing roughly 100,000 residents to elevated lead levels. Lead exposure is particularly dangerous for children — it causes irreversible neurological damage at levels once considered safe.
+The corrosive water dissolved lead from aging service lines and household [plumbing](/plumbing), exposing roughly 100,000 residents to elevated lead levels. Lead exposure is particularly dangerous for children — it causes irreversible neurological damage at levels once considered safe.
 
 The crisis resulted from multiple failures: cost-cutting decisions, inadequate treatment, regulatory failures by the Michigan Department of Environmental Quality, and delayed response from officials who dismissed residents' complaints about water quality and health problems.
 
@@ -75,7 +75,7 @@ The crisis resulted from multiple failures: cost-cutting decisions, inadequate t
 
 Water purification is confronting threats that didn't exist when most treatment plants were designed:
 
-**PFAS** (per- and polyfluoroalkyl substances) — "Forever chemicals" used in nonstick cookware, firefighting foam, and waterproof clothing. They don't break down naturally and accumulate in humans. The EPA set the first enforceable PFAS limits in 2024. Activated carbon and reverse osmosis are effective for removal, but many treatment plants lack these capabilities.
+**PFAS** (per- and polyfluoroalkyl substances) — "Forever chemicals" used in nonstick cookware, [firefighting](/firefighting) foam, and waterproof clothing. They don't break down naturally and accumulate in humans. The EPA set the first enforceable PFAS limits in 2024. Activated carbon and reverse osmosis are effective for removal, but many treatment plants lack these capabilities.
 
 **Microplastics** — Tiny plastic particles found in virtually all water sources. Research on health effects is ongoing. Standard filtration removes most microplastics, but the smallest particles may pass through.
 

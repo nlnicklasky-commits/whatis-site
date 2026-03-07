@@ -5,7 +5,7 @@ description: "Twentieth-century history covers the 1900s — two world wars, the
 category: history
 tags: ["twentieth-century history", "world wars", "cold war", "decolonization"]
 heroImage: "/images/articles/twentieth-century-history.webp"
-heroAlt: "A collage of 20th-century events including wartime soldiers, the moon landing, and the fall of the Berlin Wall"
+heroAlt: "Editorial photograph representing the concept of twentieth-century history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Twentieth-Century History?
 
-The twentieth century — 1901 to 2000 — packed more change into a hundred years than any other period in human history. It opened with horse-drawn carriages and ended with the International Space Station orbiting Earth. In between: two world wars that killed over 100 million people, the splitting of the atom, the invention of antibiotics, the collapse of European empires, the rise and fall of Soviet communism, and the creation of the internet. If you want to understand the world you live in right now, this is the century that built it.
+The twentieth century — 1901 to 2000 — packed more change into a hundred years than any other period in human history. It opened with horse-drawn carriages and ended with the International Space Station orbiting Earth. In between: two world wars that killed over 100 million people, the splitting of the atom, the [invention](/invention) of antibiotics, the collapse of European empires, the rise and fall of Soviet communism, and the creation of the internet. If you want to understand the world you live in right now, this is the century that built it.
 
 ## The World in 1900
 
@@ -43,11 +43,11 @@ At the turn of the century, a handful of European empires controlled most of the
 
 The United States was rising fast — it had just defeated Spain in the Spanish-American War of 1898, acquiring the Philippines, Puerto Rico, and Guam. Japan, the only non-Western nation to industrialize successfully in the 19th century, had beaten China in 1895 and was about to shock the world by defeating Russia in 1905.
 
-Most people still lived on farms. Life expectancy in the U.S. was about 47 years. There were no commercial airlines, no antibiotics, no radio broadcasts. Electricity was available in cities but not in rural areas. The global population was roughly 1.6 billion — less than a quarter of what it is today.
+Most people still lived on farms. Life expectancy in the U.S. was about 47 years. There were no commercial airlines, no antibiotics, no radio broadcasts. [Electricity](/electricity) was available in cities but not in rural areas. The global population was roughly 1.6 billion — less than a quarter of what it is today.
 
 ## The Great War: 1914-1918
 
-World War I started because of a tangled web of alliances, imperial rivalries, and one assassination. On June 28, 1914, Gavrilo Princip shot Archduke Franz Ferdinand of Austria-Hungary in Sarajevo. Within six weeks, most of Europe was at war.
+[World War I](/world-war-i) started because of a tangled web of alliances, imperial rivalries, and one assassination. On June 28, 1914, Gavrilo Princip shot Archduke Franz Ferdinand of Austria-Hungary in Sarajevo. Within six weeks, most of Europe was at war.
 
 What everyone expected to be a short, decisive conflict turned into four years of industrialized slaughter. The Western Front — a line of trenches stretching 440 miles from the English Channel to Switzerland — barely moved for three years. Machine guns, barbed wire, and artillery created killing zones where thousands died to gain a few hundred yards. The Battle of the Somme in 1916 produced over a million casualties in less than five months.
 
@@ -57,11 +57,11 @@ The war killed roughly 17-20 million people. Then the 1918 influenza pandemic ki
 
 ## The Interwar Period: Boom, Bust, and Dictatorship
 
-The 1920s brought relief — at least in the West. The "Roaring Twenties" saw economic growth, jazz music, women's suffrage (the 19th Amendment passed in the U.S. in 1920), and technological optimism. Radio connected millions of people to shared entertainment for the first time. Charles Lindbergh flew solo across the Atlantic in 1927.
+The 1920s brought relief — at least in the West. The "Roaring Twenties" saw economic growth, [jazz music](/jazz-music), women's suffrage (the 19th Amendment passed in the U.S. in 1920), and technological optimism. Radio connected millions of people to shared entertainment for the first time. Charles Lindbergh flew solo across the Atlantic in 1927.
 
-It crashed spectacularly. The Wall Street stock market collapse of October 1929 triggered the Great Depression — a worldwide economic disaster that lasted most of the 1930s. U.S. unemployment hit 25% by 1933. International trade collapsed by 65%. The human suffering was immense.
+It crashed spectacularly. The Wall Street stock market collapse of October 1929 triggered the Great Depression — a worldwide economic disaster that lasted most of the 1930s. U.S. unemployment hit 25% by 1933. [International trade](/international-trade) collapsed by 65%. The human suffering was immense.
 
-The Depression created fertile ground for dictators. Adolf Hitler rose to power in Germany in 1933, promising national restoration and scapegoating Jews for Germany's problems. Benito Mussolini had already seized power in Italy in 1922. Joseph Stalin consolidated absolute control of the Soviet Union by the late 1920s. Japan's military increasingly dominated its government throughout the 1930s, invading Manchuria in 1931 and China proper in 1937.
+The Depression created fertile ground for dictators. Adolf Hitler rose to power in Germany in 1933, promising national restoration and scapegoating Jews for Germany's problems. Benito Mussolini had already seized power in Italy in 1922. Joseph Stalin consolidated absolute control of the Soviet Union by the late 1920s. Japan's military increasingly dominated its [government](/government) throughout the 1930s, invading Manchuria in 1931 and China proper in 1937.
 
 The democracies — exhausted from World War I and crippled by the Depression — responded with appeasement. The Munich Agreement of 1938, where Britain and France let Hitler annex part of Czechoslovakia, became the defining example of what happens when you try to buy peace with concessions.
 
@@ -77,7 +77,7 @@ The war reshaped the global order completely. Europe was devastated. The United 
 
 ## The Cold War: A World Divided
 
-Within two years of the war's end, the wartime alliance between the U.S. and Soviet Union had crumbled. The Iron Curtain descended across Europe. The Cold War — a decades-long rivalry fought through proxy wars, espionage, propaganda, and a terrifying nuclear arms race — defined global politics from roughly 1947 to 1991.
+Within two years of the war's end, the wartime alliance between the U.S. and Soviet Union had crumbled. The Iron Curtain descended across Europe. The Cold War — a decades-long rivalry fought through proxy wars, espionage, propaganda, and a terrifying nuclear arms race — defined global [politics](/politics) from roughly 1947 to 1991.
 
 The numbers are sobering. At its peak, the global nuclear arsenal contained over 70,000 warheads — enough to destroy civilization several times over. The Cuban Missile Crisis of October 1962 brought the superpowers closer to nuclear war than most people realize. We now know that Soviet submarine officers came within a single vote of launching a nuclear torpedo during the crisis.
 

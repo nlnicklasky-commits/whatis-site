@@ -5,7 +5,7 @@ description: "Parliamentary procedure is a set of rules for conducting orderly m
 category: everyday-concepts
 tags: ["parliamentary procedure", "meetings", "governance", "Roberts Rules", "democracy", "organizations"]
 heroImage: "/images/articles/parliamentary-procedure.webp"
-heroAlt: "A gavel resting on a table beside a copy of Robert's Rules of Order at a meeting"
+heroAlt: "Editorial photograph representing the concept of parliamentary procedure"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Parliamentary Procedure?
 
-Parliamentary procedure is a set of rules and conventions for conducting meetings, managing debate, and making group decisions in an orderly, fair, and efficient manner. It ensures that everyone gets a chance to speak, that the majority rules while the minority is heard, and that meetings actually produce decisions rather than devolving into chaos. If you've ever been in a meeting where nobody knows who's talking, nothing gets decided, and everyone leaves frustrated — that's what parliamentary procedure prevents.
+Parliamentary procedure is a set of rules and conventions for conducting meetings, managing [debate](/debate), and making group decisions in an orderly, fair, and efficient manner. It ensures that everyone gets a chance to speak, that the majority rules while the minority is heard, and that meetings actually produce decisions rather than devolving into chaos. If you've ever been in a meeting where nobody knows who's talking, nothing gets decided, and everyone leaves frustrated — that's what parliamentary procedure prevents.
 
 ## Why It Exists
 

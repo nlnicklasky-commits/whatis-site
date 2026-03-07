@@ -5,7 +5,7 @@ description: "Natural language processing (NLP) teaches computers to understand 
 category: technology
 tags: ["natural language processing", "nlp", "artificial intelligence", "machine learning", "computational linguistics", "language technology"]
 heroImage: "/images/articles/natural-language-processing-hero.webp"
-heroAlt: "Abstract visualization of text being parsed and analyzed by an AI system"
+heroAlt: "Editorial photograph representing the concept of natural language processing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -93,17 +93,17 @@ Statistical machine translation (pioneered at IBM in the late 1980s) translated 
 
 **Named Entity Recognition** (identifying proper nouns like person names, organizations, and locations in text), **part-of-speech tagging** (labeling each word as noun, verb, adjective, etc.), and **sentiment analysis** (determining whether text expresses positive, negative, or neutral opinions) all became practical with statistical approaches.
 
-Bag-of-words models treated text as an unordered collection of words, ignoring syntax entirely. Surprisingly, this crude approach worked well for many classification tasks. TF-IDF (Term Frequency-Inverse Document Frequency) weighted words by how informative they were — common words like "the" got low weights, while distinctive words got high weights. These methods powered early search engines and information retrieval systems.
+Bag-of-words models treated text as an unordered collection of words, ignoring syntax entirely. Surprisingly, this crude approach worked well for many classification tasks. TF-IDF (Term Frequency-Inverse Document Frequency) weighted words by how informative they were — common words like "the" got low weights, while distinctive words got high weights. These methods powered early search engines and [information retrieval](/information-retrieval) systems.
 
 ### The Deep Learning Revolution (2013-Present)
 
-[Deep learning](/deep-learning) — neural networks with many layers — transformed NLP starting around 2013.
+[Deep learning](/deep-learning) — [neural networks](/neural-networks) with many layers — transformed NLP starting around 2013.
 
-**Word embeddings** were the first major breakthrough. Word2Vec (Google, 2013) and GloVe (Stanford, 2014) learned to represent words as dense numerical vectors (lists of numbers) based on the contexts in which they appeared. Words with similar meanings ended up with similar vectors. The famous example: the vector for "king" minus "man" plus "woman" approximately equals the vector for "queen." For the first time, computers had a way to represent meaning as mathematics.
+**Word embeddings** were the first major breakthrough. Word2Vec (Google, 2013) and GloVe (Stanford, 2014) learned to represent words as dense numerical vectors (lists of numbers) based on the contexts in which they appeared. Words with similar meanings ended up with similar vectors. The famous example: the vector for "king" minus "man" plus "woman" approximately equals the vector for "queen." For the first time, computers had a way to represent meaning as [mathematics](/mathematics).
 
 **Recurrent Neural Networks (RNNs)** and their improved variants (**LSTMs** — Long Short-Term Memory networks) processed text sequentially, maintaining a memory of previous words. This allowed models to handle context and word order, improving performance on tasks like translation, summarization, and question answering.
 
-**The Transformer architecture** (Vaswani et al., 2017) was the real earthquake. Introduced in the paper "Attention Is All You Need," the transformer replaced sequential processing with "attention mechanisms" that allowed every word in a sentence to directly attend to every other word. This parallel processing was not only more effective — it was dramatically faster to train, enabling much larger models.
+**The Transformer [architecture](/architecture)** (Vaswani et al., 2017) was the real earthquake. Introduced in the paper "Attention Is All You Need," the transformer replaced sequential processing with "attention mechanisms" that allowed every word in a sentence to directly attend to every other word. This parallel processing was not only more effective — it was dramatically faster to train, enabling much larger models.
 
 Transformers directly enabled the large language model era.
 
@@ -129,7 +129,7 @@ Assigning categories to text. Spam detection (spam vs. not spam) is text classif
 
 ### Named Entity Recognition (NER)
 
-Identifying and classifying proper nouns in text — person names, organizations, locations, dates, monetary values. "Apple announced that Tim Cook will visit London on Tuesday" → Apple (organization), Tim Cook (person), London (location), Tuesday (date). NER is foundational for information extraction and knowledge graph construction.
+Identifying and classifying proper nouns in text — person names, organizations, locations, dates, monetary values. "Apple announced that Tim Cook will visit London on Tuesday" → Apple (organization), Tim Cook (person), London (location), Tuesday (date). NER is foundational for information extraction and knowledge graph [construction](/construction).
 
 ### Machine Translation
 
@@ -147,7 +147,7 @@ Condensing longer text into shorter text while preserving key information. Extra
 
 ### Text Generation
 
-Generating coherent, contextually appropriate text. This is where LLMs have had their most visible impact. Text generation powers chatbots, content creation tools, code assistants, and creative writing aids. The quality of generated text has improved so rapidly that distinguishing AI-generated text from human-written text is now extremely difficult — a situation that raises significant questions about authenticity, academic integrity, and information trust.
+Generating coherent, contextually appropriate text. This is where LLMs have had their most visible impact. Text generation powers chatbots, content creation tools, code assistants, and [creative writing](/creative-writing) aids. The quality of generated text has improved so rapidly that distinguishing AI-generated text from human-written text is now extremely difficult — a situation that raises significant questions about authenticity, academic integrity, and information trust.
 
 ## NLP in the Real World
 
@@ -187,7 +187,7 @@ NLP raises significant ethical questions.
 
 **Privacy.** NLP systems trained on personal data (emails, messages, medical records) raise privacy concerns. Even models trained on public data can sometimes reproduce memorized personal information from their training data.
 
-**Labor displacement.** NLP automates tasks previously done by humans — translation, copywriting, customer service, basic legal research, medical coding. This creates economic value but also displaces workers. The pace and scope of displacement are subjects of active debate.
+**Labor displacement.** NLP automates tasks previously done by humans — translation, [copywriting](/copywriting), customer service, basic legal research, medical coding. This creates economic value but also displaces workers. The pace and scope of displacement are subjects of active debate.
 
 **Consent and intellectual property.** LLMs are trained on text written by millions of authors, most of whom didn't explicitly consent to their work being used for AI training. Multiple lawsuits and regulatory actions are addressing questions of copyright and fair use in AI training data.
 
@@ -197,7 +197,7 @@ Several trends are shaping the near future.
 
 **Multimodal models** that process text, images, audio, and video together — rather than each modality separately — are advancing rapidly. GPT-4V, Gemini, and Claude already handle text and images. Future models will likely process all modalities fluently, enabling applications like visual question answering, video summarization, and audio-visual content creation.
 
-**Smaller, efficient models.** While headlines focus on ever-larger models, there's significant research into making smaller models perform well through techniques like distillation, quantization, and pruning. Running capable NLP models on phones and edge devices — without cloud connectivity — is increasingly feasible.
+**Smaller, efficient models.** While headlines focus on ever-larger models, there's significant research into making smaller models perform well through techniques like [distillation](/distillation), quantization, and pruning. Running capable NLP models on phones and edge devices — without cloud connectivity — is increasingly feasible.
 
 **Retrieval-augmented generation (RAG).** Combining LLMs with external knowledge retrieval systems reduces hallucination by grounding responses in specific, verifiable source documents. This approach is becoming standard for enterprise [AI applications](/artificial-intelligence).
 

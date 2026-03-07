@@ -5,7 +5,7 @@ description: "Genealogy is the study of family history and lineage, tracing ance
 category: history
 tags: ["genealogy", "family history", "ancestry", "family tree", "dna testing"]
 heroImage: "/images/articles/genealogy.webp"
-heroAlt: "A hand-drawn family tree diagram with old photographs and historical documents"
+heroAlt: "Editorial photograph representing the concept of genealogy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Genealogy is the study and tracing of lines of descent — figuring out who your
 
 ## Why People Care
 
-On paper, genealogy sounds dry. Census records, parish registers, immigration manifests — not exactly thrilling material. Yet genealogy is consistently one of the most popular hobbies in America and the second most visited category of websites after pornography (according to various widely-cited statistics, though the exact ranking is hard to verify).
+On paper, genealogy sounds dry. Census records, parish registers, immigration manifests — not exactly thrilling material. Yet genealogy is consistently one of the most popular hobbies in America and the second most visited category of websites after pornography (according to various widely-cited [statistics](/statistics), though the exact ranking is hard to verify).
 
 So why do millions of people spend their free time poring over 200-year-old church records written in languages they don't speak?
 
@@ -63,7 +63,7 @@ The challenge: early census records are maddeningly vague. The 1790-1840 censuse
 
 ### Church Records
 
-Before civil registration, churches were the record keepers. Baptism, marriage, and burial registers — particularly in Catholic and Lutheran parishes — often predate government records by centuries. Some European parish registers go back to the 1500s. The Church of Jesus Christ of Latter-day Saints has microfilmed millions of these records from churches worldwide, making them accessible through FamilySearch.
+Before civil registration, churches were the record keepers. Baptism, marriage, and burial registers — particularly in Catholic and Lutheran parishes — often predate [government](/government) records by centuries. Some European parish registers go back to the 1500s. The Church of Jesus Christ of Latter-day Saints has microfilmed millions of these records from churches worldwide, making them accessible through FamilySearch.
 
 ### Immigration and Naturalization Records
 

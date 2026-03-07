@@ -5,7 +5,7 @@ description: "Forging shapes metal using compressive force, producing parts with
 category: technology
 tags: ["metalworking", "manufacturing", "metallurgy", "strength", "materials science", "industrial process", "blacksmithing"]
 heroImage: "/images/articles/forging-hero.webp"
-heroAlt: "A glowing orange-hot metal billet being shaped on an industrial forging press with sparks flying"
+heroAlt: "Editorial photograph representing the concept of forging"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Forging?
 
-Forging is a manufacturing process that shapes metal using localized compressive forces, typically applied through hammering, pressing, or rolling while the metal is heated to a malleable state. It produces parts with superior mechanical properties — particularly strength, toughness, and fatigue resistance — compared to parts made by [casting](/casting-metal) or machining from solid stock. Forging has been practiced for at least 6,000 years and remains one of the most important metalworking processes in modern industry, producing critical components for aerospace, automotive, energy, medical, and defense applications.
+Forging is a manufacturing process that shapes metal using localized compressive forces, typically applied through hammering, pressing, or rolling while the metal is heated to a malleable state. It produces parts with superior mechanical properties — particularly strength, toughness, and fatigue resistance — compared to parts made by [casting](/casting-metal) or machining from solid stock. Forging has been practiced for at least 6,000 years and remains one of the most important [metalworking](/metalworking) processes in modern industry, producing critical components for aerospace, automotive, energy, medical, and defense applications.
 
 ## Why Forging Works: The Metallurgy
 
@@ -49,7 +49,7 @@ When metal is forged, the compressive forces reshape these grains. They get elon
 
 This matters enormously for strength. Cracks propagate most easily along grain boundaries. When grain flow follows the part's shape, a crack trying to travel through the part must cross grain boundaries rather than following them. It's the same reason wood splits easily along the grain but resists splitting across it.
 
-Compare this to a cast part, where the grain structure is essentially random because the metal solidified from liquid in all directions simultaneously. Or to a machined part cut from bar stock, where the grain flow runs straight through the bar regardless of the part's shape — so the grain flow might be running in the worst possible direction through a critical stress area.
+Compare this to a cast part, where the grain structure is essentially random because the metal solidified from liquid in all directions simultaneously. Or to a machined part cut from bar stock, where the grain flow runs straight through the bar regardless of the part's shape — so the grain flow might be [running](/running) in the worst possible direction through a critical stress area.
 
 ### Work Hardening and Recrystallization
 
@@ -61,7 +61,7 @@ Some forging operations deliberately combine hot and warm working to achieve spe
 
 ### Elimination of Defects
 
-Cast metal commonly contains porosity (tiny gas bubbles trapped during solidification), shrinkage cavities (voids where the metal contracted as it cooled), and segregation (uneven distribution of alloying elements). Forging crushes these defects closed. The compressive forces literally squeeze the voids shut and weld the internal surfaces together through a process called pressure welding.
+Cast metal commonly contains porosity (tiny gas bubbles trapped during solidification), shrinkage cavities (voids where the metal contracted as it cooled), and segregation (uneven distribution of alloying elements). Forging crushes these defects closed. The compressive forces literally squeeze the voids shut and weld the internal surfaces together through a process called pressure [welding](/welding).
 
 This is why forged parts are almost always chosen for safety-critical applications. An airplane landing gear component, for instance, cannot have internal voids that might initiate a fatigue crack. Forging provides the highest confidence in internal soundness.
 
@@ -71,7 +71,7 @@ This is why forged parts are almost always chosen for safety-critical applicatio
 
 Open-die forging — also called smith forging or flat-die forging — shapes metal between flat or simple-contoured dies that don't completely enclose the workpiece. The metal is free to flow laterally as it's compressed.
 
-This is the closest industrial process to traditional blacksmithing. The operator (or automated system) moves and rotates the workpiece between hammer blows, gradually shaping it through a series of compressions. It's used for large parts — shafts, rings, cylinders, blocks — that would be impractical to produce in closed dies.
+This is the closest industrial process to traditional [blacksmithing](/blacksmithing). The operator (or automated system) moves and rotates the workpiece between hammer blows, gradually shaping it through a series of compressions. It's used for large parts — shafts, rings, cylinders, blocks — that would be impractical to produce in closed dies.
 
 Open-die forging can produce parts weighing from a few kilograms to over 150 tons. The largest open-die forging presses in the world — like the 16,000-ton press at Lehigh Heavy Forge Corporation or the massive presses in China and Japan — can forge ingots the size of a small car into shapes used in nuclear reactors, power generation equipment, and heavy industrial machinery.
 
@@ -163,7 +163,7 @@ A forged titanium hip stem, for example, must survive millions of loading cycles
 
 Industrial forging evolved from blacksmithing — one of the oldest human crafts. The village blacksmith was among the most important members of any community for thousands of years, producing tools, weapons, hardware, and agricultural implements.
 
-Traditional blacksmithing hasn't disappeared. It's experienced a significant revival as both a craft and an art form. Modern artist-blacksmiths create architectural ironwork, furniture, sculpture, and decorative hardware. Knife-making, particularly, has seen explosive growth as a hobby and craft, driven partly by television shows and online communities.
+Traditional blacksmithing hasn't disappeared. It's experienced a significant revival as both a craft and an art form. Modern artist-blacksmiths create architectural ironwork, furniture, [sculpture](/sculpture), and decorative hardware. Knife-making, particularly, has seen explosive growth as a hobby and craft, driven partly by television shows and online communities.
 
 The principles are the same as industrial forging — heating metal and shaping it with compressive force. But the scale is human. A blacksmith working with a 2-pound hammer and a coal forge is doing, in miniature, what a 50,000-ton press does with an engine crankshaft.
 
@@ -175,10 +175,10 @@ Forging is evolving with the rest of manufacturing.
 
 **Additive manufacturing** (3D printing) is both a competitor and a complement. For small, complex parts in low volumes, 3D printing may displace forging. But for high-volume production of safety-critical parts, forging's superior mechanical properties maintain its advantage. Some hybrid approaches use 3D printing to produce forging preforms with optimized material distribution.
 
-**Automation and robotics** are increasing in forging shops. Robotic part handling, automated die lubrication, and sensor-based process monitoring improve consistency and reduce the physical demands on workers.
+**Automation and [robotics](/robotics)** are increasing in forging shops. Robotic part handling, automated die lubrication, and sensor-based process monitoring improve consistency and reduce the physical demands on workers.
 
 **Lightweight materials** — advanced aluminum alloys, titanium, magnesium — present new forging challenges. Each material has different temperature sensitivity, deformation behavior, and die wear characteristics. Developing optimal forging processes for these materials is an active area of research.
 
 ## Key Takeaways
 
-Forging shapes metal through compressive force, producing parts with superior grain structure, mechanical properties, and internal soundness compared to casting or machining. The process ranges from open-die forging of massive industrial components to precision closed-die forging of [aerospace](/aerospace-engineering) and [automotive](/automotive-engineering) parts. The aligned grain flow, refined microstructure, and elimination of internal defects make forgings the material of choice for safety-critical applications. With origins in ancient blacksmithing and a future shaped by simulation, automation, and new materials, forging remains one of manufacturing's most essential processes.
+Forging shapes metal through compressive force, producing parts with superior grain structure, mechanical properties, and internal soundness compared to casting or machining. The process ranges from open-die forging of massive industrial components to precision closed-die forging of [aerospace](/aerospace-[engineering](/engineering)) and [automotive](/automotive-engineering) parts. The aligned grain flow, refined microstructure, and elimination of internal defects make forgings the material of choice for safety-critical applications. With origins in ancient blacksmithing and a future shaped by simulation, automation, and new materials, forging remains one of manufacturing's most essential processes.

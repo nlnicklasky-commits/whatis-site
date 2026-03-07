@@ -5,7 +5,7 @@ description: "Debate is the structured exchange of arguments on a topic. Learn a
 category: arts-amp-culture
 tags: ["debate", "arts-amp-culture"]
 heroImage: "/images/articles/debate.webp"
-heroAlt: "Two podiums facing each other in a formal debate hall with an audience"
+heroAlt: "Editorial photograph representing the concept of debate"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Debate is the formal practice of constructing and presenting arguments on opposi
 
 Debate and democracy were born together in ancient Athens. The Athenian Assembly required citizens to argue publicly for and against proposed laws. Skill in argument was literally a civic survival tool — your ability to persuade could determine whether your city went to war, raised taxes, or executed a fellow citizen.
 
-The Sophists taught [rhetoric](/rhetoric) as a professional skill. Aristotle systematized argumentation in his *Rhetoric* and *Organon*. Roman oratory (Cicero, Quintilian) refined persuasive technique further. For over 2,000 years, the ability to argue well has been considered essential to educated citizenship.
+The Sophists taught [rhetoric](/rhetoric) as a professional skill. Aristotle systematized [argumentation](/argumentation) in his *Rhetoric* and *Organon*. Roman [oratory](/oratory) (Cicero, Quintilian) refined persuasive technique further. For over 2,000 years, the ability to argue well has been considered essential to educated citizenship.
 
 Modern competitive debate emerged in American universities in the early 20th century. The first intercollegiate debate tournament was held in 1923. Today, the National Speech & Debate Association has over 140,000 student members, and debate programs exist in high schools and universities worldwide.
 
@@ -45,7 +45,7 @@ Modern competitive debate emerged in American universities in the early 20th cen
 
 **Lincoln-Douglas (LD)** features one-on-one debate on value-based resolutions ("Resolved: Justice requires the recognition of animal rights"). Named after the famous 1858 debates between Abraham Lincoln and Stephen Douglas, LD emphasizes philosophical reasoning and ethical analysis. Cases build from value premises through logical frameworks to conclusions.
 
-**Policy debate** is the most research-intensive format. Two-person teams debate specific policy proposals ("Resolved: The United States federal government should substantially increase fiscal redistribution"). Teams prepare extensive evidence files ("tubs" of printed cards) and deliver arguments at extraordinary speed — top policy debaters speak 300+ words per minute, a practice called "spreading" that fascinates and horrifies non-debaters in equal measure.
+**Policy debate** is the most research-intensive format. Two-person teams debate specific policy proposals ("Resolved: The United States federal [government](/government) should substantially increase fiscal redistribution"). Teams prepare extensive evidence files ("tubs" of printed cards) and deliver arguments at extraordinary speed — top policy debaters speak 300+ words per minute, a practice called "spreading" that fascinates and horrifies non-debaters in equal measure.
 
 **Parliamentary debate** values quick thinking over deep research. Topics are announced 15-30 minutes before the round, forcing debaters to construct arguments from general knowledge rather than prepared evidence. The format emphasizes wit, logical structure, and rhetorical skill.
 
@@ -67,15 +67,15 @@ Modern competitive debate emerged in American universities in the early 20th cen
 
 Policy debate's "spreading" tradition (speaking as fast as possible to pack more arguments into limited time) is the format's most controversial feature. Supporters argue it rewards preparation depth and argumentative breadth. Critics argue it makes debate inaccessible, prioritizes quantity over quality, and bears no resemblance to real-world persuasion.
 
-The debate about debate is itself a fascinating meta-argument about what the activity should value. Should debate train future lawyers and policymakers (favoring clarity and persuasion)? Should it be an intellectual game with its own internal logic (favoring technical mastery)? Different formats have answered this question differently, which is why multiple formats coexist.
+The debate about debate is itself a fascinating meta-argument about what the activity should value. Should debate train future lawyers and policymakers (favoring clarity and persuasion)? Should it be an intellectual game with its own internal [logic](/logic) (favoring technical mastery)? Different formats have answered this question differently, which is why multiple formats coexist.
 
 ## Debate's Impact
 
 The list of former competitive debaters is remarkable: Supreme Court Justice Sonia Sotomayor, former Secretary of State Hillary Clinton, Senator Ted Cruz, media figures like Oprah Winfrey and Karl Rove. The overrepresentation of former debaters in positions of influence suggests the activity develops something genuinely useful.
 
-Research supports the anecdotal evidence. A 2012 study found that urban debate league participants were 70% more likely to graduate from high school than matched non-participants. Debate students score higher on standardized reading and writing tests. The effect is particularly strong for students from disadvantaged backgrounds, suggesting debate can help close educational gaps.
+Research supports the anecdotal evidence. A 2012 study found that urban debate league participants were 70% more likely to graduate from high school than matched non-participants. Debate students score higher on standardized reading and [writing](/writing) tests. The effect is particularly strong for students from disadvantaged backgrounds, suggesting debate can help close educational gaps.
 
-The mechanism is probably threefold. Debate builds [critical thinking](/critical-thinking) skills directly. It creates communities and mentorship networks. And it gives students a reason to engage with academic content — when you need to understand economics to win a round, economics suddenly matters.
+The mechanism is probably threefold. Debate builds [critical thinking](/critical-thinking) skills directly. It creates communities and mentorship networks. And it gives students a reason to engage with academic content — when you need to understand [economics](/economics) to win a round, economics suddenly matters.
 
 ## Everyday Debate
 

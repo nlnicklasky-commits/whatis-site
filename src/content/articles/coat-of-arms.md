@@ -5,7 +5,7 @@ description: "A coat of arms is a heraldic design on a shield used to identify i
 category: history
 tags: ["coat of arms", "heraldry", "symbolism", "genealogy", "medieval"]
 heroImage: "/images/articles/coat-of-arms.webp"
-heroAlt: "An ornate medieval coat of arms featuring a shield with a lion and crown"
+heroAlt: "Editorial photograph representing the concept of coat of arms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Coat of Arms?
 
-A coat of arms is a distinctive heraldic design, traditionally displayed on a shield, used to identify an individual, family, institution, or nation. Governed by a system of rules called heraldry that dates back to 12th-century Europe, coats of arms were originally practical battlefield markers — a way to tell friend from enemy when everyone was wearing armor.
+A coat of arms is a distinctive heraldic design, traditionally displayed on a shield, used to identify an individual, family, institution, or nation. Governed by a system of rules called [heraldry](/heraldry) that dates back to 12th-century Europe, coats of arms were originally practical battlefield markers — a way to tell friend from enemy when everyone was wearing armor.
 
 ## How It All Started
 
@@ -47,7 +47,7 @@ The earliest surviving evidence of heraldic arms dates to the 1120s-1130s. Geoff
 
 Those specialists were heralds — officials who tracked, recorded, and regulated arms. The word "heraldry" comes directly from their job title. They were the medieval equivalent of a trademark office, ensuring that no two people used the same design.
 
-## The Anatomy of a Coat of Arms
+## The [Anatomy](/anatomy) of a Coat of Arms
 
 Most people say "coat of arms" and mean the shield with a picture on it. But technically, the full heraldic achievement includes several components, and getting the terminology right matters — at least to heraldry enthusiasts, who care about this stuff intensely.
 
@@ -81,7 +81,7 @@ Heraldic design follows its own visual language, and it's surprisingly systemati
 
 **Blazon** is the formal written description of a coat of arms, using specialized heraldic language that reads like a foreign language to outsiders. "Azure, a bend Or" means a blue shield with a diagonal gold stripe. This system evolved so that arms could be described precisely in words, without needing a picture — crucial when written records were more portable than paintings.
 
-The language of blazon is essentially Norman French frozen in the 12th century. That's why gold is "Or" (from French *or*), red is "Gules" (possibly from the French *gueules*, meaning throats), and blue is "Azure" (from Arabic *lazaward*, which came to French via the lapis lazuli trade). It's a linguistic [map](/cartography) of medieval trade and cultural exchange.
+The language of blazon is essentially Norman French frozen in the 12th century. That's why gold is "Or" (from French *or*), red is "Gules" (possibly from the French *gueules*, meaning throats), and blue is "Azure" (from Arabic *lazaward*, which came to French via the lapis lazuli [trade](/trade)). It's a linguistic [map](/cartography) of medieval trade and cultural exchange.
 
 ## Heraldry Beyond Europe
 
@@ -99,11 +99,11 @@ You might assume heraldry died out with the Middle Ages. It didn't. It just chan
 
 In England and Scotland, heraldry is still legally regulated. The College of Arms in London, established in 1484, continues to grant new arms. The Court of the Lord Lyon in Scotland has even stronger powers — using someone else's arms without permission is technically a criminal offense under Scottish law. Around 200 new grants of arms are issued annually in England.
 
-National arms are used on passports, government buildings, and official documents. Corporate heraldry — logos and emblems that follow heraldic conventions — remains common for universities, law firms, and organizations wanting to project tradition and authority. The shields of Oxford and Cambridge are genuine heraldic arms, not just logos.
+National arms are used on passports, [government](/government) buildings, and official documents. Corporate heraldry — logos and emblems that follow heraldic conventions — remains common for universities, law firms, and organizations wanting to project tradition and authority. The shields of Oxford and Cambridge are genuine heraldic arms, not just logos.
 
-Cities, states, and organizations worldwide maintain heraldic [traditions](/comparative-religion) in their official emblems. The Vatican's coat of arms (crossed keys beneath a papal tiara) is one of the most recognized symbols on earth. Every Canadian province has official arms granted by the Canadian Heraldic Authority, established in 1988.
+Cities, states, and organizations worldwide maintain heraldic [traditions](/comparative-[religion](/religion)) in their official emblems. The Vatican's coat of arms (crossed keys beneath a papal tiara) is one of the most recognized symbols on earth. Every Canadian province has official arms granted by the Canadian Heraldic Authority, established in 1988.
 
-## The Genealogy Connection
+## The [Genealogy](/genealogy) Connection
 
 One of the most common reasons people encounter heraldry today is through genealogy. You search for your family name online and immediately find companies selling "your family coat of arms" on plaques, mugs, and t-shirts. Here's the thing: these are almost always misleading.
 

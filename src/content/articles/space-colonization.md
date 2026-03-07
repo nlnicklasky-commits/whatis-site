@@ -5,7 +5,7 @@ description: "Space colonization is the idea of establishing permanent human set
 category: technology
 tags: ["space colonization", "space exploration", "Mars", "space habitat", "aerospace", "astronomy"]
 heroImage: "/images/articles/space-colonization.webp"
-heroAlt: "A conceptual illustration of a domed colony on Mars with habitation modules and greenhouses under a reddish sky"
+heroAlt: "Editorial photograph representing the concept of space colonization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ faq:
 
 Space colonization is the proposed establishment of permanent, self-sustaining human communities beyond Earth — on other planets, moons, asteroids, or in free-floating space habitats. It represents one of the most ambitious goals in human history: transforming our species from a single-planet civilization into a multi-world one.
 
-As of now, zero humans live permanently off Earth. But the idea has moved from pure science fiction to serious engineering discussion, with multiple government agencies and private companies actively developing the hardware to make it possible.
+As of now, zero humans live permanently off Earth. But the idea has moved from pure [science fiction](/science-fiction) to serious engineering discussion, with multiple government agencies and private companies actively developing the hardware to make it possible.
 
 ## Why Leave Earth at All?
 
@@ -119,7 +119,7 @@ Not all colonization proposals involve planetary surfaces. Gerard O'Neill, a Pri
 
 O'Neill's design envisioned enormous rotating cylinders — 8 kilometers in diameter and 32 kilometers long — that would spin to create artificial gravity on their inner surfaces. Inhabitants would live on the inside of the cylinder, looking "up" at the opposite side of the habitat through a transparent atmosphere.
 
-Such structures could be placed at gravitationally stable Lagrange points (like L5, between Earth and the Moon) and built from materials mined on the Moon or asteroids. They'd have controlled environments — perfect weather, no natural disasters, adjustable gravity.
+Such structures could be placed at gravitationally stable Lagrange points (like L5, between Earth and the Moon) and built from materials mined on the Moon or asteroids. They'd have controlled environments — perfect weather, no [natural disasters](/natural-disasters), adjustable gravity.
 
 The engineering challenges are staggering: the mass of such a cylinder, radiation shielding, structural integrity under rotation, and the sheer scale of construction. But the physics works. O'Neill's calculations showed that the structural loads are within the capability of existing materials like steel and titanium.
 
@@ -157,7 +157,7 @@ Current space law wasn't designed for permanent settlements. It was designed for
 
 Isolation studies — including Mars simulation experiments like NASA's HI-SEAS and ESA's Mars500 — consistently show psychological deterioration in small groups confined to limited spaces for extended periods. Depression, interpersonal conflict, sleep disruption, and cognitive decline are common.
 
-A Mars colony would face these challenges permanently, with no option to "go home." Early colonists would need extraordinary psychological resilience, and colony design would need to prioritize mental health through architectural variety, natural light simulation, private spaces, and meaningful work.
+A Mars colony would face these challenges permanently, with no option to "go home." Early colonists would need extraordinary psychological resilience, and colony design would need to prioritize [mental health](/mental-health) through architectural variety, natural light simulation, private spaces, and meaningful work.
 
 ### Population Genetics
 
@@ -181,4 +181,4 @@ Space colonization forces a question that sounds philosophical but is actually v
 
 The answer isn't predetermined. It depends on whether we're willing to spend the money, develop the technology, and accept the risks. The physics allows it. The engineering is hard but tractable. The biology is uncertain. The economics are unfavorable in the short term. The politics are complicated.
 
-But so was crossing the Atlantic in a wooden ship. So was building a railroad across a continent. So was flying. Every great expansion in human geography seemed impossible until it wasn't. Space colonization might follow the same pattern — or it might not. The only way to find out is to try.
+But so was crossing the Atlantic in a wooden ship. So was building a railroad across a continent. So was flying. Every great expansion in [human geography](/human-geography) seemed impossible until it wasn't. Space colonization might follow the same pattern — or it might not. The only way to find out is to try.

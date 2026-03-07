@@ -5,7 +5,7 @@ description: "Chemical engineering applies chemistry, physics, math, and biology
 category: technology
 tags: ["chemical engineering", "engineering", "chemistry", "process design", "manufacturing", "industry", "science"]
 heroImage: "/images/articles/chemical-engineering-hero.webp"
-heroAlt: "Industrial chemical processing plant with distillation towers and piping systems"
+heroAlt: "Editorial photograph representing the concept of chemical engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ The concept of "unit operations" — the idea that chemical processes can be bro
 
 ### Reactors
 
-The reactor is where the chemistry happens — where raw materials are converted into products. Chemical engineers design reactors by considering reaction kinetics (how fast), thermodynamics (how far), heat transfer (how hot), and mass transfer (how well mixed).
+The reactor is where the chemistry happens — where raw materials are converted into products. Chemical engineers design reactors by considering reaction kinetics (how fast), [thermodynamics](/thermodynamics) (how far), heat transfer (how hot), and mass transfer (how well mixed).
 
 **Batch reactors** process one batch at a time — like a giant cooking pot. Pharmaceuticals and specialty chemicals are often made in batch reactors because each batch can be tested for quality before moving on.
 
@@ -63,7 +63,7 @@ The reactor is where the chemistry happens — where raw materials are converted
 
 **Fluidized bed reactors** suspend solid catalyst particles in an upward-flowing gas or liquid stream. The particles "float" in the fluid, creating excellent mixing and heat transfer. Catalytic cracking of petroleum — the process that produces gasoline from crude oil — uses fluidized bed reactors processing millions of barrels daily.
 
-Reactor design involves simultaneous solution of differential equations describing reaction rates, heat transfer, fluid flow, and mass transfer. Modern simulation software handles the mathematics, but understanding the underlying physics is what lets engineers set up the problems correctly.
+Reactor design involves simultaneous solution of [differential equations](/differential-equations) describing reaction rates, heat transfer, fluid flow, and mass transfer. Modern simulation software handles the mathematics, but understanding the underlying physics is what lets engineers set up the problems correctly.
 
 ### Separation Processes
 
@@ -169,11 +169,11 @@ Circular economy principles challenge the linear "extract, make, dispose" model.
 
 Biological processes — fermentation, enzyme catalysis, cell culture — are increasingly competing with traditional chemical processes. Producing chemicals from sugar instead of petroleum, growing meat from cell cultures instead of animals, and manufacturing spider silk from engineered bacteria are all bioprocess engineering challenges.
 
-Synthetic biology — designing biological systems with engineered functions — creates new substrates for chemical engineers. When you can engineer a microorganism to produce any molecule you want, the bottleneck shifts from chemistry to process engineering: how do you grow, feed, harvest, and purify at scale?
+[Synthetic biology](/synthetic-biology) — designing biological systems with engineered functions — creates new substrates for chemical engineers. When you can engineer a microorganism to produce any molecule you want, the bottleneck shifts from chemistry to [process engineering](/process-engineering): how do you grow, feed, harvest, and purify at scale?
 
 ### Advanced Materials
 
-Semiconductor manufacturing, battery production, 3D printing materials, and nanomaterials all require chemical engineering. Semiconductor fabs — where computer chips are made — are among the most sophisticated chemical processing plants ever built, with chemical vapor deposition, plasma etching, photolithography, and ultra-pure chemical handling.
+Semiconductor manufacturing, battery production, 3D printing materials, and nanomaterials all require chemical engineering. Semiconductor fabs — where computer chips are made — are among the most sophisticated chemical processing plants ever built, with chemical vapor deposition, plasma etching, [photolithography](/photolithography), and ultra-pure chemical handling.
 
 [Aerospace engineering](/aerospace-engineering) relies on chemical engineers to develop advanced composites, high-temperature ceramics, and specialized coatings. The heat shield on a spacecraft is a chemical engineering product — designed to ablate in a controlled manner, absorbing heat through endothermic decomposition.
 

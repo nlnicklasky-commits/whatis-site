@@ -5,7 +5,7 @@ description: "Latin is the ancient language of Rome that shaped Western civiliza
 category: everyday-concepts
 tags: ["Latin language", "ancient Rome", "linguistics", "Romance languages", "classical education"]
 heroImage: "/images/articles/latin-language.webp"
-heroAlt: "Ancient Roman inscription carved in stone with Latin capital letters"
+heroAlt: "Editorial photograph representing the concept of the latin language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is the Latin Language?
 
-Latin is the language of ancient Rome — originally spoken by a small community in central Italy around the 7th century BCE, eventually carried by Roman legions and administrators across an empire stretching from Britain to Egypt, and now the ancestor of languages spoken by over 900 million people. It is technically dead (nobody grows up speaking it natively), but its influence on Western languages, law, science, medicine, and religion is so pervasive that you use Latin-derived words every time you speak English.
+Latin is the language of ancient Rome — originally spoken by a small community in central Italy around the 7th century BCE, eventually carried by Roman legions and administrators across an empire stretching from Britain to Egypt, and now the ancestor of languages spoken by over 900 million people. It is technically dead (nobody grows up speaking it natively), but its influence on Western languages, law, science, medicine, and [religion](/religion) is so pervasive that you use Latin-derived words every time you speak English.
 
 ## The Life of Latin
 
@@ -39,13 +39,13 @@ Latin evolved through several distinct phases:
 
 **Old Latin** (7th-1st century BCE) — the early, rougher form preserved in inscriptions and a few surviving texts. Think of it as Latin's adolescence — recognizable but not polished.
 
-**Classical Latin** (1st century BCE - 2nd century CE) — the literary language of Cicero, Virgil, Caesar, Ovid, and the golden age of Roman literature. This is the Latin taught in most schools. Classical Latin was formal, highly structured, and grammatically complex — the language of oratory, philosophy, and poetry.
+**Classical Latin** (1st century BCE - 2nd century CE) — the literary language of Cicero, Virgil, Caesar, Ovid, and the golden age of Roman [literature](/literature). This is the Latin taught in most schools. Classical Latin was formal, highly structured, and grammatically complex — the language of oratory, [philosophy](/philosophy), and poetry.
 
-**Vulgar Latin** — not vulgar in the modern sense. *Vulgaris* means "common" or "of the people." This was the everyday spoken Latin of soldiers, merchants, and ordinary citizens. It differed from Classical Latin the way spoken English differs from formal written English — simpler grammar, different vocabulary, regional variations. Vulgar Latin is the direct ancestor of the Romance languages.
+**Vulgar Latin** — not vulgar in the modern sense. *Vulgaris* means "common" or "of the people." This was the everyday spoken Latin of soldiers, merchants, and ordinary citizens. It differed from Classical Latin the way spoken English differs from formal written English — simpler grammar, different vocabulary, regional variations. Vulgar Latin is the direct ancestor of the [Romance languages](/romance-languages).
 
 **Medieval Latin** (5th-15th century) — the language of the Catholic Church, universities, and intellectual life throughout the Middle Ages. Medieval Latin absorbed vocabulary from Germanic and other languages and developed new terminology for Christian theology, philosophy, and science. Nearly all European scholarship for a thousand years was written in Latin.
 
-**New Latin** (15th-19th century) — used for scientific nomenclature and academic publishing. Carl Linnaeus wrote his entire classification of living things in Latin. Isaac Newton published his *Principia Mathematica* in Latin. Scientific naming conventions still use Latin (or Latinized Greek) today.
+**New Latin** (15th-19th century) — used for scientific nomenclature and academic [publishing](/publishing). Carl Linnaeus wrote his entire classification of living things in Latin. Isaac Newton published his *Principia Mathematica* in Latin. Scientific naming conventions still use Latin (or Latinized Greek) today.
 
 ## How Latin Works
 
@@ -61,7 +61,7 @@ This inflection system is what makes Latin challenging for English speakers (who
 
 ## Latin's Afterlife
 
-Latin did not simply die — it transformed. As the Western Roman Empire collapsed in the 5th century, the Latin spoken in different regions drifted apart. Separated by geography, politics, and time, the spoken Latin of Gaul became French, the Latin of Hispania became Spanish, the Latin of Italia became Italian, the Latin of Lusitania became Portuguese, and the Latin of Dacia became Romanian.
+Latin did not simply die — it transformed. As the Western Roman Empire collapsed in the 5th century, the Latin spoken in different regions drifted apart. Separated by [geography](/geography), [politics](/politics), and time, the spoken Latin of Gaul became French, the Latin of Hispania became Spanish, the Latin of Italia became Italian, the Latin of Lusitania became Portuguese, and the Latin of Dacia became Romanian.
 
 These Romance languages retain Latin's core vocabulary and many of its grammatical features. Spanish *agua*, French *eau*, Italian *acqua*, Portuguese *agua*, and Romanian *apă* all descend from Latin *aqua* (water). If you know Latin, you can read basic texts in any Romance language with surprisingly little study.
 
@@ -71,11 +71,11 @@ English is a Germanic language, not a Romance language. But Latin has colonized 
 
 **The Roman occupation of Britain** (43-410 CE) left Latin words in Old English: *street* (strata), *wall* (vallum), *camp* (campus).
 
-**The Norman Conquest** (1066) brought thousands of French (and therefore Latin-derived) words into English: *government*, *justice*, *parliament*, *cathedral*, *marriage*.
+**The Norman Conquest** (1066) brought thousands of French (and therefore Latin-derived) words into English: *[government](/government)*, *justice*, *parliament*, *cathedral*, *marriage*.
 
-**Renaissance scholarship** imported Latin terms directly: *education*, *demonstrate*, *evaluate*, *concept*.
+**Renaissance scholarship** imported Latin terms directly: *[education](/education)*, *demonstrate*, *evaluate*, *concept*.
 
-**Scientific and medical terminology** is overwhelmingly Latin or Latinized Greek: *virus*, *diagnosis*, *stimulus*, *fungus*, *hypothesis*.
+**Scientific and [medical terminology](/medical-terminology)** is overwhelmingly Latin or Latinized Greek: *virus*, *diagnosis*, *stimulus*, *fungus*, *hypothesis*.
 
 The result: roughly 60% of English vocabulary has Latin origins. In academic and professional writing, the percentage is even higher. When you say "The president of the university demonstrated his resolve to evaluate the situation," every noun, verb, and adjective in that sentence comes from Latin.
 

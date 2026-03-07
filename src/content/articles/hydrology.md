@@ -5,7 +5,7 @@ description: "Hydrology is the science of water movement through Earth's systems
 category: science
 tags: ["hydrology", "water cycle", "water resources", "environmental science", "precipitation", "groundwater", "flood management"]
 heroImage: "/images/articles/hydrology-hero.webp"
-heroAlt: "River flowing through a mountainous valley illustrating the water cycle and hydrology"
+heroAlt: "Editorial photograph representing the concept of hydrology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -105,7 +105,7 @@ Hydrology depends on measurement. You can't manage what you can't quantify.
 
 A stream gauge is deceptively simple: a sensor that measures water level (stage) at a specific point in a river. But translating stage into flow requires a "rating curve" — a relationship between water height and discharge that hydrologists develop through repeated measurements at different flow levels.
 
-Modern gauges transmit data via satellite in near-real-time, feeding into flood warning systems and water management models. During Hurricane Harvey in 2017, USGS stream gauges provided critical data that guided evacuation decisions for millions of people in Houston.
+Modern gauges transmit data via satellite in near-real-time, feeding into flood warning systems and [water management](/water-management) models. During Hurricane Harvey in 2017, USGS stream gauges provided critical data that guided evacuation decisions for millions of people in Houston.
 
 ### Weather Radar and Remote Sensing
 
@@ -197,7 +197,7 @@ The most widely used models include HEC-HMS (developed by the U.S. Army Corps of
 
 These models require enormous amounts of input data — topography, soil properties, land cover, weather data, stream channel geometry — and they produce outputs only as good as their inputs. The old computing maxim "garbage in, garbage out" applies with full force.
 
-Machine learning is increasingly supplementing traditional physics-based models. Neural networks trained on historical data can sometimes outperform conventional models for specific prediction tasks, particularly flood forecasting. But they lack the physical interpretability of process-based models — they can tell you what will happen without explaining why.
+Machine learning is increasingly supplementing traditional physics-based models. [Neural networks](/neural-networks) trained on historical data can sometimes outperform conventional models for specific prediction tasks, particularly flood forecasting. But they lack the physical interpretability of process-based models — they can tell you what will happen without explaining why.
 
 ### Real-Time Data Systems
 
@@ -237,7 +237,7 @@ Several trends are shaping hydrology's future.
 
 **Data abundance**: Satellite constellations, IoT sensors, and citizen science networks are generating more hydrological data than ever before. The challenge is shifting from data scarcity to data management and interpretation.
 
-**Interdisciplinary integration**: Water problems don't respect disciplinary boundaries. Modern hydrology increasingly integrates with [economics](/economics), social science, public health, and [ecology](/ecology) to address water challenges in their full complexity.
+**Interdisciplinary integration**: Water problems don't respect disciplinary boundaries. Modern hydrology increasingly integrates with [economics](/economics), social science, [public health](/public-health), and [ecology](/ecology) to address water challenges in their full complexity.
 
 **Climate adaptation**: As climate change accelerates, hydrologists are central to adaptation planning — redesigning infrastructure, revising flood maps, developing drought contingency plans, and rethinking water allocation frameworks.
 

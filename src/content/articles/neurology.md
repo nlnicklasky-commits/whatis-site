@@ -5,7 +5,7 @@ description: "Neurology is the medical specialty that treats disorders of the br
 category: health-amp-wellness
 tags: ["neurology", "neurological disorders", "brain", "nervous system"]
 heroImage: "/images/articles/neurology.webp"
-heroAlt: "Illustration of the human brain with neural pathways and synaptic connections highlighted"
+heroAlt: "Editorial photograph representing the concept of neurology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -73,15 +73,15 @@ Epilepsy is a condition characterized by recurrent seizures — episodes of abno
 
 Seizures vary enormously. A grand mal (tonic-clonic) seizure involves loss of consciousness, muscle rigidity, and convulsions. An absence seizure might look like a brief staring spell lasting a few seconds. Some seizures produce strange sensations, involuntary movements, or altered awareness without convulsions.
 
-About two-thirds of epilepsy patients can control their seizures with medication. For the remaining third, options include surgery (removing the brain region where seizures originate), vagus nerve stimulation, and dietary approaches like the ketogenic diet, which has surprisingly good evidence for drug-resistant epilepsy.
+About two-thirds of epilepsy patients can control their seizures with medication. For the remaining third, options include [surgery](/surgery) (removing the brain region where seizures originate), vagus nerve stimulation, and dietary approaches like the ketogenic diet, which has surprisingly good evidence for drug-resistant epilepsy.
 
 ### Alzheimer's Disease and Dementia
 
-Dementia is an umbrella term for progressive cognitive decline severe enough to interfere with daily life. Alzheimer's disease is the most common type, accounting for 60-80% of dementia cases. It kills brain cells through the accumulation of abnormal proteins — amyloid plaques and tau tangles — that disrupt neural communication and eventually destroy the neurons themselves.
+Dementia is an umbrella term for progressive cognitive decline severe enough to interfere with daily life. Alzheimer's disease is the most common type, [accounting](/accounting) for 60-80% of dementia cases. It kills brain cells through the accumulation of abnormal proteins — amyloid plaques and tau tangles — that disrupt neural communication and eventually destroy the neurons themselves.
 
 About 6.9 million Americans over age 65 are living with Alzheimer's as of 2024. The number is projected to nearly double by 2050 as the population ages. There is currently no cure. Medications can temporarily slow symptom progression for some patients, and newer anti-amyloid antibody drugs (lecanemab, donanemab) show modest benefit in early-stage disease, though their long-term impact is still being evaluated.
 
-The honest truth about Alzheimer's treatment in 2025: we've made more progress understanding the disease than treating it. The gap between what we know about the biology and what we can actually do for patients remains frustratingly wide.
+The honest truth about Alzheimer's treatment in 2025: we've made more progress understanding the disease than treating it. The gap between what we know about the [biology](/biology) and what we can actually do for patients remains frustratingly wide.
 
 ### Parkinson's Disease
 
@@ -95,7 +95,7 @@ Levodopa, a drug that the brain converts into dopamine, has been the primary tre
 
 MS is an autoimmune disease in which the immune system attacks myelin — the insulating sheath around nerve fibers in the brain and spinal cord. Without myelin, nerve signals slow down or fail entirely, producing symptoms that depend on which nerves are affected: vision problems, numbness, weakness, fatigue, balance issues, and cognitive difficulties.
 
-About 2.8 million people worldwide have MS. It's typically diagnosed between ages 20 and 40, and it affects women roughly three times more often than men. The cause is unknown, though genetics, vitamin D levels, and possibly viral infections (particularly Epstein-Barr virus) seem to contribute.
+About 2.8 million people worldwide have MS. It's typically diagnosed between ages 20 and 40, and it affects women roughly three times more often than men. The cause is unknown, though [genetics](/genetics), vitamin D levels, and possibly viral infections (particularly Epstein-Barr virus) seem to contribute.
 
 Treatment has improved dramatically since the 1990s. Disease-modifying therapies can reduce relapse frequency by 50-70% and slow disability progression. Earlier and more aggressive treatment generally produces better long-term outcomes.
 
@@ -103,7 +103,7 @@ Treatment has improved dramatically since the 1990s. Disease-modifying therapies
 
 Migraine is not "just a headache." It's a neurological condition affecting about 12% of the global population — roughly one billion people. A migraine attack can include severe, throbbing head pain (usually one-sided), nausea, vomiting, sensitivity to light and sound, and visual disturbances called aura (flashing lights, zigzag lines, blind spots).
 
-Attacks can last 4-72 hours and be completely disabling. Chronic migraine — defined as 15 or more headache days per month — affects about 2% of the global population and is a major cause of lost work productivity.
+Attacks can last 4-72 hours and be completely disabling. Chronic migraine — defined as 15 or more headache days per month — affects about 2% of the global population and is a major cause of lost work [productivity](/productivity).
 
 Treatment includes acute medications (triptans, gepants, ditans) to stop an attack in progress and preventive medications to reduce attack frequency. The introduction of CGRP (calcitonin gene-related peptide) inhibitors since 2018 has been a genuine breakthrough — these were the first preventive treatments designed specifically for migraine based on understanding of its underlying biology.
 
@@ -129,11 +129,11 @@ Imaging and testing tools include:
 
 ## The Future of Neurology
 
-Neuroscience is arguably the most active frontier in medicine right now. Some areas to watch:
+[Neuroscience](/neuroscience) is arguably the most active frontier in medicine right now. Some areas to watch:
 
 **Gene therapy** for neurological diseases is moving from lab to clinic. FDA-approved gene therapies already exist for spinal muscular atrophy. Trials are underway for Huntington's disease, ALS subtypes, and certain forms of epilepsy.
 
-**Brain-computer interfaces** — devices that translate neural signals into commands for computers or prosthetics — are being tested in paralyzed patients. Companies like Neuralink and academic groups at Brown University and the University of Pittsburgh have demonstrated systems that allow paralyzed individuals to control cursors, robotic arms, and communication devices with their thoughts.
+**Brain-computer interfaces** — devices that translate neural signals into commands for computers or [prosthetics](/prosthetics) — are being tested in paralyzed patients. Companies like Neuralink and academic groups at Brown University and the University of Pittsburgh have demonstrated systems that allow paralyzed individuals to control cursors, robotic arms, and communication devices with their thoughts.
 
 **Precision medicine** is beginning to reach neurology. Genetic testing can now identify patients with specific mutations who are most likely to benefit from targeted treatments — particularly in epilepsy and certain neurodegenerative diseases.
 

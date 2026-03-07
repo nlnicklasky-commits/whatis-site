@@ -5,7 +5,7 @@ description: "Urban farming is growing food in cities using rooftops, vacant lot
 category: everyday-concepts
 tags: ["urban farming", "agriculture", "city gardening", "food production", "sustainability", "community"]
 heroImage: "/images/articles/urban-farming.webp"
-heroAlt: "Raised garden beds full of vegetables on a city rooftop with a skyline in the background"
+heroAlt: "Editorial photograph representing the concept of urban farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Urban Farming?
 
-Urban farming is the practice of growing food and raising animals within city boundaries. It happens on rooftops, in vacant lots, inside old warehouses, on balconies, and in community gardens — basically anywhere someone can create growing conditions in an otherwise concrete environment. It's agriculture adapted to the city rather than the countryside.
+Urban farming is the practice of growing food and raising animals within city boundaries. It happens on rooftops, in vacant lots, inside old warehouses, on balconies, and in community gardens — basically anywhere someone can create growing conditions in an otherwise concrete environment. It's [agriculture](/agriculture) adapted to the city rather than the countryside.
 
 ## Why Grow Food in Cities?
 
@@ -41,7 +41,7 @@ The question seems backward at first. Farming in cities, where land is expensive
 
 **Freshness.** The average item in an American grocery store has traveled about 1,500 miles from farm to shelf. Lettuce grown on a rooftop three blocks away reaches your plate the same day it's picked. The taste difference is not subtle.
 
-**Environmental footprint.** Urban farming reduces transportation emissions, can repurpose waste materials (compost from food scraps, rainwater for irrigation), and converts unused urban land into productive green space. A vacant lot growing vegetables absorbs stormwater, reduces heat island effects, and sequesters carbon.
+**Environmental footprint.** Urban farming reduces transportation emissions, can repurpose waste materials (compost from food scraps, rainwater for [irrigation](/irrigation)), and converts unused urban land into productive green space. A vacant lot growing vegetables absorbs stormwater, reduces heat island effects, and sequesters carbon.
 
 **Community.** This one's harder to quantify but consistently shows up in research. Community gardens strengthen neighborhood connections, reduce crime rates in surrounding areas (multiple studies confirm this), and give people — especially in dense urban environments — a reason to be outdoors and working with their hands.
 
@@ -65,29 +65,29 @@ Growing plants in nutrient-rich water solutions rather than soil allows year-rou
 
 The numbers are striking. A vertical farm can produce 350 times more food per square foot than a conventional farm. AeroFarms, based in Newark, New Jersey, produces over 2 million pounds of greens annually in a 70,000-square-foot former steel mill.
 
-The catch: energy costs are enormous. Running thousands of LED lights and climate control systems makes vertical farming energy-intensive. It currently makes economic sense mainly for high-value, fast-growing crops like lettuce, basil, and microgreens — not for corn, wheat, or potatoes.
+The catch: energy costs are enormous. [Running](/running) thousands of LED lights and climate control systems makes vertical farming energy-intensive. It currently makes economic sense mainly for high-value, fast-growing crops like lettuce, basil, and microgreens — not for corn, wheat, or potatoes.
 
 ### Aquaponics
 
-This combines fish farming (aquaculture) with hydroponics. Fish waste provides nutrients for plants; plants filter the water for the fish. It's a closed-loop system that produces both protein and vegetables.
+This combines [fish farming](/fish-farming) ([aquaculture](/aquaculture)) with hydroponics. Fish waste provides nutrients for plants; plants filter the water for the fish. It's a closed-loop system that produces both protein and vegetables.
 
 Growing Power, founded by Will Allen in Milwaukee, was a pioneering urban aquaponics operation that grew tilapia, perch, lettuce, and herbs in interconnected systems within a former industrial lot. The concept has since spread worldwide.
 
 ## The Challenges Nobody Glosses Over
 
-**Land access.** Urban land is expensive, and farming generates far less revenue per square foot than real estate development. Many urban farms operate on temporarily available land — vacant lots awaiting development — and can be displaced when property values rise. Zoning regulations in many cities weren't designed for agriculture and can restrict what's allowed.
+**Land access.** Urban land is expensive, and farming generates far less revenue per square foot than [real estate development](/real-estate-development). Many urban farms operate on temporarily available land — vacant lots awaiting development — and can be displaced when property values rise. Zoning regulations in many cities weren't designed for agriculture and can restrict what's allowed.
 
-**Contamination.** Decades of industrial activity, leaded gasoline, and construction have left urban soil laced with contaminants. Soil testing is non-negotiable, and remediation or avoidance (through raised beds and imported soil) adds cost.
+**Contamination.** Decades of industrial activity, leaded gasoline, and [construction](/construction) have left urban soil laced with contaminants. Soil testing is non-negotiable, and remediation or avoidance (through raised beds and imported soil) adds cost.
 
 **Scale limitations.** Urban farms produce fresh vegetables, herbs, and some fruits beautifully. They're not replacing the commodity crops — grains, oilseeds, feed corn — that form the caloric foundation of the food system. Anyone claiming urban farming will "replace" conventional agriculture isn't being realistic.
 
-**Labor.** Farming is physical work, and urban farmers often lack the mechanization available to rural operations. Hand-harvesting, composting, watering, and maintenance require consistent labor that volunteer-dependent operations struggle to maintain.
+**Labor.** Farming is physical work, and urban farmers often lack the mechanization available to rural operations. Hand-harvesting, [composting](/composting), watering, and maintenance require consistent labor that volunteer-dependent operations struggle to maintain.
 
 ## The Policy Angle
 
 Cities that actively support urban farming tend to see more of it. Policy tools that work include tax incentives for landowners who allow agricultural use, zoning reforms that permit farming in residential and commercial zones, grants for startup costs, and guaranteed water access.
 
-The 2018 U.S. Farm Bill included urban agriculture provisions for the first time, creating an Office of Urban Agriculture within the USDA and providing $25 million annually for competitive grants. This was a significant signal that federal policymakers recognize urban food production as legitimate agriculture rather than a gardening hobby.
+The 2018 U.S. Farm Bill included urban agriculture provisions for the first time, creating an Office of Urban Agriculture within the USDA and providing $25 million annually for competitive grants. This was a significant signal that federal policymakers recognize urban food production as legitimate agriculture rather than a [gardening](/gardening) hobby.
 
 ## Getting Started
 

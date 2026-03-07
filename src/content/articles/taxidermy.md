@@ -5,7 +5,7 @@ description: "Taxidermy is the art of preserving and mounting animal specimens t
 category: everyday-concepts
 tags: ["taxidermy", "animal preservation", "specimen", "mounting", "craft", "natural history"]
 heroImage: "/images/articles/taxidermy.webp"
-heroAlt: "A taxidermied deer head mounted on a wooden wall with realistic detail"
+heroAlt: "Editorial photograph representing the concept of taxidermy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Taxidermy is the art and science of preserving an animal's body by mounting its skin over an artificial form to create a lifelike representation. The word comes from the Greek *taxis* (arrangement) and *derma* (skin) — literally, the arrangement of skin.
 
-Done poorly, taxidermy produces those stiff, glassy-eyed mounts that look slightly wrong in a way you can't quite articulate. Done well, it creates specimens so convincingly lifelike that visitors to natural history museums do double-takes, unable to believe the animal isn't about to move.
+Done poorly, taxidermy produces those stiff, glassy-eyed mounts that look slightly wrong in a way you can't quite articulate. Done well, it creates specimens so convincingly lifelike that visitors to [natural history](/natural-history) museums do double-takes, unable to believe the animal isn't about to move.
 
 ## How It Works
 
@@ -51,11 +51,11 @@ Detailed reference — photographs, measurements, and anatomical knowledge — i
 
 ### Mounting
 
-The treated skin is fitted over the form and secured with pins, adhesive, and stitching. This is where artistry matters most. The taxidermist must position the skin so that every muscle contour, wrinkle, and detail appears natural. The eyes (glass or acrylic prosthetics), nose, and mouth receive special attention — these are where the viewer's gaze goes first, and any imperfection is immediately obvious.
+The treated skin is fitted over the form and secured with pins, adhesive, and stitching. This is where artistry matters most. The taxidermist must position the skin so that every muscle contour, wrinkle, and detail appears natural. The eyes (glass or acrylic [prosthetics](/prosthetics)), nose, and mouth receive special attention — these are where the viewer's gaze goes first, and any imperfection is immediately obvious.
 
 ### Finishing
 
-Painting, grooming, and final detailing bring the mount to life. Nostrils, lips, and eye areas often need color applied with airbrush. The habitat setting — rocks, branches, artificial snow or water — provides context and conceals the mounting hardware.
+[Painting](/painting), grooming, and final detailing bring the mount to life. Nostrils, lips, and eye areas often need color applied with airbrush. The habitat setting — rocks, branches, artificial snow or water — provides context and conceals the mounting hardware.
 
 ## A Brief History
 
@@ -67,7 +67,7 @@ Carl Akeley (1864-1926) revolutionized the field. Working at the Field Museum in
 
 ### Natural History Museums
 
-Museum taxidermy is the most publicly visible application. Institutions like the Smithsonian, the American Museum of Natural History, and the Natural History Museum in London contain tens of thousands of mounted specimens. These displays serve both education and conservation — many mounted animals represent species that are now rare or [extinct](/conservation-biology).
+Museum taxidermy is the most publicly visible application. Institutions like the Smithsonian, the American Museum of Natural History, and the Natural History Museum in London contain tens of thousands of mounted specimens. These displays serve both [education](/education) and conservation — many mounted animals represent species that are now rare or [extinct](/conservation-[biology](/biology)).
 
 ### Scientific Research
 
@@ -89,6 +89,6 @@ Proponents argue that taxidermy connects people with [nature](/zoology) in a way
 
 Critics argue that trophy hunting and collecting create demand that threatens wild populations, and that displaying dead animals normalizes a problematic relationship with the natural world.
 
-The field itself has evolved. Modern taxidermists emphasize ethical sourcing — using animals that died naturally, were legally harvested, or were obtained from pest control and wildlife management programs. Many refuse to work with protected species under any circumstances.
+The field itself has evolved. Modern taxidermists emphasize ethical sourcing — using animals that died naturally, were legally harvested, or were obtained from pest control and [wildlife management](/wildlife-management) programs. Many refuse to work with protected species under any circumstances.
 
 Whatever your view, taxidermy remains a living craft that combines art, science, and an intimate understanding of animal anatomy in a way no other discipline does.

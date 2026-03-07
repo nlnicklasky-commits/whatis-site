@@ -5,7 +5,7 @@ description: "Aesthetics is the branch of philosophy studying beauty, taste, and
 category: philosophy
 tags: ["aesthetics", "philosophy", "art", "beauty", "taste", "philosophy of art", "art criticism"]
 heroImage: "/images/articles/aesthetics-hero.webp"
-heroAlt: "Classical painting detail showing vibrant colors and brushwork symbolizing the study of beauty"
+heroAlt: "Editorial photograph representing the concept of aesthetics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -65,7 +65,7 @@ Aristotle also introduced ideas about formal beauty. Things are beautiful, he su
 
 ### Eastern Traditions
 
-Western philosophy doesn't own aesthetics. Indian aesthetic theory, particularly *rasa*—a concept from Bharata Muni's *Natyashastra* (dated somewhere between 200 BCE and 200 CE)—offers a sophisticated framework for understanding emotional responses to art. Rasa identifies nine fundamental emotional flavors that art can evoke, from love (*shringara*) to peace (*shanta*). The idea is that great art doesn't just represent emotions—it generates them in the audience through specific techniques.
+[Western philosophy](/western-philosophy) doesn't own aesthetics. Indian aesthetic theory, particularly *rasa*—a concept from Bharata Muni's *Natyashastra* (dated somewhere between 200 BCE and 200 CE)—offers a sophisticated framework for understanding emotional responses to art. Rasa identifies nine fundamental emotional flavors that art can evoke, from love (*shringara*) to peace (*shanta*). The idea is that great art doesn't just represent emotions—it generates them in the audience through specific techniques.
 
 Chinese aesthetics, rooted in Confucian and Daoist thought, emphasizes harmony between humans and nature. The concept of *qi yun* (spirit resonance) in painting, articulated by Xie He around 500 CE, suggests that great art captures a living energy rather than just depicting surfaces. Japanese aesthetics gave us *wabi-sabi*—the beauty found in imperfection, impermanence, and incompleteness. A cracked tea bowl isn't damaged. It's more beautiful *because* of the crack.
 
@@ -149,7 +149,7 @@ The biggest subfield still asks the classic questions. What is art? What makes a
 
 This growing field studies our aesthetic responses to natural environments and everyday surroundings. Allen Carlson's work argues that appreciating nature properly requires scientific knowledge—you see a glacier differently when you understand the geological forces that created it. Emily Brady counters that imagination is enough.
 
-Environmental aesthetics also feeds directly into urban planning and architecture. Studies from the University of Virginia (2019) found that people in neighborhoods they rated as aesthetically pleasing reported 27% higher life satisfaction than those in visually degraded areas. Beauty isn't a luxury in city design—it affects mental health.
+Environmental aesthetics also feeds directly into [urban planning](/urban-planning) and architecture. Studies from the University of Virginia (2019) found that people in neighborhoods they rated as aesthetically pleasing reported 27% higher life satisfaction than those in visually degraded areas. Beauty isn't a luxury in city design—it affects [mental health](/mental-health).
 
 ### Everyday Aesthetics
 

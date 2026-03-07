@@ -5,7 +5,7 @@ description: "Dendrology is the scientific study of trees and woody plants, cove
 category: science
 tags: ["dendrology", "trees", "botany", "forestry", "plant science", "ecology", "arboriculture"]
 heroImage: "/images/articles/dendrology-hero.webp"
-heroAlt: "Ancient oak tree in a forest with sunlight filtering through its canopy"
+heroAlt: "Editorial photograph representing the concept of dendrology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ The modern era of dendrology began in the 18th century with Carl Linnaeus's bino
 
 The 19th century saw explosive growth in tree knowledge as colonial expeditions brought specimens back to European botanical gardens and herbaria. The Royal Botanic Gardens at Kew in London became a center for dendrological research, amassing a collection of dried plant specimens that now numbers over 7 million.
 
-In the 20th and 21st centuries, dendrology expanded beyond classification into ecology, genetics, and conservation biology. DNA sequencing has revolutionized tree taxonomy, revealing that species once thought closely related are actually distant cousins, and vice versa. Satellite remote sensing now monitors global forest cover in near real-time, giving dendrologists tools that Theophrastus couldn't have imagined.
+In the 20th and 21st centuries, dendrology expanded beyond classification into ecology, genetics, and [conservation biology](/conservation-biology). DNA sequencing has revolutionized tree taxonomy, revealing that species once thought closely related are actually distant cousins, and vice versa. Satellite remote sensing now monitors global forest cover in near real-time, giving dendrologists tools that Theophrastus couldn't have imagined.
 
 ## How Trees Are Classified
 
@@ -102,7 +102,7 @@ Identifying a tree species in the field requires examining multiple characterist
 
 ## Tree Anatomy and Growth
 
-Understanding how trees work is central to dendrology—and honestly, the engineering is remarkable.
+Understanding how trees work is central to dendrology—and honestly, the [engineering](/engineering) is remarkable.
 
 ### How Trees Grow Taller
 
@@ -112,7 +112,7 @@ Trees grow upward from their tips. Meristematic tissue at the end of each branch
 
 The vascular cambium—a thin layer of dividing cells between the bark and the wood—adds new growth annually. In spring, it produces large cells for rapid water transport (earlywood). In summer, it produces denser, thicker-walled cells (latewood). This creates the annual growth rings visible in a cross-section.
 
-Each ring tells a story. Wide rings indicate favorable growing years with abundant water and warmth. Narrow rings indicate stress—drought, defoliation by insects, competition for light. This is the basis of dendrochronology, the science of dating events by analyzing tree ring patterns, which has applications in archaeology, climate science, and ecology.
+Each ring tells a story. Wide rings indicate favorable growing years with abundant water and warmth. Narrow rings indicate stress—drought, defoliation by insects, competition for light. This is the basis of dendrochronology, the science of dating events by analyzing tree ring patterns, which has applications in [archaeology](/archaeology), climate science, and ecology.
 
 ### The Plumbing System
 
@@ -130,9 +130,9 @@ Trees don't exist in isolation. They're members of communities, and dendrologist
 
 ### Forest Succession
 
-When a disturbance clears land—fire, logging, agriculture, or natural disaster—the trees that colonize first aren't the same as those that form the eventual mature forest. Pioneer species (birches, aspens, willows) are fast-growing, sun-loving, and short-lived. They're replaced over decades by intermediate species, which are eventually overtaken by shade-tolerant climax species (beeches, hemlocks, sugar maples in northeastern North America).
+When a disturbance clears land—fire, logging, [agriculture](/agriculture), or natural disaster—the trees that colonize first aren't the same as those that form the eventual mature forest. Pioneer species (birches, aspens, willows) are fast-growing, sun-loving, and short-lived. They're replaced over decades by intermediate species, which are eventually overtaken by shade-tolerant climax species (beeches, hemlocks, sugar maples in northeastern North America).
 
-This process, called ecological succession, unfolds over 100-400 years depending on the ecosystem. Understanding it is critical for forestry management and [ecological](/ecology) restoration.
+This process, called ecological succession, unfolds over 100-400 years depending on the ecosystem. Understanding it is critical for forestry [management](/management) and [ecological](/ecology) restoration.
 
 ### Mycorrhizal Networks
 
@@ -162,7 +162,7 @@ The timber industry is enormous. Global wood production exceeds 3.9 billion cubi
 
 ### Urban Forestry
 
-City trees face unique challenges: compacted soil, limited root space, air pollution, road salt, heat island effects, and physical damage from vehicles and construction. Urban dendrology identifies species tolerant of these stresses and develops management practices that keep city trees healthy.
+City trees face unique challenges: compacted soil, limited root space, air pollution, road salt, heat island effects, and physical damage from vehicles and [construction](/construction). Urban dendrology identifies species tolerant of these stresses and develops management practices that keep city trees healthy.
 
 The economic value of urban trees is substantial. A mature street tree in the United States provides an estimated $50-100 per year in benefits through air filtration, stormwater reduction, energy savings (shade in summer, wind protection in winter), and property value enhancement. The city of New York's 7 million trees provide an estimated $120 million in annual ecosystem services.
 
@@ -170,7 +170,7 @@ The economic value of urban trees is substantial. A mature street tree in the Un
 
 Of the estimated 73,300 tree species globally, the International Union for Conservation of Nature (IUCN) classifies roughly 30% as threatened. Island species, tropical specialists, and trees with very limited ranges are most vulnerable.
 
-Dendrological research identifies endangered species, assesses their conservation needs, and develops recovery strategies. Botanical gardens serve as living repositories, maintaining collections of rare species as insurance against extinction in the wild. The Global Tree Assessment, coordinated by Botanic Gardens Conservation International, is working to evaluate the conservation status of every tree species on Earth.
+Dendrological research identifies endangered species, assesses their conservation needs, and develops recovery strategies. Botanical gardens serve as living repositories, maintaining collections of rare species as [insurance](/insurance) against extinction in the wild. The Global Tree Assessment, coordinated by Botanic Gardens Conservation International, is working to evaluate the conservation status of every tree species on Earth.
 
 ### Wood Science
 
@@ -188,7 +188,7 @@ These chronologies are used for:
 
 - **Archaeological dating**: Determining when a building was constructed from its timber, sometimes to the exact year.
 - **Climate reconstruction**: Tree rings are among the most important proxies for past temperature and precipitation before instrumental records.
-- **Calibrating radiocarbon dating**: The known ages of tree ring samples have been essential for correcting radiocarbon dates.
+- **Calibrating [radiocarbon dating](/radiocarbon-dating)**: The known ages of tree ring samples have been essential for correcting radiocarbon dates.
 - **Studying past volcanic eruptions**: Major eruptions cause narrow rings across vast geographic areas, pinpointing eruption dates.
 
 ## The Future of Dendrology
@@ -203,7 +203,7 @@ These chronologies are used for:
 
 ## Key Takeaways
 
-Dendrology is the science of trees—their identification, classification, biology, ecology, and practical management. It's a field that connects directly to some of the biggest challenges facing the planet: climate change, biodiversity loss, sustainable resource management, and urban livability.
+Dendrology is the science of trees—their identification, classification, biology, ecology, and practical management. It's a field that connects directly to some of the biggest challenges facing the planet: climate change, biodiversity loss, sustainable [resource management](/resource-management), and urban livability.
 
 The discipline has evolved from 18th-century specimen collection to a modern science using DNA analysis, satellite imaging, and global monitoring networks. But the foundation remains the same skill that Theophrastus practiced 2,300 years ago: careful observation of trees in their environment, asking what they are, how they work, and why they matter.
 

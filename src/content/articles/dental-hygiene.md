@@ -5,7 +5,7 @@ description: "Dental hygiene is the practice of keeping your mouth, teeth, and g
 category: health-amp-wellness
 tags: ["dental hygiene", "oral health", "teeth", "preventive care"]
 heroImage: "/images/articles/dental-hygiene.webp"
-heroAlt: "A toothbrush, dental floss, and mouthwash arranged on a bathroom counter"
+heroAlt: "Editorial photograph representing the concept of dental hygiene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "From birth. Parents should wipe an infant's gums with a clean, damp cloth after feedings. Once the first tooth appears (usually around 6 months), brushing should begin with a tiny smear of fluoride toothpaste and a soft infant toothbrush. The first dental visit should happen by age 1 or within six months of the first tooth erupting. Good habits established early tend to persist — and baby teeth matter more than people realize for jaw development and spacing."
 ---
 
-# What Is Dental Hygiene?
+# What Is Dental [Hygiene](/hygiene)?
 
 Dental hygiene is the practice of maintaining clean and healthy teeth, gums, and mouth through daily habits like brushing and flossing, combined with regular professional cleanings. It's a branch of preventive healthcare aimed at stopping problems — cavities, gum disease, tooth loss — before they start, rather than fixing them after they've caused damage.
 
@@ -43,7 +43,7 @@ Here's something that might make you uncomfortable: your mouth contains roughly 
 
 The key troublemaker is dental plaque — a sticky, colorless film of bacteria that constantly forms on your teeth. When you eat carbohydrates (sugars and starches), the bacteria in plaque break them down and produce acid as a byproduct. That acid attacks your tooth enamel — the hard outer layer that protects the tooth. Repeated acid attacks over time create holes in the enamel. Those holes are cavities.
 
-If plaque isn't removed, it hardens into calculus (tarite) — a crusty deposit that can't be brushed away and requires professional removal. Calculus buildup irritates the gums, leading to gingivitis (inflammation) and eventually periodontitis, a serious infection that damages the soft tissue and [bone](/anatomy) supporting your teeth. Periodontitis is the leading cause of tooth loss in adults.
+If plaque isn't removed, it hardens into [calculus](/calculus) (tarite) — a crusty deposit that can't be brushed away and requires professional removal. Calculus buildup irritates the gums, leading to gingivitis (inflammation) and eventually periodontitis, a serious infection that damages the soft tissue and [bone](/anatomy) supporting your teeth. Periodontitis is the leading cause of tooth loss in adults.
 
 The entire purpose of dental hygiene is to disrupt this process. Remove the plaque before it causes damage. It's that simple in concept — and that hard in consistent practice.
 
@@ -79,7 +79,7 @@ Mouthwash is supplemental — it doesn't replace brushing and flossing. Antisept
 
 ## The [Chemistry](/chemistry) of Fluoride
 
-Fluoride deserves its own section because it's genuinely one of the most effective public health interventions ever developed — and one of the most controversial, mostly for the wrong reasons.
+Fluoride deserves its own section because it's genuinely one of the most effective [public health](/public-health) interventions ever developed — and one of the most controversial, mostly for the wrong reasons.
 
 Here's what fluoride actually does: it integrates into tooth enamel, replacing hydroxyapatite crystals with fluorapatite, which is more resistant to acid attacks. It also promotes remineralization — the process by which minerals are redeposited onto enamel that's been damaged by acid. And it interferes with bacterial metabolism, reducing acid production.
 
@@ -91,7 +91,7 @@ The controversy around fluoride is mostly based on confusion between the low con
 
 Home care is essential, but it's not sufficient. Professional cleanings — typically every six months, though some people need them more frequently — do things you can't do at home.
 
-Dental hygienists are licensed professionals who complete a minimum of an associate degree (about three years of education) focused on oral health assessment, preventive care, and patient education. They use specialized instruments — scalers and curettes — to remove calculus from above and below the gum line. Ultrasonic scalers use vibrations and water to break up heavy deposits.
+Dental hygienists are licensed professionals who complete a minimum of an associate degree (about three years of [education](/education)) focused on oral health assessment, preventive care, and patient education. They use specialized instruments — scalers and curettes — to remove calculus from above and below the gum line. Ultrasonic scalers use vibrations and water to break up heavy deposits.
 
 During a cleaning, a hygienist also:
 - Checks for signs of oral cancer, gum disease, and other problems
@@ -106,7 +106,7 @@ The exam and cleaning together form the foundation of preventive [dentistry](/de
 
 Your mouth isn't isolated from the rest of your body, and poor dental hygiene has consequences beyond cavities and bad breath.
 
-Periodontitis (advanced gum disease) has been linked to heart disease, diabetes, respiratory infections, pregnancy complications, and even Alzheimer's disease. The connections aren't fully understood — researchers debate whether it's direct (bacteria from the mouth entering the bloodstream) or indirect (chronic inflammation in the gums triggering inflammatory responses elsewhere).
+Periodontitis (advanced gum disease) has been linked to heart disease, diabetes, respiratory infections, pregnancy complications, and even Alzheimer's disease. The connections aren't fully understood — researchers [debate](/debate) whether it's direct (bacteria from the mouth entering the bloodstream) or indirect (chronic inflammation in the gums triggering inflammatory responses elsewhere).
 
 What's clear is the correlation. People with periodontitis are 2-3 times more likely to have a heart attack, stroke, or other serious cardiovascular event, according to research published in the American Heart Association's journals. People with diabetes are more susceptible to gum disease, and gum disease makes it harder to control blood sugar — creating a vicious cycle.
 

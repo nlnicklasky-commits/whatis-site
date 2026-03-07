@@ -5,7 +5,7 @@ description: "Database design is the process of structuring how data is stored, 
 category: technology
 tags: ["database design", "databases", "data modeling", "sql", "normalization", "schema", "software engineering"]
 heroImage: "/images/articles/database-design-hero.webp"
-heroAlt: "Entity-relationship diagram showing tables connected by relationship lines"
+heroAlt: "Editorial photograph representing the concept of database design"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Database design is the process of producing a detailed data model of a database,
 
 ## Why Design Matters More Than You Think
 
-Here's a scenario that plays out at thousands of companies. A developer needs to store user data. They create a single table with columns for name, email, address, phone, orders, order_dates, and order_amounts. It works fine for 100 users with a few orders each. Then the company grows. Users have multiple addresses. Orders have multiple items. The single table becomes a tangled mess of duplicated data, null values, and update anomalies. Fixing it requires restructuring the entire database while the application is running in production—one of the most stressful migrations in software engineering.
+Here's a scenario that plays out at thousands of companies. A developer needs to store user data. They create a single table with columns for name, email, address, phone, orders, order_dates, and order_amounts. It works fine for 100 users with a few orders each. Then the company grows. Users have multiple addresses. Orders have multiple items. The single table becomes a tangled mess of duplicated data, null values, and update anomalies. Fixing it requires restructuring the entire database while the application is [running](/running) in production—one of the most stressful migrations in [software engineering](/software-engineering).
 
 Good database design prevents this. It's not about perfection—it's about creating a structure that can handle the data patterns you know about and adapt reasonably to the ones you don't. The cost of fixing a design flaw increases exponentially the later you discover it: cheap during planning, expensive during development, and agonizing in production.
 
@@ -49,7 +49,7 @@ A study by Standish Group found that fixing a defect in production costs 100 tim
 
 ### Step 1: Requirements Gathering
 
-Before drawing a single diagram, you need to understand the data. What information does the system need to store? What questions will it need to answer? What are the rules governing the data?
+Before [drawing](/drawing) a single diagram, you need to understand the data. What information does the system need to store? What questions will it need to answer? What are the rules governing the data?
 
 This means talking to stakeholders—not just asking "what data do you need?" (they'll say "everything") but asking specific questions:
 
@@ -199,9 +199,9 @@ The tradeoff is always the same: indexes speed up reads but slow down writes. Ev
 
 ### Star Schema (Data Warehousing)
 
-The star schema organizes data around a central "fact table" (containing measurements like sales amounts) surrounded by "dimension tables" (containing descriptive attributes like product details, customer demographics, and date hierarchies).
+The star schema organizes data around a central "fact table" (containing measurements like [sales](/sales) amounts) surrounded by "dimension tables" (containing descriptive attributes like product details, customer demographics, and date hierarchies).
 
-This denormalized design prioritizes query performance over data integrity. Analysts writing ad-hoc queries don't want to join 15 normalized tables—they want simple, fast queries against a star structure. This is why data warehouses use different design principles than transactional databases.
+This denormalized design prioritizes query performance over data integrity. Analysts [writing](/writing) ad-hoc queries don't want to join 15 normalized tables—they want simple, fast queries against a star structure. This is why data warehouses use different design principles than transactional databases.
 
 ### Snowflake Schema
 
@@ -227,7 +227,7 @@ One massive table that tries to represent everything. A "data" table with column
 
 Normalization can go too far. If you split US states into a separate table referenced by a foreign key, you've added a join to every query involving state data for a list of 50 values that never change. Sometimes a simple VARCHAR column is the right answer.
 
-### Ignoring NULL Semantics
+### Ignoring NULL [Semantics](/semantics)
 
 NULL in SQL doesn't mean "empty" or "zero." It means "unknown." NULL = NULL evaluates to NULL (not TRUE). NULL in aggregate functions is ignored. Queries that don't account for NULLs produce wrong results. Design your tables with clear intent about which columns allow NULLs and what NULL means in each context.
 
@@ -269,4 +269,4 @@ Database design is the process of determining how data is structured, stored, an
 
 Good design prevents redundancy, enforces business rules through constraints, and supports the queries your application actually needs. Bad design leads to data anomalies, performance problems, and expensive migrations. The right level of normalization depends on your use case—transactional systems benefit from strict normalization, while analytical systems often benefit from intentional denormalization.
 
-The fundamentals—tables, keys, relationships, constraints, indexes—have remained stable for decades while the database field has changed dramatically around them. Whether you're working with PostgreSQL, MongoDB, or a cloud data warehouse, the principles of thoughtful data modeling apply. The specific syntax changes; the thinking doesn't.
+The fundamentals—tables, keys, relationships, constraints, indexes—have remained stable for decades while the database field has changed dramatically around them. Whether you're working with PostgreSQL, MongoDB, or a cloud data warehouse, the principles of thoughtful data modeling apply. The specific [syntax](/syntax) changes; the thinking doesn't.

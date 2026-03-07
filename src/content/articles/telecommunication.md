@@ -5,7 +5,7 @@ description: "Telecommunication is the transmission of information over distance
 category: technology
 tags: ["telecommunication", "communication", "networks", "data transmission"]
 heroImage: "/images/articles/telecommunication.webp"
-heroAlt: "A global network visualization showing fiber optic cables, satellite links, and cell towers connecting cities across continents"
+heroAlt: "Editorial photograph representing the concept of telecommunication"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ The history of telecommunication is, in some ways, the history of human civiliza
 
 **The telephone** (1876) was the breakthrough that made telecommunication personal. Alexander Graham Bell's patent turned the telegraph's dots and dashes into actual human voices transmitted over wires. Within decades, telephone networks spread across the developed world. By 1900, there were about 600,000 telephones in the United States. By 1950, there were over 40 million.
 
-**Radio** (1890s-1900s) freed telecommunication from wires entirely. Guglielmo Marconi's experiments with wireless telegraphy led to radio broadcasting, which could reach anyone with a receiver. Radio became the first mass medium, transforming news, entertainment, and [communication](/communication-theory) on a scale nobody had anticipated.
+**Radio** (1890s-1900s) freed telecommunication from wires entirely. Guglielmo Marconi's experiments with wireless telegraphy led to [radio broadcasting](/radio-broadcasting), which could reach anyone with a receiver. Radio became the first mass medium, transforming news, entertainment, and [communication](/communication-theory) on a scale nobody had anticipated.
 
 **Television** (1920s-1930s) added moving images to the audio of radio. By the 1960s, television was the dominant communication medium in developed countries, and satellite relay made global live broadcasting possible. An estimated 600 million people watched the Apollo 11 moon landing in 1969 — the largest simultaneous audience in history at that time.
 
@@ -57,7 +57,7 @@ The history of telecommunication is, in some ways, the history of human civiliza
 
 ## How Telecommunication Actually Works
 
-At the most basic level, telecommunication involves three things: a transmitter, a channel, and a receiver. You speak into a phone (transmitter), your voice travels through wires, radio waves, or fiber optics (channel), and someone hears you on the other end (receiver). But the details get complicated fast.
+At the most basic level, telecommunication involves three things: a transmitter, a channel, and a receiver. You speak into a phone (transmitter), your voice travels through wires, radio waves, or [fiber optics](/fiber-optics) (channel), and someone hears you on the other end (receiver). But the details get complicated fast.
 
 ### Signals
 
@@ -85,7 +85,7 @@ Modern telecommunications networks are layered systems:
 
 **The metro/aggregation network** collects traffic from many access connections and routes it toward the backbone.
 
-**The backbone/core network** carries massive volumes of data across long distances. Core networks use high-capacity fiber optic links, often running at 100 Gbps or more per wavelength, with multiple wavelengths per fiber (wavelength division multiplexing).
+**The backbone/core network** carries massive volumes of data across long distances. Core networks use high-capacity fiber optic links, often [running](/running) at 100 Gbps or more per wavelength, with multiple wavelengths per fiber (wavelength division multiplexing).
 
 **Peering and interconnection points** (Internet Exchange Points, or IXPs) are where different networks connect and exchange traffic. The largest IXPs handle multiple terabits per second.
 
@@ -122,7 +122,7 @@ Here's something most people don't realize: the internet is not primarily wirele
 
 These cables are remarkably thin — about the diameter of a garden hose — and remarkably long. The SEA-ME-WE 6 cable system, activated in 2024, spans about 19,200 km connecting Singapore to France. A single modern submarine cable can carry over 250 terabits per second.
 
-Submarine cables are vulnerable to damage from anchors, fishing trawlers, earthquakes, and (rarely) shark bites. Cable repair ships are permanently deployed around the world, and a single cable break can be repaired in about two weeks — during which traffic is rerouted over alternative paths. The redundancy built into the global cable system is what keeps the internet running even when individual cables fail.
+Submarine cables are vulnerable to damage from anchors, [fishing](/fishing) trawlers, earthquakes, and (rarely) shark bites. Cable repair ships are permanently deployed around the world, and a single cable break can be repaired in about two weeks — during which traffic is rerouted over alternative paths. The redundancy built into the global cable system is what keeps the internet running even when individual cables fail.
 
 ### Satellite Communications
 
@@ -130,11 +130,11 @@ Satellite telecommunications serve several roles:
 
 **Broadcasting** — direct-to-home satellite TV (DirecTV, Dish Network, Sky) still serves tens of millions of subscribers, particularly in rural areas.
 
-**Navigation** — GPS, GLONASS, Galileo, and BeiDou satellite constellations provide positioning, navigation, and timing services that modern life depends on far more than most people realize.
+**[Navigation](/navigation)** — GPS, GLONASS, Galileo, and BeiDou satellite constellations provide positioning, navigation, and timing services that modern life depends on far more than most people realize.
 
 **Internet access** — LEO constellations (Starlink, OneWeb, Amazon Kuiper) are expanding satellite internet from a niche service for remote locations to a viable broadband alternative. Starlink had over 2.5 million subscribers by late 2024.
 
-**Military and government** — secure, resilient communications that don't depend on terrestrial infrastructure.
+**Military and [government](/government)** — secure, resilient communications that don't depend on terrestrial infrastructure.
 
 ## Regulation and Standards
 
@@ -158,9 +158,9 @@ Consolidation has been a persistent trend. The number of major telecom providers
 
 ## What's Next
 
-**6G research** is already underway, with commercial deployment expected around 2030. Proposed capabilities include terahertz frequency bands, AI-native network management, and integration with non-terrestrial networks (satellites and high-altitude platforms).
+**6G research** is already underway, with commercial deployment expected around 2030. Proposed capabilities include terahertz frequency bands, AI-native network [management](/management), and integration with non-terrestrial networks (satellites and high-altitude platforms).
 
-**Quantum networking** — using quantum entanglement for secure communication — is in early research stages. China has demonstrated quantum key distribution over satellite links. Practical quantum networks are probably decades away but could eventually make communications unbreakable by any known method.
+**Quantum [networking](/networking)** — using quantum entanglement for secure communication — is in early research stages. China has demonstrated quantum key distribution over satellite links. Practical quantum networks are probably decades away but could eventually make communications unbreakable by any known method.
 
 **Network convergence** continues — the boundaries between mobile, fixed broadband, Wi-Fi, and satellite networks are blurring. Future networks will seamlessly hand off connections between these technologies based on what's optimal at any moment.
 

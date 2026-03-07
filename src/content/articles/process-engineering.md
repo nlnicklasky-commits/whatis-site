@@ -5,7 +5,7 @@ description: "Process engineering designs, optimizes, and controls industrial pr
 category: technology
 tags: ["process engineering", "chemical engineering", "industrial engineering", "process control", "manufacturing", "optimization"]
 heroImage: "/images/articles/process-engineering-hero.webp"
-heroAlt: "Industrial process engineering facility with pipes, reactors, and control systems"
+heroAlt: "Editorial photograph representing the concept of process engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

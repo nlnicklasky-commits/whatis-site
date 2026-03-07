@@ -5,7 +5,7 @@ description: "Home economics is the study of practical life skills including coo
 category: everyday-concepts
 tags: ["home economics", "life skills", "family studies", "nutrition", "personal finance", "consumer education"]
 heroImage: "/images/articles/home-economics.webp"
-heroAlt: "Kitchen classroom with cooking stations and a chalkboard showing a nutrition lesson"
+heroAlt: "Editorial photograph representing the concept of home economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Ellen Swallow Richards, an MIT-trained chemist and the first woman admitted to MIT, is considered the founder. She organized the Lake Placid conferences from 1899 to 1908 that formalized home economics as an academic discipline. Richards wanted to apply scientific principles to domestic life, improving nutrition, sanitation, and household efficiency."
 ---
 
-# What Is Home Economics?
+# What Is Home [Economics](/economics)?
 
-Home economics is the academic discipline focused on practical skills for daily life — cooking, nutrition, budgeting, sewing, child care, and household management. Now usually called Family and Consumer Sciences (FCS), it teaches people how to run a household, manage money, feed themselves properly, and make informed consumer decisions. It sounds unglamorous. It is also arguably the most useful class most people never took.
+Home economics is the academic discipline focused on practical skills for daily life — cooking, nutrition, [budgeting](/budgeting), sewing, child care, and household [management](/management). Now usually called Family and Consumer Sciences (FCS), it teaches people how to run a household, manage money, feed themselves properly, and make informed consumer decisions. It sounds unglamorous. It is also arguably the most useful class most people never took.
 
 ## The Origin Story
 
-Home economics was not born from tradition — it was born from science. In the late 1800s, Ellen Swallow Richards, the first woman to earn a degree from MIT, wanted to apply chemistry and biology to the problems of everyday domestic life. Contaminated food. Unsanitary homes. Nutritional deficiency. These were killing people, and Richards argued that scientific knowledge could fix them.
+Home economics was not born from tradition — it was born from science. In the late 1800s, Ellen Swallow Richards, the first woman to earn a degree from MIT, wanted to apply [chemistry](/chemistry) and biology to the problems of everyday domestic life. Contaminated food. Unsanitary homes. Nutritional deficiency. These were killing people, and Richards argued that scientific knowledge could fix them.
 
 Between 1899 and 1908, Richards organized a series of conferences at Lake Placid, New York, that established home economics as a formal discipline. The American Home Economics Association was founded in 1909. By 1917, the Smith-Hughes Act provided federal funding for home economics education in public schools.
 
@@ -45,13 +45,13 @@ The timing mattered. America was urbanizing fast. Millions of people had moved f
 
 A typical mid-20th century home economics curriculum included:
 
-**Food and nutrition** — meal planning, cooking techniques, food safety, and nutritional science. Students learned to prepare balanced meals on a budget, understand food preservation, and follow recipes.
+**Food and nutrition** — meal planning, cooking techniques, food safety, and nutritional science. Students learned to prepare balanced meals on a budget, understand [food preservation](/food-preservation), and follow recipes.
 
-**Clothing and textiles** — sewing, garment construction, fabric selection, and clothing care. During wartime, these skills were explicitly practical — making and mending clothing was an economic necessity.
+**Clothing and textiles** — sewing, garment [construction](/construction), fabric selection, and clothing care. During wartime, these skills were explicitly practical — making and mending clothing was an economic necessity.
 
 **Home management** — budgeting, household organization, cleaning, and basic home maintenance. The financial literacy component was often the most pragmatically valuable.
 
-**Child development** — basics of child care, developmental milestones, and parenting principles. Some programs included nursery school labs where high school students interacted with young children.
+**[Child development](/child-development)** — basics of child care, developmental milestones, and parenting principles. Some programs included nursery school labs where high school students interacted with young children.
 
 **Consumer education** — how to evaluate products, understand advertising, read contracts, and make informed purchasing decisions.
 
@@ -75,9 +75,9 @@ Today's FCS courses look quite different from the cooking-and-sewing classes of 
 
 **Food preparation** — still a core component, but with broader scope. Students learn techniques from multiple cuisines, food safety principles (proper temperatures, cross-contamination prevention), and meal planning for different dietary needs.
 
-**Interpersonal skills** — communication, conflict resolution, relationship management. Some programs include content on healthy relationships and domestic violence prevention.
+**Interpersonal skills** — communication, [conflict resolution](/conflict-resolution), relationship management. Some programs include content on healthy relationships and domestic violence prevention.
 
-**Career preparation** — FCS connects to careers in hospitality, food service, fashion, interior design, social work, and education. It is not just about managing a home anymore.
+**Career preparation** — FCS connects to careers in hospitality, food service, fashion, [interior design](/interior-design), [social work](/social-work), and education. It is not just about managing a home anymore.
 
 ## Why It Matters More Than Ever
 

@@ -5,7 +5,7 @@ description: "Sumo wrestling is Japan's ancient national sport where two wrestle
 category: sports
 tags: ["sumo wrestling", "sports", "Japan", "martial arts", "wrestling", "tradition"]
 heroImage: "/images/articles/sumo-wrestling.webp"
-heroAlt: "Two sumo wrestlers grappling in a traditional clay ring"
+heroAlt: "Editorial photograph representing the concept of sumo wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

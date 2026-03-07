@@ -5,7 +5,7 @@ description: "Rowing is a water sport where athletes propel boats using oars. Le
 category: sports
 tags: ["rowing", "oars", "boats", "water sports", "crew", "endurance sport"]
 heroImage: "/images/articles/rowing.webp"
-heroAlt: "Eight-person rowing crew in sync on a calm river at dawn"
+heroAlt: "Editorial photograph representing the concept of rowing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Rowing boats (called "shells") are remarkably specialized. A competitive eight i
 
 **Sculling** — each rower handles two oars (called sculls). Boats come as singles (1 rower), doubles (2 rowers), and quads (4 rowers). Sculling requires more coordination than sweep rowing because you're managing two oars independently.
 
-**Coxswain** — the small person sitting in the stern (or lying in the bow, in some boats) who steers, calls strategy, and motivates the crew. Coxswains don't row. They're selected for being lightweight (minimum weight is 55 kg for men's coxswains, 50 kg for women's) and for their leadership and tactical intelligence. A good coxswain is worth several seconds over a 2,000-meter race.
+**Coxswain** — the small person sitting in the stern (or lying in the bow, in some boats) who steers, calls strategy, and motivates the crew. Coxswains don't row. They're selected for being lightweight (minimum weight is 55 kg for men's coxswains, 50 kg for women's) and for their [leadership](/leadership) and tactical intelligence. A good coxswain is worth several seconds over a 2,000-meter race.
 
 ## The Race
 
@@ -71,7 +71,7 @@ The Head of the Charles Regatta in Boston — the world's largest rowing event �
 
 Rowing has a reputation as an elite sport, and historically that reputation is earned. It thrived at Oxford, Cambridge, Harvard, Yale, and other prestigious universities. The Oxford-Cambridge Boat Race, held annually since 1829, is one of the oldest sporting rivalries in the world.
 
-But rowing has been democratizing. Community rowing programs, masters rowing (for adults of all ages), and adaptive rowing (for athletes with disabilities) have broadened participation significantly. Many successful Olympic rowers came to the sport through walk-on college programs, having never touched an oar before age 18. Rowing rewards size, fitness, and work ethic more than early specialization — making it accessible to athletes who come to it late.
+But rowing has been democratizing. Community rowing programs, masters rowing (for adults of all ages), and adaptive rowing (for athletes with disabilities) have broadened participation significantly. Many successful Olympic rowers came to the sport through walk-on college programs, having never touched an oar before age 18. Rowing rewards size, [fitness](/fitness), and work ethic more than early specialization — making it accessible to athletes who come to it late.
 
 The camaraderie in rowing is intense. In a crew boat, every rower must move in perfect synchronization — the same force, the same timing, the same rhythm, stroke after stroke. One person out of sync disrupts the entire boat. This creates bonds that rowers describe as unlike anything else in sports. Your teammates aren't just people you practice with — they're people you must trust completely and merge with physically.
 

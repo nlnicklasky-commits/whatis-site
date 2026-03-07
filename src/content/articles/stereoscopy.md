@@ -5,7 +5,7 @@ description: "Stereoscopy is the technique of creating depth perception from two
 category: technology
 tags: ["imaging", "stereoscopy", "3D vision", "virtual reality", "depth perception", "photography"]
 heroImage: "/images/articles/stereoscopy.webp"
-heroAlt: "A Victorian stereoscope viewer next to a modern VR headset showing the evolution of 3D viewing technology"
+heroAlt: "Editorial photograph representing the concept of stereoscopy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Stereoscopy is the technique of creating or enhancing the illusion of depth in a
 
 Before diving into the technology, you need to understand what's actually happening inside your head. Your two eyes are spaced about 6.5 centimeters apart — a distance called the interocular distance. This means each eye sees the world from a slightly different angle. Hold your thumb up at arm's length, close one eye, then switch. Your thumb appears to jump sideways. That jump — binocular disparity — is the raw data your brain uses to compute depth.
 
-The visual cortex has specialized neurons called binocular disparity detectors (discovered by David Hubel and Torsten Wiesel in work that won them the 1981 Nobel Prize in Physiology or Medicine). These neurons respond specifically to the slight differences in position between the left-eye and right-eye images of the same object. Close objects produce large disparity; distant objects produce small disparity. The brain converts this disparity map into your experience of three-dimensional space.
+The visual cortex has specialized neurons called binocular disparity detectors (discovered by David Hubel and Torsten Wiesel in work that won them the 1981 Nobel Prize in [Physiology](/physiology) or Medicine). These neurons respond specifically to the slight differences in position between the left-eye and right-eye images of the same object. Close objects produce large disparity; distant objects produce small disparity. The brain converts this disparity map into your experience of three-dimensional space.
 
 This system is remarkably sensitive. You can detect depth differences of just a few arc seconds — roughly the angle subtended by a human hair at a distance of 10 meters. That's fine enough to thread a needle, catch a ball, or judge whether a branch will hold your weight.
 
@@ -81,7 +81,7 @@ Different applications use different techniques to deliver separate images to ea
 
 The simplest and cheapest method. The left-eye image is shown in one color (typically red) and the right-eye image in another (cyan). Colored glasses filter the appropriate image to each eye. The obvious downside: you lose most color information, and the cross-talk between channels creates ghosting artifacts.
 
-Anaglyph is still used in educational materials, scientific publications, and casual applications where cost matters more than quality. You'll sometimes see anaglyph 3D images in [geology](/cartography) textbooks showing terrain maps or in medical literature showing anatomical structures.
+Anaglyph is still used in educational materials, scientific publications, and casual applications where cost matters more than quality. You'll sometimes see anaglyph 3D images in [geology](/cartography) textbooks showing terrain maps or in medical [literature](/literature) showing anatomical structures.
 
 ### Polarized Glasses
 
@@ -138,7 +138,7 @@ Studies have shown that surgeons perform tasks 15-25% faster and with fewer erro
 
 Stereo pairs of aerial photographs or satellite images are the foundation of topographic mapping. Two images of the same terrain, taken from different positions, can be viewed in a stereoscope (or processed digitally) to extract elevation data and create detailed contour maps.
 
-This technique, called photogrammetry, predates computers — cartographers have used stereoscopic aerial photos since World War I. Modern digital photogrammetry uses [algorithms](/algorithms) to automatically match features between stereo pairs and generate digital elevation models with sub-meter accuracy. Google Earth's 3D terrain data comes largely from stereo satellite imagery.
+This technique, called photogrammetry, predates computers — cartographers have used stereoscopic aerial photos since [World War I](/world-war-i). Modern digital photogrammetry uses [algorithms](/algorithms) to automatically match features between stereo pairs and generate digital elevation models with sub-meter accuracy. Google Earth's 3D terrain data comes largely from stereo satellite imagery.
 
 ### Molecular Visualization
 
@@ -168,7 +168,7 @@ After multiple boom-and-bust cycles in entertainment, stereoscopy's most promisi
 
 **Telemedicine** is increasingly using stereoscopic video for remote consultations and surgical guidance. A surgeon in one city can view a 3D feed of an operation happening thousands of miles away, providing real-time advice with the benefit of depth perception.
 
-**Education** benefits from stereoscopic visualization of complex 3D subjects — [anatomy](/anatomy), [chemistry](/chemistry), architecture, engineering. Seeing a molecular structure or a building's internal systems in 3D conveys spatial relationships that flat diagrams simply cannot.
+**Education** benefits from stereoscopic visualization of complex 3D subjects — [anatomy](/anatomy), [chemistry](/chemistry), [architecture](/architecture), [engineering](/engineering). Seeing a molecular structure or a building's internal systems in 3D conveys spatial relationships that flat diagrams simply cannot.
 
 **Autonomous vehicles** use stereo camera systems as one of several sensor modalities for perceiving the 3D structure of the road environment. Two cameras, calibrated like a pair of eyes, can compute depth maps of the scene using the same binocular disparity principle that drives human 3D vision.
 

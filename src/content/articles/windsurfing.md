@@ -5,7 +5,7 @@ description: "Windsurfing combines sailing and surfing on a board with an attach
 category: sports
 tags: ["windsurfing", "water sports", "sailing", "surfing", "extreme sports", "outdoor recreation"]
 heroImage: "/images/articles/windsurfing.webp"
-heroAlt: "Windsurfer carving across blue ocean water with a colorful sail catching the wind"
+heroAlt: "Editorial photograph representing the concept of windsurfing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Windsurfing?
 
-Windsurfing is a water sport that combines elements of sailing and surfing — you stand on a board and use an attached sail to use wind power, steering with your body weight and hand position on a wishbone-shaped boom. No rudder, no keel, no ropes to pull. Just you, a board, a sail, and the wind. When it clicks — when you're powered up and skimming across the water at 25 mph with spray flying — it's one of the best feelings available on water.
+Windsurfing is a water sport that combines elements of [sailing](/sailing) and [surfing](/surfing) — you stand on a board and use an attached sail to use [wind power](/wind-power), steering with your body weight and hand position on a wishbone-shaped boom. No rudder, no keel, no ropes to pull. Just you, a board, a sail, and the wind. When it clicks — when you're powered up and skimming across the water at 25 mph with spray flying — it's one of the best feelings available on water.
 
 ## How It Came Together
 
@@ -59,7 +59,7 @@ Beginners start by learning to uphaul — standing on the board and pulling the 
 
 **Body position** is everything. Lean back against the sail's pull, keep your arms extended but not locked, and let your body weight counterbalance the wind force rather than relying on arm strength. Beginners who try to muscle through with their arms exhaust themselves in minutes.
 
-**Points of sail** — Like any sailcraft, a windsurfer can't sail directly into the wind. You can sail across the wind (reaching — the fastest and easiest point of sail), at angles to the wind (beating upwind), and with the wind behind you (running downwind). Getting back to where you started requires the ability to sail upwind — a skill that takes a few sessions to develop.
+**Points of sail** — Like any sailcraft, a windsurfer can't sail directly into the wind. You can sail across the wind (reaching — the fastest and easiest point of sail), at angles to the wind (beating upwind), and with the wind behind you ([running](/running) downwind). Getting back to where you started requires the ability to sail upwind — a skill that takes a few sessions to develop.
 
 ## The Advanced Game
 
@@ -75,7 +75,7 @@ Once you can sail comfortably in moderate wind, the sport opens up dramatically.
 
 ## Where to Do It
 
-Windsurfing requires consistent wind and accessible water. Top destinations include Maui's north shore (consistent trade winds, world-class waves), the Canary Islands (year-round wind), the Columbia River Gorge in Oregon (thermal winds funnel through the gorge), Tarifa in Spain (the windiest city in Europe), and the Greek islands (summer Meltemi winds).
+Windsurfing requires consistent wind and accessible water. Top destinations include Maui's north shore (consistent [trade](/trade) winds, world-class waves), the Canary Islands (year-round wind), the Columbia River Gorge in Oregon (thermal winds funnel through the gorge), Tarifa in Spain (the windiest city in Europe), and the Greek islands (summer Meltemi winds).
 
 Locally, any lake, bay, or ocean beach with reliable wind works. Check wind forecasting sites and apps (Windy, iWindsurf, Windguru) to identify patterns at your local spots.
 

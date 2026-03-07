@@ -5,7 +5,7 @@ description: "Ancient Greek history spans roughly 1,500 years of civilization th
 category: history
 tags: ["ancient greece", "greek history", "athens", "sparta", "philosophy", "democracy"]
 heroImage: "/images/articles/ancient-greek-history.webp"
-heroAlt: "Ruins of the Parthenon atop the Acropolis in Athens against a blue sky"
+heroAlt: "Editorial photograph representing the concept of ancient greek history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

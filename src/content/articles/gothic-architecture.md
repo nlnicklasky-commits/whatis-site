@@ -5,7 +5,7 @@ description: "Gothic architecture uses pointed arches, flying buttresses, and st
 category: arts-amp-culture
 tags: ["gothic architecture", "medieval", "cathedral", "pointed arch", "flying buttress", "stained glass"]
 heroImage: "/images/articles/gothic-architecture.webp"
-heroAlt: "Interior of a Gothic cathedral with ribbed vaults and stained glass windows"
+heroAlt: "Editorial photograph representing the concept of gothic architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "A flying buttress is an external arch that transfers the outward thrust of a vault or roof across an open space to a heavy pier. It's the signature structural innovation of Gothic architecture. By moving the structural support outside the building, flying buttresses freed the walls from load-bearing duty — allowing them to be replaced with stained glass windows. Notre-Dame de Paris has some of the most famous flying buttresses."
 ---
 
-# What Is Gothic Architecture?
+# What Is Gothic [Architecture](/architecture)?
 
-Gothic architecture is a style of building that emerged in 12th-century France and dominated European construction for nearly 400 years. Its defining features — pointed arches, ribbed vaults, flying buttresses, and enormous stained glass windows — combined to create structures that were taller, brighter, and more visually dramatic than anything built before. The great Gothic cathedrals remain among the most impressive buildings humans have ever constructed, and they were built without electricity, steel, or computer modeling — using mathematics, geometry, and an extraordinary tolerance for projects that took generations to complete.
+Gothic architecture is a style of building that emerged in 12th-century France and dominated European [construction](/construction) for nearly 400 years. Its defining features — pointed arches, ribbed vaults, flying buttresses, and enormous [stained glass](/stained-glass) windows — combined to create structures that were taller, brighter, and more visually dramatic than anything built before. The great Gothic cathedrals remain among the most impressive buildings humans have ever constructed, and they were built without [electricity](/electricity), steel, or computer modeling — using [mathematics](/mathematics), [geometry](/geometry), and an extraordinary tolerance for projects that took generations to complete.
 
-## The Engineering Breakthrough
+## The [Engineering](/engineering) Breakthrough
 
 To understand Gothic architecture, you need to understand the problem it solved.
 
@@ -91,6 +91,6 @@ The master mason worked without modern structural analysis. He relied on geometr
 
 ## Legacy
 
-Gothic architecture declined in the 15th-16th centuries as Renaissance architects returned to classical Greek and Roman forms. But it came roaring back in the 19th century as the **Gothic Revival** — newly industrialized nations built Gothic-style churches, universities, government buildings, and train stations. The Houses of Parliament in London, St. Patrick's Cathedral in New York, and hundreds of university buildings worldwide are Gothic Revival.
+Gothic architecture declined in the 15th-16th centuries as Renaissance architects returned to classical Greek and Roman forms. But it came roaring back in the 19th century as the **Gothic Revival** — newly industrialized nations built Gothic-style churches, universities, [government](/government) buildings, and train stations. The Houses of Parliament in London, St. Patrick's Cathedral in New York, and hundreds of university buildings worldwide are Gothic Revival.
 
 The original Gothic cathedrals remain astonishing. They were built to inspire awe, and they still do — not just through religious feeling but through the sheer ambition of people who started buildings they knew they wouldn't live to see completed. That kind of generational confidence in the future is, frankly, remarkable.

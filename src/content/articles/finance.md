@@ -5,7 +5,7 @@ description: "Finance is the study and management of money, investments, and fin
 category: finance
 tags: ["money management", "investment", "banking", "capital markets", "economics", "financial services"]
 heroImage: "/images/articles/finance-hero.webp"
-heroAlt: "Stock market trading floor with financial data screens and charts"
+heroAlt: "Editorial photograph representing the concept of finance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Finance is the discipline concerned with the management, creation, and study of 
 
 Finance divides neatly into three major branches, each with its own logic, tools, and concerns. Understanding all three gives you a complete picture of how money moves through the world.
 
-### Personal Finance
+### [Personal Finance](/personal-finance)
 
 This is the branch that affects you most directly. Personal finance covers everything about how individuals manage their money: earning, spending, saving, investing, borrowing, and protecting against risk.
 
@@ -139,7 +139,7 @@ The financial system is the infrastructure that connects savers and borrowers, m
 
 **Commercial banks** take deposits and make loans. They earn the spread between the interest they pay depositors and the interest they charge borrowers. This basic function—channeling savings into productive loans—is essential to economic growth.
 
-**Investment banks** help companies raise capital (through stock offerings and bond issuances), advise on mergers and acquisitions, and trade securities. Goldman Sachs, JPMorgan, and Morgan Stanley are major players. Investment banking is where some of the highest salaries in finance live—and some of the highest-pressure work environments.
+**Investment banks** help companies raise capital (through stock offerings and bond issuances), advise on mergers and acquisitions, and trade securities. Goldman Sachs, JPMorgan, and Morgan Stanley are major players. [Investment banking](/investment-banking) is where some of the highest salaries in finance live—and some of the highest-pressure work environments.
 
 **Insurance companies** pool risk. By collecting premiums from many policyholders and paying claims for the few who experience losses, insurers make it possible for individuals and companies to protect against catastrophic financial events. The global insurance industry collects over $6 trillion in premiums annually.
 
@@ -171,7 +171,7 @@ Financial technology—fintech—has reshaped how financial services are deliver
 
 **Algorithmic trading** now accounts for over 70% of U.S. stock market volume. High-frequency trading firms execute millions of trades per day, holding positions for microseconds and profiting from tiny price discrepancies.
 
-**Robo-advisors** like Betterment and Wealthfront provide automated investment management at a fraction of the cost of human financial advisors. They construct diversified portfolios, rebalance automatically, and harvest tax losses—all for fees of 0.25% or less.
+**Robo-advisors** like Betterment and Wealthfront provide automated [investment management](/investment-management) at a fraction of the cost of human financial advisors. They construct diversified portfolios, rebalance automatically, and harvest tax losses—all for fees of 0.25% or less.
 
 **Blockchain and cryptocurrency** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptocurrency) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
 
@@ -197,7 +197,7 @@ Emerging markets face particular financial challenges: volatile capital flows, c
 
 ## Why Financial Literacy Matters
 
-Here's the honest truth: most people receive no formal education in finance, despite making financial decisions every single day. You're expected to choose health insurance plans, manage a 401(k), evaluate mortgage terms, and plan for retirement—all without training.
+Here's the honest truth: most people receive no formal education in finance, despite making financial decisions every single day. You're expected to choose [health insurance](/health-insurance) plans, manage a 401(k), evaluate mortgage terms, and plan for retirement—all without training.
 
 The consequences of financial illiteracy are measurable. People with low financial literacy pay higher interest rates, save less, invest more poorly, and are more likely to experience financial distress. A 2023 FINRA study found that only 48% of Americans could answer four out of five basic financial literacy questions correctly.
 

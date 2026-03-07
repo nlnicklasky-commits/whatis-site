@@ -5,7 +5,7 @@ description: "Orchid growing is the cultivation and care of orchids, one of the 
 category: everyday-concepts
 tags: ["orchid growing", "orchids", "horticulture", "houseplants", "phalaenopsis", "plant care"]
 heroImage: "/images/articles/orchid-growing.webp"
-heroAlt: "Beautiful blooming orchids in various colors displayed on a windowsill with bright indirect light"
+heroAlt: "Editorial photograph representing the concept of orchid growing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Orchid Growing?
 
-Orchid growing is the cultivation of orchids — the second-largest family of flowering plants on Earth, with over 28,000 known species and more than 100,000 registered hybrids. Despite their reputation as finicky divas, most commonly sold orchids are surprisingly tough once you understand what they actually need. The trick is that what they need is very different from what most houseplants need.
+Orchid growing is the cultivation of orchids — the second-largest family of flowering plants on Earth, with over 28,000 known species and more than 100,000 registered hybrids. Despite their reputation as finicky divas, most commonly sold orchids are surprisingly tough once you understand what they actually need. The trick is that what they need is very different from what most [houseplants](/houseplants) need.
 
 ## The Orchid Family
 
@@ -39,7 +39,7 @@ Orchidaceae is staggeringly diverse. Orchids grow on every continent except Anta
 
 The vast majority of orchids sold as houseplants are epiphytes — in the wild, they cling to tree branches in tropical forests, their roots exposed to air and rain. This is why they come potted in bark chips rather than soil, and why overwatering kills them — their roots evolved to dry out between rain showers, not sit in soggy potting mix.
 
-The most popular orchid by far is the Phalaenopsis (moth orchid), which accounts for roughly 75% of all orchid sales worldwide. It's popular for good reason: it tolerates typical home conditions, blooms for 2-3 months at a stretch, and rebounds reliably.
+The most popular orchid by far is the Phalaenopsis (moth orchid), which accounts for roughly 75% of all orchid [sales](/sales) worldwide. It's popular for good reason: it tolerates typical home conditions, blooms for 2-3 months at a stretch, and rebounds reliably.
 
 ## Basic Care Principles
 

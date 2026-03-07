@@ -5,7 +5,7 @@ description: "Space science is the study of everything beyond Earth's atmosphere
 category: science
 tags: ["space science", "astronomy", "astrophysics", "planetary science", "NASA", "cosmology"]
 heroImage: "/images/articles/space-science.webp"
-heroAlt: "A deep-space telescope image showing colorful nebulae, distant galaxies, and star-forming regions"
+heroAlt: "Editorial photograph representing the concept of space science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Space Science?
 
-Space science is the broad field of study concerned with everything that exists beyond Earth's atmosphere — from the behavior of charged particles in near-Earth orbit to the structure of the most distant galaxies visible to our instruments. It encompasses [astronomy](/astronomy), [astrophysics](/astrophysics), planetary science, heliophysics, astrobiology, and the physics of the space environment itself.
+Space science is the broad field of study concerned with everything that exists beyond Earth's atmosphere — from the behavior of charged particles in near-Earth orbit to the structure of the most distant galaxies visible to our instruments. It encompasses [astronomy](/astronomy), [astrophysics](/astrophysics), [planetary science](/planetary-science), heliophysics, astrobiology, and the physics of the space environment itself.
 
 Humans have studied the sky for thousands of years. What changed in the last century is that we can now send instruments — and sometimes people — out there to look up close.
 
@@ -49,7 +49,7 @@ Space science isn't one discipline. It's an umbrella covering several distinct b
 
 Astronomy is the observational science of celestial objects — mapping what's out there, measuring its properties, tracking its motion. Astrophysics is the theoretical companion, explaining *why* those objects behave the way they do using the laws of physics.
 
-The boundary between them has blurred. A modern astronomer studying galaxy formation uses as much theoretical physics as observation. An astrophysicist modeling stellar interiors relies on observational data to constrain their models. In practice, the terms are nearly interchangeable, though some universities maintain separate departments.
+The boundary between them has blurred. A modern astronomer studying galaxy formation uses as much [theoretical physics](/theoretical-physics) as observation. An astrophysicist modeling stellar interiors relies on observational data to constrain their models. In practice, the terms are nearly interchangeable, though some universities maintain separate departments.
 
 Key questions driving current research:
 
@@ -72,7 +72,7 @@ Heliophysics studies the Sun and its influence on the solar system — the solar
 
 The Sun isn't just a light source. It's a star producing a continuous outflow of charged particles (the solar wind) at speeds of 400 to 800 kilometers per second. This wind shapes the heliosphere — the vast bubble of solar influence that extends well past Pluto. When the solar wind hits Earth's magnetosphere, it creates auroras, drives electric currents in the ionosphere, and can damage satellites, disrupt communications, and even knock out power grids.
 
-The most famous solar storm in recorded history — the Carrington Event of 1859 — induced currents so strong in telegraph wires that operators received shocks and equipment caught fire. If a storm of that magnitude hit today, it could cause trillions of dollars in damage to satellites, power infrastructure, and electronics. Understanding and predicting solar activity is a matter of national security and economic survival.
+The most famous solar storm in recorded history — the Carrington Event of 1859 — induced currents so strong in telegraph wires that operators received shocks and equipment caught fire. If a storm of that magnitude hit today, it could cause trillions of dollars in damage to satellites, power infrastructure, and [electronics](/electronics). Understanding and predicting solar activity is a matter of national security and economic survival.
 
 ### Astrobiology
 
@@ -143,7 +143,7 @@ New Horizons flew past Pluto in 2015, revealing a geologically active world with
 
 Bringing pieces of other worlds back to Earth allows analysis with laboratory instruments far more sensitive than anything that can fly on a spacecraft. Japan's Hayabusa2 mission returned samples from asteroid Ryugu in 2020. NASA's OSIRIS-REx returned samples from asteroid Bennu in 2023. Both sets of samples contained organic molecules and minerals that inform our understanding of the early solar system.
 
-The grand prize — Mars sample return — is planned for the 2030s but faces budget and engineering challenges. Getting a rocket off the Martian surface and rendezvous with an orbiter for the trip home is something no mission has ever attempted.
+The grand prize — Mars sample return — is planned for the 2030s but faces budget and [engineering](/engineering) challenges. Getting a rocket off the Martian surface and rendezvous with an orbiter for the trip home is something no mission has ever attempted.
 
 ## Space Telescopes: The Flagship Missions
 
@@ -175,7 +175,7 @@ Space science is nowhere near done. Several questions keep researchers awake at 
 
 The practical returns from space science are sometimes questioned — why spend billions studying distant galaxies when there are problems on Earth? The answers are both pragmatic and philosophical.
 
-Pragmatically, space science drives technology development. GPS relies on relativistic corrections discovered through [physics](/physics). Weather forecasting depends on satellite technology developed for Earth observation. Medical imaging techniques were adapted from astronomical image processing. Materials developed for spacecraft find applications in everyday products.
+Pragmatically, space science drives technology development. GPS relies on relativistic corrections discovered through [physics](/physics). Weather forecasting depends on satellite technology developed for Earth observation. [Medical imaging](/medical-imaging) techniques were adapted from astronomical [image processing](/image-processing). Materials developed for spacecraft find applications in everyday products.
 
 Solar monitoring protects the infrastructure that modern civilization depends on. Asteroid tracking — a direct output of space science — may someday provide the warning needed to prevent an extinction-level impact.
 

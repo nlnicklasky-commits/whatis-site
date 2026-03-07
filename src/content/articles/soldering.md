@@ -5,7 +5,7 @@ description: "Soldering is the process of joining metals using a filler alloy me
 category: technology
 tags: ["soldering", "electronics", "metalwork", "circuit board", "welding", "manufacturing"]
 heroImage: "/images/articles/soldering.webp"
-heroAlt: "A soldering iron tip touching a circuit board joint with molten solder flowing between components"
+heroAlt: "Editorial photograph representing the concept of soldering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ faq:
 
 Soldering is a metal-joining process where a filler alloy — called solder — is melted and flowed into the gap between two metal surfaces, bonding them together without melting the base metals themselves. The solder melts at temperatures below 450 degrees Celsius (842 degrees Fahrenheit), which separates soldering from brazing and welding, both of which operate at higher temperatures.
 
-If you've ever looked at the underside of a [circuit board](/circuit-design), those tiny silver dots holding every component in place are solder joints. Billions of them are created every single day in factories around the world. But soldering isn't just an electronics thing — plumbers, jewelers, stained glass artists, and HVAC technicians all rely on it too.
+If you've ever looked at the underside of a [circuit board](/circuit-design), those tiny silver dots holding every component in place are solder joints. Billions of them are created every single day in factories around the world. But soldering isn't just an [electronics](/electronics) thing — plumbers, jewelers, [stained glass](/stained-glass) artists, and HVAC technicians all rely on it too.
 
 ## How Soldering Actually Works
 
@@ -191,7 +191,7 @@ Soldering involves hot metals, chemical fumes, and — depending on the alloy �
 
 While electronics assembly is the most visible application, soldering has deep roots in other trades.
 
-### Plumbing
+### [Plumbing](/plumbing)
 
 Copper pipe joints in residential plumbing are soldered using a propane torch and lead-free solder (lead solder was banned for potable water systems in the US by the Safe Drinking Water Act amendments of 1986). The plumber cleans the pipe and fitting, applies flux, assembles the joint, and heats the fitting with a torch until solder drawn into the gap by capillary action. A single joint takes about 30 seconds.
 
@@ -213,7 +213,7 @@ Soldering is ancient. Archaeological evidence shows soldering in Mesopotamia dat
 
 The big shift came with [electronics](/computer-hardware). As vacuum tubes gave way to transistors in the 1950s, and transistors gave way to integrated circuits in the 1960s, the scale of soldering changed dramatically. Where a radio might have had 50 solder joints, a modern smartphone has thousands.
 
-The 2006 RoHS directive was probably the single biggest disruption to the soldering industry in modern history. Overnight, manufacturers had to retool for lead-free alloys that behaved differently, required higher temperatures, and produced joints that looked different from what inspectors had been trained to evaluate for decades. The transition cost the industry billions — but it removed roughly 10,000 metric tons of lead per year from the electronics waste stream.
+The 2006 RoHS directive was probably the single biggest disruption to the soldering industry in [modern history](/modern-history). Overnight, manufacturers had to retool for lead-free alloys that behaved differently, required higher temperatures, and produced joints that looked different from what inspectors had been trained to evaluate for decades. The transition cost the industry billions — but it removed roughly 10,000 metric tons of lead per year from the electronics waste stream.
 
 ## Modern Challenges and Trends
 
@@ -221,7 +221,7 @@ Soldering continues to evolve with electronic packaging trends.
 
 **Miniaturization** pushes the limits of what can be soldered reliably. Ball grid array (BGA) packages hide their solder connections underneath the chip, making inspection difficult. Package-on-package stacking layers components vertically. These trends demand tighter process control and more sophisticated inspection techniques like X-ray imaging.
 
-**High-reliability applications** in aerospace, automotive, and medical devices require solder joints that survive thermal cycling, vibration, and decades of service. The move to lead-free solder made this harder — SAC alloys form larger tin crystals than leaded solder, and these crystals are more susceptible to thermal fatigue. New alloys with additions of bismuth, antimony, or indium are being developed to address this.
+**High-reliability applications** in aerospace, automotive, and medical devices require solder joints that survive thermal [cycling](/cycling), vibration, and decades of service. The move to lead-free solder made this harder — SAC alloys form larger tin crystals than leaded solder, and these crystals are more susceptible to thermal fatigue. New alloys with additions of bismuth, antimony, or indium are being developed to address this.
 
 **Automated inspection** using machine vision and [artificial intelligence](/artificial-intelligence) is replacing much of the human visual inspection that was traditionally required. Automated optical inspection (AOI) systems photograph every joint on a board and flag defects. X-ray inspection catches hidden problems in BGA joints and voids. These systems process boards in seconds, far faster than any human inspector could manage.
 

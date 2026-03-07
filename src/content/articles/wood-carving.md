@@ -5,7 +5,7 @@ description: "Wood carving is the art of shaping wood into objects using cutting
 category: arts-culture
 tags: ["wood carving", "woodworking", "sculpture", "crafts", "hand tools", "folk art"]
 heroImage: "/images/articles/wood-carving.webp"
-heroAlt: "Detailed wooden sculpture being shaped with carving gouges and chisels on a workbench"
+heroAlt: "Editorial photograph representing the concept of wood carving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Wood Carving?
 
-Wood carving is the art of shaping wood into decorative or functional objects using cutting tools — chisels, gouges, knives, and sometimes power tools. It's one of the oldest art forms humans have practiced, with evidence dating back at least 400,000 years (the Clacton Spear, a yew wood point found in England, is among the oldest worked wood artifacts). From medieval cathedral decorations to contemporary sculpture, from kitchen spoons to museum-quality figures, wood carving transforms a natural material into something shaped by human intention and skill.
+Wood carving is the art of shaping wood into decorative or functional objects using cutting tools — chisels, gouges, knives, and sometimes power tools. It's one of the oldest art forms humans have practiced, with evidence dating back at least 400,000 years (the Clacton Spear, a yew wood point found in England, is among the oldest worked wood artifacts). From medieval cathedral decorations to contemporary [sculpture](/sculpture), from kitchen spoons to museum-quality figures, wood carving transforms a natural material into something shaped by human intention and skill.
 
 ## The Major Styles
 
 ### Relief Carving
 
-Relief carving creates images and designs that project from a flat wooden panel. Think of it as sculpture that stays attached to a background — like a painting made three-dimensional.
+Relief carving creates images and designs that project from a flat wooden panel. Think of it as sculpture that stays attached to a background — like a [painting](/painting) made three-dimensional.
 
 **Low relief (bas-relief)** — The carved elements project slightly from the background, typically less than half their natural depth. Coins are everyday examples of low relief.
 
@@ -49,13 +49,13 @@ Relief carving appears on furniture, architectural elements (door panels, firepl
 
 Three-dimensional sculpture carved from a single block (or sometimes assembled from multiple blocks). The piece is meant to be viewed from all sides. This category includes everything from small figurines to life-sized statues to abstract sculptural forms.
 
-Carving in the round requires visualizing the finished form inside the raw block and removing everything that isn't part of it — the apocryphal quote attributed to Michelangelo about marble applies equally to wood. You need to understand anatomy, proportion, and three-dimensional form, which is why carvers often work from clay maquettes (small models) before committing to cutting.
+Carving in the round requires visualizing the finished form inside the raw block and removing everything that isn't part of it — the apocryphal quote attributed to Michelangelo about marble applies equally to wood. You need to understand [anatomy](/anatomy), proportion, and three-dimensional form, which is why carvers often work from clay maquettes (small models) before committing to cutting.
 
 ### Chip Carving
 
 A technique where small, precisely cut chips are removed from a flat surface to create geometric patterns. The tools are specialized knives (a cutting knife and a stab knife). The patterns are typically based on triangles, circles, and curves arranged in repeating geometric designs.
 
-Chip carving originated in Northern Europe and remains particularly popular in Swiss, Scandinavian, and German folk art traditions. It decorates boxes, plates, furniture panels, and clock faces. The work requires precision rather than strength — each chip is a deliberate, calculated removal.
+Chip carving originated in Northern Europe and remains particularly popular in Swiss, Scandinavian, and German [folk art](/folk-art) traditions. It decorates boxes, plates, furniture panels, and clock faces. The work requires precision rather than strength — each chip is a deliberate, calculated removal.
 
 ### Power Carving
 
@@ -73,7 +73,7 @@ Purists dismiss power carving. Pragmatists note that the artistic decisions abou
 
 **Mallets** — Round wooden or composite mallets drive gouges through harder woods. The round shape allows striking from any angle without repositioning. Carvers develop a rhythm of mallet strikes that becomes almost musical.
 
-**Knives** — For whittling, chip carving, and detail work. A sharp knife is the most basic carving tool and the only one some carvers ever need.
+**Knives** — For [whittling](/whittling), chip carving, and detail work. A sharp knife is the most basic carving tool and the only one some carvers ever need.
 
 ## Sharpness Is Everything
 

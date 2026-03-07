@@ -5,7 +5,7 @@ description: "Fiber optics transmits data as light pulses through thin glass str
 category: technology
 tags: ["telecommunications", "data transmission", "internet", "light", "optics", "broadband"]
 heroImage: "/images/articles/fiber-optics-hero.webp"
-heroAlt: "Bundle of illuminated fiber optic cables glowing blue and orange"
+heroAlt: "Editorial photograph representing the concept of fiber optics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Fiber optics is a technology that transmits information as pulses of light throu
 
 ## How Light Carries Your Data
 
-The fundamental principle is beautifully simple: shine a light down a glass tube and it bounces along the inside until it reaches the other end. That's it. Everything else is engineering.
+The fundamental principle is beautifully simple: shine a light down a glass tube and it bounces along the inside until it reaches the other end. That's it. Everything else is [engineering](/engineering).
 
 But let's get into that engineering, because it's remarkable.
 
@@ -105,7 +105,7 @@ Laying submarine cable costs $30,000-$50,000 per kilometer, and a trans-Atlantic
 
 On land, fiber runs through underground conduits, along utility poles, and through buildings. The "last mile" problem—getting fiber from the backbone network to individual homes—remains the biggest deployment challenge. Digging trenches through city streets is expensive and disruptive. Newer techniques like microtrenching (cutting narrow, shallow trenches in existing pavement) and aerial deployment (stringing fiber on existing utility poles) are reducing costs.
 
-In the U.S., federal programs like the Broadband Equity, Access, and Deployment (BEAD) program have allocated $42.5 billion to expand fiber access, particularly in rural areas where the economics of private deployment don't work without subsidies.
+In the U.S., federal programs like the Broadband Equity, Access, and Deployment (BEAD) program have allocated $42.5 billion to expand fiber access, particularly in rural areas where the [economics](/economics) of private deployment don't work without subsidies.
 
 ### Data Centers
 
@@ -151,7 +151,7 @@ Military communications rely heavily on fiber optics because of its immunity to 
 
 ### Lighting and Decoration
 
-Fiber optic lighting delivers light from a remote source through fibers to illuminate hard-to-reach areas. This is useful in museums (light without heat or UV, protecting artifacts), swimming pools (electricity kept away from water), and decorative installations. Those fiber optic "starfield" ceilings in home theaters? That's real fiber optics—just used for pretty lights instead of data.
+Fiber optic lighting delivers light from a remote source through fibers to illuminate hard-to-reach areas. This is useful in museums (light without heat or UV, protecting artifacts), [swimming](/swimming) pools ([electricity](/electricity) kept away from water), and decorative installations. Those fiber optic "starfield" ceilings in home theaters? That's real fiber optics—just used for pretty lights instead of data.
 
 ## The History of Fiber Optics
 
@@ -179,7 +179,7 @@ This is why [computer networking](/computer-networking) approaches like fixed wi
 
 ### Physical Vulnerability
 
-Fiber cables are physically fragile compared to copper. A backhoe digging into a buried cable can sever it, cutting communications for thousands or millions of users. Submarine cables are occasionally damaged by anchors, fishing equipment, or natural disasters. Repairing them requires specialized ships and can take weeks.
+Fiber cables are physically fragile compared to copper. A backhoe digging into a buried cable can sever it, cutting communications for thousands or millions of users. Submarine cables are occasionally damaged by anchors, fishing equipment, or [natural disasters](/natural-disasters). Repairing them requires specialized ships and can take weeks.
 
 Redundancy is the answer—important connections have multiple fiber paths so that cutting one doesn't take down the whole link. But not all connections have adequate redundancy, and cable cuts still cause real disruptions.
 
@@ -197,7 +197,7 @@ Fiber optic technology continues advancing rapidly.
 
 **Space-division multiplexing (SDM)** uses fibers with multiple cores or multiple modes in a single fiber to multiply capacity. A 19-core fiber carries 19 times the data of a single-core fiber in the same physical space. Lab demonstrations have exceeded 10 petabits per second—10,000 terabits—through a single cable.
 
-**Quantum key distribution (QKD)** uses fiber optics to distribute encryption keys using quantum mechanics. Any attempt to intercept the key changes the quantum state, alerting the communicating parties. China has deployed a 2,000-kilometer QKD network between Beijing and Shanghai, and several European and Asian networks are operational.
+**Quantum key distribution (QKD)** uses fiber optics to distribute encryption keys using [quantum mechanics](/quantum-mechanics). Any attempt to intercept the key changes the quantum state, alerting the communicating parties. China has deployed a 2,000-kilometer QKD network between Beijing and Shanghai, and several European and Asian networks are operational.
 
 **Photonic computing** aims to perform computation using light rather than electrons. Fiber optics would serve as both interconnect and processing medium. While still largely experimental, photonic processors for [machine learning](/machine-learning) inference are beginning to appear commercially.
 

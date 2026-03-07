@@ -5,7 +5,7 @@ description: "Quantum chemistry applies quantum mechanics to chemical systems, e
 category: science
 tags: ["quantum chemistry", "quantum mechanics", "chemistry", "molecular orbitals", "computational chemistry", "electronic structure"]
 heroImage: "/images/articles/quantum-chemistry-hero.webp"
-heroAlt: "Abstract visualization of molecular orbitals and electron density clouds around atoms"
+heroAlt: "Editorial photograph representing the concept of quantum chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

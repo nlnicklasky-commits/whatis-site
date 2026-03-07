@@ -5,7 +5,7 @@ description: "Sexual health covers physical, emotional, and social well-being re
 category: health-amp-wellness
 tags: ["sexual health", "reproductive health", "sti prevention", "consent", "sex education"]
 heroImage: "/images/articles/sexual-health.webp"
-heroAlt: "Medical professional discussing sexual health topics with educational materials on a desk"
+heroAlt: "Editorial photograph representing the concept of sexual health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -50,11 +50,11 @@ Sexual health includes:
 - **Social well-being** — having access to accurate information, healthcare, and supportive communities
 - **Autonomy** — the freedom to make informed choices about your body and relationships
 
-The WHO first formally recognized sexual health as a distinct area of public health in 1975. Before that, conversations about sex in medical settings were largely limited to reproduction and disease. That shift — from "sex is a medical problem to manage" to "sexual well-being is something to support" — took decades and is still ongoing in many parts of the world.
+The WHO first formally recognized sexual health as a distinct area of [public health](/public-health) in 1975. Before that, conversations about sex in medical settings were largely limited to reproduction and disease. That shift — from "sex is a medical problem to manage" to "sexual well-being is something to support" — took decades and is still ongoing in many parts of the world.
 
 ## STIs: The Numbers Are Staggering
 
-Let's talk about the part everyone thinks of first. Sexually transmitted infections remain one of the most significant global health challenges, and the statistics are frankly alarming.
+Let's talk about the part everyone thinks of first. Sexually transmitted infections remain one of the most significant global health challenges, and the [statistics](/statistics) are frankly alarming.
 
 According to the WHO, more than 1 million STIs are acquired every single day worldwide. That's over 374 million new infections per year of just four curable STIs: chlamydia, gonorrhea, syphilis, and trichomoniasis. An estimated 490 million people are living with genital herpes (HSV-2) globally, and about 300 million women have an HPV infection — the leading cause of cervical cancer.
 
@@ -88,11 +88,11 @@ Consent means a freely given, informed, and enthusiastic agreement to engage in 
 
 This isn't just an ethical standard. It's a legal one. Every U.S. state has laws defining sexual consent, though the specifics vary. Many countries have moved toward "affirmative consent" models, where the burden is on the initiator to obtain clear agreement rather than on the other person to say no.
 
-Research from the National Intimate Partner and Sexual Violence Survey indicates that about 1 in 3 women and 1 in 4 men in the U.S. have experienced some form of sexual violence in their lifetime. Teaching consent — early, clearly, and repeatedly — is one of the most effective prevention strategies available.
+Research from the National Intimate Partner and Sexual Violence Survey indicates that about 1 in 3 women and 1 in 4 men in the U.S. have experienced some form of sexual violence in their lifetime. [Teaching](/teaching) consent — early, clearly, and repeatedly — is one of the most effective prevention strategies available.
 
 ## Contraception and Reproductive Planning
 
-Reproductive health is a major dimension of sexual health. Having control over if and when you have children affects everything — your education, career, finances, relationships, and physical health.
+Reproductive health is a major dimension of sexual health. Having control over if and when you have children affects everything — your [education](/education), career, finances, relationships, and physical health.
 
 Modern contraception options are more varied than most people realize:
 
@@ -100,7 +100,7 @@ Modern contraception options are more varied than most people realize:
 
 **Barrier methods** include external condoms (87% effective with typical use), internal condoms, diaphragms, and cervical caps. Condoms are the only method that also protects against STIs.
 
-**Long-acting reversible contraception (LARC)** — IUDs and implants — are the most effective reversible methods, with failure rates under 1%. Once placed, they work for 3 to 12 years depending on the type. The American College of Obstetricians and Gynecologists recommends them as first-line options.
+**Long-[acting](/acting) reversible contraception (LARC)** — IUDs and implants — are the most effective reversible methods, with failure rates under 1%. Once placed, they work for 3 to 12 years depending on the type. The American College of Obstetricians and Gynecologists recommends them as first-line options.
 
 **Permanent methods** include vasectomy and tubal ligation. These are intended to be irreversible, though reversal is sometimes possible.
 
@@ -118,7 +118,7 @@ Here's a topic that generates more heat than light. Sex education programs vary 
 
 Despite this evidence, only 30 U.S. states and Washington, D.C. mandate sex education, and only 22 require that the information be medically accurate. Let that sink in — states can legally require sex education that isn't accurate.
 
-## Mental Health and Sexuality
+## [Mental Health](/mental-health) and Sexuality
 
 The connection between sexual health and mental health runs deep in both directions. Poor mental health can affect sexual desire, function, and satisfaction. And sexual health issues — from STI diagnoses to sexual trauma — can profoundly affect mental well-being.
 

@@ -5,7 +5,7 @@ description: "Carpentry is the skilled trade of cutting, shaping, and joining wo
 category: everyday-concepts
 tags: ["carpentry", "woodworking", "construction", "trade", "crafts", "building"]
 heroImage: "/images/articles/carpentry.webp"
-heroAlt: "Carpenter using a hand plane on a wooden beam in a workshop with tools on the wall"
+heroAlt: "Editorial photograph representing the concept of carpentry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Carpentry?
 
-Carpentry is the skilled trade of cutting, shaping, and assembling wood (and increasingly, engineered wood products) to construct buildings, structures, and fixtures. It's one of the oldest trades in human civilization — people have been shaping wood into shelters for at least 10,000 years — and it remains one of the most in-demand construction skills today.
+Carpentry is the skilled [trade](/trade) of cutting, shaping, and assembling wood (and increasingly, engineered wood products) to construct buildings, structures, and fixtures. It's one of the oldest trades in human civilization — people have been shaping wood into shelters for at least 10,000 years — and it remains one of the most in-demand [construction](/construction) skills today.
 
 ## The Original Building Trade
 
-Before steel, concrete, and glass dominated construction, nearly everything was built from wood. Temples, ships, houses, bridges, fortifications — all carpentry. The trade's importance is baked into the English language: the word "carpenter" comes from the Latin *carpentarius*, meaning "maker of carriages."
+Before steel, concrete, and glass dominated construction, nearly everything was built from wood. Temples, ships, houses, bridges, fortifications — all carpentry. The trade's importance is baked into the [English language](/english-language): the word "carpenter" comes from the Latin *carpentarius*, meaning "maker of carriages."
 
 Today, wood-frame construction still dominates residential building in North America. Over 90% of new single-family homes in the United States are wood-framed. That means carpenters are involved in nearly every house built in the country — from the foundation forms to the roof trusses to the trim around the windows.
 
-The Bureau of Labor Statistics counts roughly 1 million carpenters working in the U.S., making it one of the largest construction trades. And the industry faces a persistent labor shortage — an estimated 500,000+ unfilled construction positions exist at any given time.
+The Bureau of Labor [Statistics](/statistics) counts roughly 1 million carpenters working in the U.S., making it one of the largest construction trades. And the industry faces a persistent labor shortage — an estimated 500,000+ unfilled construction positions exist at any given time.
 
 ## Types of Carpentry
 
@@ -57,7 +57,7 @@ Crown molding installation is a good example of finish carpentry's demands. Comp
 
 ### Formwork
 
-Formwork carpenters build the temporary molds into which concrete is poured for foundations, walls, columns, and other structural elements. The forms must be strong enough to contain liquid concrete under pressure, dimensionally accurate, and designed for efficient removal after the concrete cures. It's engineering as much as carpentry.
+Formwork carpenters build the temporary molds into which concrete is poured for foundations, walls, columns, and other structural elements. The forms must be strong enough to contain liquid concrete under pressure, dimensionally accurate, and designed for efficient removal after the concrete cures. It's [engineering](/engineering) as much as carpentry.
 
 ### Specialty Carpentry
 
@@ -77,7 +77,7 @@ Restoration carpenters repair and replicate historical woodwork — matching pro
 
 A carpenter's basic toolkit includes a framing hammer (or nail gun), tape measure, speed square, level, chalk line, circular saw, and utility knife. That's enough to frame a wall.
 
-Power tools have transformed carpentry productivity. A framing nailer drives nails in a fraction of a second — work that took 3-4 hammer blows. Cordless tool batteries now last long enough for full workdays. Laser levels project perfectly level lines across rooms.
+Power tools have transformed carpentry [productivity](/productivity). A framing nailer drives nails in a fraction of a second — work that took 3-4 hammer blows. Cordless tool batteries now last long enough for full workdays. Laser levels project perfectly level lines across rooms.
 
 But hand tools haven't disappeared. Chisels for fine fitting, hand planes for trimming doors, hand saws for cuts in tight spaces where power tools won't fit. Many finish carpenters maintain extensive hand tool collections alongside their power tools.
 

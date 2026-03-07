@@ -5,7 +5,7 @@ description: "Physical therapy restores movement and reduces pain through exerci
 category: health-amp-wellness
 tags: ["physical therapy", "physiotherapy", "rehabilitation", "healthcare"]
 heroImage: "/images/articles/physical-therapy.webp"
-heroAlt: "A physical therapist helping a patient perform a guided knee rehabilitation exercise"
+heroAlt: "Editorial photograph representing the concept of physical therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Physical Therapy?
 
-Physical therapy (PT) is a healthcare profession focused on restoring, maintaining, and promoting movement and physical function. Physical therapists use exercise, manual therapy, education, and other interventions to treat people dealing with injuries, surgeries, chronic pain, neurological conditions, and movement disorders — the goal being to get you moving better, with less pain, and ideally without surgery or long-term medication.
+Physical therapy (PT) is a healthcare profession focused on restoring, maintaining, and promoting movement and physical function. Physical therapists use exercise, manual therapy, [education](/education), and other interventions to treat people dealing with injuries, surgeries, chronic pain, neurological conditions, and movement disorders — the goal being to get you moving better, with less pain, and ideally without surgery or long-term medication.
 
 Outside the United States, it's usually called physiotherapy. Same profession, different name.
 
@@ -43,7 +43,7 @@ The scope of physical therapy is broader than most people imagine. It's not just
 
 ### Evaluation and Diagnosis
 
-Every physical therapy episode begins with an evaluation. The therapist assesses your range of motion, strength, balance, coordination, posture, gait (how you walk), and functional abilities (can you climb stairs, get out of a chair, reach overhead). They also review your medical history, imaging results, and — importantly — listen to your description of the problem.
+Every physical therapy episode begins with an evaluation. The therapist assesses your range of motion, strength, balance, coordination, posture, gait (how you walk), and functional abilities (can you climb stairs, get out of a chair, reach overhead). They also review your [medical history](/medical-history), imaging results, and — importantly — listen to your description of the problem.
 
 PTs are trained to perform differential diagnosis within their scope. That means they can identify what's causing your pain or movement limitation without relying solely on a physician's referral. If they find something outside their scope — a suspicious mass, signs of a fracture, red flags for serious pathology — they refer you to the appropriate medical professional.
 
@@ -83,7 +83,7 @@ Pediatric PTs treat children with developmental delays, cerebral palsy, genetic 
 
 ### Geriatric Physical Therapy
 
-Focused on the aging population, geriatric PTs address balance and fall prevention, arthritis management, joint replacement recovery, and maintaining independence in daily activities. Falls are the leading cause of injury death among adults 65 and older in the U.S. — over 36,000 deaths annually — and physical therapy is one of the most effective fall prevention interventions available.
+Focused on the aging population, geriatric PTs address balance and fall prevention, arthritis [management](/management), joint replacement recovery, and maintaining independence in daily activities. Falls are the leading cause of injury death among adults 65 and older in the U.S. — over 36,000 deaths annually — and physical therapy is one of the most effective fall prevention interventions available.
 
 ## Education and Credentialing
 
@@ -91,7 +91,7 @@ Focused on the aging population, geriatric PTs address balance and fall preventi
 
 Since 2015, all accredited physical therapy programs in the U.S. award a Doctor of Physical Therapy (DPT) degree. The program takes three years and follows an undergraduate degree (typically in biology, kinesiology, or a related field). Total education: seven years after high school.
 
-DPT programs are demanding. Coursework covers anatomy, physiology, biomechanics, neuroscience, pharmacology, pathology, exercise science, and clinical decision-making. Students also complete multiple clinical rotations — typically 30 or more weeks of supervised patient care across different settings.
+DPT programs are demanding. Coursework covers anatomy, [physiology](/physiology), [biomechanics](/biomechanics), [neuroscience](/neuroscience), [pharmacology](/pharmacology), pathology, exercise science, and clinical decision-making. Students also complete multiple clinical rotations — typically 30 or more weeks of supervised patient care across different settings.
 
 ### Licensing
 
@@ -120,7 +120,7 @@ Many people wait until pain has been present for weeks or months before seeking 
 
 ### Direct Access
 
-Here's something most people don't know: in all 50 U.S. states, you can see a physical therapist without a physician referral. This is called direct access, and it exists because PTs are trained to evaluate and diagnose within their scope. Some states have restrictions on how many visits or how long you can be treated without a referral, and your insurance may still require one for coverage. But the option exists.
+Here's something most people don't know: in all 50 U.S. states, you can see a physical therapist without a physician referral. This is called direct access, and it exists because PTs are trained to evaluate and diagnose within their scope. Some states have restrictions on how many visits or how long you can be treated without a referral, and your [insurance](/insurance) may still require one for coverage. But the option exists.
 
 ## The Evidence Behind PT
 
@@ -146,6 +146,6 @@ Home exercise programs are non-negotiable. What you do in the clinic matters far
 
 Physical therapy faces real challenges. Reimbursement rates have declined steadily, pushing clinics to see more patients per hour. Insurance companies impose visit limits that may not align with clinical needs. Administrative burden eats into treatment time.
 
-But the profession's future looks strong. The Bureau of Labor Statistics projects 15% job growth for physical therapists through 2032. An aging population, increased awareness of PT's value, expanded direct access, and growing evidence supporting conservative treatment over surgery all point toward increased demand.
+But the profession's future looks strong. The Bureau of Labor [Statistics](/statistics) projects 15% job growth for physical therapists through 2032. An aging population, increased awareness of PT's value, expanded direct access, and growing evidence supporting conservative treatment over surgery all point toward increased demand.
 
 Telehealth PT, which expanded rapidly during COVID-19, has established itself as a viable option for certain conditions — particularly follow-up visits, home exercise instruction, and chronic pain management. It won't replace hands-on care, but it adds a layer of access that didn't exist before.

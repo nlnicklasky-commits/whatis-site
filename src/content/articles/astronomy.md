@@ -5,7 +5,7 @@ description: "Astronomy is the scientific study of celestial objects, space, and
 category: science
 tags: ["astronomy", "astrophysics", "cosmology", "space", "science", "stars", "planets"]
 heroImage: "/images/articles/astronomy-hero.webp"
-heroAlt: "A telescope pointed at a star-filled night sky with the Milky Way stretching across the horizon"
+heroAlt: "Editorial photograph representing the concept of astronomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Every civilization looked at the sky. Every single one. The impulse to understan
 
 The Babylonians tracked planetary movements on clay tablets around 1800 BCE, developing mathematical models that could predict eclipses. Ancient Egyptians aligned the pyramids with remarkable precision to celestial coordinates — the Great Pyramid of Giza points to within 3/60ths of a degree of true north. Polynesian navigators crossed thousands of miles of open Pacific using star positions, wave patterns, and cloud formations. The Dogon people of Mali had astronomical knowledge that continues to interest researchers.
 
-These weren't idle observations. Astronomy was survival. The annual flooding of the Nile, the timing of planting and harvest, the determination of seasons and direction for navigation — all depended on reading the sky correctly. Astronomy may be the oldest science because it was the most immediately useful.
+These weren't idle observations. Astronomy was survival. The annual flooding of the Nile, the timing of planting and harvest, the determination of seasons and direction for [navigation](/navigation) — all depended on reading the sky correctly. Astronomy may be the oldest science because it was the most immediately useful.
 
 The word itself comes from the Greek *astronomia* — "star arrangement" or "star law." The Greeks gave astronomy its theoretical framework. Aristarchus of Samos proposed in the 3rd century BCE that Earth revolves around the sun — an idea so ahead of its time that it was largely ignored for 1,800 years.
 
@@ -77,7 +77,7 @@ Astronomy is fundamentally an observational science. Unlike physics or chemistry
 
 Visible light — the rainbow of colors your eyes can see — is a tiny sliver of the electromagnetic spectrum. Stars, galaxies, and other objects also emit radio waves, microwaves, infrared radiation, ultraviolet light, X-rays, and gamma rays. Each wavelength reveals different phenomena.
 
-**Radio astronomy** detects radio waves from pulsars, quasars, hydrogen gas clouds, and the cosmic microwave background radiation left over from the Big Bang. Karl Jansky accidentally discovered cosmic radio waves in 1932 while trying to track down the source of static on a transatlantic telephone line.
+**[Radio astronomy](/radio-astronomy)** detects radio waves from pulsars, quasars, hydrogen gas clouds, and the cosmic microwave background radiation left over from the Big Bang. Karl Jansky accidentally discovered cosmic radio waves in 1932 while trying to track down the source of static on a transatlantic telephone line.
 
 **Infrared astronomy** sees through dust that blocks visible light, revealing star-forming regions, cool objects like brown dwarfs, and distant galaxies whose light has been redshifted out of the visible range. The James Webb Space Telescope (launched 2021) is primarily an infrared instrument, which is why it can peer deeper into the universe than Hubble.
 
@@ -89,7 +89,7 @@ Visible light — the rainbow of colors your eyes can see — is a tiny sliver o
 
 Optical telescopes come in two basic types: refractors (using lenses) and reflectors (using mirrors). Almost all modern research telescopes are reflectors because mirrors can be made much larger than lenses — and in astronomy, bigger is better. A larger mirror collects more light, allowing you to see fainter objects.
 
-The current largest optical telescopes have mirrors about 10 meters across. The Extremely Large Telescope, under construction in Chile, will have a 39-meter primary mirror — large enough to cover a basketball court — and is expected to see its first light around 2028.
+The current largest optical telescopes have mirrors about 10 meters across. The Extremely Large Telescope, under [construction](/construction) in Chile, will have a 39-meter primary mirror — large enough to cover a [basketball](/basketball) court — and is expected to see its first light around 2028.
 
 Space telescopes avoid atmospheric distortion and can observe wavelengths that Earth's atmosphere blocks. Hubble (launched 1990) transformed our understanding of the universe with its sharp visible and ultraviolet images. JWST has exceeded expectations, detecting galaxies from the universe's first few hundred million years and analyzing exoplanet atmospheres.
 
@@ -99,7 +99,7 @@ Modern astronomy doesn't just use electromagnetic radiation.
 
 **Gravitational wave detectors** like LIGO (Laser Interferometer Gravitational-Wave Observatory) detect ripples in spacetime caused by colliding black holes, merging neutron stars, and other cataclysmic events. The first direct detection in September 2015 confirmed a prediction Einstein made exactly 100 years earlier.
 
-**Neutrino detectors** capture subatomic particles produced in stellar cores and supernovae. Super-Kamiokande in Japan, a tank containing 50,000 tons of ultra-pure water buried under a mountain, detects neutrinos from the sun and from supernova explosions in other galaxies.
+**Neutrino detectors** capture [subatomic particles](/subatomic-particles) produced in stellar cores and supernovae. Super-Kamiokande in Japan, a tank containing 50,000 tons of ultra-pure water buried under a mountain, detects neutrinos from the sun and from supernova explosions in other galaxies.
 
 **Cosmic ray detectors** study high-energy particles from space that rain down on Earth's atmosphere continuously. The Pierre Auger Observatory in Argentina covers 3,000 square kilometers — larger than the state of Rhode Island — to detect the showers of secondary particles created when cosmic rays hit the atmosphere.
 
@@ -187,9 +187,9 @@ The big question, of course, is whether any of these worlds harbor life. JWST is
 
 People sometimes ask why we spend money studying objects billions of light-years away when we have problems here on Earth.
 
-The practical answer: astronomy drives technology. CCDs (the sensor in your phone camera), GPS (which requires corrections from Einstein's relativity), WiFi (based partly on radio astronomy signal processing techniques), and medical imaging all have roots in astronomical research.
+The practical answer: astronomy drives technology. CCDs (the sensor in your phone camera), GPS (which requires corrections from Einstein's [relativity](/relativity)), WiFi (based partly on radio astronomy [signal processing](/signal-processing) techniques), and [medical imaging](/medical-imaging) all have roots in astronomical research.
 
-The scientific answer: understanding the universe is understanding the context of our existence. [Astrophysics](/astrophysics) tells us where the elements in our bodies came from. Planetary science informs our understanding of Earth's climate. Monitoring near-Earth asteroids is literally about planetary defense.
+The scientific answer: understanding the universe is understanding the context of our existence. [Astrophysics](/astrophysics) tells us where the elements in our bodies came from. [Planetary science](/planetary-science) informs our understanding of Earth's climate. Monitoring near-Earth asteroids is literally about planetary defense.
 
 But the honest answer is simpler than any of that. We look up because we're curious. Because the universe is strange, beautiful, and vastly larger than anything we can fully comprehend — and somehow, on one small rocky planet orbiting one ordinary star in one of two trillion galaxies, evolution produced beings who can figure out what those distant points of light actually are.
 

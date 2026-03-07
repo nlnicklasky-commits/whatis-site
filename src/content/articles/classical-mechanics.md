@@ -5,7 +5,7 @@ description: "Classical mechanics explains how objects move under the influence 
 category: science
 tags: ["classical mechanics", "physics", "newton's laws", "motion", "energy", "force", "engineering"]
 heroImage: "/images/articles/classical-mechanics-hero.webp"
-heroAlt: "Pendulum demonstrating Newton's cradle with momentum transfer between steel balls"
+heroAlt: "Editorial photograph representing the concept of classical mechanics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Classical Mechanics?
 
-Classical mechanics is the branch of physics that describes the motion of objects under the influence of forces, using principles formulated primarily by Isaac Newton in the 17th century. It accurately predicts how everything from falling apples to orbiting planets behaves, provided objects are much larger than atoms and moving well below the speed of light. Despite being over 300 years old, classical mechanics remains the foundation for most engineering disciplines and is the physics you experience directly every moment of your life.
+Classical mechanics is the branch of physics that describes the motion of objects under the influence of forces, using principles formulated primarily by Isaac Newton in the 17th century. It accurately predicts how everything from falling apples to orbiting planets behaves, provided objects are much larger than atoms and moving well below the speed of light. Despite being over 300 years old, classical mechanics remains the foundation for most [engineering](/engineering) disciplines and is the physics you experience directly every moment of your life.
 
 ## Newton's Three Laws: The Whole Framework
 
@@ -147,7 +147,7 @@ Newton's laws work perfectly, but they can be awkward for complex systems—espe
 
 **Lagrangian mechanics** uses energy (kinetic minus potential) rather than forces as its starting point. You write the Lagrangian L = T - V, then apply the Euler-Lagrange equation to get the equations of motion. The beauty is that you can use any convenient coordinate system—Cartesian, polar, spherical, or whatever suits the problem—and the method works the same way.
 
-**Hamiltonian mechanics** reformulates things yet again, using the total energy (kinetic plus potential) and treating position and momentum as independent variables. This formulation is particularly useful for theoretical work and turns out to be the natural bridge between classical and quantum mechanics.
+**Hamiltonian mechanics** reformulates things yet again, using the total energy (kinetic plus potential) and treating position and momentum as independent variables. This formulation is particularly useful for theoretical work and turns out to be the natural bridge between classical and [quantum mechanics](/quantum-mechanics).
 
 These reformulations don't add new physics—they produce exactly the same predictions as Newton's laws. But they make certain problems much easier to solve and reveal deep symmetries in physics. Noether's theorem, for instance, shows that every symmetry in the Lagrangian corresponds to a conserved quantity: time symmetry gives conservation of energy, spatial symmetry gives conservation of momentum, rotational symmetry gives conservation of angular momentum.
 
@@ -161,7 +161,7 @@ At atomic and subatomic scales, particles don't behave like tiny billiard balls.
 
 The transition happens roughly at molecular scales. A baseball follows Newton's laws perfectly. A molecule mostly does too. But an individual electron or photon? Classical mechanics gives wrong answers.
 
-### Very Fast Things (Special Relativity)
+### Very Fast Things (Special [Relativity](/relativity))
 
 As objects approach the speed of light (roughly 300,000 km/s), classical mechanics gives increasingly wrong predictions. At 10% of light speed, errors start becoming noticeable. At 90% of light speed, classical mechanics is wildly wrong—it predicts that objects can exceed the speed of light, which special relativity says is impossible.
 
@@ -171,13 +171,13 @@ For everyday speeds—even jet aircraft speeds—relativistic corrections are ne
 
 Here's the thing most people miss about classical mechanics being "wrong." For virtually everything you'll ever encounter—every car, bridge, airplane, rocket, ball, spring, gear, wheel, and falling object—classical mechanics gives answers accurate to many decimal places. It's not wrong so much as incomplete. It describes a limiting case of more general theories, and that limiting case happens to be the one where you spend your entire life.
 
-Engineers don't use quantum mechanics to design bridges. They don't use general relativity to calculate stress in a beam. They use Newton's laws—three centuries old—because those laws work perfectly for every scale and speed relevant to their problems.
+Engineers don't use quantum mechanics to design bridges. They don't use [general relativity](/general-relativity) to calculate stress in a beam. They use Newton's laws—three centuries old—because those laws work perfectly for every scale and speed relevant to their problems.
 
 ## Why Classical Mechanics Still Matters
 
 You might wonder why anyone bothers studying a 300-year-old theory when more "advanced" physics exists. The answer is straightforward: classical mechanics describes your world.
 
-Every physical action you take—walking, driving, throwing, lifting—follows classical mechanics. Every machine, every building, every vehicle, every sports play involves classical mechanics. The entire field of [civil engineering](/civil-engineering) rests on it. [Aerospace engineering](/aerospace-engineering) uses it to put satellites in orbit. Mechanical engineering uses it to design engines and transmissions. Robotics uses it to control manipulators and walking machines.
+Every physical action you take—walking, driving, throwing, lifting—follows classical mechanics. Every machine, every building, every vehicle, every sports play involves classical mechanics. The entire field of [civil engineering](/civil-engineering) rests on it. [Aerospace engineering](/aerospace-engineering) uses it to put satellites in orbit. [Mechanical engineering](/mechanical-engineering) uses it to design engines and transmissions. Robotics uses it to control manipulators and walking machines.
 
 Classical mechanics is also where physics becomes intuitive. You can develop physical intuition for Newtonian mechanics because you experience it constantly. A ball thrown at 45 degrees travels the farthest—you can verify this at any park. Heavier objects need more force to accelerate—you know this from pushing shopping carts. Action and reaction are equal—you feel the recoil every time you push something.
 

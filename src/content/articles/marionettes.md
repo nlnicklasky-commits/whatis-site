@@ -5,7 +5,7 @@ description: "Marionettes are puppets controlled from above by strings or wires 
 category: arts-amp-culture
 tags: ["marionettes", "puppetry", "performing arts", "string puppets", "theater", "folk art"]
 heroImage: "/images/articles/marionettes.webp"
-heroAlt: "Handcrafted wooden marionette puppet hanging from strings against a stage backdrop"
+heroAlt: "Editorial photograph representing the concept of marionettes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Marionettes?
 
-A marionette is a puppet controlled from above by strings or wires attached to a horizontal bar (called a "control" or "crutch") held by the puppeteer. The strings connect to different parts of the puppet's body — head, shoulders, hands, knees, back — allowing the operator to create remarkably lifelike movements: walking, dancing, bowing, gesturing, and even seemingly breathing.
+A marionette is a puppet controlled from above by strings or wires attached to a horizontal bar (called a "control" or "crutch") held by the puppeteer. The strings connect to different parts of the puppet's body — head, shoulders, hands, knees, back — allowing the operator to create remarkably lifelike movements: [walking](/walking), dancing, bowing, gesturing, and even seemingly breathing.
 
-Marionettes are the most complex form of puppetry. Where a hand puppet responds to five fingers, a marionette might respond to nine, twelve, or even thirty individual strings. The coordination required to operate one well takes years to develop. But when it's done right, a marionette achieves a quality of movement that no other puppet type can match — a fluid, gravity-aware motion that comes from the puppet actually hanging in space, subject to real physics.
+Marionettes are the most complex form of [puppetry](/puppetry). Where a hand puppet responds to five fingers, a marionette might respond to nine, twelve, or even thirty individual strings. The coordination required to operate one well takes years to develop. But when it's done right, a marionette achieves a quality of movement that no other puppet type can match — a fluid, gravity-aware motion that comes from the puppet actually hanging in space, subject to real [physics](/physics).
 
 ## A Long History
 
@@ -41,17 +41,17 @@ String-controlled figures have been around for at least 2,500 years. Ancient Gre
 
 The word "marionette" comes from the French "little Mary" — likely a reference to small figures of the Virgin Mary used in medieval religious plays. By the Middle Ages, marionette shows were common at fairs, markets, and courts across Europe.
 
-The 18th and 19th centuries were a golden age. Traveling marionette companies performed everything from folk tales to full operas. In some regions, marionette theater was the primary form of dramatic entertainment. The Sicilian *Opera dei Pupi* — marionette shows telling stories of Charlemagne and the Crusades — was so important that UNESCO designated it as Intangible Cultural Heritage.
+The 18th and 19th centuries were a golden age. Traveling marionette companies performed everything from folk tales to full operas. In some regions, marionette theater was the primary form of dramatic entertainment. The Sicilian *[Opera](/opera) dei Pupi* — marionette shows telling stories of Charlemagne and the Crusades — was so important that UNESCO designated it as Intangible Cultural Heritage.
 
 ## How They're Made
 
 Building a marionette is a craft in itself:
 
-**The body.** Traditionally carved from wood — linden (basswood) is preferred for its fine grain and ease of carving. Modern marionettes also use foam, papier-mache, resin, and 3D-printed parts. The body is designed with joints at every point that needs to move — neck, shoulders, elbows, wrists, hips, knees, and ankles.
+**The body.** Traditionally carved from wood — linden (basswood) is preferred for its fine grain and ease of carving. Modern marionettes also use foam, [papier-mache](/papier-mch), resin, and 3D-printed parts. The body is designed with joints at every point that needs to move — neck, shoulders, elbows, wrists, hips, knees, and ankles.
 
-**Joints.** These must allow natural movement without being floppy. Various mechanisms work — leather hinges, screw eyes and loops, ball joints, or fabric connections. The type of joint determines the quality of movement. Getting joints right is one of the most critical skills in marionette construction.
+**Joints.** These must allow natural movement without being floppy. Various mechanisms work — leather hinges, screw eyes and loops, ball joints, or fabric connections. The type of joint determines the quality of movement. Getting joints right is one of the most critical skills in marionette [construction](/construction).
 
-**Stringing.** Strings (traditionally linen or cotton thread, now often nylon or fishing line) connect body parts to the control bar. Each string must be the right length — too long and the puppet droops; too short and it's stiff. The standard stringing connects to the head (for nodding and turning), shoulders (for tilting), hands (for gestures), knees (for walking), and back (for bowing).
+**Stringing.** Strings (traditionally linen or cotton thread, now often nylon or [fishing](/fishing) line) connect body parts to the control bar. Each string must be the right length — too long and the puppet droops; too short and it's stiff. The standard stringing connects to the head (for nodding and turning), shoulders (for tilting), hands (for gestures), knees (for walking), and back (for bowing).
 
 **The control bar.** This is the operator's interface — a wooden or metal framework that organizes the strings so each body part can be moved independently. Different control designs suit different performance needs. Some are simple crosses; others are complex multi-level structures with detachable leg bars.
 
@@ -81,6 +81,6 @@ Several marionette traditions have achieved global recognition:
 
 ## Why Marionettes Endure
 
-In an age of CGI and digital animation, why do marionettes still captivate audiences? Partly it's the craftsmanship — a beautifully made puppet is an art object in itself. Partly it's the live performance element — the visible skill of the operator, the real-time creation of movement. And partly it's something harder to define — the uncanny quality of a wooden figure that seems, against all logic, to be alive.
+In an age of CGI and digital [animation](/animation), why do marionettes still captivate audiences? Partly it's the craftsmanship — a beautifully made puppet is an art object in itself. Partly it's the live performance element — the visible skill of the operator, the real-time creation of movement. And partly it's something harder to define — the uncanny quality of a wooden figure that seems, against all [logic](/logic), to be alive.
 
-Children respond to marionettes with an openness that adults sometimes lose. But adults who watch skilled marionette theater often find themselves just as absorbed — drawn into a form of storytelling that's both ancient and somehow always fresh.
+Children respond to marionettes with an openness that adults sometimes lose. But adults who watch skilled marionette theater often find themselves just as absorbed — drawn into a form of [storytelling](/storytelling) that's both ancient and somehow always fresh.

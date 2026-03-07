@@ -5,7 +5,7 @@ description: "Travel photography captures places, people, and cultures through i
 category: arts-amp-culture
 tags: ["travel photography", "photography", "travel", "culture", "landscape", "visual arts"]
 heroImage: "/images/articles/travel-photography.webp"
-heroAlt: "A photographer capturing a dramatic sunset over ancient temple ruins"
+heroAlt: "Editorial photograph representing the concept of travel photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -64,7 +64,7 @@ The travel photos that resonate most feel genuine rather than staged. This doesn
 
 ### Essential Lenses
 
-A versatile zoom (24-70mm or 24-105mm equivalent) covers most situations. A wider lens (16-35mm) excels at landscapes and architecture. A longer zoom (70-200mm) is useful for wildlife, candid portraits, and compressed perspectives.
+A versatile zoom (24-70mm or 24-105mm equivalent) covers most situations. A wider lens (16-35mm) excels at landscapes and [architecture](/architecture). A longer zoom (70-200mm) is useful for wildlife, candid portraits, and compressed perspectives.
 
 ### Other Gear
 

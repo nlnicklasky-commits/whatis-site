@@ -5,7 +5,7 @@ description: "Tragedy is a genre of drama depicting a protagonist's downfall thr
 category: arts-amp-culture
 tags: ["tragedy literature", "drama", "theater", "Greek tragedy", "Shakespeare", "literary genre"]
 heroImage: "/images/articles/tragedy-literature.webp"
-heroAlt: "A theatrical mask showing the sorrowful expression of tragedy"
+heroAlt: "Editorial photograph representing the concept of tragedy (literature)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Tragedy (Literature)?
 
-Tragedy is one of the oldest and most enduring genres of literature and drama. Fundamentally, it tells the story of a person — usually someone of status or exceptional quality — whose life spirals from prosperity to catastrophe through some combination of personal failings, impossible circumstances, and the indifference of fate.
+Tragedy is one of the oldest and most enduring genres of literature and [drama](/drama). Fundamentally, it tells the story of a person — usually someone of status or exceptional quality — whose life spirals from prosperity to catastrophe through some combination of personal failings, impossible circumstances, and the indifference of fate.
 
 It's supposed to make you feel terrible. That's the point. And paradoxically, the experience of watching someone suffer devastating loss produces something deeply satisfying — what the [ancient Greeks](/ancient-greek-history) called *catharsis*, a purging of emotions that leaves the audience shaken but strangely uplifted.
 
@@ -65,7 +65,7 @@ Greek tragedies were performed at religious festivals, in massive open-air theat
 
 ## Shakespearean Tragedy
 
-Shakespeare (1564-1616) created the other great body of tragic drama. His major tragedies explore individual psychology with a depth the Greeks didn't attempt:
+Shakespeare (1564-1616) created the other great body of tragic drama. His major tragedies explore individual [psychology](/psychology) with a depth the Greeks didn't attempt:
 
 - **Hamlet** — Indecision in the face of moral obligation
 - **Macbeth** — Ambition corrupting a good person

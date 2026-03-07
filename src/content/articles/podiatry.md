@@ -5,7 +5,7 @@ description: "Podiatry is the medical specialty focused on diagnosing and treati
 category: health-amp-wellness
 tags: ["foot health", "podiatry", "medicine", "healthcare"]
 heroImage: "/images/articles/podiatry.webp"
-heroAlt: "A podiatrist examining a patient's foot with medical instruments in a clinical setting"
+heroAlt: "Editorial photograph representing the concept of podiatry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ A diabetic patient with numbness in their toes, for instance, may be experiencin
 
 Most podiatric care doesn't involve surgery. Common conservative treatments include:
 
-**Custom orthotics** — prescription shoe inserts molded to your foot's specific shape and biomechanics. Unlike the generic insoles you buy at the drugstore, custom orthotics are built from a cast or 3D scan of your foot and designed to correct specific mechanical problems. They're particularly effective for plantar fasciitis, flat feet, and conditions that result from abnormal foot mechanics.
+**Custom orthotics** — prescription shoe inserts molded to your foot's specific shape and [biomechanics](/biomechanics). Unlike the generic insoles you buy at the drugstore, custom orthotics are built from a cast or 3D scan of your foot and designed to correct specific mechanical problems. They're particularly effective for plantar fasciitis, flat feet, and conditions that result from abnormal foot mechanics.
 
 **Medications** — podiatrists prescribe oral and topical medications for infections, inflammation, pain, and skin conditions affecting the feet. Antifungals for toenail infections, corticosteroid injections for plantar fasciitis, and antibiotics for infected wounds are all common.
 
@@ -87,7 +87,7 @@ A bunion isn't just a bump. It's a structural deformity where the big toe angles
 
 This is where podiatry arguably saves the most lives — and limbs. Diabetes damages nerves and blood vessels in the feet, creating a dangerous combination: you can't feel injuries, and your body can't heal them efficiently.
 
-The statistics are grim. About 130,000 lower limb amputations are performed on diabetic patients in the U.S. each year. But here's the critical point: studies show that regular podiatric care reduces amputation rates by 45-85%. The American Diabetes Association recommends annual thorough foot exams for all diabetic patients.
+The [statistics](/statistics) are grim. About 130,000 lower limb amputations are performed on diabetic patients in the U.S. each year. But here's the critical point: studies show that regular podiatric care reduces amputation rates by 45-85%. The American Diabetes Association recommends annual thorough foot exams for all diabetic patients.
 
 ### Ingrown Toenails
 
@@ -103,15 +103,15 @@ The path to becoming a podiatrist is long and rigorous.
 
 ### Undergraduate Education
 
-Four years of college, typically with a heavy science emphasis — biology, [chemistry](/chemistry), physics, and organic chemistry. Most podiatric medical schools require the MCAT for admission, the same standardized test required by MD and DO programs.
+Four years of college, typically with a heavy science emphasis — biology, [chemistry](/chemistry), physics, and [organic chemistry](/organic-chemistry). Most podiatric medical schools require the MCAT for admission, the same standardized test required by MD and DO programs.
 
 ### Podiatric Medical School
 
-Four years at one of nine accredited colleges of podiatric medicine in the United States. The first two years mirror the medical school curriculum: [anatomy](/anatomy), physiology, biochemistry, pharmacology, and pathology. The final two years focus on clinical rotations with an emphasis on lower extremity medicine and surgery.
+Four years at one of nine accredited colleges of podiatric medicine in the United States. The first two years mirror the medical school curriculum: [anatomy](/anatomy), [physiology](/physiology), [biochemistry](/biochemistry), [pharmacology](/pharmacology), and pathology. The final two years focus on clinical rotations with an emphasis on lower extremity medicine and surgery.
 
 ### Residency
 
-Three years of hospital-based residency training in podiatric medicine and surgery. Residents gain experience in surgical techniques, trauma management, wound care, biomechanics, and the management of systemic conditions that affect the feet.
+Three years of hospital-based residency training in podiatric medicine and surgery. Residents gain experience in surgical techniques, trauma [management](/management), wound care, biomechanics, and the management of systemic conditions that affect the feet.
 
 ### Board Certification
 

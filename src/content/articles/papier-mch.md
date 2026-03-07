@@ -5,7 +5,7 @@ description: "Papier-mache is a craft technique using paper and adhesive to crea
 category: everyday-concepts
 tags: ["papier mch", "crafts", "sculpture", "art", "paper art", "DIY"]
 heroImage: "/images/articles/papier-mch.webp"
-heroAlt: "A colorful papier-mache mask being decorated with paint and embellishments"
+heroAlt: "Editorial photograph representing the concept of papier-mache"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ The material's lightness made it ideal for theatrical props and carnival figures
 
 **Armatures.** Balloons make excellent forms for round shapes — inflate, cover with strips, pop when dry. Crumpled newspaper secured with masking tape creates larger shapes. Wire mesh forms complex structures. Cardboard boxes and tubes provide angular bases.
 
-**Finishing.** Seal the dried surface with gesso or white paint before decorating — raw papier-mache absorbs paint unevenly. Acrylic paints work well. A final coat of varnish or polyurethane adds durability and water resistance.
+**Finishing.** Seal the dried surface with gesso or white paint before [decorating](/decorating) — raw papier-mache absorbs paint unevenly. Acrylic paints work well. A final coat of varnish or polyurethane adds durability and water resistance.
 
 **Common mistakes.** Using strips that are too large (they wrinkle and create bubbles). Not letting layers dry fully (trapped moisture causes mold). Using too much paste (the piece becomes soggy and takes forever to dry). Not enough layers (the result is fragile).
 
@@ -71,4 +71,4 @@ Educational settings love papier-mache because it's cheap, safe, and teaches lay
 
 DIY culture has embraced papier-mache for home decor — bowls, vases, picture frames, and decorative objects. Pinterest and YouTube have revived interest among adults who discover that the technique they used in second grade can actually produce sophisticated results with a bit more care and better finishing techniques.
 
-Papier-mache sits in a sweet spot between serious art material and accessible craft. It costs almost nothing, requires no specialized tools, and produces results ranging from a child's first sculpture to museum-quality work. The gap between those extremes is just technique, patience, and a willingness to get your hands messy.
+Papier-mache sits in a sweet spot between serious art material and accessible craft. It costs almost nothing, requires no specialized tools, and produces results ranging from a child's first [sculpture](/sculpture) to museum-quality work. The gap between those extremes is just technique, patience, and a willingness to get your hands messy.

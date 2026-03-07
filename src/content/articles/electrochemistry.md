@@ -5,7 +5,7 @@ description: "Electrochemistry studies how chemical reactions produce electricit
 category: science
 tags: ["electrochemistry", "chemistry", "electricity", "redox reactions", "batteries", "fuel cells", "electrolysis"]
 heroImage: "/images/articles/electrochemistry-hero.webp"
-heroAlt: "Electrochemical cell with electrodes submerged in solution showing electron flow"
+heroAlt: "Editorial photograph representing the concept of electrochemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Electrochemistry?
 
-Electrochemistry is the branch of [chemistry](/chemistry) that studies the relationship between chemical reactions and electrical energy — specifically, how chemical reactions can produce electricity and how electricity can drive chemical reactions. It governs the operation of every battery, the rusting of every bridge, and the industrial production of metals like aluminum.
+Electrochemistry is the branch of [chemistry](/chemistry) that studies the relationship between chemical reactions and electrical energy — specifically, how chemical reactions can produce [electricity](/electricity) and how electricity can drive chemical reactions. It governs the operation of every battery, the rusting of every bridge, and the industrial production of metals like aluminum.
 
 ## The Basic Idea: Electrons on the Move
 
@@ -123,7 +123,7 @@ Where R is the gas constant, T is temperature, n is the number of electrons tran
 
 ### Primary (Non-Rechargeable) Batteries
 
-**Alkaline batteries** (the standard AA, AAA, C, D cells) use zinc and manganese dioxide electrodes with a potassium hydroxide electrolyte. They produce 1.5 V per cell and are the workhorses of consumer electronics. About 10 billion are produced annually worldwide.
+**Alkaline batteries** (the standard AA, AAA, C, D cells) use zinc and manganese dioxide electrodes with a potassium hydroxide electrolyte. They produce 1.5 V per cell and are the workhorses of consumer [electronics](/electronics). About 10 billion are produced annually worldwide.
 
 **Lithium primary batteries** (like CR2032 coin cells) use lithium metal anodes and various cathode materials. They produce 3 V per cell, have excellent shelf life (10+ years), and work across wide temperature ranges. The high energy density comes from lithium's extremely negative electrode potential (-3.04 V) and low atomic weight.
 
@@ -209,7 +209,7 @@ These sensors exploit the direct relationship between chemical concentration and
 
 ### Water Treatment
 
-Electrochemical methods are increasingly used for water purification. Electrocoagulation uses sacrificial electrodes to generate coagulants in situ, removing suspended solids, heavy metals, and organic pollutants. Electrooxidation can destroy organic contaminants directly. These methods are gaining popularity because they avoid the need to transport and handle chemical reagents.
+Electrochemical methods are increasingly used for [water purification](/water-purification). Electrocoagulation uses sacrificial electrodes to generate coagulants in situ, removing suspended solids, heavy metals, and organic pollutants. Electrooxidation can destroy organic contaminants directly. These methods are gaining popularity because they avoid the need to transport and handle chemical reagents.
 
 ## The Future of Electrochemistry
 
@@ -233,8 +233,8 @@ For grid-scale energy storage, flow batteries offer an interesting alternative t
 
 Every time you charge your phone, start your car, or turn on a flashlight, electrochemistry is doing the work. The [alternative energy](/alternative-energy) transition — perhaps the most important technological challenge of this century — depends heavily on advances in electrochemical energy storage and conversion. Understanding how electrons and ions move between chemical species isn't just academic curiosity — it's the science behind the technology that will determine whether we successfully decarbonize our energy systems.
 
-The remarkable thing about electrochemistry is how directly the fundamental science connects to everyday technology. The Nernst equation explains why your phone battery reads 73% charge. Standard electrode potentials explain why galvanized steel outlasts plain steel. Half-reaction thermodynamics explain why green hydrogen production requires a minimum voltage. Theory and application are unusually close in this field.
+The remarkable thing about electrochemistry is how directly the fundamental science connects to everyday technology. The Nernst equation explains why your phone battery reads 73% charge. Standard electrode potentials explain why galvanized steel outlasts plain steel. Half-reaction [thermodynamics](/thermodynamics) explain why green hydrogen production requires a minimum voltage. Theory and application are unusually close in this field.
 
 ## Key Takeaways
 
-Electrochemistry is the science of converting between chemical energy and electrical energy through redox reactions — electron transfer between chemical species separated at electrodes. It powers every battery, explains every instance of corrosion, and drives major industrial processes from aluminum production to water treatment. As the world transitions toward renewable energy, electrochemical technologies — particularly advanced batteries, fuel cells, and electrolyzers — sit at the center of the solution, making this 200-year-old branch of chemistry more relevant than ever.
+Electrochemistry is the science of converting between chemical energy and electrical energy through redox reactions — electron transfer between chemical species separated at electrodes. It powers every battery, explains every instance of corrosion, and drives major industrial processes from aluminum production to water treatment. As the world transitions toward [renewable energy](/renewable-energy), electrochemical technologies — particularly advanced batteries, fuel cells, and electrolyzers — sit at the center of the solution, making this 200-year-old branch of chemistry more relevant than ever.

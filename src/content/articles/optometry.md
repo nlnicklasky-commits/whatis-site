@@ -5,7 +5,7 @@ description: "Optometry is the healthcare profession focused on vision care and 
 category: health-amp-wellness
 tags: ["optometry", "eye care", "vision", "eyeglasses"]
 heroImage: "/images/articles/optometry.webp"
-heroAlt: "Optometrist performing a comprehensive eye examination using a phoropter instrument"
+heroAlt: "Editorial photograph representing the concept of optometry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Optometry is the healthcare profession focused on examining eyes, diagnosing vis
 
 There's a persistent misconception that optometrists are basically salespeople for eyeglasses. That's like saying a dentist is a toothbrush salesperson. Yes, optometrists prescribe corrective lenses — that's part of the job. But it's one part of a much broader scope.
 
-Modern optometrists diagnose and manage eye diseases (glaucoma, dry eye, macular degeneration, diabetic eye disease), prescribe medications, fit specialty contact lenses for complex corneal conditions, provide vision therapy for binocular vision disorders, co-manage patients before and after eye surgery, screen for systemic diseases that manifest in the eye, and in some states, perform certain minor surgical procedures.
+Modern optometrists diagnose and manage eye diseases (glaucoma, dry eye, macular degeneration, diabetic eye disease), prescribe medications, fit specialty contact lenses for complex corneal conditions, provide vision therapy for binocular vision disorders, co-manage patients before and after eye [surgery](/surgery), screen for systemic diseases that manifest in the eye, and in some states, perform certain minor surgical procedures.
 
 The eye, it turns out, is one of the few places in the body where blood vessels, nerves, and tissue can be directly observed without cutting anything open. An optometrist looking at your retina can spot signs of diabetes, hypertension, high cholesterol, autoimmune diseases, and even some cancers — sometimes before you have any other symptoms. About 301,000 cases of diabetes are estimated to be first detected during routine eye exams each year.
 
@@ -114,7 +114,7 @@ The worldwide increase in myopia is one of optometry's biggest concerns. The num
 - By 2050, an estimated 50% of the world's population — nearly 5 billion people — will be myopic
 - High myopia (above -6.00 diopters) increases the risk of retinal detachment, glaucoma, cataracts, and macular degeneration
 
-Optometrists are at the forefront of **myopia management** — interventions designed to slow myopia progression in children. Evidence-based approaches include:
+Optometrists are at the forefront of **myopia [management](/management)** — interventions designed to slow myopia progression in children. Evidence-based approaches include:
 
 - **Atropine eye drops** (low-dose, 0.01-0.05%) — reduce progression by about 50%
 - **Orthokeratology** — overnight contact lenses that reshape the cornea, slowing progression by 36-56%
@@ -125,13 +125,13 @@ This is a relatively new area of practice — ten years ago, the standard approa
 
 ## Becoming an Optometrist
 
-The path to becoming an optometrist in the United States involves four years of undergraduate education (with specific prerequisite courses in biology, chemistry, physics, and math) followed by four years of Doctor of Optometry (OD) training at one of 23 accredited optometry schools.
+The path to becoming an optometrist in the United States involves four years of undergraduate [education](/education) (with specific prerequisite courses in [biology](/biology), [chemistry](/chemistry), [physics](/physics), and math) followed by four years of Doctor of Optometry (OD) training at one of 23 accredited optometry schools.
 
-The OD curriculum includes ocular anatomy and physiology, pharmacology, optics, clinical diagnosis and treatment, contact lens fitting, vision therapy, and extensive clinical rotations. After graduation, ODs must pass the National Board of Examiners in Optometry (NBEO) exams and obtain state licensure.
+The OD curriculum includes ocular [anatomy](/anatomy) and [physiology](/physiology), [pharmacology](/pharmacology), optics, clinical diagnosis and treatment, contact lens fitting, vision therapy, and extensive clinical rotations. After graduation, ODs must pass the National Board of Examiners in Optometry (NBEO) exams and obtain state licensure.
 
 Some optometrists pursue additional residency training (typically one year) in specialties like pediatric optometry, low vision rehabilitation, ocular disease, or contact lenses.
 
-The career outlook is strong. The Bureau of Labor Statistics projects 9% job growth for optometrists from 2022 to 2032. The median salary was about $131,860 in 2023, with variation based on practice type and location.
+The career outlook is strong. The Bureau of Labor [Statistics](/statistics) projects 9% job growth for optometrists from 2022 to 2032. The median salary was about $131,860 in 2023, with variation based on practice type and location.
 
 ## The Bottom Line on Eye Care
 

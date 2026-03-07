@@ -5,7 +5,7 @@ description: "Tort law governs civil wrongs where one person's actions cause har
 category: everyday-concepts
 tags: ["tort law", "civil law", "negligence", "liability", "damages", "legal system"]
 heroImage: "/images/articles/tort-law.webp"
-heroAlt: "A gavel and legal books on a courtroom desk representing civil law"
+heroAlt: "Editorial photograph representing the concept of tort law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Tort Law?
 
-Tort law is the branch of civil law that deals with situations where one person's actions (or failures to act) cause harm to another person. The word "tort" comes from the Latin *tortum*, meaning "wrong" or "twisted." When someone wrongs you — injures you, damages your property, harms your reputation, or invades your privacy — tort law provides the legal framework for seeking compensation.
+Tort law is the branch of [civil law](/civil-law) that deals with situations where one person's actions (or failures to act) cause harm to another person. The word "tort" comes from the Latin *tortum*, meaning "wrong" or "twisted." When someone wrongs you — injures you, damages your property, harms your reputation, or invades your privacy — tort law provides the legal framework for seeking compensation.
 
 Unlike criminal law, which is about punishing wrongdoing on behalf of society, tort law is about making the injured party whole. The goal is typically money — enough to compensate for medical bills, lost income, property damage, pain and suffering, and other losses caused by the defendant's conduct.
 
@@ -45,7 +45,7 @@ The defendant deliberately caused harm. Common intentional torts include:
 - **Assault** — Intentionally causing someone to fear imminent harmful contact
 - **False imprisonment** — Intentionally confining someone against their will
 - **Trespass** — Intentionally entering someone's property without permission
-- **Defamation** — Publishing false statements that damage someone's reputation (libel if written, slander if spoken)
+- **Defamation** — [Publishing](/publishing) false statements that damage someone's reputation (libel if written, slander if spoken)
 - **Intentional infliction of emotional distress** — Outrageous conduct deliberately causing severe emotional harm
 
 ### Negligence
@@ -90,7 +90,7 @@ Tort law serves several important functions:
 
 **Compensation** — Injured people receive money to cover their losses. Without tort law, victims of negligence or intentional harm would bear all costs themselves.
 
-**Deterrence** — The threat of liability encourages businesses and individuals to act carefully. Product safety, medical standards, and workplace safety all improve when negligence carries financial consequences.
+**Deterrence** — The threat of liability encourages businesses and individuals to act carefully. Product safety, medical standards, and [workplace safety](/workplace-safety) all improve when negligence carries financial consequences.
 
 **Justice** — Tort law provides a peaceful mechanism for resolving disputes about harm. Without it, injured parties might resort to self-help or simply suffer in silence.
 

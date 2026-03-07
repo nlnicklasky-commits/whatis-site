@@ -5,7 +5,7 @@ description: "Pollination is the transfer of pollen from a flower's anther to it
 category: science
 tags: ["biology", "plants", "ecology", "pollinators", "reproduction", "agriculture", "ecosystems"]
 heroImage: "/images/articles/pollination-hero.webp"
-heroAlt: "Honeybee covered in pollen visiting a bright flower during the pollination process"
+heroAlt: "Editorial photograph representing the concept of pollination"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -113,7 +113,7 @@ The pollinator world gets wonderfully weird beyond the usual suspects.
 
 Not all pollination involves animals. Wind pollination (anemophily) is the primary strategy for grasses, conifers, oaks, birches, and many other plants. It works well when plants grow in dense populations, but it's inherently wasteful — plants must produce enormous quantities of pollen because the chance of any individual grain reaching a compatible stigma by wind alone is tiny.
 
-A single corn plant produces 14-50 million pollen grains. A single birch catkin releases about 5.5 million grains. Wind-pollinated plants are responsible for seasonal allergies — all that airborne pollen isn't going unnoticed by your immune system.
+A single corn plant produces 14-50 million pollen grains. A single birch catkin releases about 5.5 million grains. Wind-pollinated plants are responsible for seasonal [allergies](/allergies) — all that airborne pollen isn't going unnoticed by your immune system.
 
 Wind-pollinated flowers look nothing like insect-pollinated ones. They're small, inconspicuous, lacking petals and fragrance (no need to attract visitors), with large, feathery stigmas that act like nets to catch airborne pollen. Grasses, which feed most of the world's population, are wind-pollinated. So are wheat, rice, corn, and the [cereal-science](/cereal-science) crops that form the foundation of global food systems.
 
@@ -127,7 +127,7 @@ Pollinator populations are declining globally, and the evidence is now overwhelm
 
 The causes are multiple and interacting:
 
-**Pesticides**, particularly neonicotinoids, harm bees at sub-lethal levels — they don't necessarily kill bees outright but impair navigation, memory, learning, and reproduction. A forager bee that can't find her way back to the hive is effectively dead. The EU banned most outdoor neonicotinoid use in 2018; the U.S. has been slower to act.
+**Pesticides**, particularly neonicotinoids, harm bees at sub-lethal levels — they don't necessarily kill bees outright but impair [navigation](/navigation), memory, learning, and reproduction. A forager bee that can't find her way back to the hive is effectively dead. The EU banned most outdoor neonicotinoid use in 2018; the U.S. has been slower to act.
 
 **Habitat loss** is arguably the biggest driver. Wildflower meadows, hedgerows, and natural areas that provide food and nesting sites for wild pollinators have been converted to monoculture cropland, suburban development, and managed landscapes. In the UK, 97% of wildflower meadows have been lost since the 1930s.
 
@@ -147,7 +147,7 @@ Managed honeybees aren't going extinct — beekeepers can replace losses by spli
 
 The response to pollinator declines involves multiple strategies:
 
-**Pollinator-friendly farming** — planting wildflower strips alongside crops, reducing pesticide use, maintaining hedgerows, and practicing integrated pest management. Research consistently shows that farms with more natural habitat nearby have better pollination and equivalent or better yields.
+**Pollinator-friendly farming** — planting wildflower strips alongside crops, reducing pesticide use, maintaining hedgerows, and practicing integrated pest [management](/management). Research consistently shows that farms with more natural habitat nearby have better pollination and equivalent or better yields.
 
 **Urban pollination corridors** — cities are creating networks of parks, gardens, green roofs, and planted medians that provide food and nesting sites for urban pollinators. Urban areas can actually support surprising pollinator diversity because they're relatively pesticide-free.
 
@@ -165,7 +165,7 @@ California's Central Valley produces about 80% of the world's almonds — a $6 b
 
 This annual migration is the largest managed pollination event on Earth. Beekeepers from as far away as Florida and Maine load their hives onto flatbed trucks and drive them west. Pollination fees have risen from about $50 per colony in the 1990s to $200+ per colony today, reflecting both increased demand and decreased bee health.
 
-The dependence of a $6 billion industry on the health of a single insect species, transported thousands of miles in trucks, should give everyone pause. It's a remarkable achievement of agricultural logistics and a vivid illustration of how fragile the system is.
+The dependence of a $6 billion industry on the health of a single insect species, transported thousands of miles in trucks, should give everyone pause. It's a remarkable achievement of agricultural logistics and a vivid [illustration](/illustration) of how fragile the system is.
 
 ### Pollination Deficits
 

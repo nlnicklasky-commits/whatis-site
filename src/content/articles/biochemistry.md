@@ -5,7 +5,7 @@ description: "Biochemistry studies chemical processes in living organisms. Learn
 category: science
 tags: ["biochemistry", "biology", "chemistry", "biomolecules", "metabolism", "enzymes", "dna"]
 heroImage: "/images/articles/biochemistry-hero.webp"
-heroAlt: "3D rendering of a protein molecule showing its complex folded structure with alpha helices and beta sheets"
+heroAlt: "Editorial photograph representing the concept of biochemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,7 +59,7 @@ When proteins misfold, bad things happen. Prion diseases (like mad cow disease) 
 
 ### Nucleic Acids: The Information
 
-DNA (deoxyribonucleic acid) and RNA (ribonucleic acid) store and transmit genetic information. The structure of DNA — the famous double helix discovered by Watson and Crick in 1953, with critical X-ray crystallography data from Rosalind Franklin — is one of the most important findings in all of science.
+DNA (deoxyribonucleic acid) and RNA (ribonucleic acid) store and transmit genetic information. The structure of DNA — the famous double helix discovered by Watson and Crick in 1953, with critical [X-ray crystallography](/x-ray-crystallography) data from Rosalind Franklin — is one of the most important findings in all of science.
 
 DNA consists of two strands of nucleotides wound around each other. Each nucleotide contains a sugar (deoxyribose), a phosphate group, and one of four bases: adenine (A), thymine (T), guanine (G), and cytosine (C). The bases pair specifically — A with T, G with C — through hydrogen bonds. This base pairing is what makes DNA replication possible: unzip the strands, and each one acts as a template for building a complementary copy.
 
@@ -131,7 +131,7 @@ Cells must precisely control when and how fast each reaction occurs. Enzyme regu
 
 Modern medicine is biochemistry applied. Nearly every drug targets a specific molecular pathway, and understanding those pathways requires biochemical knowledge.
 
-**Drug design** increasingly uses structural biochemistry — knowing the three-dimensional shape of a target protein (often determined by X-ray crystallography or cryo-electron microscopy) to design molecules that fit into its active site or binding pocket. The HIV protease inhibitors that transformed AIDS from a death sentence to a manageable chronic condition were designed this way.
+**Drug design** increasingly uses structural biochemistry — knowing the three-dimensional shape of a target protein (often determined by X-ray crystallography or cryo-[electron microscopy](/electron-microscopy)) to design molecules that fit into its active site or binding pocket. The HIV protease inhibitors that transformed AIDS from a death sentence to a manageable chronic condition were designed this way.
 
 **Diagnostic testing** is almost entirely biochemical. Blood glucose monitoring measures the concentration of a small molecule. Pregnancy tests detect the hormone hCG using antibodies. PCR (polymerase chain reaction) amplifies DNA sequences for pathogen detection, forensic identification, and genetic testing. CRISPR-based diagnostics — like the SHERLOCK system developed during COVID-19 — use enzymatic reactions to detect specific nucleic acid sequences.
 
@@ -141,25 +141,25 @@ Modern medicine is biochemistry applied. Nearly every drug targets a specific mo
 
 Several analytical methods define the field:
 
-**Chromatography** separates molecules based on their physical properties — size, charge, hydrophobicity, or specific binding interactions. Column chromatography can purify a single protein from a mixture containing thousands.
+**[Chromatography](/chromatography)** separates molecules based on their physical properties — size, charge, hydrophobicity, or specific binding interactions. Column chromatography can purify a single protein from a mixture containing thousands.
 
 **Electrophoresis** separates molecules (particularly proteins and nucleic acids) by size and charge in an electric field. SDS-PAGE (for proteins) and agarose gel electrophoresis (for DNA) are everyday [laboratory](/biology) techniques.
 
-**Mass spectrometry** identifies molecules by their mass-to-charge ratio. Proteomics — the large-scale study of all proteins in a cell — relies heavily on mass spectrometry to identify and quantify thousands of proteins simultaneously.
+**Mass spectrometry** identifies molecules by their mass-to-charge ratio. [Proteomics](/proteomics) — the large-scale study of all proteins in a cell — relies heavily on mass spectrometry to identify and quantify thousands of proteins simultaneously.
 
 **X-ray crystallography** determines the atomic structure of molecules by analyzing how X-rays diffract through crystals. It has produced the structures of tens of thousands of proteins, including many drug targets. Cryo-electron microscopy (cryo-EM) has emerged as a complementary technique, particularly for large molecular complexes that are difficult to crystallize.
 
-**Spectroscopy** — UV-visible, fluorescence, circular dichroism, NMR — provides information about molecular concentration, structure, and dynamics. These are the workhorse measurements of daily biochemistry research.
+**[Spectroscopy](/spectroscopy)** — UV-visible, fluorescence, circular dichroism, NMR — provides information about molecular concentration, structure, and dynamics. These are the workhorse measurements of daily biochemistry research.
 
 ## The Frontiers
 
 Biochemistry isn't a solved field — far from it. Several areas are advancing rapidly:
 
-**Synthetic biology** applies engineering principles to biological systems, designing new metabolic pathways, creating organisms with novel capabilities, and building biological circuits. Engineering bacteria to produce biofuels, pharmaceuticals, or industrial chemicals is a growing application that draws directly on biochemical understanding of metabolism.
+**[Synthetic biology](/synthetic-biology)** applies [engineering](/engineering) principles to biological systems, designing new [metabolic pathways](/metabolic-pathways), creating organisms with novel capabilities, and building biological circuits. Engineering bacteria to produce biofuels, pharmaceuticals, or industrial chemicals is a growing application that draws directly on biochemical understanding of metabolism.
 
 **Metabolomics** — the thorough study of all small molecules (metabolites) in a cell or organism — is the newest "omics" field. By measuring thousands of metabolites simultaneously, researchers can detect metabolic signatures of diseases, identify drug targets, and understand how diet and environment affect health at the molecular level.
 
-**Structural biology at atomic resolution** continues to advance. AlphaFold and similar AI systems have predicted structures for essentially every known protein sequence, creating a structural database that would have taken experimental methods decades to build. But predicted structures aren't perfect — experimental validation remains essential, and understanding protein dynamics (how structures change over time) is the next frontier.
+**[Structural biology](/structural-biology) at atomic resolution** continues to advance. AlphaFold and similar AI systems have predicted structures for essentially every known protein sequence, creating a structural database that would have taken experimental methods decades to build. But predicted structures aren't perfect — experimental validation remains essential, and understanding protein dynamics (how structures change over time) is the next frontier.
 
 **Epigenetics** — chemical modifications to DNA and its associated proteins that affect gene expression without changing the DNA sequence — has revealed a layer of biochemical regulation that was largely invisible 30 years ago. DNA methylation, histone modification, and chromatin remodeling control which genes are active in which cells, and disruptions in epigenetic regulation are implicated in cancer, aging, and developmental disorders.
 

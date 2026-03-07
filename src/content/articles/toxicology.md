@@ -5,7 +5,7 @@ description: "Toxicology is the science of poisons and their effects on living o
 category: science
 tags: ["toxicology", "pharmacology", "poisons"]
 heroImage: "/images/articles/toxicology.webp"
-heroAlt: "Laboratory scientist examining chemical samples under a fume hood with safety equipment"
+heroAlt: "Editorial photograph representing the concept of toxicology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ Paracelsus (1493-1541) didn't just coin the dose-response principle — he also 
 
 ### The Birth of Modern Toxicology
 
-Mathieu Orfila (1787-1853), a Spanish-born physician working in France, is generally credited as the founder of modern toxicology. His 1814 textbook *Traite des Poisons* was the first systematic work on the subject, and he pioneered the use of chemical analysis to detect poisons in the body — transforming toxicology from speculation into forensic science.
+Mathieu Orfila (1787-1853), a Spanish-born physician working in France, is generally credited as the founder of modern toxicology. His 1814 textbook *Traite des Poisons* was the first systematic work on the subject, and he pioneered the use of chemical analysis to detect poisons in the body — transforming toxicology from speculation into [forensic science](/forensic-science).
 
 Orfila's methods were tested in dramatic fashion during the infamous Lafarge murder trial of 1840, where he demonstrated the presence of arsenic in the victim's body using the Marsh test. His testimony helped establish toxicological evidence as admissible in court — a precedent that shapes criminal justice to this day.
 
@@ -139,7 +139,7 @@ The brain is particularly vulnerable because neurons have limited regenerative c
 
 ### Clinical Toxicology
 
-Clinical toxicologists work in emergency medicine, treating poisoning and overdose cases. Poison control centers — the U.S. has 55 — handle over 2 million calls annually. The [CDC's Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/) tracks toxic exposures nationwide.
+Clinical toxicologists work in [emergency medicine](/emergency-medicine), treating poisoning and overdose cases. Poison control centers — the U.S. has 55 — handle over 2 million calls annually. The [CDC's Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/) tracks toxic exposures nationwide.
 
 Treatment approaches include decontamination (activated charcoal, gastric lavage in extreme cases), specific antidotes (naloxone for opioid overdose, atropine for organophosphate poisoning, N-acetylcysteine for acetaminophen overdose), and supportive care (maintaining breathing, circulation, and organ function while the body clears the toxin).
 
@@ -147,7 +147,7 @@ Treatment approaches include decontamination (activated charcoal, gastric lavage
 
 This branch analyzes [biological](/biology) samples to detect drugs, alcohol, and poisons — typically in legal contexts. Forensic toxicologists determine cause of death in suspected poisonings, identify substances in DUI cases, and perform workplace drug testing.
 
-Modern forensic toxicology uses mass spectrometry, immunoassays, and liquid chromatography to detect substances at concentrations as low as nanograms per milliliter. Hair analysis can detect drug use over months. Vitreous humor (eye fluid) provides samples less susceptible to post-mortem changes than blood.
+Modern forensic toxicology uses mass spectrometry, immunoassays, and liquid [chromatography](/chromatography) to detect substances at concentrations as low as nanograms per milliliter. Hair analysis can detect drug use over months. Vitreous humor (eye fluid) provides samples less susceptible to post-mortem changes than blood.
 
 ### Environmental Toxicology (Ecotoxicology)
 
@@ -173,9 +173,9 @@ This approach can screen 10,000 chemicals in the time it would take to do tradit
 
 ### Computational Toxicology
 
-Machine learning models can now predict a chemical's toxicity based on its molecular structure. These quantitative structure-activity relationship (QSAR) models are trained on databases of known toxic and non-toxic compounds. They're not perfect, but they're increasingly accurate and can flag concerning chemicals before any laboratory testing begins.
+[Machine learning](/machine-learning) models can now predict a chemical's toxicity based on its molecular structure. These quantitative structure-activity relationship (QSAR) models are trained on databases of known toxic and non-toxic compounds. They're not perfect, but they're increasingly accurate and can flag concerning chemicals before any laboratory testing begins.
 
-The intersection with [artificial intelligence](/artificial-intelligence) and [data analysis](/data-analysis) is growing rapidly. Deep learning models are being trained on millions of chemical structures and their biological activities, creating prediction systems that improve with every new data point.
+The intersection with [artificial intelligence](/artificial-intelligence) and [data analysis](/data-analysis) is growing rapidly. [Deep learning](/deep-learning) models are being trained on millions of chemical structures and their biological activities, creating prediction systems that improve with every new data point.
 
 ### Organ-on-a-Chip
 

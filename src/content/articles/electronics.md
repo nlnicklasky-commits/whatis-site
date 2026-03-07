@@ -5,7 +5,7 @@ description: "Electronics is the science of controlling electrical current using
 category: technology
 tags: ["electronics", "electrical engineering", "semiconductors", "circuits", "transistors", "integrated circuits", "technology"]
 heroImage: "/images/articles/electronics-hero.webp"
-heroAlt: "Close-up of a printed circuit board with electronic components"
+heroAlt: "Editorial photograph representing the concept of electronics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ People often use "electronics" and "electrical" interchangeably, but there's an 
 
 A power plant is electrical. Your phone is electronic. A light switch is electrical. The smart thermostat controlling your heating system is electronic. The dividing line isn't always clean, but the general principle holds: electronics is about information and control, not about power delivery.
 
-The distinction matters because the engineering challenges are different. Power engineers worry about efficiency, heat dissipation, and insulation at high voltages. Electronics engineers worry about signal integrity, noise, switching speed, and packing billions of transistors into a chip the size of your fingernail.
+The distinction matters because the [engineering](/engineering) challenges are different. Power engineers worry about efficiency, heat dissipation, and insulation at high voltages. Electronics engineers worry about signal integrity, noise, switching speed, and packing billions of transistors into a chip the size of your fingernail.
 
 ## The Components: Building Blocks of Every Circuit
 
@@ -69,11 +69,11 @@ Together, resistors, capacitors, and inductors are the "passive" components — 
 
 ### Diodes
 
-A diode is the simplest semiconductor device: it conducts current in one direction and blocks it in the other. It's a one-way valve for electricity.
+A diode is the simplest semiconductor device: it conducts current in one direction and blocks it in the other. It's a one-way valve for [electricity](/electricity).
 
 Inside, a diode is a junction between two types of semiconductor material: n-type (doped with atoms that provide extra electrons) and p-type (doped with atoms that create electron vacancies, called "holes"). At the junction, electrons and holes combine, creating a depletion zone that blocks current flow. Apply voltage in the forward direction and the depletion zone collapses, allowing current. Apply voltage in reverse and the depletion zone widens, blocking current.
 
-Diodes rectify AC to DC (in power supplies), protect circuits from reverse voltage, emit light (LEDs), and detect radio signals. The humble LED — light-emitting diode — is arguably the most visible application of semiconductor physics in everyday life, now dominating lighting, displays, and indicator applications.
+Diodes rectify AC to DC (in power supplies), protect circuits from reverse voltage, emit light (LEDs), and detect radio signals. The humble LED — light-emitting diode — is arguably the most visible application of [semiconductor physics](/semiconductor-physics) in everyday life, now dominating lighting, displays, and indicator applications.
 
 ### Transistors
 
@@ -129,7 +129,7 @@ Digital circuits process signals that take only two discrete values: high (1) an
 
 A digital signal can be degraded by noise, but as long as the receiver can still distinguish "high" from "low," the information is perfectly preserved. This is why digital music doesn't degrade with copying (unlike analog tape), why digital photos look the same after transmission, and why digital computing is reliable enough to control aircraft and medical equipment.
 
-Digital logic is built from gates — AND, OR, NOT, NAND, NOR, XOR — each performing a simple Boolean operation. Combine enough gates and you can perform any computation. This is the foundation of [computer architecture](/computer-architecture): processors are ultimately vast assemblies of logic gates built from transistors.
+[Digital logic](/digital-logic) is built from gates — AND, OR, NOT, NAND, NOR, XOR — each performing a simple Boolean operation. Combine enough gates and you can perform any computation. This is the foundation of [computer architecture](/computer-architecture): processors are ultimately vast assemblies of logic gates built from transistors.
 
 ### The Analog-Digital Interface
 
@@ -153,7 +153,7 @@ A printed circuit board (PCB) provides both mechanical support and electrical co
 
 Modern PCBs can have dozens of layers, with traces as narrow as 75 micrometers (3 mils), and components placed by robotic pick-and-place machines at rates of 30,000+ components per hour. Surface-mount technology (SMT) has replaced through-hole mounting for most applications, allowing components too small to see with the naked eye.
 
-PCB design is itself a specialized discipline requiring knowledge of signal integrity (high-speed digital signals behave like radio waves and must be treated as transmission lines), electromagnetic compatibility (preventing unintended radiation and susceptibility), thermal management (removing heat from power components), and manufacturing constraints.
+PCB design is itself a specialized discipline requiring knowledge of signal integrity (high-speed digital signals behave like radio waves and must be treated as transmission lines), electromagnetic compatibility (preventing unintended radiation and susceptibility), thermal [management](/management) (removing heat from power components), and manufacturing constraints.
 
 ## Embedded Systems: Electronics That Think
 
@@ -193,7 +193,7 @@ The technology is still maturing — printed transistors are far slower and larg
 
 ### Neuromorphic Computing
 
-Conventional digital electronics processes information fundamentally differently from biological brains. Neuromorphic chips attempt to mimic neural architecture, using artificial synapses and neurons that process information through spikes rather than binary clock cycles. This approach promises dramatic efficiency gains for AI and pattern recognition — tasks where brains excel and conventional electronics struggles with power consumption.
+Conventional digital electronics processes information fundamentally differently from biological brains. Neuromorphic chips attempt to mimic neural architecture, using artificial synapses and neurons that process information through spikes rather than binary clock cycles. This approach promises dramatic efficiency gains for AI and [pattern recognition](/pattern-recognition) — tasks where brains excel and conventional electronics struggles with power consumption.
 
 ## The Invisible Infrastructure
 

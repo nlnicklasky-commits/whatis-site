@@ -5,7 +5,7 @@ description: "Medical terminology is the standardized language used by healthcar
 category: everyday-concepts
 tags: ["medical terminology", "healthcare", "anatomy", "medicine", "Latin", "Greek roots"]
 heroImage: "/images/articles/medical-terminology.webp"
-heroAlt: "Medical textbook open to an anatomy diagram with Latin terminology labels"
+heroAlt: "Editorial photograph representing the concept of medical terminology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Medical terms are assembled from components — like Lego bricks for language:
 
 **Suffixes** go after the root and usually indicate a condition, procedure, or description. "-itis" means inflammation. "-ectomy" means surgical removal. "-ology" means the study of. "-osis" means abnormal condition. "-plasty" means surgical repair.
 
-**Combining vowels** — usually "o" — connect roots to suffixes or other roots for easier pronunciation. "Gastro-" + "-enterology" becomes "gastroenterology" (study of the stomach and intestines).
+**Combining vowels** — usually "o" — connect roots to suffixes or other roots for easier pronunciation. "Gastro-" + "-enterology" becomes "[gastroenterology](/gastroenterology)" (study of the stomach and intestines).
 
 Let's decode a few:
 
@@ -60,7 +60,7 @@ See the pattern? Once you know the pieces, the terms assemble themselves.
 
 Almost all medical terminology derives from Latin and Greek, and there's a practical reason: dead languages don't change. English words shift meaning over time — "nice" used to mean "foolish," "awful" used to mean "awe-inspiring." Latin and Greek medical terms keep their meanings permanently, providing a stable vocabulary that works across centuries and across languages.
 
-The tradition goes back to ancient Greece. Hippocrates (circa 460-370 BCE) and Galen (circa 130-210 CE) wrote medical texts in Greek that remained standard references for over a thousand years. When European universities formalized medical education in the medieval period, Latin was the language of scholarship. New medical terms were coined from Latin and Greek roots, and the practice has continued ever since.
+The tradition goes back to ancient Greece. Hippocrates (circa 460-370 BCE) and Galen (circa 130-210 CE) wrote medical texts in Greek that remained standard references for over a thousand years. When European universities formalized medical [education](/education) in the medieval period, Latin was the language of scholarship. New medical terms were coined from Latin and Greek roots, and the practice has continued ever since.
 
 The international benefit is significant. A Japanese surgeon, a Brazilian cardiologist, and a German pathologist may not share a spoken language, but they can all read a medical chart using the same Latin-Greek terminology.
 
@@ -94,11 +94,11 @@ The danger: confusing abbreviations can cause medication errors. "QD" (once dail
 
 ## Medical Coding and Documentation
 
-Medical terminology is the foundation of clinical documentation and medical coding — the system that translates diagnoses and procedures into standardized codes for billing, insurance, and statistical tracking.
+Medical terminology is the foundation of clinical documentation and medical coding — the system that translates diagnoses and procedures into standardized codes for billing, [insurance](/insurance), and statistical tracking.
 
-The International Classification of Diseases (ICD), maintained by the WHO, contains over 55,000 codes. Each diagnosis gets a specific code: E11.9 is Type 2 diabetes without complications. J18.9 is pneumonia, unspecified. These codes drive healthcare billing, epidemiological tracking, and public health research.
+The International Classification of Diseases (ICD), maintained by the WHO, contains over 55,000 codes. Each diagnosis gets a specific code: E11.9 is Type 2 diabetes without complications. J18.9 is pneumonia, unspecified. These codes drive healthcare billing, epidemiological tracking, and [public health](/public-health) research.
 
-Medical coders — professionals who assign these codes from clinical documentation — need strong medical terminology knowledge. It's a growing field, with the Bureau of Labor Statistics projecting faster-than-average job growth.
+Medical coders — professionals who assign these codes from clinical documentation — need strong medical terminology knowledge. It's a growing field, with the Bureau of Labor [Statistics](/statistics) projecting faster-than-average job growth.
 
 ## Learning Medical Terminology
 

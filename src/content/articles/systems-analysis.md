@@ -5,7 +5,7 @@ description: "Systems analysis is the process of studying a system to identify p
 category: everyday-concepts
 tags: ["systems analysis", "systems thinking", "IT", "business analysis", "problem solving", "engineering"]
 heroImage: "/images/articles/systems-analysis.webp"
-heroAlt: "A flowchart diagram showing the components and connections of a complex system"
+heroAlt: "Editorial photograph representing the concept of systems analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,11 +33,11 @@ faq:
 
 Systems analysis is the systematic study of a complex system — its components, processes, data flows, and interactions — to understand how it works, identify problems, and recommend improvements. It's the discipline of taking something complicated, breaking it apart, understanding the pieces, and figuring out how to make the whole thing work better.
 
-If a hospital's patient scheduling is a mess, a logistics company's delivery routes are inefficient, or a software application keeps crashing, systems analysis is how you figure out *why* — and what to do about it.
+If a hospital's patient [scheduling](/scheduling) is a mess, a [logistics](/logistics) company's delivery routes are inefficient, or a software application keeps crashing, systems analysis is how you figure out *why* — and what to do about it.
 
 ## The Core Idea
 
-Every system has inputs, processes, outputs, and feedback loops. A restaurant takes ingredients and customer orders (inputs), prepares food (processes), delivers meals (outputs), and adjusts based on reviews and sales data (feedback). A software application takes user interactions (inputs), runs code (processes), produces results (outputs), and adjusts based on error logs and user behavior (feedback).
+Every system has inputs, processes, outputs, and feedback loops. A restaurant takes ingredients and customer orders (inputs), prepares food (processes), delivers meals (outputs), and adjusts based on reviews and [sales](/sales) data (feedback). A software application takes user interactions (inputs), runs code (processes), produces results (outputs), and adjusts based on error logs and user behavior (feedback).
 
 Systems analysis examines each of these elements and how they interact. The goal isn't just to understand individual components — it's to understand the *relationships* between them. A problem that looks like a software bug might actually be a data entry issue. A slow process might not be slow itself — it might be waiting on a bottleneck elsewhere in the system.
 
@@ -59,7 +59,7 @@ The analyst models the current system using diagrams, flowcharts, data flow diag
 
 ### 4. Design
 
-Based on the analysis, the analyst proposes one or more solutions — redesigned processes, new [software](/software-engineering), modified workflows, or organizational changes. Good design considers technical feasibility, cost, timeline, and user acceptance.
+Based on the analysis, the analyst proposes one or more solutions — redesigned processes, new [software](/software-[engineering](/engineering)), modified workflows, or organizational changes. Good design considers technical feasibility, cost, timeline, and user acceptance.
 
 ### 5. Implementation and Evaluation
 
@@ -75,7 +75,7 @@ Systems analysts use a variety of modeling tools:
 - **Process flowcharts** — Visualize step-by-step workflows
 - **SWOT analysis** — Evaluate strengths, weaknesses, opportunities, and threats
 
-Modern analysts also use specialized software for requirements management, process modeling, and project tracking.
+Modern analysts also use specialized software for requirements [management](/management), process modeling, and project tracking.
 
 ## Where Systems Analysis Is Used
 
@@ -85,7 +85,7 @@ The most common application. When organizations need new software, upgrade exist
 
 ### Business Process Improvement
 
-Systems analysis isn't limited to technology. Lean manufacturing, Six Sigma, and business process reengineering all draw on systems analysis principles to identify waste, reduce variation, and improve efficiency in business operations.
+Systems analysis isn't limited to technology. [Lean manufacturing](/lean-manufacturing), Six Sigma, and business process reengineering all draw on systems analysis principles to identify waste, reduce variation, and improve efficiency in business operations.
 
 ### Healthcare
 
@@ -99,6 +99,6 @@ Military and government agencies use systems analysis to evaluate procurement de
 
 Here's what separates good systems analysts from merely competent ones: understanding that systems involve people, not just processes and technology. A technically perfect solution that users hate will fail. A simple solution that fits naturally into existing workflows will succeed.
 
-The best analysts spend as much time listening to users, understanding organizational culture, and managing expectations as they do drawing diagrams. Technical skill matters, but [communication](/communication-theory) and empathy matter just as much.
+The best analysts spend as much time listening to users, understanding organizational culture, and managing expectations as they do [drawing](/drawing) diagrams. Technical skill matters, but [communication](/communication-theory) and empathy matter just as much.
 
 Systems analysis isn't glamorous work. Nobody writes breathless articles about someone who improved a data entry workflow. But the discipline quietly makes organizations function better, and the world runs on systems that somebody, somewhere, analyzed and improved.

@@ -5,7 +5,7 @@ description: "Water polo is an aquatic team sport where players swim, pass, and 
 category: sports
 tags: ["water polo", "aquatic sports", "team sports", "Olympic sports", "swimming", "athletics"]
 heroImage: "/images/articles/water-polo.webp"
-heroAlt: "Water polo players competing for the ball in a pool with splashing water and goal nets"
+heroAlt: "Editorial photograph representing the concept of water polo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,21 +31,21 @@ faq:
 
 # What Is Water Polo?
 
-Water polo is a team sport played in a pool where two teams of seven players (six field players plus a goalkeeper) try to throw a ball into the opposing team's goal. Players can't touch the bottom of the pool, can't use two hands on the ball (except the goalkeeper), and spend the entire game swimming, treading water, and physically battling opponents. It's been called the most demanding sport in the world, and frankly, the people who call it that have a point.
+Water polo is a team sport played in a pool where two teams of seven players (six field players plus a goalkeeper) try to throw a ball into the opposing team's goal. Players can't touch the bottom of the pool, can't use two hands on the ball (except the goalkeeper), and spend the entire game [swimming](/swimming), treading water, and physically battling opponents. It's been called the most demanding sport in the world, and frankly, the people who call it that have a point.
 
 ## The Basics
 
-Each game consists of four eight-minute quarters of active play (the clock stops during dead balls, making actual game time about an hour). Teams switch ends after each quarter. The ball is roughly the size of a volleyball but heavier and grippier, designed to be handled with one hand while treading water.
+Each game consists of four eight-minute quarters of active play (the clock stops during dead balls, making actual game time about an hour). Teams switch ends after each quarter. The ball is roughly the size of a [volleyball](/volleyball) but heavier and grippier, designed to be handled with one hand while treading water.
 
 **Possession** — Teams have 30 seconds to attempt a shot or they lose possession. This shot clock ensures continuous action and prevents stalling.
 
-**Fouls** — Water polo has ordinary fouls (resulting in a free pass) and exclusion fouls (the offending player is removed for 20 seconds, creating a power play — similar to hockey). Five personal fouls result in ejection from the game. Major fouls (violence, interfering with a clear goal-scoring opportunity) can result in immediate ejection plus a penalty shot.
+**Fouls** — Water polo has ordinary fouls (resulting in a free pass) and exclusion fouls (the offending player is removed for 20 seconds, creating a power play — similar to [hockey](/hockey)). Five personal fouls result in ejection from the game. Major fouls (violence, interfering with a clear goal-scoring opportunity) can result in immediate ejection plus a penalty shot.
 
 **Goals** — The goals are 3 meters wide and 90 centimeters high. Goalkeepers can use both hands and can stand if they can touch the bottom (though in regulation pools, they can't). Shots are taken with one hand, often from 5-7 meters away, and the best shooters can fire the ball at over 50 mph.
 
 ## What Makes It So Physically Demanding
 
-The cardiovascular demands are extraordinary. Players swim an estimated 1.5 to 3 kilometers per game — not in smooth, efficient laps but in explosive bursts of sprinting interspersed with treading water, wrestling, and rapid directional changes.
+The cardiovascular demands are extraordinary. Players swim an estimated 1.5 to 3 kilometers per game — not in smooth, efficient laps but in explosive bursts of sprinting interspersed with treading water, [wrestling](/wrestling), and rapid directional changes.
 
 The **eggbeater kick** is the foundational skill. Instead of the flutter kick used in swimming, water polo players use alternating circular leg movements that keep them stable and elevated in the water with their hands free. Maintaining this kick for an entire game while also sprinting, wrestling, and shooting requires leg endurance that few other sports demand.
 
@@ -57,7 +57,7 @@ Below the surface, water polo is a full-contact sport that referees can barely m
 
 **Wings** — Positioned on the flanks, wings create shooting angles and drive toward the goal during attacks. Speed and shooting accuracy from the perimeter are essential.
 
-**Point** — The player at the top of the offensive formation, roughly 5-7 meters from goal. Often the primary ball handler and distributor, similar to a point guard in basketball.
+**Point** — The player at the top of the offensive formation, roughly 5-7 meters from goal. Often the primary ball handler and distributor, similar to a point guard in [basketball](/basketball).
 
 **Center back (2-meter defender)** — Defends the center forward. This position requires size, strength, and the willingness to engage in physical wrestling while treading water. It's the most physically combative position in the sport.
 
@@ -83,6 +83,6 @@ At the college level, water polo is primarily a West Coast sport in the U.S. —
 
 If you can swim comfortably, you can learn water polo. Most clubs welcome beginners and teach the eggbeater kick, passing, and shooting fundamentals before introducing game play.
 
-The fitness benefits are substantial — water polo provides a full-body workout that builds cardiovascular endurance, strength, and coordination without the joint impact of land-based sports. The water's buoyancy makes the sport accessible to people who might find running or court sports hard on their bodies.
+The [fitness](/fitness) benefits are substantial — water polo provides a full-body workout that builds cardiovascular endurance, strength, and coordination without the joint impact of land-based sports. The water's buoyancy makes the sport accessible to people who might find [running](/running) or court sports hard on their bodies.
 
 Fair warning: the first few sessions will be humbling. Treading water with the eggbeater kick while trying to handle a ball is genuinely difficult for beginners. But the learning curve is rewarding, and the team aspect — where every player depends on every other player — creates bonds that water polo communities are known for maintaining for decades.

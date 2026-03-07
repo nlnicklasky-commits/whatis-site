@@ -5,7 +5,7 @@ description: "Cellular automata are discrete computational models where simple r
 category: technology
 tags: ["cellular automata", "computation", "simulation", "complexity theory", "mathematics", "game of life", "discrete models"]
 heroImage: "/images/articles/cellular-automata-hero.webp"
-heroAlt: "Grid pattern showing the evolution of Conway's Game of Life cellular automaton"
+heroAlt: "Editorial photograph representing the concept of cellular automata"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Cellular Automata?
 
-A cellular automaton is a discrete model of computation consisting of a grid of cells, each in one of a finite number of states, that evolves over time according to a fixed set of rules based solely on the states of neighboring cells. Despite their simplicity, cellular automata produce extraordinarily complex behavior — from self-replicating patterns to universal computation — making them one of the most studied models of emergent complexity in mathematics and computer science.
+A cellular automaton is a discrete model of computation consisting of a grid of cells, each in one of a finite number of states, that evolves over time according to a fixed set of rules based solely on the states of neighboring cells. Despite their simplicity, cellular automata produce extraordinarily complex behavior — from self-replicating patterns to universal computation — making them one of the most studied models of emergent complexity in mathematics and [computer science](/computer-science).
 
 ## The Simplest Idea That Produces the Most Surprising Results
 
@@ -86,7 +86,7 @@ That's the entire specification. Four rules, binary states, eight neighbors. Fro
 
 The Game of Life is Turing-complete. People have constructed working logic gates (AND, OR, NOT) from interacting glider streams, built memory units, and assembled entire computers — all within the Game of Life grid.
 
-In 2000, Paul Rendell built a Turing machine in the Game of Life. Others have built digital clocks, prime number calculators, and even a pattern that computes the Game of Life itself (the meta-pixel construction). These are absurdly impractical but theoretically profound: four simple rules about cell birth and death are sufficient for universal computation.
+In 2000, Paul Rendell built a Turing machine in the Game of Life. Others have built digital clocks, prime number calculators, and even a pattern that computes the Game of Life itself (the meta-pixel [construction](/construction)). These are absurdly impractical but theoretically profound: four simple rules about cell birth and death are sufficient for universal computation.
 
 This connects to a deep question in computer science: what is the minimum complexity needed for universal computation? Cellular automata suggest the threshold is shockingly low.
 
@@ -102,7 +102,7 @@ Stephen Wolfram systematically explored elementary cellular automata (one-dimens
 
 **Class 4: Complexity.** The system produces structures that are neither entirely random nor entirely ordered. Localized patterns interact in complicated ways. Rule 110, the only elementary cellular automaton proven to be Turing-complete, falls in this class.
 
-Wolfram's controversial 2002 book *A New Kind of Science* argued that Class 4 behavior, which he saw as ubiquitous in nature, meant that cellular automata — not differential equations — should be the fundamental model for scientific explanation. Most scientists found the argument overstated, but the core observation about emergent complexity from simple rules is widely accepted.
+Wolfram's controversial 2002 book *A New Kind of Science* argued that Class 4 behavior, which he saw as ubiquitous in nature, meant that cellular automata — not [differential equations](/differential-equations) — should be the fundamental model for scientific explanation. Most scientists found the argument overstated, but the core observation about emergent complexity from simple rules is widely accepted.
 
 ## Why Scientists Actually Use Cellular Automata
 
@@ -126,11 +126,11 @@ When a liquid crystallizes, the growth front advances locally — each molecule 
 
 Urban expansion follows local rules: development happens near existing development, near roads, near resources. Cellular automata models of urban growth (like SLEUTH, developed at USGS) simulate city expansion over decades, helping urban planners predict infrastructure needs. These models connect to [agriculture](/agriculture) planning by simulating the conversion of agricultural land to urban use.
 
-### Fluid Dynamics
+### [Fluid Dynamics](/fluid-dynamics)
 
 Lattice gas automata and lattice Boltzmann methods model fluid flow using cellular automata principles. Instead of solving the Navier-Stokes equations (a notoriously difficult system of differential equations), these methods simulate individual particles moving and colliding on a grid. In the aggregate, the correct fluid behavior emerges.
 
-This approach handles complex geometries (flow through porous materials, around irregular obstacles) that are difficult to model with traditional methods. It's especially popular in computational physics and engineering.
+This approach handles complex geometries (flow through porous materials, around irregular obstacles) that are difficult to model with traditional methods. It's especially popular in [computational physics](/computational-physics) and engineering.
 
 ## The Deep Questions
 
@@ -148,7 +148,7 @@ This means cellular automata are, in a precise mathematical sense, as complex as
 
 ### The Connection to Physics
 
-Some physicists, notably Gerard 't Hooft (Nobel Prize in Physics, 1999), have proposed that the universe itself might be a cellular automaton at the most fundamental level — that the continuous space, time, and quantum mechanics we observe emerge from discrete local rules operating at the Planck scale.
+Some physicists, notably Gerard 't Hooft (Nobel Prize in Physics, 1999), have proposed that the universe itself might be a cellular automaton at the most fundamental level — that the continuous space, time, and [quantum mechanics](/quantum-mechanics) we observe emerge from discrete local rules operating at the Planck scale.
 
 This is speculative, but it's taken seriously because cellular automata demonstrate that continuous-looking behavior can emerge from discrete systems, that conservation laws and symmetries can arise from simple local rules, and that the computational complexity of the universe — the fact that predicting its future requires actually running it forward — might reflect computational irreducibility rather than mere practical difficulty.
 
@@ -178,6 +178,6 @@ Cellular automata have influenced fields far beyond mathematics and computer sci
 
 The core lesson is disarmingly simple: you don't need complex rules to get complex behavior. Complexity arises from interaction, not from instruction. A cell in Conway's Game of Life follows the same four rules whether it's part of a glider, a gun, or an empty void. The difference is context — what its neighbors are doing.
 
-This insight — that local interactions produce global patterns without global coordination — runs through everything from [machine learning](/machine-learning) (where simple weight updates produce sophisticated neural networks) to economics (where individual transactions produce market behavior) to biology (where simple genetic rules produce organisms of staggering complexity).
+This insight — that local interactions produce global patterns without global coordination — runs through everything from [machine learning](/machine-learning) (where simple weight updates produce sophisticated [neural networks](/neural-networks)) to economics (where individual transactions produce market behavior) to biology (where simple genetic rules produce organisms of staggering complexity).
 
 Cellular automata didn't just give us a new type of mathematical model. They gave us a new way of thinking about how complex things come from simple beginnings. And that's worth far more than any single simulation.

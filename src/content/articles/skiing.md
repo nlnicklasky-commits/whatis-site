@@ -5,7 +5,7 @@ description: "Skiing is a winter sport where you glide over snow on long, narrow
 category: sports
 tags: ["skiing", "winter sports", "snow", "alpine skiing", "cross-country skiing", "ski resort"]
 heroImage: "/images/articles/skiing.webp"
-heroAlt: "A skier carving turns down a snow-covered mountain slope with peaks in the background"
+heroAlt: "Editorial photograph representing the concept of skiing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Skiing?
 
-Skiing is the sport of gliding across snow on a pair of long, narrow boards (skis) attached to specialized boots. It encompasses everything from gentle cruising down groomed runs to hurtling through mogul fields, launching off cliffs in the backcountry, and racing downhill at 90+ mph. It's one of the oldest forms of human transportation — people have been skiing for at least 5,000 years — and one of the most popular winter sports in the world.
+Skiing is the sport of [gliding](/gliding) across snow on a pair of long, narrow boards (skis) attached to specialized boots. It encompasses everything from gentle cruising down groomed runs to hurtling through mogul fields, launching off cliffs in the backcountry, and racing downhill at 90+ mph. It's one of the oldest forms of human transportation — people have been skiing for at least 5,000 years — and one of the most popular winter sports in the world.
 
 About 55 million people ski globally each year. The industry generates roughly $70 billion annually. But numbers don't capture what makes skiing compelling: the sensation of controlled speed on a mountain, the quiet of a snowy forest, the community of people willing to strap planks to their feet and slide down hills in freezing weather.
 
@@ -45,7 +45,7 @@ About 55 million people ski globally each year. The industry generates roughly $
 
 **Backcountry and ski touring** takes skiing outside resort boundaries into ungroomed, unpatrolled mountain terrain. Skiers hike or skin (using climbing skins on the bottom of their skis for traction) uphill and ski fresh powder downhill. It's the most adventurous form of skiing — and the most dangerous, with avalanche risk as the primary concern.
 
-## How Skiing Works (The Physics)
+## How Skiing Works (The [Physics](/physics))
 
 Understanding the physics helps you ski better — and explains why turning works the way it does.
 
@@ -73,12 +73,12 @@ Ski resorts operate on a deceptively simple model: move people uphill, let gravi
 
 Trail difficulty is marked by color: green circles for easy, blue squares for intermediate, black diamonds for advanced, and double black diamonds for expert terrain. This system is standardized within countries but varies between them — a blue run in Europe might be marked black in North America.
 
-Ski culture has its own social dynamics. "Apres-ski" — the socializing that happens after the lifts close — is for many people as important as the actual skiing. Mountain towns like Chamonix, Zermatt, Whistler, and Park City have developed distinctive cultures that blend outdoor athleticism with social life.
+Ski culture has its own [social dynamics](/social-dynamics). "Apres-ski" — the socializing that happens after the lifts close — is for many people as important as the actual skiing. Mountain towns like Chamonix, Zermatt, Whistler, and Park City have developed distinctive cultures that blend outdoor athleticism with social life.
 
 ## The Environmental Tension
 
 Skiing has an uncomfortable relationship with climate change. Winter sport depends on cold temperatures and snow. As global temperatures rise, snowfall at lower elevations is declining, seasons are shortening, and some smaller resorts are closing permanently. A 2023 study projected that without emissions reductions, over half of European ski resorts would face snow scarcity by 2100.
 
-Snowmaking partially compensates — modern snow guns can produce artificial snow when temperatures dip below about 28°F. But snowmaking requires massive amounts of water and electricity, creating its own environmental footprint. The irony of burning energy to make snow in a warming climate is not lost on the industry.
+Snowmaking partially compensates — modern snow guns can produce artificial snow when temperatures dip below about 28°F. But snowmaking requires massive amounts of water and [electricity](/electricity), creating its own environmental footprint. The irony of burning energy to make snow in a warming climate is not lost on the industry.
 
-Many ski areas are responding with sustainability initiatives — renewable energy, water conservation, habitat restoration, and advocacy for climate policy. Whether these efforts can outpace warming remains the central question for skiing's long-term future.
+Many ski areas are responding with sustainability initiatives — [renewable energy](/renewable-energy), water conservation, habitat restoration, and advocacy for climate policy. Whether these efforts can outpace warming remains the central question for skiing's long-term future.

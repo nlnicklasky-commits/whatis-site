@@ -5,7 +5,7 @@ description: "Coin collecting (numismatics) is the hobby of acquiring and studyi
 category: everyday-concepts
 tags: ["coin collecting", "numismatics", "coins", "collectibles", "history", "hobbies"]
 heroImage: "/images/articles/coin-collecting.webp"
-heroAlt: "A spread of antique coins from different eras displayed on a dark velvet cloth"
+heroAlt: "Editorial photograph representing the concept of coin collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Coin Collecting?
 
-Coin collecting — formally called numismatics — is the systematic study and acquisition of coins, tokens, and related objects. Collectors pursue coins for their historical significance, artistic merit, rarity, or metal content. It's one of the oldest hobbies in the world, sometimes called "the hobby of kings" because European royalty were among the first known collectors.
+Coin collecting — formally called [numismatics](/numismatics) — is the systematic study and acquisition of coins, tokens, and related objects. Collectors pursue coins for their historical significance, artistic merit, rarity, or metal content. It's one of the oldest hobbies in the world, sometimes called "the hobby of kings" because European royalty were among the first known collectors.
 
 ## A Very Old Hobby
 
@@ -43,7 +43,7 @@ In the United States, coin collecting took off after the establishment of the U.
 
 Motivations vary enormously. Some collectors are in it for the [history](/art-history). Holding a coin minted during the Roman Empire or used during the American Civil War creates a tangible connection to the past that books and photographs can't match.
 
-Others focus on artistry. Coin design is a legitimate art form — the U.S. Walking Liberty Half Dollar (1916-1947), designed by sculptor Adolph Weinman, is widely considered one of the most beautiful coins ever minted. Modern commemorative coins often feature stunning relief work that pushes the boundaries of what's possible on a small metal disc.
+Others focus on artistry. Coin design is a legitimate art form — the U.S. [Walking](/walking) Liberty Half Dollar (1916-1947), designed by sculptor Adolph Weinman, is widely considered one of the most beautiful coins ever minted. Modern commemorative coins often feature stunning relief work that pushes the boundaries of what's possible on a small metal disc.
 
 Rarity drives many collectors. Finding that one missing date to complete a series, or locating an error coin that slipped past quality control — these small victories fuel an addictive cycle of searching and discovery.
 
@@ -88,6 +88,6 @@ Finding an error coin in circulation is genuinely thrilling — it's the numisma
 
 Online platforms have transformed coin collecting. eBay moves enormous volume, though buyers need to be cautious about authenticity. Heritage Auctions handles the high end of the market, with some lots selling for millions. Apps and databases make price research instant — you can check a coin's approximate value in seconds.
 
-Social media has also lowered the hobby's average age. YouTube channels and TikTok accounts dedicated to coin hunting have attracted younger collectors who might never have visited a coin shop or attended a coin show. The [community](/board-games) is more accessible than ever.
+Social media has also lowered the hobby's average age. YouTube channels and TikTok accounts dedicated to coin [hunting](/hunting) have attracted younger collectors who might never have visited a coin shop or attended a coin show. The [community](/board-games) is more accessible than ever.
 
 Coin collecting works at every budget level. You can spend fifty cents or fifty thousand dollars and find genuine satisfaction either way. The coins don't care how much you paid for them — they carry the same history regardless.

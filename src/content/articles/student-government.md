@@ -5,7 +5,7 @@ description: "Student government is a student-run organization that represents t
 category: education
 tags: ["student government", "education", "leadership", "student council", "elections", "school"]
 heroImage: "/images/articles/student-government.webp"
-heroAlt: "Students gathered around a table discussing school proposals"
+heroAlt: "Editorial photograph representing the concept of student government"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,11 +57,11 @@ The effectiveness varies enormously. Some student governments have genuine influ
 
 ### Event Planning
 
-Homecoming, prom, welcome week, spring fling, guest lectures, community service projects — student government organizes or oversees many of the events that define the student experience. This involves logistics, budgeting, marketing, and coordination with vendors and venues.
+Homecoming, prom, welcome week, spring fling, guest lectures, community service projects — student government organizes or oversees many of the events that define the student experience. This involves [logistics](/logistics), [budgeting](/budgeting), marketing, and coordination with vendors and venues.
 
 ### Policy Input
 
-At some institutions, student government has a formal role in policy discussions. Student representatives may sit on faculty senate committees, participate in strategic planning, or provide input on curriculum changes. This is more common at the college level.
+At some institutions, student government has a formal role in policy discussions. Student representatives may sit on faculty senate committees, participate in [strategic planning](/strategic-planning), or provide input on curriculum changes. This is more common at the college level.
 
 ## A Brief History
 
@@ -75,15 +75,15 @@ The 1960s and 1970s were the high point of student government activism. Student 
 
 Here's what student government participants rarely talk about but what makes the experience genuinely valuable:
 
-- **Negotiation** — You learn to build coalitions, compromise, and get things done when not everyone agrees with you.
-- **Public speaking** — Running meetings, giving campaign speeches, and presenting to administrators builds confidence fast.
+- **[Negotiation](/negotiation)** — You learn to build coalitions, compromise, and get things done when not everyone agrees with you.
+- **[Public speaking](/public-speaking)** — Running meetings, giving campaign speeches, and presenting to administrators builds confidence fast.
 - **Budgeting** — Allocating limited resources across competing priorities is a skill that transfers directly to the professional world.
-- **Organization** — Planning a campus event teaches project management in a way no textbook can.
+- **Organization** — Planning a campus event teaches [project management](/project-management) in a way no textbook can.
 - **Dealing with bureaucracy** — Working within institutional rules and processes is frustrating but useful preparation for virtually any career.
 
 ## The Criticism
 
-Let's be honest: student government has a reputation problem. Critics (including many students) see it as a resume-padding exercise, a popularity contest, or an irrelevant institution that nobody outside the participants cares about. Voter turnout in student government [elections](/political-philosophy) is often dismal — 10-20% at many colleges.
+Let's be honest: student government has a reputation problem. Critics (including many students) see it as a resume-padding exercise, a popularity contest, or an irrelevant institution that nobody outside the participants cares about. Voter turnout in student government [elections](/political-[philosophy](/philosophy)) is often dismal — 10-20% at many colleges.
 
 Some of that criticism is fair. When student government spends its energy on internal politics rather than serving students, it deserves the eye-rolls. But when it's done well — when leaders actually listen to students, manage money responsibly, and push for meaningful change — it's a genuinely effective training ground for democratic participation.
 

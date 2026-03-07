@@ -5,7 +5,7 @@ description: "Natural building uses earth, straw, wood, and other minimally proc
 category: everyday-concepts
 tags: ["natural building", "sustainable architecture", "green building", "eco-friendly", "straw bale", "cob"]
 heroImage: "/images/articles/natural-building.webp"
-heroAlt: "A hand-sculpted cob house with a living grass roof set against rolling green hills"
+heroAlt: "Editorial photograph representing the concept of natural building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Natural Building?
 
-Natural building is a construction approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of structural engineering, insulation, and design.
+Natural building is a [construction](/construction) approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of [structural engineering](/structural-[engineering](/engineering)), insulation, and design.
 
 ## Why People Are Doing This Again
 
@@ -71,7 +71,7 @@ And moisture is the enemy. Every natural building technique requires a good foun
 
 The contemporary natural building movement picked up steam in the 1990s, driven by environmental concerns and a desire for affordable, owner-built housing. Organizations like the Natural Building Network and Cob Cottage Company spread knowledge through workshops and publications.
 
-Today, you'll find natural buildings ranging from tiny garden studios to multi-story commercial structures. The LEED and Living Building Challenge certification programs have helped legitimize natural materials in mainstream architecture.
+Today, you'll find natural buildings ranging from tiny garden studios to multi-story commercial structures. The LEED and Living Building Challenge certification programs have helped legitimize natural materials in mainstream [architecture](/architecture).
 
 Some builders blend old and new — using straw bale insulation with steel frames, or combining rammed earth walls with modern HVAC systems. This hybrid approach often gets the best results: the aesthetic and environmental benefits of natural materials with the structural certainty of engineered systems.
 

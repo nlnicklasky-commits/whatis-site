@@ -5,7 +5,7 @@ description: "Realism is an art movement depicting everyday subjects truthfully,
 category: arts-amp-culture
 tags: ["realism art", "art movement", "19th century", "painting", "Gustave Courbet", "naturalism"]
 heroImage: "/images/articles/realism-art.webp"
-heroAlt: "Realistic painting of workers in a rural field setting"
+heroAlt: "Editorial photograph representing the concept of realism (art)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Realism (Art)?
 
-Realism is an art movement that emerged in France in the 1840s-1850s, committed to depicting the world as it actually appeared — ordinary people, everyday scenes, unglamorous labor, and contemporary life — without the idealization, mythologizing, or dramatic embellishment that had dominated Western art for centuries. It was a political act as much as an aesthetic one. Showing a stone breaker or a grain sifter on a monumental canvas was a declaration that ordinary life deserved the same artistic attention as Greek gods and historical battles.
+Realism is an art movement that emerged in France in the 1840s-1850s, committed to depicting the world as it actually appeared — ordinary people, everyday scenes, unglamorous labor, and contemporary life — without the idealization, mythologizing, or dramatic embellishment that had dominated [Western art](/western-art) for centuries. It was a political act as much as an aesthetic one. Showing a stone breaker or a grain sifter on a monumental canvas was a declaration that ordinary life deserved the same artistic attention as Greek gods and historical battles.
 
 ## The Break with Tradition
 
 To understand why Realism was radical, you need to understand what it rejected.
 
-The French Academy — the institution that controlled art education, exhibitions, and careers in 19th-century France — maintained a strict hierarchy of subjects. At the top: history painting (scenes from mythology, religion, and ancient history). Below that: portraiture. Then landscapes. Then still life. At the bottom: scenes from everyday life (genre painting), considered trivial.
+The French Academy — the institution that controlled art [education](/education), exhibitions, and careers in 19th-century France — maintained a strict hierarchy of subjects. At the top: history [painting](/painting) (scenes from [mythology](/mythology), [religion](/religion), and ancient history). Below that: portraiture. Then landscapes. Then still life. At the bottom: scenes from everyday life (genre painting), considered trivial.
 
-Romantic painters like Delacroix challenged this system through emotional intensity and exotic subjects, but they still dealt in drama, heroism, and the extraordinary. Academic painters like Ingres and Bouguereau produced technically impeccable works that idealized their subjects — smoother skin, nobler poses, more flattering light than reality ever provided.
+Romantic painters like Delacroix challenged this system through emotional intensity and exotic subjects, but they still dealt in [drama](/drama), heroism, and the extraordinary. Academic painters like Ingres and Bouguereau produced technically impeccable works that idealized their subjects — smoother skin, nobler poses, more flattering light than reality ever provided.
 
 Realism said: enough. The most interesting subject for art is what's actually happening around us, right now, to real people. No toga. No angels. No flattery.
 
@@ -59,7 +59,7 @@ Courbet declared: "Show me an angel and I'll paint one." He painted stone breake
 
 Realism wasn't politically neutral. It emerged during the revolutions of 1848, when democratic and socialist movements swept across Europe. Depicting peasants and workers as worthy subjects — giving them the monumental treatment previously reserved for aristocrats and mythological figures — was an implicit political statement.
 
-Courbet was explicit about this. He associated with socialist thinkers like Pierre-Joseph Proudhon and saw art as a tool for social justice. His art wasn't just showing reality — it was arguing that ordinary people's lives mattered as much as anyone else's.
+Courbet was explicit about this. He associated with socialist thinkers like Pierre-Joseph Proudhon and saw art as a tool for [social justice](/social-justice). His art wasn't just showing reality — it was arguing that ordinary people's lives mattered as much as anyone else's.
 
 This political dimension distinguishes Realism from mere technical accuracy. Plenty of academic painters could render reality with photographic precision. What made Realism a movement was the *choice* of subjects and the refusal to idealize or romanticize them.
 

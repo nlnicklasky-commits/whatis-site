@@ -5,7 +5,7 @@ description: "Urology is the medical specialty focused on the urinary tract and 
 category: health-amp-wellness
 tags: ["urology", "urinary tract", "kidney", "bladder", "medicine"]
 heroImage: "/images/articles/urology.webp"
-heroAlt: "An anatomical illustration of the human urinary system showing kidneys, ureters, bladder, and urethra"
+heroAlt: "Editorial photograph representing the concept of urology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,11 +47,11 @@ These are probably the condition most associated with urology, and for good reas
 
 A kidney stone forms when minerals in your urine — most commonly calcium oxalate — crystallize into a solid mass. Small stones (under 5 millimeters) often pass on their own, though "on their own" still means excruciating pain as the stone moves through the ureter. Larger stones may require intervention.
 
-Modern treatment has come a long way from the days of open surgery. Extracorporeal shock wave lithotripsy (ESWL) uses focused sound waves to break stones into passable fragments without any incision. Ureteroscopy involves threading a thin scope up through the urethra and bladder to reach the stone directly and break it with laser energy. For very large stones, percutaneous nephrolithotomy uses a small incision in the back to remove the stone directly from the kidney.
+Modern treatment has come a long way from the days of open [surgery](/surgery). Extracorporeal shock wave lithotripsy (ESWL) uses focused sound waves to break stones into passable fragments without any incision. Ureteroscopy involves threading a thin scope up through the urethra and bladder to reach the stone directly and break it with laser energy. For very large stones, percutaneous nephrolithotomy uses a small incision in the back to remove the stone directly from the kidney.
 
 ### Urinary Tract Infections
 
-UTIs are among the most common infections worldwide — roughly 150 million cases per year globally. Women are far more likely to get them than men, largely because of anatomy: the female urethra is shorter (about 4 cm vs. 20 cm in men), giving bacteria a shorter path to the bladder.
+UTIs are among the most common infections worldwide — roughly 150 million cases per year globally. Women are far more likely to get them than men, largely because of [anatomy](/anatomy): the female urethra is shorter (about 4 cm vs. 20 cm in men), giving bacteria a shorter path to the bladder.
 
 Most uncomplicated UTIs are treated by primary care doctors with antibiotics. Urologists get involved when infections are recurrent (three or more per year), complicated by anatomical abnormalities, or resistant to standard antibiotics. They also evaluate whether an underlying structural problem — like a kidney stone or bladder dysfunction — is causing repeated infections.
 
@@ -90,7 +90,7 @@ Urologists handle erectile dysfunction, male infertility, testosterone deficienc
 The training pipeline is long. After four years of medical school, urologists complete a five- or six-year residency in urology. Many then pursue an additional one to two years of fellowship training in a subspecialty. The major subspecialties include:
 
 - **Pediatric urology** — congenital abnormalities, undescended testes, vesicoureteral reflux
-- **Urologic oncology** — cancers of the kidney, bladder, prostate, and testes
+- **Urologic [oncology](/oncology)** — cancers of the kidney, bladder, prostate, and testes
 - **Female pelvic medicine** — incontinence, pelvic organ prolapse
 - **Male infertility and andrology** — sperm disorders, microsurgical procedures
 - **Endourology** — minimally invasive treatment of kidney stones and urinary tract problems

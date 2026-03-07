@@ -5,7 +5,7 @@ description: "Skin care is the practice of maintaining skin health through clean
 category: health-amp-wellness
 tags: ["skin care", "dermatology", "beauty", "sunscreen", "skincare routine"]
 heroImage: "/images/articles/skin-care.webp"
-heroAlt: "An organized collection of skincare products including moisturizer, sunscreen, and serum bottles"
+heroAlt: "Editorial photograph representing the concept of skin care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -79,11 +79,11 @@ One surprising fact: even oily skin benefits from moisturizer. Stripping oil wit
 
 This is the big one. If you only do one thing for your skin, this should be it.
 
-Ultraviolet radiation from the sun causes an estimated 80-90% of visible skin aging — wrinkles, dark spots, loss of elasticity, uneven texture. That statistic comes from studies comparing sun-exposed and sun-protected skin on the same individuals. The difference is dramatic.
+Ultraviolet radiation from the sun causes an estimated 80-90% of visible skin aging — wrinkles, dark spots, loss of [elasticity](/elasticity), uneven texture. That statistic comes from studies comparing sun-exposed and sun-protected skin on the same individuals. The difference is dramatic.
 
 UV exposure is also the primary risk factor for skin cancer, the most common cancer in the United States. The Skin Cancer Foundation estimates that 1 in 5 Americans will develop skin cancer by age 70, and that regular daily sunscreen use reduces the risk of melanoma by 50%.
 
-The American Academy of Dermatology recommends a broad-spectrum (UVA + UVB) sunscreen with SPF 30 or higher, applied every day — even on cloudy days, even in winter, even if you're only outside briefly. UVA rays, which cause aging, penetrate clouds and glass.
+The American Academy of [Dermatology](/dermatology) recommends a broad-spectrum (UVA + UVB) sunscreen with SPF 30 or higher, applied every day — even on cloudy days, even in winter, even if you're only outside briefly. UVA rays, which cause aging, penetrate clouds and glass.
 
 The amount matters too. Most people apply far too little. The recommended amount for your face is about a nickel-sized dollop — roughly 1/4 teaspoon. And reapplication every two hours during sun exposure is essential, since sunscreen breaks down over time.
 
@@ -115,7 +115,7 @@ AHAs are water-soluble and work on the skin surface — good for dullness, fine 
 
 ### Hyaluronic Acid
 
-Despite the intimidating name, hyaluronic acid (HA) is a molecule your body already produces. It holds up to 1,000 times its weight in water, making it an excellent humectant. Applied topically in a serum or moisturizer, it plumps skin temporarily by drawing moisture from the environment and deeper skin layers.
+Despite the intimidating name, hyaluronic acid (HA) is a molecule your body already produces. It holds up to 1,000 times its weight in water, making it an excellent humectant. Applied topically in a serum or moisturizer, it plumps skin temporarily by [drawing](/drawing) moisture from the environment and deeper skin layers.
 
 The key word is "temporarily." HA doesn't permanently change your skin — it hydrates on contact and the effect fades as the product wears off or is washed away.
 
@@ -141,7 +141,7 @@ You can't stop aging. You can slow visible aging significantly. The evidence-bac
 
 Procedures like laser resurfacing, microneedling, and injectable treatments (Botox, fillers) address changes that topical products can't fully reverse. These fall into the territory of dermatology and cosmetic medicine rather than daily skin care.
 
-## What Doesn't Work (Despite the Marketing)
+## What Doesn't Work (Despite the [Marketing](/marketing))
 
 **Collagen creams.** Collagen molecules are too large to penetrate the skin when applied topically. Collagen supplements taken orally have some limited evidence, but topical collagen moisturizes without actually adding collagen to your dermis.
 

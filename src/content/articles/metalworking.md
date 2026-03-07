@@ -5,7 +5,7 @@ description: "Metalworking is the process of shaping, cutting, and joining metal
 category: technology
 tags: ["metalworking", "machining", "welding", "fabrication", "manufacturing", "metals", "tools"]
 heroImage: "/images/articles/metalworking-hero.webp"
-heroAlt: "Sparks flying from a metalworking lathe cutting a steel workpiece in a machine shop"
+heroAlt: "Editorial photograph representing the concept of metalworking"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Humans have been working metal for roughly 10,000 years. The specific techniques
 
 Before we get into techniques, it's worth asking: why metal? Why not stick with wood, stone, or ceramics?
 
-The answer is a combination of properties that no other material class matches. Metals are strong, ductile (they bend before breaking), conductive (heat and electricity), and --- crucially --- they can be melted and reshaped repeatedly. A wooden beam that cracks is firewood. A steel beam that bends can be straightened and reused, or melted down and recast into something entirely different.
+The answer is a combination of properties that no other material class matches. Metals are strong, ductile (they bend before breaking), conductive (heat and [electricity](/electricity)), and --- crucially --- they can be melted and reshaped repeatedly. A wooden beam that cracks is firewood. A steel beam that bends can be straightened and reused, or melted down and recast into something entirely different.
 
 Steel alone accounts for roughly 1.9 billion metric tons of annual global production. Aluminum adds another 70 million tons. Copper, titanium, nickel, zinc, and dozens of specialty alloys fill specific niches. Modern civilization runs on metal, and metalworking is how that metal becomes useful.
 
@@ -57,7 +57,7 @@ Native copper --- metallic copper found in nature --- was the first metal humans
 
 Someone discovered that mixing copper with tin produced bronze --- harder, more durable, and easier to [cast](/casting-metal) than pure copper. Bronze weapons and tools were dramatically superior to stone, and the civilizations that mastered bronze (Mesopotamia, Egypt, China, the Indus Valley) gained significant advantages.
 
-The Bronze Age also saw the development of lost-wax casting, a technique still used today for precision parts and art sculpture.
+The Bronze Age also saw the development of lost-wax casting, a technique still used today for precision parts and art [sculpture](/sculpture).
 
 ### The Iron Age (1200 BCE -- 500 CE)
 
@@ -75,7 +75,7 @@ Machine tools --- lathes, milling machines, drill presses --- developed rapidly 
 
 ### Modern Metalworking (1900s -- Present)
 
-The 20th century brought electric arc welding, CNC (computer numerical control) machining, laser cutting, electron beam welding, additive manufacturing (metal 3D printing), and dozens of other advances. Modern metalworking combines ancient principles with computer control and materials science in ways that would astonish a 19th-century machinist.
+The 20th century brought electric arc welding, CNC (computer numerical control) machining, laser cutting, electron beam welding, additive manufacturing (metal 3D printing), and dozens of other advances. Modern metalworking combines ancient principles with computer control and [materials science](/materials-science) in ways that would astonish a 19th-century machinist.
 
 ## The Major Categories of Metalworking
 
@@ -120,8 +120,8 @@ Joining processes connect separate metal pieces into assemblies.
 **Welding** fuses metals together by melting the base materials (and often adding filler metal) at the joint. There are dozens of welding processes:
 
 - *MIG (GMAW)*: Uses a continuously fed wire electrode and shielding gas. Fastest and easiest to learn. Dominant in manufacturing and fabrication.
-- *TIG (GTAW)*: Uses a non-consumable tungsten electrode and separate filler rod. Slower but produces the highest quality welds. Preferred for [aerospace engineering](/aerospace-engineering), piping, and thin materials.
-- *Stick (SMAW)*: Uses a consumable electrode coated in flux. Versatile and portable. Common in construction and repair.
+- *TIG (GTAW)*: Uses a non-consumable tungsten electrode and separate filler rod. Slower but produces the highest quality welds. Preferred for [aerospace engineering](/aerospace-[engineering](/engineering)), piping, and thin materials.
+- *Stick (SMAW)*: Uses a consumable electrode coated in flux. Versatile and portable. Common in [construction](/construction) and repair.
 - *Flux-cored (FCAW)*: Similar to MIG but uses a tubular wire filled with flux. Works well outdoors and on dirty or rusty metal.
 
 Welding is both a science and a craft. The physics of heat input, metallurgy, distortion, and residual stress are complex. The hands-on skill of controlling a weld pool comes only with practice.
@@ -158,7 +158,7 @@ Different metals behave very differently, and choosing the right one is half the
 
 **Stainless steel**: Steel with at least 10.5% chromium, which forms a passive oxide layer that resists corrosion. Harder to machine and weld than carbon steel, but essential for food processing, medical equipment, and marine environments.
 
-**Aluminum**: Light (about one-third the density of steel), corrosion-resistant, and excellent for machining. Widely used in aerospace, automotive, and consumer electronics. Welding aluminum requires different techniques than steel.
+**Aluminum**: Light (about one-third the density of steel), corrosion-resistant, and excellent for machining. Widely used in aerospace, automotive, and consumer [electronics](/electronics). Welding aluminum requires different techniques than steel.
 
 **Titanium**: Strong as steel at 45% less weight, excellent corrosion resistance, biocompatible. Used in aerospace, medical implants, and high-performance applications. Extremely expensive and difficult to machine.
 
@@ -190,4 +190,4 @@ But manual machining skills haven't disappeared. Prototype work, one-off repairs
 
 ## Key Takeaways
 
-Metalworking is the collection of processes --- forming, cutting, joining, casting, and additive manufacturing --- used to shape metals into functional parts and structures. The field spans from ancient blacksmithing to modern CNC machining and metal 3D printing. Understanding materials, processes, and their limitations is essential for anyone designing or building physical products. Whether practiced as a profession or a hobby, metalworking combines technical knowledge with hands-on skill in a way that few other fields match. And despite thousands of years of development, the field continues to evolve, with new materials, new processes, and new technologies expanding what's possible.
+Metalworking is the collection of processes --- forming, cutting, joining, casting, and additive manufacturing --- used to shape metals into functional parts and structures. The field spans from ancient [blacksmithing](/blacksmithing) to modern CNC machining and metal 3D printing. Understanding materials, processes, and their limitations is essential for anyone designing or building physical products. Whether practiced as a profession or a hobby, metalworking combines technical knowledge with hands-on skill in a way that few other fields match. And despite thousands of years of development, the field continues to evolve, with new materials, new processes, and new technologies expanding what's possible.

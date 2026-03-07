@@ -5,7 +5,7 @@ description: "Music production is the process of creating, recording, and refini
 category: arts-amp-culture
 tags: ["music production", "recording", "mixing", "mastering", "DAW", "audio engineering"]
 heroImage: "/images/articles/music-production.webp"
-heroAlt: "Music producer working at a mixing console with studio monitors and a DAW screen"
+heroAlt: "Editorial photograph representing the concept of music production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Music Production?
 
-Music production is the complete process of creating a finished audio recording — from the initial idea through composition, arrangement, recording, editing, mixing, and mastering. The producer oversees this process, making creative and technical decisions that shape how the final product sounds. Think of the producer as the director of a film: they may not play every instrument or sing every note, but they're responsible for the overall vision.
+Music production is the complete process of creating a finished audio recording — from the initial idea through composition, arrangement, recording, [editing](/editing), mixing, and mastering. The producer oversees this process, making creative and technical decisions that shape how the final product sounds. Think of the producer as the director of a film: they may not play every instrument or sing every note, but they're responsible for the overall vision.
 
 Before roughly 1950, "producing" a record mostly meant booking studio time and making sure the tape rolled. Today, production is often the creative center of music-making. In genres like hip-hop, electronic, and modern pop, the producer frequently *is* the primary creative force — building beats, programming synthesizers, shaping sounds, and constructing the sonic world that a vocalist inhabits.
 
 ## The Production Process
 
-**Pre-production** — planning before anyone hits record. This includes songwriting, arranging, selecting sounds, creating demos, and making decisions about instrumentation, tempo, key, and overall vibe. Good pre-production saves enormous time and money in the studio. Bad pre-production leads to expensive improvisation.
+**Pre-production** — planning before anyone hits record. This includes [songwriting](/songwriting), arranging, selecting sounds, creating demos, and making decisions about instrumentation, tempo, key, and overall vibe. Good pre-production saves enormous time and money in the studio. Bad pre-production leads to expensive improvisation.
 
 **Tracking** — recording the performances. In a traditional studio, this means musicians playing instruments and singers performing vocals while microphones capture the sound. In modern production, it might also mean programming drum patterns, recording synthesizers, sampling existing audio, or building beats from scratch in software.
 
@@ -49,11 +49,11 @@ Before roughly 1950, "producing" a record mostly meant booking studio time and m
 
 ## The Digital Audio Workstation
 
-The DAW is the central tool of modern music production. It's software that combines recording, editing, mixing, and virtual instruments in one interface. Before DAWs, you needed a recording studio with a mixing console, tape machines, and rack-mounted effects processors. Now, a laptop running a DAW can do all of that.
+The DAW is the central tool of modern music production. It's software that combines recording, editing, mixing, and virtual instruments in one interface. Before DAWs, you needed a recording studio with a mixing console, tape machines, and rack-mounted effects processors. Now, a laptop [running](/running) a DAW can do all of that.
 
-**Ableton Live** — the standard for electronic music production and live performance. Its Session View (a grid-based interface for triggering clips) is unique and extremely powerful for beat-making and live DJ/performance hybrid sets.
+**Ableton Live** — the standard for [electronic music](/electronic-music) production and live performance. Its Session View (a grid-based interface for triggering clips) is unique and extremely powerful for beat-making and live DJ/performance hybrid sets.
 
-**Logic Pro** — Apple's professional DAW. Excellent built-in instruments and effects, strong for songwriting and full production. Mac-only.
+**[Logic](/logic) Pro** — Apple's professional DAW. Excellent built-in instruments and effects, strong for songwriting and full production. Mac-only.
 
 **Pro Tools** — the industry standard in professional recording studios for decades. Its editing capabilities are unmatched. Most major label recordings pass through Pro Tools at some point.
 
@@ -85,7 +85,7 @@ Professional studios still offer advantages: acoustically designed rooms, high-e
 
 A peculiar chapter in production history: from the mid-1990s through roughly 2010, mastering engineers were pressured to make records as loud as possible. The reasoning was simple — in a radio or playlist context, louder songs grab attention.
 
-The cost was severe. Compression and limiting squash the active range of music — quiet parts get louder, loud parts get clipped. Albums from this era (notably Metallica's *Death Magnetic* in 2008) were criticized for sounding harsh and fatiguing.
+The cost was severe. Compression and limiting [squash](/squash) the active range of music — quiet parts get louder, loud parts get clipped. Albums from this era (notably Metallica's *Death Magnetic* in 2008) were criticized for sounding harsh and fatiguing.
 
 Streaming platforms have largely ended the loudness war by normalizing playback volume. A heavily compressed master now sounds *worse* on Spotify, not better, because the normalization algorithm turns it down while preserving the squashed dynamics. Ironically, the shift to streaming has been one of the best things to happen to audio quality in decades.
 

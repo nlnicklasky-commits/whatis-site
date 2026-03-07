@@ -5,7 +5,7 @@ description: "Radio broadcasting transmits audio content wirelessly to listeners
 category: arts-amp-culture
 tags: ["radio broadcasting", "media", "communication", "FM", "AM", "broadcasting"]
 heroImage: "/images/articles/radio-broadcasting.webp"
-heroAlt: "Radio studio with microphone, mixing board, and on-air light"
+heroAlt: "Editorial photograph representing the concept of radio broadcasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Radio is evolving, not dying. AM/FM radio listenership has declined slightly but remains massive. The bigger shift is toward digital audio — streaming services, podcasts, and satellite radio (SiriusXM has about 34 million subscribers). Many traditional radio stations now simulcast online. The core appeal of radio — curated audio content, local information, companionship — persists regardless of the delivery technology."
 ---
 
-# What Is Radio Broadcasting?
+# What Is Radio [Broadcasting](/broadcasting)?
 
 Radio broadcasting is the transmission of audio content — music, news, talk, sports, entertainment — through electromagnetic waves to receivers that convert those waves back into sound. It was the first electronic mass medium, the first technology to deliver real-time information and entertainment directly into people's homes, and despite predictions of its death from television (1950s), the internet (2000s), and podcasts (2010s), it stubbornly refuses to go away. About 230 million Americans still listen to radio every week.
 
@@ -45,7 +45,7 @@ The basic principle is elegantly simple. A radio station generates electromagnet
 
 ## A Brief History
 
-**1895-1906:** Guglielmo Marconi demonstrated practical wireless telegraphy — sending Morse code signals without wires. Reginald Fessenden made the first audio radio broadcast on Christmas Eve, 1906, transmitting violin music and a Bible reading to ships at sea.
+**1895-1906:** Guglielmo Marconi demonstrated practical wireless telegraphy — sending Morse code signals without wires. Reginald Fessenden made the first audio radio broadcast on Christmas Eve, 1906, transmitting [violin](/violin) music and a Bible reading to ships at sea.
 
 **1920s:** Commercial radio broadcasting began. KDKA in Pittsburgh (1920) is often cited as the first commercial station, though several others claim the title. By 1930, 60% of American households had a radio. Networks (NBC, CBS) emerged, creating national audiences for the first time.
 
@@ -61,19 +61,19 @@ The basic principle is elegantly simple. A radio station generates electromagnet
 
 Radio has several characteristics that competing media can't fully replicate:
 
-**Free and universal.** Radio requires no subscription, no internet connection, and receivers are cheap (virtually every car has one). In developing countries, radio is often the only mass medium available. During natural disasters when power and internet fail, battery-powered radios provide critical information.
+**Free and universal.** Radio requires no subscription, no internet connection, and receivers are cheap (virtually every car has one). In developing countries, radio is often the only mass medium available. During [natural disasters](/natural-disasters) when power and internet fail, battery-powered radios provide critical information.
 
 **Companionship.** Radio fills silence. For millions of commuters, shift workers, and people working alone, radio provides background company and a human voice. The parasocial relationship between listeners and DJs or talk show hosts is genuine and powerful.
 
 **Local relevance.** In an age of global media, radio remains stubbornly local. Local news, local weather, local traffic, local advertisers, local events — radio connects people to their immediate community in ways that national media and global platforms don't.
 
-**Passive consumption.** You can listen to radio while driving, cooking, exercising, or working. It doesn't require your eyes or hands. In a world of screens competing for visual attention, audio content that works in the background has real value.
+**Passive consumption.** You can listen to radio while driving, [cooking](/cooking), exercising, or working. It doesn't require your eyes or hands. In a world of screens competing for visual attention, audio content that works in the background has real value.
 
 ## The Business Model
 
 Commercial radio is primarily advertiser-supported. Stations sell airtime to advertisers based on listenership numbers (measured by Nielsen Audio in the U.S.). The more listeners, the higher the ad rates. This creates the familiar format — music or talk content designed to attract and retain the target demographic that advertisers want to reach.
 
-Public radio (NPR in the U.S., BBC in the UK) operates on a mix of government funding, listener donations, corporate sponsorship, and grants. NPR reaches about 57 million weekly listeners in the U.S.
+Public radio (NPR in the U.S., BBC in the UK) operates on a mix of [government](/government) funding, listener donations, corporate sponsorship, and grants. NPR reaches about 57 million weekly listeners in the U.S.
 
 Community radio stations operate on small budgets with volunteer staff, serving specific communities or interests. They're licensed as non-commercial entities and funded through donations and grants.
 

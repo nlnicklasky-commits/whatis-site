@@ -5,7 +5,7 @@ description: "Film theory examines how movies create meaning through image, soun
 category: everyday-concepts
 tags: ["film theory", "cinema studies", "semiotics", "auteur theory", "media studies", "aesthetics"]
 heroImage: "/images/articles/film-theory.webp"
-heroAlt: "Close-up of a film strip with multiple frames showing different scenes"
+heroAlt: "Editorial photograph representing the concept of film theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Film Theory?
 
-Film theory is the academic study of how cinema works — not the practical mechanics of operating cameras and editing software, but the deeper questions about how moving images create meaning, affect emotions, and reflect culture. Why does a close-up feel intimate? Why does a cut create a sense of time passing? How do movies shape our understanding of gender, race, and power? Film theory tries to answer these questions systematically.
+Film theory is the academic study of how cinema works — not the practical mechanics of operating cameras and [editing](/editing) software, but the deeper questions about how moving images create meaning, affect emotions, and reflect culture. Why does a close-up feel intimate? Why does a cut create a sense of time passing? How do movies shape our understanding of gender, race, and power? Film theory tries to answer these questions systematically.
 
 ## The Big Questions
 
 Film theory grapples with a few fundamental questions that sound simple but aren't.
 
-**What is cinema?** Is it a recording of reality (Andre Bazin's position), a construction of meaning through editing (Eisenstein's position), or something else entirely? This question has generated decades of debate.
+**What is cinema?** Is it a recording of reality (Andre Bazin's position), a [construction](/construction) of meaning through editing (Eisenstein's position), or something else entirely? This question has generated decades of [debate](/debate).
 
-**How do films create meaning?** Through images, sound, editing, performance, narrative structure, and the audience's own psychology. Film theory examines each of these channels.
+**How do films create meaning?** Through images, sound, editing, performance, narrative structure, and the audience's own [psychology](/psychology). Film theory examines each of these channels.
 
 **What is the relationship between cinema and reality?** Films look like reality but aren't. They select, frame, and sequence images in ways that shape perception. Understanding this gap between appearance and construction is central to film theory.
 
@@ -69,7 +69,7 @@ The theory was partly a political move. By elevating directors, the *Cahiers* cr
 
 From the 1970s onward, many film theorists applied psychoanalytic concepts — particularly from Jacques Lacan — to cinema. The central idea: watching a movie resembles dreaming. You sit in the dark, passive, absorbed in images on a screen. The movie constructs a fantasy that you temporarily accept as real.
 
-Christian Metz applied semiotics (the study of signs) and psychoanalysis to film, examining how cinema positions viewers and creates identification with characters. This tradition can be dense and abstract, but it raised important questions about how movies manipulate viewers at a level below conscious awareness.
+Christian Metz applied semiotics (the study of signs) and [psychoanalysis](/psychoanalysis) to film, examining how cinema positions viewers and creates identification with characters. This tradition can be dense and abstract, but it raised important questions about how movies manipulate viewers at a level below conscious awareness.
 
 ### Feminist Film Theory
 
@@ -87,6 +87,6 @@ Third Cinema — a movement from Latin America, Africa, and Asia — explicitly 
 
 Film theory can seem abstract and disconnected from the experience of watching movies. Fair enough — reading Lacan isn't fun. But theoretical concepts trickle into everyday film discussion constantly.
 
-When a reviewer talks about "the male gaze," that's Mulvey. When someone says a director is an "auteur," that's Truffaut and Sarris. When a video essay analyzes how editing creates meaning, that's Eisenstein and Kuleshov. When someone argues that a documentary "isn't objective," they're engaging with questions Bazin was wrestling with in the 1950s.
+When a reviewer talks about "the male gaze," that's Mulvey. When someone says a director is an "auteur," that's Truffaut and Sarris. When a video essay analyzes how editing creates meaning, that's Eisenstein and Kuleshov. When someone argues that a documentary "isn't objective," they're engaging with questions Bazin was [wrestling](/wrestling) with in the 1950s.
 
 Theory doesn't tell you what to think about a film. It gives you frameworks for thinking — tools for noticing things you'd otherwise miss. And once you have those tools, you can't unsee what they reveal.

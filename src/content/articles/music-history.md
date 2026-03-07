@@ -5,7 +5,7 @@ description: "Music history traces the development of musical styles, forms, and
 category: arts-amp-culture
 tags: ["music history", "musicology", "classical music", "musical eras", "composers", "music evolution"]
 heroImage: "/images/articles/music-history.webp"
-heroAlt: "Aged sheet music manuscripts spread across a wooden table with an antique metronome"
+heroAlt: "Editorial photograph representing the concept of music history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Music history is the study of how music has developed, changed, and interacted with human societies across time and cultures. It traces the evolution of musical forms, styles, instruments, performance practices, and the social contexts that shaped them — from the earliest bone flutes (roughly 40,000 years old) to last week's streaming releases.
 
-The field is enormous. Western classical music alone spans over a thousand years of documented development. Add the histories of jazz, blues, rock, hip-hop, electronic music, and the classical traditions of India, China, Japan, the Middle East, Africa, and every other musical culture, and you're looking at a subject that no single person can master completely.
+The field is enormous. Western [classical music](/classical-music) alone spans over a thousand years of documented development. Add the histories of jazz, blues, rock, hip-hop, [electronic music](/electronic-music), and the classical traditions of India, China, Japan, the Middle East, Africa, and every other musical culture, and you're looking at a subject that no single person can master completely.
 
 ## Before the Western Canon
 
 Music predates civilization. Bone flutes from caves in Germany and Slovenia date to roughly 40,000 years ago. Ancient Mesopotamian texts reference sophisticated musical systems as early as 3000 BCE. The oldest known written melody — the "Hurrian Hymn No. 6" from Syria — dates to approximately 1400 BCE.
 
-Ancient Greek music theory profoundly influenced Western music, even though almost no actual Greek music survives. Pythagoras's discovery that musical intervals correspond to mathematical ratios shaped Western thinking about harmony for two millennia. The Greek system of modes (scales associated with different emotions and functions) evolved into medieval church modes and eventually into the major and minor scales that dominate Western music.
+Ancient Greek [music theory](/music-theory) profoundly influenced Western music, even though almost no actual Greek music survives. Pythagoras's discovery that musical intervals correspond to mathematical ratios shaped Western thinking about [harmony](/harmony) for two millennia. The Greek system of modes (scales associated with different emotions and functions) evolved into medieval church modes and eventually into the major and minor scales that dominate Western music.
 
 ## The Western Classical Timeline
 
@@ -47,13 +47,13 @@ Ancient Greek music theory profoundly influenced Western music, even though almo
 
 **Renaissance (c. 1400-1600)** — polyphony reached new heights of complexity and beauty. Josquin des Prez, Palestrina, and William Byrd composed vocal music of extraordinary sophistication. Secular music flourished alongside sacred. Printing press technology (after 1450) allowed music to be distributed widely for the first time.
 
-**Baroque (c. 1600-1750)** — opera was invented (around 1600 in Florence). Instrumental music became a major genre for the first time. Bach, Handel, and Vivaldi are the era's iconic figures. The development of tonality — the system of major and minor keys — gave music a new structural logic. Ornamentation, improvisation, and virtuosity were highly valued.
+**Baroque (c. 1600-1750)** — [opera](/opera) was invented (around 1600 in Florence). Instrumental music became a major genre for the first time. Bach, Handel, and Vivaldi are the era's iconic figures. The development of tonality — the system of major and minor keys — gave music a new structural [logic](/logic). Ornamentation, improvisation, and virtuosity were highly valued.
 
 **Classical (c. 1750-1820)** — clarity, balance, and formal structure replaced Baroque complexity. Haydn essentially invented the string quartet and the modern symphony. Mozart brought supernatural melodic gift to every genre he touched. Beethoven straddled the Classical and Romantic eras, expanding musical ambition and emotional range beyond anything before.
 
 **Romantic (c. 1820-1900)** — emotional expression, individualism, and nationalism defined the era. Orchestras grew enormous. Virtuoso performers (Liszt, Paganini) became celebrities. Wagner expanded opera into four-evening epics. Brahms continued Classical traditions. Tchaikovsky, Dvorak, and Mahler explored personal and national identity through orchestral music.
 
-**20th century and beyond** — everything fractured. Schoenberg abandoned tonality. Stravinsky's *Rite of Spring* caused a literal riot at its 1913 premiere. Jazz emerged from New Orleans in the 1910s. Electronic instruments appeared in the 1920s. Minimalism (Glass, Reich) stripped music to repetitive patterns. The 20th century produced more stylistic diversity than all previous centuries combined.
+**20th century and beyond** — everything fractured. Schoenberg abandoned tonality. Stravinsky's *Rite of Spring* caused a literal riot at its 1913 premiere. Jazz emerged from New Orleans in the 1910s. Electronic instruments appeared in the 1920s. [Minimalism](/minimalism) (Glass, Reich) stripped music to repetitive patterns. The 20th century produced more stylistic diversity than all previous centuries combined.
 
 ## The Popular Music Explosion
 
@@ -73,7 +73,7 @@ Until the 20th century, most music was experienced live, in real time. Recording
 
 Western music history is one thread in a much larger fabric.
 
-**Indian classical music** — two major traditions (Hindustani in the north, Carnatic in the south) with histories stretching back over 2,000 years. The raga (melodic framework) and tala (rhythmic cycle) system is extraordinarily sophisticated. Improvisation is central.
+**[Indian classical music](/indian-classical-music)** — two major traditions (Hindustani in the north, Carnatic in the south) with histories stretching back over 2,000 years. The raga (melodic framework) and tala (rhythmic cycle) system is extraordinarily sophisticated. Improvisation is central.
 
 **Chinese music** — a documented tradition spanning 3,000+ years. The guqin (a seven-string zither) has been played continuously for over 2,500 years. Chinese opera traditions date to the 12th century.
 
@@ -83,6 +83,6 @@ Western music history is one thread in a much larger fabric.
 
 ## Why History Matters
 
-Studying music history isn't just academic. Every musician, whether they know it or not, is working within traditions shaped by centuries of experimentation. The chord progressions in a pop song trace back through rock, blues, and ultimately to Baroque harmonic practice. The beat in a hip-hop track connects to West African drumming patterns via centuries of cultural transmission.
+Studying music history isn't just academic. Every musician, whether they know it or not, is working within traditions shaped by centuries of experimentation. The chord progressions in a pop song trace back through rock, blues, and ultimately to Baroque harmonic practice. The beat in a hip-hop track connects to West African [drumming](/drumming) patterns via centuries of cultural transmission.
 
 Understanding where music comes from helps you understand what it's doing — and where it might go next. The past doesn't repeat, but it rhymes. Often literally.

@@ -5,7 +5,7 @@ description: "Geochronology is the science of determining the ages of rocks, fos
 category: science
 tags: ["geochronology", "geology", "dating", "radioactive decay", "isotopes", "earth history", "radiometric dating"]
 heroImage: "/images/articles/geochronology-hero.webp"
-heroAlt: "Layered rock strata in a canyon wall showing millions of years of geological time"
+heroAlt: "Editorial photograph representing the concept of geochronology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -73,7 +73,7 @@ The answer required physics that hadn't been discovered yet.
 
 ## Radiometric Dating: The Radioactive Clock
 
-The discovery of radioactivity in 1896 by Henri Becquerel changed everything. Radioactive elements decay at constant, measurable rates, converting from parent isotopes to daughter isotopes. The rate of decay is unaffected by temperature, pressure, or [chemistry](/chemistry) — it's a nuclear process, governed by quantum mechanics. This makes radioactive decay an incredibly reliable clock.
+The discovery of radioactivity in 1896 by Henri Becquerel changed everything. Radioactive elements decay at constant, measurable rates, converting from parent isotopes to daughter isotopes. The rate of decay is unaffected by temperature, pressure, or [chemistry](/chemistry) — it's a nuclear process, governed by [quantum mechanics](/quantum-mechanics). This makes radioactive decay an incredibly reliable clock.
 
 ### How It Works
 
@@ -99,7 +99,7 @@ Different isotope systems cover different time ranges, like different measuring 
 
 ### The Importance of Calibration
 
-Radiocarbon dating requires calibration because atmospheric C-14 levels have varied over time due to changes in cosmic ray intensity, solar activity, and carbon cycling. The calibration curve — constructed from tree rings (dendrochronology), coral, and other independently dated materials — converts raw radiocarbon ages to calendar years. Without calibration, radiocarbon ages can be off by centuries.
+[Radiocarbon dating](/radiocarbon-dating) requires calibration because atmospheric C-14 levels have varied over time due to changes in cosmic ray intensity, solar activity, and carbon cycling. The calibration curve — constructed from tree rings (dendrochronology), coral, and other independently dated materials — converts raw radiocarbon ages to calendar years. Without calibration, radiocarbon ages can be off by centuries.
 
 ## Other Dating Methods
 
@@ -137,7 +137,7 @@ Relative ordering came first, based on stratigraphy and biostratigraphy. The Cam
 
 Absolute ages came later, as radiometric dating matured. Volcanic ash layers interbedded with fossiliferous sediments provided crucial tie points. The Cretaceous-Paleogene boundary — the asteroid impact that killed the non-avian [dinosaurs](/dinosaurs) — is now precisely dated to 66.043 million years ago, with an uncertainty of just 11,000 years. That level of precision for an event 66 million years ago is extraordinary.
 
-The current International Chronostratigraphic Chart, maintained by the International Commission on Stratigraphy, is continuously refined as new dates improve boundary ages. It's the master timeline for Earth science.
+The current International Chronostratigraphic Chart, maintained by the International Commission on Stratigraphy, is continuously refined as new dates improve boundary ages. It's the master timeline for [Earth science](/earth-science).
 
 ## Applications Beyond Basic Science
 
@@ -153,17 +153,17 @@ After the Chernobyl and Fukushima disasters, geochronological techniques helped 
 
 ### Groundwater Dating
 
-Tritium, carbon-14, and chlorofluorocarbons in groundwater reveal how long water has been underground. This matters enormously for water resource management — are we drawing from renewable water that's replenished yearly, or mining ancient water that took thousands of years to accumulate? In many arid regions, the answer is uncomfortably the latter.
+Tritium, carbon-14, and chlorofluorocarbons in groundwater reveal how long water has been underground. This matters enormously for water [resource management](/resource-management) — are we drawing from renewable water that's replenished yearly, or mining ancient water that took thousands of years to accumulate? In many arid regions, the answer is uncomfortably the latter.
 
 ### Archaeological Dating
 
-Radiocarbon dating revolutionized [archaeology](/archaeology) when Willard Libby developed it in the late 1940s (earning the 1960 Nobel Prize in Chemistry). It provided the first objective chronology for prehistory, overturning many assumed timelines. Combined with dendrochronology and luminescence dating, geochronological methods now provide the backbone of archaeological chronology worldwide.
+Radiocarbon dating revolutionized [archaeology](/archaeology) when Willard Libby developed it in the late 1940s (earning the 1960 Nobel Prize in Chemistry). It provided the first objective chronology for [prehistory](/prehistory), overturning many assumed timelines. Combined with dendrochronology and luminescence dating, geochronological methods now provide the backbone of archaeological chronology worldwide.
 
 ## Challenges and Frontiers
 
 Geochronology isn't simple. Several challenges keep researchers busy.
 
-**Open system behavior**: If a rock loses or gains parent or daughter isotopes after formation — through metamorphism, weathering, or fluid flow — the calculated age will be wrong. Recognizing and accounting for open-system behavior requires careful sample selection, multiple dating methods on the same sample, and sophisticated statistical approaches.
+**Open system behavior**: If a rock loses or gains parent or daughter isotopes after formation — through metamorphism, weathering, or fluid flow — the calculated age will be wrong. Recognizing and [accounting](/accounting) for open-system behavior requires careful sample selection, multiple dating methods on the same sample, and sophisticated statistical approaches.
 
 **Precision versus accuracy**: Modern mass spectrometers can measure isotope ratios with extraordinary precision (parts per million). But precision doesn't guarantee accuracy — systematic errors in decay constants, standards, or sample preparation can bias results. Reconciling ages from different dating systems sometimes reveals discrepancies that take years to resolve.
 

@@ -5,7 +5,7 @@ description: "Chinese history spans over 5,000 years of continuous civilization,
 category: history
 tags: ["chinese history", "china", "dynasties", "confucianism", "asian history"]
 heroImage: "/images/articles/chinese-history.webp"
-heroAlt: "Great Wall of China winding through green mountain ridges under a clear sky"
+heroAlt: "Editorial photograph representing the concept of chinese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,13 +51,13 @@ The later Zhou period, paradoxically, was both politically chaotic and intellect
 
 In 221 BCE, the state of Qin conquered all its rivals, and King Zheng declared himself Qin Shi Huang — the First Emperor. What he accomplished in just 11 years of rule is staggering. He unified Chinese writing, currency, weights, measures, and even axle widths (so carts could use the same road ruts). He connected existing defensive walls into an early version of the Great Wall. He built roads and canals linking the empire.
 
-He was also ruthless. He burned books he considered dangerous, buried scholars alive who criticized him, and conscripted hundreds of thousands of laborers for his massive construction projects. His tomb complex, guarded by the famous Terracotta Army — roughly 8,000 life-sized clay soldiers, each with unique features — wasn't discovered until 1974 by farmers digging a well.
+He was also ruthless. He burned books he considered dangerous, buried scholars alive who criticized him, and conscripted hundreds of thousands of laborers for his massive [construction](/construction) projects. His tomb complex, guarded by the famous Terracotta Army — roughly 8,000 life-sized clay soldiers, each with unique features — wasn't discovered until 1974 by farmers digging a well.
 
 The Qin dynasty collapsed within four years of the First Emperor's death, but the imperial system he created lasted over 2,000 years. The idea that China should be a unified state, governed by a single emperor, became so deeply embedded that every subsequent dynasty — even those founded by foreign conquerors — maintained the basic structure.
 
 ## The Han Dynasty: China's Classical Age
 
-The Han dynasty (206 BCE–220 CE) is so foundational that the ethnic majority in China still calls itself "Han Chinese." During this period, Confucianism became the official state ideology, a civil service examination system began developing, and the Silk Road connected China to Central Asia, India, Persia, and eventually Rome.
+The Han dynasty (206 BCE–220 CE) is so foundational that the ethnic majority in China still calls itself "Han Chinese." During this period, Confucianism became the official state ideology, a civil service examination system began developing, and [the Silk Road](/silk-road) connected China to Central Asia, India, Persia, and eventually Rome.
 
 Han innovations were remarkable: paper (invented around 100 CE), the seismoscope, advances in iron casting, and detailed historical writing. Sima Qian's Records of the Grand Historian, written around 100 BCE, established the template for Chinese historical writing that would be followed for two millennia.
 
@@ -67,9 +67,9 @@ The Han period also saw [Buddhism](/buddhism) enter China from India, beginning 
 
 After centuries of division following the Han collapse, the Sui and Tang dynasties reunified China. The Tang dynasty (618–907 CE) is widely considered China's cultural golden age — and with good reason. Tang China was probably the most cosmopolitan civilization on Earth. Its capital, Chang'an (modern Xi'an), had about a million residents and hosted merchants, monks, diplomats, and artists from across Asia.
 
-Tang poetry reached heights that Chinese literature has never quite matched. Li Bai and Du Fu — the two greatest Tang poets — remain household names in China 1,300 years later. Tang ceramics, painting, music, and dance all flourished in an atmosphere of unusual cultural openness.
+Tang poetry reached heights that Chinese [literature](/literature) has never quite matched. Li Bai and Du Fu — the two greatest Tang poets — remain household names in China 1,300 years later. Tang ceramics, painting, music, and dance all flourished in an atmosphere of unusual cultural openness.
 
-The Song dynasty (960–1279) was different but equally remarkable. The Song period saw an economic revolution: the world's first paper money, a proto-industrial economy, urbanization rates that wouldn't be matched in Europe for centuries, and technological innovations including movable type printing, improved gunpowder weapons, and the magnetic compass for navigation.
+The Song dynasty (960–1279) was different but equally remarkable. The Song period saw an economic revolution: the world's first paper money, a proto-industrial economy, urbanization rates that wouldn't be matched in Europe for centuries, and technological innovations including movable type printing, improved gunpowder weapons, and the magnetic compass for [navigation](/navigation).
 
 Song China's GDP may have represented 25-30% of global economic output — a share not matched by any single country until the Industrial Revolution. The [economics](/economics) of Song China would be impressive even by modern standards.
 
@@ -89,7 +89,7 @@ The Qing dynasty (1644–1912), founded by the Manchu people from northeast Asia
 
 The 19th century brought catastrophe. The Opium Wars (1839–1842 and 1856–1860) — provoked by British determination to force open Chinese markets to opium — resulted in humiliating military defeats and "unequal treaties" that gave foreign powers trading privileges, territorial concessions, and legal immunities inside China. The Taiping Rebellion (1850–1864), a massive civil war led by a man who believed he was Jesus Christ's brother, killed an estimated 20–30 million people.
 
-Chinese remember the period from roughly 1839 to 1949 as the "Century of Humiliation" — a concept that still shapes Chinese foreign policy and national psychology today.
+Chinese remember the period from roughly 1839 to 1949 as the "Century of Humiliation" — a concept that still shapes Chinese [foreign policy](/foreign-policy) and national psychology today.
 
 ## Revolution, War, and Transformation
 

@@ -5,7 +5,7 @@ description: "Greek mythology is the collection of myths about gods, heroes, and
 category: arts-amp-culture
 tags: ["greek mythology", "gods", "heroes", "ancient greece", "mythology", "literature"]
 heroImage: "/images/articles/greek-mythology.webp"
-heroAlt: "Ancient Greek temple ruins with dramatic sky representing the realm of the gods"
+heroAlt: "Editorial photograph representing the concept of greek mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Roman mythology absorbed and renamed most Greek gods (Zeus became Jupiter, Aphrodite became Venus, Ares became Mars, etc.) while adding some distinctly Roman elements. The stories are largely the same, though Roman versions sometimes emphasize different qualities — Mars was more respected in Rome than Ares was in Greece, for example. Roman mythology also included founding myths specific to Rome, like Romulus and Remus."
 ---
 
-# What Is Greek Mythology?
+# What Is Greek [Mythology](/mythology)?
 
-Greek mythology is the body of myths, legends, and stories created by the ancient Greeks to explain the world, human nature, and the forces that shape existence. These stories feature gods who behave badly, heroes who suffer for their greatness, monsters that embody primal fears, and ordinary humans caught between forces far larger than themselves. They were created roughly 3,000 years ago, and they're still embedded in our language, our art, our psychology, and the way we tell stories. An "Achilles' heel," a "Trojan horse," an "Oedipus complex," a "Herculean task" — these references permeate modern culture because the stories they come from still resonate.
+Greek mythology is the body of myths, [legends](/legends), and stories created by the ancient Greeks to explain the world, human nature, and the forces that shape existence. These stories feature gods who behave badly, heroes who suffer for their greatness, monsters that embody primal fears, and ordinary humans caught between forces far larger than themselves. They were created roughly 3,000 years ago, and they're still embedded in our language, our art, our [psychology](/psychology), and the way we tell stories. An "Achilles' heel," a "Trojan horse," an "Oedipus complex," a "Herculean task" — these references permeate modern culture because the stories they come from still resonate.
 
 ## The Gods
 
@@ -41,9 +41,9 @@ Greek gods are not distant, serene beings. They're petty, jealous, lustful, veng
 
 **Hera**, Zeus's wife and sister, is the goddess of marriage and family. She spends much of her mythological career taking revenge on Zeus's lovers and their children — not on Zeus himself, who is largely beyond consequences. She's a sympathetic figure trapped in a terrible marriage, or a vindictive persecutor of innocents, depending on the story.
 
-**Athena** — goddess of wisdom, warfare, and crafts — springs fully armored from Zeus's head. She's the most consistently admired Olympian: intelligent, strategic, and patron of Athens (the Parthenon was her temple). She favors heroes who use their brains as much as their strength.
+**Athena** — goddess of wisdom, warfare, and crafts — [springs](/springs) fully armored from Zeus's head. She's the most consistently admired Olympian: intelligent, strategic, and patron of Athens (the Parthenon was her temple). She favors heroes who use their brains as much as their strength.
 
-**Apollo** governs the sun, music, poetry, prophecy, and medicine. **Artemis**, his twin sister, rules the hunt and the moon. **Poseidon** controls the seas and earthquakes. **Aphrodite** is love and beauty. **Ares** is war — but unlike Athena (strategic warfare), he represents the brutal, bloody reality of combat, and the Greeks didn't much like him.
+**Apollo** governs the sun, music, [poetry](/poetry), [prophecy](/prophecy), and medicine. **Artemis**, his twin sister, rules the hunt and the moon. **Poseidon** controls the seas and earthquakes. **Aphrodite** is love and beauty. **Ares** is war — but unlike Athena (strategic warfare), he represents the brutal, bloody reality of combat, and the Greeks didn't much like him.
 
 **Hades** rules the underworld — not to be confused with the Christian devil. Hades isn't evil; he's just got the least desirable job. He rarely appears in myths, and when he does, he's generally fair if stern.
 
@@ -79,7 +79,7 @@ Greek mythology is everywhere in modern culture, often in places you wouldn't ex
 
 **Psychology** — Oedipus complex, Electra complex, narcissistic personality disorder. Jung's archetypes draw directly from mythological patterns.
 
-**Literature** — James Joyce's *Ulysses* maps Homer's *Odyssey* onto a single day in Dublin. Madeline Miller's *Circe* retells Greek myth from a woman's perspective. Rick Riordan's Percy Jackson series introduces millions of young readers to the pantheon.
+**[Literature](/literature)** — James Joyce's *Ulysses* maps Homer's *Odyssey* onto a single day in Dublin. Madeline Miller's *Circe* retells Greek myth from a woman's perspective. Rick Riordan's Percy Jackson series introduces millions of young readers to the pantheon.
 
 **Film, television, and games** — from Disney's *Hercules* to the *God of War* video game series to *Percy Jackson* adaptations, Greek mythology provides an endless supply of characters, conflicts, and settings.
 

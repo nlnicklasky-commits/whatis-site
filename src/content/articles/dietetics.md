@@ -5,7 +5,7 @@ description: "Dietetics is the science of applying nutrition knowledge to plan d
 category: health-amp-wellness
 tags: ["dietetics", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/dietetics.webp"
-heroAlt: "Registered dietitian consulting with a patient about nutrition using food models and a meal plan"
+heroAlt: "Editorial photograph representing the concept of dietetics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,13 +59,13 @@ The mid-20th century brought the study of diet and chronic disease — the relat
 
 The education required for dietetics is more rigorous than most people realize. The curriculum includes:
 
-- **Human anatomy and physiology** — you can't plan a diet for someone with kidney disease if you don't understand how [kidneys work](/anatomy)
-- **Biochemistry** — metabolic pathways, enzyme kinetics, how the body processes macronutrients and micronutrients
+- **[Human anatomy](/human-anatomy) and physiology** — you can't plan a diet for someone with kidney disease if you don't understand how [kidneys work](/anatomy)
+- **Biochemistry** — [metabolic pathways](/metabolic-pathways), enzyme kinetics, how the body processes macronutrients and micronutrients
 - **Food science** — how cooking, processing, and storage affect nutrient content and food safety
 - **Medical nutrition therapy** — clinical protocols for managing diabetes, heart disease, GI disorders, cancer, renal failure, and other conditions
-- **Community nutrition** — public health approaches to malnutrition, food insecurity, and population-level dietary interventions
+- **Community nutrition** — [public health](/public-health) approaches to malnutrition, food insecurity, and population-level dietary interventions
 - **Food service management** — menu planning, cost control, food safety regulations, and institutional food operations
-- **Research methods** — study design, statistics, how to read and evaluate nutrition research
+- **[Research methods](/research-methods)** — study design, statistics, how to read and evaluate nutrition research
 
 Since January 2024, a master's degree has been the minimum requirement for new registered dietitians in the United States. The previous minimum was a bachelor's degree. The change reflects the growing complexity of the field and the need for practitioners who can critically evaluate research.
 
@@ -117,7 +117,7 @@ The distinction between a registered dietitian and a self-proclaimed nutritionis
 
 Several trends are shaping the future of the field. Nutrigenomics — the study of how individual genetic variation affects response to nutrients — is moving toward personalized nutrition plans based on your DNA. We're not there yet (the science is still early), but it's the direction things are heading.
 
-The gut microbiome is another frontier. Research on how [gut bacteria](/cell-biology) influence everything from nutrient absorption to immune function to mental health is exploding. Dietitians are starting to incorporate microbiome-friendly dietary strategies — prebiotics, probiotics, fermented foods — though the evidence is still being sorted out.
+The gut microbiome is another frontier. Research on how [gut bacteria](/cell-biology) influence everything from nutrient absorption to immune function to [mental health](/mental-health) is exploding. Dietitians are starting to incorporate microbiome-friendly dietary strategies — prebiotics, probiotics, fermented foods — though the evidence is still being sorted out.
 
 Telehealth has expanded access to dietetic services, particularly for people in rural areas without local dietitians. And the growing recognition that food is medicine — that dietary interventions can sometimes reduce or eliminate the need for medications — is increasing demand for dietitians in primary care settings.
 

@@ -5,7 +5,7 @@ description: "Political history studies how governments, leaders, and power stru
 category: history
 tags: ["history", "politics", "government", "power"]
 heroImage: "/images/articles/political-history.webp"
-heroAlt: "An ancient Roman senate chamber with stone columns and tiered seating"
+heroAlt: "Editorial photograph representing the concept of political history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,19 +33,19 @@ faq:
 
 Political history is the study of governments, political leaders, institutions, movements, and the exercise of power across time. It asks how societies have organized themselves, who held authority and why, how decisions were made, and what happened when those arrangements changed — through reform, revolution, or collapse.
 
-For most of recorded history, political history *was* history. The earliest historical writing — Herodotus, Thucydides, Sima Qian — was almost entirely concerned with wars, rulers, and statecraft. The discipline has evolved considerably since then, but its central question remains: who has power, and what do they do with it?
+For most of recorded history, political history *was* history. The earliest historical [writing](/writing) — Herodotus, Thucydides, Sima Qian — was almost entirely concerned with wars, rulers, and statecraft. The discipline has evolved considerably since then, but its central question remains: who has power, and what do they do with it?
 
 ## The Traditional Approach
 
 ### Great Men and Great Events
 
-The oldest form of political history focuses on leaders and the decisions they made. Julius Caesar crossing the Rubicon. Henry VIII breaking with Rome. Lincoln signing the Emancipation Proclamation. The Meiji Emperor opening Japan to Western trade.
+The oldest form of political history focuses on leaders and the decisions they made. Julius Caesar crossing the Rubicon. Henry VIII breaking with Rome. Lincoln signing the Emancipation Proclamation. The Meiji Emperor opening Japan to Western [trade](/trade).
 
-This approach — sometimes called "great man history" — has obvious appeal. It provides clear narratives with identifiable characters making consequential choices. Thomas Carlyle, the 19th-century Scottish historian, argued explicitly that "the history of the world is but the biography of great men."
+This approach — sometimes called "great man history" — has obvious appeal. It provides clear narratives with identifiable characters making consequential choices. Thomas Carlyle, the 19th-century Scottish historian, argued explicitly that "the history of the world is but the [biography](/biography) of great men."
 
 The problem, of course, is that this framework massively oversimplifies. Lincoln didn't end slavery through personal conviction alone. He operated within a political system shaped by decades of abolitionist activism, economic interests, constitutional law, and the unfolding military situation of the Civil War. Focusing exclusively on the decision-maker misses the forces that constrained and enabled the decision.
 
-### Diplomatic and Military History
+### Diplomatic and [Military History](/military-history)
 
 Traditional political history also covered relations between states — alliances, treaties, wars, and territorial disputes. The Congress of Vienna (1815), the scramble for Africa (1880s-1914), the Treaty of Versailles (1919) — these events shaped the modern world, and understanding them requires understanding the political calculations behind them.
 
@@ -57,11 +57,11 @@ Military history, closely related, examines how wars were fought and why they tu
 
 Starting in the 1960s, political history took a beating from scholars who thought it was too narrow, too elitist, and too disconnected from the lives of ordinary people.
 
-The Annales school in France had been pushing back since the 1920s, arguing that historians should study long-term social and economic structures rather than the surface-level drama of political events. Marc Bloch and Lucien Febvre wanted to understand how feudal society *worked* — not just which king fought which battle.
+The Annales school in France had been pushing back since the 1920s, arguing that historians should study long-term social and economic structures rather than the surface-level [drama](/drama) of political events. Marc Bloch and Lucien Febvre wanted to understand how feudal society *worked* — not just which king fought which battle.
 
 Social historians picked up this thread. E.P. Thompson's *The Making of the English Working Class* (1963) demonstrated that you could write brilliantly about political change without centering kings and prime ministers. The working class, Thompson argued, wasn't just a passive mass acted upon by elites. Workers made their own political consciousness through collective action, shared culture, and resistance to exploitation.
 
-Women's history and gender history raised similar challenges. If political history only covered formal politics — parliaments, elections, executive decisions — it excluded half the population from the story, since women were barred from most formal political institutions until the 20th century.
+Women's history and gender history raised similar challenges. If political history only covered formal [politics](/politics) — parliaments, elections, executive decisions — it excluded half the population from the story, since women were barred from most formal political institutions until the 20th century.
 
 ### The "New Political History"
 
@@ -93,7 +93,7 @@ Historians have debated endlessly what causes revolutions. Poverty alone doesn't
 
 ### Empires and Colonialism
 
-Political history has increasingly grappled with empire — how some societies dominated others, the political structures that sustained colonial rule, and the movements that dismantled it. The British Empire at its peak governed roughly a quarter of the world's population. How? Not through military force alone, but through alliances with local elites, legal systems that legitimized extraction, and ideologies that justified racial hierarchy.
+Political history has increasingly grappled with empire — how some societies dominated others, the political structures that sustained colonial rule, and the movements that dismantled it. The British Empire at its peak governed roughly a quarter of the world's population. How? Not through military force alone, but through alliances with local elites, legal systems that legitimized extraction, and [ideologies](/ideologies) that justified racial hierarchy.
 
 Decolonization in the 20th century created dozens of new states, each facing the challenge of building political institutions from scratch — often with borders drawn by colonial powers that ignored ethnic, linguistic, and cultural realities.
 
@@ -105,7 +105,7 @@ Constitutional history examines how societies have tried to structure and limit 
 
 ## Methods and Sources
 
-Political historians work with an enormous range of sources. Government archives — legislative debates, executive orders, diplomatic cables, court decisions — form the traditional backbone. But the field has expanded to include newspapers, pamphlets, personal correspondence, oral histories, election data, propaganda materials, and visual culture.
+Political historians work with an enormous range of sources. [Government](/government) archives — legislative debates, executive orders, diplomatic cables, court decisions — form the traditional backbone. But the field has expanded to include newspapers, pamphlets, personal correspondence, oral histories, election data, propaganda materials, and visual culture.
 
 Quantitative methods have become more common, especially in studies of electoral behavior, legislative voting patterns, and state capacity. You can track the rise and fall of political parties through election data, or measure state strength through tax revenue and military spending over centuries.
 

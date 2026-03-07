@@ -5,7 +5,7 @@ description: "Home brewing is making beer, wine, or cider at home using basic eq
 category: everyday-concepts
 tags: ["home brewing", "brewing", "beer", "wine", "fermentation", "craft beer"]
 heroImage: "/images/articles/home-brewing.webp"
-heroAlt: "Glass carboy filled with fermenting beer surrounded by brewing equipment on a kitchen counter"
+heroAlt: "Editorial photograph representing the concept of home brewing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Home Brewing?
 
-Home brewing is the practice of making beer, wine, cider, or mead at home, using equipment that fits in a kitchen or garage and ingredients you can order online or pick up at a local homebrew shop. An estimated 1.1 million Americans home brew regularly, producing everything from simple pale ales to complex barrel-aged stouts that rival commercial craft beer.
+Home brewing is the practice of making beer, wine, cider, or mead at home, using equipment that fits in a kitchen or garage and ingredients you can order online or pick up at a local homebrew shop. An estimated 1.1 million Americans home brew regularly, producing everything from simple pale ales to complex barrel-aged stouts that rival commercial [craft beer](/craft-beer).
 
 ## The Basic Process
 
@@ -41,7 +41,7 @@ All beer follows the same fundamental process, whether brewed in your kitchen or
 
 **Boiling** — The wort is boiled for 60 to 90 minutes. Hops are added during the boil — early additions contribute bitterness, later additions contribute flavor and aroma. This is where you shape the beer's character.
 
-**Cooling and pitching** — The wort is rapidly cooled to fermentation temperature (around 65 to 70 degrees for ales, 45 to 55 for lagers), transferred to a fermenter, and yeast is added ("pitched"). From this point, the yeast takes over.
+**Cooling and pitching** — The wort is rapidly cooled to [fermentation](/fermentation) temperature (around 65 to 70 degrees for ales, 45 to 55 for lagers), transferred to a fermenter, and yeast is added ("pitched"). From this point, the yeast takes over.
 
 **Fermentation** — Yeast consumes the sugars and produces alcohol and carbon dioxide. Primary fermentation takes one to two weeks. The beer may be transferred to a secondary vessel for further conditioning.
 
@@ -68,7 +68,7 @@ A basic extract brewing setup includes:
 - **A hydrometer** — measures sugar content before and after fermentation to calculate alcohol percentage
 - **Sanitizer** — this is arguably the most important item; contamination ruins more homebrew than any other factor
 
-Total cost for a starter kit: $75 to $150. Ingredients for your first batch add another $25 to $50. That batch produces roughly 48 twelve-ounce bottles. Per-bottle cost works out to about $0.50 to $1.00 — cheaper than commercial craft beer, though you are not accounting for your time.
+Total cost for a starter kit: $75 to $150. Ingredients for your first batch add another $25 to $50. That batch produces roughly 48 twelve-ounce bottles. Per-bottle cost works out to about $0.50 to $1.00 — cheaper than commercial craft beer, though you are not [accounting](/accounting) for your time.
 
 ## The Recipes
 
@@ -92,7 +92,7 @@ Home brewing hits a sweet spot between science, craft, and immediate gratificati
 
 **Community.** Homebrew clubs exist in most cities. Competitions — from local events to the National Homebrew Competition (the largest in the world, with over 9,000 entries) — give brewers feedback and motivation. The hobby attracts generous people who love sharing both beer and knowledge.
 
-**The science.** Brewing is applied chemistry and microbiology. Understanding enzyme kinetics, yeast metabolism, water chemistry, and hop chemistry makes you a better brewer. For people who enjoy understanding *why* things work, brewing offers endless depth.
+**The science.** Brewing is applied [chemistry](/chemistry) and [microbiology](/microbiology). Understanding enzyme kinetics, yeast metabolism, water chemistry, and hop chemistry makes you a better brewer. For people who enjoy understanding *why* things work, brewing offers endless depth.
 
 ## Common Mistakes
 

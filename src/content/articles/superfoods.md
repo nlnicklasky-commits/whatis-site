@@ -5,7 +5,7 @@ description: "Superfoods are nutrient-dense foods marketed as especially benefic
 category: everyday-concepts
 tags: ["superfoods", "nutrition", "health", "diet", "antioxidants", "food science"]
 heroImage: "/images/articles/superfoods.webp"
-heroAlt: "A colorful spread of blueberries, kale, salmon, and quinoa on a table"
+heroAlt: "Editorial photograph representing the concept of superfoods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Superfoods?
 
-"Superfood" is a marketing term used to describe foods that are unusually rich in nutrients — vitamins, minerals, antioxidants, healthy fats, or other beneficial compounds. Blueberries, kale, salmon, quinoa, acai berries, chia seeds, turmeric — you've seen the lists. They change every few years as new foods capture public attention.
+"Superfood" is a [marketing](/marketing) term used to describe foods that are unusually rich in nutrients — vitamins, minerals, antioxidants, healthy fats, or other beneficial compounds. Blueberries, kale, salmon, quinoa, acai berries, chia seeds, turmeric — you've seen the lists. They change every few years as new foods capture public attention.
 
-Here's the thing you should know upfront: "superfood" is not a scientific category. No medical organization, government agency, or nutrition authority uses the term in any official capacity. It's a label invented by marketers, popularized by media, and accepted by consumers who understandably want simple answers to complicated nutrition questions.
+Here's the thing you should know upfront: "superfood" is not a scientific category. No medical organization, [government](/government) agency, or nutrition authority uses the term in any official capacity. It's a label invented by marketers, popularized by media, and accepted by consumers who understandably want simple answers to complicated nutrition questions.
 
 That doesn't mean these foods are bad for you. They're not. They're often genuinely nutritious. But the "super" framing creates some misleading expectations.
 
@@ -43,7 +43,7 @@ The earliest known use of "superfood" dates to the early 20th century — the Un
 
 The pattern is predictable: a study finds that a food contains high levels of some beneficial compound. Media reports it as "Scientists say [food] is a superfood!" Demand spikes. Prices rise. The food appears on magazine covers, in smoothie shops, and on grocery store endcaps. Eventually, the next food takes its turn.
 
-Acai berries are a perfect example. They're a normal fruit in Brazil, eaten for centuries. In the mid-2000s, they were marketed as a miracle food in the U.S., with claims about weight loss, anti-aging, and disease prevention. Sales exploded. The actual science? Acai berries are a decent source of antioxidants — roughly comparable to blueberries and pomegranates. Good. Not magic.
+Acai berries are a perfect example. They're a normal fruit in Brazil, eaten for centuries. In the mid-2000s, they were marketed as a miracle food in the U.S., with claims about weight loss, anti-aging, and disease prevention. [Sales](/sales) exploded. The actual science? Acai berries are a decent source of antioxidants — roughly comparable to blueberries and pomegranates. Good. Not magic.
 
 ## What the Science Actually Shows
 

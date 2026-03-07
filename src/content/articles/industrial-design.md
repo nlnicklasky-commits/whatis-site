@@ -5,7 +5,7 @@ description: "Industrial design shapes the products you use daily. Learn how des
 category: technology
 tags: ["industrial design", "product design", "design", "ux design", "ergonomics", "manufacturing", "aesthetics"]
 heroImage: "/images/articles/industrial-design-hero.webp"
-heroAlt: "Designer sketching a product prototype with CAD software visible on a monitor in the background"
+heroAlt: "Editorial photograph representing the concept of industrial design"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ When the Nazis closed the Bauhaus in 1933, its faculty scattered across the worl
 
 ### The American Century
 
-Post-World War II America became the epicenter of industrial design, shaped by growing [entrepreneurship](/entrepreneurship) culture and consumer demand. Raymond Loewy — who designed everything from the Lucky Strike cigarette package to the Studebaker Avanti to the interior of Skylab — became the first designer to appear on the cover of Time magazine. His concept of MAYA — "Most Advanced Yet Acceptable" — remains one of design's most useful principles: push innovation as far as the market will accept, but no further.
+Post-[World War II](/world-war-ii) America became the epicenter of industrial design, shaped by growing [entrepreneurship](/entrepreneurship) culture and consumer demand. Raymond Loewy — who designed everything from the Lucky Strike cigarette package to the Studebaker Avanti to the interior of Skylab — became the first designer to appear on the cover of Time magazine. His concept of MAYA — "Most Advanced Yet Acceptable" — remains one of design's most useful principles: push innovation as far as the market will accept, but no further.
 
 Henry Dreyfuss took a different approach, grounding design in human factors research. His book "Designing for People" (1955) established [ergonomics](/human-factors) as central to industrial design. Dreyfuss created standardized human body measurements — "Joe" and "Josephine" — that designers used for decades to ensure products fit actual human bodies.
 
@@ -164,7 +164,7 @@ Emotional durability matters too. Products that users love and feel attached to 
 
 ### Design for Disassembly and Recycling
 
-Products designed for easy disassembly at end of life — using snap fits instead of adhesives, single-material construction where possible, clearly marked material types — make recycling dramatically easier. The European Union's Waste Electrical and Electronic Equipment Directive (WEEE) and Right to Repair legislation are pushing industry toward these principles.
+Products designed for easy disassembly at end of life — using snap fits instead of adhesives, single-material [construction](/construction) where possible, clearly marked material types — make recycling dramatically easier. The European Union's Waste Electrical and Electronic Equipment Directive (WEEE) and Right to Repair legislation are pushing industry toward these principles.
 
 ### Circular Design
 
@@ -172,10 +172,10 @@ The most ambitious sustainability framework — informed by [environmental scien
 
 ## Industrial Design Today
 
-The field has expanded far beyond physical product design. Industrial designers now work on service design, user experience design, design strategy, and design research roles. The core skills — understanding users, generating creative solutions, making things tangible, balancing competing requirements — apply across domains.
+The field has expanded far beyond physical [product design](/product-design). Industrial designers now work on service design, user experience design, design strategy, and design research roles. The core skills — understanding users, generating creative solutions, making things tangible, balancing competing requirements — apply across domains.
 
 Technology companies employ more industrial designers than ever. Apple, Google, Samsung, Microsoft, and Amazon all maintain large industrial design teams. Consumer electronics, medical devices, automotive interiors, sporting goods, furniture, appliances — virtually every category of manufactured product involves industrial designers.
 
-The tools have changed dramatically. Generative design algorithms explore thousands of structural possibilities. Virtual reality allows designers to experience products at full scale before physical prototypes exist. AI assists with rendering, material selection, and manufacturing optimization.
+The tools have changed dramatically. Generative design algorithms explore thousands of structural possibilities. [Virtual reality](/virtual-reality) allows designers to experience products at full scale before physical prototypes exist. AI assists with rendering, material selection, and manufacturing [optimization](/optimization).
 
 But the fundamental challenge remains the same as it was in the Bauhaus era: How do you make objects that serve people well? Objects that work reliably, feel good to use, look right, last long, and don't trash the planet? That question is simple to ask and endlessly difficult to answer. Which is exactly what makes industrial design worth doing.

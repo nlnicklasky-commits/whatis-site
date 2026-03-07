@@ -5,7 +5,7 @@ description: "Parenting is the process of raising children, shaping their develo
 category: everyday-concepts
 tags: ["parenting", "child development", "family", "child rearing", "nurturing", "discipline"]
 heroImage: "/images/articles/parenting.webp"
-heroAlt: "A parent and child reading a book together on a couch in a warm living room"
+heroAlt: "Editorial photograph representing the concept of parenting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Parenting?
 
-Parenting is the ongoing process of raising a child from infancy to adulthood — providing physical care, emotional support, guidance, discipline, education, and the gradually loosening supervision that helps a dependent infant become an independent adult. It's simultaneously the most common human experience (nearly every adult in history has been parented, and most become parents themselves) and one of the most studied yet still poorly understood.
+Parenting is the ongoing process of raising a child from infancy to adulthood — providing physical care, emotional support, guidance, discipline, [education](/education), and the gradually loosening supervision that helps a dependent infant become an independent adult. It's simultaneously the most common human experience (nearly every adult in history has been parented, and most become parents themselves) and one of the most studied yet still poorly understood.
 
 ## The Parenting Styles Framework
 
@@ -39,13 +39,13 @@ In the 1960s, developmental psychologist Diana Baumrind observed families and id
 
 **Authoritative** parents combine warmth with firm expectations. They set clear boundaries but explain the reasoning behind rules. They're responsive to their children's needs while maintaining consistent standards. "You can't have ice cream before dinner because your body needs nutritious food first. After dinner, we can have a treat."
 
-**Authoritarian** parents prioritize obedience and discipline over warmth. Rules are strict and non-negotiable. Questioning authority is discouraged. "Because I said so" is the operating philosophy. These parents aren't necessarily cold, but control takes precedence over emotional connection.
+**Authoritarian** parents prioritize obedience and discipline over warmth. Rules are strict and non-negotiable. Questioning authority is discouraged. "Because I said so" is the operating [philosophy](/philosophy). These parents aren't necessarily cold, but control takes precedence over emotional connection.
 
 **Permissive** parents are warm and accepting but set few boundaries. They avoid confrontation, rarely enforce rules, and let children make most of their own decisions — even when those children aren't developmentally ready for that responsibility. They're friends more than authority figures.
 
 **Uninvolved** (neglectful) parents provide basic physical needs but little emotional engagement, guidance, or structure. This isn't always deliberate — poverty, mental illness, substance abuse, and overwhelming stress can create uninvolved parenting even when the parent cares deeply.
 
-Research consistently favors authoritative parenting. Children raised by authoritative parents tend to have higher self-esteem, better social skills, stronger academic performance, and fewer behavioral problems. But — and this matters — the research shows averages, not guarantees. Plenty of children thrive despite suboptimal parenting, and some struggle despite excellent parenting. Genetics, peers, temperament, and random life events all contribute.
+Research consistently favors authoritative parenting. Children raised by authoritative parents tend to have higher self-esteem, better social skills, stronger academic performance, and fewer behavioral problems. But — and this matters — the research shows averages, not guarantees. Plenty of children thrive despite suboptimal parenting, and some struggle despite excellent parenting. [Genetics](/genetics), peers, temperament, and random life events all contribute.
 
 ## What the Science Actually Says
 
@@ -57,7 +57,7 @@ Parenting research has produced mountains of data and several genuinely useful i
 
 **Praise effort, not ability.** Carol Dweck's research on mindset shows that praising children for being "smart" can actually undermine resilience. Children praised for intelligence may avoid challenges (to protect their "smart" label) and give up when things get hard. Praising effort and process ("You worked really hard on that") builds persistence.
 
-**Harsh punishment backfires.** Decades of research show that physical punishment and harsh verbal criticism are associated with increased aggression, lower self-esteem, and damaged parent-child relationships. Effective discipline focuses on teaching, not punishing — natural consequences, logical consequences, and redirection.
+**Harsh punishment backfires.** Decades of research show that physical punishment and harsh verbal criticism are associated with increased aggression, lower self-esteem, and damaged parent-child relationships. Effective discipline focuses on [teaching](/teaching), not punishing — natural consequences, logical consequences, and redirection.
 
 **Screen time is complicated.** The AAP recommends no screens before 18 months (except video calling), limited use for ages 2-5, and consistent limits thereafter. But the research is more nuanced than simple time limits suggest — the content matters more than the clock. Educational content has different effects than passive consumption, and interactive use (video calling with grandparents) is different from passive screen time.
 
@@ -69,7 +69,7 @@ Parenting research has produced mountains of data and several genuinely useful i
 
 **Early childhood (3-6).** Social skills, language explosion, imaginative play, and the beginning of formal learning. Children at this age ask approximately 300 questions per day.
 
-**Middle childhood (6-12).** Academic skills, peer relationships, developing competence, and growing independence. Parents shift from direct supervision to coaching.
+**Middle childhood (6-12).** Academic skills, peer relationships, developing competence, and growing independence. Parents shift from direct supervision to [coaching](/coaching).
 
 **Adolescence (12-18+).** Identity formation, risk-taking, peer influence, and the gradual transfer of decision-making from parent to child. The prefrontal cortex — responsible for judgment, planning, and impulse control — isn't fully developed until about age 25, which explains a lot about teenage behavior.
 
@@ -83,7 +83,7 @@ Today's parents face pressures previous generations didn't.
 
 **Economic pressure.** Housing, childcare, education, and healthcare costs have risen faster than wages for decades. Dual-income families are the norm by necessity, not just choice. The tension between work demands and parenting demands is a structural problem, not a personal failing.
 
-**Safety anxiety.** Despite crime rates being substantially lower than in the 1970s-90s, parental anxiety about safety has increased. Free-range childhoods — walking to school, playing in the neighborhood unsupervised — have become rare in many communities, replaced by constant supervision.
+**Safety anxiety.** Despite crime rates being substantially lower than in the 1970s-90s, parental anxiety about safety has increased. Free-range childhoods — [walking](/walking) to school, playing in the neighborhood unsupervised — have become rare in many communities, replaced by constant supervision.
 
 ## The Honest Truth
 

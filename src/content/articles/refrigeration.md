@@ -5,7 +5,7 @@ description: "Refrigeration is the process of removing heat from a space to lowe
 category: technology
 tags: ["refrigeration", "thermodynamics", "hvac", "cooling", "compressor", "refrigerant", "engineering"]
 heroImage: "/images/articles/refrigeration-hero.webp"
-heroAlt: "Cutaway diagram of a refrigeration compressor unit showing internal components"
+heroAlt: "Editorial photograph representing the concept of refrigeration"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -155,11 +155,11 @@ The Coefficient of Performance (COP) measures refrigeration efficiency — the r
 
 ## Food Safety: Why Temperature Matters
 
-Refrigeration's most immediately life-saving application is food preservation. The connection between temperature and bacterial growth is well-established in [food science](/food-science).
+Refrigeration's most immediately life-saving application is [food preservation](/food-preservation). The connection between temperature and bacterial growth is well-established in [food science](/food-science).
 
 Between 40°F and 140°F (4°C to 60°C) — the "danger zone" — bacteria like Salmonella, E. coli, and Listeria can double in number every 20 minutes. A single bacterium becomes over 2 million in just 7 hours at room temperature. Refrigeration at 40°F or below does not kill bacteria — it slows their reproduction to a crawl. Freezing at 0°F effectively stops bacterial growth entirely, though it does not eliminate existing bacteria.
 
-Before mechanical refrigeration, food preservation relied on salting, smoking, pickling, canning, and root cellars. These methods worked but limited dietary variety and nutritional quality. The ability to refrigerate and freeze food transformed human nutrition, health, and even geography — cities could grow far larger once they could import and store perishable food from distant farms.
+Before mechanical refrigeration, food preservation relied on salting, smoking, pickling, canning, and root cellars. These methods worked but limited dietary variety and nutritional quality. The ability to refrigerate and freeze food transformed [human nutrition](/human-nutrition), health, and even geography — cities could grow far larger once they could import and store perishable food from distant farms.
 
 ## A Brief History
 

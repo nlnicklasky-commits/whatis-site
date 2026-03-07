@@ -5,7 +5,7 @@ description: "Petrology studies rocks — their origins, composition, and transf
 category: science
 tags: ["geology", "rocks", "minerals", "igneous", "sedimentary", "metamorphic", "earth science"]
 heroImage: "/images/articles/petrology-hero.webp"
-heroAlt: "Thin section of rock viewed under polarized light microscope showing colorful mineral crystals"
+heroAlt: "Editorial photograph representing the concept of petrology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Petrology is the branch of [geology](/geology) that studies rocks — their orig
 
 That sentence might be a hard sell. Rocks seem boring — they just sit there. But every rock is a frozen record of the conditions under which it formed. A piece of granite encodes information about magma deep in the Earth's crust: its temperature, its chemical composition, how fast it cooled. A piece of sandstone records an ancient desert, riverbed, or beach — the environment where its grains accumulated, the currents that sorted them, the minerals that cemented them together.
 
-A metamorphic rock like gneiss tells the story of tectonic forces that buried it deep in the Earth, subjected it to crushing pressure and searing heat, and then brought it back to the surface. Reading that story — decoding the information recorded in a rock's minerals, textures, and chemistry — is what petrologists do.
+A metamorphic rock like gneiss tells the story of tectonic forces that buried it deep in the Earth, subjected it to crushing pressure and searing heat, and then brought it back to the surface. Reading that story — decoding the information recorded in a rock's minerals, textures, and [chemistry](/chemistry) — is what petrologists do.
 
 And the practical stakes are high. Petroleum reservoirs are rocks. Ore deposits are rocks. The foundations of buildings, bridges, and dams are rocks. Underground water supplies flow through rocks. Nuclear waste must be stored in rocks that will remain stable for hundreds of thousands of years. Petrology underpins every field that interacts with Earth's solid materials — which is essentially every branch of [earth science](/earth-science) and many branches of [engineering](/engineering).
 
@@ -55,7 +55,7 @@ One of petrology's most important concepts is that rocks aren't permanent. They'
 
 **Metamorphic rocks** form when existing rocks — igneous, sedimentary, or even older metamorphic rocks — are subjected to heat, pressure, or chemically active fluids that change their mineral composition and texture without melting them completely.
 
-Any rock type can transform into any other type given the right conditions. Granite can weather into sand that becomes sandstone. Sandstone can be buried and metamorphosed into quartzite. Quartzite can melt and produce new igneous rock. This cycle has operated for billions of years and will continue as long as Earth's interior remains hot enough to drive plate tectonics.
+Any rock type can transform into any other type given the right conditions. Granite can weather into sand that becomes sandstone. Sandstone can be buried and metamorphosed into quartzite. Quartzite can melt and produce new igneous rock. This cycle has operated for billions of years and will continue as long as Earth's interior remains hot enough to drive [plate tectonics](/plate-[tectonics](/tectonics)).
 
 ## Igneous Petrology
 
@@ -170,7 +170,7 @@ The concept of metamorphic facies groups rocks by the mineral assemblages that f
 
 ## Petrological Methods
 
-### Thin Section Microscopy
+### Thin Section [Microscopy](/microscopy)
 
 The petrologist's most fundamental tool is the polarizing microscope used to examine thin sections — rock slices ground to exactly 0.03 mm thickness. At this thickness, most minerals become transparent and exhibit diagnostic optical properties when polarized light passes through them.
 

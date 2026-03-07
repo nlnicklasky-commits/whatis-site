@@ -5,7 +5,7 @@ description: "Contract law governs legally binding agreements between parties. L
 category: finance
 tags: ["law", "legal system", "agreements", "business law", "commercial law", "jurisprudence", "obligations"]
 heroImage: "/images/articles/contract-law-hero.webp"
-heroAlt: "Two people shaking hands over a signed contract document on a desk"
+heroAlt: "Editorial photograph representing the concept of contract law"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -87,7 +87,7 @@ Corporations have capacity through their authorized officers. Government entitie
 
 The contract's purpose must be legal. A contract to sell illegal drugs is void---no court will enforce it. Same goes for agreements to commit fraud, fix prices in violation of [antitrust](/economics) laws, or engage in any illegal activity.
 
-This extends beyond obvious crimes. Contracts that violate public policy---like agreements not to testify truthfully in court---are also unenforceable, even if they don't technically violate a statute.
+This extends beyond obvious crimes. Contracts that violate [public policy](/public-policy)---like agreements not to testify truthfully in court---are also unenforceable, even if they don't technically violate a statute.
 
 ### 6. Mutual Assent (Meeting of the Minds)
 
@@ -145,7 +145,7 @@ When breach happens, the injured party has several options.
 
 **Specific performance** is a court order requiring the breaching party to actually perform the contract. Courts reserve this for unique situations where money damages aren't adequate---typically involving real estate, rare items, or other unique goods.
 
-**Liquidated damages** are pre-agreed amounts specified in the contract itself. Construction contracts often include them: "$500 per day for late completion." Courts enforce these if they're a reasonable estimate of anticipated harm, not a penalty.
+**Liquidated damages** are pre-agreed amounts specified in the contract itself. [Construction](/construction) contracts often include them: "$500 per day for late completion." Courts enforce these if they're a reasonable estimate of anticipated harm, not a penalty.
 
 ## Defenses: When a Contract Isn't Really a Contract
 
@@ -275,4 +275,4 @@ Understanding contract law isn't just for lawyers. Every time you sign a lease, 
 
 ## Key Takeaways
 
-Contract law governs enforceable agreements through six required elements: offer, acceptance, consideration, capacity, legality, and mutual assent. Breaches trigger remedies including compensatory damages, consequential damages, specific performance, and liquidated damages. Defenses like fraud, duress, unconscionability, and mistake can void otherwise valid contracts. The field continues evolving with electronic commerce, smart contracts, and international trade, but its core principles---dating back centuries---remain the foundation of every commercial transaction and many personal arrangements in daily life.
+Contract law governs enforceable agreements through six required elements: offer, acceptance, consideration, capacity, legality, and mutual assent. Breaches trigger remedies including compensatory damages, consequential damages, specific performance, and liquidated damages. Defenses like fraud, duress, unconscionability, and mistake can void otherwise valid contracts. The field continues evolving with electronic commerce, smart contracts, and [international trade](/international-trade), but its core principles---dating back centuries---remain the foundation of every commercial transaction and many personal arrangements in daily life.

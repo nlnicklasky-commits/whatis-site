@@ -5,7 +5,7 @@ description: "Bridge is a four-player partnership card game of strategy and comm
 category: everyday-concepts
 tags: ["bridge card game", "card games", "strategy", "partnership game", "tricks", "bidding"]
 heroImage: "/images/articles/bridge-card-game.webp"
-heroAlt: "Four players seated at a table playing bridge with cards fanned in their hands"
+heroAlt: "Editorial photograph representing the concept of bridge (card game)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,11 +59,11 @@ The defense — where two players must cooperate without direct communication ex
 
 ## Why Bridge Captivates
 
-Bridge offers something unusual among games: a combination of [probability](/probability-theory), logic, psychology, and partnership that creates depth rivaling chess while adding social dimensions chess lacks.
+Bridge offers something unusual among games: a combination of [probability](/probability-theory), [logic](/logic), psychology, and partnership that creates depth rivaling [chess](/chess) while adding social dimensions chess lacks.
 
 **Imperfect information** — Unlike chess, where both players see the entire board, bridge players see only their own 13 cards. Deducing the distribution of unseen cards — through bidding information, card play, and logical inference — is the game's central challenge.
 
-**Partnership** — You can't win bridge alone. Communication between partners (through bidding and defensive signaling) requires trust, shared understanding, and the emotional intelligence to support a partner who's having a bad day. The partnership dimension adds a human element absent from solo strategy games.
+**Partnership** — You can't win bridge alone. Communication between partners (through bidding and defensive signaling) requires trust, shared understanding, and the [emotional intelligence](/emotional-intelligence) to support a partner who's having a bad day. The partnership dimension adds a human element absent from solo [strategy games](/strategy-games).
 
 **Variance** — Card distribution is random, so every deal is different. This keeps the game perpetually fresh but also means that short-term results reflect luck as much as skill. Over many deals, the cream rises — but a weaker pair can beat a stronger pair in any single session.
 

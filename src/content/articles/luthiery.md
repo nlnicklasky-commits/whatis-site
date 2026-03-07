@@ -5,7 +5,7 @@ description: "Luthiery is the craft of building and repairing stringed instrumen
 category: arts-amp-culture
 tags: ["luthiery", "instrument making", "guitars", "violins", "woodworking", "music"]
 heroImage: "/images/articles/luthiery.webp"
-heroAlt: "Luthier hand-carving the top plate of a violin in a workshop filled with tools"
+heroAlt: "Editorial photograph representing the concept of luthiery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Luthiery?
 
-Luthiery is the art and craft of building stringed musical instruments — guitars, violins, cellos, mandolins, banjos, lutes, and their many relatives. The word comes from "luth," the French word for lute, and a luthier is someone who practices this craft. It's a profession that combines woodworking precision, acoustic science, artistic design, and a deep understanding of how musicians actually play.
+Luthiery is the art and craft of building stringed musical instruments — guitars, violins, cellos, mandolins, banjos, lutes, and their many relatives. The word comes from "luth," the French word for lute, and a luthier is someone who practices this craft. It's a profession that combines [woodworking](/woodworking) precision, acoustic science, artistic design, and a deep understanding of how musicians actually play.
 
 A well-made instrument is a genuinely remarkable object. It converts the mechanical energy of a vibrating string into sound waves through a wooden body engineered to amplify specific frequencies — and it does this while being beautiful to look at, comfortable to hold, and durable enough to last centuries.
 
 ## The Cremona Tradition
 
-Modern luthiery traces its lineage to 16th-century northern Italy, particularly the city of Cremona. The great Italian violin makers — Andrea Amati (circa 1505-1577), Antonio Stradivari (1644-1737), and Giuseppe Guarneri del Gesu (1698-1744) — established the violin family's basic form and set standards of craftsmanship that haven't been surpassed.
+Modern luthiery traces its lineage to 16th-century northern Italy, particularly the city of Cremona. The great Italian [violin](/violin) makers — Andrea Amati (circa 1505-1577), Antonio Stradivari (1644-1737), and Giuseppe Guarneri del Gesu (1698-1744) — established the violin family's basic form and set standards of craftsmanship that haven't been surpassed.
 
-Stradivari's instruments are the most famous. He made roughly 1,100 instruments over a career spanning about 70 years. Around 650 survive, and they command extraordinary prices — the "Lady Blunt" Stradivarius sold for $15.9 million in 2011. Musicians and scientists have debated for centuries what makes them sound special. Theories involve the wood, the varnish, the climate during the Little Ice Age, and the specific geometry of the construction. The truth is probably some combination of all of these, plus a hefty dose of reputation and confirmation bias.
+Stradivari's instruments are the most famous. He made roughly 1,100 instruments over a career spanning about 70 years. Around 650 survive, and they command extraordinary prices — the "Lady Blunt" Stradivarius sold for $15.9 million in 2011. Musicians and scientists have debated for centuries what makes them sound special. Theories involve the wood, the varnish, the climate during the Little Ice Age, and the specific [geometry](/geometry) of the [construction](/construction). The truth is probably some combination of all of these, plus a hefty dose of reputation and confirmation bias.
 
 Modern luthiers can build instruments that perform comparably to Strads in blind tests — a finding that annoys traditionalists and reassures everyone else.
 
@@ -47,7 +47,7 @@ Modern luthiers can build instruments that perform comparably to Strads in blind
 
 ### Acoustic Guitars
 
-An acoustic guitar starts with selecting wood — and the wood choice matters enormously. The top (soundboard) is typically spruce or cedar, chosen for its ability to vibrate freely and efficiently. The back and sides are usually rosewood, mahogany, maple, or walnut, chosen for their resonance characteristics and visual beauty. The neck is mahogany or maple, and the fingerboard is usually ebony or rosewood.
+An acoustic [guitar](/guitar) starts with selecting wood — and the wood choice matters enormously. The top (soundboard) is typically spruce or cedar, chosen for its ability to vibrate freely and efficiently. The back and sides are usually rosewood, mahogany, maple, or walnut, chosen for their resonance characteristics and visual beauty. The neck is mahogany or maple, and the fingerboard is usually ebony or rosewood.
 
 The luthier begins by carving and bracing the top. Internal bracing — thin strips of wood glued to the underside of the soundboard — controls how the top vibrates. The bracing pattern (X-bracing, fan bracing, ladder bracing) dramatically affects the guitar's tone. Getting this right is where experience and artistry matter most.
 
@@ -61,7 +61,7 @@ Violin construction follows patterns established in the 1500s. The top is carved
 
 The f-holes (the sound holes) are cut into the top. A bass bar (a long brace) is glued inside under the lower string side. A sound post (a small dowel) is fitted inside between the top and back — its precise position dramatically affects the instrument's sound. Violin makers joke that the Italian word for the sound post is "anima" — the soul.
 
-The assembled body is varnished — another area where luthiers have strong and sometimes mystical opinions. Traditional oil varnishes take weeks to apply and cure. The varnish affects not just appearance but also acoustics and long-term aging.
+The assembled body is varnished — another area where luthiers have strong and sometimes mystical opinions. Traditional oil varnishes take weeks to apply and cure. The varnish affects not just appearance but also [acoustics](/acoustics) and long-term aging.
 
 ## The Science (and Art) of Tone
 
@@ -81,9 +81,9 @@ The honest truth is that luthiery combines measurable science with intuitive jud
 
 You can learn luthiery through:
 
-- **Formal programs** — schools like Roberto-Venn (guitar), the Violin Making School of America, and the Newark School of Violin Making offer structured training lasting 1-4 years
+- **Formal programs** — schools like Roberto-Venn (guitar), the [Violin Making](/violin-making) School of America, and the Newark School of Violin Making offer structured training lasting 1-4 years
 - **Apprenticeships** — working under an established luthier, the traditional path
-- **Self-teaching** — books, online courses, and kits make it possible to build your first instrument alone, though the learning curve is steep
+- **Self-[teaching](/teaching)** — books, online courses, and kits make it possible to build your first instrument alone, though the learning curve is steep
 
 Building your first instrument is a humbling experience. Things that seem simple — cutting a perfect slot, bending a side evenly, getting a clean glue joint — reveal their difficulty immediately. But the moment you string up something you built with your own hands and hear it make music? That's a feeling that keeps people in this craft for life.
 

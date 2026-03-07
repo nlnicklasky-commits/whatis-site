@@ -5,7 +5,7 @@ description: "Probability theory is the math of uncertainty. Learn how it quanti
 category: science
 tags: ["probability theory", "statistics", "randomness", "uncertainty", "mathematics", "chance", "events"]
 heroImage: "/images/articles/probability-theory-hero.webp"
-heroAlt: "Dice and probability distributions overlaid on mathematical notation"
+heroAlt: "Editorial photograph representing the concept of probability theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -185,13 +185,13 @@ Epidemiologists use probabilistic models to predict disease spread. During COVID
 
 ### Finance and Risk Management
 
-Modern [finance](/finance) is built on probability theory. The Black-Scholes model for pricing options uses stochastic differential equations — probability theory meets [calculus](/calculus). Value at Risk (VaR) calculations, which banks use to estimate potential losses, are probability computations. Portfolio theory, which underpins how billions of dollars are invested, optimizes expected return versus the probability of losses.
+Modern [finance](/finance) is built on probability theory. The Black-Scholes model for pricing options uses stochastic [differential equations](/differential-equations) — probability theory meets [calculus](/calculus). Value at Risk (VaR) calculations, which banks use to estimate potential losses, are probability computations. Portfolio theory, which underpins how billions of dollars are invested, optimizes expected return versus the probability of losses.
 
 The 2008 financial crisis partly resulted from underestimating tail probabilities — the likelihood of extreme events. Models assumed housing prices followed normal distributions and that mortgage defaults were independent. Both assumptions were wrong, and the consequences were catastrophic. Probability theory isn't just abstract mathematics; getting it wrong costs real money and real livelihoods.
 
-### Machine Learning and Artificial Intelligence
+### Machine Learning and [Artificial Intelligence](/artificial-intelligence)
 
-[Machine learning](/machine-learning) is, in many ways, applied probability theory. A spam filter computes the probability that a message is spam given its word frequencies (using Bayes' theorem, directly). A neural network's output layer often produces probability distributions over possible classifications. Reinforcement learning algorithms balance exploration and exploitation using probabilistic strategies.
+[Machine learning](/machine-learning) is, in many ways, applied probability theory. A spam filter computes the probability that a message is spam given its word frequencies (using Bayes' theorem, directly). A neural network's output layer often produces probability distributions over possible classifications. [Reinforcement learning](/reinforcement-learning) algorithms balance exploration and exploitation using probabilistic strategies.
 
 Generative AI models learn probability distributions over language — they're literally predicting the most probable next token given the preceding context. The mathematics underneath ChatGPT and similar models is fundamentally probabilistic.
 
@@ -201,7 +201,7 @@ Insurance is one of the oldest practical applications of probability. An insuran
 
 Actuarial science is essentially applied probability. Life tables, premium calculations, reserve requirements — all are probability computations. The entire insurance industry exists because probability theory makes it possible to manage individual uncertainty through collective prediction.
 
-### Quantum Mechanics
+### [Quantum Mechanics](/quantum-mechanics)
 
 Perhaps the most profound application of probability theory is in physics. Quantum mechanics — our most accurate theory of the subatomic world — is fundamentally probabilistic. An electron doesn't have a definite position until measured; it has a probability distribution over possible positions described by its wave function.
 

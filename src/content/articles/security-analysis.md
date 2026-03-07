@@ -5,7 +5,7 @@ description: "Security analysis evaluates financial instruments to determine the
 category: finance
 tags: ["security analysis", "investment", "finance", "stock market", "fundamental analysis", "technical analysis"]
 heroImage: "/images/articles/security-analysis-hero.webp"
-heroAlt: "Financial analyst reviewing stock charts and company financial statements on multiple screens"
+heroAlt: "Editorial photograph representing the concept of security analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Today, the global financial analysis industry employs an estimated 300,000+ anal
 
 Security analysis splits into two broad approaches that differ in philosophy, methodology, and assumptions about how markets work. Most serious practitioners have a foot in both camps, but the frameworks are genuinely different.
 
-### Fundamental Analysis: What Is This Actually Worth?
+### [Fundamental Analysis](/fundamental-analysis): What Is This Actually Worth?
 
 Fundamental analysis starts from a simple premise: every security has an intrinsic value determined by the underlying business, asset, or cash flow it represents. The market price might be above, below, or equal to this intrinsic value at any given moment. The analyst's job is to estimate intrinsic value and compare it to the market price.
 
@@ -105,7 +105,7 @@ Numbers alone don't tell the whole story. Qualitative factors include:
 
 **Industry dynamics**: Is the industry growing or shrinking? How intense is competition? What regulatory changes are coming? Some industries (utilities, consumer staples) are stable and predictable. Others (technology, fashion) change so fast that even great analysis becomes obsolete quickly.
 
-### Technical Analysis: Where Is the Price Going?
+### [Technical Analysis](/technical-analysis): Where Is the Price Going?
 
 Technical analysis takes a fundamentally different approach. Instead of asking "what is this worth?", it asks "what is the market doing?" Technical analysts study price charts, trading volume, and market indicators to identify patterns that suggest future price direction.
 
@@ -163,15 +163,15 @@ Bond prices move inversely to interest rates. When rates rise, existing bonds (w
 
 The yield curve—plotting yields across different maturities—provides information about market expectations for future interest rates and economic conditions. A normal upward-sloping curve suggests economic optimism. An inverted curve (short-term rates above long-term rates) has historically preceded recessions, though the relationship isn't mechanical.
 
-## Quantitative Analysis
+## [Quantitative Analysis](/quantitative-analysis)
 
 The third approach to security analysis is quantitative—using mathematical and statistical models to identify investment opportunities.
 
 **Factor models** decompose stock returns into systematic factors (market risk, company size, valuation, momentum, quality, volatility) and attempt to capture factor premiums systematically. The Fama-French three-factor model and its five-factor extension are the academic foundations, and hundreds of "quant" hedge funds and ETFs now implement factor-based strategies.
 
-**Statistical arbitrage** identifies temporary pricing discrepancies between related securities and profits from their convergence. This requires sophisticated modeling, fast execution, and rigorous risk management.
+**Statistical arbitrage** identifies temporary pricing discrepancies between related securities and profits from their convergence. This requires sophisticated modeling, fast execution, and rigorous [risk management](/risk-management).
 
-**Machine learning** is increasingly used to process vast datasets—satellite imagery of parking lots (to estimate retail traffic), natural language processing of earnings call transcripts (to detect management sentiment), social media analysis (to gauge public opinion)—and generate trading signals. Whether these approaches consistently add value after accounting for costs and data-mining biases remains debated.
+**Machine learning** is increasingly used to process vast datasets—satellite imagery of parking lots (to estimate retail traffic), [natural language processing](/natural-language-processing) of earnings call transcripts (to detect management sentiment), social media analysis (to gauge public opinion)—and generate trading signals. Whether these approaches consistently add value after accounting for costs and data-mining biases remains debated.
 
 ## The Efficient Market Challenge
 
@@ -217,6 +217,6 @@ If you're getting started with security analysis, here's a practical path:
 
 AI and machine learning are changing how analysis is done but haven't changed what analysis is. Machines process data faster, identify patterns in larger datasets, and never get emotionally attached to a position. But they also can't yet replicate the qualitative judgment that separates good analysis from great analysis—understanding competitive dynamics, assessing management character, or recognizing when a historical pattern is about to break.
 
-The most likely future is hybrid: quantitative tools handle data processing, pattern recognition, and screening, while human analysts focus on qualitative judgment, creative thinking, and situations that don't fit historical patterns. The analysts who thrive will be those who can work with quantitative tools rather than compete against them.
+The most likely future is hybrid: quantitative tools handle data processing, [pattern recognition](/pattern-recognition), and screening, while human analysts focus on qualitative judgment, creative thinking, and situations that don't fit historical patterns. The analysts who thrive will be those who can work with quantitative tools rather than compete against them.
 
 What won't change is the fundamental purpose of security analysis: determining whether the price you'd pay for an investment is justified by the value you'd receive. Graham and Dodd got that right in 1934, and no amount of technological change has altered the underlying question.

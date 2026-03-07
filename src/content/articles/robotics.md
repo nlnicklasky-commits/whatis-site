@@ -5,7 +5,7 @@ description: "Robotics is the field of designing, building, and programming mach
 category: technology
 tags: ["robotics", "automation", "artificial intelligence", "engineering", "sensors", "actuators", "programming"]
 heroImage: "/images/articles/robotics-hero.webp"
-heroAlt: "Industrial robotic arm performing precision assembly in a modern manufacturing facility"
+heroAlt: "Editorial photograph representing the concept of robotics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,7 +51,7 @@ Every robot, from a Roomba to a Mars rover, operates on the same fundamental loo
 
 Robots need information about their environment to function. The sensors they use depend entirely on the task.
 
-**Vision sensors** include cameras (monocular, stereo, and depth cameras), which provide rich visual data but require sophisticated computer vision [algorithms](/algorithms) to interpret. A camera gives you millions of pixels — figuring out that those pixels represent "a coffee mug sitting on the edge of a table" is a hard computational problem that researchers have worked on for decades.
+**Vision sensors** include cameras (monocular, stereo, and depth cameras), which provide rich visual data but require sophisticated [computer vision](/computer-vision) [algorithms](/algorithms) to interpret. A camera gives you millions of pixels — figuring out that those pixels represent "a coffee mug sitting on the edge of a table" is a hard computational problem that researchers have worked on for decades.
 
 **LIDAR** (Light Detection and Ranging) fires laser pulses and measures the time they take to bounce back, creating precise 3D point clouds of the environment. LIDAR gives excellent distance measurements but no color or texture information. Self-driving cars use LIDAR extensively, and it is standard on many mobile robots for mapping and navigation.
 
@@ -73,7 +73,7 @@ Raw sensor data is useless without software that interprets it and decides what 
 
 **Task planning** operates at a higher level: what sequence of actions should the robot perform to accomplish a goal? "Make a sandwich" breaks down into opening the bread bag, placing bread on the counter, opening the peanut butter jar, picking up a knife, spreading peanut butter, and so on. Each sub-task requires its own motion planning. Hierarchical planning — decomposing high-level goals into lower-level actions — mirrors how humans approach complex tasks.
 
-**Machine learning** is increasingly central to robotic decision-making. [Machine learning](/machine-learning) allows robots to learn from experience rather than being explicitly programmed for every situation. Reinforcement learning trains robots to perform tasks through trial and error. Deep learning processes visual data for object recognition and scene understanding. These approaches are essential for handling the unpredictability of real-world environments.
+**Machine learning** is increasingly central to robotic decision-making. [Machine learning](/machine-learning) allows robots to learn from experience rather than being explicitly programmed for every situation. [Reinforcement learning](/reinforcement-learning) trains robots to perform tasks through trial and error. Deep learning processes visual data for object recognition and scene understanding. These approaches are essential for handling the unpredictability of real-world environments.
 
 ### Acting: Motors, Actuators, and Movement
 
@@ -177,7 +177,7 @@ Several trends will shape robotics over the next decade.
 
 **General-purpose humanoids**: Multiple well-funded companies (Tesla, Figure, 1X, Agility Robotics) are racing to produce commercially viable humanoid robots. If they succeed, the labor implications could be enormous.
 
-**Soft robotics**: Robots made from flexible, compliant materials rather than rigid metal. Soft robots can handle delicate objects (fruit picking, elderly care), squeeze through confined spaces, and interact safely with humans. The field draws on materials science and biologically-inspired design.
+**Soft robotics**: Robots made from flexible, compliant materials rather than rigid metal. Soft robots can handle delicate objects (fruit picking, elderly care), squeeze through confined spaces, and interact safely with humans. The field draws on [materials science](/materials-science) and biologically-inspired design.
 
 **Swarm robotics**: Large numbers of simple, inexpensive robots coordinating to accomplish tasks collectively — like ants building a colony. Potential applications include search and rescue, environmental monitoring, and construction.
 

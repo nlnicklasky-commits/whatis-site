@@ -5,7 +5,7 @@ description: "EEG technology records the brain's electrical activity through sca
 category: technology
 tags: ["eeg", "electroencephalography", "neuroscience", "brain activity", "neurology", "brain waves", "medical technology"]
 heroImage: "/images/articles/eeg-technology-hero.webp"
-heroAlt: "Patient wearing an EEG cap with electrodes connected to brain wave monitoring equipment"
+heroAlt: "Editorial photograph representing the concept of eeg technology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ But neurons don't fire randomly. Groups of neurons in the cortex—particularly 
 
 Here's the key distinction: EEG primarily records *postsynaptic potentials* (the slower currents that flow when neurons receive input from other neurons), not action potentials (the fast, spike-like signals neurons use to send messages). Postsynaptic potentials last longer and can sum more effectively across large populations of neurons.
 
-The signal has to travel through cerebrospinal fluid, the skull (which attenuates it significantly), and the scalp before reaching the electrodes. By the time it arrives, the voltage is typically between 10 and 100 microvolts—about 100 times smaller than the voltage in a watch battery. Amplifying and recording these tiny signals without drowning them in noise is a significant engineering challenge.
+The signal has to travel through cerebrospinal fluid, the skull (which attenuates it significantly), and the scalp before reaching the electrodes. By the time it arrives, the voltage is typically between 10 and 100 microvolts—about 100 times smaller than the voltage in a watch battery. Amplifying and recording these tiny signals without drowning them in noise is a significant [engineering](/engineering) challenge.
 
 ### The Recording Setup
 
@@ -73,7 +73,7 @@ The electrodes connect to an amplifier that boosts the signal about 10,000-50,00
 
 ### What the Squiggly Lines Mean
 
-Raw EEG looks chaotic—dozens of wavy lines running simultaneously. But trained electroencephalographers (EEG readers) can identify clinically meaningful patterns. The key features are:
+Raw EEG looks chaotic—dozens of wavy lines [running](/running) simultaneously. But trained electroencephalographers (EEG readers) can identify clinically meaningful patterns. The key features are:
 
 **Frequency.** How many oscillation cycles per second (measured in Hertz). Different frequencies correspond to different brain states.
 
@@ -93,7 +93,7 @@ The slowest waves, with the highest amplitude. Delta waves dominate during deep,
 
 ### Theta Waves (4-8 Hz)
 
-Associated with drowsiness, light sleep, and memory processing. Theta activity in the hippocampus is linked to memory encoding and spatial navigation. In waking adults, excessive theta can indicate attention disorders or the transition toward sleep. During meditation, some practitioners show increased frontal theta activity.
+Associated with drowsiness, light sleep, and memory processing. Theta activity in the hippocampus is linked to memory encoding and spatial [navigation](/navigation). In waking adults, excessive theta can indicate attention disorders or the transition toward sleep. During [meditation](/meditation), some practitioners show increased frontal theta activity.
 
 ### Alpha Waves (8-13 Hz)
 
@@ -129,7 +129,7 @@ For patients being considered for epilepsy surgery, EEG helps localize the seizu
 
 Polysomnography—the clinical sleep study—includes EEG as a core component. EEG patterns define sleep stages: alpha rhythm in relaxed wakefulness, theta onset in stage 1 sleep, sleep spindles and K-complexes in stage 2, delta dominance in stage 3 (deep sleep), and the mixed-frequency, low-amplitude pattern of REM sleep.
 
-Sleep disorders including narcolepsy, sleep apnea (via its effects on sleep architecture), and REM behavior disorder are diagnosed partly through EEG findings.
+Sleep disorders including narcolepsy, sleep apnea (via its effects on sleep [architecture](/architecture)), and REM behavior disorder are diagnosed partly through EEG findings.
 
 ### Brain Death Determination
 
@@ -171,7 +171,7 @@ Current EEG-based BCIs typically use one of several strategies:
 
 Current BCI technology is still slow and somewhat unreliable compared to normal motor control. But the field is advancing rapidly, with [machine learning](/machine-learning) algorithms dramatically improving classification accuracy.
 
-### Consumer Neuroscience and Neuromarketing
+### Consumer Neuroscience and [Neuromarketing](/neuromarketing)
 
 Companies use EEG to study consumer responses to advertisements, product designs, and branding. Frontal alpha asymmetry (more left-than-right frontal alpha suppression) is associated with approach motivation—liking or wanting something. Companies measure this response to ads, packaging, and user interfaces to optimize engagement.
 
@@ -201,6 +201,6 @@ EEG technology is evolving in several directions simultaneously.
 
 **Dry electrodes and ear EEG.** Eliminating the need for conductive gel (which is messy and time-consuming to apply) and reducing the electrode count to what fits in or around the ear would make continuous, everyday EEG monitoring practical. Several companies and research groups are pursuing this aggressively.
 
-**Integration with AI.** Deep learning models trained on large EEG datasets can detect patterns invisible to human interpreters—subtle pre-seizure changes, biomarkers for Alzheimer's disease progression, or attention states in online learners. The combination of EEG hardware that's getting cheaper and lighter with AI software that's getting smarter is opening applications that weren't feasible even five years ago.
+**Integration with AI.** [Deep learning](/deep-learning) models trained on large EEG datasets can detect patterns invisible to human interpreters—subtle pre-seizure changes, biomarkers for Alzheimer's disease progression, or attention states in online learners. The combination of EEG hardware that's getting cheaper and lighter with AI software that's getting smarter is opening applications that weren't feasible even five years ago.
 
 EEG was the first window into the working brain, and after a century, it's still one of the best. No other technique matches its combination of temporal precision, safety, cost-effectiveness, and portability. The squiggly lines Hans Berger first recorded in 1924 continue to reveal new things about how the 1.4-kilogram organ inside your skull produces everything you think, feel, and experience.

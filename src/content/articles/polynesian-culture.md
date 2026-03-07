@@ -5,7 +5,7 @@ description: "Polynesian culture spans the Pacific islands from Hawaii to New Ze
 category: arts-amp-culture
 tags: ["polynesia", "pacific islands", "indigenous culture", "oceania", "voyaging", "navigation"]
 heroImage: "/images/articles/polynesian-culture.webp"
-heroAlt: "Traditional Polynesian voyaging canoe on the open Pacific Ocean"
+heroAlt: "Editorial photograph representing the concept of polynesian culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The navigator Mau Piailug from the Micronesian island of Satawal was one of the 
 
 ## Where Polynesians Came From
 
-Genetic, linguistic, and archaeological evidence traces Polynesian origins to Southeast Asia, specifically Taiwan and the surrounding region, beginning around 3000-1500 BCE. The Lapita people — identified by their distinctive pottery — spread through Melanesia and into western Polynesia (Tonga and Samoa) around 1000 BCE.
+Genetic, linguistic, and archaeological evidence traces Polynesian origins to Southeast Asia, specifically Taiwan and the surrounding region, beginning around 3000-1500 BCE. The Lapita people — identified by their distinctive [pottery](/pottery) — spread through Melanesia and into western Polynesia (Tonga and Samoa) around 1000 BCE.
 
 From there, the expansion continued eastward. The Marquesas Islands were settled around 300 CE, Hawaii by 400-800 CE, Easter Island (Rapa Nui) by 800-1200 CE, and New Zealand (Aotearoa) by 1250-1300 CE. New Zealand was one of the last habitable places on Earth to be settled by humans.
 
@@ -57,9 +57,9 @@ The sweet potato is particularly interesting. It's native to South America, but 
 
 Traditional Polynesian societies were hierarchical, organized around concepts of *mana* (spiritual power and authority) and *tapu* (sacred restrictions — the origin of the English word "taboo").
 
-Chiefs (*ariki* or *ali'i*, depending on the island group) held authority through a combination of genealogy, personal achievement, and spiritual power. Genealogy was everything — the ability to trace your lineage to founding ancestors and gods determined your social rank. This is why oral history and chanting were so carefully preserved.
+Chiefs (*ariki* or *ali'i*, depending on the island group) held authority through a combination of [genealogy](/genealogy), personal achievement, and spiritual power. Genealogy was everything — the ability to trace your lineage to founding ancestors and gods determined your social rank. This is why [oral history](/oral-history) and chanting were so carefully preserved.
 
-The concept of *mana* was central. Mana wasn't abstract — it was real power that resided in people, objects, and places. A chief's mana could affect the prosperity of the community. Sacred sites held mana. Successful navigation or warfare demonstrated mana. It could be gained, lost, or transferred.
+The concept of *mana* was central. Mana wasn't abstract — it was real power that resided in people, objects, and places. A chief's mana could affect the prosperity of the community. Sacred sites held mana. Successful [navigation](/navigation) or warfare demonstrated mana. It could be gained, lost, or transferred.
 
 *Tapu* regulated behavior through sacred prohibitions. Certain places, people, or activities were tapu — forbidden or restricted. Violating tapu could drain mana from a person or community and invite misfortune. The system served both religious and practical purposes, regulating resource use, social behavior, and political authority.
 
@@ -69,11 +69,11 @@ Polynesian art traditions are living practices, not museum relics.
 
 **Tattooing** — the word "tattoo" itself comes from the Samoan *tatau*. Polynesian tattooing is among the oldest and most elaborate traditions in the world. Designs encode genealogy, rank, personal history, and spiritual protection. The Samoan pe'a — a male tattoo covering the body from waist to knees — takes weeks to complete using traditional hand-tapping tools and is a significant rite of passage. Maori *ta moko* (facial tattoo) is so personal that historically, chiefs used their moko as signatures on documents.
 
-**Dance and performance** — Hawaiian hula, Samoan siva, Tongan lakalaka, and Maori haka are not entertainment in the Western sense. They're ways of preserving history, honoring ancestors, and expressing identity. The haka — made globally famous by New Zealand's All Blacks rugby team — is a war dance that declares identity, strength, and pride.
+**[Dance](/dance) and performance** — Hawaiian hula, Samoan siva, Tongan lakalaka, and Maori haka are not entertainment in the Western sense. They're ways of preserving history, honoring ancestors, and expressing identity. The haka — made globally famous by New Zealand's All Blacks [rugby](/rugby) team — is a war dance that declares identity, strength, and pride.
 
 **Tapa cloth** (*siapo* in Samoan, *kapa* in Hawaiian) is made from beaten bark, typically of the paper mulberry tree. It's decorated with geometric patterns using natural dyes and used for ceremonial garments, gifts, and wrapping. Each island group has distinctive patterns.
 
-**Wood and stone carving** — from the massive *moai* statues of Easter Island to the intricate meeting house carvings of the Maori, Polynesian carving traditions are among the most distinctive in the world. The 887 moai on Rapa Nui, some over 30 feet tall and weighing 80 tons, remain one of archaeology's most studied achievements.
+**Wood and [stone carving](/stone-carving)** — from the massive *moai* statues of Easter Island to the intricate meeting house carvings of the Maori, Polynesian carving traditions are among the most distinctive in the world. The 887 moai on Rapa Nui, some over 30 feet tall and weighing 80 tons, remain one of [archaeology](/archaeology)'s most studied achievements.
 
 ## Colonialism and Resilience
 
@@ -83,4 +83,4 @@ Colonial powers annexed Polynesian territories throughout the 19th and 20th cent
 
 But Polynesian cultures have proven remarkably resilient. Since the 1970s, cultural revival movements have swept the Pacific. The Hawaiian language, nearly extinct by the 1980s, is now taught in immersion schools. Traditional voyaging has been revived, with canoes like Hokule'a making international voyages. Maori language and culture have been formally recognized in New Zealand's legal and educational systems.
 
-The cultures that crossed the Pacific Ocean in wooden canoes without instruments are still here. Still sailing, still dancing, still telling the stories. That's not survival — that's a statement.
+The cultures that crossed the Pacific Ocean in wooden canoes without instruments are still here. Still [sailing](/sailing), still dancing, still telling the stories. That's not survival — that's a statement.

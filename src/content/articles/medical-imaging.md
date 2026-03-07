@@ -5,7 +5,7 @@ description: "Medical imaging uses technologies like X-rays, MRI, and CT scans t
 category: health-amp-wellness
 tags: ["medicine", "medical imaging", "radiology"]
 heroImage: "/images/articles/medical-imaging.webp"
-heroAlt: "MRI scanner in a hospital radiology department with a patient table"
+heroAlt: "Editorial photograph representing the concept of medical imaging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,13 +39,13 @@ Medical imaging is the collection of techniques and processes used to create vis
 
 The story starts on November 8, 1895, in a dark laboratory in Wurzburg, Germany. Physicist Wilhelm Conrad Rontgen was experimenting with cathode rays when he noticed a fluorescent screen glowing across the room — even though it was shielded from the tube. He'd discovered X-rays. Within weeks, he produced the first medical image: his wife Anna Bertha's hand, her bones and wedding ring clearly visible against a ghostly outline of flesh.
 
-That single image changed everything. Within a year, hospitals across Europe and North America were using X-rays to find broken bones and locate foreign objects inside patients. Rontgen received the first Nobel Prize in Physics in 1901 for his discovery.
+That single image changed everything. Within a year, hospitals across Europe and North America were using X-rays to find broken bones and locate foreign objects inside patients. Rontgen received the first Nobel Prize in [Physics](/physics) in 1901 for his discovery.
 
 But X-rays were just the beginning. Over the next century, scientists and engineers developed a whole arsenal of imaging technologies — each with its own strengths, limitations, and best-use scenarios.
 
 ## The Major Types of Medical Imaging
 
-### X-Ray Radiography
+### X-Ray [Radiography](/radiography)
 
 The original. X-rays pass through your body, and different tissues absorb them at different rates. Dense structures like bones absorb more radiation and appear white on the film. Soft tissues appear in shades of gray, and air appears black.
 
@@ -57,7 +57,7 @@ The downside? X-rays use ionizing radiation, which carries a very small cancer r
 
 Think of a CT scan as an X-ray on steroids. Instead of a single beam, a CT scanner rotates an X-ray tube around your body, capturing hundreds of cross-sectional images from different angles. A computer then assembles these slices into detailed 3D reconstructions.
 
-The first clinical CT scanner was installed at Atkinson Morley Hospital in London in 1971. Its inventor, Godfrey Hounsfield, shared the 1979 Nobel Prize in Physiology or Medicine with Allan Cormack, who'd worked out the mathematical foundations.
+The first clinical CT scanner was installed at Atkinson Morley Hospital in London in 1971. Its inventor, Godfrey Hounsfield, shared the 1979 Nobel Prize in [Physiology](/physiology) or Medicine with Allan Cormack, who'd worked out the mathematical foundations.
 
 Modern CT scanners are shockingly fast. A full chest scan takes about 5-10 seconds. They're indispensable for trauma evaluation, cancer staging, detecting internal bleeding, and guiding biopsies. But they use significantly more radiation than a standard X-ray — a single abdominal CT delivers roughly the equivalent of 200 chest X-rays.
 
@@ -67,7 +67,7 @@ MRI is the soft tissue champion. It uses powerful magnetic fields (typically 1.5
 
 No radiation involved. Zero. That's a big deal, especially for patients who need repeated imaging — like monitoring brain tumors or tracking [multiple sclerosis](/anatomy) progression.
 
-The trade-offs: MRI is slow (30 to 90 minutes for some studies), loud (the banging can reach 110 decibels), expensive, and claustrophobia-inducing. Patients with certain metallic implants can't have MRIs at all because the magnetic field could shift the metal.
+The [trade](/trade)-offs: MRI is slow (30 to 90 minutes for some studies), loud (the banging can reach 110 decibels), expensive, and claustrophobia-inducing. Patients with certain metallic implants can't have MRIs at all because the magnetic field could shift the metal.
 
 Frankly, though, the image quality is worth the hassle. An MRI of the knee shows individual cartilage layers and ligament fibers. Brain MRI can distinguish between gray matter and white matter with stunning clarity.
 
@@ -93,7 +93,7 @@ About 2 million PET scans are performed annually in the United States alone.
 
 ## How Radiologists Read Images
 
-A common misconception: machines diagnose diseases. They don't. Machines produce images. Radiologists — physicians who complete 4 years of medical school, 5 years of radiology residency, and often 1-2 years of subspecialty fellowship — interpret those images.
+A common misconception: machines diagnose diseases. They don't. Machines produce images. Radiologists — physicians who complete 4 years of medical school, 5 years of [radiology](/radiology) residency, and often 1-2 years of subspecialty fellowship — interpret those images.
 
 A single CT scan of the abdomen might contain 500 to 1,000 individual image slices. The radiologist examines each one, comparing structures to what's normal, noting anything unusual, and correlating findings with the patient's clinical history. They then produce a written report for the referring physician.
 
@@ -101,7 +101,7 @@ The workload is staggering. The average radiologist interprets one image every 3
 
 ## AI and the Future of Medical Imaging
 
-Artificial intelligence is making serious inroads here. Deep learning algorithms can now detect certain conditions — diabetic retinopathy, specific types of lung cancer, breast cancer on mammography — with accuracy that matches or exceeds experienced radiologists in controlled studies.
+[Artificial intelligence](/artificial-intelligence) is making serious inroads here. [Deep learning](/deep-learning) [algorithms](/algorithms) can now detect certain conditions — diabetic retinopathy, specific types of lung cancer, breast cancer on mammography — with accuracy that matches or exceeds experienced radiologists in controlled studies.
 
 But "AI will replace radiologists" is a wildly premature claim. What's actually happening is more interesting: AI is becoming a second set of eyes. It flags suspicious findings, prioritizes urgent cases in the reading queue, and automates tedious measurements. Radiologists still make the final call.
 
@@ -125,7 +125,7 @@ To put things in perspective: a chest X-ray delivers about 0.02 millisieverts (m
 
 ## Interventional Radiology: Beyond Just Looking
 
-Medical imaging isn't just for diagnosis anymore. Interventional radiology uses imaging guidance — fluoroscopy, ultrasound, CT — to perform minimally invasive procedures that once required open surgery.
+Medical imaging isn't just for diagnosis anymore. Interventional radiology uses imaging guidance — fluoroscopy, ultrasound, CT — to perform minimally invasive procedures that once required open [surgery](/surgery).
 
 Blocked coronary artery? An interventional radiologist can thread a catheter through your femoral artery, guide it to the blockage under fluoroscopy, and inflate a tiny balloon to open the vessel — then place a stent to keep it open. Liver tumor? They can guide a needle directly into it and destroy it with radiofrequency energy or inject chemotherapy drugs right at the site.
 

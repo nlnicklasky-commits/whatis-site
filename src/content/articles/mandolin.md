@@ -5,7 +5,7 @@ description: "The mandolin is a stringed instrument with paired strings and a br
 category: arts-amp-culture
 tags: ["mandolin", "stringed instruments", "bluegrass", "music", "folk music", "classical music"]
 heroImage: "/images/articles/mandolin.webp"
-heroAlt: "A carved mandolin resting against a wooden chair with a music stand nearby"
+heroAlt: "Editorial photograph representing the concept of mandolin"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,23 +31,23 @@ faq:
 
 # What Is Mandolin?
 
-The mandolin is a small stringed instrument with eight strings arranged in four pairs (called "courses"), played with a pick (plectrum) and tuned the same as a violin — G, D, A, E from low to high. Its sound is bright, percussive, and unmistakable — a shimmering quality that comes from those paired strings vibrating together in near-unison.
+The mandolin is a small stringed instrument with eight strings arranged in four pairs (called "courses"), played with a pick (plectrum) and tuned the same as a [violin](/violin) — G, D, A, E from low to high. Its sound is bright, percussive, and unmistakable — a shimmering quality that comes from those paired strings vibrating together in near-unison.
 
-You've probably heard a mandolin even if you didn't recognize it. The opening riff of R.E.M.'s "Losing My Religion"? Mandolin. The driving rhythm in a bluegrass band? Mandolin. That trembling, sustained melody in a Neapolitan love song? Also mandolin.
+You've probably heard a mandolin even if you didn't recognize it. The opening riff of R.E.M.'s "Losing My [Religion](/religion)"? Mandolin. The driving rhythm in a bluegrass band? Mandolin. That trembling, sustained melody in a Neapolitan love song? Also mandolin.
 
 ## Origins and Evolution
 
 The mandolin descended from a family of lute-like instruments that spread across Europe during the medieval and Renaissance periods. The direct ancestor is the mandolino, an Italian instrument from the 15th and 16th centuries. The modern mandolin took shape in Naples during the 18th century, when the Vinaccia family of instrument makers developed the metal-strung, round-backed design that became the "Neapolitan" or "bowl-back" mandolin.
 
-This is the mandolin that classical composers wrote for. Vivaldi composed a concerto for it. Mozart used it in *Don Giovanni* (the famous serenade "Deh, vieni alla finestra"). Beethoven wrote several works for mandolin and piano.
+This is the mandolin that classical composers wrote for. Vivaldi composed a concerto for it. Mozart used it in *Don Giovanni* (the famous serenade "Deh, vieni alla finestra"). Beethoven wrote several works for mandolin and [piano](/piano).
 
-In the early 20th century, American instrument maker Orville Gibson redesigned the mandolin with a flat back and carved top (inspired by violin construction), creating what's now called the "F-style" mandolin. Lloyd Loar, working at the Gibson company in the 1920s, refined this design further. The Gibson F-5, released in 1922, became the gold standard for American mandolins and remains the most copied mandolin design in the world.
+In the early 20th century, American instrument maker Orville Gibson redesigned the mandolin with a flat back and carved top (inspired by violin [construction](/construction)), creating what's now called the "F-style" mandolin. Lloyd Loar, working at the Gibson company in the 1920s, refined this design further. The Gibson F-5, released in 1922, became the gold standard for American mandolins and remains the most copied mandolin design in the world.
 
 Original Loar-era F-5s now sell for $150,000-250,000+. They're the Stradivarius violins of the mandolin world.
 
 ## Types of Mandolins
 
-**Bowl-back (Neapolitan).** The original design — a rounded back made from strips of wood, a flat soundboard, and a warm, mellow tone. Still preferred for classical and Italian folk music.
+**Bowl-back (Neapolitan).** The original design — a rounded back made from strips of wood, a flat soundboard, and a warm, mellow tone. Still preferred for classical and Italian [folk music](/folk-music).
 
 **A-style.** An American flat-back design with a teardrop or pear-shaped body. Simpler to build than F-styles, less expensive, and perfectly functional. Many excellent mandolins are A-styles.
 
@@ -59,9 +59,9 @@ Original Loar-era F-5s now sell for $150,000-250,000+. They're the Stradivarius 
 
 ## How It's Played
 
-The mandolin is held like a guitar but played with a pick. The right hand provides both the rhythm (strumming or chopping chords) and the melody (picking individual notes). The left hand frets the strings, pressing them down at specific points to create different pitches.
+The mandolin is held like [a guitar](/guitar) but played with a pick. The right hand provides both the rhythm (strumming or chopping chords) and the melody (picking individual notes). The left hand frets the strings, pressing them down at specific points to create different pitches.
 
-The signature technique is **tremolo** — rapidly picking a single course back and forth to sustain a note. Since mandolin strings don't ring as long as guitar strings, tremolo gives the mandolin its characteristic singing, sustained quality. Mastering even, controlled tremolo is one of the main technical challenges for mandolin players.
+The signature technique is **tremolo** — rapidly picking a single course back and forth to sustain a note. Since mandolin strings don't ring as long as guitar strings, tremolo gives the mandolin its characteristic [singing](/singing), sustained quality. Mastering even, controlled tremolo is one of the main technical challenges for mandolin players.
 
 Other important techniques include:
 
@@ -87,7 +87,7 @@ The mandolin is a rewarding instrument for beginners. Some advantages:
 - It's small and portable
 - Beginner-friendly instruments are available for $200-500
 
-The challenges include the narrow string spacing (your fingers feel crowded at first), the paired strings (requiring precise pick placement), and the relatively small repertoire of teaching materials compared to guitar or piano.
+The challenges include the narrow string spacing (your fingers feel crowded at first), the paired strings (requiring precise pick placement), and the relatively small repertoire of [teaching](/teaching) materials compared to guitar or piano.
 
 If you already play guitar, you'll need to rewire your thinking — the tuning is different (fifths instead of fourths), and the picking technique is distinct. If you play violin, the tuning will feel like home, though the picking hand technique is entirely different from bowing.
 

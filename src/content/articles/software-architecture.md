@@ -5,7 +5,7 @@ description: "Software architecture is the high-level structure of a software sy
 category: technology
 tags: ["software architecture", "software engineering", "design patterns", "system design", "microservices", "technology"]
 heroImage: "/images/articles/software-architecture.webp"
-heroAlt: "Diagram showing interconnected software components and their relationships in a system architecture"
+heroAlt: "Editorial photograph representing the concept of software architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Yes, but it's expensive and risky. Major architectural changes often require rewriting large portions of code, migrating data, and retraining teams. This is why architecture decisions are sometimes called 'the decisions you wish you could get right early.' Many organizations evolve their architecture incrementally — extracting microservices from a monolith one piece at a time, for example — rather than doing a complete rewrite."
 ---
 
-# What Is Software Architecture?
+# What Is Software [Architecture](/architecture)?
 
 Software architecture is the set of high-level decisions about how a software system is organized — its major components, how those components interact, and the principles governing their design and evolution. Think of it as the blueprint of a building: it doesn't tell you what color to paint the walls, but it determines how many floors you have, where the load-bearing walls go, and whether you can add a wing later without the whole thing collapsing.
 
@@ -73,7 +73,7 @@ The simplest pattern: everything runs as a single, unified application. All code
 
 **When it works:** Small to medium applications, small teams, early-stage startups, and anything where deployment simplicity matters more than independent scalability. Ruby on Rails, Django, and early versions of most successful web apps were monoliths.
 
-**When it doesn't:** When the codebase gets so large that build times become painful. When different parts of the system need to scale independently (your image processing needs more compute, but your user profile service doesn't). When multiple teams are stepping on each other's code.
+**When it doesn't:** When the codebase gets so large that build times become painful. When different parts of the system need to scale independently (your [image processing](/image-processing) needs more compute, but your user profile service doesn't). When multiple teams are stepping on each other's code.
 
 The monolith gets unfairly maligned. For many projects — probably most projects — it's the right choice. Basecamp and Stack Overflow are both monoliths that serve millions of users. The key is knowing when you've outgrown it.
 
@@ -170,7 +170,7 @@ Software architecture has evolved through several eras.
 
 **The enterprise era (2000s)** brought SOA, enterprise integration patterns, and middleware. Systems got more complex, and architecture became a recognized discipline.
 
-**The cloud era (2010s-present)** enabled microservices, serverless, and container orchestration ([Kubernetes](/cloud-computing)). Architecture decisions now include choosing among dozens of managed cloud services, each with its own pricing model, limitations, and operational characteristics.
+**The cloud era (2010s-present)** enabled microservices, serverless, and container [orchestration](/orchestration) ([Kubernetes](/cloud-computing)). Architecture decisions now include choosing among dozens of managed cloud services, each with its own pricing model, limitations, and operational characteristics.
 
 **The AI era (emerging)** is adding new architectural considerations: where to run inference, how to manage model versions, how to handle the non-deterministic nature of AI outputs, and how to build systems that combine traditional logic with [machine learning](/machine-learning) predictions.
 

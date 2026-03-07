@@ -5,7 +5,7 @@ description: "Observational astronomy studies celestial objects by collecting li
 category: science
 tags: ["observational astronomy", "astronomy", "telescopes", "astrophysics", "space science", "cosmology", "celestial objects"]
 heroImage: "/images/articles/observational-astronomy-hero.webp"
-heroAlt: "Large telescope dome under a starry sky with the Milky Way visible"
+heroAlt: "Editorial photograph representing the concept of observational astronomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ Since Galileo, telescopes have grown from thumb-sized tubes to 10-meter giants o
 
 Visible light — the rainbow of colors from red to violet — is a tiny sliver of the electromagnetic spectrum. The universe radiates across the entire spectrum, and different wavelengths reveal completely different phenomena.
 
-### Radio Astronomy
+### [Radio Astronomy](/radio-astronomy)
 
 Karl Jansky accidentally discovered cosmic radio waves in 1932 while investigating telephone static for Bell Labs. Radio astronomy has since revealed pulsars, quasars, the cosmic microwave background radiation, and the structure of our galaxy.
 
@@ -93,7 +93,7 @@ Modern optical telescopes bear little resemblance to Galileo's tube. The largest
 
 ### The Next Generation
 
-Three extremely large telescopes (ELTs) are under construction:
+Three extremely large telescopes (ELTs) are under [construction](/construction):
 
 **The Extremely Large Telescope (ELT)** — ESO's 39-meter monster being built in Chile. When complete (expected late 2020s), it will collect 13 times more light than any existing telescope and produce images 16 times sharper than Hubble.
 
@@ -127,7 +127,7 @@ The eye was replaced by photographic plates in the 19th century. Plates were rep
 
 Modern CCD mosaics contain billions of pixels. The camera on the Vera Rubin Observatory (under construction in Chile) contains 3.2 billion pixels — the largest digital camera ever built. It will photograph the entire visible sky every three nights, generating roughly 20 terabytes of data per night.
 
-### Spectroscopy
+### [Spectroscopy](/spectroscopy)
 
 Simply taking pictures tells you where objects are and how bright they are. Spectroscopy — splitting light into its component wavelengths — tells you what objects are made of, how hot they are, how fast they're moving, and how strong their magnetic fields are.
 
@@ -185,7 +185,7 @@ Observational astronomy is pursuing several profound questions:
 
 Some people ask why we spend billions on telescopes when there are problems here on Earth. It's a fair question with several answers.
 
-Practically, astronomical research drives technology. CCDs were developed for astronomy and now form the basis of every digital camera. Adaptive optics techniques are being applied to medical imaging. [Computing](/computer-science) innovations developed for astronomical data processing benefit other fields.
+Practically, astronomical research drives technology. CCDs were developed for astronomy and now form the basis of every digital camera. Adaptive optics techniques are being applied to [medical imaging](/medical-imaging). [Computing](/computer-science) innovations developed for astronomical data processing benefit other fields.
 
 Scientifically, understanding the universe is understanding our origins. The atoms in your body were forged in stars that exploded billions of years ago. The carbon in your DNA, the iron in your blood, the calcium in your bones — all produced by stellar nucleosynthesis and scattered across space by supernovae. We are, quite literally, made of star stuff, and observational astronomy is how we know that.
 

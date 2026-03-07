@@ -5,7 +5,7 @@ description: "Saltwater aquariums are tanks that recreate marine environments fo
 category: everyday-concepts
 tags: ["aquarium", "saltwater", "marine life", "fishkeeping", "reef tank", "coral"]
 heroImage: "/images/articles/saltwater-aquariums.webp"
-heroAlt: "Vibrant saltwater reef aquarium with colorful coral and tropical fish"
+heroAlt: "Editorial photograph representing the concept of saltwater aquariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Yes, clownfish are actually one of the best saltwater fish for beginners. They're hardy, captive-bred (so no wild collection impact), affordable ($15-$40), and don't need a large tank — a pair can thrive in a 20-gallon tank. They will host in anemones, but they don't require one — they'll happily adopt certain corals or even a powerhead as their 'home.' After Finding Nemo (2003), clownfish became the most popular marine aquarium fish, and the demand for captive-bred specimens actually helped advance marine fish breeding."
 ---
 
-# What Is Saltwater Aquariums?
+# What Is Saltwater [Aquariums](/aquariums)?
 
 A saltwater aquarium is a glass or acrylic tank filled with synthetic ocean water, equipped with filtration, lighting, and temperature control to maintain living marine organisms — fish, corals, invertebrates, or all three. It's essentially a miniature ocean ecosystem in your living room. The hobby ranges from simple fish-only setups to jaw-dropping reef tanks that rival the beauty of actual coral reefs, packed with living corals in electric blues, greens, pinks, and purples. It's also one of the most demanding, expensive, and rewarding hobbies you can pursue.
 
@@ -37,7 +37,7 @@ A saltwater aquarium is a glass or acrylic tank filled with synthetic ocean wate
 
 The two main types of saltwater aquariums have very different requirements and costs.
 
-**Fish-only (FOWLR — Fish Only With Live Rock)** tanks keep marine fish with live rock (porous limestone colonized by beneficial bacteria and organisms) as the primary biological filtration. Lighting can be basic. Water chemistry doesn't need to be as precise. These tanks are the entry point for most saltwater hobbyists. You can keep angelfish, tangs, wrasses, clownfish, and other marine fish without the complexity of coral care.
+**Fish-only (FOWLR — Fish Only With Live Rock)** tanks keep marine fish with live rock (porous limestone colonized by beneficial bacteria and organisms) as the primary biological filtration. Lighting can be basic. Water [chemistry](/chemistry) doesn't need to be as precise. These tanks are the entry point for most saltwater hobbyists. You can keep angelfish, tangs, wrasses, clownfish, and other marine fish without the complexity of coral care.
 
 **Reef tanks** keep living corals alongside fish and invertebrates. This is where the hobby gets serious. Corals are living animals that need specific light spectrums (usually high-intensity LED fixtures costing $300-$1,000+), stable water chemistry (calcium, alkalinity, and magnesium must stay within narrow ranges), and strong water flow. A thriving reef tank is one of the most beautiful things you can create at home — and one of the most challenging to maintain.
 
@@ -63,7 +63,7 @@ Setting up a saltwater aquarium requires more equipment than freshwater. Here's 
 
 Before adding any fish, a new saltwater tank must "cycle" — establishing colonies of beneficial bacteria that process waste. Fish produce ammonia (toxic). Bacteria convert ammonia to nitrite (also toxic). Other bacteria convert nitrite to nitrate (much less toxic, removed by water changes).
 
-This cycle takes 4-8 weeks. It's boring. It requires patience. And skipping it kills fish. Many beginners add fish too soon, creating toxic conditions that stress or kill their livestock. The cycling process is the first test of whether you have the patience for this hobby.
+This cycle takes 4-8 weeks. It's boring. It requires patience. And skipping it kills fish. Many beginners add fish too soon, creating toxic conditions that stress or kill their livestock. The [cycling](/cycling) process is the first test of whether you have the patience for this hobby.
 
 ## The Livestock
 

@@ -5,7 +5,7 @@ description: "Wind power converts moving air into electricity using turbines. Le
 category: science-technology
 tags: ["wind power", "renewable energy", "wind turbines", "clean energy", "electricity", "sustainability"]
 heroImage: "/images/articles/wind-power.webp"
-heroAlt: "Row of large white wind turbines spinning on a grassy hilltop against a blue sky"
+heroAlt: "Editorial photograph representing the concept of wind power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Wind Power?
 
-Wind power is the conversion of kinetic energy in moving air into electricity, primarily using wind turbines. It's one of the fastest-growing energy sources in the world — global installed wind capacity increased from about 17 gigawatts in 2000 to over 900 GW by 2023. Wind generated roughly 10% of U.S. electricity in 2023 and over 30% of electricity in Denmark. The technology works, it's competitive on cost, and it's scaling rapidly. It also has real limitations that honest discussion requires acknowledging.
+Wind power is the conversion of kinetic energy in moving air into [electricity](/electricity), primarily using wind turbines. It's one of the fastest-growing energy sources in the world — global installed wind capacity increased from about 17 gigawatts in 2000 to over 900 GW by 2023. Wind generated roughly 10% of U.S. electricity in 2023 and over 30% of electricity in Denmark. The technology works, it's competitive on cost, and it's scaling rapidly. It also has real limitations that honest discussion requires acknowledging.
 
 ## How a Wind Turbine Works
 
-The basic physics are straightforward. Wind pushes against the blades, which are airfoils — shaped like airplane wings. The air moving over the curved surface creates lift, which rotates the blades. The spinning blades turn a shaft connected to a generator, which converts rotational energy into electricity.
+The basic [physics](/physics) are straightforward. Wind pushes against the blades, which are airfoils — shaped like airplane wings. The air moving over the curved surface creates lift, which rotates the blades. The spinning blades turn a shaft connected to a generator, which converts rotational energy into electricity.
 
 Modern utility-scale turbines are enormous. The tower stands 260-330 feet tall. Each blade is 150-250 feet long — longer than a Boeing 747's wingspan. The nacelle (the housing at the top containing the generator) is the size of a bus. Total height from base to blade tip often exceeds 500 feet.
 
@@ -55,7 +55,7 @@ Offshore turbines are larger (12-15 MW versus 2-5 MW onshore), capture stronger 
 
 Wind resource quality varies dramatically by location. The Great Plains of the U.S. — from Texas through the Dakotas — have exceptional wind resources because flat terrain and continental weather patterns create consistently strong winds. Coastal areas, mountain passes, and offshore locations also provide strong, reliable wind.
 
-Wind resource maps, created from decades of meteorological data and validated by on-site measurement, guide development decisions. A modern wind farm undergoes 1-2 years of on-site wind measurement before construction begins.
+Wind resource maps, created from decades of meteorological data and validated by on-site measurement, guide development decisions. A modern wind farm undergoes 1-2 years of on-site wind measurement before [construction](/construction) begins.
 
 **Capacity factor** — the percentage of maximum possible output a turbine actually delivers — measures site quality. The best U.S. onshore sites achieve 40-55% capacity factors. Average sites produce 25-35%. Below about 25%, projects typically aren't economically viable. Offshore capacity factors often reach 45-60% thanks to stronger, steadier ocean winds.
 

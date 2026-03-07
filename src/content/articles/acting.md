@@ -5,7 +5,7 @@ description: "Acting is the art of portraying characters through speech, movemen
 category: arts-amp-culture
 tags: ["acting", "theater", "film", "drama", "performance"]
 heroImage: "/images/articles/acting.webp"
-heroAlt: "Actor performing on a stage under dramatic spotlight with theatrical curtains behind"
+heroAlt: "Editorial photograph representing the concept of acting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ His answer evolved over decades, but the core ideas include:
 
 - **Given circumstances** — understanding everything about your character's situation
 - **The "magic if"** — asking "what would I do if I were in this character's position?"
-- **Emotional memory** — drawing on your own past experiences to access genuine feelings
+- **Emotional memory** — [drawing](/drawing) on your own past experiences to access genuine feelings
 - **Objectives and actions** — every character wants something in every scene; the actor's job is to pursue it
 - **Physical actions** — external behavior can trigger internal emotional states
 
@@ -87,11 +87,11 @@ Physical theater traditions — from Jacques Lecoq's movement training to Jerzy 
 
 The two main arenas for acting demand different skills, and the differences are bigger than most people realize.
 
-**Theater** is live. No second takes. No editing. The performance exists only in the moment it happens, then it's gone. Actors must project voice and emotion to fill a space that might seat hundreds or thousands. Gestures need to be visible from the back row. Energy must sustain for two or three hours straight.
+**Theater** is live. No second takes. No [editing](/editing). The performance exists only in the moment it happens, then it's gone. Actors must project voice and emotion to fill a space that might seat hundreds or thousands. Gestures need to be visible from the back row. Energy must sustain for two or three hours straight.
 
 **Film** is intimate. The camera is inches from your face. A raised eyebrow communicates what a sweeping gesture would on stage. Dialogue can be whispered. Performance is captured in fragments — a close-up here, a wide shot there — then assembled in editing. The actor may never perform a scene from start to finish.
 
-Television falls somewhere between the two, though it's moved closer to film technique. Voice acting for animation and games is its own specialized skill — conveying everything through sound alone.
+Television falls somewhere between the two, though it's moved closer to film technique. Voice acting for [animation](/animation) and games is its own specialized skill — conveying everything through sound alone.
 
 The best actors can work across mediums, adjusting their scale and technique to fit the format. But the transition isn't automatic. Many brilliant stage actors struggle on camera, and many film stars look lost on stage.
 
@@ -109,14 +109,14 @@ This is subjective territory, but some markers are widely recognized.
 
 ## The Business Side (It's Rough)
 
-Here's the uncomfortable reality: acting is one of the most competitive professions on earth. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) has roughly 160,000 members. The Bureau of Labor Statistics estimates that median pay for actors was $17.94 per hour in 2022, with the majority working part-time. At any given moment, over 85% of professional actors are unemployed.
+Here's the uncomfortable reality: acting is one of the most competitive professions on earth. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) has roughly 160,000 members. The Bureau of Labor [Statistics](/statistics) estimates that median pay for actors was $17.94 per hour in 2022, with the majority working part-time. At any given moment, over 85% of professional actors are unemployed.
 
 The people who make it — really make it — represent a tiny fraction. The rest work day jobs, do commercial and voice work, teach, or piece together a living from small roles and regional theater. It's a career path that demands persistence bordering on stubbornness, a thick skin for rejection, and genuine love for the work itself.
 
-Training options range from four-year university programs and prestigious conservatories (Juilliard, RADA, Yale Drama) to community workshops and self-study. There's no single correct path, and the industry doesn't much care about your resume — it cares about your audition.
+Training options range from four-year university programs and prestigious conservatories (Juilliard, RADA, Yale [Drama](/drama)) to community workshops and self-study. There's no single correct path, and the industry doesn't much care about your resume — it cares about your audition.
 
 ## Why Acting Matters
 
-Acting is storytelling with the body, voice, and spirit. It lets audiences experience lives they'll never live, feel emotions they might never otherwise access, and see the world through someone else's eyes. Done well, it builds empathy — the ability to understand another person's perspective, which is maybe the most important human skill there is.
+Acting is [storytelling](/storytelling) with the body, voice, and spirit. It lets audiences experience lives they'll never live, feel emotions they might never otherwise access, and see the world through someone else's eyes. Done well, it builds empathy — the ability to understand another person's perspective, which is maybe the most important human skill there is.
 
 Every culture in recorded history has had some form of dramatic performance. We need stories, and we need to see them embodied by real people. That need hasn't changed in 2,500 years. The stages got bigger, the cameras got smaller, the costumes got fancier — but the essential act remains what it's always been: one person pretending to be someone else, and a roomful of people choosing to believe them.

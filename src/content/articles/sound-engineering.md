@@ -5,7 +5,7 @@ description: "Sound engineering is the technical craft of recording, mixing, and
 category: technology
 tags: ["sound engineering", "audio", "music production", "recording", "acoustics", "mixing"]
 heroImage: "/images/articles/sound-engineering.webp"
-heroAlt: "A professional mixing console with illuminated faders and meters in a dimly lit recording studio"
+heroAlt: "Editorial photograph representing the concept of sound engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ faq:
     a: "A mastering engineer takes the final stereo mix and prepares it for distribution. This involves subtle EQ adjustments for tonal balance, compression for consistency, limiting to set the final loudness level, sequencing tracks for an album, and ensuring the audio translates well across different playback systems — from earbuds to club speakers."
 ---
 
-# What Is Sound Engineering?
+# What Is Sound [Engineering](/engineering)?
 
 Sound engineering is the technical discipline of capturing, processing, mixing, and reproducing audio. Sound engineers are the people behind the mixing console who make sure a band's live performance sounds clear to every seat in the venue, that a podcast recording has no background hum, and that the final master of an album translates well from studio monitors to car speakers to earbuds.
 
-The field sits at the intersection of physics, electronics, music, and psychoacoustics — the study of how humans perceive sound.
+The field sits at the intersection of [physics](/physics), [electronics](/electronics), music, and psychoacoustics — the study of how humans perceive sound.
 
 ## The Signal Chain: From Air to Speakers
 
@@ -47,7 +47,7 @@ Every audio production follows a signal chain — the path sound takes from its 
 
 ### The Acoustic Source
 
-Everything starts with vibration. A singer's vocal cords vibrate. A guitar string oscillates. A drum head resonates. These vibrations create pressure waves in the air — what we call sound. The character of these waves — their frequency content, amplitude envelope, harmonic structure — is what makes a violin sound different from a trumpet even when they play the same note.
+Everything starts with vibration. A singer's vocal cords vibrate. [A guitar](/guitar) string oscillates. A drum head resonates. These vibrations create pressure waves in the air — what we call sound. The character of these waves — their frequency content, amplitude envelope, harmonic structure — is what makes a violin sound different from a [trumpet](/trumpet) even when they play the same note.
 
 Sound engineers can't change the laws of [acoustics](/acoustics), but they can choose *where* and *how* to capture these waves. Microphone placement is arguably the single most important decision in recording. Move a mic six inches, and the captured sound changes dramatically.
 
@@ -114,7 +114,7 @@ Two ears, two speakers, one soundstage. Stereo recording techniques create a sen
 
 ### Multitrack Recording
 
-Recording each instrument to its own track — multitrack recording — was the breakthrough that transformed popular music production. Les Paul experimented with sound-on-sound recording in the 1940s. Ampex introduced 8-track recorders in the 1950s. By the late 1960s, the Beatles were using 4-track and 8-track machines to create albums that couldn't possibly have been recorded live.
+Recording each instrument to its own track — multitrack recording — was the breakthrough that transformed popular [music production](/music-production). Les Paul experimented with sound-on-sound recording in the 1940s. Ampex introduced 8-track recorders in the 1950s. By the late 1960s, the Beatles were using 4-track and 8-track machines to create albums that couldn't possibly have been recorded live.
 
 Today, [digital](/digital-signal-processing) audio workstations (DAWs) like Pro Tools, Logic Pro, Ableton Live, and Reaper offer unlimited tracks. A modern pop production might use 100 or more tracks — individual drums, multiple vocal takes, layers of synthesizers, effects returns, and auxiliary busses.
 
@@ -134,7 +134,7 @@ Mixing is the process of combining all recorded tracks into a final stereo (or s
 
 **Reverb and delay** create the illusion of space. A dry vocal sounds isolated and unnatural. Add a hall reverb, and suddenly the voice sits in a three-dimensional environment. Short delays (slap-back) add thickness. Long delays create rhythmic echoes. The skill is adding enough to create depth without drowning the mix in wash.
 
-### Mixing Philosophy
+### Mixing [Philosophy](/philosophy)
 
 Every mix engineer develops their own approach, but some principles are nearly universal:
 

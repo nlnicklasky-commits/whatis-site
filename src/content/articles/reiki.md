@@ -5,7 +5,7 @@ description: "Reiki is a Japanese energy healing practice where practitioners ch
 category: health-amp-wellness
 tags: ["alternative medicine", "reiki", "energy healing", "wellness"]
 heroImage: "/images/articles/reiki.webp"
-heroAlt: "A reiki practitioner gently placing hands above a relaxed client on a treatment table"
+heroAlt: "Editorial photograph representing the concept of reiki"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Reiki?
 
-Reiki is a Japanese energy healing technique developed in the 1920s by Mikao Usui, a Buddhist practitioner from Kyoto. The word itself combines two Japanese characters: *rei* (universal) and *ki* (life energy). The basic idea? A trained practitioner channels this universal life energy through their hands and into the recipient's body, promoting relaxation, stress reduction, and — according to practitioners — physical and emotional healing.
+Reiki is a Japanese [energy healing](/energy-healing) technique developed in the 1920s by Mikao Usui, a Buddhist practitioner from Kyoto. The word itself combines two Japanese characters: *rei* (universal) and *ki* (life energy). The basic idea? A trained practitioner channels this universal life energy through their hands and into the recipient's body, promoting relaxation, stress reduction, and — according to practitioners — physical and emotional healing.
 
 Here's where things get interesting, and a little controversial. Reiki has millions of practitioners worldwide. Over 60 hospitals in the United States offer reiki as a complementary therapy. Yet the scientific community remains deeply skeptical about the mechanisms behind it. There's no measurable "life energy" that instruments can detect, and clinical trials have produced mixed results at best.
 
@@ -41,7 +41,7 @@ So what's actually going on? Let's dig into the history, the practice, and what 
 
 ## The Origins of Reiki
 
-Mikao Usui didn't invent reiki out of thin air. He drew from existing Japanese and Chinese traditions around *ki* (or *chi* in Chinese) — the concept that vital energy flows through all living things. In 1922, after a period of fasting and meditation on Mount Kurama near Kyoto, Usui reported a profound spiritual experience that gave him the ability to heal through touch. He opened a clinic in Tokyo that same year.
+Mikao Usui didn't invent reiki out of thin air. He drew from existing Japanese and Chinese traditions around *ki* (or *chi* in Chinese) — the concept that vital energy flows through all living things. In 1922, after a period of fasting and [meditation](/meditation) on Mount Kurama near Kyoto, Usui reported a profound spiritual experience that gave him the ability to heal through touch. He opened a clinic in Tokyo that same year.
 
 Usui trained roughly 2,000 students before his death in 1926. Among them was Chujiro Hayashi, a retired naval officer who systematized the hand positions and created a more structured treatment protocol. Hayashi, in turn, trained Hawayo Takata, a Japanese-American woman from Hawaii, in the late 1930s.
 
@@ -90,7 +90,7 @@ So why do so many people swear by it? A few possible explanations:
 
 **Therapeutic touch and attention.** Human touch is powerful. Studies consistently show that compassionate physical contact reduces cortisol levels and increases oxytocin. A reiki session provides extended, focused, caring touch — something many people rarely experience.
 
-**The placebo effect.** Believing that a treatment will help you actually changes your neurochemistry. Placebo responses can reduce pain by 15-30% in many studies. The ritual, the practitioner's confidence, and the client's expectations all contribute.
+**The placebo effect.** Believing that a treatment will help you actually changes your [neurochemistry](/neurochemistry). Placebo responses can reduce pain by 15-30% in many studies. The ritual, the practitioner's confidence, and the client's expectations all contribute.
 
 **Selection bias.** People who seek out reiki tend to be open to alternative approaches and may be more attuned to subtle changes in how they feel. They're also more likely to report positive outcomes.
 
@@ -100,17 +100,17 @@ Despite the lack of strong evidence, reiki has made surprising inroads into conv
 
 Why would evidence-based medical institutions offer a treatment with limited scientific backing? The reasoning is practical: patients report feeling better, there are essentially no side effects, and it doesn't interfere with conventional treatments. Several hospitals have conducted their own informal studies showing reduced anxiety and pain in patients who receive reiki alongside standard care.
 
-The key word there is "alongside." No reputable hospital offers reiki as a replacement for surgery, chemotherapy, or medication. It's positioned strictly as a complement — something that helps patients cope with the stress and discomfort of illness and treatment.
+The key word there is "alongside." No reputable hospital offers reiki as a replacement for [surgery](/surgery), chemotherapy, or medication. It's positioned strictly as a complement — something that helps patients cope with the stress and discomfort of illness and treatment.
 
 ## Common Misconceptions About Reiki
 
-**"Reiki is a religion."** It's not. While Usui drew from Buddhist and Shinto traditions, reiki itself has no dogma, no required beliefs, and no worship component. Practitioners come from every religious background — and from no religious background at all.
+**"Reiki is a [religion](/religion)."** It's not. While Usui drew from Buddhist and Shinto traditions, reiki itself has no dogma, no required beliefs, and no worship component. Practitioners come from every religious background — and from no religious background at all.
 
 **"You have to believe in it for it to work."** Practitioners claim reiki works regardless of belief. Of course, this makes it harder to study scientifically, since you can't separate the treatment effect from the placebo effect if belief doesn't matter.
 
 **"Reiki can cure diseases."** No credible reiki practitioner makes this claim. Responsible practitioners position reiki as a relaxation technique that may support healing, not a cure for cancer, diabetes, or any other disease. Be very cautious of any practitioner who claims otherwise.
 
-**"Reiki and massage are the same thing."** They're fundamentally different. Massage involves physical manipulation of muscles and tissues. Reiki involves light touch or no touch at all. Massage therapists need extensive anatomy training and state licensure. Reiki practitioners do not.
+**"Reiki and massage are the same thing."** They're fundamentally different. Massage involves physical manipulation of muscles and tissues. Reiki involves light touch or no touch at all. Massage therapists need extensive [anatomy](/anatomy) training and state licensure. Reiki practitioners do not.
 
 ## How to Find a Reiki Practitioner
 

@@ -5,7 +5,7 @@ description: "Water management is the planning and control of water resources fo
 category: everyday-concepts
 tags: ["water management", "water resources", "hydrology", "conservation", "infrastructure", "sustainability"]
 heroImage: "/images/articles/water-management.webp"
-heroAlt: "Aerial view of a large reservoir with a dam and surrounding watershed landscape"
+heroAlt: "Editorial photograph representing the concept of water management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Water Management?
 
-Water management is the practice of planning, developing, distributing, and conserving water resources to meet human needs while maintaining environmental health. It covers everything from building dams and treatment plants to setting conservation policies and managing stormwater runoff. Done well, it's invisible — you turn a tap and clean water comes out. Done poorly, you get droughts, floods, contamination, and public health crises.
+Water management is the practice of planning, developing, distributing, and conserving water resources to meet human needs while maintaining environmental health. It covers everything from building dams and treatment plants to setting conservation policies and managing stormwater runoff. Done well, it's invisible — you turn a tap and clean water comes out. Done poorly, you get droughts, floods, contamination, and [public health](/public-health) crises.
 
 ## The Supply Side
 
@@ -39,11 +39,11 @@ Getting water to where people need it requires infrastructure on an enormous sca
 
 **Surface water** — Rivers, lakes, and reservoirs provide about 63% of U.S. public water supply. Dams create reservoirs that store water during wet periods for use during dry ones. The U.S. has roughly 91,000 dams, ranging from small agricultural ponds to massive structures like Hoover Dam (which holds 9.3 trillion gallons in Lake Mead).
 
-**Groundwater** — Underground aquifers provide about 37% of U.S. public water supply and the majority of agricultural irrigation water. Wells tap into these reservoirs, which can be shallow (tens of feet) or deep (thousands of feet). The Ogallala Aquifer, underlying eight Great Plains states, supplies about 30% of all U.S. irrigation water.
+**Groundwater** — Underground aquifers provide about 37% of U.S. public water supply and the majority of agricultural [irrigation](/irrigation) water. Wells tap into these reservoirs, which can be shallow (tens of feet) or deep (thousands of feet). The Ogallala Aquifer, underlying eight Great Plains states, supplies about 30% of all U.S. irrigation water.
 
 The challenge with groundwater is that many aquifers are being depleted faster than nature replenishes them. The Ogallala Aquifer has declined by over 150 feet in some areas since large-scale pumping began in the 1950s. In parts of California's Central Valley, groundwater depletion has caused the land surface to sink by several feet — a phenomenon called subsidence.
 
-**Desalination** — Removing salt from seawater to produce freshwater. The technology works (reverse osmosis is the most common method) but is energy-intensive and expensive. Saudi Arabia, Israel, and Australia are major users. The largest U.S. desalination plant, in Carlsbad, California, produces 50 million gallons per day — about 10% of San Diego County's needs.
+**[Desalination](/desalination)** — Removing salt from seawater to produce freshwater. The technology works (reverse osmosis is the most common method) but is energy-intensive and expensive. Saudi Arabia, Israel, and Australia are major users. The largest U.S. desalination plant, in Carlsbad, California, produces 50 million gallons per day — about 10% of San Diego County's needs.
 
 ## Treatment and Distribution
 
@@ -65,9 +65,9 @@ Reducing demand is almost always cheaper than increasing supply. Water conservat
 
 **Indoor efficiency** — Low-flow toilets (1.28 gallons per flush vs. 3.5+ for older models), low-flow showerheads, and efficient washing machines can reduce household water use by 20-30% with no lifestyle changes. EPA's WaterSense label identifies products meeting efficiency standards.
 
-**Outdoor efficiency** — Field irrigation accounts for roughly 30% of residential water use nationally (and much more in arid regions). Drip irrigation, drought-tolerant landscaping (xeriscaping), and smart irrigation controllers that adjust for weather conditions can drastically reduce outdoor water use.
+**Outdoor efficiency** — Field irrigation accounts for roughly 30% of residential water use nationally (and much more in arid regions). Drip irrigation, drought-tolerant [landscaping](/landscaping) (xeriscaping), and smart irrigation controllers that adjust for weather conditions can drastically reduce outdoor water use.
 
-**Agricultural efficiency** — Since agriculture uses 70% of freshwater globally, even small efficiency gains have large impacts. Drip irrigation uses 20-50% less water than flood irrigation. Precision agriculture matches water application to crop needs using soil moisture sensors and satellite data.
+**Agricultural efficiency** — Since [agriculture](/agriculture) uses 70% of freshwater globally, even small efficiency gains have large impacts. Drip irrigation uses 20-50% less water than flood irrigation. Precision agriculture matches water application to crop needs using soil moisture sensors and satellite data.
 
 **Leak reduction** — U.S. water systems lose an estimated 6 billion gallons daily to leaks — about 14-18% of treated water. Reducing losses through pipe replacement, pressure management, and leak detection technology is one of the most cost-effective conservation strategies.
 
@@ -87,4 +87,4 @@ The Western U.S. is particularly vulnerable. Mountain snowpack — which provide
 
 Water managers are adapting through diversified supply portfolios (surface water, groundwater, recycled water, desalination), improved storage, better forecasting, and demand management. But the fundamental reality is that water systems designed for historical climate patterns are increasingly operating in conditions they weren't built for.
 
-The challenge ahead isn't just technical — it's political. Water management decisions determine who gets water and who doesn't, who pays for infrastructure and who benefits, and how we balance human needs against environmental preservation. These are governance questions as much as engineering questions, and they're only getting harder.
+The challenge ahead isn't just technical — it's political. Water management decisions determine who gets water and who doesn't, who pays for infrastructure and who benefits, and how we balance human needs against environmental preservation. These are governance questions as much as [engineering](/engineering) questions, and they're only getting harder.

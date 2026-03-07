@@ -5,7 +5,7 @@ description: "Novel writing is the craft of creating long-form fiction with deve
 category: everyday-concepts
 tags: ["novel writing", "fiction", "creative writing", "storytelling", "publishing", "literature"]
 heroImage: "/images/articles/novel-writing.webp"
-heroAlt: "An open manuscript with handwritten edits and a fountain pen resting on the pages"
+heroAlt: "Editorial photograph representing the concept of novel writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "For traditional publishing with a major publisher (the Big Five), yes — almost all of them require agented submissions. Agents earn 15% of your advance and royalties, and they handle negotiations, contracts, and career guidance. For small presses, you can often submit directly. Self-publishing bypasses agents and publishers entirely, giving you full control but also full responsibility for editing, design, and marketing."
 ---
 
-# What Is Novel Writing?
+# What Is Novel [Writing](/writing)?
 
 Novel writing is the craft of creating a long-form work of fiction — typically 70,000 to 100,000 words — that tells a story through developed characters, structured plot, and thematic depth. It's one of the most ambitious things a person can sit down and attempt: building an entire world from nothing but words, then sustaining it for hundreds of pages while keeping readers engaged.
 
@@ -39,7 +39,7 @@ A novel is distinct from a short story, a novella, or a screenplay in several wa
 
 Novels have room. Room for multiple characters with interlocking stories. Room for subplots that enrich the main narrative. Room for the kind of slow character development that a short story can only gesture at. A novel can spend three pages describing a single breakfast if that breakfast reveals something essential about who a character is.
 
-The novel as a literary form emerged in the 17th and 18th centuries — Cervantes' *Don Quixote* (1605), Defoe's *Robinson Crusoe* (1719), Richardson's *Pamela* (1740). Before that, long-form narrative existed in poetry (epics like *The Iliad*) and prose romance. The novel's innovation was realism — ordinary people in recognizable situations, rendered with psychological depth.
+The novel as a literary form emerged in the 17th and 18th centuries — Cervantes' *Don Quixote* (1605), Defoe's *Robinson Crusoe* (1719), Richardson's *Pamela* (1740). Before that, long-form narrative existed in [poetry](/poetry) (epics like *The Iliad*) and [prose](/prose) romance. The novel's innovation was realism — ordinary people in recognizable situations, rendered with psychological depth.
 
 ## Plotters vs. Pantsers
 
@@ -67,29 +67,29 @@ The first draft is universally acknowledged as the hardest part. You're creating
 
 Most novels follow recognizable structural patterns, whether the author plans them consciously or not.
 
-**Three-act structure** — setup, confrontation, resolution — is the most common. Act one establishes characters and stakes. Act two complicates things through escalating conflict. Act three resolves the central conflict. This structure is so deeply embedded in storytelling that writers often follow it intuitively.
+**Three-act structure** — setup, confrontation, resolution — is the most common. Act one establishes characters and stakes. Act two complicates things through escalating conflict. Act three resolves the central conflict. This structure is so deeply embedded in [storytelling](/storytelling) that writers often follow it intuitively.
 
 **The hero's journey** (Joseph Campbell's monomyth) maps a protagonist's transformation through departure, initiation, and return. It's visible in everything from *The Lord of the Rings* to *The Hunger Games*.
 
 **Nonlinear structures** break chronological sequence — flashbacks, multiple timelines, fragmented narratives. Novels like *Slaughterhouse-Five* and *Cloud Atlas* use time jumps as structural and thematic devices.
 
-**Multiple point of view** tells the story through different characters' perspectives, either alternating chapters or weaving viewpoints within scenes. George R.R. Martin's *A Song of Ice and Fire* uses this approach to create a vast, complex narrative with no single protagonist.
+**Multiple point of view** tells the story through different characters' perspectives, either alternating chapters or [weaving](/weaving) viewpoints within scenes. George R.R. Martin's *A Song of Ice and Fire* uses this approach to create a vast, complex narrative with no single protagonist.
 
 ## Getting Published
 
 You've written a novel. Now what?
 
-**Traditional publishing** means finding a literary agent who will represent your manuscript to publishing houses. You write a query letter — a one-page pitch — and send it to agents who represent your genre. If an agent offers representation, they submit the manuscript to editors at publishing houses. If a publisher makes an offer, your agent negotiates the contract.
+**Traditional [publishing](/publishing)** means finding a literary agent who will represent your manuscript to publishing houses. You write a query letter — a one-page pitch — and send it to agents who represent your genre. If an agent offers representation, they submit the manuscript to editors at publishing houses. If a publisher makes an offer, your agent negotiates the contract.
 
 The process is slow. Querying alone can take months. Submission to publishers can take more months. From acceptance to publication typically takes 12-18 months. And rejection rates are brutal — most agents accept fewer than 1% of queried manuscripts.
 
-**Self-publishing** through platforms like Amazon's Kindle Direct Publishing gives you complete control and higher royalty rates (typically 35-70% versus 10-15% in traditional publishing). But you're responsible for everything: editing, cover design, formatting, marketing, and distribution. Some self-published authors earn substantial incomes; most sell few copies.
+**[Self-publishing](/self-publishing)** through platforms like Amazon's Kindle Direct Publishing gives you complete control and higher royalty rates (typically 35-70% versus 10-15% in traditional publishing). But you're responsible for everything: [editing](/editing), cover design, formatting, [marketing](/marketing), and distribution. Some self-published authors earn substantial incomes; most sell few copies.
 
 **Small and independent presses** often accept unagented submissions and can offer more editorial attention than big publishers, though typically with smaller advances and less marketing support.
 
 ## Why People Do It
 
-Writing a novel is an absurd undertaking when you think about it. You're going to spend months or years creating something that might never find an audience, working in isolation, wrestling with self-doubt, for uncertain financial reward.
+Writing a novel is an absurd undertaking when you think about it. You're going to spend months or years creating something that might never find an audience, working in isolation, [wrestling](/wrestling) with self-doubt, for uncertain financial reward.
 
 People do it because they have stories they need to tell. Because the act of making something complex and meaningful from raw language is deeply satisfying. Because reading novels shaped who they are, and writing them feels like contributing to a conversation that spans centuries.
 

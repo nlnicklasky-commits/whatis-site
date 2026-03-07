@@ -5,7 +5,7 @@ description: "Tropical agriculture is the science of farming in tropical climate
 category: science
 tags: ["tropical agriculture", "agriculture", "farming"]
 heroImage: "/images/articles/tropical-agriculture.webp"
-heroAlt: "Lush green terraced rice paddies on hillsides in a tropical region with palm trees"
+heroAlt: "Editorial photograph representing the concept of tropical agriculture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ About 40% of the world's population lives in the tropics, and that proportion is
 
 The tropics produce nearly all of the world's cocoa, coffee, rubber, palm oil, cassava, and tropical fruits. They produce most of the world's rice and sugarcane. They're the source of spices, vanilla, coconut, and dozens of other commodities that the global economy depends on. The [FAO estimates](https://www.fao.org/in-action/tropical-agriculture-platform/en/) that tropical regions produce roughly 40% of global agricultural output, a share that's rising.
 
-But here's the contradiction that defines tropical [agriculture](/agriculture): the tropics look incredibly fertile — lush forests, explosive growth, twelve months of warmth. Yet many tropical farming systems struggle with low productivity, degraded soils, and persistent food insecurity. The reasons are rooted in soil science, ecology, economics, and history.
+But here's the contradiction that defines tropical [agriculture](/agriculture): the tropics look incredibly fertile — lush forests, explosive growth, twelve months of warmth. Yet many tropical farming systems struggle with low [productivity](/productivity), degraded soils, and persistent food insecurity. The reasons are rooted in [soil science](/soil-science), ecology, [economics](/economics), and history.
 
 ## The Tropical Climate: Gift and Curse
 
@@ -89,11 +89,11 @@ When the forest is cleared, this loop breaks. The organic matter decomposes with
 
 Most tropical soils are acidic (pH 4.0-5.5), and at low pH, aluminum becomes soluble and toxic to plant roots. Aluminum toxicity is probably the single biggest chemical constraint on crop production in the humid tropics — it stunts root growth, reduces nutrient uptake, and limits the crops that can be grown successfully.
 
-Lime (calcium carbonate) neutralizes acidity and reduces aluminum toxicity, but it's expensive to transport to remote tropical farming areas and must be reapplied every few years. Selecting crop varieties that tolerate acid soils and aluminum — a major focus of [plant breeding](/botany) research — is often more practical than trying to fix the soil chemistry.
+Lime (calcium carbonate) neutralizes acidity and reduces aluminum toxicity, but it's expensive to transport to remote tropical farming areas and must be reapplied every few years. Selecting crop varieties that tolerate acid soils and aluminum — a major focus of [plant breeding](/botany) research — is often more practical than trying to fix the soil [chemistry](/chemistry).
 
 ### Phosphorus Fixation
 
-Even when phosphorus fertilizer is applied to tropical soils, the iron and aluminum oxides bind (fix) much of it into insoluble forms that plants can't access. A farmer might apply 100 kg of phosphorus and have only 10-20 kg become available to the crop — the rest is locked up in the soil. This is why phosphorus management in the tropics requires different strategies than in temperate agriculture: mycorrhizal fungi, rock phosphate sources, and organic matter management can all help make phosphorus more available.
+Even when phosphorus fertilizer is applied to tropical soils, the iron and aluminum oxides bind (fix) much of it into insoluble forms that plants can't access. A farmer might apply 100 kg of phosphorus and have only 10-20 kg become available to the crop — the rest is locked up in the soil. This is why phosphorus [management](/management) in the tropics requires different strategies than in temperate agriculture: mycorrhizal fungi, rock phosphate sources, and organic matter management can all help make phosphorus more available.
 
 ## Major Tropical Cropping Systems
 
@@ -155,6 +155,6 @@ Soil restoration is possible but slow. Rebuilding organic matter, reversing comp
 
 Tropical crop yields are, on average, well below their potential. The "yield gap" — the difference between what farmers actually produce and what the land could produce with best management practices — is often 50-70% in tropical Africa and 30-50% in tropical Asia. Closing even half this gap would significantly boost food production without clearing new land.
 
-The main barriers are familiar: limited access to improved seeds, fertilizers, and irrigation; poor road infrastructure that makes markets inaccessible; insecure land tenure that discourages investment; and inadequate extension services that leave farmers without technical support.
+The main barriers are familiar: limited access to improved seeds, fertilizers, and [irrigation](/irrigation); poor road infrastructure that makes markets inaccessible; insecure land tenure that discourages investment; and inadequate extension services that leave farmers without technical support.
 
-Tropical agriculture is a field where biology, chemistry, economics, and social science collide in ways that don't allow simple answers. Growing food between the tropics requires understanding not just how plants grow but how soils weather, how pests evolve, how markets function, and how farming communities make decisions under uncertainty. The science is fascinating. The stakes — feeding half the world's future population — are about as high as they get.
+Tropical agriculture is a field where [biology](/biology), chemistry, economics, and social science collide in ways that don't allow simple answers. Growing food between the tropics requires understanding not just how plants grow but how soils weather, how pests evolve, how markets function, and how farming communities make decisions under uncertainty. The science is fascinating. The stakes — feeding half the world's future population — are about as high as they get.

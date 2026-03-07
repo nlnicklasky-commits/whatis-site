@@ -5,7 +5,7 @@ description: "Environmental engineering applies science and engineering to prote
 category: technology
 tags: ["environmental engineering", "environment", "engineering", "pollution control", "waste management", "water treatment", "sustainability"]
 heroImage: "/images/articles/environmental-engineering-hero.webp"
-heroAlt: "Modern water treatment facility with filtration tanks and clean water flowing"
+heroAlt: "Editorial photograph representing the concept of environmental engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -162,7 +162,7 @@ The daily reality varies enormously by role.
 
 **Consulting engineers** might spend Monday reviewing soil boring logs from a contaminated site, Tuesday modeling groundwater flow on a computer, Wednesday on-site overseeing monitoring well installation, Thursday writing a remediation feasibility study, and Friday in a meeting with regulators.
 
-**Design engineers** create detailed plans for treatment plants, pipeline systems, or remediation systems. This involves hydraulic calculations, process design, structural engineering coordination, and cost estimation.
+**Design engineers** create detailed plans for treatment plants, pipeline systems, or remediation systems. This involves hydraulic calculations, process design, [structural engineering](/structural-engineering) coordination, and cost estimation.
 
 **Regulatory engineers** at agencies like the EPA review permit applications, inspect facilities, enforce compliance, and develop new standards. This work blends engineering expertise with legal and policy knowledge.
 
@@ -176,7 +176,7 @@ A bachelor's degree in environmental engineering (or civil engineering with an e
 
 - Chemistry and [biology](/biology)
 - Fluid mechanics and hydraulics
-- Environmental chemistry and microbiology
+- [Environmental chemistry](/environmental-chemistry) and microbiology
 - Water and wastewater treatment design
 - Air quality engineering
 - Solid waste management
@@ -193,7 +193,7 @@ The job market is healthy. Environmental regulations aren't going away — if an
 
 Environmental engineering doesn't stand alone. It borrows from and contributes to multiple other fields.
 
-[Civil engineering](/civil-engineering) provides the structural and hydraulic foundations. [Chemical engineering](/chemical-engineering) informs treatment process design. [Computer science](/computer-science) enables environmental modeling and monitoring systems. Mechanical engineering contributes to equipment design. Electrical engineering is relevant for instrumentation and control systems.
+[Civil engineering](/civil-engineering) provides the structural and hydraulic foundations. [Chemical engineering](/chemical-engineering) informs treatment process design. [Computer science](/computer-science) enables environmental modeling and monitoring systems. [Mechanical engineering](/mechanical-engineering) contributes to equipment design. [Electrical engineering](/electrical-engineering) is relevant for instrumentation and control systems.
 
 The interdisciplinary nature is one of the field's strengths — and one reason environmental engineers often find they can pivot to related careers in water resources, sustainability consulting, energy, or public health.
 

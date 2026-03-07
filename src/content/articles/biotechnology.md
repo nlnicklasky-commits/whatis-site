@@ -5,7 +5,7 @@ description: "Biotechnology uses living organisms and biological systems to deve
 category: technology
 tags: ["biotechnology", "genetic engineering", "molecular biology", "pharmaceuticals", "agriculture", "bioremediation", "gene therapy"]
 heroImage: "/images/articles/biotechnology-hero.webp"
-heroAlt: "Laboratory equipment and biological samples representing biotechnology research"
+heroAlt: "Editorial photograph representing the concept of biotechnology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Biotechnology?
 
-Biotechnology is the application of biological systems, living organisms, or their derivatives to develop products, processes, and technologies that serve human needs. It spans medicine, agriculture, industrial manufacturing, and environmental science, making it one of the broadest applied sciences in existence.
+Biotechnology is the application of biological systems, living organisms, or their derivatives to develop products, processes, and technologies that serve human needs. It spans medicine, agriculture, industrial manufacturing, and [environmental science](/environmental-science), making it one of the broadest applied sciences in existence.
 
 ## A Field Older Than You Think
 
@@ -132,7 +132,7 @@ PCR became famous during COVID-19 as the gold standard for testing. But it's use
 
 CRISPR changed everything. Discovered as a bacterial immune defense mechanism, it was adapted in 2012 by Jennifer Doudna and Emmanuelle Charpentier into a precise gene-editing tool. They won the 2020 Nobel Prize for it.
 
-Here's why CRISPR matters: previous gene-editing tools (ZFNs, TALENs) were expensive, slow, and required specialized expertise. CRISPR is relatively cheap, fast, and accessible to most molecular biology labs. It uses a guide RNA to find a specific DNA sequence, then the Cas9 protein cuts it. Scientists can then delete the gene, replace it, or insert new sequences.
+Here's why CRISPR matters: previous gene-editing tools (ZFNs, TALENs) were expensive, slow, and required specialized expertise. CRISPR is relatively cheap, fast, and accessible to most [molecular biology](/molecular-biology) labs. It uses a guide RNA to find a specific DNA sequence, then the Cas9 protein cuts it. Scientists can then delete the gene, replace it, or insert new sequences.
 
 The first CRISPR-based therapy, Casgevy, was approved in late 2023 for sickle cell disease. It works by editing patients' own blood stem cells to produce functional hemoglobin. The results have been remarkable — patients who previously suffered debilitating pain crises are now symptom-free.
 
@@ -140,7 +140,7 @@ The first CRISPR-based therapy, Casgevy, was approved in late 2023 for sickle ce
 
 The Human Genome Project, completed in 2003, cost about $2.7 billion and took 13 years. Today, you can sequence a human genome for under $200 in about 24 hours. That price collapse — driven by next-generation sequencing technologies — has made genomics accessible at scale.
 
-But raw sequence data is useless without analysis. That's where bioinformatics comes in — the intersection of biology, computer science, and [algorithms](/algorithms). [Machine learning](/machine-learning) models now predict protein structures, identify disease-causing mutations, and design new drugs based on genomic data. AlphaFold, DeepMind's AI system, predicted the 3D structure of virtually every known protein in 2022 — a problem that had stumped biologists for 50 years.
+But raw sequence data is useless without analysis. That's where bioinformatics comes in — the intersection of biology, [computer science](/computer-science), and [algorithms](/algorithms). [Machine learning](/machine-learning) models now predict protein structures, identify disease-causing mutations, and design new drugs based on genomic data. AlphaFold, DeepMind's AI system, predicted the 3D structure of virtually every known protein in 2022 — a problem that had stumped biologists for 50 years.
 
 ### Cell and Tissue Culture
 
@@ -172,7 +172,7 @@ These concerns aren't irrational. Corporate consolidation of seed supplies is a 
 
 ### Biosecurity
 
-Biotechnology can be misused. The same techniques that create life-saving drugs can theoretically create biological weapons. Synthetic biology, which allows construction of DNA sequences from scratch, raises particular concerns. In 2018, Canadian researchers synthesized horsepox virus from mail-ordered DNA fragments — demonstrating that extinct viruses could theoretically be recreated.
+Biotechnology can be misused. The same techniques that create life-saving drugs can theoretically create biological weapons. [Synthetic biology](/synthetic-biology), which allows construction of DNA sequences from scratch, raises particular concerns. In 2018, Canadian researchers synthesized horsepox virus from mail-ordered DNA fragments — demonstrating that extinct viruses could theoretically be recreated.
 
 International agreements like the Biological Weapons Convention exist, but enforcement is difficult. The dual-use nature of biotech — where the same knowledge enables both beneficial and harmful applications — is an ongoing security challenge.
 

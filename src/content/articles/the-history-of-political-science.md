@@ -5,7 +5,7 @@ description: "The history of political science traces how the study of governmen
 category: history
 tags: ["history of political science", "political science", "governance", "democracy"]
 heroImage: "/images/articles/the-history-of-political-science.webp"
-heroAlt: "Ancient Greek assembly hall contrasted with a modern parliament building"
+heroAlt: "Editorial photograph representing the concept of the history of political science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,19 +33,19 @@ faq:
 
 The history of political science is the story of how humans went from asking "who should rule?" to building an entire academic discipline around studying how power actually works. It's a journey from ancient philosophical speculation to modern data-driven research — with some genuinely ruthless thinkers along the way.
 
-Political science as a formal discipline is surprisingly young. The first university departments didn't appear until the 1880s. But people have been thinking systematically about government, authority, and justice for about 2,500 years.
+Political science as a formal discipline is surprisingly young. The first university departments didn't appear until the 1880s. But people have been thinking systematically about [government](/government), authority, and justice for about 2,500 years.
 
 ## The Greeks Started Arguing About It First
 
 The ancient Greeks invented democracy. They also invented the habit of arguing about whether democracy was a good idea. Both contributions turned out to be pretty important.
 
-Before the Greeks, political authority was mostly justified by religion or tradition. The pharaoh ruled because the gods said so. Kings were kings because their fathers were kings. Nobody asked whether the system itself was optimal.
+Before the Greeks, political authority was mostly justified by [religion](/religion) or tradition. The pharaoh ruled because the gods said so. Kings were kings because their fathers were kings. Nobody asked whether the system itself was optimal.
 
 The Greek city-states — particularly Athens — changed that. When you have citizens voting in assemblies, debating policy, and occasionally exiling leaders they don't like, people inevitably start asking harder questions. What's the best form of government? What makes a law legitimate? Who deserves to participate?
 
 **Plato** (428–348 BCE) addressed these questions in the *Republic*, one of the first major works of [political philosophy](/the-history-of-philosophy). His answer was pretty unflattering to democracy. Plato argued that most people are too ignorant or easily manipulated to govern well. The ideal state should be ruled by "philosopher-kings" — people who've spent decades studying truth and goodness. Democracy, he thought, degenerates into mob rule and eventually tyranny.
 
-**Aristotle** (384–322 BCE) took a more empirical approach. He and his students collected and analyzed the constitutions of 158 Greek city-states — essentially the first comparative politics study. He classified governments into six types: monarchy, aristocracy, and polity (the good versions) versus tyranny, oligarchy, and democracy (the corrupt versions). His analysis was practical rather than utopian. The best achievable government, Aristotle thought, was a **polity** — a stable middle-class constitutional system.
+**Aristotle** (384–322 BCE) took a more empirical approach. He and his students collected and analyzed the constitutions of 158 Greek city-states — essentially the first [comparative politics](/comparative-politics) study. He classified governments into six types: [monarchy](/monarchy), aristocracy, and polity (the good versions) versus tyranny, oligarchy, and democracy (the corrupt versions). His analysis was practical rather than utopian. The best achievable government, Aristotle thought, was a **polity** — a stable middle-class constitutional system.
 
 Aristotle's *Politics* raised questions that political scientists still wrestle with: What causes revolutions? How do economic conditions affect political stability? What institutional arrangements best prevent corruption?
 
@@ -75,7 +75,7 @@ In the Islamic world, **Al-Farabi** (c. 872–950) described the ideal city rule
 
 **Niccolo Machiavelli** (1469–1527) broke decisively from the tradition of imagining ideal states. He wanted to describe how politics *actually* works.
 
-*The Prince* (1513) is infamous for advising rulers that "it is better to be feared than loved." But the real significance isn't the cynicism — it's the method. Machiavelli analyzed power relationships empirically, drawing on historical examples rather than moral ideals. He separated the study of politics from ethics and theology.
+*The Prince* (1513) is infamous for advising rulers that "it is better to be feared than loved." But the real significance isn't the cynicism — it's the method. Machiavelli analyzed power relationships empirically, drawing on historical examples rather than moral ideals. He separated the study of politics from ethics and [theology](/theology).
 
 Was he a monster or a realist? Scholars have argued about this for 500 years. His *Discourses on Livy* show a genuine commitment to republican government. Some read *The Prince* as satire, others as straightforward advice, others as a job application to the Medici family. Whatever his intention, Machiavelli established that you could study politics without assuming rulers are virtuous.
 
@@ -111,11 +111,11 @@ The **rational choice** approach applied economic models to politics. Politician
 
 The **new institutionalism** (from the 1980s onward) brought renewed attention to how institutional rules and structures shape political outcomes. Same voters, same politicians, different electoral system — different results. Institutions matter, often more than individual preferences.
 
-Today, political science uses experiments, big data, game theory, computational modeling, and field research alongside traditional methods. The discipline studies everything from congressional voting patterns to civil wars to the effects of social media on democratic participation.
+Today, political science uses experiments, big data, [game theory](/game-theory), computational modeling, and field research alongside traditional methods. The discipline studies everything from congressional voting patterns to civil wars to the effects of social media on democratic participation.
 
 ## Where the Discipline Stands Now
 
-Modern political science is divided into several subfields: comparative politics, international relations, political theory, American politics (in U.S. departments), and public policy/administration.
+Modern political science is divided into several subfields: comparative politics, [international relations](/international-relations), political theory, American politics (in U.S. departments), and [public policy](/public-policy)/administration.
 
 The field faces genuine tensions. Between quantitative and qualitative methods. Between the desire for scientific rigor and the reality that political questions are often normative. Between relevance (advising policymakers) and objectivity (studying politics without taking sides).
 

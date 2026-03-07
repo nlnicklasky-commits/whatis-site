@@ -5,7 +5,7 @@ description: "Solid mechanics studies how solid materials deform and fail under 
 category: science
 tags: ["solid mechanics", "engineering", "physics", "stress", "strain", "materials science", "elasticity"]
 heroImage: "/images/articles/solid-mechanics.webp"
-heroAlt: "A steel beam bending under load with stress distribution visualization showing tension and compression zones"
+heroAlt: "Editorial photograph representing the concept of solid mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Solid Mechanics?
 
-Solid mechanics is the branch of [physics](/physics) and engineering that studies how solid materials deform, move, and fail when subjected to forces, temperature changes, and other external loads. It provides the mathematical framework for predicting whether a structure will hold up or collapse — and by how much it will bend, stretch, or twist along the way.
+Solid mechanics is the branch of [physics](/physics) and [engineering](/engineering) that studies how solid materials deform, move, and fail when subjected to forces, temperature changes, and other external loads. It provides the mathematical framework for predicting whether a structure will hold up or collapse — and by how much it will bend, stretch, or twist along the way.
 
 Every bridge you drive across, every airplane wing that flexes in turbulence, every hip replacement that bears a patient's weight for decades — they all work because someone did the solid mechanics calculations first.
 
@@ -83,7 +83,7 @@ Eventually, the material reaches its **ultimate tensile strength** — the maxim
 
 Different materials produce wildly different curves. Cast iron barely shows any plastic deformation before snapping — it's brittle. Copper stretches enormously before breaking — it's ductile. Rubber produces a completely nonlinear curve with no clear elastic region. Each curve tells you exactly how a material will behave under load.
 
-## Elasticity Theory
+## [Elasticity](/elasticity) Theory
 
 The study of materials in their elastic range — where deformation is reversible — is called elasticity theory, and it forms the mathematical backbone of solid mechanics.
 
@@ -123,7 +123,7 @@ The **Tresca criterion** predicts yielding when the maximum shear stress reaches
 
 ### Fracture Mechanics
 
-Sometimes materials don't yield gradually — they crack. Fracture mechanics, largely developed after World War II, studies how cracks start, grow, and cause catastrophic failure.
+Sometimes materials don't yield gradually — they crack. Fracture mechanics, largely developed after [World War II](/world-war-ii), studies how cracks start, grow, and cause catastrophic failure.
 
 The key insight came from A.A. Griffith in 1921: a crack will grow if the energy released by growth exceeds the energy needed to create new crack surfaces. Griffith was trying to explain why real glass breaks at stresses hundreds of times lower than theoretical predictions — the answer was pre-existing microscopic flaws that concentrated stress to extreme levels at their tips.
 
@@ -175,7 +175,7 @@ Experienced analysts spend as much time validating their models — comparing re
 
 Solid mechanics isn't confined to one discipline. It's everywhere that forces meet materials.
 
-### Structural Engineering
+### [Structural Engineering](/structural-engineering)
 
 Every [building](/civil-engineering) and bridge is designed using solid mechanics. Load combinations (dead weight, live loads, wind, seismic forces, thermal expansion) are applied to structural models, and every member is checked against failure criteria with safety factors.
 
@@ -189,7 +189,7 @@ Biological materials are trickier than engineering materials. They're anisotropi
 
 ### Geomechanics
 
-Rock and soil are solid materials too, and predicting their behavior matters for tunneling, mining, dam construction, and earthquake engineering. Geomechanics deals with materials that are granular, fractured, saturated with water, and under enormous confining pressures. The constitutive models are far more complex than those for metals.
+Rock and soil are solid materials too, and predicting their behavior matters for tunneling, mining, dam [construction](/construction), and earthquake engineering. Geomechanics deals with materials that are granular, fractured, saturated with water, and under enormous confining pressures. The constitutive models are far more complex than those for metals.
 
 ### Aerospace
 

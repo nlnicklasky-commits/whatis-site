@@ -5,7 +5,7 @@ description: "Metal casting is a manufacturing process where molten metal is pou
 category: technology
 tags: ["metal casting", "manufacturing", "metallurgy", "foundry", "mold", "molten metal", "industrial process"]
 heroImage: "/images/articles/casting-metal-hero.webp"
-heroAlt: "Molten metal being poured from a crucible into a sand mold in a foundry"
+heroAlt: "Editorial photograph representing the concept of casting (metal)"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ Every casting process, from ancient bronze swords to modern titanium aerospace p
 
 ### Sand Casting
 
-The most common method, accounting for roughly 60% of all castings by weight. The mold is made from sand mixed with a binder (traditionally clay, now often chemical resins). Sand molds are expendable — they're destroyed to remove the casting.
+The most common method, [accounting](/accounting) for roughly 60% of all castings by weight. The mold is made from sand mixed with a binder (traditionally clay, now often chemical resins). Sand molds are expendable — they're destroyed to remove the casting.
 
 Sand casting is versatile and relatively inexpensive. It handles parts from a few grams to over 100 metric tons. Ship propellers, engine blocks, pump housings, and machine bases are commonly sand cast. The surface finish is rougher than other methods, and dimensional accuracy is lower, so sand castings often require machining.
 
@@ -107,7 +107,7 @@ Large-diameter pipes for water and sewer systems, gun barrels, and jet engine ca
 
 Rather than casting individual parts, continuous casting produces a continuous strand of metal — usually steel — that's later cut into slabs, billets, or blooms for further processing. Over 95% of the world's steel is continuously cast.
 
-Invented in the 1950s and widely adopted by the 1970s, continuous casting replaced the older ingot casting method and dramatically improved steel production efficiency. A modern continuous caster can produce steel at 1-2 meters per minute, operating 24/7 for weeks at a time.
+Invented in the 1950s and widely adopted by the 1970s, continuous casting replaced the older ingot casting method and dramatically improved [steel production](/steel-production) efficiency. A modern continuous caster can produce steel at 1-2 meters per minute, operating 24/7 for weeks at a time.
 
 ## The Metallurgy Behind It All
 
@@ -141,7 +141,7 @@ Modern foundries simulate the entire casting process before pouring a single kil
 
 These simulations save enormous time and money. Instead of making a dozen trial castings to find the right gating system (the channels that direct metal into the mold), engineers simulate hundreds of configurations in hours. First-article success rates have improved from roughly 50% to over 90% in shops that use simulation effectively.
 
-The underlying physics involves computational fluid dynamics (for mold filling), heat transfer (for solidification), and solid mechanics (for stress and deformation) — solved simultaneously using finite element [algorithms](/algorithms) on high-performance computers.
+The underlying physics involves computational [fluid dynamics](/fluid-dynamics) (for mold filling), [heat transfer](/heat-transfer) (for solidification), and [solid mechanics](/solid-mechanics) (for stress and deformation) — solved simultaneously using finite element [algorithms](/algorithms) on high-performance computers.
 
 ### 3D Printing Integration
 
@@ -163,7 +163,7 @@ Foundries are inherently challenging environments. Molten metal at 1,500°C+ cre
 
 Modern foundries have dramatically improved their environmental performance. Air filtration systems, enclosed processes, personal protective equipment, and process monitoring have reduced injury rates and emissions significantly. But the industry still faces pressure to reduce energy consumption (melting metal requires enormous heat), waste generation, and emissions.
 
-The energy equation is straightforward but demanding: melting one metric ton of iron requires roughly 500-600 kWh of electricity in an induction furnace. The global casting industry melts tens of millions of tons annually. [Alternative energy](/alternative-energy) sources and more efficient furnace designs are active areas of investment.
+The energy equation is straightforward but demanding: melting one metric ton of iron requires roughly 500-600 kWh of [electricity](/electricity) in an induction furnace. The global casting industry melts tens of millions of tons annually. [Alternative energy](/alternative-energy) sources and more efficient furnace designs are active areas of investment.
 
 Recycling is a bright spot. The casting industry is one of the largest recyclers of metals. Scrap iron, aluminum, and steel are the primary feedstocks for many foundries. In some operations, 95%+ of the metal input comes from recycled sources.
 

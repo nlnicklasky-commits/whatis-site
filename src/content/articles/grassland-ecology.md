@@ -5,7 +5,7 @@ description: "Grassland ecology studies the ecosystems where grasses dominate, f
 category: science
 tags: ["grassland ecology", "ecology", "grasslands", "biomes", "ecosystems", "conservation", "biodiversity"]
 heroImage: "/images/articles/grassland-ecology-hero.webp"
-heroAlt: "Wide expanse of tallgrass prairie stretching to the horizon under an open sky"
+heroAlt: "Editorial photograph representing the concept of grassland ecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -88,7 +88,7 @@ This is why fire and grasses have a symbiotic relationship. Grasses fuel fires (
 
 Grasses evolved alongside grazing animals. Unlike most plants, grasses grow from their base rather than their tips. When a bison bites off the top of a grass blade, the plant continues growing from below. A tree that loses its growing tip is damaged or killed; a grass barely notices.
 
-This adaptation explains the coevolution of grasslands and large herbivores. Grasses are, in a very real sense, designed to be eaten. Grazing actually stimulates many grass species to grow more vigorously—a phenomenon called compensatory growth. Moderate grazing can increase grassland productivity compared to no grazing at all.
+This adaptation explains the coevolution of grasslands and large herbivores. Grasses are, in a very real sense, designed to be eaten. Grazing actually stimulates many grass species to grow more vigorously—a phenomenon called compensatory growth. Moderate grazing can increase grassland [productivity](/productivity) compared to no grazing at all.
 
 ## The Ecology of Fire
 
@@ -98,13 +98,13 @@ Natural grassland fires—ignited by lightning or, for millennia, by indigenous 
 
 **Removing dead material**: Old, dead grass (thatch) accumulates and shades out new growth. Fire clears it, letting sunlight reach the soil surface and stimulating new growth.
 
-**Recycling nutrients**: Fire rapidly converts dead vegetation into ash, releasing minerals like potassium and phosphorus back into the soil where plants can immediately use them.
+**[Recycling](/recycling) nutrients**: Fire rapidly converts dead vegetation into ash, releasing minerals like potassium and phosphorus back into the soil where plants can immediately use them.
 
 **Controlling woody plants**: Fire kills tree seedlings and shrubs that would otherwise invade grasslands. Without periodic fire, many grasslands convert to scrubland or forest within decades. This process—called woody encroachment—is one of the biggest threats to grasslands worldwide.
 
 **Maintaining diversity**: Different plant species respond differently to fire. Frequent fire favors fire-adapted grasses and forbs (wildflowers). Infrequent fire allows woody plants to establish. Managing fire frequency is a tool for maintaining specific community compositions.
 
-Grassland fire ecology has direct implications for [conservation](/conservation-biology) management. Restoring fire to landscapes where it's been suppressed—often for a century or more—is one of the most effective conservation strategies for grassland ecosystems. But prescribed burning near urban areas is politically and practically difficult, creating a persistent management challenge.
+Grassland fire ecology has direct implications for [conservation](/conservation-[biology](/biology)) [management](/management). Restoring fire to landscapes where it's been suppressed—often for a century or more—is one of the most effective conservation strategies for grassland ecosystems. But prescribed burning near urban areas is politically and practically difficult, creating a persistent management challenge.
 
 ## Soil: The Hidden Half
 
@@ -122,7 +122,7 @@ This has important implications for climate change policy. Current climate strat
 
 ### Soil Biology
 
-A single teaspoon of healthy grassland soil can contain a billion bacteria, several meters of fungal hyphae, thousands of protozoa, and hundreds of nematodes. This microbial community drives nutrient cycling, decomposition, and soil structure formation.
+A single teaspoon of healthy grassland soil can contain a billion bacteria, several meters of fungal hyphae, thousands of protozoa, and hundreds of nematodes. This microbial community drives nutrient [cycling](/cycling), decomposition, and soil structure formation.
 
 Mycorrhizal fungi—which form symbiotic associations with plant roots—are particularly important in grasslands. These fungi extend the effective root network of grasses by orders of magnitude, helping plants access water and nutrients (especially phosphorus) from soil volumes far larger than their roots alone could reach. In return, plants provide the fungi with sugars from photosynthesis.
 
@@ -134,7 +134,7 @@ Grasslands are far more biodiverse than they might appear to someone driving pas
 
 ### Plant Diversity
 
-A healthy tallgrass prairie can support 200-300 plant species per hectare. Most of this diversity comes not from grasses but from forbs—wildflowers and other non-grass herbaceous plants. Forbs provide essential habitat for pollinators, fix nitrogen (legumes), and contribute to the complex root architecture that makes grassland soils so fertile.
+A healthy tallgrass prairie can support 200-300 plant species per hectare. Most of this diversity comes not from grasses but from forbs—wildflowers and other non-grass herbaceous plants. Forbs provide essential habitat for pollinators, fix nitrogen (legumes), and contribute to the complex root [architecture](/architecture) that makes grassland soils so fertile.
 
 The timing of flowering in prairie plants is staggered across the growing season—different species bloom in spring, early summer, midsummer, and fall. This provides continuous food resources for pollinators and creates the characteristic shifting color display of a healthy prairie through the year.
 

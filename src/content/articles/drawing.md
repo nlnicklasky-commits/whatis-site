@@ -5,7 +5,7 @@ description: "Drawing is the art of making marks on a surface to create images. 
 category: arts-amp-culture
 tags: ["drawing", "arts-amp-culture"]
 heroImage: "/images/articles/drawing.webp"
-heroAlt: "An artist's hand sketching a detailed pencil drawing in a sketchbook"
+heroAlt: "Editorial photograph representing the concept of drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ Drawing is the act of making marks on a surface — typically with pencils, pens
 
 ## The Oldest Art Form
 
-The earliest known drawings are cave paintings — Chauvet Cave in France contains charcoal and ochre drawings of horses, lions, and rhinoceroses dating to roughly 36,000 years ago. These aren't crude stick figures. They demonstrate sophisticated observation of animal anatomy, movement, and behavior. Whoever drew them could really draw.
+The earliest known drawings are cave paintings — Chauvet Cave in France contains charcoal and ochre drawings of horses, lions, and rhinoceroses dating to roughly 36,000 years ago. These aren't crude stick figures. They demonstrate sophisticated observation of animal [anatomy](/anatomy), movement, and behavior. Whoever drew them could really draw.
 
-Drawing remained central to art for millennia, but it was the Italian Renaissance that elevated it to a discipline. Leonardo da Vinci's notebooks contain roughly 13,000 pages of drawings — anatomical studies, engineering diagrams, botanical observations, water flow patterns, and sketches for paintings. His drawings weren't preparation for the "real" art; they were the real art. Many of Leonardo's drawings are more admired than his paintings.
+Drawing remained central to art for millennia, but it was the Italian Renaissance that elevated it to a discipline. Leonardo da Vinci's notebooks contain roughly 13,000 pages of drawings — anatomical studies, [engineering](/engineering) diagrams, botanical observations, water flow patterns, and sketches for paintings. His drawings weren't preparation for the "real" art; they were the real art. Many of Leonardo's drawings are more admired than his paintings.
 
 Michelangelo, Raphael, and Durer were equally accomplished draftsmen. The Renaissance established a principle that persists: drawing is the foundation of all visual art. If you can draw, you can paint, sculpt, design, and build. If you can't draw, you're working without the fundamental skill.
 

@@ -5,7 +5,7 @@ description: "Social engineering manipulates people into revealing information o
 category: everyday-concepts
 tags: ["social engineering", "cybersecurity", "phishing", "manipulation", "security", "hacking"]
 heroImage: "/images/articles/social-engineering.webp"
-heroAlt: "A computer screen showing a suspicious email with a warning overlay about phishing"
+heroAlt: "Editorial photograph representing the concept of social engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Verify requests independently — if someone calls claiming to be from your bank, hang up and call the bank's official number. Never click links in unexpected emails. Be suspicious of urgency ('act now or your account will be locked'). Use multi-factor authentication so stolen passwords alone aren't enough. And remember: legitimate organizations never ask for passwords via email or phone."
 ---
 
-# What Is Social Engineering?
+# What Is Social [Engineering](/engineering)?
 
 Social engineering, in the cybersecurity context, is the art of manipulating people into giving up confidential information, granting unauthorized access, or performing actions that compromise security. Instead of hacking computers directly, social engineers hack people — exploiting trust, authority, fear, and helpfulness to bypass technical security measures entirely.
 
-It's the oldest form of hacking and still the most effective. You can spend millions on firewalls, encryption, and intrusion detection systems, but if someone convinces an employee to read their password over the phone, none of that technology matters. As security expert Bruce Schneier put it: "People are the weakest link in security."
+It's the oldest form of hacking and still the most effective. You can spend millions on firewalls, encryption, and [intrusion detection](/intrusion-detection) systems, but if someone convinces an employee to read their password over the phone, none of that technology matters. As security expert Bruce Schneier put it: "People are the weakest link in security."
 
 ## The Attack Types
 
-**Phishing** is the most widespread attack. Attackers send emails that look legitimate — from banks, tech companies, employers, or government agencies — containing links to fake websites or malicious downloads. The scale is enormous: roughly 3.4 billion phishing emails are sent daily. Most are crude and obvious, but sophisticated phishing is nearly indistinguishable from legitimate communication.
+**Phishing** is the most widespread attack. Attackers send emails that look legitimate — from banks, tech companies, employers, or [government](/government) agencies — containing links to fake websites or malicious downloads. The scale is enormous: roughly 3.4 billion phishing emails are sent daily. Most are crude and obvious, but sophisticated phishing is nearly indistinguishable from legitimate communication.
 
 **Spear phishing** targets specific individuals with personalized messages. Instead of mass-mailing generic bank alerts, the attacker researches their target — using LinkedIn, social media, and company websites — and crafts a convincing message. "Hi Sarah, following up on our conversation at the Austin conference — here are the documents you requested." The personalization dramatically increases success rates.
 
@@ -47,7 +47,7 @@ It's the oldest form of hacking and still the most effective. You can spend mill
 
 **Tailgating** (or piggybacking) is physical social engineering — following an authorized person through a secured door. Carrying boxes and asking someone to hold the door open is remarkably effective. Most people won't challenge someone who looks like they belong.
 
-## The Psychology
+## The [Psychology](/psychology)
 
 Social engineering works because it exploits reliable human tendencies.
 
@@ -75,6 +75,6 @@ The 2011 RSA breach, which compromised the security of the SecurID two-factor au
 
 **Multi-factor authentication (MFA)** limits the damage from stolen passwords. Even if a phishing attack captures your password, the attacker can't access your account without the second factor (a phone code, hardware key, or biometric).
 
-**Healthy skepticism** is your personal firewall. If something feels off — an unusual request, unexpected urgency, someone you don't know asking for information they shouldn't need — trust that instinct and verify before acting.
+**Healthy skepticism** is your personal firewall. If something feels off — an unusual request, unexpected urgency, someone you don't know asking for information they shouldn't need — trust that instinct and verify before [acting](/acting).
 
 The uncomfortable truth about social engineering is that it works because we're human. Our helpfulness, trust, and respect for authority are genuine virtues — and they're precisely what attackers exploit. The goal isn't to become paranoid, but to develop a habit of verifying before trusting, especially when something is unexpected or feels pressured.

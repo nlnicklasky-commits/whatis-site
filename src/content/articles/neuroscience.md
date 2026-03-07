@@ -5,7 +5,7 @@ description: "Neuroscience is the study of the nervous system, from brain cells 
 category: science
 tags: ["neuroscience", "brain", "nervous system", "neurons", "cognition", "behavior", "neurology"]
 heroImage: "/images/articles/neuroscience-hero.webp"
-heroAlt: "Glowing neural network visualization showing interconnected neurons and synaptic pathways"
+heroAlt: "Editorial photograph representing the concept of neuroscience"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

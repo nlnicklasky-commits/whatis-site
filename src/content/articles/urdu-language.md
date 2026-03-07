@@ -5,7 +5,7 @@ description: "Urdu is an Indo-Aryan language and Pakistan's national language. L
 category: language
 tags: ["urdu language", "linguistics", "Pakistan", "Indo-Aryan", "Nastaliq script", "South Asian languages"]
 heroImage: "/images/articles/urdu-language.webp"
-heroAlt: "Beautiful Urdu calligraphy in Nastaliq script on a cream-colored page with gold accents"
+heroAlt: "Editorial photograph representing the concept of urdu language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Urdu Language?
 
-Urdu is an Indo-Aryan language that serves as Pakistan's national language and is one of India's 22 scheduled languages. It's spoken natively by about 70 million people and understood by over 230 million. Written in the elegant Nastaliq script (a calligraphic form of Perso-Arabic writing), Urdu carries a literary tradition that includes some of South Asia's most celebrated poetry, prose, and philosophical writing.
+Urdu is an Indo-Aryan language that serves as Pakistan's national language and is one of India's 22 scheduled languages. It's spoken natively by about 70 million people and understood by over 230 million. Written in the elegant Nastaliq script (a calligraphic form of Perso-Arabic [writing](/writing)), Urdu carries a literary tradition that includes some of South Asia's most celebrated poetry, prose, and philosophical writing.
 
 ## The Hindi-Urdu Question
 
-Here's the thing that confuses everyone: if you put an Urdu speaker from Lahore and a Hindi speaker from Delhi in a room, they'd understand each other perfectly well in casual conversation. The everyday grammar is identical. The basic vocabulary overlaps heavily. The sentence structure matches.
+Here's the thing that confuses everyone: if you put an Urdu speaker from Lahore and a Hindi speaker from Delhi in a room, they'd understand each other perfectly well in casual conversation. The everyday [grammar](/grammar) is identical. The basic vocabulary overlaps heavily. The sentence structure matches.
 
-So why are they considered different languages? Politics, script, and formal vocabulary.
+So why are they considered different languages? [Politics](/politics), script, and formal vocabulary.
 
-**Script:** Urdu uses Nastaliq (right to left, Perso-Arabic based). Hindi uses Devanagari (left to right, Sanskrit-derived). The same sentence, spoken identically by both speakers, looks completely different on paper.
+**Script:** Urdu uses Nastaliq (right to left, Perso-Arabic based). Hindi uses Devanagari (left to right, [Sanskrit](/sanskrit)-derived). The same sentence, spoken identically by both speakers, looks completely different on paper.
 
-**Formal vocabulary:** When conversation moves to literature, religion, government, or academia, the languages diverge sharply. Urdu draws its elevated vocabulary from Persian and Arabic. Hindi draws from Sanskrit. A news broadcast in formal Urdu would be largely unintelligible to a Hindi speaker who hasn't been exposed to Persian-Arabic vocabulary, and vice versa.
+**Formal vocabulary:** When conversation moves to [literature](/literature), [religion](/religion), [government](/government), or academia, the languages diverge sharply. Urdu draws its elevated vocabulary from Persian and Arabic. Hindi draws from Sanskrit. A news broadcast in formal Urdu would be largely unintelligible to a Hindi speaker who hasn't been exposed to Persian-Arabic vocabulary, and vice versa.
 
 **Cultural identity:** Urdu is associated with Muslim culture and Pakistani national identity. Hindi is associated with Hindu culture and Indian national identity. This association solidified during the partition of British India in 1947, when Urdu became Pakistan's national language and Hindi became India's.
 
@@ -61,7 +61,7 @@ Urdu's script is visually distinctive and calligraphically demanding. Nastaliq (
 
 The script has 39 basic characters representing consonants and long vowels. Short vowels are indicated by diacritical marks above or below the consonants, though these marks are typically omitted in everyday writing (readers infer them from context — similar to how txtng wrks in English).
 
-Nastaliq is notoriously difficult to render digitally. Its complex stacking, flowing connections, and context-dependent letter forms make it one of the most challenging scripts for computer typography. For years, Urdu web content was limited by poor digital font support. The situation has improved significantly since the early 2010s with fonts like Jameel Noori Nastaliq and Google's Noto Nastaliq.
+Nastaliq is notoriously difficult to render digitally. Its complex stacking, flowing connections, and context-dependent letter forms make it one of the most challenging scripts for computer [typography](/typography). For years, Urdu web content was limited by poor digital font support. The situation has improved significantly since the early 2010s with fonts like Jameel Noori Nastaliq and Google's Noto Nastaliq.
 
 ## Urdu Literature and Poetry
 
@@ -77,10 +77,10 @@ Mushaira — public poetry recitation events — remain a living art form. Poets
 
 ## Urdu Today
 
-Pakistan's 230 million people all learn Urdu through education and media, even if their mother tongue is Punjabi, Sindhi, Pashto, or Balochi. It functions as a lingua franca unifying a linguistically diverse nation.
+Pakistan's 230 million people all learn Urdu through [education](/education) and media, even if their mother tongue is Punjabi, Sindhi, Pashto, or Balochi. It functions as a lingua franca unifying a linguistically diverse nation.
 
 In India, Urdu is the primary language of Bollywood lyrics, which reaches audiences of over a billion people. Most Hindi film songs are actually written in Urdu or heavily Urdu-influenced Hindustani. The diaspora — particularly in the UK, UAE, Saudi Arabia, Canada, and the United States — sustains Urdu language media, education, and cultural events worldwide.
 
 The language faces challenges too. In Pakistan, English dominates elite education and professional life, creating a social stratification where Urdu fluency doesn't carry the economic premium that English does. In India, political pressure to promote Hindi over Urdu has reduced its institutional presence in some states.
 
-But Urdu's poetic and emotional expressiveness gives it a cultural resilience that statistics alone don't capture. When a language produces literature this good, people don't stop speaking it.
+But Urdu's poetic and emotional expressiveness gives it a cultural resilience that [statistics](/statistics) alone don't capture. When a language produces literature this good, people don't stop speaking it.

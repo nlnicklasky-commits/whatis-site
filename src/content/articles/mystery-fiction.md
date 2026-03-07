@@ -5,7 +5,7 @@ description: "Mystery fiction centers on solving a crime or puzzle, typically a 
 category: arts-amp-culture
 tags: ["mystery fiction", "detective fiction", "crime fiction", "whodunit", "thriller", "literary genre"]
 heroImage: "/images/articles/mystery-fiction.webp"
-heroAlt: "Magnifying glass resting on an open book with a shadowy figure on the cover"
+heroAlt: "Editorial photograph representing the concept of mystery fiction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Mystery Fiction?
 
-Mystery fiction is a genre of literature built around a central puzzle — usually a crime, most often a murder — that the protagonist (and reader) must solve. The detective gathers clues, interviews suspects, eliminates possibilities, and ultimately reveals the truth, ideally in a way that's both surprising and, in retrospect, inevitable. The reader has been given the same clues and gets to play along.
+Mystery fiction is a genre of [literature](/literature) built around a central puzzle — usually a crime, most often a murder — that the protagonist (and reader) must solve. The detective gathers clues, interviews suspects, eliminates possibilities, and ultimately reveals the truth, ideally in a way that's both surprising and, in retrospect, inevitable. The reader has been given the same clues and gets to play along.
 
-It's one of the most popular genres in publishing. Mystery and crime fiction consistently accounts for roughly 15-20% of all fiction sold in the United States. Agatha Christie has sold over two billion books — making her the bestselling fiction writer of all time. The genre's appeal is rooted in something fundamental: humans are pattern-seeking creatures, and a well-constructed mystery is a pattern-seeking puzzle disguised as a story.
+It's one of the most popular genres in [publishing](/publishing). Mystery and crime fiction consistently accounts for roughly 15-20% of all fiction sold in the United States. Agatha Christie has sold over two billion books — making her the bestselling fiction writer of all time. The genre's appeal is rooted in something fundamental: humans are pattern-seeking creatures, and a well-constructed mystery is a pattern-seeking puzzle disguised as a story.
 
 ## The Subgenres
 
@@ -41,7 +41,7 @@ Mystery fiction has splintered into dozens of subgenres, each with distinct conv
 
 **The classic whodunit** — the puzzle-mystery tradition established by Agatha Christie, Dorothy L. Sayers, and Ellery Queen. A crime occurs (usually in a confined setting — a country house, a train, an island). A detective investigates. Suspects have means, motive, and opportunity. Clues are planted fairly. The solution is revealed in a final scene. It's elegant, intellectual, and deeply satisfying when done well.
 
-**Hardboiled** — American, urban, and tough. Dashiell Hammett (*The Maltese Falcon*) and Raymond Chandler (*The Big Sleep*) created the template: a cynical private detective navigates a corrupt world, encountering violence, betrayal, and moral ambiguity. The crime matters less than the detective's journey through a decaying society. The prose is lean, dialogue-driven, and dripping with noir sensibility.
+**Hardboiled** — American, urban, and tough. Dashiell Hammett (*The Maltese Falcon*) and Raymond Chandler (*The Big Sleep*) created the template: a cynical private detective navigates a corrupt world, encountering violence, betrayal, and moral ambiguity. The crime matters less than the detective's journey through a decaying society. The [prose](/prose) is lean, dialogue-driven, and dripping with noir sensibility.
 
 **Police procedural** — follows law enforcement officers using real (or realistic) investigative methods. Ed McBain's 87th Precinct series pioneered the form. Modern examples include Michael Connelly's Harry Bosch and TV shows like *Law & Order*. The procedural emphasizes teamwork, forensics, and bureaucracy alongside detection.
 
@@ -51,11 +51,11 @@ Mystery fiction has splintered into dozens of subgenres, each with distinct conv
 
 **Domestic suspense** — mysteries centered on relationships, typically within families or marriages. Gillian Flynn's *Gone Girl* (2012) supercharged this subgenre. The crime is often committed by someone the protagonist trusts. Secrets, lies, and unreliable narration are central.
 
-**Scandinavian crime fiction (Nordic noir)** — a global phenomenon since Stieg Larsson's *The Girl with the Dragon Tattoo* (2005). Swedish, Norwegian, Danish, and Icelandic writers (Henning Mankell, Jo Nesbo, Arnaldur Indridason) combine crime plots with social commentary and bleak Northern European settings.
+**Scandinavian crime fiction (Nordic noir)** — a global phenomenon since Stieg Larsson's *The Girl with the Dragon Tattoo* (2005). Swedish, Norwegian, Danish, and Icelandic writers (Henning Mankell, Jo Nesbo, Arnaldur Indridason) combine crime plots with [social commentary](/social-commentary) and bleak Northern European settings.
 
 ## The Golden Age
 
-The period between World War I and World War II is the Golden Age of detective fiction. Its dominant figures:
+The period between [World War I](/world-war-i) and [World War II](/world-war-ii) is the Golden Age of [detective fiction](/detective-fiction). Its dominant figures:
 
 **Agatha Christie** — created Hercule Poirot and Miss Marple. Published 66 detective novels and 14 short story collections. *And Then There Were None* (1939) has sold 100+ million copies. *The Murder of Roger Ackroyd* (1926) contains arguably the most famous twist in the genre's history. Her plotting remains the benchmark — she could construct a puzzle that mystified millions of readers while playing completely fair with the clues.
 

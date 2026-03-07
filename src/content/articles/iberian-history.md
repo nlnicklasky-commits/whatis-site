@@ -5,7 +5,7 @@ description: "Iberian history covers the peninsula shared by Spain and Portugal 
 category: history
 tags: ["iberian peninsula", "spain", "portugal", "reconquista", "european history"]
 heroImage: "/images/articles/iberian-history.webp"
-heroAlt: "The Alhambra palace in Granada with the Sierra Nevada mountains in the background"
+heroAlt: "Editorial photograph representing the concept of iberian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,9 +49,9 @@ Phoenician traders established colonies along the southern coast as early as 110
 
 Rome conquered the Iberian Peninsula over two brutal centuries (218 BCE to 19 BCE). The conquest was far more difficult than the Romans expected — Iberian guerrilla resistance was fierce, and the interior highlands proved nearly impossible to pacify. The siege of Numantia (134-133 BCE), where Celtiberian defenders chose mass suicide over surrender, became legendary.
 
-Once pacified, Hispania (as the Romans called it) became one of the empire's most important provinces. It produced emperors (Trajan, Hadrian, Theodosius I), philosophers (Seneca), poets (Martial, Lucan), and enormous quantities of olive oil, wine, grain, and metals — particularly gold, silver, and copper. Roman engineering transformed the peninsula: roads, bridges (the bridge at Alcantara still stands), aqueducts (Segovia's aqueduct, built without mortar, survived nearly 2,000 years), and cities.
+Once pacified, Hispania (as the Romans called it) became one of the empire's most important provinces. It produced emperors (Trajan, Hadrian, Theodosius I), philosophers (Seneca), poets (Martial, Lucan), and enormous quantities of olive oil, wine, grain, and metals — particularly gold, silver, and copper. Roman [engineering](/engineering) transformed the peninsula: roads, bridges (the bridge at Alcantara still stands), aqueducts (Segovia's aqueduct, built without mortar, survived nearly 2,000 years), and cities.
 
-Latin replaced the indigenous languages (except Basque), and Roman law, religion, and culture became the foundation of Iberian civilization. When Christianity spread through the empire, Iberia adopted it enthusiastically. By the 4th century, Hispania was one of Christendom's most solidly Christian regions.
+Latin replaced the indigenous languages (except Basque), and Roman law, religion, and culture became the foundation of Iberian civilization. When [Christianity](/christianity) spread through the empire, Iberia adopted it enthusiastically. By the 4th century, Hispania was one of Christendom's most solidly Christian regions.
 
 ## The Visigothic Interlude
 
@@ -63,9 +63,9 @@ The Visigoths converted from Arianism to Catholicism in 589 under King Reccared,
 
 In 711, a Berber-Arab army under Tariq ibn Ziyad crossed the Strait of Gibraltar and defeated the Visigothic king Roderic. Within seven years, Muslims controlled most of the peninsula. The speed of the conquest reflected Visigothic political disunity more than Muslim numerical superiority — the invading army may have numbered only 7,000 to 12,000 troops.
 
-The resulting civilization — al-Andalus — became one of the most remarkable in medieval history. Under the Umayyad Caliphate of Cordoba (929-1031), Iberia was arguably the most culturally and intellectually advanced region in Europe. Cordoba itself was one of the largest cities in the world, with a population estimated at over 100,000 — compared to London's roughly 10,000 at the same time.
+The resulting civilization — al-Andalus — became one of the most remarkable in [medieval history](/medieval-history). Under the Umayyad Caliphate of Cordoba (929-1031), Iberia was arguably the most culturally and intellectually advanced region in Europe. Cordoba itself was one of the largest cities in the world, with a population estimated at over 100,000 — compared to London's roughly 10,000 at the same time.
 
-Al-Andalus excelled in areas where the rest of Europe lagged. Mathematics (the transmission of Indian-Arabic numerals to Europe came largely through Iberia), [astronomy](/astronomy), medicine, philosophy, architecture, and agriculture all flourished. The translation movement — in which Arabic texts of Aristotle, Galen, Ptolemy, and other classical authors were translated into Latin, often by Jewish intermediaries — transmitted vast amounts of knowledge to a European intellectual world that had largely lost access to these works.
+Al-Andalus excelled in areas where the rest of Europe lagged. [Mathematics](/mathematics) (the transmission of Indian-Arabic numerals to Europe came largely through Iberia), [astronomy](/astronomy), medicine, philosophy, [architecture](/architecture), and [agriculture](/agriculture) all flourished. The [translation](/translation) movement — in which Arabic texts of Aristotle, Galen, Ptolemy, and other classical authors were translated into Latin, often by Jewish intermediaries — transmitted vast amounts of knowledge to a European intellectual world that had largely lost access to these works.
 
 The relationship between Muslims, Christians, and Jews in al-Andalus was complicated. The term *convivencia* ("living together") is sometimes used to describe it, though scholars debate how rosy the reality actually was. Christians and Jews were dhimmis — protected religious minorities who could practice their faiths but faced legal restrictions and special taxation. There were genuine periods of intellectual collaboration and cultural exchange, but also episodes of persecution, forced conversion, and violence. It was neither a utopia nor a nightmare — it was messy, like most of history.
 

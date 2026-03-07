@@ -5,7 +5,7 @@ description: "Mercantilism was the dominant economic theory from the 1500s to 17
 category: history
 tags: ["economics", "mercantilism", "trade"]
 heroImage: "/images/articles/mercantilism.webp"
-heroAlt: "Wooden merchant ship in a harbor with barrels and trade goods on the dock"
+heroAlt: "Editorial photograph representing the concept of mercantilism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Mercantilism?
 
-Mercantilism is an economic theory and system that dominated European economic thought and policy from roughly the 16th through the 18th centuries. Its core premise is straightforward: a nation's wealth is measured by its stock of precious metals — gold and silver — and the best way to get rich is to export more than you import, ensuring a constant flow of money into your country.
+Mercantilism is an [economic theory](/economic-theory) and system that dominated European economic thought and policy from roughly the 16th through the 18th centuries. Its core premise is straightforward: a nation's wealth is measured by its stock of precious metals — gold and silver — and the best way to get rich is to export more than you import, ensuring a constant flow of money into your country.
 
-## The Logic (and the Flaw)
+## The [Logic](/logic) (and the Flaw)
 
-The mercantilist worldview rested on an assumption that seems obvious until you think about it carefully: wealth is finite. There's only so much gold and silver in the world. If Spain has more, France has less. Trade is a zero-sum game — every transaction has a winner and a loser.
+The mercantilist worldview rested on an assumption that seems obvious until you think about it carefully: wealth is finite. There's only so much gold and silver in the world. If Spain has more, France has less. [Trade](/trade) is a zero-sum game — every transaction has a winner and a loser.
 
 From this assumption, everything else followed logically. If wealth is finite, then your nation's goal should be to grab as much of it as possible. You do that by selling goods to foreigners (bringing money in) and buying as little from them as possible (keeping money from going out). The gap between exports and imports — the trade surplus — represents your winnings.
 
@@ -53,7 +53,7 @@ By mercantilist logic, Spain should have become the wealthiest, most powerful na
 
 By the 17th century, Spain was broke. The most gold-rich empire in history had proven that hoarding precious metals isn't actually the same thing as building a productive economy. Economists later called this the "Spanish paradox" or the "resource curse."
 
-### England: The Navigation Acts
+### England: The [Navigation](/navigation) Acts
 
 England's mercantilism was more sophisticated — and more successful — than Spain's. Rather than simply grabbing gold, English policymakers focused on controlling trade flows.
 
@@ -65,7 +65,7 @@ This system worked reasonably well for England. It built a massive merchant flee
 
 ### France: Colbertism
 
-France's version of mercantilism is often called Colbertism, after Jean-Baptiste Colbert, who served as Minister of Finance under Louis XIV from 1665 to 1683. Colbert was mercantilism's most systematic practitioner.
+France's version of mercantilism is often called Colbertism, after Jean-Baptiste Colbert, who served as Minister of [Finance](/finance) under Louis XIV from 1665 to 1683. Colbert was mercantilism's most systematic practitioner.
 
 Colbert imposed punishing tariffs on imported goods — especially Dutch and English textiles. He subsidized French manufacturing, established state-run factories (the Gobelins mix works, the Saint-Gobain mirror factory), standardized product quality (right down to specifying the exact number of threads per inch in a bolt of cloth), and built roads and canals to facilitate internal trade.
 
@@ -91,7 +91,7 @@ It also explains, more grimly, the Atlantic slave trade. Sugar, cotton, and toba
 
 ## The Intellectual Pushback
 
-Criticism of mercantilism built slowly. Early critics like Dudley North argued in the 1690s that trade restrictions hurt the countries imposing them as much as their targets. The French Physiocrats, led by Francois Quesnay in the 1750s, argued that agricultural production — not trade surpluses — was the true source of wealth, and that government interference in markets was generally counterproductive. Their motto was *laissez-faire* — "let it be."
+Criticism of mercantilism built slowly. Early critics like Dudley North argued in the 1690s that trade restrictions hurt the countries imposing them as much as their targets. The French Physiocrats, led by Francois Quesnay in the 1750s, argued that agricultural production — not trade surpluses — was the true source of wealth, and that [government](/government) interference in markets was generally counterproductive. Their motto was *laissez-faire* — "let it be."
 
 But the killing blow came from Adam Smith. His 1776 *The Wealth of Nations* systematically dismantled mercantilist thinking. Smith argued that:
 
@@ -108,7 +108,7 @@ The doctrine is dead. The instincts aren't.
 
 Modern trade policy is full of mercantilist echoes. Tariffs on foreign goods, subsidies for domestic industries, complaints about trade deficits, "buy local" campaigns, strategic stockpiling of rare-earth minerals — these all reflect the mercantilist intuition that exports are good, imports are bad, and the government should tilt the playing field in favor of domestic producers.
 
-China's economic strategy over the past 40 years has been called "neo-mercantilist" by many Western economists: export-driven growth, currency management, state subsidies to strategic industries, intellectual property acquisition, and accumulation of massive foreign exchange reserves. Whether this comparison is fair or oversimplified is a lively debate.
+China's economic strategy over the past 40 years has been called "neo-mercantilist" by many Western economists: export-driven growth, currency [management](/management), state subsidies to strategic industries, intellectual property acquisition, and accumulation of massive foreign exchange reserves. Whether this comparison is fair or oversimplified is a lively [debate](/debate).
 
 The U.S.-China trade tensions that escalated from 2018 onward — tariffs, export controls, industrial policy — look remarkably like mercantilist trade wars. Different technology, same fundamental disputes about who controls trade and who benefits from it.
 

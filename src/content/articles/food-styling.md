@@ -5,7 +5,7 @@ description: "Food styling is the art of arranging food to look appealing for ph
 category: arts-amp-culture
 tags: ["food", "photography", "culinary arts", "visual arts", "marketing", "styling"]
 heroImage: "/images/articles/food-styling.webp"
-heroAlt: "Beautifully styled breakfast spread with careful placement and natural light"
+heroAlt: "Editorial photograph representing the concept of food styling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Food Styling?
 
-Food styling is the specialized practice of preparing and arranging food so it looks as appealing as possible for photographs, video, film, and advertising. Every gorgeous food image you've ever seen — in cookbooks, magazines, Instagram posts, commercials, and restaurant menus — involved someone carefully arranging, adjusting, and perfecting the food before the camera clicked. Food styling sits at the intersection of cooking, visual art, and commercial production.
+Food styling is the specialized practice of preparing and arranging food so it looks as appealing as possible for photographs, video, film, and advertising. Every gorgeous food image you've ever seen — in cookbooks, magazines, Instagram posts, commercials, and restaurant menus — involved someone carefully arranging, adjusting, and perfecting the food before the camera clicked. Food styling sits at the intersection of [cooking](/cooking), visual art, and commercial production.
 
 ## The Reality Behind the Image
 
@@ -45,7 +45,7 @@ Food stylists solve these problems through a combination of culinary skill, tech
 
 **Surface treatments** make food glisten and pop. Vegetable oil brushed on meats creates an appetizing sheen. A mixture of corn syrup and water replicates the look of maple syrup (which is too thin to photograph well). Glycerin spray creates the look of condensation on cold glasses.
 
-**Color management** ensures foods look their best. A spritz of lemon juice prevents cut avocados from browning. A touch of food coloring enhances sauces. Specifically selected produce — each tomato, each herb leaf, each berry — is chosen for ideal color, shape, and size from large quantities of options.
+**Color [management](/management)** ensures foods look their best. A spritz of lemon juice prevents cut avocados from browning. A touch of food coloring enhances sauces. Specifically selected produce — each tomato, each herb leaf, each berry — is chosen for ideal color, shape, and size from large quantities of options.
 
 ## The Workflow
 

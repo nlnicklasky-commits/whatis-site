@@ -5,7 +5,7 @@ description: "Astrology is the belief that celestial bodies influence human affa
 category: philosophy
 tags: ["astrology", "horoscope", "zodiac", "pseudoscience", "divination", "natal chart", "spirituality"]
 heroImage: "/images/articles/astrology-hero.webp"
-heroAlt: "A zodiac wheel with twelve astrological signs surrounded by stars and celestial symbols"
+heroAlt: "Editorial photograph representing the concept of astrology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Western astrology divides the sky into twelve segments, each associated with a c
 - **Cancer** (June 21 - July 22) — associated with nurturing, sensitivity, moodiness
 - **Leo** (July 23 - August 22) — associated with confidence, creativity, ego
 - **Virgo** (August 23 - September 22) — associated with analysis, precision, criticism
-- **Libra** (September 23 - October 22) — associated with balance, diplomacy, indecision
+- **Libra** (September 23 - October 22) — associated with balance, [diplomacy](/diplomacy), indecision
 - **Scorpio** (October 23 - November 21) — associated with intensity, secrecy, determination
 - **Sagittarius** (November 22 - December 21) — associated with adventure, optimism, bluntness
 - **Capricorn** (December 22 - January 19) — associated with ambition, discipline, pessimism
@@ -73,7 +73,7 @@ In astrological terminology, each planet (plus the sun and moon, which astrologe
 - **Mercury** — communication, thinking, learning
 - **Venus** — love, beauty, values
 - **Mars** — energy, desire, conflict
-- **Jupiter** — expansion, luck, philosophy
+- **Jupiter** — expansion, luck, [philosophy](/philosophy)
 - **Saturn** — discipline, limitation, maturity
 - **Uranus** — rebellion, change, originality
 - **Neptune** — dreams, illusion, spirituality
@@ -87,7 +87,7 @@ The natal chart is divided into twelve "houses," each governing a specific life 
 
 ### Aspects
 
-Aspects are angular relationships between planets. A conjunction (0 degrees apart) means two planetary energies blend. An opposition (180 degrees) creates tension. A trine (120 degrees) indicates harmony. A square (90 degrees) suggests challenge. Astrologers interpret these geometric relationships as interactions between the life areas each planet represents.
+Aspects are angular relationships between planets. A conjunction (0 degrees apart) means two planetary energies blend. An opposition (180 degrees) creates tension. A trine (120 degrees) indicates [harmony](/harmony). A square (90 degrees) suggests challenge. Astrologers interpret these geometric relationships as interactions between the life areas each planet represents.
 
 When you put it all together — signs, planets, houses, and aspects — a natal chart contains thousands of data points to interpret. This complexity is both astrology's appeal (it can always find something to say) and one of its scientific problems (it's nearly impossible to test claims that depend on so many interacting variables).
 
@@ -111,7 +111,7 @@ Critically, the Greeks introduced natal astrology — the idea that the celestia
 
 ### Indian Astrology (Jyotisha)
 
-Indian astrology, or Jyotish, developed partially independently and partially through cross-pollination with Greek astrology after Alexander's campaigns. Jyotish uses a sidereal zodiac (based on actual star positions) rather than the tropical zodiac (based on seasons) used in Western astrology. This means your Vedic sign is often different from your Western sign.
+Indian astrology, or Jyotish, developed partially independently and partially through cross-[pollination](/pollination) with Greek astrology after Alexander's campaigns. Jyotish uses a sidereal zodiac (based on actual star positions) rather than the tropical zodiac (based on seasons) used in Western astrology. This means your Vedic sign is often different from your Western sign.
 
 Jyotish remains deeply integrated into Indian culture. Many families consult astrologers for marriage compatibility, naming children, and timing important decisions. It's taught in some Indian universities and plays a role in political and business life that has no Western equivalent.
 
@@ -121,13 +121,13 @@ Chinese astrology operates on a completely different system — based on a twelv
 
 ### Medieval and Renaissance Europe
 
-Astrology was mainstream in medieval Europe. Court astrologers advised kings. Universities taught it alongside medicine and mathematics. The [Catholic Church's](/aesthetics) relationship with astrology was complicated — some popes employed astrologers, while theological arguments raged about whether the stars merely influenced or actually determined human fate (the latter was heretical because it denied free will).
+Astrology was mainstream in medieval Europe. Court astrologers advised kings. Universities taught it alongside medicine and [mathematics](/mathematics). The [Catholic Church's](/aesthetics) relationship with astrology was complicated — some popes employed astrologers, while theological arguments raged about whether the stars merely influenced or actually determined human fate (the latter was heretical because it denied free will).
 
 ### The Scientific Revolution Divorce
 
 The separation between astrology and astronomy happened gradually during the 17th century. As the Copernican model displaced the Earth-centered universe, the astrological framework — which assumed Earth was the center around which everything revolved — lost its cosmological foundation.
 
-Newton's physics explained celestial movements through gravity and mechanics, leaving no room for mysterious planetary "influences" on human psychology. By the 18th century, [astronomy](/astronomy) had established itself as a legitimate science, while astrology was increasingly dismissed by educated Europeans.
+Newton's physics explained celestial movements through gravity and mechanics, leaving no room for mysterious planetary "influences" on human [psychology](/psychology). By the 18th century, [astronomy](/astronomy) had established itself as a legitimate science, while astrology was increasingly dismissed by educated Europeans.
 
 The split wasn't instant. Isaac Newton himself never publicly endorsed astrology but reportedly kept an astrological chart. Kepler, whose laws of planetary motion are fundamental to modern astronomy, practiced astrology to pay his bills (while privately expressing skepticism about many of its claims).
 
@@ -179,7 +179,7 @@ People remember confirming evidence and forget disconfirming evidence. If your h
 
 [Cognitive bias](/cognitive-bias) research has consistently shown that humans are poor at evaluating evidence objectively — we weigh evidence that supports our existing beliefs more heavily than evidence that contradicts them.
 
-### Pattern Recognition Gone Overboard
+### [Pattern Recognition](/pattern-recognition) Gone Overboard
 
 Human brains are pattern-detection machines. We're so good at finding patterns that we find them even where none exist — seeing faces in clouds, hearing words in random noise, and finding meaningful correlations between planets and personality. This tendency, called apophenia, was useful when our ancestors needed to spot predators in rustling grass. It's less useful when evaluating astrological claims.
 

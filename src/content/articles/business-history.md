@@ -5,7 +5,7 @@ description: "Business history studies how companies, industries, and commercial
 category: history
 tags: ["business history", "economic history", "corporations", "entrepreneurship"]
 heroImage: "/images/articles/business-history.webp"
-heroAlt: "Vintage stock certificate and ledger books representing centuries of commercial enterprise"
+heroAlt: "Editorial photograph representing the concept of business history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Here's what makes business history different from just reading about old compani
 
 Business didn't start with the Industrial Revolution. Commercial activity is as old as civilization itself. Mesopotamian merchants were using contracts, credit, and bookkeeping systems by 2000 BCE — practices you'd recognize in any modern [accounting](/accounting) office, just written on clay tablets instead of spreadsheets.
 
-The ancient Romans built a commercial infrastructure that wouldn't be matched for over a thousand years. Roman roads enabled [international trade](/international-trade) across an empire stretching from Britain to Egypt. Roman law established concepts of contract, property, and partnership that still underpin business law today.
+The ancient Romans built a commercial infrastructure that wouldn't be matched for over a thousand years. Roman roads enabled [international trade](/international-trade) across an empire stretching from Britain to Egypt. Roman law established concepts of contract, property, and partnership that still underpin [business law](/business-law) today.
 
 After Rome's fall, commerce didn't disappear — it just reorganized. Medieval Europe saw the rise of merchant guilds, organizations that regulated trade, set quality standards, and trained apprentices. The guild system was essentially a combination of trade association, labor union, and professional licensing board. If you've ever wondered why certain London streets have names like "Bread Street" or "Milk Street," that's the guild system's geographic legacy.
 
@@ -63,7 +63,7 @@ The Industrial Revolution, beginning in Britain around 1760, is arguably the mos
 
 Before industrialization, most production happened in homes or small workshops. A weaver worked at home on a hand loom. A blacksmith operated a small forge. Production was slow, skilled, and local.
 
-The factory system upended all of that. Richard Arkwright's water-powered spinning mills, beginning in the 1770s, gathered hundreds of workers under one roof, operating machines that could produce far more than any individual craftsperson. Productivity soared. Costs plummeted. And the nature of work changed fundamentally.
+The factory system upended all of that. Richard Arkwright's water-powered spinning mills, beginning in the 1770s, gathered hundreds of workers under one roof, operating machines that could produce far more than any individual craftsperson. [Productivity](/productivity) soared. Costs plummeted. And the nature of work changed fundamentally.
 
 The railroad transformed business geography. Before railways, markets were local. A manufacturer could only sell within the distance a horse could travel. Railways connected distant markets, enabling mass production and mass distribution for the first time. The railroad companies themselves became the first truly large-scale business organizations, requiring management structures that previous businesses never needed.
 

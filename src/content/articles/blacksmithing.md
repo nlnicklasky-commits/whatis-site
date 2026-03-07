@@ -5,7 +5,7 @@ description: "Blacksmithing is the craft of shaping iron and steel by heating me
 category: arts-amp-culture
 tags: ["blacksmithing", "metalworking", "forging", "ironwork", "traditional craft", "anvil"]
 heroImage: "/images/articles/blacksmithing.webp"
-heroAlt: "Blacksmith hammering glowing orange metal on an anvil with sparks flying"
+heroAlt: "Editorial photograph representing the concept of blacksmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Blacksmithing?
 
-Blacksmithing is the craft of [forging](/forging) iron and steel — heating metal in a forge until it becomes malleable, then shaping it with a hammer on an anvil. For thousands of years, blacksmiths made the tools, weapons, hardware, and structural elements that civilization depended on. Today the craft thrives as both functional trade and artistic practice.
+Blacksmithing is the craft of [forging](/forging) iron and steel — heating metal in a forge until it becomes malleable, then shaping it with a hammer on an anvil. For thousands of years, blacksmiths made the tools, weapons, hardware, and structural elements that civilization depended on. Today the craft thrives as both functional [trade](/trade) and artistic practice.
 
 ## The Name Tells the Story
 
@@ -39,9 +39,9 @@ Blacksmithing is the craft of [forging](/forging) iron and steel — heating met
 
 ## Why Blacksmithing Mattered
 
-From the Iron Age (roughly 1200 BCE in the Mediterranean) until the Industrial Revolution, the blacksmith was one of the most important people in any community. They made and repaired virtually everything metal: plows, horseshoes, nails, hinges, locks, chains, knives, axes, wagon hardware, cooking utensils, and — when needed — weapons and armor.
+From the Iron Age (roughly 1200 BCE in the Mediterranean) until the Industrial Revolution, the blacksmith was one of the most important people in any community. They made and repaired virtually everything metal: plows, horseshoes, nails, hinges, locks, chains, knives, axes, wagon hardware, [cooking](/cooking) utensils, and — when needed — weapons and armor.
 
-The village smithy was often the community's technology center. Blacksmiths needed to understand heat, [metallurgy](/materials-science), mechanical advantage, and problem-solving. They were among the few people who could create a tool to specification from raw material. This skill commanded respect — and occasionally superstition. In many cultures, smiths were associated with magic, probably because watching someone turn a lump of rock into a shining blade must have looked pretty magical before anyone understood the chemistry.
+The village smithy was often the community's technology center. Blacksmiths needed to understand heat, [metallurgy](/materials-science), mechanical advantage, and problem-solving. They were among the few people who could create a tool to specification from raw material. This skill commanded respect — and occasionally superstition. In many cultures, smiths were associated with magic, probably because watching someone turn a lump of rock into a shining blade must have looked pretty magical before anyone understood the [chemistry](/chemistry).
 
 ## The Forge Process
 
@@ -57,7 +57,7 @@ The anvil is the blacksmith's work surface — a heavy (100-300+ pound) block of
 
 Basic operations include:
 
-**Drawing out** — Making metal longer and thinner by hammering along its length. This is how a short, thick bar becomes a long, thin blade.
+**[Drawing](/drawing) out** — Making metal longer and thinner by hammering along its length. This is how a short, thick bar becomes a long, thin blade.
 
 **Upsetting** — Making metal shorter and thicker by hammering on the end. The opposite of drawing out.
 
@@ -65,7 +65,7 @@ Basic operations include:
 
 **Punching and drifting** — Creating holes by driving a punch through hot metal, then enlarging them with a drift.
 
-**Forge welding** — The oldest joining technique. Two pieces of steel are heated to near-melting (white heat), brought together, and hammered until they bond at the molecular level. This is how Damascus steel patterns are created — layers of different steels are forge-welded, folded, and welded again, producing distinctive patterns in the finished metal.
+**Forge [welding](/welding)** — The oldest joining technique. Two pieces of steel are heated to near-melting (white heat), brought together, and hammered until they bond at the molecular level. This is how Damascus steel patterns are created — layers of different steels are forge-welded, folded, and welded again, producing distinctive patterns in the finished metal.
 
 ### Finishing
 
@@ -77,13 +77,13 @@ The industrial revolution nearly killed traditional blacksmithing. Factories mas
 
 The craft's revival began in the 1970s and accelerated through the 2000s, driven by several forces:
 
-**Artistic blacksmithing** — Contemporary smiths create architectural elements (gates, railings, furniture), sculpture, and fine art. The combination of fire, force, and metal produces objects with a vitality that cast or machined metal can't match.
+**Artistic blacksmithing** — Contemporary smiths create architectural elements (gates, railings, furniture), [sculpture](/sculpture), and [fine art](/fine-art). The combination of fire, force, and metal produces objects with a vitality that cast or machined metal can't match.
 
 **Bladesmithing** — Knife making has exploded as a hobby and business. Shows like *Forged in Fire* introduced millions of viewers to the craft and inspired a wave of new makers.
 
 **Maker culture** — The broader maker movement values hands-on creation with traditional materials. Blacksmithing fits perfectly — it's physical, creative, and produces tangible results from raw materials.
 
-**Historical recreation** — Renaissance fairs, living history programs, and historical reenactment groups support working smiths who demonstrate and practice period-accurate techniques.
+**Historical recreation** — Renaissance fairs, living history programs, and [historical reenactment](/historical-reenactment) groups support working smiths who demonstrate and practice period-accurate techniques.
 
 The Artist-Blacksmith's Association of North America (ABANA) has thousands of members, and regional blacksmithing groups exist in virtually every U.S. state. Hammer-ins (gatherings where smiths demonstrate, teach, and trade) attract hundreds of participants.
 

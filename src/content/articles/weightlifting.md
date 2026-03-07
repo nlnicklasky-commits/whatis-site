@@ -5,7 +5,7 @@ description: "Weightlifting is the sport of lifting heavy barbells overhead in t
 category: everyday-concepts
 tags: ["weightlifting", "Olympic lifting", "strength training", "fitness", "barbell", "athletics"]
 heroImage: "/images/articles/weightlifting.webp"
-heroAlt: "Athlete performing a snatch lift with a loaded barbell overhead in a competition setting"
+heroAlt: "Editorial photograph representing the concept of weightlifting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -81,19 +81,19 @@ Weightlifting training centers on the two competition lifts and their variations
 
 **Pulls** — Clean pulls and snatch pulls train the pulling pattern with heavier weights than the lifter can successfully lift overhead.
 
-**Accessory work** — Pressing, rowing, and core work address weaknesses and prevent muscle imbalances.
+**Accessory work** — Pressing, [rowing](/rowing), and core work address weaknesses and prevent muscle imbalances.
 
-Training volume and intensity are carefully periodized — cycling through phases of high volume (lots of sets and reps at moderate weight) and high intensity (fewer reps at heavy weight), peaking for competitions.
+Training volume and intensity are carefully periodized — [cycling](/cycling) through phases of high volume (lots of sets and reps at moderate weight) and high intensity (fewer reps at heavy weight), peaking for competitions.
 
 ## Who Does This
 
 Weightlifting is practiced worldwide but has particular strongholds in Eastern Europe (Bulgaria, Russia, Georgia), East Asia (China, North Korea), Central Asia, and Iran. China's weightlifting program is arguably the strongest in the world currently, consistently producing Olympic and World Championship medals across multiple weight classes.
 
-The CrossFit movement introduced millions of people to the Olympic lifts starting in the 2000s. This dramatically increased awareness and participation in weightlifting, though it also created debates about coaching quality and injury risk when complex lifts are performed under fatigue in a competitive workout setting.
+The CrossFit movement introduced millions of people to the Olympic lifts starting in the 2000s. This dramatically increased awareness and participation in weightlifting, though it also created debates about [coaching](/coaching) quality and injury risk when complex lifts are performed under fatigue in a competitive workout setting.
 
 ## Getting Started
 
-Find a coach. This isn't optional advice — it's genuinely the most important recommendation. The Olympic lifts are technical enough that self-teaching from videos creates a high risk of developing bad habits that limit performance and increase injury risk.
+Find a coach. This isn't optional advice — it's genuinely the most important recommendation. The Olympic lifts are technical enough that self-[teaching](/teaching) from videos creates a high risk of developing bad habits that limit performance and increase injury risk.
 
 Most USA Weightlifting clubs welcome beginners and provide coaching for monthly dues of $50-$150. CrossFit gyms often have coaches with weightlifting experience, though quality varies. A good coach will start you with a PVC pipe or empty barbell, spending weeks on positions and movement patterns before adding weight.
 

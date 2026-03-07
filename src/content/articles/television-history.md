@@ -5,7 +5,7 @@ description: "Television history spans from 1920s mechanical experiments to mode
 category: history
 tags: ["television history", "media history", "broadcasting", "tv", "entertainment"]
 heroImage: "/images/articles/television-history.webp"
-heroAlt: "Vintage television set from the 1950s displaying a test pattern"
+heroAlt: "Editorial photograph representing the concept of television history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 Television history is the story of how we went from a 21-year-old inventor producing a flickering image of a straight line in a San Francisco apartment in 1927 to a world where 1.7 billion households have at least one TV set and streaming services produce more original content than anyone could watch in a lifetime.
 
-It's not just a technology story, though the engineering is wild. It's a story about how a single medium reshaped politics, advertising, family life, and culture itself — for better and worse.
+It's not just a technology story, though the [engineering](/engineering) is wild. It's a story about how a single medium reshaped [politics](/politics), advertising, family life, and culture itself — for better and worse.
 
 ## The Inventors Who Argued About It
 
@@ -63,7 +63,7 @@ Two men get the most credit — and they spent years in a patent war.
 
 RCA demonstrated television at the 1939 New York World's Fair. President Franklin Roosevelt became the first U.S. president to appear on television, delivering a speech at the fair's opening. NBC (owned by RCA) began regular broadcasts from New York that same year.
 
-Then World War II froze everything. Television manufacturing halted as factories converted to military production. Fewer than 10,000 TV sets existed in the entire United States in 1945.
+Then [World War II](/world-war-ii) froze everything. Television manufacturing halted as factories converted to military production. Fewer than 10,000 TV sets existed in the entire United States in 1945.
 
 After the war, television exploded. In 1946, about 6,000 American homes had a TV. By 1950, that number was 6 million. By 1955, it was 36 million — more than half of all U.S. households. No consumer technology in history had been adopted that quickly. The closest modern comparison is the smartphone, which took about 10 years to reach 80% penetration.
 
@@ -71,7 +71,7 @@ After the war, television exploded. In 1946, about 6,000 American homes had a TV
 
 The late 1940s and 1950s are called television's Golden Age, and the label isn't nostalgia talking. Live dramatic anthologies like *Playhouse 90* and *Kraft Television Theatre* broadcast original plays by writers like Rod Serling, Paddy Chayefsky, and Reginald Rose. Much of this work was genuinely excellent — Serling's *Patterns* and Chayefsky's *Marty* were both adapted into successful films.
 
-Variety shows dominated the ratings. Milton Berle — "Mr. Television" — reportedly caused a measurable spike in TV set sales. I Love Lucy, which debuted in 1951, was the first show filmed before a live studio audience using a three-camera setup, a technique still used in sitcoms today. At its peak, 67.3% of all American television households watched I Love Lucy.
+Variety shows dominated the ratings. Milton Berle — "Mr. Television" — reportedly caused a measurable spike in TV set [sales](/sales). I Love Lucy, which debuted in 1951, was the first show filmed before a live studio audience using a three-camera setup, a technique still used in sitcoms today. At its peak, 67.3% of all American television households watched I Love Lucy.
 
 But the Golden Age was also deeply limited. Television was overwhelmingly white, male, and middle-class. The three networks — NBC, CBS, and ABC — controlled essentially all programming. Sponsors didn't just buy ad time; they owned entire shows and could (and did) censor content that might offend consumers.
 
@@ -97,13 +97,13 @@ HBO launched as a cable-exclusive channel in 1972. CNN followed in 1980, creatin
 
 Cable fragmented the audience. In 1980, the three broadcast networks captured about 90% of prime-time viewers. By 2000, their combined share had fallen below 50%. Niche channels — ESPN for sports, Discovery for documentaries, Nickelodeon for kids — meant advertisers could target specific demographics rather than broadcasting to everyone.
 
-The cable era also ushered in what's often called the "Second Golden Age" of television. HBO's *The Sopranos* (1999) and *The Wire* (2002) demonstrated that serialized television drama could rival cinema in ambition and craft. AMC's *Breaking Bad*, FX's *The Shield*, and dozens of others followed. The common factor: cable channels could take creative risks that broadcast networks, dependent on mass audiences and advertiser skittishness, could not.
+The cable era also ushered in what's often called the "Second Golden Age" of television. HBO's *The Sopranos* (1999) and *The Wire* (2002) demonstrated that serialized television [drama](/drama) could rival cinema in ambition and craft. AMC's *Breaking Bad*, FX's *The Shield*, and dozens of others followed. The common factor: cable channels could take creative risks that broadcast networks, dependent on mass audiences and advertiser skittishness, could not.
 
 ## The Digital Transition
 
 The switch from analog to digital broadcasting was the biggest technical change since color. Digital signals could carry more information in the same bandwidth, enabling high-definition (HD) picture quality — 1,080 lines of resolution compared to analog's 480.
 
-The U.S. completed its transition on June 12, 2009, when analog broadcast signals were permanently shut off. An estimated 2.8 million households were unprepared and lost their TV signal that day, despite years of government-funded PSA campaigns and a coupon program for converter boxes.
+The U.S. completed its transition on June 12, 2009, when analog broadcast signals were permanently shut off. An estimated 2.8 million households were unprepared and lost their TV signal that day, despite years of [government](/government)-funded PSA campaigns and a coupon program for converter boxes.
 
 HD changed how television looked. Shows shot in widescreen format with cinematic lighting became the norm. Sets and makeup departments had to up their game dramatically — what looked fine in standard definition looked cheap in HD.
 
@@ -126,7 +126,7 @@ The binge model — releasing entire seasons at once rather than weekly episodes
 
 ## What Television Did to Us (and for Us)
 
-Television's cultural impact is difficult to overstate. It homogenized American English — regional accents softened as people heard standardized speech nightly. It shaped political campaigns — the 1960 Kennedy-Nixon debate, widely considered a turning point, is the classic example of TV's political influence. Listeners who heard the debate on radio thought Nixon won; viewers who watched on television gave it to the more photogenic Kennedy.
+Television's cultural impact is difficult to overstate. It homogenized American English — regional accents softened as people heard standardized speech nightly. It shaped political campaigns — the 1960 Kennedy-Nixon [debate](/debate), widely considered a turning point, is the classic example of TV's political influence. Listeners who heard the debate on radio thought Nixon won; viewers who watched on television gave it to the more photogenic Kennedy.
 
 Television created shared cultural moments — 106 million Americans watching the *M*A*S*H* finale in 1983, 114 million watching the Super Bowl. It also created echo chambers, filter bubbles, and the 24-hour news cycle's incentive to sensationalize.
 

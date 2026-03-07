@@ -5,7 +5,7 @@ description: "Oligopoly theory studies markets dominated by a few large firms. L
 category: finance
 tags: ["oligopoly", "market structure", "economics", "game theory", "industrial organization", "market competition"]
 heroImage: "/images/articles/oligopoly-theory-hero.webp"
-heroAlt: "Chess pieces on a board representing strategic competition between firms"
+heroAlt: "Editorial photograph representing the concept of oligopoly theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Oligopoly theory is the branch of [economics](/economics) that studies markets dominated by a small number of large firms — typically between two and ten — whose decisions are strategically interdependent. When Coca-Cola sets its price, Pepsi responds. When Boeing announces a new aircraft, Airbus adjusts its plans. When one wireless carrier offers unlimited data, the others follow within weeks. That mutual awareness and strategic reaction is what makes oligopoly different from every other market structure, and what makes it so analytically interesting.
 
-Most of the economy you actually interact with is oligopolistic. Airlines, automakers, wireless carriers, banks, streaming services, social media platforms, credit card networks, smartphone manufacturers, cloud computing providers — these aren't perfectly competitive markets with thousands of small firms, and they aren't monopolies with just one. They're oligopolies, and understanding how they work explains a lot about why prices are what they are, why products look the way they do, and why certain industries seem to move in lockstep.
+Most of the economy you actually interact with is oligopolistic. Airlines, automakers, wireless carriers, banks, streaming services, social media platforms, credit card networks, smartphone manufacturers, [cloud computing](/cloud-computing) providers — these aren't perfectly competitive markets with thousands of small firms, and they aren't monopolies with just one. They're oligopolies, and understanding how they work explains a lot about why prices are what they are, why products look the way they do, and why certain industries seem to move in lockstep.
 
 ## The Basic Problem: Interdependence
 
@@ -45,7 +45,7 @@ In a perfectly competitive market (many small firms, identical products), no sin
 
 Oligopoly is messy precisely because firms are interdependent. When you're one of four airlines serving a route, your pricing decision depends on what the other three will charge. But their pricing depends on what you'll charge. And everyone knows this. The result is a strategic situation that can't be solved without thinking about what your rivals are thinking about what you're thinking about.
 
-This circular reasoning is why oligopoly theory has been deeply connected to game theory since the mid-20th century. The tools for analyzing strategic interaction — developed by John von Neumann, John Nash, and others — turned out to be exactly what economists needed to make sense of oligopolistic competition.
+This circular reasoning is why oligopoly theory has been deeply connected to [game theory](/game-theory) since the mid-20th century. The tools for analyzing strategic interaction — developed by John von Neumann, John Nash, and others — turned out to be exactly what economists needed to make sense of oligopolistic competition.
 
 ## Classical Models: The Foundations
 
@@ -63,7 +63,7 @@ As the number of Cournot competitors increases, the equilibrium approaches perfe
 
 Joseph Bertrand criticized Cournot by arguing that firms compete on price, not quantity. In Bertrand's model, firms set prices simultaneously, and consumers buy from the lowest-priced firm.
 
-The result is startling: with just two firms selling identical products and having the same costs, the equilibrium price equals marginal cost — the perfectly competitive outcome. The logic: if Firm A charges above marginal cost, Firm B can undercut by a tiny amount and capture the entire market. But then Firm A undercuts Firm B. This spirals down until price equals cost.
+The result is startling: with just two firms selling identical products and having the same costs, the equilibrium price equals marginal cost — the perfectly competitive outcome. The [logic](/logic): if Firm A charges above marginal cost, Firm B can undercut by a tiny amount and capture the entire market. But then Firm A undercuts Firm B. This spirals down until price equals cost.
 
 This "Bertrand paradox" — that two firms are enough for competitive pricing — was troubling because it clearly didn't match reality. Two gas stations across the street don't charge marginal cost. The resolution involves product differentiation, capacity constraints, and repeated interaction.
 
@@ -75,7 +75,7 @@ Heinrich von Stackelberg introduced sequential decision-making. Instead of choos
 
 The leader benefits because it can commit to a strategy that's favorable given how the follower will respond. In a quantity-setting game, the Stackelberg leader produces more and earns higher profits than in the Cournot model. The follower produces less.
 
-This captures real markets where established firms have first-mover advantages. Amazon choosing warehouse locations before rivals enter a market, Intel setting chip architecture standards before AMD responds, or Walmart selecting store locations before Target — these have Stackelberg characteristics.
+This captures real markets where established firms have first-mover advantages. Amazon choosing warehouse locations before rivals enter a market, Intel setting chip [architecture](/architecture) standards before AMD responds, or Walmart selecting store locations before Target — these have Stackelberg characteristics.
 
 ## Game Theory and Oligopoly
 
@@ -103,7 +103,7 @@ Tacit collusion is more likely when:
 
 Airlines, gasoline retailers, and cement companies often display characteristics consistent with tacit collusion. Prices tend to be similar, change simultaneously, and remain above what cost structures would suggest in a competitive market.
 
-### Price Leadership
+### Price [Leadership](/leadership)
 
 One common coordination mechanism is price leadership. One firm (usually the largest) announces a price change, and others follow. This isn't necessarily illegal collusion — it can simply be rational behavior when firms recognize their interdependence.
 
@@ -165,7 +165,7 @@ Multi-homing (users using multiple platforms simultaneously) and platform envelo
 
 ### Behavioral Oligopoly
 
-Traditional oligopoly theory assumes firms are perfectly rational profit maximizers. Behavioral economics research suggests that real managers exhibit cognitive biases — overconfidence, loss aversion, anchoring — that affect strategic decisions. Laboratory experiments show that subjects in oligopoly games often don't play Nash equilibrium strategies, especially when the game is complex.
+Traditional oligopoly theory assumes firms are perfectly rational profit maximizers. [Behavioral economics](/behavioral-economics) research suggests that real managers exhibit cognitive biases — overconfidence, loss aversion, anchoring — that affect strategic decisions. Laboratory experiments show that subjects in oligopoly games often don't play Nash equilibrium strategies, especially when the game is complex.
 
 ### Active Competition
 
@@ -187,4 +187,4 @@ Understanding oligopoly doesn't just help you make sense of business news. It he
 
 The economy isn't a textbook model of perfect competition. It's a collection of oligopolistic industries where a small number of firms make strategic decisions that affect millions of consumers. Oligopoly theory is the toolkit for understanding those decisions — and their consequences for everyone else.
 
-Whether you're studying [economics](/economics), evaluating [business strategy](/business-strategy), analyzing investments, or just trying to understand why your phone bill is so high, oligopoly theory provides the framework. The strategic dance between a few powerful firms shapes prices, innovation, quality, and choice in most of the markets that matter. Understanding that dance is understanding how the modern economy actually works — as opposed to how textbook models say it should.
+Whether you're studying [economics](/economics), evaluating [business strategy](/business-strategy), analyzing investments, or just trying to understand why your phone bill is so high, oligopoly theory provides the framework. The strategic [dance](/dance) between a few powerful firms shapes prices, innovation, quality, and choice in most of the markets that matter. Understanding that dance is understanding how the modern economy actually works — as opposed to how textbook models say it should.

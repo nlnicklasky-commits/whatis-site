@@ -5,7 +5,7 @@ description: "Strategic planning is the process of setting organizational goals 
 category: business
 tags: ["management", "strategic planning", "business", "goal setting"]
 heroImage: "/images/articles/strategic-planning.webp"
-heroAlt: "Whiteboard covered in sticky notes and diagrams during a strategic planning session"
+heroAlt: "Editorial photograph representing the concept of strategic planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ Before setting goals, you need to know what your organization exists to do.
 
 **Values** — The principles that guide behavior and decision-making. Values matter most when they're tested — when following them costs something. A company that lists "integrity" as a value but looks the other way when a top performer behaves badly doesn't actually have integrity as a value. It has it as wall decoration.
 
-Many organizations skip or rush this step. That's a mistake. If your leadership team can't agree on what the organization fundamentally exists to do, everything downstream will be confused.
+Many organizations skip or rush this step. That's a mistake. If your [leadership](/leadership) team can't agree on what the organization fundamentally exists to do, everything downstream will be confused.
 
 ### Step 2: Assess the Current Situation
 
@@ -77,7 +77,7 @@ You can't plan a route without knowing your starting point. Strategic assessment
 
 This is where the plan starts to take shape. Strategic goals are the big outcomes you're pursuing over the next three to five years. Objectives are the specific, measurable targets that ladder up to those goals.
 
-The SMART framework (Specific, Measurable, Achievable, Relevant, Time-bound) is the standard for writing good objectives. Compare:
+The SMART framework (Specific, Measurable, Achievable, Relevant, Time-bound) is the standard for [writing](/writing) good objectives. Compare:
 
 - Bad: "Improve customer satisfaction"
 - Better: "Increase Net Promoter Score from 42 to 55 by December 2027"
@@ -110,7 +110,7 @@ Common implementation failures include:
 - **Misaligned incentives** — If people are rewarded for doing things that conflict with the strategy, guess which wins?
 - **No accountability mechanisms** — When everyone is responsible for strategy, nobody is responsible for strategy.
 - **Resource constraints** — New strategies are piled on top of existing workloads without removing anything. People are stretched too thin to execute any of it well.
-- **Middle management resistance** — Senior leaders set the strategy, but middle managers make it happen (or don't). If they weren't involved in planning and don't buy in, implementation stalls.
+- **Middle [management](/management) resistance** — Senior leaders set the strategy, but middle managers make it happen (or don't). If they weren't involved in planning and don't buy in, implementation stalls.
 
 ### Step 6: Monitor, Evaluate, and Adjust
 
@@ -131,7 +131,7 @@ Having facilitated or studied hundreds of strategic planning processes, consulta
 
 **The blank wall problem.** Leadership teams generate lists of everything they could do but struggle to prioritize. Everything feels important. The result is a plan with 27 "top priorities" — which is the same as having none.
 
-**The disconnect between strategy and budget.** The strategic plan says one thing. The budget says another. When they conflict, the budget always wins because the budget controls what actually gets resourced. Strategic planning and budgeting should be integrated, not separate processes.
+**The disconnect between strategy and budget.** The strategic plan says one thing. The budget says another. When they conflict, the budget always wins because the budget controls what actually gets resourced. Strategic planning and [budgeting](/budgeting) should be integrated, not separate processes.
 
 **Planning for the plan's sake.** The goal of strategic planning is not to produce a document. It's to produce clarity, alignment, and better decisions. If the process generates a beautiful document that sits on a shelf, it failed — no matter how well-formatted it is.
 

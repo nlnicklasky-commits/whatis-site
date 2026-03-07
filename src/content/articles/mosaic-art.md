@@ -5,7 +5,7 @@ description: "Mosaic art creates images and patterns from small pieces of stone,
 category: arts-amp-culture
 tags: ["mosaic", "art", "tesserae", "grout", "decorative arts", "ancient art"]
 heroImage: "/images/articles/mosaic-art.webp"
-heroAlt: "Close-up of a colorful mosaic wall made from glass and ceramic tesserae"
+heroAlt: "Editorial photograph representing the concept of mosaic art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Mosaic art is the technique of creating images, patterns, and decorative surfaces from small pieces of colored material — stone, glass, ceramic, or other hard substances — arranged and set into a binding medium like mortar or adhesive. Each individual piece is called a tessera (plural: tesserae), and the spaces between them are filled with grout.
 
-It's one of the oldest art forms on the planet. The mosaics of ancient Rome, the gold-backed glass of Byzantine churches, the geometric tilework of Islamic architecture, and the vibrant community murals of modern cities all share the same fundamental technique: small pieces, carefully placed, adding up to something much larger than any individual fragment.
+It's one of the oldest art forms on the planet. The mosaics of ancient Rome, the gold-backed glass of Byzantine churches, the geometric tilework of Islamic [architecture](/architecture), and the vibrant community murals of modern cities all share the same fundamental technique: small pieces, carefully placed, adding up to something much larger than any individual fragment.
 
 ## A Long History
 
@@ -63,8 +63,8 @@ Islamic architecture developed geometric and calligraphic mosaic traditions of e
 
 Contemporary mosaic artists have pushed the medium far beyond traditional decoration. Artists like Invader (who installs pixelated mosaic characters on buildings worldwide), Isaiah Zagar (whose Magic Gardens in Philadelphia cover entire buildings), and numerous public art practitioners have brought mosaics into streetscapes and contemporary art galleries.
 
-Community mosaic projects have become popular tools for public art and neighborhood engagement. Groups create collaborative murals, benches, and installations that involve community members in the design and construction process.
+Community mosaic projects have become popular tools for public art and neighborhood engagement. Groups create collaborative murals, benches, and installations that involve community members in the design and [construction](/construction) process.
 
-The craft is accessible to beginners — you don't need drawing skill, just patience and an eye for color and pattern. Mosaic workshops and classes are widely available, and the materials are inexpensive. Start with a simple stepping stone or trivet, and work up from there.
+The craft is accessible to beginners — you don't need [drawing](/drawing) skill, just patience and an eye for color and pattern. Mosaic workshops and classes are widely available, and the materials are inexpensive. Start with a simple stepping stone or trivet, and work up from there.
 
 There's something uniquely satisfying about mosaic's additive process. Each piece is small and simple. But placed together — hundreds, thousands, sometimes millions of small pieces — they create something far greater than any individual fragment. It's a pretty good metaphor for collective effort. And it's been working, as both art and metaphor, for over 4,000 years.

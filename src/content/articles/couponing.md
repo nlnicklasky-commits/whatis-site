@@ -5,7 +5,7 @@ description: "Couponing is the practice of using discount vouchers to save money
 category: everyday-concepts
 tags: ["couponing", "savings", "discounts", "frugal", "budgeting", "shopping"]
 heroImage: "/images/articles/couponing.webp"
-heroAlt: "A stack of colorful coupons and a pair of scissors on a kitchen table"
+heroAlt: "Editorial photograph representing the concept of couponing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Couponing is the practice of collecting and using discount vouchers — paper or
 
 ## A Brief History of the Coupon
 
-Asa Candler, an early owner of Coca-Cola, is credited with distributing the first known coupons in 1887 — handwritten tickets for a free glass of Coke. By 1913, the company had given away 8.5 million free drinks through coupons. Other companies noticed. By the 1940s, couponing was a standard marketing practice.
+Asa Candler, an early owner of Coca-Cola, is credited with distributing the first known coupons in 1887 — handwritten tickets for a free glass of Coke. By 1913, the company had given away 8.5 million free drinks through coupons. Other companies noticed. By the 1940s, couponing was a standard [marketing](/marketing) practice.
 
 The golden age of paper couponing ran from the 1960s through the 2000s. Sunday newspaper inserts (called FSIs — Free-Standing Inserts) became the primary delivery mechanism. At peak usage in 2011, manufacturers distributed 315 billion paper coupons in the United States. That number has since dropped by over 90% as the industry shifts digital.
 
@@ -53,7 +53,7 @@ The golden age of paper couponing ran from the 1960s through the 2000s. Sunday n
 
 Casual couponing — grabbing whatever coupons happen to be available — saves a modest amount. Strategic couponing multiplies those savings dramatically. Here's how dedicated couponers approach it.
 
-**Match coupons to sales.** The biggest savings happen when a coupon coincides with a store sale. If a product normally costs $4.00, goes on sale for $2.50, and you have a $1.00 manufacturer coupon, you're paying $1.50 — a 62.5% savings. Dedicated couponers track sale cycles (most products go on sale every 6-12 weeks) and time their coupon use accordingly.
+**Match coupons to [sales](/sales).** The biggest savings happen when a coupon coincides with a store sale. If a product normally costs $4.00, goes on sale for $2.50, and you have a $1.00 manufacturer coupon, you're paying $1.50 — a 62.5% savings. Dedicated couponers track sale cycles (most products go on sale every 6-12 weeks) and time their coupon use accordingly.
 
 **Stack offers.** Use a manufacturer coupon, a store coupon, and a cashback app on the same purchase. Each discount comes from a different source, so stacking is generally allowed (check individual store policies).
 
@@ -75,9 +75,9 @@ The shift from paper to digital has been dramatic. Paper coupon distribution dro
 
 Store loyalty apps have become the primary couponing tool for most shoppers. Target Circle, Kroger's app, and Walmart's Savings Catcher integrate coupons with purchase history, personalized offers, and price matching — creating a seamless experience that requires far less effort than clipping papers.
 
-The convenience is real, but so is the data trade-off. When you use a store app, the retailer tracks every purchase, building detailed profiles of your buying habits. This data is valuable for targeted marketing. Whether the savings justify the privacy trade is a personal decision.
+The convenience is real, but so is the data [trade](/trade)-off. When you use a store app, the retailer tracks every purchase, building detailed profiles of your buying habits. This data is valuable for targeted marketing. Whether the savings justify the privacy trade is a personal decision.
 
-## The Psychology
+## The [Psychology](/psychology)
 
 Coupons work partly because of genuine savings and partly because of psychology. The satisfaction of getting a deal activates reward pathways in the brain — neuroimaging studies have shown that saving money with a coupon produces dopamine responses similar to winning a small game.
 

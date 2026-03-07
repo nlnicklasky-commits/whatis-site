@@ -5,7 +5,7 @@ description: "Trail running is the sport of running on unpaved paths through nat
 category: sports
 tags: ["trail running", "running", "outdoor sports", "nature", "endurance", "ultramarathon"]
 heroImage: "/images/articles/trail-running.webp"
-heroAlt: "A trail runner navigating a mountain path with scenic views behind them"
+heroAlt: "Editorial photograph representing the concept of trail running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,11 +47,11 @@ And then there's the mental component. Trail running demands attention. You can'
 
 **Trail shoes** — The most essential piece. Deep lugs for traction, reinforced toes, and a stiffer midsole for protection against rocks. Major brands (Salomon, Hoka, Brooks, La Sportiva) offer trail-specific models.
 
-**Hydration** — Trails rarely have water fountains. Running vests or hydration packs with water reservoirs and space for nutrition, emergency supplies, and extra layers are standard for anything beyond a short outing.
+**Hydration** — Trails rarely have water fountains. Running vests or hydration packs with water reservoirs and space for [nutrition](/nutrition), emergency supplies, and extra layers are standard for anything beyond a short outing.
 
-**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-physiology) runners consume thousands of calories during races.
+**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-[physiology](/physiology)) runners consume thousands of calories during races.
 
-**Navigation** — GPS watches, phone apps (like AllTrails or Gaia GPS), and occasionally old-fashioned maps and compasses. Getting lost on trails is a real possibility.
+**[Navigation](/navigation)** — GPS watches, phone apps (like AllTrails or Gaia GPS), and occasionally old-fashioned maps and compasses. Getting lost on trails is a real possibility.
 
 ## Competitive Trail Running
 
@@ -61,18 +61,18 @@ Trail racing ranges from 5K fun runs on local paths to ultramarathons of 100+ mi
 - **Western States 100** — The oldest 100-mile trail race, through California's Sierra Nevada
 - **Hardrock 100** — 100 miles through Colorado's San Juan Mountains at extreme altitude
 
-Trail running became a World Athletics-recognized discipline, with a world championship series attracting elite competitors from around the globe.
+Trail running became a World [Athletics](/athletics)-recognized discipline, with a world championship series attracting elite competitors from around the globe.
 
 ## Health Benefits
 
 - **Joint-friendly** — Softer surfaces reduce impact compared to pavement
 - **Full-body workout** — Elevation changes and uneven terrain engage more muscles
-- **Mental health** — Research consistently shows that exercise in natural settings improves mood, reduces anxiety, and enhances cognitive function more than indoor or urban exercise
+- **[Mental health](/mental-health)** — Research consistently shows that exercise in natural settings improves mood, reduces anxiety, and enhances cognitive function more than indoor or urban exercise
 - **Balance and proprioception** — Navigating uneven terrain develops balance and body awareness
-- **Cardiovascular fitness** — Hill climbing provides excellent [aerobic](/sports-science) and anaerobic training
+- **Cardiovascular [fitness](/fitness)** — Hill climbing provides excellent [aerobic](/sports-science) and anaerobic training
 
 ## Getting Started
 
 Start easy. Find a local park with maintained trails — nothing too technical or steep. Run slowly. Walk the uphills (even elite trail runners walk steep climbs). Pay attention to your footing. Bring water. Tell someone where you're going.
 
-The transition from road to trail humbles most runners initially. Your pace will be much slower. Your muscles will be sore in new places. But the trade-off — running through forest, along ridgelines, beside streams, with the sounds of nature instead of traffic — converts most people within their first few outings. Trail running doesn't just feel like a different sport. It feels like a different experience of being alive.
+The transition from road to trail humbles most runners initially. Your pace will be much slower. Your muscles will be sore in new places. But the [trade](/trade)-off — running through forest, along ridgelines, beside streams, with the sounds of nature instead of traffic — converts most people within their first few outings. Trail running doesn't just feel like a different sport. It feels like a different experience of being alive.

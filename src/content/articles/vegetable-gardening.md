@@ -5,7 +5,7 @@ description: "Vegetable gardening is growing edible plants at home or in communi
 category: lifestyle
 tags: ["vegetable gardening", "gardening", "growing food", "home garden", "organic", "sustainability"]
 heroImage: "/images/articles/vegetable-gardening.webp"
-heroAlt: "Lush backyard vegetable garden with tomato plants, lettuce rows, and a wooden fence"
+heroAlt: "Editorial photograph representing the concept of vegetable gardening"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Vegetable Gardening?
 
-Vegetable gardening is growing edible plants — from seed or transplant to harvest — in a dedicated space, whether that's a backyard plot, a raised bed, a community garden allotment, or a collection of containers on a balcony. It's one of the oldest human activities (agriculture started roughly 10,000 years ago), and it remains one of the most practical hobbies you can pick up. You put seeds in dirt, take care of them, and eat the results.
+Vegetable gardening is growing edible plants — from seed or transplant to harvest — in a dedicated space, whether that's a backyard plot, a raised bed, a community garden allotment, or a collection of containers on a balcony. It's one of the oldest human activities ([agriculture](/agriculture) started roughly 10,000 years ago), and it remains one of the most practical hobbies you can pick up. You put seeds in dirt, take care of them, and eat the results.
 
 ## Why People Do This
 
 The reasons are practical and personal in roughly equal measure.
 
-**The food tastes better.** This isn't subjective cheerleading — there's a real difference. Commercial produce is bred for shipping durability, shelf life, and appearance. Home garden varieties are bred for flavor. A tomato picked ripe from your garden versus a tomato picked green and shipped 1,500 miles — the comparison isn't close.
+**The food tastes better.** This isn't subjective [cheerleading](/cheerleading) — there's a real difference. Commercial produce is bred for shipping durability, shelf life, and appearance. Home garden varieties are bred for flavor. A tomato picked ripe from your garden versus a tomato picked green and shipped 1,500 miles — the comparison isn't close.
 
-**The economics work.** A packet of lettuce seeds costs $3 and produces enough salad greens for months. A packet of zucchini seeds costs $3 and produces more zucchini than you, your neighbors, and your neighbors' neighbors can consume. The National Gardening Association estimates that a well-maintained food garden yields $600 worth of produce annually for a $70 investment.
+**The [economics](/economics) work.** A packet of lettuce seeds costs $3 and produces enough salad greens for months. A packet of zucchini seeds costs $3 and produces more zucchini than you, your neighbors, and your neighbors' neighbors can consume. The National Gardening Association estimates that a well-maintained food garden yields $600 worth of produce annually for a $70 investment.
 
-**The exercise is real.** Gardening burns 200-400 calories per hour depending on the task. Digging, hauling compost, weeding, and harvesting involve bending, lifting, and walking. It's not a gym workout, but it's consistent physical activity outdoors, which research consistently links to improved mental health.
+**The exercise is real.** Gardening burns 200-400 calories per hour depending on the task. Digging, hauling compost, weeding, and harvesting involve bending, lifting, and [walking](/walking). It's not a gym workout, but it's consistent physical activity outdoors, which research consistently links to improved [mental health](/mental-health).
 
 **You know what's on your food.** Growing your own means you control what goes on it (or doesn't). No mystery pesticides, no weeks-old harvest dates, no plastic packaging.
 
@@ -78,7 +78,7 @@ Vegetables divide into two groups based on temperature preference:
 
 **Cool-season crops** grow best at 40-75°F. They tolerate light frost and actually taste better in cool weather (cold stress converts starches to sugars). Plant these in early spring and again in early fall: lettuce, spinach, peas, broccoli, kale, carrots, radishes, and beets.
 
-**Warm-season crops** need soil temperatures above 60°F and die at frost. Plant after your last frost date: tomatoes, peppers, squash, cucumbers, beans, corn, and melons.
+**Warm-season crops** need soil temperatures above 60°F and die at frost. Plant after your last frost date: tomatoes, peppers, [squash](/squash), cucumbers, beans, corn, and melons.
 
 Your local cooperative extension service publishes planting calendars specific to your region. These are free, specific, and far more reliable than generic advice on the internet.
 
@@ -86,13 +86,13 @@ Your local cooperative extension service publishes planting calendars specific t
 
 Gardening requires consistent, moderate effort rather than occasional heroic sessions.
 
-**Watering** — Most vegetables need about 1 inch of water per week, whether from rain or irrigation. Deep, infrequent watering (soaking the soil thoroughly every few days) produces healthier plants than shallow daily sprinkling, because it encourages deep root growth.
+**Watering** — Most vegetables need about 1 inch of water per week, whether from rain or [irrigation](/irrigation). Deep, infrequent watering (soaking the soil thoroughly every few days) produces healthier plants than shallow daily sprinkling, because it encourages deep root growth.
 
 **Weeding** — Weeds compete for water, nutrients, and light. Fifteen minutes of weeding twice a week keeps things manageable. Mulch (straw, wood chips, or leaves spread 2-3 inches thick around plants) suppresses weeds dramatically and retains soil moisture.
 
 **Feeding** — Vegetables are hungry. Compost worked into the soil at planting time provides a slow-release nutrient base. Mid-season side-dressing with compost or balanced organic fertilizer keeps heavy feeders (tomatoes, squash, corn) producing.
 
-**Pest management** — Something will eat your plants. Aphids, hornworms, squash bugs, and deer are garden constants. Handpicking large insects, encouraging beneficial predators (ladybugs, lacewings), and using physical barriers (row cover, fencing) handle most problems without pesticides.
+**Pest [management](/management)** — Something will eat your plants. Aphids, hornworms, squash bugs, and deer are garden constants. Handpicking large insects, encouraging beneficial predators (ladybugs, lacewings), and using physical barriers (row cover, [fencing](/fencing)) handle most problems without pesticides.
 
 ## The Honest Assessment
 

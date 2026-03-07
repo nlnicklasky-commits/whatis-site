@@ -5,7 +5,7 @@ description: "Obstetrics is the medical specialty focused on pregnancy, childbir
 category: health-amp-wellness
 tags: ["obstetrics", "pregnancy", "childbirth", "maternal health"]
 heroImage: "/images/articles/obstetrics.webp"
-heroAlt: "Obstetrician performing an ultrasound on a pregnant woman in a clinical setting"
+heroAlt: "Editorial photograph representing the concept of obstetrics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Obstetrics covers roughly a 10-month window — from conception through about si
 
 Things can go wrong at every stage. And when they do, the stakes are about as high as they get in medicine — you have two patients at once.
 
-Most obstetricians are also trained in gynecology and practice as OB/GYNs. Their residency training lasts four years after medical school and includes extensive experience in surgery, emergency management, and outpatient care. Some go further: a fellowship in maternal-fetal medicine (MFM) adds 2-3 years of specialized training in high-risk pregnancies.
+Most obstetricians are also trained in gynecology and practice as OB/GYNs. Their residency training lasts four years after medical school and includes extensive experience in [surgery](/surgery), emergency [management](/management), and outpatient care. Some go further: a fellowship in maternal-fetal medicine (MFM) adds 2-3 years of specialized training in high-risk pregnancies.
 
 ## Prenatal Care: The Long Game
 
@@ -51,13 +51,13 @@ The majority of obstetric work happens before anyone enters a delivery room. Pre
 
 ### First Trimester (Weeks 1-12)
 
-The initial visit is typically the longest. The obstetrician confirms the pregnancy (usually via blood test measuring human chorionic gonadotropin, or hCG), estimates the due date, takes a thorough medical history, and orders baseline blood work — blood type, Rh factor, complete blood count, STI screening, rubella immunity, and sometimes genetic carrier screening.
+The initial visit is typically the longest. The obstetrician confirms the pregnancy (usually via blood test measuring human chorionic gonadotropin, or hCG), estimates the due date, takes a thorough [medical history](/medical-history), and orders baseline blood work — blood type, Rh factor, complete blood count, STI screening, rubella immunity, and sometimes genetic carrier screening.
 
 An early ultrasound — often performed between 8 and 12 weeks — confirms the pregnancy location (ruling out ectopic pregnancy), checks for fetal heartbeat, and establishes gestational age. Hearing that heartbeat for the first time is, frankly, one of those moments in medicine that never gets routine for anyone in the room.
 
 ### Second Trimester (Weeks 13-27)
 
-The anatomy scan — a detailed ultrasound typically done around 18 to 22 weeks — examines fetal organs, limbs, spine, brain, and heart. It can also determine sex, if the parents want to know. This is when many structural abnormalities, if present, are first detected.
+The [anatomy](/anatomy) scan — a detailed ultrasound typically done around 18 to 22 weeks — examines fetal organs, limbs, spine, brain, and heart. It can also determine sex, if the parents want to know. This is when many structural abnormalities, if present, are first detected.
 
 The glucose tolerance test, usually administered between 24 and 28 weeks, screens for gestational diabetes — a form of diabetes that develops during pregnancy and affects about 6% to 9% of pregnancies. Untreated gestational diabetes can lead to excessively large babies (macrosomia), birth injuries, and neonatal complications.
 
@@ -87,7 +87,7 @@ After the baby is born, the placenta must be delivered — usually within 5 to 3
 
 The C-section is probably the most widely recognized obstetric procedure. It involves delivering the baby through surgical incisions in the abdomen and uterus, typically using regional anesthesia (spinal or epidural) so the mother is awake.
 
-About 32% of U.S. deliveries are via C-section — a rate that many experts consider too high. The World Health Organization estimates the medically necessary rate is around 10-15%. The gap is complicated: some of the excess reflects defensive medicine (fear of lawsuits), some reflects scheduling convenience, and some reflects cascade effects where one intervention (induction, epidural, continuous monitoring) increases the likelihood of surgical delivery.
+About 32% of U.S. deliveries are via C-section — a rate that many experts consider too high. The World Health Organization estimates the medically necessary rate is around 10-15%. The gap is complicated: some of the excess reflects defensive medicine (fear of lawsuits), some reflects [scheduling](/scheduling) convenience, and some reflects cascade effects where one intervention (induction, epidural, continuous monitoring) increases the likelihood of surgical delivery.
 
 That said, C-sections save lives. Conditions like complete placenta previa, cord prolapse, and certain cases of fetal distress make vaginal delivery dangerous or impossible. The procedure has gotten remarkably safe — the mortality rate for planned C-sections in developed countries is roughly 0.013%.
 
@@ -107,15 +107,15 @@ Most pregnancies proceed normally. But obstetrics exists as a specialty precisel
 
 Here's a number that should bother you: the United States has a maternal mortality rate of about 22.3 deaths per 100,000 live births (2022 data). That's the worst among wealthy nations — roughly three times the rate of the United Kingdom and ten times that of Norway.
 
-The disparities within that number are even more alarming. Black women in the United States die from pregnancy-related causes at roughly three times the rate of white women. This disparity persists even after controlling for income and education, pointing to systemic issues in how healthcare is delivered and accessed.
+The disparities within that number are even more alarming. Black women in the United States die from pregnancy-related causes at roughly three times the rate of white women. This disparity persists even after controlling for income and [education](/education), pointing to systemic issues in how healthcare is delivered and accessed.
 
 Addressing maternal mortality is one of the most urgent challenges in modern obstetrics. It involves better hemorrhage protocols, improved management of cardiovascular conditions during pregnancy, expanded access to prenatal care, and confronting the racial biases embedded in medical practice.
 
-## Modern Obstetrics: Technology and Debate
+## Modern Obstetrics: Technology and [Debate](/debate)
 
 Obstetrics is one of the most technologically advanced medical specialties. Fetal monitoring, advanced imaging, genetic screening, and surgical techniques have made pregnancy safer than at any point in human history.
 
-But technology brings tension. The field is caught between two competing philosophies: the medical model, which treats pregnancy as a condition requiring monitoring and intervention, and the midwifery model, which views pregnancy as a natural process that usually needs support rather than management.
+But technology brings tension. The field is caught between two competing philosophies: the medical model, which treats pregnancy as a condition requiring monitoring and intervention, and the [midwifery](/midwifery) model, which views pregnancy as a natural process that usually needs support rather than management.
 
 Both perspectives have merit. The medical model has saved countless lives through interventions like emergency C-sections, neonatal intensive care, and preeclampsia management. The midwifery model correctly points out that most pregnancies are low-risk and that excessive intervention can cause harm — unnecessary C-sections carry surgical risks, continuous electronic fetal monitoring increases C-section rates without improving outcomes, and routine episiotomies (once nearly universal) have been shown to cause more harm than selective use.
 

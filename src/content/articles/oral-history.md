@@ -5,7 +5,7 @@ description: "Oral history is the practice of recording firsthand accounts from 
 category: history
 tags: ["oral history", "historical research", "interviews", "social history"]
 heroImage: "/images/articles/oral-history.webp"
-heroAlt: "A researcher recording an elderly person's memories with a microphone and notebook"
+heroAlt: "Editorial photograph representing the concept of oral history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Oral history is the systematic practice of recording, preserving, and interpreti
 
 People have been passing down stories by word of mouth for as long as humans have existed. But oral history as a formal academic discipline? That's surprisingly recent.
 
-The modern movement started in 1948, when Allan Nevins at Columbia University launched the first organized oral history program in the United States. Nevins had a straightforward worry: important figures were dying without anyone recording their experiences in detail. Written records — official memos, newspaper clippings, government documents — only told part of the story. The stuff that happened behind closed doors, the reasoning behind decisions, the human texture of events — all of that was vanishing.
+The modern movement started in 1948, when Allan Nevins at Columbia University launched the first organized oral history program in the United States. Nevins had a straightforward worry: important figures were dying without anyone recording their experiences in detail. Written records — official memos, newspaper clippings, [government](/government) documents — only told part of the story. The stuff that happened behind closed doors, the reasoning behind decisions, the human texture of events — all of that was vanishing.
 
 Nevins began recording interviews with prominent Americans on reel-to-reel tape. The idea caught on fast. By the 1960s, oral history programs had sprouted at universities across the country. The Oral History Association formed in 1966 to set standards and share best practices.
 
@@ -51,7 +51,7 @@ This shift turned oral history from a supplement to traditional research into so
 
 ## How an Oral History Interview Actually Works
 
-If you've never sat in on one, oral history interviews look deceptively simple. Two people talking. A recorder running. But there's a method to it — and the method matters.
+If you've never sat in on one, oral history interviews look deceptively simple. Two people talking. A recorder [running](/running). But there's a method to it — and the method matters.
 
 ### Before the Recorder Turns On
 
@@ -61,7 +61,7 @@ There's also the paperwork. Ethical oral history requires informed consent. The 
 
 ### The Interview Itself
 
-The best oral history interviewers talk very little. Seriously — the golden rule is to ask a question and then get out of the way. You're not there to debate or challenge. You're there to listen.
+The best oral history interviewers talk very little. Seriously — the golden rule is to ask a question and then get out of the way. You're not there to [debate](/debate) or challenge. You're there to listen.
 
 Open-ended questions work best. "Tell me about growing up in that neighborhood" gets you much richer material than "Did you like your neighborhood?" Follow-up questions dig deeper: "You mentioned your father lost his job in 1958 — what happened after that?" The goal is to let the interviewee's memory unfold naturally, circling back to fill in gaps rather than forcing a chronological march.
 
@@ -75,7 +75,7 @@ Some projects create summaries or time-coded logs instead of full transcripts, e
 
 ## Why Oral History Matters — And What It Can Do That Other Sources Can't
 
-Written documents have a well-known bias: they record what someone thought was worth writing down. Government records reflect official positions. Newspapers reflect editorial choices. Personal letters reflect what someone wanted the recipient to know.
+Written documents have a well-known bias: they record what someone thought was worth [writing](/writing) down. Government records reflect official positions. Newspapers reflect editorial choices. Personal letters reflect what someone wanted the recipient to know.
 
 Oral history fills the gaps. It captures the lived experience — what it actually felt like to work in a coal mine, to cross a border, to sit at a segregated lunch counter. It preserves dialect, emotion, humor, and contradiction. And it often reveals things that never made it into any written record.
 
@@ -117,7 +117,7 @@ Social media has introduced a wrinkle that previous generations of oral historia
 
 You don't need a PhD to do oral history. Many communities run volunteer-driven projects through local libraries, historical societies, and cultural organizations. The Oral History Association's website has guides for beginners, and organizations like StoryCorps provide free tools and training.
 
-Starting small works perfectly well. Interview a grandparent about their childhood. Record a neighbor who remembers what your street looked like 50 years ago. Talk to a retiring teacher about how education has changed. The technical bar is low — a smartphone with a decent microphone and a quiet room will get you started.
+Starting small works perfectly well. Interview a grandparent about their childhood. Record a neighbor who remembers what your street looked like 50 years ago. Talk to a retiring teacher about how [education](/education) has changed. The technical bar is low — a smartphone with a decent microphone and a quiet room will get you started.
 
 The more important thing is to ask good questions, listen carefully, and preserve what you collect. Every person carries a piece of history that exists nowhere else. When they're gone, those stories go with them — unless someone takes the time to ask and record.
 

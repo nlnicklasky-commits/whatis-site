@@ -5,7 +5,7 @@ description: "Riddles are puzzles posed as questions or statements requiring cre
 category: arts-amp-culture
 tags: ["riddles", "puzzles", "wordplay", "folklore", "language", "logic"]
 heroImage: "/images/articles/riddles.webp"
-heroAlt: "Ancient book of riddles with ornate decorations and puzzling text"
+heroAlt: "Editorial photograph representing the concept of riddles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Riddles?
 
-A riddle is a question, statement, or description deliberately phrased to be puzzling, requiring creative or lateral thinking to solve. "I have cities but no houses. I have mountains but no trees. I have water but no fish. What am I?" (A map.) Riddles have existed in every documented human culture for thousands of years, serving as entertainment, education, social competition, and — in mythology at least — matters of life and death.
+A riddle is a question, statement, or description deliberately phrased to be puzzling, requiring creative or lateral thinking to solve. "I have cities but no houses. I have mountains but no trees. I have water but no fish. What am I?" (A map.) Riddles have existed in every documented human culture for thousands of years, serving as entertainment, [education](/education), social competition, and — in [mythology](/mythology) at least — matters of life and death.
 
 ## How Riddles Work
 
@@ -47,15 +47,15 @@ Most riddles rely on one or more of these mechanisms:
 
 ## Riddles Across Cultures
 
-**Ancient Greece** — the most famous Western riddle is the riddle of the Sphinx, which in Greek mythology Oedipus had to solve to enter Thebes: "What walks on four legs in the morning, two legs at noon, and three legs in the evening?" The answer is a human (crawling as a baby, walking upright as an adult, using a cane in old age). Failure meant death.
+**Ancient Greece** — the most famous Western riddle is the riddle of the Sphinx, which in [Greek mythology](/greek-mythology) Oedipus had to solve to enter Thebes: "What walks on four legs in the morning, two legs at noon, and three legs in the evening?" The answer is a human (crawling as a baby, [walking](/walking) upright as an adult, using a cane in old age). Failure meant death.
 
 **Old English** — the Exeter Book (10th century) contains nearly 100 Anglo-Saxon riddles, many describing everyday objects (an anchor, a key, a bookworm) in elaborate metaphorical language. Some are deliberately bawdy, with descriptions that sound obscene but have innocent answers.
 
-**Sanskrit** — ancient Indian literature, including the Mahabharata, contains riddle contests where heroes must answer correctly or face consequences. The Yaksha Prashna episode presents 18 philosophical riddles.
+**[Sanskrit](/sanskrit)** — ancient Indian [literature](/literature), including the Mahabharata, contains riddle contests where heroes must answer correctly or face consequences. The Yaksha Prashna episode presents 18 philosophical riddles.
 
-**Norse** — in the Prose Edda, the god Odin engages in a riddle contest with the giant Vafthrudnir. Norse tradition treated riddle contests as intellectual warfare — serious competitions with high stakes.
+**Norse** — in the [Prose](/prose) Edda, the god Odin engages in a riddle contest with the giant Vafthrudnir. Norse tradition treated riddle contests as intellectual warfare — serious competitions with high stakes.
 
-**African traditions** — riddling sessions are social events in many African cultures, particularly common among children and young adults. They serve educational functions, teaching observation, language skills, and cultural knowledge.
+**African traditions** — riddling sessions are social events in many African cultures, particularly common among children and young adults. They serve educational functions, [teaching](/teaching) observation, language skills, and cultural knowledge.
 
 **Islamic tradition** — Arabic and Persian literature contains extensive riddle collections. The Thousand and One Nights includes riddles as plot devices.
 
@@ -67,7 +67,7 @@ Most riddles rely on one or more of these mechanisms:
 
 **Conundrum riddles** are based on wordplay and puns. "What kind of room has no doors or windows?" (A mushroom.) These rely on linguistic tricks rather than metaphorical description.
 
-**Logic riddles** require reasoning rather than wordplay. "A farmer needs to cross a river with a fox, a chicken, and a sack of grain. His boat holds only one item besides himself..." These are technically puzzles using a riddle format.
+**[Logic](/logic) riddles** require reasoning rather than wordplay. "A farmer needs to cross a river with a fox, a chicken, and a sack of grain. His boat holds only one item besides himself..." These are technically puzzles using a riddle format.
 
 **Lateral thinking riddles** (also called "situation puzzles") present a strange scenario and require yes/no questions to solve. "A man walks into a restaurant, orders albatross soup, takes one bite, and kills himself. Why?" These are modern additions to the riddle tradition, popular as party games.
 
@@ -77,7 +77,7 @@ In an age of smartphones and search engines, riddles might seem outdated. They a
 
 **Flexible thinking.** Riddles force you to consider objects and concepts from unusual perspectives. A clock has "hands." A river has a "mouth." Riddles make you conscious of these dead metaphors and help you think creatively about language.
 
-**Pattern recognition.** Solving riddles trains you to look for patterns, connections, and alternative interpretations — skills that transfer to problem-solving in any domain.
+**[Pattern recognition](/pattern-recognition).** Solving riddles trains you to look for patterns, connections, and alternative interpretations — skills that transfer to problem-solving in any domain.
 
 **Social bonding.** Sharing riddles is a social activity — the frustration, the "aha" moment, the groan at a bad pun. Riddle-sharing creates interaction and shared experience.
 

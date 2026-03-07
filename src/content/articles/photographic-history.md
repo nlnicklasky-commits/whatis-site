@@ -5,7 +5,7 @@ description: "Photographic history traces the evolution of photography from earl
 category: arts-amp-culture
 tags: ["photography", "history", "art", "camera", "image", "visual arts"]
 heroImage: "/images/articles/photographic-history.webp"
-heroAlt: "A vintage camera beside a daguerreotype photograph and modern digital camera showing photography's evolution"
+heroAlt: "Editorial photograph representing the concept of photographic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Photographic History?
 
-Photographic history is the study of how photography was invented, developed, and transformed from a scientific curiosity into the most pervasive visual medium in human history. In less than 200 years, photography went from requiring hours-long exposures on metal plates to a technology that produces an estimated 1.4 trillion images per year. That trajectory — from Niépce's blurry view from a window to the camera in your pocket — is one of the most consequential stories in the history of technology and art.
+Photographic history is the study of how photography was invented, developed, and transformed from a scientific curiosity into the most pervasive visual medium in human history. In less than 200 years, photography went from requiring hours-long exposures on metal plates to a technology that produces an estimated 1.4 trillion images per year. That trajectory — from Niépce's blurry view from a window to the camera in your pocket — is one of the most consequential stories in [the history of technology](/the-history-of-technology) and art.
 
 ## Before the Camera
 
-The basic optical principle behind photography — the camera obscura — was known for centuries. A darkened room with a small hole in one wall projects an inverted image of the outside scene onto the opposite wall. Renaissance artists used camera obscuras as drawing aids. The optics were understood. What was missing was a way to capture the image permanently.
+The basic optical principle behind photography — the camera obscura — was known for centuries. A darkened room with a small hole in one wall projects an inverted image of the outside scene onto the opposite wall. Renaissance artists used camera obscuras as [drawing](/drawing) aids. The [optics](/optics) were understood. What was missing was a way to capture the image permanently.
 
-The chemistry came together in the early 19th century. Thomas Wedgwood and Humphry Davy made "sun prints" around 1800 by placing objects on leather treated with silver nitrate. Sunlight darkened the exposed areas, creating silhouettes. The catch: they couldn't fix the images. Expose them to more light, and the entire surface darkened.
+The [chemistry](/chemistry) came together in the early 19th century. Thomas Wedgwood and Humphry Davy made "sun prints" around 1800 by placing objects on leather treated with silver nitrate. Sunlight darkened the exposed areas, creating silhouettes. The catch: they couldn't fix the images. Expose them to more light, and the entire surface darkened.
 
 ## The First Photographs
 
@@ -71,18 +71,18 @@ The Lumière brothers' Autochrome (1907) was the first widely available color pr
 
 ## Photography as Art
 
-Photography's relationship to art has been contentious from the start. Painter Paul Delaroche supposedly declared, upon seeing a daguerreotype in 1839, "From today, painting is dead." He was wrong — painting thrived — but the anxiety was real.
+Photography's relationship to art has been contentious from the start. Painter Paul Delaroche supposedly declared, upon seeing a daguerreotype in 1839, "From today, [painting](/painting) is dead." He was wrong — painting thrived — but the anxiety was real.
 
 The pictorialist movement (1880s-1920s) fought for photography's acceptance as art by making photographs look like paintings — soft focus, handworked prints, carefully composed scenes. Alfred Stieglitz championed this cause through his gallery and magazine.
 
 Modernist photographers (Edward Weston, Ansel Adams, Walker Evans) took the opposite approach — sharp focus, pure photographic technique, no manipulation. Photography should look like photography, not painting. Adams' Zone System gave photographers precise control over exposure and development.
 
-By the late 20th century, photography's status as a fine art was settled. Major museums collect and exhibit photographs. Fine art prints sell for millions — Andreas Gursky's "Rhein II" sold for $4.3 million in 2011.
+By the late 20th century, photography's status as a [fine art](/fine-art) was settled. Major museums collect and exhibit photographs. Fine art prints sell for millions — Andreas Gursky's "Rhein II" sold for $4.3 million in 2011.
 
 ## The Digital Revolution
 
 The first digital camera — a Kodak prototype built by Steve Sasson in 1975 — captured a 0.01-megapixel image in 23 seconds and stored it on a cassette tape. Nobody at Kodak quite grasped its significance.
 
-Consumer digital cameras appeared in the mid-1990s. By 2003, digital sales surpassed film. Smartphones, starting with the iPhone in 2007, put cameras in everyone's pocket. Today, the average person takes more photographs in a year than existed in the entire 19th century.
+Consumer digital cameras appeared in the mid-1990s. By 2003, digital [sales](/sales) surpassed film. Smartphones, starting with the iPhone in 2007, put cameras in everyone's pocket. Today, the average person takes more photographs in a year than existed in the entire 19th century.
 
 Photography went from a rare, expensive, skilled activity to the most common form of human documentation in history — a transformation that took less than two centuries and shows no signs of slowing down.

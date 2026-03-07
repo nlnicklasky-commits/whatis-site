@@ -5,7 +5,7 @@ description: "Monetary policy is how central banks manage money supply and inter
 category: finance
 tags: ["monetary policy", "central banking", "interest rates", "inflation", "federal reserve", "money supply", "economics"]
 heroImage: "/images/articles/monetary-policy-hero.webp"
-heroAlt: "Federal Reserve building facade with columns and American flag"
+heroAlt: "Editorial photograph representing the concept of monetary policy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,15 +51,15 @@ The flip side: monetary policy is also extraordinarily difficult to get right. A
 
 ### The Gold Standard Era
 
-For centuries, most countries tied their currencies to gold. The gold standard was, in effect, automatic monetary policy: the money supply was constrained by the amount of gold in a country's vaults. If gold flowed out (due to a trade deficit), the money supply contracted, prices fell, and the economy adjusted.
+For centuries, most countries tied their currencies to gold. The gold standard was, in effect, automatic monetary policy: the money supply was constrained by the amount of gold in a country's vaults. If gold flowed out (due to a [trade](/trade) deficit), the money supply contracted, prices fell, and the economy adjusted.
 
 The problem? Automatic doesn't mean optimal. The gold standard produced frequent, severe deflations and recessions. It couldn't respond to crises. During bank panics, when everyone rushed to convert paper money to gold, the system collapsed—triggering the very depressions it was supposed to prevent.
 
 ### The Birth of the Federal Reserve
 
-The United States created the Federal Reserve System in 1913, primarily in response to the Panic of 1907, when J.P. Morgan personally organized a private bailout of the banking system because no government institution existed to do so. The realization that the world's largest economy couldn't rely on one wealthy man's generosity led directly to the Federal Reserve Act.
+The United States created the Federal Reserve System in 1913, primarily in response to the Panic of 1907, when J.P. Morgan personally organized a private bailout of the banking system because no [government](/government) institution existed to do so. The realization that the world's largest economy couldn't rely on one wealthy man's generosity led directly to the Federal Reserve Act.
 
-The Fed was designed to be a "lender of last resort"—providing liquidity to banks during panics so that temporary cash shortages wouldn't spiral into economic catastrophe. Over time, its role expanded to include active management of [economics](/economics) through interest rate policy.
+The Fed was designed to be a "lender of last resort"—providing liquidity to banks during panics so that temporary cash shortages wouldn't spiral into economic catastrophe. Over time, its role expanded to include active [management](/management) of [economics](/economics) through interest rate policy.
 
 ### The Great Depression and Lessons Learned
 
@@ -91,7 +91,7 @@ The transmission mechanism works through several channels:
 
 4. **Credit channel.** Higher rates tighten lending standards as banks become more cautious. Marginal borrowers who could qualify at lower rates get denied, reducing the total volume of credit in the economy.
 
-5. **Expectations channel.** Perhaps most powerful: if people believe the Fed will keep inflation low, they behave accordingly—workers accept smaller wage increases, businesses moderate price hikes. This self-fulfilling prophecy is why central bank credibility is so valuable.
+5. **Expectations channel.** Perhaps most powerful: if people believe the Fed will keep inflation low, they behave accordingly—workers accept smaller wage increases, businesses moderate price hikes. This self-fulfilling [prophecy](/prophecy) is why central bank credibility is so valuable.
 
 ### Open Market Operations
 
@@ -107,7 +107,7 @@ Traditionally, the Fed also used reserve requirements (the fraction of deposits 
 
 When short-term interest rates hit zero—as they did in 2008 and again in 2020—the Fed can't cut further. This is the "zero lower bound" problem. Central banks have developed several unconventional tools to continue stimulating the economy when conventional tools are exhausted.
 
-### Quantitative Easing (QE)
+### [Quantitative Easing](/quantitative-easing) (QE)
 
 QE involves the central bank purchasing large quantities of longer-term assets—government bonds, mortgage-backed securities, and sometimes corporate bonds. By buying these assets, the central bank:
 
@@ -121,7 +121,7 @@ QE's effectiveness is debated. It clearly lowered long-term interest rates and s
 
 ### Forward Guidance
 
-Instead of acting, the central bank tells you what it plans to do. Forward guidance involves explicit communication about the future path of interest rates. When the Fed says "we expect to keep rates near zero through 2024," it directly influences long-term rates because market expectations of future short-term rates determine long-term rates.
+Instead of [acting](/acting), the central bank tells you what it plans to do. Forward guidance involves explicit communication about the future path of interest rates. When the Fed says "we expect to keep rates near zero through 2024," it directly influences long-term rates because market expectations of future short-term rates determine long-term rates.
 
 The effectiveness of forward guidance depends entirely on credibility. If markets believe the Fed will follow through, guidance is powerful. If the Fed has a track record of abandoning its guidance, it loses impact.
 
@@ -151,7 +151,7 @@ The 2021-2023 inflation episode tested this framework severely. Inflation peaked
 
 One of the most important institutional features of modern monetary policy is central bank independence—the principle that politicians should not directly control interest rate decisions.
 
-The logic is straightforward: elected officials face pressure to keep rates low before elections, even when higher rates are needed to control inflation. Countries where politicians control monetary policy consistently experience higher inflation than those with independent central banks. Research by Alberto Alesina and Lawrence Summers (1993) found a strong negative correlation between central bank independence and inflation across developed countries.
+The [logic](/logic) is straightforward: elected officials face pressure to keep rates low before elections, even when higher rates are needed to control inflation. Countries where politicians control monetary policy consistently experience higher inflation than those with independent central banks. Research by Alberto Alesina and Lawrence Summers (1993) found a strong negative correlation between central bank independence and inflation across developed countries.
 
 The Fed's independence is limited but significant. The president appoints Fed governors (subject to Senate confirmation) for 14-year terms—long enough to insulate them from short-term political pressure. The Fed sets policy without needing Congressional approval. But Congress can change the Fed's mandate, and political pressure is a constant reality. Several US presidents have publicly criticized Fed policy, though direct interference has been rare.
 

@@ -5,7 +5,7 @@ description: "Evolutionary psychology studies how natural selection shaped human
 category: everyday-concepts
 tags: ["evolutionary psychology", "human behavior", "natural selection", "cognitive science", "adaptation", "psychology"]
 heroImage: "/images/articles/evolutionary-psychology.webp"
-heroAlt: "Silhouette of human evolution stages from ape to modern human against sunset"
+heroAlt: "Editorial photograph representing the concept of evolutionary psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "No. Understanding why a tendency exists is not the same as endorsing it. Evolutionary psychology describes what is, not what ought to be. Humans have evolved capacities for cooperation, empathy, and moral reasoning just as much as for aggression or jealousy."
 ---
 
-# What Is Evolutionary Psychology?
+# What Is Evolutionary [Psychology](/psychology)?
 
 Evolutionary psychology is a branch of psychology that looks at human behavior through the lens of natural selection. The basic premise is surprisingly simple: your brain, like your opposable thumbs and your upright posture, was shaped by millions of years of evolution. And the mental traits that helped your ancestors survive and reproduce got passed down — whether or not they still make sense in a world with smartphones and office cubicles.
 
@@ -39,13 +39,13 @@ Here's the thing most people get wrong about evolutionary psychology. It doesn't
 
 Fear of snakes? Makes sense when you consider that humans who were cautious around serpents survived more often than those who weren't. A preference for sweet and fatty foods? Extremely useful when calories were scarce and starvation was a real threat. Less useful when there's a Krispy Kreme on every corner.
 
-These mechanisms were shaped during what researchers call the Environment of Evolutionary Adaptedness (EEA) — roughly the Pleistocene epoch, spanning from about 2.6 million to 12,000 years ago. That's the period when most of our psychological architecture was built. Modern civilization, by contrast, is only about 10,000 years old. Not nearly enough time for significant evolutionary change.
+These mechanisms were shaped during what researchers call the Environment of Evolutionary Adaptedness (EEA) — roughly the Pleistocene epoch, spanning from about 2.6 million to 12,000 years ago. That's the period when most of our psychological [architecture](/architecture) was built. Modern civilization, by contrast, is only about 10,000 years old. Not nearly enough time for significant evolutionary change.
 
 ## Where It Came From
 
 Charles Darwin himself speculated about the evolution of mental traits in *The Descent of Man* (1871), but evolutionary psychology as a formal discipline didn't emerge until the late 1980s and early 1990s. Leda Cosmides and John Tooby at UC Santa Barbara are often credited as the field's founders, along with David Buss at UT Austin and Steven Pinker at Harvard.
 
-Their argument was that mainstream psychology had been ignoring a crucial question: *why* does the human mind work the way it does? Cognitive psychology could describe mental processes. Clinical psychology could treat disorders. But nobody was asking why those processes existed in the first place.
+Their argument was that mainstream psychology had been ignoring a crucial question: *why* does the human mind work the way it does? [Cognitive psychology](/cognitive-psychology) could describe mental processes. [Clinical psychology](/clinical-psychology) could treat disorders. But nobody was asking why those processes existed in the first place.
 
 ## Key Research Areas
 
@@ -55,7 +55,7 @@ Their argument was that mainstream psychology had been ignoring a crucial questi
 
 **Cooperation and cheating detection** is another big one. Cosmides and Tooby showed that people are surprisingly good at detecting cheaters in social exchanges but terrible at solving logically identical problems framed differently. This suggests we have specialized mental tools for social contract enforcement — because in small ancestral groups, freeloaders could destroy everyone's chances.
 
-**Parental investment** draws from Robert Trivers's 1972 theory. Because human females invest more biologically in each offspring (nine months of pregnancy, nursing), they tend to be more selective about mates. Males, with lower minimum investment, tend toward greater competition for access to mates. This framework predicts specific behavioral differences observed across cultures.
+**Parental investment** draws from Robert Trivers's 1972 theory. Because human females invest more biologically in each offspring (nine months of pregnancy, [nursing](/nursing)), they tend to be more selective about mates. Males, with lower minimum investment, tend toward greater competition for access to mates. This framework predicts specific behavioral differences observed across cultures.
 
 ## The Criticism — And There's Plenty
 
@@ -71,17 +71,17 @@ Stephen Jay Gould and Richard Lewontin raised another important objection: not e
 
 ## What It Gets Right
 
-Despite the controversies, some findings are genuinely hard to explain without evolutionary thinking. Cross-cultural universals — things that appear in every human society ever studied — are tough to chalk up entirely to culture. Every society has language, status hierarchies, music, marriage norms, and incest taboos. Every society distinguishes between kin and non-kin. These patterns suggest something deeper than social construction.
+Despite the controversies, some findings are genuinely hard to explain without evolutionary thinking. Cross-cultural universals — things that appear in every human society ever studied — are tough to chalk up entirely to culture. Every society has language, status hierarchies, music, marriage norms, and incest taboos. Every society distinguishes between kin and non-kin. These patterns suggest something deeper than social [construction](/construction).
 
 The field has also contributed practical insights. Understanding evolved anxiety responses helps clinicians treat phobias. Research on jealousy and mate-guarding informs work on domestic violence prevention. Studies of parental attachment patterns have improved child welfare approaches.
 
 ## The Modern State of Play
 
-Today's evolutionary psychology looks different from the 1990s version. Researchers increasingly incorporate genetics, neuroscience, and cultural evolution. There's more emphasis on gene-environment interaction and less on rigid "modules" in the brain. Some researchers have moved toward "evolutionary behavioral science" as a broader label.
+Today's evolutionary psychology looks different from the 1990s version. Researchers increasingly incorporate [genetics](/genetics), [neuroscience](/neuroscience), and cultural evolution. There's more emphasis on gene-environment interaction and less on rigid "modules" in the brain. Some researchers have moved toward "evolutionary behavioral science" as a broader label.
 
 The field also grapples with its own biases. Early research disproportionately studied Western, educated populations — the so-called WEIRD (Western, Educated, Industrialized, Rich, Democratic) samples. Newer studies deliberately include hunter-gatherer societies, non-Western cultures, and diverse populations.
 
-Frankly, the truth about evolutionary psychology is probably somewhere between its strongest advocates and its harshest critics. Evolution clearly shaped human psychology — denying that means denying biology. But the specific claims require careful testing, and the field's history includes some overreach. The best work in evolutionary psychology treats evolutionary theory as a source of hypotheses, not conclusions.
+Frankly, the truth about evolutionary psychology is probably somewhere between its strongest advocates and its harshest critics. Evolution clearly shaped human psychology — denying that means denying [biology](/biology). But the specific claims require careful testing, and the field's history includes some overreach. The best work in evolutionary psychology treats evolutionary theory as a source of hypotheses, not conclusions.
 
 ## Why It Matters
 

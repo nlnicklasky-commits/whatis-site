@@ -5,7 +5,7 @@ description: "Senior care encompasses the services, support systems, and medical
 category: health-amp-wellness
 tags: ["senior care", "elder care", "gerontology", "assisted living"]
 heroImage: "/images/articles/senior-care.webp"
-heroAlt: "Elderly person being helped by a caregiver in a bright comfortable living space"
+heroAlt: "Editorial photograph representing the concept of senior care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
     a: "Warning signs include: difficulty managing medications, frequent falls, significant weight loss or poor nutrition, neglected personal hygiene, isolation and depression, unsafe driving, wandering or confusion, inability to manage finances, and caregiver burnout among family members. A geriatric care assessment from a healthcare professional can help determine the appropriate level of care."
 ---
 
-Senior care is the broad category of services, support systems, and medical attention designed to help older adults maintain their health, safety, independence, and quality of life as they age. It ranges from occasional help with grocery shopping to round-the-clock skilled nursing — and everything in between.
+Senior care is the broad category of services, support systems, and medical attention designed to help older adults maintain their health, safety, independence, and quality of life as they age. It ranges from occasional help with grocery shopping to round-the-clock skilled [nursing](/nursing) — and everything in between.
 
 This matters to virtually everyone. About 10,000 Americans turn 65 every day, according to the U.S. Census Bureau. By 2030, all Baby Boomers will be over 65, making roughly 21% of the U.S. population seniors. Globally, the number of people aged 60 and older will double to 2.1 billion by 2050, according to the World Health Organization. Whether you're planning for your own aging or figuring out care for a parent, understanding senior care options isn't optional — it's a conversation most families will face.
 
@@ -41,7 +41,7 @@ Senior care isn't a single thing. It's a spectrum that ranges from minimal assis
 
 ### Independent Living
 
-At one end, you have seniors who are fully independent but choose to live in communities designed for people over 55 or 62. These **independent living communities** (sometimes called retirement communities or active adult communities) offer maintenance-free housing, social activities, fitness facilities, and convenience — but no medical care or personal assistance.
+At one end, you have seniors who are fully independent but choose to live in communities designed for people over 55 or 62. These **independent living communities** (sometimes called retirement communities or active adult communities) offer maintenance-free housing, social activities, [fitness](/fitness) facilities, and convenience — but no medical care or personal assistance.
 
 Think of it as apartment or condo living without the hassle of home maintenance. You mow your own metaphorical lawn by paying a monthly fee. Costs typically range from $1,500 to $4,000 per month depending on location and amenities.
 
@@ -49,11 +49,11 @@ Think of it as apartment or condo living without the hassle of home maintenance.
 
 Most seniors prefer to age at home — about 90% say they want to stay in their own home as long as possible, according to AARP surveys. **Home care** makes this possible by bringing services to the senior rather than moving the senior to services.
 
-**Non-medical home care** includes help with daily activities: cooking, cleaning, laundry, grocery shopping, transportation to appointments, companionship, and light personal care. These services are provided by home care aides who don't require medical licenses.
+**Non-medical home care** includes help with daily activities: [cooking](/cooking), cleaning, laundry, grocery shopping, transportation to appointments, companionship, and light personal care. These services are provided by home care aides who don't require medical licenses.
 
-**Home health care** is medical care delivered at home — skilled nursing, physical therapy, occupational therapy, wound care, medication management, and health monitoring. This requires licensed healthcare professionals and is often covered (at least partially) by Medicare.
+**Home health care** is medical care delivered at home — skilled nursing, [physical therapy](/physical-therapy), [occupational therapy](/occupational-therapy), wound care, medication [management](/management), and health monitoring. This requires licensed healthcare professionals and is often covered (at least partially) by Medicare.
 
-The line between these two matters for insurance purposes. Medicare covers home health care under specific conditions but generally doesn't cover non-medical home care. That distinction can mean the difference between a covered service and a $25-30/hour out-of-pocket expense.
+The line between these two matters for [insurance](/insurance) purposes. Medicare covers home health care under specific conditions but generally doesn't cover non-medical home care. That distinction can mean the difference between a covered service and a $25-30/hour out-of-pocket expense.
 
 ### Adult Day Care
 
@@ -95,7 +95,7 @@ Senior care costs are, frankly, brutal. And the payment field is confusing.
 
 **Medicaid** is the largest payer of long-term care in the United States. But it's means-tested — you must have very limited income and assets to qualify. Many families face the wrenching situation of "spending down" assets to reach Medicaid eligibility, or discovering that Medicaid planning rules are complex and sometimes counterintuitive.
 
-**Long-term care insurance** covers services that Medicare and standard health insurance don't. Policies vary widely in what they cover, how long they cover it, and how much they cost. The ideal time to buy is in your 50s, before health issues make you uninsurable. Unfortunately, premiums have risen dramatically, and several major insurers have exited the market.
+**Long-term care insurance** covers services that Medicare and standard [health insurance](/health-insurance) don't. Policies vary widely in what they cover, how long they cover it, and how much they cost. The ideal time to buy is in your 50s, before health issues make you uninsurable. Unfortunately, premiums have risen dramatically, and several major insurers have exited the market.
 
 **Veterans' benefits** provide various long-term care services for eligible veterans, including nursing home care, home health aides, and the Aid and Attendance pension benefit. If your parent or loved one is a veteran, explore these options — they're often underused.
 

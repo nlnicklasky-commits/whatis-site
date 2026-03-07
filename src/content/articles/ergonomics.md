@@ -5,7 +5,7 @@ description: "Ergonomics is the science of designing workplaces, products, and s
 category: health-amp-wellness
 tags: ["ergonomics", "human factors", "workplace safety", "design", "productivity"]
 heroImage: "/images/articles/ergonomics.webp"
-heroAlt: "Person working at an ergonomically designed desk with adjustable monitor, keyboard, and chair"
+heroAlt: "Editorial photograph representing the concept of ergonomics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,9 +39,9 @@ Ergonomics is the science of designing work environments, tools, and systems to 
 
 ## The Word Itself Tells You Everything
 
-"Ergonomics" comes from the Greek *ergon* (work) and *nomos* (law or principle). Literally, it means "the laws of work." The field is also called "human factors engineering" — particularly in the US — though the two terms have slightly different historical roots.
+"Ergonomics" comes from the Greek *ergon* (work) and *nomos* (law or principle). Literally, it means "the laws of work." The field is also called "[human factors](/human-factors) engineering" — particularly in the US — though the two terms have slightly different historical roots.
 
-The modern field emerged after World War II, when military researchers noticed something troubling: perfectly functional aircraft were crashing because cockpit controls were confusing. Pilots would reach for the landing gear lever and accidentally grab the flap lever instead. The planes weren't broken. The [design](/biomechanics) was.
+The modern field emerged after [World War II](/world-war-ii), when military researchers noticed something troubling: perfectly functional aircraft were crashing because cockpit controls were confusing. Pilots would reach for the landing gear lever and accidentally grab the flap lever instead. The planes weren't broken. The [design](/biomechanics) was.
 
 Alphonse Chapanis, a US Army psychologist, standardized cockpit layouts and gave different controls distinct shapes that pilots could identify by touch. Crash rates dropped significantly. The lesson was clear: when you design systems around human capabilities and limitations — instead of expecting humans to overcome bad design — everything works better.
 
@@ -96,7 +96,7 @@ James Reason's "Swiss Cheese Model" illustrates this beautifully. Every layer of
 
 ### Display and Control Design
 
-How you present information to people matters enormously. A poorly designed dashboard — whether in a car, a nuclear power plant, or a software application — forces the user to spend mental effort interpreting the display instead of making decisions.
+How you present information to people matters enormously. A poorly designed dashboard — whether in a car, a [nuclear power](/nuclear-power) plant, or a software application — forces the user to spend mental effort interpreting the display instead of making decisions.
 
 The Three Mile Island nuclear accident in 1979 was partly caused by confusing control room displays. Operators couldn't quickly determine the true state of the reactor because the instruments were poorly labeled, inconsistently arranged, and gave ambiguous readings. Better [interface design](/app-development) might have prevented the incident.
 
@@ -118,7 +118,7 @@ How tasks are sequenced, how teams communicate, and how responsibilities are div
 
 ## The Return on Investment
 
-Companies sometimes treat ergonomics as an expense. The research says otherwise. A systematic review published in the *Journal of Safety Research* found that ergonomic interventions produced an average benefit-to-cost ratio of 6.2 to 1. For every dollar spent on ergonomic improvements, companies saw $6.20 in reduced injury costs, lower absenteeism, and increased productivity.
+Companies sometimes treat ergonomics as an expense. The research says otherwise. A systematic review published in the *Journal of Safety Research* found that ergonomic interventions produced an average benefit-to-cost ratio of 6.2 to 1. For every dollar spent on ergonomic improvements, companies saw $6.20 in reduced injury costs, lower absenteeism, and increased [productivity](/productivity).
 
 Washington State's Department of Labor and Industries studied 250 ergonomic interventions and found that the average payback period was seven months. After that, the savings continued to accumulate year after year.
 
@@ -134,6 +134,6 @@ Video game controllers are a surprisingly good example. Early controllers were a
 
 ## Where Ergonomics Is Going
 
-Wearable sensors can now track workers' posture, movement patterns, and fatigue levels in real time, flagging risky behaviors before injuries occur. AI-powered workstation software can automatically adjust lighting, desk height, and monitor position based on who's sitting down. Exoskeletons — wearable robotic frames — are being tested in manufacturing and construction to reduce the physical strain of heavy lifting.
+Wearable sensors can now track workers' posture, movement patterns, and fatigue levels in real time, flagging risky behaviors before injuries occur. AI-powered workstation software can automatically adjust lighting, desk height, and monitor position based on who's sitting down. Exoskeletons — wearable robotic frames — are being tested in manufacturing and [construction](/construction) to reduce the physical strain of heavy lifting.
 
 The fundamental insight hasn't changed, though. People have physical and cognitive limits. Designing around those limits — instead of pretending they don't exist — produces better outcomes for everyone. The science behind that insight is what ergonomics is all about.

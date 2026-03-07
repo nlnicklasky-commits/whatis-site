@@ -5,7 +5,7 @@ description: "Roofing is the craft of constructing and repairing the top coverin
 category: everyday-concepts
 tags: ["roof", "roofing materials", "construction", "building", "home repair", "roof repair"]
 heroImage: "/images/articles/roofing.webp"
-heroAlt: "Roofer installing asphalt shingles on a residential rooftop"
+heroAlt: "Editorial photograph representing the concept of roofing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Roofing?
 
-Roofing is the construction, installation, and maintenance of the outermost covering of a building — the part that keeps rain, snow, sun, and wind out. It sounds simple, and conceptually it is: put something waterproof on top of the structure. But the details matter enormously. A well-built roof lasts decades and you never think about it. A poorly built one leaks, rots the structure underneath, grows mold, wastes energy, and can cost you tens of thousands of dollars to fix. Your roof is probably the most important part of your house that you never look at.
+Roofing is the [construction](/construction), installation, and maintenance of the outermost covering of a building — the part that keeps rain, snow, sun, and wind out. It sounds simple, and conceptually it is: put something waterproof on top of the structure. But the details matter enormously. A well-built roof lasts decades and you never think about it. A poorly built one leaks, rots the structure underneath, grows mold, wastes energy, and can cost you tens of thousands of dollars to fix. Your roof is probably the most important part of your house that you never look at.
 
 ## What a Roof Actually Does
 
@@ -63,7 +63,7 @@ A roof isn't just a rain shield. It performs several jobs simultaneously.
 
 **Hip roofs** — all sides slope downward to the walls. More wind-resistant than gable roofs because there are no flat ends for wind to catch. Common in hurricane-prone regions.
 
-**Flat roofs** — not truly flat, but very low slope (usually 1/4 inch per foot minimum for drainage). Common on commercial buildings and modern residential architecture. They require different materials (built-up roofing, modified bitumen, single-ply membranes, or spray-applied coatings) because water doesn't run off as quickly.
+**Flat roofs** — not truly flat, but very low slope (usually 1/4 inch per foot minimum for drainage). Common on commercial buildings and modern residential [architecture](/architecture). They require different materials (built-up roofing, modified bitumen, single-ply membranes, or spray-applied coatings) because water doesn't run off as quickly.
 
 **Mansard roofs** — four-sided with two slopes on each side, the lower slope steeper than the upper. Maximizes usable space under the roof. Associated with French architecture and Second Empire style in America.
 
@@ -89,4 +89,4 @@ A typical residential re-roof takes 1-3 days for a crew of 4-6 workers. It's har
 
 ## When to Worry
 
-Most homeowners only think about their roof when something goes wrong. A few habits can save you major headaches. Check your roof visually from the ground twice a year — look for missing shingles, sagging areas, or damaged flashing. Clear debris from valleys and gutters. Trim overhanging tree branches. Check your attic for signs of moisture after heavy rain. And when your roof hits 20 years old, start budgeting for replacement — because it's coming, whether you're ready or not.
+Most homeowners only think about their roof when something goes wrong. A few habits can save you major headaches. Check your roof visually from the ground twice a year — look for missing shingles, sagging areas, or damaged flashing. Clear debris from valleys and gutters. Trim overhanging tree branches. Check your attic for signs of moisture after heavy rain. And when your roof hits 20 years old, start [budgeting](/budgeting) for replacement — because it's coming, whether you're ready or not.

@@ -5,7 +5,7 @@ description: "Epistemology is the branch of philosophy studying knowledge itself
 category: everyday-concepts
 tags: ["epistemology", "everyday-concepts"]
 heroImage: "/images/articles/epistemology.webp"
-heroAlt: "A person in thought surrounded by books and question marks in an abstract illustration"
+heroAlt: "Editorial photograph representing the concept of epistemology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Epistemology?
 
-Epistemology is the branch of [philosophy](/philosophy) that studies knowledge itself — what it is, how we get it, what makes beliefs justified, and whether certainty is possible. While other fields study specific things (biology studies life, history studies the past, physics studies matter and energy), epistemology asks a more fundamental question: how do we know any of that? It's thinking about thinking, and it's more practically relevant than it sounds.
+Epistemology is the branch of [philosophy](/philosophy) that studies knowledge itself — what it is, how we get it, what makes beliefs justified, and whether certainty is possible. While other fields study specific things ([biology](/biology) studies life, history studies the past, [physics](/physics) studies matter and energy), epistemology asks a more fundamental question: how do we know any of that? It's thinking about thinking, and it's more practically relevant than it sounds.
 
 ## The Basic Question
 
@@ -69,7 +69,7 @@ Epistemologists identify several sources of knowledge, each with strengths and l
 
 ## The Big Debates
 
-**Rationalism vs. empiricism** is epistemology's longest-running argument. Rationalists (Descartes, Leibniz, Spinoza) argued that some knowledge comes from reason alone — mathematical truths, logical principles, and perhaps certain metaphysical truths are known independently of experience. Empiricists (Locke, Berkeley, Hume) argued that all knowledge ultimately derives from sensory experience — the mind starts as a "blank slate" and builds knowledge from what the senses provide.
+**Rationalism vs. empiricism** is epistemology's longest-[running](/running) argument. Rationalists (Descartes, Leibniz, Spinoza) argued that some knowledge comes from reason alone — mathematical truths, logical principles, and perhaps certain metaphysical truths are known independently of experience. Empiricists (Locke, Berkeley, Hume) argued that all knowledge ultimately derives from sensory experience — the mind starts as a "blank slate" and builds knowledge from what the senses provide.
 
 Immanuel Kant attempted to resolve this in 1781 with the *Critique of Pure Reason*, arguing that both reason and experience are necessary — the mind imposes structures (space, time, causality) on raw sensory data, and knowledge emerges from their interaction. Kant's synthesis remains influential, though it raises its own philosophical problems.
 

@@ -5,7 +5,7 @@ description: "Neuropharmacology studies how drugs affect the nervous system, fro
 category: science
 tags: ["neuropharmacology", "neurotransmitters", "pharmacology", "neuroscience", "brain", "drug action", "psychiatry"]
 heroImage: "/images/articles/neuropharmacology-hero.webp"
-heroAlt: "Molecular models of psychiatric drugs interacting with neurotransmitter receptors at a synapse"
+heroAlt: "Editorial photograph representing the concept of neuropharmacology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Neuropharmacology is the study of how drugs affect the nervous system. It invest
 
 ## Why Drugs Affect the Brain at All
 
-Your brain runs on chemistry. Neurons communicate through neurotransmitters — chemical messengers that bind to specific receptors like keys fitting into locks. [Neurochemistry](/neurochemistry) maps these chemical systems. Neuropharmacology exploits them.
+Your brain runs on [chemistry](/chemistry). Neurons communicate through neurotransmitters — chemical messengers that bind to specific receptors like keys fitting into locks. [Neurochemistry](/neurochemistry) maps these chemical systems. Neuropharmacology exploits them.
 
 Drugs work because they're molecular mimics, blockers, or amplifiers of the brain's own signaling molecules. A drug that resembles a neurotransmitter can fit into its receptor and activate it (agonist). A drug that fits the receptor but doesn't activate it blocks the real neurotransmitter from binding (antagonist). Other drugs increase or decrease the amount of neurotransmitter available at the synapse.
 
@@ -147,7 +147,7 @@ The field needs new approaches. Blocking dopamine D2 receptors helps positive sy
 
 ## Drug Development: From Target to Treatment
 
-Bringing a neuropharmacological drug from laboratory to pharmacy takes 10-15 years and costs an average of $2.6 billion. The failure rate is staggering — about 90% of drugs entering clinical trials never reach the market. For neurological drugs, the failure rate is even higher.
+Bringing a neuropharmacological drug from laboratory to [pharmacy](/pharmacy) takes 10-15 years and costs an average of $2.6 billion. The failure rate is staggering — about 90% of drugs entering clinical trials never reach the market. For neurological drugs, the failure rate is even higher.
 
 ### Target Identification
 
@@ -191,9 +191,9 @@ Viral vectors can deliver genes directly to specific brain cells, potentially re
 
 While optogenetics itself (controlling neurons with light) isn't practical as a therapy, it reveals which specific circuits and cell types drive behaviors. This information guides drug development — if activating a specific set of neurons alleviates a symptom, then drugs targeting receptors expressed by those neurons become rational candidates.
 
-### Precision Psychiatry
+### Precision [Psychiatry](/psychiatry)
 
-Individual differences in genetics, brain structure, and neurochemistry mean that the same drug works brilliantly for one patient and fails completely for another. Pharmacogenomic testing — analyzing genetic variants that affect drug metabolism — is becoming more common, and brain imaging biomarkers may eventually predict treatment response before a single pill is taken.
+Individual differences in [genetics](/genetics), brain structure, and neurochemistry mean that the same drug works brilliantly for one patient and fails completely for another. Pharmacogenomic testing — analyzing genetic variants that affect drug metabolism — is becoming more common, and brain imaging biomarkers may eventually predict treatment response before a single pill is taken.
 
 ## Key Takeaways
 

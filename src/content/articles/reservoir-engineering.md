@@ -5,7 +5,7 @@ description: "Reservoir engineering optimizes oil and gas extraction from underg
 category: technology
 tags: ["reservoir engineering", "petroleum", "oil recovery", "fluid flow", "drilling", "energy", "geology"]
 heroImage: "/images/articles/reservoir-engineering-hero.webp"
-heroAlt: "Cross-section diagram of an underground oil reservoir showing geological layers and well placement"
+heroAlt: "Editorial photograph representing the concept of reservoir engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Reservoir Engineering?
 
-Reservoir engineering is the branch of petroleum engineering concerned with understanding and optimizing the extraction of oil and gas from underground rock formations. It sits at the intersection of [geology](/geology), [fluid dynamics](/fluid-dynamics), thermodynamics, and economics — combining deep scientific knowledge with practical engineering to answer one deceptively simple question: how do you get hydrocarbons out of the ground efficiently, economically, and (increasingly) responsibly?
+Reservoir engineering is the branch of [petroleum engineering](/petroleum-engineering) concerned with understanding and optimizing the extraction of oil and gas from underground rock formations. It sits at the intersection of [geology](/geology), [fluid dynamics](/fluid-dynamics), [thermodynamics](/thermodynamics), and economics — combining deep scientific knowledge with practical engineering to answer one deceptively simple question: how do you get hydrocarbons out of the ground efficiently, economically, and (increasingly) responsibly?
 
 A reservoir engineer's job is not just figuring out whether oil exists down there — geologists handle that. It is figuring out how much oil exists, how it will flow through rock, how fast you can extract it, what techniques will maximize recovery, and whether doing so makes economic sense. A reservoir that contains a billion barrels of oil sounds impressive, but if the rock is too tight, the oil too viscous, or the depth too great, you might never produce a profitable drop.
 
@@ -143,11 +143,11 @@ When primary and secondary methods have done their work, 40-70% of the original 
 
 ## Reservoir Simulation: Predicting the Future
 
-Reservoir simulation is the computational heart of the discipline. Engineers build numerical models that divide the reservoir into millions of grid blocks and solve equations governing fluid flow, heat transfer, and [chemical engineering](/chemical-engineering) reactions within each block.
+Reservoir simulation is the computational heart of the discipline. Engineers build numerical models that divide the reservoir into millions of grid blocks and solve equations governing fluid flow, [heat transfer](/heat-transfer), and [chemical engineering](/chemical-engineering) reactions within each block.
 
 The fundamental equations are based on Darcy's law (which relates fluid flow rate to pressure gradient, permeability, and viscosity) and material balance (conservation of mass). These are coupled with equations of state that describe how oil, gas, and water properties change with pressure and temperature.
 
-A single simulation run might model 30 years of production across a million grid blocks, solving coupled nonlinear partial differential equations at each timestep. This is computationally intensive — a complex simulation can take hours or days even on powerful computers.
+A single simulation run might model 30 years of production across a million grid blocks, solving coupled nonlinear partial [differential equations](/differential-equations) at each timestep. This is computationally intensive — a complex simulation can take hours or days even on powerful computers.
 
 Engineers use simulation to compare development scenarios: How many wells should we drill, and where? What injection rate maximizes recovery? When should we convert production wells to injection? What is the economic value of drilling an additional well? These decisions involve investments of tens to hundreds of millions of dollars, and reservoir simulation provides the quantitative basis for making them.
 
@@ -195,7 +195,7 @@ Geothermal energy development — particularly enhanced geothermal systems — r
 
 ### Digital Transformation
 
-Machine learning and advanced analytics are entering reservoir engineering. Neural networks predict well performance from geological and completion data. Automated history matching algorithms explore parameter space more efficiently than manual iteration. Real-time production optimization adjusts well operations continuously based on sensor data. Digital twins — continuously updated simulation models — provide real-time views of reservoir behavior.
+Machine learning and advanced analytics are entering reservoir engineering. [Neural networks](/neural-networks) predict well performance from geological and completion data. Automated history matching algorithms explore parameter space more efficiently than manual iteration. Real-time production optimization adjusts well operations continuously based on sensor data. Digital twins — continuously updated simulation models — provide real-time views of reservoir behavior.
 
 These tools augment rather than replace traditional reservoir engineering skills. The physics of fluid flow in porous media remain the foundation. But the ability to process more data, explore more scenarios, and update models in real time is changing how the discipline is practiced.
 

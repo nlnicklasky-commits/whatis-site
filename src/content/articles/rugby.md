@@ -5,7 +5,7 @@ description: "Rugby is a contact team sport played with an oval ball where playe
 category: sports
 tags: ["rugby union", "rugby league", "contact sport", "team sport", "oval ball", "tackling"]
 heroImage: "/images/articles/rugby.webp"
-heroAlt: "Rugby players in a scrum formation during a match"
+heroAlt: "Editorial photograph representing the concept of rugby"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Rugby is a full-contact team sport played with an oval ball on a rectangular gra
 
 ## The Origin Story
 
-The legend goes like this: in 1823, a student named William Webb Ellis at Rugby School in England picked up the ball during a football (soccer) match and ran with it. It's almost certainly not true — the story surfaced decades after the supposed event and has no contemporary evidence. But it's a great origin myth, and the Rugby World Cup trophy is named the Webb Ellis Cup in his honor.
+The legend goes like this: in 1823, a student named William Webb Ellis at Rugby School in England picked up the ball during a football ([soccer](/soccer)) match and ran with it. It's almost certainly not true — the story surfaced decades after the supposed event and has no contemporary evidence. But it's a great origin myth, and the Rugby World Cup trophy is named the Webb Ellis Cup in his honor.
 
 What actually happened was more gradual. In the early 19th century, different English schools played different versions of football, and Rugby School's version allowed carrying the ball. When Rugby's students went to universities and clubs, they brought their rules. The Rugby Football Union was founded in 1871, establishing standardized rules. Rugby split from association football (soccer) formally, and then split again in 1895 when northern English clubs broke away over the issue of paying players, creating rugby league.
 
@@ -83,7 +83,7 @@ Rugby has a distinctive culture that separates it from other major sports.
 
 Rugby is played seriously in about 120 countries, with the strongest traditions in New Zealand, South Africa, Australia, England, France, Ireland, Wales, Scotland, Argentina, Fiji, Samoa, Tonga, and Japan. The Rugby World Cup, held every four years, is the third-largest sporting event in the world by viewership.
 
-New Zealand's All Blacks are the most successful team in the history of international sport — winning roughly 77% of all test matches ever played. Their pre-match haka (a Maori ceremonial dance) is one of the most recognizable rituals in sports.
+New Zealand's All Blacks are the most successful team in the history of international sport — winning roughly 77% of all test matches ever played. Their pre-match haka (a Maori ceremonial [dance](/dance)) is one of the most recognizable rituals in sports.
 
 Rugby Sevens — a fast, open version with seven players per side and seven-minute halves — became an Olympic sport in 2016 and has been growing rapidly, particularly in the United States, Kenya, and other non-traditional rugby nations. It's a spectacular introduction to the sport: fewer players, more space, more tries, more speed.
 

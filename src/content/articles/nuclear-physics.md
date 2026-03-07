@@ -5,7 +5,7 @@ description: "Nuclear physics studies the atomic nucleus and the forces holding 
 category: everyday-concepts
 tags: ["nuclear physics", "atomic energy", "radioactivity", "fission", "fusion", "particle physics"]
 heroImage: "/images/articles/nuclear-physics.webp"
-heroAlt: "Diagram of an atomic nucleus showing protons and neutrons held together by the strong force"
+heroAlt: "Editorial photograph representing the concept of nuclear physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Half-life is the time it takes for half of a radioactive substance to decay. It varies enormously: carbon-14 has a half-life of 5,730 years, uranium-238 has 4.5 billion years, and some isotopes used in medicine have half-lives of just hours or minutes. After 10 half-lives, less than 0.1% of the original material remains."
 ---
 
-# What Is Nuclear Physics?
+# What Is Nuclear [Physics](/physics)?
 
-Nuclear physics is the branch of physics that studies the atomic nucleus — the tiny, dense core of an atom made up of protons and neutrons. It examines how these particles are held together, how nuclei transform through radioactive decay, and what happens when you split them apart (fission) or smash them together (fusion). The field has given us everything from nuclear power plants and medical imaging to atomic weapons and our understanding of how stars burn.
+Nuclear physics is the branch of physics that studies the atomic nucleus — the tiny, dense core of an atom made up of protons and neutrons. It examines how these particles are held together, how nuclei transform through radioactive decay, and what happens when you split them apart (fission) or smash them together (fusion). The field has given us everything from [nuclear power](/nuclear-power) plants and [medical imaging](/medical-imaging) to atomic weapons and our understanding of how stars burn.
 
 ## Inside the Nucleus
 
@@ -39,7 +39,7 @@ An atom's nucleus is absurdly small — about 100,000 times smaller than the ato
 
 The nucleus contains two types of particles: protons (positively charged) and neutrons (no charge). Together they're called nucleons. The number of protons defines what element you're looking at — 1 proton is hydrogen, 6 is carbon, 92 is uranium. The number of neutrons can vary, creating isotopes — atoms of the same element with different masses.
 
-Here's the puzzle that drove early nuclear physics: protons are all positively charged, and positive charges repel each other. So what holds the nucleus together? The answer is the strong nuclear force — one of the four fundamental forces of nature. It's the strongest force known, roughly 100 times stronger than electromagnetism, but it only operates over extremely short distances (about the width of a nucleus). Beyond that range, it drops to essentially zero.
+Here's the puzzle that drove early nuclear physics: protons are all positively charged, and positive charges repel each other. So what holds the nucleus together? The answer is the strong nuclear force — one of the four fundamental forces of nature. It's the strongest force known, roughly 100 times stronger than [electromagnetism](/electromagnetism), but it only operates over extremely short distances (about the width of a nucleus). Beyond that range, it drops to essentially zero.
 
 ## Radioactivity — When Nuclei Fall Apart
 

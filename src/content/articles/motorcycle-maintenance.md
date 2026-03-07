@@ -5,7 +5,7 @@ description: "Motorcycle maintenance covers the routine care and repair of motor
 category: sports
 tags: ["motorcycle", "maintenance", "bike care", "vehicle maintenance", "motorcycle repair", "riding safety"]
 heroImage: "/images/articles/motorcycle-maintenance.webp"
-heroAlt: "Mechanic working on a motorcycle engine with tools spread on a garage workbench"
+heroAlt: "Editorial photograph representing the concept of motorcycle maintenance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Motorcycle Maintenance?
 
-Motorcycle maintenance is the regular care, inspection, and repair of motorcycles to keep them running safely, reliably, and efficiently. Unlike cars — which can often tolerate neglected maintenance for thousands of miles — motorcycles are less forgiving. They have fewer safety margins, more exposed components, and two-wheeled dynamics that demand everything works correctly.
+Motorcycle maintenance is the regular care, inspection, and repair of motorcycles to keep them [running](/running) safely, reliably, and efficiently. Unlike cars — which can often tolerate neglected maintenance for thousands of miles — motorcycles are less forgiving. They have fewer safety margins, more exposed components, and two-wheeled dynamics that demand everything works correctly.
 
 A well-maintained motorcycle is a joy to ride. A poorly maintained one is a hazard. Given that motorcyclists are roughly 29 times more likely per mile traveled to die in a crash than car occupants (according to NHTSA), maintenance isn't optional — it's survival.
 
@@ -77,7 +77,7 @@ Some tasks exceed most home mechanics' capabilities or require specialized equip
 
 Find a reputable independent shop or dealer service department. Ask riding community forums for recommendations. A good mechanic is worth their weight in motorcycle parts.
 
-## The Philosophy
+## The [Philosophy](/philosophy)
 
 Robert Pirsig's *Zen and the Art of Motorcycle Maintenance* (1974) used motorcycle care as a metaphor for quality, attention, and the relationship between human and machine. The metaphor works because motorcycle maintenance genuinely rewards attentiveness. When you maintain your own motorcycle, you develop an intimate understanding of how it works, what's normal and what's not, and how your actions affect its performance.
 

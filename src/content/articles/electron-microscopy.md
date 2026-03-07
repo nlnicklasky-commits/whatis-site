@@ -5,7 +5,7 @@ description: "Electron microscopy uses focused electron beams to image structure
 category: technology
 tags: ["electron microscopy", "microscopy", "science", "nanotechnology", "materials science", "biology", "tem"]
 heroImage: "/images/articles/electron-microscopy-hero.webp"
-heroAlt: "Detailed electron microscope image showing nanoscale structures"
+heroAlt: "Editorial photograph representing the concept of electron microscopy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ A TEM works conceptually like a slide projector: electrons pass *through* the sp
 
 **The catch**: Specimens must be extremely thin. Preparing a TEM sample is often the hardest part of the experiment. For metals and ceramics, this typically involves mechanical thinning followed by ion beam milling. For biological samples, it involves chemical fixation, dehydration, embedding in resin, and slicing with an ultramicrotome — a precision instrument that cuts sections just 50-100 nm thick using a glass or diamond knife.
 
-### Scanning Electron Microscopy (SEM)
+### [Scanning Electron Microscopy](/scanning-electron-microscopy) (SEM)
 
 An SEM works differently: instead of transmitting through the specimen, it scans a focused electron beam across the surface and collects the signals generated at each point. The result is an image of the specimen's surface topography — what it looks like from the outside.
 
@@ -120,7 +120,7 @@ Cryo-EM earned the 2017 Nobel Prize in Chemistry for Jacques Dubochet, Joachim F
 
 ### The Problem With Biological Electron Microscopy
 
-Traditional TEM requires specimens in a vacuum, which means biological samples must be dehydrated and chemically fixed — processes that inevitably alter the native structure. X-ray crystallography could determine protein structures, but only if you could grow crystals, and many important proteins stubbornly refuse to crystallize. Membrane proteins, large complexes, and flexible molecules were particularly resistant.
+Traditional TEM requires specimens in a vacuum, which means biological samples must be dehydrated and chemically fixed — processes that inevitably alter the native structure. [X-ray crystallography](/x-ray-crystallography) could determine protein structures, but only if you could grow crystals, and many important proteins stubbornly refuse to crystallize. Membrane proteins, large complexes, and flexible molecules were particularly resistant.
 
 ### The Cryo-EM Solution
 
@@ -204,10 +204,10 @@ Scanning the electron beam across a specimen while recording a full diffraction 
 
 ## Why It Matters
 
-Electron microscopy has shaped modern science and technology more than most people realize. The structure of [cell biology](/cell-biology) — organelles, membranes, cytoskeleton — was revealed by TEM. The mechanisms of material failure are understood through SEM. Semiconductor manufacturing depends on electron microscopy for quality control. Drug development increasingly relies on cryo-EM for structural biology.
+Electron microscopy has shaped modern science and technology more than most people realize. The structure of [cell biology](/cell-biology) — organelles, membranes, cytoskeleton — was revealed by TEM. The mechanisms of material failure are understood through SEM. Semiconductor manufacturing depends on electron microscopy for quality control. Drug development increasingly relies on cryo-EM for [structural biology](/structural-biology).
 
 Whenever you need to see something too small for light — and in science and engineering, you need this constantly — electron microscopy is how it gets done. It transformed our understanding of the nanoscale world and continues to push the boundaries of what we can observe and measure.
 
 ## Key Takeaways
 
-Electron microscopy uses focused electron beams to achieve imaging resolution far beyond the limits of optical microscopy — down to individual atoms with modern aberration-corrected instruments. TEM reveals internal structure by transmitting electrons through thin specimens, while SEM maps surface topography by scanning a focused beam. Cryo-EM has transformed structural biology by enabling near-atomic-resolution imaging of proteins without crystallization. Combined with analytical techniques like EDS, EELS, and electron diffraction, electron microscopy provides both structural and chemical information at the nanoscale, making it indispensable across materials science, biology, semiconductor manufacturing, and medicine.
+Electron microscopy uses focused electron beams to achieve imaging resolution far beyond the limits of optical microscopy — down to individual atoms with modern aberration-corrected instruments. TEM reveals internal structure by transmitting electrons through thin specimens, while SEM maps surface topography by scanning a focused beam. Cryo-EM has transformed structural biology by enabling near-atomic-resolution imaging of proteins without crystallization. Combined with analytical techniques like EDS, EELS, and electron diffraction, electron microscopy provides both structural and chemical information at the nanoscale, making it indispensable across [materials science](/materials-science), biology, semiconductor manufacturing, and medicine.

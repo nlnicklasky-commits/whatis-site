@@ -5,7 +5,7 @@ description: "Folk dancing refers to traditional dances passed down within cultu
 category: arts-amp-culture
 tags: ["dance", "culture", "traditional dance", "folklore", "community", "heritage"]
 heroImage: "/images/articles/folk-dancing.webp"
-heroAlt: "Group of dancers in traditional costumes performing a folk dance circle"
+heroAlt: "Editorial photograph representing the concept of folk dancing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Folk Dancing?
 
-Folk dancing is traditional dance performed by ordinary people within their cultural communities — at weddings, festivals, harvest celebrations, religious ceremonies, and social gatherings. Unlike ballet or contemporary dance, folk dancing isn't created by choreographers for stage performance. It develops organically over generations, evolving as communities pass steps, patterns, and music from parents to children, from neighbors to neighbors.
+Folk dancing is traditional [dance](/dance) performed by ordinary people within their cultural communities — at weddings, festivals, harvest celebrations, religious ceremonies, and social gatherings. Unlike [ballet](/ballet) or contemporary dance, folk dancing isn't created by choreographers for stage performance. It develops organically over generations, evolving as communities pass steps, patterns, and music from parents to children, from neighbors to neighbors.
 
 ## The Common Thread
 
@@ -43,7 +43,7 @@ They're **participatory.** Folk dances are meant for everyone, not just trained 
 
 They're **traditional.** The movements, music, and occasions for folk dancing are inherited from previous generations. Changes happen slowly, through gradual evolution rather than individual innovation.
 
-They're **tied to music.** Each folk dance tradition has its own musical accompaniment — specific instruments, rhythms, and melodies that are inseparable from the dance. You can't separate Irish step dancing from its fiddle music or flamenco from its guitar.
+They're **tied to music.** Each folk dance tradition has its own musical accompaniment — specific instruments, rhythms, and melodies that are inseparable from the dance. You can't separate Irish step dancing from its fiddle music or flamenco from its [guitar](/guitar).
 
 ## Folk Dances Around the World
 
@@ -53,13 +53,13 @@ The variety is staggering. A sampling:
 
 **Greek folk dancing** includes dozens of regional styles. The sirtaki (popularized by the film *Zorba the Greek*) starts slowly and accelerates. The kalamatianos is a 12-beat circle dance. Greek dancing is deeply social — wedding celebrations can involve hours of continuous group dancing.
 
-**Indian folk dances** vary dramatically by region. Garba and dandiya from Gujarat involve circular formations and rhythmic stick work. Bhangra from Punjab is energetic and celebratory, featuring vigorous jumps and arm movements. Kathakali from Kerala is a theatrical dance-drama with elaborate costumes and facial expressions (though some classify this as classical rather than folk).
+**Indian folk dances** vary dramatically by region. Garba and dandiya from Gujarat involve circular formations and rhythmic stick work. Bhangra from Punjab is energetic and celebratory, featuring vigorous jumps and arm movements. Kathakali from Kerala is a theatrical dance-[drama](/drama) with elaborate costumes and facial expressions (though some classify this as classical rather than folk).
 
 **American square dancing** — four couples arranged in a square following a caller's instructions — derives from English, Scottish, and French dance traditions brought by colonists. It was designated the national folk dance of the United States by some states, though this is debated.
 
 **Mexican folk dances** include the jarabe tapatio (the "hat dance," considered the national dance), baile folklorico regional variations, and the danza de los viejitos (dance of the little old men) from Michoacan.
 
-**Flamenco** from southern Spain combines dance, singing, guitar, and hand clapping. While it's often performed professionally today, its roots are in the Romani, Andalusian, and Moorish communities of southern Spain. Flamenco's emotional intensity — the concept of *duende* (deep emotional expressiveness) — sets it apart from most other folk traditions.
+**Flamenco** from southern Spain combines dance, [singing](/singing), guitar, and hand clapping. While it's often performed professionally today, its roots are in the Romani, Andalusian, and Moorish communities of southern Spain. Flamenco's emotional intensity — the concept of *duende* (deep emotional expressiveness) — sets it apart from most other folk traditions.
 
 ## Cultural Significance
 
@@ -67,13 +67,13 @@ Folk dancing does more than entertain. It maintains cultural identity, especiall
 
 Dance also encodes social information. Wedding dances establish the new couple's place in the community. Harvest dances mark seasonal transitions. Courtship dances allow supervised romantic interaction. The specific movements often carry symbolic meaning — stamping might represent driving away evil spirits, circular formations might represent unity or the cycle of life.
 
-During periods of cultural suppression, folk dancing sometimes became an act of resistance. Irish dancing persisted despite English colonial attempts to suppress Gaelic culture. Native American dances were banned by the U.S. government from 1883 to 1934 — they survived through secret practice and persistence.
+During periods of cultural suppression, folk dancing sometimes became an act of resistance. Irish dancing persisted despite English colonial attempts to suppress Gaelic culture. Native American dances were banned by the U.S. [government](/government) from 1883 to 1934 — they survived through secret practice and persistence.
 
 ## The Revival Movement
 
 Folk dancing experienced a major revival in the 20th century as urbanization threatened traditional practices. In many countries, folk dance societies formed specifically to document, preserve, and promote traditional dances.
 
-The international folk dance movement — which became popular in the U.S. in the 1940s and 50s — introduced Americans to dances from around the world. Recreational folk dance groups still meet regularly in many cities, teaching dances from dozens of traditions in a single evening.
+The international folk dance movement — which became popular in the U.S. in the 1940s and 50s — introduced Americans to dances from around the world. Recreational folk dance groups still meet regularly in many cities, [teaching](/teaching) dances from dozens of traditions in a single evening.
 
 Competitive folk dancing exists too. Irish dance competitions (feiseanna) attract thousands of dancers worldwide. Folklorico competitions in Mexico and the U.S. showcase regional traditions with elaborate costumes and choreography.
 

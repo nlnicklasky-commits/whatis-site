@@ -5,7 +5,7 @@ description: "Metal detecting is the hobby of using electronic devices to find b
 category: everyday-concepts
 tags: ["metal detecting", "treasure hunting", "hobby", "archaeology", "coins", "artifacts"]
 heroImage: "/images/articles/metal-detecting.webp"
-heroAlt: "Person sweeping a metal detector across a grassy field on a sunny day"
+heroAlt: "Editorial photograph representing the concept of metal detecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -67,11 +67,11 @@ Beyond the detector itself:
 
 **Old roads, trails, and gathering places** — anywhere people historically congregated, dropped coins, and lost belongings. Research is a major part of the hobby. Successful detectorists study old maps, historical records, and property deeds to find promising locations.
 
-**Off-limits areas** — national parks, state historic sites, battlefields, and archaeological sites are universally prohibited. Federal law (the Archaeological Resources Protection Act) makes detecting on federal land a criminal offense with penalties up to $100,000 and imprisonment. These laws exist to protect irreplaceable historical sites from uncontrolled digging.
+**Off-limits areas** — [national parks](/national-parks), state historic sites, battlefields, and archaeological sites are universally prohibited. Federal law (the Archaeological Resources Protection Act) makes detecting on federal land a criminal offense with penalties up to $100,000 and imprisonment. These laws exist to protect irreplaceable historical sites from uncontrolled digging.
 
-## The Ethics
+## The [Ethics](/ethics)
 
-Metal detecting exists in tension with professional archaeology. Archaeologists value context — where an object was found, what was next to it, and what layer of soil it was in. This context tells the story of the past. A detectorist who digs up a Roman coin has an interesting object; an archaeologist who finds it in situ can reconstruct the history of a settlement.
+Metal detecting exists in tension with professional [archaeology](/archaeology). Archaeologists value context — where an object was found, what was next to it, and what layer of soil it was in. This context tells the story of the past. A detectorist who digs up a Roman coin has an interesting object; an archaeologist who finds it in situ can reconstruct the history of a settlement.
 
 Responsible detectorists follow a code of ethics: obtain permission, fill all holes, report significant finds to local authorities or museums, don't damage archaeological sites, and remove trash. Many detectorists work cooperatively with archaeologists, and some significant archaeological investigations have begun with a detectorist's discovery.
 

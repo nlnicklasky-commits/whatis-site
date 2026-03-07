@@ -5,7 +5,7 @@ description: "Grammar is the system of rules governing how words combine into se
 category: everyday-concepts
 tags: ["grammar", "language", "linguistics", "writing", "syntax", "English"]
 heroImage: "/images/articles/grammar.webp"
-heroAlt: "Open book with highlighted text showing sentence structure diagrams"
+heroAlt: "Editorial photograph representing the concept of grammar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ English grammar organizes words into categories (parts of speech) that serve dif
 
 **Adjectives** modify nouns (the *red* car). **Adverbs** modify verbs, adjectives, or other adverbs (she ran *quickly*). **Prepositions** show relationships between words (on, in, under, between). **Conjunctions** connect words and clauses (and, but, because). **Articles** (a, an, the) specify nouns. **Pronouns** replace nouns (he, she, they, it).
 
-These categories interact through **syntax** — the rules governing word order and sentence structure. English is an SVO language (Subject-Verb-Object): "The dog bit the man." Japanese is SOV: the equivalent would be "The dog the man bit." Both convey the same meaning through different structural rules.
+These categories interact through **[syntax](/syntax)** — the rules governing word order and sentence structure. English is an SVO language (Subject-Verb-Object): "The dog bit the man." Japanese is SOV: the equivalent would be "The dog the man bit." Both convey the same meaning through different structural rules.
 
 ## Sentences and Clauses
 
@@ -75,7 +75,7 @@ Some grammar "rules" aren't really rules at all — they're preferences that got
 
 **Singular "they"** — using "they" to refer to one person of unspecified or non-binary gender. Prescriptivists historically objected because "they" is "plural." But English speakers have used singular "they" since the 14th century (Chaucer did it), and it fills a genuine gap in English's pronoun system. Major style guides including the AP Stylebook now accept it.
 
-**"Who" versus "whom"** — "whom" is the object form (like "him" versus "he"). In formal writing, the distinction matters. In speech, "whom" is rapidly disappearing — most English speakers never use it naturally, which suggests the language is simplifying its pronoun system (again).
+**"Who" versus "whom"** — "whom" is the object form (like "him" versus "he"). In formal [writing](/writing), the distinction matters. In speech, "whom" is rapidly disappearing — most English speakers never use it naturally, which suggests the language is simplifying its pronoun system (again).
 
 ## Why Grammar Matters
 

@@ -5,7 +5,7 @@ description: "Naturopathy is a form of medicine using natural therapies like her
 category: health-amp-wellness
 tags: ["naturopathy", "natural medicine", "alternative medicine", "preventative care"]
 heroImage: "/images/articles/naturopathy.webp"
-heroAlt: "Naturopathic consultation with herbal preparations and nutritional supplements on a desk"
+heroAlt: "Editorial photograph representing the concept of naturopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,17 +33,17 @@ faq:
 
 # What Is Naturopathy?
 
-Naturopathy is a system of medicine that emphasizes the body's ability to heal itself through natural therapies — herbal medicine, clinical nutrition, lifestyle counseling, physical therapies, and sometimes more controversial treatments like homeopathy. It's been around in some form since the late 19th century, and it currently occupies an awkward middle ground between mainstream medicine and the alternative health fringe.
+Naturopathy is a system of medicine that emphasizes the body's ability to heal itself through natural therapies — [herbal medicine](/herbal-medicine), clinical nutrition, lifestyle counseling, physical therapies, and sometimes more controversial treatments like [homeopathy](/homeopathy). It's been around in some form since the late 19th century, and it currently occupies an awkward middle ground between mainstream medicine and the alternative health fringe.
 
-Here's what makes naturopathy interesting and complicated at the same time: it contains treatments with genuine scientific support sitting right next to treatments with essentially none. Nutritional counseling for diabetes management? That's evidence-based. Homeopathic dilutions for chronic illness? The scientific consensus says that's water. A naturopathic doctor might offer both in the same visit.
+Here's what makes naturopathy interesting and complicated at the same time: it contains treatments with genuine scientific support sitting right next to treatments with essentially none. Nutritional counseling for [diabetes management](/diabetes-management)? That's evidence-based. Homeopathic dilutions for chronic illness? The scientific consensus says that's water. A naturopathic doctor might offer both in the same visit.
 
 ## Origins and History
 
 Naturopathy traces its modern roots to Benedict Lust, a German immigrant who founded the American School of Naturopathy in New York City in 1901. Lust drew on European "nature cure" traditions — water therapy, fresh air, sunlight, herbal remedies, and vegetarian diets — that had been popular in Germany since the mid-1800s.
 
-The early naturopathic movement grew alongside other alternative health movements of the era: chiropractic, osteopathy, homeopathy, and the physical culture movement. All of them pushed back against the conventional medicine of their time, which — to be fair — relied heavily on mercury, bloodletting, and other treatments that often did more harm than good.
+The early naturopathic movement grew alongside other alternative health movements of the era: [chiropractic](/chiropractic), osteopathy, homeopathy, and the physical culture movement. All of them pushed back against the conventional medicine of their time, which — to be fair — relied heavily on mercury, bloodletting, and other treatments that often did more harm than good.
 
-Naturopathy thrived in the early 20th century, then nearly disappeared. The Flexner Report of 1910 standardized American medical education around the scientific method, and naturopathic schools couldn't compete. By the 1960s, only a handful of naturopathic colleges remained in the United States.
+Naturopathy thrived in the early 20th century, then nearly disappeared. The Flexner Report of 1910 standardized American medical education around the [scientific method](/scientific-method), and naturopathic schools couldn't compete. By the 1960s, only a handful of naturopathic colleges remained in the United States.
 
 The revival started in the 1970s, fueled by the counterculture movement's distrust of institutional medicine and growing interest in preventive health. Today, there are seven accredited naturopathic medical schools in North America, and naturopathic doctors are licensed in 29 U.S. states, the District of Columbia, and five Canadian provinces.
 
@@ -79,7 +79,7 @@ Herbal remedies in various forms — tinctures, capsules, teas, topical preparat
 Exercise recommendations, stress management techniques, sleep hygiene, and behavioral changes. This is straightforward and well-supported. The challenge in conventional medicine is that doctors rarely have time for it — a 15-minute office visit doesn't allow for a detailed conversation about someone's sleep habits and work stress.
 
 ### Physical Medicine
-Hydrotherapy (therapeutic use of water — hot and cold applications, baths, wraps), massage, and sometimes manipulation techniques similar to those used in physical therapy or chiropractic.
+Hydrotherapy (therapeutic use of water — hot and cold applications, baths, wraps), massage, and sometimes manipulation techniques similar to those used in [physical therapy](/physical-therapy) or chiropractic.
 
 ### Homeopathy
 This is where naturopathy runs into serious scientific problems. Homeopathy uses substances diluted to the point where no molecules of the original substance remain — the idea being that water retains a "memory" of the substance. Multiple systematic reviews, including a thorough 2015 review by Australia's National Health and Medical Research Council, have concluded that homeopathy is not effective for any health condition beyond placebo.
@@ -90,7 +90,7 @@ Not all naturopaths emphasize homeopathy equally. Some use it extensively; other
 
 The credentialing field for naturopathy is confusing, and it matters a lot for patient safety.
 
-**Licensed naturopathic doctors (NDs)** in regulated states have completed a four-year doctoral program at an accredited naturopathic medical school. Their education includes two years of basic sciences (anatomy, physiology, biochemistry, pathology, microbiology) and two years of clinical training. They must pass board examinations administered by the North American Board of Naturopathic Examiners (NABNE).
+**Licensed naturopathic doctors (NDs)** in regulated states have completed a four-year doctoral program at an accredited naturopathic medical school. Their education includes two years of basic sciences (anatomy, physiology, [biochemistry](/biochemistry), pathology, [microbiology](/microbiology)) and two years of clinical training. They must pass board examinations administered by the North American Board of Naturopathic Examiners (NABNE).
 
 **Traditional naturopaths** may have completed correspondence courses, weekend seminars, or self-study. In states without licensing laws, anyone can call themselves a naturopath. This creates a real risk — an unlicensed practitioner might miss a serious diagnosis, recommend harmful treatments, or advise against necessary medical care.
 
@@ -100,7 +100,7 @@ The distinction between these two categories is critical. A licensed ND in Orego
 
 The research base for naturopathy as a whole is limited but growing. Some findings:
 
-A 2019 systematic review in the *Journal of Alternative and Complementary Medicine* found that naturopathic care was associated with improvements in cardiovascular risk factors, chronic pain, diabetes management, and mental health conditions. But the review also noted that study quality was generally low and more rigorous trials are needed.
+A 2019 systematic review in the *Journal of Alternative and Complementary Medicine* found that naturopathic care was associated with improvements in cardiovascular risk factors, chronic pain, diabetes management, and [mental health](/mental-health) conditions. But the review also noted that study quality was generally low and more rigorous trials are needed.
 
 A 2013 randomized controlled trial published in the *Canadian Medical Association Journal* found that naturopathic care (including dietary counseling, physical activity promotion, and deep breathing techniques) significantly reduced cardiovascular risk in postal workers over one year.
 
@@ -112,7 +112,7 @@ Naturopathy faces legitimate criticism from several directions:
 
 **Homeopathy.** Its inclusion undermines the field's scientific credibility. Many reform-minded naturopaths acknowledge this privately, but it remains part of the standard curriculum.
 
-**Anti-vaccination sentiment.** While the American Association of Naturopathic Physicians officially supports vaccination, surveys have found that some naturopathic doctors advise patients against or express skepticism about standard vaccination schedules. This is a genuine public health concern.
+**Anti-vaccination sentiment.** While the American Association of Naturopathic Physicians officially supports vaccination, surveys have found that some naturopathic doctors advise patients against or express skepticism about standard vaccination schedules. This is a genuine [public health](/public-health) concern.
 
 **Scope of practice concerns.** Critics argue that naturopathic training, while substantial, doesn't prepare NDs to handle complex medical conditions. There have been cases of naturopaths treating cancer with unproven therapies while patients delayed or refused conventional treatment.
 

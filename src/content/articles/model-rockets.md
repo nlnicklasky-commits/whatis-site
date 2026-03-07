@@ -5,7 +5,7 @@ description: "Model rocketry is the hobby and science of building and launching 
 category: technology
 tags: ["model rockets", "rocketry", "aerospace", "stem", "hobby", "propulsion", "engineering"]
 heroImage: "/images/articles/model-rockets-hero.webp"
-heroAlt: "A model rocket launching from a pad in an open field with a trail of smoke"
+heroAlt: "Editorial photograph representing the concept of model rockets"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,11 +53,11 @@ The hobby is also surprisingly accessible. A basic model rocket kit costs $15-30
 
 In the 1940s and 1950s, teenage rocket enthusiasts built their own motors from scratch—mixing potassium nitrate and sugar, experimenting with zinc and sulfur, sometimes using actual gunpowder. The results were often spectacular, occasionally in the wrong way. Homemade motors exploded without warning. Rockets veered wildly. Several young experimenters were seriously injured or killed.
 
-The problem wasn't the enthusiasm—it was the lack of standardized, safe propellant systems. Making your own rocket motor requires expertise in chemistry, materials science, and quality control that teenagers (and frankly, most adults) don't have.
+The problem wasn't the enthusiasm—it was the lack of standardized, safe propellant systems. Making your own rocket motor requires expertise in chemistry, [materials science](/materials-science), and quality control that teenagers (and frankly, most adults) don't have.
 
 ### Orville Carlisle and the First Commercial Motors
 
-In 1954, a licensed pyrotechnics manufacturer named Orville Carlisle read about the injuries plaguing amateur rocketry and decided to do something about it. He developed factory-made, pre-loaded solid propellant motors that were consistent, reliable, and safe. Instead of mixing volatile chemicals in a garage, you'd buy a sealed motor, insert it into your rocket, and launch with confidence.
+In 1954, a licensed [pyrotechnics](/pyrotechnics) manufacturer named Orville Carlisle read about the injuries plaguing amateur rocketry and decided to do something about it. He developed factory-made, pre-loaded solid propellant motors that were consistent, reliable, and safe. Instead of mixing volatile chemicals in a garage, you'd buy a sealed motor, insert it into your rocket, and launch with confidence.
 
 Carlisle partnered with G. Harry Stine, a civilian safety officer at White Sands Missile Range, who had witnessed firsthand the disasters of homemade motors. Together, they established the safety codes and design standards that still govern model rocketry today.
 
@@ -185,7 +185,7 @@ High-power rocketry uses motors in classes H through O—far more powerful than 
 HPR requires certification through NAR or Tripoli:
 - **Level 1:** Successfully fly a rocket on an H or I motor.
 - **Level 2:** Pass a written exam and fly a rocket on a J, K, or L motor.
-- **Level 3:** Submit detailed construction documentation, have the rocket inspected, and fly on an M motor or above.
+- **Level 3:** Submit detailed [construction](/construction) documentation, have the rocket inspected, and fly on an M motor or above.
 
 The certification process ensures that pilots understand the additional risks, regulations, and engineering demands of larger rockets. HPR launches must comply with FAA regulations (waivers for flights above certain altitudes), use fire-resistant recovery systems, and follow more stringent safety codes.
 
@@ -211,10 +211,10 @@ Some university teams aim even higher. The Portland State Aerospace Society and 
 
 There's a reason NASA, the Department of Defense, and aerospace companies actively support model rocketry programs. Building and flying rockets teaches:
 
-- **Physics:** Newton's laws, aerodynamics, thermodynamics, ballistics
-- **Mathematics:** Trajectory calculations, trigonometry (for tracking altitude), statistics (for analyzing flight data)
+- **Physics:** Newton's laws, aerodynamics, [thermodynamics](/thermodynamics), ballistics
+- **Mathematics:** Trajectory calculations, [trigonometry](/trigonometry) (for tracking altitude), statistics (for analyzing flight data)
 - **Engineering design:** Iterative design process, testing, failure analysis
-- **Project management:** Planning, budgeting, scheduling
+- **[Project management](/project-management):** Planning, budgeting, scheduling
 
 The 4-H, Boy Scouts, Girl Scouts, and Civil Air Patrol all have model rocketry programs. Middle and high school teachers use rocketry to make [physics](/computational-physics) tangible—students care a lot more about calculating drag coefficients when their rocket's altitude depends on getting it right.
 

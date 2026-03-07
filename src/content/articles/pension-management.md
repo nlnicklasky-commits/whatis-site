@@ -5,7 +5,7 @@ description: "Pension management handles retirement funds through investment, ac
 category: finance
 tags: ["pension management", "retirement planning", "defined benefit", "defined contribution", "actuarial science", "investment management"]
 heroImage: "/images/articles/pension-management-hero.webp"
-heroAlt: "Illustration of pension fund growth over time with retirement savings graphs"
+heroAlt: "Editorial photograph representing the concept of pension management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,9 +67,9 @@ Defined contribution (DC) plans — think 401(k)s in the U.S., RRSPs in Canada, 
 
 What you get in retirement depends entirely on how much went in and how those investments performed. Great market returns? You retire comfortably. Bad timing, poor fund choices, or insufficient contributions? That's your problem.
 
-This shift from DB to DC plans represents one of the largest transfers of financial risk in modern history — from employers to individual workers. And frankly, most workers aren't equipped to manage that risk well. Studies consistently show that people contribute too little, invest too conservatively when young (or too aggressively near retirement), and pay too much in fees.
+This shift from DB to DC plans represents one of the largest transfers of financial risk in [modern history](/modern-history) — from employers to individual workers. And frankly, most workers aren't equipped to manage that risk well. Studies consistently show that people contribute too little, invest too conservatively when young (or too aggressively near retirement), and pay too much in fees.
 
-Managing DC plans involves a different skill set than DB plans. It's less about actuarial projections and more about plan design, investment menu construction, participant education, and regulatory compliance.
+Managing DC plans involves a different skill set than DB plans. It's less about actuarial projections and more about plan design, investment menu [construction](/construction), participant education, and regulatory compliance.
 
 ## The Actuarial Engine: Predicting the Unpredictable
 
@@ -104,7 +104,7 @@ The fundamental question for any pension fund is how to divide its assets among 
 - **Equities (stocks):** 40-60% — the growth engine, but volatile
 - **Fixed income (bonds):** 20-35% — steadier returns, lower risk
 - **Real estate:** 5-15% — inflation protection and income
-- **Alternative investments:** 10-25% — private equity, hedge funds, infrastructure, commodities
+- **Alternative investments:** 10-25% — [private equity](/private-equity), hedge funds, infrastructure, commodities
 
 The right mix depends on the fund's demographics. A young fund with mostly active workers can afford more risk because payouts are decades away. A mature fund with many retirees needs more stability because it's writing checks every month.
 

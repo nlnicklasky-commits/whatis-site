@@ -5,7 +5,7 @@ description: "Pottery is the craft of shaping clay into functional or decorative
 category: arts-amp-culture
 tags: ["pottery", "ceramics", "clay", "kiln", "glazing", "hand-building"]
 heroImage: "/images/articles/pottery.webp"
-heroAlt: "Hands shaping wet clay on a spinning pottery wheel"
+heroAlt: "Editorial photograph representing the concept of pottery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -56,10 +56,10 @@ Once centered, you open the clay (pushing a hole into the center), then pull up 
 **Hand-building** doesn't use a wheel. The three main hand-building techniques are:
 
 - **Coil building** — rolling clay into long ropes and stacking them to build up walls, then smoothing the coils together. This is how pottery was made for thousands of years before the wheel was invented, and it can produce pieces too large for any wheel.
-- **Slab building** — rolling clay flat like dough, cutting shapes, and joining them together. Think of it as clay carpentry. It's great for angular, architectural forms that would be difficult on a wheel.
+- **Slab building** — rolling clay flat like dough, cutting shapes, and joining them together. Think of it as clay [carpentry](/carpentry). It's great for angular, architectural forms that would be difficult on a wheel.
 - **Pinch pots** — starting with a ball of clay and pinching it into shape with your fingers. The simplest technique, and the one most kindergarteners learn. But in skilled hands, pinch pots can be extraordinarily refined.
 
-**Slip casting** uses liquid clay (slip) poured into plaster molds. The plaster absorbs water from the slip, leaving a clay shell that can be removed and finished. This is how most commercial ceramics are produced — identical cups, plates, and figurines in large quantities.
+**Slip casting** uses liquid clay (slip) poured into plaster molds. The plaster absorbs water from the slip, leaving a clay shell that can be removed and finished. This is how most commercial [ceramics](/ceramics) are produced — identical cups, plates, and figurines in large quantities.
 
 ## Firing
 
@@ -75,11 +75,11 @@ Kiln atmospheres matter too. **Oxidation** firing (plenty of oxygen, typical of 
 
 ## A Very Old Craft
 
-The oldest known pottery fragments were found in China's Xianrendong Cave and date to approximately 20,000 years ago — long before agriculture, metal-working, or writing. These early pots were likely used for cooking, which makes pottery one of the earliest human technologies.
+The oldest known pottery fragments were found in China's Xianrendong Cave and date to approximately 20,000 years ago — long before [agriculture](/agriculture), metal-working, or [writing](/writing). These early pots were likely used for [cooking](/cooking), which makes pottery one of the earliest human technologies.
 
 Pottery developed independently in multiple places: East Asia, the Middle East, Africa, and the Americas. The potter's wheel appeared in Mesopotamia around 3500 BCE and reached Europe by roughly 2000 BCE. Some traditions — including many in Africa and the Americas — never adopted the wheel, developing hand-building techniques to remarkable levels of sophistication instead.
 
-Every civilization that left archaeological traces left pottery. Because fired clay survives underground for millennia, pottery fragments (sherds) are among the most common archaeological finds. They tell us about trade routes, cultural contacts, technological development, and daily life in ways that few other artifacts can.
+Every civilization that left archaeological traces left pottery. Because fired clay survives underground for millennia, pottery fragments (sherds) are among the most common archaeological finds. They tell us about [trade](/trade) routes, cultural contacts, technological development, and daily life in ways that few other artifacts can.
 
 ## Why People Still Do It
 

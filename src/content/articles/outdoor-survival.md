@@ -5,7 +5,7 @@ description: "Outdoor survival is the skill of staying alive in wilderness situa
 category: everyday-concepts
 tags: ["outdoor survival", "wilderness skills", "bushcraft", "emergency preparedness", "camping", "first aid"]
 heroImage: "/images/articles/outdoor-survival.webp"
-heroAlt: "A campfire burning in a wilderness setting surrounded by basic survival shelter materials"
+heroAlt: "Editorial photograph representing the concept of outdoor survival"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -58,7 +58,7 @@ The key principle: small shelters retain heat better than large ones. Build just
 
 Dehydration degrades decision-making before you notice physical symptoms. By the time you feel seriously thirsty, your cognitive function is already impaired — exactly when you need it most.
 
-Finding water in the wild depends on terrain. Follow drainages downhill — water flows to the lowest point. Look for green vegetation, which indicates moisture. Listen for running water. In the morning, collect dew from grass and leaves using an absorbent cloth.
+Finding water in the wild depends on terrain. Follow drainages downhill — water flows to the lowest point. Look for green vegetation, which indicates moisture. Listen for [running](/running) water. In the morning, collect dew from grass and leaves using an absorbent cloth.
 
 **All wild water should be treated** before drinking. Clear, fast-moving streams can carry Giardia, Cryptosporidium, and other pathogens. Methods include boiling (1 minute at a rolling boil — 3 minutes above 6,500 feet elevation), chemical treatment (iodine or chlorine dioxide tablets), filtration through a commercial or improvised filter, or UV treatment.
 
@@ -66,7 +66,7 @@ If you have no treatment method, drinking untreated water is still better than d
 
 ## Fire
 
-Fire does multiple jobs in a survival situation: warmth, water purification, signaling, cooking, light, and psychological comfort. That last one matters more than you'd think — a fire at night in the wilderness can mean the difference between controlled calm and spiraling panic.
+Fire does multiple jobs in a survival situation: warmth, [water purification](/water-purification), signaling, [cooking](/cooking), light, and psychological comfort. That last one matters more than you'd think — a fire at night in the wilderness can mean the difference between controlled calm and spiraling panic.
 
 The fire triangle: fuel, heat, ignition. Gather tinder (dry grass, bark shavings, birch bark, dryer lint if you have it), kindling (pencil-sized dry sticks), and fuel (wrist-sized and larger wood). Start small and build up gradually.
 
@@ -80,13 +80,13 @@ In most survival situations, rescue is your best outcome. Making yourself findab
 
 Mirrors or any reflective surface can signal aircraft from miles away. A signal mirror flash can be seen for over 20 miles in clear conditions.
 
-Stay near your last known position if possible. Search efforts concentrate on your planned route. Walking randomly makes you harder to find, wastes energy, and risks injury.
+Stay near your last known position if possible. Search efforts concentrate on your planned route. [Walking](/walking) randomly makes you harder to find, wastes energy, and risks injury.
 
 If you have a cell phone, conserve battery. Turn it off between attempts to call. Even without cell service, a phone can sometimes reach 911 via other carriers' towers. Text messages require less signal strength than voice calls.
 
 ## The Mindset Factor
 
-Here's the part that survival instructors emphasize more than any technical skill: your mental state determines your survival more than your gear, your training, or your physical fitness.
+Here's the part that survival instructors emphasize more than any technical skill: your mental state determines your survival more than your gear, your training, or your physical [fitness](/fitness).
 
 People with positive attitudes, problem-solving mindsets, and the ability to manage fear consistently outperform stronger, better-equipped individuals who panic. The U.S. military's SERE (Survival, Evasion, Resistance, Escape) training emphasizes psychological resilience as much as practical skills.
 
@@ -94,9 +94,9 @@ The STOP acronym works in any emergency: **S**it down. **T**hink. **O**bserve yo
 
 Accept your situation. Wishing you weren't lost doesn't help. Beating yourself up for the mistake that got you here doesn't help. Assess what you have, assess what you need, and start working the problem.
 
-## Preparation Beats Survival Skills
+## Preparation Beats [Survival Skills](/survival-skills)
 
-Honestly, the best survival strategy is not needing to survive. Tell someone your plans and expected return time before every trip. Carry the "ten essentials" (navigation tools, sun protection, insulation, illumination, first aid supplies, fire-starting tools, repair tools, nutrition, hydration, and emergency shelter). Check weather forecasts. Know your limits.
+Honestly, the best survival strategy is not needing to survive. Tell someone your plans and expected return time before every trip. Carry the "ten essentials" ([navigation](/navigation) tools, sun protection, insulation, illumination, [first aid](/first-aid) supplies, fire-starting tools, repair tools, [nutrition](/nutrition), hydration, and emergency shelter). Check weather forecasts. Know your limits.
 
 A $5 emergency space blanket weighs 2 ounces and can save your life in a hypothermia situation. A whistle weighs nothing and is audible for miles. A water purification tablet weighs less than a penny. The effort of carrying basic emergency gear is trivial compared to the consequences of being caught without it.
 

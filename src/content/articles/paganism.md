@@ -5,7 +5,7 @@ description: "Paganism encompasses nature-based spiritual traditions including W
 category: philosophy
 tags: ["paganism", "neopaganism", "wicca", "druidry", "heathenry", "nature worship", "polytheism"]
 heroImage: "/images/articles/paganism-hero.webp"
-heroAlt: "A stone circle at sunset with candles and natural offerings arranged for a seasonal ceremony"
+heroAlt: "Editorial photograph representing the concept of paganism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Paganism is an umbrella term for a diverse collection of spiritual traditions th
 
 ## The Word Itself: A Complicated History
 
-The word "pagan" comes from the Latin *paganus*, meaning "country dweller" or "villager." In late Roman times, as Christianity spread through cities first, rural populations were the last to abandon the old religions. "Pagan" became a label for anyone who hadn't converted — essentially "those backward country folk who still worship the old gods."
+The word "pagan" comes from the Latin *paganus*, meaning "country dweller" or "villager." In late Roman times, as [Christianity](/christianity) spread through cities first, rural populations were the last to abandon the old religions. "Pagan" became a label for anyone who hadn't converted — essentially "those backward country folk who still worship the old gods."
 
 From the start, then, "pagan" was an outsider label, applied by Christians to non-Christians. It wasn't a self-identification. Nobody in ancient Rome said "I'm a pagan." They said "I worship Jupiter" or "I follow the rites of Isis" or simply performed the rituals their ancestors had always performed.
 
@@ -65,7 +65,7 @@ The pre-Christian religions of northern Europe are harder to reconstruct because
 
 Celtic religion appears to have been animistic and polytheistic, with a strong emphasis on natural features — sacred groves, springs, rivers, and hills. The druids (a priestly class) maintained oral traditions and performed rituals at seasonal turning points. The Romans described druid ceremonies with a mixture of fascination and horror, though how much of their reporting was accurate vs. propaganda remains debated.
 
-Germanic and Norse religion — the source material for modern Heathenry — centered on a pantheon including Odin, Thor, Freya, and dozens of other deities. Religious practice involved blot (sacrifice), sumbel (ritual drinking), and seasonal festivals. The Eddas and sagas, written down in 13th-century Iceland (centuries after Christianization), preserve mythology and some ritual descriptions, though filtered through Christian-era sensibilities.
+Germanic and Norse religion — the source material for modern Heathenry — centered on a pantheon including Odin, Thor, Freya, and dozens of other deities. Religious practice involved blot (sacrifice), sumbel (ritual drinking), and seasonal festivals. The Eddas and sagas, written down in 13th-century Iceland (centuries after Christianization), preserve [mythology](/mythology) and some ritual descriptions, though filtered through Christian-era sensibilities.
 
 ### Egyptian, Mesopotamian, and Beyond
 
@@ -79,7 +79,7 @@ Modern paganism — neopaganism — began in the early-to-mid 20th century, thou
 
 ### Wicca
 
-Wicca is the largest and best-known modern pagan tradition. Gerald Gardner, a retired British civil servant, published *Witchcraft Today* in 1954, claiming to have been initiated into a surviving coven of witches practicing a pre-Christian nature religion. Whether Gardner discovered a genuine survival or created a new religion from various sources remains debated — most scholars lean toward the latter, with Gardner drawing on ceremonial magic, Freemasonry, folklore, and the writings of Aleister Crowley.
+Wicca is the largest and best-known modern pagan tradition. Gerald Gardner, a retired British civil servant, published *Witchcraft Today* in 1954, claiming to have been initiated into a surviving coven of witches practicing a pre-Christian nature religion. Whether Gardner discovered a genuine survival or created a new religion from various sources remains debated — most scholars lean toward the latter, with Gardner drawing on ceremonial magic, [Freemasonry](/freemasonry), folklore, and the writings of Aleister Crowley.
 
 Regardless of its origins, Wicca spread rapidly. Key beliefs include:
 
@@ -89,7 +89,7 @@ Regardless of its origins, Wicca spread rapidly. Key beliefs include:
 
 **The Wiccan Rede**: "An it harm none, do what ye will" — the primary ethical principle. It's simpler than the Ten Commandments but requires more individual judgment, since determining what "harms none" in any given situation is non-trivial.
 
-**Magic**: Most Wiccans practice some form of magic (often spelled "magick" to distinguish from stage magic) — ritual actions intended to direct personal and natural energies toward specific goals. This ranges from elaborate ceremonial rituals to simple meditation and visualization.
+**Magic**: Most Wiccans practice some form of magic (often spelled "magick" to distinguish from stage magic) — ritual actions intended to direct personal and natural energies toward specific goals. This ranges from elaborate ceremonial rituals to simple [meditation](/meditation) and visualization.
 
 Wicca has diversified into numerous traditions: Gardnerian (the original), Alexandrian, Dianic (feminist, Goddess-focused), Eclectic (drawing from multiple sources), and many more. Solitary practice — without a coven — has become common, partly driven by Scott Cunningham's popular books in the 1980s-90s.
 
@@ -103,9 +103,9 @@ Contemporary Druid organizations like the Order of Bards, Ovates and Druids (OBO
 
 - Reverence for the natural world and ecological awareness
 - Celebration of Celtic festivals and seasonal cycles
-- Creative expression (the "bardic" tradition of poetry, music, and storytelling)
+- Creative expression (the "bardic" tradition of poetry, music, and [storytelling](/storytelling))
 - Personal spiritual development through meditation, ritual, and study
-- Scholarship about Celtic history and mythology
+- Scholarship about [Celtic history](/celtic-history) and mythology
 
 Druidry tends to be less prescriptive than Wicca — there's no single text or ethical law, and many Druids describe their path as philosophical or cultural rather than strictly religious.
 
@@ -199,7 +199,7 @@ Several factors drive this growth:
 
 **Feminism**: Goddess-centered traditions offer women spiritual roles and imagery often absent from male-dominated monotheistic religions.
 
-**Internet and media**: Online communities, social media, and popular culture (from Harry Potter to various TV series) have made pagan ideas more accessible and less stigmatized.
+**Internet and media**: Online communities, social media, and [popular culture](/popular-culture) (from Harry Potter to various TV series) have made pagan ideas more accessible and less stigmatized.
 
 **Individual autonomy**: In cultures that value personal choice, a religion without required beliefs or institutional hierarchy appeals to independent-minded people.
 

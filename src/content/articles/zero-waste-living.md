@@ -5,7 +5,7 @@ description: "Zero-waste living aims to send nothing to landfills by reducing, r
 category: everyday-concepts
 tags: ["sustainability", "environmentalism", "eco-friendly", "waste reduction", "green living", "recycling"]
 heroImage: "/images/articles/zero-waste-living.webp"
-heroAlt: "A collection of reusable items including cloth bags, glass jars, and bamboo utensils on a wooden table"
+heroAlt: "Editorial photograph representing the concept of zero-waste living"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Zero-Waste Living?
 
-Zero-waste living is a lifestyle philosophy that aims to eliminate — or at least drastically reduce — the amount of trash you send to landfills and incinerators. The goal is to rethink how you consume, reuse, and discard things so that as little as possible ends up as waste.
+Zero-waste living is a lifestyle [philosophy](/philosophy) that aims to eliminate — or at least drastically reduce — the amount of trash you send to landfills and incinerators. The goal is to rethink how you consume, reuse, and discard things so that as little as possible ends up as waste.
 
 The concept sounds extreme, and in its purest form, it kind of is. Bea Johnson, often credited with popularizing the movement, famously fits her family's annual trash into a single mason jar. But for most people, zero-waste living isn't about perfection. It's about making deliberate choices that reduce waste wherever practical.
 
@@ -47,13 +47,13 @@ Zero-waste living follows a hierarchy — a priority order for dealing with stuf
 
 **Refuse** what you don't need. This comes first because the easiest waste to manage is the waste you never created. Say no to freebies, junk mail, single-use plastics, promotional swag, receipts you don't need, and anything that will become trash within hours of entering your life.
 
-**Reduce** what you do need. Buy less. Choose quality over quantity. Ask whether you actually need something before purchasing it. This is where zero-waste living overlaps with minimalism — owning fewer, better things.
+**Reduce** what you do need. Buy less. Choose quality over quantity. Ask whether you actually need something before purchasing it. This is where zero-waste living overlaps with [minimalism](/minimalism) — owning fewer, better things.
 
 **Reuse** what you consume. Choose reusable versions of disposable products. Repair things instead of replacing them. Buy secondhand. Repurpose items. This is the step where most of the visible lifestyle changes happen.
 
-**Recycle** what you can't refuse, reduce, or reuse. Notice that recycling is fourth, not first. That's deliberate. Recycling is better than landfilling, but it still requires energy, water, and transportation. And the uncomfortable truth is that only about 32% of U.S. waste actually gets recycled or composted.
+**Recycle** what you can't refuse, reduce, or reuse. Notice that [recycling](/recycling) is fourth, not first. That's deliberate. Recycling is better than landfilling, but it still requires energy, water, and transportation. And the uncomfortable truth is that only about 32% of U.S. waste actually gets recycled or composted.
 
-**Rot** (compost) the rest. Organic waste — food scraps, yard trimmings, paper — makes up about 30% of what Americans throw away. Composting turns it into soil instead of methane-producing landfill mass.
+**Rot** (compost) the rest. Organic waste — food scraps, yard trimmings, paper — makes up about 30% of what Americans throw away. [Composting](/composting) turns it into soil instead of methane-producing landfill mass.
 
 ## What It Looks Like in Practice
 
@@ -85,12 +85,12 @@ The kitchen generates more waste than any other room. Zero-waste strategies incl
 - Cloth bags — always. For groceries, produce, bread, bulk items.
 - Secondhand first — clothes, furniture, books, kitchenware
 - Repair over replace — learning basic mending, or using repair cafes
-- Borrowing or renting items you'll only use occasionally (tools, camping gear, formal wear)
+- Borrowing or renting items you'll only use occasionally (tools, [camping](/camping) gear, formal wear)
 - Choosing products with minimal or compostable packaging
 
 ### Household
 
-- Cleaning with simple ingredients — vinegar, baking soda, castile soap
+- Cleaning with simple ingredients — vinegar, [baking](/baking) soda, castile soap
 - Refilling cleaning product bottles at local refill stations
 - Composting at home or through municipal programs
 - Using rags and old towels instead of disposable wipes

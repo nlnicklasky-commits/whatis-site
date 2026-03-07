@@ -5,7 +5,7 @@ description: "Homeopathy is an alternative medicine system using ultra-diluted s
 category: everyday-concepts
 tags: ["homeopathy", "alternative medicine", "health", "placebo", "natural remedies"]
 heroImage: "/images/articles/homeopathy.webp"
-heroAlt: "Small glass bottles of homeopathic remedies with sugar pellets and dried herbs"
+heroAlt: "Editorial photograph representing the concept of homeopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Homeopathy?
 
-Homeopathy is a system of alternative medicine invented in 1796 by German physician Samuel Hahnemann. It is based on two core principles: "like cures like" (a substance that causes symptoms in a healthy person can cure similar symptoms in a sick person) and "the law of minimum dose" (the more diluted a substance, the more potent it becomes). Both principles contradict established chemistry and biology, and the scientific consensus is that homeopathic remedies perform no better than placebos.
+Homeopathy is a system of alternative medicine invented in 1796 by German physician Samuel Hahnemann. It is based on two core principles: "like cures like" (a substance that causes symptoms in a healthy person can cure similar symptoms in a sick person) and "the law of minimum dose" (the more diluted a substance, the more potent it becomes). Both principles contradict established [chemistry](/chemistry) and [biology](/biology), and the scientific consensus is that homeopathic remedies perform no better than placebos.
 
 ## How It Supposedly Works
 
@@ -46,11 +46,11 @@ The preparation process goes like this:
 
 Here is where the math gets uncomfortable for homeopathy. A 30C dilution equals a ratio of 1 to 10^60. For perspective, the entire observable universe contains roughly 10^80 atoms. At a 12C dilution, you have passed Avogadro's number — meaning there is statistically zero chance that a single molecule of the original substance remains in the solution.
 
-Homeopaths acknowledge this. Their explanation is "water memory" — the idea that water retains an imprint of substances it once contained, even after those substances are gone. This concept has no support in chemistry or physics. Water molecules rearrange their hydrogen bonds trillions of times per second. There is no known mechanism by which water could "remember" a specific molecular interaction.
+Homeopaths acknowledge this. Their explanation is "water memory" — the idea that water retains an imprint of substances it once contained, even after those substances are gone. This concept has no support in chemistry or [physics](/physics). Water molecules rearrange their hydrogen bonds trillions of times per second. There is no known mechanism by which water could "remember" a specific molecular interaction.
 
 ## The Evidence Problem
 
-The scientific literature on homeopathy is large and, at this point, fairly conclusive.
+The scientific [literature](/literature) on homeopathy is large and, at this point, fairly conclusive.
 
 **The 2005 *Lancet* meta-analysis** compared 110 homeopathy trials with 110 matched conventional medicine trials. The conventional treatments showed clear effects beyond placebo. Homeopathy did not.
 
@@ -68,11 +68,11 @@ Despite the evidence, homeopathy is a multi-billion dollar global industry. The 
 
 **Placebo effects.** Placebos work — not by curing disease, but by affecting subjective symptoms like pain, nausea, and anxiety. Studies show that elaborate rituals, confident practitioners, and specific remedies (even inert ones) enhance the placebo response. Homeopathy provides all of these.
 
-**Natural appeal.** Many people distrust pharmaceutical companies and prefer "natural" treatments. Homeopathic remedies are seen as gentle and free of side effects (which they are — it is hard to have side effects from water). The marketing emphasizes naturalness and individual care.
+**Natural appeal.** Many people distrust pharmaceutical companies and prefer "natural" treatments. Homeopathic remedies are seen as gentle and free of side effects (which they are — it is hard to have side effects from water). The [marketing](/marketing) emphasizes naturalness and individual care.
 
 **Anecdotal experience.** "I took this remedy and I felt better." This is powerful personal evidence, even though it does not account for natural recovery, placebo effects, or regression to the mean (the tendency for symptoms to improve on their own after reaching their worst point).
 
-**Distrust of conventional medicine.** When people have bad experiences with doctors, insurance companies, or pharmaceutical side effects, alternative medicine becomes attractive. This is a failure of the medical system as much as a success of alternative medicine marketing.
+**Distrust of conventional medicine.** When people have bad experiences with doctors, [insurance](/insurance) companies, or pharmaceutical side effects, alternative medicine becomes attractive. This is a failure of the medical system as much as a success of alternative medicine marketing.
 
 ## The Real Risks
 
@@ -80,7 +80,7 @@ Homeopathic remedies at standard dilutions are physically harmless — you are i
 
 **Delayed treatment.** Using homeopathy instead of effective medicine for serious conditions — cancer, diabetes, infections, heart disease — can be fatal. Children whose parents chose homeopathy over antibiotics for bacterial infections have died. These cases are documented and tragic.
 
-**Anti-vaccination overlap.** Some homeopathic practitioners recommend "homeopathic vaccines" (nosodes) as alternatives to actual vaccines. These contain no active ingredients and provide no protection. The American Academy of Pediatrics explicitly warns against this practice.
+**Anti-vaccination overlap.** Some homeopathic practitioners recommend "homeopathic vaccines" (nosodes) as alternatives to actual vaccines. These contain no active ingredients and provide no protection. The American Academy of [Pediatrics](/pediatrics) explicitly warns against this practice.
 
 **Financial cost.** Homeopathic consultations and remedies can cost hundreds or thousands of dollars over time for treatments with no demonstrated efficacy beyond placebo.
 
@@ -90,7 +90,7 @@ In the United States, homeopathic products are regulated by the FDA, but under a
 
 In 2016, the FTC required that homeopathic advertising either include evidence of effectiveness or state that the product's claims are based only on 18th-century theories not accepted by modern medicine. In practice, enforcement has been limited.
 
-Several countries are tightening regulations. The UK's National Health Service stopped funding homeopathy in 2017. France ended national health insurance coverage for homeopathic remedies in 2021. Spain and Russia have issued formal statements declaring homeopathy pseudoscientific.
+Several countries are tightening regulations. The UK's National Health Service stopped funding homeopathy in 2017. France ended national [health insurance](/health-insurance) coverage for homeopathic remedies in 2021. Spain and Russia have issued formal statements declaring homeopathy pseudoscientific.
 
 ## Where This Leaves You
 

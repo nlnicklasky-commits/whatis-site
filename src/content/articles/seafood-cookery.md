@@ -5,7 +5,7 @@ description: "Seafood cookery covers the techniques for preparing fish, shellfis
 category: everyday-concepts
 tags: ["seafood", "cooking", "culinary", "fish", "shellfish", "recipes"]
 heroImage: "/images/articles/seafood-cookery.webp"
-heroAlt: "A fresh fish fillet being seared in a hot pan with herbs and lemon slices alongside"
+heroAlt: "Editorial photograph representing the concept of seafood cookery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Seafood Cookery?
 
-Seafood cookery is the practice of preparing and cooking fish, shellfish, crustaceans, and other edible marine and freshwater organisms. It's one of humanity's oldest cooking traditions — archaeological evidence shows people were cooking shellfish over fire at least 164,000 years ago — and it remains one of the most rewarding and intimidating areas of home cooking.
+Seafood cookery is the practice of preparing and [cooking](/cooking) fish, shellfish, crustaceans, and other edible marine and freshwater organisms. It's one of humanity's oldest cooking traditions — archaeological evidence shows people were cooking shellfish over fire at least 164,000 years ago — and it remains one of the most rewarding and intimidating areas of home cooking.
 
 The intimidation is understandable. Seafood is expensive, spoils quickly, requires precise timing, and punishes mistakes harshly. Overcooked shrimp turns to rubber. Undercooked shellfish can make you sick. A beautiful piece of salmon can go from perfect to dry in the time it takes to answer a text. But once you understand the fundamentals, seafood is actually simpler to cook than most meat — faster, more forgiving than its reputation suggests, and almost impossible to beat for flavor.
 
@@ -51,7 +51,7 @@ Shellfish — shrimp, lobster, crab, scallops — follow similar rules. The prot
 
 **Poaching** — cooking gently in simmering liquid — is underrated and almost impossible to mess up. The liquid (water, broth, wine, or a court-bouillon with aromatics) stays around 160-180°F, well below the point where fish tightens up. The result is incredibly moist, delicate flesh. Poached halibut or cod with a simple sauce is one of the most elegant dishes in existence.
 
-**Grilling** gives you smoke flavor and beautiful char marks, but it's tricky. Fish sticks to grill grates unless the grate is very hot and well-oiled, and delicate fillets can fall apart. Firm fish like swordfish, tuna, and mahi-mahi grill best. Or use a fish basket or grill whole fish with the skin on.
+**[Grilling](/grilling)** gives you smoke flavor and beautiful char marks, but it's tricky. Fish sticks to grill grates unless the grate is very hot and well-oiled, and delicate fillets can fall apart. Firm fish like swordfish, tuna, and mahi-mahi grill best. Or use a fish basket or grill whole fish with the skin on.
 
 **Steaming** preserves flavor and moisture beautifully, especially for shellfish and delicate white fish. Mussels steamed in white wine and garlic is a classic 15-minute meal. Chinese steamed whole fish with ginger and scallions is one of the great achievements of seafood cooking.
 
@@ -65,17 +65,17 @@ The single most important step in seafood cookery happens at the market, not the
 
 **Frozen is often better than "fresh."** This surprises people. Much of the "fresh" fish at supermarkets was frozen on the boat, shipped, thawed, and placed on ice — meaning it's actually days older than properly frozen fish you thaw yourself. Flash-frozen-at-sea fish can be excellent quality. Don't dismiss it.
 
-**Know your sustainability.** Overfishing is a real and serious problem. The Monterey Bay Aquarium's Seafood Watch program rates species as "Best Choice," "Good Alternative," or "Avoid" based on current population health and fishing practices. Check their app or website before buying — it takes 30 seconds and makes a genuine difference.
+**Know your sustainability.** Overfishing is a real and serious problem. The Monterey Bay Aquarium's Seafood Watch program rates species as "Best Choice," "Good Alternative," or "Avoid" based on current population health and [fishing](/fishing) practices. Check their app or website before buying — it takes 30 seconds and makes a genuine difference.
 
 ## Common Seafood Categories
 
 **Lean white fish** (cod, halibut, sole, tilapia) — mild flavor, firm to delicate flesh. Great for beginners. Very easy to overcook.
 
-**Fatty fish** (salmon, mackerel, sardines, tuna) — richer flavor, more forgiving of slight overcooking because the fat provides moisture insurance. Also higher in omega-3 fatty acids, which is why nutritionists push salmon.
+**Fatty fish** (salmon, mackerel, sardines, tuna) — richer flavor, more forgiving of slight overcooking because the fat provides moisture [insurance](/insurance). Also higher in omega-3 fatty acids, which is why nutritionists push salmon.
 
 **Shellfish: bivalves** (mussels, clams, oysters, scallops) — these are almost their own category of cooking. Mussels and clams steam open when done — literally telling you when they're ready. Scallops sear beautifully with a hard, fast cook.
 
-**Shellfish: crustaceans** (shrimp, crab, lobster) — sweet, delicate flavor that needs minimal preparation. The biggest mistake people make with lobster and crab is drowning them in butter. A little butter is wonderful. A swimming pool of it masks the taste you're paying for.
+**Shellfish: crustaceans** (shrimp, crab, lobster) — sweet, delicate flavor that needs minimal preparation. The biggest mistake people make with lobster and crab is drowning them in butter. A little butter is wonderful. A [swimming](/swimming) pool of it masks the taste you're paying for.
 
 ## Safety Essentials
 
@@ -83,6 +83,6 @@ Seafood safety comes down to temperature and time. Keep raw seafood at 40°F or 
 
 Shellfish require additional attention. Discard any mussels or clams that are open before cooking and won't close when tapped — they're dead and potentially unsafe. Conversely, discard any that remain closed after cooking — they didn't open for a reason.
 
-Allergies matter here more than with most foods. Shellfish allergy affects roughly 2-3% of adults and can be severe. Fish and shellfish allergies are distinct — being allergic to shrimp doesn't necessarily mean you're allergic to salmon, and vice versa.
+[Allergies](/allergies) matter here more than with most foods. Shellfish allergy affects roughly 2-3% of adults and can be severe. Fish and shellfish allergies are distinct — being allergic to shrimp doesn't necessarily mean you're allergic to salmon, and vice versa.
 
 Once you get comfortable with timing and temperature, seafood becomes the fastest, most satisfying weeknight cooking you can do. A pan-seared fish fillet with a simple salad: 15 minutes, start to plate. Hard to beat that.

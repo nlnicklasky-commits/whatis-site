@@ -5,7 +5,7 @@ description: "Liberalism is a political philosophy centered on individual rights
 category: philosophy
 tags: ["liberalism", "political philosophy", "individual rights", "democracy", "liberty", "constitutional government", "enlightenment"]
 heroImage: "/images/articles/liberalism-hero.webp"
-heroAlt: "Historic declaration document with quill pen symbolizing constitutional rights and liberty"
+heroAlt: "Editorial photograph representing the concept of liberalism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Liberalism?
 
-Liberalism is a political and philosophical tradition centered on individual rights, personal liberty, consent of the governed, and constitutional limits on political power. It is, by any reasonable measure, the most influential political philosophy of the modern era—the intellectual foundation beneath democracy, human rights, free markets, and the rule of law.
+Liberalism is a political and philosophical tradition centered on individual rights, personal liberty, consent of the governed, and constitutional limits on political power. It is, by any reasonable measure, the most influential [political philosophy](/political-philosophy) of the modern era—the intellectual foundation beneath democracy, human rights, free markets, and the rule of law.
 
 That said, few words in political life generate more confusion than "liberal." In the United States, it's become a tribal label—shorthand for left-of-center politics. In Europe, it often refers to free-market economics. In political philosophy, it describes a tradition stretching from John Locke to John Rawls, encompassing thinkers who disagree with each other about almost everything except the basic importance of individual liberty.
 
@@ -45,7 +45,7 @@ So let's cut through the confusion and actually understand what liberalism is, w
 
 At its root, liberalism rests on a few commitments that seem obvious today but were genuinely radical when first articulated:
 
-**Individual rights.** Every person possesses rights that exist prior to and independent of government. You don't get your rights from the state—you have them because you're human. Government's job is to protect these rights, not grant them.
+**Individual rights.** Every person possesses rights that exist prior to and independent of [government](/government). You don't get your rights from the state—you have them because you're human. Government's job is to protect these rights, not grant them.
 
 **Liberty.** People should be free to live as they choose, believe what they wish, speak their minds, and pursue their own vision of a good life—so long as they don't harm others. Government intrusion into personal life requires justification.
 
@@ -63,7 +63,7 @@ Liberalism didn't emerge from abstract theorizing. It was forged in the politica
 
 ### The Wars of Religion
 
-The Protestant Reformation shattered Christian unity in Europe. Catholics and Protestants slaughtered each other for over a century—the Thirty Years' War (1618-1648) alone killed roughly 8 million people, depopulating entire regions of Germany. The central question became: how can people with fundamentally different religious beliefs live together in one political community?
+The Protestant Reformation shattered Christian unity in Europe. Catholics and Protestants slaughtered each other for over a century—the [Thirty Years' War](/thirty-years-war) (1618-1648) alone killed roughly 8 million people, depopulating entire regions of Germany. The central question became: how can people with fundamentally different religious beliefs live together in one political community?
 
 The answer that emerged was tolerance—the radical idea that government should not dictate religious belief. This wasn't born from philosophical enlightenment. It was born from exhaustion. After a century of killing each other over theology, Europeans grudgingly accepted that coexistence was preferable to mutual annihilation.
 
@@ -134,7 +134,7 @@ A new generation of thinkers—T.H. Green, L.T. Hobhouse, John Dewey—reconstru
 
 Modern liberalism accepted both dimensions. Government shouldn't just get out of the way—it should actively ensure that citizens have the education, healthcare, economic security, and opportunities necessary to live genuinely free lives.
 
-This philosophical shift justified the welfare state, public education, labor regulation, progressive taxation, and social insurance programs that define modern liberal democracies. Franklin Roosevelt's New Deal (1933-1939) was modern liberalism's defining political achievement in the United States—Social Security, unemployment insurance, labor protections, and financial regulation, all grounded in the idea that economic security is a prerequisite for genuine freedom.
+This philosophical shift justified the welfare state, public education, labor regulation, progressive taxation, and social insurance programs that define modern liberal democracies. Franklin Roosevelt's New Deal (1933-1939) was modern liberalism's defining political achievement in the United States—Social Security, unemployment insurance, labor protections, and [financial regulation](/financial-regulation), all grounded in the idea that economic security is a prerequisite for genuine freedom.
 
 ### John Rawls (1921-2002): Liberalism's Greatest Theorist
 
@@ -171,7 +171,7 @@ Liberalism has always faced criticism from multiple directions.
 
 **From postcolonial thinkers:** Liberalism's history is entangled with empire. Locke invested in the slave trade. Mill defended British colonialism in India. Liberal democracies colonized much of the world while proclaiming universal rights—rights that apparently didn't apply to the colonized. This isn't just historical irony; critics argue that liberalism's universalist claims were always implicitly Eurocentric, assuming that Western political forms represent the pinnacle of human development.
 
-**From populists:** In recent years, populist movements on both left and right have challenged liberal institutions—free trade, independent courts, free press, immigration—arguing that they serve elites at the expense of ordinary people. The liberal international order that emerged after World War II faces serious pressure from politicians who see its institutions as obstacles rather than safeguards.
+**From populists:** In recent years, populist movements on both left and right have challenged liberal institutions—free trade, independent courts, free press, immigration—arguing that they serve elites at the expense of ordinary people. The liberal international order that emerged after [World War II](/world-war-ii) faces serious pressure from politicians who see its institutions as obstacles rather than safeguards.
 
 ## Liberalism in Practice
 
@@ -179,7 +179,7 @@ Despite its critics, liberalism's practical record is remarkable.
 
 Liberal democracies don't go to war with each other (a finding so consistent it's called the "democratic peace theory"). They're wealthier than authoritarian states—the correlation between economic freedom and prosperity, while not perfect, is strong and well-documented. They protect individual rights more effectively. They're more responsive to their citizens. They handle peaceful transitions of power better.
 
-The post-World War II liberal international order—the United Nations, NATO, the European Union, the WTO, the Bretton Woods institutions—produced the longest period of great-power peace in modern history and the most dramatic reduction in global poverty ever recorded. Between 1990 and 2020, the percentage of the world's population living in extreme poverty fell from 36% to under 10%.
+The post-World War II liberal international order—the United Nations, NATO, the European Union, the WTO, the Bretton Woods institutions—produced the longest period of great-power peace in [modern history](/modern-history) and the most dramatic reduction in global poverty ever recorded. Between 1990 and 2020, the percentage of the world's population living in extreme poverty fell from 36% to under 10%.
 
 None of this means liberalism is perfect. Income inequality has widened in most liberal democracies since the 1980s. Social trust has declined. Political polarization has increased. The promise that globalization would lift all boats hasn't fully materialized—some boats rose dramatically while others sank.
 

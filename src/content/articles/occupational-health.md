@@ -5,7 +5,7 @@ description: "Occupational health protects workers from job-related hazards and 
 category: health-amp-wellness
 tags: ["occupational health", "workplace safety", "industrial hygiene", "ergonomics"]
 heroImage: "/images/articles/occupational-health.webp"
-heroAlt: "Worker wearing safety equipment inspecting an industrial facility with safety signage"
+heroAlt: "Editorial photograph representing the concept of occupational health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Occupational Health?
 
-Occupational health is the branch of medicine and public health concerned with maintaining the physical, mental, and social wellbeing of workers. It aims to prevent work-related injuries and illnesses, adapt work environments to human capabilities, and promote health within the workplace.
+Occupational health is the branch of medicine and [public health](/public-health) concerned with maintaining the physical, mental, and social wellbeing of workers. It aims to prevent work-related injuries and illnesses, adapt work environments to human capabilities, and promote health within the workplace.
 
 ## The Basic Idea
 
@@ -61,19 +61,19 @@ The field breaks down into several interconnected areas.
 
 ### Industrial Hygiene
 
-Industrial hygienists are the detectives of occupational health. They identify, evaluate, and control workplace hazards — particularly chemical, biological, and physical exposures. That means measuring air quality in a factory, assessing noise levels in a machine shop, evaluating radiation exposure in a medical facility, or testing water quality in a construction zone.
+Industrial hygienists are the detectives of occupational health. They identify, evaluate, and control workplace hazards — particularly chemical, biological, and physical exposures. That means measuring air quality in a factory, assessing noise levels in a machine shop, evaluating radiation exposure in a medical facility, or testing water quality in a [construction](/construction) zone.
 
 The core principle is the hierarchy of controls, ranked from most to least effective:
 
 1. **Elimination** — remove the hazard entirely (stop using a toxic chemical)
 2. **Substitution** — replace it with something less dangerous (use a water-based solvent instead of a petroleum-based one)
-3. **Engineering controls** — isolate workers from the hazard (install ventilation, enclosures, or barriers)
+3. **[Engineering](/engineering) controls** — isolate workers from the hazard (install ventilation, enclosures, or barriers)
 4. **Administrative controls** — change how work is done (limit exposure time, rotate workers, post warning signs)
 5. **Personal protective equipment (PPE)** — the last resort (respirators, gloves, safety glasses)
 
 PPE gets the most attention — hard hats and safety goggles are visible and photogenic — but it's actually the least effective tier. A well-designed ventilation system beats a respirator every time because it removes the hazard at the source instead of relying on every individual worker to wear equipment correctly, consistently.
 
-### Ergonomics
+### [Ergonomics](/ergonomics)
 
 Ergonomics is the science of fitting work to the worker rather than forcing the worker to fit the work. It addresses musculoskeletal disorders (MSDs) — injuries to muscles, tendons, ligaments, nerves, and joints caused by awkward postures, repetitive motions, forceful exertions, or sustained static positions.
 
@@ -83,19 +83,19 @@ Good ergonomic design considers:
 
 - **Workstation layout** — monitor height, chair adjustability, keyboard placement, tool positioning
 - **Task design** — minimizing repetitive motions, allowing postural variety, reducing force requirements
-- **Work-rest cycles** — scheduling breaks to prevent fatigue and allow recovery
+- **Work-rest cycles** — [scheduling](/scheduling) breaks to prevent fatigue and allow recovery
 - **Tool design** — creating equipment that fits the hand and reduces vibration
 
 ### Occupational Medicine
 
-Occupational medicine physicians are specialists who diagnose and treat work-related illnesses and injuries. They conduct pre-employment medical evaluations, manage return-to-work programs for injured employees, monitor workers exposed to specific hazards (through biological monitoring or health surveillance), and advise employers on medical aspects of workplace safety.
+Occupational medicine physicians are specialists who diagnose and treat work-related illnesses and injuries. They conduct pre-employment medical evaluations, manage return-to-work programs for injured employees, monitor workers exposed to specific hazards (through biological monitoring or health surveillance), and advise employers on medical aspects of [workplace safety](/workplace-safety).
 
 Some of the conditions they deal with most:
 
 - **Occupational lung diseases** — asbestosis, silicosis, occupational asthma, coal workers' pneumoconiosis. Collectively, occupational lung diseases kill about 12,000 Americans per year.
 - **Noise-induced hearing loss** — irreversible damage from chronic exposure to sounds above 85 decibels. About 22 million U.S. workers are exposed to hazardous noise levels annually.
 - **Occupational cancers** — caused by exposure to carcinogens like asbestos, benzene, formaldehyde, and certain metals. NIOSH estimates that 4% to 10% of all cancers may be occupationally related.
-- **Skin disorders** — contact dermatitis, chemical burns, and skin infections, particularly in healthcare, manufacturing, and agriculture.
+- **Skin disorders** — contact dermatitis, chemical burns, and skin infections, particularly in healthcare, manufacturing, and [agriculture](/agriculture).
 
 ## Modern Challenges
 
@@ -105,7 +105,7 @@ Occupational health isn't just about factories and mines anymore. The nature of 
 
 Sedentary office work brings its own health risks — and they're substantial. Prolonged sitting is associated with increased rates of cardiovascular disease, type 2 diabetes, obesity, and certain cancers. A 2015 meta-analysis in the *Annals of Internal Medicine* found that prolonged sitting increased the risk of cardiovascular mortality by 18%, even among people who exercised regularly.
 
-Add in screen-related eye strain (computer vision syndrome affects an estimated 50-90% of computer workers), poor indoor air quality in sealed buildings ("sick building syndrome"), and the ergonomic issues of poorly designed workstations, and the modern office is more hazardous than it looks.
+Add in screen-related eye strain ([computer vision](/computer-vision) syndrome affects an estimated 50-90% of computer workers), poor indoor air quality in sealed buildings ("sick building syndrome"), and the ergonomic issues of poorly designed workstations, and the modern office is more hazardous than it looks.
 
 ### Psychosocial Hazards
 
@@ -113,7 +113,7 @@ This is the fastest-growing area of occupational health. Workplace stress, burno
 
 The WHO included burnout in its International Classification of Diseases (ICD-11) in 2019, defining it as a syndrome resulting from chronic workplace stress that has not been successfully managed. The three dimensions: feelings of energy depletion or exhaustion, increased mental distance from one's job (cynicism), and reduced professional efficacy.
 
-Japan even has a word for death from overwork: *karoshi*. The Japanese government officially recognizes it and compensates families when workers die from stroke, heart attack, or suicide attributable to excessive work hours.
+Japan even has a word for death from overwork: *karoshi*. The Japanese [government](/government) officially recognizes it and compensates families when workers die from stroke, heart attack, or suicide attributable to excessive work hours.
 
 ### The Gig Economy and Remote Work
 
@@ -127,4 +127,4 @@ The International Labour Organization estimates that 2.78 million workers die fr
 
 The economic costs are enormous too. The ILO estimates that occupational injuries and illnesses cost roughly 4% of global GDP — about $3.94 trillion annually as of recent calculations.
 
-These aren't abstract statistics. Behind every number is a person who went to work and didn't come home, or came home with a disease that will shorten their life. Occupational health is, at its most fundamental level, about making sure that earning a living doesn't cost you your life.
+These aren't abstract [statistics](/statistics). Behind every number is a person who went to work and didn't come home, or came home with a disease that will shorten their life. Occupational health is, at its most fundamental level, about making sure that earning a living doesn't cost you your life.

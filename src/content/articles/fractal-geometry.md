@@ -5,7 +5,7 @@ description: "Fractal geometry studies shapes with self-similar patterns at ever
 category: science
 tags: ["mathematics", "geometry", "fractals", "chaos theory", "self-similarity", "patterns", "computer graphics"]
 heroImage: "/images/articles/fractal-geometry-hero.webp"
-heroAlt: "A colorful Mandelbrot set fractal zooming into infinite self-similar patterns"
+heroAlt: "Editorial photograph representing the concept of fractal geometry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

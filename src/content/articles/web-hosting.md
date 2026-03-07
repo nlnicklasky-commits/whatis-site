@@ -5,7 +5,7 @@ description: "Web hosting is a service that stores website files on servers and 
 category: technology
 tags: ["web hosting", "internet", "servers"]
 heroImage: "/images/articles/web-hosting.webp"
-heroAlt: "Server racks in a data center with blinking LED lights and network cables"
+heroAlt: "Editorial photograph representing the concept of web hosting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,11 +53,11 @@ This entire process takes milliseconds when everything's working right. But behi
 
 ### Servers: The Physical Reality
 
-A web server is, at its most basic, just a computer. It has a processor, RAM, storage, and a network connection -- the same components as your laptop. The difference is that servers are optimized for reliability and always-on operation rather than desktop productivity.
+A web server is, at its most basic, just a computer. It has a processor, RAM, storage, and a network connection -- the same components as your laptop. The difference is that servers are optimized for reliability and always-on operation rather than desktop [productivity](/productivity).
 
 Most hosting servers run Linux (about 80% of web servers use some Linux distribution, according to W3Techs). Apache and Nginx are the two dominant web server software platforms, together handling the vast majority of all web traffic. Apache has been around since 1995; Nginx, launched in 2004, was specifically designed to handle large numbers of simultaneous connections efficiently.
 
-These servers live in data centers -- purpose-built facilities with redundant power supplies, cooling systems, fire suppression, physical security, and high-bandwidth internet connections. Major data centers can house tens of thousands of servers and consume as much electricity as a small city.
+These servers live in data centers -- purpose-built facilities with redundant power supplies, cooling systems, fire suppression, physical security, and high-bandwidth internet connections. Major data centers can house tens of thousands of servers and consume as much [electricity](/electricity) as a small city.
 
 ## Types of Web Hosting
 
@@ -89,7 +89,7 @@ With a dedicated server, you rent an entire physical machine. No sharing, no vir
 
 **The good**: Maximum performance and control. You can configure everything exactly how you want. Ideal for high-traffic websites, resource-intensive applications, or situations requiring specific hardware configurations.
 
-**The bad**: It's expensive. Plans start around $80-100 per month and can easily exceed $500 for high-end hardware. You're responsible for server administration unless you pay for managed service. And if the hardware fails, you're dependent on the data center's replacement timeline.
+**The bad**: It's expensive. Plans start around $80-100 per month and can easily exceed $500 for high-end hardware. You're responsible for [server administration](/server-administration) unless you pay for managed service. And if the hardware fails, you're dependent on the data center's replacement timeline.
 
 Dedicated hosting makes sense for sites handling hundreds of thousands or millions of monthly visitors, or for applications with strict performance or compliance requirements.
 
@@ -171,7 +171,7 @@ Web hosting security operates at multiple levels, and a weakness at any level ca
 
 ### Server-Level Security
 
-Your hosting provider should handle OS patches, firewall configuration, and intrusion detection at the server level. Good providers apply security updates quickly -- within hours for critical vulnerabilities. Ask potential providers about their patching timeline and [security](/information-security) practices before committing.
+Your hosting provider should handle OS patches, firewall configuration, and [intrusion detection](/intrusion-detection) at the server level. Good providers apply security updates quickly -- within hours for critical vulnerabilities. Ask potential providers about their patching timeline and [security](/information-security) practices before committing.
 
 ### Application-Level Security
 

@@ -5,7 +5,7 @@ description: "European history spans from ancient Greece and Rome through the Re
 category: history
 tags: ["european history", "europe", "renaissance", "revolutions", "world wars"]
 heroImage: "/images/articles/european-history.webp"
-heroAlt: "Panoramic view of ancient Roman ruins blending into a modern European cityscape"
+heroAlt: "Editorial photograph representing the concept of european history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is European History?
 
-European history is the study of the people, events, ideas, and institutions of the European continent from prehistoric times to the present. It's a story that produced democracy, the scientific method, colonialism, two world wars, and the world's most ambitious experiment in multinational governance — all from a landmass smaller than Brazil.
+European history is the study of the people, events, ideas, and institutions of the European continent from prehistoric times to the present. It's a story that produced democracy, the [scientific method](/scientific-method), colonialism, two world wars, and the world's most ambitious experiment in multinational governance — all from a landmass smaller than Brazil.
 
 ## The Ancient World — Greece and Rome
 
@@ -85,13 +85,13 @@ Starting in 14th-century Italy, the Renaissance ("rebirth") saw a revival of int
 
 Florence, funded by banking families like the Medici, became the epicenter. Leonardo da Vinci, Michelangelo, Raphael, Machiavelli — names that still define artistic and intellectual achievement — all worked there. The invention of the printing press by Johannes Gutenberg around 1440 amplified the movement by making books cheap and widely available for the first time.
 
-The Protestant Reformation, triggered by Martin Luther's 95 Theses in 1517, shattered the religious unity of Western Europe. Luther challenged the Catholic Church's authority, particularly the sale of indulgences. His ideas spread rapidly (thanks to that printing press), spawning new Christian denominations and centuries of religious conflict, including the devastating Thirty Years' War (1618-1648), which killed roughly 8 million people — about a third of Germany's population.
+The Protestant Reformation, triggered by Martin Luther's 95 Theses in 1517, shattered the religious unity of Western Europe. Luther challenged the Catholic Church's authority, particularly the sale of indulgences. His ideas spread rapidly (thanks to that printing press), spawning new Christian denominations and centuries of religious conflict, including the devastating [Thirty Years' War](/thirty-years-war) (1618-1648), which killed roughly 8 million people — about a third of Germany's population.
 
 ## The Age of Exploration and Empire (1500-1900)
 
 Starting in the 15th century, European nations began expanding across the globe. Portugal and Spain led the way, followed by the Netherlands, France, and [England](/english-history).
 
-The motivations were economic (spices, gold, trade routes), religious (spreading Christianity), and competitive (national prestige). The consequences were profound and often devastating for non-European peoples. The colonization of the Americas brought with it diseases that killed an estimated 90% of the indigenous population. The transatlantic slave trade forcibly transported roughly 12.5 million Africans to the Americas between 1500 and 1900.
+The motivations were economic (spices, gold, trade routes), religious (spreading [Christianity](/christianity)), and competitive (national prestige). The consequences were profound and often devastating for non-European peoples. The colonization of the Americas brought with it diseases that killed an estimated 90% of the indigenous population. The transatlantic slave trade forcibly transported roughly 12.5 million Africans to the Americas between 1500 and 1900.
 
 By 1914, European powers controlled roughly 84% of the world's land surface. The moral reckoning with that legacy continues today.
 
@@ -115,7 +115,7 @@ Triggered by the assassination of Archduke Franz Ferdinand and enabled by a tang
 
 The war destroyed four empires (Ottoman, Austro-Hungarian, Russian, German), redrew the map of Europe, and left deep economic and psychological scars that made another war almost inevitable.
 
-### World War II (1939-1945)
+### [World War II](/world-war-ii) (1939-1945)
 
 World War II killed approximately 70-85 million people, making it the deadliest conflict in human history. It included the Holocaust — the systematic murder of 6 million Jews and millions of others by Nazi Germany — an event of such horror that it fundamentally changed how the world thinks about human rights, genocide, and the responsibilities of nations.
 

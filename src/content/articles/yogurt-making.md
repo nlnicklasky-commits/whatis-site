@@ -5,7 +5,7 @@ description: "Yogurt making is the process of fermenting milk with live bacteria
 category: everyday-concepts
 tags: ["food science", "cooking", "dairy", "fermentation", "probiotics", "healthy eating"]
 heroImage: "/images/articles/yogurt-making.webp"
-heroAlt: "A glass jar of thick homemade yogurt with a wooden spoon and fresh berries on the side"
+heroAlt: "Editorial photograph representing the concept of yogurt making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 Yogurt making is the process of fermenting milk using specific bacteria — primarily *Lactobacillus bulgaricus* and *Streptococcus thermophilus* — that convert lactose (milk sugar) into lactic acid. The acid thickens the milk, gives yogurt its tangy flavor, and creates an environment where harmful bacteria can't survive.
 
-Humans have been making yogurt for at least 5,000 years, probably longer. Nomadic herders in Central Asia likely discovered it by accident when milk stored in animal-skin bags fermented in the warmth. They didn't understand the microbiology. They just knew that the thickened, sour milk tasted good and lasted longer than fresh milk.
+Humans have been making yogurt for at least 5,000 years, probably longer. Nomadic herders in Central Asia likely discovered it by accident when milk stored in animal-skin bags fermented in the warmth. They didn't understand the [microbiology](/microbiology). They just knew that the thickened, sour milk tasted good and lasted longer than fresh milk.
 
 ## The Science in Your Kitchen
 
@@ -57,7 +57,7 @@ That's it. Milk + bacteria + warmth + time = yogurt.
 
 ## How to Make It at Home
 
-The actual process is simpler than most cooking projects. Here's the stripped-down version.
+The actual process is simpler than most [cooking](/cooking) projects. Here's the stripped-down version.
 
 ### What You Need
 
@@ -101,7 +101,7 @@ Fair question. Store-bought yogurt is cheap and convenient. So why bother?
 
 **Taste.** Homemade yogurt tastes different — cleaner, fresher, with a tang you can adjust by varying incubation time. Most people who try it don't go back.
 
-**Probiotics.** Homemade yogurt, especially when fermented for longer periods (12-24 hours), can contain significantly more live bacteria than many commercial products. Some commercial yogurts are heat-treated after fermentation, which kills the beneficial cultures.
+**Probiotics.** Homemade yogurt, especially when fermented for longer periods (12-24 hours), can contain significantly more live bacteria than many commercial products. Some commercial yogurts are heat-treated after [fermentation](/fermentation), which kills the beneficial cultures.
 
 ## Yogurt Styles Around the World
 
@@ -129,6 +129,6 @@ One thing is clear, though: yogurt is a nutrient-dense food by any measure. A cu
 
 If you've never made yogurt before, start simple. Grab a quart of whole milk and a container of plain yogurt with live cultures from the store. Follow the steps above. Your first batch might not be perfect — a little thin, a little lumpy, maybe not tangy enough. That's fine. Adjust next time.
 
-The beautiful thing about yogurt making is that each batch produces the starter for the next one. Save two tablespoons from every batch, and you never need to buy starter again. People have kept the same yogurt culture alive for years, passing it down like a sourdough starter.
+The beautiful thing about yogurt making is that each batch produces the starter for the next one. Save two tablespoons from every batch, and you never need to buy starter again. People have kept the same yogurt culture alive for years, passing it down like a [sourdough](/sourdough) starter.
 
 Five thousand years of human tradition, and the process hasn't fundamentally changed. Heat milk. Add bacteria. Wait. Eat. It's one of the simplest and most satisfying things you can make in a kitchen.

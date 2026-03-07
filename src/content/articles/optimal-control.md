@@ -5,7 +5,7 @@ description: "Optimal control is a mathematical framework for finding the best w
 category: technology
 tags: ["optimal control", "control theory", "optimization", "robotics", "aerospace engineering", "mathematical modeling"]
 heroImage: "/images/articles/optimal-control-hero.webp"
-heroAlt: "A rocket trajectory plotted against a coordinate system showing the optimized flight path"
+heroAlt: "Editorial photograph representing the concept of optimal control"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

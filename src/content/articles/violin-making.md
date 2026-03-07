@@ -5,7 +5,7 @@ description: "Violin making (lutherie) is the craft of building stringed instrum
 category: arts-amp-culture
 tags: ["violin making", "lutherie", "luthier", "craftsmanship", "woodworking", "string instruments"]
 heroImage: "/images/articles/violin-making.webp"
-heroAlt: "Luthier carefully carving a violin top plate with hand tools in a sunlit workshop"
+heroAlt: "Editorial photograph representing the concept of violin making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Violin Making?
 
-Violin making — also called lutherie — is the craft of building stringed instruments by hand from raw wood. A luthier (the maker) selects, shapes, carves, assembles, and finishes each instrument individually, combining woodworking skill with acoustic knowledge and artistic sensibility. The process hasn't changed fundamentally since the 16th century, and the best modern makers produce instruments that rival anything from the legendary Cremona workshops.
+Violin making — also called lutherie — is the craft of building stringed instruments by hand from raw wood. A luthier (the maker) selects, shapes, carves, assembles, and finishes each instrument individually, combining [woodworking](/woodworking) skill with acoustic knowledge and artistic sensibility. The process hasn't changed fundamentally since the 16th century, and the best modern makers produce instruments that rival anything from the legendary Cremona workshops.
 
 ## The Cremona Legacy
 
-The story of violin making is inseparable from a small Italian city. Cremona, in Lombardy, produced the three families that defined violin construction: the Amati family (Andrea, Nicolo, and others, active from the 1530s to 1740), Antonio Stradivari (1644-1737), and the Guarneri family (especially Giuseppe "del Gesu," 1698-1744).
+The story of violin making is inseparable from a small Italian city. Cremona, in Lombardy, produced the three families that defined violin [construction](/construction): the Amati family (Andrea, Nicolo, and others, active from the 1530s to 1740), Antonio Stradivari (1644-1737), and the Guarneri family (especially Giuseppe "del Gesu," 1698-1744).
 
 These makers established proportions, construction methods, and tonal ideals that remain the standard. When a modern luthier builds a violin, they're working within parameters that Stradivari refined three centuries ago. They might adjust details — arch height, plate thickness, varnish composition — but the fundamental design is Cremona's gift to the world.
 
@@ -67,7 +67,7 @@ The neck, scroll (the ornamental curl at the top), and fingerboard are carved se
 
 Varnish protects the wood and dramatically affects both the instrument's appearance and its sound. Too thick a varnish dampens vibrations. Too thin and it doesn't protect adequately. The composition — oil-based, spirit-based, or combinations — affects flexibility and durability.
 
-Cremona varnish recipes are one of violin making's enduring mysteries. Stradivari's varnish has been analyzed by scientists using everything from infrared spectroscopy to CT scanning, and while the basic ingredients (tree resins, drying oils, pigments) are known, the exact formulation and application technique remain debated.
+Cremona varnish recipes are one of violin making's enduring mysteries. Stradivari's varnish has been analyzed by scientists using everything from infrared [spectroscopy](/spectroscopy) to CT scanning, and while the basic ingredients (tree resins, drying oils, pigments) are known, the exact formulation and application technique remain debated.
 
 Modern luthiers apply 10-20 thin coats of varnish, each dried and sometimes lightly sanded before the next. The process takes 3-6 weeks. The result should be a finish that's visually beautiful, acoustically transparent, and durable enough to withstand decades of handling.
 
@@ -75,7 +75,7 @@ Modern luthiers apply 10-20 thin coats of varnish, each dried and sometimes ligh
 
 Becoming a luthier typically requires 3-5 years of formal training at a violin-making school. The most prestigious programs include the Cremona school (Istituto di Istruzione Superiore Antonio Stradivari), the Chicago School of Violin Making, the Newark School of Violin Making in England, and the Mittenwald school in Germany.
 
-Students learn wood selection, hand-tool skills, acoustics, varnishing, setup, and repair. Most graduates spend additional years working under established makers before opening their own workshops.
+Students learn wood selection, hand-tool skills, [acoustics](/acoustics), varnishing, setup, and repair. Most graduates spend additional years working under established makers before opening their own workshops.
 
 A working luthier typically produces 4-10 instruments per year while also doing repair, restoration, and setup work. The repair side of the business is often more financially stable than new instrument building, since every string player needs periodic maintenance and every instrument eventually needs repair.
 

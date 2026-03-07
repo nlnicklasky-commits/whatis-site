@@ -5,7 +5,7 @@ description: "Hinduism is the world's oldest major religion, originating in Sout
 category: philosophy
 tags: ["hinduism", "religion", "india", "karma", "reincarnation", "dharma", "yoga"]
 heroImage: "/images/articles/hinduism-hero.webp"
-heroAlt: "Ornate Hindu temple with carved stone towers and colorful flowers at the entrance"
+heroAlt: "Editorial photograph representing the concept of hinduism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ The Upanishads—philosophical texts composed between roughly 800 and 200 BCE—
 
 Different Hindu schools interpret Brahman differently. Advaita Vedanta (non-dualism), associated with the philosopher Shankara (8th century CE), holds that Brahman is the only reality—everything else, including your individual self, is ultimately illusion (maya). Vishishtadvaita (qualified non-dualism), associated with Ramanuja (11th century CE), says individual souls are real but are parts of Brahman, like waves in an ocean. Dvaita (dualism), associated with Madhva (13th century CE), maintains that God, souls, and the world are eternally distinct.
 
-These aren't minor doctrinal quibbles. They represent fundamentally different answers to the deepest question in philosophy: what is the nature of reality? The remarkable thing is that Hinduism contains all three answers—and many more—simultaneously.
+These aren't minor doctrinal quibbles. They represent fundamentally different answers to the deepest question in [philosophy](/philosophy): what is the nature of reality? The remarkable thing is that Hinduism contains all three answers—and many more—simultaneously.
 
 ### Atman: The Self
 
@@ -67,7 +67,7 @@ This idea—that your true nature is divine—is one of Hinduism's most distinct
 
 ### Dharma: Cosmic and Personal Order
 
-Dharma is one of those Sanskrit words that defies simple translation. It encompasses cosmic order, moral law, social duty, personal ethics, and religious practice all at once. Your dharma depends on your stage of life, your social role, your abilities, and your circumstances.
+Dharma is one of those Sanskrit words that defies simple [translation](/translation). It encompasses cosmic order, moral law, social duty, personal ethics, and religious practice all at once. Your dharma depends on your stage of life, your social role, your abilities, and your circumstances.
 
 The Bhagavad Gita—arguably the most widely read Hindu text—revolves around a crisis of dharma. The warrior prince Arjuna faces a battle against his own relatives and teachers. His dharma as a warrior demands he fight. His dharma as a family member and student says he shouldn't harm them. The ensuing conversation with Krishna explores how to act when duties conflict—a question with no easy answer, which is precisely the point.
 
@@ -107,7 +107,7 @@ Three major deities represent different aspects of the cosmic process:
 
 **Vishnu** is the preserver—the deity who maintains cosmic order. Vishnu incarnates on Earth whenever dharma is threatened. His ten major incarnations (avatars) include Rama (hero of the Ramayana epic), Krishna (central figure of the Bhagavad Gita and one of Hinduism's most beloved deities), and the Buddha (a later addition that absorbed [Buddhism](/buddhism) into the Hindu framework).
 
-**Shiva** is the destroyer and transformer. But "destroyer" is misleading—Shiva destroys to make space for renewal. He's also the cosmic dancer (Nataraja), the supreme yogi, and the ascetic who sits in meditation on Mount Kailash. Shiva's imagery captures the paradox of destruction as a creative force.
+**Shiva** is the destroyer and transformer. But "destroyer" is misleading—Shiva destroys to make space for renewal. He's also the cosmic dancer (Nataraja), the supreme yogi, and the ascetic who sits in [meditation](/meditation) on Mount Kailash. Shiva's imagery captures the paradox of destruction as a creative force.
 
 ### The Goddess Traditions
 
@@ -155,7 +155,7 @@ Hindu worship (puja) is extraordinarily varied. It can be as simple as lighting 
 
 Hindu temples are designed as the earthly dwelling of a deity. The innermost chamber (garbhagriha, or "womb-house") contains the main deity image. Priests perform rituals that treat the image as a living divine presence—bathing it, dressing it, offering food, and singing to it.
 
-Temple architecture varies dramatically by region. South Indian temples have massive, intricately carved gateway towers (gopurams). North Indian temples feature curving spires (shikharas). The aesthetic dimension of temple design connects Hinduism to [aesthetics](/aesthetics) as a philosophical discipline—art and beauty are not separate from spirituality but expressions of it.
+Temple [architecture](/architecture) varies dramatically by region. South Indian temples have massive, intricately carved gateway towers (gopurams). North Indian temples feature curving spires (shikharas). The aesthetic dimension of temple design connects Hinduism to [aesthetics](/aesthetics) as a philosophical discipline—art and beauty are not separate from spirituality but expressions of it.
 
 ### Home Worship
 
@@ -169,7 +169,7 @@ Each festival has mythological significance but also functions as a community ev
 
 ## Hinduism's Influence Beyond India
 
-Hinduism's influence on global culture extends far beyond its adherents. Yoga, now practiced by an estimated 300 million people worldwide, originated as a Hindu spiritual discipline. Meditation techniques rooted in Hindu traditions have entered mainstream mental health practice. The concepts of karma and dharma have become part of global vocabulary.
+Hinduism's influence on global culture extends far beyond its adherents. Yoga, now practiced by an estimated 300 million people worldwide, originated as a Hindu spiritual discipline. Meditation techniques rooted in Hindu traditions have entered mainstream [mental health](/mental-health) practice. The concepts of karma and dharma have become part of global vocabulary.
 
 Historically, Hindu culture spread across Southeast Asia through trade and cultural exchange rather than military conquest. The Angkor Wat temple complex in Cambodia, the Prambanan temple in Indonesia, and the Sanskrit influence on Thai, Cambodian, and Indonesian languages all reflect this cultural diffusion.
 
@@ -191,4 +191,4 @@ The Hindu diaspora, now numbering over 25 million outside South Asia, faces its 
 
 Hinduism is less a single religion than a civilization's accumulated spiritual wisdom—a tradition spanning over 4,000 years, encompassing radically different philosophies, practices, and devotional paths within a shared cultural framework. Its core concepts—Brahman (ultimate reality), atman (true self), dharma (moral order), karma (action and consequence), samsara (cycle of rebirth), and moksha (liberation)—provide a coherent framework that accommodates enormous diversity in practice and belief.
 
-Understanding Hinduism means accepting complexity. It's a tradition where monotheism, polytheism, monism, and atheism coexist. Where rigorous philosophical argument sits alongside ecstatic devotional singing. Where abstract metaphysics and colorful mythology serve the same ultimate purpose: helping human beings understand who they are and find their way to freedom.
+Understanding Hinduism means accepting complexity. It's a tradition where monotheism, polytheism, monism, and atheism coexist. Where rigorous philosophical argument sits alongside ecstatic devotional singing. Where abstract [metaphysics](/metaphysics) and colorful mythology serve the same ultimate purpose: helping human beings understand who they are and find their way to freedom.

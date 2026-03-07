@@ -5,7 +5,7 @@ description: "Public health protects and improves the health of entire populatio
 category: health-amp-wellness
 tags: ["public health", "disease prevention", "epidemiology", "community health"]
 heroImage: "/images/articles/public-health.webp"
-heroAlt: "Community health workers conducting a vaccination campaign in a busy urban setting"
+heroAlt: "Editorial photograph representing the concept of public health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Public Health?
 
-Public health is the science and practice of protecting and improving the health of entire communities and populations — through disease prevention, health education, policy, and organized systems rather than individual clinical treatment. If medicine asks "How do we cure this person?", public health asks "How do we stop thousands of people from getting sick in the first place?"
+Public health is the science and practice of protecting and improving the health of entire communities and populations — through disease prevention, health [education](/education), policy, and organized systems rather than individual clinical treatment. If medicine asks "How do we cure this person?", public health asks "How do we stop thousands of people from getting sick in the first place?"
 
 ## The Invisible Infrastructure You Depend On
 
@@ -43,7 +43,7 @@ You probably don't think about public health on a daily basis. That's actually t
 
 But pull back any of those threads and the picture changes fast. Before cities built modern water treatment systems in the 19th century, cholera outbreaks killed tens of thousands. Before food safety regulations, contaminated milk was responsible for an estimated 25% of all disease outbreaks in the U.S. during the early 1900s. Before vaccination campaigns, polio paralyzed roughly 35,000 Americans every year in the 1950s.
 
-The 20th century saw life expectancy in the U.S. jump from about 47 years in 1900 to 78 years by 2000. Most of that 30-year gain came not from hospitals or new drugs but from public health measures — clean water, sanitation, vaccination, safer workplaces, and better nutrition. The CDC credits public health interventions with 25 of those 30 added years.
+The 20th century saw life expectancy in the U.S. jump from about 47 years in 1900 to 78 years by 2000. Most of that 30-year gain came not from hospitals or new drugs but from public health measures — clean water, sanitation, vaccination, safer workplaces, and better [nutrition](/nutrition). The CDC credits public health interventions with 25 of those 30 added years.
 
 ## A History Written in Outbreaks and Breakthroughs
 
@@ -51,7 +51,7 @@ The 20th century saw life expectancy in the U.S. jump from about 47 years in 190
 
 Public health thinking predates the term by millennia. Roman aqueducts moved clean water across miles. Ancient Indian texts described quarantine practices. Medieval Islamic physicians like Ibn Sina wrote about contagion and environmental health. These weren't called "public health" — they were called survival.
 
-### The Birth of Modern Epidemiology
+### The Birth of Modern [Epidemiology](/epidemiology)
 
 The real turning point came in London in 1854. Cholera was tearing through the Soho neighborhood, and physician John Snow did something radical — he mapped the cases. His map showed a clear cluster around a single water pump on Broad Street. He convinced authorities to remove the pump handle. The outbreak subsided.
 
@@ -81,9 +81,9 @@ The math behind the evidence. Biostatisticians design studies, analyze health da
 
 This branch examines how your physical surroundings affect your health. Air quality, water contamination, toxic chemical exposure, radiation, climate change, food safety — all fall under environmental health. The EPA estimates that outdoor air pollution contributes to roughly 100,000-200,000 premature deaths per year in the U.S. alone.
 
-### Health Policy and Management
+### Health Policy and [Management](/management)
 
-Someone has to decide how health systems are organized, funded, and regulated. Health policy professionals work on questions like: Should soda be taxed? How should hospital funding be allocated? What should insurance cover? Their work sits at the intersection of politics, economics, and health science.
+Someone has to decide how health systems are organized, funded, and regulated. Health policy professionals work on questions like: Should soda be taxed? How should hospital funding be allocated? What should [insurance](/insurance) cover? Their work sits at the intersection of [politics](/politics), [economics](/economics), and [health science](/health-science).
 
 ### Social and Behavioral Sciences
 
@@ -103,7 +103,7 @@ When something bad is detected, the response machinery kicks in. Contact tracing
 
 ### Prevention Programs
 
-Most public health work is less dramatic than outbreak response. It's the daily grind of prevention: running immunization clinics, inspecting restaurant kitchens, testing water supplies, distributing condoms, screening for lead exposure in children, teaching diabetes management classes. Unsexy work. Enormously effective work.
+Most public health work is less dramatic than outbreak response. It's the daily grind of prevention: running immunization clinics, inspecting restaurant kitchens, testing water supplies, distributing condoms, screening for lead exposure in children, teaching [diabetes management](/diabetes-management) classes. Unsexy work. Enormously effective work.
 
 ### Policy and Regulation
 
@@ -137,7 +137,7 @@ The pandemic revealed both the power and the fragility of public health infrastr
 
 The field is broad enough to accommodate almost any interest. Epidemiologists track disease patterns. Biostatisticians crunch data. Environmental health specialists monitor air and water quality. Health educators design community programs. Policy analysts advise legislators. Emergency preparedness coordinators plan for disasters.
 
-The most common entry point is a Master of Public Health (MPH), a two-year graduate degree offered by roughly 200 accredited programs worldwide. Some positions require only a bachelor's degree; others demand a doctorate. The Bureau of Labor Statistics projects 17% growth in epidemiologist positions between 2023 and 2033 — much faster than average.
+The most common entry point is a Master of Public Health (MPH), a two-year graduate degree offered by roughly 200 accredited programs worldwide. Some positions require only a bachelor's degree; others demand a doctorate. The Bureau of Labor [Statistics](/statistics) projects 17% growth in epidemiologist positions between 2023 and 2033 — much faster than average.
 
 ## The Central Tension
 

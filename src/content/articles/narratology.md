@@ -5,7 +5,7 @@ description: "Narratology is the study of narrative structure and how stories wo
 category: arts-amp-culture
 tags: ["narratology", "narrative theory", "storytelling", "literary theory", "story structure", "fiction"]
 heroImage: "/images/articles/narratology.webp"
-heroAlt: "Open book with illustrated story paths branching out from its pages"
+heroAlt: "Editorial photograph representing the concept of narratology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Narratology?
 
-Narratology is the systematic study of narrative — how stories are structured, how they create meaning, and how they function across different media and cultures. It's not about whether a particular story is good or bad. It's about understanding the machinery underneath: how narrators control information, how time is manipulated, how point of view shapes perception, and why certain story structures appear again and again across thousands of years of human storytelling.
+Narratology is the systematic study of narrative — how stories are structured, how they create meaning, and how they function across different media and cultures. It's not about whether a particular story is good or bad. It's about understanding the machinery underneath: how narrators control information, how time is manipulated, how point of view shapes perception, and why certain story structures appear again and again across thousands of years of human [storytelling](/storytelling).
 
 The term was coined by Tzvetan Todorov in 1969, but the practice of analyzing narrative structure goes back to Aristotle's *Poetics* (c. 335 BCE), which identified plot (*mythos*) as the most important element of tragedy and described the structure of beginning, middle, and end that still shapes how most stories are built.
 
@@ -59,34 +59,34 @@ Consider *Citizen Kane*. The story, chronologically, is the life of Charles Enco
 
 ## The Major Theorists
 
-**Vladimir Propp** — analyzed 100 Russian fairy tales (*Morphology of the Folktale*, 1928) and identified 31 recurring narrative functions (the villain harms someone, the hero is tested, the hero receives a magical agent, etc.) that appear in a consistent order. Propp showed that beneath surface differences, stories share deep structural patterns.
+**Vladimir Propp** — analyzed 100 Russian [fairy tales](/fairy-tales) (*Morphology of the Folktale*, 1928) and identified 31 recurring narrative functions (the villain harms someone, the hero is tested, the hero receives a magical agent, etc.) that appear in a consistent order. Propp showed that beneath surface differences, stories share deep structural patterns.
 
-**Claude Levi-Strauss** — applied structural linguistics to mythology, arguing that myths operate through binary oppositions (nature/culture, raw/cooked, life/death) and that their meaning lies in the relationships between these oppositions rather than in surface narrative.
+**Claude Levi-Strauss** — applied structural [linguistics](/linguistics) to [mythology](/mythology), arguing that myths operate through binary oppositions (nature/culture, raw/cooked, life/death) and that their meaning lies in the relationships between these oppositions rather than in surface narrative.
 
 **Gerard Genette** — *Narrative Discourse* (1972) provided the most influential vocabulary for analyzing narrative technique. His categories for time, mood, and voice remain standard tools in narratological analysis.
 
 **Roland Barthes** — *S/Z* (1970) performed an extraordinarily detailed reading of a Balzac short story, identifying five "codes" through which narratives create meaning. He also argued for the "death of the author" — the idea that meaning resides in the reader's interpretation, not the author's intention.
 
-**Joseph Campbell** — *The Hero with a Thousand Faces* (1949) identified the "monomyth" — a universal story pattern (departure, initiation, return) appearing across world mythologies. His work influenced George Lucas's *Star Wars* and remains widely used in screenwriting and fiction instruction. Critics argue he oversimplifies diverse traditions into a single Western-centric pattern.
+**Joseph Campbell** — *The Hero with a Thousand Faces* (1949) identified the "monomyth" — a universal story pattern (departure, initiation, return) appearing across world mythologies. His work influenced George Lucas's *Star Wars* and remains widely used in [screenwriting](/screenwriting) and fiction instruction. Critics argue he oversimplifies diverse traditions into a single Western-centric pattern.
 
 ## Narrative Across Media
 
-Narratology isn't limited to books. Film narratology examines how camera angle, editing, and sound create narrative meaning beyond what dialogue conveys. A close-up communicates something different from a wide shot. A jump cut creates a different temporal experience than a dissolve.
+Narratology isn't limited to books. Film narratology examines how camera angle, [editing](/editing), and sound create narrative meaning beyond what dialogue conveys. A close-up communicates something different from a wide shot. A jump cut creates a different temporal experience than a dissolve.
 
-Video game narratology is a growing field dealing with unique questions: how do stories work when the "reader" makes choices? What happens to narrative when it's interactive? The debate between narratologists (who analyze games as stories) and ludologists (who argue games should be understood as systems of rules) has shaped game studies for two decades.
+Video game narratology is a growing field dealing with unique questions: how do stories work when the "reader" makes choices? What happens to narrative when it's interactive? The [debate](/debate) between narratologists (who analyze games as stories) and ludologists (who argue games should be understood as systems of rules) has shaped game studies for two decades.
 
 Digital and hypertext narratives — stories with branching paths, multiple endings, or non-linear structures enabled by technology — challenge traditional narratological categories built around linear print narratives.
 
 ## Why It Matters
 
-Understanding narrative structure isn't just academic. It has practical applications in fields far from literary criticism:
+Understanding narrative structure isn't just academic. It has practical applications in fields far from [literary criticism](/literary-criticism):
 
 **Medicine** uses narrative competence — the ability to recognize, interpret, and act on patients' stories — as a clinical skill. How a patient narrates their symptoms matters for diagnosis.
 
 **Law** depends on narrative persuasion. Trial lawyers construct stories from evidence. Jurors decide based partly on which narrative is more coherent and compelling.
 
-**Journalism** structures news as narrative — the inverted pyramid, the feature story, the profile — each with specific narratological conventions.
+**[Journalism](/journalism)** structures news as narrative — the inverted pyramid, the feature story, the profile — each with specific narratological conventions.
 
-**Artificial intelligence** researchers study narrative structure to build systems that can generate and understand stories.
+**[Artificial intelligence](/artificial-intelligence)** researchers study narrative structure to build systems that can generate and understand stories.
 
 Humans are narrative creatures. We organize experience into stories — beginnings, middles, and ends; causes and effects; heroes and villains. Narratology is, at bottom, the study of how we make sense of our own lives. That's not a small thing.

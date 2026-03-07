@@ -5,7 +5,7 @@ description: "Type design is the art of creating typefaces and fonts. Learn abou
 category: arts-amp-culture
 tags: ["type design", "typography", "fonts", "graphic design", "letterforms", "visual communication"]
 heroImage: "/images/articles/type-design.webp"
-heroAlt: "Designer sketching letterforms on paper with a computer screen showing a typeface in progress"
+heroAlt: "Editorial photograph representing the concept of type design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Type Design?
 
-Type design is the discipline of creating typefaces — the visual systems of letters, numbers, punctuation, and symbols that we read every day. It sits at the intersection of art, engineering, and linguistics, and it's one of those fields where the best work is invisible. If you notice the type, something has usually gone wrong.
+Type design is the discipline of creating typefaces — the visual systems of letters, numbers, punctuation, and symbols that we read every day. It sits at the intersection of art, [engineering](/engineering), and [linguistics](/linguistics), and it's one of those fields where the best work is invisible. If you notice the type, something has usually gone wrong.
 
 ## More Than Drawing Letters
 
@@ -65,15 +65,15 @@ Most type design today happens digitally, but many designers still start with pe
 
 **Spacing and kerning.** After the letterforms are drawn, spacing consumes enormous effort. The goal is even "color" — typographic term for the overall density and rhythm of text on a page. Poorly spaced type creates distracting rivers of white space or congested dark patches.
 
-**Testing.** The typeface gets set in real text at various sizes, on screen and in print. Problems only visible in running text emerge — a "g" that looked fine alone might create awkward collisions with descenders on the line below. Testing usually reveals weeks of additional refinement work.
+**Testing.** The typeface gets set in real text at various sizes, on screen and in print. Problems only visible in [running](/running) text emerge — a "g" that looked fine alone might create awkward collisions with descenders on the line below. Testing usually reveals weeks of additional refinement work.
 
 ## Historical Giants and Their Legacy
 
 **Claude Garamond** (1510-1561) designed typefaces so refined that versions of his work remain in constant use 500 years later. Adobe Garamond, published in 1989, is a direct descendant.
 
-**Giambattista Bodoni** (1740-1813) pushed stroke contrast to dramatic extremes — hairline-thin serifs meeting thick verticals. His aesthetic defined neoclassical typography and still dominates fashion magazines.
+**Giambattista Bodoni** (1740-1813) pushed stroke contrast to dramatic extremes — hairline-thin serifs meeting thick verticals. His aesthetic defined neoclassical [typography](/typography) and still dominates fashion magazines.
 
-**Max Miedinger** designed Helvetica in 1957 for the Haas Type Foundry in Switzerland. It became the most used typeface in history, appearing on everything from subway signage to corporate logos to government forms.
+**Max Miedinger** designed Helvetica in 1957 for the Haas Type Foundry in Switzerland. It became the most used typeface in history, appearing on everything from subway signage to corporate logos to [government](/government) forms.
 
 **Matthew Carter** designed Georgia and Verdana for Microsoft in the 1990s — two of the first typefaces specifically engineered for screen readability. He also designed the typeface for the Washington Post.
 
@@ -83,7 +83,7 @@ The transition from metal and phototypesetting to digital type in the 1980s chan
 
 This democratized type design. Creating a metal typeface required industrial infrastructure — punchcutting, casting, distribution. Creating a digital typeface requires a computer and specialized software like Glyphs, RoboFont, or the free FontForge.
 
-The latest evolution is **variable fonts**, introduced in 2016. A single font file contains a continuous range of weights, widths, and other design axes. Instead of installing separate files for Regular, Bold, Light, and Condensed, you get one file that smoothly interpolates between any point in the design space. This is particularly valuable for responsive web design, where typography can now adapt fluidly to screen size.
+The latest evolution is **variable fonts**, introduced in 2016. A single font file contains a continuous range of weights, widths, and other design axes. Instead of installing separate files for Regular, Bold, Light, and Condensed, you get one file that smoothly interpolates between any point in the design space. This is particularly valuable for responsive [web design](/web-design), where typography can now adapt fluidly to screen size.
 
 ## Why It Matters More Than You Think
 

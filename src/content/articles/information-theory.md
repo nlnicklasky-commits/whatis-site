@@ -5,7 +5,7 @@ description: "Information theory is the math behind data compression and transmi
 category: everyday-concepts
 tags: ["information theory", "mathematics", "data", "entropy", "Claude Shannon"]
 heroImage: "/images/articles/information-theory.webp"
-heroAlt: "Binary code streaming through fiber optic cables representing data transmission"
+heroAlt: "Editorial photograph representing the concept of information theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Information theory is the mathematical framework for quantifying, storing, and c
 
 Before Shannon, "information" was vague. Shannon made it precise by defining information in terms of uncertainty. The more uncertain you are about a message before receiving it, the more information it contains.
 
-A coin flip carries exactly one **bit** of information — one binary decision with equal probability. A roll of a six-sided die carries about 2.58 bits. A letter from the English alphabet (accounting for frequency differences) carries about 4.7 bits on average.
+A coin flip carries exactly one **bit** of information — one binary decision with equal probability. A roll of a six-sided die carries about 2.58 bits. A letter from the English alphabet ([accounting](/accounting) for frequency differences) carries about 4.7 bits on average.
 
 The key measure is **entropy** — the average information content per symbol. High entropy means high uncertainty and high information content. Low entropy means predictability — and predictable content can be compressed.
 
-This is why ZIP files work. English text has redundancy — patterns, common letters, predictable sequences. Shannon calculated that English has an entropy of about 1 to 1.5 bits per character versus a theoretical maximum of about 4.7 bits. Compression algorithms exploit that gap.
+This is why ZIP files work. English text has redundancy — patterns, common letters, predictable sequences. Shannon calculated that English has an entropy of about 1 to 1.5 bits per character versus a theoretical maximum of about 4.7 bits. Compression [algorithms](/algorithms) exploit that gap.
 
 ## The Two Big Theorems
 
@@ -57,9 +57,9 @@ Shannon's capacity formula for a Gaussian channel: C = B log2(1 + S/N). C is cap
 
 **Error correction.** Hard drives, internet transmissions, QR codes, and DVDs include redundant bits that detect and correct errors. Reed-Solomon codes, turbo codes, and LDPC codes ensure your data survives noise and damage.
 
-**Cryptography.** Shannon proved that perfectly secure encryption requires a key as long as the message (the one-time pad). Modern cryptography seeks practical approximations of this theoretical ideal.
+**[Cryptography](/cryptography).** Shannon proved that perfectly secure encryption requires a key as long as the message (the one-time pad). Modern cryptography seeks practical approximations of this theoretical ideal.
 
-**Machine learning.** Cross-entropy loss — the standard training objective for neural networks — comes directly from information theory. Mutual information and KL divergence are used throughout AI research.
+**[Machine learning](/machine-learning).** Cross-entropy loss — the standard training objective for [neural networks](/neural-networks) — comes directly from information theory. Mutual information and KL divergence are used throughout AI research.
 
 **Telecommunications.** Each wireless generation (2G through 5G) has pushed closer to Shannon's capacity limit. 5G operates within a few percent of the theoretical maximum — meaning future gains require more bandwidth, not cleverer encoding.
 

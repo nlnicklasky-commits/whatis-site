@@ -5,7 +5,7 @@ description: "The history of biology traces our understanding of life from Arist
 category: history
 tags: ["history of biology", "biology", "evolution", "genetics", "darwin"]
 heroImage: "/images/articles/the-history-of-biology.webp"
-heroAlt: "Historical illustration of Darwin's finches showing different beak shapes"
+heroAlt: "Editorial photograph representing the concept of the history of biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 The history of biology is the long, messy, sometimes accidental process of figuring out what life is, how it works, and how all living things are connected. It spans from Aristotle classifying sea urchins in the 4th century BCE to scientists in 2023 reading the complete human genome, all three billion base pairs of it.
 
-What makes biology's history unique among the sciences is how late it came together. Physics had Newton in 1687. Chemistry had Lavoisier in the 1770s. Biology didn't get its unifying theory — evolution by natural selection — until 1859, and the mechanism underlying it (DNA) wasn't understood until 1953. For most of human history, studying life meant cataloging what you could see and guessing at the rest.
+What makes biology's history unique among the sciences is how late it came together. Physics had Newton in 1687. [Chemistry](/chemistry) had Lavoisier in the 1770s. Biology didn't get its unifying theory — evolution by natural selection — until 1859, and the mechanism underlying it (DNA) wasn't understood until 1953. For most of human history, studying life meant cataloging what you could see and guessing at the rest.
 
 ## Ancient Biology: Observation Without Microscopes
 
 ### Aristotle (384-322 BCE)
 
-You can't tell the history of biology without starting here. Aristotle studied over 500 animal species through direct observation and dissection. He classified organisms into groups based on shared characteristics, distinguished between vertebrates (he called them "animals with blood") and invertebrates ("animals without blood"), and described the anatomy and behavior of creatures from cuttlefish to elephants.
+You can't tell the history of biology without starting here. Aristotle studied over 500 animal species through direct observation and dissection. He classified organisms into groups based on shared characteristics, distinguished between vertebrates (he called them "animals with blood") and invertebrates ("animals without blood"), and described the [anatomy](/anatomy) and behavior of creatures from cuttlefish to elephants.
 
 Some of his observations were remarkably precise. He correctly described the development of chick embryos day by day. He noted that dolphins are mammals, not fish — a distinction that wouldn't be generally accepted for another two millennia. He also made mistakes — he believed the brain's function was to cool the blood, and that spontaneous generation (life arising from nonliving matter) was possible.
 
@@ -49,7 +49,7 @@ His system of classification lasted about 2,000 years. That's not because nobody
 
 ### Galen and Roman Medicine (129-216 CE)
 
-Galen of Pergamon was primarily a physician, but his anatomical work was the most detailed biological research between Aristotle and the Renaissance. Serving as doctor to Roman gladiators, he gained extensive knowledge of human anatomy through treating wounds. He also dissected animals — especially Barbary macaques — and extrapolated (sometimes incorrectly) to human anatomy.
+Galen of Pergamon was primarily a physician, but his anatomical work was the most detailed biological research between Aristotle and the Renaissance. Serving as doctor to Roman gladiators, he gained extensive knowledge of [human anatomy](/human-anatomy) through treating wounds. He also dissected animals — especially Barbary macaques — and extrapolated (sometimes incorrectly) to human anatomy.
 
 Galen's influence was enormous and, in some ways, stifling. His authority was so respected that for 1,300 years, contradicting Galen was professionally dangerous. When Andreas Vesalius published accurate human anatomical illustrations in 1543 — correcting many of Galen's errors — it was considered scandalous.
 
@@ -91,7 +91,7 @@ Charles Darwin spent five years aboard HMS Beagle (1831-1836), observing geology
 
 *On the Origin of Species* (1859) argued two things. First, species change over time (evolution). Second, the primary mechanism is natural selection — organisms with traits better suited to their environment are more likely to survive and reproduce, passing those traits to offspring. Over many generations, this process produces new species.
 
-The reaction was explosive. The scientific community largely accepted evolution within a decade — the evidence from comparative anatomy, biogeography, and the fossil record was overwhelming. Natural selection as the mechanism took longer to accept, partly because Darwin couldn't explain how traits were inherited. He didn't know about genes.
+The reaction was explosive. The scientific community largely accepted evolution within a decade — the evidence from [comparative anatomy](/comparative-anatomy), [biogeography](/biogeography), and the fossil record was overwhelming. Natural selection as the mechanism took longer to accept, partly because Darwin couldn't explain how traits were inherited. He didn't know about genes.
 
 Alfred Russel Wallace independently arrived at the theory of natural selection around the same time. Darwin and Wallace presented their findings jointly at the Linnean Society in 1858. Wallace has been persistently under-credited — a fact that bothered him less than it bothers modern historians.
 
@@ -123,7 +123,7 @@ In 1952, Alfred Hershey and Martha Chase confirmed that DNA is the genetic mater
 
 Then came 1953. James Watson and Francis Crick, working at Cambridge, proposed the double-helix structure of DNA — two complementary strands wound around each other, with paired bases (A-T, C-G) forming the rungs of a twisted ladder. Their model immediately suggested how DNA replicates: the strands separate, and each acts as a template for a new complementary strand.
 
-Their work relied heavily on X-ray crystallography data produced by Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's "Photo 51" — an X-ray diffraction image of DNA — was shown to Watson without her knowledge. Franklin died of ovarian cancer in 1958 at age 37, possibly caused by radiation exposure from her research. Watson, Crick, and Wilkins received the Nobel Prize in 1962. Franklin, ineligible posthumously, received no Nobel.
+Their work relied heavily on X-ray [crystallography](/crystallography) data produced by Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's "Photo 51" — an X-ray diffraction image of DNA — was shown to Watson without her knowledge. Franklin died of ovarian cancer in 1958 at age 37, possibly caused by radiation exposure from her research. Watson, Crick, and Wilkins received the Nobel Prize in 1962. Franklin, ineligible posthumously, received no Nobel.
 
 ### The Genetic Code and Genomics
 
@@ -133,12 +133,12 @@ Recombinant DNA technology in the 1970s allowed scientists to cut, paste, and co
 
 The Human Genome Project, launched in 1990 and completed in 2003, sequenced all 3.2 billion base pairs of human DNA. The cost: approximately $2.7 billion. Today, a complete human genome can be sequenced for under $200.
 
-CRISPR-Cas9, developed as a gene-editing tool in 2012 by Jennifer Doudna and Emmanuelle Charpentier, made precise genetic modification dramatically easier. It's been used to create disease-resistant crops, develop gene therapies for sickle cell disease, and — controversially — edit human embryos (the He Jiankui affair in 2018).
+CRISPR-Cas9, developed as a gene-[editing](/editing) tool in 2012 by Jennifer Doudna and Emmanuelle Charpentier, made precise genetic modification dramatically easier. It's been used to create disease-resistant crops, develop gene therapies for sickle cell disease, and — controversially — edit human embryos (the He Jiankui affair in 2018).
 
 ## Where Biology Stands Now
 
-Biology in the 21st century is increasingly a data science. Genomics, proteomics, metabolomics — the "-omics" revolution — generates massive datasets that require computational analysis. A single modern genomics experiment can produce terabytes of data.
+Biology in the 21st century is increasingly a [data science](/data-science). Genomics, [proteomics](/proteomics), metabolomics — the "-omics" revolution — generates massive datasets that require computational analysis. A single modern genomics experiment can produce terabytes of data.
 
-Synthetic biology aims to design and build biological systems from scratch. In 2010, Craig Venter's team created the first cell with a completely synthetic genome. By 2019, researchers had created a bacterium with a synthetic genome using only 61 codons instead of the natural 64 — proving the genetic code can be rewritten.
+[Synthetic biology](/synthetic-biology) aims to design and build biological systems from scratch. In 2010, Craig Venter's team created the first cell with a completely synthetic genome. By 2019, researchers had created a bacterium with a synthetic genome using only 61 codons instead of the natural 64 — proving the genetic code can be rewritten.
 
 From Aristotle counting cuttlefish tentacles to scientists programming bacteria like computers — that's the arc of biology's history. The distance covered is extraordinary. The distance remaining is, if anything, larger.

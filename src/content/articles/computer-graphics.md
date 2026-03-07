@@ -5,7 +5,7 @@ description: "Computer graphics is the creation and manipulation of visual conte
 category: technology
 tags: ["digital art", "visuals", "3d modeling", "animation", "gaming", "virtual reality", "cgi"]
 heroImage: "/images/articles/computer-graphics-hero.webp"
-heroAlt: "3D rendered scene showing polygonal meshes and lighting effects in a digital environment"
+heroAlt: "Editorial photograph representing the concept of computer graphics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Graphics?
 
-Computer graphics is the field of creating, manipulating, and rendering visual content using computers — encompassing everything from the pixels on your screen right now to photorealistic CGI in blockbuster films, real-time 3D video games, medical imaging, and virtual reality environments. It's the science and art of turning mathematical descriptions into images you can see.
+Computer graphics is the field of creating, manipulating, and rendering visual content using computers — encompassing everything from the pixels on your screen right now to photorealistic CGI in blockbuster films, real-time 3D video games, [medical imaging](/medical-imaging), and virtual reality environments. It's the science and art of turning mathematical descriptions into images you can see.
 
 ## From Oscilloscopes to Photorealism: A Quick History
 
@@ -124,7 +124,7 @@ PBR uses physically accurate models for how surfaces reflect light. Materials ar
 - **Roughness** — how smooth or rough the surface is at a microscopic level
 - **Normal maps** — texture-encoded surface detail that affects lighting without adding geometry
 
-PBR produces consistent, realistic results under different lighting conditions. An artist defines a material once, and it looks correct whether lit by sunlight, candlelight, or neon. This consistency is why PBR has become the standard in both games and film production.
+PBR produces consistent, realistic results under different lighting conditions. An artist defines a material once, and it looks correct whether lit by sunlight, candlelight, or neon. This consistency is why PBR has become the standard in both games and [film production](/film-production).
 
 ### Global Illumination: The Holy Grail
 
@@ -170,7 +170,7 @@ By 2025, ray tracing support has spread across NVIDIA, AMD, and Intel GPUs, and 
 
 Most games and interactive 3D applications are built on game engines rather than coded from scratch:
 
-**Unreal Engine** (Epic Games) — the industry workhorse for AAA games and increasingly for film production, architectural visualization, and automotive design. Known for visual fidelity.
+**Unreal Engine** (Epic Games) — the industry workhorse for AAA games and increasingly for film production, architectural visualization, and [automotive design](/automotive-design). Known for visual fidelity.
 
 **Unity** — the most widely used engine by developer count, popular for indie games, mobile, AR/VR, and simulations. More accessible learning curve.
 
@@ -247,13 +247,13 @@ You can't fully understand computer graphics without appreciating the mathematic
 
 **Linear algebra** — vectors, matrices, transformations. This is the single most important math topic for graphics. Every vertex transformation, every camera projection, every lighting calculation involves linear algebra.
 
-**Calculus** — integration for rendering equations, derivatives for surface normals and tangents, differential equations for physics simulation.
+**Calculus** — integration for rendering equations, derivatives for surface normals and tangents, [differential equations](/differential-equations) for physics simulation.
 
 **Trigonometry** — angles, rotations, wave functions for animation and effects.
 
 **Statistics and probability** — Monte Carlo methods for path tracing, stochastic sampling, noise functions.
 
-**Computational geometry** — intersection testing, mesh processing, convex hulls, spatial data structures.
+**Computational geometry** — intersection testing, mesh processing, convex hulls, spatial [data structures](/data-structures).
 
 If you're interested in graphics programming, invest in linear algebra first. The payoff is immediate and enormous.
 

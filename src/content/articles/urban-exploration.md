@@ -5,7 +5,7 @@ description: "Urban exploration is the hobby of visiting abandoned or hidden man
 category: everyday-concepts
 tags: ["urban exploration", "urbex", "abandoned places", "photography", "adventure", "subculture"]
 heroImage: "/images/articles/urban-exploration.webp"
-heroAlt: "An explorer with a flashlight standing in a decaying abandoned factory with peeling paint"
+heroAlt: "Editorial photograph representing the concept of urban exploration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Urban exploration — usually shortened to "urbex" — is the practice of visiti
 
 Why would someone break into an abandoned asylum on a Saturday morning? The answers vary, but a few motivations show up consistently.
 
-**The photography.** Abandoned places are visually stunning in ways that functional buildings rarely are. Peeling paint, overgrown corridors, light filtering through broken windows, nature reclaiming architecture — these images have an emotional weight that clean, maintained spaces don't offer. Some of the most striking photography on the internet comes from urbex.
+**The photography.** Abandoned places are visually stunning in ways that functional buildings rarely are. Peeling paint, overgrown corridors, light filtering through broken windows, nature reclaiming [architecture](/architecture) — these images have an emotional weight that clean, maintained spaces don't offer. Some of the most striking photography on the internet comes from urbex.
 
 **The history.** Every abandoned building has a story. A closed factory means a community that lost jobs. A shuttered school means a neighborhood that emptied out. An overgrown estate means a family fortune that ran dry. Explorers often research the history of locations they visit, uncovering stories that would otherwise be forgotten.
 
@@ -47,9 +47,9 @@ Why would someone break into an abandoned asylum on a Saturday morning? The answ
 
 ## A Brief History
 
-Organized urbex as a hobby dates to the 1990s, when online forums began connecting people who'd been independently exploring abandoned places. Jeff Chapman, who went by "Ninjalicious," published the influential zine *Infiltration* starting in 1996 and is often credited with formalizing the hobby's ethics and culture.
+Organized urbex as a hobby dates to the 1990s, when online forums began connecting people who'd been independently exploring abandoned places. Jeff Chapman, who went by "Ninjalicious," published the influential zine *Infiltration* starting in 1996 and is often credited with formalizing the hobby's [ethics](/ethics) and culture.
 
-But people have always been drawn to ruins. The Romantic poets and painters of the 18th and 19th centuries were fascinated by crumbling castles and ancient temples — same impulse, different century. Victorian-era "ruin tourism" was a legitimate leisure activity.
+But people have always been drawn to ruins. The Romantic poets and painters of the 18th and 19th centuries were fascinated by crumbling castles and ancient temples — same impulse, different century. Victorian-era "ruin [tourism](/tourism)" was a legitimate leisure activity.
 
 What changed in the 2000s was documentation. Digital cameras and social media turned private exploration into shared experience. Instagram, YouTube, and dedicated urbex websites created audiences for abandoned-place content, and the hobby exploded in popularity.
 

@@ -5,7 +5,7 @@ description: "Distillation separates liquid mixtures by differences in boiling p
 category: science
 tags: ["distillation", "chemistry", "separation", "purification", "boiling point", "chemical engineering", "laboratory"]
 heroImage: "/images/articles/distillation-hero.webp"
-heroAlt: "Laboratory distillation apparatus with round-bottom flask, condenser, and collection vessel"
+heroAlt: "Editorial photograph representing the concept of distillation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Distillation?
 
-Distillation is a separation technique that exploits differences in the boiling points of substances in a liquid mixture—heating the mixture until the more volatile component vaporizes preferentially, then cooling that vapor back into a liquid and collecting it separately. It is one of the oldest and most widely used purification methods in chemistry, with applications spanning from petroleum refining and water purification to the production of spirits and essential oils.
+Distillation is a separation technique that exploits differences in the boiling points of substances in a liquid mixture—heating the mixture until the more volatile component vaporizes preferentially, then cooling that vapor back into a liquid and collecting it separately. It is one of the oldest and most widely used purification methods in [chemistry](/chemistry), with applications spanning from petroleum refining and [water purification](/water-purification) to the production of spirits and essential oils.
 
 ## An Ancient Technique
 
@@ -90,13 +90,13 @@ In a refinery's **atmospheric distillation unit**, heated crude oil enters a col
 - **Heavy gas oil** condenses lower still (350-500+ degrees Celsius)
 - **Residue** (asphalt, heavy fuel oil) remains at the bottom
 
-A single refinery column operates continuously, processing thousands of barrels of crude oil per day with multiple product streams drawn off at different levels. The engineering involved—managing heat transfer, pressure, flow rates, and composition across a 50-meter column running 24/7—is staggering.
+A single refinery column operates continuously, processing thousands of barrels of crude oil per day with multiple product streams drawn off at different levels. The [engineering](/engineering) involved—managing [heat transfer](/heat-transfer), pressure, flow rates, and composition across a 50-meter column [running](/running) 24/7—is staggering.
 
 **Vacuum distillation** processes the heavy residue further. By reducing pressure, you lower the boiling points of heavy components, allowing them to vaporize at temperatures low enough to avoid thermal decomposition (cracking). The products of vacuum distillation become lubricating oils, waxes, and feedstock for further processing.
 
 ## Distilled Spirits: The Fun Application
 
-The production of whiskey, vodka, rum, gin, brandy, and other spirits is fundamentally a distillation process. Fermentation produces a low-alcohol liquid (typically 5-12% ethanol). Distillation concentrates the alcohol while selectively retaining flavor compounds.
+The production of whiskey, vodka, rum, gin, brandy, and other spirits is fundamentally a distillation process. [Fermentation](/fermentation) produces a low-alcohol liquid (typically 5-12% ethanol). Distillation concentrates the alcohol while selectively retaining flavor compounds.
 
 ### Pot Stills
 
@@ -124,7 +124,7 @@ The trade-off is character. Pot still spirits retain more of the raw material's 
 
 Distillation can produce extremely pure water. Heating contaminated water produces steam that leaves behind dissolved salts, heavy metals, bacteria, viruses, and most chemical contaminants. Condensing the steam gives you purified water.
 
-**Desalination** by distillation has been practiced for centuries—sailors distilled seawater for drinking. Modern thermal desalination plants use multi-stage flash distillation (MSF) or multi-effect distillation (MED), both designed to reuse heat energy across multiple stages to improve efficiency.
+**[Desalination](/desalination)** by distillation has been practiced for centuries—sailors distilled seawater for drinking. Modern thermal desalination plants use multi-stage flash distillation (MSF) or multi-effect distillation (MED), both designed to reuse heat energy across multiple stages to improve efficiency.
 
 In MSF, heated seawater passes through a series of chambers at progressively lower pressures. At each stage, some water "flashes" into steam without additional heating (because the lower pressure lowers the boiling point). This is repeated across 15-25 stages, each recovering a fraction of fresh water. The Jebel Ali MSF plant in Dubai produces over 600 million liters of fresh water per day.
 
@@ -178,9 +178,9 @@ Industrial distillation is the largest-scale separation process on Earth. Refine
 
 Even if you never set foot in a chemistry lab or refinery, distillation affects your daily life in ways you might not realize.
 
-The gasoline in your car was distilled from crude oil. The natural gas heating your home was separated from raw gas by distillation-like processes. The whiskey, vodka, or brandy in your cabinet was distilled from fermented grain or fruit. The essential oils in your soap, perfume, or aromatherapy diffuser were steam-distilled from plants. The medications you take may have been purified by distillation at some point in their manufacture.
+The gasoline in your car was distilled from crude oil. The natural gas heating your home was separated from raw gas by distillation-like processes. The whiskey, vodka, or brandy in your cabinet was distilled from fermented grain or fruit. The essential oils in your soap, perfume, or [aromatherapy](/aromatherapy) diffuser were steam-distilled from plants. The medications you take may have been purified by distillation at some point in their manufacture.
 
-Even your tap water, in some regions, has been through a distillation step. And the high-purity nitrogen and oxygen used in hospitals, welding shops, and food packaging were separated from air by cryogenic distillation—cooling air to extremely low temperatures (-190 degrees Celsius) and distilling the liquid air into its component gases.
+Even your tap water, in some regions, has been through a distillation step. And the high-purity nitrogen and oxygen used in hospitals, [welding](/welding) shops, and food packaging were separated from air by cryogenic distillation—cooling air to extremely low temperatures (-190 degrees Celsius) and distilling the liquid air into its component gases.
 
 ## Key Takeaways
 

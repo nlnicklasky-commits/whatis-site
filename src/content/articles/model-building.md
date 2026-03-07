@@ -5,7 +5,7 @@ description: "Model building is the hobby of constructing scaled replicas of veh
 category: everyday-concepts
 tags: ["model building", "scale models", "hobby", "crafts", "miniatures", "plastic models"]
 heroImage: "/images/articles/model-building.webp"
-heroAlt: "Detailed scale model aircraft on a workbench surrounded by paints and tools"
+heroAlt: "Editorial photograph representing the concept of model building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Model Building?
 
-Model building is the hobby of constructing scaled-down replicas of real-world (or fictional) objects — aircraft, tanks, ships, cars, buildings, spacecraft, and figures — from kits or raw materials. It's part craft, part art, and part engineering, combining manual dexterity with patience, research, and an eye for detail.
+Model building is the hobby of constructing scaled-down replicas of real-world (or fictional) objects — aircraft, tanks, ships, cars, buildings, spacecraft, and figures — from kits or raw materials. It's part craft, part art, and part [engineering](/engineering), combining manual dexterity with patience, research, and an eye for detail.
 
 The hobby has been popular since the 1930s, when solid wood airplane kits became widely available. Plastic injection-molded kits arrived in the 1950s and transformed the hobby, making detailed models accessible to anyone willing to assemble, paint, and detail them. Today, model building involves thousands of available kits from manufacturers like Tamiya, Revell, Airfix, Trumpeter, and Bandai, covering virtually every vehicle and structure ever built.
 
@@ -45,7 +45,7 @@ The hobby has been popular since the 1930s, when solid wood airplane kits became
 
 **Wooden ship modeling.** A distinct sub-hobby with its own techniques and traditions. Kits provide pre-cut wooden planking, fittings, and rigging materials. Building a wooden ship model is a long-term project — months to years for a detailed build.
 
-**Diorama building.** Creating scenic settings for models — a tank in a muddy village, an aircraft on a jungle airstrip, a ship in rough seas. Dioramas combine model building with terrain-making, painting, and storytelling.
+**Diorama building.** Creating scenic settings for models — a tank in a muddy village, an aircraft on a jungle airstrip, a ship in rough seas. Dioramas combine model building with terrain-making, [painting](/painting), and [storytelling](/storytelling).
 
 ## Core Techniques
 
@@ -63,11 +63,11 @@ The hobby has been popular since the 1930s, when solid wood airplane kits became
 
 Model building has a large, active community. IPMS (International Plastic Modellers' Society) has chapters worldwide and hosts annual competitions. Online forums (BritModeller, ARC, HyperScale) and YouTube channels (Night Shift, Quick Kits, PLASMO) provide tutorials, reviews, and inspiration.
 
-Competitions range from local club events to national and international shows. Models are judged on construction quality, painting, accuracy, and overall impression. But most builders aren't competitive — they build for personal satisfaction, and the community emphasizes enjoyment over perfection.
+Competitions range from local club events to national and international shows. Models are judged on [construction](/construction) quality, painting, accuracy, and overall impression. But most builders aren't competitive — they build for personal satisfaction, and the community emphasizes enjoyment over perfection.
 
 ## Why People Build Models
 
-The appeal is surprisingly varied. History enthusiasts build to understand the vehicles and equipment of specific conflicts. Aviation fans build every variant of their favorite aircraft. Some builders enjoy the meditative, focused work of assembly and painting. Others chase the artistic challenge of achieving photorealistic finishes.
+The appeal is surprisingly varied. History enthusiasts build to understand the vehicles and equipment of specific conflicts. [Aviation](/aviation) fans build every variant of their favorite aircraft. Some builders enjoy the meditative, focused work of assembly and painting. Others chase the artistic challenge of achieving photorealistic finishes.
 
 There's also something genuinely satisfying about taking a box of plastic parts and producing a small, detailed replica of a real-world machine. It's tangible creation in a digital world — something you can hold, display, and show to people who invariably say, "You *built* that?"
 

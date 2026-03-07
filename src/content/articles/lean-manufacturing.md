@@ -5,7 +5,7 @@ description: "Lean manufacturing is a production method focused on eliminating w
 category: technology
 tags: ["lean manufacturing", "toyota production system", "waste reduction", "continuous improvement", "kaizen", "just-in-time", "efficiency"]
 heroImage: "/images/articles/lean-manufacturing-hero.webp"
-heroAlt: "Clean organized factory floor with visual management boards and streamlined production line"
+heroAlt: "Editorial photograph representing the concept of lean manufacturing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Lean Manufacturing?
 
-Lean manufacturing is a systematic approach to production that seeks to minimize waste while maximizing the value delivered to customers. Born on the factory floors of post-war Japan and refined over decades, lean has become one of the most influential management philosophies in industrial history.
+Lean manufacturing is a systematic approach to production that seeks to minimize waste while maximizing the value delivered to customers. Born on the factory floors of post-war Japan and refined over decades, lean has become one of the most influential [management](/management) philosophies in [industrial history](/industrial-history).
 
 The core idea is disarmingly simple: identify what your customer actually values, then organize everything around delivering that value as efficiently as possible. Anything that doesn't contribute to customer value is waste—and waste should be eliminated.
 
@@ -49,7 +49,7 @@ Taiichi Ohno, a Toyota production engineer, visited Ford's River Rouge plant in 
 
 Ohno and his colleague Shigeo Shingo spent the next three decades developing what became the Toyota Production System (TPS). The results were extraordinary. By the 1980s, Toyota could produce a car in roughly half the time, with half the defects, using half the factory space of comparable American manufacturers. A 1990 MIT study documented these gaps in "The Machine That Changed the World"—the book that coined the term "lean manufacturing."
 
-What made Toyota different wasn't one big innovation. It was a philosophy—a fundamentally different way of thinking about production—supported by dozens of interlocking practices and tools.
+What made Toyota different wasn't one big innovation. It was a [philosophy](/philosophy)—a fundamentally different way of thinking about production—supported by dozens of interlocking practices and tools.
 
 ## The Eight Wastes: Lean's Enemy List
 
@@ -87,7 +87,7 @@ Products that don't meet quality standards require rework, scrap, or warranty cl
 
 ### 8. Unused Talent
 
-This eighth waste was added later and refers to the failure to use employees' knowledge, creativity, and skills. When a factory worker sees a better way to do something but has no mechanism to suggest it, that's waste. When an engineer spends half their time on paperwork instead of engineering, that's waste.
+This eighth waste was added later and refers to the failure to use employees' knowledge, creativity, and skills. When a factory worker sees a better way to do something but has no mechanism to suggest it, that's waste. When an engineer spends half their time on paperwork instead of [engineering](/engineering), that's waste.
 
 Toyota's suggestion system received over 700,000 improvement ideas from employees in a single year, and implemented roughly 99% of them. Most were small—move a tool rack six inches closer, change the angle of a welding jig—but they accumulated into enormous competitive advantage.
 
@@ -169,7 +169,7 @@ American manufacturers in the 1980s found this concept almost impossible to acce
 
 Shigeo Shingo developed SMED to reduce the time needed to change a machine from producing one product to producing another. Long changeovers encourage large batch sizes (to amortize the setup time), which leads to excess inventory. Short changeovers enable small batches, which supports flow and flexibility.
 
-Shingo demonstrated that most setup activities could be classified as "internal" (must be done while the machine is stopped) or "external" (can be done while the machine is running). By converting internal activities to external ones and streamlining what remains, setup times that once took hours could be reduced to minutes.
+Shingo demonstrated that most setup activities could be classified as "internal" (must be done while the machine is stopped) or "external" (can be done while the machine is [running](/running)). By converting internal activities to external ones and streamlining what remains, setup times that once took hours could be reduced to minutes.
 
 One famous example: Toyota reduced a stamping press changeover from four hours to three minutes. This allowed them to produce small batches of different car body panels throughout the day, while competitors were locked into producing thousands of identical panels before switching.
 
@@ -201,7 +201,7 @@ The connection between lean and [agile software development](/agile-software-dev
 
 Kanban boards, daily standups, retrospectives, and minimum viable products all trace their lineage to Toyota's factory floor—even if the developers using them don't know it.
 
-### Construction
+### [Construction](/construction)
 
 Lean construction applies flow principles to building projects, where waste is endemic. Construction projects routinely run 20-30% over budget and 20% over schedule. Much of this comes from poor coordination—materials arriving before they're needed, trades waiting for each other, rework due to design errors.
 
@@ -229,7 +229,7 @@ Lean isn't without its critics, and some of their points land.
 
 **Fragility.** Systems optimized for efficiency can be fragile. Toyota itself experienced this in 2011 when the Fukushima earthquake disrupted suppliers and halted production worldwide—a single-source supplier failure cascading through a tightly coupled system. The pandemic amplified this lesson globally.
 
-**Cultural fit.** Lean emerged from Japanese culture, which emphasizes group harmony, long-term employment, and respect for hierarchy. Transplanting these practices to cultures with different values—individualism, short-term employment, adversarial labor relations—doesn't always work smoothly.
+**Cultural fit.** Lean emerged from Japanese culture, which emphasizes group [harmony](/harmony), long-term employment, and respect for hierarchy. Transplanting these practices to cultures with different values—individualism, short-term employment, adversarial labor relations—doesn't always work smoothly.
 
 **Measurement obsession.** Lean's focus on measurable waste can lead to neglecting things that are hard to measure—innovation, creativity, employee wellbeing, long-term capacity building. If it can't be put on a value stream map, it might get eliminated as "waste" even when it's actually valuable.
 
@@ -237,7 +237,7 @@ These criticisms don't invalidate lean—they define its boundaries. Lean is a p
 
 ## The Future of Lean
 
-Lean continues to evolve. **Industry 4.0** technologies—IoT sensors, [artificial-intelligence](/artificial-intelligence), digital twins, robotics—are being integrated with lean principles to create what some call "Lean 4.0." Sensors detect machine anomalies before breakdowns occur (predictive jidoka). AI optimizes production schedules in real-time. Digital twins simulate value streams before physical changes are made.
+Lean continues to evolve. **Industry 4.0** technologies—IoT sensors, [artificial-intelligence](/artificial-intelligence), digital twins, [robotics](/robotics)—are being integrated with lean principles to create what some call "Lean 4.0." Sensors detect machine anomalies before breakdowns occur (predictive jidoka). AI optimizes production schedules in real-time. Digital twins simulate value streams before physical changes are made.
 
 **Sustainability** is becoming lean's newest frontier. Environmental waste—excess energy, emissions, water use, material waste—maps naturally onto lean's waste elimination framework. Companies are applying lean thinking to reduce their environmental footprint, finding that what's good for the planet is often good for the bottom line.
 

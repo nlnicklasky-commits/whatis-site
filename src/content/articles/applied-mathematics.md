@@ -5,7 +5,7 @@ description: "Applied mathematics uses math techniques to solve real-world probl
 category: science
 tags: ["applied mathematics", "mathematics", "math", "engineering", "statistics", "modeling", "numerical analysis"]
 heroImage: "/images/articles/applied-mathematics-hero.webp"
-heroAlt: "Mathematical equations and graphs overlaid on engineering blueprints and scientific data visualizations"
+heroAlt: "Editorial photograph representing the concept of applied mathematics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

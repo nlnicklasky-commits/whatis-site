@@ -5,7 +5,7 @@ description: "Forensic anthropology applies skeletal biology to legal cases, ide
 category: science
 tags: ["forensic science", "anthropology", "skeletal remains", "crime scene", "human identification", "archaeology", "trauma analysis"]
 heroImage: "/images/articles/forensic-anthropology-hero.webp"
-heroAlt: "A forensic anthropologist examining skeletal remains in a laboratory with reference charts and measurement tools"
+heroAlt: "Editorial photograph representing the concept of forensic anthropology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Forensic Anthropology?
 
-Forensic anthropology is the application of physical [anthropology](/anthropology) and human osteology (the study of bones) to legal proceedings. Forensic anthropologists analyze human skeletal remains to establish identity, determine the circumstances of death, and provide expert testimony in criminal and civil cases. They work at the intersection of biological science, archaeology, and the justice system.
+Forensic anthropology is the application of physical [anthropology](/anthropology) and human [osteology](/osteology) (the study of bones) to legal proceedings. Forensic anthropologists analyze human skeletal remains to establish identity, determine the circumstances of death, and provide expert testimony in criminal and civil cases. They work at the intersection of biological science, archaeology, and the justice system.
 
 ## What Forensic Anthropologists Actually Do
 
@@ -125,7 +125,7 @@ In the United States, there are approximately 90 board-certified forensic anthro
 
 ### Mass Disaster Response
 
-When disasters produce many casualties — plane crashes, building collapses, natural disasters, armed conflicts — forensic anthropologists are critical for identifying remains. The challenge is enormous: remains may be fragmented, commingled (mixed together), and in various states of preservation.
+When disasters produce many casualties — plane crashes, building collapses, [natural disasters](/natural-disasters), armed conflicts — forensic anthropologists are critical for identifying remains. The challenge is enormous: remains may be fragmented, commingled (mixed together), and in various states of preservation.
 
 After the September 11, 2001 attacks, forensic anthropologists worked for years at the New York City Office of the Chief Medical Examiner, sorting through more than 20,000 fragments of human remains to identify the 2,977 victims. As of 2024, some victims had still not been identified despite extensive DNA testing.
 
@@ -161,11 +161,11 @@ Much of forensic anthropology still relies on visual and metric assessment by tr
 
 **DNA analysis** has become the gold standard for positive identification when reference samples are available. Even highly degraded remains can yield DNA using mitochondrial DNA analysis or next-generation sequencing techniques. However, DNA analysis is expensive, time-consuming, and requires a reference sample for comparison — which is why the biological profile remains important for narrowing the search.
 
-**Radiocarbon dating** and other isotopic dating methods can establish when someone died, which is particularly useful for distinguishing forensically relevant remains (recent deaths requiring investigation) from ancient remains that are archaeologically interesting but not criminal matters.
+**[Radiocarbon dating](/radiocarbon-dating)** and other isotopic dating methods can establish when someone died, which is particularly useful for distinguishing forensically relevant remains (recent deaths requiring investigation) from ancient remains that are archaeologically interesting but not criminal matters.
 
 ## Training and Certification
 
-Becoming a forensic anthropologist requires extensive education. The typical path includes a bachelor's degree in anthropology or [biology](/biology), a master's degree in physical or biological anthropology with a focus on osteology, and a doctoral degree with dissertation research in forensic anthropology.
+Becoming a forensic anthropologist requires extensive [education](/education). The typical path includes a bachelor's degree in anthropology or [biology](/biology), a master's degree in physical or [biological anthropology](/biological-anthropology) with a focus on osteology, and a doctoral degree with dissertation research in forensic anthropology.
 
 Board certification by the American Board of Forensic Anthropology (ABFA) requires a doctoral degree, a minimum of three years of post-doctoral professional experience, submission of a case portfolio, and passing a written and practical examination. The exam includes both bone identification and case analysis.
 
@@ -185,4 +185,4 @@ Forensic anthropology raises significant ethical questions.
 
 ## Key Takeaways
 
-Forensic anthropology applies skeletal biology to legal and humanitarian contexts. Its core task is building biological profiles — sex, age, ancestry, and stature estimates — from human remains. Trauma analysis reveals what happened to the individual around the time of death. The field serves criminal investigations, mass disaster response, human rights documentation, and historical research. Modern technology — CT scanning, DNA analysis, isotope chemistry, 3D imaging — supplements but does not replace the trained examiner's expertise. With roughly 90 board-certified practitioners in the United States, it's a small field with an outsized impact on justice and human identification.
+Forensic anthropology applies skeletal biology to legal and humanitarian contexts. Its core task is building biological profiles — sex, age, ancestry, and stature estimates — from human remains. Trauma analysis reveals what happened to the individual around the time of death. The field serves criminal investigations, mass disaster response, human rights documentation, and historical research. Modern technology — CT scanning, DNA analysis, isotope [chemistry](/chemistry), 3D imaging — supplements but does not replace the trained examiner's expertise. With roughly 90 board-certified practitioners in the United States, it's a small field with an outsized impact on justice and human identification.

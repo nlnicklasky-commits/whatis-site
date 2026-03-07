@@ -5,7 +5,7 @@ description: "Chicken farming is the practice of raising chickens for eggs, meat
 category: everyday-concepts
 tags: ["chicken farming", "poultry", "agriculture", "farming", "livestock", "eggs"]
 heroImage: "/images/articles/chicken-farming.webp"
-heroAlt: "Free-range chickens foraging in a green pasture near a wooden coop"
+heroAlt: "Editorial photograph representing the concept of chicken farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Startup costs include a coop ($200-$2,000 depending on size and quality), feeders and waterers ($30-$60), and chicks ($3-$5 each for common breeds). Ongoing costs are primarily feed — about $15-$25 per month for a small flock (4-6 hens). All-in, backyard eggs cost roughly $3-$6 per dozen when you factor in feed, bedding, and supplies — comparable to or more than store-bought eggs. People keep chickens for freshness, entertainment, and the experience, not to save money."
 ---
 
-# What Is Chicken Farming?
+# What Is Chicken [Farming](/farming)?
 
 Chicken farming is the practice of raising domesticated chickens (*Gallus gallus domesticus*) for egg production, meat production, or both. It ranges from backyard coops with half a dozen hens to industrial operations housing hundreds of thousands of birds. Chickens are the most numerous domesticated animal on Earth — at any given moment, roughly 33 billion chickens are alive, outnumbering humans more than four to one.
 
@@ -47,7 +47,7 @@ But the story of chicken farming has two very different chapters: the industrial
 
 Broiler chickens (raised for meat) have been bred for extraordinarily rapid growth. Modern commercial broilers reach market weight (roughly 6 pounds) in just 6-7 weeks — a timeline that would have astounded farmers from even 50 years ago. In 1925, a broiler chicken took 16 weeks to reach 2.5 pounds.
 
-This growth rate comes with trade-offs. Fast-growing birds often develop skeletal and cardiovascular problems. Their legs may not support their weight comfortably. The birds spend their 6-7 week lives in enclosed houses, typically holding 20,000-30,000 birds each, at stocking densities of about 0.75 square feet per bird.
+This growth rate comes with [trade](/trade)-offs. Fast-growing birds often develop skeletal and cardiovascular problems. Their legs may not support their weight comfortably. The birds spend their 6-7 week lives in enclosed houses, typically holding 20,000-30,000 birds each, at stocking densities of about 0.75 square feet per bird.
 
 ### Egg Production
 
@@ -65,7 +65,7 @@ The backyard chicken movement has boomed since the early 2000s. An estimated 13 
 
 **Pest control** — Chickens eat ticks, mosquito larvae, slugs, and other garden pests with enthusiasm. A small flock free-ranging in a yard can significantly reduce pest populations.
 
-**Composting** — Chicken manure (mixed with bedding material) produces excellent compost. The nitrogen content is high — higher than horse or cow manure — and chicken-manure compost enriches garden soil dramatically.
+**[Composting](/composting)** — Chicken manure (mixed with bedding material) produces excellent compost. The nitrogen content is high — higher than horse or cow manure — and chicken-manure compost enriches garden soil dramatically.
 
 **Entertainment** — This surprises non-chicken-keepers, but chickens are genuinely entertaining animals. They have distinct personalities, social hierarchies (the literal "pecking order"), and behaviors that are amusing to watch. Many keepers describe their chickens as pets that happen to produce breakfast.
 
@@ -81,10 +81,10 @@ Chicken keeping is low-maintenance compared to most [animal](/animal-behavior) h
 
 Predators are the biggest headache. Hawks, raccoons, foxes, coyotes, neighborhood dogs, and even rats will kill chickens. Hardware cloth (not chicken wire, which raccoons can reach through) on all coop openings, secure latches, and closing the coop at night are essential.
 
-## The Ethics Debate
+## The [Ethics](/ethics) [Debate](/debate)
 
 Industrial chicken farming raises legitimate welfare concerns that are reshaping the industry. California's Proposition 12 (2018) banned the sale of eggs from caged hens, affecting the entire national supply chain. Multiple states have followed with similar legislation. Major food companies have pledged to source only cage-free eggs.
 
-The industry is adapting, but the transition is slow and expensive. Converting a conventional cage facility to cage-free housing costs millions and reduces bird density (meaning fewer birds per building). The economics push toward higher egg prices — which consumers say they support in surveys but resist at the checkout counter.
+The industry is adapting, but the transition is slow and expensive. Converting a conventional cage facility to cage-free housing costs millions and reduces bird density (meaning fewer birds per building). The [economics](/economics) push toward higher egg prices — which consumers say they support in surveys but resist at the checkout counter.
 
 Backyard chicken farming doesn't resolve all ethical questions (roosters are still unwanted by most urban keepers, and chickens still need care through their non-productive senior years), but it gives people direct experience with where their food comes from. That experience — collecting a warm egg from a nest box each morning — changes your relationship with food in a way that no documentary or article can replicate.

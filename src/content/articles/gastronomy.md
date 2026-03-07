@@ -5,7 +5,7 @@ description: "Gastronomy is the study of food, cooking, and culture. Learn how t
 category: arts-amp-culture
 tags: ["gastronomy", "food", "culinary arts", "cooking", "food culture", "food science"]
 heroImage: "/images/articles/gastronomy.webp"
-heroAlt: "Elegant plated dish with artistic garnishes on a white plate"
+heroAlt: "Editorial photograph representing the concept of gastronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Gastronomy?
 
-Gastronomy is the study and appreciation of food and cooking as a cultural, scientific, and artistic practice. The word comes from the Greek *gaster* (stomach) and *nomos* (law or knowledge) — literally, "the knowledge of the stomach." But gastronomy goes far beyond eating. It examines how food is grown, prepared, presented, and consumed; how cuisines develop and spread; how food connects to identity, memory, and social structures; and how the science of cooking can be understood and improved.
+Gastronomy is the study and appreciation of food and [cooking](/cooking) as a cultural, scientific, and artistic practice. The word comes from the Greek *gaster* (stomach) and *nomos* (law or knowledge) — literally, "the knowledge of the stomach." But gastronomy goes far beyond eating. It examines how food is grown, prepared, presented, and consumed; how cuisines develop and spread; how food connects to identity, memory, and social structures; and how the science of cooking can be understood and improved.
 
 ## More Than Fancy Food
 
 A common misconception: gastronomy means expensive restaurants and pretentious plating. Actually, gastronomy encompasses all food — street tacos in Mexico City, grandmother's Sunday gravy, fermented cabbage in Korea, a perfectly grilled hot dog at a ballpark. Gastronomy is interested in *why* these foods taste the way they do, *how* they came to be, and *what* they mean to the people who eat them.
 
-Jean Anthelme Brillat-Savarin, who wrote *The Physiology of Taste* in 1825 (one of the first books on gastronomy), defined it as "the reasoned understanding of everything connected with nourishing man." That's deliberately broad. Gastronomy touches agriculture, chemistry, history, anthropology, economics, and art.
+Jean Anthelme Brillat-Savarin, who wrote *The [Physiology](/physiology) of Taste* in 1825 (one of the first books on gastronomy), defined it as "the reasoned understanding of everything connected with nourishing man." That's deliberately broad. Gastronomy touches [agriculture](/agriculture), [chemistry](/chemistry), history, [anthropology](/anthropology), [economics](/economics), and art.
 
 ## The French Connection
 
@@ -45,13 +45,13 @@ France dominates the history of gastronomy — not because the French invented g
 
 French gastronomy was inscribed as a UNESCO Intangible Cultural Heritage in 2010 — the first time a national cuisine received that recognition. The gastronomic meal of the French includes structured courses, specific wines paired with each course, table setting rules, and the social ritual of eating together.
 
-But French dominance is waning. The 21st century has seen a democratization of gastronomic attention. Nordic cuisine (Noma, its foraging-based approach), Japanese washoku (recognized by UNESCO in 2013), Peruvian gastronomy (fusing indigenous, Spanish, African, Chinese, and Japanese influences), and Mexican cuisine (also UNESCO-recognized) have all received serious gastronomic study and acclaim.
+But French dominance is waning. The 21st century has seen a democratization of gastronomic attention. Nordic cuisine (Noma, its [foraging](/foraging)-based approach), Japanese washoku (recognized by UNESCO in 2013), Peruvian gastronomy (fusing indigenous, Spanish, African, Chinese, and Japanese influences), and Mexican cuisine (also UNESCO-recognized) have all received serious gastronomic study and acclaim.
 
 ## The Science Side
 
-**Food science** intersects heavily with gastronomy. Understanding why bread rises (yeast fermentation producing CO2), why steak browns (the Maillard reaction between amino acids and sugars at high heat), and why onions make you cry (enzymatic release of syn-propanethial-S-oxide) deepens both cooking skill and appreciation.
+**[Food science](/food-science)** intersects heavily with gastronomy. Understanding why bread rises (yeast [fermentation](/fermentation) producing CO2), why steak browns (the Maillard reaction between amino acids and sugars at high heat), and why onions make you cry (enzymatic release of syn-propanethial-S-oxide) deepens both cooking skill and appreciation.
 
-**Molecular gastronomy** — a term coined by physicist Nicholas Kurti and chemist Herve This in 1988 — applies scientific investigation to cooking. It asks questions like: what temperature does an egg white set at? How does salt affect water's boiling point? What happens to starches during cooking?
+**[Molecular gastronomy](/molecular-gastronomy)** — a term coined by physicist Nicholas Kurti and chemist Herve This in 1988 — applies scientific investigation to cooking. It asks questions like: what temperature does an egg white set at? How does salt affect water's boiling point? What happens to starches during cooking?
 
 The culinary applications became famous through chefs like Ferran Adria at elBulli (Spain), who created dishes like spherified olives (olive juice encased in a thin gel membrane) and foams made from virtually any flavor. Heston Blumenthal at The Fat Duck explored multisensory dining — how sound, smell, visual presentation, and even nostalgia affect how food tastes.
 

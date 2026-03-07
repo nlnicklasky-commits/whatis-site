@@ -5,7 +5,7 @@ description: "Numismatics is the study and collection of coins, paper currency, 
 category: arts-amp-culture
 tags: ["numismatics", "coins", "currency", "money", "coin collecting", "economic history"]
 heroImage: "/images/articles/numismatics.webp"
-heroAlt: "A collection of ancient and modern coins displayed on velvet, showing different eras and civilizations"
+heroAlt: "Editorial photograph representing the concept of numismatics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Numismatics?
 
-Numismatics is the systematic study and collection of coins, paper currency, tokens, medals, and related objects. It's part history, part art appreciation, part treasure hunting, and — for serious collectors — part investment strategy. The field covers everything from ancient Greek drachmas to modern commemorative issues, and it attracts everyone from casual hobbyists to scholars who spend careers analyzing the economic history encoded in small pieces of metal.
+Numismatics is the systematic study and collection of coins, paper currency, tokens, medals, and related objects. It's part history, part art appreciation, part treasure [hunting](/hunting), and — for serious collectors — part investment strategy. The field covers everything from ancient Greek drachmas to modern commemorative issues, and it attracts everyone from casual hobbyists to scholars who spend careers analyzing the [economic history](/economic-history) encoded in small pieces of metal.
 
 ## More Than Just Collecting
 
-The distinction between coin collecting and numismatics is roughly the same as the distinction between bird watching and ornithology. Collectors enjoy acquiring and organizing coins. Numismatists study them — their metallurgy, iconography, inscriptions, minting techniques, circulation patterns, and historical context.
+The distinction between [coin collecting](/coin-collecting) and numismatics is roughly the same as the distinction between [bird watching](/bird-watching) and [ornithology](/ornithology). Collectors enjoy acquiring and organizing coins. Numismatists study them — their metallurgy, [iconography](/iconography), inscriptions, minting techniques, circulation patterns, and historical context.
 
 A numismatist looking at a Roman denarius isn't just admiring the craftsmanship. They're reading the political propaganda in the emperor's portrait, analyzing the silver content to track imperial inflation, and comparing die variations to understand how the mint operated. Coins are primary historical documents, and for many ancient civilizations, they're among the only surviving physical evidence of rulers and events.
 
@@ -43,7 +43,7 @@ A numismatist looking at a Roman denarius isn't just admiring the craftsmanship.
 
 The first coins appeared in Lydia (modern western Turkey) around 600 BCE — lumps of electrum (a natural gold-silver alloy) stamped with a lion's head to guarantee their weight and purity. The innovation spread rapidly through the Greek world and beyond.
 
-The genius of coinage was standardization. Before coins, transactions required weighing metal each time. A stamped coin said: "A trusted authority guarantees this piece of metal contains a specific amount of precious material." That simple innovation enabled trade on a scale that wasn't previously practical.
+The genius of coinage was standardization. Before coins, transactions required weighing metal each time. A stamped coin said: "A trusted authority guarantees this piece of metal contains a specific amount of precious material." That simple innovation enabled [trade](/trade) on a scale that wasn't previously practical.
 
 By the 5th century BCE, Athens was producing some of the most beautiful coins in history — the famous "owls" featuring Athena on one side and her owl on the other. These coins circulated across the Mediterranean and are still found at archaeological sites from Spain to Afghanistan.
 
@@ -80,7 +80,7 @@ Professional grading services — primarily PCGS (Professional Coin Grading Serv
 
 For historians, coins are invaluable primary sources. They provide evidence of trade routes (coins found far from their origin), economic conditions (debasement patterns track inflation), political events (new rulers immediately appear on coinage), religious changes (Christian symbols replacing pagan ones), and artistic traditions.
 
-In many cases, coins are the only surviving evidence for specific rulers or periods. Entire sections of ancient Indian, Central Asian, and African history have been reconstructed primarily from numismatic evidence.
+In many cases, coins are the only surviving evidence for specific rulers or periods. Entire sections of ancient Indian, Central Asian, and [African history](/african-history) have been reconstructed primarily from numismatic evidence.
 
 ## Starting a Collection
 

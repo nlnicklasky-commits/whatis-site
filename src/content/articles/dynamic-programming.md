@@ -5,7 +5,7 @@ description: "Dynamic programming solves problems by breaking them into overlapp
 category: technology
 tags: ["dynamic programming", "algorithms", "computer science", "optimization", "recursion", "memoization", "programming"]
 heroImage: "/images/articles/dynamic-programming-hero.webp"
-heroAlt: "Diagram showing overlapping subproblems being solved once and stored in a table"
+heroAlt: "Editorial photograph representing the concept of dynamic programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Active programming (DP) is an algorithmic problem-solving technique that works b
 
 ## The Name Is Deliberately Misleading
 
-Here's an odd piece of history. Richard Bellman, who coined the term in the 1950s while working at the RAND Corporation, chose the name "active programming" partly because it sounded impressive and partly to obscure what he was actually doing from his boss, who disliked mathematical research. "Programming" here doesn't mean writing code—it means planning or optimization (like "linear programming"). And "active" was chosen because it sounded good. Bellman admitted this in his autobiography.
+Here's an odd piece of history. Richard Bellman, who coined the term in the 1950s while working at the RAND Corporation, chose the name "active programming" partly because it sounded impressive and partly to obscure what he was actually doing from his boss, who disliked mathematical research. "Programming" here doesn't mean writing code—it means planning or [optimization](/optimization) (like "[linear programming](/linear-programming)"). And "active" was chosen because it sounded good. Bellman admitted this in his autobiography.
 
 So don't try to extract meaning from the name itself. It'll just confuse you.
 
@@ -139,7 +139,7 @@ Time complexity: O(m * n) where m and n are the string lengths. For two 1000-cha
 
 How many single-character operations (insert, delete, replace) do you need to transform one string into another? "kitten" to "sitting" requires three edits: replace k→s, replace e→i, insert g.
 
-Spell checkers use this constantly. Search engines use it for "Did you mean...?" suggestions. Natural language processing applications use it for [fuzzy string matching](/data-science).
+Spell checkers use this constantly. Search engines use it for "Did you mean...?" suggestions. [Natural language processing](/natural-language-processing) applications use it for [fuzzy string matching](/data-science).
 
 The DP table is similar to LCS: `dp[i][j]` represents the edit distance between the first i characters of string 1 and the first j characters of string 2. The recurrence considers three operations and takes the minimum cost.
 
@@ -149,7 +149,7 @@ You need to multiply n matrices together. Matrix multiplication is associative, 
 
 For matrices A(10×30), B(30×5), C(5×60): computing (AB)C costs 10×30×5 + 10×5×60 = 4,500 operations. Computing A(BC) costs 30×5×60 + 10×30×60 = 27,000 operations. Same result, 6x more work.
 
-With many matrices, finding the optimal parenthesization by exhaustive search takes exponential time. The DP solution is O(n³). This problem matters in scientific computing, computer graphics, and any domain that performs many matrix operations.
+With many matrices, finding the optimal parenthesization by exhaustive search takes exponential time. The DP solution is O(n³). This problem matters in scientific computing, [computer graphics](/computer-graphics), and any domain that performs many matrix operations.
 
 ## How to Approach a DP Problem
 
@@ -199,7 +199,7 @@ The Bellman-Ford algorithm (yes, that's the same Bellman) finds shortest paths i
 
 Portfolio optimization, option pricing (the binomial options pricing model is DP), and resource allocation problems across industries use active programming. When a delivery company optimizes its vehicle routes, when an airline sets ticket prices, when a power grid schedules generator usage—DP is often under the hood.
 
-### Image Processing and Computer Vision
+### [Image Processing](/image-processing) and [Computer Vision](/computer-vision)
 
 Seam carving (content-aware image resizing) uses DP to find the lowest-energy path through an image. Stereo matching [algorithms](/algorithms) use DP to compute depth from stereo camera pairs. Image stitching for panoramas uses DP-based alignment.
 
@@ -223,7 +223,7 @@ DP sits in a family of algorithmic strategies. Understanding how they relate hel
 
 **Divide and conquer** breaks a problem into independent subproblems, solves them recursively, and combines results. Merge sort is the classic example. The key difference from DP: in divide and conquer, subproblems don't overlap, so there's nothing to cache.
 
-**Branch and bound** explores a search tree, pruning branches that can't lead to optimal solutions. It's used for integer programming and combinatorial optimization. Where DP decomposes by structure, branch and bound decomposes by explicit enumeration with smart pruning.
+**Branch and bound** explores a search tree, pruning branches that can't lead to optimal solutions. It's used for [integer programming](/integer-programming) and combinatorial optimization. Where DP decomposes by structure, branch and bound decomposes by explicit enumeration with smart pruning.
 
 **Linear programming** solves optimization problems with linear constraints. When your problem can be expressed as a linear program, LP solvers (simplex, interior point) are usually faster than DP. But many problems have non-linear structure that LP can't capture.
 

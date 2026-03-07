@@ -5,7 +5,7 @@ description: "Microscopy is the science of using microscopes to see objects too 
 category: science
 tags: ["microscopy", "microscopes", "biology", "optics", "imaging", "nanotechnology", "science"]
 heroImage: "/images/articles/microscopy-hero.webp"
-heroAlt: "Scientist looking through a modern optical microscope in a laboratory"
+heroAlt: "Editorial photograph representing the concept of microscopy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

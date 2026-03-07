@@ -5,7 +5,7 @@ description: "Linear algebra studies vectors, matrices, and linear transformatio
 category: science
 tags: ["linear algebra", "mathematics", "vectors", "matrices", "linear equations", "eigenvalues", "math"]
 heroImage: "/images/articles/linear-algebra-hero.webp"
-heroAlt: "Abstract geometric illustration of vectors and matrices in three-dimensional space"
+heroAlt: "Editorial photograph representing the concept of linear algebra"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

@@ -5,7 +5,7 @@ description: "Fiction writing is the craft of creating imaginary stories and cha
 category: everyday-concepts
 tags: ["fiction writing", "creative writing", "storytelling", "novels", "short stories", "literature"]
 heroImage: "/images/articles/fiction-writing.webp"
-heroAlt: "Writer typing on a laptop with crumpled paper and coffee mug nearby"
+heroAlt: "Editorial photograph representing the concept of fiction writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Both approaches work. 'Plotters' outline extensively before writing. 'Pantsers' write by the seat of their pants, discovering the story as they go. Many writers fall somewhere in between. Stephen King is a famous pantser. J.K. Rowling is a famous plotter. Neither method is inherently better — it depends on how your brain works."
 ---
 
-# What Is Fiction Writing?
+# What Is Fiction [Writing](/writing)?
 
 Fiction writing is the craft of inventing stories — creating characters, situations, and worlds that don't exist and never happened. It's one of the oldest human activities (every culture tells stories) and one of the most commercially significant art forms. The global book market generates over $25 billion annually, and fiction accounts for a huge chunk of that.
 
@@ -63,15 +63,15 @@ Fiction splits into dozens of genres, each with its own conventions and reader e
 
 **Mystery and thriller** follow investigation and suspense patterns. Mysteries typically present a puzzle (who committed the crime?) for the reader to solve alongside the detective. Thrillers emphasize danger and pacing — the protagonist is trying to prevent something bad from happening.
 
-**Science fiction and fantasy** imagine alternative worlds. Hard sci-fi prioritizes scientific plausibility. Space opera prioritizes adventure. Epic fantasy builds elaborate secondary worlds. These genres attract some of the most dedicated fan communities.
+**[Science fiction](/science-fiction) and fantasy** imagine alternative worlds. Hard sci-fi prioritizes scientific plausibility. Space [opera](/opera) prioritizes adventure. Epic fantasy builds elaborate secondary worlds. These genres attract some of the most dedicated fan communities.
 
 **Literary fiction** prioritizes language, character, and thematic depth over plot. It's the genre most likely to win major prizes and least likely to top bestseller lists (with exceptions — Donna Tartt, Hanya Yanagihara, and Colson Whitehead have managed both).
 
-## The Publishing Path
+## The [Publishing](/publishing) Path
 
 Getting fiction published traditionally involves writing a complete manuscript, querying literary agents with a pitch letter, signing with an agent who then submits to publishing houses, and (if accepted) working with an editor through revisions before publication. This process typically takes 2-5 years from finished manuscript to bookstore shelf.
 
-Self-publishing has exploded since the Kindle launched in 2007. Authors can publish directly through Amazon, Apple Books, and other platforms, keeping 35-70% of royalties versus 10-15% in traditional publishing. Some self-published authors earn six or seven figures. The trade-off is that you handle your own editing, cover design, formatting, and marketing.
+[Self-publishing](/self-publishing) has exploded since the Kindle launched in 2007. Authors can publish directly through Amazon, Apple Books, and other platforms, keeping 35-70% of royalties versus 10-15% in traditional publishing. Some self-published authors earn six or seven figures. The [trade](/trade)-off is that you handle your own [editing](/editing), cover design, formatting, and [marketing](/marketing).
 
 The hybrid model — some books traditionally published, others self-published — is increasingly common. The stigma around self-publishing has largely evaporated, though traditional publishing still carries prestige and provides advances, editorial support, and bookstore placement that self-publishing can't easily replicate.
 

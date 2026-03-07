@@ -5,7 +5,7 @@ description: "Skydiving is the sport of jumping from aircraft and freefalling be
 category: sports
 tags: ["skydiving", "parachuting", "freefall", "extreme sports", "adrenaline", "adventure"]
 heroImage: "/images/articles/skydiving.webp"
-heroAlt: "A skydiver in freefall with arms spread wide above a patchwork landscape far below"
+heroAlt: "Editorial photograph representing the concept of skydiving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,7 +61,7 @@ Modern skydiving equipment is engineered for redundancy and reliability.
 
 If you want to skydive independently, two training paths exist.
 
-**Accelerated Freefall (AFF)** is the most common method. You jump with two instructors who hold onto you during freefall, coaching your body position and stability. Over 25+ jumps, the instructors gradually reduce assistance as you demonstrate competence. After passing skill checks and a written test, you earn your USPA A-license — permission to jump solo and with other licensed skydivers.
+**Accelerated Freefall (AFF)** is the most common method. You jump with two instructors who hold onto you during freefall, [coaching](/coaching) your body position and stability. Over 25+ jumps, the instructors gradually reduce assistance as you demonstrate competence. After passing skill checks and a written test, you earn your USPA A-license — permission to jump solo and with other licensed skydivers.
 
 **Static line progression** is the older method. Your first jumps use a line attached to the aircraft that automatically deploys your parachute as you exit. You practice freefall skills incrementally, eventually progressing to manual deployment. It's slower but less expensive than AFF.
 
@@ -73,7 +73,7 @@ Skydiving competitions test different skills.
 
 **Formation skydiving** involves teams of 4, 8, or 16 people building predetermined geometric shapes in freefall. Speed and accuracy matter — the team with the most correct formations in a 35-second working time wins. The coordination required is extraordinary.
 
-**Freestyle** is solo aerial acrobatics in freefall — flips, spins, and choreographed sequences filmed by a dedicated camera flyer. It's the closest thing to dance in three dimensions.
+**Freestyle** is solo aerial acrobatics in freefall — flips, spins, and choreographed sequences filmed by a dedicated camera flyer. It's the closest thing to [dance](/dance) in three dimensions.
 
 **Canopy piloting** (swooping) tests parachute control. Competitors execute high-speed approaches to a small pond, dragging a foot through the water and landing precisely on a target. Speeds can exceed 90 mph at ground level. It's visually spectacular and one of the riskier skydiving disciplines.
 
@@ -85,7 +85,7 @@ Skydiving carries real risk, and honest discussion matters.
 
 The fatality rate — about 0.28 per 100,000 jumps — is low in absolute terms but not zero. Equipment malfunctions, though rare, do occur. The most common fatal errors involve low-altitude parachute maneuvers (aggressive turns close to the ground) and failure to follow emergency procedures. Most fatalities involve experienced jumpers pushing limits, not beginners on tandem jumps.
 
-Risk management is central to skydiving culture. Every jump includes a pre-jump briefing, equipment check, and clear emergency procedures. Skydivers are trained to handle specific malfunctions — total malfunction, partial malfunction, line twists, and premature deployment — with practiced, automatic responses.
+[Risk management](/risk-[management](/management)) is central to skydiving culture. Every jump includes a pre-jump briefing, equipment check, and clear emergency procedures. Skydivers are trained to handle specific malfunctions — total malfunction, partial malfunction, line twists, and premature deployment — with practiced, automatic responses.
 
 The sport has gotten dramatically safer over time. Fatality rates in the 1970s were roughly ten times higher than today. Better equipment (AADs, improved canopy design), better training, and better safety culture have all contributed. But risk never reaches zero when you're jumping out of airplanes, and anyone who tells you otherwise isn't being straight with you.
 

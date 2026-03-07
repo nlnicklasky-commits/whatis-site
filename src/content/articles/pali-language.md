@@ -5,7 +5,7 @@ description: "Pali is the sacred language of Theravada Buddhism, preserving the 
 category: everyday-concepts
 tags: ["pali language", "buddhism", "ancient languages", "theravada", "linguistics", "sacred texts"]
 heroImage: "/images/articles/pali-language.webp"
-heroAlt: "Ancient Pali text inscribed on palm leaf manuscripts in a Buddhist temple library"
+heroAlt: "Editorial photograph representing the concept of pali language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pali Language?
 
-Pali is a Middle Indo-Aryan language that became the sacred language of Theravada Buddhism — the oldest surviving branch of Buddhism, practiced primarily in Sri Lanka, Myanmar, Thailand, Laos, and Cambodia. It's the language in which the earliest complete collection of Buddhist scriptures (the Pali Canon) was preserved, making it one of the most important languages in religious history even though it was never the everyday language of a particular nation or region.
+Pali is a Middle Indo-Aryan language that became the sacred language of Theravada [Buddhism](/buddhism) — the oldest surviving branch of Buddhism, practiced primarily in Sri Lanka, Myanmar, Thailand, Laos, and Cambodia. It's the language in which the earliest complete collection of Buddhist scriptures (the Pali Canon) was preserved, making it one of the most important languages in religious history even though it was never the everyday language of a particular nation or region.
 
 ## Origins and Identity
 
@@ -39,15 +39,15 @@ Pali's exact origins are debated. Tradition holds that Pali is the language the 
 
 Whether Pali is identical to the Buddha's language is uncertain. Scholars generally agree that Pali is a literary language that may blend features from several Prakrit dialects. It was probably standardized by the community that preserved and transmitted the Buddha's teachings orally for several centuries before they were first written down in Sri Lanka around the 1st century BCE.
 
-What's not debated is Pali's role: it's the exclusive language of the Theravada scriptures, and studying Pali means accessing the oldest recorded version of Buddhist teaching.
+What's not debated is Pali's role: it's the exclusive language of the Theravada scriptures, and studying Pali means accessing the oldest recorded version of Buddhist [teaching](/teaching).
 
 ## The Pali Canon
 
-The Pali Canon — called the Tipitaka (literally "three baskets") — is one of the largest bodies of religious literature in any tradition. It divides into three sections:
+The Pali Canon — called the Tipitaka (literally "three baskets") — is one of the largest bodies of religious [literature](/literature) in any tradition. It divides into three sections:
 
 **Vinaya Pitaka** (Basket of Discipline) contains the rules governing monastic life — 227 rules for monks and 311 for nuns, with extensive commentary explaining the circumstances behind each rule. It's essentially a legal code for Buddhist monasteries.
 
-**Sutta Pitaka** (Basket of Discourses) contains the Buddha's teachings as remembered and recited by his followers. It includes thousands of discourses (suttas) on meditation, ethics, philosophy, and psychology. Famous texts like the Dhammapada (verses on the path of truth) and the Satipatthana Sutta (foundations of mindfulness) come from this collection.
+**Sutta Pitaka** (Basket of Discourses) contains the Buddha's teachings as remembered and recited by his followers. It includes thousands of discourses (suttas) on [meditation](/meditation), ethics, [philosophy](/philosophy), and [psychology](/psychology). Famous texts like the Dhammapada (verses on the path of truth) and the Satipatthana Sutta (foundations of mindfulness) come from this collection.
 
 **Abhidhamma Pitaka** (Basket of Higher Doctrine) contains systematic philosophical analysis of the Buddha's teachings — detailed classifications of mental states, physical phenomena, and the processes of consciousness. It's the most technical section and represents the Theravada tradition's effort to organize the teachings into a coherent philosophical system.
 
@@ -55,7 +55,7 @@ The entire canon runs to approximately 20,000 pages in Pali. English translation
 
 ## How Pali Works
 
-Pali is significantly simpler than Sanskrit — both in phonology and grammar. Where Sanskrit preserved complex consonant clusters, Pali simplified them. Where Sanskrit maintained eight grammatical cases, Pali reduced them functionally.
+Pali is significantly simpler than [Sanskrit](/sanskrit) — both in phonology and grammar. Where Sanskrit preserved complex consonant clusters, Pali simplified them. Where Sanskrit maintained eight grammatical cases, Pali reduced them functionally.
 
 Some distinctive features:
 
@@ -69,11 +69,11 @@ Some distinctive features:
 
 **Buddhist practice.** Monks in Theravada countries study Pali as part of their training. Chanting in Pali is a daily practice in temples across Southeast Asia. Serious lay practitioners often learn enough Pali to read suttas in the original or understand chanted texts.
 
-**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or comparative religion need Pali to work with primary sources. Translation inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
+**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or [comparative religion](/comparative-[religion](/religion)) need Pali to work with primary sources. [Translation](/translation) inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
 
 **Meditation.** The most widely practiced Theravada meditation techniques — vipassana (insight meditation) and samatha (calm abiding) — are described in detail in Pali texts. Practitioners who study the original descriptions sometimes find nuances that translations obscure.
 
-**Comparative linguistics.** Pali provides important evidence for the history of Indo-Aryan languages — the linguistic family that includes Hindi, Bengali, Sinhala, and dozens of other modern South Asian languages.
+**Comparative [linguistics](/linguistics).** Pali provides important evidence for the history of Indo-Aryan languages — the linguistic family that includes Hindi, Bengali, Sinhala, and dozens of other modern South Asian languages.
 
 ## Learning Pali
 

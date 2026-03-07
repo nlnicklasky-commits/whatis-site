@@ -5,7 +5,7 @@ description: "Translation is the process of converting text or speech from one l
 category: everyday-concepts
 tags: ["translation", "linguistics", "language", "interpretation", "localization", "communication"]
 heroImage: "/images/articles/translation.webp"
-heroAlt: "A translator working at a desk with dictionaries and multilingual documents"
+heroAlt: "Editorial photograph representing the concept of translation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ That goal is deceptively simple to state and fiendishly difficult to achieve. Ev
 
 ### Literary Translation
 
-Translating novels, poetry, plays, and other creative works. This is the most celebrated and challenging form. The translator must preserve the author's voice, style, imagery, and emotional impact while working in an entirely different language. A literal translation of a poem may be accurate and completely lifeless. A great literary translation reads as if the work were originally written in the target [language](/linguistics).
+Translating novels, [poetry](/poetry), plays, and other creative works. This is the most celebrated and challenging form. The translator must preserve the author's voice, style, imagery, and emotional impact while working in an entirely different language. A literal translation of a poem may be accurate and completely lifeless. A great literary translation reads as if the work were originally written in the target [language](/linguistics).
 
 ### Technical Translation
 
@@ -51,7 +51,7 @@ Contracts, court documents, legislation, and legal correspondence. Legal languag
 
 ### Medical Translation
 
-Clinical trials, patient information, regulatory submissions, and medical literature. Errors can be life-threatening. Medical translators need expertise in both languages and medical terminology.
+Clinical trials, patient information, regulatory submissions, and medical [literature](/literature). Errors can be life-threatening. Medical translators need expertise in both languages and [medical terminology](/medical-terminology).
 
 ### Localization
 
@@ -97,6 +97,6 @@ The profession is evolving rapidly as AI changes the workflow, but the core skil
 
 ## Why Translation Matters
 
-Without translation, most of the world's literature, science, philosophy, and law would be inaccessible to most people. The Bible, the Quran, Homer, Tolstoy, magical realism, Japanese manga, K-pop lyrics — cross-cultural understanding depends on people who can bridge languages.
+Without translation, most of the world's literature, science, [philosophy](/philosophy), and law would be inaccessible to most people. The Bible, the Quran, Homer, Tolstoy, magical realism, Japanese manga, K-pop lyrics — cross-cultural understanding depends on people who can bridge languages.
 
 Translation doesn't just move words between languages. It moves ideas between cultures. Every translated text is an act of connection across the boundaries that language creates between human communities.

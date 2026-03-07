@@ -5,7 +5,7 @@ description: "State government is the level of government that manages affairs w
 category: politics
 tags: ["state government", "politics", "legislature", "governor", "federalism", "public policy"]
 heroImage: "/images/articles/state-government.webp"
-heroAlt: "A state capitol building with a large dome and American flag"
+heroAlt: "Editorial photograph representing the concept of state government"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,11 +61,11 @@ State judges reach the bench through different methods depending on the state: p
 
 The list is enormous. State governments manage:
 
-- **Education** — setting standards, funding public schools, running state university systems
+- **[Education](/education)** — setting standards, funding public schools, running state university systems
 - **Transportation** — building and maintaining highways, issuing driver's licenses
-- **Public safety** — state police, prison systems, emergency management
-- **Health and welfare** — Medicaid administration, public health departments, mental health services
-- **Economic regulation** — business licensing, insurance regulation, labor laws
+- **Public safety** — state police, prison systems, emergency [management](/management)
+- **Health and welfare** — Medicaid administration, [public health](/public-health) departments, [mental health](/mental-health) services
+- **Economic regulation** — business licensing, [insurance](/insurance) regulation, labor laws
 - **Elections** — voter registration, ballot design, certifying results
 
 States spend roughly $2.4 trillion annually — real money affecting real people.
@@ -74,7 +74,7 @@ States spend roughly $2.4 trillion annually — real money affecting real people
 
 The relationship between state and federal power has been contested since before the Constitution was ratified. The Tenth Amendment says powers not delegated to the federal government are reserved to the states. But the Commerce Clause, the Supremacy Clause, and various Supreme Court decisions have steadily expanded federal authority over the centuries.
 
-Today, many [policy](/political-philosophy) areas involve both levels working together — or occasionally, butting heads. Marijuana legalization is a perfect example: dozens of states have legalized it in some form while it remains federally illegal. Immigration enforcement, environmental standards, and healthcare all involve similar federal-state tensions.
+Today, many [policy](/political-[philosophy](/philosophy)) areas involve both levels working together — or occasionally, butting heads. Marijuana legalization is a perfect example: dozens of states have legalized it in some form while it remains federally illegal. Immigration enforcement, environmental standards, and healthcare all involve similar federal-state tensions.
 
 ## Why State Government Matters More Than You Think
 
@@ -82,4 +82,4 @@ Here's what most people miss: state governments make the decisions that shape yo
 
 Voter turnout in state elections typically runs 20-30 percentage points lower than presidential elections. Which means a relatively small number of engaged citizens have outsized influence on the policies that most directly affect everyone's daily experience.
 
-State politics may not generate the same cable news drama as Washington, D.C. But if you want to understand why your property taxes look the way they do, why your state's roads are either pristine or potholed, or why some regulations differ the moment you cross a state line — state government is where those answers live.
+State [politics](/politics) may not generate the same cable news drama as Washington, D.C. But if you want to understand why your property taxes look the way they do, why your state's roads are either pristine or potholed, or why some regulations differ the moment you cross a state line — state government is where those answers live.

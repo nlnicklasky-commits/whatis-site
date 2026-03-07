@@ -5,7 +5,7 @@ description: "Water skiing is a surface water sport where a person is pulled by 
 category: sports
 tags: ["water skiing", "water sports", "boating", "recreation", "extreme sports", "summer sports"]
 heroImage: "/images/articles/water-skiing.webp"
-heroAlt: "Water skier creating a dramatic spray while carving a turn behind a speedboat on a lake"
+heroAlt: "Editorial photograph representing the concept of water skiing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The sport developed quickly through the 1930s and 1940s. Dick Pope Sr. promoted 
 
 Every water skiing session begins with the deep-water start — and it's the part that gives beginners the most trouble.
 
-You begin floating in the water with your knees pulled to your chest, arms straight, ski tips pointing up out of the water, and the tow rope running between your skis. As the boat accelerates, the rope tension pulls you forward. The critical instruction: don't try to stand up. Let the boat pull you up. Keep your knees bent, arms straight, and let the boat's power bring you to a standing position gradually.
+You begin floating in the water with your knees pulled to your chest, arms straight, ski tips pointing up out of the water, and the tow rope [running](/running) between your skis. As the boat accelerates, the rope tension pulls you forward. The critical instruction: don't try to stand up. Let the boat pull you up. Keep your knees bent, arms straight, and let the boat's power bring you to a standing position gradually.
 
 Most beginners make the same mistake — they try to muscle their way up immediately, pulling with their arms and straightening their legs too early. This results in face-planting forward or falling backward. Patience and letting the boat do the work is the entire secret.
 
@@ -53,7 +53,7 @@ Once you're up on two skis, the basics are intuitive. Lean slightly back against
 
 **Two-ski (combo skiing)** — The starting point for most people. Two wide skis provide stability and make getting up easier. Recreational skiing at moderate speed is pure fun — cruising across a calm lake on a sunny day is genuinely one of the great summer experiences.
 
-**Slalom** — Skiing on a single ski with both feet in bindings (one behind the other). The ski has a fin for directional stability and the skier uses edge pressure to carve turns. Competitive slalom involves weaving through a course of six buoys at progressively higher speeds and shorter rope lengths. It's technically demanding and physically intense.
+**Slalom** — Skiing on a single ski with both feet in bindings (one behind the other). The ski has a fin for directional stability and the skier uses edge pressure to carve turns. Competitive slalom involves [weaving](/weaving) through a course of six buoys at progressively higher speeds and shorter rope lengths. It's technically demanding and physically intense.
 
 **Trick skiing** — Performing acrobatic maneuvers (turns, flips, slides) on short, finless skis. The boat speed is slower (about 15-18 mph), and the emphasis is on creativity and difficulty of tricks rather than speed.
 
@@ -65,7 +65,7 @@ Once you're up on two skis, the basics are intuitive. Lean slightly back against
 
 Water skiing carries real risks that proper precautions minimize:
 
-**Life jacket** — Always required, for every skier, regardless of swimming ability. Falls happen at speed, and impact with water at 25 mph can disorient even strong swimmers.
+**Life jacket** — Always required, for every skier, regardless of [swimming](/swimming) ability. Falls happen at speed, and impact with water at 25 mph can disorient even strong swimmers.
 
 **Observer** — Most states require an observer in the boat in addition to the driver. The observer watches the skier, relays hand signals, and alerts the driver to falls or hazards.
 

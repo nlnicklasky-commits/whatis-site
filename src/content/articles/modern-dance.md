@@ -5,7 +5,7 @@ description: "Modern dance is an expressive style that broke from classical ball
 category: everyday-concepts
 tags: ["modern dance", "dance", "performing arts", "choreography", "Martha Graham", "expression"]
 heroImage: "/images/articles/modern-dance.webp"
-heroAlt: "Modern dancer performing an expressive floor movement in a studio with natural light"
+heroAlt: "Editorial photograph representing the concept of modern dance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,19 +29,19 @@ faq:
     a: "No prior training is needed for beginner classes. Modern dance is actually more accessible than ballet for adult beginners because it doesn't require the extreme flexibility and turnout that ballet demands. Classes focus on body awareness, movement quality, and expression rather than achieving specific positions."
 ---
 
-# What Is Modern Dance?
+# What Is Modern [Dance](/dance)?
 
-Modern dance is a performance and art form that emerged in the early 20th century as a rebellion against the rigid formality of classical ballet. Where ballet demanded turned-out legs, pointed toes, and an illusion of weightlessness, modern dance embraced gravity, used the floor, explored natural body movement, and insisted that dance could express real human emotion — not just fairy-tale narratives.
+Modern dance is a performance and art form that emerged in the early 20th century as a rebellion against the rigid formality of classical [ballet](/ballet). Where ballet demanded turned-out legs, pointed toes, and an illusion of weightlessness, modern dance embraced gravity, used the floor, explored natural body movement, and insisted that dance could express real human emotion — not just fairy-tale narratives.
 
 The pioneers of modern dance weren't trying to create a competing technique. They were trying to free the human body from what they saw as artificial constraints. The results were as diverse as the dancers themselves — each major figure developed a distinct movement vocabulary that reflected their own understanding of what the body could express.
 
 ## The Pioneers
 
-**Isadora Duncan (1877-1927)** started it. She danced barefoot in flowing tunics, drawing inspiration from Greek art, nature, and music. She rejected ballet as mechanical and unnatural. Her dancing was improvisational, emotional, and — by the standards of her time — scandalous. She didn't create a codified technique, but she opened the door.
+**Isadora Duncan (1877-1927)** started it. She danced barefoot in flowing tunics, [drawing](/drawing) inspiration from Greek art, nature, and music. She rejected ballet as mechanical and unnatural. Her dancing was improvisational, emotional, and — by the standards of her time — scandalous. She didn't create a codified technique, but she opened the door.
 
 **Martha Graham (1894-1991)** walked through that door and built a cathedral. Graham developed the most influential modern dance technique — centered on "contraction and release" (the tightening and releasing of the torso, driven by breath). Her work was dramatic, psychologically intense, and deeply physical. She choreographed for over 70 years and created 181 works. Her technique is still the foundation of modern dance training worldwide.
 
-**Doris Humphrey (1895-1958)** developed her own approach based on "fall and recovery" — the body's constant negotiation between balance and imbalance, stability and the pull of gravity. Her work was more lyrical than Graham's but equally rigorous.
+**Doris Humphrey (1895-1958)** developed her own approach based on "fall and recovery" — the body's constant [negotiation](/negotiation) between balance and imbalance, stability and the pull of gravity. Her work was more lyrical than Graham's but equally rigorous.
 
 **Merce Cunningham (1919-2009)** pushed further, separating dance from music entirely. In Cunningham's work, dancers and musicians performed simultaneously but independently — the movement wasn't choreographed *to* the music. He also used chance procedures (rolling dice, flipping coins) to determine choreographic decisions, removing the choreographer's personal expression from the equation.
 
@@ -63,7 +63,7 @@ Modern dance techniques share several principles that distinguish them from ball
 
 Modern dance didn't stand still (ironic, for a movement art). Each generation reacted against the previous one:
 
-**Postmodern dance (1960s-70s)** rejected the dramatic intensity and technique-driven approach of Graham and her contemporaries. Choreographers like Yvonne Rainer, Trisha Brown, and Steve Paxton stripped dance to its essentials — walking, running, ordinary gestures. The Judson Dance Theater in New York declared that any movement could be dance and any body could be a dancer's body.
+**Postmodern dance (1960s-70s)** rejected the dramatic intensity and technique-driven approach of Graham and her contemporaries. Choreographers like Yvonne Rainer, Trisha Brown, and Steve Paxton stripped dance to its essentials — [walking](/walking), [running](/running), ordinary gestures. The Judson Dance Theater in New York declared that any movement could be dance and any body could be a dancer's body.
 
 **Contemporary dance (1980s-present)** blends modern, postmodern, ballet, and other influences. Today's contemporary choreographers — Crystal Pite, Akram Khan, Ohad Naharin — draw from multiple traditions without allegiance to any single technique. The boundaries between modern, postmodern, and contemporary have blurred to the point of near-meaninglessness.
 

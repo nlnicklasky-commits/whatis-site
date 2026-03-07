@@ -5,7 +5,7 @@ description: "Ice climbing is ascending frozen waterfalls and ice formations usi
 category: sports
 tags: ["ice climbing", "mountaineering", "winter sports", "climbing", "ice axes", "crampons"]
 heroImage: "/images/articles/ice-climbing.webp"
-heroAlt: "Climber ascending a frozen blue waterfall with ice axes and crampons"
+heroAlt: "Editorial photograph representing the concept of ice climbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Ice Climbing?
 
-Ice climbing is the sport of ascending frozen waterfalls, ice-covered rock faces, and glacial ice formations using specialized tools — ice axes swung into the ice overhead, crampons (metal spikes) strapped to boots for foot purchase, and ice screws for protection. It combines the technical challenge of rock climbing with the additional variables of cold weather, unpredictable ice conditions, and the fact that your climbing surface is literally melting.
+Ice climbing is the sport of ascending frozen waterfalls, ice-covered rock faces, and glacial ice formations using specialized tools — ice axes swung into the ice overhead, crampons (metal spikes) strapped to boots for foot purchase, and ice screws for protection. It combines the technical challenge of [rock climbing](/rock-climbing) with the additional variables of cold weather, unpredictable ice conditions, and the fact that your climbing surface is literally melting.
 
 ## The Basic Technique
 
@@ -45,7 +45,7 @@ Good technique minimizes the effort. The best climbers swing their axes precisel
 
 **Ice axes** — technical ice climbing axes are short (about 50 cm), curved, and designed to be swung aggressively into vertical ice. They have aggressive pick angles, ergonomic grips, and leash systems. Climbers carry two — one in each hand.
 
-**Crampons** — metal frames that attach to mountaineering boots, with sharp front points (mono-point or dual-point) for vertical ice and secondary points for walking on angled terrain. Rigid crampons are preferred for steep ice.
+**Crampons** — metal frames that attach to [mountaineering](/mountaineering) boots, with sharp front points (mono-point or dual-point) for vertical ice and secondary points for [walking](/walking) on angled terrain. Rigid crampons are preferred for steep ice.
 
 **Ice screws** — hollow, threaded tubes that screw into solid ice, providing protection points for the climbing rope. A well-placed screw in good ice can hold significant falls. Screws in rotten or aerated ice are unreliable — a situation that adds genuine uncertainty to the activity.
 
@@ -80,7 +80,7 @@ Ice climbing requires cold climates and vertical water features — frozen water
 
 People climb ice because it offers something rock climbing does not: impermanence. Rock routes are the same year after year. Ice routes change daily — temperature fluctuations alter ice thickness, chandelier formations grow and collapse, entire routes can form or disappear within a week. You are climbing something that is alive in a geological sense, constantly changing and ultimately temporary.
 
-The cold adds another dimension. Fingers go numb. Toes ache. Equipment management — handling screws, manipulating carabiners, coiling ropes — becomes difficult with thick gloves. Decision-making degrades in extreme cold. All of this compresses the experience into something intensely present-tense.
+The cold adds another dimension. Fingers go numb. Toes ache. Equipment [management](/management) — handling screws, manipulating carabiners, coiling ropes — becomes difficult with thick gloves. Decision-making degrades in extreme cold. All of this compresses the experience into something intensely present-tense.
 
 The risks are real and should not be minimized. Falling ice is the most common hazard — chunks ranging from pebbles to refrigerator-sized blocks can detach without warning. Falls are more dangerous than in rock climbing because you are falling toward sharp crampon points and ice tool picks. Avalanche hazard exists on routes in mountainous terrain. And the cold itself can cause hypothermia and frostbite.
 

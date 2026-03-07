@@ -5,7 +5,7 @@ description: "Philosophy of religion examines questions about God, faith, evil, 
 category: everyday-concepts
 tags: ["philosophy of religion", "theology", "God", "faith", "ethics", "metaphysics"]
 heroImage: "/images/articles/philosophy-of-religion.webp"
-heroAlt: "Light streaming through a stained glass window casting colorful patterns in a quiet space"
+heroAlt: "Editorial photograph representing the concept of philosophy of religion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Theology typically works within a religious tradition, examining and developing its doctrines, scriptures, and practices. Philosophy of religion examines religious concepts from outside any particular tradition, using reason and argument rather than scripture or revelation. A theologian might ask 'What does the Bible teach about salvation?' A philosopher of religion might ask 'Is the concept of salvation coherent?' The methods and starting assumptions differ significantly."
 ---
 
-# What Is Philosophy of Religion?
+# What Is [Philosophy](/philosophy) of [Religion](/religion)?
 
-Philosophy of religion is the branch of philosophy that examines fundamental questions about religion, God, faith, and spiritual experience using the tools of rational inquiry — logic, argument, and critical analysis. It doesn't assume God exists, and it doesn't assume God doesn't. It asks whether the claims religion makes are coherent, what evidence supports or undermines them, and what these questions mean for human life.
+Philosophy of religion is the branch of philosophy that examines fundamental questions about religion, God, faith, and spiritual experience using the tools of rational inquiry — [logic](/logic), argument, and critical analysis. It doesn't assume God exists, and it doesn't assume God doesn't. It asks whether the claims religion makes are coherent, what evidence supports or undermines them, and what these questions mean for human life.
 
 ## What It Is (and Isn't)
 
-Philosophy of religion is not theology. Theology works from within a religious tradition — interpreting scripture, developing doctrine, exploring what faith means for believers. Philosophy of religion stands outside any particular tradition and asks whether religious claims hold up under rational scrutiny.
+Philosophy of religion is not [theology](/theology). Theology works from within a religious tradition — interpreting scripture, developing doctrine, exploring what faith means for believers. Philosophy of religion stands outside any particular tradition and asks whether religious claims hold up under rational scrutiny.
 
 It's also not atheism or apologetics wearing an academic disguise. The best philosophers of religion include devout believers (Alvin Plantinga, Richard Swinburne), committed atheists (J.L. Mackie, Graham Oppy), and everything in between. The discipline values the quality of arguments, not their conclusions.
 
@@ -49,7 +49,7 @@ Objections come fast. Why can't the universe be its own cause? Why must the caus
 
 **The ontological argument** is stranger and more fascinating. Anselm of Canterbury (1033-1109) argued that God is "that than which nothing greater can be conceived." A being that exists in reality is greater than one that exists only in the mind. Therefore, the greatest conceivable being must exist in reality. Therefore, God exists.
 
-If you feel like something's wrong with that but can't quite pin it down, you're in good company. Philosophers have been trying to identify the flaw since 1078. Kant argued that "existence is not a predicate" — existing doesn't add a property to a concept the way being red adds a property. The debate continues.
+If you feel like something's wrong with that but can't quite pin it down, you're in good company. Philosophers have been trying to identify the flaw since 1078. Kant argued that "existence is not a predicate" — existing doesn't add a property to a concept the way being red adds a property. The [debate](/debate) continues.
 
 **The teleological argument** (design argument) argues from the appearance of design in the universe. The fine-tuning of physical constants, the complexity of biological systems, the mathematical elegance of natural laws — all suggest an intelligent designer. William Paley's watchmaker analogy (1802) is the classic version: if you found a watch on a beach, you'd infer a watchmaker.
 
@@ -75,9 +75,9 @@ What is the relationship between religious faith and rational evidence?
 
 **Evidentialism** holds that you should believe only what's supported by adequate evidence. W.K. Clifford wrote in 1877: "It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence." If God's existence can't be proven, belief is irrational.
 
-**Reformed epistemology** (Alvin Plantinga) argues that belief in God can be "properly basic" — justified without needing argument or evidence, just as your belief that other minds exist is justified without proof. Belief in God might be a natural, default position that doesn't require evidence to be rational.
+**Reformed [epistemology](/epistemology)** (Alvin Plantinga) argues that belief in God can be "properly basic" — justified without needing argument or evidence, just as your belief that other minds exist is justified without proof. Belief in God might be a natural, default position that doesn't require evidence to be rational.
 
-**Pragmatism** (William James) argues that when evidence is genuinely inconclusive, you're entitled to believe based on the practical consequences. If believing in God makes you a better person and life more meaningful, that's a legitimate reason to believe — the evidence doesn't settle the question either way.
+**[Pragmatism](/pragmatism)** (William James) argues that when evidence is genuinely inconclusive, you're entitled to believe based on the practical consequences. If believing in God makes you a better person and life more meaningful, that's a legitimate reason to believe — the evidence doesn't settle the question either way.
 
 **Fideism** embraces the gap between faith and reason. Kierkegaard argued that faith requires a "leap" beyond what reason can justify — and that this leap is precisely what makes faith faith. If you could prove God existed, believing wouldn't require faith at all.
 

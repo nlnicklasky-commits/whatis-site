@@ -5,7 +5,7 @@ description: "Quantum mechanics describes how matter and energy behave at atomic
 category: everyday-concepts
 tags: ["quantum mechanics", "physics", "atoms", "particles", "wave-particle duality", "science"]
 heroImage: "/images/articles/quantum-mechanics.webp"
-heroAlt: "Abstract visualization of quantum particles and wave functions"
+heroAlt: "Editorial photograph representing the concept of quantum mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Quantum Mechanics?
 
-Quantum mechanics is the branch of physics that describes how matter and energy behave at the smallest scales — atoms, electrons, photons, and other subatomic particles. At these scales, the intuitive rules of everyday physics break down completely. Particles behave like waves. Things can be in two places at once. Measurement changes what's being measured. The universe, at its foundations, is profoundly weird.
+Quantum mechanics is the branch of [physics](/physics) that describes how matter and energy behave at the smallest scales — atoms, electrons, photons, and other [subatomic particles](/subatomic-particles). At these scales, the intuitive rules of everyday physics break down completely. Particles behave like waves. Things can be in two places at once. Measurement changes what's being measured. The universe, at its foundations, is profoundly weird.
 
 ## The Problem That Started It All
 
@@ -69,7 +69,7 @@ Two particles can become "entangled" such that measuring one instantly determine
 
 Einstein called this "spooky action at a distance" and believed it proved quantum mechanics was incomplete. Experiments since the 1970s (most decisively by Alain Aspect in 1982 and later refinements earning the 2022 Nobel Prize) have confirmed that entanglement is real. The correlations between entangled particles can't be explained by any local hidden variables — the universe genuinely works this way.
 
-Entanglement doesn't allow faster-than-light communication (you can't control *which* result you get, so you can't encode a message). But it does underpin quantum computing and quantum cryptography.
+Entanglement doesn't allow faster-than-light communication (you can't control *which* result you get, so you can't encode a message). But it does underpin [quantum computing](/quantum-computing) and [quantum cryptography](/quantum-[cryptography](/cryptography)).
 
 ## The Math
 
@@ -81,21 +81,21 @@ The Copenhagen interpretation (the standard view since the 1920s) holds that qua
 
 ## Why You Should Care
 
-Quantum mechanics isn't abstract philosophy. It's the foundation of modern technology.
+Quantum mechanics isn't abstract [philosophy](/philosophy). It's the foundation of modern technology.
 
 **Semiconductors** — the basis of every computer chip, smartphone, and digital device — work because of quantum mechanics. The behavior of electrons in silicon crystals is a quantum phenomenon.
 
-**Lasers** — from barcode scanners to fiber-optic internet to eye surgery — rely on stimulated emission, a quantum process Einstein described in 1917.
+**Lasers** — from barcode scanners to fiber-optic internet to eye [surgery](/surgery) — rely on stimulated emission, a quantum process Einstein described in 1917.
 
 **MRI machines** — which image your insides without surgery — use quantum properties of hydrogen atom nuclei.
 
-**Nuclear energy** — both fission (nuclear power plants) and fusion (the sun, and eventually fusion reactors) — are quantum processes. Tunneling (particles passing through barriers they classically shouldn't be able to cross) is essential to how the sun fuses hydrogen.
+**Nuclear energy** — both fission ([nuclear power](/nuclear-power) plants) and fusion (the sun, and eventually fusion reactors) — are quantum processes. [Tunneling](/tunneling) (particles passing through barriers they classically shouldn't be able to cross) is essential to how the sun fuses hydrogen.
 
 **Quantum computing** — still emerging but potentially revolutionary — uses superposition and entanglement to process certain calculations exponentially faster than classical computers. Google's 2019 Sycamore processor performed a specific calculation in 200 seconds that would take a classical supercomputer about 10,000 years.
 
 ## The Honest Bottom Line
 
-Quantum mechanics is the most precisely tested theory in the history of science. Its predictions match experimental results to 10 decimal places or more. It works.
+Quantum mechanics is the most precisely tested theory in [the history of science](/the-history-of-science). Its predictions match experimental results to 10 decimal places or more. It works.
 
 But nobody fully understands *why* it works or what it says about the nature of reality. Richard Feynman, one of the greatest quantum physicists, famously said: "I think I can safely say that nobody understands quantum mechanics." He didn't mean people can't do the math — he meant the math describes a reality that defies human intuition.
 

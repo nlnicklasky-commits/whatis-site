@@ -5,7 +5,7 @@ description: "Research methods are the systematic techniques used to collect and
 category: science
 tags: ["research methods", "scientific method", "methodology", "data collection", "analysis", "experiment"]
 heroImage: "/images/articles/research-methods-hero.webp"
-heroAlt: "Researcher analyzing data on charts and graphs in a laboratory setting"
+heroAlt: "Editorial photograph representing the concept of research methods"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ This might sound dry. It is not. Research methods are how we figured out that sm
 
 The methods themselves are not the exclusive property of scientists in white coats. Journalists use them to verify stories. Businesses use them to test products. Policymakers use them (or should) to evaluate programs. Anyone who wants to move beyond "I think" to "the evidence shows" needs to understand how research methods work.
 
-## The Scientific Method: Where It All Starts
+## The [Scientific Method](/scientific-method): Where It All Starts
 
 The scientific method is the backbone of systematic inquiry. It is not a rigid, step-by-step recipe — practicing scientists will tell you it is messier than textbooks suggest — but it provides a logical structure for investigating the world.
 
@@ -79,7 +79,7 @@ A well-designed experiment can tell you not just that two things are correlated,
 
 ### Surveys and Questionnaires
 
-Surveys collect data from large numbers of people through structured questions. They are the workhorse of social science, market research, public health, and political polling.
+Surveys collect data from large numbers of people through structured questions. They are the workhorse of social science, [market research](/market-research), [public health](/public-health), and political polling.
 
 Good survey design is harder than it looks. Question wording matters enormously — changing a single word can shift responses by 20+ percentage points. Question order creates context effects (earlier questions prime how people think about later ones). Response scales must be balanced and clear. Sampling must be representative — a survey of 10,000 people who self-selected to participate tells you less than a properly randomized survey of 1,000.
 
@@ -101,7 +101,7 @@ Advanced statistical techniques — regression analysis, structural equation mod
 
 The downside: longitudinal studies are expensive, slow, and suffer from attrition (people drop out over time, and those who drop out are usually different from those who stay — potentially biasing results).
 
-## Qualitative Research: Understanding Meaning
+## [Qualitative Research](/qualitative-research): Understanding Meaning
 
 Not everything worth knowing can be captured in numbers. Qualitative research investigates meaning, experience, perception, and social processes through non-numerical data — interviews, observations, documents, and artifacts.
 
@@ -121,7 +121,7 @@ The strength of ethnography is deep, contextual understanding. By living within 
 
 A case study is an intensive investigation of a single instance — one person, one organization, one event, one community. Case studies are useful for rare or unusual phenomena, for generating hypotheses, and for illustrating general principles through specific examples.
 
-Sigmund Freud's case studies (Anna O., Little Hans, the Wolf Man) shaped the development of psychoanalysis. Business schools teach primarily through case studies. Medical education relies on individual patient cases. The limitation is obvious: a single case cannot establish generalizability. You don't know if the findings apply beyond that specific instance.
+Sigmund Freud's case studies (Anna O., Little Hans, the Wolf Man) shaped the development of [psychoanalysis](/psychoanalysis). Business schools teach primarily through case studies. Medical education relies on individual patient cases. The limitation is obvious: a single case cannot establish generalizability. You don't know if the findings apply beyond that specific instance.
 
 ### Grounded Theory
 

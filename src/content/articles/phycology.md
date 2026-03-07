@@ -5,7 +5,7 @@ description: "Phycology is the scientific study of algae. Learn about these dive
 category: science
 tags: ["algae", "biology", "marine biology", "ecology", "photosynthesis", "biofuels", "aquatic ecosystems"]
 heroImage: "/images/articles/phycology-hero.webp"
-heroAlt: "Microscopic view of diverse algae species showing their varied colors and structures"
+heroAlt: "Editorial photograph representing the concept of phycology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

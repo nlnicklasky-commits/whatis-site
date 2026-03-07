@@ -5,7 +5,7 @@ description: "Biomechanics applies physics and engineering to biological movemen
 category: science
 tags: ["biomechanics", "human movement", "physics", "engineering", "sports science", "medical devices", "prosthetics"]
 heroImage: "/images/articles/biomechanics-hero.webp"
-heroAlt: "Motion capture system tracking a runner with reflective markers on joints and limbs"
+heroAlt: "Editorial photograph representing the concept of biomechanics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,13 +47,13 @@ These numbers explain why musculoskeletal injuries are so common. The human body
 
 ### Statics and Dynamics of the Body
 
-Biomechanics borrows directly from classical mechanics:
+Biomechanics borrows directly from [classical mechanics](/classical-mechanics):
 
 **Statics** analyzes bodies in equilibrium — not moving, or moving at constant velocity. When you stand still, your body is a static system. The forces acting on it (gravity pulling down, ground reaction force pushing up) must balance. Analyzing static posture reveals why certain positions strain specific structures — standing with excessive forward lean, for instance, forces back muscles to work harder to prevent you from toppling over, which is why poor posture causes back pain.
 
 **Dynamics** analyzes bodies in motion — acceleration, deceleration, and the forces causing them. Most interesting biomechanical problems are active. How much force does a sprinter's foot exert at push-off? What's the angular velocity of a pitcher's arm during a fastball? How quickly must a gymnast rotate to complete a backflip?
 
-**Kinematics** describes motion without considering forces — positions, velocities, angles, and angular velocities. Motion capture systems (the same technology used in movie visual effects) track reflective markers on a person's body to measure joint angles and segment velocities with sub-millimeter precision.
+**Kinematics** describes motion without considering forces — positions, velocities, angles, and angular velocities. Motion capture systems (the same technology used in movie [visual effects](/visual-effects)) track reflective markers on a person's body to measure joint angles and segment velocities with sub-millimeter precision.
 
 **Kinetics** deals with the forces causing motion. Force plates embedded in the floor measure ground reaction forces. Instrumented treadmills do the same during walking and running. Pressure sensors in shoe insoles map how force distributes across the foot during each step.
 
@@ -119,7 +119,7 @@ Propulsion comes from the arms and (to a lesser extent) the legs. The hand acts 
 
 Clinical gait analysis uses motion capture, force plates, and electromyography (EMG) to evaluate walking patterns in patients with neurological conditions (cerebral palsy, stroke, Parkinson's disease), orthopedic conditions (hip replacement, ACL reconstruction), and lower limb amputations.
 
-The data helps clinicians make decisions about surgical interventions, physical therapy approaches, and orthotic or prosthetic design. For example, gait analysis of a child with cerebral palsy might reveal that what appears to be a knee problem is actually caused by excessive hip rotation, which changes the treatment plan entirely.
+The data helps clinicians make decisions about surgical interventions, [physical therapy](/physical-therapy) approaches, and orthotic or prosthetic design. For example, gait analysis of a child with cerebral palsy might reveal that what appears to be a knee problem is actually caused by excessive hip rotation, which changes the treatment plan entirely.
 
 ### Prosthetics Design
 
@@ -155,7 +155,7 @@ Human biomechanics gets the most attention, but the field extends to all organis
 
 Biomechanics is becoming more personalized and more computational. Wearable sensors — accelerometers, gyroscopes, and pressure sensors embedded in shoes, watches, and clothing — can capture biomechanical data outside the laboratory, during real-world activities. This opens the door to continuous monitoring of gait, posture, and activity patterns, potentially catching biomechanical problems before they cause injury.
 
-Machine learning is increasingly used to analyze biomechanical data. Computer vision systems can now estimate joint angles from ordinary video footage — no reflective markers or specialized cameras needed — making biomechanical analysis accessible to coaches, clinicians, and individual athletes who can't afford a full motion capture laboratory.
+Machine learning is increasingly used to analyze biomechanical data. [Computer vision](/computer-vision) systems can now estimate joint angles from ordinary video footage — no reflective markers or specialized cameras needed — making biomechanical analysis accessible to coaches, clinicians, and individual athletes who can't afford a full motion capture laboratory.
 
 Patient-specific modeling — using a person's own imaging data (CT, MRI) to create customized biomechanical simulations — is being used for surgical planning, particularly in orthopedic and spinal surgery. A surgeon can simulate different implant placements and predict outcomes before entering the operating room.
 

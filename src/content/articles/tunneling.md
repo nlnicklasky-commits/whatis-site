@@ -5,7 +5,7 @@ description: "Tunneling is the engineering of underground passages through rock,
 category: technology
 tags: ["tunneling", "civil engineering", "construction", "infrastructure", "underground"]
 heroImage: "/images/articles/tunneling.webp"
-heroAlt: "Inside view of a large circular tunnel under construction with a tunnel boring machine visible in the distance"
+heroAlt: "Editorial photograph representing the concept of tunneling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Tunneling?
 
-Tunneling is the engineering discipline and construction process of creating underground passages through earth, rock, or beneath bodies of water. From ancient aqueducts carved by hand to modern rail tunnels bored by machines the size of aircraft carriers, tunneling allows human infrastructure to bypass natural obstacles — mountains, rivers, cities — by going underneath them.
+Tunneling is the [engineering](/engineering) discipline and [construction](/construction) process of creating underground passages through earth, rock, or beneath bodies of water. From ancient aqueducts carved by hand to modern rail tunnels bored by machines the size of aircraft carriers, tunneling allows human infrastructure to bypass natural obstacles — mountains, rivers, cities — by going underneath them.
 
 ## Why We Build Tunnels
 
@@ -83,9 +83,9 @@ The numbers involved are genuinely impressive. Bertha, the TBM that bored Seattl
 
 ### The New Austrian Tunneling Method (NATM)
 
-Despite the name, this isn't specific to Austria — it's used worldwide. NATM (also called the Sequential Excavation Method) takes a different philosophy from other approaches. Instead of fighting the ground, it works with it. The method excavates in stages, installs thin layers of shotcrete (sprayed concrete) and rock bolts immediately after each excavation round, and monitors ground deformation constantly.
+Despite the name, this isn't specific to Austria — it's used worldwide. NATM (also called the Sequential Excavation Method) takes a different [philosophy](/philosophy) from other approaches. Instead of fighting the ground, it works with it. The method excavates in stages, installs thin layers of shotcrete (sprayed concrete) and rock bolts immediately after each excavation round, and monitors ground deformation constantly.
 
-The idea is to let the surrounding rock mass carry most of the structural load, with the shotcrete and bolts acting as reinforcement rather than a standalone structure. Instruments embedded in the rock measure movement in real time. If deformation exceeds predictions, engineers can modify the excavation sequence, add more support, or slow down.
+The idea is to let the surrounding rock mass carry most of the structural load, with the shotcrete and bolts [acting](/acting) as reinforcement rather than a standalone structure. Instruments embedded in the rock measure movement in real time. If deformation exceeds predictions, engineers can modify the excavation sequence, add more support, or slow down.
 
 NATM requires skilled, experienced crews and geological judgment that's as much art as science. It works brilliantly in the right conditions. In the wrong conditions — like the Munich subway collapse of 1994, where water-saturated gravel undermined the method's assumptions — it can fail catastrophically.
 
@@ -151,7 +151,7 @@ Some projects have found creative uses for tunnel spoil. The Gotthard Base Tunne
 
 Tunnels are expensive. There's no way around it. The typical cost for a modern urban metro tunnel ranges from $200 million to $1 billion per kilometer in Western countries. Hard rock tunnels in rural settings are cheaper — perhaps $50-150 million per kilometer — because you're not dodging buildings, utilities, and water mains.
 
-Cost breakdowns typically look something like this: excavation and ground support (40-50%), tunnel lining and finishing (20-25%), mechanical and electrical systems (15-20%), and design/management/contingency (15-25%).
+Cost breakdowns typically look something like this: excavation and ground support (40-50%), tunnel lining and finishing (20-25%), mechanical and electrical systems (15-20%), and design/[management](/management)/contingency (15-25%).
 
 The investment makes sense when alternatives are worse. Building a surface highway through downtown Manhattan would cost vastly more than tunneling — not in construction dollars but in property acquisition, displacement, and traffic disruption. Tunnels let cities add infrastructure without demolishing what's already there.
 

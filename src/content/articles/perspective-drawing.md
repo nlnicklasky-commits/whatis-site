@@ -5,7 +5,7 @@ description: "Perspective drawing creates the illusion of depth on a flat surfac
 category: arts-amp-culture
 tags: ["drawing", "art", "illustration", "architecture", "design", "depth"]
 heroImage: "/images/articles/perspective-drawing.webp"
-heroAlt: "A technical perspective drawing showing converging lines meeting at a vanishing point on the horizon"
+heroAlt: "Editorial photograph representing the concept of perspective drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,11 +45,11 @@ Perspective drawing solved this by providing a mathematical system that matches 
 
 The discovery of linear perspective is one of the great intellectual achievements of the Renaissance. Around 1415, Filippo Brunelleschi — architect, goldsmith, and general genius — demonstrated the principle with a famous experiment in Florence.
 
-He painted a small panel showing the Florence Baptistery in correct perspective. He drilled a peephole in the panel and had viewers look through the back side while holding a mirror in front. The reflected painting aligned perfectly with the real building behind the mirror. When the mirror was removed, the viewer saw the actual building, apparently unchanged. The painting and reality were interchangeable.
+He painted a small panel showing the Florence Baptistery in correct perspective. He drilled a peephole in the panel and had viewers look through the back side while holding a mirror in front. The reflected [painting](/painting) aligned perfectly with the real building behind the mirror. When the mirror was removed, the viewer saw the actual building, apparently unchanged. The painting and reality were interchangeable.
 
-Leon Battista Alberti formalized the mathematics in *De Pictura* (1435), describing the picture plane as a "window" through which the viewer sees a constructed scene. He provided the rules for plotting vanishing points, establishing the horizon line, and calculating how objects diminish with distance.
+Leon Battista Alberti formalized the [mathematics](/mathematics) in *De Pictura* (1435), describing the picture plane as a "window" through which the viewer sees a constructed scene. He provided the rules for plotting vanishing points, establishing the horizon line, and calculating how objects diminish with distance.
 
-Within a generation, perspective transformed European art. Masaccio's *Holy Trinity* (1427) created such a convincing illusion of an architectural niche that viewers reportedly tried to step into it. The entire trajectory of Western art from the Renaissance onward is inconceivable without perspective.
+Within a generation, perspective transformed European art. Masaccio's *Holy Trinity* (1427) created such a convincing illusion of an architectural niche that viewers reportedly tried to step into it. The entire trajectory of [Western art](/western-art) from the Renaissance onward is inconceivable without perspective.
 
 ## The Types
 
@@ -59,7 +59,7 @@ One-point perspective is the simplest system and works well for interior views, 
 
 **Two-point perspective** uses two vanishing points, placed on the horizon line at the left and right. It's what you see when you look at the corner of a building — edges recede in two different directions, each toward its own vanishing point. Most architectural drawings use two-point perspective because buildings are rarely viewed perfectly head-on.
 
-**Three-point perspective** adds a third vanishing point above or below the horizon line for vertical convergence. This is the "looking up at a skyscraper" view (third point above) or the "looking down from a rooftop" view (third point below). It produces the dramatic, vertiginous views common in comic book art and architectural illustration.
+**Three-point perspective** adds a third vanishing point above or below the horizon line for vertical convergence. This is the "looking up at a skyscraper" view (third point above) or the "looking down from a rooftop" view (third point below). It produces the dramatic, vertiginous views common in [comic book art](/comic-book-art) and architectural [illustration](/illustration).
 
 **Atmospheric perspective** isn't a geometric system but a observational technique. Distant objects appear lighter, bluer, and less detailed than nearby objects because of atmospheric haze. Leonardo da Vinci documented this effect and used it extensively — the misty backgrounds in the Mona Lisa are atmospheric perspective in action.
 
@@ -83,14 +83,14 @@ The most common beginner mistake is placing vanishing points too close together,
 
 ## Where Perspective Is Used Today
 
-**Architecture** uses perspective drawing to show how proposed buildings will look from specific viewpoints. Before CAD software, architectural perspective was drawn entirely by hand.
+**[Architecture](/architecture)** uses perspective drawing to show how proposed buildings will look from specific viewpoints. Before CAD software, architectural perspective was drawn entirely by hand.
 
-**Industrial design** uses perspective to present product concepts three-dimensionally — cars, appliances, furniture, consumer electronics.
+**[Industrial design](/industrial-design)** uses perspective to present product concepts three-dimensionally — cars, appliances, furniture, consumer [electronics](/electronics).
 
 **Comic books and graphic novels** rely heavily on perspective to create active panel compositions. Extreme angles (low viewpoints, high viewpoints, three-point perspective) add drama and energy.
 
-**Video games** and 3D computer graphics use mathematical perspective projection to render three-dimensional virtual worlds on two-dimensional screens — the same geometric principles Brunelleschi discovered, now calculated by GPUs billions of times per second.
+**Video games** and 3D [computer graphics](/computer-graphics) use mathematical perspective projection to render three-dimensional virtual worlds on two-dimensional screens — the same geometric principles Brunelleschi discovered, now calculated by GPUs billions of times per second.
 
-**Concept art** for films, games, and animation uses perspective to create convincing environments that don't exist yet.
+**Concept art** for films, games, and [animation](/animation) uses perspective to create convincing environments that don't exist yet.
 
 Understanding perspective gives you the ability to draw convincing space from imagination — not just copy what you see, but construct scenes that look real from any angle. It's the single most useful technical skill in representational drawing, and once you learn it, you start seeing vanishing points everywhere you look.

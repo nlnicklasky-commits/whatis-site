@@ -5,7 +5,7 @@ description: "Thermodynamics is the branch of physics studying heat, energy, wor
 category: science
 tags: ["thermodynamics", "physics", "heat", "energy", "entropy"]
 heroImage: "/images/articles/thermodynamics.webp"
-heroAlt: "A steam engine piston system with visible heat transfer arrows and temperature gradient visualization"
+heroAlt: "Editorial photograph representing the concept of thermodynamics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Thermodynamics is the branch of physics that deals with heat, work, temperature,
 
 Thermodynamics is unusual in physics because its laws were discovered backwards. The first and second laws were established in the 1840s-1860s. Then physicists realized they needed something more basic underneath — so they slotted in the zeroth law. The third law came last. The numbering is a mess. The physics is airtight.
 
-These four laws haven't been overturned by relativity, quantum mechanics, or any other revolution in physics. They sit deeper than most physical theories. Einstein reportedly said that thermodynamics is "the only physical theory of universal content which I am convinced that, within the framework of the applicability of its basic concepts, will never be overthrown."
+These four laws haven't been overturned by [relativity](/relativity), [quantum mechanics](/quantum-mechanics), or any other revolution in physics. They sit deeper than most physical theories. Einstein reportedly said that thermodynamics is "the only physical theory of universal content which I am convinced that, within the framework of the applicability of its basic concepts, will never be overthrown."
 
 That's a strong endorsement from someone who overthrew Newton.
 
@@ -77,7 +77,7 @@ The second law of thermodynamics is arguably the most profound statement in all 
 - **Kelvin-Planck:** No process can convert heat entirely into work with no other effect.
 - **Entropy formulation:** The entropy of an isolated system never decreases.
 
-All three statements are equivalent. And all three have consequences that reach far beyond engineering.
+All three statements are equivalent. And all three have consequences that reach far beyond [engineering](/engineering).
 
 ### What Entropy Really Is
 
@@ -85,7 +85,7 @@ Entropy is the concept most people find hardest to grasp in all of physics. Here
 
 Consider a box divided in half by a partition. The left half contains gas; the right half is vacuum. Remove the partition, and the gas expands to fill the whole box. That's obvious — it always happens.
 
-But *why* does it always happen? There's no law saying a gas molecule can't spontaneously return to the left half. Any individual molecule is equally likely to be in either half at any moment. The answer is statistics. With 10^23 molecules, the probability that all of them happen to be in the left half at the same time is about 1 in 2^(10^23). That number is so absurdly small that it would never happen in the entire lifetime of the universe.
+But *why* does it always happen? There's no law saying a gas molecule can't spontaneously return to the left half. Any individual molecule is equally likely to be in either half at any moment. The answer is [statistics](/statistics). With 10^23 molecules, the probability that all of them happen to be in the left half at the same time is about 1 in 2^(10^23). That number is so absurdly small that it would never happen in the entire lifetime of the universe.
 
 Entropy measures this statistical imbalance. A system with all the gas on one side has low entropy — there are very few ways to arrange the molecules in that configuration. A system with gas spread evenly has high entropy — there are overwhelmingly many ways to arrange the molecules evenly. The second law says systems evolve toward the overwhelmingly probable configurations.
 
@@ -143,7 +143,7 @@ Different engines use different thermodynamic cycles:
 
 **The Diesel cycle** models diesel engines. Similar to Otto but with higher compression ratios and combustion at constant pressure rather than constant volume. Typically more efficient: 30-40%.
 
-**The Rankine cycle** models steam power plants. Water is heated to steam, expanded through a turbine, condensed back to water, and pumped back to the boiler. Most of the world's electricity is generated using variations of the Rankine cycle.
+**The Rankine cycle** models steam power plants. Water is heated to steam, expanded through a turbine, condensed back to water, and pumped back to the boiler. Most of the world's [electricity](/electricity) is generated using variations of the Rankine cycle.
 
 **The Brayton cycle** models gas turbines and jet engines. Air is compressed, heated by combustion, expanded through a turbine, and exhausted. Combined-cycle power plants use both Brayton and Rankine cycles — the hot exhaust from the gas turbine heats water for a steam turbine, squeezing out extra efficiency.
 
@@ -153,7 +153,7 @@ You experience thermodynamic principles constantly, even if you don't think abou
 
 **Your refrigerator** is a heat pump — it moves heat from a cold space (inside the fridge) to a hot space (the kitchen) using electrical work. The second law says heat doesn't flow from cold to hot spontaneously, so the compressor must do work to force it. That's why your fridge uses electricity. The coefficient of performance (COP) of a typical refrigerator is about 3-5, meaning it moves 3-5 joules of heat for every joule of electrical work. Not bad.
 
-**Air conditioning** works the same way — it's a heat pump moving heat from inside your house to outside. In reverse, a heat pump can heat your house by moving heat from outside air (even cold outside air) into your home. Heat pumps are 2-4 times more efficient than direct electrical heating because they're moving heat rather than creating it.
+**[Air conditioning](/air-conditioning)** works the same way — it's a heat pump moving heat from inside your house to outside. In reverse, a heat pump can heat your house by moving heat from outside air (even cold outside air) into your home. Heat pumps are 2-4 times more efficient than direct electrical heating because they're moving heat rather than creating it.
 
 **Your body** is a heat engine with about 25% efficiency for mechanical work. You burn food (chemical energy), produce work (movement), and dump waste heat (which is why you're warm). You produce about 80-100 watts of heat at rest — enough to noticeably warm a small room.
 

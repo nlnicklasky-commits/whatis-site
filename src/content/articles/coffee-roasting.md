@@ -5,7 +5,7 @@ description: "Coffee roasting transforms green beans into the aromatic brown bea
 category: everyday-concepts
 tags: ["coffee roasting", "coffee", "roasting", "food science", "flavor", "coffee beans"]
 heroImage: "/images/articles/coffee-roasting.webp"
-heroAlt: "Fresh coffee beans tumbling out of a roasting drum with wisps of aromatic smoke"
+heroAlt: "Editorial photograph representing the concept of coffee roasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -71,7 +71,7 @@ This sensitivity is why roasting is often described as both science and craft. T
 
 **Single-origin** coffees come from one country, region, or even one specific farm. They're roasted to highlight their distinctive character — a Kenyan coffee's blackcurrant acidity, an Ethiopian Yirgacheffe's jasmine-like florals, a Sumatran's earthy body.
 
-**Blends** combine beans from multiple origins, roasted to create a balanced, consistent flavor profile. The goal is harmony — one bean provides body, another adds brightness, a third contributes sweetness. Most coffee chains use blends because they can maintain consistency year-round even as individual harvests vary.
+**Blends** combine beans from multiple origins, roasted to create a balanced, consistent flavor profile. The goal is [harmony](/harmony) — one bean provides body, another adds brightness, a third contributes sweetness. Most coffee chains use blends because they can maintain consistency year-round even as individual harvests vary.
 
 Neither approach is inherently superior. A well-crafted blend can be just as delicious and thoughtful as a pristine single origin. The prejudice against blends mostly comes from their association with cheap, mass-produced coffee — but that's a problem of execution, not concept.
 
@@ -81,7 +81,7 @@ Roasted coffee is a perishable product. Flavor peaks about 3 to 14 days after ro
 
 Whole beans stay fresh much longer than pre-ground coffee because grinding dramatically increases the surface area exposed to air. If you're buying [craft](/craft-beer) specialty coffee, whole beans stored in an opaque, airtight container at room temperature will serve you well. Grinding right before brewing makes a genuine, measurable difference in cup quality.
 
-That "roasted on" date printed on specialty coffee bags isn't marketing — it's useful information. Coffee roasted six months ago and sitting on a grocery shelf will taste flat and stale compared to beans roasted last week.
+That "roasted on" date printed on specialty coffee bags isn't [marketing](/marketing) — it's useful information. Coffee roasted six months ago and sitting on a grocery shelf will taste flat and stale compared to beans roasted last week.
 
 ## The Industry Scale
 

@@ -5,7 +5,7 @@ description: "Symphony composition is the art of writing large-scale orchestral 
 category: everyday-concepts
 tags: ["symphony composition", "classical music", "orchestra", "music theory", "composers", "movements"]
 heroImage: "/images/articles/symphony-composition.webp"
-heroAlt: "An orchestra performing a symphony in a grand concert hall"
+heroAlt: "Editorial photograph representing the concept of symphony composition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Symphony Composition?
 
-Symphony composition is the art of creating a symphony — a large-scale work for orchestra, typically structured in multiple movements that together form a unified musical experience. It's one of the most ambitious and demanding forms of musical composition, requiring mastery of orchestration, form, harmony, and dramatic pacing.
+Symphony composition is the art of creating a symphony — a large-scale work for orchestra, typically structured in multiple movements that together form a unified musical experience. It's one of the most ambitious and demanding forms of musical composition, requiring mastery of [orchestration](/orchestration), form, [harmony](/harmony), and dramatic pacing.
 
-A symphony is not background music. At its best, it's a carefully constructed emotional and intellectual journey lasting 20-60+ minutes, performed by 60-100 musicians playing in precise coordination. Writing one is a bit like designing a building — the architecture has to hold together on every level, from individual phrases to the overall structure.
+A symphony is not background music. At its best, it's a carefully constructed emotional and intellectual journey lasting 20-60+ minutes, performed by 60-100 musicians playing in precise coordination. [Writing](/writing) one is a bit like designing a building — the [architecture](/architecture) has to hold together on every level, from individual phrases to the overall structure.
 
 ## The Standard Structure
 
@@ -43,7 +43,7 @@ The classical symphony, established in the mid-18th century, typically follows a
 
 **Second movement: Slow (Adagio or Andante)** — The emotional heart of the symphony. Lyrical melodies, rich harmonies, and a contemplative mood. This is where the composer often writes their most beautiful music.
 
-**Third movement: Dance (Minuet or Scherzo)** — In triple meter, with a contrasting middle section called a trio. Beethoven transformed the elegant minuet into the more vigorous and playful scherzo.
+**Third movement: [Dance](/dance) (Minuet or Scherzo)** — In triple meter, with a contrasting middle section called a trio. Beethoven transformed the elegant minuet into the more vigorous and playful scherzo.
 
 **Fourth movement: Fast (Allegro or Presto)** — The finale. Often the most exciting and extroverted movement, bringing the symphony to a decisive conclusion.
 
@@ -65,7 +65,7 @@ Romantic composers expanded the symphony's scale, emotional range, and orchestra
 
 The symphony didn't die after Mahler, despite frequent predictions. Shostakovich wrote 15 symphonies under Soviet rule that are among the most powerful of the century. Sibelius compressed the form into a single continuous movement. Minimalists like Philip Glass and John Adams brought new approaches.
 
-Contemporary composers continue writing [symphonies](/music-engineering), though the form competes with film scoring, electronic music, and other outlets for orchestral ambition.
+Contemporary composers continue writing [symphonies](/music-[engineering](/engineering)), though the form competes with film scoring, [electronic music](/electronic-music), and other outlets for orchestral ambition.
 
 ## The Craft of Orchestration
 
@@ -82,7 +82,7 @@ Orchestration is where good symphonic writing becomes great. Ravel, Rimsky-Korsa
 
 ## Why Symphonies Still Matter
 
-In an age of three-minute songs and streaming playlists, a 40-minute orchestral work might seem like a relic. But symphonies offer something no other musical form does: extended, complex, non-verbal storytelling that unfolds over time.
+In an age of three-minute songs and streaming playlists, a 40-minute orchestral work might seem like a relic. But symphonies offer something no other musical form does: extended, complex, non-verbal [storytelling](/storytelling) that unfolds over time.
 
 A great symphony takes you on a journey. It establishes ideas, develops them, creates tension, provides resolution, surprises you, and brings everything together in a way that feels both inevitable and astonishing. It demands your attention — and rewards it.
 

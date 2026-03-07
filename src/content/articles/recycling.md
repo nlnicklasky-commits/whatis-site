@@ -5,7 +5,7 @@ description: "Recycling converts waste materials into new products, reducing lan
 category: everyday-concepts
 tags: ["recycling", "environment", "waste management", "sustainability", "conservation", "materials"]
 heroImage: "/images/articles/recycling.webp"
-heroAlt: "Sorted recyclable materials in blue bins ready for processing"
+heroAlt: "Editorial photograph representing the concept of recycling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ Not everything thrown in a recycling bin actually gets recycled. The recyclabili
 
 **Plastic** — the problem child. Here's the uncomfortable truth: only about 5-6% of plastic waste in the U.S. is actually recycled. The recycling symbols (#1-7) on plastic containers indicate resin type, not recyclability. Most MRFs only accept #1 (PET) and #2 (HDPE). Other plastics often lack processing infrastructure or end markets. And unlike aluminum or glass, plastic degrades in quality each time it's recycled (downcycling), eventually ending up in a landfill or incinerator anyway.
 
-## The Economics
+## The [Economics](/economics)
 
 Recycling only works if someone buys the recycled material. This creates a fundamental economic reality: recycling is dependent on commodity markets.
 

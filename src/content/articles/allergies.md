@@ -5,7 +5,7 @@ description: "Allergies are immune system overreactions to normally harmless sub
 category: health-amp-wellness
 tags: ["allergies", "immune system", "allergen", "histamine", "immunology"]
 heroImage: "/images/articles/allergies.webp"
-heroAlt: "Close-up of pollen grains floating in the air against a springtime background with blooming flowers"
+heroAlt: "Editorial photograph representing the concept of allergies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -71,7 +71,7 @@ This entire cascade — from allergen contact to full symptoms — can happen in
 
 Commonly called "hay fever" — which is misleading because it has nothing to do with hay and doesn't cause fever. Triggered by airborne allergens: pollen (seasonal), dust mites, mold spores, and animal dander (perennial).
 
-Symptoms include sneezing, nasal congestion, runny nose, itchy and watery eyes, and postnasal drip. About 20-30% of adults and up to 40% of children are affected. Allergic rhinitis isn't just annoying — it causes measurable reductions in sleep quality, work productivity, and overall quality of life.
+Symptoms include sneezing, nasal congestion, runny nose, itchy and watery eyes, and postnasal drip. About 20-30% of adults and up to 40% of children are affected. Allergic rhinitis isn't just annoying — it causes measurable reductions in sleep quality, work [productivity](/productivity), and overall quality of life.
 
 Pollen seasons have been getting longer and more intense. A 2021 study in *Proceedings of the National Academy of Sciences* found that pollen seasons in North America have lengthened by 20 days and become 21% more intense since 1990, driven by climate change. If your allergies seem worse than they used to be, they probably are.
 
@@ -113,7 +113,7 @@ Here's a frustrating reality: EpiPen prices in the U.S. have become controversia
 
 This is one of medicine's most debated questions. Allergy rates have been climbing across developed countries for decades. Several hypotheses attempt to explain this:
 
-### The Hygiene Hypothesis
+### The [Hygiene](/hygiene) Hypothesis
 
 First proposed by epidemiologist David Strachan in 1989, this theory suggests that modern cleanliness — clean water, antibiotics, reduced family sizes, less contact with farm animals, more time indoors — deprives the immune system of the microbial exposures it needs to develop properly.
 
@@ -160,7 +160,7 @@ The most effective "treatment" is not getting exposed in the first place. For so
 
 ## Living With Allergies
 
-For millions of people, allergies are a lifelong companion. The good news: they're manageable. The bad news: management requires constant vigilance, particularly for food allergies and anaphylaxis risk.
+For millions of people, allergies are a lifelong companion. The good news: they're manageable. The bad news: [management](/management) requires constant vigilance, particularly for food allergies and anaphylaxis risk.
 
 If you suspect you have allergies, get tested. Skin prick tests and blood tests (measuring specific IgE antibodies) can identify your triggers precisely. Knowing exactly what you're allergic to — rather than guessing — makes treatment and avoidance dramatically more effective.
 

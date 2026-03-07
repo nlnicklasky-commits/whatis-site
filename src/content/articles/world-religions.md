@@ -5,7 +5,7 @@ description: "World religions is the study of major belief systems including Chr
 category: philosophy
 tags: ["religions", "belief systems", "spirituality", "faith", "theology"]
 heroImage: "/images/articles/world-religions.webp"
-heroAlt: "Symbols of major world religions arranged in a circle including a cross, crescent, Om, dharma wheel, and Star of David"
+heroAlt: "Editorial photograph representing the concept of world religions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

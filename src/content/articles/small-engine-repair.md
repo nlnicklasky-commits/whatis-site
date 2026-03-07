@@ -5,7 +5,7 @@ description: "Small engine repair covers fixing and maintaining compact engines 
 category: everyday-concepts
 tags: ["small engine repair", "maintenance", "lawn mower", "chainsaw", "two-stroke", "four-stroke"]
 heroImage: "/images/articles/small-engine-repair.webp"
-heroAlt: "A technician working on a disassembled small engine with tools and parts spread on a workbench"
+heroAlt: "Editorial photograph representing the concept of small engine repair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Absolutely. Small engines are mechanically simple — most have fewer than 20 moving parts. Basic maintenance requires minimal tools and can be learned in an afternoon. Carburetor cleaning and more involved repairs take some study but are within reach of any handy person. YouTube tutorials and manufacturer service manuals cover most common repairs."
 ---
 
-# What Is Small Engine Repair?
+# What Is Small [Engine Repair](/engine-repair)?
 
 Small engine repair is the maintenance, diagnosis, and fixing of compact internal combustion engines — the kind that power lawn mowers, chainsaws, leaf blowers, generators, pressure washers, tillers, and snow blowers. These engines typically range from 50cc to 700cc and produce between 2 and 25 horsepower.
 
@@ -39,7 +39,7 @@ If you own a home with a yard, you almost certainly own small engines. Understan
 
 Small engines follow the same principles as car engines, just simpler.
 
-**Four-stroke engines** (most lawn mowers, generators) complete a power cycle in four piston movements: intake, compression, power, and exhaust. They have a separate oil reservoir and run on straight gasoline. They're quieter, more fuel-efficient, and cleaner-running.
+**Four-stroke engines** (most lawn mowers, generators) complete a power cycle in four piston movements: intake, compression, power, and exhaust. They have a separate oil reservoir and run on straight gasoline. They're quieter, more fuel-efficient, and cleaner-[running](/running).
 
 **Two-stroke engines** (many chainsaws, string trimmers, leaf blowers) complete the cycle in two piston movements. They run on a gas-oil mixture (typically 40:1 or 50:1) because they lack a separate oil system. Two-strokes are lighter and more powerful for their size but louder and less efficient.
 

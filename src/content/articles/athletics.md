@@ -5,7 +5,7 @@ description: "Athletics is a collection of sporting events including running, ju
 category: sports
 tags: ["athletics", "track and field", "sports", "running", "olympics", "marathon"]
 heroImage: "/images/articles/athletics.webp"
-heroAlt: "Runners sprinting on a red track with lane markings during a competitive race"
+heroAlt: "Editorial photograph representing the concept of athletics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Athletics?
 
-Athletics — known as track and field in the United States — is a collection of competitive sporting events based on the fundamental human movements of running, jumping, and throwing. It is the oldest form of organized sport and the centerpiece of every modern Olympic Games.
+Athletics — known as [track and field](/track-and-field) in the United States — is a collection of competitive sporting events based on the fundamental human movements of [running](/running), jumping, and throwing. It is the oldest form of organized sport and the centerpiece of every modern Olympic Games.
 
 ## The Original Sport
 
-Athletics has a stronger claim to being "the original sport" than just about anything else. The ancient Olympic Games, first held in Olympia, Greece, in 776 BCE, consisted of a single event: the stadion, a footrace of about 192 meters. Over the following centuries, longer races, wrestling, boxing, and the pentathlon (running, jumping, discus, javelin, wrestling) were added.
+Athletics has a stronger claim to being "the original sport" than just about anything else. The ancient Olympic Games, first held in Olympia, Greece, in 776 BCE, consisted of a single event: the stadion, a footrace of about 192 meters. Over the following centuries, longer races, [wrestling](/wrestling), boxing, and the pentathlon (running, jumping, discus, javelin, wrestling) were added.
 
 The modern Olympics, revived by Pierre de Coubertin in 1896, placed athletics at the center of the program — a position it has never lost. Athletics events produce some of the Games' most iconic moments: Jesse Owens in 1936 Berlin, Bob Beamon's impossible long jump in 1968, Usain Bolt's dominance from 2008 to 2016.
 
@@ -67,13 +67,13 @@ The decathlon (ten events over two days for men) and heptathlon (seven events ov
 
 ## The Science of Going Fast
 
-Modern athletics is inseparable from [sports science](/sports-science). Training programs are built on principles of [physiology](/human-physiology), biomechanics, nutrition, and psychology.
+Modern athletics is inseparable from [sports science](/sports-science). Training programs are built on principles of [physiology](/human-physiology), biomechanics, [nutrition](/nutrition), and [psychology](/psychology).
 
 Sprint performance depends on stride length, stride frequency, ground contact time, and force production. Small improvements in any of these factors translate to measurable time differences — and at the elite level, hundredths of a second separate gold from no medal at all.
 
 Distance running performance is largely determined by VO2 max (maximum oxygen consumption), lactate threshold (the intensity at which lactic acid accumulates faster than it can be cleared), and running economy (how efficiently the body uses oxygen at a given pace). Elite marathoners have VO2 max values roughly double those of average untrained adults.
 
-Technology affects performance too. The "super shoe" controversy erupted after Nike's Vaporfly shoes — featuring thick carbon-fiber plates and energy-returning foam — helped athletes shatter records. World Athletics now regulates shoe stack height and plate construction, but the genie is out of the bottle.
+Technology affects performance too. The "super shoe" controversy erupted after Nike's Vaporfly shoes — featuring thick carbon-fiber plates and energy-returning foam — helped athletes shatter records. World Athletics now regulates shoe stack height and plate [construction](/construction), but the genie is out of the bottle.
 
 ## Athletics Beyond the Elite
 

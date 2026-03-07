@@ -5,7 +5,7 @@ description: "Orthopedics is the medical specialty that treats bones, joints, mu
 category: health-amp-wellness
 tags: ["orthopedics", "musculoskeletal", "bones", "joints", "surgery"]
 heroImage: "/images/articles/orthopedics.webp"
-heroAlt: "Surgeon examining an X-ray of a knee joint in an operating room"
+heroAlt: "Editorial photograph representing the concept of orthopedics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Orthopedics is the branch of medicine dedicated to diagnosing and treating condi
 
 ## The Name Tells a Story
 
-The word "orthopedics" comes from two Greek roots: *ortho* (straight) and *paidion* (child). Nicolas Andry, a French physician, coined the term in 1741 when he published a book about preventing and correcting skeletal deformities in children. His famous illustration — a crooked young tree tied to a straight stake — became the symbol of orthopedics and remains the logo of several orthopedic associations today.
+The word "orthopedics" comes from two Greek roots: *ortho* (straight) and *paidion* (child). Nicolas Andry, a French physician, coined the term in 1741 when he published a book about preventing and correcting skeletal deformities in children. His famous [illustration](/illustration) — a crooked young tree tied to a straight stake — became the symbol of orthopedics and remains the logo of several orthopedic associations today.
 
 The field has obviously grown far beyond children's skeletal problems. Modern orthopedics treats patients from newborns to the elderly, handling everything from broken arms to degenerative arthritis to complex spinal reconstructions. But the original impulse — straightening what's crooked, fixing what's broken — still captures the core idea.
 
@@ -78,7 +78,7 @@ Arthroscopy — inserting a tiny camera and instruments through small incisions 
 
 The spine is arguably the most complex structure in the musculoskeletal system. Twenty-four moveable vertebrae, plus the sacrum and coccyx, stacked in a column with intervertebral discs between them, housing the spinal cord and branching nerves. When things go wrong here — herniated discs, spinal stenosis, scoliosis, fractures — the consequences can range from nagging back pain to paralysis.
 
-Spine surgery remains one of the most debated areas in orthopedics. For certain conditions (severe nerve compression, unstable fractures, progressive deformity), surgery is clearly beneficial. For chronic back pain without a clear structural cause? The evidence is much murkier. Many spine specialists have moved toward conservative management — physical therapy, injections, pain management — reserving surgery for cases where non-operative treatment has genuinely failed.
+Spine surgery remains one of the most debated areas in orthopedics. For certain conditions (severe nerve compression, unstable fractures, progressive deformity), surgery is clearly beneficial. For chronic back pain without a clear structural cause? The evidence is much murkier. Many spine specialists have moved toward conservative [management](/management) — [physical therapy](/physical-therapy), injections, pain management — reserving surgery for cases where non-operative treatment has genuinely failed.
 
 ### Trauma
 
@@ -108,13 +108,13 @@ Here's something that surprises people: most orthopedic treatment doesn't involv
 
 ### Osteoarthritis
 
-The big one. Osteoarthritis — the gradual wearing away of cartilage in a joint — affects over 32.5 million adults in the United States alone. It's the primary reason people get hip and knee replacements. Age is the biggest risk factor, but obesity, previous injuries, genetics, and repetitive joint stress all contribute.
+The big one. Osteoarthritis — the gradual wearing away of cartilage in a joint — affects over 32.5 million adults in the United States alone. It's the primary reason people get hip and knee replacements. Age is the biggest risk factor, but obesity, previous injuries, [genetics](/genetics), and repetitive joint stress all contribute.
 
 ### Fractures
 
 Broken bones are the bread and butter of orthopedics. Simple fractures might need nothing more than a cast or splint. Complex fractures — those involving joints, those with multiple fragments, or those that break through the skin — often require surgical fixation with plates, screws, rods, or external frames.
 
-Osteoporotic fractures deserve special mention. In older adults, weakened bones can fracture from minimal trauma — sometimes just standing up. Hip fractures in the elderly are a major public health issue: roughly 300,000 Americans over 65 are hospitalized for hip fractures each year, and the mortality rate within one year of a hip fracture is between 15% and 30%.
+Osteoporotic fractures deserve special mention. In older adults, weakened bones can fracture from minimal trauma — sometimes just standing up. Hip fractures in the elderly are a major [public health](/public-health) issue: roughly 300,000 Americans over 65 are hospitalized for hip fractures each year, and the mortality rate within one year of a hip fracture is between 15% and 30%.
 
 ### Tendon and Ligament Injuries
 
@@ -126,7 +126,7 @@ Low back pain affects approximately 80% of adults at some point in their lives, 
 
 ## The Training Pipeline
 
-Becoming an orthopedic surgeon requires serious commitment. In the United States, the path goes: four years of undergraduate education, four years of medical school, five years of orthopedic surgery residency, and then often one to two years of fellowship for subspecialty training. That's 13 to 15 years of education and training after high school.
+Becoming an orthopedic surgeon requires serious commitment. In the United States, the path goes: four years of undergraduate [education](/education), four years of medical school, five years of orthopedic surgery residency, and then often one to two years of fellowship for subspecialty training. That's 13 to 15 years of education and training after high school.
 
 Orthopedic residency is among the most competitive in medicine. In 2024, the match rate for U.S. medical graduates was around 85%, and candidates typically need top-tier board scores and significant research experience.
 
@@ -134,10 +134,10 @@ The field has a well-known diversity problem. Orthopedic surgery has the lowest 
 
 ## Where Orthopedics Is Heading
 
-Biologics — treatments that use the body's own healing mechanisms — represent the frontier. Stem cell therapies, growth factor injections, and tissue engineering aim to regenerate damaged cartilage and bone rather than just replacing them. The science is promising but still early; many advertised "stem cell treatments" at private clinics outrun the evidence.
+Biologics — treatments that use the body's own healing mechanisms — represent the frontier. Stem cell therapies, growth factor injections, and tissue [engineering](/engineering) aim to regenerate damaged cartilage and bone rather than just replacing them. The science is promising but still early; many advertised "stem cell treatments" at private clinics outrun the evidence.
 
-3D-printed implants are already in use for complex cases where standard prosthetics don't fit. Custom-printed titanium implants can match a patient's unique anatomy down to the millimeter.
+3D-printed implants are already in use for complex cases where standard [prosthetics](/prosthetics) don't fit. Custom-printed titanium implants can match a patient's unique [anatomy](/anatomy) down to the millimeter.
 
-Robotics have entered the operating room. Systems like Mako and ROSA assist surgeons with joint replacements and spine procedures, improving the precision of bone cuts and implant placement. Whether robotic assistance actually improves long-term outcomes compared to experienced hands alone is still being studied — but the trend toward greater precision is unmistakable.
+[Robotics](/robotics) have entered the operating room. Systems like Mako and ROSA assist surgeons with joint replacements and spine procedures, improving the precision of bone cuts and implant placement. Whether robotic assistance actually improves long-term outcomes compared to experienced hands alone is still being studied — but the trend toward greater precision is unmistakable.
 
 The biggest shift may be philosophical. Orthopedics is moving toward a model where surgery is genuinely the last resort, not the first suggestion. Shared decision-making, evidence-based guidelines, and a growing emphasis on conservative management all point toward a field that's becoming more thoughtful about when — and when not — to operate.

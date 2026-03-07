@@ -5,7 +5,7 @@ description: "Rice farming is the cultivation of rice, the staple food for over 
 category: science
 tags: ["rice farming", "agriculture", "paddy", "food production", "irrigation", "crop science", "sustainability"]
 heroImage: "/images/articles/rice-farming-hero.webp"
-heroAlt: "Terraced rice paddies filled with water reflecting the sky in a mountainous landscape"
+heroAlt: "Editorial photograph representing the concept of rice farming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Rice progresses through several growth stages over 100-180 days, depending on th
 
 **Vegetative growth** (30-65 days): The plant produces tillers — additional stems that emerge from the base of the plant. A single rice plant may produce 10-30 tillers, each of which can develop its own grain-bearing panicle. Tiller number is a major determinant of yield. During this phase, plants build leaf area to capture sunlight and develop root systems to absorb nutrients.
 
-**Reproductive** (65-95 days): The plant shifts from vegetative growth to grain production. Panicles (the grain-bearing structures) form inside the leaf sheath and eventually emerge. Flowering occurs, with each floret open for only a few hours for pollination. Rice is primarily self-pollinating — the pollen falls within the same flower — which simplifies breeding but limits genetic diversity within varieties.
+**Reproductive** (65-95 days): The plant shifts from vegetative growth to grain production. Panicles (the grain-bearing structures) form inside the leaf sheath and eventually emerge. Flowering occurs, with each floret open for only a few hours for [pollination](/pollination). Rice is primarily self-pollinating — the pollen falls within the same flower — which simplifies breeding but limits genetic diversity within varieties.
 
 **Ripening** (95-130+ days): Grains fill with starch, moisture content drops from about 60% to 20-25%, and the panicles bend under the weight of mature grain. The golden color of ripe rice fields is one of the most iconic agricultural landscapes on Earth.
 
@@ -65,13 +65,13 @@ Rice progresses through several growth stages over 100-180 days, depending on th
 
 **Paddy (lowland) rice** is grown in fields that are flooded with 2-6 inches of standing water for most of the growing season. This system produces about 75% of the world's rice. The flooding is not because rice needs to stand in water — it is because rice tolerates water better than its competitor weeds. Flooding is essentially a weed control strategy that predates herbicides by thousands of years.
 
-Paddy fields require flat terrain (or terracing on slopes), reliable water supply, and clay-rich soils that hold water without excessive percolation. The terraced rice paddies of the Philippine Cordilleras, the Bali subak system, and the Yunnan rice terraces are UNESCO World Heritage sites — recognized as cultural landscapes of extraordinary beauty and engineering sophistication.
+Paddy fields require flat terrain (or terracing on slopes), reliable water supply, and clay-rich soils that hold water without excessive percolation. The terraced rice paddies of the Philippine Cordilleras, the Bali subak system, and the Yunnan rice terraces are UNESCO World Heritage sites — recognized as cultural landscapes of extraordinary beauty and [engineering](/engineering) sophistication.
 
 **Upland rice** is grown on dry land without flooding, rain-fed like wheat or corn. It accounts for about 4% of global production. Yields are lower (1-2 tons per hectare versus 4-8 for paddy rice), but upland rice requires no irrigation infrastructure and can grow on hillsides and marginal land. It is important in parts of Africa, Brazil, and upland Southeast Asia.
 
 **Deepwater and floating rice** grow in areas prone to deep seasonal flooding (water depths of 50 cm to over 4 meters). These specialized varieties can elongate their stems by up to 20 cm per day to keep pace with rising floodwaters — a remarkable adaptation. They are grown in Bangladesh, Myanmar, Vietnam, and parts of West Africa.
 
-## Water Management: The Defining Challenge
+## [Water Management](/water-management): The Defining Challenge
 
 Rice farming's relationship with water is complex and consequential. Rice consumes more water than any other food crop — an estimated 34-43% of the world's irrigation water goes to rice production.
 
@@ -153,13 +153,13 @@ Rice accounts for 34-43% of global irrigation water use. In water-scarce regions
 
 ### Biodiversity
 
-Rice paddies, surprisingly, can support significant biodiversity. Flooded fields provide habitat for fish, frogs, insects, and birds. In Japan, paddies are critical habitat for the endangered Japanese crested ibis. In parts of Southeast Asia, integrated rice-fish farming provides both grain and protein from the same field.
+Rice paddies, surprisingly, can support significant biodiversity. Flooded fields provide habitat for fish, frogs, insects, and birds. In Japan, paddies are critical habitat for the endangered Japanese crested ibis. In parts of Southeast Asia, integrated rice-[fish farming](/fish-farming) provides both grain and protein from the same field.
 
 However, conversion of wetlands and forests to rice paddies has historically destroyed habitat, and pesticide use in some systems threatens aquatic organisms. The relationship between rice farming and biodiversity depends heavily on management practices.
 
 ## Rice Economics and Trade
 
-Rice is unusual among major crops because most of it is consumed domestically rather than traded internationally. Only about 9-10% of global rice production enters international trade — compared to roughly 20% for wheat and 15% for corn.
+Rice is unusual among major crops because most of it is consumed domestically rather than traded internationally. Only about 9-10% of global rice production enters [international trade](/international-trade) — compared to roughly 20% for wheat and 15% for corn.
 
 ### Major Producers
 

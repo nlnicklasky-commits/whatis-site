@@ -5,7 +5,7 @@ description: "Blogging is the practice of writing and publishing content on a we
 category: everyday-concepts
 tags: ["blogging", "writing", "content creation", "digital media", "web publishing", "online writing"]
 heroImage: "/images/articles/blogging.webp"
-heroAlt: "Laptop on a desk showing a blog post being drafted with coffee and notebook nearby"
+heroAlt: "Editorial photograph representing the concept of blogging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Blogging?
 
-Blogging is the practice of regularly writing and publishing articles (blog posts) on a website, typically presented in reverse chronological order. The term combines "web" and "log" — a web log, or blog. What started as online personal diaries in the late 1990s has evolved into a massive ecosystem of personal, professional, and commercial content creation.
+Blogging is the practice of regularly writing and [publishing](/publishing) articles (blog posts) on a website, typically presented in reverse chronological order. The term combines "web" and "log" — a web log, or blog. What started as online personal diaries in the late 1990s has evolved into a massive ecosystem of personal, professional, and commercial content creation.
 
 ## A Brief History
 
@@ -49,11 +49,11 @@ Social media platforms — Facebook (2004), Twitter (2006), Instagram (2010) —
 
 **Professional/business blogs** use content to attract customers through [search engine optimization](/seo-search-engine-optimization). A law firm blogs about legal topics to attract potential clients. A software company blogs about industry trends to establish authority. This content [marketing](/digital-marketing) approach drives billions in business revenue.
 
-**Niche blogs** cover specific topics in depth — personal finance, travel hacking, woodworking, sourdough baking, vintage car restoration. The best niche blogs become authoritative resources in their fields, attracting dedicated audiences that general publications can't match.
+**Niche blogs** cover specific topics in depth — [personal finance](/personal-finance), [travel hacking](/travel-hacking), [woodworking](/woodworking), [sourdough](/sourdough) baking, vintage car restoration. The best niche blogs become authoritative resources in their fields, attracting dedicated audiences that general publications can't match.
 
 **News and opinion blogs** cover current events and analysis. Some (The Verge, Ars Technica, Politico) have grown into major media organizations. Others remain one-person operations with outsized influence in their areas.
 
-**Corporate blogs** serve as content hubs for companies, publishing tutorials, product updates, and industry analysis. Nearly every significant tech company maintains an active engineering blog.
+**Corporate blogs** serve as content hubs for companies, publishing tutorials, product updates, and industry analysis. Nearly every significant tech company maintains an active [engineering](/engineering) blog.
 
 ## How Blogging Works
 
@@ -91,6 +91,6 @@ Monetization strategies for bloggers include:
 
 Social media posts disappear into feeds within hours. Blog content, properly optimized, drives traffic for years. A well-written blog post published today might still attract hundreds of readers monthly five years from now. That compounding effect — [content](/web-development) that accumulates value over time — is why businesses and individuals continue investing in blogs despite the rise of video, podcasts, and social media.
 
-Blogging also offers something social media doesn't: full ownership. Your blog lives on your domain, under your control. Social media platforms change algorithms, deplatform accounts, and even shut down entirely (RIP Google+). A blog on your own domain is digital real estate you actually own.
+Blogging also offers something social media doesn't: full ownership. Your blog lives on your domain, under your control. Social media platforms change algorithms, deplatform accounts, and even shut down entirely (RIP Google+). A blog on your own domain is digital [real estate](/real-estate) you actually own.
 
 The format has evolved, but the fundamental proposition — writing something useful, publishing it where people can find it, and building an audience over time — remains as viable as it was in 2003. The tools are better, the competition is fiercer, and the bar for quality is higher. But for anyone with expertise, persistence, and something genuine to say, blogging still works.

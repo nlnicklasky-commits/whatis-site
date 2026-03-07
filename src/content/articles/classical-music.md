@@ -5,7 +5,7 @@ description: "Classical music spans over 1,000 years of Western art music tradit
 category: arts-amp-culture
 tags: ["classical music", "music", "orchestra", "symphony", "opera", "music history"]
 heroImage: "/images/articles/classical-music.webp"
-heroAlt: "A full symphony orchestra performing on stage in a grand concert hall"
+heroAlt: "Editorial photograph representing the concept of classical music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Classical Music?
 
-Classical music is the broad tradition of Western art music that stretches from medieval chants around 500 AD to compositions being written right now. It's music created within formal compositional frameworks, typically performed by trained musicians, and preserved through written notation rather than oral tradition.
+Classical music is the broad tradition of [Western art](/western-art) music that stretches from medieval chants around 500 AD to compositions being written right now. It's music created within formal compositional frameworks, typically performed by trained musicians, and preserved through written notation rather than oral tradition.
 
 ## The Timeline Most People Get Wrong
 
@@ -47,7 +47,7 @@ People tend to lump everything from Bach to Beethoven into one bucket. In realit
 
 **Romantic (1820-1900):** Emotion takes center stage. Beethoven bridged the gap, and composers like Chopin, Tchaikovsky, Brahms, and Wagner pushed music toward bigger orchestras, longer works, and deeper emotional expression. Wagner's operas could last five hours. Mahler's symphonies used orchestras of 100+ musicians.
 
-**20th Century and Beyond (1900-present):** Rules got broken. Debussy dissolved traditional harmony. Stravinsky's *Rite of Spring* (1913) caused an actual riot at its premiere. Schoenberg abandoned tonality entirely. John Cage wrote a piece that was 4 minutes and 33 seconds of silence. The 20th century was wild.
+**20th Century and Beyond (1900-present):** Rules got broken. Debussy dissolved traditional [harmony](/harmony). Stravinsky's *Rite of Spring* (1913) caused an actual riot at its premiere. Schoenberg abandoned tonality entirely. John Cage wrote a piece that was 4 minutes and 33 seconds of silence. The 20th century was wild.
 
 ## The Orchestra — How It's Built
 
@@ -65,17 +65,17 @@ Partly quality, obviously. Bach's fugues are mathematically elegant and emotiona
 
 But survival is also political. For centuries, women composers were systematically excluded from professional music-making. Fanny Mendelssohn, Clara Schumann, and Amy Beach wrote brilliant music that's only recently getting the performance frequency it deserves. The same applies to composers of color — Florence Price became the first Black woman to have a symphony performed by a major American orchestra in 1933, but her work was largely forgotten until manuscripts were rediscovered in 2009.
 
-## The Weird Economics of Classical Music
+## The Weird [Economics](/economics) of Classical Music
 
-Here's something most people don't realize: professional orchestras almost never break even. The New York Philharmonic's annual budget exceeds $80 million, and ticket sales cover only about 40% of costs. The rest comes from donations, endowments, and government grants.
+Here's something most people don't realize: professional orchestras almost never break even. The New York Philharmonic's annual budget exceeds $80 million, and ticket sales cover only about 40% of costs. The rest comes from donations, endowments, and [government](/government) grants.
 
-This has been true for over a century. The economics are brutal — you need 80 highly trained musicians on salary, a concert hall to maintain, and an administrative staff to keep everything running. A rock band can tour with a van and four people. An orchestra needs buses, trucks, and weeks of rehearsal.
+This has been true for over a century. The economics are brutal — you need 80 highly trained musicians on salary, a concert hall to maintain, and an administrative staff to keep everything [running](/running). A rock band can tour with a van and four people. An orchestra needs buses, trucks, and weeks of rehearsal.
 
 Despite this, roughly 1,200 professional orchestras operate worldwide. The Berlin Philharmonic, Vienna Philharmonic, and Chicago Symphony Orchestra are generally considered among the finest, though rankings are subjective and hotly debated.
 
 ## Classical Music in Unexpected Places
 
-You hear classical music constantly without realizing it. Film composers have been borrowing from the classical playbook since movies had sound. John Williams' *Star Wars* score is essentially late-Romantic orchestral writing — Wagner and Holst filtered through 1970s Hollywood.
+You hear classical music constantly without realizing it. Film composers have been borrowing from the classical playbook since movies had sound. John Williams' *Star Wars* score is essentially late-Romantic orchestral [writing](/writing) — Wagner and Holst filtered through 1970s Hollywood.
 
 Video game [soundtracks](/music-composition) increasingly use full orchestras. *The Legend of Zelda*, *Final Fantasy*, and *Halo* all feature orchestral scores that have been performed in dedicated concert events.
 
@@ -91,4 +91,4 @@ Ignore all that. Start with what sounds good to you. Spotify and Apple Music hav
 
 Live concerts are worth experiencing at least once. The physical sensation of sitting inside an orchestra's sound — feeling the bass frequencies vibrate in your chest — is something recordings can't fully replicate. Many orchestras now offer casual concerts with shorter programs and relaxed dress codes, specifically designed for newcomers.
 
-Classical music has survived plagues, wars, technological revolutions, and the invention of autotune. It'll survive whatever comes next. The tradition keeps evolving, absorbing new influences while maintaining a connection to a thousand years of human musical expression. That's not a small thing.
+Classical music has survived plagues, wars, technological revolutions, and the [invention](/invention) of autotune. It'll survive whatever comes next. The tradition keeps evolving, absorbing new influences while maintaining a connection to a thousand years of human musical expression. That's not a small thing.

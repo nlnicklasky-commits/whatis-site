@@ -5,7 +5,7 @@ description: "Thai is the official language of Thailand, spoken by about 60 mill
 category: everyday-concepts
 tags: ["thai language", "linguistics", "Southeast Asia", "tonal language", "Thai script", "language"]
 heroImage: "/images/articles/thai-language.webp"
-heroAlt: "Thai script written on a sign with traditional decorative elements"
+heroAlt: "Editorial photograph representing the concept of thai language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ The Thai alphabet was created by King Ramkhamhaeng the Great in 1283 (according 
 
 The script has 44 consonant characters, 15 vowel characters that combine into about 28 vowel forms, and various tone marks, numerals, and punctuation. Vowels can appear above, below, before, or after the consonant they modify — which can be disorienting for learners accustomed to strictly left-to-right reading.
 
-Despite its complexity, the Thai writing system is fairly phonetic — once you learn the rules, you can pronounce most words from their spelling (though the rules themselves have numerous exceptions, particularly with words borrowed from Pali and Sanskrit).
+Despite its complexity, the Thai [writing](/writing) system is fairly phonetic — once you learn the rules, you can pronounce most words from their spelling (though the rules themselves have numerous exceptions, particularly with words borrowed from Pali and [Sanskrit](/sanskrit)).
 
 ## Grammar: Surprisingly Simple
 
@@ -73,19 +73,19 @@ Tense and number are indicated by context or optional particles. "I eat rice" an
 
 Thai vocabulary reflects centuries of cultural contact:
 
-**Pali and Sanskrit** — Thousands of words related to religion, government, law, and formal register came from these ancient Indian languages through [Buddhism](/buddhism) and Hinduism. Royal vocabulary and religious terminology are heavily Pali/Sanskrit-derived.
+**Pali and Sanskrit** — Thousands of words related to [religion](/religion), [government](/government), law, and formal register came from these ancient Indian languages through [Buddhism](/buddhism) and [Hinduism](/hinduism). Royal vocabulary and religious terminology are heavily Pali/Sanskrit-derived.
 
 **Khmer** — The Khmer Empire's historical influence contributed many words, particularly in government and culture.
 
 **Chinese** — Migration and trade brought Chinese loanwords, especially for food, commerce, and everyday items.
 
-**English** — Modern Thai absorbs English words at a rapid rate, particularly in technology, business, and popular culture. Words like "computer" (khom-phiu-ter) and "internet" (in-ter-net) are used directly.
+**English** — Modern Thai absorbs English words at a rapid rate, particularly in technology, business, and [popular culture](/popular-culture). Words like "computer" (khom-phiu-ter) and "internet" (in-ter-net) are used directly.
 
 ## Thai in Thailand Today
 
 Thailand is linguistically diverse — regional varieties (Isan/Northeastern Thai, Northern Thai, Southern Thai) differ substantially from Central Thai. Isan, spoken by roughly 20 million people in northeastern Thailand, is actually closer to Lao than to Central Thai.
 
-Central Thai (the standard language) is used in education, media, and government nationwide. Most Thai people speak Central Thai plus their regional variety. Code-switching between registers is common — formal Thai (used in official contexts) sounds significantly different from colloquial Bangkok Thai.
+Central Thai (the standard language) is used in [education](/education), media, and government nationwide. Most Thai people speak Central Thai plus their regional variety. Code-switching between registers is common — formal Thai (used in official contexts) sounds significantly different from colloquial Bangkok Thai.
 
 The language also has an elaborate system of politeness and social registers. Pronouns change based on the relative social status of speaker and listener. The particles "khrap" (male speaker) and "kha" (female speaker) are added to sentences to express politeness. Royal vocabulary uses entirely different words for common actions when speaking about or to royalty.
 

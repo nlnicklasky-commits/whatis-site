@@ -5,7 +5,7 @@ description: "Enameling is the art of fusing glass to metal at high temperatures
 category: arts-amp-culture
 tags: ["enameling", "art", "craft", "glass", "metalwork", "jewelry"]
 heroImage: "/images/articles/enameling.webp"
-heroAlt: "A colorful enamel pendant being crafted on a copper surface with glass powder and tools"
+heroAlt: "Editorial photograph representing the concept of enameling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ Russian Fabergé eggs (made between 1885-1917 for the Russian imperial family) r
 
 ## The Techniques
 
-**Cloisonné** ("partitioned" in French) is the most recognized technique. Thin metal wires (cloisons) are bent into shapes and soldered to the base metal, creating cells. Each cell is filled with enamel powder in the desired color and fired. The wires remain visible as outlines separating the colors — think of stained glass windows, but on metal.
+**Cloisonné** ("partitioned" in French) is the most recognized technique. Thin metal wires (cloisons) are bent into shapes and soldered to the base metal, creating cells. Each cell is filled with enamel powder in the desired color and fired. The wires remain visible as outlines separating the colors — think of [stained glass](/stained-glass) windows, but on metal.
 
 **Champlevé** ("raised field") carves or etches recesses into the metal surface, which are filled with enamel and fired. The un-etched metal remains visible as raised lines between enameled areas. It's the reverse of cloisonné — instead of adding dividers, you remove metal to create spaces for color.
 
@@ -59,11 +59,11 @@ Russian Fabergé eggs (made between 1885-1917 for the Russian imperial family) r
 
 **Sgraffito** applies a layer of enamel, fires it, applies a contrasting layer on top, then scratches through the upper layer to reveal the color beneath — like [drawing](/drawing) through paint.
 
-**Painting enamel** (Limoges technique) uses finely ground enamels mixed with oil to paint detailed images directly on a metal surface, firing each layer separately. Multiple firings (sometimes 10-20) build up layers of color and detail. It's the closest enameling technique to traditional painting.
+**[Painting](/painting) enamel** (Limoges technique) uses finely ground enamels mixed with oil to paint detailed images directly on a metal surface, firing each layer separately. Multiple firings (sometimes 10-20) build up layers of color and detail. It's the closest enameling technique to traditional painting.
 
 ## Modern Enameling
 
-Contemporary enamel artists push the medium in directions that would surprise historical practitioners. Large-scale architectural enamel panels survive outdoor exposure for decades without fading. Enamel jewelry ranges from minimalist geometric designs to complex figurative miniatures. Mixed-media artists combine enamel with photography, printmaking, and digital processes.
+Contemporary enamel artists push the medium in directions that would surprise historical practitioners. Large-scale architectural enamel panels survive outdoor exposure for decades without fading. Enamel jewelry ranges from minimalist geometric designs to complex figurative miniatures. Mixed-media artists combine enamel with photography, [printmaking](/printmaking), and digital processes.
 
 The studio enameling community is active and accessible. Organizations like the Enamelist Society promote the craft through exhibitions, publications, and workshops. Small kilns suitable for home studios cost $200-$600. Starter kits with enamel powders, copper blanks, and basic tools run $50-$100. Community studios and art centers increasingly offer enameling classes.
 
@@ -75,4 +75,4 @@ Enameling attracts artists and craftspeople for specific reasons. The colors are
 
 There's also the surprise factor. Enamel colors shift during firing — some dramatically. A powder that looks gray before firing might emerge from the kiln as a brilliant turquoise. Learning how colors behave through firing is experiential knowledge that can't be fully learned from books. You have to fire, observe, fire again, and gradually build an understanding of how heat transforms glass into color.
 
-Enameling sits at the intersection of science and art — understanding the chemistry of glass expansion, metal oxidation, and firing temperature is as important as having a good eye for color. That combination of technical knowledge and artistic vision is what makes enameling simultaneously challenging and deeply rewarding.
+Enameling sits at the intersection of science and art — understanding the [chemistry](/chemistry) of glass expansion, metal oxidation, and firing temperature is as important as having a good eye for color. That combination of technical knowledge and artistic vision is what makes enameling simultaneously challenging and deeply rewarding.

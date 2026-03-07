@@ -5,7 +5,7 @@ description: "Video game journalism covers the gaming industry through reviews, 
 category: everyday-concepts
 tags: ["video game journalism", "gaming media", "game reviews", "industry coverage", "content creation", "criticism"]
 heroImage: "/images/articles/video-game-journalism.webp"
-heroAlt: "Gaming journalist testing a new game on multiple screens with notes and review materials"
+heroAlt: "Editorial photograph representing the concept of video game journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Video Game Journalism?
 
-Video game journalism is the reporting, reviewing, and critical analysis of video games and the gaming industry. It covers everything from review scores that influence millions of purchase decisions to investigative reporting on studio working conditions to cultural criticism examining what games say about society. It's journalism applied to a $180 billion industry — with all the usual tensions between access, independence, and audience expectations.
+Video game journalism is the reporting, reviewing, and critical analysis of video games and the [gaming](/gaming) industry. It covers everything from review scores that influence millions of purchase decisions to investigative reporting on studio working conditions to cultural criticism examining what games say about society. It's journalism applied to a $180 billion industry — with all the usual tensions between access, independence, and audience expectations.
 
 ## What It Actually Covers
 
@@ -41,15 +41,15 @@ Game journalism spans several distinct formats:
 
 **News reporting** — Game announcements, studio acquisitions, release dates, platform launches, earnings reports, and industry events. The Games industry operates with significant secrecy (NDAs and embargoes are standard), making genuine news breaks relatively rare and highly valued.
 
-**Features and longform** — In-depth pieces about game development, studio culture, industry trends, and game history. Jason Schreier's reporting on crunch culture at major studios (Rockstar, BioWare, Naughty Dog) has influenced industry labor practices more than any review score.
+**Features and longform** — In-depth pieces about [game development](/game-development), studio culture, industry trends, and game history. Jason Schreier's reporting on crunch culture at major studios (Rockstar, BioWare, Naughty Dog) has influenced industry labor practices more than any review score.
 
-**Criticism and analysis** — Academic-adjacent writing that examines games as cultural works. What does this game say about violence, identity, politics, or human nature? This category generates the most passionate reader responses — and the most controversy.
+**Criticism and analysis** — Academic-adjacent [writing](/writing) that examines games as cultural works. What does this game say about violence, identity, [politics](/politics), or human nature? This category generates the most passionate reader responses — and the most controversy.
 
 **Guides and walkthroughs** — Practical content helping players work through difficult sections, find secrets, or optimize builds. This category drives enormous traffic and has become central to the business model of major outlets.
 
 ## A Brief History
 
-**Print era (1980s-2000s)** — Magazines like Electronic Gaming Monthly, GamePro, PC Gamer, and Edge were the primary sources of game information. In an era before broadband internet, monthly magazines provided the only previews and reviews most gamers could access. The influence was enormous — a cover story could make a game's marketing campaign.
+**Print era (1980s-2000s)** — Magazines like Electronic Gaming Monthly, GamePro, PC Gamer, and Edge were the primary sources of game information. In an era before broadband internet, monthly magazines provided the only previews and reviews most gamers could access. The influence was enormous — a cover story could make a game's [marketing](/marketing) campaign.
 
 **Web 1.0 (late 1990s-2000s)** — Sites like IGN, GameSpot, and Kotaku emerged, offering faster coverage than print could match. The transition was brutal for magazines — most folded or went digital-only. The web also introduced reader comments, which... changed the active.
 
@@ -75,7 +75,7 @@ The rise of independent reviewers has partly addressed this. A solo YouTuber who
 
 ## The Labor Realities
 
-Game journalism pays poorly relative to the expertise required. Reviewing a 60-hour RPG properly takes weeks of play time plus writing and editing time. Freelance rates for game reviews often work out to well below minimum wage when you calculate hours played plus writing time.
+Game journalism pays poorly relative to the expertise required. Reviewing a 60-hour RPG properly takes weeks of play time plus writing and [editing](/editing) time. Freelance rates for game reviews often work out to well below minimum wage when you calculate hours played plus writing time.
 
 Staff positions are scarce and increasingly unstable. Major outlets have undergone multiple rounds of layoffs. The business model — primarily advertising-driven — struggles as ad rates decline and audience attention fragments across platforms.
 

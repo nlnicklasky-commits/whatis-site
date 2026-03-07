@@ -5,7 +5,7 @@ description: "Philology is the study of language through historical texts and li
 category: history
 tags: ["language", "linguistics", "history", "literature"]
 heroImage: "/images/articles/philology.webp"
-heroAlt: "An ancient manuscript with handwritten text and marginal annotations on aged parchment"
+heroAlt: "Editorial photograph representing the concept of philology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 Philology is the study of language as it appears in written historical texts. It combines close reading, historical analysis, and linguistic expertise to recover the meaning, origins, and transmission of texts — from ancient inscriptions to medieval manuscripts to early printed books.
 
-If linguistics is the science of how language works, philology is the art and science of what people actually wrote — and what happened to those writings across centuries of copying, editing, mistranslating, and forgetting.
+If [linguistics](/linguistics) is the science of how language works, philology is the art and science of what people actually wrote — and what happened to those writings across centuries of copying, [editing](/editing), mistranslating, and forgetting.
 
 ## The Basics: What Philologists Do
 
@@ -49,11 +49,11 @@ Take Homer's *Iliad*. No autograph manuscript exists. The oldest complete manusc
 
 One famous principle: *lectio difficilior potior* — "the more difficult reading is the stronger." If one manuscript has a common, easy word and another has a rare or puzzling one, the harder reading is probably original. Why? Because scribes tended to simplify difficult passages, not complicate simple ones.
 
-### Historical Linguistics
+### [Historical Linguistics](/historical-linguistics)
 
 Philologists trace how languages change over time. English looked nothing like its modern form a thousand years ago. The opening line of *Beowulf* — "Hwat! We Gardena in geardagum" — is Old English, and you'd need serious training to read it. Philologists map these changes systematically: how sounds shift, how grammars simplify or complexify, how words are borrowed from one language into another.
 
-The comparative method, developed by 19th-century philologists, remains one of the most powerful tools in historical linguistics. By comparing cognates — words in related languages that share a common ancestor — scholars can reconstruct proto-languages that were never written down. Nobody ever wrote Proto-Indo-European, but philologists have reconstructed large chunks of its vocabulary and grammar by working backward from Latin, Greek, Sanskrit, Gothic, and other daughter languages.
+The comparative method, developed by 19th-century philologists, remains one of the most powerful tools in historical linguistics. By comparing cognates — words in related languages that share a common ancestor — scholars can reconstruct proto-languages that were never written down. Nobody ever wrote Proto-Indo-European, but philologists have reconstructed large chunks of its vocabulary and [grammar](/grammar) by working backward from Latin, Greek, [Sanskrit](/sanskrit), Gothic, and other daughter languages.
 
 ### Interpretation and Context
 
@@ -71,7 +71,7 @@ In India, Panini's grammar of Sanskrit (roughly 4th century BCE) represents one 
 
 ### Medieval Manuscript Culture
 
-During the European Middle Ages, philological work shifted to monasteries, where monks copied and preserved ancient texts. Without their labor — painstaking, repetitive, and often imperfect — virtually none of the Greek and Roman literature we have today would exist.
+During the European Middle Ages, philological work shifted to monasteries, where monks copied and preserved ancient texts. Without their labor — painstaking, repetitive, and often imperfect — virtually none of the Greek and Roman [literature](/literature) we have today would exist.
 
 The Islamic world was doing similar work. Arab scholars translated Greek philosophical and scientific texts into Arabic during the 8th through 12th centuries, preserving works that had been lost in Europe. When these Arabic translations were later translated into Latin, they reignited European intellectual life — a transmission chain that depended entirely on philological skill.
 
@@ -87,17 +87,17 @@ Philology reached its peak prestige in the 1800s, particularly in Germany. Fried
 
 The Brothers Grimm weren't just fairy tale collectors. Jacob Grimm formulated Grimm's Law (1822), which described systematic sound shifts between Germanic languages and other Indo-European languages. His work demonstrated that language change follows regular, predictable patterns — a finding that put historical linguistics on a scientific footing.
 
-Other giants of the era include Franz Bopp (comparative grammar of Indo-European languages), Karl Lachmann (systematic textual criticism of the New Proof and classical texts), and Friedrich Max Muller (comparative mythology and Sanskrit studies at Oxford).
+Other giants of the era include Franz Bopp (comparative grammar of Indo-European languages), Karl Lachmann (systematic textual criticism of the New Proof and classical texts), and Friedrich Max Muller ([comparative mythology](/comparative-[mythology](/mythology)) and Sanskrit studies at Oxford).
 
 ## Philology vs. Linguistics: The Split
 
 In the 20th century, philology and linguistics diverged — sometimes acrimoniously.
 
-Ferdinand de Saussure's *Course in General Linguistics* (published posthumously in 1916) shifted attention from historical language change to the synchronic study of language as a system. Linguistics became increasingly scientific, focused on universal grammar, phonological rules, and formal syntax. It wanted to be a science like physics — generalizable, theoretical, and not particularly interested in old manuscripts.
+Ferdinand de Saussure's *Course in General Linguistics* (published posthumously in 1916) shifted attention from historical language change to the synchronic study of language as a system. Linguistics became increasingly scientific, focused on universal grammar, phonological rules, and formal syntax. It wanted to be a science like [physics](/physics) — generalizable, theoretical, and not particularly interested in old manuscripts.
 
 Philology, by contrast, remained stubbornly focused on particular texts, specific historical contexts, and the messy realities of how actual human beings used language at particular moments in time.
 
-The split was sharper in English-speaking countries than in continental Europe. In Germany, *Philologie* never lost its prestige, and university departments still carry the name. In the U.S. and U.K., philological methods got absorbed into classics departments, comparative literature programs, and area studies.
+The split was sharper in English-speaking countries than in continental Europe. In Germany, *Philologie* never lost its prestige, and university departments still carry the name. In the U.S. and U.K., philological methods got absorbed into classics departments, [comparative literature](/comparative-literature) programs, and area studies.
 
 ## Famous Philologists You Might Actually Know
 
@@ -115,4 +115,4 @@ Every time someone cites an ancient text in a political argument, misquotes a hi
 
 These are not academic questions. They're questions about how we know what we think we know, and whether the texts we base our beliefs on actually say what we think they say.
 
-Digital humanities have given philology new tools — machine learning for handwriting recognition, statistical analysis for authorship attribution, digital databases that let scholars compare thousands of manuscripts simultaneously. The methods are new, but the questions are the same ones Aristarchus was asking in Alexandria 2,200 years ago.
+Digital humanities have given philology new tools — [machine learning](/machine-learning) for handwriting recognition, statistical analysis for authorship attribution, digital databases that let scholars compare thousands of manuscripts simultaneously. The methods are new, but the questions are the same ones Aristarchus was asking in Alexandria 2,200 years ago.

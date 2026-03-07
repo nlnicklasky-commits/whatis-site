@@ -5,7 +5,7 @@ description: "Nuclear engineering applies nuclear physics to energy, medicine, a
 category: technology
 tags: ["nuclear engineering", "nuclear power", "nuclear physics", "radiation", "nuclear safety", "energy", "engineering"]
 heroImage: "/images/articles/nuclear-engineering-hero.webp"
-heroAlt: "Nuclear power plant cooling towers with engineering diagrams overlaid"
+heroAlt: "Editorial photograph representing the concept of nuclear engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Nuclear engineering is the branch of engineering that applies the physics of ato
 
 The story of nuclear engineering begins — somewhat ominously — with a squash court in Chicago. On December 2, 1942, physicist Enrico Fermi and his team achieved the first controlled, self-sustaining nuclear chain reaction beneath the bleachers of the University of Chicago's Stagg Field. That experiment, called Chicago Pile-1, used roughly 45,000 graphite blocks and 19,000 pieces of uranium. No containment structure. No cooling system. Just a brilliant team betting that their calculations were right.
 
-They were. And that moment split engineering history in two: before controlled nuclear reactions, and after.
+They were. And that moment split [engineering history](/engineering-history) in two: before controlled nuclear reactions, and after.
 
 The Manhattan Project accelerated nuclear technology at a pace that remains almost unmatched in engineering history. Within three years, the U.S. had built entire cities — Oak Ridge, Hanford, Los Alamos — dedicated to nuclear work. Over 125,000 people worked on the project at its peak. The technology was developed for weapons first, but engineers immediately recognized the potential for peaceful applications.
 
@@ -198,7 +198,7 @@ The field offers several career tracks:
 
 **Regulatory** — The Nuclear Regulatory Commission employs hundreds of engineers who review designs, inspect plants, and develop safety standards.
 
-**National laboratories** — Los Alamos, Oak Ridge, Idaho National Laboratory, and others conduct research in fusion, advanced reactors, nuclear security, and materials science.
+**National laboratories** — Los Alamos, Oak Ridge, Idaho National Laboratory, and others conduct research in fusion, advanced reactors, nuclear security, and [materials science](/materials-science).
 
 **Medical physics** — Designing and operating radiation therapy equipment and diagnostic imaging systems. This growing field bridges nuclear engineering and healthcare.
 
@@ -212,7 +212,7 @@ Construction costs for large plants have been notoriously difficult to control. 
 
 Workforce demographics pose another challenge. Many experienced nuclear engineers are approaching retirement, and the field needs to attract younger talent. The good news: climate concerns are driving renewed interest, and nuclear engineering programs are seeing increased enrollment.
 
-Waste management remains politically unresolved in most countries, even though the technical solutions exist. And fusion — the technology that could provide nearly unlimited clean energy — still requires significant [engineering](/engineering) breakthroughs before commercialization.
+[Waste management](/waste-management) remains politically unresolved in most countries, even though the technical solutions exist. And fusion — the technology that could provide nearly unlimited clean energy — still requires significant [engineering](/engineering) breakthroughs before commercialization.
 
 ## Why Nuclear Engineering Still Matters
 

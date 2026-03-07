@@ -5,7 +5,7 @@ description: "Film criticism analyzes and evaluates movies through artistic, cul
 category: arts-amp-culture
 tags: ["film", "cinema", "review", "analysis", "evaluation", "media studies"]
 heroImage: "/images/articles/film-criticism.webp"
-heroAlt: "Vintage cinema projector casting light in a dark theater"
+heroAlt: "Editorial photograph representing the concept of film criticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Film Criticism?
 
-Film criticism is the analysis and evaluation of movies as works of art, entertainment, and cultural expression. It ranges from newspaper reviews telling you whether to buy a ticket to dense academic essays deconstructing camera angles and editing rhythms. At its best, film criticism doesn't just tell you whether a movie is good — it changes how you see movies entirely.
+Film criticism is the analysis and evaluation of movies as works of art, entertainment, and cultural expression. It ranges from newspaper reviews telling you whether to buy a ticket to dense academic essays deconstructing camera angles and [editing](/editing) rhythms. At its best, film criticism doesn't just tell you whether a movie is good — it changes how you see movies entirely.
 
 ## What Critics Actually Do
 
-A film critic watches a movie — often multiple times — and writes about it. That sounds simple. It isn't. Good criticism requires knowledge of film history, technical understanding of cinematography, editing, sound design, and performance, sensitivity to cultural context, and the writing ability to communicate complex ideas clearly.
+A film critic watches a movie — often multiple times — and writes about it. That sounds simple. It isn't. Good criticism requires knowledge of [film history](/film-history), technical understanding of [cinematography](/cinematography), editing, [sound design](/sound-design), and performance, sensitivity to cultural context, and the [writing](/writing) ability to communicate complex ideas clearly.
 
 Critics ask questions most viewers don't: Why did the director choose that camera angle? What does the lighting suggest about the character's emotional state? How does the editing rhythm create tension or release? What cultural assumptions does the film reinforce or challenge?
 
-The answers to these questions constitute analysis — the core of criticism. A review might tell you the acting is good. Criticism explains *how* the acting achieves its effects and why those choices matter.
+The answers to these questions constitute analysis — the core of criticism. A review might tell you the [acting](/acting) is good. Criticism explains *how* the acting achieves its effects and why those choices matter.
 
 ## A Short History
 
@@ -57,17 +57,17 @@ American film criticism hit its peak influence between roughly 1960 and 2000. **
 
 **Journalistic criticism** is what most people encounter — newspaper and magazine reviews, online reviews, YouTube video essays. It's timely, accessible, and consumer-oriented. The best journalistic critics manage to serve both the "should I see it?" question and the deeper analytical one.
 
-**Academic criticism** appears in journals and university presses. It applies theoretical frameworks — feminism, psychoanalysis, postcolonialism, semiotics — to films. Academic writing tends to be denser and less concerned with whether you'll enjoy the movie. It's aimed at other scholars.
+**Academic criticism** appears in journals and university presses. It applies theoretical frameworks — feminism, [psychoanalysis](/psychoanalysis), postcolonialism, semiotics — to films. Academic writing tends to be denser and less concerned with whether you'll enjoy the movie. It's aimed at other scholars.
 
-**Video essays** have exploded since the 2010s. YouTube channels like Every Frame a Painting, Lessons from the Screenplay, and Now You See It use clips and voiceover to analyze technique in ways that print criticism can't match. Showing a specific editing cut while explaining why it works is more effective than describing it in words.
+**Video essays** have exploded since the 2010s. YouTube channels like Every Frame a [Painting](/painting), Lessons from the Screenplay, and Now You See It use clips and voiceover to analyze technique in ways that print criticism can't match. Showing a specific editing cut while explaining why it works is more effective than describing it in words.
 
 ## The Rotten Tomatoes Effect
 
-Aggregation sites have changed the field dramatically. Rotten Tomatoes (launched 1998) and Metacritic (launched 2001) compile critics' reviews into single scores. A film's Rotten Tomatoes percentage has become a major marketing tool — or liability.
+Aggregation sites have changed the field dramatically. Rotten Tomatoes (launched 1998) and Metacritic (launched 2001) compile critics' reviews into single scores. A film's Rotten Tomatoes percentage has become a major [marketing](/marketing) tool — or liability.
 
 The problem, critics argue, is reductionism. A nuanced review that praises a film's ambition while noting its flaws gets reduced to "fresh" or "rotten." Two critics might give a film 6/10 for completely different reasons, but both count the same in the aggregate. The score captures consensus but loses specificity.
 
-Studios have adapted. Marketing campaigns now trumpet Rotten Tomatoes scores. Some studios have reportedly pressured critics to post positive reviews before release. The tail is wagging the dog — a system designed to summarize criticism is now influencing how films are made and marketed.
+Studios have adapted. Marketing campaigns now [trumpet](/trumpet) Rotten Tomatoes scores. Some studios have reportedly pressured critics to post positive reviews before release. The tail is wagging the dog — a system designed to summarize criticism is now influencing how films are made and marketed.
 
 ## Does Criticism Still Matter?
 

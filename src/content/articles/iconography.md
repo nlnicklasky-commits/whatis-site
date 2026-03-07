@@ -5,7 +5,7 @@ description: "Iconography is the study of visual symbols and images in art. Lear
 category: everyday-concepts
 tags: ["iconography", "art history", "symbols", "visual culture", "religious art"]
 heroImage: "/images/articles/iconography.webp"
-heroAlt: "Medieval religious painting with symbolic elements labeled for analysis"
+heroAlt: "Editorial photograph representing the concept of iconography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Iconography?
 
-Iconography is the study of images, symbols, and visual conventions in art — what they depict, what they mean, and how viewers are expected to interpret them. When you see a painting of a woman blindfolded, holding scales and a sword, you recognize her as Lady Justice. That recognition — understanding what visual elements represent beyond their literal appearance — is iconography in action.
+Iconography is the study of images, symbols, and visual conventions in art — what they depict, what they mean, and how viewers are expected to interpret them. When you see a [painting](/painting) of a woman blindfolded, holding scales and a sword, you recognize her as Lady Justice. That recognition — understanding what visual elements represent beyond their literal appearance — is iconography in action.
 
 ## Reading Pictures Like Text
 
-For most of human history, visual images served the same purpose that text serves now: communicating ideas, stories, and values. In medieval Europe, where literacy rates hovered around 5 to 10%, church paintings and sculptures were not just decoration. They were education. Every saint had identifying attributes — Saint Peter carried keys, Saint Catherine had a wheel, Saint Sebastian was pierced with arrows. A literate viewer could "read" a painting like a book.
+For most of human history, visual images served the same purpose that text serves now: communicating ideas, stories, and values. In medieval Europe, where literacy rates hovered around 5 to 10%, church paintings and sculptures were not just decoration. They were [education](/education). Every saint had identifying attributes — Saint Peter carried keys, Saint Catherine had a wheel, Saint Sebastian was pierced with arrows. A literate viewer could "read" a painting like a book.
 
 The art historian Erwin Panofsky formalized this approach in the 1930s, describing three levels of visual interpretation:
 
@@ -51,7 +51,7 @@ Some iconographic symbols are nearly universal. Others are culture-specific and 
 
 **Colors** carry meaning across many traditions. White typically represents purity. Red suggests passion, blood, or martyrdom. Blue — especially in Western Christian art — is associated with the Virgin Mary (partly because blue pigment, made from lapis lazuli, was the most expensive and therefore reserved for the most important figures). Gold backgrounds in Byzantine icons represent divine light.
 
-**Animals** function as symbols throughout art history. The lion represents courage and royalty. The serpent signals temptation or evil in Christian contexts but wisdom and healing in Greek tradition (the caduceus). The peacock symbolizes resurrection in early Christian art (because its flesh was believed not to decay).
+**Animals** function as symbols throughout [art history](/art-history). The lion represents courage and royalty. The serpent signals temptation or evil in Christian contexts but wisdom and healing in Greek tradition (the caduceus). The peacock symbolizes resurrection in early Christian art (because its flesh was believed not to decay).
 
 **Objects** encode specific meanings. A skull (memento mori) reminds viewers of death. An hourglass represents the passage of time. A mirror suggests vanity. A book can represent learning, faith, or divine law depending on context.
 
@@ -77,11 +77,11 @@ Every culture develops its own visual vocabulary:
 
 **Egyptian iconography** was remarkably stable over 3,000 years. The ankh symbolized life. The eye of Horus represented protection. Deities were consistently depicted with specific animal heads — Anubis with a jackal head, Thoth with an ibis head, Horus with a falcon head.
 
-**Chinese and Japanese art** use iconographic conventions around bamboo (resilience), cranes (longevity), dragons (imperial power in China, water deities in Japan), and seasonal flowers tied to months and virtues.
+**Chinese and [Japanese art](/japanese-art)** use iconographic conventions around bamboo (resilience), cranes (longevity), dragons (imperial power in China, water deities in Japan), and seasonal flowers tied to months and virtues.
 
 ## Why Iconography Matters Today
 
-Understanding iconography makes you a better reader of visual culture — and visual culture is the dominant communication mode of the 21st century. You encounter thousands of images daily: advertisements, social media posts, news photographs, brand logos, political cartoons. Each one uses visual conventions to communicate meaning beyond what is literally shown.
+Understanding iconography makes you a better reader of visual culture — and visual culture is the dominant communication mode of the 21st century. You encounter thousands of images daily: advertisements, social media posts, news photographs, brand logos, [political cartoons](/political-cartoons). Each one uses visual conventions to communicate meaning beyond what is literally shown.
 
 When a political candidate stands in front of a flag, that is iconography. When a luxury brand uses black and gold in its packaging, that is iconography. When a film shows rain during a funeral scene, that is iconography. The symbols change over time, but the practice of encoding meaning in images is as old as art itself.
 

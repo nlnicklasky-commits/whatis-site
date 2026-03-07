@@ -5,7 +5,7 @@ description: "Cat breeding is the intentional mating of pedigreed cats to produc
 category: everyday-concepts
 tags: ["cat breeding", "cats", "pedigree cats", "animal husbandry", "pets", "feline genetics"]
 heroImage: "/images/articles/cat-breeding.webp"
-heroAlt: "Persian cat with kittens resting on a soft blanket in a home setting"
+heroAlt: "Editorial photograph representing the concept of cat breeding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Cat Breeding?
 
-Cat breeding is the practice of selectively mating pedigreed cats to produce offspring that meet specific breed standards — defined physical characteristics, coat types, temperaments, and health profiles. It's part genetics, part animal husbandry, part obsessive record-keeping, and — when done responsibly — a genuine commitment to preserving and improving specific feline breeds.
+Cat breeding is the practice of selectively mating pedigreed cats to produce offspring that meet specific breed standards — defined physical characteristics, coat types, temperaments, and health profiles. It's part [genetics](/genetics), part animal husbandry, part obsessive record-keeping, and — when done responsibly — a genuine commitment to preserving and improving specific feline breeds.
 
 ## A Surprisingly Recent Hobby
 
 Humans have lived with cats for roughly 10,000 years, but cat breeding as an organized activity is only about 150 years old. The first cat show was held at London's Crystal Palace in 1871, organized by Harrison Weir — often called the father of the cat fancy. Before that, cats were valued primarily as mousers, and "breeds" as we know them barely existed.
 
-Compare that to dogs, which have been selectively bred for specific tasks (herding, guarding, hunting) for thousands of years. Cats domesticated themselves — they moved into grain-storing agricultural communities because mice were there — and humans mostly let them be cats. The idea of breeding cats to specific appearance standards is, in evolutionary terms, a brand-new experiment.
+Compare that to dogs, which have been selectively bred for specific tasks (herding, guarding, [hunting](/hunting)) for thousands of years. Cats domesticated themselves — they moved into grain-storing agricultural communities because mice were there — and humans mostly let them be cats. The idea of breeding cats to specific appearance standards is, in evolutionary terms, a brand-new experiment.
 
 Today, the Cat Fanciers' Association (CFA) recognizes 45 breeds, while The International Cat Association (TICA) recognizes 73. Despite this, purebred cats represent only about 3-5% of the domestic cat population. The vast majority of the world's estimated 400 million pet cats are mixed breeds.
 
@@ -69,7 +69,7 @@ Responsible breeders don't release kittens to new homes until 12-16 weeks of age
 
 **Hairless and unusual** — Sphynx cats (not actually hairless — covered in fine peach fuzz), Scottish Folds (folded ears caused by a cartilage mutation), Munchkins (short legs, controversial for potential health issues).
 
-## The Ethics Question
+## The [Ethics](/ethics) Question
 
 Cat breeding sits in an uncomfortable ethical space. Shelters in the U.S. take in roughly 3.2 million cats annually, and approximately 530,000 are euthanized each year (ASPCA estimates). Against that backdrop, intentionally producing more cats requires justification.
 
@@ -85,4 +85,4 @@ Cat shows are where breeders compete. Judges evaluate cats against breed standar
 
 The show world has its own culture: grooming rituals (some breeds require hours of bathing and blow-drying before a show), travel circuits, and the intense but oddly warm community of people who arrange their weekends around [animal](/animal-behavior) competitions. Show halls are surreal experiences — hundreds of meticulously groomed cats in decorated cages, judges handling each one with practiced expertise, and exhibitors who can discourse for hours about the precise angle a Siamese ear should achieve.
 
-Whether you're drawn to a specific breed's characteristics or simply curious about what humans have done with 150 years of selective cat breeding, the cat fancy world is a fascinating intersection of genetics, aesthetics, animal welfare, and passionate hobbyism.
+Whether you're drawn to a specific breed's characteristics or simply curious about what humans have done with 150 years of selective cat breeding, the cat fancy world is a fascinating intersection of genetics, [aesthetics](/aesthetics), animal welfare, and passionate hobbyism.

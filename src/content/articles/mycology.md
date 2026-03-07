@@ -5,7 +5,7 @@ description: "Mycology is the scientific study of fungi — mushrooms, molds, an
 category: science
 tags: ["mycology", "fungi", "mushrooms", "biology", "ecology", "decomposers", "biotechnology"]
 heroImage: "/images/articles/mycology-hero.webp"
-heroAlt: "Diverse mushrooms growing on a mossy forest floor in dappled light"
+heroAlt: "Editorial photograph representing the concept of mycology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -93,7 +93,7 @@ When Antonie van Leeuwenhoek and Robert Hooke started looking through microscope
 
 ### Classification Struggles
 
-For centuries, fungi were classified as plants. They grow from the ground, they don't move, they seem plant-like. But as [biology](/biology) advanced, the differences became impossible to ignore. Fungi don't photosynthesize. Their cell walls contain chitin (the same material in insect exoskeletons) rather than cellulose. Their cellular organization, biochemistry, and genetics are distinct from plants.
+For centuries, fungi were classified as plants. They grow from the ground, they don't move, they seem plant-like. But as [biology](/biology) advanced, the differences became impossible to ignore. Fungi don't photosynthesize. Their cell walls contain chitin (the same material in insect exoskeletons) rather than cellulose. Their cellular organization, [biochemistry](/biochemistry), and [genetics](/genetics) are distinct from plants.
 
 In 1969, Robert Whittaker proposed the five-kingdom classification system, finally giving fungi their own kingdom. Molecular evidence in the 1990s and 2000s confirmed that fungi are more closely related to animals than to plants — a finding that still catches people off guard.
 
@@ -121,7 +121,7 @@ Basidiomycetes produce spores on club-shaped structures called basidia, typicall
 
 ### Zygomycota, Chytridiomycota, and Others
 
-Several smaller phyla round out the fungal kingdom. Zygomycetes include common bread mold (*Rhizopus stolonifer*). Chytrids are the only fungi that produce flagellated (swimming) spores, and they've gained notoriety for *Batrachochytrium dendrobatidis*, the chytrid fungus causing devastating amphibian declines worldwide — it's driven multiple frog species to extinction.
+Several smaller phyla round out the fungal kingdom. Zygomycetes include common bread mold (*Rhizopus stolonifer*). Chytrids are the only fungi that produce flagellated ([swimming](/swimming)) spores, and they've gained notoriety for *Batrachochytrium dendrobatidis*, the chytrid fungus causing devastating amphibian declines worldwide — it's driven multiple frog species to extinction.
 
 ## Fungi and Medicine
 
@@ -151,7 +151,7 @@ This research has helped drive a broader cultural shift in how fungi are perceiv
 
 Beyond the obvious — eating mushrooms directly — fungi are embedded throughout the human food system.
 
-**Fermentation.** Yeast (*Saccharomyces cerevisiae*) makes bread rise, converts grape juice into wine, and turns barley malt into beer. Different yeast strains produce different flavors, which is why craft breweries obsess over their yeast cultures. Koji (*Aspergillus oryzae*) is essential to soy sauce, miso, sake, and many other Asian fermented foods.
+**[Fermentation](/fermentation).** Yeast (*Saccharomyces cerevisiae*) makes bread rise, converts grape juice into wine, and turns barley malt into beer. Different yeast strains produce different flavors, which is why craft breweries obsess over their yeast cultures. Koji (*Aspergillus oryzae*) is essential to soy sauce, miso, sake, and many other Asian fermented foods.
 
 **Cheese.** Molds give many cheeses their distinctive flavors and textures. *Penicillium roqueforti* creates the blue veins in Roquefort, Gorgonzola, and Stilton. *Penicillium camemberti* forms the white rind on Brie and Camembert. Cheese-making is, quite literally, controlled mold cultivation.
 
@@ -171,7 +171,7 @@ The logic is straightforward: fungi evolved to decompose complex organic molecul
 
 ### Mycelium Materials
 
-Companies are using mycelium to grow packaging materials, construction insulation, acoustic panels, and even leather alternatives. Ecovative Design pioneered mycelium packaging as a replacement for polystyrene foam. The process involves growing mycelium on agricultural waste (like corn stalks) in molds — the mycelium binds the substrate into a solid, lightweight material that's completely biodegradable.
+Companies are using mycelium to grow packaging materials, [construction](/construction) insulation, acoustic panels, and even leather alternatives. Ecovative Design pioneered mycelium packaging as a replacement for polystyrene foam. The process involves growing mycelium on agricultural waste (like corn stalks) in molds — the mycelium binds the substrate into a solid, lightweight material that's completely biodegradable.
 
 Mycelium-based leather (marketed under names like Mylo and Reishi) is being adopted by fashion brands looking for sustainable alternatives to both animal leather and petroleum-based synthetics. Bolt Threads' Mylo material has been used by Stella McCartney and Adidas.
 
@@ -191,7 +191,7 @@ This is changing slowly. In 2018, the Kew Royal Botanic Gardens' *State of the W
 
 Mycology is unusually accessible for a scientific field. You don't need a lab to start.
 
-**Foraging and identification.** Joining a local mycological society (most regions have one) and going on group forays is the classic entry point. Learning to identify mushrooms in the field — examining spore prints, gill attachment, cap texture, habitat associations — develops observational skills that are genuinely useful.
+**[Foraging](/foraging) and identification.** Joining a local mycological society (most regions have one) and going on group forays is the classic entry point. Learning to identify mushrooms in the field — examining spore prints, gill attachment, cap texture, habitat associations — develops observational skills that are genuinely useful.
 
 A word of caution: some mushrooms are deadly. *Amanita phalloides* (the death cap) and *Amanita ocreata* (the destroying angel) can cause fatal liver failure from a single meal, and they can look similar to edible species to inexperienced eyes. Never eat a wild mushroom unless you're absolutely certain of the identification. "When in doubt, throw it out" is the golden rule.
 
@@ -199,7 +199,7 @@ A word of caution: some mushrooms are deadly. *Amanita phalloides* (the death ca
 
 **Growing mushrooms.** Home mushroom cultivation — starting with oyster mushrooms, which are forgiving and fast-growing — provides hands-on understanding of fungal biology. Kits are widely available for $20-30, and the process of watching mycelium colonize a substrate and produce fruiting bodies is frankly mesmerizing.
 
-**Formal study.** For those pursuing mycology professionally, relevant degrees include [biology](/biology), microbiology, ecology, and [botany](/botany) (many botany departments include mycology). Graduate programs focused specifically on mycology exist but are relatively few — most mycologists train within broader biology programs.
+**Formal study.** For those pursuing mycology professionally, relevant degrees include [biology](/biology), [microbiology](/microbiology), ecology, and [botany](/botany) (many botany departments include mycology). Graduate programs focused specifically on mycology exist but are relatively few — most mycologists train within broader biology programs.
 
 ## Key Takeaways
 

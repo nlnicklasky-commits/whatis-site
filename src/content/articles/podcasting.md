@@ -5,7 +5,7 @@ description: "Podcasting is creating and distributing audio content online via R
 category: technology
 tags: ["audio", "digital media", "content creation", "broadcasting", "entertainment", "information"]
 heroImage: "/images/articles/podcasting-hero.webp"
-heroAlt: "Professional podcast recording setup with microphone, headphones, and audio mixer"
+heroAlt: "Editorial photograph representing the concept of podcasting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Podcasting?
 
-Podcasting is the creation and distribution of episodic audio content that listeners can subscribe to, download, and listen to at their convenience. The term blends "iPod" and "broadcasting," though you've never needed an iPod to listen to one. Fundamentally, podcasting is just an RSS feed with audio files attached — but that simple technical foundation has created a medium that reaches over 500 million people worldwide.
+Podcasting is the creation and distribution of episodic audio content that listeners can subscribe to, download, and listen to at their convenience. The term blends "iPod" and "[broadcasting](/broadcasting)," though you've never needed an iPod to listen to one. Fundamentally, podcasting is just an RSS feed with audio files attached — but that simple technical foundation has created a medium that reaches over 500 million people worldwide.
 
 ## How We Got Here: A Quick History
 
@@ -51,7 +51,7 @@ But early podcasting was rough. Audio quality was often terrible. Distribution w
 
 Everything changed in October 2014 when *Serial* — a true-crime investigation by Sarah Koenig and the team behind *This American Life* — premiered. It became the fastest podcast ever to reach 5 million downloads on iTunes. By the end of its first season, it had been downloaded over 175 million times.
 
-*Serial* proved three things: podcasts could attract massive mainstream audiences, storytelling formats worked brilliantly in audio, and the medium could generate real cultural conversation. Every major media company suddenly wanted a podcast strategy.
+*Serial* proved three things: podcasts could attract massive mainstream audiences, [storytelling](/storytelling) formats worked brilliantly in audio, and the medium could generate real cultural conversation. Every major media company suddenly wanted a podcast strategy.
 
 ### The Industry Explodes
 
@@ -59,7 +59,7 @@ From 2015 onward, podcasting grew explosively. Spotify entered the market aggres
 
 By 2025, there were over 4 million podcasts registered worldwide with more than 100 million episodes. Edison Research found that 42% of Americans aged 12 and older had listened to a podcast in the past month — up from 9% in 2008.
 
-## The Technical Architecture
+## The Technical [Architecture](/architecture)
 
 Under the hood, podcasting is elegantly simple. Understanding the technical layer helps explain why the medium works the way it does.
 
@@ -97,7 +97,7 @@ Common formats include:
 
 **Narrative/storytelling** — heavily produced, often scripted, with music, sound effects, and multiple voices. *Serial*, *Radiolab*, and *S-Town* exemplify this format. Production-intensive but capable of creating powerful listening experiences.
 
-**Panel/roundtable** — multiple co-hosts discussing topics. Provides diverse perspectives and natural conversational energy. Scheduling can be a logistical nightmare.
+**Panel/roundtable** — multiple co-hosts discussing topics. Provides diverse perspectives and natural conversational energy. [Scheduling](/scheduling) can be a logistical nightmare.
 
 **Hybrid** — mixing formats within a show or across episodes. Increasingly common as podcasters experiment.
 
@@ -124,14 +124,14 @@ Raw recordings need work. At minimum, you'll want to:
 - Remove long pauses, "ums," and verbal stumbles
 - Cut tangents that don't serve the episode
 - Level audio so all speakers are at consistent volume
-- Add intro/outro music and any sound design elements
-- Apply basic [audio-engineering](/audio-engineering) processing: noise reduction, compression, EQ
+- Add intro/outro music and any [sound design](/sound-design) elements
+- Apply basic [audio-engineering](/audio-[engineering](/engineering)) processing: noise reduction, compression, EQ
 
 The amount of editing varies enormously by format. A casual conversation podcast might get a light cleanup in 30 minutes. A narrative production like *Radiolab* reportedly spends 40+ hours editing a single episode.
 
 Automated tools are changing the editing field. Descript lets you edit audio by editing a transcript — delete words from the text and they vanish from the audio. Adobe Podcast's AI tools can enhance audio quality, remove background noise, and even clone voices for corrections. These tools aren't replacing skilled editors, but they're lowering the barrier for smaller productions.
 
-### Publishing and Distribution
+### [Publishing](/publishing) and Distribution
 
 Once your episode is edited and exported as an MP3 or M4A file (MP3 at 128 kbps mono is the standard for spoken-word content), you upload it to your hosting platform. The platform updates your RSS feed, and within minutes to hours, the episode appears in all the directories that index your feed.
 
@@ -185,7 +185,7 @@ Cross-promotion (appearing as a guest on other podcasts), social media clips, SE
 
 The boundary between podcasting and video content has blurred significantly. Many top podcasts now record video simultaneously, publishing to YouTube alongside their audio feed. *The Joe Rogan Experience*, which started as an audio-only podcast, now gets more views on YouTube than audio downloads.
 
-YouTube is now the most-used platform for podcast consumption among 18-34 year olds, according to Edison Research. This has forced podcasters to think about visual presentation — set design, camera angles, lighting — in addition to audio quality.
+YouTube is now the most-used platform for podcast consumption among 18-34 year olds, according to Edison Research. This has forced podcasters to think about visual presentation — [set design](/set-design), camera angles, lighting — in addition to audio quality.
 
 Purists argue that video podcasts aren't really podcasts — they're just YouTube videos distributed via RSS. The distinction matters less to listeners than to industry taxonomists. The practical reality is that modern podcasting increasingly means producing content for both audio and video distribution.
 

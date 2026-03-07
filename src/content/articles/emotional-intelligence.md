@@ -5,7 +5,7 @@ description: "Emotional intelligence is the ability to recognize, understand, an
 category: psychology
 tags: ["emotional intelligence", "eq", "emotions", "self-awareness", "empathy", "social skills", "psychology"]
 heroImage: "/images/articles/emotional-intelligence-hero.webp"
-heroAlt: "Abstract illustration representing emotional awareness and human connection"
+heroAlt: "Editorial photograph representing the concept of emotional intelligence"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -79,14 +79,14 @@ The most complex branch. Managing emotions means regulating your own emotional s
 
 - **Down-regulating** intense negative emotions (calming anger before responding to a provocative email)
 - **Up-regulating** useful emotions (generating enthusiasm before a motivational presentation)
-- **Maintaining** appropriate emotional states (sustaining focus and patience during a long negotiation)
+- **Maintaining** appropriate emotional states (sustaining focus and patience during a long [negotiation](/negotiation))
 - **Strategic expression** (choosing when and how to express emotions for desired effects)
 
-Notice: managing doesn't mean suppressing. Research consistently shows that chronic emotional suppression is psychologically costly — it increases physiological stress, reduces memory for social interactions, and makes social partners feel less comfortable. Effective emotion management uses strategies like reappraisal (reinterpreting the situation), problem-solving (addressing the cause), and appropriate expression rather than blanket suppression.
+Notice: managing doesn't mean suppressing. Research consistently shows that chronic emotional suppression is psychologically costly — it increases physiological stress, reduces memory for social interactions, and makes social partners feel less comfortable. Effective emotion [management](/management) uses strategies like reappraisal (reinterpreting the situation), problem-solving (addressing the cause), and appropriate expression rather than blanket suppression.
 
 ## Goleman's Model: The Popular Version
 
-Daniel Goleman's model, while less scientifically rigorous than Salovey and Mayer's, has been enormously influential in business and education. He describes five components:
+Daniel Goleman's model, while less scientifically rigorous than Salovey and Mayer's, has been enormously influential in business and [education](/education). He describes five components:
 
 1. **Self-awareness** — knowing your emotions, strengths, weaknesses, values, and impact on others
 2. **Self-regulation** — controlling disruptive impulses, adapting to change, maintaining integrity
@@ -96,7 +96,7 @@ Daniel Goleman's model, while less scientifically rigorous than Salovey and Maye
 
 Goleman's big claim — that emotional intelligence matters more than IQ for success — is an overstatement of the evidence. But the weaker claim — that emotional intelligence significantly predicts workplace outcomes beyond what IQ predicts — has substantial research support. A meta-analysis by O'Boyle et al. (2011) found that emotional intelligence predicted job performance even after controlling for cognitive ability and personality traits.
 
-## The Neuroscience Behind EQ
+## The [Neuroscience](/neuroscience) Behind EQ
 
 Emotional intelligence isn't just a psychological construct — it maps onto identifiable brain systems.
 
@@ -118,11 +118,11 @@ The neuroscience of empathy is more complex than the mirror neuron story alone s
 
 The connection between the prefrontal cortex (planning, reasoning, impulse control) and the limbic system (emotion generation, motivation, memory) is central to emotional regulation. Stronger connectivity between these regions is associated with better emotion regulation and higher measured emotional intelligence.
 
-This connectivity develops through adolescence and early adulthood — which is part of why teenagers have more difficulty with emotion regulation than adults. It also changes with experience: meditation, therapy, and deliberate practice of emotion regulation strategies can strengthen these pathways.
+This connectivity develops through adolescence and early adulthood — which is part of why teenagers have more difficulty with emotion regulation than adults. It also changes with experience: [meditation](/meditation), therapy, and deliberate practice of emotion regulation strategies can strengthen these pathways.
 
 ## EQ in the Workplace
 
-### Leadership
+### [Leadership](/leadership)
 
 Research consistently links emotional intelligence to leadership effectiveness. Leaders with higher EQ create psychologically safer team environments, handle conflict more constructively, and adapt their communication style to different team members' needs.
 
@@ -140,7 +140,7 @@ The absence of team emotional intelligence is painfully visible: unaddressed res
 
 Some organizations now include emotional intelligence assessments in hiring processes, particularly for roles involving significant interpersonal interaction — management, sales, customer service, healthcare. The evidence supporting this practice is mixed: while emotional intelligence predicts performance in these roles, many assessment tools lack the validity needed for high-stakes selection decisions.
 
-Development programs are on stronger ground. Coaching programs targeting specific emotional intelligence competencies — active listening, empathy, conflict management, self-awareness — show measurable improvements when sustained over months rather than delivered as one-time workshops.
+Development programs are on stronger ground. [Coaching](/coaching) programs targeting specific emotional intelligence competencies — active listening, empathy, conflict management, self-awareness — show measurable improvements when sustained over months rather than delivered as one-time workshops.
 
 ## The Critics Have Points
 

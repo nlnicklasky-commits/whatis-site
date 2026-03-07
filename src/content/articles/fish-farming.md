@@ -5,7 +5,7 @@ description: "Fish farming raises fish in controlled environments for food. Lear
 category: science
 tags: ["aquaculture", "fisheries", "food production", "sustainability", "seafood", "mariculture"]
 heroImage: "/images/articles/fish-farming-hero.webp"
-heroAlt: "Aerial view of circular fish farm pens in coastal waters"
+heroAlt: "Editorial photograph representing the concept of fish farming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ Pond systems in southern China have been operating for over 2,500 years. The tra
 
 Modern pond systems are more intensive. Aeration equipment pumps oxygen into the water. Automatic feeders deliver formulated feed at precise intervals. Water quality monitors track dissolved oxygen, ammonia, pH, and temperature. The Mississippi Delta catfish industry—once the largest [agriculture](/agriculture)-based aquaculture sector in the U.S.—raises channel catfish in purpose-built ponds averaging 4-8 hectares.
 
-The advantages of ponds are simplicity, low capital cost, and scalability. The disadvantages: they require large land areas, are vulnerable to weather and disease, and waste management can be difficult—nitrogen and phosphorus from fish waste can pollute surrounding waterways.
+The advantages of ponds are simplicity, low capital cost, and scalability. The disadvantages: they require large land areas, are vulnerable to weather and disease, and [waste management](/waste-management) can be difficult—nitrogen and phosphorus from fish waste can pollute surrounding waterways.
 
 ### Net Pens and Cages
 
@@ -113,7 +113,7 @@ This creates a mathematical problem. If it takes 1.5 kg of wild fish to produce 
 
 The industry has made significant progress. The fish-in/fish-out ratio for salmon has dropped from about 7.5:1 in the 1990s to about 1.2:1 today through several innovations:
 
-**Plant-based protein substitution**: Soy, corn gluten, canola meal, and other plant proteins now replace 60-70% of the fishmeal in salmon feed. The challenge is balancing plant ingredients with fish nutrition requirements—particularly omega-3 fatty acids, which plants don't provide.
+**Plant-based protein substitution**: Soy, corn gluten, canola meal, and other plant proteins now replace 60-70% of the fishmeal in salmon feed. The challenge is balancing plant ingredients with fish [nutrition](/nutrition) requirements—particularly omega-3 fatty acids, which plants don't provide.
 
 **Insect meal**: Black soldier fly larvae, fed on organic waste, produce protein and fat that can replace fishmeal. Several companies are scaling insect meal production for aquaculture feed.
 
@@ -135,7 +135,7 @@ Crowding fish in farms creates disease risks, just as crowding any animals does.
 
 The industry is moving toward prevention rather than treatment. Vaccines are now routine for salmon—Norwegian salmon farmers vaccinate virtually every fish individually by injection before transfer to sea cages. Selective breeding programs are producing disease-resistant strains. Cleaner fish (wrasse and lumpfish) are deployed in salmon pens to eat sea lice. And the shift toward RAS and closed containment systems dramatically reduces disease exposure.
 
-Antibiotic use in aquaculture remains a significant concern globally, though it varies enormously by country. Norwegian salmon farming uses almost zero antibiotics thanks to effective vaccines. Some shrimp and catfish operations in Southeast Asia still use significant quantities. Reducing antibiotic use across the global industry is a major public health priority.
+Antibiotic use in aquaculture remains a significant concern globally, though it varies enormously by country. Norwegian salmon farming uses almost zero antibiotics thanks to effective vaccines. Some shrimp and catfish operations in Southeast Asia still use significant quantities. Reducing antibiotic use across the global industry is a major [public health](/public-health) priority.
 
 ## The Genetics Revolution
 
@@ -167,11 +167,11 @@ The challenges are real—waste management, disease transfer to wild stocks, fee
 
 The industry is evolving rapidly, driven by technology, environmental pressure, and growing demand.
 
-**Offshore aquaculture** is moving fish farms into deeper, more exposed waters where currents disperse waste naturally and farm-wild fish interactions are reduced. Norway's Ocean Farm 1—a 68-meter-diameter semisubmersible structure—represents this trend. Offshore farming reduces coastal environmental impacts but increases engineering complexity and operational risk.
+**Offshore aquaculture** is moving fish farms into deeper, more exposed waters where currents disperse waste naturally and farm-wild fish interactions are reduced. Norway's Ocean Farm 1—a 68-meter-diameter semisubmersible structure—represents this trend. Offshore farming reduces coastal environmental impacts but increases [engineering](/engineering) complexity and operational risk.
 
 **Integrated multi-trophic aquaculture (IMTA)** combines species from different trophic levels—fish, shellfish, and seaweed—in proximity. Shellfish filter the particulate waste from fish, seaweed absorbs the dissolved nutrients, and the whole system becomes more efficient and less polluting. It's the modern version of ancient Chinese polyculture.
 
-**Smart farming** uses sensors, AI, and automation to optimize feeding, monitor fish health, and detect problems early. Underwater cameras with computer vision can identify individual fish, detect disease symptoms, and estimate biomass without disturbing the population. [Artificial intelligence](/artificial-intelligence) algorithms adjust feeding schedules based on appetite, weather, and water conditions.
+**Smart farming** uses sensors, AI, and automation to optimize feeding, monitor fish health, and detect problems early. Underwater cameras with [computer vision](/computer-vision) can identify individual fish, detect disease symptoms, and estimate biomass without disturbing the population. [Artificial intelligence](/artificial-intelligence) algorithms adjust feeding schedules based on appetite, weather, and water conditions.
 
 **Cell-cultured seafood**—growing fish tissue directly from cells without raising whole animals—is in early development. Companies like Wildtype and BlueNalu are producing lab-grown fish products. The technology is promising but still far from cost-competitive with conventional farming.
 

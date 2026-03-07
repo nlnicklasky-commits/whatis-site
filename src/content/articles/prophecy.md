@@ -5,7 +5,7 @@ description: "Prophecy is the claim of receiving divine messages about the futur
 category: religion
 tags: ["prophecy", "prophet", "divine", "revelation", "foretelling", "religion"]
 heroImage: "/images/articles/prophecy.webp"
-heroAlt: "Ancient scroll with prophetic text illuminated by dramatic light"
+heroAlt: "Editorial photograph representing the concept of prophecy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,21 +57,21 @@ The Hebrew Bible contains three categories of prophets: the Torah prophets (Mose
 
 Jewish tradition holds that prophecy ended with the destruction of the First Temple (586 BCE) or with the last of the biblical prophets (Malachi, around 450 BCE). After that, divine communication continued through lesser means — the bat kol (heavenly voice) or the Holy Spirit — but not full prophecy.
 
-### Christianity
+### [Christianity](/christianity)
 
 Christianity views Jesus as the fulfillment of Old Proof prophecy and, in some traditions, as a prophet himself (though more than a prophet — the Son of God). The New Proof includes prophetic elements, particularly in the Book of Revelation (Apocalypse), attributed to John of Patmos.
 
 Early Christian communities had prophets — Paul lists prophecy among spiritual gifts in 1 Corinthians. Whether prophetic gifts continue today divides Christians sharply. Pentecostal and charismatic traditions affirm ongoing prophecy. Catholic and many Protestant traditions hold that the prophetic canon is closed — divine revelation is complete in scripture.
 
-### Islam
+### [Islam](/islam)
 
-Islam has the most developed prophetic theology. Muslims believe God sent 124,000 prophets throughout history, including Adam, Noah, Abraham, Moses, Jesus, and finally Muhammad — the "Seal of the Prophets," meaning the last and greatest. The Quran is understood as God's final revelation, delivered through Muhammad by the angel Gabriel.
+Islam has the most developed prophetic [theology](/theology). Muslims believe God sent 124,000 prophets throughout history, including Adam, Noah, Abraham, Moses, Jesus, and finally Muhammad — the "Seal of the Prophets," meaning the last and greatest. The Quran is understood as God's final revelation, delivered through Muhammad by the angel Gabriel.
 
 The prophetic tradition (*nubuwwa*) is central to Islamic theology. Prophets are considered *ma'sum* (protected from sin) in their prophetic function. The Hadith (records of Muhammad's sayings and actions) form the second most important source of Islamic law and practice after the Quran.
 
 ### Other Traditions
 
-**Hinduism** has rishis — ancient sages who "saw" (the word rishi relates to "seeing") divine truths, including the Vedas. The concept is closer to mystical perception than prophetic mission.
+**[Hinduism](/hinduism)** has rishis — ancient sages who "saw" (the word rishi relates to "seeing") divine truths, including the Vedas. The concept is closer to mystical perception than prophetic mission.
 
 **Ancient Greece** had the Oracle at Delphi — a priestess (Pythia) who delivered prophecies from the god Apollo. Unlike biblical prophets, the Pythia didn't deliver moral messages — she answered specific questions, often cryptically.
 
@@ -89,8 +89,8 @@ This tension — between genuine prophetic insight and self-serving manipulation
 
 ## Prophecy in Modern Culture
 
-The concept of prophecy extends beyond religion into secular culture. We call people "prophetic" when they accurately predict social or technological changes — George Orwell's *1984*, for instance, is called "prophetic" for anticipating surveillance states.
+The concept of prophecy extends beyond [religion](/religion) into secular culture. We call people "prophetic" when they accurately predict social or technological changes — George Orwell's *1984*, for instance, is called "prophetic" for anticipating surveillance states.
 
-Apocalyptic prophecy — predictions of the world's end — has generated movements throughout history. William Miller predicted the end of the world in 1843 (then 1844). Harold Camping predicted it in 2011. These predictions consistently fail, yet the impulse to predict the end persists. Psychologists note that apocalyptic thinking serves psychological needs — it gives meaning to suffering and promises divine justice.
+Apocalyptic prophecy — predictions of the world's end — has generated movements throughout history. William Miller predicted the end of the world in 1843 (then 1844). Harold [Camping](/camping) predicted it in 2011. These predictions consistently fail, yet the impulse to predict the end persists. Psychologists note that apocalyptic thinking serves psychological needs — it gives meaning to suffering and promises divine justice.
 
 Whether you view prophecy as genuine divine communication, a psychological phenomenon, a social function, or some combination depends on your religious commitments. What's clear is that the prophetic impulse — the conviction that someone needs to deliver a hard truth to a community that doesn't want to hear it — shows no signs of disappearing.

@@ -5,7 +5,7 @@ description: "Ocean engineering designs structures and systems for the marine en
 category: technology
 tags: ["ocean engineering", "marine engineering", "offshore structures", "underwater robotics", "coastal engineering", "renewable energy"]
 heroImage: "/images/articles/ocean-engineering-hero.webp"
-heroAlt: "Offshore platform and underwater ROV operating in deep ocean waters"
+heroAlt: "Editorial photograph representing the concept of ocean engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Ocean engineering is the branch of [engineering](/engineering) that designs, builds, and maintains structures, vehicles, instruments, and systems intended to operate in, on, or under the ocean. It combines principles from mechanical, [civil](/civil-engineering), electrical, and [environmental engineering](/environmental-engineering) with a deep understanding of the ocean environment — a place that actively tries to destroy everything humans put into it.
 
-The ocean covers 71% of Earth's surface, averages 3,688 meters deep, and contains 97% of our planet's water. It generates roughly half the world's oxygen, regulates global climate, supports billions of people's livelihoods, and carries over 80% of international trade. And yet we've explored less of the ocean floor than we have of the Moon's surface. Ocean engineering is how we change that.
+The ocean covers 71% of Earth's surface, averages 3,688 meters deep, and contains 97% of our planet's water. It generates roughly half the world's oxygen, regulates global climate, supports billions of people's livelihoods, and carries over 80% of [international trade](/international-trade). And yet we've explored less of the ocean floor than we have of the Moon's surface. Ocean engineering is how we change that.
 
 ## Why the Ocean Is an Engineering Nightmare (In the Best Way)
 
@@ -107,7 +107,7 @@ Manned submersibles carry humans to depths unreachable by scuba divers (whose pr
 
 In 2019, Victor Vescovo's Five Deeps Expedition took the DSV Limiting Factor to the deepest point in each of the five oceans. At the bottom of the Mariana Trench — 10,925 meters — the titanium pressure hull withstood over 16,000 pounds per square inch. The engineering required to keep a human alive and comfortable at that pressure is extraordinary.
 
-## Offshore Renewable Energy
+## Offshore [Renewable Energy](/renewable-energy)
 
 This is where ocean engineering is seeing its most explosive growth. Offshore wind power is scaling up dramatically, and wave and tidal energy are emerging from the experimental phase.
 
@@ -123,7 +123,7 @@ The engineering challenge for floating wind is enormous: you need a platform sta
 
 ### Wave and Tidal Energy
 
-Waves carry enormous energy — the theoretical global resource is estimated at 2.1 TW, roughly equal to current global electricity demand. But capturing wave energy reliably and cost-effectively remains challenging. Dozens of device concepts have been tested, from oscillating water columns to point absorbers to wave surge converters. No clear winner has emerged.
+Waves carry enormous energy — the theoretical global resource is estimated at 2.1 TW, roughly equal to current global [electricity](/electricity) demand. But capturing wave energy reliably and cost-effectively remains challenging. Dozens of device concepts have been tested, from oscillating water columns to point absorbers to wave surge converters. No clear winner has emerged.
 
 Tidal energy is more predictable than waves — tides are determined by celestial mechanics and are forecastable decades in advance. Tidal stream turbines (underwater wind turbines, essentially) and tidal barrages (dams across tidal estuaries) both work, but environmental concerns about blocking marine life migration and altering sediment transport limit deployment.
 
@@ -169,8 +169,8 @@ The environmental concerns are less solvable. Deep-sea ecosystems are poorly und
 
 ## Career and Future Outlook
 
-Ocean engineering careers span energy companies, naval architecture firms, defense contractors, environmental consultancies, research institutions, and government agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
+Ocean engineering careers span energy companies, [naval architecture](/naval-[architecture](/architecture)) firms, defense contractors, environmental consultancies, research institutions, and government agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
 
-The field is growing for several converging reasons. Climate change is driving massive investment in offshore wind power and coastal resilience. Growing aquaculture needs engineered marine infrastructure. Submarine data cables support the ever-expanding digital economy. And humanity's fundamental need to understand and responsibly use the ocean — the largest and least explored environment on Earth — ensures that ocean engineers will be needed for as long as we depend on the sea.
+The field is growing for several converging reasons. Climate change is driving massive investment in offshore wind power and coastal resilience. Growing [aquaculture](/aquaculture) needs engineered marine infrastructure. Submarine data cables support the ever-expanding digital economy. And humanity's fundamental need to understand and responsibly use the ocean — the largest and least explored environment on Earth — ensures that ocean engineers will be needed for as long as we depend on the sea.
 
 Which, given that the ocean regulates our climate, feeds billions of people, enables global trade, and could provide clean energy for centuries — means forever.

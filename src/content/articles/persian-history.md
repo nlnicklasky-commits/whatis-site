@@ -5,7 +5,7 @@ description: "Persian history covers over 2,500 years of civilization in modern-
 category: history
 tags: ["persian history", "iran", "ancient persia", "achaemenid empire"]
 heroImage: "/images/articles/persian-history.webp"
-heroAlt: "The ancient ruins of Persepolis with its tall stone columns against a clear sky"
+heroAlt: "Editorial photograph representing the concept of persian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -85,9 +85,9 @@ In 224 CE, a Persian nobleman named Ardashir overthrew the last Parthian king an
 
 The Sassanid Empire was a formidable power for over four centuries. It stretched from Mesopotamia to Central Asia and competed directly with the Roman (later Byzantine) Empire for control of the Middle East. The two empires fought each other almost continuously — a rivalry that lasted until both were too exhausted to resist the Arab Muslim conquest in the 7th century.
 
-Sassanid contributions to civilization were enormous. **Zoroastrianism** became the state religion, and its concepts — heaven and hell, a final judgment, the struggle between good and evil, angels and demons — profoundly influenced Judaism, Christianity, and later Islam. Sassanid **architecture** pioneered the use of the dome and the iwan (a vaulted open hall) that would become defining features of Islamic architecture. **Persian art** reached extraordinary heights, particularly in metalwork, textiles, and rock carvings.
+Sassanid contributions to civilization were enormous. **[Zoroastrianism](/zoroastrianism)** became the state [religion](/religion), and its concepts — heaven and hell, a final judgment, the struggle between good and evil, angels and demons — profoundly influenced Judaism, [Christianity](/christianity), and later [Islam](/islam). Sassanid **[architecture](/architecture)** pioneered the use of the dome and the iwan (a vaulted open hall) that would become defining features of Islamic architecture. **Persian art** reached extraordinary heights, particularly in metalwork, textiles, and rock carvings.
 
-The Academy of Gundishapur, founded in the Sassanid period, became one of the ancient world's great centers of learning, bringing together Greek, Persian, Indian, and Syriac scholarship in medicine, philosophy, and science. When the Arabs conquered Persia, they inherited this intellectual infrastructure — and it became a foundation of the Islamic Golden Age.
+The Academy of Gundishapur, founded in the Sassanid period, became one of the ancient world's great centers of learning, bringing together Greek, Persian, Indian, and Syriac scholarship in medicine, [philosophy](/philosophy), and science. When the Arabs conquered Persia, they inherited this intellectual infrastructure — and it became a foundation of the Islamic Golden Age.
 
 ## The Islamic Period and Beyond
 
@@ -95,9 +95,9 @@ The Arab conquest of the 640s-650s ended Sassanid political rule and brought Isl
 
 Persia didn't simply become "Arab." Within a few centuries, Persian language and culture had become central to Islamic civilization. The Abbasid Caliphate (750-1258), which succeeded the Umayyads, was heavily influenced by Persian administrative traditions. The caliphs' court at Baghdad adopted Persian-style governance, Persian ceremonial practices, and Persian artistic sensibilities.
 
-The Persian language, written now in Arabic script and enriched with Arabic vocabulary, experienced a stunning literary renaissance. Ferdowsi's *Shahnameh* (Book of Kings), completed around 1010 CE, told the mythic and historical story of Persia in over 50,000 rhyming couplets — one of the longest epic poems ever written by a single author. Ferdowsi deliberately minimized Arabic loanwords, making the *Shahnameh* an act of cultural preservation as much as literature.
+The Persian language, written now in Arabic script and enriched with Arabic vocabulary, experienced a stunning literary renaissance. Ferdowsi's *Shahnameh* (Book of Kings), completed around 1010 CE, told the mythic and historical story of Persia in over 50,000 rhyming couplets — one of the longest epic poems ever written by a single author. Ferdowsi deliberately minimized Arabic loanwords, making the *Shahnameh* an act of cultural preservation as much as [literature](/literature).
 
-Then came the poets who made Persian literature one of the world's great traditions: Rumi (1207-1273), whose mystical poetry has made him the best-selling poet in America centuries after his death. Hafez (1315-1390), whose collected poems (*Divan*) is found in virtually every Iranian household. Omar Khayyam (1048-1131), mathematician and astronomer, remembered in the West for his *Rubaiyat*.
+Then came the poets who made Persian literature one of the world's great traditions: Rumi (1207-1273), whose mystical [poetry](/poetry) has made him the best-selling poet in America centuries after his death. Hafez (1315-1390), whose collected poems (*Divan*) is found in virtually every Iranian household. Omar Khayyam (1048-1131), mathematician and astronomer, remembered in the West for his *Rubaiyat*.
 
 ## Turks, Mongols, and Survival
 
@@ -105,7 +105,7 @@ Persian civilization endured two catastrophic invasions that would have destroye
 
 The Mongol invasion under Genghis Khan and his successors (1219-1258) was apocalyptic. Entire cities were razed. Populations were massacred on a scale that wouldn't be matched until the 20th century. The city of Nishapur was reportedly destroyed so thoroughly that the site was plowed over and planted with barley. Estimates suggest Iran's population may not have recovered to pre-Mongol levels until the 20th century.
 
-And yet — Persian culture persisted. The Mongol rulers, like so many conquerors before them, gradually adopted Persian administrative practices, patronized Persian art, and commissioned Persian literature. The Ilkhanid period (the Mongol dynasty in Persia) produced extraordinary miniature painting and some of the finest illustrated manuscripts in history.
+And yet — Persian culture persisted. The Mongol rulers, like so many conquerors before them, gradually adopted Persian administrative practices, patronized Persian art, and commissioned Persian literature. The Ilkhanid period (the Mongol dynasty in Persia) produced extraordinary [miniature painting](/miniature-[painting](/painting)) and some of the finest illustrated manuscripts in history.
 
 Timur (Tamerlane) brought another wave of destruction in the late 14th century. And again, Persian culture survived and influenced its conqueror. Timurid-era Herat became one of the Islamic world's greatest centers of art and learning.
 

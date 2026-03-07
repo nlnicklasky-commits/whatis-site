@@ -5,7 +5,7 @@ description: "Septuagint studies is the academic field examining the ancient Gre
 category: history
 tags: ["septuagint", "bible", "old testament", "greek translation", "biblical studies"]
 heroImage: "/images/articles/septuagint-studies.webp"
-heroAlt: "Ancient Greek manuscript on parchment with biblical text and scholarly annotations"
+heroAlt: "Editorial photograph representing the concept of septuagint studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
     a: "Yes. The Greek Orthodox Church and other Eastern Orthodox churches use the Septuagint as their authoritative Old Testament text, not the Hebrew Masoretic Text. This is why Orthodox Bibles include books like Tobit, Judith, and Wisdom of Solomon that Protestant Bibles exclude. The Catholic Church also recognizes several of these additional books as deuterocanonical."
 ---
 
-Septuagint studies is the academic discipline focused on the Septuagint (abbreviated LXX) — the ancient Greek translation of the Hebrew Bible produced in Alexandria, Egypt, beginning around the 3rd century BCE. It's a field that sits at the intersection of biblical studies, linguistics, ancient history, and textual criticism, and it matters far more than most people realize.
+Septuagint studies is the academic discipline focused on the Septuagint (abbreviated LXX) — the ancient Greek [translation](/translation) of the Hebrew Bible produced in Alexandria, Egypt, beginning around the 3rd century BCE. It's a field that sits at the intersection of [biblical studies](/biblical-studies), [linguistics](/linguistics), ancient history, and textual criticism, and it matters far more than most people realize.
 
-Why should you care about a 2,300-year-old translation? Because the Septuagint was the Bible that early Christians used, the text that New Proof authors quoted, and the version that shaped Christian theology in ways that still reverberate today. When the Gospel of Matthew says a "virgin" will conceive a child (Matthew 1:23), it's quoting the Septuagint's Greek word *parthenos* — the original Hebrew word, *almah*, simply means "young woman." That single translation choice influenced 2,000 years of Christian doctrine.
+Why should you care about a 2,300-year-old translation? Because the Septuagint was the Bible that early Christians used, the text that New Proof authors quoted, and the version that shaped Christian [theology](/theology) in ways that still reverberate today. When the Gospel of Matthew says a "virgin" will conceive a child (Matthew 1:23), it's quoting the Septuagint's Greek word *parthenos* — the original Hebrew word, *almah*, simply means "young woman." That single translation choice influenced 2,000 years of Christian doctrine.
 
 ## The Origin Story — Part Legend, Part History
 
@@ -43,9 +43,9 @@ The scholars supposedly completed their translation in exactly 72 days. Later ve
 
 This is almost certainly legendary. But like many legends, it contains a kernel of truth. There really was a Jewish community in Alexandria that needed Greek scriptures. The Torah (the first five books — Genesis through Deuteronomy) really was translated into Greek around 250 BCE. And the translation really did originate in Egypt.
 
-What's less clear is exactly how it happened. The translation was probably a community effort, developed over time by Jewish scholars in Alexandria who needed Greek versions of their scriptures for synagogue worship and education. No royal commission, no 72 divinely inspired scholars, no miraculous matching translations — just a practical solution to a real problem.
+What's less clear is exactly how it happened. The translation was probably a community effort, developed over time by Jewish scholars in Alexandria who needed Greek versions of their scriptures for synagogue worship and [education](/education). No royal commission, no 72 divinely inspired scholars, no miraculous matching translations — just a practical solution to a real problem.
 
-The translation of the Torah was just the beginning. Over the next century or two, the rest of the Hebrew Bible was translated — the historical books, the prophets, the wisdom literature, and the psalms. Different books were translated by different people at different times, which is why the translation quality and approach vary significantly across the Septuagint. Some books are translated almost word-for-word. Others are much freer, paraphrasing or even restructuring the Hebrew original.
+The translation of the Torah was just the beginning. Over the next century or two, the rest of the Hebrew Bible was translated — the historical books, the prophets, the wisdom [literature](/literature), and the psalms. Different books were translated by different people at different times, which is why the translation quality and approach vary significantly across the Septuagint. Some books are translated almost word-for-word. Others are much freer, paraphrasing or even restructuring the Hebrew original.
 
 ## What's Actually in the Septuagint
 
@@ -53,8 +53,8 @@ The Septuagint contains everything in the Hebrew Bible — but also more. Severa
 
 - **Tobit** — A story of faith and divine providence involving a righteous Jewish family in exile
 - **Judith** — A tale of a brave Jewish woman who kills an enemy general to save her people
-- **Wisdom of Solomon** — A philosophical meditation on wisdom, justice, and immortality
-- **Sirach (Ecclesiasticus)** — Practical wisdom literature, similar to Proverbs
+- **Wisdom of Solomon** — A philosophical [meditation](/meditation) on wisdom, justice, and immortality
+- **Sirach (Ecclesiasticus)** — Practical wisdom literature, similar to [Proverbs](/proverbs)
 - **Baruch** — A text attributed to the scribe of the prophet Jeremiah
 - **1 and 2 Maccabees** — Historical accounts of the Jewish revolt against Seleucid rule (167-134 BCE)
 - **Additions to Daniel and Esther** — Extra chapters not found in the Hebrew versions
@@ -77,7 +77,7 @@ This discovery changed everything. It meant the Septuagint could serve as a wind
 
 ### Understanding the New Proof
 
-The New Proof was written in Greek, and its authors overwhelmingly quoted the Old Proof from the Septuagint, not from the Hebrew. When Paul writes about scripture, he's usually quoting the Septuagint. When the Gospel writers cite prophecies, they're drawing on Greek translations that sometimes differ from the Hebrew.
+The New Proof was written in Greek, and its authors overwhelmingly quoted the Old Proof from the Septuagint, not from the Hebrew. When Paul writes about scripture, he's usually quoting the Septuagint. When the Gospel writers cite prophecies, they're [drawing](/drawing) on Greek translations that sometimes differ from the Hebrew.
 
 Some of these differences matter theologically. The famous **Isaiah 7:14** passage reads "a young woman (*almah*) shall conceive" in Hebrew. The Septuagint translates *almah* as *parthenos* — which specifically means "virgin." Matthew 1:23 quotes the Septuagint version, building the doctrine of the virgin birth on a Greek translation choice rather than the original Hebrew wording.
 
@@ -113,7 +113,7 @@ The **Goettingen Septuagint** — An ongoing critical edition that aims to recon
 
 **Computer-assisted analysis** — Digital tools now allow scholars to analyze vocabulary patterns, translation techniques, and textual relationships across the entire Septuagint in ways that were impossible when working with printed editions alone.
 
-The **International Organization for Septuagint and Cognate Studies (IOSCS)** coordinates research and hosts annual conferences. Membership has grown steadily as more scholars recognize the Septuagint's importance for understanding both Judaism and Christianity in the ancient world.
+The **International Organization for Septuagint and Cognate Studies (IOSCS)** coordinates research and hosts annual conferences. Membership has grown steadily as more scholars recognize the Septuagint's importance for understanding both Judaism and [Christianity](/christianity) in the ancient world.
 
 ## Why This Matters Beyond Academia
 

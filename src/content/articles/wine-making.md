@@ -5,7 +5,7 @@ description: "Wine making (vinification) is the process of turning grapes into w
 category: everyday-concepts
 tags: ["wine making", "vinification", "fermentation", "viticulture", "wine", "beverages"]
 heroImage: "/images/articles/wine-making.webp"
-heroAlt: "Oak wine barrels stored in rows inside a dimly lit stone cellar"
+heroAlt: "Editorial photograph representing the concept of wine making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Wine Making?
 
-Wine making — technically called vinification or enology — is the process of converting grape juice into wine through fermentation. Yeast consumes sugar in the juice and produces alcohol and carbon dioxide. That's the one-sentence version. The reality involves thousands of decisions about grape growing, harvesting, crushing, fermenting, aging, and blending that turn a single agricultural product into a bewildering range of beverages, from $5 supermarket bottles to wines that sell at auction for tens of thousands of dollars.
+Wine making — technically called vinification or enology — is the process of converting grape juice into wine through [fermentation](/fermentation). Yeast consumes sugar in the juice and produces alcohol and carbon dioxide. That's the one-sentence version. The reality involves thousands of decisions about grape growing, harvesting, crushing, fermenting, aging, and blending that turn a single agricultural product into a bewildering range of beverages, from $5 supermarket bottles to wines that sell at auction for tens of thousands of dollars.
 
 ## It Starts in the Vineyard
 
-Winemakers like to say that wine is made in the vineyard, and they're mostly right. The grape variety, the soil and climate (terroir), and the farming decisions shape the wine more than anything that happens in the cellar.
+Winemakers like to say that wine is made in the vineyard, and they're mostly right. The grape variety, the soil and climate (terroir), and the [farming](/farming) decisions shape the wine more than anything that happens in the cellar.
 
 **Grape varieties** — Cabernet Sauvignon, Pinot Noir, Chardonnay, Sauvignon Blanc, and a few hundred others each produce distinctively different wines. Cabernet Sauvignon grown in Napa Valley makes a rich, tannic, age-worthy red. Pinot Noir from Burgundy makes an elegant, lighter-bodied red with very different character. The grape is the starting point for everything.
 
-**Terroir** — The French concept encompassing soil, climate, altitude, slope, and local geography. The same Pinot Noir clone planted in Burgundy, Oregon, and New Zealand produces recognizably different wines because of different growing conditions. Winemakers argue endlessly about how much terroir versus winemaking technique determines a wine's character. The honest answer is both.
+**Terroir** — The French concept encompassing soil, climate, altitude, slope, and local [geography](/geography). The same Pinot Noir clone planted in Burgundy, Oregon, and New Zealand produces recognizably different wines because of different growing conditions. Winemakers argue endlessly about how much terroir versus winemaking technique determines a wine's character. The honest answer is both.
 
-**Viticulture decisions** — Pruning determines how many grape clusters each vine produces. Fewer clusters mean more concentrated flavors but less volume (and revenue). Canopy management affects sun exposure and ripeness. Irrigation (where legal — some European appellations prohibit it) prevents drought stress. These decisions accumulate throughout the growing season.
+**Viticulture decisions** — [Pruning](/pruning) determines how many grape clusters each vine produces. Fewer clusters mean more concentrated flavors but less volume (and revenue). Canopy [management](/management) affects sun exposure and ripeness. [Irrigation](/irrigation) (where legal — some European appellations prohibit it) prevents drought stress. These decisions accumulate throughout the growing season.
 
 **Harvest timing** — Perhaps the most critical single decision. Pick too early and the grapes lack flavor development and sugar (producing thin, tart wine). Pick too late and sugar levels are too high (producing overly alcoholic, flabby wine) and flavors shift toward overripe fruit. The window for optimal harvest can be days. Winemakers check sugar levels (measured in Brix), acidity, and flavor development daily as harvest approaches.
 
@@ -65,7 +65,7 @@ After fermentation, the wine is pressed off the skins and transferred to aging v
 
 ## Sparkling Wine
 
-Sparkling wine adds a second fermentation that produces the bubbles. In the traditional method (méthode champenoise), still wine is bottled with a small addition of yeast and sugar. The yeast ferments the sugar inside the sealed bottle, trapping CO2 that dissolves into the wine under pressure — typically 5-6 atmospheres (75-90 psi). That's why Champagne corks pop.
+Sparkling wine adds a second fermentation that produces the bubbles. In the traditional method (méthode champenoise), still wine is bottled with a small addition of yeast and sugar. The yeast ferments the sugar inside the sealed bottle, [trapping](/trapping) CO2 that dissolves into the wine under pressure — typically 5-6 atmospheres (75-90 psi). That's why Champagne corks pop.
 
 After the second fermentation, the wine ages on the dead yeast cells (lees) for months or years, developing toasty, bready flavors. The lees are eventually removed through a process called riddling and disgorgement — gradually moving the sediment to the bottle neck and expelling it.
 

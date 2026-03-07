@@ -5,7 +5,7 @@ description: "Computer security protects systems, networks, and data from unauth
 category: technology
 tags: ["cybersecurity", "information security", "data privacy", "network security", "malware", "encryption", "it security"]
 heroImage: "/images/articles/computer-security-hero.webp"
-heroAlt: "Digital shield protecting a network of connected devices from cyber threats"
+heroAlt: "Editorial photograph representing the concept of computer security"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Security?
 
-Computer security — also called cybersecurity or information security — is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, and disruption. It encompasses the technologies, processes, and practices designed to defend digital assets against a constantly shifting range of threats, from lone hackers to nation-state cyber operations.
+Computer security — also called cybersecurity or [information security](/information-security) — is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, and disruption. It encompasses the technologies, processes, and practices designed to defend digital assets against a constantly shifting range of threats, from lone hackers to nation-state cyber operations.
 
 ## The Scale of the Problem
 
@@ -85,7 +85,7 @@ Malware — malicious software — is the broad category covering any software d
 
 **Rootkits** hide deep in the operating system, making themselves invisible to normal detection tools. They're the hardest malware to detect and remove.
 
-### Social Engineering
+### [Social Engineering](/social-engineering)
 
 The most effective attacks don't target [computer hardware](/computer-hardware) — they target people.
 
@@ -141,11 +141,11 @@ Authentication verifies that you are who you claim to be. It's the gatekeeper fo
 
 **Single Sign-On (SSO)** lets you authenticate once and access multiple applications. Convenient and more secure than separate passwords for each service (fewer credentials to manage means fewer to compromise). But if the SSO provider is breached, every connected application is exposed.
 
-### Firewalls and Network Security
+### Firewalls and [Network Security](/network-security)
 
 [Firewalls](/computer-networking) filter network traffic based on rules. Modern next-generation firewalls (NGFWs) inspect traffic at the application level, detect intrusion attempts, and integrate with threat intelligence feeds.
 
-**Intrusion Detection Systems (IDS)** monitor network traffic for suspicious patterns. **Intrusion Prevention Systems (IPS)** actively block detected threats. Most modern solutions combine both.
+**[Intrusion Detection](/intrusion-detection) Systems (IDS)** monitor network traffic for suspicious patterns. **Intrusion Prevention Systems (IPS)** actively block detected threats. Most modern solutions combine both.
 
 **Security Information and Event Management (SIEM)** systems aggregate logs from across the network, correlate events, and alert security teams to potential incidents. A single failed login is noise. A thousand failed logins from the same IP targeting different accounts in five minutes is an attack.
 
@@ -266,7 +266,7 @@ Salaries reflect the demand: entry-level security analysts earn $65,000-90,000, 
 
 **AI-powered defense** — the same technology helps defenders. AI analyzes massive log volumes, detects anomalous behavior, and accelerates incident response. The arms race between AI-powered attack and defense is the defining security contest of the 2020s.
 
-**Quantum computing threats** — quantum computers will eventually break current public-key cryptography (RSA, ECC). Post-quantum cryptography standards (NIST finalized initial standards in 2024) are being deployed now to protect data that needs to remain confidential for decades.
+**[Quantum computing](/quantum-computing) threats** — quantum computers will eventually break current public-key cryptography (RSA, ECC). Post-[quantum cryptography](/quantum-cryptography) standards (NIST finalized initial standards in 2024) are being deployed now to protect data that needs to remain confidential for decades.
 
 **Supply chain attacks** — compromising trusted software vendors to attack their customers. SolarWinds, Codecov, and the xz Utils backdoor attempt demonstrate that even careful organizations can be compromised through their dependencies.
 

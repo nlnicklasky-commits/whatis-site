@@ -5,7 +5,7 @@ description: "Computer networking connects devices to share data using protocols
 category: technology
 tags: ["networking", "internet", "data communication", "it", "network protocols", "cybersecurity", "cloud computing"]
 heroImage: "/images/articles/computer-networking-hero.webp"
-heroAlt: "Network diagram showing interconnected devices, routers, and switches with data flow paths"
+heroAlt: "Editorial photograph representing the concept of computer networking"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Networking?
 
-Computer networking is the practice of connecting two or more computing devices to share data and resources — it's the technology that enables the internet, allows your phone to stream video, lets offices share printers and files, and makes cloud computing possible. Every time you load a webpage, send an email, or join a video call, computer networking is doing the heavy lifting behind the scenes.
+Computer networking is the practice of connecting two or more computing devices to share data and resources — it's the technology that enables the internet, allows your phone to stream video, lets offices share printers and files, and makes [cloud computing](/cloud-computing) possible. Every time you load a webpage, send an email, or join a video call, computer networking is doing the heavy lifting behind the scenes.
 
 ## Why Networking Matters More Than You Think
 
@@ -49,7 +49,7 @@ Networking isn't just an IT specialty. It's the infrastructure that modern life 
 
 If you're in any technology-related field, understanding networking isn't optional. If you're building [applications](/app-development), your code communicates over networks. If you're concerned about [security](/computer-security), you need to know how networks can be attacked. If you're managing systems, networks are what connect them. Even if you're just a user, understanding basics like IP addresses, DNS, and Wi-Fi helps you troubleshoot problems and make better decisions.
 
-## The OSI Model: Networking's Layered Architecture
+## The OSI Model: Networking's Layered [Architecture](/architecture)
 
 Networks are complex systems. To make them manageable, engineers organize them into layers. The Open Systems Interconnection (OSI) model defines seven layers, each handling a specific aspect of communication.
 
@@ -160,7 +160,7 @@ Firewalls inspect network traffic and allow or block it based on rules. They're 
 
 **Stateful firewalls** track connection states and can make smarter decisions (allowing reply packets for connections initiated internally, for example).
 
-**Next-generation firewalls (NGFWs)** add deep packet inspection, intrusion detection, application awareness, and threat intelligence. They don't just look at addresses and ports — they understand the actual content and context of traffic.
+**Next-generation firewalls (NGFWs)** add deep packet inspection, [intrusion detection](/intrusion-detection), application awareness, and threat intelligence. They don't just look at addresses and ports — they understand the actual content and context of traffic.
 
 ## Network Protocols: The Rules of Communication
 
@@ -196,7 +196,7 @@ BGP is often called the most important protocol most people have never heard of.
 
 A LAN connects devices in a limited area — an office, a building, a home. Ethernet and Wi-Fi are the dominant LAN technologies. LANs offer high speeds (1-10 Gbps wired, up to 46 Gbps for Wi-Fi 7) and low latency (under 1 ms).
 
-VLANs (Virtual LANs) logically segment a physical network. An office might put accounting, engineering, and guest devices on separate VLANs for security and traffic management, even though they're all connected to the same physical switches.
+VLANs (Virtual LANs) logically segment a physical network. An office might put accounting, [engineering](/engineering), and guest devices on separate VLANs for security and traffic management, even though they're all connected to the same physical switches.
 
 ### WANs
 
@@ -236,7 +236,7 @@ Cloud computing — running workloads on rented infrastructure from providers li
 
 **DNS-based routing** can direct users to the geographically closest server, the least loaded server, or the healthiest server — all transparently.
 
-## Network Security Fundamentals
+## [Network Security](/network-security) Fundamentals
 
 Networks are attack surfaces. Every connected device is potentially reachable by every other connected device on the internet (unless firewalls intervene). Understanding [network security](/computer-security) is non-negotiable for anyone managing or building networked systems.
 

@@ -5,7 +5,7 @@ description: "Embroidery is the craft of decorating fabric with needle and threa
 category: arts-amp-culture
 tags: ["embroidery", "textile art", "needlework", "handicraft", "fabric", "stitches"]
 heroImage: "/images/articles/embroidery.webp"
-heroAlt: "Hands stitching a floral embroidery pattern on fabric stretched in a wooden embroidery hoop"
+heroAlt: "Editorial photograph representing the concept of embroidery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Embroidery?
 
-Embroidery is the craft of decorating fabric by stitching designs with needle and thread (or yarn, ribbon, beads, or other materials). It transforms plain cloth into something meaningful — decorated, personalized, storied. Humans have been embroidering for at least 3,000 years, and the craft has survived every technological revolution because a hand-stitched design carries something that machine production can't replicate: the evidence of human attention and time.
+Embroidery is the craft of [decorating](/decorating) fabric by stitching designs with needle and thread (or yarn, ribbon, beads, or other materials). It transforms plain cloth into something meaningful — decorated, personalized, storied. Humans have been embroidering for at least 3,000 years, and the craft has survived every technological revolution because a hand-stitched design carries something that machine production can't replicate: the evidence of human attention and time.
 
 ## Ancient Threads
 
 The oldest surviving embroidered textile dates to roughly the 5th-3rd century BC — Scythian saddle covers found in frozen Siberian tombs, decorated with elaborate animal motifs in wool and silk thread. But embroidery is certainly older. Chinese references to embroidered garments date to the Shang Dynasty (1600-1046 BC). Egyptian pharaohs wore embroidered linen.
 
-Embroidery served practical and symbolic functions simultaneously. Stitched designs reinforced fabric at stress points (elbows, collars, hems) while advertising the wearer's status, identity, and cultural affiliations. Medieval European heraldry was literally embroidered onto garments and banners. Japanese *sashiko* stitching strengthened working clothes while creating beautiful geometric patterns. The decorative and the functional were never separate.
+Embroidery served practical and symbolic functions simultaneously. Stitched designs reinforced fabric at stress points (elbows, collars, hems) while advertising the wearer's status, identity, and cultural affiliations. Medieval European [heraldry](/heraldry) was literally embroidered onto garments and banners. Japanese *sashiko* stitching strengthened working clothes while creating beautiful geometric patterns. The decorative and the functional were never separate.
 
 The **Bayeux Mix** (actually an embroidery, not a mix — it's stitched, not woven) is perhaps the most famous embroidered object in history. Created around 1070 AD, this 230-foot-long [linen](/dyeing) strip tells the story of the Norman conquest of England in 58 scenes. It's a narrative artwork, a propaganda piece, and an extraordinary example of sustained needlework — someone (probably many someones) stitched every inch by hand.
 
@@ -63,7 +63,7 @@ Every embroidery tradition worldwide uses variations of a few fundamental stitch
 
 **Indian embroidery** encompasses dozens of regional traditions. Zardozi (metallic thread on velvet) adorns wedding garments. Chikankari (white-on-white) from Lucknow creates delicate, ethereal designs. Kantha (running stitch through layered fabric) from Bengal tells stories through stitched narratives. Each tradition reflects its region's materials, climate, and cultural values.
 
-**Scandinavian embroidery** — Hardanger (geometric cutwork), Swedish Huck weaving, and Norwegian Rosemaling-influenced designs — emphasizes geometry, symmetry, and the contrast between white fabric and colored thread.
+**Scandinavian embroidery** — Hardanger (geometric cutwork), Swedish Huck weaving, and Norwegian Rosemaling-influenced designs — emphasizes [geometry](/geometry), symmetry, and the contrast between white fabric and colored thread.
 
 **Mexican embroidery** — particularly Otomi (tenango) with its vibrant, folk-art depictions of animals, plants, and daily life — has gained international recognition. The bold colors and narrative quality of Otomi embroidery make it immediately recognizable.
 
@@ -71,9 +71,9 @@ Every embroidery tradition worldwide uses variations of a few fundamental stitch
 
 Embroidery experienced a dramatic resurgence beginning around 2015, driven by social media (Instagram, Pinterest, TikTok), a broader craft revival, and artists who pushed the medium into contemporary territory.
 
-**Contemporary embroidery art** includes photorealistic [portraits](/drawing) stitched in thread, embroidered installations filling gallery walls, mixed-media pieces combining stitching with photography, and subversive works using traditional techniques to deliver modern messages. Artists like Cayce Zavaglia (hyper-realistic thread portraits), Sarah K. Benning (embroidered houseplants), and Danielle Clough (embroidery on unexpected surfaces like tennis rackets and fences) have brought the craft to fine art audiences.
+**Contemporary embroidery art** includes photorealistic [portraits](/drawing) stitched in thread, embroidered installations filling gallery walls, mixed-media pieces combining stitching with photography, and subversive works using traditional techniques to deliver modern messages. Artists like Cayce Zavaglia (hyper-realistic thread portraits), Sarah K. Benning (embroidered [houseplants](/houseplants)), and Danielle Clough (embroidery on unexpected surfaces like tennis rackets and fences) have brought the craft to [fine art](/fine-art) audiences.
 
-The maker movement and slow craft ethos contributed too. In a digital world, the deliberate slowness of hand embroidery — each stitch placed individually, progress measured in hours — appeals precisely because it's the opposite of instant. Embroidery is meditation with visible results.
+The maker movement and slow craft ethos contributed too. In a digital world, the deliberate slowness of hand embroidery — each stitch placed individually, progress measured in hours — appeals precisely because it's the opposite of instant. Embroidery is [meditation](/meditation) with visible results.
 
 **Machine embroidery** uses computerized sewing machines to stitch designs automatically. Commercial embroidery (logos on uniforms, monograms on towels) is almost entirely machine-produced. Some artists use programmable machines creatively, treating the machine as a tool rather than a replacement for hand skill. But the hand embroidery and machine embroidery communities are largely separate, with different values and different goals.
 
@@ -81,7 +81,7 @@ The maker movement and slow craft ethos contributed too. In a digital world, the
 
 Embroidery's entry barrier is remarkably low. A $15-$20 starter kit — hoop, needles, floss, fabric, and a simple pattern — provides everything you need for dozens of hours of practice. The investment is time, not money.
 
-Start with a simple design (a flower, a word, a basic shape) using three or four stitches. Work on quilting cotton or muslin — forgiving fabrics that hold designs well. Use six-strand [embroidery](/sewing) floss separated into two or three strands for most work (using all six strands creates a chunky, less refined look that has its own appeal).
+Start with a simple design (a flower, a word, a basic shape) using three or four stitches. Work on [quilting](/quilting) cotton or muslin — forgiving fabrics that hold designs well. Use six-strand [embroidery](/sewing) floss separated into two or three strands for most work (using all six strands creates a chunky, less refined look that has its own appeal).
 
 Transfer designs using water-soluble pens, iron-on transfers, or tracing paper. Embroidery pattern books and digital pattern shops (Etsy has thousands) offer designs for every skill level.
 

@@ -5,7 +5,7 @@ description: "Statistics is the science of collecting, analyzing, and interpreti
 category: science
 tags: ["statistics", "mathematics", "probability", "data analysis", "hypothesis testing", "regression"]
 heroImage: "/images/articles/statistics.webp"
-heroAlt: "A scatter plot with a regression line drawn through data points on a digital dashboard"
+heroAlt: "Editorial photograph representing the concept of statistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -193,15 +193,15 @@ Statistics underpins virtually every data-driven decision being made today.
 
 **Technology** companies run thousands of A/B tests simultaneously, using statistics to determine whether changing a button color, rewording a headline, or adjusting an [algorithm](/algorithms) actually improves user behavior.
 
-**Government** uses statistics for census data, economic indicators (GDP, unemployment rate, inflation), public health surveillance, and evidence-based policy. The Bureau of Labor Statistics, the Census Bureau, and the CDC all exist because of the need for systematic [data analysis](/data-analysis).
+**[Government](/government)** uses statistics for census data, economic indicators (GDP, unemployment rate, inflation), [public health](/public-health) surveillance, and evidence-based policy. The Bureau of Labor Statistics, the Census Bureau, and the CDC all exist because of the need for systematic [data analysis](/data-analysis).
 
-**Sports analytics** uses regression models, Bayesian methods, and simulation to evaluate players, optimize strategies, and make draft picks. Baseball's "Moneyball" revolution was fundamentally a statistical revolution.
+**[Sports analytics](/sports-analytics)** uses regression models, Bayesian methods, and simulation to evaluate players, optimize strategies, and make draft picks. Baseball's "Moneyball" revolution was fundamentally a statistical revolution.
 
 **Climate science** uses statistical models to detect warming trends, attribute changes to specific causes, and project future scenarios. The signal of human-caused warming was identified through statistical analysis of temperature records, natural variability patterns, and forcing factors.
 
 ## The Future of Statistics
 
-The boundary between statistics and computer science is blurring. Machine learning techniques — random forests, neural networks, gradient boosting — are essentially statistical models with the focus shifted from inference (understanding relationships) to prediction (forecasting outcomes).
+The boundary between statistics and [computer science](/computer-science) is blurring. Machine learning techniques — random forests, [neural networks](/neural-networks), gradient boosting — are essentially statistical models with the focus shifted from inference (understanding relationships) to prediction (forecasting outcomes).
 
 Causal inference — figuring out what causes what from observational data — is one of the hottest areas in modern statistics. Judea Pearl's do-calculus and the potential outcomes framework of Donald Rubin provide formal tools for answering causal questions without randomized experiments, when experiments are impractical or unethical.
 

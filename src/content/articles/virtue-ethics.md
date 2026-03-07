@@ -5,7 +5,7 @@ description: "Virtue ethics is a moral philosophy focused on character traits ra
 category: everyday-concepts
 tags: ["virtue ethics", "philosophy", "Aristotle", "morality", "character", "ethics"]
 heroImage: "/images/articles/virtue-ethics.webp"
-heroAlt: "Ancient Greek marble bust of Aristotle with columns and olive trees in the background"
+heroAlt: "Editorial photograph representing the concept of virtue ethics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Virtue Ethics?
 
-Virtue ethics is a branch of moral philosophy that focuses on the character of the person acting rather than on rules to follow or outcomes to achieve. Instead of asking "what should I do in this situation?" it asks "what kind of person should I be?" The idea is that if you develop the right character traits — courage, honesty, generosity, justice — the right actions will follow naturally.
+Virtue ethics is a branch of [moral philosophy](/moral-philosophy) that focuses on the character of the person [acting](/acting) rather than on rules to follow or outcomes to achieve. Instead of asking "what should I do in this situation?" it asks "what kind of person should I be?" The idea is that if you develop the right character traits — courage, honesty, generosity, justice — the right actions will follow naturally.
 
 ## Aristotle's Big Idea
 
@@ -57,9 +57,9 @@ The mean isn't fixed. It depends on the person and the situation. What counts as
 
 ## Why It Faded (And Came Back)
 
-For about 1,700 years after Aristotle, virtue ethics was the dominant Western ethical framework. The Stoics, the Epicureans, Thomas Aquinas (who integrated Aristotle with Christianity), and much of medieval moral philosophy worked within virtue ethics frameworks.
+For about 1,700 years after Aristotle, virtue ethics was the dominant Western ethical framework. The Stoics, the Epicureans, Thomas Aquinas (who integrated Aristotle with [Christianity](/christianity)), and much of medieval moral philosophy worked within virtue ethics frameworks.
 
-Then came the Enlightenment. Kant's deontological ethics (morality is about following rational rules, regardless of consequences or character) and Bentham's utilitarianism (morality is about maximizing happiness) offered systematic, universal principles that seemed more rigorous and applicable than virtue ethics' emphasis on character development.
+Then came the Enlightenment. Kant's deontological ethics (morality is about following rational rules, regardless of consequences or character) and Bentham's [utilitarianism](/utilitarianism) (morality is about maximizing happiness) offered systematic, universal principles that seemed more rigorous and applicable than virtue ethics' emphasis on character development.
 
 For much of the 19th and 20th centuries, academic ethics focused on these two approaches. Virtue ethics was studied historically but rarely championed as a live option.
 
@@ -69,11 +69,11 @@ The revival began in 1958 with Elizabeth Anscombe's paper "Modern Moral Philosop
 
 Contemporary virtue ethicists have applied the framework to fields Aristotle never imagined:
 
-**Medical ethics** — What character traits should a good doctor have? Compassion, honesty with patients, courage to deliver bad news, practical wisdom to balance competing goods. This approach often captures what we want from healthcare providers better than rule-following alone.
+**[Medical ethics](/medical-ethics)** — What character traits should a good doctor have? Compassion, honesty with patients, courage to deliver bad news, practical wisdom to balance competing goods. This approach often captures what we want from healthcare providers better than rule-following alone.
 
-**Business ethics** — Rather than asking "is this transaction legal?" virtue ethics asks "is this the kind of business I want to be?" Companies that build cultures of integrity, fairness, and responsibility tend to sustain success better than those focused purely on compliance.
+**[Business ethics](/business-ethics)** — Rather than asking "is this transaction legal?" virtue ethics asks "is this the kind of business I want to be?" Companies that build cultures of integrity, fairness, and responsibility tend to sustain success better than those focused purely on compliance.
 
-**Education** — Character education programs draw explicitly on virtue ethics, aiming to develop students' moral character alongside academic skills. The question isn't just "what do students know?" but "what kind of people are they becoming?"
+**[Education](/education)** — Character education programs draw explicitly on virtue ethics, aiming to develop students' moral character alongside academic skills. The question isn't just "what do students know?" but "what kind of people are they becoming?"
 
 **Environmental ethics** — Virtue ethics asks what character traits are appropriate in our relationship with the natural world. Temperance (restraint in consumption), justice (fairness to future generations), and practical wisdom (balancing human needs with ecological limits) all apply.
 
@@ -83,7 +83,7 @@ Virtue ethics faces serious objections that its defenders continue to address:
 
 **The action guidance problem.** Critics argue that "be courageous" or "act as a virtuous person would" doesn't tell you what to actually do in a specific situation. Virtue ethicists respond that no ethical theory provides algorithmic guidance — even utilitarian calculations require judgment about which consequences count and how to measure them.
 
-**Cultural relativity.** Which virtues matter? Aristotle's list reflected the values of an Athenian gentleman. Different cultures emphasize different character traits. Virtue ethicists respond that some virtues (justice, courage, temperance) appear across virtually all human cultures, suggesting they're not arbitrary.
+**Cultural [relativity](/relativity).** Which virtues matter? Aristotle's list reflected the values of an Athenian gentleman. Different cultures emphasize different character traits. Virtue ethicists respond that some virtues (justice, courage, temperance) appear across virtually all human cultures, suggesting they're not arbitrary.
 
 **Moral luck.** Your character depends partly on circumstances you didn't choose — your upbringing, your community, your opportunities to practice virtue. This seems unfair if moral character is supposed to be something you earn.
 

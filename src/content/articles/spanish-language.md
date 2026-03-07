@@ -5,7 +5,7 @@ description: "Spanish is a Romance language spoken by over 500 million people wo
 category: everyday-concepts
 tags: ["spanish language", "Romance languages", "linguistics", "Latin America", "bilingualism", "global language"]
 heroImage: "/images/articles/spanish-language.webp"
-heroAlt: "A world map highlighting Spanish-speaking countries across the Americas, Europe, and Africa"
+heroAlt: "Editorial photograph representing the concept of spanish language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -69,8 +69,8 @@ Bilingualism and code-switching (mixing English and Spanish in conversation) are
 
 ## Why Learn Spanish
 
-The practical case is strong. Spanish opens communication with half a billion people across more than 20 countries. It's the most useful second language for Americans by a wide margin. Job markets increasingly value bilingual candidates, particularly in healthcare, education, business, law, and social services.
+The practical case is strong. Spanish opens communication with half a billion people across more than 20 countries. It's the most useful second language for Americans by a wide margin. Job markets increasingly value bilingual candidates, particularly in healthcare, [education](/education), business, law, and social services.
 
 The cognitive benefits of bilingualism are well-documented — improved executive function, delayed cognitive decline, and enhanced mental flexibility. And Spanish, as a Category I language for English speakers, offers the best return on investment — maximum global utility for minimum learning difficulty.
 
-Beyond utility, Spanish gives access to extraordinary literary and cultural traditions — from Cervantes to Garcia Marquez, from flamenco to salsa, from Goya to Frida Kahlo. Learning the language opens doors that translation alone can't fully replicate.
+Beyond utility, Spanish gives access to extraordinary literary and cultural traditions — from Cervantes to Garcia Marquez, from flamenco to salsa, from Goya to Frida Kahlo. Learning the language opens doors that [translation](/translation) alone can't fully replicate.

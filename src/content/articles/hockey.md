@@ -5,7 +5,7 @@ description: "Hockey is a fast-paced team sport played on ice or field where pla
 category: sports
 tags: ["hockey", "ice hockey", "field hockey", "sports", "team sport", "puck"]
 heroImage: "/images/articles/hockey.webp"
-heroAlt: "Ice hockey players battling for the puck near the goal during a professional game"
+heroAlt: "Editorial photograph representing the concept of hockey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Hockey?
 
-Hockey is a team sport where players use curved sticks to drive a puck or ball into the opposing team's goal. The two major forms — ice hockey and field hockey — are played in over 80 countries combined. Ice hockey dominates in North America and Northern Europe. Field hockey is more popular globally, with strong traditions in India, Pakistan, the Netherlands, Australia, and much of Europe.
+Hockey is a team sport where players use curved sticks to drive a puck or ball into the opposing team's goal. The two major forms — [ice hockey](/ice-hockey) and [field hockey](/field-hockey) — are played in over 80 countries combined. Ice hockey dominates in North America and Northern Europe. Field hockey is more popular globally, with strong traditions in India, Pakistan, the Netherlands, Australia, and much of Europe.
 
 ## Ice Hockey — Speed on Blades
 
@@ -47,7 +47,7 @@ The **NHL** (National Hockey League), founded in 1917, is the top professional l
 
 Field hockey is actually the older and more widely played version. It is contested at the Olympics, the Hockey World Cup, and in professional leagues across Europe, Asia, and Oceania. Over 130 national federations belong to the International Hockey Federation (FIH).
 
-Eleven players per side play on a field 100 yards long. The ball is hard, slightly larger than a baseball. Players use flat-sided sticks — you can only use the flat side to hit the ball, which is a rule that constantly confuses newcomers. There is no body checking, and aerial balls above shoulder height are penalized.
+Eleven players per side play on a field 100 yards long. The ball is hard, slightly larger than a [baseball](/baseball). Players use flat-sided sticks — you can only use the flat side to hit the ball, which is a rule that constantly confuses newcomers. There is no body checking, and aerial balls above shoulder height are penalized.
 
 India and Pakistan dominated Olympic field hockey for decades. India won eight Olympic gold medals between 1928 and 1980. The Netherlands, Australia, Germany, and Argentina are the current powerhouses.
 
@@ -57,7 +57,7 @@ Stick-and-ball games appear in nearly every ancient culture. Egyptian tomb carvi
 
 Modern field hockey was formalized in England in the mid-1800s. The first official rules were written in 1876. Ice hockey's origins are disputed — Montreal, Halifax, and Windsor, Nova Scotia all claim the first organized game. What is clear is that ice hockey evolved in eastern Canada in the 1870s and 1880s, initially using a ball before switching to a flat puck (which stayed on the ice better and did not bounce over the boards as often).
 
-The NHL was founded in Montreal in 1917 with four teams. It expanded slowly for decades, then rapidly from the 1990s onward, adding teams across the American Sun Belt — places like Phoenix, Tampa, Nashville, and Las Vegas where natural ice does not exist but air conditioning does.
+The NHL was founded in Montreal in 1917 with four teams. It expanded slowly for decades, then rapidly from the 1990s onward, adding teams across the American Sun Belt — places like Phoenix, Tampa, Nashville, and Las Vegas where natural ice does not exist but [air conditioning](/air-conditioning) does.
 
 ## How Ice Hockey Actually Works
 
@@ -69,7 +69,7 @@ The basic rules are straightforward, but the strategy is layered.
 
 **Power plays** occur when a team commits a penalty (tripping, hooking, slashing, etc.) and must play short-handed for two minutes. The penalized player sits in the penalty box. Five-on-four advantages produce many of the game's goals.
 
-**Overtime and shootouts** settle tied games. Regular season NHL games use a five-minute three-on-three overtime, then a shootout if still tied. Playoff games use twenty-minute sudden-death overtime periods — no shootouts, play until someone scores. Some playoff games have gone to quadruple overtime, running past midnight.
+**Overtime and shootouts** settle tied games. Regular season NHL games use a five-minute three-on-three overtime, then a shootout if still tied. Playoff games use twenty-minute sudden-death overtime periods — no shootouts, play until someone scores. Some playoff games have gone to quadruple overtime, [running](/running) past midnight.
 
 ## The Culture of Hockey
 

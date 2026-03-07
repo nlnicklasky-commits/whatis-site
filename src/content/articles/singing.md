@@ -5,7 +5,7 @@ description: "Singing is the act of producing musical sounds with the voice. Lea
 category: arts-amp-culture
 tags: ["singing", "voice", "music", "vocal performance", "choral music", "performance art"]
 heroImage: "/images/articles/singing.webp"
-heroAlt: "A vocalist performing on stage with a microphone under dramatic lighting"
+heroAlt: "Editorial photograph representing the concept of singing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Singing?
 
-Singing is the act of producing sustained, pitched musical sounds using the human voice. It involves coordinated control of breathing, vocal cord vibration, resonance, and articulation to create melody, harmony, and emotional expression. Every human culture in recorded history has developed singing traditions — it may be the oldest form of music, predating instruments by millennia.
+Singing is the act of producing sustained, pitched musical sounds using the human voice. It involves coordinated control of breathing, vocal cord vibration, resonance, and articulation to create melody, [harmony](/harmony), and emotional expression. Every human culture in recorded history has developed singing traditions — it may be the oldest form of music, predating instruments by millennia.
 
 Your voice is, technically, a wind instrument. Air from the lungs passes through the vocal folds (commonly called vocal cords) in the larynx, causing them to vibrate. Those vibrations create sound waves that are shaped by the throat, mouth, nasal passages, and sinuses into recognizable pitches and vowel sounds. The result is the most personal musical instrument possible — one that's literally part of your body.
 
@@ -47,7 +47,7 @@ The singing voice operates through three interconnected systems.
 
 ## The Voice Types
 
-Classical music categorizes voices by range and quality, but the classification applies broadly.
+[Classical music](/classical-music) categorizes voices by range and quality, but the classification applies broadly.
 
 **Sopranos** sing the highest female parts, typically C4 to C6. Think Renee Fleming or Adele. **Mezzo-sopranos** sit in the middle female range (A3 to A5) — a darker, richer sound. **Contraltos** (or altos) are the lowest female voices, rare and prized for their depth.
 
@@ -57,7 +57,7 @@ These categories matter less in pop, rock, and jazz, where vocal style and perso
 
 ## Learning to Sing
 
-**Pitch accuracy** comes first. If you can't match pitch — singing the same note you hear — everything else is premature. Most pitch problems aren't about hearing; they're about ear-voice coordination. Your ear hears the note correctly, but your vocal muscles don't know how to produce it. Practice with a piano or tuner, matching single notes until the connection becomes automatic.
+**Pitch accuracy** comes first. If you can't match pitch — singing the same note you hear — everything else is premature. Most pitch problems aren't about hearing; they're about ear-voice coordination. Your ear hears the note correctly, but your vocal muscles don't know how to produce it. Practice with a [piano](/piano) or tuner, matching single notes until the connection becomes automatic.
 
 **Breath support** is the single most important technical skill. Place your hand on your abdomen and breathe so it expands outward (diaphragmatic breathing). When singing, maintain steady outward pressure rather than letting your abdomen collapse. This provides the consistent airflow that supports stable, sustained tone.
 
@@ -71,7 +71,7 @@ These categories matter less in pop, rock, and jazz, where vocal style and perso
 
 **Pop and rock singing** prizes individuality, emotional expression, and stylistic personality over technical purity. Vocal "imperfections" — rasp, breathiness, vocal fry — become stylistic signatures. Microphone technique matters as much as vocal technique, since amplification changes the game entirely.
 
-**Jazz singing** emphasizes improvisation, rhythmic flexibility, and harmonic sophistication. Scat singing — improvising with nonsense syllables — treats the voice as an improvisational instrument comparable to a saxophone or trumpet.
+**Jazz singing** emphasizes improvisation, rhythmic flexibility, and harmonic sophistication. Scat singing — improvising with nonsense syllables — treats the voice as an improvisational instrument comparable to a [saxophone](/saxophone) or [trumpet](/trumpet).
 
 **Choral singing** blends individual voices into a unified ensemble sound. The skill here is partly about suppressing individual characteristics — matching vowel shapes, dynamics, and vibrato with the group. The collective result, when it works, produces a richness no solo voice can achieve.
 
@@ -83,7 +83,7 @@ Your voice is fragile in ways that guitars and pianos are not. Vocal folds are d
 
 **Warm up before singing.** Start with gentle humming, lip trills, and easy scales before pushing into challenging material. Cold muscles (including vocal muscles) are more prone to injury.
 
-**Don't sing through illness.** Inflamed, swollen vocal folds are fragile. Pushing through a cold or laryngitis can cause hemorrhages or nodules that take weeks to heal and may require surgery in severe cases.
+**Don't sing through illness.** Inflamed, swollen vocal folds are fragile. Pushing through a cold or laryngitis can cause hemorrhages or nodules that take weeks to heal and may require [surgery](/surgery) in severe cases.
 
 **Rest your voice.** Professional singers build rest days into their schedules. If your voice feels tired, strained, or hoarse, stop singing and let it recover. Persistent hoarseness lasting more than two weeks warrants a visit to an otolaryngologist (ENT doctor).
 

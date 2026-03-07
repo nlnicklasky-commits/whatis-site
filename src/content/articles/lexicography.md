@@ -5,7 +5,7 @@ description: "Lexicography is the practice of compiling, editing, and publishing
 category: language
 tags: ["lexicography", "dictionaries", "linguistics", "language", "etymology", "words"]
 heroImage: "/images/articles/lexicography.webp"
-heroAlt: "An open dictionary with magnifying glass resting on the pages showing word definitions"
+heroAlt: "Editorial photograph representing the concept of lexicography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,25 +41,25 @@ A lexicographer's job breaks down into several stages:
 
 **Collecting evidence.** Before you can define a word, you need to see how people actually use it. Modern lexicographers maintain enormous databases of citations — sentences drawn from books, newspapers, websites, transcripts, and social media. Merriam-Webster monitors roughly 100 million words of text per month. The Oxford English Dictionary's citation database contains over 3.5 million quotations.
 
-**Writing definitions.** This is harder than it looks. A definition needs to be precise, concise, and understandable to someone who doesn't already know the word. It shouldn't be circular (defining "big" as "large" and "large" as "big"). It should cover the word's actual range of meaning without being so broad it could apply to anything. Good definition writing is a genuine skill that takes years to develop.
+**[Writing](/writing) definitions.** This is harder than it looks. A definition needs to be precise, concise, and understandable to someone who doesn't already know the word. It shouldn't be circular (defining "big" as "large" and "large" as "big"). It should cover the word's actual range of meaning without being so broad it could apply to anything. Good definition writing is a genuine skill that takes years to develop.
 
 **Ordering senses.** Many words have multiple meanings. "Run" has over 600 distinct uses in the Oxford English Dictionary. Lexicographers must decide how to organize these senses — historically (oldest meaning first) or by frequency (most common meaning first). Different dictionaries make different choices.
 
-**Adding supplementary information.** Pronunciation, etymology, usage notes, example sentences, grammatical labels (noun, verb, adjective), register labels (formal, informal, slang, archaic) — all of this surrounds the definition and helps the reader understand not just what a word means but how to use it.
+**Adding supplementary information.** Pronunciation, [etymology](/etymology), usage notes, example sentences, grammatical labels (noun, verb, adjective), register labels (formal, informal, slang, archaic) — all of this surrounds the definition and helps the reader understand not just what a word means but how to use it.
 
 ## A Condensed History
 
-The idea of listing words with explanations is ancient. Sumerian-Akkadian word lists from around 2300 BCE are among the earliest known examples. Ancient Chinese, Greek, and Sanskrit scholars all created glossaries and word lists.
+The idea of listing words with explanations is ancient. Sumerian-Akkadian word lists from around 2300 BCE are among the earliest known examples. Ancient Chinese, Greek, and [Sanskrit](/sanskrit) scholars all created glossaries and word lists.
 
-But the modern dictionary — thorough, alphabetically arranged, with detailed definitions and citations — is a relatively recent invention. Robert Cawdrey's *A Table Alphabeticall* (1604) is usually cited as the first English dictionary, though it contained only about 2,500 "hard words" borrowed from other languages.
+But the modern dictionary — thorough, alphabetically arranged, with detailed definitions and citations — is a relatively recent [invention](/invention). Robert Cawdrey's *A Table Alphabeticall* (1604) is usually cited as the first English dictionary, though it contained only about 2,500 "hard words" borrowed from other languages.
 
-Samuel Johnson's *A Dictionary of the English Language* (1755) changed everything. Johnson worked with six assistants for nine years to produce a two-volume work containing about 42,773 entries, each illustrated with literary quotations. It remained the standard English dictionary for 173 years.
+Samuel Johnson's *A Dictionary of the [English Language](/english-language)* (1755) changed everything. Johnson worked with six assistants for nine years to produce a two-volume work containing about 42,773 entries, each illustrated with literary quotations. It remained the standard English dictionary for 173 years.
 
 Noah Webster's *An American Dictionary of the English Language* (1828) established American English as distinct from British English, standardizing American spellings like "color" (not "colour") and "center" (not "centre").
 
 The Oxford English Dictionary, begun in 1857 and not completed until 1928, attempted something unprecedented: documenting every word in the English language from 1150 onward, with dated quotations showing each word's historical development. It's still being revised — continuously, now — and remains the most ambitious lexicographic project in history.
 
-## The Prescriptive vs. Descriptive Debate
+## The Prescriptive vs. Descriptive [Debate](/debate)
 
 This is the argument that never dies. Should a dictionary tell you how language *ought* to be used, or should it describe how language *is* used?
 
@@ -73,7 +73,7 @@ The distinction matters more than you'd think. It shapes what gets included, how
 
 The internet didn't just change how dictionaries are distributed — it changed how they're made. Print dictionaries had to make brutal choices about what to include, constrained by physical page limits. A digital dictionary has effectively infinite space.
 
-Corpus linguistics — using computer analysis of massive text databases — has transformed evidence gathering. Lexicographers can now track word frequency, collocations (which words appear together), and usage patterns across billions of words of text. This makes definitions more accurate and more responsive to how language actually behaves.
+Corpus [linguistics](/linguistics) — using computer analysis of massive text databases — has transformed evidence gathering. Lexicographers can now track word frequency, collocations (which words appear together), and usage patterns across billions of words of text. This makes definitions more accurate and more responsive to how language actually behaves.
 
 Online dictionaries also update continuously. Merriam-Webster adds new words several times per year. The OED publishes quarterly updates. Print editions are essentially snapshots; online dictionaries are living documents.
 

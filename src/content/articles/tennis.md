@@ -5,7 +5,7 @@ description: "Tennis is a racket sport played by hitting a ball over a net on a 
 category: sports
 tags: ["tennis", "racket sport", "court", "Grand Slam", "ATP", "WTA"]
 heroImage: "/images/articles/tennis.webp"
-heroAlt: "A tennis player serving on a grass court during a competitive match"
+heroAlt: "Editorial photograph representing the concept of tennis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Tennis is a racket sport played on a rectangular court where players (singles) or pairs (doubles) hit a felt-covered rubber ball over a net using string-rackets. The objective is to hit the ball into the opponent's side of the court in such a way that they can't return it successfully.
 
-It's one of the most popular individual sports in the world — played by an estimated 87 million people in over 200 countries. And unlike most sports, tennis produces genuinely gripping drama through a scoring system that means no lead is ever truly safe.
+It's one of the most popular individual sports in the world — played by an estimated 87 million people in over 200 countries. And unlike most sports, tennis produces genuinely gripping [drama](/drama) through a scoring system that means no lead is ever truly safe.
 
 ## The Scoring (Yes, It's Confusing)
 
@@ -88,7 +88,7 @@ Women's tennis has produced equally compelling champions. Serena Williams's 23 G
 
 ## Health Benefits
 
-Tennis is excellent [exercise](/exercise-physiology). A competitive singles match burns 400-600 calories per hour and involves sprinting, lateral movement, coordination, and endurance. A 2018 study in the British Journal of Sports Medicine found that tennis players had a 47% lower risk of all-cause mortality compared to sedentary individuals — the highest reduction of any sport studied.
+Tennis is excellent [exercise](/exercise-[physiology](/physiology)). A competitive singles match burns 400-600 calories per hour and involves sprinting, lateral movement, coordination, and endurance. A 2018 study in the British Journal of Sports Medicine found that tennis players had a 47% lower risk of all-cause mortality compared to sedentary individuals — the highest reduction of any sport studied.
 
 The sport is also highly social. Doubles play is inherently collaborative, and the tennis club culture provides community and connection.
 

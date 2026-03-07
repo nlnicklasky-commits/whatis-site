@@ -5,7 +5,7 @@ description: "Christianity is a monotheistic religion centered on Jesus Christ. 
 category: philosophy
 tags: ["christianity", "religion", "jesus christ", "bible", "faith", "theology", "monotheism"]
 heroImage: "/images/articles/christianity-hero.webp"
-heroAlt: "Ancient cathedral interior with stained glass windows casting colored light"
+heroAlt: "Editorial photograph representing the concept of christianity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -143,7 +143,7 @@ Christianity's influence on world history is almost impossible to overstate. For
 
 Christian institutions founded many of the world's oldest universities—Oxford, Cambridge, Paris, Bologna. Monasteries preserved classical learning through the medieval period. Christian ethics influenced the development of human rights concepts, the abolition of slavery (many abolitionists were motivated by Christian conviction), and the establishment of hospitals and charitable organizations.
 
-The artistic legacy is staggering. Christian patronage produced Michelangelo's Sistine Chapel ceiling, Bach's Mass in B Minor, Dante's Divine Comedy, Gothic cathedrals, Orthodox iconography, and centuries of Western art and music. The study of [aesthetics](/aesthetics) in Western philosophy is inseparable from Christian artistic tradition.
+The artistic legacy is staggering. Christian patronage produced Michelangelo's Sistine Chapel ceiling, Bach's Mass in B Minor, Dante's Divine Comedy, Gothic cathedrals, Orthodox [iconography](/iconography), and centuries of [Western art](/western-art) and music. The study of [aesthetics](/aesthetics) in [Western philosophy](/western-philosophy) is inseparable from Christian artistic tradition.
 
 ### Painful History
 
@@ -153,11 +153,11 @@ The relationship between Christianity and science has been complicated. The Gali
 
 ## Christianity and Philosophy
 
-Christian theology and Western philosophy have been in conversation for two millennia. Early Church Fathers like Augustine of Hippo (354-430 CE) synthesized Christian theology with Neoplatonic philosophy. Thomas Aquinas (1225-1274) integrated Aristotelian philosophy with Christian doctrine, producing Scholasticism—the dominant intellectual framework of medieval Europe.
+Christian theology and Western philosophy have been in conversation for two millennia. Early Church Fathers like Augustine of Hippo (354-430 CE) synthesized Christian theology with Neoplatonic philosophy. Thomas Aquinas (1225-1274) integrated Aristotelian philosophy with Christian doctrine, producing [Scholasticism](/scholasticism)—the dominant intellectual framework of medieval Europe.
 
 The [stoicism](/stoicism) of Roman philosophy influenced early Christian ethics, particularly in its emphasis on virtue, self-discipline, and acceptance of suffering. Paul's letters show familiarity with Stoic concepts, and many early converts came from philosophical backgrounds.
 
-The Enlightenment challenged Christianity's intellectual dominance, but Christian philosophy didn't disappear—it adapted. Kierkegaard developed Christian existentialism. C.S. Lewis wrote popular apologetics. Liberation theology in Latin America connected Christian faith to social justice. Today, philosophy of religion remains an active academic field, with Christian philosophers contributing to debates about consciousness, ethics, and the existence of God.
+The Enlightenment challenged Christianity's intellectual dominance, but Christian philosophy didn't disappear—it adapted. Kierkegaard developed Christian [existentialism](/existentialism). C.S. Lewis wrote popular apologetics. Liberation theology in Latin America connected Christian faith to [social justice](/social-justice). Today, [philosophy of religion](/philosophy-of-religion) remains an active academic field, with Christian philosophers contributing to debates about consciousness, ethics, and the existence of God.
 
 ## Christianity in the Modern World
 

@@ -5,7 +5,7 @@ description: "Patent law grants inventors exclusive rights to their inventions f
 category: finance
 tags: ["patent law", "intellectual property", "invention", "patent", "uspto", "exclusive rights", "technology"]
 heroImage: "/images/articles/patent-law-hero.webp"
-heroAlt: "Patent document with official seal alongside a mechanical invention prototype"
+heroAlt: "Editorial photograph representing the concept of patent law"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -79,7 +79,7 @@ Patent examiners and courts evaluate non-obviousness by looking at the scope and
 
 ### Utility
 
-The invention must be useful — it must actually work and provide some identifiable benefit. This is usually the easiest requirement to meet. A machine that performs its intended function is useful. A pharmaceutical compound that produces the claimed therapeutic effect is useful. A perpetual motion machine, by contrast, fails the utility requirement because it violates the laws of thermodynamics and doesn't actually work.
+The invention must be useful — it must actually work and provide some identifiable benefit. This is usually the easiest requirement to meet. A machine that performs its intended function is useful. A pharmaceutical compound that produces the claimed therapeutic effect is useful. A perpetual motion machine, by contrast, fails the utility requirement because it violates the laws of [thermodynamics](/thermodynamics) and doesn't actually work.
 
 ## Types of Patents
 
@@ -157,7 +157,7 @@ Indirect infringement includes inducing others to infringe (actively encouraging
 
 ### The Cost of Litigation
 
-Patent litigation is among the most expensive types of civil litigation. According to the American Intellectual Property Law Association's economic surveys, the median cost of a patent infringement case through trial exceeds $3 million for cases with $1-10 million at stake, and over $5 million for larger cases. Cases in the Eastern District of Texas, long a popular venue for patent holders, and the Western District of Texas can run even higher.
+Patent litigation is among the most expensive types of civil litigation. According to the American [Intellectual Property Law](/intellectual-property-law) Association's economic surveys, the median cost of a patent infringement case through trial exceeds $3 million for cases with $1-10 million at stake, and over $5 million for larger cases. Cases in the Eastern District of Texas, long a popular venue for patent holders, and the Western District of Texas can run even higher.
 
 These costs create a significant imbalance. Large companies can afford to litigate; small inventors often cannot. This reality has fueled both the "patent troll" phenomenon (entities that acquire patents primarily to extract licensing fees through litigation threats) and calls for reform.
 

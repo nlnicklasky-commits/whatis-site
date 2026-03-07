@@ -5,7 +5,7 @@ description: "The history of religion covers how belief systems developed worldw
 category: history
 tags: ["history of religion", "religion", "belief systems", "world religions"]
 heroImage: "/images/articles/the-history-of-religion.webp"
-heroAlt: "Symbols of major world religions arranged in a timeline from ancient cave paintings to modern houses of worship"
+heroAlt: "Editorial photograph representing the concept of the history of religion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Neanderthal burial sites dating to roughly 100,000 years ago show bodies placed 
 
 Cave paintings at Lascaux (c. 17,000 years ago) and Chauvet (c. 36,000 years ago) depict animals with a vividness and intentionality that goes beyond decoration. Some chambers required crawling through tight passages to reach, suggesting ritual purpose. Figures that appear to be part-human, part-animal hint at shamanic practices.
 
-**Gobekli Tepe** in modern Turkey, dating to about 9600 BCE, is a game-changer. This massive stone complex — with carved pillars weighing up to 20 tons — was built by hunter-gatherers *before* the invention of agriculture or pottery. It flips the traditional narrative. We used to think settled agriculture came first and religion followed. Gobekli Tepe suggests that the desire to build sacred spaces may have actually *driven* the development of settled communities.
+**Gobekli Tepe** in modern Turkey, dating to about 9600 BCE, is a game-changer. This massive stone complex — with carved pillars weighing up to 20 tons — was built by hunter-gatherers *before* the invention of [agriculture](/agriculture) or pottery. It flips the traditional narrative. We used to think settled agriculture came first and religion followed. Gobekli Tepe suggests that the desire to build sacred spaces may have actually *driven* the development of settled communities.
 
 ## Ancient Mesopotamia and Egypt: Gods Everywhere
 
@@ -63,9 +63,9 @@ The same period that produced Greek [philosophy](/the-history-of-philosophy) als
 
 **Hinduism** doesn't have a single founder or a single origin point. It evolved from the Vedic religion of the Indo-Aryan peoples who settled in the Indian subcontinent around 1500 BCE. The **Vedas** are the oldest scriptures, focused on ritual and sacrifice. The **Upanishads** (c. 800–200 BCE) shifted the emphasis toward philosophical questions about the nature of reality (Brahman) and the self (Atman). The idea of **karma** and **reincarnation** — that your actions determine your future births — became central.
 
-**Buddhism** emerged from Hinduism. **Siddhartha Gautama** (c. 563–483 BCE), a prince in what's now Nepal, left his luxurious life after encountering suffering. After years of ascetic practice and meditation, he achieved enlightenment and became the Buddha ("awakened one"). His core teaching — the Four Noble Truths — diagnoses human suffering as caused by craving and attachment, and prescribes the Eightfold Path as the cure. Buddhism spread across Asia along trade routes and split into major branches: Theravada, Mahayana, and Vajrayana.
+**Buddhism** emerged from Hinduism. **Siddhartha Gautama** (c. 563–483 BCE), a prince in what's now Nepal, left his luxurious life after encountering suffering. After years of ascetic practice and [meditation](/meditation), he achieved enlightenment and became the Buddha ("awakened one"). His core teaching — the Four Noble Truths — diagnoses human suffering as caused by craving and attachment, and prescribes the Eightfold Path as the cure. Buddhism spread across Asia along trade routes and split into major branches: Theravada, Mahayana, and Vajrayana.
 
-**Zoroastrianism**, founded by the prophet Zarathustra (dates disputed, possibly 1500–500 BCE) in ancient Persia, introduced ideas that profoundly influenced later religions: a cosmic battle between good (Ahura Mazda) and evil (Angra Mainyu), individual moral choice, final judgment, heaven and hell, and an eventual resurrection. Many scholars believe these concepts influenced Judaism, Christianity, and Islam.
+**[Zoroastrianism](/zoroastrianism)**, founded by the prophet Zarathustra (dates disputed, possibly 1500–500 BCE) in ancient Persia, introduced ideas that profoundly influenced later religions: a cosmic battle between good (Ahura Mazda) and evil (Angra Mainyu), individual moral choice, final judgment, heaven and hell, and an eventual resurrection. Many scholars believe these concepts influenced Judaism, [Christianity](/christianity), and Islam.
 
 **Judaism** evolved from the polytheistic religion of the ancient Israelites into strict monotheism over several centuries. The Babylonian Exile (586–539 BCE) was a turning point — forced from their land, Jewish thinkers developed a theology that emphasized a single God with universal jurisdiction, ethical monotheism, covenantal law, and the importance of scripture. The Hebrew Bible was largely compiled during and after this period.
 
@@ -83,11 +83,11 @@ Islam developed its own internal diversity. The **Sunni-Shia split** (originatin
 
 East Asian religions often don't fit neatly into Western categories.
 
-**Confucianism** is sometimes called a philosophy rather than a religion, but it functioned religiously for millions of people. Confucius emphasized social harmony, filial piety, proper ritual, and ethical self-cultivation. Ancestor veneration and ritual practice gave it distinctly religious dimensions.
+**[Confucianism](/confucianism)** is sometimes called a philosophy rather than a religion, but it functioned religiously for millions of people. Confucius emphasized social harmony, filial piety, proper ritual, and ethical self-cultivation. Ancestor veneration and ritual practice gave it distinctly religious dimensions.
 
 **Daoism** began with the philosophical texts attributed to Laozi and Zhuangzi, but developed into a full-fledged religion with priests, temples, deities, alchemical practices, and elaborate rituals. It coexisted (sometimes uneasily) with Confucianism and Buddhism in China.
 
-**Shinto**, Japan's indigenous tradition, centers on *kami* — spirits inhabiting natural features, ancestors, and sacred places. It coexisted with Buddhism after the 6th century CE, and the two traditions intertwined so deeply that separating them required deliberate government intervention in the 19th century.
+**Shinto**, Japan's indigenous tradition, centers on *kami* — spirits inhabiting natural features, ancestors, and sacred places. It coexisted with Buddhism after the 6th century CE, and the two traditions intertwined so deeply that separating them required deliberate [government](/government) intervention in the 19th century.
 
 The interesting thing about East Asia is that people often practiced multiple traditions simultaneously. A person might be Confucian in their social ethics, Daoist in their approach to nature, and Buddhist in their understanding of death. The Western assumption that you belong to one religion was foreign to this cultural context.
 
@@ -105,6 +105,6 @@ The 21st-century religious picture is full of cross-currents. Christianity is sh
 
 The "nones" — people with no religious affiliation — are one of the fastest-growing demographics, especially in the developed world. But "no affiliation" doesn't necessarily mean atheism; many "nones" describe themselves as "spiritual but not religious."
 
-Fundamentalist and conservative religious movements have gained political influence in multiple countries and traditions. At the same time, progressive religious movements push for inclusivity and social justice. Religion adapts, fragments, recombines, and persists in ways that keep surprising the scholars who study it.
+Fundamentalist and conservative religious movements have gained political influence in multiple countries and traditions. At the same time, progressive religious movements push for inclusivity and [social justice](/social-justice). Religion adapts, fragments, recombines, and persists in ways that keep surprising the scholars who study it.
 
 After at least 100,000 years of human religious behavior, one thing seems clear: the impulse to seek meaning beyond the material world is deeply embedded in human nature. Whether that tells us something about reality or just about ourselves is, of course, one of the oldest questions there is.

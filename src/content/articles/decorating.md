@@ -5,7 +5,7 @@ description: "Decorating is the practice of arranging and styling living spaces 
 category: everyday-concepts
 tags: ["decorating", "everyday-concepts"]
 heroImage: "/images/articles/decorating.webp"
-heroAlt: "A beautifully styled living room with curated furniture and decorative accents"
+heroAlt: "Editorial photograph representing the concept of decorating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Good decorating follows a handful of principles that apply regardless of style o
 
 **Balance** creates visual stability. Symmetrical balance (matching lamps flanking a sofa) feels formal and orderly. Asymmetrical balance (a large object on one side balanced by a cluster of smaller objects on the other) feels more casual and interesting. Both work; neither is superior.
 
-**[Color](/color-theory)** sets mood instantly. Warm colors (reds, oranges, yellows) energize. Cool colors (blues, greens, purples) calm. Neutral colors (whites, grays, beiges) provide flexibility. The 60-30-10 rule is a reliable starting point: 60% dominant color (walls, large furniture), 30% secondary color (upholstery, curtains), 10% accent color (pillows, art, accessories).
+**[Color](/color-theory)** sets mood instantly. Warm colors (reds, oranges, yellows) energize. Cool colors (blues, greens, purples) calm. Neutral colors (whites, grays, beiges) provide flexibility. The 60-30-10 rule is a reliable starting point: 60% dominant color (walls, large furniture), 30% secondary color ([upholstery](/upholstery), curtains), 10% accent color (pillows, art, accessories).
 
 **Focal points** give a room visual purpose. A fireplace, a large window, an accent wall, or a statement piece of furniture draws the eye and organizes the rest of the space around it. Rooms without focal points feel directionless.
 
@@ -57,7 +57,7 @@ Good decorating follows a handful of principles that apply regardless of style o
 
 **Farmhouse** evokes rural charm — reclaimed wood, white shiplap, rustic metals, and soft linens. Joanna Gaines and HGTV's *Fixer Upper* made this style mainstream. At its best, it's warm and welcoming. At its worst, it drowns in decorative signs that say "Blessed."
 
-**Bohemian** layers patterns, textures, and collected objects from various cultures and eras. It's maximalist where minimalism strips away — more pillows, more plants, more color, more story. The best bohemian spaces feel like a well-traveled life made visible.
+**Bohemian** layers patterns, textures, and collected objects from various cultures and eras. It's maximalist where [minimalism](/minimalism) strips away — more pillows, more plants, more color, more story. The best bohemian spaces feel like a well-traveled life made visible.
 
 **Scandinavian** prioritizes light, functionality, and simplicity. White and pale wood dominate, with pops of color through textiles and accessories. The concept of "hygge" (coziness) drives the aesthetic — spaces should feel inviting and comfortable despite their visual simplicity.
 
@@ -65,7 +65,7 @@ Good decorating follows a handful of principles that apply regardless of style o
 
 Most decorating can be done yourself. Paint is the single highest-impact, lowest-cost change you can make — a $40 gallon of paint transforms a room more dramatically than almost any other expenditure.
 
-**When DIY works best:** Painting, accessorizing, rearranging furniture, hanging art, adding plants, updating hardware (cabinet pulls, doorknobs), changing light fixtures, and swapping textiles (curtains, pillows, throws).
+**When DIY works best:** [Painting](/painting), accessorizing, rearranging furniture, hanging art, adding plants, updating hardware (cabinet pulls, doorknobs), changing light fixtures, and swapping textiles (curtains, pillows, throws).
 
 **When professionals help:** Large rooms with complex layouts, historic properties requiring period-appropriate choices, open floor plans where multiple zones need cohesion, and situations where you're simply stuck and can't articulate why a room doesn't work.
 
@@ -83,6 +83,6 @@ Hiring a decorator or design consultant for a few hours ($100-$300/hour typicall
 
 ## The Psychological Impact
 
-Your environment affects your mood, productivity, and stress levels — this is well-documented. A cluttered, poorly lit room increases cortisol (the stress hormone). A thoughtfully arranged space with good light, comfortable seating, and personal touches promotes relaxation and wellbeing.
+Your environment affects your mood, [productivity](/productivity), and stress levels — this is well-documented. A cluttered, poorly lit room increases cortisol (the stress hormone). A thoughtfully arranged space with good light, comfortable seating, and personal touches promotes relaxation and wellbeing.
 
 Decorating isn't frivolous. It's a practical investment in how you feel in the spaces where you spend most of your life. You don't need a magazine-worthy home. You need a home that works for you, looks like you, and makes you feel good when you walk through the door.

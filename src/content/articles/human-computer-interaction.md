@@ -5,7 +5,7 @@ description: "Human-computer interaction (HCI) studies how people use technology
 category: technology
 tags: ["human-computer interaction", "hci", "ux design", "usability", "interface design", "computer science", "user experience"]
 heroImage: "/images/articles/human-computer-interaction-hero.webp"
-heroAlt: "Person interacting with a touchscreen interface displaying multiple data visualizations"
+heroAlt: "Editorial photograph representing the concept of human-computer interaction"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Except — it's not that simple. At all.
 
 Consider that about 50% of software development time is spent on the user interface. That 88% of online consumers say they're less likely to return to a site after a bad experience. That medical device interface errors contribute to an estimated 98,000 preventable deaths per year in US hospitals alone.
 
-The gap between how engineers think about systems and how regular humans actually use them is enormous. Engineers think in terms of features, data models, and system architecture. Users think in terms of tasks: "I want to send this photo to my mom." HCI exists because bridging that gap requires systematic study, not just good intentions.
+The gap between how engineers think about systems and how regular humans actually use them is enormous. Engineers think in terms of features, data models, and system [architecture](/architecture). Users think in terms of tasks: "I want to send this photo to my mom." HCI exists because bridging that gap requires systematic study, not just good intentions.
 
 ## A Brief History of Humans Meeting Machines
 
@@ -107,9 +107,9 @@ George Miller's 1956 paper "The Magical Number Seven, Plus or Minus Two" observe
 
 Interface design must respect this limit. Phone numbers are chunked (555-867-5309, not 5558675309). Navigation menus with more than 7-9 items become overwhelming. Multi-step forms should show progress indicators so users don't need to remember where they are in the process.
 
-Cognitive load theory, developed in educational psychology and adopted by HCI, distinguishes between intrinsic load (the inherent difficulty of a task), extraneous load (unnecessary difficulty added by bad design), and germane load (mental effort spent learning). Good interface design minimizes extraneous load so users can focus their mental resources on the actual task.
+Cognitive load theory, developed in [educational psychology](/educational-psychology) and adopted by HCI, distinguishes between intrinsic load (the inherent difficulty of a task), extraneous load (unnecessary difficulty added by bad design), and germane load (mental effort spent learning). Good interface design minimizes extraneous load so users can focus their mental resources on the actual task.
 
-## Research Methods: How HCI Gets Its Answers
+## [Research Methods](/research-methods): How HCI Gets Its Answers
 
 ### Usability Testing
 
@@ -123,7 +123,7 @@ Think-aloud protocol is a common enhancement: users verbalize their thoughts whi
 
 You show version A to half your users and version B to the other half, then compare outcomes. Which button color gets more clicks? Which checkout flow has fewer abandoned carts? Which headline keeps people reading?
 
-A/B testing is powerful but limited. It tells you which option performs better, not why. And it's only useful when you have enough traffic for statistical significance. Google famously tested 41 shades of blue for link color, measuring click-through rates for each. They found the optimal shade — but that level of optimization requires Google-scale traffic.
+A/B testing is powerful but limited. It tells you which option performs better, not why. And it's only useful when you have enough traffic for statistical significance. Google famously tested 41 shades of blue for link color, measuring click-through rates for each. They found the optimal shade — but that level of [optimization](/optimization) requires Google-scale traffic.
 
 ### Eye Tracking
 
@@ -133,7 +133,7 @@ The F-pattern, discovered through eye-tracking research, shows that users scan w
 
 ### Contextual Inquiry
 
-Instead of bringing users to a lab, researchers go to users' actual workplaces and observe them using technology in context. This reveals workflows, workarounds, environmental factors (interruptions, noise, lighting), and social dynamics that lab testing misses.
+Instead of bringing users to a lab, researchers go to users' actual workplaces and observe them using technology in context. This reveals workflows, workarounds, environmental factors (interruptions, noise, lighting), and [social dynamics](/social-dynamics) that lab testing misses.
 
 Contextual inquiry has revealed insights that lab testing never would. Office workers using sticky notes as reminders because the software's notification system was buried too deep. Nurses tilting monitors at extreme angles because bed positions made the screen unreadable. Delivery drivers mounting phones on dashboards with rubber bands because no commercial mount fit their vehicle. These real-world observations drive design improvements that no amount of lab testing would suggest.
 

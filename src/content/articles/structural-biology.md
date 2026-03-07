@@ -5,7 +5,7 @@ description: "Structural biology studies the 3D shapes of biological molecules l
 category: everyday-concepts
 tags: ["structural biology", "biology", "proteins", "X-ray crystallography", "molecular biology", "biochemistry"]
 heroImage: "/images/articles/structural-biology.webp"
-heroAlt: "3D molecular model of a protein structure rendered in ribbon diagram"
+heroAlt: "Editorial photograph representing the concept of structural biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,11 +49,11 @@ The limitation? You need a crystal. Some proteins refuse to crystallize. Membran
 
 Cryo-EM has been around since the 1980s but became revolutionary around 2013 when detector technology caught up. You flash-freeze your sample in a thin layer of ice, then image it with an electron microscope from thousands of different angles. Software combines these images into a 3D reconstruction.
 
-The big advantage: no crystals needed. You can study molecules in near-native conditions, including large molecular machines that would never form crystals. The "resolution revolution" in cryo-EM earned Jacques Dubochet, Joachim Frank, and Richard Henderson the 2017 Nobel Prize in Chemistry.
+The big advantage: no crystals needed. You can study molecules in near-native conditions, including large molecular machines that would never form crystals. The "resolution revolution" in cryo-EM earned Jacques Dubochet, Joachim Frank, and Richard Henderson the 2017 Nobel Prize in [Chemistry](/chemistry).
 
 ### Nuclear Magnetic Resonance (NMR)
 
-NMR spectroscopy works on molecules in solution — closest to their natural state. It measures how atomic nuclei respond to magnetic fields, revealing distances between atoms and the overall molecular shape.
+NMR [spectroscopy](/spectroscopy) works on molecules in solution — closest to their natural state. It measures how atomic nuclei respond to magnetic fields, revealing distances between atoms and the overall molecular shape.
 
 NMR's unique strength is capturing molecular motion. Proteins aren't rigid statues — they flex, breathe, and shift between conformations. NMR can reveal these dynamics in ways that crystallography and cryo-EM cannot. The tradeoff is a size limit: NMR works best on relatively small proteins.
 

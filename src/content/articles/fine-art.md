@@ -5,7 +5,7 @@ description: "Fine art refers to creative works made primarily for aesthetic val
 category: everyday-concepts
 tags: ["fine art", "painting", "sculpture", "visual arts", "art history", "aesthetics"]
 heroImage: "/images/articles/fine-art.webp"
-heroAlt: "Art gallery with paintings hung on white walls and visitors observing"
+heroAlt: "Editorial photograph representing the concept of fine art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,19 +31,19 @@ faq:
 
 # What Is Fine Art?
 
-Fine art refers to creative works produced primarily for their aesthetic, intellectual, or emotional value rather than for a practical function. Painting, sculpture, drawing, printmaking, and — more recently — photography, video, installation, and performance are all considered fine art. The term distinguishes these from "applied" or "decorative" arts (furniture, textiles, ceramics), though that distinction has been questioned, debated, and partly dismantled over the past century.
+Fine art refers to creative works produced primarily for their aesthetic, intellectual, or emotional value rather than for a practical function. Painting, sculpture, drawing, [printmaking](/printmaking), and — more recently — photography, video, installation, and performance are all considered fine art. The term distinguishes these from "applied" or "decorative" arts (furniture, textiles, ceramics), though that distinction has been questioned, debated, and partly dismantled over the past century.
 
 ## The Traditional Categories
 
-For most of Western art history, the fine arts were a defined list. The French Academy, which dominated European art from the 17th to 19th centuries, ranked them in a hierarchy:
+For most of Western [art history](/art-history), the fine arts were a defined list. The French Academy, which dominated European art from the 17th to 19th centuries, ranked them in a hierarchy:
 
 **History painting** sat at the top — large-scale depictions of biblical, mythological, or historical scenes. This was considered the most intellectually demanding genre because it required knowledge of history, anatomy, composition, and narrative.
 
 **Portraiture** came next, followed by **genre painting** (scenes of everyday life), **field**, and **still life** at the bottom. This hierarchy reflected social values more than artistic quality — painting powerful people and grand narratives mattered more than painting fruit bowls.
 
-**Sculpture** ranked alongside painting. **Drawing** was fundamental — the basis for all other visual arts. **Printmaking** (etching, engraving, lithography) emerged as a fine art that could reach broader audiences than unique paintings.
+**Sculpture** ranked alongside painting. **Drawing** was fundamental — the basis for all other [visual arts](/visual-arts). **Printmaking** (etching, engraving, [lithography](/lithography)) emerged as a fine art that could reach broader audiences than unique paintings.
 
-Architecture was sometimes included, sometimes not. Music and poetry were traditionally grouped with the fine arts but occupy their own categories today.
+[Architecture](/architecture) was sometimes included, sometimes not. Music and poetry were traditionally grouped with the fine arts but occupy their own categories today.
 
 ## How the Boundaries Shifted
 
@@ -67,20 +67,20 @@ Formal art education follows a relatively standard path. A Bachelor of Fine Arts
 
 MFA programs function as both training grounds and networking opportunities. Schools like Yale, RISD, CalArts, the Royal College of Art, and Columbia attract talented students and connect them to galleries, curators, and collectors. The "right" MFA program can significantly boost an artist's career prospects — though many successful artists have no formal training at all.
 
-Art school teaches technique, but perhaps more importantly, it teaches critical thinking about art — how to articulate what your work is doing, how to position it within art historical conversations, and how to give and receive critique.
+Art school teaches technique, but perhaps more importantly, it teaches [critical thinking](/critical-thinking) about art — how to articulate what your work is doing, how to position it within art historical conversations, and how to give and receive critique.
 
 ## Contemporary Fine Art
 
-Today's fine art scene is enormous and fragmented. No single style or movement dominates the way Impressionism or Abstract Expressionism once did. Instead, artists work across a spectrum:
+Today's fine art scene is enormous and fragmented. No single style or movement dominates the way [Impressionism](/impressionism) or Abstract Expressionism once did. Instead, artists work across a spectrum:
 
 **Painting** never died, despite repeated declarations of its death. Painters like Cecily Brown, Mark Bradford, and Julie Mehretu command gallery walls and auction prices. The medium's directness — a human hand applying pigment to surface — continues to resonate.
 
 **Sculpture and installation** have expanded to room-sized environments. Olafur Eliasson's weather simulations, Yayoi Kusama's infinity rooms, and Ai Weiwei's politically charged installations draw millions of visitors.
 
-**Digital art and NFTs** exploded in 2021 when Beeple's digital collage sold for $69 million at Christie's. The NFT market subsequently crashed, but the question of whether digital works qualify as fine art has been answered: yes, if the art world says so.
+**[Digital art](/digital-art) and NFTs** exploded in 2021 when Beeple's digital collage sold for $69 million at Christie's. The NFT market subsequently crashed, but the question of whether digital works qualify as fine art has been answered: yes, if the art world says so.
 
-**Performance art**, video art, and interdisciplinary practices continue to push boundaries. The definition of fine art keeps expanding, absorbing new media and new ideas.
+**[Performance art](/performance-art)**, video art, and interdisciplinary practices continue to push boundaries. The definition of fine art keeps expanding, absorbing new media and new ideas.
 
 ## The Permanent Debate
 
-The question "What is fine art?" doesn't have a stable answer — and it probably shouldn't. The boundary between fine art and everything else has always been a social construction, reflecting the values and power dynamics of whoever gets to draw the line. The ongoing argument about where that line belongs is itself one of the most interesting things about the field.
+The question "What is fine art?" doesn't have a stable answer — and it probably shouldn't. The boundary between fine art and everything else has always been a social [construction](/construction), reflecting the values and power dynamics of whoever gets to draw the line. The ongoing argument about where that line belongs is itself one of the most interesting things about the field.

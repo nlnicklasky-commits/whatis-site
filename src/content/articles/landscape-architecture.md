@@ -5,7 +5,7 @@ description: "Landscape architecture is the design of outdoor spaces including p
 category: everyday-concepts
 tags: ["landscape architecture", "urban design", "parks", "environmental design", "outdoor spaces"]
 heroImage: "/images/articles/landscape-architecture.webp"
-heroAlt: "Aerial view of a designed urban park with walking paths, trees, and water features"
+heroAlt: "Editorial photograph representing the concept of landscape architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Parks, plazas, campuses, residential developments, streetscapes, green roofs, stormwater management systems, ecological restoration projects, memorials, playgrounds, botanical gardens, resort landscapes, highway corridors, and urban master plans. The field ranges from small residential gardens to regional environmental planning. Any designed outdoor space likely involved a landscape architect."
 ---
 
-# What Is Field Architecture?
+# What Is Field [Architecture](/architecture)?
 
-Field architecture is the profession of designing outdoor environments — from backyard gardens to national parks, from corporate campuses to urban waterfronts. It sits at the intersection of art, ecology, engineering, and social science, because designing outdoor spaces requires understanding not just how things look, but how water flows, how plants grow, how people move through space, and how communities use public places.
+Field architecture is the profession of designing outdoor environments — from backyard gardens to [national parks](/national-parks), from corporate campuses to urban waterfronts. It sits at the intersection of art, ecology, [engineering](/engineering), and social science, because designing outdoor spaces requires understanding not just how things look, but how water flows, how plants grow, how people move through space, and how communities use public places.
 
 ## More Than Pretty Gardens
 
-The most common misconception about field architecture is that it is fancy gardening. It is not. Field architects design systems, not just scenery.
+The most common misconception about field architecture is that it is fancy [gardening](/gardening). It is not. Field architects design systems, not just scenery.
 
 When a field architect designs a park, they are solving multiple problems simultaneously. How does stormwater drain from the site without flooding neighboring properties? Where do pedestrian paths go to create natural flow patterns? How do you make the space accessible to people with disabilities? What plants will thrive in this soil, this climate, this amount of sunlight — and still look good in twenty years? How do you create spaces that feel safe at night? Where do utilities run underground? What are the maintenance costs?
 
@@ -45,21 +45,21 @@ The profession requires a professional degree, supervised experience, and a lice
 
 Frederick Law Olmsted (1822-1903) is considered the founder of American field architecture — he actually coined the term. His most famous work, Central Park in New York City (designed with Calvert Vaux, completed in stages through the 1860s and 1870s), demonstrated that designed landscapes could serve as essential urban infrastructure.
 
-Central Park was not just pretty. It was engineered. Olmsted designed separate circulation systems for pedestrians, horse carriages, and cross-town traffic (the sunken transverse roads were genuinely creative). He created varied experiences — open meadows, intimate woodland paths, formal promenades, water features — within a single connected space. And he argued that access to nature was not a luxury but a necessity for urban populations' physical and mental health.
+Central Park was not just pretty. It was engineered. Olmsted designed separate circulation systems for pedestrians, horse carriages, and cross-town traffic (the sunken transverse roads were genuinely creative). He created varied experiences — open meadows, intimate woodland paths, formal promenades, water features — within a single connected space. And he argued that access to nature was not a luxury but a necessity for urban populations' physical and [mental health](/mental-health).
 
-Olmsted went on to design Boston's Emerald Necklace, the grounds of the U.S. Capitol, Stanford University's campus, and dozens of other parks and campuses. His firm continued for generations. The Olmsted legacy established field architecture as a profession distinct from both architecture and horticulture.
+Olmsted went on to design Boston's Emerald Necklace, the grounds of the U.S. Capitol, Stanford University's campus, and dozens of other parks and campuses. His firm continued for generations. The Olmsted legacy established field architecture as a profession distinct from both architecture and [horticulture](/horticulture).
 
 ## What Field Architects Do
 
-**Site analysis** — before designing anything, field architects study the site. Topography, soil types, hydrology (where water flows), existing vegetation, microclimates, views, and how the site connects to its surroundings. Good design starts with understanding what is already there.
+**Site analysis** — before designing anything, field architects study the site. [Topography](/topography), soil types, hydrology (where water flows), existing vegetation, microclimates, views, and how the site connects to its surroundings. Good design starts with understanding what is already there.
 
 **Master planning** — creating the overall vision for how a site will be organized. This includes circulation (paths, roads, gathering areas), program (what activities happen where), grading (reshaping the land surface for drainage and accessibility), and planting design.
 
-**Stormwater management** — increasingly important as cities deal with flooding and water quality issues. Field architects design rain gardens, bioswales, permeable paving, green roofs, and constructed wetlands that manage stormwater naturally rather than piping it away. Philadelphia's Green City, Clean Waters program, designed with field architects, is converting 10,000 acres of impervious surface to green infrastructure.
+**Stormwater [management](/management)** — increasingly important as cities deal with flooding and water quality issues. Field architects design rain gardens, bioswales, permeable paving, green roofs, and constructed wetlands that manage stormwater naturally rather than piping it away. Philadelphia's Green City, Clean Waters program, designed with field architects, is converting 10,000 acres of impervious surface to green infrastructure.
 
 **Ecological restoration** — repairing damaged ecosystems. This might mean converting an industrial brownfield into a wetland, restoring native prairie on degraded farmland, or redesigning a channelized stream to function as a natural waterway again. The Fresh Kills project on Staten Island is transforming what was once the world's largest landfill into a 2,200-acre park — a field architecture project spanning decades.
 
-**Urban design** — shaping the public spaces of cities. Plazas, streetscapes, waterfronts, and the connections between buildings. The High Line in New York City — a linear park built on an abandoned elevated railway — was designed by field architects James Corner Field Operations and is credited with transforming an entire neighborhood.
+**[Urban design](/urban-design)** — shaping the public spaces of cities. Plazas, streetscapes, waterfronts, and the connections between buildings. The High Line in New York City — a linear park built on an abandoned elevated railway — was designed by field architects James Corner Field Operations and is credited with transforming an entire neighborhood.
 
 ## The Design Process
 
@@ -71,7 +71,7 @@ A typical field architecture project follows these phases:
 
 **Design development** — refining the schematic into detailed plans. Specifying materials, plants, grading, drainage, lighting, and furnishings.
 
-**Construction documents** — the technical drawings and specifications that contractors use to build the project. These must be precise — dimensions, elevations, material specifications, and planting schedules are all documented.
+**[Construction](/construction) documents** — the technical drawings and specifications that contractors use to build the project. These must be precise — dimensions, elevations, material specifications, and planting schedules are all documented.
 
 **Construction administration** — overseeing the build to ensure it matches the design intent. Plants arrive, grading happens, paths are poured, and the field architect checks that everything is right.
 

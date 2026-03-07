@@ -5,7 +5,7 @@ description: "Wetland ecology studies marshes, swamps, and bogs and the organism
 category: science-technology
 tags: ["wetland ecology", "wetlands", "ecology", "conservation", "biodiversity", "environment"]
 heroImage: "/images/articles/wetland-ecology.webp"
-heroAlt: "Lush green marsh with wading birds and aquatic plants reflecting in still water"
+heroAlt: "Editorial photograph representing the concept of wetland ecology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Wetland ecology is the scientific study of wetland ecosystems — marshes, swamp
 
 Three things define a wetland: water, soil, and plants — but specific versions of each.
 
-**Hydrology** — Water must be present at or near the surface for a significant portion of the growing season. This doesn't mean standing water year-round (though some wetlands have that). Seasonal saturation counts. The water can come from precipitation, groundwater, rivers, tides, or snowmelt.
+**[Hydrology](/hydrology)** — Water must be present at or near the surface for a significant portion of the growing season. This doesn't mean standing water year-round (though some wetlands have that). Seasonal saturation counts. The water can come from precipitation, groundwater, rivers, tides, or snowmelt.
 
-**Hydric soils** — Soils that develop under prolonged saturated conditions look and behave differently from upland soils. When soil is waterlogged, oxygen gets depleted, creating anaerobic conditions. The soil often turns gray or bluish (gleyed) rather than the brown or red of well-drained soils. These chemical changes affect nutrient cycling, decomposition, and what can grow.
+**Hydric soils** — Soils that develop under prolonged saturated conditions look and behave differently from upland soils. When soil is waterlogged, oxygen gets depleted, creating anaerobic conditions. The soil often turns gray or bluish (gleyed) rather than the brown or red of well-drained soils. These chemical changes affect nutrient [cycling](/cycling), decomposition, and what can grow.
 
-**Hydrophytic vegetation** — Plants adapted to wet conditions. Cattails, sedges, mangroves, bald cypress, sphagnum moss — these species have evolved to handle saturated or flooded root zones through adaptations like hollow stems (aerenchyma) that transport oxygen to roots, prop roots for stability in soft sediment, and the ability to tolerate anaerobic soil chemistry.
+**Hydrophytic vegetation** — Plants adapted to wet conditions. Cattails, sedges, mangroves, bald cypress, sphagnum moss — these species have evolved to handle saturated or flooded root zones through adaptations like hollow stems (aerenchyma) that transport oxygen to roots, prop roots for stability in soft sediment, and the ability to tolerate anaerobic soil [chemistry](/chemistry).
 
 ## The Major Types
 
@@ -61,7 +61,7 @@ The ecological services wetlands provide are staggering relative to their area.
 
 **Flood control** — Wetlands absorb and slowly release water, reducing flood peaks downstream. One acre of wetland can store 1 to 1.5 million gallons of floodwater. The U.S. Army Corps of Engineers estimated that wetland loss in the upper Mississippi basin contributed significantly to the catastrophic 1993 floods.
 
-**Carbon storage** — Peatlands (bogs and fens) store approximately 30% of all soil carbon on Earth despite covering only about 3% of land area. That's roughly twice the carbon stored in all the world's forests combined. When peatlands are drained for agriculture or development, that stored carbon oxidizes and enters the atmosphere as CO2 — making wetland destruction a significant contributor to climate change.
+**Carbon storage** — Peatlands (bogs and fens) store approximately 30% of all soil carbon on Earth despite covering only about 3% of land area. That's roughly twice the carbon stored in all the world's forests combined. When peatlands are drained for [agriculture](/agriculture) or development, that stored carbon oxidizes and enters the atmosphere as CO2 — making wetland destruction a significant contributor to climate change.
 
 **Biodiversity** — Wetlands support roughly 40% of all species worldwide. About 75% of commercially harvested fish and shellfish in the U.S. depend on wetlands at some life stage. Migratory birds rely on wetlands as stopover and breeding habitat — the Prairie Pothole Region of the northern Great Plains produces 50-80% of North America's ducks.
 

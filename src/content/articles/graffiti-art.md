@@ -5,7 +5,7 @@ description: "Graffiti art is visual expression created on public surfaces, from
 category: everyday-concepts
 tags: ["graffiti art", "street art", "urban art", "murals", "spray paint", "culture"]
 heroImage: "/images/articles/graffiti-art.webp"
-heroAlt: "Colorful graffiti mural covering a brick wall in an urban setting"
+heroAlt: "Editorial photograph representing the concept of graffiti art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Graffiti Art?
 
-Graffiti art is the practice of creating visual works — letters, images, murals — on public surfaces, typically without permission. It exists in a tension that has never been resolved: it's simultaneously illegal property damage and one of the most influential art movements of the past 50 years. A city government will spend millions removing graffiti from one neighborhood while commissioning murals in another. Banksy's works are protected by plexiglass by the same property owners who would call the police on any other person with a spray can. The contradiction is part of what makes graffiti fascinating.
+Graffiti art is the practice of creating visual works — letters, images, murals — on public surfaces, typically without permission. It exists in a tension that has never been resolved: it's simultaneously illegal property damage and one of the most influential art movements of the past 50 years. A city [government](/government) will spend millions removing graffiti from one neighborhood while commissioning murals in another. Banksy's works are protected by plexiglass by the same property owners who would call the police on any other person with a spray can. The contradiction is part of what makes graffiti fascinating.
 
 ## Origins
 
 Modern graffiti culture started in two American cities in the late 1960s and early 1970s.
 
-In **Philadelphia**, writers like Cornbread (Darryl McCray) and Cool Earl began writing their names across the city around 1967. Cornbread is widely considered the first modern graffiti writer — he tagged walls, buildings, and famously an elephant at the Philadelphia Zoo to get the attention of a girl he liked.
+In **Philadelphia**, writers like Cornbread (Darryl McCray) and Cool Earl began [writing](/writing) their names across the city around 1967. Cornbread is widely considered the first modern graffiti writer — he tagged walls, buildings, and famously an elephant at the Philadelphia Zoo to get the attention of a girl he liked.
 
 In **New York City**, the movement exploded after a 1971 New York Times article profiled TAKI 183, a teenager who wrote his tag (a nickname plus his street number) across the city. Inspired by the coverage, hundreds of young people began writing their own names on walls, buses, and especially subway cars.
 
@@ -49,11 +49,11 @@ Graffiti has a clear hierarchy of forms, each requiring different levels of skil
 
 **Tags** are the simplest — a writer's signature, done quickly with a marker or spray can. Tags are the fundamental unit of graffiti. Every writer starts here, developing a distinctive lettering style. To outsiders, tags look like scribbles. To other writers, they communicate identity, style, and presence.
 
-**Throw-ups** are quick, bubble-letter pieces, usually two colors (outline and fill). They're larger than tags but can be completed in minutes. They balance visibility with speed — important when you're painting illegally.
+**Throw-ups** are quick, bubble-letter pieces, usually two colors (outline and fill). They're larger than tags but can be completed in minutes. They balance visibility with speed — important when you're [painting](/painting) illegally.
 
 **Pieces** (short for "masterpieces") are full-color, multi-layered works featuring elaborate letter styles, characters, backgrounds, and effects. A quality piece might take hours and dozens of spray cans. Letter styles include **wildstyle** (interlocking, abstract letters that are deliberately difficult to read), **3D** (letters with dimensional shading), and **blockbusters** (large, simple letters designed to cover maximum space).
 
-**Murals** and large-scale productions blur the line between graffiti and fine art. These may be legal commissions or elaborate illegal works, and they can cover entire building walls.
+**Murals** and large-scale productions blur the line between graffiti and [fine art](/fine-art). These may be legal commissions or elaborate illegal works, and they can cover entire building walls.
 
 **Stencils** — pre-cut templates sprayed quickly — became associated with artists like Banksy and Blek le Rat. They allow complex imagery to be applied in seconds, reducing the time spent exposed to arrest.
 
@@ -73,7 +73,7 @@ Graffiti has its own social structure, vocabulary, and rules.
 
 Cities have spent billions trying to eliminate graffiti. New York City's MTA launched the "Clean Train" program in 1984, refusing to run trains with graffiti — any tagged car was pulled from service until cleaned. By 1989, the subway graffiti era was effectively over. The trains got cleaner. The art moved to walls.
 
-Anti-graffiti laws typically carry fines of $200-$5,000 and can include jail time for repeat offenders. Cities restrict spray paint sales to minors. Some jurisdictions criminalize possession of graffiti tools (markers, spray cans) with "intent to vandalize."
+Anti-graffiti laws typically carry fines of $200-$5,000 and can include jail time for repeat offenders. Cities restrict spray paint [sales](/sales) to minors. Some jurisdictions criminalize possession of graffiti tools (markers, spray cans) with "intent to vandalize."
 
 Meanwhile, the same cities often fund mural programs, designate legal graffiti walls, and commission street artists for urban beautification projects. The message: we love the art, hate the unauthorized part. Whether you can meaningfully separate the two is one of the central debates in the graffiti world.
 

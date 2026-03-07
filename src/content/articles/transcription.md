@@ -5,7 +5,7 @@ description: "Transcription is the process of converting spoken language into wr
 category: everyday-concepts
 tags: ["transcription", "writing", "audio", "documentation", "typing", "language"]
 heroImage: "/images/articles/transcription.webp"
-heroAlt: "Headphones and a laptop showing text transcription software on screen"
+heroAlt: "Editorial photograph representing the concept of transcription"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ It sounds straightforward. Listen, type. But anyone who's tried it knows that re
 
 ### Verbatim Transcription
 
-Every word is transcribed exactly as spoken, including filler words ("um," "uh," "like"), false starts, repetitions, and non-verbal sounds (laughing, coughing). Used in legal proceedings, qualitative research, and any context where exactly how something was said matters as much as what was said.
+Every word is transcribed exactly as spoken, including filler words ("um," "uh," "like"), false starts, repetitions, and non-verbal sounds (laughing, coughing). Used in legal proceedings, [qualitative research](/qualitative-research), and any context where exactly how something was said matters as much as what was said.
 
 ### Clean/Edited Transcription
 
@@ -47,15 +47,15 @@ The transcript is lightly edited for readability — removing filler words, fals
 
 ### Intelligent Transcription
 
-More heavily edited, converting spoken language into polished written prose. Grammar is corrected, sentences are restructured, and redundancies are eliminated. Used for publishing and content creation.
+More heavily edited, converting spoken language into polished written prose. [Grammar](/grammar) is corrected, sentences are restructured, and redundancies are eliminated. Used for [publishing](/publishing) and content creation.
 
 ## Where Transcription Is Used
 
 **Legal** — Court proceedings, depositions, police interviews, and arbitration hearings all require verbatim transcripts. Legal transcription demands extreme accuracy — errors can have serious consequences. This is where [stenography](/stenography) and traditional transcription overlap.
 
-**Medical** — Doctors dictate patient notes, surgical reports, and clinical letters that medical transcriptionists convert into text. This requires knowledge of medical terminology, anatomy, and pharmacology.
+**Medical** — Doctors dictate patient notes, surgical reports, and clinical letters that medical transcriptionists convert into text. This requires knowledge of [medical terminology](/medical-terminology), [anatomy](/anatomy), and [pharmacology](/pharmacology).
 
-**Media** — Interviews, podcasts, broadcast content, and documentary footage are transcribed for editing, subtitling, and archival purposes.
+**Media** — Interviews, podcasts, broadcast content, and documentary footage are transcribed for [editing](/editing), subtitling, and archival purposes.
 
 **Academic research** — Qualitative researchers transcribe interviews, focus groups, and ethnographic recordings for analysis.
 
@@ -88,4 +88,4 @@ Medical transcription has declined as electronic health records and speech recog
 
 Freelance transcription offers flexible, remote work. Platforms like Rev, TranscribeMe, and GoTranscript connect transcriptionists with clients. Rates vary — general transcription pays $0.25-1.00 per audio minute; specialized legal and medical transcription pays more.
 
-The field is evolving rather than disappearing. As audio and video content proliferates (podcasts, video meetings, online education), the need for text versions — whether AI-generated, human-produced, or hybrid — continues to grow. The role is shifting from pure typing to quality assurance, editing, and specialized domain expertise.
+The field is evolving rather than disappearing. As audio and video content proliferates (podcasts, video meetings, online [education](/education)), the need for text versions — whether AI-generated, human-produced, or hybrid — continues to grow. The role is shifting from pure typing to quality assurance, editing, and specialized domain expertise.

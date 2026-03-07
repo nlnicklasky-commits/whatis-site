@@ -5,7 +5,7 @@ description: "Opera is a dramatic art form combining singing, orchestral music, 
 category: arts-amp-culture
 tags: ["opera", "classical music", "performing arts", "music drama", "aria", "libretto"]
 heroImage: "/images/articles/opera.webp"
-heroAlt: "An ornate opera house interior with red velvet seats and a grand chandelier"
+heroAlt: "Editorial photograph representing the concept of opera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Opera?
 
-Opera is a form of theater in which the story is told primarily through singing accompanied by an orchestra. It combines vocal music, instrumental music, acting, stagecraft, costumes, and sometimes dance into a single dramatic experience. It's been called the most complete art form — and the most extravagant — because it demands excellence in so many disciplines simultaneously.
+Opera is a form of theater in which the story is told primarily through [singing](/singing) accompanied by an orchestra. It combines vocal music, instrumental music, [acting](/acting), stagecraft, costumes, and sometimes [dance](/dance) into a single dramatic experience. It's been called the most complete art form — and the most extravagant — because it demands excellence in so many disciplines simultaneously.
 
 ## How It Started
 
-Opera was born in Florence, Italy, around 1600. A group of intellectuals, musicians, and poets called the Camerata set out to recreate what they believed ancient Greek drama sounded like — fully sung rather than spoken. Their earliest experiments were modest, but the concept caught fire.
+Opera was born in Florence, Italy, around 1600. A group of intellectuals, musicians, and poets called the Camerata set out to recreate what they believed ancient Greek [drama](/drama) sounded like — fully sung rather than spoken. Their earliest experiments were modest, but the concept caught fire.
 
-Claudio Monteverdi's *L'Orfeo* (1607) is generally considered the first great opera. Based on the Greek myth of Orpheus, it combined expressive vocal writing with a substantial orchestra and dramatic structure. Monteverdi understood something his predecessors hadn't: the music needed to serve the drama. His vocal lines expressed specific emotions — rage, grief, love, despair — rather than just sounding pleasant.
+Claudio Monteverdi's *L'Orfeo* (1607) is generally considered the first great opera. Based on the Greek myth of Orpheus, it combined expressive vocal [writing](/writing) with a substantial orchestra and dramatic structure. Monteverdi understood something his predecessors hadn't: the music needed to serve the drama. His vocal lines expressed specific emotions — rage, grief, love, despair — rather than just sounding pleasant.
 
 Opera spread rapidly through Italy and then across Europe. Venice opened the first public opera house in 1637 — meaning anyone who could buy a ticket could attend, not just aristocrats. By 1700, opera was the dominant form of entertainment across the continent.
 
@@ -53,21 +53,21 @@ Opera spread rapidly through Italy and then across Europe. Venice opened the fir
 
 **The chorus** represents crowds, soldiers, villagers, or other groups. Verdi was particularly brilliant at writing choruses — the "Va, pensiero" chorus from *Nabucco* became an unofficial Italian national anthem.
 
-**The orchestra** provides accompaniment, sets mood, drives drama, and sometimes comments on the action. Orchestration grew increasingly sophisticated from Monteverdi's small ensemble to Wagner's massive forces.
+**The orchestra** provides accompaniment, sets mood, drives drama, and sometimes comments on the action. [Orchestration](/orchestration) grew increasingly sophisticated from Monteverdi's small ensemble to Wagner's massive forces.
 
 ## The Major Periods and Styles
 
-**Baroque opera** (roughly 1600-1750) featured elaborate vocal ornamentation, da capo arias (ABA structure with improvised embellishments on the repeat), and plots drawn from mythology and ancient history. Handel's operas (*Julius Caesar*, *Rinaldo*) are the best-known examples.
+**Baroque opera** (roughly 1600-1750) featured elaborate vocal ornamentation, da capo arias (ABA structure with improvised embellishments on the repeat), and plots drawn from [mythology](/mythology) and ancient history. Handel's operas (*Julius Caesar*, *Rinaldo*) are the best-known examples.
 
-**Classical opera** (roughly 1750-1820) brought greater naturalism. Mozart's masterpieces — *The Marriage of Figaro*, *Don Giovanni*, *Cosi fan tutte*, *The Magic Flute* — balanced comedy and tragedy with unprecedented psychological depth. His characters feel like real people, not mythological figures.
+**Classical opera** (roughly 1750-1820) brought greater naturalism. Mozart's masterpieces — *The Marriage of Figaro*, *Don Giovanni*, *Cosi fan tutte*, *The Magic Flute* — balanced [comedy](/comedy) and tragedy with unprecedented psychological depth. His characters feel like real people, not mythological figures.
 
 **Romantic Italian opera** (19th century) gave us the most popular operas in the standard repertoire. Rossini (*The Barber of Seville*), Donizetti (*Lucia di Lammermoor*), Bellini (*Norma*), and above all Verdi (*La Traviata*, *Aida*, *Otello*) created works of immense dramatic power with unforgettable melodies.
 
 **Verismo** (late 19th century) brought gritty realism. Puccini (*La Boheme*, *Tosca*, *Madame Butterfly*), Mascagni (*Cavalleria Rusticana*), and Leoncavallo (*Pagliacci*) told stories of ordinary people in realistic settings, often with violent or tragic endings.
 
-**Wagner** deserves his own category. Richard Wagner reimagined opera as *Gesamtkunstwerk* — "total art work" — where music, drama, poetry, and visual design fused into a unified experience. His operas (he preferred "music dramas") are massive — the Ring Cycle runs about 16 hours across four evenings. He built his own opera house in Bayreuth specifically for his works.
+**Wagner** deserves his own category. Richard Wagner reimagined opera as *Gesamtkunstwerk* — "total art work" — where music, drama, [poetry](/poetry), and visual design fused into a unified experience. His operas (he preferred "music dramas") are massive — the Ring Cycle runs about 16 hours across four evenings. He built his own opera house in Bayreuth specifically for his works.
 
-**20th and 21st century opera** ranges widely — from the atonal expressionism of Berg (*Wozzeck*) to the minimalism of Philip Glass (*Einstein on the Beach*) to contemporary works by composers like John Adams, Thomas Ades, and Terence Blanchard.
+**20th and 21st century opera** ranges widely — from the atonal expressionism of Berg (*Wozzeck*) to the [minimalism](/minimalism) of Philip Glass (*Einstein on the Beach*) to contemporary works by composers like John Adams, Thomas Ades, and Terence Blanchard.
 
 ## The Voices
 

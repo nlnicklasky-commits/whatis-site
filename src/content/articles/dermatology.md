@@ -5,7 +5,7 @@ description: "Dermatology is the medical specialty focused on diagnosing and tre
 category: health-amp-wellness
 tags: ["dermatology", "skin health", "medicine", "skin conditions"]
 heroImage: "/images/articles/dermatology.webp"
-heroAlt: "Dermatologist examining a patient's skin with a dermatoscope in a clinical setting"
+heroAlt: "Editorial photograph representing the concept of dermatology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Dermatology is the branch of medicine that deals with the skin, hair, nails, and
 
 ## Your Skin Is an Organ — And a Weird One
 
-Most people don't think of their skin as an organ. But it is. Weighing roughly 8 pounds and covering about 22 square feet on an average adult, your skin is actually the largest organ you have. It's also the only organ completely exposed to the outside world, which makes it vulnerable to an extraordinary range of problems — infections, allergies, autoimmune attacks, sun damage, and cancers, to name a few.
+Most people don't think of their skin as an organ. But it is. Weighing roughly 8 pounds and covering about 22 square feet on an average adult, your skin is actually the largest organ you have. It's also the only organ completely exposed to the outside world, which makes it vulnerable to an extraordinary range of problems — infections, [allergies](/allergies), autoimmune attacks, sun damage, and cancers, to name a few.
 
 That exposure is exactly why dermatology exists as a specialty. The sheer number of things that can go wrong with skin, hair, and nails is staggering. The International Classification of Diseases lists thousands of dermatologic diagnoses, and telling them apart often requires years of pattern-recognition training that general practitioners simply don't get.
 
@@ -51,7 +51,7 @@ Dermatology as a formal discipline is younger than you might expect. While ancie
 
 The first dedicated dermatology hospital — Hôpital Saint-Louis in Paris — began treating skin patients in 1801. Robert Willan, an English physician, is often called the father of dermatology for his systematic classification of skin diseases published between 1798 and 1808. He was the first to organize skin conditions into orders and genera, essentially creating a taxonomy that dermatologists still reference today.
 
-The specialty grew rapidly through the 19th century. Ferdinand von Hebra in Vienna introduced the idea that skin diseases had specific causes and could be classified by their underlying pathology, not just their appearance. This was a big deal — before von Hebra, many physicians thought skin diseases were all basically the same thing manifesting differently.
+The specialty grew rapidly through the 19th century. Ferdinand von Hebra in Vienna introduced the idea that skin diseases had specific causes and could be classified by their underlying [pathology](/pathology), not just their appearance. This was a big deal — before von Hebra, many physicians thought skin diseases were all basically the same thing manifesting differently.
 
 The 20th century brought dermoscopy (a technique for examining skin lesions with magnification and special lighting), Mohs surgery for skin cancer, and the explosion of cosmetic dermatology. The 21st century has added biological therapies, immunotherapy for [melanoma](/cell-biology), and teledermatology — remote diagnosis through smartphone images.
 
@@ -100,7 +100,7 @@ Dermatology is often described as the most visual specialty in medicine. A skill
 Dermatology isn't monolithic. Several recognized subspecialties exist:
 
 - **Dermatopathology** — microscopic examination of skin tissue. Dermatopathologists are essentially the detectives of the skin world, studying biopsies to reach diagnoses.
-- **Pediatric dermatology** — children get different skin diseases than adults, and some childhood conditions (like hemangiomas) require specialized management.
+- **Pediatric dermatology** — children get different skin diseases than adults, and some childhood conditions (like hemangiomas) require specialized [management](/management).
 - **Mohs surgery** — a precise surgical technique for removing skin cancer layer by layer, examining each layer under a microscope until no cancer cells remain. Cure rates exceed 99% for primary basal cell carcinomas.
 - **Cosmetic dermatology** — chemical peels, laser treatments, injectables (Botox, fillers), and other procedures aimed at aesthetic improvement.
 - **Immunodermatology** — focuses on autoimmune and inflammatory skin diseases requiring immunosuppressive therapies.
@@ -129,7 +129,7 @@ And shortages are real. The United States has about 1.3 dermatologists per 100,0
 
 Dermatology overlaps significantly with other medical specialties. Rheumatologists and dermatologists frequently co-manage conditions like lupus and [dermatomyositis](/biotechnology). Allergists and dermatologists share territory on conditions like urticaria (hives) and atopic dermatitis. Oncologists work alongside Mohs surgeons on complex skin cancers.
 
-The field also connects deeply to basic sciences. Understanding skin biology requires knowledge of [cell biology](/cell-biology), immunology, genetics, and pharmacology. Research in dermatology has contributed to broader medical advances — the development of UV phototherapy for psoriasis, for instance, grew from basic research on how ultraviolet light affects [DNA](/biology) in skin cells.
+The field also connects deeply to basic sciences. Understanding skin biology requires knowledge of [cell biology](/cell-biology), [immunology](/immunology), genetics, and [pharmacology](/pharmacology). Research in dermatology has contributed to broader medical advances — the development of UV phototherapy for psoriasis, for instance, grew from basic research on how ultraviolet light affects [DNA](/biology) in skin cells.
 
 ## Common Misconceptions
 

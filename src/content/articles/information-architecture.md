@@ -5,7 +5,7 @@ description: "Information architecture organizes content so people can find what
 category: technology
 tags: ["information architecture", "ia", "ux design", "usability", "content strategy", "web design", "user experience"]
 heroImage: "/images/articles/information-architecture-hero.webp"
-heroAlt: "Wireframe diagram showing the hierarchical structure of a website's information architecture"
+heroAlt: "Editorial photograph representing the concept of information architecture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "AI tools can assist with specific IA tasks like analyzing search logs, clustering content, and suggesting taxonomy structures. But IA fundamentally requires understanding human mental models — how people think about and categorize information — which still requires human insight. AI is a useful assistant but not a replacement for IA practitioners."
 ---
 
-# What Is Information Architecture?
+# What Is Information [Architecture](/architecture)?
 
 Information architecture (IA) is the practice of organizing, structuring, and labeling content in a way that helps people find information and complete tasks. It determines how content is grouped, what things are called, how navigation works, and how different pieces of content relate to each other. You encounter information architecture every time you use a website menu, browse categories in an app, or search for something in a digital product.
 
@@ -67,7 +67,7 @@ Who is using this system? What do they know? What vocabulary do they use? What a
 
 These aren't questions you can answer by guessing. User research — interviews, surveys, observation, analytics — reveals how actual people think about your content. And the findings are frequently surprising.
 
-A university might organize its website by academic departments (College of Arts and Sciences, College of Engineering, School of Business) because that's how the university thinks about itself. But prospective students might think in terms of career outcomes ("I want to be a nurse" or "I want to work in game development"), not administrative structures. Building IA around the organization's internal structure rather than users' mental models is one of the most common IA mistakes — and one of the most damaging.
+A university might organize its website by academic departments (College of Arts and Sciences, College of Engineering, School of Business) because that's how the university thinks about itself. But prospective students might think in terms of career outcomes ("I want to be a nurse" or "I want to work in [game development](/game-development)"), not administrative structures. Building IA around the organization's internal structure rather than users' mental models is one of the most common IA mistakes — and one of the most damaging.
 
 ### Content
 
@@ -143,7 +143,7 @@ Give users cards representing content items. Ask them to sort the cards into gro
 
 Open card sorts (users create their own groups) reveal mental models. Closed card sorts (users sort into predetermined categories) validate proposed structures. Hybrid sorts combine both approaches.
 
-Card sorting can be done physically (actual index cards on a table) or digitally (using tools like Optimal Workshop or UserZoom that allow remote participation and automatic statistical analysis). The [algorithms](/algorithms) behind these tools cluster participant responses and identify consensus groupings. Digital tools enable larger sample sizes and quantitative analysis — dendrograms, similarity matrices — that identify patterns across many participants.
+Card sorting can be done physically (actual index cards on a table) or digitally (using tools like Optimal Workshop or UserZoom that allow remote participation and automatic statistical analysis). The [algorithms](/algorithms) behind these tools cluster participant responses and identify consensus groupings. Digital tools enable larger sample sizes and [quantitative analysis](/quantitative-analysis) — dendrograms, similarity matrices — that identify patterns across many participants.
 
 ### Tree Testing
 
@@ -201,7 +201,7 @@ Information architecture doesn't work in isolation. It connects to several neigh
 
 ### Intranets
 
-Enterprise intranets — internal websites serving employees — present unique IA challenges, often requiring dedicated [information systems](/information-systems) expertise. Content comes from dozens of departments with different goals and vocabularies. Users range from executives to warehouse workers. Information needs span HR policies, technical documentation, project management, company news, and social networking.
+Enterprise intranets — internal websites serving employees — present unique IA challenges, often requiring dedicated [information systems](/information-systems) expertise. Content comes from dozens of departments with different goals and vocabularies. Users range from executives to warehouse workers. Information needs span HR policies, technical documentation, [project management](/project-management), company news, and social networking.
 
 The best enterprise IAs typically use a task-based primary structure ("I need to..." rather than "Department of...") supplemented by powerful search, well-maintained taxonomies, and personalization based on role and location.
 

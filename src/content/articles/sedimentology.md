@@ -5,7 +5,7 @@ description: "Sedimentology studies how sediments form, move, and become rock, c
 category: science
 tags: ["sedimentology", "geology", "sedimentary rocks", "stratigraphy", "earth science", "depositional environments"]
 heroImage: "/images/articles/sedimentology-hero.webp"
-heroAlt: "Layered sandstone cliff face showing distinct sedimentary bedding and cross-stratification"
+heroAlt: "Editorial photograph representing the concept of sedimentology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -153,7 +153,7 @@ Approximately 60% of the world's oil and 40% of natural gas are found in sedimen
 
 Sedimentary aquifers supply drinking water to billions of people. The porosity and permeability of these aquifers—controlled by grain size, sorting, and cementation—determine how much water they hold and how fast it flows. Sedimentological analysis helps locate and manage groundwater resources sustainably.
 
-### Coastal Management
+### Coastal [Management](/management)
 
 Understanding sediment transport along coastlines is critical for managing erosion, planning coastal development, and responding to sea-level rise. Beach nourishment (adding sand to eroding beaches) requires detailed knowledge of sediment sources, transport pathways, and grain-size compatibility. Get the sediment wrong, and your expensive nourishment project washes away in the first storm.
 
@@ -169,19 +169,19 @@ Sedimentological techniques help archaeologists understand ancient human environ
 
 Sedimentology has been transformed by new analytical tools:
 
-**Core analysis** from drilling provides direct samples of subsurface sedimentary sequences. Cores are logged (described in detail), photographed, sampled for geochemistry, and analyzed for porosity and permeability.
+**Core analysis** from drilling provides direct samples of subsurface sedimentary sequences. Cores are logged (described in detail), photographed, sampled for [geochemistry](/geochemistry), and analyzed for porosity and permeability.
 
 **Seismic stratigraphy** uses acoustic waves to image subsurface sedimentary layers. Modern 3D seismic surveys can reveal ancient river channels, reef systems, and depositional geometries buried kilometers below the surface—without drilling a single well.
 
-**Stable isotope geochemistry** (oxygen-18, carbon-13, and others) extracted from sedimentary minerals and fossils reveals past temperatures, water sources, biological productivity, and atmospheric composition.
+**Stable isotope geochemistry** (oxygen-18, carbon-13, and others) extracted from sedimentary minerals and fossils reveals past temperatures, water sources, biological [productivity](/productivity), and atmospheric composition.
 
-**Detrital zircon geochronology** dates individual sand grains by measuring uranium-lead ratios in zircon crystals. This reveals the source areas of ancient sediments and the tectonic history of the regions that supplied them.
+**Detrital zircon [geochronology](/geochronology)** dates individual sand grains by measuring uranium-lead ratios in zircon crystals. This reveals the source areas of ancient sediments and the tectonic history of the regions that supplied them.
 
-**Numerical modeling** simulates sediment transport and deposition processes, testing hypotheses about ancient environments and predicting subsurface geological architecture for resource exploration.
+**Numerical modeling** simulates sediment transport and deposition processes, testing hypotheses about ancient environments and predicting subsurface geological [architecture](/architecture) for resource exploration.
 
 ## Reading the Rocks
 
-The deepest satisfaction of sedimentology comes from reading a rock outcrop the way you might read a book. The grain size tells you about transport energy. The sorting tells you about the transport mechanism. The sedimentary structures tell you about flow conditions. The fossils tell you about the biological community. The mineralogy tells you about the source area and climate. The geometry tells you about the depositional environment.
+The deepest satisfaction of sedimentology comes from reading a rock outcrop the way you might read a book. The grain size tells you about transport energy. The sorting tells you about the transport mechanism. The sedimentary structures tell you about flow conditions. The fossils tell you about the biological community. The [mineralogy](/mineralogy) tells you about the source area and climate. The geometry tells you about the depositional environment.
 
 Put it all together, and a nondescript cliff face becomes a vivid scene: a river meandering across a floodplain 300 million years ago, flooding periodically to deposit sheets of mud, building sandy point bars on the inside of its bends, occasionally burying forests that became coal seams. The evidence is right there in the rock—layers of sand with epsilon cross-bedding (point bar), interbedded with dark mudstones (floodplain), capped by coal (buried swamp), punctuated by fossil tree stumps in growth position.
 

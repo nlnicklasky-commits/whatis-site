@@ -5,7 +5,7 @@ description: "Upholstery is the craft of padding and covering furniture with fab
 category: arts-amp-culture
 tags: ["upholstery", "furniture", "crafts", "fabric", "restoration", "interior design"]
 heroImage: "/images/articles/upholstery.webp"
-heroAlt: "Craftsperson stretching fabric over a chair frame with upholstery tacks and tools nearby"
+heroAlt: "Editorial photograph representing the concept of upholstery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Upholstery?
 
-Upholstery is the craft of providing furniture with padding, springs, webbing, and a fabric or leather covering. It's what turns a bare wooden frame into a comfortable chair, sofa, or ottoman. The term comes from "upholder," a Middle English word for a tradesperson who held up or maintained goods — which eventually narrowed to mean someone who specifically covered and cushioned furniture.
+Upholstery is the craft of providing furniture with padding, [springs](/springs), webbing, and a fabric or leather covering. It's what turns a bare wooden frame into a comfortable chair, sofa, or ottoman. The term comes from "upholder," a Middle English word for a tradesperson who held up or maintained goods — which eventually narrowed to mean someone who specifically covered and cushioned furniture.
 
 ## More Layers Than You'd Think
 
@@ -75,7 +75,7 @@ Upholstery has a surprisingly accessible entry point but a very high ceiling.
 
 **Intermediate:** Slip seats with padding replacement, simple armless chairs, ottoman recovering, and headboard upholstering.
 
-**Advanced:** Anything with curves, tufting, channeling, welting, or skirts. Wingback chairs, Chesterfield sofas, and tufted ottomans require pattern-making skills, sewing ability, and the experience to know how fabric will behave around compound curves.
+**Advanced:** Anything with curves, tufting, channeling, welting, or skirts. Wingback chairs, Chesterfield sofas, and tufted ottomans require pattern-making skills, [sewing](/sewing) ability, and the experience to know how fabric will behave around compound curves.
 
 The tools for basic work are affordable: a staple gun ($30-$80), upholstery staples, fabric scissors, a tack puller, and a rubber mallet. Professional-grade tools — including pneumatic staple guns, webbing stretchers, and sewing machines capable of handling heavy fabric — add up but last for years.
 

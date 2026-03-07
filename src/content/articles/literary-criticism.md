@@ -5,7 +5,7 @@ description: "Literary criticism is the study, analysis, and evaluation of liter
 category: arts-amp-culture
 tags: ["literary criticism", "literature", "literary analysis", "criticism", "English", "humanities"]
 heroImage: "/images/articles/literary-criticism.webp"
-heroAlt: "Stack of well-worn literary texts with annotations and sticky notes on a desk"
+heroAlt: "Editorial photograph representing the concept of literary criticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Literary Criticism?
 
-Literary criticism is the systematic study, interpretation, and evaluation of literature. When you read a novel and think "that was good" or "I didn't get the ending," you're doing informal criticism. When a scholar writes a 30-page analysis of how race functions in Toni Morrison's *Beloved*, that's formal criticism. The core activity is the same — making sense of what a text does and how it does it — but the rigor, methods, and vocabulary scale up considerably.
+Literary criticism is the systematic study, interpretation, and evaluation of [literature](/literature). When you read a novel and think "that was good" or "I didn't get the ending," you're doing informal criticism. When a scholar writes a 30-page analysis of how race functions in Toni Morrison's *Beloved*, that's formal criticism. The core activity is the same — making sense of what a text does and how it does it — but the rigor, methods, and vocabulary scale up considerably.
 
 ## More Than Just Opinions
 
@@ -51,13 +51,13 @@ The answers depend heavily on which critical framework you're using. And that's 
 
 ### Formalism and New Criticism
 
-Dominant from the 1930s through the 1960s, New Criticism insisted that the text itself — the words on the page — was all that mattered. Forget the author's biography. Forget the historical context. Forget what the author said they intended. Just read closely, paying attention to imagery, irony, paradox, ambiguity, and structure.
+Dominant from the 1930s through the 1960s, New Criticism insisted that the text itself — the words on the page — was all that mattered. Forget the author's [biography](/biography). Forget the historical context. Forget what the author said they intended. Just read closely, paying attention to imagery, irony, paradox, ambiguity, and structure.
 
 This approach gave us "close reading," which remains the foundational skill of literary study. It's enormously useful. But its insistence on ignoring everything outside the text eventually felt too limiting.
 
 ### Marxist Criticism
 
-Marxist critics read literature through the lens of class, economics, and power. Who has money in this novel? Who doesn't? How does economic status shape characters' choices and fates? What ideology does the text promote — and whose interests does that ideology serve?
+Marxist critics read literature through the lens of class, [economics](/economics), and power. Who has money in this novel? Who doesn't? How does economic status shape characters' choices and fates? What ideology does the text promote — and whose interests does that ideology serve?
 
 A Marxist reading of *The Great Gatsby*, for instance, might focus on how Gatsby's wealth fails to buy him entry into old-money society, exposing the myth of the American Dream as a tool that keeps people striving within a rigged system.
 
@@ -69,7 +69,7 @@ Early feminist criticism (1960s-70s) focused on exposing sexist stereotypes in m
 
 ### Psychoanalytic Criticism
 
-Drawing on Freud, Lacan, and other psychoanalytic thinkers, this approach reads literature as an expression of unconscious desires, fears, and conflicts. Dreams, symbols, and recurring patterns get special attention. The critic might analyze a character's psychology, the author's unconscious motivations, or the reader's emotional response.
+[Drawing](/drawing) on Freud, Lacan, and other psychoanalytic thinkers, this approach reads literature as an expression of unconscious desires, fears, and conflicts. Dreams, symbols, and recurring patterns get special attention. The critic might analyze a character's [psychology](/psychology), the author's unconscious motivations, or the reader's emotional response.
 
 It can feel like a stretch sometimes — not every cigar in literature is a phallic symbol. But psychoanalytic readings can be genuinely illuminating when applied with care.
 
@@ -96,7 +96,7 @@ The typical process involves:
 3. Selecting a critical framework (or combination) that illuminates those features
 4. Researching relevant context — historical, biographical, theoretical
 5. Building an argument supported by specific textual evidence
-6. Writing it up in clear, persuasive prose
+6. [Writing](/writing) it up in clear, persuasive [prose](/prose)
 
 Good criticism illuminates. It makes you see something in a text you hadn't noticed before, or understand something you'd felt but couldn't articulate. Bad criticism — and plenty of it exists — obscures its insights behind jargon or forces texts to fit theoretical frameworks they resist.
 
@@ -106,7 +106,7 @@ Literary criticism has a reputation for being inaccessible, and frankly, some of
 
 But the best criticism is genuinely exciting to read. James Baldwin's essays on American literature. Virginia Woolf's *A Room of One's Own*. bell hooks on representation. These are works of criticism that are themselves great pieces of writing.
 
-Book reviews, literary journalism, book club discussions, and online commentary are all forms of criticism too — less formal than academic work, but engaging the same fundamental activity of making sense of what we read.
+Book reviews, literary [journalism](/journalism), book club discussions, and online commentary are all forms of criticism too — less formal than academic work, but engaging the same fundamental activity of making sense of what we read.
 
 ## Why It Matters
 

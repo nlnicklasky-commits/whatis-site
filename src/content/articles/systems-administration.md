@@ -5,7 +5,7 @@ description: "Systems administration is the practice of managing, maintaining, a
 category: technology
 tags: ["technology", "systems administration", "IT infrastructure", "networking", "server management", "DevOps"]
 heroImage: "/images/articles/systems-administration.webp"
-heroAlt: "A server room with rows of illuminated rack-mounted servers and blinking network switches in blue light"
+heroAlt: "Editorial photograph representing the concept of systems administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -67,7 +67,7 @@ Testing backups is as important as making them. An untested backup might not res
 
 Security has become an ever-larger part of systems administration. Sysadmins are often the first line of defense against cyberattacks.
 
-Responsibilities include managing firewalls, configuring intrusion detection systems, applying security patches promptly (a leading cause of breaches is unpatched software), implementing access controls, monitoring logs for suspicious activity, and responding to security incidents.
+Responsibilities include managing firewalls, configuring [intrusion detection](/intrusion-detection) systems, applying security patches promptly (a leading cause of breaches is unpatched software), implementing access controls, monitoring logs for suspicious activity, and responding to security incidents.
 
 The [NIST Cybersecurity Framework](/cryptography) provides structured guidance for security management. Many organizations also comply with industry-specific standards like HIPAA (healthcare), PCI DSS (payment card data), or SOC 2 (service organizations).
 
@@ -119,7 +119,7 @@ DevOps proposed a cultural and technical bridge. Key principles include:
 
 **Containerization** — packaging applications and their dependencies into standardized containers (using Docker) that run consistently across different environments. Container orchestration platforms like Kubernetes manage thousands of containers across clusters of machines.
 
-**Site Reliability Engineering (SRE)** — Google's formalization of DevOps principles, treating operations as a software engineering problem. SREs write code to automate operations tasks, set measurable reliability targets (SLOs), and use error budgets to balance reliability with development velocity.
+**Site Reliability Engineering (SRE)** — Google's formalization of DevOps principles, treating operations as a [software engineering](/software-engineering) problem. SREs write code to automate operations tasks, set measurable reliability targets (SLOs), and use error budgets to balance reliability with development velocity.
 
 Many traditional sysadmins have evolved into DevOps engineers or SREs. The tools and titles have changed, but the fundamental responsibility — keeping systems running — remains the same.
 

@@ -5,7 +5,7 @@ description: "Boat building is the craft and engineering of constructing watercr
 category: everyday-concepts
 tags: ["boat building", "shipbuilding", "marine engineering", "naval architecture", "woodworking", "fiberglass"]
 heroImage: "/images/articles/boat-building.webp"
-heroAlt: "Wooden boat hull under construction in a workshop with tools and clamps visible"
+heroAlt: "Editorial photograph representing the concept of boat building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Boat Building?
 
-Boat building is the craft and engineering discipline of designing and constructing watercraft — from kayaks and canoes to sailboats, powerboats, and large vessels. It's one of humanity's oldest technologies, dating back at least 8,000 years, and combines structural engineering, [materials science](/materials-science), hydrodynamics, and hands-on craftsmanship.
+Boat building is the craft and [engineering](/engineering) discipline of designing and constructing watercraft — from kayaks and canoes to sailboats, powerboats, and large vessels. It's one of humanity's oldest technologies, dating back at least 8,000 years, and combines [structural engineering](/structural-engineering), [materials science](/materials-science), [hydrodynamics](/hydrodynamics), and hands-on craftsmanship.
 
 ## Ancient Craft, Living Tradition
 
 Humans have built boats since the end of the last Ice Age. Dugout canoes — hollowed logs — are among the oldest surviving watercraft, with specimens found in Europe and Africa dating to 8,000+ years ago. Egyptian boats made from bundled papyrus reeds were navigating the Nile by 4000 BCE. Polynesian voyaging canoes crossed thousands of miles of open Pacific, enabling the settlement of Hawaii, New Zealand, and Easter Island — extraordinary feats of both [naval architecture](/naval-architecture) and seamanship.
 
-Wooden boat building reached its peak in the 18th and 19th centuries. Clipper ships, naval warships, and fishing schooners represented the pinnacle of pre-industrial engineering. Building a ship of the line required hundreds of skilled workers — sawyers, shipwrights, caulkers, riggers, sailmakers — and thousands of carefully shaped timbers.
+Wooden boat building reached its peak in the 18th and 19th centuries. Clipper ships, naval warships, and [fishing](/fishing) schooners represented the pinnacle of pre-[industrial engineering](/industrial-engineering). Building a ship of the line required hundreds of skilled workers — sawyers, shipwrights, caulkers, riggers, sailmakers — and thousands of carefully shaped timbers.
 
 The transition to iron and steel hulls in the mid-1800s, followed by fiberglass in the 1950s, changed the industry dramatically. But wooden boat building survives as both craft and art, maintained by dedicated builders who value the material's beauty, workability, and tradition.
 
@@ -45,7 +45,7 @@ The transition to iron and steel hulls in the mid-1800s, followed by fiberglass 
 
 ### Wood
 
-Traditional planked construction involves fastening shaped wooden planks to a frame of ribs and keel. Carvel planking produces smooth hulls; clinker (lapstrake) construction overlaps planks like clapboard siding, creating a distinctive stepped appearance seen on Viking ships and classic dinghies.
+Traditional planked [construction](/construction) involves fastening shaped wooden planks to a frame of ribs and keel. Carvel planking produces smooth hulls; clinker (lapstrake) construction overlaps planks like clapboard siding, creating a distinctive stepped appearance seen on Viking ships and classic dinghies.
 
 Modern wooden boat building often uses marine plywood and epoxy, which are more forgiving than traditional planking. Strip-planking (narrow wood strips glued edge-to-edge over forms) and cold-molding (multiple thin layers of wood laminated with epoxy) combine wood's beauty with modern adhesive technology.
 
@@ -73,7 +73,7 @@ Here's what surprises most people: you can build your own boat. Thousands of ama
 
 **Plans-built boats** offer more variety. Designers like John Welsford, Iain Oughtred, and the late Phil Bolger have published plans for hundreds of designs ranging from 8-foot dinghies to 30-foot cruising sailboats. Building from plans costs less but requires more skill and tool investment.
 
-The satisfaction of paddling, sailing, or motoring in something you built with your own hands is difficult to describe. Every boat builder will tell you: the maiden voyage — that first moment afloat — is unforgettable.
+The satisfaction of paddling, [sailing](/sailing), or motoring in something you built with your own hands is difficult to describe. Every boat builder will tell you: the maiden voyage — that first moment afloat — is unforgettable.
 
 ## Professional Boat Building
 

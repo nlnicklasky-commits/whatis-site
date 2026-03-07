@@ -5,7 +5,7 @@ description: "Occupational therapy helps people perform daily activities after i
 category: health-amp-wellness
 tags: ["occupational therapy", "rehabilitation", "healthcare", "therapy"]
 heroImage: "/images/articles/occupational-therapy.webp"
-heroAlt: "Occupational therapist guiding a patient through hand exercises during a rehabilitation session"
+heroAlt: "Editorial photograph representing the concept of occupational therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,13 +39,13 @@ Occupational therapy (OT) is a healthcare profession that helps people of all ag
 
 ## Wait — What Does "Occupation" Mean Here?
 
-This is where most people get confused. In occupational therapy, "occupation" doesn't mean your job (though it can include that). It means any activity that occupies your time and gives your life meaning. Brushing your teeth. Playing with your kids. Cooking dinner. Writing an email. Going to school. These are all "occupations" in OT language.
+This is where most people get confused. In occupational therapy, "occupation" doesn't mean your job (though it can include that). It means any activity that occupies your time and gives your life meaning. Brushing your teeth. Playing with your kids. [Cooking](/cooking) dinner. Writing an email. Going to school. These are all "occupations" in OT language.
 
-The idea is straightforward: your ability to do the things that matter to you is central to your health and quality of life. When something disrupts that ability — a stroke that weakens your dominant hand, a car accident that affects your memory, arthritis that makes opening jars impossible — the loss is more than physical. It affects your independence, your identity, and your mental health.
+The idea is straightforward: your ability to do the things that matter to you is central to your health and quality of life. When something disrupts that ability — a stroke that weakens your dominant hand, a car accident that affects your memory, arthritis that makes opening jars impossible — the loss is more than physical. It affects your independence, your identity, and your [mental health](/mental-health).
 
 OT addresses all of that. Not just the injury or condition itself, but how it ripples through your daily life.
 
-## How OT Differs From Physical Therapy
+## How OT Differs From [Physical Therapy](/physical-therapy)
 
 People mix these up constantly, and honestly, the overlap doesn't help. But the distinction matters.
 
@@ -59,9 +59,9 @@ Both are essential. They often work with the same patients. But their questions 
 
 Occupational therapy as a formal profession is barely a century old. It was founded in 1917, when a group of architects, nurses, physicians, social workers, and craftspeople established the National Society for the Promotion of Occupational Therapy (later renamed the American Occupational Therapy Association, or AOTA).
 
-The founding idea drew from the Arts and Crafts movement and the "moral treatment" approach to mental illness — the belief that engaging patients in meaningful activities (crafts, gardening, workshops) was therapeutic. Early OT focused heavily on psychiatric hospitals and soldiers recovering from World War I injuries.
+The founding idea drew from the Arts and Crafts movement and the "moral treatment" approach to mental illness — the belief that engaging patients in meaningful activities (crafts, [gardening](/gardening), workshops) was therapeutic. Early OT focused heavily on psychiatric hospitals and soldiers recovering from [World War I](/world-war-i) injuries.
 
-World War II dramatically expanded the profession as thousands of wounded soldiers needed rehabilitation. The polio epidemics of the 1940s and 1950s added another wave of demand. By the 1960s and 1970s, OT had expanded into pediatrics, geriatrics, and community-based settings.
+[World War II](/world-war-ii) dramatically expanded the profession as thousands of wounded soldiers needed rehabilitation. The polio epidemics of the 1940s and 1950s added another wave of demand. By the 1960s and 1970s, OT had expanded into [pediatrics](/pediatrics), geriatrics, and community-based settings.
 
 Today, there are about 143,000 occupational therapists practicing in the United States, with projected job growth of 12% from 2022 to 2032 — much faster than average.
 
@@ -101,12 +101,12 @@ The approach is play-based for younger children — because play is a child's pr
 
 Occupational therapists practice in a surprising variety of settings:
 
-- **Hospitals** — acute care, helping patients regain function after surgery, stroke, or injury before discharge
+- **Hospitals** — acute care, helping patients regain function after [surgery](/surgery), stroke, or injury before discharge
 - **Rehabilitation centers** — inpatient facilities where patients receive intensive daily therapy
 - **Outpatient clinics** — ongoing therapy for people living at home
 - **Schools** — helping children with disabilities participate in classroom activities (about 20% of OTs work in school settings)
 - **Home health** — visiting patients at home to assess their environment and provide therapy in context
-- **Skilled nursing facilities** — working with elderly residents to maintain or improve independence
+- **Skilled [nursing](/nursing) facilities** — working with elderly residents to maintain or improve independence
 - **Mental health facilities** — using activity-based interventions for patients with psychiatric conditions
 - **Workplace settings** — ergonomic assessments, injury prevention programs, and return-to-work planning
 
@@ -116,7 +116,7 @@ Since 2027, all entry-level OTs in the United States must hold a doctoral degree
 
 Occupational therapy assistants (OTAs) complete a 2-year associate degree program and work under the supervision of OTs. They carry out treatment plans and handle much of the direct patient contact.
 
-All OTs must pass a national certification exam administered by the National Board for Certification in Occupational Therapy (NBCOT) and obtain state licensure. Continuing education is required to maintain certification.
+All OTs must pass a national certification exam administered by the National Board for Certification in Occupational Therapy (NBCOT) and obtain state licensure. Continuing [education](/education) is required to maintain certification.
 
 ## The Evidence Base
 

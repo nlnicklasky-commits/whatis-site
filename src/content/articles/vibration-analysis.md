@@ -5,7 +5,7 @@ description: "Vibration analysis detects machinery faults by measuring mechanica
 category: technology
 tags: ["vibration analysis", "mechanical engineering", "predictive maintenance", "signal processing"]
 heroImage: "/images/articles/vibration-analysis.webp"
-heroAlt: "Industrial accelerometer sensor mounted on a rotating machine with frequency spectrum display overlay"
+heroAlt: "Editorial photograph representing the concept of vibration analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Every rotating machine vibrates. Every single one. A perfectly balanced motor sp
 
 The question isn't whether a machine vibrates. It's whether the vibration is normal or abnormal, and if abnormal, what's causing it.
 
-Here's where it gets interesting: different faults produce different vibration patterns. A worn bearing creates high-frequency vibrations at specific characteristic frequencies. A misaligned shaft produces vibration predominantly at 1x and 2x the running speed. An unbalanced rotor vibrates at exactly 1x running speed. Looseness creates a messy spectrum with many harmonics.
+Here's where it gets interesting: different faults produce different vibration patterns. A worn bearing creates high-frequency vibrations at specific characteristic frequencies. A misaligned shaft produces vibration predominantly at 1x and 2x the [running](/running) speed. An unbalanced rotor vibrates at exactly 1x running speed. Looseness creates a messy spectrum with many harmonics.
 
 These patterns are as distinctive as fingerprints. A trained vibration analyst can look at a frequency spectrum and say, "That's an outer race bearing defect on the drive end of motor number 7" — months before anyone would notice anything wrong by ear or feel.
 
@@ -71,7 +71,7 @@ The Fast Fourier Transform (FFT) mathematically decomposes this complex waveform
 
 Looking at a time waveform is like listening to an orchestra and trying to identify each instrument by ear. Looking at a frequency spectrum is like having a printout showing exactly which instruments are playing and how loud each one is. Suddenly, diagnosis becomes systematic rather than guesswork.
 
-Jean-Baptiste Joseph Fourier developed the underlying mathematics in the early 1800s while studying heat conduction. He probably didn't imagine it would be used to diagnose bearing faults in industrial pumps two centuries later, but here we are. The FFT algorithm (a computationally efficient version developed by Cooley and Tukey in 1965) made real-time frequency analysis practical and is the backbone of modern [digital signal processing](/digital-signal-processing).
+Jean-Baptiste Joseph Fourier developed the underlying [mathematics](/mathematics) in the early 1800s while studying heat conduction. He probably didn't imagine it would be used to diagnose bearing faults in industrial pumps two centuries later, but here we are. The FFT algorithm (a computationally efficient version developed by Cooley and Tukey in 1965) made real-time frequency analysis practical and is the backbone of modern [digital signal processing](/digital-signal-processing).
 
 ## Common Vibration Faults and Their Signatures
 
@@ -95,7 +95,7 @@ Misalignment is the second most common vibration problem after imbalance and is 
 
 ### Bearing Defects
 
-Rolling element bearings (ball bearings, roller bearings) produce characteristic defect frequencies based on their geometry — the number of rolling elements, the contact angle, and the bearing dimensions.
+Rolling element bearings (ball bearings, roller bearings) produce characteristic defect frequencies based on their [geometry](/geometry) — the number of rolling elements, the contact angle, and the bearing dimensions.
 
 Four defect frequencies correspond to four possible fault locations:
 - **BPFO** (Ball Pass Frequency, Outer race) — a defect on the outer ring
@@ -201,6 +201,6 @@ For all the sophisticated technology, vibration analysis ultimately depends on h
 
 The best vibration analysts combine technical knowledge with machine knowledge. They know the bearing part numbers, the gear ratios, the operating speeds, and the maintenance history. They understand the physics behind each fault pattern and can recognize when something doesn't fit the expected patterns.
 
-Certification programs (ISO 18436-2, Vibration Institute) establish competency standards. But certification is the beginning, not the end. It takes years of practical experience — hundreds or thousands of machines analyzed — to develop the pattern recognition skills that distinguish a competent analyst from an expert.
+Certification programs (ISO 18436-2, Vibration Institute) establish competency standards. But certification is the beginning, not the end. It takes years of practical experience — hundreds or thousands of machines analyzed — to develop the [pattern recognition](/pattern-recognition) skills that distinguish a competent analyst from an expert.
 
 Vibration analysis sits at the intersection of physics, [mechanical engineering](/mechanical-engineering), signal processing, and practical maintenance knowledge. It's one of those fields where the math matters, the technology matters, but ultimately the skill of the person interpreting the data makes the difference between a successful program and an expensive data collection exercise.

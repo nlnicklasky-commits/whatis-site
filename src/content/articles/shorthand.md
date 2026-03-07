@@ -5,7 +5,7 @@ description: "Shorthand is a fast writing system using symbols and abbreviations
 category: everyday-concepts
 tags: ["shorthand", "stenography", "writing", "note-taking", "speed writing", "gregg shorthand"]
 heroImage: "/images/articles/shorthand.webp"
-heroAlt: "A notebook page filled with shorthand symbols written in flowing cursive-like marks"
+heroAlt: "Editorial photograph representing the concept of shorthand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Shorthand?
 
-Shorthand is a method of rapid writing that uses symbols, abbreviations, and simplified letter forms to capture spoken language at speeds impossible with regular handwriting. Where normal handwriting maxes out around 20-30 words per minute, a skilled shorthand writer can record 100-200+ words per minute — fast enough to capture live speech word for word.
+Shorthand is a method of rapid [writing](/writing) that uses symbols, abbreviations, and simplified letter forms to capture spoken language at speeds impossible with regular handwriting. Where normal handwriting maxes out around 20-30 words per minute, a skilled shorthand writer can record 100-200+ words per minute — fast enough to capture live speech word for word.
 
 It was, for centuries, the technology of real-time recording. Before audio recorders, computers, and voice recognition, shorthand was how court proceedings were documented, speeches were preserved, and business meetings were recorded. The skill was so essential that it was a standard part of secretarial training well into the 1980s.
 
@@ -41,7 +41,7 @@ All shorthand systems share a common strategy: replace the full written form of 
 
 **Symbol-based systems** (like Pitman and Gregg) replace the alphabet entirely with simplified curves, lines, and dots that can be written in fewer strokes than conventional letters. In Gregg shorthand — the most popular system in the United States — the word "the" is a single short dash. "And" is a quick curve. Common words that take multiple strokes in regular writing become single fluid marks.
 
-**Alphabetic systems** (like Speedwriting and Teeline) keep recognizable letters but abbreviate heavily — dropping vowels, using single letters for common words, and abbreviating prefixes and suffixes. These are easier to learn but generally slower than symbol-based systems. Teeline is the system most commonly taught to journalism students in the UK.
+**Alphabetic systems** (like Speedwriting and Teeline) keep recognizable letters but abbreviate heavily — dropping vowels, using single letters for common words, and abbreviating prefixes and suffixes. These are easier to learn but generally slower than symbol-based systems. Teeline is the system most commonly taught to [journalism](/journalism) students in the UK.
 
 **Machine shorthand** (stenotype) uses a specialized keyboard that allows the operator to press multiple keys simultaneously, creating phonetic chords rather than individual letters. A single key combination can represent an entire word or phrase. This is what court reporters use, and it's the fastest method — trained operators routinely exceed 200 words per minute.
 
@@ -49,7 +49,7 @@ All shorthand systems share a common strategy: replace the full written form of 
 
 **Pitman shorthand** (1837) was the first widely successful system, invented by Sir Isaac Pitman in England. It uses geometric shapes — straight lines, curves, and circles — with variations in thickness and position representing different sounds. Light strokes mean one thing; heavy strokes mean another. It's phonetic, meaning you write sounds rather than spellings. Pitman dominated the British Commonwealth for over a century.
 
-**Gregg shorthand** (1888) was developed by John Robert Gregg, an Irishman who designed a system based on natural handwriting motions — smooth curves and loops rather than Pitman's angular strokes. Gregg doesn't use light/heavy stroke distinctions, making it faster to write and easier on the hand. It became the dominant system in North America and remained the standard in American business and education through the 1960s.
+**Gregg shorthand** (1888) was developed by John Robert Gregg, an Irishman who designed a system based on natural handwriting motions — smooth curves and loops rather than Pitman's angular strokes. Gregg doesn't use light/heavy stroke distinctions, making it faster to write and easier on the hand. It became the dominant system in North America and remained the standard in American business and [education](/education) through the 1960s.
 
 **Teeline** (1968) was designed specifically for journalists by James Hill. It simplifies the alphabet by removing unnecessary strokes from regular letters and adds basic abbreviation rules. It's faster to learn than Gregg or Pitman — most students reach usable speeds within a few months — though top speeds are generally lower.
 
@@ -63,11 +63,11 @@ The 19th and early 20th centuries were the golden age. Shorthand was taught in s
 
 ## The Decline and What Survived
 
-Audio recording technology made shorthand unnecessary for most applications. Dictation machines appeared in the early 1900s. Portable recorders became common by the 1960s. Computer word processing in the 1980s further reduced demand. By the 1990s, shorthand had largely disappeared from school curricula and office practice.
+Audio recording technology made shorthand unnecessary for most applications. Dictation machines appeared in the early 1900s. Portable recorders became common by the 1960s. Computer [word processing](/word-processing) in the 1980s further reduced demand. By the 1990s, shorthand had largely disappeared from school curricula and office practice.
 
 But it hasn't vanished entirely. Court reporting remains a thriving profession using machine shorthand — and demand exceeds supply. The National Court Reporters Association reports a growing shortage of qualified stenographers, with median salaries exceeding $60,000. Real-time captioning for television, live events, and accessibility services also relies on machine shorthand operators.
 
-Some journalists still use pen shorthand, arguing that it's more reliable than devices (batteries die, recordings fail) and that the active engagement required for shorthand note-taking produces better understanding of the material. A few advocates promote shorthand as a personal productivity tool — a private code for journaling, note-taking, and brainstorming that's faster than regular writing and can't be casually read by others.
+Some journalists still use pen shorthand, arguing that it's more reliable than devices (batteries die, recordings fail) and that the active engagement required for shorthand note-taking produces better understanding of the material. A few advocates promote shorthand as a personal [productivity](/productivity) tool — a private code for journaling, note-taking, and brainstorming that's faster than regular writing and can't be casually read by others.
 
 ## Learning Shorthand Today
 

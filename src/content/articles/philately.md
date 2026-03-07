@@ -5,7 +5,7 @@ description: "Philately is the study and collection of postage stamps and postal
 category: arts-amp-culture
 tags: ["stamps", "collecting", "postal history", "philatelist", "hobbies", "history"]
 heroImage: "/images/articles/philately.webp"
-heroAlt: "A magnifying glass examining a colorful array of vintage postage stamps in a collector's album"
+heroAlt: "Editorial photograph representing the concept of philately"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Before 1840, the recipient paid for mail delivery — and the cost was steep. Br
 
 People started collecting them almost immediately. By the 1860s, stamp albums, catalogs, and dealer networks existed. The hobby exploded in the late 19th and early 20th centuries. President Franklin D. Roosevelt was a devoted philatelist. So was King George V of Britain, whose collection is now worth an estimated $100 million.
 
-At its peak in the 1950s and 1960s, stamp collecting was arguably the world's most popular hobby. An estimated 200 million people collected stamps. Schools encouraged it as educational. Governments designed stamps specifically to attract collectors — and the revenue they brought.
+At its peak in the 1950s and 1960s, [stamp collecting](/stamp-collecting) was arguably the world's most popular hobby. An estimated 200 million people collected stamps. Schools encouraged it as educational. Governments designed stamps specifically to attract collectors — and the revenue they brought.
 
 ## What Collectors Actually Do
 
@@ -53,19 +53,19 @@ Philately goes well beyond sticking stamps in an album. Serious collectors study
 
 - **Country collections** — attempting to acquire every stamp issued by a particular nation
 - **Thematic collections** — stamps depicting a specific subject (birds, ships, Olympics, space exploration)
-- **Postal history** — complete covers showing postal routes, rates, and markings
+- **[Postal history](/postal-history)** — complete covers showing postal routes, rates, and markings
 - **First day covers** — envelopes bearing stamps cancelled on their first day of issue
 - **Error stamps** — stamps with printing mistakes (inverted images, missing colors, wrong denominations)
 
-## The Economics
+## The [Economics](/economics)
 
-The stamp market is surprisingly large. Global annual sales through auctions, dealers, and private transactions exceed $10 billion. Investment-grade stamps — particularly 19th-century rarities in exceptional condition — have outperformed many traditional investments over long periods.
+The stamp market is surprisingly large. Global annual [sales](/sales) through auctions, dealers, and private transactions exceed $10 billion. Investment-grade stamps — particularly 19th-century rarities in exceptional condition — have outperformed many traditional investments over long periods.
 
 But here's what most people miss: the vast majority of stamps are worth very little. That inherited collection from your grandfather? Unless it contains pre-1930 stamps in excellent condition from specific countries, it's probably worth its weight in nostalgia rather than cash. The stamps most people encounter — common definitives from major countries — exist in quantities of millions or billions.
 
 The stamps that command serious money share common traits: genuine scarcity (small print runs, errors, or high attrition), strong demand from collectors, and excellent condition. A common stamp in perfect condition can be worth dramatically more than the same stamp with minor faults.
 
-## Tools of the Trade
+## Tools of the [Trade](/trade)
 
 Every philatelist needs basic equipment:
 
@@ -81,7 +81,7 @@ Every philatelist needs basic equipment:
 
 ## Why People Love It
 
-The appeal of philately goes beyond the objects themselves. Stamps are miniature windows into history, politics, art, and culture. A country's stamps tell you what it values, what it celebrates, who its heroes are. Propaganda stamps from wartime, independence commemoratives from newly formed nations, error stamps that slipped past quality control — each one tells a story.
+The appeal of philately goes beyond the objects themselves. Stamps are miniature windows into history, [politics](/politics), art, and culture. A country's stamps tell you what it values, what it celebrates, who its heroes are. Propaganda stamps from wartime, independence commemoratives from newly formed nations, error stamps that slipped past quality control — each one tells a story.
 
 There's also the detective work. Identifying a stamp's country, year, printing variety, and condition requires knowledge and patience. Finding a valuable variety in a box of common stamps — it happens — delivers a thrill that non-collectors rarely understand.
 

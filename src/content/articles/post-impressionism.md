@@ -5,7 +5,7 @@ description: "Post-Impressionism was an art movement featuring Van Gogh, Cezanne
 category: arts-amp-culture
 tags: ["post-impressionism", "art movement", "vincent van gogh", "paul cézanne", "georges seurat", "paul gauguin"]
 heroImage: "/images/articles/post-impressionism.webp"
-heroAlt: "Gallery displaying colorful Post-Impressionist paintings with bold brushwork"
+heroAlt: "Editorial photograph representing the concept of post-impressionism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Cezanne broke from realistic perspective and began treating natural forms as geometric shapes — cylinders, spheres, cones. His paintings of Mont Sainte-Victoire show the mountain as flat planes of color rather than a realistic landscape. This approach directly influenced Cubism (Picasso credited Cezanne as 'the father of us all'), Fauvism, and abstract art. He essentially opened the door to treating paintings as constructed objects rather than windows onto reality."
 ---
 
-# What Is Post-Impressionism?
+# What Is Post-[Impressionism](/impressionism)?
 
-Post-Impressionism is a term for the diverse art styles that emerged in France between roughly 1886 and 1910, created by artists who had absorbed the lessons of Impressionism — bright colors, visible brushwork, modern subjects — but felt it didn't go far enough. Where the Impressionists aimed to capture how things *looked*, the Post-Impressionists wanted to express how things *felt*, what they *meant*, and how they were *structured*. It's not a unified style so much as a collection of individual visions that all pointed beyond Impressionism toward the modern art that followed.
+Post-Impressionism is a term for the diverse art styles that emerged in France between roughly 1886 and 1910, created by artists who had absorbed the lessons of Impressionism — bright colors, visible brushwork, modern subjects — but felt it didn't go far enough. Where the Impressionists aimed to capture how things *looked*, the Post-Impressionists wanted to express how things *felt*, what they *meant*, and how they were *structured*. It's not a unified style so much as a collection of individual visions that all pointed beyond Impressionism toward the [modern art](/modern-art) that followed.
 
 ## Why Impressionism Wasn't Enough
 
-By the mid-1880s, Impressionism was about 15 years old and — ironically — starting to feel conventional. The original rebels (Monet, Renoir, Degas, Pissarro) were gaining acceptance and commercial success. Younger artists admired what the Impressionists had done — freeing color, painting outdoors, capturing modern life — but they saw limitations.
+By the mid-1880s, Impressionism was about 15 years old and — ironically — starting to feel conventional. The original rebels (Monet, Renoir, Degas, Pissarro) were gaining acceptance and commercial success. Younger artists admired what the Impressionists had done — freeing color, [painting](/painting) outdoors, capturing modern life — but they saw limitations.
 
 Impressionism captured surfaces — the play of light on water, the shimmer of a sunny afternoon. But it didn't express the emotions those scenes provoked. It didn't analyze underlying structure. It didn't explore symbolism or spiritual meaning. It was, some felt, too passive. Too pretty.
 
@@ -67,7 +67,7 @@ He sold only one painting during his lifetime. He died at 37, possibly by suicid
 
 Gauguin is the symbolic one. Rejecting European civilization (he left his wife, children, and a career as a stockbroker), he moved first to Brittany, then to Tahiti and the Marquesas Islands, seeking what he considered more "primitive" and authentic cultures.
 
-His paintings use flat areas of bold, non-naturalistic color, simplified forms, and subjects drawn from mythology, religion, and local culture. *Where Do We Come From? What Are We? Where Are We Going?* (1897-98) — his largest painting — addresses the biggest questions humans ask, using Tahitian figures in a symbolic field.
+His paintings use flat areas of bold, non-naturalistic color, simplified forms, and subjects drawn from [mythology](/mythology), [religion](/religion), and local culture. *Where Do We Come From? What Are We? Where Are We Going?* (1897-98) — his largest painting — addresses the biggest questions humans ask, using Tahitian figures in a symbolic field.
 
 Gauguin's work is inseparable from troubling questions about colonialism and his personal behavior (he had relationships with very young Polynesian girls). But his artistic influence was enormous. His use of flat color and symbolic imagery influenced the Nabis, the Fauves, and early abstraction. His rejection of Western perspective and his interest in non-European art traditions opened doors that 20th-century art walked through enthusiastically.
 
@@ -77,7 +77,7 @@ Seurat is the scientific one. He developed Pointillism (also called Neo-Impressi
 
 *A Sunday Afternoon on the Island of La Grande Jatte* (1884-86) took two years to complete. It's 7 by 10 feet, composed entirely of tiny dots of color, and depicts Parisians relaxing by the Seine with a strange, frozen formality. The figures are geometric, almost statuesque. There's an eerie stillness despite the leisurely subject.
 
-Seurat died at 31, leaving only seven major paintings. But his systematic approach to color — based on color theory from scientists like Michel Eugene Chevreul — demonstrated that art could engage with science without sacrificing beauty. His influence on Signac, Matisse, and the development of color theory in 20th-century art was substantial.
+Seurat died at 31, leaving only seven major paintings. But his systematic approach to color — based on [color theory](/color-theory) from scientists like Michel Eugene Chevreul — demonstrated that art could engage with science without sacrificing beauty. His influence on Signac, Matisse, and the development of color theory in 20th-century art was substantial.
 
 ## Not Really a Movement
 

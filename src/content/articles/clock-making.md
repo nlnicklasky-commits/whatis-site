@@ -5,7 +5,7 @@ description: "Clock making (horology) is the craft and science of building timek
 category: technology
 tags: ["clock making", "horology", "clocks", "watches", "timekeeping", "mechanical engineering", "craft"]
 heroImage: "/images/articles/clock-making-hero.webp"
-heroAlt: "Intricate mechanical clock movement showing gears, springs, and escapement mechanism"
+heroAlt: "Editorial photograph representing the concept of clock making"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Clock Making?
 
-Clock making—formally known as horology—is the art and science of designing, building, and maintaining devices that measure and display time. From ancient sundials tracking the Sun's shadow to atomic clocks that lose less than one second in 300 million years, the quest to measure time precisely has driven some of humanity's most ingenious mechanical and scientific achievements. Clock making sits at the intersection of engineering, craftsmanship, physics, and art, and its history is inseparable from the history of civilization itself.
+Clock making—formally known as horology—is the art and science of designing, building, and maintaining devices that measure and display time. From ancient sundials tracking the Sun's shadow to atomic clocks that lose less than one second in 300 million years, the quest to measure time precisely has driven some of humanity's most ingenious mechanical and scientific achievements. Clock making sits at the intersection of [engineering](/engineering), craftsmanship, physics, and art, and its history is inseparable from the history of civilization itself.
 
 ## Why Time Matters: More Than You'd Think
 
@@ -91,7 +91,7 @@ The problem is that pendulum length changes with temperature. Metal expands when
 
 **Balance wheels** serve the same function in portable timepieces. A weighted wheel rotates back and forth against a fine spiral spring (the hairspring or balance spring). Like a pendulum, the balance wheel oscillates at a rate determined by its physical properties—specifically, its moment of inertia and the spring's stiffness.
 
-Temperature affects balance wheels too—both the wheel's dimensions and the spring's elasticity change. Modern watches use special alloys (like Nivarox) for hairsprings that are virtually unaffected by temperature, solving a problem that vexed watchmakers for centuries.
+Temperature affects balance wheels too—both the wheel's dimensions and the spring's [elasticity](/elasticity) change. Modern watches use special alloys (like Nivarox) for hairsprings that are virtually unaffected by temperature, solving a problem that vexed watchmakers for centuries.
 
 ### The Display
 
@@ -131,7 +131,7 @@ Harrison's achievement saved countless lives by preventing shipwrecks and opened
 
 ### The Industrial Era
 
-The 19th century saw mass production of clocks and watches. American manufacturers like Seth Thomas and Waltham used interchangeable parts and factory methods to make timekeeping affordable for ordinary people. Swiss watchmakers refined craftsmanship and precision, establishing Switzerland's dominance in fine watchmaking that persists today.
+The 19th century saw mass production of clocks and watches. American manufacturers like Seth Thomas and Waltham used interchangeable parts and factory methods to make timekeeping affordable for ordinary people. Swiss watchmakers refined craftsmanship and precision, establishing Switzerland's dominance in fine [watchmaking](/watchmaking) that persists today.
 
 Railroad time standardization (1880s) and the adoption of time zones (first in the U.S. in 1883, then internationally in 1884) created demand for synchronized, accurate clocks across entire nations.
 
@@ -155,7 +155,7 @@ Mechanical clock making persists as craft, art, and engineering challenge. Indep
 
 Traditional clock making skills are also essential for maintaining and restoring the world's historical clocks. Cathedral clocks, tower clocks, and museum pieces need skilled horologists who understand mechanisms designed centuries ago. The Royal Observatory at Greenwich, Big Ben's Elizabeth Tower clock, and thousands of other historical mechanisms require ongoing expert care.
 
-There's also a growing community of amateur horologists—people who build clocks as a hobby. Clock kits, online courses, and maker communities have made the craft more accessible than ever. Building a functioning clock from raw materials teaches [classical mechanics](/classical-mechanics), materials science, and precision craftsmanship simultaneously.
+There's also a growing community of amateur horologists—people who build clocks as a hobby. Clock kits, online courses, and maker communities have made the craft more accessible than ever. Building a functioning clock from raw materials teaches [classical mechanics](/classical-mechanics), [materials science](/materials-science), and precision craftsmanship simultaneously.
 
 ## The Science Behind Timekeeping
 
@@ -167,7 +167,7 @@ Clock making isn't just craft—it's applied physics. Several scientific princip
 
 **Tribology** (the study of friction, wear, and lubrication) matters because friction steals energy and causes wear. Clock oils must maintain consistent viscosity across temperature ranges and not dry out for years. Modern synthetic oils have extended service intervals from one year to five or more.
 
-**Fluid dynamics** affects clock design in surprising ways. Air resistance damps pendulum swings—precision clocks sometimes operate in partial vacuum to reduce this effect. The sound a clock makes is determined by how its mechanism disturbs the surrounding air.
+**[Fluid dynamics](/fluid-dynamics)** affects clock design in surprising ways. Air resistance damps pendulum swings—precision clocks sometimes operate in partial vacuum to reduce this effect. The sound a clock makes is determined by how its mechanism disturbs the surrounding air.
 
 ## Why Clock Making Still Matters
 
@@ -175,8 +175,8 @@ Timekeeping is solved. Atomic clocks define the second with absurd precision. Yo
 
 But clock making matters because it represents something larger: human beings understanding the physical world well enough to build machines that measure its most fundamental dimension. A mechanical clock is a physical argument—gears, springs, and levers demonstrating that time can be divided, counted, and displayed through nothing more than clever arrangement of metal.
 
-The craft also preserves skills and knowledge that would otherwise be lost. Precision metalworking, gear cutting, spring tempering, jewel setting, and fine hand finishing—these techniques have been refined over centuries and exist in a living tradition passed from master to apprentice.
+The craft also preserves skills and knowledge that would otherwise be lost. Precision [metalworking](/metalworking), gear cutting, spring tempering, jewel setting, and fine hand finishing—these techniques have been refined over centuries and exist in a living tradition passed from master to apprentice.
 
-And frankly, there's something deeply satisfying about a mechanical clock. The weight descends, the gears turn, the pendulum swings, and the hands advance—all without electricity, without software, without anything but physics and craftsmanship working together. In a world of invisible digital processes, a mechanical clock makes time tangible. You can see it, hear it, and understand it.
+And frankly, there's something deeply satisfying about a mechanical clock. The weight descends, the gears turn, the pendulum swings, and the hands advance—all without [electricity](/electricity), without software, without anything but physics and craftsmanship working together. In a world of invisible digital processes, a mechanical clock makes time tangible. You can see it, hear it, and understand it.
 
 That's what clock making is. Not just building machines that tell time—building machines that show you time, in a way that's as beautiful as it is functional.

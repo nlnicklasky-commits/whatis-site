@@ -5,7 +5,7 @@ description: "Statistical modeling uses math to represent real-world processes a
 category: everyday-concepts
 tags: ["statistical modeling", "statistics", "data science", "regression", "probability", "machine learning"]
 heroImage: "/images/articles/statistical-modeling.webp"
-heroAlt: "A scatter plot with a regression line on a computer screen"
+heroAlt: "Editorial photograph representing the concept of statistical modeling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Statistical modeling is the process of using mathematical equations and assumptions to represent real-world data and the relationships within it. You feed in data, specify a structure, and the model tells you what patterns exist — and how confident you should be about them.
 
-If that sounds abstract, consider this: every weather forecast, every clinical drug trial, every election prediction, and every insurance premium you've ever encountered was produced by a statistical model. They're everywhere. You just don't see them.
+If that sounds abstract, consider this: every weather forecast, every clinical drug trial, every election prediction, and every [insurance](/insurance) premium you've ever encountered was produced by a statistical model. They're everywhere. You just don't see them.
 
 ## The Basic Idea
 
@@ -77,15 +77,15 @@ The process follows a fairly standard workflow:
 ## Where Statistical Models Show Up
 
 - **Medicine:** Clinical trials use statistical models to determine whether a new drug works better than a placebo. The FDA requires rigorous statistical evidence before approving treatments.
-- **Finance:** Risk models estimate the [probability](/probability-theory) of loan defaults. Portfolio models optimize investment allocation.
-- **Marketing:** A/B tests use statistical models to determine which ad, headline, or button color produces more conversions.
-- **Science:** From [ecology](/ecology) to physics, statistical models help researchers separate signal from noise in experimental data.
+- **[Finance](/finance):** Risk models estimate the [probability](/probability-theory) of loan defaults. Portfolio models optimize investment allocation.
+- **[Marketing](/marketing):** A/B tests use statistical models to determine which ad, headline, or button color produces more conversions.
+- **Science:** From [ecology](/ecology) to [physics](/physics), statistical models help researchers separate signal from noise in experimental data.
 - **Sports:** Player performance models, win probability calculators, and draft prediction systems all run on statistical foundations.
 
 ## The Limits
 
 No model is perfect — that's actually a famous quote in statistics. George Box said, "All models are wrong, but some are useful." Every model simplifies reality, and that simplification introduces error.
 
-Common pitfalls include overfitting (the model memorizes the training data instead of learning general patterns), ignoring assumptions (running a linear model on non-linear data), and confusing correlation with causation (the model shows two things move together, but that doesn't mean one causes the other).
+Common pitfalls include overfitting (the model memorizes the training data instead of learning general patterns), ignoring assumptions ([running](/running) a linear model on non-linear data), and confusing correlation with causation (the model shows two things move together, but that doesn't mean one causes the other).
 
 Statistical modeling is a tool, not an oracle. Used carefully, it reveals patterns that would be invisible to the naked eye. Used carelessly, it can make confident-sounding claims that are completely wrong. The difference comes down to understanding what your model assumes — and whether those assumptions hold.

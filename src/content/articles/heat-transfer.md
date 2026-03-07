@@ -5,7 +5,7 @@ description: "Heat transfer is the movement of thermal energy between objects or
 category: science
 tags: ["heat transfer", "thermodynamics", "physics", "engineering", "conduction", "convection", "radiation"]
 heroImage: "/images/articles/heat-transfer-hero.webp"
-heroAlt: "Thermal imaging showing heat flow patterns through different materials with color gradients from red to blue"
+heroAlt: "Editorial photograph representing the concept of heat transfer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Heat transfer is the movement of thermal energy from a region of higher temperat
 
 Here's a fact so basic that people rarely stop to think about how strange it is: heat always flows from hot to cold. Never the other way around. Your hot coffee doesn't spontaneously get hotter by absorbing cold from the room. A warm room doesn't get warmer by pulling cold out of the walls.
 
-This isn't just an observation—it's the second law of thermodynamics, one of the most fundamental principles in physics. Heat flows spontaneously from hot to cold because of probability. At the molecular level, thermal energy is the random motion of atoms and molecules. When a fast-moving molecule (hot) collides with a slow-moving molecule (cold), energy transfers from fast to slow. Statistically, across trillions of molecular collisions, the net effect is always energy flowing from high temperature to low temperature.
+This isn't just an observation—it's the second law of [thermodynamics](/thermodynamics), one of the most fundamental principles in physics. Heat flows spontaneously from hot to cold because of probability. At the molecular level, thermal energy is the random motion of atoms and molecules. When a fast-moving molecule (hot) collides with a slow-moving molecule (cold), energy transfers from fast to slow. Statistically, across trillions of molecular collisions, the net effect is always energy flowing from high temperature to low temperature.
 
 You can force heat to flow against its natural direction—that's what your refrigerator and [air conditioning](/air-conditioning) system do—but it requires external energy input. This isn't a minor engineering detail; it's a law of the universe.
 
@@ -89,7 +89,7 @@ Natural convection drives some of the most important systems on Earth. Weather p
 
 Ocean currents work similarly. The Gulf Stream carries warm water from the Gulf of Mexico to northern Europe, warming the British Isles and Scandinavia by an estimated 5-10 degrees Celsius above what their latitude would otherwise dictate. London, at 51 degrees north latitude, has winters milder than Montreal at 45 degrees north—largely because of convective heat transfer through ocean currents.
 
-Even the Earth's interior uses convection. The mantle—the thick layer of semi-solid rock between the crust and core—undergoes extremely slow convection over millions of years. This mantle convection drives plate tectonics, volcanic activity, and earthquakes. The continents literally float on convection currents.
+Even the Earth's interior uses convection. The mantle—the thick layer of semi-solid rock between the crust and core—undergoes extremely slow convection over millions of years. This mantle convection drives [plate tectonics](/plate-tectonics), volcanic activity, and earthquakes. The continents literally float on convection currents.
 
 ### Forced Convection
 
@@ -155,9 +155,9 @@ A heat exchanger transfers heat between two fluids without mixing them. They're 
 
 The simplest design is the double-pipe heat exchanger: one fluid flows through an inner pipe while the other flows through the space between the inner pipe and an outer pipe. More complex designs—shell-and-tube, plate, and finned-tube exchangers—increase surface area and turbulence to maximize heat transfer.
 
-Heat exchanger design involves balancing competing demands. You want maximum heat transfer (thin walls, high flow rates, turbulent flow), but you also want minimal pressure drop (which costs pumping energy), corrosion resistance, and structural integrity. [Chemical engineering](/chemical-engineering) and mechanical engineering programs spend significant time on heat exchanger design because these devices are central to so many industrial processes.
+Heat exchanger design involves balancing competing demands. You want maximum heat transfer (thin walls, high flow rates, turbulent flow), but you also want minimal pressure drop (which costs pumping energy), corrosion resistance, and structural integrity. [Chemical engineering](/chemical-engineering) and [mechanical engineering](/mechanical-engineering) programs spend significant time on heat exchanger design because these devices are central to so many industrial processes.
 
-Nuclear power plants are essentially very expensive heat exchangers. The nuclear reaction produces heat. That heat is transferred (through multiple loops of coolant, each exchanging heat with the next) to produce steam, which drives turbines to generate electricity. The efficiency of those heat exchanges determines the plant's overall efficiency.
+[Nuclear power](/nuclear-power) plants are essentially very expensive heat exchangers. The nuclear reaction produces heat. That heat is transferred (through multiple loops of coolant, each exchanging heat with the next) to produce steam, which drives turbines to generate [electricity](/electricity). The efficiency of those heat exchanges determines the plant's overall efficiency.
 
 ## Phase Change Heat Transfer
 
@@ -181,7 +181,7 @@ Nature is full of elegant heat transfer solutions that engineers study and somet
 
 ## Modern Frontiers
 
-Heat transfer research continues pushing boundaries. Nanotechnology is producing materials with engineered thermal properties—thermal interface materials for electronics, phononic crystals that control heat flow the way optical crystals control light, and materials that can switch between conducting and insulating states on demand.
+Heat transfer research continues pushing boundaries. [Nanotechnology](/nanotechnology) is producing materials with engineered thermal properties—thermal interface materials for electronics, phononic crystals that control heat flow the way optical crystals control light, and materials that can switch between conducting and insulating states on demand.
 
 Thermal management in electronics is becoming critical as chips get more powerful and smaller. A modern GPU can generate over 400 watts in an area smaller than a playing card. Without effective heat transfer solutions—heat pipes, vapor chambers, liquid cooling loops—these chips would destroy themselves in seconds.
 

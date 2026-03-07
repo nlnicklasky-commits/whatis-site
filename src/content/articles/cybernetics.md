@@ -5,7 +5,7 @@ description: "Cybernetics studies how systems regulate themselves through feedba
 category: technology
 tags: ["cybernetics", "systems theory", "control systems", "feedback loops", "ai", "robotics", "communication"]
 heroImage: "/images/articles/cybernetics-hero.webp"
-heroAlt: "Abstract diagram showing interconnected feedback loops and control systems"
+heroAlt: "Editorial photograph representing the concept of cybernetics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -77,7 +77,7 @@ Climate change involves feedback loops at planetary scale. Warming melts Arctic 
 
 ## The Macy Conferences: Where Everything Connected
 
-Between 1946 and 1953, a series of conferences sponsored by the Josiah Macy Jr. Foundation brought together an extraordinary group of thinkers. These "Macy Conferences on Cybernetics" included Wiener, John von Neumann (computing and game theory), Claude Shannon (information theory), Warren McCulloch and Walter Pitts (neural networks), Margaret Mead and Gregory Bateson (anthropology), and many others.
+Between 1946 and 1953, a series of conferences sponsored by the Josiah Macy Jr. Foundation brought together an extraordinary group of thinkers. These "Macy Conferences on Cybernetics" included Wiener, John von Neumann (computing and game theory), Claude Shannon ([information theory](/information-theory)), Warren McCulloch and Walter Pitts ([neural networks](/neural-networks)), Margaret Mead and Gregory Bateson (anthropology), and many others.
 
 The conferences were intentionally interdisciplinary---radically so for the time. A mathematician would present alongside an anthropologist. A neurophysiologist would discuss ideas with an electrical engineer. The common thread was cybernetic thinking: the search for patterns of communication, control, and organization that transcend individual disciplines.
 
@@ -85,9 +85,9 @@ From these conversations emerged ideas that would spawn entire fields:
 
 **Information theory**: Shannon's mathematical framework for quantifying information, redundancy, and communication channel capacity. Essential to every digital communication system today.
 
-**Neural networks**: McCulloch and Pitts showed that networks of simple threshold elements could perform logical computation, laying the theoretical foundation for both computational neuroscience and artificial intelligence.
+**Neural networks**: McCulloch and Pitts showed that networks of simple threshold elements could perform logical computation, laying the theoretical foundation for both computational neuroscience and [artificial intelligence](/artificial-intelligence).
 
-**Game theory**: Von Neumann's work on strategic interaction---how rational agents make decisions when outcomes depend on others' choices---influenced economics, military strategy, and evolutionary biology.
+**Game theory**: Von Neumann's work on strategic interaction---how rational agents make decisions when outcomes depend on others' choices---influenced economics, [military strategy](/military-strategy), and [evolutionary biology](/evolutionary-biology).
 
 **Systems theory**: The study of complex systems with interacting components, emphasizing that the whole behaves differently from the sum of its parts.
 
@@ -125,7 +125,7 @@ Advanced control systems use model predictive control, adaptive control, and mac
 
 The relationship between cybernetics and AI is complicated. Both emerged from the same wartime intellectual ferment. But in the late 1950s, they diverged. AI, led by John McCarthy, Marvin Minsky, and others, focused on symbolic reasoning---programming computers with explicit rules and logic. Cybernetics emphasized feedback, learning from interaction, and distributed networks.
 
-For decades, the symbolic AI approach dominated. But the resurgence of neural networks---now called deep learning---represents a return to cybernetic ideas. Neural networks learn from data through feedback (adjusting weights based on errors). Reinforcement learning, where agents learn by trial and error in environments, is essentially cybernetic goal-seeking behavior.
+For decades, the symbolic AI approach dominated. But the resurgence of neural networks---now called deep learning---represents a return to cybernetic ideas. Neural networks learn from data through feedback (adjusting weights based on errors). [Reinforcement learning](/reinforcement-learning), where agents learn by trial and error in environments, is essentially cybernetic goal-seeking behavior.
 
 The irony is thick: many ideas dismissed by mainstream AI in the 1960s---neural networks, learning from feedback, embodied interaction with the environment---are now the foundation of the most successful AI systems.
 
@@ -135,7 +135,7 @@ Cybernetic thinking is fundamental to modern biology, even when biologists don't
 
 Homeostasis---the body's maintenance of stable internal conditions---is a cybernetic concept, though it predates the term (Walter Cannon coined it in 1926). The immune system is a cybernetic marvel: detecting threats, mounting responses, and regulating those responses through feedback to avoid autoimmunity.
 
-Systems biology explicitly applies cybernetic principles to biological systems. Gene regulatory networks, metabolic pathways, and signaling cascades are analyzed as feedback systems. The discovery that many diseases result from feedback loops gone wrong---diabetes as a failure of glucose regulation, cancer as a failure of cell growth control---is cybernetic insight applied to medicine.
+Systems biology explicitly applies cybernetic principles to biological systems. Gene regulatory networks, [metabolic pathways](/metabolic-pathways), and signaling cascades are analyzed as feedback systems. The discovery that many diseases result from feedback loops gone wrong---diabetes as a failure of glucose regulation, cancer as a failure of cell growth control---is cybernetic insight applied to medicine.
 
 Neuroscience relies heavily on cybernetic models. The brain is the ultimate feedback system: sensory input produces motor output that changes sensory input. Perception, action, and learning are intertwined in continuous feedback loops. The predictive processing framework---which proposes that the brain constantly predicts sensory input and updates its model based on prediction errors---is deeply cybernetic.
 
@@ -145,7 +145,7 @@ Cybernetics influenced management science and organizational theory. Stafford Be
 
 Economic models of market equilibrium invoke negative feedback: excess supply drives prices down, which reduces supply and increases demand, restoring equilibrium. Economic crises often involve positive feedback loops overwhelming regulatory mechanisms---bank runs, speculative bubbles, deflationary spirals.
 
-The 2008 financial crisis can be understood cybernetically: complex feedback loops in financial markets (credit default swaps, collateralized debt obligations, use) created positive feedback dynamics that overwhelmed the regulatory negative feedback mechanisms (capital requirements, risk management, market discipline). The system amplified instability instead of damping it.
+The 2008 financial crisis can be understood cybernetically: complex feedback loops in financial markets (credit default swaps, collateralized debt obligations, use) created positive feedback dynamics that overwhelmed the regulatory negative feedback mechanisms (capital requirements, [risk management](/risk-management), market discipline). The system amplified instability instead of damping it.
 
 ### Ecology
 

@@ -5,7 +5,7 @@ description: "Ethics is the branch of philosophy studying right and wrong. Learn
 category: philosophy
 tags: ["ethics", "morality", "philosophy", "right and wrong", "values", "ethical theories", "justice"]
 heroImage: "/images/articles/ethics-hero.webp"
-heroAlt: "Ancient Greek columns with a scales of justice symbol representing philosophical ethics"
+heroAlt: "Editorial photograph representing the concept of ethics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ Philosophers divide ethics into three major branches. Understanding this structu
 
 ### Metaethics: The Foundation
 
-Metaethics asks the most fundamental questions. Not "what is right?" but "what does 'right' even mean?" It's the philosophy of moral philosophy.
+Metaethics asks the most fundamental questions. Not "what is right?" but "what does 'right' even mean?" It's the philosophy of [moral philosophy](/moral-philosophy).
 
 **Moral realism** holds that moral facts exist independently of what anyone thinks. "Torturing innocents is wrong" is true in the same way that "water is H2O" is true — it's a fact about reality, not just an expression of preference.
 
@@ -123,7 +123,7 @@ Applied ethics takes the frameworks from normative ethics and brings them to bea
 
 **Technology ethics** — including AI ethics — has exploded in importance. Should [artificial intelligence](/artificial-intelligence) systems be allowed to make life-and-death decisions? Who is responsible when an algorithm discriminates? How do you balance privacy against security? These are among the most urgent ethical questions of our time.
 
-**Political ethics** examines justice, rights, liberty, equality, and the legitimate use of state power. John Rawls's *A Theory of Justice* (1971) remains hugely influential — his "veil of ignorance" thought experiment (imagine designing society without knowing what position you'd hold in it) is one of the most powerful tools in political philosophy.
+**Political ethics** examines justice, rights, liberty, equality, and the legitimate use of state power. John Rawls's *A Theory of Justice* (1971) remains hugely influential — his "veil of ignorance" thought experiment (imagine designing society without knowing what position you'd hold in it) is one of the most powerful tools in [political philosophy](/political-philosophy).
 
 ## Historical Foundations
 
@@ -137,7 +137,7 @@ Aristotle took a more empirical approach. Instead of searching for abstract mora
 
 ### Eastern Ethical Traditions
 
-Western philosophy isn't the whole story. Not even close.
+[Western philosophy](/western-philosophy) isn't the whole story. Not even close.
 
 **Confucian ethics** (starting with Confucius, 551-479 BCE) emphasizes social harmony, filial piety, and proper relationships. The concept of *ren* (benevolence or humaneness) and *li* (ritual propriety) provides an ethical framework that's deeply relational — you are your relationships, and ethics is about fulfilling your role in them properly.
 
@@ -149,7 +149,7 @@ These traditions aren't just historical curiosities. They represent sophisticate
 
 ## Ethics in the Modern World
 
-### Medical Ethics
+### [Medical Ethics](/medical-ethics)
 
 Modern medical ethics rests on four principles, articulated by Beauchamp and Childress in 1979:
 

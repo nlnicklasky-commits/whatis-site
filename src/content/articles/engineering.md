@@ -5,7 +5,7 @@ description: "Engineering applies science and math to design solutions for real-
 category: technology
 tags: ["engineering", "design", "technology", "problem solving", "science", "systems", "construction"]
 heroImage: "/images/articles/engineering-hero.webp"
-heroAlt: "Engineers reviewing blueprints and technical drawings at a construction site"
+heroAlt: "Editorial photograph representing the concept of engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -65,7 +65,7 @@ Engineering has branched into dozens of specializations. Here are the major ones
 
 ### Civil Engineering
 
-The oldest and broadest branch. [Civil engineering](/civil-engineering) designs and builds the infrastructure that societies depend on: roads, bridges, dams, water treatment systems, buildings, tunnels, and airports. It encompasses structural engineering (making things stand up), geotechnical engineering (understanding soil and rock), transportation engineering (moving people and goods), and environmental engineering (managing water, waste, and pollution).
+The oldest and broadest branch. [Civil engineering](/civil-engineering) designs and builds the infrastructure that societies depend on: roads, bridges, dams, water treatment systems, buildings, tunnels, and airports. It encompasses structural engineering (making things stand up), geotechnical engineering (understanding soil and rock), [transportation engineering](/transportation-engineering) (moving people and goods), and [environmental engineering](/environmental-engineering) (managing water, waste, and pollution).
 
 Civil engineers literally shape the built environment. Every building you enter, every road you drive on, every bridge you cross was designed by civil engineers to withstand the loads, weather, seismic activity, and usage patterns it would face over its lifetime.
 
@@ -194,7 +194,7 @@ The trend toward interdisciplinary teams and systems engineering — managing th
 
 ### AI and Automation
 
-Artificial intelligence is changing how engineering is practiced. Generative design algorithms explore solution spaces that no human could search manually. Machine learning models predict material behavior from molecular simulations. Natural language processing helps engineers search vast databases of standards and past designs.
+[Artificial intelligence](/artificial-intelligence) is changing how engineering is practiced. Generative design algorithms explore solution spaces that no human could search manually. Machine learning models predict material behavior from molecular simulations. [Natural language processing](/natural-language-processing) helps engineers search vast databases of standards and past designs.
 
 These tools are making engineers more productive, not replacing them. The fundamental engineering challenge — defining problems, making value judgments about tradeoffs, managing risk, and taking responsibility for safety — remains deeply human. AI can optimize a bracket's shape for minimum weight, but it can't decide whether the bracket matters in the first place.
 

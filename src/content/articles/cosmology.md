@@ -5,7 +5,7 @@ description: "Cosmology is the study of the universe's origin, structure, and fa
 category: science
 tags: ["cosmology", "universe", "big bang", "dark matter", "dark energy", "astronomy", "science"]
 heroImage: "/images/articles/cosmology-hero.webp"
-heroAlt: "Deep space image showing galaxies and nebulae against the cosmic background"
+heroAlt: "Editorial photograph representing the concept of cosmology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ Let's clear up the most common misconception right away. The Big Bang was not an
 
 ### The First Moments
 
-The very first instant---the Planck epoch, lasting until 10^-43 seconds after the Big Bang---remains beyond our physics. At this point, the four fundamental forces (gravity, electromagnetism, strong nuclear, weak nuclear) were likely unified, and the temperatures and densities exceeded anything our current theories can describe. We'd need a theory of quantum gravity to understand this era, and we don't have one yet.
+The very first instant---the Planck epoch, lasting until 10^-43 seconds after the Big Bang---remains beyond our physics. At this point, the four fundamental forces (gravity, [electromagnetism](/electromagnetism), strong nuclear, weak nuclear) were likely unified, and the temperatures and densities exceeded anything our current theories can describe. We'd need a theory of quantum gravity to understand this era, and we don't have one yet.
 
 Between 10^-36 and 10^-32 seconds, something extraordinary happened: cosmic inflation. The universe expanded exponentially, doubling in size at least 60 times in a tiny fraction of a second. A region smaller than an atom inflated to something larger than the observable universe today. This sounds absurd, but inflation solves several otherwise inexplicable puzzles about the universe.
 
@@ -107,7 +107,7 @@ The evidence is overwhelming, coming from multiple independent observations.
 
 **Galaxy rotation curves**: In the 1970s, astronomer Vera Rubin measured how fast stars orbit within galaxies. Stars at the edges of galaxies were orbiting just as fast as stars near the center---which makes no sense if the only mass present is the visible matter. Something unseen was providing additional gravitational pull. Lots of it.
 
-**Gravitational lensing**: Einstein's general relativity predicts that mass bends light. Massive galaxy clusters bend light from more distant galaxies, creating arcs and multiple images. The amount of bending reveals the cluster's total mass---which is consistently 5 to 10 times more than the visible matter can account for.
+**Gravitational lensing**: Einstein's [general relativity](/general-relativity) predicts that mass bends light. Massive galaxy clusters bend light from more distant galaxies, creating arcs and multiple images. The amount of bending reveals the cluster's total mass---which is consistently 5 to 10 times more than the visible matter can account for.
 
 **The CMB**: The pattern of temperature fluctuations in the cosmic microwave background is exquisitely sensitive to the universe's composition. The Planck satellite's measurements (2013, updated 2018) precisely determined the universe is about 5% normal matter, 27% dark matter, and 68% dark energy. These numbers are consistent across multiple independent measurement methods.
 
@@ -117,7 +117,7 @@ The evidence is overwhelming, coming from multiple independent observations.
 
 We don't know. That's the honest answer.
 
-The leading candidates are Weakly Interacting Massive Particles (WIMPs)---hypothetical particles that interact through gravity and the weak nuclear force but not electromagnetism. Despite decades of searches using underground detectors, particle accelerators ([crystallography](/crystallography) and particle physics share some detection techniques), and satellite experiments, WIMPs have not been found.
+The leading candidates are Weakly Interacting Massive Particles (WIMPs)---hypothetical particles that interact through gravity and the weak nuclear force but not electromagnetism. Despite decades of searches using underground detectors, particle accelerators ([crystallography](/crystallography) and [particle physics](/particle-physics) share some detection techniques), and satellite experiments, WIMPs have not been found.
 
 Other candidates include axions (very light particles originally proposed to solve a different problem in particle physics), sterile neutrinos, and primordial black holes. Each has theoretical motivation and ongoing experimental searches.
 
@@ -133,7 +133,7 @@ For the expansion to accelerate, something must be pushing space apart---counter
 
 The simplest explanation is the cosmological constant---a constant energy density inherent to space itself. Einstein actually introduced a cosmological constant in 1917 to keep his equations consistent with a static universe. When Hubble showed the universe was expanding, Einstein removed it, calling it his "biggest blunder." Turns out he may have been right the first time, just for the wrong reasons.
 
-The problem? When physicists try to calculate the cosmological constant from quantum field theory, they get a number roughly 10^120 times larger than the observed value. This is the worst prediction in the history of physics. Something is profoundly wrong with our understanding.
+The problem? When physicists try to calculate the cosmological constant from [quantum field theory](/quantum-field-theory), they get a number roughly 10^120 times larger than the observed value. This is the worst prediction in [the history of physics](/the-history-of-physics). Something is profoundly wrong with our understanding.
 
 Alternative explanations include quintessence (a active field that changes over time), modifications to general relativity at large scales, and the anthropic principle (we observe this value because only universes with this value produce observers). None is fully satisfying.
 
@@ -181,7 +181,7 @@ Despite extraordinary progress, cosmology faces fundamental unanswered questions
 
 **The initial conditions**: What determined the specific properties of our universe? Why these particle masses, these force strengths, these [algorithms](/algorithms) of physics? The anthropic principle offers one perspective, but many physicists find it unsatisfying.
 
-**Quantum gravity**: General relativity describes gravity beautifully at large scales. Quantum mechanics describes the microscopic world beautifully. But they're mathematically incompatible at extreme conditions---the Big Bang singularity, the centers of black holes. A theory unifying them remains elusive. String theory, loop quantum gravity, and other approaches exist, but none has produced testable predictions confirmed by experiment.
+**Quantum gravity**: General relativity describes gravity beautifully at large scales. [Quantum mechanics](/quantum-mechanics) describes the microscopic world beautifully. But they're mathematically incompatible at extreme conditions---the Big Bang singularity, the centers of black holes. A theory unifying them remains elusive. String theory, loop quantum gravity, and other approaches exist, but none has produced testable predictions confirmed by experiment.
 
 ## Modern Observational Cosmology
 
@@ -203,7 +203,7 @@ You might wonder why any of this matters to your daily life. Fair enough---dark 
 
 But cosmology fundamentally shapes how we understand our place in existence. It tells us that every atom in your body was forged in a stellar furnace billions of years ago. That the universe is 13.8 billion years old, and the Earth is a recent addition at 4.5 billion years. That we live on an unremarkable planet orbiting an unremarkable star in an unremarkable galaxy---one of roughly two trillion galaxies in the observable universe.
 
-More practically, cosmological research drives technology. CCD image sensors, developed for astronomical observation, are in every digital camera. Algorithms for processing CMB data influenced medical imaging. Wi-Fi technology traces its roots to radioastronomy signal processing. GPS satellites require general relativistic corrections that emerged from the same physics basis cosmology.
+More practically, cosmological research drives technology. CCD image sensors, developed for astronomical observation, are in every digital camera. Algorithms for processing CMB data influenced [medical imaging](/medical-imaging). Wi-Fi technology traces its roots to radioastronomy [signal processing](/signal-processing). GPS satellites require general relativistic corrections that emerged from the same physics basis cosmology.
 
 And the questions cosmology asks---Where did we come from? What is the universe made of? Where is everything going?---are among the most profound questions humans can ask. That we can answer some of them, with precision, using mathematics and observation, is one of the great achievements of our species.
 

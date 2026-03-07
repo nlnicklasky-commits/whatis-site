@@ -5,7 +5,7 @@ description: "Elasticity is how materials stretch, compress, and return to shape
 category: science
 tags: ["elasticity", "physics", "materials science", "stress", "strain", "hooke's law", "engineering"]
 heroImage: "/images/articles/elasticity-hero.webp"
-heroAlt: "A stretched rubber band illustrating the concept of elastic deformation"
+heroAlt: "Editorial photograph representing the concept of elasticity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,11 +37,11 @@ faq:
 
 # What Is Elasticity?
 
-Elasticity is a property of materials that describes their ability to deform under an applied force and then return to their original shape once that force is removed. It is one of the most fundamental concepts in [classical mechanics](/classical-mechanics) and materials science, governing everything from how bridges flex under traffic to why your earbuds fit snugly in your ears.
+Elasticity is a property of materials that describes their ability to deform under an applied force and then return to their original shape once that force is removed. It is one of the most fundamental concepts in [classical mechanics](/classical-mechanics) and [materials science](/materials-science), governing everything from how bridges flex under traffic to why your earbuds fit snugly in your ears.
 
 ## The Rubber Band Intuition — And Why It's Misleading
 
-Everyone's first mental image of elasticity is a rubber band. You stretch it, let go, it snaps back. Simple enough. But here's what trips people up: in engineering and physics, "elastic" doesn't mean "stretchy." It means "returns to its original shape."
+Everyone's first mental image of elasticity is a rubber band. You stretch it, let go, it snaps back. Simple enough. But here's what trips people up: in [engineering](/engineering) and physics, "elastic" doesn't mean "stretchy." It means "returns to its original shape."
 
 Steel is one of the most elastic materials we use. Seriously. A steel beam under load will deform by a tiny, predictable amount and then spring back perfectly when the load is removed. It barely moves, but it returns with remarkable precision. Rubber, on the other hand, stretches dramatically but doesn't always return to exactly the same shape — especially after repeated use.
 
@@ -67,7 +67,7 @@ The formula is straightforward: stress = force / area, or sigma = F/A. A thin wi
 
 Strain measures the actual deformation — how much the material changes shape relative to its original dimensions. It's dimensionless (just a ratio), calculated as the change in length divided by the original length.
 
-Pull a 1-meter rod and it extends by 0.001 meters? That's a strain of 0.001, or 0.1%. Sounds tiny, but in structural engineering, even that small deformation matters enormously.
+Pull a 1-meter rod and it extends by 0.001 meters? That's a strain of 0.001, or 0.1%. Sounds tiny, but in [structural engineering](/structural-engineering), even that small deformation matters enormously.
 
 Here's a useful way to think about it: stress is what you do to a material, and strain is how it responds.
 
@@ -252,7 +252,7 @@ Some materials — polymers, biological tissues, asphalt — exhibit behavior th
 
 Press your thumb into a memory foam mattress. Remove your thumb and the impression slowly fills back in — that's viscoelastic recovery. The foam is elastic (it recovers) but also viscous (recovery takes time). This time-dependent behavior depends on the material's molecular structure, particularly how polymer chains untangle and rearrange.
 
-Viscoelasticity matters enormously in applications from vibration damping (car engine mounts, building seismic isolators) to food science (the texture of cheese is largely a viscoelastic property) to [biomechanics](/biomechanics) (cartilage in your joints is viscoelastic, which is why it absorbs impacts progressively rather than instantaneously).
+Viscoelasticity matters enormously in applications from vibration damping (car engine mounts, building seismic isolators) to [food science](/food-science) (the texture of cheese is largely a viscoelastic property) to [biomechanics](/biomechanics) (cartilage in your joints is viscoelastic, which is why it absorbs impacts progressively rather than instantaneously).
 
 ## The Elastic Limit of Human Knowledge
 

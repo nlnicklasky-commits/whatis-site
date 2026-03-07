@@ -5,7 +5,7 @@ description: "Object-oriented programming organizes code into objects that combi
 category: everyday-concepts
 tags: ["object oriented programming", "software development", "coding", "classes", "inheritance", "polymorphism"]
 heroImage: "/images/articles/object-oriented-programming.webp"
-heroAlt: "Diagram showing interconnected objects with properties and methods representing OOP concepts"
+heroAlt: "Editorial photograph representing the concept of object-oriented programming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Object-Oriented Programming?
 
-Object-oriented programming (OOP) is a way of organizing code around "objects" — self-contained units that bundle data (what the thing knows) with behavior (what the thing does). Instead of writing a program as a long sequence of instructions, you create a collection of objects that interact with each other. It's the dominant programming approach in the software industry and the foundation of languages like Java, Python, C++, and C#.
+Object-oriented programming (OOP) is a way of organizing code around "objects" — self-contained units that bundle data (what the thing knows) with behavior (what the thing does). Instead of [writing](/writing) a program as a long sequence of instructions, you create a collection of objects that interact with each other. It's the dominant programming approach in the software industry and the foundation of languages like Java, Python, C++, and C#.
 
 ## The Core Idea
 
@@ -69,7 +69,7 @@ This is powerful because it lets you write code that works with the general type
 
 Abstraction means exposing only what's necessary and hiding everything else. An email client provides buttons for compose, send, and reply. You don't see the SMTP protocol negotiations, DNS lookups, or TCP connections happening underneath. The complexity exists, but it's abstracted away behind a simple interface.
 
-In OOP, abstract classes and interfaces define what an object should do without specifying how. An interface called `Sortable` might require a `compareTo()` method. Any class that implements Sortable must provide its own comparison logic, but code that sorts things only needs to know about the interface, not the specific implementations.
+In OOP, abstract classes and interfaces define what an object should do without specifying how. An interface called `Sortable` might require a `compareTo()` method. Any class that implements Sortable must provide its own comparison [logic](/logic), but code that sorts things only needs to know about the interface, not the specific implementations.
 
 ## A Brief History
 
@@ -79,7 +79,7 @@ C++ (1979) brought OOP to the systems programming world by adding classes to C. 
 
 Today, virtually every major programming language supports OOP, though many also support other paradigms. The purely procedural era is over; the question is how much OOP to use, not whether to use it.
 
-## Common Design Patterns
+## Common [Design Patterns](/design-patterns)
 
 OOP practitioners developed standard solutions to recurring problems, documented in the influential 1994 book *Design Patterns* by the "Gang of Four" (Gamma, Helm, Johnson, Vlissides).
 
@@ -89,14 +89,14 @@ OOP practitioners developed standard solutions to recurring problems, documented
 
 **Factory** creates objects without exposing the creation logic — you ask for a Shape, and the factory figures out which specific class to instantiate.
 
-**Strategy** lets you swap algorithms at runtime — different sorting methods, different pricing calculations, different authentication approaches — without changing the code that uses them.
+**Strategy** lets you swap [algorithms](/algorithms) at runtime — different sorting methods, different pricing calculations, different authentication approaches — without changing the code that uses them.
 
 ## The Criticisms
 
 OOP isn't universally loved.
 
-Functional programming advocates argue that OOP's reliance on mutable state (objects that change over time) makes programs harder to reason about and more prone to bugs, especially in concurrent (multi-threaded) environments. Functional programming emphasizes immutable data and pure functions, avoiding many of OOP's pitfalls.
+[Functional programming](/functional-programming) advocates argue that OOP's reliance on mutable state (objects that change over time) makes programs harder to reason about and more prone to bugs, especially in concurrent (multi-threaded) environments. Functional programming emphasizes immutable data and pure functions, avoiding many of OOP's pitfalls.
 
-Some critics argue that OOP encourages over-engineering — creating elaborate class hierarchies for problems that a simple function would solve. The joke goes: "You wanted a banana, but what you got was a gorilla holding the banana and the entire jungle."
+Some critics argue that OOP encourages over-[engineering](/engineering) — creating elaborate class hierarchies for problems that a simple function would solve. The joke goes: "You wanted a banana, but what you got was a gorilla holding the banana and the entire jungle."
 
 The pragmatic view is that OOP is one tool among several. It shines for modeling complex systems with many interacting entities — GUIs, games, enterprise applications, simulations. For data pipelines, mathematical computations, or simple scripts, other paradigms might fit better. The best developers pick the right approach for the problem rather than applying one model to everything.

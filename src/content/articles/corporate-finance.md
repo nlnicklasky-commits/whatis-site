@@ -5,7 +5,7 @@ description: "Corporate finance manages how companies fund operations, invest ca
 category: finance
 tags: ["finance", "business", "investment", "capital management", "financial planning", "economics", "shareholder value"]
 heroImage: "/images/articles/corporate-finance-hero.webp"
-heroAlt: "Business professionals analyzing financial charts and graphs in a modern office"
+heroAlt: "Editorial photograph representing the concept of corporate finance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -113,7 +113,7 @@ This approach looks at what acquirers have actually paid for similar companies i
 
 Precedent transactions typically show higher valuations than comparable company analysis because acquisition prices include a "control premium"---the extra amount a buyer pays for the ability to control the company.
 
-## The Role of Risk Management
+## The Role of [Risk Management](/risk-management)
 
 Corporate finance isn't just about seeking returns. It's equally about managing risk. Companies face a dizzying array of financial risks, and managing them badly can destroy even profitable businesses.
 
@@ -145,13 +145,13 @@ Here's what most people miss: acquiring companies tend to overpay. Studies consi
 
 ### The M&A Process
 
-A typical acquisition involves strategic planning (identifying targets), due diligence (investigating the target's finances, operations, legal liabilities, and [contract-law](/contract-law) obligations), valuation (determining what to pay), deal structuring (cash vs. stock, asset vs. stock purchase), negotiation, regulatory approval, and integration.
+A typical acquisition involves [strategic planning](/strategic-planning) (identifying targets), due diligence (investigating the target's finances, operations, legal liabilities, and [contract-law](/contract-law) obligations), valuation (determining what to pay), deal structuring (cash vs. stock, asset vs. stock purchase), negotiation, regulatory approval, and integration.
 
 Each step is complex. Due diligence alone can take months and involve hundreds of professionals---accountants, lawyers, industry experts. Integration planning begins before the deal closes and continues for years after. McKinsey research suggests that 70% of mergers fail to achieve their projected synergies, usually because of integration failures.
 
 ### Leveraged Buyouts (LBOs)
 
-LBOs use heavy debt financing to acquire companies. A private equity firm might put up 30% equity and borrow 70% of the purchase price. The acquired company's cash flows service the debt. If the firm improves operations and increases the company's value, the equity investors earn outsized returns because of use.
+LBOs use heavy debt financing to acquire companies. A [private equity](/private-equity) firm might put up 30% equity and borrow 70% of the purchase price. The acquired company's cash flows service the debt. If the firm improves operations and increases the company's value, the equity investors earn outsized returns because of use.
 
 LBOs are controversial. Supporters argue they improve operational efficiency through better management discipline. Critics argue they load companies with dangerous debt levels, often leading to layoffs, reduced investment, and sometimes bankruptcy.
 
@@ -173,11 +173,11 @@ The commercial paper market provides short-term borrowing (typically less than 2
 
 ### Private Capital
 
-Not all financing comes from public markets. Private equity firms invest directly in companies (often taking them private). Venture capital funds seed-stage and early-growth companies. Mezzanine financing provides hybrid debt-equity instruments. Family offices and sovereign wealth funds increasingly participate in private deals.
+Not all financing comes from public markets. Private equity firms invest directly in companies (often taking them private). [Venture capital](/venture-capital) funds seed-stage and early-growth companies. Mezzanine financing provides hybrid debt-equity instruments. Family offices and sovereign wealth funds increasingly participate in private deals.
 
 Private capital has grown dramatically---global private equity assets under management exceeded $8 trillion by 2024. For many companies, private capital offers an alternative to the public market's short-term pressures and regulatory burden.
 
-## Financial Planning and Analysis
+## [Financial Planning](/financial-planning) and Analysis
 
 The unglamorous but essential backbone of corporate finance is Financial Planning and Analysis (FP&A)---the ongoing process of budgeting, forecasting, and analyzing financial performance.
 

@@ -5,7 +5,7 @@ description: "Wargaming is the hobby of simulating military conflicts using mini
 category: everyday-concepts
 tags: ["wargaming", "tabletop games", "strategy games", "miniatures", "military history", "board games"]
 heroImage: "/images/articles/wargaming.webp"
-heroAlt: "Painted miniature soldiers arranged on a detailed terrain board for a tabletop wargame"
+heroAlt: "Editorial photograph representing the concept of wargaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Wargaming is the simulation of military conflicts through games — using miniat
 
 Wargaming has two distinct lineages that developed side by side.
 
-**Military wargaming** traces to Kriegsspiel, developed by Prussian army officer Georg von Reisswitz in 1812. His game used painted terrain maps, detailed unit statistics, and an umpire to adjudicate outcomes. The Prussian general staff adopted it as a training tool, and many historians credit systematic wargaming with contributing to Prussia's military victories against Austria (1866) and France (1870-1871).
+**Military wargaming** traces to Kriegsspiel, developed by Prussian army officer Georg von Reisswitz in 1812. His game used painted terrain maps, detailed unit [statistics](/statistics), and an umpire to adjudicate outcomes. The Prussian general staff adopted it as a training tool, and many historians credit systematic wargaming with contributing to Prussia's military victories against Austria (1866) and France (1870-1871).
 
-Every major military has used wargaming since. The U.S. Naval War College has conducted wargames continuously since 1887. During World War II, the Japanese war-gamed the Midway operation — and the simulation predicted an American victory, which is exactly what happened (though the Japanese commanders overruled the simulation's result and attacked anyway).
+Every major military has used wargaming since. The U.S. Naval War College has conducted wargames continuously since 1887. During [World War II](/world-war-ii), the Japanese war-gamed the Midway operation — and the simulation predicted an American victory, which is exactly what happened (though the Japanese commanders overruled the simulation's result and attacked anyway).
 
-**Hobby wargaming** emerged in the 1950s when Charles Roberts founded Avalon Hill and published Tactics (1954), the first commercially successful board wargame. The hobby grew through the 1960s and 1970s as publishers like SPI (Simulations Publications Inc.) produced hundreds of games covering every era of military history from ancient Rome to speculative nuclear war.
+**Hobby wargaming** emerged in the 1950s when Charles Roberts founded Avalon Hill and published Tactics (1954), the first commercially successful board wargame. The hobby grew through the 1960s and 1970s as publishers like SPI (Simulations Publications Inc.) produced hundreds of games covering every era of [military history](/military-history) from ancient Rome to speculative nuclear war.
 
 ## The Major Types
 
@@ -53,19 +53,19 @@ The appeal is analytical — you're solving complex strategic puzzles against an
 
 ### Miniature Wargaming
 
-Three-dimensional terrain with painted miniature figures, typically played on a 4x6-foot or larger table. Rules govern movement distances, weapon ranges, and combat resolution (usually involving dice). Miniature wargaming combines game strategy with the visual hobby of painting and terrain building.
+Three-dimensional terrain with painted miniature figures, typically played on a 4x6-foot or larger table. Rules govern movement distances, weapon ranges, and combat resolution (usually involving dice). Miniature wargaming combines game strategy with the visual hobby of [painting](/painting) and terrain building.
 
 The miniatures range from 6mm (roughly the size of a rice grain) to 28mm (about an inch tall) or larger. Painting miniatures is a separate hobby that many wargamers consider equally or more enjoyable than actually playing. A well-painted army on detailed terrain creates a diorama-like spectacle that photographs beautifully.
 
 ### Computer Wargames
 
-Digital wargames can simulate complexity that board games can't practically manage. Computer-moderated combat eliminates the need for players to calculate results manually, allowing more detailed simulations of logistics, weather, intelligence, and combined-arms tactics. The genre ranges from turn-based strategy games to real-time simulations.
+Digital wargames can simulate complexity that [board games](/board-games) can't practically manage. Computer-moderated combat eliminates the need for players to calculate results manually, allowing more detailed simulations of [logistics](/logistics), weather, intelligence, and combined-arms tactics. The genre ranges from turn-based [strategy games](/strategy-games) to real-time simulations.
 
 ## What You Actually Learn
 
 Wargaming teaches decision-making under uncertainty in ways that other hobbies don't. You have incomplete information about your opponent's plans. Your resources are limited. Your decisions have cascading consequences. Time pressure forces you to act before you're certain.
 
-These are exactly the skills military wargaming was designed to develop, and they transfer surprisingly well to civilian life. Risk assessment, resource allocation, planning under uncertainty, and adapting to changing circumstances — these are also business skills, project management skills, and life skills.
+These are exactly the skills military wargaming was designed to develop, and they transfer surprisingly well to civilian life. Risk assessment, resource allocation, planning under uncertainty, and adapting to changing circumstances — these are also business skills, [project management](/project-management) skills, and life skills.
 
 The historical knowledge is a genuine bonus. Serious wargamers develop deep understanding of military history — not just what happened, but why. When you've played a simulation of Gettysburg and personally discovered why Lee's attack on Day 3 was a terrible idea, that understanding is visceral in a way that reading about it isn't.
 

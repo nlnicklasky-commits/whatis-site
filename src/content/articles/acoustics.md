@@ -5,7 +5,7 @@ description: "Acoustics is the science of sound: how it's produced, transmitted,
 category: science
 tags: ["acoustics", "sound", "physics", "sound waves", "noise control", "architectural acoustics", "vibration"]
 heroImage: "/images/articles/acoustics-hero.webp"
-heroAlt: "Sound waves radiating outward from a vibrating source in a concert hall"
+heroAlt: "Editorial photograph representing the concept of acoustics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -85,11 +85,11 @@ Boston's Symphony Hall, completed in 1900, was the first concert hall designed u
 
 ### Noise Control and Environmental Acoustics
 
-Here's a statistic that should bother you: the World Health Organization estimates that environmental noise causes at least 12,000 premature deaths and 48,000 new cases of ischemic heart disease per year in Europe alone. Noise isn't just annoying. It's a genuine public health problem.
+Here's a statistic that should bother you: the World Health Organization estimates that environmental noise causes at least 12,000 premature deaths and 48,000 new cases of ischemic heart disease per year in Europe alone. Noise isn't just annoying. It's a genuine [public health](/public-health) problem.
 
 Noise control acoustics tackles this. Highway sound barriers, for instance, work by interrupting the line of sight between the noise source and the receiver — sound waves can't easily diffract over a tall, solid wall. Well-designed barriers can reduce perceived noise by 5 to 10 dB, which translates to roughly a 50% to 75% reduction in perceived loudness.
 
-Industrial noise control matters too. OSHA limits workplace noise exposure to 90 dB averaged over an 8-hour day, and requires hearing protection above 85 dB. Acoustical engineers design mufflers, enclosures, vibration isolators, and damping treatments to keep factories and construction sites within safe limits.
+Industrial noise control matters too. OSHA limits workplace noise exposure to 90 dB averaged over an 8-hour day, and requires hearing protection above 85 dB. Acoustical engineers design mufflers, enclosures, vibration isolators, and damping treatments to keep factories and [construction](/construction) sites within safe limits.
 
 Then there's aircraft noise. Modern jet engines are dramatically quieter than their predecessors — the high-bypass turbofan engines on current airliners are about 75% quieter than the engines from the 1960s. That improvement came directly from acoustics research: understanding how turbulence creates noise, how to line engine nacelles with sound-absorbing materials, and how to shape fan blades to reduce tonal noise.
 
@@ -173,11 +173,11 @@ Traditional noise control is passive — put something in the way to block or ab
 
 The concept is elegant: if you can measure an incoming sound wave and generate its exact inverse (same amplitude, opposite phase), the two waves cancel each other out. Destructive interference. Silence — or at least, something much closer to it.
 
-Noise-canceling headphones use exactly this principle. A microphone on the outside picks up ambient noise, a processor computes the inverse waveform in real time, and a speaker plays it alongside your music. The technology works best on predictable, low-frequency sounds — airplane cabin drone, train rumble, air conditioning hum. It's less effective on sudden, irregular sounds like speech.
+Noise-canceling headphones use exactly this principle. A microphone on the outside picks up ambient noise, a processor computes the inverse waveform in real time, and a speaker plays it alongside your music. The technology works best on predictable, low-frequency sounds — airplane cabin drone, train rumble, [air conditioning](/air-conditioning) hum. It's less effective on sudden, irregular sounds like speech.
 
 Active noise control has moved well beyond headphones. Some luxury cars use speakers in the cabin to cancel road and engine noise. Aircraft manufacturers are exploring active noise systems for passenger cabins. Industrial applications target ductwork noise in HVAC systems.
 
-The computational demands are extreme. The system must sample the incoming wave, compute its inverse, and output the canceling signal within a fraction of a millisecond — fast enough that the original and canceling waves arrive at the listener's ear simultaneously. Modern DSP ([signal processing](/signal-processing)) chips make this feasible, but it was science fiction just 40 years ago.
+The computational demands are extreme. The system must sample the incoming wave, compute its inverse, and output the canceling signal within a fraction of a millisecond — fast enough that the original and canceling waves arrive at the listener's ear simultaneously. Modern DSP ([signal processing](/signal-processing)) chips make this feasible, but it was [science fiction](/science-fiction) just 40 years ago.
 
 ## Acoustics You've Experienced Without Realizing It
 
@@ -195,7 +195,7 @@ Sound shapes your daily experience in ways you probably don't think about.
 
 Acoustic metamaterials are one of the most exciting frontiers. These are engineered structures with properties not found in nature — materials that can bend sound around objects (acoustic cloaking), create one-way sound barriers, or achieve extraordinary sound insulation with remarkably thin panels.
 
-In 2014, researchers at Duke University demonstrated an acoustic cloaking device that redirected sound waves around an object, making it effectively invisible to sonar. The technology is still in its early stages, but the potential applications for submarine stealth, building noise control, and industrial design are significant.
+In 2014, researchers at Duke University demonstrated an acoustic cloaking device that redirected sound waves around an object, making it effectively invisible to sonar. The technology is still in its early stages, but the potential applications for submarine stealth, building noise control, and [industrial design](/industrial-design) are significant.
 
 Parametric speakers represent another frontier — devices that can project a narrow beam of sound, like an acoustic spotlight, audible only in a specific area. Walk through it and you hear a message. Step outside the beam and it's silent. These already exist in some museums and retail spaces.
 
@@ -203,7 +203,7 @@ And computational acoustics — using powerful computers to simulate sound behav
 
 ## Why Acoustics Matters More Than You Think
 
-We tend to treat sound as secondary to sight. But acoustics affects your health (noise-induced hearing loss affects approximately 40 million American adults), your productivity (studies consistently show that office noise is the number one complaint among workers in open-plan offices), your safety (warning signals, speech communication, sonar), and your emotional state (there's a reason certain music gives you chills — it's all acoustics).
+We tend to treat sound as secondary to sight. But acoustics affects your health (noise-induced hearing loss affects approximately 40 million American adults), your [productivity](/productivity) (studies consistently show that office noise is the number one complaint among workers in open-plan offices), your safety (warning signals, speech communication, sonar), and your emotional state (there's a reason certain music gives you chills — it's all acoustics).
 
 The next time you're in a space that just sounds *right* — where conversation flows easily, where music fills the room without overwhelming it, where outside noise fades away — someone understood acoustics deeply enough to make that happen. And the next time you're in a space that sounds terrible, you'll know exactly what went wrong.
 

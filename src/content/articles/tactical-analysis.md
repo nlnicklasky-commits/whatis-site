@@ -5,7 +5,7 @@ description: "Tactical analysis is the study of strategies and formations in spo
 category: sports
 tags: ["tactical analysis", "sports", "strategy", "coaching", "data analytics", "football"]
 heroImage: "/images/articles/tactical-analysis.webp"
-heroAlt: "A tactical board showing football formations and player movements"
+heroAlt: "Editorial photograph representing the concept of tactical analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Tactical analysis is the systematic study of strategies, formations, player movements, and decision-making patterns in sports. Its purpose is straightforward: understand what happened, figure out why, and use that understanding to improve future performance or exploit an opponent's weaknesses.
 
-Every time a football manager watches film of the opposing team, every time a basketball coach draws up a defensive scheme, every time a cricket captain adjusts field placements mid-over — that's tactical analysis in action. The formalization of this process, aided by data and video technology, has become one of the fastest-growing areas in professional sports.
+Every time a football manager watches film of the opposing team, every time a [basketball](/basketball) coach draws up a defensive scheme, every time a cricket captain adjusts field placements mid-over — that's tactical analysis in action. The formalization of this process, aided by data and video technology, has become one of the fastest-growing areas in professional sports.
 
 ## How It Works
 
@@ -64,14 +64,14 @@ These reports inform the game plan. A coach might change formation, adjust press
 
 ## The Rise of Data
 
-The analytics revolution that swept baseball (made famous by *Moneyball*) has transformed tactical analysis across all major sports. Football clubs now employ entire analytics departments. NBA teams rely on tracking cameras that record every player's position 25 times per second. NFL teams use Next Gen Stats for route analysis and coverage schemes.
+The analytics revolution that swept [baseball](/baseball) (made famous by *Moneyball*) has transformed tactical analysis across all major sports. Football clubs now employ entire analytics departments. NBA teams rely on tracking cameras that record every player's position 25 times per second. NFL teams use Next Gen Stats for route analysis and coverage schemes.
 
 This data enables insights that weren't previously possible:
 
 - **Pressing effectiveness** — Which pressing patterns actually lead to turnovers?
 - **Space creation** — How do teams create and exploit space in the final third?
 - **Defensive stability** — Where do defensive structures break down under pressure?
-- **Set-piece optimization** — What delivery types and movements produce the best chances?
+- **Set-piece [optimization](/optimization)** — What delivery types and movements produce the best chances?
 
 ## Tactical Analysis in Different Sports
 
@@ -89,11 +89,11 @@ Every NFL team employs multiple analysts. The sport's structured, play-by-play n
 
 ### Cricket
 
-Wagon wheels (showing where a batsman hits), bowling maps, and field placement analysis are standard. T20 cricket, with its emphasis on matchup-specific strategies, has particularly benefited from analytical approaches.
+Wagon wheels (showing where a batsman hits), [bowling](/bowling) maps, and field placement analysis are standard. T20 cricket, with its emphasis on matchup-specific strategies, has particularly benefited from analytical approaches.
 
 ## Who Becomes a Tactical Analyst?
 
-The field attracts people who combine sports passion with analytical thinking. Many analysts have backgrounds in coaching, sports science, data science, or journalism. University programs in sports analytics are growing, and organizations like the MIT Sloan Sports Analytics Conference have built communities where aspiring analysts can network and learn.
+The field attracts people who combine sports passion with analytical thinking. Many analysts have backgrounds in [coaching](/coaching), sports science, [data science](/data-science), or [journalism](/journalism). University programs in [sports analytics](/sports-analytics) are growing, and organizations like the MIT Sloan Sports Analytics Conference have built communities where aspiring analysts can network and learn.
 
 Entry points include club internships, freelance analysis writing, social media content creation, and amateur coaching. The tools are increasingly accessible — anyone with a laptop and a Wyscout or StatsBomb subscription can do meaningful analysis.
 

@@ -5,7 +5,7 @@ description: Government is the system of institutions, laws, and people that org
 category: history
 tags: ["government", "politics", "political science", "democracy", "law"]
 heroImage: "/images/articles/government.webp"
-heroAlt: "Grand government building with columns and flags representing political authority and democratic institutions"
+heroAlt: "Editorial photograph representing the concept of government"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Here's the blunt version: humans are social animals who need coordination. You c
 
 The truth is probably messier than any single philosopher captured. Governments emerged gradually through a mix of conquest, religious authority, communal need, and plain old power-grabbing. Some early leaders were warriors who seized control. Others were priests who claimed divine authority. Many were both.
 
-What's undeniable is that once [agriculture](/agriculture) took hold around 10,000 years ago, settled societies needed someone — or some group — to manage irrigation, store grain, resolve land disputes, and organize defense against raiders. Government wasn't invented in a single moment. It grew, adapted, and mutated over thousands of years.
+What's undeniable is that once [agriculture](/agriculture) took hold around 10,000 years ago, settled societies needed someone — or some group — to manage [irrigation](/irrigation), store grain, resolve land disputes, and organize defense against raiders. Government wasn't invented in a single moment. It grew, adapted, and mutated over thousands of years.
 
 ## The Major Types of Government
 
@@ -89,7 +89,7 @@ Government has evolved through distinct phases, though these overlap and vary by
 
 **Tribal and clan-based governance** (prehistory to present in some areas) relied on kinship, elder councils, and consensus decision-making. No written laws. No formal institutions. Authority came from age, wisdom, or warrior reputation.
 
-**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/stoicism), and the idea that citizens could debate public policy openly.
+**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/stoicism), and the idea that citizens could debate [public policy](/public-policy) openly.
 
 **Empires** consolidated multiple peoples under centralized authority. The Roman Empire at its height governed roughly 70 million people across three continents. The [Chinese imperial system](/silk-road) lasted over 2,000 years. These empires developed sophisticated administrative systems — tax collection, road networks, postal services, legal codes — that modern governments still echo.
 
@@ -121,4 +121,4 @@ This isn't abstract political theory. The form of government you live under shap
 
 Frankly, most people only notice government when it fails — when the potholes multiply, when the courts seem unjust, when corruption becomes obvious. But the absence of government, or its collapse, is far worse than its imperfections. Ask anyone who's lived through state failure. The unglamorous, bureaucratic, often frustrating machinery of government is what stands between organized society and chaos.
 
-Understanding how government works — its structures, its history, its trade-offs — isn't just for political science majors. It's for anyone who votes, pays taxes, or expects the roads to be paved and the water to be clean.
+Understanding how government works — its structures, its history, its trade-offs — isn't just for [political science](/political-science) majors. It's for anyone who votes, pays taxes, or expects the roads to be paved and the water to be clean.

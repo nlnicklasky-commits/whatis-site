@@ -5,7 +5,7 @@ description: "Turkish history spans from ancient Anatolian civilizations through
 category: history
 tags: ["turkish history", "turkey", "ottoman empire", "ataturk", "anatolia"]
 heroImage: "/images/articles/turkish-history.webp"
-heroAlt: "The Hagia Sophia in Istanbul with minarets against a sunset sky"
+heroAlt: "Editorial photograph representing the concept of turkish history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Turkish history covers the story of the land we now call Turkey — a stretch of
 
 Long before anyone called this place "Turkey," Anatolia was already ancient.
 
-Catalhoyuk, in south-central Turkey, is one of the world's earliest known settlements — people lived there from roughly 7500 to 5700 BCE, making it older than Stonehenge by about 4,000 years. Excavations have revealed densely packed mud-brick houses, elaborate wall paintings, and evidence of early agriculture. No streets — people entered their homes through holes in the roof.
+Catalhoyuk, in south-central Turkey, is one of the world's earliest known settlements — people lived there from roughly 7500 to 5700 BCE, making it older than Stonehenge by about 4,000 years. Excavations have revealed densely packed mud-brick houses, elaborate wall paintings, and evidence of early [agriculture](/agriculture). No streets — people entered their homes through holes in the roof.
 
 The Hittites built a major empire here between roughly 1600 and 1178 BCE, rivaling Egypt and Babylon. Their capital, Hattusa (near modern Bogazkale), controlled much of Anatolia and parts of Syria. The Hittites were among the first peoples to work with iron, and they signed what many historians consider the first known peace treaty — with Ramesses II of Egypt after the Battle of Kadesh in 1274 BCE.
 
@@ -55,7 +55,7 @@ The people who would eventually give Turkey its name weren't originally from the
 
 The critical moment came on August 26, 1071. At the Battle of Manzikert (modern Malazgirt in eastern Turkey), Seljuk Sultan Alp Arslan defeated the Byzantine Emperor Romanos IV. The Byzantine army was shattered, and Anatolia lay open to Turkic settlement. Within a generation, Turkic tribes had spread across most of the peninsula.
 
-The Seljuks of Rum (the name "Rum" comes from "Rome" — they still thought of themselves as occupying Roman territory) established a state centered on Konya. They built beautiful mosques, madrasas, and caravanserais — the roadside inns that kept Silk Road trade flowing. The Seljuk period (roughly 1077-1307) was a cultural golden age that blended Persian, Arabic, and Turkic traditions.
+The Seljuks of Rum (the name "Rum" comes from "Rome" — they still thought of themselves as occupying Roman territory) established a state centered on Konya. They built beautiful mosques, madrasas, and caravanserais — the roadside inns that kept [Silk Road](/silk-road) [trade](/trade) flowing. The Seljuk period (roughly 1077-1307) was a cultural golden age that blended Persian, Arabic, and Turkic traditions.
 
 Then the Mongols showed up. Their invasion in the 1240s shattered the Seljuk state and left Anatolia divided among dozens of small Turkic principalities. One of those principalities, in the far northwest near the Byzantine border, was led by a man named Osman.
 
@@ -71,7 +71,7 @@ Mehmed renamed the city Istanbul (though the old name persisted in Western usage
 
 The Ottoman system was surprisingly flexible for its era. The *millet* system granted religious minorities — Christians, Jews — a degree of self-governance. Each community managed its own religious courts, schools, and charitable institutions. This wasn't equality by modern standards, but it was more tolerant than most European states, where religious minorities faced frequent persecution or expulsion.
 
-The *devshirme* system was more controversial. Christian boys from the Balkans were taken as children, converted to Islam, and trained for military or administrative service. The best became Janissaries — elite soldiers — or high-ranking bureaucrats. Some rose to become grand viziers, the empire's most powerful officials after the sultan. The system was coercive, but it also created one of the few paths to power that didn't depend on noble birth.
+The *devshirme* system was more controversial. Christian boys from the Balkans were taken as children, converted to [Islam](/islam), and trained for military or administrative service. The best became Janissaries — elite soldiers — or high-ranking bureaucrats. Some rose to become grand viziers, the empire's most powerful officials after the sultan. The system was coercive, but it also created one of the few paths to power that didn't depend on noble birth.
 
 ### Decline and the "Sick Man of Europe"
 
@@ -79,7 +79,7 @@ Ottoman decline was long, contested, and complicated. The empire lost its techno
 
 The 19th century saw repeated attempts at reform. The Tanzimat reforms (1839-1876) tried to modernize the legal system, guarantee civil liberties, and create a more efficient bureaucracy. A brief constitutional period in 1876-1878 gave way to the autocratic rule of Sultan Abdulhamid II. The Young Turk revolution of 1908 restored the constitution, but the empire was already unraveling — Greece, Serbia, Bulgaria, Romania, and Albania had all gained independence.
 
-World War I finished the job. The Ottomans entered on the side of Germany and Austria-Hungary in 1914. They fought on multiple fronts and suffered catastrophic losses. The Armenian Genocide of 1915, in which an estimated 1 to 1.5 million Armenians were killed, remains one of the darkest chapters in Ottoman history. When the war ended in 1918, the empire was occupied by Allied forces and carved up under the Treaty of Sevres.
+[World War I](/world-war-i) finished the job. The Ottomans entered on the side of Germany and Austria-Hungary in 1914. They fought on multiple fronts and suffered catastrophic losses. The Armenian Genocide of 1915, in which an estimated 1 to 1.5 million Armenians were killed, remains one of the darkest chapters in [Ottoman history](/ottoman-history). When the war ended in 1918, the empire was occupied by Allied forces and carved up under the Treaty of Sevres.
 
 ## Ataturk and the Birth of the Republic
 
@@ -101,8 +101,8 @@ Turkey joined NATO in 1952, positioning itself firmly in the Western camp during
 
 The conflict with Kurdish separatists, primarily the PKK (Kurdistan Workers' Party), has been a defining issue since 1984. The fighting has killed an estimated 40,000 people, displaced millions, and remains unresolved.
 
-The rise of the AKP (Justice and Development Party) under Recep Tayyip Erdogan, first as prime minister in 2003 and then as president from 2014, reshaped Turkish politics. Erdogan's supporters credit him with economic growth and giving voice to religious conservatives long marginalized by the secular establishment. Critics point to democratic backsliding, media crackdowns, and the consolidation of presidential power after a failed coup attempt in 2016 and the subsequent constitutional referendum in 2017.
+The rise of the AKP (Justice and Development Party) under Recep Tayyip Erdogan, first as prime minister in 2003 and then as president from 2014, reshaped Turkish [politics](/politics). Erdogan's supporters credit him with economic growth and giving voice to religious conservatives long marginalized by the secular establishment. Critics point to democratic backsliding, media crackdowns, and the consolidation of presidential power after a failed coup attempt in 2016 and the subsequent constitutional referendum in 2017.
 
 ## Why Turkish History Matters
 
-Turkey sits at a crossroads — literally and figuratively. Its history connects the ancient Near East to medieval Islam to modern European geopolitics. The questions Turkey grapples with today — secularism versus religious identity, democracy versus authoritarianism, East versus West — are versions of questions the country has been asking, in one form or another, for over a century. Understanding Turkish history means understanding one of the most consequential fault lines in the modern world.
+Turkey sits at a crossroads — literally and figuratively. Its history connects the ancient Near East to medieval Islam to modern European [geopolitics](/geopolitics). The questions Turkey grapples with today — secularism versus religious identity, democracy versus authoritarianism, East versus West — are versions of questions the country has been asking, in one form or another, for over a century. Understanding Turkish history means understanding one of the most consequential fault lines in the modern world.

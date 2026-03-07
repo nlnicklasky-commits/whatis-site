@@ -5,7 +5,7 @@ description: "Surgery is a medical procedure involving manual or instrumental te
 category: health-amp-wellness
 tags: ["medicine", "surgery", "healthcare", "surgical procedures"]
 heroImage: "/images/articles/surgery.webp"
-heroAlt: "Surgical team performing an operation in a modern sterile operating room"
+heroAlt: "Editorial photograph representing the concept of surgery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -107,7 +107,7 @@ A typical surgical procedure involves far more than the operation itself. The pr
 
 **The operation.** The surgeon makes incisions, performs the necessary repair, removal, or reconstruction, and closes the wound. Operating times vary enormously — from 10 minutes for a simple biopsy to 20+ hours for complex procedures.
 
-**Recovery.** Post-anesthesia care unit (PACU), then a hospital room or same-day discharge depending on the procedure. Pain management, monitoring for complications, physical therapy if needed.
+**Recovery.** Post-anesthesia care unit (PACU), then a hospital room or same-day discharge depending on the procedure. Pain [management](/management), monitoring for complications, [physical therapy](/physical-therapy) if needed.
 
 ## Minimally Invasive Surgery: The Biggest Shift in a Century
 
@@ -135,7 +135,7 @@ The WHO estimates that 310 million major surgeries are performed worldwide each 
 
 Several technologies are pushing surgery into unfamiliar territory.
 
-**AI-assisted surgery** uses machine learning to help surgeons plan procedures, identify anatomy in real-time, and even predict complications before they happen. AI systems can analyze a CT scan and generate a 3D surgical plan in minutes.
+**AI-assisted surgery** uses [machine learning](/machine-learning) to help surgeons plan procedures, identify [anatomy](/anatomy) in real-time, and even predict complications before they happen. AI systems can analyze a CT scan and generate a 3D surgical plan in minutes.
 
 **Teleoperated surgery** — performing operations on patients hundreds or thousands of miles away via robotic systems — has been demonstrated successfully. In 2001, a surgeon in New York removed a gallbladder from a patient in Strasbourg, France, over a fiber-optic connection.
 

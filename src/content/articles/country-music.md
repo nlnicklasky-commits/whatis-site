@@ -5,7 +5,7 @@ description: "Country music is an American genre rooted in folk, blues, and gosp
 category: arts-amp-culture
 tags: ["country music", "music genre", "american music", "folk music", "blues", "nashville"]
 heroImage: "/images/articles/country-music.webp"
-heroAlt: "An acoustic guitar and cowboy hat resting on a wooden porch in warm sunlight"
+heroAlt: "Editorial photograph representing the concept of country music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Country Music?
 
-Country music is an American musical genre that grew out of Southern folk traditions, African American blues, and gospel music in the 1920s. Characterized by storytelling lyrics, acoustic instrumentation, and themes of love, loss, work, and rural life, it has evolved from regional Appalachian music into one of the most commercially successful genres in the world.
+Country music is an American musical genre that grew out of Southern folk traditions, African American blues, and gospel music in the 1920s. Characterized by [storytelling](/storytelling) lyrics, acoustic instrumentation, and themes of love, loss, work, and rural life, it has evolved from regional Appalachian music into one of the most commercially successful genres in the world.
 
 ## The Roots Run Deep
 
 Country music didn't appear from nowhere. It emerged from the collision of several older traditions in the rural American South.
 
-**Appalachian folk music** brought British and Irish ballads carried by Scots-Irish immigrants. These songs — tales of love, murder, hardship, and home — were passed down orally for generations, accompanied by fiddle and banjo. Many Child Ballads (cataloged by Francis James Child in the 1800s) survived in Appalachian communities long after disappearing in Britain.
+**Appalachian [folk music](/folk-music)** brought British and Irish ballads carried by Scots-Irish immigrants. These songs — tales of love, murder, hardship, and home — were passed down orally for generations, accompanied by fiddle and banjo. Many Child Ballads (cataloged by Francis James Child in the 1800s) survived in Appalachian communities long after disappearing in Britain.
 
 **African American blues** contributed the 12-bar song structure, bent notes, and emotional intensity that distinguish country from pure folk music. The banjo itself originated in West Africa. Jimmie Rodgers, one of country's founding figures, learned guitar from railroad workers and incorporated blues yodeling into his style. The genre has always been more racially intertwined than its popular image suggests.
 
-**Gospel music** provided harmony singing, emotional delivery, and thematic depth. Hank Williams, Johnny Cash, and nearly every major country artist has drawn from the Southern gospel tradition.
+**Gospel music** provided [harmony](/harmony) [singing](/singing), emotional delivery, and thematic depth. Hank Williams, Johnny Cash, and nearly every major country artist has drawn from the Southern gospel tradition.
 
 ## The Big Eras
 
@@ -59,15 +59,15 @@ Country music didn't appear from nowhere. It emerged from the collision of sever
 
 ## The Nashville Machine
 
-Nashville, Tennessee, is country music's capital — home to the Grand Ole Opry (broadcasting since 1925), Music Row (the recording industry district), and the Country Music Hall of Fame. The city's music industry generates roughly $10 billion annually.
+Nashville, Tennessee, is country music's capital — home to the Grand Ole Opry ([broadcasting](/broadcasting) since 1925), Music Row (the recording industry district), and the Country Music Hall of Fame. The city's music industry generates roughly $10 billion annually.
 
-Music Row's publishing houses, recording studios, and management firms form an ecosystem that discovers, develops, and distributes country music worldwide. The process is remarkably centralized — more so than any other major genre. A handful of songwriters, producers, and radio programmers exert enormous influence over what millions of listeners hear.
+Music Row's [publishing](/publishing) houses, recording studios, and [management](/management) firms form an ecosystem that discovers, develops, and distributes country music worldwide. The process is remarkably centralized — more so than any other major genre. A handful of songwriters, producers, and radio programmers exert enormous influence over what millions of listeners hear.
 
-This concentration has positive effects (professional polish, consistent quality) and negative ones (gatekeeping, formula repetition, demographic narrowness). The tension between Nashville's commercial machine and artists' creative independence has defined the genre's politics for decades.
+This concentration has positive effects (professional polish, consistent quality) and negative ones (gatekeeping, formula repetition, demographic narrowness). The tension between Nashville's commercial machine and artists' creative independence has defined the genre's [politics](/politics) for decades.
 
 ## The Diversity Question
 
-Country music has a complicated relationship with racial diversity. Despite its multiracial origins, the genre's audience and artist roster have been overwhelmingly white since the 1930s — partly through deliberate marketing choices by record labels and radio programmers.
+Country music has a complicated relationship with racial diversity. Despite its multiracial origins, the genre's audience and artist roster have been overwhelmingly white since the 1930s — partly through deliberate [marketing](/marketing) choices by record labels and radio programmers.
 
 Charley Pride, who had 29 #1 hits between 1969 and 1983, was the genre's most prominent Black artist for decades — an isolation that itself tells a story. More recently, artists like Mickey Guyton, Kane Brown, and Beyonce (whose *Cowboy Carter* reached #1 on the Billboard Country chart in 2024) have challenged the genre's demographic assumptions.
 

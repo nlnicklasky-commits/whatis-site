@@ -5,7 +5,7 @@ description: "Educational psychology studies how people learn, applying psycholo
 category: psychology
 tags: ["educational psychology", "learning", "psychology", "education", "teaching", "cognitive development", "motivation"]
 heroImage: "/images/articles/educational-psychology-hero.webp"
-heroAlt: "Classroom setting with visual representations of learning theories and cognitive processes"
+heroAlt: "Editorial photograph representing the concept of educational psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Educational psychology is the branch of psychology that studies how people learn
 
 ## Not Just "Psychology for Teachers"
 
-People sometimes assume educational psychology is a narrow field about classroom management tips. It's much bigger than that. Educational psychology tackles some of the deepest questions about the human mind: How do we acquire knowledge? Why do some explanations stick while others evaporate? What makes practice effective versus pointless? How do emotions shape memory? Why does motivation collapse in adolescence for some students but not others?
+People sometimes assume educational psychology is a narrow field about classroom [management](/management) tips. It's much bigger than that. Educational psychology tackles some of the deepest questions about the human mind: How do we acquire knowledge? Why do some explanations stick while others evaporate? What makes practice effective versus pointless? How do emotions shape memory? Why does motivation collapse in adolescence for some students but not others?
 
 The field's origins trace to William James, whose 1899 *Talks to Teachers on Psychology* was one of the first attempts to bridge psychology and education. Edward Thorndike, often called the father of educational psychology, brought experimental methods to learning research starting around 1903. His "law of effect"—behaviors followed by satisfying consequences are strengthened—remains foundational.
 
@@ -71,7 +71,7 @@ Cramming works for tomorrow's exam. It's terrible for long-term learning. Distri
 
 The spacing effect was first demonstrated by Hermann Ebbinghaus in 1885 and has been replicated hundreds of times since. A practical application: if you need to learn 100 vocabulary words, studying 10 per day over 10 days produces better long-term retention than studying all 100 on one day—even though total study time is the same.
 
-Spaced repetition software like Anki implements this algorithmically, scheduling reviews at optimal intervals based on how well you know each item. It's particularly effective for factual knowledge: medical terminology, foreign vocabulary, historical dates, [programming](/algorithms) syntax.
+Spaced repetition software like Anki implements this algorithmically, scheduling reviews at optimal intervals based on how well you know each item. It's particularly effective for factual knowledge: [medical terminology](/medical-terminology), foreign vocabulary, historical dates, [programming](/algorithms) syntax.
 
 ### Interleaving
 
@@ -115,7 +115,7 @@ Jean Piaget and, later, Lev Vygotsky argued that learners actively construct und
 
 **Piaget's stages of cognitive development** proposed that children's thinking changes qualitatively as they mature—from sensorimotor (learning through physical interaction), through preoperational (symbolic thought but limited logic), concrete operational (logical thinking about concrete objects), to formal operational (abstract reasoning). Teaching must match the child's [developmental](/developmental-psychology) stage.
 
-**Vygotsky's zone of proximal development (ZPD)** describes the sweet spot for instruction: tasks too difficult for the learner to accomplish alone but achievable with guidance. "Scaffolding"—temporary support that's gradually removed as competence develops—targets this zone.
+**Vygotsky's zone of proximal development (ZPD)** describes the sweet spot for instruction: tasks too difficult for the learner to accomplish alone but achievable with guidance. "[Scaffolding](/scaffolding)"—temporary support that's gradually removed as competence develops—targets this zone.
 
 Constructivism has heavily influenced modern education, emphasizing active learning, inquiry, and collaboration. But it's sometimes misapplied. The research doesn't say students should discover everything for themselves—minimally guided instruction often fails. Guided discovery and structured inquiry, where the teacher provides strategic support, work much better than pure discovery learning.
 
@@ -212,6 +212,6 @@ If you're a student (or anyone learning something new), here's what the research
 3. **Interleave** different topics or problem types. Don't practice the same thing 20 times before moving on.
 4. **Elaborate.** Ask yourself why and how. Connect new material to things you already know. Teach the material to someone else (or pretend to).
 5. **Use concrete examples.** Abstract concepts become memorable when connected to specific, vivid examples.
-6. **Get enough sleep.** Memory consolidation happens during sleep. Pulling an all-nighter before an exam is [neurologically](/cognitive-neuroscience) counterproductive—you're studying during the time your brain needs to process what you've already studied.
+6. **Get enough sleep.** Memory consolidation happens during sleep. Pulling an all-nighter before an exam is [neurologically](/cognitive-[neuroscience](/neuroscience)) counterproductive—you're studying during the time your brain needs to process what you've already studied.
 
 These strategies feel harder than rereading and highlighting—because they are. But that difficulty is the point. Effective learning isn't supposed to feel effortless. The struggle is where the learning happens.

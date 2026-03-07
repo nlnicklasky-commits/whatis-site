@@ -5,7 +5,7 @@ description: "Sourdough is bread made through slow fermentation using wild yeast
 category: food-and-drink
 tags: ["sourdough", "bread", "fermentation", "baking", "starter", "wild yeast"]
 heroImage: "/images/articles/sourdough-hero.webp"
-heroAlt: "A freshly baked sourdough loaf with a crackling golden crust, scored in a cross pattern, showing the open crumb structure inside"
+heroAlt: "Editorial photograph representing the concept of sourdough"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -79,13 +79,13 @@ That said, not everyone needs sourdough. If you want quick, convenient bread, su
 
 ## Getting Started (Realistically)
 
-Making sourdough takes time and space. You need at least a week to establish a starter, assuming it cooperates. Then each loaf takes 24-48 hours depending on fermentation length. You also need a Dutch oven for proper crust development, or at minimum, a baking stone and steam setup.
+Making sourdough takes time and space. You need at least a week to establish a starter, assuming it cooperates. Then each loaf takes 24-48 hours depending on fermentation length. You also need a Dutch oven for proper crust development, or at minimum, a [baking](/baking) stone and steam setup.
 
 Here's the honest part: your first loaves might not look Instagram-worthy. They might have a dense crumb, weak oven spring (how much they rise in the oven), or uneven fermentation. That's normal. Bread-making is a skill, not a mystery. Most bakers take months to produce consistently good loaves.
 
 If you're genuinely interested, the process is rewarding. You'll understand fermentation at a cellular level. You'll develop intuition about dough feel and fermentation speed. You might even keep your starter alive for years and feed it like a plant. Some people find it meditative. Others find it frustrating.
 
-## The Biology You Should Know
+## The [Biology](/biology) You Should Know
 
 Sourdough fermentation is actually multiple things happening at once. The yeast ferments sugar to alcohol and carbon dioxide. The bacteria produce lactic acid (milder sour flavor) and acetic acid (sharper vinegar-like flavor). Enzymes in flour (amylase and protease) break down starches into sugars and proteins into amino acids and peptides. This enzymatic activity happens during fermentation, not during baking, which is why a slow fermentation develops more flavor than a fast one.
 
@@ -99,4 +99,4 @@ Sourdough is worth trying if you like bread and have the time. The flavor is obj
 
 If you don't want to commit to maintaining a starter, you can still buy fresh sourdough from local bakeries. Many cities have good ones now. You get all the flavor and digestibility benefits without the responsibility of keeping a culture alive.
 
-The takeaway: sourdough is real bread with real advantages, made possible by time, wild microbes, and fermentation chemistry. It's not a hack or a shortcut. It's just bread made the slow way, and after thousands of years, we're still doing it because it works.
+The takeaway: sourdough is real bread with real advantages, made possible by time, wild microbes, and fermentation [chemistry](/chemistry). It's not a hack or a shortcut. It's just bread made the slow way, and after thousands of years, we're still doing it because it works.

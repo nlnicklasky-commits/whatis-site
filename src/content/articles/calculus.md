@@ -5,7 +5,7 @@ description: "Calculus is the branch of mathematics studying continuous change t
 category: science
 tags: ["calculus", "mathematics", "differential calculus", "integral calculus", "limits", "derivatives", "integrals"]
 heroImage: "/images/articles/calculus-hero.webp"
-heroAlt: "Mathematical equations and curves drawn on a chalkboard illustrating calculus concepts"
+heroAlt: "Editorial photograph representing the concept of calculus"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -155,7 +155,7 @@ Multivariable calculus extends derivatives and integrals to functions of multipl
 
 **Vector calculus** — divergence, curl, line integrals, surface integrals — describes fluid flow, electromagnetic fields, and gravitational forces. Maxwell's equations, which describe all electromagnetic phenomena, are written in the language of vector calculus.
 
-## Differential Equations — Calculus in Action
+## [Differential Equations](/differential-equations) — Calculus in Action
 
 A differential equation is an equation involving a function and its derivatives. They describe systems where the rate of change depends on the current state.
 
@@ -167,7 +167,7 @@ Newton's second law (F = ma) is a differential equation — acceleration (the se
 
 Solving differential equations means finding the function that satisfies the relationship. Some can be solved analytically (you get a formula). Many can't, and must be solved numerically using computers — which is why scientific computing uses so much calculus-based numerical analysis.
 
-The entire field of mathematical modeling relies on differential equations. Climate models, epidemiological models predicting disease spread, structural engineering models predicting how buildings respond to earthquakes — all differential equations, all calculus.
+The entire field of [mathematical modeling](/mathematical-modeling) relies on differential equations. Climate models, epidemiological models predicting disease spread, [structural engineering](/structural-engineering) models predicting how buildings respond to earthquakes — all differential equations, all calculus.
 
 ## A Brief History — The Invention That Changed Everything
 
@@ -217,7 +217,7 @@ Several extensions of calculus push into more abstract territory:
 
 **Complex analysis** extends calculus to complex numbers (numbers with real and imaginary parts). It has stunning properties — complex differentiable functions are automatically infinitely differentiable, and integrals around closed curves can be computed using residues rather than direct calculation.
 
-**Functional analysis** extends calculus to infinite-dimensional spaces — spaces of functions rather than numbers. This is the mathematical foundation of quantum mechanics.
+**[Functional analysis](/functional-analysis)** extends calculus to infinite-dimensional spaces — spaces of functions rather than numbers. This is the mathematical foundation of quantum mechanics.
 
 **Stochastic calculus** handles functions with random components. It's the basis of modern financial mathematics — the Black-Scholes equation that prices options is a stochastic differential equation.
 
@@ -237,6 +237,6 @@ If you're about to start calculus, here's what actually helps:
 
 ## Why Calculus Still Matters
 
-Every quantitative revolution — from Newtonian physics to electromagnetism to quantum mechanics to general relativity to modern machine learning — has been written in the language of calculus. It's not a historical curiosity. It's the active, living mathematics that describes how the physical world works and how we optimize the systems we build within it.
+Every quantitative revolution — from Newtonian physics to electromagnetism to quantum mechanics to [general relativity](/general-relativity) to modern machine learning — has been written in the language of calculus. It's not a historical curiosity. It's the active, living mathematics that describes how the physical world works and how we optimize the systems we build within it.
 
 You might never compute a derivative by hand after school. But the thinking patterns calculus teaches — breaking complex problems into infinitesimal pieces, analyzing rates of change, understanding accumulation — shape how quantitative thinkers approach every problem they encounter. That mental framework might be calculus's most lasting contribution.

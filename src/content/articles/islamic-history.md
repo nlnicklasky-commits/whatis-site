@@ -5,7 +5,7 @@ description: "Islamic history covers 1,400 years from the Prophet Muhammad to mo
 category: history
 tags: ["islamic civilization", "islam", "history", "caliphate", "muslim world"]
 heroImage: "/images/articles/islamic-history.webp"
-heroAlt: "Interior of a historic mosque with ornate arches and geometric tile patterns"
+heroAlt: "Editorial photograph representing the concept of islamic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Islamic history is the study of the civilization, political systems, cultural ac
 
 The Arabian Peninsula in the early 7th century was a peripheral region. The two great powers — the Byzantine Empire and the Sassanid Persian Empire — dominated the Middle East, and Arabia sat between them, largely ignored. Most Arabs were polytheistic, worshiping a pantheon of deities at various shrines. Mecca, a trading city in the Hejaz region, housed the Kaaba, a cuboid structure containing hundreds of idols that served as the most important pilgrimage site.
 
-Arabia wasn't a total backwater, though. Meccans controlled lucrative trade routes between Yemen and the Mediterranean. The Arabic language had a rich oral literary tradition — poetry was the highest art form, and great poets held social status comparable to modern celebrities. Jewish and Christian communities existed throughout the peninsula. The stage was set, though nobody knew it, for one of history's most consequential transformations.
+Arabia wasn't a total backwater, though. Meccans controlled lucrative trade routes between Yemen and the Mediterranean. The [Arabic language](/arabic-language) had a rich oral literary tradition — poetry was the highest art form, and great poets held social status comparable to modern celebrities. Jewish and Christian communities existed throughout the peninsula. The stage was set, though nobody knew it, for one of history's most consequential transformations.
 
 ## Muhammad and the Birth of Islam (610-632 CE)
 
@@ -51,7 +51,7 @@ Mecca's ruling Quraysh tribe was hostile. Muhammad's monotheism threatened the p
 
 In Medina, Muhammad became not only a religious leader but a political and military one. He established a community (ummah) governed by the Constitution of Medina, which regulated relations between Muslims, Jews, and pagans. After several military engagements with the Meccans, he returned to conquer Mecca in 630 CE, destroying the Kaaba's idols and establishing Islam's most sacred site.
 
-Muhammad died in 632 CE, leaving a community of perhaps 100,000 followers and no clearly designated successor. That absence of clear succession would define Islamic political history for centuries.
+Muhammad died in 632 CE, leaving a community of perhaps 100,000 followers and no clearly designated successor. That absence of clear succession would define Islamic [political history](/political-history) for centuries.
 
 ## The Rashidun Caliphate (632-661 CE)
 
@@ -61,7 +61,7 @@ Under Umar (634-644), Arab armies conquered the Sassanid Persian Empire entirely
 
 By 644, the caliphate stretched from Libya to Iran. Umar established the administrative frameworks — garrison cities, tax systems, legal structures — that would govern these conquests. His murder by a Persian slave in 644 was followed by two more contentious successions. The third caliph, Uthman, was assassinated in 656. His successor Ali — Muhammad's cousin and son-in-law — faced immediate civil war.
 
-Ali's assassination in 661 ended the Rashidun period and created Islam's fundamental schism. Those who accepted the Umayyad dynasty that followed became Sunni. Those who believed leadership belonged to Ali's descendants became Shia. The Battle of Karbala in 680 CE, where Ali's son Husayn and 72 followers were killed by Umayyad forces, became the defining martyrdom of Shia Islam — commemorated annually during Muharram.
+Ali's assassination in 661 ended the Rashidun period and created Islam's fundamental schism. Those who accepted the Umayyad dynasty that followed became Sunni. Those who believed [leadership](/leadership) belonged to Ali's descendants became Shia. The Battle of Karbala in 680 CE, where Ali's son Husayn and 72 followers were killed by Umayyad forces, became the defining martyrdom of Shia Islam — commemorated annually during Muharram.
 
 ## The Umayyad Caliphate (661-750 CE)
 
@@ -79,9 +79,9 @@ The Abbasid Caliphate moved the capital to Baghdad, and what followed was one of
 
 Baghdad, founded in 762, became the world's largest city by the early 9th century, with a population estimated at over one million. The House of Wisdom (*Bayt al-Hikma*), established under Caliph al-Ma'mun (reigned 813-833), systematically translated Greek, Persian, and Indian texts into Arabic. This wasn't mere preservation — scholars actively built upon and extended classical knowledge.
 
-The achievements were staggering. Al-Khwarizmi (c. 780-850) wrote the foundational texts of [algebra](/algebra) — the word itself comes from the title of his book, *al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala*. Ibn al-Haytham (Alhazen, 965-1040) essentially invented the scientific method and wrote the *Book of Optics*, which influenced European scientists for centuries. Al-Razi (Rhazes, 854-925) distinguished between measles and smallpox and wrote encyclopedic medical texts. Ibn Sina (Avicenna, 980-1037) produced *The Canon of Medicine*, used as a textbook in European universities until the 17th century.
+The achievements were staggering. Al-Khwarizmi (c. 780-850) wrote the foundational texts of [algebra](/algebra) — the word itself comes from the title of his book, *al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala*. Ibn al-Haytham (Alhazen, 965-1040) essentially invented the [scientific method](/scientific-method) and wrote the *Book of Optics*, which influenced European scientists for centuries. Al-Razi (Rhazes, 854-925) distinguished between measles and smallpox and wrote encyclopedic medical texts. Ibn Sina (Avicenna, 980-1037) produced *The Canon of Medicine*, used as a textbook in European universities until the 17th century.
 
-This wasn't limited to science. Islamic jurisprudence (fiqh) developed into sophisticated legal schools. Sufi mysticism produced extraordinary poetry and philosophy. Architecture reached new heights — the Great Mosque of Samarra, with its spiral minaret, was the largest mosque in the world. Persian literature experienced a renaissance under Abbasid patronage.
+This wasn't limited to science. Islamic [jurisprudence](/jurisprudence) (fiqh) developed into sophisticated legal schools. Sufi mysticism produced extraordinary poetry and philosophy. [Architecture](/architecture) reached new heights — the Great Mosque of Samarra, with its spiral minaret, was the largest mosque in the world. Persian [literature](/literature) experienced a renaissance under Abbasid patronage.
 
 The Abbasid Caliphate's political power declined well before its end. By the 10th century, real power had shifted to regional dynasties — the Buyids in Iran and Iraq, the Fatimids in Egypt, the various dynasties of Central Asia. The caliph in Baghdad retained religious prestige but little political authority.
 

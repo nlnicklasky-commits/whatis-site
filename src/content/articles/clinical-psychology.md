@@ -5,7 +5,7 @@ description: "Clinical psychology is the branch of psychology focused on diagnos
 category: health-amp-wellness
 tags: ["clinical psychology", "psychology", "mental health", "psychotherapy", "therapy"]
 heroImage: "/images/articles/clinical-psychology.webp"
-heroAlt: "A therapist's office with two comfortable chairs facing each other and warm lighting"
+heroAlt: "Editorial photograph representing the concept of clinical psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,9 +43,9 @@ Psychology as a discipline is surprisingly young. Wilhelm Wundt opened the first
 
 For most of history, mental illness was understood through religious or moral frameworks. People who heard voices were possessed. People who couldn't stop washing their hands were morally weak. The lucky ones ended up in monasteries. The unlucky ones ended up chained in asylums.
 
-Sigmund Freud changed the conversation starting in the 1890s with psychoanalysis — the idea that unconscious conflicts drive psychological suffering, and that talking about them could help. Whether or not you buy Freud's specific theories (and modern clinical psychology mostly doesn't), he established the radical notion that mental illness could be treated through conversation rather than confinement.
+Sigmund Freud changed the conversation starting in the 1890s with [psychoanalysis](/psychoanalysis) — the idea that unconscious conflicts drive psychological suffering, and that talking about them could help. Whether or not you buy Freud's specific theories (and modern clinical psychology mostly doesn't), he established the radical notion that mental illness could be treated through conversation rather than confinement.
 
-The real explosion came after World War II. Thousands of veterans returned with what we now call PTSD, and the existing mental health system couldn't handle the demand. The Veterans Administration began funding clinical psychology training programs. The American Psychological Association established standards for doctoral training at the Boulder Conference in 1949, creating the "scientist-practitioner" model that still shapes the field.
+The real explosion came after [World War II](/world-war-ii). Thousands of veterans returned with what we now call PTSD, and the existing [mental health](/mental-health) system couldn't handle the demand. The Veterans Administration began funding clinical psychology training programs. The American Psychological Association established standards for doctoral training at the Boulder Conference in 1949, creating the "scientist-practitioner" model that still shapes the field.
 
 ## What Clinical Psychologists Actually Do
 
@@ -59,7 +59,7 @@ The tools include IQ tests (like the Wechsler Adult Intelligence Scale), persona
 
 A thorough psychological evaluation can take 8-10 hours of testing and interview time. It's not a quick process, but the information it provides — about cognitive function, personality patterns, emotional processing, and diagnostic clarity — can be genuinely life-changing for patients who've been struggling without understanding why.
 
-### Psychotherapy
+### [Psychotherapy](/psychotherapy)
 
 This is what most people think of when they think of clinical psychology. A person sits with a therapist and works through their problems. But "working through problems" takes many different forms, depending on the approach.
 
@@ -67,7 +67,7 @@ This is what most people think of when they think of clinical psychology. A pers
 
 **Psychodynamic therapy** evolved from Freud's psychoanalysis but is more focused and evidence-based. It explores how past relationships and unconscious patterns affect current functioning. If you keep choosing partners who treat you badly, or you sabotage yourself right before succeeding, psychodynamic therapy asks *why* — and looks for patterns rooted in early experience.
 
-**Humanistic and existential therapies** focus on personal growth, meaning, and self-actualization. Carl Rogers' person-centered therapy emphasizes unconditional positive regard — the therapist accepts you completely, creating a safe space for self-exploration. It sounds simple. In practice, having someone genuinely listen without judgment is rarer than you'd think.
+**Humanistic and existential therapies** focus on [personal growth](/personal-growth), meaning, and self-actualization. Carl Rogers' person-centered therapy emphasizes unconditional positive regard — the therapist accepts you completely, creating a safe space for self-exploration. It sounds simple. In practice, having someone genuinely listen without judgment is rarer than you'd think.
 
 **Behavioral therapies** focus less on thoughts and more on actions. Exposure therapy — gradually confronting feared situations — is the gold standard for phobias, OCD, and PTSD. If you're terrified of dogs, a [behavioral](/behavioral-psychology) therapist won't spend months exploring why. They'll help you get comfortable being near a dog, step by step, until the fear response fades.
 
@@ -89,7 +89,7 @@ Clinical psychology is broad enough to contain several distinct specializations.
 
 **Child and adolescent clinical psychology** focuses on [developmental](/developmental-psychology) issues, childhood disorders like ADHD and autism spectrum disorder, and the unique challenges of treating young people. Therapy with a 6-year-old looks nothing like therapy with an adult — play therapy, family involvement, and school-based interventions are common tools.
 
-**Health psychology** examines how psychological factors affect physical health. Stress management for cardiac patients, pain management techniques, adherence to medical treatment, coping with chronic illness — all fall under this umbrella. The mind-body connection isn't just a wellness buzzword; it's a research-backed reality with measurable health outcomes.
+**Health psychology** examines how psychological factors affect physical health. Stress [management](/management) for cardiac patients, pain management techniques, adherence to medical treatment, coping with chronic illness — all fall under this umbrella. The mind-body connection isn't just a wellness buzzword; it's a research-backed reality with measurable health outcomes.
 
 **Neuropsychology** sits at the intersection of psychology and brain science. Neuropsychologists assess and treat cognitive problems caused by brain injury, stroke, dementia, and neurological disease. They use specialized tests to pinpoint which brain functions are impaired and develop rehabilitation plans. Understanding the [brain's structure](/anatomy) is essential for this work.
 

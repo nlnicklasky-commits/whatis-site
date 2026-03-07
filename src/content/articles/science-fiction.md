@@ -5,7 +5,7 @@ description: "Science fiction is a genre that explores imagined futures, technol
 category: everyday-concepts
 tags: ["science fiction", "sci-fi", "futuristic", "space exploration", "technology", "speculative fiction"]
 heroImage: "/images/articles/science-fiction.webp"
-heroAlt: "A futuristic cityscape with spacecraft and towering buildings against a starlit sky"
+heroAlt: "Editorial photograph representing the concept of science fiction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Science Fiction?
 
-Science fiction is a genre of storytelling that imagines how science, technology, and social change could reshape the world — and then explores what those changes would mean for actual human beings. It takes a "what if" premise rooted in scientific possibility (however loosely) and follows it to its logical, often unsettling conclusions.
+Science fiction is a genre of [storytelling](/storytelling) that imagines how science, technology, and social change could reshape the world — and then explores what those changes would mean for actual human beings. It takes a "what if" premise rooted in scientific possibility (however loosely) and follows it to its logical, often unsettling conclusions.
 
 The best science fiction isn't really about robots or spaceships. It's about us — how we'd react to contact with alien intelligence, what we'd do with immortality, whether artificial consciousness deserves rights. The technology is the stage. The human drama is the play.
 
 ## Where It Came From
 
-Science fiction as a recognizable genre emerged from a specific historical moment: the early 19th century, when science was beginning to transform everyday life in visible, sometimes frightening ways. Electricity, industrial machinery, evolutionary theory — these were reshaping the world, and writers started imagining where it was all heading.
+Science fiction as a recognizable genre emerged from a specific historical moment: the early 19th century, when science was beginning to transform everyday life in visible, sometimes frightening ways. [Electricity](/electricity), industrial machinery, evolutionary theory — these were reshaping the world, and writers started imagining where it was all heading.
 
 Mary Shelley's *Frankenstein* (1818) is generally considered the starting gun. What makes it science fiction rather than horror is the mechanism: Victor Frankenstein doesn't use a magic spell to animate his creature. He uses electricity and scientific experimentation. The novel asks a question that remains relevant 200 years later — what happens when our technological abilities outpace our ethical wisdom?
 
@@ -49,9 +49,9 @@ The American pulp magazines of the 1920s-1940s gave the genre its name and its m
 
 Science fiction has fragmented into dozens of subgenres, each with distinct preoccupations.
 
-**Hard science fiction** prioritizes scientific accuracy. Writers like Arthur C. Clarke, Kim Stanley Robinson, and Andy Weir build their stories around real physics, biology, or engineering. *The Martian* is hard sci-fi — the plot hinges on actual orbital mechanics, Martian soil chemistry, and botany. If the science is wrong, the story falls apart.
+**Hard science fiction** prioritizes scientific accuracy. Writers like Arthur C. Clarke, Kim Stanley Robinson, and Andy Weir build their stories around real [physics](/physics), [biology](/biology), or [engineering](/engineering). *The Martian* is hard sci-fi — the plot hinges on actual orbital mechanics, Martian soil [chemistry](/chemistry), and [botany](/botany). If the science is wrong, the story falls apart.
 
-**Space opera** goes the other direction — big, sweeping adventures with interstellar civilizations, faster-than-light travel, and galactic empires. *Star Wars*, *Dune*, and Iain M. Banks's *Culture* series are space opera. The science is more backdrop than foundation, and the emphasis is on characters, politics, and spectacle.
+**Space opera** goes the other direction — big, sweeping adventures with interstellar civilizations, faster-than-light travel, and galactic empires. *Star Wars*, *Dune*, and Iain M. Banks's *Culture* series are space opera. The science is more backdrop than foundation, and the emphasis is on characters, [politics](/politics), and spectacle.
 
 **Cyberpunk** emerged in the 1980s with William Gibson's *Neuromancer* and Ridley Scott's *Blade Runner*. It imagines near-future worlds dominated by corporate power, advanced computing, and social inequality — high tech, low life. In retrospect, cyberpunk predicted the internet age more accurately than almost any other subgenre.
 
@@ -65,7 +65,7 @@ Science fiction does something no other genre can: it lets us rehearse the futur
 
 When engineers at NASA, SpaceX, or DARPA talk about their inspirations, they cite science fiction constantly. The communicator from *Star Trek* inspired Martin Cooper to develop the cell phone. Tablet computers existed in *2001: A Space Odyssey* (1968) decades before the iPad. The concept of cyberspace originated in William Gibson's fiction before the internet existed in its modern form.
 
-But the influence goes beyond gadgets. Science fiction shapes how societies think about technology, ethics, and the future. The term "robot" comes from Karel Capek's 1920 play *R.U.R.* The Three Laws of Robotics from Asimov's stories have genuinely influenced AI ethics discussions. The concept of the "metaverse" comes from Neal Stephenson's 1992 novel *Snow Crash*.
+But the influence goes beyond gadgets. Science fiction shapes how societies think about technology, [ethics](/ethics), and the future. The term "robot" comes from Karel Capek's 1920 play *R.U.R.* The Three Laws of [Robotics](/robotics) from Asimov's stories have genuinely influenced AI ethics discussions. The concept of the "metaverse" comes from Neal Stephenson's 1992 novel *Snow Crash*.
 
 Science fiction also functions as a warning system. Orwell's *1984* gave us vocabulary ("Big Brother," "doublethink," "thoughtcrime") to discuss surveillance and authoritarian control. Huxley's *Brave New World* warned about pleasure as a tool of oppression. These books didn't predict specific futures — they gave us frameworks for recognizing dangerous patterns.
 

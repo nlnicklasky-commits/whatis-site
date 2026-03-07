@@ -5,7 +5,7 @@ description: "Bookkeeping is the systematic recording of financial transactions.
 category: finance
 tags: ["bookkeeping", "accounting", "financial transactions", "double-entry bookkeeping", "financial records", "finance", "business management"]
 heroImage: "/images/articles/bookkeeping-hero.webp"
-heroAlt: "Open ledger book with financial entries and a calculator on a wooden desk"
+heroAlt: "Editorial photograph representing the concept of bookkeeping"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Bookkeeping?
 
-Bookkeeping is the systematic process of recording, organizing, and maintaining a business's financial transactions, including purchases, sales, receipts, and payments. It forms the foundation of all financial management and provides the raw data that [accounting](/accounting) professionals use to create financial statements and business insights.
+Bookkeeping is the systematic process of recording, organizing, and maintaining a business's financial transactions, including purchases, sales, receipts, and payments. It forms the foundation of all financial [management](/management) and provides the raw data that [accounting](/accounting) professionals use to create financial statements and business insights.
 
 ## Why Bookkeeping Exists (And Why It Matters)
 
@@ -87,7 +87,7 @@ The accounts balance. Now say you buy $200 in office supplies on your business c
 
 Again, balanced. Every transaction maintains the fundamental [accounting](/accounting) equation: Assets = Liabilities + Equity. If your books don't balance, something is wrong, and you can trace it.
 
-This self-balancing feature is why every serious business, bank, and government uses double-entry. It's been the standard for half a millennium because nothing better has replaced it.
+This self-balancing feature is why every serious business, bank, and [government](/government) uses double-entry. It's been the standard for half a millennium because nothing better has replaced it.
 
 ## The Chart of Accounts: Your Financial Map
 
@@ -95,7 +95,7 @@ Before you record a single transaction, you need a chart of accounts — a list 
 
 Standard categories include:
 
-**Assets** — What the business owns. Cash, accounts receivable (money owed to you), inventory, equipment, real estate, prepaid expenses.
+**Assets** — What the business owns. Cash, accounts receivable (money owed to you), inventory, equipment, [real estate](/real-estate), prepaid expenses.
 
 **Liabilities** — What the business owes. Accounts payable (money you owe suppliers), credit card balances, loans, taxes payable, unearned revenue.
 
@@ -103,7 +103,7 @@ Standard categories include:
 
 **Revenue** — Money earned from business activities. Sales revenue, service income, interest income, rental income.
 
-**Expenses** — Costs of running the business. Rent, salaries, utilities, supplies, insurance, depreciation, marketing.
+**Expenses** — Costs of [running](/running) the business. Rent, salaries, utilities, supplies, [insurance](/insurance), depreciation, [marketing](/marketing).
 
 A small freelance business might have 20-30 accounts. A mid-size company might have hundreds. A large corporation can have thousands. The key is having enough detail to track meaningful categories without creating so many accounts that the system becomes unwieldy.
 
@@ -239,7 +239,7 @@ Nonprofits have unique bookkeeping requirements. They must track funds by restri
 
 ## The Role of the Professional Bookkeeper
 
-Despite automation, professional bookkeepers remain essential. The Bureau of Labor Statistics reported about 1.7 million bookkeeping, accounting, and auditing clerk jobs in the US in 2023. While routine data entry has declined, the role has evolved toward analysis, software management, and advisory services.
+Despite automation, professional bookkeepers remain essential. The Bureau of Labor [Statistics](/statistics) reported about 1.7 million bookkeeping, accounting, and auditing clerk jobs in the US in 2023. While routine data entry has declined, the role has evolved toward analysis, software management, and advisory services.
 
 A good bookkeeper does more than record transactions. They:
 

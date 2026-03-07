@@ -5,7 +5,7 @@ description: "Piano tuning adjusts string tension to correct pitch and temperame
 category: everyday-concepts
 tags: ["piano tuning", "music", "acoustics", "temperament", "pitch", "instrument maintenance"]
 heroImage: "/images/articles/piano-tuning.webp"
-heroAlt: "A piano tuner using a tuning lever on the pins inside an open upright piano"
+heroAlt: "Editorial photograph representing the concept of piano tuning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "The primary cause is humidity changes. Wood expands when humidity rises and contracts when it falls. The soundboard's expansion and contraction changes the tension on the strings, altering their pitch. Temperature changes also affect tuning. String tension naturally decreases over time as strings stretch. Heavy playing can accelerate pitch changes. Even a piano in a climate-controlled room will drift out of tune over months."
 ---
 
-# What Is Piano Tuning?
+# What Is [Piano](/piano) Tuning?
 
 Piano tuning is the process of adjusting the tension of a piano's roughly 230 strings so that each note sounds at the correct pitch and the intervals between notes are musically pleasing. A professional piano tuner — more accurately called a piano technician — uses a specialized wrench (tuning lever or tuning hammer) to turn the tuning pins that hold each string, tightening or loosening them until the pitch is right. The whole process takes about 1-2 hours and needs to be repeated roughly every six months.
 
@@ -79,7 +79,7 @@ The solution is a pitch raise: a rough first pass that brings all strings approx
 
 Professional piano tuners train for years. The Piano Technicians Guild (PTG) offers the Registered Piano Technician (RPT) certification, which requires passing rigorous written and practical exams covering tuning, regulation, and repair.
 
-Some tuners work entirely by ear, using beat rates to set the temperament and check octaves. Others use electronic tuning devices (ETDs) that measure frequency precisely. The debate between aural and electronic tuning is passionate and ongoing — purists argue that a skilled ear produces more musical results, while pragmatists note that ETDs are more consistent and faster.
+Some tuners work entirely by ear, using beat rates to set the temperament and check octaves. Others use electronic tuning devices (ETDs) that measure frequency precisely. The [debate](/debate) between aural and electronic tuning is passionate and ongoing — purists argue that a skilled ear produces more musical results, while pragmatists note that ETDs are more consistent and faster.
 
 In practice, the best tuners combine both approaches — using electronic assistance for precision while relying on trained ears for the subtle musical judgments that make a tuning sound alive rather than mechanical.
 

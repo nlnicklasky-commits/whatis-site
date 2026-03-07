@@ -5,7 +5,7 @@ description: "Art restoration is the process of repairing, cleaning, and preserv
 category: arts-amp-culture
 tags: ["restoration art", "conservation", "art preservation", "museums", "painting", "repair"]
 heroImage: "/images/articles/restoration-art.webp"
-heroAlt: "Conservator carefully restoring a damaged painting in a studio"
+heroAlt: "Editorial photograph representing the concept of restoration (art)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Restoration (Art)?
 
-Art restoration — more precisely called conservation-restoration — is the examination, treatment, and preservation of cultural artifacts including paintings, sculptures, textiles, books, ceramics, and architectural elements. When a 500-year-old painting darkens under layers of varnish, when a marble sculpture loses a hand to earthquake damage, when a medieval manuscript's pages begin to crumble — conservators step in to stabilize the damage and, when appropriate, return the work closer to its original appearance.
+Art restoration — more precisely called conservation-restoration — is the examination, treatment, and preservation of cultural artifacts including paintings, sculptures, textiles, books, [ceramics](/ceramics), and architectural elements. When a 500-year-old [painting](/painting) darkens under layers of varnish, when a marble [sculpture](/sculpture) loses a hand to earthquake damage, when a medieval manuscript's pages begin to crumble — conservators step in to stabilize the damage and, when appropriate, return the work closer to its original appearance.
 
 ## What Conservators Actually Do
 
@@ -55,21 +55,21 @@ Art restoration is full of genuinely difficult ethical questions.
 
 **Whose intent matters?** When Michelangelo painted the Sistine Chapel, the colors were bright and bold. Over centuries, soot darkened them. Generations of viewers knew only the dark version. When the restoration revealed brilliant colors, some critics (including prominent art historians) argued that the dark version was actually how people experienced and valued the work — and that the restoration destroyed something meaningful.
 
-**The reversibility principle.** Modern conservation ethics demand that every intervention be reversible — future conservators should be able to undo anything done today. This principle acknowledges that current techniques and understanding may prove wrong, and that future generations deserve the ability to reconsider. It's a profoundly humble approach.
+**The reversibility principle.** Modern conservation [ethics](/ethics) demand that every intervention be reversible — future conservators should be able to undo anything done today. This principle acknowledges that current techniques and understanding may prove wrong, and that future generations deserve the ability to reconsider. It's a profoundly humble approach.
 
 **Who gets restored?** Major works by famous artists receive extensive, expensive conservation. Works by lesser-known artists, marginalized communities, or non-Western traditions often don't. Resource allocation in conservation reflects and reinforces existing hierarchies about what's considered culturally valuable.
 
 ## Famous Restorations (and Disasters)
 
-The **Sistine Chapel** restoration (1980-1994) was the most controversial conservation project of the 20th century. Cleaning revealed colors so vivid that some scholars initially didn't believe them. The debate over whether the cleaning removed Michelangelo's final glazes (or only later additions) continues, though most experts now accept the restoration as successful.
+The **Sistine Chapel** restoration (1980-1994) was the most controversial conservation project of the 20th century. Cleaning revealed colors so vivid that some scholars initially didn't believe them. The [debate](/debate) over whether the cleaning removed Michelangelo's final glazes (or only later additions) continues, though most experts now accept the restoration as successful.
 
-**Leonardo's *The Last Supper*** (restoration completed 1999) was famously deteriorating almost since its completion in 1498 — Leonardo's experimental fresco technique didn't adhere properly to the wall. Centuries of restoration attempts, a Napoleonic stable, World War II bombing (the room was hit but the painting's sandbag protection held), and humidity damage left the original paint barely visible. The 22-year restoration removed centuries of overpainting to reveal what remained of Leonardo's original — estimated at roughly 20% of the surface.
+**Leonardo's *The Last Supper*** (restoration completed 1999) was famously deteriorating almost since its completion in 1498 — Leonardo's experimental fresco technique didn't adhere properly to the wall. Centuries of restoration attempts, a Napoleonic stable, [World War II](/world-war-ii) bombing (the room was hit but the painting's sandbag protection held), and humidity damage left the original paint barely visible. The 22-year restoration removed centuries of overpainting to reveal what remained of Leonardo's original — estimated at roughly 20% of the surface.
 
 The **Ecce Homo of Borja** (2012) became the most famous restoration disaster in history when an elderly parishioner in Spain attempted to restore a deteriorating fresco of Christ. The result — resembling what the internet called "Monkey Christ" — went viral and became an international joke. Ironically, the botched restoration turned the obscure church into a tourist attraction, generating significant revenue.
 
 ## The Modern Field
 
-Conservation is a profession requiring graduate-level education (typically a master's degree), combining chemistry, art history, studio skills, and scientific methodology. Major conservation programs exist at NYU, the University of Delaware, the Courtauld Institute (London), and others. Admission is competitive, and programs are small.
+Conservation is a profession requiring graduate-level [education](/education) (typically a master's degree), combining [chemistry](/chemistry), [art history](/art-history), studio skills, and scientific methodology. Major conservation programs exist at NYU, the University of Delaware, the Courtauld Institute (London), and others. Admission is competitive, and programs are small.
 
 Technology continues advancing the field. Laser cleaning can remove specific layers of contamination without touching the original surface. 3D scanning and printing enable precise reproduction of missing sculptural elements. AI-assisted analysis helps identify materials and previous interventions. But the core of the work remains hands-on — a human being with a brush, working under magnification, making decisions about a specific artwork one millimeter at a time.
 

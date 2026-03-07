@@ -5,7 +5,7 @@ description: "River ecology studies how living organisms interact with each othe
 category: science
 tags: ["river ecology", "freshwater", "aquatic ecosystems", "hydrology", "biodiversity", "conservation", "water quality"]
 heroImage: "/images/articles/river-ecology-hero.webp"
-heroAlt: "A clear river flowing through a forested valley with rocks and aquatic plants visible beneath the surface"
+heroAlt: "Editorial photograph representing the concept of river ecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -75,13 +75,13 @@ The physical structure of a river determines which organisms can live where. And
 
 ### Chemical Environment
 
-Water chemistry shapes river life in ways that aren't always visible but are always consequential.
+Water [chemistry](/chemistry) shapes river life in ways that aren't always visible but are always consequential.
 
 **Dissolved oxygen** is the big one. Aquatic organisms breathe oxygen dissolved in water, and its concentration depends on temperature (cold water holds more oxygen), flow (turbulent water absorbs oxygen from the atmosphere), and biological demand (decomposing organic matter consumes oxygen). When oxygen drops below about 5 mg/L, sensitive species start dying. Below 2 mg/L, you're looking at a dead zone.
 
 **pH** affects the availability of nutrients and the toxicity of metals. Most river organisms thrive between pH 6.5 and 8.5. Acid rain, mining drainage, or naturally acidic soils can push pH below this range, with devastating consequences for fish and invertebrates.
 
-**Nutrients** — primarily nitrogen and phosphorus — fuel the base of the food web. Too little, and productivity is low. Too much, and you get eutrophication: excessive algal growth, oxygen depletion, fish kills, and foul-smelling water. This is one of the most common and damaging forms of river pollution worldwide. According to the EPA, nutrient pollution affects thousands of rivers across the United States alone.
+**Nutrients** — primarily nitrogen and phosphorus — fuel the base of the food web. Too little, and [productivity](/productivity) is low. Too much, and you get eutrophication: excessive algal growth, oxygen depletion, fish kills, and foul-smelling water. This is one of the most common and damaging forms of river pollution worldwide. According to the EPA, nutrient pollution affects thousands of rivers across the United States alone.
 
 **Dissolved organic matter** from decaying plant material gives many rivers their characteristic tea-brown color. This material feeds microbial communities, absorbs UV light (protecting organisms from radiation), and influences how metals and pollutants behave in the water.
 
@@ -101,7 +101,7 @@ Aquatic invertebrates — insects, crustaceans, worms, mollusks, and more — ar
 
 Mayflies (Ephemeroptera), stoneflies (Plecoptera), and caddisflies (Trichoptera) — collectively known as EPT taxa — are the gold standard for river health assessment. These groups are generally sensitive to pollution. When ecologists find abundant and diverse EPT communities, they know the water quality is good. When EPT diversity crashes, something is wrong.
 
-Caddisfly larvae are particularly fascinating. Some species build portable cases from sand grains, small pebbles, or plant fragments, cemented with silk. Others spin silk nets in the current to catch drifting food particles. The engineering sophistication is remarkable for animals smaller than your thumbnail.
+Caddisfly larvae are particularly fascinating. Some species build portable cases from sand grains, small pebbles, or plant fragments, cemented with silk. Others spin silk nets in the current to catch drifting food particles. The [engineering](/engineering) sophistication is remarkable for animals smaller than your thumbnail.
 
 Freshwater mussels deserve special mention. They're among the most endangered groups of organisms on Earth — roughly 70% of North American freshwater mussel species are threatened or endangered. They filter enormous volumes of water (a single mussel can filter 10-15 gallons per day), improving water clarity and quality. Their decline has measurable effects on the rivers they inhabit.
 
@@ -230,7 +230,7 @@ River ecology faces an interesting tension. On one hand, the threats to rivers a
 
 On the other hand, our ability to understand and restore rivers has never been greater. Advances in [environmental DNA](/biotechnology), remote sensing, computational modeling, and ecological theory give us tools that previous generations of river ecologists couldn't have imagined. The science is better than it's ever been.
 
-The challenge is bridging the gap between what we know and what we do. River ecologists increasingly recognize that technical solutions alone aren't enough — effective river conservation requires engaging with policy, economics, and social values. A river that's ecologically healthy but doesn't meet human needs won't be sustained. A river that meets human needs but is ecologically degraded won't sustain those services long-term.
+The challenge is bridging the gap between what we know and what we do. River ecologists increasingly recognize that technical solutions alone aren't enough — effective river conservation requires engaging with policy, [economics](/economics), and social values. A river that's ecologically healthy but doesn't meet human needs won't be sustained. A river that meets human needs but is ecologically degraded won't sustain those services long-term.
 
 Finding the balance — rivers that support both thriving ecosystems and human well-being — is the central challenge of river ecology in the 21st century. It's a challenge that demands both rigorous science and the wisdom to apply it in a complicated human world.
 

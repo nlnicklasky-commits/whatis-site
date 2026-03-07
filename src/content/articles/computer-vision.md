@@ -5,7 +5,7 @@ description: "Computer vision enables machines to interpret visual information f
 category: everyday-concepts
 tags: ["computer vision", "everyday-concepts"]
 heroImage: "/images/articles/computer-vision.webp"
-heroAlt: "A camera system analyzing objects with bounding boxes and labels overlaid on the image"
+heroAlt: "Editorial photograph representing the concept of computer vision"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,11 +43,11 @@ The challenge breaks down into several subproblems. **Image classification** ask
 
 ## How It Actually Works
 
-### The Pre-Deep Learning Days
+### The Pre-[Deep Learning](/deep-learning) Days
 
 Before roughly 2012, computer vision relied heavily on hand-crafted features — mathematically defined patterns that engineers designed to detect edges, corners, textures, and gradients in images. Algorithms like SIFT (Scale-Invariant Feature Transform) and HOG (Histogram of Oriented Gradients) could identify objects by matching these features to known templates.
 
-This approach worked for constrained problems — reading license plates, detecting faces in controlled lighting — but struggled with the variability of real-world images. A cat can be any size, any color, in any position, partially hidden, in any lighting condition. Writing explicit rules to handle all that variation was practically impossible.
+This approach worked for constrained problems — reading license plates, detecting faces in controlled lighting — but struggled with the variability of real-world images. A cat can be any size, any color, in any position, partially hidden, in any lighting condition. [Writing](/writing) explicit rules to handle all that variation was practically impossible.
 
 ### The Deep Learning Revolution
 
@@ -55,7 +55,7 @@ Everything changed in 2012 when a convolutional neural network (CNN) called Alex
 
 CNNs work by learning features automatically from data rather than having them hand-designed. The network consists of layers of filters that progressively detect more complex patterns. Early layers detect edges and simple textures. Middle layers combine those into shapes — circles, rectangles, curves. Deeper layers recognize complex objects — faces, cars, dogs. The network learns which features matter by training on millions of labeled images.
 
-Since AlexNet, architectures have grown more sophisticated. VGGNet, GoogLeNet, ResNet (which introduced skip connections, enabling networks hundreds of layers deep), and Vision Transformers (ViTs, which adapt the transformer architecture from natural language processing to images) have pushed accuracy to superhuman levels on many benchmarks.
+Since AlexNet, architectures have grown more sophisticated. VGGNet, GoogLeNet, ResNet (which introduced skip connections, enabling networks hundreds of layers deep), and Vision Transformers (ViTs, which adapt the transformer [architecture](/architecture) from [natural language processing](/natural-language-processing) to images) have pushed accuracy to superhuman levels on many benchmarks.
 
 ## Where You Encounter It Daily
 
@@ -63,11 +63,11 @@ Since AlexNet, architectures have grown more sophisticated. VGGNet, GoogLeNet, R
 
 **Autonomous vehicles** are perhaps the most demanding application. A self-driving car must detect and classify vehicles, pedestrians, cyclists, traffic signs, lane markings, and road conditions — all in real time, in all weather conditions, with safety-critical accuracy. Companies like Waymo, Tesla, and Cruise use combinations of cameras, lidar, and radar processed through computer vision systems.
 
-**Medical imaging** analysis is one of the most impactful applications. Computer vision models can detect diabetic retinopathy from eye scans, identify cancerous cells in pathology slides, and spot pneumonia in chest X-rays. A 2020 study in *Nature* showed that an AI system matched or exceeded radiologists in breast cancer detection from mammograms.
+**[Medical imaging](/medical-imaging)** analysis is one of the most impactful applications. Computer vision models can detect diabetic retinopathy from eye scans, identify cancerous cells in [pathology](/pathology) slides, and spot pneumonia in chest X-rays. A 2020 study in *Nature* showed that an AI system matched or exceeded radiologists in breast cancer detection from mammograms.
 
-**Manufacturing quality control** uses cameras and vision algorithms to inspect products at speeds no human can match. A system might check thousands of circuit boards per hour for soldering defects, or scan every bottle on a production line for label alignment.
+**Manufacturing quality control** uses cameras and vision algorithms to inspect products at speeds no human can match. A system might check thousands of circuit boards per hour for [soldering](/soldering) defects, or scan every bottle on a production line for label alignment.
 
-**Retail and agriculture** use computer vision for inventory tracking, checkout-free stores (like Amazon's Just Walk Out technology), crop health monitoring from drone imagery, and fruit ripeness assessment for harvest timing.
+**Retail and [agriculture](/agriculture)** use computer vision for inventory tracking, checkout-free stores (like Amazon's Just Walk Out technology), crop health monitoring from drone imagery, and fruit ripeness assessment for harvest timing.
 
 ## The Training Data Question
 
@@ -81,7 +81,7 @@ Computer vision models are only as good as their training data. This creates sev
 
 ## Privacy and Ethics
 
-Computer vision raises real privacy concerns. Facial recognition in public spaces enables surveillance at a scale that was previously impossible. China's extensive surveillance network uses computer vision to track individuals across cities. Some U.S. cities (San Francisco, Boston, Portland) have banned government use of facial recognition technology over privacy and bias concerns.
+Computer vision raises real privacy concerns. Facial recognition in public spaces enables surveillance at a scale that was previously impossible. China's extensive surveillance network uses computer vision to track individuals across cities. Some U.S. cities (San Francisco, Boston, Portland) have banned [government](/government) use of facial recognition technology over privacy and bias concerns.
 
 The technology itself is neutral. How it's deployed is not. A system that helps doctors detect cancer earlier is unambiguously good. A system that enables authoritarian surveillance is unambiguously bad. Most applications fall somewhere in between, and society is still working out where the lines should be drawn.
 

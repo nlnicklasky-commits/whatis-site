@@ -5,7 +5,7 @@ description: "Four-wheel driving sends power to all four wheels for better tract
 category: everyday-concepts
 tags: ["four wheel driving", "off-road", "vehicles", "adventure", "4WD", "outdoor recreation"]
 heroImage: "/images/articles/four-wheel-driving.webp"
-heroAlt: "4WD vehicle traversing a rocky mountain trail in rugged terrain"
+heroAlt: "Editorial photograph representing the concept of four-wheel driving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Four-Wheel Driving?
 
-Four-wheel driving (also called 4WD, 4x4, or off-roading) is the practice of driving vehicles equipped with four-wheel drive systems on unpaved terrain — trails, sand, rocks, mud, snow, and other surfaces where normal two-wheel-drive vehicles can't maintain traction. It's simultaneously a practical transportation method (essential in many rural and remote areas), a recreational hobby, and a competitive sport.
+Four-wheel driving (also called 4WD, 4x4, or [off-roading](/off-roading)) is the practice of driving vehicles equipped with four-wheel drive systems on unpaved terrain — trails, sand, rocks, mud, snow, and other surfaces where normal two-wheel-drive vehicles can't maintain traction. It's simultaneously a practical transportation method (essential in many rural and remote areas), a recreational hobby, and a competitive sport.
 
 ## How 4WD Works
 
@@ -65,7 +65,7 @@ Beyond the vehicle itself, serious off-roaders carry recovery and safety gear.
 
 **Communication** is critical in remote areas without cell service. CB radios, UHF radios, or satellite communicators (like Garmin inReach) provide emergency communication capability.
 
-**Navigation** tools include GPS devices, paper maps (batteries die and screens break), and trail guides. Many off-road trails are poorly marked or not marked at all.
+**[Navigation](/navigation)** tools include GPS devices, paper maps (batteries die and screens break), and trail guides. Many off-road trails are poorly marked or not marked at all.
 
 **Vehicle protection** includes skid plates (metal shields protecting the undercarriage), rock sliders (protecting the rocker panels), and bull bars or bumpers designed to handle impacts with brush and minor obstacles.
 
@@ -79,9 +79,9 @@ Competitive off-roading exists too. Rock crawling competitions score drivers on 
 
 ## Overlanding
 
-Overlanding is a subset of four-wheel driving focused on self-reliant travel to remote destinations. Where recreational off-roading is about the driving challenge itself, overlanding is about the journey — camping, exploring, and traveling through landscapes inaccessible to normal vehicles.
+Overlanding is a subset of four-wheel driving focused on self-reliant travel to remote destinations. Where recreational off-roading is about the driving challenge itself, overlanding is about the journey — [camping](/camping), exploring, and traveling through landscapes inaccessible to normal vehicles.
 
-Overland vehicles are equipped for extended self-sufficiency: rooftop tents or campers, water storage and filtration, cooking setups, solar panels, and storage systems. Trips range from weekend excursions to multi-month transcontinental expeditions.
+Overland vehicles are equipped for extended self-sufficiency: rooftop tents or campers, water storage and filtration, [cooking](/cooking) setups, solar panels, and storage systems. Trips range from weekend excursions to multi-month transcontinental expeditions.
 
 The overlanding community has exploded since the 2010s, driven by social media inspiration and growing interest in outdoor recreation. Vehicle builds and trip reports shared on YouTube and Instagram have made overlanding one of the fastest-growing outdoor activities.
 

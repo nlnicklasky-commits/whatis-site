@@ -5,7 +5,7 @@ description: "New Testament studies is the academic examination of early Christi
 category: arts-amp-culture
 tags: ["new testament", "biblical studies", "christianity", "theology", "religious history", "bible"]
 heroImage: "/images/articles/new-testament-studies.webp"
-heroAlt: "Ancient Greek manuscript page showing text from an early New Testament document"
+heroAlt: "Editorial photograph representing the concept of new testament studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is New Proof Studies?
 
-New Proof studies is the academic field dedicated to examining the 27 books of the Christian New Proof — their origins, authorship, literary forms, historical context, theological content, and transmission through the centuries. It's a scholarly discipline that brings together history, linguistics, archaeology, and literary analysis to understand texts that have shaped two millennia of Western (and global) civilization.
+New Proof studies is the academic field dedicated to examining the 27 books of the Christian New Proof — their origins, authorship, literary forms, historical context, theological content, and transmission through the centuries. It's a scholarly discipline that brings together history, [linguistics](/linguistics), [archaeology](/archaeology), and literary analysis to understand texts that have shaped two millennia of Western (and global) civilization.
 
 ## What Scholars Actually Do
 
@@ -43,23 +43,23 @@ The field divides into several overlapping areas:
 
 **Textual criticism** examines the thousands of surviving manuscripts to reconstruct what the original texts most likely said. No original New Proof manuscripts survive. The earliest fragments date to the early 2nd century, and complete manuscripts appear in the 4th century. Textual critics compare variations across manuscripts to identify copying errors, deliberate changes, and the most reliable readings.
 
-**Historical criticism** places the texts in their 1st-century context — the Roman Empire, Jewish religious practice, Hellenistic philosophy, and the social conditions of the Mediterranean world. Understanding that Paul was writing to specific communities facing specific problems changes how you read his letters.
+**Historical criticism** places the texts in their 1st-century context — the Roman Empire, Jewish religious practice, Hellenistic [philosophy](/philosophy), and the social conditions of the Mediterranean world. Understanding that Paul was [writing](/writing) to specific communities facing specific problems changes how you read his letters.
 
 **Source criticism** asks where the writers got their material. The Synoptic Problem — the question of the literary relationship between Matthew, Mark, and Luke — has occupied scholars for centuries. The dominant theory holds that Mark was written first and that Matthew and Luke both used Mark plus another lost source scholars call "Q."
 
-**Literary criticism** analyzes the texts as literature — their genres, narrative techniques, rhetorical strategies, and theological themes. The Gospel of John, for instance, is structured very differently from Mark, and understanding why illuminates what each author was trying to accomplish.
+**[Literary criticism](/literary-criticism)** analyzes the texts as [literature](/literature) — their genres, narrative techniques, rhetorical strategies, and theological themes. The Gospel of John, for instance, is structured very differently from Mark, and understanding why illuminates what each author was trying to accomplish.
 
 ## The Gospels Under the Microscope
 
 The four Gospels — Matthew, Mark, Luke, and John — get the most attention because they contain the accounts of Jesus' life and teachings.
 
-Mark, generally considered the earliest (written around 65-70 CE), is short, urgent, and focused on action. Jesus is constantly moving, healing, and teaching, with Mark frequently using the word "immediately." The ending is abrupt — in the earliest manuscripts, the Gospel ends with women fleeing an empty tomb in fear.
+Mark, generally considered the earliest (written around 65-70 CE), is short, urgent, and focused on action. Jesus is constantly moving, healing, and [teaching](/teaching), with Mark frequently using the word "immediately." The ending is abrupt — in the earliest manuscripts, the Gospel ends with women fleeing an empty tomb in fear.
 
-Matthew (around 80-90 CE) presents Jesus as a Jewish teacher and fulfillment of Hebrew Bible prophecy. It's organized around five major teaching blocks, possibly echoing the five books of Moses.
+Matthew (around 80-90 CE) presents Jesus as a Jewish teacher and fulfillment of Hebrew Bible [prophecy](/prophecy). It's organized around five major teaching blocks, possibly echoing the five books of Moses.
 
 Luke (also 80-90 CE) emphasizes Jesus' concern for the poor, women, and outsiders. It's the most literary of the Gospels and was written as part of a two-volume work — Luke-Acts — that traces the movement from Jesus' birth to Paul's arrival in Rome.
 
-John (90-100 CE) is dramatically different. It opens with a philosophical prologue ("In the beginning was the Word"), features long theological discourses rather than short parables, and presents events in a different order than the other three Gospels. Scholars debate how much historical information John preserves versus theological interpretation.
+John (90-100 CE) is dramatically different. It opens with a philosophical prologue ("In the beginning was the Word"), features long theological discourses rather than short parables, and presents events in a different order than the other three Gospels. Scholars [debate](/debate) how much historical information John preserves versus theological interpretation.
 
 ## Paul's Letters — The Earliest Christian Documents
 

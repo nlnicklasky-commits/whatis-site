@@ -5,7 +5,7 @@ description: "Textile history traces fabric production from ancient hand-spinnin
 category: history
 tags: ["textile history", "fabric", "weaving", "industrial revolution", "silk road"]
 heroImage: "/images/articles/textile-history.webp"
-heroAlt: "Ancient wooden loom with colorful woven fabric in a traditional workshop"
+heroAlt: "Editorial photograph representing the concept of textile history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Textile History?
 
-Textile history is the story of how humans learned to turn raw fibers — plant, animal, and eventually synthetic — into fabric. It's one of the oldest and most consequential technologies we've ever developed, right up there with fire and agriculture. And it's wildly underappreciated.
+Textile history is the story of how humans learned to turn raw fibers — plant, animal, and eventually synthetic — into fabric. It's one of the oldest and most consequential technologies we've ever developed, right up there with fire and [agriculture](/agriculture). And it's wildly underappreciated.
 
 Here's a way to think about it: before textiles, your options for covering your body were animal skins and leaves. After textiles, you had clothing, blankets, sails, tents, bandages, bags, ropes, and tapestries. Civilization as we know it is hard to imagine without fabric.
 
@@ -43,13 +43,13 @@ The earliest evidence of textile work dates back at least 36,000 years. Archaeol
 
 Bone needles appear in the archaeological record around 40,000 years ago. Spindle whorls — small weights used to spin fibers into thread — show up by about 8000 BCE. These aren't exciting artifacts by museum standards, but they represent something profound: humans had figured out that twisting short, weak fibers together could produce long, strong thread. That insight is the foundation of everything that followed.
 
-The basic process is simple in concept, brutal in execution. Take raw fiber — cotton, flax, wool, whatever's available. Clean it, comb it to align the fibers, then twist (spin) it into thread. Take two or more threads and weave them together on a loom — one set running lengthwise (the warp) and another crossing over and under them (the weft). Out comes fabric.
+The basic process is simple in concept, brutal in execution. Take raw fiber — cotton, flax, wool, whatever's available. Clean it, comb it to align the fibers, then twist (spin) it into thread. Take two or more threads and weave them together on a loom — one set [running](/running) lengthwise (the warp) and another crossing over and under them (the weft). Out comes fabric.
 
 For most of human history, every step of this process was done by hand. Spinning alone was extraordinarily time-consuming. Historians estimate that producing enough thread for a single shirt required 40 to 60 hours of hand-spinning. It's no coincidence that the word "spinster" — meaning an unmarried woman — comes from spinning; it was one of the few paying occupations available to unmarried women in medieval England.
 
 ## The Four Ancient Fibers
 
-Four natural fibers dominated textile production for thousands of years, each tied to a specific geography and culture.
+Four natural fibers dominated textile production for thousands of years, each tied to a specific [geography](/geography) and culture.
 
 ### Linen (Flax)
 
@@ -71,7 +71,7 @@ Cotton is comfortable, breathable, and takes dye well. Its weakness is that it a
 
 ### Silk
 
-Silk production (sericulture) began in China around 3500 BCE, though legend places it earlier. The process involves cultivating silkworms (actually caterpillars of the moth *Bombyx mori*), feeding them mulberry leaves, and harvesting their cocoons. Each cocoon consists of a single continuous filament up to 900 meters long. Workers unwind these filaments and twist several together to form silk thread.
+Silk production ([sericulture](/sericulture)) began in China around 3500 BCE, though legend places it earlier. The process involves cultivating silkworms (actually caterpillars of the moth *Bombyx mori*), feeding them mulberry leaves, and harvesting their cocoons. Each cocoon consists of a single continuous filament up to 900 meters long. Workers unwind these filaments and twist several together to form silk thread.
 
 China guarded the secret of silk production for roughly 3,000 years. Smuggling silkworm eggs out of China was reportedly punishable by death. The fabric was so valuable that it functioned as currency — Chinese civil servants were sometimes paid in silk.
 
@@ -83,7 +83,7 @@ For about 10,000 years, textile production improved incrementally. Then, in the 
 
 ### The Key Inventions
 
-**The flying shuttle (1733).** John Kay's device allowed a single weaver to operate a wide loom that previously required two people. It doubled weaving speed, which created a bottleneck — spinners couldn't produce thread fast enough to keep the weavers supplied.
+**The flying shuttle (1733).** John Kay's device allowed a single weaver to operate a wide loom that previously required two people. It doubled [weaving](/weaving) speed, which created a bottleneck — spinners couldn't produce thread fast enough to keep the weavers supplied.
 
 **The spinning jenny (c. 1764).** James Hargreaves's multi-spindle machine let one worker spin eight threads simultaneously. Later versions handled 120 spindles.
 
@@ -97,15 +97,15 @@ For about 10,000 years, textile production improved incrementally. Then, in the 
 
 The Industrial Revolution's textile factories were grim places. Workers — including children as young as 5 — labored 12 to 16 hours per day in loud, dusty, dangerous conditions. Cotton dust caused "brown lung" disease. Unguarded machinery mangled fingers and limbs. Wages were low enough that entire families had to work to survive.
 
-Resistance was fierce. The Luddites — English textile workers who smashed machinery between 1811 and 1816 — weren't anti-technology primitives (despite how the term is used today). They were skilled craftspeople whose livelihoods were being destroyed by machines that could be operated by cheaper, unskilled labor. The British government deployed more troops to suppress the Luddites than it had sent to fight Napoleon in the Peninsular War.
+Resistance was fierce. The Luddites — English textile workers who smashed machinery between 1811 and 1816 — weren't anti-technology primitives (despite how the term is used today). They were skilled craftspeople whose livelihoods were being destroyed by machines that could be operated by cheaper, unskilled labor. The British [government](/government) deployed more troops to suppress the Luddites than it had sent to fight Napoleon in the Peninsular War.
 
 ## The Synthetic Revolution
 
 The 20th century brought an entirely new category of textile fibers — synthetics made from chemicals rather than plants or animals.
 
-**Rayon (1910s).** The first semi-synthetic fiber, made from chemically processed wood pulp. Not fully synthetic — it starts with a natural material — but the manufacturing process is industrial chemistry.
+**Rayon (1910s).** The first semi-synthetic fiber, made from chemically processed wood pulp. Not fully synthetic — it starts with a natural material — but the manufacturing process is industrial [chemistry](/chemistry).
 
-**Nylon (1935).** Wallace Carothers at DuPont created the first true synthetic fiber. Nylon stockings went on sale in 1940 and sold 64 million pairs in the first year. During World War II, nylon was diverted to military use (parachutes, tire cords), and the post-war return of nylon stockings to stores caused near-riots.
+**Nylon (1935).** Wallace Carothers at DuPont created the first true synthetic fiber. Nylon stockings went on sale in 1940 and sold 64 million pairs in the first year. During [World War II](/world-war-ii), nylon was diverted to military use (parachutes, tire cords), and the post-war return of nylon stockings to stores caused near-riots.
 
 **Polyester (1941/1951).** Developed by British chemists John Whinfield and James Dickson, commercialized by DuPont as Dacron. Polyester is cheap, durable, wrinkle-resistant, and easy to care for. It dominated fashion in the 1970s (often hideously), fell out of favor, and has since returned as the world's most-produced fiber. About 52% of all fiber produced globally is polyester.
 
@@ -117,7 +117,7 @@ The global textile and apparel industry is worth roughly $1.7 trillion and emplo
 
 This globalization has made clothing astonishingly cheap by historical standards. In 1900, the average American household spent about 14% of its income on clothing. By 2023, that figure had dropped to about 3%. A basic cotton t-shirt that cost the equivalent of several hours' wages a century ago can now be bought for less than the price of a cup of coffee.
 
-The flip side: environmental damage. The fashion industry produces roughly 10% of global carbon emissions — more than international aviation and maritime shipping combined. It's the second-largest consumer of water worldwide. Synthetic textiles shed microplastics with every wash — an estimated 500,000 tons of microfibers enter the oceans annually, equivalent to 50 billion plastic bottles.
+The flip side: environmental damage. The fashion industry produces roughly 10% of global carbon emissions — more than international [aviation](/aviation) and maritime shipping combined. It's the second-largest consumer of water worldwide. Synthetic textiles shed microplastics with every wash — an estimated 500,000 tons of microfibers enter the oceans annually, equivalent to 50 billion plastic bottles.
 
 Fast fashion — the model pioneered by companies like Zara and H&M, producing new styles every few weeks at rock-bottom prices — has accelerated consumption dramatically. The average consumer now buys 60% more clothing than in 2000 and keeps each garment for half as long.
 

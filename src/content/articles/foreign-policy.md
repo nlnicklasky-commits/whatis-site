@@ -5,7 +5,7 @@ description: "Foreign policy is a government's strategy for dealing with other n
 category: politics
 tags: ["international relations", "diplomacy", "geopolitics", "national security", "trade", "international law"]
 heroImage: "/images/articles/foreign-policy.webp"
-heroAlt: "Diplomatic flags from multiple nations displayed at an international summit"
+heroAlt: "Editorial photograph representing the concept of foreign policy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Foreign Policy?
 
-Foreign policy is the set of strategies, decisions, and actions a government uses to manage its relationships with other countries and international organizations. It covers everything from trade agreements and diplomatic negotiations to military alliances and intelligence operations. Every nation has a foreign policy, whether it's a superpower projecting influence across the globe or a small country trying to maintain sovereignty and security against larger neighbors.
+Foreign policy is the set of strategies, decisions, and actions a [government](/government) uses to manage its relationships with other countries and international organizations. It covers everything from [trade](/trade) agreements and diplomatic negotiations to military alliances and intelligence operations. Every nation has a foreign policy, whether it's a superpower projecting influence across the globe or a small country trying to maintain sovereignty and security against larger neighbors.
 
 ## The Basic Goals
 
@@ -41,7 +41,7 @@ Despite enormous variation in specifics, most countries pursue similar foreign p
 
 **Economic prosperity** means securing access to markets, resources, and trade routes. Trade agreements, tariff negotiations, foreign investment policies, and economic sanctions are all foreign policy tools aimed at advancing economic interests.
 
-**Influence** — the ability to shape events and outcomes beyond your borders — is pursued through diplomacy, international organizations, cultural exchange, foreign aid, and sometimes coercion. Great powers compete for influence; smaller nations seek to maximize their voice within international systems.
+**Influence** — the ability to shape events and outcomes beyond your borders — is pursued through [diplomacy](/diplomacy), international organizations, cultural exchange, foreign aid, and sometimes coercion. Great powers compete for influence; smaller nations seek to maximize their voice within international systems.
 
 **Values promotion** varies by country. Some nations actively promote democracy, human rights, or religious principles abroad. Others prioritize sovereignty and non-interference. The tension between pursuing interests and promoting values is one of the permanent debates in foreign policy.
 
@@ -61,9 +61,9 @@ The **Intelligence Community** (CIA, NSA, and others) provides information and a
 
 ## Major Foreign Policy Approaches
 
-**Realism** argues that international relations are fundamentally about power. States act in their self-interest, and the international system is anarchic — no higher authority enforces rules. Realists prioritize national security and balance of power over moral considerations. Henry Kissinger is the most famous American realist practitioner.
+**Realism** argues that [international relations](/international-relations) are fundamentally about power. States act in their self-interest, and the international system is anarchic — no higher authority enforces rules. Realists prioritize national security and balance of power over moral considerations. Henry Kissinger is the most famous American realist practitioner.
 
-**Liberalism** (in international relations, not domestic politics) emphasizes cooperation, international institutions, trade interdependence, and democratic governance as paths to peace. Liberal internationalists support organizations like the UN, NATO, and the WTO. They argue that trade, diplomacy, and shared institutions reduce the likelihood of war.
+**[Liberalism](/liberalism)** (in international relations, not domestic [politics](/politics)) emphasizes cooperation, international institutions, trade interdependence, and democratic governance as paths to peace. Liberal internationalists support organizations like the UN, NATO, and the WTO. They argue that trade, diplomacy, and shared institutions reduce the likelihood of war.
 
 **Neoconservatism** combines elements of both — accepting the realist emphasis on power while arguing that American values (especially democracy) should be actively promoted, by force if necessary. This approach drove the Iraq War and broader post-9/11 Middle East policy.
 
@@ -75,7 +75,7 @@ The **Intelligence Community** (CIA, NSA, and others) provides information and a
 
 **Economic tools** include trade agreements (which create mutual benefit), economic sanctions (which impose costs), foreign aid (which builds relationships and sometimes creates dependencies), and investment policies. Sanctions against Russia following the 2022 Ukraine invasion demonstrated both the power and limitations of economic tools — significant economic damage without changing the underlying behavior.
 
-**Military force** is the most dramatic and most expensive tool. The threat of force (deterrence) is used far more often than actual force. But when deterrence fails, military options range from limited strikes to full-scale war. The U.S. has used military force abroad hundreds of times since World War II.
+**Military force** is the most dramatic and most expensive tool. The threat of force (deterrence) is used far more often than actual force. But when deterrence fails, military options range from limited strikes to full-scale war. The U.S. has used military force abroad hundreds of times since [World War II](/world-war-ii).
 
 **Soft power** — a concept developed by political scientist Joseph Nye — refers to influence through attraction rather than coercion. American movies, music, universities, and technology companies shape global perceptions of America as much as military bases do. Countries with strong soft power can achieve foreign policy objectives without spending money or deploying troops.
 
@@ -93,4 +93,4 @@ The early 21st century has produced a foreign policy field of unusual complexity
 
 Foreign policy might seem remote from daily life, but it isn't. Trade agreements affect what products are available and at what price. Military commitments affect who serves and where. Sanctions affect gas prices. Immigration policy shapes communities. The decisions made in Washington, Beijing, Brussels, and Moscow ripple through the global economy and ultimately reach your grocery store, gas station, and job market.
 
-Understanding foreign policy doesn't require a political science degree. It requires paying attention to how your country interacts with the rest of the world — and recognizing that those interactions affect you more than most people realize.
+Understanding foreign policy doesn't require a [political science](/political-science) degree. It requires paying attention to how your country interacts with the rest of the world — and recognizing that those interactions affect you more than most people realize.

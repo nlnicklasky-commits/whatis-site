@@ -5,7 +5,7 @@ description: "Fairy tales are short stories featuring magical elements, moral le
 category: arts-amp-culture
 tags: ["folklore", "mythology", "children's literature", "storytelling", "fantasy", "traditional stories"]
 heroImage: "/images/articles/fairy-tales.webp"
-heroAlt: "Open storybook with magical forest illustration and glowing light"
+heroAlt: "Editorial photograph representing the concept of fairy tales"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

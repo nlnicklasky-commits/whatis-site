@@ -5,7 +5,7 @@ description: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern T
 category: history
 tags: ["thai history", "thailand", "siam", "sukhothai", "southeast asia"]
 heroImage: "/images/articles/thai-history.webp"
-heroAlt: "Ancient Sukhothai temple ruins with a seated Buddha statue at sunset"
+heroAlt: "Editorial photograph representing the concept of thai history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ faq:
 
 Thai history is the story of how a collection of Tai-speaking peoples migrated southward from what is now southern China, established powerful kingdoms in mainland Southeast Asia, and built a nation that — remarkably — is the only country in the region never colonized by a European power. That last fact isn't a footnote. It defines how Thai people think about their history and their identity.
 
-The name "Thailand" itself is a statement. It means "Land of the Free." And while the freedom claim gets complicated when you look at the full record — military coups, authoritarian periods, contested democratic experiments — the basic fact remains: while Britain took Burma and Malaya, France took Indochina, and the Dutch took Indonesia, Siam kept its sovereignty through a combination of shrewd diplomacy, strategic concession, and sheer luck.
+The name "Thailand" itself is a statement. It means "Land of the Free." And while the freedom claim gets complicated when you look at the full record — military coups, authoritarian periods, contested democratic experiments — the basic fact remains: while Britain took Burma and Malaya, France took Indochina, and the Dutch took Indonesia, Siam kept its sovereignty through a combination of shrewd [diplomacy](/diplomacy), strategic concession, and sheer luck.
 
 ## Before the Kingdoms: Early Peoples and Migration
 
-The territory that is now Thailand has been inhabited for at least 40,000 years. Ban Chiang, an archaeological site in northeastern Thailand, contains evidence of bronze metallurgy dating to roughly 3600 BCE — among the earliest in the world, which challenged the long-held assumption that metalworking spread exclusively from the Middle East.
+The territory that is now Thailand has been inhabited for at least 40,000 years. Ban Chiang, an archaeological site in northeastern Thailand, contains evidence of bronze metallurgy dating to roughly 3600 BCE — among the earliest in the world, which challenged the long-held assumption that [metalworking](/metalworking) spread exclusively from the Middle East.
 
 The Tai peoples who would eventually found the major Thai kingdoms originated in what is now southern China, in the Guangxi and Yunnan regions. Their southward migration accelerated during the 11th and 12th centuries, driven partly by pressure from the expanding Mongol Empire and the Song Dynasty's push into southern Chinese territories.
 
@@ -47,13 +47,13 @@ Before the Tai arrivals, the region was dominated by the Khmer Empire (centered 
 
 ## Sukhothai: The "First Thai Kingdom" (1238-1438)
 
-Traditional Thai historiography treats Sukhothai as the birthplace of the Thai nation, though modern historians note this is partly a 19th-century nationalist construction. Still, Sukhothai matters.
+Traditional Thai historiography treats Sukhothai as the birthplace of the Thai nation, though modern historians note this is partly a 19th-century nationalist [construction](/construction). Still, Sukhothai matters.
 
 According to tradition, two Tai chieftains — Pho Khun Bang Klang Hao and Pho Khun Pha Muang — overthrew their Khmer overlord around 1238 and established an independent kingdom centered on the city of Sukhothai in the upper Chao Phraya River valley.
 
-The kingdom's most celebrated ruler was Ram Khamhaeng (reigned c. 1279-1298). A stone inscription attributed to him — though its authenticity has been debated for decades — describes a prosperous, paternalistic kingdom: "In the water there are fish, in the fields there is rice... whoever wants to trade, trades." The inscription also credits Ram Khamhaeng with creating the Thai script, adapted from Khmer and ultimately derived from Indian writing systems.
+The kingdom's most celebrated ruler was Ram Khamhaeng (reigned c. 1279-1298). A stone inscription attributed to him — though its authenticity has been debated for decades — describes a prosperous, paternalistic kingdom: "In the water there are fish, in the fields there is rice... whoever wants to [trade](/trade), trades." The inscription also credits Ram Khamhaeng with creating the Thai script, adapted from Khmer and ultimately derived from Indian [writing](/writing) systems.
 
-Theravada Buddhism became the state religion under Sukhothai, a distinction that has persisted to the present day. Roughly 95% of Thailand's population is Buddhist, and the religion is woven into virtually every aspect of Thai culture, from the wai greeting to the months-long ordination that many Thai men undergo.
+Theravada [Buddhism](/buddhism) became the state [religion](/religion) under Sukhothai, a distinction that has persisted to the present day. Roughly 95% of Thailand's population is Buddhist, and the religion is woven into virtually every aspect of Thai culture, from the wai greeting to the months-long ordination that many Thai men undergo.
 
 Sukhothai's power faded by the late 14th century as a newer, more aggressive kingdom rose to the south.
 
@@ -105,15 +105,15 @@ The strategy worked — but it cost territory. Siam ceded what is now Laos and p
 
 On June 24, 1932, a group of military officers and civilian intellectuals called the Khana Ratsadon (People's Party) staged a bloodless coup that ended the absolute monarchy. Thailand became a constitutional monarchy, but the transition to stable democracy has been anything but smooth.
 
-Since 1932, Thailand has experienced 13 successful military coups — more than any other country in the world. The pattern is remarkably consistent: elected government, political crisis, military intervention, new constitution, elections, repeat. The most recent coups occurred in 2006 and 2014.
+Since 1932, Thailand has experienced 13 successful military coups — more than any other country in the world. The pattern is remarkably consistent: elected [government](/government), political crisis, military intervention, new constitution, elections, repeat. The most recent coups occurred in 2006 and 2014.
 
 The political instability masks genuine economic and social progress. Thailand's GDP per capita rose from about $100 in 1960 to over $7,000 by 2023. Life expectancy increased from 53 years to 78 years over the same period. Literacy went from 68% to over 93%. Bangkok transformed from a river city of canals into a sprawling metropolis of 10 million people.
 
-Thailand's role in the Cold War shaped its modern trajectory significantly. The country allied firmly with the United States, hosting American air bases during the Vietnam War and receiving substantial military and economic aid. This alignment accelerated economic development but also reinforced military power within Thai politics.
+Thailand's role in the Cold War shaped its modern trajectory significantly. The country allied firmly with the United States, hosting American air bases during the Vietnam War and receiving substantial military and economic aid. This alignment accelerated economic development but also reinforced military power within Thai [politics](/politics).
 
 ## Thailand Today
 
-Modern Thailand is a country of contrasts — a constitutional monarchy where the military retains enormous political influence, a Buddhist society with a booming consumer culture, a tourism powerhouse (nearly 40 million visitors in 2019, pre-pandemic) with persistent rural poverty.
+Modern Thailand is a country of contrasts — a constitutional monarchy where the military retains enormous political influence, a Buddhist society with a booming consumer culture, a [tourism](/tourism) powerhouse (nearly 40 million visitors in 2019, pre-pandemic) with persistent rural poverty.
 
 The monarchy remains central to Thai identity but increasingly contested among younger generations. The 2020-2021 pro-democracy protests, led largely by students, broke long-standing taboos by openly questioning the monarchy's role and calling for reform of the lese-majeste laws.
 

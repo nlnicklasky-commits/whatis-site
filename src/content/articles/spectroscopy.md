@@ -5,7 +5,7 @@ description: "Spectroscopy studies how matter interacts with light to identify c
 category: everyday-concepts
 tags: ["spectroscopy", "chemistry", "light", "electromagnetic spectrum", "analytical chemistry", "physics"]
 heroImage: "/images/articles/spectroscopy.webp"
-heroAlt: "A prism splitting white light into a rainbow spectrum in a dark laboratory setting"
+heroAlt: "Editorial photograph representing the concept of spectroscopy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,13 +47,13 @@ Hydrogen absorbs light at 656.3 nanometers (red), 486.1 nm (blue-green), 434.0 n
 
 The field has branched into dozens of specialized techniques. Here are the ones that matter most.
 
-**UV-Visible spectroscopy** measures how a sample absorbs ultraviolet and visible light. It's fast, cheap, and widely used for quantitative analysis — measuring how much of a substance is present. Beer's Law relates absorption to concentration, so if you know a solution absorbs a certain amount of light at a specific wavelength, you can calculate exactly how concentrated it is. This is how most routine blood tests work.
+**UV-Visible spectroscopy** measures how a sample absorbs ultraviolet and visible light. It's fast, cheap, and widely used for [quantitative analysis](/quantitative-analysis) — measuring how much of a substance is present. Beer's Law relates absorption to concentration, so if you know a solution absorbs a certain amount of light at a specific wavelength, you can calculate exactly how concentrated it is. This is how most routine blood tests work.
 
 **Infrared (IR) spectroscopy** measures absorption in the infrared region, which reveals molecular bonds rather than individual atoms. Different chemical bonds (C-H, O-H, C=O, N-H) absorb IR light at characteristic frequencies. An IR spectrum essentially tells you what functional groups a molecule contains. Organic chemists use it constantly for identification and structure confirmation.
 
-**Nuclear Magnetic Resonance (NMR) spectroscopy** places a sample in a strong magnetic field and measures how atomic nuclei respond to radio waves. It reveals detailed three-dimensional molecular structure — not just what atoms are present, but how they're connected and arranged in space. MRI machines in hospitals use the same physics, just applied to imaging the human body rather than analyzing molecules.
+**Nuclear Magnetic Resonance (NMR) spectroscopy** places a sample in a strong magnetic field and measures how atomic nuclei respond to radio waves. It reveals detailed three-dimensional molecular structure — not just what atoms are present, but how they're connected and arranged in space. MRI machines in hospitals use the same [physics](/physics), just applied to imaging the human body rather than analyzing molecules.
 
-**Mass spectrometry** — technically not spectroscopy in the traditional sense, but always grouped with spectroscopic techniques — measures the mass-to-charge ratio of ions. It can determine molecular weight with extreme precision and identify unknown compounds by their fragmentation patterns. It's the gold standard for forensic toxicology, drug testing, and environmental analysis.
+**Mass spectrometry** — technically not spectroscopy in the traditional sense, but always grouped with spectroscopic techniques — measures the mass-to-charge ratio of ions. It can determine molecular weight with extreme precision and identify unknown compounds by their fragmentation patterns. It's the gold standard for forensic [toxicology](/toxicology), drug testing, and environmental analysis.
 
 **Raman spectroscopy** measures light scattered by a sample rather than absorbed. It provides complementary information to IR spectroscopy and has a major practical advantage: it works through glass and water, making it useful for analyzing sealed containers, biological tissues, and aqueous solutions.
 
@@ -61,9 +61,9 @@ The field has branched into dozens of specialized techniques. Here are the ones 
 
 You encounter spectroscopy's results daily, even if you never see a spectrometer.
 
-**Astronomy** depends on spectroscopy almost entirely. We know the Sun is 73% hydrogen and 25% helium because of its spectrum. We know distant galaxies are moving away from us (and how fast) because their spectral lines are redshifted — shifted toward longer wavelengths by the Doppler effect. Edwin Hubble's discovery that the universe is expanding came directly from spectroscopic measurements.
+**[Astronomy](/astronomy)** depends on spectroscopy almost entirely. We know the Sun is 73% hydrogen and 25% helium because of its spectrum. We know distant galaxies are moving away from us (and how fast) because their spectral lines are redshifted — shifted toward longer wavelengths by the Doppler effect. Edwin Hubble's discovery that the universe is expanding came directly from spectroscopic measurements.
 
-**Medical diagnostics** use spectroscopy extensively. Blood chemistry panels use UV-Vis spectroscopy. Pulse oximeters — those clips on your fingertip — use near-infrared spectroscopy to measure blood oxygen levels. MRI scans use NMR principles. Breath analysis spectroscopy can detect diseases by identifying trace gases.
+**Medical diagnostics** use spectroscopy extensively. Blood [chemistry](/chemistry) panels use UV-Vis spectroscopy. Pulse oximeters — those clips on your fingertip — use near-infrared spectroscopy to measure blood oxygen levels. MRI scans use NMR principles. Breath analysis spectroscopy can detect diseases by identifying trace gases.
 
 **Food safety** relies on spectroscopic testing. Near-infrared spectroscopy checks protein, fat, and moisture content in food products. Raman spectroscopy can detect adulteration — olive oil diluted with cheaper oils, for example. Atomic absorption spectroscopy measures heavy metal contamination.
 

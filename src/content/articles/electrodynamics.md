@@ -5,7 +5,7 @@ description: "Electrodynamics studies how electric and magnetic fields interact 
 category: science
 tags: ["electrodynamics", "physics", "electromagnetism", "maxwell's equations", "electric fields", "magnetic fields", "electromagnetic waves"]
 heroImage: "/images/articles/electrodynamics-hero.webp"
-heroAlt: "Visualization of electromagnetic field lines radiating from a charged particle"
+heroAlt: "Editorial photograph representing the concept of electrodynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Electrodynamics?
 
-Electrodynamics is the branch of physics that studies the interactions between electric charges, electric fields, magnetic fields, and electromagnetic radiation — particularly when those charges are moving and those fields are changing over time. It is described mathematically by Maxwell's equations, which together form one of the most successful and elegant theories in the history of science.
+Electrodynamics is the branch of physics that studies the interactions between electric charges, electric fields, magnetic fields, and electromagnetic radiation — particularly when those charges are moving and those fields are changing over time. It is described mathematically by Maxwell's equations, which together form one of the most successful and elegant theories in [the history of science](/the-history-of-science).
 
 ## Why "Dynamics" Matters
 
@@ -75,7 +75,7 @@ He was right. Light is an electromagnetic wave. And Maxwell's equations describe
 
 ## Maxwell's Equations: The Fab Four
 
-Maxwell's equations can be written in several forms. The differential form using vector calculus is most common in physics. Here's what each equation says, stripped of the math:
+Maxwell's equations can be written in several forms. The differential form using [vector calculus](/vector-calculus) is most common in physics. Here's what each equation says, stripped of the math:
 
 ### Gauss's Law for Electricity
 
@@ -93,7 +93,7 @@ This is why breaking a magnet in half gives you two complete magnets, each with 
 
 A changing magnetic field creates a circulating electric field. The faster the magnetic field changes, the stronger the induced electric field. This is the principle behind electric generators, transformers, and wireless charging pads.
 
-The direction of the induced field opposes the change that created it (Lenz's law). This opposition is a consequence of energy conservation — if the induced current reinforced the change, you'd get runaway energy creation from nothing, violating thermodynamics.
+The direction of the induced field opposes the change that created it (Lenz's law). This opposition is a consequence of energy conservation — if the induced current reinforced the change, you'd get runaway energy creation from nothing, violating [thermodynamics](/thermodynamics).
 
 ### Ampere-Maxwell Law
 
@@ -116,7 +116,7 @@ All electromagnetic waves share the same fundamental nature — they differ only
 - **Infrared**: ~300 GHz to 430 THz (heat, remote controls, thermal imaging)
 - **Visible light**: ~430 THz to 770 THz (the narrow band your eyes detect)
 - **Ultraviolet**: ~770 THz to 30 PHz (sunburn, sterilization)
-- **X-rays**: ~30 PHz to 30 EHz (medical imaging, crystallography)
+- **X-rays**: ~30 PHz to 30 EHz ([medical imaging](/medical-imaging), [crystallography](/crystallography))
 - **Gamma rays**: >30 EHz (nuclear reactions, cancer treatment)
 
 The visible spectrum — all the colors you can see — occupies less than a single octave of this enormous range. We're essentially blind to most of the electromagnetic universe. The development of instruments that detect non-visible electromagnetic radiation — radio telescopes, infrared cameras, X-ray machines — has expanded our perception enormously.
@@ -149,11 +149,11 @@ This perpendicular magnetic force is why charged particles spiral in magnetic fi
 
 Instead of working directly with electric and magnetic fields (E and B), physicists often use electromagnetic potentials — the scalar potential (phi) and the vector potential (A). The fields can be derived from the potentials through differentiation.
 
-Why bother? Because the potentials simplify the math in many situations and reveal deeper structure. In [classical mechanics](/classical-mechanics), forces are fundamental. In electrodynamics, potentials are arguably more fundamental — a claim strengthened by quantum mechanics, where the Aharonov-Bohm effect demonstrates that potentials can affect particles even in regions where E and B are zero.
+Why bother? Because the potentials simplify the math in many situations and reveal deeper structure. In [classical mechanics](/classical-mechanics), forces are fundamental. In electrodynamics, potentials are arguably more fundamental — a claim strengthened by [quantum mechanics](/quantum-mechanics), where the Aharonov-Bohm effect demonstrates that potentials can affect particles even in regions where E and B are zero.
 
 ### Gauge Freedom
 
-The potentials aren't unique — multiple potential functions can give the same physical fields. This freedom is called gauge invariance, and it's not a flaw but a profound feature. Gauge invariance turns out to be the organizing principle of modern particle physics. The electromagnetic gauge symmetry (U(1) symmetry) is the prototype for the gauge symmetries underlying the weak and strong nuclear forces.
+The potentials aren't unique — multiple potential functions can give the same physical fields. This freedom is called gauge invariance, and it's not a flaw but a profound feature. Gauge invariance turns out to be the organizing principle of modern [particle physics](/particle-physics). The electromagnetic gauge symmetry (U(1) symmetry) is the prototype for the gauge symmetries underlying the weak and strong nuclear forces.
 
 What started as a mathematical convenience in electrodynamics became the foundational structure of the Standard Model of particle physics. That's a stunning intellectual journey.
 
@@ -180,7 +180,7 @@ Einstein took this prediction seriously and followed it to its logical conclusio
 
 The relationship goes deeper. What one observer sees as a pure electric field, another observer moving relative to the first may see as a combination of electric and magnetic fields. Electricity and magnetism are not separate forces — they're different aspects of a single electromagnetic force, with the mix depending on the observer's reference frame. Special relativity is the framework that makes this transformation mathematically consistent.
 
-## Classical vs. Quantum Electrodynamics
+## Classical vs. [Quantum Electrodynamics](/quantum-electrodynamics)
 
 Classical electrodynamics — Maxwell's equations and the Lorentz force — works magnificently for most practical purposes. Radio engineering, power systems, antenna design, electromagnetic compatibility — all use classical theory with complete confidence.
 

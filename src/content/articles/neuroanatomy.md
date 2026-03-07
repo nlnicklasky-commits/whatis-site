@@ -5,7 +5,7 @@ description: "Neuroanatomy studies the structure of the nervous system, from bra
 category: science
 tags: ["neuroanatomy", "nervous system", "brain", "spinal cord", "neurons", "anatomy", "neuroscience"]
 heroImage: "/images/articles/neuroanatomy-hero.webp"
-heroAlt: "Detailed illustration of brain anatomy showing labeled regions and neural pathways"
+heroAlt: "Editorial photograph representing the concept of neuroanatomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Neuroanatomy?
 
-Neuroanatomy is the branch of anatomy devoted to studying the structure of the nervous system. It maps the brain, spinal cord, nerves, and the billions of individual cells that make up the most complex organ in the human body.
+Neuroanatomy is the branch of [anatomy](/anatomy) devoted to studying the structure of the nervous system. It maps the brain, spinal cord, nerves, and the billions of individual cells that make up the most complex organ in the human body.
 
 ## Three Pounds That Run Everything
 
@@ -51,11 +51,11 @@ Humans have been poking around inside skulls for a very long time. Ancient Egypt
 
 But neuroanatomy as a real science began with **Andreas Vesalius** in 1543, whose detailed anatomical drawings of the brain were the first accurate illustrations published. Before Vesalius, most anatomy was based on Galen's observations of animal brains, which led to some embarrassing errors about human brain structure.
 
-**Thomas Willis** published *Cerebri Anatome* in 1664 — essentially the first neuroscience textbook — with gorgeous illustrations by Christopher Wren (yes, the architect). Willis coined the term "neurology" and provided the first accurate description of the brain's blood supply, the Circle of Willis, which still bears his name.
+**Thomas Willis** published *Cerebri Anatome* in 1664 — essentially the first neuroscience textbook — with gorgeous illustrations by Christopher Wren (yes, the architect). Willis coined the term "[neurology](/neurology)" and provided the first accurate description of the brain's blood supply, the Circle of Willis, which still bears his name.
 
 The real revolution came with **Santiago Ramon y Cajal** in the late 1800s. Using a staining technique developed by Camillo Golgi, Cajal painstakingly drew individual neurons under the microscope. His drawings — thousands of them — proved that the nervous system is composed of discrete cells (neurons) rather than a continuous web. This "neuron doctrine" earned Cajal and Golgi the Nobel Prize in 1906, even though they disagreed about the finding it supported.
 
-Modern neuroanatomy uses MRI, diffusion tensor imaging, electron microscopy, and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
+Modern neuroanatomy uses MRI, diffusion tensor imaging, [electron microscopy](/electron-[microscopy](/microscopy)), and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
 
 ## Gross Anatomy: The Big Structures
 
@@ -65,7 +65,7 @@ Let's start with what you'd see if you held a human brain in your hands. (Neuros
 
 The largest part of the brain — about 85% of total brain weight. It's the wrinkled, walnut-like structure most people picture when they think "brain." The surface wrinkles exist for a practical reason: folding dramatically increases surface area. If you smoothed out a human cerebral cortex, it would cover roughly 2,500 square centimeters — about the size of a large pillowcase.
 
-The cerebrum divides into two hemispheres, connected by the **corpus callosum**, a thick bundle of approximately 200 million nerve fibers. The left hemisphere generally handles language, logical reasoning, and the right side of the body. The right hemisphere specializes in spatial awareness, face recognition, and the left side of the body. But — and this matters — the "left brain/right brain" pop psychology distinction is wildly oversimplified. Both hemispheres are involved in nearly everything; the specializations are relative, not absolute.
+The cerebrum divides into two hemispheres, connected by the **corpus callosum**, a thick bundle of approximately 200 million nerve fibers. The left hemisphere generally handles language, logical reasoning, and the right side of the body. The right hemisphere specializes in spatial awareness, face recognition, and the left side of the body. But — and this matters — the "left brain/right brain" pop [psychology](/psychology) distinction is wildly oversimplified. Both hemispheres are involved in nearly everything; the specializations are relative, not absolute.
 
 Each hemisphere divides into four lobes:
 

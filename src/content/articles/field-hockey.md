@@ -5,7 +5,7 @@ description: "Field hockey is a team sport where players use curved sticks to hi
 category: sports
 tags: ["hockey", "team sport", "stick sport", "olympics", "athletics", "field games"]
 heroImage: "/images/articles/field-hockey.webp"
-heroAlt: "Field hockey players battling for the ball on a green turf pitch"
+heroAlt: "Editorial photograph representing the concept of field hockey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "India and Pakistan have the richest field hockey traditions — India won 8 Olympic golds between 1928 and 1980. The Netherlands, Australia, Argentina, Germany, and Belgium are current powerhouses. The sport has over 3 million registered players worldwide and is especially popular in South Asia, Europe, and Oceania."
 ---
 
-# What Is Field Hockey?
+# What Is Field [Hockey](/hockey)?
 
-Field hockey is a team sport in which two sides of 11 players use curved sticks to maneuver a hard ball across a pitch and into the opposing team's goal. It's one of the oldest stick-and-ball games in existence — depictions of people hitting balls with curved sticks appear in Egyptian tombs from 4,000 years ago. Today, field hockey is played in over 100 countries and is a major Olympic sport, though it's often overshadowed by its flashier cousin, ice hockey, particularly in North America.
+Field hockey is a team sport in which two sides of 11 players use curved sticks to maneuver a hard ball across a pitch and into the opposing team's goal. It's one of the oldest stick-and-ball games in existence — depictions of people hitting balls with curved sticks appear in Egyptian tombs from 4,000 years ago. Today, field hockey is played in over 100 countries and is a major Olympic sport, though it's often overshadowed by its flashier cousin, [ice hockey](/ice-hockey), particularly in North America.
 
 ## The Basics
 
@@ -53,15 +53,15 @@ Goals can only be scored from inside the shooting circle — a semicircular area
 
 Modern field hockey barely resembles the game played 50 years ago. The shift to synthetic turf in the 1970s was the single biggest change. On grass, the ball bobbled and bounced unpredictably. On synthetic turf (often watered before games to reduce friction), the ball rolls smoothly and quickly. This transformed field hockey from a physical, hit-and-chase game into a fast, skill-based sport emphasizing close ball control, quick passing, and aerial skills.
 
-The introduction of video referrals in 2009 addressed controversial officiating decisions. Each team gets one referral per match to challenge umpire decisions, similar to tennis's Hawk-Eye challenges.
+The introduction of video referrals in 2009 addressed controversial officiating decisions. Each team gets one referral per match to challenge umpire decisions, similar to [tennis](/tennis)'s Hawk-Eye challenges.
 
 Rule changes have also accelerated the game. The offside rule was abolished in 1996, opening up the entire pitch. The self-pass rule (allowing the player awarded a free hit to play the ball immediately without passing) was introduced in 2009, eliminating stoppages and keeping play flowing.
 
 ## Key Skills
 
-**Dribbling** in field hockey requires constant manipulation of the stick and ball while running at speed. The "Indian dribble" — rapidly moving the ball from the flat side to the reverse side of the stick in a zig-zag pattern — was developed by Indian players and remains one of the sport's most distinctive skills.
+**Dribbling** in field hockey requires constant manipulation of the stick and ball while [running](/running) at speed. The "Indian dribble" — rapidly moving the ball from the flat side to the reverse side of the stick in a zig-zag pattern — was developed by Indian players and remains one of the sport's most distinctive skills.
 
-**Passing** ranges from simple pushes along the ground to aeriel balls (overhead passes) that sail over defenders. The push pass — where the stick stays in contact with the ball throughout the stroke — is the most accurate passing technique. Hit passes (like a golf swing) generate more power but less control.
+**Passing** ranges from simple pushes along the ground to aeriel balls (overhead passes) that sail over defenders. The push pass — where the stick stays in contact with the ball throughout the stroke — is the most accurate passing technique. Hit passes (like a [golf](/golf) swing) generate more power but less control.
 
 **Drag flicking** is a specialized skill used primarily on penalty corners. The player drags the ball forward with the stick hooked underneath it, then flicks it at the goal with extraordinary speed and accuracy. Top drag flickers generate ball speeds exceeding 90 mph from 15 meters — giving goalkeepers less than half a second to react.
 

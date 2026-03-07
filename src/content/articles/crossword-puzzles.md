@@ -5,7 +5,7 @@ description: "Crossword puzzles are word games where clues lead to interlocking 
 category: everyday-concepts
 tags: ["crossword puzzles", "puzzles", "word games", "brain teasers", "mental exercise", "logic"]
 heroImage: "/images/articles/crossword-puzzles.webp"
-heroAlt: "A partially completed crossword puzzle with a pen resting on the newspaper page"
+heroAlt: "Editorial photograph representing the concept of crossword puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Crossword Puzzles?
 
-A crossword puzzle is a word game consisting of a grid of white and black squares, where solvers fill in words based on numbered clues. Answers interlock horizontally (Across) and vertically (Down), with shared letters providing confirmation and assistance. Since their invention in 1913, crosswords have become one of the world's most popular brain teasers, appearing daily in thousands of newspapers and on millions of phone screens.
+A crossword puzzle is a word game consisting of a grid of white and black squares, where solvers fill in words based on numbered clues. Answers interlock horizontally (Across) and vertically (Down), with shared letters providing confirmation and assistance. Since their [invention](/invention) in 1913, crosswords have become one of the world's most popular brain teasers, appearing daily in thousands of newspapers and on millions of phone screens.
 
 ## The Birth of an Obsession
 
 Arthur Wynne, an English-born journalist working at the *New York World*, created the first crossword puzzle for the newspaper's Sunday "Fun" supplement on December 21, 1913. His diamond-shaped grid with numbered clues was called a "word-cross" (a typesetter later swapped the words, creating "cross-word").
 
-The puzzle was an instant hit. Readers demanded more. Other newspapers noticed and started publishing their own crosswords. By the mid-1920s, America was in the grip of full-blown crossword mania. Simon & Schuster published the first crossword puzzle book in 1924 — it came with a pencil attached — and sold over 100,000 copies in its first year.
+The puzzle was an instant hit. Readers demanded more. Other newspapers noticed and started [publishing](/publishing) their own crosswords. By the mid-1920s, America was in the grip of full-blown crossword mania. Simon & Schuster published the first crossword puzzle book in 1924 — it came with a pencil attached — and sold over 100,000 copies in its first year.
 
 The *New York Times* was actually late to the party, not publishing its first crossword until 1942. But it quickly became the gold standard. Today, the NYT crossword — edited by Will Shortz since 1993 — is considered the most prestigious crossword in the English-speaking world, with over 1 million digital subscribers.
 
@@ -47,9 +47,9 @@ A standard American-style crossword uses a 15x15 grid with rotational symmetry (
 
 **Theme puzzles** (Monday through Thursday, usually) have a unifying concept that connects several long answers. The theme might be wordplay, puns, hidden words, or creative reinterpretation of familiar phrases. Discovering the theme often helps solve remaining entries.
 
-**Themeless puzzles** (Friday and Saturday) have no unifying concept but feature wider-open grids, longer entries, and trickier clues. They test vocabulary and lateral thinking more than pattern recognition.
+**Themeless puzzles** (Friday and Saturday) have no unifying concept but feature wider-open grids, longer entries, and trickier clues. They test vocabulary and lateral thinking more than [pattern recognition](/pattern-recognition).
 
-**Clue types** vary from straightforward definitions ("Capital of France" = PARIS) to wordplay ("Where a deal is struck" could mean CASINO rather than BOARDROOM) to tricks ("It might be served in a court" = ACE, as in tennis). Learning to recognize clue types is central to improving as a solver.
+**Clue types** vary from straightforward definitions ("Capital of France" = PARIS) to wordplay ("Where a deal is struck" could mean CASINO rather than BOARDROOM) to tricks ("It might be served in a court" = ACE, as in [tennis](/tennis)). Learning to recognize clue types is central to improving as a solver.
 
 ## The Solving Experience
 
@@ -61,7 +61,7 @@ Experienced solvers develop strategies. **Fill in what you know first** — even
 
 The competitive crossword community gathers annually at the American Crossword Puzzle Tournament (ACPT), founded by Will Shortz in 1978. Top solvers complete championship-level puzzles in under 5 minutes — a speed that seems impossible until you watch them do it.
 
-## Construction: The Art Behind the Grid
+## [Construction](/construction): The Art Behind the Grid
 
 Crossword construction (making puzzles, not solving them) is its own discipline. Constructors must balance several competing demands.
 
@@ -69,7 +69,7 @@ Crossword construction (making puzzles, not solving them) is its own discipline.
 
 **Fill quality** — the non-theme entries should be lively, recognizable words and phrases rather than obscure abbreviations or foreign words. Modern constructors aim for "sparkly" fill — entries that make solvers smile even when they're not part of the theme.
 
-**Clue writing** — the clues are where the constructor's personality shows. A clue can be a straightforward definition, a misdirect, a pun, or a mini-riddle. Great clues make you groan, laugh, or think "that's clever" after you solve them.
+**Clue [writing](/writing)** — the clues are where the constructor's personality shows. A clue can be a straightforward definition, a misdirect, a pun, or a mini-riddle. Great clues make you groan, laugh, or think "that's clever" after you solve them.
 
 Construction has become more diverse in recent years, with women, people of color, and younger constructors bringing new perspectives, vocabulary, and cultural references to grids that had been criticized for skewing toward the knowledge base of older white men.
 
@@ -77,7 +77,7 @@ Construction has become more diverse in recent years, with women, people of colo
 
 The shift from newspaper to digital has been massive. The NYT Crossword app and its competitors have brought crossword solving to phones, introducing the hobby to millions of people who never subscribed to a newspaper.
 
-Digital solving adds features that paper can't — auto-checking letters, revealing answers, tracking solving times, and maintaining streaks. The NYT's streak feature (tracking consecutive days of puzzle completion) has been called "genius gamification" — it turns a solitary activity into a daily habit by tapping into the psychology of unbroken chains.
+Digital solving adds features that paper can't — auto-checking letters, revealing answers, tracking solving times, and maintaining streaks. The NYT's streak feature (tracking consecutive days of puzzle completion) has been called "genius gamification" — it turns a solitary activity into a daily habit by tapping into the [psychology](/psychology) of unbroken chains.
 
 The Wordle phenomenon (acquired by the NYT in 2022) demonstrated that simple word [games](/word-games) can capture enormous audiences. Its success led to a proliferation of similar daily puzzles — Connections, Spelling Bee, and others — that complement traditional crosswords.
 

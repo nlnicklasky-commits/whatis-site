@@ -5,7 +5,7 @@ description: "Social choice theory studies how individual preferences combine in
 category: politics
 tags: ["social choice theory", "voting", "elections", "Arrow's theorem", "democracy", "decision-making"]
 heroImage: "/images/articles/social-choice-theory.webp"
-heroAlt: "A ballot box with voting papers representing collective decision-making processes"
+heroAlt: "Editorial photograph representing the concept of social choice theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Social choice theory is the mathematical study of how individual preferences can be aggregated into collective decisions. Put simply: if a group of people each have their own opinions about what to do, how should the group decide? Voting is the most obvious application, but the theory extends to any situation where individual preferences must combine into a group outcome — committee decisions, market mechanisms, resource allocation, even AI alignment.
 
-The field's most famous result — Arrow's Impossibility Theorem — proved in 1951 that no voting system can be perfectly fair. This sounds devastating, but it's actually profoundly useful: it tells us exactly what trade-offs every collective decision-making system must make, helping us choose wisely among imperfect options.
+The field's most famous result — Arrow's Impossibility Theorem — proved in 1951 that no voting system can be perfectly fair. This sounds devastating, but it's actually profoundly useful: it tells us exactly what [trade](/trade)-offs every collective decision-making system must make, helping us choose wisely among imperfect options.
 
 ## The Condorcet Paradox
 
@@ -46,7 +46,7 @@ Imagine three voters ranking three candidates: A, B, and C.
 
 Using majority rule in pairwise comparisons: A beats B (voters 1 and 3), B beats C (voters 1 and 2), but C beats A (voters 2 and 3). So A > B > C > A — a cycle with no winner. Majority preference is intransitive (it goes in circles), even though each individual's preferences are perfectly logical.
 
-This isn't a weird edge case. It happens regularly in real elections and committee votes. Whenever you have three or more options and diverse preferences, cycling is a genuine possibility. The implications are unsettling: the outcome of a vote can depend on the *order* in which options are considered rather than on genuine majority preference.
+This isn't a weird edge case. It happens regularly in real elections and committee votes. Whenever you have three or more options and diverse preferences, [cycling](/cycling) is a genuine possibility. The implications are unsettling: the outcome of a vote can depend on the *order* in which options are considered rather than on genuine majority preference.
 
 ## Arrow's Impossibility Theorem
 
@@ -66,15 +66,15 @@ This doesn't mean all systems are equally bad. Some perform better on specific c
 
 **Fair division** — splitting resources among people with different preferences — uses social choice principles. Dividing an inheritance, allocating budget across departments, or distributing seats in a legislature all involve aggregating preferences under constraints. The field provides formal methods for making these divisions as fair as possible.
 
-**Mechanism design** reverses the question: instead of analyzing existing systems, you design systems that produce desired outcomes. Auction design, matching markets (like the medical residency match), and platform algorithms all draw on mechanism design theory rooted in social choice.
+**Mechanism design** reverses the question: instead of analyzing existing systems, you design systems that produce desired outcomes. Auction design, matching markets (like the medical residency match), and platform [algorithms](/algorithms) all draw on mechanism design theory rooted in social choice.
 
 ## Beyond Arrow
 
 Social choice theory hasn't stopped at impossibility. The Gibbard-Satterthwaite theorem proved that every non-dictatorial voting system is susceptible to strategic voting — people can sometimes benefit by voting dishonestly. This explains why tactical voting is rational behavior, not a character flaw.
 
-Amartya Sen (Nobel Prize, 1998) extended social choice theory to welfare economics, showing how the framework can evaluate social well-being beyond simple voting. His "capability approach" asks not just what people prefer but what they're actually able to do — a richer framework for social evaluation.
+Amartya Sen (Nobel Prize, 1998) extended social choice theory to welfare [economics](/economics), showing how the framework can evaluate social well-being beyond simple voting. His "capability approach" asks not just what people prefer but what they're actually able to do — a richer framework for social evaluation.
 
-The field continues to evolve. Computational social choice applies computer science to voting problems — how hard is it to compute election outcomes, or to manipulate them? Probabilistic voting models examine what happens when preferences are uncertain. And the growing interest in AI governance has brought social choice theory into technology policy discussions, since aligning AI systems with human values is fundamentally a preference aggregation problem.
+The field continues to evolve. Computational social choice applies [computer science](/computer-science) to voting problems — how hard is it to compute election outcomes, or to manipulate them? Probabilistic voting models examine what happens when preferences are uncertain. And the growing interest in AI governance has brought social choice theory into technology policy discussions, since aligning AI systems with human values is fundamentally a preference aggregation problem.
 
 ## Why It Matters
 

@@ -5,7 +5,7 @@ description: "Psychotherapy is structured talk-based treatment for mental health
 category: health-amp-wellness
 tags: ["psychotherapy", "talk therapy", "mental health", "counseling"]
 heroImage: "/images/articles/psychotherapy.webp"
-heroAlt: "A comfortable therapy office with two chairs facing each other and warm lighting"
+heroAlt: "Editorial photograph representing the concept of psychotherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Psychotherapy?
 
-Psychotherapy is a structured form of treatment where a trained professional helps you address emotional difficulties, mental health conditions, and behavioral patterns through conversation and established psychological techniques. The term comes from the Greek *psyche* (mind or soul) and *therapeia* (healing) — literally, healing the mind.
+Psychotherapy is a structured form of treatment where a trained professional helps you address emotional difficulties, [mental health](/mental-health) conditions, and behavioral patterns through conversation and established psychological techniques. The term comes from the Greek *psyche* (mind or soul) and *therapeia* (healing) — literally, healing the mind.
 
 ## More Than Just Talking
 
@@ -49,7 +49,7 @@ About 75% of people who enter psychotherapy show some benefit, according to the 
 
 ## A Brief History — From Freud's Couch to Your Zoom Screen
 
-Modern psychotherapy traces its origins to the late 1800s. Sigmund Freud didn't invent the idea of talking through problems, but he formalized it. His method — psychoanalysis — asked patients to lie on a couch and free-associate, saying whatever came to mind while Freud interpreted the unconscious meanings beneath. Sessions happened four or five times a week, sometimes for years.
+Modern psychotherapy traces its origins to the late 1800s. Sigmund Freud didn't invent the idea of talking through problems, but he formalized it. His method — [psychoanalysis](/psychoanalysis) — asked patients to lie on a couch and free-associate, saying whatever came to mind while Freud interpreted the unconscious meanings beneath. Sessions happened four or five times a week, sometimes for years.
 
 Freud's ideas were controversial even in his own time, and many have been discredited since. But his core insight — that unconscious processes shape behavior and that talking can change those processes — stuck around. It became the seed for every therapy that followed.
 
@@ -69,7 +69,7 @@ CBT is the most extensively researched form of psychotherapy. Developed by Aaron
 
 A CBT therapist helps you identify specific cognitive distortions — catastrophizing, black-and-white thinking, mind-reading, overgeneralization — and then challenges them with evidence. You also get "homework" between sessions: thought records, behavioral experiments, exposure exercises.
 
-CBT is typically short-term, running 12 to 20 sessions. It's the front-line treatment for anxiety disorders, depression, PTSD, OCD, insomnia, and eating disorders, among others.
+CBT is typically short-term, [running](/running) 12 to 20 sessions. It's the front-line treatment for anxiety disorders, depression, PTSD, OCD, insomnia, and eating disorders, among others.
 
 ### Psychodynamic Therapy
 
@@ -87,7 +87,7 @@ Gestalt therapy, another humanistic approach, focuses on present-moment awarenes
 
 ### Dialectical Behavior Therapy (DBT)
 
-Marsha Linehan developed DBT in the 1980s, originally for borderline personality disorder. It combines CBT techniques with mindfulness and acceptance strategies borrowed from Zen Buddhism. The word "dialectical" refers to holding two opposing truths simultaneously — accepting yourself as you are while also working to change.
+Marsha Linehan developed DBT in the 1980s, originally for borderline personality disorder. It combines CBT techniques with mindfulness and acceptance strategies borrowed from Zen [Buddhism](/buddhism). The word "dialectical" refers to holding two opposing truths simultaneously — accepting yourself as you are while also working to change.
 
 DBT teaches four skill sets: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness. It's delivered through individual therapy plus a weekly skills group. The evidence for DBT in reducing self-harm and suicidal behavior is exceptionally strong.
 
@@ -131,7 +131,7 @@ A strong alliance means you feel understood, trust your therapist, and agree on 
 
 ## Cost and Access — The Uncomfortable Reality
 
-Therapy isn't cheap. In the U.S., a single session with a licensed therapist typically costs $100-$250 without insurance. Even with insurance, copays of $20-$50 per session add up over months of treatment.
+Therapy isn't cheap. In the U.S., a single session with a licensed therapist typically costs $100-$250 without [insurance](/insurance). Even with insurance, copays of $20-$50 per session add up over months of treatment.
 
 Access is uneven. Rural areas face severe therapist shortages. Communities of color are underserved — only about 4% of psychologists in the U.S. are Black, according to APA workforce data, though the population is roughly 13.4% Black. Language barriers add another layer.
 
@@ -151,12 +151,12 @@ Community mental health centers, sliding-scale practices, university training cl
 
 ## When Therapy Isn't Enough — and That's Okay
 
-Therapy has limits. For severe depression, bipolar disorder, schizophrenia, and some other conditions, medication is often necessary alongside talk therapy. The brain is a physical organ, and sometimes its chemistry needs pharmaceutical support, just as a diabetic pancreas needs insulin.
+Therapy has limits. For severe depression, bipolar disorder, schizophrenia, and some other conditions, medication is often necessary alongside talk therapy. The brain is a physical organ, and sometimes its [chemistry](/chemistry) needs pharmaceutical support, just as a diabetic pancreas needs insulin.
 
 The best outcomes for many conditions come from combining therapy and medication. That's not a failure of therapy — it's how medicine works. You use the tools that help.
 
 ## Finding a Therapist
 
-Start by checking your insurance provider directory or using databases like Psychology Today's therapist finder. Filter by specialty (anxiety, trauma, couples, etc.), approach (CBT, psychodynamic, EMDR), and practical details like location and availability.
+Start by checking your insurance provider directory or using databases like [Psychology](/psychology) Today's therapist finder. Filter by specialty (anxiety, trauma, couples, etc.), approach (CBT, psychodynamic, EMDR), and practical details like location and availability.
 
 Many therapists offer a free 15-minute phone consultation. Use it. Ask about their experience with your specific concern, their general approach, and what a typical session looks like. Pay attention to how you feel during the conversation. Warmth and competence aren't everything, but they're a strong start.

@@ -5,7 +5,7 @@ description: "Limnology is the study of inland waters including lakes, rivers, a
 category: science
 tags: ["limnology", "freshwater", "lakes", "rivers", "aquatic ecology", "water quality", "environmental science"]
 heroImage: "/images/articles/limnology-hero.webp"
-heroAlt: "Clear mountain lake reflecting surrounding forest with a researcher collecting water samples"
+heroAlt: "Editorial photograph representing the concept of limnology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Limnology is the scientific study of inland waters—lakes, ponds, rivers, streams, wetlands, and reservoirs. The word comes from the Greek *limne* (lake) and *logos* (study), but the field extends well beyond lakes to encompass virtually every body of fresh (and sometimes brackish) water that isn't an ocean.
 
-If that sounds niche, consider this: every glass of water you drink, every fish you eat from a river, every decision about dam construction, irrigation, flood control, and pollution regulation depends on understanding how freshwater systems work. Limnology is the science behind the water that keeps you alive.
+If that sounds niche, consider this: every glass of water you drink, every fish you eat from a river, every decision about dam [construction](/construction), irrigation, flood control, and pollution regulation depends on understanding how freshwater systems work. Limnology is the science behind the water that keeps you alive.
 
 ## Why Freshwater Matters Disproportionately
 
@@ -89,7 +89,7 @@ Ice cover is declining worldwide due to climate change. Between 1980 and 2020, i
 
 ### Nutrients and Trophic Status
 
-The nutrient content of a lake—particularly nitrogen and phosphorus—determines its productivity. Limnologists classify lakes by trophic status:
+The nutrient content of a lake—particularly nitrogen and phosphorus—determines its [productivity](/productivity). Limnologists classify lakes by trophic status:
 
 **Oligotrophic** lakes have low nutrient levels, clear water, high oxygen throughout, and relatively few organisms. Mountain lakes, newly formed glacial lakes, and deep lakes with small watersheds are typically oligotrophic. Think Lake Tahoe or Lake Baikal.
 
@@ -117,9 +117,9 @@ Certain cyanobacteria (formerly called "blue-green algae") produce toxins that c
 
 HABs are increasing worldwide. A satellite study published in *Nature* found that HAB intensity increased in 68% of large lakes globally between 1984 and 2012. Warmer temperatures, increased nutrient loading, and altered precipitation patterns are all contributing factors.
 
-In 2014, a HAB in Lake Erie produced microcystin levels so high that Toledo, Ohio's water supply was declared unsafe for drinking for three days—affecting 500,000 people. In 2018, Florida declared a state of emergency over toxic blooms in Lake Okeechobee. These aren't distant environmental problems—they're public health crises affecting major cities.
+In 2014, a HAB in Lake Erie produced microcystin levels so high that Toledo, Ohio's water supply was declared unsafe for drinking for three days—affecting 500,000 people. In 2018, Florida declared a state of emergency over toxic blooms in Lake Okeechobee. These aren't distant environmental problems—they're [public health](/public-health) crises affecting major cities.
 
-## River and Stream Ecology
+## River and [Stream Ecology](/stream-ecology)
 
 Limnology encompasses flowing water as well as standing water. Rivers and streams present different challenges and support different ecological communities.
 

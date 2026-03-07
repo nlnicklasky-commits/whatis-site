@@ -5,7 +5,7 @@ description: "A terrarium is a miniature garden enclosed in glass that creates i
 category: everyday-concepts
 tags: ["terrariums", "ecosystem", "plants", "gardening", "indoor plants", "glass container"]
 heroImage: "/images/articles/terrariums.webp"
-heroAlt: "A glass terrarium with lush green plants, moss, and small decorative stones"
+heroAlt: "Editorial photograph representing the concept of terrariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The concept is beautifully simple: take a glass container, add drainage material
 
 ### Closed Terrariums
 
-Fully sealed or nearly sealed containers that create their own water cycle. Water evaporates from soil and plant surfaces, condenses on the glass, and drips back down — recycling indefinitely. Closed terrariums are essentially tiny tropical rainforests: warm, humid, and self-regulating.
+Fully sealed or nearly sealed containers that create their own water cycle. Water evaporates from soil and plant surfaces, condenses on the glass, and drips back down — [recycling](/recycling) indefinitely. Closed terrariums are essentially tiny tropical rainforests: warm, humid, and self-regulating.
 
 Best for: tropical plants, ferns, mosses, fittonias, and other humidity-loving species.
 
@@ -88,16 +88,16 @@ A closed terrarium is a miniature demonstration of the water cycle and carbon cy
 
 The terrarium was invented accidentally in 1842 by Dr. Nathaniel Bagshaw Ward, a London physician and amateur botanist. He'd placed a moth chrysalis in a sealed glass jar with soil. Before the moth emerged, he noticed ferns and grass sprouting in the jar — thriving in the enclosed environment despite London's polluted air.
 
-Ward realized that sealed glass containers could protect plants from air pollution and maintain consistent humidity. His "Wardian cases" (as they became known) revolutionized the transport of live [plants](/botany) across oceans. Previously, most plants died during long sea voyages. Wardian cases enabled the mass transport of tea plants to India, rubber plants to Malaysia, and countless botanical specimens to gardens worldwide. They changed global agriculture.
+Ward realized that sealed glass containers could protect plants from air pollution and maintain consistent humidity. His "Wardian cases" (as they became known) revolutionized the transport of live [plants](/botany) across oceans. Previously, most plants died during long sea voyages. Wardian cases enabled the mass transport of tea plants to India, rubber plants to Malaysia, and countless botanical specimens to gardens worldwide. They changed global [agriculture](/agriculture).
 
 ## Why People Love Them
 
 Terrariums have experienced a major resurgence in popularity:
 
-- **Low maintenance** — Closed terrariums need almost no care. Perfect for people who kill houseplants.
+- **Low maintenance** — Closed terrariums need almost no care. Perfect for people who kill [houseplants](/houseplants).
 - **Small space friendly** — A terrarium fits on a desk, windowsill, or shelf.
 - **Creative expression** — Building a terrarium is a genuinely enjoyable craft project. The design possibilities are endless.
 - **Connection to nature** — A tiny green world on your desk provides a surprising amount of psychological comfort.
-- **Educational** — Terrariums demonstrate ecological principles in a visible, tangible way. They're excellent teaching tools for children.
+- **Educational** — Terrariums demonstrate ecological principles in a visible, tangible way. They're excellent [teaching](/teaching) tools for children.
 
 The hobby has a vibrant online community. Social media platforms are full of terrarium builds, time-lapses of plant growth, and creative container choices — everything from old light bulbs to vintage apothecary jars to elaborate custom-built display cases. The barrier to entry is low (your first terrarium can cost under $20) and the satisfaction of watching a tiny ecosystem thrive is genuinely rewarding.

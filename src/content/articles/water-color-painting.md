@@ -5,7 +5,7 @@ description: "Watercolor painting uses water-soluble pigments on paper to create
 category: everyday-concepts
 tags: ["water color painting", "watercolor", "painting", "art", "fine art", "techniques"]
 heroImage: "/images/articles/water-color-painting.webp"
-heroAlt: "Artist painting a landscape watercolor with vibrant washes of blue and green on wet paper"
+heroAlt: "Editorial photograph representing the concept of water color painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ This unpredictability is both watercolor's greatest challenge and its greatest c
 
 ## Core Techniques
 
-**Wet-on-wet** — Applying paint to wet paper. The pigment flows and spreads, creating soft edges, smooth gradients, and atmospheric effects. This technique is essential for skies, water reflections, and anything that needs to feel diffuse and dreamy. The challenge: controlling where the paint goes when the paper is wet requires timing and paper-tilt management.
+**Wet-on-wet** — Applying paint to wet paper. The pigment flows and spreads, creating soft edges, smooth gradients, and atmospheric effects. This technique is essential for skies, water reflections, and anything that needs to feel diffuse and dreamy. The challenge: controlling where the paint goes when the paper is wet requires timing and paper-tilt [management](/management).
 
 **Wet-on-dry** — Applying paint to dry paper. The brushstroke stays exactly where you put it, creating crisp edges and defined shapes. Most detail work uses wet-on-dry technique. The challenge: building up color gradually through multiple transparent layers (glazing) without creating mud.
 
@@ -57,7 +57,7 @@ This unpredictability is both watercolor's greatest challenge and its greatest c
 
 Watercolor paper is not regular paper. It's thick (typically 140 lb/300gsm or heavier), made from cotton or cellulose, and has a textured surface that holds water and pigment.
 
-**Hot-pressed** paper has a smooth surface, good for detailed work and illustration but less forgiving with washes.
+**Hot-pressed** paper has a smooth surface, good for detailed work and [illustration](/illustration) but less forgiving with washes.
 
 **Cold-pressed** paper has a medium texture — the most versatile and commonly used surface. The texture grabs pigment and creates interesting effects.
 
@@ -67,7 +67,7 @@ The single biggest quality improvement a beginner can make is switching from che
 
 ## Historical Giants
 
-**J.M.W. Turner** (1775-1851) pushed watercolor to its limits, creating atmospheric landscapes of extraordinary light and energy. His watercolors influenced Impressionism decades before that movement began.
+**J.M.W. Turner** (1775-1851) pushed watercolor to its limits, creating atmospheric landscapes of extraordinary light and energy. His watercolors influenced [Impressionism](/impressionism) decades before that movement began.
 
 **Winslow Homer** (1836-1910) produced powerful watercolors of the American coast, sea, and wilderness that are among the finest in the medium's history. His technical command and emotional directness set a standard for American watercolor.
 
@@ -77,7 +77,7 @@ The single biggest quality improvement a beginner can make is switching from che
 
 ## Getting Started
 
-Start by playing. Seriously — put pigment on wet paper and watch what happens. Paint a sunset sky by laying down a yellow wash, then dropping orange and pink into it while it's still wet. See how the colors flow into each other. This is watercolor teaching you what it wants to do.
+Start by playing. Seriously — put pigment on wet paper and watch what happens. Paint a sunset sky by laying down a yellow wash, then dropping orange and pink into it while it's still wet. See how the colors flow into each other. This is watercolor [teaching](/teaching) you what it wants to do.
 
 Then try controlled exercises. Paint a gradated wash (smoothly transitioning from dark to light). Paint a flat wash (even color across the page). Paint shapes with crisp edges using wet-on-dry technique. These fundamentals take about two weeks of regular practice to become comfortable.
 

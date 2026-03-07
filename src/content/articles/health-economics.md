@@ -5,7 +5,7 @@ description: "Health economics studies how societies allocate scarce resources t
 category: finance
 tags: ["health economics", "healthcare", "economics", "public health", "health policy", "resource allocation", "health insurance"]
 heroImage: "/images/articles/health-economics-hero.webp"
-heroAlt: "Abstract illustration showing the intersection of medicine and economics with charts and medical symbols"
+heroAlt: "Editorial photograph representing the concept of health economics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -65,7 +65,7 @@ This inelasticity gives providers and pharmaceutical companies enormous pricing 
 
 Your health decisions affect other people. If you skip a vaccination, you increase the risk of disease for everyone around you. If you spread an infectious disease, the costs ripple through the entire community. These spillover effects—**externalities**—mean that purely private healthcare decisions can have massive public consequences.
 
-This is one of the strongest economic arguments for public health intervention. When individual choices create costs for others, markets alone don't produce the best outcome for society.
+This is one of the strongest economic arguments for [public health](/public-health) intervention. When individual choices create costs for others, markets alone don't produce the best outcome for society.
 
 ## The Big Questions Health Economists Tackle
 
@@ -117,7 +117,7 @@ Countries using this model: Germany, France, Japan, Switzerland, Belgium.
 
 This model looks more like the U.S. system on the surface—you have insurance, you choose providers. But there are crucial differences: coverage is mandatory, insurers can't deny coverage or charge more for pre-existing conditions, and the government regulates prices tightly.
 
-### The National Health Insurance Model
+### The National [Health Insurance](/health-insurance) Model
 
 A hybrid. Providers are private, but insurance is a single government-run program funded through taxes. Canada's system is the classic example.
 
@@ -161,7 +161,7 @@ Understanding health insurance requires understanding risk pooling—the fundame
 
 Here's the classic insurance problem: if buying health insurance is optional, healthy people may skip it (they don't expect to need it), while sick people sign up eagerly. This leaves insurers with a sicker, more expensive pool. Premiums rise. More healthy people drop out. Premiums rise again. This death spiral—economists call it **adverse selection**—is why many countries mandate insurance coverage.
 
-The Affordable Care Act's individual mandate attempted to address adverse selection by requiring everyone to purchase insurance. When the penalty was reduced to zero in 2019, enrollment dropped and premiums increased—exactly what economic theory predicted.
+The Affordable Care Act's individual mandate attempted to address adverse selection by requiring everyone to purchase insurance. When the penalty was reduced to zero in 2019, enrollment dropped and premiums increased—exactly what [economic theory](/economic-theory) predicted.
 
 ### Moral Hazard in Practice
 
@@ -191,7 +191,7 @@ Rather than asking "is this cost-effective?", budget impact analysis asks "can w
 
 ## Behavioral Health Economics
 
-Traditional economics assumes people make rational decisions. Behavioral economics—and its health-specific subfield—recognizes that people are wonderfully, predictably irrational.
+Traditional economics assumes people make rational decisions. [Behavioral economics](/behavioral-economics)—and its health-specific subfield—recognizes that people are wonderfully, predictably irrational.
 
 People discount future health heavily. A smoker knows cigarettes will likely cause problems in 20 years, but that future suffering feels abstract compared to the immediate pleasure. This is called **hyperbolic discounting**, and it explains a huge portion of unhealthy behavior.
 

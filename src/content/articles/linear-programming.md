@@ -5,7 +5,7 @@ description: "Linear programming optimizes outcomes under constraints. Learn abo
 category: science
 tags: ["linear programming", "optimization", "mathematics", "operations research", "simplex method", "constraints", "decision making"]
 heroImage: "/images/articles/linear-programming-hero.webp"
-heroAlt: "Geometric illustration of a feasible region with optimal solution point highlighted"
+heroAlt: "Editorial photograph representing the concept of linear programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -88,7 +88,7 @@ The method uses a systematic algebraic procedure involving "pivot operations" �
 
 ### Why It's Fast (Usually)
 
-In the worst case, the simplex method might visit every vertex — and a polytope with n constraints can have exponentially many vertices. So theoretically, the simplex method is not "efficient" in the computer science sense.
+In the worst case, the simplex method might visit every vertex — and a polytope with n constraints can have exponentially many vertices. So theoretically, the simplex method is not "efficient" in the [computer science](/computer-science) sense.
 
 But in practice? It's extraordinarily fast. For typical problems, the number of pivots grows roughly linearly with the number of constraints, not exponentially. A problem with 10,000 constraints might require only 20,000-30,000 pivots. Nobody fully understands why the simplex method works so well in practice — it's one of the enduring mysteries of [computational mathematics](/applied-mathematics).
 
@@ -126,7 +126,7 @@ Real-world parameters aren't fixed. Prices fluctuate. Resource availability chan
 
 This matters enormously in business. Managers don't just want one answer — they want to know how strong that answer is. "Produce 3 cakes and 2 batches of cookies" is less useful than "produce 3 cakes and 2 batches, and this remains optimal as long as cake profit stays above $25 and flour availability stays below 18 kg."
 
-## Integer and Mixed-Integer Programming
+## Integer and Mixed-[Integer Programming](/integer-programming)
 
 Pure linear programming assumes variables can take any real value: 3.7 cakes, 2.4 trucks. But often, variables must be integers. You can't send half a truck.
 
@@ -185,7 +185,7 @@ LP has polynomial-time complexity — meaning the time to solve grows as a polyn
 
 The simplex method, despite its exponential worst case, remains competitive because its average-case behavior is excellent. Smoothed analysis (Spielman and Teng, 2004) provides theoretical justification: slightly perturbing a worst-case problem makes the simplex method efficient with high probability. This won them the Godel Prize.
 
-Modern solvers exploit problem structure aggressively. **Presolve** routines simplify problems before solving — eliminating redundant constraints, fixing variables, and tightening bounds. **Decomposition** methods break large problems into smaller subproblems. **Parallel computing** distributes work across multiple processor cores.
+Modern solvers exploit problem structure aggressively. **Presolve** routines simplify problems before solving — eliminating redundant constraints, fixing variables, and tightening bounds. **Decomposition** methods break large problems into smaller subproblems. **[Parallel computing](/parallel-computing)** distributes work across multiple processor cores.
 
 State-of-the-art commercial solvers like Gurobi, CPLEX, and MOSEK can solve LP problems with tens of millions of variables and constraints. Open-source alternatives like GLPK, CLP, and HiGHS are capable for smaller problems.
 

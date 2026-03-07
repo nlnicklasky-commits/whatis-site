@@ -5,7 +5,7 @@ description: "Invention is the creation of something genuinely new — a device,
 category: technology
 tags: ["invention", "technology", "problem solving", "creativity", "patent", "engineering", "discovery"]
 heroImage: "/images/articles/invention-hero.webp"
-heroAlt: "Inventor's workbench with prototypes, sketches, and tools representing the creative process"
+heroAlt: "Editorial photograph representing the concept of invention"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -75,7 +75,7 @@ Patent databases, scientific literature, trade publications, and increasingly, o
 
 ### Conceptual Design
 
-This is where creativity enters the picture. Given a problem and knowledge of prior art, the inventor conceives a potential solution. This might be a sketch on a napkin, a detailed technical drawing, a mathematical model, or a mental image.
+This is where creativity enters the picture. Given a problem and knowledge of prior art, the inventor conceives a potential solution. This might be a sketch on a napkin, a detailed [technical drawing](/technical-drawing), a mathematical model, or a mental image.
 
 The history of invention is full of conceptual leaps that seem obvious in hindsight but required genuine creative insight:
 
@@ -157,7 +157,7 @@ Vaccines have saved more lives than perhaps any other class of invention. Smallp
 
 The internet — from ARPANET to TCP/IP to the World Wide Web — was a collective invention involving hundreds of contributors over decades. It connected billions of people, reshaped commerce, media, politics, and social life, and created an infrastructure for further invention that accelerated the pace of everything.
 
-What makes the internet unusual as an invention is that it's a platform for other inventions. E-commerce, social media, streaming, cloud computing, cryptocurrency, and AI applications are all inventions built on top of the internet invention. It's an invention multiplier.
+What makes the internet unusual as an invention is that it's a platform for other inventions. E-commerce, social media, streaming, [cloud computing](/cloud-computing), cryptocurrency, and AI applications are all inventions built on top of the internet invention. It's an invention multiplier.
 
 ## The Sociology of Invention
 
@@ -185,7 +185,7 @@ Government funding — through agencies like DARPA, NSF, and NIH in the US — h
 
 Corporate R&D labs — Bell Labs, Xerox PARC, IBM Research — produced significant inventions when given long time horizons and freedom to explore. But corporate research has increasingly shifted toward shorter-term, product-focused development as shareholder pressure demands quicker returns.
 
-Venture capital funds invention that has clear commercial potential. The VC model — invest in many startups, expect most to fail, profit hugely from the few that succeed — has funded [app development](/app-development), biotech, clean energy, and other invention-intensive sectors.
+[Venture capital](/venture-capital) funds invention that has clear commercial potential. The VC model — invest in many startups, expect most to fail, profit hugely from the few that succeed — has funded [app development](/app-development), biotech, clean energy, and other invention-intensive sectors.
 
 Individual inventors working without institutional support are increasingly rare for complex technologies but still common for simpler inventions. The "garage inventor" story — while real in cases like Steve Jobs and Steve Wozniak — represents a small fraction of modern invention.
 
@@ -193,7 +193,7 @@ Individual inventors working without institutional support are increasingly rare
 
 Several forces are changing how invention works.
 
-**AI as an invention tool**: [Machine learning](/machine-learning) is accelerating invention in drug discovery (DeepMind's AlphaFold predicted protein structures), materials science (AI-designed battery chemistries), and engineering design (generative design algorithms). AI doesn't invent independently — yet — but it dramatically expands the space of designs a human inventor can explore.
+**AI as an invention tool**: [Machine learning](/machine-learning) is accelerating invention in drug discovery (DeepMind's AlphaFold predicted protein structures), [materials science](/materials-science) (AI-designed battery chemistries), and engineering design (generative design algorithms). AI doesn't invent independently — yet — but it dramatically expands the space of designs a human inventor can explore.
 
 **Open-source invention**: The open-source model (share your work freely, let others improve it) has produced remarkable results in software. It's spreading to hardware through open-source hardware designs, shared fabrication facilities (makerspaces), and collaborative invention platforms.
 

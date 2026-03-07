@@ -5,7 +5,7 @@ description: "Quantum cryptography uses the laws of physics, not math, to secure
 category: technology
 tags: ["quantum cryptography", "quantum key distribution", "cybersecurity", "encryption", "quantum mechanics"]
 heroImage: "/images/articles/quantum-cryptography-hero.webp"
-heroAlt: "Secure quantum communication channel with entangled photon pairs traveling through fiber optic cable"
+heroAlt: "Editorial photograph representing the concept of quantum cryptography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantum Cryptography?
 
-Quantum cryptography is a method of securing communications using the principles of quantum mechanics rather than mathematical complexity. Its most developed application, quantum key distribution (QKD), allows two parties to generate a shared encryption key with security guaranteed by the laws of physics -- not by the assumed difficulty of a math problem.
+Quantum cryptography is a method of securing communications using the principles of [quantum mechanics](/quantum-mechanics) rather than mathematical complexity. Its most developed application, quantum key distribution (QKD), allows two parties to generate a shared encryption key with security guaranteed by the laws of physics -- not by the assumed difficulty of a math problem.
 
 Here's why that distinction matters enormously: every encryption method you use today -- your bank's HTTPS connection, your messaging app's end-to-end encryption, your VPN -- relies on mathematical problems that are hard but not provably impossible to solve. If someone discovers a faster algorithm or builds a powerful enough [quantum computer](/quantum-computing), that security evaporates. Quantum cryptography is different. Its security is based on physical laws that cannot be broken by any computer, classical or quantum, now or ever.
 
@@ -155,7 +155,7 @@ Three solutions exist:
 
 These terms sound similar but refer to very different approaches. Understanding the difference matters.
 
-**Quantum cryptography** (specifically QKD) uses quantum physics to distribute keys. It requires specialized hardware (single-photon sources, quantum detectors, dark fiber). Its security is based on physics.
+**Quantum cryptography** (specifically QKD) uses [quantum physics](/quantum-physics) to distribute keys. It requires specialized hardware (single-photon sources, quantum detectors, dark fiber). Its security is based on physics.
 
 **Post-quantum cryptography** (PQC) uses classical computers running mathematical algorithms that are believed to resist quantum attacks. It requires no special hardware -- it runs on existing [computers](/computer-science) and networks. Its security is based on mathematical problems (like lattice problems) that are hard for both classical and quantum computers.
 
@@ -199,7 +199,7 @@ A quantum internet would connect quantum computers, quantum sensors, and QKD sys
 
 **Quantum sensor networks** -- connecting quantum sensors for ultra-precise measurements of gravitational fields, magnetic fields, and time synchronization.
 
-**Blind quantum computing** -- performing quantum computations on a remote quantum computer without the computer learning what you're computing. This has been demonstrated in proof-of-concept experiments and could enable quantum cloud computing with absolute privacy.
+**Blind quantum computing** -- performing quantum computations on a remote quantum computer without the computer learning what you're computing. This has been demonstrated in proof-of-concept experiments and could enable quantum [cloud computing](/cloud-computing) with absolute privacy.
 
 The US Department of Energy has published a strategic plan for quantum internet development. The Netherlands' QuTech lab operates a rudimentary 3-node quantum network. China continues expanding its quantum communication infrastructure. But a fully functional quantum internet is still years -- probably decades -- away.
 

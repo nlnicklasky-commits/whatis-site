@@ -5,7 +5,7 @@ description: "Travel hacking uses credit card points, miles, and loyalty program
 category: everyday-concepts
 tags: ["travel hacking", "travel", "credit cards", "loyalty programs", "miles", "points"]
 heroImage: "/images/articles/travel-hacking.webp"
-heroAlt: "A passport, credit cards, and a boarding pass arranged on a travel map"
+heroAlt: "Editorial photograph representing the concept of travel hacking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,13 +61,13 @@ Elite status (earned through flying, staying, or spending) unlocks upgrades, lou
 
 **Sweet spot redemptions** — Certain award bookings offer outsized value. Flying business class to Asia on specific partner airlines might cost 60,000 points — a seat worth $5,000+ in cash. Learning these "sweet spots" is where serious travel hackers invest their time.
 
-**Stacking** — Combining credit card rewards, portal bonuses, airline sales, and loyalty program promotions to maximize value from a single trip.
+**Stacking** — Combining credit card rewards, portal bonuses, airline [sales](/sales), and loyalty program promotions to maximize value from a single trip.
 
 ## The Math
 
 A good travel hacking setup earns $0.02-0.05 in travel value per dollar spent. On $3,000 monthly spending:
 
-- Without optimization: Maybe a $150 cash-back check
+- Without [optimization](/optimization): Maybe a $150 cash-back check
 - With optimization: $600-1,500+ in travel value (through sign-up bonuses and strategic redemptions)
 
 The gap is real, and it scales with spending volume and number of cardholders in a household.
@@ -88,6 +88,6 @@ The gap is real, and it scales with spending volume and number of cardholders in
 
 For people who pay balances in full, spend at least moderately, and enjoy optimization puzzles — yes, absolutely. The returns can fund multiple vacations per year.
 
-For people who carry credit card [debt](/personal-finance), tend to overspend when using cards, or find tracking complex systems stressful — no. The psychological and financial costs outweigh the rewards.
+For people who carry credit card [debt](/personal-[finance](/finance)), tend to overspend when using cards, or find tracking complex systems stressful — no. The psychological and financial costs outweigh the rewards.
 
 The honest truth: travel hacking rewards the organized and disciplined. If you're already good with money, it's a powerful tool. If you're not, it's a potential trap dressed up as a deal.

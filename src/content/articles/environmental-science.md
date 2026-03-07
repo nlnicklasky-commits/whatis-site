@@ -5,7 +5,7 @@ description: "Environmental science studies how natural and human systems intera
 category: science
 tags: ["environmental science", "environment", "ecology", "sustainability", "pollution", "climate change", "conservation"]
 heroImage: "/images/articles/environmental-science-hero.webp"
-heroAlt: "Aerial view of a rainforest meeting a river system showing environmental diversity"
+heroAlt: "Editorial photograph representing the concept of environmental science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

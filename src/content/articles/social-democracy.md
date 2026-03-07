@@ -5,7 +5,7 @@ description: "Social democracy blends capitalism with strong social welfare prog
 category: politics
 tags: ["social democracy", "welfare state", "Nordic model", "politics", "capitalism", "labor rights"]
 heroImage: "/images/articles/social-democracy.webp"
-heroAlt: "A Scandinavian city scene representing the social democratic model with public services visible"
+heroAlt: "Editorial photograph representing the concept of social democracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Social Democracy?
 
-Social democracy is a political and economic philosophy that accepts capitalism but insists that government must actively intervene to reduce inequality, protect workers, and provide universal access to healthcare, education, and social security. It's not about abolishing markets or private property — it's about making market economies work for everyone, not just the wealthy.
+Social democracy is a political and economic [philosophy](/philosophy) that accepts [capitalism](/capitalism) but insists that [government](/government) must actively intervene to reduce inequality, protect workers, and provide universal access to healthcare, [education](/education), and social security. It's not about abolishing markets or private property — it's about making market economies work for everyone, not just the wealthy.
 
 The Nordic countries — Sweden, Denmark, Norway, Finland — are the most prominent examples. They have thriving private sectors, billionaires, and competitive global companies (IKEA, Volvo, Lego, Nokia). They also have universal healthcare, free university education, generous parental leave, strong labor protections, and some of the lowest poverty rates in the world. That combination — market dynamism plus social protection — is the social democratic project.
 
@@ -43,17 +43,17 @@ The Nordic countries — Sweden, Denmark, Norway, Finland — are the most promi
 
 **Progressive taxation.** Those who earn more pay more, both in absolute terms and as a percentage of income. Nordic countries have top marginal income tax rates of 50-60% and relatively high consumption taxes (VAT). These taxes fund the social programs, creating a virtuous circle: high taxes enable high-quality services that people actually want to pay for.
 
-**Strong labor rights.** Collective bargaining, workplace safety standards, generous unemployment benefits, and worker representation on corporate boards are standard social democratic policies. In Denmark, about 67% of workers belong to unions. In Sweden, it's about 70%. These high unionization rates help ensure that economic growth benefits workers, not just shareholders.
+**Strong labor rights.** Collective bargaining, [workplace safety](/workplace-safety) standards, generous unemployment benefits, and worker representation on corporate boards are standard social democratic policies. In Denmark, about 67% of workers belong to unions. In Sweden, it's about 70%. These high unionization rates help ensure that economic growth benefits workers, not just shareholders.
 
 ## How It Developed
 
 Social democracy emerged in the late 19th century from European socialist movements. Initially, social democrats and socialists shared similar goals — but they disagreed on methods. Socialists wanted revolution. Social democrats chose reform — working within democratic systems to gradually create a more equal society.
 
-The split became definitive after World War I. Communist parties pursued revolutionary change (the Russian Revolution of 1917). Social democratic parties pursued electoral politics, forming governments in Scandinavia, Germany, and elsewhere during the 1920s-1930s.
+The split became definitive after [World War I](/world-war-i). Communist parties pursued revolutionary change (the Russian Revolution of 1917). Social democratic parties pursued electoral [politics](/politics), forming governments in Scandinavia, Germany, and elsewhere during the 1920s-1930s.
 
-The post-World War II period was social democracy's golden age. European governments built thorough welfare states, nationalized key industries, and achieved unprecedented levels of equality and social mobility. The "Swedish model" — combining full employment, universal welfare, and economic growth — became the aspiration.
+The post-[World War II](/world-war-ii) period was social democracy's golden age. European governments built thorough welfare states, nationalized key industries, and achieved unprecedented levels of equality and social mobility. The "Swedish model" — combining full employment, universal welfare, and economic growth — became the aspiration.
 
-The 1980s and 1990s brought challenges. Globalization, the rise of neoliberal economics (Reagan, Thatcher), and competitive pressure from lower-tax countries forced social democrats to moderate some policies. "Third Way" social democrats like Tony Blair and Bill Clinton moved rightward — accepting market deregulation and reducing some welfare provisions.
+The 1980s and 1990s brought challenges. Globalization, the rise of neoliberal [economics](/economics) (Reagan, Thatcher), and competitive pressure from lower-tax countries forced social democrats to moderate some policies. "Third Way" social democrats like Tony Blair and Bill Clinton moved rightward — accepting market deregulation and reducing some welfare provisions.
 
 ## The Nordic Model Today
 
@@ -69,7 +69,7 @@ Despite these pressures, the Nordic model persists and performs remarkably well 
 
 ## Criticisms
 
-**High taxes** are the most common complaint. Middle-class Danes pay effective tax rates of 40-50%. Whether this trade-off (high taxes for high-quality universal services) is worthwhile depends on what you value — lower taxes with private provision, or higher taxes with public guarantees.
+**High taxes** are the most common complaint. Middle-class Danes pay effective tax rates of 40-50%. Whether this [trade](/trade)-off (high taxes for high-quality universal services) is worthwhile depends on what you value — lower taxes with private provision, or higher taxes with public guarantees.
 
 **Homogeneity.** Critics argue the Nordic model works because of small, culturally homogeneous populations. There's some truth to this — social trust and willingness to fund shared programs may be easier in more homogeneous societies. But Canada and Germany, which are diverse, also maintain strong social democratic features.
 

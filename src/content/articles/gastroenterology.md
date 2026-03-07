@@ -5,7 +5,7 @@ description: "Gastroenterology is the medical specialty focused on diagnosing an
 category: health-amp-wellness
 tags: ["gastroenterology", "digestive system", "gastrointestinal", "medicine", "health"]
 heroImage: "/images/articles/gastroenterology.webp"
-heroAlt: "Anatomical illustration of the human digestive system highlighting major organs"
+heroAlt: "Editorial photograph representing the concept of gastroenterology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Gastroenterology is the branch of medicine devoted to the digestive system and i
 
 ## Your Digestive System: A Quick Tour
 
-Before getting into the medicine, it helps to understand the machinery. Your gastrointestinal (GI) tract is a continuous tube roughly 30 feet long, running from your mouth to your anus. If you flattened out its absorptive surface — accounting for all the folds, villi, and microvilli — it would cover roughly 32 square meters. That's about the size of a studio apartment.
+Before getting into the medicine, it helps to understand the machinery. Your gastrointestinal (GI) tract is a continuous tube roughly 30 feet long, [running](/running) from your mouth to your anus. If you flattened out its absorptive surface — [accounting](/accounting) for all the folds, villi, and microvilli — it would cover roughly 32 square meters. That's about the size of a studio apartment.
 
 The process starts in your mouth, where mechanical chewing and salivary enzymes begin breaking food down. The esophagus — a 10-inch muscular tube — propels food to the stomach via rhythmic contractions called peristalsis. Your stomach is essentially an acid bath: hydrochloric acid at a pH of 1.5 to 3.5 breaks down proteins and kills most bacteria that hitch a ride on your food.
 
@@ -63,7 +63,7 @@ Peptic ulcers — open sores in the stomach or duodenal lining — were once tho
 
 IBD encompasses two chronic conditions: Crohn's disease and ulcerative colitis. Crohn's can affect any part of the GI tract (though it most commonly strikes the end of the small intestine) and involves inflammation that penetrates deep into the bowel wall. Ulcerative colitis is limited to the colon and rectum, affecting only the innermost lining.
 
-About 3 million Americans have IBD. The cause isn't fully understood, but it involves an inappropriate immune response — your [immune system](/biology) essentially attacks your own digestive tract. Treatment typically combines anti-inflammatory medications, immunosuppressants, and biologic drugs that target specific immune pathways. Surgery is sometimes necessary, particularly for ulcerative colitis.
+About 3 million Americans have IBD. The cause isn't fully understood, but it involves an inappropriate immune response — your [immune system](/biology) essentially attacks your own digestive tract. Treatment typically combines anti-inflammatory medications, immunosuppressants, and biologic drugs that target specific immune pathways. [Surgery](/surgery) is sometimes necessary, particularly for ulcerative colitis.
 
 ### Irritable Bowel Syndrome (IBS)
 
@@ -75,7 +75,7 @@ The gut-brain axis is central to IBS. The enteric nervous system — the network
 
 The liver handles an astonishing workload, which makes it vulnerable when things go wrong. Non-alcoholic fatty liver disease (NAFLD) — fat accumulation in the liver unrelated to heavy alcohol use — now affects roughly 25% of the global population. Its rise parallels the obesity epidemic, and it can progress to inflammation (NASH), cirrhosis, and liver cancer.
 
-Hepatitis — inflammation of the liver — has multiple causes. Hepatitis A spreads through contaminated food and water. Hepatitis B and C spread through blood and bodily fluids. Hepatitis C was once a death sentence, but since 2014, direct-acting antiviral drugs have achieved cure rates above 95% in just 8-12 weeks of treatment. That's one of modern medicine's genuine triumphs.
+Hepatitis — inflammation of the liver — has multiple causes. Hepatitis A spreads through contaminated food and water. Hepatitis B and C spread through blood and bodily fluids. Hepatitis C was once a death sentence, but since 2014, direct-[acting](/acting) antiviral drugs have achieved cure rates above 95% in just 8-12 weeks of treatment. That's one of modern medicine's genuine triumphs.
 
 ### Colorectal Cancer
 
@@ -83,7 +83,7 @@ Colorectal cancer is the third most common cancer worldwide, with approximately 
 
 This is why screening guidelines are so emphatic. The American Cancer Society lowered its recommended starting age for average-risk screening from 50 to 45 in 2018, responding to a troubling rise in colorectal cancer among younger adults — rates among people under 50 have increased by about 2% per year since the mid-1990s.
 
-## The Tools of the Trade
+## The Tools of the [Trade](/trade)
 
 ### Endoscopy
 

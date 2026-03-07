@@ -5,7 +5,7 @@ description: "Beadwork is the art of creating decorative items by sewing, weavin
 category: arts-amp-culture
 tags: ["beadwork", "beads", "craft", "jewelry making", "textile arts", "traditional crafts"]
 heroImage: "/images/articles/beadwork.webp"
-heroAlt: "Intricate Native American beadwork pattern showing geometric designs in vibrant colors"
+heroAlt: "Editorial photograph representing the concept of beadwork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Beadwork?
 
-Beadwork is the craft of creating decorative objects, garments, and art by arranging small beads — typically glass, stone, shell, bone, or seed — into patterns through sewing, weaving, stringing, or embroidery techniques. It spans virtually every human culture and dates back at least 80,000 years.
+Beadwork is the craft of creating decorative objects, garments, and art by arranging small beads — typically glass, stone, shell, bone, or seed — into patterns through sewing, [weaving](/weaving), stringing, or [embroidery](/embroidery) techniques. It spans virtually every human culture and dates back at least 80,000 years.
 
 ## Older Than Civilization
 
-The oldest known beads — perforated shell pieces from Grotte des Pigeons in Morocco — date to roughly 82,000 years ago. That makes beadwork older than agriculture, writing, pottery, and metalworking. The urge to string small objects together and wear them appears to be among humanity's most ancient behaviors.
+The oldest known beads — perforated shell pieces from Grotte des Pigeons in Morocco — date to roughly 82,000 years ago. That makes beadwork older than [agriculture](/agriculture), [writing](/writing), [pottery](/pottery), and [metalworking](/metalworking). The urge to string small objects together and wear them appears to be among humanity's most ancient behaviors.
 
 [Archaeological](/archaeology) evidence suggests that beads served as more than decoration. They functioned as currency, social markers (indicating status, clan, or marital state), spiritual protection, and trade goods. When European glass beads reached the Americas, Africa, and Asia through colonial trade networks, they didn't introduce a new concept — they provided new materials for traditions already thousands of years old.
 
@@ -83,7 +83,7 @@ Victorian England saw a craze for domestic beadwork — beaded purses, samplers,
 
 ## Contemporary Beadwork
 
-Modern beadwork has expanded far beyond jewelry and garment decoration. Artists create large-scale sculptures, wall pieces, and installations entirely from beads. The medium's ability to create fine detail through color placement — essentially pixelated imagery using physical objects — connects it to digital art in surprising ways.
+Modern beadwork has expanded far beyond jewelry and garment decoration. Artists create large-scale sculptures, wall pieces, and installations entirely from beads. The medium's ability to create fine detail through color placement — essentially pixelated imagery using physical objects — connects it to [digital art](/digital-art) in surprising ways.
 
 Social media has supercharged the craft's growth. Instagram and YouTube tutorials have created global communities of beadworkers sharing techniques, patterns, and finished pieces. What was once passed down within families and communities is now learned through online videos by people on every continent.
 

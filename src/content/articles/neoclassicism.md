@@ -5,7 +5,7 @@ description: "Neoclassicism is an art and architectural movement inspired by anc
 category: everyday-concepts
 tags: ["neoclassicism", "art history", "architecture", "classical art", "enlightenment", "sculpture"]
 heroImage: "/images/articles/neoclassicism.webp"
-heroAlt: "A grand neoclassical building with tall Corinthian columns and a triangular pediment"
+heroAlt: "Editorial photograph representing the concept of neoclassicism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Neoclassicism?
 
-Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to government buildings and political philosophy.
+Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to [government](/government) buildings and [political philosophy](/political-[philosophy](/philosophy)).
 
 ## Why It Happened When It Did
 
 Three forces converged to create Neoclassicism.
 
-First, archaeology. The buried cities of Herculaneum (rediscovered in 1738) and Pompeii (1748) gave Europeans their first direct look at ancient Roman daily life — intact frescoes, mosaics, furniture, and architecture preserved under volcanic ash. People were electrified. Suddenly, ancient Rome wasn't just something you read about in Latin texts. You could see it, touch it, walk through its streets.
+First, [archaeology](/archaeology). The buried cities of Herculaneum (rediscovered in 1738) and Pompeii (1748) gave Europeans their first direct look at ancient Roman daily life — intact frescoes, mosaics, furniture, and [architecture](/architecture) preserved under volcanic ash. People were electrified. Suddenly, ancient Rome wasn't just something you read about in Latin texts. You could see it, touch it, walk through its streets.
 
 Second, the Enlightenment. Thinkers like Voltaire, Diderot, and Rousseau championed reason, logic, and civic virtue. They admired ancient Athens and the Roman Republic as models of rational governance. Classical art — orderly, restrained, morally serious — seemed like the visual expression of Enlightenment values.
 
@@ -47,9 +47,9 @@ Third, a backlash against Rococo. By the mid-18th century, the dominant style in
 
 Neoclassical art is recognizable once you know the formula.
 
-**Painting** featured idealized human figures in classical settings, often depicting scenes from Greek and Roman history or mythology. The compositions were balanced and orderly. Colors tended toward cool, restrained palettes. Jacques-Louis David, the movement's greatest painter, captured this perfectly in *Oath of the Horatii* (1784) — three Roman brothers swearing to fight for their city, all straight lines and rigid poses conveying duty and sacrifice.
+**[Painting](/painting)** featured idealized human figures in classical settings, often depicting scenes from Greek and [Roman history](/roman-history) or [mythology](/mythology). The compositions were balanced and orderly. Colors tended toward cool, restrained palettes. Jacques-Louis David, the movement's greatest painter, captured this perfectly in *Oath of the Horatii* (1784) — three Roman brothers swearing to fight for their city, all straight lines and rigid poses conveying duty and sacrifice.
 
-**Sculpture** aimed to recreate the perfection of ancient Greek statuary. Antonio Canova was the star — his *Psyche Revived by Cupid's Kiss* (1793) achieved a marble smoothness that rivaled anything from antiquity. Neoclassical sculptors idealized the human body, removed blemishes, and strove for timeless beauty.
+**[Sculpture](/sculpture)** aimed to recreate the perfection of ancient Greek statuary. Antonio Canova was the star — his *Psyche Revived by Cupid's Kiss* (1793) achieved a marble smoothness that rivaled anything from antiquity. Neoclassical sculptors idealized the human body, removed blemishes, and strove for timeless beauty.
 
 **Architecture** was the movement's most visible legacy. Columns, pediments, domes, and symmetrical facades borrowed directly from Greek temples and Roman public buildings. The style screamed authority, permanence, and civic seriousness — which is exactly why governments adopted it enthusiastically.
 
@@ -71,11 +71,11 @@ The movement was flexible enough to serve both republics and empires — anyone 
 
 **Jean-Auguste-Dominique Ingres** (1780-1867) bridged Neoclassicism and later movements. His paintings combined classical precision with a sensuality that anticipated Romanticism.
 
-**Robert Adam** (1728-1792) applied neoclassical principles to interior design and domestic architecture in Britain, creating a lighter, more elegant version of the style that influenced everything from furniture to wallpaper.
+**Robert Adam** (1728-1792) applied neoclassical principles to [interior design](/interior-design) and domestic architecture in Britain, creating a lighter, more elegant version of the style that influenced everything from furniture to wallpaper.
 
 ## How It Faded
 
-By the early 19th century, Romanticism was rising as a counter-movement. Where Neoclassicism prized reason, order, and restraint, Romanticism celebrated emotion, individualism, and the sublime power of nature. Painters like Delacroix and Turner replaced David's cool geometry with swirling color and passionate movement.
+By the early 19th century, Romanticism was rising as a counter-movement. Where Neoclassicism prized reason, order, and restraint, Romanticism celebrated emotion, individualism, and the sublime power of nature. Painters like Delacroix and Turner replaced David's cool [geometry](/geometry) with swirling color and passionate movement.
 
 But Neoclassicism didn't disappear — it just became the establishment. Government buildings, banks, museums, and universities continued using neoclassical architecture well into the 20th century. The style's association with authority and permanence made it the default for institutions that wanted to project those qualities.
 

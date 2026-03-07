@@ -5,7 +5,7 @@ description: "Sustainable development meets present needs without compromising f
 category: everyday-concepts
 tags: ["sustainable development", "sustainability", "environment", "economics", "United Nations", "climate"]
 heroImage: "/images/articles/sustainable-development.webp"
-heroAlt: "A green cityscape blending solar panels, parks, and modern buildings"
+heroAlt: "Editorial photograph representing the concept of sustainable development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Sustainable economic development means finding ways to generate wealth without d
 
 ### Social
 
-Economic growth means nothing if its benefits only reach a small fraction of the population. The social pillar focuses on equity, health, education, human rights, and community well-being. A country with high GDP but massive inequality, poor public health, and limited access to [education](/educational-history) isn't developing sustainably.
+Economic growth means nothing if its benefits only reach a small fraction of the population. The social pillar focuses on equity, health, [education](/education), human rights, and community well-being. A country with high GDP but massive inequality, poor [public health](/public-health), and limited access to [education](/educational-history) isn't developing sustainably.
 
 This pillar also addresses gender equality, indigenous rights, labor standards, and access to clean water and sanitation — issues that affect billions of people.
 
@@ -85,7 +85,7 @@ The 17 SDGs are:
 16. Peace, Justice and Strong Institutions
 17. Partnerships for the Goals
 
-Each goal has specific targets and indicators. Progress has been uneven — significant advances in poverty reduction and access to electricity, but setbacks in climate action, biodiversity, and hunger (especially since COVID-19).
+Each goal has specific targets and indicators. Progress has been uneven — significant advances in poverty reduction and access to [electricity](/electricity), but setbacks in climate action, biodiversity, and hunger (especially since COVID-19).
 
 ## The Hard Tradeoffs
 
@@ -97,7 +97,7 @@ These aren't hypothetical dilemmas. They're the daily reality of policy decision
 
 ## What Progress Looks Like
 
-Despite the challenges, progress is real in many areas. Renewable energy costs have plummeted — solar electricity is now the cheapest source of new electricity in most of the world. Extreme poverty has declined from 36% of the global population in 1990 to under 10%. Access to clean water, education, and basic healthcare has expanded significantly.
+Despite the challenges, progress is real in many areas. [Renewable energy](/renewable-energy) costs have plummeted — solar electricity is now the cheapest source of new electricity in most of the world. Extreme poverty has declined from 36% of the global population in 1990 to under 10%. Access to clean water, education, and basic healthcare has expanded significantly.
 
 The problem is pace. On climate change in particular, the gap between what's needed and what's happening remains enormous. The 2015 Paris Agreement set a target of limiting warming to 1.5°C above pre-industrial levels. Current policies put the world on track for roughly 2.5-3°C of warming.
 

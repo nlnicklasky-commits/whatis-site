@@ -5,7 +5,7 @@ description: "Pop Art is an art movement that drew from advertising, comics, and
 category: arts-amp-culture
 tags: ["pop art", "andy warhol", "roy lichtenstein", "richard hamilton", "mass culture", "consumerism"]
 heroImage: "/images/articles/pop-art.webp"
-heroAlt: "Colorful pop art style painting with bold outlines and commercial imagery"
+heroAlt: "Editorial photograph representing the concept of pop art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pop Art?
 
-Pop Art is an art movement that emerged in the 1950s and exploded in the 1960s, pulling its imagery directly from popular culture — advertisements, comic books, consumer products, celebrities, mass media. It was a deliberate rejection of the serious, inward-looking Abstract Expressionism that dominated post-war art. Instead of tortured brushstrokes expressing the artist's inner turmoil, Pop Art gave you a soup can. A comic strip panel. Marilyn Monroe's face, repeated thirty times in different colors.
+Pop Art is an art movement that emerged in the 1950s and exploded in the 1960s, pulling its imagery directly from [popular culture](/popular-culture) — advertisements, comic books, consumer products, celebrities, mass media. It was a deliberate rejection of the serious, inward-looking Abstract Expressionism that dominated post-war art. Instead of tortured brushstrokes expressing the artist's inner turmoil, Pop Art gave you a soup can. A comic strip panel. Marilyn Monroe's face, repeated thirty times in different colors.
 
 ## The Big Idea
 
@@ -45,7 +45,7 @@ This wasn't naive celebration. There was always something else going on — iron
 
 Pop Art actually began in London, not New York. In 1956, Richard Hamilton created a small collage called *Just What Is It That Makes Today's Homes So Different, So Appealing?* — a satirical assemblage of magazine clippings showing a muscular man, a pin-up woman, a TV, a vacuum cleaner, and a giant lollipop labeled "POP." It's widely considered the first true Pop Art work.
 
-The Independent Group — a collective of artists, architects, and writers in London including Hamilton, Eduardo Paolozzi, and critic Lawrence Alloway (who coined the term "Pop Art") — had been discussing mass culture's relationship to fine art since the early 1950s. They were fascinated by American consumer culture, which felt exciting and exotic from post-war, still-rationing Britain.
+The Independent Group — a collective of artists, architects, and writers in London including Hamilton, Eduardo Paolozzi, and critic Lawrence Alloway (who coined the term "Pop Art") — had been discussing mass culture's relationship to [fine art](/fine-art) since the early 1950s. They were fascinated by American consumer culture, which felt exciting and exotic from post-war, still-rationing Britain.
 
 But it was the American artists who made Pop Art a global phenomenon.
 
@@ -63,7 +63,7 @@ His studio, The Factory, became a social hub where artists, musicians, actors, a
 
 **James Rosenquist**, a former billboard painter, created huge canvases that fragmented and reassembled commercial imagery — car grilles, spaghetti, smiling faces — into disorienting compositions. His *F-111* (1964-65) is 86 feet long and wraps around an entire gallery room.
 
-**Jasper Johns** and **Robert Rauschenberg** are sometimes classified as proto-Pop or Neo-Dada rather than pure Pop Art. Johns painted flags, targets, and numbers — familiar symbols rendered as art objects. Rauschenberg incorporated real objects (a stuffed goat, a tire, a bed) into his "combines," blurring the line between painting and sculpture.
+**Jasper Johns** and **Robert Rauschenberg** are sometimes classified as proto-Pop or Neo-Dada rather than pure Pop Art. Johns painted flags, targets, and numbers — familiar symbols rendered as art objects. Rauschenberg incorporated real objects (a stuffed goat, a tire, a bed) into his "combines," blurring the line between [painting](/painting) and [sculpture](/sculpture).
 
 ## Why the Art World Fought About It
 

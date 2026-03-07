@@ -5,7 +5,7 @@ description: "Italian is a Romance language descended from Latin, spoken by 85 m
 category: everyday-concepts
 tags: ["italian language", "Romance languages", "linguistics", "Italian culture", "Latin"]
 heroImage: "/images/articles/italian-language.webp"
-heroAlt: "Italian text on vintage signs along a narrow cobblestone street in Florence"
+heroAlt: "Editorial photograph representing the concept of italian language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Italian Language?
 
-Italian is a Romance language — meaning it descended from Latin — spoken by roughly 85 million people worldwide. It is the official language of Italy, San Marino, Vatican City, and one of four official languages of Switzerland. Beautiful, musical, and surprisingly accessible for English speakers, Italian is the fourth most studied language globally and the language of opera, art history, fashion, and some of the world's best food.
+Italian is a Romance language — meaning it descended from Latin — spoken by roughly 85 million people worldwide. It is the official language of Italy, San Marino, Vatican City, and one of four official languages of Switzerland. Beautiful, musical, and surprisingly accessible for English speakers, Italian is the fourth most studied language globally and the language of [opera](/opera), [art history](/art-history), fashion, and some of the world's best food.
 
 ## From Latin to Italian
 
@@ -39,9 +39,9 @@ Italian did not spring from Latin overnight. As the Roman Empire declined, spoke
 
 For centuries, there was no single "Italian" language. People in Naples, Venice, Milan, and Sicily spoke mutually unintelligible dialects. Latin remained the language of scholarship and the Church.
 
-The literary Tuscan dialect — the language of Dante's *Divine Comedy* (1320), Petrarch's poetry, and Boccaccio's *Decameron* — gradually became the prestige standard. Dante's decision to write in Tuscan rather than Latin was radical and influential: he demonstrated that a vernacular language could produce great literature.
+The literary Tuscan dialect — the language of Dante's *Divine [Comedy](/comedy)* (1320), Petrarch's [poetry](/poetry), and Boccaccio's *Decameron* — gradually became the prestige standard. Dante's decision to write in Tuscan rather than Latin was radical and influential: he demonstrated that a vernacular language could produce great [literature](/literature).
 
-When Italy unified politically in 1861, only about 2.5% of the population actually spoke standard Italian. Most people spoke their regional dialects. The spread of standard Italian happened through public education, military conscription, newspapers, and — most effectively — television. RAI, Italy's national broadcaster, did more to standardize Italian in the 20th century than any educational policy.
+When Italy unified politically in 1861, only about 2.5% of the population actually spoke standard Italian. Most people spoke their regional dialects. The spread of standard Italian happened through public [education](/education), military conscription, newspapers, and — most effectively — television. RAI, Italy's national broadcaster, did more to standardize Italian in the 20th century than any educational policy.
 
 ## What Italian Sounds Like
 
@@ -49,7 +49,7 @@ Italian is famously musical. Every word ends in a vowel (with rare exceptions), 
 
 Italian pronunciation is remarkably phonetic. Letters correspond consistently to sounds. If you can read the word, you can pronounce it correctly — something that cannot be said for English (consider "cough," "through," "though," and "thought"). This makes reading Italian much easier than reading English, even for beginners.
 
-## Grammar Basics
+## [Grammar](/grammar) Basics
 
 **Gendered nouns.** Every Italian noun is either masculine or feminine. Generally, nouns ending in *-o* are masculine (*libro* — book), nouns ending in *-a* are feminine (*casa* — house), and nouns ending in *-e* can be either (you have to memorize these). Adjectives must agree with the noun's gender and number.
 

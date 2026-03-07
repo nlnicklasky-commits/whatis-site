@@ -5,7 +5,7 @@ description: "Recreational flying is piloting aircraft for personal enjoyment ra
 category: sports
 tags: ["recreational flying", "aviation", "pilot", "general aviation", "aircraft", "flying"]
 heroImage: "/images/articles/recreational-flying.webp"
-heroAlt: "Small single-engine airplane flying over scenic countryside"
+heroAlt: "Editorial photograph representing the concept of recreational flying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Recreational Flying?
 
-Recreational flying is piloting an aircraft — airplane, glider, ultralight, helicopter, or balloon — for personal enjoyment rather than for commercial transport. It's part of "general aviation," which covers all civilian flying except scheduled airline service. About 600,000 active pilots hold certificates in the United States, and a significant portion fly purely for the pleasure of it. The appeal is straightforward: humans spent thousands of years dreaming of flight, and now you can actually do it.
+Recreational flying is piloting an aircraft — airplane, glider, ultralight, helicopter, or balloon — for personal enjoyment rather than for commercial transport. It's part of "general [aviation](/aviation)," which covers all civilian flying except scheduled airline service. About 600,000 active pilots hold certificates in the United States, and a significant portion fly purely for the pleasure of it. The appeal is straightforward: humans spent thousands of years dreaming of flight, and now you can actually do it.
 
 ## The Types of Recreational Flying
 
@@ -39,7 +39,7 @@ Recreational flying is piloting an aircraft — airplane, glider, ultralight, he
 
 **Light Sport Aircraft (LSA)** are smaller, lighter, and simpler. They're limited to two seats, a maximum speed of 138 mph, and daytime visual flight. The Sport Pilot certificate required to fly them has lower training requirements and doesn't require an FAA medical certificate (a valid driver's license suffices). This has opened flying to people who can't meet standard medical requirements.
 
-**Gliders** (sailplanes) have no engine. They're towed aloft by a powered aircraft, then released to soar on thermal currents, ridge lift, and wave lift. Skilled glider pilots can stay aloft for hours and cover hundreds of miles without burning a drop of fuel. Gliding is probably the purest form of flying — just you, the air, and the silence.
+**Gliders** (sailplanes) have no engine. They're towed aloft by a powered aircraft, then released to soar on thermal currents, ridge lift, and wave lift. Skilled glider pilots can stay aloft for hours and cover hundreds of miles without burning a drop of fuel. [Gliding](/gliding) is probably the purest form of flying — just you, the air, and the silence.
 
 **Ultralights** are the simplest powered aircraft — single-seat, very light, very slow. In the U.S., they require no pilot certificate at all (though training is strongly recommended). They're cheap to buy and operate but limited in capability and weather tolerance.
 
@@ -51,7 +51,7 @@ Recreational flying is piloting an aircraft — airplane, glider, ultralight, he
 
 The standard path to recreational flying in the United States:
 
-**Ground school** teaches aerodynamics, weather, navigation, regulations, and aircraft systems. This can be done in a classroom, online, or through self-study. It culminates in a written knowledge exam administered by the FAA.
+**Ground school** teaches [aerodynamics](/aerodynamics), weather, [navigation](/navigation), regulations, and aircraft systems. This can be done in a classroom, online, or through self-study. It culminates in a written knowledge exam administered by the FAA.
 
 **Flight training** with a certified flight instructor (CFI) covers takeoffs, landings, navigation, emergency procedures, instrument basics, night flying, and cross-country flying. The FAA requires a minimum of 40 hours of flight time for a private pilot certificate, including at least 20 hours with an instructor and 10 hours solo. In practice, most students need 60-75 hours.
 
@@ -65,7 +65,7 @@ Flying isn't cheap. Here's what recreational flying typically costs:
 
 - **Aircraft rental:** $120-$200 per hour for a basic single-engine airplane
 - **Fuel:** included in rental, or $5-$6 per gallon if you own (a Cessna 172 burns about 8-10 gallons per hour)
-- **Annual costs of ownership:** insurance ($1,000-$3,000), hangar or tiedown ($100-$500/month), annual inspection ($1,000-$3,000), maintenance (variable)
+- **Annual costs of ownership:** [insurance](/insurance) ($1,000-$3,000), hangar or tiedown ($100-$500/month), annual inspection ($1,000-$3,000), maintenance (variable)
 - **Buying an airplane:** used single-engine airplanes range from $30,000 for older models to $300,000+ for newer ones. New airplanes like a Cirrus SR22 cost $600,000+
 
 Many recreational pilots join flying clubs, where members share ownership of aircraft, significantly reducing per-person costs. Others rent from flight schools or FBOs (fixed-base operators) at local airports.

@@ -5,7 +5,7 @@ description: "Teratology is the study of birth defects and congenital malformati
 category: science
 tags: ["teratology", "birth defects", "congenital malformations", "teratogens"]
 heroImage: "/images/articles/teratology.webp"
-heroAlt: "A medical illustration showing stages of embryonic development with labeled developmental milestones"
+heroAlt: "Editorial photograph representing the concept of teratology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Teratology is the branch of medical science that studies the causes, mechanisms,
 
 ## The Name Is Unfortunate — But the Science Is Essential
 
-The word "teratology" comes from the Greek *teras*, meaning "monster" or "marvel." That etymology makes modern scientists wince, and for good reason — it reflects a time when birth defects were seen as omens, punishments, or curiosities rather than medical conditions with identifiable causes and, often, preventable origins.
+The word "teratology" comes from the Greek *teras*, meaning "monster" or "marvel." That [etymology](/etymology) makes modern scientists wince, and for good reason — it reflects a time when birth defects were seen as omens, punishments, or curiosities rather than medical conditions with identifiable causes and, often, preventable origins.
 
 For most of human history, that's exactly how congenital malformations were understood. Ancient Babylonian texts catalogued birth defects as portents of the future. Medieval Europeans interpreted them as signs of divine displeasure or demonic influence. Even into the 18th century, the prevailing theory of "maternal impression" held that a pregnant woman's experiences and emotions could physically deform her child — that seeing a rabbit might cause a cleft lip, for instance.
 
@@ -133,7 +133,7 @@ Proving environmental teratogenicity in humans is notoriously difficult, but sev
 
 Alcohol is the most common preventable teratogen in developed countries. Fetal alcohol spectrum disorders (FASD) affect an estimated 1-5% of children in the United States and Western Europe. The most severe form, fetal alcohol syndrome (FAS), includes facial abnormalities (smooth philtrum, thin upper lip, small eye openings), growth restriction, and intellectual disability.
 
-There is no established safe level of alcohol consumption during pregnancy. The debate about whether small amounts are truly harmful continues, but most medical organizations recommend complete abstinence. The CDC's position is unambiguous: no amount of alcohol is known to be safe during pregnancy.
+There is no established safe level of alcohol consumption during pregnancy. The [debate](/debate) about whether small amounts are truly harmful continues, but most medical organizations recommend complete abstinence. The CDC's position is unambiguous: no amount of alcohol is known to be safe during pregnancy.
 
 ### Radiation
 
@@ -203,12 +203,12 @@ Several trends are reshaping the field:
 
 **Big data approaches** are mining electronic health records and population databases to identify previously unrecognized teratogenic associations. When you can track millions of pregnancies and their outcomes alongside medication records, environmental data, and genetic information, patterns emerge that no individual study could detect.
 
-**Gene editing technologies** like CRISPR are both a tool for understanding teratogenic mechanisms (by creating animal models with specific genetic vulnerabilities) and a potential source of new teratological concerns (off-target effects of gene therapy during pregnancy).
+**Gene [editing](/editing) technologies** like CRISPR are both a tool for understanding teratogenic mechanisms (by creating animal models with specific genetic vulnerabilities) and a potential source of new teratological concerns (off-target effects of gene therapy during pregnancy).
 
 ## Why This Field Matters
 
 About 240,000 newborns die worldwide each year within the first 28 days of life from congenital anomalies, according to the WHO. Millions more survive with disabilities requiring lifelong medical care. In developed countries, birth defects are the leading cause of infant mortality.
 
-And yet — the progress has been real. Rubella vaccination eliminated congenital rubella syndrome from much of the world. Folic acid fortification prevented hundreds of thousands of neural tube defects. Drug safety testing, however imperfect, catches most teratogenic medications before they reach pregnant women. Prenatal screening allows early detection and, in some cases, fetal surgery to correct defects before birth.
+And yet — the progress has been real. Rubella vaccination eliminated congenital rubella syndrome from much of the world. Folic acid fortification prevented hundreds of thousands of neural tube defects. Drug safety testing, however imperfect, catches most teratogenic medications before they reach pregnant women. Prenatal screening allows early detection and, in some cases, fetal [surgery](/surgery) to correct defects before birth.
 
 Teratology asks a question that couldn't be more practical: what harms developing life, and how do we stop it? The name may be archaic, but the work — understanding the vulnerable biology of the unborn and protecting it from preventable harm — is as relevant and urgent as any field in [medicine](/anatomy).

@@ -5,7 +5,7 @@ description: "American football is a team sport played on a 100-yard field where
 category: sports
 tags: ["american football", "football", "nfl", "sports", "gridiron", "super bowl"]
 heroImage: "/images/articles/american-football.webp"
-heroAlt: "Football on a green field with yard line markings and stadium lights in the background"
+heroAlt: "Editorial photograph representing the concept of american football"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is American Football?
 
-American football is a team sport in which two teams of 11 players each compete on a 100-yard field, attempting to advance an oval-shaped ball into the opposing team's end zone to score points. It's the most popular spectator sport in the United States, with the Super Bowl regularly drawing over 100 million television viewers.
+American football is a team sport in which two teams of 11 players each compete on a 100-yard field, attempting to advance an oval-shaped ball into the opposing team's end zone to score points. It's the most popular spectator sport in the United States, with the Super Bowl regularly [drawing](/drawing) over 100 million television viewers.
 
 ## From Rugby Fields to Gridiron
 
@@ -51,7 +51,7 @@ The playing field is 100 yards long with a 10-yard end zone at each end. Teams s
 
 - **Touchdown (6 points)** — Carrying or catching the ball in the opponent's end zone
 - **Extra point (1 point)** — Kicking the ball through the goalposts after a touchdown
-- **Two-point conversion (2 points)** — Running or passing into the end zone after a touchdown instead of kicking
+- **Two-point conversion (2 points)** — [Running](/running) or passing into the end zone after a touchdown instead of kicking
 - **Field goal (3 points)** — Kicking the ball through the goalposts during regular play
 - **Safety (2 points)** — Tackling an opponent in their own end zone
 
@@ -95,9 +95,9 @@ The quarterback position has become more important than ever. Elite quarterbacks
 
 ## Cultural Impact
 
-Football is woven into American culture in ways that go beyond the game itself. Friday night high school games anchor small-town social life. College football Saturdays drive billions in tourism and merchandise. Sunday NFL games structure entire weekdays for millions of fans.
+Football is woven into American culture in ways that go beyond the game itself. Friday night high school games anchor small-town social life. College football Saturdays drive billions in [tourism](/tourism) and merchandise. Sunday NFL games structure entire weekdays for millions of fans.
 
-The Super Bowl halftime show is one of the most-watched musical performances on Earth. Fantasy football — where fans draft virtual teams and compete based on real player statistics — has over 60 million participants in North America and generates roughly $70 billion in annual economic activity.
+The Super Bowl halftime show is one of the most-watched musical performances on Earth. Fantasy football — where fans draft virtual teams and compete based on real player [statistics](/statistics) — has over 60 million participants in North America and generates roughly $70 billion in annual economic activity.
 
 But the sport also reflects and amplifies cultural tensions: debates about player protests, concerns about brain injuries, questions about public funding for stadiums, and the ethics of a sport that generates enormous wealth while many of its former players struggle with the physical consequences of their careers.
 
@@ -105,4 +105,4 @@ But the sport also reflects and amplifies cultural tensions: debates about playe
 
 American football remains overwhelmingly an American sport, though it's growing internationally. The NFL plays regular-season games in London, and leagues exist in Germany, Japan, Mexico, and elsewhere. But unlike [basketball](/basketball) or soccer, football faces a significant barrier to global adoption: it requires extensive equipment, large rosters, and specialized facilities that make it expensive to establish.
 
-Whether football ever becomes a truly global sport is an open question. For now, it remains something close to America's secular religion — thrilling, violent, strategic, and impossible to ignore.
+Whether football ever becomes a truly global sport is an open question. For now, it remains something close to America's secular [religion](/religion) — thrilling, violent, strategic, and impossible to ignore.

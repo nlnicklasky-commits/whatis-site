@@ -5,7 +5,7 @@ description: "Disaster preparedness means planning and preparing before emergenc
 category: everyday-concepts
 tags: ["disaster preparedness", "everyday-concepts"]
 heroImage: "/images/articles/disaster-preparedness.webp"
-heroAlt: "An organized emergency supply kit with water bottles, flashlights, first aid supplies, and canned food"
+heroAlt: "Editorial photograph representing the concept of disaster preparedness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,13 +45,13 @@ Every household should have supplies to sustain itself for at least 72 hours wit
 
 **Water** is the most critical item. One gallon per person per day — for a family of four, that's 12 gallons minimum. Dehydration kills faster than hunger. Store water in commercially sealed containers or food-grade jugs, and rotate every six months.
 
-**Food** should be non-perishable and require no cooking or refrigeration if possible. Canned goods (with a manual opener), protein bars, dried fruit, peanut butter, and crackers all work. Don't forget food for pets.
+**Food** should be non-perishable and require no [cooking](/cooking) or [refrigeration](/refrigeration) if possible. Canned goods (with a manual opener), protein bars, dried fruit, peanut butter, and crackers all work. Don't forget food for pets.
 
 **First aid supplies** go beyond adhesive bandages. Include prescription medications (a week's supply rotated regularly), pain relievers, antiseptic, gauze, medical tape, tweezers, and any specialty items your family needs — EpiPens, inhalers, insulin.
 
 **Tools and supplies** mean a flashlight (with extra batteries), a battery-powered or hand-crank radio (NOAA Weather Radio is the gold standard), a multi-tool, duct tape, plastic sheeting, a whistle (for signaling rescuers), and dust masks or N95 respirators.
 
-**Documents** are easily forgotten. Keep copies of identification, insurance policies, bank account information, and medical records in a waterproof container in your kit. Better yet, scan everything and store it in secure cloud storage.
+**Documents** are easily forgotten. Keep copies of identification, [insurance](/insurance) policies, bank account information, and medical records in a waterproof container in your kit. Better yet, scan everything and store it in secure cloud storage.
 
 ## The Family Plan
 

@@ -5,7 +5,7 @@ description: "Mortgage banking is the business of originating, funding, and serv
 category: finance
 tags: ["mortgage banking", "home loans", "real estate finance", "underwriting", "loan servicing", "interest rates"]
 heroImage: "/images/articles/mortgage-banking-hero.webp"
-heroAlt: "House keys on a signed mortgage document with a pen and calculator nearby"
+heroAlt: "Editorial photograph representing the concept of mortgage banking"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ The modern American mortgage is so ubiquitous that it's easy to forget how unusu
 
 Before the 1930s, this didn't exist. Home loans in the United States were typically 5-10 years, interest-only, with a large balloon payment due at the end. You'd need 40-50% down. Banks could call the loan at any time. When the Great Depression hit and banks demanded repayment, millions of homeowners—unable to pay the balloon—lost their homes. Foreclosure rates exceeded 50% in some cities.
 
-The federal government's response reshaped housing [finance](/finance) permanently. The Federal Housing Administration (FHA), created in 1934, introduced long-term, fixed-rate, fully amortizing mortgages with low down payments and insured them against default. The Federal National Mortgage Association (Fannie Mae), created in 1938, bought FHA-insured mortgages from banks, freeing up capital for new lending.
+The federal [government](/government)'s response reshaped housing [finance](/finance) permanently. The Federal Housing Administration (FHA), created in 1934, introduced long-term, fixed-rate, fully amortizing mortgages with low down payments and insured them against default. The Federal National Mortgage Association (Fannie Mae), created in 1938, bought FHA-insured mortgages from banks, freeing up capital for new lending.
 
 These innovations made homeownership possible for the middle class. The US homeownership rate climbed from about 44% in 1940 to 62% by 1960. Suburban development exploded. The 30-year fixed mortgage became—and remains—the defining financial product of American housing.
 
@@ -63,7 +63,7 @@ The application process involves collecting extensive documentation: income (pay
 
 2. **Capacity.** Can the borrower afford the payments? The key metric is the debt-to-income ratio (DTI)—the percentage of gross monthly income consumed by all debt payments. Conventional loans typically require DTI below 43-45%. FHA allows up to 50% in some cases.
 
-3. **Collateral.** Is the property worth enough to secure the loan? An independent appraiser determines the property's market value. The loan-to-value ratio (LTV)—the loan amount divided by the property value—is a key risk measure. Higher LTV means more risk; borrowers with less than 20% down typically must pay private mortgage insurance (PMI).
+3. **Collateral.** Is the property worth enough to secure the loan? An independent appraiser determines the property's market value. The loan-to-value ratio (LTV)—the loan amount divided by the property value—is a key risk measure. Higher LTV means more risk; borrowers with less than 20% down typically must pay private mortgage [insurance](/insurance) (PMI).
 
 ### Funding and Closing
 
@@ -71,7 +71,7 @@ Once a loan is approved, the mortgage banker funds it at closing—transferring 
 
 Mortgage bankers typically fund loans from warehouse lines of credit—short-term borrowing facilities provided by larger banks. The warehouse line is like a revolving credit card for mortgages: the banker draws funds to close each loan, then repays the line when the loan is sold to an investor. A mortgage banker might have $50-500 million in warehouse capacity, turning over multiple times per month.
 
-### Secondary Market Sales
+### Secondary Market [Sales](/sales)
 
 Here's where mortgage banking gets interesting—and where most people lose track of what's happening.
 
@@ -89,7 +89,7 @@ When a mortgage banker sells a loan to Fannie Mae, several things happen:
 - Investors buy the MBS, receiving monthly payments of principal and interest from the underlying mortgages
 - The mortgage banker often retains the servicing rights
 
-This system—originate, sell, securitize—is what makes 30-year fixed mortgages possible. No bank wants to lock up capital for 30 years at a fixed rate. But investors worldwide are happy to buy MBS yielding steady returns backed by American real estate. The secondary market connects borrowers who need 30-year loans with investors who want long-term income.
+This system—originate, sell, securitize—is what makes 30-year fixed mortgages possible. No bank wants to lock up capital for 30 years at a fixed rate. But investors worldwide are happy to buy MBS yielding steady returns backed by American [real estate](/real-estate). The secondary market connects borrowers who need 30-year loans with investors who want long-term income.
 
 ### Loan Servicing
 
@@ -119,7 +119,7 @@ Loans not insured or guaranteed by the federal government. They come in two flav
 
 - **FHA loans:** Insured by the Federal Housing Administration. Lower credit score and down payment requirements (3.5% minimum) make them popular with first-time buyers. FHA loans require mortgage insurance premiums (MIP) for the life of the loan (unless you refinance into a conventional loan).
 - **VA loans:** Guaranteed by the Department of Veterans Affairs. Available to eligible military members and veterans. Zero down payment required. No mortgage insurance. VA loans have consistently lower default rates than any other loan type.
-- **USDA loans:** Guaranteed by the Department of Agriculture for rural and suburban properties. Zero down payment. Income limits apply.
+- **USDA loans:** Guaranteed by the Department of [Agriculture](/agriculture) for rural and suburban properties. Zero down payment. Income limits apply.
 
 ### Fixed vs. Adjustable Rate
 
@@ -184,7 +184,7 @@ This cyclicality makes mortgage banking a challenging business. Companies that h
 
 Mortgage servicing rights (MSRs) have become an asset class of their own. When rates drop, MSR values fall (because loans will be refinanced and the servicing income stream shortens). When rates rise, MSR values increase (because loans stay outstanding longer, generating more servicing income). This inverse relationship to interest rates makes MSRs a natural hedge for mortgage originators—the exact economic condition that hurts origination benefits servicing.
 
-Specialized investors and servicers—including private equity firms—have built large MSR portfolios. The total US mortgage servicing market represents over $13 trillion in unpaid principal balance.
+Specialized investors and servicers—including [private equity](/private-equity) firms—have built large MSR portfolios. The total US mortgage servicing market represents over $13 trillion in unpaid principal balance.
 
 ## The Cost of a Mortgage
 

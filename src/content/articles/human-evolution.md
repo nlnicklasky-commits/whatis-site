@@ -5,7 +5,7 @@ description: "Human evolution is how our species developed from earlier primates
 category: everyday-concepts
 tags: ["human evolution", "anthropology", "biology", "fossils", "natural selection", "primates"]
 heroImage: "/images/articles/human-evolution.webp"
-heroAlt: "Timeline showing skull shapes progressing from early hominins to modern humans"
+heroAlt: "Editorial photograph representing the concept of human evolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ From that split point, multiple species of human ancestors (called **hominins**)
 
 The major trends in human evolution are:
 
-- **Bipedalism** — walking upright on two legs. This appeared early, around 4 to 6 million years ago, well before large brains.
+- **Bipedalism** — [walking](/walking) upright on two legs. This appeared early, around 4 to 6 million years ago, well before large brains.
 - **Brain expansion** — hominin brain size roughly tripled over 3 million years, from about 400 cc (similar to a chimpanzee) to about 1,400 cc in modern humans.
 - **Tool use** — stone tools appear in the archaeological record about 3.3 million years ago. Tool complexity increased over time.
 - **Language** — the timing is debated, but anatomical features enabling complex speech appear in *Homo sapiens* and possibly in Neanderthals.
@@ -61,7 +61,7 @@ The major trends in human evolution are:
 
 ## Walking Before Thinking
 
-One of the most surprising findings of paleoanthropology is that bipedalism appeared millions of years before large brains. Early hominins like *Australopithecus* walked upright but had brain sizes comparable to modern chimpanzees.
+One of the most surprising findings of [paleoanthropology](/paleoanthropology) is that bipedalism appeared millions of years before large brains. Early hominins like *Australopithecus* walked upright but had brain sizes comparable to modern chimpanzees.
 
 Why walk upright? Several hypotheses compete:
 
@@ -74,9 +74,9 @@ The answer is probably some combination of all of these, varying by environment 
 
 ## The Brain Explosion
 
-Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in evolutionary biology.
+Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in [evolutionary biology](/evolutionary-[biology](/biology)).
 
-**Meat-eating and cooking** may have fueled brain growth. Brains are metabolically expensive — yours consumes about 20% of your total energy despite being 2% of your body weight. Cooked food provides more calories per gram than raw food, potentially providing the energy surplus needed to support larger brains. Evidence of controlled fire appears around 1 million years ago.
+**Meat-eating and [cooking](/cooking)** may have fueled brain growth. Brains are metabolically expensive — yours consumes about 20% of your total energy despite being 2% of your body weight. Cooked food provides more calories per gram than raw food, potentially providing the energy surplus needed to support larger brains. Evidence of controlled fire appears around 1 million years ago.
 
 **Social complexity** may have driven brain growth. The "social brain hypothesis" proposes that managing relationships in increasingly large social groups required more cognitive capacity. Tracking alliances, detecting cheaters, and coordinating group activities all demand mental resources.
 
@@ -84,11 +84,11 @@ Hominin brain size remained relatively stable for millions of years — then gre
 
 ## We Are Not Alone (We Were Not)
 
-The discovery that modern humans interbred with Neanderthals and Denisovans rewrote the story of human evolution in the 2010s. Svante Paabo, who won the 2022 Nobel Prize in Physiology or Medicine for this work, extracted DNA from ancient bones and showed that gene flow occurred between species.
+The discovery that modern humans interbred with Neanderthals and Denisovans rewrote the story of human evolution in the 2010s. Svante Paabo, who won the 2022 Nobel Prize in [Physiology](/physiology) or Medicine for this work, extracted DNA from ancient bones and showed that gene flow occurred between species.
 
 Neanderthal genes in modern humans affect immune function, skin and hair characteristics, and even susceptibility to certain diseases. Some Neanderthal gene variants increased the risk of severe COVID-19, while others were protective — an echo from 50,000 years ago showing up in a 21st-century pandemic.
 
-Denisovans, known from just a few fossil fragments found in a Siberian cave, contributed genes that help modern Tibetans survive at high altitudes. We know more about Denisovan genetics than their physical appearance — which is a strange situation in science.
+Denisovans, known from just a few fossil fragments found in a Siberian cave, contributed genes that help modern Tibetans survive at high altitudes. We know more about Denisovan [genetics](/genetics) than their physical appearance — which is a strange situation in science.
 
 ## Evolution Is Not Finished
 
@@ -96,4 +96,4 @@ Human evolution did not stop when civilization started. Natural selection contin
 
 Recent documented adaptations include lactose tolerance (appearing about 7,500 years ago in pastoral populations), malaria resistance (sickle cell trait in regions with endemic malaria), and dietary adaptations to starch-rich diets (extra copies of the amylase gene in agricultural populations).
 
-What future evolution looks like is anyone's guess. Genetic engineering, if widely adopted, could eventually allow directed changes to the human genome — a fundamentally different process than the blind, slow mechanism of natural selection. Whether that would still count as "evolution" is a philosophical question as much as a scientific one.
+What future evolution looks like is anyone's guess. Genetic [engineering](/engineering), if widely adopted, could eventually allow directed changes to the human genome — a fundamentally different process than the blind, slow mechanism of natural selection. Whether that would still count as "evolution" is a philosophical question as much as a scientific one.

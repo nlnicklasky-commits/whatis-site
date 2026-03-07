@@ -5,7 +5,7 @@ description: "Lobbying is the act of influencing government officials on behalf 
 category: politics
 tags: ["lobbying", "politics", "government", "advocacy", "policy", "interest groups"]
 heroImage: "/images/articles/lobbying.webp"
-heroAlt: "Capitol building in Washington DC with people walking on the steps"
+heroAlt: "Editorial photograph representing the concept of lobbying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Lobbying?
 
-Lobbying is the act of attempting to influence decisions made by government officials — legislators, regulators, executives, and their staff. When a pharmaceutical company hires a firm to persuade Congress not to cap drug prices, that's lobbying. When a teachers' union writes letters urging state legislators to fund schools, that's also lobbying. When you call your senator's office about an issue you care about, you're lobbying too.
+Lobbying is the act of attempting to influence decisions made by [government](/government) officials — legislators, regulators, executives, and their staff. When a pharmaceutical company hires a firm to persuade Congress not to cap drug prices, that's lobbying. When a teachers' union writes letters urging state legislators to fund schools, that's also lobbying. When you call your senator's office about an issue you care about, you're lobbying too.
 
 The word probably comes from the lobbies of legislative buildings, where people historically gathered to catch politicians on their way to and from sessions. The practice itself is much older than the word. As long as there have been governments, people have tried to influence them.
 
@@ -39,7 +39,7 @@ The word probably comes from the lobbies of legislative buildings, where people 
 
 Professional lobbying in the U.S. typically follows a pattern:
 
-**Identify the issue.** A corporation, trade association, nonprofit, or interest group decides that a proposed law, regulation, or policy affects them — positively or negatively.
+**Identify the issue.** A corporation, [trade](/trade) association, nonprofit, or interest group decides that a proposed law, regulation, or policy affects them — positively or negatively.
 
 **Hire lobbyists.** These are professionals who know the legislative process, understand the relevant policy areas, and — crucially — have relationships with the officials involved. Many lobbyists are former legislators or government staffers. This "revolving door" between government and lobbying is one of the most criticized aspects of the system.
 
@@ -47,7 +47,7 @@ Professional lobbying in the U.S. typically follows a pattern:
 
 **Make contact.** Lobbyists meet with elected officials and their staff — often the staff, who do much of the actual policy work. They present arguments, provide data, and try to persuade. They also attend hearings, submit written comments on proposed regulations, and organize events.
 
-**Mobilize support.** Beyond direct contact, lobbying campaigns often include grassroots elements — encouraging constituents to contact their representatives, running issue advertising, building coalitions with other groups, and generating media coverage.
+**Mobilize support.** Beyond direct contact, lobbying campaigns often include grassroots elements — encouraging constituents to contact their representatives, [running](/running) issue advertising, building coalitions with other groups, and generating media coverage.
 
 **Contribute to campaigns.** This is where it gets complicated. Lobbyists and their clients frequently donate to the campaigns of politicians they're lobbying. Campaign contributions are legal and regulated, and technically separate from lobbying activity. But the connection is obvious and widely seen as problematic.
 
@@ -58,8 +58,8 @@ The numbers are staggering. In 2022, reported federal lobbying spending in the U
 The top-spending industries include:
 
 - **Pharmaceuticals and health products** — consistently the biggest spender, at over $370 million annually
-- **Insurance** — about $175 million
-- **Electronics and technology** — about $160 million
+- **[Insurance](/insurance)** — about $175 million
+- **[Electronics](/electronics) and technology** — about $160 million
 - **Oil and gas** — about $125 million
 - **Business associations** (like the U.S. Chamber of Commerce) — the Chamber alone regularly spends over $80 million per year
 
@@ -97,7 +97,7 @@ In many countries, lobbying operates more informally — through personal networ
 
 ## Reform Proposals
 
-Various reforms have been proposed: longer cooling-off periods before former officials can lobby, stricter disclosure requirements, limits on campaign contributions from lobbyists' clients, public financing of elections to reduce legislators' dependence on donor money, and expansion of ethics rules.
+Various reforms have been proposed: longer cooling-off periods before former officials can lobby, stricter disclosure requirements, limits on campaign contributions from lobbyists' clients, public financing of elections to reduce legislators' dependence on donor money, and expansion of [ethics](/ethics) rules.
 
 Progress is slow, partly because the people who would have to pass these reforms are the same people who benefit from the current system. That's the fundamental tension of lobbying reform — you're asking the lobbied to restrict the lobbyists.
 

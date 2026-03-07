@@ -5,7 +5,7 @@ description: "Flemish painting is a tradition from the Low Countries known for o
 category: everyday-concepts
 tags: ["flemish painting", "art history", "oil painting", "Jan van Eyck", "Rubens", "Northern Renaissance"]
 heroImage: "/images/articles/flemish-painting.webp"
-heroAlt: "Detail of a Flemish oil painting showing intricate fabric textures and light"
+heroAlt: "Editorial photograph representing the concept of flemish painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "The Ghent Altarpiece (completed 1432) by Hubert and Jan van Eyck is one of the most important paintings in Western art. It's a large multi-paneled polyptych in St. Bavo's Cathedral in Ghent, Belgium. It's been called the most stolen artwork in history — panels have been taken by Napoleon, the Nazis, and thieves. One panel stolen in 1934 was never recovered."
 ---
 
-# What Is Flemish Painting?
+# What Is Flemish [Painting](/painting)?
 
-Flemish painting refers to the artistic tradition that flourished in the Southern Netherlands (modern-day Belgium and parts of northern France) from the 15th through 17th centuries. It produced some of the most technically accomplished paintings in Western art history — works of such astonishing realism that contemporaries believed they were looking through windows rather than at paint on panels. The Flemish masters didn't just paint what they saw. They saw more than anyone else, and they had the technique to capture it.
+Flemish painting refers to the artistic tradition that flourished in the Southern Netherlands (modern-day Belgium and parts of northern France) from the 15th through 17th centuries. It produced some of the most technically accomplished paintings in Western [art history](/art-history) — works of such astonishing realism that contemporaries believed they were looking through windows rather than at paint on panels. The Flemish masters didn't just paint what they saw. They saw more than anyone else, and they had the technique to capture it.
 
 ## The Early Flemish Masters
 
-The tradition begins with Jan van Eyck in the early 15th century. Van Eyck didn't invent oil painting, but he transformed it into something unprecedented. By building up thin, translucent layers (glazes) of oil paint, he achieved a luminosity and depth of color that tempera and fresco couldn't match. His surfaces gleam. Fabrics look touchable. Jewels appear to catch actual light.
+The tradition begins with Jan van Eyck in the early 15th century. Van Eyck didn't invent [oil painting](/oil-painting), but he transformed it into something unprecedented. By building up thin, translucent layers (glazes) of oil paint, he achieved a luminosity and depth of color that tempera and fresco couldn't match. His surfaces gleam. Fabrics look touchable. Jewels appear to catch actual light.
 
-The *Ghent Altarpiece* (completed 1432), created with his brother Hubert, is considered one of Western art's greatest achievements. Its panels depict scenes from biblical history with a level of detail that still staggers viewers — individual blades of grass, the texture of lamb's wool, the reflection of a window in a knight's armor.
+The *Ghent Altarpiece* (completed 1432), created with his brother Hubert, is considered one of [Western art](/western-art)'s greatest achievements. Its panels depict scenes from biblical history with a level of detail that still staggers viewers — individual blades of grass, the texture of lamb's wool, the reflection of a window in a knight's armor.
 
 Van Eyck's *Arnolfini Portrait* (1434) is equally famous. The convex mirror in the background reflects the entire room, including two figures who might be witnesses to the scene. The painting is a masterclass in observation — the dog's fur, the wooden sandals, the single candle flame, the oranges on the windowsill. Nothing is generic. Everything is specific.
 
@@ -57,7 +57,7 @@ When Italian artists saw Flemish paintings, they were astonished. Antonello da M
 
 ## The Golden Age — Rubens, Van Dyck, and Company
 
-The 17th century brought a second explosion of Flemish talent. **Peter Paul Rubens** was the dominant figure — a painter of extraordinary energy, productivity, and ambition. His canvases are huge, his figures muscular and sensual, his compositions swirling with movement. Rubens ran a massive workshop with assistants and students, producing an estimated 1,400 paintings.
+The 17th century brought a second explosion of Flemish talent. **Peter Paul Rubens** was the dominant figure — a painter of extraordinary energy, [productivity](/productivity), and ambition. His canvases are huge, his figures muscular and sensual, his compositions swirling with movement. Rubens ran a massive workshop with assistants and students, producing an estimated 1,400 paintings.
 
 **Anthony van Dyck**, Rubens's most talented student, became the greatest portrait painter of his era. His elegant, flattering portraits of English aristocracy established a style that influenced portraiture for 200 years.
 

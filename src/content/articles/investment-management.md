@@ -5,7 +5,7 @@ description: "Investment management is the professional handling of securities a
 category: finance
 tags: ["investment management", "investing", "portfolio management", "wealth management", "asset management", "finance", "stocks"]
 heroImage: "/images/articles/investment-management-hero.webp"
-heroAlt: "Portfolio chart showing diversified asset allocation across stocks bonds and alternatives"
+heroAlt: "Editorial photograph representing the concept of investment management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ The answer has several layers. First, many investors lack the time, knowledge, o
 
 Second, wealthy individuals and institutions have complex needs that go beyond "buy stocks." A university endowment needs to fund scholarships in perpetuity. A pension fund needs to pay retirees decades from now. A family office needs to preserve wealth across generations while managing taxes, estate planning, and philanthropy. These problems require expertise.
 
-Third, [financial-planning](/financial-planning) is about more than investment returns. It's about understanding your goals, your timeline, your risk tolerance, and how all of your financial decisions interact. A good investment manager does more than pick stocks—they build a financial architecture that supports your life.
+Third, [financial-planning](/financial-planning) is about more than investment returns. It's about understanding your goals, your timeline, your risk tolerance, and how all of your financial decisions interact. A good investment manager does more than pick stocks—they build a financial [architecture](/architecture) that supports your life.
 
 ## The Core Concepts
 
@@ -55,7 +55,7 @@ Before diving into strategies and structures, you need to understand a few found
 
 ### Risk and Return
 
-This is the fundamental tradeoff in all of [finance](/finance). Higher expected returns come with higher risk. U.S. Treasury bonds are nearly risk-free, which is why they pay modest returns (historically around 2-4% above inflation). Stocks are volatile, which is why they've returned about 7% above inflation over the long term. Venture capital is extremely risky, which is why successful venture investments can return 10x or more.
+This is the fundamental tradeoff in all of [finance](/finance). Higher expected returns come with higher risk. U.S. Treasury bonds are nearly risk-free, which is why they pay modest returns (historically around 2-4% above inflation). Stocks are volatile, which is why they've returned about 7% above inflation over the long term. [Venture capital](/venture-capital) is extremely risky, which is why successful venture investments can return 10x or more.
 
 The crucial word there is "expected." Higher-risk investments offer higher expected returns, but those returns are not guaranteed. Many high-risk investments lose everything. The risk premium is compensation for bearing uncertainty—not a promise.
 
@@ -99,9 +99,9 @@ Active managers argue that the averages are misleading. Yes, most active manager
 
 Certain market environments favor active management. In volatile markets, during sector rotations, in less-efficient markets (small caps, international, emerging markets), and in alternative asset classes, skilled managers can add meaningful value. The key word is "skilled"—the challenge is identifying skill versus luck in advance.
 
-Active management also provides risk management that indexing doesn't. An index fund rides the market all the way down during a crash. An active manager can reduce exposure, shift to defensive positions, or hedge downside risk. Whether they actually do this consistently is debatable, but the option has real value for investors who can't tolerate large drawdowns.
+Active management also provides [risk management](/risk-management) that indexing doesn't. An index fund rides the market all the way down during a crash. An active manager can reduce exposure, shift to defensive positions, or hedge downside risk. Whether they actually do this consistently is debatable, but the option has real value for investors who can't tolerate large drawdowns.
 
-Institutional investors—pension funds, endowments, sovereign wealth funds—generally use a blend of active and passive strategies. They index in efficient markets (U.S. large-cap stocks) and use active managers in less-efficient ones (private equity, real estate, emerging markets).
+Institutional investors—pension funds, endowments, sovereign wealth funds—generally use a blend of active and passive strategies. They index in efficient markets (U.S. large-cap stocks) and use active managers in less-efficient ones ([private equity](/private-equity), real estate, emerging markets).
 
 ### The Middle Ground
 
@@ -141,7 +141,7 @@ Private equity has delivered strong historical returns—roughly 3-4% above publ
 
 ### Real Assets
 
-Real estate, infrastructure, natural resources, and commodities provide inflation protection and diversification. Real estate investment trusts (REITs) offer liquid exposure to property markets. Infrastructure funds invest in toll roads, airports, pipelines, and renewable energy projects. Commodity funds provide exposure to gold, oil, agricultural products, and metals.
+Real estate, infrastructure, natural resources, and commodities provide inflation protection and diversification. Real estate investment trusts (REITs) offer liquid exposure to property markets. Infrastructure funds invest in toll roads, airports, pipelines, and [renewable energy](/renewable-energy) projects. Commodity funds provide exposure to gold, oil, agricultural products, and metals.
 
 These asset classes behave differently from stocks and bonds, which is exactly why they're valuable in a portfolio. When inflation rises, real assets tend to hold value while bonds suffer.
 

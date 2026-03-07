@@ -5,7 +5,7 @@ description: "Mnemotechnics is the systematic practice of memory-enhancing techn
 category: everyday-concepts
 tags: ["mnemotechnics", "memory", "learning", "cognitive science", "study skills", "mnemonics"]
 heroImage: "/images/articles/mnemotechnics.webp"
-heroAlt: "Brain illustration surrounded by interconnected nodes representing memory associations"
+heroAlt: "Editorial photograph representing the concept of mnemotechnics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,11 +33,11 @@ faq:
 
 Mnemotechnics is the systematic study and application of techniques for improving memory. The word comes from the Greek "mneme" (memory) and "techne" (art or skill), and it refers to the disciplined practice of encoding, storing, and retrieving information more effectively than untrained memory allows.
 
-If "memory techniques" is the casual term, mnemotechnics is the formal one. It encompasses everything from simple acronyms to sophisticated systems like the method of loci, peg systems, and the Major system — structured approaches that memory athletes and serious students use to achieve feats of recall that seem supernatural but are actually just well-practiced skill.
+If "[memory techniques](/memory-techniques)" is the casual term, mnemotechnics is the formal one. It encompasses everything from simple acronyms to sophisticated systems like the method of loci, peg systems, and the Major system — structured approaches that memory athletes and serious students use to achieve feats of recall that seem supernatural but are actually just well-practiced skill.
 
 ## The History
 
-The ancient Greeks took memory seriously. Simonides of Ceos (circa 556-468 BCE) is traditionally credited with inventing the method of loci after reportedly identifying crushed bodies at a banquet hall collapse by remembering where each person had been sitting. The Romans refined these techniques — Cicero and Quintilian both wrote extensively about memory training as essential to oratory.
+The ancient Greeks took memory seriously. Simonides of Ceos (circa 556-468 BCE) is traditionally credited with inventing the method of loci after reportedly identifying crushed bodies at a banquet hall collapse by remembering where each person had been sitting. The Romans refined these techniques — Cicero and Quintilian both wrote extensively about memory training as essential to [oratory](/oratory).
 
 During the Middle Ages and Renaissance, elaborate mnemonic systems were developed. Ramon Llull created complex memory wheels. Giordano Bruno (later burned for heresy) developed intricate mnemonic systems involving celestial imagery. The "memory palace" was a standard tool of educated people.
 
@@ -63,7 +63,7 @@ Creating chains of associations or narratives that link items sequentially. Each
 
 ### Spaced Repetition
 
-Not a mnemonic device exactly, but a scheduling system that optimizes review timing based on the forgetting curve. Items are reviewed just before they'd be forgotten, with intervals increasing after each successful recall. This is the most empirically validated approach for long-term retention of large bodies of information.
+Not a mnemonic device exactly, but a [scheduling](/scheduling) system that optimizes review timing based on the forgetting curve. Items are reviewed just before they'd be forgotten, with intervals increasing after each successful recall. This is the most empirically validated approach for long-term retention of large bodies of information.
 
 ## Memory Sports
 
@@ -81,7 +81,7 @@ The insight from memory sports that applies to everyone: memory is a skill. Like
 
 For students: combine spaced repetition (Anki flashcards) with elaborative encoding (connecting new information to things you already know) and active recall (testing yourself rather than re-reading).
 
-For professionals: use the method of loci for presentations and speeches. Use name-face association techniques for networking. Use chunking and story methods for remembering procedures and sequences.
+For professionals: use the method of loci for presentations and speeches. Use name-face association techniques for [networking](/networking). Use chunking and story methods for remembering procedures and sequences.
 
 For daily life: create simple associations for things you need to remember — vivid, unusual images stick better than mundane ones. Place your mental reminders in specific locations. Review important information at spaced intervals rather than cramming.
 

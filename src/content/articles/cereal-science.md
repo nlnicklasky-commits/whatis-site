@@ -5,7 +5,7 @@ description: "Cereal science studies the biology, chemistry, and processing of c
 category: science
 tags: ["cereal science", "grains", "food science", "agriculture", "nutrition", "wheat", "rice", "corn"]
 heroImage: "/images/articles/cereal-science-hero.webp"
-heroAlt: "Golden wheat field at sunset with close-up of ripe grain heads"
+heroAlt: "Editorial photograph representing the concept of cereal science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -81,7 +81,7 @@ Wheat's unique place in human history comes down to two proteins: gliadin and gl
 
 Glutenin provides strength and elasticity (the dough bounces back). Gliadin provides extensibility (the dough stretches without breaking). The balance between these two properties determines what you can make. High glutenin-to-gliadin ratio produces strong bread flour. Lower ratios produce softer pastry flour.
 
-The gluten network traps carbon dioxide bubbles produced by yeast fermentation, allowing dough to rise. Without gluten, you can't make leavened bread — which is why rice bread and corn bread have fundamentally different textures. [Sourdough](/sourdough) baking involves an especially complex interaction between gluten development, fermentation, and flavor production.
+The gluten network traps carbon dioxide bubbles produced by yeast [fermentation](/fermentation), allowing dough to rise. Without gluten, you can't make leavened bread — which is why rice bread and corn bread have fundamentally different textures. [Sourdough](/sourdough) baking involves an especially complex interaction between gluten development, fermentation, and flavor production.
 
 ### Milling — Breaking the Kernel Apart
 
@@ -93,7 +93,7 @@ Extraction rate — the percentage of the kernel that ends up as flour — deter
 
 ### Baking Science
 
-Baking is applied cereal science. The [agronomy](/agronomy) of how wheat is grown, the chemistry of gluten formation, and the physics of heat transfer all converge when dough enters an oven.
+Baking is applied cereal science. The [agronomy](/agronomy) of how wheat is grown, the chemistry of gluten formation, and the physics of [heat transfer](/heat-transfer) all converge when dough enters an oven.
 
 During mixing, gluten develops as proteins hydrate and align through mechanical work. Over-mixing breaks the network (the dough becomes slack and sticky). Under-mixing leaves it underdeveloped (the bread won't rise properly).
 
@@ -145,11 +145,11 @@ The corn-to-ethanol process is straightforward: mill the corn, add enzymes to co
 
 Whether corn ethanol is a net energy and environmental benefit remains debated. Proponents point to reduced petroleum dependence and rural economic benefits. Critics note that corn agriculture is input-intensive and that the full lifecycle energy balance is marginal.
 
-### Nixtamalization — Ancient Food Chemistry
+### Nixtamalization — Ancient [Food Chemistry](/food-chemistry)
 
 Mesoamerican civilizations discovered that treating corn with alkaline solutions (traditionally lime water) dramatically improves it. Nixtamalization — soaking and cooking corn in lime water — does several things simultaneously: it loosens the hull for removal, partially gelatinizes the starch (improving texture), converts bound niacin (vitamin B3) to a bioavailable form, and adds calcium.
 
-Without nixtamalization, populations dependent on corn developed pellagra — a niacin deficiency disease that killed thousands in the American South and Europe when corn was adopted without the Native American processing technique. This is a powerful example of indigenous food science that European colonizers initially ignored, with devastating health consequences.
+Without nixtamalization, populations dependent on corn developed pellagra — a niacin deficiency disease that killed thousands in the American South and Europe when corn was adopted without the Native American processing technique. This is a powerful example of indigenous [food science](/food-science) that European colonizers initially ignored, with devastating health consequences.
 
 Tortillas, tamales, hominy, and grits all begin with nixtamalized corn. The masa (dough) produced by grinding nixtamalized corn has unique texture and flavor properties that untreated corn cannot replicate.
 
@@ -189,7 +189,7 @@ Mycotoxins — toxic compounds produced by molds growing on stored grain — are
 
 ### Gluten-Related Disorders
 
-The prevalence of celiac disease and non-celiac gluten sensitivity has driven enormous research into gluten biochemistry, detection, and the development of gluten-free products. Analytical methods for detecting gluten at parts-per-million levels are critical for food safety labeling.
+The prevalence of celiac disease and non-celiac gluten sensitivity has driven enormous research into gluten [biochemistry](/biochemistry), detection, and the development of gluten-free products. Analytical methods for detecting gluten at parts-per-million levels are critical for food safety labeling.
 
 Developing wheat varieties with reduced immunotoxicity — varieties that retain baking quality but don't trigger celiac reactions — is an active but difficult research area. The gluten proteins responsible for celiac disease are the same proteins that give wheat dough its unique properties.
 
@@ -197,4 +197,4 @@ Developing wheat varieties with reduced immunotoxicity — varieties that retain
 
 Every bite of bread, every bowl of rice, every corn tortilla represents thousands of years of accumulated knowledge about how grains work — how to grow them, process them, and turn them into food that sustains human life.
 
-Cereal science isn't glamorous. It doesn't make headlines the way genetics or artificial intelligence does. But it addresses a question more fundamental than any other in applied science: how do we feed 8 billion people? And as climate change, population growth, and shifting diets put increasing pressure on the grain supply, the answers cereal science provides will matter more with each passing decade.
+Cereal science isn't glamorous. It doesn't make headlines the way genetics or [artificial intelligence](/artificial-intelligence) does. But it addresses a question more fundamental than any other in applied science: how do we feed 8 billion people? And as climate change, population growth, and shifting diets put increasing pressure on the grain supply, the answers cereal science provides will matter more with each passing decade.

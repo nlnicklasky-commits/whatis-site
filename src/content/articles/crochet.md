@@ -5,7 +5,7 @@ description: "Crochet is a fiber craft using a hooked needle to create fabric fr
 category: everyday-concepts
 tags: ["crochet", "everyday-concepts"]
 heroImage: "/images/articles/crochet.webp"
-heroAlt: "Colorful yarn balls and a crochet hook next to a partially finished blanket"
+heroAlt: "Editorial photograph representing the concept of crochet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Crochet is a fiber craft that uses a single hooked needle to interloop yarn or t
 
 ## The One Thing Nobody Can Machine-Make
 
-Here's something remarkable about crochet that separates it from nearly every other textile craft: it cannot be replicated by machines. [Knitting](/knitting) has been mechanized since the 16th century. Weaving was mechanized during the Industrial Revolution. But the complex, three-dimensional looping motion of crochet has resisted every attempt at automation.
+Here's something remarkable about crochet that separates it from nearly every other textile craft: it cannot be replicated by machines. [Knitting](/knitting) has been mechanized since the 16th century. [Weaving](/weaving) was mechanized during the Industrial Revolution. But the complex, three-dimensional looping motion of crochet has resisted every attempt at automation.
 
 This means every single crocheted item in existence was made by a human being. That granny square afghan at your grandmother's house? Handmade. The amigurumi stuffed animal on Etsy? Handmade. The lace collar on a Victorian dress in a museum? Handmade. There is no other way.
 
@@ -53,7 +53,7 @@ Crochet builds from a surprisingly small set of fundamental stitches.
 
 **Treble crochet (tr):** Even taller, creating a very open, lacy fabric. Used in decorative patterns and lacework.
 
-From these five stitches, combined with variations in placement, grouping, and sequence, you can create thousands of patterns. The mathematical structure of crochet is genuinely interesting — mathematicians have used crochet to model hyperbolic geometry because the craft naturally produces the curved, ruffled surfaces that hyperbolic planes require.
+From these five stitches, combined with variations in placement, grouping, and sequence, you can create thousands of patterns. The mathematical structure of crochet is genuinely interesting — mathematicians have used crochet to model hyperbolic [geometry](/geometry) because the craft naturally produces the curved, ruffled surfaces that hyperbolic planes require.
 
 ## A Fuzzy History
 
@@ -65,11 +65,11 @@ By the late 19th century, crochet was a standard domestic skill taught to girls 
 
 ## The Modern Renaissance
 
-Crochet is having a moment. Ravelry (the craft community platform) has over 9 million members. Crochet-related content generates billions of views on YouTube and TikTok. Yarn sales have grown consistently, and the demographic of crafters has shifted younger and more diverse.
+Crochet is having a moment. Ravelry (the craft community platform) has over 9 million members. Crochet-related content generates billions of views on YouTube and TikTok. Yarn [sales](/sales) have grown consistently, and the demographic of crafters has shifted younger and more diverse.
 
-Several factors drive this revival. **Social media** makes learning easy — video tutorials on YouTube have replaced the grandmother-teaches-granddaughter transmission model. **Sustainability** appeals — making your own items from natural fibers feels better than buying fast fashion. **Mental health** benefits are real — the repetitive motions of crochet have been compared to meditation, and studies suggest craft activities reduce stress and anxiety.
+Several factors drive this revival. **Social media** makes learning easy — video tutorials on YouTube have replaced the grandmother-teaches-granddaughter transmission model. **Sustainability** appeals — making your own items from natural fibers feels better than buying fast fashion. **[Mental health](/mental-health)** benefits are real — the repetitive motions of crochet have been compared to [meditation](/meditation), and studies suggest craft activities reduce stress and anxiety.
 
-**Amigurumi** — the Japanese art of crocheting small stuffed creatures — has become hugely popular, combining crochet technique with sculpting and character design. The results are genuinely adorable, and the projects are small enough to complete quickly, providing regular hits of creative satisfaction.
+**Amigurumi** — the [Japanese art](/japanese-art) of crocheting small stuffed creatures — has become hugely popular, combining crochet technique with sculpting and character design. The results are genuinely adorable, and the projects are small enough to complete quickly, providing regular hits of creative satisfaction.
 
 ## Getting Started
 

@@ -5,7 +5,7 @@ description: "Cognitive psychology studies how people perceive, remember, think,
 category: science
 tags: ["cognitive psychology", "psychology", "cognition", "mental processes", "memory", "attention", "problem-solving"]
 heroImage: "/images/articles/cognitive-psychology-hero.webp"
-heroAlt: "Abstract visualization of mental processes including gears, lightbulbs, and neural connections"
+heroAlt: "Editorial photograph representing the concept of cognitive psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "No single person founded it, but Ulric Neisser is often called the 'father of cognitive psychology' after publishing his 1967 book 'Cognitive Psychology.' Other key figures include George Miller (working memory), Noam Chomsky (language), Herbert Simon and Allen Newell (problem-solving), and Donald Broadbent (attention)."
 ---
 
-# What Is Cognitive Psychology?
+# What Is Cognitive [Psychology](/psychology)?
 
 Cognitive psychology is the branch of psychology that studies internal mental processes — how people perceive the world, store and retrieve memories, learn language, solve problems, make decisions, and direct their attention. Unlike earlier approaches that focused only on observable behavior, cognitive psychology treats the mind as an information-processing system that can be studied through carefully designed experiments.
 
@@ -49,7 +49,7 @@ This worked fine for studying rats pressing levers and pigeons pecking keys. But
 
 The cracks appeared in the 1950s. Three developments shattered behaviorism's dominance.
 
-First, Noam Chomsky published a devastating review of B.F. Skinner's book on language in 1959. Chomsky argued that children don't learn language through reinforcement and imitation — they acquire it because the human brain has built-in language-processing architecture. Children produce sentences they've never heard before. A two-year-old who says "I goed to the store" is applying grammatical rules (past tense = add -ed), not imitating adults. No behaviorist mechanism could explain this.
+First, Noam Chomsky published a devastating review of B.F. Skinner's book on language in 1959. Chomsky argued that children don't learn language through reinforcement and imitation — they acquire it because the human brain has built-in language-processing [architecture](/architecture). Children produce sentences they've never heard before. A two-year-old who says "I goed to the store" is applying grammatical rules (past tense = add -ed), not imitating adults. No behaviorist mechanism could explain this.
 
 Second, George Miller published "The Magical Number Seven, Plus or Minus Two" in 1956, demonstrating that working memory has a specific, measurable capacity — about seven items (later revised to about four "chunks"). This was a direct study of internal mental architecture, exactly the kind of work behaviorists said was impossible.
 
@@ -111,7 +111,7 @@ Donald Broadbent proposed the first major theory of attention in 1958. His "filt
 
 But then Neville Moray showed that people *do* notice their own name in the unattended ear — the "cocktail party effect." If attention completely blocks unattended information, how could you detect your name? Anne Treisman proposed an attenuation model: unattended information isn't blocked entirely but is turned down, like reducing volume. Important stimuli (your name) have low detection thresholds and can break through even when attenuated.
 
-Later researchers like Deutsch and Deutsch argued for "late selection" — all information is processed for meaning, but only attended information reaches consciousness and memory. The debate continues, but most current models suggest attention is flexible: sometimes early, sometimes late, depending on task demands and available cognitive resources.
+Later researchers like Deutsch and Deutsch argued for "late selection" — all information is processed for meaning, but only attended information reaches consciousness and memory. The [debate](/debate) continues, but most current models suggest attention is flexible: sometimes early, sometimes late, depending on task demands and available cognitive resources.
 
 ### Inattentional Blindness
 
@@ -127,7 +127,7 @@ Inattentional blindness has real-world implications. Radiologists scanning for t
 
 ### How People Solve Problems
 
-Herbert Simon and Allen Newell pioneered the study of problem-solving by having people think aloud while working through problems. They discovered that people don't examine all possible solutions — that would be computationally impossible for most real-world problems. Instead, people use heuristics: mental shortcuts that usually work well enough.
+Herbert Simon and Allen Newell pioneered the study of problem-solving by having people think aloud while working through problems. They discovered that people don't examine all possible solutions — that would be computationally impossible for most real-world problems. Instead, people use [heuristics](/heuristics): mental shortcuts that usually work well enough.
 
 **Means-ends analysis** involves identifying the difference between your current state and your goal state, then taking actions to reduce that difference. **Hill climbing** means always moving in the direction that seems to make the most immediate progress. **Working backward** means starting from the goal and reasoning backward to find a path from the starting point.
 
@@ -159,7 +159,7 @@ Garden-path sentences reveal how these processes interact: "The horse raced past
 
 ## Cognitive Psychology's Real-World Impact
 
-### Education
+### [Education](/education)
 
 Cognitive psychology has identified several study techniques that dramatically improve learning, based on how memory actually works rather than how students think it works.
 
@@ -173,7 +173,7 @@ Most students intuitively prefer the least effective strategies (re-reading, hig
 
 ### Cognitive Behavioral Therapy
 
-CBT, developed by Aaron Beck in the 1960s, applies cognitive psychology's insights about thought patterns to mental health treatment. The core insight: emotional distress is often maintained by distorted thinking patterns — cognitive distortions.
+CBT, developed by Aaron Beck in the 1960s, applies cognitive psychology's insights about thought patterns to [mental health](/mental-health) treatment. The core insight: emotional distress is often maintained by distorted thinking patterns — cognitive distortions.
 
 A depressed person might think "I failed this test, therefore I'm a total failure" (overgeneralization) or "Everyone is judging me" (mind reading). CBT teaches patients to identify these distortions, evaluate them against evidence, and develop more balanced thinking patterns.
 
@@ -187,11 +187,11 @@ Every well-designed website, app, or product reflects cognitive psychology princ
 
 Good design reduces cognitive load — the total mental effort required to use a product. When an interface feels "intuitive," what that really means is that its design matches the user's existing mental models and doesn't overload working memory.
 
-### Artificial Intelligence
+### [Artificial Intelligence](/artificial-intelligence)
 
 Cognitive psychology directly inspired [machine learning](/machine-learning) and AI research. Early AI researchers tried to build systems that solved problems the way humans do — using heuristics, search strategies, and symbolic representations that came straight from cognitive psychology experiments.
 
-Modern AI has diverged from human cognition in many ways (deep neural networks don't think like humans), but cognitive psychology continues to influence AI through concepts like attention mechanisms, working memory architectures, and transfer learning. And AI, in turn, provides computational models that cognitive psychologists use to formalize and test their theories.
+Modern AI has diverged from human cognition in many ways (deep [neural networks](/neural-networks) don't think like humans), but cognitive psychology continues to influence AI through concepts like attention mechanisms, working memory architectures, and transfer learning. And AI, in turn, provides computational models that cognitive psychologists use to formalize and test their theories.
 
 ## The Limits and Criticisms
 

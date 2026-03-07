@@ -5,7 +5,7 @@ description: "Industrial psychology applies psychological science to workplaces.
 category: science
 tags: ["industrial psychology", "organizational psychology", "i-o psychology", "human resources", "workplace", "employee well-being", "performance management"]
 heroImage: "/images/articles/industrial-psychology-hero.webp"
-heroAlt: "Professional workplace setting with people collaborating in a modern office environment"
+heroAlt: "Editorial photograph representing the concept of industrial psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Industrial Psychology?
 
-Industrial psychology — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological research methods to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire? How should we train them? What makes teams work well? Why do people quit?
+Industrial psychology — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological [research methods](/research-methods) to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire? How should we train them? What makes teams work well? Why do people quit?
 
 ## The Science of Work (Not Just Common Sense)
 
@@ -59,7 +59,7 @@ But the field really took off during World War I. The U.S. Army needed to rapidl
 
 Between 1924 and 1932, researchers at Western Electric's Hawthorne Works near Chicago conducted a series of experiments that accidentally became some of the most famous studies in social science.
 
-The original goal was simple: figure out how lighting levels affect factory worker productivity. The surprising finding was that productivity increased no matter what the researchers changed — brighter lights, dimmer lights, shorter hours, longer hours. Workers seemed to perform better simply because they were being studied and paid attention to.
+The original goal was simple: figure out how lighting levels affect factory worker [productivity](/productivity). The surprising finding was that productivity increased no matter what the researchers changed — brighter lights, dimmer lights, shorter hours, longer hours. Workers seemed to perform better simply because they were being studied and paid attention to.
 
 The "Hawthorne effect" — performance improvement driven by observation and attention rather than the experimental variable — became a foundational concept. But the studies' broader importance was demonstrating that workplace productivity isn't just about physical conditions. Social factors — group norms, supervisor relationships, workers' sense of being valued — matter enormously.
 
@@ -77,7 +77,7 @@ Before you can hire the right person, you need to know what the job actually req
 
 Job analysis is the systematic process of identifying the specific tasks, responsibilities, knowledge, skills, and abilities a position requires. I-O psychologists use structured interviews with incumbents and supervisors, task inventories, observation, and statistical analysis to build accurate job profiles.
 
-A thorough job analysis might reveal that a "customer service representative" position requires conflict resolution skills, tolerance for repetition, typing speed above 60 WPM, and knowledge of the company's product line — but not the "5 years of experience" and "bachelor's degree required" that the original job posting demanded. Basing selection criteria on evidence rather than tradition changes who gets hired — usually for the better.
+A thorough job analysis might reveal that a "customer service representative" position requires [conflict resolution](/conflict-resolution) skills, tolerance for repetition, typing speed above 60 WPM, and knowledge of the company's product line — but not the "5 years of experience" and "bachelor's degree required" that the original job posting demanded. Basing selection criteria on evidence rather than tradition changes who gets hired — usually for the better.
 
 ### Personnel Selection
 
@@ -153,7 +153,7 @@ Culture is "the way things work around here" — the shared assumptions, values,
 
 I-O psychologists study culture through surveys, interviews, and behavioral observation. Key dimensions include innovation orientation (how much risk is encouraged), people orientation (how much the organization values employees), outcome orientation (how much results matter versus process), and stability orientation (how much change is embraced versus resisted).
 
-Culture change is one of the hardest problems in organizational psychology. Culture is self-reinforcing — organizations hire people who fit the existing culture, promote those who embody it, and push out those who challenge it. Changing culture requires changing leadership behavior, incentive structures, hiring criteria, and daily practices simultaneously. It takes years, not months.
+Culture change is one of the hardest problems in [organizational psychology](/organizational-psychology). Culture is self-reinforcing — organizations hire people who fit the existing culture, promote those who embody it, and push out those who challenge it. Changing culture requires changing leadership behavior, incentive structures, hiring criteria, and daily practices simultaneously. It takes years, not months.
 
 ### Workplace Well-Being
 
@@ -173,7 +173,7 @@ Many I-O psychologists work as consultants, helping organizations design selecti
 
 The fastest-growing area of applied I-O psychology, enabled by [machine learning](/machine-learning) and modern analytics platforms. Organizations now collect enormous amounts of employee data — engagement surveys, performance metrics, communication patterns, turnover rates, hiring funnel statistics. People analytics applies statistical methods to this data to identify patterns and predict outcomes.
 
-Which interview questions actually predict performance? What factors drive voluntary turnover? Which teams are at risk of burnout? People analytics answers these questions with data rather than opinion. Google's Project Oxygen, which used data analysis to identify the behaviors of effective managers, is perhaps the most famous example.
+Which interview questions actually predict performance? What factors drive voluntary turnover? Which teams are at risk of burnout? People analytics answers these questions with data rather than opinion. Google's Project Oxygen, which used [data analysis](/data-analysis) to identify the behaviors of effective managers, is perhaps the most famous example.
 
 But analytics without psychology is dangerous. Correlation isn't causation. Algorithms can encode and amplify biases present in historical data. Surveillance concerns arise when employee behavior is monitored too closely. I-O psychologists bring the theoretical knowledge and [ethical](/ethics) framework needed to use people data responsibly.
 

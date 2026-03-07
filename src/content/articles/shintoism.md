@@ -5,7 +5,7 @@ description: "Shinto is Japan's indigenous spiritual tradition centered on kami 
 category: philosophy
 tags: ["shinto", "japan", "religion", "kami", "spirituality", "nature worship", "ritual"]
 heroImage: "/images/articles/shintoism-hero.webp"
-heroAlt: "Traditional vermilion torii gate leading to a Shinto shrine surrounded by forest"
+heroAlt: "Editorial photograph representing the concept of shintoism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -73,7 +73,7 @@ The total number of kami is traditionally given as *yaoyorozu* — "eight millio
 
 ### Kami Are Not Moral Absolutes
 
-Here's where Shinto diverges sharply from Abrahamic religions: kami are not inherently good or evil. They're powerful, and power can be beneficial or destructive depending on context. A river kami brings irrigation and life but can also flood and kill. A fire kami warms homes and cooks food but can burn cities.
+Here's where Shinto diverges sharply from Abrahamic religions: kami are not inherently good or evil. They're powerful, and power can be beneficial or destructive depending on context. A river kami brings [irrigation](/irrigation) and life but can also flood and kill. A fire kami warms homes and cooks food but can burn cities.
 
 This means Shinto doesn't have a concept of absolute evil. There's no Satan figure, no original sin, no cosmic battle between good and evil. What exists instead is purity and impurity — states that shift based on circumstances and can be addressed through ritual.
 
@@ -91,13 +91,13 @@ This is why purification rituals are everywhere in Shinto:
 
 **Misogi** — purification through standing under a waterfall or bathing in a river or the sea. This is the most intense form of personal purification, and it connects to the myth of Izanagi purifying himself in a river after visiting the land of the dead.
 
-**Oharai** — purification of new things before use. A new car, a new building, a new business — all can receive Shinto purification ceremonies. The ground-breaking ceremony (*jichinsai*) before constructing a building is performed by Shinto priests at nearly every construction site in Japan, including for secular and government buildings.
+**Oharai** — purification of new things before use. A new car, a new building, a new business — all can receive Shinto purification ceremonies. The ground-breaking ceremony (*jichinsai*) before constructing a building is performed by Shinto priests at nearly every [construction](/construction) site in Japan, including for secular and [government](/government) buildings.
 
 ## The Shrine: Sacred Space
 
 Shinto shrines (*jinja*) are the physical anchor points of Shinto practice. Japan has roughly 80,000 registered shrines — from tiny roadside *hokora* (miniature shrines) to vast complexes like Ise Grand Shrine, which covers 5,500 hectares of forest.
 
-### Architecture and Features
+### [Architecture](/architecture) and Features
 
 The **torii gate** is the most recognizable Shinto symbol — a gate marking the transition from the profane world to sacred space. The most common form is two upright pillars with two horizontal crossbeams, painted vermilion. Some shrines have a single torii. Fushimi Inari Shrine in Kyoto has roughly 10,000, creating iconic tunnels of red gates winding up the mountainside.
 
@@ -135,7 +135,7 @@ Most people visit shrines for specific purposes: *hatsumode* (the first shrine v
 
 Shinto festivals (*matsuri*) are the most visible expressions of Shinto in public life. Nearly every neighborhood, town, and city has its own shrine festival, typically held annually.
 
-The core of most matsuri is the *mikoshi* — a portable shrine carried through the streets on the shoulders of dozens of participants, accompanied by chanting, drumming, and sometimes elaborate floats. The mikoshi carries the kami out of the shrine and through the community, blessing the neighborhood with its presence.
+The core of most matsuri is the *mikoshi* — a portable shrine carried through the streets on the shoulders of dozens of participants, accompanied by chanting, [drumming](/drumming), and sometimes elaborate floats. The mikoshi carries the kami out of the shrine and through the community, blessing the neighborhood with its presence.
 
 Some famous matsuri draw millions of visitors: Gion Matsuri in Kyoto (dating to 869 CE, with enormous wheeled floats), Tenjin Matsuri in Osaka (featuring a river procession of illuminated boats), and Sanja Matsuri in Tokyo (where over 100 mikoshi are carried through the streets of Asakusa in a riotous celebration).
 
@@ -149,13 +149,13 @@ The logic went like this: kami and Buddhas are not competing entities. Kami are 
 
 This coexistence meant that most Japanese people practiced both traditions simultaneously without seeing any contradiction. Shinto handled life celebrations — births, coming-of-age ceremonies, weddings, seasonal festivals. [Buddhism](/buddhism) handled death — funerals, memorial services, and questions about the afterlife. The common saying captures it: "Born Shinto, die Buddhist."
 
-The Meiji government forcibly separated Shinto and Buddhism in 1868 (the *shinbutsu bunri* edict), destroying thousands of Buddhist structures within shrine complexes and creating the artificial distinction between "Shinto" and "Buddhist" practice that exists today. Many scholars argue this separation distorted both traditions and created the misleading impression that Shinto was always a distinct, independent religion.
+The Meiji government forcibly separated Shinto and Buddhism in 1868 (the *shinbutsu bunri* edict), destroying thousands of Buddhist structures within shrine complexes and creating the artificial distinction between "Shinto" and "Buddhist" practice that exists today. Many scholars argue this separation distorted both traditions and created the misleading impression that Shinto was always a distinct, independent [religion](/religion).
 
 ## State Shinto: The Dark Chapter
 
 The Meiji government (1868-1912) transformed Shinto from a diverse folk tradition into a state ideology. State Shinto promoted the emperor as a living god descended from Amaterasu, Japanese national identity as uniquely sacred, and Japan's imperial expansion as divinely sanctioned.
 
-Shrine priests became government employees. Shinto education became mandatory in schools. The Yasukuni Shrine, dedicated to Japan's war dead, became a focal point of militarist ideology. Shinto symbols were weaponized to justify aggression across Asia.
+Shrine priests became government employees. Shinto [education](/education) became mandatory in schools. The Yasukuni Shrine, dedicated to Japan's war dead, became a focal point of militarist ideology. Shinto symbols were weaponized to justify aggression across Asia.
 
 After Japan's defeat in 1945, the American occupation dismantled State Shinto through the Shinto Directive, which separated religion from government and stripped shrines of state support. Emperor Hirohito publicly renounced his divine status in the *Ningen-sengen* ("Declaration of Humanity") on January 1, 1946.
 
@@ -189,7 +189,7 @@ Some scholars call this "belonging without believing" or "practice without faith
 
 ## Shinto's Quiet Influence
 
-You encounter Shinto's influence even if you've never set foot in Japan. The Japanese [aesthetic](/aesthetics) sensibility — wabi-sabi (the beauty of imperfection and impermanence), the careful presentation of food, the art of flower arrangement, the design philosophy of companies like Muji — has Shinto roots. The reverence for craftsmanship, where a swordsmith or sake brewer treats their work as a spiritual practice, reflects Shinto's conviction that kami inhabit well-made things.
+You encounter Shinto's influence even if you've never set foot in Japan. The Japanese [aesthetic](/aesthetics) sensibility — wabi-sabi (the beauty of imperfection and impermanence), the careful presentation of food, the art of flower arrangement, the design [philosophy](/philosophy) of companies like Muji — has Shinto roots. The reverence for craftsmanship, where a swordsmith or sake brewer treats their work as a spiritual practice, reflects Shinto's conviction that kami inhabit well-made things.
 
 Marie Kondo's tidying method — keeping only objects that "spark joy" and thanking discarded items for their service — is recognizably Shinto in its assumption that objects have a kind of spiritual significance. The environmental design principle of working with nature rather than against it, visible in Japanese gardens and architecture, stems from the same worldview.
 

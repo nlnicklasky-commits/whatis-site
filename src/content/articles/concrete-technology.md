@@ -5,7 +5,7 @@ description: "Concrete technology is the science of designing, mixing, placing, 
 category: technology
 tags: ["construction", "engineering", "materials science", "civil engineering", "building materials", "concrete", "cement"]
 heroImage: "/images/articles/concrete-technology-hero.webp"
-heroAlt: "Fresh concrete being poured from a mixer truck at a construction site with reinforcement bars visible"
+heroAlt: "Editorial photograph representing the concept of concrete technology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Concrete Technology?
 
-Concrete technology is the branch of engineering and materials science devoted to the design, production, placement, and maintenance of concrete — a composite material made from cement, water, and aggregates (sand and gravel) that, after hardening, becomes the most widely used construction material on the planet. Humanity pours roughly 14 billion cubic meters of concrete annually — about 1.7 cubic meters for every person on Earth.
+Concrete technology is the branch of [engineering](/engineering) and [materials science](/materials-science) devoted to the design, production, placement, and maintenance of concrete — a composite material made from cement, water, and aggregates (sand and gravel) that, after hardening, becomes the most widely used [construction](/construction) material on the planet. Humanity pours roughly 14 billion cubic meters of concrete annually — about 1.7 cubic meters for every person on Earth.
 
 ## Why Concrete Runs the World
 
@@ -173,7 +173,7 @@ Using lightweight aggregates (expanded clay, shale, or slate) or foaming agents 
 
 ### Pervious Concrete
 
-Pervious (porous) concrete allows water to pass through, reducing stormwater runoff. It uses little or no fine aggregate, leaving interconnected voids between coarse aggregate particles. Used for parking lots, sidewalks, and low-traffic areas where stormwater management is important.
+Pervious (porous) concrete allows water to pass through, reducing stormwater runoff. It uses little or no fine aggregate, leaving interconnected voids between coarse aggregate particles. Used for parking lots, sidewalks, and low-traffic areas where stormwater [management](/management) is important.
 
 ### 3D-Printed Concrete
 
@@ -183,13 +183,13 @@ The technology is still maturing — layer adhesion, reinforcement integration, 
 
 ## The Environmental Challenge
 
-Here's the uncomfortable truth: cement production is responsible for approximately 8% of global CO2 emissions — roughly 2.8 billion tons per year. That's more than the entire aviation industry.
+Here's the uncomfortable truth: cement production is responsible for approximately 8% of global CO2 emissions — roughly 2.8 billion tons per year. That's more than the entire [aviation](/aviation) industry.
 
 About 60% of cement's CO2 comes from the chemical process itself — heating limestone releases CO2 as calcium carbonate decomposes into calcium oxide. The remaining 40% comes from burning fuel to heat kilns to 1,450 degrees Celsius. You can't fix the process emissions by switching to [renewable energy](/alternative-energy) alone.
 
 ### Reducing Concrete's Carbon Footprint
 
-**Supplementary cementitious materials (SCMs)** — replacing 20-50% of Portland cement with fly ash (from coal power plants), GGBS (from steel production), calcined clay, or natural pozzolans. These materials react with byproducts of cement hydration to form additional binding phases, often improving durability while reducing cement content.
+**Supplementary cementitious materials (SCMs)** — replacing 20-50% of Portland cement with fly ash (from coal power plants), GGBS (from [steel production](/steel-production)), calcined clay, or natural pozzolans. These materials react with byproducts of cement hydration to form additional binding phases, often improving durability while reducing cement content.
 
 **LC3 (Limestone Calcined Clay Cement)** — a promising low-carbon cement that replaces up to 50% of clinker with a combination of calcined clay and limestone. It can be produced with existing equipment and local materials, making it viable for developing countries.
 
@@ -199,7 +199,7 @@ About 60% of cement's CO2 comes from the chemical process itself — heating lim
 
 **Alternative binders** — geopolymer cements use industrial byproducts activated by alkaline solutions instead of Portland cement, potentially reducing emissions by 80%. Adoption is limited by material availability and lack of long-term performance data.
 
-**Efficient structural design** — using less concrete through optimized designs. Topology optimization (using [algorithms](/algorithms) to find the minimum material needed for a given load) can reduce concrete volumes by 30-50% while maintaining structural performance.
+**Efficient structural design** — using less concrete through optimized designs. [Topology](/topology) [optimization](/optimization) (using [algorithms](/algorithms) to find the minimum material needed for a given load) can reduce concrete volumes by 30-50% while maintaining structural performance.
 
 ## Testing and Quality Control
 

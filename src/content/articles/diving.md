@@ -5,7 +5,7 @@ description: "Diving includes scuba, free diving, and competitive platform divin
 category: sports
 tags: ["diving", "sports"]
 heroImage: "/images/articles/diving.webp"
-heroAlt: "A scuba diver exploring a colorful coral reef with tropical fish swimming nearby"
+heroAlt: "Editorial photograph representing the concept of diving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Diving is the practice of entering water from a height or submerging yourself be
 
 ## Underwater Diving: Scuba
 
-Scuba stands for Self-Contained Underwater Breathing Apparatus — a term coined in the 1950s for the equipment that lets humans breathe underwater. Jacques Cousteau and Emile Gagnan co-invented the modern demand regulator (the Aqua-Lung) in 1943, which delivered air only when the diver inhaled rather than flowing continuously. This single invention opened the ocean to recreational exploration.
+Scuba stands for Self-Contained Underwater Breathing Apparatus — a term coined in the 1950s for the equipment that lets humans breathe underwater. Jacques Cousteau and Emile Gagnan co-invented the modern demand regulator (the Aqua-Lung) in 1943, which delivered air only when the diver inhaled rather than flowing continuously. This single [invention](/invention) opened the ocean to recreational exploration.
 
 Today, approximately 6 million active scuba divers operate worldwide, with roughly 1 million new certifications issued annually. PADI (Professional Association of Diving Instructors) is the largest certification organization, training about 70% of the world's divers.
 
@@ -43,7 +43,7 @@ The basic equipment list is substantial: mask, snorkel, fins, wetsuit or drysuit
 
 What draws people underwater? The experience is genuinely otherworldly. Weightlessness, silence (mostly), alien landscapes, and wildlife encounters that can't happen on land. Seeing a manta ray glide past at arm's length, hovering over a coral reef teeming with life, or exploring a century-old shipwreck — these experiences are addictive in ways that are hard to explain to non-divers.
 
-## The Physics You Need to Know
+## The [Physics](/physics) You Need to Know
 
 Diving involves physics that can hurt you if you don't understand them.
 
@@ -57,7 +57,7 @@ Diving involves physics that can hurt you if you don't understand them.
 
 Free diving strips away the equipment. One breath, no tank. Humans have been doing this for at least 7,000 years — archaeological evidence of free-diving shell gatherers exists across the Mediterranean, Pacific Islands, and East Asia. Japan's Ama divers (traditionally women) have harvested shellfish and pearls by breath-hold diving for over 2,000 years.
 
-Modern competitive free diving pushes human physiology to its limits. The current "No Limits" depth record is 214 meters (702 feet) — deeper than the height of a 60-story building, achieved on a single breath of air. The mammalian dive reflex — a set of physiological responses that slow heart rate, redirect blood to vital organs, and increase the blood's oxygen-carrying capacity — helps make this possible.
+Modern competitive free diving pushes [human physiology](/human-[physiology](/physiology)) to its limits. The current "No Limits" depth record is 214 meters (702 feet) — deeper than the height of a 60-story building, achieved on a single breath of air. The mammalian dive reflex — a set of physiological responses that slow heart rate, redirect blood to vital organs, and increase the blood's oxygen-carrying capacity — helps make this possible.
 
 Training focuses on relaxation, breath-hold technique, and mental control rather than equipment mastery. A skilled free diver can hold their breath for 5-10 minutes at rest and 3-5 minutes while actively diving. The static breath-hold record is over 24 minutes.
 
@@ -75,6 +75,6 @@ China has dominated competitive diving since the 2000 Olympics, winning roughly 
 
 The world's top scuba destinations read like a tropical vacation brochure: Australia's Great Barrier Reef, Indonesia's Raja Ampat, Egypt's Red Sea, the Galapagos Islands, Palau, the Maldives, and Belize's Blue Hole. Each offers different attractions — walls, wrecks, pelagics, macro life, or pristine coral.
 
-But you don't need to travel to the tropics. Kelp forests off California, Great Lakes shipwrecks, cenotes (underground cave systems) in Mexico, and cold-water destinations like Iceland and Norway offer spectacular diving. Some of the world's most dramatic underwater photography comes from cold, nutrient-rich waters where marine life is abundant.
+But you don't need to travel to the tropics. Kelp forests off California, Great Lakes shipwrecks, cenotes (underground cave systems) in Mexico, and cold-water destinations like Iceland and Norway offer spectacular diving. Some of the world's most dramatic [underwater photography](/underwater-photography) comes from cold, nutrient-rich waters where marine life is abundant.
 
 Diving connects you to an environment that covers 71% of Earth's surface but remains largely unexplored. More people have stood on the summit of Mount Everest than have visited the deepest parts of the ocean. Every dive is an expedition into territory that most humans will never see firsthand.

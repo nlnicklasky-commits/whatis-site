@@ -5,7 +5,7 @@ description: "Abstract algebra studies algebraic structures like groups, rings, 
 category: science
 tags: ["abstract algebra", "mathematics", "group theory", "rings", "fields", "math", "algebra"]
 heroImage: "/images/articles/abstract-algebra-hero.webp"
-heroAlt: "Geometric shapes and mathematical symbols representing abstract algebraic structures"
+heroAlt: "Editorial photograph representing the concept of abstract algebra"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -84,7 +84,7 @@ Groups are the first structure you encounter in abstract algebra, and frankly, t
 
 Groups capture the essence of symmetry. And symmetry, it turns out, is everywhere.
 
-In physics, the Standard Model of particle physics — our best description of how the universe works at the smallest scales — is built on group theory. The symmetry groups SU(3) × SU(2) × U(1) describe the strong force, weak force, and electromagnetic force. Particle physicists predicted the existence of the Higgs boson using group-theoretic arguments *decades* before it was experimentally confirmed in 2012 at CERN's Large Hadron Collider.
+In physics, the Standard Model of [particle physics](/particle-physics) — our best description of how the universe works at the smallest scales — is built on group theory. The symmetry groups SU(3) × SU(2) × U(1) describe the strong force, weak force, and electromagnetic force. Particle physicists predicted the existence of the Higgs boson using group-theoretic arguments *decades* before it was experimentally confirmed in 2012 at CERN's Large Hadron Collider.
 
 In chemistry, group theory classifies molecular symmetries, predicts which chemical reactions are possible, and explains spectroscopic data. Crystallographers use space groups — there are exactly 230 of them in three dimensions — to classify every possible crystal structure.
 
@@ -190,19 +190,19 @@ Every digital communication system uses error-correcting codes built on abstract
 
 The Standard Model of particle physics — the theory describing three of the four fundamental forces — is formulated entirely in the language of group theory. The gauge symmetries SU(3), SU(2), and U(1) dictate which particles exist, how they interact, and what conservation laws they obey.
 
-When physicists at CERN discovered the Higgs boson in 2012, they were confirming a prediction made by the group-theoretic structure of the Standard Model. The entire framework of quantum field theory is inseparable from abstract algebra.
+When physicists at CERN discovered the Higgs boson in 2012, they were confirming a prediction made by the group-theoretic structure of the Standard Model. The entire framework of [quantum field theory](/quantum-field-theory) is inseparable from abstract algebra.
 
-In chemistry, the 32 crystallographic point groups classify the symmetry of crystals. The 230 space groups classify all possible three-dimensional crystal structures. Drug design, materials science, and solid-state physics all use these group-theoretic classifications daily.
+In chemistry, the 32 crystallographic point groups classify the symmetry of crystals. The 230 space groups classify all possible three-dimensional crystal structures. Drug design, [materials science](/materials-science), and [solid-state physics](/solid-state-physics) all use these group-theoretic classifications daily.
 
-### Computer Science and [Machine Learning](/machine-learning)
+### [Computer Science](/computer-science) and [Machine Learning](/machine-learning)
 
 Abstract algebra shows up throughout computer science. [Machine learning](/machine-learning) models increasingly incorporate algebraic structure — equivariant neural networks use group theory to build symmetry directly into neural network architectures, dramatically reducing the amount of training data needed.
 
-Formal verification of software, database query optimization, and programming language design all use algebraic concepts. The algebraic structure of data types in functional programming languages like Haskell is directly inspired by category theory, which itself grew out of abstract algebra.
+Formal verification of software, database query optimization, and programming language design all use algebraic concepts. The algebraic structure of data types in [functional programming](/functional-programming) languages like Haskell is directly inspired by category theory, which itself grew out of abstract algebra.
 
-Computer graphics use group theory for transformations — rotations, reflections, translations, and scaling of 3D objects are described by matrix groups. Game engines and animation software implement these algebraic operations millions of times per second.
+[Computer graphics](/computer-graphics) use group theory for transformations — rotations, reflections, translations, and scaling of 3D objects are described by matrix groups. Game engines and animation software implement these algebraic operations millions of times per second.
 
-### Quantum Computing
+### [Quantum Computing](/quantum-computing)
 
 Quantum computing is built on linear algebra over the complex field, with quantum gates represented as elements of unitary groups. Quantum error-correcting codes — essential for building practical quantum computers — use algebraic structures including stabilizer codes derived from group theory.
 

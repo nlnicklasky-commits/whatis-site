@@ -5,7 +5,7 @@ description: "Scientific writing communicates research findings with precision a
 category: science
 tags: ["scientific communication", "research writing", "academic writing", "technical writing", "research paper"]
 heroImage: "/images/articles/scientific-writing-hero.webp"
-heroAlt: "Research manuscript pages alongside a laptop showing a journal submission portal"
+heroAlt: "Editorial photograph representing the concept of scientific writing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,13 +37,13 @@ faq:
 
 # What Is Scientific Writing?
 
-Scientific writing is a form of technical communication that reports the methods, results, and interpretation of scientific research to other scientists and, increasingly, to the broader public. Its defining characteristics are precision, clarity, logical structure, and evidence-based argumentation. Every sentence exists to convey specific information, and every claim is either supported by data or properly attributed to its source.
+Scientific writing is a form of technical communication that reports the methods, results, and interpretation of scientific research to other scientists and, increasingly, to the broader public. Its defining characteristics are precision, clarity, logical structure, and evidence-based [argumentation](/argumentation). Every sentence exists to convey specific information, and every claim is either supported by data or properly attributed to its source.
 
 About 3 million scientific papers are published annually across roughly 30,000 peer-reviewed journals worldwide. That number has been growing at approximately 5-6% per year for decades. The volume creates both opportunity and challenge: more knowledge is being shared than ever before, but finding and reading the relevant fraction of it is a real problem. Writing clearly and concisely isn't just a nicety—it's an ethical obligation to the readers who are investing their limited time in your work.
 
 ## Why Scientific Writing Has Its Own Rules
 
-Scientific writing isn't creative writing with lab data inserted. It's a distinct genre with conventions that exist for specific reasons. Understanding those reasons—rather than blindly following the rules—is the difference between writing that merely complies and writing that actually communicates.
+Scientific writing isn't [creative writing](/creative-writing) with lab data inserted. It's a distinct genre with conventions that exist for specific reasons. Understanding those reasons—rather than blindly following the rules—is the difference between writing that merely complies and writing that actually communicates.
 
 ### Precision Over Elegance
 
@@ -222,7 +222,7 @@ Your most important finding should be prominent—in the title, in the abstract,
 
 ### Ignoring the Audience
 
-Writing for a specialized biochemistry journal is different from writing for a broad-audience journal like *Nature* or *Science*. Know your audience's background and adjust your level of explanation accordingly. Don't explain PCR to a molecular biology audience, but do explain it for a general science audience.
+Writing for a specialized biochemistry journal is different from writing for a broad-audience journal like *Nature* or *Science*. Know your audience's background and adjust your level of explanation accordingly. Don't explain PCR to a [molecular biology](/molecular-biology) audience, but do explain it for a general science audience.
 
 ## Writing for Non-Scientists
 
@@ -230,7 +230,7 @@ Scientific writing increasingly extends beyond journal articles. Grant proposals
 
 The principles shift: jargon must be replaced with plain language, context must be provided more extensively, analogies become essential, and the "so what?" question must be addressed directly. The challenge is communicating accurately without oversimplifying—a difficult balance that many scientists never master.
 
-Science journalism plays a critical intermediary role, and scientists who can communicate their own work clearly to the public have an enormous advantage in securing funding, influencing policy, and advancing their careers.
+[Science journalism](/science-journalism) plays a critical intermediary role, and scientists who can communicate their own work clearly to the public have an enormous advantage in securing funding, influencing policy, and advancing their careers.
 
 ## Tools and Technology
 
@@ -238,7 +238,7 @@ Modern scientific writing involves software at every stage:
 
 **Reference managers** (Zotero, Mendeley, EndNote) organize citations and automatically format bibliographies. They save enormous time and reduce formatting errors.
 
-**LaTeX** is the standard typesetting system in mathematics, physics, and computer science. It handles equations, figures, and references with precision that word processors can't match. The learning curve is steep but the output is beautiful.
+**LaTeX** is the standard typesetting system in mathematics, physics, and [computer science](/computer-science). It handles equations, figures, and references with precision that word processors can't match. The learning curve is steep but the output is beautiful.
 
 **Collaborative writing tools** (Overleaf for LaTeX, Google Docs, Microsoft 365) enable multi-author writing with real-time editing, commenting, and version tracking. Given that the average scientific paper has 5-6 authors, collaboration tools are essential.
 

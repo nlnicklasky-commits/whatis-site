@@ -5,7 +5,7 @@ description: "Paleobotany studies fossil plants and their evolution over 470+ mi
 category: science
 tags: ["paleobotany", "fossil plants", "plant evolution", "paleontology", "botany", "paleoecology", "paleoclimate"]
 heroImage: "/images/articles/paleobotany-hero.webp"
-heroAlt: "Detailed fossil imprint of ancient fern fronds preserved in dark shale rock"
+heroAlt: "Editorial photograph representing the concept of paleobotany"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Paleobotany is the study of fossil plants—their anatomy, ecology, evolution, a
 
 ## Why Fossil Plants Matter More Than You'd Think
 
-Plants don't get the same public attention as dinosaurs. Nobody's lining up to see a fossilized fern frond at the museum. But here's the thing: plants transformed this planet more dramatically than any animal group ever has.
+Plants don't get the same public attention as [dinosaurs](/dinosaurs). Nobody's lining up to see a fossilized fern frond at the museum. But here's the thing: plants transformed this planet more dramatically than any animal group ever has.
 
 Plants colonized land around 470 million years ago. Before that, the continents were essentially barren rock and soil crust with some microbial mats. Once plants took hold, everything changed. They broke down rocks into soil. They pulled CO2 out of the atmosphere and pumped oxygen in. They created habitats that allowed animals to follow them onto land. They built the coal deposits that powered the Industrial Revolution—and the carbon that's now warming our climate.
 
@@ -95,7 +95,7 @@ The evolution of seeds opened up drier habitats that spore-bearing plants couldn
 
 The most dramatic botanical revolution was the rise of flowering plants (angiosperms). Darwin called their rapid diversification an "abominable mystery" because it seemed to happen so fast—and honestly, it's still not fully solved.
 
-Angiosperms appeared in the fossil record around 130-140 million years ago and by 90 million years ago dominated most terrestrial ecosystems. Today they account for roughly 90% of all living plant species—about 300,000 species. Their secret weapons were flowers (enabling animal-mediated pollination), fruits (enabling animal-mediated seed dispersal), and faster growth rates than competing conifers and ferns.
+Angiosperms appeared in the fossil record around 130-140 million years ago and by 90 million years ago dominated most terrestrial ecosystems. Today they account for roughly 90% of all living plant species—about 300,000 species. Their secret weapons were flowers (enabling animal-mediated [pollination](/pollination)), fruits (enabling animal-mediated seed dispersal), and faster growth rates than competing conifers and ferns.
 
 The co-evolution between flowering plants and their pollinators—insects, birds, bats—is one of the great stories in [evolutionary biology](/evolutionary-biology). Paleobotanists trace this relationship through fossil flowers, fossil insects with pollen on their bodies, and the co-occurrence patterns of plant and pollinator groups through time.
 
@@ -165,7 +165,7 @@ Here's where paleobotany becomes uncomfortably relevant. The current rate of atm
 
 During the Eocene (about 50 million years ago), CO2 levels were roughly 800-1,000 ppm—not far from where we might end up by 2100 under high-emission scenarios. Forests grew at both poles. There were no ice caps. Sea levels were roughly 70 meters higher than today. Palm trees grew in Wyoming and crocodiles lived above the Arctic Circle.
 
-The vegetation was completely different from today's. The distribution of biomes—where forests, grasslands, and deserts exist—would be unrecognizable. Paleobotany tells us that vegetation zones will shift dramatically if we continue on our current trajectory, with consequences for agriculture, water cycles, and biodiversity that dwarf anything in recorded human history.
+The vegetation was completely different from today's. The distribution of biomes—where forests, grasslands, and deserts exist—would be unrecognizable. Paleobotany tells us that vegetation zones will shift dramatically if we continue on our current trajectory, with consequences for [agriculture](/agriculture), water cycles, and biodiversity that dwarf anything in recorded human history.
 
 ## Why Study Fossil Plants?
 

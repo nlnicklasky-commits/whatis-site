@@ -5,7 +5,7 @@ description: "Archery is the skill of shooting arrows with a bow. Learn about it
 category: sports
 tags: ["archery", "bow and arrow", "marksmanship", "target sports", "olympics", "hunting"]
 heroImage: "/images/articles/archery.webp"
-heroAlt: "Archer at full draw aiming a recurve bow at a target in an outdoor range"
+heroAlt: "Editorial photograph representing the concept of archery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Archery is the practice of using a bow to propel arrows toward a target. It's on
 
 ## 70,000 Years of Aiming
 
-The bow and arrow is one of the most significant inventions in human history. Stone arrowheads found in South Africa date to approximately 70,000 years ago. By the time civilizations emerged in Mesopotamia, Egypt, and China, archery was central to both hunting and military strategy.
+The bow and arrow is one of the most significant inventions in human history. Stone arrowheads found in South Africa date to approximately 70,000 years ago. By the time civilizations emerged in Mesopotamia, Egypt, and China, archery was central to both hunting and [military strategy](/military-strategy).
 
 The English longbow dominated medieval European battlefields. At the Battle of Agincourt in 1415, roughly 5,000 English longbowmen devastated a French army several times their size, launching volleys of arrows that could penetrate armor at 200 yards. Training an effective longbowman took years — so much time that English law required regular practice, and skeletal remains of medieval archers show distinctive bone deformations from decades of drawing heavy bows.
 
@@ -85,8 +85,8 @@ Arrow speed, weight, spine stiffness, and point weight all interact to determine
 
 ## Why People Love It
 
-Archery's appeal is unusual among sports. It's simultaneously ancient and modern, physical and meditative. The act of drawing a bow, anchoring, aiming, and releasing requires you to quiet your mind and control your body in a way that's genuinely calming. Many archers describe it as moving meditation — similar to what practitioners of [yoga](/yoga) or martial arts experience.
+Archery's appeal is unusual among sports. It's simultaneously ancient and modern, physical and meditative. The act of drawing a bow, anchoring, aiming, and releasing requires you to quiet your mind and control your body in a way that's genuinely calming. Many archers describe it as moving [meditation](/meditation) — similar to what practitioners of [yoga](/yoga) or [martial arts](/martial-arts) experience.
 
 It's also remarkably accessible. People of almost any age and [physical ability](/fitness) can participate. Adaptive archery programs serve athletes with disabilities, and the sport features prominently in the Paralympic Games. Equipment costs for beginners are modest — a decent starter recurve bow runs $100-200 — and many communities have archery clubs or ranges with rental equipment.
 
-The resurgence of archery in popular culture — *The Hunger Games*, *Brave*, Marvel's Hawkeye — drove participation spikes in the 2010s. Many of those new archers stuck with it, discovering what people have known for thousands of years: there's something deeply satisfying about putting an arrow exactly where you wanted it to go.
+The resurgence of archery in [popular culture](/popular-culture) — *The Hunger Games*, *Brave*, Marvel's Hawkeye — drove participation spikes in the 2010s. Many of those new archers stuck with it, discovering what people have known for thousands of years: there's something deeply satisfying about putting an arrow exactly where you wanted it to go.

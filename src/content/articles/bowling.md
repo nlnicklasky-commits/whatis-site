@@ -5,7 +5,7 @@ description: "Bowling is a sport where players roll a heavy ball down a lane to 
 category: everyday-concepts
 tags: ["bowling", "sports", "recreation", "pins", "lanes", "strike"]
 heroImage: "/images/articles/bowling.webp"
-heroAlt: "Bowling ball rolling down a polished lane toward ten white pins under colorful lights"
+heroAlt: "Editorial photograph representing the concept of bowling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,15 +59,15 @@ Straight balls work fine for beginners, but competitive bowlers throw hooks — 
 
 Modern reactive resin bowling balls have a coverstock (surface material) designed to grip the lane when it encounters friction. The oiled portion of the lane causes the ball to skid straight. When the ball reaches the drier back section, the coverstock grabs the lane surface and the ball's rotation converts into a curving path.
 
-The ideal entry angle into the pins is approximately 6 degrees — between the 1-pin and the 3-pin (for right-handers). This angle maximizes pin action, where falling pins knock into other pins like dominoes. A straight ball entering at 0 degrees has much less pin action, which is why hook bowlers score higher on average.
+The ideal entry angle into the pins is approximately 6 degrees — between the 1-pin and the 3-pin (for right-handers). This angle maximizes pin action, where falling pins knock into other pins like [dominoes](/dominoes). A straight ball entering at 0 degrees has much less pin action, which is why hook bowlers score higher on average.
 
-Ball construction matters enormously. The internal weight block (core) determines how the ball rotates. Asymmetric cores produce more aggressive hooks. Surface roughness affects friction. Professional bowlers carry multiple balls to match different lane conditions.
+Ball [construction](/construction) matters enormously. The internal weight block (core) determines how the ball rotates. Asymmetric cores produce more aggressive hooks. Surface roughness affects friction. Professional bowlers carry multiple balls to match different lane conditions.
 
 ## League Bowling vs. Recreational
 
 League bowling — organized teams competing weekly over a season — was the backbone of the sport for decades. League participation peaked around 1980 and has declined significantly since, though millions of Americans still bowl in leagues.
 
-Recreational bowling (also called open bowling) has evolved in the opposite direction. Modern bowling centers feature cosmic bowling (blacklights, music, special effects), arcade games, restaurants, and bar areas. The experience is less about the sport and more about entertainment — a shift that keeps bowling centers profitable even as competitive participation declines.
+Recreational bowling (also called open bowling) has evolved in the opposite direction. Modern bowling centers feature cosmic bowling (blacklights, music, [special effects](/special-effects)), arcade games, restaurants, and bar areas. The experience is less about the sport and more about entertainment — a shift that keeps bowling centers profitable even as competitive participation declines.
 
 Professional bowling exists through the PBA (Professional Bowlers Association) Tour. Prize money has grown but remains modest compared to major sports — top professional bowlers earn $200,000-500,000 annually. ESPN broadcasts PBA events, and the sport has a dedicated fan base.
 

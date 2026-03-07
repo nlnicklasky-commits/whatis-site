@@ -5,7 +5,7 @@ description: "Fashion history studies how clothing, textiles, and style have cha
 category: history
 tags: ["fashion", "clothing", "costume", "cultural history", "textiles"]
 heroImage: "/images/articles/fashion-history.webp"
-heroAlt: "A timeline display of historic garments from ancient draped robes to modern tailored clothing"
+heroAlt: "Editorial photograph representing the concept of fashion history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Fashion History?
 
-Fashion history is the academic study of how clothing, accessories, and personal adornment have evolved over time — and what those changes reveal about the societies that produced them. It's part art history, part social science, and part detective work.
+Fashion history is the academic study of how clothing, accessories, and personal adornment have evolved over time — and what those changes reveal about the societies that produced them. It's part [art history](/art-history), part social science, and part detective work.
 
 ## More Than Just Pretty Dresses
 
@@ -75,7 +75,7 @@ The [feudal](/feudalism) social structure itself shaped clothing norms. Nobles n
 
 Paris became the capital of fashion in the 17th century, largely thanks to Louis XIV. The Sun King understood something his contemporaries didn't: fashion was an economic weapon. He invested heavily in French textile and luxury goods industries, turning fashion into France's most lucrative export. The strategy worked so well that France still dominates the global luxury fashion market today — that's over 350 years of continuous cultural dominance.
 
-### Charles Frederick Worth and Haute Couture
+### Charles Frederick Worth and [Haute Couture](/haute-couture)
 
 The modern fashion industry arguably begins with one man: Charles Frederick Worth, an Englishman working in Paris. In the 1850s, he became the first designer to sew his label into garments, create seasonal collections shown on live models, and dictate to his clients what they should wear rather than simply executing their orders. Before Worth, dressmakers were artisans. After Worth, designers were artists.
 
@@ -87,7 +87,7 @@ The 20th century compressed more fashion change into 100 years than the previous
 
 **1920s.** Women's hemlines rose dramatically for the first time in Western history. The flapper silhouette — dropped waist, straight lines, shorter skirts — wasn't just a fashion choice. It was a declaration of independence, arriving alongside women's suffrage and entry into the workforce.
 
-**1940s.** World War II imposed rationing that reshaped fashion by necessity. Fabric restrictions led to shorter skirts, narrower silhouettes, and the disappearance of decorative extras. Women entered factories and adopted practical workwear. When Christian Dior launched his extravagant "New Look" in 1947 — nipped waists, full skirts, lavish fabric use — it was a deliberate rejection of wartime austerity.
+**1940s.** [World War II](/world-war-ii) imposed rationing that reshaped fashion by necessity. Fabric restrictions led to shorter skirts, narrower silhouettes, and the disappearance of decorative extras. Women entered factories and adopted practical workwear. When Christian Dior launched his extravagant "New Look" in 1947 — nipped waists, full skirts, lavish fabric use — it was a deliberate rejection of wartime austerity.
 
 **1960s.** Youth culture seized control of fashion for the first time. Mary Quant's miniskirt, Yves Saint Laurent's Le Smoking tuxedo for women, and the explosion of street style in London's Carnaby Street all signaled that fashion no longer flowed exclusively from elite designers downward. It could bubble up from the streets.
 
@@ -107,12 +107,12 @@ The backlash has been growing. Sustainable fashion, slow fashion, secondhand mar
 
 Fashion history might sound like a soft discipline, but the methodology is rigorous. Researchers work with:
 
-- **Surviving garments.** Major collections exist at the Met's Costume Institute, the V&A in London, the Kyoto Costume Institute, and FIT in New York. Dating and authenticating textiles involves fiber analysis, dye testing, and construction analysis.
+- **Surviving garments.** Major collections exist at the Met's Costume Institute, the V&A in London, the Kyoto Costume Institute, and FIT in New York. Dating and authenticating textiles involves fiber analysis, dye testing, and [construction](/construction) analysis.
 - **Visual sources.** Paintings, photographs, fashion plates, and advertisements provide evidence of what people actually wore — or at least what they wanted to be seen wearing. There's always a gap between aspirational imagery and everyday reality.
 - **Written records.** Inventories, wills, account books, letters, diaries, sumptuary laws, and trade records all provide evidence about clothing production, cost, and social significance.
 - **Material culture analysis.** Examining the physical construction of garments — seam types, fabric grain, finishing techniques — reveals information about manufacturing technology and labor practices.
 
-The field intersects with [art history](/aesthetics), economic history, gender studies, postcolonial studies, and material science. It's genuinely interdisciplinary.
+The field intersects with [art history](/aesthetics), [economic history](/economic-history), gender studies, [postcolonial studies](/postcolonial-studies), and material science. It's genuinely interdisciplinary.
 
 ## Why Fashion History Matters Now
 

@@ -5,7 +5,7 @@ description: "Sign language is a visual language using hand shapes, facial expre
 category: language
 tags: ["sign language", "asl", "bsl", "deaf culture", "communication", "linguistics"]
 heroImage: "/images/articles/sign-language.webp"
-heroAlt: "Two people communicating through sign language with expressive hand gestures and facial expressions"
+heroAlt: "Editorial photograph representing the concept of sign language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Sign Language?
 
-Sign language is a complete, natural language that uses hand shapes, facial expressions, body posture, and spatial grammar to convey meaning. It's not a visual version of English (or any spoken language) — it's an entirely independent linguistic system with its own grammar, syntax, vocabulary, and rules. American Sign Language (ASL) has about as much in common with spoken English as spoken Japanese does.
+Sign language is a complete, natural language that uses hand shapes, facial expressions, body posture, and spatial [grammar](/grammar) to convey meaning. It's not a visual version of English (or any spoken language) — it's an entirely independent linguistic system with its own grammar, [syntax](/syntax), vocabulary, and rules. American Sign Language (ASL) has about as much in common with spoken English as spoken Japanese does.
 
-There are over 300 sign languages worldwide, each developed independently within deaf communities and as linguistically complete as any spoken language. They can express anything spoken languages can — humor, poetry, abstract philosophy, scientific concepts, sarcasm, and profanity.
+There are over 300 sign languages worldwide, each developed independently within deaf communities and as linguistically complete as any spoken language. They can express anything spoken languages can — humor, [poetry](/poetry), abstract [philosophy](/philosophy), scientific concepts, sarcasm, and profanity.
 
-## The Linguistics
+## The [Linguistics](/linguistics)
 
-This is where most people's understanding of sign language falls apart. Sign languages aren't pantomime, they aren't "signing English word by word," and they aren't simplified communication systems. They are full languages.
+This is where most people's understanding of sign language falls apart. Sign languages aren't [pantomime](/pantomime), they aren't "signing English word by word," and they aren't simplified communication systems. They are full languages.
 
-**Grammar** in ASL differs fundamentally from English. ASL uses a topic-comment structure rather than English's subject-verb-object order. "The cat is black" becomes something closer to "CAT BLACK" — topic first, comment second. Time is indicated at the beginning of a statement (past events are signed slightly behind the body, future events in front). This isn't simplified English — it's a different grammatical system with its own internal logic.
+**Grammar** in ASL differs fundamentally from English. ASL uses a topic-comment structure rather than English's subject-verb-object order. "The cat is black" becomes something closer to "CAT BLACK" — topic first, comment second. Time is indicated at the beginning of a statement (past events are signed slightly behind the body, future events in front). This isn't simplified English — it's a different grammatical system with its own internal [logic](/logic).
 
 **Facial expression** is grammar, not decoration. Raised eyebrows mark yes/no questions. Furrowed brows mark wh-questions (who, what, where). Puffed cheeks indicate large size. A slightly protruding tongue means something was done carelessly. Remove the facial grammar and you change or destroy the meaning — like removing intonation from spoken language.
 
@@ -59,7 +59,7 @@ British Sign Language developed independently from a different set of historical
 
 ## The Milan Conference and Its Aftermath
 
-In 1880, the International Congress on Education of the Deaf in Milan passed a resolution declaring that spoken language instruction was superior to sign language for educating deaf children. Most delegates were hearing educators; deaf educators were largely excluded from voting.
+In 1880, the International Congress on [Education](/education) of the Deaf in Milan passed a resolution declaring that spoken language instruction was superior to sign language for educating deaf children. Most delegates were hearing educators; deaf educators were largely excluded from voting.
 
 The Milan resolution had devastating consequences. Sign language was banned from deaf schools across Europe and North America. Deaf teachers were fired. Students were punished for signing. For roughly 100 years, deaf education was dominated by "oralism" — forcing deaf children to lip-read and speak, with varying and often poor results.
 
@@ -73,7 +73,7 @@ Understanding sign language means understanding deaf culture — the social norm
 
 Deaf culture views deafness not as a disability to be fixed but as a difference that shapes a rich cultural identity. This perspective contrasts sharply with the medical model of deafness, which frames it as a condition requiring treatment. The tension between these views plays out in debates about cochlear implants, deaf education methods, and social inclusion.
 
-Deaf culture has distinctive social norms. Eye contact during signing is essential — looking away is roughly equivalent to covering your ears during a spoken conversation. Getting someone's attention involves waving, tapping, or flashing lights rather than calling out. Storytelling and narrative are particularly valued art forms in deaf communities.
+Deaf culture has distinctive social norms. Eye contact during signing is essential — looking away is roughly equivalent to covering your ears during a spoken conversation. Getting someone's attention involves waving, tapping, or flashing lights rather than calling out. [Storytelling](/storytelling) and narrative are particularly valued art forms in deaf communities.
 
 Deaf humor often plays on visual puns and the unique features of sign language — jokes that work in sign but can't be translated into spoken language, much like spoken puns can't be translated into sign. This untranslatability is itself evidence of sign language's linguistic independence.
 

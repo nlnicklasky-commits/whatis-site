@@ -5,7 +5,7 @@ description: "Veterinary medicine prevents, diagnoses, and treats disease in ani
 category: science
 tags: ["veterinary medicine", "animal health", "biology", "medicine"]
 heroImage: "/images/articles/veterinary-medicine.webp"
-heroAlt: "Veterinarian examining a golden retriever on an exam table in a modern clinic"
+heroAlt: "Editorial photograph representing the concept of veterinary medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

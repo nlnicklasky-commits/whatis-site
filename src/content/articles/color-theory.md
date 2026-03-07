@@ -5,7 +5,7 @@ description: "Color theory explains how colors interact, combine, and affect per
 category: arts-amp-culture
 tags: ["color theory", "color", "art", "design", "visual arts", "hue"]
 heroImage: "/images/articles/color-theory.webp"
-heroAlt: "A color wheel surrounded by paint swatches and mixing palettes on an artist's table"
+heroAlt: "Editorial photograph representing the concept of color theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Color Theory?
 
-Color theory is the body of principles that explains how colors relate to each other, how they mix, and how they affect human perception and emotion. It's part physics, part biology, part psychology — and it governs everything from Renaissance paintings to your phone's user interface.
+Color theory is the body of principles that explains how colors relate to each other, how they mix, and how they affect human perception and emotion. It's part [physics](/physics), part [biology](/biology), part [psychology](/psychology) — and it governs everything from Renaissance paintings to your phone's user interface.
 
 ## The Physics First
 
@@ -89,13 +89,13 @@ The honest truth about color psychology is that individual and cultural variatio
 
 ## Practical Applications
 
-**Interior design:** Color dramatically affects how a room feels. Warm colors (reds, oranges, yellows) make spaces feel cozy and smaller. Cool colors (blues, greens) make rooms feel spacious and calming. The value of wall color affects perceived room size more than the hue.
+**[Interior design](/interior-design):** Color dramatically affects how a room feels. Warm colors (reds, oranges, yellows) make spaces feel cozy and smaller. Cool colors (blues, greens) make rooms feel spacious and calming. The value of wall color affects perceived room size more than the hue.
 
 **[Digital photography](/digital-photography):** Understanding color temperature (measured in Kelvin) helps photographers manage white balance. Candlelight is warm (about 1,900K). Daylight is neutral (about 5,500K). Shade is cool (about 7,500K).
 
-**Marketing and branding:** Companies spend enormous resources choosing brand colors because the right color scheme communicates brand personality instantly. Studies suggest people make subconscious judgments about products within 90 seconds, and up to 90% of that assessment is based on color alone.
+**[Marketing](/marketing) and branding:** Companies spend enormous resources choosing brand colors because the right color scheme communicates brand personality instantly. Studies suggest people make subconscious judgments about products within 90 seconds, and up to 90% of that assessment is based on color alone.
 
-**Data visualization:** Choosing appropriate color scales for charts and maps determines whether information is communicated clearly. Colorblindness affects roughly 8% of men and 0.5% of women, making accessible color choices genuinely important.
+**[Data visualization](/data-visualization):** Choosing appropriate color scales for charts and maps determines whether information is communicated clearly. Colorblindness affects roughly 8% of men and 0.5% of women, making accessible color choices genuinely important.
 
 ## Beyond the Basics
 

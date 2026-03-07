@@ -5,7 +5,7 @@ description: "Property management handles the daily operations of rental real es
 category: finance
 tags: ["property management", "real estate", "tenant relations", "landlord", "property maintenance", "leasing"]
 heroImage: "/images/articles/property-management-hero.webp"
-heroAlt: "Residential apartment building representing managed rental properties"
+heroAlt: "Editorial photograph representing the concept of property management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,13 +35,13 @@ faq:
     a: "Property managers can initiate and manage the eviction process on behalf of the owner, but the actual eviction order comes from a court. The manager handles paperwork, legal notices, court filings, and coordination with attorneys, but cannot physically remove tenants—only a sheriff or constable can enforce a court-ordered eviction."
 ---
 
-# What Is Property Management?
+# What Is Property [Management](/management)?
 
-Property management is the operation, oversight, and administration of real estate on behalf of the property owner. It covers everything from finding and screening tenants to collecting rent, handling maintenance, managing finances, and ensuring legal compliance — essentially running a rental property as a business so the owner doesn't have to handle every detail personally.
+Property management is the operation, oversight, and administration of [real estate](/real-estate) on behalf of the property owner. It covers everything from finding and screening tenants to collecting rent, handling maintenance, managing finances, and ensuring legal compliance — essentially running a rental property as a business so the owner doesn't have to handle every detail personally.
 
 ## What Property Managers Actually Do All Day
 
-The job description sounds simple: manage properties. The reality is a nonstop juggling act that combines customer service, accounting, legal knowledge, construction oversight, and conflict resolution — often all before lunch.
+The job description sounds simple: manage properties. The reality is a nonstop juggling act that combines customer service, [accounting](/accounting), legal knowledge, [construction](/construction) oversight, and [conflict resolution](/conflict-resolution) — often all before lunch.
 
 ### Tenant Acquisition and Screening
 
@@ -49,7 +49,7 @@ Empty units don't generate revenue. Getting them filled quickly with reliable te
 
 **Marketing** starts with listing vacant units on rental platforms (Zillow, Apartments.com, Facebook Marketplace), taking quality photos, writing accurate descriptions, and setting competitive pricing. A good property manager knows the local market deeply — what similar units rent for, which amenities command premium pricing, and when seasonal demand shifts.
 
-**Showing properties** requires scheduling around prospective tenants' availability, highlighting unit features, and answering questions honestly. In competitive markets, popular units might get 20-30 inquiries within hours of listing. Managing that volume while maintaining quality interactions is a skill.
+**Showing properties** requires [scheduling](/scheduling) around prospective tenants' availability, highlighting unit features, and answering questions honestly. In competitive markets, popular units might get 20-30 inquiries within hours of listing. Managing that volume while maintaining quality interactions is a skill.
 
 **Tenant screening** is arguably the most important thing a property manager does. A bad tenant can cost an owner thousands in unpaid rent, property damage, and legal fees. Screening typically includes:
 
@@ -133,7 +133,7 @@ HOA management is politically charged. You're dealing with boards of volunteer h
 
 ### Short-Term Rental Management
 
-Managing Airbnb, VRBO, and similar vacation rental properties. This is a distinct specialty with different challenges: active pricing, guest communication, rapid turnovers (cleaning and preparing between guests), listing optimization, and compliance with local short-term rental regulations.
+Managing Airbnb, VRBO, and similar vacation rental properties. This is a distinct specialty with different challenges: active pricing, guest communication, rapid turnovers (cleaning and preparing between guests), listing [optimization](/optimization), and compliance with local short-term rental regulations.
 
 Short-term rental managers typically charge 15-30% of booking revenue — higher than traditional management because the work per booking is more intensive.
 
@@ -212,7 +212,7 @@ Renters increasingly expect app-based rent payment, online maintenance requests,
 
 ### Institutional Ownership is Growing
 
-Large institutional investors — private equity firms, REITs, and pension funds — are buying single-family homes at scale. These institutional owners demand sophisticated property management with detailed reporting, data analytics, and professional operations. This is pushing the industry toward greater professionalism but also raising concerns about housing affordability and corporate landlords.
+Large institutional investors — [private equity](/private-equity) firms, REITs, and pension funds — are buying single-family homes at scale. These institutional owners demand sophisticated property management with detailed reporting, data analytics, and professional operations. This is pushing the industry toward greater professionalism but also raising concerns about housing affordability and corporate landlords.
 
 ### Sustainability
 

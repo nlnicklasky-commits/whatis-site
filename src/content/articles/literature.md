@@ -5,7 +5,7 @@ description: "Literature is written work valued for its artistic merit and lasti
 category: arts-amp-culture
 tags: ["literature", "writing", "fiction", "poetry", "drama", "humanities"]
 heroImage: "/images/articles/literature.webp"
-heroAlt: "Shelves of classic books in a warmly lit library with leather-bound volumes"
+heroAlt: "Editorial photograph representing the concept of literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Both answers are worth exploring.
 
 ## The Boundary Problem
 
-Ask ten professors "What is literature?" and you'll get twelve answers. The word comes from the Latin *littera* (letter), and originally just meant "written stuff." Any text qualified. But starting in the 18th century, "literature" narrowed to mean writing of special merit — imaginative, beautiful, or intellectually significant work that deserved serious attention.
+Ask ten professors "What is literature?" and you'll get twelve answers. The word comes from the Latin *littera* (letter), and originally just meant "written stuff." Any text qualified. But starting in the 18th century, "literature" narrowed to mean [writing](/writing) of special merit — imaginative, beautiful, or intellectually significant work that deserved serious attention.
 
 This immediately creates a problem: who draws the line? Is a mystery novel literature? What about a comic book? A blog post? A tweet? A recipe?
 
-Some people define literature by form — poetry, fiction, drama, and literary nonfiction are "in," everything else is "out." Others define it by quality — anything written with sufficient skill and depth counts, regardless of genre. Terry Pratchett's comic fantasy has been championed as literature. So have graphic novels like *Maus*. So have video game scripts.
+Some people define literature by form — [poetry](/poetry), fiction, [drama](/drama), and literary nonfiction are "in," everything else is "out." Others define it by quality — anything written with sufficient skill and depth counts, regardless of genre. Terry Pratchett's comic fantasy has been championed as literature. So have graphic novels like *Maus*. So have video game scripts.
 
 The honest answer is that "literature" is a social category, not a natural one. There's no objective test. What counts as literature changes across cultures and centuries. Shakespeare was popular entertainment in his time — the equivalent of a blockbuster movie, not a museum piece. Novels were considered trashy and morally dangerous when they first appeared. What we call literature today is partly the result of genuine quality and partly the result of institutional gatekeeping.
 
@@ -49,7 +49,7 @@ The honest answer is that "literature" is a social category, not a natural one. 
 
 ### Poetry
 
-The oldest form of literature, predating writing itself. Poetry uses concentrated language — rhythm, meter, imagery, sound patterns, and compression — to create effects that prose typically can't achieve. From Homer's *Iliad* (circa 8th century BCE) to Amanda Gorman's inaugural poem (2021), poetry has been humanity's preferred vehicle for expressing intense emotion, beauty, and insight.
+The oldest form of literature, predating writing itself. Poetry uses concentrated language — rhythm, meter, imagery, sound patterns, and compression — to create effects that [prose](/prose) typically can't achieve. From Homer's *Iliad* (circa 8th century BCE) to Amanda Gorman's inaugural poem (2021), poetry has been humanity's preferred vehicle for expressing intense emotion, beauty, and insight.
 
 ### Fiction
 
@@ -61,7 +61,7 @@ Plays and scripts written for performance. Drama has its roots in ancient Greek 
 
 ### Literary Nonfiction
 
-Essays, memoirs, creative nonfiction, and certain forms of journalism and criticism. Not all nonfiction qualifies — a tax manual isn't literature — but works like James Baldwin's essays, Joan Didion's journalism, or Ta-Nehisi Coates's memoir use the same artistic techniques as fiction and poetry to illuminate real experience.
+Essays, memoirs, creative nonfiction, and certain forms of [journalism](/journalism) and criticism. Not all nonfiction qualifies — a tax manual isn't literature — but works like James Baldwin's essays, Joan Didion's journalism, or Ta-Nehisi Coates's memoir use the same artistic techniques as fiction and poetry to illuminate real experience.
 
 ## What Makes Something "Good"
 
@@ -71,7 +71,7 @@ This is the question that keeps English departments employed. There's no formula
 
 **Complexity.** Not confusion — complexity. Good literature resists simple paraphrase. It holds multiple meanings simultaneously. It rewards rereading. A fairy tale tells you the moral outright. A great novel makes you figure it out, and different readers figure out different things.
 
-**Emotional truth.** This matters more than factual accuracy. A novel set on a fictional planet can be truer to human experience than a meticulously researched biography if it captures something genuine about how people feel, struggle, and connect.
+**Emotional truth.** This matters more than factual accuracy. A novel set on a fictional planet can be truer to human experience than a meticulously researched [biography](/biography) if it captures something genuine about how people feel, struggle, and connect.
 
 **Lasting resonance.** The texts we call literature tend to remain meaningful across generations. *Hamlet* is 400+ years old and still speaks to audiences because its central concerns — grief, indecision, corruption, the gap between appearance and reality — are permanently human.
 
@@ -79,7 +79,7 @@ This is the question that keeps English departments employed. There's no formula
 
 The "literary canon" is the informal list of works considered essential — the books English departments teach, critics reference, and educated people are expected to know. For most of the 20th century, the Western canon was dominated by white European and American men. Homer, Shakespeare, Milton, Dickens, Joyce, Hemingway.
 
-Starting in the 1960s and accelerating since, scholars and activists have challenged this narrow canon. Where were the women? The Black writers? The Asian, African, Latin American, and Indigenous voices? Were they absent because their work was inferior, or because the institutions that decided what counted as "literature" reflected the biases of the people running them?
+Starting in the 1960s and accelerating since, scholars and activists have challenged this narrow canon. Where were the women? The Black writers? The Asian, African, Latin American, and Indigenous voices? Were they absent because their work was inferior, or because the institutions that decided what counted as "literature" reflected the biases of the people [running](/running) them?
 
 The answer, overwhelmingly, was the latter. The canon has expanded dramatically. Toni Morrison, Chinua Achebe, Gabriel Garcia Marquez, Murasaki Shikibu, and countless others are now recognized as essential literary voices. This expansion isn't about lowering standards — it's about applying them more honestly.
 

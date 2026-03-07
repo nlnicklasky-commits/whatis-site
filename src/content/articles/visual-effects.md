@@ -5,7 +5,7 @@ description: "Visual effects (VFX) are digitally created or enhanced imagery in 
 category: everyday-concepts
 tags: ["visual effects", "VFX", "CGI", "filmmaking", "digital art", "post-production"]
 heroImage: "/images/articles/visual-effects.webp"
-heroAlt: "VFX artist working on a green screen composite with multiple reference monitors"
+heroAlt: "Editorial photograph representing the concept of visual effects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ CGI creates entirely digital objects, characters, and environments using 3D mode
 
 **Lighting** — Placing virtual light sources to match the lighting of the live-action footage the CGI will be composited into. This is arguably the most important step for convincing integration — bad lighting is the fastest way to make CGI look fake.
 
-**Animation** — Making things move. Character animation can be hand-keyed by animators (posing the character frame by frame) or driven by motion capture data from real actors.
+**[Animation](/animation)** — Making things move. Character animation can be hand-keyed by animators (posing the character frame by frame) or driven by motion capture data from real actors.
 
 **Rendering** — The computer calculates how light interacts with every surface, producing final images. A single frame of a complex shot might take hours to render on powerful hardware. Studios use render farms — thousands of computers working in parallel — to process the millions of frames a film requires.
 
@@ -59,7 +59,7 @@ Modern compositing goes far beyond simple background replacement. Compositors co
 
 Motion capture (mocap) records an actor's physical performance and maps it onto a digital character. The actor wears a suit covered in reflective markers or sensors, and multiple cameras track these markers' positions to create a 3D skeleton that drives the digital character's movement.
 
-Andy Serkis's performances as Gollum (Lord of the Rings), Caesar (Planet of the Apes), and King Kong demonstrated that motion capture could convey genuine emotional acting through digital characters. Facial capture systems now track hundreds of points on an actor's face, capturing subtle expressions.
+Andy Serkis's performances as Gollum (Lord of the Rings), Caesar (Planet of the Apes), and King Kong demonstrated that motion capture could convey genuine emotional [acting](/acting) through digital characters. Facial capture systems now track hundreds of points on an actor's face, capturing subtle expressions.
 
 ### Matte Painting
 
@@ -71,7 +71,7 @@ The oldest VFX technique, updated for the digital age. Traditional matte painter
 
 **The digital revolution** — Westworld (1973) was the first film to use computer-generated imagery (pixelated 2D graphics simulating a robot's vision). Tron (1982) used extensive CGI for virtual environments. The Young Sherlock Holmes (1985) featured the first fully CGI character integrated into live action.
 
-**The watershed moment** — Jurassic Park (1993) proved that CGI could create photorealistic living creatures. The film used CGI for only about 6 minutes of its dinosaur footage (the rest was Stan Winston's animatronics), but those minutes changed filmmaking permanently.
+**The watershed moment** — Jurassic Park (1993) proved that CGI could create photorealistic living creatures. The film used CGI for only about 6 minutes of its dinosaur footage (the rest was Stan Winston's animatronics), but those minutes changed [filmmaking](/filmmaking) permanently.
 
 **The all-digital era** — The Lord of the Rings trilogy (2001-2003) used massive-scale CGI environments, crowds, and characters. Avatar (2009) was predominantly CGI. Modern Marvel films contain 2,000-3,000 VFX shots each. Many contemporary films have more VFX shots than practical shots.
 
@@ -97,4 +97,4 @@ The VFX industry operates under intense pressure. Studios demand ever-more-spect
 
 The combination of fixed-price contracts, expanding scope during production, and tight deadlines creates notorious working conditions. "Crunch" — extended periods of mandatory overtime, often unpaid — is a well-documented industry problem. Several high-profile VFX studios have filed for bankruptcy despite working on commercially successful films.
 
-Despite these challenges, the demand for VFX artists continues to grow as visual effects become integral to television, streaming content, advertising, and gaming in addition to film. The craft combines artistic skill with technical knowledge in a way that few other fields match — and when you watch a scene that takes your breath away, someone made that happen pixel by pixel.
+Despite these challenges, the demand for VFX artists continues to grow as visual effects become integral to television, streaming content, advertising, and [gaming](/gaming) in addition to film. The craft combines artistic skill with technical knowledge in a way that few other fields match — and when you watch a scene that takes your breath away, someone made that happen pixel by pixel.

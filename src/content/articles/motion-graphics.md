@@ -5,7 +5,7 @@ description: "Motion graphics combine animation and graphic design to create mov
 category: technology
 tags: ["motion graphics", "animation", "graphic design", "video production", "digital art", "explainer video"]
 heroImage: "/images/articles/motion-graphics-hero.webp"
-heroAlt: "Colorful animated shapes and typography in motion on a dark background"
+heroAlt: "Editorial photograph representing the concept of motion graphics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Motion Graphics?
 
-Motion graphics is the art of bringing graphic design to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/computer-graphics), animation, and filmmaking, and it's become one of the most in-demand creative skills of the past decade.
+Motion graphics is the art of bringing [graphic design](/graphic-design) to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/computer-graphics), animation, and filmmaking, and it's become one of the most in-demand creative skills of the past decade.
 
 You've seen motion graphics thousands of times even if you didn't know the term. The animated title sequence of your favorite TV show? Motion graphics. That slick explainer video a startup used to pitch their product? Motion graphics. The lower-third text crawling across a news broadcast? Also motion graphics. The animated infographic that went viral on social media last week? You get the idea.
 
@@ -173,7 +173,7 @@ When you tap a button on your phone and it responds with a subtle bounce, that's
 
 This is one of the fastest-growing areas of the field. As [app development](/app-development) and web design evolve, the demand for designers who understand both UI/UX and motion principles keeps climbing.
 
-### Data Visualization
+### [Data Visualization](/data-visualization)
 
 Animated charts, graphs, and infographics fall squarely in motion graphics territory. Taking dry [data analysis](/data-analysis) and making it visually compelling — watching a bar chart race, or a map light up as data flows across it — is a specialized skill that combines design sense, data literacy, and animation chops.
 
@@ -191,7 +191,7 @@ If you're thinking about getting into motion graphics, here's what you actually 
 
 ### Design Fundamentals
 
-You can't animate what you can't design. Understanding color theory, typography, composition, visual hierarchy, and layout is non-negotiable. Many of the best motion designers started as graphic designers and added animation skills later. If your static designs don't look good, moving them around won't help.
+You can't animate what you can't design. Understanding [color theory](/color-theory), typography, composition, visual hierarchy, and layout is non-negotiable. Many of the best motion designers started as graphic designers and added animation skills later. If your static designs don't look good, moving them around won't help.
 
 ### Understanding of Timing and Rhythm
 
@@ -265,7 +265,7 @@ Understanding the business side matters whether you're hiring a motion designer 
 
 A 60-second explainer video from a mid-tier studio typically costs between $5,000 and $25,000 in the U.S. market. Premium studios and complex projects can push that to $50,000 or more. At the low end, template-based services offer motion graphics for $500 to $2,000, though the quality and customization are limited.
 
-The pricing reflects the labor intensity. A skilled motion designer working on a complex 60-second piece might invest 60 to 100 hours — and that's before accounting for revisions, sound design, and project management.
+The pricing reflects the labor intensity. A skilled motion designer working on a complex 60-second piece might invest 60 to 100 hours — and that's before accounting for revisions, sound design, and [project management](/project-management).
 
 For businesses, the ROI calculation usually centers on engagement metrics. Video content with motion graphics typically achieves 2-3x the engagement of static content on social platforms. Explainer videos on landing pages have been shown to increase conversion rates by 20-80% in various studies. That makes the investment worthwhile for many companies.
 

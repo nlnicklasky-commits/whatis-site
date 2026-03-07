@@ -5,7 +5,7 @@ description: "Voodoo (Vodou) is an Afro-Caribbean religion blending West African
 category: everyday-concepts
 tags: ["voodoo", "vodou", "religion", "Afro-Caribbean", "Haiti", "spirituality"]
 heroImage: "/images/articles/voodoo.webp"
-heroAlt: "Colorful Vodou altar with candles, flowers, and spiritual offerings in Haiti"
+heroAlt: "Editorial photograph representing the concept of voodoo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Voodoo?
 
-Voodoo — more accurately spelled Vodou (Haitian) or Vodun (West African) — is a religion rooted in West African spiritual traditions, shaped by the transatlantic slave trade, and practiced primarily in Haiti, parts of West Africa, and Louisiana. It involves belief in a supreme creator, a pantheon of spirits (called lwa or loa), ancestor veneration, and ceremonial practices that connect the living with the spiritual world. It is not, despite what decades of horror movies have told you, about sticking pins in dolls.
+Voodoo — more accurately spelled Vodou (Haitian) or Vodun (West African) — is a [religion](/religion) rooted in West African spiritual traditions, shaped by the transatlantic slave [trade](/trade), and practiced primarily in Haiti, parts of West Africa, and Louisiana. It involves belief in a supreme creator, a pantheon of spirits (called lwa or loa), ancestor veneration, and ceremonial practices that connect the living with the spiritual world. It is not, despite what decades of horror movies have told you, about sticking pins in dolls.
 
 ## Origins: Africa to the Caribbean
 
-Vodou's roots lie in the traditional religions of the Fon and Ewe peoples of present-day Benin, Togo, and Ghana. The word "vodun" means "spirit" or "deity" in the Fon language. These traditions involved a supreme creator (Mawu-Lisa), a large pantheon of spirits governing natural forces and human affairs, elaborate rituals with drumming and dance, and communication between the living and the spiritual world.
+Vodou's roots lie in the traditional religions of the Fon and Ewe peoples of present-day Benin, Togo, and Ghana. The word "vodun" means "spirit" or "deity" in the Fon language. These traditions involved a supreme creator (Mawu-Lisa), a large pantheon of spirits governing natural forces and human affairs, elaborate rituals with [drumming](/drumming) and [dance](/dance), and communication between the living and the spiritual world.
 
 When millions of West Africans were enslaved and transported to the Caribbean and Americas, they carried these beliefs with them. In Haiti (then the French colony of Saint-Domingue), enslaved people were forced to convert to Catholicism, but they preserved their spiritual practices by associating their traditional spirits with Catholic saints. This wasn't shallow disguise — it was a genuine synthesis that created something new.
 
@@ -53,7 +53,7 @@ Each lwa has specific preferences, colors, symbols, songs, and offerings. Servin
 
 ### Ceremonies
 
-Vodou ceremonies involve drumming, singing, dancing, prayer, and offerings, typically led by a priest (houngan) or priestess (mambo). The ceremonies take place at a temple (hounfour or peristyle) around a central post (poteau-mitan) that symbolizes the connection between earth and the spirit world.
+Vodou ceremonies involve drumming, [singing](/singing), dancing, prayer, and offerings, typically led by a priest (houngan) or priestess (mambo). The ceremonies take place at a temple (hounfour or peristyle) around a central post (poteau-mitan) that symbolizes the connection between earth and the spirit world.
 
 The most dramatic element of Vodou ceremony is spirit possession — when a lwa temporarily takes over a participant's body. This isn't viewed as frightening or demonic. It's considered a sacred honor. The possessed person (called the "horse" because they're being "ridden" by the spirit) takes on the personality, speech patterns, and mannerisms of the lwa. The community interacts with the lwa through the possessed person, seeking advice, healing, or spiritual guidance.
 
@@ -69,7 +69,7 @@ Whether the Bois Caiman ceremony happened exactly as described is historically d
 
 ## The Misconception Problem
 
-No religion has been more thoroughly misrepresented in popular culture than Vodou. The distortions started with colonial-era propaganda — European powers portrayed African religions as demonic to justify slavery and colonial conquest. Hollywood amplified these stereotypes into a collection of horror tropes: zombies, voodoo dolls, curses, and evil sorcerers.
+No religion has been more thoroughly misrepresented in [popular culture](/popular-culture) than Vodou. The distortions started with colonial-era propaganda — European powers portrayed African religions as demonic to justify slavery and colonial conquest. Hollywood amplified these stereotypes into a collection of horror tropes: zombies, voodoo dolls, curses, and evil sorcerers.
 
 The reality is thoroughly different. Vodou is a community-centered religion that provides spiritual guidance, healing, social structure, and cultural identity to its practitioners. Its ceremonies are communal celebrations, not dark rituals. Its priests and priestesses function as spiritual advisors, healers, and community leaders.
 

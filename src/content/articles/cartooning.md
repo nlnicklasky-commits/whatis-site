@@ -5,7 +5,7 @@ description: "Cartooning is the art of creating cartoons — simplified, often h
 category: arts-amp-culture
 tags: ["cartooning", "cartoons", "comic art", "illustration", "humor", "satire"]
 heroImage: "/images/articles/cartooning.webp"
-heroAlt: "Artist drawing cartoon characters with ink pens and markers at a drawing desk"
+heroAlt: "Editorial photograph representing the concept of cartooning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Cartooning is the art of creating cartoons — drawings that use simplified, exa
 
 ## More Than Funny Drawings
 
-The word "cartoon" originally meant a full-size preparatory drawing for a painting, fresco, or mix — serious art prep work. The meaning shifted in the 1840s when the British humor magazine *Punch* began publishing satirical drawings and calling them "cartoons" mockingly. The joke stuck, and now the word primarily means humorous or simplified illustration.
+The word "cartoon" originally meant a full-size preparatory [drawing](/drawing) for a [painting](/painting), fresco, or mix — serious art prep work. The meaning shifted in the 1840s when the British humor magazine *Punch* began [publishing](/publishing) satirical drawings and calling them "cartoons" mockingly. The joke stuck, and now the word primarily means humorous or simplified [illustration](/illustration).
 
 But cartooning has always been about more than laughs. Editorial cartoons have shaped political opinion since at least the 18th century — Thomas Nast's cartoons helped bring down New York's corrupt Tammany Hall in the 1870s. Boss Tweed reportedly said, "Stop them damn pictures. I don't care what the papers write about me. My constituents can't read. But they can see pictures."
 
@@ -43,7 +43,7 @@ That power hasn't diminished. Editorial cartoons still condense complex politica
 
 ## Types of Cartooning
 
-### Editorial/Political Cartoons
+### Editorial/[Political Cartoons](/political-cartoons)
 
 Single-panel drawings commenting on current events, typically published in newspapers and online publications. The form demands the ability to distill a political situation into one image — usually with caricature, metaphor, and minimal text. Pulitzer Prizes have been awarded for editorial cartooning since 1922.
 
@@ -63,7 +63,7 @@ Some webcomics reach enormous audiences. *xkcd* gets millions of readers per str
 
 ### Gag Cartoons
 
-Single-panel cartoons with a caption, the format synonymous with *The New Yorker* magazine. Gag cartooning is joke-writing with drawing ability — the challenge is finding a single image-and-caption combination that's funny. *The New Yorker* receives roughly 500 cartoon submissions weekly and publishes about 17.
+Single-panel cartoons with a caption, the format synonymous with *The New Yorker* magazine. Gag cartooning is joke-[writing](/writing) with drawing ability — the challenge is finding a single image-and-caption combination that's funny. *The New Yorker* receives roughly 500 cartoon submissions weekly and publishes about 17.
 
 ### Caricature
 

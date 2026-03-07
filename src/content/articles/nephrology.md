@@ -5,7 +5,7 @@ description: "Nephrology is the medical specialty focused on kidney health and d
 category: health-amp-wellness
 tags: ["nephrology", "kidney disease", "dialysis", "internal medicine"]
 heroImage: "/images/articles/nephrology.webp"
-heroAlt: "Anatomical illustration of a healthy human kidney showing internal structures"
+heroAlt: "Editorial photograph representing the concept of nephrology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -89,7 +89,7 @@ When kidney function drops below about 10-15% of normal, the body can no longer 
 
 The patient's blood is pumped through a machine containing a semipermeable membrane. Waste products and excess fluid pass through the membrane into a cleansing solution (dialysate) and are removed. The cleaned blood is returned to the body.
 
-Most hemodialysis patients go to a dialysis center three times per week for sessions lasting 3-5 hours each. Some patients do home hemodialysis, which allows more flexible scheduling and, in some studies, better outcomes.
+Most hemodialysis patients go to a dialysis center three times per week for sessions lasting 3-5 hours each. Some patients do home hemodialysis, which allows more flexible [scheduling](/scheduling) and, in some studies, better outcomes.
 
 It works — it keeps people alive who would otherwise die within weeks. But it's far from pleasant. Common side effects include fatigue, muscle cramps, low blood pressure during treatment, nausea, and difficulty sleeping. Hemodialysis replaces only about 10-15% of normal kidney function, so patients still experience many consequences of kidney failure.
 
@@ -134,4 +134,4 @@ The most effective prevention strategies are straightforward:
 - **Stay hydrated.** Adequate water intake helps kidneys function efficiently.
 - **Get screened.** If you have diabetes, hypertension, or a family history of kidney disease, regular blood tests (creatinine, eGFR) and urine tests (albumin-to-creatinine ratio) can catch problems early.
 
-The field of nephrology is essentially a race between prevention and damage — trying to catch kidney disease before it becomes irreversible, and managing it as effectively as possible when it does. That race is worth running, because the alternative — dialysis or transplantation — is something everyone involved would rather avoid.
+The field of nephrology is essentially a race between prevention and damage — trying to catch kidney disease before it becomes irreversible, and managing it as effectively as possible when it does. That race is worth [running](/running), because the alternative — dialysis or transplantation — is something everyone involved would rather avoid.

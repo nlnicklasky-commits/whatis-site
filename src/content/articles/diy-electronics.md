@@ -5,7 +5,7 @@ description: "DIY electronics is the practice of designing, building, and modify
 category: technology
 tags: ["diy electronics", "electronics", "circuits", "arduino", "maker", "stem", "hobbyist"]
 heroImage: "/images/articles/diy-electronics-hero.webp"
-heroAlt: "Hands soldering components on a printed circuit board with tools and parts nearby"
+heroAlt: "Editorial photograph representing the concept of diy electronics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -180,7 +180,7 @@ Once you're comfortable with the basics, the rabbit hole goes deep.
 
 ### Radio Frequency (RF) Projects
 
-Building your own radio transmitter and receiver teaches you about electromagnetic waves, antennas, modulation, and signal processing. LoRa modules let you send data over several kilometers on tiny amounts of power—perfect for remote sensor stations. The [amateur radio](/amateur-radio) community has decades of accumulated RF knowledge that overlaps heavily with DIY electronics.
+Building your own radio transmitter and receiver teaches you about electromagnetic waves, antennas, modulation, and [signal processing](/signal-processing). LoRa modules let you send data over several kilometers on tiny amounts of power—perfect for remote sensor stations. The [amateur radio](/amateur-radio) community has decades of accumulated RF knowledge that overlaps heavily with DIY electronics.
 
 ### Audio Electronics
 

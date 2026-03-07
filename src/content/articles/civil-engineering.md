@@ -5,7 +5,7 @@ description: "Civil engineering designs and builds infrastructure like roads, br
 category: technology
 tags: ["civil engineering", "engineering", "infrastructure", "construction", "public works", "structures", "urban planning"]
 heroImage: "/images/articles/civil-engineering-hero.webp"
-heroAlt: "Modern suspension bridge spanning a river with city skyline in the background"
+heroAlt: "Editorial photograph representing the concept of civil engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,9 +35,9 @@ faq:
     a: "Civil engineering offers strong job stability because infrastructure always needs building, maintaining, and upgrading. The Bureau of Labor Statistics projects steady demand through the 2030s. It provides tangible results—you can point to bridges, buildings, and water systems you helped create. The work is varied, combining office design work with site visits and project management."
 ---
 
-# What Is Civil Engineering?
+# What Is Civil [Engineering](/engineering)?
 
-Civil engineering is the branch of engineering concerned with the design, construction, and maintenance of the physical and naturally built environment—including roads, bridges, dams, buildings, water systems, and airports. It is one of the oldest engineering disciplines, dating back to when humans first began shaping their environment, and it remains one of the most consequential: virtually every piece of public infrastructure you use daily exists because a civil engineer designed it.
+Civil engineering is the branch of engineering concerned with the design, [construction](/construction), and maintenance of the physical and naturally built environment—including roads, bridges, dams, buildings, water systems, and airports. It is one of the oldest engineering disciplines, dating back to when humans first began shaping their environment, and it remains one of the most consequential: virtually every piece of public infrastructure you use daily exists because a civil engineer designed it.
 
 ## The Invisible Profession
 
@@ -51,13 +51,13 @@ But when it fails—when the I-35W bridge in Minneapolis collapsed in 2007, kill
 
 Civil engineering is broad enough that most practitioners specialize. The major branches each address different aspects of the built environment.
 
-### Structural Engineering
+### [Structural Engineering](/structural-engineering)
 
 Structural engineers ensure that buildings, bridges, towers, and other structures can safely support the loads placed on them—their own weight, the weight of occupants and contents, wind forces, snow loads, seismic forces, and more.
 
 This involves calculating stresses and deflections using principles from physics and [algebra](/algebra), selecting appropriate materials (steel, reinforced concrete, timber, composites), and designing connections that transfer forces safely through the structure.
 
-The Burj Khalifa in Dubai stands 828 meters tall. The Golden Gate Bridge spans 1,280 meters. The Sydney Opera House's roof shells weigh 27,000 tons. Each required structural engineers to solve problems that had never been solved before—accounting for wind vortex shedding, thermal expansion, seismic waves, and dozens of other forces that try to tear structures apart.
+The Burj Khalifa in Dubai stands 828 meters tall. The Golden Gate Bridge spans 1,280 meters. The Sydney Opera House's roof shells weigh 27,000 tons. Each required structural engineers to solve problems that had never been solved before—[accounting](/accounting) for wind vortex shedding, thermal expansion, seismic waves, and dozens of other forces that try to tear structures apart.
 
 Modern structural engineering increasingly uses computer modeling—finite element analysis (FEA) divides a structure into thousands of small elements and calculates how each one responds to applied forces. This allows engineers to predict behavior far more accurately than hand calculations alone, though understanding the underlying physics remains essential for interpreting results.
 
@@ -69,11 +69,11 @@ Before any major construction project, geotechnical engineers drill test borings
 
 The Leaning Tower of Pisa is history's most famous geotechnical failure. The soil beneath one side was softer than the other, causing uneven settlement that tilted the tower 5.5 degrees before stabilization efforts in the 1990s reduced the lean to about 4 degrees.
 
-### Transportation Engineering
+### [Transportation Engineering](/transportation-engineering)
 
 Transportation engineers design and maintain systems for moving people and goods—roads, highways, railways, airports, ports, and mass transit. This includes not just the physical infrastructure but also traffic flow analysis, signal timing, intersection design, and transportation planning.
 
-Traffic engineering is surprisingly mathematical. Traffic flow follows patterns that can be modeled using fluid dynamics equations. The relationship between traffic density, speed, and flow rate determines when highways operate smoothly and when they collapse into gridlock. A single lane of highway can handle about 2,000 vehicles per hour at optimal conditions—but add too many cars and speeds drop, reducing capacity rather than increasing it.
+[Traffic engineering](/traffic-engineering) is surprisingly mathematical. Traffic flow follows patterns that can be modeled using [fluid dynamics](/fluid-dynamics) equations. The relationship between traffic density, speed, and flow rate determines when highways operate smoothly and when they collapse into gridlock. A single lane of highway can handle about 2,000 vehicles per hour at optimal conditions—but add too many cars and speeds drop, reducing capacity rather than increasing it.
 
 Highway design involves careful attention to geometry—curve radii, grades, sight distances, and superelevation (banking curves) must all work together to keep vehicles safe at design speeds. A highway designed for 70 mph has different geometry than one designed for 45 mph, and mixing the two is dangerous.
 
@@ -85,7 +85,7 @@ The Three Gorges Dam in China, completed in 2006, is the world's largest hydroel
 
 Climate change is making water resources engineering more challenging. Historical rainfall patterns no longer reliably predict future conditions. Droughts are intensifying in some regions while floods worsen in others. Engineers must design for uncertainty—creating systems flexible enough to handle conditions that may differ substantially from historical records.
 
-### Environmental Engineering
+### [Environmental Engineering](/environmental-engineering)
 
 Environmental engineers protect human health and the natural environment from the effects of human activity. They design water treatment plants that make drinking water safe, wastewater treatment systems that clean sewage before discharge, air pollution control equipment, and hazardous waste remediation systems.
 

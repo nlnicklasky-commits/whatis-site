@@ -5,7 +5,7 @@ description: "Linguistics is the scientific study of language. Learn about phone
 category: science
 tags: ["linguistics", "language", "phonetics", "syntax", "semantics", "pragmatics", "sociolinguistics"]
 heroImage: "/images/articles/linguistics-hero.webp"
-heroAlt: "Abstract illustration of speech bubbles, phonetic symbols, and language tree diagrams"
+heroAlt: "Editorial photograph representing the concept of linguistics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -71,7 +71,7 @@ Morphology studies how words are constructed from smaller meaningful units calle
 
 Languages differ dramatically in their morphology:
 
-**Isolating languages** (like Mandarin Chinese) have minimal morphology — each word is typically one morpheme. Grammatical relationships are shown through word order and separate particles.
+**Isolating languages** (like [Mandarin Chinese](/mandarin-chinese)) have minimal morphology — each word is typically one morpheme. Grammatical relationships are shown through word order and separate particles.
 
 **Agglutinating languages** (like Turkish) build words by stacking morphemes. The Turkish word "evlerinizden" means "from your houses" — "ev" (house) + "ler" (plural) + "iniz" (your) + "den" (from). One word, four morphemes.
 
@@ -99,7 +99,7 @@ Semantics studies meaning — what words and sentences actually convey. This is 
 
 **Compositional semantics** asks how word meanings combine to form sentence meanings. "Every student read a book" is ambiguous: did every student read the *same* book, or did each read a different one? The individual words aren't ambiguous — the ambiguity arises from how they combine.
 
-Formal semantics uses mathematical logic — particularly predicate logic and set theory — to model meaning precisely. This branch connects [linguistics](/computational-linguistics) directly to philosophy, mathematics, and computer science.
+Formal semantics uses [mathematical logic](/mathematical-logic) — particularly predicate logic and set theory — to model meaning precisely. This branch connects [linguistics](/computational-linguistics) directly to philosophy, mathematics, and [computer science](/computer-science).
 
 ### Pragmatics: Language in Context
 
@@ -111,7 +111,7 @@ Pragmatics studies how context shapes meaning. The sentence "Can you pass the sa
 
 **Implicature** — meaning conveyed indirectly — is everywhere in human communication. We rarely say exactly what we mean. Understanding language requires constant inference about speakers' intentions, shared knowledge, and social context.
 
-## Historical Linguistics: Language Change
+## [Historical Linguistics](/historical-linguistics): Language Change
 
 Languages change constantly. English speakers 500 years ago wouldn't understand modern English easily, and Old English (circa 900 CE) is essentially a foreign language to modern speakers.
 
@@ -145,7 +145,7 @@ Language doesn't exist in a vacuum — it's shaped by and shapes social structur
 
 William Labov's pioneering studies in the 1960s showed that even within a single city (New York), pronunciation varies systematically by social class, and speakers unconsciously shift their pronunciation in more formal settings. Sociolinguistics revealed that language variation isn't random — it's structured and meaningful.
 
-## Psycholinguistics and Language Acquisition
+## [Psycholinguistics](/psycholinguistics) and [Language Acquisition](/language-acquisition)
 
 How do children learn language? This question connects linguistics to [cognitive psychology](/cognitive-psychology) and neuroscience.
 
@@ -159,7 +159,7 @@ Alternative theories emphasize the role of statistical learning (children track 
 
 ## Computational Linguistics and NLP
 
-[Computational linguistics](/computational-linguistics) applies computational methods to language. Natural Language Processing (NLP) — the engineering side — builds systems that process and generate human language.
+[Computational linguistics](/computational-linguistics) applies computational methods to language. [Natural Language Processing](/natural-language-processing) (NLP) — the engineering side — builds systems that process and generate human language.
 
 This field has exploded in recent years. Modern language models like GPT and Claude process language using statistical patterns learned from massive text datasets. They don't "understand" language the way humans do, but they produce remarkably fluent text by predicting what word comes next based on context.
 

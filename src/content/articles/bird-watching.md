@@ -5,7 +5,7 @@ description: "Bird watching (birding) is the observation and identification of w
 category: sports
 tags: ["bird watching", "birding", "ornithology", "nature observation", "wildlife", "conservation"]
 heroImage: "/images/articles/bird-watching.webp"
-heroAlt: "Person looking through binoculars at birds in a wooded wetland area at dawn"
+heroAlt: "Editorial photograph representing the concept of bird watching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Bird watching — or birding — is the observation, identification, and study o
 
 Bird watching is one of the fastest-growing outdoor activities in North America. Participation increased by an estimated 30% between 2016 and 2022, with particularly sharp growth among younger adults during the COVID-19 pandemic. The Cornell Lab of [Ornithology](/ornithology)'s Merlin Bird ID app has been downloaded over 20 million times.
 
-The economics are significant too. The USFWS estimates that birdwatchers spend over $40 billion annually on equipment, travel, and related expenses. Birding tourism drives local economies in hotspot areas — the Rio Grande Valley in Texas, Point Pelee in Ontario, and Costa Rica's cloud forests attract thousands of visiting birders each year.
+The [economics](/economics) are significant too. The USFWS estimates that birdwatchers spend over $40 billion annually on equipment, travel, and related expenses. Birding tourism drives local economies in hotspot areas — the Rio Grande Valley in Texas, Point Pelee in Ontario, and Costa Rica's cloud forests attract thousands of visiting birders each year.
 
 ## How to Identify Birds
 
@@ -73,9 +73,9 @@ Traveling specifically to see birds in different habitats and regions. A birder 
 
 ## Citizen Science
 
-Birding generates enormous scientific value through citizen science programs. **eBird**, run by the Cornell Lab, receives over 100 million bird observation records annually from birders worldwide. This data feeds research on migration timing, population trends, range shifts, and [conservation](/conservation-biology) priorities.
+Birding generates enormous scientific value through citizen science programs. **eBird**, run by the Cornell Lab, receives over 100 million bird observation records annually from birders worldwide. This data feeds research on migration timing, population trends, range shifts, and [conservation](/conservation-[biology](/biology)) priorities.
 
-The **Christmas Bird Count** (running since 1900) is the longest-running citizen science project in the world. Thousands of volunteers count birds in designated circles across the Americas each December, generating a century-long dataset that tracks population changes.
+The **Christmas Bird Count** ([running](/running) since 1900) is the longest-running citizen science project in the world. Thousands of volunteers count birds in designated circles across the Americas each December, generating a century-long dataset that tracks population changes.
 
 **Project FeederWatch** monitors winter bird populations at feeders across North America. These programs turn recreational birding into genuine scientific contribution — your observation of a rare warbler at your local park has real research value when added to a database containing billions of similar observations.
 
@@ -83,12 +83,12 @@ The **Christmas Bird Count** (running since 1900) is the longest-running citizen
 
 Birding and [conservation](/wildlife-biology) are deeply intertwined. Birds are excellent environmental indicators — declining bird populations signal habitat loss, pollution, pesticide overuse, and climate change. A 2019 study published in *Science* found that North America has lost approximately 3 billion birds since 1970 — a 29% decline across most major bird groups.
 
-The major threats include habitat loss (particularly grassland and forest conversion to agriculture), outdoor cats (estimated to kill 1.3-4 billion birds annually in the U.S.), window strikes (600 million to 1 billion annual deaths), pesticide use, and climate change shifting habitats faster than some species can adapt.
+The major threats include habitat loss (particularly grassland and forest conversion to [agriculture](/agriculture)), outdoor cats (estimated to kill 1.3-4 billion birds annually in the U.S.), window strikes (600 million to 1 billion annual deaths), pesticide use, and climate change shifting habitats faster than some species can adapt.
 
-Birders fund much of this conservation work through their spending. Duck stamps, hunting and fishing licenses, donations to organizations like Audubon and Cornell, and ecotourism revenue all support habitat protection and research.
+Birders fund much of this conservation work through their spending. Duck stamps, [hunting](/hunting) and [fishing](/fishing) licenses, donations to organizations like Audubon and Cornell, and ecotourism revenue all support habitat protection and research.
 
 ## Why It Gets People
 
-Bird watching seems passive until you try it. Then you realize it requires sharp observation, knowledge of natural history, genuine patience, and an ability to be fully present in a moment — because that warbler isn't going to wait while you check your phone.
+Bird watching seems passive until you try it. Then you realize it requires sharp observation, knowledge of [natural history](/natural-history), genuine patience, and an ability to be fully present in a moment — because that warbler isn't going to wait while you check your phone.
 
 There's also the collecting aspect. Life lists create a never-ending goal. There's always another species you haven't seen, another song you haven't learned, another migration route you haven't explored. The combination of outdoor exercise, intellectual challenge, aesthetic pleasure, and the jolt of spotting something unexpected keeps people birding for decades. Once you start noticing birds — really noticing them — you can't stop. The world gets more interesting, one species at a time.

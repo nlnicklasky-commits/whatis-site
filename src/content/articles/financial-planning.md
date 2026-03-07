@@ -5,7 +5,7 @@ description: "Financial planning is the process of setting financial goals and c
 category: finance
 tags: ["personal finance", "wealth management", "investment", "retirement", "budgeting", "saving", "debt management"]
 heroImage: "/images/articles/financial-planning-hero.webp"
-heroAlt: "Person reviewing a financial plan with charts showing savings and investment growth"
+heroAlt: "Editorial photograph representing the concept of financial planning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Financial Planning?
 
-Financial planning is the process of setting specific financial goals—retirement, education funding, home ownership, debt elimination, wealth building—and creating a structured strategy to achieve them through systematic saving, investing, risk management, and tax optimization. It transforms vague financial anxiety into concrete, actionable steps.
+Financial planning is the process of setting specific financial goals—retirement, [education](/education) funding, home ownership, debt elimination, wealth building—and creating a structured strategy to achieve them through systematic saving, investing, [risk management](/risk-management), and tax [optimization](/optimization). It transforms vague financial anxiety into concrete, actionable steps.
 
 ## Why Most People Need a Plan
 
@@ -61,7 +61,7 @@ Everything starts here. Before you can save, invest, or plan for retirement, you
 
 The basic framework: allocate your after-tax income across three categories.
 
-**Needs** (50% target): Housing, food, insurance, minimum debt payments, utilities, transportation. These are expenses you can't eliminate.
+**Needs** (50% target): Housing, food, [insurance](/insurance), minimum debt payments, utilities, transportation. These are expenses you can't eliminate.
 
 **Wants** (30% target): Dining out, entertainment, travel, hobbies, shopping. These make life enjoyable but aren't survival necessities.
 
@@ -102,7 +102,7 @@ Both work. The best method is whichever one you'll actually stick with.
 
 Retirement planning is where financial planning gets both exciting and terrifying. Exciting because compound growth is genuinely powerful. Terrifying because the numbers involved are large and the timeline is long.
 
-**How much do you need?** The classic "4% rule" suggests you can safely withdraw 4% of your portfolio annually in retirement without running out of money over 30 years. Working backward: if you need $60,000/year in retirement, you need $1.5 million ($60,000 / 0.04).
+**How much do you need?** The classic "4% rule" suggests you can safely withdraw 4% of your portfolio annually in retirement without [running](/running) out of money over 30 years. Working backward: if you need $60,000/year in retirement, you need $1.5 million ($60,000 / 0.04).
 
 That's a lot of money. But time and compound growth make it achievable. Here's the math:
 
@@ -136,13 +136,13 @@ A common rule of thumb: hold your age in bonds (a 30-year-old would hold 30% bon
 
 Warren Buffett—perhaps the greatest investor in history—has said that for most people, a low-cost S&P 500 index fund is the best investment. He put his money where his mouth is, betting a hedge fund manager $1 million that an S&P 500 index fund would outperform a basket of hedge funds over 10 years. Buffett won handily.
 
-**Diversification** means spreading investments across different asset classes, geographies, and sectors. Don't put all your money in tech stocks, or U.S. stocks, or any single bet. A diversified portfolio—U.S. stocks, international stocks, bonds, real estate—smooths returns over time and reduces the damage from any single investment declining.
+**Diversification** means spreading investments across different asset classes, geographies, and sectors. Don't put all your money in tech stocks, or U.S. stocks, or any single bet. A diversified portfolio—U.S. stocks, international stocks, bonds, [real estate](/real-estate)—smooths returns over time and reduces the damage from any single investment declining.
 
 ### 6. Risk Management and Insurance
 
 Insurance is the least exciting part of financial planning and possibly the most important for protecting everything else.
 
-**Health insurance**: Medical bills are the leading cause of bankruptcy in the United States. Even a single emergency room visit can cost $3,000-$10,000 without insurance. An extended hospital stay or serious illness can generate bills in the hundreds of thousands.
+**[Health insurance](/health-insurance)**: Medical bills are the leading cause of bankruptcy in the United States. Even a single emergency room visit can cost $3,000-$10,000 without insurance. An extended hospital stay or serious illness can generate bills in the hundreds of thousands.
 
 **Life insurance**: If anyone depends on your income—spouse, children, aging parents—you need life insurance. Term life insurance (coverage for a specific period, typically 20-30 years) is inexpensive and straightforward. A healthy 30-year-old can get $500,000 in coverage for about $25/month.
 
@@ -232,7 +232,7 @@ If you decide to work with a professional, choose carefully.
 
 **Commission-based advisors** earn money from products they sell you—mutual funds, insurance, annuities. This creates conflicts of interest. They might recommend products that pay them higher commissions rather than products that serve you best.
 
-**Robo-advisors** (Betterment, Wealthfront, Vanguard Digital Advisor) provide automated investment management and basic financial planning at low cost. Good for straightforward situations; limited for complex ones.
+**Robo-advisors** (Betterment, Wealthfront, Vanguard Digital Advisor) provide automated [investment management](/investment-management) and basic financial planning at low cost. Good for straightforward situations; limited for complex ones.
 
 The CFP (Certified Financial Planner) designation requires rigorous education, examination, experience, and adherence to ethical standards. It's the most trusted credential in personal financial planning.
 

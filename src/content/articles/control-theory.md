@@ -5,7 +5,7 @@ description: "Control theory is the math behind systems that regulate themselves
 category: everyday-concepts
 tags: ["control theory", "everyday-concepts"]
 heroImage: "/images/articles/control-theory.webp"
-heroAlt: "A block diagram showing feedback control system with input and output signals"
+heroAlt: "Editorial photograph representing the concept of control theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Control Theory?
 
-Control theory is the branch of engineering and mathematics that deals with how systems regulate themselves to achieve desired behavior. Your home thermostat, your car's cruise control, the autopilot on a commercial aircraft, and the temperature regulation in your own body all operate on principles that control theory describes and optimizes.
+Control theory is the branch of [engineering](/engineering) and [mathematics](/mathematics) that deals with how systems regulate themselves to achieve desired behavior. Your home thermostat, your car's cruise control, the autopilot on a commercial aircraft, and the temperature regulation in your own body all operate on principles that control theory describes and optimizes.
 
 ## The Thermostat Example
 
@@ -39,7 +39,7 @@ The easiest way to understand control theory is through a system you probably in
 
 You set your thermostat to 72°F. The room is currently 68°F. The thermostat detects a 4-degree error and turns on the heater. As the room warms, the error shrinks. When the temperature reaches 72°F, the heater shuts off. If the room cools below 72°F again, the cycle repeats.
 
-That's a control system in miniature. It has a **setpoint** (72°F), a **sensor** (the thermometer), a **controller** (the thermostat logic), an **actuator** (the heater), and a **plant** (the room being heated). The key ingredient is **feedback** — the output (room temperature) feeds back to the controller, which adjusts the input (heater operation) accordingly.
+That's a control system in miniature. It has a **setpoint** (72°F), a **sensor** (the thermometer), a **controller** (the thermostat [logic](/logic)), an **actuator** (the heater), and a **plant** (the room being heated). The key ingredient is **feedback** — the output (room temperature) feeds back to the controller, which adjusts the input (heater operation) accordingly.
 
 This basic structure — measure, compare, adjust — underlies every control system, from the simplest home appliance to the guidance systems that land spacecraft.
 
@@ -75,17 +75,17 @@ The Bode plot and Nyquist criterion provide graphical methods for analyzing stab
 
 ## Control Theory in Unexpected Places
 
-**Biology:** Your body is a collection of control systems. Body temperature regulation is a feedback loop — sensors in your skin and hypothalamus detect temperature changes, and your body responds with sweating, shivering, or vasodilation. Blood sugar regulation (insulin and glucagon), blood pressure, and even pupil dilation are biological control systems.
+**[Biology](/biology):** Your body is a collection of control systems. Body temperature regulation is a feedback loop — sensors in your skin and hypothalamus detect temperature changes, and your body responds with sweating, shivering, or vasodilation. Blood sugar regulation (insulin and glucagon), blood pressure, and even pupil dilation are biological control systems.
 
-**Economics:** Central banks use interest rates to control inflation — a feedback process. The Federal Reserve raises rates when inflation is above target and lowers them when it's below. Economists have explicitly borrowed control theory concepts to model these dynamics, though economic systems are far messier than engineering ones.
+**[Economics](/economics):** Central banks use interest rates to control inflation — a feedback process. The Federal Reserve raises rates when inflation is above target and lowers them when it's below. Economists have explicitly borrowed control theory concepts to model these dynamics, though economic systems are far messier than engineering ones.
 
-**Robotics:** Every robot that balances, walks, or flies uses control theory. A drone maintaining hover adjusts its four motor speeds hundreds of times per second based on accelerometer and gyroscope readings. The control algorithms running on that tiny drone are direct descendants of the theory developed for World War II gun aiming systems.
+**[Robotics](/robotics):** Every robot that balances, walks, or flies uses control theory. A drone maintaining hover adjusts its four motor speeds hundreds of times per second based on accelerometer and gyroscope readings. The control algorithms [running](/running) on that tiny drone are direct descendants of the theory developed for [World War II](/world-war-ii) gun aiming systems.
 
 **Autonomous vehicles** use multiple nested control loops — one for steering, one for speed, one for following a planned path, one for higher-level decision-making. Each loop operates at a different timescale, and they must work together seamlessly.
 
 ## The History in Brief
 
-Control theory's modern form emerged from necessity during World War II. Engineers needed to aim anti-aircraft guns at fast-moving targets, which required automatic tracking systems. Norbert Wiener's cybernetics and Hendrik Bode's work at Bell Labs laid the mathematical foundations.
+Control theory's modern form emerged from necessity during World War II. Engineers needed to aim anti-aircraft guns at fast-moving targets, which required automatic tracking systems. Norbert Wiener's [cybernetics](/cybernetics) and Hendrik Bode's work at Bell Labs laid the mathematical foundations.
 
 The field expanded dramatically with the space race. Getting spacecraft to the moon required control systems of unprecedented precision. Rudolf Kalman's state-space methods (1960s) and the Kalman filter — still used in everything from GPS to smartphone sensors — became essential tools.
 

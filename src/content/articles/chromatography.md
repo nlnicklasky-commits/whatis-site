@@ -5,7 +5,7 @@ description: "Chromatography separates mixtures into individual components for a
 category: science
 tags: ["chromatography", "analytical chemistry", "separation science", "laboratory techniques", "biochemistry", "forensics", "chemical analysis"]
 heroImage: "/images/articles/chromatography-hero.webp"
-heroAlt: "Laboratory chromatography column separating colorful chemical compounds"
+heroAlt: "Editorial photograph representing the concept of chromatography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -149,11 +149,11 @@ Every pill, injection, and topical medication undergoes chromatographic testing.
 
 Drug development relies on chromatography at every stage—from isolating natural products with biological activity, to purifying synthetic compounds, to monitoring drug metabolism in clinical trials. Without chromatography, modern pharmaceutical development would be essentially impossible.
 
-### Forensic Science
+### [Forensic Science](/forensic-science)
 
 Crime scene analysis uses chromatography extensively. GC-MS identifies drugs, explosives, accelerants, and toxic substances. HPLC analyzes dyes in fibers, inks on documents, and components of cosmetics and personal care products. These identifications can link a suspect to a crime scene or establish a timeline of events.
 
-Toxicology—determining what substances are in a deceased person's body—depends almost entirely on chromatographic methods. Blood alcohol testing, drug screening, and poison detection all use some form of chromatography.
+[Toxicology](/toxicology)—determining what substances are in a deceased person's body—depends almost entirely on chromatographic methods. Blood alcohol testing, drug screening, and poison detection all use some form of chromatography.
 
 ### Environmental Monitoring
 
@@ -167,7 +167,7 @@ In [agriculture](/agriculture), chromatography monitors pesticide residues on cr
 
 Food safety testing uses chromatography to detect adulterants, contaminants, and allergens. Is that olive oil really olive oil, or has it been cut with cheaper oils? Chromatography can tell. Are there pesticide residues on those strawberries? HPLC will find them. Is that honey pure, or has it been adulterated with corn syrup? Chromatographic analysis reveals the truth.
 
-Wine, beer, and spirits producers use chromatography to monitor fermentation, control flavor profiles, and ensure consistency. The hundreds of flavor compounds in wine can be separated and identified by GC, helping winemakers understand what gives their product its character.
+Wine, beer, and spirits producers use chromatography to monitor [fermentation](/fermentation), control flavor profiles, and ensure consistency. The hundreds of flavor compounds in wine can be separated and identified by GC, helping winemakers understand what gives their product its character.
 
 ### Clinical Diagnostics
 
@@ -189,7 +189,7 @@ The output of a chromatographic analysis is called a chromatogram—a graph show
 
 A well-separated chromatogram looks like a series of distinct, sharp peaks rising from a flat baseline—like a city skyline. Poor separation produces overlapping peaks that make identification and quantification difficult.
 
-Chromatographers spend considerable effort optimizing conditions—adjusting mobile phase composition, temperature, flow rate, and column selection—to achieve the best possible separation for their specific samples. This optimization is part science, part art, and increasingly aided by [algorithms](/algorithms) and computer modeling.
+Chromatographers spend considerable effort optimizing conditions—adjusting mobile phase composition, temperature, flow rate, and column selection—to achieve the best possible separation for their specific samples. This [optimization](/optimization) is part science, part art, and increasingly aided by [algorithms](/algorithms) and computer modeling.
 
 ## Limitations and Challenges
 
@@ -207,9 +207,9 @@ Chromatography is powerful but not perfect.
 
 Miniaturization is a major trend. Lab-on-a-chip devices integrate chromatographic separation into microfluidic systems the size of a credit card. These could bring chromatographic analysis to point-of-care medical testing, field environmental monitoring, and food safety testing at farms and processing plants.
 
-Two-dimensional chromatography—running a sample through two different separation mechanisms in sequence—provides dramatically better separation of complex mixtures. This technique is increasingly used for proteomics (studying the complete set of proteins in a cell), metabolomics, and petroleum analysis.
+Two-dimensional chromatography—running a sample through two different separation mechanisms in sequence—provides dramatically better separation of complex mixtures. This technique is increasingly used for [proteomics](/proteomics) (studying the complete set of proteins in a cell), metabolomics, and petroleum analysis.
 
-Artificial intelligence and machine learning are changing how chromatographic data is interpreted. Pattern recognition [algorithms](/algorithms) can identify compounds from complex chromatograms faster and more reliably than manual analysis, particularly when dealing with overlapping peaks or noisy data.
+[Artificial intelligence](/artificial-intelligence) and machine learning are changing how chromatographic data is interpreted. [Pattern recognition](/pattern-recognition) [algorithms](/algorithms) can identify compounds from complex chromatograms faster and more reliably than manual analysis, particularly when dealing with overlapping peaks or noisy data.
 
 Green chromatography aims to reduce the environmental impact of the technique itself—using less toxic solvents, reducing solvent consumption, and recycling waste. Given that a busy HPLC lab might use hundreds of liters of organic solvents per month, these improvements matter.
 

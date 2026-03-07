@@ -5,7 +5,7 @@ description: Cognitive bias explained—why our brains take mental shortcuts, ho
 category: psychology
 tags: ["cognitive-bias", "psychology", "decision-making", "behavioral-economics", "heuristics", "critical-thinking"]
 heroImage: "/images/articles/cognitive-bias-hero.webp"
-heroAlt: "Illustration showing a human silhouette with interconnected neurons and question marks, representing how biased thinking affects decision-making"
+heroAlt: "Editorial photograph representing the concept of cognitive bias"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Cognitive bias is the systematic pattern in which your brain deviates from ratio
 
 Your brain processes roughly 11 million pieces of information per second. But your conscious mind can handle only about 40 to 50 pieces per second. That gap creates a massive problem—you need to function, but you're drowning in data.
 
-So your brain developed a solution: heuristics. These are mental shortcuts—quick, automatic rules of thumb that help you decide what to pay attention to and what to ignore. Most of the time, they work beautifully. They've helped humans survive for thousands of years.
+So your brain developed a solution: [heuristics](/heuristics). These are mental shortcuts—quick, automatic rules of thumb that help you decide what to pay attention to and what to ignore. Most of the time, they work beautifully. They've helped humans survive for thousands of years.
 
 The problem is that heuristics sometimes fail. When they fail systematically—when the same type of error happens again and again—you get a cognitive bias.
 
@@ -83,9 +83,9 @@ This isn't to say you made the wrong choice—you might not have. But recognizin
 
 ## The Connection to [Behavioral-Economics](/behavioral-economics)
 
-Behavioral economists have spent decades studying how cognitive biases affect financial choices. Traditional economic theory assumes people make perfectly rational decisions in their own self-interest. Research in behavioral economics proves this assumption is nonsense.
+Behavioral economists have spent decades studying how cognitive biases affect financial choices. Traditional [economic theory](/economic-theory) assumes people make perfectly rational decisions in their own self-interest. Research in behavioral economics proves this assumption is nonsense.
 
-People hold losing stocks too long (sunk cost fallacy and loss aversion), buy insurance against unlikely events (availability bias), spend more freely with credit cards than cash (mental accounting), and overweight recent performance when selecting investment funds (recency bias). Markets themselves become biased—stock prices rise excessively after good news (overconfidence) and fall excessively after bad news (pessimism bias).
+People hold losing stocks too long (sunk cost fallacy and loss aversion), buy [insurance](/insurance) against unlikely events (availability bias), spend more freely with credit cards than cash (mental [accounting](/accounting)), and overweight recent performance when selecting investment funds (recency bias). Markets themselves become biased—stock prices rise excessively after good news (overconfidence) and fall excessively after bad news (pessimism bias).
 
 The predictability of these irrational patterns means they can be studied, measured, and sometimes exploited. It also means you can anticipate them in yourself.
 
@@ -99,7 +99,7 @@ Understanding these systems helps you recognize when you're falling prey to bias
 
 ## [Marketing](/marketing) and Persuasion Through Bias
 
-If you've ever wondered why companies design things the way they do, cognitive bias is often the answer. Marketers study your biases and build them into advertising, pricing, and product design.
+If you've ever wondered why companies design things the way they do, cognitive bias is often the answer. Marketers study your biases and build them into advertising, pricing, and [product design](/product-design).
 
 Anchoring is everywhere—the "original price" crossed out in stores, the expensive product positioned first on a menu (making everything else seem reasonable by comparison), the high starting bid in negotiations. Scarcity appeals exploit your fear of missing out. Social proof—showing that other people bought something—triggers conformity bias.
 

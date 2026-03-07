@@ -5,7 +5,7 @@ description: "Coaching is a structured, goal-oriented process where a trained pr
 category: health-amp-wellness
 tags: ["coaching", "personal development", "professional development", "goal setting", "leadership"]
 heroImage: "/images/articles/coaching.webp"
-heroAlt: "Two professionals having an engaged conversation across a table with notebooks"
+heroAlt: "Editorial photograph representing the concept of coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Coaching?
 
-Coaching is a collaborative, goal-focused process in which a trained professional helps an individual or group improve performance, develop new skills, or achieve specific personal or professional objectives. Unlike therapy, which typically addresses past wounds and mental health conditions, coaching is forward-looking — it starts with where you are and focuses on where you want to go.
+Coaching is a collaborative, goal-focused process in which a trained professional helps an individual or group improve performance, develop new skills, or achieve specific personal or professional objectives. Unlike therapy, which typically addresses past wounds and [mental health](/mental-health) conditions, coaching is forward-looking — it starts with where you are and focuses on where you want to go.
 
 ## The Basics: What Coaching Is (and Isn't)
 
@@ -41,7 +41,7 @@ The simplest way to understand coaching is by contrast.
 
 A **mentor** shares their own experience and gives advice. A **consultant** diagnoses problems and prescribes solutions. A **therapist** treats mental health conditions and processes emotional pain. A **coach** does something different from all three: they ask questions, challenge assumptions, and help you find your own answers.
 
-That last part is key. Good coaches resist the urge to give advice. Instead, they use structured questioning — often called "powerful questions" — to help clients clarify their thinking, identify obstacles, and commit to action. The philosophy is that you already have most of the answers; you just need help accessing them.
+That last part is key. Good coaches resist the urge to give advice. Instead, they use structured questioning — often called "powerful questions" — to help clients clarify their thinking, identify obstacles, and commit to action. The [philosophy](/philosophy) is that you already have most of the answers; you just need help accessing them.
 
 This sounds a bit soft, and honestly, some coaching is. But when it's done well, it's remarkably effective at helping people who are already competent become significantly better. The CEO who can't seem to delegate, the manager whose team doesn't trust her, the entrepreneur who keeps starting projects and never finishing them — these are classic coaching scenarios.
 
@@ -51,7 +51,7 @@ Coaching as a formal profession is younger than you might think. The term was bo
 
 Thomas Leonard, a financial planner who noticed his clients needed life guidance more than money advice, is often credited with founding the personal coaching industry. He created Coach University in 1992 and co-founded the International Coach Federation (ICF) in 1995. The ICF now has over 50,000 credentialed coaches in more than 140 countries.
 
-Executive coaching emerged separately, growing out of organizational psychology and leadership development. By the early 2000s, coaching had gone from a fringe practice to a mainstream professional service. The ICF estimated the global coaching industry was worth $4.564 billion in 2022.
+Executive coaching emerged separately, growing out of [organizational psychology](/organizational-psychology) and [leadership](/leadership) development. By the early 2000s, coaching had gone from a fringe practice to a mainstream professional service. The ICF estimated the global coaching industry was worth $4.564 billion in 2022.
 
 ## Types of Coaching
 
@@ -61,7 +61,7 @@ This is the most established and best-researched form. Executive coaches work wi
 
 The best executive coaching uses 360-degree feedback — gathering input from the leader's boss, peers, and direct reports — to identify blind spots. Leaders often think they're communicating clearly when their teams are confused, or believe they're empowering people when they're actually micromanaging. The gap between self-perception and others' experience is where coaching does its most useful work.
 
-### Life Coaching
+### [Life Coaching](/life-coaching)
 
 Life coaching addresses personal goals: career transitions, relationship patterns, work-life balance, health and fitness, finding purpose. It's the broadest category and, frankly, the most uneven in quality. Because the industry is unregulated, life coaching attracts both highly skilled professionals and people who took a weekend course and printed business cards.
 
@@ -73,7 +73,7 @@ Career coaches specialize in professional transitions — job searches, career c
 
 ### Health and Wellness Coaching
 
-This growing specialty helps people make sustainable health behavior changes — weight management, exercise habits, stress reduction, chronic disease management. Health coaches often work alongside doctors, filling the gap between "your doctor told you to exercise more" and actually doing it consistently. The National Board for Health and Wellness Coaching (NBHWC) established a credentialing process in 2017.
+This growing specialty helps people make sustainable health behavior changes — weight [management](/management), exercise habits, stress reduction, chronic disease management. Health coaches often work alongside doctors, filling the gap between "your doctor told you to exercise more" and actually doing it consistently. The National Board for Health and Wellness Coaching (NBHWC) established a credentialing process in 2017.
 
 ### Team and Group Coaching
 

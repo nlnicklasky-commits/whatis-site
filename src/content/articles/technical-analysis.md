@@ -5,7 +5,7 @@ description: "Technical analysis is a method of evaluating securities by analyzi
 category: finance
 tags: ["technical analysis", "trading", "investing", "stock market"]
 heroImage: "/images/articles/technical-analysis.webp"
-heroAlt: "A stock price candlestick chart with moving average lines and volume bars, displayed on a trader's screen"
+heroAlt: "Editorial photograph representing the concept of technical analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 Technical analysis is a method of evaluating financial securities — stocks, bonds, currencies, commodities — by studying historical price movements, trading volume, and chart patterns to predict where prices might go next. Rather than examining a company's financial statements or economic conditions, technical analysts focus entirely on what the market itself is doing.
 
-The core idea is simple: price movements aren't random. They follow identifiable patterns that tend to repeat because the human psychology driving buying and selling decisions doesn't change much over time. Whether that's actually true is one of the biggest debates in finance. But roughly 30-40% of professional traders and portfolio managers report using technical analysis as a significant part of their decision-making process.
+The core idea is simple: price movements aren't random. They follow identifiable patterns that tend to repeat because the human [psychology](/psychology) driving buying and selling decisions doesn't change much over time. Whether that's actually true is one of the biggest debates in [finance](/finance). But roughly 30-40% of professional traders and portfolio managers report using technical analysis as a significant part of their decision-making process.
 
 ## The Philosophy Behind Technical Analysis
 
@@ -61,7 +61,7 @@ Technical analysis didn't start with computers and fancy software. Its roots go 
 
 **Ralph Nelson Elliott** proposed Elliott Wave Theory in the 1930s, arguing that market prices move in predictable wave patterns driven by investor psychology. His theory identified specific patterns of five waves up and three waves down that he believed reflected natural social mood cycles.
 
-**The computer revolution** transformed technical analysis from hand-drawn charts to algorithmic pattern recognition. Today, quantitative trading firms run [algorithms](/algorithms) that analyze price patterns, execute trades, and manage risk at speeds no human could match. An estimated 60-75% of U.S. equity trading volume is now algorithmic, and much of it incorporates technical analysis concepts.
+**The computer revolution** transformed technical analysis from hand-drawn charts to algorithmic [pattern recognition](/pattern-recognition). Today, quantitative trading firms run [algorithms](/algorithms) that analyze price patterns, execute trades, and manage risk at speeds no human could match. An estimated 60-75% of U.S. equity trading volume is now algorithmic, and much of it incorporates technical analysis concepts.
 
 ## Reading Charts: The Basics
 
@@ -102,7 +102,7 @@ A **trend** is the general direction of price movement. An uptrend consists of h
 
 Trendlines are diagonal lines drawn along the lows of an uptrend or the highs of a downtrend. They help visualize the trend's trajectory and identify potential reversal points. A trendline that's been touched three or more times is considered significant — the more times price bounces off a trendline, the more meaningful a break through it becomes.
 
-**Trend is your friend** — this is perhaps the most repeated phrase in trading. It means that it's generally safer to trade in the direction of the prevailing trend than against it. Fighting a strong trend is like swimming against a current. Possible, but exhausting.
+**Trend is your friend** — this is perhaps the most repeated phrase in trading. It means that it's generally safer to trade in the direction of the prevailing trend than against it. Fighting a strong trend is like [swimming](/swimming) against a current. Possible, but exhausting.
 
 ### Volume
 
@@ -169,7 +169,7 @@ Honest practitioners of technical analysis acknowledge significant limitations:
 
 **Survivorship bias.** You hear about the traders who made fortunes using technical analysis. You don't hear about the far larger number who lost money. The success stories are visible; the failures are silent.
 
-**Self-fulfilling prophecy problem.** Some technical levels "work" because enough people believe they work. If everyone watches the 200-day moving average, they'll buy when price approaches it, creating the support that validates the indicator. This raises an uncomfortable question: is technical analysis measuring something real about markets, or is it just a coordination mechanism?
+**Self-fulfilling [prophecy](/prophecy) problem.** Some technical levels "work" because enough people believe they work. If everyone watches the 200-day moving average, they'll buy when price approaches it, creating the support that validates the indicator. This raises an uncomfortable question: is technical analysis measuring something real about markets, or is it just a coordination mechanism?
 
 **Backtesting isn't forward-testing.** A strategy that worked beautifully on historical data might fail going forward because market conditions change, or because enough traders adopt the same strategy to arbitrage away its edge.
 
@@ -179,8 +179,8 @@ Honest practitioners of technical analysis acknowledge significant limitations:
 
 Professional traders rarely use technical analysis in isolation. Most combine it with:
 
-- **Fundamental analysis** — checking that the underlying business supports the trade thesis
-- **Risk management** — position sizing, stop-losses, and portfolio diversification
+- **[Fundamental analysis](/fundamental-analysis)** — checking that the underlying business supports the trade thesis
+- **[Risk management](/risk-management)** — position sizing, stop-losses, and portfolio diversification
 - **Sentiment analysis** — gauging market mood through options data, surveys, and social media
 - **Macro awareness** — interest rates, economic data, geopolitical events
 

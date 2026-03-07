@@ -5,7 +5,7 @@ description: "Harmony is how musical notes combine into chords and progressions.
 category: arts-amp-culture
 tags: ["harmony", "music theory", "music", "chords", "consonance", "dissonance"]
 heroImage: "/images/articles/harmony.webp"
-heroAlt: "Piano keys with colorful chord diagrams overlaid showing musical harmony"
+heroAlt: "Editorial photograph representing the concept of harmony"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Harmony is what happens when two or more musical notes sound simultaneously and 
 
 ## Why Notes Sound Good (or Terrible) Together
 
-Here's the short version: it comes down to physics. When two notes have frequencies in simple mathematical ratios — like 2:1 (an octave) or 3:2 (a perfect fifth) — their sound waves line up neatly, and your ear perceives them as stable and pleasant. Musicians call this **consonance**.
+Here's the short version: it comes down to [physics](/physics). When two notes have frequencies in simple mathematical ratios — like 2:1 (an octave) or 3:2 (a perfect fifth) — their sound waves line up neatly, and your ear perceives them as stable and pleasant. Musicians call this **consonance**.
 
 When the ratios get more complex — say 45:32 (a tritone) — the waves clash, creating a rough, tense quality called **dissonance**. Neither is inherently better. Music needs both. Consonance without dissonance is boring. Dissonance without resolution is exhausting. The tension and release between the two is what makes harmony actually interesting.
 
@@ -57,19 +57,19 @@ A typical pop song uses maybe four or five different chords. A jazz standard mig
 
 ## How Chords Move — Progressions
 
-Individual chords matter, but harmony really comes alive in how chords move from one to the next. This is called a **chord progression**, and it is arguably the most important concept in Western music theory.
+Individual chords matter, but harmony really comes alive in how chords move from one to the next. This is called a **chord progression**, and it is arguably the most important concept in Western [music theory](/music-theory).
 
 Certain progressions show up everywhere because they just *work*. The I-IV-V-I progression (tonic to subdominant to dominant back to tonic) has been the backbone of Western music for centuries. You'll hear it in Beethoven sonatas, 12-bar blues, country songs, and punk rock. Different clothes, same skeleton.
 
-The I-V-vi-IV progression — sometimes called the "four-chord song" — powers an absurd number of pop hits. "Let It Be," "No Woman No Cry," "With or Without You," "Someone Like You." A comedy group called Axis of Awesome famously mashed up over 40 songs using this single progression to prove the point.
+The I-V-vi-IV progression — sometimes called the "four-chord song" — powers an absurd number of pop hits. "Let It Be," "No Woman No Cry," "With or Without You," "Someone Like You." A [comedy](/comedy) group called Axis of Awesome famously mashed up over 40 songs using this single progression to prove the point.
 
-Why do these progressions feel so natural? Because they create clear patterns of tension and resolution. The dominant chord (V) contains a note that *really* wants to resolve to the tonic (I). Your ear expects it. When the resolution arrives, it feels satisfying. When a composer delays or subverts that expectation, it creates surprise, drama, or unease.
+Why do these progressions feel so natural? Because they create clear patterns of tension and resolution. The dominant chord (V) contains a note that *really* wants to resolve to the tonic (I). Your ear expects it. When the resolution arrives, it feels satisfying. When a composer delays or subverts that expectation, it creates surprise, [drama](/drama), or unease.
 
 ## Beyond Western Harmony
 
 Western harmony — built on triads, functional progressions, and equal temperament tuning — is just one approach. And frankly, treating it as "the" system of harmony is a pretty narrow view.
 
-**Indian classical music** uses a completely different framework. Instead of chord changes, it builds harmony through the relationship between a melodic line (raga) and a sustained drone note. The drone provides a harmonic reference point, and the melody creates tension and resolution against it.
+**[Indian classical music](/indian-classical-music)** uses a completely different framework. Instead of chord changes, it builds harmony through the relationship between a melodic line (raga) and a sustained drone note. The drone provides a harmonic reference point, and the melody creates tension and resolution against it.
 
 **Indonesian gamelan** music uses tuning systems (slendro and pelog) that don't match Western scales at all. The "harmony" of a gamelan ensemble comes from the interaction of interlocking rhythmic patterns and the natural beating between slightly detuned instruments — an effect that Western theory would classify as dissonant but that sounds completely natural in context.
 
@@ -81,7 +81,7 @@ Composers and songwriters have understood for centuries that harmonic choices di
 
 But it goes deeper than major = happy, minor = sad. Unexpected chord changes create surprise. Unresolved dissonance creates anxiety. Slowly descending bass lines create a feeling of inevitability. The "Neapolitan chord" (a major chord built on the flattened second scale degree) has been used for dramatic effect since the 1600s — it still sounds striking today.
 
-Film composers exploit these effects constantly. The two-note alternation in *Jaws* works because it is a minor second — the most dissonant interval possible. Hans Zimmer's *Inception* score uses stacked fifths to create a sense of vast, ambiguous space. These aren't random choices. They are harmonic engineering.
+Film composers exploit these effects constantly. The two-note alternation in *Jaws* works because it is a minor second — the most dissonant interval possible. Hans Zimmer's *Inception* score uses stacked fifths to create a sense of vast, ambiguous space. These aren't random choices. They are harmonic [engineering](/engineering).
 
 ## Learning Harmony — Where to Start
 

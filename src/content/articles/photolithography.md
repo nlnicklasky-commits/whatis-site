@@ -5,7 +5,7 @@ description: "Photolithography is the process used to pattern microchips by proj
 category: everyday-concepts
 tags: ["photolithography", "semiconductors", "microchips", "manufacturing", "silicon", "technology"]
 heroImage: "/images/articles/photolithography.webp"
-heroAlt: "A silicon wafer being processed inside a photolithography machine with ultraviolet light"
+heroAlt: "Editorial photograph representing the concept of photolithography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Photolithography is the manufacturing process that prints microscopic patterns o
 
 Here's a number to wrap your head around: a modern smartphone processor contains roughly 15 billion transistors. Each transistor is a tiny switch, a few nanometers across — smaller than a virus. Photolithography is what makes it physically possible to create billions of those switches on a chip the size of your fingernail.
 
-Without photolithography, there are no computers, no smartphones, no internet infrastructure, no modern cars, no medical imaging equipment, no GPS. The entire digital world rests on the ability to print impossibly small patterns onto silicon — and photolithography is how we do it.
+Without photolithography, there are no computers, no smartphones, no internet infrastructure, no modern cars, no [medical imaging](/medical-imaging) equipment, no GPS. The entire digital world rests on the ability to print impossibly small patterns onto silicon — and photolithography is how we do it.
 
 ## The Basic Process
 
@@ -61,7 +61,7 @@ Photolithography's fundamental challenge is resolution — how small a feature c
 
 Early photolithography used visible light (wavelengths around 400-700 nanometers). As chips needed smaller features, the industry moved to shorter wavelengths: mercury lamp g-line (436nm) in the 1980s, i-line (365nm) in the late 1980s, deep ultraviolet KrF (248nm) in the 1990s, and ArF (193nm) starting around 2000.
 
-By the 2010s, the industry was stuck at 193nm and needed to print features below 20nm — more than 10 times smaller than the wavelength. Engineers achieved this through increasingly elaborate tricks: immersion lithography (placing water between the lens and wafer to effectively shorten the wavelength), multiple patterning (printing the pattern in multiple passes with offset masks), and computational lithography (using software to pre-distort the mask pattern so the printed result comes out correct).
+By the 2010s, the industry was stuck at 193nm and needed to print features below 20nm — more than 10 times smaller than the wavelength. Engineers achieved this through increasingly elaborate tricks: immersion [lithography](/lithography) (placing water between the lens and wafer to effectively shorten the wavelength), multiple patterning (printing the pattern in multiple passes with offset masks), and computational lithography (using software to pre-distort the mask pattern so the printed result comes out correct).
 
 These workarounds were brilliant but expensive and complex. Each new chip generation required more masks, more passes, and more processing time.
 

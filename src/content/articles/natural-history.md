@@ -5,7 +5,7 @@ description: "Natural history is the observation and study of the natural world 
 category: science
 tags: ["natural history", "biology", "ecology", "biodiversity", "observation", "conservation", "nature"]
 heroImage: "/images/articles/natural-history-hero.webp"
-heroAlt: "Victorian-style botanical illustration showing diverse plant specimens and insects"
+heroAlt: "Editorial photograph representing the concept of natural history"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 Natural history is the systematic observation, description, and study of the natural world — animals, plants, fungi, minerals, fossils, weather, and the relationships between them. It's one of the oldest forms of science, predating laboratory experiments by millennia. Before there were microscopes, gene sequencers, or statistical models, there were people watching, collecting, describing, and trying to make sense of the living and non-living world around them.
 
-If that sounds quaint compared to modern molecular [biology](/biology) or computational [ecology](/ecology), consider this: almost everything we know about species distribution, seasonal behavior, population trends, and ecosystem change builds on centuries of natural history observation. Darwin's theory of evolution emerged from natural history. Conservation biology depends on it. Climate change research uses natural history records stretching back hundreds of years to understand how species and ecosystems are shifting.
+If that sounds quaint compared to modern molecular [biology](/biology) or computational [ecology](/ecology), consider this: almost everything we know about species distribution, seasonal behavior, population trends, and ecosystem change builds on centuries of natural history observation. Darwin's theory of evolution emerged from natural history. [Conservation biology](/conservation-biology) depends on it. Climate change research uses natural history records stretching back hundreds of years to understand how species and ecosystems are shifting.
 
 Natural history isn't a relic. It's a foundation — and one that's arguably more important now than ever.
 
@@ -53,11 +53,11 @@ Natural history is deliberately broad. Historically, it encompassed everything t
 
 **Geology and mineralogy** — the study of rocks, minerals, landforms, and Earth's physical processes. Early geologists were natural historians who described rock formations, collected mineral specimens, and gradually developed the concept of deep geological time.
 
-**Paleontology** — the study of fossils and ancient life. Fossil discovery and description is fundamentally natural history work — finding specimens in the field, preparing and describing them, and placing them in evolutionary context.
+**[Paleontology](/paleontology)** — the study of fossils and ancient life. Fossil discovery and description is fundamentally natural history work — finding specimens in the field, preparing and describing them, and placing them in evolutionary context.
 
-**Entomology, ornithology, ichthyology, herpetology** — specialized branches focusing on insects, birds, fish, and reptiles/amphibians respectively. These fields retain particularly strong natural history traditions because field observation remains essential to understanding species behavior, distribution, and ecology.
+**Entomology, ornithology, [ichthyology](/ichthyology), [herpetology](/herpetology)** — specialized branches focusing on insects, birds, fish, and reptiles/amphibians respectively. These fields retain particularly strong natural history traditions because field observation remains essential to understanding species behavior, distribution, and ecology.
 
-**Meteorology and astronomy** — historically grouped under natural history as the study of celestial and atmospheric phenomena. [Astronomy](/astronomy) gradually separated into its own discipline, but weather observation and climate recording retain natural history connections.
+**[Meteorology](/meteorology) and astronomy** — historically grouped under natural history as the study of celestial and atmospheric phenomena. [Astronomy](/astronomy) gradually separated into its own discipline, but weather observation and climate recording retain natural history connections.
 
 ## A History of Watching Carefully
 
@@ -153,7 +153,7 @@ These platforms represent a genuine fusion of traditional natural history with m
 
 ## The Problem of Declining Naturalist Expertise
 
-Paradoxically, even as citizen science expands, professional expertise in traditional natural history is declining. Many universities have reduced or eliminated courses in taxonomy, field biology, and organismal biology in favor of molecular biology, genomics, and computational approaches.
+Paradoxically, even as citizen science expands, professional expertise in traditional natural history is declining. Many universities have reduced or eliminated courses in taxonomy, field biology, and organismal biology in favor of [molecular biology](/molecular-biology), genomics, and computational approaches.
 
 The result is a growing gap. There are fewer trained taxonomists at the exact moment when the biodiversity crisis demands more. A 2020 study found that about 20% of described species are known from only one or two specimens — meaning a single taxonomist's retirement can effectively remove the expertise needed to identify an entire group of organisms.
 

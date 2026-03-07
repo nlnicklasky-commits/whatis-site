@@ -5,7 +5,7 @@ description: "Kite flying is the practice of launching and controlling tethered 
 category: everyday-concepts
 tags: ["kites", "outdoor recreation", "wind", "hobbies", "aerodynamics"]
 heroImage: "/images/articles/kites.webp"
-heroAlt: "Colorful delta kite soaring against a bright blue sky over an open field"
+heroAlt: "Editorial photograph representing the concept of kite flying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,21 +35,21 @@ Kite flying is the art and recreation of launching a tethered, heavier-than-air 
 
 ## How a Kite Actually Works
 
-The physics are the same as airplane wings, just simpler. Wind hits the kite's surface at an angle (the "angle of attack"). Because air flows faster over the top surface than the bottom, you get lower pressure above and higher pressure below. That pressure difference creates lift.
+The [physics](/physics) are the same as airplane wings, just simpler. Wind hits the kite's surface at an angle (the "angle of attack"). Because air flows faster over the top surface than the bottom, you get lower pressure above and higher pressure below. That pressure difference creates lift.
 
 The string — technically the "tether" or "flying line" — does two critical jobs. It keeps the kite from simply blowing away downwind, and it holds the kite at the correct angle to generate lift. Without the line, a kite is just a piece of fabric tumbling across a field.
 
 The tail, if present, provides drag that keeps the kite oriented correctly. Not all kites need tails — well-designed deltas and box kites are inherently stable — but that streaming ribbon behind a classic diamond kite is doing real aerodynamic work.
 
-## A Very Old Invention
+## A Very Old [Invention](/invention)
 
 Kites originated in China around 800-700 BCE, making them one of the oldest flying devices in human history. Early kites were made from silk and bamboo, and they were serious technology — used for measuring distances, testing wind conditions, signaling military units, and (allegedly) lifting observers for reconnaissance.
 
 By 600 CE, kites had spread across Asia. In Japan, kites became part of religious festivals and celebrations. In India, kite fighting — using line coated in ground glass to cut opponents' strings — became a competitive tradition that remains hugely popular today, especially during the Makar Sankranti festival when millions of kites fill the sky simultaneously.
 
-Kites reached Europe around the 12th-13th century. For a few hundred years they were mostly toys and curiosities. Then Benjamin Franklin (probably) flew his famous kite in a thunderstorm in 1752, demonstrating the electrical nature of lightning. Whether or not Franklin actually performed the experiment as described — historians debate this — kites became serious scientific tools.
+Kites reached Europe around the 12th-13th century. For a few hundred years they were mostly toys and curiosities. Then Benjamin Franklin (probably) flew his famous kite in a thunderstorm in 1752, demonstrating the electrical nature of lightning. Whether or not Franklin actually performed the experiment as described — historians [debate](/debate) this — kites became serious scientific tools.
 
-The Wright brothers used kites extensively while developing their understanding of aerodynamics before building the first airplane. Alexander Graham Bell built massive tetrahedral kites in the early 1900s as part of his aviation research. For centuries before powered flight, kites were how humans studied the air.
+The Wright brothers used kites extensively while developing their understanding of [aerodynamics](/aerodynamics) before building the first airplane. Alexander Graham Bell built massive tetrahedral kites in the early 1900s as part of his [aviation](/aviation) research. For centuries before powered flight, kites were how humans studied the air.
 
 ## Types of Kites
 
@@ -61,7 +61,7 @@ The Wright brothers used kites extensively while developing their understanding 
 
 **Parafoil kites** — soft kites with no rigid frame. They use air pressure to inflate cells that create an airfoil shape, similar to a parachute or paraglider. Parafoils are practically indestructible (no sticks to break), pack flat, and range from small recreational models to enormous power kites used in kiteboarding.
 
-**Stunt kites** — two-line (or four-line) kites designed for aerobatic flying. Two lines let you steer the kite left and right, performing loops, dives, and figure eights. Sport kite flying is competitive — precision and ballet events judge pilots on their ability to trace exact patterns in the sky, sometimes synchronized with music.
+**Stunt kites** — two-line (or four-line) kites designed for aerobatic flying. Two lines let you steer the kite left and right, performing loops, dives, and figure eights. Sport kite flying is competitive — precision and [ballet](/ballet) events judge pilots on their ability to trace exact patterns in the sky, sometimes synchronized with music.
 
 **Power kites** — large foil kites that generate enough pull to drag a person across sand, snow, or water. Kiteboarding (or kitesurfing) uses these kites to propel riders across waves at speeds exceeding 30 mph. Power kiting is an extreme sport with real risks — the forces involved can lift an unprepared person off the ground.
 
@@ -85,6 +85,6 @@ You need three things: a kite, wind, and open space.
 
 ## Why People Keep Coming Back
 
-Kite flying is one of those activities that sounds childish until you actually do it. There is something genuinely meditative about standing in a field, feeling the wind through the line, watching a shape dance against the clouds. The line transmits every gust and lull directly to your hands — you are physically connected to the atmosphere in a way that is hard to describe and surprisingly satisfying.
+Kite flying is one of those activities that sounds childish until you actually do it. There is something genuinely meditative about standing in a field, feeling the wind through the line, watching a shape [dance](/dance) against the clouds. The line transmits every gust and lull directly to your hands — you are physically connected to the atmosphere in a way that is hard to describe and surprisingly satisfying.
 
-And then there is the progression. Once basic flying clicks, you can move to stunt kites and spend months learning precision maneuvers. Or build your own kites and experiment with designs. Or try kite photography, kite fishing, or kite buggying. The rabbit hole goes deeper than you would expect from something that starts with a piece of fabric on a string.
+And then there is the progression. Once basic flying clicks, you can move to stunt kites and spend months learning precision maneuvers. Or build your own kites and experiment with designs. Or try kite photography, kite [fishing](/fishing), or kite buggying. The rabbit hole goes deeper than you would expect from something that starts with a piece of fabric on a string.

@@ -5,7 +5,7 @@ description: "Soil mechanics studies how soil behaves under stress and water flo
 category: science
 tags: ["soil mechanics", "geotechnical engineering", "civil engineering", "geology", "construction", "earth science"]
 heroImage: "/images/articles/soil-mechanics.webp"
-heroAlt: "Cross-section of soil layers showing different strata and a foundation being tested for bearing capacity"
+heroAlt: "Editorial photograph representing the concept of soil mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,9 +49,9 @@ This variability is what makes soil mechanics challenging and why geotechnical f
 
 Soil mechanics as a scientific discipline essentially began with one man: Karl Terzaghi, an Austrian engineer who published *Erdbaumechanik* (Earthwork Mechanics) in 1925. Before Terzaghi, foundation design was largely empirical — rules of thumb, local experience, and occasional disaster.
 
-Terzaghi brought the rigor of [physics](/physics) and mathematics to soil behavior. His most important contribution was the principle of effective stress, which explains how water pressure in soil's pores interacts with the stress carried by the soil's particle skeleton. This single concept unlocked the ability to predict settlement, shear strength, and slope stability with mathematical precision.
+Terzaghi brought the rigor of [physics](/physics) and [mathematics](/mathematics) to soil behavior. His most important contribution was the principle of effective stress, which explains how water pressure in soil's pores interacts with the stress carried by the soil's particle skeleton. This single concept unlocked the ability to predict settlement, shear strength, and slope stability with mathematical precision.
 
-He also developed the theory of consolidation — how saturated clay compresses over time as water is squeezed out — which explains why some buildings continue to settle for years or decades after construction.
+He also developed the theory of consolidation — how saturated clay compresses over time as water is squeezed out — which explains why some buildings continue to settle for years or decades after [construction](/construction).
 
 Terzaghi's colleague Arthur Casagrande developed the soil classification systems and laboratory testing methods that are still standard practice. Ralph Peck extended their work to practical foundation engineering. Together, these three established geotechnical engineering as a modern discipline.
 
@@ -98,7 +98,7 @@ Why does this matter? Because soil behavior — strength, stiffness, volume chan
 
 ### Shear Strength
 
-Soil fails by shearing — one mass of soil sliding past another along a surface. The shear strength of soil determines how much load a foundation can carry, how steep a slope can stand, and how deep an excavation can go without the walls caving in.
+Soil fails by shearing — one mass of soil sliding past another along a surface. The shear strength of soil determines how much load a foundation can carry, how steep a slope can stand, and how deep an excavation can go without the walls [caving](/caving) in.
 
 For coarse soils (sand and gravel), shear strength comes from friction between particles. Denser soil = more particle contacts = higher friction = higher strength. The Mohr-Coulomb failure criterion describes this: shear strength equals the normal stress times the tangent of the friction angle (tau = sigma' * tan(phi)).
 
@@ -173,4 +173,4 @@ Traditional soil mechanics relies heavily on analytical solutions — closed-for
 
 Here's the honest truth about soil mechanics: it's one of the most uncertain branches of [engineering](/engineering). You can't inspect all the soil under a building the way you can inspect all the steel in a bridge. You sample at discrete locations and extrapolate. You test small specimens and apply the results to large volumes. You use theories derived for idealized materials on natural materials that are anything but ideal.
 
-This uncertainty is why geotechnical engineering uses higher safety factors than structural engineering (typically 2.5-3 for foundations vs. 1.5-2 for steel structures) and why experienced judgment — the kind that comes from years of seeing how real soil behaves — matters as much as calculation ability. The best soil mechanics engineers combine rigorous analysis with healthy skepticism about their own models. As Ralph Peck famously advised: "Watch, observe, and adapt."
+This uncertainty is why geotechnical engineering uses higher safety factors than [structural engineering](/structural-engineering) (typically 2.5-3 for foundations vs. 1.5-2 for steel structures) and why experienced judgment — the kind that comes from years of seeing how real soil behaves — matters as much as calculation ability. The best soil mechanics engineers combine rigorous analysis with healthy skepticism about their own models. As Ralph Peck famously advised: "Watch, observe, and adapt."

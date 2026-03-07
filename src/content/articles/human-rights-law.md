@@ -5,7 +5,7 @@ description: "Human rights law is the body of international and domestic rules p
 category: law
 tags: ["human rights law", "human rights", "international law", "justice", "equality"]
 heroImage: "/images/articles/human-rights-law.webp"
-heroAlt: "The United Nations General Assembly hall where the Universal Declaration was adopted"
+heroAlt: "Editorial photograph representing the concept of human rights law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ The notion that individuals possess rights that governments cannot legitimately 
 
 The American Declaration of Independence (1776) and the French Declaration of the Rights of Man and of the Citizen (1789) got closer. Both asserted that rights were "natural" and belonged to all people, not just aristocrats. But both also applied selectively in practice — the American founders enslaved people, and the French revolutionaries denied women political rights.
 
-The real catalyst for modern human rights law was World War II. The Holocaust, the Japanese military's treatment of prisoners and civilians, the firebombing of cities, and the sheer scale of state-inflicted suffering made it impossible to maintain the old position that what a government did to its own people was purely its own business.
+The real catalyst for modern human rights law was [World War II](/world-war-ii). The Holocaust, the Japanese military's treatment of prisoners and civilians, the firebombing of cities, and the sheer scale of state-inflicted suffering made it impossible to maintain the old position that what a [government](/government) did to its own people was purely its own business.
 
 ## The Universal Declaration: 1948
 
 On December 10, 1948, the United Nations General Assembly adopted the Universal Declaration of Human Rights (UDHR) by a vote of 48-0, with 8 abstentions (the Soviet bloc, Saudi Arabia, and South Africa). The document was drafted by a committee chaired by Eleanor Roosevelt and included contributors from multiple legal traditions — Lebanese philosopher Charles Malik, Chinese diplomat P.C. Chang, French jurist Rene Cassin, and others.
 
-The UDHR contains 30 articles covering civil and political rights (freedom of speech, religion, assembly, the right to a fair trial, freedom from torture and slavery) and economic, social, and cultural rights (the right to education, work, health, and an adequate standard of living). It was deliberately written in accessible language — you can read the whole thing in about 15 minutes.
+The UDHR contains 30 articles covering civil and political rights (freedom of speech, [religion](/religion), assembly, the right to a fair trial, freedom from torture and slavery) and economic, social, and cultural rights (the right to [education](/education), work, health, and an adequate standard of living). It was deliberately written in accessible language — you can read the whole thing in about 15 minutes.
 
 Here's something people often misunderstand: the UDHR is not a treaty. It's a declaration — a statement of principles. On its own, it doesn't create legally binding obligations. But its influence has been staggering. It has been translated into over 500 languages, making it the most translated document in history. Its provisions have been incorporated into dozens of national constitutions and have served as the philosophical foundation for binding [international law](/international-law) instruments.
 
@@ -78,7 +78,7 @@ The real enforcement muscle exists at the regional level, and it's unevenly dist
 
 **Europe** has the strongest system. The European Convention on Human Rights (1950) created the European Court of Human Rights in Strasbourg, which hears cases brought by individuals against member states. Its judgments are legally binding, and compliance rates are generally high — though not perfect. The court has delivered landmark rulings on freedom of expression, privacy rights, LGBTQ+ rights, and treatment of prisoners.
 
-**The Americas** have the Inter-American Commission and Court of Human Rights, based on the American Convention on Human Rights (1969). The system has produced important jurisprudence, particularly regarding forced disappearances and indigenous peoples' rights, but enforcement is weaker than the European system. The United States has signed but not ratified the American Convention.
+**The Americas** have the Inter-American Commission and Court of Human Rights, based on the American Convention on Human Rights (1969). The system has produced important [jurisprudence](/jurisprudence), particularly regarding forced disappearances and indigenous peoples' rights, but enforcement is weaker than the European system. The United States has signed but not ratified the American Convention.
 
 **Africa** established the African Court on Human and Peoples' Rights in 2006, building on the African Charter on Human and Peoples' Rights (1981). The African Charter is notable for including collective rights (peoples' rights to self-determination and control over natural resources) and corresponding duties — a departure from the Western focus on individual rights.
 
@@ -98,7 +98,7 @@ This creates what critics call a "justice gap" — where accountability tends to
 
 Several ongoing debates shape contemporary human rights law.
 
-**Universalism vs. cultural relativism.** Are human rights truly universal, or do they reflect Western liberal values imposed on diverse cultures? The 1993 Vienna Declaration affirmed universality while acknowledging the significance of cultural and regional particularities. But the debate continues, particularly around issues like gender equality, LGBTQ+ rights, and the death penalty, where cultural and religious positions vary sharply.
+**Universalism vs. cultural relativism.** Are human rights truly universal, or do they reflect Western liberal values imposed on diverse cultures? The 1993 Vienna Declaration affirmed universality while acknowledging the significance of cultural and regional particularities. But the [debate](/debate) continues, particularly around issues like gender equality, LGBTQ+ rights, and the death penalty, where cultural and religious positions vary sharply.
 
 **Civil/political vs. economic/social rights.** During the Cold War, Western states emphasized civil and political rights (free speech, elections) while socialist states emphasized economic and social rights (housing, healthcare, employment). This split persists. The United States, for instance, does not recognize health care or housing as legally enforceable rights, while many European and Latin American countries do.
 

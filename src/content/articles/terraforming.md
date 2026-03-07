@@ -5,7 +5,7 @@ description: "Terraforming is the hypothetical process of modifying a planet's a
 category: science
 tags: ["terraforming", "planetary science", "space colonization", "astrobiology"]
 heroImage: "/images/articles/terraforming.webp"
-heroAlt: "An artistic rendering of Mars transitioning from its red barren surface to a blue-green world with oceans and vegetation"
+heroAlt: "Editorial photograph representing the concept of terraforming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Terraforming?
 
-Terraforming is the theoretical process of deliberately modifying a planet's or moon's environment — its atmosphere, temperature, surface topography, and ecology — to make it suitable for human habitation without the need for enclosed life-support systems. The term was coined by science fiction author Jack Williamson in his 1942 short story "Collision Orbit," but the underlying concept has since become a serious subject of scientific inquiry.
+Terraforming is the theoretical process of deliberately modifying a planet's or moon's environment — its atmosphere, temperature, surface [topography](/topography), and ecology — to make it suitable for human habitation without the need for enclosed life-support systems. The term was coined by [science fiction](/science-fiction) author Jack Williamson in his 1942 short story "Collision Orbit," but the underlying concept has since become a serious subject of scientific inquiry.
 
 ## The Biggest Engineering Project Never Attempted
 
@@ -43,7 +43,7 @@ Here's the scale of what terraforming means: you'd take an entire planet — som
 
 No human engineering project even comes close in scope. The Three Gorges Dam, the International Space Station, the global internet — these are rounding errors compared to what terraforming demands. You're talking about moving gigatons of material, maintaining planetary-scale chemical reactions for centuries, and managing ecological systems of staggering complexity.
 
-And yet, the idea refuses to die. Because the alternative — humanity permanently confined to one planet — carries its own risks. A single asteroid impact, supervolcanic eruption, or self-inflicted catastrophe could end everything. Making humanity a multi-planet species is, in the long view, an insurance policy for civilization itself.
+And yet, the idea refuses to die. Because the alternative — humanity permanently confined to one planet — carries its own risks. A single asteroid impact, supervolcanic eruption, or self-inflicted catastrophe could end everything. Making humanity a multi-planet species is, in the long view, an [insurance](/insurance) policy for civilization itself.
 
 ## Mars — The Primary Candidate
 
@@ -59,7 +59,7 @@ Step one of any Mars terraforming plan is thickening the atmosphere. Several app
 
 **Release existing CO2.** Mars has CO2 frozen at the poles and trapped in the regolith (surface soil). A 2018 study by Bruce Jakosky and Christopher Edwards in *Nature Astronomy* concluded that even if you liberated all accessible CO2 on Mars, you'd only reach about 7% of Earth's atmospheric pressure. That's better than what's there now, but not enough for liquid water everywhere or anything close to breathability.
 
-**Import greenhouse gases.** You could manufacture super-greenhouse gases — perfluorocarbons like CF4 or C2F6 — from Martian surface materials and release them into the atmosphere. These gases are thousands of times more potent than CO2 at trapping heat. Calculations suggest that factories producing about 1,000 tons per hour could raise Mars's temperature by 10-20 degrees Celsius over several decades. That's... a lot of factories.
+**Import greenhouse gases.** You could manufacture super-greenhouse gases — perfluorocarbons like CF4 or C2F6 — from Martian surface materials and release them into the atmosphere. These gases are thousands of times more potent than CO2 at [trapping](/trapping) heat. Calculations suggest that factories producing about 1,000 tons per hour could raise Mars's temperature by 10-20 degrees Celsius over several decades. That's... a lot of factories.
 
 **Redirect comets or asteroids.** Smash volatile-rich objects into Mars to deliver water and gases. The energy release would also heat the surface. The engineering challenges of redirecting even a single comet are immense, and you'd need many. Plus, you'd be regularly bombarding the planet you're trying to make habitable.
 
@@ -137,7 +137,7 @@ Terraforming raises serious ethical issues that the science alone can't resolve.
 
 **Environmental ethics.** Some philosophers argue that Mars's barren grandeur has intrinsic value — that Olympus Mons and Valles Marineris are worth preserving in their natural state, just as we preserve wilderness on Earth. Terraforming would destroy these alien landscapes permanently.
 
-**Colonialism parallels.** The language around terraforming — "making a new world," "taming the frontier" — echoes colonial rhetoric. Several scholars have pointed out the uncomfortable parallels and argued for more careful framing of off-world settlement.
+**Colonialism parallels.** The language around terraforming — "making a new world," "taming the frontier" — echoes colonial [rhetoric](/rhetoric). Several scholars have pointed out the uncomfortable parallels and argued for more careful framing of off-world settlement.
 
 ## The Timeline — When Could This Actually Happen?
 
@@ -155,7 +155,7 @@ These timelines assume continuous investment and no collapse of the supporting c
 
 ## Where We Stand Now
 
-Terraforming isn't happening anytime soon. We haven't even put a human on Mars yet. The basic science of atmospheric engineering, closed-loop ecology, and planetary-scale geophysics needs enormous development.
+Terraforming isn't happening anytime soon. We haven't even put a human on Mars yet. The basic science of atmospheric engineering, closed-loop ecology, and planetary-scale [geophysics](/geophysics) needs enormous development.
 
 But the groundwork is being laid. The Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) on NASA's Perseverance rover successfully produced oxygen from Mars's CO2 atmosphere in 2021 — about 10 grams per hour. That's enough for an astronaut to breathe for about 10 minutes. It's a demonstration, not a solution. But it's also the first time anyone has manufactured a gas on another planet.
 

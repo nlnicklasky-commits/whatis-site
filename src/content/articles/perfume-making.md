@@ -5,7 +5,7 @@ description: "Perfume making blends aromatic compounds to create fragrances. Lea
 category: everyday-concepts
 tags: ["perfume making", "fragrance", "essential oils", "perfumery", "scent", "aromatics"]
 heroImage: "/images/articles/perfume-making.webp"
-heroAlt: "Glass perfume bottles and raw aromatic ingredients like flowers and spices on a workshop table"
+heroAlt: "Editorial photograph representing the concept of perfume making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Perfume Making?
 
-Perfume making — or perfumery — is the art and science of creating fragrances by blending aromatic compounds derived from natural sources (flowers, woods, resins, spices) and synthetic molecules into compositions that smell good on human skin. It's one of the oldest luxury crafts in human history, practiced in some form for at least 4,000 years, and it sits at an unusual intersection of chemistry, artistry, and human psychology.
+Perfume making — or perfumery — is the art and science of creating fragrances by blending aromatic compounds derived from natural sources (flowers, woods, resins, spices) and synthetic molecules into compositions that smell good on human skin. It's one of the oldest luxury crafts in human history, practiced in some form for at least 4,000 years, and it sits at an unusual intersection of [chemistry](/chemistry), artistry, and human [psychology](/psychology).
 
 ## A Very Old Craft
 
 The oldest known perfumery was discovered in Pyrgos, Cyprus, dating to about 2000 BCE. Ancient Egyptians used perfumed oils and incense extensively — both for personal adornment and religious ceremonies. The word "perfume" comes from Latin *per fumum* — "through smoke" — referring to the burning of aromatic resins.
 
-Greeks and Romans adopted and expanded Egyptian perfumery. Arab chemists, particularly Ibn Sina (Avicenna) around 1000 CE, refined distillation techniques that remain fundamental to the industry.
+Greeks and Romans adopted and expanded Egyptian perfumery. Arab chemists, particularly Ibn Sina (Avicenna) around 1000 CE, refined [distillation](/distillation) techniques that remain fundamental to the industry.
 
 Modern perfumery centers on Grasse, a town in southeastern France that became the world capital of fragrance production in the 17th century. Originally a leather-tanning center (perfume was used to mask the smell of leather), Grasse developed an entire industry around growing aromatic plants and extracting their essences. In 2018, UNESCO recognized the perfumery knowledge of Grasse as intangible cultural heritage.
 
@@ -89,10 +89,10 @@ Fragrances are classified into families based on dominant characteristics:
 
 ## The Business
 
-The global fragrance market exceeds $50 billion annually. Designer fragrances (attached to fashion brands) dominate mass-market sales, though niche and independent perfumery has grown significantly since the 2000s.
+The global fragrance market exceeds $50 billion annually. Designer fragrances (attached to fashion brands) dominate mass-market [sales](/sales), though niche and independent perfumery has grown significantly since the 2000s.
 
 Here's something most consumers don't realize: most designer fragrances are not created by the fashion house. They're developed by perfumers at independent fragrance companies (Givaudan, Firmenich, etc.) who compete in "briefs" — specifications issued by the brand. The winning formula is licensed to the brand, and the perfumer's name rarely appears on the bottle.
 
 Niche perfumery — smaller houses like Frederic Malle, Byredo, Le Labo, and Diptyque — has gained popularity partly by doing the opposite: crediting perfumers by name and prioritizing creative freedom over mass-market appeal.
 
-Perfume making is one of those disciplines where science and art are genuinely inseparable. The chemistry of volatility, molecular weight, and olfactory receptor binding determines what's possible. The artistry of composition, balance, and emotional storytelling determines what's beautiful. The best perfumers master both.
+Perfume making is one of those disciplines where science and art are genuinely inseparable. The chemistry of volatility, molecular weight, and olfactory receptor binding determines what's possible. The artistry of composition, balance, and emotional [storytelling](/storytelling) determines what's beautiful. The best perfumers master both.

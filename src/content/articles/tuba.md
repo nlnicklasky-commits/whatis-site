@@ -5,7 +5,7 @@ description: "The tuba is the largest and lowest-pitched brass instrument. Learn
 category: arts-amp-culture
 tags: ["tuba", "brass instruments", "music", "orchestra", "band", "low brass"]
 heroImage: "/images/articles/tuba.webp"
-heroAlt: "A large silver tuba standing upright on a concert stage with warm lighting"
+heroAlt: "Editorial photograph representing the concept of tuba"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,9 +41,9 @@ Those older instruments had serious tuning problems. The tuba solved them with a
 
 ## How It Works
 
-The physics are the same as any brass instrument, just supersized. You buzz your lips into a large cup-shaped mouthpiece. That vibration travels through 12 to 18 feet of conical tubing (depending on the type), getting amplified along the way, and exits through a bell that can be over two feet across.
+The [physics](/physics) are the same as any brass instrument, just supersized. You buzz your lips into a large cup-shaped mouthpiece. That vibration travels through 12 to 18 feet of conical tubing (depending on the type), getting amplified along the way, and exits through a bell that can be over two feet across.
 
-The mouthpiece alone is roughly the size of a small coffee cup. This larger size is actually what makes initial tone production easier than on a trumpet — your lips don't need to vibrate as tightly to produce a pitch.
+The mouthpiece alone is roughly the size of a small coffee cup. This larger size is actually what makes initial tone production easier than on a [trumpet](/trumpet) — your lips don't need to vibrate as tightly to produce a pitch.
 
 Four to six valves (rotary or piston, depending on the model) redirect air through additional tubing to lower the pitch. More valves mean better intonation in the lowest register, which is why professional tubas often have five or six while student models have three or four.
 
@@ -67,7 +67,7 @@ Professional tuba players develop breathing techniques that would impress a free
 
 ## Where You'll Hear It
 
-**Orchestras** — The tuba sits in the back row, usually just one player. But when it enters, you feel it. Wagner, Bruckner, and Mahler wrote tuba parts that anchor entire symphonic climaxes. Mussorgsky's *Pictures at an Exhibition* (in the Ravel orchestration) features one of the most famous tuba solos in the repertoire — "Bydlo," depicting a Polish ox cart.
+**Orchestras** — The tuba sits in the back row, usually just one player. But when it enters, you feel it. Wagner, Bruckner, and Mahler wrote tuba parts that anchor entire symphonic climaxes. Mussorgsky's *Pictures at an Exhibition* (in the Ravel [orchestration](/orchestration)) features one of the most famous tuba solos in the repertoire — "Bydlo," depicting a Polish ox cart.
 
 **Concert and marching bands** — This is where tubas really dominate. A concert band might have four to six tubas providing the bass foundation. In a marching band, sousaphones serve the same purpose with the added advantage of forward-facing projection.
 
@@ -75,13 +75,13 @@ Professional tuba players develop breathing techniques that would impress a free
 
 **Jazz** — Before the string bass and electric bass became standard, the tuba was the bass instrument in early New Orleans jazz. It fell out of favor by the 1930s but has made periodic comebacks. Howard Johnson's tuba work with Taj Mahal and the Saturday Night Live band proved the instrument could swing.
 
-**Solo performance** — Yes, tuba solos exist, and they're more impressive than you might expect. Harvey Phillips, Arnold Jacobs, and Roger Bobo expanded the solo repertoire dramatically in the 20th century. The tuba can be surprisingly agile and expressive in the right hands.
+**[Solo performance](/solo-performance)** — Yes, tuba solos exist, and they're more impressive than you might expect. Harvey Phillips, Arnold Jacobs, and Roger Bobo expanded the solo repertoire dramatically in the 20th century. The tuba can be surprisingly agile and expressive in the right hands.
 
 ## The Unsung Hero Problem
 
-Tuba players have a running joke — nobody knows what they do until they stop doing it. The instrument's role is often felt rather than consciously heard. You don't notice the bass foundation until it disappears, and then everything sounds hollow.
+Tuba players have a [running](/running) joke — nobody knows what they do until they stop doing it. The instrument's role is often felt rather than consciously heard. You don't notice the bass foundation until it disappears, and then everything sounds hollow.
 
-This invisibility extends to popular culture. Tubas get cartoon sound effects and comic relief. The reality is different. Playing tuba at a high level requires exceptional musicianship, physical stamina, and ears good enough to tune a temperamental instrument on the fly.
+This invisibility extends to [popular culture](/popular-culture). Tubas get cartoon sound effects and comic relief. The reality is different. Playing tuba at a high level requires exceptional musicianship, physical stamina, and ears good enough to tune a temperamental instrument on the fly.
 
 ## Getting Started
 
@@ -89,4 +89,4 @@ Student tubas cost between $2,000 and $5,000 — pricier than most student instr
 
 Many school music programs lend tubas to students, which is worth asking about because buying one is a significant investment. Size can also be a factor — younger students might start on euphonium (the tuba's smaller cousin) before transitioning.
 
-The good news: the tuba world is small and welcoming. Tuba players tend to know each other, share resources generously, and take genuine pride in their instrument's underdog status. If you want to play something where competition for chairs is less fierce than, say, flute or clarinet, tuba is a smart choice.
+The good news: the tuba world is small and welcoming. Tuba players tend to know each other, share resources generously, and take genuine pride in their instrument's underdog status. If you want to play something where competition for chairs is less fierce than, say, [flute](/flute) or clarinet, tuba is a smart choice.

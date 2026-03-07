@@ -5,7 +5,7 @@ description: "Chiropractic is a healthcare profession focused on diagnosing and 
 category: health-amp-wellness
 tags: ["chiropractic", "spinal health", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/chiropractic.webp"
-heroAlt: "Chiropractor performing a spinal adjustment on a patient lying on a treatment table"
+heroAlt: "Editorial photograph representing the concept of chiropractic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ The goals of adjustment are to restore joint mobility, reduce pain, decrease mus
 
 Modern chiropractors typically perform a thorough assessment before adjusting. This includes a health history, physical examination, orthopedic and neurological testing, and sometimes X-rays or MRI scans. The [biomechanical](/biomechanics) evaluation — checking how your spine moves, where it's restricted, and what's causing your symptoms — guides treatment decisions.
 
-Beyond spinal adjustments, today's chiropractors often employ additional approaches: soft tissue therapy, rehabilitative exercises, ergonomic advice, nutritional counseling, and education about posture and movement. The profession has diversified considerably from its "adjustment only" origins.
+Beyond spinal adjustments, today's chiropractors often employ additional approaches: soft tissue therapy, rehabilitative exercises, ergonomic advice, nutritional counseling, and [education](/education) about posture and movement. The profession has diversified considerably from its "adjustment only" origins.
 
 ## What Does the Evidence Say?
 
@@ -69,7 +69,7 @@ Here's where things get interesting — and where honest discussion is important
 
 **Headaches:** Moderate evidence supports chiropractic treatment for tension-type headaches and cervicogenic headaches (headaches originating from neck problems). Evidence for migraines is less conclusive.
 
-**Everything else:** Claims that chiropractic can treat asthma, allergies, digestive disorders, ear infections, or other non-musculoskeletal conditions lack strong scientific support. This is where the profession's credibility gets stretched thin. Some chiropractors still make these claims; evidence-based practitioners generally don't.
+**Everything else:** Claims that chiropractic can treat asthma, [allergies](/allergies), digestive disorders, ear infections, or other non-musculoskeletal conditions lack strong scientific support. This is where the profession's credibility gets stretched thin. Some chiropractors still make these claims; evidence-based practitioners generally don't.
 
 The subluxation concept — Palmer's foundational idea — remains controversial even within the profession. Many modern chiropractors have moved away from the traditional subluxation model toward an evidence-based understanding of joint dysfunction and pain science. Others maintain the classical view. This internal division is one of the profession's defining tensions.
 
@@ -87,9 +87,9 @@ Understanding the [anatomy](/anatomy) of the spine helps put the safety discussi
 
 ## Chiropractic Education and Licensing
 
-In the United States, chiropractors earn a Doctor of Chiropractic (DC) degree after roughly four years of graduate education. The curriculum includes [human physiology](/human-physiology), anatomy, biochemistry, pathology, diagnosis, radiology, and extensive training in spinal manipulation and other techniques.
+In the United States, chiropractors earn a Doctor of Chiropractic (DC) degree after roughly four years of graduate education. The curriculum includes [human physiology](/human-physiology), anatomy, [biochemistry](/biochemistry), pathology, diagnosis, radiology, and extensive training in spinal manipulation and other techniques.
 
-Chiropractic programs require significant undergraduate prerequisites, typically including biology, chemistry, physics, and psychology. Total education averages 7-8 years beyond high school.
+Chiropractic programs require significant undergraduate prerequisites, typically including biology, [chemistry](/chemistry), physics, and psychology. Total education averages 7-8 years beyond high school.
 
 All 50 U.S. states license chiropractors, as do most developed countries. Licensing requires passing national board examinations and meeting continuing education requirements. Scope of practice varies by jurisdiction — some states allow chiropractors to perform certain laboratory tests or prescribe limited supplements, while others restrict practice more narrowly.
 
@@ -99,7 +99,7 @@ The relationship between chiropractic and mainstream medicine has evolved signif
 
 Today, the relationship is more collaborative — if still sometimes wary. Many hospitals include chiropractors on staff. The Veterans Administration and Department of Defense provide chiropractic services. Insurance coverage for chiropractic care is widespread.
 
-The trend among evidence-based chiropractors is toward integration with mainstream healthcare — working alongside physicians, physical therapists, and other providers as part of a treatment team. This approach focuses chiropractic on what it does best (musculoskeletal pain management) rather than making claims about treating conditions outside its evidence base.
+The trend among evidence-based chiropractors is toward integration with mainstream healthcare — working alongside physicians, physical therapists, and other providers as part of a treatment team. This approach focuses chiropractic on what it does best (musculoskeletal pain [management](/management)) rather than making claims about treating conditions outside its evidence base.
 
 ## Making an Informed Decision
 

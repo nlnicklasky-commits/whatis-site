@@ -5,7 +5,7 @@ description: "Pathology is the medical science of disease — its causes, mechan
 category: health-amp-wellness
 tags: ["pathology", "disease", "diagnosis", "medical science"]
 heroImage: "/images/articles/pathology.webp"
-heroAlt: "A pathologist examining tissue samples under a microscope in a laboratory"
+heroAlt: "Editorial photograph representing the concept of pathology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ Giovanni Morgagni, an Italian anatomist, published *De Sedibus et Causis Morboru
 
 Rudolf Virchow took things further in 1858 with his book *Cellular Pathology*, arguing that all disease originates at the cellular level. Virchow's insight — that every sick organ is made of sick cells — remains the foundation of pathology today. He's often called the father of modern pathology, and the title is well earned.
 
-The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, electron microscopy for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
+The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, [electron microscopy](/electron-[microscopy](/microscopy)) for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
 
 Today's pathology is a blend of the traditional (looking at cells under glass) and the advanced (sequencing tumor genomes to guide precision cancer therapy). The microscope hasn't gone anywhere, but it's been joined by an arsenal of molecular, genetic, and digital tools that Virchow couldn't have imagined.
 
@@ -65,7 +65,7 @@ Pathology splits into two broad divisions, and most pathologists train primarily
 
 Anatomical pathologists examine tissues and organs directly. They're the ones looking at biopsy specimens, surgical specimens, and autopsy material. Their primary tool is the microscope, and their primary question is: what's happening at the cellular level?
 
-When a surgeon removes a breast lump, an anatomical pathologist slices it, stains it, and examines the cells. Is it cancer? What type? What grade? Has it invaded blood vessels or lymph nodes? These findings determine everything that happens next — whether the patient needs chemotherapy, radiation, additional surgery, or just monitoring.
+When a surgeon removes a breast lump, an anatomical pathologist slices it, stains it, and examines the cells. Is it cancer? What type? What grade? Has it invaded blood vessels or lymph nodes? These findings determine everything that happens next — whether the patient needs chemotherapy, radiation, additional [surgery](/surgery), or just monitoring.
 
 Within anatomical pathology, several subspecialties exist:
 
@@ -73,7 +73,7 @@ Within anatomical pathology, several subspecialties exist:
 
 **Cytopathology** examines individual cells rather than tissue sections. Pap smears (screening for cervical cancer) are the most familiar example. Fine-needle aspiration biopsies — where cells are sucked out through a thin needle — are another common cytopathology specimen.
 
-**Dermatopathology** focuses on skin diseases, working at the intersection of pathology and dermatology.
+**Dermatopathology** focuses on skin diseases, working at the intersection of pathology and [dermatology](/dermatology).
 
 **Neuropathology** deals with diseases of the nervous system, including brain tumors, neurodegenerative diseases like Alzheimer's, and spinal cord disorders.
 
@@ -85,11 +85,11 @@ Clinical pathologists run and interpret laboratory tests on blood, urine, and ot
 
 Key areas within clinical pathology include:
 
-**Clinical chemistry** — blood and urine tests for everything from glucose and electrolytes to liver enzymes and kidney function markers.
+**Clinical [chemistry](/chemistry)** — blood and urine tests for everything from glucose and electrolytes to liver enzymes and kidney function markers.
 
 **Hematology** — the study of blood cells and blood-forming tissues. Diagnosing leukemia, lymphoma, anemia, and clotting disorders falls here.
 
-**Microbiology** — identifying infectious organisms. When a wound culture grows bacteria, the microbiology lab identifies the species and tests which antibiotics will kill it.
+**[Microbiology](/microbiology)** — identifying infectious organisms. When a wound culture grows bacteria, the microbiology lab identifies the species and tests which antibiotics will kill it.
 
 **Blood banking (transfusion medicine)** — ensuring blood products are safe, properly typed, and compatible with the recipient. Getting a blood type wrong can kill someone, so this area operates under extremely strict protocols.
 
@@ -132,9 +132,9 @@ In lung cancer, testing for EGFR mutations, ALK rearrangements, PD-L1 expression
 
 The field is undergoing a technological shift. Digital pathology systems scan glass slides at extremely high resolution, creating whole-slide images that pathologists can view, zoom, and annotate on computer screens instead of through a microscope eyepiece.
 
-The real excitement — and anxiety — surrounds artificial intelligence. Machine learning algorithms trained on millions of pathology images can detect certain patterns with accuracy that matches or exceeds human pathologists. AI systems have shown strong performance in detecting breast cancer metastases in lymph nodes, classifying skin lesions, and grading prostate cancer.
+The real excitement — and anxiety — surrounds [artificial intelligence](/artificial-intelligence). [Machine learning](/machine-learning) [algorithms](/algorithms) trained on millions of pathology images can detect certain patterns with accuracy that matches or exceeds human pathologists. AI systems have shown strong performance in detecting breast cancer metastases in lymph nodes, classifying skin lesions, and grading prostate cancer.
 
-Will AI replace pathologists? Almost certainly not, at least not in the foreseeable future. Pathology involves far more than pattern recognition — it requires integrating clinical context, handling ambiguous cases, and exercising judgment that current AI can't match. The more likely outcome is that AI will handle screening and routine cases, freeing pathologists to focus on complex diagnoses and molecular analysis.
+Will AI replace pathologists? Almost certainly not, at least not in the foreseeable future. Pathology involves far more than [pattern recognition](/pattern-recognition) — it requires integrating clinical context, handling ambiguous cases, and exercising judgment that current AI can't match. The more likely outcome is that AI will handle screening and routine cases, freeing pathologists to focus on complex diagnoses and molecular analysis.
 
 But the field is paying attention. The FDA approved the first AI-based pathology system for clinical use in 2017, and more are coming. Pathology in 2035 will look very different from pathology in 2015 — that much is guaranteed.
 

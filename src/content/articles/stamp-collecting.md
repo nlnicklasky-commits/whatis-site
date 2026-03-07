@@ -5,7 +5,7 @@ description: "Stamp collecting (philately) is the hobby of collecting and studyi
 category: arts-amp-culture
 tags: ["stamp collecting", "philately", "hobbies", "postage stamps", "collectibles", "postal history"]
 heroImage: "/images/articles/stamp-collecting.webp"
-heroAlt: "A magnifying glass examining colorful postage stamps arranged in a stamp album"
+heroAlt: "Editorial photograph representing the concept of stamp collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Stamp Collecting?
 
-Stamp collecting — formally called philately — is the hobby of collecting, organizing, and studying postage stamps and related postal materials. It's been called the "king of hobbies and the hobby of kings" (several monarchs were avid collectors, including King George V of Britain), and for over 150 years it was one of the most popular hobbies on Earth. An estimated 60 million people worldwide still collect stamps, making it one of the largest collecting hobbies even in its diminished state.
+Stamp collecting — formally called [philately](/philately) — is the hobby of collecting, organizing, and studying postage stamps and related postal materials. It's been called the "king of hobbies and the hobby of kings" (several monarchs were avid collectors, including King George V of Britain), and for over 150 years it was one of the most popular hobbies on Earth. An estimated 60 million people worldwide still collect stamps, making it one of the largest collecting hobbies even in its diminished state.
 
 The first adhesive postage stamp — the Penny Black, featuring Queen Victoria's profile — was issued by Great Britain on May 1, 1840. People started collecting them almost immediately. By the 1860s, stamp collecting had become a global phenomenon, with the first stamp catalogs, albums, and dealers emerging to serve a rapidly growing hobby.
 
@@ -41,11 +41,11 @@ The reasons are surprisingly varied, and understanding them explains why the hob
 
 **History in miniature.** Stamps are tiny primary documents. They reflect what a country wanted to celebrate, commemorate, or communicate at a specific moment in time. A German stamp from 1923 denominated at 50 billion marks tells the story of hyperinflation more viscerally than any textbook. A 1969 U.S. stamp commemorating the Moon landing captures the moment. Stamps from countries that no longer exist — East Germany, Yugoslavia, Rhodesia — are physical remnants of vanished political entities.
 
-**Geography and culture.** A thematic collection of stamps from around the world is an education in global culture. You'll see art styles, wildlife, architecture, national heroes, and cultural traditions from countries you might never visit. Kids who collect stamps learn geography almost accidentally.
+**[Geography](/geography) and culture.** A thematic collection of stamps from around the world is an [education](/education) in global culture. You'll see art styles, wildlife, [architecture](/architecture), national heroes, and cultural traditions from countries you might never visit. Kids who collect stamps learn geography almost accidentally.
 
 **The hunt.** Finding a specific stamp to fill a gap in your collection triggers the same satisfaction as any collecting pursuit. The rarer the stamp, the more satisfying the find. Some collectors spend decades tracking down a single elusive issue.
 
-**Investment.** Rare stamps have historically been strong investments. The top 100 stamps by value have appreciated at rates competitive with blue-chip stocks and fine art over the past century. A stamp purchased for $1,000 in 1950 might be worth $50,000-500,000 today if it's a genuinely scarce issue in good condition. However — and this matters — common stamps have almost no investment value. Only genuinely rare stamps appreciate significantly.
+**Investment.** Rare stamps have historically been strong investments. The top 100 stamps by value have appreciated at rates competitive with blue-chip stocks and [fine art](/fine-art) over the past century. A stamp purchased for $1,000 in 1950 might be worth $50,000-500,000 today if it's a genuinely scarce issue in good condition. However — and this matters — common stamps have almost no investment value. Only genuinely rare stamps appreciate significantly.
 
 ## What Collectors Look For
 
@@ -63,7 +63,7 @@ The reasons are surprisingly varied, and understanding them explains why the hob
 
 **Topical collections** focus on a subject depicted on stamps — birds, trains, space exploration, Olympic Games, flowers, art reproductions. This approach lets you collect across countries and time periods while building a thematically coherent collection. It's popular with newer collectors because it's interest-driven rather than completionist.
 
-**Postal history** focuses on complete letters and envelopes (called "covers") that traveled through the mail. The stamp, postmark, routing marks, and content together tell the story of a specific communication. A cover from the California Gold Rush or a letter that survived the Hindenburg disaster is a historical artifact, not just a philatelic item.
+**[Postal history](/postal-history)** focuses on complete letters and envelopes (called "covers") that traveled through the mail. The stamp, postmark, routing marks, and content together tell the story of a specific communication. A cover from the California Gold Rush or a letter that survived the Hindenburg disaster is a historical artifact, not just a philatelic item.
 
 **First Day Covers** (FDCs) are envelopes bearing a stamp canceled on its first day of issue, often at the city where the stamp was released. They're widely collected and relatively affordable, making them a good entry point.
 

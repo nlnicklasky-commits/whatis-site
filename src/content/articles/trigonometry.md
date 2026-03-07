@@ -5,7 +5,7 @@ description: "Trigonometry is the branch of math studying relationships between 
 category: science
 tags: ["trigonometry", "mathematics", "geometry"]
 heroImage: "/images/articles/trigonometry.webp"
-heroAlt: "Right triangle with labeled sides and angles alongside sine, cosine, and tangent formulas"
+heroAlt: "Editorial photograph representing the concept of trigonometry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -87,7 +87,7 @@ The three primary trigonometric functions are ratios of these sides:
 - **Cosine (cos theta)** = Adjacent / Hypotenuse
 - **Tangent (tan theta)** = Opposite / Adjacent
 
-The mnemonic SOH-CAH-TOA has helped generations of students remember these definitions. And they really are worth remembering — these three ratios are the workhorses of applied mathematics.
+The mnemonic SOH-CAH-TOA has helped generations of students remember these definitions. And they really are worth remembering — these three ratios are the workhorses of [applied mathematics](/applied-mathematics).
 
 Three more functions are defined as reciprocals:
 
@@ -183,7 +183,7 @@ This might be the most important application of all. Any periodic phenomenon —
 
 A pure tone at 440 Hz (the note A above middle C) is a pressure wave described by a sine function with a period of 1/440 seconds. A complex sound — a voice, a violin, a car engine — is a combination of sine waves at different frequencies and amplitudes. The mathematical tool for breaking complex signals into their component sine waves is the Fourier transform, named after Joseph Fourier, who showed in 1822 that any periodic function can be expressed as a sum of sines and cosines.
 
-This principle — called Fourier analysis — is used in music production, image compression (JPEG), signal processing, medical imaging (MRI and CT scans), telecommunications, and virtually every area of modern technology. Your phone's ability to compress photos, play music, and transmit your voice all depend on trigonometric decomposition of signals.
+This principle — called Fourier analysis — is used in [music production](/music-production), image compression (JPEG), [signal processing](/signal-processing), medical imaging (MRI and CT scans), telecommunications, and virtually every area of modern technology. Your phone's ability to compress photos, play music, and transmit your voice all depend on trigonometric decomposition of signals.
 
 ### Computer Graphics
 
@@ -201,10 +201,10 @@ Surveyors have used trigonometry since ancient Egypt, and modern [cartography](/
 
 Euler's formula — e to the power (i times theta) equals cos(theta) plus i times sin(theta) — connects trigonometry to complex numbers and exponential functions. It's been called the most beautiful equation in mathematics. The special case where theta equals pi gives Euler's identity: e to the power (i times pi) plus 1 equals 0, linking five fundamental mathematical constants in a single equation.
 
-This isn't just beautiful — it's practical. Euler's formula simplifies the analysis of alternating current circuits, quantum mechanics, signal processing, and control systems. Electrical engineers use it daily.
+This isn't just beautiful — it's practical. Euler's formula simplifies the analysis of alternating current circuits, [quantum mechanics](/quantum-mechanics), signal processing, and control systems. Electrical engineers use it daily.
 
 ### Trigonometry and Calculus
 
-Trigonometric functions are among the first functions students encounter in [calculus](/calculus), and for good reason. The derivative of sin(x) is cos(x). The derivative of cos(x) is -sin(x). The integral of cos(x) is sin(x). These clean relationships make trigonometric functions essential building blocks for solving differential equations — which describe everything from planetary orbits to population growth to heat flow.
+Trigonometric functions are among the first functions students encounter in [calculus](/calculus), and for good reason. The derivative of sin(x) is cos(x). The derivative of cos(x) is -sin(x). The integral of cos(x) is sin(x). These clean relationships make trigonometric functions essential building blocks for solving [differential equations](/differential-equations) — which describe everything from planetary orbits to population growth to heat flow.
 
 Trigonometry started 3,000 years ago as a practical tool for astronomers trying to measure the sky. It evolved into one of the most widely applied branches of mathematics in existence. Every time something rotates, oscillates, vibrates, or has an angle that matters, trigonometry is the tool that handles it. Not bad for a field built on the ratios of triangle sides.

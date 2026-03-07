@@ -5,7 +5,7 @@ description: "Human geography studies how people shape and are shaped by the wor
 category: science
 tags: ["human geography", "geography", "population", "culture", "economy", "political geography", "urban studies"]
 heroImage: "/images/articles/human-geography-hero.webp"
-heroAlt: "Aerial view of a sprawling metropolitan area showing urban development patterns and green spaces"
+heroAlt: "Editorial photograph representing the concept of human geography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Human Geography?
 
-Human geography is the branch of geography that studies the spatial patterns of human activity — where people live, how they organize their societies, why they move, and how they transform the physical environment through culture, economics, and politics. While physical geography examines the natural world (mountains, rivers, climate), human geography asks: what are people doing on that field, and why?
+Human geography is the branch of geography that studies the spatial patterns of human activity — where people live, how they organize their societies, why they move, and how they transform the physical environment through culture, economics, and politics. While [physical geography](/physical-geography) examines the natural world (mountains, rivers, climate), human geography asks: what are people doing on that field, and why?
 
 ## The Big Question: Why Does Location Matter?
 
@@ -61,7 +61,7 @@ Migration patterns reveal another layer. About 281 million people (3.6% of the g
 
 Cultural geography examines how cultural practices, beliefs, languages, and identities vary across space — and why those patterns exist.
 
-Language distribution offers a fascinating example. About 7,000 languages exist today, but they're distributed wildly unevenly. Papua New Guinea — a country roughly the size of California — has over 800 languages. Mountainous terrain and dense forest created isolation between communities, allowing linguistic divergence. Meanwhile, Mandarin Chinese (1.1 billion speakers) spread across vast territory because political unification standardized a common written and official spoken language.
+Language distribution offers a fascinating example. About 7,000 languages exist today, but they're distributed wildly unevenly. Papua New Guinea — a country roughly the size of California — has over 800 languages. Mountainous terrain and dense forest created isolation between communities, allowing linguistic divergence. Meanwhile, [Mandarin Chinese](/mandarin-chinese) (1.1 billion speakers) spread across vast territory because political unification standardized a common written and official spoken language.
 
 Religion follows spatial patterns too. The geography of religion isn't random — it reflects patterns of conquest, trade, migration, and colonial influence. Christianity's global distribution maps closely onto European colonial empires. Islam spread along trade routes through the Middle East, North Africa, and Southeast Asia. Hinduism remained geographically concentrated in South Asia because it wasn't a proselytizing religion.
 
@@ -85,7 +85,7 @@ Borders are human geography's most obvious artifact. They're lines on a map that
 
 Gerrymandering — manipulating electoral district boundaries for political advantage — is a purely geographic phenomenon. In the US, computer [algorithms](/algorithms) now make it possible to draw districts that virtually guarantee outcomes. Maryland's 3rd congressional district, before redistricting, was described as resembling a "broken-winged pterodactyl" — its bizarre shape existed purely to concentrate Democratic voters.
 
-Geopolitics examines how geographic factors influence international relations. Russia's historical obsession with warm-water ports, China's investments in Central Asian infrastructure (the Belt and Road Initiative), and the strategic importance of the Strait of Hormuz (through which 21% of global oil passes) are all geopolitical realities rooted in physical geography but expressed through political behavior.
+Geopolitics examines how geographic factors influence [international relations](/international-relations). Russia's historical obsession with warm-water ports, China's investments in Central Asian infrastructure (the Belt and Road Initiative), and the strategic importance of the Strait of Hormuz (through which 21% of global oil passes) are all geopolitical realities rooted in physical geography but expressed through political behavior.
 
 ### Urban Geography
 
@@ -129,7 +129,7 @@ Human geographers are trained to think across scales — to recognize that local
 
 ## Methods and Tools
 
-### GIS (Geographic Information Systems)
+### GIS (Geographic [Information Systems](/information-systems))
 
 GIS software layers spatial data to reveal patterns invisible in tabular data. Mapping COVID-19 cases alongside population density, poverty rates, and healthcare facility locations revealed that infection and death rates weren't randomly distributed — they concentrated in specific communities with identifiable characteristics.
 

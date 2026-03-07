@@ -5,7 +5,7 @@ description: "Shenanigans refers to playful mischief, trickery, or dubious behav
 category: everyday-concepts
 tags: ["mischief", "playful", "pranks", "trickery", "amusing", "behavior"]
 heroImage: "/images/articles/shenanigans.webp"
-heroAlt: "A playful scene of friends laughing during a harmless prank in a casual setting"
+heroAlt: "Editorial photograph representing the concept of shenanigans"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Shenanigans?
 
-Shenanigans is a wonderfully flexible English word that refers to secret or dishonest activity, playful mischief, or any behavior that falls somewhere between harmless fun and genuine trickery. It covers a wide spectrum — from kids putting whoopee cushions on chairs to corporate executives cooking the books, and everything in between.
+Shenanigans is a wonderfully flexible English word that refers to secret or dishonest activity, playful mischief, or any behavior that falls somewhere between harmless fun and genuine trickery. It covers a wide spectrum — from kids putting whoopee cushions on chairs to corporate executives [cooking](/cooking) the books, and everything in between.
 
 The word carries a distinctive tone — part disapproval, part amusement, and entirely entertaining to say. When someone accuses you of shenanigans, they're usually more exasperated than angry. It's the word you use when the behavior is annoying enough to call out but not serious enough to call criminal.
 
-## The Etymology
+## The [Etymology](/etymology)
 
 Shenanigans first appeared in print in California around 1855, making it a surprisingly recent addition to English. But pinning down where it came from is its own little mystery — and etymologists have been arguing about it for over a century.
 

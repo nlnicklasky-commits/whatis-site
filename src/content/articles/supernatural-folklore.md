@@ -5,7 +5,7 @@ description: "Supernatural folklore includes myths, legends, and beliefs about g
 category: arts-amp-culture
 tags: ["supernatural folklore", "folklore", "mythology", "ghosts", "legends", "culture"]
 heroImage: "/images/articles/supernatural-folklore.webp"
-heroAlt: "A misty forest path evoking the atmosphere of ghost stories and legends"
+heroAlt: "Editorial photograph representing the concept of supernatural folklore"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Cognitive scientists have identified several mental tendencies that make superna
 
 **Agency detection** — Your brain is tuned to detect intentional agents — beings that act with purpose. Hearing a noise in the dark? Your brain's first instinct is to assume something *caused* it intentionally. This was a survival advantage: better to mistake a breeze for a predator than to mistake a predator for a breeze. But it also means we're prone to seeing intentional agents where none exist.
 
-**Pattern recognition** — Humans are extraordinary pattern-finders. We see faces in clouds, hear voices in static, and find meaning in coincidences. When something unlikely happens, we default to "that must mean something" rather than accepting randomness.
+**[Pattern recognition](/pattern-recognition)** — Humans are extraordinary pattern-finders. We see faces in clouds, hear voices in static, and find meaning in coincidences. When something unlikely happens, we default to "that must mean something" rather than accepting randomness.
 
 **Theory of mind** — We instinctively attribute mental states to others. We extend this to animals, objects, places, and the dead. The idea that a deceased person's consciousness persists feels natural because our brains model other minds automatically.
 
@@ -77,7 +77,7 @@ Supernatural folklore isn't just entertainment (though it certainly entertains).
 
 ## Modern Supernatural Folklore
 
-Folklore didn't stop when the internet arrived — it adapted. Urban legends spread through email chains, social media, and YouTube. Creepypasta (internet horror fiction presented as true accounts) is a direct descendant of campfire ghost stories. Slender Man, created in 2009 as an obvious fiction on an internet forum, developed genuine folklore-like properties as the story was retold and modified by thousands of people.
+Folklore didn't stop when the internet arrived — it adapted. Urban [legends](/legends) spread through email chains, social media, and YouTube. Creepypasta (internet horror fiction presented as true accounts) is a direct descendant of campfire ghost stories. Slender Man, created in 2009 as an obvious fiction on an internet forum, developed genuine folklore-like properties as the story was retold and modified by thousands of people.
 
 Paranormal investigation shows, true crime podcasts that explore "unexplained" events, and conspiracy theories all draw on the same psychological foundations as traditional supernatural folklore.
 

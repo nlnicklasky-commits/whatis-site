@@ -5,7 +5,7 @@ description: "Tuning is the process of adjusting an instrument's pitch to a stan
 category: arts-amp-culture
 tags: ["tuning instruments", "music theory", "pitch", "temperament", "A440", "intonation"]
 heroImage: "/images/articles/tuning-instruments.webp"
-heroAlt: "Close-up of guitar tuning pegs being adjusted with a digital tuner clipped to the headstock"
+heroAlt: "Editorial photograph representing the concept of tuning (instruments)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ Tuning is the process of adjusting a musical instrument so its pitches match a c
 
 ## Why Tuning Exists at All
 
-Here's something that seems obvious but actually isn't: musical instruments don't naturally agree with each other on what any given note should sound like. A piano built in 1850, a sitar made in Delhi, and a church organ installed in 1720 would all produce different frequencies for the same named note — unless someone deliberately aligned them.
+Here's something that seems obvious but actually isn't: musical instruments don't naturally agree with each other on what any given note should sound like. A [piano](/piano) built in 1850, a sitar made in Delhi, and a church organ installed in 1720 would all produce different frequencies for the same named note — unless someone deliberately aligned them.
 
-The problem gets worse. Even within a single instrument, the mathematical relationships between notes create conflicts. This is the dirty secret of Western music theory: you literally cannot make all intervals perfectly pure on a fixed-pitch instrument. Something always has to give.
+The problem gets worse. Even within a single instrument, the mathematical relationships between notes create conflicts. This is the dirty secret of Western [music theory](/music-theory): you literally cannot make all intervals perfectly pure on a fixed-pitch instrument. Something always has to give.
 
 This compromise is why tuning systems exist. They're all different answers to the same impossible question: how do you divide an octave into usable notes when the math doesn't quite work out?
 
@@ -57,13 +57,13 @@ Equal temperament won the popularity contest because it lets you play in any key
 
 **Violins, violas, and cellos** tune using friction pegs and fine tuners. String players typically tune to perfect fifths between adjacent strings, starting from the A string (which a reference pitch provides). Because these instruments have no frets, players adjust intonation in real time with finger placement.
 
-**Pianos** are tuned by a specialist (a piano tuner) who adjusts the tension of all 230-odd strings using a tuning lever. A full piano tuning takes 60 to 90 minutes and should happen at least twice a year. The process requires trained ears because the tuner must "stretch" the tuning slightly — making the highest notes a bit sharper and the lowest notes a bit flatter than pure equal temperament — to compensate for the stiffness of piano strings.
+**Pianos** are tuned by a specialist (a piano tuner) who adjusts the tension of all 230-odd strings using a tuning lever. A full [piano tuning](/piano-tuning) takes 60 to 90 minutes and should happen at least twice a year. The process requires trained ears because the tuner must "stretch" the tuning slightly — making the highest notes a bit sharper and the lowest notes a bit flatter than pure equal temperament — to compensate for the stiffness of piano strings.
 
 ### Wind and Brass Instruments
 
-Wind players tune by adjusting the length of their instrument's air column. A clarinetist pulls out the barrel joint. A trumpet player pulls out the tuning slide. More tubing means lower pitch.
+Wind players tune by adjusting the length of their instrument's air column. A clarinetist pulls out the barrel joint. A [trumpet](/trumpet) player pulls out the tuning slide. More tubing means lower pitch.
 
-But here's the catch: wind instruments are never perfectly in tune across their entire range. Certain notes are inherently sharp or flat due to the physics of the instrument's bore and tone hole placement. Players constantly adjust with their embouchure (lip position) and air support — it's a continuous process, not a set-it-and-forget-it adjustment.
+But here's the catch: wind instruments are never perfectly in tune across their entire range. Certain notes are inherently sharp or flat due to the [physics](/physics) of the instrument's bore and tone hole placement. Players constantly adjust with their embouchure (lip position) and air support — it's a continuous process, not a set-it-and-forget-it adjustment.
 
 ### Percussion
 
@@ -81,6 +81,6 @@ Concert pitch crept upward through the 19th century as instrument makers sought 
 
 Electronic tuners have democratized accurate tuning. A $15 clip-on tuner gives you precision to within 1 cent (one hundredth of a semitone) — better than most human ears can detect. Smartphone apps do nearly as well.
 
-But tuning by ear remains an essential skill. In a live ensemble, you're not tuning to a machine — you're tuning to each other. A violinist adjusts to match the oboe's A. A horn player listens to the chord and nudges their pitch to make the harmony ring. This kind of real-time tuning is what separates good ensembles from great ones.
+But tuning by ear remains an essential skill. In a live ensemble, you're not tuning to a machine — you're tuning to each other. A violinist adjusts to match the oboe's A. A horn player listens to the chord and nudges their pitch to make the [harmony](/harmony) ring. This kind of real-time tuning is what separates good ensembles from great ones.
 
 The best musicians do both: use a tuner to get in the ballpark, then use their ears to fine-tune within the context of the music they're playing. Machines tell you what's mathematically correct. Ears tell you what sounds right. Those aren't always the same thing.

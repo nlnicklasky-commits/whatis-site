@@ -5,7 +5,7 @@ description: "Economic history studies how economies developed over time, from a
 category: history
 tags: ["economic history", "economics", "industrial revolution", "capitalism"]
 heroImage: "/images/articles/economic-history.webp"
-heroAlt: "Historical illustration showing the evolution of trade from ancient markets to industrial factories"
+heroAlt: "Editorial photograph representing the concept of economic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,9 +49,9 @@ These aren't just academic puzzles. Understanding how economies developed in the
 
 ### Ancient and Pre-Modern Economies (Before 1500)
 
-For most of human history, almost everyone was a farmer. Even in sophisticated ancient civilizations — Egypt, Mesopotamia, Rome, Han China — agriculture employed the overwhelming majority of the population. Economic growth was glacially slow by modern standards. A Roman citizen's material standard of living was probably not dramatically different from a medieval English peasant's, 1,000 years later.
+For most of human history, almost everyone was a farmer. Even in sophisticated ancient civilizations — Egypt, Mesopotamia, Rome, Han China — [agriculture](/agriculture) employed the overwhelming majority of the population. Economic growth was glacially slow by modern standards. A Roman citizen's material standard of living was probably not dramatically different from a medieval English peasant's, 1,000 years later.
 
-That doesn't mean nothing was happening. Ancient Mesopotamia developed money, contracts, and interest-bearing loans by 3000 BCE. The Roman Empire built a trade network spanning three continents. The Silk Road connected China to the Mediterranean. Song Dynasty China (960-1279) experienced a commercial revolution with paper money, sophisticated banking, and proto-industrial production of iron and textiles.
+That doesn't mean nothing was happening. Ancient Mesopotamia developed money, contracts, and interest-bearing loans by 3000 BCE. The Roman Empire built a trade network spanning three continents. [The Silk Road](/silk-road) connected China to the Mediterranean. Song Dynasty China (960-1279) experienced a commercial revolution with paper money, sophisticated banking, and proto-industrial production of iron and textiles.
 
 But sustained, per-capita economic growth — the kind where each generation is measurably richer than the last — essentially didn't exist. The economist Angus Maddison estimated that global per-capita GDP roughly doubled between 1 CE and 1500 CE — over fifteen centuries. That same doubling now happens in a few decades in fast-growing economies.
 
@@ -69,17 +69,17 @@ If there's a single turning point in economic history, this is it. Starting in B
 
 The numbers tell the story. British cotton textile output increased by a factor of 50 between 1770 and 1841. Coal production tripled between 1770 and 1830. Railroad mileage went from zero in 1825 to 6,000 miles by 1850. Real wages, which barely budged for centuries, began rising — slowly at first, then accelerating.
 
-The social costs were brutal. Factory conditions were often horrific. Child labor was widespread. Urbanization packed workers into overcrowded, disease-ridden cities. Life expectancy in industrial Manchester actually fell during the early 1800s. It took decades of reform — factory acts, public health laws, labor unions — before the benefits of industrialization were widely shared.
+The social costs were brutal. Factory conditions were often horrific. Child labor was widespread. Urbanization packed workers into overcrowded, disease-ridden cities. Life expectancy in industrial Manchester actually fell during the early 1800s. It took decades of reform — factory acts, [public health](/public-health) laws, labor unions — before the benefits of industrialization were widely shared.
 
 Industrialization spread from Britain to Belgium, France, Germany, and the United States by the mid-19th century. Japan industrialized rapidly after the Meiji Restoration of 1868. Russia pursued forced industrialization under Stalin in the 1930s. Each country's path was different, but the underlying pattern — mechanization, factory production, urbanization — was broadly similar.
 
 ### The Modern Global Economy (1870-Present)
 
-The period from 1870 to 1914 — sometimes called the First Globalization — saw unprecedented integration of world markets. Steamships, railroads, the telegraph, and the gold standard reduced the costs of international trade and finance dramatically. Immigration was largely unrestricted. Capital flowed freely across borders.
+The period from 1870 to 1914 — sometimes called the First Globalization — saw unprecedented integration of world markets. Steamships, railroads, the telegraph, and the gold standard reduced the costs of [international trade](/international-trade) and finance dramatically. Immigration was largely unrestricted. Capital flowed freely across borders.
 
 World War I shattered this system. The interwar period (1918-1939) was marked by instability — hyperinflation in Germany, the Great Depression, the rise of protectionism. The U.S. Smoot-Hawley Tariff of 1930, which raised import duties to near-record levels, worsened the global downturn by shrinking international trade.
 
-The post-World War II era brought a new economic order. The Bretton Woods system (1944) established fixed exchange rates and created the International Monetary Fund and World Bank. The Marshall Plan rebuilt Western Europe. Japan and Germany experienced "economic miracles." The Cold War divided the world into [capitalist](/capitalism) and communist economic blocs.
+The post-[World War II](/world-war-ii) era brought a new economic order. The Bretton Woods system (1944) established fixed exchange rates and created the International Monetary Fund and World Bank. The Marshall Plan rebuilt Western Europe. Japan and Germany experienced "economic miracles." The Cold War divided the world into [capitalist](/capitalism) and communist economic blocs.
 
 The collapse of communism (1989-1991), the rise of China after Deng Xiaoping's reforms (beginning 1978), and the spread of information technology defined the late 20th century. Global GDP grew from about $11 trillion in 1980 to over $100 trillion by 2023. Extreme poverty fell from 44% of the world's population in 1981 to under 10% by 2015 — arguably the most dramatic economic improvement in history.
 
@@ -91,7 +91,7 @@ Why did Western Europe pull ahead of the rest of the world? Kenneth Pomeranz arg
 
 ### Institutions vs. Geography
 
-Why are some countries rich and others poor? Daron Acemoglu and James Robinson argue in *Why Nations Fail* that inclusive institutions (property rights, fair courts, democratic governance) are the key driver. Jeffrey Sachs emphasizes geography — climate, disease burden, access to trade routes. Jared Diamond points to biogeography — the distribution of domesticable plants and animals. Each explanation has evidence in its favor; none fully explains the pattern alone.
+Why are some countries rich and others poor? Daron Acemoglu and James Robinson argue in *Why Nations Fail* that inclusive institutions (property rights, fair courts, democratic governance) are the key driver. Jeffrey Sachs emphasizes geography — climate, disease burden, access to trade routes. Jared Diamond points to [biogeography](/biogeography) — the distribution of domesticable plants and animals. Each explanation has evidence in its favor; none fully explains the pattern alone.
 
 ### The Role of Slavery and Colonialism
 
@@ -105,4 +105,4 @@ The challenge is that data gets scarce the further back you go. We have good pri
 
 ## Why It All Matters
 
-Economic history matters because the economy you were born into was shaped by decisions, accidents, and processes stretching back centuries. The wealth of nations isn't random — it's the result of historical paths that can be traced, analyzed, and (to some extent) learned from. When policymakers argue about trade policy, financial regulation, or development strategy, they're implicitly making claims about economic history. The field's job is to make those claims explicit — and to check whether they're actually supported by the evidence.
+Economic history matters because the economy you were born into was shaped by decisions, accidents, and processes stretching back centuries. The wealth of nations isn't random — it's the result of historical paths that can be traced, analyzed, and (to some extent) learned from. When policymakers argue about trade policy, [financial regulation](/financial-regulation), or development strategy, they're implicitly making claims about economic history. The field's job is to make those claims explicit — and to check whether they're actually supported by the evidence.

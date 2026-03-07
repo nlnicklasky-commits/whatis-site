@@ -5,7 +5,7 @@ description: "Capitalism is an economic system where private individuals own the
 category: finance
 tags: ["capitalism", "economics", "market economy", "private ownership", "profit", "competition", "free market"]
 heroImage: "/images/articles/capitalism-hero.webp"
-heroAlt: "Wall Street financial district with stock exchange building and bustling traders"
+heroAlt: "Editorial photograph representing the concept of capitalism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -77,7 +77,7 @@ The history of American capitalism is partly a history of monopoly battles. Stan
 
 ## The Historical Arc — How We Got Here
 
-### Mercantilism and the Pre-Capitalist World
+### [Mercantilism](/mercantilism) and the Pre-Capitalist World
 
 Before capitalism, most European economies ran on mercantilism — the idea that national wealth was measured in gold and silver, and that trade was a zero-sum game. Governments granted monopolies, restricted imports, and managed economies through regulation and royal charters.
 
@@ -85,9 +85,9 @@ Medieval guilds controlled who could practice trades and set prices. Feudal syst
 
 ### The Birth of Market Economies
 
-Trade routes, the Protestant Reformation (which shifted attitudes toward work and profit), and the decline of feudalism created conditions for capitalism to emerge. The Dutch Republic in the 17th century was perhaps the first recognizably capitalist economy — with joint-stock companies, a stock exchange, and a merchant class driving economic decisions.
+Trade routes, the Protestant Reformation (which shifted attitudes toward work and profit), and the decline of [feudalism](/feudalism) created conditions for capitalism to emerge. The Dutch Republic in the 17th century was perhaps the first recognizably capitalist economy — with joint-stock companies, a stock exchange, and a merchant class driving economic decisions.
 
-Adam Smith's *The Wealth of Nations* (1776) provided the intellectual framework. He argued that individuals pursuing self-interest in competitive markets unintentionally promote social welfare. He advocated for limited government intervention, division of labor, and free trade. His work didn't invent capitalism, but it gave the existing system a coherent theoretical defense.
+Adam Smith's *The Wealth of Nations* (1776) provided the intellectual framework. He argued that individuals pursuing self-interest in competitive markets unintentionally promote social welfare. He advocated for limited [government](/government) intervention, division of labor, and free trade. His work didn't invent capitalism, but it gave the existing system a coherent theoretical defense.
 
 ### The Industrial Revolution
 
@@ -101,7 +101,7 @@ Karl Marx, writing in the mid-1800s, argued that capitalism contained the seeds 
 
 The 1929 stock market crash and the Great Depression shattered faith in unregulated markets. In the United States, unemployment hit 25%. Banks failed by the thousands. The response — Franklin Roosevelt's New Deal — introduced government programs, financial regulations, and social safety nets that fundamentally changed American capitalism.
 
-John Maynard Keynes argued that governments should spend during recessions to maintain demand, contradicting the classical view that markets self-correct. Keynesian economics dominated from the 1940s through the 1970s, producing what many consider capitalism's golden age — strong growth, rising wages, expanding middle classes.
+John Maynard Keynes argued that governments should spend during recessions to maintain demand, contradicting the classical view that markets self-correct. Keynesian [economics](/economics) dominated from the 1940s through the 1970s, producing what many consider capitalism's golden age — strong growth, rising wages, expanding middle classes.
 
 The 1970s brought stagflation (simultaneous inflation and stagnation), which Keynesian models struggled to explain. Milton Friedman and the Chicago School advocated for deregulation, monetarism, and reduced government intervention. Ronald Reagan and Margaret Thatcher implemented these ideas in the 1980s, shifting capitalism toward its more market-oriented form.
 
@@ -137,7 +137,7 @@ Russia's post-Soviet economy, where oligarchs acquired state assets through poli
 
 The profit motive is an extraordinarily effective engine for innovation. If you build something people want, you get rich. This incentive has produced the smartphone, the internet, antibiotics, commercial aviation, electric vehicles, and thousands of other advances.
 
-Venture capital — investors funding risky startups in exchange for ownership stakes — is a distinctly capitalist institution. It finances innovation that's too speculative for traditional lenders. Silicon Valley, for all its excesses, has produced technology that genuinely improved billions of lives.
+[Venture capital](/venture-capital) — investors funding risky startups in exchange for ownership stakes — is a distinctly capitalist institution. It finances innovation that's too speculative for traditional lenders. Silicon Valley, for all its excesses, has produced technology that genuinely improved billions of lives.
 
 The track record here is strong. Capitalist economies have consistently out-innovated centrally planned ones. The Soviet Union matched American military technology through massive state investment but fell far behind in consumer technology. The innovation gap was a major factor in the USSR's collapse.
 
@@ -149,7 +149,7 @@ The failure of Soviet central planning illustrated this contrast starkly. Planne
 
 ### Wealth Creation
 
-Global poverty has declined dramatically under capitalism. In 1820, roughly 90% of the world's population lived in extreme poverty. By 2024, that figure was below 10%. While many factors contributed — technology, medicine, education — the capitalist economic framework that financed and distributed these advances deserves significant credit.
+Global poverty has declined dramatically under capitalism. In 1820, roughly 90% of the world's population lived in extreme poverty. By 2024, that figure was below 10%. While many factors contributed — technology, medicine, [education](/education) — the capitalist economic framework that financed and distributed these advances deserves significant credit.
 
 Average living standards — life expectancy, caloric intake, access to information, material comfort — have risen enormously in capitalist economies. A middle-class American today lives better in material terms than royalty did 200 years ago.
 
@@ -195,7 +195,7 @@ The Citizens United Supreme Court decision (2010), which allowed unlimited corpo
 
 The traditional view says companies exist to maximize shareholder value. The emerging view — stakeholder capitalism — says companies should serve all stakeholders: employees, customers, communities, and the environment, not just shareholders.
 
-The Business Roundtable, representing 181 major U.S. corporations, endorsed this view in 2019. Whether it changes actual corporate behavior or is merely a public relations exercise remains debated.
+The Business Roundtable, representing 181 major U.S. corporations, endorsed this view in 2019. Whether it changes actual corporate behavior or is merely a [public relations](/public-relations) exercise remains debated.
 
 ### Universal Basic Income
 

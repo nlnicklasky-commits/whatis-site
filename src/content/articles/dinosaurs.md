@@ -5,7 +5,7 @@ description: "Dinosaurs were reptiles that dominated Earth for over 160 million 
 category: science
 tags: ["dinosaurs", "paleontology", "fossils", "prehistoric", "evolution", "extinction", "mesozoic"]
 heroImage: "/images/articles/dinosaurs-hero.webp"
-heroAlt: "Reconstructed dinosaur skeleton in a natural history museum with visitors for scale"
+heroAlt: "Editorial photograph representing the concept of dinosaurs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Dinosaurs are a group of reptiles that first appeared during the Triassic period
 
 ## Getting the Basics Right
 
-Let's clear up some misconceptions right away, because popular culture has planted some wrong ideas.
+Let's clear up some misconceptions right away, because [popular culture](/popular-culture) has planted some wrong ideas.
 
 Not every large prehistoric reptile was a dinosaur. Pterosaurs—the flying reptiles like Pteranodon—were not dinosaurs. Plesiosaurs and mosasaurs—the giant marine reptiles—were not dinosaurs. Dimetrodon, that sail-backed creature from before the dinosaur era, was not a dinosaur. It was actually more closely related to you than to any dinosaur.
 
@@ -71,9 +71,9 @@ The Jurassic period (201-145 million years ago) is when dinosaurs truly hit thei
 
 Sauropods—the long-necked herbivores—reached staggering sizes during the Jurassic. Brachiosaurus stood about 13 meters tall. Diplodocus stretched 25 meters long. And these weren't even the biggest; the truly colossal sauropods appeared in the Cretaceous.
 
-Why so big? Several factors likely contributed. Large size provides protection from predators. Large herbivores can eat lower-quality food (they have longer gut retention time for fermentation). The high CO2 levels of the Mesozoic probably supported lush vegetation, providing abundant food. And their unique respiratory system—borrowed from their archosaur ancestry and refined in their bird descendants—may have been more efficient at larger sizes.
+Why so big? Several factors likely contributed. Large size provides protection from predators. Large herbivores can eat lower-quality food (they have longer gut retention time for [fermentation](/fermentation)). The high CO2 levels of the Mesozoic probably supported lush vegetation, providing abundant food. And their unique respiratory system—borrowed from their archosaur ancestry and refined in their bird descendants—may have been more efficient at larger sizes.
 
-Their [anatomy](/anatomy) was remarkable. Hollow bones (like modern birds) reduced weight while maintaining strength. Air sacs connected to the respiratory system extended into the vertebrae, further lightening the skeleton. Their hearts had to pump blood to a brain that might be 10 meters above the ground—the cardiovascular engineering involved is still debated.
+Their [anatomy](/anatomy) was remarkable. Hollow bones (like modern birds) reduced weight while maintaining strength. Air sacs connected to the respiratory system extended into the vertebrae, further lightening the skeleton. Their hearts had to pump blood to a brain that might be 10 meters above the ground—the cardiovascular [engineering](/engineering) involved is still debated.
 
 ### Theropods Diversify
 
@@ -121,11 +121,11 @@ The result: we almost certainly know about a tiny fraction of the dinosaur speci
 
 ### What Fossils Tell Us
 
-Bones reveal body size, posture, muscle attachment (which suggests strength and movement), diet (tooth shape and wear), growth rate (bone histology—cutting thin sections reveals growth rings like tree rings), and injury or disease history.
+Bones reveal body size, posture, muscle attachment (which suggests strength and movement), diet (tooth shape and wear), growth rate (bone [histology](/histology)—cutting thin sections reveals growth rings like tree rings), and injury or disease history.
 
 Trackways (fossil footprints) reveal how dinosaurs moved, their speed, whether they traveled in groups, and their foot anatomy. A trackway of parallel sauropod prints suggests herding [animal-behavior](/animal-behavior). A trackway showing a limp tells of injury.
 
-Coprolites (fossilized feces) reveal diet directly. Gastroliths (stomach stones) suggest some dinosaurs swallowed rocks to help grind food, as some modern birds do. Eggs and nests reveal reproductive biology. Skin impressions preserve scale patterns (and occasionally feather impressions).
+Coprolites (fossilized feces) reveal diet directly. Gastroliths (stomach stones) suggest some dinosaurs swallowed rocks to help grind food, as some modern birds do. Eggs and nests reveal reproductive [biology](/biology). Skin impressions preserve scale patterns (and occasionally feather impressions).
 
 ### What Fossils Can't Tell Us
 
@@ -162,7 +162,7 @@ The roughly 10,000 living bird species are the direct legacy of the Mesozoic din
 
 ## What We're Still Learning
 
-Paleontology is not a static field, and dinosaur science is advancing rapidly.
+[Paleontology](/paleontology) is not a static field, and dinosaur science is advancing rapidly.
 
 **New discoveries** happen at a remarkable pace—roughly 50 new dinosaur species are described each year. China, Argentina, and Africa have been particularly productive in recent decades. Our picture of dinosaur diversity continues to expand.
 
@@ -172,7 +172,7 @@ Paleontology is not a static field, and dinosaur science is advancing rapidly.
 
 **Biomechanical modeling** uses computer simulation to test how dinosaurs moved, how fast they could run, how hard they could bite, and how their bodies handled mechanical stresses. These models constrain the range of possible behaviors and capabilities.
 
-**Paleoecology** reconstructs entire ecosystems, not just individual animals—what plants grew, what the climate was like, how communities of animals interacted. This provides context for understanding why particular dinosaurs lived where and when they did.
+**[Paleoecology](/paleoecology)** reconstructs entire ecosystems, not just individual animals—what plants grew, what the climate was like, how communities of animals interacted. This provides context for understanding why particular dinosaurs lived where and when they did.
 
 ## Why Dinosaurs Still Fascinate
 

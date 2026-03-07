@@ -5,7 +5,7 @@ description: "Myology is the study of muscles — their structure, function, and
 category: science
 tags: ["myology", "muscles", "anatomy", "physiology", "biomechanics", "muscle contraction", "myopathies"]
 heroImage: "/images/articles/myology-hero.webp"
-heroAlt: "Detailed anatomical illustration showing skeletal muscle fibers and tendons"
+heroAlt: "Editorial photograph representing the concept of myology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 Myology is the branch of [anatomy](/anatomy) and physiology that deals with the study of muscles. Every time you blink, breathe, walk, or scroll through your phone, muscles are doing the work. Your body contains over 600 skeletal muscles — plus smooth muscle lining your digestive tract, blood vessels, and organs, plus the cardiac muscle that keeps your heart beating about 100,000 times every single day. Myology studies all of them: how they're built, how they contract, how they fail, and how they can be repaired.
 
-The word comes from the Greek *mys* (muscle) and *logos* (study). It's a sub-discipline of [anatomy](/anatomy) that intersects with physiology, [biomechanics](/biomechanics), neuroscience, and clinical medicine. If you've ever wondered why your muscles burn during exercise, why some people are naturally stronger than others, or what actually happens during a muscle cramp, myology has the answers.
+The word comes from the Greek *mys* (muscle) and *logos* (study). It's a sub-discipline of [anatomy](/anatomy) that intersects with physiology, [biomechanics](/biomechanics), [neuroscience](/neuroscience), and clinical medicine. If you've ever wondered why your muscles burn during exercise, why some people are naturally stronger than others, or what actually happens during a muscle cramp, myology has the answers.
 
 ## The Three Types of Muscle Tissue
 
@@ -67,7 +67,7 @@ Cardiac muscle cells are connected by specialized junctions called intercalated 
 
 ## How Muscles Contract — The Sliding Filament Theory
 
-This is the core mechanism of myology, and honestly, it's one of the most elegant pieces of biological engineering you'll ever encounter.
+This is the core mechanism of myology, and honestly, it's one of the most elegant pieces of biological [engineering](/engineering) you'll ever encounter.
 
 ### The Structure Inside
 
@@ -169,7 +169,7 @@ Several medical and therapeutic fields apply myological knowledge directly.
 
 **Sports medicine** uses myology to understand injury mechanisms, design rehabilitation protocols, and optimize athletic performance. Understanding muscle strain (fiber tearing), tendinopathy (tendon degeneration), and compartment syndrome (pressure buildup within muscle compartments) all depend on myological knowledge.
 
-**Physical therapy** applies muscle physiology to restore function after injury, surgery, or disease. Therapists need to understand muscle recruitment patterns, strength curves, and the specific vulnerabilities of different muscle groups.
+**[Physical therapy](/physical-therapy)** applies muscle physiology to restore function after injury, surgery, or disease. Therapists need to understand muscle recruitment patterns, strength curves, and the specific vulnerabilities of different muscle groups.
 
 **Orthopedic surgery** involves reattaching torn tendons, repairing muscle hernias, and reconstructing damaged muscle-tendon units. Surgeons need detailed understanding of [anatomy](/anatomy) — the origin, insertion, nerve supply, and blood supply of every relevant muscle.
 
@@ -201,10 +201,10 @@ The myokine irisin, identified in 2012, has been particularly studied. It appear
 
 ### Computational Myology
 
-[Biomechanics](/biomechanics) researchers increasingly use computer models to simulate muscle function. Finite element models can predict stress distributions within muscles during movement. Musculoskeletal simulations model how hundreds of muscles coordinate to produce movement. These tools support surgical planning, prosthetic design, and rehabilitation optimization.
+[Biomechanics](/biomechanics) researchers increasingly use computer models to simulate muscle function. Finite element models can predict stress distributions within muscles during movement. Musculoskeletal simulations model how hundreds of muscles coordinate to produce movement. These tools support surgical planning, prosthetic design, and rehabilitation [optimization](/optimization).
 
 ## Key Takeaways
 
-Myology is the study of muscles — their structure, their astonishingly elegant contraction mechanism, their diverse fiber types, their adaptation to use and disuse, and the diseases that affect them. The field spans from molecular biology (the sliding filament theory) to clinical medicine (muscular dystrophies, myasthenia gravis) to applied science (sports performance, tissue engineering).
+Myology is the study of muscles — their structure, their astonishingly elegant contraction mechanism, their diverse fiber types, their adaptation to use and disuse, and the diseases that affect them. The field spans from [molecular biology](/molecular-biology) (the sliding filament theory) to clinical medicine (muscular dystrophies, myasthenia gravis) to applied science (sports performance, tissue engineering).
 
 Your muscles aren't just motors that move your skeleton. They're active, adaptable tissues that respond to demands placed on them, communicate with other organs through myokines, and decline predictably when neglected. Understanding myology is understanding one of the most fundamental systems your body relies on — every second, of every day, for your entire life.

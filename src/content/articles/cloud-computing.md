@@ -5,7 +5,7 @@ description: "Cloud computing delivers computing resources over the internet on 
 category: technology
 tags: ["cloud computing", "cloud", "technology", "it", "data storage", "servers", "aws"]
 heroImage: "/images/articles/cloud-computing-hero.webp"
-heroAlt: "Modern data center with rows of server racks and blue LED lighting"
+heroAlt: "Editorial photograph representing the concept of cloud computing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Cloud computing is the delivery of computing resources—servers, storage, datab
 
 ## The Basic Idea: Computing as a Utility
 
-The easiest way to understand cloud computing is to compare it to electricity. A century ago, factories generated their own power—each one had a generator, fuel supply, and maintenance staff. Then centralized power plants appeared, and it became cheaper and more reliable to buy electricity from the grid than to generate it yourself. The generator room disappeared. The electric bill appeared.
+The easiest way to understand cloud computing is to compare it to [electricity](/electricity). A century ago, factories generated their own power—each one had a generator, fuel supply, and maintenance staff. Then centralized power plants appeared, and it became cheaper and more reliable to buy electricity from the grid than to generate it yourself. The generator room disappeared. The electric bill appeared.
 
 Cloud computing does the same thing for IT. Instead of buying servers, installing them in a room, hiring staff to maintain them, and replacing them every few years, you rent server capacity from a company that operates millions of servers in massive data centers. You pay for what you use, scale up when you need more, and scale down when you don't.
 
@@ -113,7 +113,7 @@ Cloud storage comes in several forms optimized for different use cases.
 
 **File storage** (AWS EFS, Azure Files) provides shared file systems accessible by multiple servers simultaneously—useful for applications that need traditional file and folder structures.
 
-**Database services** (AWS RDS, Azure SQL Database, Google Cloud SQL) manage database engines like PostgreSQL, MySQL, and SQL Server. The provider handles installation, patching, backups, replication, and scaling. This frees developers from database administration—a significant operational burden.
+**Database services** (AWS RDS, Azure SQL Database, Google Cloud SQL) manage database engines like PostgreSQL, MySQL, and SQL Server. The provider handles installation, patching, backups, replication, and scaling. This frees developers from [database administration](/database-administration)—a significant operational burden.
 
 ## The Major Providers
 
@@ -121,7 +121,7 @@ Three companies dominate the cloud market, collectively controlling roughly 65% 
 
 ### Amazon Web Services (AWS)
 
-AWS launched in 2006 and remains the market leader with approximately 31% market share. It offers over 200 services, from basic compute and storage to [machine learning](/machine-learning), IoT, satellite ground stations, and quantum computing. Netflix, Airbnb, NASA, and the CIA all run on AWS.
+AWS launched in 2006 and remains the market leader with approximately 31% market share. It offers over 200 services, from basic compute and storage to [machine learning](/machine-learning), IoT, satellite ground stations, and [quantum computing](/quantum-computing). Netflix, Airbnb, NASA, and the CIA all run on AWS.
 
 AWS's breadth is both its strength and its complexity. The sheer number of services and configuration options can be overwhelming. Learning AWS is a career in itself—AWS certifications are among the most valuable credentials in IT.
 
@@ -137,13 +137,13 @@ GCP holds about 11% market share but is growing rapidly. Google's strengths in d
 
 Other significant providers include Alibaba Cloud (dominant in China), Oracle Cloud (strong in database workloads), and IBM Cloud (focused on enterprise and hybrid deployments).
 
-## Cloud Architecture Patterns
+## Cloud [Architecture](/architecture) Patterns
 
 Building applications for the cloud requires different architectural thinking than building for traditional on-premises servers.
 
 ### Microservices
 
-Instead of building one large application (a monolith), cloud applications are often decomposed into small, independent services that communicate via APIs. Each microservice handles one function—user authentication, payment processing, inventory management—and can be developed, deployed, and scaled independently.
+Instead of building one large application (a monolith), cloud applications are often decomposed into small, independent services that communicate via APIs. Each microservice handles one function—user authentication, payment processing, [inventory management](/inventory-management)—and can be developed, deployed, and scaled independently.
 
 Netflix, for example, runs over 700 microservices. If the recommendation engine needs more capacity, it scales independently without affecting the streaming service. If one service fails, others continue working. This architecture maps naturally to cloud infrastructure, where services can be distributed across multiple servers and regions.
 
@@ -167,7 +167,7 @@ Cloud security follows the shared responsibility model. The provider secures the
 
 **Encryption** protects data at rest (stored) and in transit (moving between systems). Most cloud services encrypt data by default, using keys managed by either the provider or the customer. For maximum control, customers can manage their own encryption keys, though this adds complexity.
 
-**Network security** in the cloud uses virtual firewalls (security groups, network ACLs) to control traffic flow. These are configured in software, allowing rapid changes but also creating risk—a misconfigured security group that accidentally allows public access to a database has been the root cause of numerous data breaches.
+**[Network security](/network-security)** in the cloud uses virtual firewalls (security groups, network ACLs) to control traffic flow. These are configured in software, allowing rapid changes but also creating risk—a misconfigured security group that accidentally allows public access to a database has been the root cause of numerous data breaches.
 
 **Compliance** frameworks (SOC 2, HIPAA, PCI DSS, GDPR) specify security requirements for different industries and types of data. Major cloud providers hold these certifications for their infrastructure, but customers must ensure their own configurations meet compliance requirements.
 
@@ -177,13 +177,13 @@ Cloud computing changes IT economics from capital expenditure (CapEx) to operati
 
 This shift has real advantages. No upfront capital investment means lower barriers to entry. Costs scale with usage rather than capacity. You don't pay for idle servers.
 
-But cloud costs can spiral if not managed carefully. A poorly optimized cloud deployment can cost more than equivalent on-premises infrastructure. "Cloud waste"—paying for resources that aren't actually needed—is estimated at 30-35% of total cloud spending industry-wide. This has spawned an entire discipline of cloud cost optimization (FinOps) focused on matching spending to actual usage.
+But cloud costs can spiral if not managed carefully. A poorly optimized cloud deployment can cost more than equivalent on-premises infrastructure. "Cloud waste"—paying for resources that aren't actually needed—is estimated at 30-35% of total cloud spending industry-wide. This has spawned an entire discipline of cloud cost [optimization](/optimization) (FinOps) focused on matching spending to actual usage.
 
 Reserved instances and savings plans offer discounts of 30-72% for committing to specific resource levels for 1-3 years. Spot instances (AWS) or preemptible VMs (GCP) offer even deeper discounts for workloads that can tolerate interruption.
 
 ## The Environmental Impact
 
-Cloud data centers consume approximately 1-1.5% of global electricity—a number that's growing as cloud adoption increases. The carbon footprint depends on the energy mix powering the data centers. A data center running on renewable energy has a drastically different environmental impact than one running on coal.
+Cloud data centers consume approximately 1-1.5% of global electricity—a number that's growing as cloud adoption increases. The carbon footprint depends on the energy mix powering the data centers. A data center running on [renewable energy](/renewable-energy) has a drastically different environmental impact than one running on coal.
 
 Major providers have committed to carbon neutrality or 100% renewable energy—Google claims carbon neutrality since 2007, Microsoft pledges carbon negative by 2030, and AWS targets 100% renewable energy by 2025. These commitments are significant but also complex—"renewable energy" claims often involve purchasing renewable energy credits rather than directly powering data centers with renewables.
 
@@ -193,7 +193,7 @@ On the other hand, cloud computing can reduce total energy consumption by consol
 
 **Edge computing** pushes cloud resources closer to users—into cell towers, retail stores, and factory floors. This reduces latency for applications that need real-time responses (autonomous vehicles, augmented reality, industrial automation). AWS Outposts, Azure Stack, and Google Distributed Cloud bring cloud services to locations where round-trip time to a distant data center is too long.
 
-**AI and ML integration** is becoming standard. Every major cloud provider offers pre-built AI services—image recognition, natural language processing, speech-to-text—as API calls. Training large [machine learning](/machine-learning) models requires massive compute resources that only cloud providers can economically offer. The AI boom has made GPU-equipped cloud instances some of the most in-demand (and expensive) cloud resources.
+**AI and ML integration** is becoming standard. Every major cloud provider offers pre-built AI services—image recognition, [natural language processing](/natural-language-processing), speech-to-text—as API calls. Training large [machine learning](/machine-learning) models requires massive compute resources that only cloud providers can economically offer. The AI boom has made GPU-equipped cloud instances some of the most in-demand (and expensive) cloud resources.
 
 **Sustainability** is becoming a competitive differentiator. Customers increasingly consider carbon footprint when choosing cloud providers. Tools that measure and report cloud carbon emissions are becoming standard features.
 

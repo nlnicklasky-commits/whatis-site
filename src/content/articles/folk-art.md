@@ -5,7 +5,7 @@ description: "Folk art is traditional creative work made by self-taught artists 
 category: arts-amp-culture
 tags: ["art", "crafts", "traditional art", "cultural heritage", "indigenous art", "self-taught artists"]
 heroImage: "/images/articles/folk-art.webp"
-heroAlt: "Colorful hand-painted folk art pottery and carved wooden figurines"
+heroAlt: "Editorial photograph representing the concept of folk art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Folk Art?
 
-Folk art is creative work made by people without formal artistic training, working within the traditions of their cultural community. It includes painting, sculpture, textiles, ceramics, woodcarving, metalwork, and dozens of other forms — anything a community creates that expresses shared aesthetic values, beliefs, and identity. Unlike fine art, which is typically made for galleries and collectors, folk art emerges from daily life and often serves practical or ceremonial functions alongside its aesthetic ones.
+Folk art is creative work made by people without formal artistic training, working within the traditions of their cultural community. It includes painting, [sculpture](/sculpture), textiles, [ceramics](/ceramics), woodcarving, metalwork, and dozens of other forms — anything a community creates that expresses shared aesthetic values, beliefs, and identity. Unlike [fine art](/fine-art), which is typically made for galleries and collectors, folk art emerges from daily life and often serves practical or ceremonial functions alongside its aesthetic ones.
 
 ## What Makes It "Folk"
 
@@ -43,13 +43,13 @@ The term "folk art" is debated constantly, and honestly, no definition satisfies
 
 **Functional origins** distinguish much folk art from gallery art. Quilts keep you warm. Weathervanes show wind direction. Pottery holds food. Baskets carry goods. The beauty is genuine but rarely the sole purpose. Some folk art is purely decorative or ceremonial, but the tradition usually connects to practical life.
 
-**Cultural specificity** ties folk art to particular communities. You can often identify where and when a piece of folk art was made by its style — the geometric patterns of Amish quilts, the bright colors of Mexican alebrijes, the carved motifs of Scandinavian rosemaling. Each tradition encodes specific cultural values and aesthetics.
+**Cultural specificity** ties folk art to particular communities. You can often identify where and when a piece of folk art was made by its style — the geometric patterns of Amish quilts, the bright colors of Mexican alebrijes, the carved motifs of Scandinavian rosemaling. Each tradition encodes specific cultural values and [aesthetics](/aesthetics).
 
 ## Forms Around the World
 
 Folk art is everywhere. Every culture has its own traditions.
 
-**Textiles** are among the most widespread. Quilting, embroidery, weaving, rug-making, and applique traditions exist on every continent. The patterns and techniques are often so distinctive that experts can identify a textile's origin from its design alone.
+**Textiles** are among the most widespread. Quilting, [embroidery](/embroidery), weaving, rug-making, and applique traditions exist on every continent. The patterns and techniques are often so distinctive that experts can identify a textile's origin from its design alone.
 
 **Ceramics** range from utilitarian earthenware to elaborately decorated pottery. Mexican Talavera, Japanese raku, North Carolina face jugs, and Portuguese azulejo tiles all represent distinct ceramic folk traditions.
 
@@ -57,7 +57,7 @@ Folk art is everywhere. Every culture has its own traditions.
 
 **Painting** in folk traditions tends toward bold colors, flat perspectives, and symbolic rather than realistic representation. Pennsylvania Dutch hex signs, Russian lacquer boxes, Indian Madhubani paintings, and Australian Aboriginal dot paintings each have their own visual language.
 
-**Metalwork** includes tinsmithing, blacksmithing, and jewelry making within cultural traditions. Mexican tin art (hojalata), Appalachian ironwork, and West African goldsmithing represent this category.
+**Metalwork** includes [tinsmithing](/tinsmithing), [blacksmithing](/blacksmithing), and [jewelry making](/jewelry-making) within cultural traditions. Mexican tin art (hojalata), Appalachian ironwork, and West African [goldsmithing](/goldsmithing) represent this category.
 
 ## The Fine Art Problem
 
@@ -67,7 +67,7 @@ This started changing in the early 20th century. Modernist artists like Picasso,
 
 Today, folk art is collected seriously. The American Folk Art Museum in New York, the Smithsonian, and major collections worldwide exhibit folk art alongside fine art. But the hierarchy hasn't fully dissolved. Folk art still tends to command lower prices at auction, receive less critical attention, and occupy separate museum wings.
 
-The distinction matters because it's partly about power — who gets to decide what counts as "real" art. Historically, the art that mattered was made by trained European men working in recognized media (oil painting, marble sculpture). Everything else — textiles by women, carvings by indigenous peoples, pottery by rural communities — was classified as "craft" or "folk art" regardless of its quality.
+The distinction matters because it's partly about power — who gets to decide what counts as "real" art. Historically, the art that mattered was made by trained European men working in recognized media ([oil painting](/oil-painting), marble sculpture). Everything else — textiles by women, carvings by indigenous peoples, pottery by rural communities — was classified as "craft" or "folk art" regardless of its quality.
 
 ## Outsider Art vs. Folk Art
 

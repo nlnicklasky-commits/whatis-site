@@ -5,7 +5,7 @@ description: "Operations research uses math, statistics, and algorithms to make 
 category: technology
 tags: ["operations research", "optimization", "mathematical modeling", "decision science", "analytics", "logistics", "supply chain"]
 heroImage: "/images/articles/operations-research-hero.webp"
-heroAlt: "Abstract visualization of optimization networks and decision pathways"
+heroAlt: "Editorial photograph representing the concept of operations research"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -160,13 +160,13 @@ If you wanted to actually do operations research, what would you use?
 
 ## The Relationship Between OR and AI
 
-Here's something that confuses people: how does operations research relate to [machine-learning](/machine-learning) and artificial intelligence?
+Here's something that confuses people: how does operations research relate to [machine-learning](/machine-learning) and [artificial intelligence](/artificial-intelligence)?
 
 They're different but complementary. Machine learning is great at prediction — given historical data, what's likely to happen next? Operations research is great at prescription — given what we know (or predict), what should we do?
 
 The most powerful systems combine both. A machine learning model predicts tomorrow's demand for each product. An OR model then optimizes production schedules and delivery routes based on those predictions. The ML handles the uncertainty; the OR handles the optimization.
 
-Reinforcement learning, a branch of AI, is actually quite close to certain OR techniques — particularly active programming and Markov decision processes. The boundaries between OR and AI are increasingly blurry, and that's fine. They're both trying to make better decisions; they just approach the problem from different angles.
+[Reinforcement learning](/reinforcement-learning), a branch of AI, is actually quite close to certain OR techniques — particularly active programming and Markov decision processes. The boundaries between OR and AI are increasingly blurry, and that's fine. They're both trying to make better decisions; they just approach the problem from different angles.
 
 ## Stochastic Programming: When the Future Is Uncertain
 
@@ -204,7 +204,7 @@ This isn't just philosophy. It's active research, and it matters enormously as O
 
 Curious about the field? Here's the practical path.
 
-**Education**: Most OR professionals have degrees in operations research, industrial engineering, applied mathematics, or [computer-science](/computer-science). The mathematical prerequisites include linear algebra, calculus, probability, and statistics. You don't need to be a math genius, but you need to be comfortable with mathematical thinking.
+**Education**: Most OR professionals have degrees in operations research, [industrial engineering](/industrial-engineering), applied mathematics, or [computer-science](/computer-science). The mathematical prerequisites include linear algebra, calculus, probability, and statistics. You don't need to be a math genius, but you need to be comfortable with mathematical thinking.
 
 **Certifications**: INFORMS offers the Certified Analytics Professional (CAP) credential. It's not required but signals competence to employers.
 

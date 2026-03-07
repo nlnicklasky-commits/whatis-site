@@ -5,7 +5,7 @@ description: "Food science applies biology, chemistry, and engineering to unders
 category: science
 tags: ["food", "food safety", "nutrition", "food processing", "food preservation", "microbiology", "food engineering"]
 heroImage: "/images/articles/food-science-hero.webp"
-heroAlt: "A food science laboratory with microscopes, petri dishes, and fresh produce samples on a workbench"
+heroAlt: "Editorial photograph representing the concept of food science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Here's a number that puts things in perspective: roughly 600 million people worl
 
 Food science emerged as a formal discipline in the mid-20th century, but its roots go back thousands of years. Humans have been fermenting, drying, salting, and smoking food since prehistory. What changed was the scientific understanding of *why* these methods work — and that understanding opened the door to methods our ancestors couldn't have imagined.
 
-Louis Pasteur's work in the 1860s — demonstrating that microorganisms cause food spoilage and disease — was arguably the birth of modern food science. Before Pasteur, people knew that heating milk made it last longer, but they didn't know why. After Pasteur, food preservation became an engineering problem with a scientific basis rather than a collection of folk practices.
+Louis Pasteur's work in the 1860s — demonstrating that microorganisms cause food spoilage and disease — was arguably the birth of modern food science. Before Pasteur, people knew that heating milk made it last longer, but they didn't know why. After Pasteur, [food preservation](/food-preservation) became an engineering problem with a scientific basis rather than a collection of folk practices.
 
 ## The Core Disciplines
 
@@ -59,9 +59,9 @@ Each of these organisms has specific growth requirements — temperature ranges,
 
 **The friends** include the lactobacilli that ferment yogurt and sauerkraut, the saccharomyces yeast that makes bread rise and beer ferment, the acetobacter that convert wine to vinegar, and the penicillium molds that give Camembert and Roquefort their characteristic flavors. Fermentation is one of the oldest food preservation methods — lactic acid bacteria lower the pH of food, creating an environment hostile to pathogens while producing appealing flavors.
 
-The human gut microbiome has become a major research focus. The trillions of bacteria in your digestive tract affect everything from nutrient absorption to immune function to mental health. Food scientists are investigating how different foods, fibers, and fermented products influence microbiome composition — a field that barely existed 20 years ago.
+The human gut microbiome has become a major research focus. The trillions of bacteria in your digestive tract affect everything from nutrient absorption to immune function to [mental health](/mental-health). Food scientists are investigating how different foods, fibers, and fermented products influence microbiome composition — a field that barely existed 20 years ago.
 
-### Food Chemistry
+### [Food Chemistry](/food-chemistry)
 
 Food chemistry examines the chemical composition of food and the reactions that occur during processing and storage. It's the science behind why browning happens, why emulsions stabilize or break, why certain vitamins degrade during cooking, and why fats go rancid.
 
@@ -71,9 +71,9 @@ Lipid oxidation is another central concern. Fats react with oxygen over time, pr
 
 ### Food Engineering
 
-Food engineering applies principles from [chemical engineering](/chemical-engineering) and mechanical engineering to design the equipment and processes that produce food at scale.
+Food engineering applies principles from [chemical engineering](/chemical-engineering) and [mechanical engineering](/mechanical-engineering) to design the equipment and processes that produce food at scale.
 
-Consider what it takes to make a gallon of pasteurized milk. Raw milk must be received, tested, standardized (adjusted to the correct fat content), homogenized (forced through tiny nozzles to break up fat globules so cream doesn't separate), pasteurized (heated to 72°C for 15 seconds to kill pathogens), cooled rapidly, packaged, and distributed under refrigeration — all while maintaining strict hygiene and traceability.
+Consider what it takes to make a gallon of pasteurized milk. Raw milk must be received, tested, standardized (adjusted to the correct fat content), homogenized (forced through tiny nozzles to break up fat globules so cream doesn't separate), pasteurized (heated to 72°C for 15 seconds to kill pathogens), cooled rapidly, packaged, and distributed under [refrigeration](/refrigeration) — all while maintaining strict hygiene and traceability.
 
 Modern dairy plants process hundreds of thousands of gallons per day. The engineering required to do this safely, efficiently, and consistently is substantial. Heat exchangers must transfer energy precisely. Flow rates must be controlled. Cleaning-in-place (CIP) systems must sanitize equipment between runs without disassembly.
 
@@ -169,7 +169,7 @@ Labeling regulations require accurate declaration of ingredients, allergens, nut
 
 The global food system accounts for roughly 26% of greenhouse gas emissions, 50% of habitable land use, and 70% of freshwater withdrawals. Food science is central to addressing these challenges.
 
-Reducing food waste — about one-third of all food produced globally is wasted — requires better preservation, packaging, and supply chain management. Developing alternative proteins (plant-based, cultured meat, insect-based) requires food science to make these products appealing and affordable. Improving agricultural efficiency through [agriculture](/agriculture) science and technology reduces the environmental footprint per calorie produced.
+Reducing food waste — about one-third of all food produced globally is wasted — requires better preservation, packaging, and [supply chain management](/supply-chain-management). Developing alternative proteins (plant-based, cultured meat, insect-based) requires food science to make these products appealing and affordable. Improving agricultural efficiency through [agriculture](/agriculture) science and technology reduces the environmental footprint per calorie produced.
 
 ## Emerging Frontiers
 

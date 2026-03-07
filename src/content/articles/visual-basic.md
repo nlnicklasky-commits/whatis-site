@@ -5,7 +5,7 @@ description: "Visual Basic is a programming language from Microsoft that made Wi
 category: technology
 tags: ["programming", "visual basic", "microsoft", "software development"]
 heroImage: "/images/articles/visual-basic.webp"
-heroAlt: "Visual Basic IDE showing a form designer with buttons and text fields alongside code window"
+heroAlt: "Editorial photograph representing the concept of visual basic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
     a: "Microsoft hasn't fully stopped — VB.NET still receives bug fixes and compatibility updates. But the company shifted investment to C# because maintaining feature parity between two languages with different design philosophies was unsustainable, and the developer community had largely moved to C#."
 ---
 
-Visual Basic is a programming language and development environment created by Microsoft in 1991 that allowed developers to build Windows applications by visually designing user interfaces and writing code in an English-like syntax. It was one of the first languages to make graphical application development accessible to non-expert programmers, and it became one of the most widely used programming languages in history.
+Visual Basic is a programming language and development environment created by Microsoft in 1991 that allowed developers to build Windows applications by visually designing user interfaces and writing code in an English-like syntax. It was one of the first languages to make graphical application development accessible to non-expert programmers, and it became one of the most widely used [programming languages](/programming-languages) in history.
 
 At its peak in the late 1990s, there were an estimated 6 million Visual Basic developers worldwide — more than any other programming language at the time.
 
@@ -45,9 +45,9 @@ To understand Visual Basic's significance, you need to understand what programmi
 
 In 1990, if you wanted to build a Windows application, you wrote [C](/c-programming) code. A lot of C code. Just creating a basic window with a button required hundreds of lines of complex, error-prone code dealing with Windows message loops, window classes, device contexts, and callback functions. The learning curve was brutal, and the barrier to entry was enormous.
 
-Visual Basic changed everything. Suddenly, you could drag a button onto a form, double-click it, and type what should happen when someone clicks it. The form designer handled all the underlying Windows API complexity. You didn't need to understand message pumps or window handles or any of the low-level plumbing. You just designed what it looked like and wrote what it should do.
+Visual Basic changed everything. Suddenly, you could drag a button onto a form, double-click it, and type what should happen when someone clicks it. The form designer handled all the underlying Windows API complexity. You didn't need to understand message pumps or window handles or any of the low-level [plumbing](/plumbing). You just designed what it looked like and wrote what it should do.
 
-The effect was seismic. Accountants wrote inventory management tools. Scientists built data collection interfaces. Small business owners created custom databases. Teachers made educational software. People who would never have called themselves programmers were building functional Windows applications.
+The effect was seismic. Accountants wrote [inventory management](/inventory-management) tools. Scientists built data collection interfaces. Small business owners created custom databases. Teachers made educational software. People who would never have called themselves programmers were building functional Windows applications.
 
 This wasn't universally celebrated. Professional C and C++ developers dismissed Visual Basic as a "toy language" — and honestly, they had some technical justification. VB programs were slower, larger, and less flexible than equivalent C code. But they missed the point entirely. Visual Basic wasn't competing with C. It was making programming possible for millions of people who would never have learned C.
 
@@ -69,13 +69,13 @@ The DAO (Data Access Objects) model let you connect to databases, run queries, a
 
 These versions added increasingly serious capabilities. VB4 introduced 32-bit compilation for Windows 95, classes (limited object-oriented programming), and the ability to create OLE Automation servers. VB5 added native code compilation (programs ran significantly faster) and the ability to create ActiveX controls — reusable components that could be embedded in web pages through Internet Explorer.
 
-The ActiveX era was VB's browser moment. For a brief period in the mid-to-late 1990s, Visual Basic components ran inside web pages. It was slow, insecure, and only worked in Internet Explorer, but it existed — and it gave VB developers a (limited) on-ramp to web development.
+The ActiveX era was VB's browser moment. For a brief period in the mid-to-late 1990s, Visual Basic components ran inside web pages. It was slow, insecure, and only worked in Internet Explorer, but it existed — and it gave VB developers a (limited) on-ramp to [web development](/web-development).
 
 ### Visual Basic 6.0 (1998)
 
 VB6 was the peak. It was fast enough, capable enough, and stable enough to build serious business applications. ADO (ActiveX Data Objects) replaced DAO for database access. The IDE was polished and productive. A massive ecosystem of third-party controls and components existed.
 
-VB6 applications ran everything from small business accounting systems to banking front-ends to medical records systems. Many of these applications are still running today — over 25 years later — because they work, nobody wants to pay for a rewrite, and the cost of replacing a system that "just works" is hard to justify.
+VB6 applications ran everything from small business [accounting](/accounting) systems to banking front-ends to medical records systems. Many of these applications are still running today — over 25 years later — because they work, nobody wants to pay for a rewrite, and the cost of replacing a system that "just works" is hard to justify.
 
 Microsoft released VB6 in September 1998. They had no idea it would be the last "classic" version.
 
@@ -97,7 +97,7 @@ If you've ever recorded a macro in Excel or automated a Word document, you've us
 
 **Excel VBA** is by far the most common use case. Financial analysts, accountants, scientists, and business analysts write VBA macros to automate repetitive spreadsheet tasks, create custom functions, build data processing pipelines, and generate reports. Some Excel VBA applications are staggeringly complex — multi-thousand-line programs that process data, interact with databases, generate charts, and send emails.
 
-The running joke in [finance](/finance) is that the world's financial infrastructure runs on Excel spreadsheets with VBA macros. It's not entirely a joke. Trading firms, insurance companies, and banks still rely heavily on VBA-powered spreadsheets for risk analysis, pricing models, and reporting.
+The running joke in [finance](/finance) is that the world's financial infrastructure runs on Excel spreadsheets with VBA macros. It's not entirely a joke. Trading firms, [insurance](/insurance) companies, and banks still rely heavily on VBA-powered spreadsheets for risk analysis, pricing models, and reporting.
 
 VBA's durability is remarkable. Microsoft has essentially frozen its development — no significant new features since Office 2010 — but it remains the most accessible way to automate Office tasks. Python integration in Excel is gradually emerging as an alternative, but VBA's installed base is so enormous that it will persist for decades.
 
@@ -109,7 +109,7 @@ C: `if (x > 5) { y = x * 2; } else { y = 0; }`
 
 VB: `If x > 5 Then y = x * 2 Else y = 0 End If`
 
-This readability was a deliberate design choice. The language was descended from BASIC (Beginner's All-purpose Symbolic Instruction Code), which was specifically designed in the 1960s to be easy for non-scientists to learn. Visual Basic inherited that philosophy.
+This readability was a deliberate design choice. The language was descended from BASIC (Beginner's All-purpose Symbolic Instruction Code), which was specifically designed in the 1960s to be easy for non-scientists to learn. Visual Basic inherited that [philosophy](/philosophy).
 
 Key language features across versions:
 

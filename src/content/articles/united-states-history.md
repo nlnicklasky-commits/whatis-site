@@ -5,7 +5,7 @@ description: "United States history covers the American story from colonial sett
 category: history
 tags: ["united states history", "american history", "us government", "democracy"]
 heroImage: "/images/articles/united-states-history.webp"
-heroAlt: "The United States Capitol building in Washington D.C. with the American flag"
+heroAlt: "Editorial photograph representing the concept of united states history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -75,25 +75,25 @@ It didn't last. White supremacist violence — the Ku Klux Klan, Red Shirts, and
 
 ## Industrialization and Immigration
 
-Between 1865 and 1914, the United States transformed from an agrarian republic into the world's largest industrial economy. Steel production soared from 77,000 tons in 1870 to 28.3 million tons by 1910. Railroad mileage quadrupled. John D. Rockefeller controlled 90% of American oil refining. Andrew Carnegie produced more steel than all of Great Britain.
+Between 1865 and 1914, the United States transformed from an agrarian republic into the world's largest industrial economy. [Steel production](/steel-production) soared from 77,000 tons in 1870 to 28.3 million tons by 1910. Railroad mileage quadrupled. John D. Rockefeller controlled 90% of American oil refining. Andrew Carnegie produced more steel than all of Great Britain.
 
-Immigrant labor built this industrial economy. Between 1880 and 1920, over 23 million immigrants arrived — Italians, Poles, Russians, Chinese, Japanese, Mexicans, and dozens of other nationalities. They worked in factories, mines, and construction, often in appalling conditions. The Triangle Shirtwaist Factory fire of 1911, which killed 146 garment workers (mostly young immigrant women), became a symbol of industrial exploitation and spurred labor reform.
+Immigrant labor built this industrial economy. Between 1880 and 1920, over 23 million immigrants arrived — Italians, Poles, Russians, Chinese, Japanese, Mexicans, and dozens of other nationalities. They worked in factories, mines, and [construction](/construction), often in appalling conditions. The Triangle Shirtwaist Factory fire of 1911, which killed 146 garment workers (mostly young immigrant women), became a symbol of industrial exploitation and spurred labor reform.
 
-The Progressive Era (roughly 1890-1920) produced a wave of reform: antitrust laws, food and drug regulation, women's suffrage (the 19th Amendment, 1920), direct election of senators, and the income tax. The reformers didn't fix everything — racial justice was largely ignored — but they established the principle that government should regulate capitalism rather than simply let it run.
+The Progressive Era (roughly 1890-1920) produced a wave of reform: antitrust laws, food and drug regulation, women's suffrage (the 19th Amendment, 1920), direct election of senators, and the income tax. The reformers didn't fix everything — racial justice was largely ignored — but they established the principle that [government](/government) should regulate [capitalism](/capitalism) rather than simply let it run.
 
 ## World Wars and Superpower Status
 
-World War I (U.S. involvement: 1917-1918) was a relatively brief experience for Americans — 116,000 deaths — but it marked the country's emergence as a global power. The interwar period brought the Roaring Twenties, the crash of 1929, and the Great Depression that followed. Franklin Roosevelt's New Deal (1933-1939) created Social Security, federal work programs, and banking regulations that reshaped the relationship between government and the economy.
+[World War I](/world-war-i) (U.S. involvement: 1917-1918) was a relatively brief experience for Americans — 116,000 deaths — but it marked the country's emergence as a global power. The interwar period brought the Roaring Twenties, the crash of 1929, and the Great Depression that followed. Franklin Roosevelt's New Deal (1933-1939) created Social Security, federal work programs, and banking regulations that reshaped the relationship between government and the economy.
 
-World War II was the turning point. The U.S. entered after Japan attacked Pearl Harbor on December 7, 1941. American industrial production was staggering — the country built 300,000 aircraft, 89,000 tanks, and 2 million trucks during the war. Over 400,000 Americans died. The atomic bombs dropped on Hiroshima and Nagasaki in August 1945 ended the war and launched the nuclear age.
+[World War II](/world-war-ii) was the turning point. The U.S. entered after Japan attacked Pearl Harbor on December 7, 1941. American industrial production was staggering — the country built 300,000 aircraft, 89,000 tanks, and 2 million trucks during the war. Over 400,000 Americans died. The atomic bombs dropped on Hiroshima and Nagasaki in August 1945 ended the war and launched the nuclear age.
 
 After 1945, the U.S. was unquestionably the world's dominant power. It held roughly half of global manufacturing output. It possessed nuclear weapons. It led the creation of the United Nations, NATO, the World Bank, and the Marshall Plan, which pumped $13 billion (about $170 billion today) into European reconstruction.
 
 ## Civil Rights and the Unfinished Revolution
 
-The civil rights movement — the effort to dismantle legal segregation and secure equal rights for Black Americans — is one of the most important stories in American history.
+The civil rights movement — the effort to dismantle legal segregation and secure equal rights for Black Americans — is one of the most important stories in [American history](/american-history).
 
-Brown v. Board of Education (1954) declared school segregation unconstitutional. Rosa Parks refused to give up her bus seat in Montgomery, Alabama, in December 1955, sparking a yearlong boycott. The sit-ins, Freedom Rides, and marches of the early 1960s — met with fire hoses, police dogs, and bombings — exposed the brutality of segregation to a national television audience.
+Brown v. Board of [Education](/education) (1954) declared school segregation unconstitutional. Rosa Parks refused to give up her bus seat in Montgomery, Alabama, in December 1955, sparking a yearlong boycott. The sit-ins, Freedom Rides, and marches of the early 1960s — met with fire hoses, police dogs, and bombings — exposed the brutality of segregation to a national television audience.
 
 The Civil Rights Act of 1964 banned discrimination in public accommodations and employment. The Voting Rights Act of 1965 prohibited racial barriers to voting. These were monumental achievements, won through extraordinary courage and sacrifice. Martin Luther King Jr., the movement's most prominent leader, was assassinated on April 4, 1968.
 

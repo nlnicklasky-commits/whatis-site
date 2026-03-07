@@ -5,7 +5,7 @@ description: "Particle physics studies the fundamental building blocks of matter
 category: everyday-concepts
 tags: ["particle physics", "quantum physics", "Standard Model", "quarks", "CERN", "Higgs boson"]
 heroImage: "/images/articles/particle-physics.webp"
-heroAlt: "Visualization of particle collision tracks inside a detector at a particle accelerator"
+heroAlt: "Editorial photograph representing the concept of particle physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ The Standard Model contains 17 fundamental particles:
 
 **Six quarks** — up, down, charm, strange, top, and bottom. Quarks combine to form protons (two ups and a down) and neutrons (two downs and an up). The top quark, discovered in 1995, is the heaviest known elementary particle — roughly as heavy as a gold atom despite being a single point-like particle.
 
-**Six leptons** — the electron, muon, tau, and three corresponding neutrinos. Electrons orbit atomic nuclei and make chemistry possible. Neutrinos are ghostly particles that barely interact with anything — trillions pass through your body every second without effect.
+**Six leptons** — the electron, muon, tau, and three corresponding neutrinos. Electrons orbit atomic nuclei and make [chemistry](/chemistry) possible. Neutrinos are ghostly particles that barely interact with anything — trillions pass through your body every second without effect.
 
 **Four force carriers (gauge bosons)** — the photon (carries electromagnetic force), the W and Z bosons (carry the weak nuclear force), and the gluon (carries the strong nuclear force). Forces between particles are mediated by exchanging these bosons. Think of two ice skaters throwing a ball back and forth — the exchange creates an apparent force between them.
 
@@ -51,9 +51,9 @@ The Standard Model contains 17 fundamental particles:
 
 Four forces govern everything in the universe:
 
-**The strong nuclear force** holds quarks together inside protons and neutrons and holds protons and neutrons together in atomic nuclei. It's the strongest force known — about 100 times stronger than electromagnetism — but operates only over distances smaller than an atomic nucleus.
+**The strong nuclear force** holds quarks together inside protons and neutrons and holds protons and neutrons together in atomic nuclei. It's the strongest force known — about 100 times stronger than [electromagnetism](/electromagnetism) — but operates only over distances smaller than an atomic nucleus.
 
-**The electromagnetic force** governs interactions between electrically charged particles. It's responsible for light, electricity, magnetism, and all of chemistry. Every time you see, touch, or hear anything, electromagnetism is involved.
+**The electromagnetic force** governs interactions between electrically charged particles. It's responsible for light, [electricity](/electricity), [magnetism](/magnetism), and all of chemistry. Every time you see, touch, or hear anything, electromagnetism is involved.
 
 **The weak nuclear force** governs certain types of radioactive decay and nuclear reactions. It's responsible for the nuclear fusion in the sun that keeps us alive. The weak force is "weak" relative to the strong force but still enormously powerful compared to gravity.
 
@@ -73,7 +73,7 @@ The data volumes are staggering. The LHC produces about 1 petabyte (1 million gi
 
 The Standard Model is spectacularly successful — but it's incomplete. Several major problems remain:
 
-**Gravity.** The Standard Model doesn't include gravity. Quantum mechanics and general relativity — our best theories of the very small and very large — are mathematically incompatible. String theory and loop quantum gravity are attempts to reconcile them, but neither has been experimentally confirmed.
+**Gravity.** The Standard Model doesn't include gravity. [Quantum mechanics](/quantum-mechanics) and [general relativity](/general-[relativity](/relativity)) — our best theories of the very small and very large — are mathematically incompatible. [String theory](/string-theory) and loop quantum gravity are attempts to reconcile them, but neither has been experimentally confirmed.
 
 **Dark matter.** Astronomical observations show that about 27% of the universe's mass-energy consists of matter that doesn't interact with light. No known Standard Model particle fits. Whatever dark matter is, it's something new. Experiments like XENON, LUX-ZEPLIN, and searches at the LHC continue looking.
 
@@ -87,6 +87,6 @@ The Standard Model is spectacularly successful — but it's incomplete. Several 
 
 Particle physics might seem disconnected from daily life. But understanding fundamental particles has led to practical technologies that most people use without realizing their origin.
 
-The World Wide Web was invented at CERN in 1989 to share data between physicists. PET scans use antimatter (positrons) for medical imaging. Proton therapy treats cancer. Particle accelerator technology has applications in materials science, food sterilization, and semiconductor manufacturing.
+The World Wide Web was invented at CERN in 1989 to share data between physicists. PET scans use antimatter (positrons) for [medical imaging](/medical-imaging). Proton therapy treats cancer. Particle accelerator technology has applications in [materials science](/materials-science), food sterilization, and semiconductor manufacturing.
 
 More fundamentally, particle physics answers the most basic question science can ask: What is the universe made of? The answer — a handful of elementary particles governed by four forces — is both astonishingly simple and astonishingly incomplete. The Standard Model describes everything we can see, but everything we can see makes up only about 5% of the universe. The other 95% remains one of the greatest mysteries in all of science.

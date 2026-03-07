@@ -5,7 +5,7 @@ description: "South American history spans thousands of years, from ancient civi
 category: history
 tags: ["south american history", "latin america", "history", "colonialism"]
 heroImage: "/images/articles/south-american-history.webp"
-heroAlt: "The ancient Inca citadel of Machu Picchu set against misty Andean mountain peaks"
+heroAlt: "Editorial photograph representing the concept of south american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,11 +33,11 @@ faq:
     a: "Most gained independence between 1810 and 1830. Key dates include Paraguay (1811), Argentina (1816), Chile (1818), Colombia (1819), Peru (1821), Brazil (1822), Bolivia (1825), and Uruguay (1828). Simon Bolivar and Jose de San Martin were the two most prominent independence leaders."
 ---
 
-# What Is South American History?
+# What Is South [American History](/american-history)?
 
 South American history is the story of the continent's peoples, cultures, and political systems from the earliest human migrations — at least 14,000 years ago — through pre-Columbian civilizations, European colonization, independence movements, and the complex modern era. It's the history of the Inca, the Mapuche, the Guarani, and hundreds of other indigenous peoples. It's the history of Spanish and Portuguese empires extracting staggering wealth. And it's the history of nations struggling to define themselves after centuries of colonial rule.
 
-The continent is the fourth largest on Earth, covering 17.8 million square kilometers with geography that ranges from the Amazon rainforest to the Atacama Desert to the Andes — the longest continental mountain range in the world. That geographic diversity shaped profoundly different societies, economies, and historical trajectories.
+The continent is the fourth largest on Earth, covering 17.8 million square kilometers with [geography](/geography) that ranges from the Amazon rainforest to the Atacama Desert to the Andes — the longest continental mountain range in the world. That geographic diversity shaped profoundly different societies, economies, and historical trajectories.
 
 ## Before Europeans: Thousands of Years of Civilization
 
@@ -51,15 +51,15 @@ Other early sites include Pedra Furada in Brazil, where some archaeologists clai
 
 ### Early Civilizations
 
-The oldest known civilization in the Americas — Norte Chico (also called Caral) — emerged along Peru's central coast around 3000 BCE, roughly contemporary with ancient Egypt and Mesopotamia. The city of Caral featured monumental architecture, including platform mounds and sunken circular plazas, built by a society that apparently had no pottery, no writing, and no evidence of warfare. They sustained themselves through fishing and agriculture, growing cotton and squash.
+The oldest known civilization in the Americas — Norte Chico (also called Caral) — emerged along Peru's central coast around 3000 BCE, roughly contemporary with ancient Egypt and Mesopotamia. The city of Caral featured monumental [architecture](/architecture), including platform mounds and sunken circular plazas, built by a society that apparently had no pottery, no writing, and no evidence of warfare. They sustained themselves through fishing and [agriculture](/agriculture), growing cotton and squash.
 
 What makes Norte Chico remarkable is its age and complexity. It pushes back the timeline for complex society in the Americas by over a thousand years from previous estimates.
 
 Later pre-Columbian civilizations in South America include:
 
-**The Chavin (900-200 BCE)** — An early Andean culture centered at Chavin de Huantar in Peru. They developed sophisticated stone carving, metallurgy, and textile production, and their religious iconography spread across a wide area, suggesting significant cultural influence.
+**The Chavin (900-200 BCE)** — An early Andean culture centered at Chavin de Huantar in Peru. They developed sophisticated [stone carving](/stone-carving), metallurgy, and textile production, and their religious [iconography](/iconography) spread across a wide area, suggesting significant cultural influence.
 
-**The Moche (100-700 CE)** — A northern Peruvian coastal society known for extraordinary ceramics — portrait vessels so detailed they may represent actual individuals — and massive adobe pyramids, including the Huaca del Sol, one of the largest structures in pre-Columbian South America. The Moche also practiced human sacrifice and developed sophisticated irrigation systems.
+**The Moche (100-700 CE)** — A northern Peruvian coastal society known for extraordinary ceramics — portrait vessels so detailed they may represent actual individuals — and massive adobe pyramids, including the Huaca del Sol, one of the largest structures in pre-Columbian South America. The Moche also practiced human sacrifice and developed sophisticated [irrigation](/irrigation) systems.
 
 **The Tiwanaku (500-1000 CE)** — Based near Lake Titicaca at an elevation of nearly 4,000 meters, Tiwanaku was one of the most important precursors to the Inca. At its peak, the city held perhaps 20,000-40,000 people and exerted influence across modern Bolivia, Peru, and Chile.
 
@@ -69,7 +69,7 @@ The Inca Empire — Tawantinsuyu, "The Four Regions Together" — was the larges
 
 The Inca managed this without money, markets, iron tools, or a writing system in the conventional sense. Instead, they used the *quipu* — knotted strings that recorded numerical and possibly narrative information through a system scholars still don't fully understand. They built an extraordinary road network of roughly 40,000 kilometers — some of it at elevations above 5,000 meters — connecting the empire with relay runners who could carry a message 240 kilometers in a single day.
 
-Their agricultural engineering was extraordinary. Terraced hillsides converted steep Andean slopes into farmable land. Freeze-drying techniques — exposing potatoes to cold mountain air and bright sun — produced *chuno*, a preserved food that could last years. The Inca domesticated over 70 plant species and developed thousands of potato varieties.
+Their agricultural [engineering](/engineering) was extraordinary. Terraced hillsides converted steep Andean slopes into farmable land. Freeze-drying techniques — exposing potatoes to cold mountain air and bright sun — produced *chuno*, a preserved food that could last years. The Inca domesticated over 70 plant species and developed thousands of potato varieties.
 
 And then, in a span of roughly 40 years, it all collapsed.
 
@@ -107,7 +107,7 @@ Independence didn't bring stability. Most new nations spent the 19th century cyc
 
 The 20th century in South America was marked by extreme political volatility. A rough pattern repeated across countries: elected governments, economic crises, military coups, authoritarian rule, popular resistance, and eventual return to democracy.
 
-Argentina experienced this cycle multiple times. Juan Peron's populist government (1946-1955) was followed by military rule, a brief democratic restoration, and then the brutal military junta of 1976-1983, during which an estimated 30,000 people were "disappeared" — kidnapped, tortured, and killed by the state.
+Argentina experienced this cycle multiple times. Juan Peron's populist [government](/government) (1946-1955) was followed by military rule, a brief democratic restoration, and then the brutal military junta of 1976-1983, during which an estimated 30,000 people were "disappeared" — kidnapped, tortured, and killed by the state.
 
 Chile's democratically elected socialist president Salvador Allende was overthrown in a U.S.-backed military coup in 1973, installing Augusto Pinochet's dictatorship, which lasted until 1990. Brazil was under military rule from 1964 to 1985.
 
@@ -127,6 +127,6 @@ The Amazon rainforest — shared among nine countries, with about 60% in Brazil 
 
 South American history matters because it's the history of 430 million people living on a continent that's been continuously inhabited longer than almost anywhere outside Africa. It's a history of astonishing achievement — the Inca road system, Norte Chico's pyramids, the biodiversity of the Amazon — and staggering destruction — the colonial extraction machine, the military dictatorships, the ongoing environmental crisis.
 
-It's also a history that's still very much in progress. The legacies of colonialism, slavery, and Cold War intervention are not abstract historical concepts in South America. They shape politics, economics, and daily life right now.
+It's also a history that's still very much in progress. The legacies of colonialism, slavery, and Cold War intervention are not abstract historical concepts in South America. They shape politics, [economics](/economics), and daily life right now.
 
 Understanding this continent's past isn't just academic exercise. It's context for understanding the present.

@@ -5,7 +5,7 @@ description: "Mediterranean history covers thousands of years of civilizations a
 category: history
 tags: ["history", "mediterranean", "ancient civilizations"]
 heroImage: "/images/articles/mediterranean-history.webp"
-heroAlt: "Ancient Greek ruins overlooking the turquoise Mediterranean Sea"
+heroAlt: "Editorial photograph representing the concept of mediterranean history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The historian Fernand Braudel, whose 1949 masterwork *The Mediterranean and the 
 
 ## The Earliest Civilizations
 
-Human settlement around the Mediterranean goes back deep into prehistory. The oldest known seafaring in the Mediterranean dates to at least 130,000 years ago — stone tools found on Crete suggest that early hominins somehow crossed open water to reach the island long before modern humans arrived.
+Human settlement around the Mediterranean goes back deep into [prehistory](/prehistory). The oldest known seafaring in the Mediterranean dates to at least 130,000 years ago — stone tools found on Crete suggest that early hominins somehow crossed open water to reach the island long before modern humans arrived.
 
 By around 3000 BCE, the first great Mediterranean civilizations were emerging. The Minoans on Crete built elaborate palace complexes at Knossos and Phaistos, developed a writing system (Linear A, still undeciphered), and dominated maritime trade across the eastern Mediterranean. Their civilization flourished for over a thousand years before declining around 1450 BCE — possibly following the catastrophic volcanic eruption of Thera (modern Santorini).
 
@@ -61,17 +61,17 @@ And then there's their most lasting contribution: the alphabet. The Phoenician w
 
 Greek civilization emerged from the Mediterranean's eastern basin beginning around the 8th century BCE, and what it produced in roughly 300 years of classical activity (roughly 500-200 BCE) continues to shape Western thought.
 
-The Greeks weren't a unified nation — they were a collection of fiercely independent city-states (poleis) scattered across the Aegean islands, mainland Greece, and coastal Asia Minor. Athens pioneered democracy. Sparta perfected military discipline. Corinth dominated trade. Each polis had its own character, government, and culture.
+The Greeks weren't a unified nation — they were a collection of fiercely independent city-states (poleis) scattered across the Aegean islands, mainland Greece, and coastal Asia Minor. Athens pioneered democracy. Sparta perfected military discipline. Corinth dominated trade. Each polis had its own character, [government](/government), and culture.
 
-What united them was language, religion, and the Mediterranean itself. Greek colonies spread from Marseille in modern France to the Black Sea coast of modern Ukraine. Wherever Greeks went, they brought their language, their gods, their architectural styles, and their obsessive love of athletic competition (the Olympics began in 776 BCE).
+What united them was language, [religion](/religion), and the Mediterranean itself. Greek colonies spread from Marseille in modern France to the Black Sea coast of modern Ukraine. Wherever Greeks went, they brought their language, their gods, their architectural styles, and their obsessive love of athletic competition (the Olympics began in 776 BCE).
 
-The intellectual output was staggering. In philosophy alone, Socrates, Plato, and Aristotle laid foundations that Western philosophy still argues about. Herodotus and Thucydides essentially invented historical writing. Euclid systematized geometry. Hippocrates established medicine as a discipline distinct from religious superstition. Aristophanes wrote comedies that are still funny.
+The intellectual output was staggering. In [philosophy](/philosophy) alone, Socrates, Plato, and Aristotle laid foundations that [Western philosophy](/western-philosophy) still argues about. Herodotus and Thucydides essentially invented historical writing. Euclid systematized [geometry](/geometry). Hippocrates established medicine as a discipline distinct from religious superstition. Aristophanes wrote comedies that are still funny.
 
 ## Rome: One Empire, One Sea
 
 Rome took the connected Mediterranean world and — through military conquest, administrative genius, and no small amount of brutality — turned it into a single political entity. By 30 BCE, when Octavian (soon to be Augustus) defeated Cleopatra and annexed Egypt, Rome controlled every inch of the Mediterranean coastline.
 
-The Romans called it *Mare Nostrum* — "Our Sea." And they weren't exaggerating. For roughly 200 years (the Pax Romana, from 27 BCE to 180 CE), the Mediterranean was essentially a Roman lake. Trade flowed freely. Grain ships from Egypt fed the city of Rome. Wine, olive oil, pottery, marble, silk, and spices moved constantly between ports.
+The Romans called it *Mare Nostrum* — "Our Sea." And they weren't exaggerating. For roughly 200 years (the Pax Romana, from 27 BCE to 180 CE), the Mediterranean was essentially a Roman lake. Trade flowed freely. Grain ships from Egypt fed the city of Rome. Wine, olive oil, [pottery](/pottery), marble, silk, and spices moved constantly between ports.
 
 The scale was remarkable. At its peak, the Roman Empire had about 60 million inhabitants — roughly a quarter of the world's population. It maintained 250,000 miles of roads (50,000 paved), a common legal system, a shared currency, and public infrastructure (aqueducts, baths, amphitheaters) from Britain to Syria.
 
@@ -83,7 +83,7 @@ After Rome's western half collapsed in 476 CE, the Mediterranean world split int
 
 The Byzantine Empire (the eastern Roman Empire, centered on Constantinople) controlled the eastern Mediterranean, preserved Greek learning, and maintained Roman administrative traditions for nearly a thousand years — until Constantinople fell to the Ottoman Turks in 1453.
 
-The Islamic caliphates, beginning with the Arab conquests of the 7th century, swept across North Africa, the Levant, and eventually into Spain. By 750 CE, the Umayyad and then Abbasid caliphates controlled the Mediterranean's southern and eastern shores. Islamic scholars translated and preserved Greek philosophical and scientific texts that would have been lost otherwise — and made major original contributions in mathematics, astronomy, medicine, and optics.
+The Islamic caliphates, beginning with the Arab conquests of the 7th century, swept across North Africa, the Levant, and eventually into Spain. By 750 CE, the Umayyad and then Abbasid caliphates controlled the Mediterranean's southern and eastern shores. Islamic scholars translated and preserved Greek philosophical and scientific texts that would have been lost otherwise — and made major original contributions in [mathematics](/mathematics), [astronomy](/astronomy), medicine, and optics.
 
 Western Christendom — the kingdoms that emerged from Rome's collapse — controlled the northern shore but was, for centuries, the least prosperous and culturally advanced of the three. That changed during the later Middle Ages, as Italian city-states like Venice, Genoa, and Pisa developed sophisticated maritime trade networks that made them fabulously wealthy.
 

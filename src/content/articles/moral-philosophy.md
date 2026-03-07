@@ -5,7 +5,7 @@ description: "Moral philosophy (ethics) asks what is right and wrong, and why. L
 category: philosophy
 tags: ["moral philosophy", "ethics", "philosophy", "virtue ethics", "deontology", "consequentialism", "justice"]
 heroImage: "/images/articles/moral-philosophy-hero.webp"
-heroAlt: "Ancient Greek bust of a philosopher with a scales of justice motif in the background"
+heroAlt: "Editorial photograph representing the concept of moral philosophy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ Aristotle, Plato's student, took a more practical approach. In the *Nicomachean 
 
 For Aristotle, eudaimonia isn't a feeling—it's an activity. It's living in accordance with your highest capacities, particularly reason. And it requires virtue: excellences of character like courage, temperance, justice, and practical wisdom (*phronesis*). Virtue is a mean between extremes—courage is the mean between cowardice and recklessness, generosity is the mean between stinginess and wastefulness.
 
-Aristotle's approach—focusing on character rather than rules or outcomes—is the foundation of virtue ethics, one of the three dominant traditions in moral philosophy.
+Aristotle's approach—focusing on character rather than rules or outcomes—is the foundation of [virtue ethics](/virtue-ethics), one of the three dominant traditions in moral philosophy.
 
 ## The Three Major Ethical Theories
 
@@ -115,7 +115,7 @@ Kant argued that morality is grounded in reason alone. His key principle is the 
 
 ### Consequentialism: What Produces the Best Outcome?
 
-Consequentialism holds that the morality of an action depends entirely on its consequences. The most famous version is utilitarianism, developed by Jeremy Bentham (1748-1832) and John Stuart Mill (1806-1873).
+Consequentialism holds that the morality of an action depends entirely on its consequences. The most famous version is [utilitarianism](/utilitarianism), developed by Jeremy Bentham (1748-1832) and John Stuart Mill (1806-1873).
 
 Bentham proposed a simple principle: the right action is the one that produces the greatest happiness for the greatest number. He even attempted a "felicific calculus"—a mathematical method for quantifying pleasure and pain to determine the best action.
 
@@ -141,7 +141,7 @@ Modern consequentialism takes many forms:
 
 Moral philosophy isn't just theoretical. Applied ethics brings philosophical frameworks to specific real-world domains.
 
-### Medical Ethics
+### [Medical Ethics](/medical-ethics)
 
 Should doctors assist terminally ill patients in dying? How should we allocate scarce organs for transplant? Is it ethical to edit human embryos with CRISPR?
 
@@ -167,9 +167,9 @@ Peter Singer's influential 1975 book *Animal Liberation* argued from a utilitari
 
 ### Ethics of Technology
 
-As artificial intelligence makes increasingly consequential decisions—in criminal sentencing, hiring, autonomous vehicles, and [computer-security](/computer-security)—moral philosophy becomes urgently relevant. How should a self-driving car choose when a crash is unavoidable? The trolley problem, once a purely theoretical thought experiment, is now a practical engineering question.
+As [artificial intelligence](/artificial-intelligence) makes increasingly consequential decisions—in criminal sentencing, hiring, autonomous vehicles, and [computer-security](/computer-security)—moral philosophy becomes urgently relevant. How should a self-driving car choose when a crash is unavoidable? The trolley problem, once a purely theoretical thought experiment, is now a practical engineering question.
 
-AI ethics also raises questions about fairness, transparency, and accountability. If an algorithm discriminates against certain groups, who is responsible? The programmer? The company? The training data? These are new questions requiring old philosophical tools.
+AI ethics also raises questions about fairness, transparency, and accountability. If [an algorithm](/algorithms) discriminates against certain groups, who is responsible? The programmer? The company? The training data? These are new questions requiring old philosophical tools.
 
 ## Metaethics: Going Deeper
 

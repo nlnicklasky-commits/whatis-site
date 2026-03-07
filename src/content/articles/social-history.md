@@ -5,7 +5,7 @@ description: "Social history studies the everyday experiences of ordinary people
 category: history
 tags: ["social history", "history", "cultural history", "everyday life"]
 heroImage: "/images/articles/social-history.webp"
-heroAlt: "A collage of historical photographs showing ordinary people at work, at home, and in community settings"
+heroAlt: "Editorial photograph representing the concept of social history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -69,15 +69,15 @@ Eric Hobsbawm, Christopher Hill, and Raphael Samuel were other major figures. Sa
 
 Social history became a dominant force in academic history departments during the 1960s and 1970s, powered partly by political movements. The civil rights movement, feminism, and anti-colonial movements all demanded that history pay attention to people who'd been left out: Black Americans, women, colonized peoples, the working poor.
 
-Women's history, African American history, labor history, and the history of sexuality all emerged as subfields during this period. Each insisted that the experiences of marginalized groups weren't footnotes to "real" history — they *were* real history.
+Women's history, African [American history](/american-history), labor history, and the history of sexuality all emerged as subfields during this period. Each insisted that the experiences of marginalized groups weren't footnotes to "real" history — they *were* real history.
 
 ## How Social Historians Work
 
-The sources for social history are different from those used in political history, and finding them requires creativity.
+The sources for social history are different from those used in [political history](/political-history), and finding them requires creativity.
 
 ### Official Records, Read Sideways
 
-Government documents aren't just records of policy — they're windows into daily life if you read them right. Census records tell you household sizes, occupations, and literacy rates. Tax rolls reveal wealth distribution. Court records — even routine criminal cases — expose social conflicts, sexual norms, and neighborhood dynamics.
+[Government](/government) documents aren't just records of policy — they're windows into daily life if you read them right. Census records tell you household sizes, occupations, and literacy rates. Tax rolls reveal wealth distribution. Court records — even routine criminal cases — expose social conflicts, sexual norms, and neighborhood dynamics.
 
 The records of the English Inquisitions Post Mortem, for example, were originally created to document land ownership after a tenant-in-chief's death. But they also record agricultural practices, local customs, and land values, making them goldmines for medieval social historians.
 
@@ -93,7 +93,7 @@ When written sources fail, objects speak. [Archaeology](/archaeology) reveals wh
 
 Historical archaeology — the study of material remains from periods that also have written records — is especially valuable because it lets researchers cross-check physical evidence against documentary claims. Often, they don't match. What people *said* they were doing and what the material evidence shows they were doing can be very different things.
 
-### Oral History
+### [Oral History](/oral-history)
 
 For the 20th and 21st centuries, recorded interviews with ordinary people provide direct testimony about lived experience. The Studs Terkel oral history collections — *Working*, *Hard Times*, *The Good War* — captured the voices of everyday Americans in extraordinary detail.
 
@@ -105,15 +105,15 @@ The field has fundamentally changed how we understand certain periods and topics
 
 ### Childhood
 
-The historian Philippe Aries argued in 1960 that "childhood" as we understand it — a distinct phase of life requiring special treatment — is a relatively modern invention. In medieval Europe, children were treated as small adults, put to work early, and given little of the sentimental attention modern parents lavish on their kids. This thesis has been debated and refined, but it opened up an entirely new area of historical inquiry.
+The historian Philippe Aries argued in 1960 that "childhood" as we understand it — a distinct phase of life requiring special treatment — is a relatively modern [invention](/invention). In medieval Europe, children were treated as small adults, put to work early, and given little of the sentimental attention modern parents lavish on their kids. This thesis has been debated and refined, but it opened up an entirely new area of historical inquiry.
 
 ### Disease and the Body
 
-Social history showed that disease isn't just a medical topic — it's a social one. The Black Death (1347-1351) killed an estimated 30-60% of Europe's population, but its effects depended heavily on class, geography, and occupation. The social consequences — labor shortages, wage increases, peasant revolts, shifts in religious practice — reshaped European society for centuries.
+Social history showed that disease isn't just a medical topic — it's a social one. The Black Death (1347-1351) killed an estimated 30-60% of Europe's population, but its effects depended heavily on class, [geography](/geography), and occupation. The social consequences — labor shortages, wage increases, peasant revolts, shifts in religious practice — reshaped European society for centuries.
 
 ### Food and Consumption
 
-What people eat tells you about trade networks, social status, environmental conditions, and cultural values. The introduction of sugar into the European diet, as Sidney Mintz demonstrated in *Sweetness and Power* (1985), was inseparable from the Atlantic slave trade, the rise of industrial capitalism, and the transformation of working-class diets.
+What people eat tells you about trade networks, social status, environmental conditions, and cultural values. The introduction of sugar into the European diet, as Sidney Mintz demonstrated in *Sweetness and Power* (1985), was inseparable from the Atlantic slave trade, the rise of industrial [capitalism](/capitalism), and the transformation of working-class diets.
 
 ### Gender and Family
 
@@ -121,7 +121,7 @@ Social history revealed that the "traditional family" — a nuclear unit with a 
 
 ## Criticisms and Ongoing Debates
 
-Social history hasn't been without its critics. Some historians argue that the emphasis on ordinary experience risks losing sight of the big structural forces — politics, economics, ideology — that shape the conditions ordinary people live in. You can study the daily life of a 1930s sharecropper in exquisite detail, but without understanding Jim Crow laws, agricultural economics, and racial ideology, that detail floats without context.
+Social history hasn't been without its critics. Some historians argue that the emphasis on ordinary experience risks losing sight of the big structural forces — [politics](/politics), [economics](/economics), ideology — that shape the conditions ordinary people live in. You can study the daily life of a 1930s sharecropper in exquisite detail, but without understanding Jim Crow laws, agricultural economics, and racial ideology, that detail floats without context.
 
 Others worry about fragmentation. As social history spawned dozens of subfields — women's history, labor history, the history of childhood, the history of emotions, the history of the body — some critics questioned whether the discipline was breaking apart into disconnected specialties that didn't talk to each other.
 

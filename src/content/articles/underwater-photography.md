@@ -5,7 +5,7 @@ description: "Underwater photography captures images beneath the water's surface
 category: arts-amp-culture
 tags: ["underwater photography", "photography", "marine life", "diving", "ocean", "camera gear"]
 heroImage: "/images/articles/underwater-photography.webp"
-heroAlt: "A diver photographing a colorful coral reef with a strobe light illuminating tropical fish"
+heroAlt: "Editorial photograph representing the concept of underwater photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Underwater Photography?
 
-Underwater photography is exactly what it sounds like — capturing images beneath the surface of water, whether that's a swimming pool, a freshwater lake, or the open ocean at 130 feet. It combines photography skills with diving ability and demands solutions to problems that don't exist on land: your camera is surrounded by a medium that absorbs light, distorts distances, and would destroy your equipment if it got inside.
+Underwater photography is exactly what it sounds like — capturing images beneath the surface of water, whether that's a [swimming](/swimming) pool, a freshwater lake, or the open ocean at 130 feet. It combines photography skills with [diving](/diving) ability and demands solutions to problems that don't exist on land: your camera is surrounded by a medium that absorbs light, distorts distances, and would destroy your equipment if it got inside.
 
 ## The Physics That Make Everything Harder
 
@@ -67,7 +67,7 @@ Water changes the rules of photography in ways that catch people off guard.
 
 Underwater photography carries a responsibility that terrestrial photography rarely does. Coral reefs, the most photogenic underwater environments, are also among the most fragile ecosystems on Earth. A careless fin kick can break coral that took decades to grow. An anchor dropped on reef can destroy a century of growth.
 
-Responsible underwater photographers follow strict guidelines: maintain neutral buoyancy to avoid contact with the bottom, never touch or harass marine life for a better shot, and avoid using excessive flash on sensitive species. Organizations like the Reef Environmental Education Foundation promote photography practices that document marine life without damaging it.
+Responsible underwater photographers follow strict guidelines: maintain neutral buoyancy to avoid contact with the bottom, never touch or harass marine life for a better shot, and avoid using excessive flash on sensitive species. Organizations like the Reef Environmental [Education](/education) Foundation promote photography practices that document marine life without damaging it.
 
 The good news is that underwater photography has been a powerful force for ocean conservation. Images of vibrant coral reefs, graceful whale sharks, and bizarre deep-sea creatures create emotional connections that scientific papers alone can't achieve. David Doubilet's work for National Geographic, Laurent Ballesta's deep-diving expeditions, and countless amateur photographers sharing reef images on social media have all contributed to public awareness of ocean conservation needs.
 

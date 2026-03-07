@@ -5,7 +5,7 @@ description: "Squash is a fast-paced racquet sport played in a four-walled court
 category: sports
 tags: ["squash", "racquet sports", "fitness", "court sports", "Olympics", "exercise"]
 heroImage: "/images/articles/squash.webp"
-heroAlt: "Two squash players in action on a glass-backed squash court during a competitive match"
+heroAlt: "Editorial photograph representing the concept of squash"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ A rally continues until someone fails to return the ball, hits the tin, or hits 
 
 A squash court is 32 feet long and 21 feet wide — relatively small, which is part of what makes the sport so intense. There's nowhere to hide. Every part of the court must be covered, and the ball can come off any wall at any angle.
 
-The front wall has three lines: the out line at the top, the service line in the middle (relevant only for serves), and the tin at the bottom. The side walls have out lines that slope from the front wall's out line down to the back wall's lower out line. This geometry means the playing area gets narrower as the ball goes higher and deeper — an elegant design that rewards precision.
+The front wall has three lines: the out line at the top, the service line in the middle (relevant only for serves), and the tin at the bottom. The side walls have out lines that slope from the front wall's out line down to the back wall's lower out line. This [geometry](/geometry) means the playing area gets narrower as the ball goes higher and deeper — an elegant design that rewards precision.
 
 **Glass courts** have transformed how squash is watched. Professional tournaments now use all-glass courts that allow spectators to watch from every side. These show courts, often set up in spectacular locations — Grand Central Terminal, the Egyptian pyramids, Times Square — have made squash dramatically more telegenic and helped the sport's case for Olympic inclusion.
 
@@ -63,7 +63,7 @@ Squash looks chaotic to beginners but becomes deeply strategic as you understand
 
 **Length** is the most important shot. Hitting the ball deep into the back corners forces your opponent to play from a weak position, giving you the T. Professionals hit the majority of their shots as straight or cross-court drives aimed at the back wall. It's not flashy, but it wins matches.
 
-**Drop shots and boasts** change the pace. A drop shot dies softly near the front wall, forcing your opponent to sprint forward. A boast hits a side wall first, creating an angle that pulls the ball to the front. These attacking shots work best when you've already pushed your opponent deep — the contrast between deep shots and short shots creates the chess match within the physical battle.
+**Drop shots and boasts** change the pace. A drop shot dies softly near the front wall, forcing your opponent to sprint forward. A boast hits a side wall first, creating an angle that pulls the ball to the front. These attacking shots work best when you've already pushed your opponent deep — the contrast between deep shots and short shots creates the [chess](/chess) match within the physical battle.
 
 **The lob** is underappreciated. A high, soft shot to the back of the court buys you time to recover, disrupts your opponent's rhythm, and can be devastatingly effective against aggressive players who crowd the T.
 
@@ -73,14 +73,14 @@ Squash is consistently ranked among the most physically demanding sports in the 
 
 A competitive match involves near-continuous movement for 45-90 minutes. Players change direction 4-6 times per rally, with rallies averaging 10-20 seconds in professional play and occurring every few seconds. Heart rates during match play average 80-90% of maximum — comparable to high-intensity interval training, except sustained for an hour.
 
-The movement pattern — forward lunges, lateral pushes, backward retreats, and rotational swings — develops a type of athletic fitness that's hard to replicate in a gym. Squash players tend to have exceptional agility, lower-body strength, and cardiovascular fitness.
+The movement pattern — forward lunges, lateral pushes, backward retreats, and rotational swings — develops a type of athletic [fitness](/fitness) that's hard to replicate in a gym. Squash players tend to have exceptional agility, lower-body strength, and cardiovascular fitness.
 
-The calorie burn is genuinely impressive. Studies estimate 600-1,000 calories per hour of competitive play, depending on intensity and body weight. That puts it ahead of running, cycling, swimming, and most other common exercises for energy expenditure per hour.
+The calorie burn is genuinely impressive. Studies estimate 600-1,000 calories per hour of competitive play, depending on intensity and body weight. That puts it ahead of [running](/running), [cycling](/cycling), [swimming](/swimming), and most other common exercises for energy expenditure per hour.
 
 ## Getting Started
 
-Squash is easier to start than many sports because you only need one opponent, one court, and minimal equipment. A decent beginner racquet costs $40-80. Balls cost a few dollars. Non-marking indoor court shoes (which you probably need for any indoor sport) run $60-100. The main barrier is court access — squash courts are found in athletic clubs, YMCAs, universities, and dedicated squash facilities, but they're less common than, say, tennis courts.
+Squash is easier to start than many sports because you only need one opponent, one court, and minimal equipment. A decent beginner racquet costs $40-80. Balls cost a few dollars. Non-marking indoor court shoes (which you probably need for any indoor sport) run $60-100. The main barrier is court access — squash courts are found in athletic clubs, YMCAs, universities, and dedicated squash facilities, but they're less common than, say, [tennis](/tennis) courts.
 
 Take a lesson or two before playing matches. Squash technique — particularly the swing, which is more compact and wrist-driven than tennis — benefits enormously from early instruction. Bad habits in squash are hard to break and can lead to injury, especially in the wrist and elbow.
 
-The learning curve is gentle for casual play and steep for competitive play. You can have fun rallying within your first few sessions. Getting genuinely good takes years of dedicated practice, match play, and coaching. But that depth — the feeling that there's always more to learn — is exactly what keeps squash players playing for decades.
+The learning curve is gentle for casual play and steep for competitive play. You can have fun rallying within your first few sessions. Getting genuinely good takes years of dedicated practice, match play, and [coaching](/coaching). But that depth — the feeling that there's always more to learn — is exactly what keeps squash players playing for decades.

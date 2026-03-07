@@ -5,7 +5,7 @@ description: "Tropical ecology studies life in Earth's warmest regions, from rai
 category: science
 tags: ["tropical ecology", "ecology", "biodiversity", "rainforest", "conservation", "ecosystems"]
 heroImage: "/images/articles/tropical-ecology.webp"
-heroAlt: "Dense tropical rainforest canopy with sunlight filtering through layers of green foliage"
+heroAlt: "Editorial photograph representing the concept of tropical ecology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -69,7 +69,7 @@ The tallest trees — sometimes 60 to 70 meters high — poke above the main can
 
 This is the main roof of the forest, typically sitting at 25 to 45 meters. It intercepts most of the incoming sunlight — up to 95% in some forests. The canopy is where most of the photosynthesis happens, and consequently where most of the action is. Epiphytes (plants that grow on other plants) festoon every available branch. Orchids, bromeliads, ferns, and mosses form their own suspended gardens, sometimes weighing down branches until they snap.
 
-Canopy research was practically impossible until the 1970s, when ecologists started using ropes, walkways, and construction cranes to access the treetops. What they found was startling: entire communities of insects, frogs, and mammals were living and dying in the canopy without ever touching the ground. One famous study by Terry Erwin in Panama estimated that tropical canopies might harbor 30 million insect species — a number that kicked off a decades-long argument about global biodiversity estimates.
+Canopy research was practically impossible until the 1970s, when ecologists started using ropes, walkways, and [construction](/construction) cranes to access the treetops. What they found was startling: entire communities of insects, frogs, and mammals were living and dying in the canopy without ever touching the ground. One famous study by Terry Erwin in Panama estimated that tropical canopies might harbor 30 million insect species — a number that kicked off a decades-long argument about global biodiversity estimates.
 
 ### The Understory and Forest Floor
 
@@ -83,7 +83,7 @@ Here's one of the most surprising facts in ecology: the world's most productive 
 
 This paradox makes sense once you understand how tropical nutrient cycling works. In temperate forests, thick soil layers store nutrients over decades. In the tropics, nutrients are recycled so rapidly that they never accumulate in the soil. Mycorrhizal fungi — networks of fungal threads that connect to tree roots — intercept nutrients from decaying matter almost immediately and shuttle them back into living trees. Some researchers call this a "direct nutrient cycling" system, where the gap between death and rebirth is practically zero.
 
-This is why slash-and-burn agriculture in tropical regions is such a trap. Burning forest releases a pulse of nutrients into the soil, and crops grow well for two or three years. Then yields crash. The nutrients are gone, washed away by rain, and without the forest's recycling machinery there's no way to get them back. The farmer moves on, clears more forest, and the cycle repeats.
+This is why slash-and-burn [agriculture](/agriculture) in tropical regions is such a trap. Burning forest releases a pulse of nutrients into the soil, and crops grow well for two or three years. Then yields crash. The nutrients are gone, washed away by rain, and without the forest's recycling machinery there's no way to get them back. The farmer moves on, clears more forest, and the cycle repeats.
 
 ### Phosphorus: The Hidden Limit
 
@@ -151,7 +151,7 @@ Protecting tropical ecosystems requires a mix of approaches, and there's no silv
 
 ## Tropical Ecology as a Science
 
-The field has changed enormously in the last few decades. Early tropical ecology was dominated by natural history — cataloging species, describing habitats, observing behaviors. That work was essential and continues today (new species are still being discovered at a rate of roughly 18,000 per year, most of them in the tropics).
+The field has changed enormously in the last few decades. Early tropical ecology was dominated by [natural history](/natural-history) — cataloging species, describing habitats, observing behaviors. That work was essential and continues today (new species are still being discovered at a rate of roughly 18,000 per year, most of them in the tropics).
 
 But modern tropical ecology increasingly uses quantitative tools. Remote sensing from satellites can track deforestation in near-real-time. Environmental DNA (eDNA) analysis lets researchers identify species from water or soil samples without ever seeing the organisms themselves. Long-term forest monitoring plots — some maintained for over 40 years — provide data on growth rates, mortality, and species turnover that no short-term study could capture.
 

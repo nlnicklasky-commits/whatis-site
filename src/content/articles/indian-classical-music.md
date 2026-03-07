@@ -5,7 +5,7 @@ description: "Indian classical music is one of the world's oldest musical tradit
 category: arts-amp-culture
 tags: ["indian classical music", "raga", "tala", "hindustani music", "carnatic music", "indian music"]
 heroImage: "/images/articles/indian-classical-music.webp"
-heroAlt: "Sitar player performing Indian classical music with tabla drums in background"
+heroAlt: "Editorial photograph representing the concept of indian classical music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "A full raga performance can last 30 minutes to over two hours. The alap (introductory exploration without rhythm) alone might take 20 to 45 minutes in Hindustani music. The performance gradually builds in tempo and complexity, reaching a climactic fast section before concluding. Concert programs typically feature two to four ragas over three to four hours."
 ---
 
-# What Is Indian Classical Music?
+# What Is Indian [Classical Music](/classical-music)?
 
 Indian classical music is one of the world's oldest and most sophisticated musical systems, with roots traceable to the Vedic hymns composed over 3,000 years ago. Built on two foundational concepts — **raga** (melodic framework) and **tala** (rhythmic cycle) — it is a tradition that values improvisation, emotional depth, and the individual musician's creative expression within strict structural boundaries.
 
@@ -58,7 +58,7 @@ Raga Yaman, for example, is an evening raga using a scale similar to the Western
 
 There are hundreds of ragas — some ancient and widely performed, others rare and known only to specialists. A musician may spend years mastering a single raga, discovering its subtleties through thousands of hours of practice and performance.
 
-## Tala — The Rhythmic Architecture
+## Tala — The Rhythmic [Architecture](/architecture)
 
 Tala is the rhythmic counterpart to raga. It defines a repeating cycle of beats, with specific points of emphasis and characteristic patterns.
 
@@ -74,7 +74,7 @@ The interplay between the melodic performer and the tabla (or mridangam in Carna
 
 **Sarod** — a fretless, plucked instrument with a metal fingerboard, allowing continuous slides between notes. It has a deeper, more introspective sound than the sitar.
 
-**Bansuri** — a bamboo flute. Despite its simplicity, master players produce music of extraordinary expressiveness. Hariprasad Chaurasia made the bansuri a prominent solo instrument.
+**Bansuri** — a bamboo [flute](/flute). Despite its simplicity, master players produce music of extraordinary expressiveness. Hariprasad Chaurasia made the bansuri a prominent solo instrument.
 
 **Veena** — the quintessential Carnatic instrument. A large, fretted string instrument with gourd resonators. It produces a warm, sustaining tone.
 
@@ -100,8 +100,8 @@ A Hindustani raga performance follows a loose but recognizable arc:
 
 Indian classical music influenced Western music dramatically in the 1960s when George Harrison studied sitar with Ravi Shankar. The Beatles' "Norwegian Wood," the Rolling Stones' "Paint It Black," and the psychedelic rock movement all drew on Indian sounds.
 
-Jazz musicians — John Coltrane, Miles Davis, Don Cherry — explored Indian rhythmic and melodic concepts. Coltrane named his son Ravi after Ravi Shankar and studied Indian music theory extensively.
+Jazz musicians — John Coltrane, Miles Davis, Don Cherry — explored Indian rhythmic and melodic concepts. Coltrane named his son Ravi after Ravi Shankar and studied Indian [music theory](/music-theory) extensively.
 
-Today, fusion projects blend Indian classical music with jazz, electronic music, and Western classical traditions. Musicians like Anoushka Shankar, Zakir Hussain, and U. Srinivas have brought Indian music to global audiences while maintaining its essential character.
+Today, fusion projects blend Indian classical music with jazz, [electronic music](/electronic-music), and Western classical traditions. Musicians like Anoushka Shankar, Zakir Hussain, and U. Srinivas have brought Indian music to global audiences while maintaining its essential character.
 
 The tradition continues through the guru-shishya system, where students study with a master for years — sometimes decades — absorbing not just technique but the philosophical and emotional depth that distinguishes competent playing from truly great musicianship.

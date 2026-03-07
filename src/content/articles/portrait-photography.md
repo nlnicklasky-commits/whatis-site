@@ -5,7 +5,7 @@ description: "Portrait photography captures people's likeness, personality, and 
 category: arts-amp-culture
 tags: ["portrait photography", "photography", "portraiture", "studio photography", "environmental portrait", "headshots"]
 heroImage: "/images/articles/portrait-photography.webp"
-heroAlt: "Photographer adjusting studio lighting for a portrait session"
+heroAlt: "Editorial photograph representing the concept of portrait photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The best portraits reveal something the subject might not even know about themse
 
 ## The Technical Foundations
 
-**Lighting** is the most important technical element. The word "photography" literally means "writing with light," and nowhere is that more evident than in portraiture.
+**Lighting** is the most important technical element. The word "photography" literally means "[writing](/writing) with light," and nowhere is that more evident than in portraiture.
 
 Natural light from a large window produces soft, flattering illumination — the kind of light that Renaissance painters obsessed over. Direct sunlight creates harsh shadows that can be dramatic but aren't typically flattering. Overcast days provide even, diffused light that's forgiving for skin.
 
@@ -57,15 +57,15 @@ Studio lighting gives complete control. The standard setup uses a main light (ke
 
 ## Types of Portrait Photography
 
-**Studio portraits** — controlled environment, artificial lighting, backgrounds ranging from seamless paper to elaborate sets. The photographer has complete control over every element. This is the domain of headshots, fashion photography, and fine art portraiture.
+**Studio portraits** — controlled environment, artificial lighting, backgrounds ranging from seamless paper to elaborate sets. The photographer has complete control over every element. This is the domain of headshots, fashion photography, and [fine art](/fine-art) portraiture.
 
-**Environmental portraits** — the subject is photographed in a meaningful location, usually their home, workplace, or community. The setting provides context and tells part of the story. Arnold Newman's portrait of Igor Stravinsky at a grand piano — with the piano's angular shape dominating the composition — is a textbook example.
+**Environmental portraits** — the subject is photographed in a meaningful location, usually their home, workplace, or community. The setting provides context and tells part of the story. Arnold Newman's portrait of Igor Stravinsky at a grand [piano](/piano) — with the piano's angular shape dominating the composition — is a textbook example.
 
 **Candid portraits** — captured without formal posing, often during events or daily life. Street photography that focuses on individuals falls into this category. The challenge is capturing a revealing moment without the subject being aware of (or disrupted by) the camera.
 
 **Self-portraits** — artists photographing themselves. Cindy Sherman built her entire career on self-portraits in which she transformed herself into different characters, commenting on gender, media, and identity. Frida Kahlo did the same thing in paint decades earlier.
 
-**Group portraits** — families, teams, corporate groups. Technically challenging because you need everyone looking good simultaneously and the lighting has to work across multiple positions. The running joke among photographers: in any group photo, the number of good expressions you can expect at once equals the total number of people minus three.
+**Group portraits** — families, teams, corporate groups. Technically challenging because you need everyone looking good simultaneously and the lighting has to work across multiple positions. The [running](/running) joke among photographers: in any group photo, the number of good expressions you can expect at once equals the total number of people minus three.
 
 ## The Human Element
 

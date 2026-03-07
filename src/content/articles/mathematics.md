@@ -5,7 +5,7 @@ description: "Mathematics is the study of numbers, patterns, structures, and log
 category: science
 tags: ["mathematics", "math", "algebra", "geometry", "calculus", "logic", "numbers"]
 heroImage: "/images/articles/mathematics-hero.webp"
-heroAlt: "Abstract geometric shapes and mathematical equations floating in space"
+heroAlt: "Editorial photograph representing the concept of mathematics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

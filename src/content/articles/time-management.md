@@ -5,7 +5,7 @@ description: "Time management is the practice of organizing and planning how you
 category: everyday-concepts
 tags: ["time management", "productivity", "organization", "planning", "prioritization", "efficiency"]
 heroImage: "/images/articles/time-management.webp"
-heroAlt: "A planner, clock, and organized desk representing time management concepts"
+heroAlt: "Editorial photograph representing the concept of time management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Time management is the process of planning and controlling how you spend your time to accomplish what matters most to you. It's the set of principles, practices, and tools that help you use your limited hours more effectively — doing more of what's important and less of what isn't.
 
-Here's the uncomfortable truth about time management: you can't actually manage time. It passes at the same rate regardless of what you do. What you can manage is yourself — your attention, your decisions, your energy, and your priorities. The phrase "time management" is really a shorthand for "self-management within the constraints of time."
+Here's the uncomfortable truth about time management: you can't actually manage time. It passes at the same rate regardless of what you do. What you can manage is yourself — your attention, your decisions, your energy, and your priorities. The phrase "time management" is really a [shorthand](/shorthand) for "self-management within the constraints of time."
 
 ## Why It Matters
 
 Everyone gets the same 168 hours per week. But some people accomplish vastly more than others — and (more importantly) some people feel vastly more in control of their lives than others. The difference usually isn't intelligence or talent. It's how they make decisions about where to direct their attention.
 
-Poor time management doesn't just reduce productivity. It increases stress, degrades work quality, damages relationships (through missed deadlines and broken commitments), and contributes to burnout. Research from the American [Psychological](/psychology) Association consistently links time management skills to lower stress and higher life satisfaction.
+Poor time management doesn't just reduce [productivity](/productivity). It increases stress, degrades work quality, damages relationships (through missed deadlines and broken commitments), and contributes to burnout. Research from the American [Psychological](/psychology) Association consistently links time management skills to lower stress and higher life satisfaction.
 
 ## Proven Techniques
 
@@ -56,7 +56,7 @@ The insight: most people spend too much time in quadrants 1 and 3 (reactive mode
 
 ### Time Blocking
 
-Scheduling specific tasks into specific time slots on your calendar, rather than keeping a loose to-do list. When you decide in advance *when* you'll work on something, you're far more likely to actually do it. Cal Newport and other productivity researchers advocate this approach strongly.
+[Scheduling](/scheduling) specific tasks into specific time slots on your calendar, rather than keeping a loose to-do list. When you decide in advance *when* you'll work on something, you're far more likely to actually do it. Cal Newport and other productivity researchers advocate this approach strongly.
 
 ### The Pomodoro Technique
 

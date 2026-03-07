@@ -5,7 +5,7 @@ description: "Historical linguistics studies how languages change over time. Lea
 category: everyday-concepts
 tags: ["historical linguistics", "linguistics", "language", "etymology", "language families"]
 heroImage: "/images/articles/historical-linguistics.webp"
-heroAlt: "Ancient manuscript text fading into modern typography showing language evolution"
+heroAlt: "Editorial photograph representing the concept of historical linguistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "This is debated. The 'monogenesis' hypothesis proposes that all human languages descend from a single ancestral language spoken in Africa 50,000 to 100,000 years ago. Many linguists are skeptical because the comparative method cannot reliably reconstruct relationships beyond about 6,000 to 10,000 years. We simply do not have enough evidence to confirm or deny a single origin."
 ---
 
-# What Is Historical Linguistics?
+# What Is Historical [Linguistics](/linguistics)?
 
 Historical linguistics is the study of how languages change over time — how sounds shift, words gain or lose meaning, grammars simplify or complicate, and entirely new languages branch off from old ones. It is the discipline that figured out English, Hindi, and Greek are distant cousins, all descended from a language spoken on the steppes of Central Asia around 4500 BCE that nobody wrote down.
 
@@ -39,11 +39,11 @@ Here is something that surprises many people: language change is not decay. It i
 
 English is a great example. Read a sentence from the year 900 — Old English — and you will not understand a single word. *"Faeder ure, thu the eart on heofonum"* is the Lord's Prayer. By 1400 (Middle English), Chaucer wrote things you can sort of puzzle out. By 1600, Shakespeare is mostly understandable but strange. And the English you speak today would sound bizarre to someone from 1900.
 
-This process happens at every level: sounds, words, grammar, and meaning. And it happens in every language, everywhere, always.
+This process happens at every level: sounds, words, [grammar](/grammar), and meaning. And it happens in every language, everywhere, always.
 
 ## How Sounds Change — Grimm's Law and Beyond
 
-In 1822, Jacob Grimm (yes, the fairy tale guy) described a pattern that blew the study of language wide open. He noticed that certain consonant sounds in Germanic languages (English, German, Dutch) systematically differed from the equivalent sounds in Latin, Greek, and Sanskrit.
+In 1822, Jacob Grimm (yes, the fairy tale guy) described a pattern that blew the study of language wide open. He noticed that certain consonant sounds in Germanic languages (English, German, Dutch) systematically differed from the equivalent sounds in Latin, Greek, and [Sanskrit](/sanskrit).
 
 Where Latin had a *p*, Germanic languages had an *f*. Latin *pater* became English *father*. Latin *piscis* (fish) corresponded to English *fish*. Latin *pes* (foot) became English *foot*. This was not random — it was a regular, predictable pattern affecting every word with those sounds.
 
@@ -63,7 +63,7 @@ The **Indo-European** family is the best-studied and most widely spoken. It incl
 - **Indo-Iranian** (Hindi, Urdu, Bengali, Farsi, Kurdish)
 - **Celtic** (Irish, Welsh, Breton, Scottish Gaelic)
 
-All of these trace back to **Proto-Indo-European** (PIE), spoken roughly 4500-2500 BCE. Nobody wrote PIE down — it predates writing in the regions where it was spoken. Yet linguists have reconstructed hundreds of PIE words, parts of its grammar, and even aspects of its speakers' culture (they had words for horse, wheel, and snow but not for palm trees or the sea, suggesting a northern inland homeland).
+All of these trace back to **Proto-Indo-European** (PIE), spoken roughly 4500-2500 BCE. Nobody wrote PIE down — it predates [writing](/writing) in the regions where it was spoken. Yet linguists have reconstructed hundreds of PIE words, parts of its grammar, and even aspects of its speakers' culture (they had words for horse, wheel, and snow but not for palm trees or the sea, suggesting a northern inland homeland).
 
 Other major families include **Sino-Tibetan** (Mandarin, Cantonese, Burmese, Tibetan), **Afro-Asiatic** (Arabic, Hebrew, Amharic, Berber), **Niger-Congo** (Swahili, Yoruba, Zulu), and **Austronesian** (Malay, Tagalog, Hawaiian, Maori).
 
@@ -82,7 +82,7 @@ This method has proven remarkably powerful. It correctly predicted the existence
 
 ## Why Languages Split
 
-Languages diverge when groups of speakers become separated — by geography, migration, politics, or social boundaries. Over centuries, each group's speech drifts in different directions. Eventually, mutual understanding breaks down, and what was one language becomes two.
+Languages diverge when groups of speakers become separated — by [geography](/geography), migration, [politics](/politics), or social boundaries. Over centuries, each group's speech drifts in different directions. Eventually, mutual understanding breaks down, and what was one language becomes two.
 
 Latin did not "turn into" French or Spanish at a specific moment. It gradually diverged in different Roman provinces, influenced by local substrates (pre-Roman languages), contact with invaders, and internal evolution. By roughly 800 CE, the spoken languages of France, Spain, Italy, and Romania were different enough that speakers could no longer easily understand each other.
 

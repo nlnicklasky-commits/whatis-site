@@ -5,7 +5,7 @@ description: "Astrophysics applies physics to understand how stars, galaxies, an
 category: science
 tags: ["astrophysics", "astronomy", "physics", "cosmology", "space", "science", "black holes"]
 heroImage: "/images/articles/astrophysics-hero.webp"
-heroAlt: "A stunning visualization of a black hole warping spacetime with an accretion disk of superheated gas"
+heroAlt: "Editorial photograph representing the concept of astrophysics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Astrophysics?
 
-Astrophysics is the branch of [astronomy](/astronomy) that applies the principles and methods of physics — including mechanics, thermodynamics, electromagnetism, nuclear and particle physics, quantum mechanics, and general relativity — to understand the nature, behavior, and evolution of celestial objects and the universe as a whole. Where astronomy asks "what's out there?", astrophysics asks "how does it work?"
+Astrophysics is the branch of [astronomy](/astronomy) that applies the principles and methods of physics — including mechanics, thermodynamics, [electromagnetism](/electromagnetism), nuclear and [particle physics](/particle-physics), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-relativity) — to understand the nature, behavior, and evolution of celestial objects and the universe as a whole. Where astronomy asks "what's out there?", astrophysics asks "how does it work?"
 
 ## Physics Meets the Cosmos
 
@@ -71,13 +71,13 @@ The equations of general relativity are notoriously difficult to solve. Exact so
 
 ### Nuclear and Particle Physics
 
-Stars are nuclear fusion reactors. Understanding stellar energy production requires nuclear physics — cross-sections for fusion reactions, the physics of plasma at extreme temperatures and pressures, and the behavior of neutrinos produced in stellar cores.
+Stars are nuclear fusion reactors. Understanding stellar energy production requires [nuclear physics](/nuclear-physics) — cross-sections for fusion reactions, the physics of plasma at extreme temperatures and pressures, and the behavior of neutrinos produced in stellar cores.
 
 Hans Bethe worked out the nuclear reactions powering the sun in 1938 — the proton-proton chain, where four hydrogen nuclei are fused step by step into one helium nucleus. The mass difference becomes energy via E = mc^2. Bethe won the Nobel Prize for this work in 1967.
 
 Heavier elements are forged in progressively hotter stellar cores (carbon requires about 600 million degrees, silicon about 3 billion) and in the cataclysmic conditions of supernovae. Elements heavier than iron — gold, platinum, uranium — are primarily produced in neutron star mergers, where neutrons bombard existing nuclei in a process called rapid neutron capture (the r-process). When LIGO detected the gravitational waves from a neutron star merger in 2017, follow-up observations confirmed the production of heavy elements — settling a decades-long debate.
 
-### Thermodynamics and Statistical Mechanics
+### Thermodynamics and [Statistical Mechanics](/statistical-mechanics)
 
 Stars are hot gas. Understanding their structure requires thermodynamics — how energy flows, how pressure supports a star against gravitational collapse, and how temperature gradients drive convection. The equations of stellar structure (mass conservation, hydrostatic equilibrium, energy transport, and energy generation) are the foundation of stellar astrophysics.
 
@@ -155,7 +155,7 @@ In 1998, two teams studying distant Type Ia supernovae independently discovered 
 
 That something is called dark energy, and it constitutes about 68% of the universe's mass-energy content. The simplest explanation is Einstein's cosmological constant — a constant energy density inherent to empty space. Einstein originally introduced it in 1917 to balance gravity and keep the universe static (which he assumed it was), then abandoned it when Hubble discovered expansion, calling it his "biggest blunder." Turns out he was right for the wrong reasons.
 
-The cosmological constant fits current observations well, but it raises deep theoretical problems. Quantum field theory predicts a vacuum energy that's about 10^120 times larger than the observed value of dark energy. This "cosmological constant problem" is sometimes called the worst prediction in physics.
+The cosmological constant fits current observations well, but it raises deep theoretical problems. [Quantum field theory](/quantum-field-theory) predicts a vacuum energy that's about 10^120 times larger than the observed value of dark energy. This "cosmological constant problem" is sometimes called the worst prediction in physics.
 
 ## Gravitational Waves: Hearing the Universe
 
@@ -187,7 +187,7 @@ Some of these questions might seem abstract — disconnected from daily life. In
 
 But astrophysics does three things that matter broadly.
 
-First, it drives technology. [Applied mathematics](/applied-mathematics), detector technology, data analysis methods, and computational techniques developed for astrophysics frequently migrate to medicine, communications, materials science, and other fields.
+First, it drives technology. [Applied mathematics](/applied-mathematics), detector technology, data analysis methods, and computational techniques developed for astrophysics frequently migrate to medicine, communications, [materials science](/materials-science), and other fields.
 
 Second, it reveals our context. We live on a thin crust of rock orbiting an ordinary star in a typical galaxy in an expanding universe that's 13.8 billion years old and 95% made of stuff we don't understand. That context — humbling, astonishing, and occasionally terrifying — shapes how we think about our place in existence.
 

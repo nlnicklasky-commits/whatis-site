@@ -5,7 +5,7 @@ description: "Tailoring is the craft of cutting and sewing fabric to create fitt
 category: everyday-concepts
 tags: ["tailoring", "fashion", "sewing", "bespoke", "garments", "craft"]
 heroImage: "/images/articles/tailoring.webp"
-heroAlt: "A tailor measuring fabric with a tape measure in a workshop"
+heroAlt: "Editorial photograph representing the concept of tailoring"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Tailoring?
 
-Tailoring is the craft of designing, cutting, and sewing fabric into fitted garments — primarily suits, jackets, trousers, coats, and other structured clothing. A tailor takes flat fabric and transforms it into a three-dimensional garment that follows the contours of the human body.
+Tailoring is the craft of designing, cutting, and [sewing](/sewing) fabric into fitted garments — primarily suits, jackets, trousers, coats, and other structured clothing. A tailor takes flat fabric and transforms it into a three-dimensional garment that follows the contours of the human body.
 
-It's one of those crafts where the better it's done, the less you notice. A well-tailored suit doesn't draw attention to its construction — it just makes the wearer look good. The shoulder sits cleanly, the lapel rolls naturally, the jacket follows the body's lines without pulling or bunching. That effortless appearance takes enormous skill to achieve.
+It's one of those crafts where the better it's done, the less you notice. A well-tailored suit doesn't draw attention to its [construction](/construction) — it just makes the wearer look good. The shoulder sits cleanly, the lapel rolls naturally, the jacket follows the body's lines without pulling or bunching. That effortless appearance takes enormous skill to achieve.
 
 ## How Tailoring Works
 
@@ -72,11 +72,11 @@ In bespoke tailoring, the garment is assembled with temporary stitching and trie
 
 ## The History
 
-Tailoring as a distinct trade emerged in Europe during the Middle Ages. Before that, most [clothing](/fashion-history) was draped rather than cut to fit. The development of tailored garments — with shaped seams, set-in sleeves, and buttons — represented a major shift in how people dressed.
+Tailoring as a distinct [trade](/trade) emerged in Europe during the Middle Ages. Before that, most [clothing](/fashion-history) was draped rather than cut to fit. The development of tailored garments — with shaped seams, set-in sleeves, and buttons — represented a major shift in how people dressed.
 
 By the 17th and 18th centuries, tailoring guilds regulated the trade, and wealthy Europeans expected custom-made clothing. London's Savile Row became the center of men's tailoring in the early 1800s and retains that reputation today.
 
-The industrial revolution brought ready-made clothing, and the invention of the sewing machine (1846) democratized garment production. But bespoke tailoring survived as a luxury service, and alterations tailoring became a standard service in most communities.
+The industrial revolution brought ready-made clothing, and the [invention](/invention) of the sewing machine (1846) democratized garment production. But bespoke tailoring survived as a luxury service, and alterations tailoring became a standard service in most communities.
 
 ## Tailoring Today
 

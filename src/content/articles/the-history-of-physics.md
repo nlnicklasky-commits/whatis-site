@@ -5,7 +5,7 @@ description: "The history of physics traces how humans came to understand the fu
 category: everyday-concepts
 tags: ["the history of physics", "physics", "science history", "Newton", "Einstein", "quantum mechanics"]
 heroImage: "/images/articles/the-history-of-physics.webp"
-heroAlt: "A timeline montage showing Newton's prism, Einstein's equations, and a particle accelerator"
+heroAlt: "Editorial photograph representing the concept of the history of physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is The History of Physics?
 
-The history of physics is the story of how human beings gradually figured out the fundamental rules governing the universe — from the movements of planets to the behavior of subatomic particles. It's a story that spans over 2,500 years, involves some of the most brilliant minds in history, and has reshaped civilization more profoundly than any political revolution.
+The history of physics is the story of how human beings gradually figured out the fundamental rules governing the universe — from the movements of planets to the behavior of [subatomic particles](/subatomic-particles). It's a story that spans over 2,500 years, involves some of the most brilliant minds in history, and has reshaped civilization more profoundly than any political revolution.
 
 The short version: ancient Greeks asked the questions. Medieval scholars preserved them. The Scientific Revolution answered some. And the 20th century demolished the comfortable answers and replaced them with something far stranger.
 
 ## The Ancient Foundations
 
-The Greeks were the first to attempt systematic explanations of the physical world without resorting to mythology. Thales of Miletus (c. 624-546 BC) proposed that all matter derived from water — wrong about the answer, right about the approach. Democritus (c. 460-370 BC) proposed that matter consisted of indivisible particles called *atomos*. He was remarkably close.
+The Greeks were the first to attempt systematic explanations of the physical world without resorting to [mythology](/mythology). Thales of Miletus (c. 624-546 BC) proposed that all matter derived from water — wrong about the answer, right about the approach. Democritus (c. 460-370 BC) proposed that matter consisted of indivisible particles called *atomos*. He was remarkably close.
 
 Aristotle (384-322 BC) dominated [physics](/physics) for nearly 2,000 years. His framework — based on observation but without experimentation — included the ideas that heavy objects fall faster than light ones, that the Earth is the center of the universe, and that objects in motion naturally come to rest. All wrong. But his systematic approach to categorizing natural phenomena was genuinely influential.
 
@@ -53,7 +53,7 @@ This is where physics as we know it began.
 
 **Kepler** (1571-1630) discovered that planets orbit in ellipses, not circles — and his three laws of planetary motion provided the precise mathematical description that Newton would later explain.
 
-**Newton** (1643-1727) unified everything. His *Principia Mathematica* (1687) presented the three laws of motion and the universal law of gravitation — explaining everything from falling apples to planetary orbits with a single mathematical framework. He also invented calculus (simultaneously with Leibniz) and made foundational contributions to optics.
+**Newton** (1643-1727) unified everything. His *Principia Mathematica* (1687) presented the three laws of motion and the universal law of gravitation — explaining everything from falling apples to planetary orbits with a single mathematical framework. He also invented [calculus](/calculus) (simultaneously with Leibniz) and made foundational contributions to [optics](/optics).
 
 Newton's physics worked so well that it dominated for over 200 years. For two centuries, physics was essentially "figure out where Newton's equations apply next."
 
@@ -81,7 +81,7 @@ Quantum mechanics and general relativity are the two pillars of modern physics. 
 
 ### The Standard Model
 
-By the 1970s, physicists had developed the Standard Model of particle physics — a quantum field theory that describes 17 fundamental particles and three of the four fundamental forces (electromagnetism, strong nuclear, weak nuclear). The Higgs boson, predicted in 1964, was confirmed in 2012 at CERN's Large Hadron Collider.
+By the 1970s, physicists had developed the Standard Model of [particle physics](/particle-physics) — a [quantum field theory](/quantum-field-theory) that describes 17 fundamental particles and three of the four fundamental forces (electromagnetism, strong nuclear, weak nuclear). The Higgs boson, predicted in 1964, was confirmed in 2012 at CERN's Large Hadron Collider.
 
 The Standard Model is staggeringly successful. It's also clearly incomplete — it doesn't include gravity, doesn't explain dark matter or dark energy, and has about 20 free parameters that must be measured experimentally rather than derived from theory.
 

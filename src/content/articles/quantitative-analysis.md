@@ -5,7 +5,7 @@ description: "Quantitative analysis uses mathematical models and statistical met
 category: science
 tags: ["quantitative analysis", "statistics", "data analysis", "research methods", "mathematics", "measurement"]
 heroImage: "/images/articles/quantitative-analysis-hero.webp"
-heroAlt: "Data charts, statistical graphs, and mathematical formulas on a digital display"
+heroAlt: "Editorial photograph representing the concept of quantitative analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -46,7 +46,7 @@ Raw numbers don't tell you much. Knowing that 47% of patients improved on Drug A
 Three elements define quantitative analysis:
 
 1. **Measurement**: Converting observations into numerical values using defined scales and instruments.
-2. **Mathematical/statistical modeling**: Applying formal techniques to identify patterns, relationships, and trends in the numbers.
+2. **Mathematical/[statistical modeling](/statistical-modeling)**: Applying formal techniques to identify patterns, relationships, and trends in the numbers.
 3. **Inference**: Drawing conclusions about populations, predictions, or causal relationships based on sample data.
 
 ## The Foundations
@@ -107,7 +107,7 @@ Quantitative analysis in finance—"quant" analysis—uses mathematical models t
 
 [Economics](/economics) is intensely quantitative. [Econometrics](/econometrics)—the application of statistical methods to economic data—uses regression, time series analysis, instrumental variables, and natural experiments to estimate causal effects.
 
-Political science uses quantitative methods to study voting behavior, policy impacts, and political institutions. Survey methodology, experimental design, and panel data analysis are core techniques.
+[Political science](/political-science) uses quantitative methods to study voting behavior, policy impacts, and political institutions. Survey methodology, experimental design, and panel data analysis are core techniques.
 
 [Psychology](/psychology) has been quantitative since its founding, using experiments, surveys, and psychometric tests to measure behavior and mental processes. The field's ongoing methodological reform—larger samples, pre-registration, open data—is reshaping how quantitative analysis is practiced.
 
@@ -129,7 +129,7 @@ Classical statistics remains foundational, but newer approaches expand the toolk
 
 ### Bayesian Analysis
 
-Bayesian statistics treats probability as a measure of belief, updated by evidence. You start with a prior distribution (what you believed before seeing data), observe data, and compute a posterior distribution (what you believe after seeing data). Bayes' theorem provides the mathematics.
+[Bayesian statistics](/bayesian-statistics) treats probability as a measure of belief, updated by evidence. You start with a prior distribution (what you believed before seeing data), observe data, and compute a posterior distribution (what you believe after seeing data). Bayes' theorem provides the mathematics.
 
 The Bayesian approach has several advantages: it naturally incorporates prior knowledge, it provides direct probability statements about parameters ("there's a 95% probability the treatment effect is between 3 and 7 points"), and it handles small samples more gracefully than frequentist methods.
 

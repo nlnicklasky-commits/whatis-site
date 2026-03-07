@@ -5,7 +5,7 @@ description: "Roman mythology is the collection of myths, gods, and legends from
 category: history
 tags: ["roman gods", "roman legends", "ancient rome", "mythology"]
 heroImage: "/images/articles/roman-mythology.webp"
-heroAlt: "Ancient Roman temple with marble statues of gods under a dramatic sky"
+heroAlt: "Editorial photograph representing the concept of roman mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
     a: "Roman mythology declined gradually as Christianity spread through the Empire during the 3rd and 4th centuries CE. Emperor Theodosius I banned pagan worship in 391 CE. However, Roman myths survived through literature and were enthusiastically revived during the Renaissance."
 ---
 
-Roman mythology is the body of myths, legends, and religious beliefs from ancient Rome — stories about gods, heroes, and the founding of civilization that shaped Roman identity for over a thousand years. These aren't just quaint old tales. They influenced art, literature, law, politics, and even the calendar you use today.
+Roman [mythology](/mythology) is the body of myths, [legends](/legends), and religious beliefs from ancient Rome — stories about gods, heroes, and the founding of civilization that shaped Roman identity for over a thousand years. These aren't just quaint old tales. They influenced art, [literature](/literature), law, [politics](/politics), and even the calendar you use today.
 
 If you know the days of the week or the planets in our solar system, you already know Roman mythology. Saturday? Named for Saturn. Mars, Venus, Jupiter, Mercury? All Roman gods. January comes from Janus, the two-faced god of doorways and beginnings. Roman mythology is baked into Western culture so deeply that most people don't even notice it.
 
 ## Where Roman Mythology Came From
 
-Here's something that surprises most people: early Roman religion didn't really have mythology. Not in the way we think of it.
+Here's something that surprises most people: early Roman [religion](/religion) didn't really have mythology. Not in the way we think of it.
 
 The earliest Romans — we're talking 8th century BCE and before — worshipped *numina*, vague divine forces or spirits associated with specific places, activities, and natural phenomena. There was a spirit for the first plowing. A spirit for the granary door. A spirit for the threshold of your house. These weren't personified beings with soap-opera love lives. They were powers you needed to keep happy through precise ritual.
 
@@ -55,7 +55,7 @@ The Romans organized their gods like they organized everything else: systematica
 
 **Juno** (Hera) — Queen of the gods, protector of women, marriage, and childbirth. Juno was fierce, proud, and not someone you wanted angry at you. In Virgil's *Aeneid*, she's the main antagonist, relentlessly persecuting Aeneas because she favors Carthage over the future Rome.
 
-**Mars** (Ares) — God of war, but also of agriculture and spring. This is where Roman mythology diverges sharply from Greek. The Greeks portrayed Ares as brutal and unpopular — even the other gods disliked him. The Romans? They adored Mars. He was second only to Jupiter in importance. He was the father of Romulus and Remus, making him the ancestral father of Rome itself. War wasn't something Romans apologized for. It was their defining activity, blessed by their favorite god.
+**Mars** (Ares) — God of war, but also of [agriculture](/agriculture) and spring. This is where Roman mythology diverges sharply from Greek. The Greeks portrayed Ares as brutal and unpopular — even the other gods disliked him. The Romans? They adored Mars. He was second only to Jupiter in importance. He was the father of Romulus and Remus, making him the ancestral father of Rome itself. War wasn't something Romans apologized for. It was their defining activity, blessed by their favorite god.
 
 **Venus** (Aphrodite) — Goddess of love, beauty, and fertility. The Julian family — including Julius Caesar and Augustus — claimed direct descent from Venus through her son Aeneas. When your family tree includes the goddess of love, that's useful political branding.
 
@@ -65,7 +65,7 @@ The Romans organized their gods like they organized everything else: systematica
 
 **Mercury** (Hermes) — God of commerce, communication, travelers, and thieves. His name comes from *merx* (merchandise), which tells you what the Romans cared about most.
 
-Other important deities included **Apollo** (who kept his Greek name — the Romans thought he was fine as-is), **Diana** (Artemis, goddess of the hunt and moon), **Vulcan** (Hephaestus, god of fire and metalworking), **Ceres** (Demeter, goddess of grain — our word "cereal" comes from her), and **Bacchus** (Dionysus, god of wine).
+Other important deities included **Apollo** (who kept his Greek name — the Romans thought he was fine as-is), **Diana** (Artemis, goddess of the hunt and moon), **Vulcan** (Hephaestus, god of fire and [metalworking](/metalworking)), **Ceres** (Demeter, goddess of grain — our word "cereal" comes from her), and **Bacchus** (Dionysus, god of wine).
 
 ## The Founding Myths — How Rome Explained Itself
 
@@ -103,7 +103,7 @@ Roman mythology wasn't something you studied in school and forgot about. It satu
 
 **The Lupercalia** (February) involved young men running through the streets striking women with leather thongs for fertility blessings. It was rowdy enough that it persisted into the Christian era — Pope Gelasius I finally suppressed it in 494 CE, possibly replacing it with Saint Valentine's Day.
 
-**Augury and divination** were official state functions. Before any major military or political decision, priests called **augurs** read signs from the gods — patterns of bird flight, the condition of animal entrails, unusual natural events. The Roman Senate wouldn't declare war, hold elections, or begin major construction without favorable signs.
+**Augury and divination** were official state functions. Before any major military or political decision, priests called **augurs** read signs from the gods — patterns of bird flight, the condition of animal entrails, unusual natural events. The Roman Senate wouldn't declare war, hold elections, or begin major [construction](/construction) without favorable signs.
 
 This system — called the **pax deorum** (peace of the gods) — rested on a transactional model. Romans performed their rituals correctly; the gods protected Rome. When disasters happened, the first question was always: "What ritual did we get wrong?"
 
@@ -113,7 +113,7 @@ The influence is almost impossible to overstate, though I'll try to be specific.
 
 **Literature.** Virgil's *Aeneid*, Ovid's *Metamorphoses*, and Livy's histories preserved Roman myths and transmitted them to the medieval and Renaissance world. When Dante wrote the *Divine Comedy*, he made Virgil his guide through Hell. When Shakespeare needed plots, he turned to Ovid and Plutarch's Roman stories. Milton, Keats, Shelley — the entire Western literary canon is soaked in Roman mythology.
 
-**Art and architecture.** The Renaissance was, in large part, a rediscovery of Roman (and Greek) mythology. Botticelli's *Birth of Venus*, Michelangelo's Sistine Chapel, Bernini's sculptures — these works brought Roman gods back to visual culture. Neoclassical architecture (think the U.S. Capitol building) deliberately imitates Roman temples.
+**Art and [architecture](/architecture).** The Renaissance was, in large part, a rediscovery of Roman (and Greek) mythology. Botticelli's *Birth of Venus*, Michelangelo's Sistine Chapel, Bernini's sculptures — these works brought Roman gods back to visual culture. Neoclassical architecture (think the U.S. Capitol building) deliberately imitates Roman temples.
 
 **Language.** Beyond the calendar and planets, Roman mythology gave English words like "martial" (Mars), "venereal" (Venus), "jovial" (Jupiter/Jove), "mercurial" (Mercury), "cereal" (Ceres), "volcano" (Vulcan), and "fury" (the Furies). The word "fortune" comes from the goddess Fortuna.
 
@@ -121,7 +121,7 @@ The influence is almost impossible to overstate, though I'll try to be specific.
 
 ## The End — and the Afterlife
 
-Roman mythology didn't die suddenly. Christianity spread gradually through the Empire during the 1st through 4th centuries CE, initially coexisting with traditional religion. Emperor Constantine legalized Christianity in 313 CE. Emperor Theodosius I prohibited pagan worship in 391 CE.
+Roman mythology didn't die suddenly. [Christianity](/christianity) spread gradually through the Empire during the 1st through 4th centuries CE, initially coexisting with traditional religion. Emperor Constantine legalized Christianity in 313 CE. Emperor Theodosius I prohibited pagan worship in 391 CE.
 
 But myths don't obey imperial edicts. Roman mythology survived through literature, was preserved by medieval monks copying classical texts, and roared back during the Renaissance. Artists, writers, and thinkers treated Roman myths as a shared cultural vocabulary — a way to talk about love, power, duty, and fate that transcended any single religious tradition.
 

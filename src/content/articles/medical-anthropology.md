@@ -5,7 +5,7 @@ description: "Medical anthropology studies how culture, society, and politics sh
 category: health-amp-wellness
 tags: ["anthropology", "medical anthropology", "health"]
 heroImage: "/images/articles/medical-anthropology.webp"
-heroAlt: "A researcher interviewing a traditional healer in a community health setting"
+heroAlt: "Editorial photograph representing the concept of medical anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Medical Anthropology?
 
-Medical anthropology is the study of how human health, illness, and healing are shaped by culture, social structures, and political forces. It sits at the intersection of [anthropology](/anthropology) and medicine, asking questions that neither field tackles well on its own: Why do some diseases devastate certain communities while barely touching others with identical biology? Why do people in one culture seek antibiotics for the same symptoms that people in another culture treat with herbal remedies, prayer, or acupuncture? Why do expensive public health campaigns sometimes fail completely?
+Medical anthropology is the study of how human health, illness, and healing are shaped by culture, social structures, and political forces. It sits at the intersection of [anthropology](/anthropology) and medicine, asking questions that neither field tackles well on its own: Why do some diseases devastate certain communities while barely touching others with identical [biology](/biology)? Why do people in one culture seek antibiotics for the same symptoms that people in another culture treat with herbal remedies, prayer, or [acupuncture](/acupuncture)? Why do expensive [public health](/public-health) campaigns sometimes fail completely?
 
 The short answer to all of these: because health is never just biological. It's always tangled up with how people live, what they believe, who has power, and how resources are distributed. Medical anthropology unpacks those tangles.
 
@@ -63,17 +63,17 @@ This distinction matters practically, not just philosophically. When doctors foc
 
 Here's where medical anthropology gets genuinely interesting — and sometimes uncomfortable for people trained in Western biomedicine. The field treats all medical systems, including biomedicine, as cultural products shaped by their historical and social contexts.
 
-This doesn't mean all medical systems are equally effective at, say, removing a tumor. Biomedicine has extraordinary power to intervene in specific pathological processes. But biomedicine also has blind spots — particularly around chronic illness, mental health, the social determinants of disease, and the patient experience.
+This doesn't mean all medical systems are equally effective at, say, removing a tumor. Biomedicine has extraordinary power to intervene in specific pathological processes. But biomedicine also has blind spots — particularly around chronic illness, [mental health](/mental-health), the social determinants of disease, and the patient experience.
 
-### Traditional Chinese Medicine
+### [Traditional Chinese Medicine](/traditional-chinese-medicine)
 
-TCM operates from a framework of qi (vital energy), yin and yang (opposing forces that must be balanced), and meridians (energy pathways through the body). Illness results from imbalances or blockages in these systems. Treatments include acupuncture, herbal medicine, dietary therapy, and exercises like tai chi.
+TCM operates from a framework of qi (vital energy), yin and yang (opposing forces that must be balanced), and meridians (energy pathways through the body). Illness results from imbalances or blockages in these systems. Treatments include acupuncture, [herbal medicine](/herbal-medicine), dietary therapy, and exercises like tai chi.
 
-From a biomedical perspective, much of this framework doesn't correspond to known anatomy or physiology. But acupuncture has demonstrated measurable effects on pain in numerous clinical trials, and many TCM herbal remedies contain pharmacologically active compounds. Artemisinin — the most effective malaria drug in existence — was isolated from a traditional Chinese herbal remedy by pharmacologist Tu Youyou, who won the Nobel Prize for it in 2015.
+From a biomedical perspective, much of this framework doesn't correspond to known [anatomy](/anatomy) or [physiology](/physiology). But acupuncture has demonstrated measurable effects on pain in numerous clinical trials, and many TCM herbal remedies contain pharmacologically active compounds. Artemisinin — the most effective malaria drug in existence — was isolated from a traditional Chinese herbal remedy by pharmacologist Tu Youyou, who won the Nobel Prize for it in 2015.
 
 ### Ayurveda
 
-India's traditional medical system classifies people by constitutional type (*dosha*) and prescribes treatments — diet, herbs, massage, yoga, meditation — to maintain balance. Ayurvedic practitioners treat the whole person, not a specific disease, and emphasize prevention over cure.
+India's traditional medical system classifies people by constitutional type (*dosha*) and prescribes treatments — diet, herbs, massage, yoga, [meditation](/meditation) — to maintain balance. Ayurvedic practitioners treat the whole person, not a specific disease, and emphasize prevention over cure.
 
 Some Ayurvedic practices align well with modern evidence (yoga for stress, turmeric's anti-inflammatory properties). Others involve preparations that have raised safety concerns, including some that contain detectable levels of heavy metals. Medical anthropology doesn't whitewash these problems — it tries to understand how and why people choose these systems, and what the consequences are.
 

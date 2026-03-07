@@ -5,7 +5,7 @@ description: "Endocrinology is the medical field focused on hormones and the gla
 category: health-amp-wellness
 tags: ["endocrinology", "hormones", "endocrine system", "metabolism", "diabetes"]
 heroImage: "/images/articles/endocrinology.webp"
-heroAlt: "Illustration of the human endocrine system showing major hormone-producing glands"
+heroAlt: "Editorial photograph representing the concept of endocrinology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -107,7 +107,7 @@ The long-term complications are serious: cardiovascular disease, kidney damage, 
 
 Hypothyroidism (underactive thyroid) affects about 5% of Americans over age 12. Hashimoto's thyroiditis, an autoimmune condition, is the most common cause. Hyperthyroidism is less common, with Graves' disease being the usual culprit.
 
-Both conditions are highly treatable. Hypothyroidism typically requires daily thyroid hormone replacement — a single pill. Hyperthyroidism can be managed with medications, radioactive iodine, or surgery.
+Both conditions are highly treatable. Hypothyroidism typically requires daily thyroid hormone replacement — a single pill. Hyperthyroidism can be managed with medications, radioactive iodine, or [surgery](/surgery).
 
 ### Adrenal Disorders
 
@@ -123,7 +123,7 @@ Endocrinology as a formal field is surprisingly young. The word "hormone" wasn't
 
 The real breakthrough came in 1921, when Frederick Banting and Charles Best isolated insulin from dog pancreases in a Toronto laboratory. Before insulin therapy, a diagnosis of type 1 diabetes was essentially a death sentence. Within months of receiving insulin injections, children who had been wasting away were gaining weight and returning to normal life. It was one of the most dramatic medical advances of the 20th century.
 
-Banting received the Nobel Prize in 1923 — just two years after the discovery. He remains the youngest Nobel laureate in Physiology or Medicine, winning at age 32.
+Banting received the Nobel Prize in 1923 — just two years after the discovery. He remains the youngest Nobel laureate in [Physiology](/physiology) or Medicine, winning at age 32.
 
 ## Modern Endocrinology
 
@@ -131,7 +131,7 @@ Today's endocrinologists use blood tests to measure hormone levels with extraord
 
 Treatment has advanced significantly too. Synthetic hormones can replace what the body can't produce. Continuous glucose monitors and insulin pumps give people with diabetes real-time feedback and automated insulin delivery — something that would have seemed like [science fiction](/algorithms) just 30 years ago.
 
-Gene therapy and targeted molecular treatments are on the horizon, promising even more precise interventions. Researchers are also investigating the connections between [hormones and the microbiome](/biology), mental health, and aging — links that earlier generations of scientists barely suspected existed.
+Gene therapy and targeted molecular treatments are on the horizon, promising even more precise interventions. Researchers are also investigating the connections between [hormones and the microbiome](/biology), [mental health](/mental-health), and aging — links that earlier generations of scientists barely suspected existed.
 
 ## Why Endocrinology Matters to You
 
@@ -139,4 +139,4 @@ Even if you never see an endocrinologist, your endocrine system shapes your dail
 
 Understanding the basics of how this system works gives you a real advantage. When your doctor orders a thyroid panel or checks your fasting glucose, you'll know what those numbers mean. When someone tells you that stress is "all in your head," you'll know that's biologically inaccurate — cortisol is very real, very measurable, and very physical.
 
-The endocrine system is, in many ways, the body's operating system running quietly in the background. You don't notice it when everything's working. But when something goes wrong, the effects ripple through almost every aspect of your [health](/anatomy).
+The endocrine system is, in many ways, the body's operating system [running](/running) quietly in the background. You don't notice it when everything's working. But when something goes wrong, the effects ripple through almost every aspect of your [health](/anatomy).

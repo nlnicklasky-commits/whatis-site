@@ -5,7 +5,7 @@ description: "Haiku is a Japanese poetry form using 5-7-5 syllables to capture a
 category: arts-amp-culture
 tags: ["haiku", "poetry", "japanese poetry", "literature", "nature", "verse"]
 heroImage: "/images/articles/haiku.webp"
-heroAlt: "Japanese calligraphy brush and ink with a haiku written on rice paper"
+heroAlt: "Editorial photograph representing the concept of haiku"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Haiku?
 
-Haiku is a form of Japanese poetry that captures a single moment — usually involving nature — in three short lines. In English, the standard teaching is 5 syllables, then 7, then 5 (17 total). In Japanese, it's actually 5-7-5 sound units called *on*, which are shorter than English syllables, but the principle is the same: say something meaningful in the smallest possible space. A good haiku makes you see something you've seen a thousand times as if for the first time. A great haiku does it in fewer than 20 words.
+Haiku is a form of Japanese [poetry](/poetry) that captures a single moment — usually involving nature — in three short lines. In English, the standard [teaching](/teaching) is 5 syllables, then 7, then 5 (17 total). In Japanese, it's actually 5-7-5 sound units called *on*, which are shorter than English syllables, but the principle is the same: say something meaningful in the smallest possible space. A good haiku makes you see something you've seen a thousand times as if for the first time. A great haiku does it in fewer than 20 words.
 
 ## The Elements
 
@@ -45,7 +45,7 @@ Traditional haiku has three defining characteristics beyond its brevity.
 
 ## The Masters
 
-**Matsuo Basho** (1644-1694) is considered the greatest haiku poet. He elevated what had been a playful, social verse form into serious literature. His most famous haiku:
+**Matsuo Basho** (1644-1694) is considered the greatest haiku poet. He elevated what had been a playful, social verse form into serious [literature](/literature). His most famous haiku:
 
 *Furu ike ya / kawazu tobikomu / mizu no oto*
 
@@ -71,9 +71,9 @@ The 5-7-5 rule was the first thing taught and the first thing debated. Japanese 
 
 The Haiku Society of America defines haiku without specifying syllable count: "a short poem that uses imagistic language to convey the essence of an experience of nature or the season intuitively linked to the human condition."
 
-The debate between "5-7-5 is the rule" and "spirit over syllable count" continues. For beginners, 5-7-5 provides useful constraint. For experienced poets, the constraint can become a cage — forcing unnecessary words to fill the count.
+The [debate](/debate) between "5-7-5 is the rule" and "spirit over syllable count" continues. For beginners, 5-7-5 provides useful constraint. For experienced poets, the constraint can become a cage — forcing unnecessary words to fill the count.
 
-## Writing Haiku
+## [Writing](/writing) Haiku
 
 Here's what most guides miss about writing haiku: the hard part isn't the syllable count. The hard part is paying attention.
 

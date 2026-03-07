@@ -5,7 +5,7 @@ description: "Judo is a Japanese martial art focused on throws and grappling, no
 category: sports
 tags: ["judo", "sports", "martial arts", "Olympic sport", "grappling", "self-defense"]
 heroImage: "/images/articles/judo.webp"
-heroAlt: "Two judo athletes in white gis mid-throw on a competition mat"
+heroAlt: "Editorial photograph representing the concept of judo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Kano was a small man — about 5'2" and 90 pounds as a young student — who stu
 
 The core principle is **maximum efficiency, minimum effort** (*seiryoku zenyo*). Use your opponent's force and momentum against them. A well-timed hip throw uses the attacker's forward motion to send them airborne — the defender provides direction, not power.
 
-The second principle is **mutual welfare and benefit** (*jita kyoei*). Judo is meant to develop the whole person — physical fitness, mental discipline, and moral character. Kano saw judo as education, not just combat.
+The second principle is **mutual welfare and benefit** (*jita kyoei*). Judo is meant to develop the whole person — physical [fitness](/fitness), mental discipline, and moral character. Kano saw judo as [education](/education), not just combat.
 
 ## How It Works
 
@@ -62,7 +62,7 @@ Matches are divided by weight class (seven for men, seven for women). Judo has b
 
 ## Belt System
 
-Judo uses the colored belt ranking system (*kyu/dan*) that most martial arts adopted:
+Judo uses the colored belt ranking system (*kyu/dan*) that most [martial arts](/martial-arts) adopted:
 
 Beginners start at white belt and progress through yellow, orange, green, blue, and brown before reaching black belt (first *dan*). Black belt itself has ten degrees — from *shodan* (first degree) to *judan* (tenth degree, held by only a handful of people in history).
 
@@ -72,10 +72,10 @@ Promotion through colored belts requires both technical knowledge and competitiv
 
 Judo is practiced in over 200 countries with an estimated 40 million practitioners worldwide. It is the most widely practiced martial art in the world (when measured by international federation membership) and is popular across all continents.
 
-France has more judo practitioners per capita than Japan — roughly 600,000 registered judoka compared to Japan's 160,000. Judo is part of the French school physical education curriculum. Brazil, Germany, Russia, and South Korea also have strong traditions.
+France has more judo practitioners per capita than Japan — roughly 600,000 registered judoka compared to Japan's 160,000. Judo is part of the French school [physical education](/physical-education) curriculum. Brazil, Germany, Russia, and South Korea also have strong traditions.
 
 ## Why People Train
 
-Judo offers practical self-defense (throwing someone who grabs you is highly effective), excellent physical conditioning (the sport builds grip strength, core stability, and cardiovascular fitness), and mental discipline. The culture of respect — bowing to partners, following dojo etiquette, helping newer students — creates a structured, supportive training environment.
+Judo offers practical [self-defense](/self-defense) (throwing someone who grabs you is highly effective), excellent physical conditioning (the sport builds grip strength, core stability, and cardiovascular fitness), and mental discipline. The culture of respect — bowing to partners, following dojo etiquette, helping newer students — creates a structured, supportive training environment.
 
 For parents considering martial arts for children, judo is one of the safest options. The emphasis on falling safely means injuries are less common than in striking arts, and the no-striking rule removes the most concerning elements of combat training for young practitioners.

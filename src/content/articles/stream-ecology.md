@@ -5,7 +5,7 @@ description: "Stream ecology is the study of organisms in flowing freshwater sys
 category: science
 tags: ["ecology", "stream ecology", "freshwater", "aquatic biology", "hydrology", "conservation"]
 heroImage: "/images/articles/stream-ecology.webp"
-heroAlt: "A clear mountain stream flowing over rocks with aquatic plants and fish visible beneath the surface"
+heroAlt: "Editorial photograph representing the concept of stream ecology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Stream Ecology?
 
-Stream ecology is the scientific study of the organisms that live in flowing freshwater environments — streams, creeks, brooks, and rivers — and how those organisms interact with each other and with their physical surroundings. It's a field that sits at the intersection of [biology](/biology), hydrology, [chemistry](/chemistry), and geology, because understanding a stream requires understanding all of these simultaneously.
+Stream ecology is the scientific study of the organisms that live in flowing freshwater environments — streams, creeks, brooks, and rivers — and how those organisms interact with each other and with their physical surroundings. It's a field that sits at the intersection of [biology](/biology), [hydrology](/hydrology), [chemistry](/chemistry), and geology, because understanding a stream requires understanding all of these simultaneously.
 
 ## Why Streams Are Special
 
@@ -65,7 +65,7 @@ This creates a mosaic of microhabitats. A single stream reach might have riffles
 
 What the stream bed is made of matters enormously. Bedrock, boulders, cobble, gravel, sand, silt — each provides different habitat for different organisms. Gravel is critical for salmon spawning. Cobble provides stable surfaces for algae and macroinvertebrate attachment. Sandy bottoms support burrowing organisms but offer few stable attachment points.
 
-The substrate also stores organic matter. The spaces between gravel particles — called the hyporheic zone — are a hidden world where surface water and groundwater mix, bacteria process nutrients, and tiny invertebrates thrive. This zone can extend meters below and beside the visible stream channel, and its microbial activity is a major driver of nutrient cycling.
+The substrate also stores organic matter. The spaces between gravel particles — called the hyporheic zone — are a hidden world where surface water and groundwater mix, bacteria process nutrients, and tiny invertebrates thrive. This zone can extend meters below and beside the visible stream channel, and its microbial activity is a major driver of nutrient [cycling](/cycling).
 
 ### Temperature
 
@@ -77,7 +77,7 @@ Shade from riparian trees is the primary temperature regulator in small streams.
 
 Dissolved oxygen, pH, nutrients (nitrogen and phosphorus), and dissolved organic carbon are the key chemical variables. Clean headwater streams are typically well-oxygenated, slightly acidic, and nutrient-poor. Downstream reaches tend to have warmer temperatures, more nutrients (from agricultural and urban runoff), and sometimes lower oxygen levels.
 
-The concentration of nutrients is a double-edged sword. Too few, and biological productivity is limited. Too many — a condition called eutrophication — and algal blooms can choke the stream, depleting oxygen when the algae die and decompose. This is one of the most common water quality problems worldwide, driven largely by [agricultural](/agriculture) fertilizer runoff.
+The concentration of nutrients is a double-edged sword. Too few, and biological [productivity](/productivity) is limited. Too many — a condition called eutrophication — and algal blooms can choke the stream, depleting oxygen when the algae die and decompose. This is one of the most common water quality problems worldwide, driven largely by [agricultural](/agriculture) fertilizer runoff.
 
 ## The River Continuum Concept
 
@@ -165,7 +165,7 @@ The science and practice of stream restoration has grown rapidly, driven by grow
 
 **Dam removal** is increasingly common. Over 2,000 dams have been removed in the United States since the 1990s. The results can be dramatic — after the removal of two dams on Washington's Elwha River in 2011-2014, salmon returned to over 70 miles of previously blocked habitat within a few years, and downstream sediment delivery began rebuilding the river's estuary.
 
-**Natural channel design** involves reshaping straightened or degraded channels to restore natural meander patterns, riffle-pool sequences, and floodplain connectivity. This approach draws on geomorphology — the study of how flowing water shapes landscapes — to create self-sustaining channel forms.
+**Natural channel design** involves reshaping straightened or degraded channels to restore natural meander patterns, riffle-pool sequences, and floodplain connectivity. This approach draws on [geomorphology](/geomorphology) — the study of how flowing water shapes landscapes — to create self-sustaining channel forms.
 
 **Large woody debris** (fallen trees and logs) is deliberately placed in streams to create pools, deflect flow, trap sediment, and provide cover for fish. This mimics the natural role of wood in forested streams, where fallen trees are among the most important habitat features.
 
@@ -173,11 +173,11 @@ The science and practice of stream restoration has grown rapidly, driven by grow
 
 Here's the uncomfortable truth about stream restoration: most projects focus on individual stream reaches — a few hundred meters of channel. But the stressors come from the entire watershed. Restoring a reach while the surrounding land continues to send excess sediment, nutrients, and stormwater into the stream is addressing symptoms, not causes.
 
-Effective restoration increasingly focuses on the watershed scale — reducing [agricultural](/agriculture) runoff through buffer strips and best management practices, implementing stormwater management in urban areas, and protecting intact stream habitats from degradation in the first place. Prevention is cheaper and more effective than restoration, but it's also harder to fund and politically more difficult.
+Effective restoration increasingly focuses on the watershed scale — reducing [agricultural](/agriculture) runoff through buffer strips and best [management](/management) practices, implementing stormwater management in urban areas, and protecting intact stream habitats from degradation in the first place. Prevention is cheaper and more effective than restoration, but it's also harder to fund and politically more difficult.
 
 ## Why Stream Ecology Matters
 
-Half of the world's population lives within 3 kilometers of a surface freshwater body. Streams and rivers provide drinking water, irrigation, fisheries, recreation, and spiritual value to billions of people. They support a disproportionate share of Earth's biodiversity — freshwater ecosystems cover less than 1% of Earth's surface but harbor about 10% of all known species and roughly one-third of all vertebrate species.
+Half of the world's population lives within 3 kilometers of a surface freshwater body. Streams and rivers provide drinking water, [irrigation](/irrigation), fisheries, recreation, and spiritual value to billions of people. They support a disproportionate share of Earth's biodiversity — freshwater ecosystems cover less than 1% of Earth's surface but harbor about 10% of all known species and roughly one-third of all vertebrate species.
 
 Freshwater biodiversity is declining faster than terrestrial or marine biodiversity. The Living Planet Index for freshwater species shows an average 83% decline in monitored populations since 1970 — worse than any other ecosystem type. Freshwater mussels are the most endangered group of animals in North America. One-third of freshwater fish species globally are threatened with extinction.
 

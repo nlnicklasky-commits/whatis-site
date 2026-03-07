@@ -5,7 +5,7 @@ description: "Miniature golf is a scaled-down version of golf played on short co
 category: sports
 tags: ["miniature golf", "putt-putt", "recreation", "family entertainment", "golf", "amusement"]
 heroImage: "/images/articles/miniature-golf.webp"
-heroAlt: "Colorful miniature golf course with windmill obstacle and artificial turf greens"
+heroAlt: "Editorial photograph representing the concept of miniature golf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Modern miniature golf courses fall into two broad categories:
 
 **Skill-based courses** focus on clean design, consistent surfaces, and holes that reward precision putting. These are preferred by competitive players and are used in tournament play. The obstacles are challenging but fair — slopes, curves, banks, and geometric shapes rather than random novelty elements.
 
-**Entertainment courses** emphasize theme and spectacle — pirate ships, dinosaurs, haunted castles, tropical jungles, glow-in-the-dark blacklight courses. The obstacles may include moving parts, water features, and multi-level structures. Accuracy matters less than fun. These courses dominate the family entertainment market.
+**Entertainment courses** emphasize theme and spectacle — pirate ships, [dinosaurs](/dinosaurs), haunted castles, tropical jungles, glow-in-the-dark blacklight courses. The obstacles may include moving parts, water features, and multi-level structures. Accuracy matters less than fun. These courses dominate the family entertainment market.
 
 The best courses manage to be both — genuinely fun and visually engaging while also rewarding skilled play. Course designers balance aesthetic appeal with playability, ensuring that every hole is possible in one or two strokes for a skilled player while remaining entertaining for beginners.
 
@@ -65,7 +65,7 @@ In the U.S., the U.S. ProMiniGolf Association organizes professional tournaments
 
 Miniature golf is a staple of the family entertainment industry. Courses often exist as part of larger entertainment complexes that include go-karts, batting cages, arcade games, and food service. The combined facility model generates more revenue per visit than mini golf alone.
 
-The economics work well for operators. Land requirements are modest (1-2 acres for an 18-hole course). Construction costs range from $100,000 to $500,000+ depending on theme and complexity. Operating costs are low — the course requires minimal staffing, no watering or mowing (artificial surfaces), and relatively little maintenance. Well-located courses can generate strong returns.
+The [economics](/economics) work well for operators. Land requirements are modest (1-2 acres for an 18-hole course). [Construction](/construction) costs range from $100,000 to $500,000+ depending on theme and complexity. Operating costs are low — the course requires minimal staffing, no watering or mowing (artificial surfaces), and relatively little maintenance. Well-located courses can generate strong returns.
 
 Indoor miniature golf has grown significantly, allowing year-round operation in cold climates and enabling blacklight/glow themes that create a distinctive experience. Some facilities combine mini golf with bars and restaurants, targeting an adult audience.
 
@@ -73,8 +73,8 @@ Indoor miniature golf has grown significantly, allowing year-round operation in 
 
 Miniature golf has outlasted roller rinks, drive-in theaters, and dozens of other entertainment formats that were once equally popular. Several factors explain its persistence:
 
-It's genuinely multigenerational — three generations of a family can play together and all have fun. It requires no prior skill or physical fitness. It's affordable. It's social — you're walking together, talking, laughing at missed shots. And there's just enough skill involved to make improvement satisfying without making failure frustrating.
+It's genuinely multigenerational — three generations of a family can play together and all have fun. It requires no prior skill or physical [fitness](/fitness). It's affordable. It's social — you're [walking](/walking) together, talking, laughing at missed shots. And there's just enough skill involved to make improvement satisfying without making failure frustrating.
 
-The game also benefits from nostalgia. Most adults have childhood memories of miniature golf, and they bring their own children to recreate the experience. This generational chain of positive associations is marketing that money can't buy.
+The game also benefits from nostalgia. Most adults have childhood memories of miniature golf, and they bring their own children to recreate the experience. This generational chain of positive associations is [marketing](/marketing) that money can't buy.
 
 Whether you call it miniature golf, mini golf, putt-putt, or crazy golf, the appeal is timeless: a small ball, a putter, some creative obstacles, and the eternal optimism that *this* time you'll get a hole-in-one on the windmill hole.

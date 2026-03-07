@@ -5,7 +5,7 @@ description: "Norse mythology is the collection of myths from ancient Scandinavi
 category: arts-amp-culture
 tags: ["norse mythology", "viking age", "mythology", "odin", "thor", "loki"]
 heroImage: "/images/articles/norse-mythology.webp"
-heroAlt: "A dramatic depiction of the Norse world tree Yggdrasil connecting the nine realms"
+heroAlt: "Editorial photograph representing the concept of norse mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,23 +29,23 @@ faq:
     a: "Ragnarok is the Norse apocalypse — a prophesied series of catastrophic events including a great winter (Fimbulwinter), a final battle among gods, giants, and monsters, and the destruction and flooding of the world. Unlike many apocalypse myths, Ragnarok includes renewal — a new, green world rises from the waters, and surviving gods and humans repopulate it."
 ---
 
-# What Is Norse Mythology?
+# What Is Norse [Mythology](/mythology)?
 
-Norse mythology is the body of myths, legends, and religious beliefs held by the ancient Scandinavian peoples — the Vikings and their predecessors — during the pre-Christian era, roughly from the Migration Period (around 400 CE) through the Viking Age (793-1066 CE). It features a cast of gods, giants, dwarves, and monsters operating in a cosmos of nine interconnected worlds, all of it heading toward an inevitable apocalypse called Ragnarok.
+Norse mythology is the body of myths, [legends](/legends), and religious beliefs held by the ancient Scandinavian peoples — the Vikings and their predecessors — during the pre-Christian era, roughly from the Migration Period (around 400 CE) through the Viking Age (793-1066 CE). It features a cast of gods, giants, dwarves, and monsters operating in a cosmos of nine interconnected worlds, all of it heading toward an inevitable apocalypse called Ragnarok.
 
 ## The Sources
 
-Here's the weird thing about Norse mythology: almost everything we know was written down by Christians, centuries after the myths were actually believed. The original Norse religion was oral. Stories were passed through generations by poets and storytellers, never committed to parchment.
+Here's the weird thing about Norse mythology: almost everything we know was written down by Christians, centuries after the myths were actually believed. The original Norse [religion](/religion) was oral. Stories were passed through generations by poets and storytellers, never committed to parchment.
 
-The two main written sources are both Icelandic. The **Prose Edda**, composed by Snorri Sturluson around 1220 CE, is essentially a handbook of Norse mythology written as a guide for poets. Snorri was a Christian scholar who preserved the old stories partly as literary heritage and partly because poets still used mythological references in their verse.
+The two main written sources are both Icelandic. The **[Prose](/prose) Edda**, composed by Snorri Sturluson around 1220 CE, is essentially a handbook of Norse mythology written as a guide for poets. Snorri was a Christian scholar who preserved the old stories partly as literary heritage and partly because poets still used mythological references in their verse.
 
-The **Poetic Edda** is a collection of anonymous poems compiled around 1270 CE in a manuscript called the Codex Regius. These poems — like Voluspa (The Prophecy of the Seeress) and Havamal (The Sayings of the High One) — are likely much older than the manuscript itself, possibly dating to the 9th or 10th century.
+The **Poetic Edda** is a collection of anonymous poems compiled around 1270 CE in a manuscript called the Codex Regius. These poems — like Voluspa (The [Prophecy](/prophecy) of the Seeress) and Havamal (The Sayings of the High One) — are likely much older than the manuscript itself, possibly dating to the 9th or 10th century.
 
-Beyond these, we have sagas, skaldic poetry, place names, archaeological finds, and accounts by outsiders like the Arab traveler Ibn Fadlan, who described Viking funeral customs in the 10th century.
+Beyond these, we have sagas, skaldic [poetry](/poetry), place names, archaeological finds, and accounts by outsiders like the Arab traveler Ibn Fadlan, who described Viking funeral customs in the 10th century.
 
 ## The Cosmos
 
-Norse cosmology centers on **Yggdrasil**, an immense ash tree whose branches and roots connect nine worlds:
+Norse [cosmology](/cosmology) centers on **Yggdrasil**, an immense ash tree whose branches and roots connect nine worlds:
 
 **Asgard** — home of the Aesir gods (Odin, Thor, Frigg, Baldur). Connected to Midgard by the rainbow bridge Bifrost.
 

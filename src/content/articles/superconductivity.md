@@ -5,7 +5,7 @@ description: "Superconductivity is a state where materials conduct electricity w
 category: everyday-concepts
 tags: ["superconductivity", "physics", "electricity", "materials science", "quantum mechanics", "magnets"]
 heroImage: "/images/articles/superconductivity.webp"
-heroAlt: "A magnet levitating above a superconducting material cooled with liquid nitrogen"
+heroAlt: "Editorial photograph representing the concept of superconductivity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Superconductivity?
 
-Superconductivity is a quantum mechanical phenomenon where certain materials, when cooled below a critical temperature, conduct electricity with exactly zero electrical resistance. Not low resistance. *Zero*. An electric current in a superconducting loop will flow forever without any energy input.
+Superconductivity is a quantum mechanical phenomenon where certain materials, when cooled below a critical temperature, conduct [electricity](/electricity) with exactly zero electrical resistance. Not low resistance. *Zero*. An electric current in a superconducting loop will flow forever without any energy input.
 
 That sounds like it shouldn't be possible. And yet it's been demonstrated thousands of times since Heike Kamerlingh Onnes first observed it in mercury in 1911. He cooled mercury to 4.2 Kelvin (-269°C) and watched its electrical resistance drop to nothing. He won the Nobel Prize for it two years later.
 
@@ -77,10 +77,10 @@ The frustrating part: nobody fully understands *why* these materials superconduc
 
 **Power cables** — Pilot projects in cities like New York and Essen, Germany, have demonstrated superconducting power cables that carry far more current than conventional cables in a fraction of the space.
 
-**Quantum computing** — Many quantum computer designs, including those from IBM and Google, use superconducting circuits cooled to near absolute zero to create and manipulate qubits.
+**[Quantum computing](/quantum-computing)** — Many quantum computer designs, including those from IBM and Google, use superconducting circuits cooled to near absolute zero to create and manipulate qubits.
 
 ## The Holy Grail
 
-Room-temperature, ambient-pressure superconductivity would be one of the most consequential discoveries in the history of technology. Lossless power transmission, impossibly efficient motors, affordable [magnetic levitation](/electromagnetism) — the applications would reshape civilization.
+Room-temperature, ambient-pressure superconductivity would be one of the most consequential discoveries in [the history of technology](/the-history-of-technology). Lossless power transmission, impossibly efficient motors, affordable [magnetic levitation](/electromagnetism) — the applications would reshape civilization.
 
 We're not there yet. But the search continues, and every few years, new materials push the critical temperature a bit higher or reveal new physics that might eventually crack the problem. It's one of those rare scientific goals where success would change everything.

@@ -5,7 +5,7 @@ description: "Choral music is vocal music written for and performed by a choir �
 category: arts-amp-culture
 tags: ["choral music", "choir", "singing", "vocal music", "classical music", "performance"]
 heroImage: "/images/articles/choral-music.webp"
-heroAlt: "A concert choir performing on stage in formal attire with a conductor leading"
+heroAlt: "Editorial photograph representing the concept of choral music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Choral Music?
 
-Choral music is music written for a choir — a group of singers performing together, usually in multiple voice parts (soprano, alto, tenor, bass). It's one of the oldest and most widespread forms of musical expression: virtually every culture on Earth has a tradition of group singing. An estimated 42.6 million Americans sing in choirs, making choral singing the most popular form of music-making in the United States.
+Choral music is music written for a choir — a group of singers performing together, usually in multiple voice parts (soprano, alto, tenor, bass). It's one of the oldest and most widespread forms of musical expression: virtually every culture on Earth has a tradition of group [singing](/singing). An estimated 42.6 million Americans sing in choirs, making choral singing the most popular form of music-making in the United States.
 
 ## Voices Together
 
-The fundamental magic of choral music is what happens when human voices combine. A single voice is expressive. Two voices in harmony create something more interesting. Twenty voices singing four-part harmony produce a sound that's qualitatively different from anything a solo singer can achieve — overtones interact, vowels blend, the room itself responds to the combined acoustic energy.
+The fundamental magic of choral music is what happens when human voices combine. A single voice is expressive. Two voices in [harmony](/harmony) create something more interesting. Twenty voices singing four-part harmony produce a sound that's qualitatively different from anything a solo singer can achieve — overtones interact, vowels blend, the room itself responds to the combined acoustic energy.
 
-This isn't poetic exaggeration. The physics of choral sound production are measurably different from solo singing. When a trained choir tunes intervals using just intonation (pure mathematical ratios rather than the compromised ratios of keyboard tuning), additional frequencies called combination tones emerge — pitches that no individual singer is producing. The ensemble literally creates notes that exist only because of the interaction between voices.
+This isn't poetic exaggeration. The [physics](/physics) of choral sound production are measurably different from solo singing. When a trained choir tunes intervals using just intonation (pure mathematical ratios rather than the compromised ratios of keyboard tuning), additional frequencies called combination tones emerge — pitches that no individual singer is producing. The ensemble literally creates notes that exist only because of the interaction between voices.
 
 ## A Brief History
 
@@ -49,7 +49,7 @@ Renaissance composers like Palestrina, Josquin des Prez, and Thomas Tallis wrote
 
 ### The Baroque and Beyond
 
-J.S. Bach's cantatas, passions, and the *Mass in B Minor* represent the pinnacle of Baroque choral writing. Handel's *Messiah* (1741) — including the famous "Hallelujah" chorus — became the most frequently performed choral work in history.
+J.S. Bach's cantatas, passions, and the *Mass in B Minor* represent the pinnacle of Baroque choral [writing](/writing). Handel's *Messiah* (1741) — including the famous "Hallelujah" chorus — became the most frequently performed choral work in history.
 
 The Romantic era brought massive choral forces: Beethoven's *Ninth Symphony* (1824) added a full chorus to the symphonic form. Brahms's *Ein deutsches Requiem*, Verdi's *Requiem*, and Mahler's symphonies expanded choral writing's emotional and active range.
 
@@ -65,13 +65,13 @@ The 20th century fractured choral music into multiple streams: Stravinsky's rhyt
 
 **Chamber choirs** — Small, highly skilled ensembles (12-24 singers) performing repertoire requiring precision and blend. Groups like the Tallis Scholars, Chanticleer, and Voces8 exemplify this category.
 
-**Show/pop choirs** — Performing contemporary, Broadway, or pop music, often with choreography. Glee clubs fall into this category. The TV show *Glee* (2009-2015) triggered significant growth in show choir participation.
+**Show/pop choirs** — Performing contemporary, Broadway, or [pop music](/pop-music), often with choreography. Glee clubs fall into this category. The TV show *Glee* (2009-2015) triggered significant growth in show choir participation.
 
 **Gospel choirs** — Performing African American gospel music with its distinctive call-and-response patterns, improvisation, and emotional intensity. The gospel choir tradition has deep roots in Black church worship and has influenced virtually every form of American popular music.
 
 ## What Singing in a Choir Does to You
 
-The benefits of choral singing are remarkably well-documented. Research published in journals including *Psychology of Music*, *Journal of Music Therapy*, and *Frontiers in Psychology* has found:
+The benefits of choral singing are remarkably well-documented. Research published in journals including *[Psychology](/psychology) of Music*, *Journal of Music Therapy*, and *Frontiers in Psychology* has found:
 
 **Physical effects** — Singing engages the diaphragm, intercostal muscles, and cardiovascular system. Heart rates of choir members synchronize during singing. Salivary immunoglobulin A (an immune system marker) increases after choral rehearsals.
 
@@ -79,7 +79,7 @@ The benefits of choral singing are remarkably well-documented. Research publishe
 
 **Social effects** — Choirs create community. Shared musical experience bonds people across age, class, race, and background differences. Workplace choirs, prison choirs, refugee choirs, and choirs for people with dementia all demonstrate music's ability to connect people in circumstances where other social mechanisms fail.
 
-The neurochemistry is real: group singing triggers oxytocin release (bonding hormone), endorphin release (pain relief and euphoria), and cortisol reduction (stress reduction). These effects are measurably stronger in group singing than in solo singing.
+The [neurochemistry](/neurochemistry) is real: group singing triggers oxytocin release (bonding hormone), endorphin release (pain relief and euphoria), and cortisol reduction (stress reduction). These effects are measurably stronger in group singing than in solo singing.
 
 ## Getting Into a Choir
 

@@ -5,7 +5,7 @@ description: "Tourism is the business and activity of traveling for pleasure, cu
 category: everyday-concepts
 tags: ["tourism", "travel", "hospitality", "economy", "culture", "recreation"]
 heroImage: "/images/articles/tourism.webp"
-heroAlt: "Tourists visiting a famous landmark with cameras and travel gear"
+heroAlt: "Editorial photograph representing the concept of tourism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,13 +39,13 @@ The numbers are staggering. Before the pandemic disrupted everything, internatio
 
 **Cultural tourism** — Visiting museums, historical sites, festivals, and places of cultural significance. The most traditional form and still the largest segment.
 
-**Adventure tourism** — Hiking, scuba diving, zip-lining, safaris. Growing rapidly as travelers seek active and experiential vacations.
+**Adventure tourism** — [Hiking](/hiking), [scuba diving](/scuba-diving), zip-lining, safaris. Growing rapidly as travelers seek active and experiential vacations.
 
 **Ecotourism** — Travel focused on natural environments, conservation, and minimizing environmental impact. Costa Rica and Kenya are major ecotourism destinations.
 
 **Medical tourism** — Traveling abroad for medical or dental procedures, often because of lower costs. Thailand, Mexico, and India are popular destinations.
 
-**Business tourism** — Conferences, trade shows, and corporate events. Often combined with leisure activities.
+**Business tourism** — Conferences, [trade](/trade) shows, and corporate events. Often combined with leisure activities.
 
 **Culinary tourism** — Traveling specifically to experience local food and drink culture.
 
@@ -57,7 +57,7 @@ Tourism creates a multiplier effect — money spent by tourists circulates throu
 
 For some nations, tourism is everything. The Maldives derives about 60% of its GDP from tourism. Thailand, Greece, Croatia, Mexico, and many Caribbean nations depend heavily on tourist spending. Even in large diversified economies, tourism is significant — it contributes roughly $1.9 trillion annually to the U.S. economy.
 
-Tourism also creates jobs — lots of them. Many are accessible to workers without advanced education, making tourism a pathway to employment in regions with limited economic alternatives.
+Tourism also creates jobs — lots of them. Many are accessible to workers without advanced [education](/education), making tourism a pathway to employment in regions with limited economic alternatives.
 
 ## The Downsides
 
@@ -65,7 +65,7 @@ Tourism's benefits come with significant costs:
 
 **Overtourism** — Popular destinations can be overwhelmed by visitor numbers, degrading the experience for residents and tourists alike. Venice, Barcelona, Dubrovnik, and Machu Picchu have all struggled with crowds that strain infrastructure, drive up housing costs, and damage cultural sites.
 
-**Environmental damage** — Air travel is a major source of carbon emissions. Cruise ships generate enormous waste. Coral reefs, national parks, and fragile ecosystems can be damaged by visitor traffic. A single long-haul flight generates more carbon than many people in developing countries emit in an entire year.
+**Environmental damage** — Air travel is a major source of carbon emissions. Cruise ships generate enormous waste. Coral reefs, [national parks](/national-parks), and fragile ecosystems can be damaged by visitor traffic. A single long-haul flight generates more carbon than many people in developing countries emit in an entire year.
 
 **Cultural commodification** — Traditional cultures can be reduced to performances for tourists. Sacred sites become photo opportunities. Local communities may lose control of their own cultural narratives.
 

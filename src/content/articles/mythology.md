@@ -5,7 +5,7 @@ description: "Mythology is the collection of myths belonging to a culture, expla
 category: arts-amp-culture
 tags: ["mythology", "myths", "folklore", "ancient religions", "storytelling", "cultural heritage"]
 heroImage: "/images/articles/mythology.webp"
-heroAlt: "Ancient Greek marble sculpture of a mythological figure against a dramatic sky"
+heroAlt: "Editorial photograph representing the concept of mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,21 +45,21 @@ Myths serve several overlapping functions:
 
 **Establishing moral frameworks** — myths teach right behavior through example and counter-example. The Greek myth of Icarus (who flew too close to the sun on wax wings) warns against hubris. The Norse myth of Loki teaches that cleverness without loyalty destroys everything it touches. Hindu mythology explores dharma (duty and moral order) through complex, morally ambiguous narratives.
 
-**Connecting humans to the sacred** — myths create a bridge between the everyday world and something larger. Ritual performance of myths — acting them out in ceremonies, festivals, and religious practices — allowed people to participate in sacred time, stepping out of ordinary existence and into the mythological area.
+**Connecting humans to the sacred** — myths create a bridge between the everyday world and something larger. Ritual performance of myths — [acting](/acting) them out in ceremonies, festivals, and religious practices — allowed people to participate in sacred time, stepping out of ordinary existence and into the mythological area.
 
 ## Major Mythological Traditions
 
-**Greek mythology** — the most familiar in the Western world, thanks to its influence on art, literature, philosophy, and language. The Olympian gods (Zeus, Hera, Athena, Apollo, Aphrodite, and others) are deeply human — jealous, petty, lustful, vengeful, and occasionally generous. Greek myths explore fate, pride, love, revenge, and the tension between divine power and human agency. Homer's *Iliad* and *Odyssey* (c. 8th century BCE) are the foundational texts.
+**[Greek mythology](/greek-mythology)** — the most familiar in the Western world, thanks to its influence on art, [literature](/literature), [philosophy](/philosophy), and language. The Olympian gods (Zeus, Hera, Athena, Apollo, Aphrodite, and others) are deeply human — jealous, petty, lustful, vengeful, and occasionally generous. Greek myths explore fate, pride, love, revenge, and the tension between divine power and human agency. Homer's *Iliad* and *Odyssey* (c. 8th century BCE) are the foundational texts.
 
-**Norse mythology** — from the Scandinavian and Germanic peoples. A darker, more fatalistic tradition. The gods know they will die at Ragnarok (the end of the world) and fight anyway. Odin sacrifices an eye for wisdom. Thor battles the world serpent. Loki, the trickster, engineers catastrophe. The *Prose Edda* and *Poetic Edda* (13th century, drawing on older oral traditions) are the primary sources.
+**[Norse mythology](/norse-mythology)** — from the Scandinavian and Germanic peoples. A darker, more fatalistic tradition. The gods know they will die at Ragnarok (the end of the world) and fight anyway. Odin sacrifices an eye for wisdom. Thor battles the world serpent. Loki, the trickster, engineers catastrophe. The *Prose Edda* and *Poetic Edda* (13th century, [drawing](/drawing) on older oral traditions) are the primary sources.
 
-**Egyptian mythology** — one of the oldest documented traditions, spanning over 3,000 years. Central myths include Ra's daily journey through the sky and underworld, Osiris's death and resurrection, and Isis's devotion and magical power. Egyptian myth was inseparable from religion — temples, rituals, and the entire social order were organized around mythological frameworks.
+**[Egyptian mythology](/egyptian-mythology)** — one of the oldest documented traditions, spanning over 3,000 years. Central myths include Ra's daily journey through the sky and underworld, Osiris's death and resurrection, and Isis's devotion and magical power. Egyptian myth was inseparable from [religion](/religion) — temples, rituals, and the entire social order were organized around mythological frameworks.
 
 **Hindu mythology** — one of the richest and most complex mythological systems, and one of the few that remains actively practiced. The *Mahabharata* (over 100,000 verses, the world's longest epic) and the *Ramayana* explore duty, honor, love, and cosmic order through the stories of gods, heroes, and demons. Hindu mythology embraces contradiction and paradox in ways that Western traditions often don't.
 
 **Mesoamerican mythology** — the Aztec, Maya, and other Mesoamerican civilizations produced sophisticated mythological systems. The Popol Vuh (K'iche' Maya creation narrative) describes multiple attempts by the gods to create humanity. Quetzalcoatl (the feathered serpent) appears across Mesoamerican cultures. These traditions were largely suppressed during European colonization but survive in texts and living cultural practices.
 
-**Chinese mythology** — an ancient tradition blending Daoist, Buddhist, and folk elements. The Jade Emperor rules heaven. The Monkey King (Sun Wukong), immortalized in *Journey to the West*, is one of the most beloved mythological figures in East Asia. Chinese mythology often emphasizes harmony between heaven, earth, and humanity.
+**[Chinese mythology](/chinese-mythology)** — an ancient tradition blending Daoist, Buddhist, and folk elements. The Jade Emperor rules heaven. The Monkey King (Sun Wukong), immortalized in *Journey to the West*, is one of the most beloved mythological figures in East Asia. Chinese mythology often emphasizes [harmony](/harmony) between heaven, earth, and humanity.
 
 ## Mythology and Modern Culture
 

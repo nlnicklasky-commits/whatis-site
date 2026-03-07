@@ -5,7 +5,7 @@ description: "Space medicine studies how spaceflight affects the human body and 
 category: science
 tags: ["space medicine", "aerospace", "health", "microgravity", "radiation", "astronauts", "physiology"]
 heroImage: "/images/articles/space-medicine.webp"
-heroAlt: "An astronaut exercising on a treadmill aboard the International Space Station with Earth visible through a window"
+heroAlt: "Editorial photograph representing the concept of space medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Space Medicine?
 
-Space medicine is the medical specialty focused on understanding how the space environment — microgravity, radiation, isolation, and confinement — affects human health, and on developing countermeasures to keep astronauts functional and healthy during spaceflight. It draws on physiology, radiation biology, psychology, emergency medicine, and aerospace engineering.
+Space medicine is the medical specialty focused on understanding how the space environment — microgravity, radiation, isolation, and confinement — affects human health, and on developing countermeasures to keep astronauts functional and healthy during spaceflight. It draws on [physiology](/physiology), radiation biology, [psychology](/psychology), [emergency medicine](/emergency-medicine), and [aerospace engineering](/aerospace-[engineering](/engineering)).
 
 Since Yuri Gagarin's first orbital flight in 1961, approximately 600 people have traveled to space. Every one of them came back changed — physiologically, and often psychologically. The job of space medicine is to understand those changes and figure out how to prevent the harmful ones.
 
@@ -95,7 +95,7 @@ The pharmaceutical challenge is real too. Many medications degrade in the space 
 
 Spacecraft are sealed environments where everything is recycled — air, water, waste. The atmosphere must be actively maintained at the right temperature, humidity, oxygen level, and carbon dioxide level. A system failure in any of these areas can become lethal within hours.
 
-Carbon dioxide management is a constant concern. At concentrations above 0.5 percent (ten times Earth's atmospheric level but common on the ISS during equipment issues), CO2 causes headaches, impaired cognitive function, and sleep disruption. The CO2 scrubbing system on the ISS has experienced multiple failures requiring crew intervention.
+Carbon dioxide [management](/management) is a constant concern. At concentrations above 0.5 percent (ten times Earth's atmospheric level but common on the ISS during equipment issues), CO2 causes headaches, impaired cognitive function, and sleep disruption. The CO2 scrubbing system on the ISS has experienced multiple failures requiring crew intervention.
 
 Microbial ecology inside spacecraft is another concern. Studies of the ISS have found that the station's surfaces harbor a complex microbiome that evolves over time, including bacteria and fungi that can corrode equipment and potentially cause infections in immunocompromised astronauts. Research suggests that some bacteria become more virulent in microgravity — Salmonella, for instance, showed increased pathogenicity after spaceflight in a 2007 study.
 
@@ -149,6 +149,6 @@ The ISS has taught us an enormous amount about how the human body responds to si
 
 Current NASA human health standards probably cannot be met for a Mars mission with existing countermeasures. The radiation exposure alone would likely exceed career limits for most astronauts. This creates a policy dilemma: either develop better countermeasures, raise the acceptable risk limits, or postpone the mission.
 
-The push toward [space colonization](/space-colonization) adds another dimension. If humans are to live permanently off Earth, space medicine needs to address not just how to keep astronauts healthy during missions, but how to support reproduction, child development, and aging in altered gravity and radiation environments. Animal studies of reproduction in microgravity are scarce, and the results are concerning — altered sperm motility, embryonic development issues, and behavioral changes in offspring.
+The push toward [space colonization](/space-colonization) adds another dimension. If humans are to live permanently off Earth, space medicine needs to address not just how to keep astronauts healthy during missions, but how to support reproduction, [child development](/child-development), and aging in altered gravity and radiation environments. Animal studies of reproduction in microgravity are scarce, and the results are concerning — altered sperm motility, embryonic development issues, and behavioral changes in offspring.
 
 Space medicine sits at the intersection of our highest ambitions and our most fundamental biological limitations. We evolved for exactly one gravitational environment, one radiation environment, one atmospheric composition. Changing any of those variables has consequences that we're still discovering, flight by flight, experiment by experiment. The field exists because the human body wasn't built for space — and somebody has to figure out how to make it work anyway.

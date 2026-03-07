@@ -5,7 +5,7 @@ description: "Yachting covers sailing and motorboating for sport, leisure, or ra
 category: sports
 tags: ["boating", "sailing", "luxury", "recreation", "marine sports", "maritime"]
 heroImage: "/images/articles/yachting.webp"
-heroAlt: "A sleek sailing yacht cutting through blue ocean water under full sail on a sunny day"
+heroAlt: "Editorial photograph representing the concept of yachting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Yachting?
 
-Yachting is the sport and recreation of sailing or motoring on a yacht — a vessel designed for pleasure rather than commercial work. It ranges from a weekend sailor tacking across a local bay in a 25-footer to billionaires cruising the Mediterranean on floating palaces with helipads and swimming pools.
+Yachting is the sport and recreation of [sailing](/sailing) or motoring on a yacht — a vessel designed for pleasure rather than commercial work. It ranges from a weekend sailor tacking across a local bay in a 25-footer to billionaires cruising the Mediterranean on floating palaces with helipads and [swimming](/swimming) pools.
 
 The word "yacht" comes from the Dutch *jaght*, meaning "hunt," because the original yachts were fast, light vessels used by the Dutch navy to chase pirates in shallow coastal waters during the 17th century. When England's King Charles II received a yacht as a diplomatic gift in 1660, recreational yachting was born. He immediately started racing it against his brother's boat on the Thames. Some things never change.
 
@@ -54,7 +54,7 @@ The basic categories:
 
 ### Motor Yachts
 
-Motor yachts trade the romance of sail for speed, space, and convenience. They range from modest cabin cruisers to the 590-foot Azzam, one of the largest private motor yachts ever built. Most motor yachts fall somewhere between 30 and 80 feet — big enough for comfortable cruising, small enough for an owner to handle.
+Motor yachts [trade](/trade) the romance of sail for speed, space, and convenience. They range from modest cabin cruisers to the 590-foot Azzam, one of the largest private motor yachts ever built. Most motor yachts fall somewhere between 30 and 80 feet — big enough for comfortable cruising, small enough for an owner to handle.
 
 ### Multihulls
 
@@ -74,7 +74,7 @@ A solo, non-stop, unassisted race around the world. Sailors leave France, head s
 
 ### Olympic Sailing
 
-The Olympics feature multiple sailing classes, from single-handed dinghies to two-person skiffs and mixed-gender catamarans. Olympic sailors are some of the most skilled in the world — the boats are simple, so the racing comes down to pure technique, tactics, and fitness.
+The Olympics feature multiple sailing classes, from single-handed dinghies to two-person skiffs and mixed-gender catamarans. Olympic sailors are some of the most skilled in the world — the boats are simple, so the racing comes down to pure technique, tactics, and [fitness](/fitness).
 
 ### Local and Club Racing
 
@@ -92,7 +92,7 @@ But here's what most people miss: you don't need to own a yacht to go yachting.
 
 **Chartering**: Renting a yacht for a week. A 35-foot sailboat in the Caribbean might run $3,000-$5,000 per week, split among friends. That's comparable to a modest vacation.
 
-**Small boat ownership**: A used 25-foot sailboat can cost $5,000-$15,000. Annual expenses (slip fees, insurance, maintenance) add another $3,000-$8,000 depending on your location.
+**Small boat ownership**: A used 25-foot sailboat can cost $5,000-$15,000. Annual expenses (slip fees, [insurance](/insurance), maintenance) add another $3,000-$8,000 depending on your location.
 
 **Big boat ownership**: This is where it gets eye-watering. A new 50-foot cruising sailboat costs $400,000-$1 million. A motor yacht of the same size runs $500,000-$2 million. And the rule of thumb is that annual operating costs run about 10% of the purchase price.
 
@@ -102,7 +102,7 @@ If you're interested in yachting, sailing is the best place to start. It teaches
 
 Most coastal and lakeside communities have sailing schools or yacht clubs offering courses. A basic keelboat certification takes about 2-4 days of instruction and gives you the skills to charter or sail small boats on your own.
 
-The learning curve is real, though. Sailing involves understanding wind direction, sail trim, points of sail, navigation rules, weather patterns, and seamanship. It takes time. The reward is a skill that can take you literally anywhere in the world — people have sailed across oceans in boats smaller than most living rooms.
+The learning curve is real, though. Sailing involves understanding wind direction, sail trim, points of sail, [navigation](/navigation) rules, weather patterns, and seamanship. It takes time. The reward is a skill that can take you literally anywhere in the world — people have sailed across oceans in boats smaller than most living rooms.
 
 ## The Environmental Angle
 

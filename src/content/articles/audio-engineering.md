@@ -5,7 +5,7 @@ description: "Audio engineering is the technical practice of recording, mixing, 
 category: technology
 tags: ["audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering", "acoustics"]
 heroImage: "/images/articles/audio-engineering-hero.webp"
-heroAlt: "A professional mixing console in a recording studio with monitor speakers and acoustic treatment panels"
+heroAlt: "Editorial photograph representing the concept of audio engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
     a: "The loudness war refers to the trend of making commercial recordings progressively louder over decades, especially from the 1990s through the 2010s, by applying heavy compression and limiting during mastering. Louder recordings sound more impactful in brief comparisons but sacrifice dynamic range — the difference between quiet and loud passages. Streaming platforms like Spotify now normalize loudness, reducing the incentive to master as loud as possible."
 ---
 
-# What Is Audio Engineering?
+# What Is Audio [Engineering](/engineering)?
 
 Audio engineering is the technical practice and applied science of recording, manipulating, mixing, and reproducing sound. It encompasses the equipment, techniques, and physical principles used to capture acoustic events, process them electronically, and deliver them to listeners through speakers, headphones, or broadcast systems. Audio engineers work in music, film, television, gaming, podcasting, live events, and any field where sound quality matters.
 
@@ -45,7 +45,7 @@ Audio engineering is the technical practice and applied science of recording, ma
 
 The popular image of an audio engineer is someone sitting behind a giant mixing console, adjusting faders while a band plays behind a glass window. That's not wrong — but it's about as complete as describing a chef's job as "putting food on plates."
 
-Audio engineering involves physics, electronics, psychoacoustics (how the brain perceives sound), signal processing, and an enormous amount of critical listening. A good audio engineer can hear a 1 dB volume difference on a specific frequency range, identify resonances in a room by clapping their hands, and tell you which microphone will best capture a particular instrument in a particular space.
+Audio engineering involves physics, [electronics](/electronics), psychoacoustics (how the brain perceives sound), [signal processing](/signal-processing), and an enormous amount of critical listening. A good audio engineer can hear a 1 dB volume difference on a specific frequency range, identify resonances in a room by clapping their hands, and tell you which microphone will best capture a particular instrument in a particular space.
 
 It's a strange hybrid of technical precision and artistic judgment. The same recording can sound radically different depending on microphone choice, placement, room treatment, signal chain, mixing decisions, and mastering approach. Two engineers given identical source material will produce two different results — and both might be excellent.
 
@@ -59,7 +59,7 @@ Thomas Edison's phonograph (1877) was the first device to record and reproduce s
 
 The sound quality was terrible by modern standards. But it worked. For the first time, you could hear a voice or a song without being in the same room as the source.
 
-Emile Berliner improved on Edison's design with the flat disc gramophone (1887), which was easier to mass-produce. By the early 1900s, the recording industry existed — Enrico Caruso's opera recordings became massive sellers. All recording during this era was purely mechanical. No electricity involved. The musicians performed into a horn, and the sound energy directly cut the groove. Loud instruments dominated; quiet ones were barely audible.
+Emile Berliner improved on Edison's design with the flat disc gramophone (1887), which was easier to mass-produce. By the early 1900s, the recording industry existed — Enrico Caruso's opera recordings became massive sellers. All recording during this era was purely mechanical. No [electricity](/electricity) involved. The musicians performed into a horn, and the sound energy directly cut the groove. Loud instruments dominated; quiet ones were barely audible.
 
 ### The Electrical Era (1925-1945)
 
@@ -129,13 +129,13 @@ The goal of recording is capturing the best possible raw material. This means ch
 
 A recording engineer needs to understand [acoustics](/acoustics) — how sound behaves in the room and how room reflections color the recording. They need to know signal flow — how audio moves through the console or interface, where gain staging can go wrong, and how to avoid noise and distortion.
 
-Session management is also critical. Labeling tracks, maintaining session notes, managing headphone mixes for performers, and keeping the creative atmosphere productive all fall under the recording engineer's responsibilities.
+Session [management](/management) is also critical. Labeling tracks, maintaining session notes, managing headphone mixes for performers, and keeping the creative atmosphere productive all fall under the recording engineer's responsibilities.
 
 ### Mixing
 
-Mixing is where individual recorded tracks become a finished piece of music (or dialogue, or sound design). The mixer balances levels, places instruments in the stereo (or surround) field, applies EQ and compression to each track, adds effects like reverb and delay, and shapes the overall frequency balance and dynamics.
+Mixing is where individual recorded tracks become a finished piece of music (or dialogue, or [sound design](/sound-design)). The mixer balances levels, places instruments in the stereo (or surround) field, applies EQ and compression to each track, adds effects like reverb and delay, and shapes the overall frequency balance and dynamics.
 
-A mix might involve anywhere from 8 tracks (a simple acoustic recording) to 200+ tracks (a modern pop or film production). The mixer's job is to create a coherent, emotionally effective whole from all those parts.
+A mix might involve anywhere from 8 tracks (a simple acoustic recording) to 200+ tracks (a modern pop or [film production](/film-production)). The mixer's job is to create a coherent, emotionally effective whole from all those parts.
 
 Mixing is the stage where art and technology most directly intersect. Technical decisions (how much compression on the vocal, what reverb time for the snare drum) are simultaneously artistic decisions. There's no objectively correct mix — just mixes that serve the music well and mixes that don't.
 
@@ -163,7 +163,7 @@ Game audio has exploded as an industry. Modern games feature fully orchestrated 
 
 ### Live Sound
 
-Concert sound engineering is fundamentally different from studio work. Everything happens in real time. There's no "fix it in the mix" — if the vocalist's monitor mix is wrong, they'll struggle to perform. If the PA system feeds back, 20,000 people hear it.
+Concert [sound engineering](/sound-engineering) is fundamentally different from studio work. Everything happens in real time. There's no "fix it in the mix" — if the vocalist's monitor mix is wrong, they'll struggle to perform. If the PA system feeds back, 20,000 people hear it.
 
 Live sound engineers manage complex systems: multiple monitor mixes for different performers, front-of-house mixing for the audience, subwoofer management, delay towers for large venues, and wireless microphone and in-ear monitor systems. The acoustic challenges of outdoor festivals, arenas, and theaters are each unique.
 

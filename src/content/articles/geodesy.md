@@ -5,7 +5,7 @@ description: "Geodesy is the science of measuring and understanding Earth's shap
 category: science
 tags: ["geodesy", "earth science", "gps", "mapping", "gravity", "geophysics", "spatial data"]
 heroImage: "/images/articles/geodesy-hero.webp"
-heroAlt: "Satellite orbiting Earth with measurement beams illustrating geodetic observation of the planet's shape"
+heroAlt: "Editorial photograph representing the concept of geodesy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Geodesy?
 
-Geodesy is the science of accurately measuring and understanding the Earth's geometric shape, orientation in space, and gravitational field. It provides the reference frameworks and coordinate systems that underpin GPS navigation, satellite positioning, [cartography](/cartography), land surveying, and the monitoring of Earth's active systems including sea level rise, tectonic motion, and ice sheet changes.
+Geodesy is the science of accurately measuring and understanding the Earth's geometric shape, orientation in space, and gravitational field. It provides the reference frameworks and coordinate systems that underpin GPS [navigation](/navigation), satellite positioning, [cartography](/cartography), land [surveying](/surveying), and the monitoring of Earth's active systems including sea level rise, tectonic motion, and ice sheet changes.
 
 ## Earth Isn't What You Think It Is
 
@@ -125,7 +125,7 @@ But WGS84 is a global best fit. In any given region, a locally-fitted ellipsoid 
 
 Height is trickier than latitude and longitude. GPS gives you height above the ellipsoid (a mathematical surface). But the height you actually care about — the one that determines which way water flows — is height above the geoid (the gravitational equipotential surface that approximates mean sea level).
 
-The difference between ellipsoidal height and geoidal height — called the geoid undulation — varies from about -106 meters to +85 meters globally. If you use GPS height directly without correcting for the geoid, your "elevation" could be off by tens of meters. That matters for flood mapping, engineering, and any application where "downhill" needs to be correct.
+The difference between ellipsoidal height and geoidal height — called the geoid undulation — varies from about -106 meters to +85 meters globally. If you use GPS height directly without correcting for the geoid, your "elevation" could be off by tens of meters. That matters for flood mapping, [engineering](/engineering), and any application where "downhill" needs to be correct.
 
 ## Geodesy and Sea Level
 
@@ -153,11 +153,11 @@ Geodesy might sound abstract, but it underlies technologies you depend on daily.
 
 **Navigation**: Every GPS fix on your phone relies on a geodetic reference frame. The [algorithms](/algorithms) that convert satellite signals into your location use geodetic parameters — Earth's shape, gravity model, satellite orbits — computed by geodesists.
 
-**Construction and engineering**: Buildings, bridges, tunnels, and roads are surveyed using geodetic coordinates. Large structures — like the 50-kilometer Large Hadron Collider — require geodetic precision to align components within fractions of a millimeter over vast distances.
+**[Construction](/construction) and engineering**: Buildings, bridges, tunnels, and roads are surveyed using geodetic coordinates. Large structures — like the 50-kilometer Large Hadron Collider — require geodetic precision to align components within fractions of a millimeter over vast distances.
 
-**Precision agriculture**: GPS-guided tractors plant seeds, apply fertilizer, and harvest crops with centimeter accuracy. This reduces waste, increases yields, and is enabled by geodetic reference networks that provide the needed accuracy via real-time kinematic (RTK) corrections.
+**Precision [agriculture](/agriculture)**: GPS-guided tractors plant seeds, apply fertilizer, and harvest crops with centimeter accuracy. This reduces waste, increases yields, and is enabled by geodetic reference networks that provide the needed accuracy via real-time kinematic (RTK) corrections.
 
-**Aviation**: Aircraft navigation, instrument landing systems, and air traffic management all depend on geodetic coordinate systems. The vertical accuracy is particularly critical — knowing your altitude precisely is the difference between a smooth landing and a catastrophe.
+**Aviation**: Aircraft navigation, instrument landing systems, and air traffic [management](/management) all depend on geodetic coordinate systems. The vertical accuracy is particularly critical — knowing your altitude precisely is the difference between a smooth landing and a catastrophe.
 
 **Legal boundaries**: Property boundaries, national borders, and maritime territorial limits are defined by coordinates in geodetic reference frames. Shifts in the reference frame or improvements in measurement accuracy can — and occasionally do — create legal complications.
 
@@ -169,7 +169,7 @@ Geodesy continues advancing, driven by ever-more-precise measurement technology 
 
 **Quantum sensors** — atom interferometer gravimeters and atomic clocks — promise to measure gravity and time with revolutionary precision. Gravity gradients measured by quantum instruments could detect underground voids, water table changes, and magma movements with sensitivity impossible today.
 
-**Optical clocks** are so precise they can detect the gravitational redshift from a height difference of just 1 centimeter — effectively using Einstein's general relativity to measure elevation. This "chronometric leveling" could eventually replace traditional surveying for height determination.
+**Optical clocks** are so precise they can detect the gravitational redshift from a height difference of just 1 centimeter — effectively using Einstein's [general relativity](/general-relativity) to measure elevation. This "chronometric leveling" could eventually replace traditional surveying for height determination.
 
 **Satellite constellations** with thousands of small satellites may provide continuous, high-resolution monitoring of Earth's gravity field, surface deformation, and atmosphere — creating a real-time geodetic monitoring system for the entire planet.
 

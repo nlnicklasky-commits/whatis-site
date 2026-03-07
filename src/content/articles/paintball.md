@@ -5,7 +5,7 @@ description: "Paintball is a competitive sport where players shoot paint-filled 
 category: everyday-concepts
 tags: ["paintball", "outdoor recreation", "team sports", "tactical games", "competition", "adventure"]
 heroImage: "/images/articles/paintball.webp"
-heroAlt: "A paintball player in full protective gear aiming a marker from behind a barricade"
+heroAlt: "Editorial photograph representing the concept of paintball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Paintball is a competitive sport in which players use compressed-air-powered mar
 
 ## How It Started
 
-The first paintball game took place on June 7, 1981, in Henniker, New Hampshire. Twelve friends used forestry marking guns — devices designed to mark trees for logging — to play a capture-the-flag game across 80 acres of woods. The idea came from a debate between a stockbroker and a writer about whether street smarts or wilderness instincts would prevail in a survival scenario. They decided to settle it with paint.
+The first paintball game took place on June 7, 1981, in Henniker, New Hampshire. Twelve friends used [forestry](/forestry) marking guns — devices designed to mark trees for logging — to play a capture-the-flag game across 80 acres of woods. The idea came from a [debate](/debate) between a stockbroker and a writer about whether street smarts or wilderness instincts would prevail in a survival scenario. They decided to settle it with paint.
 
 The concept caught on fast. Commercial paintball fields opened within a year. Purpose-built paintball markers replaced forestry guns. The National Survival Game (the first organized paintball league) formed in 1982. By the late 1980s, paintball was a recognized sport with organized tournaments.
 
@@ -67,9 +67,9 @@ Organized paintball competition operates at local, regional, national, and inter
 
 **5-man speedball** is the most common tournament format. Two teams of five play on a symmetrical field of inflatable bunkers. Games are fast — typically 2-5 minutes — and decided by flag captures or eliminations. Professional leagues include the National Xball League (NXL).
 
-**10-man and scenario events** are larger-format competitions emphasizing strategy, communication, and sustained play. Events like Oklahoma D-Day and Living Legends draw thousands of players for multi-day scenarios.
+**10-man and scenario events** are larger-format competitions emphasizing strategy, communication, and sustained play. Events like Oklahoma D-Day and Living [Legends](/legends) draw thousands of players for multi-day scenarios.
 
-Professional paintball players train seriously — physical fitness, marker handling, snap shooting, communication, and coordinated team movements. Top teams practice several days a week and travel nationally for events.
+Professional paintball players train seriously — physical [fitness](/fitness), marker handling, snap shooting, communication, and coordinated team movements. Top teams practice several days a week and travel nationally for events.
 
 ## The Culture
 

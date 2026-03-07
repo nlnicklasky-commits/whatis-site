@@ -5,7 +5,7 @@ description: "Social commentary is art, writing, or speech that critiques aspect
 category: arts-amp-culture
 tags: ["social commentary", "satire", "critique", "art", "literature", "activism"]
 heroImage: "/images/articles/social-commentary.webp"
-heroAlt: "A street art mural depicting a social justice theme on an urban wall"
+heroAlt: "Editorial photograph representing the concept of social commentary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Social Commentary?
 
-Social commentary is the use of art, literature, music, film, comedy, or any creative medium to make observations about society — its flaws, contradictions, inequalities, and absurdities. It's not neutral description; it's pointed observation with an angle. When a comedian jokes about healthcare costs, when a novelist writes about racial injustice, when a muralist paints corporate greed on a city wall — that's social commentary.
+Social commentary is the use of art, [literature](/literature), music, film, [comedy](/comedy), or any creative medium to make observations about society — its flaws, contradictions, inequalities, and absurdities. It's not neutral description; it's pointed observation with an angle. When a comedian jokes about healthcare costs, when a novelist writes about racial injustice, when a muralist paints corporate greed on a city wall — that's social commentary.
 
 The practice is as old as civilization. Ancient Greek comedies mocked politicians. Medieval satire targeted the Church. Jonathan Swift's 1729 essay proposing that the Irish eat their own children was social commentary so savage it still shocks. The impulse to look at how we live and say "this isn't right" — or "this is absurd" — is deeply human.
 
@@ -69,6 +69,6 @@ Even in democracies with strong free speech protections, social commentary provo
 
 ## Why It Matters
 
-Social commentary matters because it makes the invisible visible. Most people don't think critically about the systems they live in — they're too busy living in them. Art that points at those systems — saying "look at this, really look" — performs a function that journalism, academics, and policy papers often can't match because it reaches people emotionally, not just intellectually.
+Social commentary matters because it makes the invisible visible. Most people don't think critically about the systems they live in — they're too busy living in them. Art that points at those systems — saying "look at this, really look" — performs a function that [journalism](/journalism), academics, and policy papers often can't match because it reaches people emotionally, not just intellectually.
 
-The best social commentary doesn't tell you what to think. It makes you think — and feel — about something you'd been ignoring. That's a modest but genuine form of power, and it's why authoritarian regimes have always feared artists as much as they fear opposition politicians. A joke, a painting, or a story can shift how millions of people perceive reality. That's worth paying attention to.
+The best social commentary doesn't tell you what to think. It makes you think — and feel — about something you'd been ignoring. That's a modest but genuine form of power, and it's why authoritarian regimes have always feared artists as much as they fear opposition politicians. A joke, a [painting](/painting), or a story can shift how millions of people perceive reality. That's worth paying attention to.

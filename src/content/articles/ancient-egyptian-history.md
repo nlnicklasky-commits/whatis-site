@@ -5,7 +5,7 @@ description: "Ancient Egyptian history spans over 3,000 years of civilization al
 category: history
 tags: ["ancient egypt", "egyptian history", "pharaoh", "pyramids", "nile valley"]
 heroImage: "/images/articles/ancient-egyptian-history.webp"
-heroAlt: "The Great Pyramids of Giza with the Sphinx in the foreground against a golden desert sky"
+heroAlt: "Editorial photograph representing the concept of ancient egyptian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ Egyptologists divide ancient Egyptian history into several main periods. The dat
 
 ### Predynastic Period (c. 6000-3100 BCE)
 
-Before the pharaohs, Nile Valley communities developed agriculture, pottery, stone tools, and increasingly complex social organization. By about 3500 BCE, two distinct political entities had emerged: Upper Egypt (the southern Nile Valley) and Lower Egypt (the northern Nile Delta).
+Before the pharaohs, Nile Valley communities developed [agriculture](/agriculture), pottery, stone tools, and increasingly complex social organization. By about 3500 BCE, two distinct political entities had emerged: Upper Egypt (the southern Nile Valley) and Lower Egypt (the northern Nile Delta).
 
 ### Early Dynastic Period (c. 3100-2686 BCE)
 
@@ -69,13 +69,13 @@ The Step Pyramid at Saqqara (c. 2650 BCE), designed by the architect Imhotep for
 
 The Great Pyramid of Khufu (c. 2560 BCE) contains approximately 2.3 million stone blocks, each averaging 2.5 tons. It was built with remarkable precision — the base is level to within 2.1 centimeters across 230 meters. No one knows exactly how it was built (the "ramps versus levers versus counterweights" debate continues), but we know who built it: paid Egyptian workers, not enslaved people.
 
-[Archaeological](/archaeology) excavations at workers' villages near Giza have revealed bakeries, breweries, medical facilities, and orderly cemeteries — evidence of an organized, fed, and cared-for workforce. These workers were likely a combination of full-time specialists and seasonal agricultural laborers who worked on construction during the flood months when farming was impossible.
+[Archaeological](/archaeology) excavations at workers' villages near Giza have revealed bakeries, breweries, medical facilities, and orderly cemeteries — evidence of an organized, fed, and cared-for workforce. These workers were likely a combination of full-time specialists and seasonal agricultural laborers who worked on [construction](/construction) during the flood months when farming was impossible.
 
 ### First Intermediate Period (c. 2181-2055 BCE)
 
 Central authority collapsed. Regional governors (nomarchs) became independent rulers. Climate change — reduced Nile floods — may have triggered famines that undermined pharaonic legitimacy. Egypt fragmented into competing kingdoms.
 
-This period is often described negatively (ancient Egyptian texts call it a time of chaos), but it also produced some of Egypt's finest literature, including the philosophical *Dialogue of a Man with His Soul* and the social commentary of *The Admonitions of Ipuwer*.
+This period is often described negatively (ancient Egyptian texts call it a time of chaos), but it also produced some of Egypt's finest literature, including the philosophical *Dialogue of a Man with His Soul* and the [social commentary](/social-commentary) of *The Admonitions of Ipuwer*.
 
 ### Middle Kingdom (c. 2055-1650 BCE) — Egypt's Classical Age
 

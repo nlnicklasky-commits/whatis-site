@@ -5,7 +5,7 @@ description: "Canoeing is the activity of paddling a canoe — an open, lightwei
 category: sports
 tags: ["canoeing", "paddling", "water sports", "outdoor recreation", "canoes", "adventure"]
 heroImage: "/images/articles/canoeing.webp"
-heroAlt: "Two paddlers in a canoe gliding across a calm lake surrounded by autumn foliage"
+heroAlt: "Editorial photograph representing the concept of canoeing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Canoeing is the activity of propelling and navigating a canoe — an open, point
 
 ## Ancient Technology, Modern Joy
 
-The canoe is one of humanity's oldest watercraft designs. North American Indigenous peoples developed birch bark canoes that were light enough to carry over land (portage) between waterways yet sturdy enough to handle rivers and lakes. These boats enabled trade, travel, and resource gathering across a continent connected by waterways.
+The canoe is one of humanity's oldest watercraft designs. North American Indigenous peoples developed birch bark canoes that were light enough to carry over land (portage) between waterways yet sturdy enough to handle rivers and lakes. These boats enabled [trade](/trade), travel, and resource gathering across a continent connected by waterways.
 
 The fur trade era (17th-19th centuries) relied heavily on large canoes — the *canot du maître* (Montreal canoe) was up to 36 feet long and carried 3-4 tons of trade goods. Voyageurs paddled these boats from Montreal to the western interior, covering vast distances through lakes and rivers that served as the highway system of pre-railroad North America.
 
@@ -43,7 +43,7 @@ Today about 10 million Americans canoe at least once annually. The appeal combin
 
 ## Types of Canoeing
 
-**Flatwater/recreational** — Paddling on calm lakes, slow rivers, and ponds. The most accessible form. A stable, recreational canoe is forgiving of beginner mistakes and carries gear for day trips or weekend camping.
+**Flatwater/recreational** — Paddling on calm lakes, slow rivers, and ponds. The most accessible form. A stable, recreational canoe is forgiving of beginner mistakes and carries gear for day trips or weekend [camping](/camping).
 
 **River tripping** — Multi-day canoe trips on rivers, combining paddling with camping. The Boundary Waters Canoe Area Wilderness (Minnesota), Algonquin Provincial Park (Ontario), and rivers throughout Canada and the northern U.S. are premier destinations. You paddle during the day, camp on the shore at night, and experience wilderness the way people have for millennia.
 
@@ -87,6 +87,6 @@ The pace of canoe travel — 3-4 miles per hour at a comfortable cruising speed 
 
 Cold water is the primary danger in canoeing. Immersion in water below 60°F can cause incapacitation within minutes. Always wear your PFD (not just carry it in the boat), dress for water temperature rather than air temperature, and know self-rescue techniques appropriate to your canoeing environment.
 
-On rivers, learn to read water — identifying safe channels, recognizing hazards (strainers, hydraulics, undercut rocks), and knowing when to scout or portage around rapids that exceed your skill level. Hubris drowns more paddlers than rapids do.
+On rivers, learn to read water — identifying safe channels, recognizing hazards (strainers, [hydraulics](/hydraulics), undercut rocks), and knowing when to scout or portage around rapids that exceed your skill level. Hubris drowns more paddlers than rapids do.
 
-Canoeing connects you to water the way walking connects you to land — directly, physically, at a human pace. Whether you're paddling a wilderness river for a week or circling a local lake for an hour, the combination of effort, scenery, and the quiet swish of a paddle through water is genuinely addictive.
+Canoeing connects you to water the way [walking](/walking) connects you to land — directly, physically, at a human pace. Whether you're paddling a wilderness river for a week or circling a local lake for an hour, the combination of effort, scenery, and the quiet swish of a paddle through water is genuinely addictive.

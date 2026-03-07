@@ -5,7 +5,7 @@ description: "Talmudic law is the body of Jewish legal discussion found in the T
 category: religion
 tags: ["talmud", "jewish law", "halakha", "rabbinic judaism", "mishnah", "gemara"]
 heroImage: "/images/articles/talmudic-law.webp"
-heroAlt: "An open page of the Talmud showing Hebrew and Aramaic text with commentary"
+heroAlt: "Editorial photograph representing the concept of talmudic law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The Talmud isn't a law code in the way most people think of one. It's not a list
 
 The Talmud consists of two layers:
 
-**The Mishnah** (compiled ~200 CE) — The first written compilation of Jewish oral law, organized by Rabbi Judah the Prince (*Yehudah HaNasi*). The Mishnah contains concise legal statements organized into six major divisions (*sedarim*) covering agriculture, festivals, family law, damages, sacred things, and ritual purity.
+**The Mishnah** (compiled ~200 CE) — The first written compilation of Jewish oral law, organized by Rabbi Judah the Prince (*Yehudah HaNasi*). The Mishnah contains concise legal statements organized into six major divisions (*sedarim*) covering [agriculture](/agriculture), festivals, [family law](/family-law), damages, sacred things, and ritual purity.
 
 **The Gemara** (compiled ~500 CE for the Babylonian version) — Centuries of rabbinic analysis, commentary, and debate on the Mishnah. The Gemara is far longer than the Mishnah — for every paragraph of Mishnah, there may be pages of Gemara discussion.
 
@@ -77,19 +77,19 @@ Talmudic law addresses property damage, theft, personal injury, contract dispute
 
 ## Influence Beyond Judaism
 
-Talmudic legal thinking has influenced Western [jurisprudence](/jurisprudence) and legal philosophy in several ways:
+Talmudic legal thinking has influenced Western [jurisprudence](/jurisprudence) and legal [philosophy](/philosophy) in several ways:
 
 - The principle that a person is innocent until proven guilty has Talmudic roots
 - The requirement for two witnesses in capital cases parallels constitutional protections
-- Talmudic contract law and tort law show sophisticated approaches to liability, negligence, and damages
+- Talmudic [contract law](/contract-law) and [tort law](/tort-law) show sophisticated approaches to liability, negligence, and damages
 - The emphasis on reasoned debate, documented dissent, and evolving interpretation resonates with common law traditions
 
 Many prominent legal scholars and judges — including U.S. Supreme Court justices — have cited Talmudic reasoning as a valuable intellectual resource.
 
 ## Studying Talmud Today
 
-Talmud study remains central to Jewish education, particularly in Orthodox communities. The Daf Yomi ("Daily Page") program, started in 1923, guides participants through the entire Babylonian Talmud — one page per day, completing the cycle in roughly 7.5 years. Hundreds of thousands of people worldwide participate in each cycle.
+Talmud study remains central to Jewish [education](/education), particularly in Orthodox communities. The Daf Yomi ("Daily Page") program, started in 1923, guides participants through the entire Babylonian Talmud — one page per day, completing the cycle in roughly 7.5 years. Hundreds of thousands of people worldwide participate in each cycle.
 
 Modern digital resources, particularly Sefaria (a free online library of Jewish texts), have made Talmud study more accessible than ever. English translations, including the Steinsaltz and Koren editions, provide commentary and context for students without advanced Hebrew and [Aramaic](/theology) skills.
 
-The Talmud is not light reading. But for those willing to engage with it, it offers an extraordinary intellectual experience — centuries of brilliant minds wrestling with the hardest questions about law, ethics, and how human beings should live.
+The Talmud is not light reading. But for those willing to engage with it, it offers an extraordinary intellectual experience — centuries of brilliant minds [wrestling](/wrestling) with the hardest questions about law, ethics, and how human beings should live.

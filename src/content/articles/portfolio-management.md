@@ -5,7 +5,7 @@ description: "Portfolio management is the process of selecting and overseeing in
 category: finance
 tags: ["portfolio management", "investment", "asset allocation", "financial planning", "risk management", "wealth management"]
 heroImage: "/images/articles/portfolio-management-hero.webp"
-heroAlt: "Financial dashboard showing diversified investment portfolio allocation across asset classes"
+heroAlt: "Editorial photograph representing the concept of portfolio management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,7 +63,7 @@ Asset allocation — how you divide your money among different types of investme
 
 **Commodities** (gold, oil, agricultural products) are physical goods traded on exchanges. They tend to perform well during inflation and poorly during economic growth — making them useful diversifiers. Gold in particular has a centuries-long track record as a store of value during crises.
 
-**Alternative investments** — hedge funds, private equity, venture capital, cryptocurrencies, collectibles — are everything else. They often promise higher returns or better diversification but come with higher fees, lower liquidity, and more complexity.
+**Alternative investments** — hedge funds, [private equity](/private-equity), [venture capital](/venture-capital), cryptocurrencies, collectibles — are everything else. They often promise higher returns or better diversification but come with higher fees, lower liquidity, and more complexity.
 
 ### How to Allocate: The Big Question
 
@@ -103,7 +103,7 @@ Active management isn't completely dead, despite the data. There are legitimate 
 
 **Tax management** — active managers can harvest tax losses, manage capital gains distributions, and potentially generate better after-tax returns than index funds that must sell holdings when the index changes.
 
-**Risk management** — in severe downturns, some active managers protect capital by moving to cash or defensive positions. Index funds ride the market all the way down.
+**[Risk management](/risk-management)** — in severe downturns, some active managers protect capital by moving to cash or defensive positions. Index funds ride the market all the way down.
 
 **Values-based investing** — if you want to exclude specific industries (fossil fuels, weapons, tobacco) or emphasize ESG (Environmental, Social, Governance) criteria, active selection is necessary, though ESG index funds are increasingly available.
 
@@ -188,7 +188,7 @@ Despite these limitations, MPT remains the starting framework for portfolio cons
 
 ## Professional Portfolio Management
 
-### The Wealth Management Industry
+### The [Wealth Management](/wealth-management) Industry
 
 The professional portfolio management industry manages over $100 trillion globally. It includes:
 
@@ -220,7 +220,7 @@ The biggest threat to your portfolio isn't the stock market — it's you. [Behav
 
 **Overconfidence** — most investors believe they're above average, which is mathematically impossible. Overconfident investors trade more frequently, incurring higher costs, and perform worse than patient investors.
 
-The data on investor behavior is damning. Dalbar's annual Quantitative Analysis of Investor Behavior consistently shows that the average investor earns significantly less than the funds they invest in — because they buy after prices rise and sell after prices fall.
+The data on investor behavior is damning. Dalbar's annual [Quantitative Analysis](/quantitative-analysis) of Investor Behavior consistently shows that the average investor earns significantly less than the funds they invest in — because they buy after prices rise and sell after prices fall.
 
 The single most valuable thing a portfolio manager can do is prevent clients from making emotionally driven mistakes. This alone often justifies advisory fees.
 

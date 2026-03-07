@@ -5,7 +5,7 @@ description: "Flight simulation recreates the experience of flying aircraft usin
 category: technology
 tags: ["aviation", "simulation", "pilot training", "aerospace", "aircraft", "virtual reality", "flight"]
 heroImage: "/images/articles/flight-simulation-hero.webp"
-heroAlt: "A flight simulator cockpit with realistic instrument panels and a projected runway view"
+heroAlt: "Editorial photograph representing the concept of flight simulation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -89,7 +89,7 @@ These are the big ones — complete cockpit replicas mounted on motion platforms
 
 **Level A** is the entry point. It requires a motion system with at least three degrees of freedom and a daylight/twilight visual system with at least a 45-degree horizontal field of view per pilot. Sound is required but basic.
 
-**Level B** adds requirements for more realistic ground handling, additional special effects, and an improved visual system.
+**Level B** adds requirements for more realistic ground handling, additional [special effects](/special-effects), and an improved visual system.
 
 **Level C** requires a six-degree-of-freedom motion system, a daylight/dusk/night visual system with at least a 75-degree horizontal field of view, and a sound system that includes significant cockpit sounds.
 
@@ -127,7 +127,7 @@ Pilots practice these scenarios until the correct response is instinctive. The s
 
 ### Phase Three: Line-Oriented Flight Training (LOFT)
 
-LOFT scenarios simulate complete flights from gate to gate, including realistic ATC communications, weather deviations, and passenger medical emergencies. The goal is decision-making under realistic workload — not just stick-and-rudder skills but crew resource management, communication, and judgment.
+LOFT scenarios simulate complete flights from gate to gate, including realistic ATC communications, weather deviations, and passenger medical emergencies. The goal is decision-making under realistic workload — not just stick-and-rudder skills but crew [resource management](/resource-management), communication, and judgment.
 
 These sessions are typically not interrupted for instruction. The crew handles whatever happens, and the debrief afterward analyzes their performance. This approach, developed after analyzing accidents caused by cockpit communication failures, has been credited with significantly improving airline safety.
 
@@ -159,7 +159,7 @@ This matters more than you might think. Experienced pilots fly partly by feel �
 
 ## Flight Simulation for Engineering and Research
 
-Beyond pilot training, flight simulation serves critical roles in [aerospace engineering](/aerospace-engineering) and research.
+Beyond [pilot training](/pilot-training), flight simulation serves critical roles in [aerospace engineering](/aerospace-engineering) and research.
 
 ### Aircraft Design and Testing
 
@@ -187,7 +187,7 @@ The home flight simulation community is enormous — and surprisingly serious.
 
 ### The Major Platforms
 
-**Microsoft Flight Simulator** has been around since 1982, making it one of the longest-running software franchises in history. The 2020 edition (and its 2024 update) uses Azure cloud computing to stream photorealistic scenery, real-time weather data from actual weather stations, and live air traffic data. The visual quality shocked even professional simulator developers.
+**Microsoft Flight Simulator** has been around since 1982, making it one of the longest-running software franchises in history. The 2020 edition (and its 2024 update) uses Azure [cloud computing](/cloud-computing) to stream photorealistic scenery, real-time weather data from actual weather stations, and live air traffic data. The visual quality shocked even professional simulator developers.
 
 **X-Plane** takes a different approach, using blade element theory to model aerodynamics from first principles. This makes it popular with engineers and experimenters because you can design a completely fictional aircraft and get plausible flight characteristics. The FAA has certified X-Plane-based systems as Aviation Training Devices.
 
@@ -211,7 +211,7 @@ This community has produced real-world pilots. Many flight training students cre
 
 ## The Role of VR and AR
 
-Virtual reality has entered flight simulation with mixed results.
+[Virtual reality](/virtual-reality) has entered flight simulation with mixed results.
 
 The promise is obvious: instead of looking at a flat monitor, you're immersed in a 3D cockpit with head tracking that lets you look around naturally. Lean forward to read a gauge. Glance out the side window during a turn. Check behind you for traffic.
 

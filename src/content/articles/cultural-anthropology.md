@@ -5,7 +5,7 @@ description: "Cultural anthropology studies human cultures, beliefs, and social 
 category: everyday-concepts
 tags: ["cultural anthropology", "anthropology", "culture", "ethnography", "society", "human behavior"]
 heroImage: "/images/articles/cultural-anthropology.webp"
-heroAlt: "An anthropologist taking field notes while observing a community gathering"
+heroAlt: "Editorial photograph representing the concept of cultural anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Cultural Anthropology?
 
-Cultural anthropology is the branch of [anthropology](/anthropology) that studies human cultures — their beliefs, practices, social structures, values, and ways of making meaning. While other disciplines study humans through biology, history, or economics, cultural anthropology asks a distinctive question: How do people in different societies understand and organize their world, and why do those understandings differ so dramatically?
+Cultural anthropology is the branch of [anthropology](/anthropology) that studies human cultures — their beliefs, practices, social structures, values, and ways of making meaning. While other disciplines study humans through [biology](/biology), history, or [economics](/economics), cultural anthropology asks a distinctive question: How do people in different societies understand and organize their world, and why do those understandings differ so dramatically?
 
 ## The Fundamental Insight
 
@@ -47,7 +47,7 @@ Cultural relativism doesn't mean "anything goes" or that all practices are moral
 
 What makes cultural anthropology distinctive among social sciences is its commitment to **participant observation** — living within the community you're studying for an extended period, participating in daily life, learning the language, and building relationships.
 
-Bronislaw Malinowski pioneered this approach in the Trobriand Islands during World War I. Stranded there by the war, he spent years learning the Trobriand language, participating in ceremonies, and documenting economic exchanges. His resulting ethnography, *Argonauts of the Western Pacific* (1922), demonstrated that "primitive" societies had complex, sophisticated social systems.
+Bronislaw Malinowski pioneered this approach in the Trobriand Islands during [World War I](/world-war-i). Stranded there by the war, he spent years learning the Trobriand language, participating in ceremonies, and documenting economic exchanges. His resulting ethnography, *Argonauts of the Western Pacific* (1922), demonstrated that "primitive" societies had complex, sophisticated social systems.
 
 Fieldwork is messy, personal, and unpredictable. You eat what your hosts eat. You attend ceremonies at 3 AM. You learn to ask questions without being intrusive. You work through the ethical tension between observing and participating. You write extensive field notes, knowing that your own biases and cultural assumptions inevitably shape what you notice and record.
 
@@ -75,11 +75,11 @@ The standard fieldwork period is 12 to 24 months — long enough to see seasonal
 
 Contemporary cultural anthropology has expanded far beyond studying "exotic" non-Western societies. Anthropologists now study corporations, hospitals, online communities, financial markets, laboratories, and military organizations — any social setting where human culture operates.
 
-**Medical anthropology** examines how different cultures understand health, illness, and healing. The disconnect between biomedical and traditional healing systems affects healthcare delivery worldwide.
+**[Medical anthropology](/medical-anthropology)** examines how different cultures understand health, illness, and healing. The disconnect between biomedical and traditional healing systems affects healthcare delivery worldwide.
 
 **Digital anthropology** studies how people create culture and community through technology. How do online forums develop their own norms? How does social media reshape identity? These are anthropological questions applied to contemporary life.
 
-**Applied anthropology** brings cultural understanding to practical problems — designing public health campaigns that account for local beliefs, helping businesses understand foreign markets, advising development organizations on community dynamics.
+**Applied anthropology** brings cultural understanding to practical problems — designing [public health](/public-health) campaigns that account for local beliefs, helping businesses understand foreign markets, advising development organizations on community dynamics.
 
 The discipline continues to grapple with its colonial origins — early anthropology was entangled with imperialism, and the power dynamics of outsiders studying (and sometimes misrepresenting) less powerful communities remain ethically fraught. Modern anthropologists take these issues seriously, emphasizing collaborative research, community consent, and giving research subjects voice in how their stories are told.
 

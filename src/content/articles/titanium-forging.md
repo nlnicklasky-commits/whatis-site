@@ -5,7 +5,7 @@ description: "Titanium forging shapes titanium alloys under heat and pressure in
 category: everyday-concepts
 tags: ["titanium forging", "metalworking", "aerospace", "manufacturing", "materials science", "engineering"]
 heroImage: "/images/articles/titanium-forging.webp"
-heroAlt: "A glowing titanium billet being shaped under a hydraulic forging press"
+heroAlt: "Editorial photograph representing the concept of titanium forging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Titanium forging is the process of shaping titanium and its alloys into desired forms by applying compressive force at elevated temperatures. The heated metal is pressed, hammered, or rolled between dies to create parts with superior mechanical properties — greater strength, better fatigue resistance, and more consistent grain structure than cast or machined components.
 
-Titanium is one of the most remarkable engineering materials available. It's as strong as many steels but 45% lighter. It resists corrosion from saltwater, acids, and body fluids. It's biocompatible — the human body doesn't reject it. And it maintains its strength at temperatures up to about 600°C. The catch? Working with it is genuinely difficult and expensive.
+Titanium is one of the most remarkable [engineering](/engineering) materials available. It's as strong as many steels but 45% lighter. It resists corrosion from saltwater, acids, and body fluids. It's biocompatible — the human body doesn't reject it. And it maintains its strength at temperatures up to about 600°C. The catch? Working with it is genuinely difficult and expensive.
 
 ## Why Forge Titanium?
 
@@ -83,4 +83,4 @@ Forging capacity is similarly concentrated. Only a handful of companies worldwid
 
 This concentration creates supply chain vulnerability. Geopolitical disruptions — like sanctions on Russian titanium exports — can send ripples through the global aerospace industry. Efforts to develop new titanium extraction methods and diversify the supply chain are ongoing.
 
-Titanium forging sits at the intersection of materials science, manufacturing engineering, and extreme performance requirements. It's expensive, difficult, and essential for the technologies that define modern aviation, medicine, and defense.
+Titanium forging sits at the intersection of materials science, [manufacturing engineering](/manufacturing-engineering), and extreme performance requirements. It's expensive, difficult, and essential for the technologies that define modern [aviation](/aviation), medicine, and defense.

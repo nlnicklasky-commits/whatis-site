@@ -5,7 +5,7 @@ description: "The Internet of Things connects everyday devices to the internet f
 category: everyday-concepts
 tags: ["internet of things iot", "smart devices", "automation", "sensors", "connected technology"]
 heroImage: "/images/articles/internet-of-things-iot.webp"
-heroAlt: "Smart home devices including thermostat, lights, and security camera connected by network lines"
+heroAlt: "Editorial photograph representing the concept of internet of things (iot)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Internet of Things (IoT)?
 
-The Internet of Things refers to the network of physical objects — devices, vehicles, appliances, sensors — embedded with electronics, software, and connectivity that enables them to collect and exchange data over the internet. Your smart thermostat that learns your schedule, the sensors in a factory that predict equipment failures, and the GPS tracker on a shipping container are all IoT devices. There are roughly 18 billion of them worldwide, and the number is growing fast.
+The Internet of Things refers to the network of physical objects — devices, vehicles, appliances, sensors — embedded with [electronics](/electronics), software, and connectivity that enables them to collect and exchange data over the internet. Your smart thermostat that learns your schedule, the sensors in a factory that predict equipment failures, and the GPS tracker on a shipping container are all IoT devices. There are roughly 18 billion of them worldwide, and the number is growing fast.
 
 ## The Basic Idea
 
@@ -39,11 +39,11 @@ Take any physical object. Add a sensor (to measure something), a processor (to m
 
 The value comes from three capabilities:
 
-**Monitoring** — knowing what is happening in real time. Is the factory equipment running at the right temperature? Is the soil moisture level adequate for crops? Did someone just open the front door?
+**Monitoring** — knowing what is happening in real time. Is the factory equipment [running](/running) at the right temperature? Is the soil moisture level adequate for crops? Did someone just open the front door?
 
-**Automation** — acting on that information without human intervention. The thermostat adjusts when nobody is home. The irrigation system waters when soil sensors detect dryness. The factory line pauses when a sensor detects a defect.
+**Automation** — [acting](/acting) on that information without human intervention. The thermostat adjusts when nobody is home. The [irrigation](/irrigation) system waters when soil sensors detect dryness. The factory line pauses when a sensor detects a defect.
 
-**Optimization** — using collected data to improve systems over time. Analyzing energy usage patterns to reduce bills. Predicting when a machine will need maintenance before it breaks down. Routing delivery trucks based on real-time traffic data.
+**[Optimization](/optimization)** — using collected data to improve systems over time. Analyzing energy usage patterns to reduce bills. Predicting when a machine will need maintenance before it breaks down. Routing delivery trucks based on real-time traffic data.
 
 ## Where IoT Is Used
 
@@ -51,11 +51,11 @@ The value comes from three capabilities:
 
 **Industrial IoT (IIoT)** is where the real money is. Manufacturing plants use thousands of sensors to monitor equipment condition, production quality, and energy consumption. Predictive maintenance — detecting that a bearing is wearing out weeks before it fails — saves industries billions annually in unplanned downtime.
 
-**Agriculture** uses IoT for precision farming: soil moisture sensors, weather stations, drone-based crop monitoring, and automated irrigation. This data-driven approach can reduce water usage by 20-30% while increasing yields.
+**[Agriculture](/agriculture)** uses IoT for precision [farming](/farming): soil moisture sensors, weather stations, drone-based crop monitoring, and automated irrigation. This data-driven approach can reduce water usage by 20-30% while increasing yields.
 
 **Healthcare** devices include remote patient monitors, connected insulin pumps, smart inhalers, and wearable ECG monitors. These enable continuous health tracking and reduce hospital visits.
 
-**Smart cities** deploy IoT for traffic management, parking guidance, air quality monitoring, smart street lighting, and waste collection optimization. Barcelona's smart city program reportedly saves $42.5 million annually in water management alone.
+**Smart cities** deploy IoT for traffic [management](/management), parking guidance, air quality monitoring, smart street lighting, and waste collection optimization. Barcelona's smart city program reportedly saves $42.5 million annually in [water management](/water-management) alone.
 
 ## How IoT Works Technically
 
@@ -87,7 +87,7 @@ Improving IoT security requires manufacturers to build it in from the start, con
 
 IoT devices collect intimate data — when you are home, what you watch, how you sleep, where you drive, what you eat. This data flows to device manufacturers, cloud providers, and sometimes third-party advertisers. The privacy implications are significant and often poorly communicated to consumers.
 
-Smart speakers record audio. Smart TVs track viewing habits. Connected cars log location data. Fitness trackers share health information. The aggregate picture — across dozens of devices — creates a detailed profile of daily life that most people would find uncomfortable if they fully understood it.
+Smart speakers record audio. Smart TVs track viewing habits. Connected cars log location data. [Fitness](/fitness) trackers share health information. The aggregate picture — across dozens of devices — creates a detailed profile of daily life that most people would find uncomfortable if they fully understood it.
 
 ## Where IoT Is Headed
 

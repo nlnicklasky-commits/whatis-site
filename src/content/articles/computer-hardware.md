@@ -5,7 +5,7 @@ description: "Computer hardware includes all the physical components of a comput
 category: technology
 tags: ["computing", "hardware", "electronics", "computer components", "it", "cpu", "memory"]
 heroImage: "/images/articles/computer-hardware-hero.webp"
-heroAlt: "Inside view of a desktop computer showing the motherboard, CPU cooler, RAM, and graphics card"
+heroAlt: "Editorial photograph representing the concept of computer hardware"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,7 +51,7 @@ Before diving into individual components, it helps to understand the basic flow.
 4. **Storage** holds data permanently
 5. **Output devices** (monitor, speakers, printer) present results
 6. The **motherboard** connects everything together
-7. The **power supply** keeps it all running
+7. The **power supply** keeps it all [running](/running)
 
 Every piece depends on the others. A blazing-fast CPU is useless without enough RAM to feed it data. A massive storage drive doesn't help if the CPU can't process what's on it quickly enough. Understanding how components interact is just as important as knowing what each one does.
 
@@ -63,7 +63,7 @@ The Central Processing Unit is the primary processor that executes program instr
 
 A CPU executes instructions in a cycle: fetch an instruction from memory, decode it to figure out what to do, execute the operation, and write the result. Modern CPUs do this billions of times per second.
 
-What makes modern CPUs remarkable is how many tricks they use to go faster. They don't just execute one instruction at a time — they use [pipelining, out-of-order execution, and branch prediction](/computer-architecture) to process multiple instructions simultaneously. A modern Intel or AMD processor might have 20+ pipeline stages and execute 4-6 instructions per clock cycle.
+What makes modern CPUs remarkable is how many tricks they use to go faster. They don't just execute one instruction at a time — they use [pipelining, out-of-order execution, and branch prediction](/computer-[architecture](/architecture)) to process multiple instructions simultaneously. A modern Intel or AMD processor might have 20+ pipeline stages and execute 4-6 instructions per clock cycle.
 
 ### Key CPU Specifications
 
@@ -96,8 +96,8 @@ RAM is dramatically faster than storage. DDR5 RAM transfers data at 50-70 GB/s. 
 **How much RAM do you actually need?**
 
 - 8 GB — bare minimum for modern use. Fine for web browsing and basic office work. You'll feel the limit with many browser tabs or larger applications.
-- 16 GB — the sweet spot for most people in 2026. Handles multitasking, gaming, photo editing, and general development comfortably.
-- 32 GB — recommended for video editing, professional 3D work, heavy software development, or running virtual machines.
+- 16 GB — the sweet spot for most people in 2026. Handles multitasking, gaming, photo [editing](/editing), and general development comfortably.
+- 32 GB — recommended for [video editing](/video-editing), professional 3D work, heavy software development, or running virtual machines.
 - 64 GB+ — specialized workloads like [machine learning](/machine-learning), scientific computing, or running many virtual machines simultaneously.
 
 ### DDR5 vs. DDR4
@@ -142,7 +142,7 @@ The motherboard is the main circuit board that connects every component. CPU, RA
 
 ## The GPU: Graphics and Beyond
 
-The Graphics Processing Unit was originally designed for rendering [computer graphics](/computer-graphics) — turning 3D geometry into pixels on your screen. But GPUs have become general-purpose parallel processors used for [machine learning](/machine-learning), scientific computing, cryptocurrency mining, and video encoding.
+The Graphics Processing Unit was originally designed for rendering [computer graphics](/computer-graphics) — turning 3D [geometry](/geometry) into pixels on your screen. But GPUs have become general-purpose parallel processors used for [machine learning](/machine-learning), scientific computing, cryptocurrency mining, and video encoding.
 
 ### Integrated vs. Dedicated Graphics
 
@@ -202,7 +202,7 @@ Peripherals are the devices you interact with directly.
 
 **Mice** range from $10 basic models to $150+ gaming mice with adjustable DPI (sensitivity), multiple buttons, and wireless technology with imperceptible latency. For general use, any decent mouse works. For gaming or precision work, sensor quality and shape matter.
 
-**Microphones, webcams, drawing tablets, game controllers** — the peripheral ecosystem is vast. Quality varies enormously at every price point.
+**Microphones, webcams, [drawing](/drawing) tablets, game controllers** — the peripheral ecosystem is vast. Quality varies enormously at every price point.
 
 ### Output Devices
 

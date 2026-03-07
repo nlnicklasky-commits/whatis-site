@@ -5,7 +5,7 @@ description: "Theology is the systematic study of the nature of God, religious b
 category: religion
 tags: ["theology", "religion", "god", "faith", "doctrine", "ethics"]
 heroImage: "/images/articles/theology.webp"
-heroAlt: "A scholar studying religious texts at a desk surrounded by ancient books"
+heroAlt: "Editorial photograph representing the concept of theology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Theology is the systematic study of the divine — the nature of God (or gods), the relationship between the divine and the human, and the implications of religious belief for how we live, think, and organize society. The word comes from the Greek *theos* (god) and *logos* (study/word), and the practice has been a central intellectual activity in every major civilization.
 
-Whether or not you're religious, theology matters. Theological ideas have shaped laws, constitutions, wars, art, [ethics](/ethics), education, and the daily lives of billions of people. Understanding theology — even from the outside — is essential for understanding human history and culture.
+Whether or not you're religious, theology matters. Theological ideas have shaped laws, constitutions, wars, art, [ethics](/ethics), [education](/education), and the daily lives of billions of people. Understanding theology — even from the outside — is essential for understanding human history and culture.
 
 ## The Major Branches
 
 ### Systematic Theology
 
-The attempt to organize religious beliefs into a coherent, logical system. What is God's nature? How does God relate to creation? What is the human condition? What is salvation, and how is it achieved? Systematic theologians work through these questions methodically, drawing on scripture, tradition, reason, and experience.
+The attempt to organize religious beliefs into a coherent, logical system. What is God's nature? How does God relate to creation? What is the human condition? What is salvation, and how is it achieved? Systematic theologians work through these questions methodically, [drawing](/drawing) on scripture, tradition, reason, and experience.
 
 Major systematic theologians include Thomas Aquinas (Catholic), John Calvin (Reformed Protestant), Karl Barth (neo-orthodox), and Paul Tillich (liberal Protestant).
 
@@ -49,15 +49,15 @@ The study of theological themes within the Bible itself — tracing how concepts
 
 ### Historical Theology
 
-How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-religion) theology traces the evolution of religious thought.
+How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-[religion](/religion)) theology traces the evolution of religious thought.
 
 ### Moral Theology / Theological Ethics
 
-How religious beliefs inform ethical decision-making. What does faith require regarding justice, war, poverty, sexuality, medical ethics, and environmental stewardship? This branch bridges theology and practical life.
+How religious beliefs inform ethical decision-making. What does faith require regarding justice, war, poverty, sexuality, [medical ethics](/medical-ethics), and environmental stewardship? This branch bridges theology and practical life.
 
 ### Philosophical Theology
 
-The intersection of theology and philosophy. Does God exist? Can God's existence be proven? How do we reconcile an all-good, all-powerful God with the existence of evil (the "theodicy" problem)? Philosophical theologians use rational argument rather than (or alongside) scriptural authority.
+The intersection of theology and [philosophy](/philosophy). Does God exist? Can God's existence be proven? How do we reconcile an all-good, all-powerful God with the existence of evil (the "theodicy" problem)? Philosophical theologians use rational argument rather than (or alongside) scriptural authority.
 
 ## The Big Questions
 
@@ -91,7 +91,7 @@ While "theology" is most commonly associated with Christian thought, analogous i
 
 ## Theology Today
 
-Modern theology grapples with contemporary challenges: how to maintain religious tradition in a secular age, how to address religious pluralism, how to respond to scientific discoveries, and how to engage with social justice movements.
+Modern theology grapples with contemporary challenges: how to maintain religious tradition in a secular age, how to address religious pluralism, how to respond to scientific discoveries, and how to engage with [social justice](/social-justice) movements.
 
 Liberation theology emphasizes God's preferential concern for the poor and marginalized. Feminist theology critiques patriarchal structures within religious traditions. Ecological theology addresses environmental [responsibility](/comparative-religion) as a spiritual imperative. Process theology reimagines God's relationship with the world in light of modern science.
 

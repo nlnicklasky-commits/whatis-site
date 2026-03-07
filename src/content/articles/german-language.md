@@ -5,7 +5,7 @@ description: "German is a West Germanic language spoken by over 130 million peop
 category: philosophy
 tags: ["german language", "linguistics", "germanic languages", "germany", "language learning", "indo-european", "culture"]
 heroImage: "/images/articles/german-language-hero.webp"
-heroAlt: "German text and cultural symbols representing the German language and its heritage"
+heroAlt: "Editorial photograph representing the concept of the german language"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ The story of German is really the story of Europe. Wars, religious upheavals, po
 
 **Middle High German (circa 1050-1350)** was the language of medieval courtly literature. This is the period of the *Nibelungenlied* (the Germanic epic that inspired Wagner's Ring Cycle), the Minnesanger (courtly love poets), and significant literary production. The language was closer to modern German but still very different—no standardized spelling, no standard grammar, enormous dialect variation.
 
-**Early New High German (circa 1350-1650)** was the critical transition period. Two developments shaped the modern language more than anything else: the invention of the printing press and Martin Luther's Bible translation.
+**Early New High German (circa 1350-1650)** was the critical transition period. Two developments shaped the modern language more than anything else: the invention of the printing press and Martin Luther's Bible [translation](/translation).
 
 ### Luther and the Printing Press
 
@@ -61,7 +61,7 @@ The printing press amplified this standardizing effect enormously. Before printi
 
 ## How German Works
 
-If you're used to English, German grammar will feel both familiar and alien. The languages share a common ancestor, so the basic architecture is similar. But German preserved several features that English mostly abandoned.
+If you're used to English, German grammar will feel both familiar and alien. The languages share a common ancestor, so the basic [architecture](/architecture) is similar. But German preserved several features that English mostly abandoned.
 
 ### The Case System
 
@@ -135,11 +135,11 @@ German-speaking communities exist worldwide due to historical migration. The Pen
 
 ## German in Science and Culture
 
-German's influence on intellectual history is enormous. For centuries, German was *the* language of science, philosophy, and music.
+German's influence on [intellectual history](/intellectual-history) is enormous. For centuries, German was *the* language of science, philosophy, and music.
 
 ### Scientific German
 
-Before World War II, German was arguably the most important language of science. Einstein published in German. Max Planck, Werner Heisenberg, Erwin Schrodinger—the founders of quantum mechanics—worked and published in German. The periodic table uses German-derived element names (Wolfram for tungsten, Kalium for potassium).
+Before [World War II](/world-war-ii), German was arguably the most important language of science. Einstein published in German. Max Planck, Werner Heisenberg, Erwin Schrodinger—the founders of [quantum mechanics](/quantum-mechanics)—worked and published in German. The periodic table uses German-derived element names (Wolfram for tungsten, Kalium for potassium).
 
 The shift to English as science's dominant language is a 20th-century phenomenon, driven largely by World War II and America's subsequent scientific dominance. But German remains significant in specific fields—particularly [chemistry](/chemistry), [philosophy](/aesthetics), musicology, and theology.
 
@@ -151,7 +151,7 @@ German is the language of Kant, Hegel, Nietzsche, Marx, Heidegger, and Wittgenst
 
 German is the language of Bach, Beethoven, Mozart, Wagner, Brahms, and Strauss. Opera and classical vocal music have deep German roots—lieder (art songs) are a distinctly German musical form. Understanding German enriches the experience of this vast musical tradition.
 
-German literature—from Goethe and Schiller through Thomas Mann, Franz Kafka (who wrote in German though he lived in Prague), and Gunter Grass—ranks among the world's richest. The Brothers Grimm didn't just collect fairy tales; they also created the first major German dictionary, a project so enormous it wasn't completed until 1961—over a century after they started.
+German literature—from Goethe and Schiller through Thomas Mann, Franz Kafka (who wrote in German though he lived in Prague), and Gunter Grass—ranks among the world's richest. The Brothers Grimm didn't just collect [fairy tales](/fairy-tales); they also created the first major German dictionary, a project so enormous it wasn't completed until 1961—over a century after they started.
 
 ## Learning German Today
 
@@ -183,7 +183,7 @@ German's global position has shifted. It's no longer the dominant language of sc
 
 **Economically**, Germany has the world's fourth-largest economy. German is the language of major global companies—Volkswagen, Siemens, SAP, BASF, BMW, Bosch. In European business, German is often more useful than French or Spanish because of Germany's economic weight.
 
-**Academically**, Germany is the third-most-popular destination for international students (after the US and UK). German universities produce significant research, particularly in engineering, [chemistry](/chemistry), physics, and medicine.
+**Academically**, Germany is the third-most-popular destination for international students (after the US and UK). German universities produce significant research, particularly in [engineering](/engineering), [chemistry](/chemistry), physics, and medicine.
 
 **Digitally**, German is the second-most-used language on the internet (by number of websites), after English. Wikipedia's German edition is the second-largest.
 
@@ -205,4 +205,4 @@ German is a West Germanic language with about 130 million speakers, the most spo
 
 Its grammar features three genders, four cases, compound word formation, and distinctive word-order rules that differ significantly from English. Despite these challenges, shared vocabulary with English gives English speakers a meaningful advantage in learning it.
 
-German's contributions to science, philosophy, music, and literature are immense. Its economic importance—anchored by Europe's largest economy—ensures it remains relevant in international business and education. Whether you encounter it through Beethoven's lieder, Kant's philosophy, or a German engineering manual, the language rewards engagement with precision, depth, and a distinctly German way of carving the world into words.
+German's contributions to science, philosophy, music, and literature are immense. Its economic importance—anchored by Europe's largest economy—ensures it remains relevant in [international business](/international-business) and education. Whether you encounter it through Beethoven's lieder, Kant's philosophy, or a German engineering manual, the language rewards engagement with precision, depth, and a distinctly German way of carving the world into words.

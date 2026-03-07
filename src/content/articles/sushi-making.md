@@ -5,7 +5,7 @@ description: "Sushi making is the Japanese culinary art of preparing vinegared r
 category: arts-amp-culture
 tags: ["sushi making", "Japanese cuisine", "culinary arts", "cooking", "seafood", "rice"]
 heroImage: "/images/articles/sushi-making.webp"
-heroAlt: "A sushi chef preparing nigiri with fresh fish on a wooden counter"
+heroAlt: "Editorial photograph representing the concept of sushi making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ The iconic form: an oblong mound of rice topped with a slice of fish or seafood,
 
 ### Maki (Rolls)
 
-Rice and fillings wrapped in nori (dried seaweed) and sliced into rounds. The Western obsession with elaborate rolls (dragon rolls, rainbow rolls, deep-fried everything rolls) is almost entirely an American invention. Traditional Japanese maki are simple: a single ingredient wrapped in rice and nori.
+Rice and fillings wrapped in nori (dried seaweed) and sliced into rounds. The Western obsession with elaborate rolls (dragon rolls, rainbow rolls, deep-fried everything rolls) is almost entirely an American [invention](/invention). Traditional Japanese maki are simple: a single ingredient wrapped in rice and nori.
 
 ### Temaki (Hand Rolls)
 
@@ -89,4 +89,4 @@ Over centuries in Japan, the fermentation time shortened. By the Edo period (160
 
 You don't need a decade of training to make decent sushi at home. A rice cooker, quality short-grain rice, rice vinegar, nori sheets, and fresh [fish](/food-science) from a trusted fishmonger will get you started. Maki rolls are the most beginner-friendly — a bamboo rolling mat (*makisu*) costs a couple of dollars and makes the technique much easier.
 
-The gap between homemade and professional sushi is real, though. It's the difference between playing guitar in your bedroom and performing at Carnegie Hall. Both are enjoyable. One takes considerably more practice.
+The gap between homemade and professional sushi is real, though. It's the difference between playing [guitar](/guitar) in your bedroom and performing at Carnegie Hall. Both are enjoyable. One takes considerably more practice.

@@ -5,7 +5,7 @@ description: "Logic puzzles are brain teasers solved through deductive reasoning
 category: everyday-concepts
 tags: ["logic puzzles", "puzzles", "brain teasers", "deductive reasoning", "games", "critical thinking"]
 heroImage: "/images/articles/logic-puzzles.webp"
-heroAlt: "Person working on a Sudoku grid with a pencil on a wooden desk"
+heroAlt: "Editorial photograph representing the concept of logic puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Sudoku, by a wide margin. The number-placement puzzle appears in newspapers in over 90 countries and has spawned numerous apps, books, and competitions. At its peak around 2005-2006, Sudoku mania was compared to the Rubik's Cube craze of the 1980s. It remains hugely popular, with millions of daily solvers worldwide."
 ---
 
-# What Is Logic Puzzles?
+# What Is [Logic](/logic) Puzzles?
 
 Logic puzzles are problems designed to be solved through systematic deductive reasoning. No guessing. No special knowledge. No tricks. Just a set of clues, a set of constraints, and your ability to think through what must be true, what can't be true, and what follows from what.
 
@@ -49,7 +49,7 @@ This type of elimination puzzle — sometimes called an "Einstein puzzle" (thoug
 
 The classic format. You're given a set of categories (names, colors, professions, etc.) and clues that link them. Using a grid to track what's possible, you deduce the unique assignment. These appear in puzzle magazines, apps, and brain training programs worldwide.
 
-### Sudoku
+### [Sudoku](/sudoku)
 
 The global phenomenon. Fill a 9x9 grid with digits 1-9 so that each row, column, and 3x3 box contains each digit exactly once. No arithmetic required — it's pure placement logic. The puzzle was popularized by Japanese publisher Nikoli in 1986 and went global around 2004-2005 when it started appearing in Western newspapers.
 
@@ -75,7 +75,7 @@ These puzzles, popularized by logician Raymond Smullyan, exercise formal logical
 
 ## A Brief History
 
-Logic puzzles have ancient roots. River crossing puzzles appear in medieval manuscripts from as early as the 8th century (attributed to Alcuin of York). Mathematical puzzles and riddles feature in ancient Greek, Indian, and Chinese texts.
+Logic puzzles have ancient roots. River crossing puzzles appear in medieval manuscripts from as early as the 8th century (attributed to Alcuin of York). Mathematical puzzles and [riddles](/riddles) feature in ancient Greek, Indian, and Chinese texts.
 
 The modern logic puzzle tradition took shape in the 19th century. Lewis Carroll (better known as the author of Alice in Wonderland) was an avid puzzle creator and logician who published several books of logic games. Henry Dudeney and Sam Loyd were prolific puzzle designers whose work appeared in newspapers and magazines.
 
@@ -85,7 +85,7 @@ The late 20th and early 21st centuries brought an explosion of puzzle types, lar
 
 The appeal is partly intellectual — the satisfaction of working through a complex deduction and arriving at a clean, certain answer. Unlike many real-world problems, logic puzzles have definite solutions. There's a right answer, and you can verify it.
 
-But there's also a meditative quality. When you're deep in a Sudoku or a grid puzzle, your attention narrows to just the puzzle. The outside world fades. It's a form of focused flow that many solvers describe as calming and restorative — similar to what people report from meditation or crafting.
+But there's also a meditative quality. When you're deep in a Sudoku or a grid puzzle, your attention narrows to just the puzzle. The outside world fades. It's a form of focused flow that many solvers describe as calming and restorative — similar to what people report from [meditation](/meditation) or crafting.
 
 The competitive angle matters too. Puzzle championships are serious events. The World Puzzle Championship, held annually since 1992, attracts top solvers from dozens of countries. Competitive solving requires both logical skill and speed, and the best solvers process deductions at a speed that's honestly hard to believe.
 

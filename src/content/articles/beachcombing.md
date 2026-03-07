@@ -5,7 +5,7 @@ description: "Beachcombing is the recreational activity of searching shorelines 
 category: everyday-concepts
 tags: ["beachcombing", "shells", "sea glass", "driftwood", "coastal exploration", "ocean"]
 heroImage: "/images/articles/beachcombing.webp"
-heroAlt: "Collection of sea glass, shells, and polished stones gathered on a sandy beach"
+heroAlt: "Editorial photograph representing the concept of beachcombing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Beachcombing?
 
-Beachcombing is the practice of walking along shorelines to search for interesting objects — shells, sea glass, driftwood, fossils, unusual stones, and items deposited by the tide. It's part treasure hunt, part nature study, part meditation, and it's been a human pastime for as long as people have lived near water.
+Beachcombing is the practice of [walking](/walking) along shorelines to search for interesting objects — shells, sea glass, driftwood, fossils, unusual stones, and items deposited by the tide. It's part treasure hunt, part nature study, part [meditation](/meditation), and it's been a human pastime for as long as people have lived near water.
 
 ## What Washes Up
 
 The ocean is constantly delivering things to shore, and what shows up depends on location, season, weather, currents, and luck.
 
-**Shells** are the most common finds. Beaches worldwide yield gastropod shells (snail-shaped), bivalves (two-halved, like clams and scallops), and occasionally more exotic specimens — sand dollars, sea urchin tests, and nautilus shells. Shell identification is a branch of [marine biology](/marine-biology) called conchology, and serious collectors can identify hundreds of species on sight.
+**Shells** are the most common finds. Beaches worldwide yield gastropod shells (snail-shaped), bivalves (two-halved, like clams and scallops), and occasionally more exotic specimens — sand dollars, sea urchin tests, and nautilus shells. Shell identification is a branch of [marine biology](/marine-biology) called [conchology](/conchology), and serious collectors can identify hundreds of species on sight.
 
 **Sea glass** — fragments of old glass smoothed and frosted by decades of tumbling in waves and sand — is increasingly prized as it becomes rarer. The most common colors (white, green, brown) come from beverage bottles. Rare colors like cobalt blue, red, and orange can sell for significant amounts to collectors. The process of creating sea glass naturally takes 20-50 years, which is why the best finds come from beaches near historical ports and dumping sites.
 
@@ -45,7 +45,7 @@ The ocean is constantly delivering things to shore, and what shows up depends on
 
 **Fossils** appear on certain coastlines where erosion exposes ancient rock formations. The Jurassic Coast in England, for instance, regularly yields ammonites, belemnites, and occasionally larger marine reptile fossils. Shark teeth are common finds on beaches in Florida, the Carolinas, and Maryland.
 
-**Human-made objects** — glass fishing floats from Japanese and Norwegian fisheries, message bottles, shipwreck debris, historic pottery fragments — add an element of mystery. Where did this come from? How long was it at sea? What's the story?
+**Human-made objects** — glass [fishing](/fishing) floats from Japanese and Norwegian fisheries, message bottles, shipwreck debris, historic [pottery](/pottery) fragments — add an element of mystery. Where did this come from? How long was it at sea? What's the story?
 
 ## The Science of the Strandline
 
@@ -79,6 +79,6 @@ Coral collection is particularly sensitive. Living coral reefs are critically en
 
 Beachcombing's appeal is layered. On the surface, it's about finding interesting objects. Below that, it's about observation — training your eye to spot the unusual among the ordinary. Deeper still, it's about connection: to natural processes, to geological time, to the ocean's perpetual motion.
 
-There's also genuine mental health value. Walking a beach — rhythmic motion, fresh air, ocean sounds, focused attention — produces a meditative state that research has linked to reduced stress and improved mood. The searching adds purpose to what would already be a relaxing walk, engaging your brain just enough to prevent the wandering thoughts that feed anxiety.
+There's also genuine [mental health](/mental-health) value. Walking a beach — rhythmic motion, fresh air, ocean sounds, focused attention — produces a meditative state that research has linked to reduced stress and improved mood. The searching adds purpose to what would already be a relaxing walk, engaging your brain just enough to prevent the wandering thoughts that feed anxiety.
 
 And then there's the surprise factor. You never know what the tide will bring. A perfect sand dollar. A piece of cobalt blue sea glass. A fossil tooth from a creature that swam these waters 10 million years ago. That unpredictability — the sense that the ocean might deliver something extraordinary on any given morning — is what keeps beachcombers coming back, tide after tide.

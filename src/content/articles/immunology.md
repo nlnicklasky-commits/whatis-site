@@ -5,7 +5,7 @@ description: "Immunology is the study of the immune system — how your body fig
 category: everyday-concepts
 tags: ["immunology", "immune system", "biology", "medicine", "vaccines", "autoimmune"]
 heroImage: "/images/articles/immunology.webp"
-heroAlt: "Microscopic view of white blood cells surrounding and attacking a pathogen"
+heroAlt: "Editorial photograph representing the concept of immunology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -84,7 +84,7 @@ The immune system's power comes with risks. Errors in immune regulation cause se
 
 **Autoimmune diseases** — the immune system attacks healthy tissue. Type 1 diabetes, rheumatoid arthritis, lupus, multiple sclerosis, and Crohn's disease are examples. The cause is unclear in most cases — likely a combination of genetic susceptibility and environmental triggers.
 
-**Allergies** — the immune system overreacts to harmless substances (pollen, pet dander, peanuts). IgE antibodies trigger mast cells to release histamine, causing inflammation, itching, and potentially anaphylaxis. Roughly 30% of adults and 40% of children have allergies.
+**[Allergies](/allergies)** — the immune system overreacts to harmless substances (pollen, pet dander, peanuts). IgE antibodies trigger mast cells to release histamine, causing inflammation, itching, and potentially anaphylaxis. Roughly 30% of adults and 40% of children have allergies.
 
 **Immunodeficiency** — the immune system is underactive, leaving the body vulnerable to infections. This can be genetic (primary immunodeficiency) or acquired (HIV/AIDS, chemotherapy, immunosuppressive drugs).
 
@@ -94,10 +94,10 @@ The immune system's power comes with risks. Errors in immune regulation cause se
 
 Immunology is driving some of the most exciting developments in medicine:
 
-**Cancer immunotherapy** — training the immune system to recognize and attack cancer cells. CAR-T cell therapy, checkpoint inhibitors, and cancer vaccines have produced remarkable results against previously untreatable cancers. Immunotherapy earned the 2018 Nobel Prize in Physiology or Medicine.
+**Cancer immunotherapy** — training the immune system to recognize and attack cancer cells. CAR-T cell therapy, checkpoint inhibitors, and cancer vaccines have produced remarkable results against previously untreatable cancers. Immunotherapy earned the 2018 Nobel Prize in [Physiology](/physiology) or Medicine.
 
 **Autoimmune treatments** — moving from broad immunosuppression (which weakens defense against all infections) to targeted therapies that address specific immune dysfunctions.
 
 **Infectious disease** — mRNA vaccine technology, validated during COVID-19, is being applied to flu, HIV, malaria, and tuberculosis.
 
-Your immune system is the most complex biological system you carry around — more cells than stars in the Milky Way, more antibody combinations than atoms in the universe. Understanding it is one of the great ongoing projects of biology.
+Your immune system is the most complex biological system you carry around — more cells than stars in the Milky Way, more antibody combinations than atoms in the universe. Understanding it is one of the great ongoing projects of [biology](/biology).

@@ -5,7 +5,7 @@ description: "Geochemistry studies the chemical composition of Earth and other p
 category: science
 tags: ["geochemistry", "geology", "chemistry", "earth science", "elements", "isotopes", "minerals"]
 heroImage: "/images/articles/geochemistry-hero.webp"
-heroAlt: "Close-up of colorful mineral crystals showing the chemical diversity found in Earth's crust"
+heroAlt: "Editorial photograph representing the concept of geochemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Geochemistry is the scientific discipline that uses [chemistry](/chemistry) prin
 
 Here's a question that might not seem obvious: why is gold rare and iron common? Why do some volcanoes erupt explosively while others ooze lava gently? Why is seawater salty but not acidic? These are all geochemistry questions. They sit at the intersection of two sciences that, for a long time, didn't talk to each other much.
 
-[Chemistry](/chemistry) in a lab deals with controlled reactions in clean glassware. Geochemistry deals with reactions happening in magma chambers at 1,200 degrees Celsius, in ocean trenches under crushing pressure, in soils teeming with microbes, and in ice cores spanning 800,000 years of climate history. The principles are the same — thermodynamics, kinetics, equilibrium — but the systems are vastly more complex.
+[Chemistry](/chemistry) in a lab deals with controlled reactions in clean glassware. Geochemistry deals with reactions happening in magma chambers at 1,200 degrees Celsius, in ocean trenches under crushing pressure, in soils teeming with microbes, and in ice cores spanning 800,000 years of climate history. The principles are the same — [thermodynamics](/thermodynamics), kinetics, equilibrium — but the systems are vastly more complex.
 
 The field formally emerged in the mid-19th century when scientists started systematically analyzing the chemical composition of rocks and minerals. Victor Goldschmidt, often called the father of modern geochemistry, developed rules in the 1920s and 1930s explaining how elements partition between different mineral phases — why certain elements concentrate in specific minerals while others don't. His classification of elements into lithophile (rock-loving), siderophile (iron-loving), chalcophile (sulfur-loving), and atmophile (atmosphere-loving) remains a foundation of the field.
 
@@ -174,13 +174,13 @@ The most dramatic example: oxygen. Earth's early atmosphere contained essentiall
 
 Microbes drive many geochemical reactions. Bacteria reduce sulfate to sulfide in oxygen-poor environments. Other microbes oxidize iron, manganese, and nitrogen compounds. These microbial reactions influence mineral formation, contaminant mobility, soil fertility, and nutrient cycling in ways that pure abiotic [chemistry](/chemistry) wouldn't predict.
 
-Understanding biogeochemical cycles is critical for [agriculture](/agriculture) — soil nutrient cycling determines crop productivity. It's critical for environmental science — microbial processes control contaminant fate. And it's critical for astrobiology — recognizing biosignatures in rocks requires understanding how life leaves chemical fingerprints that persist for billions of years.
+Understanding biogeochemical cycles is critical for [agriculture](/agriculture) — soil nutrient cycling determines crop [productivity](/productivity). It's critical for [environmental science](/environmental-science) — microbial processes control contaminant fate. And it's critical for astrobiology — recognizing biosignatures in rocks requires understanding how life leaves chemical fingerprints that persist for billions of years.
 
 ## Why Geochemistry Matters Now
 
 We're living through a period where geochemical literacy is more important than ever. Climate change is fundamentally a geochemical problem — we've disrupted the carbon cycle by extracting and burning fossil carbon at unprecedented rates. Designing effective climate solutions requires understanding how carbon moves through atmosphere, ocean, biosphere, and lithosphere.
 
-Critical mineral supply for renewable energy technology — lithium for batteries, rare earth elements for wind turbines and electric motors, cobalt for energy storage — depends on geochemical knowledge of where and how these elements concentrate in the crust.
+Critical mineral supply for [renewable energy](/renewable-energy) technology — lithium for batteries, rare earth elements for wind turbines and electric motors, cobalt for energy storage — depends on geochemical knowledge of where and how these elements concentrate in the crust.
 
 Water security in a warming world requires understanding the geochemistry of aquifers, contamination sources, and water treatment processes.
 

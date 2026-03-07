@@ -5,7 +5,7 @@ description: "Stone carving is the art of shaping stone into sculptures, archite
 category: arts-amp-culture
 tags: ["stone carving", "sculpture", "art", "masonry", "marble", "chisel"]
 heroImage: "/images/articles/stone-carving.webp"
-heroAlt: "A sculptor carving a marble statue with a chisel and mallet"
+heroAlt: "Editorial photograph representing the concept of stone carving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Not all stone is created equal. The type you choose determines everything — yo
 
 - **Soapstone** — Extremely soft (1 on the Mohs scale). You can carve it with a kitchen knife. Great for beginners, but won't hold fine detail.
 - **Alabaster** — Soft, translucent, beautiful. Popular for decorative carving but too fragile for outdoor use.
-- **Limestone** — Moderate hardness. Widely used for architectural carving and outdoor sculpture.
+- **Limestone** — Moderate hardness. Widely used for architectural carving and outdoor [sculpture](/sculpture).
 - **Marble** — The gold standard for fine [sculpture](/aesthetics). Hard enough to hold incredible detail, but workable with hand tools. Its crystalline structure gives it a slight translucency that makes skin look almost alive.
 - **Granite** — Extremely hard and durable. Requires diamond-tipped tools or pneumatic equipment. Used for monuments and architectural features that need to last centuries.
 
@@ -69,8 +69,8 @@ But here's the thing — most serious stone carvers still rely heavily on hand t
 
 ## Stone Carving Today
 
-The craft is alive and well, though it looks different than it did 500 years ago. Contemporary stone carvers work in fine art, architectural restoration, [memorial](/stonemasonry) carving (headstones and monuments), and decorative stonework.
+The craft is alive and well, though it looks different than it did 500 years ago. Contemporary stone carvers work in [fine art](/fine-art), architectural restoration, [memorial](/stonemasonry) carving (headstones and monuments), and decorative stonework.
 
-Artists like Jaume Plensa, Anish Kapoor, and Andy Goldsworthy have pushed stone carving into contemporary art contexts, combining traditional skills with modern aesthetics and concepts. Meanwhile, heritage restoration projects around the world employ skilled carvers to repair and replace deteriorating architectural stonework on cathedrals, government buildings, and historic structures.
+Artists like Jaume Plensa, Anish Kapoor, and Andy Goldsworthy have pushed stone carving into contemporary art contexts, combining traditional skills with modern aesthetics and concepts. Meanwhile, heritage restoration projects around the world employ skilled carvers to repair and replace deteriorating architectural stonework on cathedrals, [government](/government) buildings, and historic structures.
 
 Community workshops and stone carving symposia — multi-day events where carvers work together outdoors — have made the craft more accessible than it's been in generations. If you've ever wanted to try it, there's probably a class within driving distance. Start with soapstone. You'll be surprised how satisfying it is to watch a form emerge from a rough block under your own hands.

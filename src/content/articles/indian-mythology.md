@@ -5,7 +5,7 @@ description: "Indian mythology encompasses the gods, epics, and creation stories
 category: arts-amp-culture
 tags: ["indian mythology", "hinduism", "mythology", "ramayana", "mahabharata", "gods"]
 heroImage: "/images/articles/indian-mythology.webp"
-heroAlt: "Ornate painting depicting Hindu deities with vibrant colors and gold detail"
+heroAlt: "Editorial photograph representing the concept of indian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "No. While Hindu mythology is the most extensive, Indian mythology also includes Buddhist stories (Jataka tales of the Buddha's past lives), Jain mythology (stories of the 24 Tirthankaras), Sikh narratives, and the mythologies of India's many tribal and indigenous communities. These traditions share some elements but have distinct cosmologies and characters."
 ---
 
-# What Is Indian Mythology?
+# What Is Indian [Mythology](/mythology)?
 
-Indian mythology is the vast body of sacred stories, cosmological narratives, and divine legends that have shaped South Asian culture for over 3,000 years. Primarily rooted in Hindu, Buddhist, and Jain traditions, these myths are not dusty relics — they are living stories, actively told, performed, painted, sculpted, and debated by over a billion people today.
+Indian mythology is the vast body of sacred stories, cosmological narratives, and divine [legends](/legends) that have shaped South Asian culture for over 3,000 years. Primarily rooted in Hindu, Buddhist, and Jain traditions, these myths are not dusty relics — they are living stories, actively told, performed, painted, sculpted, and debated by over a billion people today.
 
 ## The Scale of It
 
-Indian mythology is enormous. The Mahabharata alone contains roughly 200,000 verses — making it the longest poem ever composed, about ten times the combined length of Homer's Iliad and Odyssey. The Ramayana adds another 24,000 verses. Then there are the 18 major Puranas, hundreds of minor Puranas, the Vedas, the Upanishads, regional folk traditions, and the mythologies of Buddhism, Jainism, and tribal communities.
+Indian mythology is enormous. The Mahabharata alone contains roughly 200,000 verses — making it the longest poem ever composed, about ten times the combined length of Homer's Iliad and Odyssey. The Ramayana adds another 24,000 verses. Then there are the 18 major Puranas, hundreds of minor Puranas, the Vedas, the Upanishads, regional folk traditions, and the mythologies of [Buddhism](/buddhism), [Jainism](/jainism), and tribal communities.
 
 Nobody masters all of it. Scholars spend lifetimes on subsections. But certain stories, characters, and themes form the core that most people in South Asia know from childhood.
 
@@ -47,7 +47,7 @@ Hindu mythology features an immense pantheon, but three principal deities form t
 
 **Vishnu** — the preserver, who maintains cosmic order. Vishnu has ten avatars (incarnations) who descend to Earth during times of crisis. Rama and Krishna — the most beloved figures in Hindu devotion — are both avatars of Vishnu. Vishnu is typically depicted as blue-skinned, carrying a conch, discus, mace, and lotus.
 
-**Shiva** — the destroyer and transformer, who dissolves the universe so it can be recreated. Shiva is paradoxical: both ascetic and householder, both terrible and benevolent, both dancer and meditator. His cosmic dance (Nataraja) represents the cycles of creation and destruction. His throat is blue because he swallowed poison to save the universe.
+**Shiva** — the destroyer and transformer, who dissolves the universe so it can be recreated. Shiva is paradoxical: both ascetic and householder, both terrible and benevolent, both dancer and meditator. His cosmic [dance](/dance) (Nataraja) represents the cycles of creation and destruction. His throat is blue because he swallowed poison to save the universe.
 
 The goddesses are equally important and often more actively worshipped:
 
@@ -65,9 +65,9 @@ The goddesses are equally important and often more actively worshipped:
 
 **The Mahabharata** is bigger, messier, and more morally complex. It centers on the war between two branches of a royal family — the five Pandava brothers and their hundred Kaurava cousins — over the throne of Hastinapura. The war culminates in an 18-day battle that kills millions.
 
-Embedded within the Mahabharata is the **Bhagavad Gita** — a philosophical dialogue between the warrior Arjuna and his charioteer Krishna (avatar of Vishnu) on the battlefield. Arjuna is paralyzed by the moral horror of fighting his own relatives. Krishna's response — a discourse on duty, action, devotion, and the nature of reality — is one of the most important texts in world philosophy.
+Embedded within the Mahabharata is the **Bhagavad Gita** — a philosophical dialogue between the warrior Arjuna and his charioteer Krishna (avatar of Vishnu) on the battlefield. Arjuna is paralyzed by the moral horror of fighting his own relatives. Krishna's response — a discourse on duty, action, devotion, and the nature of reality — is one of the most important texts in world [philosophy](/philosophy).
 
-## Creation and Cosmology
+## Creation and [Cosmology](/cosmology)
 
 Indian cosmology operates on timescales that dwarf Western conceptions. The universe cycles through creation and destruction repeatedly. A single day of Brahma (one creation cycle) lasts 4.32 billion years — remarkably close to the actual age of the Earth (4.54 billion years). A year of Brahma contains 360 such days. Brahma's lifespan is 100 years of his time. Then the cycle begins again.
 
@@ -77,7 +77,7 @@ That final line — questioning whether even God knows the answer — is remarka
 
 ## Living Mythology
 
-Indian mythology is not confined to books. It is performed in dance, theater, and television (the 1987 Ramayana TV series drew audiences of 650 million). It is depicted in temple architecture across South and Southeast Asia. It shapes daily rituals, festival calendars, naming conventions, and moral reasoning.
+Indian mythology is not confined to books. It is performed in dance, theater, and television (the 1987 Ramayana TV series drew audiences of 650 million). It is depicted in temple [architecture](/architecture) across South and Southeast Asia. It shapes daily rituals, festival calendars, naming conventions, and moral reasoning.
 
 The myths continue to be reinterpreted. Feminist scholars reread the Ramayana from Sita's perspective. Dalit writers challenge caste hierarchies embedded in mythological narratives. Contemporary novels, films, and graphic novels adapt these stories for modern audiences.
 

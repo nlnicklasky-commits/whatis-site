@@ -5,7 +5,7 @@ description: "Medicinal chemistry designs and optimizes drug molecules for treat
 category: science
 tags: ["medicinal chemistry", "drug design", "pharmacology", "chemistry", "pharmaceuticals", "molecular biology", "drug discovery"]
 heroImage: "/images/articles/medicinal-chemistry-hero.webp"
-heroAlt: "3D molecular model of a drug compound with highlighted binding regions against a laboratory backdrop"
+heroAlt: "Editorial photograph representing the concept of medicinal chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,7 +59,7 @@ These were medicines, but they weren't medicinal chemistry. Nobody understood *w
 
 Modern medicinal chemistry started when chemists began synthesizing pure compounds and testing them systematically. Friedrich Serturner isolated morphine from opium in 1804. Felix Hoffmann at Bayer synthesized aspirin (acetylsalicylic acid) in 1897. Paul Ehrlich introduced the concept of a "magic bullet" --- a chemical that selectively kills disease-causing organisms without harming the patient --- and developed Salvarsan, the first effective treatment for syphilis, in 1910.
 
-Ehrlich's approach was revolutionary: he systematically tested hundreds of chemical variations of an arsenic compound until he found one that worked (compound 606 --- meaning the 605 before it didn't work or weren't safe enough). This iterative optimization of chemical structures is still the core of medicinal chemistry today.
+Ehrlich's approach was revolutionary: he systematically tested hundreds of chemical variations of an arsenic compound until he found one that worked (compound 606 --- meaning the 605 before it didn't work or weren't safe enough). This iterative [optimization](/optimization) of chemical structures is still the core of medicinal chemistry today.
 
 ### The Antibiotic Revolution (1928 -- 1960s)
 
@@ -69,7 +69,7 @@ This period established the model that still drives the field: discover a biolog
 
 ### The Rational Design Era (1970s -- Present)
 
-The arrival of X-ray crystallography, nuclear magnetic resonance (NMR), and computational chemistry allowed scientists to see drug targets at the molecular level for the first time. Instead of blindly testing thousands of compounds, chemists could now *design* molecules to fit specific biological targets --- like fitting a key to a lock.
+The arrival of [X-ray crystallography](/x-ray-[crystallography](/crystallography)), nuclear magnetic resonance (NMR), and computational chemistry allowed scientists to see drug targets at the molecular level for the first time. Instead of blindly testing thousands of compounds, chemists could now *design* molecules to fit specific biological targets --- like fitting a key to a lock.
 
 The HIV protease inhibitors of the 1990s were triumphs of rational drug design. Scientists determined the three-dimensional structure of the HIV protease enzyme, then designed molecules that fit into its active site and blocked its function. These drugs transformed HIV from a death sentence into a manageable chronic condition.
 
@@ -183,7 +183,7 @@ The ability to efficiently synthesize molecules remains fundamental. Modern tech
 
 ### Analytical Techniques
 
-Mass spectrometry, NMR spectroscopy, X-ray crystallography, and cryo-electron microscopy are the eyes of medicinal chemistry. They confirm the identity and purity of synthesized compounds, reveal the three-dimensional structures of drug-target complexes, and provide the structural data that drives rational design.
+Mass spectrometry, NMR spectroscopy, X-ray crystallography, and cryo-[electron microscopy](/electron-microscopy) are the eyes of medicinal chemistry. They confirm the identity and purity of synthesized compounds, reveal the three-dimensional structures of drug-target complexes, and provide the structural data that drives rational design.
 
 ## Emerging Frontiers
 
@@ -209,11 +209,11 @@ Cancer treatment is furthest along this path. Genomic testing of tumors identifi
 
 ### Antimicrobial Resistance
 
-The pipeline of new antibiotics has slowed to a trickle, even as antibiotic resistance grows. The WHO considers antimicrobial resistance one of the top 10 global public health threats. Medicinal chemists are working on new antibiotic classes, but the economics are challenging --- antibiotics are taken for short courses (unlike chronic disease drugs), and successful new antibiotics are held in reserve, limiting commercial returns. This economic reality has driven many pharmaceutical companies out of antibiotic research, leaving the field to academic labs, small biotechs, and government-funded initiatives.
+The pipeline of new antibiotics has slowed to a trickle, even as antibiotic resistance grows. The WHO considers antimicrobial resistance one of the top 10 global [public health](/public-health) threats. Medicinal chemists are working on new antibiotic classes, but the economics are challenging --- antibiotics are taken for short courses (unlike chronic disease drugs), and successful new antibiotics are held in reserve, limiting commercial returns. This economic reality has driven many pharmaceutical companies out of antibiotic research, leaving the field to academic labs, small biotechs, and government-funded initiatives.
 
 ## Careers in Medicinal Chemistry
 
-The standard path is a bachelor's degree in chemistry or [biology](/biology), followed by a PhD in medicinal chemistry, organic chemistry, or a related field. Postdoctoral research (2-4 years) is common before industry positions.
+The standard path is a bachelor's degree in chemistry or [biology](/biology), followed by a PhD in medicinal chemistry, [organic chemistry](/organic-chemistry), or a related field. Postdoctoral research (2-4 years) is common before industry positions.
 
 Pharmaceutical companies (Pfizer, Novartis, Roche, Johnson & Johnson, Merck) are the largest employers. Biotech companies offer roles that are often more hands-on and varied. Academic positions combine research with teaching.
 

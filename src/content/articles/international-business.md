@@ -5,7 +5,7 @@ description: "International business is commercial activity that crosses nationa
 category: finance
 tags: ["international business", "global business", "trade", "foreign direct investment", "globalization", "export", "import"]
 heroImage: "/images/articles/international-business-hero.webp"
-heroAlt: "Container ships at a busy international port with cranes and cargo"
+heroAlt: "Editorial photograph representing the concept of international business"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is International Business?
 
-International business is any commercial activity that crosses national borders. That includes the obvious — exporting goods, importing raw materials — and the less obvious: a Japanese automaker building a factory in Mississippi, a Swedish furniture company sourcing timber from Poland, a South Korean tech firm licensing its patents to a Chinese manufacturer, or an American fast-food chain franchising in 100 countries.
+International business is any commercial activity that crosses national borders. That includes the obvious — exporting goods, importing raw materials — and the less obvious: a Japanese automaker building a factory in Mississippi, a Swedish furniture company sourcing timber from Poland, a South Korean tech firm licensing its patents to a Chinese manufacturer, or an American fast-food chain [franchising](/franchising) in 100 countries.
 
 If a transaction involves parties in different countries, it's international business. And in a world where your phone was designed in California, assembled in China, using chips made in Taiwan, with software written in India — international business is basically just... business.
 
@@ -127,7 +127,7 @@ How MNCs organize their international operations varies:
 
 Every MNC faces a fundamental strategic tension: should we standardize our products and processes globally (cheaper, more efficient) or localize them for each market (better fit, more appeal)?
 
-McDonald's standardizes its operations — the cooking process, quality standards, and core menu items are similar worldwide. But it localizes extensively: McSpicy Paneer in India, Teriyaki McBurger in Japan, McArabia in the Middle East. The balance between global consistency and local adaptation is a constant negotiation.
+McDonald's standardizes its operations — the cooking process, quality standards, and core menu items are similar worldwide. But it localizes extensively: McSpicy Paneer in India, Teriyaki McBurger in Japan, McArabia in the Middle East. The balance between global consistency and local adaptation is a constant [negotiation](/negotiation).
 
 ## The Environment of International Business
 
@@ -165,7 +165,7 @@ Succeeding internationally requires strategy beyond just showing up.
 
 Choosing how to enter a foreign market is one of the most consequential decisions in international business. The options range from low-risk/low-control (exporting) to high-risk/high-control (wholly owned subsidiary). Factors include market size, competitive intensity, cultural distance, regulatory requirements, and the company's own capabilities and resources.
 
-### Global Supply Chain Management
+### Global [Supply Chain Management](/supply-chain-management)
 
 Modern supply chains are international by nature. A single iPhone involves components from dozens of countries. Managing these supply chains requires coordinating across time zones, languages, transportation modes, customs procedures, and varying quality standards.
 
@@ -189,7 +189,7 @@ International business doesn't operate in a policy vacuum. Trade agreements and 
 
 ### The World Trade Organization
 
-The WTO, with 164 member countries, sets rules for international trade and provides a dispute resolution mechanism. Its core principles include most-favored-nation treatment (treating all trading partners equally), national treatment (not discriminating against foreign goods once they enter your market), and transparency.
+The WTO, with 164 member countries, sets rules for [international trade](/international-trade) and provides a dispute resolution mechanism. Its core principles include most-favored-nation treatment (treating all trading partners equally), national treatment (not discriminating against foreign goods once they enter your market), and transparency.
 
 The WTO's Doha Round of negotiations, launched in 2001, essentially stalled. Countries increasingly pursue bilateral and regional trade agreements instead.
 
@@ -211,7 +211,7 @@ Several forces are reshaping how companies operate across borders.
 
 After decades of increasing globalization, geopolitical tensions, pandemic disruptions, and national security concerns are driving some production back to domestic or allied countries. The US CHIPS Act aims to reshore semiconductor manufacturing. European companies are reducing dependence on Russian energy and Chinese rare earths.
 
-This isn't globalization reversing — trade volumes remain enormous. But the pattern is shifting from pure cost optimization toward "friendshoring" (sourcing from allied countries) and regional supply chains.
+This isn't globalization reversing — trade volumes remain enormous. But the pattern is shifting from pure cost [optimization](/optimization) toward "friendshoring" (sourcing from allied countries) and regional supply chains.
 
 ### Digital International Business
 

@@ -5,7 +5,7 @@ description: "Video game design is the process of creating game rules, mechanics
 category: everyday-concepts
 tags: ["video game design", "game development", "game mechanics", "level design", "interactive media", "gaming"]
 heroImage: "/images/articles/video-game-design.webp"
-heroAlt: "Game designer sketching level layouts on a whiteboard with game concept art pinned nearby"
+heroAlt: "Editorial photograph representing the concept of video game design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Video Game Design?
 
-Video game design is the discipline of creating the rules, systems, mechanics, and experiences that define a video game. It's not programming (that's engineering), not art (that's art direction), and not writing (that's narrative design) — though it touches all three. Game design is fundamentally about deciding how a game works and what it feels like to play.
+Video game design is the discipline of creating the rules, systems, mechanics, and experiences that define a video game. It's not programming (that's [engineering](/engineering)), not art (that's art direction), and not [writing](/writing) (that's narrative design) — though it touches all three. Game design is fundamentally about deciding how a game works and what it feels like to play.
 
 ## What Designers Actually Do
 
@@ -39,19 +39,19 @@ A game designer's job is to answer a seemingly endless stream of questions: How 
 
 Each answer creates a cascading set of consequences. Give the player a double-jump ability and suddenly every level needs to account for that extra vertical reach. Make enemies too tough and players quit. Make them too easy and players get bored. The designer's job is to find the sweet spot in thousands of these decisions simultaneously.
 
-This is why game design is often compared to architecture — you're designing a space (virtual) where people will spend time (real), and every structural decision affects the experience.
+This is why game design is often compared to [architecture](/architecture) — you're designing a space (virtual) where people will spend time (real), and every structural decision affects the experience.
 
 ## Core Design Concepts
 
 ### Mechanics
 
-Mechanics are the verbs of your game — the actions players can take. Jump. Shoot. Build. Trade. Talk. Combine. Every mechanic creates a possibility space that players explore.
+Mechanics are the verbs of your game — the actions players can take. Jump. Shoot. Build. [Trade](/trade). Talk. Combine. Every mechanic creates a possibility space that players explore.
 
-Good mechanics feel satisfying even in isolation. The jump in Super Mario Bros. feels good — the arc, the air control, the landing. That's not accident. Shigeru Miyamoto's team reportedly spent months tuning the jump physics before designing a single level because they understood that if the fundamental action doesn't feel right, nothing else matters.
+Good mechanics feel satisfying even in isolation. The jump in Super Mario Bros. feels good — the arc, the air control, the landing. That's not accident. Shigeru Miyamoto's team reportedly spent months tuning the jump [physics](/physics) before designing a single level because they understood that if the fundamental action doesn't feel right, nothing else matters.
 
 ### Dynamics
 
-Dynamics are what emerge when mechanics interact with each other and with the game's systems. A chess set has simple mechanics (each piece moves in defined ways), but the dynamics — the strategies, gambits, and tactical patterns that emerge from those simple rules — are nearly infinite.
+Dynamics are what emerge when mechanics interact with each other and with the game's systems. A [chess](/chess) set has simple mechanics (each piece moves in defined ways), but the dynamics — the strategies, gambits, and tactical patterns that emerge from those simple rules — are nearly infinite.
 
 The best games have simple mechanics that produce rich dynamics. Minecraft gives you basically two actions: place block and remove block. The dynamics that emerge from those two actions fill entire YouTube careers.
 
@@ -89,7 +89,7 @@ Playtesting reveals assumptions. You assumed players would read the tutorial tex
 
 ### Iteration
 
-Based on playtest feedback, the design gets revised, re-prototyped, and re-tested. This cycle — design, build, test, learn, repeat — is the core engine of game development. Most shipped games are dramatically different from their original design documents because iteration revealed what actually works.
+Based on playtest feedback, the design gets revised, re-prototyped, and re-tested. This cycle — design, build, test, learn, repeat — is the core engine of [game development](/game-development). Most shipped games are dramatically different from their original design documents because iteration revealed what actually works.
 
 ## Specializations
 
@@ -97,7 +97,7 @@ Game design has branched into several specializations:
 
 **Systems design** — Designing the interconnected rules and numbers that govern the game: combat formulas, economy balance, progression curves, AI behavior rules.
 
-**Level design** — Creating the physical spaces where gameplay happens. Level designers combine architecture, pacing, visual storytelling, and mechanical challenges to guide players through experiences.
+**Level design** — Creating the physical spaces where gameplay happens. Level designers combine architecture, pacing, visual [storytelling](/storytelling), and mechanical challenges to guide players through experiences.
 
 **Narrative design** — Integrating story with gameplay. This goes beyond writing dialogue — it includes environmental storytelling, quest structure, branching narratives, and ensuring that story and mechanics reinforce rather than contradict each other.
 

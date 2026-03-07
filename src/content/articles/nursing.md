@@ -5,7 +5,7 @@ description: "Nursing is a healthcare profession focused on patient care, health
 category: health-amp-wellness
 tags: ["nursing", "healthcare", "patient care", "registered nurse"]
 heroImage: "/images/articles/nursing.webp"
-heroAlt: "Nurse checking patient vitals in a modern hospital setting with medical equipment"
+heroAlt: "Editorial photograph representing the concept of nursing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Nursing is a healthcare profession centered on the care of individuals, families
 
 Let's get this out of the way: the old stereotype of nurses as physicians' assistants who just follow orders is wildly inaccurate. Modern nursing is an independent profession with its own body of knowledge, research tradition, ethical framework, and scope of practice.
 
-The American Nurses Association defines nursing as "the protection, promotion, and optimization of health and abilities, prevention of illness and injury, alleviation of suffering through the diagnosis and treatment of human response, and advocacy in the care of individuals, families, communities, and populations."
+The American Nurses Association defines nursing as "the protection, promotion, and [optimization](/optimization) of health and abilities, prevention of illness and injury, alleviation of suffering through the diagnosis and treatment of human response, and advocacy in the care of individuals, families, communities, and populations."
 
 That's a mouthful, but the key phrase is *diagnosis and treatment of human response*. Doctors diagnose and treat diseases. Nurses diagnose and treat how people respond to those diseases — and that distinction matters more than you might think.
 
@@ -55,11 +55,11 @@ Nursing care has existed as long as humans have. But nursing as an organized pro
 
 Florence Nightingale didn't invent nursing — that's a myth — but she did systematize it. During the Crimean War (1853-1856), she led a team of 38 nurses to a British military hospital in Scutari, Turkey, where the death rate was a horrifying 42%. Nightingale implemented sanitation protocols, organized patient care, and kept meticulous statistical records. Within months, the death rate dropped to 2%.
 
-After the war, she used those statistics — she was, incidentally, a brilliant statistician — to argue for hospital reform. Her 1859 book *Notes on Nursing* became a foundational text, and her Nightingale Training School at St. Thomas' Hospital in London (founded 1860) established the model for modern nursing education.
+After the war, she used those [statistics](/statistics) — she was, incidentally, a brilliant statistician — to argue for hospital reform. Her 1859 book *Notes on Nursing* became a foundational text, and her Nightingale Training School at St. Thomas' Hospital in London (founded 1860) established the model for modern nursing [education](/education).
 
 ### Nursing in the 20th Century
 
-The two World Wars massively expanded nursing's scope and prestige. Military nurses worked in field hospitals, evacuation units, and combat zones. After World War II, the profession grew rapidly alongside hospital expansion. University-based nursing programs emerged in the 1950s and 1960s, and the nurse practitioner role was created in 1965 by Loretta Ford and Henry Silver at the University of Colorado.
+The two World Wars massively expanded nursing's scope and prestige. Military nurses worked in field hospitals, evacuation units, and combat zones. After [World War II](/world-war-ii), the profession grew rapidly alongside hospital expansion. University-based nursing programs emerged in the 1950s and 1960s, and the nurse practitioner role was created in 1965 by Loretta Ford and Henry Silver at the University of Colorado.
 
 Today, nursing is the largest healthcare profession in the United States, with over 4.7 million registered nurses.
 
@@ -77,7 +77,7 @@ A two-year program, usually at a community college, that prepares graduates to s
 
 ### Bachelor of Science in Nursing (BSN)
 
-A four-year university degree that includes more coursework in leadership, research, public health, and community nursing. The Institute of Medicine's 2010 report *The Future of Nursing* recommended that 80% of nurses hold a BSN by 2020 — a target that hasn't been met but has driven a significant shift. Many hospitals now require or strongly prefer BSN-prepared nurses, and the degree is generally necessary for advancement into management or education roles.
+A four-year university degree that includes more coursework in [leadership](/leadership), research, [public health](/public-health), and community nursing. The Institute of Medicine's 2010 report *The Future of Nursing* recommended that 80% of nurses hold a BSN by 2020 — a target that hasn't been met but has driven a significant shift. Many hospitals now require or strongly prefer BSN-prepared nurses, and the degree is generally necessary for advancement into [management](/management) or education roles.
 
 ### Advanced Practice
 
@@ -113,9 +113,9 @@ The breadth of nursing specialties is staggering. Here are some of the most comm
 
 **Pediatric nursing.** Working with infants, children, and adolescents. Pediatric nurses need specialized knowledge of developmental stages, age-appropriate communication, and family dynamics.
 
-**Oncology nursing.** Caring for patients undergoing cancer treatment — chemotherapy, radiation, surgery. This specialty demands expertise in complex medication regimens and a high tolerance for emotional difficulty.
+**[Oncology](/oncology) nursing.** Caring for patients undergoing cancer treatment — chemotherapy, radiation, surgery. This specialty demands expertise in complex medication regimens and a high tolerance for emotional difficulty.
 
-**Psychiatric/mental health nursing.** Working with patients experiencing mental illness, substance abuse disorders, and psychological crises. Psychiatric nurses use therapeutic communication techniques and may prescribe medications if they're APRNs.
+**Psychiatric/[mental health](/mental-health) nursing.** Working with patients experiencing mental illness, substance abuse disorders, and psychological crises. Psychiatric nurses use therapeutic communication techniques and may prescribe medications if they're APRNs.
 
 **Public health nursing.** Working at the community and population level — disease surveillance, vaccination campaigns, health education, maternal-child health programs. Less visible than hospital nursing but arguably higher-impact.
 
@@ -129,7 +129,7 @@ You've probably heard about it. The nursing shortage is real, and it's getting w
 
 ## Nursing Ethics and Advocacy
 
-Nursing has its own code of ethics, distinct from medical ethics. The ANA Code of Ethics for Nurses emphasizes the nurse's primary commitment to the patient, the duty to protect patient rights, and the responsibility to advocate for systemic change when institutional practices threaten patient welfare.
+Nursing has its own code of ethics, distinct from [medical ethics](/medical-ethics). The ANA Code of Ethics for Nurses emphasizes the nurse's primary commitment to the patient, the duty to protect patient rights, and the responsibility to advocate for systemic change when institutional practices threaten patient welfare.
 
 That advocacy role is worth highlighting. Nurses frequently find themselves in situations where they need to push back — questioning a medication order that seems incorrect, raising concerns about staffing levels, or insisting that a patient's wishes be respected. It takes professional courage, and it's one of the reasons why nursing consistently ranks as the most trusted profession in Gallup's annual honesty and ethics poll — a position it has held for over 20 consecutive years.
 

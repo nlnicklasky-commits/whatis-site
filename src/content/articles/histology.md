@@ -5,7 +5,7 @@ description: "Histology is the study of biological tissues under the microscope,
 category: science
 tags: ["histology", "biology", "medicine", "tissues", "cells", "microscopy", "pathology"]
 heroImage: "/images/articles/histology-hero.webp"
-heroAlt: "Microscope view of stained tissue cross-section showing cellular structures in purple and pink"
+heroAlt: "Editorial photograph representing the concept of histology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Histology?
 
-Histology is the branch of [biology](/biology) that studies the microscopic structure of biological tissues—the organized collections of cells and extracellular material that form the building blocks of organs and body systems. By examining thin tissue sections under a microscope, histologists reveal the architecture of living organisms at a level invisible to the naked eye, connecting cellular structure to organ function and disease.
+Histology is the branch of [biology](/biology) that studies the microscopic structure of biological tissues—the organized collections of cells and extracellular material that form the building blocks of organs and body systems. By examining thin tissue sections under a microscope, histologists reveal the [architecture](/architecture) of living organisms at a level invisible to the naked eye, connecting cellular structure to organ function and disease.
 
 ## Why Tissues Matter
 
@@ -153,7 +153,7 @@ In each case, the microscopic pattern of tissue damage tells the pathologist wha
 
 While the basic principles haven't changed, the tools are evolving rapidly.
 
-### Digital Pathology
+### Digital [Pathology](/pathology)
 
 Glass slides are being digitized. Whole-slide imaging scanners capture slides at resolutions sufficient for diagnosis, creating digital files that can be viewed, shared, annotated, and stored electronically. A pathologist in New York can examine a biopsy taken in rural India—in real time.
 
@@ -173,11 +173,11 @@ This technology was named "Method of the Year" by Nature Methods in 2020. It's r
 
 ## Learning Histology
 
-Every medical, dental, and veterinary student takes histology—and most will tell you it's one of the most challenging courses in their training. Recognizing tissue types under the microscope requires pattern recognition skills that develop only through extensive practice.
+Every medical, dental, and veterinary student takes histology—and most will tell you it's one of the most challenging courses in their training. Recognizing tissue types under the microscope requires [pattern recognition](/pattern-recognition) skills that develop only through extensive practice.
 
 The traditional approach involves hours at a microscope examining glass slides—a skill that's genuinely satisfying once acquired. You learn to see order in apparent chaos: the orderly columns of hepatocytes in liver, the beautiful spiraling architecture of the cochlea, the delicate filtering units of the kidney.
 
-Virtual microscopy—digital slides accessible on computers and tablets—has made histology more accessible. Students can zoom in and out, compare structures across different organs, and study without being physically present in a lab. Several excellent free resources (Histology Guide, Blue Histology, University of Michigan Histology) make self-study possible for anyone curious about tissue structure.
+Virtual [microscopy](/microscopy)—digital slides accessible on computers and tablets—has made histology more accessible. Students can zoom in and out, compare structures across different organs, and study without being physically present in a lab. Several excellent free resources (Histology Guide, Blue Histology, University of Michigan Histology) make self-study possible for anyone curious about tissue structure.
 
 ## Why Histology Still Matters
 
@@ -185,7 +185,7 @@ In an age of genomic medicine, advanced imaging, and blood-based biomarkers, you
 
 Histology remains the gold standard for cancer diagnosis. No blood test or scan can definitively determine whether a growth is benign or malignant—only microscopic examination of the actual tissue can do that. Even as molecular testing expands (identifying specific genetic mutations in tumors), histology provides the essential context: what type of cell is this? How is the tissue organized? How aggressive does this look?
 
-Histology also connects molecular biology to clinical medicine. [Cell biology](/cell-biology) and [biochemistry](/biochemistry) explain what happens inside individual cells. [Anatomy](/anatomy) explains the gross structure of organs. Histology bridges these scales—showing how cellular behavior creates tissue architecture, and how tissue architecture creates organ function. Without histology, there's a gap in understanding between molecules and the patient.
+Histology also connects [molecular biology](/molecular-biology) to clinical medicine. [Cell biology](/cell-biology) and [biochemistry](/biochemistry) explain what happens inside individual cells. [Anatomy](/anatomy) explains the gross structure of organs. Histology bridges these scales—showing how cellular behavior creates tissue architecture, and how tissue architecture creates organ function. Without histology, there's a gap in understanding between molecules and the patient.
 
 ## Key Takeaways
 

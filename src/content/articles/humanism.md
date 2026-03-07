@@ -5,7 +5,7 @@ description: "Humanism is a philosophy centered on human dignity, reason, and et
 category: philosophy
 tags: ["humanism", "philosophy", "ethics", "secularism", "rationalism", "human flourishing", "critical thinking"]
 heroImage: "/images/articles/humanism-hero.webp"
-heroAlt: "Classical marble sculpture representing human reason and dignity in a museum setting"
+heroAlt: "Editorial photograph representing the concept of humanism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Humanism?
 
-Humanism is a philosophical and ethical stance that emphasizes the value, agency, and rational capacity of human beings — centering morality, meaning, and purpose on human experience and reason rather than on supernatural authority or divine revelation. In its modern secular form, humanism holds that humans can lead ethical, meaningful lives without religion, using evidence, empathy, and critical thinking as their guides.
+Humanism is a philosophical and ethical stance that emphasizes the value, agency, and rational capacity of human beings — centering morality, meaning, and purpose on human experience and reason rather than on supernatural authority or divine revelation. In its modern secular form, humanism holds that humans can lead ethical, meaningful lives without religion, using evidence, empathy, and [critical thinking](/critical-thinking) as their guides.
 
 ## The Word Means Different Things in Different Eras
 
@@ -55,17 +55,17 @@ These varieties share a family resemblance: all center human experience, value r
 
 The Renaissance humanist project began in 14th-century Italy with Petrarch, who is often called the "Father of Humanism." His passion was recovering and studying ancient Greek and Roman texts — philosophy, literature, rhetoric, history — that had been neglected during the medieval period.
 
-This wasn't anti-religious. Medieval education was dominated by Scholasticism — systematic theology focused on reconciling Christian doctrine with Aristotelian philosophy. Renaissance humanists didn't reject Christianity; they expanded what educated people should study. The *studia humanitatis* (studies of humanity) — grammar, rhetoric, history, poetry, and moral philosophy — joined theology as essential knowledge.
+This wasn't anti-religious. Medieval education was dominated by [Scholasticism](/scholasticism) — systematic theology focused on reconciling Christian doctrine with Aristotelian philosophy. Renaissance humanists didn't reject [Christianity](/christianity); they expanded what educated people should study. The *studia humanitatis* (studies of humanity) — grammar, rhetoric, history, poetry, and [moral philosophy](/moral-philosophy) — joined theology as essential knowledge.
 
 The effects were profound. When you study Homer, Cicero, and Seneca alongside the Bible, you encounter sophisticated ethical thinking that predates Christianity. You encounter tragedy, comedy, and beauty created by pagans. You encounter a civilization (ancient Rome) that achieved extraordinary things without Christian guidance. This didn't prove Christianity wrong — but it proved Christianity wasn't the only source of wisdom, beauty, or moral insight.
 
-Leonardo da Vinci, Michelangelo, and Raphael expressed humanist ideals through art. The shift from medieval art (flat, symbolic, focused on religious narratives) to Renaissance art (three-dimensional, anatomically accurate, celebrating human beauty and emotion) reflects the humanist elevation of human experience as worthy of attention and celebration in its own right.
+Leonardo da Vinci, Michelangelo, and Raphael expressed humanist ideals through art. The shift from medieval art (flat, symbolic, focused on religious narratives) to [Renaissance art](/renaissance-art) (three-dimensional, anatomically accurate, celebrating human beauty and emotion) reflects the humanist elevation of human experience as worthy of attention and celebration in its own right.
 
 Erasmus of Rotterdam (1466-1536) represents Renaissance humanism at its most sophisticated. A devout Christian and ordained priest, Erasmus used humanist scholarship to criticize Church corruption, advocate for education reform, and argue for religious tolerance. His *In Praise of Folly* satirized clerical ignorance and superstition. His Greek edition of the New Proof exposed translation errors in the Latin Vulgate that had shaped Church doctrine for centuries. Erasmus proved that humanism and faith could coexist — though the Reformation that followed would complicate that relationship.
 
 ## The Enlightenment: Reason Takes the Lead
 
-If Renaissance humanism expanded the curriculum, Enlightenment humanism changed the epistemology. The core question shifted from "What does the Bible/Aristotle/tradition say?" to "What does evidence and reason show?"
+If Renaissance humanism expanded the curriculum, Enlightenment humanism changed the [epistemology](/epistemology). The core question shifted from "What does the Bible/Aristotle/tradition say?" to "What does evidence and reason show?"
 
 This shift had specific intellectual triggers. The Scientific Revolution (Copernicus, Galileo, Newton, Kepler) demonstrated that systematic observation and mathematical reasoning could explain natural phenomena better than scriptural interpretation. If the Church was wrong about the Earth being the center of the universe — a claim it defended for centuries — what else might it be wrong about?
 
@@ -101,7 +101,7 @@ But humanist ethics isn't just "morality without religion." It offers a positive
 
 ### Science as the Best Way of Knowing
 
-Humanists view science not as one way of knowing among many but as the most reliable method for understanding how the world works. Not because scientists are infallible — they're not — but because the scientific method includes built-in correction mechanisms: peer review, replication, falsifiability, and revision in light of new evidence.
+Humanists view science not as one way of knowing among many but as the most reliable method for understanding how the world works. Not because scientists are infallible — they're not — but because the [scientific method](/scientific-method) includes built-in correction mechanisms: peer review, replication, falsifiability, and revision in light of new evidence.
 
 This distinguishes humanism from both religious faith (which appeals to revelation and authority) and postmodern relativism (which questions whether objective truth exists). Humanists argue that while our understanding of truth is always incomplete and provisional, some claims are better supported by evidence than others — and those are the claims we should act on.
 
@@ -157,7 +157,7 @@ In Scotland, humanist weddings have been legally recognized since 2005 and now o
 
 ### Humanism and Education
 
-Humanists are strong advocates for secular education — schools that teach about religions (comparative religion) without promoting any specific one. They oppose creationism in science classes, mandatory prayer, and religious tests for public office.
+Humanists are strong advocates for secular education — schools that teach about religions ([comparative religion](/comparative-religion)) without promoting any specific one. They oppose creationism in science classes, mandatory prayer, and religious tests for public office.
 
 But humanist educational philosophy goes beyond church-state separation. It emphasizes [critical thinking](/cognitive-bias), scientific literacy, ethical reasoning, and exposure to diverse perspectives. The goal is producing citizens who can think independently — echoing Kant's "dare to know" across the centuries.
 

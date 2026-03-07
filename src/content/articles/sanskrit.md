@@ -5,7 +5,7 @@ description: "Sanskrit is an ancient Indo-European language of India, sacred to 
 category: language
 tags: ["sanskrit", "classical language", "india", "hinduism", "buddhism", "linguistics"]
 heroImage: "/images/articles/sanskrit.webp"
-heroAlt: "Ancient Sanskrit text inscribed on a palm leaf manuscript"
+heroAlt: "Editorial photograph representing the concept of sanskrit"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sanskrit?
 
-Sanskrit is an ancient language of the Indian subcontinent, belonging to the Indo-Aryan branch of the Indo-European language family. It's the language of the Vedas (Hinduism's oldest sacred texts), the Mahabharata, the Ramayana, classical Indian philosophy, and an enormous body of scientific, mathematical, and literary works spanning over 3,000 years. For linguistics, Sanskrit is one of the most important languages ever studied — its systematic grammar, documented by the scholar Panini around the 4th century BCE, was so precise and sophisticated that it influenced modern computational linguistics over two millennia later.
+Sanskrit is an ancient language of the Indian subcontinent, belonging to the Indo-Aryan branch of the Indo-European language family. It's the language of the Vedas (Hinduism's oldest sacred texts), the Mahabharata, the Ramayana, classical Indian [philosophy](/philosophy), and an enormous body of scientific, mathematical, and literary works spanning over 3,000 years. For [linguistics](/linguistics), Sanskrit is one of the most important languages ever studied — its systematic grammar, documented by the scholar Panini around the 4th century BCE, was so precise and sophisticated that it influenced modern [computational linguistics](/computational-linguistics) over two millennia later.
 
 ## Vedic and Classical
 
@@ -39,7 +39,7 @@ Sanskrit exists in two major forms, and the distinction matters.
 
 **Vedic Sanskrit** is the older variety, preserved in the four Vedas — the Rigveda, Samaveda, Yajurveda, and Atharvaveda. The Rigveda, the oldest, consists of 1,028 hymns composed roughly between 1500 and 1200 BCE, though they were transmitted orally for centuries before being written down. Vedic Sanskrit has features — certain sounds, grammatical forms, and vocabulary — that were later lost or simplified.
 
-**Classical Sanskrit** is the standardized form codified by Panini in his Ashtadhyayi (Eight Chapters), a grammar containing approximately 4,000 rules. Panini's grammar is one of the greatest intellectual achievements in human history — a complete, formal description of a language using something remarkably close to a formal notation system, anticipating concepts in modern computer science by 2,400 years. Classical Sanskrit was the literary, scientific, and philosophical language of India for over two millennia, roughly the way Latin functioned in medieval Europe.
+**Classical Sanskrit** is the standardized form codified by Panini in his Ashtadhyayi (Eight Chapters), a grammar containing approximately 4,000 rules. Panini's grammar is one of the greatest intellectual achievements in human history — a complete, formal description of a language using something remarkably close to a formal notation system, anticipating concepts in modern [computer science](/computer-science) by 2,400 years. Classical Sanskrit was the literary, scientific, and philosophical language of India for over two millennia, roughly the way Latin functioned in medieval Europe.
 
 The word "Sanskrit" (samskrita) means "refined" or "perfected" — distinguishing it from Prakrit, the "natural" or everyday spoken languages. Sanskrit was always, to some extent, a deliberately cultivated language of learning and religion, existing alongside the Prakrits that people actually spoke.
 
@@ -57,11 +57,11 @@ Sanskrit grammar is elaborate, systematic, and — for language learners — for
 
 **Compound words.** Sanskrit allows enormously long compound words — strings of nouns, adjectives, and other elements joined together without spaces. A famous verse from the Panchatantra contains a compound of 27 words joined as one. This feature makes Sanskrit prose dense and challenging to parse but allows extreme precision.
 
-## The Literature
+## The [Literature](/literature)
 
 Sanskrit's literary output is staggering in both quantity and quality.
 
-**The epics.** The Mahabharata (about 200,000 verse lines — roughly 10 times the length of the Iliad and Odyssey combined) tells the story of a dynastic war between the Pandavas and Kauravas. It contains the Bhagavad Gita, one of the most influential philosophical texts ever written. The Ramayana (about 24,000 verses) tells the story of Prince Rama's quest to rescue his wife Sita. Both epics are not just stories — they're encyclopedias of Indian philosophy, ethics, politics, and cosmology.
+**The epics.** The Mahabharata (about 200,000 verse lines — roughly 10 times the length of the Iliad and Odyssey combined) tells the story of a dynastic war between the Pandavas and Kauravas. It contains the Bhagavad Gita, one of the most influential philosophical texts ever written. The Ramayana (about 24,000 verses) tells the story of Prince Rama's quest to rescue his wife Sita. Both epics are not just stories — they're encyclopedias of Indian philosophy, ethics, politics, and [cosmology](/cosmology).
 
 **Classical poetry and drama.** Kalidasa (roughly 4th-5th century CE), often called the Shakespeare of Sanskrit, wrote plays (*Shakuntala*, *Vikramorvashiyam*) and poems of extraordinary beauty and emotional depth. His work was among the first Sanskrit literature translated into European languages, astonishing Goethe and other Western writers.
 
@@ -75,16 +75,16 @@ Sanskrit's importance to Western linguistics cannot be overstated. In 1786, Sir 
 
 The systematic correspondences are striking. Sanskrit "pitar" = Latin "pater" = English "father." Sanskrit "trayas" = Latin "tres" = English "three." Sanskrit "ashva" (horse) = Latin "equus." These aren't borrowings — they're cognates inherited from a common ancestor spoken roughly 4,500-6,500 years ago.
 
-Panini's grammar also influenced modern linguistics and computer science. His rule-based, formal system for describing language anticipated formal grammars used in programming languages. Noam Chomsky has acknowledged the parallel between Panini's approach and generative grammar.
+Panini's grammar also influenced modern linguistics and computer science. His rule-based, formal system for describing language anticipated formal grammars used in [programming languages](/programming-languages). Noam Chomsky has acknowledged the parallel between Panini's approach and generative grammar.
 
 ## Sanskrit Today
 
 Sanskrit occupies a peculiar position in modern India — revered, politically charged, and rarely spoken in daily life.
 
-The Indian government promotes Sanskrit through education policies. It's offered as a subject in many schools and as a language option in the civil service exam. Some organizations and villages actively promote spoken Sanskrit. Sanskrit departments exist at major Indian and international universities.
+The Indian [government](/government) promotes Sanskrit through [education](/education) policies. It's offered as a subject in many schools and as a language option in the civil service exam. Some organizations and villages actively promote spoken Sanskrit. Sanskrit departments exist at major Indian and international universities.
 
 Politically, Sanskrit is tied to questions of Indian identity. Hindu nationalist movements promote Sanskrit as part of India's cultural heritage. Critics argue that this promotion comes at the expense of other Indian languages and reinforces caste hierarchies, since Sanskrit was historically associated with Brahmin elites.
 
-In yoga studios worldwide, Sanskrit terminology is ubiquitous — asana, pranayama, chakra, mantra, namaste. Most yoga practitioners encounter Sanskrit without knowing much about the language itself. The words have entered English through the global spread of yoga and meditation practices.
+In yoga studios worldwide, Sanskrit terminology is ubiquitous — asana, pranayama, chakra, mantra, namaste. Most yoga practitioners encounter Sanskrit without knowing much about the language itself. The words have entered English through the global spread of yoga and [meditation](/meditation) practices.
 
 For those who study it seriously, Sanskrit offers access to one of humanity's richest intellectual traditions — 3,000+ years of philosophy, science, literature, and religious thought, preserved in a language of remarkable precision and beauty. It's not easy. But few languages reward the effort as richly.

@@ -5,7 +5,7 @@ description: "Calligraphy is the art of beautiful handwriting, practiced across 
 category: arts-amp-culture
 tags: ["calligraphy", "handwriting", "art", "lettering", "script", "typography"]
 heroImage: "/images/articles/calligraphy.webp"
-heroAlt: "Hand holding a calligraphy pen creating flowing italic script on cream-colored paper"
+heroAlt: "Editorial photograph representing the concept of calligraphy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ Calligraphy is the art of forming beautiful, harmonious, and expressive letters 
 
 ## Three Great Traditions
 
-Calligraphy developed independently in three major cultural spheres, each with its own tools, aesthetics, and philosophy.
+Calligraphy developed independently in three major cultural spheres, each with its own tools, [aesthetics](/aesthetics), and [philosophy](/philosophy).
 
 ### East Asian Calligraphy
 
-Chinese, Japanese, and Korean calligraphy use the brush as the primary tool, creating characters through a combination of prescribed stroke orders and individual expression. In [Chinese](/chinese-language) tradition, calligraphy ranks among the highest art forms — equal to painting and poetry. The "Four Treasures of the Study" (brush, ink, ink stone, paper) are the essential materials.
+Chinese, Japanese, and Korean calligraphy use the brush as the primary tool, creating characters through a combination of prescribed stroke orders and individual expression. In [Chinese](/chinese-language) tradition, calligraphy ranks among the highest art forms — equal to [painting](/painting) and poetry. The "Four Treasures of the Study" (brush, ink, ink stone, paper) are the essential materials.
 
-Chinese calligraphy has five major script styles, from the ancient seal script to the flowing cursive (grass script). A master calligrapher's brushwork reveals personality, emotion, and philosophical disposition through the energy, rhythm, and pressure of each stroke. The practice is often described as moving meditation — the focus required to control a brush across rice paper demands complete presence.
+Chinese calligraphy has five major script styles, from the ancient seal script to the flowing cursive (grass script). A master calligrapher's brushwork reveals personality, emotion, and philosophical disposition through the energy, rhythm, and pressure of each stroke. The practice is often described as moving [meditation](/meditation) — the focus required to control a brush across rice paper demands complete presence.
 
 Japanese calligraphy (*shodō* — "the way of writing") adapted Chinese traditions while developing distinctive aesthetic values, including the concept of *ma* (meaningful empty space). Korean calligraphy added the hangul alphabet alongside Chinese characters.
 
@@ -49,7 +49,7 @@ Japanese calligraphy (*shodō* — "the way of writing") adapted Chinese traditi
 
 Since Islam traditionally prohibits figurative art in religious contexts, [Arabic calligraphy](/arabic-language) became the supreme visual art form in Islamic culture. Calligraphers developed elaborate scripts — Kufic (angular, architectural), Naskh (elegant, readable), Thuluth (monumental), Diwani (ornamental), and Nastaliq (flowing, used primarily for Persian and Urdu).
 
-Calligraphic decoration covers mosques, Qurans, ceramics, textiles, and metalwork. The art form carries deep spiritual significance — rendering the Word of God beautifully is considered an act of devotion. Master calligraphers hold positions of great respect in Islamic societies.
+Calligraphic decoration covers mosques, Qurans, [ceramics](/ceramics), textiles, and metalwork. The art form carries deep spiritual significance — rendering the Word of God beautifully is considered an act of devotion. Master calligraphers hold positions of great respect in Islamic societies.
 
 ### Western Calligraphy
 
@@ -65,7 +65,7 @@ In an age of keyboards and touchscreens, calligraphy's continued popularity migh
 
 **Tangibility** — In a digital world, handmade objects carry increasing value. A hand-lettered wedding invitation, a calligraphed poem, or a personal letter in beautiful script communicates care that a printed document cannot.
 
-**Aesthetics** — [Typography](/design-patterns) — the design of printed letterforms — owes everything to calligraphy. Understanding how letters are formed with tools illuminates why typefaces look the way they do and develops visual sensitivity applicable to graphic design.
+**Aesthetics** — [Typography](/design-patterns) — the design of printed letterforms — owes everything to calligraphy. Understanding how letters are formed with tools illuminates why typefaces look the way they do and develops visual sensitivity applicable to [graphic design](/graphic-design).
 
 **Cultural connection** — For practitioners of East Asian and Islamic calligraphy, the practice connects to deep cultural traditions spanning centuries.
 

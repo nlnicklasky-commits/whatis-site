@@ -5,7 +5,7 @@ description: "Copywriting is writing text that persuades people to take action. 
 category: everyday-concepts
 tags: ["marketing", "advertising", "writing", "sales", "content creation", "branding"]
 heroImage: "/images/articles/copywriting.webp"
-heroAlt: "A notebook with advertising headlines drafted alongside a laptop and coffee cup"
+heroAlt: "Editorial photograph representing the concept of copywriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Copywriting?
 
-Copywriting is the craft of writing text (called "copy") that persuades people to take action — buy something, sign up for something, click something, believe something. It's the words behind advertisements, sales pages, email campaigns, product descriptions, billboards, and the countless prompts that guide you through commercial life every day.
+Copywriting is the craft of [writing](/writing) text (called "copy") that persuades people to take action — buy something, sign up for something, click something, believe something. It's the words behind advertisements, sales pages, email campaigns, product descriptions, billboards, and the countless prompts that guide you through commercial life every day.
 
 ## Not to Be Confused With Copyright
 
@@ -43,7 +43,7 @@ Good copywriting is invisible. You read it, feel compelled, and act — often wi
 
 The best copy follows principles that haven't changed much since the early days of advertising:
 
-**Know your audience.** Before writing a single word, effective copywriters understand who they're writing for — their desires, fears, frustrations, and vocabulary. A fitness supplement ad aimed at 25-year-old gym enthusiasts reads completely differently from one targeting 60-year-old retirees, even if the product is identical.
+**Know your audience.** Before writing a single word, effective copywriters understand who they're writing for — their desires, fears, frustrations, and vocabulary. A [fitness](/fitness) supplement ad aimed at 25-year-old gym enthusiasts reads completely differently from one targeting 60-year-old retirees, even if the product is identical.
 
 **Lead with benefits, not features.** Features describe what a product is. Benefits describe what it does for the buyer. "Our vacuum has a 2000-watt motor" is a feature. "Clean your entire house in half the time" is a benefit. People buy benefits.
 
@@ -57,15 +57,15 @@ The best copy follows principles that haven't changed much since the early days 
 
 **Brand copy** builds awareness and emotional connection rather than driving immediate action. Nike's "Just Do It" doesn't ask you to buy shoes right now. It associates Nike with motivation, determination, and achievement. Brand copy works over time, shaping perceptions that influence future purchasing decisions.
 
-**SEO copy** balances persuasion with search engine optimization — writing that appeals to both human readers and search algorithms. This includes website pages, blog posts, and product descriptions that need to rank well while still converting visitors.
+**SEO copy** balances persuasion with search engine [optimization](/optimization) — writing that appeals to both human readers and search algorithms. This includes website pages, blog posts, and product descriptions that need to rank well while still converting visitors.
 
-**Email copy** is a massive category. Companies send billions of marketing emails daily, and the subject line alone determines whether yours gets opened (average open rates hover around 20-25%) or deleted. Email copywriters specialize in subject lines, preview text, body copy, and calls to action.
+**Email copy** is a massive category. Companies send billions of [marketing](/marketing) emails daily, and the subject line alone determines whether yours gets opened (average open rates hover around 20-25%) or deleted. Email copywriters specialize in subject lines, preview text, body copy, and calls to action.
 
 **Social media copy** demands extreme conciseness. A Twitter/X post gets 280 characters. A Facebook ad headline gets maybe 40 characters before truncation. Writing persuasively in such tight constraints is its own skill.
 
-**UX copy** (microcopy) is the text on buttons, error messages, tooltips, and navigation elements in apps and websites. "Submit" versus "Get my free guide" on a button might seem like a trivial difference, but A/B testing consistently shows that specific, benefit-oriented button copy outperforms generic labels by 20-40%.
+**UX copy** (microcopy) is the text on buttons, error messages, tooltips, and [navigation](/navigation) elements in apps and websites. "Submit" versus "Get my free guide" on a button might seem like a trivial difference, but A/B testing consistently shows that specific, benefit-oriented button copy outperforms generic labels by 20-40%.
 
-## The Legends
+## The [Legends](/legends)
 
 Certain copywriters achieved fame and shaped the profession.
 
@@ -73,13 +73,13 @@ Certain copywriters achieved fame and shaped the profession.
 
 **Claude Hopkins** wrote *Scientific Advertising* in 1923, arguing that advertising should be tested and measured like any other business activity. His ideas about testing, sampling, and reason-why copy still form the foundation of direct response marketing.
 
-**Gary Halbert** was a direct-mail legend whose personal, conversational style generated millions in sales. His "Boron Letters" — written to his son from prison — are a beloved copywriting education resource.
+**Gary Halbert** was a direct-mail legend whose personal, conversational style generated millions in sales. His "Boron Letters" — written to his son from prison — are a beloved copywriting [education](/education) resource.
 
 **Joanna Wiebe** founded Copyhackers and popularized conversion copywriting in the digital era, bringing data-driven methods to web copy and SaaS marketing.
 
 ## The Process
 
-Professional copywriting isn't sitting down and writing brilliant prose in one draft. The actual process looks like this:
+Professional copywriting isn't sitting down and writing brilliant [prose](/prose) in one draft. The actual process looks like this:
 
 1. **Research** (40-50% of the time): Study the product, the audience, the competition, and customer testimonials. The best copy often comes directly from customer language — phrases real buyers use to describe their problems and desires.
 

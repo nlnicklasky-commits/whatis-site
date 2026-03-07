@@ -5,7 +5,7 @@ description: "Pontoon boating uses flat-decked boats supported by aluminum tubes
 category: sports
 tags: ["boating", "pontoon boat", "recreational boating", "lake life", "water sports", "cruising"]
 heroImage: "/images/articles/pontoon-boating.webp"
-heroAlt: "Pontoon boat cruising on a calm lake with passengers relaxing on deck"
+heroAlt: "Editorial photograph representing the concept of pontoon boating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The design is disarmingly simple. Two cylindrical aluminum pontoons (or "logs") 
 
 The pontoons are sealed and divided into multiple air chambers, so if one section gets punctured, the boat doesn't sink. The flat bottom and wide stance give pontoon boats exceptional stability — you can walk around the deck, stand on the edges, or have a dozen people on board without worrying about tipping.
 
-Most pontoon boats are powered by outboard motors ranging from 25 to 300+ horsepower, mounted on the rear of the deck between the pontoons. Smaller motors (25-75 hp) are fine for casual cruising and fishing. Larger motors (150-300 hp) push performance pontoons to speeds that would have been unthinkable a decade ago.
+Most pontoon boats are powered by outboard motors ranging from 25 to 300+ horsepower, mounted on the rear of the deck between the pontoons. Smaller motors (25-75 hp) are fine for casual cruising and [fishing](/fishing). Larger motors (150-300 hp) push performance pontoons to speeds that would have been unthinkable a decade ago.
 
 **Tritoons** — pontoon boats with three pontoons instead of two — have become increasingly common. The third center pontoon adds lift, reduces drag, and allows for more powerful engines. If you want to tow water skiers or tubers behind a pontoon boat, a tritoon is the way to go.
 
@@ -47,13 +47,13 @@ Most pontoon boats are powered by outboard motors ranging from 25 to 300+ horsep
 
 Pontoon boats were once seen as the minivan of boating — practical, unsexy, something your grandparents drove slowly around a lake. That reputation has changed dramatically.
 
-Sales data tells the story. Pontoon boats now account for roughly one-third of all new powerboat sales in the United States, up from about 10% in the 1990s. The National Marine Manufacturers Association reported that pontoon/deck boat sales hit record levels in recent years, outpacing most other boat categories.
+[Sales](/sales) data tells the story. Pontoon boats now account for roughly one-third of all new powerboat sales in the United States, up from about 10% in the 1990s. The National Marine Manufacturers Association reported that pontoon/deck boat sales hit record levels in recent years, outpacing most other boat categories.
 
 Several factors drive the trend:
 
 **Ease of use.** A pontoon boat is the easiest powerboat to operate. The wide, stable platform means no one gets seasick (well, almost no one). Docking is straightforward because the boat moves predictably at low speeds. New boaters — and the boating industry gained a lot of new participants during and after 2020 — gravitate toward pontoons because the learning curve is gentle.
 
-**Versatility.** The same pontoon boat can serve as a fishing platform, a party barge, a swimming dock, a sunset cruiser, and a towboat for tubing. Try doing all that in a bass boat or a cabin cruiser.
+**Versatility.** The same pontoon boat can serve as a fishing platform, a party barge, a [swimming](/swimming) dock, a sunset cruiser, and a towboat for tubing. Try doing all that in a bass boat or a cabin cruiser.
 
 **Space.** Dollar for dollar, pontoon boats offer more usable deck space than any other boat type. A 24-foot pontoon boat can comfortably carry 10-14 people with room to move around. The open deck layout means you can rearrange furniture, add accessories, or customize the setup for whatever you're doing.
 

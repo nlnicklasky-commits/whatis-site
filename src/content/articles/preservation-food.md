@@ -5,7 +5,7 @@ description: "Food preservation extends shelf life by stopping spoilage through 
 category: everyday-concepts
 tags: ["food preservation", "food storage", "canning", "freezing", "drying", "fermentation"]
 heroImage: "/images/articles/preservation-food.webp"
-heroAlt: "Glass jars of preserved fruits and vegetables on wooden shelves"
+heroAlt: "Editorial photograph representing the concept of preservation (food)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Preservation (Food)?
 
-Food preservation is any method of treating food to slow or prevent spoilage caused by microorganisms (bacteria, molds, yeasts), enzymes, or oxidation. It's the reason you can eat tomatoes in January, store meat for months, and spread jam that was made last summer. Before refrigeration, preservation was a matter of survival — if you couldn't keep food from rotting, you didn't eat during winter. The methods have gotten more sophisticated, but the basic goal hasn't changed: make food last longer.
+[Food preservation](/food-preservation) is any method of treating food to slow or prevent spoilage caused by microorganisms (bacteria, molds, yeasts), enzymes, or oxidation. It's the reason you can eat tomatoes in January, store meat for months, and spread jam that was made last summer. Before [refrigeration](/refrigeration), preservation was a matter of survival — if you couldn't keep food from rotting, you didn't eat during winter. The methods have gotten more sophisticated, but the basic goal hasn't changed: make food last longer.
 
 ## Why Food Spoils
 
@@ -41,7 +41,7 @@ Understanding preservation starts with understanding spoilage. Food goes bad for
 
 **Enzymes.** Foods contain natural enzymes that continue working after harvest or slaughter, causing ripening, browning, and eventual breakdown. Cut an apple and watch it turn brown — that's enzymatic oxidation. These enzymes don't make food dangerous, but they degrade quality.
 
-**Oxidation.** Exposure to oxygen causes fats to go rancid, colors to fade, and nutrients to degrade. This is why opened cooking oil eventually smells off and why dried fruit darkens over time.
+**Oxidation.** Exposure to oxygen causes fats to go rancid, colors to fade, and nutrients to degrade. This is why opened [cooking](/cooking) oil eventually smells off and why dried fruit darkens over time.
 
 Every preservation method works by targeting one or more of these factors — killing microorganisms, deactivating enzymes, or removing the conditions (warmth, moisture, oxygen) they need to function.
 
@@ -75,7 +75,7 @@ Flash-freezing (freezing food very quickly at extremely low temperatures) produc
 
 Clarence Birdseye commercialized quick-freezing in the 1920s after observing how Inuit people in Labrador used natural freezing to preserve fish. His company eventually became General Foods. The frozen food industry now exceeds $300 billion annually worldwide.
 
-### Fermentation
+### [Fermentation](/fermentation)
 
 Fermentation uses beneficial microorganisms to preserve food by producing acids, alcohol, or other compounds that inhibit spoilage organisms. It's one of the oldest preservation methods and produces some of the world's most beloved foods.
 
@@ -99,6 +99,6 @@ Fermented foods have seen a massive popularity surge in recent years, partly bec
 
 In developed countries, modern refrigeration and supply chains mean most people don't *need* to preserve food at home. But home canning, fermenting, and dehydrating have surged in popularity — partly for self-sufficiency, partly for flavor, and partly because there's genuine satisfaction in eating food you preserved yourself six months ago.
 
-Globally, food preservation remains a life-or-death issue. The UN estimates that roughly one-third of all food produced worldwide is lost or wasted. Better preservation — from simple solar dryers in rural Africa to advanced cold chain logistics in Asia — could significantly reduce food insecurity affecting nearly 800 million people.
+Globally, food preservation remains a life-or-death issue. The UN estimates that roughly one-third of all food produced worldwide is lost or wasted. Better preservation — from simple solar dryers in rural Africa to advanced cold chain [logistics](/logistics) in Asia — could significantly reduce food insecurity affecting nearly 800 million people.
 
 The technology has changed enormously from sun-dried fish and salt pork. The goal hasn't changed at all.

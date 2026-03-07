@@ -5,7 +5,7 @@ description: "Blues is a music genre originating from African American communiti
 category: everyday-concepts
 tags: ["blues music", "music", "african american culture", "guitar", "musical genre", "jazz"]
 heroImage: "/images/articles/blues-music.webp"
-heroAlt: "Musician playing electric guitar on a dimly lit stage with blue lighting"
+heroAlt: "Editorial photograph representing the concept of blues music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,13 +53,13 @@ The vast majority of traditional blues follows a 12-bar pattern using three chor
 - Bars 9-10: B7 (V chord)
 - Bars 11-12: E (I chord)
 
-This structure is so ingrained in popular music that musicians can jump into a blues jam without prior arrangement. Call out the key, count it off, and everyone knows where they are. The simplicity of the form creates freedom — within those 12 bars, melodic and rhythmic invention is unlimited.
+This structure is so ingrained in popular music that musicians can jump into a blues jam without prior arrangement. Call out the key, count it off, and everyone knows where they are. The simplicity of the form creates freedom — within those 12 bars, melodic and rhythmic [invention](/invention) is unlimited.
 
 ### Blue Notes and Scales
 
 Blue notes — the slightly flatted third, fifth, and seventh degrees of the major scale — give blues its distinctive emotional color. They exist in the space between major and minor, creating ambiguity and tension that mirrors the emotional content of the lyrics. On guitar, blue notes are produced by bending strings — literally pushing them sideways to change pitch continuously rather than jumping between fixed notes.
 
-The blues scale (a minor pentatonic scale plus the flatted fifth) is probably the most widely used scale in popular music. If you've ever heard a guitar solo in a rock song, you've heard the blues scale.
+The blues scale (a minor pentatonic scale plus the flatted fifth) is probably the most widely used scale in popular music. If you've ever heard [a guitar](/guitar) solo in a rock song, you've heard the blues scale.
 
 ### Call and Response
 
@@ -69,7 +69,7 @@ Inherited from West African musical traditions, call-and-response is fundamental
 
 ### Country Blues (1900s-1930s)
 
-Solo performers — voice and acoustic guitar, sometimes harmonica or [banjo](/banjo) — playing on street corners, at juke joints, and at rural gatherings. Key figures: Robert Johnson, Blind Lemon Jefferson, Lead Belly, Mississippi John Hurt.
+Solo performers — voice and acoustic guitar, sometimes [harmonica](/harmonica) or [banjo](/banjo) — playing on street corners, at juke joints, and at rural gatherings. Key figures: Robert Johnson, Blind Lemon Jefferson, Lead Belly, Mississippi John Hurt.
 
 ### Classic Blues (1920s-1930s)
 

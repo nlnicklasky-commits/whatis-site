@@ -5,7 +5,7 @@ description: "Social anthropology studies human societies and cultures through f
 category: social-sciences
 tags: ["social anthropology", "culture", "ethnography", "fieldwork", "kinship", "social structure"]
 heroImage: "/images/articles/social-anthropology.webp"
-heroAlt: "An anthropologist taking field notes while observing a community gathering in a village setting"
+heroAlt: "Editorial photograph representing the concept of social anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "Participant observation is the primary research method in social anthropology. The researcher lives within the community they're studying for an extended period (typically 12-24 months), participating in daily life while systematically observing and recording social interactions, rituals, economic activities, and relationships. The goal is understanding a culture from the inside rather than measuring it from the outside."
 ---
 
-# What Is Social Anthropology?
+# What Is Social [Anthropology](/anthropology)?
 
 Social anthropology is the study of human societies, cultures, and social relationships through immersive fieldwork. Anthropologists spend extended periods living within communities — observing daily life, participating in rituals, learning languages, and building relationships — to understand how different groups of people organize their lives, make meaning, and relate to each other.
 
-The core premise is deceptively simple: to understand how people live, you have to go live among them. Not send surveys. Not analyze statistics from a distance. Actually be there — eating, working, celebrating, and struggling alongside the people you're studying. This method produces a depth of understanding that no other social science achieves, though it also raises challenging questions about objectivity, representation, and power.
+The core premise is deceptively simple: to understand how people live, you have to go live among them. Not send surveys. Not analyze [statistics](/statistics) from a distance. Actually be there — eating, working, celebrating, and struggling alongside the people you're studying. This method produces a depth of understanding that no other social science achieves, though it also raises challenging questions about objectivity, representation, and power.
 
 ## How It Works
 
@@ -59,6 +59,6 @@ The discipline has changed enormously since its colonial-era origins. Early anth
 
 Contemporary anthropologists study everything from Silicon Valley tech culture to climate change adaptation in Pacific Island communities. Corporate ethnography has become a significant field — companies like Intel, Microsoft, and Google employ anthropologists to understand how people actually use technology (as opposed to how engineers think they should use it).
 
-Medical anthropology examines how different cultures understand health, illness, and healing — crucial knowledge for public health programs that fail when they ignore local beliefs and practices. Development anthropology studies why aid programs succeed or fail based on cultural context. Digital anthropology examines online communities and virtual worlds.
+[Medical anthropology](/medical-anthropology) examines how different cultures understand health, illness, and healing — crucial knowledge for [public health](/public-health) programs that fail when they ignore local beliefs and practices. Development anthropology studies why aid programs succeed or fail based on cultural context. Digital anthropology examines online communities and virtual worlds.
 
 The discipline's insistence on context, complexity, and the insider's perspective remains its greatest strength. In a world that loves simple explanations and universal solutions, social anthropology reminds us that human life is complicated, that different is not inferior, and that understanding requires patience, humility, and genuine engagement with how other people see the world.

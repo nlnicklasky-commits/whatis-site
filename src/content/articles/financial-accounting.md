@@ -5,7 +5,7 @@ description: "Financial accounting tracks and reports a company's financial acti
 category: finance
 tags: ["accounting", "financial reporting", "gaap", "ifrs", "balance sheet", "income statement", "cash flow"]
 heroImage: "/images/articles/financial-accounting-hero.webp"
-heroAlt: "Accountant reviewing financial statements with calculator and spreadsheets"
+heroAlt: "Editorial photograph representing the concept of financial accounting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Financial accounting is the process of recording, summarizing, and reporting a c
 
 Imagine you're considering investing $50,000 in a company. You'd probably want to know a few things first. Is the company profitable? How much debt does it carry? Is it generating enough cash to pay its bills? How do its finances compare to competitors?
 
-Without standardized financial reporting, every company could present its finances however it wanted. One might include anticipated future sales as current revenue. Another might hide debt in subsidiaries. A third might define "profit" in some creative way that flatters the numbers.
+Without standardized financial reporting, every company could present its finances however it wanted. One might include anticipated future [sales](/sales) as current revenue. Another might hide debt in subsidiaries. A third might define "profit" in some creative way that flatters the numbers.
 
 Financial accounting solves this problem by creating a common language and set of rules. When Apple and Microsoft both report revenue, that number means the same thing for both companies. When any publicly traded company files financial statements, investors can compare them on equal footing.
 
@@ -150,7 +150,7 @@ Financial accounting follows a structured cycle, typically quarterly and annuall
 
 **Step 7: Close the books.** Temporary accounts (revenue, expenses) are zeroed out, and net income flows into retained earnings on the balance sheet.
 
-Modern [accounting](/accounting) software automates much of this process, but understanding the underlying logic is essential for interpreting the output correctly.
+Modern [accounting](/accounting) software automates much of this process, but understanding the underlying [logic](/logic) is essential for interpreting the output correctly.
 
 ## Accrual Accounting vs. Cash Accounting
 
@@ -206,7 +206,7 @@ The history of financial accounting includes spectacular failures that reshaped 
 
 **Wirecard (2020)**: A German fintech company that claimed to have $2.1 billion in cash in Philippine bank accounts. The money didn't exist. Despite audits by EY, the fraud went undetected for years.
 
-These scandals share common patterns: management pressure to meet earnings expectations, weak internal controls, auditor failures, and accounting tricks that technically complied with rules while violating their spirit. Each scandal triggered regulatory reforms, but the incentive to present favorable financial results persists. The tension between honest reporting and management incentives is a permanent feature of financial accounting.
+These scandals share common patterns: [management](/management) pressure to meet earnings expectations, weak internal controls, auditor failures, and accounting tricks that technically complied with rules while violating their spirit. Each scandal triggered regulatory reforms, but the incentive to present favorable financial results persists. The tension between honest reporting and management incentives is a permanent feature of financial accounting.
 
 ## The Technology Shift
 
@@ -214,9 +214,9 @@ Financial accounting is being transformed by technology.
 
 **Cloud accounting software** (QuickBooks Online, Xero, NetSuite) has replaced desktop systems, enabling real-time collaboration and automatic data feeds from bank accounts, credit cards, and point-of-sale systems.
 
-**Automation and AI** are handling routine tasks. Bank reconciliations, invoice processing, and basic journal entries can be automated. Machine learning algorithms flag unusual transactions for review. This is shifting the accountant's role from recording transactions to analyzing them.
+**Automation and AI** are handling routine tasks. Bank reconciliations, invoice processing, and basic journal entries can be automated. [Machine learning](/machine-learning) algorithms flag unusual transactions for review. This is shifting the accountant's role from recording transactions to analyzing them.
 
-**Blockchain** has been proposed as a future accounting technology—a permanent, tamper-proof ledger that could make auditing easier or even unnecessary. In practice, blockchain adoption in accounting remains limited, but the idea of a shared, immutable transaction record is conceptually appealing.
+**[Blockchain](/blockchain)** has been proposed as a future accounting technology—a permanent, tamper-proof ledger that could make auditing easier or even unnecessary. In practice, blockchain adoption in accounting remains limited, but the idea of a shared, immutable transaction record is conceptually appealing.
 
 **XBRL (eXtensible Business Reporting Language)** standardizes electronic financial reporting. SEC filings are tagged in XBRL, allowing computers to automatically extract and compare financial data across companies—something that previously required manual analysis.
 
@@ -226,9 +226,9 @@ Financial accounting supports several career paths, each with different skill re
 
 **Public accounting** (working at an audit firm) is the most common entry point. Junior auditors learn by examining client financial statements. The CPA certification is almost universally required for advancement. Compensation starts around $55,000-$70,000 and can reach $150,000-$300,000 for partners at mid-size firms (significantly more at the Big Four).
 
-**Corporate accounting** means working inside a company's finance department. Controller, chief accounting officer, and eventually CFO represent the career ladder. The work is less varied than public accounting but more stable.
+**Corporate accounting** means working inside a company's [finance](/finance) department. Controller, chief accounting officer, and eventually CFO represent the career ladder. The work is less varied than public accounting but more stable.
 
-**Government and nonprofit accounting** follows different rules (GASB standards for government, specific FASB standards for nonprofits) but uses the same fundamental principles.
+**[Government](/government) and nonprofit accounting** follows different rules (GASB standards for government, specific FASB standards for nonprofits) but uses the same fundamental principles.
 
 **Forensic accounting** investigates fraud, embezzlement, and financial disputes. Forensic accountants combine accounting knowledge with investigative skills, often working with law enforcement or in litigation support.
 

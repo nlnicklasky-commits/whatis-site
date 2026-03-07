@@ -5,7 +5,7 @@ description: "Chemistry is the science of matter and how substances interact, bo
 category: science
 tags: ["chemistry", "science", "matter", "atoms", "molecules", "chemical reactions", "elements"]
 heroImage: "/images/articles/chemistry-hero.webp"
-heroAlt: "Colorful chemical reactions in laboratory glassware with periodic table in background"
+heroAlt: "Editorial photograph representing the concept of chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -129,15 +129,15 @@ Carbon's ability to form four stable bonds and chain together indefinitely creat
 
 If you've ever heard someone complain about organic chemistry being hard—they're not wrong. The sheer number of reactions, mechanisms, and molecular architectures makes it one of the most demanding undergraduate courses. But it's also where chemistry becomes genuinely creative, as chemists design and build molecules that never existed before.
 
-### Inorganic Chemistry
+### [Inorganic Chemistry](/inorganic-chemistry)
 
 Inorganic chemistry covers everything organic chemistry doesn't—metals, minerals, organometallic compounds, and more. It's a broader field than it sounds. Catalysts for industrial processes, semiconductor materials, pigments, ceramics, and coordination compounds all fall here.
 
 Transition metals are particularly interesting because their partially filled d-orbitals create colorful compounds and variable oxidation states. This is why copper solutions are blue, permanganate is purple, and chromium compounds come in almost every color imaginable.
 
-### Physical Chemistry
+### [Physical Chemistry](/physical-chemistry)
 
-Physical chemistry applies physics principles—thermodynamics, quantum mechanics, statistical mechanics—to chemical systems. It answers questions like: Why does this reaction release heat? How fast will it go? What's the equilibrium state?
+Physical chemistry applies physics principles—thermodynamics, quantum mechanics, [statistical mechanics](/statistical-mechanics)—to chemical systems. It answers questions like: Why does this reaction release heat? How fast will it go? What's the equilibrium state?
 
 Thermodynamics tells you whether a reaction is possible. Kinetics tells you how fast it happens. Quantum mechanics explains why electrons behave as they do. Physical chemistry is math-heavy and abstract, but it provides the theoretical foundation everything else rests on. If you're comfortable with [algebra](/algebra) and calculus, physical chemistry might appeal to you.
 
@@ -163,7 +163,7 @@ You probably don't think about chemistry while making breakfast, but it's happen
 
 **Medications** are chemistry's most personal contribution to your life. Aspirin, discovered in 1897, works by inhibiting cyclooxygenase enzymes that produce inflammation-causing prostaglandins. Every pharmaceutical drug is a molecule designed to interact with specific biological targets—receptors, enzymes, ion channels—in precise ways.
 
-**Materials science** is chemistry shaping the physical world. The plastics in your phone case, the silicon in its processor, the lithium compounds in its battery, the glass covering its screen—all products of chemical engineering and materials chemistry. The development of [alternative energy](/alternative-energy) technologies depends heavily on chemistry for better batteries, solar cells, and hydrogen fuel systems.
+**[Materials science](/materials-science)** is chemistry shaping the physical world. The plastics in your phone case, the silicon in its processor, the lithium compounds in its battery, the glass covering its screen—all products of [chemical engineering](/chemical-engineering) and materials chemistry. The development of [alternative energy](/alternative-energy) technologies depends heavily on chemistry for better batteries, solar cells, and hydrogen fuel systems.
 
 ## A Brief History: From Alchemy to Modern Chemistry
 

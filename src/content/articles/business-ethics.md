@@ -5,7 +5,7 @@ description: "Business ethics applies moral principles to commercial activity, g
 category: finance
 tags: ["business ethics", "corporate governance", "csr", "corporate social responsibility", "ethical dilemmas", "business responsibility", "moral principles"]
 heroImage: "/images/articles/business-ethics-hero.webp"
-heroAlt: "Balance scale symbolizing ethical decision-making in a corporate environment"
+heroAlt: "Editorial photograph representing the concept of business ethics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,9 +59,9 @@ The question isn't whether ethics is always profitable. It's whether the long-te
 
 ## The Philosophical Foundations
 
-Business ethics draws on moral philosophy — traditions that have been debating right and wrong for millennia.
+Business ethics draws on [moral philosophy](/moral-philosophy) — traditions that have been debating right and wrong for millennia.
 
-### Utilitarianism: The Greatest Good
+### [Utilitarianism](/utilitarianism): The Greatest Good
 
 Jeremy Bentham and John Stuart Mill argued that the right action is the one that produces the greatest good for the greatest number. In business, this translates to evaluating decisions based on their total consequences — not just for shareholders, but for all affected parties.
 
@@ -77,7 +77,7 @@ In business, Kantian ethics means: don't deceive customers (even if it boosts sa
 
 This approach has clear strengths — it protects individual rights even when violating them would benefit the majority. But it's rigid. What happens when rules conflict? When honesty harms an innocent person? Deontological ethics doesn't always handle these conflicts gracefully.
 
-### Virtue Ethics: Character Counts
+### [Virtue Ethics](/virtue-ethics): Character Counts
 
 Aristotle's tradition asks not "what should I do?" but "what kind of person should I be?" Virtue ethics focuses on character traits — honesty, courage, fairness, temperance — rather than rules or consequences.
 
@@ -85,11 +85,11 @@ In business, this translates to a focus on organizational culture and individual
 
 ### Stakeholder Theory: Beyond Shareholders
 
-R. Edward Freeman's stakeholder theory, developed in the 1984 book "Strategic Management: A Stakeholder Approach," argues that businesses have obligations not just to shareholders but to all stakeholders — employees, customers, suppliers, communities, and the environment.
+R. Edward Freeman's stakeholder theory, developed in the 1984 book "[Strategic Management](/strategic-management): A Stakeholder Approach," argues that businesses have obligations not just to shareholders but to all stakeholders — employees, customers, suppliers, communities, and the environment.
 
 This directly challenged Milton Friedman's 1970 assertion that "the social responsibility of business is to increase its profits." Friedman argued that managers spending corporate funds on social causes was essentially stealing from shareholders. Freeman argued that ignoring stakeholder interests ultimately harms shareholders too — through regulation, boycotts, employee turnover, and reputational damage.
 
-The stakeholder vs. shareholder debate continues, but the trend is clearly toward stakeholder thinking. The Business Roundtable's 2019 statement — signed by 181 CEOs including those of Apple, Amazon, and JPMorgan Chase — redefined the purpose of a corporation to include serving customers, investing in employees, dealing ethically with suppliers, supporting communities, and generating long-term shareholder value. Whether this represents genuine commitment or public relations remains debated.
+The stakeholder vs. shareholder debate continues, but the trend is clearly toward stakeholder thinking. The Business Roundtable's 2019 statement — signed by 181 CEOs including those of Apple, Amazon, and JPMorgan Chase — redefined the purpose of a corporation to include serving customers, investing in employees, dealing ethically with suppliers, supporting communities, and generating long-term shareholder value. Whether this represents genuine commitment or [public relations](/public-relations) remains debated.
 
 ## The Real-World Ethical Issues
 
@@ -103,7 +103,7 @@ How companies treat workers is the oldest and most persistent ethical battlegrou
 
 **Working conditions**: After the 2013 Rana Plaza garment factory collapse in Bangladesh killed 1,134 workers, global brands faced scrutiny over supply chain labor conditions. Many companies technically didn't own the factories — they contracted production to independent manufacturers. But "we didn't know" stopped being an acceptable excuse.
 
-**Gig economy**: Companies like Uber, DoorDash, and TaskRabbit classify workers as independent contractors, avoiding the costs of benefits, unemployment insurance, and labor protections. Whether this is an ethical innovation giving workers flexibility or exploitation avoiding legitimate obligations depends on who you ask — and on the specific circumstances of the workers involved.
+**Gig economy**: Companies like Uber, DoorDash, and TaskRabbit classify workers as independent contractors, avoiding the costs of benefits, unemployment [insurance](/insurance), and labor protections. Whether this is an ethical innovation giving workers flexibility or exploitation avoiding legitimate obligations depends on who you ask — and on the specific circumstances of the workers involved.
 
 **Surveillance**: Employee monitoring technology can track keystrokes, screen content, mouse movements, location, and even facial expressions. Legal in most jurisdictions (with disclosure), but ethically questionable — particularly when extended to remote workers' homes.
 
@@ -125,7 +125,7 @@ The digital economy runs on personal data, and the ethical questions are enormou
 
 **Algorithmic bias**: AI systems used for hiring, lending, criminal sentencing, and insurance pricing can perpetuate and amplify existing biases. Amazon scrapped an AI recruiting tool in 2018 after discovering it penalized resumes containing the word "women's" (as in "women's chess club"). The algorithm learned from historical hiring data — which reflected existing gender bias.
 
-**Surveillance capitalism**: Companies like Google and Meta built trillion-dollar businesses on monitoring human behavior and selling predictions about it. Whether this business model is ethical — even with user "consent" — is one of the defining ethical questions of the 21st century.
+**Surveillance [capitalism](/capitalism)**: Companies like Google and Meta built trillion-dollar businesses on monitoring human behavior and selling predictions about it. Whether this business model is ethical — even with user "consent" — is one of the defining ethical questions of the 21st century.
 
 ### Financial Ethics
 
@@ -167,7 +167,7 @@ CSR is the voluntary integration of social and environmental concerns into busin
 
 **Environmental initiatives**: Carbon reduction commitments, sustainable sourcing, waste elimination. Apple's commitment to making every product carbon-neutral by 2030 is an ambitious CSR goal backed by significant investment.
 
-**Community investment**: Supporting education, healthcare, infrastructure, and economic development in communities where companies operate. This can be self-interested — investing in local education produces future employees — but the community benefits regardless of motivation.
+**Community investment**: Supporting [education](/education), healthcare, infrastructure, and economic development in communities where companies operate. This can be self-interested — investing in local education produces future employees — but the community benefits regardless of motivation.
 
 **Supply chain responsibility**: Ensuring ethical labor practices, environmental standards, and fair dealing throughout the supply chain. This is particularly challenging for companies with complex global supply chains spanning dozens of countries with different labor and environmental standards.
 

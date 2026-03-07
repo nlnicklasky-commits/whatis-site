@@ -5,7 +5,7 @@ description: "Food chemistry studies the chemical makeup and reactions in food, 
 category: science
 tags: ["food science", "chemistry", "nutrition", "food safety", "food processing", "biochemistry", "sensory science"]
 heroImage: "/images/articles/food-chemistry-hero.webp"
-heroAlt: "Laboratory equipment alongside colorful fresh foods representing the intersection of chemistry and cuisine"
+heroAlt: "Editorial photograph representing the concept of food chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Food Chemistry?
 
-Food chemistry is the branch of chemistry that studies the chemical composition of food, the chemical changes food undergoes during processing, cooking, and storage, and the chemical interactions between food components that determine texture, flavor, color, nutritional value, and safety. It sits at the intersection of organic chemistry, [biochemistry](/biochemistry), and analytical chemistry.
+Food chemistry is the branch of chemistry that studies the chemical composition of food, the chemical changes food undergoes during processing, cooking, and storage, and the chemical interactions between food components that determine texture, flavor, color, nutritional value, and safety. It sits at the intersection of [organic chemistry](/organic-chemistry), [biochemistry](/biochemistry), and analytical chemistry.
 
 ## The Major Components of Food
 
@@ -45,7 +45,7 @@ Every food you eat is a mixture of just a handful of chemical categories. Unders
 
 Water is the most abundant component in most fresh foods. Fruits and vegetables are typically 80-95% water. Meat is about 65-75%. Even bread is roughly 35% water.
 
-But water in food isn't just sitting there passively. It exists in different states — free water that can move around, and bound water that's chemically or physically attached to proteins, starches, and other molecules. This distinction matters enormously for food preservation. Bacteria need free water to grow. The concept of "water activity" (aw) measures how available water is for microbial growth and chemical reactions, on a scale from 0 to 1. Fresh meat has a water activity around 0.99. Dried fruit drops to about 0.6. Below 0.6, most bacteria can't grow — which is why dried foods last so much longer.
+But water in food isn't just sitting there passively. It exists in different states — free water that can move around, and bound water that's chemically or physically attached to proteins, starches, and other molecules. This distinction matters enormously for [food preservation](/food-preservation). Bacteria need free water to grow. The concept of "water activity" (aw) measures how available water is for microbial growth and chemical reactions, on a scale from 0 to 1. Fresh meat has a water activity around 0.99. Dried fruit drops to about 0.6. Below 0.6, most bacteria can't grow — which is why dried foods last so much longer.
 
 Water activity explains why adding sugar to fruit (jam) or salt to meat (curing) preserves food even though the food still contains plenty of water. The sugar or salt molecules bind water, lowering its activity and making it unavailable to microbes.
 
@@ -59,7 +59,7 @@ Carbohydrates are the most abundant organic molecules in food. They range from s
 
 When you cook starch in water, the granules swell and absorb water in a process called gelatinization. This is why flour thickens sauces — the starch granules swell, trap water, and create viscosity. When the starch cools, the amylose molecules realign in a process called retrogradation. This is why bread goes stale — it's not drying out (stale bread has nearly the same moisture content as fresh bread). The starch is recrystallizing.
 
-**Dietary fiber** includes cellulose, hemicellulose, pectin, and other polysaccharides that human digestive enzymes can't break down. We can't extract calories from cellulose even though it's made of glucose — our enzymes can't cleave the specific bond type (beta-1,4 linkages) that holds cellulose together. Cows can, thanks to bacterial fermentation in their rumen.
+**Dietary fiber** includes cellulose, hemicellulose, pectin, and other polysaccharides that human digestive enzymes can't break down. We can't extract calories from cellulose even though it's made of glucose — our enzymes can't cleave the specific bond type (beta-1,4 linkages) that holds cellulose together. Cows can, thanks to bacterial [fermentation](/fermentation) in their rumen.
 
 Pectin deserves special mention because it's the reason jam sets. Pectin molecules form a gel network in the presence of sugar and acid. Without enough of either, your jam stays runny. This is pure [chemistry](/chemistry) applied to your breakfast toast.
 
@@ -71,7 +71,7 @@ A protein is a chain of amino acids folded into a specific three-dimensional sha
 
 When you cook an egg, you're denaturing proteins. The translucent, liquid egg white (mostly water and the protein albumin) becomes opaque and solid as heat unfolds the albumin molecules, which then bond to each other in a tangled network that traps water. The temperature matters precisely: at 62°C, the egg white proteins denature. At 68°C, the yolk proteins denature. This is why sous vide cooking at exact temperatures can produce an egg with a fully set white and a perfectly runny yolk.
 
-**Gluten** is perhaps the most famous food protein system. It forms when two wheat proteins — glutenin and gliadin — combine with water and mechanical energy (kneading). Glutenin provides elasticity and strength. Gliadin provides extensibility. Together, they create the stretchy network that traps gas bubbles in bread dough, allowing it to rise. Different wheat varieties have different ratios of these proteins, which is why bread flour and cake flour behave so differently.
+**Gluten** is perhaps the most famous food protein system. It forms when two wheat proteins — glutenin and gliadin — combine with water and mechanical energy (kneading). Glutenin provides [elasticity](/elasticity) and strength. Gliadin provides extensibility. Together, they create the stretchy network that traps gas bubbles in bread dough, allowing it to rise. Different wheat varieties have different ratios of these proteins, which is why bread flour and cake flour behave so differently.
 
 Proteins also undergo the Maillard reaction and contribute to enzymatic browning — the process that turns a cut apple brown within minutes. That browning is caused by the enzyme polyphenol oxidase reacting with phenolic compounds in the presence of oxygen. Lemon juice slows it down by lowering the pH (the enzyme works best near neutral pH) and because vitamin C acts as a reducing agent that reverses the oxidation.
 
@@ -151,11 +151,11 @@ Coffee contains over 800 identified aroma compounds. Chocolate has more than 600
 
 Food chemists use sophisticated instruments to identify and quantify the chemical components of food.
 
-**High-performance liquid chromatography (HPLC)** separates mixtures into individual compounds, allowing identification and quantification of vitamins, sugars, amino acids, and additives. It's the workhorse of food analysis laboratories.
+**High-performance liquid [chromatography](/chromatography) (HPLC)** separates mixtures into individual compounds, allowing identification and quantification of vitamins, sugars, amino acids, and additives. It's the workhorse of food analysis laboratories.
 
 **Gas chromatography-mass spectrometry (GC-MS)** identifies volatile compounds — the molecules responsible for aroma and flavor. When food scientists characterize "what makes coffee smell like coffee," GC-MS is their primary tool.
 
-**Spectroscopy** (infrared, UV-visible, NMR) provides information about molecular structure and can rapidly screen for adulteration. Near-infrared spectroscopy can determine the fat, protein, and moisture content of food in seconds without destroying the sample.
+**[Spectroscopy](/spectroscopy)** (infrared, UV-visible, NMR) provides information about molecular structure and can rapidly screen for adulteration. Near-infrared spectroscopy can determine the fat, protein, and moisture content of food in seconds without destroying the sample.
 
 **DNA-based methods** like PCR can identify species — detecting horsemeat in beef products, for example, or verifying that expensive saffron isn't adulterated with cheaper substitutes.
 
@@ -171,7 +171,7 @@ Environmental contaminants present different challenges. Heavy metals (lead, mer
 
 ### Allergens
 
-Food allergies are immune reactions to specific proteins. The "Big Nine" allergens (milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, soybeans, sesame) account for the vast majority of allergic reactions. The proteins responsible have been identified and characterized — casein and whey in milk, ovomucoid in eggs, tropomyosin in shellfish.
+Food [allergies](/allergies) are immune reactions to specific proteins. The "Big Nine" allergens (milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, soybeans, sesame) account for the vast majority of allergic reactions. The proteins responsible have been identified and characterized — casein and whey in milk, ovomucoid in eggs, tropomyosin in shellfish.
 
 Detecting allergen contamination at parts-per-million levels is a critical food chemistry task. ELISA (enzyme-linked immunosorbent assay) and PCR-based methods can detect trace quantities of allergen proteins in processed foods, enabling the "may contain" warnings that protect allergic consumers.
 

@@ -5,7 +5,7 @@ description: "Semiconductor physics explains how materials like silicon conduct 
 category: science
 tags: ["semiconductor physics", "electronics", "physics", "transistors", "silicon", "band theory", "integrated circuits"]
 heroImage: "/images/articles/semiconductor-physics-hero.webp"
-heroAlt: "Close-up view of a silicon wafer with integrated circuits reflecting light"
+heroAlt: "Editorial photograph representing the concept of semiconductor physics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -195,7 +195,7 @@ The blessing: tunnel diodes, flash memory, and scanning tunneling microscopes al
 
 Confine a semiconductor to a region just a few nanometers in size — small enough that quantum effects dominate — and you get a quantum dot. These tiny structures have discrete energy levels like individual atoms, earning them the nickname "artificial atoms."
 
-The size of the dot determines its energy levels and therefore the wavelength of light it emits. Larger dots emit red light; smaller dots emit blue. This tunability makes quantum dots incredibly useful for displays (Samsung's QLED TVs), biological imaging, and potentially quantum computing.
+The size of the dot determines its energy levels and therefore the wavelength of light it emits. Larger dots emit red light; smaller dots emit blue. This tunability makes quantum dots incredibly useful for displays (Samsung's QLED TVs), biological imaging, and potentially [quantum computing](/quantum-computing).
 
 ### The Road to Quantum Computing
 
@@ -253,13 +253,13 @@ The most advanced chip fabrication is concentrated in a remarkably small number 
 
 The CHIPS Act, signed in 2022, allocated $52.7 billion to boost U.S. semiconductor manufacturing. New fabrication plants under construction in Arizona, Ohio, and New York represent the largest industrial investment in American history outside wartime.
 
-This all traces back to physics. The extreme difficulty of manufacturing at the nanometer scale means that the knowledge, equipment, and processes required take decades to develop. You can't simply build a chip factory — you need the accumulated expertise of an entire ecosystem, from [chemistry](/chemistry) to materials science to precision engineering.
+This all traces back to physics. The extreme difficulty of manufacturing at the nanometer scale means that the knowledge, equipment, and processes required take decades to develop. You can't simply build a chip factory — you need the accumulated expertise of an entire ecosystem, from [chemistry](/chemistry) to [materials science](/materials-science) to precision engineering.
 
 ## Where Semiconductor Physics Is Heading
 
 The field is evolving in several directions simultaneously.
 
-**Neuromorphic computing** designs chips that mimic the brain's neural architecture. Instead of the traditional von Neumann model where memory and processing are separate, neuromorphic chips integrate memory and computation, potentially achieving brain-like energy efficiency for specific tasks like pattern recognition.
+**Neuromorphic computing** designs chips that mimic the brain's neural architecture. Instead of the traditional von Neumann model where memory and processing are separate, neuromorphic chips integrate memory and computation, potentially achieving brain-like energy efficiency for specific tasks like [pattern recognition](/pattern-recognition).
 
 **Spintronics** uses the quantum spin of electrons, not just their charge, to process and store information. Magnetoresistive RAM (MRAM) already uses spin-based effects for non-volatile memory, and future spintronic devices could enable entirely new computing paradigms.
 

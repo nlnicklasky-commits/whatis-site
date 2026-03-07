@@ -5,7 +5,7 @@ description: "Comparative politics studies political systems across countries to
 category: everyday-concepts
 tags: ["comparative politics", "political science", "politics", "government", "political systems", "international relations"]
 heroImage: "/images/articles/comparative-politics.webp"
-heroAlt: "A world map with different colored regions representing various political systems"
+heroAlt: "Editorial photograph representing the concept of comparative politics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Comparative Politics?
 
-Comparative politics is the subfield of political science that studies political systems, institutions, and behavior by comparing them across different countries. Instead of asking "How does the U.S. government work?" it asks "How do governments work differently in the U.S., Germany, Japan, and Nigeria — and what explains those differences?"
+Comparative politics is the subfield of [political science](/political-science) that studies political systems, institutions, and behavior by comparing them across different countries. Instead of asking "How does the U.S. [government](/government) work?" it asks "How do governments work differently in the U.S., Germany, Japan, and Nigeria — and what explains those differences?"
 
-## The Core Logic
+## The Core [Logic](/logic)
 
 The fundamental method is comparison. You can't understand what's unique about any single political system without knowing what other systems look like. Is the American two-party system normal? Compare it to Germany's multi-party system, India's coalition-heavy democracy, and China's one-party state, and you start seeing what's distinctive about each.
 
@@ -59,7 +59,7 @@ Aristotle was arguably the first comparative political scientist. He collected a
 
 **Case studies** examine single countries in depth. They sacrifice breadth for depth, allowing scholars to trace complex causal processes that cross-country statistical analysis might miss.
 
-**Quantitative analysis** uses large datasets covering many countries to identify statistical patterns. Freedom House's annual Freedom in the World report, the World Bank's governance indicators, and the Varieties of Democracy (V-Dem) dataset provide the raw material for this approach.
+**[Quantitative analysis](/quantitative-analysis)** uses large datasets covering many countries to identify statistical patterns. Freedom House's annual Freedom in the World report, the World Bank's governance indicators, and the Varieties of Democracy (V-Dem) dataset provide the raw material for this approach.
 
 ## Major Subfields
 
@@ -67,9 +67,9 @@ Aristotle was arguably the first comparative political scientist. He collected a
 
 **Political parties and elections** examines how party systems form, how electoral rules shape representation, and how voters make choices across different contexts.
 
-**Political economy** investigates how [politics](/politics) and economics interact across countries. Why do some states promote industrial development while others rely on resource extraction? How do different welfare state models affect inequality?
+**Political economy** investigates how [politics](/politics) and [economics](/economics) interact across countries. Why do some states promote industrial development while others rely on resource extraction? How do different welfare state models affect inequality?
 
-**Identity politics** studies how ethnicity, religion, language, and other group identities shape political conflict and cooperation. This is especially important in diverse societies where political competition often follows identity lines.
+**Identity politics** studies how ethnicity, [religion](/religion), language, and other group identities shape political conflict and cooperation. This is especially important in diverse societies where political competition often follows identity lines.
 
 ## Limitations and Criticisms
 
@@ -79,4 +79,4 @@ Another challenge is the "too many variables, too few cases" problem. Countries 
 
 Selection bias is a constant risk too. Scholars tend to study countries they know and speak the languages of, which skews the evidence base toward certain regions and overlooks others.
 
-Despite these limitations, comparative politics provides some of the most practical insights in all of political science. Understanding why [institutions](/public-policy) succeed or fail across different contexts isn't just academic — it informs constitution-writing, development policy, and democratic reform efforts around the world.
+Despite these limitations, comparative politics provides some of the most practical insights in all of political science. Understanding why [institutions](/public-policy) succeed or fail across different contexts isn't just academic — it informs constitution-[writing](/writing), development policy, and democratic reform efforts around the world.

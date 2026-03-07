@@ -5,7 +5,7 @@ description: "Philosophy of language studies how words mean things, how language
 category: everyday-concepts
 tags: ["philosophy of language", "semantics", "meaning", "linguistics", "logic", "communication"]
 heroImage: "/images/articles/philosophy-of-language.webp"
-heroAlt: "Abstract representation of words and symbols connecting to objects and ideas"
+heroAlt: "Editorial photograph representing the concept of philosophy of language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Language shapes how we think, argue, persuade, legislate, and understand each other. Legal disputes often hinge on what words mean in contracts and statutes. Political debates are frequently arguments about definitions (What counts as 'freedom'? What is 'marriage'?). AI language models raise questions about whether machines can truly understand meaning. Philosophy of language provides tools for analyzing these real-world issues."
 ---
 
-# What Is Philosophy of Language?
+# What Is [Philosophy](/philosophy) of Language?
 
 Philosophy of language is the branch of philosophy that investigates the nature of language, meaning, reference, and communication. It asks questions that seem absurdly simple until you try to answer them: How do words mean things? What connects the word "cat" to actual cats? When you say something, how does another person understand what you mean? Can language express everything, or are some things beyond words?
 
@@ -47,9 +47,9 @@ Gottlob Frege (1848-1925) noticed a critical problem. "The Morning Star" and "Th
 
 **The ideational theory** says words mean the mental images or concepts they produce in your mind. "Cat" means the cat-concept in your head. But your mental image of a cat is different from mine — you might picture a tabby, I might picture a Siamese. If meaning is mental imagery, we'd never mean quite the same thing. And what mental image does the word "the" produce?
 
-**The use theory** comes from Ludwig Wittgenstein (1889-1951), arguably the most influential philosopher of language. In his later work, Wittgenstein argued that the meaning of a word is its use in a "language game" — the social practices and contexts in which it's employed. You learn what "checkmate" means not by seeing a mental image but by learning to play chess. Meaning isn't a thing attached to words; it's a pattern of activity.
+**The use theory** comes from Ludwig Wittgenstein (1889-1951), arguably the most influential philosopher of language. In his later work, Wittgenstein argued that the meaning of a word is its use in a "language game" — the social practices and contexts in which it's employed. You learn what "checkmate" means not by seeing a mental image but by learning to play [chess](/chess). Meaning isn't a thing attached to words; it's a pattern of activity.
 
-**Truth-conditional semantics** says you understand a sentence's meaning when you know what conditions would make it true. You understand "Snow is white" when you know it's true if and only if snow is white. This approach, developed by Donald Davidson and others, works well for declarative sentences but struggles with questions, commands, and exclamations — "Close the door!" doesn't have truth conditions.
+**Truth-conditional [semantics](/semantics)** says you understand a sentence's meaning when you know what conditions would make it true. You understand "Snow is white" when you know it's true if and only if snow is white. This approach, developed by Donald Davidson and others, works well for declarative sentences but struggles with questions, commands, and exclamations — "Close the door!" doesn't have truth conditions.
 
 ## Names and Reference
 
@@ -81,6 +81,6 @@ This matters because it undermines a deeply intuitive picture — that you know 
 
 ## Why Any of This Matters
 
-Philosophy of language isn't just an academic exercise. Legal interpretation depends on theories of meaning — courts constantly debate what legislators "meant" by the words in statutes. Political argument is often a battle over definitions. Propaganda works by manipulating language. AI language models like ChatGPT raise the question of whether a system can process language without understanding meaning — and that question hinges on what "understanding" and "meaning" actually are.
+Philosophy of language isn't just an academic exercise. Legal interpretation depends on theories of meaning — courts constantly [debate](/debate) what legislators "meant" by the words in statutes. Political argument is often a battle over definitions. Propaganda works by manipulating language. AI language models like ChatGPT raise the question of whether a system can process language without understanding meaning — and that question hinges on what "understanding" and "meaning" actually are.
 
 Every time you argue about what someone "really meant," clarify a misunderstanding, or notice that a politician is using a word in a misleading way, you're engaging with the same problems that drive philosophy of language. The difference is that philosophers have been working on these problems systematically for over a century — and their tools are sharper than common intuition.

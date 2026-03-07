@@ -5,7 +5,7 @@ description: "Number theory studies the properties of integers, primes, and divi
 category: science
 tags: ["number theory", "mathematics", "integers", "prime numbers", "cryptography", "algebra", "divisibility"]
 heroImage: "/images/articles/number-theory-hero.webp"
-heroAlt: "Prime numbers spiraling outward in an abstract mathematical visualization"
+heroAlt: "Editorial photograph representing the concept of number theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

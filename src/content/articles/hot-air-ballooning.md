@@ -5,7 +5,7 @@ description: "Hot air ballooning is flight using heated air inside a fabric enve
 category: everyday-concepts
 tags: ["hot air ballooning", "hot air balloon", "aviation", "flight", "aerodynamics", "adventure"]
 heroImage: "/images/articles/hot-air-ballooning.webp"
-heroAlt: "Colorful hot air balloons rising over a valley at sunrise"
+heroAlt: "Editorial photograph representing the concept of hot air ballooning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Hot air ballooning is the oldest form of human flight, using the simple principle that heated air rises. A large fabric envelope traps heated air, which is less dense than the cooler air outside, creating buoyancy that lifts the balloon, its basket, its passengers, and its burner system off the ground. The Montgolfier brothers made the first untethered manned flight on November 21, 1783, in Paris — 120 years before the Wright brothers flew an airplane.
 
-## The Physics — Surprisingly Simple
+## The [Physics](/physics) — Surprisingly Simple
 
 Hot air balloons work because of Archimedes' principle applied to air. When you heat the air inside the envelope, it becomes less dense than the surrounding atmosphere. The density difference creates an upward buoyant force. If that force exceeds the total weight of the balloon system, you go up.
 
@@ -55,7 +55,7 @@ Commercial balloon rides follow a predictable pattern. You arrive before sunrise
 
 You climb into the wicker basket (yes, they still use wicker — it is lightweight, strong, and absorbs impact well). The pilot fires the burner, and the balloon lifts off. There is no sensation of speed or movement because you are moving with the wind — no wind blows in your face, no noise except the occasional burner blast. The silence between burns is remarkable.
 
-Flights typically last 45 minutes to an hour, covering 5 to 10 miles horizontally. You float at 1,000 to 3,000 feet above ground, watching the field scroll beneath you. The perspective is completely different from an airplane — you are close enough to see individual animals, hear dogs barking, and smell someone cooking breakfast below.
+Flights typically last 45 minutes to an hour, covering 5 to 10 miles horizontally. You float at 1,000 to 3,000 feet above ground, watching the field scroll beneath you. The perspective is completely different from an airplane — you are close enough to see individual animals, hear dogs barking, and smell someone [cooking](/cooking) breakfast below.
 
 Landing requires coordination. The pilot reads wind conditions and selects a suitable field. The basket touches down and may drag briefly. A chase crew — following on the ground in a vehicle — meets the balloon, helps deflate the envelope, and packs everything up. Most rides end with a champagne toast, a tradition that dates to the earliest balloon flights.
 

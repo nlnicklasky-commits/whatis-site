@@ -5,7 +5,7 @@ description: "Lobster fishing is the commercial and recreational harvesting of l
 category: everyday-concepts
 tags: ["lobster fishing", "fishing", "seafood", "marine industry", "lobster traps", "commercial fishing"]
 heroImage: "/images/articles/lobster-fishing.webp"
-heroAlt: "Lobster fisherman hauling a wire trap onto a boat in the early morning light"
+heroAlt: "Editorial photograph representing the concept of lobster fishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Maine's American lobster fishery is generally considered well-managed, with strict size limits, egg-bearing female protections, and trap limits. However, warming ocean temperatures are shifting lobster populations northward, and the fishery faces long-term uncertainty from climate change. Overfishing has depleted lobster populations in southern New England."
 ---
 
-# What Is Lobster Fishing?
+# What Is Lobster [Fishing](/fishing)?
 
-Lobster fishing is the harvesting of lobsters from the ocean, primarily using baited traps. It's a multibillion-dollar global industry, a way of life for thousands of coastal families, and — particularly in Maine — something close to a cultural religion.
+Lobster fishing is the harvesting of lobsters from the ocean, primarily using baited traps. It's a multibillion-dollar global industry, a way of life for thousands of coastal families, and — particularly in Maine — something close to a cultural [religion](/religion).
 
-The American lobster fishery alone was worth about $725 million at the dock in 2021 (the most recent peak year), with Maine accounting for roughly 80% of that haul. Factor in processing, distribution, and restaurant sales, and the economic impact multiplies several times over.
+The American lobster fishery alone was worth about $725 million at the dock in 2021 (the most recent peak year), with Maine [accounting](/accounting) for roughly 80% of that haul. Factor in processing, distribution, and restaurant [sales](/sales), and the economic impact multiplies several times over.
 
 But behind the butter-dipping and lobster rolls, there's a demanding, dangerous, and increasingly uncertain profession.
 
-## How Lobster Trapping Works
+## How Lobster [Trapping](/trapping) Works
 
 The basic method hasn't changed much in 150 years. A wire-mesh trap (historically wooden) is baited — herring and menhaden are the most common baits — and lowered to the ocean floor. A line runs from the trap to a painted buoy on the surface, identifying who owns it.
 
@@ -49,7 +49,7 @@ The work starts early. Very early. Most lobster boats leave the dock between 4:0
 
 ## Rules and Regulations
 
-Lobster fishing is one of the most tightly regulated fisheries in the world — and for good reason. Without strict management, lobster populations can collapse, as they did in parts of southern New England.
+Lobster fishing is one of the most tightly regulated fisheries in the world — and for good reason. Without strict [management](/management), lobster populations can collapse, as they did in parts of southern New England.
 
 The key regulations include:
 

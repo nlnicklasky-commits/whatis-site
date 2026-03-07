@@ -5,7 +5,7 @@ description: "Newspaper history traces how printed news evolved from handwritten
 category: everyday-concepts
 tags: ["newspaper history", "journalism", "media", "printing press", "press freedom", "mass media"]
 heroImage: "/images/articles/newspaper-history.webp"
-heroAlt: "Stack of vintage newspapers from different eras showing the evolution of print journalism"
+heroAlt: "Editorial photograph representing the concept of newspaper history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,7 +47,7 @@ Johannes Gutenberg's movable-type printing press (around 1440) made mass reprodu
 
 The first regularly published newspaper is generally credited as *Relation aller Fuernemmen und gedenckwuerdigen Historien*, printed by Johann Carolus in Strasbourg starting in 1605. Others followed quickly: the *Avisa Relation oder Zeitung* (1609) in Germany, the *Corante* (1621) in England.
 
-These early papers were small, published weekly, and mostly contained foreign news — diplomatic dispatches, military reports, trade information. Local news was still passed by word of mouth. You talked to your neighbor; you didn't read about them.
+These early papers were small, published weekly, and mostly contained foreign news — diplomatic dispatches, military reports, [trade](/trade) information. Local news was still passed by word of mouth. You talked to your neighbor; you didn't read about them.
 
 ## The Rise of the Press
 
@@ -55,13 +55,13 @@ The 18th century transformed newspapers from niche publications into political f
 
 In colonial America, newspapers became tools of revolution. Benjamin Franklin's *Pennsylvania Gazette* helped shape public opinion. Thomas Paine's *Common Sense* (technically a pamphlet, but distributed through newspaper networks) sold 500,000 copies and helped ignite the American Revolution.
 
-The First Amendment's protection of press freedom (1791) reflected the Founders' belief that a free press was essential to democracy. Jefferson famously wrote that he'd prefer newspapers without government over government without newspapers.
+The First Amendment's protection of press freedom (1791) reflected the Founders' belief that a free press was essential to democracy. Jefferson famously wrote that he'd prefer newspapers without [government](/government) over government without newspapers.
 
 ## The Penny Press and Mass Circulation
 
 The real transformation came in the 1830s with the penny press. Before this, newspapers cost six cents — affordable for merchants and professionals, not laborers. In 1833, Benjamin Day launched the *New York Sun* at one cent per copy, supported by advertising revenue rather than subscription fees.
 
-The penny press changed everything about journalism:
+The penny press changed everything about [journalism](/journalism):
 
 **Audience.** Newspapers suddenly reached working-class readers. Circulation exploded from thousands to tens of thousands.
 

@@ -5,7 +5,7 @@ description: "Psychology is the scientific study of mind and behavior. Learn abo
 category: science
 tags: ["psychology", "mind", "behavior", "mental health", "cognitive psychology", "social psychology", "clinical psychology"]
 heroImage: "/images/articles/psychology-hero.webp"
-heroAlt: "Abstract illustration of a human head with neural pathways and thought patterns"
+heroAlt: "Editorial photograph representing the concept of psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

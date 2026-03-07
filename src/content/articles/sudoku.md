@@ -5,7 +5,7 @@ description: "Sudoku is a number-placement puzzle where you fill a 9x9 grid usin
 category: everyday-concepts
 tags: ["sudoku", "puzzle", "logic", "number puzzle", "games", "brain teaser"]
 heroImage: "/images/articles/sudoku.webp"
-heroAlt: "A partially completed sudoku puzzle on paper with a pencil"
+heroAlt: "Editorial photograph representing the concept of sudoku"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sudoku?
 
-Sudoku is a logic-based number-placement puzzle. You get a 9×9 grid divided into nine 3×3 boxes, partially filled with digits from 1 to 9. Your job: fill in every empty cell so that each row, each column, and each 3×3 box contains all the digits from 1 to 9 exactly once.
+Sudoku is a [logic](/logic)-based number-placement puzzle. You get a 9×9 grid divided into nine 3×3 boxes, partially filled with digits from 1 to 9. Your job: fill in every empty cell so that each row, each column, and each 3×3 box contains all the digits from 1 to 9 exactly once.
 
 No math. No guessing (if it's a well-designed puzzle). Just pure logical deduction. That simplicity is exactly why it's become one of the most popular puzzles on the planet.
 
@@ -45,11 +45,11 @@ That's it. Three rules. From those three constraints comes an astonishing range 
 
 ## A Not-So-Japanese History
 
-Here's what most people get wrong: sudoku isn't originally Japanese. The puzzle was created by Howard Garns, a retired American architect from Indianapolis, and first published in 1979 in Dell Pencil Puzzles & Word Games magazine under the name "Number Place."
+Here's what most people get wrong: sudoku isn't originally Japanese. The puzzle was created by Howard Garns, a retired American architect from Indianapolis, and first published in 1979 in Dell Pencil Puzzles & [Word Games](/word-games) magazine under the name "Number Place."
 
 It was picked up by the Japanese publisher Nikoli in 1984, where it was renamed "Suuji wa dokushin ni kagiru" — meaning "the digits must be single." That mouthful was shortened to "Sudoku." Nikoli standardized the format, added aesthetic constraints (the given numbers should be arranged symmetrically), and the puzzle became enormously popular in Japan.
 
-The global explosion came in 2004 when Wayne Gould, a retired Hong Kong judge from New Zealand, convinced The Times of London to publish sudoku puzzles. Within months, newspapers worldwide were running daily sudoku. It was the biggest puzzle craze since Rubik's Cube.
+The global explosion came in 2004 when Wayne Gould, a retired Hong Kong judge from New Zealand, convinced The Times of London to publish sudoku puzzles. Within months, newspapers worldwide were [running](/running) daily sudoku. It was the biggest puzzle craze since Rubik's Cube.
 
 ## How to Solve One
 
@@ -71,7 +71,7 @@ The key insight for all strategies: you're not trying to figure out what goes in
 
 Sudoku has attracted serious [mathematical](/mathematics) attention. The total number of valid completed grids is 6,670,903,752,021,072,936,960 — a number calculated by Bertram Felgenhauer and Frazer Jarvis in 2005 using a combination of mathematical analysis and computation.
 
-The puzzle connects to several areas of math and computer science. It's technically an NP-complete problem (for generalized n×n grids), meaning there's no known algorithm that solves all cases quickly. It relates to graph theory (each cell is a node, and the constraints define edges), constraint satisfaction, and combinatorics.
+The puzzle connects to several areas of math and [computer science](/computer-science). It's technically an NP-complete problem (for generalized n×n grids), meaning there's no known algorithm that solves all cases quickly. It relates to [graph theory](/graph-theory) (each cell is a node, and the constraints define edges), constraint satisfaction, and combinatorics.
 
 Interestingly, the question of how many clues you need for a unique solution was only settled in 2012. Gary McGuire's team proved that 17 is the minimum — no 16-clue puzzle can have exactly one solution.
 
@@ -79,6 +79,6 @@ Interestingly, the question of how many clues you need for a unique solution was
 
 Sudoku hits a psychological sweet spot. It's challenging enough to require concentration but structured enough that progress feels tangible. Each cell you fill in makes the next one easier. There's a satisfying momentum to solving — the puzzle accelerates as you go, and the final cells fall into place in a rush.
 
-It's also genuinely good for you. Research suggests that regular puzzle-solving may help maintain cognitive function as you age. A 2019 study in the International Journal of Geriatric Psychiatry found that adults over 50 who regularly solved number and word puzzles performed better on tests of attention, reasoning, and memory.
+It's also genuinely good for you. Research suggests that regular puzzle-solving may help maintain cognitive function as you age. A 2019 study in the International Journal of Geriatric [Psychiatry](/psychiatry) found that adults over 50 who regularly solved number and word puzzles performed better on tests of attention, reasoning, and memory.
 
-Plus, a sudoku puzzle is perfectly portable. No electricity, no internet, no opponent needed. Just a grid and a pencil. In an age of constant digital stimulation, there's something refreshing about a challenge that fits on a single sheet of paper and asks nothing of you but clear [logical](/algorithms) thinking.
+Plus, a sudoku puzzle is perfectly portable. No [electricity](/electricity), no internet, no opponent needed. Just a grid and a pencil. In an age of constant digital stimulation, there's something refreshing about a challenge that fits on a single sheet of paper and asks nothing of you but clear [logical](/algorithms) thinking.

@@ -5,7 +5,7 @@ description: "Psychometrics is the science of measuring psychological traits lik
 category: science
 tags: ["psychometrics", "psychological measurement", "reliability", "validity", "psychology", "assessment", "iq tests"]
 heroImage: "/images/articles/psychometrics-hero.webp"
-heroAlt: "Abstract visualization of psychological measurement scales and test scoring"
+heroAlt: "Editorial photograph representing the concept of psychometrics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Psychometrics is the science of psychological measurement—the discipline that 
 
 Here's the fundamental challenge. If you want to measure someone's height, you pull out a ruler. The thing you're measuring is directly observable. But intelligence? Anxiety? Extraversion? You can't point to them. You can't weigh them. They're latent constructs—theoretical entities that must be inferred from observable behavior.
 
-This is genuinely different from measurement in physics or engineering. When a physicist measures temperature, there's a direct physical quantity (average kinetic energy of molecules) that the thermometer captures. When a psychometrician measures "conscientiousness," there's no single physical quantity involved. Instead, conscientious people tend to show up on time, keep their spaces organized, follow through on commitments, and plan ahead. The psychometrician must design questions that tap into these behavioral tendencies and then use statistical models to infer the underlying trait.
+This is genuinely different from measurement in physics or [engineering](/engineering). When a physicist measures temperature, there's a direct physical quantity (average kinetic energy of molecules) that the thermometer captures. When a psychometrician measures "conscientiousness," there's no single physical quantity involved. Instead, conscientious people tend to show up on time, keep their spaces organized, follow through on commitments, and plan ahead. The psychometrician must design questions that tap into these behavioral tendencies and then use statistical models to infer the underlying trait.
 
 The gap between observable responses (answers on a test) and the thing you're trying to measure (the latent construct) is where all the methodological challenges live. And psychometricians have spent over a century developing increasingly sophisticated tools to bridge that gap.
 
@@ -55,13 +55,13 @@ Galton developed several statistical concepts that psychometrics still relies on
 
 ### Binet and the First Intelligence Test
 
-Alfred Binet, a French psychologist, created the first practical intelligence test in 1905. The French government had asked him to identify children who needed extra educational support. Binet's approach was pragmatic: he assembled a battery of tasks (memory, attention, reasoning) arranged by difficulty, and determined which tasks children of each age could typically complete.
+Alfred Binet, a French psychologist, created the first practical intelligence test in 1905. The French [government](/government) had asked him to identify children who needed extra educational support. Binet's approach was pragmatic: he assembled a battery of tasks (memory, attention, reasoning) arranged by difficulty, and determined which tasks children of each age could typically complete.
 
 Binet explicitly warned against treating his test scores as fixed, innate measures of intelligence. He saw intelligence as malleable and his test as a diagnostic tool, not a permanent label. Those warnings went largely unheeded as the test crossed the Atlantic.
 
 ### American Adoption and Mass Testing
 
-Lewis Terman at Stanford revised Binet's test into the Stanford-Binet Intelligence Scale (1916), introducing the intelligence quotient (IQ)—originally computed as mental age divided by chronological age, multiplied by 100. The U.S. Army's mass testing of 1.7 million recruits during World War I using the Army Alpha and Beta tests demonstrated that psychological testing could be done at scale.
+Lewis Terman at Stanford revised Binet's test into the Stanford-Binet Intelligence Scale (1916), introducing the intelligence quotient (IQ)—originally computed as mental age divided by chronological age, multiplied by 100. The U.S. Army's mass testing of 1.7 million recruits during [World War I](/world-war-i) using the Army Alpha and Beta tests demonstrated that psychological testing could be done at scale.
 
 This era also produced some of psychometrics' darkest moments. Test results were used to justify immigration restrictions and forced sterilization programs. IQ tests developed for English-speaking populations were administered to non-English speakers and used to declare entire ethnic groups intellectually inferior. The methodological problems were obvious even then—but the political uses were convenient.
 
@@ -145,7 +145,7 @@ The correlation with job performance is particularly notable because it's consis
 
 ### What IQ Tests Don't Measure
 
-IQ tests don't measure creativity, emotional intelligence, practical wisdom, motivation, or social skills. They don't capture musical, kinesthetic, or artistic ability. Howard Gardner's theory of multiple intelligences (1983) resonated precisely because IQ tests obviously leave out important human capabilities.
+IQ tests don't measure creativity, [emotional intelligence](/emotional-intelligence), practical wisdom, motivation, or social skills. They don't capture musical, kinesthetic, or artistic ability. Howard Gardner's theory of multiple intelligences (1983) resonated precisely because IQ tests obviously leave out important human capabilities.
 
 Robert Sternberg's triarchic theory added practical and creative intelligence to the analytical intelligence measured by traditional tests. Whether these represent distinct intelligences or facets of a more complex picture remains debated.
 
@@ -175,17 +175,17 @@ Psychometrics has expanded far beyond traditional testing.
 
 ### Educational Assessment
 
-Large-scale educational assessments like PISA (Programme for International Student Assessment), NAEP (National Assessment of Educational Progress), and state-level standardized tests rely entirely on psychometric methods. Item writing, test construction, scoring, equating, and standard-setting are all psychometric processes.
+Large-scale educational assessments like PISA (Programme for International Student Assessment), NAEP (National Assessment of Educational Progress), and state-level standardized tests rely entirely on psychometric methods. Item writing, test [construction](/construction), scoring, equating, and standard-setting are all psychometric processes.
 
 Computerized adaptive testing has transformed educational assessment. Students receive items matched to their ability level, producing more precise scores in less time. The GRE, for instance, adapts after each section—performing well on the first section results in a harder second section.
 
 ### Clinical Assessment
 
-Clinical psychologists use psychometric instruments to diagnose mental health conditions, assess severity, and track treatment progress. The Beck Depression Inventory, the Minnesota Multiphasic Personality Inventory (MMPI-2), and the State-Trait Anxiety Inventory are workhorses of clinical practice. Each has been developed and refined through decades of psychometric research.
+Clinical psychologists use psychometric instruments to diagnose [mental health](/mental-health) conditions, assess severity, and track treatment progress. The Beck Depression Inventory, the Minnesota Multiphasic Personality Inventory (MMPI-2), and the State-Trait Anxiety Inventory are workhorses of clinical practice. Each has been developed and refined through decades of psychometric research.
 
 ### Personnel Selection
 
-Industrial-organizational psychology uses psychometric assessments extensively for hiring. Cognitive ability tests, personality assessments, situational judgment tests, and structured interviews are all psychometric instruments with known (and varying) levels of validity for predicting job performance.
+Industrial-[organizational psychology](/organizational-psychology) uses psychometric assessments extensively for hiring. Cognitive ability tests, personality assessments, situational judgment tests, and structured interviews are all psychometric instruments with known (and varying) levels of validity for predicting job performance.
 
 The validity evidence is clear: structured assessments outperform unstructured interviews for predicting job performance. Yet many organizations still rely primarily on unstructured interviews—a triumph of intuition over evidence.
 

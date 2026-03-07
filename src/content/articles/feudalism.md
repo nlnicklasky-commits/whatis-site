@@ -5,7 +5,7 @@ description: "Feudalism was a medieval European social and economic system built
 category: history
 tags: ["medieval europe", "social system", "land tenure", "vassalage", "serfdom"]
 heroImage: "/images/articles/feudalism.webp"
-heroAlt: "A medieval castle overlooking agricultural fields worked by peasant farmers"
+heroAlt: "Editorial photograph representing the concept of feudalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ The structure was hierarchical, and every medieval [history](/archaeology) textb
 
 At the bottom were the peasants and serfs who actually worked the land. They didn't hold fiefs. They held obligations.
 
-But here's what the pyramid diagram gets wrong: it makes feudalism look neat and orderly. In reality, it was a tangled web of competing loyalties. A knight might hold fiefs from three different lords. What happens when two of those lords go to war with each other? This wasn't a hypothetical — it was a constant headache of medieval politics.
+But here's what the pyramid diagram gets wrong: it makes feudalism look neat and orderly. In reality, it was a tangled web of competing loyalties. A knight might hold fiefs from three different lords. What happens when two of those lords go to war with each other? This wasn't a hypothetical — it was a constant headache of medieval [politics](/politics).
 
 ### The Feudal Contract
 
@@ -85,7 +85,7 @@ The farmland was divided into three categories:
 2. **Tenant holdings** — strips of land assigned to individual peasant families
 3. **Common land** — shared pasture, forest, and waste used by the whole community
 
-Most manors used the three-field rotation system: one field planted with winter wheat, one with spring crops (barley, oats, legumes), and one left fallow to recover its fertility. This was a significant improvement over earlier two-field systems, increasing productivity by roughly 50%.
+Most manors used the three-field rotation system: one field planted with winter wheat, one with spring crops (barley, oats, legumes), and one left fallow to recover its fertility. This was a significant improvement over earlier two-field systems, increasing [productivity](/productivity) by roughly 50%.
 
 ## Who Were the Serfs?
 
@@ -93,7 +93,7 @@ Serfdom is the part of feudalism that most resembles something ugly. Serfs weren
 
 In England's Domesday Book (1086), roughly 70% of the recorded population were classified as villeins or bordars — categories of unfree peasants with various degrees of obligation. Free peasants existed too, but they were the minority.
 
-The daily life of a serf was grueling. Farming with medieval technology — wooden plows, hand sickles, no irrigation — was backbreaking work. Nutrition was marginal. Life expectancy at birth hovered around 30 years (though if you survived childhood, you'd likely reach your 50s). The overwhelming majority of people in medieval Europe lived and died within a few miles of where they were born.
+The daily life of a serf was grueling. Farming with medieval technology — wooden plows, hand sickles, no [irrigation](/irrigation) — was backbreaking work. [Nutrition](/nutrition) was marginal. Life expectancy at birth hovered around 30 years (though if you survived childhood, you'd likely reach your 50s). The overwhelming majority of people in medieval Europe lived and died within a few miles of where they were born.
 
 Still, notably what serfs got out of the arrangement. Protection. A plot of land that, while not owned, was theirs to work and pass to their children. Access to common resources. A place in a community. For people living with endemic violence and no social safety net, those weren't nothing.
 
@@ -101,7 +101,7 @@ Still, notably what serfs got out of the arrangement. Protection. A plot of land
 
 You can't understand medieval feudalism without understanding the [Church](/christianity). The Catholic Church was itself a massive feudal landlord — by some estimates, it controlled one-third of all arable land in Western Europe. Bishops and abbots held fiefs, owed military service (or hired knights to fulfill it), and administered justice over their territories.
 
-The Church also provided the ideological scaffolding for the feudal order. The "three orders" theory — those who fight (nobles), those who pray (clergy), and those who work (peasants) — presented the social hierarchy as divinely ordained. Questioning your place wasn't just rebellion against your lord. It was rebellion against God.
+The Church also provided the ideological [scaffolding](/scaffolding) for the feudal order. The "three orders" theory — those who fight (nobles), those who pray (clergy), and those who work (peasants) — presented the social hierarchy as divinely ordained. Questioning your place wasn't just rebellion against your lord. It was rebellion against God.
 
 This made the system remarkably stable. For roughly 500 years, the basic structure held, despite periodic peasant revolts, baronial wars, and succession crises.
 
@@ -131,10 +131,10 @@ Here's something that might surprise you: many medieval historians today questio
 
 The relationships between lords and their dependents varied enormously by region, period, and circumstance. What worked in 11th-century Normandy looked very different from 13th-century Catalonia or 15th-century Poland. Calling all of these arrangements "feudalism" might obscure more than it reveals.
 
-That said, the term remains useful as shorthand for the general pattern of decentralized, land-based, hierarchical social organization that dominated medieval Western Europe. Just use it carefully, and remember that the reality was always messier than the model.
+That said, the term remains useful as [shorthand](/shorthand) for the general pattern of decentralized, land-based, hierarchical social organization that dominated medieval Western Europe. Just use it carefully, and remember that the reality was always messier than the model.
 
 ## Why Feudalism Still Matters
 
-The feudal period shaped institutions and attitudes that persist today. English common law, the concept of contractual government (the idea that rulers owe obligations to the ruled), parliamentary representation, property rights, and even the layout of European villages all have feudal roots.
+The feudal period shaped institutions and attitudes that persist today. English common law, the concept of contractual [government](/government) (the idea that rulers owe obligations to the ruled), parliamentary representation, property rights, and even the layout of European villages all have feudal roots.
 
 Understanding feudalism also helps you recognize similar patterns elsewhere. Any system where a powerful figure offers protection in exchange for loyalty and labor — from company towns to certain political machines — shares structural DNA with the feudal arrangement. The language changes, the stakes change, but the basic exchange of security for submission is very, very old.

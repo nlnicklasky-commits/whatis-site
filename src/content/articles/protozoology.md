@@ -5,7 +5,7 @@ description: "Protozoology studies single-celled eukaryotic organisms called pro
 category: science
 tags: ["protozoology", "protozoa", "microbiology", "single-celled organisms", "eukaryotes", "parasitology", "malaria"]
 heroImage: "/images/articles/protozoology-hero.webp"
-heroAlt: "Microscopic view of protozoan organisms with visible cellular structures"
+heroAlt: "Editorial photograph representing the concept of protozoology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -139,13 +139,13 @@ A teaspoon of healthy soil contains thousands to millions of protozoa. They graz
 
 Some protozoa live inside other organisms in mutually beneficial arrangements. Termites can digest wood because their guts harbor protozoa (and bacteria) that break down cellulose. Without these protozoan symbionts, termites would starve despite eating wood constantly. Ruminant animals like cows likewise depend on protozoan communities in their digestive systems.
 
-## Research Methods in Protozoology
+## [Research Methods](/research-methods) in Protozoology
 
-Studying organisms this small requires specialized tools and techniques, many borrowed from [cell biology](/cell-biology) and molecular biology.
+Studying organisms this small requires specialized tools and techniques, many borrowed from [cell biology](/cell-biology) and [molecular biology](/molecular-biology).
 
 ### Microscopy
 
-Light microscopy remains fundamental—you can observe living protozoa under a standard microscope with nothing more than a drop of pond water. Phase contrast and differential interference contrast (DIC) microscopy reveal internal structures without staining. Electron microscopy (both scanning and transmission) provides nanometer-scale detail of ultrastructure.
+Light microscopy remains fundamental—you can observe living protozoa under a standard microscope with nothing more than a drop of pond water. Phase contrast and differential interference contrast (DIC) microscopy reveal internal structures without staining. [Electron microscopy](/electron-microscopy) (both scanning and transmission) provides nanometer-scale detail of ultrastructure.
 
 Fluorescence microscopy using specific molecular probes lets researchers track individual proteins, organelles, or parasites within host cells. Confocal microscopy creates three-dimensional images by scanning focal planes. These techniques have revealed subcellular details that would have astounded Leeuwenhoek.
 
@@ -199,7 +199,7 @@ Protozoa don't live in isolation. They interact with bacterial communities in co
 
 With parasite genomes sequenced, researchers can identify essential genes—genes the parasite can't survive without—and screen for chemicals that inhibit their products. This target-based drug discovery approach has identified promising candidates for malaria, sleeping sickness, and leishmaniasis. Machine learning is accelerating the screening process, evaluating millions of potential compounds computationally before anything enters a test tube.
 
-### Synthetic Biology
+### [Synthetic Biology](/synthetic-biology)
 
 Researchers are engineering protozoa for practical purposes. Modified Tetrahymena (a ciliate) has been used to produce recombinant proteins. Engineered protozoa could potentially serve as living sensors for water quality monitoring or as bioreactors for producing valuable compounds.
 

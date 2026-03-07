@@ -5,7 +5,7 @@ description: "Artificial intelligence is the field of building machines that can
 category: technology
 tags: ["artificial intelligence", "ai", "machine learning", "deep learning", "neural networks", "technology", "computer science"]
 heroImage: "/images/articles/artificial-intelligence-hero.webp"
-heroAlt: "A neural network visualization with interconnected glowing nodes representing artificial intelligence processing"
+heroAlt: "Editorial photograph representing the concept of artificial intelligence"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Artificial Intelligence?
 
-Artificial intelligence (AI) is the field of computer science dedicated to creating systems capable of performing tasks that typically require human intelligence — including learning from experience, understanding natural language, recognizing patterns, making decisions, and solving problems. AI ranges from narrow systems designed for specific tasks (like image recognition or language translation) to the theoretical pursuit of machines with general, human-level cognitive abilities.
+Artificial intelligence (AI) is the field of [computer science](/computer-science) dedicated to creating systems capable of performing tasks that typically require human intelligence — including learning from experience, understanding natural language, recognizing patterns, making decisions, and solving problems. AI ranges from narrow systems designed for specific tasks (like image recognition or language translation) to the theoretical pursuit of machines with general, human-level cognitive abilities.
 
 ## The Idea Is Older Than You Think
 
@@ -89,7 +89,7 @@ IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997 — but it 
 
 In 2012, a deep neural network called AlexNet won the ImageNet image recognition competition by a massive margin — its error rate was 10 percentage points lower than the runner-up. This triggered a gold rush.
 
-Deep learning — neural networks with many layers — turned out to be extraordinarily powerful when combined with large datasets and fast GPU computing. Suddenly, machines could recognize faces, translate languages, transcribe speech, and generate images at or near human performance levels.
+Deep learning — [neural networks](/neural-networks) with many layers — turned out to be extraordinarily powerful when combined with large datasets and fast GPU computing. Suddenly, machines could recognize faces, translate languages, transcribe speech, and generate images at or near human performance levels.
 
 The breakthroughs accelerated. DeepMind's AlphaGo defeated the world champion Go player in 2016 — a feat thought to be at least a decade away. GPT-3 (2020) showed that large language models could generate surprisingly coherent text. By 2023, GPT-4, Claude, and other large language models were passing bar exams, writing code, and carrying on extended conversations that were often indistinguishable from human writing.
 
@@ -111,7 +111,7 @@ Instead of programming rules, you give the system data and let it figure out the
 
 **Unsupervised learning** finds patterns in unlabeled data. Clustering algorithms group similar customers for marketing. Dimensionality reduction techniques compress complex data into manageable forms. The system discovers structure without being told what to look for.
 
-**Reinforcement learning** trains through trial and error. An agent takes actions in an environment, receives rewards or penalties, and gradually learns strategies that maximize reward. This is how AlphaGo mastered Go and how robotics systems learn to walk and manipulate objects. It's loosely inspired by how animals learn through positive and negative reinforcement.
+**[Reinforcement learning](/reinforcement-learning)** trains through trial and error. An agent takes actions in an environment, receives rewards or penalties, and gradually learns strategies that maximize reward. This is how AlphaGo mastered Go and how robotics systems learn to walk and manipulate objects. It's loosely inspired by how animals learn through positive and negative reinforcement.
 
 ### Neural Networks and Deep Learning
 
@@ -129,7 +129,7 @@ Key architectures include:
 
 Large language models (LLMs) deserve special attention because they've dominated AI conversation since 2020. They're transformer-based neural networks trained on enormous text datasets — hundreds of billions to trillions of words — to predict the next word in a sequence.
 
-That sounds simple, and in principle it is. But something unexpected happens at scale: systems trained to predict text develop apparent capabilities in reasoning, summarization, translation, coding, and creative writing. Whether they truly "understand" language or are performing very sophisticated pattern matching is one of the most debated questions in AI.
+That sounds simple, and in principle it is. But something unexpected happens at scale: systems trained to predict text develop apparent capabilities in reasoning, summarization, translation, coding, and [creative writing](/creative-writing). Whether they truly "understand" language or are performing very sophisticated pattern matching is one of the most debated questions in AI.
 
 LLMs have limitations. They can produce plausible-sounding but factually wrong text ("hallucinations"). They struggle with mathematical reasoning beyond their training data. They don't have persistent memory between conversations. And they can reflect and amplify biases present in their training data.
 
@@ -137,10 +137,10 @@ LLMs have limitations. They can produce plausible-sounding but factually wrong t
 
 As of 2026, AI excels at:
 
-- **Pattern recognition** in images, audio, and text
+- **[Pattern recognition](/pattern-recognition)** in images, audio, and text
 - **Language tasks**: translation, summarization, text generation, question answering
 - **Game playing**: chess, Go, poker, video games
-- **Prediction**: weather forecasting, protein structure prediction, financial modeling
+- **Prediction**: weather forecasting, protein structure prediction, [financial modeling](/financial-modeling)
 - **Code generation and debugging**
 - **Creative content**: generating images, music, and video from text descriptions
 - **Scientific discovery**: identifying drug candidates, materials design, mathematical conjecture
@@ -196,7 +196,7 @@ History suggests that technology creates new jobs over the long run, but the tra
 
 ### Privacy and Surveillance
 
-AI-powered facial recognition, behavior prediction, and data analysis enable surveillance at a scale previously impossible. China's social credit system and widespread camera networks represent one extreme. But even in democracies, the combination of AI and data collection raises profound privacy questions.
+AI-powered facial recognition, behavior prediction, and [data analysis](/data-analysis) enable surveillance at a scale previously impossible. China's social credit system and widespread camera networks represent one extreme. But even in democracies, the combination of AI and data collection raises profound privacy questions.
 
 ### Existential Risk
 

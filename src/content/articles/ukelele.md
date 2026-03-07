@@ -5,7 +5,7 @@ description: "The ukulele is a small, four-stringed instrument from Hawaii. Lear
 category: arts-amp-culture
 tags: ["ukelele", "ukulele", "string instruments", "Hawaii", "music", "acoustic"]
 heroImage: "/images/articles/ukelele.webp"
-heroAlt: "A soprano ukulele resting on a sandy beach with palm trees in the background"
+heroAlt: "Editorial photograph representing the concept of ukelele"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The ukulele's creation story is well documented. In 1879, Portuguese immigrants 
 
 King David Kalakaua, Hawaii's last king, championed the instrument and incorporated it into royal gatherings and Hawaiian cultural events. His endorsement gave the ukulele a prestige that helped it spread throughout the islands.
 
-The name "ukulele" roughly translates from Hawaiian as "jumping flea" — possibly describing the rapid finger movements of skilled players, or possibly referencing Edward Purvis, a small, energetic Englishman who was an early enthusiast. The etymology is debated, and both stories have supporters.
+The name "ukulele" roughly translates from Hawaiian as "jumping flea" — possibly describing the rapid finger movements of skilled players, or possibly referencing Edward Purvis, a small, energetic Englishman who was an early enthusiast. The [etymology](/etymology) is debated, and both stories have supporters.
 
 ## The Four Sizes
 
@@ -49,7 +49,7 @@ The name "ukulele" roughly translates from Hawaiian as "jumping flea" — possib
 
 **Tenor** — At 26 inches, the tenor offers a deeper, warmer tone with more volume and projection. Many professional performers prefer tenors. Jake Shimabukuro, arguably the world's most famous ukulele player, typically plays a tenor.
 
-**Baritone** — The largest at 30 inches, tuned D-G-B-E (the same as the top four strings of a guitar). It sounds more like a small guitar than a traditional ukulele. Guitarists transitioning to ukulele often start here because the tuning is familiar.
+**Baritone** — The largest at 30 inches, tuned D-G-B-E (the same as the top four strings of a [guitar](/guitar)). It sounds more like a small guitar than a traditional ukulele. Guitarists transitioning to ukulele often start here because the tuning is familiar.
 
 Standard tuning for soprano, concert, and tenor ukuleles is G-C-E-A. The weird part: the G string is actually tuned higher than the C string below it. This "re-entrant" tuning — where the strings don't go from lowest to highest — gives the ukulele its distinctive jangly quality when strummed.
 
@@ -57,7 +57,7 @@ Standard tuning for soprano, concert, and tenor ukuleles is G-C-E-A. The weird p
 
 The ukulele has experienced at least three major popularity waves, and it's currently riding the biggest one yet.
 
-**1910s-1930s: The first craze.** The Panama-Pacific International Exposition in San Francisco (1915) introduced mainland Americans to Hawaiian music and the ukulele. Tin Pan Alley embraced it. Vaudeville performers featured it. Sales boomed.
+**1910s-1930s: The first craze.** The Panama-Pacific International Exposition in San Francisco (1915) introduced mainland Americans to Hawaiian music and the ukulele. Tin Pan Alley embraced it. [Vaudeville](/vaudeville) performers featured it. [Sales](/sales) boomed.
 
 **1950s-1960s: TV revival.** Arthur Godfrey, a hugely popular TV host, played ukulele on his show and inspired millions to pick one up. Tiny Tim's falsetto rendition of "Tiptoe Through the Tulips" in the late 1960s cemented the instrument in pop culture — though in a slightly comedic way.
 

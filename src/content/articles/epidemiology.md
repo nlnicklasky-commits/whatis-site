@@ -5,7 +5,7 @@ description: "Epidemiology is the study of how diseases spread through populatio
 category: health-amp-wellness
 tags: ["epidemiology", "public health", "disease", "population health", "biostatistics"]
 heroImage: "/images/articles/epidemiology.webp"
-heroAlt: "World map with colored data points showing disease outbreak patterns across continents"
+heroAlt: "Editorial photograph representing the concept of epidemiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ This is analytical epidemiology, and it's where things get complicated. Identify
 
 ### How Can We Stop It?
 
-Applied epidemiology feeds directly into public health action. If you've identified a risk factor, you can design interventions. If contaminated water causes cholera, improve water treatment. If smoking causes lung cancer, launch anti-smoking campaigns. If a virus spreads through respiratory droplets, recommend masks and ventilation.
+Applied epidemiology feeds directly into [public health](/public-health) action. If you've identified a risk factor, you can design interventions. If contaminated water causes cholera, improve water treatment. If smoking causes lung cancer, launch anti-smoking campaigns. If a virus spreads through respiratory droplets, recommend masks and ventilation.
 
 ## Key Measures Every Epidemiologist Uses
 
@@ -109,11 +109,11 @@ It also exposed the limitations of the field. Early models were sometimes wildly
 
 ## Modern Epidemiology's Tools
 
-Today's epidemiologists work with tools John Snow couldn't have imagined. Geographic Information Systems (GIS) map disease patterns with satellite precision. Genomic sequencing can trace an outbreak to a specific viral mutation. Electronic health records allow analysis of millions of patient records simultaneously.
+Today's epidemiologists work with tools John Snow couldn't have imagined. Geographic [Information Systems](/information-systems) (GIS) map disease patterns with satellite precision. Genomic sequencing can trace an outbreak to a specific viral mutation. Electronic health records allow analysis of millions of patient records simultaneously.
 
-[Machine learning](/machine-learning) and artificial intelligence are increasingly used to identify patterns in large datasets that human analysts might miss. During the COVID-19 pandemic, wastewater surveillance — testing sewage for viral genetic material — emerged as a powerful tool for detecting outbreaks before clinical cases appeared.
+[Machine learning](/machine-learning) and [artificial intelligence](/artificial-intelligence) are increasingly used to identify patterns in large datasets that human analysts might miss. During the COVID-19 pandemic, wastewater surveillance — testing sewage for viral genetic material — emerged as a powerful tool for detecting outbreaks before clinical cases appeared.
 
-But the fundamental logic remains the same as Snow's: observe, hypothesize, test, act. The scale has changed. The speed has changed. The math has gotten more sophisticated. The questions haven't.
+But the fundamental [logic](/logic) remains the same as Snow's: observe, hypothesize, test, act. The scale has changed. The speed has changed. The math has gotten more sophisticated. The questions haven't.
 
 ## Epidemiology Beyond Infectious Disease
 

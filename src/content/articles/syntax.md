@@ -5,7 +5,7 @@ description: "Syntax is the set of rules governing how words combine into senten
 category: everyday-concepts
 tags: ["syntax", "linguistics", "grammar", "language", "sentence structure", "parsing"]
 heroImage: "/images/articles/syntax.webp"
-heroAlt: "A sentence diagram showing the grammatical structure of a complex sentence"
+heroAlt: "Editorial photograph representing the concept of syntax"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -70,13 +70,13 @@ Before Noam Chomsky published *Syntactic Structures* in 1957, [linguistics](/lin
 
 His key insight was that human language is "generative" — a finite set of rules can produce an infinite number of sentences. You've never heard the sentence "The purple elephant reluctantly sang three operas while balancing on a ping-pong ball" before, but you understand it instantly. Your syntactic knowledge lets you parse novel combinations without effort.
 
-Chomsky also proposed that this capacity is innate — that humans are born with a "universal grammar" that provides the basic architectural blueprint for language. Children don't learn syntax from scratch; they tune their built-in language machinery to their specific language based on the input they receive.
+Chomsky also proposed that this capacity is innate — that humans are born with a "universal [grammar](/grammar)" that provides the basic architectural blueprint for language. Children don't learn syntax from scratch; they tune their built-in language machinery to their specific language based on the input they receive.
 
 ## Syntax in the Real World
 
 ### Natural Language Processing
 
-Teaching computers to understand [human language](/natural-language-processing) requires grappling with syntax. Parsing — analyzing a sentence's grammatical structure — is fundamental to machine translation, search engines, voice assistants, and AI chatbots. Modern systems use statistical and neural approaches, but the underlying challenge is syntactic.
+[Teaching](/teaching) computers to understand [human language](/natural-language-processing) requires grappling with syntax. Parsing — analyzing a sentence's grammatical structure — is fundamental to machine [translation](/translation), search engines, voice assistants, and AI chatbots. Modern systems use statistical and neural approaches, but the underlying challenge is syntactic.
 
 ### Writing and Communication
 
@@ -88,6 +88,6 @@ Syntax explains why certain mistakes are so common for language learners. Englis
 
 ## The Big Questions
 
-Linguists still debate fundamental questions about syntax. Is universal grammar real, or do children learn syntactic rules purely from experience? How much of sentence structure is universal versus language-specific? Can syntax be separated cleanly from meaning (semantics) and context (pragmatics)?
+Linguists still [debate](/debate) fundamental questions about syntax. Is universal grammar real, or do children learn syntactic rules purely from experience? How much of sentence structure is universal versus language-specific? Can syntax be separated cleanly from meaning ([semantics](/semantics)) and context (pragmatics)?
 
 These aren't just academic exercises. How we understand syntax shapes how we build AI, how we teach languages, and how we understand what makes human cognition unique. The rules you've been following unconsciously since toddlerhood turn out to be some of the most fascinating puzzles in science.

@@ -5,7 +5,7 @@ description: "The Neolithic era was when humans first farmed, settled, and built
 category: everyday-concepts
 tags: ["neolithic history", "prehistoric era", "agriculture", "archaeology", "ancient civilizations", "stone age"]
 heroImage: "/images/articles/neolithic-history.webp"
-heroAlt: "Reconstruction of a Neolithic stone settlement with thatched-roof dwellings"
+heroAlt: "Editorial photograph representing the concept of neolithic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Neolithic History?
 
-The Neolithic period — literally "New Stone Age" — is the era when humans stopped wandering and started farming. It's when our species made the single biggest lifestyle change in its entire existence: the shift from hunting and gathering to agriculture. That transition, which began roughly 12,000 years ago, set off a chain reaction that led to permanent villages, cities, writing, social hierarchies, and basically everything we recognize as civilization.
+The Neolithic period — literally "New Stone Age" — is the era when humans stopped wandering and started [farming](/farming). It's when our species made the single biggest lifestyle change in its entire existence: the shift from [hunting](/hunting) and gathering to [agriculture](/agriculture). That transition, which began roughly 12,000 years ago, set off a chain reaction that led to permanent villages, cities, writing, social hierarchies, and basically everything we recognize as civilization.
 
 ## The Before Picture
 
@@ -57,7 +57,7 @@ With permanent settlements came a cascade of consequences:
 
 **Population growth.** Farming produced more calories per acre than hunting and gathering, supporting more people per square mile. Human population, which had been roughly 5-10 million for millennia, began climbing steadily.
 
-**Surplus and specialization.** Successful farms produced more food than the farmers themselves needed. Surplus allowed some people to stop farming and do other things — make pottery, weave textiles, build structures, perform religious rituals. Specialization created the first tradespeople.
+**Surplus and specialization.** Successful farms produced more food than the farmers themselves needed. Surplus allowed some people to stop farming and do other things — make [pottery](/pottery), weave textiles, build structures, perform religious rituals. Specialization created the first tradespeople.
 
 **Social hierarchy.** Surplus also created inequality. Some families accumulated more land, livestock, or stored grain than others. Social classes emerged — elites who controlled resources, commoners who worked the land, and eventually enslaved people who had no choice at all.
 
@@ -67,15 +67,15 @@ With permanent settlements came a cascade of consequences:
 
 Neolithic people weren't just farmers. They were inventors.
 
-**Pottery** appeared independently in multiple regions, allowing food storage, cooking, and fermentation. The oldest known pottery dates to about 20,000 years ago in China, but it became widespread during the Neolithic.
+**Pottery** appeared independently in multiple regions, allowing food storage, [cooking](/cooking), and [fermentation](/fermentation). The oldest known pottery dates to about 20,000 years ago in China, but it became widespread during the Neolithic.
 
 **Polished stone tools** replaced the chipped or flaked tools of earlier periods. Ground and polished axes could fell trees efficiently, clearing land for farming.
 
-**Weaving and textiles** emerged as people domesticated flax and eventually wool-bearing sheep. The earliest woven textiles date to around 7,000 BCE.
+**[Weaving](/weaving) and textiles** emerged as people domesticated flax and eventually wool-bearing sheep. The earliest woven textiles date to around 7,000 BCE.
 
-**Architecture** advanced from simple shelters to substantial buildings. Mud brick, timber framing, and stone construction techniques developed during this period. Catalhoyuk's houses were multi-story, accessed through roof openings.
+**[Architecture](/architecture)** advanced from simple shelters to substantial buildings. Mud brick, timber framing, and stone [construction](/construction) techniques developed during this period. Catalhoyuk's houses were multi-story, accessed through roof openings.
 
-And then there's the really puzzling stuff. **Gobekli Tepe** in Turkey, dating to about 9,500 BCE, features massive carved stone pillars arranged in circles — a monumental construction project completed by hunter-gatherers *before* they fully adopted farming. It suggests that organized religion or communal gathering may have driven settlement, not the other way around. That upended decades of archaeological thinking.
+And then there's the really puzzling stuff. **Gobekli Tepe** in Turkey, dating to about 9,500 BCE, features massive carved stone pillars arranged in circles — a monumental construction project completed by hunter-gatherers *before* they fully adopted farming. It suggests that organized [religion](/religion) or communal gathering may have driven settlement, not the other way around. That upended decades of archaeological thinking.
 
 ## The Health Tradeoff
 

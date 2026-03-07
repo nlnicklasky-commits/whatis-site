@@ -5,7 +5,7 @@ description: "Media history traces how communication technologies evolved from p
 category: history
 tags: ["media", "journalism", "broadcasting"]
 heroImage: "/images/articles/media-history.webp"
-heroAlt: "A timeline collage showing a printing press, radio microphone, television set, and smartphone"
+heroAlt: "Editorial photograph representing the concept of media history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,15 +35,15 @@ faq:
 
 # What Is Media History?
 
-Media history is the study of how communication technologies and institutions have developed over time — and how those developments changed society, politics, culture, and the way people understand the world. It covers everything from clay tablets and papyrus scrolls to satellite television and TikTok, tracking not just the technologies themselves but the social transformations they triggered.
+Media history is the study of how communication technologies and institutions have developed over time — and how those developments changed society, [politics](/politics), culture, and the way people understand the world. It covers everything from clay tablets and papyrus scrolls to satellite television and TikTok, tracking not just the technologies themselves but the social transformations they triggered.
 
 Here's what makes media history fascinating: every major new medium was initially feared, misunderstood, and often declared dangerous. Books would make people lazy thinkers. Newspapers would spread lies. Radio would rot brains. Television would destroy family life. The internet would end privacy. Social media would undermine democracy. Some of those fears turned out to be partially justified. Others were wildly overblown. And in every case, the actual impact was something almost nobody predicted.
 
-## Before Mass Media: Writing and Early Communication
+## Before Mass Media: [Writing](/writing) and Early Communication
 
 For most of human history, communication was oral. Stories, laws, religious practices, and practical knowledge were transmitted through speech, memorization, and ritual. Writing changed that — but slowly.
 
-The earliest writing systems appeared around 3400 BCE in Mesopotamia (cuneiform) and Egypt (hieroglyphics). These were primarily administrative tools — tracking grain stores, recording transactions, noting property boundaries. Literature and history came later.
+The earliest writing systems appeared around 3400 BCE in Mesopotamia (cuneiform) and Egypt (hieroglyphics). These were primarily administrative tools — tracking grain stores, recording transactions, noting property boundaries. [Literature](/literature) and history came later.
 
 The Phoenician alphabet (around 1050 BCE) was a breakthrough because it was simpler than cuneiform or hieroglyphics — just 22 letters representing consonant sounds. The Greeks adapted it, added vowels, and passed it to the Romans. The alphabet you're reading right now descends directly from that chain.
 
@@ -55,9 +55,9 @@ Gutenberg's movable type printing press, developed around 1440 in Mainz, Germany
 
 The numbers tell the story. Before Gutenberg, a European scribe might produce one or two books per year. By 1500 — just 60 years after the press — an estimated 20 million volumes had been printed. The cost of books dropped by roughly 80%. Literacy rates climbed. Ideas spread faster and further than ever before.
 
-The Protestant Reformation (1517 onward) was, in many ways, the first media event. Martin Luther's 95 Theses spread across Germany within weeks thanks to printing. His German translation of the Bible sold 5,000 copies in just two weeks — a massive bestseller by 16th-century standards. Without the printing press, the Reformation might have remained a local theological quarrel.
+The Protestant Reformation (1517 onward) was, in many ways, the first media event. Martin Luther's 95 Theses spread across Germany within weeks thanks to printing. His German [translation](/translation) of the Bible sold 5,000 copies in just two weeks — a massive bestseller by 16th-century standards. Without the printing press, the Reformation might have remained a local theological quarrel.
 
-### Newspapers and the Birth of Journalism
+### Newspapers and the Birth of [Journalism](/journalism)
 
 The first regularly published newspaper, *Relation aller Furnemmen und gedenckwurdigen Historien*, appeared in Strasbourg in 1605. By the 18th century, newspapers were the primary vehicle for public political debate.
 
@@ -71,13 +71,13 @@ The penny press of the 1830s made newspapers genuinely mass media for the first 
 
 Samuel Morse's telegraph (first successful U.S. line, 1844) did something no previous technology had done: it separated communication from physical transportation. Before the telegraph, information could travel only as fast as a human or a horse. The fastest way to send a message from New York to San Francisco was to put it on a ship.
 
-The telegraph made information instant — or close to it. News that once took weeks to arrive across the Atlantic could now travel in minutes via undersea cables (the first successful transatlantic cable was laid in 1866). This changed war, diplomacy, financial markets, and journalism simultaneously.
+The telegraph made information instant — or close to it. News that once took weeks to arrive across the Atlantic could now travel in minutes via undersea cables (the first successful transatlantic cable was laid in 1866). This changed war, [diplomacy](/diplomacy), financial markets, and journalism simultaneously.
 
-The Associated Press was founded in 1846 specifically to share the cost of telegraph transmission among newspapers. Wire services — organizations that distribute news to multiple outlets — are a direct product of telegraph economics.
+The Associated Press was founded in 1846 specifically to share the cost of telegraph transmission among newspapers. Wire services — organizations that distribute news to multiple outlets — are a direct product of telegraph [economics](/economics).
 
 ### Radio — Voice in the Air
 
-Radio broadcasting began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
+[Radio broadcasting](/radio-[broadcasting](/broadcasting)) began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
 
 Radio was the first truly intimate electronic medium. It entered your living room — or your bedroom, or your car. Franklin Roosevelt's "fireside chats" (beginning in 1933) demonstrated radio's political power: the president speaking directly to citizens, bypassing newspapers and political intermediaries. Roosevelt's calm, conversational tone was perfectly suited to the medium.
 
@@ -109,7 +109,7 @@ The web did something no previous medium had done: it made everyone a potential 
 
 Facebook (2004), YouTube (2005), Twitter (2006), Instagram (2010), and TikTok (international launch 2018) created platforms where billions of people could create, share, and consume content. By 2024, an estimated 4.9 billion people worldwide used social media.
 
-The business model — free access funded by targeted advertising based on user data — created enormous companies and profound problems. Algorithms designed to maximize engagement tended to amplify sensational, emotional, and divisive content because that's what people click on. Misinformation spread faster than corrections. Echo chambers reinforced existing beliefs.
+The business model — free access funded by targeted advertising based on user data — created enormous companies and profound problems. [Algorithms](/algorithms) designed to maximize engagement tended to amplify sensational, emotional, and divisive content because that's what people click on. Misinformation spread faster than corrections. Echo chambers reinforced existing beliefs.
 
 The 2016 U.S. presidential election brought many of these concerns into sharp focus, with widespread debate about social media's role in political polarization, foreign interference, and the erosion of shared factual ground.
 
@@ -121,7 +121,7 @@ Looking across 5,000 years of media evolution, a few patterns repeat:
 
 **Speed always increases.** From handwritten scrolls (weeks to produce) to printed books (days) to telegraphs (minutes) to the internet (seconds), every generation of media technology compresses the time between event and audience.
 
-**Control shifts.** Each new medium initially disrupts existing power structures. Printing challenged the Church's monopoly on knowledge. Broadcasting gave governments new propaganda tools — and eventually gave citizens new tools for accountability. The internet decentralized publishing but concentrated platform power in a handful of tech companies.
+**Control shifts.** Each new medium initially disrupts existing power structures. Printing challenged the Church's monopoly on knowledge. Broadcasting gave governments new propaganda tools — and eventually gave citizens new tools for accountability. The internet decentralized [publishing](/publishing) but concentrated platform power in a handful of tech companies.
 
 **Moral panic is predictable.** Every new medium triggers fears about its effects on children, on truth, on democracy, on human attention. Some fears prove justified. Most are overstated. The only certainty is that the actual impact will be different from what anyone predicted.
 

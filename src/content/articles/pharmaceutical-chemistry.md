@@ -5,7 +5,7 @@ description: "Pharmaceutical chemistry is the science of designing, synthesizing
 category: science
 tags: ["chemistry", "pharmacy", "drugs", "medicine", "drug discovery", "medicinal chemistry", "pharmacology"]
 heroImage: "/images/articles/pharmaceutical-chemistry-hero.webp"
-heroAlt: "Laboratory flask containing colorful chemical compounds used in pharmaceutical drug development"
+heroAlt: "Editorial photograph representing the concept of pharmaceutical chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

@@ -5,7 +5,7 @@ description: "Livestock farming is the raising of animals for food, fiber, and l
 category: agriculture
 tags: ["livestock farming", "agriculture", "animal husbandry", "cattle", "farming", "food production"]
 heroImage: "/images/articles/livestock-farming.webp"
-heroAlt: "Cattle grazing on green rolling pastures under a partly cloudy sky"
+heroAlt: "Editorial photograph representing the concept of livestock farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "About 77% of global agricultural land is used for livestock and feed crops, according to the FAO. However, this land produces only about 18% of the world's calories and 37% of its protein. Much of this land, though, is marginal grassland unsuitable for crop production."
 ---
 
-# What Is Livestock Farming?
+# What Is Livestock [Farming](/farming)?
 
 Livestock farming is the practice of raising domesticated animals — cattle, pigs, chickens, sheep, goats, and others — for food products (meat, milk, eggs), fiber (wool, leather), labor (draft animals), and other uses. It's one of the oldest human activities, dating back roughly 10,000 years to when people first domesticated sheep and goats in the Fertile Crescent.
 
@@ -37,7 +37,7 @@ Today, livestock farming is a massive global industry. About 1.3 billion people 
 
 ## The Major Livestock Animals
 
-**Cattle** — about 1 billion worldwide. Raised for beef, dairy, and leather. The U.S., Brazil, and the EU are the largest producers. A single dairy cow produces roughly 2,600 gallons of milk per year in the U.S. — more than triple the output of 50 years ago, thanks to selective breeding and improved nutrition.
+**Cattle** — about 1 billion worldwide. Raised for beef, dairy, and leather. The U.S., Brazil, and the EU are the largest producers. A single dairy cow produces roughly 2,600 gallons of milk per year in the U.S. — more than triple the output of 50 years ago, thanks to selective breeding and improved [nutrition](/nutrition).
 
 **Pigs** — roughly 780 million globally. China produces nearly half the world's pork. Pigs are efficient converters of feed to meat, reaching market weight (about 280 pounds) in roughly six months. They're also remarkably intelligent — smarter than dogs by most cognitive measures.
 
@@ -53,29 +53,29 @@ Today, livestock farming is a massive global industry. About 1.3 billion people 
 
 Animals graze on large areas of natural or semi-natural grassland. This is the traditional model — ranching in the American West, sheep stations in Australia, pastoral herding in East Africa. Stocking densities are low, animals move freely, and feed comes primarily from grazing.
 
-The advantages are lower infrastructure costs, better animal welfare (by most measures), and the ability to use land that's unsuitable for crops. The disadvantages are lower productivity per animal, higher land requirements, and vulnerability to drought and weather.
+The advantages are lower infrastructure costs, better animal welfare (by most measures), and the ability to use land that's unsuitable for crops. The disadvantages are lower [productivity](/productivity) per animal, higher land requirements, and vulnerability to drought and weather.
 
 ### Intensive (Industrial) Farming
 
 Concentrated animal feeding operations (CAFOs) house large numbers of animals in confined spaces. A single broiler house might contain 20,000-30,000 chickens. A large hog operation might hold 10,000+ pigs. Feed is brought in rather than grazed, and every aspect of the environment — temperature, lighting, ventilation — is controlled.
 
-Intensive farming produces more meat, milk, and eggs per unit of input. It's why chicken costs $3 per pound instead of $15. But the trade-offs are significant: animal welfare concerns, antibiotic resistance (U.S. livestock receive about 70% of all antibiotics sold in the country), water pollution from concentrated waste, and air quality issues for surrounding communities.
+Intensive farming produces more meat, milk, and eggs per unit of input. It's why chicken costs $3 per pound instead of $15. But the [trade](/trade)-offs are significant: animal welfare concerns, antibiotic resistance (U.S. livestock receive about 70% of all antibiotics sold in the country), water pollution from concentrated waste, and air quality issues for surrounding communities.
 
 ### Mixed Farming
 
 Many farms combine livestock with crop production. Animals graze on crop residues, manure fertilizes fields, and the two systems support each other. This was the dominant model for most of agricultural history and remains common in developing countries and among smaller operations in wealthy nations.
 
-## The Economics
+## The [Economics](/economics)
 
 Livestock farming economics are brutal. Margins are thin, input costs (feed, veterinary care, energy, labor) are volatile, and market prices fluctuate unpredictably. In the U.S., the average net income for beef cattle operations ranges from modestly profitable to outright negative in bad years.
 
 Scale matters enormously. The industry has consolidated dramatically — in the U.S., four companies control about 85% of beef packing, and the average hog farm is 30 times larger than in 1990. Small farmers increasingly can't compete on price, pushing many toward niche markets (organic, grass-fed, heritage breeds) or out of farming entirely.
 
-Government subsidies, crop insurance programs, and trade policies heavily influence livestock economics. The U.S. government spends billions annually on programs that directly or indirectly support livestock production, from feed crop subsidies to grazing leases on public land.
+[Government](/government) subsidies, crop [insurance](/insurance) programs, and trade policies heavily influence livestock economics. The U.S. government spends billions annually on programs that directly or indirectly support livestock production, from feed crop subsidies to grazing leases on public land.
 
 ## Environmental Impact
 
-This is where the debate gets heated. Livestock farming is responsible for approximately 14.5% of global greenhouse gas emissions, according to the FAO. Cattle are the biggest contributors, producing methane through enteric fermentation (essentially, burping) — methane is about 80 times more potent than CO2 as a greenhouse gas over a 20-year period.
+This is where the [debate](/debate) gets heated. Livestock farming is responsible for approximately 14.5% of global greenhouse gas emissions, according to the FAO. Cattle are the biggest contributors, producing methane through enteric [fermentation](/fermentation) (essentially, burping) — methane is about 80 times more potent than CO2 as a greenhouse gas over a 20-year period.
 
 Beyond emissions, livestock farming drives deforestation (especially in the Amazon, where cattle ranching is the leading cause of forest loss), consumes about 8% of global freshwater, and generates enormous quantities of waste that can contaminate waterways.
 
@@ -87,7 +87,7 @@ Several forces are reshaping livestock farming simultaneously:
 
 **Alternative proteins** — plant-based and cultivated meat products are growing, though they still represent a tiny fraction of the market. Global meat consumption continues to rise, driven by population growth and rising incomes in developing countries.
 
-**Precision agriculture** — GPS tracking, automated feeding systems, genetic testing, and health monitoring are making livestock farming more efficient and reducing waste.
+**Precision [agriculture](/agriculture)** — GPS tracking, automated feeding systems, genetic testing, and health monitoring are making livestock farming more efficient and reducing waste.
 
 **Regulatory pressure** — the EU has been tightening animal welfare and environmental regulations. Some countries are exploring livestock reduction policies.
 

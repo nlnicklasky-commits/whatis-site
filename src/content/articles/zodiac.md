@@ -5,7 +5,7 @@ description: "The zodiac is a belt of 12 constellations along the ecliptic used 
 category: philosophy
 tags: ["astrology", "horoscope", "constellations", "spirituality", "divination"]
 heroImage: "/images/articles/zodiac.webp"
-heroAlt: "Circular zodiac chart showing the twelve astrological signs against a starry night sky"
+heroAlt: "Editorial photograph representing the concept of zodiac"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

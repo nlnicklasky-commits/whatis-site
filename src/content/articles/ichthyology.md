@@ -5,7 +5,7 @@ description: "Ichthyology is the branch of zoology that studies fish. Discover f
 category: science
 tags: ["ichthyology", "fish", "zoology", "marine biology", "aquatic life", "fisheries", "conservation"]
 heroImage: "/images/articles/ichthyology-hero.webp"
-heroAlt: "Colorful tropical fish swimming in a coral reef environment"
+heroAlt: "Editorial photograph representing the concept of ichthyology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ The real foundations of ichthyology came in the 18th century with Carl Linnaeus,
 
 The 19th century brought a golden age of fish discovery. Expeditions by naturalists like Charles Darwin and Alfred Russel Wallace collected specimens from across the globe. Louis Agassiz described hundreds of fossil fish species, connecting living fish to their evolutionary past.
 
-In the 20th and 21st centuries, ichthyology expanded from pure description to genetics, physiology, [ecology](/ecology), and behavior. Technologies like SCUBA diving, submersibles, eDNA sampling, and satellite tracking opened windows into fish life that previous generations couldn't have imagined.
+In the 20th and 21st centuries, ichthyology expanded from pure description to genetics, physiology, [ecology](/ecology), and behavior. Technologies like [SCUBA diving](/scuba-diving), submersibles, eDNA sampling, and satellite tracking opened windows into fish life that previous generations couldn't have imagined.
 
 ## What Makes a Fish a Fish?
 
@@ -99,7 +99,7 @@ Great white sharks can live 70+ years. Greenland sharks may live over 400 years 
 
 Everything else. About 34,000 species — the vast majority of fish. Bony fish have ossified (hardite) skeletons, swim bladders, operculum (gill covers), and typically have thin, flexible scales.
 
-This group is absurdly diverse. It includes the tiny Paedocypris progenetica (7.9 mm, the smallest known vertebrate) and the ocean sunfish (up to 5,000 pounds). It includes fish that walk on land (mudskippers), fish that fly (flying fish can glide over 200 meters), fish that generate electricity (electric eels produce up to 860 volts), and fish that change sex during their lifetime (many wrasses and clownfish).
+This group is absurdly diverse. It includes the tiny Paedocypris progenetica (7.9 mm, the smallest known vertebrate) and the ocean sunfish (up to 5,000 pounds). It includes fish that walk on land (mudskippers), fish that fly (flying fish can glide over 200 meters), fish that generate [electricity](/electricity) (electric eels produce up to 860 volts), and fish that change sex during their lifetime (many wrasses and clownfish).
 
 Bony fish are divided into two subgroups: ray-finned fish (Actinopterygii) — which includes 99% of all bony fish — and lobe-finned fish (Sarcopterygii), a small but evolutionarily critical group that includes coelacanths, lungfish, and the ancestors of all land vertebrates. Your arms and legs are modified lobe fins.
 
@@ -175,7 +175,7 @@ The consequences of getting it wrong are severe. Atlantic cod stocks off Newfoun
 
 ## Aquaculture: Farming Fish
 
-[Aquaculture](/aquaculture) — fish farming — now produces more fish for human consumption than wild capture fisheries. Global aquaculture production exceeded 120 million metric tons in 2022, with China producing about 60% of the total.
+[Aquaculture](/aquaculture) — [fish farming](/fish-farming) — now produces more fish for human consumption than wild capture fisheries. Global aquaculture production exceeded 120 million metric tons in 2022, with China producing about 60% of the total.
 
 Ichthyology underpins every aspect of aquaculture: understanding fish nutrition, disease, reproduction, genetics, and behavior. Breeding programs have dramatically improved growth rates and disease resistance in farmed salmon, tilapia, and catfish, applying the same selective breeding principles used in [agriculture](/agriculture) for millennia.
 
@@ -187,7 +187,7 @@ These challenges drive ongoing ichthyological research: developing plant-based f
 
 Fish conservation is ichthyology's most urgent frontier.
 
-Freshwater ecosystems, covering less than 1% of Earth's surface, support nearly half of all fish species. And they're under siege. Dams block migration routes — the Mekong River basin has lost an estimated 70% of its migratory fish populations since large dam construction began. Pollution, habitat destruction, water extraction, and invasive species compound the damage.
+Freshwater ecosystems, covering less than 1% of Earth's surface, support nearly half of all fish species. And they're under siege. Dams block migration routes — the Mekong River basin has lost an estimated 70% of its migratory fish populations since large dam [construction](/construction) began. Pollution, habitat destruction, water extraction, and invasive species compound the damage.
 
 Coral reefs, home to about 25% of all marine fish species, are declining worldwide due to ocean warming, acidification, and local stressors. The 2016 and 2017 bleaching events killed roughly half the coral on the Great Barrier Reef.
 

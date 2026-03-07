@@ -5,7 +5,7 @@ description: "Algorithms are step-by-step instructions for solving problems. Lea
 category: technology
 tags: ["algorithms", "computer science", "programming", "data structures", "technology", "coding", "software"]
 heroImage: "/images/articles/algorithms-hero.webp"
-heroAlt: "Flowchart diagram showing branching algorithmic decision paths"
+heroAlt: "Editorial photograph representing the concept of an algorithm"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Most people associate algorithms with computers. Reasonable assumption, wrong hi
 
 But the concept goes back even further. Euclid's algorithm for finding the greatest common divisor of two numbers dates to around 300 BCE. That's over 2,300 years ago. The ancient Babylonians used algorithmic procedures for calculating square roots. Long division? That's an algorithm you probably learned in elementary school without anyone calling it one.
 
-The point is this: algorithms aren't a computer science invention. They're a human invention. Computers just happen to be extraordinarily good at executing them—billions of operations per second, without getting bored or making arithmetic mistakes.
+The point is this: algorithms aren't a [computer science](/computer-science) invention. They're a human invention. Computers just happen to be extraordinarily good at executing them—billions of operations per second, without getting bored or making arithmetic mistakes.
 
 ## What Makes Something an Algorithm
 
@@ -115,7 +115,7 @@ Here's where things get genuinely clever. Active programming solves complex prob
 
 Consider calculating Fibonacci numbers. The naive recursive approach recalculates the same values over and over—computing fib(50) requires over a trillion recursive calls. A active programming approach stores each result as it's calculated and looks it up when needed. Suddenly, fib(50) takes 50 steps instead of a trillion. That's not an incremental improvement. That's the difference between a microsecond and centuries.
 
-Active programming powers everything from spell checkers (edit distance calculations) to bioinformatics (DNA sequence alignment) to logistics (route optimization). It's one of those techniques that separates programmers who can solve hard problems from those who can't.
+Active programming powers everything from spell checkers (edit distance calculations) to bioinformatics (DNA sequence alignment) to logistics (route [optimization](/optimization)). It's one of those techniques that separates programmers who can solve hard problems from those who can't.
 
 ## Big O Notation: How Fast Is Fast?
 
@@ -145,19 +145,19 @@ Algorithms aren't just academic exercises. They're running your life—whether y
 
 Google's PageRank algorithm (named after co-founder Larry Page, not "web page") treats the web as a graph. Each link from one page to another is like a vote of confidence. Pages with more links from high-quality pages rank higher. The original 1998 paper described it as a random surfer model—imagine someone clicking links randomly and the algorithm calculates the probability of ending up on any given page.
 
-Modern search involves hundreds of additional algorithms layered on top: natural language processing, user intent detection, spam filtering, personalization. But the graph-based ranking idea remains central.
+Modern search involves hundreds of additional algorithms layered on top: [natural language processing](/natural-language-processing), user intent detection, spam filtering, personalization. But the graph-based ranking idea remains central.
 
 ### Social Media Feeds
 
 When you open Instagram or TikTok, an algorithm decides what you see. These recommendation algorithms analyze your past behavior—what you liked, how long you watched, what you scrolled past—and predict what will keep you engaged. They're optimizing for attention, which is why your feed feels eerily personalized.
 
-These systems use collaborative filtering (people similar to you liked X, so you might like X), content-based filtering (you watched cooking videos, here's another cooking video), and increasingly, deep [machine learning](/machine-learning) models that find patterns humans can't articulate.
+These systems use [collaborative filtering](/collaborative-filtering) (people similar to you liked X, so you might like X), content-based filtering (you watched cooking videos, here's another cooking video), and increasingly, deep [machine learning](/machine-learning) models that find patterns humans can't articulate.
 
 ### Navigation and Maps
 
 Finding the fastest route between two points on a road network with millions of intersections requires sophisticated graph algorithms. Services like Google Maps and Waze use variations of Dijkstra's algorithm combined with heuristics (A* search), real-time traffic data, and precomputed hierarchical shortcuts. The result: optimal routes calculated in milliseconds.
 
-### Cryptography and Security
+### [Cryptography](/cryptography) and Security
 
 Every secure connection on the internet relies on cryptographic algorithms. RSA encryption, used in HTTPS connections, depends on the mathematical fact that multiplying two large prime numbers is easy, but factoring the result back into those primes is computationally infeasible. The security of your bank account, your email, and your [blockchain](/blockchain) wallet all rest on algorithmic guarantees.
 
@@ -165,7 +165,7 @@ Every secure connection on the internet relies on cryptographic algorithms. RSA 
 
 [Machine learning](/machine-learning) algorithms are a special class that learn from data rather than following predetermined rules. A spam filter doesn't have a hardcoded list of spam words—it learns patterns from millions of labeled examples. A self-driving car doesn't have explicit instructions for every possible scenario—it learns from millions of miles of driving data.
 
-The key [machine learning](/machine-learning) algorithms include linear regression, decision trees, neural networks, and gradient descent (the optimization algorithm that trains most modern AI systems). These algorithms are why AI can now translate languages, generate images, and beat humans at complex games.
+The key [machine learning](/machine-learning) algorithms include linear regression, decision trees, [neural networks](/neural-networks), and gradient descent (the optimization algorithm that trains most modern AI systems). These algorithms are why AI can now translate languages, generate images, and beat humans at complex games.
 
 ## The Hard Problems: When Algorithms Hit a Wall
 
@@ -227,7 +227,7 @@ Algorithmic development isn't slowing down. Several frontiers are actively being
 
 **Quantum algorithms** like Shor's algorithm (for factoring large numbers) and Grover's algorithm (for searching unsorted databases) promise dramatic speedups for specific problem types. Shor's algorithm would break RSA encryption—which is why cryptographers are already developing post-quantum cryptographic algorithms designed to resist quantum attacks.
 
-**Algorithmic fairness** is becoming a field of its own. Researchers are developing formal mathematical definitions of fairness and building algorithms that satisfy them. This isn't just ethics—it's engineering. Regulators in the EU and US are increasingly requiring algorithmic transparency and accountability.
+**Algorithmic fairness** is becoming a field of its own. Researchers are developing formal mathematical definitions of fairness and building algorithms that satisfy them. This isn't just ethics—it's [engineering](/engineering). Regulators in the EU and US are increasingly requiring algorithmic transparency and accountability.
 
 **Biological algorithms** take inspiration from nature. Genetic algorithms mimic evolution—populations of candidate solutions "breed" and "mutate" over generations, with the fittest surviving. Ant colony optimization mimics how ants find shortest paths to food. Simulated annealing mimics the cooling of metals. These approaches excel at optimization problems where traditional methods struggle.
 

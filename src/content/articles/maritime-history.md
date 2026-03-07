@@ -5,7 +5,7 @@ description: "Maritime history examines humanity's relationship with the sea, fr
 category: history
 tags: ["seafaring", "maritime history", "naval"]
 heroImage: "/images/articles/maritime-history.webp"
-heroAlt: "A tall sailing ship crossing rough ocean waters under billowing white sails"
+heroAlt: "Editorial photograph representing the concept of maritime history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,11 +41,11 @@ Roughly 80% of global trade still moves by ship. Wars have been won and empires 
 
 ## The Ancient Origins of Seafaring
 
-Humans took to the water far earlier than most people assume. The colonization of Australia — at least 50,000 years ago — required crossing significant stretches of open ocean, even accounting for lower sea levels during the Ice Age. Whoever made that crossing had some kind of watercraft, though we have no physical evidence of what it looked like.
+Humans took to the water far earlier than most people assume. The colonization of Australia — at least 50,000 years ago — required crossing significant stretches of open ocean, even [accounting](/accounting) for lower sea levels during the Ice Age. Whoever made that crossing had some kind of watercraft, though we have no physical evidence of what it looked like.
 
 The oldest confirmed boats are dugout canoes. The Pesse canoe, found in the Netherlands, dates to around 8000 BCE. Simple, practical, and effective for river and coastal travel.
 
-But the real leap happened with sails. The earliest depictions of sailing vessels come from Egypt, around 3500 BCE, painted on pottery showing boats with square sails on the Nile. Wind power changed everything. Suddenly you could move heavy cargo long distances without exhausting a crew of rowers. Trade scaled up. Cities could grow beyond what their immediate hinterlands could feed.
+But the real leap happened with sails. The earliest depictions of sailing vessels come from Egypt, around 3500 BCE, painted on pottery showing boats with square sails on the Nile. [Wind power](/wind-power) changed everything. Suddenly you could move heavy cargo long distances without exhausting a crew of rowers. Trade scaled up. Cities could grow beyond what their immediate hinterlands could feed.
 
 ### The Mediterranean as a Highway
 
@@ -57,13 +57,13 @@ Rome, famously a land power, learned naval warfare the hard way — by losing to
 
 ## The Age of Exploration (and Exploitation)
 
-The period from roughly 1400 to 1600 reshaped the world's map and its power structures. Several things converged to make it possible: improved ship designs, better navigation instruments, economic pressure to find new trade routes, and — let's be honest — a willingness to conquer and exploit.
+The period from roughly 1400 to 1600 reshaped the world's map and its power structures. Several things converged to make it possible: improved ship designs, better [navigation](/navigation) instruments, economic pressure to find new trade routes, and — let's be honest — a willingness to conquer and exploit.
 
 ### Chinese Maritime Power
 
 Before European exploration really took off, China had the most advanced maritime capability on the planet. Between 1405 and 1433, Admiral Zheng He led seven massive voyages through the Indian Ocean, reaching East Africa, the Persian Gulf, and Southeast Asia. His fleet included "treasure ships" that, according to Chinese records, measured up to 120 meters long — more than four times the length of Columbus's *Santa Maria*.
 
-Then it stopped. The Ming dynasty turned inward, dismantled the fleet, and eventually made it illegal to build large oceangoing ships. Historians still argue about why. Factional politics at court, Confucian suspicion of merchants, the cost of the voyages — probably all of these played a role. It's one of history's great what-ifs: what would the world look like if China had kept sailing?
+Then it stopped. The Ming dynasty turned inward, dismantled the fleet, and eventually made it illegal to build large oceangoing ships. Historians still argue about why. Factional [politics](/politics) at court, Confucian suspicion of merchants, the cost of the voyages — probably all of these played a role. It's one of history's great what-ifs: what would the world look like if China had kept sailing?
 
 ### European Expansion
 
@@ -81,7 +81,7 @@ From the 16th through the mid-19th century, naval power determined which nations
 
 Britain's rise to global superpower status was fundamentally a maritime story. The defeat of the Spanish Armada in 1588 — helped enormously by bad weather and Spanish tactical errors — marked the beginning. By the 18th century, the Royal Navy was the world's most powerful fleet.
 
-The Battle of Trafalgar in 1805, where Admiral Horatio Nelson destroyed a combined French and Spanish fleet, ensured British naval supremacy for the next century. Nelson died in the battle, becoming Britain's greatest naval hero. Trafalgar meant Napoleon could never invade Britain, which ultimately shaped the outcome of the Napoleonic Wars.
+The Battle of Trafalgar in 1805, where Admiral Horatio Nelson destroyed a combined French and Spanish fleet, ensured British naval supremacy for the next century. Nelson died in the battle, becoming Britain's greatest naval hero. Trafalgar meant Napoleon could never invade Britain, which ultimately shaped the outcome of the [Napoleonic Wars](/napoleonic-wars).
 
 Britain used its naval dominance to protect trade routes, enforce its colonial empire, and — after 1807 — patrol against the slave trade (though its motivations were not purely humanitarian). The phrase "Britannia rules the waves" wasn't just a song lyric. It was geopolitical reality.
 
@@ -89,19 +89,19 @@ Britain used its naval dominance to protect trade routes, enforce its colonial e
 
 Between roughly 1650 and 1730, piracy flourished in the Caribbean, the Indian Ocean, and along the American coast. The conditions were perfect: valuable cargoes, weak colonial governance, war-trained sailors discharged after European conflicts, and vast stretches of unpatrolled ocean.
 
-Famous pirates like Blackbeard, Bartholomew Roberts, and Anne Bonny were real people, though the historical record is tangled with legend. What's often overlooked is that many pirates operated with tacit government approval — privateers with "letters of marque" that licensed them to attack enemy shipping. The line between pirate and patriot was remarkably thin.
+Famous pirates like Blackbeard, Bartholomew Roberts, and Anne Bonny were real people, though the historical record is tangled with legend. What's often overlooked is that many pirates operated with tacit [government](/government) approval — privateers with "letters of marque" that licensed them to attack enemy shipping. The line between pirate and patriot was remarkably thin.
 
 ## Steam, Steel, and the Modern Era
 
-The 19th century brought the most radical transformation in maritime history since the invention of the sail. Steam power, iron (and later steel) hulls, and the screw propeller replaced wind, wood, and centuries of accumulated sailing knowledge in just a few decades.
+The 19th century brought the most radical transformation in maritime history since the [invention](/invention) of the sail. Steam power, iron (and later steel) hulls, and the screw propeller replaced wind, wood, and centuries of accumulated sailing knowledge in just a few decades.
 
 The SS *Great Britain*, launched in 1843 by Isambard Kingdom Brunel, was the first oceangoing ship to combine an iron hull with a screw propeller. It could cross the Atlantic regardless of wind conditions. By the 1870s, steamships had decisively replaced sailing vessels on major trade routes.
 
 ### The World Wars at Sea
 
-Both World Wars were heavily influenced by maritime factors. In World War I, Germany's unrestricted submarine warfare — targeting merchant shipping with U-boats — nearly starved Britain into submission and directly provoked the United States into entering the war.
+Both World Wars were heavily influenced by maritime factors. In [World War I](/world-war-i), Germany's unrestricted submarine warfare — targeting merchant shipping with U-boats — nearly starved Britain into submission and directly provoked the United States into entering the war.
 
-World War II saw the Battle of the Atlantic, a years-long campaign to keep supply lines open between North America and Britain against German U-boat wolfpacks. In the Pacific, the war was almost entirely maritime — island hopping campaigns, carrier battles like Midway (1942), and the submarine campaign that strangled Japan's supply lines.
+[World War II](/world-war-ii) saw the Battle of the Atlantic, a years-long campaign to keep supply lines open between North America and Britain against German U-boat wolfpacks. In the Pacific, the war was almost entirely maritime — island hopping campaigns, carrier battles like Midway (1942), and the submarine campaign that strangled Japan's supply lines.
 
 ### Container Shipping Changed Everything
 
@@ -113,4 +113,4 @@ Before containers, loading and unloading a cargo ship took days and armies of lo
 
 Climate change is raising sea levels, threatening coastal cities and maritime infrastructure worldwide. Arctic ice melt is opening new shipping routes. Territorial disputes over maritime boundaries — in the South China Sea, the Eastern Mediterranean, the Arctic — are among the world's most dangerous flashpoints.
 
-Understanding how we got here — how trade routes shaped economies, how naval power projected political will, how maritime law evolved, how technological change disrupted entire industries — isn't just academic. The sea has always been where civilizations meet, compete, and sometimes collide. That hasn't changed. It's just faster now.
+Understanding how we got here — how trade routes shaped economies, how naval power projected political will, how [maritime law](/maritime-law) evolved, how technological change disrupted entire industries — isn't just academic. The sea has always been where civilizations meet, compete, and sometimes collide. That hasn't changed. It's just faster now.

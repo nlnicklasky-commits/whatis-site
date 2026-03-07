@@ -5,7 +5,7 @@ description: "Watchmaking is the art and science of designing and building timep
 category: arts-amp-culture
 tags: ["watchmaking", "horology", "craftsmanship", "mechanical watches", "Swiss watches", "precision"]
 heroImage: "/images/articles/watchmaking.webp"
-heroAlt: "Watchmaker examining a mechanical watch movement through a loupe at a precision workbench"
+heroAlt: "Editorial photograph representing the concept of watchmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Watchmaking — formally called horology — is the craft of designing, building
 
 ## How a Mechanical Watch Works
 
-The mechanical watch movement is one of the most elegant engineering solutions humans have devised. Here's the basic chain:
+The mechanical watch movement is one of the most elegant [engineering](/engineering) solutions humans have devised. Here's the basic chain:
 
 **Mainspring** — A coiled strip of metal alloy that stores energy when wound (either by hand via the crown or automatically via a weighted rotor that spins as the wearer moves). A fully wound mainspring typically provides 40-80 hours of power reserve.
 
@@ -81,8 +81,8 @@ This repositioning succeeded beyond anyone's expectations. The luxury mechanical
 
 ## Learning the Craft
 
-Watchmaking schools typically offer 2-4 year programs combining theory (horology, materials science, micro-mechanics) with extensive hands-on training. Graduates enter as bench watchmakers at repair shops, authorized service centers, or manufacture workshops.
+Watchmaking schools typically offer 2-4 year programs combining theory (horology, [materials science](/materials-science), micro-mechanics) with extensive hands-on training. Graduates enter as bench watchmakers at repair shops, authorized service centers, or manufacture workshops.
 
 The skills required are specific: dexterity for handling miniature parts, patience for hours of focused work at magnification, mechanical understanding for diagnosing problems, and the aesthetic sensibility to finish components beautifully.
 
-It's a craft where the best practitioners are genuinely irreplaceable — a master watchmaker who can fabricate parts by hand, regulate a movement to chronometer standards, and restore a 200-year-old pocket watch to working condition represents decades of accumulated skill. In an age of automation and artificial intelligence, that kind of hands-on mastery is becoming rarer and, consequently, more valued.
+It's a craft where the best practitioners are genuinely irreplaceable — a master watchmaker who can fabricate parts by hand, regulate a movement to chronometer standards, and restore a 200-year-old pocket watch to working condition represents decades of accumulated skill. In an age of automation and [artificial intelligence](/artificial-intelligence), that kind of hands-on mastery is becoming rarer and, consequently, more valued.

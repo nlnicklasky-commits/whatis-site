@@ -5,7 +5,7 @@ description: "Memory techniques are strategies for improving recall, from the me
 category: everyday-concepts
 tags: ["memory techniques", "mnemonics", "learning", "cognitive science", "memory palace", "study skills"]
 heroImage: "/images/articles/memory-techniques.webp"
-heroAlt: "Person studying with flashcards and a mind map spread across a desk"
+heroAlt: "Editorial photograph representing the concept of memory techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ Instead of cramming all at once, you review material at gradually increasing int
 
 This exploits the "spacing effect" — the well-documented finding that distributed practice produces better retention than massed practice. Hermann Ebbinghaus discovered this in the 1880s, and it's been confirmed by hundreds of studies since.
 
-Digital apps like Anki, SuperMemo, and Quizlet implement spaced repetition algorithms automatically. You just review the cards the app presents each day. Medical students swear by Anki — many credit it with getting them through the enormous volume of material in medical school.
+Digital apps like Anki, SuperMemo, and Quizlet implement spaced repetition [algorithms](/algorithms) automatically. You just review the cards the app presents each day. Medical students swear by Anki — many credit it with getting them through the enormous volume of material in medical school.
 
 ### Chunking
 
@@ -91,9 +91,9 @@ Memory techniques work because they align with how your brain actually processes
 
 **Students.** Spaced repetition for vocabulary, formulas, and facts. Memory palaces for ordered information. Chunking for numbers and sequences. Active recall instead of passive re-reading.
 
-**Professionals.** Remembering names at networking events (associate each name with a vivid image). Memorizing presentations (use a memory palace with key points at each location). Learning professional terminology.
+**Professionals.** Remembering names at [networking](/networking) events (associate each name with a vivid image). Memorizing presentations (use a memory palace with key points at each location). Learning professional terminology.
 
-**Language learners.** Spaced repetition for vocabulary is the single most effective tool. Memory palaces for grammar rules and irregular forms. Mnemonics for gender rules in gendered languages.
+**Language learners.** Spaced repetition for vocabulary is the single most effective tool. Memory palaces for [grammar](/grammar) rules and irregular forms. Mnemonics for gender rules in gendered languages.
 
 **Older adults.** Memory techniques can offset age-related memory decline. A 2017 study found that older adults trained in the method of loci showed memory improvements comparable to younger adults and maintained gains months later.
 
@@ -101,7 +101,7 @@ Memory techniques work because they align with how your brain actually processes
 
 Pick one technique and practice it. The memory palace is the most versatile, so it's a good starting point. Choose a familiar location with at least 10 distinct spots. Practice placing and recalling simple lists until the process feels natural. Then expand to more complex material.
 
-For spaced repetition, download Anki (free for desktop and Android; paid for iOS) and create cards for whatever you're trying to learn. Review daily. The algorithm handles the scheduling.
+For spaced repetition, download Anki (free for desktop and Android; paid for iOS) and create cards for whatever you're trying to learn. Review daily. The algorithm handles the [scheduling](/scheduling).
 
 The biggest barrier to using memory techniques is the initial investment of effort. Creating a memory palace takes more work upfront than simply re-reading your notes. But the payoff in retention is dramatic — and once the techniques become habitual, the effort decreases while the benefits compound.
 

@@ -5,7 +5,7 @@ description: "Thesaurus construction is the process of building structured vocab
 category: technology
 tags: ["thesaurus construction", "information retrieval", "knowledge organization"]
 heroImage: "/images/articles/thesaurus-construction.webp"
-heroAlt: "A network diagram showing interconnected terms and concepts with hierarchical and associative relationships labeled between nodes"
+heroAlt: "Editorial photograph representing the concept of thesaurus construction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Thesaurus Construction?
 
-Thesaurus construction is the systematic process of creating a structured vocabulary — called a thesaurus — that defines preferred terms within a subject area and maps the hierarchical, equivalence, and associative relationships between them. These thesauri are used primarily in information retrieval systems, libraries, archives, and databases to improve the precision and completeness of searching.
+Thesaurus construction is the systematic process of creating a structured vocabulary — called a thesaurus — that defines preferred terms within a subject area and maps the hierarchical, equivalence, and associative relationships between them. These thesauri are used primarily in [information retrieval](/information-retrieval) systems, libraries, archives, and databases to improve the precision and completeness of searching.
 
 ## Not Your English Class Thesaurus
 
@@ -99,7 +99,7 @@ These connect terms that aren't synonyms and don't have a hierarchical relations
 
 - Cars RT Traffic
 - Cars RT Highways
-- Cars RT Automotive engineering
+- Cars RT [Automotive engineering](/automotive-engineering)
 - Cars RT Driving
 
 Associative relationships are the hardest to assign consistently. The standard guideline: if a user searching for term A would likely want to see documents about term B, and the two aren't already linked by equivalence or hierarchy, an associative relationship is appropriate.
@@ -130,13 +130,13 @@ Term collection draws on multiple sources:
 - User search logs (what are people looking for?)
 - Textbooks and reference works
 
-Automated term extraction — using natural language processing to pull candidate terms from large text corpora — has become standard. Tools can identify frequently occurring noun phrases, multi-word terms, and co-occurring concepts. But automated extraction still requires human review; not every frequent term belongs in the thesaurus.
+Automated term extraction — using [natural language processing](/natural-language-processing) to pull candidate terms from large text corpora — has become standard. Tools can identify frequently occurring noun phrases, multi-word terms, and co-occurring concepts. But automated extraction still requires human review; not every frequent term belongs in the thesaurus.
 
 ### Step 3: Establish Preferred Terms
 
-For each concept, choose one term as the descriptor and designate the rest as non-preferred entry terms. This is where domain expertise matters most. Should the preferred term be "climate change" or "global warming"? "Artificial intelligence" or "AI"? "Heart attack" or "myocardial infarction"? The choice affects usability.
+For each concept, choose one term as the descriptor and designate the rest as non-preferred entry terms. This is where domain expertise matters most. Should the preferred term be "climate change" or "global warming"? "[Artificial intelligence](/artificial-intelligence)" or "AI"? "Heart attack" or "myocardial infarction"? The choice affects usability.
 
-Standards recommend using the most common form in the relevant literature and user community, but institutional preferences, cultural context, and evolving usage all influence the decision.
+Standards recommend using the most common form in the relevant [literature](/literature) and user community, but institutional preferences, cultural context, and evolving usage all influence the decision.
 
 ### Step 4: Build Hierarchies
 
@@ -164,9 +164,9 @@ A thesaurus is never finished. New concepts emerge, terminology changes, and usa
 
 **Medical Subject Headings (MeSH):** Maintained by the National Library of Medicine, MeSH contains about 30,000 descriptors organized in 16 hierarchical trees. It's used to index articles in MEDLINE/PubMed, the primary biomedical literature database. When you search PubMed, MeSH is working behind the scenes to expand your query and map synonyms.
 
-**Art & Architecture Thesaurus (AAT):** Maintained by the Getty Research Institute, the AAT contains about 400,000 terms for describing art, architecture, and material culture. It's used by museums, galleries, and cultural heritage organizations worldwide.
+**Art & [Architecture](/architecture) Thesaurus (AAT):** Maintained by the Getty Research Institute, the AAT contains about 400,000 terms for describing art, architecture, and material culture. It's used by museums, galleries, and cultural heritage organizations worldwide.
 
-**ERIC Thesaurus:** Used for education literature, maintained by the Institute of Education Sciences. Contains about 11,000 terms covering educational topics, research methods, and populations.
+**ERIC Thesaurus:** Used for [education](/education) literature, maintained by the Institute of Education Sciences. Contains about 11,000 terms covering educational topics, [research methods](/research-methods), and populations.
 
 **UNESCO Thesaurus:** A multilingual thesaurus covering education, science, culture, communication, and social sciences. Available in English, French, Spanish, Russian, and Arabic.
 

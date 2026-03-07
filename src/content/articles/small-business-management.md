@@ -5,7 +5,7 @@ description: "Small business management is the process of running a company with
 category: business
 tags: ["small business", "management", "entrepreneurship", "business operations"]
 heroImage: "/images/articles/small-business-management.webp"
-heroAlt: "A small business owner reviewing financial documents and a laptop at a desk in their shop"
+heroAlt: "Editorial photograph representing the concept of small business management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,11 +33,11 @@ faq:
     a: "A formal 40-page business plan is unnecessary for most small businesses. But every business benefits from a clear plan covering your value proposition, target market, revenue model, cost structure, and cash flow projections. The SBA recommends at least a lean business plan — a one-page document covering the essentials — as a minimum. If you're seeking loans or investors, a detailed plan is typically required."
 ---
 
-# What Is Small Business Management?
+# What Is Small Business [Management](/management)?
 
-Small business management is the work of running a company that typically has fewer than 500 employees — though most small businesses are far smaller than that. It involves making decisions about money, people, products, marketing, operations, and legal compliance, usually with limited resources and often without dedicated specialists in any of those areas.
+Small business management is the work of [running](/running) a company that typically has fewer than 500 employees — though most small businesses are far smaller than that. It involves making decisions about money, people, products, [marketing](/marketing), operations, and legal compliance, usually with limited resources and often without dedicated specialists in any of those areas.
 
-The U.S. Small Business Administration counts 33.2 million small businesses in America as of 2023, employing about 46% of the private workforce. Most have fewer than 20 employees. Many have zero employees — just the owner. These businesses collectively generate roughly 44% of U.S. economic activity.
+The U.S. Small [Business Administration](/business-administration) counts 33.2 million small businesses in America as of 2023, employing about 46% of the private workforce. Most have fewer than 20 employees. Many have zero employees — just the owner. These businesses collectively generate roughly 44% of U.S. economic activity.
 
 Managing one is nothing like what they teach in MBA programs. It's messier, faster, more personal, and more stressful. It's also, for millions of people, more rewarding than anything else they've ever done.
 
@@ -45,7 +45,7 @@ Managing one is nothing like what they teach in MBA programs. It's messier, fast
 
 Before you get into management principles and financial ratios, there's a question most small business advice skips over: what kind of business are you actually trying to build?
 
-Not all small businesses have the same goals. A freelance designer working from home has different needs than a restaurant owner, who has different needs than a tech startup aiming for venture capital. The management approach that works for one can be wrong for another.
+Not all small businesses have the same goals. A freelance designer working from home has different needs than a restaurant owner, who has different needs than a tech startup aiming for [venture capital](/venture-capital). The management approach that works for one can be wrong for another.
 
 **Lifestyle businesses** exist to support the owner's desired way of living. They're not trying to scale rapidly or sell for millions. They need to generate enough income to meet the owner's financial needs while maintaining flexibility. About 95% of small businesses fall into this category, whether their owners call it that or not.
 
@@ -113,9 +113,9 @@ This is tedious. It's also the difference between a business that depends entire
 
 ### Technology
 
-Small business technology has improved dramatically in the past decade. Tools that previously required enterprise budgets — accounting software, CRM systems, email marketing, project management, payroll — are now available for $10-100/month through cloud-based services.
+Small business technology has improved dramatically in the past decade. Tools that previously required enterprise budgets — accounting software, CRM systems, email marketing, [project management](/project-management), payroll — are now available for $10-100/month through cloud-based services.
 
-The trap is adopting too many tools. Every new piece of software requires learning, maintenance, and integration with your other systems. Pick the minimum set of tools that covers your needs and use them consistently. For most small businesses: an [accounting](/accounting) platform (QuickBooks or Xero), a POS or invoicing system, a communication tool (email and maybe Slack), and a basic CRM if you have a sales process.
+The trap is adopting too many tools. Every new piece of software requires learning, maintenance, and integration with your other systems. Pick the minimum set of tools that covers your needs and use them consistently. For most small businesses: an [accounting](/accounting) platform (QuickBooks or Xero), a POS or invoicing system, a communication tool (email and maybe Slack), and a basic CRM if you have a [sales](/sales) process.
 
 ## Legal and Tax Basics
 
@@ -125,7 +125,7 @@ This isn't the exciting part, but ignoring it can end your business.
 
 **Taxes** are more complicated for small businesses than for employees. You're responsible for self-employment tax (15.3% on net earnings), estimated quarterly payments to the IRS, state and local taxes, and — if you have employees — payroll taxes. Missing estimated payments triggers penalties. The IRS provides extensive resources through their Small Business Tax Center, and SCORE (a free SBA-sponsored mentoring service) offers guidance on tax obligations.
 
-**Insurance** protects against the unexpected. At minimum, most small businesses need general liability insurance. Depending on your industry, you may also need professional liability (errors and omissions), commercial property, workers' compensation, and business interruption coverage.
+**[Insurance](/insurance)** protects against the unexpected. At minimum, most small businesses need general liability insurance. Depending on your industry, you may also need professional liability (errors and omissions), commercial property, workers' compensation, and business interruption coverage.
 
 ## The Emotional Reality
 

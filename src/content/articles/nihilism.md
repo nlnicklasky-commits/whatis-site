@@ -5,7 +5,7 @@ description: "Nihilism is the philosophical view that life lacks objective meani
 category: everyday-concepts
 tags: ["nihilism", "philosophy", "existentialism", "Nietzsche", "meaning of life", "metaphysics"]
 heroImage: "/images/articles/nihilism.webp"
-heroAlt: "A solitary figure standing in a vast empty space symbolizing the search for meaning"
+heroAlt: "Editorial photograph representing the concept of nihilism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Nihilism?
 
-Nihilism is the philosophical position that life has no inherent meaning, purpose, or objective value. Nothing matters in any ultimate sense — no moral truths, no cosmic purpose, no grand design. It's one of the most unsettling ideas in philosophy, and it's been misunderstood more often than almost any other philosophical concept.
+Nihilism is the philosophical position that life has no inherent meaning, purpose, or objective value. Nothing matters in any ultimate sense — no moral truths, no cosmic purpose, no grand design. It's one of the most unsettling ideas in [philosophy](/philosophy), and it's been misunderstood more often than almost any other philosophical concept.
 
 ## What People Get Wrong
 

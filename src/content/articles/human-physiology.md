@@ -5,7 +5,7 @@ description: "Human physiology studies how your body's systems function. Explore
 category: science
 tags: ["human physiology", "physiology", "human body", "biology", "health science", "medicine", "homeostasis"]
 heroImage: "/images/articles/human-physiology-hero.webp"
-heroAlt: "Medical illustration showing the circulatory, respiratory, and nervous systems working together"
+heroAlt: "Editorial photograph representing the concept of human physiology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "Medicine, nursing, physical therapy, athletic training, pharmacy, biomedical research, exercise science, respiratory therapy, clinical laboratory science, and medical device development all require strong physiology knowledge. Research positions typically require graduate degrees; clinical roles require professional training programs."
 ---
 
-# What Is Human Physiology?
+# What Is Human [Physiology](/physiology)?
 
 Human physiology is the scientific study of how the human body functions — not what structures exist (that's [anatomy](/anatomy)), but how those structures work, individually and as an integrated system. It explains why your heart beats, how your lungs extract oxygen from air, what happens when you eat a sandwich, and why running up stairs makes you breathe harder. Physiology is, in essence, the operating manual for the human body.
 
@@ -81,7 +81,7 @@ Each kidney contains about 1 million nephrons — the functional filtering units
 
 The kidneys regulate blood pressure through the renin-angiotensin-aldosterone system (RAAS). When blood pressure drops, the kidneys release renin, triggering a cascade that produces angiotensin II (a powerful vasoconstrictor) and aldosterone (which causes sodium and water retention). This raises blood volume and pressure. It's a beautiful example of organ systems working together — the kidneys respond to a cardiovascular problem by adjusting fluid balance.
 
-Kidney failure is devastating precisely because of how many physiological functions the kidneys perform: waste removal, fluid balance, electrolyte regulation, pH control, blood pressure management, red blood cell production signaling (via erythropoietin), and vitamin D activation. Dialysis can replace some of these functions, but not all — which is why kidney failure affects virtually every organ system.
+Kidney failure is devastating precisely because of how many physiological functions the kidneys perform: waste removal, fluid balance, electrolyte regulation, pH control, blood pressure [management](/management), red blood cell production signaling (via erythropoietin), and vitamin D activation. Dialysis can replace some of these functions, but not all — which is why kidney failure affects virtually every organ system.
 
 ### Endocrine Physiology: Chemical Messaging
 
@@ -93,7 +93,7 @@ Type 1 diabetes is an autoimmune destruction of beta cells — no insulin is pro
 
 The hypothalamic-pituitary axis controls most endocrine function. The hypothalamus (a brain region) releases hormones that tell the pituitary gland what to do. The pituitary releases hormones that tell target glands (thyroid, adrenals, gonads) what to do. Target glands release hormones that affect the body and feed back to the hypothalamus and pituitary, creating layered feedback loops.
 
-This hierarchical control system is remarkably similar to how engineering control systems work — a concept that early [cybernetics](/cybernetics) researchers explicitly recognized when developing control theory.
+This hierarchical control system is remarkably similar to how [engineering](/engineering) control systems work — a concept that early [cybernetics](/cybernetics) researchers explicitly recognized when developing [control theory](/control-theory).
 
 ### Neurophysiology: Electrical Signaling
 
@@ -123,13 +123,13 @@ Three energy systems fuel muscle contraction:
 
 1. **Phosphocreatine system** — immediate energy for ~10 seconds (sprinting, jumping)
 2. **Anaerobic glycolysis** — glucose breakdown without oxygen for ~1-3 minutes (400m sprint), producing lactate
-3. **Aerobic metabolism** — oxygen-dependent breakdown of glucose, fats, and proteins for sustained activity (marathon running)
+3. **Aerobic metabolism** — oxygen-dependent breakdown of glucose, fats, and proteins for sustained activity ([marathon running](/marathon-running))
 
 The transition between systems explains the sensations of exercise intensity. Walking uses aerobic metabolism comfortably. Sprinting exhausts the phosphocreatine system in seconds and shifts to anaerobic glycolysis, producing lactate that contributes to that burning sensation. Training improves all three systems, but elite athletes in different sports optimize different ones.
 
 Bone physiology is equally active. Bones constantly remodel through balanced osteoclast (bone-breaking) and osteoblast (bone-building) activity. Weight-bearing exercise stimulates bone formation (Wolff's Law — bone adapts to the loads placed on it). This is why astronauts lose bone density in microgravity and why weight-bearing exercise is critical for preventing osteoporosis.
 
-## Exercise Physiology: The Body Under Stress
+## [Exercise Physiology](/exercise-physiology): The Body Under Stress
 
 Exercise physiology — studying how the body responds to physical exertion — is one of physiology's most practical subfields.
 

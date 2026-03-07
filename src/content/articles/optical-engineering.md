@@ -5,7 +5,7 @@ description: "Optical engineering designs systems that control light. Learn how 
 category: technology
 tags: ["optical engineering", "optics", "photonics", "laser", "fiber optics", "lens design", "optical instruments"]
 heroImage: "/images/articles/optical-engineering-hero.webp"
-heroAlt: "Precision optical lens assembly with laser beams passing through engineered glass elements"
+heroAlt: "Editorial photograph representing the concept of optical engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Optical engineering is the branch of engineering concerned with designing, build
 
 ## More Than Just Lenses
 
-When most people hear "optical engineering," they picture someone grinding lenses for glasses. And sure, that's part of it — but it's like saying electrical engineering is about wiring houses. The field is vastly bigger.
+When most people hear "optical engineering," they picture someone grinding lenses for glasses. And sure, that's part of it — but it's like saying [electrical engineering](/electrical-engineering) is about wiring houses. The field is vastly bigger.
 
 Your smartphone camera? Optical engineering. Those tiny lenses — often five or six stacked together, each thinner than a millimeter — are precision-designed to correct for color distortion, field curvature, and diffraction. The fact that a phone camera in 2025 can rival a professional camera from 2010 is an optical engineering triumph.
 
@@ -171,13 +171,13 @@ Solid-state LIDAR — with no moving parts — is the holy grail. Flash LIDAR il
 
 Just as electronic circuits shrank from room-sized to chip-sized, optical systems are following the same path. Photonic integrated circuits (PICs) put lasers, modulators, detectors, and waveguides on a single chip. They're already used in telecommunications transceivers, and research is pushing toward general-purpose photonic computing.
 
-The appeal of photonic computing is speed and energy efficiency. Light travels faster than electrons, and optical operations can be performed in parallel across wavelengths. For specific workloads — matrix multiplication used in [machine-learning](/machine-learning), signal processing — photonic chips could be dramatically faster and more energy-efficient than electronic processors.
+The appeal of photonic computing is speed and energy efficiency. Light travels faster than electrons, and optical operations can be performed in parallel across wavelengths. For specific workloads — matrix multiplication used in [machine-learning](/machine-learning), [signal processing](/signal-processing) — photonic chips could be dramatically faster and more energy-efficient than electronic processors.
 
 ### Quantum Optics
 
-Quantum optics — manipulating individual photons — is enabling new technologies. Quantum key distribution uses the principles of quantum mechanics to create theoretically unbreakable encryption. If anyone intercepts the photons, the quantum state is disturbed, and the eavesdropping is detected.
+Quantum optics — manipulating individual photons — is enabling new technologies. Quantum key distribution uses the principles of [quantum mechanics](/quantum-mechanics) to create theoretically unbreakable encryption. If anyone intercepts the photons, the quantum state is disturbed, and the eavesdropping is detected.
 
-Quantum computing with photons is another active frontier. Companies like PsiQuantum and Xanadu are building photonic quantum computers, betting that photons' natural resistance to decoherence makes them superior qubits compared to superconducting or ion-trap approaches.
+[Quantum computing](/quantum-computing) with photons is another active frontier. Companies like PsiQuantum and Xanadu are building photonic quantum computers, betting that photons' natural resistance to decoherence makes them superior qubits compared to superconducting or ion-trap approaches.
 
 ## Optical Coatings and Materials
 

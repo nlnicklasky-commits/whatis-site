@@ -5,7 +5,7 @@ description: "Rainforest ecology studies how tropical forest organisms interact 
 category: science
 tags: ["rainforest ecology", "tropical rainforest", "biodiversity", "ecology", "deforestation", "conservation", "ecosystems"]
 heroImage: "/images/articles/rainforest-ecology-hero.webp"
-heroAlt: "Dense tropical rainforest canopy with sunlight filtering through layers of green foliage"
+heroAlt: "Editorial photograph representing the concept of rainforest ecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ A single hectare of Amazonian rainforest can contain over 400 tree species. For 
 
 The field of rainforest [ecology](/ecology) tries to make sense of this staggering complexity. How do so many species coexist without one outcompeting the rest? How does the forest maintain itself? And what happens when humans disrupt a system this intricate?
 
-## The Architecture: Layers of a Rainforest
+## The [Architecture](/architecture): Layers of a Rainforest
 
 Rainforests aren't uniform from top to bottom. They're organized into distinct vertical layers, each with its own microclimate, species community, and ecological rules.
 
@@ -107,7 +107,7 @@ In most temperate forests, decomposition is slow and nutrients accumulate in the
 
 Mycorrhizal fungi play a starring role here. These fungi form partnerships with tree roots, extending hair-thin filaments (hyphae) through the soil and decomposing litter. The fungi break down organic matter and deliver phosphorus, nitrogen, and other nutrients directly to tree roots. In return, the trees supply sugars from photosynthesis. It's one of nature's most important mutualistic relationships.
 
-This tight cycling means that when you cut down a rainforest, you don't just lose the trees — you break the nutrient cycle. The nutrients wash away in the first few rainy seasons, and the soil becomes essentially sterile for agriculture within 3-5 years. That's why slash-and-burn farming keeps moving: farmers clear a patch, farm it until yields collapse, then move on to the next one.
+This tight cycling means that when you cut down a rainforest, you don't just lose the trees — you break the nutrient cycle. The nutrients wash away in the first few rainy seasons, and the soil becomes essentially sterile for [agriculture](/agriculture) within 3-5 years. That's why slash-and-burn farming keeps moving: farmers clear a patch, farm it until yields collapse, then move on to the next one.
 
 ## Water Cycling and Climate Regulation
 
@@ -135,7 +135,7 @@ Leafcutter ants are another remarkable case. These ants don't eat leaves — the
 
 Many rainforest plants produce chemical defenses. Alkaloids, terpenes, tannins — the pharmaceutical industry has found countless drugs in rainforest chemistry. Quinine (for malaria), curare (a muscle relaxant), and compounds used in cancer treatment all originated from rainforest species.
 
-### Pollination and Seed Dispersal
+### [Pollination](/pollination) and Seed Dispersal
 
 Because wind is unreliable in a dense forest, the vast majority of rainforest plants rely on animals for pollination and seed dispersal. Bats pollinate many night-blooming flowers. Hummingbirds service tubular flowers. Beetles, flies, and bees handle the rest.
 

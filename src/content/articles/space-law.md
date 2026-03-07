@@ -5,7 +5,7 @@ description: "Space law governs human activities in outer space, including satel
 category: politics
 tags: ["space law", "outer space treaty", "international law", "satellites", "space exploration", "governance"]
 heroImage: "/images/articles/space-law.webp"
-heroAlt: "Earth viewed from space with orbiting satellites representing the domain governed by space law"
+heroAlt: "Editorial photograph representing the concept of space law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Space Law?
 
-Space law is the body of international and national law governing human activities in outer space — from satellite operations and space station management to lunar mining, space tourism, and the increasingly urgent problem of orbital debris. It addresses questions that would have seemed absurd a century ago: Who's responsible when a satellite crashes? Can you mine asteroids for profit? What rules apply on Mars?
+Space law is the body of international and national law governing human activities in outer space — from satellite operations and space station [management](/management) to lunar mining, space [tourism](/tourism), and the increasingly urgent problem of orbital debris. It addresses questions that would have seemed absurd a century ago: Who's responsible when a satellite crashes? Can you mine asteroids for profit? What rules apply on Mars?
 
 The field emerged during the Cold War space race, when the prospect of nuclear weapons in orbit made legal frameworks genuinely urgent. Today, with private companies launching thousands of satellites, multiple nations planning Moon missions, and space tourism becoming real, space law faces challenges its founders never anticipated.
 
@@ -57,6 +57,6 @@ Five UN treaties form the foundation of space law.
 
 **Space resource mining** is a frontier legal issue. The 2015 U.S. Commercial Space Launch Competitiveness Act asserted that U.S. citizens can own resources extracted from asteroids or celestial bodies — without claiming sovereignty over the body itself. Luxembourg passed similar legislation in 2017. Whether this interpretation is consistent with the Outer Space Treaty is debated internationally.
 
-**Mega-constellations** like SpaceX's Starlink (planned 42,000 satellites) raise questions about spectrum allocation, orbital slot management, light pollution affecting astronomy, and equitable access to orbit. Current regulatory frameworks weren't designed for constellations of this scale.
+**Mega-constellations** like SpaceX's Starlink (planned 42,000 satellites) raise questions about spectrum allocation, orbital slot management, light pollution affecting [astronomy](/astronomy), and equitable access to orbit. Current regulatory frameworks weren't designed for constellations of this scale.
 
 Space law is a field where the technology is advancing faster than the rules — a situation that's exciting for lawyers and concerning for everyone else. The decisions made in the next decade about space governance will shape humanity's relationship with space for centuries.

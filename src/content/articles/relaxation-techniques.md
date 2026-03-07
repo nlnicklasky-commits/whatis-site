@@ -5,7 +5,7 @@ description: "Relaxation techniques are methods like deep breathing, meditation,
 category: health-amp-wellness
 tags: ["mental health", "relaxation", "stress management", "wellness"]
 heroImage: "/images/articles/relaxation-techniques.webp"
-heroAlt: "A person sitting cross-legged on a yoga mat practicing deep breathing in a peaceful room"
+heroAlt: "Editorial photograph representing the concept of relaxation techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Relaxation Techniques?
 
-Relaxation techniques are structured methods designed to activate your body's natural calming response — the opposite of the "fight or flight" reaction that stress triggers. They include practices like deep breathing, progressive muscle relaxation, meditation, visualization, and yoga. The goal is straightforward: slow your heart rate, lower your blood pressure, ease muscle tension, and quiet the mental chatter that keeps you wound up.
+Relaxation techniques are structured methods designed to activate your body's natural calming response — the opposite of the "fight or flight" reaction that stress triggers. They include practices like deep breathing, progressive muscle relaxation, [meditation](/meditation), visualization, and yoga. The goal is straightforward: slow your heart rate, lower your blood pressure, ease muscle tension, and quiet the mental chatter that keeps you wound up.
 
 Here's the thing most people don't realize: relaxation isn't just "doing nothing." Your body has a specific physiological state called the relaxation response, first described by Harvard cardiologist Dr. Herbert Benson in 1975. It's a measurable shift in your nervous system — from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest). And you can trigger it on purpose, with practice.
 
@@ -64,7 +64,7 @@ Also called belly breathing, this is the foundation. Most stressed people breath
 
 How to do it: Place one hand on your chest and one on your belly. Breathe in through your nose for about 4 seconds, letting your belly push outward while your chest stays relatively still. Exhale slowly through your mouth for 6 seconds. Repeat for 5 to 10 minutes.
 
-A 2017 study in *Frontiers in Psychology* found that 8 weeks of diaphragmatic breathing training significantly reduced cortisol levels and improved sustained attention in participants.
+A 2017 study in *Frontiers in [Psychology](/psychology)* found that 8 weeks of diaphragmatic breathing training significantly reduced cortisol levels and improved sustained attention in participants.
 
 ### The 4-7-8 Method
 
@@ -89,11 +89,11 @@ A typical PMR session works through the body systematically:
 7. **Shoulders** — Shrug your shoulders up toward your ears. Release.
 8. **Face** — Scrunch your entire face tightly. Release.
 
-The whole process takes 15 to 20 minutes. Research published in *BMC Psychiatry* found that PMR reduced anxiety scores by an average of 32% in clinical settings. It's particularly effective for people who carry stress physically — if you catch yourself clenching your jaw or hunching your shoulders, PMR is probably your best starting point.
+The whole process takes 15 to 20 minutes. Research published in *BMC [Psychiatry](/psychiatry)* found that PMR reduced anxiety scores by an average of 32% in clinical settings. It's particularly effective for people who carry stress physically — if you catch yourself clenching your jaw or hunching your shoulders, PMR is probably your best starting point.
 
 ## Meditation and Mindfulness
 
-Meditation has gone from fringe to mainstream faster than almost any wellness practice. And unlike a lot of wellness trends, it has genuinely strong research behind it.
+Meditation has gone from fringe to mainstream faster than almost any [wellness](/wellness) practice. And unlike a lot of wellness trends, it has genuinely strong research behind it.
 
 ### Mindfulness Meditation
 
@@ -119,13 +119,13 @@ Your brain doesn't fully distinguish between vividly imagined experiences and re
 
 Guided imagery involves mentally transporting yourself to a calming place — a beach, a forest, a mountaintop — and engaging all five senses. What do you see? What sounds do you hear? What's the temperature? What do you smell? The more vivid the imagery, the stronger the physiological response.
 
-Research from the Cleveland Clinic shows that guided imagery can reduce pre-surgical anxiety by up to 60%. It's widely used in sports psychology too — athletes visualize successful performances to reduce competition anxiety and improve outcomes.
+Research from the Cleveland Clinic shows that guided imagery can reduce pre-surgical anxiety by up to 60%. It's widely used in [sports psychology](/sports-psychology) too — athletes visualize successful performances to reduce competition anxiety and improve outcomes.
 
-## Yoga and Tai Chi
+## Yoga and [Tai Chi](/tai-chi)
 
 Both yoga and tai chi combine physical movement with breath control and mental focus, making them "moving meditations" that deliver relaxation benefits alongside flexibility and strength.
 
-**Yoga** — specifically slower styles like Hatha, Yin, or Restorative yoga — has been shown to reduce cortisol levels, lower blood pressure, and decrease symptoms of anxiety and depression. A 2020 review in the *Journal of Clinical Psychology* found yoga effective for reducing stress across 42 studies involving over 3,000 participants.
+**Yoga** — specifically slower styles like Hatha, Yin, or Restorative yoga — has been shown to reduce cortisol levels, lower blood pressure, and decrease symptoms of anxiety and depression. A 2020 review in the *Journal of [Clinical Psychology](/clinical-psychology)* found yoga effective for reducing stress across 42 studies involving over 3,000 participants.
 
 **Tai chi** — the slow, flowing martial art from China — produces similar results. A Harvard Medical School review called tai chi "meditation in motion" and cited evidence for improvements in balance, sleep quality, and stress reduction, particularly in older adults.
 
@@ -147,7 +147,7 @@ Knowing about relaxation techniques and actually doing them regularly are very d
 
 One important caveat: relaxation techniques are tools, not cures. If you're dealing with a clinical anxiety disorder, PTSD, severe depression, or panic attacks, these techniques can help — but they probably shouldn't be your only intervention.
 
-Roughly 20% of people with anxiety disorders actually experience increased anxiety during relaxation exercises, a phenomenon called relaxation-induced anxiety. If focusing on your body or breathing makes you feel worse, not better, that's worth discussing with a mental health professional.
+Roughly 20% of people with anxiety disorders actually experience increased anxiety during relaxation exercises, a phenomenon called relaxation-induced anxiety. If focusing on your body or breathing makes you feel worse, not better, that's worth discussing with a [mental health](/mental-health) professional.
 
 Cognitive behavioral therapy (CBT) remains the gold standard for anxiety disorders, and sometimes medication is genuinely necessary. Think of relaxation techniques as one tool in a larger toolkit — a powerful one, but not always sufficient on its own.
 

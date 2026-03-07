@@ -5,7 +5,7 @@ description: "Wine tasting is the sensory evaluation of wine's appearance, aroma
 category: lifestyle
 tags: ["wine tasting", "wine", "sommelier", "beverages", "food and drink", "sensory evaluation"]
 heroImage: "/images/articles/wine-tasting.webp"
-heroAlt: "Person swirling red wine in a glass at a wine tasting event with bottles in background"
+heroAlt: "Editorial photograph representing the concept of wine tasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ Swirl the glass to release volatile compounds, then put your nose in — not tim
 
 **Primary aromas** come from the grape — fruit, floral, and herbal notes. A Sauvignon Blanc might show grapefruit, cut grass, and gooseberry. A Cabernet Sauvignon might show blackcurrant, black cherry, and green pepper.
 
-**Secondary aromas** come from fermentation and winemaking. Butter (malolactic fermentation), bread dough (yeast contact), vanilla and toast (oak aging).
+**Secondary aromas** come from [fermentation](/fermentation) and winemaking. Butter (malolactic fermentation), bread dough (yeast contact), vanilla and toast (oak aging).
 
 **Tertiary aromas** develop with bottle aging. Leather, tobacco, dried fruit, mushroom, and earthy notes emerge as wines mature. These are why people cellar wine — time creates complexity that youth can't replicate.
 
@@ -91,6 +91,6 @@ After swallowing (or spitting, which is standard practice at professional tastin
 
 The best way to improve at wine tasting is boringly practical: taste more wine, more attentively. Keep notes (even casual ones on your phone). Compare wines side by side whenever possible. Taste with other people and discuss what you're experiencing — hearing someone else say "I get pencil shavings" might help you identify a note you were struggling to name.
 
-Formal education exists — the WSET (Wine & Spirit Education Trust) and Court of Master Sommeliers offer structured programs from beginner to expert levels. But the real classroom is the glass in front of you.
+Formal [education](/education) exists — the WSET (Wine & Spirit Education Trust) and Court of Master Sommeliers offer structured programs from beginner to expert levels. But the real classroom is the glass in front of you.
 
 Wine tasting isn't about impressing people with obscure vocabulary. It's about paying closer attention to what you're drinking and understanding why you enjoy what you enjoy. Everything else is refinement.

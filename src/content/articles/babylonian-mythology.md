@@ -5,7 +5,7 @@ description: "Babylonian mythology is the collection of myths, gods, and creatio
 category: history
 tags: ["babylonian mythology", "ancient mesopotamia", "epic of gilgamesh", "ancient religions"]
 heroImage: "/images/articles/babylonian-mythology.webp"
-heroAlt: "Ancient Mesopotamian relief carving showing winged figures and cuneiform script"
+heroAlt: "Editorial photograph representing the concept of babylonian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,9 +39,9 @@ These aren't just ancient stories. The Epic of Gilgamesh — the oldest survivin
 
 ## Mesopotamia: Where Mythology Was Written Down
 
-To understand Babylonian mythology, you need to understand where it came from. Mesopotamia — the land between the Tigris and Euphrates rivers — is often called the cradle of civilization, and for good reason. Writing, urban planning, codified law, mathematics, and organized religion all emerged here.
+To understand Babylonian mythology, you need to understand where it came from. Mesopotamia — the land between the Tigris and Euphrates rivers — is often called the cradle of civilization, and for good reason. Writing, [urban planning](/urban-planning), codified law, [mathematics](/mathematics), and organized religion all emerged here.
 
-The Sumerians came first, building city-states like Ur, Uruk, and Eridu starting around 3500 BCE. They invented cuneiform writing — pressing wedge-shaped marks into wet clay tablets — initially for accounting but soon for recording everything from legal contracts to hymns to myths. This is why we actually have Mesopotamian mythology: they wrote it down on material that happened to survive for millennia.
+The Sumerians came first, building city-states like Ur, Uruk, and Eridu starting around 3500 BCE. They invented cuneiform writing — pressing wedge-shaped marks into wet clay tablets — initially for [accounting](/accounting) but soon for recording everything from legal contracts to hymns to myths. This is why we actually have Mesopotamian mythology: they wrote it down on material that happened to survive for millennia.
 
 The Babylonians inherited Sumerian culture after Babylon rose to prominence under Hammurabi around 1792 BCE. They adopted Sumerian gods, stories, and religious practices but adapted them — most importantly by elevating their city god, Marduk, to the head of the entire pantheon. Babylonian mythology is essentially Sumerian mythology remixed, expanded, and politically reframed for a new empire.
 
@@ -103,7 +103,7 @@ Gilgamesh returns to Uruk empty-handed. But something has changed. He looks at t
 
 The Epic of Gilgamesh addresses mortality, friendship, the limits of power, and the search for meaning in a world where death is inevitable. These themes resonate because they haven't changed in 4,000 years. You still can't escape death. You still lose people you love. You still have to figure out what makes life worth living anyway.
 
-The parallels with later biblical and Greek literature are striking. The flood narrative predates Genesis by at least a millennium. Gilgamesh's journey to the underworld echoes Odysseus's in Homer. The snake stealing the plant of eternal life mirrors the serpent in Eden. These aren't coincidences — they reflect shared storytelling traditions across the ancient Near East.
+The parallels with later biblical and Greek literature are striking. The flood narrative predates Genesis by at least a millennium. Gilgamesh's journey to the underworld echoes Odysseus's in Homer. The snake stealing the plant of eternal life mirrors the serpent in Eden. These aren't coincidences — they reflect shared [storytelling](/storytelling) traditions across the ancient Near East.
 
 ## The Descent of Ishtar
 
@@ -111,7 +111,7 @@ Another major myth describes Ishtar's journey to the underworld to confront her 
 
 When she arrives, Ereshkigal kills her and hangs her corpse on a hook. With Ishtar dead, love and reproduction cease in the world above. Eventually, Ea sends a rescue, and Ishtar is revived — but someone must take her place in the underworld. She chooses her lover Dumuzi (Tammuz), who had been enjoying himself instead of mourning her absence.
 
-This myth explores the relationship between life and death, the price of power, and the seasonal cycle of growth and dormancy. Dumuzi's descent and partial return were associated with seasonal agricultural cycles — a pattern that appears in Greek mythology with Persephone and in various other [world religions](/world-religions).
+This myth explores the relationship between life and death, the price of power, and the seasonal cycle of growth and dormancy. Dumuzi's descent and partial return were associated with seasonal agricultural cycles — a pattern that appears in [Greek mythology](/greek-mythology) with Persephone and in various other [world religions](/world-religions).
 
 ## Legacy and Influence
 
@@ -119,6 +119,6 @@ Babylonian mythology influenced virtually every subsequent tradition in the anci
 
 Greek mythology, too, shows Mesopotamian influences. The Titans' war against the Olympians parallels the younger gods' conflict with Tiamat. Greek cosmology's emphasis on primordial chaos echoes the Enuma Elish. These ideas traveled along [trade](/trade) routes and through cultural contact over centuries.
 
-The rediscovery of cuneiform texts in the 19th century — particularly George Smith's 1872 translation of the flood tablet from Gilgamesh — caused a sensation. A flood story older than the Bible, written by a civilization most Europeans had never heard of? It reshaped how scholars understood [biblical studies](/biblical-studies), literary history, and the ancient world.
+The rediscovery of cuneiform texts in the 19th century — particularly George Smith's 1872 [translation](/translation) of the flood tablet from Gilgamesh — caused a sensation. A flood story older than the Bible, written by a civilization most Europeans had never heard of? It reshaped how scholars understood [biblical studies](/biblical-studies), literary history, and the ancient world.
 
 Babylonian mythology reminds you that the questions you ask — where did we come from, why do we suffer, what happens when we die, how should we live — aren't modern questions. They're human questions, and people have been wrestling with them for as long as they've been writing things down. Probably longer.

@@ -5,7 +5,7 @@ description: "Fabric arts encompass textile-based creative practices like weavin
 category: arts-amp-culture
 tags: ["textile art", "fiber art", "crafts", "quilting", "embroidery", "weaving"]
 heroImage: "/images/articles/fabric-arts.webp"
-heroAlt: "Colorful woven textiles and embroidery threads arranged on a work table"
+heroAlt: "Editorial photograph representing the concept of fabric arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,21 +31,21 @@ faq:
 
 # What Is Fabric Arts?
 
-Fabric arts — sometimes called textile arts — cover any creative practice that uses fabric, thread, yarn, or fiber as its primary medium. That includes weaving, quilting, embroidery, knitting, crocheting, dyeing, felting, and dozens of other techniques humans have practiced for thousands of years. It's one of the oldest art forms we have, and frankly, one of the most underappreciated.
+Fabric arts — sometimes called [textile arts](/textile-arts) — cover any creative practice that uses fabric, thread, yarn, or fiber as its primary medium. That includes weaving, [quilting](/quilting), [embroidery](/embroidery), [knitting](/knitting), crocheting, dyeing, felting, and dozens of other techniques humans have practiced for thousands of years. It's one of the oldest art forms we have, and frankly, one of the most underappreciated.
 
 ## A Really Old Tradition
 
 People have been making textiles for at least 27,000 years. The evidence comes from clay impressions found at archaeological sites in the Czech Republic — the fabric itself decomposed long ago, but the patterns it left in wet clay survived. By about 7,000 BCE, communities in what's now Turkey were producing sophisticated woven cloth.
 
-Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and the Silk Road trade network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and intricate patterns — that researchers are still trying to decode the information they encoded.
+Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and [the Silk Road](/silk-road) trade network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and intricate patterns — that researchers are still trying to decode the information they encoded.
 
-The weird part is that despite this deep history, fabric arts were consistently treated as "lesser" compared to painting or sculpture. The reason? Gender. Textile work was primarily associated with women and domestic life, so the art world classified it as "craft" rather than "art." That distinction had nothing to do with skill or creativity and everything to do with who was doing the work.
+The weird part is that despite this deep history, fabric arts were consistently treated as "lesser" compared to [painting](/painting) or [sculpture](/sculpture). The reason? Gender. Textile work was primarily associated with women and domestic life, so the art world classified it as "craft" rather than "art." That distinction had nothing to do with skill or creativity and everything to do with who was doing the work.
 
 ## Major Techniques
 
 **Weaving** is the foundational fabric art. You interlace two sets of threads — the warp (vertical) and the weft (horizontal) — on a loom. The simplest weave is plain weave, where the weft goes over one warp thread, under the next, and so on. But weavers have developed hundreds of patterns: twills, satins, jacquards, and mix weaves that can produce images as detailed as paintings.
 
-**Embroidery** means decorating existing fabric with needle and thread. It ranges from simple cross-stitch to elaborate goldwork. The Bayeux Mix — which is actually an embroidery, not a mix — tells the story of the Norman Conquest of England in 1066 across 230 feet of linen. It took roughly a decade to complete.
+**Embroidery** means [decorating](/decorating) existing fabric with needle and thread. It ranges from simple [cross-stitch](/cross-stitch) to elaborate goldwork. The Bayeux Mix — which is actually an embroidery, not a mix — tells the story of the Norman Conquest of England in 1066 across 230 feet of linen. It took roughly a decade to complete.
 
 **Quilting** joins layers of fabric together, usually with a decorative top layer, a middle layer of batting for warmth, and a backing. American quilting traditions are particularly rich — from Amish geometric designs to African American story quilts. Quilts have served as everything from bed covers to political statements to (according to disputed but interesting claims) encoded maps on the Underground Railroad.
 
@@ -63,7 +63,7 @@ The Arpilleras — fabric collages made by Chilean women during Pinochet's dicta
 
 ## Modern Fiber Art
 
-Starting in the 1960s, artists began pushing fabric arts into gallery spaces. Anni Albers, a Bauhaus-trained weaver, was the first textile artist to have a solo show at the Museum of Modern Art (1949). Sheila Hicks created massive three-dimensional fiber installations. Faith Ringgold painted narratives on quilted canvases.
+Starting in the 1960s, artists began pushing fabric arts into gallery spaces. Anni Albers, a Bauhaus-trained weaver, was the first textile artist to have a solo show at the Museum of [Modern Art](/modern-art) (1949). Sheila Hicks created massive three-dimensional fiber installations. Faith Ringgold painted narratives on quilted canvases.
 
 Today, fiber art is booming. Artists like Nick Cave (the artist, not the musician) create elaborate "Soundsuits" from found fabrics. El Anatsui makes enormous shimmering tapestries from recycled bottle caps and copper wire. Yarn bombing — covering public objects in knitted or crocheted fabric — has become a recognized form of street art.
 

@@ -5,7 +5,7 @@ description: "Social justice is the fair distribution of wealth, opportunities, 
 category: philosophy
 tags: ["social justice", "ethics", "equality", "human rights", "political philosophy", "sociology"]
 heroImage: "/images/articles/social-justice.webp"
-heroAlt: "Diverse group of people marching together holding signs for equal rights"
+heroAlt: "Editorial photograph representing the concept of social justice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ Every major world religion contains principles that connect to social justice, t
 
 In Judaism, the concept of *tzedakah* (often translated as charity, but more accurately meaning righteousness or justice) creates obligations to the poor that aren't optional — they're duties. The Hebrew Bible repeatedly commands fair treatment of widows, orphans, and strangers.
 
-Christianity inherited these ideas and added its own emphasis on the inherent worth of every person as created in God's image. The early Church practiced communal sharing of resources (described in Acts 2:44-45), and Catholic social teaching — beginning formally with Pope Leo XIII's 1891 encyclical *Rerum Novarum* — explicitly addresses workers' rights, just wages, and the obligations of wealth.
+[Christianity](/christianity) inherited these ideas and added its own emphasis on the inherent worth of every person as created in God's image. The early Church practiced communal sharing of resources (described in Acts 2:44-45), and Catholic social teaching — beginning formally with Pope Leo XIII's 1891 encyclical *Rerum Novarum* — explicitly addresses workers' rights, just wages, and the obligations of wealth.
 
 Islam's zakat (one of the Five Pillars) mandates giving 2.5% of one's wealth to the poor annually. [Buddhism](/buddhism) emphasizes compassion and the interconnectedness of all beings. [Hinduism](/hinduism) promotes *dharma* — righteous conduct — though the caste system created deeply entrenched inequalities that social justice advocates within Hinduism have spent centuries challenging.
 
@@ -119,13 +119,13 @@ The campaign to end slavery — spanning the late 18th to late 19th centuries ac
 
 ### Labor Rights
 
-The [labor movement](/capitalism) of the 19th and early 20th centuries fought for the eight-hour workday, workplace safety, child labor laws, and the right to organize unions. Before these movements, 12- to 16-hour workdays were standard, children as young as five worked in factories and mines, and workplace deaths were treated as an ordinary cost of doing business.
+The [labor movement](/capitalism) of the 19th and early 20th centuries fought for the eight-hour workday, [workplace safety](/workplace-safety), child labor laws, and the right to organize unions. Before these movements, 12- to 16-hour workdays were standard, children as young as five worked in factories and mines, and workplace deaths were treated as an ordinary cost of doing business.
 
 The Triangle Shirtwaist Factory fire in New York City in 1911 — which killed 146 garment workers, mostly young immigrant women, because the exits were locked — became a catalyst for labor reform and fire safety regulation. Sometimes progress requires tragedy that makes injustice impossible to ignore.
 
 ### Civil Rights
 
-The American civil rights movement of the 1950s and 1960s — led by figures including Martin Luther King Jr., Rosa Parks, John Lewis, and many thousands of less-famous activists — attacked legal segregation and voter suppression in the American South. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 dismantled the legal architecture of Jim Crow, though the fight against systemic racism continues.
+The American civil rights movement of the 1950s and 1960s — led by figures including Martin Luther King Jr., Rosa Parks, John Lewis, and many thousands of less-famous activists — attacked legal segregation and voter suppression in the American South. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 dismantled the legal [architecture](/architecture) of Jim Crow, though the fight against systemic racism continues.
 
 Similar movements unfolded worldwide: anti-apartheid activism in South Africa, the Dalit rights movement in India, Indigenous rights movements in Australia, Canada, and Latin America.
 

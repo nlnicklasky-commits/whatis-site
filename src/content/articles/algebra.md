@@ -5,7 +5,7 @@ description: "Algebra explained clearly: variables, equations, functions, and wh
 category: science
 tags: ["algebra", "mathematics", "math", "equations", "variables", "functions", "problem-solving"]
 heroImage: "/images/articles/algebra-hero.webp"
-heroAlt: "Mathematical equations and variables written on a chalkboard representing algebraic concepts"
+heroAlt: "Editorial photograph representing the concept of algebra"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ Arithmetic asks, "What's 7 plus 5?" Algebra asks, "What number, when you add 5 t
 
 And that shift changes everything. Suddenly you can answer questions you've never seen before. You can describe relationships that work for any number, not just the specific ones in front of you. You can build models of how things actually work in the real world.
 
-A 2013 study from the National Center for Education Statistics found that students who complete Algebra II in high school are more than twice as likely to earn a four-year college degree. That's not because quadratic equations come up in English Literature classes. It's because algebra trains a particular kind of abstract reasoning that transfers to almost every field.
+A 2013 study from the National Center for Education Statistics found that students who complete Algebra II in high school are more than twice as likely to earn a four-year college degree. That's not because quadratic equations come up in [English Literature](/english-literature) classes. It's because algebra trains a particular kind of abstract reasoning that transfers to almost every field.
 
 ## Variables: Letters That Changed Everything
 
@@ -150,7 +150,7 @@ Take x-squared + 5x + 6. Factoring this means finding two binomials that multipl
 
 Factoring matters because it's how you solve equations. If (x + 2)(x + 3) = 0, then either x + 2 = 0 or x + 3 = 0, giving you x = -2 or x = -3. This zero-product property — if the product of two things is zero, at least one of them must be zero — is one of algebra's most useful ideas.
 
-Frankly, factoring is also where many students hit a wall. It feels like guessing. But it's really pattern recognition, and like any pattern recognition skill, it improves with practice. Some common patterns to watch for:
+Frankly, factoring is also where many students hit a wall. It feels like guessing. But it's really [pattern recognition](/pattern-recognition), and like any pattern recognition skill, it improves with practice. Some common patterns to watch for:
 
 - **Greatest common factor**: 6x + 9 = 3(2x + 3)
 - **Difference of squares**: x-squared - 25 = (x + 5)(x - 5)
@@ -208,7 +208,7 @@ The ability to reason with unknowns — to manipulate things you can't see and d
 
 ### It's the Gateway to Every STEM Field
 
-Here's what most people miss: algebra isn't the hardest math you'll encounter. It's the easiest of the hard math. Calculus, statistics, linear algebra, differential equations, discrete mathematics — every advanced mathematical topic assumes you're fluent in algebra the way a novelist assumes you're fluent in grammar.
+Here's what most people miss: algebra isn't the hardest math you'll encounter. It's the easiest of the hard math. Calculus, statistics, linear algebra, [differential equations](/differential-equations), discrete mathematics — every advanced mathematical topic assumes you're fluent in algebra the way a novelist assumes you're fluent in grammar.
 
 If you want to study physics, you need algebra. Engineering? Algebra. Computer science? Algebra. Economics? Algebra. Medicine requires statistics, which requires — you guessed it — algebra. The Bureau of Labor Statistics reports that STEM occupations had a median annual wage of $100,900 in 2022, compared to $40,120 for non-STEM. Algebra is the first gate.
 
@@ -256,15 +256,15 @@ Algebra doesn't exist in isolation. It connects to and supports practically ever
 
 **Statistics** uses algebraic formulas for everything from mean calculations to regression analysis to hypothesis testing. The regression equation that predicts one variable from another is literally a line of best fit — a linear algebraic expression.
 
-**Physics** expresses its laws algebraically. F = ma. E = mc-squared. V = IR. These aren't just formulas — they're algebraic relationships that tell you how physical quantities depend on each other. [Aerodynamics](/aerodynamics), thermodynamics, quantum mechanics — all expressed in the language of algebra.
+**Physics** expresses its laws algebraically. F = ma. E = mc-squared. V = IR. These aren't just formulas — they're algebraic relationships that tell you how physical quantities depend on each other. [Aerodynamics](/aerodynamics), thermodynamics, [quantum mechanics](/quantum-mechanics) — all expressed in the language of algebra.
 
 ## Where Algebra Goes Next
 
 If elementary algebra is the ground floor, the building goes much higher.
 
-**Linear algebra** studies vectors, matrices, and linear transformations. It's the backbone of computer graphics, quantum mechanics, and data science. Every time you rotate an object in a 3D video game, that's a matrix multiplication.
+**Linear algebra** studies vectors, matrices, and linear transformations. It's the backbone of [computer graphics](/computer-graphics), quantum mechanics, and data science. Every time you rotate an object in a 3D video game, that's a matrix multiplication.
 
-**[Abstract algebra](/abstract-algebra)** examines algebraic structures at their most general — groups, rings, and fields. It asks, "What are the fundamental rules that make algebra work, and what happens when you change those rules?" This leads to deep results in cryptography, coding theory, and theoretical physics.
+**[Abstract algebra](/abstract-algebra)** examines algebraic structures at their most general — groups, rings, and fields. It asks, "What are the fundamental rules that make algebra work, and what happens when you change those rules?" This leads to deep results in cryptography, coding theory, and [theoretical physics](/theoretical-physics).
 
 **Algebraic geometry** merges algebra with geometry in sophisticated ways, studying geometric objects defined by polynomial equations. It's one of the most active areas of modern mathematical research.
 

@@ -5,7 +5,7 @@ description: "Psycholinguistics examines how your brain processes language, from
 category: science
 tags: ["psycholinguistics", "psychology", "linguistics", "language acquisition", "language comprehension", "speech production"]
 heroImage: "/images/articles/psycholinguistics-hero.webp"
-heroAlt: "Brain illustration with language and speech processing pathways highlighted"
+heroAlt: "Editorial photograph representing the concept of psycholinguistics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ The roots run deep, but the field as we know it crystallized in the 1950s and 19
 
 Then Noam Chomsky published his devastating 1959 review of Skinner's book, arguing that behaviorism couldn't explain several basic facts about language. Children produce sentences they've never heard before. They make errors that adults never make (saying "goed" instead of "went"), suggesting they're applying rules rather than imitating. And they learn language with remarkable speed despite hearing incomplete, error-filled input.
 
-Chomsky proposed that humans have an innate "language acquisition device"—a biological endowment specifically for language. This idea, whether you fully accept it or not, blew the doors open. Suddenly researchers had testable hypotheses about what mental structures support language, and the experiments started flowing.
+Chomsky proposed that humans have an innate "[language acquisition](/language-acquisition) device"—a biological endowment specifically for language. This idea, whether you fully accept it or not, blew the doors open. Suddenly researchers had testable hypotheses about what mental structures support language, and the experiments started flowing.
 
 George Miller's work on memory and language processing in the 1950s-60s was equally foundational. His famous "magical number seven, plus or minus two" paper (1956) showed that human working memory has severe limits, which constrain how we process sentences in real time. Roger Brown's studies of child language development in the 1960s-70s provided the first detailed longitudinal data on how children actually acquire grammar.
 
@@ -122,7 +122,7 @@ The speed of child language acquisition is staggering. By age 1, infants recogni
 
 Chomsky's famous argument: the language input children receive is insufficient to explain what they learn. Adults produce false starts, interruptions, and ungrammatical utterances. Children hear only a fraction of possible sentences. Yet they extract the underlying rules and generalize correctly to sentences they've never encountered. This suggests, Chomsky argued, that children bring innate linguistic knowledge to the task—a Universal Grammar that constrains what human languages can look like.
 
-The counter-argument, from usage-based approaches, is that the input is richer than Chomsky suggested and that children have powerful general learning mechanisms (statistical learning, pattern recognition, analogy) that don't require language-specific innate knowledge. This debate remains active and contentious.
+The counter-argument, from usage-based approaches, is that the input is richer than Chomsky suggested and that children have powerful general learning mechanisms (statistical learning, [pattern recognition](/pattern-recognition), analogy) that don't require language-specific innate knowledge. This debate remains active and contentious.
 
 ### Statistical Learning
 
@@ -158,7 +158,7 @@ The brain needs a control mechanism to manage this. Current models suggest the p
 
 ## Computational Psycholinguistics
 
-The rise of [natural language processing](/natural-language-processing) and large language models has created new connections between psycholinguistics and computer science. Researchers now use computational models not just as engineering tools but as theories of human cognition.
+The rise of [natural language processing](/natural-language-processing) and large language models has created new connections between psycholinguistics and [computer science](/computer-science). Researchers now use computational models not just as engineering tools but as theories of human cognition.
 
 ### Surprisal Theory
 

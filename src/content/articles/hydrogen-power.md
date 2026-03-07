@@ -5,7 +5,7 @@ description: "Hydrogen power uses hydrogen gas as a clean fuel for electricity a
 category: everyday-concepts
 tags: ["hydrogen power", "fuel cells", "clean energy", "renewable energy", "green hydrogen"]
 heroImage: "/images/articles/hydrogen-power.webp"
-heroAlt: "Hydrogen fuel cell vehicle at a refueling station with visible H2 branding"
+heroAlt: "Editorial photograph representing the concept of hydrogen power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Hydrogen Power?
 
-Hydrogen power refers to using hydrogen gas (H2) as a fuel to generate electricity, heat, or mechanical energy — most commonly through fuel cells that combine hydrogen with oxygen to produce electricity, water, and nothing else. The appeal is obvious: hydrogen is the most abundant element in the universe, and burning or reacting it produces zero carbon emissions at the point of use. The catch is that producing, storing, and distributing hydrogen is expensive, energy-intensive, and not yet scaled to compete with alternatives.
+Hydrogen power refers to using hydrogen gas (H2) as a fuel to generate [electricity](/electricity), heat, or mechanical energy — most commonly through fuel cells that combine hydrogen with oxygen to produce electricity, water, and nothing else. The appeal is obvious: hydrogen is the most abundant element in the universe, and burning or reacting it produces zero carbon emissions at the point of use. The catch is that producing, storing, and distributing hydrogen is expensive, energy-intensive, and not yet scaled to compete with alternatives.
 
 ## How Fuel Cells Work
 
@@ -55,7 +55,7 @@ Not all hydrogen is created equal. The industry uses a color-coding system based
 
 **Green hydrogen** — produced by electrolysis, which uses electricity to split water into hydrogen and oxygen. If the electricity comes from renewable sources (solar, wind, hydro), the process is entirely emissions-free. This is the holy grail but currently costs $4 to $8 per kg — two to four times more than gray hydrogen.
 
-**Pink/purple hydrogen** — same electrolysis process, but using nuclear power. Zero-emission but dependent on nuclear energy infrastructure.
+**Pink/purple hydrogen** — same electrolysis process, but using [nuclear power](/nuclear-power). Zero-emission but dependent on nuclear energy infrastructure.
 
 The entire business case for hydrogen as a climate solution depends on making green hydrogen cheap enough to compete. The U.S. Inflation Reduction Act of 2022 offers production tax credits of up to $3 per kg for green hydrogen, which could close most of the cost gap.
 
@@ -65,11 +65,11 @@ Hydrogen will probably not replace batteries in passenger cars — electric vehi
 
 **Heavy transport.** Long-haul trucks, trains, and ships need energy density that current batteries cannot efficiently provide. A hydrogen truck can refuel in 15 minutes and carry a full load 500+ miles — similar to diesel performance. Battery trucks either carry less cargo (heavy batteries eat into payload) or need long charging stops.
 
-**Industrial processes.** Steel production, chemical manufacturing, and oil refining currently use massive amounts of hydrogen (mostly gray). Switching to green hydrogen could eliminate roughly 830 million tons of CO2 annually — about 2% of global emissions.
+**Industrial processes.** [Steel production](/steel-production), chemical manufacturing, and oil refining currently use massive amounts of hydrogen (mostly gray). Switching to green hydrogen could eliminate roughly 830 million tons of CO2 annually — about 2% of global emissions.
 
-**Energy storage.** Renewable energy is intermittent — solar produces nothing at night, wind varies. Excess renewable electricity can be used to produce hydrogen, which is stored and later converted back to electricity through fuel cells when needed. This is less efficient than battery storage for short durations but potentially better for seasonal storage (storing summer solar energy for winter use).
+**Energy storage.** [Renewable energy](/renewable-energy) is intermittent — solar produces nothing at night, wind varies. Excess renewable electricity can be used to produce hydrogen, which is stored and later converted back to electricity through fuel cells when needed. This is less efficient than battery storage for short durations but potentially better for seasonal storage (storing summer solar energy for winter use).
 
-**Aviation.** Airbus is developing hydrogen-powered aircraft concepts targeting entry into service by 2035. Hydrogen's high energy-per-kilogram ratio (about three times that of jet fuel) makes it attractive for aviation, though its low energy-per-volume requires larger fuel tanks.
+**[Aviation](/aviation).** Airbus is developing hydrogen-powered aircraft concepts targeting entry into service by 2035. Hydrogen's high energy-per-kilogram ratio (about three times that of jet fuel) makes it attractive for aviation, though its low energy-per-volume requires larger fuel tanks.
 
 ## The Infrastructure Problem
 
@@ -90,4 +90,4 @@ Hydrogen is not going to be the single solution to energy transition. It will pr
 
 The key question is cost. If green hydrogen reaches $1 to $2 per kg — which industry projections suggest is possible by 2030 to 2035 with scale and continued cost declines in renewable electricity — it becomes competitive for heavy transport, industrial use, and long-duration storage. At current prices, it remains too expensive for most applications.
 
-The technology works. The physics works. The economics are getting closer. Whether hydrogen fulfills its decades-old promise depends on execution — building the infrastructure, scaling production, and driving costs down fast enough to matter for climate goals.
+The technology works. The [physics](/physics) works. The [economics](/economics) are getting closer. Whether hydrogen fulfills its decades-old promise depends on execution — building the infrastructure, scaling production, and driving costs down fast enough to matter for climate goals.

@@ -5,7 +5,7 @@ description: "Stenography is the practice of writing in shorthand to capture spe
 category: everyday-concepts
 tags: ["stenography", "shorthand", "court reporting", "transcription", "writing", "steno machine"]
 heroImage: "/images/articles/stenography.webp"
-heroAlt: "A stenotype machine used for court reporting on a wooden desk"
+heroAlt: "Editorial photograph representing the concept of stenography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Stenography?
 
-Stenography is the art and practice of writing in shorthand — a system that lets you capture spoken language at speeds that would be impossible with normal writing or typing. The word comes from the Greek *stenos* (narrow) and *graphein* (to write), which is fitting: you're condensing language into its narrowest possible written form.
+Stenography is the art and practice of [writing](/writing) in [shorthand](/shorthand) — a system that lets you capture spoken language at speeds that would be impossible with normal writing or typing. The word comes from the Greek *stenos* (narrow) and *graphein* (to write), which is fitting: you're condensing language into its narrowest possible written form.
 
-If you've ever watched a courtroom drama and noticed someone sitting quietly at a small machine, fingers flying, that's a stenographer. They're capturing every word spoken — often at 200+ words per minute — in real time.
+If you've ever watched a courtroom [drama](/drama) and noticed someone sitting quietly at a small machine, fingers flying, that's a stenographer. They're capturing every word spoken — often at 200+ words per minute — in real time.
 
 ## A Surprisingly Long History
 
@@ -45,7 +45,7 @@ Pitman uses variations in line thickness and position to represent different sou
 
 ## The Steno Machine Changed Everything
 
-In 1913, Ward Stone Ireland invented the stenotype machine — and that's when things really accelerated. Instead of writing by hand, stenographers press combinations of keys simultaneously, similar to playing chords on a piano.
+In 1913, Ward Stone Ireland invented the stenotype machine — and that's when things really accelerated. Instead of writing by hand, stenographers press combinations of keys simultaneously, similar to playing chords on a [piano](/piano).
 
 Here's the clever part: the stenotype keyboard has only 22 keys, and you press multiple keys at once to represent syllables rather than individual letters. One chord might represent an entire word or phrase. The machine prints these key combinations on a narrow paper tape — or, in modern versions, sends them directly to a computer that translates them into English in real time.
 
@@ -59,7 +59,7 @@ The most visible application. Court reporters create verbatim records of legal p
 
 ### Live Captioning
 
-Those real-time captions you see on live TV news broadcasts? Many are produced by stenographers, not software. A trained captioner watches the broadcast and stenotypes the audio in real time, with the output appearing on screen within seconds. Live sports, breaking news, and government proceedings all rely on this.
+Those real-time captions you see on live TV news broadcasts? Many are produced by stenographers, not software. A trained captioner watches the broadcast and stenotypes the audio in real time, with the output appearing on screen within seconds. Live sports, breaking news, and [government](/government) proceedings all rely on this.
 
 ### CART Services
 
@@ -69,7 +69,7 @@ Communication Access Realtime [Translation](/translation) provides real-time tex
 
 The obvious question: why not just use AI? Speech recognition has improved dramatically, but it still struggles with accents, background noise, multiple speakers talking over each other, and technical terminology. In a courtroom where a witness is crying, a lawyer is objecting, and the judge is ruling — all simultaneously — human stenographers maintain accuracy that software can't match.
 
-That said, the profession is shrinking. The Bureau of Labor Statistics reports roughly 28,000 court reporters in the U.S., and many jurisdictions face shortages as experienced reporters retire faster than new ones are trained. Some courts have begun experimenting with digital recording as a supplement or replacement.
+That said, the profession is shrinking. The Bureau of Labor [Statistics](/statistics) reports roughly 28,000 court reporters in the U.S., and many jurisdictions face shortages as experienced reporters retire faster than new ones are trained. Some courts have begun experimenting with digital recording as a supplement or replacement.
 
 ## The Skill Factor
 

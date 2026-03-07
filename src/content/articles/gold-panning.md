@@ -5,7 +5,7 @@ description: "Gold panning uses water and gravity to separate gold from sediment
 category: everyday-concepts
 tags: ["gold panning", "gold", "prospecting", "mining", "outdoor recreation", "geology"]
 heroImage: "/images/articles/gold-panning.webp"
-heroAlt: "Hands holding a gold pan with water and sediment in a mountain stream"
+heroAlt: "Editorial photograph representing the concept of gold panning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,7 +61,7 @@ The whole process takes 5-15 minutes per pan. Beginners lose gold by working too
 
 The western United States offers the most opportunities. California, Colorado, Oregon, Washington, Idaho, Montana, Arizona, and Alaska all have gold-bearing streams on public land. In the East, Georgia (site of America's first gold rush in 1828), North Carolina, Virginia, and parts of New England produce gold.
 
-**Public land** managed by the Bureau of Land Management (BLM) and U.S. Forest Service generally allows recreational gold panning with hand tools. No permit needed in most cases, though some areas have specific restrictions.
+**Public land** managed by the Bureau of Land [Management](/management) (BLM) and U.S. Forest Service generally allows recreational gold panning with hand tools. No permit needed in most cases, though some areas have specific restrictions.
 
 **Mining claims** complicate things. Much of the gold-bearing land in the West has active mining claims — someone holds the mineral rights even if the land is publicly accessible. Panning on an active claim without permission is trespassing (on the mineral rights, not the surface). Check with the local BLM office or use online claim maps before heading out.
 
@@ -71,7 +71,7 @@ The western United States offers the most opportunities. California, Colorado, O
 
 Serious recreational prospectors graduate to additional equipment.
 
-A **sluice box** is essentially a long, narrow channel with riffles on the bottom. You place it in running water, shovel material into the top, and water carries it through. Gold gets trapped behind the riffles. A sluice processes material 10-20 times faster than panning alone.
+A **sluice box** is essentially a long, narrow channel with riffles on the bottom. You place it in [running](/running) water, shovel material into the top, and water carries it through. Gold gets trapped behind the riffles. A sluice processes material 10-20 times faster than panning alone.
 
 **Crevicing tools** — thin screwdrivers, spoons, and picks — let you dig gold out of cracks in bedrock. Bedrock crevices are natural gold traps, and the material stuck in them can be surprisingly rich. Some of the best finds come from carefully cleaning out crevices that haven't been touched in decades.
 
@@ -79,7 +79,7 @@ A **hand dredge** (suction dredge operated by hand pump) vacuums material from u
 
 ## The History
 
-Humans have panned for gold for at least 5,000 years. Ancient Egyptians, Greeks, and Romans all used variations of the technique. The basic physics hasn't changed — gold is heavy, everything else is lighter, water does the sorting.
+Humans have panned for gold for at least 5,000 years. Ancient Egyptians, Greeks, and Romans all used variations of the technique. The basic [physics](/physics) hasn't changed — gold is heavy, everything else is lighter, water does the sorting.
 
 The California Gold Rush (1848-1855) brought roughly 300,000 people to California after James Marshall found gold at Sutter's Mill. Most of them started with a pan. The ones who got rich usually weren't the miners — they were the people selling supplies. Levi Strauss sold durable pants. Sam Brannan cornered the market on mining equipment. The shopkeepers prospered while most prospectors barely broke even.
 
@@ -87,7 +87,7 @@ The Klondike Gold Rush (1897-1899) sent 100,000 people toward the Yukon — only
 
 ## Modern Gold Panning
 
-Today, recreational gold panning is part hobby, part outdoor recreation, part treasure hunting. The economics rarely justify the time — you might find $10-$50 worth of gold in a full day of panning. But that's not really the point.
+Today, recreational gold panning is part hobby, part outdoor recreation, part treasure [hunting](/hunting). The [economics](/economics) rarely justify the time — you might find $10-$50 worth of gold in a full day of panning. But that's not really the point.
 
 The appeal is the combination of being outdoors in beautiful places, the genuine thrill of finding something valuable that the earth produced over millions of years, and the meditative quality of the work itself. There's something satisfying about squatting beside a cold mountain stream, swirling a pan, and watching tiny flakes of gold appear against the black sand.
 

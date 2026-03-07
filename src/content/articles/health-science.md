@@ -5,7 +5,7 @@ description: "Health science studies how the human body works, how diseases deve
 category: science
 tags: ["health science", "health", "medicine", "public health", "biology", "disease", "wellness"]
 heroImage: "/images/articles/health-science-hero.webp"
-heroAlt: "Laboratory setting with microscope, test tubes, and anatomical models representing health science disciplines"
+heroAlt: "Editorial photograph representing the concept of health science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ Modern anatomy has come a long way from cadaver dissection (though that's still 
 
 Physiology gets stranger the deeper you go. Your heart beats about 100,000 times per day without conscious input. Your digestive system contains more nerve cells than your spinal cord. Your body replaces approximately 3.8 million cells every second. These aren't just fun facts—understanding these mechanisms is how health scientists identify what goes wrong in disease.
 
-### Cell Biology and Molecular Biology
+### Cell Biology and [Molecular Biology](/molecular-biology)
 
 Zoom in past organs and tissues, and you reach [cell biology](/cell-biology)—where health and disease ultimately originate. Every disease, from cancer to diabetes to Alzheimer's, can be traced to disruptions in cellular processes.
 
@@ -95,7 +95,7 @@ A landmark study published in the New England Journal of Medicine found that eac
 
 ### Rehabilitation Sciences
 
-Physical therapy, occupational therapy, and speech-language pathology focus on restoring function after injury, surgery, or illness. These fields combine biomechanics, neuroscience, and behavioral science.
+[Physical therapy](/physical-therapy), [occupational therapy](/occupational-therapy), and speech-language pathology focus on restoring function after injury, surgery, or illness. These fields combine biomechanics, neuroscience, and behavioral science.
 
 Physical therapy alone is a $45 billion industry in the U.S. And it works: for many conditions, physical therapy produces outcomes comparable to surgery—at a fraction of the cost and risk. A major study in the New England Journal of Medicine found that physical therapy was as effective as arthroscopic surgery for knee osteoarthritis, sparking a genuine shift in treatment guidelines.
 
@@ -145,7 +145,7 @@ Physical activity is probably the single most effective medicine available. Regu
 
 Exercise science studies the physiology of physical activity: how muscles adapt to training, how cardiovascular fitness develops, how exercise affects metabolism and hormone levels, and what dosages (type, intensity, duration, frequency) produce specific health benefits.
 
-The research has produced clear recommendations. The World Health Organization suggests 150-300 minutes of moderate-intensity aerobic activity per week, plus muscle-strengthening activities twice per week. Only about 28% of American adults meet both recommendations. This gap between what science recommends and what people actually do is itself a subject of health science research—drawing on psychology, behavioral economics, and social science.
+The research has produced clear recommendations. The World Health Organization suggests 150-300 minutes of moderate-intensity aerobic activity per week, plus muscle-strengthening activities twice per week. Only about 28% of American adults meet both recommendations. This gap between what science recommends and what people actually do is itself a subject of health science research—drawing on psychology, [behavioral economics](/behavioral-economics), and social science.
 
 ## Mental Health Science
 

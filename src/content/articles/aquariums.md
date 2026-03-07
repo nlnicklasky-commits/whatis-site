@@ -5,7 +5,7 @@ description: "An aquarium is a transparent container or facility housing aquatic
 category: everyday-concepts
 tags: ["aquarium", "fishkeeping", "aquascape", "marine biology", "fish", "pets"]
 heroImage: "/images/articles/aquariums.webp"
-heroAlt: "Vibrant tropical fish swimming among live plants in a beautifully aquascaped freshwater aquarium"
+heroAlt: "Editorial photograph representing the concept of aquariums"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Most home aquariums are freshwater. They're cheaper to set up, easier to maintai
 
 Community tanks — multiple peaceful species coexisting — are the most popular approach. But specialized setups abound: cichlid tanks replicating African lake environments, planted tanks where the aquascaping rivals any garden, and breeding tanks for enthusiasts who raise specific species.
 
-### Saltwater Aquariums
+### [Saltwater Aquariums](/saltwater-aquariums)
 
 Marine tanks are the deep end of the hobby (pun intended). They require precise salinity control, more powerful filtration, specialized lighting for corals, and livestock that costs considerably more. A single coral frag can run $50 to $500.
 
@@ -57,13 +57,13 @@ Reef aquariums — saltwater tanks focused on growing living corals alongside fi
 
 ## The Science Behind the Glass
 
-Running an aquarium is basically applied [chemistry](/chemistry) and [biology](/biology). You're maintaining a miniature ecosystem where biological processes must stay balanced.
+[Running](/running) an aquarium is basically applied [chemistry](/chemistry) and [biology](/biology). You're maintaining a miniature ecosystem where biological processes must stay balanced.
 
 ### The Nitrogen Cycle
 
 This is the single most important concept in fishkeeping. Fish produce ammonia through their waste and respiration. Ammonia is toxic — even small amounts can kill fish. Fortunately, beneficial bacteria (genus *Nitrosomonas*) colonize your filter media and convert ammonia to nitrite. Then a second group of bacteria (*Nitrospira*) converts nitrite to nitrate, which is far less toxic and removed through regular water changes.
 
-New aquariums don't have these bacterial colonies yet, which is why "cycling" a tank — establishing these bacteria before adding fish — is essential. Skipping this step is the number one reason new fishkeepers lose fish in the first few weeks.
+New aquariums don't have these bacterial colonies yet, which is why "[cycling](/cycling)" a tank — establishing these bacteria before adding fish — is essential. Skipping this step is the number one reason new fishkeepers lose fish in the first few weeks.
 
 ### Water Parameters
 
@@ -79,7 +79,7 @@ Test kits (liquid kits are more accurate than strips) let you monitor these para
 
 ## Aquascaping: The Artistic Side
 
-Aquascaping is the art of arranging rocks, driftwood, substrate, and live plants to create visually stunning underwater scenes. Think of it as field architecture, but submerged.
+Aquascaping is the art of arranging rocks, driftwood, substrate, and live plants to create visually stunning underwater scenes. Think of it as field [architecture](/architecture), but submerged.
 
 The field has distinct styles. The **Nature style**, pioneered by Japanese photographer Takashi Amano, mimics natural landscapes with flowing plant arrangements and carefully placed hardscape. The **Dutch style** emphasizes dense, colorful plant groupings arranged like a garden. **Iwagumi** uses stone as the dominant element, creating minimalist compositions inspired by Japanese rock gardens.
 
@@ -87,7 +87,7 @@ Competitive aquascaping is a real thing — the International Aquatic Plants Lay
 
 ## Public Aquariums
 
-Public aquariums serve as entertainment, education, and [conservation](/conservation-biology) centers. The Georgia Aquarium in Atlanta holds 10 million gallons and houses whale sharks — the world's largest fish. The Monterey Bay Aquarium's research programs have contributed significantly to Pacific Ocean conservation.
+Public aquariums serve as entertainment, [education](/education), and [conservation](/conservation-biology) centers. The Georgia Aquarium in Atlanta holds 10 million gallons and houses whale sharks — the world's largest fish. The Monterey Bay Aquarium's research programs have contributed significantly to Pacific Ocean conservation.
 
 Modern public aquariums increasingly focus on conservation messaging and research rather than pure exhibition. Many participate in species survival programs for endangered marine and freshwater organisms, and some conduct fieldwork in ocean environments around the world.
 

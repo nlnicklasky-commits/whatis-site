@@ -5,7 +5,7 @@ description: "Environmental law is the body of regulations governing how humans 
 category: law
 tags: ["environmental law", "environment", "pollution control", "conservation", "regulations"]
 heroImage: "/images/articles/environmental-law.webp"
-heroAlt: "Scales of justice superimposed on a forest landscape with a river"
+heroAlt: "Editorial photograph representing the concept of environmental law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -69,13 +69,13 @@ NEPA doesn't actually prohibit anything. It's a "look before you leap" law — i
 
 The Clean Air Act authorizes the EPA to set National Ambient Air Quality Standards (NAAQS) for six common pollutants: particulate matter, ground-level ozone, carbon monoxide, sulfur dioxide, nitrogen dioxide, and lead. States must develop implementation plans to meet these standards.
 
-The 1990 amendments added an acid rain program using a cap-and-trade system — the first major [market-based](/economics) environmental regulation. Companies received allowances to emit sulfur dioxide. If they reduced emissions below their allowance, they could sell the surplus. It worked spectacularly well: acid rain-causing emissions dropped by over 90% at a fraction of the projected cost.
+The 1990 amendments added an acid rain program using a cap-and-[trade](/trade) system — the first major [market-based](/economics) environmental regulation. Companies received allowances to emit sulfur dioxide. If they reduced emissions below their allowance, they could sell the surplus. It worked spectacularly well: acid rain-causing emissions dropped by over 90% at a fraction of the projected cost.
 
 ### Clean Water Act (1972)
 
 The Clean Water Act aims to make all US waters "fishable and swimmable." It requires permits for any discharge of pollutants into navigable waters, sets technology-based standards for industrial dischargers, and funds wastewater treatment infrastructure.
 
-The definition of "navigable waters" — which determines the Act's scope — has been fought over for decades. Does it cover wetlands? Seasonal streams? Ditches that sometimes connect to rivers? The Supreme Court has weighed in multiple times, and the debate continues.
+The definition of "navigable waters" — which determines the Act's scope — has been fought over for decades. Does it cover wetlands? Seasonal streams? Ditches that sometimes connect to rivers? The Supreme Court has weighed in multiple times, and the [debate](/debate) continues.
 
 ### Endangered Species Act (1973)
 
@@ -111,7 +111,7 @@ International environmental law has a fundamental weakness: there's no global en
 
 ### Climate Change Litigation
 
-Climate change is reshaping environmental law in real time. Lawsuits against fossil fuel companies, government agencies, and even entire nations are multiplying. In 2021, a Dutch court ordered Shell to reduce its carbon emissions by 45% by 2030 — a landmark ruling that held a private company directly accountable for climate change.
+Climate change is reshaping environmental law in real time. Lawsuits against fossil fuel companies, [government](/government) agencies, and even entire nations are multiplying. In 2021, a Dutch court ordered Shell to reduce its carbon emissions by 45% by 2030 — a landmark ruling that held a private company directly accountable for climate change.
 
 In the US, cities and states have filed suits against oil companies seeking damages for climate change impacts, using legal theories borrowed from tobacco litigation. Whether these suits succeed may define the next generation of environmental law.
 

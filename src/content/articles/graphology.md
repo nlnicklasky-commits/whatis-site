@@ -5,7 +5,7 @@ description: "Graphology claims to analyze personality through handwriting. Lear
 category: everyday-concepts
 tags: ["graphology", "handwriting", "personality", "pseudoscience", "psychology", "analysis"]
 heroImage: "/images/articles/graphology.webp"
-heroAlt: "Handwriting sample being examined with a magnifying glass on a desk"
+heroAlt: "Editorial photograph representing the concept of graphology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Graphology is the claimed analysis of personality, character traits, and psychol
 
 ## What Graphologists Claim
 
-Graphology operates on the premise that handwriting is "brain writing" — that the movements producing handwriting are directed by the brain and therefore reveal psychological characteristics. Specific claims include:
+Graphology operates on the premise that handwriting is "brain [writing](/writing)" — that the movements producing handwriting are directed by the brain and therefore reveal psychological characteristics. Specific claims include:
 
 **Slant** — rightward slant supposedly indicates emotional expressiveness and sociability. Leftward slant suggests emotional withdrawal. Vertical writing indicates self-control and independence.
 
@@ -47,15 +47,15 @@ Graphology operates on the premise that handwriting is "brain writing" — that 
 
 **Letter formations** — the way specific letters are formed supposedly reveals particular traits. Open "o" and "a" shapes indicate honesty. Closed or knotted loops suggest secretiveness. The way "t" is crossed (high, low, long, short) supposedly reveals ambition levels, willpower, and self-esteem.
 
-These interpretations sound intuitive, which is part of graphology's appeal. They also sound a lot like astrology — general enough to fit most people most of the time.
+These interpretations sound intuitive, which is part of graphology's appeal. They also sound a lot like [astrology](/astrology) — general enough to fit most people most of the time.
 
 ## The History
 
-The first known work on handwriting analysis was Camillo Baldi's *Treatise on a Method to Recognize the Nature and Quality of a Writer from His Letters* (1622, Italy). The term "graphology" was coined by Jean-Hippolyte Michon in France in the 1870s. Michon systematized the practice, cataloging specific handwriting features and their supposed personality correlates.
+The first known work on [handwriting analysis](/handwriting-analysis) was Camillo Baldi's *Treatise on a Method to Recognize the Nature and Quality of a Writer from His Letters* (1622, Italy). The term "graphology" was coined by Jean-Hippolyte Michon in France in the 1870s. Michon systematized the practice, cataloging specific handwriting features and their supposed personality correlates.
 
 The field split into two traditions. The **French school** (Michon's approach) assigned fixed meanings to individual handwriting features — each sign meant something specific. The **German school** (developed by Ludwig Klages in the early 1900s) took a more complete approach, arguing that the overall rhythm and pattern of writing mattered more than individual features.
 
-Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, clinical psychology, and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
+Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, [clinical psychology](/clinical-[psychology](/psychology)), and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
 
 ## The Scientific Problem
 

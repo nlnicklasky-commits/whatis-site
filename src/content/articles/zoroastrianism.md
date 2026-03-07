@@ -5,7 +5,7 @@ description: "Zoroastrianism is one of the world's oldest monotheistic religions
 category: philosophy
 tags: ["religion", "ancient religions", "persian culture", "monotheism", "spirituality"]
 heroImage: "/images/articles/zoroastrianism.webp"
-heroAlt: "Zoroastrian fire temple with an eternal flame burning inside a stone altar"
+heroAlt: "Editorial photograph representing the concept of zoroastrianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,7 +47,7 @@ What we do know comes primarily from the Gathas — seventeen hymns attributed d
 
 According to tradition, Zarathustra received his revelation at age 30. He spent years preaching with little success — his own community rejected him. Eventually, he converted a local king named Vishtaspa, which gave the new religion political backing and momentum.
 
-The story has parallels with other prophetic traditions. A lone figure receives divine truth, faces rejection, eventually gains a powerful patron. Whether these parallels reflect shared historical patterns or later storytelling conventions is debated.
+The story has parallels with other prophetic traditions. A lone figure receives divine truth, faces rejection, eventually gains a powerful patron. Whether these parallels reflect shared historical patterns or later [storytelling](/storytelling) conventions is debated.
 
 ### What Made Zarathustra's Message Radical
 
@@ -86,7 +86,7 @@ The ethical core of Zoroastrianism is strikingly simple: **Humata, Hukhta, Huvar
 
 Zoroastrianism teaches that every human has free will and must choose between asha (truth, righteousness) and druj (deceit, chaos). Your choices matter — not just for you, but for the entire cosmic struggle between good and evil. Every good act strengthens Ahura Mazda; every evil act strengthens Angra Mainyu.
 
-This gives individual moral choices cosmic significance. You're not just being a good person for personal benefit or social harmony. You're participating in the fundamental battle of the universe. That's a powerful motivational framework.
+This gives individual moral choices cosmic significance. You're not just being a good person for personal benefit or social [harmony](/harmony). You're participating in the fundamental battle of the universe. That's a powerful motivational framework.
 
 ### Eschatology: The End of the Story
 
@@ -175,7 +175,7 @@ Many core concepts shared by Judaism, Christianity, and Islam appear first (or i
 
 The historian Mary Boyce, one of the leading scholars of Zoroastrianism, argued that "Zoroastrianism is probably the oldest of the revealed world religions, and it has probably had more influence on mankind, directly and indirectly, than any other single faith."
 
-That's a bold claim, but there's genuine evidence behind it. The problem is establishing direct lines of influence versus parallel development. Scholars continue to debate exactly how much Judaism and Christianity borrowed from Zoroastrianism and how much they arrived at similar ideas independently.
+That's a bold claim, but there's genuine evidence behind it. The problem is establishing direct lines of influence versus parallel development. Scholars continue to [debate](/debate) exactly how much Judaism and Christianity borrowed from Zoroastrianism and how much they arrived at similar ideas independently.
 
 ## Modern Zoroastrianism
 

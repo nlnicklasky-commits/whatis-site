@@ -5,7 +5,7 @@ description: "Pet care is the responsible management of a pet's health, nutritio
 category: everyday-concepts
 tags: ["pets", "animal welfare", "veterinary", "grooming", "pet health", "responsible ownership"]
 heroImage: "/images/articles/pet-care.webp"
-heroAlt: "A happy golden retriever being examined by a veterinarian during a routine checkup"
+heroAlt: "Editorial photograph representing the concept of pet care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Pet care is everything involved in keeping a domesticated animal healthy, safe, 
 
 Every pet, regardless of species, needs five fundamental things:
 
-**Proper nutrition.** This means species-appropriate food in the right amounts. Dogs and cats have different dietary requirements — dogs are omnivores; cats are obligate carnivores who need specific nutrients (like taurine) found only in animal tissue. Overfeeding is the most common nutritional problem — over 50% of American dogs and cats are overweight, leading to diabetes, joint problems, and shortened lifespans.
+**Proper [nutrition](/nutrition).** This means species-appropriate food in the right amounts. Dogs and cats have different dietary requirements — dogs are omnivores; cats are obligate carnivores who need specific nutrients (like taurine) found only in animal tissue. Overfeeding is the most common nutritional problem — over 50% of American dogs and cats are overweight, leading to diabetes, joint problems, and shortened lifespans.
 
-**Veterinary care.** Regular wellness exams catch problems early. Core vaccinations (rabies, distemper, parvovirus for dogs; rabies, feline distemper, calicivirus for cats) prevent deadly diseases. Dental care matters more than most owners realize — periodontal disease affects roughly 80% of dogs and 70% of cats by age three. Spaying or neutering prevents unwanted litters and reduces health risks.
+**Veterinary care.** Regular [wellness](/wellness) exams catch problems early. Core vaccinations (rabies, distemper, parvovirus for dogs; rabies, feline distemper, calicivirus for cats) prevent deadly diseases. Dental care matters more than most owners realize — periodontal disease affects roughly 80% of dogs and 70% of cats by age three. Spaying or neutering prevents unwanted litters and reduces health risks.
 
 **Physical exercise.** Dogs need daily exercise — the amount varies by breed, age, and individual energy level. A Border Collie needs significantly more activity than a Bulldog. Lack of exercise leads to obesity, behavioral problems, and boredom-driven destruction. Cats need play and stimulation too — indoor cats are especially prone to under-stimulation.
 
@@ -59,9 +59,9 @@ Cats are more independent but not maintenance-free. They need clean litter boxes
 
 Pet ownership costs more than most people budget for. The ASPCA estimates first-year costs of $1,500-$3,000+ for dogs and $1,000-$2,000+ for cats. Annual ongoing costs run $1,400-$4,300 for dogs and $1,100-$3,500 for cats.
 
-Routine costs are predictable — food, preventive veterinary care, grooming, supplies. The financial shock comes from emergencies. A broken leg can cost $2,000-$5,000 to treat. Cancer treatment runs $5,000-$10,000+. Bloat (gastric torsion) surgery in dogs costs $3,000-$7,500.
+Routine costs are predictable — food, preventive veterinary care, grooming, supplies. The financial shock comes from emergencies. A broken leg can cost $2,000-$5,000 to treat. Cancer treatment runs $5,000-$10,000+. Bloat (gastric torsion) [surgery](/surgery) in dogs costs $3,000-$7,500.
 
-Pet insurance ($30-$60/month for dogs, $15-$40/month for cats) can offset emergency costs, but policies have exclusions, deductibles, and limits. Many financial advisors recommend either insurance or a dedicated savings fund for pet emergencies.
+Pet [insurance](/insurance) ($30-$60/month for dogs, $15-$40/month for cats) can offset emergency costs, but policies have exclusions, deductibles, and limits. Many financial advisors recommend either insurance or a dedicated savings fund for pet emergencies.
 
 ## Common Mistakes
 

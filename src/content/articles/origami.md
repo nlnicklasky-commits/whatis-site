@@ -5,7 +5,7 @@ description: "Origami is the Japanese art of paper folding, creating sculptures 
 category: everyday-concepts
 tags: ["origami", "paper art", "Japanese culture", "folding", "mathematics", "craft"]
 heroImage: "/images/articles/origami.webp"
-heroAlt: "An intricate origami crane made from a single sheet of colorful paper"
+heroAlt: "Editorial photograph representing the concept of origami"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The modern era of origami begins with Akira Yoshizawa (1911-2005), who is widely
 
 Traditional origami follows strict rules: one square sheet, no cuts, no glue. These constraints are what make it interesting — they force extraordinary creativity within tight limits.
 
-**Valley folds** create creases that dip like a valley. **Mountain folds** create ridges. **Squash folds**, **petal folds**, **sinks**, and **crimps** are compound maneuvers that reshape paper in specific ways. Complex models may require hundreds of individual folds in precise sequence.
+**Valley folds** create creases that dip like a valley. **Mountain folds** create ridges. **[Squash](/squash) folds**, **petal folds**, **sinks**, and **crimps** are compound maneuvers that reshape paper in specific ways. Complex models may require hundreds of individual folds in precise sequence.
 
 Some branches of origami relax the traditional rules:
 
@@ -55,17 +55,17 @@ Some branches of origami relax the traditional rules:
 
 **Wet folding** uses dampened paper that can be sculpted into curved, organic shapes. Yoshizawa pioneered this technique, creating animals with a softness and realism that sharp-folded origami can't achieve.
 
-## The Mathematics
+## The [Mathematics](/mathematics)
 
-Here's where origami gets unexpected. Paper folding turns out to be deeply mathematical, and mathematicians have formalized the geometry in ways that have practical implications far beyond art.
+Here's where origami gets unexpected. Paper folding turns out to be deeply mathematical, and mathematicians have formalized the [geometry](/geometry) in ways that have practical implications far beyond art.
 
-The Huzita-Hatori axioms define the fundamental operations possible through folding — and they're actually more powerful than straightedge-and-compass construction. You can trisect an angle with paper folding, something that's impossible with compass and straightedge alone.
+The Huzita-Hatori axioms define the fundamental operations possible through folding — and they're actually more powerful than straightedge-and-compass [construction](/construction). You can trisect an angle with paper folding, something that's impossible with compass and straightedge alone.
 
 Robert Lang, a former NASA physicist turned full-time origami artist, developed TreeMaker — a computer program that generates crease patterns for origami models of arbitrary complexity. You specify the proportional lengths of limbs and features, and the algorithm calculates the fold pattern needed to produce them from a single square. This computational approach has enabled models of staggering complexity — insects with individual legs, claws, wings, and antennae.
 
 The Miura fold, invented by Japanese astrophysicist Koryo Miura in 1970, creates a tessellation pattern that collapses flat and expands with a single pull along one axis. It's used in map folding and — more importantly — in deploying solar panels on satellites. The fold allows a large panel to be packed compactly for launch and deployed reliably in space.
 
-## Origami in Science and Engineering
+## Origami in Science and [Engineering](/engineering)
 
 The connection between paper folding and real-world engineering has exploded in recent decades.
 
@@ -73,15 +73,15 @@ The connection between paper folding and real-world engineering has exploded in 
 
 **Medicine.** Origami-inspired stents can be delivered through small incisions and then expand inside blood vessels. Origami-patterned surgical tools fold to fit through tiny openings. Researchers at Oxford developed DNA origami — using DNA strands to create nanoscale three-dimensional structures for drug delivery.
 
-**Robotics.** Self-folding robots start as flat sheets and fold themselves into functional three-dimensional forms. MIT researchers created an insect-sized robot that self-folds from a flat laser-cut sheet when heated.
+**[Robotics](/robotics).** Self-folding robots start as flat sheets and fold themselves into functional three-dimensional forms. MIT researchers created an insect-sized robot that self-folds from a flat laser-cut sheet when heated.
 
-**Architecture.** Foldable shelters using origami principles can be transported flat and erected quickly for disaster relief. Rigid origami — folding along pre-scored lines in rigid materials like metal or plastic — enables deployable structures in architecture and engineering.
+**[Architecture](/architecture).** Foldable shelters using origami principles can be transported flat and erected quickly for disaster relief. Rigid origami — folding along pre-scored lines in rigid materials like metal or plastic — enables deployable structures in architecture and engineering.
 
 **Automotive.** Airbag designers use origami-based folding patterns to pack airbags compactly while ensuring they deploy quickly and uniformly.
 
 ## The Art Today
 
-Contemporary origami artists create work that rivals fine art in complexity and beauty. Robert Lang's insects are biologically accurate. Satoshi Kamiya's dragons have hundreds of individual scales. Eric Joisel's human figures show realistic poses and expressions — all from single uncut sheets.
+Contemporary origami artists create work that rivals [fine art](/fine-art) in complexity and beauty. Robert Lang's insects are biologically accurate. Satoshi Kamiya's dragons have hundreds of individual scales. Eric Joisel's human figures show realistic poses and expressions — all from single uncut sheets.
 
 Origami conventions attract thousands of folders worldwide. OrigamiUSA and the British Origami Society are the largest organizations. Online communities share diagrams, tutorials, and crease patterns, making the art more accessible than ever.
 

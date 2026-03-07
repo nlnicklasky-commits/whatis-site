@@ -5,7 +5,7 @@ description: "Early modern history covers roughly 1450-1800, an era of explorati
 category: history
 tags: ["early modern", "history", "age of discovery", "reformation", "scientific revolution"]
 heroImage: "/images/articles/early-modern-history.webp"
-heroAlt: "Composite image showing a Renaissance painting, a sailing ship, and a scientific instrument from the early modern period"
+heroAlt: "Editorial photograph representing the concept of early modern history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Yes, the Renaissance (roughly 1350-1600) overlaps with the beginning of the early modern period. Some historians consider the Renaissance a bridge between the medieval and early modern eras, while others treat its later phases as fully early modern. The Italian Renaissance started in the 14th century (technically late medieval), but its spread to northern Europe in the 15th and 16th centuries coincides with the early modern period. The cultural changes of the Renaissance — humanism, artistic innovation, renewed interest in classical learning — helped drive the broader early modern transformation."
 ---
 
-# What Is Early Modern History?
+# What Is Early [Modern History](/modern-history)?
 
 Early modern history is the period of Western and global history spanning roughly 1450 to 1800 — the era between the medieval world and the modern one. It encompasses the Age of Exploration, the Protestant Reformation, the Scientific Revolution, the Enlightenment, and the rise of the nation-state. In short, it's when the world we recognize started to take shape.
 
@@ -73,7 +73,7 @@ Luther's core argument — that salvation came through faith alone, not through 
 
 The Catholic Church responded with the Counter-Reformation, reaffirming its doctrines at the Council of Trent (1545-1563) while also addressing some abuses. The Jesuits, founded in 1540, became the Church's intellectual and missionary vanguard, establishing schools and missions worldwide.
 
-The religious wars that followed were devastating. The French Wars of Religion (1562-1598) killed millions. The Thirty Years' War (1618-1648) may have killed 8 million people — about a third of the German population. The Peace of Westphalia (1648), which ended that war, established the principle that each ruler could determine the religion of their state — a pragmatic compromise that laid the groundwork for the modern nation-state system and the principle of sovereignty.
+The religious wars that followed were devastating. The French Wars of Religion (1562-1598) killed millions. The [Thirty Years' War](/thirty-years-war) (1618-1648) may have killed 8 million people — about a third of the German population. The Peace of Westphalia (1648), which ended that war, established the principle that each ruler could determine the religion of their state — a pragmatic compromise that laid the groundwork for the modern nation-state system and the principle of sovereignty.
 
 ## The Scientific Revolution
 
@@ -103,6 +103,6 @@ These ideas had consequences. The American Revolution (1776) and French Revoluti
 
 ## Why This Period Matters
 
-The early modern period is when the modern world's foundations were poured. Global trade networks, the scientific method, religious pluralism, constitutional government, capitalism, colonialism (and its lasting consequences), the printing press and mass communication — all either originated or took their recognizable form during these 350 years.
+The early modern period is when the modern world's foundations were poured. Global trade networks, the [scientific method](/scientific-method), religious pluralism, constitutional government, capitalism, colonialism (and its lasting consequences), the printing press and mass communication — all either originated or took their recognizable form during these 350 years.
 
-It's also a useful corrective to the idea that progress is linear. The same period that produced Newton's physics and Locke's political philosophy also produced the transatlantic slave trade, witch trials, and some of the most brutal colonial exploitation in human history. The early modern world was contradictory in ways that are uncomfortable but important to understand — because many of those contradictions persist today.
+It's also a useful corrective to the idea that progress is linear. The same period that produced Newton's physics and Locke's [political philosophy](/political-philosophy) also produced the transatlantic slave trade, witch trials, and some of the most brutal colonial exploitation in human history. The early modern world was contradictory in ways that are uncomfortable but important to understand — because many of those contradictions persist today.

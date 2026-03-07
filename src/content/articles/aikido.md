@@ -5,7 +5,7 @@ description: "Aikido is a Japanese martial art focused on redirecting an attacke
 category: sports
 tags: ["aikido", "martial arts", "japanese martial arts", "self-defense", "budo", "jujutsu"]
 heroImage: "/images/articles/aikido.webp"
-heroAlt: "Two aikido practitioners in white gi performing a flowing throw technique on a tatami mat"
+heroAlt: "Editorial photograph representing the concept of aikido"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ Aikido is a modern Japanese martial art developed in the early 20th century by M
 
 ## The Man They Called O-Sensei
 
-Morihei Ueshiba (1883–1969) studied several traditional martial arts, including Daito-ryu aiki-jujutsu under Sokaku Takeda and swordsmanship from various schools. He was also deeply influenced by the Omoto-kyo spiritual movement, which preached universal harmony.
+Morihei Ueshiba (1883–1969) studied several traditional [martial arts](/martial-arts), including Daito-ryu aiki-jujutsu under Sokaku Takeda and [swordsmanship](/swordsmanship) from various schools. He was also deeply influenced by the Omoto-kyo spiritual movement, which preached universal harmony.
 
 The combination produced something unusual. Ueshiba — who came to be called "O-Sensei" (Great Teacher) by his students — wanted a martial art that could protect the practitioner *without* destroying the attacker. He formally established aikido in the 1920s and 1930s, though it continued evolving throughout his life. The name itself tells you the philosophy: *ai* (harmony), *ki* (energy or spirit), *do* (way or path). The Way of Harmonious Energy.
 
-That sounds nice and philosophical, but make no mistake — Ueshiba was formidable. Accounts from contemporaries describe him throwing multiple attackers simultaneously and pinning much larger opponents with apparent ease. Whether those stories are embellished is debatable. What's not debatable is that the art he created spread worldwide after World War II.
+That sounds nice and philosophical, but make no mistake — Ueshiba was formidable. Accounts from contemporaries describe him throwing multiple attackers simultaneously and pinning much larger opponents with apparent ease. Whether those stories are embellished is debatable. What's not debatable is that the art he created spread worldwide after [World War II](/world-war-ii).
 
 ## How Aikido Actually Works
 
@@ -75,11 +75,11 @@ Ranking follows the Japanese kyu/dan system. Students start as white belts and p
 
 ## The Controversy
 
-Let's address the elephant in the dojo. Aikido catches a lot of criticism from practitioners of other martial arts — particularly those in [MMA](/self-defense), Brazilian jiu-jitsu, and Muay Thai — for being impractical.
+Let's address the elephant in the dojo. Aikido catches a lot of criticism from practitioners of other martial arts — particularly those in [MMA](/self-defense), [Brazilian jiu-jitsu](/brazilian-jiu-jitsu), and Muay Thai — for being impractical.
 
 The criticism isn't entirely unfounded. Traditional aikido training uses compliant partners. The uke attacks and then goes with the technique, which can look like cooperative choreography rather than realistic combat. Critics argue that aikido practitioners rarely test their skills against genuinely resisting opponents, creating a gap between training and reality.
 
-Defenders counter that aikido was never designed to be a fighting system in the way boxing or wrestling is. Its purpose is personal development, conflict resolution, and — if absolutely necessary — a way to control an attacker without causing permanent harm. Some modern aikido schools have responded to the criticism by incorporating more resistance-based training and cross-training with other arts.
+Defenders counter that aikido was never designed to be a fighting system in the way boxing or wrestling is. Its purpose is personal development, [conflict resolution](/conflict-resolution), and — if absolutely necessary — a way to control an attacker without causing permanent harm. Some modern aikido schools have responded to the criticism by incorporating more resistance-based training and cross-training with other arts.
 
 The truth probably lands somewhere in the middle. Aikido alone may not prepare you for a cage fight, but its principles of balance, awareness, and body mechanics have real value — and its emphasis on de-escalation is arguably more relevant to most people's lives than learning to throw punches.
 

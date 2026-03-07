@@ -5,7 +5,7 @@ description: "Infrastructure planning is the process of designing, funding, and 
 category: technology
 tags: ["infrastructure planning", "urban planning", "civil engineering", "public policy", "economic development", "sustainable infrastructure", "smart cities"]
 heroImage: "/images/articles/infrastructure-planning-hero.webp"
-heroAlt: "Aerial view of a city showing roads, bridges, and utility systems under construction"
+heroAlt: "Editorial photograph representing the concept of infrastructure planning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -69,7 +69,7 @@ Water planning encompasses treatment plants, distribution networks, stormwater m
 
 The power grid is arguably the most critical piece of [engineering](/engineering) in modern civilization. Without it, nothing else works — no water pumps, no traffic lights, no hospitals, no internet. The US power grid consists of over 160,000 miles of high-voltage transmission lines and millions of miles of local distribution lines.
 
-Energy infrastructure planning now faces a massive transition challenge: moving from fossil fuels to renewable sources while maintaining reliability. This isn't just about building solar farms and wind turbines. It means upgrading transmission lines, developing energy storage systems, modernizing substations, and rethinking grid architecture from the ground up. The [electrical engineering](/electrical-engineering) challenges are enormous.
+Energy infrastructure planning now faces a massive transition challenge: moving from fossil fuels to renewable sources while maintaining reliability. This isn't just about building solar farms and wind turbines. It means upgrading transmission lines, developing energy storage systems, modernizing substations, and rethinking grid [architecture](/architecture) from the ground up. The [electrical engineering](/electrical-engineering) challenges are enormous.
 
 ### Digital and Telecommunications Infrastructure
 
@@ -105,7 +105,7 @@ A single highway project can require 5 to 7 years of environmental review. Criti
 
 ### Design and Engineering
 
-Once a project clears planning and environmental hurdles, [engineering](/engineering) teams create detailed designs. This phase involves geotechnical studies, structural analysis, hydraulic modeling, and hundreds of other technical disciplines. Modern infrastructure design increasingly uses Building Information Modeling (BIM) and digital twins — virtual replicas of physical systems that can be tested and optimized before construction begins.
+Once a project clears planning and environmental hurdles, [engineering](/engineering) teams create detailed designs. This phase involves geotechnical studies, structural analysis, hydraulic modeling, and hundreds of other technical disciplines. Modern infrastructure design increasingly uses Building Information Modeling (BIM) and digital twins — virtual replicas of physical systems that can be tested and optimized before [construction](/construction) begins.
 
 ### Funding and Financing
 
@@ -183,13 +183,13 @@ The US Interstate Highway System is both a triumph and a cautionary tale. Author
 
 But it also destroyed urban neighborhoods — particularly Black communities — where highways were deliberately routed through low-income areas because land was cheap and political resistance was low. Entire neighborhoods in cities like Syracuse, Detroit, and New Orleans were razed. The [geography](/geography) of American cities was permanently altered.
 
-### The Netherlands' Water Management
+### The Netherlands' [Water Management](/water-management)
 
 The Netherlands — a country where 26% of the land is below sea level — has arguably the world's most sophisticated water infrastructure planning. After the devastating North Sea flood of 1953, which killed 1,836 people, the Dutch embarked on the Delta Works: a massive system of dams, sluices, locks, and storm surge barriers that took decades to complete and cost billions.
 
 But what makes Dutch water management truly impressive is its ongoing adaptation. The Room for the River program, launched in 2006, deliberately created more space for rivers to flood safely — an approach that acknowledges climate change rather than fighting it.
 
-### California's High-Speed Rail
+### California's [High-Speed Rail](/high-speed-rail)
 
 California's high-speed rail project, approved by voters in 2008 with a projected cost of $33 billion, illustrates the challenges of infrastructure planning in a complex political environment. By 2024, the estimated cost had ballooned to over $100 billion, construction had barely begun on the easiest segments, and the project's completion was decades away if it happens at all. Political fragmentation, environmental lawsuits, land acquisition challenges, and shifting priorities all contributed.
 

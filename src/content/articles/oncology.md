@@ -5,7 +5,7 @@ description: "Oncology is the medical specialty focused on diagnosing and treati
 category: health-amp-wellness
 tags: ["oncology", "cancer", "cancer treatment", "chemotherapy", "radiation therapy"]
 heroImage: "/images/articles/oncology.webp"
-heroAlt: "Oncologist reviewing patient scans and treatment plans in a modern cancer center"
+heroAlt: "Editorial photograph representing the concept of oncology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ Medical oncologists typically manage the overall treatment plan and coordinate w
 
 ### Surgical Oncology
 
-Surgical oncologists remove tumors and surrounding tissue, perform biopsies for diagnosis, and sometimes carry out preventive surgeries (like mastectomy for patients with BRCA mutations and very high breast cancer risk). Surgery remains the most common treatment for solid tumors — and for many early-stage cancers, it's the only treatment needed.
+Surgical oncologists remove tumors and surrounding tissue, perform biopsies for diagnosis, and sometimes carry out preventive surgeries (like mastectomy for patients with BRCA mutations and very high breast cancer risk). [Surgery](/surgery) remains the most common treatment for solid tumors — and for many early-stage cancers, it's the only treatment needed.
 
 The trend in surgical oncology is toward less radical procedures. Fifty years ago, breast cancer usually meant a radical mastectomy — removal of the entire breast, chest muscles, and all nearby lymph nodes. Today, many patients are candidates for lumpectomy (removing just the tumor and a small margin) followed by radiation, with equivalent survival rates.
 
@@ -97,7 +97,7 @@ The breakthrough was checkpoint inhibitors. Cancer cells often express proteins 
 
 CAR-T cell therapy goes even further — engineers a patient's own T cells in a laboratory to recognize specific cancer markers, then infuses them back into the patient. It's shown remarkable results in certain blood cancers, with some patients achieving complete remission after failing all other treatments.
 
-James Allison and Tasuku Honjo won the 2018 Nobel Prize in Physiology or Medicine for their foundational work on checkpoint inhibitors. Deservedly so — these drugs have genuinely changed the survival curve for several cancer types.
+James Allison and Tasuku Honjo won the 2018 Nobel Prize in [Physiology](/physiology) or Medicine for their foundational work on checkpoint inhibitors. Deservedly so — these drugs have genuinely changed the survival curve for several cancer types.
 
 ### Targeted Therapy
 
@@ -132,6 +132,6 @@ Screening — mammograms for breast cancer, colonoscopies for colorectal cancer,
 
 ## The Emotional Reality
 
-One thing that doesn't show up in survival statistics: the psychological weight of cancer. A cancer diagnosis is among the most stressful events a person can experience. Fear, grief, anger, depression, anxiety, disrupted relationships, financial toxicity (cancer treatment costs can be catastrophic, even with insurance), and existential uncertainty are all part of the package.
+One thing that doesn't show up in survival [statistics](/statistics): the psychological weight of cancer. A cancer diagnosis is among the most stressful events a person can experience. Fear, grief, anger, depression, anxiety, disrupted relationships, financial toxicity (cancer treatment costs can be catastrophic, even with [insurance](/insurance)), and existential uncertainty are all part of the package.
 
 Good oncology care recognizes this and integrates psychosocial support — social workers, psychologists, support groups, palliative care teams focused on quality of life — alongside medical treatment. The field has gotten better at this, though it still has a long way to go. Treating the disease without treating the person is only half the job.

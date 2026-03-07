@@ -5,7 +5,7 @@ description: "Coppersmithing is the craft of shaping copper into functional and 
 category: arts-amp-culture
 tags: ["crafts", "metalworking", "artisan", "copper", "traditional crafts", "handicrafts"]
 heroImage: "/images/articles/coppersmithing.webp"
-heroAlt: "A coppersmith hammering a piece of glowing copper on an anvil in a workshop"
+heroAlt: "Editorial photograph representing the concept of coppersmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Coppersmithing?
 
-Coppersmithing is the craft of working copper metal into useful and decorative objects — pots, pans, vases, roofing, jewelry, and architectural elements. Copper was the first metal humans learned to work (around 9000 BC), making coppersmithing arguably the oldest metalworking craft in existence.
+Coppersmithing is the craft of working copper metal into useful and decorative objects — pots, pans, vases, [roofing](/roofing), jewelry, and architectural elements. Copper was the first metal humans learned to work (around 9000 BC), making coppersmithing arguably the oldest [metalworking](/metalworking) craft in existence.
 
 ## Why Copper First
 
-Copper has properties that made it perfect for early metalworkers. It's soft enough to shape without extreme heat — you can hammer it cold, unlike iron, which requires a forge. It occurs naturally in pure form (native copper), so ancient people didn't need smelting technology to get started. And it's beautiful — that warm, reddish-gold color catches light in a way few other metals do.
+Copper has properties that made it perfect for early metalworkers. It's soft enough to shape without extreme heat — you can hammer it cold, unlike iron, which requires a forge. It occurs naturally in pure form (native copper), so ancient people didn't need [smelting](/smelting) technology to get started. And it's beautiful — that warm, reddish-gold color catches light in a way few other metals do.
 
 The earliest known copper artifacts are beads found in northern Iraq, dating to approximately 8700 BC. By 5000 BC, people in the Middle East were smelting copper from ore. The Chalcolithic period (Copper Age, roughly 4500-3300 BC) saw copper tools and weapons spread across Europe and Asia. When someone figured out that adding tin to copper created bronze — harder and more durable — the Bronze Age began, and civilization shifted dramatically.
 
@@ -49,7 +49,7 @@ Copper is among the most workable metals. Its malleability allows coppersmiths t
 
 **Chasing and repousse** create decorative relief patterns. Repousse works from the back of the metal, pushing the design outward. Chasing works from the front, refining details. Together, they can produce intricate three-dimensional designs — flowers, faces, geometric patterns — without removing any material.
 
-**Soldering and brazing** join pieces together using a filler metal with a lower melting point than copper itself. Silver solder is common for fine work; brass brazing works for structural joints.
+**[Soldering](/soldering) and brazing** join pieces together using a filler metal with a lower melting point than copper itself. Silver solder is common for fine work; brass brazing works for structural joints.
 
 **Patination** intentionally creates the green, brown, or black surface colors that develop naturally on copper over time. Coppersmiths use chemical solutions — liver of sulfur for dark tones, salt and vinegar for green — to achieve specific colors and protect the surface.
 

@@ -5,7 +5,7 @@ description: "Gymnastics combines strength, flexibility, and artistry in events 
 category: sports
 tags: ["gymnastics", "sport", "athletics", "flexibility", "strength", "balance"]
 heroImage: "/images/articles/gymnastics.webp"
-heroAlt: "Gymnast performing a routine on the balance beam in a competition arena"
+heroAlt: "Editorial photograph representing the concept of gymnastics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -40,7 +40,7 @@ Gymnastics is a sport that combines strength, flexibility, balance, coordination
 **Women's events:**
 - **Vault** — a sprint down a runway, a launch off a springboard, one or two aerial maneuvers over a vaulting table, and a landing. The entire skill lasts about 5 seconds. The vault is the most explosive event — gymnasts hit the table traveling at roughly 16 mph.
 - **Uneven bars** — two horizontal bars at different heights. Gymnasts swing between them, releasing and re-catching, performing flips and twists in the transitions. It's the most active women's event — continuous motion with no pauses.
-- **Balance beam** — a 4-inch-wide, 16-foot-long beam raised 4 feet off the ground. Gymnasts perform jumps, turns, acrobatic elements, and dance movements on a surface about as wide as a standard smartphone. A routine lasts 70-90 seconds. The margin for error is essentially zero.
+- **Balance beam** — a 4-inch-wide, 16-foot-long beam raised 4 feet off the ground. Gymnasts perform jumps, turns, acrobatic elements, and [dance](/dance) movements on a surface about as wide as a standard smartphone. A routine lasts 70-90 seconds. The margin for error is essentially zero.
 - **Floor exercise** — a 90-second routine combining tumbling passes (sequences of flips, twists, and aerial skills), dance elements, and choreography, performed on a 40x40 foot spring floor set to music.
 
 **Men's events:**
@@ -65,7 +65,7 @@ The current scoring system, adopted in 2006, replaced the iconic "Perfect 10."
 
 The final score is D + E. A gymnast performing very difficult skills with some errors might score similarly to one performing easier skills flawlessly. The system creates a strategic tension between difficulty and execution — how much risk is worth the potential reward.
 
-The loss of the "Perfect 10" was controversial. Nadia Comaneci's 10.0 at the 1976 Olympics remains one of the most iconic moments in sports history. But the old system couldn't differentiate between increasingly difficult routines — two very different performances could both score 10.0.
+The loss of the "Perfect 10" was controversial. Nadia Comaneci's 10.0 at the 1976 Olympics remains one of the most iconic moments in [sports history](/sports-history). But the old system couldn't differentiate between increasingly difficult routines — two very different performances could both score 10.0.
 
 ## The Physical Demands
 

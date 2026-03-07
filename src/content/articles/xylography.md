@@ -5,7 +5,7 @@ description: "Xylography is the art of printing from carved wood blocks. Learn h
 category: arts-amp-culture
 tags: ["woodcut", "printmaking", "engraving", "art history", "printing techniques", "relief printing"]
 heroImage: "/images/articles/xylography.webp"
-heroAlt: "A carved wooden block with ink being pressed onto paper to create a detailed print"
+heroAlt: "Editorial photograph representing the concept of xylography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The process is straightforward, though mastering it takes years.
 
 First, you start with a block of wood — usually cut along the grain (called "plank" or "side-grain" cutting). Cherry, pear, and basswood are popular choices because they're soft enough to carve but firm enough to hold detail.
 
-The artist draws a design directly onto the wood surface, or transfers a drawing onto it. Then comes the painstaking part: using gouges, chisels, and knives, you cut away every area that should remain white on the final print. What's left standing — the raised lines and shapes — will receive ink.
+The artist draws a design directly onto the wood surface, or transfers a [drawing](/drawing) onto it. Then comes the painstaking part: using gouges, chisels, and knives, you cut away every area that should remain white on the final print. What's left standing — the raised lines and shapes — will receive ink.
 
 After carving, you roll ink onto the block's surface with a brayer (a small roller). Lay a sheet of paper on top, apply pressure either by hand or with a press, and you've got a print. The image comes out reversed, which is why experienced xylographers learn to think in mirror image.
 
@@ -65,7 +65,7 @@ Korea developed its own woodblock tradition too, including the Tripitaka Koreana
 
 Xylography arrived in Europe around the early 1400s, initially for printing religious images, playing cards, and simple devotional texts called "block books." Each page was carved as a single block — text and images together.
 
-Then Johannes Gutenberg developed movable type around 1440, and everything changed. Movable type was far more efficient for text-heavy printing because you could rearrange individual letter blocks instead of carving whole pages. But xylography didn't disappear. It actually thrived as an illustration method.
+Then Johannes Gutenberg developed movable type around 1440, and everything changed. Movable type was far more efficient for text-heavy printing because you could rearrange individual letter blocks instead of carving whole pages. But xylography didn't disappear. It actually thrived as an [illustration](/illustration) method.
 
 Albrecht Dürer, working in the late 1400s and early 1500s, elevated the woodcut to high art. His prints — including "The Four Horsemen of the Apocalypse" and "Rhinoceros" — showed a level of detail and artistry that nobody thought possible with carved wood. Dürer proved that xylography wasn't just a cheap reproduction method. It was a legitimate artistic medium.
 
@@ -75,11 +75,11 @@ Here's where people get confused. There are several ways to print from a surface
 
 **Relief printing** (xylography falls here): Ink sits on raised surfaces. Think of a rubber stamp — same idea.
 
-**Intaglio printing** (engraving, etching): Ink fills grooves cut into a metal plate. The surface is wiped clean, and paper is pressed into the grooves to pick up ink.
+**Intaglio printing** ([engraving](/engraving), etching): Ink fills grooves cut into a metal plate. The surface is wiped clean, and paper is pressed into the grooves to pick up ink.
 
-**Planographic printing** (lithography): The printing surface is flat. It relies on the chemical principle that oil and water don't mix.
+**Planographic printing** ([lithography](/lithography)): The printing surface is flat. It relies on the chemical principle that oil and water don't mix.
 
-Xylography's main advantage is directness. You carve, ink, print. No acid baths, no specialized presses (though a press helps), no chemistry. The trade-off is that wood limits how fine your detail can be, especially with side-grain cutting.
+Xylography's main advantage is directness. You carve, ink, print. No acid baths, no specialized presses (though a press helps), no [chemistry](/chemistry). The [trade](/trade)-off is that wood limits how fine your detail can be, especially with side-grain cutting.
 
 Wood engraving — a related but distinct technique developed by Thomas Bewick in the late 1700s — uses end-grain blocks of very hard wood (usually boxwood) and engraving tools instead of knives. This allows much finer detail than traditional xylography, and it dominated book illustration throughout the 19th century.
 

@@ -5,7 +5,7 @@ description: "University administration manages the operations, finances, and st
 category: everyday-concepts
 tags: ["university administration", "higher education", "academic management", "college", "education", "governance"]
 heroImage: "/images/articles/university-administration.webp"
-heroAlt: "Aerial view of a university campus with administrative buildings and green courtyards"
+heroAlt: "Editorial photograph representing the concept of university administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is University Administration?
 
-University administration is the organizational system that keeps a higher education institution running — everything from admitting students and managing finances to maintaining buildings and ensuring legal compliance. If faculty are the academic engine, administration is the chassis, transmission, and steering that keep the vehicle on the road.
+University administration is the organizational system that keeps a higher [education](/education) institution [running](/running) — everything from admitting students and managing finances to maintaining buildings and ensuring legal compliance. If faculty are the academic engine, administration is the chassis, transmission, and steering that keep the vehicle on the road.
 
 ## The Basic Structure
 
@@ -39,13 +39,13 @@ Most universities follow a hierarchical structure, though the specifics vary by 
 
 **Board of Trustees (or Regents)** — The governing body that holds ultimate authority. They hire and fire the president, approve budgets, set tuition, and oversee the institution's financial health. At public universities, board members may be appointed by the governor or elected. At private institutions, the board is typically self-perpetuating (existing members choose new ones).
 
-**President (or Chancellor)** — The chief executive. They translate the board's vision into strategy and oversee everything. At a large research university, the president manages an institution that might have a $5 billion endowment, 50,000 students, 20,000 employees, a hospital system, and a Division I athletics program. It's essentially a CEO role, and compensation reflects that — median pay for presidents at doctoral universities exceeded $500,000 by 2020.
+**President (or Chancellor)** — The chief executive. They translate the board's vision into strategy and oversee everything. At a large research university, the president manages an institution that might have a $5 billion endowment, 50,000 students, 20,000 employees, a hospital system, and a Division I [athletics](/athletics) program. It's essentially a CEO role, and compensation reflects that — median pay for presidents at doctoral universities exceeded $500,000 by 2020.
 
-**Provost** — The chief academic officer, responsible for everything related to teaching and research. The provost oversees deans, approves new academic programs, manages faculty hiring and tenure decisions, and allocates academic budgets. At research universities, the provost role is arguably more influential over the daily academic experience than the president's.
+**Provost** — The chief academic officer, responsible for everything related to [teaching](/teaching) and research. The provost oversees deans, approves new academic programs, manages faculty hiring and tenure decisions, and allocates academic budgets. At research universities, the provost role is arguably more influential over the daily academic experience than the president's.
 
-**Vice Presidents** — Most universities have VPs for finance, student affairs, research, advancement (fundraising), enrollment management, and IT. Each runs a major division with its own staff, budget, and priorities.
+**Vice Presidents** — Most universities have VPs for [finance](/finance), student affairs, research, advancement ([fundraising](/fundraising)), enrollment [management](/management), and IT. Each runs a major division with its own staff, budget, and priorities.
 
-**Deans** — Each college or school within the university (College of Arts & Sciences, School of Engineering, etc.) has a dean who manages faculty, curriculum, and the college's budget. Deans are usually tenured professors who've moved into administration, and they serve as the crucial link between faculty concerns and institutional priorities.
+**Deans** — Each college or school within the university (College of Arts & Sciences, School of [Engineering](/engineering), etc.) has a dean who manages faculty, curriculum, and the college's budget. Deans are usually tenured professors who've moved into administration, and they serve as the crucial link between faculty concerns and institutional priorities.
 
 ## The Money Side
 
@@ -69,7 +69,7 @@ The numbers are stark. Between 1975 and 2015, the number of full-time administra
 
 Critics call this "administrative bloat" and blame it for rising tuition costs. They point to proliferating titles (Associate Vice Provost for Strategic Initiatives, anyone?), layer upon layer of middle management, and administrative offices that seem to exist primarily to justify their own existence.
 
-Defenders counter with specific causes for the growth: federal compliance requirements have expanded enormously (Title IX coordinators, ADA compliance officers, Clery Act reporting, financial aid administrators handling increasingly complex FAFSA regulations). Student services have grown because students and families expect more — mental health counseling, career placement, disability support, residential life programming. Technology requires IT staff that didn't exist 30 years ago.
+Defenders counter with specific causes for the growth: federal compliance requirements have expanded enormously (Title IX coordinators, ADA compliance officers, Clery Act reporting, financial aid administrators handling increasingly complex FAFSA regulations). Student services have grown because students and families expect more — [mental health](/mental-health) counseling, career placement, disability support, residential life programming. Technology requires IT staff that didn't exist 30 years ago.
 
 The truth is probably somewhere in between. Some administrative growth reflects genuine new needs. Some reflects mission creep and institutional inertia.
 

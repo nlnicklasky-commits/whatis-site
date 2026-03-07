@@ -5,7 +5,7 @@ description: "Marine biology is the study of ocean life, from microscopic plankt
 category: science
 tags: ["marine biology", "ocean", "marine life", "ecology", "conservation", "oceanography", "biodiversity"]
 heroImage: "/images/articles/marine-biology-hero.webp"
-heroAlt: "Vibrant coral reef teeming with tropical fish and marine organisms in clear blue water"
+heroAlt: "Editorial photograph representing the concept of marine biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

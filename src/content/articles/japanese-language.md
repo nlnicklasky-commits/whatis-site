@@ -5,7 +5,7 @@ description: "Japanese is spoken by 125 million people and uses three writing sy
 category: everyday-concepts
 tags: ["japanese language", "kanji", "hiragana", "linguistics", "writing systems"]
 heroImage: "/images/articles/japanese-language.webp"
-heroAlt: "Japanese calligraphy brush writing kanji characters on rice paper"
+heroAlt: "Editorial photograph representing the concept of japanese language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Japanese Language?
 
-Japanese is spoken by approximately 125 million people, primarily in Japan. It is one of the most fascinating languages in the world — partly because of its three simultaneous writing systems, partly because of its intricate honorific system, and partly because it is a linguistic mystery. Despite extensive study, linguists have not conclusively linked Japanese to any other language family, making it what many consider a language isolate (though the Japonic family includes the Ryukyuan languages of Okinawa).
+Japanese is spoken by approximately 125 million people, primarily in Japan. It is one of the most fascinating languages in the world — partly because of its three simultaneous [writing](/writing) systems, partly because of its intricate honorific system, and partly because it is a linguistic mystery. Despite extensive study, linguists have not conclusively linked Japanese to any other language family, making it what many consider a language isolate (though the Japonic family includes the Ryukyuan languages of Okinawa).
 
 ## Three Writing Systems
 
@@ -45,7 +45,7 @@ This is the part that intimidates most learners. Japanese uses three scripts sim
 
 A typical Japanese sentence mixes all three: **東京でコーヒーを飲みました** (Tokyo de koohii wo nomimashita — "I drank coffee in Tokyo"). 東京 is kanji, で and を and みました are hiragana, コーヒー is katakana.
 
-## Grammar — A Different Logic
+## [Grammar](/grammar) — A Different [Logic](/logic)
 
 Japanese grammar operates on fundamentally different principles than English:
 

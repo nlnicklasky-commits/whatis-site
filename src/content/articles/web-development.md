@@ -5,7 +5,7 @@ description: "Web development is the building and maintenance of websites, cover
 category: technology
 tags: ["web development", "programming", "html", "javascript"]
 heroImage: "/images/articles/web-development.webp"
-heroAlt: "Code editor showing HTML and JavaScript alongside a browser preview of a website"
+heroAlt: "Editorial photograph representing the concept of web development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

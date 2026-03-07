@@ -5,7 +5,7 @@ description: "Plate tectonics explains how Earth's outer shell is broken into mo
 category: everyday-concepts
 tags: ["plate tectonics", "geology", "earthquakes", "volcanoes", "continental drift"]
 heroImage: "/images/articles/plate-tectonics.webp"
-heroAlt: "Cross-section diagram showing tectonic plates moving along Earth's surface"
+heroAlt: "Editorial photograph representing the concept of plate tectonics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "There are 7 major plates (Pacific, North American, South American, Eurasian, African, Antarctic, and Indo-Australian) and around 8 minor plates. Scientists also recognize numerous microplates. The exact count depends on classification criteria, but most geologists identify 15-20 significant plates."
 ---
 
-# What Is Plate Tectonics?
+# What Is Plate [Tectonics](/tectonics)?
 
 Plate tectonics is the scientific theory explaining how Earth's outer layer — the lithosphere — is divided into large, rigid pieces called plates that move, collide, and pull apart over millions of years. These movements cause earthquakes, build mountains, open ocean basins, and drive volcanic eruptions. It's the reason South America and Africa look like puzzle pieces that should fit together. Because they used to.
 
-## The Idea That Changed Geology
+## The Idea That Changed [Geology](/geology)
 
 For most of scientific history, people assumed continents were fixed in place. Then in 1912, a German meteorologist named Alfred Wegener proposed something radical: the continents were once joined in a single supercontinent he called Pangaea, and they'd been drifting apart ever since.
 
@@ -43,7 +43,7 @@ The scientific establishment mostly laughed at him. Wegener couldn't explain *ho
 
 ## The Evidence That Won the Argument
 
-The breakthrough came from the ocean floor. In the 1950s and 1960s, mapping technology revealed something unexpected: a massive underwater mountain range — the Mid-Atlantic Ridge — running down the center of the Atlantic Ocean, with a rift valley along its crest.
+The breakthrough came from the ocean floor. In the 1950s and 1960s, mapping technology revealed something unexpected: a massive underwater mountain range — the Mid-Atlantic Ridge — [running](/running) down the center of the Atlantic Ocean, with a rift valley along its crest.
 
 Harry Hess, a Princeton geologist and former Navy officer, proposed seafloor spreading in 1962. His idea: molten rock rises at mid-ocean ridges, creates new ocean floor, and pushes the existing floor outward like a slow conveyor belt. The ocean floor isn't permanent — it's constantly being created and destroyed.
 
@@ -68,7 +68,7 @@ Think of it like ice sheets floating on a pond, except the "pond" is extremely v
 
 Where plates meet, things get interesting. There are three types of boundaries, and each produces different geological features.
 
-**Divergent boundaries** — plates pull apart. Magma rises from below to fill the gap, creating new crust. The Mid-Atlantic Ridge is the classic example. Iceland sits right on top of it, which is why the island has so many volcanoes and hot springs. In East Africa, the continent is slowly splitting along the East African Rift — give it a few million years and a new ocean will form.
+**Divergent boundaries** — plates pull apart. Magma rises from below to fill the gap, creating new crust. The Mid-Atlantic Ridge is the classic example. Iceland sits right on top of it, which is why the island has so many volcanoes and hot [springs](/springs). In East Africa, the continent is slowly splitting along the East African Rift — give it a few million years and a new ocean will form.
 
 **Convergent boundaries** — plates collide. What happens depends on what's colliding:
 
@@ -96,7 +96,7 @@ About 80% of the world's largest earthquakes occur along the Pacific Ring of Fir
 
 Volcanic eruptions are concentrated along plate boundaries too. About 75% of the world's active volcanoes sit along the Ring of Fire. Mount St. Helens, Mount Fuji, and Krakatoa are all products of plate interactions.
 
-Even natural resources depend on plate tectonics. Many metal ore deposits formed at ancient plate boundaries. Oil and natural gas accumulated in sedimentary basins shaped by tectonic forces. Geothermal energy — Iceland generates 25% of its electricity from it — exists because of volcanic activity driven by plate movements.
+Even natural resources depend on plate tectonics. Many metal ore deposits formed at ancient plate boundaries. Oil and natural gas accumulated in sedimentary basins shaped by tectonic forces. Geothermal energy — Iceland generates 25% of its [electricity](/electricity) from it — exists because of volcanic activity driven by plate movements.
 
 ## The Supercontinent Cycle
 
@@ -110,7 +110,7 @@ Nobody alive today will see it, obviously. But the fact that we can predict it a
 
 ## A Theory Still Evolving
 
-Plate tectonics is one of the most successful theories in earth science, but questions remain. We still don't fully understand why plate tectonics operates on Earth but apparently not on Venus or Mars. We're still debating when plate tectonics started — estimates range from 4 billion years ago to as recently as 800 million years ago.
+Plate tectonics is one of the most successful theories in [earth science](/earth-science), but questions remain. We still don't fully understand why plate tectonics operates on Earth but apparently not on Venus or Mars. We're still debating when plate tectonics started — estimates range from 4 billion years ago to as recently as 800 million years ago.
 
 And the deep mantle is still poorly understood. Seismic tomography has revealed massive structures deep in the mantle — the "large low-shear-velocity provinces" beneath Africa and the Pacific — that may influence plate motions in ways we haven't figured out yet.
 

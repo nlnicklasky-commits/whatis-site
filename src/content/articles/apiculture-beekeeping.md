@@ -5,7 +5,7 @@ description: "Apiculture is the practice of managing honey bee colonies to produ
 category: science
 tags: ["apiculture", "beekeeping", "honey bees", "bees", "pollination", "honey", "hive"]
 heroImage: "/images/articles/apiculture-beekeeping-hero.webp"
-heroAlt: "A beekeeper in a white suit inspecting a wooden hive frame covered with honey bees"
+heroAlt: "Editorial photograph representing the concept of apiculture (beekeeping)"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,19 +63,19 @@ Every colony has three types of bees, and their roles are rigid.
 
 **The queen** is the only sexually mature female. She mates once in her life — during a frenzied mating flight where she mates with 12 to 20 drones from other colonies — and stores enough sperm to lay eggs for three to five years. At peak production, a good queen lays 1,500 to 2,000 eggs per day. That's more than her own body weight in eggs, every single day. She also produces pheromones that regulate colony behavior, suppress the reproductive development of worker bees, and basically hold the whole operation together.
 
-**Workers** are sterile females, and they do everything else. A worker bee lives about six weeks during summer (they literally work themselves to death) and progresses through a series of jobs based on age. Days 1-3: cleaning cells. Days 3-10: feeding larvae. Days 12-18: building comb and processing nectar. Days 18-21: guard duty at the hive entrance. Days 21+: foraging. A single forager visits 50 to 1,000 flowers per trip and makes about 10 trips per day. To produce one pound of honey, bees collectively fly roughly 55,000 miles — more than twice around the Earth.
+**Workers** are sterile females, and they do everything else. A worker bee lives about six weeks during summer (they literally work themselves to death) and progresses through a series of jobs based on age. Days 1-3: cleaning cells. Days 3-10: feeding larvae. Days 12-18: building comb and processing nectar. Days 18-21: guard duty at the hive entrance. Days 21+: [foraging](/foraging). A single forager visits 50 to 1,000 flowers per trip and makes about 10 trips per day. To produce one pound of honey, bees collectively fly roughly 55,000 miles — more than twice around the Earth.
 
 **Drones** are males. Their only job is to mate with queens from other colonies. They have no stinger, don't collect nectar, don't build comb, and don't defend the hive. In autumn, when food gets scarce, worker bees drag the drones out of the hive and let them starve. It sounds harsh, but the colony can't afford to feed mouths that don't contribute during winter.
 
 ### The Nest Structure
 
-Bees build their home from beeswax — a substance secreted from glands on the abdomen of young worker bees. The hexagonal comb pattern isn't accidental. Mathematicians have proven that hexagons are the most efficient shape for maximizing storage space while minimizing building material. Bees figured this out about 100 million years before anyone wrote a geometry textbook.
+Bees build their home from beeswax — a substance secreted from glands on the abdomen of young worker bees. The hexagonal comb pattern isn't accidental. Mathematicians have proven that hexagons are the most efficient shape for maximizing storage space while minimizing building material. Bees figured this out about 100 million years before anyone wrote a [geometry](/geometry) textbook.
 
 The comb serves three purposes: storing honey and [pollen](/pollination) (food), housing developing brood (baby bees), and providing the structural framework for the colony's activities. In a natural nest — say, a hollow tree — bees arrange their comb in a consistent pattern. Brood goes in the center where it's warmest, honey gets stored above and to the sides, and pollen sits in a band between the brood and the honey. Beekeepers replicate this arrangement in managed hives.
 
 ## What Beekeepers Actually Do All Year
 
-Beekeeping isn't just putting bees in a box and waiting for honey. It's a year-round management cycle that requires paying close attention to what the colony needs at each stage.
+Beekeeping isn't just putting bees in a box and waiting for honey. It's a year-round [management](/management) cycle that requires paying close attention to what the colony needs at each stage.
 
 ### Spring: Waking Up and Growing
 
@@ -87,7 +87,7 @@ This is also swarm season. When a colony gets crowded, it raises a new queen and
 
 Summer is honey season. During a strong nectar flow — when major nectar-producing plants like clover, alfalfa, wildflowers, or fruit trees are blooming heavily — a strong colony can store 5 to 10 pounds of honey per day. Beekeepers add extra boxes called "supers" on top of the hive to give bees room to store surplus honey.
 
-The beekeeper's main summer tasks include monitoring colony health, managing for [pests and parasites](/entomology) (more on that shortly), ensuring adequate ventilation in hot weather, and deciding when the honey supers are full enough to harvest. A frame is ready when at least 80% of the cells are capped with beeswax — this means the bees have dried the honey to less than 18% moisture content, which prevents fermentation.
+The beekeeper's main summer tasks include monitoring colony health, managing for [pests and parasites](/entomology) (more on that shortly), ensuring adequate ventilation in hot weather, and deciding when the honey supers are full enough to harvest. A frame is ready when at least 80% of the cells are capped with beeswax — this means the bees have dried the honey to less than 18% moisture content, which prevents [fermentation](/fermentation).
 
 ### Fall: Preparing for Winter
 
@@ -137,7 +137,7 @@ Honey is the flagship product, but hives produce a surprising range of useful ma
 
 **Royal jelly** is a protein-rich secretion produced by nurse bees to feed young larvae and the queen. All larvae eat royal jelly for three days, but only future queens continue receiving it — and the dietary difference is what makes a queen develop differently from a worker. Royal jelly commands high prices in health food markets, especially in Asia, where it's valued as a tonic. One colony produces only about 500 grams per year under specialized management.
 
-**Pollen** collected by bees and packed into comb cells is sometimes harvested using pollen traps at the hive entrance. Bee pollen is sold as a dietary supplement and contains protein, vitamins, minerals, and fatty acids. Its nutritional value is real, though marketing claims often outpace the evidence.
+**Pollen** collected by bees and packed into comb cells is sometimes harvested using pollen traps at the hive entrance. Bee pollen is sold as a dietary supplement and contains protein, vitamins, minerals, and fatty acids. Its nutritional value is real, though [marketing](/marketing) claims often outpace the evidence.
 
 ## Getting Into Beekeeping Yourself
 
@@ -153,7 +153,7 @@ The learning curve is real but manageable. Expect to lose your first colony. Ser
 
 ## The Future of Apiculture
 
-Beekeeping is changing rapidly. Colony losses remain high, and the combination of Varroa mites, pesticide exposure (particularly neonicotinoids), habitat loss, poor nutrition from monoculture agriculture, and [climate change](/climate-change) has made keeping bees alive harder than it was a generation ago.
+Beekeeping is changing rapidly. Colony losses remain high, and the combination of Varroa mites, pesticide exposure (particularly neonicotinoids), habitat loss, poor [nutrition](/nutrition) from monoculture agriculture, and [climate change](/climate-change) has made keeping bees alive harder than it was a generation ago.
 
 But there's genuinely good news too. The number of managed colonies in the United States has actually increased from about 2.5 million in 2008 to over 2.7 million in recent years, partly because beekeepers are getting better at replacing lost colonies and partly because new beekeepers keep entering the field. Globally, hive numbers have grown by about 26% since 2000, driven largely by increases in Asia and Africa.
 

@@ -5,7 +5,7 @@ description: "Aircraft mechanics keeps planes flying safely through inspection, 
 category: technology
 tags: ["aircraft mechanics", "aviation", "amt", "a&p", "aviation maintenance", "aircraft repair", "faa"]
 heroImage: "/images/articles/aircraft-mechanics-hero.webp"
-heroAlt: "Aircraft mechanic inspecting a jet engine with tools and safety equipment"
+heroAlt: "Editorial photograph representing the concept of aircraft mechanics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ These mechanics inspect for corrosion, fatigue cracks, loose fasteners, hydrauli
 
 Powerplant mechanics specialize in engines — piston engines on smaller aircraft and turbine engines (turboprops, turbofans, turboshafts) on larger ones. Engine work is among the most technically demanding areas in aviation maintenance.
 
-A modern turbofan engine like the GE90, which powers the Boeing 777, produces up to 115,000 pounds of thrust. Inside that engine, turbine blades spin at over 10,000 RPM in temperatures exceeding 1,300 degrees Celsius. The tolerances are measured in thousandths of an inch. Powerplant mechanics need to understand thermodynamics, metallurgy, and fluid dynamics at a practical level — not just textbook theory.
+A modern turbofan engine like the GE90, which powers the Boeing 777, produces up to 115,000 pounds of thrust. Inside that engine, turbine blades spin at over 10,000 RPM in temperatures exceeding 1,300 degrees Celsius. The tolerances are measured in thousandths of an inch. Powerplant mechanics need to understand [thermodynamics](/thermodynamics), metallurgy, and [fluid dynamics](/fluid-dynamics) at a practical level — not just textbook theory.
 
 Engine maintenance ranges from routine tasks like oil changes and borescope inspections (using a tiny camera to look inside the engine without disassembly) to full overhauls where the engine is completely torn down, inspected, repaired, and reassembled. A single turbofan overhaul can take weeks and cost millions of dollars.
 
@@ -79,7 +79,7 @@ The path to becoming a certified aircraft mechanic in the U.S. is governed by 14
 
 Part 147 schools are FAA-approved Aviation Maintenance Technician Schools. The curriculum requires a minimum of 1,900 hours of instruction for a combined A&P program — 750 hours for general subjects, 750 for airframe, and 400 for powerplant. Most programs run 18 to 24 months.
 
-The training covers everything from basic physics and math to sheet metal work, welding, electrical systems, composite repair, turbine engines, and inspection procedures. You'll also learn the regulatory framework — how to read and interpret FAA airworthiness directives, service bulletins, and type certificate data sheets.
+The training covers everything from basic physics and math to [sheet metal work](/sheet-metal-work), welding, electrical systems, composite repair, turbine engines, and inspection procedures. You'll also learn the regulatory framework — how to read and interpret FAA airworthiness directives, service bulletins, and type certificate data sheets.
 
 After completing the program, graduates must pass three sets of FAA exams for each certificate (airframe and powerplant separately): a written knowledge test, an oral exam, and a practical (hands-on) exam. The practical tests are administered by FAA Designated Mechanic Examiners (DMEs) and can take an entire day each.
 
@@ -169,7 +169,7 @@ One area that doesn't get much attention but keeps mechanics plenty busy is the 
 
 This system maintains cabin pressure equivalent to about 6,000 to 8,000 feet altitude while the aircraft cruises at 35,000 to 43,000 feet. Pressurization failures can be dangerous — and the maintenance of pressure vessels, outflow valves, bleed air ducting, and pack valves is a significant part of the workload.
 
-The 787 changed this too, using electric compressors instead of engine bleed air — a fundamentally different architecture that requires different maintenance knowledge and tooling.
+The 787 changed this too, using electric compressors instead of engine bleed air — a fundamentally different [architecture](/architecture) that requires different maintenance knowledge and tooling.
 
 ## Digital Transformation and Predictive Maintenance
 
@@ -177,7 +177,7 @@ The aircraft maintenance world is shifting from scheduled maintenance to conditi
 
 Modern aircraft generate enormous amounts of sensor data. An Airbus A350 generates roughly 2.5 terabytes of data per day from thousands of sensors monitoring temperatures, pressures, vibrations, fluid levels, and component performance. [Machine learning](/machine-learning) algorithms analyze this data to identify patterns that precede failures.
 
-For example, vibration analysis on an engine bearing might show a subtle change in frequency spectrum weeks before the bearing would actually fail. Predictive maintenance catches this early, allowing the part to be replaced during scheduled downtime rather than causing an in-flight shutdown or cancellation.
+For example, [vibration analysis](/vibration-analysis) on an engine bearing might show a subtle change in frequency spectrum weeks before the bearing would actually fail. Predictive maintenance catches this early, allowing the part to be replaced during scheduled downtime rather than causing an in-flight shutdown or cancellation.
 
 Airlines are investing heavily in these systems. Delta Air Lines has reported that predictive maintenance has helped reduce technical cancellations. Lufthansa Technik uses digital twins — virtual replicas of physical aircraft — to simulate wear patterns and optimize maintenance schedules.
 
@@ -227,7 +227,7 @@ The Bureau of Labor Statistics reports a median annual wage of approximately $75
 
 ## The Human Factor
 
-Here's what most people miss about aircraft mechanics: the human element is as important as the technical one. Human factors — fatigue, distraction, complacency, communication failures — are implicated in a significant percentage of maintenance errors. The "Dirty Dozen" concept, developed by Gordon Dupont in 1993, identifies twelve common human factors that lead to maintenance mistakes: lack of communication, complacency, lack of knowledge, distraction, lack of teamwork, fatigue, lack of resources, pressure, lack of assertiveness, stress, lack of awareness, and norms.
+Here's what most people miss about aircraft mechanics: the human element is as important as the technical one. [Human factors](/human-factors) — fatigue, distraction, complacency, communication failures — are implicated in a significant percentage of maintenance errors. The "Dirty Dozen" concept, developed by Gordon Dupont in 1993, identifies twelve common human factors that lead to maintenance mistakes: lack of communication, complacency, lack of knowledge, distraction, lack of teamwork, fatigue, lack of resources, pressure, lack of assertiveness, stress, lack of awareness, and norms.
 
 Airlines invest heavily in human factors training. Mechanics learn to recognize when they're fatigued, to speak up when they spot something wrong — even if it means delaying a flight — and to use structured communication to prevent misunderstandings. The industry learned these lessons the hard way, through accidents that were traced not to mechanical failures but to maintenance errors rooted in human factors.
 

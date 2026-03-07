@@ -5,7 +5,7 @@ description: Hawaiian history spans over 1,000 years from Polynesian voyagers to
 category: history
 tags: ["hawaiian history", "hawaii", "polynesia", "hawaiian kingdom", "us history"]
 heroImage: "/images/articles/hawaiian-history.webp"
-heroAlt: "Hawaiian coastline with traditional outrigger canoe and volcanic mountains representing Polynesian heritage"
+heroAlt: "Editorial photograph representing the concept of hawaiian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,11 +47,11 @@ This wasn't a one-time deal, either. Evidence suggests regular two-way voyaging 
 
 ## Building a Civilization in Isolation
 
-Hawaiian society developed a complex political and social system called the *ahupua'a* — a land division that typically ran from mountaintop to ocean. Each *ahupua'a* was a self-sufficient economic unit. People living in the uplands grew taro and gathered forest products. Coastal residents fished and harvested salt. Resources flowed up and down the division, ensuring every community had access to what it needed. It was, frankly, an elegant system of resource management that many modern environmentalists admire.
+Hawaiian society developed a complex political and social system called the *ahupua'a* — a land division that typically ran from mountaintop to ocean. Each *ahupua'a* was a self-sufficient economic unit. People living in the uplands grew taro and gathered forest products. Coastal residents fished and harvested salt. Resources flowed up and down the division, ensuring every community had access to what it needed. It was, frankly, an elegant system of [resource management](/resource-management) that many modern environmentalists admire.
 
 The social hierarchy was rigid. At the top sat the *ali'i* (chiefs and royalty), who claimed descent from the gods. Below them were the *kahuna* (priests and expert practitioners), the *maka'ainana* (commoners who farmed and fished), and the *kauwa* (outcasts). The *kapu* system — a set of sacred prohibitions — regulated every aspect of life. Certain foods were forbidden to women. Commoners couldn't let their shadows fall on a chief. Violating *kapu* could mean death.
 
-The population grew substantially. Estimates for pre-contact Hawaiian population range from 300,000 to over 1,000,000 — scholars still debate the exact figure. What's clear is that Hawaiians built an advanced [agricultural](/agriculture) civilization. They constructed elaborate irrigation systems for taro cultivation, developed sophisticated fishpond aquaculture (over 400 fishponds existed by the time of European contact), and managed forests and watersheds with practices that sustained their population for centuries.
+The population grew substantially. Estimates for pre-contact Hawaiian population range from 300,000 to over 1,000,000 — scholars still debate the exact figure. What's clear is that Hawaiians built an advanced [agricultural](/agriculture) civilization. They constructed elaborate [irrigation](/irrigation) systems for taro cultivation, developed sophisticated fishpond [aquaculture](/aquaculture) (over 400 fishponds existed by the time of European contact), and managed forests and watersheds with practices that sustained their population for centuries.
 
 ## Captain Cook and the European Disruption
 
@@ -69,7 +69,7 @@ Kamehameha I exploited European weaponry and his own considerable military geniu
 
 The kingdom that Kamehameha built was remarkably sophisticated. His successors — Kamehameha II through V, followed by elected monarchs — established a written constitution (1840), a modern legal system, a legislature, diplomatic relations with major world powers, and a public education system. Hawaii was recognized as an independent sovereign nation by the United States, Great Britain, and France.
 
-Kamehameha III's government produced the *Mahele* of 1848 — a massive land redistribution that, while intended to protect Hawaiian interests, ultimately allowed foreigners to acquire vast tracts of land. This proved to be a turning point. American sugar planters accumulated enormous economic power, building plantations that demanded cheap labor and importing workers from China, Japan, Portugal, and the Philippines. The sugar industry reshaped Hawaii's demographics, economy, and politics permanently.
+Kamehameha III's [government](/government) produced the *Mahele* of 1848 — a massive land redistribution that, while intended to protect Hawaiian interests, ultimately allowed foreigners to acquire vast tracts of land. This proved to be a turning point. American sugar planters accumulated enormous economic power, building plantations that demanded cheap labor and importing workers from China, Japan, Portugal, and the Philippines. The sugar industry reshaped Hawaii's demographics, economy, and politics permanently.
 
 ## The Overthrow — America's Pacific Power Grab
 
@@ -83,9 +83,9 @@ That undoing never came. President Grover Cleveland actually investigated the ov
 
 As a U.S. territory, Hawaii became even more dominated by the "Big Five" — five corporations (Castle & Cooke, Alexander & Baldwin, C. Brewer, Amfac, and Theo H. Davies) that controlled sugar, shipping, banking, and politics. These companies essentially ran Hawaii as an oligarchy for decades.
 
-Pearl Harbor changed everything. The Japanese attack on December 7, 1941 killed 2,403 Americans and pulled the U.S. into World War II. Hawaii came under martial law for nearly three years. Japanese Americans in Hawaii — roughly 37% of the population — faced suspicion but were not mass-incarcerated as they were on the mainland, partly because the islands' economy would have collapsed without them.
+Pearl Harbor changed everything. The Japanese attack on December 7, 1941 killed 2,403 Americans and pulled the U.S. into [World War II](/world-war-ii). Hawaii came under martial law for nearly three years. Japanese Americans in Hawaii — roughly 37% of the population — faced suspicion but were not mass-incarcerated as they were on the mainland, partly because the islands' economy would have collapsed without them.
 
-After the war, returning veterans — particularly Japanese American soldiers from the famous 442nd Regimental Combat Team, the most decorated unit in U.S. military history — demanded political rights. They broke the Big Five's stranglehold through labor organizing and electoral politics. Hawaii became the 50th state on August 21, 1959, after a plebiscite where 94% of voters supported statehood.
+After the war, returning veterans — particularly Japanese American soldiers from the famous 442nd Regimental Combat Team, the most decorated unit in U.S. [military history](/military-history) — demanded political rights. They broke the Big Five's stranglehold through labor organizing and electoral politics. Hawaii became the 50th state on August 21, 1959, after a plebiscite where 94% of voters supported statehood.
 
 The statehood vote itself is contested. Critics point out that the ballot offered only two options — statehood or remaining a territory — and did not include independence. U.N. decolonization standards arguably required an independence option. Native Hawaiians, who opposed statehood at higher rates than other groups, found their voices drowned out by the larger non-Hawaiian population.
 
@@ -95,11 +95,11 @@ Starting in the 1970s, a cultural revival swept through Hawaii. The Hawaiian lan
 
 The 1976 voyage of the *Hokule'a* — a traditional double-hulled canoe that sailed to Tahiti using only Polynesian wayfinding techniques — became a powerful symbol of cultural pride. Navigator Nainoa Thompson proved that ancient Polynesian navigation was not myth but real, sophisticated science. The *Hokule'a* has since sailed around the world.
 
-Land rights activism intensified. Native Hawaiians pushed back against military use of sacred sites like Kaho'olawe (used as a bombing target until 1990) and the construction of telescopes on Mauna Kea, which many Hawaiians consider the most sacred mountain in the islands. The 2019 protests against the Thirty Meter Telescope drew international attention and became a focal point for broader sovereignty discussions.
+Land rights activism intensified. Native Hawaiians pushed back against military use of sacred sites like Kaho'olawe (used as a bombing target until 1990) and the [construction](/construction) of telescopes on Mauna Kea, which many Hawaiians consider the most sacred mountain in the islands. The 2019 protests against the Thirty Meter Telescope drew international attention and became a focal point for broader sovereignty discussions.
 
 ## Why Hawaiian History Matters Beyond Hawaii
 
-Hawaiian history isn't a regional footnote. It's a case study in how colonialism, capitalism, and military strategy reshaped indigenous societies across the Pacific. The patterns — disease, land dispossession, cultural suppression, demographic displacement — repeated throughout Polynesia, Melanesia, and Micronesia.
+Hawaiian history isn't a regional footnote. It's a case study in how colonialism, [capitalism](/capitalism), and [military strategy](/military-strategy) reshaped indigenous societies across the Pacific. The patterns — disease, land dispossession, cultural suppression, demographic displacement — repeated throughout Polynesia, Melanesia, and Micronesia.
 
 It's also a story of resilience. Despite losing their kingdom, their language, and much of their land, Native Hawaiians have sustained and revived cultural practices that many colonial powers tried to eradicate. The sovereignty movement remains active. The language is growing. Traditional navigation has been reclaimed.
 

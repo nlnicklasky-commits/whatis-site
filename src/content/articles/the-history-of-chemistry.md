@@ -5,7 +5,7 @@ description: "The history of chemistry stretches from ancient alchemy to modern 
 category: history
 tags: ["history of chemistry", "chemistry", "alchemy", "atomic theory", "periodic table"]
 heroImage: "/images/articles/the-history-of-chemistry.webp"
-heroAlt: "Vintage chemistry laboratory with glass flasks, a periodic table, and alchemical manuscripts"
+heroAlt: "Editorial photograph representing the concept of the history of chemistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is The History of Chemistry?
 
-The history of chemistry is the story of how humans went from mystified observers of fire, rust, and fermentation to people who can manipulate individual atoms. It spans roughly 4,000 years, and frankly, it's wilder than most people expect — full of explosions, fraud, accidental genius, and at least one beheading.
+The history of chemistry is the story of how humans went from mystified observers of fire, rust, and [fermentation](/fermentation) to people who can manipulate individual atoms. It spans roughly 4,000 years, and frankly, it's wilder than most people expect — full of explosions, fraud, accidental genius, and at least one beheading.
 
 ## Fire, Dyes, and Ancient Tinkering
 
@@ -62,7 +62,7 @@ The goals of Western alchemy were ambitious, to put it mildly:
 
 None of these goals were achieved. Obviously. But the pursuit generated an enormous amount of practical knowledge.
 
-Islamic alchemists between the 8th and 13th centuries made particularly significant contributions. Jabir ibn Hayyan (known in Europe as Geber) developed techniques for distillation, crystallization, and filtration that are still used today. Al-Razi (Rhazes) classified substances into categories — spirits, metals, stones, salts, and others — creating an early organizational framework. They discovered hydrochloric acid, nitric acid, and aqua regia (the mixture that dissolves gold).
+Islamic alchemists between the 8th and 13th centuries made particularly significant contributions. Jabir ibn Hayyan (known in Europe as Geber) developed techniques for [distillation](/distillation), crystallization, and filtration that are still used today. Al-Razi (Rhazes) classified substances into categories — spirits, metals, stones, salts, and others — creating an early organizational framework. They discovered hydrochloric acid, nitric acid, and aqua regia (the mixture that dissolves gold).
 
 In Europe, alchemy attracted some of the finest minds of the medieval and Renaissance periods. Roger Bacon, Albertus Magnus, and even Isaac Newton — who spent more time on alchemy than on physics — all practiced it. Newton's alchemical manuscripts, kept secret during his lifetime, run to over a million words.
 
@@ -117,19 +117,19 @@ The 20th century brought discoveries that would have seemed like alchemy to earl
 
 **Radioactivity**, discovered by Henri Becquerel in 1896 and studied extensively by Marie and Pierre Curie, revealed that atoms weren't indivisible after all. Marie Curie isolated two new elements — polonium and radium — and became the first person to win Nobel Prizes in two different sciences (Physics in 1903, Chemistry in 1911).
 
-**Quantum mechanics** in the 1920s and 1930s explained why the periodic table works the way it does. Electron orbitals, energy levels, and bonding theory finally gave a deep explanation for chemical behavior. Linus Pauling's *The Nature of the Chemical Bond* (1939) became one of the most influential chemistry books ever written.
+**[Quantum mechanics](/quantum-mechanics)** in the 1920s and 1930s explained why the periodic table works the way it does. Electron orbitals, energy levels, and bonding theory finally gave a deep explanation for chemical behavior. Linus Pauling's *The Nature of the Chemical Bond* (1939) became one of the most influential chemistry books ever written.
 
 **Nuclear transmutation** — actually changing one element into another — was achieved by Ernest Rutherford in 1919 when he converted nitrogen into oxygen by bombarding it with alpha particles. The alchemists' dream of transmutation was real. It just required a particle accelerator instead of a philosopher's stone.
 
 **Polymer chemistry** gave us plastics, nylon, and synthetic rubber. Wallace Carothers at DuPont created nylon in 1935, launching an industry that now produces over 380 million tons of plastic annually.
 
-**Biochemistry** revealed the molecular basis of life. Watson and Crick's discovery of DNA's double helix structure in 1953 — built on X-ray crystallography work by Rosalind Franklin — opened the door to molecular biology and eventually the Human Genome Project.
+**[Biochemistry](/biochemistry)** revealed the molecular basis of life. Watson and Crick's discovery of DNA's double helix structure in 1953 — built on X-ray [crystallography](/crystallography) work by Rosalind Franklin — opened the door to [molecular biology](/molecular-biology) and eventually the Human Genome Project.
 
 ## Where Chemistry Stands Now
 
-Modern chemistry operates at scales and speeds that earlier practitioners couldn't have imagined. Computational chemistry models molecular behavior on supercomputers. Green chemistry seeks to reduce hazardous waste and design safer processes. Nanotechnology manipulates matter at the atomic level. CRISPR gene editing allows precise modification of DNA sequences.
+Modern chemistry operates at scales and speeds that earlier practitioners couldn't have imagined. Computational chemistry models molecular behavior on supercomputers. Green chemistry seeks to reduce hazardous waste and design safer processes. [Nanotechnology](/nanotechnology) manipulates matter at the atomic level. CRISPR gene editing allows precise modification of DNA sequences.
 
-The discipline has also become deeply interconnected with other fields — materials science, pharmacology, environmental science, food science. The boundaries between chemistry and its neighboring sciences have blurred almost to the point of disappearing.
+The discipline has also become deeply interconnected with other fields — [materials science](/materials-science), pharmacology, [environmental science](/environmental-science), [food science](/food-science). The boundaries between chemistry and its neighboring sciences have blurred almost to the point of disappearing.
 
 But the core question hasn't changed much since those ancient Egyptians heated copper ore and watched metal appear. What is stuff made of? How does it change? And what can we make it do?
 

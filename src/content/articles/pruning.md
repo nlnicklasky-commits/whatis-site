@@ -5,7 +5,7 @@ description: "Pruning is the selective removal of plant parts to improve health,
 category: everyday-concepts
 tags: ["pruning", "horticulture", "gardening", "arboriculture", "plant care", "tree pruning"]
 heroImage: "/images/articles/pruning.webp"
-heroAlt: "Gardener using pruning shears to trim branches on a fruit tree"
+heroAlt: "Editorial photograph representing the concept of pruning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pruning?
 
-Pruning is the deliberate removal of specific parts of a plant — branches, buds, roots, or dead material — to improve the plant's health, structure, appearance, or productivity. It's one of the most important horticultural practices, and also one of the most commonly done wrong. Bad pruning can damage or kill plants that would have been perfectly fine left alone.
+Pruning is the deliberate removal of specific parts of a plant — branches, buds, roots, or dead material — to improve the plant's health, structure, appearance, or [productivity](/productivity). It's one of the most important horticultural practices, and also one of the most commonly done wrong. Bad pruning can damage or kill plants that would have been perfectly fine left alone.
 
 ## Why Prune at All
 
@@ -45,7 +45,7 @@ Plants grow on their own. They've been doing it for hundreds of millions of year
 
 **Productivity.** Fruit trees and flowering shrubs produce better when pruned correctly. Removing excess branches allows more light and air to reach the interior, encouraging fruit development and reducing disease pressure. An unpruned apple tree produces more but smaller, lower-quality fruit; a properly pruned one produces fewer but larger, better apples.
 
-**Aesthetics.** Hedges, topiaries, and formal gardens require regular pruning to maintain their shape. Even informal gardens benefit from selective pruning to manage size, maintain views, and keep plants in proportion.
+**[Aesthetics](/aesthetics).** Hedges, topiaries, and formal gardens require regular pruning to maintain their shape. Even informal gardens benefit from selective pruning to manage size, maintain views, and keep plants in proportion.
 
 ## The Basic Principles
 
@@ -60,7 +60,7 @@ Plants grow on their own. They've been doing it for hundreds of millions of year
 
 **Thin, don't shear.** Thinning cuts remove entire branches at their point of origin, maintaining natural form and allowing light into the interior. Heading cuts (shearing) cut branches partway, stimulating dense growth at the cut point. Shearing is appropriate for formal hedges. For most trees and shrubs, thinning is far better.
 
-## Tools of the Trade
+## Tools of the [Trade](/trade)
 
 **Hand pruners** (secateurs) handle branches up to about 3/4 inch diameter. Bypass pruners (scissor-action) make cleaner cuts than anvil pruners (which can crush stems). This is your most-used tool.
 

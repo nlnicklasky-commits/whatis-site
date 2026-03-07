@@ -5,7 +5,7 @@ description: "Lithography is a printing technique based on the repulsion of oil 
 category: arts-amp-culture
 tags: ["lithography", "printmaking", "printing", "art", "graphics", "Alois Senefelder"]
 heroImage: "/images/articles/lithography.webp"
-heroAlt: "Artist applying ink to a lithographic stone in a printmaking studio"
+heroAlt: "Editorial photograph representing the concept of lithography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Lithography?
 
-Lithography is a printing method invented in 1796 that works on a beautifully simple principle: oil and water repel each other. You draw an image on a flat surface using greasy materials, wet the surface with water, then roll oily ink over it. The ink sticks to the greasy drawing and is repelled by the wet areas. Press paper against it, and the image transfers. No carving. No etching. Just chemistry.
+Lithography is a printing method invented in 1796 that works on a beautifully simple principle: oil and water repel each other. You draw an image on a flat surface using greasy materials, wet the surface with water, then roll oily ink over it. The ink sticks to the greasy [drawing](/drawing) and is repelled by the wet areas. Press paper against it, and the image transfers. No carving. No etching. Just [chemistry](/chemistry).
 
-It was a genuine breakthrough — the first fundamentally new printing technology since Gutenberg's movable type 350 years earlier. And it's still in use today, both as a fine art medium and (in its mechanized form) as the world's most common commercial printing process.
+It was a genuine breakthrough — the first fundamentally new printing technology since Gutenberg's movable type 350 years earlier. And it's still in use today, both as a [fine art](/fine-art) medium and (in its mechanized form) as the world's most common commercial printing process.
 
-## The Invention
+## The [Invention](/invention)
 
-Alois Senefelder, a Bavarian playwright, invented lithography in 1796 more or less by accident. He was looking for a cheap way to print his plays and couldn't afford copper plates for engraving. While experimenting with Bavarian limestone (a particularly fine-grained variety), he discovered that he could write on the stone with greasy crayon, wet the stone, and apply ink that would stick only to his writing.
+Alois Senefelder, a Bavarian playwright, invented lithography in 1796 more or less by accident. He was looking for a cheap way to print his plays and couldn't afford copper plates for [engraving](/engraving). While experimenting with Bavarian limestone (a particularly fine-grained variety), he discovered that he could write on the stone with greasy crayon, wet the stone, and apply ink that would stick only to his [writing](/writing).
 
 Senefelder spent several years refining the process and patented it in 1799. He recognized its commercial potential immediately, writing a detailed technical manual that spread the technique across Europe within a decade.
 
@@ -47,7 +47,7 @@ The key insight was using the stone's surface chemistry rather than its physical
 
 The traditional process uses Bavarian limestone, though aluminum plates are now more common. Here's the sequence:
 
-**Drawing.** The artist draws directly on the stone or plate using greasy materials — lithographic crayons, tusche (a liquid greasy ink), or special pencils. The drawing can be as detailed as a pencil sketch or as bold as a brush painting. This freedom is lithography's biggest artistic advantage — you draw naturally, without the constraints of carving or etching.
+**Drawing.** The artist draws directly on the stone or plate using greasy materials — lithographic crayons, tusche (a liquid greasy ink), or special pencils. The drawing can be as detailed as a pencil sketch or as bold as a brush [painting](/painting). This freedom is lithography's biggest artistic advantage — you draw naturally, without the constraints of carving or etching.
 
 **Processing.** The stone is treated with a chemical solution (typically gum arabic and nitric acid) that locks the greasy image into the stone's surface and makes the blank areas more water-receptive. This step is called "etching," though nothing is physically etched — it's purely chemical.
 
@@ -61,13 +61,13 @@ Artists figured out lithography's potential almost immediately. By the 1820s, ma
 
 Some landmark moments:
 
-**Honore Daumier** (1808-1879) produced over 4,000 lithographs, mostly political cartoons for Parisian newspapers. His caricatures of politicians and social types are brutally funny and technically brilliant.
+**Honore Daumier** (1808-1879) produced over 4,000 lithographs, mostly [political cartoons](/political-cartoons) for Parisian newspapers. His caricatures of politicians and social types are brutally funny and technically brilliant.
 
 **Henri de Toulouse-Lautrec** (1864-1901) elevated the color lithographic poster to high art. His images of Parisian nightlife — the Moulin Rouge, can-can dancers, cabarets — are among the most recognizable artworks of the 19th century.
 
 **Edvard Munch** created haunting lithographic versions of his paintings, including a striking lithograph of *The Scream*.
 
-In the 20th century, Picasso, Miro, Chagall, Jasper Johns, and Robert Rauschenberg all produced significant lithographic work. The Tamarind Institute (founded 1960) and Universal Limited Art Editions (ULAE) became important centers for collaborative printmaking, where artists worked with master printers to push the medium's boundaries.
+In the 20th century, Picasso, Miro, Chagall, Jasper Johns, and Robert Rauschenberg all produced significant lithographic work. The Tamarind Institute (founded 1960) and Universal Limited Art Editions (ULAE) became important centers for collaborative [printmaking](/printmaking), where artists worked with master printers to push the medium's boundaries.
 
 ## Color Lithography
 
@@ -83,7 +83,7 @@ This "offset" principle became the foundation of modern commercial printing. Off
 
 When you pick up a printed brochure or newspaper, you're almost certainly looking at offset lithography. It dominates commercial printing because it produces high-quality images at high speed and relatively low cost for large runs.
 
-## Photolithography (Semiconductor Manufacturing)
+## [Photolithography](/photolithography) (Semiconductor Manufacturing)
 
 The word "lithography" shows up in an entirely different context: semiconductor manufacturing. Photolithography uses light to transfer circuit patterns onto silicon wafers during microchip production. The principle is conceptually similar — using chemical differences on a flat surface to create patterns — but the technology is orders of magnitude more precise.
 

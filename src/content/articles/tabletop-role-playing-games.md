@@ -5,7 +5,7 @@ description: "Tabletop RPGs are games where players create characters and tell s
 category: everyday-concepts
 tags: ["tabletop role playing games", "RPG", "Dungeons and Dragons", "gaming", "storytelling", "dice"]
 heroImage: "/images/articles/tabletop-role-playing-games.webp"
-heroAlt: "A tabletop with dice, character sheets, and miniature figures for an RPG session"
+heroAlt: "Editorial photograph representing the concept of tabletop role-playing games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ That description makes it sound orderly. In practice, a typical session involves
 
 ## How It Actually Works
 
-Imagine you're sitting at a table with four friends. The GM says: "You're standing at the entrance to an ancient tomb. The stone doors are carved with warnings in a language you don't recognize. From inside, you hear a low, rhythmic drumming. What do you do?"
+Imagine you're sitting at a table with four friends. The GM says: "You're standing at the entrance to an ancient tomb. The stone doors are carved with warnings in a language you don't recognize. From inside, you hear a low, rhythmic [drumming](/drumming). What do you do?"
 
 And that's the question that drives everything in a tabletop RPG: *What do you do?*
 
@@ -47,13 +47,13 @@ The GM describes the consequences of your actions, and the story continues. Ther
 
 ## The Original: Dungeons & Dragons
 
-Dungeons & Dragons (D&D), created by Gary Gygax and Dave Arneson in 1974, launched the entire genre. It combined elements of wargaming (strategic tabletop battles with miniatures), fantasy literature (Tolkien, Howard, Leiber), and improvisational storytelling into something genuinely new.
+Dungeons & Dragons (D&D), created by Gary Gygax and Dave Arneson in 1974, launched the entire genre. It combined elements of [wargaming](/wargaming) (strategic tabletop battles with miniatures), [fantasy literature](/fantasy-literature) (Tolkien, Howard, Leiber), and improvisational storytelling into something genuinely new.
 
 The game was initially niche — played by small groups in basements and college dorm rooms. It became controversial in the 1980s during the "Satanic Panic," when uninformed critics claimed it promoted occultism (it doesn't). But it survived and eventually thrived.
 
 D&D's current edition (5th Edition, released in 2014) sparked a massive resurgence. The show *Critical Role* — professional voice actors playing D&D on a livestream — drew millions of viewers and demonstrated the entertainment value of watching other people play. The pandemic pushed even more people toward tabletop RPGs as a social activity that could be done remotely.
 
-D&D's publisher, Wizards of the Coast (owned by Hasbro), reported that over 50 million people have played D&D, with record sales year after year.
+D&D's publisher, Wizards of the Coast (owned by Hasbro), reported that over 50 million people have played D&D, with record [sales](/sales) year after year.
 
 ## Beyond D&D
 
@@ -90,4 +90,4 @@ The stories that emerge from play are often better than anything the GM or playe
 
 The easiest entry point is finding an existing group — many game stores host open tables, and online communities (r/lfg on Reddit, various Discord servers) connect players. Many RPGs offer free "quickstart" rules to try before buying the full game.
 
-You don't need acting skills, improv experience, or encyclopedic rules knowledge. You need willingness to imagine, willingness to collaborate, and willingness to occasionally look silly. The rest comes with practice.
+You don't need [acting](/acting) skills, improv experience, or encyclopedic rules knowledge. You need willingness to imagine, willingness to collaborate, and willingness to occasionally look silly. The rest comes with practice.

@@ -5,7 +5,7 @@ description: "Quarrying extracts stone, sand, and gravel from the earth for cons
 category: technology
 tags: ["quarrying", "mining", "stone", "construction materials", "geology", "aggregates", "extraction"]
 heroImage: "/images/articles/quarrying-hero.webp"
-heroAlt: "Aerial view of a large limestone quarry with terraced levels and heavy machinery"
+heroAlt: "Editorial photograph representing the concept of quarrying"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Quarrying?
 
-Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface excavations called quarries. Unlike underground [mining](/mining-engineering), quarrying works from the surface downward, removing material in benches or terraces to access rock deposits. The extracted material is then processed -- crushed, screened, washed, and sized -- into products used in construction, infrastructure, and industry.
+Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface excavations called quarries. Unlike underground [mining](/mining-[engineering](/engineering)), quarrying works from the surface downward, removing material in benches or terraces to access rock deposits. The extracted material is then processed -- crushed, screened, washed, and sized -- into products used in [construction](/construction), infrastructure, and industry.
 
 You probably don't think about quarrying very often. But consider this: nearly every building you've ever entered, every road you've driven on, every bridge you've crossed, and every sidewalk you've walked on contains materials that came from a quarry. The average American home requires about 400 tons of aggregate and stone products. A single mile of highway uses roughly 38,000 tons. Globally, the quarrying industry produces over 40 billion tons of material annually -- more by weight than any other extractive industry on Earth.
 
@@ -55,7 +55,7 @@ The Romans were history's most prolific quarriers. They quarried marble from Car
 
 For thousands of years, quarrying was done by hand: pickaxes, wedges, hammers, and human muscle. The Industrial Revolution transformed the industry completely.
 
-Gunpowder was introduced to quarrying in the 17th century, allowing much larger volumes of rock to be broken at once. Steam-powered cranes and rail systems followed in the 19th century. Alfred Nobel's invention of dynamite in 1867 made blasting far safer and more controllable.
+Gunpowder was introduced to quarrying in the 17th century, allowing much larger volumes of rock to be broken at once. Steam-powered cranes and rail systems followed in the 19th century. Alfred Nobel's [invention](/invention) of dynamite in 1867 made blasting far safer and more controllable.
 
 By the 20th century, diesel-powered excavators, hydraulic drills, and massive haul trucks turned quarries into industrial operations capable of producing millions of tons per year. Today, GPS-guided drilling, computerized blast design, and automated processing plants represent the state of the art.
 
@@ -152,7 +152,7 @@ Quarry products must meet strict specifications. Road aggregate standards (like 
 
 On-site laboratories test samples throughout the production process. Non-conforming material is recycled through the crushers or diverted to less demanding applications.
 
-## The Economics of Quarrying
+## The [Economics](/economics) of Quarrying
 
 Quarrying is a massive global industry. Some numbers to put it in perspective:
 
@@ -165,7 +165,7 @@ Quarrying is also intensely local. Aggregate is heavy and cheap per ton, so tran
 
 This tension between the need for locally sourced aggregate and community resistance to quarrying is one of the industry's defining challenges. Every road, building, and bridge needs aggregate, but no one wants to live near the quarry that produces it.
 
-## Environmental Impact and Management
+## Environmental Impact and [Management](/management)
 
 Quarrying has real environmental impacts. Here's an honest assessment:
 
@@ -201,7 +201,7 @@ Modern dust suppression includes:
 
 ### Water
 
-Quarries can affect local water tables by intercepting groundwater flow or by direct pumping to keep the excavation dry. Water management plans are typically required, including:
+Quarries can affect local water tables by intercepting groundwater flow or by direct pumping to keep the excavation dry. [Water management](/water-management) plans are typically required, including:
 
 - Monitoring boreholes around the quarry
 - Settlement ponds to capture sediment before discharge
@@ -212,7 +212,7 @@ Some quarries actually improve local water management by acting as temporary flo
 
 ### Carbon Footprint
 
-Quarrying contributes to carbon emissions through diesel fuel consumption (drilling, loading, hauling), electricity for processing, and explosives (which release CO2 when detonated). However, aggregate production has a relatively low carbon footprint per ton compared to other [materials](/materials-science) -- about 4-6 kg CO2 per ton of crushed stone, compared to roughly 900 kg CO2 per ton of cement or 1,800 kg CO2 per ton of steel.
+Quarrying contributes to carbon emissions through diesel fuel consumption (drilling, loading, hauling), [electricity](/electricity) for processing, and explosives (which release CO2 when detonated). However, aggregate production has a relatively low carbon footprint per ton compared to other [materials](/materials-science) -- about 4-6 kg CO2 per ton of crushed stone, compared to roughly 900 kg CO2 per ton of cement or 1,800 kg CO2 per ton of steel.
 
 The industry is reducing its footprint through electrification of processing plants (solar-powered conveyors, electric-powered crushers), more fuel-efficient vehicles, and optimized blast designs that reduce the energy needed for subsequent crushing.
 

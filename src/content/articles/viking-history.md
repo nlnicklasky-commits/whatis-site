@@ -5,7 +5,7 @@ description: "Viking history covers the Norse seafarers who raided, traded, and 
 category: history
 tags: ["viking history", "norse", "scandinavia", "medieval history"]
 heroImage: "/images/articles/viking-history.webp"
-heroAlt: "A Viking longship cutting through cold North Atlantic waves under grey skies"
+heroAlt: "Editorial photograph representing the concept of viking history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,19 +35,19 @@ faq:
 
 Viking history is the story of the Norse seafarers from Scandinavia who, between roughly 793 and 1066 CE, raided, traded, explored, and settled across a staggering expanse of the world — from Baghdad to Newfoundland, from the Arctic Circle to the Mediterranean.
 
-But here's what most people get wrong about Vikings: they weren't just raiders. The popular image of bloodthirsty warriors in horned helmets (the helmets were never horned, by the way) captures maybe 10% of the picture. Vikings were also farmers, poets, lawmakers, traders, and explorers who built one of the most sophisticated shipbuilding traditions in human history.
+But here's what most people get wrong about Vikings: they weren't just raiders. The popular image of bloodthirsty warriors in horned helmets (the helmets were never horned, by the way) captures maybe 10% of the picture. Vikings were also farmers, poets, lawmakers, traders, and explorers who built one of the most sophisticated [shipbuilding](/shipbuilding) traditions in human history.
 
 ## Where "Viking" Actually Comes From
 
 The word "Viking" is itself a bit of a mystery. The Old Norse term *víkingr* probably referred to someone who went on an overseas expedition — essentially, a pirate or raider. But not every Norse person was a Viking. Most Scandinavians during this period were ordinary farmers and craftspeople who never boarded a longship for a raid.
 
-The people we call Vikings came from three modern countries: Denmark, Norway, and Sweden. Geography shaped their different ambitions. Danish Vikings tended to raid and settle in England and France. Norwegian Vikings headed west — to Scotland, Ireland, Iceland, Greenland, and eventually North America. Swedish Vikings (often called Varangians) traveled east along Russia's rivers, reaching Constantinople and even Baghdad.
+The people we call Vikings came from three modern countries: Denmark, Norway, and Sweden. [Geography](/geography) shaped their different ambitions. Danish Vikings tended to raid and settle in England and France. Norwegian Vikings headed west — to Scotland, Ireland, Iceland, Greenland, and eventually North America. Swedish Vikings (often called Varangians) traveled east along Russia's rivers, reaching Constantinople and even Baghdad.
 
-What they shared was a language (Old Norse), a religious framework (Norse mythology, with Odin, Thor, and Freya), and — critically — extraordinary skill with boats.
+What they shared was a language (Old Norse), a religious framework ([Norse mythology](/norse-mythology), with Odin, Thor, and Freya), and — critically — extraordinary skill with boats.
 
 ## The Longship Changed Everything
 
-You can't understand Viking expansion without understanding their ships. The longship was, frankly, an engineering marvel. Clinker-built with overlapping planks, these vessels were light enough to be carried overland between rivers, shallow-drafted enough to sail up almost any waterway, and seaworthy enough to cross the open North Atlantic.
+You can't understand Viking expansion without understanding their ships. The longship was, frankly, an [engineering](/engineering) marvel. Clinker-built with overlapping planks, these vessels were light enough to be carried overland between rivers, shallow-drafted enough to sail up almost any waterway, and seaworthy enough to cross the open North Atlantic.
 
 A typical longship measured 20 to 30 meters long, carried 60 to 100 warriors, and could hit speeds of 15 knots under sail. The keel — a single piece of oak sometimes over 17 meters long — gave the hull its strength while allowing flex in heavy seas. That flex was the secret. Unlike rigid Mediterranean ships, a longship could twist and bend with the waves instead of fighting them.
 
@@ -67,7 +67,7 @@ The raids escalated quickly. By the mid-800s, Vikings were no longer just hit-an
 
 In 865 CE, the Great Heathen Army — a massive Viking force — invaded England and systematically conquered the Anglo-Saxon kingdoms of Northumbria, East Anglia, and Mercia. Only Wessex, under King Alfred the Great, held out.
 
-Alfred's resistance led to the Treaty of Wedmore in 878 CE, which divided England roughly in half. The eastern portion — the Danelaw — came under Norse control. Vikings didn't just rule there; they settled, farmed, married locals, and left permanent marks on the English language. Words like "sky," "egg," "window," "knife," "husband," and "they" all come from Old Norse. If you live in a town ending in -by (Whitby, Derby), -thorpe (Cleethorpes), or -thwaite (Braithwaite), you're living in a place that was named by Scandinavian settlers.
+Alfred's resistance led to the Treaty of Wedmore in 878 CE, which divided England roughly in half. The eastern portion — the Danelaw — came under Norse control. Vikings didn't just rule there; they settled, farmed, married locals, and left permanent marks on the [English language](/english-language). Words like "sky," "egg," "window," "knife," "husband," and "they" all come from Old Norse. If you live in a town ending in -by (Whitby, Derby), -thorpe (Cleethorpes), or -thwaite (Braithwaite), you're living in a place that was named by Scandinavian settlers.
 
 Meanwhile, in France, a Viking leader named Rollo besieged Paris and was eventually granted a territory by the French king in 911 CE. That territory became Normandy — literally "land of the Northmen." Rollo's descendants would become French-speaking dukes, and one of them — William the Conqueror — would invade England in 1066, which is often cited as the end of the Viking Age.
 
@@ -75,11 +75,11 @@ Meanwhile, in France, a Viking leader named Rollo besieged Paris and was eventua
 
 Norwegian Vikings didn't just raid. They colonized. Iceland was settled beginning around 870 CE, and by 930, the population had reached roughly 30,000 — mostly Norse farmers and their Irish slaves and wives. The Icelanders established the Althing in 930, one of the world's oldest parliamentary institutions.
 
-From Iceland, Erik the Red — exiled for murder, which tells you something about the culture — sailed west and discovered Greenland around 982 CE. He named it "Greenland" as a marketing ploy to attract settlers. It worked. Two Norse colonies survived there for over 400 years before disappearing in the 15th century, likely due to climate change and isolation.
+From Iceland, Erik the Red — exiled for murder, which tells you something about the culture — sailed west and discovered Greenland around 982 CE. He named it "Greenland" as a [marketing](/marketing) ploy to attract settlers. It worked. Two Norse colonies survived there for over 400 years before disappearing in the 15th century, likely due to climate change and isolation.
 
 Erik's son, Leif Erikson, pushed even further west around 1000 CE and reached a place he called Vinland. In 1960, archaeologists Helge and Anne Stine Ingstad confirmed what the Norse sagas had claimed: they found a Norse settlement at L'Anse aux Meadows in Newfoundland, Canada. This was the first proven European presence in the Americas — nearly 500 years before Columbus.
 
-A 2021 study using radiocarbon dating of wood cut with metal tools (which Indigenous people didn't have) pinpointed the Norse presence at L'Anse aux Meadows to exactly 1021 CE.
+A 2021 study using [radiocarbon dating](/radiocarbon-dating) of wood cut with metal tools (which Indigenous people didn't have) pinpointed the Norse presence at L'Anse aux Meadows to exactly 1021 CE.
 
 ## The Eastern Route: Varangians in Russia
 
@@ -99,9 +99,9 @@ The legal system centered on the *Thing* — an assembly where free men gathered
 
 ## Religion: From Odin to Christ
 
-Norse religion was polytheistic, with a rich mythology that has proven remarkably durable in popular culture. Odin, the one-eyed All-Father, valued wisdom and poetry. Thor, with his hammer Mjölnir, protected humanity from giants. Freya governed love, fertility, and also death — she claimed half the fallen warriors, with Odin taking the other half for Valhalla.
+Norse religion was polytheistic, with a rich mythology that has proven remarkably durable in [popular culture](/popular-culture). Odin, the one-eyed All-Father, valued wisdom and [poetry](/poetry). Thor, with his hammer Mjölnir, protected humanity from giants. Freya governed love, fertility, and also death — she claimed half the fallen warriors, with Odin taking the other half for Valhalla.
 
-The conversion to Christianity happened gradually, roughly between 960 and 1100 CE. Denmark's Harald Bluetooth (yes, the wireless technology is named after him) was baptized around 965 CE. Norway's conversion was more violent — King Olaf Tryggvason and later Olaf II used force. Iceland converted by parliamentary vote in 1000 CE, in a remarkably pragmatic decision meant to prevent civil war.
+The conversion to [Christianity](/christianity) happened gradually, roughly between 960 and 1100 CE. Denmark's Harald Bluetooth (yes, the wireless technology is named after him) was baptized around 965 CE. Norway's conversion was more violent — King Olaf Tryggvason and later Olaf II used force. Iceland converted by parliamentary vote in 1000 CE, in a remarkably pragmatic decision meant to prevent civil war.
 
 The transition wasn't clean. Archaeological evidence shows that many Norse people hedged their bets, wearing both Thor's hammer and Christian cross pendants simultaneously.
 

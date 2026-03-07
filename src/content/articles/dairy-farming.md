@@ -5,7 +5,7 @@ description: "Dairy farming is the agricultural practice of raising cows for mil
 category: agriculture
 tags: ["dairy farming", "agriculture"]
 heroImage: "/images/articles/dairy-farming.webp"
-heroAlt: "Holstein dairy cows grazing in a green pasture with a red barn in the background"
+heroAlt: "Editorial photograph representing the concept of dairy farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Profitability varies enormously by size, location, and milk prices. Milk prices fluctuate significantly — the U.S. average has ranged from under 15 dollars to over 25 dollars per hundredweight in recent years. Small farms (under 100 cows) often struggle with thin or negative margins. Larger operations benefit from economies of scale. Many dairy farmers supplement income through direct sales, agritourism, or crop farming."
 ---
 
-# What Is Dairy Farming?
+# What Is Dairy [Farming](/farming)?
 
 Dairy farming is the branch of [agriculture](/agriculture) dedicated to raising cattle primarily for milk production. The milk is either sold as fluid milk or processed into cheese, butter, yogurt, ice cream, and other dairy products. It's one of the world's oldest agricultural practices — humans have been milking domesticated animals for at least 8,000 years — and it remains a massive global industry producing roughly 930 million metric tons of milk annually.
 
@@ -39,7 +39,7 @@ The daily rhythm of a dairy farm revolves around milking — typically twice or 
 
 Modern milking happens in a milking parlor, where multiple cows are milked simultaneously. Workers (or robotic systems) attach vacuum-powered teat cups to each cow's udder, and milk flows through sealed stainless steel pipelines to a refrigerated bulk tank. The process takes about 5-8 minutes per cow.
 
-Between milkings, cows eat. A lot. A lactating dairy cow consumes roughly 100 pounds of feed daily — a mix of hay, silage (fermented corn or grass), grain, protein supplements, and minerals. Feed represents the single largest cost in dairy farming, accounting for 50-60% of total expenses.
+Between milkings, cows eat. A lot. A lactating dairy cow consumes roughly 100 pounds of feed daily — a mix of hay, silage (fermented corn or grass), grain, protein supplements, and minerals. Feed represents the single largest cost in dairy farming, [accounting](/accounting) for 50-60% of total expenses.
 
 Cows begin producing milk after giving birth to a calf. They're typically bred again about 60-90 days after calving, so they're simultaneously pregnant and producing milk for most of their lactation cycle. A standard lactation lasts about 305 days, followed by a 60-day "dry period" before the next calf arrives.
 
@@ -69,20 +69,20 @@ Raw milk from the farm goes through several processing steps before reaching con
 
 **Standardization** adjusts fat content to specific percentages — whole milk (3.25% fat), 2%, 1%, or skim (less than 0.5%). The removed cream goes to butter, ice cream, and other products.
 
-## The Environmental Debate
+## The Environmental [Debate](/debate)
 
-Dairy farming faces significant environmental scrutiny. Cattle produce methane — a potent greenhouse gas — through enteric fermentation (digestion). A single dairy cow produces roughly 220 pounds of methane per year. The dairy sector accounts for approximately 3% of global greenhouse gas emissions.
+Dairy farming faces significant environmental scrutiny. Cattle produce methane — a potent greenhouse gas — through enteric [fermentation](/fermentation) (digestion). A single dairy cow produces roughly 220 pounds of methane per year. The dairy sector accounts for approximately 3% of global greenhouse gas emissions.
 
-Manure management, water usage (it takes roughly 144 gallons of water to produce one gallon of milk), and land use for feed production add to the environmental footprint.
+Manure [management](/management), water usage (it takes roughly 144 gallons of water to produce one gallon of milk), and land use for feed production add to the environmental footprint.
 
-The industry is responding. Methane digesters capture cow manure emissions and convert them to energy. Feed additives (like the seaweed supplement 3-NOP) can reduce enteric methane by 30-80%. Improved genetics increase per-cow efficiency, meaning fewer cows produce the same amount of milk.
+The industry is responding. Methane digesters capture cow manure emissions and convert them to energy. Feed additives (like the seaweed supplement 3-NOP) can reduce enteric methane by 30-80%. Improved [genetics](/genetics) increase per-cow efficiency, meaning fewer cows produce the same amount of milk.
 
 Plant-based and lab-cultured milk alternatives have captured roughly 15% of the "milk" market, though fluid milk still dominates. Whether these alternatives are environmentally superior depends on which specific products and production methods are compared — almond milk, for instance, has its own water-intensive footprint.
 
 ## The Human Element
 
-Dairy farming is uniquely demanding work. Cows must be milked on a rigid schedule, meaning farmers work holidays, weekends, and through illness. Many dairy farmers work 60-80 hours per week. The financial stress of volatile milk prices, combined with physical exhaustion, has contributed to mental health challenges — studies show farmers experience depression and anxiety at rates significantly above the general population.
+Dairy farming is uniquely demanding work. Cows must be milked on a rigid schedule, meaning farmers work holidays, weekends, and through illness. Many dairy farmers work 60-80 hours per week. The financial stress of volatile milk prices, combined with physical exhaustion, has contributed to [mental health](/mental-health) challenges — studies show farmers experience depression and anxiety at rates significantly above the general population.
 
-Despite these challenges, many dairy families remain deeply committed to the work. The connection to land, animals, and food production carries meaning that transcends economics. As one Wisconsin dairy farmer put it: "Nobody does this for the money. You do it because it's what you know, and it's who you are."
+Despite these challenges, many dairy families remain deeply committed to the work. The connection to land, animals, and food production carries meaning that transcends [economics](/economics). As one Wisconsin dairy farmer put it: "Nobody does this for the money. You do it because it's what you know, and it's who you are."
 
 That combination of hardship and devotion defines dairy farming perhaps more than any statistic about milk production ever could.

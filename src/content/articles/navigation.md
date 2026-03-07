@@ -5,7 +5,7 @@ description: "Navigation is the science and practice of determining position and
 category: everyday-concepts
 tags: ["navigation", "gps", "mapping", "orienteering", "celestial navigation", "route planning"]
 heroImage: "/images/articles/navigation.webp"
-heroAlt: "A compass resting on an old nautical chart with latitude and longitude lines"
+heroAlt: "Editorial photograph representing the concept of navigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Navigation is the process of figuring out where you are, determining where you w
 
 The earliest navigators didn't have maps or instruments. They had observation and memory. Polynesian voyagers crossed thousands of miles of open Pacific Ocean using star positions, ocean swells, wind patterns, cloud formations, and the flight paths of birds. They memorized these patterns and passed them down through oral traditions — mental maps of an ocean that covered a third of the planet.
 
-Mediterranean sailors used landmarks and coastal features, sailing within sight of shore whenever possible. The Greeks developed the concept of latitude and longitude around 200 BCE, and Eratosthenes calculated Earth's circumference to within about 15% accuracy using shadow angles and geometry.
+Mediterranean sailors used landmarks and coastal features, [sailing](/sailing) within sight of shore whenever possible. The Greeks developed the concept of latitude and longitude around 200 BCE, and Eratosthenes calculated Earth's circumference to within about 15% accuracy using shadow angles and [geometry](/geometry).
 
 The magnetic compass — probably invented in China around the 11th century — changed everything. For the first time, sailors could maintain a consistent heading in open ocean, even on cloudy nights when stars were invisible. The compass didn't tell you where you were, but it reliably told you which direction you were heading. That alone made transoceanic voyages practical.
 
@@ -65,7 +65,7 @@ GPS isn't the only game in town. Russia operates GLONASS, the EU runs Galileo, a
 
 **Dead reckoning** means calculating your position based on a known starting point, your heading, speed, and elapsed time. It works, but errors accumulate. After hours of dead reckoning, you might be miles from where you think you are.
 
-**Celestial navigation** uses the sun, moon, stars, and planets. A sextant measures the angle between a celestial body and the horizon. Combined with an accurate clock and tables from a nautical almanac, you can calculate your position to within about 1-2 nautical miles. It's slower than GPS but doesn't depend on satellites or electricity.
+**Celestial navigation** uses the sun, moon, stars, and planets. A sextant measures the angle between a celestial body and the horizon. Combined with an accurate clock and tables from a nautical almanac, you can calculate your position to within about 1-2 nautical miles. It's slower than GPS but doesn't depend on satellites or [electricity](/electricity).
 
 **Radio navigation** uses ground-based transmitters. VOR (VHF Omnidirectional Range) stations guide aircraft. LORAN-C used timing differences between radio signals from multiple stations. Most of these systems are being decommissioned as GPS takes over.
 
@@ -73,15 +73,15 @@ GPS isn't the only game in town. Russia operates GLONASS, the EU runs Galileo, a
 
 ## The GPS Dependency Problem
 
-Here's something that should concern you: modern civilization is deeply dependent on GPS, and not just for driving directions. Financial markets use GPS timing for transaction timestamps. Power grids use it for synchronization. Cell phone networks depend on it. Agriculture, shipping, aviation, emergency services — all GPS-dependent.
+Here's something that should concern you: modern civilization is deeply dependent on GPS, and not just for driving directions. Financial markets use GPS timing for transaction timestamps. Power grids use it for synchronization. Cell phone networks depend on it. [Agriculture](/agriculture), shipping, [aviation](/aviation), emergency services — all GPS-dependent.
 
 If GPS were disrupted — by solar storms, jamming, or spoofing — the cascading effects would be severe. The U.S. Department of Homeland Security has flagged this vulnerability. Some experts advocate maintaining backup navigation systems like eLoran, but funding has been inconsistent.
 
-The U.S. Navy actually resumed teaching celestial navigation to its officers in 2016 after a 15-year gap, specifically because of concerns about GPS vulnerability. There's wisdom in not putting all your navigational eggs in one basket.
+The U.S. Navy actually resumed [teaching](/teaching) celestial navigation to its officers in 2016 after a 15-year gap, specifically because of concerns about GPS vulnerability. There's wisdom in not putting all your navigational eggs in one basket.
 
 ## Navigation in Daily Life
 
-You probably work through more than you realize. Your phone's mapping app uses GPS, cell tower triangulation, and Wi-Fi positioning to track you in real time. Ride-sharing apps depend on it. Delivery services optimize routes using navigation algorithms that consider traffic, distance, and time windows.
+You probably work through more than you realize. Your phone's mapping app uses GPS, cell tower triangulation, and Wi-Fi positioning to track you in real time. Ride-sharing apps depend on it. Delivery services optimize routes using navigation [algorithms](/algorithms) that consider traffic, distance, and time windows.
 
 Inside buildings where GPS signals can't penetrate, indoor positioning systems use Bluetooth beacons, Wi-Fi signal strength, and ultra-wideband technology to guide you through airports, shopping malls, and hospitals.
 

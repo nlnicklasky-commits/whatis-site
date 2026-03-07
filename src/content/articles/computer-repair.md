@@ -5,7 +5,7 @@ description: "Computer repair involves diagnosing and fixing hardware and softwa
 category: everyday-concepts
 tags: ["computer repair", "everyday-concepts"]
 heroImage: "/images/articles/computer-repair.webp"
-heroAlt: "A technician working inside an open desktop computer case with tools nearby"
+heroAlt: "Editorial photograph representing the concept of computer repair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Computer repair is the process of diagnosing, troubleshooting, and fixing proble
 
 The first step in any repair is figuring out what kind of problem you're dealing with.
 
-**Hardware problems** involve physical components. A cracked screen, a failing hard drive, a dead power supply, a malfunctioning keyboard — these are tangible things that need physical repair or replacement. Hardware issues often announce themselves dramatically: strange clicking noises from the hard drive, the smell of burning electronics, a screen that flickers or goes black.
+**Hardware problems** involve physical components. A cracked screen, a failing hard drive, a dead power supply, a malfunctioning keyboard — these are tangible things that need physical repair or replacement. Hardware issues often announce themselves dramatically: strange clicking noises from the hard drive, the smell of burning [electronics](/electronics), a screen that flickers or goes black.
 
-**Software problems** involve the programs and operating system running on the hardware. A virus infection, a corrupted operating system, a driver conflict, or an application that crashes constantly — these require digital solutions rather than physical ones. Software problems are more common and generally cheaper to fix.
+**Software problems** involve the programs and operating system [running](/running) on the hardware. A virus infection, a corrupted operating system, a driver conflict, or an application that crashes constantly — these require digital solutions rather than physical ones. Software problems are more common and generally cheaper to fix.
 
 Some symptoms look like hardware problems but are actually software issues (and vice versa). A computer that won't boot might have a dead motherboard — or it might have a corrupted bootloader that a software reinstall would fix. This diagnostic ambiguity is why systematic troubleshooting matters more than guessing.
 
@@ -67,7 +67,7 @@ The key variable is your comfort with risk. Most [hardware](/computer-hardware) 
 
 ## The Right to Repair Movement
 
-One of the most significant developments in computer repair is the growing right-to-repair movement. For years, manufacturers have made repair increasingly difficult — using proprietary screws, soldering components that used to be modular, voiding warranties for unauthorized repair, and restricting access to repair manuals and diagnostic software.
+One of the most significant developments in computer repair is the growing right-to-repair movement. For years, manufacturers have made repair increasingly difficult — using proprietary screws, [soldering](/soldering) components that used to be modular, voiding warranties for unauthorized repair, and restricting access to repair manuals and diagnostic software.
 
 The FTC unanimously voted in 2021 to enforce right-to-repair laws more aggressively. Several U.S. states have passed or are considering legislation requiring manufacturers to provide repair documentation, tools, and parts to consumers and independent repair shops.
 

@@ -5,7 +5,7 @@ description: "Systems biology studies biological organisms as integrated systems
 category: science
 tags: ["biology", "systems biology", "bioinformatics", "computational biology", "genomics", "molecular biology"]
 heroImage: "/images/articles/systems-biology.webp"
-heroAlt: "A complex network diagram showing interconnected nodes representing genes and proteins in a biological pathway"
+heroAlt: "Editorial photograph representing the concept of systems biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -79,7 +79,7 @@ Raw data alone isn't understanding. Systems biology uses mathematical and comput
 
 These networks can be enormous. The human protein-protein interaction network contains tens of thousands of proteins and hundreds of thousands of interactions. Visualizing and analyzing these networks requires serious [computational](/computational-biology) tools and [algorithms](/algorithms).
 
-**Active models** go beyond static networks to simulate how systems change over time. Using differential equations, systems biologists model how concentrations of molecules rise and fall in response to signals, how feedback loops create oscillations or switches, and how perturbations (like drugs or mutations) propagate through the system.
+**Active models** go beyond static networks to simulate how systems change over time. Using [differential equations](/differential-equations), systems biologists model how concentrations of molecules rise and fall in response to signals, how feedback loops create oscillations or switches, and how perturbations (like drugs or mutations) propagate through the system.
 
 **Constraint-based models** are particularly useful for metabolism. Flux Balance Analysis (FBA) uses known biochemical constraints to predict the flow of metabolites through a metabolic network. It's been successfully used to predict bacterial growth rates, identify essential genes, and design metabolic engineering strategies.
 
@@ -111,7 +111,7 @@ Understanding robustness has practical implications. Cancer cells, for example, 
 
 Feedback is everywhere in biology. Negative feedback loops stabilize systems — when blood sugar rises, insulin is released, which lowers blood sugar, which reduces insulin release. Positive feedback loops amplify changes — a small amount of blood clotting factor triggers more clotting factor production, creating a rapid cascade.
 
-The interaction of multiple feedback loops can produce complex behaviors like oscillations (circadian rhythms, cell cycles), bistability (cells committing to one of two fates), and hysteresis (cells remembering their history). These behaviors are impossible to understand from individual components and require mathematical modeling to explain.
+The interaction of multiple feedback loops can produce complex behaviors like oscillations (circadian rhythms, cell cycles), bistability (cells committing to one of two fates), and hysteresis (cells remembering their history). These behaviors are impossible to understand from individual components and require [mathematical modeling](/mathematical-modeling) to explain.
 
 ### Network Motifs
 

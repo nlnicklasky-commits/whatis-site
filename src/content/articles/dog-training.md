@@ -5,7 +5,7 @@ description: "Dog training teaches dogs desired behaviors through structured met
 category: everyday-concepts
 tags: ["dog training", "everyday-concepts"]
 heroImage: "/images/articles/dog-training.webp"
-heroAlt: "A person training a golden retriever in a park using a treat as positive reinforcement"
+heroAlt: "Editorial photograph representing the concept of dog training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Dog Training?
 
-Dog training is the process of teaching dogs specific behaviors and responses through structured communication, reinforcement, and repetition. It covers everything from basic obedience (sit, stay, come) to specialized skills (service dog tasks, detection work, competitive obedience) to addressing behavioral problems (aggression, anxiety, destructiveness). Fundamentally, dog training is about building a common language between two species that think very differently.
+Dog training is the process of [teaching](/teaching) dogs specific behaviors and responses through structured communication, reinforcement, and repetition. It covers everything from basic obedience (sit, stay, come) to specialized skills (service dog tasks, detection work, competitive obedience) to addressing behavioral problems (aggression, anxiety, destructiveness). Fundamentally, dog training is about building a common language between two species that think very differently.
 
 ## The Science Behind It
 
@@ -75,9 +75,9 @@ This means several things for training:
 
 ## Common Problems and Solutions
 
-**Pulling on leash** is the most common complaint. Dogs pull because pulling works — it gets them where they want to go. Stop walking when the leash goes tight. Resume when it slackens. The dog learns that loose leash = forward progress and tight leash = everything stops. It's tedious. It works.
+**Pulling on leash** is the most common complaint. Dogs pull because pulling works — it gets them where they want to go. Stop [walking](/walking) when the leash goes tight. Resume when it slackens. The dog learns that loose leash = forward progress and tight leash = everything stops. It's tedious. It works.
 
-**House training** requires management more than training. Take the puppy out every 1-2 hours, after meals, after naps, and after play. Reward enthusiastically when elimination happens outside. Interrupt accidents calmly (no punishment — the dog won't connect punishment to an event even minutes later). Restrict access to unsupervised areas. Most puppies are reliable by 4-6 months with consistent management.
+**House training** requires [management](/management) more than training. Take the puppy out every 1-2 hours, after meals, after naps, and after play. Reward enthusiastically when elimination happens outside. Interrupt accidents calmly (no punishment — the dog won't connect punishment to an event even minutes later). Restrict access to unsupervised areas. Most puppies are reliable by 4-6 months with consistent management.
 
 **Separation anxiety** is a genuine behavioral disorder, not stubbornness. Dogs with separation anxiety experience panic when left alone — destructiveness, vocalization, and house soiling are symptoms, not defiance. Treatment involves gradual desensitization to departures, sometimes combined with medication prescribed by a veterinarian. This is one area where professional help from a certified behaviorist is strongly recommended.
 

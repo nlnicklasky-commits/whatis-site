@@ -5,7 +5,7 @@ description: "Dyeing is the process of adding color to textiles and materials us
 category: arts-amp-culture
 tags: ["dyeing", "arts-amp-culture"]
 heroImage: "/images/articles/dyeing.webp"
-heroAlt: "Colorful skeins of yarn drying on a rack after being dyed in rich blues and purples"
+heroAlt: "Editorial photograph representing the concept of dyeing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The oldest evidence of textile dyeing comes from the Indus Valley civilization, 
 
 For most of human history, certain colors were difficult and expensive to produce, which made them symbols of status and power.
 
-**Tyrian purple** — extracted from the mucus glands of predatory sea snails (*Murex brandaris*) — required roughly 12,000 snails to produce 1.5 grams of dye. The resulting color was stunning and permanent, and it was reserved by Roman law for emperors and senators. The word "purple" comes from the Greek *porphyra*, the word for the snail. This is how much humans cared about color.
+**Tyrian purple** — extracted from the mucus glands of predatory sea snails (*Murex brandaris*) — required roughly 12,000 snails to produce 1.5 grams of dye. The resulting color was stunning and permanent, and it was reserved by [Roman law](/roman-law) for emperors and senators. The word "purple" comes from the Greek *porphyra*, the word for the snail. This is how much humans cared about color.
 
 **Indigo** — from plants in the *Indigofera* genus — produced deep blues that were valued across Africa, Asia, and the Americas independently. Japanese *shibori* (resist-dyeing with indigo), West African *adire* (indigo wax-resist), and American denim all use indigo. It's probably the most historically significant dye worldwide.
 

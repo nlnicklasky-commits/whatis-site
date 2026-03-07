@@ -5,7 +5,7 @@ description: "Meteorology is the scientific study of the atmosphere and weather.
 category: science
 tags: ["meteorology", "weather", "atmosphere", "climate", "forecasting", "storms", "earth science"]
 heroImage: "/images/articles/meteorology-hero.webp"
-heroAlt: "Dramatic cumulonimbus thunderstorm cloud formation over a flat landscape with lightning"
+heroAlt: "Editorial photograph representing the concept of meteorology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,7 +51,7 @@ Before the telegraph, you couldn't know what weather was happening 100 miles awa
 
 ### The Physics of the Atmosphere (1900s)
 
-Vilhelm Bjerknes, a Norwegian physicist, proposed in 1904 that weather forecasting could be reduced to solving the mathematical equations governing atmospheric motion. He was right --- but the equations (the primitive equations of atmospheric motion, derived from Newton's laws and thermodynamics) were far too complex to solve by hand.
+Vilhelm Bjerknes, a Norwegian physicist, proposed in 1904 that weather forecasting could be reduced to solving the mathematical equations governing atmospheric motion. He was right --- but the equations (the primitive equations of atmospheric motion, derived from Newton's laws and [thermodynamics](/thermodynamics)) were far too complex to solve by hand.
 
 Lewis Fry Richardson attempted the first numerical weather prediction by hand in 1922, calculating a six-hour forecast for a single location. It took him six weeks and the result was wildly wrong (he predicted a pressure change of 145 millibars when the actual change was near zero). But his method was fundamentally correct --- the errors came from insufficient data and computational shortcuts.
 
@@ -85,7 +85,7 @@ You can't predict the atmosphere without measuring it first. The global observat
 
 Raw observations are scattered unevenly across the globe and taken at different times. Data assimilation combines these observations with a short-range forecast (the "first guess") to create a three-dimensional snapshot of the entire atmosphere at a specific moment. This is the initial condition for the forecast model.
 
-The mathematics of data assimilation are formidable. The ECMWF's 4D-Var (four-dimensional variational) assimilation system processes over 800 million observations per 12-hour cycle and adjusts the model state to best fit all of them simultaneously, accounting for observation errors, model errors, and the time each observation was taken.
+The mathematics of data assimilation are formidable. The ECMWF's 4D-Var (four-dimensional variational) assimilation system processes over 800 million observations per 12-hour cycle and adjusts the model state to best fit all of them simultaneously, [accounting](/accounting) for observation errors, model errors, and the time each observation was taken.
 
 ### Step 3: Numerical Modeling
 
@@ -158,7 +158,7 @@ Meteorology and [climatology](/climatology) are related but distinct. Weather is
 
 Climate science uses many of the same physics and modeling techniques as weather forecasting but applies them over much longer timescales. Climate models run the same basic equations but at coarser resolution and for centuries instead of days. They're not trying to predict whether it will rain on March 15, 2050 --- they're predicting the statistical distribution of temperature and precipitation over decades.
 
-The relationship between meteorology and climate change is complex. Global warming is altering the statistics of weather events --- more heat energy in the atmosphere means more fuel for storms, higher humidity levels, and shifted precipitation patterns. Attribution science can now estimate how much climate change increased the likelihood or intensity of specific weather events.
+The relationship between meteorology and climate change is complex. Global warming is altering the [statistics](/statistics) of weather events --- more heat energy in the atmosphere means more fuel for storms, higher humidity levels, and shifted precipitation patterns. Attribution science can now estimate how much climate change increased the likelihood or intensity of specific weather events.
 
 ## Modern Tools and Technology
 
@@ -188,7 +188,7 @@ Meteorology offers diverse career paths:
 
 **Broadcast meteorologists** present weather on television, radio, and digital platforms. They communicate complex information to the public. The best ones make weather both understandable and engaging.
 
-**Private sector meteorologists** work for weather companies (The Weather Company, AccuWeather, DTN), energy companies (wind and solar forecasting), agriculture companies, airlines, and insurance companies. This sector has grown rapidly.
+**Private sector meteorologists** work for weather companies (The Weather Company, AccuWeather, DTN), energy companies (wind and solar forecasting), [agriculture](/agriculture) companies, airlines, and insurance companies. This sector has grown rapidly.
 
 **Research meteorologists** work at universities, NOAA, NCAR (National Center for Atmospheric Research), and other institutions. They advance understanding of atmospheric processes and improve forecasting methods.
 
@@ -200,7 +200,7 @@ According to the Bureau of Labor Statistics, the median annual salary for atmosp
 
 ## Why It Matters to You
 
-Weather affects virtually every human activity. Agriculture depends on precipitation forecasting. Aviation relies on turbulence and visibility predictions. Energy companies need wind and solar forecasts. Emergency management requires severe weather warnings. Construction, transportation, outdoor events, and military operations all depend on weather information.
+Weather affects virtually every human activity. Agriculture depends on precipitation forecasting. Aviation relies on turbulence and visibility predictions. Energy companies need wind and solar forecasts. Emergency [management](/management) requires severe weather warnings. [Construction](/construction), transportation, outdoor events, and military operations all depend on weather information.
 
 The economic value of weather forecasting is difficult to overstate. NOAA estimates that weather-sensitive industries account for about one-third of U.S. GDP --- roughly $7 trillion. A single accurate severe weather warning can save hundreds of lives. Improved forecasting of natural gas demand based on temperature predictions saves the energy sector billions annually.
 

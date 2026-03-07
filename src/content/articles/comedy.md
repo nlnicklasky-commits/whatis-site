@@ -5,7 +5,7 @@ description: "Comedy is a genre of entertainment designed to make people laugh. 
 category: arts-amp-culture
 tags: ["comedy", "humor", "entertainment", "stand-up", "satire", "theatre"]
 heroImage: "/images/articles/comedy.webp"
-heroAlt: "A comedian performing on stage under a single spotlight with audience silhouettes"
+heroAlt: "Editorial photograph representing the concept of comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Comedy?
 
-Comedy is a form of entertainment — across theater, film, television, literature, and live performance — that aims to amuse an audience and provoke laughter. It's one of the oldest art forms, dating back at least 2,500 years to ancient Greece, and it remains one of the most popular and culturally significant.
+Comedy is a form of entertainment — across theater, film, television, [literature](/literature), and live performance — that aims to amuse an audience and provoke laughter. It's one of the oldest art forms, dating back at least 2,500 years to ancient Greece, and it remains one of the most popular and culturally significant.
 
 ## The Ancient Greek Blueprint
 
@@ -41,7 +41,7 @@ The Greeks distinguished between Old Comedy (Aristophanes' style — bawdy, sati
 
 ## The Major Forms
 
-**Stand-up comedy** is a performer alone on stage talking to an audience. It's the purest form — just words, timing, and delivery. Modern stand-up evolved from vaudeville and variety shows in the early 20th century. Lenny Bruce broke boundaries in the 1960s with taboo-shattering material. Richard Pryor and George Carlin refined the art in the 1970s and 1980s. Today, stand-up is a global industry worth billions, fueled by Netflix specials and comedy podcasts.
+**[Stand-up comedy](/stand-up-comedy)** is a performer alone on stage talking to an audience. It's the purest form — just words, timing, and delivery. Modern stand-up evolved from [vaudeville](/vaudeville) and variety shows in the early 20th century. Lenny Bruce broke boundaries in the 1960s with taboo-shattering material. Richard Pryor and George Carlin refined the art in the 1970s and 1980s. Today, stand-up is a global industry worth billions, fueled by Netflix specials and comedy podcasts.
 
 **Sketch comedy** features short, scripted scenes performed by an ensemble. *Saturday Night Live* (on air since 1975) is the most famous example, but the form includes *Monty Python's Flying Circus*, *Key & Peele*, and *A Bit of Fry and Laurie*. Sketch allows conceptual comedy that stand-up can't easily do — characters, costumes, sets, and escalating absurdity.
 
@@ -49,7 +49,7 @@ The Greeks distinguished between Old Comedy (Aristophanes' style — bawdy, sati
 
 **Improv** is comedy created spontaneously, often from audience suggestions. The Second City in Chicago and the Upright Citizens Brigade in New York trained generations of comedians who went on to dominate film and television. Tina Fey, Amy Poehler, Stephen Colbert, and Key & Peele all came through improv training.
 
-**Satirical comedy** uses humor to criticize institutions, politics, and social norms. Jonathan Swift's *A Modest Proposal* (1729) — suggesting the Irish eat their babies to solve poverty — is perhaps the most famous example in literature. Modern satirists like Jon Stewart, John Oliver, and Hasan Minhaj deliver news through comedy, and research suggests their audiences are often more informed than traditional news viewers on certain topics.
+**Satirical comedy** uses humor to criticize institutions, [politics](/politics), and social norms. Jonathan Swift's *A Modest Proposal* (1729) — suggesting the Irish eat their babies to solve poverty — is perhaps the most famous example in literature. Modern satirists like Jon Stewart, John Oliver, and Hasan Minhaj deliver news through comedy, and research suggests their audiences are often more informed than traditional news viewers on certain topics.
 
 ## Why We Laugh
 
@@ -67,7 +67,7 @@ Each theory captures part of the picture. None captures all of it. Humor remains
 
 Comedy does more than entertain. It's a pressure valve for society — a way to process uncomfortable truths, challenge authority, and build group cohesion.
 
-Court jesters could criticize kings. [Clowns](/clowning) mock pomposity. Satirists expose hypocrisy. Comedy creates a space where difficult conversations happen under the cover of "just joking." Sometimes that cover is used responsibly (speaking truth to power). Sometimes it's used irresponsibly (punching down at vulnerable groups). The ethics of comedy are perpetually debated, and that debate is itself a sign of comedy's cultural power.
+Court jesters could criticize kings. [Clowns](/clowning) mock pomposity. Satirists expose hypocrisy. Comedy creates a space where difficult conversations happen under the cover of "just joking." Sometimes that cover is used responsibly (speaking truth to power). Sometimes it's used irresponsibly (punching down at vulnerable groups). The [ethics](/ethics) of comedy are perpetually debated, and that [debate](/debate) is itself a sign of comedy's cultural power.
 
 Laughter is also bonding. Shared humor creates in-group identity faster than almost any other social mechanism. Couples who laugh together report higher relationship satisfaction. Teams that joke together collaborate more effectively. The social function of humor may actually be its primary evolutionary purpose — it wasn't that our ancestors who told good jokes survived better, but that groups who laughed together cooperated better.
 
@@ -77,7 +77,7 @@ Comedy is a serious business — roughly $42 billion globally as of 2023, includ
 
 Stand-up comedians at the top of the field earn tens of millions annually. Jerry Seinfeld, Kevin Hart, and Dave Chappelle regularly top entertainment earning lists. Netflix has invested hundreds of millions in stand-up specials, treating comedy as essential content for subscriber retention.
 
-The economics of developing comedy talent are harsh, though. Most comedians spend years performing for free or near-free in small clubs, testing and refining material night after night. The average time from first open mic to professional-level stand-up is 7 to 10 years. For every comedian who gets a special, thousands are working day jobs and performing to audiences of twelve.
+The [economics](/economics) of developing comedy talent are harsh, though. Most comedians spend years performing for free or near-free in small clubs, testing and refining material night after night. The average time from first open mic to professional-level stand-up is 7 to 10 years. For every comedian who gets a special, thousands are working day jobs and performing to audiences of twelve.
 
 ## Comedy in the Digital Age
 

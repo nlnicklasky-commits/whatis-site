@@ -5,7 +5,7 @@ description: "Network security protects computer networks from unauthorized acce
 category: technology
 tags: ["network security", "cybersecurity", "information security", "firewall", "encryption", "data protection", "it security"]
 heroImage: "/images/articles/network-security-hero.webp"
-heroAlt: "Shield icon overlaying a network diagram representing protected digital infrastructure"
+heroAlt: "Editorial photograph representing the concept of network security"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -123,7 +123,7 @@ Internet Protocol Security operates at the network layer, encrypting entire IP p
 
 Wi-Fi networks need their own encryption layer. WPA3, the current standard, provides strong encryption for wireless communications. If you're still running WPA2 — or, worse, WEP — you're broadcasting an invitation to anyone with freely available hacking tools. WEP can be cracked in minutes. WPA3 is currently considered secure against all known attacks.
 
-## Intrusion Detection and Prevention
+## [Intrusion Detection](/intrusion-detection) and Prevention
 
 Firewalls enforce rules about what traffic is allowed. But what about attacks that use legitimate-looking traffic? That's where intrusion detection systems (IDS) and intrusion prevention systems (IPS) come in.
 
@@ -169,7 +169,7 @@ Malicious software — viruses, worms, trojans, ransomware — remains the most 
 
 Worms are particularly dangerous for networks because they spread automatically from device to device without human interaction. The 2017 WannaCry worm infected over 230,000 computers across 150 countries in a single day.
 
-### Phishing and Social Engineering
+### Phishing and [Social Engineering](/social-engineering)
 
 The weakest link in any security system is usually a human. Phishing emails trick people into clicking malicious links, downloading infected attachments, or entering credentials on fake login pages. Spear phishing targets specific individuals with personalized attacks. Business email compromise — where attackers impersonate executives to authorize fraudulent transfers — cost organizations $2.9 billion in 2023.
 
@@ -281,7 +281,7 @@ Network security is evolving rapidly in response to changing threats and technol
 
 **Software-defined networking (SDN)** separates the network's control plane from the data plane, enabling active, programmable security policies that adapt to conditions automatically.
 
-**Quantum computing** threatens to break current encryption [algorithms](/algorithms). Post-quantum cryptography — new encryption methods resistant to quantum attacks — is being developed and standardized now, before quantum computers become powerful enough to pose a threat.
+**Quantum computing** threatens to break current encryption [algorithms](/algorithms). Post-[quantum cryptography](/quantum-cryptography) — new encryption methods resistant to quantum attacks — is being developed and standardized now, before quantum computers become powerful enough to pose a threat.
 
 **IoT security** is becoming critical as billions of connected devices — many with minimal built-in security — join networks. Smart thermostats, industrial sensors, medical devices, and connected vehicles all expand the attack surface.
 

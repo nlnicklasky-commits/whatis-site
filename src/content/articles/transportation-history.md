@@ -5,7 +5,7 @@ description: "Transportation history traces how humans moved people and goods, f
 category: history
 tags: ["transportation history", "transport", "railways", "aviation", "automobiles"]
 heroImage: "/images/articles/transportation-history.webp"
-heroAlt: "A timeline montage showing a horse-drawn carriage, steam locomotive, Model T Ford, and modern jet aircraft"
+heroAlt: "Editorial photograph representing the concept of transportation history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,11 +41,11 @@ Transportation history is the study of how humans have moved themselves and thei
 
 For most of human existence, your options were simple. Walk, or float. That's it.
 
-Humans walked out of Africa roughly 70,000 years ago and eventually spread across every continent except Antarctica. The earliest boats — dugout canoes carved from single tree trunks — show up in the archaeological record around 8,000 BCE. Polynesian sailors were crossing thousands of miles of open Pacific Ocean by roughly 1500 BCE, using nothing but outrigger canoes, star navigation, and an almost unbelievable amount of courage.
+Humans walked out of Africa roughly 70,000 years ago and eventually spread across every continent except Antarctica. The earliest boats — dugout canoes carved from single tree trunks — show up in the archaeological record around 8,000 BCE. Polynesian sailors were crossing thousands of miles of open Pacific Ocean by roughly 1500 BCE, using nothing but outrigger canoes, star [navigation](/navigation), and an almost unbelievable amount of courage.
 
 Animal domestication changed the equation. Donkeys were put to work around 4000 BCE in North Africa. Horses followed around 3500 BCE on the Central Asian steppe. Suddenly, a person could travel 30 to 40 miles in a day instead of 15 to 20. Goods could move in bulk. Armies could strike farther and faster.
 
-Then came the wheel. It appeared around 3500 BCE in Mesopotamia — not for transportation at first, but for pottery. Somebody eventually turned it sideways, attached it to a cart, and changed everything. Wheeled vehicles needed roads, which meant organized labor, which meant governments with enough power to command large-scale construction projects.
+Then came the wheel. It appeared around 3500 BCE in Mesopotamia — not for transportation at first, but for [pottery](/pottery). Somebody eventually turned it sideways, attached it to a cart, and changed everything. Wheeled vehicles needed roads, which meant organized labor, which meant governments with enough power to command large-scale [construction](/construction) projects.
 
 ## Roads That Built Empires
 
@@ -67,13 +67,13 @@ Railways turned out to be the better application. Richard Trevithick ran the fir
 
 What happened next was explosive. Britain had 6,000 miles of track by 1850. The United States — with a continent to cross — went from 9,000 miles of track in 1850 to over 163,000 miles by 1890. The Transcontinental Railroad, completed on May 10, 1869, at Promontory Summit, Utah, cut the cross-country trip from months to about a week.
 
-Railways didn't just move people faster. They standardized time — before railroads, every town kept its own local solar time, which made scheduling impossible. In 1883, U.S. railroads adopted four standard time zones, and the rest of the country followed. Railways also created the first truly national markets, letting farmers in Kansas sell beef in New York and manufacturers in Pittsburgh sell steel in San Francisco.
+Railways didn't just move people faster. They standardized time — before railroads, every town kept its own local solar time, which made [scheduling](/scheduling) impossible. In 1883, U.S. railroads adopted four standard time zones, and the rest of the country followed. Railways also created the first truly national markets, letting farmers in Kansas sell beef in New York and manufacturers in Pittsburgh sell steel in San Francisco.
 
 ## Steamships and the Shrinking Ocean
 
 Steam power hit the water almost as quickly as it hit the rails. Robert Fulton's *Clermont* steamed up the Hudson River in 1807, proving that steamboats could work commercially. By the 1830s, steamboats dominated American river traffic, especially on the Mississippi — Mark Twain's entire literary career essentially grew out of the steamboat era.
 
-Ocean-going steamships took longer to develop. Early ones still carried sails as backup, since coal was expensive and unreliable supply chains made running out of fuel mid-Atlantic a real possibility. The SS *Great Western*, launched in 1838, was the first purpose-built transatlantic steamship. Isambard Kingdom Brunel, the engineer behind it, later built the *Great Eastern* — a ship so enormous (nearly 700 feet long) that nothing larger was constructed for 40 years.
+Ocean-going steamships took longer to develop. Early ones still carried sails as backup, since coal was expensive and unreliable supply chains made [running](/running) out of fuel mid-Atlantic a real possibility. The SS *Great Western*, launched in 1838, was the first purpose-built transatlantic steamship. Isambard Kingdom Brunel, the engineer behind it, later built the *Great Eastern* — a ship so enormous (nearly 700 feet long) that nothing larger was constructed for 40 years.
 
 By the late 19th century, steamships had cut Atlantic crossing times from weeks to days. Immigration surged. Between 1880 and 1920, over 23 million immigrants entered the United States, most arriving by steamship at Ellis Island. Global trade volumes exploded — the Suez Canal (1869) and Panama Canal (1914) shortened shipping routes even further.
 
@@ -85,15 +85,15 @@ Ford didn't invent the car. He didn't even invent the assembly line — meatpack
 
 The effects were staggering. In 1900, the United States had about 8,000 registered automobiles and roughly 10 miles of paved road outside cities. By 1930, there were 23 million cars. The Federal Highway Act of 1956, championed by President Eisenhower, authorized the Interstate Highway System — 41,000 miles of controlled-access highways that cost $114 billion (about $530 billion in today's dollars) and took 35 years to complete.
 
-Cars reshaped the American field more than any technology since the railroad. Suburbs sprawled outward. Shopping malls replaced downtown stores. Drive-in theaters, fast-food restaurants, and motels sprang up along highways. The downside? Traffic fatalities — over 40,000 per year in the U.S. at their peak — and a dependence on petroleum that shaped (and distorted) foreign policy for decades.
+Cars reshaped the American field more than any technology since the railroad. Suburbs sprawled outward. Shopping malls replaced downtown stores. Drive-in theaters, fast-food restaurants, and motels sprang up along highways. The downside? Traffic fatalities — over 40,000 per year in the U.S. at their peak — and a dependence on petroleum that shaped (and distorted) [foreign policy](/foreign-policy) for decades.
 
 ## Taking to the Sky
 
-On December 17, 1903, Orville Wright flew 120 feet in 12 seconds at Kitty Hawk, North Carolina. Within 66 years, humans would walk on the moon. The acceleration of aviation technology is genuinely staggering.
+On December 17, 1903, Orville Wright flew 120 feet in 12 seconds at Kitty Hawk, North Carolina. Within 66 years, humans would walk on the moon. The acceleration of [aviation](/aviation) technology is genuinely staggering.
 
-World War I turned aircraft from curiosities into weapons. World War II turned them into strategic assets — the Boeing B-29 that dropped atomic bombs on Japan had a range of 3,250 miles and could fly at 31,000 feet. Military R&D drove enormous advances: jet engines (Frank Whittle's turbojet first flew in 1941), pressurized cabins, radar navigation.
+[World War I](/world-war-i) turned aircraft from curiosities into weapons. [World War II](/world-war-ii) turned them into strategic assets — the Boeing B-29 that dropped atomic bombs on Japan had a range of 3,250 miles and could fly at 31,000 feet. Military R&D drove enormous advances: jet engines (Frank Whittle's turbojet first flew in 1941), pressurized cabins, radar navigation.
 
-Commercial aviation borrowed heavily from wartime technology. The Boeing 707, which entered service in 1958, was the first commercially successful jet airliner. It cut New York-to-London travel time from 12 hours (on propeller planes) to about 7. Suddenly, international business travel was practical, and international tourism became accessible to the middle class.
+Commercial aviation borrowed heavily from wartime technology. The Boeing 707, which entered service in 1958, was the first commercially successful jet airliner. It cut New York-to-London travel time from 12 hours (on propeller planes) to about 7. Suddenly, [international business](/international-business) travel was practical, and international tourism became accessible to the middle class.
 
 Deregulation of the U.S. airline industry in 1978 drove ticket prices down dramatically. A round-trip New York-to-Los Angeles flight that cost roughly $1,400 (inflation-adjusted) in 1974 could be found for $300 or less by the 2000s. Passenger volume grew from 207 million in 1975 to over 900 million in 2019.
 

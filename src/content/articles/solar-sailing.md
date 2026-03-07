@@ -5,7 +5,7 @@ description: "Solar sailing propels spacecraft using pressure from sunlight on l
 category: everyday-concepts
 tags: ["solar sailing", "space propulsion", "spacecraft", "photon pressure", "NASA", "space exploration"]
 heroImage: "/images/articles/solar-sailing.webp"
-heroAlt: "A solar sail spacecraft with its large reflective sail deployed in orbit above Earth"
+heroAlt: "Editorial photograph representing the concept of solar sailing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Yes. Japan's IKAROS mission (2010) was the first successful solar sail demonstration in interplanetary space. The Planetary Society's LightSail 2 (2019) successfully used solar sailing to raise its orbit around Earth. NASA's NEA Scout launched in 2022, and the Advanced Composite Solar Sail System (ACS3) launched in 2024 to test new sail materials."
 ---
 
-# What Is Solar Sailing?
+# What Is Solar [Sailing](/sailing)?
 
-Solar sailing is a method of spacecraft propulsion that uses the pressure of sunlight on large, lightweight reflective sails to generate thrust — no fuel, no engines, no exhaust. It sounds almost too elegant to be real: a spacecraft that flies on light itself. But the physics works, the technology has been demonstrated in space, and solar sailing may be the key to reaching destinations that chemical rockets simply can't.
+Solar sailing is a method of spacecraft propulsion that uses the pressure of sunlight on large, lightweight reflective sails to generate thrust — no fuel, no engines, no exhaust. It sounds almost too elegant to be real: a spacecraft that flies on light itself. But the [physics](/physics) works, the technology has been demonstrated in space, and solar sailing may be the key to reaching destinations that chemical rockets simply can't.
 
 The concept dates back to the early 1900s, when Russian scientist Fridrich Tsander first proposed using sunlight pressure for space travel. Johannes Kepler noticed as early as 1619 that comet tails point away from the Sun, suggesting that sunlight exerts force. He speculated about "celestial sails" in letters to Galileo. It took four centuries, but he was right.
 
@@ -47,11 +47,11 @@ The math favors solar sails for long-duration missions. A chemical rocket reache
 
 ## The Challenges
 
-Solar sail technology faces real engineering difficulties.
+Solar sail technology faces real [engineering](/engineering) difficulties.
 
 **Sail deployment** in the vacuum of space is tricky. The sail must be packed into a small volume for launch, then unfurled into an enormous area without tearing, tangling, or warping. IKAROS used a spin-deployment method (spinning the spacecraft so centrifugal force pulled the sail taut). Others use deployable booms — long, lightweight rods that push the sail out from the center.
 
-**Sail material** must be extremely lightweight, highly reflective, and durable enough to survive micrometeoroids, UV radiation, and thermal cycling. Current sails use aluminized Mylar or Kapton — thin polymer films coated with reflective aluminum, typically 2-7 micrometers thick (about 1/10th the thickness of a human hair).
+**Sail material** must be extremely lightweight, highly reflective, and durable enough to survive micrometeoroids, UV radiation, and thermal [cycling](/cycling). Current sails use aluminized Mylar or Kapton — thin polymer films coated with reflective aluminum, typically 2-7 micrometers thick (about 1/10th the thickness of a human hair).
 
 **Attitude control** — keeping the sail pointed in the right direction — determines where you go. Tilting the sail changes the direction of thrust, allowing navigational control. This requires precise mechanisms to adjust the sail's orientation, which adds complexity and weight.
 
@@ -59,7 +59,7 @@ Solar sail technology faces real engineering difficulties.
 
 ## Missions and Milestones
 
-**IKAROS** (Interplanetary Kite-craft Accelerated by Radiation Of the Sun) was launched by JAXA (Japan's space agency) in 2010. It successfully deployed a 14-meter-diagonal sail and demonstrated solar sailing in interplanetary space — the first time this had ever been achieved. IKAROS also tested embedded solar cells in the sail material, generating electricity while providing propulsion.
+**IKAROS** (Interplanetary Kite-craft Accelerated by Radiation Of the Sun) was launched by JAXA (Japan's space agency) in 2010. It successfully deployed a 14-meter-diagonal sail and demonstrated solar sailing in interplanetary space — the first time this had ever been achieved. IKAROS also tested embedded solar cells in the sail material, generating [electricity](/electricity) while providing propulsion.
 
 **LightSail 2**, launched by The Planetary Society (a citizen-funded space organization) in 2019, successfully used a 32-square-meter sail to raise its orbit around Earth using only sunlight. It remained in orbit for over three years, demonstrating that solar sailing works for practical orbital maneuvering.
 

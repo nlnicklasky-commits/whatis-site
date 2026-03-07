@@ -5,7 +5,7 @@ description: "Press release writing is the craft of creating news announcements 
 category: everyday-concepts
 tags: ["press release", "public relations", "pr", "media relations", "journalism", "corporate communication"]
 heroImage: "/images/articles/press-release-writing.webp"
-heroAlt: "Journalist reviewing a press release document at a desk"
+heroAlt: "Editorial photograph representing the concept of press release writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "A press release should contain actual news — a product launch, a major hire, a research finding, an event, a partnership, or a significant milestone. The news must matter to someone beyond your organization. Most rejected press releases fail because they're self-promotional rather than genuinely newsworthy. Ask yourself: would a journalist's audience care about this? If the honest answer is no, it's not a press release — it's an ad."
 ---
 
-# What Is Press Release Writing?
+# What Is Press Release [Writing](/writing)?
 
 A press release is a written statement sent to media outlets announcing something newsworthy — a product launch, an executive hire, a research finding, an event, a partnership, a crisis response. Press release writing is the craft of structuring that announcement in a format journalists recognize and can use. Done well, a press release gets your news covered. Done poorly, it gets deleted along with the other 300 emails a reporter received that day.
 
@@ -41,7 +41,7 @@ Press releases follow a specific structure that hasn't changed much in decades. 
 
 **Dateline.** City, state, date, and sometimes the distribution service name. "NEW YORK, March 15, 2025 (PR Newswire) —"
 
-**Lead paragraph.** The most important paragraph. It answers who, what, when, where, and why in 2-3 sentences. A journalist who reads nothing else should understand the essential news from this paragraph alone. Put the news first — not background, not context, not your CEO's philosophy.
+**Lead paragraph.** The most important paragraph. It answers who, what, when, where, and why in 2-3 sentences. A journalist who reads nothing else should understand the essential news from this paragraph alone. Put the news first — not background, not context, not your CEO's [philosophy](/philosophy).
 
 **Body paragraphs.** Supporting details, quotes from relevant people, data points, context. The inverted pyramid structure applies: most important information first, least important last. Journalists cut from the bottom, so anything you can afford to lose should go near the end.
 
@@ -51,7 +51,7 @@ Press releases follow a specific structure that hasn't changed much in decades. 
 
 **Contact information.** Name, email, phone number for someone who will actually answer when a journalist calls. This seems obvious, but a surprising number of press releases list contacts who are unavailable or uninformed.
 
-**End mark.** The symbols "###" or "-30-" signal the end of the release. This is a journalism tradition dating to the telegraph era.
+**End mark.** The symbols "###" or "-30-" signal the end of the release. This is a [journalism](/journalism) tradition dating to the telegraph era.
 
 ## Writing That Gets Read
 
@@ -67,9 +67,9 @@ The format is straightforward. Writing a press release that actually gets picked
 
 ## A Brief History
 
-The first press release is generally attributed to Ivy Lee, often called the founder of modern public relations. In 1906, after a train wreck on the Pennsylvania Railroad, Lee sent a factual written statement directly to newspapers. Before this, companies either refused to comment on incidents or tried to suppress coverage. Lee's approach — proactively providing accurate information in a journalistic format — was novel.
+The first press release is generally attributed to Ivy Lee, often called the founder of modern [public relations](/public-relations). In 1906, after a train wreck on the Pennsylvania Railroad, Lee sent a factual written statement directly to newspapers. Before this, companies either refused to comment on incidents or tried to suppress coverage. Lee's approach — proactively providing accurate information in a journalistic format — was novel.
 
-The practice spread quickly through the 20th century. By the 1950s, press releases were standard practice for corporations, government agencies, nonprofits, and political campaigns. Wire services like PR Newswire (founded 1954) and Business Wire (founded 1961) created distribution networks that could send a press release to thousands of newsrooms simultaneously.
+The practice spread quickly through the 20th century. By the 1950s, press releases were standard practice for corporations, [government](/government) agencies, nonprofits, and political campaigns. Wire services like PR Newswire (founded 1954) and Business Wire (founded 1961) created distribution networks that could send a press release to thousands of newsrooms simultaneously.
 
 The internet changed distribution but not the fundamental format. Email replaced fax machines. Online newsrooms supplemented wire services. Social media added another distribution channel. But the core structure — headline, lead, body, quotes, boilerplate — remains essentially unchanged from Ivy Lee's era.
 
@@ -83,8 +83,8 @@ Some shifts in modern practice:
 
 **Multimedia releases** include images, video, infographics, and social media content alongside the text. Journalists appreciate having ready-to-use assets.
 
-**SEO optimization** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a digital marketing tool, for better or worse.
+**SEO [optimization](/optimization)** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a [digital marketing](/digital-[marketing](/marketing)) tool, for better or worse.
 
-**Direct distribution** — many organizations now bypass traditional media entirely, publishing releases on their own newsrooms and social channels. The press release becomes a public record of announcements, whether journalists pick it up or not.
+**Direct distribution** — many organizations now bypass traditional media entirely, [publishing](/publishing) releases on their own newsrooms and social channels. The press release becomes a public record of announcements, whether journalists pick it up or not.
 
 The format is simple. The execution — knowing what's actually newsworthy, writing clearly, reaching the right journalists — that's where the real skill lies.

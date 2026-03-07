@@ -5,7 +5,7 @@ description: "Charcuterie is the craft of preparing and preserving meats — inc
 category: everyday-concepts
 tags: ["charcuterie", "cured meats", "food preservation", "cooking", "culinary arts", "salami"]
 heroImage: "/images/articles/charcuterie.webp"
-heroAlt: "Charcuterie board with assorted cured meats, cheeses, fruits, and crackers"
+heroAlt: "Editorial photograph representing the concept of charcuterie"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Charcuterie?
 
-Charcuterie (shar-KOO-tuh-ree) is the branch of cooking devoted to preparing and preserving meats through curing, smoking, fermenting, and confiting. The word comes from French *chair cuite* — "cooked flesh" — and encompasses everything from simple bacon to complex salami aged for months. Before refrigeration, this was how people kept meat from spoiling. Now it's how they make meat worth savoring.
+Charcuterie (shar-KOO-tuh-ree) is the branch of [cooking](/cooking) devoted to preparing and preserving meats through curing, smoking, fermenting, and confiting. The word comes from French *chair cuite* — "cooked flesh" — and encompasses everything from simple bacon to complex salami aged for months. Before [refrigeration](/refrigeration), this was how people kept meat from spoiling. Now it's how they make meat worth savoring.
 
 ## Preservation That Became an Art
 
@@ -53,7 +53,7 @@ Salt (and often sodium nitrite, called "curing salt" or "Prague powder #2") is a
 
 ### Fermented Sausages
 
-Ground meat mixed with salt, curing salt, starter cultures, and spices, stuffed into casings, and fermented and dried. The fermentation produces lactic acid (lowering pH to inhibit pathogens), and drying reduces water activity. The result is shelf-stable meat with complex, tangy flavors.
+Ground meat mixed with salt, curing salt, starter cultures, and spices, stuffed into casings, and fermented and dried. The [fermentation](/fermentation) produces lactic acid (lowering pH to inhibit pathogens), and drying reduces water activity. The result is shelf-stable meat with complex, tangy flavors.
 
 **Salami** — The classic fermented sausage, with hundreds of regional varieties. Genoa salami, soppressata, finocchiona (fennel-studded), 'nduja (spreadable and spicy).
 
@@ -83,12 +83,12 @@ Curing salt (sodium nitrite, NaNO₂) is the most important ingredient in charcu
 
 The amounts are precise and non-negotiable. Typical usage is 6.25% sodium nitrite mixed with 93.75% regular salt (this premix is called "Prague Powder #1" or "Insta Cure #1"), used at 1 teaspoon per 5 pounds of meat. Too little risks botulism. Too much is toxic. This is why charcuterie recipes specify curing salt quantities by weight, not volume.
 
-"Nitrate-free" or "uncured" commercial products are somewhat misleading — they typically use celery powder, which naturally contains nitrates that convert to nitrites during processing. The chemistry is identical; the label is a marketing distinction.
+"Nitrate-free" or "uncured" commercial products are somewhat misleading — they typically use celery powder, which naturally contains nitrates that convert to nitrites during processing. The [chemistry](/chemistry) is identical; the label is a [marketing](/marketing) distinction.
 
 ## The Charcuterie Board Phenomenon
 
-The word "charcuterie" has been repurposed in popular culture to mean "a pretty board of snacks." Social media turned charcuterie boards into an aesthetic category — #charcuterieboard has billions of views on TikTok. Many of these boards contain no actual charcuterie at all, featuring instead store-bought cheese, crackers, fruit, and chocolate.
+The word "charcuterie" has been repurposed in [popular culture](/popular-culture) to mean "a pretty board of snacks." Social media turned charcuterie boards into an aesthetic category — #charcuterieboard has billions of views on TikTok. Many of these boards contain no actual charcuterie at all, featuring instead store-bought cheese, crackers, fruit, and chocolate.
 
 Actual charcuterie purists find this mildly exasperating. But the trend has introduced millions of people to quality cured meats they might never have tried, and it's driven business to artisan producers. If calling a snack board "charcuterie" leads someone to discover real [cheese making](/cheese-making) or authentic salami, the linguistic drift is probably worth it.
 
-The craft itself — transforming perishable meat into shelf-stable products of extraordinary flavor through salt, time, and controlled microbiology — remains one of cooking's most satisfying disciplines. Every slice of well-aged salami represents months of careful attention. That's the real charcuterie: patience made edible.
+The craft itself — transforming perishable meat into shelf-stable products of extraordinary flavor through salt, time, and controlled [microbiology](/microbiology) — remains one of cooking's most satisfying disciplines. Every slice of well-aged salami represents months of careful attention. That's the real charcuterie: patience made edible.

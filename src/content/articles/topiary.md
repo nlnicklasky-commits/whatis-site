@@ -5,7 +5,7 @@ description: "Topiary is the art of trimming and training plants into decorative
 category: arts-amp-culture
 tags: ["topiary", "gardening", "horticulture", "garden art", "landscaping", "plants"]
 heroImage: "/images/articles/topiary.webp"
-heroAlt: "Elaborate topiary hedges trimmed into geometric and animal shapes in a formal garden"
+heroAlt: "Editorial photograph representing the concept of topiary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,11 +33,11 @@ faq:
 
 Topiary is the horticultural art of clipping and training living plants — typically shrubs and small trees — into ornamental shapes. Geometric forms (spheres, cones, pyramids, spirals), animal figures (birds, rabbits, elephants), and architectural elements (arches, columns, walls) are all classic topiary subjects.
 
-It's one of the oldest forms of garden art. When you see perfectly manicured hedges trimmed into spirals at a historic estate, or a whimsical green dinosaur at a theme park, or a neat ball of boxwood flanking a doorway — that's topiary. It's sculpture using living material, which makes it both more challenging and more rewarding than working in stone or metal. Your medium keeps growing.
+It's one of the oldest forms of garden art. When you see perfectly manicured hedges trimmed into spirals at a historic estate, or a whimsical green dinosaur at a theme park, or a neat ball of boxwood flanking a doorway — that's topiary. It's [sculpture](/sculpture) using living material, which makes it both more challenging and more rewarding than working in stone or metal. Your medium keeps growing.
 
 ## A Long History
 
-The Romans were avid topiary practitioners. Pliny the Elder described elaborate garden designs featuring clipped hedges shaped into animals, hunting scenes, and even the owner's name spelled out in boxwood. The Roman gardener Gaius Matius is traditionally credited with introducing ornamental plant shaping around the 1st century BC.
+The Romans were avid topiary practitioners. Pliny the Elder described elaborate garden designs featuring clipped hedges shaped into animals, [hunting](/hunting) scenes, and even the owner's name spelled out in boxwood. The Roman gardener Gaius Matius is traditionally credited with introducing ornamental plant shaping around the 1st century BC.
 
 Topiary declined after the fall of Rome but revived during the Renaissance, when Italian and French formal gardens featured geometric hedging on grand scales. The gardens at Versailles (designed by Andre Le Notre in the 1660s) included massive topiary elements as part of their overall geometric precision.
 
@@ -62,7 +62,7 @@ Wire frames are stuffed with sphagnum moss, then planted with small-leaved creep
 ## Popular Plants
 
 - **Boxwood (Buxus)** — The gold standard. Dense, fine-leaved, slow-growing, and extremely tolerant of repeated clipping. Small-leaved varieties like Buxus sempervirens 'Suffruticosa' are particularly prized.
-- **Yew (Taxus)** — Excellent for larger forms. Dense, dark green foliage and remarkable longevity (yews can live for thousands of years). Responds well to hard pruning.
+- **Yew (Taxus)** — Excellent for larger forms. Dense, dark green foliage and remarkable longevity (yews can live for thousands of years). Responds well to hard [pruning](/pruning).
 - **Holly (Ilex)** — Glossy leaves and bright berries add visual interest. Tolerates shaping well.
 - **Privet (Ligustrum)** — Fast-growing and affordable, making it a good choice for hedging and simple shapes. Requires more frequent trimming.
 - **Bay Laurel (Laurus nobilis)** — Classic for formal standards (lollipop shapes). Also useful in the kitchen.
@@ -75,4 +75,4 @@ The scale ranges from massive — the Green Animals Topiary Garden in Rhode Isla
 
 Contemporary garden designers use topiary to add structure, formality, and year-round interest to gardens. Even a single geometric topiary piece creates a focal point that anchors a garden design. Combined with naturalistic plantings, geometric topiary provides contrast that makes both elements more effective.
 
-The practice rewards patience more than any other garden art. You plant, you trim, you wait. Years later, the shape you imagined is there — alive, growing, and needing your continued attention. It's gardening at its most deliberate and long-term.
+The practice rewards patience more than any other garden art. You plant, you trim, you wait. Years later, the shape you imagined is there — alive, growing, and needing your continued attention. It's [gardening](/gardening) at its most deliberate and long-term.

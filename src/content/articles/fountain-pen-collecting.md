@@ -5,7 +5,7 @@ description: "Fountain pen collecting is the hobby of acquiring, using, and pres
 category: arts-amp-culture
 tags: ["collecting", "hobby", "writing instruments", "pens", "antiques", "craftsmanship"]
 heroImage: "/images/articles/fountain-pen-collecting.webp"
-heroAlt: "Collection of vintage and modern fountain pens displayed on a leather desk pad"
+heroAlt: "Editorial photograph representing the concept of fountain pen collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Fountain Pen Collecting?
 
-Fountain pen collecting is the hobby of acquiring, using, studying, and preserving fountain pens — writing instruments that use a nib to transfer liquid ink to paper through capillary action. It sits at the intersection of craftsmanship appreciation, writing culture, history, and sometimes obsessive acquisition. Collectors range from casual users who own a handful of favorite pens to serious enthusiasts with hundreds of instruments spanning centuries of design evolution.
+Fountain pen collecting is the hobby of acquiring, using, studying, and preserving fountain pens — [writing](/writing) instruments that use a nib to transfer liquid ink to paper through capillary action. It sits at the intersection of craftsmanship appreciation, writing culture, history, and sometimes obsessive acquisition. Collectors range from casual users who own a handful of favorite pens to serious enthusiasts with hundreds of instruments spanning centuries of design evolution.
 
 ## Why Fountain Pens in a Digital Age
 
@@ -53,7 +53,7 @@ The question is obvious: why collect obsolete writing technology? The answers ar
 
 **Vacuum-fill pens** use a plunger that creates suction to fill the barrel. TWSBI's VAC series and the Pilot Custom 823 use this system. They hold large ink volumes and seal tightly to prevent evaporation.
 
-**Vintage filling systems** include lever fillers (a lever on the side compresses an internal rubber sac), button fillers, crescent fillers, and other ingenious mechanisms from the early-to-mid 20th century. Part of vintage pen collecting's appeal is experiencing these different engineering solutions.
+**Vintage filling systems** include lever fillers (a lever on the side compresses an internal rubber sac), button fillers, crescent fillers, and other ingenious mechanisms from the early-to-mid 20th century. Part of vintage pen collecting's appeal is experiencing these different [engineering](/engineering) solutions.
 
 ## The Nib
 
@@ -81,7 +81,7 @@ Collectors typically focus on one or more areas:
 
 The fountain pen community is unusually active and welcoming. Online forums (Fountain Pen Network, Reddit's r/fountainpens), YouTube channels (Goulet Pens, SBRE Brown, Figboot on Pens), and pen shows (held in cities worldwide) create dense social networks around the hobby.
 
-Pen shows are the hobby's signature events. Vendors sell new and vintage pens, nibmeisters offer custom grinds, and collectors trade and sell from their personal collections. The atmosphere is friendly and nerdy — people happily spend hours discussing nib geometry and ink chemistry with strangers.
+Pen shows are the hobby's signature events. Vendors sell new and vintage pens, nibmeisters offer custom grinds, and collectors [trade](/trade) and sell from their personal collections. The atmosphere is friendly and nerdy — people happily spend hours discussing nib [geometry](/geometry) and ink [chemistry](/chemistry) with strangers.
 
 ## Getting Started
 

@@ -5,7 +5,7 @@ description: "Neuroeconomics combines neuroscience, economics, and psychology to
 category: science
 tags: ["neuroeconomics", "decision making", "neuroscience", "economics", "psychology", "brain", "behavioral economics"]
 heroImage: "/images/articles/neuroeconomics-hero.webp"
-heroAlt: "Brain scan image overlaid with economic graphs and decision-making diagrams"
+heroAlt: "Editorial photograph representing the concept of neuroeconomics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ Here's what's remarkable: the vmPFC converts different types of value into a com
 
 Wolfram Schultz's work with dopamine neurons in monkeys revealed something even more specific. Dopamine neurons don't simply signal reward — they signal *prediction error*. They fire when a reward is better than expected, go silent when a reward is worse than expected, and barely respond to expected rewards. This prediction error signal teaches the brain what to pursue and what to avoid, gradually updating the value assigned to different options.
 
-This is strikingly similar to temporal difference learning algorithms in [machine learning](/machine-learning) — and the parallel isn't coincidental. Computer scientists who developed reinforcement learning algorithms were partly inspired by Schultz's findings about dopamine.
+This is strikingly similar to temporal difference learning algorithms in [machine learning](/machine-learning) — and the parallel isn't coincidental. Computer scientists who developed [reinforcement learning](/reinforcement-learning) algorithms were partly inspired by Schultz's findings about dopamine.
 
 ### Competing Systems
 
@@ -77,7 +77,7 @@ These systems don't take turns. They compete simultaneously, and the winner depe
 
 ## Loss Aversion: The Brain Takes Losses Personally
 
-One of the most replicated findings in behavioral economics is loss aversion — losses feel about twice as painful as equivalent gains feel good. Losing $100 hurts more than finding $100 feels pleasant.
+One of the most replicated findings in [behavioral economics](/behavioral-economics) is loss aversion — losses feel about twice as painful as equivalent gains feel good. Losing $100 hurts more than finding $100 feels pleasant.
 
 Neuroeconomics located this asymmetry in the brain. The amygdala — an almond-shaped structure involved in processing emotions, especially fear — responds more strongly to potential losses than to potential gains. Brain imaging studies show that the amygdala lights up when people face gambles with potential losses, and its activation predicts how loss-averse a person will be.
 
@@ -171,7 +171,7 @@ The field itself has been criticized for sometimes overclaiming. Showing that a 
 
 **Computational psychiatry** uses neuroeconomic models to understand mental illness as disruptions in decision-making algorithms. Depression might be modeled as an underestimation of future rewards. Anxiety as an overestimation of risk. ADHD as excessively steep temporal discounting.
 
-**Artificial intelligence and neuroeconomics** increasingly inform each other. AI systems that learn from reward signals (reinforcement learning) were inspired by dopamine neurons, and neuroscientists now use AI models as hypotheses about brain function. Studying how [algorithms](/algorithms) make decisions illuminates how brains do, and vice versa.
+**[Artificial intelligence](/artificial-intelligence) and neuroeconomics** increasingly inform each other. AI systems that learn from reward signals (reinforcement learning) were inspired by dopamine neurons, and neuroscientists now use AI models as hypotheses about brain function. Studying how [algorithms](/algorithms) make decisions illuminates how brains do, and vice versa.
 
 **Real-world neuroeconomics** is moving from laboratory games to field studies. Wearable neurotechnology — EEG headbands, galvanic skin response sensors — allows researchers to study decision-making in natural environments rather than MRI scanners.
 

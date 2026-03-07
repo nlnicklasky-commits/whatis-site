@@ -5,7 +5,7 @@ description: "Differential equations describe how things change using rates of c
 category: science
 tags: ["differential equations", "mathematics", "calculus", "modeling", "physics", "engineering", "applied math"]
 heroImage: "/images/articles/differential-equations-hero.webp"
-heroAlt: "Mathematical equations and graphs showing curves representing solutions to differential equations"
+heroAlt: "Editorial photograph representing the concept of differential equations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -109,7 +109,7 @@ Three PDEs appear so frequently that they've earned special status.
 
 PDEs are generally much harder to solve than ODEs. The primary technique is **separation of variables**: assume the solution is a product of functions, each depending on a single variable. u(x,t) = X(x)T(t), for instance. This converts the PDE into separate ODEs, which you already know how to solve.
 
-**Fourier series** and **Fourier transforms** are essential companions. Joseph Fourier discovered that any reasonable function can be expressed as a sum (possibly infinite) of sines and cosines. This means you can break a complex initial condition into simple sinusoidal components, solve the equation for each component separately, and add the results. This insight—decompose, solve, reassemble—is one of the most powerful ideas in applied mathematics.
+**Fourier series** and **Fourier transforms** are essential companions. Joseph Fourier discovered that any reasonable function can be expressed as a sum (possibly infinite) of sines and cosines. This means you can break a complex initial condition into simple sinusoidal components, solve the equation for each component separately, and add the results. This insight—decompose, solve, reassemble—is one of the most powerful ideas in [applied mathematics](/applied-mathematics).
 
 **Boundary conditions** specify what happens at the edges of the domain (the temperature at both ends of a metal rod, the displacement of a string at its fixed endpoints). **Initial conditions** specify the starting state. Together, they make the solution unique—without them, a PDE typically has infinitely many solutions.
 
@@ -129,7 +129,7 @@ Most differential equations encountered in real applications can't be solved wit
 
 ### Physics
 
-Essentially every fundamental law of physics is a differential equation. Newton's laws of motion. Maxwell's equations of electromagnetism. The Schrodinger equation of quantum mechanics. Einstein's field equations of general relativity. The Navier-Stokes equations of fluid dynamics. Understanding physics *is* understanding differential equations—there's no separating them.
+Essentially every fundamental law of physics is a differential equation. Newton's laws of motion. Maxwell's equations of [electromagnetism](/electromagnetism). The Schrodinger equation of [quantum mechanics](/quantum-mechanics). Einstein's field equations of [general relativity](/general-relativity). The Navier-Stokes equations of fluid dynamics. Understanding physics *is* understanding differential equations—there's no separating them.
 
 The Navier-Stokes equations deserve special mention. They describe fluid flow—water, air, blood, magma—and are so difficult that proving they always have smooth solutions is one of the seven Millennium Prize Problems, carrying a $1 million reward. We use numerical approximations of these equations every day for weather forecasting and [aerodynamics](/aerodynamics) simulation, but their fundamental mathematical properties remain partially unknown.
 
@@ -179,4 +179,4 @@ Differential equations are the mathematical language for describing how things c
 
 Analytical solutions exist for important special cases—and those solutions reveal deep truths about the behavior of physical systems. But most real-world differential equations require numerical methods, making computation an essential complement to theory.
 
-From Newton's laws to weather prediction to financial modeling to disease spread, differential equations are the invisible mathematical machinery behind our understanding of the world. You may never solve one by hand after finishing a math course, but the systems those equations describe surround you constantly. Understanding the language of change—even conceptually—gives you a deeper appreciation for how the physical world works and why scientists and engineers think the way they do.
+From Newton's laws to weather prediction to [financial modeling](/financial-modeling) to disease spread, differential equations are the invisible mathematical machinery behind our understanding of the world. You may never solve one by hand after finishing a math course, but the systems those equations describe surround you constantly. Understanding the language of change—even conceptually—gives you a deeper appreciation for how the physical world works and why scientists and engineers think the way they do.

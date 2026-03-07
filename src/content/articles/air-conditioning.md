@@ -5,7 +5,7 @@ description: "Air conditioning removes heat and humidity from indoor air using r
 category: technology
 tags: ["air conditioning", "hvac", "cooling", "refrigeration", "technology", "home improvement"]
 heroImage: "/images/articles/air-conditioning-hero.webp"
-heroAlt: "A modern air conditioning unit mounted on the exterior wall of a building"
+heroAlt: "Editorial photograph representing the concept of air conditioning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,17 +41,17 @@ Air conditioning is a system that removes heat and moisture from indoor air and 
 
 ## The Surprisingly Recent History of Cool Air
 
-Here's something that might catch you off guard: for roughly 99.9% of human history, nobody had air conditioning. People just... sweated. Ancient Egyptians hung wet reeds in windows and let evaporation do modest work. Romans circulated aqueduct water through walls. But mechanical cooling? That's a 20th-century invention.
+Here's something that might catch you off guard: for roughly 99.9% of human history, nobody had air conditioning. People just... sweated. Ancient Egyptians hung wet reeds in windows and let evaporation do modest work. Romans circulated aqueduct water through walls. But mechanical cooling? That's a 20th-century [invention](/invention).
 
 The story starts in 1902, when a 25-year-old engineer named Willis Carrier designed the first modern air conditioning system. But he wasn't trying to cool people down. A printing company in Brooklyn was struggling with humidity that kept warping their paper and smearing their ink. Carrier built a machine that passed air over chilled coils to control moisture levels. The cooling was basically a side effect.
 
-Carrier patented his "Apparatus for Treating Air" in 1906 and founded the Carrier Engineering Corporation in 1915. The technology spread to movie theaters in the 1920s — which is actually why "summer blockbusters" became a thing. Theaters were among the first public spaces with AC, and people flocked to them during heat waves as much for the cool air as for the films.
+Carrier patented his "Apparatus for Treating Air" in 1906 and founded the Carrier [Engineering](/engineering) Corporation in 1915. The technology spread to movie theaters in the 1920s — which is actually why "summer blockbusters" became a thing. Theaters were among the first public spaces with AC, and people flocked to them during heat waves as much for the cool air as for the films.
 
-Home air conditioning didn't become widespread until the late 1950s and 1960s. In 1965, only about 10% of American homes had AC. By 2020, that number had climbed to roughly 90%. This single technology reshaped American geography — the massive population growth across the Sun Belt states (Arizona, Texas, Florida, Nevada) would have been impossible without it. Between 1950 and 2000, the population of Phoenix grew from about 107,000 to over 1.3 million. Try that without air conditioning.
+Home air conditioning didn't become widespread until the late 1950s and 1960s. In 1965, only about 10% of American homes had AC. By 2020, that number had climbed to roughly 90%. This single technology reshaped American [geography](/geography) — the massive population growth across the Sun Belt states (Arizona, Texas, Florida, Nevada) would have been impossible without it. Between 1950 and 2000, the population of Phoenix grew from about 107,000 to over 1.3 million. Try that without air conditioning.
 
 ## How Air Conditioning Actually Works
 
-The core mechanism behind every air conditioner — from a window unit to a massive commercial system — is the refrigeration cycle. It has four main steps and four key components. Once you understand this loop, every type of AC system makes sense.
+The core mechanism behind every air conditioner — from a window unit to a massive commercial system — is the [refrigeration](/refrigeration) cycle. It has four main steps and four key components. Once you understand this loop, every type of AC system makes sense.
 
 ### The Four Components
 
@@ -165,7 +165,7 @@ The International Energy Agency (IEA) estimates that space cooling accounts for 
 
 This creates a feedback loop that's worth thinking about: as the planet warms due to greenhouse gas emissions, more people need air conditioning. More air conditioning requires more electricity. If that electricity comes from fossil fuels, it generates more emissions, which accelerates warming, which increases AC demand. You see where this goes.
 
-There are reasons for cautious optimism. The efficiency of AC systems has improved dramatically — a modern unit uses about 50% less energy than one from the 1990s. Renewable energy is growing rapidly, so the electricity powering your AC is increasingly clean. And newer refrigerants have vastly lower global warming potential than their predecessors.
+There are reasons for cautious optimism. The efficiency of AC systems has improved dramatically — a modern unit uses about 50% less energy than one from the 1990s. [Renewable energy](/renewable-energy) is growing rapidly, so the electricity powering your AC is increasingly clean. And newer refrigerants have vastly lower global warming potential than their predecessors.
 
 But the sheer growth in demand — billions of people in hot climates gaining access to cooling for the first time — means total energy consumption for cooling will likely increase even as individual units get more efficient.
 
@@ -220,7 +220,7 @@ Several trends are reshaping how we'll cool buildings in the coming decades.
 
 **Solid-state cooling** technologies, like thermoelectric and elastocaloric systems, could eventually replace vapor-compression refrigeration entirely. These systems use no refrigerants and have no moving parts. They're still in research and early commercial stages, but the potential efficiency gains and environmental benefits are significant.
 
-**AI-driven optimization** is already being deployed in commercial buildings. [Machine learning](/machine-learning) algorithms analyze weather data, occupancy patterns, electricity pricing, and building thermal characteristics to optimize cooling in real time. Google reported reducing cooling energy consumption in its data centers by 40% using DeepMind AI. Residential versions of this technology are coming — some smart thermostat features already incorporate basic versions.
+**AI-driven [optimization](/optimization)** is already being deployed in commercial buildings. [Machine learning](/machine-learning) algorithms analyze weather data, occupancy patterns, electricity pricing, and building thermal characteristics to optimize cooling in real time. Google reported reducing cooling energy consumption in its data centers by 40% using DeepMind AI. Residential versions of this technology are coming — some smart thermostat features already incorporate basic versions.
 
 ## What to Know Before Buying
 
@@ -230,7 +230,7 @@ If you're shopping for a new system, here's what actually matters.
 
 **Compare lifetime cost, not sticker price.** A $6,000 system at 20 SEER2 might save you $400/year compared to a $4,000 system at 14 SEER2. Over a 15-year lifespan, the more expensive system actually costs $2,000 less. Factor in available tax credits and rebates — the Inflation Reduction Act offers up to $2,000 for qualifying heat pumps, and many utilities offer additional incentives.
 
-**Check contractor credentials.** Look for NATE certification (North American Technician Excellence), proper state licensing, and insurance. Get at least three quotes. A low bid from an unqualified installer will cost you far more in the long run through poor installation, warranty voidance, and premature failure.
+**Check contractor credentials.** Look for NATE certification (North American Technician Excellence), proper state licensing, and [insurance](/insurance). Get at least three quotes. A low bid from an unqualified installer will cost you far more in the long run through poor installation, warranty voidance, and premature failure.
 
 **Consider your climate's trajectory.** If you live in a region where heat waves are becoming more frequent and intense — and statistically, that's most regions — investing in a higher-capacity, higher-efficiency system makes sense even if your current cooling needs are modest.
 

@@ -5,7 +5,7 @@ description: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultr
 category: health-amp-wellness
 tags: ["medical", "radiology", "imaging", "x-ray"]
 heroImage: "/images/articles/radiology.webp"
-heroAlt: "A radiologist examining MRI brain scans on multiple high-resolution monitors"
+heroAlt: "Editorial photograph representing the concept of radiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,19 +39,19 @@ Radiology is the medical specialty that uses imaging technologies — X-rays, CT
 
 ## Seeing the Invisible
 
-Before radiology existed, doctors could only examine what they could see, touch, or hear through a stethoscope. Internal problems required exploratory surgery — opening someone up just to figure out what was wrong. That changed on November 8, 1895, when German physicist Wilhelm Conrad Roentgen accidentally discovered X-rays while experimenting with cathode ray tubes.
+Before radiology existed, doctors could only examine what they could see, touch, or hear through a stethoscope. Internal problems required exploratory [surgery](/surgery) — opening someone up just to figure out what was wrong. That changed on November 8, 1895, when German physicist Wilhelm Conrad Roentgen accidentally discovered X-rays while experimenting with cathode ray tubes.
 
 Roentgen noticed that a nearby fluorescent screen glowed even when the tube was shielded. Something was passing through the shield. He spent weeks investigating, eventually producing the first medical X-ray image — his wife Anna Bertha's hand, complete with wedding ring and visible bones. He called them "X-rays" because he didn't know what they were. The "X" stood for unknown.
 
-The medical world went wild. Within months, X-ray machines appeared in hospitals across Europe and the United States. For the first time in history, physicians could see bones, detect fractures, and locate foreign objects without surgery. Roentgen won the first Nobel Prize in Physics in 1901.
+The medical world went wild. Within months, X-ray machines appeared in hospitals across Europe and the United States. For the first time in history, physicians could see bones, detect fractures, and locate foreign objects without surgery. Roentgen won the first Nobel Prize in [Physics](/physics) in 1901.
 
-The early years were also dangerous. Nobody understood radiation's biological effects. Shoe stores used fluoroscopes to check shoe fit. Early radiologists developed severe radiation burns, and many died of radiation-induced cancers. Marie Curie, who pioneered mobile X-ray units during World War I, likely died from aplastic anemia caused by radiation exposure. These tragedies drove the development of radiation safety standards that protect patients and practitioners today.
+The early years were also dangerous. Nobody understood radiation's biological effects. Shoe stores used fluoroscopes to check shoe fit. Early radiologists developed severe radiation burns, and many died of radiation-induced cancers. Marie Curie, who pioneered mobile X-ray units during [World War I](/world-war-i), likely died from aplastic anemia caused by radiation exposure. These tragedies drove the development of radiation safety standards that protect patients and practitioners today.
 
 ## The Imaging Toolkit
 
 Modern radiology encompasses several distinct technologies, each with specific strengths.
 
-### X-Ray (Radiography)
+### X-Ray ([Radiography](/radiography))
 
 The oldest and most basic imaging modality. X-rays pass through the body and hit a detector on the other side. Dense structures like bone absorb more X-rays, appearing white on the image. Air (in lungs) absorbs almost none, appearing black. Soft tissues fall somewhere in between.
 
@@ -61,11 +61,11 @@ Limitations? X-rays compress a three-dimensional body into a two-dimensional ima
 
 ### Computed Tomography (CT)
 
-CT scanning — developed in the early 1970s by Godfrey Hounsfield (who won the Nobel Prize for it in 1979) — takes X-rays from multiple angles around the body and uses computer algorithms to reconstruct cross-sectional images. Instead of a flat shadow, you get slices through the body at whatever thickness you choose, typically 0.5-5mm.
+CT scanning — developed in the early 1970s by Godfrey Hounsfield (who won the Nobel Prize for it in 1979) — takes X-rays from multiple angles around the body and uses computer [algorithms](/algorithms) to reconstruct cross-sectional images. Instead of a flat shadow, you get slices through the body at whatever thickness you choose, typically 0.5-5mm.
 
 Modern CT scanners can image the entire body in under 30 seconds. They're excellent for detecting tumors, internal bleeding, kidney stones, pulmonary embolism, aortic aneurysms, and complex fractures. CT angiography can visualize blood vessels with injectable contrast dye, often replacing older, more invasive angiography techniques.
 
-The trade-off is radiation dose. A CT scan of the abdomen delivers roughly 100 times the radiation of a chest X-ray. That's still a small absolute risk for any individual scan, but the cumulative effect of multiple CT scans over a lifetime is a legitimate concern. About 80 million CT scans are performed annually in the U.S. — roughly one for every four people.
+The [trade](/trade)-off is radiation dose. A CT scan of the abdomen delivers roughly 100 times the radiation of a chest X-ray. That's still a small absolute risk for any individual scan, but the cumulative effect of multiple CT scans over a lifetime is a legitimate concern. About 80 million CT scans are performed annually in the U.S. — roughly one for every four people.
 
 ### Magnetic Resonance Imaging (MRI)
 
@@ -87,7 +87,7 @@ The main limitation is that ultrasound can't penetrate bone or air-filled struct
 
 Nuclear medicine flips the script. Instead of sending energy into the body from outside, you inject (or swallow) a tiny amount of radioactive material — a radiotracer — that travels to specific organs or tissues. A special camera detects the gamma rays emitted by the tracer.
 
-PET scans (positron emission tomography) are the best-known nuclear medicine technique. They're indispensable in oncology — cancer cells metabolize glucose faster than normal cells, so a glucose-based radiotracer (FDG) lights up tumors. PET scans also evaluate brain metabolism in Alzheimer's disease and heart muscle viability after a heart attack.
+PET scans (positron emission tomography) are the best-known nuclear medicine technique. They're indispensable in [oncology](/oncology) — cancer cells metabolize glucose faster than normal cells, so a glucose-based radiotracer (FDG) lights up tumors. PET scans also evaluate brain metabolism in Alzheimer's disease and heart muscle viability after a heart attack.
 
 ## Diagnostic vs. Interventional Radiology
 
@@ -109,11 +109,11 @@ Interventional radiology has eliminated the need for open surgery in many situat
 
 A typical diagnostic radiologist reads 50-100 studies per day. Each study might have hundreds of images (a CT scan of the abdomen can generate 500+ individual slices). The radiologist examines every image, dictates a report describing findings and providing a diagnosis or differential diagnosis, and sends it to the ordering physician.
 
-It's intellectually demanding pattern recognition work. Radiologists are essentially looking for "things that shouldn't be there" or "things that look different from normal" across thousands of images daily. Miss a small lung nodule on a CT scan, and a cancer might go undetected for months. The pressure is real — radiological misses are a leading source of medical malpractice claims.
+It's intellectually demanding [pattern recognition](/pattern-recognition) work. Radiologists are essentially looking for "things that shouldn't be there" or "things that look different from normal" across thousands of images daily. Miss a small lung nodule on a CT scan, and a cancer might go undetected for months. The pressure is real — radiological misses are a leading source of medical malpractice claims.
 
 ## AI in Radiology — Hype and Reality
 
-Artificial intelligence has been "about to replace radiologists" since approximately 2016, when Geoffrey Hinton famously said, "We should stop training radiologists now." It's 2025, and radiologists are still very much employed.
+[Artificial intelligence](/artificial-intelligence) has been "about to replace radiologists" since approximately 2016, when Geoffrey Hinton famously said, "We should stop training radiologists now." It's 2025, and radiologists are still very much employed.
 
 AI is genuinely good at specific, well-defined tasks: detecting diabetic retinopathy in eye scans, flagging suspicious lung nodules on CT, identifying fractures on X-rays. Several FDA-cleared AI tools assist radiologists by prioritizing urgent cases or providing a "second read."
 
@@ -136,6 +136,6 @@ The guiding principle in radiology is ALARA — As Low As Reasonably Achievable.
 
 ## Becoming a Radiologist
 
-The training path: four years of medical school, one year of internship, four years of radiology residency, and often one to two years of fellowship subspecializing in areas like neuroradiology, musculoskeletal radiology, breast imaging, or interventional radiology. That's 10-11 years of post-college education.
+The training path: four years of medical school, one year of internship, four years of radiology residency, and often one to two years of fellowship subspecializing in areas like neuroradiology, musculoskeletal radiology, breast imaging, or interventional radiology. That's 10-11 years of post-college [education](/education).
 
 Radiology consistently ranks among the most competitive medical specialties. It also ranks among the highest-paying — median salaries exceed $400,000 in the U.S. The combination of intellectual challenge, technological focus, and quality of life (fewer emergencies than surgery, no overnight call in many practices) makes it a popular career choice for medical students who enjoy visual problem-solving.

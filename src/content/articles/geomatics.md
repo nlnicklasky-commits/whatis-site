@@ -5,7 +5,7 @@ description: "Geomatics is the discipline of collecting, managing, and analyzing
 category: technology
 tags: ["geomatics", "spatial data", "gis", "remote sensing", "surveying", "gps", "mapping"]
 heroImage: "/images/articles/geomatics-hero.webp"
-heroAlt: "Surveyor using a total station instrument with GPS equipment on a tripod against a landscape backdrop"
+heroAlt: "Editorial photograph representing the concept of geomatics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Geomatics?
 
-Geomatics is the science and technology of gathering, storing, processing, analyzing, managing, and delivering spatially referenced data — information tied to locations on Earth's surface. It integrates traditional land surveying with modern technologies including GPS/GNSS positioning, remote sensing, geographic information systems (GIS), photogrammetry, and [cartography](/cartography) to measure, map, and model the physical world.
+Geomatics is the science and technology of gathering, storing, processing, analyzing, managing, and delivering spatially referenced data — information tied to locations on Earth's surface. It integrates traditional land surveying with modern technologies including GPS/GNSS positioning, remote sensing, geographic [information systems](/information-systems) (GIS), photogrammetry, and [cartography](/cartography) to measure, map, and model the physical world.
 
 ## Where Everything Meets Location
 
@@ -137,7 +137,7 @@ The result: lower input costs, reduced environmental impact, and maintained or i
 
 ### Data Volume
 
-Geomatics generates enormous datasets. A single LiDAR flight over a small city produces billions of 3D points. Daily satellite imagery from commercial constellations generates terabytes. Managing, processing, and extracting value from these data volumes requires [data science](/data-science) approaches — cloud computing, machine learning for automated feature extraction, and efficient database architectures.
+Geomatics generates enormous datasets. A single LiDAR flight over a small city produces billions of 3D points. Daily satellite imagery from commercial constellations generates terabytes. Managing, processing, and extracting value from these data volumes requires [data science](/data-science) approaches — [cloud computing](/cloud-computing), machine learning for automated feature extraction, and efficient database architectures.
 
 ### Accuracy and Reliability
 

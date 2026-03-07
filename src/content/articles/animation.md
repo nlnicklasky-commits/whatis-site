@@ -5,7 +5,7 @@ description: "Animation is the art of creating the illusion of movement by displ
 category: arts-amp-culture
 tags: ["animation", "cgi", "2d animation", "3d animation", "stop motion", "motion graphics"]
 heroImage: "/images/articles/animation.webp"
-heroAlt: "Colorful animation frames showing character motion progression from sketch to final render"
+heroAlt: "Editorial photograph representing the concept of animation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ Traditional animation at its best — think *Spirited Away* or *The Lion King* �
 
 ### 3D Computer Animation (CGI)
 
-Pixar's *Toy Story* (1995) was the first fully computer-animated feature film, and it broke everything wide open. In 3D animation, artists build digital models, rig them with virtual skeletons, and manipulate them in three-dimensional space. The computer calculates lighting, textures, and physics, then renders each frame.
+Pixar's *Toy Story* (1995) was the first fully computer-animated feature film, and it broke everything wide open. In 3D animation, artists build digital models, rig them with virtual skeletons, and manipulate them in three-dimensional space. The computer calculates lighting, textures, and [physics](/physics), then renders each frame.
 
 The results can be photorealistic — modern CGI animals and environments are often indistinguishable from live footage. But stylized 3D animation, like *Spider-Man: Into the Spider-Verse*, shows that [computer graphics](/computer-graphics) can also be wildly creative rather than merely realistic.
 
@@ -61,25 +61,25 @@ Stop motion animators physically manipulate real objects — clay figures, puppe
 
 Studios like Laika (*Coraline*, *Kubo and the Two Strings*) and Aardman (*Wallace & Gromit*, *Chicken Run*) continue to produce stop-motion films that are both technically stunning and commercially successful. The tactile quality of real materials gives stop motion a charm that CGI struggles to match.
 
-### Motion Graphics
+### [Motion Graphics](/motion-graphics)
 
-This branch focuses on animated graphic design — text, logos, shapes, and infographics that move. You see motion graphics constantly: in title sequences, advertisements, explainer videos, and broadcast news. It's where [animation meets graphic design](/design-patterns), and it's a massive industry.
+This branch focuses on animated [graphic design](/graphic-design) — text, logos, shapes, and infographics that move. You see motion graphics constantly: in title sequences, advertisements, explainer videos, and broadcast news. It's where [animation meets graphic design](/design-patterns), and it's a massive industry.
 
 ## The 12 Principles
 
 In 1981, Disney animators Frank Thomas and Ollie Johnston published *The Illusion of Life*, which codified 12 principles of animation that remain foundational today:
 
-1. **Squash and stretch** — Objects deform when they move (a bouncing ball flattens on impact)
+1. **[Squash](/squash) and stretch** — Objects deform when they move (a bouncing ball flattens on impact)
 2. **Anticipation** — A character winds up before throwing a punch
 3. **Staging** — Presenting ideas clearly through composition and timing
 4. **Straight ahead vs. pose to pose** — Two different workflow approaches
 5. **Follow through and overlapping action** — Different parts of a character move at different rates
 6. **Slow in and slow out** — Movement accelerates and decelerates rather than moving at constant speed
 7. **Arc** — Natural movement follows curved paths, not straight lines
-8. **Secondary action** — Supporting movements that add richness (a character walking while their hair bounces)
+8. **Secondary action** — Supporting movements that add richness (a character [walking](/walking) while their hair bounces)
 9. **Timing** — The number of frames between poses determines the speed and weight of movement
 10. **Exaggeration** — Pushing movements beyond realism for emotional effect
-11. **Solid drawing** — Understanding form, weight, and volume
+11. **Solid [drawing](/drawing)** — Understanding form, weight, and volume
 12. **Appeal** — Characters should be interesting to watch, whether heroic or villainous
 
 These principles apply whether you're drawing by hand, animating a 3D model, or creating motion graphics. They're really about understanding how real movement works — and then knowing when to break the rules.

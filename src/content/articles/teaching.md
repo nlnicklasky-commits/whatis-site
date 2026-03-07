@@ -5,7 +5,7 @@ description: "Teaching is the practice of facilitating learning by sharing knowl
 category: everyday-concepts
 tags: ["teaching", "education", "pedagogy", "learning", "instructor", "educator"]
 heroImage: "/images/articles/teaching.webp"
-heroAlt: "A teacher explaining a concept to attentive students in a classroom"
+heroAlt: "Editorial photograph representing the concept of teaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Teaching is the intentional process of facilitating learning — helping someone else acquire knowledge, skills, understanding, or ways of thinking that they didn't have before. It happens in classrooms, workshops, kitchens, playing fields, hospital wards, and living rooms. Anywhere someone who knows something helps someone who doesn't, teaching is happening.
 
-That sounds simple. It's not. The gap between knowing something yourself and being able to help someone else learn it is enormous. Every expert knows their subject; very few can teach it well. Good teaching is a separate skill — one that combines subject knowledge, communication, psychology, improvisation, and genuine care into something that, when it clicks, feels almost magical.
+That sounds simple. It's not. The gap between knowing something yourself and being able to help someone else learn it is enormous. Every expert knows their subject; very few can teach it well. Good teaching is a separate skill — one that combines subject knowledge, communication, [psychology](/psychology), improvisation, and genuine care into something that, when it clicks, feels almost magical.
 
 ## What Teachers Actually Do
 
@@ -55,7 +55,7 @@ A classroom (or any learning environment) needs structure. Managing behavior, ti
 
 ### Support
 
-Students are people with complicated lives, varying abilities, and different levels of motivation. Teaching involves coaching, encouraging, challenging, comforting, and sometimes simply listening. The [emotional](/educational-psychology) labor of teaching is significant and often unacknowledged.
+Students are people with complicated lives, varying abilities, and different levels of motivation. Teaching involves [coaching](/coaching), encouraging, challenging, comforting, and sometimes simply listening. The [emotional](/educational-psychology) labor of teaching is significant and often unacknowledged.
 
 ## Teaching Methods
 
@@ -65,7 +65,7 @@ The teacher explains, demonstrates, and guides practice. It's the most efficient
 
 ### Inquiry-Based Learning
 
-Students investigate questions, conduct experiments, and discover concepts with teacher guidance. More time-consuming but develops deeper understanding and critical thinking skills. Works best when students have enough background knowledge to investigate meaningfully.
+Students investigate questions, conduct experiments, and discover concepts with teacher guidance. More time-consuming but develops deeper understanding and [critical thinking](/critical-thinking) skills. Works best when students have enough background knowledge to investigate meaningfully.
 
 ### Collaborative Learning
 
@@ -73,7 +73,7 @@ Students work in groups to discuss, solve problems, or create products together.
 
 ### Socratic Method
 
-The teacher asks sequential questions that guide students to discover answers through their own reasoning. Named after the [Greek philosopher](/philosophy-of-education), it's powerful for developing analytical thinking but requires skill to execute well.
+The teacher asks sequential questions that guide students to discover answers through their own reasoning. Named after the [Greek philosopher](/[philosophy](/philosophy)-of-[education](/education)), it's powerful for developing analytical thinking but requires skill to execute well.
 
 ### Differentiated Instruction
 

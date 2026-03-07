@@ -5,7 +5,7 @@ description: "Conservation biology is the scientific study of protecting biodive
 category: science
 tags: ["biology", "ecology", "environment", "biodiversity", "conservation", "wildlife", "ecosystems"]
 heroImage: "/images/articles/conservation-biology-hero.webp"
-heroAlt: "Diverse wildlife in a protected habitat showing the intersection of ecology and conservation efforts"
+heroAlt: "Editorial photograph representing the concept of conservation biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Conservation Biology?
 
-Conservation biology is the scientific discipline dedicated to understanding and protecting Earth's biological diversity — the variety of species, genes, and ecosystems that sustain life on this planet. It applies principles from ecology, genetics, biogeography, and population biology to the practical challenge of preventing extinctions, restoring degraded habitats, and managing natural resources so they persist for future generations.
+Conservation biology is the scientific discipline dedicated to understanding and protecting Earth's biological diversity — the variety of species, genes, and ecosystems that sustain life on this planet. It applies principles from ecology, genetics, [biogeography](/biogeography), and population biology to the practical challenge of preventing extinctions, restoring degraded habitats, and managing natural resources so they persist for future generations.
 
 ## The Sixth Extinction: Why This Field Exists
 
@@ -47,9 +47,9 @@ We are living through a mass extinction event. That's not hyperbole — it's the
 
 The background extinction rate — the normal pace at which species disappear without human influence — is roughly 0.1-1 species per million species per year. The current rate is 100 to 1,000 times that. The Living Planet Report (2022) found that monitored wildlife populations declined by an average of 69% between 1970 and 2018. Not 6.9%. Sixty-nine percent. In under fifty years.
 
-Five times before in Earth's history, mass extinctions wiped out 75% or more of species. The last one, 66 million years ago, killed the dinosaurs. What makes the current extinction different is its cause: us. Habitat destruction, overexploitation, pollution, invasive species, and climate change — all driven by human activity — are eliminating species faster than at any point since that asteroid hit.
+Five times before in Earth's history, mass extinctions wiped out 75% or more of species. The last one, 66 million years ago, killed the [dinosaurs](/dinosaurs). What makes the current extinction different is its cause: us. Habitat destruction, overexploitation, pollution, invasive species, and climate change — all driven by human activity — are eliminating species faster than at any point since that asteroid hit.
 
-Conservation biology emerged in the 1970s and 1980s as scientists recognized that traditional wildlife management and ecology weren't enough. Michael Soule, often called the father of conservation biology, described it as a "crisis discipline" — like medicine or emergency management, it makes decisions under uncertainty because waiting for perfect information means losing what you're trying to save.
+Conservation biology emerged in the 1970s and 1980s as scientists recognized that traditional [wildlife management](/wildlife-management) and ecology weren't enough. Michael Soule, often called the father of conservation biology, described it as a "crisis discipline" — like medicine or emergency management, it makes decisions under uncertainty because waiting for perfect information means losing what you're trying to save.
 
 ## The Science of Biodiversity
 
@@ -126,7 +126,7 @@ Wolves reintroduced to Yellowstone National Park in 1995 triggered a trophic cas
 
 ### Protected Areas
 
-Protected areas — national parks, wildlife refuges, marine reserves, wilderness areas — are the backbone of conservation. As of 2024, roughly 17% of Earth's land and 8% of oceans are formally protected, though protection levels vary enormously. The Kunming-Montreal Global Biodiversity Framework (2022) set a target of 30% of land and sea protected by 2030 ("30x30").
+Protected areas — [national parks](/national-parks), wildlife refuges, marine reserves, wilderness areas — are the backbone of conservation. As of 2024, roughly 17% of Earth's land and 8% of oceans are formally protected, though protection levels vary enormously. The Kunming-Montreal Global Biodiversity Framework (2022) set a target of 30% of land and sea protected by 2030 ("30x30").
 
 Protection works — species fare better inside protected areas than outside them. But protection alone isn't sufficient. Many protected areas are too small, poorly managed, or surrounded by hostile landscapes. "Paper parks" exist on maps but receive no real enforcement.
 
@@ -144,7 +144,7 @@ Conservation that ignores local communities fails. People living alongside wildl
 
 Community conservancies in Kenya — where local communities manage wildlife areas and share tourism revenue — have increased wildlife populations across millions of acres. In Namibia, communal conservancies grew from zero in 1996 to 86 by 2020, covering over 166,000 square kilometers. Wildlife populations in conservancy areas have increased significantly, including populations of [endangered species](/animal-behavior) like black rhinos.
 
-Payment for ecosystem services (PES) compensates landowners for maintaining forests, wetlands, or other ecosystems that provide public benefits like water purification, carbon storage, and flood control. Costa Rica's PES program has contributed to the country reversing deforestation and more than doubling its forest cover since the 1980s.
+Payment for ecosystem services (PES) compensates landowners for maintaining forests, wetlands, or other ecosystems that provide public benefits like [water purification](/water-purification), carbon storage, and flood control. Costa Rica's PES program has contributed to the country reversing deforestation and more than doubling its forest cover since the 1980s.
 
 ### Conservation Genetics
 
@@ -168,13 +168,13 @@ Modern genetics provides powerful conservation tools:
 
 **Drones** — survey remote areas, count wildlife populations, monitor illegal activity (poaching, logging), and deliver supplies to remote field stations.
 
-**Artificial intelligence** — processes the massive datasets generated by camera traps, satellite imagery, and acoustic monitors. [Machine learning](/machine-learning) models can identify species in camera trap photos, detect chainsaw sounds in forests, and predict poaching hotspots.
+**[Artificial intelligence](/artificial-intelligence)** — processes the massive datasets generated by camera traps, satellite imagery, and acoustic monitors. [Machine learning](/machine-learning) models can identify species in camera trap photos, detect chainsaw sounds in forests, and predict poaching hotspots.
 
 ## The Economics of Conservation
 
 Conservation costs money. But biodiversity loss costs more.
 
-Global ecosystem services — pollination, water purification, flood control, carbon sequestration, fisheries, pharmaceuticals, soil fertility — are valued at $125-145 trillion per year (Costanza et al., updated estimates). That's roughly 1.5 times global GDP. These services are largely provided for free by functioning ecosystems but would cost trillions to replace technologically if ecosystems collapsed.
+Global ecosystem services — [pollination](/pollination), water purification, flood control, carbon sequestration, fisheries, pharmaceuticals, soil fertility — are valued at $125-145 trillion per year (Costanza et al., updated estimates). That's roughly 1.5 times global GDP. These services are largely provided for free by functioning ecosystems but would cost trillions to replace technologically if ecosystems collapsed.
 
 The economic case for conservation is strong but faces a timing problem: conservation costs are immediate and concentrated (specific landowners, industries, communities), while benefits are long-term and diffuse (everyone, including future generations). This mismatch makes political support difficult.
 

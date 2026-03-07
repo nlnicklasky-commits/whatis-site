@@ -5,7 +5,7 @@ description: "Political philosophy examines questions about government, justice,
 category: philosophy
 tags: ["politics", "government", "justice", "liberty", "rights", "ethics", "political science"]
 heroImage: "/images/articles/political-philosophy-hero.webp"
-heroAlt: "Ancient Greek columns symbolizing the origins of political philosophy and democratic thought"
+heroAlt: "Editorial photograph representing the concept of political philosophy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,9 +33,9 @@ faq:
     a: "Plato, Aristotle, Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Immanuel Kant, John Stuart Mill, Karl Marx, and John Rawls are generally considered the most influential. Contemporary thinkers like Robert Nozick, Martha Nussbaum, Amartya Sen, and Charles Mills have also shaped the field significantly."
 ---
 
-# What Is Political Philosophy?
+# What Is Political [Philosophy](/philosophy)?
 
-Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a government the right to rule? What do citizens owe each other? When is inequality unjust? What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political debate, law, and revolution in human history.
+Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a [government](/government) the right to rule? What do citizens owe each other? When is inequality unjust? What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political debate, law, and revolution in human history.
 
 ## Why This Matters to You, Specifically
 
@@ -55,7 +55,7 @@ His answer was... controversial. Plato argued that most people are incapable of 
 
 Instead, Plato proposed rule by philosopher-kings — specially educated rulers trained in wisdom and virtue, who would govern not for personal gain but for the common good. Society would be organized into three classes — rulers, warriors, and producers — each performing their proper function.
 
-Almost nobody today endorses Plato's specific proposals (a rigid class system with no private property for rulers, children raised communally, literature censored to prevent bad influences). But his underlying questions remain alive: Are some people more qualified to govern than others? Can democracy produce wise decisions? Should political leaders have specialized training?
+Almost nobody today endorses Plato's specific proposals (a rigid class system with no private property for rulers, children raised communally, [literature](/literature) censored to prevent bad influences). But his underlying questions remain alive: Are some people more qualified to govern than others? Can democracy produce wise decisions? Should political leaders have specialized training?
 
 ### Aristotle: Politics as Natural
 
@@ -95,7 +95,7 @@ Rousseau argued that civilization itself corrupts humans, creating inequality, v
 
 The general will is a tricky concept. It's not simply majority rule — Rousseau explicitly said the majority can be wrong about the general will. It's more like what citizens would want if they set aside their private interests and asked what's genuinely best for the community.
 
-Critics have pointed out that this idea is potentially authoritarian: if the general will is something other than what people actually want, who decides what it is? Rousseau's influence runs in both directions — toward participatory democracy and, more troublingly, toward ideologies that claim to know the people's "true" interests better than the people themselves.
+Critics have pointed out that this idea is potentially authoritarian: if the general will is something other than what people actually want, who decides what it is? Rousseau's influence runs in both directions — toward participatory democracy and, more troublingly, toward [ideologies](/ideologies) that claim to know the people's "true" interests better than the people themselves.
 
 ## The Liberal Tradition
 
@@ -123,11 +123,11 @@ That second principle is the controversial one. It doesn't require perfect equal
 
 Robert Nozick's *Anarchy, State, and Utopia* (1974) was a direct response to Rawls. Nozick argued that distributive justice — the idea that society's goods should be distributed according to some pattern — is fundamentally misguided because it requires constantly interfering with people's free choices.
 
-Nozick's "Wilt Chamberlain argument" illustrates this: suppose everyone starts with an equal share of resources. Millions of people voluntarily pay $1 each to watch Wilt Chamberlain play basketball. Now Chamberlain is much richer than everyone else. Is this unjust? Nozick says no — every transaction was voluntary. To maintain the original equal distribution, you'd have to prevent people from spending their money as they choose.
+Nozick's "Wilt Chamberlain argument" illustrates this: suppose everyone starts with an equal share of resources. Millions of people voluntarily pay $1 each to watch Wilt Chamberlain play [basketball](/basketball). Now Chamberlain is much richer than everyone else. Is this unjust? Nozick says no — every transaction was voluntary. To maintain the original equal distribution, you'd have to prevent people from spending their money as they choose.
 
 For Nozick, justice is about process, not outcomes. If you acquired your holdings through legitimate means (original acquisition or voluntary transfer), they're justly yours, regardless of how unequal the result. The state's only legitimate function is protecting rights — anything beyond that (taxation for redistribution, welfare programs) violates individual liberty.
 
-The Rawls-Nozick debate defined the terrain of contemporary political philosophy and maps roughly onto the political divide between social democracy and libertarianism.
+The Rawls-Nozick debate defined the terrain of contemporary political philosophy and maps roughly onto the political divide between [social democracy](/social-democracy) and libertarianism.
 
 ## Beyond the Western Canon
 

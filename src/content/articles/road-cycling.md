@@ -5,7 +5,7 @@ description: "Road cycling is the sport of riding lightweight bicycles on paved 
 category: sports
 tags: ["road cycling", "cycling", "bicycles", "endurance", "Tour de France", "fitness"]
 heroImage: "/images/articles/road-cycling.webp"
-heroAlt: "Road cyclists riding in a pack on a scenic mountain road"
+heroAlt: "Editorial photograph representing the concept of road cycling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Most healthy beginners can ride 10-20 miles on their first outing at a casual pace. Within a few weeks of regular riding, 30-40 miles becomes comfortable. Within a few months, 50-60 mile rides are achievable. Century rides (100 miles) are a common milestone that most regular riders can achieve within 6-12 months of training. The key is building distance gradually and fueling properly."
 ---
 
-# What Is Road Cycling?
+# What Is Road [Cycling](/cycling)?
 
 Road cycling is the practice of riding lightweight bicycles on paved roads, either competitively or recreationally. It's one of the most popular endurance sports globally — an estimated 47 million Americans ride bicycles on roads — and one of the most efficient forms of human-powered transportation. A reasonably fit person on a road bike can sustain 15-20 mph for hours, covering distances that would take all day on foot, while getting an exceptional cardiovascular workout.
 
@@ -39,7 +39,7 @@ A road bike is designed for one thing: efficiency on pavement. Key features incl
 
 **Lightweight frame.** Carbon fiber (for higher-end bikes) or aluminum (for entry to mid-range). A modern road bike weighs 15-20 pounds — light enough to carry up stairs with one hand. The weight savings matter on hills, where you're fighting gravity with every pedal stroke.
 
-**Drop handlebars.** The curved handlebar shape allows multiple hand positions — on the tops (upright, comfortable), the hoods (standard riding position), and the drops (aerodynamic, for speed or descending). Different positions reduce fatigue on long rides and optimize aerodynamics.
+**Drop handlebars.** The curved handlebar shape allows multiple hand positions — on the tops (upright, comfortable), the hoods (standard riding position), and the drops (aerodynamic, for speed or descending). Different positions reduce fatigue on long rides and optimize [aerodynamics](/aerodynamics).
 
 **Narrow tires.** Road tires are 23-32mm wide (compared to 2+ inches for mountain bike tires), inflated to high pressure (80-100 psi). Less rubber on the road means less rolling resistance, which means more speed for the same effort. The trend has shifted toward slightly wider tires (28-32mm) for comfort and better grip without significant speed penalty.
 
@@ -59,7 +59,7 @@ Professional road cycling is one of the most demanding endurance sports in exist
 
 ## Recreational Riding
 
-Most road cyclists never race. They ride for fitness, stress relief, social connection, and the sheer pleasure of moving through the field under their own power.
+Most road cyclists never race. They ride for [fitness](/fitness), stress relief, social connection, and the sheer pleasure of moving through the field under their own power.
 
 **Group rides** are central to cycling culture. Riding in a group is more efficient (drafting behind other riders reduces wind resistance by 30-40%), more social, and more motivating than riding alone. Most cycling clubs organize weekly group rides at various pace levels.
 
@@ -75,7 +75,7 @@ Road cycling is primarily an aerobic sport. Your cardiovascular system — heart
 
 **Cadence** (pedaling speed, measured in RPM) is typically 80-100 RPM for efficient riding. Grinding in a heavy gear at low cadence is inefficient and stresses the knees. Spinning faster in an easier gear is more efficient and sustainable.
 
-**Nutrition and hydration** are critical for longer rides. Your body can store enough glycogen (muscle fuel) for about 90 minutes of hard effort. After that, you need to eat and drink on the bike — energy gels, bars, bananas, and sports drinks. "Bonking" (running out of glycogen) causes sudden, dramatic loss of energy and is a rite of passage for every cyclist.
+**[Nutrition](/nutrition) and hydration** are critical for longer rides. Your body can store enough glycogen (muscle fuel) for about 90 minutes of hard effort. After that, you need to eat and drink on the bike — energy gels, bars, bananas, and sports drinks. "Bonking" ([running](/running) out of glycogen) causes sudden, dramatic loss of energy and is a rite of passage for every cyclist.
 
 ## Safety
 

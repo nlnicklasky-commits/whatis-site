@@ -5,7 +5,7 @@ description: "Quantum biology explores how quantum mechanics shapes life itself,
 category: science
 tags: ["quantum biology", "quantum mechanics", "biology", "photosynthesis", "enzyme catalysis", "bird navigation"]
 heroImage: "/images/articles/quantum-biology-hero.webp"
-heroAlt: "Artistic rendering of quantum effects occurring within a biological cell"
+heroAlt: "Editorial photograph representing the concept of quantum biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Quantum biology is the study of quantum mechanical phenomena in living organisms -- processes like electron tunneling, quantum coherence, and spin dynamics that directly influence biological functions such as photosynthesis, enzyme catalysis, and animal navigation. It sits at the intersection of [quantum chemistry](/quantum-chemistry), [biophysics](/biophysics), and [biology](/biology), and it's one of the most exciting scientific frontiers of the 21st century.
 
-Here's the thing that makes quantum biology so surprising: for decades, physicists assumed quantum effects couldn't possibly matter in biological systems. Quantum phenomena are fragile. They typically require near-absolute-zero temperatures and perfect isolation from environmental noise. Living cells are warm, wet, and chaotic -- the worst possible environment for quantum mechanics. And yet, life found a way to exploit quantum physics anyway.
+Here's the thing that makes quantum biology so surprising: for decades, physicists assumed quantum effects couldn't possibly matter in biological systems. Quantum phenomena are fragile. They typically require near-absolute-zero temperatures and perfect isolation from environmental noise. Living cells are warm, wet, and chaotic -- the worst possible environment for [quantum mechanics](/quantum-mechanics). And yet, life found a way to exploit quantum physics anyway.
 
 ## Why Quantum Effects in Biology Seemed Impossible
 
@@ -87,7 +87,7 @@ Classical [biochemistry](/biochemistry) explains enzyme catalysis through a "loc
 
 Quantum tunneling occurs when a particle passes through an energy barrier that it classically shouldn't have enough energy to cross. It's a well-established quantum phenomenon -- it's how tunnel diodes work in [electronics](/electronics) and how nuclear fusion happens in stars.
 
-In enzyme catalysis, hydrogen atoms (protons) and electrons frequently tunnel through activation energy barriers rather than going over them. This has been demonstrated through a technique called kinetic isotope effect analysis. When you replace hydrogen atoms with heavier deuterium atoms in enzyme substrates, the reaction rate drops more than classical mechanics predicts. The heavier particles are harder to tunnel, so if tunneling is involved, you see an anomalously large isotope effect. And that's exactly what researchers observe.
+In enzyme catalysis, hydrogen atoms (protons) and electrons frequently tunnel through activation energy barriers rather than going over them. This has been demonstrated through a technique called kinetic isotope effect analysis. When you replace hydrogen atoms with heavier deuterium atoms in enzyme substrates, the reaction rate drops more than [classical mechanics](/classical-mechanics) predicts. The heavier particles are harder to tunnel, so if tunneling is involved, you see an anomalously large isotope effect. And that's exactly what researchers observe.
 
 Enzymes like alcohol dehydrogenase, aromatic amine dehydrogenase, and soybean lipoxygenase all show clear signatures of quantum tunneling. A 2006 study by Judith Klinman at UC Berkeley estimated that tunneling contributes significantly to the catalytic rate enhancement in many enzymatic reactions.
 
@@ -135,7 +135,7 @@ DNA's double helix is held together by hydrogen bonds between complementary base
 
 If an adenine proton tunnels to the wrong position just as the DNA replication machinery arrives, it could be read as guanine instead. The result? A point mutation.
 
-For decades this was just a theoretical possibility. But computational studies published between 2019 and 2024 using advanced quantum mechanical simulations have shown that proton tunneling in DNA base pairs does occur at biologically relevant rates. A 2022 study in *Physical Chemistry Chemical Physics* calculated that the probability of tautomeric states created by tunneling is significant enough to contribute to spontaneous mutation rates.
+For decades this was just a theoretical possibility. But computational studies published between 2019 and 2024 using advanced quantum mechanical simulations have shown that proton tunneling in DNA base pairs does occur at biologically relevant rates. A 2022 study in *[Physical Chemistry](/physical-chemistry) Chemical Physics* calculated that the probability of tautomeric states created by tunneling is significant enough to contribute to spontaneous mutation rates.
 
 This doesn't mean all mutations are quantum mechanical. Most arise from chemical damage, replication errors, or environmental factors. But quantum tunneling may contribute a baseline rate of spontaneous mutations that has been operating since the origin of life. If true, [quantum mechanics](/quantum-chemistry) is literally one of the engines of evolution.
 

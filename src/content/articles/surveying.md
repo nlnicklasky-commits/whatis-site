@@ -5,7 +5,7 @@ description: "Surveying is the science of measuring and mapping land, determinin
 category: technology
 tags: ["engineering", "surveying", "cartography", "civil engineering", "geospatial technology"]
 heroImage: "/images/articles/surveying.webp"
-heroAlt: "A surveyor using a total station instrument on a tripod in an open field with construction stakes in the background"
+heroAlt: "Editorial photograph representing the concept of surveying"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "A land (boundary) survey determines property lines and corners. A topographic survey maps the elevation and features of the land surface — hills, valleys, trees, structures — and is used primarily for engineering design and construction planning."
 ---
 
-Surveying is the science and practice of determining the precise positions, distances, angles, and elevations of points on, above, or below the Earth's surface. It produces the spatial data that makes construction, property ownership, mapping, and infrastructure planning possible.
+Surveying is the science and practice of determining the precise positions, distances, angles, and elevations of points on, above, or below the Earth's surface. It produces the spatial data that makes [construction](/construction), property ownership, mapping, and [infrastructure planning](/infrastructure-planning) possible.
 
 Every building you've ever entered, every road you've driven on, every property line that separates your yard from your neighbor's — all of these started with a surveyor. Before a single shovel breaks ground on a construction project, before a property changes hands, before a bridge or highway is designed, someone has to measure the land. That someone is a surveyor, and they've been doing this work — in one form or another — for about 5,000 years.
 
@@ -81,7 +81,7 @@ Modern surveying uses Electronic Distance Measurement (EDM). The instrument send
 
 ## Modern Surveying Technology
 
-The surveying profession has been transformed by technology in the past 40 years. If a surveyor from 1980 saw today's tools, they'd think it was science fiction.
+The surveying profession has been transformed by technology in the past 40 years. If a surveyor from 1980 saw today's tools, they'd think it was [science fiction](/science-fiction).
 
 ### GPS/GNSS Surveying
 
@@ -155,7 +155,7 @@ According to the Bureau of Labor Statistics, there were about 58,700 surveyors e
 
 ## Surveying and GIS
 
-Geographic Information Systems (GIS) have become inseparable from modern surveying. [GIS](/cartography) software manages, analyzes, and displays spatial data — the measurements that surveyors collect.
+Geographic [Information Systems](/information-systems) (GIS) have become inseparable from modern surveying. [GIS](/cartography) software manages, analyzes, and displays spatial data — the measurements that surveyors collect.
 
 Surveying provides the accurate base data that GIS systems depend on. Without precise surveying, GIS databases would be full of inaccurate positions, and the analyses built on them would be unreliable.
 

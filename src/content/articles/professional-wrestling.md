@@ -5,7 +5,7 @@ description: "Professional wrestling combines athletic performance with scripted
 category: arts-amp-culture
 tags: ["professional wrestling", "wwe", "wrestling", "sports entertainment", "lucha libre", "njpw"]
 heroImage: "/images/articles/professional-wrestling.webp"
-heroAlt: "Professional wrestlers performing in a ring under bright arena lights"
+heroAlt: "Editorial photograph representing the concept of professional wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "WWE (World Wrestling Entertainment) is the largest wrestling company globally, known for entertainment-heavy production. AEW (All Elite Wrestling, founded 2019) positions itself as a more wrestling-focused alternative with an emphasis on in-ring quality. NJPW (New Japan Pro-Wrestling) is Japan's premier promotion, known for athletic, hard-hitting matches with less emphasis on comedy or entertainment segments. Each has a distinct style and fanbase."
 ---
 
-# What Is Professional Wrestling?
+# What Is Professional [Wrestling](/wrestling)?
 
-Professional wrestling is a form of live performance that combines athletic competition with theatrical storytelling. Matches have predetermined outcomes, but the physical execution is real — wrestlers genuinely throw each other, absorb impacts, and perform acrobatic feats that require extraordinary athleticism and years of training. It's not a sport in the traditional sense, and it's not pure entertainment in the traditional sense. It's something uniquely its own.
+Professional wrestling is a form of live performance that combines athletic competition with theatrical [storytelling](/storytelling). Matches have predetermined outcomes, but the physical execution is real — wrestlers genuinely throw each other, absorb impacts, and perform acrobatic feats that require extraordinary athleticism and years of training. It's not a sport in the traditional sense, and it's not pure entertainment in the traditional sense. It's something uniquely its own.
 
 ## The Basic Setup
 
@@ -39,7 +39,7 @@ A professional wrestling show typically features multiple matches on a "card," w
 
 **Faces** (heroes) and **heels** (villains) are the fundamental character types. The face embodies qualities the audience wants to cheer — courage, humor, underdog resilience. The heel generates "heat" (boos and hostility) through cheating, arrogance, cowardice, or general obnoxiousness. The active between faces and heels drives storytelling.
 
-**Matches** follow a structure called "psychology" — the logic of how a match flows. A typical match builds through control segments (one wrestler dominates), hope spots (the other mounts a comeback), near-falls (close calls that build tension), and a finish. The best matches tell a story within this structure — two specific characters with specific motivations engaging in a conflict with emotional stakes.
+**Matches** follow a structure called "[psychology](/psychology)" — the [logic](/logic) of how a match flows. A typical match builds through control segments (one wrestler dominates), hope spots (the other mounts a comeback), near-falls (close calls that build tension), and a finish. The best matches tell a story within this structure — two specific characters with specific motivations engaging in a conflict with emotional stakes.
 
 **Promos** (interviews and speeches) develop storylines and characters between matches. The ability to "cut a promo" — to speak compellingly and emotionally in front of a camera or crowd — is as important as athletic ability in professional wrestling. Some of the biggest stars in wrestling history (The Rock, Stone Cold Steve Austin, Ric Flair) were as famous for their verbal skills as their in-ring work.
 
@@ -71,7 +71,7 @@ By the early 1900s, the worked (predetermined) nature of professional wrestling 
 
 ## Global Styles
 
-**American wrestling** (WWE style) emphasizes entertainment, character work, and production values. Matches tend to be shorter, with more emphasis on storyline segments, comedy, and spectacle.
+**American wrestling** (WWE style) emphasizes entertainment, character work, and production values. Matches tend to be shorter, with more emphasis on storyline segments, [comedy](/comedy), and spectacle.
 
 **Japanese wrestling** (puroresu) emphasizes in-ring athleticism, hard strikes, and longer matches with more realistic presentations. New Japan Pro-Wrestling (NJPW) and All Japan Pro Wrestling are the major promotions. Japanese wrestling often features "strong style" — matches where strikes and impacts look (and sometimes are) more real.
 

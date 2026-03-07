@@ -5,7 +5,7 @@ description: "Microbiology studies bacteria, viruses, fungi, and other microorga
 category: science
 tags: ["microbiology", "bacteria", "viruses", "fungi", "microorganisms", "biology", "infectious disease"]
 heroImage: "/images/articles/microbiology-hero.webp"
-heroAlt: "Colorful microscope image of various bacteria and microorganisms under high magnification"
+heroAlt: "Editorial photograph representing the concept of microbiology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -66,11 +66,11 @@ Koch developed rigorous criteria for proving that a specific microbe causes a sp
 3. The cultured microbe must cause disease when introduced into a healthy host
 4. The same microbe must be re-isolated from the newly diseased host
 
-Using these postulates, Koch identified the bacteria causing tuberculosis (1882) and cholera (1883). These discoveries --- proving that invisible organisms cause deadly diseases --- rank among the most important in the history of science.
+Using these postulates, Koch identified the bacteria causing tuberculosis (1882) and cholera (1883). These discoveries --- proving that invisible organisms cause deadly diseases --- rank among the most important in [the history of science](/the-history-of-science).
 
 ### The Antibiotic Revolution (1928 -- 1960s)
 
-Alexander Fleming's accidental discovery of penicillin in 1928 (a mold colony contaminating a bacterial plate inhibited bacterial growth) launched the antibiotic era. After Howard Florey and Ernst Chain developed penicillin into a usable drug during World War II, infections that had killed millions became treatable.
+Alexander Fleming's accidental discovery of penicillin in 1928 (a mold colony contaminating a bacterial plate inhibited bacterial growth) launched the antibiotic era. After Howard Florey and Ernst Chain developed penicillin into a usable drug during [World War II](/world-war-ii), infections that had killed millions became treatable.
 
 Streptomycin (1944) treated tuberculosis. Tetracycline (1948) worked against a broad range of bacteria. New antibiotics appeared regularly through the 1960s. It seemed like infectious disease would be conquered.
 
@@ -140,7 +140,7 @@ The gut microbiome alone contains over 1,000 bacterial species and performs func
 
 **Pathogen resistance**: A healthy microbiome occupies niches in the gut, making it harder for pathogenic bacteria to establish infections. This is called colonization resistance.
 
-**The gut-brain axis**: Growing research links the gut microbiome to mental health. Gut bacteria produce neurotransmitters and other signaling molecules that influence brain function. Alterations in the microbiome have been associated with depression, anxiety, autism, and neurodegenerative diseases, though the exact mechanisms are still being worked out.
+**The gut-brain axis**: Growing research links the gut microbiome to [mental health](/mental-health). Gut bacteria produce neurotransmitters and other signaling molecules that influence brain function. Alterations in the microbiome have been associated with depression, anxiety, autism, and neurodegenerative diseases, though the exact mechanisms are still being worked out.
 
 Disruption of the microbiome (dysbiosis), often caused by antibiotics, poor diet, or illness, is associated with conditions including inflammatory bowel disease, obesity, type 2 diabetes, allergies, and autoimmune disorders. The causal relationships are complex and still being established, but the evidence that the microbiome matters profoundly for health is now overwhelming.
 
@@ -162,7 +162,7 @@ Microbes are workhorses in many industries beyond medicine.
 
 ### Food and Beverage
 
-Fermentation --- the metabolic process by which microbes convert sugars into alcohol, acids, or gases --- is the basis of bread, beer, wine, cheese, yogurt, kimchi, sauerkraut, soy sauce, and dozens of other foods. Humanity has been using microbial fermentation for at least 9,000 years, long before anyone knew microbes existed.
+[Fermentation](/fermentation) --- the metabolic process by which microbes convert sugars into alcohol, acids, or gases --- is the basis of bread, beer, wine, cheese, yogurt, kimchi, sauerkraut, soy sauce, and dozens of other foods. Humanity has been using microbial fermentation for at least 9,000 years, long before anyone knew microbes existed.
 
 ### Biotechnology
 
@@ -184,7 +184,7 @@ Microorganisms can produce ethanol, butanol, biodiesel, and hydrogen from renewa
 
 ### Microscopy
 
-Light microscopy (magnification up to about 1,000x) reveals bacterial morphology and some internal structures. Electron microscopy (up to 2,000,000x) resolves viral structures and subcellular details. Fluorescence microscopy uses labeled antibodies or proteins to visualize specific molecules within cells.
+Light microscopy (magnification up to about 1,000x) reveals bacterial morphology and some internal structures. [Electron microscopy](/electron-microscopy) (up to 2,000,000x) resolves viral structures and subcellular details. Fluorescence microscopy uses labeled antibodies or proteins to visualize specific molecules within cells.
 
 ### Culture Techniques
 
@@ -204,9 +204,9 @@ These molecular tools have revolutionized microbiology. We can now study microbi
 
 COVID-19 demonstrated that novel viral pathogens can disrupt global civilization. Microbiology is central to pandemic preparedness --- surveillance for emerging viruses, rapid diagnostic development, vaccine design, and antiviral drug discovery all depend on microbiological expertise.
 
-Genomic sequencing of SARS-CoV-2 variants, which tracked viral evolution in near real-time during the pandemic, was a microbiological achievement with direct public health impact.
+Genomic sequencing of SARS-CoV-2 variants, which tracked viral evolution in near real-time during the pandemic, was a microbiological achievement with direct [public health](/public-health) impact.
 
-### Synthetic Biology
+### [Synthetic Biology](/synthetic-biology)
 
 Synthetic biology constructs new biological systems from scratch or redesigns existing ones. Synthetic microbes could produce valuable chemicals, sense environmental pollutants, or deliver targeted therapies inside the body. The field raises both exciting possibilities and legitimate biosafety concerns.
 

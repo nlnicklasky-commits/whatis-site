@@ -5,7 +5,7 @@ description: "Vegetarian cooking prepares meals without meat or fish. Learn abou
 category: food-amp-drink
 tags: ["vegetarian cooking", "plant-based", "meatless meals", "nutrition", "food", "recipes"]
 heroImage: "/images/articles/vegetarian-cooking.webp"
-heroAlt: "A rustic wooden table spread with vegetarian dishes including pasta, roasted vegetables, and bread"
+heroAlt: "Editorial photograph representing the concept of vegetarian cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Vegetarian Cooking?
 
-Vegetarian cooking is the preparation of meals without meat, poultry, or fish. Depending on the type of vegetarianism practiced, it may include dairy products, eggs, and honey — which gives vegetarian cooks a wider ingredient palette than vegan cooking while still excluding the obvious: anything that required killing an animal.
+Vegetarian cooking is the preparation of meals without meat, poultry, or fish. Depending on the type of vegetarianism practiced, it may include dairy products, eggs, and honey — which gives vegetarian cooks a wider ingredient palette than [vegan cooking](/vegan-cooking) while still excluding the obvious: anything that required killing an animal.
 
 ## The Types (Because It's Not One Thing)
 
@@ -53,7 +53,7 @@ Meat provides three things that vegetarian cooking needs to address differently:
 
 **Umami** takes more attention. Meat is loaded with glutamates — the amino acids that create savory flavor. Vegetarian umami sources include aged cheeses (Parmesan has more glutamate than most meats), mushrooms (especially dried and cooked down), soy sauce, miso, tomato paste, nutritional yeast, and fermented vegetables.
 
-**Texture** is where new vegetarian cooks often struggle. A meal of rice, lentils, and steamed vegetables provides excellent nutrition but can feel monotonously soft. The fix: add crunch (toasted nuts, crispy fried shallots, croutons), chew (well-seared halloumi, baked tofu, roasted chickpeas), and contrast (raw vegetables alongside cooked ones).
+**Texture** is where new vegetarian cooks often struggle. A meal of rice, lentils, and steamed vegetables provides excellent [nutrition](/nutrition) but can feel monotonously soft. The fix: add crunch (toasted nuts, crispy fried shallots, croutons), chew (well-seared halloumi, baked tofu, roasted chickpeas), and contrast (raw vegetables alongside cooked ones).
 
 ## Techniques That Make the Difference
 

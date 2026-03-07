@@ -5,7 +5,7 @@ description: "Television writing is the craft of creating scripts for TV shows. 
 category: arts-amp-culture
 tags: ["television writing", "tv writing", "screenwriting", "scriptwriting", "showrunner", "writers' room"]
 heroImage: "/images/articles/television-writing.webp"
-heroAlt: "A writers' room whiteboard covered with episode outlines and story beats"
+heroAlt: "Editorial photograph representing the concept of television writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ TV scripts follow strict formatting conventions:
 
 **Half-hour comedies** run 22-35 pages. Multi-camera comedies (shot in front of a live audience) use a distinct format with double-spaced dialogue and ALL CAPS stage directions. Single-camera comedies use the same format as dramas.
 
-Every page roughly equals one minute of screen time. Scene headings (*slug lines*) indicate location and time. Action lines describe what happens. Character names are centered above their dialogue. Parentheticals give brief acting directions.
+Every page roughly equals one minute of screen time. Scene headings (*slug lines*) indicate location and time. Action lines describe what happens. Character names are centered above their dialogue. Parentheticals give brief [acting](/acting) directions.
 
 ## The Hierarchy
 
@@ -106,7 +106,7 @@ There's no single path into TV writing. Common entry points include:
 - Writing fellowship programs (NBC, CBS, Disney, Warner Bros.)
 - Writing excellent spec scripts and original [pilots](/television-production)
 - Assistants' desks (working as a writer's assistant or showrunner's assistant)
-- Stand-up comedy or sketch writing
-- Journalism, playwriting, or novel writing that gets noticed
+- Stand-up [comedy](/comedy) or sketch writing
+- [Journalism](/journalism), [playwriting](/playwriting), or [novel writing](/novel-writing) that gets noticed
 
 The common denominator: you must write. A lot. Constantly. Nobody gets hired in TV writing without sample scripts that demonstrate voice, structure, and character — and getting those samples to the point where they open doors takes years of practice.

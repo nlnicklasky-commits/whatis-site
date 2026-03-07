@@ -5,7 +5,7 @@ description: "Vector calculus extends calculus to vector fields, enabling the ma
 category: science
 tags: ["mathematics", "vector calculus", "physics", "engineering"]
 heroImage: "/images/articles/vector-calculus.webp"
-heroAlt: "Three-dimensional vector field arrows flowing through space with colored gradient lines"
+heroAlt: "Editorial photograph representing the concept of vector calculus"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

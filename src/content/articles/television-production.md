@@ -5,7 +5,7 @@ description: "Television production is the process of creating TV content from c
 category: arts-amp-culture
 tags: ["television production", "tv production", "filmmaking", "media production", "broadcasting", "pre-production"]
 heroImage: "/images/articles/television-production.webp"
-heroAlt: "A television studio set with cameras, lighting rigs, and monitors"
+heroAlt: "Editorial photograph representing the concept of television production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Television Production?
 
-Television production is the complete process of creating television content — from the initial concept through writing, filming, editing, and final broadcast or streaming delivery. It encompasses everything that happens to turn an idea into something that appears on your screen.
+Television production is the complete process of creating television content — from the initial concept through writing, filming, [editing](/editing), and final broadcast or streaming delivery. It encompasses everything that happens to turn an idea into something that appears on your screen.
 
 The scale varies enormously. A local news broadcast and a $200-million-per-season HBO drama are both television production. The principles — pre-production, production, post-production — are the same. The budgets, timelines, and complexity are worlds apart.
 
@@ -47,7 +47,7 @@ Everything before the cameras roll. This phase includes:
 
 **Location scouting** — Finding and securing filming locations. Many shows use a combination of studio sets and real-world locations.
 
-**Budgeting and scheduling** — The line producer breaks down the script into a detailed production budget and shooting schedule. Every scene, location, prop, and crew member must be accounted for.
+**[Budgeting](/budgeting) and [scheduling](/scheduling)** — The line producer breaks down the script into a detailed production budget and shooting schedule. Every scene, location, prop, and crew member must be accounted for.
 
 **Crew hiring** — A full TV production employs dozens to hundreds of people — camera operators, sound engineers, lighting technicians, costume designers, set builders, makeup artists, and many more.
 
@@ -71,9 +71,9 @@ Where the raw footage becomes a finished show:
 
 **Editing** — The editor assembles the best takes into a coherent narrative, working closely with the director and producer. Multiple editing passes refine timing, pacing, and structure.
 
-**Sound design** — Dialogue is cleaned up, sound effects are added, ambient audio is mixed, and music is scored and integrated. [Sound](/sound-engineering) work can take as long as filming.
+**[Sound design](/sound-design)** — Dialogue is cleaned up, sound effects are added, ambient audio is mixed, and music is scored and integrated. [Sound](/sound-[engineering](/engineering)) work can take as long as filming.
 
-**Visual effects** — Anything from minor cleanup (removing a boom mic shadow) to major CG work (creating environments, creatures, or action sequences). Even "realistic" shows often use significant invisible VFX.
+**[Visual effects](/visual-effects)** — Anything from minor cleanup (removing a boom mic shadow) to major CG work (creating environments, creatures, or action sequences). Even "realistic" shows often use significant invisible VFX.
 
 **Color grading** — Adjusting the color and tone of footage to create the desired visual mood. This step has an enormous impact on how a show "feels."
 
@@ -87,7 +87,7 @@ Where the raw footage becomes a finished show:
 
 **Director of Photography (DP)** — Controls the camera work and lighting, establishing the show's visual style.
 
-**Line Producer** — Manages the budget and logistics. The person who makes sure everything runs on time and on budget.
+**Line Producer** — Manages the budget and [logistics](/logistics). The person who makes sure everything runs on time and on budget.
 
 **Editor** — Assembles the footage into the finished episode. Often the unsung hero of production quality.
 

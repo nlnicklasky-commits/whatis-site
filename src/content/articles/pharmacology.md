@@ -5,7 +5,7 @@ description: "Pharmacology is the study of how drugs interact with the body. Lea
 category: science
 tags: ["drugs", "medicine", "drug action", "pharmacodynamics", "pharmacokinetics", "toxicology", "pharmaceuticals"]
 heroImage: "/images/articles/pharmacology-hero.webp"
-heroAlt: "Diagram showing how drug molecules interact with cellular receptors in the human body"
+heroAlt: "Editorial photograph representing the concept of pharmacology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -107,7 +107,7 @@ SSRIs (selective serotonin reuptake inhibitors) like fluoxetine (Prozac) work by
 
 Clinical pharmacology bridges laboratory science and patient care. Clinical pharmacologists design dosing regimens, run clinical trials, and study drug effects in real patient populations. They deal with the messy reality that patients aren't lab mice --- they vary in age, weight, genetics, kidney function, liver function, and compliance.
 
-Population pharmacokinetics uses mathematical modeling to understand how drug behavior varies across patient populations. This field generates the dosing guidelines that doctors follow and the dose adjustments recommended for elderly patients, children, or those with organ impairment.
+Population pharmacokinetics uses [mathematical modeling](/mathematical-modeling) to understand how drug behavior varies across patient populations. This field generates the dosing guidelines that doctors follow and the dose adjustments recommended for elderly patients, children, or those with organ impairment.
 
 ### Toxicology
 
@@ -159,7 +159,7 @@ Antibiotics are losing effectiveness because bacteria evolve resistance faster t
 
 ### The Opioid Crisis
 
-The opioid epidemic demonstrates pharmacology's consequences at societal scale. Opioid pharmacology is well understood --- mu-receptor agonists produce analgesia, euphoria, respiratory depression, and physical dependence. The crisis arose not from a failure of pharmacological knowledge but from how that knowledge was applied (or ignored) in prescribing practices. Understanding opioid pharmacology --- tolerance, dependence, and the neurobiology of addiction --- is essential for finding solutions.
+The opioid epidemic demonstrates pharmacology's consequences at societal scale. Opioid pharmacology is well understood --- mu-receptor agonists produce analgesia, euphoria, respiratory depression, and physical dependence. The crisis arose not from a failure of pharmacological knowledge but from how that knowledge was applied (or ignored) in prescribing practices. Understanding opioid pharmacology --- tolerance, dependence, and the [neurobiology](/neurobiology) of addiction --- is essential for finding solutions.
 
 ### Drug Development Costs
 
@@ -171,7 +171,7 @@ Traditional pharmacology focused on small molecules --- drugs with molecular wei
 
 ## Connections Across Science
 
-Pharmacology connects to virtually every biomedical discipline. It relies on [biochemistry](/biochemistry) to understand drug targets at the molecular level. It shares territory with [neuroscience](/neuroscience) when studying drugs that affect the brain. [Genetics](/genetics) increasingly determines who responds to which drugs. [Cell biology](/cell-biology) explains how drugs affect cellular processes. [Physiology](/human-physiology) provides the organ-level context for understanding drug effects.
+Pharmacology connects to virtually every biomedical discipline. It relies on [biochemistry](/biochemistry) to understand drug targets at the molecular level. It shares territory with [neuroscience](/neuroscience) when studying drugs that affect the brain. [Genetics](/genetics) increasingly determines who responds to which drugs. [Cell biology](/cell-biology) explains how drugs affect cellular processes. [Physiology](/human-[physiology](/physiology)) provides the organ-level context for understanding drug effects.
 
 If you want to understand how drugs are designed and built before they reach pharmacological testing, explore [pharmaceutical chemistry](/pharmaceutical-chemistry). For the nervous system focus, [neuropharmacology](/neuropharmacology) goes deeper. And if you're curious about the broader question of how chemicals interact with living systems (not just drugs), [biochemistry](/biochemistry) is your starting point.
 

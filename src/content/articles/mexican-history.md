@@ -5,7 +5,7 @@ description: "Mexican history spans ancient Mesoamerican civilizations through S
 category: history
 tags: ["history", "mexico", "latin america"]
 heroImage: "/images/articles/mexican-history.webp"
-heroAlt: "Ancient Mayan pyramid at Chichen Itza with green grass and blue sky"
+heroAlt: "Editorial photograph representing the concept of mexican history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,15 +39,15 @@ Long before anyone called it "Mexico," the region was home to some of the most s
 
 ### The Olmecs
 
-The Olmecs (roughly 1500-400 BCE) are often called the "mother culture" of Mesoamerica, and there's good reason for that. Based in the tropical lowlands of present-day Veracruz and Tabasco, the Olmecs developed many features that would define subsequent Mesoamerican civilizations: monumental architecture, a ritual ball game, a calendar system, possibly the earliest writing in the Americas, and a complex religious iconography.
+The Olmecs (roughly 1500-400 BCE) are often called the "mother culture" of Mesoamerica, and there's good reason for that. Based in the tropical lowlands of present-day Veracruz and Tabasco, the Olmecs developed many features that would define subsequent Mesoamerican civilizations: monumental [architecture](/architecture), a ritual ball game, a calendar system, possibly the earliest [writing](/writing) in the Americas, and a complex religious [iconography](/iconography).
 
-Their most famous artifacts are the colossal stone heads — seventeen have been found so far, the largest weighing over 50 tons. Carved from basalt boulders transported from mountains up to 50 miles away (without the wheel or draft animals), they represent one of the great engineering feats of the ancient world.
+Their most famous artifacts are the colossal stone heads — seventeen have been found so far, the largest weighing over 50 tons. Carved from basalt boulders transported from mountains up to 50 miles away (without the wheel or draft animals), they represent one of the great [engineering](/engineering) feats of the ancient world.
 
 ### Teotihuacan
 
 By 100 BCE, a new power was rising in the Valley of Mexico. Teotihuacan grew into one of the largest cities in the ancient world — at its peak around 450 CE, it housed an estimated 125,000 to 200,000 people, making it larger than contemporary Rome in some estimates.
 
-The Pyramid of the Sun, the city's centerpiece, is the third-largest pyramid on Earth. The Avenue of the Dead stretches nearly two miles through the city center. Teotihuacan's influence extended across Mesoamerica through trade, cultural exchange, and possibly military presence.
+The Pyramid of the Sun, the city's centerpiece, is the third-largest pyramid on Earth. The Avenue of the Dead stretches nearly two miles through the city center. Teotihuacan's influence extended across Mesoamerica through [trade](/trade), cultural exchange, and possibly military presence.
 
 And then it collapsed. Around 550-600 CE, much of the city was deliberately burned. By whom? We still don't know for certain. The Teotihuacanos left no readable texts. Their language is unknown. One of the most powerful cities in human history, and we can't even say what its inhabitants called it — "Teotihuacan" is an Aztec name meaning "the place where the gods were created."
 
@@ -55,7 +55,7 @@ And then it collapsed. Around 550-600 CE, much of the city was deliberately burn
 
 The Maya civilization occupied southern Mexico, Guatemala, Belize, Honduras, and El Salvador. Unlike the centralized empires, the Maya world was a network of independent city-states — Tikal, Calakmul, Palenque, Copan — that traded, allied, and warred with each other over centuries.
 
-Maya achievements were stunning. They developed the most sophisticated writing system in pre-Columbian America — a full syllabic script with about 800 signs. Their mathematics included the concept of zero (independently developed, centuries before it reached Europe from India). Their astronomical calculations were precise enough to predict solar eclipses and track Venus's cycle to within two hours over 500 years.
+Maya achievements were stunning. They developed the most sophisticated writing system in pre-Columbian America — a full syllabic script with about 800 signs. Their [mathematics](/mathematics) included the concept of zero (independently developed, centuries before it reached Europe from India). Their astronomical calculations were precise enough to predict solar eclipses and track Venus's cycle to within two hours over 500 years.
 
 The so-called "Maya collapse" around 800-900 CE saw many lowland cities abandoned. But the Maya didn't disappear — millions of Maya people live in Mexico and Central America today, speaking thirty-plus Maya languages.
 
@@ -93,7 +93,7 @@ The Mexican Revolution (1910-1920) was one of the 20th century's first great soc
 
 But removing the dictator was the easy part. What followed was a decade of shifting alliances, betrayals, and civil war involving forces with fundamentally different visions for Mexico.
 
-Emiliano Zapata, fighting from the southern state of Morelos, demanded land redistribution with the slogan *Tierra y Libertad* ("Land and Liberty"). Pancho Villa led a powerful army in the north. Venustiano Carranza, a more moderate figure, eventually consolidated power and oversaw the drafting of the 1917 Constitution — one of the most progressive of its era, enshrining labor rights, land reform, public education, and restrictions on the Catholic Church and foreign ownership of natural resources.
+Emiliano Zapata, fighting from the southern state of Morelos, demanded land redistribution with the slogan *Tierra y Libertad* ("Land and Liberty"). Pancho Villa led a powerful army in the north. Venustiano Carranza, a more moderate figure, eventually consolidated power and oversaw the drafting of the 1917 Constitution — one of the most progressive of its era, enshrining labor rights, land reform, public [education](/education), and restrictions on the Catholic Church and foreign ownership of natural resources.
 
 The human cost was staggering. An estimated 1 to 2 million Mexicans died — roughly 5-10% of the population — from combat, disease, and famine.
 
@@ -101,13 +101,13 @@ The human cost was staggering. An estimated 1 to 2 million Mexicans died — rou
 
 The post-revolutionary period brought stability under the Institutional Revolutionary Party (PRI), which governed Mexico continuously from 1929 to 2000 — one of the longest-ruling political parties in world history. The PRI maintained power through a combination of patronage, co-optation, occasional repression, and electoral manipulation.
 
-The system cracked gradually. The 1968 Tlatelolco massacre — in which security forces killed hundreds of student protesters just days before Mexico City hosted the Olympics — shattered the government's legitimacy. The 1985 Mexico City earthquake (which killed over 10,000 people) exposed government incompetence and galvanized civil society. Economic crises in 1982 and 1994 undermined confidence in the PRI's management.
+The system cracked gradually. The 1968 Tlatelolco massacre — in which security forces killed hundreds of student protesters just days before Mexico City hosted the Olympics — shattered the [government](/government)'s legitimacy. The 1985 Mexico City earthquake (which killed over 10,000 people) exposed government incompetence and galvanized civil society. Economic crises in 1982 and 1994 undermined confidence in the PRI's [management](/management).
 
 In 2000, Vicente Fox of the National Action Party (PAN) won the presidency, ending 71 years of PRI rule and marking Mexico's democratic transition.
 
 ## Mexico Today
 
-Contemporary Mexico is Latin America's second-largest economy and the world's 15th-largest by GDP. It's the United States' largest trading partner. Its culture — food, music, art, film, literature — has global influence. Mexican cuisine alone was designated an Intangible Cultural Heritage by UNESCO in 2010.
+Contemporary Mexico is Latin America's second-largest economy and the world's 15th-largest by GDP. It's the United States' largest trading partner. Its culture — food, music, art, film, [literature](/literature) — has global influence. Mexican cuisine alone was designated an Intangible Cultural Heritage by UNESCO in 2010.
 
 But serious challenges persist. Drug cartel violence has claimed over 350,000 lives since 2006. Economic inequality remains stark. Corruption is entrenched. Migration — both internal and to the United States — reflects persistent opportunity gaps.
 

@@ -5,7 +5,7 @@ description: "Massage therapy is the manual manipulation of soft tissues to reli
 category: health-amp-wellness
 tags: ["wellness", "massage therapy", "bodywork"]
 heroImage: "/images/articles/massage-therapy.webp"
-heroAlt: "A massage therapist working on a client's upper back in a calm, well-lit treatment room"
+heroAlt: "Editorial photograph representing the concept of massage therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ It's one of the oldest healing practices on the planet, with written references 
 
 The earliest known written reference to massage appears in the *Huangdi Neijing* (The Yellow Emperor's Classic of Internal Medicine), a Chinese medical text dating to approximately 2700 BCE. Ancient Egyptian tomb paintings from around 2500 BCE depict people having their feet and hands worked on. Hippocrates — the Greek physician whose name graces every doctor's oath — wrote in the 5th century BCE about "anatripsis" (rubbing) as a treatment for joint and circulatory problems.
 
-India's Ayurvedic tradition, dating to around 1500 BCE, incorporates massage (called *abhyanga*) as a central therapeutic practice. The Romans used massage extensively in their bathhouses. Japanese Shiatsu developed from Chinese traditions. Swedish massage — probably the style most Westerners think of first — was systematized by Per Henrik Ling in the early 19th century, though calling it "Swedish" is somewhat misleading since Ling's system was really a broader program of medical gymnastics.
+India's Ayurvedic tradition, dating to around 1500 BCE, incorporates massage (called *abhyanga*) as a central therapeutic practice. The Romans used massage extensively in their bathhouses. Japanese Shiatsu developed from Chinese traditions. Swedish massage — probably the style most Westerners think of first — was systematized by Per Henrik Ling in the early 19th century, though calling it "Swedish" is somewhat misleading since Ling's system was really a broader program of medical [gymnastics](/gymnastics).
 
 The point is this: virtually every culture, independently, figured out that rubbing sore spots makes them feel better. That universal discovery suggests something real is happening physiologically, not just psychologically.
 
@@ -51,15 +51,15 @@ The mechanisms behind massage are better understood now than even 20 years ago, 
 
 ### Pain Reduction
 
-Massage stimulates mechanoreceptors in the skin and muscles — nerve endings that detect pressure, stretch, and vibration. These signals travel to the brain faster than pain signals from the same area, effectively "closing the gate" on pain perception. This is called gate control theory, proposed by Melzack and Wall in 1965, and it explains why rubbing a bumped shin actually helps.
+Massage stimulates mechanoreceptors in the skin and muscles — nerve endings that detect pressure, stretch, and vibration. These signals travel to the brain faster than pain signals from the same area, effectively "closing the gate" on pain perception. This is called gate [control theory](/control-theory), proposed by Melzack and Wall in 1965, and it explains why rubbing a bumped shin actually helps.
 
 Beyond gate control, massage appears to reduce levels of substance P, a neuropeptide associated with pain signaling, in people with conditions like fibromyalgia. A 2011 study in the *Annals of Internal Medicine* found that massage was more effective than usual care for chronic low back pain, with benefits lasting at least six months.
 
 ### Stress and Cortisol
 
-This is one of the most consistent findings in massage research. A 2004 meta-analysis by Field et al. in the *International Journal of Neuroscience* found that massage therapy reduced cortisol levels by an average of 31% across multiple studies. Cortisol is your primary stress hormone — useful in emergencies, destructive when chronically elevated.
+This is one of the most consistent findings in massage research. A 2004 meta-analysis by Field et al. in the *International Journal of [Neuroscience](/neuroscience)* found that massage therapy reduced cortisol levels by an average of 31% across multiple studies. Cortisol is your primary stress hormone — useful in emergencies, destructive when chronically elevated.
 
-The same analysis found increases in serotonin (28%) and dopamine (31%) — neurotransmitters associated with mood regulation and feelings of well-being. This isn't just "feeling relaxed." It's measurable biochemistry.
+The same analysis found increases in serotonin (28%) and dopamine (31%) — neurotransmitters associated with mood regulation and feelings of well-being. This isn't just "feeling relaxed." It's measurable [biochemistry](/biochemistry).
 
 ### Circulation and Recovery
 
@@ -101,7 +101,7 @@ The therapist applies sustained pressure to the trigger point, typically for 30-
 
 ### Shiatsu
 
-A Japanese technique rooted in Traditional Chinese Medicine. The therapist applies rhythmic pressure with thumbs, palms, and sometimes elbows along energy pathways called meridians. Sessions are typically performed on a floor mat with the client fully clothed.
+A Japanese technique rooted in [Traditional Chinese Medicine](/traditional-chinese-medicine). The therapist applies rhythmic pressure with thumbs, palms, and sometimes elbows along energy pathways called meridians. Sessions are typically performed on a floor mat with the client fully clothed.
 
 Shiatsu doesn't fit neatly into Western biomedical frameworks — the meridian system doesn't correspond to known anatomical structures. But clinical studies have shown benefits for conditions including chronic pain, anxiety, nausea, and headaches, regardless of the underlying theoretical framework.
 
@@ -113,11 +113,11 @@ Thai massage is more active and physically engaging than most Western styles. Yo
 
 ## Becoming a Massage Therapist
 
-Requirements vary by state and country, but in the United States, most states require completion of an accredited training program (typically 500-1,000 hours of education), passage of the Massage and Bodywork Licensing Examination (MBLEx) or a similar exam, and ongoing continuing education.
+Requirements vary by state and country, but in the United States, most states require completion of an accredited training program (typically 500-1,000 hours of [education](/education)), passage of the Massage and Bodywork Licensing Examination (MBLEx) or a similar exam, and ongoing continuing education.
 
-The 500-hour programs cover anatomy, physiology, pathology, ethics, business practices, and hands-on technique. Many therapists pursue additional certifications in specialized modalities — neuromuscular therapy, oncology massage, prenatal massage, lymphatic drainage.
+The 500-hour programs cover anatomy, [physiology](/physiology), [pathology](/pathology), ethics, business practices, and hands-on technique. Many therapists pursue additional certifications in specialized modalities — neuromuscular therapy, oncology massage, prenatal massage, lymphatic drainage.
 
-As of 2024, there are roughly 385,000 licensed massage therapists in the United States, according to the Bureau of Labor Statistics. The median annual salary is about $49,000, though this varies enormously based on location, setting (private practice vs. spa vs. medical clinic), and client base.
+As of 2024, there are roughly 385,000 licensed massage therapists in the United States, according to the Bureau of Labor [Statistics](/statistics). The median annual salary is about $49,000, though this varies enormously based on location, setting (private practice vs. spa vs. medical clinic), and client base.
 
 ## When Not to Get a Massage
 
@@ -130,7 +130,7 @@ Massage is generally safe, but there are contraindications — situations where 
 - **Certain cancers**: Particularly near tumor sites — though oncology massage by trained therapists is generally safe and increasingly common
 - **Fever or acute illness**: Your body needs its resources for fighting the infection, not processing the effects of bodywork
 
-A responsible therapist will ask about your medical history before every session. If something doesn't feel right during the massage — sharp pain, numbness, dizziness — speak up immediately.
+A responsible therapist will ask about your [medical history](/medical-history) before every session. If something doesn't feel right during the massage — sharp pain, numbness, dizziness — speak up immediately.
 
 ## The Bottom Line
 

@@ -5,7 +5,7 @@ description: "Aviation history traces humanity's quest for flight from early gli
 category: history
 tags: ["aviation history", "flight", "aircraft", "wright brothers", "aerospace"]
 heroImage: "/images/articles/aviation-history.webp"
-heroAlt: "Vintage biplane flying over an open field with a modern jet contrail visible in the sky above"
+heroAlt: "Editorial photograph representing the concept of aviation history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "The Concorde, which flew from 1976 to 2003, was the fastest commercial aircraft, cruising at Mach 2.04 (about 1,354 mph). It could cross the Atlantic in under 3.5 hours. High operating costs, a fatal crash in 2000, and post-9/11 travel decline led to its retirement."
 ---
 
-Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903 and the modern aviation industry that moves over 4 billion passengers annually. It's a history of engineering, warfare, commerce, and the persistent human refusal to accept that we were meant to stay on the ground.
+Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903 and the modern aviation industry that moves over 4 billion passengers annually. It's a history of [engineering](/engineering), warfare, commerce, and the persistent human refusal to accept that we were meant to stay on the ground.
 
 The speed of aviation's development is almost hard to believe. In 1903, the Wright Flyer traveled 120 feet at roughly 6.8 miles per hour. Sixty-six years later, Apollo 11 astronauts walked on the moon. A person born in 1900 could have witnessed the entire arc — from "flight is impossible" to "we left the planet."
 
@@ -49,7 +49,7 @@ Lilienthal died in a glider crash in 1896. His last words, reportedly, were "Sac
 
 ## The Wright Brothers and the Birth of Powered Flight
 
-Wilbur and Orville Wright were bicycle mechanics from Dayton, Ohio. They had no university education, no government funding, and no corporate backing. What they had was a systematic approach to problem-solving and an insight that their competitors missed.
+Wilbur and Orville Wright were bicycle mechanics from Dayton, Ohio. They had no university education, no [government](/government) funding, and no corporate backing. What they had was a systematic approach to problem-solving and an insight that their competitors missed.
 
 Most aviation pioneers focused on power — building bigger engines to force aircraft into the air. The Wrights realized the real problem was control. An airplane in the air is unstable in three axes: pitch (nose up/down), roll (wings tilting), and yaw (nose left/right). Without a way to control all three, no amount of engine power would produce safe, sustained flight.
 
@@ -59,7 +59,7 @@ On December 17, 1903, at Kill Devil Hills near Kitty Hawk, North Carolina, Orvil
 
 The world's indifference to their achievement lasted years. The Wrights were secretive, afraid of having their designs copied. Newspapers initially dismissed the claims. It wasn't until public demonstrations in 1908 — where Wilbur flew circles around a racetrack in France — that the world grasped what had happened. Aviation fever followed almost overnight.
 
-## World War I: Flight Goes to War (1914–1918)
+## [World War I](/world-war-i): Flight Goes to War (1914–1918)
 
 When war broke out in 1914, aircraft were fragile, slow, and used mainly for reconnaissance — flying over enemy lines to observe troop movements. Within four years, aviation had produced fighters, bombers, and the first air combat tactics.
 
@@ -75,9 +75,9 @@ Charles Lindbergh's solo transatlantic flight in May 1927 — 33.5 hours from Ne
 
 Commercial aviation began during this era, though it was expensive and limited. Pan American Airways launched transpacific service in 1935 using flying boats — huge seaplanes that could land on water because most destinations lacked proper runways. A one-way ticket from San Francisco to Manila cost roughly $800 — about $17,000 in today's money.
 
-Aircraft technology advanced steadily. All-metal construction replaced wood-and-fabric. Enclosed cockpits, retractable landing gear, and variable-pitch propellers improved performance. The Douglas DC-3 (first flight 1935) became the first airliner that could make money carrying passengers without mail subsidies. It's sometimes called the most important aircraft in aviation history — roughly 80% of all airline passengers in the late 1930s flew on DC-3s.
+Aircraft technology advanced steadily. All-metal [construction](/construction) replaced wood-and-fabric. Enclosed cockpits, retractable landing gear, and variable-pitch propellers improved performance. The Douglas DC-3 (first flight 1935) became the first airliner that could make money carrying passengers without mail subsidies. It's sometimes called the most important aircraft in aviation history — roughly 80% of all airline passengers in the late 1930s flew on DC-3s.
 
-## World War II: Aviation Transforms Warfare (1939–1945)
+## [World War II](/world-war-ii): Aviation Transforms Warfare (1939–1945)
 
 World War II was, to a significant degree, decided by air power. The Battle of Britain (1940) was the first major military campaign fought entirely in the air. Strategic bombing campaigns devastated cities on both sides. Carrier-based aviation dominated the Pacific war. And the conflict ended with the most destructive application of air power in history — atomic bombs dropped on Hiroshima and Nagasaki.
 
@@ -99,9 +99,9 @@ The numbers tell the story. In 1950, roughly 31 million passengers flew globally
 
 Commercial aviation's safety record is one of engineering's greatest success stories, and it deserves more attention than it gets. In 2023, the fatal accident rate for commercial jet aviation was approximately 0.03 per million flights. You could fly every day for over 90,000 years before statistically expecting a fatal accident.
 
-This didn't happen by accident (no pun intended). Every crash investigation produces recommendations that change procedures, training, or aircraft design. The cockpit voice recorder and flight data recorder — the "black boxes" — were introduced after crashes in the 1950s. Crew resource management training, which teaches cockpit teamwork and communication, emerged after studying accidents caused by hierarchical cockpit cultures where copilots were afraid to challenge captains.
+This didn't happen by accident (no pun intended). Every crash investigation produces recommendations that change procedures, training, or aircraft design. The cockpit voice recorder and flight data recorder — the "black boxes" — were introduced after crashes in the 1950s. Crew [resource management](/resource-management) training, which teaches cockpit teamwork and communication, emerged after studying accidents caused by hierarchical cockpit cultures where copilots were afraid to challenge captains.
 
-Modern aircraft have redundant systems for nearly everything critical. Multiple engines, backup hydraulics, alternate electrical systems, multiple navigation sources. The [physics](/physics) of flight is well-understood. The engineering is mature. When accidents occur, they almost always involve a chain of failures — no single error brings down a modern airliner.
+Modern aircraft have redundant systems for nearly everything critical. Multiple engines, backup [hydraulics](/hydraulics), alternate electrical systems, multiple navigation sources. The [physics](/physics) of flight is well-understood. The engineering is mature. When accidents occur, they almost always involve a chain of failures — no single error brings down a modern airliner.
 
 ## Where Aviation Goes Next
 

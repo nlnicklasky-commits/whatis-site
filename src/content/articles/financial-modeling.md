@@ -5,7 +5,7 @@ description: "Financial modeling builds spreadsheet-based representations of a c
 category: finance
 tags: ["finance", "modeling", "excel", "valuation", "forecasting", "investment banking", "financial analysis"]
 heroImage: "/images/articles/financial-modeling-hero.webp"
-heroAlt: "Dual monitor setup showing a complex financial model spreadsheet with charts"
+heroAlt: "Editorial photograph representing the concept of financial modeling"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Financial modeling is the process of building a mathematical representation of a
 
 ## Why Models Matter
 
-Here's a scenario. A private equity firm is considering buying a mid-sized manufacturing company for $500 million. Is that a good price? Should they offer more? Less? Walk away?
+Here's a scenario. A [private equity](/private-equity) firm is considering buying a mid-sized manufacturing company for $500 million. Is that a good price? Should they offer more? Less? Walk away?
 
 To answer, they need to project the company's future cash flows, estimate how quickly debt can be repaid, calculate the likely return on investment under different scenarios, and compare this deal to other opportunities. They can't do any of this with a gut feeling. They need a model.
 
@@ -137,7 +137,7 @@ An operating model for a SaaS (software-as-a-service) company might track:
 - Churn rates by customer segment
 - Revenue per customer over time (expansion, contraction)
 - Server costs per customer
-- Sales team productivity by rep
+- Sales team [productivity](/productivity) by rep
 
 These models are often more granular than valuation models because they need to support operational decisions—how many salespeople to hire, how much to spend on marketing, when to expand capacity.
 
@@ -206,15 +206,15 @@ Financial modeling mistakes can be costly. Some of the most common:
 
 Financial modeling is a core skill in several career tracks.
 
-**Investment banking analysts** build models to support deal execution—valuing companies for M&A, pricing IPOs, and analyzing restructurings. This is where the most technically demanding modeling happens, often under extreme time pressure (analysts regularly work 80-100 hour weeks during live deals).
+**[Investment banking](/investment-banking) analysts** build models to support deal execution—valuing companies for M&A, pricing IPOs, and analyzing restructurings. This is where the most technically demanding modeling happens, often under extreme time pressure (analysts regularly work 80-100 hour weeks during live deals).
 
 **Private equity associates** build LBO models to evaluate potential acquisitions and monitor portfolio company performance. The modeling is detailed, and the stakes are high—PE firms invest hundreds of millions of dollars based on these analyses.
 
-**[Corporate finance](/corporate-finance) professionals** build models for budgeting, capital allocation, and strategic planning. The modeling is typically less complex than banking models but requires deep understanding of the specific business.
+**[Corporate finance](/corporate-finance) professionals** build models for budgeting, capital allocation, and [strategic planning](/strategic-planning). The modeling is typically less complex than banking models but requires deep understanding of the specific business.
 
 **Equity research analysts** build models to generate earnings estimates and stock price targets. Their models support buy/sell recommendations for investors.
 
-**Entrepreneurs and startup founders** build financial projections for fundraising pitches. These models are inherently speculative (startups have limited historical data) but need to demonstrate a plausible path to profitability and scale.
+**Entrepreneurs and startup founders** build financial projections for [fundraising](/fundraising) pitches. These models are inherently speculative (startups have limited historical data) but need to demonstrate a plausible path to profitability and scale.
 
 ## The Future of Financial Modeling
 
@@ -222,9 +222,9 @@ Financial modeling is evolving, though more slowly than you might expect.
 
 **Excel's dominance persists** despite decades of "Excel killer" alternatives. The flexibility, auditability, and universal familiarity of spreadsheets make them hard to replace. That said, their limitations—version control nightmares, fragility, size constraints—are real.
 
-**Python and R** are gaining ground for complex analysis, [data analysis](/data-analysis) tasks, and models that need to process large datasets. Quantitative finance roles increasingly require programming skills.
+**Python and R** are gaining ground for [complex analysis](/complex-analysis), [data analysis](/data-analysis) tasks, and models that need to process large datasets. Quantitative finance roles increasingly require programming skills.
 
-**Cloud-based platforms** like Anaplan and Pigment offer collaborative modeling with built-in version control. They're popular for corporate FP&A (financial planning and analysis) but haven't displaced Excel for deal-oriented modeling.
+**Cloud-based platforms** like Anaplan and Pigment offer collaborative modeling with built-in version control. They're popular for corporate FP&A ([financial planning](/financial-planning) and analysis) but haven't displaced Excel for deal-oriented modeling.
 
 **AI-assisted modeling** is emerging. Tools can auto-generate model structures, suggest assumptions based on comparable companies, and flag potential errors. But financial modeling requires judgment about assumptions, understanding of business context, and clear communication of outputs—tasks where human expertise remains essential.
 

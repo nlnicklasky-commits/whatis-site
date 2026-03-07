@@ -5,7 +5,7 @@ description: "Optimization is finding the best solution from a set of possibilit
 category: everyday-concepts
 tags: ["optimization", "mathematics", "operations research", "algorithms", "decision making", "efficiency"]
 heroImage: "/images/articles/optimization.webp"
-heroAlt: "A 3D surface graph showing peaks and valleys representing an optimization landscape"
+heroAlt: "Editorial photograph representing the concept of optimization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Optimization?
 
-Optimization is the process of finding the best possible solution to a problem from a set of available alternatives, usually subject to constraints. Maximize profit. Minimize cost. Find the shortest route. Allocate resources most effectively. Schedule tasks most efficiently. It's one of the most widely applied branches of mathematics, touching everything from airline scheduling and investment portfolios to machine learning and bridge design.
+Optimization is the process of finding the best possible solution to a problem from a set of available alternatives, usually subject to constraints. Maximize profit. Minimize cost. Find the shortest route. Allocate resources most effectively. Schedule tasks most efficiently. It's one of the most widely applied branches of [mathematics](/mathematics), touching everything from airline [scheduling](/scheduling) and investment portfolios to [machine learning](/machine-learning) and bridge design.
 
 ## The Basic Framework
 
@@ -51,7 +51,7 @@ A simple example: you're planning a road trip and want to minimize driving time.
 
 Simple optimization problems — finding the minimum of a smooth function with two variables — are straightforward. But real-world problems are messy.
 
-**Combinatorial explosion.** A delivery company with 20 stops has 20! (about 2.4 quintillion) possible route orderings. Checking every possibility isn't feasible even for the fastest computers. The Traveling Salesman Problem — finding the shortest route visiting each city exactly once — is one of the most famous unsolved problems in computer science. Nobody knows if an efficient exact solution exists.
+**Combinatorial explosion.** A delivery company with 20 stops has 20! (about 2.4 quintillion) possible route orderings. Checking every possibility isn't feasible even for the fastest computers. The Traveling Salesman Problem — finding the shortest route visiting each city exactly once — is one of the most famous unsolved problems in [computer science](/computer-science). Nobody knows if an efficient exact solution exists.
 
 **Multiple objectives.** You want to minimize cost AND maximize quality AND reduce environmental impact. These objectives often conflict. Improving quality usually costs more. Reducing emissions might slow production. Multi-objective optimization finds the set of trade-off solutions (called the Pareto frontier) where you can't improve one objective without worsening another.
 
@@ -61,21 +61,21 @@ Simple optimization problems — finding the minimum of a smooth function with t
 
 ## The Major Methods
 
-**Linear programming (LP)** handles problems where both the objective function and constraints are linear. Despite the restrictive-sounding name, LP is extraordinarily useful. Airlines use it to schedule crews. Oil refineries use it to determine optimal product mixes. Supply chains use it for transportation and distribution planning. The simplex method (George Dantzig, 1947) and interior point methods solve LP problems efficiently even with thousands of variables.
+**[Linear programming](/linear-programming) (LP)** handles problems where both the objective function and constraints are linear. Despite the restrictive-sounding name, LP is extraordinarily useful. Airlines use it to schedule crews. Oil refineries use it to determine optimal product mixes. Supply chains use it for transportation and distribution planning. The simplex method (George Dantzig, 1947) and interior point methods solve LP problems efficiently even with thousands of variables.
 
-**Integer programming** adds the requirement that some or all variables must be whole numbers. Scheduling problems, facility location decisions, and yes/no decisions naturally involve integers. These problems are much harder than continuous LP — technically NP-hard in general — but modern solvers handle surprisingly large instances.
+**[Integer programming](/integer-programming)** adds the requirement that some or all variables must be whole numbers. Scheduling problems, facility location decisions, and yes/no decisions naturally involve integers. These problems are much harder than continuous LP — technically NP-hard in general — but modern solvers handle surprisingly large instances.
 
 **Nonlinear programming** addresses problems with curved objective functions or constraints. Gradient descent — repeatedly moving in the direction that improves the objective fastest — is the workhorse method. It powers machine learning training, where the "objective" is minimizing prediction error across millions of data points.
 
-**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, inventory management, and sequence alignment in bioinformatics.
+**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, [inventory management](/inventory-[management](/management)), and sequence alignment in bioinformatics.
 
-**Metaheuristics** — genetic algorithms, simulated annealing, particle swarm optimization — are general-purpose methods inspired by natural processes. They don't guarantee the best possible answer, but they find good solutions to problems that are too complex for exact methods. They're popular in engineering design, scheduling, and logistics.
+**Metaheuristics** — genetic algorithms, simulated annealing, particle swarm optimization — are general-purpose methods inspired by natural processes. They don't guarantee the best possible answer, but they find good solutions to problems that are too complex for exact methods. They're popular in [engineering](/engineering) design, scheduling, and [logistics](/logistics).
 
 ## Where Optimization Shows Up
 
 **Logistics and transportation.** UPS saved 10 million gallons of fuel annually by optimizing delivery routes to minimize left turns (right turns are faster and safer). Airlines use optimization to set ticket prices, schedule flights, assign aircraft, and plan crew rotations — problems with millions of variables.
 
-**Finance.** Modern portfolio theory (Harry Markowitz, 1952) frames investment as an optimization problem: maximize expected return for a given level of risk. Every robo-advisor and institutional fund manager uses optimization algorithms.
+**[Finance](/finance).** Modern portfolio theory (Harry Markowitz, 1952) frames investment as an optimization problem: maximize expected return for a given level of risk. Every robo-advisor and institutional fund manager uses optimization algorithms.
 
 **Machine learning.** Training a neural network is fundamentally an optimization problem: find the model parameters that minimize prediction error on training data. Gradient descent and its variants (SGD, Adam) are the optimization engines behind modern AI.
 

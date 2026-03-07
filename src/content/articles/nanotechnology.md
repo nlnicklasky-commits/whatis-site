@@ -5,7 +5,7 @@ description: "Nanotechnology engineers materials and devices at the atomic scale
 category: technology
 tags: ["nanotechnology", "nanomaterials", "nanoscience", "quantum physics", "materials science", "medicine"]
 heroImage: "/images/articles/nanotechnology-hero.webp"
-heroAlt: "Scanning electron microscope image of nanoscale structures on a surface"
+heroAlt: "Editorial photograph representing the concept of nanotechnology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -93,7 +93,7 @@ Graphene — a single atomic layer of carbon atoms arranged in a hexagonal latti
 
 ## What Nanotechnology Actually Does Today
 
-Let's separate the science fiction from the current reality.
+Let's separate the [science fiction](/science-fiction) from the current reality.
 
 ### Medicine and Nanomedicine
 
@@ -105,7 +105,7 @@ Lipid nanoparticles (LNPs) became household technology — even if people didn't
 
 Abraxane, a nanoparticle formulation of the cancer drug paclitaxel bound to albumin nanoparticles, was one of the first nano-drugs approved by the FDA (2005). It improved drug delivery to tumors compared to the conventional formulation.
 
-**Diagnostic imaging.** Quantum dots, iron oxide nanoparticles, and gold nanoparticles are used as contrast agents in medical imaging. They can be functionalized — attached to antibodies or other targeting molecules — to bind specifically to cancer cells, making tumors visible at earlier stages.
+**Diagnostic imaging.** Quantum dots, iron oxide nanoparticles, and gold nanoparticles are used as contrast agents in [medical imaging](/medical-imaging). They can be functionalized — attached to antibodies or other targeting molecules — to bind specifically to cancer cells, making tumors visible at earlier stages.
 
 **Theranostics.** Combining therapy and diagnostics in a single nanoparticle platform. A single nanoparticle could carry a drug, a targeting molecule, and an imaging agent — finding the tumor, treating it, and confirming treatment success in one package. This is still largely experimental but progressing rapidly.
 
@@ -163,7 +163,7 @@ Regulating nanotechnology is tricky because it cuts across existing regulatory c
 
 Making things at the nanoscale requires specialized approaches.
 
-**Top-down manufacturing** starts with bulk material and carves it down to nanoscale features. This is how semiconductor chips are made — photolithography projects patterns of light onto photosensitive material, and etching removes everything that wasn't protected. It's extremely precise but faces physical limits as features shrink below 5-7 nanometers.
+**Top-down manufacturing** starts with bulk material and carves it down to nanoscale features. This is how semiconductor chips are made — [photolithography](/photolithography) projects patterns of light onto photosensitive material, and etching removes everything that wasn't protected. It's extremely precise but faces physical limits as features shrink below 5-7 nanometers.
 
 **Bottom-up manufacturing** assembles structures from individual atoms or molecules. Chemical synthesis creates nanoparticles and nanostructures by controlling reactions at the molecular level. Self-assembly — where molecules naturally organize into ordered structures because of their chemical properties — is a particularly elegant bottom-up approach. DNA origami, where synthetic DNA strands fold into predetermined 2D and 3D shapes, is a remarkable example.
 
@@ -173,11 +173,11 @@ The ultimate goal — Drexler's vision of molecular assemblers that build arbitr
 
 [Machine learning](/machine-learning) is accelerating nanotechnology research in several ways.
 
-**Materials discovery.** AI models trained on materials databases can predict properties of nanomaterials that haven't been synthesized yet, dramatically reducing the trial-and-error of traditional materials science. Google DeepMind's GNoME model identified 2.2 million potential new materials in 2023.
+**Materials discovery.** AI models trained on materials databases can predict properties of nanomaterials that haven't been synthesized yet, dramatically reducing the trial-and-error of traditional [materials science](/materials-science). Google DeepMind's GNoME model identified 2.2 million potential new materials in 2023.
 
 **Process optimization.** Nanoparticle synthesis involves many variables — temperature, concentration, reaction time, surfactant choice — and AI can optimize these parameters faster than human experimentation.
 
-**Imaging and characterization.** Machine learning algorithms analyze electron microscopy images to identify and classify nanostructures automatically, speeding up characterization that was previously done manually.
+**Imaging and characterization.** Machine learning algorithms analyze [electron microscopy](/electron-microscopy) images to identify and classify nanostructures automatically, speeding up characterization that was previously done manually.
 
 ## The Scale of the Industry
 
@@ -197,7 +197,7 @@ Several frontiers are particularly active.
 
 **Nanoscale energy harvesting.** Piezoelectric nanowires that generate electricity from mechanical vibrations could power implanted medical devices using the body's own movements. Nanoscale thermoelectric generators could recover waste heat that's currently lost.
 
-**Quantum computing.** Building quantum computers requires precise control of quantum states in nanoscale systems — quantum dots, superconducting circuits, trapped ions, and topological structures all operate at the nanoscale.
+**[Quantum computing](/quantum-computing).** Building quantum computers requires precise control of quantum states in nanoscale systems — quantum dots, superconducting circuits, trapped ions, and topological structures all operate at the nanoscale.
 
 ## Key Takeaways
 

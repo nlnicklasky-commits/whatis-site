@@ -5,7 +5,7 @@ description: "The Napoleonic Wars (1803-1815) were a series of conflicts between
 category: history
 tags: ["napoleonic wars", "napoleon bonaparte", "european history", "military history"]
 heroImage: "/images/articles/napoleonic-wars.webp"
-heroAlt: "Painting depicting the Battle of Austerlitz with cavalry charges and cannon smoke"
+heroAlt: "Editorial photograph representing the concept of napoleonic wars"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 The Napoleonic Wars were a series of major conflicts fought between 1803 and 1815, pitting Napoleon Bonaparte's French Empire against shifting coalitions of European powers — primarily Britain, Russia, Prussia, Austria, and Spain. They reshaped the political map of Europe, killed millions of people, spread the ideals of the French Revolution across the continent, and ended with Napoleon exiled on a tiny island in the middle of the South Atlantic.
 
-These weren't just one war. They were seven coalitions' worth of wars, fought on battlefields from Egypt to Moscow, from the seas off Spain to the frozen rivers of Saxony. And their consequences — the Congress of Vienna, the rise of nationalism, the balance-of-power system — shaped European politics for the next century.
+These weren't just one war. They were seven coalitions' worth of wars, fought on battlefields from Egypt to Moscow, from the seas off Spain to the frozen rivers of Saxony. And their consequences — the Congress of Vienna, the rise of nationalism, the balance-of-power system — shaped European [politics](/politics) for the next century.
 
 ## Napoleon's Rise to Power
 
 You can't understand the Napoleonic Wars without understanding the man who started them.
 
-Napoleon Bonaparte was born in Corsica in 1769, just one year after France acquired the island from Genoa. He trained as an artillery officer, excelled during the Revolutionary Wars of the 1790s, and rose through the ranks with terrifying speed. By 1799, at age 30, he had overthrown the Directory (France's weak republican government) in a coup d'etat and installed himself as First Consul — effectively a dictator with a democratic veneer.
+Napoleon Bonaparte was born in Corsica in 1769, just one year after France acquired the island from Genoa. He trained as an artillery officer, excelled during the Revolutionary Wars of the 1790s, and rose through the ranks with terrifying speed. By 1799, at age 30, he had overthrown the Directory (France's weak republican [government](/government)) in a coup d'etat and installed himself as First Consul — effectively a dictator with a democratic veneer.
 
 In 1804, he crowned himself Emperor of the French in a ceremony at Notre-Dame Cathedral. Pope Pius VII was present, but Napoleon famously took the crown and placed it on his own head — a deliberate statement that his authority came from himself, not from God or the Church.
 
@@ -67,7 +67,7 @@ Two months before Austerlitz, though, Britain's Royal Navy destroyed the Franco-
 
 If you know one thing about the Napoleonic Wars, it's probably this: Napoleon invaded Russia and it went badly.
 
-In June 1812, Napoleon crossed the Niemen River with approximately 614,000 troops — the largest army assembled in European history up to that point. His goal was to force Tsar Alexander I back into the Continental System (the trade blockade against Britain) through a quick, decisive battle.
+In June 1812, Napoleon crossed the Niemen River with approximately 614,000 troops — the largest army assembled in [European history](/european-history) up to that point. His goal was to force Tsar Alexander I back into the Continental System (the [trade](/trade) blockade against Britain) through a quick, decisive battle.
 
 The Russians refused to cooperate. Instead of standing and fighting, they retreated — burning crops, destroying supplies, and evacuating towns. Napoleon pushed deeper and deeper into Russian territory, trying to force the engagement that would end the war. His supply lines stretched impossibly thin. Disease — typhus, dysentery — began killing soldiers by the thousands.
 
@@ -103,7 +103,7 @@ Their goals were straightforward: prevent France from dominating Europe again, r
 
 They largely succeeded — at least for a while. The "Concert of Europe" that emerged from Vienna maintained relative peace on the continent for nearly 40 years, until the Crimean War of 1853. No general European war occurred for a full century, until 1914.
 
-But the Congress also suppressed the liberal and nationalist movements that the French Revolution and Napoleon's conquests had unleashed. Italian and German nationalists, Polish independence fighters, and liberal reformers across Europe spent the next several decades pushing against the conservative order that Vienna had imposed. The revolutions of 1848, the unification of Italy and Germany, and ultimately World War I can all be traced, at least partly, to tensions the Congress of Vienna tried to contain but couldn't eliminate.
+But the Congress also suppressed the liberal and nationalist movements that the French Revolution and Napoleon's conquests had unleashed. Italian and German nationalists, Polish independence fighters, and liberal reformers across Europe spent the next several decades pushing against the conservative order that Vienna had imposed. The revolutions of 1848, the unification of Italy and Germany, and ultimately [World War I](/world-war-i) can all be traced, at least partly, to tensions the Congress of Vienna tried to contain but couldn't eliminate.
 
 ## The Human Cost
 
@@ -119,4 +119,4 @@ The Napoleonic Wars established patterns that would repeat throughout the 19th a
 
 They also spread ideas. Napoleon's armies carried the Napoleonic Code — a rationalized legal system based on equality before the law — to every country they conquered. Long after Napoleon himself was gone, his legal reforms persisted in Belgium, the Netherlands, Italy, and parts of Germany.
 
-And they proved something that every generation seems to need to learn fresh: military genius, no matter how extraordinary, cannot overcome geography, logistics, and the determination of people who refuse to be conquered.
+And they proved something that every generation seems to need to learn fresh: military genius, no matter how extraordinary, cannot overcome [geography](/geography), [logistics](/logistics), and the determination of people who refuse to be conquered.

@@ -5,7 +5,7 @@ description: "Business administration is the management of an organization's ope
 category: finance
 tags: ["business administration", "management", "operations", "organizational goals", "finance", "marketing", "human resources"]
 heroImage: "/images/articles/business-administration-hero.webp"
-heroAlt: "Professional team meeting around a conference table discussing business operations"
+heroAlt: "Editorial photograph representing the concept of business administration"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -91,7 +91,7 @@ Key operations concepts:
 
 **Process optimization** — continuously improving how work gets done. Lean manufacturing (derived from Toyota's production system) eliminates waste. Six Sigma (originated at Motorola, popularized by GE) reduces variation and defects. Together, Lean Six Sigma is the dominant operations improvement methodology, used across manufacturing, healthcare, finance, and technology.
 
-**Supply chain management** — coordinating the flow of materials, information, and money from raw materials through production to the end customer. The COVID-19 pandemic exposed the fragility of global supply chains, leading to increased emphasis on supply chain resilience, diversification, and visibility.
+**[Supply chain management](/supply-chain-management)** — coordinating the flow of materials, information, and money from raw materials through production to the end customer. The COVID-19 pandemic exposed the fragility of global supply chains, leading to increased emphasis on supply chain resilience, diversification, and visibility.
 
 **Quality management** — ensuring products and services meet defined standards. ISO 9001 is the international standard for quality management systems, held by over 1 million organizations worldwide. Total Quality Management (TQM) principles — continuous improvement, customer focus, data-driven decisions — have become embedded in how well-administered organizations operate.
 
@@ -134,7 +134,7 @@ No discussion of business administration is complete without addressing the MBA 
 
 The MBA originated at Harvard Business School in 1908 and has become the most popular graduate degree in the United States. Approximately 200,000 MBAs are awarded annually in the US alone.
 
-**What an MBA covers**: The core curriculum typically includes accounting, finance, marketing, operations, organizational behavior, strategy, and statistics. Electives allow specialization in areas like entrepreneurship, healthcare management, technology management, or international business.
+**What an MBA covers**: The core curriculum typically includes accounting, finance, marketing, operations, [organizational behavior](/organizational-behavior), strategy, and statistics. Electives allow specialization in areas like entrepreneurship, healthcare management, technology management, or [international business](/international-business).
 
 **The case method**: Many top programs, following Harvard's model, teach primarily through case studies — detailed accounts of real business situations requiring analysis and recommendations. Students learn by debating cases rather than absorbing lectures. This develops analytical and communication skills but has been criticized for teaching retrospective analysis rather than forward-looking creation.
 

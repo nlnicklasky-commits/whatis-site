@@ -5,7 +5,7 @@ description: "Lapidary is the art of cutting, shaping, and polishing stones and 
 category: arts-amp-culture
 tags: ["lapidary", "gemstones", "rock cutting", "jewelry", "mineral collecting", "craft"]
 heroImage: "/images/articles/lapidary.webp"
-heroAlt: "Polished agate cabochon next to a lapidary grinding wheel with water spray"
+heroAlt: "Editorial photograph representing the concept of lapidary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -81,7 +81,7 @@ Tumbling requires almost no skill — load it and wait — but choosing the righ
 
 Lapidary clubs exist in most regions — the American Federation of Mineralogical Societies lists over 600 member clubs. Clubs are the best way to learn because they typically have shared workshops with equipment that would be expensive to buy individually. Experienced members teach beginners. Monthly meetings feature demonstrations, show-and-tell, and field trips to collecting sites.
 
-Gem and mineral shows — held in most states throughout the year — combine dealer sales, educational exhibits, club displays, and competitive judging. The competitive categories range from cabochons to faceted stones to carvings, and the winning entries demonstrate extraordinary skill.
+Gem and mineral shows — held in most states throughout the year — combine dealer [sales](/sales), educational exhibits, club displays, and competitive judging. The competitive categories range from cabochons to faceted stones to carvings, and the winning entries demonstrate extraordinary skill.
 
 ## Why People Love It
 

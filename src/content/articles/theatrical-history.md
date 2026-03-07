@@ -5,7 +5,7 @@ description: "Theatrical history traces the evolution of live performance from a
 category: arts-amp-culture
 tags: ["theatrical history", "theatre", "drama", "performance", "stage", "acting"]
 heroImage: "/images/articles/theatrical-history.webp"
-heroAlt: "An ancient Greek amphitheater with stone seating and a circular stage"
+heroAlt: "Editorial photograph representing the concept of theatrical history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,15 +33,15 @@ faq:
 
 Theatrical history is the study of how live performance has evolved across cultures and centuries — from the religious rituals of ancient civilizations to the streaming-age theater of today. It examines not just the plays themselves but the buildings, technologies, social contexts, and artistic movements that shaped what happened on stage.
 
-Understanding theatrical history matters because theater both reflects and shapes the societies that produce it. When you watch a Greek tragedy, an Elizabethan comedy, or a contemporary musical, you're seeing what different eras considered worth saying — and how they chose to say it.
+Understanding theatrical history matters because theater both reflects and shapes the societies that produce it. When you watch a Greek tragedy, an Elizabethan [comedy](/comedy), or a contemporary musical, you're seeing what different eras considered worth saying — and how they chose to say it.
 
 ## Ancient Theater (5th Century BC)
 
-Western theater began in Athens around 534 BC, when the priest Thespis (from whom we get "thespian") reportedly stepped out of the chorus and spoke as an individual character. This was revolutionary — the birth of acting as we understand it.
+Western theater began in Athens around 534 BC, when the priest Thespis (from whom we get "thespian") reportedly stepped out of the chorus and spoke as an individual character. This was revolutionary — the birth of [acting](/acting) as we understand it.
 
 [Greek](/ancient-greek-history) theaters were massive outdoor amphitheaters seating 15,000-17,000 people. Performances were part of religious festivals, and attendance was a civic duty. Three great tragedians — Aeschylus, Sophocles, and Euripides — created works exploring fate, justice, duty, and human suffering that are still performed today.
 
-Aristophanes invented comedy as a theatrical form, writing biting political satires that mocked Athenian leaders by name. The Greeks established the fundamental elements: actors, chorus, audience, dramatic structure, and the idea that theater could both entertain and provoke thought.
+Aristophanes invented comedy as a theatrical form, [writing](/writing) biting political satires that mocked Athenian leaders by name. The Greeks established the fundamental elements: actors, chorus, audience, dramatic structure, and the idea that theater could both entertain and provoke thought.
 
 ## Roman and Medieval Theater
 
@@ -51,7 +51,7 @@ After Rome fell, organized theater effectively disappeared from Europe for centu
 
 ## The Renaissance and Shakespeare (1500s-1600s)
 
-The Italian Renaissance revived interest in classical drama and produced the commedia dell'arte — improvised comedy with stock characters (Harlequin, Pantalone, Colombina) that influenced theater across Europe for centuries.
+The Italian Renaissance revived interest in classical [drama](/drama) and produced the commedia dell'arte — improvised comedy with stock characters (Harlequin, Pantalone, Colombina) that influenced theater across Europe for centuries.
 
 But the towering figure of this era — and arguably all of theatrical [history](/storytelling) — is William Shakespeare (1564-1616). Writing for the Globe Theatre in London, Shakespeare produced roughly 37 plays that combined poetic language, psychological complexity, structural innovation, and commercial entertainment at a level that hadn't been achieved before and has rarely been matched since.
 
@@ -61,7 +61,7 @@ His contemporaries — Marlowe, Jonson, Webster — were talented, but Shakespea
 
 French neoclassical theater, led by Moliere (comedy) and Racine (tragedy), dominated European drama. Moliere's comedies — *Tartuffe*, *The Misanthrope*, *The Imaginary Invalid* — remain some of the sharpest social satire ever written.
 
-The Restoration in England (1660) brought women onto the English stage for the first time and produced witty comedies of manners. The 18th century saw the rise of sentimental drama, the development of more naturalistic acting styles, and the construction of elaborate indoor theaters.
+The Restoration in England (1660) brought women onto the English stage for the first time and produced witty comedies of manners. The 18th century saw the rise of sentimental drama, the development of more naturalistic acting styles, and the [construction](/construction) of elaborate indoor theaters.
 
 ## The 19th Century: Realism Arrives
 

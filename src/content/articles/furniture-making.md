@@ -5,7 +5,7 @@ description: "Furniture making is the craft of building functional objects from 
 category: arts-amp-culture
 tags: ["furniture", "craftsmanship", "woodworking", "carpentry", "materials", "joinery"]
 heroImage: "/images/articles/furniture-making.webp"
-heroAlt: "Woodworker hand-planing a piece of hardwood at a workshop bench"
+heroAlt: "Editorial photograph representing the concept of furniture making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,9 +45,9 @@ Wood dominates furniture making for good reasons: it's strong relative to its we
 
 ## Joinery — The Heart of the Craft
 
-Joinery is how pieces of wood are connected, and it's what separates furniture making from carpentry. Good joints are strong, precise, and often beautiful in themselves.
+Joinery is how pieces of wood are connected, and it's what separates furniture making from [carpentry](/carpentry). Good joints are strong, precise, and often beautiful in themselves.
 
-**Mortise and tenon** — a rectangular protrusion (tenon) fits into a corresponding hole (mortise). This is the workhorse of furniture joinery, used for frame construction, table legs, and chair assembly. Variations include through-tenons (visible through the other side) and wedged tenons (with a wedge that locks the joint tight).
+**Mortise and tenon** — a rectangular protrusion (tenon) fits into a corresponding hole (mortise). This is the workhorse of furniture joinery, used for frame [construction](/construction), table legs, and chair assembly. Variations include through-tenons (visible through the other side) and wedged tenons (with a wedge that locks the joint tight).
 
 **Dovetails** — interlocking trapezoidal pins and tails that resist being pulled apart. Traditionally used for drawer construction, dovetails are both functional and decorative. Hand-cut dovetails are a mark of craftsmanship; their slight irregularity is part of their appeal.
 
@@ -59,9 +59,9 @@ Joinery is how pieces of wood are connected, and it's what separates furniture m
 
 ## Hand Tools vs. Power Tools
 
-The perennial debate: hand tools or machines?
+The perennial [debate](/debate): hand tools or machines?
 
-**Hand tool woodworking** uses saws, planes, chisels, mallets, and hand drills. It's quieter, produces less dust, requires less space, and connects you physically to the material. A sharp hand plane produces a surface superior to any sandpaper. But hand work is slower and requires significant skill development.
+**Hand tool [woodworking](/woodworking)** uses saws, planes, chisels, mallets, and hand drills. It's quieter, produces less dust, requires less space, and connects you physically to the material. A sharp hand plane produces a surface superior to any sandpaper. But hand work is slower and requires significant skill development.
 
 **Power tool woodworking** uses table saws, routers, planers, jointers, drill presses, and sanders. Machines cut faster, produce more consistent results, and enable operations that would be extremely difficult by hand. But they're expensive, loud, dusty, and dangerous — table saws alone cause over 30,000 injuries per year in the U.S.
 

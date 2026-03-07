@@ -5,7 +5,7 @@ description: "Rhinology is the medical subspecialty focused on diagnosing and tr
 category: health-amp-wellness
 tags: ["medical", "rhinology", "ent", "nasal disorders"]
 heroImage: "/images/articles/rhinology.webp"
-heroAlt: "A medical illustration showing a cross-section of the human nasal cavity and sinus passages"
+heroAlt: "Editorial photograph representing the concept of rhinology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,13 +39,13 @@ Your nose does far more than you give it credit for. It filters, warms, and humi
 
 When any part of this system malfunctions, quality of life drops fast.
 
-## A Brief Anatomy of the Nose and Sinuses
+## A Brief [Anatomy](/anatomy) of the Nose and Sinuses
 
 Understanding rhinology starts with understanding the structures involved.
 
 **The nasal septum** is the wall of cartilage and bone that divides your nose into left and right sides. In a perfect world, it runs straight down the middle. In reality, roughly 80% of people have some degree of septal deviation — the septum tilts or curves to one side. Most deviations are minor and cause no symptoms. Severe deviations can block airflow on one side entirely.
 
-**The turbinates** are three paired shelves of bone and tissue (inferior, middle, and superior) that project from the lateral nasal wall. They increase the surface area inside your nose, allowing more efficient warming and humidification of inhaled air. But turbinates can swell in response to allergies, infections, or irritants, narrowing the nasal passages considerably.
+**The turbinates** are three paired shelves of bone and tissue (inferior, middle, and superior) that project from the lateral nasal wall. They increase the surface area inside your nose, allowing more efficient warming and humidification of inhaled air. But turbinates can swell in response to [allergies](/allergies), infections, or irritants, narrowing the nasal passages considerably.
 
 **The paranasal sinuses** are four paired cavities:
 - **Maxillary sinuses** — the largest, located in your cheekbones
@@ -66,18 +66,18 @@ This is the bread and butter of rhinology. Chronic sinusitis — defined as sinu
 Symptoms include nasal congestion, facial pressure or pain, thick nasal discharge, reduced sense of smell, headaches, fatigue, and post-nasal drip. The condition is miserable — patients with chronic sinusitis report quality-of-life scores comparable to those with congestive heart failure and chronic obstructive pulmonary disease. That comparison surprises most people, but anyone who has lived with chronic sinusitis understands it immediately.
 
 Treatment follows a stepwise approach:
-1. **Saline irrigation** — flushing the nasal passages with salt water, typically using a neti pot or squeeze bottle. This is cheap, safe, and surprisingly effective. A 2016 Cochrane review confirmed its benefits.
+1. **Saline [irrigation](/irrigation)** — flushing the nasal passages with salt water, typically using a neti pot or squeeze bottle. This is cheap, safe, and surprisingly effective. A 2016 Cochrane review confirmed its benefits.
 2. **Intranasal corticosteroid sprays** — fluticasone, mometasone, budesonide — reduce inflammation and polyp size
 3. **Antibiotics** — for bacterial infections, though chronic sinusitis is often not bacterial
 4. **Oral corticosteroids** — short courses for severe flares, particularly with nasal polyps
 5. **Biologic medications** — dupilumab (Dupixent) was approved for chronic sinusitis with nasal polyps in 2019 and has been a significant advance for patients who don't respond to other treatments
-6. **Surgery** — when medical therapy fails
+6. **[Surgery](/surgery)** — when medical therapy fails
 
 ### Nasal Polyps
 
 Nasal polyps are benign, painless, teardrop-shaped growths that develop from chronically inflamed sinus lining. They affect about 4% of the population and are particularly common in people with asthma, aspirin sensitivity, and allergic fungal sinusitis — a triad called Samter's triad.
 
-Small polyps may cause no symptoms. Large ones can completely obstruct the nasal passages, eliminate the sense of smell, and block sinus drainage. Treatment starts with steroid sprays and sometimes oral steroids. When polyps are large or recurrent, endoscopic surgery removes them — though recurrence rates of 40-60% within a few years are common without ongoing medical management.
+Small polyps may cause no symptoms. Large ones can completely obstruct the nasal passages, eliminate the sense of smell, and block sinus drainage. Treatment starts with steroid sprays and sometimes oral steroids. When polyps are large or recurrent, endoscopic surgery removes them — though recurrence rates of 40-60% within a few years are common without ongoing medical [management](/management).
 
 ### Deviated Septum
 
@@ -105,7 +105,7 @@ Functional endoscopic sinus surgery (FESS) is the primary surgical technique in 
 
 The procedure is typically performed under general anesthesia and takes 1-3 hours depending on the extent of disease. Most patients go home the same day. Post-operative care involves saline irrigations, follow-up endoscopic examinations to ensure proper healing, and often continued medical therapy to prevent recurrence.
 
-**Image guidance** — a GPS-like navigation system that tracks instrument position in real time relative to the patient's CT scan — has made sinus surgery safer and more precise. The system shows the surgeon exactly where their instruments are within the complex three-dimensional anatomy of the sinuses, reducing the risk of damaging nearby structures like the eyes and brain.
+**Image guidance** — a GPS-like [navigation](/navigation) system that tracks instrument position in real time relative to the patient's CT scan — has made sinus surgery safer and more precise. The system shows the surgeon exactly where their instruments are within the complex three-dimensional anatomy of the sinuses, reducing the risk of damaging nearby structures like the eyes and brain.
 
 **Balloon sinuplasty** is a less invasive alternative for select patients. A small balloon is inserted into the blocked sinus opening and inflated, widening the drainage pathway without removing tissue. It's performed in some cases under local anesthesia in the office. The procedure is quicker with faster recovery, but it's not appropriate for all conditions — particularly when polyps or significant structural problems are present.
 
@@ -123,6 +123,6 @@ Several developments are reshaping the field:
 
 ## Why Rhinology Matters
 
-It's easy to dismiss nasal problems as minor inconveniences. A stuffy nose, some sinus pressure — so what? But chronic nasal and sinus disease significantly impacts sleep, concentration, productivity, mood, and social interaction. The inability to smell affects everything from food enjoyment to safety (you can't smell a gas leak or smoke).
+It's easy to dismiss nasal problems as minor inconveniences. A stuffy nose, some sinus pressure — so what? But chronic nasal and sinus disease significantly impacts sleep, concentration, [productivity](/productivity), mood, and social interaction. The inability to smell affects everything from food enjoyment to safety (you can't smell a gas leak or smoke).
 
 Rhinology exists because these problems deserve specialized expertise. The anatomy is tight, the structures are delicate, and the consequences of getting it wrong — whether that means a missed diagnosis or a surgical complication — can be severe. For the millions of people dealing with chronic nasal and sinus issues, a rhinologist isn't a luxury. It's the specialist who can actually fix the problem.

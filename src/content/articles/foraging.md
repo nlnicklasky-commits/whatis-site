@@ -5,7 +5,7 @@ description: "Foraging is gathering wild food from natural environments. Learn a
 category: everyday-concepts
 tags: ["wild food", "edible plants", "mushrooms", "nature", "sustainability", "self-sufficiency"]
 heroImage: "/images/articles/foraging.webp"
-heroAlt: "Basket filled with wild mushrooms and herbs on a forest floor"
+heroAlt: "Editorial photograph representing the concept of foraging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Foraging?
 
-Foraging is the practice of gathering wild food from natural environments — plants, mushrooms, fruits, nuts, seaweed, and occasionally insects or shellfish. It's how every human ate before agriculture was invented roughly 12,000 years ago, and it's experiencing a massive resurgence. Restaurant chefs, sustainability advocates, outdoor enthusiasts, and people simply curious about what's growing around them have driven a foraging boom since the 2010s.
+Foraging is the practice of gathering wild food from natural environments — plants, mushrooms, fruits, nuts, seaweed, and occasionally insects or shellfish. It's how every human ate before [agriculture](/agriculture) was invented roughly 12,000 years ago, and it's experiencing a massive resurgence. Restaurant chefs, sustainability advocates, outdoor enthusiasts, and people simply curious about what's growing around them have driven a foraging boom since the 2010s.
 
 ## The Modern Foraging Movement
 
@@ -65,7 +65,7 @@ Foraging can be dangerous if approached carelessly. Every experienced forager fo
 
 **Rule three: start simple.** Begin with species that have no dangerous look-alikes — dandelions, blackberries, garlic mustard. Build knowledge gradually. Don't jump to mushroom foraging without extensive study and mentorship.
 
-**Rule four: forage in clean areas.** Avoid roadsides (heavy metal contamination), agricultural edges (pesticide drift), industrial areas, and recently treated lawns. Dog-walking areas are also questionable for obvious reasons.
+**Rule four: forage in clean areas.** Avoid roadsides (heavy metal contamination), agricultural edges (pesticide drift), industrial areas, and recently treated lawns. Dog-[walking](/walking) areas are also questionable for obvious reasons.
 
 **Rule five: try a small amount first.** Even correctly identified wild foods can cause reactions in sensitive individuals. Try a small portion and wait 24 hours before eating a larger quantity.
 
@@ -79,7 +79,7 @@ Over-foraging is a real problem in areas with concentrated foraging pressure. Ra
 
 ## Learning to Forage
 
-The best way to learn is from experienced foragers. Local mycological societies, foraging clubs, nature centers, and community education programs offer walks and workshops. Having someone experienced point to a plant and say "that's edible, and *that's* the toxic look-alike" is worth a dozen field guides.
+The best way to learn is from experienced foragers. Local mycological societies, foraging clubs, nature centers, and community [education](/education) programs offer walks and workshops. Having someone experienced point to a plant and say "that's edible, and *that's* the toxic look-alike" is worth a dozen field guides.
 
 **Field guides** are essential reference tools. Regional guides are better than general ones — a guide covering "edible plants of the Northeast" is more useful than one covering all of North America. Samuel Thayer's foraging books (*The Forager's Harvest*, *Nature's Garden*) are widely considered the best American references.
 
@@ -87,6 +87,6 @@ The best way to learn is from experienced foragers. Local mycological societies,
 
 ## Why People Forage
 
-Beyond the practical benefits (free food, nutrition, sustainability), foragers describe something harder to quantify — a changed relationship with the field. Once you start noticing edible plants, you see them everywhere. A walk through the park becomes a walk through a market. Vacant lots become salad bars. The field stops being scenery and starts being a living, edible, connected system.
+Beyond the practical benefits (free food, [nutrition](/nutrition), sustainability), foragers describe something harder to quantify — a changed relationship with the field. Once you start noticing edible plants, you see them everywhere. A walk through the park becomes a walk through a market. Vacant lots become salad bars. The field stops being scenery and starts being a living, edible, connected system.
 
 That shift in perception — from passive observer to active participant in your local ecosystem — is foraging's deepest reward.

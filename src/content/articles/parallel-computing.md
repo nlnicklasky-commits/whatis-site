@@ -5,7 +5,7 @@ description: "Parallel computing runs multiple calculations simultaneously to so
 category: technology
 tags: ["parallel computing", "supercomputing", "concurrency", "multiprocessing", "distributed computing", "hpc"]
 heroImage: "/images/articles/parallel-computing-hero.webp"
-heroAlt: "Visualization of multiple processing units working simultaneously on interconnected tasks"
+heroAlt: "Editorial photograph representing the concept of parallel computing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -65,7 +65,7 @@ This distinction matters enormously in practice. Shared-memory parallelism (thre
 
 There are two fundamental ways to divide work.
 
-**Data parallelism** takes a large dataset and splits it among processors, with each processor performing the same operation on its chunk. Imagine adding two arrays of a million numbers each: processor 1 handles elements 1-250,000, processor 2 handles 250,001-500,000, and so on. Each processor does the same thing — addition — but on different data. This approach works brilliantly for problems like image processing, matrix operations, and [machine learning](/machine-learning) training.
+**Data parallelism** takes a large dataset and splits it among processors, with each processor performing the same operation on its chunk. Imagine adding two arrays of a million numbers each: processor 1 handles elements 1-250,000, processor 2 handles 250,001-500,000, and so on. Each processor does the same thing — addition — but on different data. This approach works brilliantly for problems like [image processing](/image-processing), matrix operations, and [machine learning](/machine-learning) training.
 
 **Task parallelism** assigns different tasks to different processors. One processor compresses video while another handles audio. One thread manages the user interface while another performs calculations in the background. The processors do different things, potentially on different data. This approach suits problems where distinct, independent operations need to happen simultaneously.
 
@@ -211,7 +211,7 @@ As you add more processors, the time spent communicating between them eventually
 
 ### Energy Efficiency
 
-The world's largest supercomputers consume megawatts of power — Frontier uses over 21 megawatts, enough to power roughly 15,000 homes. As parallel computing scales further toward exascale and beyond, energy consumption becomes a serious constraint. Research into more energy-efficient parallel architectures, including neuromorphic and quantum computing approaches, is ongoing.
+The world's largest supercomputers consume megawatts of power — Frontier uses over 21 megawatts, enough to power roughly 15,000 homes. As parallel computing scales further toward exascale and beyond, energy consumption becomes a serious constraint. Research into more energy-efficient parallel architectures, including neuromorphic and [quantum computing](/quantum-computing) approaches, is ongoing.
 
 ### Heterogeneous Computing
 
@@ -221,7 +221,7 @@ Modern parallel systems increasingly mix different types of processors — CPUs,
 
 Parallel computing is evolving along several fronts. Quantum computing — a fundamentally different form of parallelism where quantum bits can represent multiple states simultaneously — promises exponential speedups for specific problems like cryptography and optimization, though practical quantum computers for general-purpose parallel computing remain years away.
 
-Neuromorphic computing, inspired by the brain's massively parallel architecture, aims to process information more like biological neural networks — potentially offering dramatic improvements in energy efficiency for AI workloads.
+Neuromorphic computing, inspired by the brain's massively parallel architecture, aims to process information more like biological [neural networks](/neural-networks) — potentially offering dramatic improvements in energy efficiency for AI workloads.
 
 At a more practical level, the continued growth of [cloud computing](/cloud-computing) is making parallel resources available to anyone with an internet connection. Frameworks that automatically parallelize common workloads — from [data science](/data-science) to [deep learning](/deep-learning) — are lowering the barrier to entry, letting domain experts exploit parallelism without becoming parallel programming specialists.
 

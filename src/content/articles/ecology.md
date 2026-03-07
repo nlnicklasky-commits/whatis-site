@@ -5,7 +5,7 @@ description: "Ecology is the scientific study of how organisms interact with eac
 category: science
 tags: ["ecology", "ecosystems", "biodiversity", "environmental science", "conservation", "biology", "organisms"]
 heroImage: "/images/articles/ecology-hero.webp"
-heroAlt: "A diverse forest ecosystem showing the interplay of plants, animals, fungi, and water"
+heroAlt: "Editorial photograph representing the concept of ecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Ecology is the branch of [biology](/biology) that studies the relationships betw
 
 ## Ecology Is Not What Most People Think It Is
 
-When people hear "ecology," they often picture tree-hugging or recycling campaigns. That's environmentalism, and while the two overlap, they're different things. Ecology is a hard science. It involves differential equations, statistical models, isotope analysis, and years of fieldwork counting organisms in the mud. It's chemistry, physics, and [mathematics](/applied-mathematics) applied to living systems.
+When people hear "ecology," they often picture tree-hugging or recycling campaigns. That's environmentalism, and while the two overlap, they're different things. Ecology is a hard science. It involves [differential equations](/differential-equations), statistical models, isotope analysis, and years of fieldwork counting organisms in the mud. It's chemistry, physics, and [mathematics](/applied-mathematics) applied to living systems.
 
 Ernst Haeckel coined the term in 1866, but ecology as a formal discipline didn't really take off until the early 20th century. Charles Elton's 1927 book *Animal Ecology* introduced concepts like food chains, ecological niches, and population dynamics that still structure the field today.
 
@@ -103,7 +103,7 @@ Why does biodiversity matter beyond its intrinsic value? Several reasons:
 
 **Ecosystem stability.** More diverse ecosystems tend to be more stable and more resilient to disturbance. David Tilman's long-running grassland experiments at Cedar Creek, Minnesota, have demonstrated this conclusively—plots with more plant species produce more biomass, resist drought better, and recover faster from disturbance.
 
-**Ecosystem services.** Natural ecosystems provide services worth an estimated $125-145 trillion per year globally (as of a 2014 estimate)—pollination, water purification, flood control, carbon storage, soil formation. Losing biodiversity degrades these services.
+**Ecosystem services.** Natural ecosystems provide services worth an estimated $125-145 trillion per year globally (as of a 2014 estimate)—pollination, [water purification](/water-purification), flood control, carbon storage, soil formation. Losing biodiversity degrades these services.
 
 **Genetic resources.** About 50% of pharmaceuticals are derived from or inspired by natural compounds. The anticancer drug taxol comes from Pacific yew trees. The antibiotic vancomycin was discovered in a soil bacterium. Every species that goes extinct takes its unique genetic information—and potential medical, agricultural, or industrial applications—with it.
 
@@ -125,7 +125,7 @@ After a disturbance—a forest fire, a volcanic eruption, a plowed field left fa
 
 The eruption of Mount St. Helens in 1980 provided a natural laboratory for studying succession. Scientists have tracked the recovery continuously for over 45 years, documenting how life returns to landscapes reduced to bare rock and ash. The recovery has been faster and more complex than most predicted—nature is more resilient than we often assume.
 
-### Island Biogeography
+### Island [Biogeography](/biogeography)
 
 In the 1960s, Robert MacArthur and E.O. Wilson developed the theory of island biogeography, which predicts the number of species an island supports based on its size and distance from the mainland. Larger islands closer to the mainland have more species. Smaller, more remote islands have fewer.
 
@@ -143,7 +143,7 @@ Ecology in the 2020s looks very different from ecology in the 1960s.
 
 **Big data ecology.** Satellite imagery, GPS tracking, environmental DNA (eDNA), acoustic monitoring, and citizen science platforms like iNaturalist and eBird generate enormous datasets. A single GPS-tagged albatross produces millions of location points over its lifetime. Camera trap networks photograph millions of animals per year. Making sense of this data avalanche requires [data science](/data-science) skills that weren't part of traditional ecology training.
 
-**Urban ecology.** More than half the world's population lives in cities, and cities are ecosystems too—with their own microclimates, food webs, nutrient flows, and evolutionary pressures. Urban ecology studies how organisms adapt to city environments (pigeons, coyotes, peregrine falcons) and how urban design can better support biodiversity.
+**Urban ecology.** More than half the world's population lives in cities, and cities are ecosystems too—with their own microclimates, food webs, nutrient flows, and evolutionary pressures. Urban ecology studies how organisms adapt to city environments (pigeons, coyotes, peregrine falcons) and how [urban design](/urban-design) can better support biodiversity.
 
 **Restoration ecology.** Going beyond conservation (protecting what exists), restoration ecology aims to rebuild degraded ecosystems. The Loess Plateau restoration in China transformed 35,000 square kilometers of eroded, barren land back into productive, biodiverse landscapes over 20 years—one of the largest ecological restoration projects ever attempted.
 

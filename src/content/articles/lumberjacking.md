@@ -5,7 +5,7 @@ description: "Lumberjacking is the trade of felling, processing, and transportin
 category: everyday-concepts
 tags: ["lumberjacking", "forestry", "timber", "logging", "woodcutting", "outdoor work"]
 heroImage: "/images/articles/lumberjacking.webp"
-heroAlt: "Logger using a chainsaw to fell a large tree in a conifer forest"
+heroAlt: "Editorial photograph representing the concept of lumberjacking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Lumberjacking — more formally called logging — is the work of cutting down t
 
 For most of human history, trees were felled by hand — with axes, then crosscut saws, then (starting in the 1920s) chainsaws. Teams of loggers would spend months in remote camps, working dawn to dusk felling trees, limbing them, and dragging logs to rivers or rail lines for transport.
 
-The logging camps of 19th-century North America are the stuff of legend — literally. Paul Bunyan, the mythical giant lumberjack with his blue ox Babe, embodies the larger-than-life image of the logging trade. Real loggers were tough, underpaid, and expendable. Working conditions were brutal. Injury and death rates were astronomical by modern standards.
+The logging camps of 19th-century North America are the stuff of legend — literally. Paul Bunyan, the mythical giant lumberjack with his blue ox Babe, embodies the larger-than-life image of the logging [trade](/trade). Real loggers were tough, underpaid, and expendable. Working conditions were brutal. Injury and death rates were astronomical by modern standards.
 
 Mechanization transformed the industry in the second half of the 20th century. Today, a single operator in a feller buncher (a machine that grabs a tree, cuts it, and lays it down) can do the work of an entire hand-cutting crew. Skidders drag logs to landing areas. Processors delimb and cut logs to length. Loaders stack them onto trucks. A modern logging operation might employ a handful of machine operators where dozens of hand loggers once worked.
 
@@ -47,7 +47,7 @@ But hand felling hasn't disappeared entirely. In steep terrain, near sensitive a
 
 A typical commercial logging operation follows a sequence:
 
-**Timber sale.** A landowner (often the government for public forests) identifies a stand of timber for harvest. Foresters mark which trees to cut based on species, size, health, and management objectives. A timber sale contract specifies what can be cut, when, and under what conditions.
+**Timber sale.** A landowner (often the [government](/government) for public forests) identifies a stand of timber for harvest. Foresters mark which trees to cut based on species, size, health, and [management](/management) objectives. A timber sale contract specifies what can be cut, when, and under what conditions.
 
 **Road building.** Logging requires access. Temporary roads are built into the harvest area — a significant portion of the environmental impact of logging comes from these roads, which can cause erosion, stream sedimentation, and habitat fragmentation.
 
@@ -77,11 +77,11 @@ OSHA has specific logging safety standards, and the industry has made progress i
 
 Logging and environmental concerns are inseparable. Clear-cutting — removing all trees from an area — was the dominant harvest method for decades and caused serious problems: soil erosion, watershed damage, habitat destruction, and loss of biodiversity.
 
-Modern forestry has moved toward more sustainable approaches. Selective logging takes only designated trees, leaving the forest structure largely intact. Shelterwood cuts remove trees in stages over several years. Replanting programs ensure harvested areas regrow. Buffer zones protect streams and rivers from sedimentation.
+Modern [forestry](/forestry) has moved toward more sustainable approaches. Selective logging takes only designated trees, leaving the forest structure largely intact. Shelterwood cuts remove trees in stages over several years. Replanting programs ensure harvested areas regrow. Buffer zones protect streams and rivers from sedimentation.
 
 Certification programs like the Forest Stewardship Council (FSC) and Sustainable Forestry Initiative (SFI) set standards for responsible forest management. About 11% of the world's forests are certified under one of these programs.
 
-But tensions remain. Old-growth forests — which took centuries to develop their complex ecosystems — can never be truly replaced by tree plantations. The debate between economic use of forests and ecological preservation is far from resolved, and it's especially intense in the Pacific Northwest, Amazon, and Southeast Asian rainforests.
+But tensions remain. Old-growth forests — which took centuries to develop their complex ecosystems — can never be truly replaced by tree plantations. The [debate](/debate) between economic use of forests and ecological preservation is far from resolved, and it's especially intense in the Pacific Northwest, Amazon, and Southeast Asian rainforests.
 
 ## Timber Sports
 
@@ -100,6 +100,6 @@ The STIHL Timbersports Series is the premier professional circuit, broadcast on 
 
 The U.S. logging industry employs about 55,000 workers and produces roughly $25 billion in annual revenue. Globally, the forestry and logging sector supports millions of jobs.
 
-Demand for wood products remains strong — construction lumber, paper, packaging, and emerging markets for engineered wood products (like cross-laminated timber, which is being used as an alternative to steel and concrete in buildings) keep the industry relevant.
+Demand for wood products remains strong — [construction](/construction) lumber, paper, packaging, and emerging markets for engineered wood products (like cross-laminated timber, which is being used as an alternative to steel and concrete in buildings) keep the industry relevant.
 
 But the workforce is aging, recruitment is difficult (not many young people dream of working in one of the country's most dangerous jobs for median pay around $46,000), and automation continues to reduce the number of workers needed. Lumberjacking isn't going away — we still need wood — but the days of large crews of hand loggers are mostly history.

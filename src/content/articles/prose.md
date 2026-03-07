@@ -5,7 +5,7 @@ description: "Prose is ordinary written language that flows in sentences and par
 category: arts-amp-culture
 tags: ["prose", "writing", "literature", "fiction", "non-fiction", "grammar"]
 heroImage: "/images/articles/prose.webp"
-heroAlt: "Open book showing flowing paragraphs of literary prose"
+heroAlt: "Editorial photograph representing the concept of prose"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,15 +37,15 @@ Prose is written or spoken language in its ordinary form — flowing in sentence
 
 "Prose" comes from the Latin *prosa oratio*, meaning "straightforward speech." And that's a decent working definition — prose is language that moves forward in a straight line, saying what it means in the order it means it, using the grammatical structures of everyday communication.
 
-The term exists primarily in contrast to verse (poetry). For most of literary history, "serious" literature was written in verse — epic poems, dramatic verse, lyric poetry. Prose was for practical purposes: laws, records, letters, religious instruction. The rise of prose fiction (the novel) in the 17th and 18th centuries changed that hierarchy permanently.
+The term exists primarily in contrast to verse (poetry). For most of literary history, "serious" [literature](/literature) was written in verse — epic poems, dramatic verse, lyric poetry. Prose was for practical purposes: laws, records, letters, religious instruction. The rise of prose fiction (the novel) in the 17th and 18th centuries changed that hierarchy permanently.
 
 ## Types of Prose
 
-**Fictional prose** — novels, novellas, short stories. This is what most people mean by "literature." The novel emerged as a major form in the 1700s with works like Daniel Defoe's *Robinson Crusoe* (1719) and Samuel Richardson's *Pamela* (1740). Today, it's the dominant form of literary storytelling.
+**Fictional prose** — novels, novellas, short stories. This is what most people mean by "literature." The novel emerged as a major form in the 1700s with works like Daniel Defoe's *Robinson Crusoe* (1719) and Samuel Richardson's *Pamela* (1740). Today, it's the dominant form of literary [storytelling](/storytelling).
 
-**Non-fictional prose** — essays, journalism, biography, memoir, history, criticism, travel writing, science writing. Michel de Montaigne essentially invented the essay in 1580, and the form has been thriving ever since. Good non-fiction prose can be as artful as any novel.
+**Non-fictional prose** — essays, [journalism](/journalism), [biography](/biography), memoir, history, criticism, [travel writing](/travel-writing), science writing. Michel de Montaigne essentially invented the essay in 1580, and the form has been thriving ever since. Good non-fiction prose can be as artful as any novel.
 
-**Heroic prose** — legends, folk tales, myths, and fables that were originally oral but were eventually written down in prose form. The Norse sagas, the *Arabian Nights*, and many folk tale collections fall into this category.
+**Heroic prose** — [legends](/legends), folk tales, myths, and fables that were originally oral but were eventually written down in prose form. The Norse sagas, the *Arabian Nights*, and many folk tale collections fall into this category.
 
 **Prose poetry** — a hybrid form that uses poetic techniques (imagery, compression, sound) but presents them in paragraph form rather than verse lines. Charles Baudelaire popularized it with *Paris Spleen* (1869). It remains a living form, used by poets who want the density of poetry without the formality of line breaks.
 
@@ -53,7 +53,7 @@ The term exists primarily in contrast to verse (poetry). For most of literary hi
 
 Bad prose is easy to spot — it's unclear, clunky, or boring. Good prose is harder to define, but a few qualities show up consistently.
 
-**Clarity.** The reader understands what you mean without struggling. George Orwell argued that clear writing is the foundation of clear thinking, and his six rules from "Politics and the English Language" (1946) remain solid advice: never use a long word where a short one will do, never use a passive verb where an active one works, cut any word you can cut.
+**Clarity.** The reader understands what you mean without struggling. George Orwell argued that clear writing is the foundation of clear thinking, and his six rules from "[Politics](/politics) and the [English Language](/english-language)" (1946) remain solid advice: never use a long word where a short one will do, never use a passive verb where an active one works, cut any word you can cut.
 
 **Rhythm.** Prose has rhythm even though it doesn't have meter. The length and structure of sentences create a cadence — short sentences punch, long sentences flow, variation keeps the reader's attention. Read great prose aloud and you'll hear it immediately.
 
@@ -65,7 +65,7 @@ Bad prose is easy to spot — it's unclear, clunky, or boring. Good prose is har
 
 ## The History of Prose
 
-Ancient civilizations used prose for practical writing — laws (the Code of Hammurabi, ~1750 BCE), history (Herodotus, ~440 BCE), philosophy (Plato's dialogues), and religious texts. But literature was predominantly verse until relatively recently.
+Ancient civilizations used prose for practical writing — laws (the Code of Hammurabi, ~1750 BCE), history (Herodotus, ~440 BCE), [philosophy](/philosophy) (Plato's dialogues), and religious texts. But literature was predominantly verse until relatively recently.
 
 The transition from verse to prose as the dominant literary form happened gradually between the 14th and 18th centuries. Boccaccio's *Decameron* (1353) and Cervantes's *Don Quixote* (1605) were early prose masterpieces. The English novel emerged in the 18th century and dominated the 19th — Austen, Dickens, Eliot, the Brontes, Dostoevsky, Tolstoy.
 
@@ -75,7 +75,7 @@ The 20th century pushed prose style in new directions. Modernists like Joyce, Wo
 
 The internet has produced more prose than all previous centuries combined. Emails, blog posts, social media updates, text messages, comments, reviews — the volume of prose generated daily is staggering.
 
-Has the quality declined? Some of it, certainly. Text messages and tweets don't reward careful sentence construction. But the best online writing — long-form journalism, personal essays, expert blogs — is as well-crafted as anything in print. And online prose reaches audiences that print never could.
+Has the quality declined? Some of it, certainly. Text messages and tweets don't reward careful sentence [construction](/construction). But the best online writing — long-form journalism, personal essays, expert blogs — is as well-crafted as anything in print. And online prose reaches audiences that print never could.
 
 The form keeps evolving. Newsletter culture (Substack and its competitors) has created a market for individual prose voices that didn't exist a decade ago. Audio prose (podcasts, audiobooks) has expanded how people consume written language. Social media has created ultra-short prose forms that have their own conventions and artistry.
 

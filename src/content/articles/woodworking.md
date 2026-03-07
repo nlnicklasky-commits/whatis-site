@@ -5,7 +5,7 @@ description: "Woodworking is the craft of building objects from wood using hand 
 category: everyday-concepts
 tags: ["woodworking", "carpentry", "joinery", "hand tools", "furniture making", "crafts"]
 heroImage: "/images/articles/woodworking.webp"
-heroAlt: "Woodworker using a hand plane on a hardwood board at a well-organized workshop bench"
+heroAlt: "Editorial photograph representing the concept of woodworking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Woodworking?
 
-Woodworking is the craft of building things from wood — furniture, cabinets, boxes, toys, structures, tools, and objects both decorative and functional. It encompasses everything from rough construction carpentry to fine furniture making, from hand-tool-only purists working in 18th-century traditions to CNC-equipped shops producing precision components with computer-controlled routers. The common thread is transforming raw lumber into something useful or beautiful (ideally both) through cutting, shaping, joining, and finishing.
+Woodworking is the craft of building things from wood — furniture, cabinets, boxes, toys, structures, tools, and objects both decorative and functional. It encompasses everything from rough [construction](/construction) [carpentry](/carpentry) to fine [furniture making](/furniture-making), from hand-tool-only purists working in 18th-century traditions to CNC-equipped shops producing precision components with computer-controlled routers. The common thread is transforming raw lumber into something useful or beautiful (ideally both) through cutting, shaping, joining, and finishing.
 
 ## Why Wood
 
 Wood is an almost ridiculously good material for making things. It's strong relative to its weight, naturally attractive, workable with simple tools, available nearly everywhere, renewable, and forgiving of minor mistakes in ways that metal and stone are not. A poorly cut metal joint is scrap. A poorly cut wood joint can often be shimmed, glued, or reworked.
 
-Wood is also alive in a way that engineered materials aren't. It moves with humidity changes — expanding across the grain when moisture increases, shrinking when it decreases. This movement is both wood's personality and its primary engineering challenge. Every piece of furniture designed to last must account for seasonal wood movement, or joints will crack and panels will split.
+Wood is also alive in a way that engineered materials aren't. It moves with humidity changes — expanding across the grain when moisture increases, shrinking when it decreases. This movement is both wood's personality and its primary [engineering](/engineering) challenge. Every piece of furniture designed to last must account for seasonal wood movement, or joints will crack and panels will split.
 
 ## The Joinery
 
@@ -91,4 +91,4 @@ Most woodworkers recommend starting with projects that develop fundamental skill
 
 The gap between watching a YouTube woodworking video and doing the work yourself is substantial. Wood doesn't behave the way it looks on screen — knots deflect saw blades, grain direction changes the tool's behavior, and measurements that look right can be off by a crucial 1/16 inch. This gap closes only through practice.
 
-Mistakes are education. Every experienced woodworker has a story about a ruined project that taught them something they never forgot. The wood is relatively cheap. The lessons are permanent. And the moment when a project comes together — when glue-up goes smoothly, joints close tightly, and the finish reveals beautiful grain — that moment is why people build workshops in their garages and spend weekends covered in sawdust.
+Mistakes are [education](/education). Every experienced woodworker has a story about a ruined project that taught them something they never forgot. The wood is relatively cheap. The lessons are permanent. And the moment when a project comes together — when glue-up goes smoothly, joints close tightly, and the finish reveals beautiful grain — that moment is why people build workshops in their garages and spend weekends covered in sawdust.

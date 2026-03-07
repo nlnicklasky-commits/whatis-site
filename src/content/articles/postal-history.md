@@ -5,7 +5,7 @@ description: "Postal history traces the development of mail systems from ancient
 category: history
 tags: ["postal history", "philately", "mail", "communication history"]
 heroImage: "/images/articles/postal-history.webp"
-heroAlt: "A collection of vintage postmarked envelopes and stamps from different eras spread on a wooden table"
+heroAlt: "Editorial photograph representing the concept of postal history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ This might sound dry. It's not. The ability to send a message to someone who isn
 
 ### Royal Couriers
 
-The earliest postal systems weren't for ordinary people. They were government infrastructure, built to keep rulers informed about what was happening in far-flung corners of their territory.
+The earliest postal systems weren't for ordinary people. They were [government](/government) infrastructure, built to keep rulers informed about what was happening in far-flung corners of their territory.
 
 The Persian Empire's *Angarium* system, established around 550 BCE under Cyrus the Great and refined by Darius I, is the best-documented ancient postal network. A series of relay stations — Herodotus counted 111 of them along the Royal Road from Susa to Sardis, a distance of roughly 2,700 kilometers — allowed mounted couriers to swap horses and keep moving. A message could travel the entire route in about nine days, a journey that took ordinary travelers three months.
 
@@ -53,7 +53,7 @@ Rome built its own courier network, the *cursus publicus*, established by August
 
 ### The Gap After Rome
 
-When the Western Roman Empire collapsed in the 5th century, its postal infrastructure collapsed with it. For roughly a thousand years in Western Europe, there was no organized public postal service. Messages traveled through ad hoc networks — monks carrying letters between monasteries, merchants passing correspondence along trade routes, university messengers linking academic centers.
+When the Western Roman Empire collapsed in the 5th century, its postal infrastructure collapsed with it. For roughly a thousand years in Western Europe, there was no organized public postal service. Messages traveled through ad hoc networks — monks carrying letters between monasteries, merchants passing correspondence along [trade](/trade) routes, university messengers linking academic centers.
 
 This wasn't true everywhere. The Islamic world maintained organized postal systems (*barid*) throughout the medieval period. The Mongol Empire's *Yam* system, established by Genghis Khan in the 13th century, connected the largest contiguous land empire in history through a network of relay stations stretching from China to Eastern Europe.
 
@@ -61,7 +61,7 @@ This wasn't true everywhere. The Islamic world maintained organized postal syste
 
 ### Europe's Early Systems
 
-Modern postal systems emerged in Europe during the 15th and 16th centuries, driven by the needs of commerce and diplomacy.
+Modern postal systems emerged in Europe during the 15th and 16th centuries, driven by the needs of commerce and [diplomacy](/diplomacy).
 
 The Thurn and Taxis family operated what became the first international postal service, starting in 1490 when they were contracted by Maximilian I of the Holy Roman Empire. Their network eventually connected most of continental Europe, with regular schedules and fixed routes. It remained family-run until 1867 — nearly four centuries of postal service under one dynasty.
 
@@ -103,15 +103,15 @@ Today, the UPU has 192 member countries. It's a specialized agency of the United
 
 ### Literacy and Communication
 
-Cheap mail didn't just serve existing demand — it created new demand. When sending a letter cost a day's wages, most people didn't bother learning to write. When it cost a penny, writing suddenly had practical value. Historians have linked postal reform to rising literacy rates across 19th-century Europe.
+Cheap mail didn't just serve existing demand — it created new demand. When sending a letter cost a day's wages, most people didn't bother learning to write. When it cost a penny, [writing](/writing) suddenly had practical value. Historians have linked postal reform to rising literacy rates across 19th-century Europe.
 
 The mail also kept families together during periods of mass migration. Between 1820 and 1920, roughly 33 million Europeans emigrated to the United States. For most of them, the postal service was the only link to relatives back home. The volume of transatlantic mail during this period was staggering — and the emotional weight of those letters is hard to overstate.
 
-### Commerce and Finance
+### Commerce and [Finance](/finance)
 
 Modern business is unthinkable without reliable mail. Bills, invoices, contracts, checks, catalogs, and advertisements all traveled through postal systems. The mail-order catalog business — Montgomery Ward (1872), Sears Roebuck (1893) — essentially invented retail-at-a-distance, bringing consumer goods to rural communities that had no access to department stores.
 
-Financial systems depended on the mail too. Checks, bank statements, insurance policies, and stock certificates all moved through postal networks. The time it took for a check to travel from one bank to another and be processed — called the "float" — was a significant factor in financial planning well into the late 20th century.
+Financial systems depended on the mail too. Checks, bank statements, [insurance](/insurance) policies, and stock certificates all moved through postal networks. The time it took for a check to travel from one bank to another and be processed — called the "float" — was a significant factor in [financial planning](/financial-planning) well into the late 20th century.
 
 ### Government and Democracy
 

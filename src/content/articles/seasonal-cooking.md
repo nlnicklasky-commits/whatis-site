@@ -5,7 +5,7 @@ description: "Seasonal cooking means preparing meals with ingredients at their p
 category: everyday-concepts
 tags: ["seasonal food", "local food", "cooking", "fresh ingredients", "sustainability", "culinary arts"]
 heroImage: "/images/articles/seasonal-cooking.webp"
-heroAlt: "A wooden table filled with fresh seasonal produce including tomatoes, squash, herbs, and root vegetables"
+heroAlt: "Editorial photograph representing the concept of seasonal cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "Generally cheaper. When a crop is at peak harvest, supply is highest and prices are lowest. Strawberries in June cost a fraction of strawberries in December. The savings can be significant — a 2019 study found that buying in-season produce saved families an average of 20-30% on their produce budget compared to buying the same items year-round."
 ---
 
-# What Is Seasonal Cooking?
+# What Is Seasonal [Cooking](/cooking)?
 
-Seasonal cooking is the practice of building your meals around ingredients that are naturally available and at peak quality during the current time of year. Instead of buying the same grocery list every week regardless of the calendar, you eat strawberries in June, tomatoes in August, squash in October, and citrus in January — each thing when it's at its best.
+Seasonal cooking is the practice of building your meals around ingredients that are naturally available and at peak quality during the current time of year. Instead of buying the same grocery list every week regardless of the calendar, you eat strawberries in June, tomatoes in August, [squash](/squash) in October, and citrus in January — each thing when it's at its best.
 
-This was, of course, how everyone cooked for all of human history until about 60 years ago. Modern refrigeration, global shipping, and industrial agriculture made it possible to eat anything anytime. You can buy asparagus in December and apples in July. But possible and desirable aren't the same thing.
+This was, of course, how everyone cooked for all of human history until about 60 years ago. Modern [refrigeration](/refrigeration), global shipping, and industrial [agriculture](/agriculture) made it possible to eat anything anytime. You can buy asparagus in December and apples in July. But possible and desirable aren't the same thing.
 
 ## The Taste Argument
 
@@ -45,9 +45,9 @@ This pattern holds across produce. In-season peaches, corn, berries, melons, and
 
 Professional chefs have understood this forever. Restaurant menus that change seasonally aren't doing it for pretension. They're doing it because a chef working with peak-season ingredients barely has to cook — the food almost takes care of itself.
 
-## The Economics
+## The [Economics](/economics)
 
-Seasonal eating is almost always cheaper, and the logic is simple: supply and demand.
+Seasonal eating is almost always cheaper, and the [logic](/logic) is simple: supply and demand.
 
 When strawberries are in peak season locally, the supply is massive and prices drop. When you buy strawberries in February, they're probably shipped from Mexico or Chile — adding transportation costs, cold storage costs, and the costs of varieties bred for travel rather than taste. You're paying more for an inferior product.
 

@@ -5,7 +5,7 @@ description: "Ice hockey is a fast team sport played on ice where skaters use st
 category: sports
 tags: ["ice hockey", "hockey", "winter sports", "team sports", "nhl", "puck"]
 heroImage: "/images/articles/ice-hockey.webp"
-heroAlt: "Ice hockey face-off with two players and a referee at center ice"
+heroAlt: "Editorial photograph representing the concept of ice hockey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Fighting is not technically allowed — it results in a five-minute major penalty. But the NHL has historically tolerated it as a form of self-policing, where players enforce unwritten rules about dirty play. Fighting has declined significantly since the 2000s as the league prioritizes speed and skill. Most international hockey leagues ban fighting with game ejections."
 ---
 
-# What Is Ice Hockey?
+# What Is Ice [Hockey](/hockey)?
 
 Ice hockey is a team sport played on an enclosed ice rink where two teams of six skaters each use sticks to shoot a vulcanized rubber puck into the opposing team's net. It is the fastest major team sport in the world — players skate at 20 to 30 mph, pucks travel over 100 mph, and the combination of speed, physicality, and skill creates a game that is chaotic, violent, and addictive to watch.
 
@@ -79,7 +79,7 @@ While the NHL dominates in North America, ice hockey is huge internationally. Th
 
 ## Why People Love It
 
-Hockey inspires fanatical devotion, particularly in northern cities and countries where the sport is woven into cultural identity. Canadians treat hockey the way Brazilians treat soccer — it is not just a sport but a shared language.
+Hockey inspires fanatical devotion, particularly in northern cities and countries where the sport is woven into cultural identity. Canadians treat hockey the way Brazilians treat [soccer](/soccer) — it is not just a sport but a shared language.
 
 The game rewards the eye once you learn to follow it. Casual viewers see chaos. Experienced fans see positioning, passing lanes, defensive assignments, and tactical decisions made at 25 mph. The combination of speed, skill, strategy, and controlled violence is unique among major sports.
 

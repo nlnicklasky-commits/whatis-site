@@ -5,7 +5,7 @@ description: "Barbecuing is the slow cooking of meat over low, indirect heat wit
 category: everyday-concepts
 tags: ["barbecuing", "bbq", "smoking food", "outdoor cooking", "low and slow", "brisket"]
 heroImage: "/images/articles/barbecuing.webp"
-heroAlt: "Smoked brisket sliced on a cutting board with a smoker releasing wisps of smoke in the background"
+heroAlt: "Editorial photograph representing the concept of barbecuing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Barbecuing?
 
-Barbecuing is the method of cooking meat slowly — typically for hours — over low, indirect heat with smoke from burning wood. It transforms tough, inexpensive cuts of meat into tender, deeply flavored food through a patient process that is part cooking, part chemistry, and part regional obsession.
+Barbecuing is the method of [cooking](/cooking) meat slowly — typically for hours — over low, indirect heat with smoke from burning wood. It transforms tough, inexpensive cuts of meat into tender, deeply flavored food through a patient process that is part cooking, part [chemistry](/chemistry), and part regional obsession.
 
-## Barbecue vs. Grilling (This Matters)
+## Barbecue vs. [Grilling](/grilling) (This Matters)
 
 Let's settle this immediately. Barbecuing and grilling are not the same thing. This is a hill that BBQ people will die on.
 
@@ -51,7 +51,7 @@ At temperatures above about 160°F (71°C), collagen begins breaking down into g
 
 This is why you can't rush barbecue by turning up the heat. Higher temperatures cook the meat faster, sure, but the exterior dries out and toughens before the interior's collagen has time to convert. The "low and slow" mantra isn't folk wisdom — it's applied [chemistry](/food-chemistry).
 
-**The stall** is a phenomenon that confuses beginners. Several hours into cooking, the meat's internal temperature plateaus around 150-170°F and seems to stop rising, sometimes for 4-6 hours. What's happening? Evaporative cooling. Moisture on the meat's surface evaporates, absorbing heat the same way sweating cools your body. The temperature won't resume climbing until the surface dries out enough to stop evaporating. Wrapping the meat in foil or butcher paper ("the Texas crutch") pushes through the stall faster by trapping moisture and preventing evaporation.
+**The stall** is a phenomenon that confuses beginners. Several hours into cooking, the meat's internal temperature plateaus around 150-170°F and seems to stop rising, sometimes for 4-6 hours. What's happening? Evaporative cooling. Moisture on the meat's surface evaporates, absorbing heat the same way sweating cools your body. The temperature won't resume climbing until the surface dries out enough to stop evaporating. Wrapping the meat in foil or butcher paper ("the Texas crutch") pushes through the stall faster by [trapping](/trapping) moisture and preventing evaporation.
 
 **Smoke ring** — that pink band just below the surface of barbecued meat — isn't raw meat. It forms when nitrogen dioxide from wood combustion reacts with myoglobin in the meat, fixing the pink color so it doesn't turn gray during cooking. It's purely cosmetic — it doesn't affect flavor — but a good smoke ring is a point of pride.
 
@@ -73,13 +73,13 @@ The Carolinas split into sub-styles. Eastern North Carolina uses whole hog, cook
 
 ### Memphis
 
-Memphis is pork country. Dry-rubbed ribs — coated in a spice mixture and smoked without sauce — are the signature dish. Pulled pork sandwiches topped with coleslaw run a close second. Memphis hosts the World Championship Barbecue Cooking Contest annually, drawing over 200 teams.
+Memphis is pork country. Dry-rubbed ribs — coated in a spice mixture and smoked without sauce — are the signature dish. Pulled pork sandwiches topped with coleslaw run a close second. Memphis hosts the World Championship Barbecue Cooking Contest annually, [drawing](/drawing) over 200 teams.
 
 ## Equipment
 
 **Offset smokers** are the traditional choice — a firebox attached to a separate cooking chamber. Heat and smoke flow from the firebox through the cooking chamber and out a chimney. Managing temperature requires attention and experience, since you're feeding a live fire.
 
-**Kamado grills** (like the Big Green Egg) use ceramic construction for excellent heat retention and versatility. They can smoke, grill, and even bake.
+**Kamado grills** (like the Big Green Egg) use ceramic [construction](/construction) for excellent heat retention and versatility. They can smoke, grill, and even bake.
 
 **Pellet smokers** automate temperature control by feeding compressed wood pellets from a hopper into a firepot via an electric auger. They're the easiest way to maintain consistent low temperatures, though traditionalists argue that they sacrifice authenticity.
 

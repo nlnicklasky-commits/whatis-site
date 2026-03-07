@@ -5,7 +5,7 @@ description: "Art history is the academic study of visual arts across time and c
 category: arts-amp-culture
 tags: ["art history", "history", "art", "visual arts", "painting", "sculpture"]
 heroImage: "/images/articles/art-history.webp"
-heroAlt: "Gallery wall displaying paintings from different eras spanning Renaissance to modern abstract art"
+heroAlt: "Editorial photograph representing the concept of art history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,7 +47,7 @@ Cave paintings at Lascaux (roughly 17,000 years ago) and Altamira demonstrate th
 
 ### Medieval
 
-After Rome fell, European art turned primarily to religious subjects. Byzantine art (Eastern Roman Empire) developed iconic gold-ground panel paintings. Romanesque and Gothic periods produced illuminated manuscripts, monumental church sculpture, and — in Gothic cathedrals — stained glass programs that functioned as visual theology for largely illiterate congregations.
+After Rome fell, European art turned primarily to religious subjects. Byzantine art (Eastern Roman Empire) developed iconic gold-ground panel paintings. Romanesque and Gothic periods produced illuminated manuscripts, monumental church sculpture, and — in Gothic cathedrals — [stained glass](/stained-glass) programs that functioned as visual theology for largely illiterate congregations.
 
 ### Renaissance
 
@@ -55,23 +55,23 @@ The Italian Renaissance (roughly 1400-1600) is art history's most celebrated cha
 
 ### Baroque to Neoclassical
 
-Baroque art (1600s) embraced drama, movement, and intense emotion — Caravaggio's stark lighting, Bernini's theatrical sculptures. The Rococo (early 1700s) turned lighter and more decorative. Neoclassicism (late 1700s) swung back to Greek and Roman severity, reflecting Enlightenment ideals of reason and civic virtue.
+Baroque art (1600s) embraced drama, movement, and intense emotion — Caravaggio's stark lighting, Bernini's theatrical sculptures. The Rococo (early 1700s) turned lighter and more decorative. [Neoclassicism](/neoclassicism) (late 1700s) swung back to Greek and Roman severity, reflecting Enlightenment ideals of reason and civic virtue.
 
 ### Modern Art
 
-The 19th and 20th centuries produced an astonishing cascade of movements: Impressionism, Post-Impressionism, Cubism, Expressionism, Surrealism, Abstract Expressionism, Pop Art, Minimalism, Conceptual Art. Each challenged previous assumptions about what art should look like, what it should do, and who gets to define it.
+The 19th and 20th centuries produced an astonishing cascade of movements: [Impressionism](/impressionism), [Post-Impressionism](/post-impressionism), Cubism, Expressionism, Surrealism, Abstract Expressionism, Pop Art, Minimalism, Conceptual Art. Each challenged previous assumptions about what art should look like, what it should do, and who gets to define it.
 
 Impressionism alone — Monet, Renoir, Degas — was revolutionary because it prioritized visible brushwork and fleeting light effects over the polished finish that academic painting demanded. The Salon establishment hated it. Audiences eventually loved it. This pattern — rejection, then acceptance — repeats throughout modern art history.
 
 ### Contemporary
 
-Art since the 1970s defies easy categorization. Installation art, performance, video, digital art, street art, and works that blur boundaries between art and [everyday life](/anthropology) all coexist. The art market has become a global industry, with auction prices for individual works reaching hundreds of millions of dollars. Whether this reflects genuine cultural value or speculative investment depends on who you ask.
+Art since the 1970s defies easy categorization. Installation art, performance, video, [digital art](/digital-art), street art, and works that blur boundaries between art and [everyday life](/anthropology) all coexist. The art market has become a global industry, with auction prices for individual works reaching hundreds of millions of dollars. Whether this reflects genuine cultural value or speculative investment depends on who you ask.
 
 ## How Art Historians Think
 
 ### Formal Analysis
 
-Looking closely at the object itself: composition, color, line, texture, scale, material. How is it made? How does it guide your eye? What visual effects does it create? This is where art history starts — with careful, sustained looking.
+Looking closely at the object itself: composition, color, line, texture, scale, material. How is it made? How does it guide your eye? What [visual effects](/visual-effects) does it create? This is where art history starts — with careful, sustained looking.
 
 ### Iconography
 
@@ -83,7 +83,7 @@ Who commissioned this work? For what purpose? Where was it displayed? What polit
 
 ### Theory
 
-Since the mid-20th century, art history has incorporated frameworks from other disciplines: Marxist analysis (art and class), feminism (the representation and exclusion of women), postcolonialism (whose art gets studied and whose gets ignored), and psychoanalysis (the unconscious dimensions of creativity). These theoretical approaches have expanded what counts as art history and whose [perspectives](/aesthetics) get included.
+Since the mid-20th century, art history has incorporated frameworks from other disciplines: Marxist analysis (art and class), feminism (the representation and exclusion of women), postcolonialism (whose art gets studied and whose gets ignored), and [psychoanalysis](/psychoanalysis) (the unconscious dimensions of creativity). These theoretical approaches have expanded what counts as art history and whose [perspectives](/aesthetics) get included.
 
 ## The Canon Problem
 

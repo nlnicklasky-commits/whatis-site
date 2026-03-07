@@ -5,7 +5,7 @@ description: "Masonry is the building craft using stone, brick, or concrete bloc
 category: everyday-concepts
 tags: ["masonry", "construction", "brickwork", "stonework", "building trades", "architecture"]
 heroImage: "/images/articles/masonry.webp"
-heroAlt: "Mason laying bricks on a wall with mortar and a trowel in hand"
+heroAlt: "Editorial photograph representing the concept of masonry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Masonry?
 
-Masonry is the construction craft of building structures from individual units — stone, brick, concrete block, or similar materials — joined together with mortar. It's one of the oldest building techniques humans have used, and despite steel, glass, and concrete dominating modern construction, masonry remains essential. Every brick building, stone wall, fireplace, chimney, and block foundation you've ever seen was built by a mason.
+Masonry is the [construction](/construction) craft of building structures from individual units — stone, brick, concrete block, or similar materials — joined together with mortar. It's one of the oldest building techniques humans have used, and despite steel, glass, and concrete dominating modern construction, masonry remains essential. Every brick building, stone wall, fireplace, chimney, and block foundation you've ever seen was built by a mason.
 
 The appeal is straightforward: masonry structures are strong, durable, fire-resistant, and — when done well — beautiful. Some of the oldest surviving buildings on Earth are masonry. The Pantheon in Rome is nearly 2,000 years old. The Great Wall of China has lasted centuries. Your neighborhood's brick houses will likely outlast their owners' grandchildren.
 
@@ -75,11 +75,11 @@ The process looks simple. It's not. Maintaining consistent joint width, keeping 
 
 The arrangement of bricks in a wall is called a "bond pattern." Different patterns offer different structural and aesthetic properties:
 
-**Running bond** — the most common pattern, with each course offset by half a brick. Simple, strong, and efficient.
+**[Running](/running) bond** — the most common pattern, with each course offset by half a brick. Simple, strong, and efficient.
 
 **Stack bond** — bricks aligned vertically with no offset. Visually modern but structurally weaker. Often used as veneer over a structural backup wall.
 
-**Flemish bond** — alternating headers (short face) and stretchers (long face) in each course. Beautiful and historically common in Georgian and Colonial architecture.
+**Flemish bond** — alternating headers (short face) and stretchers (long face) in each course. Beautiful and historically common in Georgian and Colonial [architecture](/architecture).
 
 **English bond** — alternating courses of all headers and all stretchers. Very strong, historically used for thick structural walls.
 
@@ -89,13 +89,13 @@ An important distinction in modern construction:
 
 **Structural masonry** — the masonry itself carries the building's loads. This was the only option before steel and concrete frames. Thick walls (often 12-24 inches) support floors and roofs directly. Many older buildings, churches, and institutional structures are structural masonry.
 
-**Veneer masonry** — a thin layer (one brick thick) attached to a structural frame of wood, steel, or concrete. The masonry provides weather protection and aesthetics; the frame carries the loads. This is how most modern brick buildings work — the brick is essentially a skin, not a structure.
+**Veneer masonry** — a thin layer (one brick thick) attached to a structural frame of wood, steel, or concrete. The masonry provides weather protection and [aesthetics](/aesthetics); the frame carries the loads. This is how most modern brick buildings work — the brick is essentially a skin, not a structure.
 
 The distinction matters because it affects how walls handle moisture, thermal performance, and structural loads. Modern masonry veneer systems include air spaces, drainage planes, and flashing to manage water infiltration.
 
 ## Masonry Today
 
-The masonry trade faces familiar challenges: an aging workforce, difficulty attracting young workers, and competition from other cladding systems (metal panels, composite materials, stucco). But masonry's advantages — fire resistance, thermal mass, durability, acoustic performance, and aesthetic appeal — keep it in demand.
+The masonry [trade](/trade) faces familiar challenges: an aging workforce, difficulty attracting young workers, and competition from other cladding systems (metal panels, composite materials, [stucco](/stucco)). But masonry's advantages — fire resistance, thermal mass, durability, acoustic performance, and aesthetic appeal — keep it in demand.
 
 The trade is also adapting. Thin brick and stone veneers reduce material costs. Autoclaved aerated concrete (AAC) blocks offer improved insulation. Masonry heaters and bake ovens are growing in the residential market. And the restoration of historic masonry buildings is a substantial and growing niche — there are a lot of old brick buildings that need expert care.
 

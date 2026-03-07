@@ -5,7 +5,7 @@ description: "Mathematical physics develops and applies rigorous mathematics to 
 category: science
 tags: ["mathematical physics", "physics", "mathematics", "quantum mechanics", "relativity", "symmetry", "theoretical physics"]
 heroImage: "/images/articles/mathematical-physics-hero.webp"
-heroAlt: "Complex mathematical equations and geometric shapes representing the intersection of physics and mathematics"
+heroAlt: "Editorial photograph representing the concept of mathematical physics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 Mathematical physics is the discipline that develops, applies, and rigorously justifies the mathematical foundations of physical theories. It sits at the boundary between mathematics and [physics](/physics) — using the tools of pure mathematics to establish what physical theories actually say, what they predict, and whether they're internally consistent.
 
-Here's the distinction that matters: a theoretical physicist might write down the equations for a quantum field theory, check that they produce predictions matching experiments, and move on. A mathematical physicist asks harder questions. Do those equations actually have solutions? Are the predictions mathematically well-defined? Can you prove the properties the physicist assumes? These questions sound pedantic until you realize that getting them wrong can mean the entire theoretical structure rests on sand.
+Here's the distinction that matters: a theoretical physicist might write down the equations for a [quantum field theory](/quantum-field-theory), check that they produce predictions matching experiments, and move on. A mathematical physicist asks harder questions. Do those equations actually have solutions? Are the predictions mathematically well-defined? Can you prove the properties the physicist assumes? These questions sound pedantic until you realize that getting them wrong can mean the entire theoretical structure rests on sand.
 
 The relationship between math and physics runs deeper than tools and applications, though. For centuries, physics has inspired new mathematics, and mathematics has revealed new physics. [Calculus](/calculus) was invented to solve mechanics problems. Riemannian geometry sat unused for decades until Einstein needed it for [general relativity](/general-relativity). Fiber bundles, developed by pure mathematicians, turned out to describe the structure of fundamental forces perfectly. The conversation between the two fields is one of the most productive intellectual partnerships in history.
 
@@ -57,7 +57,7 @@ But here's the catch: nobody has proved that the path integral is mathematically
 
 Does this matter? In one sense, no — the predictions work brilliantly. In another sense, yes — without rigorous foundations, you can't be sure when the methods will break down, and you might miss important physics hidden in the mathematical fine print.
 
-## Classical Mechanics: Where It All Began
+## [Classical Mechanics](/classical-mechanics): Where It All Began
 
 The mathematical formulation of classical mechanics — Newton's laws reformulated by Lagrange, Hamilton, and others — was the original mathematical physics.
 
@@ -69,7 +69,7 @@ This reformulation looks like mathematical window dressing, but it's far more th
 
 ### Hamiltonian Mechanics
 
-William Rowan Hamilton reformulated mechanics again, this time as a system of first-order differential equations on "phase space" — a space whose coordinates are positions and momenta. Hamiltonian mechanics reveals the geometric structure underlying classical physics.
+William Rowan Hamilton reformulated mechanics again, this time as a system of first-order [differential equations](/differential-equations) on "phase space" — a space whose coordinates are positions and momenta. Hamiltonian mechanics reveals the geometric structure underlying classical physics.
 
 The key insight: the flow of a Hamiltonian system preserves the symplectic structure of phase space. This is Liouville's theorem — volumes in phase space are conserved. It connects classical mechanics to symplectic geometry, a branch of pure mathematics that has grown enormously partly because of this physics connection.
 
@@ -156,7 +156,7 @@ Particles in quantum mechanics transform under symmetry groups, and the possible
 
 This classification is extraordinarily successful. Before particles were discovered experimentally, their properties could be predicted from representation theory. The omega-minus particle, for instance, was predicted by Murray Gell-Mann's quark model (based on SU(3) representation theory) before it was observed.
 
-## Statistical Mechanics: Bridging Scales
+## [Statistical Mechanics](/statistical-mechanics): Bridging Scales
 
 Statistical mechanics connects the microscopic world of atoms to the macroscopic world of thermodynamics. It explains how the behaviors of trillions of individual particles give rise to temperature, pressure, entropy, and phase transitions.
 

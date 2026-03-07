@@ -5,7 +5,7 @@ description: "Ceramics is the art and science of making objects from clay and ot
 category: arts-amp-culture
 tags: ["ceramics", "pottery", "clay", "art", "crafts", "sculpture"]
 heroImage: "/images/articles/ceramics.webp"
-heroAlt: "Potter shaping a clay vessel on a spinning pottery wheel with wet hands"
+heroAlt: "Editorial photograph representing the concept of ceramics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Ceramics?
 
-Ceramics is the art and science of creating objects by shaping clay (or other earthy materials) and hardening them permanently through high-temperature firing. It's one of humanity's oldest technologies — we were making fired clay objects at least 29,000 years ago, well before agriculture, metalwork, or writing. You could argue that ceramics was the first material science.
+Ceramics is the art and science of creating objects by shaping clay (or other earthy materials) and hardening them permanently through high-temperature firing. It's one of humanity's oldest technologies — we were making fired clay objects at least 29,000 years ago, well before [agriculture](/agriculture), metalwork, or [writing](/writing). You could argue that ceramics was the first material science.
 
 ## The Oldest Technology You Use Every Day
 
 You probably used a ceramic object today without thinking about it. The mug you drank coffee from. The plate you ate breakfast on. The toilet. The tiles on your bathroom floor. The spark plugs in your car. Ceramics are so completely integrated into daily life that they're invisible.
 
-The reason is durability. A well-made ceramic piece can last thousands of years. We know about ancient civilizations primarily through their ceramics — pottery fragments are the single most common archaeological find worldwide. The 29,000-year-old Venus of Dolní Věstonice, a small figurine from the Czech Republic, is the oldest known fired ceramic object. It survived because ceramics, once fired, are nearly indestructible.
+The reason is durability. A well-made ceramic piece can last thousands of years. We know about ancient civilizations primarily through their ceramics — [pottery](/pottery) fragments are the single most common archaeological find worldwide. The 29,000-year-old Venus of Dolní Věstonice, a small figurine from the Czech Republic, is the oldest known fired ceramic object. It survived because ceramics, once fired, are nearly indestructible.
 
 ## How Ceramics Work
 
@@ -58,7 +58,7 @@ Clay is decomposed rock — primarily feldspar — ground into particles fine en
 **Hand building** — Forming clay without a wheel using three basic techniques:
 - *Pinch pots*: Starting from a ball of clay and pinching it into shape. The simplest technique and a genuine art form in its own right.
 - *Coil building*: Rolling clay into ropes and stacking them to build walls. Large vessels and sculptures are often coil-built.
-- *Slab construction*: Rolling clay into flat sheets and assembling them into forms. Geometric shapes, boxes, and architectural elements.
+- *Slab [construction](/construction)*: Rolling clay into flat sheets and assembling them into forms. Geometric shapes, boxes, and architectural elements.
 
 **Slip casting** — Pouring liquid clay (slip) into plaster molds. The mold absorbs water, leaving a clay shell. Used for producing identical pieces in quantity — most commercial ceramic production uses slip casting.
 
@@ -74,15 +74,15 @@ Firing transforms clay from a moldable material into permanent ceramic through s
 
 Glazes are where ceramics become genuinely unpredictable and exciting. Chemical composition, application thickness, firing temperature, kiln atmosphere, and cooling rate all affect the final appearance. The same glaze recipe can produce dramatically different results depending on firing conditions.
 
-Some potters spend years developing signature glazes. The chemistry involved is real — understanding how metal oxides (iron, copper, cobalt, manganese) produce colors, how silica-to-alumina ratios affect surface texture, and how atmospheric conditions (oxidation vs. reduction) alter results is essentially applied [chemistry](/food-chemistry).
+Some potters spend years developing signature glazes. The [chemistry](/chemistry) involved is real — understanding how metal oxides (iron, copper, cobalt, manganese) produce colors, how silica-to-alumina ratios affect surface texture, and how atmospheric conditions (oxidation vs. reduction) alter results is essentially applied [chemistry](/food-chemistry).
 
 ## Ceramics as Art
 
-Ceramics occupies an interesting position between craft and fine art. For most of history, pottery was purely functional — vessels for cooking, storage, and eating. But the line between functional object and art object has always been blurry. Song Dynasty Chinese ceramics (960-1279 CE), Japanese tea bowls, and Greek painted vases are displayed in art museums worldwide.
+Ceramics occupies an interesting position between craft and [fine art](/fine-art). For most of history, pottery was purely functional — vessels for [cooking](/cooking), storage, and eating. But the line between functional object and art object has always been blurry. Song Dynasty Chinese ceramics (960-1279 CE), Japanese tea bowls, and Greek painted vases are displayed in art museums worldwide.
 
 The studio pottery movement, starting in the early 20th century, explicitly positioned handmade ceramics as art. Bernard Leach in England and Shoji Hamada in Japan bridged Eastern and Western ceramic traditions. Peter Voulkos shattered functional pottery conventions in the 1950s, creating massive, aggressive, abstract clay sculptures that challenged every assumption about what ceramics could be.
 
-Contemporary ceramic art ranges from meticulously crafted functional ware to installation-scale sculpture to conceptual work that uses clay as an artistic medium on par with paint or bronze.
+Contemporary ceramic art ranges from meticulously crafted functional ware to installation-scale [sculpture](/sculpture) to conceptual work that uses clay as an artistic medium on par with paint or bronze.
 
 ## The Hands-On Revival
 
@@ -90,4 +90,4 @@ Ceramics classes have experienced a surge in popularity since the mid-2010s. Stu
 
 There's genuine therapeutic value too. Occupational therapists use ceramics for fine motor skill development. The concentration required for wheel throwing produces a meditative state that screens cannot provide. And the satisfaction of eating dinner from a bowl you made yourself is disproportionate to the bowl's objective quality.
 
-Getting started requires a class (wheel throwing needs instruction — self-teaching from videos is frustrating), access to a kiln, and tolerance for early failures. Your first pots will be lumpy. Your second batch will be better. By your twentieth session, you'll understand why people have been doing this for 29,000 years.
+Getting started requires a class (wheel throwing needs instruction — self-[teaching](/teaching) from videos is frustrating), access to a kiln, and tolerance for early failures. Your first pots will be lumpy. Your second batch will be better. By your twentieth session, you'll understand why people have been doing this for 29,000 years.

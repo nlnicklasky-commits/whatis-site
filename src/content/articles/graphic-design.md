@@ -5,7 +5,7 @@ description: "Graphic design uses typography, imagery, and layout to communicate
 category: arts-amp-culture
 tags: ["graphic design", "design", "visual communication", "branding", "typography", "logo design"]
 heroImage: "/images/articles/graphic-design.webp"
-heroAlt: "Designer workspace with color swatches, typography samples, and a monitor showing layout software"
+heroAlt: "Editorial photograph representing the concept of graphic design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Graphic design is the practice of planning and creating visual content to commun
 
 The core of graphic design is problem-solving through visual means. A client needs a logo, a website layout, a book cover, a packaging design, a social media campaign, or a wayfinding system. The designer's job is to create something that communicates effectively, looks appropriate for the audience, and works within practical constraints (budget, printing limitations, screen sizes, brand guidelines).
 
-That sounds straightforward. It isn't. A logo needs to work at billboard scale and favicon size. A package design needs to stand out on a shelf of 50 competitors while conveying specific information. A website needs to guide users through content without making them think too hard about navigation. Every design decision involves trade-offs, and the best designers make those trade-offs invisible — the result looks obvious and inevitable, which is how you know someone thought very hard about it.
+That sounds straightforward. It isn't. A logo needs to work at billboard scale and favicon size. A package design needs to stand out on a shelf of 50 competitors while conveying specific information. A website needs to guide users through content without making them think too hard about [navigation](/navigation). Every design decision involves [trade](/trade)-offs, and the best designers make those trade-offs invisible — the result looks obvious and inevitable, which is how you know someone thought very hard about it.
 
 ## Core Principles
 
-Design education hammers certain principles that apply across every project.
+Design [education](/education) hammers certain principles that apply across every project.
 
 **Hierarchy** — controlling what the viewer sees first, second, and third. Size, color, contrast, and position all create hierarchy. A newspaper front page is a hierarchy exercise: the main headline is largest, sub-headlines smaller, body text smallest. Your eye follows the path the designer intended.
 
@@ -53,7 +53,7 @@ Design education hammers certain principles that apply across every project.
 
 **White space** (negative space) — the empty areas in a design. Beginners fill every inch; experienced designers use white space to give elements room to breathe. Apple's advertising is a masterclass in white space — minimal elements on vast empty backgrounds.
 
-## Typography
+## [Typography](/typography)
 
 If graphic design has a single most important element, it's typography — the selection and arrangement of typefaces.
 
@@ -69,13 +69,13 @@ Professional designers typically use 2-3 fonts per project. One for headings, on
 
 ## The Tools
 
-Graphic design has been digital since the mid-1980s, when the Macintosh computer and software like PageMaker and Illustrator replaced manual paste-up and typesetting.
+Graphic design has been digital since the mid-1980s, when the Macintosh computer and software like PageMaker and Illustrator replaced manual paste-up and [typesetting](/typesetting).
 
 **Adobe Creative Suite** has dominated professional design for decades. Photoshop (1990) handles photographs and raster images. Illustrator (1987) creates vector graphics — scalable artwork like logos and icons. InDesign handles multi-page layouts for print.
 
 **Figma** (launched 2016, acquired by Adobe in a deal later blocked by regulators and ultimately abandoned) has become the standard for digital and UI design, largely because it's browser-based and collaborative — multiple designers can work on the same file simultaneously.
 
-**Canva** democratized basic design for non-designers. Templates, drag-and-drop interfaces, and stock photo libraries let anyone create social media posts, presentations, and simple marketing materials. Professional designers have mixed feelings about Canva — it lowers the barrier to passable design but also devalues the profession in some clients' eyes.
+**Canva** democratized basic design for non-designers. Templates, drag-and-drop interfaces, and stock photo libraries let anyone create social media posts, presentations, and simple [marketing](/marketing) materials. Professional designers have mixed feelings about Canva — it lowers the barrier to passable design but also devalues the profession in some clients' eyes.
 
 ## Specializations
 
@@ -83,7 +83,7 @@ Modern graphic design has fractured into distinct specializations.
 
 **Brand identity** — creating logos, color palettes, typography systems, and visual guidelines that define how a company presents itself. A strong brand identity (Nike's swoosh, Coca-Cola's script, Apple's bitten apple) becomes recognizable worldwide.
 
-**UI/UX design** — designing digital interfaces (websites, apps, software). UI (user interface) focuses on visual elements — buttons, menus, icons, layouts. UX (user experience) focuses on how users interact with the interface — navigation flows, information architecture, usability testing. The two overlap heavily.
+**UI/UX design** — designing digital interfaces (websites, apps, software). UI (user interface) focuses on visual elements — buttons, menus, icons, layouts. UX (user experience) focuses on how users interact with the interface — navigation flows, [information architecture](/information-architecture), usability testing. The two overlap heavily.
 
 **Motion design** — animated graphics for video, social media, presentations, and apps. Title sequences, explainer videos, loading animations, and social media content all fall here. After Effects and Cinema 4D are the primary tools.
 
@@ -93,6 +93,6 @@ Modern graphic design has fractured into distinct specializations.
 
 ## The State of the Field
 
-The U.S. Bureau of Labor Statistics counts approximately 266,000 graphic design jobs in the United States. Median pay is about $57,000 per year, though senior designers, art directors, and specialists in high-demand areas earn considerably more.
+The U.S. Bureau of Labor [Statistics](/statistics) counts approximately 266,000 graphic design jobs in the United States. Median pay is about $57,000 per year, though senior designers, art directors, and specialists in high-demand areas earn considerably more.
 
 The field is changing fast. AI image generation tools can produce visual content that would have taken hours to create manually. Template-based platforms let non-designers produce adequate work. The demand isn't disappearing — but the nature of the work is shifting toward strategic thinking, brand development, and complex problem-solving that templates and AI can't fully handle. The designers who thrive are the ones who think, not just the ones who execute.

@@ -5,7 +5,7 @@ description: "Mahjong is a tile-based strategy game for four players that origin
 category: everyday-concepts
 tags: ["mahjong", "tile games", "Chinese games", "strategy games", "board games", "traditional games"]
 heroImage: "/images/articles/mahjong.webp"
-heroAlt: "Mahjong tiles arranged on a green felt table showing various suits and honor tiles"
+heroAlt: "Editorial photograph representing the concept of mahjong"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Mahjong?
 
-Mahjong is a tile-based game for four players that originated in China, probably in the mid-to-late 19th century. Players draw and discard tiles — small rectangular blocks bearing various symbols — trying to assemble specific combinations (called "melds") into a winning hand. It combines elements of strategy, pattern recognition, probability assessment, and a healthy dose of calculated risk.
+Mahjong is a tile-based game for four players that originated in China, probably in the mid-to-late 19th century. Players draw and discard tiles — small rectangular blocks bearing various symbols — trying to assemble specific combinations (called "melds") into a winning hand. It combines elements of strategy, [pattern recognition](/pattern-recognition), probability assessment, and a healthy dose of calculated risk.
 
-If you've only encountered "mahjong" as the tile-matching solitaire game on your computer, that's something entirely different. Real mahjong is a four-player competitive game with a depth comparable to poker — easy to learn at a basic level, endlessly complex at the top.
+If you've only encountered "mahjong" as the tile-matching solitaire game on your computer, that's something entirely different. Real mahjong is a four-player competitive game with a depth comparable to [poker](/poker) — easy to learn at a basic level, endlessly complex at the top.
 
 ## The Tiles
 
@@ -68,7 +68,7 @@ Here's where it gets strategic: when another player discards a tile you need, yo
 
 ## A Short History
 
-Mahjong's exact origins are debated, but most historians place its creation in the Yangtze River delta area during the 1860s-1870s, evolving from earlier Chinese card games. By the early 1900s, it was wildly popular throughout China.
+Mahjong's exact origins are debated, but most historians place its creation in the Yangtze River delta area during the 1860s-1870s, evolving from earlier Chinese [card games](/card-games). By the early 1900s, it was wildly popular throughout China.
 
 The game reached the West in the 1920s and became a massive fad — especially in the United States. Joseph Park Babcock published "Rules of Mah-Jongg" in 1920, and the game exploded. Mahjong sets sold out across America. Importers couldn't keep up with demand. The craze peaked around 1923-1924 before the public moved on to the next thing.
 

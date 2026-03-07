@@ -5,7 +5,7 @@ description: "Raku pottery is a ceramic firing technique producing unpredictable
 category: arts-amp-culture
 tags: ["raku pottery", "ceramics", "pottery", "firing techniques", "art", "Japanese craft"]
 heroImage: "/images/articles/raku-pottery.webp"
-heroAlt: "Raku pottery piece with metallic luster and crackled glaze"
+heroAlt: "Editorial photograph representing the concept of raku pottery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Raku firing involves real hazards: reaching into a 1,800°F kiln with tongs, handling red-hot pottery, working with open flames, and producing significant smoke during the reduction phase. Proper safety equipment is essential — heat-resistant gloves, face shield, leather apron, and good ventilation or outdoor workspace. Raku should never be done indoors, near flammable materials, or without proper training and supervision."
 ---
 
-# What Is Raku Pottery?
+# What Is Raku [Pottery](/pottery)?
 
 Raku is a ceramic firing technique known for producing dramatic, unpredictable results — metallic lusters, crackled surfaces, smoky blacks, and iridescent colors that can't be achieved through conventional kiln firing. The process involves removing pottery from the kiln while it's still glowing red-hot and placing it in combustible materials (sawdust, newspaper, leaves) that catch fire and create chemical reactions on the surface. No two raku pieces look the same. That's the whole point.
 
 ## The Japanese Original
 
-Raku originated in 16th-century Kyoto, Japan, closely tied to the tea ceremony (*chanoyu*). The first raku tea bowls were made by a tile-maker named Chojiro around 1580, under the guidance of tea master Sen no Rikyu. Rikyu's aesthetic philosophy — *wabi-sabi*, the beauty of imperfection, simplicity, and transience — demanded tea bowls that were hand-shaped rather than wheel-thrown, asymmetrical rather than perfect, and quiet rather than showy.
+Raku originated in 16th-century Kyoto, Japan, closely tied to the [tea ceremony](/tea-ceremony) (*chanoyu*). The first raku tea bowls were made by a tile-maker named Chojiro around 1580, under the guidance of tea master Sen no Rikyu. Rikyu's aesthetic [philosophy](/philosophy) — *wabi-sabi*, the beauty of imperfection, simplicity, and transience — demanded tea bowls that were hand-shaped rather than wheel-thrown, asymmetrical rather than perfect, and quiet rather than showy.
 
 The Raku family (the name was given by the shogun Toyotomi Hideyoshi) has made raku tea bowls for over 15 generations. Japanese raku is traditionally hand-built (not wheel-thrown), fired at relatively low temperatures, and removed from the kiln and allowed to cool in the open air. The bowls are modest, contemplative objects — designed to be held in both hands during the tea ceremony, their surfaces irregular and tactile.
 
@@ -55,13 +55,13 @@ The Western raku process:
 6. **Cover the container** to trap the smoke. The oxygen-starved environment causes chemical reactions with metallic oxides in the glaze, producing lusters, colors, and effects impossible in a normal kiln
 7. **Quench in water** after a few minutes of reduction. The thermal shock (from 1,000°F to room temperature in seconds) creates the characteristic crackle pattern in glazes
 
-## The Chemistry
+## The [Chemistry](/chemistry)
 
 The magic of raku glazes comes from metallic oxides and what happens to them in the reduction chamber.
 
 **Copper** is the star of raku chemistry. In a normal (oxidation) kiln, copper oxide produces green glazes. In raku reduction, copper can produce flashing reds, metallic coppers, and iridescent lusters that shift color depending on viewing angle. The results are unpredictable — the same glaze on the same piece can produce different effects on different firings.
 
-**Carbon trapping** occurs when smoke penetrates the glaze's crackle lines and bare (unglazed) clay surfaces. Carbon from the burning combustible material gets permanently trapped in the clay body, turning unglazed areas jet black. The contrast between glossy, colorful glaze and matte black bare clay is distinctive to raku.
+**Carbon [trapping](/trapping)** occurs when smoke penetrates the glaze's crackle lines and bare (unglazed) clay surfaces. Carbon from the burning combustible material gets permanently trapped in the clay body, turning unglazed areas jet black. The contrast between glossy, colorful glaze and matte black bare clay is distinctive to raku.
 
 **Crazing** — the network of fine cracks in the glaze — happens because the rapid cooling causes the glaze and clay body to contract at different rates. In conventional pottery, crazing is a defect. In raku, it's the desired effect, creating patterns that look like frozen lightning.
 
@@ -73,7 +73,7 @@ Raku appeals to potters for several reasons:
 
 **Unpredictability.** Every raku firing is an experiment. The same glaze, the same clay, the same firing temperature — and the results differ every time. The reduction step introduces chaos: how much combustible material, how long in reduction, where oxygen reaches and where it doesn't. Control is an illusion. Potters who need predictability hate raku. Potters who love surprises can't get enough of it.
 
-**Drama.** There's nothing in ceramics quite like reaching into a glowing kiln, pulling out a red-hot piece with tongs, and plunging it into a container of sawdust that immediately bursts into flames. It's performance art meets chemistry experiment meets ancient craft.
+**[Drama](/drama).** There's nothing in [ceramics](/ceramics) quite like reaching into a glowing kiln, pulling out a red-hot piece with tongs, and plunging it into a container of sawdust that immediately bursts into flames. It's [performance art](/performance-art) meets chemistry experiment meets ancient craft.
 
 **Community.** Raku is inherently social. The outdoor setting, the shared kiln, the collective excitement as each piece comes out — raku firings are events. Pottery studios host raku parties where everyone brings bisqueware and fires together.
 

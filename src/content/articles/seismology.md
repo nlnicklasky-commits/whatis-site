@@ -5,7 +5,7 @@ description: "Seismology is the study of earthquakes and seismic waves. Learn ho
 category: science
 tags: ["seismology", "earthquakes", "geology", "seismic waves", "plate tectonics", "geophysics", "earth science"]
 heroImage: "/images/articles/seismology-hero.webp"
-heroAlt: "Seismograph recording earthquake waves with a pen on a rotating paper drum"
+heroAlt: "Editorial photograph representing the concept of seismology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,13 +37,13 @@ faq:
 
 # What Is Seismology?
 
-Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth. It encompasses the measurement of ground motion, the analysis of earthquake sources and mechanisms, the mapping of Earth's internal structure using seismic waves, and the assessment of seismic hazard for engineering and public safety. In practical terms, seismologists are trying to understand why the ground shakes, what happens inside the Earth when it does, and how to reduce the damage when the next big one hits.
+Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth. It encompasses the measurement of ground motion, the analysis of earthquake sources and mechanisms, the mapping of Earth's internal structure using seismic waves, and the assessment of seismic hazard for [engineering](/engineering) and public safety. In practical terms, seismologists are trying to understand why the ground shakes, what happens inside the Earth when it does, and how to reduce the damage when the next big one hits.
 
 The Earth experiences roughly 500,000 detectable earthquakes per year. About 100,000 are strong enough for people to feel, and roughly 100 cause damage. Every few years, a major earthquake kills thousands and causes billions in damage—the 2011 Tohoku earthquake and tsunami killed nearly 20,000 people in Japan and caused $235 billion in damage, making it the costliest natural disaster in history.
 
 ## What Causes Earthquakes
 
-Most earthquakes are caused by the sudden release of energy that has accumulated along geological faults—fractures in the Earth's crust where blocks of rock slide past each other. The energy source is plate tectonics: the slow but relentless movement of Earth's lithospheric plates, driven by convection currents in the underlying mantle.
+Most earthquakes are caused by the sudden release of energy that has accumulated along geological faults—fractures in the Earth's crust where blocks of rock slide past each other. The energy source is [plate tectonics](/plate-tectonics): the slow but relentless movement of Earth's lithospheric plates, driven by convection currents in the underlying mantle.
 
 ### Plate Tectonics: The Engine
 
@@ -174,7 +174,7 @@ Tsunami warning systems use seismographic networks to detect tsunamigenic earthq
 
 ## Earthquake Prediction vs. Forecasting
 
-The distinction matters enormously. **Prediction** means specifying the time, location, and magnitude of a future earthquake with enough precision to take protective action (evacuate, shut down infrastructure). Despite enormous effort, no reliable short-term prediction method exists. Various proposed precursors—foreshock patterns, radon gas emissions, groundwater changes, animal behavior, electromagnetic anomalies—have been studied extensively. None has proven reliable enough for operational prediction.
+The distinction matters enormously. **Prediction** means specifying the time, location, and magnitude of a future earthquake with enough precision to take protective action (evacuate, shut down infrastructure). Despite enormous effort, no reliable short-term prediction method exists. Various proposed precursors—foreshock patterns, radon gas emissions, groundwater changes, [animal behavior](/animal-behavior), electromagnetic anomalies—have been studied extensively. None has proven reliable enough for operational prediction.
 
 **Forecasting** means estimating the probability of an earthquake of a given magnitude in a given region over a given time period. This is routine and scientifically sound. We know that the Cascadia Subduction Zone off the Pacific Northwest will produce a M9+ earthquake—the geological record shows these occur every 200-600 years, and the last one was in 1700. We can't say when the next one will happen, but we can say the probability over the next 50 years is estimated at roughly 10-15%.
 
@@ -194,7 +194,7 @@ In the past two decades, seismologists discovered that faults don't just lock an
 
 Slow slip events are being studied intensively because they may load stress onto adjacent locked fault sections, potentially triggering future earthquakes. Understanding the relationship between slow slip and eventual fast rupture is one of the most active research frontiers in seismology.
 
-### Induced Seismicity Management
+### Induced Seismicity [Management](/management)
 
 As human activities increasingly trigger earthquakes—through wastewater injection, geothermal energy, mining, and reservoir impoundment—managing induced seismicity has become urgent. "Traffic light" protocols are now standard in many jurisdictions: seismic monitoring triggers operational changes (reduced injection rates, well shutdowns) if induced earthquakes exceed specified thresholds.
 
@@ -206,7 +206,7 @@ Traditional seismology relies on earthquakes as seismic sources. But researchers
 
 ### Distributed Acoustic Sensing (DAS)
 
-Fiber optic cables—the same ones carrying your internet data—can function as dense arrays of seismic sensors. By sending laser pulses down a fiber and analyzing the backscattered light, every meter of cable becomes a seismometer. A single 10 km fiber optic cable becomes 10,000 sensors. DAS is being deployed on ocean-bottom cables, in boreholes, and along existing telecommunication routes, creating seismic monitoring density that was previously inconceivable.
+Fiber optic cables—the same ones carrying your internet data—can function as dense arrays of seismic sensors. By sending laser pulses down a fiber and analyzing the backscattered light, every meter of cable becomes a seismometer. A single 10 km fiber optic cable becomes 10,000 sensors. DAS is being deployed on ocean-bottom cables, in boreholes, and along existing [telecommunication](/telecommunication) routes, creating seismic monitoring density that was previously inconceivable.
 
 ## Why Seismology Matters
 

@@ -5,7 +5,7 @@ description: "Loom weaving is the craft of interlacing threads on a frame to cre
 category: everyday-concepts
 tags: ["loom weaving", "weaving", "textiles", "fiber arts", "handcraft", "fabric"]
 heroImage: "/images/articles/loom-weaving.webp"
-heroAlt: "Colorful threads stretched across a wooden floor loom with a shuttle resting on top"
+heroAlt: "Editorial photograph representing the concept of loom weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "On a rigid heddle loom, a simple scarf takes about 4-8 hours of active weaving time, plus 1-2 hours for warping the loom. An experienced weaver on a floor loom can be faster. The total time depends on the width, length, and complexity of the pattern. Most of the time investment is in the setup — once you're weaving, the rhythm picks up quickly."
 ---
 
-# What Is Loom Weaving?
+# What Is Loom [Weaving](/weaving)?
 
 Loom weaving is the process of interlacing two sets of threads at right angles to each other — one set held taut on a frame (the warp) and another passed through it (the weft) — to create fabric. Every piece of woven cloth you've ever worn, slept under, or wiped your hands on was made this way, either by hand or by machine.
 
-Hand weaving on a loom is one of humanity's oldest technologies. Evidence of woven textiles dates back to at least 5000 BCE, though weaving almost certainly predates that — organic fibers rot, so the archaeological record is incomplete. What we know for certain is that by the time the earliest civilizations were writing things down, weaving was already well-established.
+Hand weaving on a loom is one of humanity's oldest technologies. Evidence of woven textiles dates back to at least 5000 BCE, though weaving almost certainly predates that — organic fibers rot, so the archaeological record is incomplete. What we know for certain is that by the time the earliest civilizations were [writing](/writing) things down, weaving was already well-established.
 
 ## How Weaving Works
 

@@ -5,7 +5,7 @@ description: "Prosthetics is the field of designing and fitting artificial limbs
 category: health-amp-wellness
 tags: ["prosthetics", "artificial limbs", "rehabilitation", "biomedical engineering"]
 heroImage: "/images/articles/prosthetics.webp"
-heroAlt: "A modern carbon fiber prosthetic leg with mechanical joint displayed in a clinical setting"
+heroAlt: "Editorial photograph representing the concept of prosthetics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,19 +33,19 @@ faq:
 
 # What Is Prosthetics?
 
-Prosthetics is the medical and engineering discipline focused on designing, manufacturing, and fitting artificial devices that replace missing body parts — most commonly arms and legs, but also fingers, toes, eyes, ears, noses, and even internal structures. The field sits at the intersection of medicine, engineering, materials science, and rehabilitation, and it has changed more in the last 30 years than in the previous 3,000.
+Prosthetics is the medical and [engineering](/engineering) discipline focused on designing, manufacturing, and fitting artificial devices that replace missing body parts — most commonly arms and legs, but also fingers, toes, eyes, ears, noses, and even internal structures. The field sits at the intersection of medicine, engineering, [materials science](/materials-science), and rehabilitation, and it has changed more in the last 30 years than in the previous 3,000.
 
 ## A History That Goes Back Further Than You'd Think
 
-The oldest known prosthesis isn't some medieval contraption. It's a wooden toe, found on a mummy near Luxor, Egypt, dated to approximately 950-710 BCE. And it wasn't decorative — wear patterns show it was actually used for walking. Someone in ancient Egypt designed a functional prosthetic toe nearly 3,000 years ago.
+The oldest known prosthesis isn't some medieval contraption. It's a wooden toe, found on a mummy near Luxor, Egypt, dated to approximately 950-710 BCE. And it wasn't decorative — wear patterns show it was actually used for [walking](/walking). Someone in ancient Egypt designed a functional prosthetic toe nearly 3,000 years ago.
 
-The Romans made artificial legs from bronze and wood. A Roman general named Marcus Sergius reportedly had an iron hand made so he could hold his shield and continue fighting during the Second Punic War (around 218-201 BCE). Medieval knights had iron hands with individually movable fingers, operated by catches and springs.
+The Romans made artificial legs from bronze and wood. A Roman general named Marcus Sergius reportedly had an iron hand made so he could hold his shield and continue fighting during the Second Punic War (around 218-201 BCE). Medieval knights had iron hands with individually movable fingers, operated by catches and [springs](/springs).
 
 But for most of history, prosthetics were crude. Peg legs. Hook hands. Simple wooden replacements that looked vaguely like what was missing but didn't function like it. Ambroise Pare, a 16th-century French surgeon, designed some of the first hinged prosthetic knees and mechanical hands, but these were available only to the wealthy.
 
-The American Civil War was a turning point. With an estimated 60,000 amputations performed during the conflict, the demand for prosthetic limbs exploded. The U.S. government began providing prostheses to veterans — one of the first prosthetics entitlement programs in history. Manufacturers like A.A. Marks and J.E. Hanger (himself an amputee) developed improved designs, and the field began to professionalize.
+The American Civil War was a turning point. With an estimated 60,000 amputations performed during the conflict, the demand for prosthetic limbs exploded. The U.S. [government](/government) began providing prostheses to veterans — one of the first prosthetics entitlement programs in history. Manufacturers like A.A. Marks and J.E. Hanger (himself an amputee) developed improved designs, and the field began to professionalize.
 
-World War I and World War II drove further advances. Each major conflict produced thousands of amputees who needed to return to productive lives. Government investment in prosthetics research accelerated after each war, and the field shifted from craftsmanship to engineering.
+[World War I](/world-war-i) and [World War II](/world-war-ii) drove further advances. Each major conflict produced thousands of amputees who needed to return to productive lives. Government investment in prosthetics research accelerated after each war, and the field shifted from craftsmanship to engineering.
 
 ## How Modern Prosthetics Work
 
@@ -75,7 +75,7 @@ How does the prosthesis stay on? Several methods:
 
 Below-knee (transtibial) amputations are the most common, and the prosthetic options are well-developed. A typical prosthesis includes a socket, a pylon (the structural shaft), and a foot.
 
-Prosthetic feet range from simple SACH feet (Solid Ankle Cushion Heel — basically a shaped piece of rubber) to energy-storing carbon fiber blades that return energy during walking or running. The running blades used by Paralympic athletes — the curved, J-shaped carbon fiber designs — are probably the most recognizable prosthetic technology in the world.
+Prosthetic feet range from simple SACH feet (Solid Ankle Cushion Heel — basically a shaped piece of rubber) to energy-storing carbon fiber blades that return energy during walking or [running](/running). The running blades used by Paralympic athletes — the curved, J-shaped carbon fiber designs — are probably the most recognizable prosthetic technology in the world.
 
 Above-knee (transfemoral) prosthetics add a prosthetic knee, which is where things get complicated. Walking requires that the knee lock during stance (when your weight is on it) and swing freely during the swing phase. Mechanical knees use friction and pneumatic or hydraulic mechanisms to control this. Microprocessor knees — like the Ottobock C-Leg, introduced in 1997 — use sensors and onboard computers to adjust resistance in real time, making walking smoother and reducing falls.
 
@@ -127,4 +127,4 @@ The frontier of prosthetics is the neural interface — connecting prostheses di
 
 **Brain-computer interfaces (BCIs)** — In laboratory settings, paralyzed patients have controlled robotic arms using brain implants that detect neural signals. This technology could eventually allow amputees to control prostheses with the same neural pathways they'd use for a biological limb.
 
-We're not there yet. Current neural interfaces are experimental, expensive, and require surgery. But the trajectory is clear: prosthetics is moving from passive replacement to active integration with the body's own control systems. The gap between a prosthetic limb and a biological one — in function, if not in form — is closing.
+We're not there yet. Current neural interfaces are experimental, expensive, and require [surgery](/surgery). But the trajectory is clear: prosthetics is moving from passive replacement to active integration with the body's own control systems. The gap between a prosthetic limb and a biological one — in function, if not in form — is closing.

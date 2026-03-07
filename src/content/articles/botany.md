@@ -5,7 +5,7 @@ description: "Botany is the scientific study of plants, covering their structure
 category: science
 tags: ["botany", "plant biology", "plants", "photosynthesis", "plant taxonomy", "ethnobotany", "ecology"]
 heroImage: "/images/articles/botany-hero.webp"
-heroAlt: "Close-up of diverse plant specimens including leaves, flowers, and root structures"
+heroAlt: "Editorial photograph representing the concept of botany"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,11 +59,11 @@ The Renaissance brought renewed scientific curiosity. Herbalists like Leonhart F
 
 Carl Linnaeus changed everything in 1753 with "Species Plantarum," introducing binomial nomenclature — the two-part naming system (genus + species) we still use today. Your morning coffee comes from *Coffea arabica*. The oak in your yard might be *Quercus alba*. Linnaeus gave botany a common language, and his system remains the global standard 270 years later.
 
-The 19th century brought microscopy, cell theory, and Darwin's evolution. The 20th century added genetics, molecular biology, and ecology. Modern botany integrates all of these, using DNA sequencing, satellite imagery, and computational models alongside traditional fieldwork and observation.
+The 19th century brought [microscopy](/microscopy), cell theory, and Darwin's evolution. The 20th century added genetics, [molecular biology](/molecular-biology), and ecology. Modern botany integrates all of these, using DNA sequencing, satellite imagery, and computational models alongside traditional fieldwork and observation.
 
 ## How Plants Work: The Basics
 
-Understanding plant biology means understanding structures and processes that differ fundamentally from animals. Plants solved the problems of life in completely different ways.
+Understanding [plant biology](/plant-biology) means understanding structures and processes that differ fundamentally from animals. Plants solved the problems of life in completely different ways.
 
 ### Plant Cells: The Building Blocks
 
@@ -109,7 +109,7 @@ Plants have organized body plans, though they're nothing like animals. The major
 
 Plants reproduce both sexually and asexually, and their sexual reproduction involves an alternation of generations that has no animal equivalent.
 
-**Sexual reproduction** in flowering plants involves pollination (transfer of pollen from stamen to carpel), fertilization, and seed development. Seeds are extraordinary survival packages — an embryonic plant, a food supply, and a protective coat. Some seeds can remain viable for centuries. In 2005, a 2,000-year-old date palm seed from Masada was successfully germinated.
+**Sexual reproduction** in flowering plants involves [pollination](/pollination) (transfer of pollen from stamen to carpel), fertilization, and seed development. Seeds are extraordinary survival packages — an embryonic plant, a food supply, and a protective coat. Some seeds can remain viable for centuries. In 2005, a 2,000-year-old date palm seed from Masada was successfully germinated.
 
 **Asexual reproduction** produces genetic clones through runners (strawberries), rhizomes (ginger), bulbs (tulips), or fragmentation. The world's largest known organism — a grove of quaking aspen trees called "Pando" in Utah — is actually a single genetic individual connected by a root system, covering 43 hectares and weighing an estimated 6,000 metric tons.
 
@@ -143,11 +143,11 @@ Plant ecology studies how plants interact with each other, with animals, and wit
 
 **Forest ecology** examines the most complex terrestrial ecosystems. Tropical forests cover about 6% of Earth's surface but contain more than half of all plant species. The Amazon alone has an estimated 80,000 plant species. These forests also store roughly 25% of terrestrial carbon, making their preservation critical for climate stability.
 
-**Invasion biology** studies how non-native plants establish in new environments and displace native species. Invasive plants cost the US economy an estimated $34.7 billion annually in agricultural losses and control efforts. Understanding invasion mechanisms is essential for effective management.
+**Invasion biology** studies how non-native plants establish in new environments and displace native species. Invasive plants cost the US economy an estimated $34.7 billion annually in agricultural losses and control efforts. Understanding invasion mechanisms is essential for effective [management](/management).
 
 **Conservation botany** works to prevent plant extinctions. The IUCN estimates that roughly 40% of the world's plant species are threatened with extinction — a staggering figure that doesn't get the attention it deserves compared to animal conservation. Botanical gardens serve as living gene banks, maintaining collections of rare species as insurance against extinction in the wild.
 
-### Ethnobotany
+### [Ethnobotany](/ethnobotany)
 
 Ethnobotany studies the relationships between people and plants, particularly traditional knowledge of plant uses. Indigenous communities worldwide possess botanical knowledge accumulated over thousands of years — knowledge that has directly contributed to modern medicine and [agriculture](/agriculture).
 
@@ -155,7 +155,7 @@ About 25% of modern pharmaceutical drugs derive from plant compounds first ident
 
 This knowledge is disappearing rapidly as indigenous languages die and traditional lifestyles change. Ethnobotanists work to document plant knowledge before it's lost, while also navigating complex ethical questions about intellectual property and benefit-sharing with indigenous communities.
 
-### Paleobotany
+### [Paleobotany](/paleobotany)
 
 Paleobotany studies plant fossils to understand the history of plant life on Earth. Plants first colonized land around 470 million years ago — simple, rootless, leafless organisms related to modern mosses. Forests appeared by about 385 million years ago, and flowering plants (which now dominate) didn't appear until roughly 130 million years ago.
 
@@ -201,7 +201,7 @@ Today's botany barely resembles the specimen-collecting discipline of past centu
 
 **Citizen science** has expanded data collection massively. Apps like iNaturalist have contributed millions of plant observations from amateur naturalists worldwide, helping botanists map species distributions and track phenological changes (when plants leaf out, flower, and fruit).
 
-**Synthetic biology** is pushing boundaries further. Scientists have engineered plants that glow (using genes from bioluminescent organisms), plants that detect explosives in soil, and plants modified for enhanced carbon capture. The line between natural botany and [biotechnology](/biotechnology) is increasingly blurred.
+**[Synthetic biology](/synthetic-biology)** is pushing boundaries further. Scientists have engineered plants that glow (using genes from bioluminescent organisms), plants that detect explosives in soil, and plants modified for enhanced carbon capture. The line between natural botany and [biotechnology](/biotechnology) is increasingly blurred.
 
 ## Why Study Botany?
 

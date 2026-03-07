@@ -5,7 +5,7 @@ description: "Sketching is quick, freehand drawing used to capture ideas, observ
 category: arts-amp-culture
 tags: ["sketching", "drawing", "art", "concept art", "visual arts", "illustration"]
 heroImage: "/images/articles/sketching.webp"
-heroAlt: "An open sketchbook showing loose pencil drawings of figures and objects with art supplies nearby"
+heroAlt: "Editorial photograph representing the concept of sketching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Sketching?
 
-Sketching is the practice of making quick, informal drawings — capturing visual ideas, observations, or compositions through freehand marks on paper. It's drawing at its most immediate and unpolished: loose lines, rough proportions, visible thinking. Where a finished drawing aims for completion, a sketch aims for capture — getting something down before the moment passes or the idea fades.
+Sketching is the practice of making quick, informal drawings — capturing visual ideas, observations, or compositions through freehand marks on paper. It's [drawing](/drawing) at its most immediate and unpolished: loose lines, rough proportions, visible thinking. Where a finished drawing aims for completion, a sketch aims for capture — getting something down before the moment passes or the idea fades.
 
-Every artist sketches. Architects sketch building concepts. Engineers sketch mechanical ideas. Fashion designers sketch garments. Filmmakers sketch storyboards. Scientists sketch observations. Sketching is visual thinking made visible — a way of processing the world through your hand and eye that activates a fundamentally different mode of cognition than writing or speaking.
+Every artist sketches. Architects sketch building concepts. Engineers sketch mechanical ideas. Fashion designers sketch garments. Filmmakers sketch storyboards. Scientists sketch observations. Sketching is visual thinking made visible — a way of processing the world through your hand and eye that activates a fundamentally different mode of cognition than [writing](/writing) or speaking.
 
 ## Why Sketching Matters
 
@@ -67,7 +67,7 @@ The biggest obstacle isn't skill — it's starting. Here's what works.
 
 ## Famous Sketchers
 
-Leonardo da Vinci's notebooks — filled with sketches of anatomy, machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his scientific and artistic thinking.
+Leonardo da Vinci's notebooks — filled with sketches of [anatomy](/anatomy), machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his scientific and artistic thinking.
 
 Rembrandt's sketches are masterclasses in economy — capturing a sleeping child, a beggar, or a field in a few quick pen strokes that convey more than most artists achieve with hours of careful work. His sketches show that skill isn't about detail; it's about selecting the right marks.
 

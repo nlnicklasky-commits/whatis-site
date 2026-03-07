@@ -5,7 +5,7 @@ description: "Technical writing is the practice of creating clear, precise docum
 category: technology
 tags: ["technical writing", "documentation", "user manuals", "information design"]
 heroImage: "/images/articles/technical-writing.webp"
-heroAlt: "A clean, well-organized document layout with diagrams, callouts, and structured text representing professional technical documentation"
+heroAlt: "Editorial photograph representing the concept of technical writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Not every piece of writing about a technical topic counts as technical writing. 
 
 The most visible category. This includes:
 
-- **User manuals** — guides for operating products, from consumer electronics to industrial machinery
+- **User manuals** — guides for operating products, from consumer [electronics](/electronics) to industrial machinery
 - **Quick start guides** — condensed instructions for getting up and running fast
 - **Online help systems** — searchable, context-sensitive help built into software
 - **FAQs and knowledge bases** — organized answers to common questions
@@ -70,7 +70,7 @@ Software documentation aimed at developers who will build on, integrate with, or
 - **API documentation** — describes endpoints, parameters, authentication, and response formats
 - **SDK documentation** — guides for using software development kits
 - **Code samples and tutorials** — working examples that demonstrate implementation
-- **Architecture documentation** — how a system is designed and why decisions were made
+- **[Architecture](/architecture) documentation** — how a system is designed and why decisions were made
 
 Developer docs are a specialized niche. The best developer documentation writers can read code, understand system architecture, and write examples that actually compile. Companies like Stripe, Twilio, and Google are famous for excellent developer documentation — and it directly affects their revenue because developers choose platforms partly based on documentation quality.
 
@@ -89,7 +89,7 @@ Some of the most demanding technical writing involves:
 
 - **FDA submissions** — pharmaceutical and medical device companies submit thousands of pages of documentation for regulatory approval
 - **Safety data sheets (SDS)** — required for hazardous chemicals, following GHS (Globally Harmonized System) format
-- **Environmental impact assessments** — required for major construction and industrial projects
+- **Environmental impact assessments** — required for major [construction](/construction) and industrial projects
 - **Aviation and defense documentation** — following strict standards like S1000D and ATA iSpec 2200
 
 These documents often follow rigid formatting requirements set by regulatory bodies. Getting them wrong can delay product launches by months or years and cost millions of dollars.
@@ -117,7 +117,7 @@ Plain language doesn't mean dumbed-down language. It means:
 - One idea per sentence
 - Specific, concrete language ("Save the file to the Desktop" not "Ensure the file is persisted to an appropriate location")
 
-The U.S. government requires plain language in public-facing documents under the Plain Writing Act of 2010. That law exists because confusing government documents cost billions in wasted time, errors, and phone calls to support lines.
+The U.S. [government](/government) requires plain language in public-facing documents under the Plain Writing Act of 2010. That law exists because confusing government documents cost billions in wasted time, errors, and phone calls to support lines.
 
 ### Structure for Scanning
 
@@ -155,7 +155,7 @@ The SME interview is a core skill. Engineers know the product deeply but often c
 
 ### 2. Organizing and Outlining
 
-Information architecture — deciding how to structure and organize content — is where much of the value in technical writing lies. A logical structure makes complex information manageable. A poor structure makes even simple information confusing.
+[Information architecture](/information-architecture) — deciding how to structure and organize content — is where much of the value in technical writing lies. A logical structure makes complex information manageable. A poor structure makes even simple information confusing.
 
 Common organizational patterns include:
 - **Task-based** — organized around what users want to do (most common for user docs)
@@ -185,7 +185,7 @@ Documentation isn't done when it's published. Products change. Features are adde
 This is why modern documentation often uses:
 - **Docs-as-code** — documentation stored in Git, reviewed via pull requests, and published through CI/CD pipelines, just like software
 - **Single-sourcing** — writing content once and reusing it across multiple outputs (web, PDF, in-app help)
-- **Content management systems** — tools like MadCap Flare, Paligo, or custom systems that manage versioning, translation, and multi-channel publishing
+- **Content [management](/management) systems** — tools like MadCap Flare, Paligo, or custom systems that manage versioning, [translation](/translation), and multi-channel publishing
 
 ## Technical Writing and Software
 
@@ -233,6 +233,6 @@ The job market is healthy. The median salary is around $80,000, with experienced
 
 ## Why Good Technical Writing Matters
 
-Bad documentation has measurable costs. A study by the Center for Plain Language found that unclear documentation costs U.S. businesses an estimated $400 billion annually in lost productivity, errors, and customer support calls. IBM found that investing $1 in usable documentation saved $100 in support costs.
+Bad documentation has measurable costs. A study by the Center for Plain Language found that unclear documentation costs U.S. businesses an estimated $400 billion annually in lost [productivity](/productivity), errors, and customer support calls. IBM found that investing $1 in usable documentation saved $100 in support costs.
 
 Beyond the numbers, good technical writing affects real lives. Clear medical instructions help patients manage conditions. Accurate safety procedures prevent workplace injuries. Usable software documentation lets people do their jobs without wasting hours guessing. In a world where [technology management](/technology-management) grows more complex every year, the people who can explain things clearly are worth their weight in gold.

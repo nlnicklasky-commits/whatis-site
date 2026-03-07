@@ -5,7 +5,7 @@ description: "Lego building is the art of constructing models and structures fro
 category: everyday-concepts
 tags: ["lego building", "construction toys", "hobbies", "AFOL", "building blocks", "creativity"]
 heroImage: "/images/articles/lego-building.webp"
-heroAlt: "Colorful Lego bricks assembled into an intricate architectural model on a table"
+heroAlt: "Editorial photograph representing the concept of lego building"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The company almost went bankrupt in 2003, losing about $800,000 per day. A drama
 
 ## The Building System
 
-What makes LEGO work isn't any individual brick — it's the system. Every element is designed to work with every other element. The basic unit is the 2x4 brick, and the geometry is precise: the distance between stud centers is 8mm, brick height is 9.6mm (or 11.4mm with the stud), and tolerances are kept within 2 micrometers. That precision is why bricks fit together firmly but can still be pulled apart by hand.
+What makes LEGO work isn't any individual brick — it's the system. Every element is designed to work with every other element. The basic unit is the 2x4 brick, and the [geometry](/geometry) is precise: the distance between stud centers is 8mm, brick height is 9.6mm (or 11.4mm with the stud), and tolerances are kept within 2 micrometers. That precision is why bricks fit together firmly but can still be pulled apart by hand.
 
 The system has expanded enormously from basic bricks. Modern LEGO includes:
 
@@ -62,7 +62,7 @@ There are essentially two approaches to LEGO building:
 
 **Set building** means following instructions to assemble a specific model designed by LEGO. Sets range from simple 50-piece builds for young children to massive projects like the 11,695-piece World Map or the 9,090-piece Colosseum. Set building is satisfying in its own way — there's a meditative quality to sorting pieces, following steps, and watching something complex take shape.
 
-**MOC building** — "My Own Creation" — means designing and building original models without instructions. This is where LEGO becomes genuine creative expression. MOC builders might recreate real buildings, design fictional spacecraft, build working mechanical devices, or create abstract art. The best MOC builders have skills that overlap with architecture, engineering, and sculpture.
+**MOC building** — "My Own Creation" — means designing and building original models without instructions. This is where LEGO becomes genuine creative expression. MOC builders might recreate real buildings, design fictional spacecraft, build working mechanical devices, or create abstract art. The best MOC builders have skills that overlap with [architecture](/architecture), [engineering](/engineering), and [sculpture](/sculpture).
 
 Many builders do both. They'll build a set as designed, display it for a while, then eventually disassemble it and use the parts for something new. The LEGO community calls this "parting out."
 
@@ -76,11 +76,11 @@ The financial side is significant too. Retired LEGO sets appreciate in value. A 
 
 ## Educational Value
 
-LEGO isn't just entertainment. Research from the University of Cambridge and other institutions has linked LEGO play with improved spatial reasoning, fine motor skills, and problem-solving ability in children. LEGO Education, a separate division of the company, produces classroom kits used in schools worldwide.
+LEGO isn't just entertainment. Research from the University of Cambridge and other institutions has linked LEGO play with improved spatial reasoning, fine motor skills, and problem-solving ability in children. LEGO [Education](/education), a separate division of the company, produces classroom kits used in schools worldwide.
 
-LEGO Mindstorms (now succeeded by SPIKE Prime) introduced programmable robotics to millions of students. FIRST LEGO League, a competitive robotics program for kids ages 4-16, operates in over 110 countries and involves more than 680,000 participants annually.
+LEGO Mindstorms (now succeeded by SPIKE Prime) introduced programmable [robotics](/robotics) to millions of students. FIRST LEGO League, a competitive robotics program for kids ages 4-16, operates in over 110 countries and involves more than 680,000 participants annually.
 
-For adults, the benefits are different but real. Many builders describe LEGO as a form of mindfulness — a screen-free activity that demands focused attention and produces a tangible result. Therapists have even used LEGO building in clinical settings for anxiety management and team building.
+For adults, the benefits are different but real. Many builders describe LEGO as a form of mindfulness — a screen-free activity that demands focused attention and produces a tangible result. Therapists have even used LEGO building in clinical settings for anxiety [management](/management) and team building.
 
 ## Sustainability Challenges
 

@@ -5,7 +5,7 @@ description: "Puppetry is the art of bringing inanimate figures to life through 
 category: arts-amp-culture
 tags: ["puppetry", "puppets", "puppeteer", "marionette", "hand puppet", "shadow puppetry"]
 heroImage: "/images/articles/puppetry.webp"
-heroAlt: "Colorful hand puppets performing on a small theater stage"
+heroAlt: "Editorial photograph representing the concept of puppetry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Puppetry is the art of animating inanimate objects — figures, shapes, material
 
 **Rod puppets** are controlled from below using sticks attached to the head, hands, and sometimes other body parts. They can be larger and more detailed than hand puppets. Jim Henson developed a hybrid — hand-and-rod puppets — for the Muppets, combining the hand puppet's expressiveness with rod-controlled arms for more complex movement.
 
-**Marionettes** are controlled from above by strings attached to a control bar (called a "crotch" or "control"). A full marionette might have 12-30 strings controlling different body parts. They can walk, dance, bow, and mimic human movement with uncanny accuracy. They're also the hardest puppet type to master — coordinating multiple strings without tangling requires exceptional dexterity and spatial awareness.
+**[Marionettes](/marionettes)** are controlled from above by strings attached to a control bar (called a "crotch" or "control"). A full marionette might have 12-30 strings controlling different body parts. They can walk, [dance](/dance), bow, and mimic human movement with uncanny accuracy. They're also the hardest puppet type to master — coordinating multiple strings without tangling requires exceptional dexterity and spatial awareness.
 
 **Shadow puppets** are flat, articulated figures held against a translucent screen with a light source behind. The audience sees shadows, not the puppets themselves. Indonesian *wayang kulit* (leather shadow puppets) is perhaps the most sophisticated shadow puppet tradition, with performances lasting all night and featuring dozens of characters from Hindu epic narratives.
 
@@ -53,7 +53,7 @@ Puppetry may be among the oldest performing arts. The oldest known puppet is arg
 
 Written references to puppetry appear in ancient Greece (Xenophon mentions puppet shows around 420 BCE), India, China, and Egypt. The tradition is genuinely global — essentially every culture developed some form of puppet theater independently.
 
-In Europe, puppetry was popular entertainment from medieval fairs through the 19th century. Punch and Judy shows (descending from the Italian *Commedia dell'Arte* character Pulcinella) were fixtures of street entertainment in England from the 17th century. Marionette theaters performed opera, drama, and comedy for adult audiences throughout Europe.
+In Europe, puppetry was popular entertainment from medieval fairs through the 19th century. Punch and Judy shows (descending from the Italian *Commedia dell'Arte* character Pulcinella) were fixtures of street entertainment in England from the 17th century. Marionette theaters performed [opera](/opera), [drama](/drama), and [comedy](/comedy) for adult audiences throughout Europe.
 
 The 20th century brought puppetry into mass media. Bil Baird's marionettes appeared on television from the 1950s. Jim Henson transformed the medium with the Muppets (debut: *Sam and Friends*, 1955; *Sesame Street*, 1969; *The Muppet Show*, 1976). Henson demonstrated that puppetry could be simultaneously sophisticated and silly, appealing to both children and adults.
 
@@ -65,7 +65,7 @@ What makes puppetry work isn't the puppet — it's the puppeteer. A skilled perf
 
 **Breath** — giving the puppet the appearance of breathing through subtle rhythmic movement — creates the fundamental illusion of life. A completely still puppet looks like an object. A puppet with slight, continuous movement looks alive.
 
-**Weight and physics** — the puppet should move as if it has weight. Hands shouldn't float; they should lift and fall with apparent effort. Steps should compress and release. The puppet should respond to gravity even when the puppeteer is actually defying it.
+**Weight and [physics](/physics)** — the puppet should move as if it has weight. Hands shouldn't float; they should lift and fall with apparent effort. Steps should compress and release. The puppet should respond to gravity even when the puppeteer is actually defying it.
 
 **Lip sync** — for speaking puppets, matching mouth movement to speech sounds is a specific skill. The standard technique (Muppet-style) opens the mouth on emphasized syllables rather than on every syllable. It looks more natural than trying to match every sound.
 
@@ -73,8 +73,8 @@ What makes puppetry work isn't the puppet — it's the puppeteer. A skilled perf
 
 In a world of CGI and digital effects, why does puppetry persist?
 
-Partly because puppets can say things actors can't. A puppet commenting on politics, death, or sex gets more leeway than a human performer because the audience's relationship to a puppet is different — it's simultaneously more intimate (the puppet feels vulnerable) and more distanced (it's obviously not real).
+Partly because puppets can say things actors can't. A puppet commenting on [politics](/politics), death, or sex gets more leeway than a human performer because the audience's relationship to a puppet is different — it's simultaneously more intimate (the puppet feels vulnerable) and more distanced (it's obviously not real).
 
-Partly because physical presence matters. A puppet exists in real space, catching real light, creating real shadows. Computer animation can do almost anything, but it can't be *there* in front of you. The physicality of puppetry creates a different kind of engagement.
+Partly because physical presence matters. A puppet exists in real space, catching real light, creating real shadows. Computer [animation](/animation) can do almost anything, but it can't be *there* in front of you. The physicality of puppetry creates a different kind of engagement.
 
 And partly because the basic magic trick — making the inanimate seem alive — never gets old. You know it's fabric and foam. You know someone's hand is inside it. And yet, when Kermit the Frog tilts his head and says something wistful, something in you responds to *him*, not to the performer. That gap between knowledge and experience is where puppetry lives.

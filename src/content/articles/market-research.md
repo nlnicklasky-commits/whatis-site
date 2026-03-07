@@ -5,7 +5,7 @@ description: "Market research is the process of gathering and analyzing data abo
 category: business
 tags: ["marketing", "market research", "business"]
 heroImage: "/images/articles/market-research.webp"
-heroAlt: "A person reviewing survey data and charts on a laptop with sticky notes on a whiteboard behind them"
+heroAlt: "Editorial photograph representing the concept of market research"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ Primary research means collecting original data yourself. You're going directly 
 
 Secondary research uses data someone else already collected. It's faster, cheaper, and a smart starting point before you invest in primary research.
 
-Government data is a goldmine. The U.S. Census Bureau, Bureau of Labor Statistics, and Bureau of Economic Analysis publish enormous datasets on population, employment, spending, and economic activity — all free. International equivalents exist in most countries.
+[Government](/government) data is a goldmine. The U.S. Census Bureau, Bureau of Labor [Statistics](/statistics), and Bureau of Economic Analysis publish enormous datasets on population, employment, spending, and economic activity — all free. International equivalents exist in most countries.
 
 Industry reports from firms like IBISWorld, Statista, Gartner, and McKinsey provide market sizing, growth forecasts, competitive analysis, and trend identification. These aren't cheap (often $2,000-$10,000 per report), but they can save you months of primary research.
 
@@ -83,13 +83,13 @@ This sounds obvious but it's where most research goes wrong. "We want to underst
 
 ### 2. Design the Study
 
-Choose your methods based on your question, budget, and timeline. Quantitative methods (surveys, experiments, data analysis) tell you *what* and *how much*. Qualitative methods (interviews, focus groups, observation) tell you *why* and *how*. Most serious research projects combine both.
+Choose your methods based on your question, budget, and timeline. Quantitative methods (surveys, experiments, [data analysis](/data-analysis)) tell you *what* and *how much*. Qualitative methods (interviews, focus groups, observation) tell you *why* and *how*. Most serious research projects combine both.
 
 Design your sample carefully. Who are you studying? How will you reach them? How many responses do you need for statistical significance? A survey of 50 people who already love your product won't tell you why non-customers aren't buying.
 
 ### 3. Collect the Data
 
-Execute the plan. This is where logistics matter — survey response rates, interview scheduling, data quality checks. Common pitfalls include low response rates (which can introduce bias — the people who respond may differ systematically from those who don't), poorly trained interviewers, and technical problems with data collection tools.
+Execute the plan. This is where logistics matter — survey response rates, interview [scheduling](/scheduling), data quality checks. Common pitfalls include low response rates (which can introduce bias — the people who respond may differ systematically from those who don't), poorly trained interviewers, and technical problems with data collection tools.
 
 ### 4. Analyze the Results
 
@@ -103,7 +103,7 @@ Research that sits in a drawer is worthless. The findings need to reach decision
 
 ## Common Mistakes
 
-**Asking leading questions.** "Don't you agree that our product is the best on the market?" is not research. It's cheerleading. Questions should be neutral: "How would you compare our product to alternatives you've used?"
+**Asking leading questions.** "Don't you agree that our product is the best on the market?" is not research. It's [cheerleading](/cheerleading). Questions should be neutral: "How would you compare our product to alternatives you've used?"
 
 **Surveying the wrong people.** If you want to know why people don't buy your product, surveying your existing customers won't help. You need to reach non-customers — which is harder and more expensive, but that's where the insight is.
 
@@ -115,13 +115,13 @@ Research that sits in a drawer is worthless. The findings need to reach decision
 
 ## Market Research in the Digital Age
 
-The internet didn't just add new research methods — it fundamentally changed the economics of data collection. Online surveys that once cost $50,000 can now be run for a few hundred dollars. Social media analytics provide real-time sentiment data. Web analytics show exactly how millions of people behave on your site.
+The internet didn't just add new [research methods](/research-methods) — it fundamentally changed the [economics](/economics) of data collection. Online surveys that once cost $50,000 can now be run for a few hundred dollars. Social media analytics provide real-time sentiment data. [Web analytics](/web-analytics) show exactly how millions of people behave on your site.
 
 Google Trends lets you track search interest in any topic over time — free. Amazon reviews give you unfiltered customer opinions about competing products. Reddit and online forums reveal how real people talk about problems your product might solve.
 
 But more data isn't automatically better data. The challenge has shifted from "how do I get data?" to "how do I find signal in all this noise?" A million tweets about your brand don't mean much if you can't distinguish genuine customer feedback from bots, trolls, and people who've never used your product.
 
-AI and machine learning are increasingly used to process large qualitative datasets — sentiment analysis of customer reviews, natural language processing of open-ended survey responses, predictive modeling of customer behavior. These tools are powerful but require careful validation. An algorithm that misclassifies sarcasm as positive sentiment will lead you in exactly the wrong direction.
+AI and machine learning are increasingly used to process large qualitative datasets — sentiment analysis of customer reviews, [natural language processing](/natural-language-processing) of open-ended survey responses, predictive modeling of customer behavior. These tools are powerful but require careful validation. [An algorithm](/algorithms) that misclassifies sarcasm as positive sentiment will lead you in exactly the wrong direction.
 
 ## When to Do It
 

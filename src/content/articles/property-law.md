@@ -5,7 +5,7 @@ description: "Property law governs ownership, use, and transfer of land and poss
 category: law
 tags: ["property law", "real estate law", "land law", "ownership"]
 heroImage: "/images/articles/property-law.webp"
-heroAlt: "A deed document and house keys resting on a wooden desk with legal books in the background"
+heroAlt: "Editorial photograph representing the concept of property law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,19 +33,19 @@ faq:
 
 # What Is Property Law?
 
-Property law is the area of law that governs how people acquire, use, transfer, and protect ownership of things — land, buildings, personal possessions, intellectual creations, and more. It's one of the oldest branches of law, with roots stretching back to ancient Roman jurisprudence, and it touches virtually every aspect of daily life. If you own anything, rent anything, or have ever signed a lease, you've interacted with property law.
+Property law is the area of law that governs how people acquire, use, transfer, and protect ownership of things — land, buildings, personal possessions, intellectual creations, and more. It's one of the oldest branches of law, with roots stretching back to ancient Roman [jurisprudence](/jurisprudence), and it touches virtually every aspect of daily life. If you own anything, rent anything, or have ever signed a lease, you've interacted with property law.
 
 ## The Fundamental Question: What Does "Owning" Mean?
 
 This sounds obvious until you think about it for more than thirty seconds. You "own" your house. But can you paint it neon green? Maybe — unless there's a homeowners association or local ordinance saying otherwise. Can you dig a 50-foot hole in your backyard? Depends on zoning laws, utility easements, and environmental regulations. Can you refuse to let the fire department onto your property during an emergency? No.
 
-Property ownership in modern law isn't a single, absolute right. It's more like a bundle of rights — the right to use, exclude others, sell, lease, mortgage, bequeath, and modify. But each of those rights has limits imposed by government regulation, neighboring property rights, contractual agreements, and public interest.
+Property ownership in modern law isn't a single, absolute right. It's more like a bundle of rights — the right to use, exclude others, sell, lease, mortgage, bequeath, and modify. But each of those rights has limits imposed by [government](/government) regulation, neighboring property rights, contractual agreements, and public interest.
 
 Legal scholars call this the "bundle of sticks" metaphor. Each stick represents a different right associated with the property. You can give away some sticks (granting an easement removes one), have some taken (zoning removes another), and still own the bundle. Full ownership means holding all the sticks. But nobody holds all of them — there are always some legal limitations.
 
 ## Real Property: Land and What's Attached to It
 
-Real property law — also called real estate law — deals with land, buildings, and anything permanently fixed to them. This is the heavyweight division of property law, and it's where most of the complexity lives.
+Real property law — also called [real estate law](/real-estate-law) — deals with land, buildings, and anything permanently fixed to them. This is the heavyweight division of property law, and it's where most of the complexity lives.
 
 ### Estates in Land
 
@@ -61,7 +61,7 @@ Property lawyers love their medieval terminology, and estates in land is where i
 
 ### How Property Changes Hands
 
-Transferring real property is deliberately complicated. Unlike selling a used couch (which just requires handing it over and taking money), selling land involves deeds, title searches, recording, and often title insurance.
+Transferring real property is deliberately complicated. Unlike selling a used couch (which just requires handing it over and taking money), selling land involves deeds, title searches, recording, and often title [insurance](/insurance).
 
 A **deed** is the legal document that transfers ownership. There are several types — warranty deeds (the seller guarantees clear title), quitclaim deeds (the seller transfers whatever interest they have, with no guarantees), and special warranty deeds (guarantees only against problems that arose during the seller's ownership).
 
@@ -87,7 +87,7 @@ At common law, landlords had most of the power. If the roof leaked, tough luck �
 
 Eviction procedures are strictly controlled. A landlord can't just change the locks — that's an illegal "self-help" eviction in virtually every state. Instead, the landlord must follow a legal process: notice, filing, court hearing, and (if the landlord prevails) a court-ordered removal carried out by law enforcement.
 
-Rent control exists in some cities — New York, San Francisco, Los Angeles, and others — limiting how much landlords can raise rent. It's one of the most debated topics in property law and economics. Proponents say it protects tenants from displacement. Critics argue it reduces housing supply by discouraging new construction and maintenance.
+Rent control exists in some cities — New York, San Francisco, Los Angeles, and others — limiting how much landlords can raise rent. It's one of the most debated topics in property law and [economics](/economics). Proponents say it protects tenants from displacement. Critics argue it reduces housing supply by discouraging new [construction](/construction) and maintenance.
 
 ## Zoning and Land Use
 
@@ -99,7 +99,7 @@ Modern zoning has come under fire from multiple directions. Critics argue that s
 
 ## Intellectual Property: A Different Kind of Ownership
 
-Intellectual property — patents, copyrights, trademarks, and trade secrets — applies property concepts to intangible creations. You can "own" an invention (patent), a creative work (copyright), a brand identifier (trademark), or a business secret (trade secret).
+Intellectual property — patents, copyrights, trademarks, and [trade](/trade) secrets — applies property concepts to intangible creations. You can "own" an [invention](/invention) (patent), a creative work (copyright), a brand identifier (trademark), or a business secret (trade secret).
 
 This is where property law gets philosophical. Land is finite and rivalrous — if I'm using it, you can't. But ideas are non-rivalrous — my using an idea doesn't prevent you from using it too. Applying ownership frameworks to something inherently shareable creates tensions that patent and copyright law have never fully resolved.
 

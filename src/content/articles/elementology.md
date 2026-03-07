@@ -5,7 +5,7 @@ description: "Elementology is the study of chemical elements, their properties, 
 category: everyday-concepts
 tags: ["elementology", "everyday-concepts"]
 heroImage: "/images/articles/elementology.webp"
-heroAlt: "A colorful periodic table of elements displayed on a wall in a science laboratory"
+heroAlt: "Editorial photograph representing the concept of elementology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Elementology?
 
-Elementology is the study of chemical elements — the fundamental substances that cannot be broken down into simpler substances by ordinary chemical means. There are 118 confirmed elements, from hydrogen (atomic number 1) to oganesson (atomic number 118), and every material object in the universe is made from combinations of these elements. Your body is roughly 65% oxygen, 18% carbon, 10% hydrogen, and 3% nitrogen by mass — just four of the 118, with trace amounts of about 20 others keeping everything running.
+Elementology is the study of chemical elements — the fundamental substances that cannot be broken down into simpler substances by ordinary chemical means. There are 118 confirmed elements, from hydrogen (atomic number 1) to oganesson (atomic number 118), and every material object in the universe is made from combinations of these elements. Your body is roughly 65% oxygen, 18% carbon, 10% hydrogen, and 3% nitrogen by mass — just four of the 118, with trace amounts of about 20 others keeping everything [running](/running).
 
 ## What Elements Actually Are
 
 An element is defined by the number of protons in its atomic nucleus. Hydrogen has 1 proton. Carbon has 6. Gold has 79. Uranium has 92. Change the number of protons, and you change the element entirely — you'd need to add or remove protons through nuclear reactions, not ordinary [chemistry](/chemistry).
 
-Each element has characteristic properties — melting point, density, reactivity, color, conductivity — determined by its atomic structure. Carbon can form diamond (the hardest natural material) or graphite (soft enough to write with), depending on how atoms bond. Iron rusts in moist air. Gold doesn't. Neon glows orange-red when electrified. These properties aren't random; they follow from quantum mechanics and electron configuration.
+Each element has characteristic properties — melting point, density, reactivity, color, conductivity — determined by its atomic structure. Carbon can form diamond (the hardest natural material) or graphite (soft enough to write with), depending on how atoms bond. Iron rusts in moist air. Gold doesn't. Neon glows orange-red when electrified. These properties aren't random; they follow from [quantum mechanics](/quantum-mechanics) and electron configuration.
 
 ## The Periodic Table
 
@@ -69,9 +69,9 @@ The origin story of elements is one of the most remarkable discoveries in scienc
 
 Some elements matter more than others — not chemically, but historically.
 
-**Carbon** is the basis of all known life. Its ability to form four bonds and create long, stable chains makes it uniquely suited for complex molecules. Organic chemistry — the chemistry of carbon compounds — is essentially the chemistry of life.
+**Carbon** is the basis of all known life. Its ability to form four bonds and create long, stable chains makes it uniquely suited for complex molecules. [Organic chemistry](/organic-chemistry) — the chemistry of carbon compounds — is essentially the chemistry of life.
 
-**Iron** transformed human civilization. The Iron Age (beginning roughly 1200 BC) replaced bronze with a harder, more abundant metal. Iron smelting created tools, weapons, and eventually the steel that built modern infrastructure. Global steel production exceeds 1.9 billion tons annually.
+**Iron** transformed human civilization. The Iron Age (beginning roughly 1200 BC) replaced bronze with a harder, more abundant metal. Iron [smelting](/smelting) created tools, weapons, and eventually the steel that built modern infrastructure. Global [steel production](/steel-production) exceeds 1.9 billion tons annually.
 
 **Silicon** — the second most abundant element in Earth's crust — became the foundation of the information age. Silicon's semiconductor properties make it the material of [computer](/computer-science) chips. Silicon Valley isn't named after a brand; it's named after an element.
 

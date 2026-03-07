@@ -5,7 +5,7 @@ description: "Falconry is the ancient art of hunting with trained birds of prey.
 category: sports
 tags: ["birds of prey", "raptors", "hunting", "avian", "conservation", "traditional sport"]
 heroImage: "/images/articles/falconry.webp"
-heroAlt: "Falconer holding a hooded peregrine falcon on a leather glove"
+heroAlt: "Editorial photograph representing the concept of falconry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Falconry?
 
-Falconry is the practice of hunting wild game using trained birds of prey — falcons, hawks, eagles, and sometimes owls. It's one of the oldest hunting methods still practiced, with archaeological evidence suggesting humans have been partnering with raptors for at least 4,000 years. UNESCO recognized it as an Intangible Cultural Heritage of Humanity in 2010, and about 100,000 people practice it worldwide today.
+Falconry is the practice of [hunting](/hunting) wild game using trained birds of prey — falcons, hawks, eagles, and sometimes owls. It's one of the oldest hunting methods still practiced, with archaeological evidence suggesting humans have been partnering with raptors for at least 4,000 years. UNESCO recognized it as an Intangible Cultural Heritage of Humanity in 2010, and about 100,000 people practice it worldwide today.
 
 ## Ancient Origins
 
 The earliest evidence of falconry comes from Central Asia, probably around 2000 BCE. Mongolian and Kazakh nomads were likely the first to train raptors, using golden eagles to hunt foxes and even wolves on the steppe. The tradition is still alive — Kazakh eagle hunters (berkutchi) in western Mongolia continue to hunt with golden eagles weighing up to 15 pounds.
 
-Falconry spread along trade routes to Persia, the Arab world, Europe, and East Asia. In medieval Europe, it became an obsession among the nobility. The type of bird you could fly indicated your social rank: kings flew gyrfalcons, earls flew peregrine falcons, priests flew sparrowhawks, and servants (if they flew anything) were limited to kestrels. The phrase "under your thumb" may have originated from the way falconers held their bird's jesses.
+Falconry spread along [trade](/trade) routes to Persia, the Arab world, Europe, and East Asia. In medieval Europe, it became an obsession among the nobility. The type of bird you could fly indicated your social rank: kings flew gyrfalcons, earls flew peregrine falcons, priests flew sparrowhawks, and servants (if they flew anything) were limited to kestrels. The phrase "under your thumb" may have originated from the way falconers held their bird's jesses.
 
-In the Arab world, falconry was and remains deeply embedded in culture. The falcon appears on the coat of arms of the United Arab Emirates. Saudi Arabia and the UAE have falcon hospitals — the Abu Dhabi Falcon Hospital treats over 11,000 birds annually. Some prized falcons sell for over $1 million.
+In the Arab world, falconry was and remains deeply embedded in culture. The falcon appears on the [coat of arms](/coat-of-arms) of the United Arab Emirates. Saudi Arabia and the UAE have falcon hospitals — the Abu Dhabi Falcon Hospital treats over 11,000 birds annually. Some prized falcons sell for over $1 million.
 
 ## How It Works
 
@@ -47,9 +47,9 @@ Training a falcon isn't like training a dog. Dogs are domesticated animals bred 
 
 The process starts with "manning" — getting the bird accustomed to human presence. A new bird sits on the falconer's gloved fist for hours, gradually learning that the human means food, not danger. This takes days or weeks depending on the species.
 
-Next comes training to the lure — a weighted decoy swung on a line that mimics prey. The bird learns to fly to the lure for a food reward, building fitness and reinforcing the return-to-handler behavior. Then comes hunting with live quarry.
+Next comes training to the lure — a weighted decoy swung on a line that mimics prey. The bird learns to fly to the lure for a food reward, building [fitness](/fitness) and reinforcing the return-to-handler behavior. Then comes hunting with live quarry.
 
-Weight management is critical and controversial. Falconers keep their birds at a precise flying weight — heavy enough to be healthy and strong, light enough to be motivated to hunt. This requires daily weighing and careful feeding. Done properly, the bird is in peak condition. Done poorly, it's cruel. This is why most countries require apprenticeship and licensing.
+Weight [management](/management) is critical and controversial. Falconers keep their birds at a precise flying weight — heavy enough to be healthy and strong, light enough to be motivated to hunt. This requires daily weighing and careful feeding. Done properly, the bird is in peak condition. Done poorly, it's cruel. This is why most countries require apprenticeship and licensing.
 
 ## The Birds
 
@@ -59,7 +59,7 @@ Different species suit different hunting styles and quarry.
 
 **Harris's hawks** are unique among raptors because they naturally hunt in cooperative groups — like a pack of wolves with wings. This makes them exceptionally social and relatively easy to train. Multiple falconers can fly Harris's hawks together, which is unusual in falconry.
 
-**Peregrine falcons** are the showstoppers. They hunt birds in flight, diving from great heights in a "stoop" that can exceed 240 mph — making them the fastest animal on Earth. Watching a peregrine fold its wings and plummet toward a duck is one of the most spectacular sights in nature.
+**Peregrine falcons** are the showstoppers. They hunt birds in flight, [diving](/diving) from great heights in a "stoop" that can exceed 240 mph — making them the fastest animal on Earth. Watching a peregrine fold its wings and plummet toward a duck is one of the most spectacular sights in nature.
 
 **Goshawks** are the classic European falconry bird. Fast, agile, and extremely effective in woodland terrain, they're also notoriously difficult to train. Medieval falconers called them "the cook's bird" because they were the most reliable providers of game for the table.
 

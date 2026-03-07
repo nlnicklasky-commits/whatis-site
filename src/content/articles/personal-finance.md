@@ -5,7 +5,7 @@ description: "Personal finance is managing your money through budgeting, saving,
 category: finance
 tags: ["budgeting", "saving", "investing", "debt management", "financial planning", "money management", "retirement"]
 heroImage: "/images/articles/personal-finance-hero.webp"
-heroAlt: "Person reviewing financial documents with calculator, charts, and a laptop showing investment data"
+heroAlt: "Editorial photograph representing the concept of personal finance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,11 +53,11 @@ Everything in personal finance starts with two numbers: what comes in and what g
 
 ### Understanding Your Income
 
-Your gross income (before taxes and deductions) isn't what you have to work with. Your net income — after federal, state, and local taxes, Social Security, Medicare, health insurance premiums, and retirement contributions are deducted — is your actual starting point.
+Your gross income (before taxes and deductions) isn't what you have to work with. Your net income — after federal, state, and local taxes, Social Security, Medicare, [health insurance](/health-insurance) premiums, and retirement contributions are deducted — is your actual starting point.
 
 Many people have never calculated their true effective tax rate. If you earn $75,000 gross and take home $55,000, your effective tax and deduction rate is about 27%. Every raise, bonus, and side income gets reduced by a similar percentage. Understanding this prevents you from budgeting money you don't actually have.
 
-Income sources beyond salary include: side businesses, freelance work, rental income, investment dividends, interest, and government benefits. Diversifying income sources provides stability — losing a job is devastating if it's your only income, but manageable if you have other streams.
+Income sources beyond salary include: side businesses, freelance work, rental income, investment dividends, interest, and [government](/government) benefits. Diversifying income sources provides stability — losing a job is devastating if it's your only income, but manageable if you have other streams.
 
 ### Tracking Expenses
 
@@ -87,7 +87,7 @@ A more detailed approach assigns every dollar a specific purpose. Income minus a
 
 Automate your savings and investment contributions so they happen before you can spend the money. Set up automatic transfers to savings accounts, retirement accounts, and investment accounts on payday. Then live on what's left. This sidesteps the willpower problem — you never have to actively choose to save because it happens automatically.
 
-Frankly, this single habit — automating savings — does more for most people's finances than any amount of budget spreadsheet optimization.
+Frankly, this single habit — automating savings — does more for most people's finances than any amount of budget spreadsheet [optimization](/optimization).
 
 ## Debt: The Double-Edged Sword
 
@@ -97,7 +97,7 @@ Not all debt is created equal. Understanding the difference between debt that he
 
 Some debt finances assets that appreciate or generate income. A mortgage lets you buy a home that typically appreciates over time. Student loans fund education that (ideally) increases your earning power. A business loan finances a venture that may generate profit.
 
-Even "good" debt can become bad debt if the amount is excessive relative to your income or if the expected return doesn't materialize. A $500,000 mortgage on a $60,000 income is risky regardless of how good the real estate market looks. Student loans for a degree that doesn't lead to higher earnings may not pay off.
+Even "good" debt can become bad debt if the amount is excessive relative to your income or if the expected return doesn't materialize. A $500,000 mortgage on a $60,000 income is risky regardless of how good the [real estate](/real-estate) market looks. Student loans for a degree that doesn't lead to higher earnings may not pay off.
 
 ### Bad Debt (Usually)
 
@@ -175,7 +175,7 @@ Insurance is a financial tool for transferring risk. You pay a known, small cost
 
 **Disability insurance** replaces income if you can't work due to illness or injury. Your ability to earn income is your most valuable financial asset — especially early in your career — yet disability insurance is frequently overlooked.
 
-The general rule: insure against catastrophic losses you can't afford to absorb. Self-insure against small losses by maintaining an emergency fund. Extended warranties on electronics? Probably not worth it. Health insurance? Non-negotiable.
+The general rule: insure against catastrophic losses you can't afford to absorb. Self-insure against small losses by maintaining an emergency fund. Extended warranties on [electronics](/electronics)? Probably not worth it. Health insurance? Non-negotiable.
 
 ## Taxes: The Largest Expense You Can (Legally) Reduce
 

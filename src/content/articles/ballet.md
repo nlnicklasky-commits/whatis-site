@@ -5,7 +5,7 @@ description: "Ballet is a highly technical form of classical dance originating i
 category: arts-amp-culture
 tags: ["ballet", "dance", "classical dance", "performing arts", "choreography", "swan lake"]
 heroImage: "/images/articles/ballet.webp"
-heroAlt: "Ballet dancer in white tutu performing an arabesque on a dimly lit stage"
+heroAlt: "Editorial photograph representing the concept of ballet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Ballet?
 
-Ballet is a formal, highly technical style of dance that originated in the Italian Renaissance courts of the 15th century and was refined into a concert art form in France and Russia over the following centuries. It's characterized by precise footwork, turnout of the legs, graceful arm positions, and the illusion of effortless movement that actually requires extraordinary strength, flexibility, and years of training.
+Ballet is a formal, highly technical style of [dance](/dance) that originated in the Italian Renaissance courts of the 15th century and was refined into a concert art form in France and Russia over the following centuries. It's characterized by precise footwork, turnout of the legs, graceful arm positions, and the illusion of effortless movement that actually requires extraordinary strength, flexibility, and years of training.
 
 ## From Court Entertainment to High Art
 
@@ -45,13 +45,13 @@ The art form continued evolving through distinct eras:
 
 **Classical Ballet (1850s-1900s)** reached its peak in Imperial Russia under choreographer Marius Petipa. *Swan Lake*, *The Sleeping Beauty*, and *The Nutcracker* — all choreographed by Petipa and set to Tchaikovsky's music — remain the most performed ballets in the world.
 
-**Neoclassical Ballet (20th century)** stripped away elaborate storytelling in favor of pure movement. George Balanchine, who founded New York City Ballet, was the chief architect — his plotless ballets explored the relationship between dance and music with minimal sets and costumes.
+**Neoclassical Ballet (20th century)** stripped away elaborate [storytelling](/storytelling) in favor of pure movement. George Balanchine, who founded New York City Ballet, was the chief architect — his plotless ballets explored the relationship between dance and music with minimal sets and costumes.
 
-**Contemporary Ballet** blends classical technique with modern dance, jazz, and other movement forms. Choreographers like William Forsythe and Crystal Pite push boundaries while maintaining ballet's technical foundation.
+**Contemporary Ballet** blends classical technique with [modern dance](/modern-dance), jazz, and other movement forms. Choreographers like William Forsythe and Crystal Pite push boundaries while maintaining ballet's technical foundation.
 
 ## What Ballet Demands of the Body
 
-The physical requirements of ballet are extreme. Professional dancers train 6-8 hours daily and maintain fitness levels comparable to elite athletes.
+The physical requirements of ballet are extreme. Professional dancers train 6-8 hours daily and maintain [fitness](/fitness) levels comparable to elite athletes.
 
 **Turnout** — rotating the legs outward from the hip socket — is the fundamental physical requirement. It allows for greater range of motion and the characteristic silhouette of ballet positions. Turnout is partly determined by skeletal structure and partly developed through years of training, though forcing turnout beyond anatomical limits causes serious hip and knee injuries.
 
@@ -75,13 +75,13 @@ This structure — barre to center to traveling — has remained essentially unc
 
 ## Major Companies and Competitions
 
-The world's leading ballet companies include the Bolshoi Ballet (Moscow), the Mariinsky Ballet (St. Petersburg), the Royal Ballet (London), Paris Opera Ballet, American Ballet Theatre, and New York City Ballet. Each has a distinctive style and repertoire — Russian companies tend toward athletic virtuosity, while French and British companies often emphasize elegance and dramatic interpretation.
+The world's leading ballet companies include the Bolshoi Ballet (Moscow), the Mariinsky Ballet (St. Petersburg), the Royal Ballet (London), Paris [Opera](/opera) Ballet, American Ballet Theatre, and New York City Ballet. Each has a distinctive style and repertoire — Russian companies tend toward athletic virtuosity, while French and British companies often emphasize elegance and dramatic interpretation.
 
 International competitions like the Prix de Lausanne, the Varna International Ballet Competition, and the Youth America Grand Prix serve as launching pads for young dancers seeking professional positions. Competition at these events is fierce — hundreds of dancers from dozens of countries compete for a handful of prizes and company contracts.
 
 ## Ballet's Cultural Impact
 
-Ballet influences far beyond the stage. It's the technical foundation for [contemporary dance](/art-history), musical theater, figure skating choreography, and rhythmic gymnastics. Fashion draws on ballet constantly — the wrap dress, the ballet flat, the leotard all originated in dance studios.
+Ballet influences far beyond the stage. It's the technical foundation for [contemporary dance](/art-history), musical theater, [figure skating](/figure-skating) choreography, and rhythmic [gymnastics](/gymnastics). Fashion draws on ballet constantly — the wrap dress, the ballet flat, the leotard all originated in dance studios.
 
 The art form has also faced criticism. Classical ballet's beauty standards — extreme thinness, specific body proportions, and historically, overwhelmingly white casting — have caused documented harm. Eating disorders are disproportionately common among ballet dancers, and the pressure to maintain a particular body type starts young.
 

@@ -5,7 +5,7 @@ description: "Phrenology was a pseudoscience claiming personality could be read 
 category: everyday-concepts
 tags: ["phrenology", "pseudoscience", "psychology", "history of science", "neuroscience", "brain"]
 heroImage: "/images/articles/phrenology.webp"
-heroAlt: "A vintage phrenology head bust with labeled sections mapped across the skull"
+heroAlt: "Editorial photograph representing the concept of phrenology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -52,9 +52,9 @@ Gall identified 27 faculties (later expanded to 37 by his student Johann Spurzhe
 
 ## The Peak Years
 
-Phrenology exploded in popularity between the 1820s and 1850s, especially in Britain and the United States. Johann Spurzheim's lecture tours drew enormous crowds. The Fowler brothers — Orson and Lorenzo — turned phrenology into a commercial empire in America, publishing books, manufacturing porcelain heads with labeled regions, and offering personal readings.
+Phrenology exploded in popularity between the 1820s and 1850s, especially in Britain and the United States. Johann Spurzheim's lecture tours drew enormous crowds. The Fowler brothers — Orson and Lorenzo — turned phrenology into a commercial empire in America, [publishing](/publishing) books, manufacturing porcelain heads with labeled regions, and offering personal readings.
 
-At its height, phrenology was taken seriously by educated people. Queen Victoria had her children's heads read. Employers used phrenological assessments to evaluate job candidates. Courts admitted phrenological evidence. Horace Mann, the father of American public education, was an enthusiast. Edgar Allan Poe wrote about it favorably. Walt Whitman included phrenological language in his poetry.
+At its height, phrenology was taken seriously by educated people. Queen Victoria had her children's heads read. Employers used phrenological assessments to evaluate job candidates. Courts admitted phrenological evidence. Horace Mann, the father of American public [education](/education), was an enthusiast. Edgar Allan Poe wrote about it favorably. Walt Whitman included phrenological language in his [poetry](/poetry).
 
 Phrenological societies formed across Europe and America. The *Phrenological Journal* ran for decades. Professional phrenologists set up consulting offices in major cities. Getting your head read was both entertainment and — people believed — genuine self-knowledge.
 
@@ -74,13 +74,13 @@ The scientific problems were devastating and, frankly, obvious even at the time 
 
 Phrenology didn't just fail as science — it caused real harm. It was used to justify racism, colonialism, and social hierarchies. Phrenologists measured skulls of different racial groups and concluded — surprise — that European skulls showed superior intellectual and moral traits. These "findings" were used to justify slavery, oppose immigration, and support eugenic policies.
 
-The logic was circular: define "superior" traits, locate them on European skulls, then declare Europeans superior because their skulls have those traits. But it was dressed in the language of science, which gave it authority and made it dangerous.
+The [logic](/logic) was circular: define "superior" traits, locate them on European skulls, then declare Europeans superior because their skulls have those traits. But it was dressed in the language of science, which gave it authority and made it dangerous.
 
 Samuel Morton's skull collection at the University of Pennsylvania, which he used to rank races by cranial capacity, was directly influenced by phrenological thinking. Stephen Jay Gould later demonstrated that Morton's measurements were biased — but the damage to millions of people was already done.
 
 ## The Ironic Legacy
 
-Here's the strange part: phrenology was wrong about almost everything specific, but it helped establish a general idea that turned out to be correct — that different brain regions handle different functions. This principle of cerebral localization was vindicated not by phrenology but by clinical neuroscience.
+Here's the strange part: phrenology was wrong about almost everything specific, but it helped establish a general idea that turned out to be correct — that different brain regions handle different functions. This principle of cerebral localization was vindicated not by phrenology but by clinical [neuroscience](/neuroscience).
 
 In 1861, Paul Broca discovered that damage to a specific area of the left frontal lobe (now called Broca's area) caused speech difficulties. This was genuine localization, discovered through careful clinical observation — exactly the method phrenology claimed to use but actually didn't.
 

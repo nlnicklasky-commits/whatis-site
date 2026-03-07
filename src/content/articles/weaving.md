@@ -5,7 +5,7 @@ description: "Weaving is the craft of interlacing threads on a loom to create fa
 category: everyday-concepts
 tags: ["weaving", "textiles", "fiber arts", "crafts", "loom", "fabric"]
 heroImage: "/images/articles/weaving.webp"
-heroAlt: "Colorful yarn threaded through a wooden loom with a half-finished woven textile"
+heroAlt: "Editorial photograph representing the concept of weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Weaving?
 
-Weaving is the process of interlacing two sets of threads — the warp (vertical threads held under tension) and the weft (horizontal threads passed through the warp) — to create fabric. It's one of humanity's oldest technologies, predating pottery and metallurgy, and it remains fundamental to how we make clothing, textiles, and decorative fabrics. Every piece of woven fabric you own — your jeans, your bed sheets, your dish towels — was created through the same basic principle: threads crossing over and under other threads.
+Weaving is the process of interlacing two sets of threads — the warp (vertical threads held under tension) and the weft (horizontal threads passed through the warp) — to create fabric. It's one of humanity's oldest technologies, predating [pottery](/pottery) and metallurgy, and it remains fundamental to how we make clothing, textiles, and decorative fabrics. Every piece of woven fabric you own — your jeans, your bed sheets, your dish towels — was created through the same basic principle: threads crossing over and under other threads.
 
 ## The Fundamental Mechanic
 

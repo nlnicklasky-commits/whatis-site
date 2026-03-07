@@ -5,7 +5,7 @@ description: "Prehistoric art includes cave paintings, carvings, and sculptures 
 category: arts-amp-culture
 tags: ["prehistoric art", "cave paintings", "paleolithic art", "neolithic art", "archaeology", "ancient art"]
 heroImage: "/images/articles/prehistoric-art.webp"
-heroAlt: "Ancient cave painting of animals on a rough stone wall"
+heroAlt: "Editorial photograph representing the concept of prehistoric art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Prehistoric Art?
 
-Prehistoric art is any visual art created before the invention of writing systems — which means before roughly 3500-3000 BCE in Mesopotamia and Egypt, though the cutoff varies by region. It includes cave paintings, rock engravings, carved figurines, decorated tools, megalithic monuments, and the earliest known sculptures. This is art made by people who left no written explanation of what they were doing or why, which makes interpreting it one of the most fascinating and frustrating challenges in archaeology.
+Prehistoric art is any visual art created before the [invention](/invention) of writing systems — which means before roughly 3500-3000 BCE in Mesopotamia and Egypt, though the cutoff varies by region. It includes cave paintings, rock engravings, carved figurines, decorated tools, megalithic monuments, and the earliest known sculptures. This is art made by people who left no written explanation of what they were doing or why, which makes interpreting it one of the most fascinating and frustrating challenges in [archaeology](/archaeology).
 
 ## The Oldest Evidence
 
@@ -49,11 +49,11 @@ The cave paintings of Europe are the most famous prehistoric art, and they remai
 
 **Lascaux** (France, ~17,000 years old) contains about 600 painted figures and nearly 1,500 engravings. The Hall of the Bulls features paintings of aurochs (extinct wild cattle) up to 17 feet long, rendered with astonishing accuracy and dynamism. The animals gallop, turn, and overlap. Some show seasonal details — summer coats, pregnancy — suggesting close observation over long periods.
 
-**Chauvet-Pont-d'Arc** (France, ~36,000 years old) pushed the timeline back dramatically when discovered in 1994. Its paintings are among the oldest in Europe, yet they're sophisticated — lions, bears, rhinoceroses, and horses depicted with shading, perspective, and movement that wouldn't look out of place in a Renaissance drawing. One panel shows a sequence of lions that appears to depict motion, almost like animation frames.
+**Chauvet-Pont-d'Arc** (France, ~36,000 years old) pushed the timeline back dramatically when discovered in 1994. Its paintings are among the oldest in Europe, yet they're sophisticated — lions, bears, rhinoceroses, and horses depicted with shading, perspective, and movement that wouldn't look out of place in a Renaissance [drawing](/drawing). One panel shows a sequence of lions that appears to depict motion, almost like [animation](/animation) frames.
 
 **Altamira** (Spain, ~14,000-36,000 years old) was the first cave art site to be taken seriously, discovered in 1879. Its ceiling paintings of bison — using the natural contours of the rock to create three-dimensional effects — were so skillful that experts initially accused the discoverer of forgery.
 
-**Sulawesi** (Indonesia, ~45,500+ years old) contains the oldest known figurative painting — a pig, rendered in red ochre on a cave wall. Discoveries in Indonesia since 2014 have challenged the assumption that cave art was a European phenomenon. The tradition may have originated in Africa or Southeast Asia and traveled with human migration.
+**Sulawesi** (Indonesia, ~45,500+ years old) contains the oldest known figurative [painting](/painting) — a pig, rendered in red ochre on a cave wall. Discoveries in Indonesia since 2014 have challenged the assumption that cave art was a European phenomenon. The tradition may have originated in Africa or Southeast Asia and traveled with human migration.
 
 ## Portable Art
 
@@ -63,15 +63,15 @@ The **Venus figurines** are the most discussed. These small carved figures of wo
 
 What do they represent? Theories include fertility symbols, self-portraits (women looking down at their own bodies), religious icons, or simply aesthetic appreciation of the human form. Nobody knows for certain. The fact that similar figures appear across thousands of miles and thousands of years suggests they carried significant cultural meaning.
 
-**Carved animals** — horses, bison, birds, fish — appear on bone, antler, and ivory objects throughout the Upper Paleolithic. The Lion-Man of Hohlenstein-Stadel (Germany, ~40,000 years old) is a 12-inch mammoth ivory sculpture of a human body with a cave lion's head. It's the oldest known figurative sculpture and clearly represents an imaginary being — evidence of the ability to conceive things that don't exist in reality.
+**Carved animals** — horses, bison, birds, fish — appear on bone, antler, and ivory objects throughout the Upper Paleolithic. The Lion-Man of Hohlenstein-Stadel (Germany, ~40,000 years old) is a 12-inch mammoth ivory [sculpture](/sculpture) of a human body with a cave lion's head. It's the oldest known figurative sculpture and clearly represents an imaginary being — evidence of the ability to conceive things that don't exist in reality.
 
 ## Megaliths and Monuments
 
-During the Neolithic period (roughly 10,000-3,000 BCE, depending on region), as humans shifted from hunting and gathering to farming, art and architecture scaled up dramatically.
+During the Neolithic period (roughly 10,000-3,000 BCE, depending on region), as humans shifted from hunting and gathering to farming, art and [architecture](/architecture) scaled up dramatically.
 
-**Stonehenge** (England, ~3000-2000 BCE) is the most famous megalithic monument, but it's one of thousands across Europe. Gobekli Tepe in Turkey (~9500 BCE) is far older — massive carved stone pillars erected by hunter-gatherers, predating agriculture and pottery. Its discovery forced archaeologists to reconsider the assumption that monumental construction required settled, agricultural societies.
+**Stonehenge** (England, ~3000-2000 BCE) is the most famous megalithic monument, but it's one of thousands across Europe. Gobekli Tepe in Turkey (~9500 BCE) is far older — massive carved stone pillars erected by hunter-gatherers, predating [agriculture](/agriculture) and pottery. Its discovery forced archaeologists to reconsider the assumption that monumental [construction](/construction) required settled, agricultural societies.
 
-**Newgrange** (Ireland, ~3200 BCE) is a passage tomb decorated with spirals, diamonds, and concentric circles carved into massive stones. The passage is precisely aligned so that sunlight reaches the inner chamber only at dawn on the winter solstice — a feat of astronomical observation and engineering that predates the pyramids by 500 years.
+**Newgrange** (Ireland, ~3200 BCE) is a passage tomb decorated with spirals, diamonds, and concentric circles carved into massive stones. The passage is precisely aligned so that sunlight reaches the inner chamber only at dawn on the winter solstice — a feat of astronomical observation and [engineering](/engineering) that predates the pyramids by 500 years.
 
 Rock art traditions continued worldwide through the Neolithic and into more recent periods. Aboriginal Australian rock art — some dating back over 20,000 years — represents the longest continuous art tradition on Earth. The San people of southern Africa created rock art for thousands of years, with some images possibly dating to 27,000 years ago.
 

@@ -5,7 +5,7 @@ description: "Electronic music is created primarily with electronic instruments 
 category: arts-amp-culture
 tags: ["electronic music", "music", "synthesizer", "sampling", "digital music", "genre"]
 heroImage: "/images/articles/electronic-music.webp"
-heroAlt: "A DJ performing on synthesizers and drum machines with colorful LED lights in the background"
+heroAlt: "Editorial photograph representing the concept of electronic music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Electronic music is music produced primarily using electronic instruments, digit
 
 Electronic music begins with inventors building new instruments.
 
-The **Theremin** (1920), created by Russian physicist Leon Theremin, was the first electronic instrument played without physical contact — the performer waves their hands near two antennas that control pitch and volume. Its eerie, wavering tone became the sound of 1950s science fiction films and later featured in work by the Beach Boys and Led Zeppelin.
+The **Theremin** (1920), created by Russian physicist Leon Theremin, was the first electronic instrument played without physical contact — the performer waves their hands near two antennas that control pitch and volume. Its eerie, wavering tone became the sound of 1950s [science fiction](/science-fiction) films and later featured in work by the Beach Boys and Led Zeppelin.
 
-**Musique concrete**, developed by Pierre Schaeffer in Paris in 1948, manipulated recorded sounds — train noises, piano notes, voices — by cutting, splicing, and transforming magnetic tape. For the first time, any sound could become music. This idea — that music isn't limited to traditional notes played on traditional instruments — is the philosophical foundation of all electronic music.
+**Musique concrete**, developed by Pierre Schaeffer in Paris in 1948, manipulated recorded sounds — train noises, [piano](/piano) notes, voices — by cutting, splicing, and transforming magnetic tape. For the first time, any sound could become music. This idea — that music isn't limited to traditional notes played on traditional instruments — is the philosophical foundation of all electronic music.
 
-**Karlheinz Stockhausen** at the WDR studio in Cologne created compositions from purely electronically generated sounds in the 1950s. His work was academic, cerebral, and deliberately challenging — but it proved that compelling music could be built entirely from electronic oscillators and [audio processing](/digital-logic).
+**Karlheinz Stockhausen** at the WDR studio in Cologne created compositions from purely electronically generated sounds in the 1950s. His work was academic, cerebral, and deliberately challenging — but it proved that compelling music could be built entirely from electronic oscillators and [audio processing](/digital-[logic](/logic)).
 
 ## Synthesizers Change Everything
 
@@ -49,7 +49,7 @@ The **Moog synthesizer** (developed by Robert Moog in the mid-1960s) made electr
 
 Through the 1970s, synthesizers became studio staples. Progressive rock bands (Emerson, Lake & Palmer; Tangerine Dream; Yes) used them for epic, textured soundscapes. But synths remained expensive and complicated — until the early 1980s.
 
-The **Roland TR-808** drum machine (1980), the **Yamaha DX7** synthesizer (1983), and the **Roland TB-303** bass synthesizer (1981) were all commercial disappointments initially — musicians found them too artificial. But producers in Chicago, Detroit, and New York discovered that their "artificial" sounds, pushed to extremes, created entirely new musical aesthetics. The 808's booming bass drum became the backbone of hip-hop. The 303's squelchy, acid tones became the signature of acid house. These "failures" defined modern music.
+The **Roland TR-808** drum machine (1980), the **Yamaha DX7** synthesizer (1983), and the **Roland TB-303** bass synthesizer (1981) were all commercial disappointments initially — musicians found them too artificial. But producers in Chicago, Detroit, and New York discovered that their "artificial" sounds, pushed to extremes, created entirely new musical [aesthetics](/aesthetics). The 808's booming bass drum became the backbone of hip-hop. The 303's squelchy, acid tones became the signature of acid house. These "failures" defined modern music.
 
 ## The Genre Explosion
 
@@ -57,7 +57,7 @@ The **Roland TR-808** drum machine (1980), the **Yamaha DX7** synthesizer (1983)
 
 **Techno** emerged simultaneously in Detroit, created by Juan Atkins, Derrick May, and Kevin Saunderson (the "Belleville Three"). Techno was more mechanical, more futuristic, and more influenced by Kraftwerk's robotic aesthetic than house's soulful warmth. The Belleville Three were African American suburbanites imagining the sound of a post-industrial future. Their vision became the soundtrack of Berlin nightclubs and raves worldwide.
 
-**Ambient** music (Brian Eno's term, from his 1978 album *Ambient 1: Music for Airports*) created atmospheric electronic soundscapes designed for immersive listening rather than [dancing](/dance). Ambient influenced everything from film scoring to meditation apps to airport terminal design.
+**Ambient** music (Brian Eno's term, from his 1978 album *Ambient 1: Music for Airports*) created atmospheric electronic soundscapes designed for immersive listening rather than [dancing](/dance). Ambient influenced everything from film scoring to [meditation](/meditation) apps to airport terminal design.
 
 **Rave culture** in the late 1980s-early 1990s brought electronic music to mass audiences. Illegal warehouse parties and outdoor festivals in the UK, driven by acid house and ecstasy, became a genuine youth movement — and a genuine moral panic. The Criminal Justice and Public Order Act (1994) in Britain actually banned gatherings featuring "music characterized by a succession of repetitive beats."
 
@@ -65,7 +65,7 @@ The **Roland TR-808** drum machine (1980), the **Yamaha DX7** synthesizer (1983)
 
 ## Production and Tools
 
-Modern electronic music production has been democratized by software. A laptop running **Ableton Live**, **FL Studio**, **Logic Pro**, or **Bitwig Studio** provides capabilities that would have cost millions in studio equipment 30 years ago.
+Modern electronic [music production](/music-production) has been democratized by software. A laptop [running](/running) **Ableton Live**, **FL Studio**, **Logic Pro**, or **Bitwig Studio** provides capabilities that would have cost millions in studio equipment 30 years ago.
 
 **MIDI** (Musical Instrument Digital Interface), standardized in 1983, allows electronic instruments and computers to communicate. A MIDI keyboard doesn't produce sound itself — it sends note data to software instruments that can emulate any sound imaginable.
 

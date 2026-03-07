@@ -5,7 +5,7 @@ description: "World War II (1939-1945) was the deadliest conflict in human histo
 category: history
 tags: ["wwii", "second world war", "global conflict", "military history"]
 heroImage: "/images/articles/world-war-ii.webp"
-heroAlt: "Black and white photograph of soldiers landing on a beach during World War II"
+heroAlt: "Editorial photograph representing the concept of world war ii"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,15 +35,15 @@ faq:
 
 # What Is World War II?
 
-World War II (1939–1945) was the largest and deadliest armed conflict in human history. It involved over 30 countries, killed an estimated 70 to 85 million people, and reshaped virtually every aspect of the modern world — from international borders and political alliances to technology, economics, and human rights law. The war pitted the Allied powers (primarily Britain, the Soviet Union, the United States, and China) against the Axis powers (Germany, Italy, and Japan) across every inhabited continent and most of the world's oceans.
+World War II (1939–1945) was the largest and deadliest armed conflict in human history. It involved over 30 countries, killed an estimated 70 to 85 million people, and reshaped virtually every aspect of the modern world — from international borders and political alliances to technology, [economics](/economics), and [human rights law](/human-rights-law). The war pitted the Allied powers (primarily Britain, the Soviet Union, the United States, and China) against the Axis powers (Germany, Italy, and Japan) across every inhabited continent and most of the world's oceans.
 
 ## The Road to War
 
-World War II didn't spring from nothing. Its roots trace directly to the aftermath of World War I and the political chaos of the 1920s and 1930s.
+World War II didn't spring from nothing. Its roots trace directly to the aftermath of [World War I](/world-war-i) and the political chaos of the 1920s and 1930s.
 
 The Treaty of Versailles (1919), which ended the First World War, imposed severe terms on Germany: massive reparation payments, territorial losses, military restrictions, and a "war guilt" clause forcing Germany to accept full responsibility for the conflict. Many Germans viewed these terms as humiliating and unjust — a grievance that Adolf Hitler and the Nazi Party exploited ruthlessly.
 
-The Great Depression, beginning in 1929, devastated economies worldwide and created conditions perfect for extremist movements. In Germany, unemployment reached 30% by 1932. Italy had already turned to Benito Mussolini's fascist government in 1922. Japan's military establishment was gaining increasing control over civilian government and pursuing imperial expansion in Asia.
+The Great Depression, beginning in 1929, devastated economies worldwide and created conditions perfect for extremist movements. In Germany, unemployment reached 30% by 1932. Italy had already turned to Benito Mussolini's fascist [government](/government) in 1922. Japan's military establishment was gaining increasing control over civilian government and pursuing imperial expansion in Asia.
 
 Hitler became Chancellor of Germany in January 1933. Within 18 months, he had dismantled the democratic Weimar Republic, established a one-party dictatorship, begun rearming in violation of Versailles, and started persecuting Jews and other minorities. The Western democracies — exhausted by WWI and paralyzed by the Depression — watched and did remarkably little.
 
@@ -61,7 +61,7 @@ The speed of France's collapse stunned the world. Britain now stood alone agains
 
 ### The Battle of Britain and the Eastern Front
 
-The Battle of Britain (July–October 1940) was the first military campaign fought entirely in the air. The German Luftwaffe attempted to destroy the Royal Air Force as a precursor to invasion. They failed — narrowly. RAF Fighter Command, aided by radar technology and the cracking of German communications codes, shot down enough aircraft to make invasion impractical. Winston Churchill famously said of the RAF pilots: "Never in the field of human conflict was so much owed by so many to so few."
+The Battle of Britain (July–October 1940) was the first military campaign fought entirely in the air. The German Luftwaffe attempted to destroy the Royal Air Force as a precursor to invasion. They failed — narrowly. RAF Fighter Command, aided by [radar technology](/radar-technology) and the cracking of German communications codes, shot down enough aircraft to make invasion impractical. Winston Churchill famously said of the RAF pilots: "Never in the field of human conflict was so much owed by so many to so few."
 
 But the war's most massive and brutal theater was the Eastern Front. On June 22, 1941, Germany invaded the Soviet Union with over 3 million soldiers in Operation Barbarossa — the largest military operation in history. Initial German advances were spectacular, reaching the outskirts of Moscow by December 1941.
 
@@ -109,11 +109,11 @@ World War II remade the global order in ways that persist today.
 
 **The United Nations** was founded in 1945 to prevent future wars, replacing the failed League of Nations. The Universal Declaration of Human Rights (1948) was a direct response to the Holocaust and wartime atrocities.
 
-**The Cold War** began almost immediately, as the wartime alliance between the Western democracies and the Soviet Union fractured. Europe was divided by the Iron Curtain. The nuclear arms race commenced. This standoff would dominate global politics for 45 years.
+**The Cold War** began almost immediately, as the wartime alliance between the Western democracies and the Soviet Union fractured. Europe was divided by the Iron Curtain. The nuclear arms race commenced. This standoff would dominate global [politics](/politics) for 45 years.
 
 **Decolonization** accelerated rapidly. The war had weakened European colonial powers and demonstrated that Asian and African peoples could resist Western domination. India gained independence in 1947, Indonesia in 1949, and dozens of African nations in the 1950s and 1960s.
 
-**The European project** — the slow construction of what became the European Union — was born from the determination that European nations should never again go to war with each other. The EU, whatever its flaws, has achieved that goal for nearly 80 years.
+**The European project** — the slow [construction](/construction) of what became the European Union — was born from the determination that European nations should never again go to war with each other. The EU, whatever its flaws, has achieved that goal for nearly 80 years.
 
 **Technological change** from the war was enormous. Radar, jet engines, antibiotics (penicillin was mass-produced for D-Day), nuclear energy, rocketry, and early computing all received massive wartime investment that accelerated development by decades.
 

@@ -5,7 +5,7 @@ description: "Pediatrics is the medical specialty focused on the health of infan
 category: health-amp-wellness
 tags: ["pediatrics", "child health", "children's medicine", "healthcare"]
 heroImage: "/images/articles/pediatrics.webp"
-heroAlt: "A pediatrician examining a young child with a stethoscope in a colorful clinic"
+heroAlt: "Editorial photograph representing the concept of pediatrics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,11 +39,11 @@ Pediatrics is the branch of medicine dedicated to the health, development, and m
 
 ## Why Kids Need Their Own Doctors
 
-This seems obvious now, but it wasn't always. For most of medical history, children were treated by the same doctors who treated adults, using scaled-down adult treatments. The results were often terrible.
+This seems obvious now, but it wasn't always. For most of [medical history](/medical-history), children were treated by the same doctors who treated adults, using scaled-down adult treatments. The results were often terrible.
 
 Children aren't miniature adults. Their organs are still developing. Their immune systems are immature. Their body proportions are different — a baby's head is proportionally enormous compared to an adult's, which matters when you're calculating drug doses or assessing injury patterns. The diseases that affect children most are different from those that affect adults: congenital conditions, growth disorders, childhood cancers, infectious diseases that adults have already built immunity to.
 
-Drug dosing alone illustrates the problem. Children metabolize medications differently than adults. A dose that works for a 180-pound adult can be toxic to a 30-pound child — or completely ineffective. Pediatric pharmacology requires constant recalculation based on weight, body surface area, and developmental stage.
+Drug dosing alone illustrates the problem. Children metabolize medications differently than adults. A dose that works for a 180-pound adult can be toxic to a 30-pound child — or completely ineffective. Pediatric [pharmacology](/pharmacology) requires constant recalculation based on weight, body surface area, and developmental stage.
 
 The recognition that children need specialized medical care came gradually. Abraham Jacobi, a German-born physician who immigrated to New York, is widely considered the father of American pediatrics. He established the first pediatric clinic in the U.S. in 1860 and spent decades arguing that children's medicine deserved to be its own discipline. The American Academy of Pediatrics was founded in 1930, and pediatric training programs became standard at medical schools throughout the mid-20th century.
 
@@ -67,7 +67,7 @@ Kids get sick. A lot. The average child under 5 has 6 to 8 upper respiratory inf
 
 Most childhood illnesses are self-limiting viral infections that need only supportive care. But pediatricians must constantly distinguish the common and benign from the rare and dangerous. That feverish 4-week-old who "probably just has a cold" could have bacterial meningitis. A limp in a toddler might be a muscle strain or an early sign of leukemia. Pediatric training hammers home the differential diagnosis — the list of possible explanations for every symptom — because missing a serious diagnosis in a child has catastrophic consequences.
 
-### Chronic Disease Management
+### Chronic Disease [Management](/management)
 
 Some children face ongoing health challenges. Asthma is the most common chronic childhood disease in the United States, affecting about 6 million children. Type 1 diabetes, epilepsy, sickle cell disease, cystic fibrosis, congenital heart defects — these conditions require long-term monitoring and coordination with specialists.
 
@@ -85,7 +85,7 @@ General pediatrics is just the starting point. Pediatric subspecialties mirror a
 
 **Pediatric neurology** handles seizure disorders, developmental delays, headaches, nerve and muscle disorders, and brain conditions in children.
 
-**Pediatric endocrinology** manages hormonal conditions — diabetes, growth disorders, thyroid problems, and early or delayed puberty.
+**Pediatric [endocrinology](/endocrinology)** manages hormonal conditions — diabetes, growth disorders, thyroid problems, and early or delayed puberty.
 
 **Developmental-behavioral pediatrics** specializes in conditions like autism spectrum disorder, ADHD, learning disabilities, and behavioral challenges. With autism rates now estimated at 1 in 36 children in the U.S. (per CDC 2023 data), this subspecialty is now more busy.
 
@@ -93,19 +93,19 @@ There are at least 20 recognized pediatric subspecialties in total. Each require
 
 ## The Numbers That Tell the Story
 
-Some statistics about children's health put the field in perspective.
+Some [statistics](/statistics) about children's health put the field in perspective.
 
-Global child mortality has fallen dramatically: in 1990, about 12.6 million children under 5 died annually. By 2022, that number had dropped to roughly 4.9 million — still too many, but a 61% reduction that represents one of the greatest public health achievements in human history. Better nutrition, clean water, immunization programs, and improved access to basic pediatric care drove most of that improvement.
+Global child mortality has fallen dramatically: in 1990, about 12.6 million children under 5 died annually. By 2022, that number had dropped to roughly 4.9 million — still too many, but a 61% reduction that represents one of the greatest [public health](/public-health) achievements in human history. Better nutrition, clean water, immunization programs, and improved access to basic pediatric care drove most of that improvement.
 
 In the United States, the picture is more complicated. While infant mortality has declined overall, it remains stubbornly higher than in most other high-income nations — about 5.4 per 1,000 live births compared to 2 to 3 per 1,000 in countries like Japan, Finland, and Sweden. Racial disparities are glaring: the infant mortality rate for Black infants in the U.S. is more than double that for white infants.
 
-Mental health has emerged as a growing crisis. Before the COVID-19 pandemic, rates of anxiety and depression in children and teens were already climbing. The pandemic accelerated the trend sharply. Emergency department visits for mental health crises among adolescents increased by over 30% between 2019 and 2021. The AAP, the American Academy of Child and Adolescent Psychiatry, and the Children's Hospital Association jointly declared a national emergency in children's mental health in October 2021.
+[Mental health](/mental-health) has emerged as a growing crisis. Before the COVID-19 pandemic, rates of anxiety and depression in children and teens were already climbing. The pandemic accelerated the trend sharply. Emergency department visits for mental health crises among adolescents increased by over 30% between 2019 and 2021. The AAP, the American Academy of Child and Adolescent [Psychiatry](/psychiatry), and the Children's Hospital Association jointly declared a national emergency in children's mental health in October 2021.
 
 ## Becoming a Pediatrician
 
-The training path: four years of undergraduate education, four years of medical school, then a three-year pediatric residency. Subspecialists add another three years of fellowship.
+The training path: four years of undergraduate [education](/education), four years of medical school, then a three-year pediatric residency. Subspecialists add another three years of fellowship.
 
-Pediatric residency is intense. Residents rotate through general pediatrics, the NICU, the PICU (Pediatric Intensive Care Unit), emergency medicine, adolescent medicine, and various subspecialties. They learn to care for every age from a 500-gram premature infant to an 18-year-old college student.
+Pediatric residency is intense. Residents rotate through general pediatrics, the NICU, the PICU (Pediatric Intensive Care Unit), [emergency medicine](/emergency-medicine), adolescent medicine, and various subspecialties. They learn to care for every age from a 500-gram premature infant to an 18-year-old college student.
 
 There are roughly 60,000 practicing general pediatricians in the United States, plus thousands more in subspecialties. It's one of the larger medical specialties, reflecting the enormous patient population — about 73 million Americans are under 18.
 

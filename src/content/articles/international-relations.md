@@ -5,7 +5,7 @@ description: "International relations studies how countries interact through dip
 category: everyday-concepts
 tags: ["international relations", "global politics", "diplomacy", "foreign policy", "international law", "geopolitics"]
 heroImage: "/images/articles/international-relations.webp"
-heroAlt: "Flags of many nations outside a United Nations building"
+heroAlt: "Editorial photograph representing the concept of international relations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is International Relations?
 
-International relations (IR) is the study of how countries, international organizations, corporations, and other actors interact on the global stage. It covers diplomacy, war, trade, alliances, human rights, environmental agreements, migration, and everything else that happens between states — or that requires cooperation across borders to address.
+International relations (IR) is the study of how countries, international organizations, corporations, and other actors interact on the global stage. It covers [diplomacy](/diplomacy), war, [trade](/trade), alliances, human rights, environmental agreements, migration, and everything else that happens between states — or that requires cooperation across borders to address.
 
 ## Why Countries Do What They Do
 
 The central question of IR is simple: why do states behave the way they do? The answers depend on which theoretical framework you find most persuasive.
 
-**Realism** — the oldest and most influential perspective — argues that international politics is fundamentally about power. There is no world government (the system is "anarchic"), so each state must ensure its own survival. States build militaries, form alliances, and compete for influence because nobody else will protect them. Realists predict that great powers will always compete, cooperation is fragile, and international institutions only work when powerful states find them useful.
+**Realism** — the oldest and most influential perspective — argues that international [politics](/politics) is fundamentally about power. There is no world [government](/government) (the system is "anarchic"), so each state must ensure its own survival. States build militaries, form alliances, and compete for influence because nobody else will protect them. Realists predict that great powers will always compete, cooperation is fragile, and international institutions only work when powerful states find them useful.
 
-**Liberalism** offers a more optimistic view. International institutions (the UN, WTO, NATO), economic interdependence (trade), and democratic governance can create frameworks for cooperation that benefit everyone. Trade makes war expensive. Institutions provide forums for resolving disputes. Democracies rarely fight each other (the "democratic peace" theory). Liberals acknowledge that the system is anarchic but argue that anarchy can be managed.
+**[Liberalism](/liberalism)** offers a more optimistic view. International institutions (the UN, WTO, NATO), economic interdependence (trade), and democratic governance can create frameworks for cooperation that benefit everyone. Trade makes war expensive. Institutions provide forums for resolving disputes. Democracies rarely fight each other (the "democratic peace" theory). Liberals acknowledge that the system is anarchic but argue that anarchy can be managed.
 
 **Constructivism** focuses on ideas, norms, and identities. The Cold War ended not because of military defeat but because Soviet leaders changed their beliefs about their system. Human rights norms spread because activists and organizations changed expectations about how states should treat their citizens. International politics is not fixed by material factors — it is constructed by the ideas people hold.
 
@@ -49,7 +49,7 @@ The central question of IR is simple: why do states behave the way they do? The 
 
 **NATO** (1949) — a military alliance of 32 countries committed to collective defense. An attack on one member is treated as an attack on all. Originally created to counter the Soviet Union, NATO expanded after the Cold War to include former Warsaw Pact countries — a decision that remains bitterly controversial.
 
-**The World Trade Organization** (1995) — sets rules for international trade and resolves trade disputes. It oversees roughly 98% of world trade and operates by consensus, which makes negotiations slow but outcomes broadly accepted.
+**The World Trade Organization** (1995) — sets rules for [international trade](/international-trade) and resolves trade disputes. It oversees roughly 98% of world trade and operates by consensus, which makes negotiations slow but outcomes broadly accepted.
 
 **The European Union** — the most ambitious international organization in history. Twenty-seven countries share a common market, a common currency (for 20 of them), and supranational institutions that make binding law. It demonstrates both the possibilities and difficulties of deep international cooperation.
 
@@ -69,7 +69,7 @@ States are not the only players. International politics increasingly involves:
 
 **International organizations** — the UN, WTO, IMF, WHO, and hundreds of others shape rules, norms, and responses to global challenges.
 
-**Multinational corporations** — Apple, Shell, Nestle, and other global companies have revenues exceeding the GDP of many countries. Their investment decisions, supply chains, and lobbying efforts influence state behavior.
+**Multinational corporations** — Apple, Shell, Nestle, and other global companies have revenues exceeding the GDP of many countries. Their investment decisions, supply chains, and [lobbying](/lobbying) efforts influence state behavior.
 
 **NGOs** — organizations like Amnesty International, Greenpeace, and Doctors Without Borders advocate for human rights, environmental protection, and humanitarian action. They shape public opinion and hold governments accountable.
 
@@ -83,6 +83,6 @@ States are not the only players. International politics increasingly involves:
 
 **Migration** — over 100 million people are forcibly displaced worldwide. Managing migration flows while respecting human rights strains international cooperation.
 
-**Technology competition** — artificial intelligence, quantum computing, and biotechnology are becoming arenas of great-power competition with implications for military capability, economic power, and social control.
+**Technology competition** — [artificial intelligence](/artificial-intelligence), [quantum computing](/quantum-computing), and [biotechnology](/biotechnology) are becoming arenas of great-power competition with implications for military capability, economic power, and social control.
 
 The world is more interconnected than ever before, yet the tools for managing that interconnection remain underdeveloped. How to govern a globalized world without a global government is the defining challenge of international relations.

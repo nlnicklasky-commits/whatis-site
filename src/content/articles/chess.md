@@ -5,7 +5,7 @@ description: "Chess is a two-player strategy board game played on a 64-square bo
 category: everyday-concepts
 tags: ["chess", "board games", "strategy", "competition", "games", "puzzles"]
 heroImage: "/images/articles/chess.webp"
-heroAlt: "Chess pieces arranged on a wooden board with dramatic lighting on the king"
+heroAlt: "Editorial photograph representing the concept of chess"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Chess?
 
-Chess is a two-player strategy game played on an 8x8 board with 32 pieces — 16 per side — where each piece type moves differently and the objective is to trap the opponent's king in an inescapable attack called checkmate. It has been played for roughly 1,500 years, is recognized in virtually every country on Earth, and has approximately 600 million active players worldwide. No other game has generated as much theory, literature, competition, and cultural significance.
+Chess is a two-player strategy game played on an 8x8 board with 32 pieces — 16 per side — where each piece type moves differently and the objective is to trap the opponent's king in an inescapable attack called checkmate. It has been played for roughly 1,500 years, is recognized in virtually every country on Earth, and has approximately 600 million active players worldwide. No other game has generated as much theory, [literature](/literature), competition, and cultural significance.
 
 ## The Game That Measures Minds
 
-Chess occupies a unique position among games. It's complex enough to remain unsolved (approximately 10^120 possible games — more than atoms in the observable universe), but simple enough that a child can learn the rules in an afternoon. It's been used as a metaphor for intelligence, war, politics, and life itself for centuries. And it's one of the few activities where a 10-year-old prodigy can defeat a seasoned adult, where the mind's raw processing power matters more than experience, physical ability, or social skills.
+Chess occupies a unique position among games. It's complex enough to remain unsolved (approximately 10^120 possible games — more than atoms in the observable universe), but simple enough that a child can learn the rules in an afternoon. It's been used as a metaphor for intelligence, war, [politics](/politics), and life itself for centuries. And it's one of the few activities where a 10-year-old prodigy can defeat a seasoned adult, where the mind's raw processing power matters more than experience, physical ability, or social skills.
 
 The game originated in India around the 6th century CE as *chaturanga*, a four-player war simulation. It spread to Persia (where it became *shatranj*), then to the Arab world, and arrived in Europe by the 10th century. The modern rules — including the queen's powerful movement and the two-square initial pawn advance — were established in Spain and Italy around the late 15th century. The game hasn't changed since.
 
@@ -77,7 +77,7 @@ Some endgame positions are mathematically determined. King and rook vs. king is 
 
 ## Computers and Chess
 
-The relationship between chess and computers is one of the great intellectual stories of the 20th century. Claude Shannon published his seminal paper on computer chess in 1950. IBM's Deep Blue defeated world champion Garry Kasparov in 1997 — a watershed moment in artificial intelligence.
+The relationship between chess and computers is one of the great intellectual stories of the 20th century. Claude Shannon published his seminal paper on computer chess in 1950. IBM's Deep Blue defeated world champion Garry Kasparov in 1997 — a watershed moment in [artificial intelligence](/artificial-intelligence).
 
 But the real revolution came later. Google DeepMind's AlphaZero, in 2017, taught itself chess from scratch (knowing only the rules, with no human games to study) and within 4 hours was playing at a level that crushed Stockfish, the strongest traditional engine. AlphaZero's style was revelatory — it played with a creativity and willingness to sacrifice material that human grandmasters found both beautiful and alien.
 
@@ -87,7 +87,7 @@ Today's top engines play at a level perhaps 600 rating points above the best hum
 
 Chess experienced an enormous popularity surge starting around 2020, driven by the COVID-19 pandemic (people trapped at home), the Netflix series *The Queen's Gambit*, and streaming personalities like Hikaru Nakamura and Levy Rozman (GothamChess). Chess.com grew from 30 million registered users in 2019 to over 150 million by 2023. Lichess.org, the open-source alternative, also saw dramatic growth.
 
-Online chess is faster-paced than traditional tournament chess. Bullet (1 minute per player), blitz (3-5 minutes), and rapid (10-15 minutes) formats dominate online play. The speed creates a different skill set — pattern recognition and intuition matter more than deep calculation when you have seconds per move.
+Online chess is faster-paced than traditional tournament chess. Bullet (1 minute per player), blitz (3-5 minutes), and rapid (10-15 minutes) formats dominate online play. The speed creates a different skill set — [pattern recognition](/pattern-recognition) and intuition matter more than deep calculation when you have seconds per move.
 
 ## Why Chess Endures
 

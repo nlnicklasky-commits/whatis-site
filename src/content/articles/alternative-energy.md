@@ -5,7 +5,7 @@ description: "Alternative energy comes from sources other than fossil fuels. Lea
 category: technology
 tags: ["alternative energy", "renewable energy", "solar power", "wind power", "geothermal", "sustainability", "clean energy"]
 heroImage: "/images/articles/alternative-energy-hero.webp"
-heroAlt: "Solar panels and wind turbines generating clean electricity under a blue sky"
+heroAlt: "Editorial photograph representing the concept of alternative energy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Alternative Energy?
 
-Alternative energy is any energy source used instead of fossil fuels — coal, oil, and natural gas. It includes solar, wind, hydropower, geothermal, hydrogen, tidal, biomass, and nuclear power. The unifying idea is simple: generate the energy modern life demands without burning stuff that took millions of years to form underground.
+Alternative energy is any energy source used instead of fossil fuels — coal, oil, and natural gas. It includes solar, wind, hydropower, geothermal, hydrogen, tidal, biomass, and [nuclear power](/nuclear-power). The unifying idea is simple: generate the energy modern life demands without burning stuff that took millions of years to form underground.
 
 ## Why the Shift Away From Fossil Fuels Actually Matters
 
@@ -51,7 +51,7 @@ So the motivation behind alternative energy is not just ideological. It is a mat
 
 ## Solar Power: The Star of the Show
 
-Solar energy converts sunlight directly into electricity using photovoltaic (PV) cells, or concentrates sunlight to produce heat that drives turbines. It is the fastest-growing energy source on Earth, and frankly, the numbers are staggering.
+Solar energy converts sunlight directly into [electricity](/electricity) using photovoltaic (PV) cells, or concentrates sunlight to produce heat that drives turbines. It is the fastest-growing energy source on Earth, and frankly, the numbers are staggering.
 
 ### How Photovoltaic Cells Work
 
@@ -69,7 +69,7 @@ That price drop was not accidental. It followed a pattern called Swanson's Law: 
 
 Solar's big weakness is obvious — the sun goes down. Cloud cover reduces output. Winter days are short. You cannot run a hospital or a data center on "probably enough electricity."
 
-This is why energy storage matters so much. Battery technology — particularly lithium-ion — has improved dramatically alongside solar. Grid-scale battery installations can now store several hours of solar output and release it after dark. But batteries are still expensive, and storing enough energy for multi-day weather events remains a challenge. We will come back to storage later.
+This is why energy storage matters so much. [Battery technology](/battery-technology) — particularly lithium-ion — has improved dramatically alongside solar. Grid-scale battery installations can now store several hours of solar output and release it after dark. But batteries are still expensive, and storing enough energy for multi-day weather events remains a challenge. We will come back to storage later.
 
 ## Wind Power: Invisible Fuel, Visible Turbines
 
@@ -93,7 +93,7 @@ Global installed wind capacity surpassed 1,000 gigawatts in 2024. China alone ad
 
 ## Hydropower: The Oldest Player
 
-Hydroelectric power generates about 15% of the world's electricity, making it the single largest source of renewable energy. It works by channeling flowing water through turbines. Dams create reservoirs that store water at elevation — potential energy — then release it through turbines when electricity is needed.
+Hydroelectric power generates about 15% of the world's electricity, making it the single largest source of [renewable energy](/renewable-energy). It works by channeling flowing water through turbines. Dams create reservoirs that store water at elevation — potential energy — then release it through turbines when electricity is needed.
 
 ### Why Hydro Is Complicated
 
@@ -101,7 +101,7 @@ On paper, hydropower seems perfect. It is reliable, dispatchable (you can turn i
 
 But building dams means flooding valleys, displacing communities, and disrupting river ecosystems. The Three Gorges Dam in China displaced over 1.3 million people. Dams block fish migration — salmon populations in the Pacific Northwest have never recovered from the dam-building era. Reservoirs in tropical regions can emit methane from decomposing vegetation, partially offsetting their climate benefit.
 
-New large-scale dam construction has slowed considerably in recent decades. The growth now comes from smaller run-of-river installations and refurbishing existing dams with more efficient turbines. Pumped-storage hydro — where water is pumped uphill during cheap electricity periods and released during expensive ones — is becoming important for grid-scale energy storage.
+New large-scale dam [construction](/construction) has slowed considerably in recent decades. The growth now comes from smaller run-of-river installations and refurbishing existing dams with more efficient turbines. Pumped-storage hydro — where water is pumped uphill during cheap electricity periods and released during expensive ones — is becoming important for grid-scale energy storage.
 
 ## Geothermal Energy: Heat From Below
 
@@ -197,7 +197,7 @@ This is frankly the most underappreciated bottleneck in the energy transition. Y
 
 ## Economics: Follow the Money
 
-The economics of alternative energy have shifted dramatically. In 2009, solar was the most expensive source of new electricity. By 2024, it was the cheapest in most of the world. Wind followed a similar trajectory. This was not because of subsidies alone — though subsidies helped — but because of manufacturing scale, [machine learning](/machine-learning)-driven optimization, and relentless engineering improvement.
+The economics of alternative energy have shifted dramatically. In 2009, solar was the most expensive source of new electricity. By 2024, it was the cheapest in most of the world. Wind followed a similar trajectory. This was not because of subsidies alone — though subsidies helped — but because of manufacturing scale, [machine learning](/machine-learning)-driven [optimization](/optimization), and relentless engineering improvement.
 
 Global investment in clean energy reached approximately $1.8 trillion in 2024, exceeding fossil fuel investment for the first time. China dominated, accounting for roughly $680 billion. The United States, European Union, and India followed.
 

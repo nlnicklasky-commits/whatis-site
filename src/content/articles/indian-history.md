@@ -5,7 +5,7 @@ description: "Indian history spans over 5,000 years from the Indus Valley civili
 category: everyday-concepts
 tags: ["indian history", "India", "ancient civilizations", "Mughal Empire", "British Raj"]
 heroImage: "/images/articles/indian-history.webp"
-heroAlt: "Taj Mahal at sunrise with its reflection in the long pool"
+heroAlt: "Editorial photograph representing the concept of indian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,23 +37,23 @@ Indian history covers over 5,000 years of civilization on the South Asian subcon
 
 The story begins with one of humanity's earliest urban civilizations. The Indus Valley (or Harappan) Civilization stretched across what is now Pakistan and northwestern India, with major cities at Mohenjo-daro and Harappa. At its peak around 2500 BCE, it may have supported 5 million people — making it larger than contemporary Egypt or Mesopotamia.
 
-What makes the Indus Valley remarkable is its urban planning. Streets were laid out in grid patterns. Houses had indoor plumbing and drainage systems connected to covered sewers — sanitation technology that much of the world would not match for 4,000 years. Standardized weights and measures suggest organized trade. The civilization had a writing system, though it remains undeciphered — one of the great unsolved puzzles of archaeology.
+What makes the Indus Valley remarkable is its [urban planning](/urban-planning). Streets were laid out in grid patterns. Houses had indoor [plumbing](/plumbing) and drainage systems connected to covered sewers — sanitation technology that much of the world would not match for 4,000 years. Standardized weights and measures suggest organized trade. The civilization had a writing system, though it remains undeciphered — one of the great unsolved puzzles of [archaeology](/archaeology).
 
 The civilization declined around 1900-1300 BCE, likely due to climate change that disrupted the monsoon patterns and river systems the cities depended upon.
 
 ## The Vedic Period and Classical Age (1500 BCE - 500 CE)
 
-The Vedic period brought the composition of the Vedas — the oldest Hindu scriptures and among the world's oldest religious texts. Sanskrit became the literary and scholarly language. The caste system, the concepts of dharma and karma, and the foundations of Hinduism took shape during this era.
+The Vedic period brought the composition of the Vedas — the oldest Hindu scriptures and among the world's oldest religious texts. [Sanskrit](/sanskrit) became the literary and scholarly language. The caste system, the concepts of dharma and karma, and the foundations of [Hinduism](/hinduism) took shape during this era.
 
-The **Maurya Empire** (322-185 BCE), founded by Chandragupta Maurya, became the first empire to unite most of the subcontinent. His grandson **Ashoka** (268-232 BCE) is one of history's most fascinating rulers. After conquering the Kalinga region in a war that killed over 100,000 people, Ashoka was so horrified by the carnage that he converted to Buddhism and spent the rest of his reign promoting non-violence, religious tolerance, and public welfare. His rock edicts, found across India, are the earliest surviving Indian political documents.
+The **Maurya Empire** (322-185 BCE), founded by Chandragupta Maurya, became the first empire to unite most of the subcontinent. His grandson **Ashoka** (268-232 BCE) is one of history's most fascinating rulers. After conquering the Kalinga region in a war that killed over 100,000 people, Ashoka was so horrified by the carnage that he converted to [Buddhism](/buddhism) and spent the rest of his reign promoting non-violence, religious tolerance, and public welfare. His rock edicts, found across India, are the earliest surviving Indian political documents.
 
-The **Gupta Empire** (320-550 CE) is often called India's "Golden Age." During this period, Aryabhata calculated pi to four decimal places and proposed that the Earth rotates on its axis. The concept of zero — arguably the most important mathematical invention in human history — was formalized. Sanskrit literature, including Kalidasa's plays, reached its peak. The decimal numeral system that the entire world now uses originated here.
+The **Gupta Empire** (320-550 CE) is often called India's "Golden Age." During this period, Aryabhata calculated pi to four decimal places and proposed that the Earth rotates on its axis. The concept of zero — arguably the most important mathematical [invention](/invention) in human history — was formalized. Sanskrit [literature](/literature), including Kalidasa's plays, reached its peak. The decimal numeral system that the entire world now uses originated here.
 
 ## Medieval India and the Mughals (700-1700 CE)
 
 Arab traders brought Islam to India's western coast as early as the 7th century. By the 12th century, Muslim sultanates controlled much of northern India. The **Delhi Sultanate** (1206-1526) and then the **Mughal Empire** (1526-1857) shaped centuries of Indian history.
 
-The Mughals produced some of history's most spectacular art and architecture. Emperor **Akbar** (reigned 1556-1605) promoted religious tolerance, patronized art and learning, and administered an empire of 100 million people with sophisticated bureaucratic systems. **Shah Jahan** (reigned 1628-1658) built the Taj Mahal — a mausoleum for his wife that took 20,000 workers 22 years to complete and remains one of the most beautiful buildings on Earth.
+The Mughals produced some of history's most spectacular art and [architecture](/architecture). Emperor **Akbar** (reigned 1556-1605) promoted religious tolerance, patronized art and learning, and administered an empire of 100 million people with sophisticated bureaucratic systems. **Shah Jahan** (reigned 1628-1658) built the Taj Mahal — a mausoleum for his wife that took 20,000 workers 22 years to complete and remains one of the most beautiful buildings on Earth.
 
 Southern India followed different trajectories. The **Chola dynasty** (300 BCE - 1279 CE) built a maritime empire reaching Southeast Asia. The **Vijayanagara Empire** (1336-1646) was one of the richest kingdoms in the world, with a capital larger than Rome.
 
@@ -61,7 +61,7 @@ Southern India followed different trajectories. The **Chola dynasty** (300 BCE -
 
 The British East India Company gained its first territorial foothold after the Battle of Plassey in 1757. Over the next century, through a combination of military conquest, political manipulation, and economic coercion, Britain gained control of nearly the entire subcontinent.
 
-The human cost was staggering. British economic policies deindustrialized India — textiles, steel, and shipbuilding industries that had led the world were systematically dismantled to create captive markets for British goods. Famines killed an estimated 30 to 60 million Indians under British rule, with the Bengal Famine of 1943 (2 to 3 million deaths) occurring while food was being exported.
+The human cost was staggering. British economic policies deindustrialized India — textiles, steel, and [shipbuilding](/shipbuilding) industries that had led the world were systematically dismantled to create captive markets for British goods. Famines killed an estimated 30 to 60 million Indians under British rule, with the Bengal Famine of 1943 (2 to 3 million deaths) occurring while food was being exported.
 
 After the failed Sepoy Mutiny of 1857, the British Crown took direct control from the East India Company, establishing the British Raj.
 

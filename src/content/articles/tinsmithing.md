@@ -5,7 +5,7 @@ description: "Tinsmithing is the craft of shaping thin metal sheets into functio
 category: arts-amp-culture
 tags: ["tinsmithing", "metalworking", "craft", "tinplate", "soldering", "sheet metal"]
 heroImage: "/images/articles/tinsmithing.webp"
-heroAlt: "A tinsmith working with sheet metal tools to shape a decorative lantern"
+heroAlt: "Editorial photograph representing the concept of tinsmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Tinsmithing is the craft of cutting, bending, shaping, and joining thin sheets of metal — traditionally tin-plated steel — into functional and decorative objects. Lanterns, cups, pots, pans, candle holders, roof flashing, gutters, and decorative ornaments are all traditional tinsmith products.
 
-It's a craft that sits between fine metalwork and practical construction. A tinsmith needs a good eye for layout (most shapes must be planned as flat patterns before cutting and bending), steady hands for soldering, and an understanding of how sheet metal behaves when you bend, stretch, and join it.
+It's a craft that sits between fine metalwork and practical [construction](/construction). A tinsmith needs a good eye for layout (most shapes must be planned as flat patterns before cutting and bending), steady hands for [soldering](/soldering), and an understanding of how sheet metal behaves when you bend, stretch, and join it.
 
 ## The Techniques
 
 ### Cutting
 
-Thin metal is cut with hand snips (aviation snips for modern sheet metal), shears, or specialized bench-mounted cutting tools. Precision matters — an inaccurate cut produces gaps that are difficult to correct.
+Thin metal is cut with hand snips ([aviation](/aviation) snips for modern sheet metal), shears, or specialized bench-mounted cutting tools. Precision matters — an inaccurate cut produces gaps that are difficult to correct.
 
 ### Bending and Forming
 
@@ -47,7 +47,7 @@ Sheet metal is bent along straight lines using hand seamers, bending brakes, or 
 
 ### Seaming
 
-Joining metal pieces by folding the edges together and interlocking them. A properly made seam is both mechanically strong and watertight without soldering. Double-lock seams and standing seams are common in roofing and ductwork.
+Joining metal pieces by folding the edges together and interlocking them. A properly made seam is both mechanically strong and watertight without soldering. Double-lock seams and standing seams are common in [roofing](/roofing) and ductwork.
 
 ### Soldering
 
@@ -55,11 +55,11 @@ Joining metal pieces with solder — a lower-melting-point metal alloy applied w
 
 ### Planishing and Finishing
 
-Smoothing the surface by hammering over a polished stake, removing dents and tool marks. Finishing may include polishing, painting, lacquering, or deliberately creating a patina.
+Smoothing the surface by hammering over a polished stake, removing dents and tool marks. Finishing may include polishing, [painting](/painting), lacquering, or deliberately creating a patina.
 
 ## A Brief History
 
-Tinsmithing became a significant trade in 17th-18th century Europe as tinplate became widely available. The craft migrated to colonial America, where tinsmiths produced essential household goods — plates, cups, candle molds, lanterns, and cooking vessels — at a time when ceramics and glass were expensive imports.
+Tinsmithing became a significant trade in 17th-18th century Europe as tinplate became widely available. The craft migrated to colonial America, where tinsmiths produced essential household goods — plates, cups, candle molds, lanterns, and [cooking](/cooking) vessels — at a time when [ceramics](/ceramics) and glass were expensive imports.
 
 The 18th and 19th centuries were the golden age of American tinsmithing. Traveling tinsmiths (*tinkers*) went from farm to farm, repairing cookware and selling their goods. Decorated tinware — painted with colorful folk designs — became a popular art form.
 
@@ -73,8 +73,8 @@ Modern tinsmithing exists in several forms:
 
 **Historical crafts** — Living history museums like Colonial Williamsburg maintain working tinsmith shops where craftspeople demonstrate period techniques and produce reproduction items.
 
-**Decorative arts** — Contemporary metal artists create sculptural, decorative, and functional objects using traditional tinsmithing techniques combined with modern materials and aesthetics.
+**Decorative arts** — Contemporary metal artists create sculptural, decorative, and functional objects using traditional tinsmithing techniques combined with modern materials and [aesthetics](/aesthetics).
 
-**Hobby and maker community** — DIY makers have embraced tinsmithing as an accessible entry point into metalworking. Unlike blacksmithing (which requires a forge), basic tinsmithing can be done with hand tools in a small workspace.
+**Hobby and maker community** — DIY makers have embraced tinsmithing as an accessible entry point into metalworking. Unlike [blacksmithing](/blacksmithing) (which requires a forge), basic tinsmithing can be done with hand tools in a small workspace.
 
 The craft rewards patience and precision. A well-made tinware piece — with clean bends, invisible seams, and smooth surfaces — demonstrates a level of skill that's easy to appreciate and genuinely satisfying to develop.

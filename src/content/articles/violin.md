@@ -5,7 +5,7 @@ description: "The violin is a four-stringed instrument and the highest-pitched m
 category: arts-amp-culture
 tags: ["violin", "string instruments", "orchestra", "classical music", "fiddle", "music"]
 heroImage: "/images/articles/violin.webp"
-heroAlt: "Close-up of a polished violin with bow resting on sheet music under warm stage lighting"
+heroAlt: "Editorial photograph representing the concept of violin"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The modern violin emerged in northern Italy around the 1530s-1550s, developed by
 
 The remarkable thing is how little the design has changed since then. A violin made by Stradivari in 1710 and a violin made today are dimensionally almost identical. The spruce top, maple back and sides, ebony fingerboard, and overall proportions have been essentially standardized for three centuries. Minor modifications (a longer neck, a higher bridge, steel core strings instead of gut) have been made to increase volume and projection for larger concert halls, but the fundamental instrument is the same.
 
-This stability isn't conservatism — it's because the design works. The violin's geometry, wood selection, and construction create a resonating system that amplifies the vibration of bowed strings into a sound that can project over an entire orchestra, express the subtlest gradations of emotion, and sustain notes for as long as the bow lasts.
+This stability isn't conservatism — it's because the design works. The violin's [geometry](/geometry), wood selection, and [construction](/construction) create a resonating system that amplifies the vibration of bowed strings into a sound that can project over an entire orchestra, express the subtlest gradations of emotion, and sustain notes for as long as the bow lasts.
 
 ## How It Produces Sound
 
@@ -55,7 +55,7 @@ The violin has no frets. Every note's pitch depends entirely on where you place 
 
 This is why violin is considered one of the hardest instruments to learn. A beginning pianist presses a key and gets the correct pitch every time. A beginning violinist presses a string and gets... approximately the right pitch, maybe. Developing accurate intonation takes years of ear training and muscle memory.
 
-The left hand also produces vibrato — a controlled oscillation of pitch created by rocking the finger back and forth on the string. Vibrato adds warmth and expressiveness. Different speeds and widths of vibrato create different emotional effects: narrow and fast for intensity, wide and slow for singing warmth.
+The left hand also produces vibrato — a controlled oscillation of pitch created by rocking the finger back and forth on the string. Vibrato adds warmth and expressiveness. Different speeds and widths of vibrato create different emotional effects: narrow and fast for intensity, wide and slow for [singing](/singing) warmth.
 
 ## The Bow: Where Expression Lives
 
@@ -91,6 +91,6 @@ The violin's versatility extends far beyond the concert hall.
 
 **Film and pop** — The violin section is the backbone of film scoring. Every sweeping emotional moment in a Hollywood movie is built on strings. Pop artists from Lindsey Stirling to electric violin pioneers have brought the instrument to new audiences.
 
-**Indian classical music** — The violin is a standard instrument in Carnatic (South Indian) classical music, played seated with the scroll resting on the ankle. The technique and repertoire are completely distinct from Western classical violin.
+**[Indian classical music](/indian-classical-music)** — The violin is a standard instrument in Carnatic (South Indian) classical music, played seated with the scroll resting on the ankle. The technique and repertoire are completely distinct from Western classical violin.
 
 The violin's range — emotional, technical, cultural — is essentially unlimited. Four strings, a wooden box, and 500 years of accumulated knowledge have produced an instrument that can express virtually any human emotion. That's a pretty good track record.

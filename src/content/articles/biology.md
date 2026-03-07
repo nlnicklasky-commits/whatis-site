@@ -5,7 +5,7 @@ description: "Biology is the scientific study of living organisms and life proce
 category: science
 tags: ["biology", "living organisms", "cells", "evolution", "genetics", "ecosystems", "natural science"]
 heroImage: "/images/articles/biology-hero.webp"
-heroAlt: "Microscope view of a dividing plant cell showing chromosomes during mitosis"
+heroAlt: "Editorial photograph representing the concept of biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -69,7 +69,7 @@ Despite enormous variety, all cells perform certain fundamental activities:
 
 **Energy metabolism** converts nutrients into usable energy (ATP). In cells with mitochondria, this primarily happens through cellular respiration — breaking down glucose with oxygen to produce ATP, carbon dioxide, and water. The chemistry is described in detail in [biochemistry](/biochemistry), but the key point is this: your cells extract energy from food using essentially the same process that's been running since early life on Earth.
 
-**Protein synthesis** translates genetic instructions (DNA → mRNA → protein) into the molecular workers that do everything in the cell. The central dogma of molecular biology — DNA makes RNA makes protein — is the information flow that drives all cellular life.
+**Protein synthesis** translates genetic instructions (DNA → mRNA → protein) into the molecular workers that do everything in the cell. The central dogma of [molecular biology](/molecular-biology) — DNA makes RNA makes protein — is the information flow that drives all cellular life.
 
 **Cell division** produces new cells. Mitotic division creates two genetically identical daughter cells and is responsible for growth, repair, and asexual reproduction. Meiotic division produces gametes (sperm and eggs) with half the normal chromosome number, enabling sexual reproduction and genetic diversity.
 
@@ -159,7 +159,7 @@ The current estimated number of species on Earth ranges from 8 million to over 1
 
 What we do know is that biodiversity is declining rapidly. The current extinction rate is estimated at 100-1,000 times the natural background rate. The IUCN Red List classifies more than 44,000 species as threatened with extinction. Habitat destruction, climate change, invasive species, pollution, and overexploitation are the primary drivers.
 
-This matters beyond aesthetics. Biodiversity underpins ecosystem services that humans depend on: pollination of crops (worth an estimated $235-577 billion annually), water purification, carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
+This matters beyond aesthetics. Biodiversity underpins ecosystem services that humans depend on: pollination of crops (worth an estimated $235-577 billion annually), [water purification](/water-purification), carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
 
 ## The Major Branches
 
@@ -177,13 +177,13 @@ Biology has fragmented into dozens of specialized disciplines, each with its own
 
 Biology in the 21st century is increasingly quantitative, computational, and convergent with engineering and data science.
 
-**Systems biology** tries to understand biological systems as integrated wholes rather than collections of parts. It uses mathematical models and computational simulations to predict how changes in one component affect the entire system. This approach is essential for understanding complex diseases like cancer, where hundreds of interacting genes, proteins, and pathways contribute.
+**[Systems biology](/systems-biology)** tries to understand biological systems as integrated wholes rather than collections of parts. It uses mathematical models and computational simulations to predict how changes in one component affect the entire system. This approach is essential for understanding complex diseases like cancer, where hundreds of interacting genes, proteins, and pathways contribute.
 
-**Synthetic biology** designs and builds new biological parts, devices, and systems. It's biology as [engineering](/bioengineering) — specifying what you want an organism to do, then building the genetic circuits to make it happen. Applications range from engineered microbes that produce biofuels to biosensors that detect environmental toxins.
+**[Synthetic biology](/synthetic-biology)** designs and builds new biological parts, devices, and systems. It's biology as [engineering](/bioengineering) — specifying what you want an organism to do, then building the genetic circuits to make it happen. Applications range from engineered microbes that produce biofuels to biosensors that detect environmental toxins.
 
 **Metagenomics** sequences DNA from entire communities of organisms rather than individual species. By sampling soil, ocean water, or the human gut and sequencing all the DNA present, researchers can identify species and metabolic capabilities without needing to grow organisms in the lab — which matters because the vast majority of microbes can't be cultured using standard techniques.
 
-**Astrobiology** asks whether life exists beyond Earth. By understanding the conditions required for life on our planet — liquid water, energy sources, organic chemistry — scientists can identify places in the solar system (Mars, Europa, Enceladus) and beyond (exoplanets in habitable zones) where life might be found. This is biology at its most speculative and most exciting.
+**Astrobiology** asks whether life exists beyond Earth. By understanding the conditions required for life on our planet — liquid water, energy sources, [organic chemistry](/organic-chemistry) — scientists can identify places in the solar system (Mars, Europa, Enceladus) and beyond (exoplanets in habitable zones) where life might be found. This is biology at its most speculative and most exciting.
 
 ## Why Biology Matters
 

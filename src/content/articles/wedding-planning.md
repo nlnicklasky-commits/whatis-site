@@ -5,7 +5,7 @@ description: "Wedding planning is the process of organizing a wedding ceremony a
 category: lifestyle
 tags: ["wedding planning", "event planning", "celebrations", "lifestyle", "organization", "budgeting"]
 heroImage: "/images/articles/wedding-planning.webp"
-heroAlt: "Elegant wedding reception setup with floral centerpieces, place settings, and soft lighting"
+heroAlt: "Editorial photograph representing the concept of wedding planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Wedding Planning?
 
-Wedding planning is the process of organizing, coordinating, and executing a wedding ceremony and reception — from the initial "we're engaged" announcement through the final thank-you note. It involves dozens of decisions about venue, food, flowers, music, photography, attire, guest management, and logistics, all tied together by a budget and a timeline. It's project management with emotions, family dynamics, and a firm deadline.
+Wedding planning is the process of organizing, coordinating, and executing a wedding ceremony and reception — from the initial "we're engaged" announcement through the final thank-you note. It involves dozens of decisions about venue, food, flowers, music, photography, attire, guest [management](/management), and [logistics](/logistics), all tied together by a budget and a timeline. It's [project management](/project-management) with emotions, family dynamics, and a firm deadline.
 
 ## The Budget Reality
 
@@ -41,7 +41,7 @@ The major cost categories, roughly in order of expense:
 
 **Venue and catering (40-50%)** — The single largest expense. This includes the ceremony space, reception space, food, and beverages. An open bar alone can cost $50-$100+ per guest.
 
-**Photography and videography (10-15%)** — Wedding photos are often the most valued investment in hindsight. Professional photographers charge $2,000-$8,000+ depending on experience and market.
+**Photography and [videography](/videography) (10-15%)** — Wedding photos are often the most valued investment in hindsight. Professional photographers charge $2,000-$8,000+ depending on experience and market.
 
 **Entertainment (5-10%)** — DJ ($800-$2,500) or live band ($2,500-$10,000+).
 
@@ -92,7 +92,7 @@ The major cost categories, roughly in order of expense:
 
 A typical wedding involves coordinating 8-15 different vendors, each with their own contracts, timelines, and requirements.
 
-**Questions to ask every vendor:** Are you available on our date? What's included in your pricing? What's your cancellation policy? Do you have liability insurance? Can we see reviews or references? What happens if you're unable to perform (illness, emergency)? How many events do you book per day/weekend?
+**Questions to ask every vendor:** Are you available on our date? What's included in your pricing? What's your cancellation policy? Do you have liability [insurance](/insurance)? Can we see reviews or references? What happens if you're unable to perform (illness, emergency)? How many events do you book per day/weekend?
 
 **Red flags:** No written contract, refusal to provide references, pricing significantly below market rate, poor communication during the booking process, and requesting full payment upfront. If a vendor is difficult to work with before the wedding, they'll likely be difficult during it.
 
@@ -112,7 +112,7 @@ Some honest advice from wedding professionals:
 
 ## The Modern Evolution
 
-Weddings have changed significantly in recent years. Destination weddings, micro weddings (under 50 guests), elopements with celebration parties later, weekday weddings (significantly cheaper), and non-traditional venues (barns, rooftops, national parks, backyards) all reflect a shift away from the one-size-fits-all traditional format.
+Weddings have changed significantly in recent years. Destination weddings, micro weddings (under 50 guests), elopements with celebration parties later, weekday weddings (significantly cheaper), and non-traditional venues (barns, rooftops, [national parks](/national-parks), backyards) all reflect a shift away from the one-size-fits-all traditional format.
 
 Technology has streamlined planning. Wedding websites replace paper invitations (or supplement them). Online RSVPs simplify guest management. Pinterest and Instagram provide unlimited inspiration (and unlimited comparison, which is a double-edged sword). Planning apps and spreadsheets help track budgets, timelines, and vendor contacts.
 

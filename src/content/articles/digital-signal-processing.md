@@ -5,7 +5,7 @@ description: "Digital signal processing (DSP) manipulates signals like audio, im
 category: technology
 tags: ["digital signal processing", "dsp", "signal processing", "electronics", "audio", "communications", "engineering"]
 heroImage: "/images/articles/digital-signal-processing-hero.webp"
-heroAlt: "Oscilloscope display showing digital waveforms being filtered and processed"
+heroAlt: "Editorial photograph representing the concept of digital signal processing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "No, but they overlap significantly. DSP provides the mathematical tools (Fourier transforms, filtering, feature extraction) that prepare signals for machine learning analysis. Many modern signal processing systems combine traditional DSP for preprocessing with machine learning for pattern recognition and classification. DSP predates machine learning by decades and addresses a broader set of problems."
 ---
 
-# What Is Digital Signal Processing?
+# What Is Digital [Signal Processing](/signal-processing)?
 
 Digital signal processing (DSP) is the mathematical manipulation of signals—audio, images, video, sensor readings, communications data, or any other information represented as sequences of numbers—using [algorithms](/algorithms) implemented on digital hardware. It takes raw, often noisy data from the physical world, cleans it up, extracts useful information, and transforms it into something usable.
 
@@ -105,7 +105,7 @@ Digital filters come in two fundamental architectures.
 
 **Infinite Impulse Response (IIR) filters** use feedback—each output sample depends on past output samples as well as inputs. They can achieve sharp cutoffs with far fewer coefficients than FIR filters, making them computationally cheaper. But feedback introduces the possibility of instability (if poorly designed, the output grows without bound) and phase distortion. IIR designs often mirror classic analog filter types—Butterworth, Chebyshev, elliptic.
 
-The choice between FIR and IIR depends on the application. Audio effects and music production often prefer FIR for its phase linearity. Real-time control systems often prefer IIR for its computational efficiency.
+The choice between FIR and IIR depends on the application. Audio effects and [music production](/music-production) often prefer FIR for its phase linearity. Real-time control systems often prefer IIR for its computational efficiency.
 
 ## DSP in Audio and Music
 
@@ -139,7 +139,7 @@ Digital data must be encoded onto radio waves for wireless transmission. **Modul
 
 ### Error Correction
 
-Wireless signals get corrupted by noise, interference, and multipath propagation (signals bouncing off buildings and arriving at different times). **Forward error correction** adds redundant information that lets the receiver detect and correct errors without retransmission. The math behind modern error-correcting codes—LDPC codes, turbo codes, polar codes—pushes the boundaries of information theory.
+Wireless signals get corrupted by noise, interference, and multipath propagation (signals bouncing off buildings and arriving at different times). **Forward error correction** adds redundant information that lets the receiver detect and correct errors without retransmission. The math behind modern error-correcting codes—LDPC codes, turbo codes, polar codes—pushes the boundaries of [information theory](/information-theory).
 
 ### Adaptive Systems
 
@@ -147,13 +147,13 @@ Channel conditions change constantly as you move, as other users connect, as the
 
 ## DSP in Imaging
 
-### Digital Photography
+### [Digital Photography](/digital-photography)
 
 When you press the shutter button, the camera sensor captures raw light values. What follows is a DSP pipeline: **demosaicing** (reconstructing full-color images from the sensor's red/green/blue filter pattern), **white balance** (adjusting colors so whites look white), **noise reduction** (smoothing random pixel variations without losing detail), **sharpening** (enhancing edges), and **tone mapping** (compressing the sensor's wide active range into a displayable image).
 
 Computational photography—the [machine-learning](/machine-learning)-enhanced processing that makes smartphone photos look remarkably good despite tiny sensors—is DSP at its most advanced. Night mode combines multiple exposures using DSP alignment and fusion algorithms. Portrait mode uses depth estimation and DSP-based background blur. HDR mode merges multiple exposures at different brightness levels.
 
-### Medical Imaging
+### [Medical Imaging](/medical-imaging)
 
 MRI machines reconstruct images from radio frequency signals using the FFT—literally computing inverse Fourier transforms to produce the images doctors examine. CT scanners reconstruct 3D images from X-ray projections using filtered back-projection, a DSP algorithm. Ultrasound images are formed by DSP processing of reflected sound waves, using beamforming algorithms to focus the acoustic beam.
 
@@ -183,7 +183,7 @@ Graphics Processing Units—originally designed for rendering images—turned ou
 
 ## The Convergence of DSP and Machine Learning
 
-Traditional DSP and [machine learning](/machine-learning) are converging rapidly. Classical DSP provides the signal conditioning, feature extraction, and mathematical framework. Machine learning adds pattern recognition, classification, and adaptation capabilities that classical algorithms struggle with.
+Traditional DSP and [machine learning](/machine-learning) are converging rapidly. Classical DSP provides the signal conditioning, feature extraction, and mathematical framework. Machine learning adds [pattern recognition](/pattern-recognition), classification, and adaptation capabilities that classical algorithms struggle with.
 
 **Speech recognition** is a perfect example. Classical DSP computes spectrograms (time-frequency representations) of speech. Machine learning models (now typically deep neural networks) recognize words from those spectrograms. Neither alone is sufficient—DSP provides clean, structured input, and ML provides flexible pattern recognition.
 
@@ -197,4 +197,4 @@ Digital signal processing converts real-world signals into numbers and manipulat
 
 DSP touches nearly every electronic device: phones, cameras, medical equipment, radar, communications systems, audio equipment, and automotive systems. It's the invisible technology that makes modern electronics work—cleaning up noisy signals, extracting useful information, compressing data for efficient storage and transmission, and enabling capabilities from noise cancellation to medical imaging.
 
-The field sits at the intersection of mathematics, electrical engineering, and computer science. Understanding DSP means understanding how the physical world's continuous signals become the digital information that defines modern technology—and how we extract meaning from all that data once we have it.
+The field sits at the intersection of mathematics, [electrical engineering](/electrical-engineering), and [computer science](/computer-science). Understanding DSP means understanding how the physical world's continuous signals become the digital information that defines modern technology—and how we extract meaning from all that data once we have it.

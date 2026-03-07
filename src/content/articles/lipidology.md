@@ -5,7 +5,7 @@ description: "Lipidology is the medical specialty focused on diagnosing and trea
 category: health-amp-wellness
 tags: ["medicine", "lipidology", "cholesterol", "cardiovascular health", "nutrition"]
 heroImage: "/images/articles/lipidology.webp"
-heroAlt: "A medical professional reviewing cholesterol test results on a clipboard with a stethoscope nearby"
+heroAlt: "Editorial photograph representing the concept of lipidology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The lipids that concern lipidologists most are the ones circulating in your bloo
 
 **LDL (low-density lipoprotein)** — often called "bad" cholesterol, though that's a simplification. LDL carries cholesterol from the liver to cells throughout the body. The problem is that excess LDL can penetrate artery walls, triggering inflammation and plaque buildup. That process — atherosclerosis — is the underlying cause of most heart attacks and strokes.
 
-**HDL (high-density lipoprotein)** — called "good" cholesterol because it performs reverse cholesterol transport: picking up excess cholesterol from arteries and carrying it back to the liver for recycling or disposal. Higher HDL levels are generally associated with lower cardiovascular risk, though the relationship is more complex than the simple good/bad labels suggest.
+**HDL (high-density lipoprotein)** — called "good" cholesterol because it performs reverse cholesterol transport: picking up excess cholesterol from arteries and carrying it back to the liver for [recycling](/recycling) or disposal. Higher HDL levels are generally associated with lower cardiovascular risk, though the relationship is more complex than the simple good/bad labels suggest.
 
 **VLDL (very low-density lipoprotein)** — carries triglycerides from the liver to tissues. High VLDL levels contribute to atherosclerosis and are associated with metabolic syndrome and type 2 diabetes.
 
@@ -59,9 +59,9 @@ The popular understanding of cholesterol — eat eggs, cholesterol goes up, hear
 
 Your liver produces about 80% of the cholesterol in your body. Dietary cholesterol (from foods like eggs and shellfish) has a much smaller impact on blood cholesterol levels than was once believed. The 2015-2020 Dietary Guidelines for Americans removed the long-standing recommendation to limit dietary cholesterol to 300 mg per day, though they still recommend eating "as little dietary cholesterol as possible" within a healthy eating pattern.
 
-Saturated fat, however, does raise LDL cholesterol for most people. Trans fats are worse — they raise LDL and lower HDL simultaneously. The relationship between dietary fat and blood lipids involves your genetics, your gut microbiome, your overall dietary pattern, and factors that researchers are still working to understand. This complexity is why [nutrition](/nutrition) science seems to keep changing its mind.
+Saturated fat, however, does raise LDL cholesterol for most people. Trans fats are worse — they raise LDL and lower HDL simultaneously. The relationship between dietary fat and blood lipids involves your [genetics](/genetics), your gut microbiome, your overall dietary pattern, and factors that researchers are still working to understand. This complexity is why [nutrition](/nutrition) science seems to keep changing its mind.
 
-The "diet-heart hypothesis" — the idea that dietary fat causes heart disease through elevated cholesterol — has been debated fiercely for decades. The debate produced genuinely useful insights: saturated fat does affect cholesterol, elevated LDL does increase cardiovascular risk, and statins do reduce heart attacks. But the simplistic version ("all fat is bad") led to dietary recommendations in the 1980s and 1990s that may have done more harm than good, as people replaced fats with refined carbohydrates.
+The "diet-heart hypothesis" — the idea that dietary fat causes heart disease through elevated cholesterol — has been debated fiercely for decades. The [debate](/debate) produced genuinely useful insights: saturated fat does affect cholesterol, elevated LDL does increase cardiovascular risk, and statins do reduce heart attacks. But the simplistic version ("all fat is bad") led to dietary recommendations in the 1980s and 1990s that may have done more harm than good, as people replaced fats with refined carbohydrates.
 
 ## How Lipidologists Diagnose Problems
 
@@ -93,13 +93,13 @@ These conditions are where lipidology really earns its status as a specialty. Pr
 
 ## Treatment Approaches
 
-Lipid management typically starts with lifestyle modifications and progresses to medication when necessary. The distinction between the two isn't either/or — most patients benefit from both.
+Lipid [management](/management) typically starts with lifestyle modifications and progresses to medication when necessary. The distinction between the two isn't either/or — most patients benefit from both.
 
 ### Lifestyle Interventions
 
 Diet changes can lower LDL by 10-30%, depending on the baseline diet and the changes made. The most evidence-supported dietary approaches include reducing saturated fat (below 7% of calories), eliminating trans fats, increasing soluble fiber (oats, beans, lentils), adding plant stanols and sterols, and following overall dietary patterns like the Mediterranean diet or DASH diet. These approaches connect to broader questions about [health](/health) and [nutrition](/nutrition).
 
-Regular aerobic exercise raises HDL and lowers triglycerides. Even moderate activity — 150 minutes per week of brisk walking — produces measurable improvements.
+Regular aerobic exercise raises HDL and lowers triglycerides. Even moderate activity — 150 minutes per week of brisk [walking](/walking) — produces measurable improvements.
 
 Weight loss of 5-10% of body weight can significantly improve all lipid parameters. Quitting smoking raises HDL and reduces overall cardiovascular risk.
 

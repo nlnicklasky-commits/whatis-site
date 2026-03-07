@@ -5,7 +5,7 @@ description: "Laser technology uses focused beams of coherent light for cutting,
 category: everyday-concepts
 tags: ["laser technology", "physics", "optics", "light", "photonics", "engineering"]
 heroImage: "/images/articles/laser-technology.webp"
-heroAlt: "Green laser beam cutting through a metal sheet in an industrial setting"
+heroAlt: "Editorial photograph representing the concept of laser technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Laser Technology?
 
-A laser is a device that produces a beam of light with properties no ordinary light source can match: the light is coherent (all waves are in phase), monochromatic (a single wavelength), and highly directional (it stays focused over long distances). These properties make lasers useful for an extraordinary range of applications — from reading barcodes to cutting steel, from performing eye surgery to transmitting internet data through fiber optic cables.
+A laser is a device that produces a beam of light with properties no ordinary light source can match: the light is coherent (all waves are in phase), monochromatic (a single wavelength), and highly directional (it stays focused over long distances). These properties make lasers useful for an extraordinary range of applications — from reading barcodes to cutting steel, from performing eye [surgery](/surgery) to transmitting internet data through fiber optic cables.
 
 The word itself is an acronym: Light Amplification by Stimulated Emission of Radiation. It was first demonstrated in 1960, and a physicist at the time famously called it "a solution looking for a problem." Sixty-five years later, it is hard to find a technology sector that does not use lasers.
 
 ## How a Laser Works
 
-The physics is quantum mechanics, but the concept is surprisingly intuitive.
+The [physics](/physics) is [quantum mechanics](/quantum-mechanics), but the concept is surprisingly intuitive.
 
 **Step 1: Energy in.** You pump energy into a "gain medium" — a material whose atoms will produce laser light. The energy source might be an electrical current, a flash lamp, or another laser. This energy excites the atoms, pushing electrons to higher energy states.
 
@@ -51,25 +51,25 @@ The result is a beam of light where all the photons are marching in lockstep —
 
 ## Types of Lasers
 
-**Gas lasers** use a gas as the gain medium. The helium-neon (HeNe) laser produces a familiar red beam used in alignment tools and laboratory equipment. Carbon dioxide (CO2) lasers produce powerful infrared beams used for cutting and engraving materials — a CO2 laser can cut through inch-thick steel.
+**Gas lasers** use a gas as the gain medium. The helium-neon (HeNe) laser produces a familiar red beam used in alignment tools and laboratory equipment. Carbon dioxide (CO2) lasers produce powerful infrared beams used for cutting and [engraving](/engraving) materials — a CO2 laser can cut through inch-thick steel.
 
-**Solid-state lasers** use a crystal or glass doped with ions as the gain medium. The Nd:YAG laser (neodymium-doped yttrium aluminum garnet) is a workhorse used in welding, range-finding, and medical procedures. Ruby lasers — the first type ever built — use a synthetic ruby crystal.
+**Solid-state lasers** use a crystal or glass doped with ions as the gain medium. The Nd:YAG laser (neodymium-doped yttrium aluminum garnet) is a workhorse used in [welding](/welding), range-finding, and medical procedures. Ruby lasers — the first type ever built — use a synthetic ruby crystal.
 
 **Semiconductor (diode) lasers** are the most common type by far. They are tiny, efficient, and inexpensive. Every DVD player, Blu-ray disc reader, barcode scanner, and laser pointer uses a diode laser. They are also the light sources in fiber optic communication systems.
 
 **Fiber lasers** use optical fiber doped with rare-earth elements as the gain medium. They produce extremely high-quality beams and have become dominant in industrial cutting and welding applications.
 
-**Excimer lasers** use reactive gases to produce ultraviolet light. LASIK eye surgery uses an excimer laser to precisely reshape the cornea. Semiconductor manufacturing uses excimer lasers for photolithography — printing circuit patterns onto silicon wafers.
+**Excimer lasers** use reactive gases to produce ultraviolet light. LASIK eye surgery uses an excimer laser to precisely reshape the cornea. Semiconductor manufacturing uses excimer lasers for [photolithography](/photolithography) — printing circuit patterns onto silicon wafers.
 
 ## Applications
 
-**Manufacturing** — laser cutting and welding are standard in automotive, aerospace, and electronics manufacturing. A laser can cut metal with sub-millimeter precision, weld dissimilar metals, and engrave serial numbers at production-line speeds. The automotive industry alone uses thousands of industrial lasers.
+**Manufacturing** — laser cutting and welding are standard in automotive, aerospace, and [electronics](/electronics) manufacturing. A laser can cut metal with sub-millimeter precision, weld dissimilar metals, and engrave serial numbers at production-line speeds. The automotive industry alone uses thousands of industrial lasers.
 
 **Communications** — fiber optic networks carry internet data as pulses of laser light through glass fibers. A single fiber can carry terabits of data per second. Essentially all long-distance internet traffic — including the data reaching your device right now — has traveled as laser light at some point.
 
 **Medicine** — laser surgery corrects vision (LASIK reshapes over 700,000 corneas per year in the U.S.), removes tumors, seals blood vessels, breaks up kidney stones (lithotripsy), and resurfaces skin. The precision of laser surgery — cutting tissue at the cellular level without damaging surrounding areas — is unmatched by mechanical tools.
 
-**Measurement** — laser range-finding measures distances with millimeter accuracy. LIDAR (Light Detection and Ranging) creates detailed 3D maps of terrain, buildings, and environments — it is essential for autonomous vehicles, archaeology, and forestry. Gravitational wave detectors (LIGO) use laser interferometry to detect ripples in spacetime, measuring movements smaller than a proton's diameter.
+**Measurement** — laser range-finding measures distances with millimeter accuracy. LIDAR (Light Detection and Ranging) creates detailed 3D maps of terrain, buildings, and environments — it is essential for autonomous vehicles, [archaeology](/archaeology), and [forestry](/forestry). Gravitational wave detectors (LIGO) use laser interferometry to detect ripples in spacetime, measuring movements smaller than a proton's diameter.
 
 **Defense** — military applications include range-finding, target designation (guiding munitions with laser dots), and emerging directed-energy weapons. The U.S. Navy has tested shipboard laser systems capable of shooting down drones.
 
@@ -83,6 +83,6 @@ Laser safety classes (Class 1 through Class 4) indicate increasing hazard levels
 
 ## The Future
 
-Laser technology continues to advance. Ultrafast lasers (femtosecond pulses — quadrillionths of a second) enable new kinds of material processing and scientific measurement. High-power laser systems may eventually provide directed-energy defense against missiles. Laser-based additive manufacturing (3D printing metals) is growing rapidly. And quantum computing research relies heavily on lasers to manipulate individual atoms and photons.
+Laser technology continues to advance. Ultrafast lasers (femtosecond pulses — quadrillionths of a second) enable new kinds of material processing and scientific measurement. High-power laser systems may eventually provide directed-energy defense against missiles. Laser-based additive manufacturing (3D printing metals) is growing rapidly. And [quantum computing](/quantum-computing) research relies heavily on lasers to manipulate individual atoms and photons.
 
 What started as "a solution looking for a problem" became one of the most versatile technologies of the modern era. If you used the internet today, scanned a barcode, or had your eyes checked — you used a laser.

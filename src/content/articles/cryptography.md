@@ -5,7 +5,7 @@ description: "Cryptography protects information through mathematical techniques 
 category: technology
 tags: ["cryptography", "encryption", "cybersecurity", "data security", "privacy", "algorithms", "information security"]
 heroImage: "/images/articles/cryptography-hero.webp"
-heroAlt: "Digital lock symbol surrounded by encrypted code and binary data streams"
+heroAlt: "Editorial photograph representing the concept of cryptography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,9 +45,9 @@ Cryptography is the science and practice of securing information by transforming
 
 Cryptography has been around almost as long as writing itself. The Spartans used a device called a scytale---a leather strip wrapped around a wooden cylinder---to encrypt military messages around 700 BC. Julius Caesar shifted letters in the alphabet (A becomes D, B becomes E, and so on) to hide messages from enemies. This "Caesar cipher" is so simple a 10-year-old could crack it, but it worked fine when your adversaries were largely illiterate.
 
-For most of history, cryptography was a craft practiced by spies, diplomats, and military commanders. Codes were invented, broken, and replaced in an endless cycle. The breaking of the German Enigma machine during World War II---largely by Alan Turing and his team at Bletchley Park---is perhaps the most famous example. Their work shortened the war by an estimated two years and saved millions of lives.
+For most of history, cryptography was a craft practiced by spies, diplomats, and military commanders. Codes were invented, broken, and replaced in an endless cycle. The breaking of the German Enigma machine during [World War II](/world-war-ii)---largely by Alan Turing and his team at Bletchley Park---is perhaps the most famous example. Their work shortened the war by an estimated two years and saved millions of lives.
 
-But something changed in the 1970s. Cryptography transformed from a secretive government art into an open mathematical science. Two developments drove this shift.
+But something changed in the 1970s. Cryptography transformed from a secretive [government](/government) art into an open mathematical science. Two developments drove this shift.
 
 First, the Data Encryption Standard (DES) was published in 1977 as a federal standard, making strong encryption publicly available for the first time. Before DES, the NSA considered cryptographic knowledge a national security matter. Publishing DES was controversial---some argued it was deliberately weakened. But it democratized encryption.
 
@@ -83,7 +83,7 @@ RSA, published in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, was the f
 
 Here's the simplified version. You choose two large prime numbers (p and q), multiply them to get n, and derive a public key (e, n) and private key (d, n) through modular arithmetic. The public key encrypts messages. Only the private key decrypts them. Breaking RSA requires factoring n back into p and q---which, for sufficiently large numbers, is computationally infeasible.
 
-Current RSA implementations use key sizes of 2048 or 4096 bits. Factoring a 2048-bit number would take a classical computer longer than the age of the universe. But quantum computers change this calculation---Shor's algorithm can factor large numbers exponentially faster, which is why post-quantum cryptography is an active research area.
+Current RSA implementations use key sizes of 2048 or 4096 bits. Factoring a 2048-bit number would take a classical computer longer than the age of the universe. But quantum computers change this calculation---Shor's algorithm can factor large numbers exponentially faster, which is why post-[quantum cryptography](/quantum-cryptography) is an active research area.
 
 ### Elliptic Curve Cryptography (ECC)
 
@@ -149,13 +149,13 @@ Here's what happens when you visit an HTTPS website:
 4. **Secure communication**: All subsequent data is encrypted with AES (or another symmetric cipher) using the session key. This is the symmetric phase---faster than asymmetric encryption for bulk data.
 5. **Integrity**: Every message includes a Message Authentication Code (MAC) using a hash function, ensuring data hasn't been tampered with.
 
-This hybrid approach---asymmetric cryptography for key exchange, symmetric cryptography for data encryption---combines the flexibility of public-key systems with the speed of symmetric systems. It's elegant engineering.
+This hybrid approach---asymmetric cryptography for key exchange, symmetric cryptography for data encryption---combines the flexibility of public-key systems with the speed of symmetric systems. It's elegant [engineering](/engineering).
 
-TLS protects roughly 95% of web traffic as of 2025. The shift from HTTP to HTTPS, pushed by browser warnings and Google search ranking factors, has been one of the most successful security improvements in internet history.
+TLS protects roughly 95% of web traffic as of 2025. The shift from HTTP to HTTPS, pushed by browser warnings and Google search ranking factors, has been one of the most successful security improvements in [internet history](/internet-history).
 
 ## The Quantum Threat
 
-Quantum computing poses a specific and well-understood threat to current cryptography. Peter Shor's algorithm, published in 1994, demonstrates that a sufficiently powerful quantum computer can factor large numbers and solve the discrete logarithm problem exponentially faster than classical computers.
+[Quantum computing](/quantum-computing) poses a specific and well-understood threat to current cryptography. Peter Shor's algorithm, published in 1994, demonstrates that a sufficiently powerful quantum computer can factor large numbers and solve the discrete logarithm problem exponentially faster than classical computers.
 
 This directly threatens RSA, ECC, and Diffie-Hellman---the foundations of public-key cryptography. A quantum computer with enough stable qubits could break RSA-2048 in hours rather than billions of years.
 
@@ -219,7 +219,7 @@ Several developments will shape cryptography's near-term future.
 
 **Zero-knowledge proofs**: These allow one party to prove they know something (like a password) without revealing the information itself. They're already used in some [blockchain](/blockchain) systems and have applications in authentication, voting, and privacy-preserving verification.
 
-**Secure multi-party computation**: Multiple parties can jointly compute a function over their inputs while keeping those inputs private. This has applications in privacy-preserving data analysis, auctions, and collaborative research.
+**Secure multi-party computation**: Multiple parties can jointly compute a function over their inputs while keeping those inputs private. This has applications in privacy-preserving [data analysis](/data-analysis), auctions, and collaborative research.
 
 Cryptography will remain essential as long as information has value and adversaries exist---which is to say, forever. The specific algorithms will change. The mathematical foundations will evolve. But the fundamental mission---protecting information from those who shouldn't have it---is timeless.
 

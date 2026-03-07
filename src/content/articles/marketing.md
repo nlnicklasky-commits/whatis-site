@@ -5,7 +5,7 @@ description: "Marketing is the process of identifying customer needs and promoti
 category: business
 tags: ["business strategy", "marketing", "advertising"]
 heroImage: "/images/articles/marketing.webp"
-heroAlt: "A marketing team brainstorming around a whiteboard covered in campaign ideas and customer personas"
+heroAlt: "Editorial photograph representing the concept of marketing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ People have been marketing since there were things to sell. Roman merchants pain
 
 But marketing as a formal discipline really took shape in the early 20th century. The first university marketing courses appeared around 1902 at the University of Michigan. By the 1950s and 1960s, the field had developed its foundational frameworks, most notably the "marketing concept" — the then-radical idea that businesses should start with customer needs rather than with what the factory could produce.
 
-This sounds obvious now. It wasn't. For most of industrial history, the default approach was "make stuff, then figure out how to sell it." Henry Ford's (probably apocryphal) quote — "Any customer can have a car painted any color that he wants so long as it is black" — captures the production-oriented mindset that marketing eventually replaced.
+This sounds obvious now. It wasn't. For most of [industrial history](/industrial-history), the default approach was "make stuff, then figure out how to sell it." Henry Ford's (probably apocryphal) quote — "Any customer can have a car painted any color that he wants so long as it is black" — captures the production-oriented mindset that marketing eventually replaced.
 
 ## The 4 Ps Framework
 
@@ -69,7 +69,7 @@ What you charge communicates as much as any ad. Price too low and people assume 
 
 Pricing strategies range from cost-plus (add a markup to your production cost) to value-based (charge what customers think it's worth, regardless of your costs) to penetration pricing (start low to grab market share, raise later) to premium pricing (start high because exclusivity is part of the appeal).
 
-One counterintuitive finding from pricing research: for many products, raising the price actually increases sales. This happens when price signals quality and the customer can't easily evaluate the product otherwise. Wine is the classic example — most people can't distinguish a $15 wine from a $50 wine in blind tastings, but they enjoy the $50 bottle more when they know the price.
+One counterintuitive finding from pricing research: for many products, raising the price actually increases [sales](/sales). This happens when price signals quality and the customer can't easily evaluate the product otherwise. Wine is the classic example — most people can't distinguish a $15 wine from a $50 wine in blind tastings, but they enjoy the $50 bottle more when they know the price.
 
 ### Place (Distribution)
 
@@ -79,9 +79,9 @@ Distribution decisions are often underestimated. Having the best product in the 
 
 ### Promotion
 
-This is the P most people think of when they hear "marketing." Promotion includes advertising, public relations, content marketing, social media, email, sales promotions (coupons, discounts), personal selling, and events.
+This is the P most people think of when they hear "marketing." Promotion includes advertising, [public relations](/public-relations), content marketing, social media, email, sales promotions (coupons, discounts), personal selling, and events.
 
-The promotional mix depends on your audience, budget, and goals. A B2B software company might rely heavily on content marketing and trade shows. A consumer packaged goods brand might spend primarily on TV and in-store displays. A startup might focus entirely on social media and influencer partnerships because that's what the budget allows.
+The promotional mix depends on your audience, budget, and goals. A B2B software company might rely heavily on content marketing and [trade](/trade) shows. A consumer packaged goods brand might spend primarily on TV and in-store displays. A startup might focus entirely on social media and influencer partnerships because that's what the budget allows.
 
 ## Digital Changed the Game
 
@@ -91,9 +91,9 @@ This means marketing has to be less about persuasion and more about being genuin
 
 ### The Key Digital Channels
 
-**Search engine optimization (SEO)** gets your content found when people search for related topics. When someone types "best running shoes for flat feet" into Google, appearing on that first page of results is worth more than almost any ad.
+**Search engine [optimization](/optimization) (SEO)** gets your content found when people search for related topics. When someone types "best [running](/running) shoes for flat feet" into Google, appearing on that first page of results is worth more than almost any ad.
 
-**Pay-per-click advertising (PPC)** — Google Ads, social media ads — lets you target specific audiences with specific messages and pay only when someone clicks. The targeting precision is remarkable: you can show ads to 25-34-year-old women in Portland who've recently searched for hiking gear. Whether that precision is always used responsibly is another question.
+**Pay-per-click advertising (PPC)** — Google Ads, social media ads — lets you target specific audiences with specific messages and pay only when someone clicks. The targeting precision is remarkable: you can show ads to 25-34-year-old women in Portland who've recently searched for [hiking](/hiking) gear. Whether that precision is always used responsibly is another question.
 
 **Social media marketing** covers organic posting (free, but limited reach) and paid social ads. Different platforms attract different demographics: TikTok skews younger, LinkedIn is professional, Facebook has the broadest age range but declining engagement among young users.
 

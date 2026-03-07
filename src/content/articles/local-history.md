@@ -5,7 +5,7 @@ description: "Local history is the study of past events, people, and changes wit
 category: history
 tags: ["community history", "local history", "heritage", "genealogy", "archives"]
 heroImage: "/images/articles/local-history.webp"
-heroAlt: "A vintage photograph of a small town main street displayed alongside old newspaper clippings and maps"
+heroAlt: "Editorial photograph representing the concept of local history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,15 +51,15 @@ Local history also challenges the stories that national history tells. The offic
 
 People have always told stories about their communities. But local history as a systematic pursuit is relatively modern.
 
-In England, the antiquarian tradition — wealthy gentlemen documenting the history, monuments, and notable families of their counties — dates to the 16th century. William Camden's *Britannia* (1586) surveyed the history and geography of Britain county by county. These early works were often more about prominent families and ancient monuments than about ordinary life, but they established the principle that local places had histories worth recording.
+In England, the antiquarian tradition — wealthy gentlemen documenting the history, monuments, and notable families of their counties — dates to the 16th century. William Camden's *Britannia* (1586) surveyed the history and [geography](/geography) of Britain county by county. These early works were often more about prominent families and ancient monuments than about ordinary life, but they established the principle that local places had histories worth recording.
 
-In the United States, local history boomed in the 19th century. As communities grew and the founding generation died off, people felt an urgency to document what had happened before living memory faded. County histories — thick volumes covering a county's settlement, government, churches, businesses, and leading families — were published by the thousands between 1870 and 1920.
+In the United States, local history boomed in the 19th century. As communities grew and the founding generation died off, people felt an urgency to document what had happened before living memory faded. County histories — thick volumes covering a county's settlement, [government](/government), churches, businesses, and leading families — were published by the thousands between 1870 and 1920.
 
 These early county histories had obvious biases. They typically focused on white, male, property-owning residents. They often served as vanity publications — families paid to have their biographies included. Indigenous peoples, African Americans, immigrants, and working-class communities were largely absent.
 
 The 20th century saw local history professionalize and democratize. The Works Progress Administration (WPA) during the 1930s employed writers to document local histories, folklore, and slave narratives across the United States — creating an extraordinary archive of ordinary American life. The Federal Writers' Project alone produced over 10,000 individual pieces documenting communities, ethnic groups, and social conditions.
 
-After World War II, the "new social history" movement pushed historians to study ordinary people — workers, women, minorities, immigrants — rather than just elites. Local history became a natural vehicle for this approach. If you want to understand how working-class families experienced industrialization, you study a specific factory town. If you want to understand the Great Migration, you study the specific Southern communities people left and the Northern neighborhoods they built.
+After [World War II](/world-war-ii), the "new [social history](/social-history)" movement pushed historians to study ordinary people — workers, women, minorities, immigrants — rather than just elites. Local history became a natural vehicle for this approach. If you want to understand how working-class families experienced industrialization, you study a specific factory town. If you want to understand the Great Migration, you study the specific Southern communities people left and the Northern neighborhoods they built.
 
 ## Sources and Methods
 
@@ -69,11 +69,11 @@ Local history research uses a remarkable variety of sources. Here's what experie
 
 **Newspapers** — local papers are goldmines. They record everything from city council debates and business openings to crime reports, social events, and obituaries. The Library of Congress's Chronicling America project has digitized millions of pages of historic American newspapers, making research far easier than microfilm scrolling.
 
-**Land records and maps** — deed books, plat maps, and Sanborn fire insurance maps (detailed building-by-building maps created for insurance underwriting from the 1860s through the 1960s) show how communities physically changed over time. Tax records reveal property values, ownership patterns, and economic conditions. These connect directly to the work of [cartography](/cartography) and geographic documentation.
+**Land records and maps** — deed books, plat maps, and Sanborn fire [insurance](/insurance) maps (detailed building-by-building maps created for insurance underwriting from the 1860s through the 1960s) show how communities physically changed over time. Tax records reveal property values, ownership patterns, and economic conditions. These connect directly to the work of [cartography](/cartography) and geographic documentation.
 
 **Church and cemetery records** — before civil vital registration became standard, churches were often the primary record keepers for births, marriages, and deaths. Cemetery inscriptions, burial records, and church membership rolls provide genealogical and demographic data.
 
-**Oral histories** — recorded interviews with long-time community members capture memories, perspectives, and details that no written document preserves. Oral history has its own methodology — structured interviews, careful recording, and critical evaluation of memory's reliability — but the information it captures is irreplaceable.
+**Oral histories** — recorded interviews with long-time community members capture memories, perspectives, and details that no written document preserves. [Oral history](/oral-history) has its own methodology — structured interviews, careful recording, and critical evaluation of memory's reliability — but the information it captures is irreplaceable.
 
 **Photographs and visual materials** — historic photographs, postcards, architectural drawings, and paintings document the physical appearance of communities in ways that words alone cannot. Many local libraries and historical societies hold photographic collections that are being digitized and made accessible online.
 
@@ -85,7 +85,7 @@ Historical societies are the institutional backbone of local history in most com
 
 Museums — from large regional museums to tiny, single-room collections — preserve and interpret local artifacts, documents, and stories. Historic preservation programs protect buildings, landscapes, and archaeological sites that embody local history. Walking tours, historical markers, and heritage trails make local history physically visible in the communities themselves.
 
-Digital technology has transformed the field. Digitized records, online databases, geographic information systems (GIS), and social media have made research faster and collaboration easier. Projects like HistoryPin and the Digital Public Library of America aggregate local history materials from thousands of institutions, making them searchable and accessible worldwide.
+Digital technology has transformed the field. Digitized records, online databases, geographic [information systems](/information-systems) (GIS), and social media have made research faster and collaboration easier. Projects like HistoryPin and the Digital Public Library of America aggregate local history materials from thousands of institutions, making them searchable and accessible worldwide.
 
 ## Local History and Identity
 

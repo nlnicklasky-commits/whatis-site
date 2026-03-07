@@ -5,7 +5,7 @@ description: "Global economics studies international trade, finance, and policy 
 category: finance
 tags: ["global economics", "international trade", "economics", "finance", "globalization", "foreign investment", "exchange rates"]
 heroImage: "/images/articles/global-economics-hero.webp"
-heroAlt: "World map overlaid with trade routes and financial data representing global economic connections"
+heroAlt: "Editorial photograph representing the concept of global economics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Not quite. National borders create complications that don't exist within a singl
 
 All of this means that economic interactions between countries follow different rules than those within countries. Global economics studies those rules—and what happens when they change.
 
-## International Trade: Who Makes What and Why
+## [International Trade](/international-trade): Who Makes What and Why
 
 Trade between nations is as old as civilization itself. The Phoenicians traded across the Mediterranean 3,000 years ago. The [Silk Road](/silk-road) connected China to Europe for centuries. What's changed is the scale: global trade in goods and services exceeded $31 trillion in 2023, according to the World Trade Organization.
 
@@ -55,13 +55,13 @@ The theoretical foundation of international trade is David Ricardo's principle o
 
 Here's how it works. Imagine two countries: one that's efficient at making both wine and cloth, and another that's less efficient at both. Even so, the less efficient country will be relatively better at producing one of the two goods. If each country specializes in what it's relatively best at and they trade, both end up with more of both goods than if they tried to produce everything themselves.
 
-This isn't just theory. Comparative advantage explains why Japan exports cars and imports beef, why Brazil exports coffee and imports electronics, and why global specialization has, on average, raised living standards worldwide. Countries that have embraced trade—South Korea, Singapore, Chile—have generally grown faster than those that closed themselves off.
+This isn't just theory. Comparative advantage explains why Japan exports cars and imports beef, why Brazil exports coffee and imports [electronics](/electronics), and why global specialization has, on average, raised living standards worldwide. Countries that have embraced trade—South Korea, Singapore, Chile—have generally grown faster than those that closed themselves off.
 
 ### What Gets Traded
 
 Global trade includes tangible goods (manufactured products, raw materials, agricultural commodities) and services (finance, consulting, software, tourism). Services trade is growing faster than goods trade and now accounts for about 25% of total global trade.
 
-The composition of trade has shifted dramatically. In 1960, raw materials dominated global trade. Today, manufactured goods—especially electronics, vehicles, and machinery—are the largest category. The fastest-growing segment is digital services: software, cloud computing, streaming content, and data processing.
+The composition of trade has shifted dramatically. In 1960, raw materials dominated global trade. Today, manufactured goods—especially electronics, vehicles, and machinery—are the largest category. The fastest-growing segment is digital services: software, [cloud computing](/cloud-computing), streaming content, and data processing.
 
 Supply chains have become astonishingly complex. A single smartphone might contain components from 40 different countries. The Boeing 787 Dreamliner has major structural components made in Japan, Italy, and South Korea, assembled in the United States with engines from either Britain or the US. This fragmentation of production across borders—sometimes called "global value chains"—means that trade statistics significantly understate the degree of international economic integration.
 
@@ -99,7 +99,7 @@ Several factors influence exchange rates:
 
 Not all currencies float freely. China manages its currency (the yuan/renminbi) within a band, intervening in markets to prevent large fluctuations. Some countries peg their currency to the dollar or euro. A few use another country's currency entirely—Ecuador and El Salvador use the US dollar.
 
-The choice between fixed and floating exchange rates involves tradeoffs. Fixed rates provide stability (businesses can plan without worrying about currency swings) but require giving up independent monetary policy. Floating rates allow monetary independence but introduce exchange rate volatility that can disrupt trade and investment.
+The choice between fixed and floating exchange rates involves tradeoffs. Fixed rates provide stability (businesses can plan without worrying about currency swings) but require giving up independent [monetary policy](/monetary-policy). Floating rates allow monetary independence but introduce exchange rate volatility that can disrupt trade and investment.
 
 The eurozone represents an extreme commitment to fixed rates—19 countries sharing a single currency. This eliminates exchange rate risk within the zone but means countries like Greece and Germany, with very different economic structures, can't adjust their currencies independently. The European debt crisis of 2010-2015 painfully illustrated this limitation.
 
@@ -187,9 +187,9 @@ The answers are complex and debated, but several factors consistently matter:
 
 **Trade openness**: Countries that engage in international trade generally grow faster than those that don't, though the relationship is complicated by institutional quality and the type of goods traded.
 
-**Technology**: Access to and adoption of technology drives productivity growth. The gap between rich and poor countries is fundamentally a gap in productivity—output per worker.
+**Technology**: Access to and adoption of technology drives [productivity](/productivity) growth. The gap between rich and poor countries is fundamentally a gap in productivity—output per worker.
 
-Foreign aid's role in development is heavily debated. Total official development assistance reached about $211 billion in 2023. Whether this aid promotes sustainable development or creates dependency varies enormously depending on how it's implemented and the institutional context of recipient countries.
+Foreign aid's role in development is heavily debated. Total official development assistance reached about $211 billion in 2023. Whether this aid promotes [sustainable development](/sustainable-development) or creates dependency varies enormously depending on how it's implemented and the institutional context of recipient countries.
 
 ## The Future of Global Economics
 
@@ -201,7 +201,7 @@ Several trends will shape the global economy in coming decades.
 
 **Demographic shifts** will alter global economic balances. Aging populations in Europe, Japan, and China will reduce their labor forces and increase fiscal pressures. Young, growing populations in Africa and South Asia represent the world's future workforce and consumer base.
 
-**Geopolitical competition** between the US, China, and other powers will increasingly shape economic rules. The post-Cold War consensus around liberal economic order is fraying, and the future institutional architecture of global economics is genuinely uncertain.
+**Geopolitical competition** between the US, China, and other powers will increasingly shape economic rules. The post-Cold War consensus around liberal economic order is fraying, and the future institutional [architecture](/architecture) of global economics is genuinely uncertain.
 
 ## Key Takeaways
 

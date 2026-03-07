@@ -5,7 +5,7 @@ description: "Virtual reality immerses users in computer-generated 3D environmen
 category: technology
 tags: ["virtual reality", "technology", "immersive", "computer graphics", "gaming"]
 heroImage: "/images/articles/virtual-reality.webp"
-heroAlt: "Person wearing a VR headset with colorful digital environment projected around them"
+heroAlt: "Editorial photograph representing the concept of virtual reality"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,7 +61,7 @@ Modern headsets use a combination of inertial measurement units (IMUs — accele
 
 **Outside-in tracking** uses external sensors or cameras placed around the room that observe the headset and controllers. The original HTC Vive used laser-emitting "lighthouse" base stations. This can be slightly more accurate but requires setup.
 
-The target for head tracking latency is under 20 milliseconds from head movement to updated display — called "motion-to-photon latency." Achieving this consistently is one of VR's hardest engineering challenges.
+The target for head tracking latency is under 20 milliseconds from head movement to updated display — called "motion-to-photon latency." Achieving this consistently is one of VR's hardest [engineering](/engineering) challenges.
 
 ### Hand and Body Tracking
 
@@ -107,13 +107,13 @@ Surgical training and planning use VR to let surgeons practice procedures on vir
 
 VR training is expanding across industries. Walmart trained over a million employees using VR for customer service scenarios, Black Friday crowd management, and empathy training. UPS trained drivers using VR road simulations. The US military uses VR for combat simulations, vehicle operation training, and situational awareness exercises.
 
-The appeal: dangerous or expensive scenarios can be practiced repeatedly without risk or cost. A nuclear power plant operator can practice emergency procedures. An astronaut can rehearse a spacewalk. A pilot can train for engine failures. Each scenario is repeatable, measurable, and safe.
+The appeal: dangerous or expensive scenarios can be practiced repeatedly without risk or cost. A [nuclear power](/nuclear-power) plant operator can practice emergency procedures. An astronaut can rehearse a spacewalk. A pilot can train for engine failures. Each scenario is repeatable, measurable, and safe.
 
 NASA uses VR extensively. Astronauts train for International Space Station operations in VR simulations that replicate zero-gravity environments. Engineers use VR to inspect virtual spacecraft models at full scale before building them.
 
 ### Architecture and Design
 
-Architects can walk clients through full-scale virtual models of buildings before construction begins. The difference between looking at a blueprint and standing inside a virtual version of your future home is enormous — clients catch design problems and make better decisions when they can experience the space rather than just viewing it on paper.
+Architects can walk clients through full-scale virtual models of buildings before [construction](/construction) begins. The difference between looking at a blueprint and standing inside a virtual version of your future home is enormous — clients catch design problems and make better decisions when they can experience the space rather than just viewing it on paper.
 
 [Industrial design](/industrial-design) teams use VR to evaluate product designs at true scale. Car manufacturers walk around virtual prototypes, checking sightlines, ergonomics, and aesthetics without building expensive physical models.
 
@@ -125,7 +125,7 @@ Tourism boards and hotels use VR previews to let potential visitors experience d
 
 ### Social VR and Remote Work
 
-Platforms like VRChat, Rec Room, and Meta's Horizon Worlds create virtual social spaces where people meet, hang out, play games, and attend events. The social dynamics are fascinating — people form genuine friendships and communities in these spaces, and the sense of co-presence is qualitatively different from video calls.
+Platforms like VRChat, Rec Room, and Meta's Horizon Worlds create virtual social spaces where people meet, hang out, play games, and attend events. The [social dynamics](/social-dynamics) are fascinating — people form genuine friendships and communities in these spaces, and the sense of co-presence is qualitatively different from video calls.
 
 Remote work applications are growing. Virtual meeting rooms where colleagues are represented by avatars that track their gestures and expressions feel more like being in the same room than any video call. Companies like Spatial, Immersed, and Meta offer virtual workspaces with multiple virtual monitors floating in space — appealing for remote workers who want more screen real estate without buying physical monitors.
 
@@ -153,7 +153,7 @@ Despite impressive progress, VR faces persistent technical challenges.
 
 **Locomotion.** Moving through virtual spaces larger than your physical room is an unsolved problem. Teleportation (pointing and blinking to a new location) works but breaks immersion. Smooth artificial locomotion (joystick movement) causes motion sickness in many users. Omnidirectional treadmills exist but are expensive and bulky. No perfect solution exists yet.
 
-**Weight and comfort.** Current headsets weigh 400-700 grams and press against your face. Wearing one for more than an hour or two becomes uncomfortable. Battery life for standalone headsets is typically 2-3 hours. Lighter materials, better weight distribution, and improved battery technology are incremental improvements rather than breakthroughs.
+**Weight and comfort.** Current headsets weigh 400-700 grams and press against your face. Wearing one for more than an hour or two becomes uncomfortable. Battery life for standalone headsets is typically 2-3 hours. Lighter materials, better weight distribution, and improved [battery technology](/battery-technology) are incremental improvements rather than breakthroughs.
 
 ## The Social and Psychological Questions
 

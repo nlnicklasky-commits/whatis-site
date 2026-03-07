@@ -5,7 +5,7 @@ description: "Biological anthropology studies human evolution, genetics, primato
 category: everyday-concepts
 tags: ["biological anthropology", "anthropology", "evolution", "primatology", "genetics", "human biology"]
 heroImage: "/images/articles/biological-anthropology.webp"
-heroAlt: "Human skull specimens and fossil casts displayed in a research laboratory"
+heroAlt: "Editorial photograph representing the concept of biological anthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Biological Anthropology?
 
-Biological anthropology (also called physical anthropology) is the study of human biology within an evolutionary framework. It examines how our species evolved, how we vary physically across populations, how we relate to other primates, and what our bones, genes, and bodies reveal about both our past and present.
+Biological anthropology (also called [physical anthropology](/physical-anthropology)) is the study of human biology within an evolutionary framework. It examines how our species evolved, how we vary physically across populations, how we relate to other primates, and what our bones, genes, and bodies reveal about both our past and present.
 
 ## What Makes It Different from Biology?
 
@@ -61,7 +61,7 @@ Humans look different from one another — skin color, body proportions, facial 
 
 Skin color variation, for instance, is an adaptation to ultraviolet radiation. Populations near the equator evolved darker skin to protect against UV damage; populations at higher latitudes evolved lighter skin to allow sufficient vitamin D production from weaker sunlight. The variation is real; the idea that it maps onto discrete biological "races" is not supported by [genetic](/genetics) evidence.
 
-### Forensic Anthropology
+### [Forensic Anthropology](/forensic-anthropology)
 
 When human skeletal remains are found — whether at crime scenes, disaster sites, or archaeological excavations — forensic anthropologists determine biological identity. From bones alone, trained specialists can estimate age at death, sex, ancestry, stature, and sometimes cause of death. They assist law enforcement, military identification programs, and human rights investigations worldwide.
 
@@ -83,6 +83,6 @@ Ancient DNA from more recent periods has rewritten population histories. The gen
 
 ## Why It Matters Now
 
-Biological anthropology addresses questions with urgent contemporary relevance. Understanding human genetic variation informs [medicine](/human-physiology) — drug responses, disease susceptibility, and population health differences all require evolutionary context. Forensic methods help identify victims of wars, genocides, and natural disasters. Primatology informs conservation efforts for our endangered relatives.
+Biological anthropology addresses questions with urgent contemporary relevance. Understanding human genetic variation informs [medicine](/human-physiology) — drug responses, disease susceptibility, and population health differences all require evolutionary context. Forensic methods help identify victims of wars, genocides, and [natural disasters](/natural-disasters). Primatology informs conservation efforts for our endangered relatives.
 
 And perhaps most importantly, biological anthropology provides the scientific basis for understanding human unity alongside human diversity. We are one species, remarkably similar genetically (any two humans share about 99.9% of their DNA), shaped by the same evolutionary forces, and connected by a shared African origin roughly 300,000 years ago. The differences that seem so significant on the surface are, biologically speaking, quite shallow. That perspective — grounded in evidence rather than ideology — is worth understanding.

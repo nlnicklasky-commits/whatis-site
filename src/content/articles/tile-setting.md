@@ -5,7 +5,7 @@ description: "Tile setting is the skilled trade of installing ceramic, porcelain
 category: everyday-concepts
 tags: ["tile setting", "tiling", "construction", "home improvement", "ceramic tile", "porcelain tile"]
 heroImage: "/images/articles/tile-setting.webp"
-heroAlt: "A tile setter applying mortar and placing ceramic tiles on a bathroom floor"
+heroAlt: "Editorial photograph representing the concept of tile setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Tile Setting?
 
-Tile setting is the construction trade of installing tiles — ceramic, porcelain, natural stone, glass, or other materials — on floors, walls, countertops, showers, and other surfaces. It's a skilled craft that combines precision measurement, surface preparation, adhesive application, and artistic layout to create durable, waterproof, and attractive finishes.
+Tile setting is the construction [trade](/trade) of installing tiles — ceramic, porcelain, natural stone, glass, or other materials — on floors, walls, countertops, showers, and other surfaces. It's a skilled craft that combines precision measurement, surface preparation, adhesive application, and artistic layout to create durable, waterproof, and attractive finishes.
 
 If you've ever stood in a beautifully tiled bathroom or admired an intricate kitchen backsplash, a tile setter made that happen. The work looks simple from the finished side. From the installation side, it's a trade that demands real knowledge and skill.
 
@@ -70,12 +70,12 @@ Natural stone and some grout types require sealing to prevent staining and water
 - **Ceramic** — Affordable, easy to cut, available in vast variety. Best for walls and light-traffic floors.
 - **Porcelain** — Denser, harder, more water-resistant. Suitable for all applications including outdoor.
 - **Natural stone** (marble, granite, slate, travertine) — Beautiful but requires sealing and more careful installation.
-- **Glass** — Primarily for backsplashes and accents. Translucent quality creates unique visual effects.
+- **Glass** — Primarily for backsplashes and accents. Translucent quality creates unique [visual effects](/visual-effects).
 - **Large format** — Tiles 15 inches or larger on any side. Creates a modern, minimal-grout-line look but demands very flat substrates.
 
 ## Tile Setting as a Career
 
-The Bureau of Labor Statistics projects steady demand for tile setters, with a median salary of approximately $48,000-55,000 (experienced setters earn significantly more). The trade offers independence — many tile setters are self-employed — and the satisfaction of visible, tangible results.
+The Bureau of Labor [Statistics](/statistics) projects steady demand for tile setters, with a median salary of approximately $48,000-55,000 (experienced setters earn significantly more). The trade offers independence — many tile setters are self-employed — and the satisfaction of visible, tangible results.
 
 The skill gap is real. Finding a truly excellent tile setter is harder than most homeowners expect. The difference between average and exceptional tile work is immediately visible, and quality installers stay busy through referrals.
 

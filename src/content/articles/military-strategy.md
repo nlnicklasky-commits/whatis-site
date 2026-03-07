@@ -5,7 +5,7 @@ description: "Military strategy is the planning and conduct of warfare at the hi
 category: politics
 tags: ["military strategy", "warfare", "defense", "tactics", "geopolitics", "history"]
 heroImage: "/images/articles/military-strategy.webp"
-heroAlt: "Military strategy map with figurines and tactical markings on a planning table"
+heroAlt: "Editorial photograph representing the concept of military strategy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Military strategy is the art and science of planning and directing military operations to achieve political objectives. It operates at the highest level of warfare — above individual battles (tactics) and campaigns (operational art) — and answers the fundamental question: how do we use military force to get what we want?
 
-That might sound straightforward, but it's anything but. Military strategy must account for politics, economics, geography, technology, psychology, logistics, alliance dynamics, and the deeply unpredictable behavior of human beings under extreme stress. As the Prussian strategist Helmuth von Moltke famously observed, "No plan survives first contact with the enemy."
+That might sound straightforward, but it's anything but. Military strategy must account for [politics](/politics), [economics](/economics), [geography](/geography), technology, [psychology](/psychology), [logistics](/logistics), alliance dynamics, and the deeply unpredictable behavior of human beings under extreme stress. As the Prussian strategist Helmuth von Moltke famously observed, "No plan survives first contact with the enemy."
 
 ## Strategy vs. Tactics vs. Operations
 
@@ -41,7 +41,7 @@ These terms get confused constantly:
 
 **Tactics** — how you fight a battle. Troop formations, fire and maneuver, combined arms coordination. A company commander deploying infantry and calling in air support is using tactics.
 
-**Operational art** — how you sequence and connect battles to achieve campaign objectives. A theater commander planning the invasion of Normandy — choosing landing beaches, coordinating naval and air forces, scheduling reinforcements — is operating at the operational level.
+**Operational art** — how you sequence and connect battles to achieve campaign objectives. A theater commander planning the invasion of Normandy — choosing landing beaches, coordinating naval and air forces, [scheduling](/scheduling) reinforcements — is operating at the operational level.
 
 **Strategy** — how you use all available means (military, economic, diplomatic, informational) to achieve national objectives. A president deciding whether to go to war at all, what victory looks like, and how military action fits into broader political goals is making strategic decisions.
 
@@ -51,7 +51,7 @@ The classic error is winning tactically while losing strategically. The United S
 
 ### Sun Tzu (circa 5th century BCE)
 
-*The Art of War* remains the most widely read strategic text after 2,500 years. Sun Tzu emphasized indirect approaches — winning without fighting when possible, using deception, exploiting weakness, and avoiding strengths. "Supreme excellence consists in breaking the enemy's resistance without fighting." His ideas influence business strategy, competitive sports, and game theory as much as military planning.
+*The Art of War* remains the most widely read strategic text after 2,500 years. Sun Tzu emphasized indirect approaches — winning without fighting when possible, using deception, exploiting weakness, and avoiding strengths. "Supreme excellence consists in breaking the enemy's resistance without fighting." His ideas influence [business strategy](/business-strategy), competitive sports, and [game theory](/game-theory) as much as military planning.
 
 ### Carl von Clausewitz (1780-1831)
 

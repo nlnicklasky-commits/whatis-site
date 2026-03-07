@@ -5,7 +5,7 @@ description: "Marine engineering designs and maintains the systems that keep shi
 category: technology
 tags: ["marine engineering", "naval architecture", "ship systems", "propulsion", "maritime", "engineering", "ocean"]
 heroImage: "/images/articles/marine-engineering-hero.webp"
-heroAlt: "Large container ship engine room showing massive diesel engines and piping systems"
+heroAlt: "Editorial photograph representing the concept of marine engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -81,7 +81,7 @@ The propulsion plant is the heart of any vessel. Different ships use different p
 
 **Electric propulsion** is growing rapidly. Battery-electric ferries operate on short routes in Scandinavia. Hybrid diesel-electric systems improve efficiency on vessels with variable speed requirements. And emerging technologies — hydrogen fuel cells, ammonia-fueled engines — are being tested for zero-emission shipping.
 
-Each propulsion type involves different [engineering](/engineering) challenges. The marine engineer must understand thermodynamic cycles, combustion chemistry, bearing design, vibration analysis, shaft alignment, and propeller-hull interaction.
+Each propulsion type involves different [engineering](/engineering) challenges. The marine engineer must understand thermodynamic cycles, combustion chemistry, bearing design, [vibration analysis](/vibration-analysis), shaft alignment, and propeller-hull interaction.
 
 ### Power Generation
 
@@ -103,7 +103,7 @@ Fire-fighting systems are critical because fire at sea is one of the most danger
 
 ### HVAC and Environmental Control
 
-Submarines need atmospheric control — CO2 scrubbing, oxygen generation, and temperature regulation in a sealed environment. Surface ships need ventilation for engine rooms (which generate enormous heat), air conditioning for crew and passenger spaces, and refrigeration for food storage.
+Submarines need atmospheric control — CO2 scrubbing, oxygen generation, and temperature regulation in a sealed environment. Surface ships need ventilation for engine rooms (which generate enormous heat), [air conditioning](/air-conditioning) for crew and passenger spaces, and refrigeration for food storage.
 
 In naval vessels, especially submarines, HVAC is directly connected to survivability. Nuclear submarine atmospheric systems must maintain breathable air for a crew of 130+ people during months-long submerged deployments. The engineering is remarkably sophisticated — electrolysis for oxygen generation, amine-based CO2 scrubbing, and trace contaminant filters for everything from cooking fumes to battery gas.
 
@@ -111,9 +111,9 @@ In naval vessels, especially submarines, HVAC is directly connected to survivabi
 
 Modern ships are heavily automated. Engine room monitoring systems track thousands of parameters — temperatures, pressures, flow rates, vibration levels, electrical loads — and alarm when values exceed limits. Automated systems start and stop equipment, manage load sharing between generators, and adjust operating parameters for efficiency.
 
-The trend toward unmanned engine rooms (UMS) means that modern ships can operate for extended periods with no one physically present in the engine room. The ship's systems monitor themselves and alert the duty engineer only when attention is needed. This connects marine engineering to [computer science](/computer-science) and control theory.
+The trend toward unmanned engine rooms (UMS) means that modern ships can operate for extended periods with no one physically present in the engine room. The ship's systems monitor themselves and alert the duty engineer only when attention is needed. This connects marine engineering to [computer science](/computer-science) and [control theory](/control-theory).
 
-## Naval Architecture vs. Marine Engineering: The Handshake
+## [Naval Architecture](/naval-architecture) vs. Marine Engineering: The Handshake
 
 While these are distinct disciplines, they're deeply interconnected. The naval architect designs the hull form, calculates stability, and determines structural scantlings (the dimensions of structural members). The marine engineer designs everything that goes inside.
 

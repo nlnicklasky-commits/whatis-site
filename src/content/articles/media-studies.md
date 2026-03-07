@@ -5,7 +5,7 @@ description: "Media studies is the academic field examining how media shapes soc
 category: arts-amp-culture
 tags: ["media studies", "communications", "journalism", "cultural studies", "media literacy", "mass media"]
 heroImage: "/images/articles/media-studies.webp"
-heroAlt: "Multiple screens showing different media formats including news, social media, and film"
+heroAlt: "Editorial photograph representing the concept of media studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Media Studies?
 
-Media studies is the academic discipline that examines how media — television, film, newspapers, radio, social media, video games, advertising, and the internet — shapes and is shaped by society, culture, and politics. It asks questions like: Who creates media content and why? How do audiences interpret messages? How does media influence what we believe, fear, desire, and value?
+Media studies is the academic discipline that examines how media — television, film, newspapers, radio, social media, video games, advertising, and the internet — shapes and is shaped by society, culture, and [politics](/politics). It asks questions like: Who creates media content and why? How do audiences interpret messages? How does media influence what we believe, fear, desire, and value?
 
-If that sounds broad, it is. Media studies sits at the intersection of sociology, cultural studies, political science, psychology, and technology studies. It's been a formal academic field since roughly the 1960s, though people have been thinking critically about media influence since at least the invention of the printing press.
+If that sounds broad, it is. Media studies sits at the intersection of [sociology](/sociology), cultural studies, [political science](/political-science), [psychology](/psychology), and technology studies. It's been a formal academic field since roughly the 1960s, though people have been thinking critically about media influence since at least the [invention](/invention) of the printing press.
 
 ## Why It Exists
 
 The average American spends over 12 hours per day consuming media in some form. That's more time than they spend sleeping. The sheer volume of media in modern life — the news we read, the shows we watch, the feeds we scroll, the ads we absorb — means that understanding how media works isn't an intellectual luxury. It's a practical necessity.
 
-Media studies emerged from several converging concerns. In the early 20th century, scholars worried about propaganda — how governments and corporations used mass media to manipulate public opinion. The Frankfurt School (Adorno, Horkheimer, Marcuse) analyzed how popular culture could serve as a tool of social control. Marshall McLuhan argued that the medium itself (not just the message) reshapes how humans think and relate.
+Media studies emerged from several converging concerns. In the early 20th century, scholars worried about propaganda — how governments and corporations used mass media to manipulate public opinion. The Frankfurt School (Adorno, Horkheimer, Marcuse) analyzed how [popular culture](/popular-culture) could serve as a tool of social control. Marshall McLuhan argued that the medium itself (not just the message) reshapes how humans think and relate.
 
-By the 1960s-70s, media studies had become a distinct academic field in British and American universities, drawing on literary criticism, sociology, semiotics (the study of signs and symbols), and political economy.
+By the 1960s-70s, media studies had become a distinct academic field in British and American universities, drawing on [literary criticism](/literary-criticism), sociology, semiotics (the study of signs and symbols), and political economy.
 
 ## Key Theories
 
@@ -63,7 +63,7 @@ By the 1960s-70s, media studies had become a distinct academic field in British 
 
 **Audiences.** How do people actually engage with media? Not just what they watch but how they interpret, discuss, share, and create meaning from it. Audience research uses surveys, interviews, ethnography, and increasingly, digital analytics.
 
-**Technology.** How do new technologies change media production, distribution, and consumption? The shift from broadcast to streaming, the rise of social media, algorithmic content curation — these technological changes reshape the entire media environment.
+**Technology.** How do new technologies change [media production](/media-production), distribution, and consumption? The shift from broadcast to streaming, the rise of social media, algorithmic content curation — these technological changes reshape the entire media environment.
 
 **Global media.** How does media flow across borders? How do global media companies affect local cultures? What's the relationship between media and globalization?
 
@@ -77,7 +77,7 @@ Perhaps the most practically useful output of media studies is media literacy �
 - Evaluating the quality and reliability of information sources
 - Understanding how algorithms shape what you see online
 
-Finland has integrated media literacy education into its school curriculum from primary school onward. The result: Finland consistently ranks as one of the most resilient countries against disinformation, according to the Open Society Institute. Media literacy works — when it's taught systematically.
+Finland has integrated media literacy [education](/education) into its school curriculum from primary school onward. The result: Finland consistently ranks as one of the most resilient countries against disinformation, according to the Open Society Institute. Media literacy works — when it's taught systematically.
 
 ## The Social Media Challenge
 
@@ -85,7 +85,7 @@ Social media has fundamentally altered every aspect of media studies. Traditiona
 
 Now everyone is both producer and consumer. Algorithms, not editors, curate what you see. Misinformation spreads faster than corrections. Echo chambers and filter bubbles reinforce existing beliefs. The attention economy rewards outrage over accuracy.
 
-Media studies scholars are still working out the implications. Research on social media's effects on mental health, political polarization, information quality, and social cohesion is active and contested. The field is studying a phenomenon that's changing faster than research can keep up.
+Media studies scholars are still working out the implications. Research on social media's effects on [mental health](/mental-health), political polarization, information quality, and social cohesion is active and contested. The field is studying a phenomenon that's changing faster than research can keep up.
 
 ## Criticism of the Field
 

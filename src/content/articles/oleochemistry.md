@@ -5,7 +5,7 @@ description: "Oleochemistry converts plant oils and animal fats into industrial 
 category: science
 tags: ["oleochemistry", "fats", "oils", "lipids", "fatty acids", "glycerol", "green chemistry"]
 heroImage: "/images/articles/oleochemistry-hero.webp"
-heroAlt: "Laboratory flasks containing golden plant oils alongside molecular structure diagrams"
+heroAlt: "Editorial photograph representing the concept of oleochemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -118,7 +118,7 @@ The glycerol surplus has driven research into new applications. Converting glyce
 Fatty acids themselves serve as:
 - **Candle wax** — stearic acid is the primary component of modern candles
 - **Rubber processing** — stearic acid is an essential additive in tire manufacturing
-- **Metalworking** — fatty acids serve as lubricants and corrosion inhibitors
+- **[Metalworking](/metalworking)** — fatty acids serve as lubricants and corrosion inhibitors
 - **Textile finishing** — fatty acid derivatives soften fabrics and improve water resistance
 
 **Fatty acid esters** (beyond biodiesel) serve as emollients in cosmetics, plasticizers in polymers, and synthetic lubricants. Isopropyl myristate, for example, is a common cosmetic ingredient that helps skin absorb other active ingredients.
@@ -139,7 +139,7 @@ Life cycle analyses generally show oleochemicals having lower carbon footprints 
 
 ### Bio-Based Polymers
 
-Oleochemistry is contributing to the development of bio-based plastics and polymers. **Polyamide 11** (marketed as Rilsan), made from castor oil, has been used since the 1940s in high-performance applications — automotive fuel lines, offshore oil pipes, sports equipment. It's a bio-based [engineering](/chemical-engineering) polymer that outperforms many petroleum-based alternatives.
+Oleochemistry is contributing to the development of bio-based plastics and polymers. **Polyamide 11** (marketed as Rilsan), made from castor oil, has been used since the 1940s in high-performance applications — automotive fuel lines, offshore oil pipes, sports equipment. It's a bio-based [engineering](/chemical-[engineering](/engineering)) polymer that outperforms many petroleum-based alternatives.
 
 **Epoxidized soybean oil** acts as a plasticizer and stabilizer in PVC, replacing petroleum-based phthalates that raise health concerns.
 
@@ -147,7 +147,7 @@ Oleochemistry is contributing to the development of bio-based plastics and polym
 
 ### Biolubricants
 
-Fatty acid esters make excellent lubricants — they're naturally viscous, have good lubricity, and are biodegradable. Bio-based lubricants are increasingly required in environmentally sensitive applications: forestry equipment (where hydraulic fluid leaks into soil), marine vessels (where oil spills into water), and food processing (where lubricant contact with food is possible).
+Fatty acid esters make excellent lubricants — they're naturally viscous, have good lubricity, and are biodegradable. Bio-based lubricants are increasingly required in environmentally sensitive applications: [forestry](/forestry) equipment (where hydraulic fluid leaks into soil), marine vessels (where oil spills into water), and food processing (where lubricant contact with food is possible).
 
 The challenge: fatty acid-based lubricants can be less stable at high temperatures than synthetic petroleum-based lubricants. Chemical modification (such as adding branching or changing the ester group) improves thermal stability while maintaining biodegradability.
 
@@ -155,7 +155,7 @@ The challenge: fatty acid-based lubricants can be less stable at high temperatur
 
 Modern oleochemical plants are large, continuous operations. A typical facility processes 200,000-500,000 tons of raw oils per year.
 
-**Fractionation** separates fatty acid mixtures by chain length and saturation. Distillation separates by boiling point (which correlates with chain length). Crystallization separates by melting point (which correlates with saturation). These separation steps are crucial because different applications require different fatty acid specifications.
+**Fractionation** separates fatty acid mixtures by chain length and saturation. [Distillation](/distillation) separates by boiling point (which correlates with chain length). Crystallization separates by melting point (which correlates with saturation). These separation steps are crucial because different applications require different fatty acid specifications.
 
 **Continuous splitting** (hydrolysis) runs 24/7 in counter-current columns. Fat enters at the top, water at the bottom. They meet at 250°C and 50 bar. Fatty acids exit at the top, glycerol-water ("sweet water") at the bottom. Residence time is 2-3 hours.
 
@@ -180,7 +180,7 @@ Palm oil is oleochemistry's most productive feedstock and its most controversial
 
 The Roundtable on Sustainable Palm Oil (RSPO) certifies palm oil produced according to environmental and social criteria. But critics argue RSPO standards are too weak, enforcement is insufficient, and certified palm oil still involves significant environmental impact. Boycotting palm oil entirely, however, would shift demand to less efficient oilseed crops requiring even more land.
 
-There's no clean solution here. The tension between agricultural productivity and environmental protection is real, and oleochemistry sits squarely in the middle of it.
+There's no clean solution here. The tension between agricultural [productivity](/productivity) and environmental protection is real, and oleochemistry sits squarely in the middle of it.
 
 ### Food vs. Fuel
 
@@ -200,7 +200,7 @@ Oleochemistry is evolving in several directions simultaneously.
 
 **Metabolic engineering** — modifying oilseed crops or microorganisms to produce specific fatty acids — could create tailor-made oleochemical feedstocks. Crops producing high-oleic, high-lauric, or unusual fatty acids (like ricinoleic acid from castor) are already commercially available.
 
-**Integration with [biochemistry](/biochemistry) and fermentation** — using microorganisms to convert fatty acids into higher-value products like omega-3 fatty acids, biosurfactants, or biopolymers — blurs the line between oleochemistry and [biotechnology](/biotechnology).
+**Integration with [biochemistry](/biochemistry) and [fermentation](/fermentation)** — using microorganisms to convert fatty acids into higher-value products like omega-3 fatty acids, biosurfactants, or biopolymers — blurs the line between oleochemistry and [biotechnology](/biotechnology).
 
 The bigger picture: oleochemistry represents one path toward a bio-based economy where renewable carbon from plants replaces fossil carbon from petroleum. It's not the only path — fermentation, lignocellulose processing, and CO2 utilization are others — but it's one of the most commercially mature.
 

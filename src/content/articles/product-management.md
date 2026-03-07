@@ -5,7 +5,7 @@ description: "Product management decides what gets built and why. Learn how PMs 
 category: technology
 tags: ["product management", "product development", "product strategy", "user experience", "product lifecycle", "agile"]
 heroImage: "/images/articles/product-management-hero.webp"
-heroAlt: "Product roadmap diagram showing strategy, prioritization, and team collaboration"
+heroAlt: "Editorial photograph representing the concept of product management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ But strip away the context, and a core pattern emerges. Product managers sit at 
 
 - **User needs**: What do people actually want? What problems are they facing? What would make their lives genuinely better?
 - **Business objectives**: How does the company make money? What are the strategic priorities? What does success look like from a revenue, growth, or market position perspective?
-- **Technical feasibility**: What can the engineering team actually build? What are the constraints — time, talent, infrastructure, technical debt?
+- **Technical feasibility**: What can the [engineering](/engineering) team actually build? What are the constraints — time, talent, infrastructure, technical debt?
 
 The PM's job is to find the sweet spot where all three overlap. Build something users need, that the business can profit from, and that engineers can actually deliver. Sounds simple. It isn't.
 
@@ -67,9 +67,9 @@ Great PMs spend a disproportionate amount of time understanding problems before 
 
 **Customer interviews.** Sitting down with actual users (or prospective users) and asking open-ended questions about their workflows, frustrations, and goals. Not "would you use feature X?" but "walk me through the last time you tried to accomplish Y." The former invites polite lies. The latter reveals truth.
 
-**Data analysis.** Digging into product analytics to understand how people actually use the product. Where do they spend time? Where do they drop off? What features get ignored? Data doesn't lie — though it doesn't always tell the whole story either.
+**[Data analysis](/data-analysis).** Digging into product analytics to understand how people actually use the product. Where do they spend time? Where do they drop off? What features get ignored? Data doesn't lie — though it doesn't always tell the whole story either.
 
-**Market research.** Understanding the competitive field, industry trends, and emerging technologies. What are competitors building? What are adjacent markets doing? Where is the industry heading?
+**[Market research](/market-research).** Understanding the competitive field, industry trends, and emerging technologies. What are competitors building? What are adjacent markets doing? Where is the industry heading?
 
 **Problem validation.** Before building anything, good PMs validate that the problem they've identified is real, common enough to matter, and painful enough that people would pay (in money or attention) for a solution. Many products fail not because they're badly built but because they solve problems nobody actually has.
 
@@ -154,7 +154,7 @@ The best PM-designer partnerships involve healthy tension. The designer pushes f
 
 ### PM vs. Engineering Manager
 
-Engineering managers are responsible for *how* the product is built — architecture, code quality, team health, and technical decisions. PMs are responsible for *what* and *why*.
+Engineering managers are responsible for *how* the product is built — [architecture](/architecture), code quality, team health, and technical decisions. PMs are responsible for *what* and *why*.
 
 This creates a partnership where the PM says "we need to reduce page load time below 2 seconds because users are dropping off" and the engineering manager figures out whether to optimize the database, add caching, or refactor the front-end.
 
@@ -212,7 +212,7 @@ AI is changing PM work in real time. PMs increasingly use AI tools for data anal
 
 The role is also expanding. "Product-led growth" companies where the product itself drives acquisition and retention are giving PMs more responsibility for business outcomes. "Product operations" teams are emerging to handle the operational complexity of modern product development.
 
-And as software eats more industries — healthcare, education, government, agriculture — product management is spreading beyond traditional tech companies. Hospitals need product managers for patient-facing apps. Schools need them for learning platforms. Banks need them for digital services.
+And as software eats more industries — healthcare, education, [government](/government), [agriculture](/agriculture) — product management is spreading beyond traditional tech companies. Hospitals need product managers for patient-facing apps. Schools need them for learning platforms. Banks need them for digital services.
 
 ## Key Takeaways
 

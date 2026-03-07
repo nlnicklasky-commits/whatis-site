@@ -5,7 +5,7 @@ description: "Paper making transforms plant fibers into flat sheets used for wri
 category: everyday-concepts
 tags: ["paper making", "pulp", "manufacturing", "history", "wood pulp", "recycling"]
 heroImage: "/images/articles/paper-making.webp"
-heroAlt: "Sheets of freshly made handmade paper drying on screens in a traditional paper workshop"
+heroAlt: "Editorial photograph representing the concept of paper making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Paper Making?
 
-Paper making is the process of converting plant fibers — cellulose — into thin, flat sheets suitable for writing, printing, packaging, and thousands of other uses. The basic process has remained conceptually the same for nearly 2,000 years: separate plant fibers, suspend them in water, drain the water through a screen to form a sheet, and dry it. What's changed is the scale, speed, and raw materials. A modern paper mill can produce thousands of tons per day; a 2nd-century Chinese workshop might produce a few sheets.
+Paper making is the process of converting plant fibers — cellulose — into thin, flat sheets suitable for [writing](/writing), printing, packaging, and thousands of other uses. The basic process has remained conceptually the same for nearly 2,000 years: separate plant fibers, suspend them in water, drain the water through a screen to form a sheet, and dry it. What's changed is the scale, speed, and raw materials. A modern paper mill can produce thousands of tons per day; a 2nd-century Chinese workshop might produce a few sheets.
 
-## The Chinese Invention
+## The Chinese [Invention](/invention)
 
-Paper was invented in China. The traditional date is 105 CE, when court official Cai Lun presented Emperor He of Han with paper made from bark, hemp, old rags, and fishing nets. Archaeological evidence suggests that simpler forms of paper existed in China before Cai Lun, but his process — creating a standardized, practical writing surface — represents the real innovation.
+Paper was invented in China. The traditional date is 105 CE, when court official Cai Lun presented Emperor He of Han with paper made from bark, hemp, old rags, and [fishing](/fishing) nets. Archaeological evidence suggests that simpler forms of paper existed in China before Cai Lun, but his process — creating a standardized, practical writing surface — represents the real innovation.
 
 Before paper, the Chinese wrote on bamboo strips (heavy and bulky) and silk (expensive). Paper was lighter, cheaper, and more versatile. It spread through the Chinese bureaucracy and eventually throughout East Asia.
 
@@ -83,7 +83,7 @@ The paper industry's environmental impact is significant but complicated.
 
 **Chemicals.** Historical bleaching processes released dioxins and other toxic compounds. Modern mills have shifted to cleaner processes, but chemical pollution from pulp mills remains a concern in some regions.
 
-**Recycling.** Paper is one of the most successfully recycled materials. In the U.S., about 68% of paper is recovered for recycling. Recycled fiber requires less energy and fewer chemicals than virgin pulp, though fibers degrade with each cycle and eventually become too short to form strong sheets (typically 5-7 recycling cycles maximum).
+**[Recycling](/recycling).** Paper is one of the most successfully recycled materials. In the U.S., about 68% of paper is recovered for recycling. Recycled fiber requires less energy and fewer chemicals than virgin pulp, though fibers degrade with each cycle and eventually become too short to form strong sheets (typically 5-7 recycling cycles maximum).
 
 ## The Digital Paradox
 

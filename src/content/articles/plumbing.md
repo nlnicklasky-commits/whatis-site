@@ -5,7 +5,7 @@ description: "Plumbing is the system of pipes, valves, and fixtures that deliver
 category: everyday-concepts
 tags: ["construction", "home improvement", "water", "pipes", "drains", "maintenance"]
 heroImage: "/images/articles/plumbing.webp"
-heroAlt: "Copper and PVC pipes connected beneath a kitchen sink"
+heroAlt: "Editorial photograph representing the concept of plumbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,17 +49,17 @@ The "vent" part is crucial and often overlooked. Vent pipes run from drain lines
 
 ## A Quick History
 
-The word "plumbing" comes from the Latin *plumbum*, meaning lead — because the Romans made their pipes from it. Roman aqueducts and lead pipes delivered water to public baths, fountains, and wealthy homes across the empire. The engineering was remarkable. Some Roman aqueducts are still standing after 2,000 years.
+The word "plumbing" comes from the Latin *plumbum*, meaning lead — because the Romans made their pipes from it. Roman aqueducts and lead pipes delivered water to public baths, fountains, and wealthy homes across the empire. The [engineering](/engineering) was remarkable. Some Roman aqueducts are still standing after 2,000 years.
 
 The connection between contaminated water and disease wasn't understood until the 1850s, when Dr. John Snow traced a London cholera outbreak to a specific public water pump on Broad Street. That discovery — and the broader germ theory of disease — eventually led to the separation of water supply and sewage systems, modern water treatment, and building plumbing codes.
 
-Indoor plumbing didn't become standard in American homes until the 1930s-1940s. Before that, outhouses, chamber pots, and well pumps were normal even in cities. The White House didn't get running water until 1833.
+Indoor plumbing didn't become standard in American homes until the 1930s-1940s. Before that, outhouses, chamber pots, and well pumps were normal even in cities. The White House didn't get [running](/running) water until 1833.
 
 ## Pipe Materials Through the Years
 
 The materials inside your walls depend largely on when your home was built:
 
-**Lead pipes** were used from ancient Rome through the mid-20th century. They're still present in many older homes and municipal water systems. The EPA estimates that 6-10 million American homes still receive water through lead service lines. Lead is toxic — there's no safe exposure level — which is why replacing these pipes is a major public health priority.
+**Lead pipes** were used from ancient Rome through the mid-20th century. They're still present in many older homes and municipal water systems. The EPA estimates that 6-10 million American homes still receive water through lead service lines. Lead is toxic — there's no safe exposure level — which is why replacing these pipes is a major [public health](/public-health) priority.
 
 **Galvanized steel** was standard from the 1930s through the 1960s. These pipes are steel coated with zinc to prevent rust. The coating eventually wears away, and the pipes corrode from the inside, restricting water flow and sometimes introducing rust-colored water. If your old house has low water pressure, galvanized pipes are a likely culprit.
 
@@ -67,7 +67,7 @@ The materials inside your walls depend largely on when your home was built:
 
 **PVC and CPVC** (polyvinyl chloride) are plastic pipes used extensively since the 1970s for drain lines and, in the case of CPVC, some supply lines. They're cheap, lightweight, easy to work with, and resistant to corrosion. PVC is typically used only for cold water and drains; CPVC handles hot water.
 
-**PEX** (cross-linked polyethylene) is the newest standard for supply lines, gaining popularity since the 2000s. It's flexible, freeze-resistant, cheaper than copper, and easy to install — you can run long lengths through walls without joints. It has largely replaced copper in new construction.
+**PEX** (cross-linked polyethylene) is the newest standard for supply lines, gaining popularity since the 2000s. It's flexible, freeze-resistant, cheaper than copper, and easy to install — you can run long lengths through walls without joints. It has largely replaced copper in new [construction](/construction).
 
 ## How Fixtures Work
 

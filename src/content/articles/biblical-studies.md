@@ -5,7 +5,7 @@ description: "Biblical studies is the academic examination of the Bible using hi
 category: history
 tags: ["biblical studies", "bible", "old testament", "new testament", "historical criticism"]
 heroImage: "/images/articles/biblical-studies.webp"
-heroAlt: "Ancient manuscript fragments and a modern scholarly text side by side on a research desk"
+heroAlt: "Editorial photograph representing the concept of biblical studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Not necessarily. Many biblical scholars are practicing Jews, Christians, or Muslims who see historical analysis as enriching their understanding of sacred texts. Others approach the Bible purely as an academic subject. The relationship between scholarship and faith varies by individual and religious tradition."
 ---
 
-Biblical studies is the academic discipline that examines the Bible — its texts, authorship, historical contexts, literary forms, transmission, and interpretation — using the same critical methods applied to any ancient literature. It asks questions like: who wrote this text, when, for whom, and why? How has the text changed over time? What did it mean to its original audience?
+Biblical studies is the academic discipline that examines the Bible — its texts, authorship, historical contexts, literary forms, transmission, and interpretation — using the same critical methods applied to any ancient [literature](/literature). It asks questions like: who wrote this text, when, for whom, and why? How has the text changed over time? What did it mean to its original audience?
 
 This is distinct from devotional reading or theological study, though all three overlap. A pastor might read the book of Isaiah to find spiritual guidance. A theologian might analyze its doctrine of God. A biblical scholar asks: which parts were written by the historical Isaiah (8th century BCE), which were added by later authors, and how does the text reflect the political crises of ancient Judah?
 
@@ -43,7 +43,7 @@ The Bible is, by several measures, the most influential book in human history. I
 
 Beyond cultural influence, the Bible is a genuinely fascinating collection of ancient texts. It contains poetry, law codes, historical narratives, prophecy, wisdom literature, letters, apocalyptic visions, and origin stories — all produced across roughly a thousand years by dozens of authors in multiple languages. The sheer variety of material, and the complex history of how it was assembled, makes it one of the most interesting subjects in the humanities.
 
-Biblical studies also connects to [archaeology](/archaeology), [ancient history](/ancient-greek-history), linguistics, and literary theory. It's an inherently interdisciplinary field, which means it attracts scholars from many backgrounds and produces insights that illuminate far more than just the Bible itself.
+Biblical studies also connects to [archaeology](/archaeology), [ancient history](/ancient-greek-history), [linguistics](/linguistics), and [literary theory](/literary-theory). It's an inherently interdisciplinary field, which means it attracts scholars from many backgrounds and produces insights that illuminate far more than just the Bible itself.
 
 ## The Hebrew Bible / Old Proof
 
@@ -121,4 +121,4 @@ Current debates include the historicity of the patriarchal narratives in Genesis
 
 Biblical studies matters because the Bible still shapes the world. Political debates about marriage, justice, war, immigration, and human rights regularly invoke biblical texts. Understanding what those texts actually say — in their original languages, contexts, and historical settings — is essential for informed participation in those conversations.
 
-It also matters because the Bible is great literature that raises permanent questions about human existence, morality, suffering, and meaning. You don't have to believe it's divinely inspired to recognize that Job's wrestling with unjust suffering, or Paul's meditation on love in 1 Corinthians 13, or Ecclesiastes' frank confrontation with mortality are works of genuine depth. Biblical studies gives you the tools to read these texts with the care and attention they deserve — whatever you believe about their ultimate source.
+It also matters because the Bible is great literature that raises permanent questions about human existence, morality, suffering, and meaning. You don't have to believe it's divinely inspired to recognize that Job's wrestling with unjust suffering, or Paul's [meditation](/meditation) on love in 1 Corinthians 13, or Ecclesiastes' frank confrontation with mortality are works of genuine depth. Biblical studies gives you the tools to read these texts with the care and attention they deserve — whatever you believe about their ultimate source.

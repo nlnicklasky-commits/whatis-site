@@ -5,7 +5,7 @@ description: "Satellite communication transmits signals via orbiting spacecraft.
 category: technology
 tags: ["satellite", "communication", "telecommunication", "space technology", "global connectivity", "broadcasting"]
 heroImage: "/images/articles/satellite-communication-hero.webp"
-heroAlt: "Communication satellite orbiting Earth with signal beams connecting to ground stations"
+heroAlt: "Editorial photograph representing the concept of satellite communication"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 Satellite communication is the transmission of information between points on Earth (or between Earth and space) using artificial satellites as relay stations. A ground station sends a signal up to an orbiting satellite, the satellite amplifies it and shifts its frequency, then beams it back down to another location on Earth. This basic relay concept—called a bent pipe—lets you send voice, video, data, and navigation signals to places that cables and cell towers simply cannot reach.
 
-About 60% of the world's international phone calls in the 1990s traveled through satellites. That share has dropped as undersea fiber optic cables took over bulk traffic, but satellites remain irreplaceable for broadcasting, maritime and aviation communication, military operations, rural broadband, and—increasingly—as the backbone of new global internet constellations.
+About 60% of the world's international phone calls in the 1990s traveled through satellites. That share has dropped as undersea fiber optic cables took over bulk traffic, but satellites remain irreplaceable for [broadcasting](/broadcasting), maritime and aviation communication, military operations, rural broadband, and—increasingly—as the backbone of new global internet constellations.
 
 ## The Physics of Getting a Signal to Space
 
@@ -81,7 +81,7 @@ The orbit a satellite occupies determines everything about how it performs. Orbi
 
 At exactly 35,786 km above the equator, a satellite's orbital period matches Earth's rotation. It appears to hang motionless in the sky. This is incredibly useful—you can point a dish at it once and never move it again. Three GEO satellites, spaced 120 degrees apart, can cover almost the entire Earth's surface (minus the extreme poles).
 
-GEO is where you'll find most TV broadcast satellites, weather satellites like GOES, and traditional communications satellites. The geostationary belt is prime real estate. Orbital positions are allocated by the International Telecommunication Union (ITU) and they're in high demand. Only about 1,800 slots exist (spaced 0.1 degrees apart), and many of the best positions are already taken.
+GEO is where you'll find most TV broadcast satellites, weather satellites like GOES, and traditional communications satellites. The geostationary belt is prime real estate. Orbital positions are allocated by the International [Telecommunication](/telecommunication) Union (ITU) and they're in high demand. Only about 1,800 slots exist (spaced 0.1 degrees apart), and many of the best positions are already taken.
 
 The downside of GEO? That 36,000 km distance creates roughly 600 milliseconds of round-trip latency. For video broadcasting, this doesn't matter—you don't notice a half-second delay watching CNN. For a voice call, it's noticeable but manageable. For online gaming or video conferencing, it's painful. And for high-frequency financial trading, it's completely unacceptable.
 
@@ -141,7 +141,7 @@ The challenge is capacity. Even with thousands of satellites, each one serves a 
 
 ### Maritime and Aviation
 
-Ships at sea and aircraft over oceans have no access to terrestrial networks. Satellites are their only communication option. Maritime VSAT systems provide broadband to cruise ships, cargo vessels, and offshore platforms. Inmarsat and Iridium provide safety communications required by international maritime law.
+Ships at sea and aircraft over oceans have no access to terrestrial networks. Satellites are their only communication option. Maritime VSAT systems provide broadband to cruise ships, cargo vessels, and offshore platforms. Inmarsat and Iridium provide safety communications required by international [maritime law](/maritime-law).
 
 Aviation has embraced satellite connectivity aggressively. Most major airlines now offer in-flight Wi-Fi via satellite, with newer systems providing speeds comparable to home broadband. The technical challenge is maintaining a link while the aircraft moves at 900 km/h and switches between satellite beams. [Amateur radio](/amateur-radio) operators were among the first to experiment with amateur satellite communication, building small "CubeSat" satellites for hobby communication.
 
@@ -149,13 +149,13 @@ Aviation has embraced satellite connectivity aggressively. Most major airlines n
 
 The Global Positioning System is arguably the most impactful satellite system ever built. Operated by the U.S. Space Force, 31 MEO satellites transmit precise timing signals that your phone or car uses to triangulate your position to within a few meters.
 
-GPS isn't alone anymore. Russia's GLONASS, Europe's Galileo, and China's BeiDou provide independent global navigation. Modern receivers use signals from multiple constellations simultaneously, improving accuracy and reliability. With augmentation systems like WAAS (Wide Area Augmentation System) and Real-Time Kinematic (RTK) corrections, centimeter-level positioning is now routine for surveying, agriculture, and autonomous vehicles.
+GPS isn't alone anymore. Russia's GLONASS, Europe's Galileo, and China's BeiDou provide independent global navigation. Modern receivers use signals from multiple constellations simultaneously, improving accuracy and reliability. With augmentation systems like WAAS (Wide Area Augmentation System) and Real-Time Kinematic (RTK) corrections, centimeter-level positioning is now routine for surveying, [agriculture](/agriculture), and autonomous vehicles.
 
 ### Earth Observation and Weather
 
 Weather satellites save lives—that's not an exaggeration. NOAA's GOES satellites in GEO provide the continuous imagery you see in weather forecasts. Polar-orbiting weather satellites map the entire globe twice daily with different instruments. Hurricane tracking, severe storm warnings, and climate monitoring all depend on satellite observation.
 
-Commercial Earth observation satellites capture imagery at resolutions down to 30 cm—enough to identify individual vehicles. This data feeds into agriculture monitoring, urban planning, disaster response, environmental monitoring, and (controversially) intelligence gathering.
+Commercial Earth observation satellites capture imagery at resolutions down to 30 cm—enough to identify individual vehicles. This data feeds into agriculture monitoring, [urban planning](/urban-planning), disaster response, environmental monitoring, and (controversially) intelligence gathering.
 
 ### Military and Government
 

@@ -5,7 +5,7 @@ description: "Korean is the language of the Korean peninsula, spoken by 80 milli
 category: everyday-concepts
 tags: ["Korean language", "Hangul", "linguistics", "Korean alphabet", "East Asian languages"]
 heroImage: "/images/articles/korean-language.webp"
-heroAlt: "Hangul characters written in black ink brush calligraphy on white paper"
+heroAlt: "Editorial photograph representing the concept of the korean language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is the Korean Language?
 
-Korean is the language spoken by roughly 80 million people on the Korean peninsula and in diaspora communities worldwide. It is the official language of both South Korea and North Korea, and it has one of the most remarkable writing systems ever invented — an alphabet specifically designed to be easy to learn, created by a king who believed literacy should not be reserved for the elite.
+Korean is the language spoken by roughly 80 million people on the Korean peninsula and in diaspora communities worldwide. It is the official language of both South Korea and North Korea, and it has one of the most remarkable [writing](/writing) systems ever invented — an alphabet specifically designed to be easy to learn, created by a king who believed literacy should not be reserved for the elite.
 
 ## A Language Without Relatives
 
@@ -39,7 +39,7 @@ Korean is a language isolate, meaning linguists have not been able to conclusive
 
 There have been attempts to connect Korean to the Altaic language family (which would group it with Turkish, Mongolian, and possibly Japanese), but the Altaic hypothesis has fallen out of favor among most linguists. The similarities between Korean and Japanese — and there are many — may result from centuries of geographic proximity and cultural exchange rather than a common ancestor.
 
-What is clear is that Korean vocabulary has been heavily influenced by Chinese. Roughly 60% of Korean words are Sino-Korean — borrowed from Chinese, much as English has absorbed enormous numbers of Latin and French words. But the grammar, the sound system, and the basic structure of Korean are fundamentally different from Chinese.
+What is clear is that Korean vocabulary has been heavily influenced by Chinese. Roughly 60% of Korean words are Sino-Korean — borrowed from Chinese, much as English has absorbed enormous numbers of Latin and French words. But the [grammar](/grammar), the sound system, and the basic structure of Korean are fundamentally different from Chinese.
 
 ## Hangul: The Alphabet
 
@@ -71,7 +71,7 @@ Pronunciation has diverged slightly. Some vocabulary differs — the same concep
 
 ## Learning Korean Today
 
-The global popularity of K-pop, Korean dramas, and Korean cinema has driven an explosion in Korean language learning. The number of people studying Korean worldwide has grown dramatically — the Korean government's official proficiency test (TOPIK) saw test-takers increase from about 20,000 in 2005 to over 375,000 by 2022.
+The global popularity of K-pop, Korean dramas, and Korean cinema has driven an explosion in Korean language learning. The number of people studying Korean worldwide has grown dramatically — the Korean [government](/government)'s official proficiency test (TOPIK) saw test-takers increase from about 20,000 in 2005 to over 375,000 by 2022.
 
 For English speakers, Korean is genuinely difficult. The grammar is so structurally different that habits from English actively interfere. The honorific system requires social awareness that goes beyond language study. And while Hangul is easy, learning to hear and produce Korean sounds accurately takes practice — distinctions between aspirated and unaspirated consonants, or between different "o" and "u" vowels, are not intuitive for English ears.
 

@@ -5,7 +5,7 @@ description: "Fire safety covers prevention, detection, and response practices t
 category: everyday-concepts
 tags: ["safety", "emergency preparedness", "fire prevention", "fire extinguishers", "smoke detectors", "risk management"]
 heroImage: "/images/articles/fire-safety.webp"
-heroAlt: "Red fire extinguisher mounted on a wall next to an emergency exit sign"
+heroAlt: "Editorial photograph representing the concept of fire safety"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Fire safety is the set of practices, systems, and regulations designed to preven
 
 The most effective fire safety strategy is preventing fires from starting. Most residential fires result from predictable, preventable causes.
 
-**Cooking fires** account for about 49% of home fires. Unattended cooking is the primary culprit. Leaving a pot on the stove while you check your phone, answer the door, or watch TV — that's how most kitchen fires begin. The fix is simple and difficult: stay in the kitchen when you're cooking, especially when frying, grilling, or broiling.
+**[Cooking](/cooking) fires** account for about 49% of home fires. Unattended cooking is the primary culprit. Leaving a pot on the stove while you check your phone, answer the door, or watch TV — that's how most kitchen fires begin. The fix is simple and difficult: stay in the kitchen when you're cooking, especially when frying, [grilling](/grilling), or broiling.
 
 **Heating equipment** causes about 13% of home fires. Space heaters are the biggest offenders — they need at least three feet of clearance from anything flammable. The portable electric heater on the floor next to the curtains? That's a fire waiting to happen.
 
-**Electrical fires** result from overloaded circuits, damaged wiring, and improper use of extension cords. Using an extension cord as permanent wiring, running cords under rugs (where heat builds up), and overloading power strips are common mistakes.
+**Electrical fires** result from overloaded circuits, damaged wiring, and improper use of extension cords. Using an extension cord as permanent wiring, [running](/running) cords under rugs (where heat builds up), and overloading power strips are common mistakes.
 
 **Smoking materials** remain a significant cause despite declining smoking rates. A cigarette dropped on a couch or bed can smolder for hours before igniting. It's the leading cause of fire deaths in the home.
 
@@ -83,11 +83,11 @@ The PASS technique — Pull, Aim, Squeeze, Sweep — is the standard method. But
 
 ## Building Codes and Regulations
 
-Fire safety regulations exist because history taught brutal lessons. The Triangle Shirtwaist Factory fire of 1911 killed 146 garment workers in New York City — many because exit doors were locked. The resulting outrage led to sweeping workplace safety reforms.
+Fire safety regulations exist because history taught brutal lessons. The Triangle Shirtwaist Factory fire of 1911 killed 146 garment workers in New York City — many because exit doors were locked. The resulting outrage led to sweeping [workplace safety](/workplace-safety) reforms.
 
-Modern building codes (primarily the International Building Code and the NFPA Life Safety Code) mandate fire-resistant construction materials, maximum travel distances to exits, minimum exit widths, emergency lighting, fire-rated doors and walls, sprinkler requirements, and alarm systems. These codes are revised regularly based on fire research and incident analysis.
+Modern building codes (primarily the International Building Code and the NFPA Life Safety Code) mandate fire-resistant [construction](/construction) materials, maximum travel distances to exits, minimum exit widths, emergency lighting, fire-rated doors and walls, sprinkler requirements, and alarm systems. These codes are revised regularly based on fire research and incident analysis.
 
-The result: fire deaths in the U.S. have declined by about 50% since the 1970s, despite population growth. Better codes, more smoke alarms, and public education programs have all contributed. But the decline has plateaued in recent years, partly because of lighter, more flammable modern furnishings that burn faster than older materials.
+The result: fire deaths in the U.S. have declined by about 50% since the 1970s, despite population growth. Better codes, more smoke alarms, and public [education](/education) programs have all contributed. But the decline has plateaued in recent years, partly because of lighter, more flammable modern furnishings that burn faster than older materials.
 
 ## What You Should Do Today
 

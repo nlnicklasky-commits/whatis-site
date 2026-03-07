@@ -5,7 +5,7 @@ description: "Curling is a winter sport where players slide stones across ice to
 category: sports
 tags: ["curling", "ice sport", "winter sports", "strategy", "team sport", "granite"]
 heroImage: "/images/articles/curling.webp"
-heroAlt: "Curling stones arranged near the button on a freshly pebbled ice sheet"
+heroAlt: "Editorial photograph representing the concept of curling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Curling?
 
-Curling is a team sport played on ice in which players slide 42-pound granite stones down a 150-foot sheet toward a circular target (called the house). Teammates sweep the ice ahead of the moving stone to control its speed and direction. It's been called "chess on ice" — a description that captures its blend of physical precision and deep strategic thinking.
+Curling is a team sport played on ice in which players slide 42-pound granite stones down a 150-foot sheet toward a circular target (called the house). Teammates sweep the ice ahead of the moving stone to control its speed and direction. It's been called "[chess](/chess) on ice" — a description that captures its blend of physical precision and deep strategic thinking.
 
 ## The Basics
 
-Two teams of four players alternate sliding eight stones each toward the house — a set of concentric circles painted under the ice surface. The center circle is called the button. After all 16 stones are delivered in an "end" (similar to an inning in baseball), the team whose stone is closest to the button scores points — one point for each of their stones that's closer than the opponent's nearest stone.
+Two teams of four players alternate sliding eight stones each toward the house — a set of concentric circles painted under the ice surface. The center circle is called the button. After all 16 stones are delivered in an "end" (similar to an inning in [baseball](/baseball)), the team whose stone is closest to the button scores points — one point for each of their stones that's closer than the opponent's nearest stone.
 
 A standard game has 8 or 10 ends. The team with the most points wins. Ties are broken by extra ends.
 
@@ -65,7 +65,7 @@ Curling ice isn't flat and smooth like [skating](/ice-skating) ice. Before each 
 
 Ice conditions change throughout a game as body heat, humidity, and repeated sweeping alter the pebble texture. Good teams read and adapt to changing ice conditions — a shot that works perfectly in the first end might behave differently by the eighth.
 
-## A Scottish Invention
+## A Scottish [Invention](/invention)
 
 Curling originated in medieval Scotland, with the oldest known curling stone dating to 1511. Early games used whatever flat stones were available (some with handles, some without) on frozen ponds and lochs. The sport formalized over centuries, with the Royal Caledonian Curling Club establishing rules in 1838.
 

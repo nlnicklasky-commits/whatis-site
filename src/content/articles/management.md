@@ -5,7 +5,7 @@ description: "Management is the process of planning, organizing, leading, and co
 category: everyday-concepts
 tags: ["management", "business", "leadership", "organization", "strategy", "administration"]
 heroImage: "/images/articles/management.webp"
-heroAlt: "Team meeting in a modern office with a manager leading a discussion at a whiteboard"
+heroAlt: "Editorial photograph representing the concept of management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Management?
 
-Management is the process of coordinating people and resources to accomplish specific goals within an organization. That's the textbook definition. The lived reality is messier — management is part planning, part problem-solving, part people-wrangling, part firefighting, and a surprising amount of sitting in meetings that could have been emails.
+Management is the process of coordinating people and resources to accomplish specific goals within an organization. That's the textbook definition. The lived reality is messier — management is part planning, part problem-solving, part people-wrangling, part [firefighting](/firefighting), and a surprising amount of sitting in meetings that could have been emails.
 
-About 8.9 million people in the United States hold management positions, according to the Bureau of Labor Statistics. They work in every industry, at every scale, in roles ranging from first-line supervisors to CEOs of multinational corporations. What they all share is responsibility for getting things done through other people — which turns out to be considerably harder than doing things yourself.
+About 8.9 million people in the United States hold management positions, according to the Bureau of Labor [Statistics](/statistics). They work in every industry, at every scale, in roles ranging from first-line supervisors to CEOs of multinational corporations. What they all share is responsibility for getting things done through other people — which turns out to be considerably harder than doing things yourself.
 
 ## The Four Functions
 
@@ -43,7 +43,7 @@ Henri Fayol, a French mining engineer, proposed in 1916 that management consists
 
 Setting objectives and figuring out how to achieve them. What does the organization (or team, or project) need to accomplish? By when? With what resources? What could go wrong, and how do we prepare for that?
 
-Planning operates at multiple levels — strategic planning (long-term direction), tactical planning (mid-term initiatives), and operational planning (day-to-day activities). A CEO plans the company's three-year direction. A shift manager plans next week's staffing schedule. Both are planning.
+Planning operates at multiple levels — [strategic planning](/strategic-planning) (long-term direction), tactical planning (mid-term initiatives), and operational planning (day-to-day activities). A CEO plans the company's three-year direction. A shift manager plans next week's staffing schedule. Both are planning.
 
 ### Organizing
 
@@ -51,7 +51,7 @@ Arranging resources — people, money, equipment, information — into structure
 
 ### Leading
 
-Motivating, directing, and influencing people. This is where management overlaps with leadership and where emotional intelligence matters most. Leading involves communicating clearly, resolving conflicts, building trust, developing employees' skills, and creating an environment where people want to do good work.
+Motivating, directing, and influencing people. This is where management overlaps with [leadership](/leadership) and where [emotional intelligence](/emotional-intelligence) matters most. Leading involves communicating clearly, resolving conflicts, building trust, developing employees' skills, and creating an environment where people want to do good work.
 
 ### Controlling
 
@@ -65,7 +65,7 @@ Management as a formal discipline is surprisingly young — barely over a centur
 
 **Administrative Theory (1910s-1920s).** Fayol's framework described management as a distinct skill set separate from technical expertise. Max Weber analyzed bureaucratic organization — clear hierarchies, defined rules, merit-based advancement. These ideas shaped how organizations are structured to this day.
 
-**Human Relations Movement (1930s-1950s).** The Hawthorne studies at Western Electric found that workers' productivity increased when they felt observed and valued — regardless of physical working conditions. This shifted attention toward workers' psychological needs, group dynamics, and motivation.
+**Human Relations Movement (1930s-1950s).** The Hawthorne studies at Western Electric found that workers' [productivity](/productivity) increased when they felt observed and valued — regardless of physical working conditions. This shifted attention toward workers' psychological needs, group dynamics, and motivation.
 
 **Peter Drucker (1950s-2000s).** Drucker essentially invented modern management thinking. He introduced concepts like "management by objectives," the knowledge worker, decentralization, and the idea that the purpose of a business is to create a customer. His 39 books and countless articles shaped how a generation of executives thought about their work.
 
@@ -85,7 +85,7 @@ The gap between the orderly planning-organizing-leading-controlling model and th
 
 ## Levels of Management
 
-**First-line managers** (supervisors, team leads) directly oversee non-managerial employees. They're closest to the actual work and spend most of their time on operational issues — scheduling, task assignment, quality control, and immediate problem-solving.
+**First-line managers** (supervisors, team leads) directly oversee non-managerial employees. They're closest to the actual work and spend most of their time on operational issues — [scheduling](/scheduling), task assignment, quality control, and immediate problem-solving.
 
 **Middle managers** (department heads, regional managers) bridge the gap between strategy and execution. They translate top-level goals into departmental plans and manage the first-line managers. This level has been heavily squeezed by technology and organizational flattening — many companies have eliminated layers of middle management.
 
@@ -105,7 +105,7 @@ Managing people is hard. Some specific challenges:
 
 ## Is Management a Skill You Can Learn?
 
-Yes — mostly. Some aspects of management can be taught: planning techniques, financial analysis, project management tools, communication frameworks. Other aspects — emotional intelligence, judgment, the ability to read people and situations — develop primarily through experience and self-reflection.
+Yes — mostly. Some aspects of management can be taught: planning techniques, financial analysis, [project management](/project-management) tools, communication frameworks. Other aspects — emotional intelligence, judgment, the ability to read people and situations — develop primarily through experience and self-reflection.
 
 The best managers tend to share a few characteristics: they listen more than they talk, they make decisions even when information is incomplete, they develop their people rather than just directing them, and they take responsibility when things go wrong while sharing credit when things go right.
 

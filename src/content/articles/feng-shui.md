@@ -5,7 +5,7 @@ description: "Feng shui is an ancient Chinese system for arranging spaces to pro
 category: everyday-concepts
 tags: ["chinese philosophy", "qi", "energy", "home decor", "interior design", "harmony"]
 heroImage: "/images/articles/feng-shui.webp"
-heroAlt: "Zen-inspired room with balanced furniture arrangement and natural elements"
+heroAlt: "Editorial photograph representing the concept of feng shui"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Feng shui (pronounced "fung shway") is a traditional Chinese practice of arranging physical spaces to harmonize with the natural environment. The name translates literally as "wind-water," and the core idea is that the arrangement of objects, buildings, and landscapes affects the flow of qi (life energy), which in turn influences the health, prosperity, and well-being of the people living or working in that space.
 
-## The Basic Philosophy
+## The Basic [Philosophy](/philosophy)
 
 Feng shui rests on several interconnected Chinese philosophical concepts. The most fundamental is **qi** — an invisible life force that flows through everything, including your living room. Good feng shui means qi flows smoothly through a space. Bad feng shui means qi is blocked, stagnant, or rushing through too quickly.
 
@@ -57,7 +57,7 @@ A feng shui consultation typically involves examining a space and recommending c
 
 **Decluttering.** This is the most universal recommendation. Clutter blocks qi flow. Frankly, you don't need feng shui to know that a cluttered room feels stressful — but the tradition gives it philosophical backing.
 
-**Furniture placement.** In feng shui, you never want your back to the door — this is called the "command position." Your desk, bed, and stove should face the entrance so you can see who's coming. There's practical logic here: people genuinely feel more comfortable when they can see the room's entrance.
+**Furniture placement.** In feng shui, you never want your back to the door — this is called the "command position." Your desk, bed, and stove should face the entrance so you can see who's coming. There's practical [logic](/logic) here: people genuinely feel more comfortable when they can see the room's entrance.
 
 **Color and element balance.** Specific colors correspond to elements and life areas. Red (fire) brings energy and passion. Blue and black (water) promote calm and introspection. Green (wood) encourages growth. A practitioner might suggest repainting a home office blue for focus or adding red accents to a dining room for social energy.
 
@@ -67,9 +67,9 @@ A feng shui consultation typically involves examining a space and recommending c
 
 ## The Skeptic's View
 
-Let's be direct: there's no scientific evidence for qi, and controlled studies haven't shown that feng shui arrangements produce measurable effects on luck, health, or prosperity beyond placebo. A 2019 review in the *Journal of Environmental Psychology* found no peer-reviewed studies supporting feng shui's supernatural claims.
+Let's be direct: there's no scientific evidence for qi, and controlled studies haven't shown that feng shui arrangements produce measurable effects on luck, health, or prosperity beyond placebo. A 2019 review in the *Journal of Environmental [Psychology](/psychology)* found no peer-reviewed studies supporting feng shui's supernatural claims.
 
-But here's what's interesting — many feng shui recommendations align with evidence-based design principles. Environmental psychology research confirms that natural light improves mood and productivity. Clutter causes measurable stress responses. Views of nature reduce anxiety. The "command position" reflects a real human preference for defensible space (being able to see potential threats).
+But here's what's interesting — many feng shui recommendations align with evidence-based design principles. Environmental psychology research confirms that natural light improves mood and [productivity](/productivity). Clutter causes measurable stress responses. Views of nature reduce anxiety. The "command position" reflects a real human preference for defensible space (being able to see potential threats).
 
 So feng shui may "work" not because qi exists, but because centuries of observation led practitioners to identify real patterns in how physical environments affect human psychology. The traditional explanations may be wrong while the practical advice is right.
 
@@ -77,9 +77,9 @@ So feng shui may "work" not because qi exists, but because centuries of observat
 
 Feng shui's influence extends well beyond traditional Chinese culture. In Hong Kong, major corporations routinely consult feng shui masters before building or renovating. The HSBC headquarters and the Bank of China Tower were both designed with feng shui principles — and they're bitter rivals, with each building's feng shui supposedly attacking the other.
 
-In the West, feng shui became popular in the 1990s alongside broader interest in Eastern philosophy. It's now a multibillion-dollar industry encompassing consultants, books, courses, and products. Some Western practitioners blend feng shui with other traditions — adding crystals, aromatherapy, or New Age concepts that would puzzle a traditional Chinese master.
+In the West, feng shui became popular in the 1990s alongside broader interest in [Eastern philosophy](/eastern-philosophy). It's now a multibillion-dollar industry encompassing consultants, books, courses, and products. Some Western practitioners blend feng shui with other traditions — adding crystals, [aromatherapy](/aromatherapy), or New Age concepts that would puzzle a traditional Chinese master.
 
-Real estate is one area where feng shui has tangible financial impact. Studies of housing markets in cities with large Chinese populations (Hong Kong, Singapore, Vancouver) have found that properties with good feng shui features — like water views and favorable orientation — command measurably higher prices, even after controlling for other factors. Whether that's because feng shui works or because buyers believe it works is a philosophical question.
+[Real estate](/real-estate) is one area where feng shui has tangible financial impact. Studies of housing markets in cities with large Chinese populations (Hong Kong, Singapore, Vancouver) have found that properties with good feng shui features — like water views and favorable orientation — command measurably higher prices, even after controlling for other factors. Whether that's because feng shui works or because buyers believe it works is a philosophical question.
 
 ## Worth Your Attention?
 

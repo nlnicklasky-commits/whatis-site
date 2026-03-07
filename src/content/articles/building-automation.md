@@ -5,7 +5,7 @@ description: "Building automation uses technology to automatically control HVAC,
 category: technology
 tags: ["building automation", "building management systems", "bms", "smart buildings", "hvac", "energy efficiency", "iot"]
 heroImage: "/images/articles/building-automation-hero.webp"
-heroAlt: "Modern building control panel showing HVAC, lighting, and energy management dashboards"
+heroAlt: "Editorial photograph representing the concept of building automation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ But energy savings are just the beginning. Automated buildings are also more com
 
 The global building automation market was valued at approximately $85 billion in 2024 and is projected to reach $150 billion by 2030. This isn't niche technology — it's becoming the standard for every commercial building constructed today.
 
-## How Building Automation Works: The Architecture
+## How Building Automation Works: The [Architecture](/architecture)
 
 A building automation system follows a three-tier architecture that mirrors how many networked control systems operate.
 
@@ -117,7 +117,7 @@ Modern building security is heavily automated:
 
 **Video surveillance**: Camera systems with video analytics can detect unusual behavior, count people, and identify unauthorized access. AI-based analytics have reduced false alarms significantly compared to simple motion detection.
 
-**Intrusion detection**: Door contacts, glass-break sensors, and motion detectors monitor the building when unoccupied. Integration with access control means the system knows who's supposed to be there and who isn't.
+**[Intrusion detection](/intrusion-detection)**: Door contacts, glass-break sensors, and motion detectors monitor the building when unoccupied. Integration with access control means the system knows who's supposed to be there and who isn't.
 
 ### Fire and Life Safety
 
@@ -144,7 +144,7 @@ For all these systems to work together, they need a common language. Several pro
 
 **KNX**: The dominant protocol in European building automation, particularly for lighting and blinds control. Less common in North America.
 
-**MQTT and REST APIs**: IoT protocols increasingly used for cloud connectivity and integration with analytics platforms. These bridge the gap between traditional building automation and modern cloud computing.
+**MQTT and REST APIs**: IoT protocols increasingly used for cloud connectivity and integration with analytics platforms. These bridge the gap between traditional building automation and modern [cloud computing](/cloud-computing).
 
 The protocol field matters because proprietary systems lock you into a single vendor. Open protocols — particularly BACnet — give building owners the freedom to mix and match equipment from different manufacturers and to change service providers without replacing hardware.
 
@@ -168,9 +168,9 @@ Meeting these targets without building automation is essentially impossible for 
 
 **Real-time energy monitoring**: Understanding where and when energy is consumed, identifying waste, and verifying the impact of efficiency measures.
 
-**Demand response**: Reducing consumption during peak grid periods when electricity is most expensive and most carbon-intensive. Automated systems can pre-cool a building before a peak period, then reduce cooling during the peak — maintaining comfort while reducing load.
+**Demand response**: Reducing consumption during peak grid periods when [electricity](/electricity) is most expensive and most carbon-intensive. Automated systems can pre-cool a building before a peak period, then reduce cooling during the peak — maintaining comfort while reducing load.
 
-**Integration with [alternative energy](/alternative-energy)**: Solar panels, battery storage, and electric vehicle charging systems all require intelligent coordination. A building automation system can charge batteries when solar production is high, discharge them during peak pricing, manage EV charging to avoid exceeding electrical capacity, and maximize self-consumption of on-site renewable energy.
+**Integration with [alternative energy](/alternative-energy)**: Solar panels, battery storage, and electric vehicle charging systems all require intelligent coordination. A building automation system can charge batteries when solar production is high, discharge them during peak pricing, manage EV charging to avoid exceeding electrical capacity, and maximize self-consumption of on-site [renewable energy](/renewable-energy).
 
 **Measurement and verification**: Documenting energy savings for compliance reporting, green certifications (LEED, BREEAM, WELL), and utility incentive programs. Automated data collection makes this straightforward; manual measurement makes it painful and unreliable.
 
@@ -204,7 +204,7 @@ Building automation isn't perfect. Several persistent challenges affect the indu
 
 Several trends are shaping the field's near-term future.
 
-**AI and machine learning** are moving from cloud analytics into edge controllers — local processing that makes real-time decisions without internet connectivity. Reinforcement learning algorithms that optimize building operation through trial and error are showing promising results in pilot projects.
+**AI and machine learning** are moving from cloud analytics into edge controllers — local processing that makes real-time decisions without internet connectivity. [Reinforcement learning](/reinforcement-learning) algorithms that optimize building operation through trial and error are showing promising results in pilot projects.
 
 **Electric vehicle integration** will transform building electrical systems as workplace charging becomes standard. Managing dozens or hundreds of EV chargers alongside building loads requires sophisticated automation.
 

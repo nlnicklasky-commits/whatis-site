@@ -5,7 +5,7 @@ description: "A pipe organ is a keyboard instrument that produces sound by pushi
 category: everyday-concepts
 tags: ["pipe organ", "music", "instrument", "church music", "keyboard", "acoustics"]
 heroImage: "/images/articles/pipe-organ.webp"
-heroAlt: "An ornate pipe organ in a cathedral with rows of polished metal and wooden pipes"
+heroAlt: "Editorial photograph representing the concept of a pipe organ"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -50,7 +50,7 @@ But the actual mechanism is impressively complex:
 - **Flue pipes** work like whistles — air is directed across a sharp edge (called the lip), creating vibrations in the air column. Most organ pipes are flue pipes.
 - **Reed pipes** use a vibrating metal tongue (the reed) to create sound, similar to a clarinet or oboe. Reed pipes produce brasher, more penetrating tones.
 
-**Stops.** Here's the key to the organ's versatility. Pipes are organized in sets called ranks — each rank consists of one pipe per note, all sharing the same tone quality. A moderately sized organ might have 30-50 ranks. The organist selects which ranks sound by pulling stop knobs (or pressing rocker tabs). Each stop has a name describing its sound — Diapason (the fundamental organ sound), Flute, String, Trumpet, Oboe, Vox Humana (a wavering, voice-like tone).
+**Stops.** Here's the key to the organ's versatility. Pipes are organized in sets called ranks — each rank consists of one pipe per note, all sharing the same tone quality. A moderately sized organ might have 30-50 ranks. The organist selects which ranks sound by pulling stop knobs (or pressing rocker tabs). Each stop has a name describing its sound — Diapason (the fundamental organ sound), [Flute](/flute), String, [Trumpet](/trumpet), Oboe, Vox Humana (a wavering, voice-like tone).
 
 Combining different stops creates an enormous palette of tonal colors. The art of selecting and combining stops is called registration, and it's a significant part of organ performance skill.
 
@@ -65,7 +65,7 @@ Each manual controls a different division of the organ — a distinct group of p
 - **Choir** — softer stops for accompanying singers
 - **Pedal** — the deepest bass pipes, played with the feet
 
-The pedalboard adds a bass line that frees the hands for harmony and melody. Playing the organ well requires genuine physical coordination — two hands and two feet all doing different things simultaneously.
+The pedalboard adds a bass line that frees the hands for [harmony](/harmony) and melody. Playing the organ well requires genuine physical coordination — two hands and two feet all doing different things simultaneously.
 
 ## A Brief History
 
@@ -85,12 +85,12 @@ The 20th century saw a movement (the Orgelbewegung, or organ reform movement) ba
 
 **Concert halls.** Many major concert halls have organs for orchestral works that require them (Saint-Saëns' "Organ Symphony," Strauss' *Also sprach Zarathustra*) and for solo organ recitals.
 
-**Universities.** Schools with music programs often maintain organs for teaching and performance.
+**Universities.** Schools with music programs often maintain organs for [teaching](/teaching) and performance.
 
 **Private residences.** Wealthy organ enthusiasts sometimes install instruments in their homes — a tradition dating to the Renaissance.
 
 ## Why It Matters
 
-The pipe organ is the only instrument that's also architecture. Each one is custom-built for its space — the room's acoustics, dimensions, and visual design all influence the organ's construction. The instrument and the building are partners. A great organ in a dead room sounds lifeless. A modest organ in a resonant cathedral can sound transcendent.
+The pipe organ is the only instrument that's also [architecture](/architecture). Each one is custom-built for its space — the room's [acoustics](/acoustics), dimensions, and visual design all influence the organ's [construction](/construction). The instrument and the building are partners. A great organ in a dead room sounds lifeless. A modest organ in a resonant cathedral can sound transcendent.
 
 At its best, the pipe organ produces sounds that no electronic instrument can fully replicate — the physical presence of air vibrating in large pipes, the way bass notes you feel as much as hear fill a space, the shimmering overtones that result from hundreds of pipes sounding together. It's an instrument built on industrial scale that produces art.

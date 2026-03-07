@@ -5,7 +5,7 @@ description: "Dance is the art of moving the body rhythmically, usually to music
 category: arts-amp-culture
 tags: ["dance", "arts-amp-culture"]
 heroImage: "/images/articles/dance.webp"
-heroAlt: "A dancer performing an expressive leap on a stage with dramatic lighting"
+heroAlt: "Editorial photograph representing the concept of dance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ No culture lacks dance. Not one. This universality strongly suggests that dance 
 
 **Ritual and spirituality** have used dance for millennia. Sufi whirling, Native American ceremonial dances, Hindu temple dancing, and African harvest dances all connect physical movement to spiritual experience. The body in motion becomes a vehicle for transcendence.
 
-**Courtship** drives dance across species (birds, bees, and many mammals dance to attract mates) and across human cultures. Ballroom dancing, club dancing, and formal balls all serve partly as venues for romantic display and partner assessment.
+**Courtship** drives dance across species (birds, bees, and many mammals dance to attract mates) and across human cultures. [Ballroom dancing](/ballroom-dancing), club dancing, and formal balls all serve partly as venues for romantic display and partner assessment.
 
 ## The Major Forms
 
 **[Ballet](/ballet)** originated in the Italian Renaissance courts and was formalized in France under Louis XIV. It emphasizes turnout (rotating legs outward from the hips), pointed feet, precise positions, and an appearance of weightless grace. Classical ballet tells stories through codified movements; contemporary ballet loosens those rules while retaining the technique.
 
-**Modern dance** emerged in the early 20th century as a rebellion against ballet's formality. Isadora Duncan danced barefoot. Martha Graham developed a technique based on contraction and release. Merce Cunningham used chance procedures to determine choreography. Modern dance values individual expression and the exploration of gravity, weight, and breath.
+**[Modern dance](/modern-dance)** emerged in the early 20th century as a rebellion against ballet's formality. Isadora Duncan danced barefoot. Martha Graham developed a technique based on contraction and release. Merce Cunningham used chance procedures to determine choreography. Modern dance values individual expression and the exploration of gravity, weight, and breath.
 
 **Jazz dance** grew from African American vernacular dance traditions, blending African movement principles with European concert dance. It's syncopated, energetic, and rhythmically complex. Broadway musicals made jazz dance mainstream — Bob Fosse's angular, isolated style became iconic.
 
@@ -57,13 +57,13 @@ No culture lacks dance. Not one. This universality strongly suggests that dance 
 
 **[Folk and traditional dances](/folk-dancing)** are culturally specific — Irish step dancing, Indian Bharatanatyam, Spanish flamenco, Polynesian hula, Argentine tango. Each embodies the history, values, and aesthetic sensibility of its culture. UNESCO recognizes numerous traditional dances as Intangible Cultural Heritage.
 
-**Social and ballroom dancing** — waltz, foxtrot, salsa, swing, cha-cha — are partnered dances designed for social settings. The World Dance Council governs competitive ballroom dancing, which features both "Standard" (waltz, tango, Viennese waltz, foxtrot, quickstep) and "Latin" (cha-cha, samba, rumba, paso doble, jive) categories.
+**Social and ballroom dancing** — waltz, foxtrot, salsa, swing, cha-cha — are partnered dances designed for social settings. The World Dance Council governs competitive ballroom dancing, which features both "Standard" (waltz, tango, [Viennese waltz](/viennese-waltz), foxtrot, quickstep) and "Latin" (cha-cha, samba, rumba, paso doble, jive) categories.
 
 ## Dance and the Brain
 
 The cognitive demands of dance are remarkable. Dancers simultaneously process music, remember choreography, coordinate complex multi-limb movements, maintain spatial awareness relative to other dancers, and (in many styles) express emotion — all in real time.
 
-The famous 2003 *New England Journal of Medicine* study on aging found that regular dancing reduced the risk of dementia by 76% — the highest reduction of any activity studied, including reading, crossword puzzles, and other physical activities. Researchers believe the combination of physical exertion, rapid decision-making, and social interaction provides uniquely potent cognitive stimulation.
+The famous 2003 *New England Journal of Medicine* study on aging found that regular dancing reduced the risk of dementia by 76% — the highest reduction of any activity studied, including reading, [crossword puzzles](/crossword-puzzles), and other physical activities. Researchers believe the combination of physical exertion, rapid decision-making, and social interaction provides uniquely potent cognitive stimulation.
 
 Brain imaging studies show that professional dancers have enhanced connectivity between motor and cognitive brain regions. They process rhythm more efficiently and demonstrate superior balance and spatial awareness compared to non-dancers. These neural adaptations occur regardless of the dance style practiced.
 

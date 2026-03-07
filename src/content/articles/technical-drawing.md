@@ -5,7 +5,7 @@ description: "Technical drawing is the practice of creating precise, standardize
 category: technology
 tags: ["technical drawing", "drafting", "engineering drawing", "cad"]
 heroImage: "/images/articles/technical-drawing.webp"
-heroAlt: "A detailed engineering blueprint showing orthographic projections of a mechanical part with dimensions and annotations"
+heroAlt: "Editorial photograph representing the concept of technical drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
     a: "No. Technical drawing is about precision and communication, not artistic talent. Straight lines, proper proportions, and following standards matter far more than freehand drawing ability. CAD software handles the actual line work—you provide the engineering knowledge."
 ---
 
-Technical drawing is the practice of creating precise, standardized visual representations of objects, structures, and systems so they can be manufactured, built, or assembled exactly as intended. It's the universal language of engineering, architecture, and manufacturing — a way to communicate complex three-dimensional information on a two-dimensional surface without ambiguity.
+Technical [drawing](/drawing) is the practice of creating precise, standardized visual representations of objects, structures, and systems so they can be manufactured, built, or assembled exactly as intended. It's the universal language of [engineering](/engineering), [architecture](/architecture), and manufacturing — a way to communicate complex three-dimensional information on a two-dimensional surface without ambiguity.
 
 Every building you've walked into, every car you've driven, every phone you've held — they all started as technical drawings. Someone had to specify every dimension, every material, every tolerance, every assembly relationship before a single part could be made. That's what technical drawing does. It bridges the gap between "I have an idea" and "here's exactly how to build it."
 
 ## Why Technical Drawing Exists
 
-Imagine trying to build a jet engine from a verbal description. Or constructing a 50-story building from a sketch on a napkin. You can't — not safely, not precisely, and certainly not repeatedly. Technical drawing exists because complex objects require exact specifications that natural language and artistic illustration can't provide.
+Imagine trying to build a jet engine from a verbal description. Or constructing a 50-story building from a sketch on a napkin. You can't — not safely, not precisely, and certainly not repeatedly. Technical drawing exists because complex objects require exact specifications that natural language and artistic [illustration](/illustration) can't provide.
 
 A proper technical drawing tells you:
 - The exact shape and dimensions of every component
@@ -59,11 +59,11 @@ Technical drawing is older than you might think.
 
 **Leonardo da Vinci** (1452–1519) elevated technical drawing to new levels. His notebooks contain hundreds of precise mechanical drawings — flying machines, hydraulic systems, anatomical studies — many using techniques still recognizable in modern engineering drawings. He pioneered exploded views (showing parts separated but in correct spatial relationship) and cutaway views (showing internal structure).
 
-**Gaspard Monge** (1746–1818), a French mathematician, formalized the system of orthographic projection that remains the foundation of technical drawing. His *Descriptive Geometry* (1799) showed how to represent three-dimensional objects using multiple two-dimensional views — front, top, and side projections. This was such a strategically important technique that the French military classified it for years.
+**Gaspard Monge** (1746–1818), a French mathematician, formalized the system of orthographic projection that remains the foundation of technical drawing. His *Descriptive [Geometry](/geometry)* (1799) showed how to represent three-dimensional objects using multiple two-dimensional views — front, top, and side projections. This was such a strategically important technique that the French military classified it for years.
 
 **The Industrial Revolution** made standardized technical drawing essential. Mass production required interchangeable parts, which required precise specifications. You couldn't have a factory producing thousands of identical rifle parts if every drawing was interpreted differently.
 
-**CAD (Computer-Aided Design)** emerged in the 1960s and gradually replaced hand drafting over the following decades. Ivan Sutherland's Sketchpad (1963) at MIT was the first interactive [computer graphics](/computer-graphics) program. AutoCAD launched in 1982 and democratized CAD by running on personal computers. Today, virtually all professional technical drawing is done digitally.
+**CAD (Computer-Aided Design)** emerged in the 1960s and gradually replaced hand drafting over the following decades. Ivan Sutherland's Sketchpad (1963) at MIT was the first interactive [computer graphics](/computer-graphics) program. AutoCAD launched in 1982 and democratized CAD by [running](/running) on personal computers. Today, virtually all professional technical drawing is done digitally.
 
 ## Orthographic Projection
 
@@ -132,7 +132,7 @@ The transition from manual drafting to CAD changed the profession fundamentally.
 
 **3D CAD** (SolidWorks, CATIA, Inventor, Fusion 360) changed the model. Instead of drawing views of an object, you build a 3D digital model and generate 2D drawings from it automatically. Change the model, and every drawing view updates. This is enormously more efficient, catches interference problems early (does this pipe actually fit through that wall?), and enables simulations like stress analysis and fluid flow.
 
-**BIM (Building Information Modeling)** extended CAD concepts to architecture and construction. Programs like Revit don't just draw buildings — they model them with information about materials, structural properties, energy performance, cost, and scheduling. A BIM model is a database as much as a drawing.
+**BIM (Building Information Modeling)** extended CAD concepts to architecture and [construction](/construction). Programs like Revit don't just draw buildings — they model them with information about materials, structural properties, energy performance, cost, and [scheduling](/scheduling). A BIM model is a database as much as a drawing.
 
 Today, the cutting edge includes **generative design** (software proposes optimized designs based on constraints), **parametric modeling** (changing one dimension automatically updates related features), and **digital twins** (virtual replicas of physical objects updated with real-time sensor data).
 

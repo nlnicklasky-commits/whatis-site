@@ -5,7 +5,7 @@ description: "Information systems combine technology, people, and processes to c
 category: technology
 tags: ["information systems", "it", "business technology", "erp", "crm", "data management"]
 heroImage: "/images/articles/information-systems-hero.webp"
-heroAlt: "Business dashboard showing data analytics and information system interfaces"
+heroAlt: "Editorial photograph representing the concept of information systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ The most common misconception about information systems is that they're synonymo
 
 Consider a hospital's patient record system. The technology includes servers, databases, workstations, and networking equipment. But the information system also includes the nurses who enter patient data, the doctors who retrieve and interpret it, the policies governing who can access what, the procedures for handling system failures, the training programs that teach new staff how to use the system, and the organizational culture that determines whether people actually follow the procedures.
 
-If any of these components fails, the system fails — regardless of how good the technology is. The most sophisticated software in the world can't help if nobody enters data accurately. The most secure database is useless if the access policies are so restrictive that doctors can't get to patient records during emergencies. This is why information systems is fundamentally an interdisciplinary field — it sits at the intersection of computer science, [business administration](/business-administration), and organizational behavior.
+If any of these components fails, the system fails — regardless of how good the technology is. The most sophisticated software in the world can't help if nobody enters data accurately. The most secure database is useless if the access policies are so restrictive that doctors can't get to patient records during emergencies. This is why information systems is fundamentally an interdisciplinary field — it sits at the intersection of [computer science](/computer-science), [business administration](/business-administration), and [organizational behavior](/organizational-behavior).
 
 ## The Five Components
 
@@ -55,7 +55,7 @@ The physical equipment: servers, workstations, laptops, smartphones, networking 
 
 Hardware has followed Moore's Law for decades — processing power roughly doubling every two years while costs drop. A smartphone in your pocket has more computing power than the mainframe computers that ran entire corporations in the 1980s. But hardware remains a constraint. Server capacity limits how many users a system can support. Network bandwidth limits data transfer speeds. Storage capacity limits how much historical data you can retain.
 
-Cloud computing has transformed hardware economics. Instead of buying and maintaining physical servers, organizations rent computing resources from providers like AWS, Azure, and Google Cloud. You pay for what you use, scale up or down instantly, and let the provider handle the physical infrastructure. By 2025, over 60% of enterprise workloads ran in public cloud environments.
+[Cloud computing](/cloud-computing) has transformed hardware economics. Instead of buying and maintaining physical servers, organizations rent computing resources from providers like AWS, Azure, and Google Cloud. You pay for what you use, scale up or down instantly, and let the provider handle the physical infrastructure. By 2025, over 60% of enterprise workloads ran in public cloud environments.
 
 ### Software
 
@@ -101,7 +101,7 @@ The workhorses. TPS handle routine, repetitive transactions at high volume: proc
 
 TPS requirements are straightforward: speed, accuracy, reliability, and the ability to handle high volumes. A bank's TPS might process millions of transactions daily. If it goes down for even an hour, the financial consequences are enormous.
 
-### Management Information Systems (MIS)
+### [Management Information Systems](/management-information-systems) (MIS)
 
 MIS take data from TPS and other sources and produce reports for middle managers. Sales reports by region. Inventory levels by product category. Monthly financial summaries. Employee attendance records.
 
@@ -157,7 +157,7 @@ More advanced automation integrates [artificial intelligence](/artificial-intell
 
 Platform-based information systems — like app stores, marketplace websites, and social media networks — have created entirely new business models. The platform doesn't produce goods or services; it provides the information system that connects producers and consumers. The value of the platform grows with the number of participants (network effects), creating winner-take-most dynamics.
 
-## IS Project Management
+## IS [Project Management](/project-management)
 
 Building information systems is notoriously difficult. The Standish Group's CHAOS reports have tracked IT project outcomes for decades, consistently finding that only about 30% of IT projects are completed on time, on budget, and with the intended functionality. About 19% fail outright (cancelled or delivered but never used).
 
@@ -209,4 +209,4 @@ Every organization — every hospital, school, government agency, retailer, manu
 
 Understanding information systems means understanding how modern organizations actually function. Not the org charts and mission statements — the real mechanics of how data flows, decisions get made, and work gets done. That understanding is valuable whether you're building systems, managing them, using them, or leading the organizations that depend on them.
 
-The technology will keep changing. Cloud, AI, automation, quantum computing — the tools will evolve faster than any curriculum can track. But the fundamental challenge of information systems — aligning technology with human needs and organizational goals — will remain as long as organizations exist. Which is to say, permanently.
+The technology will keep changing. Cloud, AI, automation, [quantum computing](/quantum-computing) — the tools will evolve faster than any curriculum can track. But the fundamental challenge of information systems — aligning technology with human needs and organizational goals — will remain as long as organizations exist. Which is to say, permanently.

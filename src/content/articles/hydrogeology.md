@@ -5,7 +5,7 @@ description: "Hydrogeology studies groundwater — how it moves, where it collec
 category: science
 tags: ["hydrogeology", "groundwater", "hydrology", "geology", "water resources", "aquifers", "water quality"]
 heroImage: "/images/articles/hydrogeology-hero.webp"
-heroAlt: "Cross-section diagram showing underground aquifer layers, water table, and well placement"
+heroAlt: "Editorial photograph representing the concept of hydrogeology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Hydrogeology?
 
-Hydrogeology is the branch of geology that studies groundwater — how water moves through soil and rock beneath the Earth's surface, where it accumulates in usable quantities, how it interacts with geological materials, and how human activities affect its quality and availability. It sits at the intersection of geology, hydrology, [chemistry](/chemistry), and engineering, and it addresses one of civilization's most fundamental needs: access to clean water.
+Hydrogeology is the branch of geology that studies groundwater — how water moves through soil and rock beneath the Earth's surface, where it accumulates in usable quantities, how it interacts with geological materials, and how human activities affect its quality and availability. It sits at the intersection of geology, [hydrology](/hydrology), [chemistry](/chemistry), and [engineering](/engineering), and it addresses one of civilization's most fundamental needs: access to clean water.
 
 ## Why Groundwater Matters More Than You Think
 
@@ -43,7 +43,7 @@ Here's a number that surprises most people: roughly 2 billion humans rely on gro
 
 And yet, most people have never thought about groundwater for more than a few seconds. Surface water — rivers, lakes, reservoirs — is visible, intuitive, and easy to appreciate. Groundwater is invisible. It's down there somewhere, doing its thing, and as long as the tap works, who cares?
 
-Hydrogeologists care. Because groundwater is being depleted faster than it's replenished in many of the world's most productive agricultural regions. Because once contaminated, groundwater can take decades or centuries to clean up — if it can be cleaned at all. Because climate change is altering precipitation patterns that recharge aquifers. And because the gap between water demand and water supply is growing in ways that will reshape economies and geopolitics within your lifetime.
+Hydrogeologists care. Because groundwater is being depleted faster than it's replenished in many of the world's most productive agricultural regions. Because once contaminated, groundwater can take decades or centuries to clean up — if it can be cleaned at all. Because climate change is altering precipitation patterns that recharge aquifers. And because the gap between water demand and water supply is growing in ways that will reshape economies and [geopolitics](/geopolitics) within your lifetime.
 
 ## How Water Gets Underground
 
@@ -117,9 +117,9 @@ These parameters are essential for predicting how the aquifer will respond to lo
 
 The Ogallala Aquifer (more properly, the High Plains Aquifer) underlies 174,000 square miles across eight US states, from South Dakota to Texas. It contains about 2.9 billion acre-feet of water — an almost incomprehensible volume that took millions of years to accumulate.
 
-Large-scale irrigation pumping began in the 1950s and transformed the High Plains into one of the world's most productive agricultural regions. About 30% of all US irrigation water comes from the Ogallala. It supports roughly $20 billion in annual crop production.
+Large-scale [irrigation](/irrigation) pumping began in the 1950s and transformed the High Plains into one of the world's most productive agricultural regions. About 30% of all US irrigation water comes from the Ogallala. It supports roughly $20 billion in annual crop production.
 
-The problem: in much of the aquifer, pumping vastly exceeds natural recharge. Annual recharge in the southern High Plains (Texas, Kansas) averages about half an inch. Annual withdrawal rates can be 10 times that. Water levels have declined over 150 feet in parts of western Kansas and the Texas Panhandle. Some areas that once supported irrigated farming have returned to dryland agriculture as wells dried up.
+The problem: in much of the aquifer, pumping vastly exceeds natural recharge. Annual recharge in the southern High Plains (Texas, Kansas) averages about half an inch. Annual withdrawal rates can be 10 times that. Water levels have declined over 150 feet in parts of western Kansas and the Texas Panhandle. Some areas that once supported irrigated [farming](/farming) have returned to dryland agriculture as wells dried up.
 
 The Ogallala isn't being managed — it's being mined. Current consumption is physically unsustainable. The question isn't whether significant portions will be depleted, but when — and what happens to the communities and economies that depend on it.
 
@@ -133,7 +133,7 @@ Groundwater contamination is a slow-motion crisis. Because groundwater moves slo
 
 **Volatile organic compounds (VOCs)** — industrial solvents like trichloroethylene (TCE) and perchloroethylene (PCE) — are particularly troublesome. They're denser than water (called DNAPLs — dense non-aqueous phase liquids), so they sink to the bottom of aquifers and slowly dissolve, creating contamination plumes that can persist for centuries. The Superfund program, created in 1980, has spent billions cleaning up DNAPL-contaminated sites — with mixed success.
 
-**PFAS** (per- and polyfluoroalkyl substances) — "forever chemicals" used in nonstick coatings, firefighting foam, and waterproof fabrics — are the newest contamination crisis. They don't break down naturally, they're mobile in groundwater, and they're being detected in water supplies worldwide. The EPA set drinking water standards for several PFAS compounds in 2024 at extremely low levels (4 parts per trillion for PFOA and PFOS), reflecting their toxicity at minute concentrations.
+**PFAS** (per- and polyfluoroalkyl substances) — "forever chemicals" used in nonstick coatings, [firefighting](/firefighting) foam, and waterproof fabrics — are the newest contamination crisis. They don't break down naturally, they're mobile in groundwater, and they're being detected in water supplies worldwide. The EPA set drinking water standards for several PFAS compounds in 2024 at extremely low levels (4 parts per trillion for PFOA and PFOS), reflecting their toxicity at minute concentrations.
 
 **Arsenic** occurs naturally in certain geological formations and can dissolve into groundwater. Bangladesh's arsenic crisis — where millions of tube wells drilled into arsenic-bearing sediments exposed over 50 million people to toxic arsenic levels — is one of the largest mass poisonings in history. Understanding the hydrogeochemistry (how geological materials interact chemically with groundwater) is essential for predicting where natural contamination will occur.
 
@@ -147,7 +147,7 @@ Cleaning up contaminated groundwater is extraordinarily difficult and expensive.
 
 **Monitored natural attenuation** — letting natural processes (dilution, biodegradation, chemical reactions) reduce contamination over time, while monitoring to ensure it works. This is the cheapest approach and sometimes genuinely effective — but it requires patience (decades) and certainty that the plume won't reach water supply wells.
 
-The total cost of groundwater contamination cleanup in the US alone is estimated at over $100 billion. Many contaminated sites will never be fully cleaned — the goal shifts from restoration to containment and risk management.
+The total cost of groundwater contamination cleanup in the US alone is estimated at over $100 billion. Many contaminated sites will never be fully cleaned — the goal shifts from restoration to containment and [risk management](/risk-management).
 
 ## Climate Change and Groundwater
 

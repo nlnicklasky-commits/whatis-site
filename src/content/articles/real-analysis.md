@@ -5,7 +5,7 @@ description: "Real analysis is the rigorous mathematical study of real numbers, 
 category: everyday-concepts
 tags: ["real analysis", "mathematics", "calculus", "limits", "continuity", "proofs"]
 heroImage: "/images/articles/real-analysis.webp"
-heroAlt: "Mathematical proof written on a chalkboard with epsilon-delta notation"
+heroAlt: "Editorial photograph representing the concept of real analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Real Analysis?
 
-Real analysis is the branch of mathematics that provides rigorous foundations for calculus and the study of real numbers. It takes the concepts you learned in calculus — limits, derivatives, integrals, sequences, series — and asks: but *why* do those things work? What exactly do we mean by "a function is continuous" or "a series converges"? Real analysis answers these questions with mathematical proofs, replacing intuition with precision.
+Real analysis is the branch of [mathematics](/mathematics) that provides rigorous foundations for calculus and the study of real numbers. It takes the concepts you learned in calculus — limits, derivatives, integrals, sequences, series — and asks: but *why* do those things work? What exactly do we mean by "a function is continuous" or "a series converges"? Real analysis answers these questions with mathematical proofs, replacing intuition with precision.
 
 ## Why It Exists
 
@@ -73,7 +73,7 @@ Real analysis rigorously defines the derivative as a limit: f'(x) = lim_{h→0} 
 
 The Riemann integral — the standard integral from calculus — is defined by partitioning an interval into subintervals, approximating the area under a curve with rectangles, and taking the limit as the rectangles get infinitely thin. Real analysis proves when functions are integrable and when they're not, and establishes the Fundamental Theorem of Calculus (connecting derivatives and integrals) with full rigor.
 
-The Lebesgue integral, developed in the early 1900s, extends integration to a much wider class of functions and is essential for probability theory and modern analysis.
+The Lebesgue integral, developed in the early 1900s, extends integration to a much wider class of functions and is essential for [probability theory](/probability-theory) and modern analysis.
 
 ## The Key Theorems
 
@@ -93,10 +93,10 @@ If you're not a math major, why does real analysis matter?
 
 Because the concepts it formalizes — convergence, approximation, continuity, limiting behavior — show up everywhere:
 
-- **Computer science** uses convergence theory for algorithms that approximate solutions (machine learning, numerical methods)
-- **Physics** relies on analysis for differential equations, quantum mechanics, and general relativity
-- **Economics** uses analysis for optimization theory and equilibrium analysis
-- **Statistics** depends on convergence theorems (the Central Limit Theorem requires analysis to prove)
-- **Engineering** uses approximation theory and Fourier analysis (both grounded in real analysis)
+- **[Computer science](/computer-science)** uses convergence theory for algorithms that approximate solutions ([machine learning](/machine-learning), numerical methods)
+- **Physics** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-[relativity](/relativity))
+- **Economics** uses analysis for [optimization](/optimization) theory and equilibrium analysis
+- **[Statistics](/statistics)** depends on convergence theorems (the Central Limit Theorem requires analysis to prove)
+- **[Engineering](/engineering)** uses approximation theory and Fourier analysis (both grounded in real analysis)
 
 Real analysis is where mathematics stops being a collection of formulas you memorize and starts being a system of ideas you prove. That transition — from computation to understanding — is what makes it both difficult and valuable. You emerge from it thinking differently about what "true" means in mathematics.

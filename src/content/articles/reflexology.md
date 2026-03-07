@@ -5,7 +5,7 @@ description: "Reflexology applies pressure to specific points on the feet, hands
 category: health-amp-wellness
 tags: ["alternative medicine", "reflexology", "foot therapy", "wellness"]
 heroImage: "/images/articles/reflexology.webp"
-heroAlt: "A reflexologist applying targeted pressure to specific points on a patient's foot"
+heroAlt: "Editorial photograph representing the concept of reflexology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,13 +45,13 @@ Reflexology charts — colorful diagrams showing these correspondences — look 
 
 According to reflexology theory, pressing these points sends signals through the nervous system to the corresponding organ, relieving blockages in energy flow and restoring balance. Practitioners describe this energy in various ways — some reference "vital energy" or "qi," others speak of nerve pathways or electromagnetic fields.
 
-Here's where you should know: there is no established anatomical or physiological mechanism connecting specific points on the feet to distant organs in the way reflexology charts describe. The nerve supply to the foot goes to and from the spinal cord and brain — it doesn't have dedicated wiring to the liver, kidneys, or pancreas. That doesn't necessarily mean reflexology has no effects (more on that shortly), but the proposed mechanism is not supported by current understanding of anatomy and physiology.
+Here's where you should know: there is no established anatomical or physiological mechanism connecting specific points on the feet to distant organs in the way reflexology charts describe. The nerve supply to the foot goes to and from the spinal cord and brain — it doesn't have dedicated wiring to the liver, kidneys, or pancreas. That doesn't necessarily mean reflexology has no effects (more on that shortly), but the proposed mechanism is not supported by current understanding of [anatomy](/anatomy) and [physiology](/physiology).
 
 ## A Quick History
 
 Reflexology's origins are a bit murky, and claims of ancient roots should be taken with caution.
 
-Proponents frequently cite an Egyptian tomb painting from approximately 2330 BCE (the tomb of Ankhmahor at Saqqara) as evidence that foot therapy was practiced in ancient Egypt. The painting does show what appears to be someone working on another person's feet and hands. Whether this represents reflexology, massage, or something else entirely is interpretation.
+Proponents frequently cite an Egyptian tomb [painting](/painting) from approximately 2330 BCE (the tomb of Ankhmahor at Saqqara) as evidence that foot therapy was practiced in ancient Egypt. The painting does show what appears to be someone working on another person's feet and hands. Whether this represents reflexology, massage, or something else entirely is interpretation.
 
 The modern form of reflexology began in the early 20th century with American physician William Fitzgerald, who introduced "zone therapy" around 1913. Fitzgerald divided the body into 10 vertical zones, claiming that applying pressure in one zone could produce anesthetic effects in other areas of the same zone. His work was based on observation rather than controlled studies, and the medical establishment was skeptical.
 
@@ -65,7 +65,7 @@ A typical reflexology session lasts 30-60 minutes. Here's what to expect.
 
 You sit or recline in a comfortable chair. The practitioner examines your feet (or hands, though feet are far more common) and may ask about your health history and any specific concerns.
 
-The reflexologist works systematically through the reflex points, using thumb and finger pressure techniques. The most distinctive technique is "thumb walking" — a caterpillar-like movement where the thumb bends and straightens in small increments across the foot's surface. Pressure varies from gentle to firm, depending on the area and your sensitivity.
+The reflexologist works systematically through the reflex points, using thumb and finger pressure techniques. The most distinctive technique is "thumb [walking](/walking)" — a caterpillar-like movement where the thumb bends and straightens in small increments across the foot's surface. Pressure varies from gentle to firm, depending on the area and your sensitivity.
 
 Practitioners pay attention to texture, tone, and any "gritty" or "crunchy" sensations they feel under the skin, which they interpret as indicating congestion or imbalance in corresponding body areas. They may spend extra time on areas they identify as problematic.
 
@@ -85,7 +85,7 @@ This is where reflexology gets complicated. The research base is growing but pro
 
 ### What the Evidence Doesn't Support
 
-**Diagnosis.** The idea that a reflexologist can detect disease by feeling your feet has not been validated. A 2015 study in the *Journal of Clinical Nursing* tested whether reflexologists could detect known conditions by examining patients' feet. They could not.
+**Diagnosis.** The idea that a reflexologist can detect disease by feeling your feet has not been validated. A 2015 study in the *Journal of Clinical [Nursing](/nursing)* tested whether reflexologists could detect known conditions by examining patients' feet. They could not.
 
 **Treatment of specific diseases.** Claims that reflexology can treat asthma, diabetes, cancer, or other specific conditions are not supported by rigorous evidence. The NIH's National Center for Complementary and Integrative Health (NCCIH) states clearly: "There is not enough scientific evidence to support reflexology as a treatment for any medical condition."
 
@@ -109,7 +109,7 @@ That doesn't mean reflexology is useless. It means the mechanism is probably sim
 
 Reflexology exists in a middle ground between mainstream medicine and fringe therapy. Some hospitals and cancer centers offer it as a complementary service. Denmark's healthcare system partially covers reflexology. Many hospice programs include it for comfort care.
 
-In the wellness industry, reflexology is widely available — spas, standalone clinics, mobile practitioners. Sessions typically cost $40-$100 depending on location and duration. Some health insurance plans cover it under complementary therapy benefits, though most do not.
+In the [wellness](/wellness) industry, reflexology is widely available — spas, standalone clinics, mobile practitioners. Sessions typically cost $40-$100 depending on location and duration. Some [health insurance](/health-[insurance](/insurance)) plans cover it under complementary therapy benefits, though most do not.
 
 Training programs range from 100-hour weekend courses to 300+ hour professional certification programs. The lack of standardization is a legitimate concern — the person working on your feet might have 20 years of training or 20 hours.
 

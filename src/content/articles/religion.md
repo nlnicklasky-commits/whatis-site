@@ -5,7 +5,7 @@ description: "Religion is a system of beliefs, practices, and community centered
 category: philosophy
 tags: ["religion", "faith", "spirituality", "theology", "worship", "belief systems", "philosophy"]
 heroImage: "/images/articles/religion-hero.webp"
-heroAlt: "Symbols of major world religions arranged in a circle representing global faith traditions"
+heroAlt: "Editorial photograph representing the concept of religion"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -141,7 +141,7 @@ Karl Marx famously called religion "the opium of the people" — a tool used by 
 
 Some scholars argue that religious behavior evolved because it enhanced group survival. Groups with shared beliefs, rituals, and moral codes cooperated more effectively than groups without them. Religious communities enforced norms, punished free-riders, and maintained trust — all survival advantages.
 
-Others suggest religion is a byproduct of cognitive capacities that evolved for other purposes — pattern recognition, social cognition, and narrative-making applied to existential questions. Under this view, religion is not directly adaptive but emerges as a side effect of useful brain architecture.
+Others suggest religion is a byproduct of cognitive capacities that evolved for other purposes — [pattern recognition](/pattern-recognition), social cognition, and narrative-making applied to existential questions. Under this view, religion is not directly adaptive but emerges as a side effect of useful brain architecture.
 
 ### Phenomenological Explanations
 
@@ -169,7 +169,7 @@ In practice, the boundaries are always blurry. Politicians in officially secular
 
 ### Religion and Science
 
-The "warfare thesis" — the idea that science and religion are fundamentally incompatible and historically in conflict — was popularized in the 19th century and persists in popular culture. But historians of science have largely abandoned it. The relationship between religion and science has been much more complex and cooperative than the conflict narrative suggests.
+The "warfare thesis" — the idea that science and religion are fundamentally incompatible and historically in conflict — was popularized in the 19th century and persists in [popular culture](/popular-culture). But historians of science have largely abandoned it. The relationship between religion and science has been much more complex and cooperative than the conflict narrative suggests.
 
 The Big Bang theory was first proposed by Georges Lemaitre, a Catholic priest. Gregor Mendel, the father of genetics, was an Augustinian friar. Many universities — Oxford, Cambridge, Harvard, and countless others — were founded by religious institutions. Islamic scholars preserved and advanced Greek science during Europe's medieval period.
 
@@ -177,7 +177,7 @@ Genuine conflicts exist: the Galileo affair, debates over evolution, disputes ab
 
 ### Religion and Violence
 
-Religion has motivated extraordinary violence: the Crusades, the Inquisition, the Thirty Years' War, sectarian conflict in Northern Ireland, Hindu-Muslim violence in South Asia, Buddhist-Muslim conflict in Myanmar. This record is undeniable and important.
+Religion has motivated extraordinary violence: the Crusades, the Inquisition, the [Thirty Years' War](/thirty-years-war), sectarian conflict in Northern Ireland, Hindu-Muslim violence in South Asia, Buddhist-Muslim conflict in Myanmar. This record is undeniable and important.
 
 But attributing violence solely to religion misreads history. Most religious conflicts involve ethnicity, politics, territory, economics, and power alongside — and often more than — theology. The Troubles in Northern Ireland were about British colonial history and Irish nationalism as much as Protestantism versus Catholicism. The Bosnian War involved ethnic identity, not just religious difference.
 

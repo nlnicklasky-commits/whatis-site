@@ -5,7 +5,7 @@ description: "Horse riding is the skill of sitting on and controlling a horse. L
 category: sports
 tags: ["riding horse", "equestrian", "horseback riding", "dressage", "jumping", "horses"]
 heroImage: "/images/articles/riding-horse.webp"
-heroAlt: "Rider on horseback cantering through an open field"
+heroAlt: "Editorial photograph representing the concept of riding (horse)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Riding (Horse)?
 
-Horse riding — also called horseback riding or equestrianism — is the practice of sitting on and directing the movement of a horse. Humans have been riding horses for roughly 5,000 years, and what began as transportation and warfare has evolved into sport, recreation, therapy, and art. About 7.2 million Americans ride horses, according to the American Horse Council, making it one of the most popular animal-related activities in the country.
+Horse riding — also called horseback riding or [equestrianism](/equestrianism) — is the practice of sitting on and directing the movement of a horse. Humans have been riding horses for roughly 5,000 years, and what began as transportation and warfare has evolved into sport, recreation, therapy, and art. About 7.2 million Americans ride horses, according to the American Horse Council, making it one of the most popular animal-related activities in the country.
 
 ## The Basics
 
@@ -55,9 +55,9 @@ Riding a horse isn't like riding a bicycle. A bicycle goes where you steer it. A
 
 **English riding** uses a flat, close-contact saddle that allows the rider to feel the horse's movement directly. English disciplines include:
 
-- **Dressage** — sometimes called "horse ballet." Horse and rider perform precise, pre-determined movements at various gaits. Top-level dressage (Grand Prix) includes movements like piaffe (trotting in place) and passage (an elevated, slow-motion trot). It's an Olympic sport.
+- **[Dressage](/dressage)** — sometimes called "horse [ballet](/ballet)." Horse and rider perform precise, pre-determined movements at various gaits. Top-level dressage (Grand Prix) includes movements like piaffe (trotting in place) and passage (an elevated, slow-motion trot). It's an Olympic sport.
 - **Show jumping** — horse and rider jump a course of fences against the clock. Faults are incurred for knocking down rails or refusing jumps. Jumps at the top level exceed 5 feet.
-- **Eventing** — a triathlon combining dressage, cross-country jumping (over solid obstacles at speed through open terrain), and show jumping. Considered the most demanding equestrian discipline.
+- **Eventing** — a [triathlon](/triathlon) combining dressage, cross-country jumping (over solid obstacles at speed through open terrain), and show jumping. Considered the most demanding equestrian discipline.
 
 **Western riding** uses a heavier saddle with a horn (originally designed for ranch work and roping cattle). Western disciplines include:
 
@@ -73,9 +73,9 @@ Horses are prey animals with strong flight instincts. They can weigh 1,000-1,200
 
 ## Health and Therapeutic Benefits
 
-Riding is a legitimate full-body workout. It engages core muscles (maintaining balance and posture), leg muscles (maintaining position and giving aids), and improves flexibility, coordination, and cardiovascular fitness. A study in the *International Journal of Exercise Science* found that riding burns 250-400 calories per hour depending on intensity.
+Riding is a legitimate full-body workout. It engages core muscles (maintaining balance and posture), leg muscles (maintaining position and giving aids), and improves flexibility, coordination, and cardiovascular [fitness](/fitness). A study in the *International Journal of Exercise Science* found that riding burns 250-400 calories per hour depending on intensity.
 
-Equine-assisted therapy (therapeutic riding) uses horses to help people with physical, cognitive, and emotional disabilities. The horse's rhythmic movement mimics human walking patterns, providing physical therapy for riders who can't walk. The emotional bond with the horse provides psychological benefits for people with PTSD, autism, and anxiety. The Professional Association of Therapeutic Horsemanship International (PATH Intl.) certifies over 880 therapeutic riding centers.
+Equine-assisted therapy (therapeutic riding) uses horses to help people with physical, cognitive, and emotional disabilities. The horse's rhythmic movement mimics human [walking](/walking) patterns, providing [physical therapy](/physical-therapy) for riders who can't walk. The emotional bond with the horse provides psychological benefits for people with PTSD, autism, and anxiety. The Professional Association of Therapeutic Horsemanship International (PATH Intl.) certifies over 880 therapeutic riding centers.
 
 ## Getting Started
 

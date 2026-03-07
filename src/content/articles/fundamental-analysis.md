@@ -5,7 +5,7 @@ description: "Fundamental analysis evaluates a stock's true value by studying fi
 category: finance
 tags: ["investment", "stocks", "bonds", "valuation", "financial analysis", "economics", "market analysis"]
 heroImage: "/images/articles/fundamental-analysis-hero.webp"
-heroAlt: "Financial analyst reviewing company balance sheets and income statements on a desk"
+heroAlt: "Editorial photograph representing the concept of fundamental analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Fundamental Analysis?
 
-Fundamental analysis is a method of evaluating securities by examining the underlying financial and economic factors that determine their intrinsic value. It involves studying a company's financial statements, competitive position, industry dynamics, and broader economic conditions to determine whether a stock is overvalued, undervalued, or fairly priced relative to its current market price. The approach was formalized by Benjamin Graham and David Dodd in their 1934 book *Security Analysis* and remains the foundation of value investing.
+Fundamental analysis is a method of evaluating securities by examining the underlying financial and economic factors that determine their intrinsic value. It involves studying a company's financial statements, competitive position, industry dynamics, and broader economic conditions to determine whether a stock is overvalued, undervalued, or fairly priced relative to its current market price. The approach was formalized by Benjamin Graham and David Dodd in their 1934 book *[Security Analysis](/security-analysis)* and remains the foundation of value investing.
 
 ## The Big Idea: Price vs. Value
 
@@ -43,7 +43,7 @@ Here's the concept that makes fundamental analysis tick — and it's surprisingl
 
 A stock has a *price* (what people are paying for it right now) and a *value* (what the underlying business is actually worth). These two numbers are frequently different.
 
-Price is set by market participants — traders, algorithms, pension funds, retail investors — all acting on information, emotion, momentum, fear, and greed. Price changes every second the market is open.
+Price is set by market participants — traders, algorithms, pension funds, retail investors — all [acting](/acting) on information, emotion, momentum, fear, and greed. Price changes every second the market is open.
 
 Value, on the other hand, changes slowly. It's determined by how much cash the business generates, how fast it's growing, how sustainable its competitive advantages are, and what you'd receive if the company were liquidated or acquired. Value doesn't care about yesterday's headline or this morning's tweet.
 
@@ -62,7 +62,7 @@ Fundamental analysts typically approach valuation from one of two directions.
 Start with the big picture and narrow down:
 
 1. **Macroeconomic environment**: Interest rates, GDP growth, inflation, unemployment, trade policy. Is the overall economy expanding or contracting?
-2. **Sector analysis**: Which industries benefit from current economic conditions? During economic expansion, cyclical industries (autos, construction, luxury goods) tend to outperform. During contraction, defensive sectors (utilities, healthcare, consumer staples) hold up better.
+2. **Sector analysis**: Which industries benefit from current economic conditions? During economic expansion, cyclical industries (autos, [construction](/construction), luxury goods) tend to outperform. During contraction, defensive sectors (utilities, healthcare, consumer staples) hold up better.
 3. **Company selection**: Within attractive sectors, identify the strongest companies based on financial metrics and competitive position.
 
 Top-down analysis is popular among economists and macro-oriented fund managers. It prevents you from buying a great company in a terrible industry or a great industry in a collapsing economy.
@@ -72,11 +72,11 @@ Top-down analysis is popular among economists and macro-oriented fund managers. 
 Start with individual companies:
 
 1. **Find interesting companies**: Through screening, industry knowledge, or personal observation
-2. **Analyze the business**: Financial statements, competitive position, management quality
+2. **Analyze the business**: Financial statements, competitive position, [management](/management) quality
 3. **Value the company**: Estimate intrinsic value using quantitative models
 4. **Consider context**: Check whether macroeconomic and industry conditions support your thesis
 
-Bottom-up analysts argue that a truly great company can perform well regardless of economic conditions. Warren Buffett is the most famous bottom-up investor — he's said he doesn't spend much time thinking about macroeconomics.
+Bottom-up analysts argue that a truly great company can perform well regardless of economic conditions. Warren Buffett is the most famous bottom-up investor — he's said he doesn't spend much time thinking about [macroeconomics](/macroeconomics).
 
 Most professional analysts use elements of both approaches.
 
@@ -92,7 +92,7 @@ Also called the profit and loss statement (P&L). It shows how much the company e
 
 **Gross profit**: Revenue minus cost of goods sold (COGS). The gross margin (gross profit / revenue) tells you how much the company marks up its products. Software companies might have 80%+ gross margins. Grocery stores might have 25%. Compare to industry peers — a company with higher gross margins than competitors usually has a pricing advantage.
 
-**Operating income**: Gross profit minus operating expenses (salaries, R&D, marketing, rent). This is profit from the core business, before interest and taxes. Operating margin (operating income / revenue) shows how efficiently the company turns revenue into profit from its actual operations.
+**Operating income**: Gross profit minus operating expenses (salaries, R&D, [marketing](/marketing), rent). This is profit from the core business, before interest and taxes. Operating margin (operating income / revenue) shows how efficiently the company turns revenue into profit from its actual operations.
 
 **Net income** (bottom line): What's left after everything — interest, taxes, one-time charges, and gains. Earnings per share (EPS) is net income divided by shares outstanding. This is the number that drives P/E ratios and most earnings-based valuation.
 
@@ -147,7 +147,7 @@ Compare the company's valuation ratios to similar companies:
 - **P/E ratio** (price / earnings per share): If the industry average P/E is 20 and your company trades at 12, it might be cheap — or it might deserve the discount because of weaker prospects.
 - **EV/EBITDA** (enterprise value / earnings before interest, taxes, depreciation, amortization): Useful for comparing companies with different capital structures.
 - **P/S ratio** (price / sales): Useful for unprofitable growth companies where earnings-based metrics don't work.
-- **P/B ratio** (price / book value): Useful for asset-heavy businesses like banks and insurance companies.
+- **P/B ratio** (price / book value): Useful for asset-heavy businesses like banks and [insurance](/insurance) companies.
 
 The key is choosing truly comparable companies. Comparing a high-growth tech startup's P/E to a mature utility's P/E is meaningless. Industry, size, growth rate, profitability, and risk profile all matter.
 

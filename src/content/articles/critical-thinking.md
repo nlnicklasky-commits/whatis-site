@@ -5,7 +5,7 @@ description: "Critical thinking is the disciplined process of analyzing informat
 category: everyday-concepts
 tags: ["critical thinking", "logic", "reasoning", "problem solving", "decision making", "analysis"]
 heroImage: "/images/articles/critical-thinking.webp"
-heroAlt: "A person examining a complex decision tree diagram on a whiteboard"
+heroAlt: "Editorial photograph representing the concept of critical thinking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Daniel Kahneman, who won the Nobel Prize for his work on cognitive biases, descr
 
 **Evaluation** means judging the quality of evidence and reasoning. Is the evidence from a reliable source? Is the sample size large enough? Does the conclusion follow logically from the premises? Are there alternative explanations? This is where domain knowledge matters — evaluating a medical study requires different knowledge than evaluating a business proposal, though the underlying reasoning skills are similar.
 
-**Inference** means drawing reasonable conclusions from available evidence. Good inference acknowledges uncertainty — most real-world conclusions are probabilistic, not certain. The statement "this is the most likely explanation given current evidence" is far more intellectually honest than "this is definitely what happened."
+**Inference** means [drawing](/drawing) reasonable conclusions from available evidence. Good inference acknowledges uncertainty — most real-world conclusions are probabilistic, not certain. The statement "this is the most likely explanation given current evidence" is far more intellectually honest than "this is definitely what happened."
 
 **Self-regulation** means monitoring your own thinking for biases, gaps, and errors. This is the hardest part. It's relatively easy to spot flawed reasoning in others. Catching it in yourself requires a kind of intellectual humility that doesn't come naturally.
 
@@ -75,13 +75,13 @@ Abstract reasoning skills matter, but critical thinking is most valuable when ap
 
 **Evaluating arguments:** What's the claim? What's the evidence? Does the evidence actually support this specific claim, or could it support alternative conclusions equally well? What would change my mind about this?
 
-## Teaching Critical Thinking
+## [Teaching](/teaching) Critical Thinking
 
 Universities claim to teach critical thinking, but the evidence suggests many don't do it well. A 2011 study (*Academically Adrift*) found that 36% of college students showed no significant improvement in critical thinking skills after four years of [education](/education).
 
 The most effective approaches teach reasoning skills explicitly rather than assuming they'll develop automatically through exposure to subject matter. Programs that combine formal [logic](/logic) instruction with application across multiple domains produce the strongest results.
 
-Outside formal education, critical thinking improves with practice. Reading widely (especially perspectives you disagree with), engaging in structured debate, writing analytical essays, and actively seeking disconfirming evidence for your beliefs all strengthen reasoning ability.
+Outside formal education, critical thinking improves with practice. Reading widely (especially perspectives you disagree with), engaging in structured [debate](/debate), [writing](/writing) analytical essays, and actively seeking disconfirming evidence for your beliefs all strengthen reasoning ability.
 
 ## The Emotional Dimension
 

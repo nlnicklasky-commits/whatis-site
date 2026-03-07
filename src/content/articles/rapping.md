@@ -5,7 +5,7 @@ description: "Rapping is the rhythmic vocal delivery of lyrics over beats, formi
 category: arts-amp-culture
 tags: ["rapping", "hip-hop", "music", "lyrics", "rhythm", "spoken word"]
 heroImage: "/images/articles/rapping.webp"
-heroAlt: "Rapper performing on stage with microphone and stage lighting"
+heroAlt: "Editorial photograph representing the concept of rapping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ Eminem's "Lose Yourself" rhymes "palms are sweaty" / "arms are heavy" / "vomit o
 
 **1986-1996 — The golden age.** Rakim transformed flow — his smooth, complex delivery on records with Eric B raised the bar for every rapper who followed. Public Enemy brought political urgency. N.W.A. brought raw street reality from Compton. The Notorious B.I.G. and Tupac Shakur became the genre's biggest stars (and most tragic figures). Wu-Tang Clan, Nas, A Tribe Called Quest, OutKast — the diversity of styles during this period was staggering.
 
-**1997-2005 — Commercial dominance.** Jay-Z, Eminem, and Kanye West took hip-hop from the margins to the absolute center of popular culture. Eminem became the best-selling artist of the early 2000s. Hip-hop outsold every other genre.
+**1997-2005 — Commercial dominance.** Jay-Z, Eminem, and Kanye West took hip-hop from the margins to the absolute center of [popular culture](/popular-culture). Eminem became the best-selling artist of the early 2000s. Hip-hop outsold every other genre.
 
 **2006-present — The streaming era.** Auto-Tune and melodic rap (Kanye's *808s & Heartbreak*, Future, Young Thug) expanded what rapping could sound like. Trap production (heavy bass, hi-hat rolls) from Atlanta became the dominant sonic template. Drill (originating in Chicago, spreading to the UK and globally) brought raw, aggressive energy. Streaming platforms made regional scenes instantly global — a rapper in Lagos or London could reach American audiences overnight.
 
@@ -69,16 +69,16 @@ Eminem's "Lose Yourself" rhymes "palms are sweaty" / "arms are heavy" / "vomit o
 
 **Trap** — originated in Atlanta. Characterized by hi-hat rolls, deep 808 bass, and lyrical content often centered on street life. Gucci Mane, T.I., and Young Jeezy originated the sound; Migos, Future, and Travis Scott evolved it.
 
-**Melodic rap** — blending rapping and singing, using Auto-Tune and melodic vocal patterns. Juice WRLD, Lil Uzi Vert, and Post Malone made this the dominant commercial style of the late 2010s.
+**Melodic rap** — blending rapping and [singing](/singing), using Auto-Tune and melodic vocal patterns. Juice WRLD, Lil Uzi Vert, and Post Malone made this the dominant commercial style of the late 2010s.
 
-**Conscious rap** — lyrically focused on social issues, politics, philosophy, and personal growth. Kendrick Lamar, J. Cole, and Common represent this tradition.
+**Conscious rap** — lyrically focused on social issues, [politics](/politics), [philosophy](/philosophy), and [personal growth](/personal-growth). Kendrick Lamar, J. Cole, and Common represent this tradition.
 
 **Freestyle** — improvised rapping, either over a beat or a cappella. Battle rap — freestyle competitions where rappers take turns insulting each other — is a thriving subculture with its own leagues, events, and stars.
 
-## Rapping as Poetry
+## Rapping as [Poetry](/poetry)
 
 The comparison between rapping and poetry is legitimate and instructive. Both use rhythm, rhyme, imagery, and metaphor. Both compress meaning into concise language. Both are performed arts — meant to be heard, not just read.
 
 Hip-hop studies are now taught at universities including Harvard, Stanford, and Yale. Kendrick Lamar won the Pulitzer Prize for Music in 2018 — the first non-classical, non-jazz artist to do so. The literary establishment that once dismissed rap as unsophisticated has largely come around.
 
-The truth is, the best rappers are among the most technically skilled verbal artists working in any medium. The rhyme density, rhythmic complexity, and sheer volume of material they produce exceed what most poets accomplish. Whether that makes rapping "poetry" or "something else entirely" depends on your definitions. Either way, the skill is real, the art is real, and the cultural impact is beyond debate.
+The truth is, the best rappers are among the most technically skilled verbal artists working in any medium. The rhyme density, rhythmic complexity, and sheer volume of material they produce exceed what most poets accomplish. Whether that makes rapping "poetry" or "something else entirely" depends on your definitions. Either way, the skill is real, the art is real, and the cultural impact is beyond [debate](/debate).

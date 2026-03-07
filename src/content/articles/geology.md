@@ -5,7 +5,7 @@ description: "Geology studies Earth's structure, materials, and the processes sh
 category: science
 tags: ["geology", "earth science", "rocks", "minerals", "plate tectonics", "natural hazards", "resources"]
 heroImage: "/images/articles/geology-hero.webp"
-heroAlt: "Dramatic exposed rock layers in a mountainside showing folded and faulted strata of different geological ages"
+heroAlt: "Editorial photograph representing the concept of geology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -69,7 +69,7 @@ Geologists classify rocks into three types based on how they form.
 
 These three types are connected by the rock cycle — a continuous process where rocks are created, destroyed, and recreated in different forms. Igneous rocks weather to sediments, which become sedimentary rocks, which can be metamorphosed, which can melt to form new igneous rocks. The cycle has been running for over 4 billion years.
 
-## Plate Tectonics: The Grand Unifying Theory
+## [Plate Tectonics](/plate-tectonics): The Grand Unifying Theory
 
 Plate tectonics is to geology what evolution is to [biology](/biology) — the overarching theory that explains nearly everything. And like evolution, it was fiercely resisted before the evidence became overwhelming.
 
@@ -121,7 +121,7 @@ Modern civilization runs on geological resources.
 
 Fossil fuels — coal, oil, and natural gas — formed from ancient organic matter buried and transformed by heat and pressure over millions of years. Coal comes from ancient swamp vegetation. Oil and gas come from marine microorganisms buried in sedimentary basins. Geology determines where these resources form, migrate, and accumulate.
 
-Even as we transition to renewable energy, geology remains central. Geothermal energy taps heat from Earth's interior. Nuclear fuel (uranium) is a geological resource. And the metals needed for solar panels, wind turbines, batteries, and electric motors — silicon, copper, lithium, cobalt, rare earth elements — all come from mineral deposits whose formation and distribution geology explains.
+Even as we transition to [renewable energy](/renewable-energy), geology remains central. Geothermal energy taps heat from Earth's interior. Nuclear fuel (uranium) is a geological resource. And the metals needed for solar panels, wind turbines, batteries, and electric motors — silicon, copper, lithium, cobalt, rare earth elements — all come from mineral deposits whose formation and distribution geology explains.
 
 ### Mineral Resources
 
@@ -131,7 +131,7 @@ Ore deposits form through specific geological processes — magmatic segregation
 
 ### Water Resources
 
-Groundwater — water stored in porous and permeable rock formations called aquifers — supplies drinking water to about half the world's population. Geological mapping identifies aquifer locations, their capacity, and their vulnerability to contamination. Hydrogeology — the study of groundwater flow — combines geology, physics, and [chemistry](/chemistry) to manage this critical resource.
+Groundwater — water stored in porous and permeable rock formations called aquifers — supplies drinking water to about half the world's population. Geological mapping identifies aquifer locations, their capacity, and their vulnerability to contamination. [Hydrogeology](/hydrogeology) — the study of groundwater flow — combines geology, physics, and [chemistry](/chemistry) to manage this critical resource.
 
 ## Historical Geology: Earth's Story
 
@@ -159,7 +159,7 @@ Each of these events is recorded in rocks — in their chemistry, their fossils,
 
 ### Planetary Geology
 
-Geology has gone interplanetary. Mars rovers analyze Martian rocks using the same geological principles applied on Earth. The study of [astronomy](/astronomy) and planetary science has revealed that geological processes — volcanism, tectonics, erosion, sedimentation — operate on other worlds, though often with fascinating differences. Venus has volcanism but no plate tectonics. Mars has the solar system's largest volcano (Olympus Mons, 21.9 kilometers high) but appears tectonically dead. Jupiter's moon Io is the most volcanically active body in the solar system.
+Geology has gone interplanetary. Mars rovers analyze Martian rocks using the same geological principles applied on Earth. The study of [astronomy](/astronomy) and [planetary science](/planetary-science) has revealed that geological processes — volcanism, tectonics, erosion, sedimentation — operate on other worlds, though often with fascinating differences. Venus has volcanism but no plate tectonics. Mars has the solar system's largest volcano (Olympus Mons, 21.9 kilometers high) but appears tectonically dead. Jupiter's moon Io is the most volcanically active body in the solar system.
 
 ### Deep Earth Geophysics
 
@@ -175,7 +175,7 @@ This geological context is critical. It shows that Earth's climate system is sen
 
 The transition from fossil fuels to renewable energy requires enormous quantities of specific geological materials. A single wind turbine uses several tons of rare earth elements, copper, and specialized steel. Electric vehicle batteries need lithium, cobalt, nickel, and manganese. Solar panels require silicon, silver, and indium.
 
-Geologists are essential for finding and evaluating new deposits of these critical minerals, understanding the environmental impacts of extraction, and developing recycling and substitution strategies. The geological challenges of the energy transition are as significant as the engineering ones.
+Geologists are essential for finding and evaluating new deposits of these critical minerals, understanding the environmental impacts of extraction, and developing recycling and substitution strategies. The geological challenges of the energy transition are as significant as the [engineering](/engineering) ones.
 
 ## Why Geology Matters
 

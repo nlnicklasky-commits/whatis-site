@@ -5,7 +5,7 @@ description: "Quakerism is a Christian movement emphasizing direct experience of
 category: religion
 tags: ["quakerism", "religion", "Christianity", "peace", "equality", "silent worship"]
 heroImage: "/images/articles/quakerism.webp"
-heroAlt: "Simple Quaker meeting house with plain wooden benches"
+heroAlt: "Editorial photograph representing the concept of quakerism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Quakerism — formally the Religious Society of Friends — is a Christian-roote
 
 This idea was radical in the 1650s and remains distinctive today. Most Christian traditions require some mediating structure — ordained clergy, sacraments, authoritative scripture, or doctrinal creeds. Quakers strip all of that away.
 
-**The testimonies.** Quaker ethics are organized around several core testimonies — not rigid rules, but guiding principles:
+**The testimonies.** Quaker [ethics](/ethics) are organized around several core testimonies — not rigid rules, but guiding principles:
 
 - **Peace** — Quakers have opposed war and violence since the 1660s. The Peace Testimony is the most famous Quaker commitment. Quakers were among the first conscientious objectors, and their peace advocacy continues through organizations like the American Friends Service Committee.
 - **Equality** — if there's that of God in every person, then every person has equal worth. This led Quakers to oppose slavery (they were the first organized religious group to do so), advocate for women's equality (women have always spoken equally in Quaker meetings), and support civil rights.
@@ -78,13 +78,13 @@ In America, Quakers became known for their social activism:
 
 For a group of 380,000, Quakers have left a remarkable mark:
 
-**Business ethics.** Quaker-founded companies — Cadbury, Rowntree, Barclays, Lloyds — were known for treating workers fairly and maintaining honest business practices. The Quaker commitment to integrity ("fixed prices" rather than bargaining) was a precursor to modern retail pricing.
+**[Business ethics](/business-ethics).** Quaker-founded companies — Cadbury, Rowntree, Barclays, Lloyds — were known for treating workers fairly and maintaining honest business practices. The Quaker commitment to integrity ("fixed prices" rather than bargaining) was a precursor to modern retail pricing.
 
-**Social reform.** Quakers were disproportionately represented in abolition movements, prison reform, mental health reform, and peace advocacy. Elizabeth Fry reformed British prison conditions. John Woolman traveled colonial America arguing against slavery decades before the Revolution.
+**Social reform.** Quakers were disproportionately represented in abolition movements, prison reform, [mental health](/mental-health) reform, and peace advocacy. Elizabeth Fry reformed British prison conditions. John Woolman traveled colonial America arguing against slavery decades before the Revolution.
 
 **Decision-making processes.** Quaker consensus-based decision-making — seeking unity rather than majority vote — has influenced organizational practice far beyond religious settings. Some businesses and nonprofits use Quaker-style processes.
 
-**Peace and conflict resolution.** The American Friends Service Committee (AFSC) won the Nobel Peace Prize in 1947 for relief work during and after World War II. Quaker organizations continue working on conflict resolution, refugee assistance, and human rights worldwide.
+**Peace and [conflict resolution](/conflict-resolution).** The American Friends Service Committee (AFSC) won the Nobel Peace Prize in 1947 for relief work during and after [World War II](/world-war-ii). Quaker organizations continue working on conflict resolution, refugee assistance, and human rights worldwide.
 
 ## Quakerism Today
 

@@ -5,7 +5,7 @@ description: "Physiology is the science of how living organisms function, from c
 category: everyday-concepts
 tags: ["physiology", "biology", "body systems", "medicine", "health", "science"]
 heroImage: "/images/articles/physiology.webp"
-heroAlt: "Anatomical illustration showing interconnected body systems including circulatory and nervous systems"
+heroAlt: "Editorial photograph representing the concept of physiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Physiology?
 
-Physiology is the branch of biology that studies how living organisms work — how cells generate energy, how organs perform their functions, how body systems coordinate with each other, and how the whole organism maintains itself in a constantly changing environment. If anatomy asks "What's there?", physiology asks "What does it do and how?"
+Physiology is the branch of [biology](/biology) that studies how living organisms work — how cells generate energy, how organs perform their functions, how body systems coordinate with each other, and how the whole organism maintains itself in a constantly changing environment. If [anatomy](/anatomy) asks "What's there?", physiology asks "What does it do and how?"
 
 ## The Central Concept: Homeostasis
 
@@ -51,7 +51,7 @@ Your body runs thousands of these loops simultaneously. Blood pressure regulatio
 
 ## The Major Systems
 
-Human physiology typically organizes around organ systems, each handling a critical function:
+[Human physiology](/human-physiology) typically organizes around organ systems, each handling a critical function:
 
 **Cardiovascular system.** The heart pumps roughly 7,500 liters of blood per day through about 100,000 kilometers of blood vessels. Blood delivers oxygen and nutrients to tissues and carries away carbon dioxide and waste. Heart rate and blood pressure are regulated by the autonomic nervous system and hormones — speeding up during exercise or stress, slowing during rest.
 
@@ -87,6 +87,6 @@ Physiologists work at multiple scales:
 
 Physiology is the foundation of medicine. Every disease is ultimately a failure of normal physiology — diabetes is a failure of glucose regulation, heart failure is a failure of cardiac pumping, autoimmune disease is a failure of immune self-recognition. Understanding how the body works normally is essential for understanding what goes wrong and how to fix it.
 
-Pharmacology (drug design) depends on physiology — you can't design a drug to fix a broken system if you don't understand how the system works when it's healthy. Exercise science applies physiology to optimize physical performance. Nutrition science applies physiology to understand how food affects the body.
+[Pharmacology](/pharmacology) (drug design) depends on physiology — you can't design a drug to fix a broken system if you don't understand how the system works when it's healthy. Exercise science applies physiology to optimize physical performance. [Nutrition](/nutrition) science applies physiology to understand how food affects the body.
 
-Your body is running an extraordinarily complex operation right now — regulating temperature, filtering blood, digesting food, fighting pathogens, synthesizing proteins — all without your conscious input. Physiology is the science of understanding how it pulls that off.
+Your body is [running](/running) an extraordinarily complex operation right now — regulating temperature, filtering blood, digesting food, fighting pathogens, synthesizing proteins — all without your conscious input. Physiology is the science of understanding how it pulls that off.

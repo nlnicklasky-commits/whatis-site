@@ -5,7 +5,7 @@ description: "Automobile restoration is the process of returning a classic or vi
 category: hobbies
 tags: ["restoration automobile", "classic cars", "vintage vehicles", "automotive", "hobby", "mechanics"]
 heroImage: "/images/articles/restoration-automobile.webp"
-heroAlt: "Classic car being restored in a garage workshop"
+heroAlt: "Editorial photograph representing the concept of restoration (automobile)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,25 +43,25 @@ Not every project is a complete tear-down. The hobby recognizes several levels:
 
 **Concours-level restoration** is the ultimate — returning a car to better-than-new condition, with documentation proving authenticity of every detail. Concours d'Elegance competitions judge to microscopic standards. Only a small fraction of restorations reach this level. Cost: often exceeds the car's market value.
 
-**Restomod** — a blend of restoration and modification. The exterior looks original, but the mechanicals are updated with modern engines, transmissions, brakes, suspension, and amenities (air conditioning, power steering, sound systems). Restomods prioritize driving enjoyment over historical authenticity. They're controversial among purists but increasingly popular.
+**Restomod** — a blend of restoration and modification. The exterior looks original, but the mechanicals are updated with modern engines, transmissions, brakes, suspension, and amenities ([air conditioning](/air-conditioning), power steering, sound systems). Restomods prioritize driving enjoyment over historical authenticity. They're controversial among purists but increasingly popular.
 
 ## The Process
 
 A full frame-off restoration follows a general sequence:
 
-**Documentation.** Before disassembling anything, photograph everything extensively. Catalog every part, wire, hose, and bracket. Note how things are routed, connected, and oriented. You'll forget details months later, and photographs are your insurance.
+**Documentation.** Before disassembling anything, photograph everything extensively. Catalog every part, wire, hose, and bracket. Note how things are routed, connected, and oriented. You'll forget details months later, and photographs are your [insurance](/insurance).
 
 **Disassembly.** Everything comes apart. Body off the frame (hence "frame-off"). Engine, transmission, suspension, electrical — every component removed, labeled, and stored.
 
 **Assessment.** With everything apart, you can see the true condition. This is where many restorers discover hidden rust, previous accident damage, incorrect parts from earlier repairs, and problems that weren't visible before disassembly. Budget adjustments usually happen here.
 
-**Bodywork.** Rust repair (cutting out rusted metal and welding in new panels), dent repair, panel alignment, and preparation for paint. This is typically the most expensive and time-consuming phase. Good bodywork requires skill that takes years to develop.
+**Bodywork.** Rust repair (cutting out rusted metal and [welding](/welding) in new panels), dent repair, panel alignment, and preparation for paint. This is typically the most expensive and time-consuming phase. Good bodywork requires skill that takes years to develop.
 
 **Paint.** Modern automotive paint systems (base coat/clear coat) are chemically complex and require proper spray equipment, a clean environment, and significant skill. Professional paint jobs cost $5,000-$20,000+ depending on quality and color complexity.
 
 **Mechanical rebuilding.** Engine, transmission, rear axle, brakes, steering, suspension, cooling, fuel, and exhaust systems are rebuilt or replaced. Machine shop work (engine boring, crankshaft grinding, valve work) is typically outsourced to specialists.
 
-**Assembly.** Everything goes back together — ideally with better alignment than the factory achieved. Wiring, plumbing, trim, glass, weatherstripping, interior upholstery, chrome, and a thousand small parts. Assembly typically takes longer than expected because getting everything to fit correctly requires patience and adjustment.
+**Assembly.** Everything goes back together — ideally with better alignment than the factory achieved. Wiring, [plumbing](/plumbing), trim, glass, weatherstripping, interior [upholstery](/upholstery), chrome, and a thousand small parts. Assembly typically takes longer than expected because getting everything to fit correctly requires patience and adjustment.
 
 **Testing and tuning.** The car is started, driven cautiously, and issues are identified and resolved. New restorations always have teething problems — leaks, adjustment issues, electrical gremlins. A "shakedown" period of several hundred miles is standard.
 
@@ -69,7 +69,7 @@ A full frame-off restoration follows a general sequence:
 
 Car restoration has a strong community. Marque-specific clubs (Mustang Club of America, Corvette Club, Porsche Club of America) provide technical resources, parts sources, events, and social connections. Online forums like those at Hemmings, BringATrailer, and marque-specific sites contain decades of accumulated knowledge.
 
-Car shows — from local cruise-ins to national concours events — provide venues to display finished projects and connect with fellow enthusiasts. Barrett-Jackson and Mecum auctions attract thousands of spectators and generate millions in sales.
+Car shows — from local cruise-ins to national concours events — provide venues to display finished projects and connect with fellow enthusiasts. Barrett-Jackson and Mecum auctions attract thousands of spectators and generate millions in [sales](/sales).
 
 The TV show effect — *Overhaulin'*, *Counting Cars*, *Wheeler Dealers* — has introduced restoration to wider audiences, though these shows compress projects that realistically take months or years into 30-minute episodes, creating unrealistic expectations.
 
@@ -79,8 +79,8 @@ The financial case for restoration is usually poor. Most finished restorations a
 
 **Connection to history.** A classic car is a tangible piece of the past — designed, built, and driven by people from another era. Restoring one connects you to that history in a way that reading about it doesn't.
 
-**The satisfaction of creation.** Taking a rusted hulk and transforming it into a gleaming, running machine is genuinely satisfying. The first time you start the engine after a complete rebuild — and it actually runs — is a moment restorers never forget.
+**The satisfaction of creation.** Taking a rusted hulk and transforming it into a gleaming, [running](/running) machine is genuinely satisfying. The first time you start the engine after a complete rebuild — and it actually runs — is a moment restorers never forget.
 
-**Skill development.** A full restoration teaches welding, painting, mechanical work, electrical diagnosis, upholstery, and problem-solving. You emerge from a restoration knowing dramatically more about how cars work than when you started.
+**Skill development.** A full restoration teaches welding, [painting](/painting), mechanical work, electrical diagnosis, upholstery, and problem-solving. You emerge from a restoration knowing dramatically more about how cars work than when you started.
 
 **The car itself.** Frankly, some cars are just worth saving. The sound of a tuned V8, the lines of a 1960s sports car, the character of a vehicle designed before computers optimized everything for efficiency — these are experiences modern cars can't replicate.

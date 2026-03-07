@@ -5,7 +5,7 @@ description: "Broadcasting is the transmission of audio or video content to a wi
 category: everyday-concepts
 tags: ["broadcasting", "radio", "television", "media", "communication", "journalism"]
 heroImage: "/images/articles/broadcasting.webp"
-heroAlt: "Television studio with cameras, monitors, and professional lighting equipment"
+heroAlt: "Editorial photograph representing the concept of broadcasting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Broadcasting is the electronic transmission of audio or video content to a dispe
 
 Before broadcasting, information traveled at the speed of physical transport — newspapers, letters, telegrams. Radio changed that permanently. Guglielmo Marconi's wireless telegraph experiments in the 1890s demonstrated that electromagnetic signals could travel without wires. By the 1920s, commercial radio stations were broadcasting music, news, and entertainment to millions of homes simultaneously.
 
-The first commercial radio station is disputed — KDKA Pittsburgh (1920) and WBL Anthony, Kansas (1921) both claim the title — but by 1930, over 12 million American households owned radios. Families gathered around receivers to hear President Roosevelt's fireside chats, listen to Jack Benny, and follow World War II news. Radio created the first truly national shared experience.
+The first commercial radio station is disputed — KDKA Pittsburgh (1920) and WBL Anthony, Kansas (1921) both claim the title — but by 1930, over 12 million American households owned radios. Families gathered around receivers to hear President Roosevelt's fireside chats, listen to Jack Benny, and follow [World War II](/world-war-ii) news. Radio created the first truly national shared experience.
 
 Television followed a similar trajectory but with visual impact. Experimental broadcasts began in the late 1920s. Commercial TV launched after World War II, and by 1960, 90% of American homes had a set. The [Kennedy-Nixon debates](/communication-theory) (1960), the moon landing (1969), and other televised events demonstrated TV's unique power to create shared national moments.
 
@@ -45,7 +45,7 @@ Television followed a similar trajectory but with visual impact. Experimental br
 
 ### Radio
 
-Radio broadcasting converts audio into electromagnetic waves for transmission. Two main types:
+[Radio broadcasting](/radio-broadcasting) converts audio into electromagnetic waves for transmission. Two main types:
 
 **AM (Amplitude Modulation)** — The audio signal modifies the wave's amplitude (strength). AM signals travel long distances, especially at night, but are susceptible to static and interference. AM remains popular for talk radio and sports.
 
@@ -65,7 +65,7 @@ Traditional broadcasting is primarily advertiser-funded. Stations provide free c
 
 This model creates specific incentives: maximize audience size and demographic appeal to command higher advertising rates. Nielsen ratings — which estimate viewership through statistically representative sample households — determine advertising prices. A 30-second Super Bowl ad costs $6-7 million because over 100 million people are watching.
 
-Public broadcasting (PBS, NPR in the U.S.; BBC in the UK) operates differently. The BBC is funded through a mandatory license fee. American public broadcasting uses a mix of government grants, corporate sponsorship, and viewer/listener donations. The BBC model provides independence from advertiser pressure but requires political support for continued funding.
+Public broadcasting (PBS, NPR in the U.S.; BBC in the UK) operates differently. The BBC is funded through a mandatory license fee. American public broadcasting uses a mix of [government](/government) grants, corporate sponsorship, and viewer/listener donations. The BBC model provides independence from advertiser pressure but requires political support for continued funding.
 
 ## The Digital Disruption
 

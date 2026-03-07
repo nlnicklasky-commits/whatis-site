@@ -5,7 +5,7 @@ description: "Business law governs commercial transactions, corporate structure,
 category: finance
 tags: ["business law", "commercial law", "contracts", "corporate law", "intellectual property", "consumer protection", "legal framework"]
 heroImage: "/images/articles/business-law-hero.webp"
-heroAlt: "Legal scales of justice with business documents and a gavel on a desk"
+heroAlt: "Editorial photograph representing the concept of business law"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -79,7 +79,7 @@ Formation requires filing articles of organization with the state. An operating 
 
 Corporations are separate legal entities — they can own property, enter contracts, sue, and be sued independently of their owners (shareholders). This complete separation of personal and business liability is the corporation's primary advantage.
 
-**C Corporations** are the standard corporate structure. They face double taxation — the corporation pays taxes on its profits, and shareholders pay taxes again on dividends. Despite this, C-corps are the required structure for publicly traded companies and the preferred structure for businesses seeking venture capital (VCs generally won't invest in other structures).
+**C Corporations** are the standard corporate structure. They face double taxation — the corporation pays taxes on its profits, and shareholders pay taxes again on dividends. Despite this, C-corps are the required structure for publicly traded companies and the preferred structure for businesses seeking [venture capital](/venture-capital) (VCs generally won't invest in other structures).
 
 **S Corporations** avoid double taxation by passing income through to shareholders' personal returns (like an LLC). But they have restrictions: no more than 100 shareholders, all must be US citizens or residents, and only one class of stock is permitted. These limitations make S-corps suitable for small to medium businesses but not for companies seeking large-scale investment.
 
@@ -111,7 +111,7 @@ For a contract to be legally enforceable, it needs:
 
 **The parol evidence rule** generally prevents parties from introducing oral agreements that contradict a written contract. If your contract says the price is $50,000, you can't claim you orally agreed to $40,000. This is why written contracts should include an "entire agreement" clause stating that the document represents the complete understanding between parties.
 
-**Force majeure** clauses address unforeseeable events that prevent contract performance — natural disasters, wars, pandemics. COVID-19 triggered an avalanche of force majeure claims as businesses couldn't fulfill contracts due to lockdowns and supply chain disruptions. Whether COVID qualified depended on the specific contract language — a lesson in the importance of carefully drafted terms.
+**Force majeure** clauses address unforeseeable events that prevent contract performance — [natural disasters](/natural-disasters), wars, pandemics. COVID-19 triggered an avalanche of force majeure claims as businesses couldn't fulfill contracts due to lockdowns and supply chain disruptions. Whether COVID qualified depended on the specific contract language — a lesson in the importance of carefully drafted terms.
 
 ### The Uniform Commercial Code (UCC)
 
@@ -143,7 +143,7 @@ The Fair Labor Standards Act (FLSA) establishes minimum wage ($7.25 federal, tho
 
 Misclassification — treating employees as independent contractors to avoid payroll taxes, benefits, and labor protections — is a persistent issue. The IRS and Department of Labor actively pursue misclassification cases. The cost of misclassifying workers includes back taxes, penalties, and retroactive benefits — potentially devastating for small businesses.
 
-### Workplace Safety
+### [Workplace Safety](/workplace-safety)
 
 The Occupational Safety and Health Act requires employers to provide workplaces free from recognized hazards. OSHA inspections can result in citations and fines — up to $161,323 per willful violation (2024 figure). Beyond compliance, workplace injuries cost US employers about $167 billion annually in direct costs (workers' compensation, medical expenses) and indirect costs (lost productivity, replacement hiring).
 
@@ -185,7 +185,7 @@ Businesses operate within a web of federal, state, and local regulations that va
 
 **Consumer protection** laws — including the FTC Act, state consumer protection statutes, and industry-specific regulations — prohibit deceptive advertising, unfair business practices, and various forms of consumer exploitation. The FTC has become particularly active in regulating data privacy, influencer marketing disclosures, and AI-related consumer deception.
 
-**Environmental law** — the Clean Air Act, Clean Water Act, RCRA (hazardous waste), and CERCLA (Superfund cleanup) — imposes obligations on businesses that generate pollution or handle hazardous materials. Violations can result in both civil penalties and criminal prosecution.
+**[Environmental law](/environmental-law)** — the Clean Air Act, Clean Water Act, RCRA (hazardous waste), and CERCLA (Superfund cleanup) — imposes obligations on businesses that generate pollution or handle hazardous materials. Violations can result in both civil penalties and criminal prosecution.
 
 **Tax law** affects every business decision. Choice of entity structure, compensation design, investment timing, business location, and transaction structure all have tax implications. The Internal Revenue Code is notoriously complex — over 2,600 pages, supplemented by thousands of pages of Treasury regulations, IRS revenue rulings, and court decisions. Professional tax advice isn't a luxury; it's a necessity for any substantial business. Good [bookkeeping](/bookkeeping) is the prerequisite.
 
@@ -203,13 +203,13 @@ When business disputes arise, several resolution mechanisms exist:
 
 The trend in [business administration](/business-administration) is toward alternative dispute resolution (ADR) — mediation and arbitration — rather than litigation. Courts actively encourage ADR, and many contracts require it before litigation is permitted.
 
-## International Business Law
+## [International Business](/international-business) Law
 
 Businesses operating across borders face additional legal complexity.
 
 **The Foreign Corrupt Practices Act (FCPA)** prohibits US companies from bribing foreign government officials. Penalties are severe — Siemens paid $1.6 billion in FCPA penalties in 2008, the largest settlement in the law's history at the time.
 
-**International trade law** encompasses tariffs, trade agreements, export controls, and sanctions. The World Trade Organization provides a framework for resolving trade disputes between nations.
+**[International trade](/international-trade) law** encompasses tariffs, trade agreements, export controls, and sanctions. The World Trade Organization provides a framework for resolving trade disputes between nations.
 
 **Cross-border contracts** raise questions about which country's law governs, which courts have jurisdiction, and how judgments are enforced across borders. Choice-of-law and jurisdiction clauses in international contracts are critical.
 

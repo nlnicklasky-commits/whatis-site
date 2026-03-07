@@ -5,7 +5,7 @@ description: "Romanticism was a 19th-century art movement that prized emotion, i
 category: arts-amp-culture
 tags: ["romantic art", "19th century art", "emotion", "individualism", "sublime", "art movement"]
 heroImage: "/images/articles/romanticism-art.webp"
-heroAlt: "Dramatic Romantic-era painting of a stormy landscape with tiny human figures"
+heroAlt: "Editorial photograph representing the concept of romanticism (art)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ Romanticism was an artistic and intellectual movement that swept through Europe 
 
 ## A Rebellion Against Reason
 
-To understand Romanticism, you need to understand what it was pushing against. The 18th century was the Age of Enlightenment — a period that valued reason, logic, scientific inquiry, and classical ideals. Neoclassical art, the dominant style, looked to ancient Greece and Rome for inspiration. Paintings featured idealized figures, balanced compositions, clean lines, and subjects drawn from classical history and mythology. Everything was orderly. Controlled. Cerebral.
+To understand Romanticism, you need to understand what it was pushing against. The 18th century was the Age of Enlightenment — a period that valued reason, [logic](/logic), scientific inquiry, and classical ideals. Neoclassical art, the dominant style, looked to ancient Greece and Rome for inspiration. Paintings featured idealized figures, balanced compositions, clean lines, and subjects drawn from classical history and [mythology](/mythology). Everything was orderly. Controlled. Cerebral.
 
 Romanticism said: that's not enough. Human experience isn't orderly. Emotions aren't rational. Nature isn't balanced — it's terrifying and magnificent and indifferent to human plans. The Romantics wanted art that made you *feel* something overwhelming, not just admire technical execution.
 
-The French Revolution (1789) and the Napoleonic Wars provided the political backdrop. Old certainties collapsed. Monarchies fell. Tens of thousands died in the name of liberty and then in the name of empire. The neat rationalism of the Enlightenment suddenly seemed inadequate for a world this chaotic. Romanticism was, in part, an emotional response to a world that reason had failed to tame.
+The French Revolution (1789) and the [Napoleonic Wars](/napoleonic-wars) provided the political backdrop. Old certainties collapsed. Monarchies fell. Tens of thousands died in the name of liberty and then in the name of empire. The neat rationalism of the Enlightenment suddenly seemed inadequate for a world this chaotic. Romanticism was, in part, an emotional response to a world that reason had failed to tame.
 
 ## The Sublime — Terror and Beauty Together
 
@@ -47,7 +47,7 @@ The central concept of Romantic art is **the sublime** — a feeling of awe mixe
 
 The philosopher Edmund Burke defined the sublime in 1757: it's the experience of danger perceived from a position of safety. Your mind grasps the power that could destroy you, and that awareness produces a peculiar pleasure.
 
-Romantic painters chased this feeling obsessively. Caspar David Friedrich's *Wanderer Above the Sea of Fog* (1818) — probably the single most iconic Romantic painting — shows a man standing on a rocky peak, his back to the viewer, gazing out over an infinite expanse of fog and mountains. He's simultaneously dominant (standing above the field) and insignificant (dwarfed by the vastness before him). That tension between human ambition and nature's indifference is pure Romanticism.
+Romantic painters chased this feeling obsessively. Caspar David Friedrich's *Wanderer Above the Sea of Fog* (1818) — probably the single most iconic Romantic [painting](/painting) — shows a man standing on a rocky peak, his back to the viewer, gazing out over an infinite expanse of fog and mountains. He's simultaneously dominant (standing above the field) and insignificant (dwarfed by the vastness before him). That tension between human ambition and nature's indifference is pure Romanticism.
 
 ## The Major Figures
 
@@ -57,7 +57,7 @@ Romantic painters chased this feeling obsessively. Caspar David Friedrich's *Wan
 
 **Caspar David Friedrich** (1774-1840) — German painter of solitary contemplation. His figures stand alone before vast landscapes, their backs to the viewer, lost in thought or overwhelmed by nature. Friedrich's work is quieter than Turner's or Delacroix's, but no less powerful. There's a loneliness to his paintings that hits you in the chest.
 
-**Francisco Goya** (1746-1828) — the Spanish master whose career spans from elegant royal portraits to some of the darkest images in Western art. His "Black Paintings" — painted directly on the walls of his house in his 70s — include *Saturn Devouring His Son*, a nightmare image of a titan eating a human body. Goya pushed Romanticism's emotional intensity past beauty into genuine horror.
+**Francisco Goya** (1746-1828) — the Spanish master whose career spans from elegant royal portraits to some of the darkest images in [Western art](/western-art). His "Black Paintings" — painted directly on the walls of his house in his 70s — include *Saturn Devouring His Son*, a nightmare image of a titan eating a human body. Goya pushed Romanticism's emotional intensity past beauty into genuine horror.
 
 ## American Romanticism — The Hudson River School
 
@@ -71,9 +71,9 @@ Church's *The Heart of the Andes* (1859) was exhibited as a standalone event —
 
 Romanticism was never just a visual art movement. It was a worldview that expressed itself across every creative domain simultaneously.
 
-In literature: Byron, Shelley, Keats, Wordsworth, Coleridge, Victor Hugo, Edgar Allan Poe, the Brontë sisters. In music: Beethoven, Chopin, Liszt, Wagner, Berlioz — composers who pushed emotional expression to extremes, writing longer, louder, and more personally than their Classical predecessors. In philosophy: Hegel, Schopenhauer, and the Transcendentalists (Emerson, Thoreau).
+In [literature](/literature): Byron, Shelley, Keats, Wordsworth, Coleridge, Victor Hugo, Edgar Allan Poe, the Brontë sisters. In music: Beethoven, Chopin, Liszt, Wagner, Berlioz — composers who pushed emotional expression to extremes, [writing](/writing) longer, louder, and more personally than their Classical predecessors. In [philosophy](/philosophy): Hegel, Schopenhauer, and the Transcendentalists (Emerson, Thoreau).
 
-The visual art didn't exist in isolation from these other expressions. Turner was inspired by Byron's poetry. Delacroix illustrated scenes from Shakespeare. Wagner dreamed of a "total work of art" (*Gesamtkunstwerk*) that combined music, drama, and visual spectacle. Romanticism was a cultural movement, and its practitioners read, listened to, and influenced each other constantly.
+The visual art didn't exist in isolation from these other expressions. Turner was inspired by Byron's [poetry](/poetry). Delacroix illustrated scenes from Shakespeare. Wagner dreamed of a "total work of art" (*Gesamtkunstwerk*) that combined music, [drama](/drama), and visual spectacle. Romanticism was a cultural movement, and its practitioners read, listened to, and influenced each other constantly.
 
 ## The Legacy
 

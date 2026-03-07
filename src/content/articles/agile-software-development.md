@@ -5,7 +5,7 @@ description: "Agile software development explained: its origins, core values, fr
 category: technology
 tags: ["agile", "agile software development", "scrum", "kanban", "project management", "software development", "technology"]
 heroImage: "/images/articles/agile-software-development-hero.webp"
-heroAlt: "Team collaborating around a whiteboard with sticky notes during an agile sprint planning session"
+heroAlt: "Editorial photograph representing the concept of agile software development"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ The [Agile Manifesto](https://agilemanifesto.org/) declared four core values:
 
 **Individuals and interactions** over processes and tools.
 **Working software** over documentation.
-**Customer collaboration** over contract negotiation.
+**Customer collaboration** over contract [negotiation](/negotiation).
 **Responding to change** over following a plan.
 
 The manifesto's careful phrasing matters. It doesn't say processes, documentation, contracts, and plans are worthless. It says the items on the left matter *more*. This distinction gets lost constantly — people either dismiss Agile as "no planning" or implement it as rigid process theater. Both miss the point entirely.
@@ -78,7 +78,7 @@ These weren't abstract ideas. They were hard-won lessons from people who'd watch
 
 ## Scrum: The Most Popular Agile Framework
 
-If Agile is the philosophy, Scrum is the most widely adopted playbook. According to Digital.ai's State of Agile surveys, roughly 66% of Agile teams use Scrum or a Scrum-based hybrid. It was formalized by Jeff Sutherland and Ken Schwaber in the early 1990s and continues to be governed by the official Scrum Guide.
+If Agile is the [philosophy](/philosophy), Scrum is the most widely adopted playbook. According to Digital.ai's State of Agile surveys, roughly 66% of Agile teams use Scrum or a Scrum-based hybrid. It was formalized by Jeff Sutherland and Ken Schwaber in the early 1990s and continues to be governed by the official Scrum Guide.
 
 ### The Roles
 
@@ -172,13 +172,13 @@ Agile's effectiveness isn't magic — it comes from some genuinely sound princip
 
 **Teams improve continuously.** The retrospective creates a structural mechanism for getting better. Teams that run honest retros every two weeks are running 26 improvement experiments per year. Over time, this compounds dramatically.
 
-**Motivated teams produce better work.** Agile's emphasis on trust, autonomy, and self-organization tends to create more engaged teams. People who have a say in how they work generally care more about their work. This isn't idealism — it's backed by decades of research in organizational psychology, including findings around [cognitive bias](/cognitive-bias) in decision-making that affect how teams plan and estimate.
+**Motivated teams produce better work.** Agile's emphasis on trust, autonomy, and self-organization tends to create more engaged teams. People who have a say in how they work generally care more about their work. This isn't idealism — it's backed by decades of research in [organizational psychology](/organizational-psychology), including findings around [cognitive bias](/cognitive-bias) in decision-making that affect how teams plan and estimate.
 
 ## Why Agile Fails (When It Fails)
 
 Here's what most people miss: Agile fails at least as often as it succeeds. But the failures almost always stem from the same root causes.
 
-**"Agile in name only."** Organizations adopt Agile terminology — sprints, standups, backlogs — without the underlying values. They run daily standups that are actually status reports to management. They assign work to individuals instead of letting teams self-organize. They skip retrospectives because they're "too busy." This is sometimes called "Cargo Cult Agile" and it's painfully common.
+**"Agile in name only."** Organizations adopt Agile terminology — sprints, standups, backlogs — without the underlying values. They run daily standups that are actually status reports to [management](/management). They assign work to individuals instead of letting teams self-organize. They skip retrospectives because they're "too busy." This is sometimes called "Cargo Cult Agile" and it's painfully common.
 
 **No empowered Product Owner.** If the person deciding what to build can't actually make decisions — if every choice needs committee approval — the whole system breaks down. The team builds the wrong things, priorities shift mid-sprint, and the backlog becomes a political battlefield.
 

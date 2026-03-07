@@ -5,7 +5,7 @@ description: "Fencing is a combat sport using swords — foil, epee, or sabre. L
 category: sports
 tags: ["combat sport", "swordplay", "foil", "epee", "sabre", "olympic sport"]
 heroImage: "/images/articles/fencing.webp"
-heroAlt: "Two fencers in white protective gear crossing blades during a match"
+heroAlt: "Editorial photograph representing the concept of fencing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,13 +59,13 @@ In individual events, the first fencer to 15 touches wins, with the bout divided
 
 Electronic scoring has been standard since the 1930s for epee and was adopted for foil and sabre later. Each fencer wears a conductive jacket (called a lame) that registers touches. The weapon connects via a body cord to a scoring machine. When a valid touch lands, a colored light illuminates on the corresponding side. Referees still make final calls on right of way in foil and sabre, which occasionally leads to controversial decisions.
 
-## The Athletics of It
+## The [Athletics](/athletics) of It
 
 People who've never fenced are usually surprised by how physically demanding it is. A competitive fencer needs explosive leg speed (the lunge is basically a plyometric exercise), endurance to sustain high-intensity bouts, core stability for balance, and hand-eye coordination measured in milliseconds.
 
 The footwork is constant. Fencers advance, retreat, and change direction in small, precise steps, maintaining balance and distance control. The lunge — extending the front leg while pushing off the back — can cover six feet or more in an instant. The fleche is even more dramatic: the fencer essentially runs at the opponent, launching forward in a full sprint.
 
-Reaction time is critical. At the elite level, a touch can happen in under 300 milliseconds. Fencers train their visual processing and decision-making the way a tennis player trains returns — through thousands of repetitions until the response is automatic.
+Reaction time is critical. At the elite level, a touch can happen in under 300 milliseconds. Fencers train their visual processing and decision-making the way a [tennis](/tennis) player trains returns — through thousands of repetitions until the response is automatic.
 
 ## Fencing at the Olympics
 
@@ -75,6 +75,6 @@ The sport has produced legendary rivalries. Aladar Gerevich of Hungary won gold 
 
 ## Getting Started
 
-Fencing is accessible to most ages and fitness levels. Many clubs offer beginner programs starting from age 7 or 8. Basic equipment — mask, jacket, glove, and weapon — can be borrowed from most clubs. Private lessons with a coach are the traditional learning method, supplemented by group practice (bouting).
+Fencing is accessible to most ages and [fitness](/fitness) levels. Many clubs offer beginner programs starting from age 7 or 8. Basic equipment — mask, jacket, glove, and weapon — can be borrowed from most clubs. Private lessons with a coach are the traditional learning method, supplemented by group practice (bouting).
 
-The learning curve is steep but rewarding. You'll feel awkward for months. Your legs will burn from the bent-knee stance. But the mental chess match — reading your opponent, setting traps, timing your attacks — is what hooks people. Fencing is often called "physical chess," and that's not a bad description. Except chess doesn't leave bruises.
+The learning curve is steep but rewarding. You'll feel awkward for months. Your legs will burn from the bent-knee stance. But the mental [chess](/chess) match — reading your opponent, setting traps, timing your attacks — is what hooks people. Fencing is often called "physical chess," and that's not a bad description. Except chess doesn't leave bruises.

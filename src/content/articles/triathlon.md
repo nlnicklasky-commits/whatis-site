@@ -5,7 +5,7 @@ description: "Triathlon is an endurance race combining swimming, cycling, and ru
 category: sports
 tags: ["triathlon", "endurance sports", "swimming", "cycling", "running", "multisport"]
 heroImage: "/images/articles/triathlon.webp"
-heroAlt: "Triathletes transitioning from the swim to the bike leg at a lakeside race venue"
+heroAlt: "Editorial photograph representing the concept of triathlon"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Triathlon?
 
-Triathlon is a multisport endurance race consisting of three consecutive disciplines: swimming, cycling, and running — always in that order. Athletes complete each leg back-to-back with no rest between them, and the clock runs continuously from start to finish. The transitions between sports (swim-to-bike and bike-to-run) are considered the "fourth discipline" and are timed as part of the race.
+Triathlon is a multisport endurance race consisting of three consecutive disciplines: swimming, cycling, and [running](/running) — always in that order. Athletes complete each leg back-to-back with no rest between them, and the clock runs continuously from start to finish. The transitions between sports (swim-to-bike and bike-to-run) are considered the "fourth discipline" and are timed as part of the race.
 
 The sport originated in the early 1970s in San Diego, where running and swimming clubs challenged each other to combined events. It gained worldwide attention in 1978 when the first Ironman took place in Hawaii — 140.6 miles of swimming, cycling, and running that remains the sport's most famous event. Triathlon became an Olympic sport in 2000 at the Sydney Games.
 
@@ -47,7 +47,7 @@ Triathlon comes in several standard distances, from approachable to absurd:
 | Half-Ironman (70.3) | 1.9km | 90km | 21.1km | 4-8 hours |
 | Ironman (140.6) | 3.8km | 180km | 42.2km | 8-17 hours |
 
-The sprint distance is where most people start. It's challenging but achievable for anyone with basic fitness and a few months of training. The Ironman, on the other hand, is one of the most demanding single-day endurance events in sports — a 2.4-mile ocean swim, a 112-mile bike ride, and a full [marathon](/marathon-running), all in sequence.
+The sprint distance is where most people start. It's challenging but achievable for anyone with basic [fitness](/fitness) and a few months of training. The Ironman, on the other hand, is one of the most demanding single-day endurance events in sports — a 2.4-mile ocean swim, a 112-mile bike ride, and a full [marathon](/marathon-running), all in sequence.
 
 ## The Three Disciplines
 
@@ -65,7 +65,7 @@ The longest portion of the race by both distance and time. Drafting (riding clos
 
 Bike fitness and bike quality both matter significantly. The difference between a $500 hybrid bike and a $3,000 road bike is measurable in minutes per mile. That said, people finish Ironman races on entry-level bikes every year. Equipment helps, but legs and lungs matter more.
 
-Nutrition happens primarily on the bike — it's the easiest leg to eat and drink during. Getting your fueling right here determines how you'll feel on the run.
+[Nutrition](/nutrition) happens primarily on the bike — it's the easiest leg to eat and drink during. Getting your fueling right here determines how you'll feel on the run.
 
 ### The Run
 
@@ -81,7 +81,7 @@ Fast transitions require practice and organization. Competitive triathletes can 
 
 ## Training
 
-Triathlon training is a juggling act. You're training three sports simultaneously, plus working on transitions, and you have to balance improvement against rest and injury prevention.
+Triathlon training is a [juggling](/juggling) act. You're training three sports simultaneously, plus working on transitions, and you have to balance improvement against rest and injury prevention.
 
 A typical weekly training schedule for an Olympic-distance triathlon might include:
 - 2-3 swim sessions (pool or open water)

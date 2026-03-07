@@ -5,7 +5,7 @@ description: "Anesthesiology is the medical specialty focused on pain management
 category: health-amp-wellness
 tags: ["anesthesiology", "anesthesia", "medicine", "surgery", "pain management"]
 heroImage: "/images/articles/anesthesiology.webp"
-heroAlt: "Modern anesthesia machine and monitoring equipment in a hospital operating room"
+heroAlt: "Editorial photograph representing the concept of anesthesiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
     a: "In the United States, becoming an anesthesiologist typically requires four years of undergraduate education, four years of medical school, and four years of residency training — a minimum of 12 years after high school. Subspecialty fellowships add one to two more years."
 ---
 
-Anesthesiology is the branch of medicine dedicated to pain relief, sedation, and the management of patients' vital functions before, during, and after surgical procedures. Anesthesiologists are physicians who ensure patients remain unconscious, pain-free, and physiologically stable while surgeons operate.
+Anesthesiology is the branch of medicine dedicated to pain relief, sedation, and the [management](/management) of patients' vital functions before, during, and after surgical procedures. Anesthesiologists are physicians who ensure patients remain unconscious, pain-free, and physiologically stable while surgeons operate.
 
 Think about that for a moment. Someone puts you into a state so deep you feel nothing — not the scalpel, not the drill, not the saw cutting through bone — and then brings you back. Safely. Reliably. Millions of times a year. It's one of the most consequential medical achievements in human history, and most people barely think about it.
 
 ## A Brief History of Stopping Pain
 
-For most of human history, surgery meant agony. Patients were held down, given alcohol or opium, or simply told to endure. Speed was the surgeon's greatest virtue — the fastest operators had the best survival rates because their patients spent less time in shock.
+For most of human history, [surgery](/surgery) meant agony. Patients were held down, given alcohol or opium, or simply told to endure. Speed was the surgeon's greatest virtue — the fastest operators had the best survival rates because their patients spent less time in shock.
 
 Everything changed on October 16, 1846. At Massachusetts General Hospital, a dentist named William Morton publicly demonstrated ether anesthesia during a surgical procedure. The surgeon, John Collins Warren, removed a tumor from a patient's neck while the patient slept peacefully. Warren reportedly said, "Gentlemen, this is no humbug." The amphitheater where it happened is still called the Ether Dome.
 
@@ -81,7 +81,7 @@ Here's what most people get wrong about anesthesiology: they think the job is pu
 
 ### Before Surgery (Preoperative)
 
-The anesthesiologist evaluates every patient before surgery. They review medical history, medications, allergies, and previous anesthesia experiences. They assess airway anatomy — some people are genuinely difficult to intubate, and knowing this in advance can be life-saving.
+The anesthesiologist evaluates every patient before surgery. They review [medical history](/medical-history), medications, [allergies](/allergies), and previous anesthesia experiences. They assess airway anatomy — some people are genuinely difficult to intubate, and knowing this in advance can be life-saving.
 
 They also manage pre-existing conditions. A patient with [heart disease](/anatomy), diabetes, or lung problems requires a completely different anesthetic plan than a healthy 25-year-old. Medication adjustments, fluid planning, and risk assessment all happen before the patient enters the operating room.
 
@@ -150,6 +150,6 @@ The specialty attracts people who thrive under pressure, enjoy [physiology](/bio
 
 Several trends are shaping the field. Target-controlled infusion systems use computer algorithms to maintain precise drug concentrations in the blood. Enhanced recovery protocols aim to get patients moving and eating sooner after surgery by optimizing anesthetic techniques. Point-of-care ultrasound has become a standard tool for everything from nerve blocks to cardiac assessment.
 
-Artificial intelligence is entering the field, with systems that can help predict which patients are at risk for complications and algorithms that assist with ventilator management. But the core of anesthesiology — making real-time decisions about complex, rapidly changing clinical situations — remains fundamentally human work. No algorithm can replace the judgment needed when a patient's blood pressure drops suddenly and you have seconds to figure out why.
+[Artificial intelligence](/artificial-intelligence) is entering the field, with systems that can help predict which patients are at risk for complications and algorithms that assist with ventilator management. But the core of anesthesiology — making real-time decisions about complex, rapidly changing clinical situations — remains fundamentally human work. No algorithm can replace the judgment needed when a patient's blood pressure drops suddenly and you have seconds to figure out why.
 
 The specialty sits at the intersection of medicine, pharmacology, physiology, and technology. And every time someone goes into surgery and wakes up afterward with no memory of the procedure and no pain — which happens millions of times a year — an anesthesiologist made that possible.

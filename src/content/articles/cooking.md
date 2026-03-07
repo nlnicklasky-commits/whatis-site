@@ -5,7 +5,7 @@ description: "Cooking is the practice of preparing food using heat and technique
 category: everyday-concepts
 tags: ["food", "culinary arts", "nutrition", "baking", "grilling", "meal preparation"]
 heroImage: "/images/articles/cooking.webp"
-heroAlt: "Fresh ingredients being prepared on a wooden cutting board in a home kitchen"
+heroAlt: "Editorial photograph representing the concept of cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Cooking is the process of preparing food by applying heat and combining ingredie
 
 ## Why Cooking Made Us Human
 
-This isn't hyperbole. Anthropologist Richard Wrangham's "cooking hypothesis" argues that the ability to cook food was a turning point in human evolution. Raw food requires enormous chewing effort and yields fewer calories. Cooking breaks down cell walls, denatures proteins, and gelatinizes starches — making food easier to digest and its energy easier to absorb.
+This isn't hyperbole. Anthropologist Richard Wrangham's "cooking hypothesis" argues that the ability to cook food was a turning point in [human evolution](/human-evolution). Raw food requires enormous chewing effort and yields fewer calories. Cooking breaks down cell walls, denatures proteins, and gelatinizes starches — making food easier to digest and its energy easier to absorb.
 
 The result? Our ancestors could spend less time chewing (chimpanzees spend 6 hours daily; early humans with fire spent perhaps 1 hour) and extract more calories from the same food. That caloric surplus may have fueled the dramatic brain growth that occurred over the past million years. The human brain consumes roughly 20% of our energy despite being only 2% of our body weight. You need a lot of efficient calories to run that organ.
 
@@ -49,7 +49,7 @@ All cooking techniques fall into a few categories based on how they transfer hea
 
 **Roasting and baking** surround food with hot air in an oven. Roasting typically refers to meats and vegetables; [baking](/baking) refers to bread, pastries, and casseroles. The even, moderate heat (usually 300-450°F) produces consistent results and excellent browning on surfaces.
 
-**Grilling and broiling** use intense, direct radiant heat from below (grilling) or above (broiling). High temperatures create charring and caramelization quickly. The Maillard reaction — the chemical process responsible for the browning and complex flavors of grilled meat, toasted bread, and roasted coffee — happens most intensely above 280°F (140°C).
+**[Grilling](/grilling) and broiling** use intense, direct radiant heat from below (grilling) or above (broiling). High temperatures create charring and caramelization quickly. The Maillard reaction — the chemical process responsible for the browning and complex flavors of grilled meat, toasted bread, and roasted coffee — happens most intensely above 280°F (140°C).
 
 **Sauteing and stir-frying** cook food quickly in a small amount of fat over high heat. The French word "sauter" means "to jump" — properly sauteed food should be moving constantly. The high heat creates browning while the movement prevents burning.
 
@@ -77,9 +77,9 @@ Great cooking balances these five tastes. A dish that's only salty is boring. Ad
 
 **Seasoning.** Professional cooks season in layers — adding salt at multiple stages rather than only at the end. Taste as you go. Food that's properly seasoned doesn't taste "salty" — it tastes like itself, but more so.
 
-**Heat management.** Knowing when to use high heat (searing, stir-frying) versus low heat (braising, rendering fat) is fundamental. Most home cooks use medium heat for everything, which is like driving in third gear — it works but it's never optimal.
+**Heat [management](/management).** Knowing when to use high heat (searing, stir-frying) versus low heat (braising, rendering fat) is fundamental. Most home cooks use medium heat for everything, which is like driving in third gear — it works but it's never optimal.
 
-**Timing.** Cooking is time management. Starting the rice before the stir-fry, resting meat after cooking, knowing when pasta is 30 seconds from al dente — these timing skills develop with experience and attention.
+**Timing.** Cooking is [time management](/time-management). Starting the rice before the stir-fry, resting meat after cooking, knowing when pasta is 30 seconds from al dente — these timing skills develop with experience and attention.
 
 **Tasting.** The most important skill. Taste constantly while cooking. Adjust seasoning, acid, and sweetness based on what your palate tells you, not what the recipe says. Your taste buds are the final authority.
 
@@ -89,4 +89,4 @@ Home cooking has declined steadily in many countries. Americans spend roughly 50
 
 But home cooking has real advantages beyond cost savings (which are significant — a home-cooked meal costs roughly one-third of its restaurant equivalent). Home cooks control ingredients, portions, and nutritional content. Cooking together builds family bonds. And there's genuine satisfaction in feeding people something you made with your own hands.
 
-The [culinary arts](/culinary-arts) exist on a spectrum from opening a can to running a Michelin-starred kitchen. You don't need to be at the top to eat well. Basic competence — knowing how to roast a chicken, make a soup, cook rice, and dress a salad — gives you the ability to feed yourself and others good food for a lifetime. That's not a small power to have.
+The [culinary arts](/culinary-arts) exist on a spectrum from opening a can to [running](/running) a Michelin-starred kitchen. You don't need to be at the top to eat well. Basic competence — knowing how to roast a chicken, make a soup, cook rice, and dress a salad — gives you the ability to feed yourself and others good food for a lifetime. That's not a small power to have.

@@ -5,7 +5,7 @@ description: "Fluid dynamics studies how liquids and gases move, from airplane w
 category: science
 tags: ["physics", "engineering", "fluid mechanics", "aerodynamics", "hydrodynamics", "computational fluid dynamics"]
 heroImage: "/images/articles/fluid-dynamics-hero.webp"
-heroAlt: "Colorful streamlines showing turbulent fluid flow around an aerodynamic shape"
+heroAlt: "Editorial photograph representing the concept of fluid dynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,11 +63,11 @@ The Navier-Stokes equations are the crown jewels of fluid dynamics. They're esse
 
 Written out, they look manageable — a few terms for acceleration, pressure gradient, viscous forces, and external forces like gravity. But solving them for real-world problems is another matter entirely. The nonlinear terms (where the fluid's velocity appears multiplied by itself) create feedback loops that can generate turbulence, vortices, and chaotic behavior.
 
-Nobody has proven whether smooth solutions to the Navier-Stokes equations always exist in three dimensions. This question is literally a million-dollar problem — one of the Clay Mathematics Institute's seven Millennium Prize Problems, with a $1 million reward for a proof. It's been open since 2000.
+Nobody has proven whether smooth solutions to the Navier-Stokes equations always exist in three dimensions. This question is literally a million-dollar problem — one of the Clay [Mathematics](/mathematics) Institute's seven Millennium Prize Problems, with a $1 million reward for a proof. It's been open since 2000.
 
 ### Conservation of Energy
 
-The energy equation accounts for heat transfer within the fluid and between the fluid and its surroundings. It matters whenever temperature variations drive flow (like hot air rising) or when compressibility effects become important (like shock waves in supersonic flight).
+The energy equation accounts for [heat transfer](/heat-transfer) within the fluid and between the fluid and its surroundings. It matters whenever temperature variations drive flow (like hot air rising) or when compressibility effects become important (like shock waves in supersonic flight).
 
 For many everyday flows — water in a pipe, wind around a building — temperature effects are small enough to ignore. But try to design a jet engine or predict weather patterns, and the energy equation becomes essential.
 
@@ -135,7 +135,7 @@ Shock waves are violent. The temperature jump across a strong shock can be thous
 
 **Transonic flow** (roughly Mach 0.8 to 1.2) is particularly tricky because some regions of the flow are subsonic while others are supersonic. The Boeing 787 cruises in this regime, and its wing is carefully designed to manage the shock waves that form on the upper surface.
 
-**Supersonic flow** (Mach 1 to 5) is actually more mathematically tractable than transonic flow because the entire field is supersonic. But the engineering challenges — heat, structural loads from shock waves, engine design — are enormous.
+**Supersonic flow** (Mach 1 to 5) is actually more mathematically tractable than transonic flow because the entire field is supersonic. But the [engineering](/engineering) challenges — heat, structural loads from shock waves, engine design — are enormous.
 
 **Hypersonic flow** (above Mach 5) adds extreme heating. At Mach 10, air temperatures can exceed 3,000°C. The Space Shuttle's tiles, ablative heat shields on re-entry capsules — these exist because hypersonic fluid dynamics turns air into a plasma torch.
 
@@ -191,11 +191,11 @@ Ocean currents distribute heat around the planet. The Gulf Stream carries warm w
 
 Fluid dynamics extends far beyond Earth. The interiors of stars are fluid, and stellar convection transports energy from the nuclear furnace at the core to the radiating surface. Accretion disks around black holes are fluid dynamics problems. Galaxy formation involves the gravitational collapse and rotation of enormous gas clouds.
 
-The solar wind — a stream of charged particles flowing from the Sun — follows magnetohydrodynamic equations, which combine fluid dynamics with electromagnetism. Understanding this flow matters for predicting space weather and protecting satellites.
+The solar wind — a stream of charged particles flowing from the Sun — follows magnetohydrodynamic equations, which combine fluid dynamics with [electromagnetism](/electromagnetism). Understanding this flow matters for predicting space weather and protecting satellites.
 
 ## Historical Development
 
-Fluid dynamics has a rich intellectual history stretching back centuries.
+Fluid dynamics has a rich [intellectual history](/intellectual-history) stretching back centuries.
 
 **Archimedes** (287-212 BC) described buoyancy: an object immersed in fluid experiences an upward force equal to the weight of fluid displaced. He reportedly discovered this in the bath and ran through Syracuse naked shouting "Eureka."
 
@@ -229,4 +229,4 @@ Other frontiers include:
 
 ## Key Takeaways
 
-Fluid dynamics studies the motion of liquids and gases using conservation laws expressed as partial differential equations — primarily the Navier-Stokes equations. The field divides roughly into laminar (smooth, predictable) and turbulent (chaotic, mixing) flows, with the Reynolds number marking the transition. Computational fluid dynamics allows engineers to simulate flows numerically when analytical solutions don't exist, which is most of the time. Applications span [aerodynamics](/aerodynamics), medicine, weather prediction, ocean science, astrophysics, and virtually every branch of engineering. And turbulence — despite centuries of study and enormous computational resources — remains one of the deepest unsolved problems in physics.
+Fluid dynamics studies the motion of liquids and gases using conservation laws expressed as partial [differential equations](/differential-equations) — primarily the Navier-Stokes equations. The field divides roughly into laminar (smooth, predictable) and turbulent (chaotic, mixing) flows, with the Reynolds number marking the transition. Computational fluid dynamics allows engineers to simulate flows numerically when analytical solutions don't exist, which is most of the time. Applications span [aerodynamics](/aerodynamics), medicine, weather prediction, ocean science, [astrophysics](/astrophysics), and virtually every branch of engineering. And turbulence — despite centuries of study and enormous computational resources — remains one of the deepest unsolved problems in physics.

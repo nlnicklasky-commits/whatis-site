@@ -5,7 +5,7 @@ description: "Medical ethics is the set of moral principles guiding healthcare d
 category: health-amp-wellness
 tags: ["ethics", "medical ethics", "bioethics"]
 heroImage: "/images/articles/medical-ethics.webp"
-heroAlt: "A doctor and patient having a serious conversation in a hospital consultation room"
+heroAlt: "Editorial photograph representing the concept of medical ethics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "A DNR (Do Not Resuscitate) order is a medical directive stating that if a patient's heart stops or they stop breathing, healthcare providers should not perform CPR. It's a voluntary decision made by the patient (or their healthcare proxy if the patient can't decide). DNR orders are common for terminally ill patients who prefer a natural death over aggressive interventions that are unlikely to change the outcome."
 ---
 
-# What Is Medical Ethics?
+# What Is Medical [Ethics](/ethics)?
 
 Medical ethics is the branch of ethics that deals with moral questions arising in healthcare — questions about what's right, what's permissible, and what's obligatory when treating patients, conducting research, and allocating medical resources. It's the framework that helps doctors, nurses, researchers, and policymakers reason through decisions where doing the right thing isn't obvious.
 
@@ -43,7 +43,7 @@ And in medicine, that happens more often than you'd think. Should a doctor tell 
 
 Medical ethics didn't start with a textbook. It started with Hippocrates — or at least with the tradition attributed to him. The Hippocratic Oath, written around the 4th century BCE in ancient Greece, laid down principles that still resonate: do no harm, maintain confidentiality, treat patients' interests as paramount.
 
-The actual historical oath includes provisions that feel very dated now — swearing by Apollo and Asclepius, refusing to perform surgery (which was considered beneath a physician's dignity), and promising not to give a deadly drug even if asked. But the core instinct — that doctors hold a position of trust that comes with moral obligations — has been the bedrock of medical ethics ever since.
+The actual historical oath includes provisions that feel very dated now — swearing by Apollo and Asclepius, refusing to perform [surgery](/surgery) (which was considered beneath a physician's dignity), and promising not to give a deadly drug even if asked. But the core instinct — that doctors hold a position of trust that comes with moral obligations — has been the bedrock of medical ethics ever since.
 
 For most of the intervening 2,400 years, medical ethics was largely left to individual physician judgment and professional self-regulation. The formal, systematic study of medical ethics as an academic discipline didn't emerge until the mid-20th century, prompted by some horrifying revelations about what happens when medical judgment goes unchecked.
 
@@ -57,7 +57,7 @@ The resulting Nuremberg Code (1947) established ten principles for ethical human
 
 ### Tuskegee
 
-Between 1932 and 1972, the U.S. Public Health Service conducted the Tuskegee Syphilis Study on 399 Black men in Alabama who had syphilis. The men were told they were receiving free treatment. They weren't. Researchers withheld treatment — even after penicillin became the standard cure in the 1940s — to study the disease's natural progression.
+Between 1932 and 1972, the U.S. [Public Health](/public-health) Service conducted the Tuskegee Syphilis Study on 399 Black men in Alabama who had syphilis. The men were told they were receiving free treatment. They weren't. Researchers withheld treatment — even after penicillin became the standard cure in the 1940s — to study the disease's natural progression.
 
 The study continued for 40 years. Men died. Their wives and children were infected. When journalist Jean Heller broke the story in the *Associated Press* in 1972, the public outrage was immense. The Tuskegee study led directly to the National Research Act of 1974, the creation of the National Commission for the Protection of Human Subjects, and the Belmont Report (1979) — the foundational document for research ethics in the United States.
 
@@ -73,7 +73,7 @@ These aren't ancient history. People involved in these events are still alive. T
 
 ## The Four Principles
 
-In 1979, Tom Beauchamp and James Childress published *Principles of Biomedical Ethics*, which introduced the four-principle framework that dominates medical ethics education worldwide:
+In 1979, Tom Beauchamp and James Childress published *Principles of Biomedical Ethics*, which introduced the four-principle framework that dominates medical ethics [education](/education) worldwide:
 
 ### Autonomy
 
@@ -103,7 +103,7 @@ Healthcare resources are limited. Not everyone can receive every treatment. Just
 
 During the COVID-19 pandemic, this principle was tested daily. When ventilators were scarce, who should get one? The youngest patient? The sickest? The one most likely to survive? The healthcare worker who could save others if they recovered? There's no algorithm for this. Justice requires human judgment, transparency, and consistency.
 
-At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where health insurance status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
+At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where [health insurance](/health-[insurance](/insurance)) status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
 
 ## Major Ethical Debates in Modern Medicine
 
@@ -123,7 +123,7 @@ Proponents argue it's a natural extension of patient autonomy — if you have th
 
 ### Genetic Technology
 
-CRISPR gene editing, genetic screening of embryos, and predictive genetic testing raise questions that didn't exist 30 years ago. Should parents be able to select embryos based on genetic characteristics? Where's the line between treating genetic disease and "designing" babies? If a genetic test reveals you carry a gene for Huntington's disease, should your insurance company know?
+CRISPR gene [editing](/editing), genetic screening of embryos, and predictive genetic testing raise questions that didn't exist 30 years ago. Should parents be able to select embryos based on genetic characteristics? Where's the line between treating genetic disease and "designing" babies? If a genetic test reveals you carry a gene for Huntington's disease, should your insurance company know?
 
 In 2018, Chinese scientist He Jiankui announced he had created the world's first gene-edited babies — twin girls whose CCR5 gene was modified to resist HIV. The international scientific community condemned the experiment as reckless and unethical. He was sentenced to three years in prison. But the technology exists, and the ethical frameworks for governing it are still being built.
 

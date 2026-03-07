@@ -5,7 +5,7 @@ description: "Computational biology uses algorithms, statistics, and computing p
 category: science
 tags: ["computational biology", "bioinformatics", "biology", "computer science", "genomics", "data science", "ai"]
 heroImage: "/images/articles/computational-biology-hero.webp"
-heroAlt: "DNA double helix structure surrounded by data visualizations and computational analysis overlays"
+heroAlt: "Editorial photograph representing the concept of computational biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Computational Biology?
 
-Computational biology is the field that applies mathematical modeling, statistical analysis, and computer science to understand biological systems and processes. It encompasses everything from analyzing DNA sequences and predicting protein structures to simulating cellular networks and modeling disease spread — any problem where biological questions require computational tools to answer.
+Computational biology is the field that applies [mathematical modeling](/mathematical-modeling), statistical analysis, and [computer science](/computer-science) to understand biological systems and processes. It encompasses everything from analyzing DNA sequences and predicting protein structures to simulating cellular networks and modeling disease spread — any problem where biological questions require computational tools to answer.
 
 ## Why Biology Needs Computers
 
@@ -47,7 +47,7 @@ Biology has become a data science problem. The data is too vast, too complex, an
 
 This wasn't always the case. For most of biology's history, the bottleneck was generating data. Getting a single DNA sequence was a PhD project. Determining a single protein structure took years. Ecological surveys required painstaking field work.
 
-Then technology caught up. The Human Genome Project (completed in 2003, at a cost of about $2.7 billion) sequenced one human genome. Today, a human genome can be sequenced in hours for under $200. Next-generation sequencing machines produce terabytes of raw data per run. Cryo-electron microscopy generates thousands of protein images per session. High-throughput screening can test millions of drug compounds per day.
+Then technology caught up. The Human Genome Project (completed in 2003, at a cost of about $2.7 billion) sequenced one human genome. Today, a human genome can be sequenced in hours for under $200. Next-generation sequencing machines produce terabytes of raw data per run. Cryo-[electron microscopy](/electron-microscopy) generates thousands of protein images per session. High-throughput screening can test millions of drug compounds per day.
 
 The bottleneck flipped. Now we can generate biological data far faster than we can make sense of it. Computational biology exists because biology's data problem became too big for biology alone.
 
@@ -79,11 +79,11 @@ Proteins fold into specific three-dimensional shapes that determine their functi
 
 The challenge was daunting. A protein with 100 amino acids could theoretically fold into an astronomically large number of possible shapes (Levinthal's paradox estimates 10^300 possibilities). Yet real proteins fold reliably in milliseconds. Understanding how — and predicting the final shape — required understanding physics, chemistry, and biology simultaneously.
 
-Experimental methods for determining protein structures — X-ray crystallography, NMR spectroscopy, cryo-electron microscopy — are accurate but slow and expensive. As of 2024, the Protein Data Bank contained about 220,000 experimentally determined structures. But there are hundreds of millions of known protein sequences. The gap between sequences and structures was enormous.
+Experimental methods for determining protein structures — [X-ray crystallography](/x-ray-crystallography), NMR spectroscopy, cryo-electron microscopy — are accurate but slow and expensive. As of 2024, the Protein Data Bank contained about 220,000 experimentally determined structures. But there are hundreds of millions of known protein sequences. The gap between sequences and structures was enormous.
 
 Then AlphaFold arrived. DeepMind's [machine learning](/machine-learning) system, using deep neural networks trained on known structures, predicted protein structures with accuracy approaching experimental methods. AlphaFold2 (2020) stunned the field by achieving a median accuracy of 92.4 GDT (Global Distance Test) in the CASP14 competition — a score that essentially matched experimental accuracy for many proteins.
 
-In 2022, DeepMind released AlphaFold predictions for over 200 million proteins — nearly every known protein sequence. This single computational contribution has had more impact on structural biology than decades of experimental work combined. Researchers worldwide now routinely start with AlphaFold predictions and use experiments to validate or refine them, rather than determining structures from scratch.
+In 2022, DeepMind released AlphaFold predictions for over 200 million proteins — nearly every known protein sequence. This single computational contribution has had more impact on [structural biology](/structural-biology) than decades of experimental work combined. Researchers worldwide now routinely start with AlphaFold predictions and use experiments to validate or refine them, rather than determining structures from scratch.
 
 The story of AlphaFold illustrates computational biology's trajectory: from supplement to experiment, to partner with experiment, to occasionally replacing experiment entirely.
 
@@ -157,8 +157,8 @@ Several trends are shaping computational biology's next decade.
 
 **Spatial transcriptomics**: Technologies that measure gene expression while preserving spatial information within tissues generate rich datasets that require new computational methods to analyze. Understanding which cells are next to which other cells, and how spatial context affects gene expression, adds a critical dimension to single-cell biology.
 
-**Digital twins**: Computational models of individual patients — integrating their genomic data, medical history, lifestyle factors, and real-time health monitoring — could predict disease trajectories and optimize treatment. This vision remains distant but is driving significant investment.
+**Digital twins**: Computational models of individual patients — integrating their genomic data, [medical history](/medical-history), lifestyle factors, and real-time health monitoring — could predict disease trajectories and optimize treatment. This vision remains distant but is driving significant investment.
 
-**Synthetic biology**: Designing new biological systems from scratch — new proteins, new metabolic pathways, new organisms — requires computational design tools. Protein design has already produced enzymes for industrial catalysis, therapeutic proteins, and biosensors that don't exist in nature.
+**[Synthetic biology](/synthetic-biology)**: Designing new biological systems from scratch — new proteins, new [metabolic pathways](/metabolic-pathways), new organisms — requires computational design tools. Protein design has already produced enzymes for industrial catalysis, therapeutic proteins, and biosensors that don't exist in nature.
 
 Computational biology began as a service discipline — building tools for "real" biologists to use. It's become a discipline in its own right, generating hypotheses, making predictions, and producing insights that couldn't come from experiments alone. The data deluge in biology isn't slowing down. If anything, it's accelerating. And that means computational biology's role will only grow — because biology's biggest questions are increasingly questions that only computation can answer.

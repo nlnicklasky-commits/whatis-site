@@ -5,7 +5,7 @@ description: "Sericulture is the farming of silkworms to produce silk fiber. Lea
 category: everyday-concepts
 tags: ["sericulture", "silkworms", "silk", "textile", "agriculture", "mulberry"]
 heroImage: "/images/articles/sericulture.webp"
-heroAlt: "Silkworm cocoons on mulberry leaves with delicate silk threads being drawn from a cocoon"
+heroAlt: "Editorial photograph representing the concept of sericulture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ Left alone, the pupa inside would transform into a moth, emerge by dissolving a 
 
 The process of extracting silk from cocoons is called reeling, and it's remained remarkably low-tech despite centuries of refinement.
 
-Cocoons are first sorted by quality — color, shape, firmness, and density all matter. They're then softened in hot water, which dissolves the sericin gum enough to find the filament's end. A worker (or machine) locates the end of the filament and draws it out, combining filaments from 3-10 cocoons together to create a single thread of raw silk strong enough for weaving.
+Cocoons are first sorted by quality — color, shape, firmness, and density all matter. They're then softened in hot water, which dissolves the sericin gum enough to find the filament's end. A worker (or machine) locates the end of the filament and draws it out, combining filaments from 3-10 cocoons together to create a single thread of raw silk strong enough for [weaving](/weaving).
 
 Each cocoon yields a continuous filament of roughly 300-900 meters. But the filament is incredibly fine — thinner than a human hair. Combining multiple filaments creates a thread with useful thickness while maintaining silk's characteristic smoothness and luster.
 
@@ -61,7 +61,7 @@ The raw silk thread is then twisted into yarn (a process called throwing), degum
 
 According to Chinese tradition, Empress Leizu discovered silk around 2700 BC when a cocoon fell into her tea and the filament began to unravel. The story is probably mythological, but archaeological evidence confirms silk production in China by at least 3500 BC — making it one of the oldest continuously practiced agricultural technologies.
 
-China guarded the secret of silk production for about 3,000 years. Exporting silkworms or mulberry seeds was punishable by death. The resulting trade monopoly created the Silk Road — a network of trade routes stretching from China to the Mediterranean that shaped world history for centuries.
+China guarded the secret of silk production for about 3,000 years. Exporting silkworms or mulberry seeds was punishable by death. The resulting [trade](/trade) monopoly created [the Silk Road](/silk-road) — a network of trade routes stretching from China to the Mediterranean that shaped world history for centuries.
 
 The secret eventually spread. Legend says it reached India when a Chinese princess smuggled silkworm eggs in her headdress around 440 AD. It reached the Byzantine Empire by about 550 AD, supposedly via monks who hid silkworms in hollow bamboo canes. By the Middle Ages, Italy (particularly Como and Lucca) had become a major silk production center, and France followed under Louis XIV.
 
@@ -71,7 +71,7 @@ Today, China produces about 80% of the world's raw silk — roughly 150,000 metr
 
 The global silk industry is worth about $16 billion annually. That sounds large, but silk represents less than 0.2% of global textile fiber production by volume. It's a niche product — valued for quality, not quantity.
 
-Modern sericulture has improved disease control, developed more productive silkworm breeds, and mechanized some reeling operations. But the fundamental process — grow mulberry trees, feed silkworms, harvest cocoons, reel silk — hasn't changed. The biology constrains the technology.
+Modern sericulture has improved disease control, developed more productive silkworm breeds, and mechanized some reeling operations. But the fundamental process — grow mulberry trees, feed silkworms, harvest cocoons, reel silk — hasn't changed. The [biology](/biology) constrains the technology.
 
 Attempts to produce artificial silk (rayon, nylon, and polyester were all initially marketed as silk alternatives) have never truly replicated the combination of properties that makes real silk special: its temperature regulation, moisture absorption, natural sheen, and the way it drapes and moves.
 
@@ -81,7 +81,7 @@ Silk is genuinely remarkable as a material. A single silk filament is stronger t
 
 The protein structure of silk (primarily the amino acids glycine, alanine, and serine) creates a smooth surface at the molecular level — which is why silk feels slippery against skin and reflects light with that characteristic luster. No synthetic fiber has matched this combination of strength, softness, and optical properties.
 
-Silk also has medical applications. Silk sutures have been used in surgery for centuries. Modern research explores silk proteins for biomedical scaffolds, drug delivery systems, and wound dressings — taking advantage of silk's biocompatibility, strength, and controllable degradation rate.
+Silk also has medical applications. Silk sutures have been used in [surgery](/surgery) for centuries. Modern research explores silk proteins for biomedical scaffolds, drug delivery systems, and wound dressings — taking advantage of silk's biocompatibility, strength, and controllable degradation rate.
 
 ## Ethical Considerations
 
@@ -89,4 +89,4 @@ The killing of silkworm pupae is an ethical issue that's gaining attention. The 
 
 "Peace silk" (also called ahimsa silk) allows moths to emerge naturally. But this breaks the continuous filament, producing a shorter, less lustrous fiber that must be spun rather than reeled — a different product entirely. Wild silks from species like *Antheraea mylitta* (tussah silk) also offer alternatives, though with different characteristics.
 
-Whether you view sericulture's treatment of silkworms as problematic depends on your perspective on insect welfare — a field of ethics that's still developing. But the question itself reflects a broader cultural shift toward examining the moral implications of even long-established agricultural practices.
+Whether you view sericulture's treatment of silkworms as problematic depends on your perspective on insect welfare — a field of [ethics](/ethics) that's still developing. But the question itself reflects a broader cultural shift toward examining the moral implications of even long-established agricultural practices.

@@ -5,7 +5,7 @@ description: "Midwifery is the practice of supporting women through pregnancy, l
 category: health-amp-wellness
 tags: ["healthcare", "midwifery", "childbirth"]
 heroImage: "/images/articles/midwifery.webp"
-heroAlt: "Midwife supporting a pregnant woman during a prenatal checkup"
+heroAlt: "Editorial photograph representing the concept of midwifery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Midwifery predates medicine by millennia. Every human culture has had birth atte
 
 In ancient Greece, Hippocrates wrote about midwifery practices. In Rome, Soranus of Ephesus produced a detailed obstetric textbook around 100 CE that was used for over a thousand years. Throughout the medieval period and into the early modern era, midwives were the primary — often the only — attendants at births across Europe, Asia, Africa, and the Americas.
 
-The professionalization (and marginalization) of midwifery is a more recent and complicated story. In Europe, the rise of obstetrics as a medical specialty in the 18th and 19th centuries gradually pushed midwives to the sidelines. Male physicians — who could use forceps and, later, perform surgical interventions — claimed authority over birth. In the United States, this displacement was nearly complete by the mid-20th century: by 1955, midwives attended fewer than 1% of births.
+The professionalization (and marginalization) of midwifery is a more recent and complicated story. In Europe, the rise of [obstetrics](/obstetrics) as a medical specialty in the 18th and 19th centuries gradually pushed midwives to the sidelines. Male physicians — who could use forceps and, later, perform surgical interventions — claimed authority over birth. In the United States, this displacement was nearly complete by the mid-20th century: by 1955, midwives attended fewer than 1% of births.
 
 That trend has reversed significantly. By 2020, certified nurse-midwives attended about 12% of U.S. vaginal births. In countries like the Netherlands, Sweden, and the United Kingdom, midwives attend the majority of births — and those countries consistently outperform the U.S. on most maternal and infant health metrics.
 
@@ -51,7 +51,7 @@ Not all midwives have the same training or scope of practice, and this distincti
 
 ### Certified Nurse-Midwives (CNMs)
 
-CNMs are the most widely recognized midwives in the United States. They're registered nurses who have completed a graduate-level midwifery program (master's or doctorate) accredited by the Accreditation Commission for Midwifery Education and passed a national certification exam.
+CNMs are the most widely recognized midwives in the United States. They're registered nurses who have completed a graduate-level midwifery program (master's or doctorate) accredited by the Accreditation Commission for Midwifery [Education](/education) and passed a national certification exam.
 
 CNMs can practice in hospitals, birth centers, and home settings. They can prescribe medications, order diagnostic tests, and provide primary care to women across the lifespan — not just during pregnancy. They are licensed in all 50 states, though practice authority varies. In some states, CNMs practice independently; in others, they need a collaborative agreement with a physician.
 
@@ -59,7 +59,7 @@ There are roughly 13,000 CNMs practicing in the United States.
 
 ### Certified Midwives (CMs)
 
-CMs have the same graduate-level midwifery education and pass the same certification exam as CNMs, but they enter midwifery from a non-nursing background (they may hold bachelor's degrees in other health sciences). Currently, CMs are only authorized to practice in a handful of states.
+CMs have the same graduate-level midwifery education and pass the same certification exam as CNMs, but they enter midwifery from a non-[nursing](/nursing) background (they may hold bachelor's degrees in other health sciences). Currently, CMs are only authorized to practice in a handful of states.
 
 ### Certified Professional Midwives (CPMs)
 
@@ -73,9 +73,9 @@ In many parts of the world, midwives learn through apprenticeship and community-
 
 The scope is broader than most people realize. Midwifery care spans far beyond catching babies.
 
-**Prenatal care** includes regular check-ups to monitor the health of both mother and baby, blood tests, ultrasound referrals, nutrition counseling, exercise guidance, and screening for complications like gestational diabetes, preeclampsia, and preterm labor risk.
+**Prenatal care** includes regular check-ups to monitor the health of both mother and baby, blood tests, ultrasound referrals, [nutrition](/nutrition) counseling, exercise guidance, and screening for complications like gestational diabetes, preeclampsia, and preterm labor risk.
 
-**Labor and birth** is where midwives are most visible. The midwifery model emphasizes physiologic birth — letting the body do what it's designed to do, with minimal unnecessary intervention. Midwives monitor fetal heart rate, provide pain management support (positioning, hydrotherapy, breathing techniques, and in hospital settings, epidural referrals), manage normal deliveries, and handle immediate newborn care.
+**Labor and birth** is where midwives are most visible. The midwifery model emphasizes physiologic birth — letting the body do what it's designed to do, with minimal unnecessary intervention. Midwives monitor fetal heart rate, provide pain [management](/management) support (positioning, hydrotherapy, breathing techniques, and in hospital settings, epidural referrals), manage normal deliveries, and handle immediate newborn care.
 
 **Postpartum care** continues for weeks after birth: monitoring physical recovery, supporting breastfeeding, screening for postpartum depression and anxiety, providing contraception counseling, and offering newborn assessments.
 
@@ -83,7 +83,7 @@ The scope is broader than most people realize. Midwifery care spans far beyond c
 
 ## The Midwifery Model vs. the Medical Model
 
-This is where the debate gets heated — and where genuine philosophical differences about birth become apparent.
+This is where the [debate](/debate) gets heated — and where genuine philosophical differences about birth become apparent.
 
 The medical model of childbirth, dominant in U.S. hospitals, treats birth as a medical event that requires monitoring and often intervention to ensure safety. Continuous electronic fetal monitoring, IV fluids, epidural anesthesia, labor augmentation with Pitocin, and cesarean section are standard tools. The assumption is that birth is potentially dangerous and medical readiness for complications should be the priority.
 
@@ -114,7 +114,7 @@ The United States spends more per capita on maternity care than any other countr
 
 ### Hospital
 
-About 98% of U.S. births occur in hospitals. Midwives (primarily CNMs) attend births in many hospital settings, often working alongside obstetricians. Hospital-based midwifery combines the midwifery model's philosophy with immediate access to surgical and emergency facilities if complications develop.
+About 98% of U.S. births occur in hospitals. Midwives (primarily CNMs) attend births in many hospital settings, often working alongside obstetricians. Hospital-based midwifery combines the midwifery model's [philosophy](/philosophy) with immediate access to surgical and emergency facilities if complications develop.
 
 ### Birth Centers
 

@@ -5,7 +5,7 @@ description: "Unemployment economics studies why people who want jobs can't find
 category: finance
 tags: ["unemployment economics", "economics", "labor", "macroeconomics", "employment"]
 heroImage: "/images/articles/unemployment-economics.webp"
-heroAlt: "A line graph showing unemployment rate fluctuations over time with people silhouettes in the background"
+heroAlt: "Editorial photograph representing the concept of unemployment economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Unemployment Economics?
 
-Unemployment economics is the study of why workers who want to be employed cannot find jobs, how joblessness is measured, what causes it, and what policy tools can reduce it. It sits at the intersection of macroeconomics and labor economics and directly influences monetary policy, fiscal policy, and social welfare programs in every developed country.
+Unemployment economics is the study of why workers who want to be employed cannot find jobs, how joblessness is measured, what causes it, and what policy tools can reduce it. It sits at the intersection of [macroeconomics](/macroeconomics) and labor economics and directly influences [monetary policy](/monetary-policy), fiscal policy, and social welfare programs in every developed country.
 
 ## Defining and Measuring Unemployment
 
@@ -81,7 +81,7 @@ The internet has probably reduced frictional unemployment by making job search f
 
 This is the painful kind. Structural unemployment occurs when workers' skills don't match available jobs, or when jobs exist in places where workers don't live. A coal miner in West Virginia who's been mining for 30 years can't easily become a software developer in Seattle, even if there are thousands of open tech positions.
 
-Structural unemployment increases during periods of rapid technological change. The mechanization of [agriculture](/agriculture) in the early 20th century displaced millions of farm workers. The decline of manufacturing in the Rust Belt left communities with workers whose skills had no local demand. The automation of routine cognitive tasks — data entry, bookkeeping, basic accounting — is displacing office workers today.
+Structural unemployment increases during periods of rapid technological change. The mechanization of [agriculture](/agriculture) in the early 20th century displaced millions of farm workers. The decline of manufacturing in the Rust Belt left communities with workers whose skills had no local demand. The automation of routine cognitive tasks — data entry, [bookkeeping](/bookkeeping), basic accounting — is displacing office workers today.
 
 The politically uncomfortable truth about structural unemployment is that the standard solutions (retraining programs, relocation assistance) have a mixed track record. Government retraining programs show modest results at best. Many displaced workers are in their 40s and 50s, with families, mortgages, and community ties that make relocation impractical. The pain is real and often long-lasting.
 
@@ -143,11 +143,11 @@ Governments have a toolkit for fighting unemployment, though no tool works perfe
 
 The Federal Reserve's primary unemployment tool is the federal funds rate — the interest rate banks charge each other for overnight loans. Lowering this rate makes borrowing cheaper for businesses and consumers, theoretically stimulating spending and hiring. Raising it does the reverse.
 
-During the COVID-19 recession, the Fed cut rates to near zero within weeks and bought trillions of dollars in bonds (quantitative easing) to push long-term rates down further. The U.S. unemployment rate fell from 14.7% in April 2020 to 3.5% by September 2022 — the fastest recovery in recorded history, though the unusual nature of the pandemic recession makes comparisons tricky.
+During the COVID-19 recession, the Fed cut rates to near zero within weeks and bought trillions of dollars in bonds ([quantitative easing](/quantitative-easing)) to push long-term rates down further. The U.S. unemployment rate fell from 14.7% in April 2020 to 3.5% by September 2022 — the fastest recovery in recorded history, though the unusual nature of the pandemic recession makes comparisons tricky.
 
 ### Fiscal Policy
 
-Government spending and tax policy directly affect employment. Infrastructure projects create construction jobs. Tax credits for hiring give employers financial incentives to add workers. Extended unemployment benefits prevent the most severe economic hardship during downturns (and, by maintaining consumer spending, help limit the recession's depth).
+Government spending and tax policy directly affect employment. Infrastructure projects create [construction](/construction) jobs. Tax credits for hiring give employers financial incentives to add workers. Extended unemployment benefits prevent the most severe economic hardship during downturns (and, by maintaining consumer spending, help limit the recession's depth).
 
 The American Recovery and Reinvestment Act of 2009 ($787 billion) and the CARES Act of 2020 ($2.2 trillion) represent the two largest fiscal stimulus programs in U.S. history. Both were controversial — critics argued they were too large, too small, poorly targeted, or inflationary depending on their political perspective.
 
@@ -169,7 +169,7 @@ Economics can make unemployment seem like an abstract number — a rate that goe
 
 Job loss is consistently ranked among the most stressful life events, alongside divorce and the death of a loved one. The effects extend far beyond lost income:
 
-- **Health deteriorates.** A meta-analysis of 235 studies found that unemployment increases the risk of death by about 63%. Mental health effects — depression, anxiety, substance abuse — are well-documented and can persist for years after reemployment.
+- **Health deteriorates.** A meta-analysis of 235 studies found that unemployment increases the risk of death by about 63%. [Mental health](/mental-health) effects — depression, anxiety, substance abuse — are well-documented and can persist for years after reemployment.
 - **Marriages strain and break.** Unemployment roughly doubles the divorce rate.
 - **Children suffer.** Research shows that parental unemployment reduces children's academic performance and future earnings, transmitting disadvantage across generations.
 - **Skills atrophy.** Workers who are unemployed for more than six months face significantly worse reemployment prospects — a phenomenon called "duration dependence." Their skills erode, their professional networks weaken, and employers discriminate against long gaps on resumes.

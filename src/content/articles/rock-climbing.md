@@ -5,7 +5,7 @@ description: "Rock climbing is the sport of ascending rock faces using physical 
 category: sports
 tags: ["rock climbing", "bouldering", "sport climbing", "outdoor recreation", "fitness", "adventure"]
 heroImage: "/images/articles/rock-climbing.webp"
-heroAlt: "Climber scaling a vertical rock face with safety gear"
+heroAlt: "Editorial photograph representing the concept of rock climbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Rock climbing is the sport of ascending natural rock formations or artificial cl
 
 Climbing routes are rated by difficulty using grading systems:
 
-**The Yosemite Decimal System** (used in North America) rates technical climbing from 5.0 (easy, like walking up steep terrain) to 5.15 (the absolute hardest routes in the world, completed by only a handful of climbers). Most indoor gym routes range from 5.6 to 5.13. A competent recreational climber might climb 5.10-5.11.
+**The Yosemite Decimal System** (used in North America) rates technical climbing from 5.0 (easy, like [walking](/walking) up steep terrain) to 5.15 (the absolute hardest routes in the world, completed by only a handful of climbers). Most indoor gym routes range from 5.6 to 5.13. A competent recreational climber might climb 5.10-5.11.
 
 **The V-scale** rates bouldering problems from V0 (beginner) to V17 (the current limit of human ability). The gap between grades increases dramatically at higher levels — the jump from V5 to V6 is much larger than from V0 to V1.
 
@@ -73,7 +73,7 @@ The misconception about climbing is that it's about pulling yourself up with you
 
 Climbing is a full-body workout. It develops grip strength, core stability, upper body pulling strength, hip flexibility, and cardiovascular endurance. Forearm strength is often the limiting factor — the "pump" (when lactic acid floods your forearms and your grip fails) is the most common reason climbers fall.
 
-But the mental game is equally important. Fear management — dealing with height exposure, committing to difficult moves, falling — is a significant part of climbing. Many climbers find that working through fear on the wall transfers to confidence in other areas of life.
+But the mental game is equally important. Fear [management](/management) — dealing with height exposure, committing to difficult moves, falling — is a significant part of climbing. Many climbers find that working through fear on the wall transfers to confidence in other areas of life.
 
 Problem-solving is constant. Every route is a sequence of body positions and movements that must be figured out. Climbers call this "beta" — the specific sequence of moves for a route. Working out beta for a difficult route can take hours, days, or longer, with multiple attempts and adjustments.
 

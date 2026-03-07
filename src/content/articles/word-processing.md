@@ -5,7 +5,7 @@ description: "Word processing is the creation, editing, formatting, and printing
 category: technology
 tags: ["software", "word processing", "productivity"]
 heroImage: "/images/articles/word-processing.webp"
-heroAlt: "A computer screen showing a word processor with a formatted document, cursor blinking on text"
+heroAlt: "Editorial photograph representing the concept of word processing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Word processing is the use of software to create, edit, format, store, and print
 
 The term "word processing" was coined by IBM in the late 1960s to market their Magnetic Tape Selectric Typewriter (MT/ST) -- a modified electric typewriter that could record keystrokes on magnetic tape. If you made a mistake, you could backspace and retype. If you needed another copy, the machine would replay the tape automatically. It sounds primitive now, but for secretaries who had been retyping entire letters to fix a single error, it was a genuine revolution.
 
-Dedicated word processing machines dominated offices through the 1970s. Wang Laboratories became a billion-dollar company selling dedicated word processors -- standalone machines with screens, keyboards, and printers that did nothing but process text. In 1978, a Wang word processor cost around $30,000 (roughly $140,000 in today's dollars). Offices that could afford them transformed their productivity.
+Dedicated word processing machines dominated offices through the 1970s. Wang Laboratories became a billion-dollar company selling dedicated word processors -- standalone machines with screens, keyboards, and printers that did nothing but process text. In 1978, a Wang word processor cost around $30,000 (roughly $140,000 in today's dollars). Offices that could afford them transformed their [productivity](/productivity).
 
 The personal computer changed everything. When the IBM PC launched in 1981, software developers immediately saw the opportunity. WordStar (1978) was already running on CP/M systems. WordPerfect arrived in 1979 and became the dominant word processor of the 1980s, especially beloved by legal professionals for its reveal codes feature that let you see exactly what formatting was applied.
 
@@ -63,9 +63,9 @@ This is why a Word document that contains nothing but "Hello World" is still abo
 
 ### Text Rendering
 
-Turning stored characters into visible text on screen involves typography engines that handle font rendering, kerning (adjusting space between specific letter pairs), line breaking (deciding where to wrap text to a new line), hyphenation, and justification. These calculations happen continuously as you type, and they're more complex than you might think.
+Turning stored characters into visible text on screen involves [typography](/typography) engines that handle font rendering, kerning (adjusting space between specific letter pairs), line breaking (deciding where to wrap text to a new line), hyphenation, and justification. These calculations happen continuously as you type, and they're more complex than you might think.
 
-Justification -- making text align with both left and right margins -- requires the word processor to calculate optimal spacing between words and sometimes between individual letters. The algorithms for this go back to Donald Knuth's TeX system from 1978, which solved the line-breaking problem so elegantly that its approach still influences modern typesetting.
+Justification -- making text align with both left and right margins -- requires the word processor to calculate optimal spacing between words and sometimes between individual letters. The [algorithms](/algorithms) for this go back to Donald Knuth's TeX system from 1978, which solved the line-breaking problem so elegantly that its approach still influences modern [typesetting](/typesetting).
 
 ### WYSIWYG
 
@@ -118,7 +118,7 @@ The process is straightforward: create a template with placeholder fields, conne
 
 Word dominates the professional and business world. It's the word processor that people mean when they say "word processor" without specifying which one. Part of the Microsoft 365 suite (formerly Office 365), Word is available as a desktop application for Windows and macOS, a mobile app, and a web application.
 
-Word's strength is its depth. Advanced features include section breaks with different page layouts, complex header/footer configurations, field codes for active content, macros for automation, equation editing, bibliography management, and extensive table of contents and indexing features. Legal professionals use Word's compare documents and redaction features. Academics use its citation and bibliography tools.
+Word's strength is its depth. Advanced features include section breaks with different page layouts, complex header/footer configurations, field codes for active content, macros for automation, equation editing, bibliography [management](/management), and extensive table of contents and indexing features. Legal professionals use Word's compare documents and redaction features. Academics use its citation and bibliography tools.
 
 Word's weakness is its complexity. Most users access maybe 10% of its features. The ribbon interface, introduced in Office 2007, helps organize features but still presents an overwhelming number of options to casual users.
 
@@ -134,7 +134,7 @@ The tradeoff is that Google Docs lacks many of Word's advanced features. Complex
 
 LibreOffice Writer is the free, open-source alternative that deserves more credit than it gets. Developed by The Document Foundation, it handles DOCX files well (though not perfectly), supports Open Document Format natively, and provides professional-grade features including master documents, extensive style management, and a solid bibliography system.
 
-Writer runs on Windows, macOS, and Linux, making it the go-to word processor for Linux users and organizations that prefer open-source software. Government agencies in several countries (including Italy and France) have adopted LibreOffice as their standard office suite.
+Writer runs on Windows, macOS, and Linux, making it the go-to word processor for Linux users and organizations that prefer open-source software. [Government](/government) agencies in several countries (including Italy and France) have adopted LibreOffice as their standard office suite.
 
 ### Apple Pages
 

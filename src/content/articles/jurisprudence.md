@@ -5,7 +5,7 @@ description: "Jurisprudence is the philosophy of law, examining what law is, why
 category: philosophy
 tags: ["jurisprudence", "philosophy of law", "legal theory", "justice", "natural law", "legal positivism", "rights"]
 heroImage: "/images/articles/jurisprudence-hero.webp"
-heroAlt: "Classical stone scales of justice set against philosophy texts and legal manuscripts"
+heroAlt: "Editorial photograph representing the concept of jurisprudence"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,7 +63,7 @@ The Stoics—whose [philosophy](/stoicism) influenced Roman legal thought enormo
 
 Thomas Aquinas gave natural law its most sophisticated medieval formulation. He argued that human law derives its authority from "eternal law" (God's rational plan for the universe) through "natural law" (human participation in eternal law through reason). A human law that violates natural law—one that requires injustice—lacks binding force. You're not obligated to obey it.
 
-This idea has enormous practical consequences. The Nuremberg trials after World War II relied on natural law reasoning: Nazi officials couldn't defend their actions by saying they were "just following the law," because those laws violated principles of human dignity that transcend any nation's legal system. The defense "I was obeying orders" was rejected precisely because jurisprudence holds that some moral standards override positive law.
+This idea has enormous practical consequences. The Nuremberg trials after [World War II](/world-war-ii) relied on natural law reasoning: Nazi officials couldn't defend their actions by saying they were "just following the law," because those laws violated principles of human dignity that transcend any nation's legal system. The defense "I was obeying orders" was rejected precisely because jurisprudence holds that some moral standards override positive law.
 
 Modern natural law theory, articulated by scholars like John Finnis, doesn't necessarily require religious foundations. Finnis argues that certain "basic goods"—life, knowledge, play, aesthetic experience, friendship, practical reasonableness, and religion (broadly defined)—are self-evidently valuable and provide the moral foundation for law. Law's purpose is to facilitate the pursuit of these goods within a community.
 
@@ -105,9 +105,9 @@ Jerome Frank went even further, arguing that the personality and temperament of 
 
 The Critical Legal Studies (CLS) movement emerged in the 1970s as a radical challenge to mainstream legal thought. CLS scholars argued that law is not neutral—it systematically favors certain groups over others, reinforcing existing power structures while pretending to be objective.
 
-Duncan Kennedy, Roberto Unger, and other CLS scholars drew on Marxist theory, [anthropology](/anthropology), and literary criticism to "deconstruct" legal doctrines. They argued that legal rules are fundamentally contradictory—for every principle, there's an equally valid counter-principle—and that the choices between them are political, not legal.
+Duncan Kennedy, Roberto Unger, and other CLS scholars drew on Marxist theory, [anthropology](/anthropology), and [literary criticism](/literary-criticism) to "deconstruct" legal doctrines. They argued that legal rules are fundamentally contradictory—for every principle, there's an equally valid counter-principle—and that the choices between them are political, not legal.
 
-For example, contract law contains both the principle of "freedom of contract" (people should be free to make whatever agreements they want) and the principle of "unconscionability" (courts can void contracts that are grossly unfair). Which principle a court applies depends not on logic but on whose interests the court wants to protect.
+For example, [contract law](/contract-law) contains both the principle of "freedom of contract" (people should be free to make whatever agreements they want) and the principle of "unconscionability" (courts can void contracts that are grossly unfair). Which principle a court applies depends not on logic but on whose interests the court wants to protect.
 
 CLS was controversial and divisive within law schools. Critics accused it of nihilism—if all legal reasoning is political, what's the point of law? CLS scholars responded that exposing law's political nature was the first step toward making it more just.
 
@@ -141,7 +141,7 @@ These aren't just academic positions—they determine how the Supreme Court deci
 
 ## International Jurisprudence
 
-Jurisprudential questions become even more complex at the international level. International law lacks a sovereign—there's no world government to enforce it. So where does it get its authority?
+Jurisprudential questions become even more complex at the international level. [International law](/international-law) lacks a sovereign—there's no world government to enforce it. So where does it get its authority?
 
 Natural law theorists argue that international law derives authority from universal moral principles—human rights, for instance, exist regardless of what any nation's laws say. This was the philosophical basis for the Universal Declaration of Human Rights (1948) and the development of international humanitarian law.
 
@@ -183,7 +183,7 @@ Modern jurisprudence grapples with challenges its founders couldn't have imagine
 
 **Global governance** challenges the Westphalian model of sovereign nation-states that underpins most jurisprudential theory. Climate change, pandemics, and financial crises don't respect borders, but legal authority still resides primarily within them.
 
-**Algorithmic decision-making** in criminal justice—predictive policing, sentencing algorithms, parole risk assessments—raises questions about due process, equal protection, and the very nature of legal judgment. Can an algorithm deliver justice? And if it reproduces existing biases in the data, is it dispensing law or entrenching injustice?
+**Algorithmic decision-making** in criminal justice—predictive policing, sentencing algorithms, parole risk assessments—raises questions about due process, equal protection, and the very nature of legal judgment. Can [an algorithm](/algorithms) deliver justice? And if it reproduces existing biases in the data, is it dispensing law or entrenching injustice?
 
 These questions don't have settled answers, which is exactly why jurisprudence remains alive and essential. The philosophical frameworks developed over millennia—natural law, positivism, realism, critical theory—provide the vocabulary and analytical tools for wrestling with problems that are genuinely new.
 

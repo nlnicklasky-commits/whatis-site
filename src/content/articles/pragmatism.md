@@ -5,7 +5,7 @@ description: "Pragmatism judges ideas by their real-world results, not abstract 
 category: philosophy
 tags: ["pragmatism", "philosophy", "american philosophy", "william james", "john dewey", "charles sanders peirce"]
 heroImage: "/images/articles/pragmatism-hero.webp"
-heroAlt: "Abstract illustration representing practical ideas branching into real-world outcomes"
+heroAlt: "Editorial photograph representing the concept of pragmatism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -83,7 +83,7 @@ Peirce's pragmatism is more compatible with scientific practice than James's ver
 
 ### Charles Sanders Peirce (1839-1914)
 
-Peirce (pronounced "purse," not "pierce" — a fact that endlessly annoyed him) was arguably the most brilliant of the three founders and certainly the most tragic. He was a polymath who made original contributions to [mathematical logic](/mathematical-logic), semiotics, probability theory, and the philosophy of science. He developed an entire system of existential graphs that anticipated many ideas in modern logic. His classification of signs is still used in linguistics and communication theory today.
+Peirce (pronounced "purse," not "pierce" — a fact that endlessly annoyed him) was arguably the most brilliant of the three founders and certainly the most tragic. He was a polymath who made original contributions to [mathematical logic](/mathematical-logic), semiotics, [probability theory](/probability-theory), and the philosophy of science. He developed an entire system of existential graphs that anticipated many ideas in modern logic. His classification of signs is still used in linguistics and [communication theory](/communication-theory) today.
 
 But Peirce was also difficult. He alienated colleagues, burned through jobs, and spent his later years in poverty. Johns Hopkins fired him for what were essentially personal reasons. He never held a permanent academic position and died impoverished in 1914, with thousands of pages of unpublished manuscripts.
 
@@ -103,11 +103,11 @@ His great weakness was imprecision. James used vivid metaphors and dramatic lang
 
 Dewey was the builder. While Peirce theorized and James popularized, Dewey applied pragmatism to actual institutions. He is arguably the most influential American philosopher of the 20th century, not because he wrote the cleverest arguments, but because he changed how millions of people were educated.
 
-Dewey's philosophy of education — which he called "instrumentalism" — held that learning should be active, experiential, and connected to real problems. Children shouldn't sit in rows memorizing facts; they should investigate, experiment, and collaborate. Knowledge isn't something you receive passively — it's something you construct through doing.
+Dewey's [philosophy of education](/philosophy-of-education) — which he called "instrumentalism" — held that learning should be active, experiential, and connected to real problems. Children shouldn't sit in rows memorizing facts; they should investigate, experiment, and collaborate. Knowledge isn't something you receive passively — it's something you construct through doing.
 
 This sounds obvious now, but in 1900 it was radical. Dewey's Laboratory School at the University of Chicago (founded in 1896) became a model for progressive education worldwide. His book *Democracy and Education* (1916) argued that education and democracy are deeply connected: democratic citizens need the habit of thinking critically, testing ideas, and revising beliefs — precisely the habits pragmatism cultivates.
 
-Dewey also applied pragmatism to social and political philosophy. He argued against rigid ideological categories — capitalism versus socialism, individualism versus collectivism — and insisted that social problems required experimental solutions. Try something, see if it works, adjust. This approach influenced the New Deal and continues to influence evidence-based policy today.
+Dewey also applied pragmatism to social and [political philosophy](/political-philosophy). He argued against rigid ideological categories — capitalism versus socialism, individualism versus collectivism — and insisted that social problems required experimental solutions. Try something, see if it works, adjust. This approach influenced the New Deal and continues to influence evidence-based policy today.
 
 ## What Pragmatism Isn't
 
@@ -149,7 +149,7 @@ This influenced the entire Legal Realism movement and continues to shape how jud
 
 Dewey's influence on education is almost impossible to overstate. The shift from rote memorization to active learning, from teacher-centered to student-centered classrooms, from isolated subjects to integrated projects — these all trace back to Dewey's pragmatist pedagogy.
 
-Today's emphasis on project-based learning, design thinking in schools, and "learning by doing" approaches are all descendants of Dewey's ideas. When educators talk about teaching critical thinking rather than content alone, they're echoing Dewey — whether they know it or not.
+Today's emphasis on project-based learning, design thinking in schools, and "learning by doing" approaches are all descendants of Dewey's ideas. When educators talk about teaching [critical thinking](/critical-thinking) rather than content alone, they're echoing Dewey — whether they know it or not.
 
 ### Technology and Design Thinking
 

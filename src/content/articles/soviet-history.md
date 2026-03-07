@@ -5,7 +5,7 @@ description: "Soviet history covers the rise and fall of the USSR from 1917 to 1
 category: history
 tags: ["soviet history", "ussr", "communism", "cold war"]
 heroImage: "/images/articles/soviet-history.webp"
-heroAlt: "Red Soviet star and hammer and sickle symbol on aged concrete wall"
+heroAlt: "Editorial photograph representing the concept of soviet history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Soviet history is the study of the Union of Soviet Socialist Republics (USSR) �
 
 You can't understand the Soviet Union without understanding 1917 — and there were actually two revolutions that year, not one.
 
-The **February Revolution** (March by the modern calendar — Russia was still using the Julian calendar) began as bread riots in Petrograd. Workers went on strike, soldiers refused to fire on protesters, and within a week, Tsar Nicholas II abdicated after three centuries of Romanov rule. A Provisional Government took over, led mostly by liberal politicians who wanted Russia to look something like France or Britain.
+The **February Revolution** (March by the modern calendar — Russia was still using the Julian calendar) began as bread riots in Petrograd. Workers went on strike, soldiers refused to fire on protesters, and within a week, Tsar Nicholas II abdicated after three centuries of Romanov rule. A Provisional [Government](/government) took over, led mostly by liberal politicians who wanted Russia to look something like France or Britain.
 
 The **October Revolution** (November by the modern calendar) was different. This was a deliberate seizure of power by the Bolsheviks, a radical Marxist party led by Vladimir Lenin. On the night of October 25, Bolshevik Red Guards stormed the Winter Palace in Petrograd. The Provisional Government, which had been weakened by months of indecision about the war, land reform, and elections, barely put up a fight.
 
@@ -63,13 +63,13 @@ Lenin died in January 1924, and a power struggle followed. By 1929, Joseph Stali
 
 What came next was staggering in both its ambition and its brutality.
 
-**Collectivization** — Stalin abolished the NEP and forced peasants onto collective farms. Resistance was met with deportation, imprisonment, or execution. The so-called "kulaks" (wealthier peasants) were targeted as a class — an estimated 5-7 million were deported to Siberia or Central Asia. The disruption of agriculture contributed directly to the catastrophic famine of 1932-1933, particularly in Ukraine (the Holodomor), where 3.5-7.5 million people starved to death.
+**Collectivization** — Stalin abolished the NEP and forced peasants onto collective farms. Resistance was met with deportation, imprisonment, or execution. The so-called "kulaks" (wealthier peasants) were targeted as a class — an estimated 5-7 million were deported to Siberia or Central Asia. The disruption of [agriculture](/agriculture) contributed directly to the catastrophic famine of 1932-1933, particularly in Ukraine (the Holodomor), where 3.5-7.5 million people starved to death.
 
-**Industrialization** — The Five-Year Plans, starting in 1928, aimed to transform the USSR from an agrarian society into an industrial powerhouse. Steel production, electricity generation, and heavy machinery manufacturing surged. The human cost was enormous — workers labored in brutal conditions, and much of the labor came from the Gulag prison camp system. But the results were real. By 1940, the Soviet Union was the world's second-largest industrial economy.
+**Industrialization** — The Five-Year Plans, starting in 1928, aimed to transform the USSR from an agrarian society into an industrial powerhouse. [Steel production](/steel-production), [electricity](/electricity) generation, and heavy machinery manufacturing surged. The human cost was enormous — workers labored in brutal conditions, and much of the labor came from the Gulag prison camp system. But the results were real. By 1940, the Soviet Union was the world's second-largest industrial economy.
 
 **The Great Terror (1936-1938)** — Stalin unleashed a wave of political purges that consumed the Communist Party itself. Senior party members, military officers, intellectuals, and ordinary citizens were arrested, forced to confess to absurd charges of espionage and sabotage, and executed or sent to the Gulag. Roughly 750,000 people were executed during the Great Terror alone. The total Gulag population peaked at around 1.5 million in 1941.
 
-## World War II: The Great Patriotic War
+## [World War II](/world-war-ii): The Great Patriotic War
 
 The Soviet experience in World War II is almost impossible to overstate. The numbers are staggering.
 
@@ -83,7 +83,7 @@ This experience — the scale of sacrifice and suffering — shaped Soviet ident
 
 ## The Cold War
 
-The wartime alliance between the USSR and the Western powers collapsed almost immediately after victory. By 1947, the Cold War was underway — a global ideological, military, and economic competition between Soviet communism and Western capitalism that lasted over four decades.
+The wartime alliance between the USSR and the Western powers collapsed almost immediately after victory. By 1947, the Cold War was underway — a global ideological, military, and economic competition between Soviet communism and Western [capitalism](/capitalism) that lasted over four decades.
 
 Key moments:
 
@@ -111,7 +111,7 @@ Mikhail Gorbachev came to power in 1985 at age 54 — practically a teenager by 
 
 **Perestroika** ("restructuring") — attempted to reform the command economy by introducing limited market mechanisms. It managed to disrupt the old system without creating a functioning new one. Shortages got worse, not better.
 
-The dominoes fell fast. In 1989, communist regimes collapsed across Eastern Europe. The Berlin Wall fell on November 9, 1989. Within two years, the Baltic states declared independence, followed by Ukraine, Belarus, and the Central Asian republics.
+The [dominoes](/dominoes) fell fast. In 1989, communist regimes collapsed across Eastern Europe. The Berlin Wall fell on November 9, 1989. Within two years, the Baltic states declared independence, followed by Ukraine, Belarus, and the Central Asian republics.
 
 A last-ditch coup attempt by communist hardliners in August 1991 failed — partly because Boris Yeltsin, president of the Russian republic, stood on a tank and rallied opposition. On December 25, 1991, Gorbachev resigned. The Soviet flag was lowered over the Kremlin for the last time. The next day, the USSR was formally dissolved.
 
@@ -119,10 +119,10 @@ A last-ditch coup attempt by communist hardliners in August 1991 failed — part
 
 The Soviet Union's legacy is contested, contradictory, and still politically charged.
 
-On one hand, the USSR industrialized a largely agrarian empire, defeated Nazi Germany at tremendous cost, achieved remarkable scientific accomplishments (space flight, nuclear energy), and provided universal education and healthcare — even if the quality was uneven.
+On one hand, the USSR industrialized a largely agrarian empire, defeated Nazi Germany at tremendous cost, achieved remarkable scientific accomplishments (space flight, nuclear energy), and provided universal [education](/education) and healthcare — even if the quality was uneven.
 
 On the other hand, the Soviet system was responsible for political repression on a massive scale, economic inefficiency that left its citizens materially poorer than their Western counterparts, environmental catastrophes (Chernobyl, the Aral Sea), and the suppression of national and cultural identities across its constituent republics.
 
 The post-Soviet experience has been mixed. The 1990s brought economic collapse, oligarchic capitalism, and a sharp decline in living standards for most Russians. Some former Soviet states — the Baltic countries, for instance — successfully transitioned to market economies and joined the European Union. Others, like Turkmenistan and Belarus, remained authoritarian. Russia itself, under Vladimir Putin, has increasingly embraced a nostalgic narrative about Soviet greatness while maintaining an authoritarian political system.
 
-Understanding Soviet history isn't just an academic exercise. It's essential context for making sense of current geopolitics — from Russia's relationship with its neighbors to debates about socialism and state power that continue around the world.
+Understanding Soviet history isn't just an academic exercise. It's essential context for making sense of current [geopolitics](/geopolitics) — from Russia's relationship with its neighbors to debates about [socialism](/socialism) and state power that continue around the world.

@@ -5,7 +5,7 @@ description: "Information security protects data from unauthorized access and th
 category: technology
 tags: ["information security", "cybersecurity", "infosec", "data protection", "confidentiality", "integrity", "availability"]
 heroImage: "/images/articles/information-security-hero.webp"
-heroAlt: "Digital lock and shield icon representing information security and data protection"
+heroAlt: "Editorial photograph representing the concept of information security"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ Technologies protecting availability include redundancy (backup systems that tak
 
 ## Threat Field: What's Trying to Get In
 
-### Social Engineering
+### [Social Engineering](/social-engineering)
 
 The most effective attack vector isn't technical — it's human. Social engineering manipulates people into divulging information or performing actions that compromise security. Phishing emails that look like they're from your bank. Phone calls from someone claiming to be IT support. USB drives labeled "Salary Information" left in a parking lot.
 
@@ -133,7 +133,7 @@ Modern encryption standards (AES-256, RSA-2048, elliptic curve cryptography) are
 
 **Firewalls** — core components in [electronics](/electronics) and network hardware — filter network traffic based on rules — allowing legitimate traffic and blocking malicious traffic. Modern next-generation firewalls inspect packet contents, identify applications, and detect threats beyond simple port-based filtering.
 
-**Intrusion detection/prevention systems (IDS/IPS)** monitor network traffic for suspicious patterns. An IDS alerts security staff; an IPS automatically blocks detected threats.
+**[Intrusion detection](/intrusion-detection)/prevention systems (IDS/IPS)** monitor network traffic for suspicious patterns. An IDS alerts security staff; an IPS automatically blocks detected threats.
 
 **Network segmentation** divides the network into isolated zones. If an attacker compromises one segment (say, the guest Wi-Fi), they can't access other segments (like the payment processing system) without bypassing additional controls. The Target breach exploited exactly this weakness — attackers entered through a connected HVAC vendor's system and moved laterally to payment card systems.
 
@@ -161,7 +161,7 @@ Security isn't just technology — it's also policy, process, and legal complian
 
 **GDPR** (General Data Protection Regulation): The European Union's data protection law, imposing strict requirements on how organizations collect, process, and store personal data of EU residents. Fines for violations can reach 4% of global annual revenue. GDPR has influenced privacy laws worldwide.
 
-**HIPAA** (Health Insurance Portability and Accountability Act): U.S. law governing the protection of health information. Healthcare organizations, insurers, and their business associates must implement specific safeguards for patient data.
+**HIPAA** ([Health Insurance](/health-insurance) Portability and Accountability Act): U.S. law governing the protection of health information. Healthcare organizations, insurers, and their business associates must implement specific safeguards for patient data.
 
 **PCI DSS** (Payment Card Industry Data Security Standard): Requirements for organizations that handle credit card data. Includes specific technical controls: encryption of cardholder data, network segmentation, regular vulnerability scanning, and access controls.
 
@@ -201,9 +201,9 @@ Supply chain security requires evaluating the security practices of every vendor
 
 As organizations move data and applications to cloud platforms (AWS, Azure, Google Cloud), the security model changes. You're sharing responsibility with the cloud provider — they secure the infrastructure; you secure your data, configurations, and access controls. Misconfigured cloud storage buckets have been responsible for some of the largest data exposures in recent years.
 
-### Quantum Computing Threat
+### [Quantum Computing](/quantum-computing) Threat
 
-Quantum computers, once sufficiently powerful, will break most current public-key encryption [algorithms](/algorithms). RSA and elliptic curve cryptography — the foundations of internet security — will become obsolete. While large-scale quantum computers are still years away (estimates range from 2030 to 2040+), the threat is taken seriously enough that NIST has already published post-quantum cryptography standards.
+Quantum computers, once sufficiently powerful, will break most current public-key encryption [algorithms](/algorithms). RSA and elliptic curve cryptography — the foundations of internet security — will become obsolete. While large-scale quantum computers are still years away (estimates range from 2030 to 2040+), the threat is taken seriously enough that NIST has already published post-[quantum cryptography](/quantum-cryptography) standards.
 
 Organizations storing data with long-term sensitivity (government secrets, health records, financial data) should consider "harvest now, decrypt later" attacks — adversaries collecting encrypted data today with the expectation of decrypting it when quantum computers become available.
 

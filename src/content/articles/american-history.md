@@ -5,7 +5,7 @@ description: "American history covers the story of the United States from Indige
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
 heroImage: "/images/articles/american-history.webp"
-heroAlt: "Historic American landscape showing the Statue of Liberty with the New York City skyline in the background"
+heroAlt: "Editorial photograph representing the concept of american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,9 +45,9 @@ By the time Europeans arrived, North America was home to an estimated 5-15 milli
 
 The Mississippian civilization built Cahokia — a city near modern-day St. Louis that at its peak around 1100 CE had a population of perhaps 20,000, making it larger than London at the same time. Its central earthen mound covers more ground area than the Great Pyramid of Giza.
 
-The Haudenosaunee (Iroquois) Confederacy — a sophisticated political alliance of six nations in the Northeast — operated under a constitution called the Great Law of Peace that some scholars believe influenced the U.S. Constitution's federal structure. The Pueblo peoples of the Southwest built multi-story stone and adobe cities. Pacific Northwest nations developed complex economies based on salmon fishing and elaborate gift-exchange ceremonies (potlatch).
+The Haudenosaunee (Iroquois) Confederacy — a sophisticated political alliance of six nations in the Northeast — operated under a constitution called the Great Law of Peace that some scholars believe influenced the U.S. Constitution's federal structure. The Pueblo peoples of the Southwest built multi-story stone and adobe cities. Pacific Northwest nations developed complex economies based on salmon [fishing](/fishing) and elaborate gift-exchange ceremonies (potlatch).
 
-These weren't primitive societies waiting to be "discovered." They were established civilizations with their own histories, technologies, trade networks, and political systems.
+These weren't primitive societies waiting to be "discovered." They were established civilizations with their own histories, technologies, [trade](/trade) networks, and political systems.
 
 ## European Colonization
 
@@ -107,7 +107,7 @@ The war ended slavery through the Thirteenth Amendment (1865). The Fourteenth Am
 
 ## Industrialization and Immigration
 
-Between the Civil War and World War I, the United States transformed from a mostly agricultural nation into the world's largest industrial economy. Railroad mileage increased from 30,000 miles in 1860 to 254,000 miles by 1916. Steel production surpassed Britain's by 1890. Names like Carnegie, Rockefeller, Morgan, and Vanderbilt built industrial empires of unprecedented scale.
+Between the Civil War and [World War I](/world-war-i), the United States transformed from a mostly agricultural nation into the world's largest industrial economy. Railroad mileage increased from 30,000 miles in 1860 to 254,000 miles by 1916. [Steel production](/steel-production) surpassed Britain's by 1890. Names like Carnegie, Rockefeller, Morgan, and Vanderbilt built industrial empires of unprecedented scale.
 
 This was also the era of mass immigration. Between 1880 and 1920, over 23 million immigrants arrived — primarily from Southern and Eastern Europe, but also from China, Japan, and Mexico. They built the railroads, worked the factories, mined the coal, and transformed American cities. New York's population doubled between 1880 and 1900.
 
@@ -115,9 +115,9 @@ Working conditions were often horrific. The Triangle Shirtwaist Factory fire of 
 
 ## World Wars and Superpower Status
 
-World War I (U.S. involvement 1917-1918) and World War II (1941-1945) transformed America from a regional power into a global superpower.
+World War I (U.S. involvement 1917-1918) and [World War II](/world-war-ii) (1941-1945) transformed America from a regional power into a global superpower.
 
-World War II was particularly consequential. The war effort ended the Great Depression, drove massive industrial expansion, brought millions of women into the workforce (symbolized by "Rosie the Riveter"), and — through the GI Bill — created the modern American middle class by funding veterans' education and home purchases.
+World War II was particularly consequential. The war effort ended the Great Depression, drove massive industrial expansion, brought millions of women into the workforce (symbolized by "Rosie the Riveter"), and — through the GI Bill — created the modern American middle class by funding veterans' [education](/education) and home purchases.
 
 But the war also revealed American contradictions. Black soldiers fought fascism abroad while facing segregation at home. Japanese Americans — 120,000 of them — were forcibly interned in camps based solely on their ethnicity, in one of the worst violations of civil liberties in American history.
 
@@ -127,7 +127,7 @@ The postwar era brought the Cold War, nuclear anxiety, and global competition wi
 
 The civil rights movement of the 1950s and 1960s was arguably America's most important domestic event since the Civil War. Led by figures like Martin Luther King Jr., Rosa Parks, John Lewis, and countless unnamed activists, the movement used nonviolent protest, legal challenges, and political organizing to dismantle the system of legal racial segregation known as Jim Crow.
 
-The Civil Rights Act of 1964 outlawed discrimination based on race, color, religion, sex, or national origin. The Voting Rights Act of 1965 eliminated barriers to Black voting in the South. These laws were achieved through extraordinary courage and sacrifice — including beatings, bombings, and murder of activists.
+The Civil Rights Act of 1964 outlawed discrimination based on race, color, [religion](/religion), sex, or national origin. The Voting Rights Act of 1965 eliminated barriers to Black voting in the South. These laws were achieved through extraordinary courage and sacrifice — including beatings, bombings, and murder of activists.
 
 The civil rights movement inspired parallel movements: women's liberation, LGBTQ+ rights, disability rights, environmental activism, and Indigenous rights movements all drew on its strategies and moral framework.
 

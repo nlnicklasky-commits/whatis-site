@@ -5,7 +5,7 @@ description: "Internet history traces how a Cold War military network became the
 category: technology
 tags: ["internet history", "arpanet", "world wide web", "tcp/ip", "networking", "digital history", "communication"]
 heroImage: "/images/articles/internet-history-hero.webp"
-heroAlt: "Timeline visualization showing the evolution of the internet from ARPANET to the modern web"
+heroAlt: "Editorial photograph representing the concept of internet history"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -73,7 +73,7 @@ ARPANET grew steadily through the 1970s. By 1971, it had 15 nodes. By 1973, 30 n
 
 **Email** — In 1971, Ray Tomlinson sent the first networked email, choosing the @ symbol to separate user names from computer names. Email quickly became ARPANET's most popular application — by 1973, it accounted for 75% of all ARPANET traffic. The internet's "killer app" was, from the very beginning, people sending messages to each other.
 
-**Mailing lists** — The first mailing list, SF-LOVERS (for science fiction fans), appeared in 1975. DARPA tried to shut it down as a waste of government resources. After debate, it was allowed to continue. The precedent that networks would be used for social communication as well as official business was established early.
+**Mailing lists** — The first mailing list, SF-LOVERS (for [science fiction](/science-fiction) fans), appeared in 1975. DARPA tried to shut it down as a waste of government resources. After debate, it was allowed to continue. The precedent that networks would be used for social communication as well as official business was established early.
 
 **FTP** — The File Transfer Protocol (1971) allowed users to transfer files between computers. This seems trivially obvious now, but at the time, every computer system stored files differently. Standardizing file transfer was a major achievement.
 
@@ -95,7 +95,7 @@ NSFNet's acceptable use policy initially prohibited commercial traffic — the n
 
 ### Other Networks
 
-The internet wasn't the only network. BITNET connected universities via IBM mainframes. CSNET connected computer science departments. FidoNet connected bulletin board systems (BBSs) over phone lines. European networks like JANET (UK), EARN (Europe), and Minitel (France) had their own architectures.
+The internet wasn't the only network. BITNET connected universities via IBM mainframes. CSNET connected [computer science](/computer-science) departments. FidoNet connected bulletin board systems (BBSs) over phone lines. European networks like JANET (UK), EARN (Europe), and Minitel (France) had their own architectures.
 
 Most of these eventually connected to the internet via gateways, or were absorbed by it entirely. The story of the internet is partly the story of network effects — the more people connected to the internet, the more valuable it became, the more other networks wanted to join.
 
@@ -143,7 +143,7 @@ The commercialization of the internet produced one of the most spectacular finan
 
 ### The Boom
 
-Between 1995 and 2000, the NASDAQ Composite Index rose from about 1,000 to over 5,000. Hundreds of internet startups went public with sky-high valuations and no profits. The theory: get big fast, worry about revenue later. Venture capital poured billions into companies with ".com" appended to their names.
+Between 1995 and 2000, the NASDAQ Composite Index rose from about 1,000 to over 5,000. Hundreds of internet startups went public with sky-high valuations and no profits. The theory: get big fast, worry about revenue later. [Venture capital](/venture-capital) poured billions into companies with ".com" appended to their names.
 
 Some of these companies became giants: Amazon (founded 1994), eBay (1995), Google (1998). Others became cautionary tales: Pets.com, Webvan, Kozmo.com, Boo.com — companies that burned through hundreds of millions of dollars and collapsed.
 
@@ -181,7 +181,7 @@ This democratization had a dark side that became increasingly apparent: misinfor
 
 ## The Modern Internet (2012-Present)
 
-### Cloud Computing
+### [Cloud Computing](/cloud-computing)
 
 Amazon Web Services (launched 2006) changed how internet services were built. Instead of buying and maintaining your own servers, you could rent computing power by the hour from Amazon's massive data centers. Microsoft Azure and Google Cloud followed. By the 2020s, most internet services ran on cloud infrastructure.
 
@@ -193,7 +193,7 @@ Netflix began streaming in 2007. Spotify launched in 2008. By the 2020s, streami
 
 ### AI and the Internet
 
-[Machine learning](/machine-learning) transformed internet services. Google's search rankings use neural networks. Social media feeds are algorithmically curated. Natural language processing powers virtual assistants. Recommendation systems determine what you see on YouTube, Netflix, and Amazon.
+[Machine learning](/machine-learning) transformed internet services. Google's search rankings use [neural networks](/neural-networks). Social media feeds are algorithmically curated. [Natural language processing](/natural-language-processing) powers virtual assistants. Recommendation systems determine what you see on YouTube, Netflix, and Amazon.
 
 The emergence of large language models (ChatGPT, 2022) and generative AI represents potentially the biggest shift in how people interact with internet information since search engines. Instead of searching for pages, people increasingly ask AI systems to synthesize information — raising questions about the future of the web itself.
 

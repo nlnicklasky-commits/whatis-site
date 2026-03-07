@@ -5,7 +5,7 @@ description: "Theoretical physics uses mathematical models to explain and predic
 category: science
 tags: ["theoretical physics", "physics", "quantum mechanics", "general relativity"]
 heroImage: "/images/articles/theoretical-physics.webp"
-heroAlt: "A chalkboard covered in physics equations and Feynman diagrams with chalk dust visible in afternoon light"
+heroAlt: "Editorial photograph representing the concept of theoretical physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Theoretical physics is the branch of physics that uses mathematical models, abst
 
 Theoretical physics occupies a strange position in science. It produces no physical products. It runs no experiments. Its practitioners spend their time scribbling equations on chalkboards, arguing about mathematics, and occasionally publishing papers that begin with phrases like "Consider a massless, frictionless universe..."
 
-And yet, theoretical physics has produced the most accurate predictions in all of science. The magnetic moment of the electron, as calculated by quantum electrodynamics, agrees with experiment to about 12 decimal places. That's like predicting the distance from New York to Los Angeles to within the width of a human hair. No other science comes close to that kind of precision.
+And yet, theoretical physics has produced the most accurate predictions in all of science. The magnetic moment of the electron, as calculated by [quantum electrodynamics](/quantum-electrodynamics), agrees with experiment to about 12 decimal places. That's like predicting the distance from New York to Los Angeles to within the width of a human hair. No other science comes close to that kind of precision.
 
 The field asks the biggest possible questions. What are the fundamental constituents of matter? What forces govern their interactions? What is the geometry of spacetime? Is the universe deterministic or probabilistic? What happened in the first fraction of a second after the Big Bang? These aren't idle philosophical musings — they're questions with mathematical answers, and those answers have been tested and confirmed with extraordinary rigor.
 
@@ -75,7 +75,7 @@ Einstein's contributions to theoretical physics are hard to overstate. In his mi
 
 4. **Mass-energy equivalence:** The famous E = mc², showing that a small amount of mass contains an enormous amount of energy.
 
-Then, in 1915, he published general relativity — a theory of gravity that replaced Newton's instantaneous action-at-a-distance with the curvature of spacetime caused by mass and energy. The equations are beautiful, difficult, and staggeringly predictive. General relativity predicted gravitational lensing, gravitational waves (detected in 2015 by LIGO), black holes, the expansion of the universe, and [time dilation](/the-physics-of-time-travel) near massive objects.
+Then, in 1915, he published [general relativity](/general-relativity) — a theory of gravity that replaced Newton's instantaneous action-at-a-distance with the curvature of spacetime caused by mass and energy. The equations are beautiful, difficult, and staggeringly predictive. General relativity predicted gravitational lensing, gravitational waves (detected in 2015 by LIGO), black holes, the expansion of the universe, and [time dilation](/the-physics-of-time-travel) near massive objects.
 
 ### Quantum Mechanics — The Strangest Theory That Works
 
@@ -98,7 +98,7 @@ But it works. Quantum mechanics predicts the behavior of atoms, molecules, semic
 Modern theoretical physics rests on two pillars:
 
 1. **General relativity** — describes gravity and the large-scale structure of the universe
-2. **Quantum field theory** (the modern formulation of quantum mechanics) — describes the other three fundamental forces and the behavior of subatomic particles
+2. **[Quantum field theory](/quantum-field-theory)** (the modern formulation of quantum mechanics) — describes the other three fundamental forces and the behavior of [subatomic particles](/subatomic-particles)
 
 Both are spectacularly successful in their domains. General relativity handles planets, stars, galaxies, and black holes. Quantum field theory handles quarks, electrons, photons, and nuclear forces.
 
@@ -150,7 +150,7 @@ Perhaps the most humbling discovery in modern physics is that the matter we can 
 
 **Dark matter** (roughly 27%) interacts gravitationally but doesn't emit or absorb light. We know it exists because galaxies rotate too fast, galaxy clusters are more massive than their visible matter accounts for, and gravitational lensing reveals invisible mass. Theoretical candidates include WIMPs (weakly interacting massive particles), axions, and sterile neutrinos. None has been directly detected despite decades of searching.
 
-**Dark energy** (roughly 68%) drives the accelerating expansion of the universe, discovered in 1998 through observations of distant supernovae. Its nature is completely unknown. The simplest explanation — Einstein's cosmological constant, representing the energy of empty space — fits the data but produces a value about 10^120 times smaller than quantum field theory predicts. This "cosmological constant problem" is often called the worst prediction in the history of physics.
+**Dark energy** (roughly 68%) drives the accelerating expansion of the universe, discovered in 1998 through observations of distant supernovae. Its nature is completely unknown. The simplest explanation — Einstein's cosmological constant, representing the energy of empty space — fits the data but produces a value about 10^120 times smaller than quantum field theory predicts. This "cosmological constant problem" is often called the worst prediction in [the history of physics](/the-history-of-physics).
 
 These aren't minor gaps. Combined, dark matter and dark energy represent 95% of the universe. Theoretical physics currently has no confirmed explanation for 95% of what the [universe](/cosmology) contains. That's simultaneously humbling and exciting.
 
@@ -166,7 +166,7 @@ A typical research project might involve:
 4. Deriving testable predictions from the framework
 5. Publishing the results for peer review and (hopefully) experimental testing
 
-The mathematics involved is often formidable. Theoretical physics draws on differential geometry, group theory, topology, functional analysis, and algebraic geometry — mathematics that most physicists need years of graduate-level study to master.
+The mathematics involved is often formidable. Theoretical physics draws on differential geometry, group theory, topology, [functional analysis](/functional-analysis), and algebraic geometry — mathematics that most physicists need years of graduate-level study to master.
 
 Increasingly, theoretical physics also involves computation. Lattice quantum chromodynamics, for example, uses supercomputers to calculate the properties of protons and neutrons from the underlying quark-gluon dynamics. Numerical relativity simulates black hole mergers to predict gravitational waveforms. These computational approaches complement analytical (pen-and-paper) methods.
 

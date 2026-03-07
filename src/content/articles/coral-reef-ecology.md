@@ -5,7 +5,7 @@ description: "Coral reef ecology studies the complex relationships within reef e
 category: science
 tags: ["marine biology", "ecology", "oceanography", "biodiversity", "conservation", "coral reefs", "ecosystems"]
 heroImage: "/images/articles/coral-reef-ecology-hero.webp"
-heroAlt: "Vibrant coral reef teeming with colorful fish and marine life underwater"
+heroAlt: "Editorial photograph representing the concept of coral reef ecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,13 +37,13 @@ faq:
     a: "Artificial reefs—made from sunken ships, concrete structures, or purpose-built materials—can provide habitat for marine life but cannot fully replace natural coral reefs. They lack the biological complexity, self-sustaining growth, and ecosystem services of natural reefs. They're best used as supplements to conservation efforts, not substitutes."
 ---
 
-# What Is Coral Reef Ecology?
+# What Is Coral Reef [Ecology](/ecology)?
 
 Coral reef ecology is the scientific study of coral reef ecosystems---the biological communities of organisms living on and around coral reefs, their interactions with each other, and their relationship with the physical environment. It examines how reef-building corals create massive underwater structures that support an estimated 25% of all marine species while covering less than 1% of the ocean floor.
 
 ## The Animal Behind the Reef
 
-Here's something that surprises most people: coral isn't a rock. It isn't a plant. It's an animal. Specifically, corals are colonies of tiny organisms called polyps, each typically just 1 to 3 millimeters in diameter. A single coral head you might see while snorkeling contains thousands---sometimes millions---of these individual animals working together.
+Here's something that surprises most people: coral isn't a rock. It isn't a plant. It's an animal. Specifically, corals are colonies of tiny organisms called polyps, each typically just 1 to 3 millimeters in diameter. A single coral head you might see while [snorkeling](/snorkeling) contains thousands---sometimes millions---of these individual animals working together.
 
 Each polyp is essentially a small sac with a mouth surrounded by tentacles. At night, polyps extend their tentacles to capture plankton and tiny food particles drifting in the current. During the day, most retract into the calcium carbonate skeleton they've secreted---the hard structure we think of as "coral."
 
@@ -55,13 +55,13 @@ The coral's skeleton is made of aragonite, a form of calcium carbonate. Polyps e
 
 A coral reef is far more than coral. It's an entire city---a tightly interconnected web of producers, consumers, recyclers, and decomposers operating in nutrient-poor tropical waters.
 
-### The Paradox of Productivity
+### The Paradox of [Productivity](/productivity)
 
 Coral reefs present one of ecology's most famous puzzles, often called "Darwin's Paradox." Tropical ocean waters are nutrient-poor---basically oceanic deserts. Yet coral reefs are among the most productive ecosystems on the planet, rivaling tropical rainforests. How?
 
-The answer is extraordinarily efficient nutrient recycling. Reefs waste almost nothing. Nutrients cycle so rapidly through organisms that very little escapes the system. Zooxanthellae photosynthesize and pass energy to corals. Coral mucus feeds bacteria. Bacteria feed filter-feeders. Detritivores consume waste. Dissolved nutrients are absorbed almost instantly.
+The answer is extraordinarily efficient nutrient [recycling](/recycling). Reefs waste almost nothing. Nutrients cycle so rapidly through organisms that very little escapes the system. Zooxanthellae photosynthesize and pass energy to corals. Coral mucus feeds bacteria. Bacteria feed filter-feeders. Detritivores consume waste. Dissolved nutrients are absorbed almost instantly.
 
-Scientists estimate that coral reefs recycle nutrients between 10 and 100 times more efficiently than the surrounding open ocean. This tight cycling creates an oasis of productivity in otherwise barren waters.
+Scientists estimate that coral reefs recycle nutrients between 10 and 100 times more efficiently than the surrounding open ocean. This tight [cycling](/cycling) creates an oasis of productivity in otherwise barren waters.
 
 ### The Food Web
 
@@ -189,7 +189,7 @@ The effectiveness varies enormously, though. A poorly enforced MPA is just a lin
 
 ### Coral Restoration
 
-Active restoration efforts include coral gardening (growing coral fragments in underwater nurseries and transplanting them to degraded reefs), assisted gene flow (breeding heat-tolerant corals and introducing them to vulnerable areas), and substrate stabilization (providing hard surfaces for coral larvae to settle on).
+Active restoration efforts include coral [gardening](/gardening) (growing coral fragments in underwater nurseries and transplanting them to degraded reefs), assisted gene flow (breeding heat-tolerant corals and introducing them to vulnerable areas), and substrate stabilization (providing hard surfaces for coral larvae to settle on).
 
 The Coral Restoration Foundation in the Florida Keys has outplanted over 200,000 corals since its founding. Similar programs operate worldwide. But scale remains a challenge: restoration efforts to date have covered tiny fractions of total reef area.
 

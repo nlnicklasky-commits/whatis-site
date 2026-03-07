@@ -5,7 +5,7 @@ description: "Freshwater biology studies life in rivers, lakes, and wetlands. Le
 category: science
 tags: ["biology", "ecology", "aquatic ecosystems", "water quality", "conservation", "limnology", "biodiversity"]
 heroImage: "/images/articles/freshwater-biology-hero.webp"
-heroAlt: "A clear freshwater stream flowing over rocks with aquatic plants visible beneath the surface"
+heroAlt: "Editorial photograph representing the concept of freshwater biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Here's a number that should make you uncomfortable: freshwater species populatio
 
 The reason they matter is straightforward. Every terrestrial ecosystem depends on freshwater. Every human civilization was founded near freshwater. Your body is about 60% water. The food you eat requires enormous quantities of freshwater to produce (roughly 1,800 gallons per pound of beef, about 100 gallons per pound of wheat). And the [biology](/biology) of freshwater systems determines whether that water is clean, available, and capable of sustaining the species that depend on it — including you.
 
-Freshwater biology isn't just academic. It's the science behind clean drinking water, fisheries management, flood control, ecosystem restoration, and understanding how climate change will reshape the water resources that human civilization requires.
+Freshwater biology isn't just academic. It's the science behind clean drinking water, fisheries [management](/management), flood control, ecosystem restoration, and understanding how climate change will reshape the water resources that human civilization requires.
 
 ## The Major Freshwater Ecosystems
 
@@ -65,7 +65,7 @@ The most important feature of lakes is thermal stratification. During summer, th
 
 In temperate regions, lakes "turn over" in spring and fall when surface temperatures match deeper water, allowing full mixing. These turnover events redistribute oxygen and nutrients throughout the water column and are among the most biologically significant events in lake ecology.
 
-Lake productivity falls on a spectrum:
+Lake [productivity](/productivity) falls on a spectrum:
 
 - **Oligotrophic lakes** are nutrient-poor, clear, deep, and oxygen-rich. Think mountain lakes with visible bottoms. They support fewer organisms but often include species adapted to cold, clean conditions — like lake trout.
 - **Eutrophic lakes** are nutrient-rich, murky, and shallow. They produce enormous amounts of algae and support dense populations of warm-water fish. When nutrients become excessive (often from agricultural runoff), algae blooms can deplete oxygen and create dead zones.
@@ -131,7 +131,7 @@ Even treated sewage contains nutrients and emerging contaminants (hormones, anti
 
 Dams are the most dramatic form of habitat modification. There are approximately 58,000 large dams worldwide and millions of smaller ones. Dams block fish migration, alter flow patterns, trap sediment, change water temperature, and fragment river systems into isolated segments.
 
-Channelization — straightening rivers for navigation or flood control — eliminates the meanders, pools, riffles, and backwater areas that provide diverse habitat. Removing riparian vegetation (streamside trees and plants) raises water temperatures and eliminates the leaf litter that fuels stream food webs.
+Channelization — straightening rivers for [navigation](/navigation) or flood control — eliminates the meanders, pools, riffles, and backwater areas that provide diverse habitat. Removing riparian vegetation (streamside trees and plants) raises water temperatures and eliminates the leaf litter that fuels stream food webs.
 
 ### Invasive Species
 
@@ -166,7 +166,7 @@ Dam removal has become an increasingly important restoration tool. The removal o
 
 Riparian restoration — replanting streamside vegetation — is one of the most cost-effective conservation measures. Trees shade streams (reducing temperature), stabilize banks (reducing erosion), filter runoff (reducing pollution), and provide leaf litter (fueling food webs). A restored riparian buffer can improve water quality within years.
 
-Wetland construction and restoration addresses both conservation and practical needs. Constructed wetlands treat wastewater, control flooding, and create habitat simultaneously. Several cities now use constructed wetlands as part of their water treatment infrastructure, combining ecological [conservation biology](/conservation-biology) with public engineering.
+Wetland [construction](/construction) and restoration addresses both conservation and practical needs. Constructed wetlands treat wastewater, control flooding, and create habitat simultaneously. Several cities now use constructed wetlands as part of their water treatment infrastructure, combining ecological [conservation biology](/conservation-biology) with public [engineering](/engineering).
 
 ### Policy and Protection
 
@@ -178,7 +178,7 @@ International cooperation is essential for transboundary rivers. The Mekong, Nil
 
 ## Freshwater Biology as a Career
 
-Freshwater biologists work in universities, government agencies (USGS, EPA, state wildlife departments), consulting firms, non-profit conservation organizations, and water utilities. The field combines fieldwork (often in beautiful locations) with laboratory analysis and [data analysis](/data-analysis).
+Freshwater biologists work in universities, [government](/government) agencies (USGS, EPA, state wildlife departments), consulting firms, non-profit conservation organizations, and water utilities. The field combines fieldwork (often in beautiful locations) with laboratory analysis and [data analysis](/data-analysis).
 
 Typical work includes biological surveys, water quality monitoring, environmental impact assessments, species conservation, habitat restoration design, and policy development. The field has grown as water quality and freshwater biodiversity have become major environmental priorities.
 

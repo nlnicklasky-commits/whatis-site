@@ -5,7 +5,7 @@ description: "Ufology is the study of unidentified flying objects and related ph
 category: everyday-concepts
 tags: ["ufology", "UFOs", "UAP", "extraterrestrial", "paranormal", "unexplained phenomena"]
 heroImage: "/images/articles/ufology.webp"
-heroAlt: "Mysterious lights in the night sky above a dark mountain landscape"
+heroAlt: "Editorial photograph representing the concept of ufology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Ufology?
 
-Ufology is the study of unidentified flying objects — now increasingly called unidentified anomalous phenomena (UAP) — and related reports, evidence, and theories about their nature and origin. It's a field that exists in a peculiar space between legitimate inquiry and fringe belief, and recent government disclosures have made that boundary more interesting than ever.
+Ufology is the study of unidentified flying objects — now increasingly called unidentified anomalous phenomena (UAP) — and related reports, evidence, and theories about their nature and origin. It's a field that exists in a peculiar space between legitimate inquiry and fringe belief, and recent [government](/government) disclosures have made that boundary more interesting than ever.
 
 ## The Term and Its Baggage
 
-The word "ufology" combines UFO with the suffix "-ology" (study of). It sounds scientific, and some practitioners approach it scientifically. But ufology has never been recognized as a formal academic discipline. No accredited university offers a degree in it. No peer-reviewed journal focuses exclusively on it (though related papers occasionally appear in journals covering atmospheric science, psychology, and military intelligence).
+The word "ufology" combines UFO with the suffix "-ology" (study of). It sounds scientific, and some practitioners approach it scientifically. But ufology has never been recognized as a formal academic discipline. No accredited university offers a degree in it. No peer-reviewed journal focuses exclusively on it (though related papers occasionally appear in journals covering atmospheric science, [psychology](/psychology), and military intelligence).
 
 This creates a frustrating active. Serious researchers who want to study genuinely unidentified phenomena get lumped in with conspiracy theorists, contactees, and people who think they've been abducted by grey aliens. The stigma is real — military pilots who reported unusual objects for decades stayed quiet precisely because they feared career consequences.
 
@@ -51,7 +51,7 @@ This creates a frustrating active. Serious researchers who want to study genuine
 
 ## The Government Gets Involved (Again)
 
-The 2017 revelations that the Pentagon had been running the Advanced Aerospace Threat Identification Program (AATIP) from 2007 to 2012 changed the public conversation dramatically. This wasn't fringe researchers making claims — it was the Department of Defense acknowledging that unidentified objects were being tracked by military sensors.
+The 2017 revelations that the Pentagon had been [running](/running) the Advanced Aerospace Threat Identification Program (AATIP) from 2007 to 2012 changed the public conversation dramatically. This wasn't fringe researchers making claims — it was the Department of Defense acknowledging that unidentified objects were being tracked by military sensors.
 
 Since then, things have moved quickly by government standards:
 
@@ -69,7 +69,7 @@ Not all ufologists think aliens are visiting Earth. The possible explanations fo
 
 **Advanced human technology** — Some UAPs might be classified military aircraft or drones from the U.S. or foreign governments. The U-2 spy plane was responsible for many UFO reports in the 1950s and 1960s — it flew at altitudes people assumed were impossible.
 
-**Natural phenomena** — Atmospheric physics produces some genuinely strange effects. Sprites, blue jets, and ball lightning are real but poorly understood phenomena. Temperature inversions can create radar anomalies and visual mirages.
+**Natural phenomena** — Atmospheric [physics](/physics) produces some genuinely strange effects. Sprites, blue jets, and ball lightning are real but poorly understood phenomena. Temperature inversions can create radar anomalies and visual mirages.
 
 **Sensor artifacts** — Camera glare, infrared reflections, parallax effects, and instrument malfunctions can create apparent objects that aren't actually there. Some debunked UAP videos turned out to be lens flare or gimbal artifacts (hence the somewhat ironic name of one famous Navy video).
 
@@ -79,7 +79,7 @@ Not all ufologists think aliens are visiting Earth. The possible explanations fo
 
 Ufology's fundamental challenge is that it deals with unrepeatable, unpredictable events observed with limited instrumentation. Science thrives on controlled, repeatable experiments. A sighting that happened once, lasted 30 seconds, and was captured on a single infrared camera is extremely difficult to study scientifically.
 
-This doesn't mean investigation is pointless — forensic science deals with one-time events too. But it does mean that the standard of evidence required for extraordinary claims (life from another planet visiting Earth) far exceeds what most sightings provide.
+This doesn't mean investigation is pointless — [forensic science](/forensic-science) deals with one-time events too. But it does mean that the standard of evidence required for extraordinary claims (life from another planet visiting Earth) far exceeds what most sightings provide.
 
 NASA's 2023 report made this point directly: the agency called for better data collection — calibrated instruments, standardized reporting, systematic analysis. In other words, apply the same rigor to UAP that you'd apply to any other aerial phenomenon.
 

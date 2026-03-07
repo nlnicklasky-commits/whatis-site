@@ -5,7 +5,7 @@ description: "Typesetting is the process of arranging text for printing or displ
 category: arts-amp-culture
 tags: ["typesetting", "printing", "typography", "publishing", "graphic design", "layout"]
 heroImage: "/images/articles/typesetting.webp"
-heroAlt: "Rows of metal movable type blocks arranged in a composing stick for letterpress printing"
+heroAlt: "Editorial photograph representing the concept of typesetting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Typesetting is the process of arranging text — letter by letter, line by line,
 
 ## Gutenberg Changed Everything (But He Didn't Invent It)
 
-Johannes Gutenberg gets credit for inventing movable type in Europe around 1440, and that credit is deserved. His system of individual cast metal letters that could be arranged, printed, disassembled, and rearranged made mass printing economically viable for the first time in European history.
+Johannes Gutenberg gets credit for inventing movable type in Europe around 1440, and that credit is deserved. His system of individual cast metal letters that could be arranged, printed, disassembled, and rearranged made mass printing economically viable for the first time in [European history](/european-history).
 
 But — and this matters — Bi Sheng in China had already created movable type from fired clay around 1040 CE, roughly 400 years earlier. Korea developed metal movable type in the 13th century. Gutenberg's contribution wasn't the concept but the complete system: durable metal alloy type, oil-based ink, and a screw press adapted from wine presses. Together, these made printing fast, consistent, and scalable.
 
@@ -65,7 +65,7 @@ By the 1960s, hot metal was giving way to phototypesetting. Instead of casting p
 
 This was faster, cheaper, and more flexible than metal composition. It also eliminated several tons of lead from the average print shop. The downside was that phototype machines were expensive and proprietary — each manufacturer's system was incompatible with others.
 
-Phototypesetting dominated the 1970s and early 1980s. Then desktop publishing arrived and swept everything away.
+Phototypesetting dominated the 1970s and early 1980s. Then [desktop publishing](/desktop-publishing) arrived and swept everything away.
 
 ## The Desktop Revolution
 
@@ -85,7 +85,7 @@ Here's what professionals pay attention to:
 
 **Leading (line spacing).** The vertical gap between lines of text. Too tight and lines feel suffocating. Too loose and the text falls apart into horizontal stripes. Body text typically uses 120% to 145% of the type size.
 
-**Hyphenation and justification.** Justified text (aligned on both left and right margins) requires careful hyphenation to avoid ugly gaps. Bad justification creates rivers — visible streams of white space running vertically through a paragraph. They're distracting and mark amateur work instantly.
+**Hyphenation and justification.** Justified text (aligned on both left and right margins) requires careful hyphenation to avoid ugly gaps. Bad justification creates rivers — visible streams of white space [running](/running) vertically through a paragraph. They're distracting and mark amateur work instantly.
 
 **Widows and orphans.** A widow is a final line of a paragraph stranded alone at the top of a new column or page. An orphan is a first line stranded at the bottom. Both look wrong, and fixing them requires adjusting the text flow — sometimes rewriting a sentence to gain or lose a line.
 

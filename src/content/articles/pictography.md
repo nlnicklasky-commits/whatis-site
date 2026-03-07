@@ -5,7 +5,7 @@ description: "Pictography is a system of communication using pictures to represe
 category: everyday-concepts
 tags: ["pictography", "writing systems", "communication", "symbols", "history", "visual language"]
 heroImage: "/images/articles/pictography.webp"
-heroAlt: "Ancient pictographic symbols alongside modern icons showing the evolution of visual communication"
+heroAlt: "Editorial photograph representing the concept of pictography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Pictography?
 
-Pictography is a system of visual communication that uses pictures — called pictographs or pictograms — to represent objects, concepts, and ideas. A drawing of a fish means "fish." A drawing of waves means "water." A drawing of a sun means "sun" or "day." It's the most intuitive form of written communication because the symbols look like what they represent. You don't need to learn an alphabet. You just need to recognize the pictures.
+Pictography is a system of visual communication that uses pictures — called pictographs or pictograms — to represent objects, concepts, and ideas. A [drawing](/drawing) of a fish means "fish." A drawing of waves means "water." A drawing of a sun means "sun" or "day." It's the most intuitive form of written communication because the symbols look like what they represent. You don't need to learn an alphabet. You just need to recognize the pictures.
 
 ## The Oldest Communication
 
 Before written language existed, humans communicated through pictures. Cave paintings from 40,000+ years ago — animals, handprints, geometric patterns — represent the earliest known attempts to record information visually. Whether these were true communication (conveying specific messages to others) or something else (ritual, art, personal expression) is debated. But they demonstrate the fundamental human impulse to turn meaning into marks.
 
-The transition from "picture as art" to "picture as communication system" happened gradually, starting around 9,000 years ago. In Mesopotamia, clay tokens shaped like commodities (a cone for grain, a sphere for livestock) were used for trade and accounting. Over time, people began pressing these shapes into clay tablets rather than using the physical tokens — creating two-dimensional symbols that represented real-world things. This was pictography in its purest form.
+The transition from "picture as art" to "picture as communication system" happened gradually, starting around 9,000 years ago. In Mesopotamia, clay tokens shaped like commodities (a cone for grain, a sphere for livestock) were used for [trade](/trade) and [accounting](/accounting). Over time, people began pressing these shapes into clay tablets rather than using the physical tokens — creating two-dimensional symbols that represented real-world things. This was pictography in its purest form.
 
 ## How Pictographic Systems Work
 
-Pure pictography has a straightforward logic. You want to communicate "three deer." You draw three pictures of deer. "River fish" gets a wavy line (river) and a fish shape. "Big mountain" gets a large triangle.
+Pure pictography has a straightforward [logic](/logic). You want to communicate "three deer." You draw three pictures of deer. "River fish" gets a wavy line (river) and a fish shape. "Big mountain" gets a large triangle.
 
 The system works surprisingly well for concrete nouns — animals, tools, body parts, field features, food. But it struggles badly with abstract concepts. How do you draw "justice"? "Yesterday"? "Maybe"? "If"?
 
@@ -53,13 +53,13 @@ Early pictographic systems handled this through visual metaphors and combination
 
 But these conventions are ambiguous. Does "sun + person" mean "hot person," "person in daylight," or "sunburn"? Without shared conventions, readers had to guess.
 
-## The Evolution Into Writing
+## The Evolution Into [Writing](/writing)
 
 This limitation is exactly why pictographic systems evolved into more complex writing systems. The process typically followed a pattern:
 
 **Stage 1: Pure pictography.** Pictures represent things. A picture of a house means "house."
 
-**Stage 2: Ideography.** Pictures start representing ideas beyond their literal depiction. A picture of two legs might mean "walking," "going," or "journey."
+**Stage 2: Ideography.** Pictures start representing ideas beyond their literal depiction. A picture of two legs might mean "[walking](/walking)," "going," or "journey."
 
 **Stage 3: Rebus writing.** Pictures are used for their sound rather than their meaning. In English, you might draw a picture of an eye, a tin can, and a sea to represent "I can see." This is how pictographs became phonetic symbols — the critical step toward true writing.
 
@@ -79,12 +79,12 @@ Chinese writing isn't purely pictographic — most characters are compounds comb
 
 Pictographic communication has made a dramatic comeback in the modern era — not as a writing system but as a supplement to language.
 
-**Signage and wayfinding.** Airport symbols, road signs, restroom signs, emergency exit markers — these are pictographs designed to communicate across language barriers. The International Organization for Standardization (ISO) maintains a set of standardized pictographic symbols used worldwide. A running figure with an arrow means "exit" in any country.
+**Signage and wayfinding.** Airport symbols, road signs, restroom signs, emergency exit markers — these are pictographs designed to communicate across language barriers. The International Organization for Standardization (ISO) maintains a set of standardized pictographic symbols used worldwide. A [running](/running) figure with an arrow means "exit" in any country.
 
 **User interfaces.** The icons on your phone and computer — the envelope for email, the magnifying glass for search, the gear for settings, the house for home — are pictographs. They communicate function through visual resemblance.
 
 **Emoji.** The emoji system, originating in Japan in the late 1990s, is the most widely used pictographic system in history. The Unicode Standard includes over 3,600 emoji as of 2024. They're not a language — they supplement text rather than replace it — but they serve a pictographic function, conveying meaning through small images.
 
-**Infographics and data visualization.** Using icons and symbols to represent statistical data (each person icon represents 1,000 people, for example) is a form of pictographic communication.
+**Infographics and [data visualization](/data-visualization).** Using icons and symbols to represent statistical data (each person icon represents 1,000 people, for example) is a form of pictographic communication.
 
 Pictography is where human communication started, and in a sense, where it's returning. The wheel turns: we began with pictures on cave walls, developed elaborate alphabetic writing systems over millennia, and now find ourselves communicating with tiny pictures on glass screens. The medium changed. The impulse didn't.

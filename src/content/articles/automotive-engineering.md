@@ -5,7 +5,7 @@ description: "Automotive engineering is the branch of engineering focused on des
 category: technology
 tags: ["automotive engineering", "engineering", "cars", "mechanical engineering", "vehicle", "powertrain", "automotive"]
 heroImage: "/images/articles/automotive-engineering-hero.webp"
-heroAlt: "Cutaway view of a modern car revealing its engine, suspension, and chassis systems"
+heroAlt: "Editorial photograph representing the concept of automotive engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Automotive Engineering?
 
-Automotive engineering is the branch of mechanical engineering concerned with the design, development, manufacturing, and testing of motor vehicles — including cars, trucks, motorcycles, and buses. It brings together principles from mechanical, electrical, materials, and software engineering to create machines that are safe, efficient, reliable, and (ideally) enjoyable to use.
+Automotive engineering is the branch of [mechanical engineering](/mechanical-engineering) concerned with the design, development, manufacturing, and testing of motor vehicles — including cars, trucks, motorcycles, and buses. It brings together principles from mechanical, electrical, materials, and [software engineering](/software-engineering) to create machines that are safe, efficient, reliable, and (ideally) enjoyable to use.
 
 ## What Makes a Car Work
 
@@ -91,7 +91,7 @@ Platform sharing dramatically reduces engineering costs. Developing a new platfo
 
 This is where [automotive design](/automotive-design) and engineering must negotiate. The design team has created surfaces and a visual intent. Engineering must figure out how to build it — how to stamp the body panels, route the wiring harnesses, package the HVAC system, and ensure the structure passes crash tests.
 
-Computer-aided engineering (CAE) tools have transformed this phase. Finite element analysis (FEA) allows engineers to simulate crash performance, structural stiffness, and fatigue life without building physical prototypes. Computational fluid dynamics (CFD) models [aerodynamic](/aerodynamics) performance. Multi-body dynamics simulations predict ride and handling behavior.
+Computer-aided engineering (CAE) tools have transformed this phase. Finite element analysis (FEA) allows engineers to simulate crash performance, structural stiffness, and fatigue life without building physical prototypes. Computational [fluid dynamics](/fluid-dynamics) (CFD) models [aerodynamic](/aerodynamics) performance. Multi-body dynamics simulations predict ride and handling behavior.
 
 Before CAE, developing a new car required 50 to 100 physical crash test vehicles. Today, that number might be 10 to 20, with thousands of virtual crashes supplementing the physical tests.
 
@@ -103,7 +103,7 @@ Durability testing might involve driving the equivalent of 100,000 miles on Belg
 
 Crash testing follows specific protocols defined by regulatory bodies (NHTSA, Euro NCAP) and insurance organizations (IIHS). A single frontal crash test at 35 mph destroys a vehicle worth $100,000 or more in prototype costs. The data collected — from onboard accelerometers, high-speed cameras, and crash test dummies loaded with sensors — is fed back into the CAE models to improve accuracy.
 
-### Manufacturing Engineering
+### [Manufacturing Engineering](/manufacturing-engineering)
 
 Designing a car is one thing. Figuring out how to build 1,000 of them per day is an entirely different engineering challenge. Manufacturing engineers design the assembly process, specify robotic welding sequences, develop quality control procedures, and optimize the production line for throughput and consistency.
 

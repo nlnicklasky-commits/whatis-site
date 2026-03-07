@@ -5,7 +5,7 @@ description: "Mixology is the art and science of crafting cocktails. Learn about
 category: arts-amp-culture
 tags: ["mixology", "cocktails", "bartending", "spirits", "drinks", "craft beverages"]
 heroImage: "/images/articles/mixology.webp"
-heroAlt: "Bartender pouring a craft cocktail through a strainer into a coupe glass"
+heroAlt: "Editorial photograph representing the concept of mixology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Mixology?
 
-Mixology is the craft of creating mixed drinks — cocktails — by combining spirits, modifiers, sweeteners, citrus, bitters, and other ingredients in precise ratios to produce balanced, flavorful beverages. It's bartending elevated to an art form, where the person behind the bar isn't just pouring drinks but designing flavor experiences.
+Mixology is the craft of creating mixed drinks — cocktails — by combining spirits, modifiers, sweeteners, citrus, bitters, and other ingredients in precise ratios to produce balanced, flavorful beverages. It's [bartending](/bartending) elevated to an art form, where the person behind the bar isn't just pouring drinks but designing flavor experiences.
 
-The distinction between bartending and mixology is real but sometimes overstated. Every good bartender needs mixology skills. Not every mixologist works behind a bar — some focus on recipe development, consulting, or writing. The best practitioners combine technical knowledge with speed, showmanship, and an ability to read what a customer actually wants.
+The distinction between bartending and mixology is real but sometimes overstated. Every good bartender needs mixology skills. Not every mixologist works behind a bar — some focus on recipe development, consulting, or [writing](/writing). The best practitioners combine technical knowledge with speed, [showmanship](/showmanship), and an ability to read what a customer actually wants.
 
 ## The Basics
 
@@ -47,7 +47,7 @@ Every cocktail is built from a few structural elements:
 
 **Citrus/acid.** Lemon juice, lime juice, or other acidic components. Acid provides brightness, lift, and balance against sweetness.
 
-**Bitters.** Concentrated botanical extracts added in dashes — like seasoning in cooking. Angostura bitters, Peychaud's bitters, and orange bitters are the most common. A few dashes can transform a flat drink into a complex one.
+**Bitters.** Concentrated botanical extracts added in dashes — like seasoning in [cooking](/cooking). Angostura bitters, Peychaud's bitters, and orange bitters are the most common. A few dashes can transform a flat drink into a complex one.
 
 The classic cocktail ratios are worth knowing: a Daiquiri is 2 oz rum, 1 oz lime, 3/4 oz simple syrup. A Margarita swaps in tequila and adds orange liqueur. A Whiskey Sour uses bourbon. These templates — spirit-sour (spirit + citrus + sweet), spirit-forward (spirit + modifier + bitters) — underlie most cocktail design.
 
@@ -73,7 +73,7 @@ Key principles of the movement:
 - **Quality spirits.** Premium and craft spirits chosen for specific flavor profiles.
 - **Proper technique.** Correct shaking and stirring, appropriate glassware, proper dilution.
 - **Ice.** Clear, dense ice that melts slowly. Large cubes and spheres for spirit-forward drinks. Crushed ice for tiki and julep styles.
-- **Balance.** The craft cocktail ideal is a drink where no single element dominates — spirit, sweet, sour, and bitter in harmony.
+- **Balance.** The craft cocktail ideal is a drink where no single element dominates — spirit, sweet, sour, and bitter in [harmony](/harmony).
 
 The movement has spread globally. Tokyo, London, Mexico City, Melbourne, and dozens of other cities have thriving craft cocktail scenes. The World's 50 Best Bars list, published annually since 2009, has become a significant industry benchmark.
 

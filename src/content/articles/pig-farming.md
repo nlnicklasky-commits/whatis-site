@@ -5,7 +5,7 @@ description: "Pig farming is the raising of domestic pigs for pork, bacon, and o
 category: everyday-concepts
 tags: ["agriculture", "pigs", "farming", "pork", "livestock", "animal husbandry"]
 heroImage: "/images/articles/pig-farming.webp"
-heroAlt: "A group of healthy pigs in a well-maintained barn with straw bedding and natural light"
+heroAlt: "Editorial photograph representing the concept of pig farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Yes, pigs are among the most intelligent domesticated animals. Research shows they can learn complex tasks, use mirrors to find hidden food, play simple video games using joysticks, and remember solutions to problems for years. Their cognitive abilities are comparable to dogs and, in some tests, to three-year-old children. They have distinct personalities, form social bonds, and show emotional responses including playfulness and apparent empathy."
 ---
 
-# What Is Pig Farming?
+# What Is Pig [Farming](/farming)?
 
 Pig farming — also called hog production or swine husbandry — is the agricultural practice of breeding and raising domestic pigs primarily for meat (pork, bacon, ham, sausage) and secondarily for other products including leather, bristles, and pharmaceutical ingredients. Pork is the most widely consumed meat globally, with world production exceeding 120 million metric tons annually. China produces roughly half the world's pork. The United States, the European Union, Brazil, and Vietnam are also major producers.
 
@@ -51,13 +51,13 @@ Modern commercial pig farming looks very different from the small mixed farms of
 
 **Breeding.** Commercial breeding programs use artificial insemination and genetic selection to produce pigs that grow fast, convert feed efficiently, and produce lean meat. The most common commercial breeds are Yorkshire (Large White), Landrace, Duroc, and Hampshire, often crossed in specific combinations to maximize hybrid vigor.
 
-**Housing.** Most commercial pigs in the U.S. and Europe are raised in confinement buildings — climate-controlled barns with slatted floors over waste pits. Pregnant sows are often kept in gestation crates (individual stalls roughly 2 feet by 7 feet). Farrowing crates confine sows during birthing and nursing to prevent them from crushing piglets.
+**Housing.** Most commercial pigs in the U.S. and Europe are raised in confinement buildings — climate-controlled barns with slatted floors over waste pits. Pregnant sows are often kept in gestation crates (individual stalls roughly 2 feet by 7 feet). Farrowing crates confine sows during birthing and [nursing](/nursing) to prevent them from crushing piglets.
 
 These practices maximize production efficiency but raise serious animal welfare concerns. Gestation crates prevent sows from turning around for months at a time. Several U.S. states and the European Union have banned or restricted them.
 
 **Feeding.** Feed accounts for 60-70% of production costs. Commercial pig diets are primarily corn and soybean meal, supplemented with vitamins, minerals, and amino acids. Diets are formulated precisely for each growth stage — starter (just after weaning), grower, and finisher — each with different protein, energy, and nutrient levels.
 
-**Waste management.** A 1,000-sow operation produces as much waste as a small city. Manure is typically stored in lagoons or underground pits and applied to cropland as fertilizer. When properly managed, this closes the nutrient loop. When mismanaged — and it frequently is — it pollutes waterways, generates hydrogen sulfide and ammonia, and creates significant public health concerns for nearby communities.
+**[Waste management](/waste-[management](/management)).** A 1,000-sow operation produces as much waste as a small city. Manure is typically stored in lagoons or underground pits and applied to cropland as fertilizer. When properly managed, this closes the nutrient loop. When mismanaged — and it frequently is — it pollutes waterways, generates hydrogen sulfide and ammonia, and creates significant [public health](/public-health) concerns for nearby communities.
 
 ## Small-Scale and Alternative Systems
 
@@ -69,9 +69,9 @@ Not all pig farming is industrial. Small-scale and alternative production system
 
 **Organic.** USDA-certified organic pig farming requires organic feed, outdoor access, no antibiotics or growth hormones, and adherence to specific animal welfare standards. Organic pork represents a tiny fraction of total production (under 1%) but is growing.
 
-## The Animal Welfare Debate
+## The Animal Welfare [Debate](/debate)
 
-Pig farming is at the center of the most intense debates in agricultural ethics. Pigs are demonstrably intelligent — they rank among the cognitively most capable domesticated animals, showing problem-solving skills, social learning, and emotional complexity.
+Pig farming is at the center of the most intense debates in agricultural [ethics](/ethics). Pigs are demonstrably intelligent — they rank among the cognitively most capable domesticated animals, showing problem-solving skills, social learning, and emotional complexity.
 
 The conditions in large-scale confinement operations — limited space, restricted movement, barren environments, routine tail docking and teeth clipping without anesthesia — conflict sharply with what we know about pig cognition and behavioral needs. Pigs in confinement show stress behaviors including bar biting, tail biting, and learned helplessness.
 
@@ -79,9 +79,9 @@ Industry defenders point to efficiency gains that reduce production costs and ma
 
 The debate isn't going away. Consumer demand for higher-welfare pork is growing in Europe and North America. Legislative restrictions on confinement practices are expanding. Major food companies are making (and sometimes struggling to keep) commitments to phase out gestation crates.
 
-## Economics
+## [Economics](/economics)
 
-Pig farming economics are volatile. Feed prices (tied to corn and soybean markets), pork market prices, disease outbreaks, and trade policies all fluctuate unpredictably. A farmer might be profitable one year and losing money the next.
+Pig farming economics are volatile. Feed prices (tied to corn and soybean markets), pork market prices, disease outbreaks, and [trade](/trade) policies all fluctuate unpredictably. A farmer might be profitable one year and losing money the next.
 
 The industry has consolidated dramatically. In 1980, the U.S. had roughly 660,000 pig farms. By 2020, that number had dropped below 60,000 — but total pig inventory remained roughly constant. Fewer farms, bigger operations.
 

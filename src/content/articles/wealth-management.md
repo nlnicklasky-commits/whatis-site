@@ -5,7 +5,7 @@ description: "Wealth management is a financial advisory service combining invest
 category: finance
 tags: ["wealth management", "finance", "investing", "financial planning", "estate planning"]
 heroImage: "/images/articles/wealth-management.webp"
-heroAlt: "Financial advisor reviewing portfolio charts and documents with a client across a desk"
+heroAlt: "Editorial photograph representing the concept of wealth management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
     a: "Look for the CFP (Certified Financial Planner), CFA (Chartered Financial Analyst), or CPA/PFS (CPA with Personal Financial Specialist) designations. Also verify they are registered as a fiduciary — legally obligated to act in your best interest — through the SEC or your state's securities regulator."
 ---
 
-Wealth management is a professional financial advisory service that combines investment management, tax planning, estate planning, retirement planning, and other financial services into a coordinated strategy for high-net-worth individuals and families. Rather than addressing financial needs in isolation, wealth management takes a unified view of a client's entire financial life.
+Wealth management is a professional financial advisory service that combines [investment management](/investment-management), tax planning, estate planning, retirement planning, and other financial services into a coordinated strategy for high-net-worth individuals and families. Rather than addressing financial needs in isolation, wealth management takes a unified view of a client's entire financial life.
 
 The distinction from basic financial advice is scope. A financial advisor might help you pick mutual funds. A wealth manager helps you build, protect, transfer, and grow your wealth across every dimension — investments, taxes, insurance, estate, philanthropy, and sometimes even family governance.
 
@@ -63,9 +63,9 @@ This is what most people associate with wealth management — selecting and mana
 
 **Tax-efficient investing** means placing investments in the right types of accounts. Tax-inefficient investments (high-yield bonds, REITs, actively traded strategies) belong in tax-advantaged accounts like IRAs and 401(k)s. Tax-efficient investments (index funds, municipal bonds, long-term capital gains) can go in taxable accounts. This "asset location" strategy can add 0.5-1.0% to after-tax returns annually — real money over decades.
 
-**Alternative investments** — private equity, hedge funds, [venture capital](/venture-capital), real estate partnerships, and direct investments — become available at higher wealth levels. These offer diversification benefits and potentially higher returns but come with illiquidity, complexity, and higher fees. A wealth manager evaluates whether they're appropriate for your situation.
+**Alternative investments** — [private equity](/private-equity), hedge funds, [venture capital](/venture-capital), real estate partnerships, and direct investments — become available at higher wealth levels. These offer diversification benefits and potentially higher returns but come with illiquidity, complexity, and higher fees. A wealth manager evaluates whether they're appropriate for your situation.
 
-**Risk management** goes beyond portfolio volatility. It includes concentration risk (too much wealth in a single stock — common for founders and executives), sequence-of-returns risk (market downturns early in retirement), inflation risk, and longevity risk (outliving your money).
+**[Risk management](/risk-management)** goes beyond portfolio volatility. It includes concentration risk (too much wealth in a single stock — common for founders and executives), sequence-of-returns risk (market downturns early in retirement), inflation risk, and longevity risk (outliving your money).
 
 ### Tax Planning
 
@@ -101,7 +101,7 @@ Retirement planning at the wealth management level goes beyond "save enough to r
 
 **Income planning** — constructing a tax-efficient withdrawal strategy across multiple account types (taxable, tax-deferred, and tax-free). The order in which you draw from different accounts matters enormously for lifetime taxes.
 
-**Social Security optimization** — deciding when to claim benefits. Delaying from age 62 to 70 increases monthly benefits by about 77%. For married couples, spousal benefit strategies add another layer of complexity. The optimal claiming strategy can be worth $100,000 or more in lifetime benefits.
+**Social Security [optimization](/optimization)** — deciding when to claim benefits. Delaying from age 62 to 70 increases monthly benefits by about 77%. For married couples, spousal benefit strategies add another layer of complexity. The optimal claiming strategy can be worth $100,000 or more in lifetime benefits.
 
 **Required minimum distributions (RMDs)** — managing mandatory withdrawals from tax-deferred accounts starting at age 73 (moving to 75 in 2033). Large tax-deferred balances can create RMDs that push retirees into higher tax brackets and increase Medicare premiums. Pre-retirement Roth conversions can mitigate this.
 
@@ -131,7 +131,7 @@ Finding the right wealth manager is one of the most important financial decision
 
 **Fiduciary duty.** Registered Investment Advisors (RIAs) are held to a fiduciary standard — they must act in your best interest. Broker-dealers are held to a lesser "suitability" standard — they must recommend investments that are "suitable" but not necessarily best. Always choose a fiduciary.
 
-**Credentials.** The CFP (Certified Financial Planner) designation requires education, a thorough exam, experience, and ongoing ethics requirements. The CFA (Chartered Financial Analyst) focuses on investment analysis. The CPA/PFS combines accounting expertise with financial planning. These credentials don't guarantee quality, but they demonstrate commitment and competence.
+**Credentials.** The CFP (Certified Financial Planner) designation requires education, a thorough exam, experience, and ongoing ethics requirements. The CFA (Chartered Financial Analyst) focuses on investment analysis. The CPA/PFS combines accounting expertise with [financial planning](/financial-planning). These credentials don't guarantee quality, but they demonstrate commitment and competence.
 
 **Independence.** Independent RIAs can choose from any available investment products. Advisors at large wirehouses (Morgan Stanley, Merrill Lynch, UBS) may be limited to proprietary products or preferred providers. Independence doesn't guarantee better advice, but it removes one source of conflict.
 
@@ -147,13 +147,13 @@ Technology is reshaping wealth management from multiple directions.
 
 **Robo-advisors** — Betterment, Wealthfront, Schwab Intelligent Portfolios — automate investment management, tax-loss harvesting, and rebalancing at fees of 0-0.25%. They handle the investment management component well but lack the personalized tax, estate, and planning services of full wealth management.
 
-**Hybrid models** combine technology and human advisors. Vanguard Personal Advisor Services charges 0.30% and provides algorithmic portfolio management with access to human financial planners. This model serves the $100,000-$1 million segment effectively.
+**Hybrid models** combine technology and human advisors. Vanguard Personal Advisor Services charges 0.30% and provides algorithmic [portfolio management](/portfolio-management) with access to human financial planners. This model serves the $100,000-$1 million segment effectively.
 
 **Planning software** — eMoney, MoneyGuidePro, RightCapital — enables advisors to model complex scenarios involving retirement, tax, estate, and insurance planning. Clients can see real-time projections of how different decisions affect their financial outcomes.
 
 **Data aggregation** tools pull data from all of a client's accounts — brokerage, banking, 401(k), real estate — into a single dashboard. This gives both the client and advisor a complete picture, enabling better coordination.
 
-**[Artificial intelligence](/artificial-intelligence)** is beginning to assist with tax planning optimization, portfolio construction, and client communication, though the technology is still in early stages for complex wealth management scenarios.
+**[Artificial intelligence](/artificial-intelligence)** is beginning to assist with tax planning optimization, portfolio [construction](/construction), and client communication, though the technology is still in early stages for complex wealth management scenarios.
 
 ## Common Mistakes in Wealth Management
 

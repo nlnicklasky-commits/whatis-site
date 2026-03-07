@@ -5,7 +5,7 @@ description: "Medical billing is the process of submitting healthcare claims to 
 category: finance
 tags: ["medical billing", "healthcare", "insurance claims", "revenue cycle", "coding", "reimbursement", "finance"]
 heroImage: "/images/articles/medical-billing-hero.webp"
-heroAlt: "Medical billing specialist reviewing insurance claims at a computer with patient records"
+heroAlt: "Editorial photograph representing the concept of medical billing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Medical Billing?
 
-Medical billing is the process of translating healthcare services into insurance claims and following those claims through the payment cycle until the healthcare provider gets paid. It's the financial bridge between a doctor treating a patient and that doctor actually receiving money for the work.
+Medical billing is the process of translating healthcare services into [insurance](/insurance) claims and following those claims through the payment cycle until the healthcare provider gets paid. It's the financial bridge between a doctor treating a patient and that doctor actually receiving money for the work.
 
 If that sounds straightforward, it isn't. American medical billing is one of the most complex administrative systems in the world, and understanding how it works explains a lot about why healthcare costs what it does.
 
@@ -43,7 +43,7 @@ If that sounds straightforward, it isn't. American medical billing is one of the
 
 In a simple healthcare system, you'd visit a doctor, pay them, and leave. Some countries work roughly this way. The United States doesn't.
 
-In the U.S., about 92% of the population has some form of health insurance --- private, employer-sponsored, Medicare, Medicaid, or military coverage. When an insured patient receives care, the healthcare provider doesn't simply bill the patient. Instead, the provider must submit a detailed claim to the patient's insurance company, documenting exactly what was done, why it was done, and how much it should cost --- all using specific code systems that the federal government mandates.
+In the U.S., about 92% of the population has some form of [health insurance](/health-insurance) --- private, employer-sponsored, Medicare, Medicaid, or military coverage. When an insured patient receives care, the healthcare provider doesn't simply bill the patient. Instead, the provider must submit a detailed claim to the patient's insurance company, documenting exactly what was done, why it was done, and how much it should cost --- all using specific code systems that the federal [government](/government) mandates.
 
 The insurance company then reviews the claim, decides how much (if anything) to pay based on the patient's plan and the company's contract with the provider, and sends payment. Any remaining balance may go to the patient as a copay, coinsurance, or deductible amount.
 
@@ -75,7 +75,7 @@ This is where clinical language gets translated into standardized codes. Medical
 
 **ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modification)**: These codes identify diagnoses. There are over 70,000 ICD-10-CM codes. A simple example: J06.9 is "acute upper respiratory infection, unspecified" (the common cold). A fracture of the right femur shaft has its own specific code. The level of specificity is remarkable --- there are separate codes for being bitten by a parrot (W61.01) and being struck by a parrot (W61.02).
 
-**CPT (Current Procedural Terminology)**: These codes describe what the provider did. There are about 10,000 CPT codes covering medical procedures, surgeries, lab tests, and evaluation and management services. A routine office visit might be coded as 99213 or 99214, depending on complexity.
+**CPT (Current Procedural Terminology)**: These codes describe what the provider did. There are about 10,000 CPT codes covering medical procedures, surgeries, lab tests, and evaluation and [management](/management) services. A routine office visit might be coded as 99213 or 99214, depending on complexity.
 
 **HCPCS (Healthcare Common Procedure Coding System)**: These codes cover supplies, equipment, and services not included in CPT, such as ambulance services, durable medical equipment, and certain drugs.
 
@@ -156,7 +156,7 @@ The most frequent billing errors are also the most preventable:
 
 **Incorrect patient information**: Misspelled names, wrong dates of birth, outdated insurance information. Solution: verify everything at every visit.
 
-**Missing or wrong codes**: Using an expired code, omitting a required modifier, or selecting the wrong code. Solution: ongoing coder education and regular audits.
+**Missing or wrong codes**: Using an expired code, omitting a required modifier, or selecting the wrong code. Solution: ongoing coder [education](/education) and regular audits.
 
 **Unbundling**: Billing separately for procedures that should be billed together under a single code. This can look like fraud even when it's an honest mistake.
 
@@ -168,7 +168,7 @@ The most frequent billing errors are also the most preventable:
 
 Medical billing has moved almost entirely to electronic systems, driven partly by the HITECH Act of 2009 which incentivized electronic health record adoption.
 
-**Practice management systems (PMS)**: Software that handles scheduling, registration, billing, and reporting. Examples include Epic, Athenahealth, and AdvancedMD.
+**Practice management systems (PMS)**: Software that handles [scheduling](/scheduling), registration, billing, and reporting. Examples include Epic, Athenahealth, and AdvancedMD.
 
 **Electronic health records (EHR)**: Clinical documentation systems that feed directly into the billing process. When a doctor documents an office visit in the EHR, the billing codes can be suggested or partially automated.
 
@@ -200,13 +200,13 @@ Medical billing offers several career trajectories:
 
 **Billing supervisor/manager**: Oversees a billing team, manages payer relationships, handles complex denials and appeals, and monitors key performance indicators. Typically requires several years of experience plus management skills.
 
-**Revenue cycle director**: Senior leadership role overseeing the entire financial cycle of a healthcare organization. Requires deep expertise in billing, coding, compliance, and healthcare finance.
+**Revenue cycle director**: Senior [leadership](/leadership) role overseeing the entire financial cycle of a healthcare organization. Requires deep expertise in billing, coding, compliance, and healthcare finance.
 
 **Billing company owner**: Many experienced billers start their own medical billing businesses, contracting with multiple healthcare providers. The startup costs are relatively low (primarily software and training), making this an accessible entrepreneurial path.
 
 **Compliance officer**: Specializes in ensuring billing practices adhere to all applicable regulations. This role has grown significantly as enforcement has increased.
 
-The job outlook is strong. The Bureau of Labor Statistics projects 8% growth in medical records and health information specialist positions through 2032, faster than the average for all occupations. The aging population, expanding insurance coverage, and increasing complexity of billing regulations all drive demand.
+The job outlook is strong. The Bureau of Labor [Statistics](/statistics) projects 8% growth in medical records and health information specialist positions through 2032, faster than the average for all occupations. The aging population, expanding insurance coverage, and increasing complexity of billing regulations all drive demand.
 
 ## The Bigger Picture: Why Medical Billing Matters
 

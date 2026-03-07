@@ -5,7 +5,7 @@ description: "Thatching is the craft of building roofs from dried plant material
 category: everyday-concepts
 tags: ["thatching", "roofing", "craft", "traditional building", "sustainable architecture", "straw roof"]
 heroImage: "/images/articles/thatching.webp"
-heroAlt: "A charming English cottage with a thick golden thatched roof"
+heroAlt: "Editorial photograph representing the concept of thatching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Thatching is the craft of building a roof covering from dried plant materials — typically water reed, long straw, or combed wheat reed. Bundles of these materials are layered onto a roof framework and secured with hazel spars, wire, or other fixings to create a waterproof, insulating, and surprisingly durable covering.
 
-If your mental image of a thatched roof involves leaking, rotting, and general medieval discomfort, think again. A well-thatched roof can last 40 years, insulates better than most modern roofing materials, and looks gorgeous while doing it. There's a reason approximately 60,000 thatched buildings survive in England alone — and many of them are highly desirable properties.
+If your mental image of a thatched roof involves leaking, rotting, and general medieval discomfort, think again. A well-thatched roof can last 40 years, insulates better than most modern [roofing](/roofing) materials, and looks gorgeous while doing it. There's a reason approximately 60,000 thatched buildings survive in England alone — and many of them are highly desirable properties.
 
 ## How It Works
 
@@ -65,7 +65,7 @@ Through the medieval period, thatch was the default roofing material for most Eu
 
 In Britain, about 1,000 professional thatchers maintain and replace thatched roofs. Many thatched buildings are heritage-listed, meaning the thatched roof must be preserved by law. New thatched buildings are also constructed, particularly by owners who appreciate the aesthetic and insulating properties.
 
-The craft faces challenges: skilled thatchers are aging and not being replaced fast enough, quality thatching materials are becoming harder to source (modern wheat varieties are shorter than traditional ones), and some insurance companies charge premiums that discourage thatching.
+The craft faces challenges: skilled thatchers are aging and not being replaced fast enough, quality thatching materials are becoming harder to source (modern wheat varieties are shorter than traditional ones), and some [insurance](/insurance) companies charge premiums that discourage thatching.
 
 But demand is steady, and apprenticeship programs are training new thatchers. The National Society of Master Thatchers in the UK certifies practitioners and maintains quality standards.
 
@@ -79,4 +79,4 @@ In developing countries, thatch remains a primary roofing material for millions 
 
 A thatched roof is one of the most environmentally friendly roofing options available. The materials are renewable, biodegradable, locally sourced, and require minimal processing energy. The insulation performance is excellent — thatched buildings stay warm in winter and cool in summer with minimal heating or cooling.
 
-And frankly, they're beautiful. A thatched cottage has a warmth and character that no other roofing material can match. The gentle curves, the golden color of fresh thatch, the way it seems to grow organically from the building — it's no accident that thatched properties command premium prices in the UK real estate market.
+And frankly, they're beautiful. A thatched cottage has a warmth and character that no other roofing material can match. The gentle curves, the golden color of fresh thatch, the way it seems to grow organically from the building — it's no accident that thatched properties command premium prices in the UK [real estate](/real-estate) market.

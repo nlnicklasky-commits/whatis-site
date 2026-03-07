@@ -5,7 +5,7 @@ description: "GIS captures, stores, analyzes, and visualizes geographic data, tu
 category: technology
 tags: ["gis", "geographic information systems", "spatial data", "mapping", "geography", "data analysis", "cartography"]
 heroImage: "/images/articles/geographic-information-systems-gis-hero.webp"
-heroAlt: "Digital map display showing layered geographic data with roads, terrain, and population density overlays"
+heroAlt: "Editorial photograph representing the concept of geographic information systems (gis)"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -139,7 +139,7 @@ GIS has become so widespread that listing industries that don't use it would be 
 
 ### Urban Planning and Government
 
-Cities use GIS to manage zoning, plan infrastructure, route transit, analyze demographics, and respond to emergencies. During natural disasters, GIS provides real-time damage assessment, evacuation routing, and resource allocation. After Hurricane Katrina, GIS was critical for coordinating rescue operations across a devastated region where traditional communications had failed.
+Cities use GIS to manage zoning, plan infrastructure, route transit, analyze demographics, and respond to emergencies. During [natural disasters](/natural-disasters), GIS provides real-time damage assessment, evacuation routing, and resource allocation. After Hurricane Katrina, GIS was critical for coordinating rescue operations across a devastated region where traditional communications had failed.
 
 ### Environmental Science
 

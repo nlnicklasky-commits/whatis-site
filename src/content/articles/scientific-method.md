@@ -5,7 +5,7 @@ description: "The scientific method is a systematic process for investigating th
 category: science
 tags: ["scientific method", "science", "research", "hypothesis", "experiment", "observation", "empirical"]
 heroImage: "/images/articles/scientific-method-hero.webp"
-heroAlt: "Laboratory setting with notebook, test tubes, and data charts representing the scientific method process"
+heroAlt: "Editorial photograph representing the concept of scientific method"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -145,9 +145,9 @@ Statistics is the language of scientific evidence. Key concepts include:
 
 **Effect size** tells you how big the observed effect is—something p-values alone don't convey. A drug that lowers blood pressure by 0.5 mmHg might achieve statistical significance with a large enough sample, but the effect is clinically meaningless. Always look at both statistical significance and practical significance.
 
-### Data Visualization
+### [Data Visualization](/data-visualization)
 
-Graphs, charts, and figures aren't just for presentations—they're analytical tools. A well-constructed scatter plot can reveal patterns, outliers, and relationships that raw numbers hide. Edward Tufte's work on data visualization has influenced how scientists present data, emphasizing clarity, accuracy, and information density. [Algorithms](/algorithms) for data visualization and pattern recognition are increasingly used to extract insights from large datasets.
+Graphs, charts, and figures aren't just for presentations—they're analytical tools. A well-constructed scatter plot can reveal patterns, outliers, and relationships that raw numbers hide. Edward Tufte's work on data visualization has influenced how scientists present data, emphasizing clarity, accuracy, and information density. [Algorithms](/algorithms) for data visualization and [pattern recognition](/pattern-recognition) are increasingly used to extract insights from large datasets.
 
 ## Peer Review: Science's Quality Control
 
@@ -219,11 +219,11 @@ Astronomy, ecology, and geology largely rely on observation rather than manipula
 
 ### Historical Sciences
 
-Paleontology, archaeology, and evolutionary biology reconstruct the past from fragmentary evidence. The scientific method here involves generating hypotheses about past events and testing them against the evidence preserved in fossils, artifacts, DNA, and geological formations. Predictions in historical science are "retrodictions"—predictions about what evidence you should find if your hypothesis is correct.
+Paleontology, archaeology, and [evolutionary biology](/evolutionary-biology) reconstruct the past from fragmentary evidence. The scientific method here involves generating hypotheses about past events and testing them against the evidence preserved in fossils, artifacts, DNA, and geological formations. Predictions in historical science are "retrodictions"—predictions about what evidence you should find if your hypothesis is correct.
 
 ### Computational and Theoretical Sciences
 
-Some science happens entirely in computers or on paper. Theoretical physics derives predictions from mathematical frameworks. Computational biology simulates molecular processes. Climate science models planetary systems. These fields test hypotheses against observations made by others, and their predictions are tested when new empirical data becomes available. [Algorithms](/algorithms) and computational methods have become essential tools for testing hypotheses in fields where the data is too complex for manual analysis.
+Some science happens entirely in computers or on paper. [Theoretical physics](/theoretical-physics) derives predictions from mathematical frameworks. [Computational biology](/computational-biology) simulates molecular processes. Climate science models planetary systems. These fields test hypotheses against observations made by others, and their predictions are tested when new empirical data becomes available. [Algorithms](/algorithms) and computational methods have become essential tools for testing hypotheses in fields where the data is too complex for manual analysis.
 
 ## Why It Matters
 

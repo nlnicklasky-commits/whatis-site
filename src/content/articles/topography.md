@@ -5,7 +5,7 @@ description: "Topography is the study and mapping of Earth's surface features, i
 category: science
 tags: ["topography", "geography", "mapping", "terrain"]
 heroImage: "/images/articles/topography.webp"
-heroAlt: "Colorful topographic map showing elevation contour lines across a mountain range"
+heroAlt: "Editorial photograph representing the concept of topography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -116,14 +116,14 @@ Paper maps are beautiful but limited. Digital Elevation Models (DEMs) represent 
 
 Give a computer scientist a DEM and they can calculate:
 
-- **Slope** at every point (critical for erosion modeling, construction, and [agriculture](/agriculture))
+- **Slope** at every point (critical for erosion modeling, [construction](/construction), and [agriculture](/agriculture))
 - **Aspect** — which direction each slope faces (matters for solar energy, vegetation patterns, and snowmelt)
 - **Drainage networks** — where water will flow and accumulate
 - **Viewsheds** — what's visible from any given point (used in telecommunications, military planning, and scenic protection)
 - **Volume calculations** — how much earth needs to be moved for a construction project
 - **Flood inundation** — which areas will be underwater at different water levels
 
-These calculations happen in Geographic Information Systems (GIS), software platforms that analyze and visualize spatial data. A flood modeler, for example, can combine a high-resolution DEM with rainfall data and river flow measurements to predict exactly which buildings and roads will flood during a 100-year storm event. Insurance companies, emergency managers, and urban planners all depend on this kind of analysis.
+These calculations happen in Geographic [Information Systems](/information-systems) (GIS), software platforms that analyze and visualize spatial data. A flood modeler, for example, can combine a high-resolution DEM with rainfall data and river flow measurements to predict exactly which buildings and roads will flood during a 100-year storm event. [Insurance](/insurance) companies, emergency managers, and urban planners all depend on this kind of analysis.
 
 ### Resolution Matters
 
@@ -173,7 +173,7 @@ Modern flood management uses high-resolution topographic data to designate flood
 
 ## Military Topography: Terrain as Weapon and Shield
 
-Topography has shaped military strategy since armies first took the field. High ground provides observation and fields of fire. Ridges and defiles channel movement. Rivers and mountains create natural barriers.
+Topography has shaped [military strategy](/military-strategy) since armies first took the field. High ground provides observation and fields of fire. Ridges and defiles channel movement. Rivers and mountains create natural barriers.
 
 The Battle of Gettysburg (1863) was largely a fight over topographic features — Cemetery Ridge, Little Round Top, and Devil's Den. The Union army's position on higher ground gave them a decisive advantage that contributed to a Confederate defeat considered the turning point of the American Civil War.
 
@@ -181,11 +181,11 @@ Modern militaries invest heavily in topographic intelligence. Terrain analysis �
 
 ## Undersea Topography: Bathymetry
 
-Topography doesn't stop at the waterline. The shape of the ocean floor — called bathymetry — is measured using sonar (sound navigation and ranging) rather than light or radar. Ships emit sound pulses and measure the time it takes for echoes to return from the seafloor.
+Topography doesn't stop at the waterline. The shape of the ocean floor — called bathymetry — is measured using sonar (sound [navigation](/navigation) and ranging) rather than light or radar. Ships emit sound pulses and measure the time it takes for echoes to return from the seafloor.
 
 What we've found is staggering. The Mid-Atlantic Ridge runs 10,000 miles down the center of the Atlantic Ocean. The Mariana Trench plunges to 36,000 feet — deeper than Everest is tall. Submarine canyons rival the Grand Canyon in scale. And we've only mapped about 25% of the ocean floor at high resolution. We literally know the topography of Mars better than we know the bottom of our own oceans.
 
-Bathymetric data matters for submarine navigation, cable and pipeline routing, fisheries management, tsunami modeling, and understanding plate tectonics. The Seabed 2030 project, a collaboration under the United Nations, aims to map the entire ocean floor by — you guessed it — 2030.
+Bathymetric data matters for submarine navigation, cable and pipeline routing, fisheries management, tsunami modeling, and understanding [plate tectonics](/plate-tectonics). The Seabed 2030 project, a collaboration under the United Nations, aims to map the entire ocean floor by — you guessed it — 2030.
 
 ## The Future of Topographic Science
 

@@ -5,7 +5,7 @@ description: "Byzantine history covers the Eastern Roman Empire from 330 to 1453
 category: history
 tags: ["byzantine history", "eastern roman empire", "constantinople", "orthodox christianity"]
 heroImage: "/images/articles/byzantine-history.webp"
-heroAlt: "Interior of the Hagia Sophia showing golden mosaics and massive dome architecture"
+heroAlt: "Editorial photograph representing the concept of byzantine history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Constantinople fell to the Ottoman Turks under Sultan Mehmed II on May 29, 1453, after a 53-day siege. The Ottomans used massive cannons to breach the legendary walls. The last emperor, Constantine XI, reportedly died fighting on the walls."
 ---
 
-Byzantine history is the story of the Eastern Roman Empire — a civilization that lasted over 1,100 years, from the founding of Constantinople in 330 CE to its fall in 1453. It was the longest-surviving empire in European history, and it preserved, transformed, and transmitted classical knowledge while Western Europe stumbled through its so-called "Dark Ages."
+Byzantine history is the story of the Eastern Roman Empire — a civilization that lasted over 1,100 years, from the founding of Constantinople in 330 CE to its fall in 1453. It was the longest-surviving empire in [European history](/european-history), and it preserved, transformed, and transmitted classical knowledge while Western Europe stumbled through its so-called "Dark Ages."
 
 Here's the strange part: the Byzantines never called themselves "Byzantine." They called themselves Romans. The term "Byzantine" was invented by German historians in the 16th century, long after the empire ceased to exist. The people of Constantinople would have had no idea what you were talking about.
 
@@ -45,7 +45,7 @@ The location was brilliant. Constantinople sat on a peninsula where Europe meets
 
 When the Western Roman Empire collapsed in 476 CE — overrun by Germanic tribes, hollowed out by economic decline — the Eastern half kept going. And going. And going. For nearly a thousand more years.
 
-Why? Constantinople's walls were virtually impenetrable for most of medieval history. The empire maintained a professional, well-organized military when Western Europe relied on feudal levies. Its bureaucracy, inherited from Rome and refined over centuries, provided administrative continuity that other medieval states couldn't match. And its economy, fueled by control of Mediterranean and Black Sea trade, generated the wealth needed to sustain all of this.
+Why? Constantinople's walls were virtually impenetrable for most of [medieval history](/medieval-history). The empire maintained a professional, well-organized military when Western Europe relied on feudal levies. Its bureaucracy, inherited from Rome and refined over centuries, provided administrative continuity that other medieval states couldn't match. And its economy, fueled by control of Mediterranean and Black Sea trade, generated the wealth needed to sustain all of this.
 
 ## The Age of Justinian
 
@@ -55,11 +55,11 @@ His general Belisarius reconquered North Africa from the Vandals, Italy from the
 
 Justinian's more lasting achievements were cultural and legal. He commissioned the Hagia Sophia, completed in 537 CE — a building so architecturally audacious that it remained the world's largest cathedral for nearly a thousand years. Its massive dome seemed to float above the interior, and contemporaries described it as heaven brought to earth.
 
-Even more significant was Justinian's codification of Roman law. The Corpus Juris Civilis organized centuries of Roman legal precedent into a systematic code. This work preserved Roman legal thinking and later became the foundation for civil law systems across continental Europe. If you've ever studied [contract law](/contract-law) or property law in a civil law country, you're studying Justinian's legacy.
+Even more significant was Justinian's codification of Roman law. The Corpus Juris Civilis organized centuries of Roman legal precedent into a systematic code. This work preserved Roman legal thinking and later became the foundation for [civil law](/civil-law) systems across continental Europe. If you've ever studied [contract law](/contract-law) or [property law](/property-law) in a civil law country, you're studying Justinian's legacy.
 
 ## Religion, Art, and Identity
 
-You cannot understand Byzantine civilization without understanding Orthodox Christianity. Religion wasn't a private matter or a weekend activity — it permeated everything. Politics, art, education, daily life, foreign relations — all were shaped by religious belief and institutional church power.
+You cannot understand Byzantine civilization without understanding Orthodox Christianity. Religion wasn't a private matter or a weekend activity — it permeated everything. Politics, art, [education](/education), daily life, foreign relations — all were shaped by religious belief and institutional church power.
 
 The iconoclast controversy (726–843 CE) demonstrates this perfectly. For over a century, the empire tore itself apart over a seemingly simple question: should Christians use religious images (icons) in worship? Iconoclasts said no — icons were idol worship. Iconophiles said yes — images were a legitimate way to honor the divine. Emperors, patriarchs, monks, and ordinary citizens fought bitterly over this question. Thousands died. The eventual victory of the iconophiles shaped Orthodox Christian practice permanently.
 
@@ -67,7 +67,7 @@ Byzantine art developed its own distinctive style — golden mosaics, stylized f
 
 The Great Schism of 1054 formally split Christianity into Roman Catholic and Eastern Orthodox branches. The causes were complex — theological disagreements about the Holy Spirit, disputes over papal authority, and cultural differences between Latin West and Greek East. The split remains in effect today, and it fundamentally shaped European [religion](/comparative-religion) and politics for the next millennium.
 
-## Diplomacy, Espionage, and Survival
+## [Diplomacy](/diplomacy), Espionage, and Survival
 
 The Byzantines were perhaps the greatest diplomats of the medieval world. Surrounded by enemies — Persians, Arabs, Bulgars, Rus, Normans, Turks — they survived through a combination of military strength, strategic marriage alliances, bribery, espionage, and playing enemies against each other.
 

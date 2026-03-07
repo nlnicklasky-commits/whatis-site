@@ -5,7 +5,7 @@ description: "Game theory is the mathematical study of strategic decision-making
 category: everyday-concepts
 tags: ["game theory", "mathematics", "strategy", "economics", "decision making", "Nash equilibrium"]
 heroImage: "/images/articles/game-theory.webp"
-heroAlt: "Chess pieces on a board representing strategic decision-making"
+heroAlt: "Editorial photograph representing the concept of game theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Game Theory?
 
-Game theory is the mathematical study of strategic interactions — situations where your best choice depends on what others choose, and their best choice depends on what you choose. It's not about board games or video games (though it can analyze those). It's about any scenario where multiple decision-makers affect each other's outcomes: business competition, international diplomacy, evolutionary biology, poker, traffic, and even how you split a restaurant bill.
+Game theory is the mathematical study of strategic interactions — situations where your best choice depends on what others choose, and their best choice depends on what you choose. It's not about [board games](/board-games) or video games (though it can analyze those). It's about any scenario where multiple decision-makers affect each other's outcomes: business competition, international diplomacy, [evolutionary biology](/evolutionary-biology), poker, traffic, and even how you split a restaurant bill.
 
 ## The Basic Setup
 
@@ -75,15 +75,15 @@ Nash proved that every finite game has at least one equilibrium (possibly involv
 
 ## Real-World Applications
 
-**Auction design** is game theory's biggest practical success. The FCC's spectrum auctions, designed by game theorists, allocated radio frequencies to telecommunications companies using a simultaneous ascending auction format that generated over $100 billion in government revenue. The 2020 Nobel Prize in Economics went to Paul Milgrom and Robert Wilson for their work on auction theory.
+**Auction design** is game theory's biggest practical success. The FCC's spectrum auctions, designed by game theorists, allocated radio frequencies to telecommunications companies using a simultaneous ascending auction format that generated over $100 billion in [government](/government) revenue. The 2020 Nobel Prize in Economics went to Paul Milgrom and Robert Wilson for their work on auction theory.
 
-**Evolutionary biology** uses game theory to explain animal behavior. The hawk-dove game models conflict between aggressive (hawk) and peaceful (dove) strategies. John Maynard Smith's evolutionary stable strategy (ESS) concept explains why animal populations maintain a mix of aggressive and peaceful behavior.
+**Evolutionary biology** uses game theory to explain [animal behavior](/animal-behavior). The hawk-dove game models conflict between aggressive (hawk) and peaceful (dove) strategies. John Maynard Smith's evolutionary stable strategy (ESS) concept explains why animal populations maintain a mix of aggressive and peaceful behavior.
 
-**Business strategy** applies game theory to pricing, market entry, product positioning, and negotiation. When should you match a competitor's price cut? When should you enter a market with an established incumbent? Game theory provides frameworks for these decisions.
+**[Business strategy](/business-strategy)** applies game theory to pricing, market entry, product positioning, and [negotiation](/negotiation). When should you match a competitor's price cut? When should you enter a market with an established incumbent? Game theory provides frameworks for these decisions.
 
 **Mechanism design** (sometimes called "reverse game theory") designs the rules of a game to achieve desired outcomes. How do you design a voting system that resists manipulation? How do you structure an auction to maximize revenue? How do you create a matching market (like the medical residency match) that produces stable outcomes?
 
-**International relations** uses game theory to analyze nuclear deterrence, trade negotiations, alliance formation, and conflict resolution. The Cold War doctrine of Mutual Assured Destruction (MAD) is essentially a game theory argument — if both sides know nuclear war destroys both, neither initiates it.
+**[International relations](/international-relations)** uses game theory to analyze nuclear deterrence, trade negotiations, alliance formation, and [conflict resolution](/conflict-resolution). The Cold War doctrine of Mutual Assured Destruction (MAD) is essentially a game theory argument — if both sides know nuclear war destroys both, neither initiates it.
 
 ## Limitations
 
@@ -93,4 +93,4 @@ Behavioral game theory, developed by researchers like Daniel Kahneman, addresses
 
 The assumption of common knowledge — that all players know the rules, know that others know, and so on — is also unrealistic. Real strategic situations involve uncertainty, incomplete information, and deception.
 
-Despite these limitations, game theory remains the most powerful framework for analyzing strategic interaction. Its insights — from the prisoner's dilemma to Nash equilibrium to mechanism design — have shaped economics, political science, biology, and computer science in fundamental ways. Understanding game theory changes how you see every competitive and cooperative situation you encounter.
+Despite these limitations, game theory remains the most powerful framework for analyzing strategic interaction. Its insights — from the prisoner's dilemma to Nash equilibrium to mechanism design — have shaped economics, [political science](/political-science), biology, and [computer science](/computer-science) in fundamental ways. Understanding game theory changes how you see every competitive and cooperative situation you encounter.

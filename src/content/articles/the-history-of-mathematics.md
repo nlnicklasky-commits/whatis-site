@@ -5,7 +5,7 @@ description: "The history of mathematics spans from ancient counting systems to 
 category: history
 tags: ["history of mathematics", "mathematics", "geometry", "algebra", "calculus"]
 heroImage: "/images/articles/the-history-of-mathematics.webp"
-heroAlt: "Ancient clay tablet with cuneiform numerals beside a modern blackboard covered in equations"
+heroAlt: "Editorial photograph representing the concept of the history of mathematics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,7 +61,7 @@ The Greeks changed everything. Not because they calculated better than the Babyl
 
 But the Pythagoreans hit a crisis. They discovered that the diagonal of a unit square — the square root of 2 — cannot be expressed as a ratio of whole numbers. It's **irrational**. According to legend, the guy who proved this (Hippasus) was drowned at sea for revealing the secret. The story is probably false, but the mathematical crisis was real. It shook the Pythagorean worldview to its foundations.
 
-**Euclid** (c. 300 BCE) wrote the *Elements*, arguably the most influential textbook in history. In 13 books, he organized virtually all known Greek geometry and number theory into a deductive system starting from five postulates. The *Elements* remained the standard geometry text for over 2,000 years — Abraham Lincoln taught himself to reason by reading it.
+**Euclid** (c. 300 BCE) wrote the *Elements*, arguably the most influential textbook in history. In 13 books, he organized virtually all known Greek geometry and [number theory](/number-theory) into a deductive system starting from five postulates. The *Elements* remained the standard geometry text for over 2,000 years — Abraham Lincoln taught himself to reason by reading it.
 
 **Archimedes** (c. 287–212 BCE) was possibly the greatest mathematician of antiquity. He calculated pi to remarkable accuracy, determined the areas and volumes of curved figures using methods that anticipate calculus, and reportedly was killed by a Roman soldier while working on a geometry problem during the siege of Syracuse.
 
@@ -71,7 +71,7 @@ Indian mathematics deserves far more recognition than it typically gets in Weste
 
 Indian mathematicians invented **zero** — both as a placeholder and as a number in its own right. **Brahmagupta** (598–668 CE) wrote rules for arithmetic with zero and negative numbers in his *Brahmasphutasiddhanta*. He even defined 0/0 as 0, which is wrong, but the fact that he was asking the question at all was remarkable.
 
-**Aryabhata** (476–550 CE) calculated pi to four decimal places and developed sine tables fundamental to trigonometry. The decimal place-value system — the way we write numbers today — is an Indian invention, later transmitted to Europe through Arabic mathematicians (which is why we misleadingly call them "Arabic numerals").
+**Aryabhata** (476–550 CE) calculated pi to four decimal places and developed sine tables fundamental to [trigonometry](/trigonometry). The decimal place-value system — the way we write numbers today — is an Indian invention, later transmitted to Europe through Arabic mathematicians (which is why we misleadingly call them "Arabic numerals").
 
 Chinese mathematics developed along its own path. The *Nine Chapters on the Mathematical Art* (c. 200 BCE–200 CE) covered everything from calculating field areas to solving systems of linear equations using methods equivalent to Gaussian elimination — about 1,800 years before Gauss. **Liu Hui** (3rd century CE) used a method of successive approximation to calculate pi to five decimal places.
 
@@ -103,7 +103,7 @@ The 18th century saw **Leonhard Euler** become the most prolific mathematician i
 
 Mathematics in the 1800s underwent a radical shift from calculation to abstraction.
 
-**Carl Friedrich Gauss** contributed to virtually every branch of mathematics. **Evariste Galois**, killed in a duel at age 20, left behind work that founded group theory — a framework for understanding symmetry that now underpins modern physics. **Bernhard Riemann** reimagined geometry in higher dimensions, creating the mathematical framework Einstein would later need for general relativity.
+**Carl Friedrich Gauss** contributed to virtually every branch of mathematics. **Evariste Galois**, killed in a duel at age 20, left behind work that founded [group theory](/group-theory) — a framework for understanding symmetry that now underpins modern physics. **Bernhard Riemann** reimagined geometry in higher dimensions, creating the mathematical framework Einstein would later need for [general relativity](/general-relativity).
 
 **Georg Cantor** blew everyone's minds by proving that infinity comes in different sizes. The set of real numbers is "bigger" (in a precise sense) than the set of natural numbers, even though both are infinite. Many of his contemporaries hated this idea. Henri Poincare called it a "disease." Leopold Kronecker called Cantor a "corrupter of youth." Cantor suffered severe depression and died in a sanatorium.
 
@@ -111,7 +111,7 @@ Mathematics in the 1800s underwent a radical shift from calculation to abstracti
 
 The 1900s began with David Hilbert posing 23 unsolved problems that shaped the century's research agenda. Then Godel's incompleteness theorems (1931) proved that mathematics would always contain true statements it couldn't prove — a result that's still philosophically unsettling.
 
-The rise of computers created entirely new branches: computational complexity theory, cryptography based on number theory, machine learning built on statistics and linear algebra. Mathematics became the invisible infrastructure of modern technology. Every time you send an encrypted message, stream a video, or use GPS, you're relying on mathematical ideas that often took centuries to develop.
+The rise of computers created entirely new branches: computational [complexity theory](/complexity-theory), [cryptography](/cryptography) based on number theory, [machine learning](/machine-learning) built on statistics and [linear algebra](/linear-algebra). Mathematics became the invisible infrastructure of modern technology. Every time you send an encrypted message, stream a video, or use GPS, you're relying on mathematical ideas that often took centuries to develop.
 
 Seven "Millennium Prize Problems" remain, each worth $1 million for a solution. Only one — the Poincare conjecture — has been solved (by Grigori Perelman in 2003, who declined both the prize money and the Fields Medal). The Riemann Hypothesis, perhaps the most important unsolved problem in mathematics, has resisted all efforts since 1859.
 

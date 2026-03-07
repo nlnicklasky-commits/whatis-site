@@ -5,7 +5,7 @@ description: "Poultry farming is the raising of domesticated birds like chickens
 category: science
 tags: ["poultry farming", "agriculture", "chicken farming", "egg production", "meat production", "livestock", "animal husbandry"]
 heroImage: "/images/articles/poultry-farming-hero.webp"
-heroAlt: "Free-range chickens foraging outdoors on a poultry farm with a coop in the background"
+heroAlt: "Editorial photograph representing the concept of poultry farming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -73,7 +73,7 @@ The feed conversion ratio — how efficiently an animal converts feed into body 
 
 At market weight, birds are caught (typically at night when they're calmer, either by hand crews or automated catching machines), loaded into transport crates, and trucked to processing plants. There, they're slaughtered, plucked, eviscerated, inspected, chilled, and cut into the parts you see at the grocery store — all within a few hours.
 
-Modern poultry processing plants handle 140-175 birds per minute per line. The largest plants process over 1 million birds per week. The speed is both an engineering achievement and a source of controversy, as line speeds affect worker safety and animal welfare.
+Modern poultry processing plants handle 140-175 birds per minute per line. The largest plants process over 1 million birds per week. The speed is both an [engineering](/engineering) achievement and a source of controversy, as line speeds affect worker safety and animal welfare.
 
 ## Egg Production: 300 Eggs Per Hen Per Year
 
@@ -113,7 +113,7 @@ Feed formulation is a [science](/food-science) in itself. Nutritionists balance 
 
 Soybean meal — the protein backbone of poultry feed — links poultry production to deforestation in South America, where soybean cultivation has expanded into previously forested land. This is one of the more uncomfortable environmental connections in the poultry supply chain, and it's driving interest in alternative protein sources: insect meal, algae, single-cell proteins, and locally sourced ingredients.
 
-## Health and Disease Management
+## Health and Disease [Management](/management)
 
 Keeping tens of thousands of genetically similar birds in close proximity creates ideal conditions for disease transmission. Disease management is one of the most critical — and controversial — aspects of poultry farming.
 
@@ -125,7 +125,7 @@ Keeping tens of thousands of genetically similar birds in close proximity create
 
 ### The Antibiotic Debate
 
-Antibiotics in poultry production have become a major public health concern. Historically, antibiotics were used in three ways: therapeutically (treating sick birds), prophylactically (preventing disease in flocks at risk), and as growth promoters (sub-therapeutic doses that improve feed efficiency).
+Antibiotics in poultry production have become a major [public health](/public-health) concern. Historically, antibiotics were used in three ways: therapeutically (treating sick birds), prophylactically (preventing disease in flocks at risk), and as growth promoters (sub-therapeutic doses that improve feed efficiency).
 
 The use of antibiotics as growth promoters has been banned in the EU since 2006 and effectively eliminated in U.S. poultry production as of 2017, when the FDA ended the use of medically important antibiotics for growth promotion. The concern is that routine antibiotic use in livestock contributes to antibiotic resistance — creating "superbugs" that threaten human medicine.
 
@@ -195,7 +195,7 @@ The poultry industry is evolving under pressure from multiple directions: consum
 
 **Slower-growing broiler breeds** are gaining market share in Europe and beginning to appear in the U.S. These birds take 56-63 days to reach market weight instead of 47, but they have better welfare outcomes — fewer leg problems, lower mortality, and more natural behavior.
 
-**Precision livestock farming** uses sensors, cameras, and AI to monitor bird health, behavior, and environmental conditions in real time. Early disease detection, automated welfare assessment, and optimized climate control are becoming practical.
+**Precision [livestock farming](/livestock-farming)** uses sensors, cameras, and AI to monitor bird health, behavior, and environmental conditions in real time. Early disease detection, automated welfare assessment, and optimized climate control are becoming practical.
 
 **Alternative proteins** — plant-based chicken substitutes and cultivated (cell-cultured) meat — are direct competitors. While market penetration remains small, the trajectory is clear: consumers increasingly want protein without the welfare and environmental baggage of conventional production.
 
@@ -207,4 +207,4 @@ Poultry farming feeds billions of people the most affordable, accessible animal 
 
 But the scale and intensity of modern poultry production create real problems — animal welfare compromises, environmental pollution, disease risks, and worker safety concerns — that can't be dismissed. The challenge isn't to eliminate poultry farming but to reform it: producing protein that's safe, affordable, and produced with acceptable welfare and environmental standards.
 
-That's a harder problem than either industry boosters or industry critics usually acknowledge. But it's the problem we've got, and solving it matters for both human nutrition and the billions of birds whose lives are shaped entirely by the system we've built around them.
+That's a harder problem than either industry boosters or industry critics usually acknowledge. But it's the problem we've got, and solving it matters for both [human nutrition](/human-nutrition) and the billions of birds whose lives are shaped entirely by the system we've built around them.

@@ -5,7 +5,7 @@ description: "Maori culture is the indigenous culture of New Zealand, known for 
 category: arts-amp-culture
 tags: ["maori culture", "New Zealand", "indigenous culture", "haka", "Te Reo Maori", "Polynesian"]
 heroImage: "/images/articles/maori-culture.webp"
-heroAlt: "Traditional Maori carved meeting house with intricate wood carvings and red paint"
+heroAlt: "Editorial photograph representing the concept of maori culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,27 +33,27 @@ faq:
 
 Maori culture is the indigenous culture of Aotearoa — New Zealand. The Maori are Polynesian people who arrived in New Zealand by ocean-going canoes (waka) roughly 700-800 years ago, making them among the last major populations to settle an uninhabited landmass. In the centuries before European contact, they developed a rich, complex society built around kinship, oral tradition, warfare, art, and an extraordinarily deep relationship with the natural world.
 
-Today, Maori culture isn't a museum piece. It's a living, evolving presence in New Zealand life — from government and law to sports, music, art, and daily language. About 17% of New Zealand's population identifies as Maori, and their cultural influence extends far beyond that number.
+Today, Maori culture isn't a museum piece. It's a living, evolving presence in New Zealand life — from [government](/government) and law to sports, music, art, and daily language. About 17% of New Zealand's population identifies as Maori, and their cultural influence extends far beyond that number.
 
 ## The Arrival
 
-Polynesian navigators reached New Zealand sometime between 1250 and 1300 CE, traveling from eastern Polynesia (likely the Cook Islands or Society Islands) in double-hulled sailing canoes. These weren't accidental driftings — they were deliberate voyages of discovery, guided by star navigation, ocean currents, cloud patterns, and bird flight.
+Polynesian navigators reached New Zealand sometime between 1250 and 1300 CE, traveling from eastern Polynesia (likely the Cook Islands or Society Islands) in double-hulled sailing canoes. These weren't accidental driftings — they were deliberate [voyages of discovery](/voyages-of-discovery), guided by star [navigation](/navigation), ocean currents, cloud patterns, and bird flight.
 
-The voyagers found a landmass unlike anything in Polynesia — temperate rather than tropical, enormous, teeming with flightless birds (including the giant moa), and with no native land mammals except bats. Adapting their tropical Polynesian culture to this new environment shaped everything about Maori society.
+The voyagers found a landmass unlike anything in Polynesia — temperate rather than tropical, enormous, teeming with flightless birds (including the giant moa), and with no native land mammals except bats. Adapting their tropical [Polynesian culture](/polynesian-culture) to this new environment shaped everything about Maori society.
 
 ## Core Concepts
 
 Several foundational concepts run through Maori culture:
 
-**Whakapapa** (genealogy) is central to Maori identity. It traces lineage back through ancestors to the gods and the land itself. When Maori introduce themselves formally, they name their mountain, river, canoe (the ancestral vessel that brought their forebears), tribe (iwi), sub-tribe (hapu), and family. You are defined by your connections, not just your individual self.
+**Whakapapa** ([genealogy](/genealogy)) is central to Maori identity. It traces lineage back through ancestors to the gods and the land itself. When Maori introduce themselves formally, they name their mountain, river, canoe (the ancestral vessel that brought their forebears), tribe (iwi), sub-tribe (hapu), and family. You are defined by your connections, not just your individual self.
 
 **Mana** is spiritual authority, power, and prestige — both inherited and earned. Individuals, families, tribes, and even objects can have mana. It increases through achievement and righteous action and diminishes through failure or dishonorable behavior.
 
 **Tapu** (the origin of the English word "taboo") refers to sacredness and restriction. Certain places, objects, people, and activities are tapu — set apart, not to be treated casually. The head, for instance, is considered tapu, which is why traditional greeting involves pressing noses (hongi) rather than touching heads.
 
-**Utu** is reciprocity — the obligation to return both gifts and offenses in kind. It governed trade, diplomacy, and warfare. An injury demanded response; a gift demanded a gift in return. Utu wasn't revenge so much as balance.
+**Utu** is reciprocity — the obligation to return both gifts and offenses in kind. It governed trade, [diplomacy](/diplomacy), and warfare. An injury demanded response; a gift demanded a gift in return. Utu wasn't revenge so much as balance.
 
-**Kaitiakitanga** is guardianship of the natural world. Maori see themselves not as owners of the land but as its caretakers, with obligations to protect and sustain it for future generations. This concept has influenced New Zealand environmental law — in 2017, the Whanganui River was granted legal personhood, with Maori and government co-guardians.
+**Kaitiakitanga** is guardianship of the natural world. Maori see themselves not as owners of the land but as its caretakers, with obligations to protect and sustain it for future generations. This concept has influenced New Zealand [environmental law](/environmental-law) — in 2017, the Whanganui River was granted legal personhood, with Maori and government co-guardians.
 
 ## The Arts
 
@@ -63,7 +63,7 @@ Maori art is among the most visually striking of any indigenous culture:
 
 **Ta moko** (tattooing) marks identity directly on the body. Traditional moko uses chisels to carve grooves in the skin, producing raised, textured designs quite different from flat needle tattoos. Facial moko for men (moko kauae for women, on the chin) tells genealogical and personal history.
 
-**Kapa haka** (performance art) combines song, dance, chanting, and physical movement. The haka is the most famous element, but kapa haka also includes waiata (songs), poi (swinging weighted balls), and various action songs. National kapa haka competitions draw thousands of performers and are major cultural events.
+**Kapa haka** ([performance art](/performance-art)) combines song, dance, chanting, and physical movement. The haka is the most famous element, but kapa haka also includes waiata (songs), poi (swinging weighted balls), and various action songs. National kapa haka competitions draw thousands of performers and are major cultural events.
 
 **Raranga** (weaving) produces cloaks, baskets, mats, and other items from flax (harakeke) and other natural fibers. The most prestigious cloaks — korowai and kahu huruhuru (feather cloaks) — are treasures worn on significant occasions.
 
@@ -85,6 +85,6 @@ The Waitangi Tribunal, established in 1975, investigates historical Treaty griev
 
 Contemporary Maori culture blends tradition with modernity in ways that defy simple categorization. Maori artists, musicians, filmmakers, and writers are prominent in New Zealand's cultural life. Taika Waititi (director of *Jojo Rabbit* and *Thor: Ragnarok*) is of Maori descent. The All Blacks' pre-match haka is probably the most-watched cultural performance in world sport.
 
-Political representation has grown — Maori hold reserved seats in Parliament, and Maori perspectives increasingly influence policy on environmental management, education, health, and justice.
+Political representation has grown — Maori hold reserved seats in Parliament, and Maori perspectives increasingly influence policy on environmental [management](/management), [education](/education), health, and justice.
 
 The culture isn't static. It's adapting, growing, and asserting itself in a modern nation while maintaining connections to values and practices that are centuries old. That combination of rootedness and evolution is, frankly, something many cultures aspire to but few achieve as successfully.

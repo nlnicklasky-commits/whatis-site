@@ -5,7 +5,7 @@ description: "Clowning is a performance art centered on comedy, physical humor, 
 category: arts-amp-culture
 tags: ["clowning", "circus arts", "comedy", "physical comedy", "mime", "performance art"]
 heroImage: "/images/articles/clowning.webp"
-heroAlt: "A theatrical clown performing an exaggerated expression on a brightly lit stage"
+heroAlt: "Editorial photograph representing the concept of clowning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Clowning?
 
-Clowning is a performance art built around [comedy](/comedy), physical humor, exaggeration, and direct audience connection. A clown uses costume, makeup, movement, and timing to create laughter — often by playing a character who fails spectacularly at ordinary tasks or sees the world in a wonderfully skewed way.
+Clowning is a [performance art](/performance-art) built around [comedy](/comedy), physical humor, exaggeration, and direct audience connection. A clown uses costume, makeup, movement, and timing to create laughter — often by playing a character who fails spectacularly at ordinary tasks or sees the world in a wonderfully skewed way.
 
 ## Older Than You Think
 
 Clowning didn't start with the circus. Not even close.
 
-Court jesters entertained European monarchs as far back as the Middle Ages, using wit and physical comedy to amuse (and sometimes subtly criticize) their patrons. Ancient Egyptian pharaohs kept pygmy clowns. Roman theater featured stock comic characters called "stupidus" who bumbled through scenes for laughs.
+Court jesters entertained European monarchs as far back as the Middle Ages, using wit and [physical comedy](/physical-comedy) to amuse (and sometimes subtly criticize) their patrons. Ancient Egyptian pharaohs kept pygmy clowns. Roman theater featured stock comic characters called "stupidus" who bumbled through scenes for laughs.
 
 The commedia dell'arte tradition in 16th-century Italy created character archetypes that directly influenced modern clowning. Arlecchino (Harlequin) was the clever trickster. Pulcinella was the scheming fool. These masked performers improvised physical comedy in public squares, and their influence runs through every clown who's ever tripped over their own shoes.
 
@@ -59,11 +59,11 @@ The **Tramp** (or Hobo) is the philosophical outsider. Charlie Chaplin's Little 
 
 If your mental image of clowning involves balloon animals at birthday parties, you're seeing only a tiny slice of the art form.
 
-Contemporary clowning has expanded dramatically. Hospital clown programs — like the Big Apple Circus Clown Care Unit, founded in 1986 — send trained performers into children's hospitals. Research published in the *Journal of Health Psychology* has shown that clown visits can reduce preoperative anxiety in children by up to 50%.
+Contemporary clowning has expanded dramatically. Hospital clown programs — like the Big Apple Circus Clown Care Unit, founded in 1986 — send trained performers into children's hospitals. Research published in the *Journal of Health [Psychology](/psychology)* has shown that clown visits can reduce preoperative anxiety in children by up to 50%.
 
 Theatrical clowning, influenced by teachers like Jacques Lecoq and Philippe Gaulier, strips away the circus trappings entirely. No red nose, no oversized shoes. Instead, performers develop a personal clown character — a heightened, vulnerable version of themselves — and use it for comedy that can be surprisingly raw and honest.
 
-Slava Polunin's *Slava's Snowshow* has toured globally since 1993, blending clowning with visual poetry in a way that makes audiences laugh and cry in the same performance. Bill Irwin won a Tony Award for his clown-influenced work on Broadway. These aren't guys making balloon poodles.
+Slava Polunin's *Slava's Snowshow* has toured globally since 1993, blending clowning with visual [poetry](/poetry) in a way that makes audiences laugh and cry in the same performance. Bill Irwin won a Tony Award for his clown-influenced work on Broadway. These aren't guys making balloon poodles.
 
 ## The Skills Behind the Silly
 

@@ -5,7 +5,7 @@ description: "Cycling is riding a bicycle for transport, exercise, or sport. Lea
 category: sports
 tags: ["cycling", "bicycle", "biking", "exercise", "transportation", "sport"]
 heroImage: "/images/articles/cycling.webp"
-heroAlt: "A cyclist riding along a scenic mountain road at sunrise"
+heroAlt: "Editorial photograph representing the concept of cycling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Cycling?
 
-Cycling is the activity of riding a bicycle — whether for transportation, exercise, recreation, or competitive sport. About 1 billion bicycles exist worldwide (roughly twice as many as cars), making the bicycle the most widely used human-powered vehicle in history. It's simultaneously a child's first taste of freedom, a commuter's daily transport, a fitness enthusiast's workout, and an elite athlete's profession.
+Cycling is the activity of riding a bicycle — whether for transportation, exercise, recreation, or competitive sport. About 1 billion bicycles exist worldwide (roughly twice as many as cars), making the bicycle the most widely used human-powered vehicle in history. It's simultaneously a child's first taste of freedom, a commuter's daily transport, a [fitness](/fitness) enthusiast's workout, and an elite athlete's profession.
 
 ## The Machine
 
-The modern bicycle is an engineering marvel of simplicity. Two wheels, a frame, pedals, a chain, and handlebars — the basic design hasn't changed fundamentally since John Kemp Starley's "safety bicycle" of 1885. Yet within that simplicity lies enormous variation.
+The modern bicycle is an [engineering](/engineering) marvel of simplicity. Two wheels, a frame, pedals, a chain, and handlebars — the basic design hasn't changed fundamentally since John Kemp Starley's "safety bicycle" of 1885. Yet within that simplicity lies enormous variation.
 
-**Road bikes** are built for speed on pavement. Lightweight frames (carbon fiber, aluminum, or titanium), narrow tires, drop handlebars, and aggressive geometry position the rider for aerodynamic efficiency. A professional-grade road bike weighs 15 pounds or less and can cost $5,000 to $15,000.
+**Road bikes** are built for speed on pavement. Lightweight frames (carbon fiber, aluminum, or titanium), narrow tires, drop handlebars, and aggressive [geometry](/geometry) position the rider for aerodynamic efficiency. A professional-grade road bike weighs 15 pounds or less and can cost $5,000 to $15,000.
 
 **Mountain bikes** handle off-road terrain — rocks, roots, mud, drops. They feature suspension (front-only or full), wide knobby tires, flat handlebars, and lower gearing for steep climbs. The sport has fragmented into subcategories: cross-country, trail, enduro, and downhill, each with specialized equipment.
 
@@ -51,7 +51,7 @@ Professional cycling is one of the most physically demanding sports in existence
 
 The sport includes multiple disciplines. **Road racing** features mass-start races, time trials, and multi-stage tours. **Track cycling** happens on banked oval velodromes at speeds exceeding 40 mph. **Cyclocross** combines off-road riding with obstacles that force riders to dismount and carry their bikes. **[Mountain biking](/mountain-biking)** became an Olympic sport in 1996.
 
-The economics of professional cycling are unusual. Unlike team sports where players earn millions, most professional cyclists (outside the top tier) earn modest salaries. Teams are funded by corporate sponsors whose logos cover every square inch of the team's jerseys. Only the top few riders in the world earn significant prize money and endorsement deals.
+The [economics](/economics) of professional cycling are unusual. Unlike team sports where players earn millions, most professional cyclists (outside the top tier) earn modest salaries. Teams are funded by corporate sponsors whose logos cover every square inch of the team's jerseys. Only the top few riders in the world earn significant prize money and endorsement deals.
 
 ## Cycling for Health
 
@@ -59,7 +59,7 @@ The health case for cycling is overwhelming. A major study published in the *Bri
 
 Cycling is particularly effective because it's low-impact — your weight is supported by the saddle, reducing stress on knees, ankles, and hips compared to [running](/running). This makes it accessible to people who can't tolerate the impact of jogging, including older adults and those recovering from joint injuries.
 
-The mental health benefits are significant too. Studies consistently show that regular cycling reduces anxiety, depression, and stress. The combination of physical exertion, outdoor exposure, and the flow state that rhythmic pedaling induces creates a powerful mood-boosting effect.
+The [mental health](/mental-health) benefits are significant too. Studies consistently show that regular cycling reduces anxiety, depression, and stress. The combination of physical exertion, outdoor exposure, and the flow state that rhythmic pedaling induces creates a powerful mood-boosting effect.
 
 ## Cycling for Transportation
 
@@ -67,7 +67,7 @@ In the Netherlands, 27% of all trips are made by bicycle. In Denmark, it's 18%. 
 
 Cities with protected bike lanes, bicycle parking, and traffic laws that prioritize cyclist safety have dramatically higher cycling rates. The relationship is clear and well-documented: build safe infrastructure, and people ride. Don't build it, and they don't.
 
-E-bikes (electric-assist bicycles) are transforming transportation cycling by eliminating the barriers of hills, distance, and sweat. E-bike sales have grown over 200% in many markets since 2020. They let commuters cover 10-15 miles without arriving soaked in perspiration — a practical concern that traditional bikes don't solve for office workers.
+E-bikes (electric-assist bicycles) are transforming transportation cycling by eliminating the barriers of hills, distance, and sweat. E-bike [sales](/sales) have grown over 200% in many markets since 2020. They let commuters cover 10-15 miles without arriving soaked in perspiration — a practical concern that traditional bikes don't solve for office workers.
 
 ## Getting Into It
 

@@ -5,7 +5,7 @@ description: "Logic is the study of valid reasoning and argumentation. Learn abo
 category: everyday-concepts
 tags: ["logic", "reasoning", "philosophy", "argumentation", "critical thinking", "formal logic"]
 heroImage: "/images/articles/logic.webp"
-heroAlt: "Abstract geometric shapes representing logical relationships and deductive reasoning"
+heroAlt: "Editorial photograph representing the concept of logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Logic is the systematic study of valid reasoning — the principles that determine whether an argument's conclusion actually follows from its premises. It's the difference between "that sounds right" and "that *is* right, and here's exactly why."
 
-Humans have been studying logic formally for about 2,400 years, starting with Aristotle in ancient Greece. In that time, it's become foundational to philosophy, mathematics, computer science, law, and any field where getting the reasoning right matters more than getting the audience's applause.
+Humans have been studying logic formally for about 2,400 years, starting with Aristotle in ancient Greece. In that time, it's become foundational to [philosophy](/philosophy), [mathematics](/mathematics), [computer science](/computer-science), law, and any field where getting the reasoning right matters more than getting the audience's applause.
 
 ## The Basics: Arguments and Validity
 
@@ -93,17 +93,17 @@ Fallacies are errors in reasoning — arguments that look persuasive but actuall
 
 ## Formal Logic and Symbolic Systems
 
-Starting in the 19th century, logicians developed formal symbolic systems that express logical relationships with mathematical precision. George Boole created Boolean algebra (the basis of digital circuits). Gottlob Frege developed predicate logic. Bertrand Russell and Alfred North Whitehead attempted to ground all of mathematics in logic with *Principia Mathematica*.
+Starting in the 19th century, logicians developed formal symbolic systems that express logical relationships with mathematical precision. George Boole created Boolean [algebra](/algebra) (the basis of digital circuits). Gottlob Frege developed predicate logic. Bertrand Russell and Alfred North Whitehead attempted to ground all of mathematics in logic with *Principia Mathematica*.
 
 Kurt Godel then proved, in 1931, that any sufficiently powerful logical system contains true statements that can't be proven within the system — one of the most profound results in the history of thought. Godel's incompleteness theorems set fundamental limits on what logic and mathematics can achieve.
 
-These formal systems aren't just theoretical curiosities. Boolean logic is the foundation of every digital computer. Programming languages are formal logical systems. Database queries use logical operators. Artificial intelligence systems reason using formal logic. The computer you're reading this on is, at bottom, a logic machine.
+These formal systems aren't just theoretical curiosities. Boolean logic is the foundation of every digital computer. [Programming languages](/programming-languages) are formal logical systems. Database queries use logical operators. [Artificial intelligence](/artificial-intelligence) systems reason using formal logic. The computer you're reading this on is, at bottom, a logic machine.
 
 ## Logic in Everyday Life
 
-You don't need to know predicate calculus to benefit from logical thinking. The practical applications are immediate:
+You don't need to know predicate [calculus](/calculus) to benefit from logical thinking. The practical applications are immediate:
 
-- Evaluating arguments in news, politics, and advertising
+- Evaluating arguments in news, [politics](/politics), and advertising
 - Spotting manipulation and propaganda
 - Making better decisions by thinking through consequences systematically
 - Communicating more clearly by structuring your reasoning

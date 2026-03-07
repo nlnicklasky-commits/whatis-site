@@ -5,7 +5,7 @@ description: "Goldsmithing is the craft of shaping gold and precious metals into
 category: arts-amp-culture
 tags: ["goldsmithing", "gold", "jewelry making", "precious metals", "craftsmanship", "art"]
 heroImage: "/images/articles/goldsmithing.webp"
-heroAlt: "Goldsmith working at a jeweler's bench with tools and a gold ring"
+heroAlt: "Editorial photograph representing the concept of goldsmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Goldsmithing?
 
-Goldsmithing is the craft of working gold and other precious metals — silver, platinum, palladium — into jewelry, decorative objects, and functional items. A goldsmith takes raw metal and transforms it through heating, hammering, bending, soldering, and finishing into something that can last centuries. It's one of the oldest skilled trades in human civilization, practiced continuously for at least 6,000 years, and the fundamental techniques haven't changed as much as you might think.
+Goldsmithing is the craft of working gold and other precious metals — silver, platinum, palladium — into jewelry, decorative objects, and functional items. A goldsmith takes raw metal and transforms it through heating, hammering, bending, [soldering](/soldering), and finishing into something that can last centuries. It's one of the oldest skilled trades in human civilization, practiced continuously for at least 6,000 years, and the fundamental techniques haven't changed as much as you might think.
 
 ## The Material
 
@@ -43,7 +43,7 @@ Gold's melting point is 1,064°C (1,947°F) — hot, but achievable with a simpl
 
 ## Core Techniques
 
-**Forging and forming** — hammering metal into shape using steel stakes (anvil-like forms in specific shapes) and various hammers. A flat sheet of gold becomes a ring, a bowl, or a complex three-dimensional form through controlled hammering. The metal work-hardens as you hammer it, becoming stiffer and more brittle, so you periodically anneal it (heat it to soften it) before continuing.
+**[Forging](/forging) and forming** — hammering metal into shape using steel stakes (anvil-like forms in specific shapes) and various hammers. A flat sheet of gold becomes a ring, a bowl, or a complex three-dimensional form through controlled hammering. The metal work-hardens as you hammer it, becoming stiffer and more brittle, so you periodically anneal it (heat it to soften it) before continuing.
 
 **Soldering** — joining metal pieces using a lower-melting-point alloy (solder) and a torch. Gold solder comes in different melting temperatures (easy, medium, hard) so a goldsmith can make multiple solder joints on the same piece without melting previous ones. Getting a clean, invisible solder joint is one of the skills that separates a good goldsmith from a mediocre one.
 
@@ -51,7 +51,7 @@ Gold's melting point is 1,064°C (1,947°F) — hot, but achievable with a simpl
 
 **Stone setting** — securing gemstones into metal mounts. Prong settings use tiny metal claws bent over the stone's edge. Bezel settings wrap a thin metal strip completely around the stone. Pavé settings position tiny stones close together in drilled holes. Channel settings hold stones between parallel metal walls. Each technique requires precision — a poorly set stone falls out; an aggressively set stone cracks.
 
-**Finishing** — filing, sanding, and polishing to achieve the desired surface. A mirror polish requires progressively finer abrasives, finishing with compounds like rouge on a polishing wheel. Matte finishes use sandblasting or brushing. Textures are applied with hammers, stamps, or engraving tools.
+**Finishing** — filing, sanding, and polishing to achieve the desired surface. A mirror polish requires progressively finer abrasives, finishing with compounds like rouge on a polishing wheel. Matte finishes use [sandblasting](/sandblasting) or brushing. Textures are applied with hammers, stamps, or [engraving](/engraving) tools.
 
 ## The Workbench
 
@@ -61,11 +61,11 @@ Essential tools include a jeweler's saw (for cutting metal), files (coarse to fi
 
 The tools themselves are interesting — many designs haven't changed in centuries. A goldsmith from 1600 would recognize most of the tools on a modern bench. The flex shaft and laser welder are the main additions.
 
-## A Very Old Trade
+## A Very Old [Trade](/trade)
 
 The earliest known gold jewelry dates to around 4,600 BCE — gold beads and ornaments from the Varna Necropolis in Bulgaria. Egyptian goldsmiths were producing sophisticated work by 3,000 BCE, including the famous burial mask of Tutankhamun (about 24 pounds of beaten gold).
 
-Greek and Etruscan goldsmiths perfected **granulation** — decorating surfaces with tiny gold spheres soldered in patterns. The technique was so refined that it was actually lost for centuries and only fully replicated in the 20th century. How they attached spheres as small as 0.25mm without melting them remained a genuine mystery.
+Greek and Etruscan goldsmiths perfected **granulation** — [decorating](/decorating) surfaces with tiny gold spheres soldered in patterns. The technique was so refined that it was actually lost for centuries and only fully replicated in the 20th century. How they attached spheres as small as 0.25mm without melting them remained a genuine mystery.
 
 Medieval European goldsmiths held enormous social prestige. They formed powerful guilds — London's Goldsmiths' Company, established in 1327, still operates today and is responsible for hallmarking precious metals in the UK. Goldsmiths were often the wealthiest craftsmen in a city, and their skills overlapped with banking (they stored and valued precious metals) and art.
 
@@ -77,13 +77,13 @@ Today's goldsmithing exists on a spectrum from traditional hand fabrication to h
 
 **CAD/CAM** (Computer-Aided Design and Manufacturing) has changed production dramatically. Designers create 3D models on screen, which are then either 3D-printed in castable resin or milled from wax by CNC machines. The resulting models are cast in metal using the same lost-wax process — the technology changes how the model is made, not how the metal is cast.
 
-**Laser welding** allows joining metal without the heat spread of traditional soldering — critical when working near heat-sensitive stones or delicate details.
+**Laser [welding](/welding)** allows joining metal without the heat spread of traditional soldering — critical when working near heat-sensitive stones or delicate details.
 
 But hand skills remain essential. No machine can do everything a skilled hand can, and many clients specifically seek handmade work. Bench jewelers who can fabricate, set stones, engrave, and repair are in constant demand — there's actually a shortage of skilled bench workers in the jewelry industry.
 
 ## Learning the Craft
 
-Paths into goldsmithing include formal education (programs at schools like the Gemological Institute of America, Savannah College of Art and Design, or Revere Academy), apprenticeships with established goldsmiths, and self-teaching through workshops and online resources.
+Paths into goldsmithing include formal [education](/education) (programs at schools like the Gemological Institute of America, Savannah College of Art and Design, or Revere Academy), apprenticeships with established goldsmiths, and self-[teaching](/teaching) through workshops and online resources.
 
 Starting equipment costs $500-$2,000 for a basic setup — bench, torch, hand tools, and consumables. A full professional bench with flex shaft, casting equipment, and stone-setting tools runs $5,000-$15,000.
 

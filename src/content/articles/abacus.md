@@ -5,7 +5,7 @@ description: "An abacus is one of the oldest counting tools in history, used for
 category: everyday-concepts
 tags: ["abacus", "counting tool", "mathematics", "arithmetic"]
 heroImage: "/images/articles/abacus.webp"
-heroAlt: "Wooden abacus with colorful beads arranged on metal rods"
+heroAlt: "Editorial photograph representing the concept of abacus"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ An abacus is a manual counting device — one of the oldest calculating tools in
 
 ## Older Than You Think
 
-People have been counting with physical objects for about as long as people have been counting. Pebbles, tally sticks, marks in clay — the need to track quantities is as old as trade itself.
+People have been counting with physical objects for about as long as people have been counting. Pebbles, tally sticks, marks in clay — the need to track quantities is as old as [trade](/trade) itself.
 
-The earliest counting boards appeared in Sumer (modern Iraq) around 2500 BCE. These weren't the bead-and-rod abacuses you picture — they were flat surfaces with grooves or lines where stones or tokens were placed to represent numbers. The Romans used a similar device, the *calculi* (from *calculus*, meaning "small stone" — yes, that's where the math term comes from).
+The earliest counting boards appeared in Sumer (modern Iraq) around 2500 BCE. These weren't the bead-and-rod abacuses you picture — they were flat surfaces with grooves or lines where stones or tokens were placed to represent numbers. The Romans used a similar device, the *calculi* (from *[calculus](/calculus)*, meaning "small stone" — yes, that's where the math term comes from).
 
 The Chinese *suanpan* emerged around the 2nd century BCE, though some historians argue for earlier origins. It's the ancestor of most modern abacus designs. The Japanese *soroban* was adapted from the Chinese model around the 14th century and refined into the sleek, precise instrument still used in Japanese schools today.
 
@@ -74,11 +74,11 @@ Research published in *Cognitive Science* has shown that anzan practitioners act
 
 At the All Japan Soroban Championship, competitors routinely add 15 three-digit numbers in under 2 seconds. Two seconds. That's not a typo.
 
-## The Abacus as a Teaching Tool
+## The Abacus as a [Teaching](/teaching) Tool
 
 Beyond its historical importance, the abacus has real value as an educational tool — and the evidence supports this.
 
-A 2006 study published in the *Journal of Experimental Child Psychology* found that children trained on the abacus showed significant improvements in mental arithmetic ability compared to control groups. A 2016 study in *Developmental Science* found that abacus training improved spatial reasoning and working memory in children.
+A 2006 study published in the *Journal of Experimental Child [Psychology](/psychology)* found that children trained on the abacus showed significant improvements in mental arithmetic ability compared to control groups. A 2016 study in *Developmental Science* found that abacus training improved spatial reasoning and working memory in children.
 
 The abacus makes arithmetic *visible*. Instead of memorizing that 7 + 8 = 15, a child physically experiences the regrouping process — the carry operation, the exchange of ones for a ten. This concrete, hands-on interaction with numbers helps build number sense in ways that flashcards and worksheets often fail to do.
 
@@ -94,8 +94,8 @@ The answer is that the abacus isn't really competing with calculators. It's doin
 
 When a child learns to add on an abacus, they're not memorizing facts — they're physically modeling the base-10 number system. They feel what "carrying" means. They see place value in action. This kind of understanding is harder to build by punching buttons.
 
-There's also something satisfying about the abacus as an object. The click of beads. The rhythm of a practiced user's fingers. The fact that it needs no batteries, no software updates, no internet connection. It works in a power outage. It works in a village without electricity. It works exactly the way it worked 2,000 years ago.
+There's also something satisfying about the abacus as an object. The click of beads. The rhythm of a practiced user's fingers. The fact that it needs no batteries, no software updates, no internet connection. It works in a power outage. It works in a village without [electricity](/electricity). It works exactly the way it worked 2,000 years ago.
 
-In a world that runs on silicon chips and algorithms, the abacus is a reminder that human ingenuity started with something much simpler — the insight that you can represent an idea with a physical thing and manipulate it according to rules. That insight is the foundation of all computation, from the earliest counting board to the latest supercomputer.
+In a world that runs on silicon chips and [algorithms](/algorithms), the abacus is a reminder that human ingenuity started with something much simpler — the insight that you can represent an idea with a physical thing and manipulate it according to rules. That insight is the foundation of all computation, from the earliest counting board to the latest supercomputer.
 
 The beads just got smaller.

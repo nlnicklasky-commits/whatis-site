@@ -5,7 +5,7 @@ description: "Mathematical logic studies formal reasoning using precise mathemat
 category: science
 tags: ["mathematical logic", "logic", "mathematics", "set theory", "proof theory", "computability", "model theory"]
 heroImage: "/images/articles/mathematical-logic-hero.webp"
-heroAlt: "Abstract representation of logical symbols and formal proof structures in mathematical notation"
+heroAlt: "Editorial photograph representing the concept of mathematical logic"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Mathematical Logic?
 
-Mathematical logic is the branch of mathematics that studies formal systems of reasoning. It takes the informal notion of "logical argument" and makes it precise — defining exactly what constitutes a valid proof, what formal languages can express, what can and cannot be computed, and what the limits of formal reasoning actually are.
+Mathematical logic is the branch of mathematics that studies formal systems of reasoning. It takes the informal notion of "logical argument" and makes it precise — defining exactly what constitutes a valid proof, what [formal languages](/formal-languages) can express, what can and cannot be computed, and what the limits of formal reasoning actually are.
 
 Here's the thing that makes mathematical logic different from the logic you might have encountered in a philosophy class: it doesn't just use logic. It studies logic itself as a mathematical object. Ordinary mathematics uses logical reasoning to prove theorems about numbers, shapes, and structures. Mathematical logic proves theorems about reasoning itself — theorems about what proofs can accomplish, what axioms imply, and where formal systems necessarily break down.
 
@@ -166,13 +166,13 @@ Key results include:
 
 **Quantifier elimination**: Some theories (like the theory of real-closed fields, which includes all high school [algebra](/algebra)) allow every formula to be reduced to one without quantifiers. This makes the theory decidable — there's an algorithm to determine the truth of any statement.
 
-Model theory has connections to [algebra](/algebra), [geometry](/geometry), number theory, and other branches of mathematics. It provides tools for transferring results between different mathematical structures and for understanding what properties are expressible in different logical frameworks.
+Model theory has connections to [algebra](/algebra), [geometry](/geometry), [number theory](/number-theory), and other branches of mathematics. It provides tools for transferring results between different mathematical structures and for understanding what properties are expressible in different logical frameworks.
 
 ## Logic and Computer Science: A Deep Connection
 
 The connection between mathematical logic and [computer science](/computer-science) goes far beyond the historical accident that Turing invented both computability theory and the theoretical model of the computer.
 
-### Type Theory and Programming Languages
+### Type Theory and [Programming Languages](/programming-languages)
 
 Type theory — developed by Russell and later by Church, Martin-Lof, and others — classifies mathematical objects by type to avoid paradoxes. Modern programming languages use type systems directly descended from logical type theories. Haskell, OCaml, Rust, and other typed languages implement ideas from mathematical logic.
 
@@ -180,7 +180,7 @@ The **Curry-Howard correspondence** reveals that proofs and programs are the sam
 
 ### Automated Theorem Proving
 
-Software systems that automatically prove mathematical theorems use the formal proof systems developed by mathematical logicians. SAT solvers (for propositional logic) and SMT solvers (for predicate logic with theories) are used in hardware verification, software testing, and artificial intelligence.
+Software systems that automatically prove mathematical theorems use the formal proof systems developed by mathematical logicians. SAT solvers (for propositional logic) and SMT solvers (for predicate logic with theories) are used in hardware verification, [software testing](/software-testing), and artificial intelligence.
 
 The four-color theorem (1976) was the first major theorem proved with substantial computer assistance. More recently, formal proof assistants like Lean, Coq, and Isabelle have verified proofs of significant mathematical results, providing certainty beyond human checking.
 

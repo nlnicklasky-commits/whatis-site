@@ -5,7 +5,7 @@ description: "Waste management covers the collection, transport, processing, and
 category: everyday-concepts
 tags: ["waste management", "recycling", "environment", "landfills", "sustainability", "public health"]
 heroImage: "/images/articles/waste-management.webp"
-heroAlt: "Recycling facility with sorted materials moving along conveyor belts under bright industrial lighting"
+heroAlt: "Editorial photograph representing the concept of waste management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Waste management is the system of activities involved in collecting, transportin
 
 The numbers are staggering. Globally, humans generate approximately 2.01 billion tons of municipal solid waste per year, according to the World Bank. By 2050, that figure is projected to reach 3.4 billion tons. The United States alone produces about 292 million tons annually — roughly 4.9 pounds per person per day.
 
-Municipal solid waste (MSW) is just the household and commercial fraction. Industrial waste, construction and demolition debris, agricultural waste, and hazardous waste add enormously to the total. The EPA estimates that industrial activities generate roughly 7.6 billion tons of waste annually in the U.S. alone.
+Municipal solid waste (MSW) is just the household and commercial fraction. Industrial waste, [construction](/construction) and demolition debris, agricultural waste, and hazardous waste add enormously to the total. The EPA estimates that industrial activities generate roughly 7.6 billion tons of waste annually in the U.S. alone.
 
 ## The Waste Hierarchy
 
@@ -47,9 +47,9 @@ Waste management professionals use a hierarchy of preferred approaches, from mos
 
 **Reuse** — Using items again for their original purpose or repurposing them. Refillable containers, secondhand markets, and repair extend product lifespans.
 
-**Recycling and composting** — Processing waste materials into new products (recycling) or breaking down organic waste biologically (composting). About 32% of U.S. municipal waste is recycled or composted.
+**[Recycling](/recycling) and [composting](/composting)** — Processing waste materials into new products (recycling) or breaking down organic waste biologically (composting). About 32% of U.S. municipal waste is recycled or composted.
 
-**Energy recovery** — Incinerating waste to generate electricity or heat. Modern waste-to-energy plants burn waste at high temperatures with emission controls. About 12% of U.S. municipal waste is processed this way.
+**Energy recovery** — Incinerating waste to generate [electricity](/electricity) or heat. Modern waste-to-energy plants burn waste at high temperatures with emission controls. About 12% of U.S. municipal waste is processed this way.
 
 **Disposal** — Landfilling is the last resort. Despite decades of effort to reduce dependence on landfills, about 50% of U.S. municipal waste still ends up buried.
 
@@ -77,7 +77,7 @@ Recycling is widely supported in principle but complicated in practice. The syst
 
 **Paper and cardboard** — Highly recyclable and widely collected. Paper can typically be recycled 5-7 times before fibers become too short. The recycling rate exceeds 65%.
 
-**Glass** — Infinitely recyclable with no quality loss. However, glass is heavy and cheap to make from raw materials, so the economics of glass recycling are marginal in many markets.
+**Glass** — Infinitely recyclable with no quality loss. However, glass is heavy and cheap to make from raw materials, so the [economics](/economics) of glass recycling are marginal in many markets.
 
 **Plastic** — The problem child. There are seven numbered categories of plastic, and recycling systems vary dramatically in which types they accept. Only about 5-6% of U.S. plastic waste is actually recycled. Much of what's placed in recycling bins is sorted out and landfilled because it's contaminated, the wrong type, or lacks viable markets.
 
@@ -89,6 +89,6 @@ The waste management field is moving toward what's called a "circular economy" �
 
 This requires changes at every level. Product designers need to design for disassembly and recyclability. Manufacturers need to use recycled content. Consumers need to separate waste streams properly. Governments need to create regulatory frameworks that incentivize waste reduction over disposal.
 
-Extended producer responsibility (EPR) programs — where manufacturers bear financial responsibility for the end-of-life management of their products — are gaining traction in Europe and beginning to appear in U.S. states. These programs shift the cost of waste management from municipalities to the companies whose products generate the waste, creating economic incentives for better product design.
+Extended producer responsibility (EPR) programs — where manufacturers bear financial responsibility for the end-of-life management of their products — are gaining traction in Europe and beginning to appear in U.S. states. These programs shift the cost of waste management from municipalities to the companies whose products generate the waste, creating economic incentives for better [product design](/product-design).
 
-The fundamental challenge remains: modern economies are extraordinarily good at producing things and extraordinarily bad at dealing with those things when they're no longer wanted. Waste management is the system that handles this gap, and how well we manage it affects public health, environmental quality, and resource availability for generations.
+The fundamental challenge remains: modern economies are extraordinarily good at producing things and extraordinarily bad at dealing with those things when they're no longer wanted. Waste management is the system that handles this gap, and how well we manage it affects [public health](/public-health), environmental quality, and resource availability for generations.

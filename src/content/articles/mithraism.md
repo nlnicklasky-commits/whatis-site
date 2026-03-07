@@ -5,7 +5,7 @@ description: "Mithraism was a mysterious Roman cult centered on the god Mithras.
 category: history
 tags: ["religion", "mithraism", "ancient religions"]
 heroImage: "/images/articles/mithraism.webp"
-heroAlt: "Underground Mithraeum temple with a carved relief showing Mithras slaying a bull"
+heroAlt: "Editorial photograph representing the concept of mithraism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Mithraism?
 
-Mithraism was a Roman mystery religion centered on the worship of Mithras, a god depicted slaying a bull in nearly every temple dedicated to him. It flourished between the 1st and 4th centuries CE, attracted mostly soldiers and merchants, excluded women entirely, and conducted its rituals in underground chambers called mithraea. Then it vanished — almost completely.
+Mithraism was a Roman mystery [religion](/religion) centered on the worship of Mithras, a god depicted slaying a bull in nearly every temple dedicated to him. It flourished between the 1st and 4th centuries CE, attracted mostly soldiers and merchants, excluded women entirely, and conducted its rituals in underground chambers called mithraea. Then it vanished — almost completely.
 
 What makes Mithraism so fascinating (and so frustrating to study) is that its followers took their secrets seriously. No sacred texts survive. No insider accounts exist. Almost everything we know comes from archaeological remains — carved reliefs, inscriptions, and the ruins of roughly 400 temples scattered across the former Roman Empire.
 
@@ -49,7 +49,7 @@ The Roman version appeared around the late 1st century CE, most likely originati
 
 Walk into any Mithraeum and you'd see essentially the same scene: Mithras, wearing a Phrygian cap, kneeling on a bull and plunging a knife into its neck. A dog and a snake lick the wound. A scorpion grips the bull's genitals. A raven perches nearby. Wheat sprouts from the bull's tail or the wound itself.
 
-This image — called the tauroctony — appeared in virtually every Mithraeum across the empire. From Britain to Syria, the composition stayed remarkably consistent. That uniformity suggests a centralized mythology, even though no written version of the myth survives.
+This image — called the tauroctony — appeared in virtually every Mithraeum across the empire. From Britain to Syria, the composition stayed remarkably consistent. That uniformity suggests a centralized [mythology](/mythology), even though no written version of the myth survives.
 
 David Ulansey proposed in 1989 that the tauroctony is actually a star map. The bull represents Taurus, the dog is Canis Major, the snake is Hydra, the raven is Corvus, and the scorpion is Scorpius. In this reading, Mithras himself represents the constellation Perseus, positioned directly above Taurus in the night sky. The killing of the bull symbolizes the astronomical phenomenon of precession shifting the spring equinox out of Taurus — something that would have seemed like a cosmic event to ancient observers.
 
@@ -69,13 +69,13 @@ Mithraism organized its members into seven ranks, each associated with a planet 
 
 Each grade involved specific initiation rituals. Based on a fresco at the Mithraeum of Santa Maria Capua Vetere in Italy, initiates were blindfolded, bound with chicken intestines, and pushed over water-filled pits. The Miles grade apparently required refusing a sword offered at the point of a blade, declaring that Mithras alone was the true "soldier's crown."
 
-Most members probably never advanced beyond the lower grades. The Pater — the "Father" — led each congregation and was likely the only person who understood the full theology. Each Mithraeum functioned as an independent cell, typically holding 20 to 40 people.
+Most members probably never advanced beyond the lower grades. The Pater — the "Father" — led each congregation and was likely the only person who understood the full [theology](/theology). Each Mithraeum functioned as an independent cell, typically holding 20 to 40 people.
 
 ## Who Worshipped Mithras?
 
 Mithraism spread primarily through two channels: the Roman military and the imperial bureaucracy.
 
-Soldiers stationed along the Rhine and Danube frontiers were especially devoted. The concentration of mithraea along these borders is striking — the religion clearly appealed to men living in harsh, dangerous conditions far from home. Merchants, freedmen, and minor government officials also participated. A few senators and equestrians joined, but Mithraism was overwhelmingly a religion of the middling ranks.
+Soldiers stationed along the Rhine and Danube frontiers were especially devoted. The concentration of mithraea along these borders is striking — the religion clearly appealed to men living in harsh, dangerous conditions far from home. Merchants, freedmen, and minor [government](/government) officials also participated. A few senators and equestrians joined, but Mithraism was overwhelmingly a religion of the middling ranks.
 
 Here's what sets it apart from most Roman cults: no women. Period. Every inscription, every dedicatory plaque, every piece of evidence points to an exclusively male membership. This is unusual — other mystery religions like the cults of Isis and Cybele welcomed women, sometimes enthusiastically. The reason for Mithraism's gender restriction remains debated, but it probably connects to the cult's heavy military associations.
 
@@ -91,7 +91,7 @@ The cave symbolism was intentional. Ancient sources say Mithras was born from a 
 
 Most mithraea were small — roughly the size of a modern living room. This kept congregations intimate and reinforced the sense of exclusive brotherhood that defined the religion.
 
-## Mithraism and Christianity — The Real Story
+## Mithraism and [Christianity](/christianity) — The Real Story
 
 For over a century, popular writers have claimed that Christianity "stole" from Mithraism — the December 25th birth date, the sacred meal, the resurrection narrative. This makes for exciting reading, but the evidence is thinner than it looks.
 
@@ -113,7 +113,7 @@ By 400 CE, Mithraism was effectively dead. Its secrecy, which had protected its 
 
 ## What We're Still Learning
 
-Archaeology keeps turning up new mithraea. In 2017, construction workers in London uncovered the remarkably well-preserved Temple of Mithras on Bloomberg's European headquarters site — originally discovered in 1954 but relocated and then reconstructed *in situ* with modern museum techniques.
+[Archaeology](/archaeology) keeps turning up new mithraea. In 2017, [construction](/construction) workers in London uncovered the remarkably well-preserved Temple of Mithras on Bloomberg's European headquarters site — originally discovered in 1954 but relocated and then reconstructed *in situ* with modern museum techniques.
 
 New analytical methods are also revealing things invisible to earlier researchers. Residue analysis of Mithraic vessels has identified specific foods and drinks used in rituals. Astronomical software lets scholars test star-map theories against ancient skies with unprecedented precision.
 

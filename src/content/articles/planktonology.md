@@ -5,7 +5,7 @@ description: "Planktonology is the study of plankton, the tiny organisms that pr
 category: science
 tags: ["marine biology", "ecology", "oceanography", "plankton", "phytoplankton", "zooplankton"]
 heroImage: "/images/articles/planktonology-hero.webp"
-heroAlt: "Microscopic image of diverse plankton species floating in ocean water"
+heroAlt: "Editorial photograph representing the concept of planktonology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -114,7 +114,7 @@ Here's how it works: Phytoplankton at the ocean surface absorb CO2 from the atmo
 
 The scale is enormous. The biological pump exports roughly 10 billion metric tons of carbon to the deep ocean each year. Without it, atmospheric CO2 concentrations would be about 200 parts per million higher than they are today --- enough to dramatically alter the climate.
 
-This is why plankton matter for climate science. Changes in phytoplankton productivity, species composition, or distribution patterns can strengthen or weaken the biological pump, creating feedbacks that amplify or dampen climate change.
+This is why plankton matter for climate science. Changes in phytoplankton [productivity](/productivity), species composition, or distribution patterns can strengthen or weaken the biological pump, creating feedbacks that amplify or dampen climate change.
 
 ## How Planktonologists Work
 
@@ -126,7 +126,7 @@ Traditional plankton sampling uses nets towed behind research vessels. Mesh size
 
 The Continuous Plankton Recorder (CPR), deployed since 1931, is towed behind ships of opportunity (cargo vessels, ferries) on regular routes, collecting plankton samples continuously. The CPR survey has accumulated over 7 million samples across the North Atlantic and North Pacific, creating one of the longest-running marine biological datasets in existence. It's been critical for documenting how plankton communities have shifted over 90 years of changing climate.
 
-### Microscopy and Identification
+### [Microscopy](/microscopy) and Identification
 
 Identifying plankton species requires expertise in microscopy. A single water sample might contain hundreds of species. Traditional identification relies on morphological features --- the shape of a diatom shell, the arrangement of a dinoflagellate's plates, the number of segments on a copepod's antenna.
 
@@ -162,9 +162,9 @@ Microplastics (particles smaller than 5 mm) are now ubiquitous in ocean waters. 
 
 ## Connections to Other Fields
 
-Planktonology connects to [marine biology](/marine-biology) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean physics and chemistry, [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
+Planktonology connects to [marine biology](/marine-[biology](/biology)) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean physics and [chemistry](/chemistry), [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
 
-If the broader marine ecosystem interests you, [marine biology](/marine-biology) provides the wider context. For ocean physics and chemistry, [oceanography](/oceanography) goes deeper. If the carbon cycle and climate connections fascinate you, [climatology](/climatology) expands the picture. And if the algal side of phytoplankton is your focus, phycology --- the study of algae --- is the specialized discipline.
+If the broader marine ecosystem interests you, [marine biology](/marine-biology) provides the wider context. For ocean physics and chemistry, [oceanography](/oceanography) goes deeper. If the carbon cycle and climate connections fascinate you, [climatology](/climatology) expands the picture. And if the algal side of phytoplankton is your focus, [phycology](/phycology) --- the study of algae --- is the specialized discipline.
 
 ## Why This Field Needs Attention
 

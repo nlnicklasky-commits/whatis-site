@@ -5,7 +5,7 @@ description: "Urban design shapes the physical layout of cities, from streets an
 category: technology
 tags: ["urban design", "architecture", "city planning", "public space", "built environment"]
 heroImage: "/images/articles/urban-design.webp"
-heroAlt: "Aerial view of a well-designed urban plaza with trees, benches, pedestrian paths, and surrounding mixed-use buildings"
+heroAlt: "Editorial photograph representing the concept of urban design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Urban Design?
 
-Urban design is the discipline concerned with shaping the physical form, character, and function of cities, towns, and villages. It operates at the scale between individual buildings (architecture) and entire metropolitan regions (planning), focusing on how streets, blocks, parks, plazas, and building arrangements work together to create places where people actually want to be.
+Urban design is the discipline concerned with shaping the physical form, character, and function of cities, towns, and villages. It operates at the scale between individual buildings ([architecture](/architecture)) and entire metropolitan regions (planning), focusing on how streets, blocks, parks, plazas, and building arrangements work together to create places where people actually want to be.
 
 ## The Scale That Matters Most
 
@@ -57,7 +57,7 @@ The shift toward "complete streets" that serve pedestrians, cyclists, transit us
 
 ### Blocks and Parcels
 
-The block pattern — the arrangement of streets creating the grid (or network) of developable land — determines how permeable a neighborhood is to foot traffic. Short blocks (around 60-80 meters, like Portland's famously walkable blocks at 61 meters) create more intersections, more route choices, and more corner locations for retail. Long blocks (200+ meters, common in suburban developments) reduce connectivity and make walking feel tedious.
+The block pattern — the arrangement of streets creating the grid (or network) of developable land — determines how permeable a neighborhood is to foot traffic. Short blocks (around 60-80 meters, like Portland's famously walkable blocks at 61 meters) create more intersections, more route choices, and more corner locations for retail. Long blocks (200+ meters, common in suburban developments) reduce connectivity and make [walking](/walking) feel tedious.
 
 Jane Jacobs made this argument in *The Death and Life of Great American Cities* (1961), and decades of research have confirmed it. Neighborhoods with shorter blocks have more walking, more retail activity, and — somewhat surprisingly — lower crime rates. More eyes on the street, more activity, more natural surveillance.
 
@@ -122,13 +122,13 @@ Minimum parking requirements in zoning codes are the main culprit. When a city r
 
 Urban design increasingly accounts for climate impacts. Heat islands — urban areas that can be 5-10 degrees Celsius hotter than surrounding rural areas — are a growing health concern as temperatures rise. Design responses include street trees (a mature tree provides the cooling equivalent of about 10 room-sized air conditioners), light-colored paving materials, green roofs, and building orientations that maximize shade while allowing winter sun.
 
-Stormwater management through "green infrastructure" — rain gardens, permeable pavement, bioswales — replaces pipes and drains with natural filtration. Philadelphia's Green City, Clean Waters plan aims to manage stormwater runoff through field design rather than conventional gray infrastructure, saving an estimated $5.6 billion over 25 years.
+Stormwater [management](/management) through "green infrastructure" — rain gardens, permeable pavement, bioswales — replaces pipes and drains with natural filtration. Philadelphia's Green City, Clean Waters plan aims to manage stormwater runoff through field design rather than conventional gray infrastructure, saving an estimated $5.6 billion over 25 years.
 
 ### Equity and Inclusion
 
 Good urban design isn't equally distributed. Wealthy neighborhoods get wider sidewalks, more trees, better parks, and better-maintained infrastructure. Low-income neighborhoods — disproportionately communities of color — get narrower sidewalks (or none), fewer trees, and parks that are poorly maintained when they exist at all.
 
-The tree canopy disparity is measurable: a 2021 study published in *PLOS ONE* found that formerly redlined neighborhoods in U.S. cities have significantly fewer trees than non-redlined neighborhoods, resulting in higher surface temperatures and worse air quality. Urban design choices made 80 years ago — literally drawing lines on a map — continue to shape the physical environment today.
+The tree canopy disparity is measurable: a 2021 study published in *PLOS ONE* found that formerly redlined neighborhoods in U.S. cities have significantly fewer trees than non-redlined neighborhoods, resulting in higher surface temperatures and worse air quality. Urban design choices made 80 years ago — literally [drawing](/drawing) lines on a map — continue to shape the physical environment today.
 
 Addressing these disparities requires both new investment and community involvement in design decisions. The best contemporary urban design projects, like the 11th Street Bridge Park planned for Washington, D.C., explicitly address equity goals alongside design quality.
 
@@ -140,7 +140,7 @@ How do you know if urban design is working? Modern practice uses several metrics
 
 **Walk Score** rates the walkability of addresses based on proximity to amenities. Scores above 90 ("Walker's Paradise") correlate with higher property values, lower transportation costs, and better health outcomes.
 
-**Level of traffic stress** measures how comfortable or stressful streets are for cyclists, accounting for speed, volume, and separation. Lower stress scores correspond to higher cycling rates.
+**Level of traffic stress** measures how comfortable or stressful streets are for cyclists, [accounting](/accounting) for speed, volume, and separation. Lower stress scores correspond to higher [cycling](/cycling) rates.
 
 The field is moving toward evidence-based practice — designing spaces based on data about how people actually behave, rather than assumptions about how they should behave. It's a welcome shift, even if the process of collecting and analyzing that data adds time and cost to projects.
 

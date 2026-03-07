@@ -5,7 +5,7 @@ description: "Psychiatry is the medical specialty focused on diagnosing and trea
 category: health-amp-wellness
 tags: ["psychiatry", "mental health", "mental illness", "psychotherapy"]
 heroImage: "/images/articles/psychiatry.webp"
-heroAlt: "A calm clinical office with a desk, medical reference books, and a comfortable patient chair"
+heroAlt: "Editorial photograph representing the concept of psychiatry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 # What Is Psychiatry?
 
-Psychiatry is the branch of medicine dedicated to diagnosing, treating, and preventing mental, emotional, and behavioral disorders. Psychiatrists are medical doctors who specialize in the mind — its illnesses, its chemistry, and its relationship to the body. They can prescribe medications, order medical tests, and provide psychotherapy, making them unique among mental health professionals in the breadth of tools at their disposal.
+Psychiatry is the branch of medicine dedicated to diagnosing, treating, and preventing mental, emotional, and behavioral disorders. Psychiatrists are medical doctors who specialize in the mind — its illnesses, its [chemistry](/chemistry), and its relationship to the body. They can prescribe medications, order medical tests, and provide [psychotherapy](/psychotherapy), making them unique among [mental health](/mental-health) professionals in the breadth of tools at their disposal.
 
-## Not Psychology, Not Neurology — Something In Between
+## Not [Psychology](/psychology), Not [Neurology](/neurology) — Something In Between
 
 People mix up psychiatry and psychology constantly, and honestly, the overlap doesn't help. Both deal with the mind. Both treat mental health conditions. But the training, methods, and philosophical starting points differ more than you'd expect.
 
-Psychiatry starts from medicine. A psychiatrist first completes medical school — the same training as a cardiologist or surgeon — then specializes through a four-year residency in psychiatry. This medical foundation means psychiatrists think about mental illness as partly biological: brain chemistry, genetics, neuroanatomy, hormones. They can prescribe medications, order brain scans, run blood tests, and consider how physical conditions (thyroid disorders, autoimmune diseases, brain tumors) might cause psychiatric symptoms.
+Psychiatry starts from medicine. A psychiatrist first completes medical school — the same training as a cardiologist or surgeon — then specializes through a four-year residency in psychiatry. This medical foundation means psychiatrists think about mental illness as partly biological: brain chemistry, genetics, [neuroanatomy](/neuroanatomy), hormones. They can prescribe medications, order brain scans, run blood tests, and consider how physical conditions (thyroid disorders, autoimmune diseases, brain tumors) might cause psychiatric symptoms.
 
 Psychology starts from behavior and cognition. A clinical psychologist completes a doctoral program focused on understanding and treating behavioral and emotional problems through therapy. They're generally trained in specific psychotherapy modalities — cognitive-behavioral therapy, dialectical behavior therapy, psychodynamic therapy — and in psychological testing.
 
@@ -61,7 +61,7 @@ The 19th century brought the asylum movement — large state-run institutions in
 
 The early-to-mid 20th century saw some of psychiatry's darkest chapters. Lobotomy — surgical destruction of brain tissue — was performed on an estimated 40,000-50,000 patients in the United States alone between the 1930s and 1960s. Walter Freeman, its chief promoter, traveled the country performing "ice pick lobotomies" through the eye socket in his office. The procedure often left patients docile but severely impaired.
 
-Insulin shock therapy induced hypoglycemic comas as a treatment for schizophrenia. Electroconvulsive therapy (ECT), introduced in 1938, delivered electrical shocks to the brain. Unlike lobotomy and insulin therapy, ECT actually works — modern ECT, performed under anesthesia with muscle relaxants, remains one of the most effective treatments for severe depression. But its horrific depiction in popular culture (thanks largely to *One Flew Over the Cuckoo's Nest*) has given it a reputation it no longer fully deserves.
+Insulin shock therapy induced hypoglycemic comas as a treatment for schizophrenia. Electroconvulsive therapy (ECT), introduced in 1938, delivered electrical shocks to the brain. Unlike lobotomy and insulin therapy, ECT actually works — modern ECT, performed under anesthesia with muscle relaxants, remains one of the most effective treatments for severe depression. But its horrific depiction in [popular culture](/popular-culture) (thanks largely to *One Flew Over the Cuckoo's Nest*) has given it a reputation it no longer fully deserves.
 
 ## The Medication Revolution
 
@@ -79,7 +79,7 @@ Today, psychiatric medications are prescribed to roughly one in six American adu
 
 ## What Modern Psychiatrists Actually Do
 
-A typical outpatient psychiatrist's day involves a lot of medication management — adjusting doses, switching medications, monitoring side effects, ordering lab work to check drug levels or rule out medical causes of symptoms. Initial evaluations are longer (60-90 minutes), but follow-up appointments are often 15-30 minutes. This is partly driven by economics — insurance reimbursement rates make spending an hour with each patient financially unsustainable for many practices.
+A typical outpatient psychiatrist's day involves a lot of medication [management](/management) — adjusting doses, switching medications, monitoring side effects, ordering lab work to check drug levels or rule out medical causes of symptoms. Initial evaluations are longer (60-90 minutes), but follow-up appointments are often 15-30 minutes. This is partly driven by [economics](/economics) — [insurance](/insurance) reimbursement rates make spending an hour with each patient financially unsustainable for many practices.
 
 Some psychiatrists also provide psychotherapy, though this is less common than it was a generation ago. The trend in recent decades has been toward a "split treatment" model: the psychiatrist manages medication, while a psychologist or therapist provides talk therapy. Whether this is good for patients is debated — it's efficient, but it means no single clinician has the complete picture.
 

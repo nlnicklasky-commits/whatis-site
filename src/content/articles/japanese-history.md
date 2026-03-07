@@ -5,7 +5,7 @@ description: "Japanese history spans from ancient Jomon culture to modern econom
 category: history
 tags: ["japanese culture", "japan", "samurai", "shogunate", "meiji restoration"]
 heroImage: "/images/articles/japanese-history.webp"
-heroAlt: "Traditional Japanese castle surrounded by cherry blossoms with mountains in the background"
+heroAlt: "Editorial photograph representing the concept of japanese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Japanese history is the story of an island civilization that developed largely i
 
 Japan's earliest known culture, the Jomon, produced some of the world's oldest pottery — cord-marked ceramics dating to around 14,000 BCE. The Jomon people were hunter-gatherers who lived in settled communities, an unusual combination that challenges the standard narrative about the development of civilization.
 
-Wet-rice agriculture arrived from the Korean Peninsula around 300 BCE, marking the beginning of the Yayoi period. Rice farming transformed everything. Populations grew. Social hierarchies formed around control of productive land. Metalworking appeared. By the 3rd century CE, powerful clans competed for dominance.
+Wet-rice agriculture arrived from the Korean Peninsula around 300 BCE, marking the beginning of the Yayoi period. [Rice farming](/rice-farming) transformed everything. Populations grew. Social hierarchies formed around control of productive land. [Metalworking](/metalworking) appeared. By the 3rd century CE, powerful clans competed for dominance.
 
 The Yamato clan gradually consolidated power, claiming descent from the sun goddess Amaterasu and establishing the imperial line that continues (at least nominally) to this day. Japan's imperial dynasty is the oldest continuous hereditary monarchy in the world — tradition places its founding at 660 BCE, though reliable historical records begin much later.
 
@@ -61,7 +61,7 @@ But Heian refinement masked political reality. Real power shifted from the imper
 
 The samurai era began in 1185, when the Minamoto clan defeated the Taira clan in the Genpei War and established the Kamakura Shogunate — a military government that ruled in the emperor's name but held all actual power. The emperor became a figurehead, a role he would occupy for most of the next 700 years.
 
-The samurai were originally mounted warriors — the word comes from *saburau*, "to serve." Over time, they developed into a distinct social class with its own code of conduct. Bushido — "the way of the warrior" — emphasized loyalty to one's lord, martial skill, honor, discipline, and (somewhat paradoxically) cultural refinement. A samurai was expected to write poetry and conduct tea ceremony with the same skill he wielded a sword.
+The samurai were originally mounted warriors — the word comes from *saburau*, "to serve." Over time, they developed into a distinct social class with its own code of conduct. Bushido — "the way of the warrior" — emphasized loyalty to one's lord, martial skill, honor, discipline, and (somewhat paradoxically) cultural refinement. A samurai was expected to write poetry and conduct [tea ceremony](/tea-ceremony) with the same skill he wielded a sword.
 
 The Kamakura Shogunate survived the Mongol invasions of 1274 and 1281. Kublai Khan sent massive fleets — the second invasion force may have included 140,000 men, making it the largest naval invasion in history until D-Day. Both invasions were thwarted by a combination of Japanese resistance and devastating typhoons — the *kamikaze* or "divine wind." The belief that Japan was divinely protected became a powerful element of national mythology.
 
@@ -73,9 +73,9 @@ Tokugawa Ieyasu established the Tokugawa Shogunate in 1603 after winning the Bat
 
 The Tokugawa system was ingenious in its control mechanisms. Daimyo were required to spend alternating years in the capital, Edo (modern Tokyo), leaving their families there permanently as hostages. Social classes — samurai, farmers, artisans, merchants — were fixed and hereditary. And beginning in the 1630s, the sakoku ("closed country") policy restricted foreign contact to a tiny Dutch trading post at Dejima in Nagasaki harbor.
 
-The isolation wasn't total — Japan maintained limited contact with China, Korea, and the Ryukyu Kingdom — but it was dramatic. Christianity, initially tolerated, was brutally suppressed after the Shimabara Rebellion (1637-1638), in which roughly 37,000 Christians and peasants were massacred. Foreign books were banned. Japanese who left the country faced execution upon return.
+The isolation wasn't total — Japan maintained limited contact with China, Korea, and the Ryukyu Kingdom — but it was dramatic. [Christianity](/christianity), initially tolerated, was brutally suppressed after the Shimabara Rebellion (1637-1638), in which roughly 37,000 Christians and peasants were massacred. Foreign books were banned. Japanese who left the country faced execution upon return.
 
-Yet the Tokugawa period was far from stagnant. Edo grew to over one million people by 1720, making it possibly the world's largest city. A vibrant urban culture emerged: kabuki theater, ukiyo-e woodblock prints (later a major influence on European Impressionism), the haiku poetry of Matsuo Basho, and a publishing industry that produced books, guides, and even proto-manga.
+Yet the Tokugawa period was far from stagnant. Edo grew to over one million people by 1720, making it possibly the world's largest city. A vibrant urban culture emerged: kabuki theater, ukiyo-e woodblock prints (later a major influence on European [Impressionism](/impressionism)), the haiku poetry of Matsuo Basho, and a publishing industry that produced books, guides, and even proto-manga.
 
 The merchant class, theoretically at the bottom of the social hierarchy, grew wealthy and culturally influential. Samurai, barred from commerce, often fell into debt to the merchants they officially outranked. The system's contradictions accumulated over centuries.
 
@@ -91,13 +91,13 @@ The speed was astonishing. Japan's first railway opened in 1872. The samurai cla
 
 ## Imperial Expansion and War
 
-Success bred ambition. Japan defeated China in 1894-1895, taking Taiwan and gaining influence in Korea. The Russo-Japanese War of 1904-1905 — in which Japan defeated a European great power for the first time in modern history — shocked the world and established Japan as a major military force. Korea was formally annexed in 1910.
+Success bred ambition. Japan defeated China in 1894-1895, taking Taiwan and gaining influence in Korea. The Russo-Japanese War of 1904-1905 — in which Japan defeated a European great power for the first time in [modern history](/modern-history) — shocked the world and established Japan as a major military force. Korea was formally annexed in 1910.
 
 World War I was profitable for Japan. As an Allied power, Japan took German possessions in the Pacific and expanded its industrial output. The 1920s brought democratic trends — expanded suffrage, party politics, cultural liberalization — in what's sometimes called "Taisho democracy."
 
-But the Great Depression hit Japan hard, and military factions gained influence. Japan invaded Manchuria in 1931, withdrew from the League of Nations in 1933, and launched a full-scale invasion of China in 1937. The Nanjing Massacre (1937-1938), in which Japanese soldiers killed an estimated 200,000-300,000 Chinese civilians and prisoners of war, remains one of the most controversial and painful episodes in East Asian history.
+But the Great Depression hit Japan hard, and military factions gained influence. Japan invaded Manchuria in 1931, withdrew from the League of Nations in 1933, and launched a full-scale invasion of China in 1937. The Nanjing Massacre (1937-1938), in which Japanese soldiers killed an estimated 200,000-300,000 Chinese civilians and prisoners of war, remains one of the most controversial and painful episodes in East [Asian history](/asian-history).
 
-Japan's attack on Pearl Harbor in December 1941 brought the United States into World War II. The Pacific War lasted nearly four years and ended with the atomic bombings of Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945), which killed roughly 120,000-226,000 people. Japan surrendered on August 15, 1945.
+Japan's attack on Pearl Harbor in December 1941 brought the United States into [World War II](/world-war-ii). The Pacific War lasted nearly four years and ended with the atomic bombings of Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945), which killed roughly 120,000-226,000 people. Japan surrendered on August 15, 1945.
 
 ## Postwar Transformation
 

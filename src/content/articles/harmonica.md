@@ -5,7 +5,7 @@ description: "The harmonica is a small wind instrument played by blowing and dra
 category: arts-amp-culture
 tags: ["harmonica", "musical instrument", "wind instrument", "blues", "folk music", "reed instrument"]
 heroImage: "/images/articles/harmonica.webp"
-heroAlt: "Close-up of a diatonic harmonica held in two hands ready to play"
+heroAlt: "Editorial photograph representing the concept of a harmonica"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is a Harmonica?
 
-A harmonica is a small, rectangular wind instrument played by blowing air into and drawing air out of holes, each containing one or more metal reeds that vibrate to produce sound. It fits in your pocket, costs less than a decent meal, requires no electricity, and has been central to some of the most emotionally powerful music ever recorded. Little Walter's amplified harmonica on Chicago blues records. Stevie Wonder's chromatic harmonica on "Isn't She Lovely." Bob Dylan's harmonica rack on every folk song he ever performed. For an instrument that's basically a metal comb with reeds, the harmonica has had an outsized impact on popular music.
+A harmonica is a small, rectangular wind instrument played by blowing air into and [drawing](/drawing) air out of holes, each containing one or more metal reeds that vibrate to produce sound. It fits in your pocket, costs less than a decent meal, requires no [electricity](/electricity), and has been central to some of the most emotionally powerful music ever recorded. Little Walter's amplified harmonica on Chicago blues records. Stevie Wonder's chromatic harmonica on "Isn't She Lovely." Bob Dylan's harmonica rack on every folk song he ever performed. For an instrument that's basically a metal comb with reeds, the harmonica has had an outsized impact on popular music.
 
 ## How It Works
 
@@ -43,7 +43,7 @@ On a standard 10-hole diatonic harmonica in the key of C, blowing gives you the 
 
 ## Types of Harmonicas
 
-**Diatonic harmonica** — 10 holes, 20 reeds, plays in one key. This is the blues harmonica, the folk harmonica, the rock harmonica. It's tuned to a major scale but can play in multiple keys using different "positions" (playing patterns that emphasize different notes of the harmonica's scale). **First position** (straight harp) plays in the labeled key — a C harmonica plays in C. **Second position** (cross harp) plays in the key a fifth above — a C harmonica plays blues in G. Most blues harmonica is played in second position because the draw notes and bends naturally produce blue notes.
+**Diatonic harmonica** — 10 holes, 20 reeds, plays in one key. This is the blues harmonica, the folk harmonica, the rock harmonica. It's tuned to a major scale but can play in multiple keys using different "positions" (playing patterns that emphasize different notes of the harmonica's scale). **First position** (straight [harp](/harp)) plays in the labeled key — a C harmonica plays in C. **Second position** (cross harp) plays in the key a fifth above — a C harmonica plays blues in G. Most blues harmonica is played in second position because the draw notes and bends naturally produce blue notes.
 
 **Chromatic harmonica** — has a slide button on the side that, when pressed, redirects air to a second set of reeds tuned a half step higher. This gives the player access to all 12 notes of the chromatic scale in every octave. It's the harmonica of jazz, classical, and pop — Stevie Wonder, Toots Thielemans, and Larry Adler all played chromatic. It's larger, more expensive, and technically different from the diatonic.
 
@@ -55,7 +55,7 @@ The harmonica's identity in American music is inseparable from the blues. Africa
 
 **Sonny Terry** played acoustic blues harmonica with whooping, fox-chase-imitating techniques that were wildly expressive. **John Lee "Sonny Boy" Williamson** established the harmonica as a lead blues instrument in the 1930s and 40s.
 
-Then **Little Walter Jacobs** changed everything. In 1951, playing with Muddy Waters's band in Chicago, he began cupping a small microphone against the harmonica and running it through a guitar amplifier. The overdriven, distorted sound was raw, aggressive, and entirely new. His recording of "Juke" (1952) — the only harmonica instrumental to reach #1 on the R&B charts — defined Chicago blues harmonica. The amplified harmonica sound he created influenced every blues harmonica player who followed.
+Then **Little Walter Jacobs** changed everything. In 1951, playing with Muddy Waters's band in Chicago, he began cupping a small microphone against the harmonica and [running](/running) it through [a guitar](/guitar) amplifier. The overdriven, distorted sound was raw, aggressive, and entirely new. His recording of "Juke" (1952) — the only harmonica instrumental to reach #1 on the R&B charts — defined Chicago blues harmonica. The amplified harmonica sound he created influenced every blues harmonica player who followed.
 
 **Big Walter Horton**, **James Cotton**, **Junior Wells**, and later **Charlie Musselwhite** and **Kim Wilson** continued the tradition. Blues harmonica remains one of the most expressive and emotionally direct sounds in music — a single bent note can convey more feeling than a paragraph of lyrics.
 
@@ -63,11 +63,11 @@ Then **Little Walter Jacobs** changed everything. In 1951, playing with Muddy Wa
 
 The harmonica appears across genres far beyond blues.
 
-**Folk and country** — Woody Guthrie, Bob Dylan, Neil Young, and Bruce Springsteen all used the harmonica as a songwriting companion, often played on a neck rack while strumming guitar. Dylan's harmonica playing is technically limited but emotionally perfect — it sounds exactly like it should for the songs.
+**Folk and country** — Woody Guthrie, Bob Dylan, Neil Young, and Bruce Springsteen all used the harmonica as a [songwriting](/songwriting) companion, often played on a neck rack while strumming guitar. Dylan's harmonica playing is technically limited but emotionally perfect — it sounds exactly like it should for the songs.
 
-**Rock** — John Lennon played harmonica on early Beatles tracks ("Love Me Do," "Please Please Me"). The Rolling Stones' records feature harmonica prominently. Aerosmith's "Livin' on the Edge," Billy Joel's "Piano Man" — the harmonica shows up in rock more than people realize.
+**Rock** — John Lennon played harmonica on early Beatles tracks ("Love Me Do," "Please Please Me"). The Rolling Stones' records feature harmonica prominently. Aerosmith's "Livin' on the Edge," Billy Joel's "[Piano](/piano) Man" — the harmonica shows up in rock more than people realize.
 
-**Jazz** — Toots Thielemans (chromatic harmonica) played with Quincy Jones, Jaco Pastorius, and countless jazz legends. His tone and melodic sensibility earned him recognition as one of jazz's finest instrumentalists — on any instrument, not just harmonica.
+**Jazz** — Toots Thielemans (chromatic harmonica) played with Quincy Jones, Jaco Pastorius, and countless jazz [legends](/legends). His tone and melodic sensibility earned him recognition as one of jazz's finest instrumentalists — on any instrument, not just harmonica.
 
 **Classical** — the chromatic harmonica has a growing classical repertoire, including concertos by Villa-Lobos, Malcolm Arnold, and others. It's still niche, but the instrument's capabilities in trained hands are far beyond what most people expect.
 
@@ -77,8 +77,8 @@ Buy a quality diatonic harmonica in C. Avoid the $5 harmonicas at tourist shops 
 
 **Week 1:** Learn to get clean single notes (one hole at a time, not chords). The most common technique is the **pucker method** — pursing your lips to isolate one hole. The alternative is **tongue blocking** — covering multiple holes with your mouth and blocking all but one with your tongue. Both work; tongue blocking is more versatile long-term.
 
-**Weeks 2-4:** Learn simple melodies. "Oh Susanna," "Mary Had a Little Lamb," "Amazing Grace" — these teach hole navigation and breath control.
+**Weeks 2-4:** Learn simple melodies. "Oh Susanna," "Mary Had a Little Lamb," "Amazing Grace" — these teach hole [navigation](/navigation) and breath control.
 
 **Month 2+:** Start learning draw bends. This is where it gets challenging and where the instrument starts sounding like the blues records you're trying to emulate. Expect weeks of practice before bends become reliable.
 
-The harmonica rewards practice with a directness that few instruments match. The sound comes from your breath, shaped by your mouth, controlled by your lungs and diaphragm. It's as close to singing through an instrument as you can get — and that intimacy is why, for such a small and simple device, it can produce sounds that stop people in their tracks.
+The harmonica rewards practice with a directness that few instruments match. The sound comes from your breath, shaped by your mouth, controlled by your lungs and diaphragm. It's as close to [singing](/singing) through an instrument as you can get — and that intimacy is why, for such a small and simple device, it can produce sounds that stop people in their tracks.

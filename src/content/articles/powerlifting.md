@@ -5,7 +5,7 @@ description: "Powerlifting is a strength sport where athletes compete in the squ
 category: sports
 tags: ["powerlifting", "strength sport", "squat", "bench press", "deadlift", "strength training"]
 heroImage: "/images/articles/powerlifting.webp"
-heroAlt: "Powerlifter performing a heavy barbell squat in competition"
+heroAlt: "Editorial photograph representing the concept of powerlifting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -71,7 +71,7 @@ Most training programs follow a periodization model:
 
 A typical training week might include squatting 2-3 days, benching 2-4 days, and deadlifting 1-2 days, plus accessory exercises targeting weak points (hamstrings, triceps, upper back, core).
 
-Recovery is critical. Heavy lifting damages muscle tissue, which needs 48-72 hours to repair and grow stronger. Sleep, nutrition (particularly protein — most powerlifters aim for 0.7-1.0 grams per pound of bodyweight daily), and stress management all affect recovery.
+Recovery is critical. Heavy lifting damages muscle tissue, which needs 48-72 hours to repair and grow stronger. Sleep, [nutrition](/nutrition) (particularly protein — most powerlifters aim for 0.7-1.0 grams per pound of bodyweight daily), and stress [management](/management) all affect recovery.
 
 ## The Culture
 
@@ -93,6 +93,6 @@ There are ongoing efforts to get powerlifting into the Olympics. The IPF has IOC
 
 Powerlifting gives you an objective, measurable answer to a simple question: how strong are you? The number on the bar doesn't lie. You either make the lift or you don't. In a world full of ambiguity, there's something satisfying about that clarity.
 
-It also changes your relationship with your body. Instead of asking "how do I look?" you ask "what can I do?" That shift — from aesthetics to performance — is psychologically powerful for many lifters, particularly those who've struggled with body image.
+It also changes your relationship with your body. Instead of asking "how do I look?" you ask "what can I do?" That shift — from [aesthetics](/aesthetics) to performance — is psychologically powerful for many lifters, particularly those who've struggled with body image.
 
 And there's the community. Powerlifting gyms and meets create a kind of belonging that's hard to find elsewhere. Everyone in the room knows what it feels like to grind through a heavy squat. That shared experience builds bonds that go beyond the platform.

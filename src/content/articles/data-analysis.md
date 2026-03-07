@@ -5,7 +5,7 @@ description: "Data analysis is the process of inspecting, cleaning, and modeling
 category: technology
 tags: ["data analysis", "statistics", "data science", "analytics", "business intelligence", "visualization", "research"]
 heroImage: "/images/articles/data-analysis-hero.webp"
-heroAlt: "Charts and graphs displaying patterns found through data analysis"
+heroAlt: "Editorial photograph representing the concept of data analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Data Analysis?
 
-Data analysis is the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It sits at the intersection of statistics, domain expertise, and increasingly, computer science—and it's become one of the most in-demand skills across virtually every industry.
+Data analysis is the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It sits at the intersection of statistics, domain expertise, and increasingly, [computer science](/computer-science)—and it's become one of the most in-demand skills across virtually every industry.
 
 ## Why Data Analysis Matters More Than Ever
 
@@ -143,7 +143,7 @@ Techniques like moving averages smooth out noise to reveal underlying trends. Mo
 
 ### Text Analysis
 
-Not all data is numerical. Emails, reviews, social media posts, and support tickets contain valuable information locked in unstructured text. Text analysis (also called text mining or natural language processing) extracts meaning from written language.
+Not all data is numerical. Emails, reviews, social media posts, and support tickets contain valuable information locked in unstructured text. Text analysis (also called text mining or [natural language processing](/natural-language-processing)) extracts meaning from written language.
 
 Sentiment analysis determines whether text expresses positive, negative, or neutral opinions. Topic modeling identifies themes across large document collections. Named entity recognition extracts specific items like company names, locations, and dates from text.
 
@@ -151,7 +151,7 @@ A hotel chain analyzing 50,000 guest reviews can't read each one individually. T
 
 ### Cohort Analysis
 
-Cohort analysis groups people by shared characteristics or experiences and tracks their behavior over time. It's huge in product management and marketing.
+Cohort analysis groups people by shared characteristics or experiences and tracks their behavior over time. It's huge in [product management](/product-management) and marketing.
 
 Instead of looking at all customers as one group, you might separate them by acquisition month. This reveals whether customers who joined in January behave differently from those who joined in June. Maybe your January cohort has higher retention because of a holiday promotion that attracted more committed buyers.
 
@@ -253,13 +253,13 @@ Data analysis isn't value-neutral. The choices analysts make—what questions to
 
 ## Building a Career in Data Analysis
 
-The job market for data analysts is genuinely strong. The U.S. Bureau of Labor Statistics projects 23% growth in operations research and related analyst roles through 2031. Median salaries range from $60,000 for entry-level positions to $120,000+ for senior analysts and analytics managers.
+The job market for data analysts is genuinely strong. The U.S. Bureau of Labor Statistics projects 23% growth in [operations research](/operations-research) and related analyst roles through 2031. Median salaries range from $60,000 for entry-level positions to $120,000+ for senior analysts and analytics managers.
 
 ### Skills to Develop
 
 The most valuable analyst skills, in rough order of importance:
 
-1. **Critical thinking**: Asking the right questions matters more than technical skills
+1. **[Critical thinking](/critical-thinking)**: Asking the right questions matters more than technical skills
 2. **SQL**: The universal language of data access
 3. **Excel/Sheets**: Still the lingua franca of business
 4. **Statistics fundamentals**: Understanding distributions, hypothesis testing, and regression

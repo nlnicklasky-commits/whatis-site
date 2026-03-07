@@ -5,7 +5,7 @@ description: "Osteopathy is a medical approach that emphasizes the musculoskelet
 category: health-amp-wellness
 tags: ["osteopathy", "osteopathic medicine", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/osteopathy.webp"
-heroAlt: "An osteopathic physician performing manual therapy on a patient's spine"
+heroAlt: "Editorial photograph representing the concept of osteopathy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ Here's what trips people up right away. "Osteopathy" means very different things
 
 **In the United States**, osteopathic medicine is a fully licensed branch of medicine. Doctors of Osteopathic Medicine (DOs) attend four-year medical schools, complete residency training, prescribe medications, perform surgeries, and practice in every medical specialty — from family medicine to neurosurgery. They have the same practice rights as MDs. There are currently about 115,000 practicing DOs in the U.S., and roughly 25% of all medical students in the country attend osteopathic schools.
 
-**In most other countries** — the UK, Australia, Canada, much of Europe — osteopathy is practiced as a manual therapy, closer to what Americans might think of as physical therapy or chiropractic care. Practitioners aren't medical doctors. They focus on musculoskeletal assessment and hands-on treatment, and they don't prescribe drugs or perform surgery.
+**In most other countries** — the UK, Australia, Canada, much of Europe — osteopathy is practiced as a manual therapy, closer to what Americans might think of as [physical therapy](/physical-therapy) or [chiropractic](/chiropractic) care. Practitioners aren't medical doctors. They focus on musculoskeletal assessment and hands-on treatment, and they don't prescribe drugs or perform surgery.
 
 This dual identity causes endless confusion. An American DO is a fully trained physician who happens to also know manual medicine techniques. A British osteopath is a manual therapist who doesn't go to medical school. Same word, radically different credentials. Keep this distinction in mind as we go.
 
 ## Andrew Taylor Still and the Origins
 
-Osteopathy was invented — there's really no other word for it — by Andrew Taylor Still, a physician and Civil War surgeon from Missouri. In 1874, Still announced a new philosophy of medicine based on principles he'd developed after becoming deeply frustrated with the medical practices of his era.
+Osteopathy was invented — there's really no other word for it — by Andrew Taylor Still, a physician and Civil War surgeon from Missouri. In 1874, Still announced a new [philosophy](/philosophy) of medicine based on principles he'd developed after becoming deeply frustrated with the medical practices of his era.
 
 And frankly, he had reason to be frustrated. Medicine in the 1870s was rough. Doctors routinely prescribed mercury, arsenic, and other toxic substances. Bloodletting was still common. Three of Still's children died during a meningitis epidemic, and he felt powerless to help them with the tools available.
 
@@ -57,7 +57,7 @@ Still's central insight was that the body's musculoskeletal structure directly i
 
 He founded the first school of osteopathic medicine in Kirksville, Missouri, in 1892. The American School of Osteopathy attracted students who were drawn to Still's hands-on approach and his emphasis on treating the whole patient rather than just symptoms.
 
-Over the next century, American osteopathic medicine evolved dramatically. It gradually incorporated all the tools of conventional medicine — pharmacology, surgery, modern diagnostic technology — while retaining its distinctive emphasis on manual treatment and a whole-body perspective. The profession fought long political and legal battles for recognition, finally achieving full practice equality with MDs by the mid-20th century.
+Over the next century, American osteopathic medicine evolved dramatically. It gradually incorporated all the tools of conventional medicine — [pharmacology](/pharmacology), surgery, modern diagnostic technology — while retaining its distinctive emphasis on manual treatment and a whole-body perspective. The profession fought long political and legal battles for recognition, finally achieving full practice equality with MDs by the mid-20th century.
 
 ## The Four Principles
 
@@ -101,9 +101,9 @@ The honest assessment is that OMT works best for what you'd intuitively expect: 
 
 Becoming a DO follows a path that closely mirrors the MD track:
 
-**Undergraduate education** (4 years): Pre-medical coursework in biology, chemistry, physics, and related subjects.
+**Undergraduate [education](/education)** (4 years): Pre-medical coursework in biology, [chemistry](/chemistry), physics, and related subjects.
 
-**Osteopathic medical school** (4 years): The curriculum covers the same material as MD programs — anatomy, physiology, pharmacology, pathology, clinical rotations in all major specialties. The key addition is roughly 200 hours of OMT training spread across all four years.
+**Osteopathic medical school** (4 years): The curriculum covers the same material as MD programs — anatomy, [physiology](/physiology), pharmacology, pathology, clinical rotations in all major specialties. The key addition is roughly 200 hours of OMT training spread across all four years.
 
 **Residency** (3-7 years depending on specialty): Since 2020, all MD and DO graduates compete for the same residency positions through the same matching process. This merger of the previously separate residency systems was one of the biggest changes in American medical education in decades.
 
@@ -131,14 +131,14 @@ Outside the United States, osteopathy's status varies wildly:
 
 **France**: One of the largest osteopathic workforces in Europe, with over 30,000 practitioners. The profession has been regulated since 2007.
 
-**Many other countries**: Osteopathy exists in a gray area — practiced but not always regulated, recognized by some insurance systems and not others.
+**Many other countries**: Osteopathy exists in a gray area — practiced but not always regulated, recognized by some [insurance](/insurance) systems and not others.
 
 The World Health Organization published benchmarks for osteopathic training in 2010, attempting to establish international standards. But the fundamental split — between the American model (full physician) and the international model (manual therapist) — shows no signs of merging. They've evolved into genuinely different professions that share a name and some historical roots.
 
 ## What to Know If You're Considering Seeing One
 
-If you're in the United States and want to see a DO, the experience will be almost identical to seeing an MD for most conditions. You might ask whether they incorporate OMT into their practice — many do for appropriate musculoskeletal complaints, but some DOs, particularly in specialties like cardiology or psychiatry, rarely use manual techniques.
+If you're in the United States and want to see a DO, the experience will be almost identical to seeing an MD for most conditions. You might ask whether they incorporate OMT into their practice — many do for appropriate musculoskeletal complaints, but some DOs, particularly in specialties like cardiology or [psychiatry](/psychiatry), rarely use manual techniques.
 
 If you're outside the U.S. and considering seeing an osteopath, understand that you're seeking a manual therapy practitioner, not a medical doctor. For musculoskeletal pain — back pain, neck stiffness, certain headaches — this can be very helpful. For anything requiring medication, surgery, or complex medical diagnosis, you'll need to see a physician separately.
 
-The bottom line: osteopathy's identity depends entirely on geography. In one country, it's a complete medical profession. In another, it's a manual therapy. Knowing which version you're dealing with matters a great deal.
+The bottom line: osteopathy's identity depends entirely on [geography](/geography). In one country, it's a complete medical profession. In another, it's a manual therapy. Knowing which version you're dealing with matters a great deal.

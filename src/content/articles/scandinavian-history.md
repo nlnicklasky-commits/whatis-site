@@ -5,7 +5,7 @@ description: "Scandinavian history covers the shared past of Denmark, Norway, an
 category: history
 tags: ["scandinavia", "nordic history", "viking age", "denmark", "norway"]
 heroImage: "/images/articles/scandinavian-history.webp"
-heroAlt: "Viking longship sailing through a Norwegian fjord with mountains in the background"
+heroAlt: "Editorial photograph representing the concept of scandinavian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,13 +57,13 @@ But reducing the Vikings to raiders misses most of the story. Yes, they raided. 
 
 **The Swedes** (known as Varangians) went east. They traveled down the rivers of Russia, establishing trading posts and political control over Slavic populations. The city of Novgorod and the state of Kievan Rus both had Scandinavian origins. Varangian traders reached Constantinople and Baghdad, trading furs, slaves, and amber for silver, silk, and spices.
 
-Viking society was more complex than popular culture suggests. They had sophisticated legal systems — the **Thing** (assembly) was a gathering where free men settled disputes, made laws, and elected leaders. Iceland's **Althing**, established in 930 CE, is often called the world's oldest parliament. Women in Viking society had more rights than in most contemporary European cultures — they could own property, request divorce, and manage households independently.
+Viking society was more complex than [popular culture](/popular-culture) suggests. They had sophisticated legal systems — the **Thing** (assembly) was a gathering where free men settled disputes, made laws, and elected leaders. Iceland's **Althing**, established in 930 CE, is often called the world's oldest parliament. Women in Viking society had more rights than in most contemporary European cultures — they could own property, request divorce, and manage households independently.
 
-The Vikings also produced extraordinary literature. The **Eddas** and **Sagas** — written down in Iceland in the 13th century but based on older oral traditions — rank among the great literary achievements of medieval Europe. Norse mythology, with Odin, Thor, Loki, Valhalla, and Ragnarok, has become a permanent part of Western cultural imagination.
+The Vikings also produced extraordinary [literature](/literature). The **Eddas** and **Sagas** — written down in Iceland in the 13th century but based on older oral traditions — rank among the great literary achievements of medieval Europe. [Norse mythology](/norse-mythology), with Odin, Thor, Loki, Valhalla, and Ragnarok, has become a permanent part of Western cultural imagination.
 
 ## Christianization and Medieval Kingdoms (1000-1397)
 
-The Viking Age ended as Scandinavians converted to Christianity and organized themselves into recognizable kingdoms. The transition wasn't smooth.
+The Viking Age ended as Scandinavians converted to [Christianity](/christianity) and organized themselves into recognizable kingdoms. The transition wasn't smooth.
 
 **Denmark** was the first to Christianize, under Harald Bluetooth (yes, the wireless technology is named after him) around 965 CE. **Norway** followed under Olaf Tryggvason and Olaf Haraldsson (Saint Olaf) in the early 1000s, though conversion involved considerable violence — Olaf Tryggvason reportedly offered baptism or death. **Sweden** was the last to convert, with pagan worship persisting in Uppsala into the late 11th century.
 
@@ -89,11 +89,11 @@ Norway, weaker and less populated, remained under Danish control until 1814.
 
 The Protestant Reformation swept through Scandinavia in the 1520s-1530s, partly for genuine religious reasons and partly because kings saw an opportunity to seize Church property and wealth. Denmark-Norway and Sweden became Lutheran, and Lutheranism became deeply embedded in Scandinavian culture — it remains the dominant religious tradition today.
 
-The 1600s were Sweden's golden age. Under kings like **Gustavus Adolphus** (Gustav II Adolf), Sweden became a major European power, intervening decisively in the Thirty Years' War (1618-1648) and building an empire around the Baltic Sea. At its peak, the Swedish Empire controlled Finland, Estonia, Latvia, parts of northern Germany, and parts of Norway.
+The 1600s were Sweden's golden age. Under kings like **Gustavus Adolphus** (Gustav II Adolf), Sweden became a major European power, intervening decisively in the [Thirty Years' War](/thirty-years-war) (1618-1648) and building an empire around the Baltic Sea. At its peak, the Swedish Empire controlled Finland, Estonia, Latvia, parts of northern Germany, and parts of Norway.
 
 This ended dramatically with **Charles XII** and the Great Northern War (1700-1721). Charles XII — brilliant, reckless, and probably a little crazy — fought Peter the Great of Russia and lost catastrophically. Sweden's empire collapsed. Russia replaced Sweden as the dominant Baltic power, and Sweden never fully recovered its great-power status.
 
-Denmark-Norway, meanwhile, declined steadily. Losing Sweden weakened Denmark. The Napoleonic Wars proved fatal to the union — Denmark backed Napoleon and lost; Norway was transferred to Sweden in 1814 as punishment.
+Denmark-Norway, meanwhile, declined steadily. Losing Sweden weakened Denmark. The [Napoleonic Wars](/napoleonic-wars) proved fatal to the union — Denmark backed Napoleon and lost; Norway was transferred to Sweden in 1814 as punishment.
 
 ## The 1800s — Nationalism and Modernization
 
@@ -107,11 +107,11 @@ The 19th century transformed Scandinavia. Three major developments stand out.
 
 ## The 20th Century — Wars, Welfare, and the Nordic Model
 
-World War I largely bypassed Scandinavia — all three countries remained neutral. World War II was different. **Denmark and Norway** were invaded by Nazi Germany in April 1940. Denmark surrendered within hours. Norway fought for two months before its government fled to London.
+[World War I](/world-war-i) largely bypassed Scandinavia — all three countries remained neutral. [World War II](/world-war-ii) was different. **Denmark and Norway** were invaded by Nazi Germany in April 1940. Denmark surrendered within hours. Norway fought for two months before its [government](/government) fled to London.
 
 **Sweden** remained officially neutral throughout the war, though its neutrality was complicated — it sold iron ore to Germany, allowed German troops to transit through Sweden, and simultaneously sheltered refugees and passed intelligence to the Allies.
 
-The postwar period saw the development of the **Nordic model** — a distinctive approach to political economy that combined market capitalism with extensive welfare states, strong labor unions, progressive taxation, and universal public services (healthcare, education, childcare). This wasn't socialism, as critics sometimes claim — Scandinavian countries have market economies, private property, and thriving private sectors. But they redistribute more aggressively than most countries, investing heavily in social safety nets.
+The postwar period saw the development of the **Nordic model** — a distinctive approach to political economy that combined market [capitalism](/capitalism) with extensive welfare states, strong labor unions, progressive taxation, and universal public services (healthcare, education, childcare). This wasn't socialism, as critics sometimes claim — Scandinavian countries have market economies, private property, and thriving private sectors. But they redistribute more aggressively than most countries, investing heavily in social safety nets.
 
 The results speak for themselves. Scandinavian countries consistently rank among the top nations for quality of life, education, social mobility, gender equality, press freedom, and — that overused but telling metric — happiness. Norway's sovereign wealth fund, built on North Sea oil revenue, exceeds $1.5 trillion, making it the world's largest.
 

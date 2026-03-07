@@ -5,7 +5,7 @@ description: "Table tennis (ping-pong) is a fast-paced racket sport played on a 
 category: everyday-concepts
 tags: ["table tennis", "ping-pong", "racket sport", "Olympics", "sports", "recreation"]
 heroImage: "/images/articles/table-tennis.webp"
-heroAlt: "Two players competing in a table tennis match with paddles and a small white ball"
+heroAlt: "Editorial photograph representing the concept of table tennis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -63,13 +63,13 @@ Table tennis originated in Victorian-era England as an after-dinner parlor game,
 
 The sport was formalized with the creation of the International Table Tennis Federation in 1926. It became an [Olympic](/sports-history) sport in 1988. China's dominance has been a defining feature since the 1960s — the country has won 32 of 37 Olympic gold medals in the sport through 2024.
 
-The famous "Ping-Pong Diplomacy" of 1971, when American and Chinese table tennis players exchanged visits, helped thaw relations between the two countries and paved the way for President Nixon's historic visit to China.
+The famous "Ping-Pong [Diplomacy](/diplomacy)" of 1971, when American and Chinese table tennis players exchanged visits, helped thaw relations between the two countries and paved the way for President Nixon's historic visit to China.
 
 ## Health Benefits
 
-Table tennis is excellent [exercise](/exercise-physiology) despite its modest appearance. It improves hand-eye coordination, reflexes, and fine motor skills. It provides moderate cardiovascular conditioning. Research suggests it may be particularly beneficial for brain health — a Japanese study found that table tennis improved cognitive function in elderly participants more than other physical activities.
+Table tennis is excellent [exercise](/exercise-[physiology](/physiology)) despite its modest appearance. It improves hand-eye coordination, reflexes, and fine motor skills. It provides moderate cardiovascular conditioning. Research suggests it may be particularly beneficial for brain health — a Japanese study found that table tennis improved cognitive function in elderly participants more than other physical activities.
 
-The sport is also remarkably accessible. You can play at any age, any fitness level, and in a very small space. Many rehabilitation programs use table tennis for stroke recovery, Parkinson's disease management, and mobility improvement.
+The sport is also remarkably accessible. You can play at any age, any [fitness](/fitness) level, and in a very small space. Many rehabilitation programs use table tennis for stroke recovery, Parkinson's disease [management](/management), and mobility improvement.
 
 ## Why It Captivates
 

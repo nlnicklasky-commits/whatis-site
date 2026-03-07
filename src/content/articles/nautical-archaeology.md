@@ -5,7 +5,7 @@ description: "Nautical archaeology studies shipwrecks and underwater sites to un
 category: history
 tags: ["nautical archaeology", "underwater archaeology", "shipwrecks", "maritime history"]
 heroImage: "/images/articles/nautical-archaeology.webp"
-heroAlt: "Underwater archaeologist documenting a centuries-old wooden shipwreck on the ocean floor"
+heroAlt: "Editorial photograph representing the concept of nautical archaeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
     a: "Ownership is complicated and depends on where the wreck is, whose waters it's in, what flag the ship flew, and applicable national and international law. Military vessels generally remain the property of their home nation regardless of where they sank. Commercial wrecks in international waters are governed by admiralty law. The 2001 UNESCO Convention on the Protection of the Underwater Cultural Heritage established that wrecks over 100 years old should be preserved in situ rather than commercially exploited, but not all countries have ratified it."
 ---
 
-# What Is Nautical Archaeology?
+# What Is Nautical [Archaeology](/archaeology)?
 
-Nautical archaeology is the study of human interaction with the sea through the physical remains of ships, boats, harbors, cargoes, and coastal structures. It's a subfield of archaeology that works primarily — though not exclusively — underwater, examining everything from Bronze Age trading vessels to World War II submarines.
+Nautical archaeology is the study of human interaction with the sea through the physical remains of ships, boats, harbors, cargoes, and coastal structures. It's a subfield of archaeology that works primarily — though not exclusively — underwater, examining everything from Bronze Age trading vessels to [World War II](/world-war-ii) submarines.
 
-The field goes by several names. "Maritime archaeology" is often used interchangeably with nautical archaeology, though some academics draw distinctions. "Underwater archaeology" is broader, covering any submerged site including flooded cities, lakeside settlements, and submerged caves. Nautical archaeology is specifically focused on watercraft and seafaring.
+The field goes by several names. "Maritime archaeology" is often used interchangeably with nautical archaeology, though some academics draw distinctions. "[Underwater archaeology](/underwater-archaeology)" is broader, covering any submerged site including flooded cities, lakeside settlements, and submerged caves. Nautical archaeology is specifically focused on watercraft and seafaring.
 
 ## Why Shipwrecks Matter
 
@@ -45,7 +45,7 @@ Think about it this way: a building on land is exposed to weather, scavenging, d
 
 The Uluburun shipwreck, discovered off the coast of Turkey in 1982 and dated to around 1300 BCE, contained a cargo that reads like a Bronze Age trade manifest: copper and tin ingots, glass beads from Egypt, ivory from elephants and hippos, pomegranates, almonds, olives, and the oldest known intact book (a set of wooden writing boards). No single land-based archaeological site from the same period has produced such a concentrated snapshot of Mediterranean trade.
 
-Ships also tell us things that other evidence can't. The construction techniques in a vessel's hull reveal what its builders knew about engineering, materials, and hydrodynamics. Cargo reveals trade routes and economic relationships. Personal belongings reveal daily life at sea. All of this information is available only because the ship sank — which is a strange kind of luck.
+Ships also tell us things that other evidence can't. The [construction](/construction) techniques in a vessel's hull reveal what its builders knew about [engineering](/engineering), materials, and [hydrodynamics](/hydrodynamics). Cargo reveals trade routes and economic relationships. Personal belongings reveal daily life at sea. All of this information is available only because the ship sank — which is a strange kind of luck.
 
 ## How It's Done
 
@@ -78,7 +78,7 @@ Modern nautical archaeology relies heavily on photogrammetry — taking thousand
 
 Here's the part most people don't think about: getting artifacts out of the water is only the beginning. Objects that have been submerged for centuries have reached a chemical equilibrium with their environment. Remove them from that environment and they start deteriorating — fast.
 
-Wood becomes saturated with water and will warp, crack, and crumble if it dries out uncontrolled. Iron objects are riddled with chloride salts that trigger rapid corrosion in air. Even pottery and stone can be damaged by salt crystallization as they dry.
+Wood becomes saturated with water and will warp, crack, and crumble if it dries out uncontrolled. Iron objects are riddled with chloride salts that trigger rapid corrosion in air. Even [pottery](/pottery) and stone can be damaged by salt crystallization as they dry.
 
 Conservation of waterlogged materials is expensive, time-consuming, and technically demanding. The preservation of the *Vasa* — a Swedish warship that sank in 1628 and was raised in 1961 — required decades of chemical treatment with polyethylene glycol (PEG) to replace the water in its timbers. The process cost millions and isn't even fully settled yet — conservators are still monitoring the ship for ongoing degradation.
 
@@ -100,7 +100,7 @@ Discovered in 1985 by Robert Ballard at a depth of 3,800 meters in the North Atl
 
 ### The Skuldelev Ships (c. 1070 CE)
 
-Five Viking ships deliberately sunk as a blockade in Roskilde Fjord, Denmark. Excavated between 1957 and 1962, they revealed the range of Norse shipbuilding — from sleek warships to broad-beamed cargo vessels. The ships are now displayed in the Viking Ship Museum in Roskilde.
+Five Viking ships deliberately sunk as a blockade in Roskilde Fjord, Denmark. Excavated between 1957 and 1962, they revealed the range of Norse [shipbuilding](/shipbuilding) — from sleek warships to broad-beamed cargo vessels. The ships are now displayed in the Viking Ship Museum in Roskilde.
 
 ## The Treasure Hunter Problem
 
@@ -114,7 +114,7 @@ The UNESCO Convention on the Protection of the Underwater Cultural Heritage, ado
 
 ## Current Challenges
 
-**Climate change** is affecting underwater sites. Rising water temperatures accelerate biological degradation. Increased storm frequency and intensity can damage shallow-water wrecks. Changing ocean chemistry — particularly acidification — threatens metal artifacts and marine organisms that stabilize wreck structures.
+**Climate change** is affecting underwater sites. Rising water temperatures accelerate biological degradation. Increased storm frequency and intensity can damage shallow-water wrecks. Changing ocean [chemistry](/chemistry) — particularly acidification — threatens metal artifacts and marine organisms that stabilize wreck structures.
 
 **Deep-sea mining** and offshore energy development risk damaging undiscovered wreck sites. As industrial activity extends into deeper waters, the potential for accidental destruction of archaeological sites grows.
 
@@ -124,7 +124,7 @@ The UNESCO Convention on the Protection of the Underwater Cultural Heritage, ado
 
 ## Why It Matters
 
-The ocean covers 71% of the Earth's surface, and humans have been sailing it for at least 50,000 years (based on the earliest evidence of sea crossings to Australia). The maritime archaeological record represents an enormous and largely unexplored archive of human history.
+The ocean covers 71% of the Earth's surface, and humans have been [sailing](/sailing) it for at least 50,000 years (based on the earliest evidence of sea crossings to Australia). The maritime archaeological record represents an enormous and largely unexplored archive of human history.
 
 Every shipwreck is a snapshot — a moment when a ship, its cargo, and its crew were frozen in time. Those snapshots tell stories that land-based archaeology simply cannot: about trade routes, naval technology, seafaring cultures, the movement of goods and ideas across oceans, and the daily realities of life at sea.
 

@@ -5,7 +5,7 @@ description: "Underwater archaeology studies human history through submerged sit
 category: history
 tags: ["underwater archaeology", "shipwrecks", "maritime", "conservation"]
 heroImage: "/images/articles/underwater-archaeology.webp"
-heroAlt: "A scuba diver carefully documenting an ancient shipwreck on the ocean floor"
+heroAlt: "Editorial photograph representing the concept of underwater archaeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,11 +51,11 @@ Cold freshwater environments work similarly. The Great Lakes contain hundreds of
 
 ## How Underwater Archaeology Became a Real Science
 
-For most of history, underwater sites were either inaccessible or treated as salvage opportunities, not research subjects. Sponge divers occasionally brought up ancient artifacts, and treasure hunters plundered accessible wrecks for centuries. The scientific study of underwater sites only became possible after World War II, when two developments converged: the Aqua-Lung (invented by Jacques Cousteau and Emile Gagnan in 1943) and a growing archaeological community willing to get wet.
+For most of history, underwater sites were either inaccessible or treated as salvage opportunities, not research subjects. Sponge divers occasionally brought up ancient artifacts, and treasure hunters plundered accessible wrecks for centuries. The scientific study of underwater sites only became possible after [World War II](/world-war-ii), when two developments converged: the Aqua-Lung (invented by Jacques Cousteau and Emile Gagnan in 1943) and a growing archaeological community willing to get wet.
 
 George Bass, an American archaeologist, is widely considered the father of underwater archaeology. In 1960, at Cape Gelidonya off the Turkish coast, Bass conducted the first complete excavation of an ancient shipwreck using proper archaeological methods. He insisted on the same recording standards used on land — grid systems, scaled drawings, stratigraphic analysis — adapted for underwater conditions. The site turned out to be a Bronze Age merchant vessel from around 1200 BCE, carrying copper and tin ingots.
 
-Bass went on to found the Institute of Nautical Archaeology (INA) at Texas A&M University in 1972, which has trained generations of underwater archaeologists and excavated dozens of major sites. His work established a critical principle: the goal isn't to grab stuff off the bottom. It's to understand what the stuff *means* — and that requires recording precisely where everything was found.
+Bass went on to found the Institute of [Nautical Archaeology](/nautical-archaeology) (INA) at Texas A&M University in 1972, which has trained generations of underwater archaeologists and excavated dozens of major sites. His work established a critical principle: the goal isn't to grab stuff off the bottom. It's to understand what the stuff *means* — and that requires recording precisely where everything was found.
 
 ## The Toolkit: From Pencils to Robots
 
@@ -63,7 +63,7 @@ Working underwater is difficult in ways that land archaeologists simply don't fa
 
 ### SCUBA-Based Excavation
 
-For shallow sites (down to about 40 meters), divers work directly with the material. They use underwater drawing boards, waterproof cameras, measuring tapes, and handheld dredges (basically underwater vacuum cleaners) to remove sediment. Every artifact is photographed and measured in place before removal. It's painstaking work — a single square meter of seabed might take a full dive day to excavate properly.
+For shallow sites (down to about 40 meters), divers work directly with the material. They use underwater [drawing](/drawing) boards, waterproof cameras, measuring tapes, and handheld dredges (basically underwater vacuum cleaners) to remove sediment. Every artifact is photographed and measured in place before removal. It's painstaking work — a single square meter of seabed might take a full dive day to excavate properly.
 
 ### Photogrammetry and 3D Modeling
 
@@ -77,13 +77,13 @@ Robert Ballard's discovery of the Titanic in 1985 at a depth of 3,800 meters was
 
 ### Side-Scan Sonar and Multibeam
 
-Finding sites in the first place often requires sonar. Side-scan sonar tows a sensor behind a ship, creating detailed images of the seafloor. Multibeam sonar maps depth and bottom topography. Anomalies — objects that don't look like natural seabed features — become targets for closer investigation.
+Finding sites in the first place often requires sonar. Side-scan sonar tows a sensor behind a ship, creating detailed images of the seafloor. Multibeam sonar maps depth and bottom [topography](/topography). Anomalies — objects that don't look like natural seabed features — become targets for closer investigation.
 
 ## Famous Sites That Rewrote History
 
 ### The Antikythera Wreck
 
-In 1900, Greek sponge divers found a Roman-era wreck off the island of Antikythera. Among the bronze statues and pottery was a corroded lump that turned out to be the most astonishing artifact of the ancient world: the Antikythera mechanism. Dating to around 100 BCE, it's a hand-powered mechanical computer that predicted astronomical positions, eclipses, and even the dates of the Olympic Games. Nothing remotely as complex appeared in the historical record for another thousand years.
+In 1900, Greek sponge divers found a Roman-era wreck off the island of Antikythera. Among the bronze statues and [pottery](/pottery) was a corroded lump that turned out to be the most astonishing artifact of the ancient world: the Antikythera mechanism. Dating to around 100 BCE, it's a hand-powered mechanical computer that predicted astronomical positions, eclipses, and even the dates of the Olympic Games. Nothing remotely as complex appeared in the historical record for another thousand years.
 
 ### The Mary Rose
 
@@ -91,7 +91,7 @@ Henry VIII's warship sank during a battle with the French fleet in 1545 off Port
 
 ### The Uluburun Wreck
 
-Discovered off the Turkish coast in 1982 and excavated over 11 seasons by the INA, this Late Bronze Age ship (approximately 1300 BCE) carried cargo from at least seven different cultures: Egyptian, Mycenaean, Canaanite, Cypriot, and more. The wreck contained 10 tons of copper ingots, a ton of tin, gold artifacts, ivory, and the oldest known intact book — a set of wax writing tablets. It completely changed historians' understanding of Late Bronze Age trade networks.
+Discovered off the Turkish coast in 1982 and excavated over 11 seasons by the INA, this Late Bronze Age ship (approximately 1300 BCE) carried cargo from at least seven different cultures: Egyptian, Mycenaean, Canaanite, Cypriot, and more. The wreck contained 10 tons of copper ingots, a ton of tin, gold artifacts, ivory, and the oldest known intact book — a set of wax [writing](/writing) tablets. It completely changed historians' understanding of Late Bronze Age [trade](/trade) networks.
 
 ### Pavlopetri
 
@@ -99,7 +99,7 @@ Off the southern coast of Greece lies what's believed to be the oldest submerged
 
 ## The Ethics Problem: Science vs. Salvage
 
-Underwater archaeology has a serious enemy: commercial treasure hunting. And the fight between the two is ongoing and ugly.
+Underwater archaeology has a serious enemy: commercial treasure [hunting](/hunting). And the fight between the two is ongoing and ugly.
 
 The fundamental conflict is this: archaeologists want to study sites in place, recording every detail of context. Treasure hunters want to recover valuable objects and sell them. When a treasure-hunting company dredges a site, grabbing gold coins and tossing aside "worthless" pottery, the archaeological context — the spatial relationships between objects that tell the real story — is destroyed forever.
 

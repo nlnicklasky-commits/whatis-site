@@ -5,7 +5,7 @@ description: "Sound healing uses instruments like singing bowls and tuning forks
 category: health-amp-wellness
 tags: ["sound healing", "alternative medicine", "wellness", "meditation"]
 heroImage: "/images/articles/sound-healing.webp"
-heroAlt: "Tibetan singing bowls arranged on a wooden surface with a mallet resting beside them"
+heroAlt: "Editorial photograph representing the concept of sound healing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Sound Healing?
 
-Sound healing is a wellness practice that uses the vibrations and frequencies of sound — produced by instruments like singing bowls, gongs, tuning forks, and the human voice — to promote relaxation, reduce stress, and support physical and emotional well-being. Practitioners believe that specific sounds and frequencies can influence the body's energy, brainwave patterns, and physiological state.
+Sound healing is a [wellness](/wellness) practice that uses the vibrations and frequencies of sound — produced by instruments like [singing](/singing) bowls, gongs, tuning forks, and the human voice — to promote relaxation, reduce stress, and support physical and emotional well-being. Practitioners believe that specific sounds and frequencies can influence the body's energy, brainwave patterns, and physiological state.
 
 It's ancient. It's experiencing a massive modern revival. And the scientific evidence behind it is, frankly, a mixed bag — some promising results wrapped in a lot of unproven claims.
 
@@ -49,13 +49,13 @@ Most of what happens during a sound healing session falls somewhere in between.
 
 ## A Very Old Practice
 
-Using sound for healing purposes isn't a modern invention. It's genuinely ancient, showing up across multiple unrelated cultures.
+Using sound for healing purposes isn't a modern [invention](/invention). It's genuinely ancient, showing up across multiple unrelated cultures.
 
 Aboriginal Australians have used the didgeridoo for healing ceremonies for at least 1,500 years — possibly much longer. The instrument produces a deep, resonant drone that practitioners modulate using circular breathing techniques.
 
 Ancient Greek physicians, including Hippocrates, reportedly used musical instruments to treat mental disorders. Pythagoras — yes, the triangle guy — is credited with developing "musical medicine," prescribing specific musical intervals to treat psychological conditions. Whether he actually did this or later writers attributed it to him is debatable, but the tradition is well-documented.
 
-Tibetan singing bowls are probably the instrument most associated with sound healing today. Their history is somewhat murky. While metal bowls have been produced in the Himalayan region for centuries, their specific use as healing instruments appears to be more recent — many scholars trace the current practice to the 1970s and 1980s, when Westerners began incorporating the bowls into meditation and New Age wellness practices.
+Tibetan singing bowls are probably the instrument most associated with sound healing today. Their history is somewhat murky. While metal bowls have been produced in the Himalayan region for centuries, their specific use as healing instruments appears to be more recent — many scholars trace the current practice to the 1970s and 1980s, when Westerners began incorporating the bowls into [meditation](/meditation) and New Age wellness practices.
 
 Indigenous cultures across North, Central, and South America have used drums, rattles, and chanting in healing rituals for millennia. Australian, African, and Asian traditions all include similar practices. The near-universality of sound in healing rituals suggests something about it resonates (literally and figuratively) with the human nervous system.
 
@@ -103,7 +103,7 @@ The sound may enhance this response by giving the mind something to focus on (re
 
 It's worth being clear about boundaries.
 
-Sound healing is **not music therapy.** Music therapy is a board-certified clinical profession (credential: MT-BC) practiced by professionals who complete approved degree programs, clinical training, and a national board exam. Music therapists work in hospitals, rehabilitation facilities, schools, and mental health settings using evidence-based interventions. The American Music Therapy Association represents over 9,000 credentialed practitioners.
+Sound healing is **not music therapy.** Music therapy is a board-certified clinical profession (credential: MT-BC) practiced by professionals who complete approved degree programs, clinical training, and a national board exam. Music therapists work in hospitals, rehabilitation facilities, schools, and [mental health](/mental-health) settings using evidence-based interventions. The American Music Therapy Association represents over 9,000 credentialed practitioners.
 
 Sound healing has no standardized certification, licensing, or regulatory oversight. Some training programs exist, but their rigor varies enormously. Anyone can call themselves a sound healer.
 

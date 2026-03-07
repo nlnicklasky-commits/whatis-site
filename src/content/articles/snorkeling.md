@@ -5,7 +5,7 @@ description: "Snorkeling lets you observe underwater life while floating on the 
 category: sports
 tags: ["snorkeling", "underwater", "marine life", "ocean", "swimming", "coral reef"]
 heroImage: "/images/articles/snorkeling.webp"
-heroAlt: "A snorkeler floating face-down on clear tropical water above a colorful coral reef"
+heroAlt: "Editorial photograph representing the concept of snorkeling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Snorkeling?
 
-Snorkeling is the practice of swimming at the water's surface while wearing a diving mask, a breathing tube (snorkel), and usually swim fins. It lets you observe underwater life — coral reefs, fish, sea turtles, and other marine creatures — without the equipment, training, or expense of scuba diving. You breathe through the snorkel while floating face-down, watching the world below as if through a living aquarium window.
+Snorkeling is the practice of [swimming](/swimming) at the water's surface while wearing a [diving](/diving) mask, a breathing tube (snorkel), and usually swim fins. It lets you observe underwater life — coral reefs, fish, sea turtles, and other marine creatures — without the equipment, training, or expense of [scuba diving](/scuba-diving). You breathe through the snorkel while floating face-down, watching the world below as if through a living aquarium window.
 
 It's one of the most accessible water activities in the world. If you can swim and you have $50 for basic gear, you can snorkel. No certification, no classes, no complicated equipment. Just a mask, a tube, and some fins between you and the underwater world.
 

@@ -5,7 +5,7 @@ description: "Topology is the branch of mathematics studying properties preserve
 category: science
 tags: ["topology", "mathematics", "geometry"]
 heroImage: "/images/articles/topology.webp"
-heroAlt: "A coffee mug smoothly morphing into a donut shape, illustrating topological equivalence"
+heroAlt: "Editorial photograph representing the concept of topology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Here's the classic example that makes topology click for most people. A coffee m
 
 That sounds absurd until you think about it the right way. Both objects have exactly one hole. The mug's hole is in the handle; the donut's hole runs through the middle. If the mug were made of clay, you could smoothly squish the cup part down, inflate the handle, and reshape it into a donut without ever poking a new hole or sealing an existing one. The surface is continuously deformed but never torn.
 
-Now try the same mental exercise with a sphere (like a basketball) and a donut. You can't do it. The sphere has zero holes; the donut has one. No amount of squishing, stretching, or bending will create a hole where none existed. That fundamental difference — the number of holes — is a topological property. It doesn't care about size, shape, angles, or distances. It cares about structure.
+Now try the same mental exercise with a sphere (like a [basketball](/basketball)) and a donut. You can't do it. The sphere has zero holes; the donut has one. No amount of squishing, stretching, or bending will create a hole where none existed. That fundamental difference — the number of holes — is a topological property. It doesn't care about size, shape, angles, or distances. It cares about structure.
 
 This is what separates topology from [geometry](/geometry). Geometry measures things. Topology counts holes, checks connectedness, and asks questions about the overall structure that survive any amount of continuous deformation. A triangle, a circle, and a square are all different geometric objects but the same topological object — a simple closed curve with no holes.
 
@@ -57,7 +57,7 @@ Topology has a surprisingly specific origin story.
 
 In 1736, the Swiss mathematician Leonhard Euler tackled a puzzle that had been amusing the residents of Konigsberg (now Kaliningrad, Russia). The city straddled the Pregel River and two islands. Seven bridges connected the land masses. The question: could you walk a route that crossed every bridge exactly once?
 
-Euler proved it was impossible, but the way he proved it was the revolutionary part. He realized that the actual shapes and distances didn't matter — only the connections between land masses. He reduced the problem to a diagram of nodes (land masses) and edges (bridges), creating what we now call graph theory. More broadly, he was doing topology: analyzing a problem where only the structural relationships mattered, not the geometric details.
+Euler proved it was impossible, but the way he proved it was the revolutionary part. He realized that the actual shapes and distances didn't matter — only the connections between land masses. He reduced the problem to a diagram of nodes (land masses) and edges (bridges), creating what we now call [graph theory](/graph-theory). More broadly, he was doing topology: analyzing a problem where only the structural relationships mattered, not the geometric details.
 
 This is often cited as the birth of topology, though the field didn't really develop as a formal discipline until the 19th century.
 
@@ -129,7 +129,7 @@ Algebraic topology was central to the proof of the Poincare Conjecture and conti
 
 Here the objects are smooth manifolds — spaces that not only look like Euclidean space locally but have enough structure to do calculus on them. Differential topology studies the properties of smooth manifolds that are preserved by smooth (differentiable) deformations.
 
-This branch connects directly to [physics](/classical-mechanics). Einstein's general relativity treats spacetime as a smooth 4-dimensional manifold. The equations of motion live on this manifold. Understanding the topology of spacetime — whether it has handles, twists, or exotic structures — is a genuine physics question with observational consequences.
+This branch connects directly to [physics](/classical-mechanics). Einstein's [general relativity](/general-relativity) treats spacetime as a smooth 4-dimensional manifold. The equations of motion live on this manifold. Understanding the topology of spacetime — whether it has handles, twists, or exotic structures — is a genuine physics question with observational consequences.
 
 ### Knot Theory
 
@@ -153,7 +153,7 @@ TDA has been applied to brain connectivity analysis, protein structure classific
 
 ### Materials Science
 
-The topological classification of matter — work that earned David Thouless, Duncan Haldane, and Michael Kosterlitz the 2016 Nobel Prize in Physics — uses topological invariants to explain exotic states of matter. Topological insulators, for example, are materials that conduct electricity on their surface but act as insulators in their interior. Their special properties are protected by topology: you can't smoothly deform them into ordinary insulators without closing the energy gap. This topological protection makes them remarkably stable and potentially useful for quantum computing.
+The topological classification of matter — work that earned David Thouless, Duncan Haldane, and Michael Kosterlitz the 2016 Nobel Prize in Physics — uses topological invariants to explain exotic states of matter. Topological insulators, for example, are materials that conduct [electricity](/electricity) on their surface but act as insulators in their interior. Their special properties are protected by topology: you can't smoothly deform them into ordinary insulators without closing the energy gap. This topological protection makes them remarkably stable and potentially useful for [quantum computing](/quantum-computing).
 
 ### Robotics and Configuration Spaces
 

@@ -5,7 +5,7 @@ description: "Electromagnetism is the fundamental force governing electricity, m
 category: science
 tags: ["electromagnetism", "physics", "electricity", "magnetism", "electric fields", "magnetic fields", "maxwell's equations"]
 heroImage: "/images/articles/electromagnetism-hero.webp"
-heroAlt: "Magnetic field lines surrounding a bar magnet with iron filings showing the pattern"
+heroAlt: "Editorial photograph representing the concept of electromagnetism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ For most of human history, electricity and magnetism seemed like completely diff
 
 Then, on April 21, 1820, Hans Christian Oersted noticed something during a lecture demonstration. A compass needle sitting near a wire deflected when he turned on an electric current. The current was creating a magnetic field. Electricity and magnetism were connected.
 
-This accidental observation — Oersted later said he'd been setting up a different experiment — triggered one of the greatest intellectual cascades in the history of science. Within two decades, Ampere had mathematized the magnetic effects of currents, Faraday had discovered electromagnetic induction, and the path to Maxwell's unification was set.
+This accidental observation — Oersted later said he'd been setting up a different experiment — triggered one of the greatest intellectual cascades in [the history of science](/the-history-of-science). Within two decades, Ampere had mathematized the magnetic effects of currents, Faraday had discovered electromagnetic induction, and the path to Maxwell's unification was set.
 
 The punchline, which took another 40 years to fully work out: electricity and magnetism are not two separate forces. They're two aspects of a single electromagnetic force. What appears as an electric effect in one reference frame appears as a magnetic effect in another. They're the same thing, viewed from different perspectives.
 
@@ -65,7 +65,7 @@ Every touch, every sight, every chemical reaction — electric fields are doing 
 
 ## Magnetic Fields: The Rotating Mystery
 
-Magnetism is, fundamentally, a consequence of moving electric charges. A stationary charge creates only an electric field. A moving charge creates both an electric field and a magnetic field. This is why magnetism is always associated with currents, whether in wires, in the electron orbits of atoms, or in the intrinsic spin of subatomic particles.
+Magnetism is, fundamentally, a consequence of moving electric charges. A stationary charge creates only an electric field. A moving charge creates both an electric field and a magnetic field. This is why magnetism is always associated with currents, whether in wires, in the electron orbits of atoms, or in the intrinsic spin of [subatomic particles](/subatomic-particles).
 
 ### How Magnets Work
 
@@ -87,7 +87,7 @@ Electromagnetism is the force that gives atoms their structure and makes [chemis
 
 ### Atomic Structure
 
-Electrons orbit atomic nuclei because the electromagnetic attraction between the negatively charged electron and the positively charged proton creates a binding force. (In quantum mechanics, "orbit" is misleading — electrons exist in probability clouds called orbitals — but the binding force is electromagnetic regardless.)
+Electrons orbit atomic nuclei because the electromagnetic attraction between the negatively charged electron and the positively charged proton creates a binding force. (In [quantum mechanics](/quantum-mechanics), "orbit" is misleading — electrons exist in probability clouds called orbitals — but the binding force is electromagnetic regardless.)
 
 The arrangement of electrons in these orbitals determines every chemical property of every element. Why is sodium reactive? Because its outermost electron is loosely bound electromagnetically. Why is neon inert? Because its electron shells are full, creating a stable electromagnetic configuration. The entire periodic table is, at root, a catalog of electromagnetic configurations.
 
@@ -97,7 +97,7 @@ Chemical bonds are electromagnetic. Covalent bonds share electrons between atoms
 
 Van der Waals forces, hydrogen bonds, dipole interactions — all the "weak" forces that determine protein folding, DNA structure, and material properties — are electromagnetic in origin.
 
-This means [biochemistry](/biochemistry), materials science, and essentially all of [chemistry](/chemistry) are, at the deepest level, applied electromagnetism. The Schrodinger equation that governs quantum chemistry is built on electromagnetic potentials.
+This means [biochemistry](/biochemistry), [materials science](/materials-science), and essentially all of [chemistry](/chemistry) are, at the deepest level, applied electromagnetism. The Schrodinger equation that governs [quantum chemistry](/quantum-chemistry) is built on electromagnetic potentials.
 
 ## Maxwell's Equations: The Complete Package
 
@@ -156,7 +156,7 @@ The efficiency of electric motors (typically 85-95%) far exceeds internal combus
 
 Radio, television, cellular networks, WiFi, Bluetooth, satellite links, fiber optics — all transmit information using electromagnetic waves. The global communication infrastructure is built entirely on electromagnetic principles.
 
-Modern communication systems push extraordinarily close to theoretical limits. Claude Shannon's information theory (1948) established the maximum data rate achievable over a noisy channel. Today's 5G networks and optical fiber systems approach these limits, representing decades of electromagnetic engineering optimization.
+Modern communication systems push extraordinarily close to theoretical limits. Claude Shannon's [information theory](/information-theory) (1948) established the maximum data rate achievable over a noisy channel. Today's 5G networks and optical fiber systems approach these limits, representing decades of electromagnetic engineering optimization.
 
 ### Computing
 
@@ -181,7 +181,7 @@ Electromagnetism is one of four fundamental forces:
 
 In the 1960s, Sheldon Glashow, Abdus Salam, and Steven Weinberg showed that electromagnetism and the weak nuclear force are actually two aspects of a single "electroweak" force — unified at high energies but appearing as separate forces at the temperatures we experience. This was the second great unification in physics, after Maxwell's unification of electricity and magnetism.
 
-The search continues for further unification. Grand unified theories (GUTs) attempt to merge the electroweak and strong forces. A "theory of everything" would incorporate gravity as well. These remain active areas of theoretical physics, with electromagnetism's successful unification as both inspiration and model.
+The search continues for further unification. Grand unified theories (GUTs) attempt to merge the electroweak and strong forces. A "theory of everything" would incorporate gravity as well. These remain active areas of [theoretical physics](/theoretical-physics), with electromagnetism's successful unification as both inspiration and model.
 
 ## The Everyday Electromagnetic World
 

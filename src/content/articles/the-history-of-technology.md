@@ -5,7 +5,7 @@ description: "The history of technology tracks how human tool-making evolved fro
 category: history
 tags: ["history of technology", "technology", "innovation", "industrial revolution"]
 heroImage: "/images/articles/the-history-of-technology.webp"
-heroAlt: "Stone tools, gears, steam engines, and microchips arranged along a timeline of technological progress"
+heroAlt: "Editorial photograph representing the concept of the history of technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 The history of technology is the record of everything humans have built, from the first stone tool chipped 3.3 million years ago to the AI system you might have used this morning. It's the story of how a physically unremarkable primate — no claws, no fangs, mediocre speed — became the dominant species on Earth by building stuff.
 
-Technology, at its most basic, is the application of knowledge to practical problems. Every tool is a bet that understanding something about how the world works lets you change it in your favor. Sometimes the bet pays off spectacularly (vaccines, electric power). Sometimes it doesn't (leaded gasoline, social media algorithms optimized for engagement). But the pattern — problem, insight, tool, consequence — repeats across all of human history.
+Technology, at its most basic, is the application of knowledge to practical problems. Every tool is a bet that understanding something about how the world works lets you change it in your favor. Sometimes the bet pays off spectacularly (vaccines, electric power). Sometimes it doesn't (leaded gasoline, social media [algorithms](/algorithms) optimized for engagement). But the pattern — problem, insight, tool, consequence — repeats across all of human history.
 
 ## Stone Age: 3.3 Million Years of Slow Progress
 
@@ -49,7 +49,7 @@ Progress was glacially slow. The basic Oldowan toolkit — simple choppers and f
 
 Around 10,000 BCE, humans in the Fertile Crescent (modern Iraq, Syria, and Turkey) began domesticating plants and animals. This was arguably the single most consequential technological shift in human history.
 
-**Agriculture** didn't make individual lives better — early farmers were shorter, sicker, and worked harder than hunter-gatherers. But it allowed population density. You can support 100 farmers on the same land that supports one hunter-gatherer band. Dense populations enabled specialization. Not everyone needed to grow food, so some people could become potters, metalworkers, priests, soldiers, administrators.
+**[Agriculture](/agriculture)** didn't make individual lives better — early farmers were shorter, sicker, and worked harder than hunter-gatherers. But it allowed population density. You can support 100 farmers on the same land that supports one hunter-gatherer band. Dense populations enabled specialization. Not everyone needed to grow food, so some people could become potters, metalworkers, priests, soldiers, administrators.
 
 This cascade — agriculture to surplus to specialization to cities — happened independently in at least seven places worldwide: the Fertile Crescent, China, Mesoamerica, the Andes, eastern North America, sub-Saharan Africa, and New Guinea. Different crops (wheat, rice, maize, potatoes), same pattern.
 
@@ -71,15 +71,15 @@ The pattern is striking: every information technology — writing, printing, tel
 
 ## The Industrial Revolution: Machines Replace Muscles
 
-The **Industrial Revolution** began in Britain around 1760, and it's the hinge point of modern history. Before it, most humans lived lives not dramatically different from their ancestors a thousand years earlier. After it, everything changed — and kept changing faster.
+The **Industrial Revolution** began in Britain around 1760, and it's the hinge point of [modern history](/modern-history). Before it, most humans lived lives not dramatically different from their ancestors a thousand years earlier. After it, everything changed — and kept changing faster.
 
-**James Watt's** improved steam engine (1769) was the key technology. Earlier steam engines existed (Thomas Newcomen's, 1712), but they were inefficient and used mainly for pumping water from mines. Watt's separate condenser dramatically improved efficiency, making steam power practical for factories, mills, and eventually transportation.
+**James Watt's** improved steam engine (1769) was the key technology. Earlier [steam engines](/steam-engines) existed (Thomas Newcomen's, 1712), but they were inefficient and used mainly for pumping water from mines. Watt's separate condenser dramatically improved efficiency, making steam power practical for factories, mills, and eventually transportation.
 
 The consequences cascaded. **Textile factories** in Manchester and Birmingham produced cloth faster and cheaper than hand weavers could. Workers migrated from farms to cities. Urban populations exploded — Manchester grew from 25,000 in 1772 to 300,000 in 1831. Working conditions were often horrific: 16-hour days, child labor, dangerous machinery, polluted air and water.
 
 **Railroads** (from the 1820s) shrank distances. **Steamships** made oceanic trade routine. The **telegraph** (1837) made communication nearly instantaneous. By the mid-19th century, the pace of technological change was something no previous generation had experienced.
 
-The **Second Industrial Revolution** (roughly 1870–1914) brought electricity, petroleum, steel, and chemicals. **Thomas Edison's** incandescent light bulb (1879) and electrical distribution system transformed daily life. **Henry Ford's** assembly line (1913) made automobiles affordable for the middle class. **Fritz Haber's** process for synthesizing ammonia (1909) made cheap fertilizer possible — feeding billions but also enabling chemical [warfare](/the-history-of-warfare).
+The **Second Industrial Revolution** (roughly 1870–1914) brought [electricity](/electricity), petroleum, steel, and chemicals. **Thomas Edison's** incandescent light bulb (1879) and electrical distribution system transformed daily life. **Henry Ford's** assembly line (1913) made automobiles affordable for the middle class. **Fritz Haber's** process for synthesizing ammonia (1909) made cheap fertilizer possible — feeding billions but also enabling chemical [warfare](/the-history-of-warfare).
 
 ## The Electronic Age
 
@@ -93,7 +93,7 @@ The **internet** began as ARPANET in 1969, a Department of Defense project conne
 
 ## AI and What Comes Next
 
-**Artificial intelligence** moved from science fiction to practical reality in the 2010s and 2020s. Machine learning systems now translate languages, diagnose diseases, drive cars (imperfectly), generate images, and produce human-like text. The pace of AI development is genuinely unprecedented — capabilities that experts predicted would take decades appeared in years.
+**[Artificial intelligence](/artificial-intelligence)** moved from [science fiction](/science-fiction) to practical reality in the 2010s and 2020s. [Machine learning](/machine-learning) systems now translate languages, diagnose diseases, drive cars (imperfectly), generate images, and produce human-like text. The pace of AI development is genuinely unprecedented — capabilities that experts predicted would take decades appeared in years.
 
 Whether AI represents just another powerful tool or something qualitatively different — a technology that can improve *itself* — is the defining question of our era. The optimists see solutions to climate change, disease, and poverty. The pessimists see job displacement, surveillance, manipulation, and risks we haven't imagined yet.
 

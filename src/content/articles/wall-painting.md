@@ -5,7 +5,7 @@ description: "Wall painting is the art of applying pigment directly to walls and
 category: arts-amp-culture
 tags: ["wall painting", "murals", "fresco", "art", "public art", "visual arts"]
 heroImage: "/images/articles/wall-painting.webp"
-heroAlt: "Artist painting a large colorful mural on a building exterior with scaffolding"
+heroAlt: "Editorial photograph representing the concept of wall painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ The technique demands speed and skill. The artist can only paint on plaster that
 
 Mistakes can't be fixed by painting over them — the wet plaster must be chipped off and reapplied. This means the artist needs to know exactly what they're painting before they start. Renaissance fresco painters prepared detailed preliminary drawings (cartoons) that were transferred to the wall as guides.
 
-Michelangelo painted the Sistine Chapel ceiling (1508-1512) in true fresco, working on scaffolding he designed himself, often lying on his back. The ceiling covers approximately 12,000 square feet. He reportedly had paint dripping into his eyes so constantly that he wrote a poem complaining about it.
+Michelangelo painted the Sistine Chapel ceiling (1508-1512) in true fresco, working on [scaffolding](/scaffolding) he designed himself, often lying on his back. The ceiling covers approximately 12,000 square feet. He reportedly had paint dripping into his eyes so constantly that he wrote a poem complaining about it.
 
 ## Secco Painting
 
@@ -55,17 +55,17 @@ Most modern wall painting uses secco techniques with acrylic, latex, or spray pa
 
 **Ancient Rome** — Roman houses featured elaborate wall paintings depicting landscapes, architectural illusions (trompe l'oeil), mythological scenes, and garden views. The eruption of Vesuvius in 79 CE preserved extraordinary examples at Pompeii and Herculaneum.
 
-**Medieval and Renaissance churches** — European churches used wall paintings to educate largely illiterate congregations about Biblical stories. Giotto's frescoes in the Arena Chapel in Padua (1305) revolutionized Western art with their emotional depth and spatial realism.
+**Medieval and Renaissance churches** — European churches used wall paintings to educate largely illiterate congregations about Biblical stories. Giotto's frescoes in the Arena Chapel in Padua (1305) revolutionized [Western art](/western-art) with their emotional depth and spatial realism.
 
 **Mexican muralism** — Diego Rivera, David Alfaro Siqueiros, and Jose Clemente Orozco led a mural movement in 1920s-1940s Mexico that used wall painting as a vehicle for political and social messaging. Rivera's murals at the National Palace in Mexico City and the Detroit Institute of Arts used massive scale to tell stories of workers, revolution, and industry.
 
-**WPA murals** — During the Great Depression, the U.S. government's Works Progress Administration commissioned thousands of murals for post offices, schools, and public buildings. Many survive and document Depression-era American life with remarkable specificity.
+**WPA murals** — During the Great Depression, the U.S. [government](/government)'s Works Progress Administration commissioned thousands of murals for post offices, schools, and public buildings. Many survive and document Depression-era American life with remarkable specificity.
 
-**Street art and contemporary murals** — The graffiti movement of the 1970s and 1980s evolved into a legitimate art form. Artists like Banksy, Shepard Fairey, and JR create wall-based work that engages directly with public space and social issues. Cities worldwide now commission murals as tools for community identity, tourism, and urban renewal.
+**Street art and contemporary murals** — The graffiti movement of the 1970s and 1980s evolved into a legitimate art form. Artists like Banksy, Shepard Fairey, and JR create wall-based work that engages directly with public space and social issues. Cities worldwide now commission murals as tools for community identity, [tourism](/tourism), and urban renewal.
 
 ## The effect of Scale
 
-Wall paintings do something that easel paintings can't: they surround you. Standing inside the Sistine Chapel or a painted Roman villa or a contemporary mural corridor, you're not looking at art — you're inside it. The architecture becomes the frame, and the painting transforms the space itself.
+Wall paintings do something that easel paintings can't: they surround you. Standing inside the Sistine Chapel or a painted Roman villa or a contemporary mural corridor, you're not looking at art — you're inside it. The [architecture](/architecture) becomes the frame, and the painting transforms the space itself.
 
 This immersive quality is why wall painting has been the preferred medium for religious, political, and communal expression throughout history. You don't just view a mural. You experience it. The scale commands attention in a way that a canvas hanging on a gallery wall simply can't compete with.
 

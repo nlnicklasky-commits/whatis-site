@@ -5,7 +5,7 @@ description: "Native American history spans over 15,000 years of indigenous life
 category: history
 tags: ["native american history", "indigenous peoples", "american history", "tribal nations"]
 heroImage: "/images/articles/native-american-history.webp"
-heroAlt: "Mesa Verde cliff dwellings in Colorado showing ancient Pueblo stone architecture"
+heroAlt: "Editorial photograph representing the concept of native american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
     a: "Tribal sovereignty means that federally recognized tribes are self-governing nations with inherent authority over their members and territories. They can establish their own governments, pass laws, levy taxes, and run courts. This sovereignty predates the U.S. Constitution and has been repeatedly affirmed by the Supreme Court, though it has also been significantly limited by federal legislation over time."
 ---
 
-# What Is Native American History?
+# What Is Native [American History](/american-history)?
 
-Native American history is the story of the indigenous peoples of North America — a story that stretches back at least 15,000 years before any European set foot on the continent. It includes the rise of complex civilizations, sophisticated agricultural systems, and vast trade networks long before 1492. It also includes colonization, forced removal, cultural suppression, and one of the most dramatic population collapses in human history.
+Native American history is the story of the indigenous peoples of North America — a story that stretches back at least 15,000 years before any European set foot on the continent. It includes the rise of complex civilizations, sophisticated agricultural systems, and vast [trade](/trade) networks long before 1492. It also includes colonization, forced removal, cultural suppression, and one of the most dramatic population collapses in human history.
 
 And it's not over. There are 574 federally recognized tribal nations in the United States today, with a combined population of approximately 9.7 million people who identify as American Indian or Alaska Native. Native American history isn't a chapter that ended — it's ongoing.
 
@@ -91,7 +91,7 @@ The Cherokee removal of 1838-1839, known as the Trail of Tears, is the most reme
 
 ### The Reservation System
 
-Through the mid-to-late 1800s, the U.S. government confined Native peoples to reservations — usually on the least desirable land available. The process involved a series of treaties, most of which were broken by the U.S. government when the reserved land turned out to have value (gold, timber, oil, farmland).
+Through the mid-to-late 1800s, the U.S. [government](/government) confined Native peoples to reservations — usually on the least desirable land available. The process involved a series of treaties, most of which were broken by the U.S. government when the reserved land turned out to have value (gold, timber, oil, farmland).
 
 The Dawes Act of 1887 made things worse. It divided communal tribal land into individual allotments, with "surplus" land sold to white settlers. Between 1887 and 1934, Native peoples lost approximately 90 million acres — about two-thirds of their remaining land.
 
@@ -103,7 +103,7 @@ Beginning with the Carlisle Indian Industrial School in 1879, the government (an
 
 In 2021, the U.S. Department of the Interior began a federal investigation into the boarding school system. Its first report identified over 400 schools and found marked or unmarked burial sites at 53 of them. The Canadian equivalent — the Truth and Reconciliation Commission — documented similar patterns of abuse and death in Canadian residential schools.
 
-The suppression extended beyond schools. The Sun Dance, Ghost Dance, and other religious ceremonies were banned by federal law until 1978, when the American Indian Religious Freedom Act was passed. Think about that: it took until 1978 for Native Americans to be legally guaranteed the right to practice their own religions in the United States.
+The suppression extended beyond schools. The Sun [Dance](/dance), Ghost Dance, and other religious ceremonies were banned by federal law until 1978, when the American Indian Religious Freedom Act was passed. Think about that: it took until 1978 for Native Americans to be legally guaranteed the right to practice their own religions in the United States.
 
 ## The 20th Century and Beyond
 
@@ -119,11 +119,11 @@ The pendulum swung again. During the "Termination era," the federal government a
 
 In the 1960s and 1970s, Native activists pushed back. The American Indian Movement (AIM) organized protests, occupied Alcatraz Island (1969-1971), and confronted federal forces at Wounded Knee in 1973. These actions — controversial then and now — forced Native issues into national consciousness and contributed to significant legislative changes.
 
-The Indian Self-Determination and Education Assistance Act of 1975 gave tribes greater control over federal programs. The Indian Child Welfare Act of 1978 addressed the removal of Native children from their families. The Native American Graves Protection and Repatriation Act of 1990 required museums to return sacred objects and human remains.
+The Indian Self-Determination and [Education](/education) Assistance Act of 1975 gave tribes greater control over federal programs. The Indian Child Welfare Act of 1978 addressed the removal of Native children from their families. The Native American Graves Protection and Repatriation Act of 1990 required museums to return sacred objects and human remains.
 
 ### Sovereignty and Resilience Today
 
-Today's 574 federally recognized tribes operate as sovereign nations within the United States. They run their own governments, courts, and schools. Many operate successful businesses, including casinos — the Indian Gaming Regulatory Act of 1988 established the framework for tribal gaming, which now generates over $40 billion annually.
+Today's 574 federally recognized tribes operate as sovereign nations within the United States. They run their own governments, courts, and schools. Many operate successful businesses, including casinos — the Indian [Gaming](/gaming) Regulatory Act of 1988 established the framework for tribal gaming, which now generates over $40 billion annually.
 
 Language revitalization efforts are underway across Indian Country. The Cherokee Nation has over 2,000 fluent speakers and an immersive language school. The Navajo Nation, with roughly 170,000 speakers, has one of the healthiest indigenous languages in the hemisphere.
 
@@ -133,4 +133,4 @@ But serious challenges remain. Native Americans have the highest poverty rate of
 
 Native American history matters because it's American history — the longest and most continuous chapter of it. Understanding it means confronting uncomfortable truths about how the United States was built, what was destroyed in the process, and what obligations that history creates.
 
-It also means recognizing that Native peoples are still here, still governing themselves, still maintaining and reviving their cultures, and still fighting for their rights. The story didn't end at Wounded Knee in 1890, and it didn't end with casinos in the 1990s. It's still being written — by the people who have always been writing it.
+It also means recognizing that Native peoples are still here, still governing themselves, still maintaining and reviving their cultures, and still fighting for their rights. The story didn't end at Wounded Knee in 1890, and it didn't end with casinos in the 1990s. It's still being written — by the people who have always been [writing](/writing) it.

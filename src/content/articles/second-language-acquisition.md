@@ -5,7 +5,7 @@ description: "Second language acquisition is how people learn languages beyond t
 category: education
 tags: ["second language", "language learning", "language acquisition", "linguistics", "bilingualism", "foreign language"]
 heroImage: "/images/articles/second-language-acquisition.webp"
-heroAlt: "A student surrounded by textbooks and notes in multiple languages in a study setting"
+heroAlt: "Editorial photograph representing the concept of second language acquisition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "Research consistently points to comprehensible input — listening to and reading content you mostly understand, with enough new material to stretch your ability. Combine this with regular speaking practice, spaced repetition for vocabulary, and genuine cultural engagement. No single app or method works alone. The most effective approach is the one you'll actually do consistently."
 ---
 
-# What Is Second Language Acquisition?
+# What Is Second [Language Acquisition](/language-acquisition)?
 
 Second language acquisition (SLA) is the scientific study of how people learn languages beyond their first. It examines why a three-year-old picks up their parents' language effortlessly while a 30-year-old adult struggles with the same language in a classroom — and what we can do about that gap.
 
-SLA draws from linguistics, psychology, neuroscience, and education to answer fundamental questions: How does language knowledge develop? Why do some learners succeed while others plateau? What role does age play? Is grammar instruction useful, or should learners just immerse themselves? The answers are more nuanced — and more useful — than most language-learning apps would have you believe.
+SLA draws from [linguistics](/linguistics), [psychology](/psychology), [neuroscience](/neuroscience), and [education](/education) to answer fundamental questions: How does language knowledge develop? Why do some learners succeed while others plateau? What role does age play? Is [grammar](/grammar) instruction useful, or should learners just immerse themselves? The answers are more nuanced — and more useful — than most language-learning apps would have you believe.
 
 ## The Big Theories
 
@@ -43,15 +43,15 @@ Several major theories compete to explain how second language learning works. No
 
 This is a compelling idea, and there's real evidence behind it. Extensive reading and listening do produce impressive results. But Krashen's critics point out that many adults get tons of comprehensible input (living in a foreign country for years) and still make persistent errors that a little grammar instruction could fix.
 
-**The Interaction Hypothesis** (Michael Long) adds that face-to-face conversation is especially powerful because it forces negotiation of meaning. When someone doesn't understand you, you rephrase, clarify, and adjust — and that process of negotiation pushes acquisition forward. This explains why conversation practice often accelerates learning more than passive listening.
+**The Interaction Hypothesis** (Michael Long) adds that face-to-face conversation is especially powerful because it forces [negotiation](/negotiation) of meaning. When someone doesn't understand you, you rephrase, clarify, and adjust — and that process of negotiation pushes acquisition forward. This explains why conversation practice often accelerates learning more than passive listening.
 
-**Skill Acquisition Theory** (Robert DeKeyser) treats language learning more like learning to drive or play piano. You start with explicit knowledge (rules), practice them until they become automatic (procedural knowledge), and eventually use them without thinking. This model supports structured practice and drills — unfashionable in some circles but backed by cognitive science.
+**Skill Acquisition Theory** (Robert DeKeyser) treats language learning more like learning to drive or play [piano](/piano). You start with explicit knowledge (rules), practice them until they become automatic (procedural knowledge), and eventually use them without thinking. This model supports structured practice and drills — unfashionable in some circles but backed by cognitive science.
 
 **The sociocultural approach** (Vygotsky-inspired) emphasizes that learning happens through social interaction in culturally meaningful contexts. You don't just learn a language — you learn to participate in a community that uses that language. This perspective highlights motivation, identity, and cultural engagement as central rather than peripheral factors.
 
 ## The Age Factor
 
-"Children learn languages easily." Everyone says this. It's partly true and partly mythology.
+"Children learn languages easily." Everyone says this. It's partly true and partly [mythology](/mythology).
 
 Children do have advantages. Their brains are more plastic — neural pathways for language processing form more readily. They achieve native-like pronunciation far more easily than adults. And they're less self-conscious, which means they practice without the anxiety that paralyzes many adult learners.
 
@@ -67,7 +67,7 @@ Research has increasingly converged on some practical conclusions.
 
 **Massive input is essential.** You need to hear and read thousands of hours of the target language. There's no shortcut around this. Apps that promise fluency in 15 minutes a day are selling a fantasy. Those 15 minutes are better than nothing, but genuine fluency requires sustained, heavy exposure.
 
-**Output matters too.** Speaking and writing force you to notice gaps in your knowledge. You might understand a word passively but discover you can't produce it when you need it. Regular speaking practice — even talking to yourself — moves passive knowledge toward active use.
+**Output matters too.** Speaking and [writing](/writing) force you to notice gaps in your knowledge. You might understand a word passively but discover you can't produce it when you need it. Regular speaking practice — even talking to yourself — moves passive knowledge toward active use.
 
 **Spaced repetition works for vocabulary.** The forgetting curve is real: you lose about 70% of new information within 24 hours unless you review it. Spaced repetition systems (Anki is the most popular) schedule reviews at increasing intervals, moving words from short-term to long-term memory efficiently. Most polyglots swear by this technique.
 

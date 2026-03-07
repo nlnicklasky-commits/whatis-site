@@ -5,7 +5,7 @@ description: "Grilling cooks food over direct high heat from charcoal, gas, or w
 category: everyday-concepts
 tags: ["grilling", "barbecue", "cooking", "outdoor cooking", "food", "charcoal"]
 heroImage: "/images/articles/grilling.webp"
-heroAlt: "Steaks and vegetables cooking on a charcoal grill with visible flames"
+heroAlt: "Editorial photograph representing the concept of grilling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Grilling?
 
-Grilling is cooking food over direct heat — typically from burning charcoal, gas flames, or wood — at temperatures ranging from 400 to 700 degrees Fahrenheit. It's one of the oldest cooking methods humans have (we've been cooking over fire for at least 400,000 years), and it remains one of the most popular. About 75% of American adults own a grill. Roughly 60% of them grill year-round, not just in summer. There's something about cooking over open flame that feels right in a way that microwaving dinner never will.
+Grilling is [cooking](/cooking) food over direct heat — typically from burning charcoal, gas flames, or wood — at temperatures ranging from 400 to 700 degrees Fahrenheit. It's one of the oldest cooking methods humans have (we've been cooking over fire for at least 400,000 years), and it remains one of the most popular. About 75% of American adults own a grill. Roughly 60% of them grill year-round, not just in summer. There's something about cooking over open flame that feels right in a way that microwaving dinner never will.
 
 ## How It Works
 
@@ -43,17 +43,17 @@ Grilling cooks through three mechanisms simultaneously.
 
 **Convection** — hot air circulates around the food, especially when the lid is closed. This is more significant in covered grills and is essential for cooking thicker items evenly.
 
-The **Maillard reaction** is the key chemistry. When proteins and sugars are heated above roughly 280°F, they undergo a complex cascade of chemical reactions producing hundreds of new flavor and aroma compounds. That brown, crusty, intensely flavorful exterior on a grilled steak? That's the Maillard reaction. It's the difference between boiled chicken and grilled chicken — same protein, completely different experience.
+The **Maillard reaction** is the key [chemistry](/chemistry). When proteins and sugars are heated above roughly 280°F, they undergo a complex cascade of chemical reactions producing hundreds of new flavor and aroma compounds. That brown, crusty, intensely flavorful exterior on a grilled steak? That's the Maillard reaction. It's the difference between boiled chicken and grilled chicken — same protein, completely different experience.
 
 ## Charcoal vs. Gas
 
-This debate has been going on for decades and will never be settled, so here are the facts.
+This [debate](/debate) has been going on for decades and will never be settled, so here are the facts.
 
 **Charcoal** burns hotter (up to 700°F or higher), produces combustion byproducts that add smoky flavor, and gives you the option to add wood chunks for additional smoke. Lump charcoal (natural hardwood burned down to carbon) burns hotter and cleaner than briquettes. Briquettes (compressed charcoal mixed with binders) burn more evenly and predictably. Charcoal requires 15-20 minutes to reach cooking temperature and produces ash that needs disposal.
 
 **Gas grills** ignite with a button, reach cooking temperature in 10 minutes, offer precise temperature control via knobs, and clean up easily. They don't produce the same smoky compounds — the flavor difference is real but smaller than charcoal advocates insist. Adding a smoker box with wood chips narrows the gap further.
 
-**Wood** — some grillers skip the middleman and cook directly over hardwood coals. Oak, hickory, mesquite, cherry, and apple each contribute distinct flavors. This is the original and arguably the best method, but it requires more skill in fire management.
+**Wood** — some grillers skip the middleman and cook directly over hardwood coals. Oak, hickory, mesquite, cherry, and apple each contribute distinct flavors. This is the original and arguably the best method, but it requires more skill in fire [management](/management).
 
 ## Direct vs. Indirect Heat
 

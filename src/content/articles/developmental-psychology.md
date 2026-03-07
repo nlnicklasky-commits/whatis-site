@@ -5,7 +5,7 @@ description: "Developmental psychology studies how people grow and change across
 category: science
 tags: ["developmental psychology", "psychology", "child development", "cognitive development", "lifespan", "learning", "behavior"]
 heroImage: "/images/articles/developmental-psychology-hero.webp"
-heroAlt: "Visual timeline showing human development stages from infancy through old age"
+heroAlt: "Editorial photograph representing the concept of developmental psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "No. Developmental milestones are averages with wide normal ranges. One child might walk at 9 months, another at 15 months, and both are perfectly normal. Cultural context also matters—children in different societies may reach certain cognitive or social milestones at different ages based on what their environment emphasizes. Significant delays may warrant evaluation, but normal variation is much wider than most parents realize."
 ---
 
-# What Is Developmental Psychology?
+# What Is Developmental [Psychology](/psychology)?
 
 Developmental psychology is the scientific study of how and why human beings change over the course of their lives—from conception through old age and death. It examines physical growth, cognitive abilities, emotional regulation, social relationships, and personality across the entire lifespan, seeking to understand both the universal patterns of human development and the individual differences that make each person's trajectory unique.
 
@@ -81,7 +81,7 @@ Erik Erikson proposed eight stages of psychosocial development spanning the enti
 
 **Intimacy vs. Isolation (18-40 years):** Young adults form deep relationships. Those who can't—often because of unresolved identity issues—experience isolation and loneliness.
 
-**Generativity vs. Stagnation (40-65 years):** Middle-aged adults focus on contributing to the next generation—through parenting, mentoring, or creative work. Those who don't develop a sense of stagnation and self-absorption.
+**Generativity vs. Stagnation (40-65 years):** Middle-aged adults focus on contributing to the next generation—through [parenting](/parenting), mentoring, or creative work. Those who don't develop a sense of stagnation and self-absorption.
 
 **Integrity vs. Despair (65+ years):** Older adults reflect on their lives. Those who feel their lives had meaning and purpose achieve integrity. Those filled with regrets experience despair.
 
@@ -91,9 +91,9 @@ Erikson's stages are less rigidly defined than Piaget's and don't have strict ag
 
 Lev Vygotsky, a Soviet psychologist who died tragically young at 37 in 1934, proposed that cognitive development is fundamentally social. Children don't develop thinking skills in isolation—they internalize the thinking processes they first experience in social interaction.
 
-His key concept is the **zone of proximal development (ZPD):** the gap between what a child can do independently and what they can do with help. A 6-year-old might not be able to solve a puzzle alone, but can solve it with hints from a parent. That gap represents where learning happens. Development occurs when adults (or more capable peers) provide **scaffolding**—just enough support to help the child accomplish tasks slightly beyond their current ability.
+His key concept is the **zone of proximal development (ZPD):** the gap between what a child can do independently and what they can do with help. A 6-year-old might not be able to solve a puzzle alone, but can solve it with hints from a parent. That gap represents where learning happens. Development occurs when adults (or more capable peers) provide **[scaffolding](/scaffolding)**—just enough support to help the child accomplish tasks slightly beyond their current ability.
 
-Vygotsky's work deeply influenced education. The idea that learning is social, that teachers should work within the ZPD, and that cultural tools (language, numbers, symbols) mediate cognitive development—these ideas underpin much of modern educational practice.
+Vygotsky's work deeply influenced [education](/education). The idea that learning is social, that teachers should work within the ZPD, and that cultural tools (language, numbers, symbols) mediate cognitive development—these ideas underpin much of modern educational practice.
 
 ### Attachment Theory
 
@@ -115,7 +115,7 @@ The striking finding: attachment styles measured at 12 months predict relationsh
 
 Physical development follows predictable patterns with individual variation. Infants develop motor skills in a cephalocaudal (head-to-tail) and proximodistal (center-to-extremities) direction—head control before sitting, sitting before walking, gross motor before fine motor.
 
-Puberty, triggered by hormonal cascades beginning around ages 8-13, produces the dramatic physical changes of adolescence. The timing of puberty has been getting earlier over the past century—a phenomenon called the secular trend—likely due to improved nutrition, increased body fat, and possibly environmental chemical exposure.
+Puberty, triggered by hormonal cascades beginning around ages 8-13, produces the dramatic physical changes of adolescence. The timing of puberty has been getting earlier over the past century—a phenomenon called the secular trend—likely due to improved [nutrition](/nutrition), increased body fat, and possibly environmental chemical exposure.
 
 The brain doesn't stop developing with the body. As mentioned, the prefrontal cortex continues maturing into the mid-20s. This has real implications: the [cognitive-bias](/cognitive-bias) patterns we see in adolescents and young adults partly reflect genuinely incomplete brain development, not just poor judgment.
 
@@ -163,13 +163,13 @@ The adolescent brain undergoes massive restructuring. Synaptic pruning eliminate
 
 This mismatch explains a lot. Teenagers aren't stupid—they perform as well as adults on logic tests in calm, laboratory conditions. But in emotionally charged, real-world situations with peers present, their decision-making deteriorates. The neural systems for rational thinking are there; they just get overridden by emotion and social pressure.
 
-Identity formation, as Erikson described, is the central task of adolescence. This involves exploring values, beliefs, roles, and goals—and it often looks messy from the outside. Trying on different identities, questioning parental values, intense group affiliations—these aren't signs of pathology but of healthy development.
+Identity formation, as Erikson described, is the central task of adolescence. This involves exploring values, beliefs, roles, and goals—and it often looks messy from the outside. Trying on different identities, questioning parental values, intense group affiliations—these aren't signs of [pathology](/pathology) but of healthy development.
 
 ## Adult Development and Aging
 
 ### Early Adulthood (20s-30s)
 
-Young adulthood involves establishing intimate relationships, launching careers, and for many, becoming parents. Brain maturation completes in the mid-20s, and crystallized intelligence (accumulated knowledge and skills) continues increasing throughout adulthood even as fluid intelligence (raw processing speed and pattern recognition) peaks in the late 20s and begins declining.
+Young adulthood involves establishing intimate relationships, launching careers, and for many, becoming parents. Brain maturation completes in the mid-20s, and crystallized intelligence (accumulated knowledge and skills) continues increasing throughout adulthood even as fluid intelligence (raw processing speed and [pattern recognition](/pattern-recognition)) peaks in the late 20s and begins declining.
 
 ### Middle Adulthood (40s-60s)
 
@@ -191,7 +191,7 @@ Developmental psychology isn't just academic. Its findings shape policies and pr
 
 **Parenting guidance** from pediatricians and family therapists is grounded in attachment theory, research on discipline effectiveness, and understanding of normal developmental variation. The shift from authoritarian to authoritative parenting styles (high warmth plus firm boundaries) was driven by developmental research showing better outcomes for children.
 
-**Clinical psychology** uses developmental frameworks to understand and treat mental health conditions. Many adult disorders have developmental origins—[cognitive-bias](/cognitive-bias) patterns established in childhood, attachment injuries, disrupted development due to trauma or adversity.
+**[Clinical psychology](/clinical-psychology)** uses developmental frameworks to understand and treat [mental health](/mental-health) conditions. Many adult disorders have developmental origins—[cognitive-bias](/cognitive-bias) patterns established in childhood, attachment injuries, disrupted development due to trauma or adversity.
 
 **Legal policy** increasingly reflects developmental science. The Supreme Court's decisions banning juvenile death penalty and mandatory life-without-parole sentences cited brain development research showing that adolescents are fundamentally different from adults in their decision-making capacity.
 

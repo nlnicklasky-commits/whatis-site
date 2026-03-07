@@ -5,7 +5,7 @@ description: "Fermentation is a metabolic process where microorganisms convert s
 category: science
 tags: ["biochemistry", "microbiology", "food science", "food preservation", "yeast", "bacteria"]
 heroImage: "/images/articles/fermentation-hero.webp"
-heroAlt: "Close-up of bubbling fermentation in a glass carboy with rising CO2 bubbles"
+heroAlt: "Editorial photograph representing the concept of fermentation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -181,7 +181,7 @@ Precision fermentation uses genetically engineered microorganisms to produce spe
 
 Companies like Perfect Day (dairy proteins), Impossible Foods (heme), and Geltor (collagen) are scaling this technology. The idea is that you program microorganisms with the gene for a desired protein, feed them sugar, and harvest the protein from the fermentation broth.
 
-This could be genuinely disruptive. If you can produce identical dairy proteins without cows, you eliminate the environmental footprint of dairy farming—which accounts for roughly 3% of global greenhouse gas emissions. The technology is real and shipping—Perfect Day's proteins are already in ice cream and cream cheese products.
+This could be genuinely disruptive. If you can produce identical dairy proteins without cows, you eliminate the environmental footprint of [dairy farming](/dairy-farming)—which accounts for roughly 3% of global greenhouse gas emissions. The technology is real and shipping—Perfect Day's proteins are already in ice cream and cream cheese products.
 
 But scaling remains challenging. Fermentation tanks are expensive. Sugar feedstock costs money. Purification adds more costs. As of 2025, precision fermentation products are generally more expensive than their animal-derived equivalents, though costs are falling rapidly.
 
@@ -211,7 +211,7 @@ The main risks come from canning fermented foods (botulism risk if done improper
 
 Fermentation intersects with sustainability in several ways.
 
-**Food preservation**: Before refrigeration, fermentation was one of the only ways to preserve food through winter. With food waste (roughly 30-40% of food produced globally is wasted), fermentation offers a low-energy preservation method that extends shelf life without electricity.
+**[Food preservation](/food-preservation)**: Before refrigeration, fermentation was one of the only ways to preserve food through winter. With food waste (roughly 30-40% of food produced globally is wasted), fermentation offers a low-energy preservation method that extends shelf life without electricity.
 
 **Reduced processing**: Fermented foods often require less energy to produce than their industrial equivalents. Sauerkraut needs no cooking, no canning, and no refrigeration during production. The bacteria do the processing work at room temperature.
 
@@ -223,7 +223,7 @@ Fermentation intersects with sustainability in several ways.
 
 Fermentation is experiencing a renaissance driven by both consumer interest in traditional foods and advanced [biotechnology](/biotechnology) applications.
 
-**Synthetic biology** is expanding what fermentation can produce. Engineered organisms can now produce everything from spider silk to antimalarial drugs via fermentation. The tools of [computational biology](/computational-biology) allow researchers to design metabolic pathways on computers before building them in organisms.
+**[Synthetic biology](/synthetic-biology)** is expanding what fermentation can produce. Engineered organisms can now produce everything from spider silk to antimalarial drugs via fermentation. The tools of [computational biology](/computational-biology) allow researchers to design [metabolic pathways](/metabolic-pathways) on computers before building them in organisms.
 
 **Metagenomics** is revealing the full complexity of traditional fermentations. Rather than studying individual species, researchers can now sequence all DNA in a fermented food sample, identifying hundreds of species present in tiny quantities that influence flavor in ways we're just beginning to understand.
 

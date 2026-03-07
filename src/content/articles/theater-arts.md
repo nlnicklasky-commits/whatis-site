@@ -5,7 +5,7 @@ description: "Theater arts is the discipline of creating live performances throu
 category: arts-amp-culture
 tags: ["theater arts", "theatre", "drama", "acting", "directing", "stagecraft"]
 heroImage: "/images/articles/theater-arts.webp"
-heroAlt: "Actors performing on a dramatically lit stage with an audience watching"
+heroAlt: "Editorial photograph representing the concept of theater arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,19 +47,19 @@ The director is the artistic leader of a production — interpreting the script,
 
 ### Design
 
-**Scenic design** creates the physical environment. **Costume design** defines how characters look. **Lighting design** shapes the visual mood, focuses attention, and creates atmosphere. **Sound design** provides music, effects, and acoustic clarity. Together, these elements create the world the audience enters.
+**Scenic design** creates the physical environment. **[Costume design](/costume-design)** defines how characters look. **[Lighting design](/lighting-design)** shapes the visual mood, focuses attention, and creates atmosphere. **[Sound design](/sound-design)** provides music, effects, and acoustic clarity. Together, these elements create the world the audience enters.
 
 ### Playwriting
 
-Someone has to write the thing. Playwrights create the scripts — the dialogue, stage directions, and dramatic structure that provide the foundation for everything else. Theater has produced some of the greatest literature in human history, from Sophocles to Shakespeare to August Wilson.
+Someone has to write the thing. Playwrights create the scripts — the dialogue, stage directions, and dramatic structure that provide the foundation for everything else. Theater has produced some of the greatest [literature](/literature) in human history, from Sophocles to Shakespeare to August Wilson.
 
 ### Technical Theater
 
-Set construction, rigging, prop building, lighting and sound operation, stage management, and the dozens of behind-the-scenes functions that make a production physically possible. A Broadway show employs far more technicians and crew than performers.
+Set [construction](/construction), rigging, prop building, lighting and sound operation, stage [management](/management), and the dozens of behind-the-scenes functions that make a production physically possible. A Broadway show employs far more technicians and crew than performers.
 
 ## A Very Brief History
 
-Theater originated in ancient Greece around the 5th century BC, emerging from religious festivals honoring Dionysus. Playwrights like Aeschylus, Sophocles, and Euripides created tragedies that explored fate, justice, and human nature. Aristophanes wrote comedies that skewered [politics](/political-philosophy) and social customs.
+Theater originated in ancient Greece around the 5th century BC, emerging from religious festivals honoring Dionysus. Playwrights like Aeschylus, Sophocles, and Euripides created tragedies that explored fate, justice, and human nature. Aristophanes wrote comedies that skewered [politics](/political-[philosophy](/philosophy)) and social customs.
 
 Roman theater borrowed heavily from Greek models, adding more spectacular elements. Medieval Europe produced religious mystery plays and morality plays performed in town squares.
 
@@ -77,4 +77,4 @@ Musical theater remains the dominant commercial form. Plays — non-musical dram
 
 In a world of streaming, social media, and increasingly sophisticated entertainment technology, why does live theater survive? Because it offers something screens can't: the unreproducible experience of sharing a room with performers in real time. That shared experience — laughing together, holding your breath together, feeling the collective energy of an audience responding to a powerful moment — creates a connection that no recorded medium can replicate.
 
-Theater training also develops skills with broad applications: public speaking, empathy, creative thinking, collaboration under pressure, and the ability to communicate effectively with diverse audiences. These translate to careers in education, law, business, media, and virtually any field that involves human interaction.
+Theater training also develops skills with broad applications: [public speaking](/public-speaking), empathy, creative thinking, collaboration under pressure, and the ability to communicate effectively with diverse audiences. These translate to careers in education, law, business, media, and virtually any field that involves human interaction.

@@ -5,7 +5,7 @@ description: "Aromatherapy uses plant-derived essential oils to promote physical
 category: health-amp-wellness
 tags: ["aromatherapy", "essential oils", "alternative medicine", "wellness", "relaxation"]
 heroImage: "/images/articles/aromatherapy.webp"
-heroAlt: "Glass bottles of essential oils surrounded by lavender sprigs and herbs on a wooden surface"
+heroAlt: "Editorial photograph representing the concept of aromatherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -127,7 +127,7 @@ Essential oils are natural, but "natural" doesn't mean safe. Hemlock is natural.
 
 **Drug interactions** are possible. Some essential oils affect liver enzymes that metabolize medications, potentially altering drug levels in the blood. If you're taking prescription medications, consult your doctor before using essential oils regularly — especially [pharmacologically](/pharmacology) active ones like grapefruit, rosemary, or lavender.
 
-**Quality varies wildly.** The essential oil market is largely unregulated. Terms like "therapeutic grade" and "clinical grade" are marketing inventions — there's no standardized certification. Adulteration (adding synthetic compounds or cheaper oils) is common. Third-party testing through organizations like ISO or independent labs provides some quality assurance.
+**Quality varies wildly.** The essential oil market is largely unregulated. Terms like "therapeutic grade" and "clinical grade" are [marketing](/marketing) inventions — there's no standardized certification. Adulteration (adding synthetic compounds or cheaper oils) is common. Third-party testing through organizations like ISO or independent labs provides some quality assurance.
 
 ## Aromatherapy in Healthcare Settings
 
@@ -135,7 +135,7 @@ Despite the evidence gaps, aromatherapy has gained traction in mainstream health
 
 These programs typically use evidence-based protocols — specific oils for specific indications, standardized dilutions, trained practitioners, and tracking of outcomes. Hospital aromatherapy is a far cry from the unsubstantiated claims that proliferate in consumer marketing.
 
-In the UK, aromatherapy is more integrated into nursing practice. The Royal College of Nursing offers guidance on aromatherapy use, and many NHS trusts employ aromatherapists in palliative care, maternity, and mental health settings.
+In the UK, aromatherapy is more integrated into [nursing](/nursing) practice. The Royal College of Nursing offers guidance on aromatherapy use, and many NHS trusts employ aromatherapists in palliative care, maternity, and [mental health](/mental-health) settings.
 
 ## The Bottom Line
 

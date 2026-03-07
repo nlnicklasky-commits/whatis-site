@@ -5,7 +5,7 @@ description: "Plastics engineering is the design, processing, and testing of pol
 category: technology
 tags: ["plastics", "engineering", "polymers", "manufacturing", "product design", "materials science", "recycling"]
 heroImage: "/images/articles/plastics-engineering-hero.webp"
-heroAlt: "Injection molding machine producing plastic components in a manufacturing facility"
+heroAlt: "Editorial photograph representing the concept of plastics engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "Not automatically. Some bioplastics are biodegradable; others are chemically identical to conventional plastics and persist just as long. Biodegradable bioplastics often require industrial composting facilities that aren't widely available. The environmental benefit depends on feedstock sourcing, production energy, end-of-life handling, and whether they actually decompose in real-world conditions."
 ---
 
-# What Is Plastics Engineering?
+# What Is Plastics [Engineering](/engineering)?
 
 Plastics engineering is the branch of engineering focused on designing, manufacturing, and testing products made from polymer-based materials. It covers everything from choosing the right plastic for a specific application to designing the molds and processes that shape raw polymer into finished parts. If you've ever used a smartphone, driven a car, or opened a bottle, you've interacted with the work of plastics engineers.
 
@@ -113,7 +113,7 @@ A plastic sheet is heated until pliable, then formed over or into a mold using v
 
 3D printing with plastics has gone from prototyping novelty to genuine production technology. Fused deposition modeling (FDM) extrudes plastic filament layer by layer. Selective laser sintering (SLS) fuses powdered polymer with a laser. Stereolithography (SLA) cures liquid photopolymer with UV light.
 
-For low-volume, complex parts, 3D printing eliminates tooling costs entirely. Dental aligners, custom prosthetics, aerospace ducting, and prototypes of virtually everything are now 3D printed. The technology isn't replacing injection molding for high-volume production — it's far too slow — but it's filling niches that traditional processes couldn't address economically.
+For low-volume, complex parts, 3D printing eliminates tooling costs entirely. Dental aligners, custom [prosthetics](/prosthetics), aerospace ducting, and prototypes of virtually everything are now 3D printed. The technology isn't replacing injection molding for high-volume production — it's far too slow — but it's filling niches that traditional processes couldn't address economically.
 
 ## Design for Plastics: Not Like Designing for Metal
 
@@ -141,7 +141,7 @@ Here's the uncomfortable truth: despite decades of recycling advocacy, the globa
 
 Why is plastic recycling so difficult?
 
-**Sorting is hard.** There are dozens of different plastic types, and mixing them produces poor-quality material. Automated sorting using near-infrared spectroscopy has improved, but contamination remains a persistent challenge.
+**Sorting is hard.** There are dozens of different plastic types, and mixing them produces poor-quality material. Automated sorting using near-infrared [spectroscopy](/spectroscopy) has improved, but contamination remains a persistent challenge.
 
 **Degradation with each cycle.** Unlike glass or aluminum, most thermoplastics lose quality when recycled. Polymer chains shorten, colors mix, and contaminants accumulate. Recycled plastic is typically used in lower-value applications — a process called downcycling.
 
@@ -153,7 +153,7 @@ The potential game-changer is chemical recycling (sometimes called advanced recy
 
 Pyrolysis converts mixed plastic waste into fuel-grade hydrocarbons. Depolymerization reverses the polymerization reaction, recovering monomers. Solvent-based purification dissolves specific plastic types from mixed waste streams.
 
-These technologies are scaling up but face legitimate questions about energy consumption, yields, and whether they're truly more environmentally beneficial than alternative waste management approaches. The plastics industry is investing heavily; environmental groups remain skeptical. The truth is probably somewhere in between.
+These technologies are scaling up but face legitimate questions about energy consumption, yields, and whether they're truly more environmentally beneficial than alternative [waste management](/waste-management) approaches. The plastics industry is investing heavily; environmental groups remain skeptical. The truth is probably somewhere in between.
 
 ### Bioplastics
 
@@ -171,7 +171,7 @@ BPA (bisphenol A), used in polycarbonate containers and epoxy can linings, becam
 
 Phthalate plasticizers, used to soften PVC, have been restricted in children's toys in the EU and U.S. due to endocrine disruption concerns.
 
-Microplastics — tiny plastic fragments under 5mm — have been found in drinking water, food, air, human blood, and breast milk. The health effects of microplastic exposure are still being studied, but the ubiquity of these particles has become a major public health concern and a research priority.
+Microplastics — tiny plastic fragments under 5mm — have been found in drinking water, food, air, human blood, and breast milk. The health effects of microplastic exposure are still being studied, but the ubiquity of these particles has become a major [public health](/public-health) concern and a research priority.
 
 Plastics engineers working on food-contact and medical applications must work through complex regulatory frameworks — FDA regulations in the U.S., EU Food Contact Regulations in Europe — that govern which materials and additives can be used.
 

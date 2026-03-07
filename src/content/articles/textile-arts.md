@@ -5,7 +5,7 @@ description: "Textile arts encompass all art forms made with fibers and fabric, 
 category: arts-amp-culture
 tags: ["textile arts", "fiber art", "weaving", "knitting", "dyeing", "embroidery"]
 heroImage: "/images/articles/textile-arts.webp"
-heroAlt: "Colorful yarns, woven fabric, and embroidery materials arranged on a table"
+heroAlt: "Editorial photograph representing the concept of textile arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Textile Arts?
 
-Textile arts is the broad category of art forms that use fibers and fabric as their primary medium — weaving, knitting, crocheting, embroidery, dyeing, felting, quilting, lace-making, and many more. If it involves turning fiber into something functional, decorative, or expressive, it falls under textile arts.
+Textile arts is the broad category of art forms that use fibers and fabric as their primary medium — weaving, [knitting](/knitting), crocheting, [embroidery](/embroidery), dyeing, felting, quilting, lace-making, and many more. If it involves turning fiber into something functional, decorative, or expressive, it falls under textile arts.
 
-These are among the oldest human art forms. People were spinning fiber and weaving cloth at least 27,000 years ago — predating pottery, metalworking, and writing by thousands of years. For most of human history, producing textiles was one of the most time-consuming and economically important activities in any community.
+These are among the oldest human art forms. People were spinning fiber and weaving cloth at least 27,000 years ago — predating pottery, [metalworking](/metalworking), and writing by thousands of years. For most of human history, producing textiles was one of the most time-consuming and economically important activities in any community.
 
 ## The Major Techniques
 
@@ -67,7 +67,7 @@ Stitching layers of fabric together, often with decorative patterns on the top l
 
 ## The Art vs. Craft Debate
 
-For much of Western art history, textile arts were classified as "craft" or "decorative art" — separate from and implicitly inferior to "fine art" like painting and sculpture. This hierarchy was never universal (many cultures don't distinguish between art and craft) and was arguably rooted in gender bias, since textile production was historically [women's](/aesthetics) work.
+For much of Western [art history](/art-history), textile arts were classified as "craft" or "decorative art" — separate from and implicitly inferior to "[fine art](/fine-art)" like painting and [sculpture](/sculpture). This hierarchy was never universal (many cultures don't distinguish between art and craft) and was arguably rooted in gender bias, since textile production was historically [women's](/aesthetics) work.
 
 Starting in the 1960s and 70s, artists deliberately challenged this boundary. The Fiber Art movement — led by figures like Sheila Hicks, Lenore Tawney, and Magdalena Abakanowicz — created monumental textile installations that demanded recognition as fine art. Their work hung in galleries and museums alongside paintings and sculpture.
 
@@ -83,7 +83,7 @@ The field is experiencing a remarkable renaissance:
 
 **Contemporary art** — Fiber art is one of the fastest-growing segments of the contemporary art market. Major museums regularly feature textile-based exhibitions. The boundaries between installation art, sculpture, and textile art are increasingly blurred.
 
-**Technology** — Digital tools have expanded possibilities. Computerized looms, digital embroidery machines, and smart textiles that incorporate electronics open new creative territory. Some artists combine traditional handcraft with digital fabrication.
+**Technology** — Digital tools have expanded possibilities. Computerized looms, digital embroidery machines, and smart textiles that incorporate [electronics](/electronics) open new creative territory. Some artists combine traditional handcraft with digital fabrication.
 
 **Cultural preservation** — Communities worldwide are working to preserve traditional textile techniques threatened by industrialization and cultural change. Indigenous weaving traditions, heritage dyeing methods, and regional knitting patterns are being documented and taught to new generations.
 

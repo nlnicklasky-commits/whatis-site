@@ -5,7 +5,7 @@ description: "Periodontology is the dental specialty focused on gum disease and 
 category: everyday-concepts
 tags: ["periodontology", "dental health", "gum disease", "oral health", "dentistry", "gingivitis"]
 heroImage: "/images/articles/periodontology.webp"
-heroAlt: "A dental professional examining a patient's gums during a periodontal assessment"
+heroAlt: "Editorial photograph representing the concept of periodontology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Periodontology?
 
-Periodontology is the branch of dentistry that deals with the structures supporting your teeth — the gums (gingiva), the bone underneath them (alveolar bone), the ligament connecting the tooth root to the bone (periodontal ligament), and the root surface coating (cementum). When these structures get infected, inflamed, or destroyed by bacterial disease, you've got periodontal disease — and it's far more common and more consequential than most people realize.
+Periodontology is the branch of [dentistry](/dentistry) that deals with the structures supporting your teeth — the gums (gingiva), the bone underneath them (alveolar bone), the ligament connecting the tooth root to the bone (periodontal ligament), and the root surface coating (cementum). When these structures get infected, inflamed, or destroyed by bacterial disease, you've got periodontal disease — and it's far more common and more consequential than most people realize.
 
 ## The Quiet Epidemic
 
@@ -41,7 +41,7 @@ The kicker? Most people with periodontal disease don't know they have it. Unlike
 
 ## How Gum Disease Develops
 
-It starts with bacteria. Your mouth contains hundreds of bacterial species. Some are harmless; some form sticky biofilms on teeth called dental plaque. If plaque isn't removed through brushing and flossing, it hardens into calculus (tarite) — a rough, mineralized deposit that can't be removed with a toothbrush. Calculus provides a perfect surface for more bacteria to accumulate.
+It starts with bacteria. Your mouth contains hundreds of bacterial species. Some are harmless; some form sticky biofilms on teeth called dental plaque. If plaque isn't removed through brushing and flossing, it hardens into [calculus](/calculus) (tarite) — a rough, mineralized deposit that can't be removed with a toothbrush. Calculus provides a perfect surface for more bacteria to accumulate.
 
 **Stage 1: Gingivitis.** Bacterial toxins irritate the gums, causing inflammation. Gums become red, swollen, and bleed easily. This stage is entirely reversible with proper brushing, flossing, and professional cleaning. No permanent damage has occurred.
 
@@ -59,7 +59,7 @@ Plaque bacteria are the primary cause, but several factors increase your risk:
 
 **Diabetes** and periodontitis have a bidirectional relationship. Diabetes increases susceptibility to infections including gum disease. Periodontitis, in turn, makes blood sugar control more difficult.
 
-**Genetics** influence susceptibility. Some people develop severe periodontitis despite good oral hygiene, while others with mediocre habits maintain healthy gums. Genetic variations in immune response account for roughly 30% of the variation in disease severity.
+**[Genetics](/genetics)** influence susceptibility. Some people develop severe periodontitis despite good oral [hygiene](/hygiene), while others with mediocre habits maintain healthy gums. Genetic variations in immune response account for roughly 30% of the variation in disease severity.
 
 **Medications** that reduce saliva flow (antidepressants, antihistamines, blood pressure medications) increase risk by removing saliva's protective effects.
 
@@ -71,7 +71,7 @@ Plaque bacteria are the primary cause, but several factors increase your risk:
 
 **Surgical treatment** becomes necessary when pockets are too deep for non-surgical cleaning to reach. Procedures include:
 
-- **Flap surgery:** The gums are lifted back, tartar is removed from deep pockets, and the gums are sutured to fit snugly around the teeth.
+- **Flap [surgery](/surgery):** The gums are lifted back, tartar is removed from deep pockets, and the gums are sutured to fit snugly around the teeth.
 - **Bone grafting:** Lost bone is replaced with grafting material (from the patient, a donor, or synthetic material) to stimulate regrowth.
 - **Guided tissue regeneration:** A membrane is placed between bone and gum tissue, allowing bone and connective tissue to regenerate.
 - **Soft tissue grafts:** Tissue from the palate or a donor source is used to cover exposed roots or thicken thin gums.

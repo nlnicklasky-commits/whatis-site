@@ -5,7 +5,7 @@ description: "Ornithology is the scientific study of birds — their anatomy, be
 category: science
 tags: ["ornithology", "birds", "zoology", "avian biology", "bird watching", "ecology", "conservation"]
 heroImage: "/images/articles/ornithology-hero.webp"
-heroAlt: "A vibrant kingfisher perched on a branch with binoculars and a field notebook in the background"
+heroAlt: "Editorial photograph representing the concept of ornithology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Ornithology?
 
-Ornithology is the scientific study of birds — their biology, behavior, evolution, ecology, and conservation. It covers everything from the biomechanics of hummingbird flight to the genetics of bird song, from the ecology of Arctic seabird colonies to the conservation of critically endangered parrots. With roughly 10,900 living species occupying every continent and nearly every habitat on Earth, birds offer one of the richest subjects for biological research.
+Ornithology is the scientific study of birds — their biology, behavior, evolution, ecology, and conservation. It covers everything from the [biomechanics](/biomechanics) of hummingbird flight to the genetics of bird song, from the ecology of Arctic seabird colonies to the conservation of critically endangered parrots. With roughly 10,900 living species occupying every continent and nearly every habitat on Earth, birds offer one of the richest subjects for biological research.
 
 ## Why Birds? The Scientific Case
 
@@ -53,7 +53,7 @@ Rachel Carson's *Silent Spring* (1962) — arguably the book that launched the m
 
 ## Anatomy and Physiology: Built for Flight
 
-The bodies of birds are engineering marvels shaped by 150 million years of evolution. Understanding avian [anatomy](/anatomy) reveals how natural selection solved the physics problem of powered flight.
+The bodies of birds are [engineering](/engineering) marvels shaped by 150 million years of evolution. Understanding avian [anatomy](/anatomy) reveals how natural selection solved the physics problem of powered flight.
 
 ### The Skeleton
 
@@ -87,7 +87,7 @@ Bird behavior research has produced some of the most important discoveries in [a
 
 ### Song and Communication
 
-Bird song is learned, not purely innate — a finding that parallels human language acquisition more closely than any other animal system. Young songbirds go through a babbling phase, practice during a "plastic song" period, and eventually crystallize their adult song. They need to hear adult songs during a critical period, or their own song develops abnormally. Brain regions controlling song learning (like Area X and HVC) are analogous to human speech areas.
+Bird song is learned, not purely innate — a finding that parallels human [language acquisition](/language-acquisition) more closely than any other animal system. Young songbirds go through a babbling phase, practice during a "plastic song" period, and eventually crystallize their adult song. They need to hear adult songs during a critical period, or their own song develops abnormally. Brain regions controlling song learning (like Area X and HVC) are analogous to human speech areas.
 
 The complexity of bird song is staggering. A brown thrasher has a repertoire of over 1,100 distinct song types. Nightingales use 180-300 song types. Even common species like the song sparrow have repertoires of 8-12 songs, each with precise timing and frequency modulation.
 
@@ -165,7 +165,7 @@ Today's ornithologists use technology that early naturalists couldn't have imagi
 
 Birds are among the best-studied organisms on Earth, and ornithological research has contributed disproportionately to our understanding of [ecology](/ecology), evolution, behavior, and conservation. Darwin's finches helped establish natural selection. Tinbergen's herring gulls helped found ethology. Island bird extinctions drove the development of conservation biology.
 
-On a personal level, birds are the most accessible wildlife for most people. You don't need expensive equipment or travel to remote locations. A pair of binoculars and a field guide open a window into the natural world that's available from backyards, parks, and local wetlands everywhere. There are an estimated 45 million birders in the United States alone, making bird watching one of the most popular outdoor activities.
+On a personal level, birds are the most accessible wildlife for most people. You don't need expensive equipment or travel to remote locations. A pair of binoculars and a field guide open a window into the natural world that's available from backyards, parks, and local wetlands everywhere. There are an estimated 45 million birders in the United States alone, making [bird watching](/bird-watching) one of the most popular outdoor activities.
 
 Ornithology bridges professional science and public engagement in a way few other disciplines achieve. The data that amateurs collect genuinely advances scientific knowledge. The conservation actions that bird advocates support genuinely protect ecosystems. And the simple act of watching a hawk soar or a warbler sing connects people to the natural world in ways that matter for both human well-being and environmental stewardship.
 

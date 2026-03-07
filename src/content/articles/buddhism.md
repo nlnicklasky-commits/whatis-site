@@ -5,7 +5,7 @@ description: "Buddhism is a religion and philosophy founded by Siddhartha Gautam
 category: philosophy
 tags: ["buddhism", "religion", "philosophy", "siddhartha gautama", "buddha", "four noble truths", "eightfold path"]
 heroImage: "/images/articles/buddhism-hero.webp"
-heroAlt: "Serene golden Buddha statue in meditation pose surrounded by temple architecture"
+heroAlt: "Editorial photograph representing the concept of buddhism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ Siddhartha Gautama was born around 563 BCE in Lumbini, in present-day Nepal, to 
 
 The traditional account says Siddhartha first encountered suffering during four trips outside the palace, where he saw an old person, a sick person, a dead person, and finally an ascetic holy man who seemed at peace despite having nothing. These "Four Sights" shattered his sheltered worldview. At 29, he abandoned his palace, his wife, and his infant son to seek the answer to a single question: Why do beings suffer, and how can suffering end?
 
-For six years, he tried everything. He studied under the leading meditation teachers of his time. He practiced extreme asceticism — fasting until his spine could be felt through his stomach, according to texts. None of it satisfied him. The teachers' methods brought temporary states but not permanent liberation. Extreme self-denial just produced a weakened body and a foggy mind.
+For six years, he tried everything. He studied under the leading [meditation](/meditation) teachers of his time. He practiced extreme asceticism — fasting until his spine could be felt through his stomach, according to texts. None of it satisfied him. The teachers' methods brought temporary states but not permanent liberation. Extreme self-denial just produced a weakened body and a foggy mind.
 
 He eventually sat under a Bodhi tree in Bodh Gaya (modern Bihar, India) and resolved not to rise until he understood. After a night of intense meditation, he reached what Buddhists call enlightenment — a complete understanding of the nature of suffering, its causes, and its cessation. He was 35.
 
@@ -119,7 +119,7 @@ The Eightfold Path is organized into three categories: wisdom, ethical conduct, 
 
 ### Mental Discipline (Samadhi)
 
-**Right Effort** — Preventing unwholesome mental states from arising, abandoning ones that have arisen, cultivating wholesome states, and maintaining ones already present. This is active mental management — not passive acceptance of whatever thoughts show up.
+**Right Effort** — Preventing unwholesome mental states from arising, abandoning ones that have arisen, cultivating wholesome states, and maintaining ones already present. This is active mental [management](/management) — not passive acceptance of whatever thoughts show up.
 
 **Right Mindfulness** — Maintaining clear awareness of body, feelings, mind states, and mental objects. This is the practice most associated with Buddhism in the West — paying attention to present-moment experience without judgment.
 
@@ -155,13 +155,13 @@ Different Buddhist traditions interpret rebirth differently. Some take it litera
 
 ### Dependent Origination (Pratityasamutpada)
 
-Nothing exists independently. Everything arises in dependence on causes and conditions. A tree depends on soil, water, sunlight, and seed. Your mood depends on sleep, nutrition, social interaction, and brain chemistry. Even what seems most solid and independent is actually a web of interconnected conditions.
+Nothing exists independently. Everything arises in dependence on causes and conditions. A tree depends on soil, water, sunlight, and seed. Your mood depends on sleep, nutrition, social interaction, and brain [chemistry](/chemistry). Even what seems most solid and independent is actually a web of interconnected conditions.
 
 This principle underlies all Buddhist thought. Suffering arises from conditions (craving and ignorance) and ceases when those conditions are removed. Nothing is inherently anything — things are what they are because of their conditions.
 
 ## The Major Traditions
 
-Buddhism split into distinct schools early in its history, much like Christianity split into Catholic, Orthodox, and Protestant branches.
+Buddhism split into distinct schools early in its history, much like [Christianity](/christianity) split into Catholic, Orthodox, and Protestant branches.
 
 ### Theravada: The Southern School
 
@@ -193,7 +193,7 @@ Vajrayana developed in India around the 7th century CE and is most associated wi
 
 The guru-student relationship is central in Vajrayana. The teacher transmits practices and empowerments directly, and the student's devotion to the teacher is considered essential. This has both benefits (personalized guidance) and risks (potential for abuse of authority).
 
-Vajrayana includes elaborate ritual practices, colorful art (thangkas and mandalas), and a rich mythology of buddhas, bodhisattvas, and fierce protector deities. About 20 million people practice Vajrayana, mainly in Tibet, Mongolia, Bhutan, and Nepal, with growing communities worldwide.
+Vajrayana includes elaborate ritual practices, colorful art (thangkas and mandalas), and a rich [mythology](/mythology) of buddhas, bodhisattvas, and fierce protector deities. About 20 million people practice Vajrayana, mainly in Tibet, Mongolia, Bhutan, and Nepal, with growing communities worldwide.
 
 ## Buddhism in Practice: What Do Buddhists Actually Do?
 
@@ -225,7 +225,7 @@ Japanese Buddhism includes elaborate funeral rites. Tibetan Buddhism features co
 
 Buddhism has a notably comfortable relationship with modern science — more so than most religions. The Dalai Lama has famously stated that if science disproved a Buddhist claim, Buddhism would have to change.
 
-Neuroscience research on meditation has been particularly productive. Studies using fMRI brain imaging show that experienced meditators have measurable differences in brain structure and function — increased gray matter density in regions associated with attention and emotional regulation, reduced activity in the default mode network (associated with mind-wandering and self-referential thinking), and altered stress responses.
+[Neuroscience](/neuroscience) research on meditation has been particularly productive. Studies using fMRI brain imaging show that experienced meditators have measurable differences in brain structure and function — increased gray matter density in regions associated with attention and emotional regulation, reduced activity in the default mode network (associated with mind-wandering and self-referential thinking), and altered stress responses.
 
 A 2011 study at Harvard found that eight weeks of mindfulness meditation produced measurable increases in gray matter concentration in brain regions involved in learning, memory, emotion regulation, and perspective-taking. These aren't subjective reports — they're structural changes visible on brain scans.
 
@@ -237,9 +237,9 @@ However, Buddhism's empirical credentials shouldn't be overstated. Karma and reb
 
 Buddhism has roughly 500 million adherents worldwide, making it the fourth-largest religion. But its influence extends far beyond formal practitioners.
 
-In Asia, Buddhism shapes culture, art, architecture, and social values across a vast region. The temple complexes of Angkor Wat in Cambodia, Borobudur in Indonesia, and Bagan in Myanmar are among humanity's greatest architectural achievements.
+In Asia, Buddhism shapes culture, art, [architecture](/architecture), and social values across a vast region. The temple complexes of Angkor Wat in Cambodia, Borobudur in Indonesia, and Bagan in Myanmar are among humanity's greatest architectural achievements.
 
-In the West, Buddhism has grown significantly since the mid-20th century, driven partly by immigration from Asian countries and partly by Western converts attracted to meditation and Buddhist philosophy. Meditation apps like Headspace and Calm have made Buddhist-derived practices mainstream, even if users don't identify as Buddhist.
+In the West, Buddhism has grown significantly since the mid-20th century, driven partly by immigration from Asian countries and partly by Western converts attracted to meditation and Buddhist [philosophy](/philosophy). Meditation apps like Headspace and Calm have made Buddhist-derived practices mainstream, even if users don't identify as Buddhist.
 
 Western Buddhism tends to emphasize meditation and philosophy while de-emphasizing ritual, devotion, and supernatural elements — creating what some scholars call "Protestant Buddhism" or "Buddhist modernism." This selective adoption raises legitimate questions about cultural appropriation and whether stripped-down Western Buddhism meaningfully represents the tradition.
 

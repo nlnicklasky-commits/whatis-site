@@ -5,7 +5,7 @@ description: "Leadership is the ability to guide, influence, and inspire others 
 category: everyday-concepts
 tags: ["leadership", "management", "organizational behavior", "influence", "teamwork"]
 heroImage: "/images/articles/leadership.webp"
-heroAlt: "Diverse group of professionals collaborating around a conference table"
+heroAlt: "Editorial photograph representing the concept of leadership"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Leadership?
 
-Leadership is the process of influencing a group of people toward the achievement of shared goals. That definition is deliberately broad because leadership takes radically different forms depending on context — a military commander, a startup founder, a civil rights activist, a basketball coach, and a parent leading a family are all exercising leadership, but the skills and approaches involved look very different.
+Leadership is the process of influencing a group of people toward the achievement of shared goals. That definition is deliberately broad because leadership takes radically different forms depending on context — a military commander, a startup founder, a civil rights activist, a [basketball](/basketball) coach, and a parent leading a family are all exercising leadership, but the skills and approaches involved look very different.
 
 What they share is this: leadership is about people. It is about getting individuals to work together toward something none of them could achieve alone. And it is, surprisingly often, about doing things that are uncomfortable — making decisions with incomplete information, delivering hard feedback, choosing a direction when the right answer is not obvious.
 
@@ -59,7 +59,7 @@ Leadership research has evolved through several waves:
 
 **Contingency theories** (1960s-1980s) recognized that effectiveness depends on the situation. Fred Fiedler's contingency model showed that task-oriented leaders perform best in very favorable or very unfavorable situations, while relationship-oriented leaders excel in moderately favorable ones. The practical implication: match the leader to the situation, or teach leaders to read situations and adapt.
 
-**Emotional intelligence** — Daniel Goleman's influential 1998 *Harvard Business Review* article argued that emotional intelligence (self-awareness, self-regulation, motivation, empathy, social skill) matters more than IQ or technical expertise for leadership effectiveness. His research found that emotional intelligence accounted for roughly 90% of the difference between star performers and average ones in senior leadership roles. The exact percentage is debated, but the core finding — that managing emotions (your own and others') is central to leadership — has held up.
+**[Emotional intelligence](/emotional-intelligence)** — Daniel Goleman's influential 1998 *Harvard Business Review* article argued that emotional intelligence (self-awareness, self-regulation, motivation, empathy, social skill) matters more than IQ or technical expertise for leadership effectiveness. His research found that emotional intelligence accounted for roughly 90% of the difference between star performers and average ones in senior leadership roles. The exact percentage is debated, but the core finding — that managing emotions (your own and others') is central to leadership — has held up.
 
 ## The Hard Parts Nobody Talks About Enough
 
@@ -81,7 +81,7 @@ Yes — with caveats. Leadership is not a personality type; it is a set of behav
 
 The Center for Creative Leadership's research identifies three primary sources of leadership development: **challenging experiences** (70%), **developmental relationships** (20%), and **formal training** (10%). In other words, you learn leadership mainly by leading — taking on difficult assignments, making mistakes, reflecting, and adjusting. Courses and books provide frameworks, but experience provides the actual learning.
 
-The most consistent finding across leadership research: **self-awareness** separates effective leaders from ineffective ones. Leaders who accurately understand their own strengths, weaknesses, emotions, and impact on others make better decisions, build stronger relationships, and earn more trust. Leaders who lack self-awareness — who believe their own mythology, who cannot hear criticism, who are unaware of their effect on others — fail, regardless of their intelligence or technical competence.
+The most consistent finding across leadership research: **self-awareness** separates effective leaders from ineffective ones. Leaders who accurately understand their own strengths, weaknesses, emotions, and impact on others make better decisions, build stronger relationships, and earn more trust. Leaders who lack self-awareness — who believe their own [mythology](/mythology), who cannot hear criticism, who are unaware of their effect on others — fail, regardless of their intelligence or technical competence.
 
 ## The Bottom Line
 

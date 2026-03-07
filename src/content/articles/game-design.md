@@ -5,7 +5,7 @@ description: "Game design is the process of creating rules, mechanics, and exper
 category: everyday-concepts
 tags: ["game design", "video games", "board games", "interactive design", "game mechanics", "entertainment"]
 heroImage: "/images/articles/game-design.webp"
-heroAlt: "Game designer sketching level layouts with game controllers and prototypes nearby"
+heroAlt: "Editorial photograph representing the concept of game design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Game Design?
 
-Game design is the process of creating the rules, systems, narratives, and interactive experiences that make a game a game. It's distinct from game programming (writing the code), game art (creating the visuals), and game production (managing the development process). A game designer is the person who decides what the player can do, what the consequences of their actions are, and how the whole experience feels — whether that game is a massive open-world RPG, a simple mobile puzzler, or a board game played around a kitchen table.
+Game design is the process of creating the rules, systems, narratives, and interactive experiences that make a game a game. It's distinct from game programming ([writing](/writing) the code), game art (creating the visuals), and game production (managing the development process). A game designer is the person who decides what the player can do, what the consequences of their actions are, and how the whole experience feels — whether that game is a massive open-world RPG, a simple mobile puzzler, or a board game played around a kitchen table.
 
 ## The Core Question
 
 Every game design begins with the same fundamental question: "What is the player experience?" Not "What does the game look like?" or "What technology does it use?" but "How does it feel to play this?"
 
-A racing game should feel fast and exhilarating. A horror game should feel tense and vulnerable. A puzzle game should make you feel clever when you solve something and frustrated (but not too frustrated) when you're stuck. The designer's job is engineering those feelings through game mechanics — the rules and systems that govern interaction.
+A racing game should feel fast and exhilarating. A horror game should feel tense and vulnerable. A puzzle game should make you feel clever when you solve something and frustrated (but not too frustrated) when you're stuck. The designer's job is [engineering](/engineering) those feelings through game mechanics — the rules and systems that govern interaction.
 
 ## Game Mechanics
 
@@ -45,7 +45,7 @@ Mechanics are the building blocks of games. Some fundamental ones:
 
 **Goals** give players something to strive for. Without a goal — win the race, survive the night, solve the puzzle, capture the flag — there's no direction. Goals can be explicit (defeat the final boss) or emergent (build the most impressive base in a sandbox game).
 
-**Rules** constrain what players can do. In chess, the bishop moves diagonally. In Super Mario, touching an enemy kills you (unless you jump on it). Rules create the boundaries within which interesting decisions happen.
+**Rules** constrain what players can do. In [chess](/chess), the bishop moves diagonally. In Super Mario, touching an enemy kills you (unless you jump on it). Rules create the boundaries within which interesting decisions happen.
 
 **Feedback** tells players the consequences of their actions. Points scored, health bars changing, sounds playing, enemies dying — these signals inform the player that their actions matter. Games without clear feedback feel unresponsive and frustrating.
 
@@ -71,7 +71,7 @@ Professional game design follows iterative cycles of creation, testing, and refi
 
 **Level design** creates the environments players work through. Good level design teaches mechanics through play (introducing one new element at a time), controls pacing (alternating intensity and calm), and creates memorable spaces.
 
-**Narrative design** integrates story with gameplay. Unlike film or novel writing, game narratives must accommodate player agency — the story needs to work regardless of what order the player explores or what choices they make. This is fundamentally different from linear storytelling and requires specialized skills.
+**Narrative design** integrates story with gameplay. Unlike film or [novel writing](/novel-writing), game narratives must accommodate player agency — the story needs to work regardless of what order the player explores or what choices they make. This is fundamentally different from linear [storytelling](/storytelling) and requires specialized skills.
 
 **UX/UI design** handles how information is presented to the player — menus, HUD elements, control schemes, tutorials. Bad UI can ruin a game with great mechanics.
 
@@ -79,7 +79,7 @@ Professional game design follows iterative cycles of creation, testing, and refi
 
 The tabletop game industry has boomed since the 2010s — the board game market exceeds $15 billion annually. Board game design follows the same principles as digital game design but with physical constraints and unique advantages.
 
-Board games are inherently social. The interaction between players — negotiation in Catan, deduction in Werewolf, cooperation in Pandemic — creates experiences that solitary digital games can't replicate. The physical components — cards, dice, miniatures, boards — provide tactile satisfaction.
+[Board games](/board-games) are inherently social. The interaction between players — [negotiation](/negotiation) in Catan, deduction in Werewolf, cooperation in Pandemic — creates experiences that solitary digital games can't replicate. The physical components — cards, dice, miniatures, boards — provide tactile satisfaction.
 
 Prototyping is faster and cheaper for board games. Index cards, paper, and markers can create a playable prototype in hours. This rapid iteration is why board game design is an excellent entry point for aspiring game designers.
 
@@ -87,10 +87,10 @@ Prototyping is faster and cheaper for board games. Index cards, paper, and marke
 
 The video game industry employs hundreds of thousands of people and generates more revenue than film and music combined. But the industry faces serious labor issues — "crunch" (mandatory overtime, sometimes for months) is widespread at major studios. Layoffs frequently follow major releases. Job security is low compared to many tech-adjacent fields.
 
-**Indie game development** offers more creative freedom with less financial security. Tools like Unity, Unreal Engine, and Godot have made game development accessible to individuals and small teams. Platforms like Steam, itch.io, and the App Store provide distribution. Some indie games — Minecraft, Stardew Valley, Hollow Knight — have achieved massive commercial success.
+**Indie [game development](/game-development)** offers more creative freedom with less financial security. Tools like Unity, Unreal Engine, and Godot have made game development accessible to individuals and small teams. Platforms like Steam, itch.io, and the App Store provide distribution. Some indie games — Minecraft, Stardew Valley, Hollow Knight — have achieved massive commercial success.
 
 ## Why Game Design Matters
 
 Games are the dominant entertainment medium of the 21st century. More people play games than watch movies or listen to music. Understanding how games are designed — how they engage, challenge, motivate, and sometimes manipulate — is important whether you want to create games, study them, or simply be a more thoughtful player.
 
-Game design is also increasingly applied outside entertainment. Gamification uses game design principles in education, fitness, healthcare, and workplace training. The same mechanics that make games addictive can also make learning engaging — when applied thoughtfully and ethically.
+Game design is also increasingly applied outside entertainment. Gamification uses game design principles in [education](/education), [fitness](/fitness), healthcare, and workplace training. The same mechanics that make games addictive can also make learning engaging — when applied thoughtfully and ethically.

@@ -5,7 +5,7 @@ description: "Frame making is the craft of creating picture frames to display an
 category: arts-amp-culture
 tags: ["crafts", "art", "design", "woodworking", "picture framing", "art preservation"]
 heroImage: "/images/articles/frame-making.webp"
-heroAlt: "Craftsman working on a gilded picture frame in a workshop"
+heroAlt: "Editorial photograph representing the concept of frame making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,23 +31,23 @@ faq:
 
 # What Is Frame Making?
 
-Frame making is the craft of constructing frames to surround, display, and protect artwork, photographs, documents, and other flat objects. It sounds straightforward — build a rectangle, put glass in it, hang it on a wall. In practice, frame making involves woodworking precision, material science, design sensibility, and conservation knowledge. A well-made frame doesn't just hold a picture. It presents the artwork, protects it from environmental damage, and complements both the piece and the space it occupies.
+Frame making is the craft of constructing frames to surround, display, and protect artwork, photographs, documents, and other flat objects. It sounds straightforward — build a rectangle, put glass in it, hang it on a wall. In practice, frame making involves [woodworking](/woodworking) precision, material science, design sensibility, and conservation knowledge. A well-made frame doesn't just hold a picture. It presents the artwork, protects it from environmental damage, and complements both the piece and the space it occupies.
 
 ## More Than a Border
 
 A frame does three jobs simultaneously.
 
-**Protection** is the most practical function. A proper frame shields artwork from dust, moisture, UV light, insects, and physical damage. Conservation-grade framing — using acid-free materials, UV-filtering glazing, and archival mounting — can preserve a piece for centuries. Improper framing, conversely, can destroy artwork through acid migration, moisture trapping, or adhesive damage.
+**Protection** is the most practical function. A proper frame shields artwork from dust, moisture, UV light, insects, and physical damage. Conservation-grade framing — using acid-free materials, UV-filtering glazing, and archival mounting — can preserve a piece for centuries. Improper framing, conversely, can destroy artwork through acid migration, moisture [trapping](/trapping), or adhesive damage.
 
 **Presentation** shapes how viewers perceive the artwork. A wide, ornate gold frame conveys traditional importance. A slim, black contemporary frame recedes and lets the art speak. A floating frame creates the illusion that the artwork hovers in space. Frame choice isn't neutral — it's a curatorial decision.
 
 **Structural support** keeps everything together and provides a mounting system for walls, easels, or display cases. The frame must be strong enough to support the combined weight of glass, mat, backing, and artwork without warping or separating.
 
-## Materials and Construction
+## Materials and [Construction](/construction)
 
 **Wood** is the traditional and most common frame material. Hardwoods (oak, walnut, maple, cherry) are used for high-quality frames. Softwoods (pine, basswood) serve as substrates for painted or gilded finishes. Mouldings (the shaped wood strips that form the frame) come in thousands of profiles — from simple flat strips to elaborately carved and finished designs.
 
-**Metal** frames — aluminum, steel, or brass — offer clean, modern aesthetics. Sectional metal frames (Nielsen and similar brands) allow exact custom sizing by assembling pre-cut lengths with corner hardware.
+**Metal** frames — aluminum, steel, or brass — offer clean, modern [aesthetics](/aesthetics). Sectional metal frames (Nielsen and similar brands) allow exact custom sizing by assembling pre-cut lengths with corner hardware.
 
 **Gilding** — applying thin layers of gold leaf to a prepared surface — has been the premium frame finish for centuries. Traditional water gilding involves applying gesso, bole (colored clay), and 23-karat gold leaf, then burnishing to a mirror finish. Oil gilding is simpler but produces a matte, less luminous surface. Museum-quality gilded frames can take weeks to produce.
 
@@ -83,7 +83,7 @@ Professional picture framing combines craftsmanship with customer service. Most 
 
 The custom framing industry generates several billion dollars annually in the U.S. Independent frame shops compete with big-box stores (Michaels, Hobby Lobby) that offer custom framing services at lower prices but often with less expertise.
 
-Fine art frame making — creating hand-carved, gilded frames for museum collections and galleries — is a specialized niche requiring years of training in woodcarving, gilding, and historical frame styles.
+[Fine art](/fine-art) frame making — creating hand-carved, gilded frames for museum collections and galleries — is a specialized niche requiring years of training in woodcarving, gilding, and historical frame styles.
 
 ## Why It Matters
 

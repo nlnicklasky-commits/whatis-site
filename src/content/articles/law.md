@@ -5,7 +5,7 @@ description: "Law is the system of rules a society creates and enforces to regul
 category: law
 tags: ["legal system", "law", "justice", "governance", "civil rights", "courts"]
 heroImage: "/images/articles/law.webp"
-heroAlt: "A wooden gavel resting on a judge's bench beside scales of justice in a courtroom"
+heroAlt: "Editorial photograph representing the concept of law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Yes. History is full of examples — slavery laws, apartheid, Jim Crow segregation. Legal philosophers have long debated whether an unjust law is truly 'law' at all. The natural law tradition argues that law must align with moral principles to be legitimate, while legal positivists maintain that law and morality are separate questions."
 ---
 
-Law is the system of rules that a society or government creates, recognizes, and enforces to regulate behavior, protect individual rights, and resolve disputes. It's the framework that separates ordered civilization from chaos — though, honestly, it's messier and more interesting than that tidy definition suggests.
+Law is the system of rules that a society or [government](/government) creates, recognizes, and enforces to regulate behavior, protect individual rights, and resolve disputes. It's the framework that separates ordered civilization from chaos — though, honestly, it's messier and more interesting than that tidy definition suggests.
 
 Think of it this way: every society, from the smallest village to the largest nation, needs agreed-upon rules. Who owns what? What happens when someone harms another person? How do we make collective decisions? Law answers these questions — imperfectly, often controversially, but persistently.
 
@@ -47,7 +47,7 @@ Ancient Rome's contribution was enormous. Roman law developed concepts — contr
 
 English common law took a different approach. Instead of thorough codes, it evolved through judicial decisions — judges resolving disputes and creating precedents that future judges would follow. This case-by-case method, developed after the Norman Conquest in 1066, spread through the British Empire and remains the basis of legal systems in the United States, Canada, Australia, and dozens of other countries.
 
-Islamic law (Sharia) developed from the Quran, the Hadith (sayings of Prophet Muhammad), and scholarly interpretation. It covers not just criminal and civil matters but personal behavior, family life, and religious obligations. Various schools of Islamic jurisprudence interpret these sources differently, producing significant variation across Muslim-majority countries.
+Islamic law (Sharia) developed from the Quran, the Hadith (sayings of Prophet Muhammad), and scholarly interpretation. It covers not just criminal and civil matters but personal behavior, family life, and religious obligations. Various schools of Islamic [jurisprudence](/jurisprudence) interpret these sources differently, producing significant variation across Muslim-majority countries.
 
 ## The Major Legal Traditions
 
@@ -89,15 +89,15 @@ Modern legal systems have spawned dozens of specialized areas, each with its own
 
 **Constitutional law** concerns the interpretation of constitutional provisions and the limits of government power. Cases about free speech, gun rights, abortion, and executive authority all fall here. In the United States, the Supreme Court's constitutional interpretations shape American life in ways that few other institutions can match.
 
-**Contract law** governs agreements between parties. It sounds dry until you realize that virtually every economic transaction involves a contract — buying a house, starting a job, downloading an app. The basic elements are offer, acceptance, and consideration (something of value exchanged). [Business law](/business-law) extends many of these principles into the corporate world.
+**[Contract law](/contract-law)** governs agreements between parties. It sounds dry until you realize that virtually every economic transaction involves a contract — buying a house, starting a job, downloading an app. The basic elements are offer, acceptance, and consideration (something of value exchanged). [Business law](/business-law) extends many of these principles into the corporate world.
 
-**Property law** determines who owns what and what ownership means. This includes real property (land and buildings), personal property (movable things), and intellectual property (patents, copyrights, trademarks). Property concepts vary wildly across cultures and legal traditions.
+**[Property law](/property-law)** determines who owns what and what ownership means. This includes real property (land and buildings), personal property (movable things), and intellectual property (patents, copyrights, trademarks). Property concepts vary wildly across cultures and legal traditions.
 
 **Tort law** addresses civil wrongs — situations where someone's negligence or intentional action causes harm to another person. Slip-and-fall cases, medical malpractice, defamation, product liability — all torts. The goal is compensation, not punishment.
 
-**Administrative law** regulates the relationship between individuals and government agencies. Environmental regulations, immigration procedures, tax rules, workplace safety standards — all administered through agencies governed by administrative law. It's arguably the most practically important branch for most people's daily lives.
+**Administrative law** regulates the relationship between individuals and government agencies. Environmental regulations, immigration procedures, tax rules, [workplace safety](/workplace-safety) standards — all administered through agencies governed by administrative law. It's arguably the most practically important branch for most people's daily lives.
 
-**International law** governs relations between nations — treaties, trade agreements, the laws of war, human rights. Whether it's "real" law has been debated for centuries, since there's no global police force to enforce it. But it shapes global affairs far more than skeptics admit.
+**[International law](/international-law)** governs relations between nations — treaties, trade agreements, the laws of war, human rights. Whether it's "real" law has been debated for centuries, since there's no global police force to enforce it. But it shapes global affairs far more than skeptics admit.
 
 ## Natural Law vs. Legal Positivism: The Eternal Debate
 
@@ -117,7 +117,7 @@ The American civil rights movement used law strategically. *Brown v. Board of Ed
 
 But law has also been used to entrench injustice. Apartheid in South Africa was meticulously legal. Nazi Germany's persecution of Jews was conducted through legislation. The U.S. Supreme Court's *Dred Scott* decision (1857) declared that Black people could never be citizens. Legal doesn't mean right.
 
-Environmental law shows how law responds to new challenges. The concept barely existed before the 1960s. Today, environmental regulations in most countries govern air and water quality, species protection, hazardous waste, and climate emissions. Whether law can respond fast enough to the climate crisis remains one of the most pressing questions of our time.
+[Environmental law](/environmental-law) shows how law responds to new challenges. The concept barely existed before the 1960s. Today, environmental regulations in most countries govern air and water quality, species protection, hazardous waste, and climate emissions. Whether law can respond fast enough to the climate crisis remains one of the most pressing questions of our time.
 
 ## Why Law Matters to You
 

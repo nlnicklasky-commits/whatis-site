@@ -5,7 +5,7 @@ description: "Nutrition is the science of how food nourishes the body. Learn abo
 category: health-amp-wellness
 tags: ["nutrition", "diet", "nutrients", "health", "food science"]
 heroImage: "/images/articles/nutrition.webp"
-heroAlt: "Colorful array of fresh fruits, vegetables, grains, and proteins arranged on a wooden table"
+heroAlt: "Editorial photograph representing the concept of nutrition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ Nutrition is the science of how organisms obtain and use food for growth, energy
 
 ## Why What You Eat Matters More Than You Think
 
-Your body is constantly rebuilding itself. Every day, you produce roughly 330 billion new cells. Your red blood cells replace themselves every 120 days. The lining of your small intestine turns over every 3 to 5 days. The raw materials for all of that construction come from exactly one place: your food.
+Your body is constantly rebuilding itself. Every day, you produce roughly 330 billion new cells. Your red blood cells replace themselves every 120 days. The lining of your small intestine turns over every 3 to 5 days. The raw materials for all of that [construction](/construction) come from exactly one place: your food.
 
 That's not a metaphor. The calcium in your bones, the iron in your hemoglobin, the amino acids in your muscles — all of it was once sitting on a plate (or in a wrapper, no judgment). The quality of those raw materials directly shapes the quality of the final product.
 
@@ -57,7 +57,7 @@ Carbs come in two basic forms. **Simple carbohydrates** — sugars like glucose,
 
 The current Dietary Guidelines for Americans recommend that 45% to 65% of your total calories come from carbohydrates. But — and this is the part that matters — the *type* of carbohydrate is more important than the amount. A diet heavy in whole grains, fruits, and vegetables looks very different metabolically from one heavy in white bread, sugary drinks, and candy, even if both hit the same carb percentage.
 
-Fiber deserves special mention. It's a carbohydrate your body can't digest, which sounds useless until you realize it feeds your gut microbiome (the 38 trillion bacteria living in your intestines), slows sugar absorption, lowers cholesterol, and keeps your digestive system running smoothly. Most Americans eat about 15 grams of fiber per day. The recommendation is 25 to 38 grams. That gap matters.
+Fiber deserves special mention. It's a carbohydrate your body can't digest, which sounds useless until you realize it feeds your gut microbiome (the 38 trillion bacteria living in your intestines), slows sugar absorption, lowers cholesterol, and keeps your digestive system [running](/running) smoothly. Most Americans eat about 15 grams of fiber per day. The recommendation is 25 to 38 grams. That gap matters.
 
 ### Proteins
 
@@ -65,7 +65,7 @@ Proteins are chains of amino acids — 20 different kinds, of which 9 are "essen
 
 Good sources include meat, fish, eggs, dairy, legumes, nuts, and soy. Animal proteins are "complete" — they contain all 9 essential amino acids. Most plant proteins are "incomplete," lacking one or more essential amino acids, but combining different plant sources (rice and beans, for instance) covers all the bases.
 
-The recommended dietary allowance (RDA) for protein is 0.8 grams per kilogram of body weight per day for sedentary adults — about 56 grams for a 154-pound person. But many nutrition researchers argue this is a minimum to prevent deficiency, not an optimal amount. Active individuals, older adults, and people recovering from illness or surgery likely need more — somewhere between 1.2 and 2.0 grams per kilogram.
+The recommended dietary allowance (RDA) for protein is 0.8 grams per kilogram of body weight per day for sedentary adults — about 56 grams for a 154-pound person. But many nutrition researchers argue this is a minimum to prevent deficiency, not an optimal amount. Active individuals, older adults, and people recovering from illness or [surgery](/surgery) likely need more — somewhere between 1.2 and 2.0 grams per kilogram.
 
 ### Fats
 
@@ -99,7 +99,7 @@ Your body uses about 16 essential minerals. **Calcium** builds bones and teeth (
 
 Water makes up about 60% of your body weight and is involved in virtually every biological process — temperature regulation, nutrient transport, waste removal, joint lubrication, chemical reactions. You lose about 2.5 liters per day through urine, sweat, breathing, and digestion.
 
-The old "eight glasses a day" rule is a rough approximation. The National Academies of Sciences, Engineering, and Medicine suggest about 3.7 liters of total daily fluid intake for men and 2.7 liters for women — but that includes water from food, which accounts for about 20% of intake. Your actual needs vary with climate, activity level, and individual physiology. The simplest indicator? If your urine is pale yellow, you're probably fine.
+The old "eight glasses a day" rule is a rough approximation. The National Academies of Sciences, [Engineering](/engineering), and Medicine suggest about 3.7 liters of total daily fluid intake for men and 2.7 liters for women — but that includes water from food, which accounts for about 20% of intake. Your actual needs vary with climate, activity level, and individual [physiology](/physiology). The simplest indicator? If your urine is pale yellow, you're probably fine.
 
 ## The Gut Microbiome: Your Internal Ecosystem
 

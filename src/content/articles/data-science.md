@@ -5,7 +5,7 @@ description: "Data science combines statistics, programming, and domain expertis
 category: technology
 tags: ["data science", "machine learning", "statistics", "analytics", "big data", "ai", "programming"]
 heroImage: "/images/articles/data-science-hero.webp"
-heroAlt: "Venn diagram showing the intersection of statistics, programming, and domain expertise in data science"
+heroAlt: "Editorial photograph representing the concept of data science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Data science isn't a single skill—it's a combination of three distinct areas o
 
 ### Mathematics and Statistics
 
-This is the theoretical backbone. Probability theory, statistical inference, linear algebra, calculus, and optimization theory provide the mathematical framework for understanding data. Without statistics, you can't determine whether a pattern is real or just random noise. Without linear algebra, you can't understand how most [machine learning](/machine-learning) algorithms actually work under the hood.
+This is the theoretical backbone. [Probability theory](/probability-theory), statistical inference, linear algebra, calculus, and optimization theory provide the mathematical framework for understanding data. Without statistics, you can't determine whether a pattern is real or just random noise. Without linear algebra, you can't understand how most [machine learning](/machine-learning) algorithms actually work under the hood.
 
 You don't need to be a math PhD—but you do need comfort with concepts like probability distributions, hypothesis testing, Bayesian inference, and regression. These aren't optional extras. They're the foundation that separates actual data science from "playing with data."
 
@@ -51,7 +51,7 @@ You don't need to be a math PhD—but you do need comfort with concepts like pro
 
 Theory without implementation is just theory. Data scientists need to write code that processes data, implements algorithms, builds models, and creates data pipelines. Python dominates the field, with R as a strong alternative. SQL is essential for accessing data in relational databases.
 
-Beyond writing analysis scripts, data scientists increasingly need software engineering skills: version control (Git), testing, documentation, and the ability to write code that others can maintain and build upon. The lone data scientist working in a Jupyter notebook is giving way to data scientists who collaborate with engineers, deploy models to production, and maintain code like any other software.
+Beyond writing analysis scripts, data scientists increasingly need [software engineering](/software-engineering) skills: version control (Git), testing, documentation, and the ability to write code that others can maintain and build upon. The lone data scientist working in a Jupyter notebook is giving way to data scientists who collaborate with engineers, deploy models to production, and maintain code like any other software.
 
 ### Domain Expertise
 
@@ -105,7 +105,7 @@ Now the stereotypically "data science" part. You select an algorithm (or several
 
 **Unsupervised learning** finds patterns in unlabeled data. Clustering groups similar items together. Dimensionality reduction simplifies high-dimensional data while preserving important structure. Anomaly detection identifies unusual data points.
 
-**Reinforcement learning** trains agents to make decisions by rewarding good outcomes and penalizing bad ones. It's less common in traditional data science but powers robotics, game AI, and recommendation systems.
+**[Reinforcement learning](/reinforcement-learning)** trains agents to make decisions by rewarding good outcomes and penalizing bad ones. It's less common in traditional data science but powers robotics, game AI, and recommendation systems.
 
 Algorithm selection matters, but it's rarely the most important factor. A well-engineered dataset with a simple model often outperforms a raw dataset with a sophisticated model. The Kaggle competition community has demonstrated this repeatedly—winners often win on feature engineering, not algorithm novelty.
 
@@ -149,7 +149,7 @@ Clustering finds natural groupings in data without being told what groups to fin
 
 Customer segmentation is the classic business application. Instead of treating all customers identically, clustering reveals distinct behavioral groups—price-sensitive shoppers, brand-loyal buyers, occasional high-spenders—each requiring different marketing strategies.
 
-### Natural Language Processing (NLP)
+### [Natural Language Processing](/natural-language-processing) (NLP)
 
 NLP applies data science to human language. Sentiment analysis determines whether text is positive or negative. Named entity recognition extracts names, dates, and locations. Topic modeling discovers themes in document collections. Machine translation converts between languages.
 

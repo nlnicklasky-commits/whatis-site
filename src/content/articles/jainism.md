@@ -5,7 +5,7 @@ description: "Jainism is an ancient Indian religion emphasizing non-violence, tr
 category: religion
 tags: ["jainism", "religion", "non-violence", "ahimsa", "Indian religion"]
 heroImage: "/images/articles/jainism.webp"
-heroAlt: "Ornate Jain temple interior with white marble carvings and intricate pillars"
+heroAlt: "Editorial photograph representing the concept of jainism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Jainism is one of the world's oldest religions, originating in India at least 2,
 
 Jainism does not have a single founder in the conventional sense. It recognizes 24 **Tirthankaras** ("ford-makers" — those who create a crossing over the river of rebirth) who achieved perfect knowledge and taught the path to liberation. The 24th and most recent was **Mahavira** (599-527 BCE), a contemporary of the Buddha, who is the most historically documented figure in the tradition.
 
-Mahavira renounced royal life at age 30, spent 12 years as a wandering ascetic, and achieved *kevala jnana* (perfect knowledge) at age 42. He spent the remaining 30 years of his life teaching. His followers organized into a community of monks, nuns, laymen, and laywomen — a four-fold structure that persists today.
+Mahavira renounced royal life at age 30, spent 12 years as a wandering ascetic, and achieved *kevala jnana* (perfect knowledge) at age 42. He spent the remaining 30 years of his life [teaching](/teaching). His followers organized into a community of monks, nuns, laymen, and laywomen — a four-fold structure that persists today.
 
 ## Core Beliefs
 
-**Non-violence (ahimsa)** is the defining principle. Jains take ahimsa further than any other religion. All living beings possess souls (jiva) at different stages of consciousness — from one-sensed beings (plants, earth, water, fire, air) to five-sensed beings (humans, animals). Harming any of them generates negative karma.
+**Non-violence (ahimsa)** is the defining principle. Jains take ahimsa further than any other [religion](/religion). All living beings possess souls (jiva) at different stages of consciousness — from one-sensed beings (plants, earth, water, fire, air) to five-sensed beings (humans, animals). Harming any of them generates negative karma.
 
 This commitment shapes daily life in practical ways. Jains are strictly vegetarian — most avoid root vegetables (harvesting kills the plant) and some avoid eating after sunset (to prevent accidentally consuming insects attracted to light). Jain monks and nuns live with extraordinary discipline: some own nothing beyond a broom, a water gourd, and cloth to cover their mouths.
 
@@ -61,11 +61,11 @@ Despite these differences, both sects share core philosophical commitments and m
 
 Jainism's influence extends far beyond its small membership:
 
-**Gandhi and non-violence.** Mahatma Gandhi grew up in Gujarat surrounded by Jain culture. His philosophy of *satyagraha* (truth-force) and non-violent resistance drew heavily from Jain principles of ahimsa. Through Gandhi, Jain ideas influenced Martin Luther King Jr., Nelson Mandela, and global non-violence movements.
+**Gandhi and non-violence.** Mahatma Gandhi grew up in Gujarat surrounded by Jain culture. His [philosophy](/philosophy) of *satyagraha* (truth-force) and non-violent resistance drew heavily from Jain principles of ahimsa. Through Gandhi, Jain ideas influenced Martin Luther King Jr., Nelson Mandela, and global non-violence movements.
 
-**Economic success.** Despite comprising less than 0.4% of India's population, Jains are among the most prosperous communities. Their ethical commitments — honesty in business, prohibition on gambling and speculation, emphasis on education — have produced disproportionate success in commerce, industry, and the professions.
+**Economic success.** Despite comprising less than 0.4% of India's population, Jains are among the most prosperous communities. Their ethical commitments — honesty in business, prohibition on gambling and speculation, emphasis on [education](/education) — have produced disproportionate success in commerce, industry, and the professions.
 
-**Architecture.** Jain temples are among India's most beautiful structures. The Dilwara Temples in Rajasthan, carved from white marble with astonishing intricacy, are considered architectural masterpieces.
+**[Architecture](/architecture).** Jain temples are among India's most beautiful structures. The Dilwara Temples in Rajasthan, carved from white marble with astonishing intricacy, are considered architectural masterpieces.
 
 **Environmentalism.** Jain principles of non-harm and minimal consumption align naturally with environmental conservation. Several Jain organizations actively promote veganism, animal rights, and ecological sustainability.
 
@@ -73,7 +73,7 @@ Jainism's influence extends far beyond its small membership:
 
 Most Jain laypeople follow the "lesser vows" — modified versions of the five ascetic vows adapted for household life. They are vegetarian, avoid professions that involve significant harm (leather, weapons, alcohol), practice charitable giving, and observe periodic fasting.
 
-Temples serve as centers of community life. Worship involves offerings to images of the Tirthankaras — not as prayers for favors (the Tirthankaras have transcended the world and cannot intervene) but as meditation on the qualities of the enlightened soul.
+Temples serve as centers of community life. Worship involves offerings to images of the Tirthankaras — not as prayers for favors (the Tirthankaras have transcended the world and cannot intervene) but as [meditation](/meditation) on the qualities of the enlightened soul.
 
 The annual festival of **Paryushana** (8 or 10 days of fasting, prayer, and confession) is the most important religious observance. It concludes with *Micchami Dukkadam* — a day of asking forgiveness from all beings for any harm caused during the year.
 

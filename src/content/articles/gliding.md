@@ -5,7 +5,7 @@ description: "Gliding is the sport of flying engineless aircraft using natural a
 category: sports
 tags: ["gliding", "sailplane", "aviation", "thermals", "aerodynamics", "flight"]
 heroImage: "/images/articles/gliding.webp"
-heroAlt: "White sailplane soaring against a blue sky with cumulus clouds"
+heroAlt: "Editorial photograph representing the concept of gliding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Every glider is constantly descending relative to the air around it. A modern co
 
 ## The Aircraft
 
-Modern sailplanes are engineering marvels. They're built from fiberglass and carbon fiber composites — light, strong, and aerodynamically refined. Wings are long and slender (spans of 15-25 meters) to maximize lift-to-drag ratio. The best competition gliders achieve glide ratios of 60:1 or better — meaning they travel 60 feet forward for every foot of altitude lost. For comparison, a Boeing 747 has a glide ratio of about 17:1.
+Modern sailplanes are [engineering](/engineering) marvels. They're built from fiberglass and carbon fiber composites — light, strong, and aerodynamically refined. Wings are long and slender (spans of 15-25 meters) to maximize lift-to-drag ratio. The best competition gliders achieve glide ratios of 60:1 or better — meaning they travel 60 feet forward for every foot of altitude lost. For comparison, a Boeing 747 has a glide ratio of about 17:1.
 
 The cockpit is small and reclined — the pilot lies almost flat to reduce frontal area and drag. Instruments include an altimeter, airspeed indicator, variometer (which shows rate of climb or descent with extreme sensitivity), GPS, and flight computer. The variometer is the glider pilot's most important instrument — it tells you whether the air is going up or down.
 
@@ -73,7 +73,7 @@ Getting started requires training at a gliding club or commercial school. The tr
 
 Most students solo after 30-50 flights, depending on aptitude and flight frequency. The FAA glider certificate requires a minimum of 10 hours flight time (including 20 flights and 2 hours solo), a written exam, and a practical flight test. Real competency takes considerably more experience.
 
-Costs are moderate compared to powered aviation. A glider ride with an instructor costs $50-$150. Club memberships run $500-$2,000 per year, with tow fees of $30-$50 per launch. Owning a glider costs $15,000-$150,000+ depending on age and performance level.
+Costs are moderate compared to powered [aviation](/aviation). A glider ride with an instructor costs $50-$150. Club memberships run $500-$2,000 per year, with tow fees of $30-$50 per launch. Owning a glider costs $15,000-$150,000+ depending on age and performance level.
 
 ## The Appeal
 

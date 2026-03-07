@@ -5,7 +5,7 @@ description: Discover Stoicism—an ancient philosophy teaching virtue, resilien
 category: philosophy
 tags: ["stoicism", "philosophy", "marcus-aurelius", "epictetus", "ancient-greece", "ethics", "mindfulness"]
 heroImage: "/images/articles/stoicism-hero.webp"
-heroAlt: "Ancient marble columns of a Greek temple, symbolizing the foundations of Stoic philosophy"
+heroAlt: "Editorial photograph representing the concept of stoicism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -127,11 +127,11 @@ You might think Stoicism is an ancient relic. But it's surprisingly relevant to 
 
 Modern [cognitive-behavioral-therapy](/cognitive-behavioral-therapy) is remarkably similar to Stoic practice. CBT teaches that your thoughts create your emotions—not external events directly. Change your interpretation of events, and you change how you feel. That's almost exactly what Epictetus taught: "It's not things that disturb you, but your judgments about them."
 
-Stoic practices are being studied in modern psychology. The dichotomy of control reduces anxiety by redirecting focus. Negative visualization increases resilience. Reflective practice strengthens self-awareness. These aren't ancient superstitions—they're powerful psychological tools.
+Stoic practices are being studied in modern [psychology](/psychology). The dichotomy of control reduces anxiety by redirecting focus. Negative visualization increases resilience. Reflective practice strengthens self-awareness. These aren't ancient superstitions—they're powerful psychological tools.
 
 ### The Overwhelm of Modern Information
 
-You're bombarded with news, opinions, and information. Most of it is outside your control. A Stoic approach? Distinguish between what you can influence (your immediate community, your work, your choices) and what you can't (global politics, other people's opinions, events happening elsewhere). Focus your attention and energy accordingly.
+You're bombarded with news, opinions, and information. Most of it is outside your control. A Stoic approach? Distinguish between what you can influence (your immediate community, your work, your choices) and what you can't (global [politics](/politics), other people's opinions, events happening elsewhere). Focus your attention and energy accordingly.
 
 This isn't apathy. It's wisdom about where your effort matters.
 
@@ -193,7 +193,7 @@ Marcus Aurelius (121-180 CE) was Emperor, managing an empire during plague and c
 
 ## Stoicism in [Ancient Greece](/ancient-greece) and Beyond
 
-Stoicism flourished in the ancient world because it addressed real suffering. After Alexander the Great's conquests, the world became chaotic and unpredictable. Traditional religion and community structures felt less stable. People needed a philosophy that worked anywhere, for anyone—whether you were poor or rich, enslaved or free, in Athens or Rome.
+Stoicism flourished in the ancient world because it addressed real suffering. After Alexander the Great's conquests, the world became chaotic and unpredictable. Traditional [religion](/religion) and community structures felt less stable. People needed a philosophy that worked anywhere, for anyone—whether you were poor or rich, enslaved or free, in Athens or Rome.
 
 The fact that both Epictetus, who was enslaved, and Marcus Aurelius, who ruled an empire, found the same philosophy so powerful speaks volumes. External conditions changed everything about their lives. Yet both discovered that the fundamental human challenge remained the same: controlling your mind, your reactions, your character.
 

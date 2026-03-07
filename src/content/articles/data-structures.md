@@ -5,7 +5,7 @@ description: "Data structures are ways of organizing information in a computer f
 category: technology
 tags: ["data structures", "computer science", "programming", "algorithms", "software engineering", "arrays", "linked lists"]
 heroImage: "/images/articles/data-structures-hero.webp"
-heroAlt: "Illustration of various data structures including trees, linked lists, and hash tables"
+heroAlt: "Editorial photograph representing the concept of data structures"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Niklaus Wirth, the computer scientist who designed Pascal, titled his famous 197
 
 ## The Fundamentals: How We Measure Efficiency
 
-Before diving into specific structures, you need to understand Big O notation—the standard way computer scientists measure how an operation's time or space requirements grow as the input size increases.
+Before [diving](/diving) into specific structures, you need to understand Big O notation—the standard way computer scientists measure how an operation's time or space requirements grow as the input size increases.
 
 - **O(1)** — Constant time. The operation takes the same time regardless of data size. Looking up an element in an array by its index is O(1).
 - **O(log n)** — Logarithmic time. The time grows logarithmically as data increases. Binary search is O(log n)—doubling the data only adds one more step.
@@ -108,7 +108,7 @@ Two fundamental operations:
 
 Both operations are O(1). Peeking at the top element without removing it is also O(1).
 
-Stacks are everywhere in computing. Your web browser's back button uses a stack—each page you visit gets pushed onto the stack, and clicking back pops the most recent one. Function call management in programming languages uses a call stack. Expression parsing (balancing parentheses, evaluating mathematical expressions) uses stacks. The undo feature in text editors uses stacks.
+Stacks are everywhere in computing. Your web browser's back button uses a stack—each page you visit gets pushed onto the stack, and clicking back pops the most recent one. Function call [management](/management) in [programming languages](/programming-languages) uses a call stack. Expression parsing (balancing parentheses, evaluating mathematical expressions) uses stacks. The undo feature in text editors uses stacks.
 
 ### Queues
 
@@ -190,7 +190,7 @@ Heapsort, one of the classic sorting [algorithms](/algorithms), uses a heap to s
 
 A trie (pronounced "try," from "retrieval") is a tree where each node represents a character, and paths from root to nodes spell out strings. Tries are optimized for prefix-based operations on strings.
 
-Searching for a word in a trie takes O(m) time, where m is the word's length—completely independent of how many words are stored. This makes tries ideal for autocomplete systems (type "prog" and instantly find all words starting with "prog"), spell checkers, IP routing tables, and dictionary implementations.
+Searching for a word in a trie takes O(m) time, where m is the word's length—completely independent of how many words are stored. This makes tries ideal for autocomplete systems (type "prog" and instantly find all words starting with "prog"), spell [checkers](/checkers), IP routing tables, and dictionary implementations.
 
 The tradeoff is memory. A naive trie can use enormous amounts of space because each node potentially has one child per character in the alphabet. Compressed tries (Patricia tries, radix trees) reduce this overhead by merging chains of single-child nodes.
 
@@ -242,7 +242,7 @@ Redis, the popular in-memory data store, uses skip lists for its sorted set impl
 
 This structure tracks a collection of non-overlapping sets. Two operations: **find** (which set does this element belong to?) and **union** (merge two sets). With path compression and union by rank, both operations are nearly O(1).
 
-Union-Find is used in Kruskal's minimum spanning tree algorithm, network connectivity analysis, and image processing (identifying connected components).
+Union-Find is used in Kruskal's minimum spanning tree algorithm, network connectivity analysis, and [image processing](/image-processing) (identifying connected components).
 
 ## Choosing the Right Data Structure
 
@@ -271,8 +271,8 @@ The context—data size, operation frequency, memory constraints, concurrency re
 Understanding data structures isn't just for technical interviews (though they dominate interview questions at companies like Google, Amazon, and Meta). They shape real systems:
 
 - **Databases** use B-trees for indexes, hash tables for in-memory lookups, and write-ahead logs (essentially queues) for durability.
-- **Operating systems** use trees for file systems, queues for process scheduling, and hash tables for page tables.
-- **Compilers** use hash tables for symbol tables, trees for syntax parsing, and stacks for expression evaluation.
+- **Operating systems** use trees for file systems, queues for process [scheduling](/scheduling), and hash tables for page tables.
+- **Compilers** use hash tables for symbol tables, trees for [syntax](/syntax) parsing, and stacks for expression evaluation.
 - **Search engines** use inverted indexes (a form of hash table), tries for autocomplete, and graphs for link analysis.
 - **Social networks** are fundamentally graph structures with hash tables for user lookups and queues for news feed generation.
 

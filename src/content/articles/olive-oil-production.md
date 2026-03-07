@@ -5,7 +5,7 @@ description: "Olive oil production transforms olives into oil through harvesting
 category: everyday-concepts
 tags: ["olive oil", "olive cultivation", "oil extraction", "mediterranean diet", "extra virgin olive oil", "agronomy"]
 heroImage: "/images/articles/olive-oil-production.webp"
-heroAlt: "Fresh green olives being poured into a press at a Mediterranean olive oil mill"
+heroAlt: "Editorial photograph representing the concept of olive oil production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Olive oil production is the process of extracting oil from the fruit of the oliv
 
 Olive trees are remarkably long-lived. Some specimens in the Mediterranean are estimated to be over 2,000 years old and still producing fruit. A typical tree reaches productive maturity at about 5-10 years and continues producing for centuries with proper care.
 
-The trees thrive in Mediterranean climates — hot, dry summers and mild, rainy winters. Globally, about 90% of olive oil production comes from the Mediterranean region. Spain is the largest producer by far, accounting for nearly 45% of world production. Italy, Greece, Turkey, Tunisia, Morocco, and Portugal round out the top producers.
+The trees thrive in Mediterranean climates — hot, dry summers and mild, rainy winters. Globally, about 90% of olive oil production comes from the Mediterranean region. Spain is the largest producer by far, [accounting](/accounting) for nearly 45% of world production. Italy, Greece, Turkey, Tunisia, Morocco, and Portugal round out the top producers.
 
 California, Australia, South Africa, Argentina, and Chile have developed olive oil industries in recent decades, taking advantage of similar climate zones. California alone produces about 5% of U.S. olive oil consumption, with the rest imported.
 
@@ -49,7 +49,7 @@ Traditional harvesting involves spreading nets under the trees and raking or bea
 
 Modern operations use mechanical tree shakers that vibrate the trunk, dislodging olives onto collection tarps. Some high-density orchards use over-the-row harvesting machines — essentially grape harvesters adapted for olives — that can process an acre in minutes.
 
-Speed matters. Once picked, olives begin degrading immediately. Oxidation and fermentation raise acidity and produce off-flavors. The best olive oil comes from fruit processed within hours of harvest — 24 hours maximum for premium extra virgin quality.
+Speed matters. Once picked, olives begin degrading immediately. Oxidation and [fermentation](/fermentation) raise acidity and produce off-flavors. The best olive oil comes from fruit processed within hours of harvest — 24 hours maximum for premium extra virgin quality.
 
 ## The Extraction Process
 
@@ -63,7 +63,7 @@ Modern olive oil extraction is entirely mechanical — no chemicals, no heat bey
 
 **Separation.** A centrifuge spins the paste at high speed, separating oil from water and solid matter (called pomace). This is the critical step — a horizontal decanter first separates solids from liquids, then a vertical centrifuge separates oil from water.
 
-**Filtration.** Some producers filter the oil to remove tiny particles and water, which extends shelf life. Others sell it unfiltered (cloudy appearance), arguing it preserves flavor. There's legitimate debate about which approach is better.
+**Filtration.** Some producers filter the oil to remove tiny particles and water, which extends shelf life. Others sell it unfiltered (cloudy appearance), arguing it preserves flavor. There's legitimate [debate](/debate) about which approach is better.
 
 ## The Grades
 
@@ -75,7 +75,7 @@ Not all olive oil is created equal. The International Olive Council defines seve
 
 **Refined olive oil** is virgin oil that has been processed with heat, chemicals, or filters to remove defects. It's bland, with little flavor or color. You won't see this sold on its own.
 
-**Olive oil** (sometimes labeled "pure" or "classic") is a blend of refined oil and some virgin oil added back for flavor. This is the generic supermarket product — fine for cooking, but lacking the character of extra virgin.
+**Olive oil** (sometimes labeled "pure" or "classic") is a blend of refined oil and some virgin oil added back for flavor. This is the generic supermarket product — fine for [cooking](/cooking), but lacking the character of extra virgin.
 
 **Olive pomace oil** is extracted from the leftover solids using chemical solvents. It's the lowest grade, used primarily for commercial frying.
 
@@ -93,4 +93,4 @@ The health benefits of olive oil — particularly extra virgin — are well-docu
 
 In the kitchen, extra virgin olive oil is at its best raw — drizzled over salads, bread, vegetables, or grilled fish. Cooking with it is fine despite the myth that it can't be heated; its smoke point (around 375-410°F) is adequate for most sauteing. But high heat destroys the delicate flavors that make good olive oil worth buying in the first place.
 
-Olive oil production connects agriculture, chemistry, culture, and cuisine in a chain that goes back to the earliest Mediterranean civilizations. The process has been refined with modern technology, but the fundamental act — crushing fruit to release its oil — hasn't changed in 6,000 years.
+Olive oil production connects [agriculture](/agriculture), [chemistry](/chemistry), culture, and cuisine in a chain that goes back to the earliest Mediterranean civilizations. The process has been refined with modern technology, but the fundamental act — crushing fruit to release its oil — hasn't changed in 6,000 years.

@@ -5,7 +5,7 @@ description: "Geomorphology studies how Earth's landforms are shaped by erosion,
 category: science
 tags: ["geomorphology", "landforms", "geology", "physical geography", "erosion", "weathering", "plate tectonics"]
 heroImage: "/images/articles/geomorphology-hero.webp"
-heroAlt: "Dramatic eroded canyon landscape showing layers of geological history"
+heroAlt: "Editorial photograph representing the concept of geomorphology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,7 +59,7 @@ Earth's surface is caught in a constant tug-of-war between forces that build ter
 
 ### Tectonic Forces: Building Up
 
-Plate tectonics provides the raw material for landforms. When plates collide, mountains rise. The Himalayas are still growing—India continues pushing into Asia at about 5 centimeters per year, and the mountains gain roughly 5 millimeters of height annually. That doesn't sound like much until you multiply by millions of years.
+[Plate tectonics](/plate-tectonics) provides the raw material for landforms. When plates collide, mountains rise. The Himalayas are still growing—India continues pushing into Asia at about 5 centimeters per year, and the mountains gain roughly 5 millimeters of height annually. That doesn't sound like much until you multiply by millions of years.
 
 Volcanic activity creates landforms rapidly. Mount St. Helens lost 400 meters of elevation in a single eruption in 1980. Hawaii's Big Island grows as lava flows extend its coastline. Iceland sits on a mid-ocean ridge where new crust is literally being manufactured.
 
@@ -139,7 +139,7 @@ Modern geomorphology relies heavily on technology for measurement and modeling.
 
 Satellites and aircraft provide geomorphologists with data at scales impossible to collect from the ground. LiDAR (Light Detection and Ranging) can map terrain beneath forest canopy with centimeter-level accuracy. Satellite radar interferometry detects ground movement of just millimeters—enough to monitor landslide creep, volcanic inflation, and tectonic strain.
 
-[Cartography](/cartography) and geographic information systems (GIS) allow geomorphologists to analyze spatial patterns in field data, overlay geological and topographic information, and model field evolution.
+[Cartography](/cartography) and geographic [information systems](/information-systems) (GIS) allow geomorphologists to analyze spatial patterns in field data, overlay geological and topographic information, and model field evolution.
 
 ### Field Measurement
 
@@ -179,7 +179,7 @@ In coastal areas, geomorphological understanding guides decisions about sea wall
 
 Geomorphology isn't limited to Earth. Mars has river channels (evidence of past water), massive volcanoes (Olympus Mons is 2.5 times the height of Everest), and spectacular canyons (Valles Marineris stretches 4,000 kilometers). Titan, Saturn's largest moon, has methane rivers and lakes. Pluto has nitrogen glaciers.
 
-Applying geomorphological reasoning to other planets helps scientists reconstruct their environmental histories. The presence of fluvial landforms on Mars tells us that liquid water once flowed on its surface—one of the most significant findings in planetary science.
+Applying geomorphological reasoning to other planets helps scientists reconstruct their environmental histories. The presence of fluvial landforms on Mars tells us that liquid water once flowed on its surface—one of the most significant findings in [planetary science](/planetary-science).
 
 ## The Human Factor
 

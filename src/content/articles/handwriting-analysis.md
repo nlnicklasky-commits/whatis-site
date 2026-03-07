@@ -5,7 +5,7 @@ description: "Handwriting analysis examines writing to identify authorship or in
 category: everyday-concepts
 tags: ["handwriting analysis", "graphology", "pseudoscience", "personality", "forensic science", "writing"]
 heroImage: "/images/articles/handwriting-analysis.webp"
-heroAlt: "Handwriting samples compared side by side under magnification"
+heroAlt: "Editorial photograph representing the concept of handwriting analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Handwriting Analysis?
 
-Handwriting analysis is the examination of handwriting to draw conclusions about the writer. That simple statement conceals a major divide: there are two completely different disciplines that both use the term, and confusing them causes real problems. **Forensic document examination** asks "Who wrote this?" — comparing handwriting samples to identify or exclude a writer. **Graphology** asks "What kind of person wrote this?" — claiming to reveal personality traits from handwriting features. The first is a legitimate forensic discipline used in courts. The second is a pseudoscience with no validated scientific support. They sound similar but are fundamentally different practices.
+Handwriting analysis is the examination of handwriting to draw conclusions about the writer. That simple statement conceals a major divide: there are two completely different disciplines that both use the term, and confusing them causes real problems. **Forensic document examination** asks "Who wrote this?" — comparing handwriting samples to identify or exclude a writer. **[Graphology](/graphology)** asks "What kind of person wrote this?" — claiming to reveal personality traits from handwriting features. The first is a legitimate forensic discipline used in courts. The second is a pseudoscience with no validated scientific support. They sound similar but are fundamentally different practices.
 
 ## Forensic Document Examination
 
@@ -39,7 +39,7 @@ Forensic document examination (FDE), also called questioned document analysis, i
 
 **How it works:** An examiner compares a **questioned document** (the document of unknown authorship) with **known exemplars** (samples of handwriting from the suspected writer). The comparison focuses on measurable, objective features.
 
-**Class characteristics** are features shared by everyone taught the same writing system — basic letter shapes, slant direction, and proportions that come from your school copybook. These can narrow the pool but can't identify an individual.
+**Class characteristics** are features shared by everyone taught the same [writing](/writing) system — basic letter shapes, slant direction, and proportions that come from your school copybook. These can narrow the pool but can't identify an individual.
 
 **Individual characteristics** are features unique to a specific writer — habitual letter formations, connecting strokes between letters, pen lifts (where the writer lifts the pen within or between letters), proportions of letter parts (how tall is the "t" crossbar relative to the stem?), baseline consistency, spacing habits, and pen pressure patterns.
 
@@ -81,8 +81,8 @@ A forensic document examiner and a graphologist might both examine the same hand
 
 Handwriting analysis faces a changing world. People write less by hand — signatures appear on electronic pads, communication happens via keyboard, and many young adults have limited handwriting practice. This creates practical problems for forensic document examination: known handwriting exemplars may be scarce, and writing quality may have degraded from lack of practice.
 
-Conversely, **digital forensics** has emerged as a parallel field. Keystroke dynamics (how someone types — speed, pressure, timing between keystrokes), writing style analysis (word choice, sentence structure, punctuation habits), and metadata analysis can identify authors of digital text. These techniques are increasingly used alongside traditional handwriting analysis.
+Conversely, **[digital forensics](/digital-forensics)** has emerged as a parallel field. Keystroke dynamics (how someone types — speed, pressure, timing between keystrokes), writing style analysis (word choice, sentence structure, punctuation habits), and metadata analysis can identify authors of digital text. These techniques are increasingly used alongside traditional handwriting analysis.
 
-**Automated handwriting analysis** using computer vision and machine learning assists human examiners by quantifying features that are difficult to measure by eye — precise stroke widths, curvature measurements, statistical distributions of letter spacing. These tools don't replace human examiners but augment their analysis with data that would be impractical to collect manually.
+**Automated handwriting analysis** using [computer vision](/computer-vision) and [machine learning](/machine-learning) assists human examiners by quantifying features that are difficult to measure by eye — precise stroke widths, curvature measurements, statistical distributions of letter spacing. These tools don't replace human examiners but augment their analysis with data that would be impractical to collect manually.
 
 The field continues to evolve, but the fundamental principle remains: people write in individually characteristic ways, and those characteristics can be measured and compared. Whether that comparison is done with a magnifying glass or a neural network, the question is the same — who put these marks on this page?

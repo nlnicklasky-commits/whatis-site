@@ -5,7 +5,7 @@ description: "Sponges are the simplest multicellular animals on Earth, with no o
 category: everyday-concepts
 tags: ["sponge biology", "marine biology", "Porifera", "invertebrates", "ocean ecology", "animals"]
 heroImage: "/images/articles/sponge-biology.webp"
-heroAlt: "Colorful marine sponges growing on a coral reef underwater in tropical waters"
+heroAlt: "Editorial photograph representing the concept of sponge biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Almost certainly not. Sponges have no nervous system whatsoever — no neurons, no brain, no nerve cells of any kind. They're the only animal group that completely lacks a nervous system. They can respond to their environment (contracting when touched, for example), but this happens through direct cell-to-cell chemical signaling, not through anything resembling pain perception or consciousness."
 ---
 
-# What Is Sponge Biology?
+# What Is Sponge [Biology](/biology)?
 
 Sponges — phylum Porifera, which literally means "pore-bearing" — are the simplest multicellular animals on Earth. They have no brain, no nervous system, no muscles, no organs, and no digestive system. They can't move. They don't even have true tissues in the way other animals do. And yet they've been extraordinarily successful for over 600 million years, they're found in virtually every aquatic habitat on the planet, and they produce chemical compounds that pharmaceutical companies spend billions trying to synthesize.
 
@@ -59,7 +59,7 @@ Sponges need structural support, and they achieve it in three different ways, wh
 
 **Glass sponges** (class Hexactinellida) build skeletons from silica — essentially glass. Their spicules (structural elements) are six-rayed and can be extraordinarily beautiful. The Venus' flower basket sponge creates a lattice of fused silica spicules that's so structurally elegant engineers have studied it for architectural inspiration. These sponges live mostly in deep water, 200 meters and below.
 
-**Demosponges** (class Demospongiae) make up about 83% of all sponge species. They use spongin — a flexible protein fiber — sometimes combined with silica spicules. Bath sponges are demosponges, and what you're squeezing is the spongin skeleton with the living cells removed. Your kitchen sponge is synthetic, but natural sponge harvesting was a major industry for centuries and still exists in places like Tarpon Springs, Florida and Greek islands.
+**Demosponges** (class Demospongiae) make up about 83% of all sponge species. They use spongin — a flexible protein fiber — sometimes combined with silica spicules. Bath sponges are demosponges, and what you're squeezing is the spongin skeleton with the living cells removed. Your kitchen sponge is synthetic, but natural sponge harvesting was a major industry for centuries and still exists in places like Tarpon [Springs](/springs), Florida and Greek islands.
 
 **Calcareous sponges** (class Calcarea) build skeletons from calcium carbonate. They're generally small and found in shallow waters.
 
@@ -69,7 +69,7 @@ Sponges are ecological powerhouses, especially on coral reefs.
 
 **Water filtration** is their most obvious contribution. Sponges on Caribbean reefs filter the entire overlying water column every day or two. They remove bacteria, organic particles, and dissolved organic matter — effectively cleaning the water. In some ecosystems, sponge filtration is the primary mechanism keeping water clear enough for corals and seagrasses to photosynthesize.
 
-**Nutrient cycling** makes sponges critical links in marine food webs. They convert dissolved organic matter (which most animals can't use) into particulate organic matter (which many animals can eat). This "sponge loop," discovered in 2013, explains how coral reefs sustain such high biodiversity in nutrient-poor tropical waters — sponges are recycling nutrients that would otherwise be lost.
+**Nutrient [cycling](/cycling)** makes sponges critical links in marine food webs. They convert dissolved organic matter (which most animals can't use) into particulate organic matter (which many animals can eat). This "sponge loop," discovered in 2013, explains how coral reefs sustain such high biodiversity in nutrient-poor tropical waters — sponges are [recycling](/recycling) nutrients that would otherwise be lost.
 
 **Habitat provision** matters too. Large sponges shelter hundreds of species — shrimp, worms, brittle stars, small fish — that live in the sponge's canal system. Some deep-sea glass sponge reefs off British Columbia are over 9,000 years old and support entire ecosystems.
 
@@ -79,7 +79,7 @@ Here's where sponges get genuinely exciting for human medicine. Because sponges 
 
 These compounds are pharmaceutical gold. Ara-C, a leukemia drug, was developed from compounds found in a Caribbean sponge. Eribulin, used to treat metastatic breast cancer, derives from a marine sponge compound called halichondrin B. The antiviral drug acyclovir (used against herpes) traces its chemical ancestry to sponge-derived nucleosides.
 
-Over 5,300 distinct bioactive compounds have been isolated from sponges. Marine pharmacology considers sponges one of the most promising sources of new drugs, and research programs worldwide are actively screening sponge compounds for anticancer, antimicrobial, and anti-inflammatory properties.
+Over 5,300 distinct bioactive compounds have been isolated from sponges. Marine [pharmacology](/pharmacology) considers sponges one of the most promising sources of new drugs, and research programs worldwide are actively screening sponge compounds for anticancer, antimicrobial, and anti-inflammatory properties.
 
 ## The Regeneration Trick
 

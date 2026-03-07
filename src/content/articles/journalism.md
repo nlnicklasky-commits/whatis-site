@@ -5,7 +5,7 @@ description: "Journalism is gathering, verifying, and reporting news and informa
 category: everyday-concepts
 tags: ["journalism", "media", "news", "press freedom", "reporting"]
 heroImage: "/images/articles/journalism.webp"
-heroAlt: "Reporter with notebook and press badge interviewing a source outdoors"
+heroAlt: "Editorial photograph representing the concept of journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,13 +39,13 @@ Journalism is the practice of gathering, verifying, and presenting information a
 
 **Verification** — confirming that information is accurate. Professional journalism requires multiple sources, document review, and fact-checking before publication. The standard is not "someone said it" but "we have confirmed it." This is the fundamental difference between journalism and rumor.
 
-**Storytelling** — presenting verified information in forms that audiences can understand and engage with. This means clear writing, logical structure, appropriate context, and — increasingly — multimedia presentation (video, audio, interactive graphics).
+**[Storytelling](/storytelling)** — presenting verified information in forms that audiences can understand and engage with. This means clear [writing](/writing), logical structure, appropriate context, and — increasingly — multimedia presentation (video, audio, interactive graphics).
 
-**Accountability** — holding powerful institutions and individuals responsible for their actions. Investigative journalism has exposed government corruption (Watergate), corporate fraud (Enron), sexual abuse (the Catholic Church, Harvey Weinstein), and countless other abuses that authorities preferred to keep hidden.
+**Accountability** — holding powerful institutions and individuals responsible for their actions. Investigative journalism has exposed [government](/government) corruption (Watergate), corporate fraud (Enron), sexual abuse (the Catholic Church, Harvey Weinstein), and countless other abuses that authorities preferred to keep hidden.
 
 ## Types of Journalism
 
-**Hard news** — coverage of breaking events: elections, natural disasters, legislation, crime, international conflicts. Emphasizes speed and accuracy.
+**Hard news** — coverage of breaking events: elections, [natural disasters](/natural-disasters), legislation, crime, international conflicts. Emphasizes speed and accuracy.
 
 **Investigative journalism** — deep, long-term reporting that uncovers wrongdoing or systemic problems. May take months or years to produce. The Panama Papers (2016), which exposed offshore tax havens used by world leaders, involved 400 journalists from 80 countries.
 
@@ -53,7 +53,7 @@ Journalism is the practice of gathering, verifying, and presenting information a
 
 **Opinion journalism** — editorials, columns, and commentary that interpret events and argue positions. Clearly labeled and separate from news reporting in ethical organizations.
 
-**Data journalism** — using statistical analysis and data visualization to tell stories. FiveThirtyEight, The Economist's data team, and ProPublica's databases exemplify this approach.
+**Data journalism** — using statistical analysis and [data visualization](/data-visualization) to tell stories. FiveThirtyEight, The Economist's data team, and ProPublica's databases exemplify this approach.
 
 ## The Economic Crisis
 
@@ -69,7 +69,7 @@ Public trust in journalism has declined sharply. Gallup reports that only about 
 
 **Partisan media** — cable news and online outlets that mix news with opinion and target specific political demographics. This blurs the line between journalism and advocacy.
 
-**Social media** — platforms where professional journalism competes with unverified claims, conspiracy theories, and deliberate disinformation. Algorithms often amplify sensational content regardless of accuracy.
+**Social media** — platforms where professional journalism competes with unverified claims, conspiracy theories, and deliberate disinformation. [Algorithms](/algorithms) often amplify sensational content regardless of accuracy.
 
 **Political attacks** — "fake news" accusations directed at legitimate reporting have undermined public confidence in professional journalism as an institution.
 

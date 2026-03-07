@@ -5,7 +5,7 @@ description: "Cheerleading is a physical activity combining dance, gymnastics, s
 category: sports
 tags: ["cheerleading", "sports", "gymnastics", "dance", "athletics", "competition"]
 heroImage: "/images/articles/cheerleading.webp"
-heroAlt: "Cheerleading squad performing a pyramid stunt formation at a competition"
+heroAlt: "Editorial photograph representing the concept of cheerleading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Cheerleading?
 
-Cheerleading is a physical activity that combines elements of dance, [gymnastics](/athletics), acrobatic stunts, tumbling, and chanting — performed either in support of sports teams (sideline cheerleading) or as a competitive sport in its own right (competitive/all-star cheerleading). Approximately 4.5 million people participate in cheerleading in the United States, making it one of the most popular athletic activities in the country.
+Cheerleading is a physical activity that combines elements of [dance](/dance), [gymnastics](/athletics), acrobatic stunts, tumbling, and chanting — performed either in support of sports teams (sideline cheerleading) or as a competitive sport in its own right (competitive/all-star cheerleading). Approximately 4.5 million people participate in cheerleading in the United States, making it one of the most popular athletic activities in the country.
 
 ## From Yell Leaders to Athletes
 
-The first organized cheerleading happened at the University of Minnesota in 1898. Johnny Campbell stood in front of the crowd at a football game and led them in coordinated cheering. For the next several decades, cheerleading was dominated by men — it was considered a leadership activity, and participants were called "yell leaders."
+The first organized cheerleading happened at the University of Minnesota in 1898. Johnny Campbell stood in front of the crowd at a football game and led them in coordinated cheering. For the next several decades, cheerleading was dominated by men — it was considered a [leadership](/leadership) activity, and participants were called "yell leaders."
 
-Women entered cheerleading during World War II, and by the 1960s, the activity had become predominantly female. This gender shift coincided with a change in perception — from leadership activity to support role. The ponytails-and-pom-poms stereotype solidified in American culture.
+Women entered cheerleading during [World War II](/world-war-ii), and by the 1960s, the activity had become predominantly female. This gender shift coincided with a change in perception — from leadership activity to support role. The ponytails-and-pom-poms stereotype solidified in American culture.
 
 Then, starting in the 1980s, cheerleading began transforming again. Competitive cheerleading emerged as squads started incorporating increasingly difficult gymnastics and stunting, performing 2.5-minute routines scored by judges. Today's competitive cheerleading routines include skills that would be recognizable to Olympic gymnasts: standing back tucks, full twisting layouts, and sequences that require elite athletic ability.
 
@@ -65,7 +65,7 @@ Toe touches, herkies, pikes, and other standardized jumps performed with maximum
 
 ### Cheering
 
-The original element — leading crowds in organized chanting, cheer sequences, and school spirit activities. Sideline cheerleaders coordinate crowd engagement during football and basketball games. This remains a significant part of high school cheerleading, even as the competitive side draws more attention.
+The original element — leading crowds in organized chanting, cheer sequences, and school spirit activities. Sideline cheerleaders coordinate crowd engagement during football and [basketball](/basketball) games. This remains a significant part of high school cheerleading, even as the competitive side draws more attention.
 
 ## The Competition Circuit
 
@@ -77,11 +77,11 @@ The all-star cheerleading world (gym-based teams unaffiliated with schools) has 
 
 ## The Injury Question
 
-Cheerleading's injury statistics demand acknowledgment. It accounts for roughly two-thirds of catastrophic injuries (those causing permanent disability) among female athletes in the U.S. The stunting element — throwing and catching human bodies — creates inherent risk that no amount of technique fully eliminates.
+Cheerleading's injury [statistics](/statistics) demand acknowledgment. It accounts for roughly two-thirds of catastrophic injuries (those causing permanent disability) among female athletes in the U.S. The stunting element — throwing and catching human bodies — creates inherent risk that no amount of technique fully eliminates.
 
 Context matters, though. Cheerleading has more participants than almost any other athletic activity, which inflates raw injury numbers. Per-participant injury rates are comparable to other contact sports. And most injuries occur in inadequately supervised settings — poorly trained coaches, inappropriate skill progression, and practicing without proper safety equipment.
 
-The American Academy of Pediatrics has recommended that cheerleading be designated a sport specifically so it would receive the same safety oversight, coaching requirements, and injury surveillance that other sports receive. Paradoxically, cheerleading's classification as an "activity" rather than a "sport" may make it less safe, not more.
+The American Academy of [Pediatrics](/pediatrics) has recommended that cheerleading be designated a sport specifically so it would receive the same safety oversight, [coaching](/coaching) requirements, and injury surveillance that other sports receive. Paradoxically, cheerleading's classification as an "activity" rather than a "sport" may make it less safe, not more.
 
 ## More Than Stereotypes
 

@@ -5,7 +5,7 @@ description: "Gardening is the practice of growing plants for food, beauty, or e
 category: everyday-concepts
 tags: ["gardening", "plants", "horticulture", "agriculture", "vegetables", "flowers"]
 heroImage: "/images/articles/gardening.webp"
-heroAlt: "Colorful flower garden with raised vegetable beds and garden tools"
+heroAlt: "Editorial photograph representing the concept of gardening"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ Gardening is the practice of growing and tending plants — flowers, vegetables,
 
 The motivations are varied, and most gardeners would check several boxes.
 
-**Food production** drives a significant portion of home gardening. A well-maintained vegetable garden can produce hundreds of dollars worth of produce per season. During the pandemic, seed companies reported 200-300% increases in sales as people discovered (or rediscovered) growing their own food.
+**Food production** drives a significant portion of home gardening. A well-maintained vegetable garden can produce hundreds of dollars worth of produce per season. During the pandemic, seed companies reported 200-300% increases in [sales](/sales) as people discovered (or rediscovered) growing their own food.
 
-**Mental health** benefits are well-documented. A 2022 study in *The Lancet Planetary Health* found that community gardening was associated with reduced stress, anxiety, and depression. The combination of physical activity, time outdoors, nurturing living things, and the tangible satisfaction of harvest creates measurable psychological benefits.
+**[Mental health](/mental-health)** benefits are well-documented. A 2022 study in *The Lancet Planetary Health* found that community gardening was associated with reduced stress, anxiety, and depression. The combination of physical activity, time outdoors, nurturing living things, and the tangible satisfaction of harvest creates measurable psychological benefits.
 
-**Physical exercise** is built into the activity. Digging, weeding, hauling soil, and bending to plant provide moderate exercise. The National Institutes of Health classifies gardening as moderate-intensity physical activity comparable to walking at 3.5 mph.
+**Physical exercise** is built into the activity. Digging, weeding, hauling soil, and bending to plant provide moderate exercise. The National Institutes of Health classifies gardening as moderate-intensity physical activity comparable to [walking](/walking) at 3.5 mph.
 
 **Beauty and creativity** motivate ornamental gardeners. Designing color combinations, creating seasonal displays, and shaping landscapes are artistic pursuits. A well-designed garden is a living artwork that changes through seasons and years.
 
@@ -71,24 +71,24 @@ Soil is the single most important factor in gardening success. Healthy soil is a
 
 Your gardening calendar depends on your location. The USDA Plant Hardiness Zone Map divides North America into zones based on average minimum winter temperatures. Knowing your zone tells you which perennials will survive your winters and when to plant warm-season crops.
 
-**Last frost date** is the critical spring milestone. Warm-season crops (tomatoes, peppers, squash) can't go outside until frost danger has passed. Cool-season crops (lettuce, peas, radishes) can be planted 4-6 weeks before the last frost. Starting seeds indoors extends the season by giving plants a head start.
+**Last frost date** is the critical spring milestone. Warm-season crops (tomatoes, peppers, [squash](/squash)) can't go outside until frost danger has passed. Cool-season crops (lettuce, peas, radishes) can be planted 4-6 weeks before the last frost. Starting seeds indoors extends the season by giving plants a head start.
 
 **Succession planting** — sowing the same crop every 2-3 weeks — extends the harvest. Instead of 50 radishes all at once, you get a steady supply for months.
 
 ## Common Challenges
 
-**Pests** are inevitable. Aphids, tomato hornworms, Japanese beetles, and slugs are common adversaries. Integrated pest management (IPM) addresses problems through a hierarchy: cultural controls first (healthy plants resist pests), biological controls (beneficial insects like ladybugs), physical controls (hand-picking, barriers), and chemical controls only as a last resort.
+**Pests** are inevitable. Aphids, tomato hornworms, Japanese beetles, and slugs are common adversaries. Integrated pest [management](/management) (IPM) addresses problems through a hierarchy: cultural controls first (healthy plants resist pests), biological controls (beneficial insects like ladybugs), physical controls (hand-picking, barriers), and chemical controls only as a last resort.
 
 **Diseases** — blight, powdery mildew, root rot — are usually fungal and often preventable through good air circulation, proper watering (at the base, not overhead), crop rotation, and disease-resistant varieties.
 
 **Weeds** compete with desired plants for water, nutrients, and light. Mulching (covering soil with organic material like wood chips, straw, or shredded leaves) suppresses weeds, retains moisture, and moderates soil temperature. It's the gardener's best friend.
 
-**Watering** challenges range from too little (wilting, poor production) to too much (root rot, fungal diseases). Most gardens need about 1 inch of water per week from rain or irrigation. Drip irrigation delivers water directly to plant roots with minimal waste.
+**Watering** challenges range from too little (wilting, poor production) to too much (root rot, fungal diseases). Most gardens need about 1 inch of water per week from rain or [irrigation](/irrigation). Drip irrigation delivers water directly to plant roots with minimal waste.
 
 ## Getting Started
 
 Start small. A 4x8-foot raised bed is manageable for a beginner vegetable garden. A few containers of herbs on a sunny patio is even simpler. Grow what you actually eat — there's no point in growing eggplant if nobody in your household likes eggplant.
 
-Expect failures. Every experienced gardener has killed plants, lost crops to pests, and planted things in the wrong spot. Failure is how you learn. The garden doesn't judge you. It just grows (or doesn't), teaching you something either way.
+Expect failures. Every experienced gardener has killed plants, lost crops to pests, and planted things in the wrong spot. Failure is how you learn. The garden doesn't judge you. It just grows (or doesn't), [teaching](/teaching) you something either way.
 
 The best thing about gardening is that the soil will still be there tomorrow. There's always next season. And the act of putting seeds in dirt and watching them become food — that ancient, simple miracle — never gets old.

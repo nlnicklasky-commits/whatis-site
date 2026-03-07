@@ -5,7 +5,7 @@ description: "Impressionism is an art movement from 1860s France that captured l
 category: everyday-concepts
 tags: ["impressionism", "art history", "painting", "French art", "Monet", "modern art"]
 heroImage: "/images/articles/impressionism.webp"
-heroAlt: "Impressionist painting of a sunlit garden with loose brushstrokes and vivid colors"
+heroAlt: "Editorial photograph representing the concept of impressionism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Impressionism is an art movement that originated in Paris in the 1860s and 1870s
 
 To understand why Impressionism was revolutionary, you need to understand what it replaced. The French academic tradition — enforced by the Salon, the official state art exhibition — demanded specific things: smooth, invisible brushwork; dark, carefully blended colors; historical, mythological, or religious subjects; and studio-finished compositions.
 
-The Impressionists violated every one of these rules. They used visible, broken brushstrokes. They painted with bright, unmixed colors straight from the tube. They chose everyday subjects — picnics, train stations, ballet rehearsals, people having drinks. And they often painted outdoors (*en plein air*), capturing scenes in natural light rather than under controlled studio conditions.
+The Impressionists violated every one of these rules. They used visible, broken brushstrokes. They painted with bright, unmixed colors straight from the tube. They chose everyday subjects — picnics, train stations, [ballet](/ballet) rehearsals, people having drinks. And they often painted outdoors (*en plein air*), capturing scenes in natural light rather than under controlled studio conditions.
 
 The Salon rejected them. Critics mocked them. One reviewer, after seeing Monet's *Impression, Sunrise* at an 1874 independent exhibition, wrote dismissively about "Impressionists" — and the name stuck.
 
@@ -45,9 +45,9 @@ The Salon rejected them. Critics mocked them. One reviewer, after seeing Monet's
 
 Impressionism was not just an aesthetic preference. It was informed by emerging science about color and perception.
 
-**Color theory** was advancing rapidly. Michel Eugene Chevreul's research on simultaneous contrast — how adjacent colors influence each other's appearance — directly influenced Impressionist palette choices. Instead of mixing green on a palette, an Impressionist might place dabs of blue and yellow side by side on the canvas, letting the viewer's eye blend them optically. The result is more vibrant than pre-mixed paint.
+**[Color theory](/color-theory)** was advancing rapidly. Michel Eugene Chevreul's research on simultaneous contrast — how adjacent colors influence each other's appearance — directly influenced Impressionist palette choices. Instead of mixing green on a palette, an Impressionist might place dabs of blue and yellow side by side on the canvas, letting the viewer's eye blend them optically. The result is more vibrant than pre-mixed paint.
 
-**Photography**, invented in the 1840s, changed what painting needed to do. If a camera could capture reality with perfect accuracy, what was the point of realistic painting? Impressionists answered by painting what cameras could not: color, light, atmosphere, and the subjective experience of a moment.
+**Photography**, invented in the 1840s, changed what [painting](/painting) needed to do. If a camera could capture reality with perfect accuracy, what was the point of realistic painting? Impressionists answered by painting what cameras could not: color, light, atmosphere, and the subjective experience of a moment.
 
 **Portable paint tubes**, introduced in the 1840s, made outdoor painting practical. Previously, painters mixed pigments from raw materials — a messy, studio-bound process. Squeezable metal tubes let artists pack colors and work anywhere. Renoir reportedly said, "Without tubes of paint, there would have been no Impressionism."
 
@@ -55,9 +55,9 @@ Impressionism was not just an aesthetic preference. It was informed by emerging 
 
 **Claude Monet** (1840-1926) — the purest Impressionist. His series paintings — haystacks, Rouen Cathedral, water lilies — capture the same subject under different light conditions, demonstrating that "the subject" is really the light itself. His water lily paintings at the Orangerie in Paris are among the most visited artworks in the world.
 
-**Pierre-Auguste Renoir** (1841-1919) — the warmth of Impressionism. Renoir painted people — dancing, dining, bathing, enjoying life. *Le Moulin de la Galette* (1876) captures a Parisian dance hall with dappled sunlight, movement, and genuine joy.
+**Pierre-Auguste Renoir** (1841-1919) — the warmth of Impressionism. Renoir painted people — dancing, dining, bathing, enjoying life. *Le Moulin de la Galette* (1876) captures a Parisian [dance](/dance) hall with dappled sunlight, movement, and genuine joy.
 
-**Edgar Degas** (1834-1917) — technically an Impressionist, though he preferred "Realist." His ballet dancers, laundresses, and horse racing scenes use unusual angles and cropped compositions influenced by Japanese prints and photography. Degas was also a brilliant sculptor and printmaker.
+**Edgar Degas** (1834-1917) — technically an Impressionist, though he preferred "Realist." His ballet dancers, laundresses, and [horse racing](/horse-racing) scenes use unusual angles and cropped compositions influenced by Japanese prints and photography. Degas was also a brilliant sculptor and printmaker.
 
 **Berthe Morisot** (1841-1895) — one of the founding Impressionists and one of its most consistently excellent painters. Her domestic scenes — women reading, children playing, gardens — have a delicacy and psychological depth that was undervalued for decades due to gender bias.
 

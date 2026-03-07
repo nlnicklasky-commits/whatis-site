@@ -5,7 +5,7 @@ description: "Backgammon is a two-player board game combining strategy and luck,
 category: everyday-concepts
 tags: ["backgammon", "board games", "strategy games", "dice games", "classic games", "tabletop"]
 heroImage: "/images/articles/backgammon.webp"
-heroAlt: "Wooden backgammon board with black and white checkers arranged for play with dice nearby"
+heroAlt: "Editorial photograph representing the concept of backgammon"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Backgammon?
 
-Backgammon is a two-player board game in which each player moves 15 checkers across 24 triangular points according to dice rolls, racing to be the first to remove all their checkers from the board. It blends strategic positioning with the randomness of dice, making it one of the few classic games where both calculation and luck determine the outcome.
+Backgammon is a two-player board game in which each player moves 15 [checkers](/checkers) across 24 triangular points according to dice rolls, racing to be the first to remove all their checkers from the board. It blends strategic positioning with the randomness of dice, making it one of the few classic games where both calculation and luck determine the outcome.
 
 ## The World's Oldest Board Game (Probably)
 
@@ -55,11 +55,11 @@ Strategic decisions happen every turn. Should you spread your checkers to cover 
 
 The doubling cube, introduced in 1920s New York gambling clubs, transformed backgammon from a pleasant pastime into a serious strategic game. Either player can offer to double the stakes before rolling. The opponent can accept (and play for double the value) or decline (and forfeit the game at the current value).
 
-The cube adds a dimension of game theory that doesn't exist in most board games. Knowing when to double, when to accept, and when to drop requires evaluating winning [probability](/probability-theory) — something that experienced players can estimate remarkably well through pattern recognition. As a rough guide, you should accept a double if you estimate you'll win at least 25% of the time from the current position.
+The cube adds a dimension of [game theory](/game-theory) that doesn't exist in most [board games](/board-games). Knowing when to double, when to accept, and when to drop requires evaluating winning [probability](/probability-theory) — something that experienced players can estimate remarkably well through [pattern recognition](/pattern-recognition). As a rough guide, you should accept a double if you estimate you'll win at least 25% of the time from the current position.
 
 ## Backgammon and Computers
 
-Backgammon has a long history with artificial intelligence. In 1992, Gerald Tesauro at IBM created TD-Gammon, a neural network that learned to play backgammon by playing millions of games against itself. It reached world-class level and actually changed how human experts play — the computer discovered strategies that contradicted decades of conventional wisdom.
+Backgammon has a long history with [artificial intelligence](/artificial-intelligence). In 1992, Gerald Tesauro at IBM created TD-Gammon, a neural network that learned to play backgammon by playing millions of games against itself. It reached world-class level and actually changed how human experts play — the computer discovered strategies that contradicted decades of conventional wisdom.
 
 Today, programs like GNU Backgammon and eXtreme Gammon play at superhuman levels and serve as training tools. Players can analyze their games move by move, with the computer rating each decision and showing the optimal play. This has raised the overall level of competitive play significantly.
 
@@ -67,14 +67,14 @@ The game is also mathematically interesting. With approximately 10^20 possible p
 
 ## Competitive Play
 
-Tournament backgammon is organized through national and international federations. Major events include the Monte Carlo Backgammon Championships (running since 1976), the U.S. Open, and various online tournaments. Prize pools can reach six figures.
+Tournament backgammon is organized through national and international federations. Major events include the Monte Carlo Backgammon Championships ([running](/running) since 1976), the U.S. Open, and various online tournaments. Prize pools can reach six figures.
 
 Matches are played to a set number of points. You earn 1 point for a regular win, 2 for a "gammon" (winning before your opponent bears off any checkers), and 3 for a "backgammon" (winning when your opponent still has checkers on the bar or in your home board). The doubling cube multiplies these values, so a doubled backgammon is worth 6 points. Stakes escalate quickly.
 
 ## Why People Get Hooked
 
-Backgammon occupies a sweet spot between [pure strategy games](/strategy-games) (like chess, where skill determines everything) and pure luck games (like slot machines, where nothing you do matters). The dice keep things uncertain — any player can win any single game — but over time, better decisions win more often. This combination keeps both beginners and experts engaged, because every game feels winnable and every loss feels like it could have gone differently.
+Backgammon occupies a sweet spot between [pure strategy games](/strategy-games) (like [chess](/chess), where skill determines everything) and pure luck games (like slot machines, where nothing you do matters). The dice keep things uncertain — any player can win any single game — but over time, better decisions win more often. This combination keeps both beginners and experts engaged, because every game feels winnable and every loss feels like it could have gone differently.
 
-The game is also social in a way that many board games aren't. Backgammon is typically played one-on-one, face-to-face, with physical pieces. The doubling cube adds a negotiation element. Banter is traditional. The physical act of rolling dice and moving checkers has a tactile satisfaction that screens can't replicate.
+The game is also social in a way that many board games aren't. Backgammon is typically played one-on-one, face-to-face, with physical pieces. The doubling cube adds a [negotiation](/negotiation) element. Banter is traditional. The physical act of rolling dice and moving checkers has a tactile satisfaction that screens can't replicate.
 
 You can learn the rules in 15 minutes. You can spend a lifetime mastering the strategy. That ratio — easy to start, impossible to exhaust — is the signature of a truly great game, and it explains why people have been playing some version of backgammon for 50 centuries.

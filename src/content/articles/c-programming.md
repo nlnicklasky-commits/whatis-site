@@ -5,7 +5,7 @@ description: "C++ is a general-purpose programming language combining low-level 
 category: technology
 tags: ["c++", "programming", "software development", "object-oriented", "compiler", "system programming"]
 heroImage: "/images/articles/c-programming-hero.webp"
-heroAlt: "C++ source code displayed on a dark code editor with syntax highlighting"
+heroAlt: "Editorial photograph representing the concept of c++ programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ That backward compatibility is both a blessing and a curse. It means billions of
 
 ## The Core Ideas Behind C++
 
-### Object-Oriented Programming
+### [Object-Oriented Programming](/object-oriented-programming)
 
 The biggest thing C++ added to C was object-oriented programming (OOP). Instead of writing disconnected functions that operate on data, you bundle data and the functions that manipulate it into objects.
 
@@ -101,7 +101,7 @@ The downside? Compilation takes time. Large C++ projects can take minutes or eve
 
 ## What People Actually Build With C++
 
-### Game Development
+### [Game Development](/game-development)
 
 If you've played a major video game in the last 20 years, C++ was almost certainly involved. Unreal Engine, one of the two dominant game engines, is written in C++. Unity's core runtime is C++. Even engines written in other languages typically call C++ for performance-critical subsystems.
 
@@ -131,7 +131,7 @@ Banks, exchanges, and fintech companies use C++ for their core transaction proce
 
 While Python is the popular front end for [machine learning](/machine-learning), the heavy lifting happens in C++. TensorFlow's core, PyTorch's backend, and CUDA (NVIDIA's GPU programming framework) are all C++. When you train a neural network, Python orchestrates the process, but C++ does the actual matrix multiplication.
 
-Scientific simulations — climate modeling, molecular dynamics, computational fluid dynamics for [aerodynamics](/aerodynamics) — run on C++ because they need every ounce of performance from supercomputers. A 10% speed improvement can save weeks of computation time on large simulations.
+Scientific simulations — climate modeling, molecular dynamics, computational [fluid dynamics](/fluid-dynamics) for [aerodynamics](/aerodynamics) — run on C++ because they need every ounce of performance from supercomputers. A 10% speed improvement can save weeks of computation time on large simulations.
 
 ## Modern C++ — It's Not Your Father's Language
 
@@ -147,7 +147,7 @@ Iterating through a collection went from a verbose three-part `for` loop to simp
 
 ### Lambda Expressions
 
-C++11 added anonymous functions (lambdas) that can capture variables from their surrounding scope. This brought functional programming patterns to C++ and made the standard [algorithms](/algorithms) far more usable. Sorting a vector of objects by a specific field became a one-liner instead of requiring a separate comparison class.
+C++11 added anonymous functions (lambdas) that can capture variables from their surrounding scope. This brought [functional programming](/functional-programming) patterns to C++ and made the standard [algorithms](/algorithms) far more usable. Sorting a vector of objects by a specific field became a one-liner instead of requiring a separate comparison class.
 
 ### Move Semantics
 
@@ -209,7 +209,7 @@ Java and C# run on virtual machines with garbage collection. They're easier to w
 
 ### C++ vs. Python
 
-These serve different purposes. Python is excellent for scripting, data analysis, [machine learning](/machine-learning) workflows, and rapid prototyping. C++ is for when you need raw speed. Many projects use both — Python for the user-facing interface, C++ for the performance-critical engine underneath. [App development](/app-development) in many domains follows exactly this hybrid approach.
+These serve different purposes. Python is excellent for scripting, [data analysis](/data-analysis), [machine learning](/machine-learning) workflows, and rapid prototyping. C++ is for when you need raw speed. Many projects use both — Python for the user-facing interface, C++ for the performance-critical engine underneath. [App development](/app-development) in many domains follows exactly this hybrid approach.
 
 ## The Future of C++
 

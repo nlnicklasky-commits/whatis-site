@@ -5,7 +5,7 @@ description: "Stand-up comedy is a performance art where a comedian speaks direc
 category: everyday-concepts
 tags: ["stand-up comedy", "comedy", "performing arts", "humor", "entertainment", "live performance"]
 heroImage: "/images/articles/stand-up-comedy.webp"
-heroAlt: "A comedian performing on stage under a spotlight with a microphone in a comedy club"
+heroAlt: "Editorial photograph representing the concept of stand-up comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Stand-up Comedy?
 
-Stand-up comedy is a performance art form in which a comedian stands on a stage — usually alone, with a microphone — and speaks directly to a live audience with the goal of making them laugh. No costumes, no props (usually), no scene partners, no safety net. Just one person, their words, and a room full of people who will let them know immediately and honestly whether the material works.
+Stand-up comedy is a [performance art](/performance-art) form in which a comedian stands on a stage — usually alone, with a microphone — and speaks directly to a live audience with the goal of making them laugh. No costumes, no props (usually), no scene partners, no safety net. Just one person, their words, and a room full of people who will let them know immediately and honestly whether the material works.
 
 It's the most direct form of comedy and one of the most exposed forms of performance in any art. A musician can hide behind their instrument. An actor has a character. A stand-up has only themselves and their ideas, presented to strangers who paid money to laugh. When it works, it's electric. When it doesn't, the silence is devastating.
 
@@ -39,7 +39,7 @@ It's the most direct form of comedy and one of the most exposed forms of perform
 
 At its most basic level, a joke has two parts: a setup and a punchline. The setup creates an expectation — it leads the audience's mind in one direction. The punchline subverts that expectation, and the surprise produces laughter. This pattern — expectation, then violation — is the engine of almost all comedy.
 
-Here's the mechanical version: "I told my wife she was drawing her eyebrows too high. She looked surprised." The setup creates a mental image of a conversation. The punchline reframes "surprised" from an emotion to a physical description of badly-drawn eyebrows. Two meanings colliding in a single word — that's joke construction.
+Here's the mechanical version: "I told my wife she was [drawing](/drawing) her eyebrows too high. She looked surprised." The setup creates a mental image of a conversation. The punchline reframes "surprised" from an emotion to a physical description of badly-drawn eyebrows. Two meanings colliding in a single word — that's joke [construction](/construction).
 
 Professional comedians layer additional techniques on this basic structure. **Tags** are additional punchlines that extend a laugh without a new setup. **Callbacks** reference earlier jokes, creating a cumulative effect. **Act-outs** physically perform part of the joke rather than just describing it. **Misdirection** deliberately leads the audience's expectations in the wrong direction before the punchline hits.
 
@@ -51,7 +51,7 @@ Stand-up isn't one thing — it's many approaches to the same goal.
 
 **Observational comedy** mines everyday life for humor. Jerry Seinfeld is the master: what's the deal with airline peanuts, why are dry cleaners so confusing, who decided on the layout of the medicine cabinet? The skill is noticing what everyone experiences but nobody thinks about, then articulating it in a way that makes people laugh in recognition.
 
-**Storytelling** builds longer narratives — sometimes five or ten minutes for a single bit — that build to a payoff. Mike Birbiglia, John Mulaney, and Nate Bargatze are exceptional storytellers who construct jokes with the pacing and structure of short fiction.
+**[Storytelling](/storytelling)** builds longer narratives — sometimes five or ten minutes for a single bit — that build to a payoff. Mike Birbiglia, John Mulaney, and Nate Bargatze are exceptional storytellers who construct jokes with the pacing and structure of short fiction.
 
 **Political and social comedy** addresses current events, power structures, and social issues. George Carlin, Richard Pryor, and Hannah Gadsby use the comedy stage as a platform for commentary that's simultaneously funny and provocative. This style risks alienating audience members who disagree, which some comedians see as a feature, not a bug.
 
@@ -79,14 +79,14 @@ Here's something audiences don't realize: the polished special you watch on Netf
 
 Chris Rock was famous for showing up at small New York clubs with a legal pad, reading new material almost verbatim, and gauging audience response. A joke that kills at a Tuesday open mic might die at a Saturday headlining show, and vice versa. The only way to know is to test it — repeatedly, in different rooms, with different crowds.
 
-Most comedians estimate that developing a tight one-hour special takes 18-24 months of constant touring and testing. Jerry Seinfeld has described spending two years writing, testing, and refining an hour of material, then performing it as a special, then starting completely over with blank pages.
+Most comedians estimate that developing a tight one-hour special takes 18-24 months of constant touring and testing. Jerry Seinfeld has described spending two years [writing](/writing), testing, and refining an hour of material, then performing it as a special, then starting completely over with blank pages.
 
 ## The Business Today
 
 The comedy business has changed dramatically in the last decade. Netflix and other streaming platforms turned comedy specials into global events, making comedians more famous (and wealthy) than ever. But the streaming gold rush has cooled — fewer specials are being bought, and the deals are smaller.
 
-Podcasting created an alternative revenue stream and audience-building tool. Many comedians now make more from their podcasts than from live performance. Social media — particularly TikTok, Instagram Reels, and YouTube Shorts — has created new paths to visibility, with some comedians building massive followings through short-form clips rather than traditional club development.
+[Podcasting](/podcasting) created an alternative revenue stream and audience-building tool. Many comedians now make more from their podcasts than from live performance. Social media — particularly TikTok, Instagram Reels, and YouTube Shorts — has created new paths to visibility, with some comedians building massive followings through short-form clips rather than traditional club development.
 
-Live comedy, though, remains the core. Ticket sales for stand-up tours reached record levels in recent years, with top comedians selling out arena tours. The demand for live, in-person comedy — unrepeatable, unedited, and immediate — turns out to be remarkably resilient, even in a world saturated with on-demand entertainment.
+Live comedy, though, remains the core. Ticket [sales](/sales) for stand-up tours reached record levels in recent years, with top comedians selling out arena tours. The demand for live, in-person comedy — unrepeatable, unedited, and immediate — turns out to be remarkably resilient, even in a world saturated with on-demand entertainment.
 
 The art form is simple enough that a caveman could have done it — just one person, standing up, trying to make other people laugh. That simplicity is its strength. Everything else — the business, the specials, the podcasts — is built on the foundation of a single person alone on stage, hoping the next line lands.

@@ -5,7 +5,7 @@ description: "Synthetic biology is the engineering of biological systems by desi
 category: science
 tags: ["biology", "synthetic biology", "genetic engineering", "biotechnology", "bioengineering", "DNA"]
 heroImage: "/images/articles/synthetic-biology.webp"
-heroAlt: "A scientist in a lab examining a glowing petri dish containing engineered bacteria under blue laboratory lighting"
+heroAlt: "Editorial photograph representing the concept of synthetic biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 Synthetic biology is the application of engineering principles to biology — designing, constructing, and testing biological systems and organisms that perform new functions not found in nature, or redesigning existing biological systems to work more efficiently.
 
-Think of it this way: traditional [biology](/biology) studies life as it exists. [Genetic engineering](/biotechnology) modifies life by moving genes around. Synthetic biology goes a step further — it treats biological components like Lego bricks that can be designed, standardized, and assembled into systems that do whatever you want. Read DNA. Write DNA. Debug DNA. It's biology meets software engineering, and it's changing what's possible.
+Think of it this way: traditional [biology](/biology) studies life as it exists. [Genetic engineering](/biotechnology) modifies life by moving genes around. Synthetic biology goes a step further — it treats biological components like Lego bricks that can be designed, standardized, and assembled into systems that do whatever you want. Read DNA. Write DNA. Debug DNA. It's biology meets [software engineering](/software-engineering), and it's changing what's possible.
 
 ## Where This Came From
 
@@ -123,7 +123,7 @@ Living organisms can produce materials with properties that synthetic chemistry 
 
 **Bioremediation** — using engineered organisms to clean up pollution — is an active research area. Bacteria have been engineered to break down plastics, neutralize heavy metals, and degrade toxic chemicals in contaminated soil and water.
 
-**Carbon capture** using engineered organisms could supplement mechanical carbon capture. Some researchers are engineering plants and algae to fix more CO2 than their natural counterparts, while others are creating synthetic metabolic pathways more efficient than natural photosynthesis.
+**Carbon capture** using engineered organisms could supplement mechanical carbon capture. Some researchers are engineering plants and algae to fix more CO2 than their natural counterparts, while others are creating synthetic [metabolic pathways](/metabolic-pathways) more efficient than natural photosynthesis.
 
 ### Biosensors
 

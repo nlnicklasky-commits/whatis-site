@@ -5,7 +5,7 @@ description: "Strategy games are games where the player's decisions and planning
 category: technology
 tags: ["gaming", "strategy games", "game design", "real-time strategy", "turn-based", "artificial intelligence"]
 heroImage: "/images/articles/strategy-games.webp"
-heroAlt: "A top-down view of a strategy game map showing armies, cities, and terrain features"
+heroAlt: "Editorial photograph representing the concept of strategy games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,13 +37,13 @@ faq:
 
 # What Is Strategy Games?
 
-A strategy game is any game where the player's decisions, planning, and resource management are the primary determinants of success, rather than reflexes, physical skill, or luck. Strategy games put you in the role of a commander, ruler, general, or manager — someone who sees the big picture and makes choices that ripple forward in time.
+A strategy game is any game where the player's decisions, planning, and [resource management](/resource-management) are the primary determinants of success, rather than reflexes, physical skill, or luck. Strategy games put you in the role of a commander, ruler, general, or manager — someone who sees the big picture and makes choices that ripple forward in time.
 
 ## What Makes a Game "Strategic"
 
 Not every game with choices is a strategy game. The distinction lies in *what kind* of choices matter most.
 
-In an action game, success depends primarily on timing, reflexes, and hand-eye coordination. In a puzzle game, it depends on pattern recognition and logical deduction. In a strategy game, it depends on planning — specifically, on making decisions now that will pay off (or backfire) later, often many moves or minutes down the line.
+In an action game, success depends primarily on timing, reflexes, and hand-eye coordination. In a puzzle game, it depends on [pattern recognition](/pattern-recognition) and logical deduction. In a strategy game, it depends on planning — specifically, on making decisions now that will pay off (or backfire) later, often many moves or minutes down the line.
 
 The core loop of a strategy game typically involves three things:
 
@@ -61,7 +61,7 @@ Strategy games have branched into several distinct subgenres, each emphasizing d
 
 ### Turn-Based Strategy (TBS)
 
-The oldest form. Players take alternating turns, each having unlimited time (usually) to think, plan, and execute actions. Chess is the prototypical turn-based strategy game — no luck, no hidden information, pure strategic planning.
+The oldest form. Players take alternating turns, each having unlimited time (usually) to think, plan, and execute actions. Chess is the prototypical turn-based strategy game — no luck, no hidden information, pure [strategic planning](/strategic-planning).
 
 Modern turn-based strategy games include:
 
@@ -144,7 +144,7 @@ Strategy games have become one of the most important testing grounds for [artifi
 
 IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997, marking one of AI's most famous milestones. Deep Blue used brute-force search — evaluating 200 million positions per second — combined with handcrafted evaluation functions. It was impressive engineering but not "intelligence" in any meaningful sense.
 
-Google DeepMind's AlphaZero (2017) changed the game. Starting with nothing but the rules of chess, AlphaZero taught itself to play at superhuman level in just four hours through self-play and reinforcement learning. It developed unconventional strategies that surprised human grandmasters, including a preference for active piece activity over material advantage.
+Google DeepMind's AlphaZero (2017) changed the game. Starting with nothing but the rules of chess, AlphaZero taught itself to play at superhuman level in just four hours through self-play and [reinforcement learning](/reinforcement-learning). It developed unconventional strategies that surprised human grandmasters, including a preference for active piece activity over material advantage.
 
 ### StarCraft II: The RTS Challenge
 

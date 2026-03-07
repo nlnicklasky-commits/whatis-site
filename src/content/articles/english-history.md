@@ -5,7 +5,7 @@ description: "English history covers over 2,000 years of events that shaped Engl
 category: history
 tags: ["english history", "england", "british history", "monarchy", "parliament"]
 heroImage: "/images/articles/english-history.webp"
-heroAlt: "The Tower of London with the Thames River in the foreground under dramatic skies"
+heroAlt: "Editorial photograph representing the concept of english history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ By the 7th century, England was divided into several competing kingdoms — Nort
 
 In 865, the Great Heathen Army — a massive Viking force from Denmark — invaded and conquered most of eastern England. Only Wessex, under King Alfred (reigned 871-899), held out. Alfred didn't just survive; he counterattacked, established a network of fortified towns (burhs), created a naval fleet, and promoted literacy and learning.
 
-His grandson Athelstan completed the job in 927, conquering the last Viking-held territories and becoming the first ruler who could credibly call himself King of England. The Anglo-Saxon period produced something else that lasted: the English language itself, though Old English would be nearly unrecognizable to modern speakers.
+His grandson Athelstan completed the job in 927, conquering the last Viking-held territories and becoming the first ruler who could credibly call himself King of England. The Anglo-Saxon period produced something else that lasted: the [English language](/english-language) itself, though Old English would be nearly unrecognizable to modern speakers.
 
 ## 1066 — The Conquest That Changed Everything
 
@@ -93,15 +93,15 @@ The real constitutional settlement came with the Glorious Revolution of 1688. Wh
 
 The 18th and 19th centuries saw England — now part of Great Britain after the 1707 Acts of Union with Scotland — become the most powerful nation on Earth.
 
-The British Empire expanded relentlessly. By 1920, it covered roughly a quarter of the world's land surface and governed about 458 million people. India, vast stretches of Africa, Canada, Australia, the Caribbean — all under the British flag. The moral accounting of this empire is complicated: it brought railways, legal systems, and educational institutions to colonized lands, but it also brought exploitation, cultural destruction, and horrific episodes like the Bengal Famine of 1943.
+The British Empire expanded relentlessly. By 1920, it covered roughly a quarter of the world's land surface and governed about 458 million people. India, vast stretches of Africa, Canada, Australia, the Caribbean — all under the British flag. The moral [accounting](/accounting) of this empire is complicated: it brought railways, legal systems, and educational institutions to colonized lands, but it also brought exploitation, cultural destruction, and horrific episodes like the Bengal Famine of 1943.
 
-The [Industrial Revolution](/engineering-history) started in England in the 1760s. Textile mills, steam engines, iron foundries, and railways transformed the country from a largely agricultural society into the world's first industrial power. Manchester, Birmingham, and Leeds exploded in population. The social costs were staggering — child labor, urban squalor, life-threatening working conditions — and eventually produced the labor movement and modern social welfare.
+The [Industrial Revolution](/[engineering](/engineering)-history) started in England in the 1760s. Textile mills, [steam engines](/steam-engines), iron foundries, and railways transformed the country from a largely agricultural society into the world's first industrial power. Manchester, Birmingham, and Leeds exploded in population. The social costs were staggering — child labor, urban squalor, life-threatening working conditions — and eventually produced the labor movement and modern social welfare.
 
 ## The World Wars and After
 
-Britain entered World War I in 1914 and emerged victorious but devastated. Nearly 900,000 British soldiers died. The social order that had defined Victorian and Edwardian England — class deference, aristocratic privilege, imperial confidence — never fully recovered.
+Britain entered [World War I](/world-war-i) in 1914 and emerged victorious but devastated. Nearly 900,000 British soldiers died. The social order that had defined Victorian and Edwardian England — class deference, aristocratic privilege, imperial confidence — never fully recovered.
 
-World War II was England's finest hour, in Churchill's phrase, and its most desperate. The Blitz killed over 43,000 civilians. Britain stood alone against Nazi Germany for over a year before the Soviet Union and United States entered the war. Victory came in 1945, but Britain was financially exhausted.
+[World War II](/world-war-ii) was England's finest hour, in Churchill's phrase, and its most desperate. The Blitz killed over 43,000 civilians. Britain stood alone against Nazi Germany for over a year before the Soviet Union and United States entered the war. Victory came in 1945, but Britain was financially exhausted.
 
 The postwar period brought the welfare state — the National Health Service (1948), free secondary education, council housing. It also brought the end of empire. India gained independence in 1947, and most of Africa followed in the 1950s and 1960s. By the 1970s, Britain was a medium-sized European power adjusting to its reduced global role.
 

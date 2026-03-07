@@ -5,7 +5,7 @@ description: "Video game history traces gaming from 1950s experiments to a $180 
 category: everyday-concepts
 tags: ["video game history", "gaming", "consoles", "arcade games", "game industry", "technology"]
 heroImage: "/images/articles/video-game-history.webp"
-heroAlt: "Collection of vintage gaming consoles and controllers spanning multiple decades of gaming"
+heroAlt: "Editorial photograph representing the concept of video game history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ Video game history is the story of how a niche academic experiment in the 1950s 
 
 ## The Experiments (1950s-1970)
 
-Video games didn't emerge from the entertainment industry. They came from physics labs, university computer science departments, and military research facilities where programmers with access to expensive mainframe computers created games during downtime.
+Video games didn't emerge from the entertainment industry. They came from [physics](/physics) labs, university [computer science](/computer-science) departments, and military research facilities where programmers with access to expensive mainframe computers created games during downtime.
 
 **1952** — Alexander Douglas created OXO, a tic-tac-toe game on the EDSAC computer at Cambridge, as part of his doctoral thesis on human-computer interaction.
 
-**1958** — William Higinbotham, a physicist at Brookhaven National Laboratory, built Tennis for Two on an oscilloscope to entertain visitors during an open house. He never patented it, which he later called one of his biggest regrets.
+**1958** — William Higinbotham, a physicist at Brookhaven National Laboratory, built [Tennis](/tennis) for Two on an oscilloscope to entertain visitors during an open house. He never patented it, which he later called one of his biggest regrets.
 
 **1962** — MIT students Steve Russell, Martin Graetz, and Wayne Wiitanen created Spacewar! on a PDP-1 minicomputer. It spread to other universities and became the first game with a real audience beyond its creators.
 
@@ -49,7 +49,7 @@ These early games proved something fundamental: people will play with computers 
 
 **1971** — Nolan Bushnell and Ted Dabney created Computer Space, the first coin-operated arcade game. It flopped commercially — too complicated for bar patrons.
 
-**1972** — Bushnell founded Atari and released Pong, a simplified table tennis game. Pong was so popular that the first prototype, installed in a bar in Sunnyvale, California, broke down within days because the coin mechanism overflowed.
+**1972** — Bushnell founded Atari and released Pong, a simplified [table tennis](/table-tennis) game. Pong was so popular that the first prototype, installed in a bar in Sunnyvale, California, broke down within days because the coin mechanism overflowed.
 
 The arcade boom followed. Space Invaders (1978) was so successful in Japan that it caused a national coin shortage. Pac-Man (1980) became the first game to generate merchandise, an animated TV show, and a hit pop song ("Pac-Man Fever"). Donkey Kong (1981) introduced a character named Jumpman — later renamed Mario — and his creator, Shigeru Miyamoto, who would become the most influential game designer in history.
 
@@ -65,11 +65,11 @@ Super Mario Bros. (1985) shipped with the NES and became the defining game of it
 
 ## The Console Wars (1990s)
 
-The 1990s were defined by competition between hardware platforms, each pushing technology and game design forward.
+The 1990s were defined by competition between hardware platforms, each pushing technology and [game design](/game-design) forward.
 
 **Sega Genesis vs. Super Nintendo** — Sega marketed aggressively ("Genesis does what Nintendon't") and courted an older demographic with Sonic the Hedgehog. Nintendo countered with superior game quality. This rivalry produced some of the greatest games ever made on both platforms.
 
-**Sony enters the game** — The PlayStation (1995) bet on CD-ROMs over cartridges, offering cheaper production costs and dramatically more storage. Final Fantasy VII (1997) demonstrated that games could deliver cinematic storytelling. The PlayStation sold over 100 million units and shifted gaming's center of gravity from Nintendo to Sony.
+**Sony enters the game** — The PlayStation (1995) bet on CD-ROMs over cartridges, offering cheaper production costs and dramatically more storage. Final Fantasy VII (1997) demonstrated that games could deliver cinematic [storytelling](/storytelling). The PlayStation sold over 100 million units and shifted [gaming](/gaming)'s center of gravity from Nintendo to Sony.
 
 **3D gaming arrives** — The transition from 2D sprites to 3D polygons was gaming's equivalent of cinema's shift from silent films to talkies. Super Mario 64 (1996) essentially invented how 3D games control and feel. Its influence is still visible in virtually every 3D game made today.
 
@@ -91,9 +91,9 @@ The current era is defined by scale, accessibility, and business model evolution
 
 **Indie renaissance** — Small teams producing remarkable games. Minecraft (originally solo-developed) became the best-selling game in history with over 300 million copies. Hollow Knight, Celeste, Hades, and countless others proved that small studios could compete on quality with billion-dollar companies.
 
-**Streaming and esports** — Twitch and YouTube transformed gaming into a spectator activity. The League of Legends World Championship regularly draws over 100 million viewers. Professional esports players earn millions in prize money.
+**Streaming and esports** — Twitch and YouTube transformed gaming into a spectator activity. The League of [Legends](/legends) World Championship regularly draws over 100 million viewers. Professional esports players earn millions in prize money.
 
-**VR and cloud gaming** — Virtual reality (Meta Quest, PlayStation VR) and cloud streaming (Xbox Game Pass, GeForce Now) represent ongoing experiments in how games are experienced and delivered.
+**VR and cloud gaming** — [Virtual reality](/virtual-reality) (Meta Quest, PlayStation VR) and cloud streaming (Xbox Game Pass, GeForce Now) represent ongoing experiments in how games are experienced and delivered.
 
 ## The Cultural Shift
 

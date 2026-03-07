@@ -5,7 +5,7 @@ description: "Dressage is an equestrian discipline where horse and rider perform
 category: everyday-concepts
 tags: ["dressage", "everyday-concepts"]
 heroImage: "/images/articles/dressage.webp"
-heroAlt: "A horse and rider performing a collected trot in a dressage arena with white fence letters"
+heroAlt: "Editorial photograph representing the concept of dressage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Dressage?
 
-Dressage is an equestrian discipline in which horse and rider perform a series of predetermined movements — transitions between gaits, precise geometric patterns, lateral movements, and collected or extended paces — judged on accuracy, harmony, and the appearance of effortless communication between horse and rider. The word comes from the French *dresser*, meaning "to train." It's been an Olympic sport since 1912, and it's often described as the highest expression of horse training.
+Dressage is an equestrian discipline in which horse and rider perform a series of predetermined movements — transitions between gaits, precise geometric patterns, lateral movements, and collected or extended paces — judged on accuracy, [harmony](/harmony), and the appearance of effortless communication between horse and rider. The word comes from the French *dresser*, meaning "to train." It's been an Olympic sport since 1912, and it's often described as the highest expression of horse training.
 
 ## Military Origins
 
@@ -53,7 +53,7 @@ The rider memorizes the test and performs it from memory while one to five judge
 
 **Flying changes** — the horse switches its leading leg at canter every stride (tempi changes). One-tempi changes (switching every stride) look like the horse is [skipping](/dance). They're extraordinarily difficult to perform with straightness and balance.
 
-**Half-passes** — the horse moves simultaneously forward and sideways, crossing its legs, while maintaining bend in the direction of travel. Imagine walking diagonally while looking sideways. Now imagine doing it gracefully.
+**Half-passes** — the horse moves simultaneously forward and sideways, crossing its legs, while maintaining bend in the direction of travel. Imagine [walking](/walking) diagonally while looking sideways. Now imagine doing it gracefully.
 
 ## The Scoring Paradox
 

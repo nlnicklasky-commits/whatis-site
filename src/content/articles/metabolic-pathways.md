@@ -5,7 +5,7 @@ description: "Metabolic pathways are linked chemical reactions in cells that bui
 category: science
 tags: ["metabolic pathways", "metabolism", "biochemistry", "enzymes", "cellular respiration", "biosynthesis", "biology"]
 heroImage: "/images/articles/metabolic-pathways-hero.webp"
-heroAlt: "Diagram showing interconnected biochemical reactions and enzyme pathways inside a cell"
+heroAlt: "Editorial photograph representing the concept of metabolic pathways"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 A metabolic pathway is a series of linked chemical reactions occurring within a cell, where the product of one reaction serves as the starting material for the next. These pathways are how your cells extract energy from food, build the molecules they need, and break down waste products.
 
-Right now, as you read this sentence, thousands of metabolic pathways are running simultaneously in trillions of your cells. They're converting the lunch you ate into usable energy, building new proteins to replace damaged ones, and dismantling molecules that are no longer needed. This chemistry is life itself --- without metabolic pathways, a cell is just a bag of inert molecules.
+Right now, as you read this sentence, thousands of metabolic pathways are [running](/running) simultaneously in trillions of your cells. They're converting the lunch you ate into usable energy, building new proteins to replace damaged ones, and dismantling molecules that are no longer needed. This [chemistry](/chemistry) is life itself --- without metabolic pathways, a cell is just a bag of inert molecules.
 
 ## The Basic Logic of Metabolism
 
@@ -131,7 +131,7 @@ Twenty amino acids make up proteins, and each has its own metabolic pathways for
 
 Amino acid catabolism (breakdown) produces intermediates that feed into the citric acid cycle or glycolysis. The amino group is removed (deamination), converted to urea in the liver's urea cycle, and excreted by the kidneys. This is why high-protein diets increase urea production and kidney workload.
 
-Amino acids are also precursors for neurotransmitters (tryptophan makes serotonin, tyrosine makes dopamine), hormones, and other bioactive molecules. [Anatomy](/anatomy) and physiology courses often mention these connections, but the chemistry happens at the metabolic pathway level.
+Amino acids are also precursors for neurotransmitters (tryptophan makes serotonin, tyrosine makes dopamine), hormones, and other bioactive molecules. [Anatomy](/anatomy) and [physiology](/physiology) courses often mention these connections, but the chemistry happens at the metabolic pathway level.
 
 ## Metabolic Pathways and Disease
 
@@ -177,11 +177,11 @@ Metabolic flux analysis measures the rates at which metabolites flow through pat
 
 Genome-scale metabolic models reconstruct all known metabolic pathways in an organism from its genome. The human metabolic reconstruction (Recon3D) contains over 13,000 reactions. These models can predict how cells will respond to genetic changes, drug treatments, or nutritional shifts.
 
-### CRISPR and Metabolic Engineering
+### CRISPR and Metabolic [Engineering](/engineering)
 
-[Biotechnology](/biotechnology) tools like CRISPR gene editing allow researchers to modify specific enzymes and study the effects on metabolic pathways. This has practical applications in metabolic engineering --- redesigning the metabolism of microorganisms to produce biofuels, pharmaceuticals, or other valuable chemicals.
+[Biotechnology](/biotechnology) tools like CRISPR gene [editing](/editing) allow researchers to modify specific enzymes and study the effects on metabolic pathways. This has practical applications in metabolic engineering --- redesigning the metabolism of microorganisms to produce biofuels, pharmaceuticals, or other valuable chemicals.
 
-## Connecting Metabolism to Nutrition
+## Connecting Metabolism to [Nutrition](/nutrition)
 
 Every dietary recommendation ultimately traces back to metabolic pathways. When nutritionists say "eat complex carbohydrates," they mean carbohydrates that are digested slowly, providing a steady glucose supply rather than a rapid spike that overwhelms glycolytic capacity. When they say "eat complete proteins," they mean proteins containing all essential amino acids your cells can't synthesize themselves.
 

@@ -5,7 +5,7 @@ description: "Reptile keeping is the hobby of caring for reptiles as pets, from 
 category: hobbies
 tags: ["reptile keeping", "pets", "herpetology", "terrariums", "bearded dragons", "snakes"]
 heroImage: "/images/articles/reptile-keeping.webp"
-heroAlt: "Bearded dragon resting on a branch in a well-equipped terrarium"
+heroAlt: "Editorial photograph representing the concept of reptile keeping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,17 +35,17 @@ Reptile keeping is the hobby of maintaining reptiles — lizards, snakes, turtle
 
 ## Why People Keep Reptiles
 
-The reasons are as varied as the animals. Some people are drawn to the aesthetics — a green tree python's emerald coils or a panther chameleon's shifting colors are genuinely beautiful. Some appreciate the low-maintenance aspects — reptiles don't need daily walks, can be left alone for short trips, don't bark at 3 AM, and many species eat only once a week or less.
+The reasons are as varied as the animals. Some people are drawn to the [aesthetics](/aesthetics) — a green tree python's emerald coils or a panther chameleon's shifting colors are genuinely beautiful. Some appreciate the low-maintenance aspects — reptiles don't need daily walks, can be left alone for short trips, don't bark at 3 AM, and many species eat only once a week or less.
 
-Others are fascinated by the biology. Reptiles are profoundly different from mammals — ectothermic (cold-blooded), scaled, and operating on evolutionary designs that have been refined for over 300 million years. Watching a snake hunt, a chameleon's tongue snap out at prey, or a tortoise methodically explore its enclosure is genuinely interesting in ways that differ from mammal behavior.
+Others are fascinated by the [biology](/biology). Reptiles are profoundly different from mammals — ectothermic (cold-blooded), scaled, and operating on evolutionary designs that have been refined for over 300 million years. Watching a snake hunt, a chameleon's tongue snap out at prey, or a tortoise methodically explore its enclosure is genuinely interesting in ways that differ from mammal behavior.
 
-And for some people, reptiles are an alternative for those who can't keep traditional pets — apartments that don't allow dogs or cats may permit caged animals, and reptiles don't trigger mammalian dander allergies (though they can carry Salmonella, which is its own concern).
+And for some people, reptiles are an alternative for those who can't keep traditional pets — apartments that don't allow dogs or cats may permit caged animals, and reptiles don't trigger mammalian dander [allergies](/allergies) (though they can carry Salmonella, which is its own concern).
 
 ## The Setup
 
 Reptile care revolves around replicating the animal's natural environment in a controlled space.
 
-**Enclosure.** Glass terrariums are the traditional choice, but PVC and wood enclosures retain heat and humidity better. Size matters — bigger is almost always better. A bearded dragon needs at least a 75-gallon enclosure; many keepers provide 120 gallons or more. A ball python needs at least a 4x2x2-foot enclosure as an adult.
+**Enclosure.** Glass [terrariums](/terrariums) are the traditional choice, but PVC and wood enclosures retain heat and humidity better. Size matters — bigger is almost always better. A bearded dragon needs at least a 75-gallon enclosure; many keepers provide 120 gallons or more. A ball python needs at least a 4x2x2-foot enclosure as an adult.
 
 **Heating.** Reptiles are ectothermic — they can't generate their own body heat and rely on external sources. Every reptile enclosure needs a temperature gradient: a warm basking spot on one end and a cooler area on the other, allowing the animal to thermoregulate by moving between zones. Heat sources include overhead heat lamps, ceramic heat emitters, radiant heat panels, and under-tank heating pads.
 
@@ -67,11 +67,11 @@ Reptile care revolves around replicating the animal's natural environment in a c
 
 **Blue-tongued skinks** — chunky, calm lizards from Australia. Their blue tongue is a defensive display. They're omnivorous and relatively handleable. Lifespan: 15-20 years.
 
-## The Ethics Question
+## The [Ethics](/ethics) Question
 
 Reptile keeping comes with genuine ethical considerations.
 
-**Wild-caught vs. captive-bred.** Captive-bred animals are healthier, better adapted to captivity, and don't deplete wild populations. Ethical keepers insist on captive-bred stock. Wild collection for the pet trade has contributed to population declines in some species.
+**Wild-caught vs. captive-bred.** Captive-bred animals are healthier, better adapted to captivity, and don't deplete wild populations. Ethical keepers insist on captive-bred stock. Wild collection for the pet [trade](/trade) has contributed to population declines in some species.
 
 **Welfare standards.** Reptiles are frequently kept in conditions that don't meet their needs — enclosures that are too small, temperatures that are wrong, diets that are inadequate. Unlike dogs and cats, reptile husbandry isn't widely understood, and outdated care guides still circulate. The hobby has improved enormously in the last 20 years (larger enclosures, better lighting, bioactive setups), but problems persist.
 

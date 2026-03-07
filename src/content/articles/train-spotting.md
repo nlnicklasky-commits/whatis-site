@@ -5,7 +5,7 @@ description: "Train spotting is the hobby of observing, recording, and photograp
 category: everyday-concepts
 tags: ["train spotting", "railfan", "trains", "hobby", "transportation", "railways"]
 heroImage: "/images/articles/train-spotting.webp"
-heroAlt: "An enthusiast photographing a passing locomotive at a railway platform"
+heroAlt: "Editorial photograph representing the concept of train spotting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ It's one of those hobbies that outsiders find baffling and insiders find endless
 
 **Historical research** — Studying the history of specific locomotives, railway companies, routes, and infrastructure. Railway [history](/railroad-history) is enormously well-documented, and archival research is a significant part of the hobby.
 
-**Model railways** — Many train spotters also build model railways, combining observation with hands-on construction and engineering.
+**Model railways** — Many train spotters also build model railways, combining observation with hands-on [construction](/construction) and [engineering](/engineering).
 
 ## Origins
 

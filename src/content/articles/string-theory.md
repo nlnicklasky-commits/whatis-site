@@ -5,7 +5,7 @@ description: "String theory proposes that the universe's fundamental building bl
 category: everyday-concepts
 tags: ["string theory", "physics", "theoretical physics", "quantum mechanics", "dimensions", "particle physics"]
 heroImage: "/images/articles/string-theory.webp"
-heroAlt: "Abstract visualization of vibrating strings in multiple dimensions"
+heroAlt: "Editorial photograph representing the concept of string theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -67,9 +67,9 @@ In 1995, Edward Witten proposed that all five were actually different limits of 
 
 Even without experimental proof, string theory has produced genuinely valuable results:
 
-**The AdS/CFT correspondence** — In 1997, Juan Maldacena discovered a mathematical equivalence between a string theory in a certain curved spacetime and a quantum field theory on the boundary of that spacetime. This "holographic principle" has applications in nuclear [physics](/physics), condensed matter physics, and quantum information theory — fields with nothing to do with strings.
+**The AdS/CFT correspondence** — In 1997, Juan Maldacena discovered a mathematical equivalence between a string theory in a certain curved spacetime and a quantum field theory on the boundary of that spacetime. This "holographic principle" has applications in nuclear [physics](/physics), condensed matter physics, and quantum [information theory](/information-theory) — fields with nothing to do with strings.
 
-**Mathematical breakthroughs** — String theory has driven advances in pure [mathematics](/mathematics), including algebraic geometry, topology, and number theory. Fields medalists have built on string-theoretic ideas.
+**Mathematical breakthroughs** — String theory has driven advances in pure [mathematics](/mathematics), including algebraic [geometry](/geometry), [topology](/topology), and [number theory](/number-theory). Fields medalists have built on string-theoretic ideas.
 
 **Black hole entropy** — In 1996, Andrew Strominger and Cumrun Vafa used string theory to derive the Bekenstein-Hawking formula for black hole entropy from first principles — a result that no other approach had achieved.
 
@@ -79,10 +79,10 @@ The elephant in the room: string theory has been under development since the lat
 
 The "field problem" makes this worse. String theory doesn't predict one unique universe — it predicts a staggeringly large number of possible universes (estimated at 10^500), each with different physical constants and particle properties. Critics argue that a theory that can accommodate almost any observation effectively predicts nothing.
 
-Peter Woit's book *Not Even Wrong* and Lee Smolin's *The Trouble with Physics* articulated these concerns for a general audience. The debate between string theory proponents and critics has been one of the most heated arguments in modern physics.
+Peter Woit's book *Not Even Wrong* and Lee Smolin's *The Trouble with Physics* articulated these concerns for a general audience. The [debate](/debate) between string theory proponents and critics has been one of the most heated arguments in modern physics.
 
 ## Where Things Stand
 
-String theory remains the most mathematically developed candidate for a unified theory of physics. It attracts some of the brightest minds in theoretical physics and mathematics. But it also remains unconfirmed by experiment, and no clear path to experimental verification exists.
+String theory remains the most mathematically developed candidate for a unified theory of physics. It attracts some of the brightest minds in [theoretical physics](/theoretical-physics) and mathematics. But it also remains unconfirmed by experiment, and no clear path to experimental verification exists.
 
 The honest answer to "Is string theory right?" is: nobody knows. It might be the correct description of nature at its most fundamental level. It might be a beautiful mathematical structure that doesn't describe our universe. Or it might be partially right in ways we haven't yet understood. For now, it's the most ambitious attempt to answer the deepest questions in physics — and one of the most contentious.

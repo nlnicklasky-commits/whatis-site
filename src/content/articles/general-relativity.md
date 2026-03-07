@@ -5,7 +5,7 @@ description: "General relativity is Einstein's theory explaining gravity as spac
 category: science
 tags: ["general relativity", "gravity", "spacetime", "einstein", "physics", "astrophysics", "cosmology"]
 heroImage: "/images/articles/general-relativity-hero.webp"
-heroAlt: "Artistic depiction of spacetime curvature around a massive object bending the fabric of the universe"
+heroAlt: "Editorial photograph representing the concept of general relativity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

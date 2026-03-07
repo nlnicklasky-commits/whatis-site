@@ -5,7 +5,7 @@ description: "Museology is the study of museums, their purpose, organization, an
 category: arts-amp-culture
 tags: ["museology", "museums", "curation", "museum studies", "cultural heritage", "preservation"]
 heroImage: "/images/articles/museology.webp"
-heroAlt: "Interior of a grand museum gallery with visitors viewing framed paintings on white walls"
+heroAlt: "Editorial photograph representing the concept of museology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Museology?
 
-Museology is the academic study of museums — their history, philosophy, social function, organizational practices, and evolving relationship with the public. It asks questions that might seem obvious but turn out to be genuinely complicated: What is a museum for? Who decides what's worth preserving? Whose stories get told, and whose get left out? How should collections acquired through colonialism be handled?
+Museology is the academic study of museums — their history, [philosophy](/philosophy), social function, organizational practices, and evolving relationship with the public. It asks questions that might seem obvious but turn out to be genuinely complicated: What is a museum for? Who decides what's worth preserving? Whose stories get told, and whose get left out? How should collections acquired through colonialism be handled?
 
-The field sits at the crossroads of several disciplines — art history, anthropology, education, architecture, ethics, and organizational management. If you've ever walked through a museum and wondered why certain objects are displayed in certain ways, or why some cultures are represented by artifacts behind glass while others get entire wings of self-narrated exhibitions, you've been thinking museologically.
+The field sits at the crossroads of several disciplines — [art history](/art-history), [anthropology](/anthropology), [education](/education), [architecture](/architecture), ethics, and organizational [management](/management). If you've ever walked through a museum and wondered why certain objects are displayed in certain ways, or why some cultures are represented by artifacts behind glass while others get entire wings of self-narrated exhibitions, you've been thinking museologically.
 
 ## What Museums Actually Do
 
@@ -43,11 +43,11 @@ Behind the public-facing galleries, museums perform several core functions:
 
 **Collecting** — acquiring objects through purchase, donation, fieldwork, or (historically and controversially) removal from their places of origin. Collection policies determine what a museum seeks and accepts.
 
-**Conservation** — preserving objects against deterioration. Conservation science is a technical field involving chemistry, materials science, and meticulous manual skill. A painting conservator might spend months on a single work.
+**Conservation** — preserving objects against deterioration. Conservation science is a technical field involving [chemistry](/chemistry), [materials science](/materials-science), and meticulous manual skill. A painting conservator might spend months on a single work.
 
 **Research** — studying collections to understand what they mean. Museum researchers publish scholarship, conduct scientific analysis, and build the knowledge base that makes interpretation possible.
 
-**Exhibition** — presenting collections to the public in meaningful ways. Exhibition design combines education, storytelling, spatial design, and aesthetics. A great exhibition changes how you see something you thought you understood.
+**Exhibition** — presenting collections to the public in meaningful ways. Exhibition design combines education, [storytelling](/storytelling), spatial design, and [aesthetics](/aesthetics). A great exhibition changes how you see something you thought you understood.
 
 **Education** — programs, tours, workshops, and outreach that connect people to collections. Museum education has shifted from lecture-based approaches to participatory and inquiry-based models.
 

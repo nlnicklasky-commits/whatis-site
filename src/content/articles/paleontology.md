@@ -5,7 +5,7 @@ description: "Paleontology is the study of ancient life through fossils. Learn h
 category: science
 tags: ["paleontology", "fossils", "ancient life", "evolution", "dinosaurs", "extinction", "geology"]
 heroImage: "/images/articles/paleontology-hero.webp"
-heroAlt: "Fossilized skeleton of a dinosaur partially exposed in layered sedimentary rock"
+heroAlt: "Editorial photograph representing the concept of paleontology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

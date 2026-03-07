@@ -5,7 +5,7 @@ description: "Human nutrition is the science of how food sustains the body. Lear
 category: health-amp-wellness
 tags: ["human nutrition", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/human-nutrition.webp"
-heroAlt: "Colorful assortment of fresh fruits, vegetables, grains, and proteins arranged on a table"
+heroAlt: "Editorial photograph representing the concept of human nutrition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
     a: "No. Carbohydrates are your body's preferred energy source, and the brain runs almost exclusively on glucose. The distinction that matters is between complex carbohydrates (whole grains, vegetables, legumes) which provide sustained energy and fiber, and highly refined carbohydrates (white sugar, white flour) which spike blood sugar quickly. The problem isn't carbs — it's the type and quantity."
 ---
 
-# What Is Human Nutrition?
+# What Is Human [Nutrition](/nutrition)?
 
-Human nutrition is the science of how the body obtains and uses nutrients from food to sustain life, support growth, maintain health, and fuel activity. It covers everything from the molecular behavior of vitamins in your bloodstream to the population-level effects of food policy on public health.
+Human nutrition is the science of how the body obtains and uses nutrients from food to sustain life, support growth, maintain health, and fuel activity. It covers everything from the molecular behavior of vitamins in your bloodstream to the population-level effects of food policy on [public health](/public-health).
 
 ## The Big Three: Macronutrients
 
@@ -43,7 +43,7 @@ Your body needs three categories of nutrients in large amounts — hence the nam
 
 ### Carbohydrates
 
-Carbohydrates are your body's primary fuel source. When you eat bread, rice, fruit, or pasta, your digestive system breaks the carbohydrates down into glucose — simple sugar — which enters your bloodstream and gets delivered to cells throughout your body. Your brain alone consumes roughly 120 grams of glucose per day, accounting for about 20% of your total energy expenditure despite being only about 2% of your body weight.
+Carbohydrates are your body's primary fuel source. When you eat bread, rice, fruit, or pasta, your digestive system breaks the carbohydrates down into glucose — simple sugar — which enters your bloodstream and gets delivered to cells throughout your body. Your brain alone consumes roughly 120 grams of glucose per day, [accounting](/accounting) for about 20% of your total energy expenditure despite being only about 2% of your body weight.
 
 Not all carbohydrates behave the same way. Simple carbohydrates — table sugar, honey, fruit juice — are absorbed quickly and spike blood glucose fast. Complex carbohydrates — whole grains, legumes, starchy vegetables — take longer to break down because they contain longer molecular chains and often come packaged with fiber. Fiber is technically a carbohydrate that humans can't digest, but it's critically important: it feeds your gut microbiome, slows glucose absorption, and helps prevent constipation.
 
@@ -51,7 +51,7 @@ The recommended intake is roughly 45% to 65% of total calories from carbohydrate
 
 ### Proteins
 
-Proteins are the construction materials. Your muscles, organs, skin, hair, enzymes, antibodies, and many hormones are built from proteins. During digestion, dietary protein gets broken down into amino acids — 20 different types — which your body then reassembles into whatever proteins it needs.
+Proteins are the [construction](/construction) materials. Your muscles, organs, skin, hair, enzymes, antibodies, and many hormones are built from proteins. During digestion, dietary protein gets broken down into amino acids — 20 different types — which your body then reassembles into whatever proteins it needs.
 
 Here's the catch: your body can manufacture 11 of those 20 amino acids on its own. The other 9 — called "essential" amino acids — must come from food. Animal products (meat, fish, eggs, dairy) contain all 9 essential amino acids in adequate proportions, which is why they're called "complete" proteins. Most plant proteins are "incomplete," lacking sufficient amounts of one or more essential amino acids. But you can easily get all 9 by eating a variety of plant foods — beans with rice, for example, is a classic combination that provides a complete amino acid profile.
 
@@ -115,7 +115,7 @@ This "double burden" of malnutrition reflects deeper issues in food systems, eco
 
 Most countries issue official dietary guidelines. The USDA's Dietary Guidelines for Americans, updated every five years, recommend a diet built around vegetables, fruits, whole grains, lean proteins, and low-fat dairy, with limited added sugars (less than 10% of calories), saturated fat (less than 10% of calories), and sodium (less than 2,300 mg per day).
 
-Other countries' guidelines are broadly similar but reflect local food cultures. Japan's guidelines use a spinning top diagram and emphasize rice, fish, and vegetables. Brazil's guidelines — widely praised by nutritionists — uniquely emphasize the social aspects of eating: cooking at home, eating with others, and being skeptical of food industry marketing.
+Other countries' guidelines are broadly similar but reflect local food cultures. Japan's guidelines use a spinning top diagram and emphasize rice, fish, and vegetables. Brazil's guidelines — widely praised by nutritionists — uniquely emphasize the social aspects of eating: [cooking](/cooking) at home, eating with others, and being skeptical of food industry [marketing](/marketing).
 
 The Mediterranean diet pattern — heavy on olive oil, fish, vegetables, legumes, nuts, and whole grains, light on red meat and processed food — has the strongest evidence base of any named dietary pattern for reducing cardiovascular disease, type 2 diabetes, and overall mortality. But frankly, most dietary patterns that emphasize whole foods over processed foods produce similar benefits. The specifics matter less than the overall approach.
 

@@ -5,7 +5,7 @@ description: "Track and field is a collection of athletic events including runni
 category: sports
 tags: ["track and field", "athletics", "Olympics", "running", "sports", "competition"]
 heroImage: "/images/articles/track-and-field.webp"
-heroAlt: "Sprinters racing on a red track during a competitive athletics meet"
+heroAlt: "Editorial photograph representing the concept of track and field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Track and Field?
 
-Track and field (also called athletics) is a collection of sporting events centered on running, jumping, and throwing. It's the broadest competitive sport in existence — encompassing everything from the explosive 100-meter sprint (under 10 seconds) to the marathon (over 2 hours), from leaping over a 2-meter bar to hurling a metal ball over 20 meters.
+Track and field (also called [athletics](/athletics)) is a collection of sporting events centered on [running](/running), jumping, and throwing. It's the broadest competitive sport in existence — encompassing everything from the explosive 100-meter sprint (under 10 seconds) to the marathon (over 2 hours), from leaping over a 2-meter bar to hurling a metal ball over 20 meters.
 
 It's also the foundation of the Olympic Games. Track and field events have been contested at every modern Olympics since 1896, and the ancient Greek Olympics were essentially a track and field meet. When people say "athletics," this is what they mean.
 
@@ -41,13 +41,13 @@ It's also the foundation of the Olympic Games. Track and field events have been 
 
 **Sprints** — 100m, 200m, 400m. Pure speed. The 100m is the most prestigious event in the sport — the winner is informally crowned "the fastest person alive."
 
-**Middle distance** — 800m and 1500m. A brutal combination of speed and endurance. Tactical racing — positioning, pacing, and timing your finishing kick — is as important as raw fitness.
+**Middle distance** — 800m and 1500m. A brutal combination of speed and endurance. Tactical racing — positioning, pacing, and timing your finishing kick — is as important as raw [fitness](/fitness).
 
 **Long distance** — 5000m, 10000m, and the marathon (42.195 km). Dominated by East African athletes (particularly Kenyans and Ethiopians) for the past several decades. The marathon is among the most punishing events in all of sport.
 
 **Hurdles** — 110m hurdles (men) / 100m hurdles (women), 400m hurdles. Sprinting plus rhythmic jumping over barriers. The 400m hurdles is considered one of the most demanding events.
 
-**Steeplechase** — 3000m with water jumps and barriers. Originated from cross-country horse racing. Uniquely entertaining to watch.
+**Steeplechase** — 3000m with water jumps and barriers. Originated from cross-country [horse racing](/horse-racing). Uniquely entertaining to watch.
 
 **Relays** — 4×100m and 4×400m. Teams of four, passing a baton. The baton exchange in the 4×100m is an art form — fractions of a second are gained or lost in the handoff.
 
@@ -55,7 +55,7 @@ It's also the foundation of the Olympic Games. Track and field events have been 
 
 **Jumps** — High jump, long jump, triple jump, pole vault. The pole vault is particularly spectacular — athletes launch themselves 6+ meters into the air using a flexible fiberglass pole.
 
-**Throws** — Shot put, discus, javelin, hammer throw. Power events requiring explosive [strength](/exercise-physiology) and technique.
+**Throws** — Shot put, discus, javelin, hammer throw. Power events requiring explosive [strength](/exercise-[physiology](/physiology)) and technique.
 
 ### Combined Events
 
@@ -63,7 +63,7 @@ The decathlon (men: 10 events over 2 days) and heptathlon (women: 7 events over 
 
 ## A Brief History
 
-Track and field dates to the ancient Greek Olympics (776 BC), where the stadion sprint was the original and sole event. Over time, the ancient Games added longer races, wrestling, boxing, chariot racing, and the pentathlon.
+Track and field dates to the ancient Greek Olympics (776 BC), where the stadion sprint was the original and sole event. Over time, the ancient Games added longer races, [wrestling](/wrestling), [boxing](/boxing), chariot racing, and the pentathlon.
 
 The modern revival began with the first modern Olympics in Athens (1896). Women's events were added gradually — the first women's track event (100m) appeared at the 1928 Amsterdam Olympics, over protests from officials who considered women too fragile for athletics.
 

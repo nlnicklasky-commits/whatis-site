@@ -5,7 +5,7 @@ description: "Card making is the craft of designing and creating handmade greeti
 category: arts-amp-culture
 tags: ["card making", "craft", "handmade cards", "paper craft", "scrapbooking", "stamping"]
 heroImage: "/images/articles/card-making.webp"
-heroAlt: "Handmade greeting cards with stamps, ribbons, and colorful paper on a craft table"
+heroAlt: "Editorial photograph representing the concept of card making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,7 +61,7 @@ Stamp an image with embossing ink (clear and sticky), sprinkle embossing powder 
 
 ### Layering and Dimension
 
-Most handmade cards use layered construction. A card base (folded cardstock), a mat layer (slightly smaller contrasting paper), a patterned paper panel, and then focal elements on top. Foam adhesive dots or strips raise elements off the surface, creating shadow and depth that flat construction can't achieve.
+Most handmade cards use layered [construction](/construction). A card base (folded cardstock), a mat layer (slightly smaller contrasting paper), a patterned paper panel, and then focal elements on top. Foam adhesive dots or strips raise elements off the surface, creating shadow and depth that flat construction can't achieve.
 
 This layering is where [calligraphy](/calligraphy) skills become valuable — hand-lettered sentiments on a layered card carry extra visual and personal weight.
 
@@ -75,7 +75,7 @@ Stamped images can be colored with markers (Copic markers are the gold standard,
 
 **Shabby chic/vintage** — Distressed edges, sepia tones, lace, ribbon, and antique-looking elements. Ink distressing (rubbing ink pads along paper edges) creates the aged look.
 
-**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require engineering as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/basket-weaving) in their ingenuity.
+**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require [engineering](/engineering) as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/basket-[weaving](/weaving)) in their ingenuity.
 
 **Mixed media** — Combining paper craft with other materials: fabric, metal charms, wire, beads, natural elements. These cards push into art object territory and are often framed rather than mailed.
 
@@ -83,9 +83,9 @@ Stamped images can be colored with markers (Copic markers are the gold standard,
 
 ## The Business Side
 
-Handmade cards sell well in several channels. Etsy is the dominant online marketplace — a search for "handmade birthday card" returns over 100,000 results. Craft fairs and local boutiques provide in-person sales opportunities. Custom orders (wedding invitations, baby shower cards, corporate thank-you cards) command premium prices.
+Handmade cards sell well in several channels. Etsy is the dominant online marketplace — a search for "handmade birthday card" returns over 100,000 results. Craft fairs and local boutiques provide in-person [sales](/sales) opportunities. Custom orders (wedding invitations, baby shower cards, corporate thank-you cards) command premium prices.
 
-Pricing handmade cards requires accounting for materials (typically $1-3 per card) and time (which most makers undervalue). A card that takes 30 minutes to make, priced at $6, pays the maker roughly $6-10 per hour after materials. Higher-end techniques and custom work improve the economics.
+Pricing handmade cards requires [accounting](/accounting) for materials (typically $1-3 per card) and time (which most makers undervalue). A card that takes 30 minutes to make, priced at $6, pays the maker roughly $6-10 per hour after materials. Higher-end techniques and custom work improve the [economics](/economics).
 
 The greeting card market has shifted over the past decade. Mass-market card sales have declined slightly as digital communication replaces casual card-sending. But premium and handmade cards have grown — when people do send physical cards, they increasingly want something special. This plays directly to handmade card makers' strengths.
 

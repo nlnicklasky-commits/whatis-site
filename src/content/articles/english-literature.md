@@ -5,7 +5,7 @@ description: "English literature spans centuries of poetry, prose, and drama in 
 category: everyday-concepts
 tags: ["english literature", "everyday-concepts"]
 heroImage: "/images/articles/english-literature.webp"
-heroAlt: "A row of classic leather-bound books on a dark wooden shelf in a library"
+heroAlt: "Editorial photograph representing the concept of english literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Literature develops empathy, critical thinking, and understanding of human experience across cultures and time periods. A 2013 study in Science found that reading literary fiction (as opposed to popular fiction or nonfiction) improved participants' ability to detect and understand others' emotions. Literature also provides historical insight — reading Dickens teaches more about Victorian poverty than most history textbooks. The specific works studied are debatable; the value of deep reading is well-established."
 ---
 
-# What Is English Literature?
+# What Is English [Literature](/literature)?
 
-English literature is the body of written work produced in the English language — poetry, prose, drama, essays, and other literary forms — spanning from roughly the 7th century to the present. It includes everything from the anonymous *Beowulf* to the latest Booker Prize winner, from Shakespeare's sonnets to contemporary graphic novels. As a field of study, it examines not just what these works say but how they say it, what they reveal about the cultures that produced them, and why certain texts endure while others fade.
+English literature is the body of written work produced in the English language — [poetry](/poetry), prose, [drama](/drama), essays, and other literary forms — spanning from roughly the 7th century to the present. It includes everything from the anonymous *Beowulf* to the latest Booker Prize winner, from Shakespeare's sonnets to contemporary graphic novels. As a field of study, it examines not just what these works say but how they say it, what they reveal about the cultures that produced them, and why certain texts endure while others fade.
 
 ## The Beginning: Old English
 
@@ -39,7 +39,7 @@ English literature starts with a bang — or rather, with a monster. *Beowulf*, 
 
 The poem was nearly lost. Only one manuscript survives, and it was damaged by fire in 1731. Without that single copy, English [literature's](/english-language) founding text would have vanished.
 
-Old English literature also includes riddles, religious poetry (*The Dream of the Rood*), and historical chronicles. But Beowulf towers over everything — a work that asks questions about heroism, mortality, and the meaning of a good life that haven't become less relevant in twelve centuries.
+Old English literature also includes [riddles](/riddles), religious poetry (*The Dream of the Rood*), and historical chronicles. But Beowulf towers over everything — a work that asks questions about heroism, mortality, and the meaning of a good life that haven't become less relevant in twelve centuries.
 
 ## Chaucer and the Middle Ages
 
@@ -79,12 +79,12 @@ The 20th century's first half shattered literary conventions.
 
 **Virginia Woolf** (1882-1941) developed stream-of-consciousness technique to capture the interior texture of thought. *Mrs Dalloway* (1925) and *To the Lighthouse* (1927) prove that nothing much needs to happen in a novel if the prose captures how it feels to be conscious.
 
-**T.S. Eliot's** *The Waste Land* (1922) — a fragmented, allusive, despairing poem about post-World War I civilization — became modernism's defining poem. It's difficult, deliberately so, and its difficulty is the point: the fractured form mirrors a fractured world.
+**T.S. Eliot's** *The Waste Land* (1922) — a fragmented, allusive, despairing poem about post-[World War I](/world-war-i) civilization — became modernism's defining poem. It's difficult, deliberately so, and its difficulty is the point: the fractured form mirrors a fractured world.
 
 ## Contemporary and Beyond
 
-English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-writing) a century ago.
+English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-[writing](/writing)) a century ago.
 
-The question of which works "count" as literature remains contentious. Genre fiction (science fiction, mystery, fantasy) has gained literary respectability. Graphic novels (*Maus*, *Persepolis*) are taught in university courses. Memoir and creative nonfiction blur boundaries. The definition of literature expands with each generation — and the expansion is mostly healthy.
+The question of which works "count" as literature remains contentious. Genre fiction ([science fiction](/science-fiction), mystery, fantasy) has gained literary respectability. Graphic novels (*Maus*, *Persepolis*) are taught in university courses. Memoir and creative nonfiction blur boundaries. The definition of literature expands with each generation — and the expansion is mostly healthy.
 
-What hasn't changed is the fundamental act: a writer arranges words on a page, and a reader encounters them. That encounter — private, intimate, demanding — remains one of the most powerful forms of human connection across time, geography, and experience.
+What hasn't changed is the fundamental act: a writer arranges words on a page, and a reader encounters them. That encounter — private, intimate, demanding — remains one of the most powerful forms of human connection across time, [geography](/geography), and experience.

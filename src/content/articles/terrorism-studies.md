@@ -5,7 +5,7 @@ description: "Terrorism studies is the academic field examining political violen
 category: politics
 tags: ["terrorism studies", "terrorism", "counterterrorism", "political violence", "extremism", "radicalization"]
 heroImage: "/images/articles/terrorism-studies.webp"
-heroAlt: "Academic books and research papers on security and political violence studies"
+heroAlt: "Editorial photograph representing the concept of terrorism studies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Terrorism Studies?
 
-Terrorism studies is the academic and policy-oriented field devoted to understanding terrorism — its causes, dynamics, effects, and the strategies used to prevent and respond to it. It draws on political science, psychology, sociology, criminology, history, law, and security studies to analyze one of the most contested phenomena in modern politics.
+Terrorism studies is the academic and policy-oriented field devoted to understanding terrorism — its causes, dynamics, effects, and the strategies used to prevent and respond to it. It draws on [political science](/political-science), psychology, [sociology](/sociology), [criminology](/criminology), history, law, and security studies to analyze one of the most contested phenomena in modern [politics](/politics).
 
 The field grapples with a fundamental difficulty right from the start: there is no universally accepted definition of terrorism. The old cliche — "one person's terrorist is another person's freedom fighter" — points to a real problem. Defining terrorism involves value judgments about which violence is legitimate and which isn't, and those judgments differ depending on who's making them.
 
@@ -44,7 +44,7 @@ Most working definitions include four elements:
 3. **Targeting of non-combatants** — Civilians are attacked or put at risk
 4. **Psychological impact** — The aim is to create fear beyond the immediate victims, influencing a broader audience
 
-But each element is debatable. Does state violence against civilians count? What about cyberattacks that cause no physical harm? What about movements that use violence during a struggle for self-determination? The definitional debate has consumed enormous academic energy with no resolution.
+But each element is debatable. Does state violence against civilians count? What about cyberattacks that cause no physical harm? What about movements that use violence during a struggle for self-determination? The definitional [debate](/debate) has consumed enormous academic energy with no resolution.
 
 ## What Researchers Study
 
@@ -54,8 +54,8 @@ Why do people turn to political violence? Research has identified multiple contr
 
 - **Political grievances** — Repression, foreign occupation, lack of representation
 - **Socioeconomic factors** — Poverty alone doesn't cause terrorism, but inequality and marginalization contribute
-- **Ideology** — Religious extremism, ethno-nationalism, far-right and far-left ideologies provide frameworks that justify violence
-- **Social networks** — Personal relationships and group dynamics are often more important than ideology in drawing individuals into violent movements
+- **Ideology** — Religious extremism, ethno-nationalism, far-right and far-left [ideologies](/ideologies) provide frameworks that justify violence
+- **Social networks** — Personal relationships and group dynamics are often more important than ideology in [drawing](/drawing) individuals into violent movements
 - **State failure** — Weak or failed states provide space for terrorist organizations to operate
 
 No single factor is sufficient. Terrorism emerges from the interaction of multiple conditions, and the specific mix varies across contexts.

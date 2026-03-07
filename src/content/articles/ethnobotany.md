@@ -5,7 +5,7 @@ description: "Ethnobotany studies how people use plants for food, medicine, shel
 category: science
 tags: ["ethnobotany", "plants", "traditional knowledge", "anthropology", "botany", "medicinal plants", "indigenous cultures"]
 heroImage: "/images/articles/ethnobotany-hero.webp"
-heroAlt: "Indigenous healer examining medicinal plants in a tropical forest setting"
+heroAlt: "Editorial photograph representing the concept of ethnobotany"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -90,7 +90,7 @@ Some of the most important drugs in medicine came from ethnobotanical leads:
 
 **Taxol (paclitaxel):** The National Cancer Institute screened thousands of plant compounds in the 1960s, finding that bark from the Pacific yew (*Taxus brevifolia*) had anticancer properties. Taxol became one of the most important chemotherapy drugs.
 
-**Artemisinin:** Chinese scientist Tu Youyou, working from traditional Chinese medicine texts describing sweet wormwood (*Artemisia annua*) for treating fevers, isolated artemisinin in 1972. It's now the foundation of the most effective antimalarial treatments. Tu Youyou won the Nobel Prize in Physiology or Medicine in 2015 for this work.
+**Artemisinin:** Chinese scientist Tu Youyou, working from [traditional Chinese medicine](/traditional-chinese-medicine) texts describing sweet wormwood (*Artemisia annua*) for treating fevers, isolated artemisinin in 1972. It's now the foundation of the most effective antimalarial treatments. Tu Youyou won the Nobel Prize in Physiology or Medicine in 2015 for this work.
 
 These successes have fueled ongoing "bioprospecting" — the systematic search for new drugs among plants used in traditional medicine. But bioprospecting raises serious ethical questions about who benefits from traditional knowledge.
 
@@ -102,7 +102,7 @@ Ethnobotany isn't just about medicine. Understanding how different cultures have
 
 **Neglected and underutilized species (NUS):** Of the roughly 30,000 edible plant species, only about 200 are commonly cultivated, and just three — rice, wheat, and corn — provide more than 50% of global plant-based calories. This dietary narrowing creates vulnerability to crop failures and climate change. Ethnobotanists study traditional food plants that could diversify diets and agricultural systems — quinoa (once a "forgotten" Andean grain, now globally popular), teff (Ethiopian grain), breadfruit (Pacific staple), and hundreds of others.
 
-**Agroecological knowledge:** Many traditional farming systems are remarkably sophisticated. Amazonian *terra preta* (dark earth) — enriched soil created by pre-Columbian peoples through charcoal and organic amendments — remains more fertile than surrounding soils after centuries. Milpa agriculture in Mesoamerica intercrops corn, beans, and squash in a system that maintains soil fertility without synthetic inputs. This traditional ecological knowledge is increasingly valued by researchers working on sustainable agriculture.
+**Agroecological knowledge:** Many traditional farming systems are remarkably sophisticated. Amazonian *terra preta* (dark earth) — enriched soil created by pre-Columbian peoples through charcoal and organic amendments — remains more fertile than surrounding soils after centuries. Milpa agriculture in Mesoamerica intercrops corn, beans, and squash in a system that maintains soil fertility without synthetic inputs. This traditional ecological knowledge is increasingly valued by researchers working on [sustainable agriculture](/sustainable-agriculture).
 
 ## Plants and Culture: Beyond Utility
 
@@ -171,7 +171,7 @@ Ethnobotany is a small but growing field. Most professionals hold graduate degre
 - **Pharmaceutical and biotechnology companies** — bioprospecting and natural product research
 - **Museums and herbaria** — curating ethnobotanical collections and conducting research
 - **Government agencies** — managing protected areas where indigenous plant use occurs
-- **Nonprofit organizations** — supporting indigenous rights, cultural preservation, and sustainable development
+- **Nonprofit organizations** — supporting indigenous rights, cultural preservation, and [sustainable development](/sustainable-development)
 
 The field doesn't have the employment volume of, say, [data science](/data-science) or nursing. But for someone passionate about both plants and people, it offers uniquely meaningful work at the intersection of science, culture, and conservation.
 

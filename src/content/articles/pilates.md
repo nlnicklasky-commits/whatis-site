@@ -5,7 +5,7 @@ description: "Pilates is a low-impact exercise method focused on core strength, 
 category: everyday-concepts
 tags: ["pilates", "exercise", "fitness", "core strength", "flexibility", "wellness"]
 heroImage: "/images/articles/pilates.webp"
-heroAlt: "A person performing a controlled Pilates exercise on a reformer machine in a bright studio"
+heroAlt: "Editorial photograph representing the concept of pilates"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ Pilates is a system of physical exercise that emphasizes core strength, controll
 
 ## The Man Behind the Method
 
-Joseph Hubertus Pilates (1883-1967) was born in Germany and spent his life obsessed with physical fitness. As a child, he was sickly — suffering from asthma, rickets, and rheumatic fever. He responded by studying anatomy, bodybuilding, gymnastics, martial arts, yoga, and virtually every physical discipline available.
+Joseph Hubertus Pilates (1883-1967) was born in Germany and spent his life obsessed with physical [fitness](/fitness). As a child, he was sickly — suffering from asthma, rickets, and rheumatic fever. He responded by studying [anatomy](/anatomy), [bodybuilding](/bodybuilding), [gymnastics](/gymnastics), [martial arts](/martial-arts), yoga, and virtually every physical discipline available.
 
-During World War I, Pilates was interned as a German national in England. He used his time productively, developing his exercise system and teaching it to fellow internees. He reportedly rigged bed springs to hospital beds to create resistance exercise equipment for injured soldiers — the prototype for the Pilates reformer.
+During [World War I](/world-war-i), Pilates was interned as a German national in England. He used his time productively, developing his exercise system and [teaching](/teaching) it to fellow internees. He reportedly rigged bed [springs](/springs) to hospital beds to create resistance exercise equipment for injured soldiers — the prototype for the Pilates reformer.
 
-After the war, Pilates emigrated to New York City in 1926, opening a studio on Eighth Avenue with his wife Clara. Their studio attracted dancers — particularly from the New York City Ballet — who found that Pilates' method built strength without bulk, improved flexibility, and helped rehabilitate injuries. This dance-world connection established Pilates' reputation and shaped its emphasis on long, lean muscles and graceful movement.
+After the war, Pilates emigrated to New York City in 1926, opening a studio on Eighth Avenue with his wife Clara. Their studio attracted dancers — particularly from the New York City [Ballet](/ballet) — who found that Pilates' method built strength without bulk, improved flexibility, and helped rehabilitate injuries. This dance-world connection established Pilates' reputation and shaped its emphasis on long, lean muscles and graceful movement.
 
 Joseph Pilates developed over 500 exercises during his lifetime. He was reportedly doing his full exercise routine into his 80s.
 
@@ -88,7 +88,7 @@ The evidence is weaker for weight loss (Pilates burns fewer calories than cardio
 Pilates' demographic has broadened enormously from its dance-world origins. Current practitioners include:
 
 - **Rehabilitation patients** recovering from back injuries, surgeries, or joint replacements
-- **Athletes** seeking core strength and injury prevention (NFL, NBA, and professional soccer teams incorporate Pilates)
+- **Athletes** seeking core strength and injury prevention (NFL, NBA, and professional [soccer](/soccer) teams incorporate Pilates)
 - **Older adults** looking for low-impact exercise that improves balance and mobility
 - **Pregnant and postpartum women** (modified Pilates is widely recommended for prenatal and postnatal fitness)
 - **Office workers** dealing with posture-related pain from sitting all day

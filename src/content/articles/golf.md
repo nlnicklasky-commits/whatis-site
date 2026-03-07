@@ -5,7 +5,7 @@ description: "Golf is a precision sport where players hit a ball into holes acro
 category: everyday-concepts
 tags: ["golf", "sports", "recreation", "outdoor sports", "PGA", "country club"]
 heroImage: "/images/articles/golf.webp"
-heroAlt: "Golfer mid-swing on a green fairway with trees in the background"
+heroAlt: "Editorial photograph representing the concept of golf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Golf?
 
-Golf is a sport where players use clubs to hit a small ball from a starting point (the tee) into a hole in the ground, in as few strokes as possible, across a course of 18 holes laid out over 100-200 acres of varied terrain. That's the simple version. The complicated version involves a 500-year history, a rule book that runs over 200 pages, equipment engineering that borders on aerospace, and a mental challenge that has driven some of the world's best athletes to genuine despair.
+Golf is a sport where players use clubs to hit a small ball from a starting point (the tee) into a hole in the ground, in as few strokes as possible, across a course of 18 holes laid out over 100-200 acres of varied terrain. That's the simple version. The complicated version involves a 500-year history, a rule book that runs over 200 pages, equipment [engineering](/engineering) that borders on aerospace, and a mental challenge that has driven some of the world's best athletes to genuine despair.
 
 ## How the Game Works
 
@@ -47,13 +47,13 @@ Golf looks simple on television. A person hits a ball toward a target. What's ha
 
 Everything. The golf swing is one of the most mechanically complex motions in sports — a full-body rotation generating clubhead speeds over 100 mph, with the club face needing to be square to the target within a degree or two at impact. A fraction of an inch off at the clubface translates to yards off-target 200 yards away.
 
-Then there's the mental component. Golf is played over 4+ hours, with roughly 60-80 individual shots, each requiring full concentration. There's no defense, no teammate to rely on, no flow state like running or swimming. Every shot starts from a dead stop, giving you ample time to think about everything that could go wrong. Professional golfers consider the mental game as important as the physical one — possibly more.
+Then there's the mental component. Golf is played over 4+ hours, with roughly 60-80 individual shots, each requiring full concentration. There's no defense, no teammate to rely on, no flow state like [running](/running) or [swimming](/swimming). Every shot starts from a dead stop, giving you ample time to think about everything that could go wrong. Professional golfers consider the mental game as important as the physical one — possibly more.
 
-And the conditions change constantly. Wind, elevation, temperature, ground firmness, grass type, slope — every variable affects every shot differently. You're solving a new physics problem 70 times per round.
+And the conditions change constantly. Wind, elevation, temperature, ground firmness, grass type, slope — every variable affects every shot differently. You're solving a new [physics](/physics) problem 70 times per round.
 
 ## Origins and History
 
-Golf's origins are debated, but the modern game emerged in Scotland in the 15th century. The oldest known reference is a 1457 Scottish parliamentary act banning golf because it distracted men from archery practice (which was militarily important). The Old Course at St Andrews, established by the 16th century, is considered the "home of golf."
+Golf's origins are debated, but the modern game emerged in Scotland in the 15th century. The oldest known reference is a 1457 Scottish parliamentary act banning golf because it distracted men from [archery](/archery) practice (which was militarily important). The Old Course at St Andrews, established by the 16th century, is considered the "home of golf."
 
 Early golf was rough — literally. Players hit balls across sand dunes and grasslands with crude wooden clubs. The standard 18-hole format became convention because St Andrews happened to have 18 holes, and other courses followed suit.
 
@@ -81,7 +81,7 @@ Golf's culture is a mix of tradition, exclusivity, and genuine passion for the g
 
 But golf is also played at thousands of public courses by people of all backgrounds. Municipal courses charge $20-$50 for a round. Driving ranges let you practice for $10-$15. The sport is genuinely more accessible than its country-club image suggests.
 
-**Walking vs. riding** divides golfers. Purists insist walking the course is the proper way to play — you experience the terrain, get exercise, and maintain the game's rhythm. Practical players prefer golf carts, especially in hot weather or on hilly courses. Most public courses allow both.
+**[Walking](/walking) vs. riding** divides golfers. Purists insist walking the course is the proper way to play — you experience the terrain, get exercise, and maintain the game's rhythm. Practical players prefer golf carts, especially in hot weather or on hilly courses. Most public courses allow both.
 
 ## Why People Love It
 

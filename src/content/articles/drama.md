@@ -5,7 +5,7 @@ description: "Drama is the art of storytelling through performance, from ancient
 category: everyday-concepts
 tags: ["drama", "everyday-concepts"]
 heroImage: "/images/articles/drama.webp"
-heroAlt: "Actors performing on a dramatic stage with theatrical lighting and curtains"
+heroAlt: "Editorial photograph representing the concept of drama"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Drama?
 
-Drama is the branch of literature and performing arts that tells stories through the speech and action of characters performed by actors before an audience. It's one of the oldest art forms — humans have been acting out stories for at least 2,500 years — and arguably the most immediate. A novel requires imagination to bring characters to life. Drama puts living, breathing people in front of you, performing in real time, with no barrier between story and audience.
+Drama is the branch of [literature](/literature) and performing arts that tells stories through the speech and action of characters performed by actors before an audience. It's one of the oldest art forms — humans have been [acting](/acting) out stories for at least 2,500 years — and arguably the most immediate. A novel requires imagination to bring characters to life. Drama puts living, breathing people in front of you, performing in real time, with no barrier between story and audience.
 
 ## Born in Athens
 
@@ -45,17 +45,17 @@ Three Athenian playwrights shaped drama so profoundly that their influence persi
 
 **Euripides** (c. 480-406 BC) made drama psychological, skeptical, and morally ambiguous. His characters doubt the gods, question social norms, and behave with messy human inconsistency. *Medea* — a woman who murders her own children to punish her unfaithful husband — remains shocking and is performed constantly worldwide.
 
-## Tragedy and Comedy
+## Tragedy and [Comedy](/comedy)
 
 Aristotle's *Poetics* (c. 335 BC) defined tragedy as the imitation of a serious action that arouses pity and fear, achieving "catharsis" — an emotional purification. The tragic hero, he argued, should be neither perfectly good nor entirely wicked but a fundamentally decent person brought down by a flaw (hamartia) or error in judgment. This formula described Oedipus perfectly and still describes most dramatic protagonists today.
 
-Comedy, for the Greeks, meant stories that ended happily and satirized contemporary society. Aristophanes wrote comedies attacking politicians, philosophers (including Socrates), and warmongers with a vulgarity and directness that would make modern satirists blush. Comedy's purpose was and remains holding a mirror up to society's absurdities — [making you laugh](/creative-writing) so you can see clearly.
+Comedy, for the Greeks, meant stories that ended happily and satirized contemporary society. Aristophanes wrote comedies attacking politicians, philosophers (including Socrates), and warmongers with a vulgarity and directness that would make modern satirists blush. Comedy's purpose was and remains holding a mirror up to society's absurdities — [making you laugh](/creative-[writing](/writing)) so you can see clearly.
 
 ## Shakespeare and the English Tradition
 
 William Shakespeare (1564-1616) wrote 37 plays that define English-language drama. His tragedies (*Hamlet*, *Macbeth*, *King Lear*, *Othello*) explore ambition, jealousy, madness, and mortality. His comedies (*A Midsummer Night's Dream*, *Much Ado About Nothing*, *Twelfth Night*) celebrate love, confusion, and reconciliation. His histories dramatize English kings and queens with a blend of political insight and crowd-pleasing action.
 
-What made Shakespeare exceptional wasn't just storytelling — it was language. His characters think aloud in verse that captures the texture of consciousness itself. Hamlet's "To be or not to be" soliloquy isn't just famous; it's a genuinely accurate rendering of how an intelligent, depressed person actually thinks — circling, qualifying, doubting.
+What made Shakespeare exceptional wasn't just [storytelling](/storytelling) — it was language. His characters think aloud in verse that captures the texture of consciousness itself. Hamlet's "To be or not to be" soliloquy isn't just famous; it's a genuinely accurate rendering of how an intelligent, depressed person actually thinks — circling, qualifying, doubting.
 
 Shakespeare's theater — the Globe, built in 1599 — was commercial entertainment. Groundlings paid a penny to stand. Wealthy patrons sat in galleries. Plays competed with bear-baiting, taverns, and other diversions. The fact that great art emerged from commercial pressure, not in spite of it, is something modern creators should find encouraging.
 

@@ -5,7 +5,7 @@ description: "Lichenology is the study of lichens, organisms formed by symbiosis
 category: science
 tags: ["lichenology", "lichens", "symbiosis", "biology", "ecology", "fungi", "algae"]
 heroImage: "/images/articles/lichenology-hero.webp"
-heroAlt: "Colorful crustose and foliose lichens growing on weathered rock and tree bark"
+heroAlt: "Editorial photograph representing the concept of lichenology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ There are roughly 20,000 known lichen species, and new ones are described regula
 
 ### Crustose Lichens
 
-These grow as thin crusts tightly adhered to their substrate—you literally cannot peel them off without destroying them. They look like paint splashes on rocks and walls. The bright orange *Xanthoria* on coastal rocks, the white *Lecanora* on limestone walls, and the green-gray *Aspicilia* on mountain boulders are all crustose. This is the most common growth form, accounting for roughly 75% of all lichen species.
+These grow as thin crusts tightly adhered to their substrate—you literally cannot peel them off without destroying them. They look like paint splashes on rocks and walls. The bright orange *Xanthoria* on coastal rocks, the white *Lecanora* on limestone walls, and the green-gray *Aspicilia* on mountain boulders are all crustose. This is the most common growth form, [accounting](/accounting) for roughly 75% of all lichen species.
 
 ### Foliose Lichens
 
@@ -75,7 +75,7 @@ Some lichens don't fit these categories neatly. Squamulose lichens have small, s
 
 ## Lichen Biology: How They Work
 
-### Photosynthesis and Nutrition
+### Photosynthesis and [Nutrition](/nutrition)
 
 The photobiont captures sunlight and converts carbon dioxide into sugars through photosynthesis, just as it would living independently. But in the lichen partnership, the fungus intercepts these sugars—extracting up to 90% of the photobiont's production. This sounds exploitative, and some biologists argue that lichens are better described as "controlled parasitism" than "mutualism."
 
@@ -101,7 +101,7 @@ Lichens are arguably the toughest visible organisms on the planet. They survive 
 
 **Radiation**: Lichens produce pigments and UV-screening compounds that protect against intense radiation. This is one reason they colonize exposed rock surfaces that other organisms avoid.
 
-**Space**: In an ESA experiment (LIFE - Lichens and Fungi in Space), lichens were exposed to the vacuum, radiation, and temperature extremes of outer space for 18 months on the exterior of the International Space Station. They survived and resumed growth back on Earth. This result generated excitement about the possibility of organisms surviving interplanetary transfer—and about lichens as potential candidates for terraforming.
+**Space**: In an ESA experiment (LIFE - Lichens and Fungi in Space), lichens were exposed to the vacuum, radiation, and temperature extremes of outer space for 18 months on the exterior of the International Space Station. They survived and resumed growth back on Earth. This result generated excitement about the possibility of organisms surviving interplanetary transfer—and about lichens as potential candidates for [terraforming](/terraforming).
 
 ## Lichen Chemistry: A Pharmaceutical Treasure Chest
 
@@ -127,7 +127,7 @@ Lichens absorb everything from the air—nutrients, moisture, and pollutants. Be
 
 In polluted areas, sensitive species disappear. Around industrial cities during the 19th and 20th centuries, lichen "deserts" developed—zones where no lichens could survive. As clean air legislation reduced pollution, lichens gradually recolonized. The return of lichens to London after the Clean Air Acts of 1956 and 1968 was one of the most visible signs of improving air quality.
 
-Modern lichen monitoring programs map air quality across large regions by surveying which species are present. Different species have known pollution tolerances, so the lichen community tells you about air quality the way a thermometer tells you about temperature. It's cheaper and more ecologically informative than electronic monitoring, though both approaches are used.
+Modern lichen monitoring programs map air quality across large regions by [surveying](/surveying) which species are present. Different species have known pollution tolerances, so the lichen community tells you about air quality the way a thermometer tells you about temperature. It's cheaper and more ecologically informative than electronic monitoring, though both approaches are used.
 
 ### Climate Change
 
@@ -161,7 +161,7 @@ Reindeer lichens (*Cladonia* species) are the primary winter food source for car
 
 Iceland moss was eaten as a food during famines in Scandinavia. Japanese *iwatake* (rock tripe, *Umbilicaria esculenta*) is considered a delicacy and has been eaten for centuries. Some Aboriginal Australian groups consumed lichen species as part of their diet.
 
-## The Challenges of Lichen Taxonomy
+## The Challenges of Lichen [Taxonomy](/taxonomy)
 
 Classifying lichens has always been a headache for taxonomists, and modern molecular tools have made things more complicated before making them clearer.
 
@@ -183,7 +183,7 @@ Lichens face several threats:
 
 **Collection pressure** affects commercially valuable species. Slow growth means that harvesting lichens—for dyes, medicines, decorations, or the model railroad industry (which uses lichen extensively for miniature landscapes)—can exceed regeneration rates.
 
-**Biological soil crust destruction** from recreation, agriculture, and development threatens desert and grassland lichens that take decades or centuries to recover.
+**Biological soil crust destruction** from recreation, [agriculture](/agriculture), and development threatens desert and grassland lichens that take decades or centuries to recover.
 
 Lichen conservation is challenging because lichens rarely capture public sympathy the way pandas and whales do. They're slow, small, and easily overlooked. But their ecological importance—as nitrogen fixers, soil stabilizers, food sources, and environmental indicators—makes their conservation genuinely important for [environmental-science](/environmental-science).
 

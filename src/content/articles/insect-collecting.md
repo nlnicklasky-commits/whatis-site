@@ -5,7 +5,7 @@ description: "Insect collecting is the practice of finding, preserving, and stud
 category: science
 tags: ["insect collecting", "entomology", "insects", "biodiversity", "taxonomy", "natural history", "ecology"]
 heroImage: "/images/articles/insect-collecting-hero.webp"
-heroAlt: "Pinned butterfly and beetle specimens displayed in an entomological collection case"
+heroAlt: "Editorial photograph representing the concept of insect collecting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Insect Collecting?
 
-Insect collecting is the practice of finding, capturing, preserving, and organizing insect specimens for scientific study, education, or personal interest. It's one of the oldest forms of natural history — people have been pinning beetles and pressing butterflies since at least the 1600s — and it remains one of the most accessible ways to connect with the natural world.
+Insect collecting is the practice of finding, capturing, preserving, and organizing insect specimens for scientific study, [education](/education), or personal interest. It's one of the oldest forms of [natural history](/natural-history) — people have been pinning beetles and pressing butterflies since at least the 1600s — and it remains one of the most accessible ways to connect with the natural world.
 
 There are roughly 1 million described insect species on Earth, and entomologists estimate the actual number could be 5 to 10 million. That means the majority of insect species haven't even been named yet. Every time a collector pins an unfamiliar specimen, there's a real chance it's something nobody has ever formally described. That possibility alone makes insect collecting one of the few hobbies where an amateur can still make genuine scientific contributions.
 
@@ -151,7 +151,7 @@ Beginners should aim for order-level identification first. Learning to distingui
 
 Field guides are available for popular groups like butterflies, dragonflies, and large beetles. For most insect groups, identification beyond family level requires specialized keys — technical documents that walk you through a series of choices based on morphological features.
 
-### Microscopy
+### [Microscopy](/microscopy)
 
 For many insect groups, a dissecting microscope is essential. Tiny wasps, flies, and beetles often can't be identified without examining features invisible to the naked eye — wing venation, body sculpturing, antenna segments, genitalic structures. A decent stereo microscope (20x-40x magnification) opens up a world of detail that transforms identification from guessing to science.
 
@@ -159,7 +159,7 @@ For many insect groups, a dissecting microscope is essential. Tiny wasps, flies,
 
 Nobody identifies everything alone. The [entomology](/entomology) community is remarkably collaborative. Online forums like BugGuide.net, iNaturalist, and various Facebook groups connect collectors with experts who can help with identifications. Museum curators often welcome inquiries from serious collectors.
 
-For difficult groups, specimens may need to be sent to specialists. A parasitic wasp expert might be one of three people in the world who can identify specimens in a particular genus. This level of specialization is both the beauty and the bottleneck of insect taxonomy.
+For difficult groups, specimens may need to be sent to specialists. A parasitic wasp expert might be one of three people in the world who can identify specimens in a particular genus. This level of specialization is both the beauty and the bottleneck of insect [taxonomy](/taxonomy).
 
 ## The Ethics of Collecting
 
@@ -169,7 +169,7 @@ Insect collecting raises legitimate ethical questions that deserve honest discus
 
 The honest answer: for common species, collecting has no measurable population impact. A female housefly can produce 500 eggs. A queen ant can lay millions in her lifetime. Removing a few hundred individuals from a population of millions is biologically insignificant.
 
-For rare and endangered species, the calculus is different. Collecting the last few individuals of an endangered butterfly for your personal collection would be both harmful and likely illegal. Responsible collectors know their local protected species lists and leave rare species alone — or collect only with proper scientific permits.
+For rare and endangered species, the [calculus](/calculus) is different. Collecting the last few individuals of an endangered butterfly for your personal collection would be both harmful and likely illegal. Responsible collectors know their local protected species lists and leave rare species alone — or collect only with proper scientific permits.
 
 The real threats to insect populations are habitat loss, pesticide use, light pollution, and climate change — not collecting. A 2019 review in [Biological Conservation](/biology) estimated that 40% of insect species are declining, and the main drivers were agricultural intensification and urbanization.
 
@@ -191,7 +191,7 @@ The scientific value of insect collections goes far beyond stamp-collecting with
 
 Museum specimens collected over decades or centuries document how species distributions have shifted over time. Comparing where a species was found in 1920 versus 2020 reveals range shifts driven by climate change. This kind of long-term data simply doesn't exist without physical collections.
 
-### Agricultural Pest Management
+### Agricultural Pest [Management](/management)
 
 Identifying agricultural pests accurately is the first step in managing them. Collections of pest species and their natural enemies (parasitoids, predators) are essential references for integrated pest management programs. When a new invasive pest appears, collections help determine where it came from and what might control it.
 

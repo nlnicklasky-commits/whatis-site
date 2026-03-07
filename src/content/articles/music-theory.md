@@ -5,7 +5,7 @@ description: "Music theory is the study of how music works, covering melody, har
 category: arts-amp-culture
 tags: ["music theory", "harmony", "melody", "rhythm", "scales", "music fundamentals"]
 heroImage: "/images/articles/music-theory.webp"
-heroAlt: "Piano keyboard with musical notation overlay showing scales and chord diagrams"
+heroAlt: "Editorial photograph representing the concept of music theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Music Theory?
 
-Music theory is the study of how music works — the rules, patterns, and structures that organize sound into something meaningful. It covers melody (the horizontal aspect of music — notes in sequence), harmony (the vertical aspect — notes sounding simultaneously), rhythm (the organization of sound in time), and form (the large-scale structure of a piece). Think of it as the grammar of music: you can speak a language without knowing its grammar, but understanding it makes you a far more effective communicator.
+Music theory is the study of how music works — the rules, patterns, and structures that organize sound into something meaningful. It covers melody (the horizontal aspect of music — notes in sequence), [harmony](/harmony) (the vertical aspect — notes sounding simultaneously), rhythm (the organization of sound in time), and form (the large-scale structure of a piece). Think of it as the [grammar](/grammar) of music: you can speak a language without knowing its grammar, but understanding it makes you a far more effective communicator.
 
 Here's what most people misunderstand about theory: it's descriptive, not prescriptive. Theory didn't come first and music second. People made music for millennia, and theorists came along afterward to explain why certain combinations of sounds work. The "rules" of music theory are really observations about what composers and musicians have done — and you're free to break any of them.
 
@@ -39,13 +39,13 @@ Here's what most people misunderstand about theory: it's descriptive, not prescr
 
 Western music divides the octave (the interval between one frequency and double that frequency) into 12 equal half steps. These 12 notes — the chromatic scale — are the raw material from which all Western scales and chords are built.
 
-**Major scale** — the familiar do-re-mi-fa-sol-la-ti-do. It follows a specific pattern of whole and half steps: W-W-H-W-W-W-H (where W = whole step and H = half step). The major scale sounds bright, stable, and resolved. C major (all white keys on a piano) is the standard reference.
+**Major scale** — the familiar do-re-mi-fa-sol-la-ti-do. It follows a specific pattern of whole and half steps: W-W-H-W-W-W-H (where W = whole step and H = half step). The major scale sounds bright, stable, and resolved. C major (all white keys on a [piano](/piano)) is the standard reference.
 
 **Minor scale** — darker and more melancholy. The natural minor scale follows W-H-W-W-H-W-W. There are three common minor scale variants (natural, harmonic, melodic), each with slightly different characteristics.
 
 **Modes** — seven different scales that can be built starting on each degree of the major scale. Dorian (used extensively in jazz and rock), Mixolydian (dominant in blues and rock), and Lydian (bright and floating) are the most commonly used beyond major and minor.
 
-**Pentatonic scales** — five-note scales found in virtually every musical culture on earth. The major pentatonic (think "Amazing Grace") and minor pentatonic (the foundation of blues and rock soloing) are the most universal scale structures in world music.
+**Pentatonic scales** — five-note scales found in virtually every musical culture on earth. The major pentatonic (think "Amazing Grace") and minor pentatonic (the foundation of blues and rock soloing) are the most universal scale structures in [world music](/world-music).
 
 ## Harmony and Chords
 
@@ -67,7 +67,7 @@ Rhythm organizes music in time. The basic concepts:
 
 **Meter** — how beats are grouped. 4/4 time (four quarter-note beats per measure) dominates popular music. 3/4 time (waltz time) groups beats in threes. 6/8, 5/4, 7/8, and other meters create different grooves and feels.
 
-**Tempo** — the speed of the beat, measured in beats per minute (BPM). A typical pop song runs 100-130 BPM. A slow ballad might be 60-80. Dance music pushes 120-140+.
+**Tempo** — the speed of the beat, measured in beats per minute (BPM). A typical pop song runs 100-130 BPM. A slow ballad might be 60-80. [Dance](/dance) music pushes 120-140+.
 
 **Syncopation** — accenting beats or subdivisions that are normally weak. Syncopation is what makes music feel funky, swinging, or surprising. Jazz, funk, Latin music, and hip-hop are all heavily syncopated.
 

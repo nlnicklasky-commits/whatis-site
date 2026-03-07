@@ -5,7 +5,7 @@ description: "Bartending is the craft of preparing and serving drinks at a bar, 
 category: everyday-concepts
 tags: ["bartending", "mixology", "cocktails", "bar", "customer service", "hospitality"]
 heroImage: "/images/articles/bartending.webp"
-heroAlt: "Bartender pouring a cocktail through a strainer into a coupe glass at a dimly lit bar"
+heroAlt: "Editorial photograph representing the concept of bartending"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The profession is ancient. The earliest known taverns date to Mesopotamia around
 
 Starting in the early 2000s, a cocktail revival movement transformed bartending. Bars like Milk & Honey in New York and The Violet Hour in Chicago returned to pre-Prohibition techniques and recipes: fresh-squeezed juices instead of premade mixes, hand-chipped ice, house-made syrups and bitters, and careful attention to balance and dilution.
 
-This movement, sometimes called the "craft cocktail renaissance," elevated bartending's prestige and complexity. Top cocktail bars now make their own tonic water, age cocktails in barrels, clarify juices with milk protein, and experiment with techniques borrowed from professional kitchens. The [chemistry](/chemistry) involved — understanding how acids, sugars, aromatics, and dilution interact — is genuine applied food science.
+This movement, sometimes called the "craft cocktail renaissance," elevated bartending's prestige and complexity. Top cocktail bars now make their own tonic water, age cocktails in barrels, clarify juices with milk protein, and experiment with techniques borrowed from professional kitchens. The [chemistry](/chemistry) involved — understanding how acids, sugars, aromatics, and dilution interact — is genuine applied [food science](/food-science).
 
 The result for drinkers: cocktails that taste dramatically better than what most bars served 25 years ago. The result for bartenders: higher expectations, more training, and — at the best establishments — significantly better pay.
 
@@ -63,7 +63,7 @@ In a busy bar, a bartender might serve 200-400 drinks in a shift. Speed comes fr
 
 Free pouring — measuring spirits by counting rather than using a jigger — is standard in high-volume bars. A practiced bartender can pour accurate 1.5-ounce shots consistently while simultaneously making conversation, taking orders, and monitoring the room.
 
-### Customer Management
+### Customer [Management](/management)
 
 The social dimension of bartending is arguably more challenging than the technical one. Bartenders assess customers' moods, manage expectations, handle complaints, and — critically — monitor intoxication levels. Serving visibly intoxicated customers is illegal in most jurisdictions and exposes both the bartender and the establishment to significant [legal liability](/law).
 
@@ -71,7 +71,7 @@ The best bartenders create an atmosphere. They remember regulars' names and drin
 
 ## Behind the Business
 
-Bars operate on tight margins. Liquor typically carries a 75-85% markup (a $6 pour from a $30 bottle), but labor, rent, insurance, licensing, and breakage eat into those margins significantly. [Restaurant management](/restaurant-management) principles apply — inventory control, cost tracking, staff scheduling, and regulatory compliance are all part of running a bar.
+Bars operate on tight margins. Liquor typically carries a 75-85% markup (a $6 pour from a $30 bottle), but labor, rent, [insurance](/insurance), licensing, and breakage eat into those margins significantly. [Restaurant management](/restaurant-management) principles apply — inventory control, cost tracking, staff [scheduling](/scheduling), and regulatory compliance are all part of [running](/running) a bar.
 
 Bartenders directly affect a bar's profitability through upselling (suggesting premium spirits or add-ons), speed (more drinks per hour means more revenue), waste control (over-pouring is expensive), and customer retention (regulars are the backbone of most bar businesses).
 

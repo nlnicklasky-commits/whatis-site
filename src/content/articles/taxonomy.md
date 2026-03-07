@@ -5,7 +5,7 @@ description: "Taxonomy is the science of classifying and naming organisms into h
 category: science
 tags: ["taxonomy", "biology", "classification", "nomenclature", "species", "genus", "kingdom", "phylum"]
 heroImage: "/images/articles/taxonomy.webp"
-heroAlt: "A branching tree diagram showing the classification of organisms from kingdom to species, illustrated with diverse plants and animals"
+heroAlt: "Editorial photograph representing the concept of taxonomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ Earth is home to an almost incomprehensible number of living things. Scientists 
 
 Without a systematic way to classify organisms, we'd have no reliable way to communicate about them. Consider this: what you call a "daddy longlegs" could refer to a harvestman (an arachnid that isn't a spider), a cellar spider (which is a spider), or a crane fly (which is an insect). Three completely different animals, one common name. Scientific names eliminate this confusion. The harvestman is *Phalangium opilio*. The cellar spider is *Pholcus phalangioides*. The crane fly is *Tipula oleracea*. No ambiguity.
 
-Taxonomy also matters because classification reveals relationships. When you know that whales are more closely related to hippos than to fish, or that mushrooms are more closely related to you than to plants — those aren't just fun facts. They're insights into how evolution works, and they have practical implications for medicine, agriculture, and conservation.
+Taxonomy also matters because classification reveals relationships. When you know that whales are more closely related to hippos than to fish, or that mushrooms are more closely related to you than to plants — those aren't just fun facts. They're insights into how evolution works, and they have practical implications for medicine, [agriculture](/agriculture), and conservation.
 
 ## A Brief History of Classification
 
@@ -150,9 +150,9 @@ The principles of taxonomy — classification, hierarchy, naming conventions —
 
 **Information science** — website navigation, library classification systems (Dewey Decimal, Library of Congress), and database organization all use taxonomic principles. When you browse categories on any website, you're using a taxonomy.
 
-**Linguistics** — languages are classified into families, branches, and groups using methods that parallel biological taxonomy. The Indo-European language family, for instance, branches into Germanic, Romance, Slavic, and other subfamilies.
+**[Linguistics](/linguistics)** — languages are classified into families, branches, and groups using methods that parallel biological taxonomy. The Indo-European language family, for instance, branches into Germanic, Romance, Slavic, and other subfamilies.
 
-**Soil science** — the USDA Soil Taxonomy classifies soils into 12 orders based on their properties and formation processes. It's used worldwide for agriculture, engineering, and environmental management.
+**[Soil science](/soil-science)** — the USDA Soil Taxonomy classifies soils into 12 orders based on their properties and formation processes. It's used worldwide for agriculture, [engineering](/engineering), and environmental management.
 
 **Business and marketing** — product taxonomies organize inventory, customer taxonomies segment audiences, and content taxonomies structure information. The term has been thoroughly adopted by the corporate world, though a Linnaean purist might wince at some of the applications.
 
@@ -162,7 +162,7 @@ Several trends are reshaping how we classify life:
 
 **Genomics and metagenomics** — rather than studying one organism at a time, scientists can now sequence all the DNA in an environmental sample. Soil, seawater, and even air contain DNA from thousands of organisms, many of them unknown to science. This approach has revealed vast microbial diversity we never knew existed.
 
-**Machine learning** — [algorithms](/algorithms) are being trained to identify species from photographs, sounds, and genetic sequences. Apps like iNaturalist use image recognition to help anyone identify plants, animals, and fungi from their phone. These tools don't replace taxonomists, but they extend taxonomic identification to millions of non-specialists.
+**[Machine learning](/machine-learning)** — [algorithms](/algorithms) are being trained to identify species from photographs, sounds, and genetic sequences. Apps like iNaturalist use image recognition to help anyone identify plants, animals, and fungi from their phone. These tools don't replace taxonomists, but they extend taxonomic identification to millions of non-specialists.
 
 **The open taxonomy movement** — databases like the Catalogue of Life, GBIF (Global Biodiversity Information Facility), and the Encyclopedia of Life aim to make taxonomic information freely available online. The goal is a complete, open-access catalog of every known species.
 
@@ -172,4 +172,4 @@ Several trends are reshaping how we classify life:
 
 Taxonomy might seem like dusty museum work — experts peering through magnifying glasses at pinned beetles. And yes, some of it involves exactly that. But it's also the foundation of all biological science. You can't study [ecology](/ecology), medicine, agriculture, or conservation without knowing what species you're dealing with.
 
-Every drug derived from a natural organism, every pest control strategy, every conservation plan, every understanding of disease transmission — all of it depends on accurate species identification. Taxonomy is the unglamorous scaffolding that makes the rest of biology possible. And with millions of species still undiscovered, the work is far from done.
+Every drug derived from a natural organism, every pest control strategy, every conservation plan, every understanding of disease transmission — all of it depends on accurate species identification. Taxonomy is the unglamorous [scaffolding](/scaffolding) that makes the rest of biology possible. And with millions of species still undiscovered, the work is far from done.

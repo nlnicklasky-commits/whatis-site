@@ -5,7 +5,7 @@ description: "Scanning electron microscopy uses focused electron beams to image 
 category: science
 tags: ["sem", "electron microscope", "microscopy", "nanotechnology", "materials science", "surface analysis"]
 heroImage: "/images/articles/scanning-electron-microscopy-hero.webp"
-heroAlt: "Scanning electron microscope image showing detailed surface topography at high magnification"
+heroAlt: "Editorial photograph representing the concept of scanning electron microscopy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "SEM images have a remarkable three-dimensional appearance because of how secondary electrons are detected. Surfaces tilted toward the detector emit more electrons (appearing brighter) while surfaces facing away emit fewer (appearing darker). This creates natural-looking shadows and highlights that your brain interprets as depth and topography—similar to how shadows make objects look three-dimensional in a photograph."
 ---
 
-# What Is Scanning Electron Microscopy?
+# What Is Scanning [Electron Microscopy](/electron-microscopy)?
 
 Scanning electron microscopy (SEM) is an imaging technique that uses a focused beam of electrons to scan across a sample's surface, producing highly detailed images of its topography and composition at magnifications up to 500,000x and resolutions as fine as 1 nanometer. Unlike optical microscopes that use light and glass lenses, SEM uses electrons and electromagnetic lenses, bypassing the fundamental resolution limit of visible light (about 200 nanometers) and revealing a world of surface detail invisible to any conventional microscope.
 
@@ -154,17 +154,17 @@ SEM is arguably the most critical analytical tool in semiconductor manufacturing
 
 Modern logic chips have features as small as 3-5 nm. Only electron beam instruments can resolve these dimensions. The semiconductor industry operates tens of thousands of SEMs worldwide, many running 24/7 in automated inspection modes. [Digital signal processing](/digital-signal-processing) algorithms process SEM images to extract measurements and identify defects automatically.
 
-### Materials Science and Metallurgy
+### [Materials Science](/materials-science) and Metallurgy
 
 SEM reveals the microstructure that determines a material's properties. Grain size and shape, phase distribution, precipitate morphology, fracture surfaces, corrosion products, coating thickness, weld integrity—all are routinely examined by SEM.
 
 Fractography—the study of fracture surfaces—is perhaps the most dramatically visual SEM application. A fractured metal surface that looks smooth and featureless to the naked eye reveals intricate detail under SEM: ductile dimples, brittle cleavage facets, fatigue striations, intergranular cracking, and inclusions that initiated failure. A skilled fractographer can read a fracture surface like a book, reconstructing the stress state, crack propagation direction, and failure mechanism from the SEM images alone.
 
-### Forensic Science
+### [Forensic Science](/forensic-science)
 
 Forensic SEM-EDS identifies gunshot residue particles (unique spheres of lead, barium, and antimony), matches paint chips to vehicle sources, analyzes fiber evidence, and examines tool marks. The elemental analysis capability is particularly powerful—it can determine the composition of trace evidence too small to analyze by other methods.
 
-### Geology and Paleontology
+### Geology and [Paleontology](/paleontology)
 
 SEM reveals the microscopic world of rocks, minerals, and fossils. Pollen grains, diatoms, foraminifera, and other microfossils are routinely imaged and identified by SEM. Clay mineral morphology, volcanic ash particle shapes, and sedimentary grain surface textures provide information about depositional environments and geological history.
 
@@ -218,6 +218,6 @@ For industrial quality control requiring frequent SEM use, a tabletop SEM may pa
 
 ## The Big Picture
 
-Scanning electron microscopy opened a window into a world our eyes can't see. Before SEM, the surfaces of materials, the shapes of microorganisms, the architecture of fractured metals, and the topography of semiconductor circuits were either invisible or crudely imagined. SEM made them visible with startling clarity and detail.
+Scanning electron microscopy opened a window into a world our eyes can't see. Before SEM, the surfaces of materials, the shapes of microorganisms, the [architecture](/architecture) of fractured metals, and the topography of semiconductor circuits were either invisible or crudely imagined. SEM made them visible with startling clarity and detail.
 
 The iconic SEM images—a fly's compound eye, a pollen grain's intricate surface, the branching crystallites of a metal fracture—have become part of our visual culture. They remind us that the world at the nanoscale is just as complex, beautiful, and surprising as the world we see with our own eyes. And unlike so many technologies that have come and gone, SEM after 60 years remains indispensable. It's hard to think of another scientific instrument that serves so many different fields so effectively.

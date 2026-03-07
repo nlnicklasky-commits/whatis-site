@@ -5,7 +5,7 @@ description: "Doll making is the craft of creating dolls from various materials.
 category: arts-amp-culture
 tags: ["doll making", "arts-amp-culture"]
 heroImage: "/images/articles/doll-making.webp"
-heroAlt: "A handcrafted porcelain doll with detailed painted features and a fabric dress on a workbench"
+heroAlt: "Editorial photograph representing the concept of doll making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Doll Making?
 
-Doll making is the craft of creating human or humanoid figures from materials like fabric, clay, porcelain, wood, or resin. It ranges from simple sewn rag dolls to hyper-realistic sculpted figures that blur the line between toy and fine art. Humans have been making dolls for at least 4,000 years — they're among the oldest known manufactured objects — and the craft remains vibrant today, sustained by artisan makers, collectors, and a renewed appreciation for handmade objects.
+Doll making is the craft of creating human or humanoid figures from materials like fabric, clay, porcelain, wood, or resin. It ranges from simple sewn rag dolls to hyper-realistic sculpted figures that blur the line between toy and [fine art](/fine-art). Humans have been making dolls for at least 4,000 years — they're among the oldest known manufactured objects — and the craft remains vibrant today, sustained by artisan makers, collectors, and a renewed appreciation for handmade objects.
 
 ## Ancient Roots
 
@@ -45,11 +45,11 @@ The dolls people make reflect what those people value. Victorian porcelain dolls
 
 **Cloth and fabric dolls** are the most accessible starting point. Patterns range from simple flat shapes (like traditional Amish dolls, intentionally faceless) to complex three-dimensional soft [sculpture](/sculpture) with wire armatures, needle-sculpted features, and elaborate costuming. Waldorf dolls, with their simple knit bodies and minimal features, encourage imaginative play through deliberate simplicity.
 
-**Polymer clay** (brands like Sculpey and Fimo) revolutionized artisan doll making when it became widely available in the 1980s. It cures in a home oven, takes fine detail, and can be sanded, painted, and finished to remarkable smoothness. Many modern art dollmakers sculpt heads and hands from polymer clay while using fabric for bodies.
+**Polymer clay** (brands like Sculpey and Fimo) revolutionized artisan doll making when it became widely available in the 1980s. It cures in a home oven, takes fine detail, and can be sanded, painted, and finished to remarkable smoothness. Many [modern art](/modern-art) dollmakers sculpt heads and hands from polymer clay while using fabric for bodies.
 
-**Porcelain** is the traditional fine doll material. The process involves pouring liquid porcelain (slip) into plaster molds, drying, firing in a kiln at 2,300°F, painting features with china paints, and firing again. It's time-intensive and requires specialized equipment, but porcelain's luminous, skin-like quality is unmatched by other materials.
+**Porcelain** is the traditional fine doll material. The process involves pouring liquid porcelain (slip) into plaster molds, drying, firing in a kiln at 2,300°F, [painting](/painting) features with china paints, and firing again. It's time-intensive and requires specialized equipment, but porcelain's luminous, skin-like quality is unmatched by other materials.
 
-**Wood carving** produces folk dolls with distinctive character — German nutcrackers, Russian nesting dolls (matryoshka), Pinocchio-style jointed figures, and the whittled folk dolls of Appalachian tradition. Each carving tradition carries the aesthetic sensibility of its culture.
+**[Wood carving](/wood-carving)** produces folk dolls with distinctive character — German nutcrackers, Russian nesting dolls (matryoshka), Pinocchio-style jointed figures, and the whittled folk dolls of Appalachian tradition. Each carving tradition carries the aesthetic sensibility of its culture.
 
 **Resin casting** allows makers to produce limited editions from original sculpts. The artist creates a master in clay, makes a silicone mold, and casts copies in resin. Ball-jointed dolls (BJDs) — strung with elastic so every joint poses — are commonly produced this way and have a passionate global collecting community.
 

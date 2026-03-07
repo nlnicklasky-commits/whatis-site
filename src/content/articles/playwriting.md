@@ -5,7 +5,7 @@ description: "Playwriting is the craft of writing scripts for theatrical perform
 category: arts-amp-culture
 tags: ["theater", "drama", "scriptwriting", "writing", "performing arts", "storytelling"]
 heroImage: "/images/articles/playwriting.webp"
-heroAlt: "Open script on a stage with dramatic lighting in the background"
+heroAlt: "Editorial photograph representing the concept of playwriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Playwriting?
 
-Playwriting is the art and craft of writing scripts intended for live theatrical performance. A playwright creates the dialogue, stage directions, and dramatic structure that actors, directors, and designers use to build a production. Unlike novels or films, plays are written to be performed in real time, in front of a live audience, with no second takes.
+Playwriting is the art and craft of [writing](/writing) scripts intended for live theatrical performance. A playwright creates the dialogue, stage directions, and dramatic structure that actors, directors, and designers use to build a production. Unlike novels or films, plays are written to be performed in real time, in front of a live audience, with no second takes.
 
 ## Writing for the Stage, Not the Page
 
@@ -70,9 +70,9 @@ Arthur Miller's stage directions in *Death of a Salesman* are famously literary 
 
 Great dramatic dialogue sounds like natural speech but isn't. Real conversation is full of "um," "uh," false starts, tangents, and dead air. Stage dialogue is compressed, purposeful, and layered — but it has to *feel* natural.
 
-Each character should have a distinct voice. You should be able to cover the character names and still know who's speaking based on vocabulary, rhythm, sentence length, and verbal habits. David Mamet's characters speak in clipped, overlapping fragments. Tennessee Williams's characters pour out ornate Southern poetry. Tony Kushner's characters build elaborate intellectual arguments while falling apart emotionally.
+Each character should have a distinct voice. You should be able to cover the character names and still know who's speaking based on vocabulary, rhythm, sentence length, and verbal habits. David Mamet's characters speak in clipped, overlapping fragments. Tennessee Williams's characters pour out ornate Southern [poetry](/poetry). Tony Kushner's characters build elaborate intellectual arguments while falling apart emotionally.
 
-**Subtext** is the most important concept in dramatic dialogue. Characters rarely say exactly what they mean. A conversation about the weather might really be about a failing marriage. A disagreement about dinner plans might really be about power and control. The gap between what characters say and what they actually mean — that's where the drama lives.
+**Subtext** is the most important concept in dramatic dialogue. Characters rarely say exactly what they mean. A conversation about the weather might really be about a failing marriage. A disagreement about dinner plans might really be about power and control. The gap between what characters say and what they actually mean — that's where the [drama](/drama) lives.
 
 Harold Pinter built an entire career on this. His plays are full of pauses, silences, and seemingly mundane exchanges that vibrate with unspoken threat or desire. Critics called it "Pinteresque," and the word stuck.
 
@@ -86,7 +86,7 @@ But something has to be *wrong*. Something has to need resolving. Otherwise, you
 
 ## A Very Brief History
 
-Western theater begins with the ancient Greeks — Aeschylus, Sophocles, Euripides, and Aristophanes, writing in Athens around 500-400 BCE. They established tragedy and comedy as distinct forms, invented the concept of dramatic structure (Aristotle codified it in *Poetics* around 335 BCE), and created works still performed 2,500 years later.
+Western theater begins with the ancient Greeks — Aeschylus, Sophocles, Euripides, and Aristophanes, writing in Athens around 500-400 BCE. They established tragedy and [comedy](/comedy) as distinct forms, invented the concept of dramatic structure (Aristotle codified it in *Poetics* around 335 BCE), and created works still performed 2,500 years later.
 
 Shakespeare (1564-1616) wrote 37 plays that essentially defined English-language drama. His influence on playwriting — structure, character, language, the mixing of comedy and tragedy — is impossible to overstate.
 

@@ -5,7 +5,7 @@ description: "Locksmithing is the trade of making, installing, and opening locks
 category: everyday-concepts
 tags: ["locksmithing", "locks", "security", "trade skills", "keys", "lock picking"]
 heroImage: "/images/articles/locksmithing.webp"
-heroAlt: "Locksmith working on a door lock mechanism with specialized tools"
+heroAlt: "Editorial photograph representing the concept of locksmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Locksmithing?
 
-Locksmithing is the skilled trade of designing, installing, adjusting, repairing, and defeating lock mechanisms. Locksmiths make keys, re-key locks, open locked doors for people who've lost their keys, install security hardware, and — yes — know how to pick locks. The trade is roughly 4,000 years old, making it one of the oldest security professions on the planet.
+Locksmithing is the skilled [trade](/trade) of designing, installing, adjusting, repairing, and defeating lock mechanisms. Locksmiths make keys, re-key locks, open locked doors for people who've lost their keys, install security hardware, and — yes — know how to pick locks. The trade is roughly 4,000 years old, making it one of the oldest security professions on the planet.
 
 ## A Short History of Locks
 
@@ -39,7 +39,7 @@ The oldest known lock was found in the ruins of the palace of Khorsabad near Nin
 
 Metal locks appeared in Rome, where wealthy citizens used small metal devices carried on rings (the origin of the keyring). But lock technology remained fairly primitive for centuries. Medieval locks were large, crude affairs — security through size and brute strength rather than mechanical cleverness.
 
-The real revolution came in the 18th and 19th centuries. Robert Barron patented the double-acting lever tumbler lock in 1778. Jeremiah Chubb improved it in 1818. And in 1848, Linus Yale Sr. invented the modern pin tumbler lock — the mechanism you'll find in roughly 90% of residential doors today. His son, Linus Yale Jr., refined it further and founded the Yale Lock Manufacturing Company.
+The real revolution came in the 18th and 19th centuries. Robert Barron patented the double-[acting](/acting) lever tumbler lock in 1778. Jeremiah Chubb improved it in 1818. And in 1848, Linus Yale Sr. invented the modern pin tumbler lock — the mechanism you'll find in roughly 90% of residential doors today. His son, Linus Yale Jr., refined it further and founded the Yale Lock Manufacturing Company.
 
 ## What Locksmiths Actually Do
 
@@ -64,7 +64,7 @@ A locksmith's toolkit includes:
 - **Pick sets** — thin metal tools inserted into the lock to manipulate internal components
 - **Tension wrenches** — applied to the lock cylinder to create rotational pressure while picking
 - **Key machines** — mechanical or computerized devices that cut keys from blanks
-- **Plug followers** — cylindrical tools used when re-keying to prevent springs from popping out
+- **Plug followers** — cylindrical tools used when re-keying to prevent [springs](/springs) from popping out
 - **Scope and decoder tools** — for reading internal lock configurations
 - **Impressioning tools** — for creating keys by inserting a blank and reading the marks left by the pins
 - **Drill and extraction tools** — for destructive entry as a last resort

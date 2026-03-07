@@ -5,7 +5,7 @@ description: "Western philosophy is the tradition of rational inquiry from ancie
 category: science-technology
 tags: ["western philosophy", "philosophy", "ancient Greece", "ethics", "metaphysics", "epistemology"]
 heroImage: "/images/articles/western-philosophy.webp"
-heroAlt: "Classical marble bust of a Greek philosopher against a library background"
+heroAlt: "Editorial photograph representing the concept of western philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Western philosophy is the tradition of systematic inquiry into fundamental quest
 
 Around 585 BCE, a man named Thales of Miletus asked what everything is made of. His answer — water — was wrong. But the question itself was revolutionary. Instead of explaining the world through myths about gods, Thales tried to find a natural, rational explanation. That shift — from mythological to rational explanation — is where Western philosophy begins.
 
-The Pre-Socratic philosophers (Thales, Anaximander, Heraclitus, Parmenides, Democritus) spent roughly 150 years arguing about the basic nature of reality. Heraclitus said everything is change ("you can't step in the same river twice"). Parmenides said change is an illusion and only permanent being is real. Democritus proposed that everything is made of tiny indivisible particles — atoms — in the 5th century BCE, about 2,300 years before modern physics confirmed something remarkably similar.
+The Pre-Socratic philosophers (Thales, Anaximander, Heraclitus, Parmenides, Democritus) spent roughly 150 years arguing about the basic nature of reality. Heraclitus said everything is change ("you can't step in the same river twice"). Parmenides said change is an illusion and only permanent being is real. Democritus proposed that everything is made of tiny indivisible particles — atoms — in the 5th century BCE, about 2,300 years before modern [physics](/physics) confirmed something remarkably similar.
 
 ## Socrates, Plato, Aristotle
 
@@ -45,15 +45,15 @@ These three thinkers — operating in Athens between roughly 470 and 322 BCE —
 
 **Socrates** (470-399 BCE) wrote nothing. Everything we know comes from his students, primarily Plato. His method was relentless questioning — the "Socratic method" — asking people to define concepts like justice, courage, and virtue, then showing through follow-up questions that their definitions contained contradictions. He was executed by Athens for "corrupting the youth" and "impiety." He could have escaped but chose to accept the sentence, arguing that undermining the law would be worse than dying.
 
-**Plato** (428-348 BCE) wrote dialogues featuring Socrates as the main character. His most famous idea is the Theory of Forms — the claim that the physical world is a shadow of a higher reality of perfect, eternal Forms. The chair you're sitting in is an imperfect copy of the Form of "Chair." Mathematical truths (2+2=4) exist independently of physical objects. This sounds strange, but some version of Plato's argument about abstract objects remains alive in mathematics and philosophy today.
+**Plato** (428-348 BCE) wrote dialogues featuring Socrates as the main character. His most famous idea is the Theory of Forms — the claim that the physical world is a shadow of a higher reality of perfect, eternal Forms. The chair you're sitting in is an imperfect copy of the Form of "Chair." Mathematical truths (2+2=4) exist independently of physical objects. This sounds strange, but some version of Plato's argument about abstract objects remains alive in [mathematics](/mathematics) and philosophy today.
 
-**Aristotle** (384-322 BCE) was Plato's student and disagreed with him on almost everything. Where Plato looked beyond the physical world, Aristotle examined it. He classified animals, analyzed political systems, developed formal logic, wrote about ethics, physics, metaphysics, poetry, and rhetoric. His influence on Western thought is almost impossible to overstate — for roughly 1,500 years, "the Philosopher" meant Aristotle.
+**Aristotle** (384-322 BCE) was Plato's student and disagreed with him on almost everything. Where Plato looked beyond the physical world, Aristotle examined it. He classified animals, analyzed political systems, developed formal logic, wrote about ethics, physics, [metaphysics](/metaphysics), poetry, and [rhetoric](/rhetoric). His influence on Western thought is almost impossible to overstate — for roughly 1,500 years, "the Philosopher" meant Aristotle.
 
 ## The Medieval Period
 
 After Rome fell, Greek philosophy was preserved largely by Islamic scholars (particularly in Baghdad and Cordoba) who translated, studied, and extended Aristotle and Plato while European learning declined. Thinkers like Avicenna (Ibn Sina, 980-1037) and Averroes (Ibn Rushd, 1126-1198) were crucial links in philosophy's survival.
 
-When Aristotle's works returned to Christian Europe in the 12th and 13th centuries, they created a crisis: how do you reconcile Greek reason with Christian faith? Thomas Aquinas (1225-1274) spent his career on this problem, producing a synthesis of Aristotelian philosophy and Catholic theology that remains the official philosophical framework of the Catholic Church.
+When Aristotle's works returned to Christian Europe in the 12th and 13th centuries, they created a crisis: how do you reconcile Greek reason with Christian faith? Thomas Aquinas (1225-1274) spent his career on this problem, producing a synthesis of Aristotelian philosophy and Catholic [theology](/theology) that remains the official philosophical framework of the Catholic Church.
 
 ## The Modern Revolution
 
@@ -75,14 +75,14 @@ Kant also produced an enormously influential ethical theory: the categorical imp
 
 After Kant, philosophy fractured into competing movements.
 
-**German Idealism** (Hegel, Fichte, Schelling) built elaborate systems explaining all of reality through consciousness and dialectical development. Marx took Hegel's dialectic and turned it toward economics and class struggle — philosophy with revolutionary practical consequences.
+**German Idealism** (Hegel, Fichte, Schelling) built elaborate systems explaining all of reality through consciousness and dialectical development. Marx took Hegel's dialectic and turned it toward [economics](/economics) and class struggle — philosophy with revolutionary practical consequences.
 
-**Existentialism** (Kierkegaard, Nietzsche, Heidegger, Sartre, de Beauvoir) focused on individual existence, freedom, and meaning. Nietzsche declared "God is dead" — not as a celebration but as a diagnosis of a culture that had lost its foundations. Sartre argued that existence precedes essence: you aren't born with a fixed nature. You create yourself through choices.
+**[Existentialism](/existentialism)** (Kierkegaard, Nietzsche, Heidegger, Sartre, de Beauvoir) focused on individual existence, freedom, and meaning. Nietzsche declared "God is dead" — not as a celebration but as a diagnosis of a culture that had lost its foundations. Sartre argued that existence precedes essence: you aren't born with a fixed nature. You create yourself through choices.
 
 **Analytic philosophy** (Russell, Wittgenstein, the Vienna Circle) dominated English-speaking universities from the early 1900s onward. It emphasized logical analysis, linguistic clarity, and close engagement with science. Wittgenstein's work on language — first the Tractatus (1921), then the Philosophical Investigations (1953) — reshaped how philosophers think about meaning, mind, and rules.
 
 ## Philosophy Now
 
-Contemporary Western philosophy is fragmented but active. Philosophy of mind grapples with consciousness — why does physical brain activity produce subjective experience? Political philosophy debates justice, rights, and inequality. Applied ethics tackles questions about AI, genetic engineering, climate change, and animal rights.
+Contemporary Western philosophy is fragmented but active. [Philosophy of mind](/philosophy-of-mind) grapples with consciousness — why does physical brain activity produce subjective experience? [Political philosophy](/political-philosophy) debates justice, rights, and inequality. Applied ethics tackles questions about AI, genetic [engineering](/engineering), climate change, and animal rights.
 
 The questions Thales asked 2,600 years ago — what is real, what can we know, how should we live — remain open. Philosophy doesn't produce final answers the way science sometimes does. What it produces is clearer thinking, better arguments, and a persistent refusal to accept "because I said so" as a reason for anything.

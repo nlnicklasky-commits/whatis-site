@@ -5,7 +5,7 @@ description: "Natural disasters are extreme geological or weather events that ca
 category: everyday-concepts
 tags: ["natural disasters", "earthquakes", "hurricanes", "floods", "emergency preparedness", "geology"]
 heroImage: "/images/articles/natural-disasters.webp"
-heroAlt: "Dramatic aerial view of a flooded landscape showing the scale of a natural disaster"
+heroAlt: "Editorial photograph representing the concept of natural disasters"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ A natural disaster is a catastrophic event caused by natural processes of the Ea
 
 ## The Distinction That Matters
 
-Here's something that often gets overlooked: nature doesn't produce disasters. Nature produces hazards. An earthquake in an uninhabited desert isn't a disaster — it's just geology doing its thing. That same earthquake under a densely populated city with poorly constructed buildings? That's a disaster.
+Here's something that often gets overlooked: nature doesn't produce disasters. Nature produces hazards. An earthquake in an uninhabited desert isn't a disaster — it's just [geology](/geology) doing its thing. That same earthquake under a densely populated city with poorly constructed buildings? That's a disaster.
 
 This distinction matters because it means the severity of a "natural" disaster depends heavily on human choices. Where we build. How we build. Whether we have early warning systems. How prepared our emergency services are. The 2010 Haiti earthquake (magnitude 7.0) killed over 200,000 people. The 2010 Chile earthquake (magnitude 8.8 — over 500 times more energy) killed 525. The difference was building codes, infrastructure, and emergency preparedness.
 
@@ -61,11 +61,11 @@ This distinction matters because it means the severity of a "natural" disaster d
 
 **Floods** are the most common and widespread natural disaster globally. They kill more people worldwide than any other type of natural disaster. Flash floods are especially dangerous because they develop within minutes to hours, giving little warning.
 
-**Droughts** are prolonged periods of below-normal precipitation. They develop slowly but can devastate agriculture, trigger famine, and strain water supplies for years. The Dust Bowl of the 1930s displaced 2.5 million Americans.
+**Droughts** are prolonged periods of below-normal precipitation. They develop slowly but can devastate [agriculture](/agriculture), trigger famine, and strain water supplies for years. The Dust Bowl of the 1930s displaced 2.5 million Americans.
 
 ### Fire-Related Disasters
 
-**Wildfires** burn millions of acres annually worldwide. Climate change, land management practices, and expanding human development into wildfire-prone areas have made fire seasons longer and more destructive. The 2020 U.S. wildfire season burned over 10 million acres.
+**Wildfires** burn millions of acres annually worldwide. Climate change, land [management](/management) practices, and expanding human development into wildfire-prone areas have made fire seasons longer and more destructive. The 2020 U.S. wildfire season burned over 10 million acres.
 
 ## The Human and Economic Toll
 
@@ -83,7 +83,7 @@ Tsunami warning systems in the Pacific and Indian Oceans can issue alerts within
 
 ## Preparedness Is Everything
 
-Individual preparedness makes a measurable difference. FEMA recommends that every household maintain at least 72 hours of emergency supplies: water (one gallon per person per day), non-perishable food, flashlights, batteries, first aid kit, medications, copies of important documents, and cash.
+Individual preparedness makes a measurable difference. FEMA recommends that every household maintain at least 72 hours of emergency supplies: water (one gallon per person per day), non-perishable food, flashlights, batteries, [first aid](/first-aid) kit, medications, copies of important documents, and cash.
 
 Beyond the supply kit, knowing your area's specific risks matters. If you live in an earthquake zone, secure heavy furniture to walls and know how to shut off gas lines. In hurricane territory, have a plan for evacuation and know your flood zone. In tornado country, identify your shelter location before you need it.
 

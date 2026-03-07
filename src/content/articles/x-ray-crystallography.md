@@ -5,7 +5,7 @@ description: "X-ray crystallography is a technique that determines the atomic st
 category: science
 tags: ["crystallography", "x-rays", "chemistry", "biology"]
 heroImage: "/images/articles/x-ray-crystallography.webp"
-heroAlt: "A colorful diffraction pattern of dots projected on a detector from an X-ray crystallography experiment"
+heroAlt: "Editorial photograph representing the concept of x-ray crystallography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Before you can shoot X-rays at something, you need a crystal of it. A crystal is
 
 For simple minerals and salts, crystals occur naturally or grow easily from solution. For proteins and other biological molecules, crystal growth is the hardest part of the entire process. Protein crystallization is sometimes called "the bottleneck" because many proteins resist forming ordered crystals.
 
-The basic approach is to slowly reduce a protein's solubility in solution until it precipitates -- but in an ordered way rather than as an amorphous clump. Crystallographers screen hundreds of conditions: different salt concentrations, pH values, temperatures, and precipitating agents. They use tiny drops (often just 1-2 microliters) in multi-well plates, and success can take months of patient optimization.
+The basic approach is to slowly reduce a protein's solubility in solution until it precipitates -- but in an ordered way rather than as an amorphous clump. Crystallographers screen hundreds of conditions: different salt concentrations, pH values, temperatures, and precipitating agents. They use tiny drops (often just 1-2 microliters) in multi-well plates, and success can take months of patient [optimization](/optimization).
 
 Some proteins have resisted crystallization for decades. Membrane proteins -- which sit in the oily cell membrane rather than floating in water -- are notoriously difficult because they need detergents to stay soluble, and those detergents interfere with crystal packing.
 
@@ -145,7 +145,7 @@ Today, pharmaceutical companies routinely use crystallography during drug develo
 
 ### Materials Science
 
-[Crystallography](/crystallography) is essential for understanding material properties. The arrangement of atoms in a metal determines its strength, ductility, and conductivity. Semiconductor physics depends on knowing exact crystal structures. Ceramic, polymer, and composite material properties all relate to their crystalline or semi-crystalline structures.
+[Crystallography](/crystallography) is essential for understanding material properties. The arrangement of atoms in a metal determines its strength, ductility, and conductivity. [Semiconductor physics](/semiconductor-physics) depends on knowing exact crystal structures. Ceramic, polymer, and composite material properties all relate to their crystalline or semi-crystalline structures.
 
 The development of new materials -- from stronger alloys to better solar cells to superconductors -- relies on crystallographic characterization at every stage.
 
@@ -155,11 +155,11 @@ Mineral identification, soil analysis, and gemstone characterization use powder 
 
 ## Cryo-EM: The New Kid on the Block
 
-Cryo-electron microscopy (cryo-EM) has emerged as a powerful alternative to X-ray crystallography, especially for large biological molecules. In cryo-EM, molecules are flash-frozen in a thin layer of ice and imaged directly by an electron microscope. Computational averaging of thousands of images produces three-dimensional reconstructions.
+Cryo-[electron microscopy](/electron-microscopy) (cryo-EM) has emerged as a powerful alternative to X-ray crystallography, especially for large biological molecules. In cryo-EM, molecules are flash-frozen in a thin layer of ice and imaged directly by an electron microscope. Computational averaging of thousands of images produces three-dimensional reconstructions.
 
 Cryo-EM's big advantage: no crystals needed. This opens up structures that have resisted crystallization for decades -- membrane proteins in their native lipid environments, large multi-component complexes, and flexible molecules that don't pack neatly into crystal lattices.
 
-The "resolution revolution" in cryo-EM (recognized with the 2017 Nobel Prize in Chemistry, awarded to Jacques Dubochet, Joachim Frank, and Richard Henderson) was driven by better electron detectors and image processing algorithms. Modern cryo-EM routinely achieves resolutions below 3 A, approaching crystallographic quality.
+The "resolution revolution" in cryo-EM (recognized with the 2017 Nobel Prize in Chemistry, awarded to Jacques Dubochet, Joachim Frank, and Richard Henderson) was driven by better electron detectors and [image processing](/image-processing) algorithms. Modern cryo-EM routinely achieves resolutions below 3 A, approaching crystallographic quality.
 
 Does this mean crystallography is obsolete? Not yet. For small molecules, crystallography remains faster, cheaper, and higher resolution. For drug-protein interactions that require atomic-level detail, crystal structures are still the gold standard. And the two techniques are increasingly complementary -- crystallographic and cryo-EM data are sometimes combined to solve the same structure.
 
@@ -171,4 +171,4 @@ But prediction hasn't replaced experiment. AlphaFold models don't show drug bind
 
 The field is also pushing into time-resolved crystallography, where ultrafast X-ray pulses from free-electron lasers capture molecular motions on femtosecond (10^-15 second) timescales. Instead of static snapshots, researchers are beginning to make molecular movies -- watching enzymes catalyze reactions, photoreceptors respond to light, and proteins undergo conformational changes in real time.
 
-From Laue's first diffraction photograph in 1912 to femtosecond molecular movies in the 2020s, X-ray crystallography has given us the ability to see the invisible architecture of matter. Over a century later, it's still revealing structures that surprise us.
+From Laue's first diffraction photograph in 1912 to femtosecond molecular movies in the 2020s, X-ray crystallography has given us the ability to see the invisible [architecture](/architecture) of matter. Over a century later, it's still revealing structures that surprise us.

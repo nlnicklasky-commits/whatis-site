@@ -5,7 +5,7 @@ description: "Iranian history spans over 5,000 years from ancient Persia to the 
 category: history
 tags: ["iranian history", "iran", "persia", "persian empires", "zoroastrianism", "islamic revolution"]
 heroImage: "/images/articles/iranian-history.webp"
-heroAlt: "Ancient ruins of Persepolis with carved stone columns and reliefs"
+heroAlt: "Editorial photograph representing the concept of iranian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Iranian History?
 
-Iranian history is the story of one of the world's oldest continuous civilizations, stretching from the earliest settlements on the Iranian plateau around 3200 BCE to the modern Islamic Republic. It encompasses the rise and fall of great Persian empires, the spread of Zoroastrianism and later Islam, and a series of cultural achievements in poetry, science, and architecture that shaped the wider world.
+Iranian history is the story of one of the world's oldest continuous civilizations, stretching from the earliest settlements on the Iranian plateau around 3200 BCE to the modern Islamic Republic. It encompasses the rise and fall of great Persian empires, the spread of [Zoroastrianism](/zoroastrianism) and later Islam, and a series of cultural achievements in poetry, science, and [architecture](/architecture) that shaped the wider world.
 
 ## A Civilization Before History Had a Name
 
@@ -61,7 +61,7 @@ The empire's decline came through overreach and internal weakness. The Greek war
 
 Alexander's conquest was brief. He died in 323 BCE, and his generals carved up his empire. Iran fell to the Seleucid dynasty, which ruled for about 150 years before being pushed out by a new Iranian dynasty: the Parthians.
 
-The Parthian Empire (247 BCE - 224 CE) is oddly underappreciated. It lasted nearly 500 years, controlled the Silk Road trade between Rome and China, and repeatedly defeated Roman armies — most spectacularly at the Battle of Carrhae in 53 BCE, where Parthian horse archers annihilated seven Roman legions and killed their commander, Crassus. The Parthians' military innovation — heavily armored cavalry (cataphracts) combined with mobile horse archers — influenced warfare for centuries.
+The Parthian Empire (247 BCE - 224 CE) is oddly underappreciated. It lasted nearly 500 years, controlled [the Silk Road](/silk-road) trade between Rome and China, and repeatedly defeated Roman armies — most spectacularly at the Battle of Carrhae in 53 BCE, where Parthian horse archers annihilated seven Roman legions and killed their commander, Crassus. The Parthians' military innovation — heavily armored cavalry (cataphracts) combined with mobile horse archers — influenced warfare for centuries.
 
 Yet the Parthians left fewer monumental ruins than the Achaemenids, and their decentralized feudal structure made them harder for historians to study. They were a major power largely forgotten by the Western historical tradition.
 
@@ -93,7 +93,7 @@ Iran experienced devastating invasions in the medieval period. The Mongol conque
 
 Yet the Mongol period also brought connections. The Il-Khanate (1256-1335) eventually converted to Islam and became patrons of Persian culture. Timur (Tamerlane), himself a Turkic-Mongol conqueror, devastated Iran again in the late 14th century but also built the architectural glories of Samarkand using Iranian craftsmen.
 
-The Safavid dynasty (1501-1736) created the borders of roughly modern Iran and established the cultural and religious identity that persists today. Shah Abbas I (reigned 1588-1629) built Isfahan into one of the world's most beautiful cities — the saying went, "Isfahan is half the world." The Safavid period produced extraordinary achievements in miniature painting, carpet weaving, architecture, and tile work.
+The Safavid dynasty (1501-1736) created the borders of roughly modern Iran and established the cultural and religious identity that persists today. Shah Abbas I (reigned 1588-1629) built Isfahan into one of the world's most beautiful cities — the saying went, "Isfahan is half the world." The Safavid period produced extraordinary achievements in [miniature painting](/miniature-painting), carpet weaving, architecture, and tile work.
 
 ## The Modern Era: From Qajars to Revolution
 
@@ -119,4 +119,4 @@ Since then, Iran has been shaped by tensions between its theocratic and republic
 
 Iran sits at the crossroads of the Middle East, Central Asia, and South Asia. Its history isn't separable from the histories of [Christianity](/christianity), Islam, [Judaism](/jewish-history), or the broader story of human civilization. Understanding Iran — really understanding it, beyond news headlines about nuclear negotiations — requires grappling with 5,000 years of political complexity, cultural achievement, and resilience.
 
-The Persian civilizational contribution to humanity — in [mathematics](/algebra), medicine, literature, philosophy, and art — is enormous and often underappreciated in Western education. And the modern conflicts involving Iran make much more sense when you understand the historical context: centuries of foreign interference, the trauma of colonialism, and a fierce pride rooted in one of the world's oldest continuous cultures.
+The Persian civilizational contribution to humanity — in [mathematics](/algebra), medicine, [literature](/literature), [philosophy](/philosophy), and art — is enormous and often underappreciated in Western [education](/education). And the modern conflicts involving Iran make much more sense when you understand the historical context: centuries of foreign interference, the trauma of colonialism, and a fierce pride rooted in one of the world's oldest continuous cultures.

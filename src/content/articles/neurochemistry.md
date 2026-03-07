@@ -5,7 +5,7 @@ description: "Neurochemistry studies the chemical processes in the brain, includ
 category: science
 tags: ["neurochemistry", "neurotransmitters", "neuroscience", "brain chemistry", "psychopharmacology", "biochemistry"]
 heroImage: "/images/articles/neurochemistry-hero.webp"
-heroAlt: "Molecular structures of neurotransmitters floating around stylized brain neurons"
+heroAlt: "Editorial photograph representing the concept of neurochemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -143,7 +143,7 @@ When a neurotransmitter binds to a metabotropic receptor, it doesn't directly op
 
 **Calcium signaling** — calcium itself acts as a second messenger. It activates CaMKII (calcium/calmodulin-dependent protein kinase II), which is the most abundant protein at excitatory synapses and is essential for long-term potentiation — the cellular basis of learning.
 
-These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-neuroscience).
+These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-[neuroscience](/neuroscience)).
 
 ## Neurochemistry of Mental Illness
 
@@ -153,7 +153,7 @@ Understanding brain chemistry has transformed how we think about psychiatric con
 
 The serotonin hypothesis — that depression results from low serotonin — dominated for decades. It's not wrong, exactly, but it's dramatically incomplete. The rapid antidepressant effects of ketamine (which works through the glutamate system, not serotonin) demonstrated that multiple neurochemical systems are involved.
 
-Current understanding points to impaired synaptic plasticity as a core feature. Chronic stress reduces brain-derived neurotrophic factor (BDNF), weakens synapses, and shrinks dendritic arbors in the prefrontal cortex and hippocampus. Effective treatments — whether SSRIs, ketamine, exercise, or psychotherapy — all appear to restore synaptic plasticity, though through different chemical mechanisms.
+Current understanding points to impaired synaptic plasticity as a core feature. Chronic stress reduces brain-derived neurotrophic factor (BDNF), weakens synapses, and shrinks dendritic arbors in the prefrontal cortex and hippocampus. Effective treatments — whether SSRIs, ketamine, exercise, or [psychotherapy](/psychotherapy) — all appear to restore synaptic plasticity, though through different chemical mechanisms.
 
 ### Schizophrenia
 
@@ -181,7 +181,7 @@ Understanding this [biochemistry](/chemistry) has led to medications that help �
 
 ### The Gut-Brain Axis
 
-The gut contains its own nervous system (the enteric nervous system) and produces vast quantities of neurotransmitters. Gut bacteria influence brain chemistry through the vagus nerve, immune signaling, and metabolite production. Changes in the gut microbiome alter anxiety and depressive behaviors in animal studies, and early human trials of psychobiotics (bacteria that affect mental health) show promising results.
+The gut contains its own nervous system (the enteric nervous system) and produces vast quantities of neurotransmitters. Gut bacteria influence brain chemistry through the vagus nerve, immune signaling, and metabolite production. Changes in the gut microbiome alter anxiety and depressive behaviors in animal studies, and early human trials of psychobiotics (bacteria that affect [mental health](/mental-health)) show promising results.
 
 ### Gliotransmission
 

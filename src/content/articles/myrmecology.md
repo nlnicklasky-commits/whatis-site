@@ -5,7 +5,7 @@ description: "Myrmecology is the scientific study of ants — the most successfu
 category: science
 tags: ["myrmecology", "ants", "entomology", "social insects", "ant colonies", "insect biology", "ecology"]
 heroImage: "/images/articles/myrmecology-hero.webp"
-heroAlt: "Close-up macro photograph of leafcutter ants carrying leaf fragments along a trail"
+heroAlt: "Editorial photograph representing the concept of myrmecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 Myrmecology is the branch of entomology (insect science) dedicated to the study of ants. That might sound extremely specific — an entire scientific discipline for one family of insects? — but ants are arguably the most successful animal group on the planet. They've colonized every continent except Antarctica. Their combined biomass outweighs all wild mammals and birds put together. They've been farming fungi for 60 million years (humans have been farming for about 12,000). And their colonies function as superorganisms — collective entities that exhibit problem-solving abilities no individual ant possesses.
 
-The word comes from the Greek *myrmex* (ant) and *logos* (study). Myrmecologists investigate ant taxonomy, [ecology](/ecology), [behavior](/animal-behavior), evolution, physiology, and increasingly, the applications of ant-inspired algorithms in robotics, computer science, and logistics.
+The word comes from the Greek *myrmex* (ant) and *logos* (study). Myrmecologists investigate ant taxonomy, [ecology](/ecology), [behavior](/animal-behavior), evolution, physiology, and increasingly, the applications of ant-inspired algorithms in robotics, [computer science](/computer-science), and logistics.
 
 ## Why Ants Deserve Their Own Science
 
@@ -49,7 +49,7 @@ There are about 22,000 described ant species, with estimates suggesting 30,000 o
 
 **Ecological impact.** Ants turn more soil than earthworms in many ecosystems. They disperse seeds, aerate soil, control pest populations, and serve as food for countless other species. Remove ants from an ecosystem and it would likely collapse.
 
-**Social complexity.** Ant colonies exhibit division of labor, communication, architecture, agriculture, warfare, slavery, and cooperative problem-solving. They do all of this without a central leader — no ant tells the others what to do. The queen's only job is to lay eggs; she doesn't give orders. Colony-level intelligence emerges from simple individual rules, which is why computer scientists and roboticists find ants so fascinating.
+**Social complexity.** Ant colonies exhibit division of labor, communication, [architecture](/architecture), agriculture, warfare, slavery, and cooperative problem-solving. They do all of this without a central leader — no ant tells the others what to do. The queen's only job is to lay eggs; she doesn't give orders. Colony-level intelligence emerges from simple individual rules, which is why computer scientists and roboticists find ants so fascinating.
 
 **Evolutionary success.** Ants evolved approximately 130-140 million years ago, during the Cretaceous period. They've survived the asteroid impact that killed the dinosaurs, multiple ice ages, and every environmental catastrophe in between. Whatever ants are doing, it works.
 
@@ -81,7 +81,7 @@ Most ant species have multiple castes — morphologically and behaviorally disti
 
 **Queens** are reproductive females. In most species, there's one queen per colony (monogyny), though some species have multiple queens (polygyny). The queen's primary function is egg production — a mature leaf-cutter ant queen can lay 30,000 eggs per day.
 
-**Workers** are non-reproductive females. They perform all the colony's labor: foraging, nest construction and maintenance, brood care, defense, and waste management. In many species, workers shift tasks as they age — younger workers tend brood deep in the nest, while older workers take on riskier tasks like foraging and defense. This age-based polyethism makes intuitive sense: expendable older workers take the dangerous outside jobs.
+**Workers** are non-reproductive females. They perform all the colony's labor: foraging, nest construction and maintenance, brood care, defense, and [waste management](/waste-management). In many species, workers shift tasks as they age — younger workers tend brood deep in the nest, while older workers take on riskier tasks like foraging and defense. This age-based polyethism makes intuitive sense: expendable older workers take the dangerous outside jobs.
 
 **Soldiers** (in species that have them) are workers with enlarged heads and mandibles, specialized for colony defense. In some species, soldiers use their oversized heads to physically block nest entrances.
 
@@ -133,7 +133,7 @@ Beyond chemicals, ants also communicate through touch, vibrations (stridulation 
 
 A few scientists have defined the field.
 
-**E.O. Wilson** (1929-2021) is arguably the most famous myrmecologist — and one of the most influential biologists of the 20th century. His work on ant biogeography, chemical communication, and social behavior earned him two Pulitzer Prizes. Wilson's 1990 book *The Ants* (co-authored with Bert Holldobler) is a 732-page masterwork that won the Pulitzer for General Nonfiction — one of the few science books ever to receive that honor.
+**E.O. Wilson** (1929-2021) is arguably the most famous myrmecologist — and one of the most influential biologists of the 20th century. His work on ant [biogeography](/biogeography), chemical communication, and social behavior earned him two Pulitzer Prizes. Wilson's 1990 book *The Ants* (co-authored with Bert Holldobler) is a 732-page masterwork that won the Pulitzer for General Nonfiction — one of the few science books ever to receive that honor.
 
 **Bert Holldobler** (born 1936), Wilson's frequent collaborator, conducted pioneering research on ant communication and social organization. His experimental work on pheromone systems and recruitment behavior in harvester ants established methods still used today.
 
@@ -149,7 +149,7 @@ Ant research feeds into surprising fields.
 
 **Epidemiology.** Ant colonies face disease transmission challenges similar to human societies. Studying how ants manage infection — through social distancing (infected workers voluntarily isolate), hygienic behavior, and antimicrobial secretions — provides insights into disease ecology.
 
-**Network design.** The way ant colonies build tunnel networks — with efficient branching, ventilation, and drainage — inspires research on network optimization and even urban planning.
+**Network design.** The way ant colonies build tunnel networks — with efficient branching, ventilation, and drainage — inspires research on network optimization and even [urban planning](/urban-planning).
 
 **Agriculture.** Fire ants (*Solenopsis invicta*) cause an estimated $6 billion in annual damage in the United States alone — crop losses, equipment damage, medical treatment for stings. Understanding fire ant [ecology](/ecology) and behavior is essential for developing control strategies.
 

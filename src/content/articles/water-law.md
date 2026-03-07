@@ -5,7 +5,7 @@ description: "Water law governs the rights to use, distribute, and protect water
 category: everyday-concepts
 tags: ["water law", "water rights", "environmental law", "natural resources", "policy", "regulation"]
 heroImage: "/images/articles/water-law.webp"
-heroAlt: "A river flowing through an arid valley with farmland on both banks under a clear sky"
+heroAlt: "Editorial photograph representing the concept of water law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ No water system better illustrates the complexity of water law than the Colorado
 
 The problem: the Compact was based on flow data from unusually wet years. The river actually averages about 12-13 million acre-feet — less than the amount legally allocated. Tree-ring studies show that the early 20th century was among the wettest periods in 1,200 years.
 
-The result is that more water is legally promised than physically exists. Add 40 million people depending on the river, drought intensified by climate change, and reservoir levels at Lake Mead and Lake Powell dropping to historically low levels, and you get one of the most complex water law challenges in American history.
+The result is that more water is legally promised than physically exists. Add 40 million people depending on the river, drought intensified by climate change, and reservoir levels at Lake Mead and Lake Powell dropping to historically low levels, and you get one of the most complex water law challenges in [American history](/american-history).
 
 ## Federal Water Law
 
@@ -71,7 +71,7 @@ Several major federal laws overlay state water rights systems:
 
 **Endangered Species Act (1973)** — Can restrict water use when threatened or endangered species depend on specific water flows. This creates fierce conflicts when environmental water needs compete with agricultural or urban demands.
 
-**Federal reserved rights** — The federal government holds water rights for federal lands, including Native American reservations. The Winters Doctrine (1908) established that tribal water rights date to the creation of the reservation, often making them senior to surrounding non-tribal rights. Quantifying and implementing these rights remains an active legal process.
+**Federal reserved rights** — The federal [government](/government) holds water rights for federal lands, including Native American reservations. The Winters Doctrine (1908) established that tribal water rights date to the creation of the reservation, often making them senior to surrounding non-tribal rights. Quantifying and implementing these rights remains an active legal process.
 
 ## International Water Law
 

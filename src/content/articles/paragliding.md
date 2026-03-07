@@ -5,7 +5,7 @@ description: "Paragliding is a recreational flying sport using a lightweight fab
 category: sports
 tags: ["paragliding", "adventure sport", "flight", "gliding", "outdoor recreation", "air sports"]
 heroImage: "/images/articles/paragliding.webp"
-heroAlt: "A paraglider soaring above a mountain valley with colorful canopy against blue sky"
+heroAlt: "Editorial photograph representing the concept of paragliding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ A paraglider in still air descends at about 200-250 feet per minute (roughly 3 m
 
 ## Thermals and Lift
 
-**Thermals** are columns of warm air rising from sun-heated ground surfaces — parking lots, dark fields, rocky slopes. When a thermal rises faster than your glider descends, you go up. Pilots circle inside thermals to gain altitude, sometimes climbing thousands of feet before gliding to the next thermal. This is how cross-country flights of 50, 100, or even 200+ miles become possible.
+**Thermals** are columns of warm air rising from sun-heated ground surfaces — parking lots, dark fields, rocky slopes. When a thermal rises faster than your glider descends, you go up. Pilots circle inside thermals to gain altitude, sometimes climbing thousands of feet before [gliding](/gliding) to the next thermal. This is how cross-country flights of 50, 100, or even 200+ miles become possible.
 
 **Ridge lift** occurs when wind hits a hillside or cliff and is deflected upward. Pilots fly back and forth along ridges, staying in the rising air band. On a good day, you can soar for hours along a ridge with consistent wind.
 
@@ -67,7 +67,7 @@ A typical P2 course takes 7-10 days of instruction spread over several weeks (we
 
 ## The Gear
 
-A complete paragliding setup weighs 15-25 pounds and fits in a large backpack. This portability is a major advantage over other forms of aviation.
+A complete paragliding setup weighs 15-25 pounds and fits in a large backpack. This portability is a major advantage over other forms of [aviation](/aviation).
 
 **The wing** is categorized by certification level — EN A (beginner, most passive safety), EN B (intermediate), EN C (advanced), and EN D (competition). Beginners should absolutely start with an EN A wing. Higher-rated wings perform better but are less forgiving of errors.
 
@@ -75,19 +75,19 @@ A complete paragliding setup weighs 15-25 pounds and fits in a large backpack. T
 
 **A reserve parachute** is essential safety equipment. If the main wing becomes uncontrollable (which is rare with proper flying decisions), the reserve deploys to bring you down under a round parachute. Every serious pilot carries one.
 
-**Instruments** include a variometer (tells you whether you're going up or down and how fast), an altimeter, and often a GPS flight computer for navigation and flight logging.
+**Instruments** include a variometer (tells you whether you're going up or down and how fast), an altimeter, and often a GPS flight computer for [navigation](/navigation) and flight logging.
 
 ## The Experience
 
 It's genuinely hard to convey what paragliding feels like. There's no engine noise. No vibration. No cockpit walls. You're sitting in what amounts to a chair, hanging from a wing, with nothing between your feet and the ground but air.
 
-The launch is memorable — you run a few steps down a hillside, the wing catches the air, your feet leave the ground, and suddenly you're flying. The transition from running to flying happens in about two seconds and never stops being slightly miraculous.
+The launch is memorable — you run a few steps down a hillside, the wing catches the air, your feet leave the ground, and suddenly you're flying. The transition from [running](/running) to flying happens in about two seconds and never stops being slightly miraculous.
 
-In the air, the world changes. Roads become ribbons. Buildings become dots. The field reveals patterns invisible from the ground — geological features, wind patterns visible in cloud formations, the geometry of agricultural fields.
+In the air, the world changes. Roads become ribbons. Buildings become dots. The field reveals patterns invisible from the ground — geological features, wind patterns visible in cloud formations, the [geometry](/geometry) of agricultural fields.
 
 Thermaling — circling upward inside a rising column of warm air — feels like riding an invisible elevator. You can feel the thermal through the wing, sense its edges, and track its center. When you core a strong thermal and the variometer sings with a steady rising tone, the satisfaction is hard to describe.
 
-## Risk Management
+## [Risk Management](/risk-[management](/management))
 
 Paragliding has real risks. Weather is the biggest variable — strong winds, thunderstorms, turbulence, and rapid condition changes can turn a pleasant flight dangerous quickly. The single most important safety skill is the willingness to not fly. If conditions look sketchy, stay on the ground. The mountain will be there tomorrow.
 

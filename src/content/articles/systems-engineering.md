@@ -5,7 +5,7 @@ description: "Systems engineering is the discipline of designing and managing co
 category: everyday-concepts
 tags: ["systems engineering", "engineering", "design", "lifecycle", "requirements", "integration"]
 heroImage: "/images/articles/systems-engineering.webp"
-heroAlt: "Engineers reviewing a systems architecture diagram on a large screen"
+heroAlt: "Editorial photograph representing the concept of systems engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Systems engineering is the discipline of designing, building, and managing complex systems throughout their entire lifecycle — from initial concept through design, production, operation, and eventual retirement. It's the engineering of the *whole*, not just the parts.
 
-Think about a modern aircraft. It involves aerodynamics, propulsion, electronics, software, materials, safety systems, communications, navigation, environmental controls, and human factors — all produced by different teams, using different technologies, with different constraints. Systems engineering is what makes all those pieces work together as a functioning airplane instead of a pile of excellent but incompatible components.
+Think about a modern aircraft. It involves [aerodynamics](/aerodynamics), propulsion, [electronics](/electronics), software, materials, safety systems, communications, [navigation](/navigation), environmental controls, and [human factors](/human-factors) — all produced by different teams, using different technologies, with different constraints. Systems engineering is what makes all those pieces work together as a functioning airplane instead of a pile of excellent but incompatible components.
 
 ## Why It Exists
 
@@ -73,7 +73,7 @@ Verification asks: "Did we build the system right?" (Does it meet specifications
 
 The classic systems engineering lifecycle is often depicted as a "V" shape. The left side of the V goes down: from stakeholder needs to system requirements to subsystem design to component design. The right side goes up: from component testing to subsystem integration testing to system verification to validation against stakeholder needs.
 
-Each level on the right side verifies the corresponding level on the left. It's elegant in theory. In practice, it's messy, iterative, and full of feedback loops — but the basic logic holds.
+Each level on the right side verifies the corresponding level on the left. It's elegant in theory. In practice, it's messy, iterative, and full of feedback loops — but the basic [logic](/logic) holds.
 
 ## Where Systems Engineering Is Essential
 
@@ -81,7 +81,7 @@ Each level on the right side verifies the corresponding level on the left. It's 
 
 **Space exploration** — NASA's [systems engineering](/aerospace-engineering) handbook is one of the most widely referenced documents in the field. Mars rovers, space stations, and launch vehicles all require rigorous systems engineering.
 
-**Automotive** — Modern vehicles contain 100+ electronic control units running over 100 million lines of code, integrated with mechanical, electrical, and hydraulic systems. Autonomous vehicles push this complexity further.
+**Automotive** — Modern vehicles contain 100+ electronic control units [running](/running) over 100 million lines of code, integrated with mechanical, electrical, and hydraulic systems. Autonomous vehicles push this complexity further.
 
 **Healthcare** — Hospital systems, medical devices, and health IT infrastructure all benefit from systems engineering approaches. A single MRI machine integrates superconducting magnets, RF electronics, gradient coils, patient monitoring, and imaging software.
 

@@ -5,7 +5,7 @@ description: "Racquetball is a fast-paced indoor sport played with a hollow rubb
 category: sports
 tags: ["racquetball", "racquet sports", "indoor sports", "fitness", "court sports", "exercise"]
 heroImage: "/images/articles/racquetball.webp"
-heroAlt: "Player swinging a racquetball racquet in an enclosed court"
+heroAlt: "Editorial photograph representing the concept of racquetball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Racquetball is an indoor racquet sport played in an enclosed court where a hollo
 
 ## The Basics
 
-The court is 40 feet long, 20 feet wide, and 20 feet high — fully enclosed. The front wall is the primary target: every shot must hit the front wall before bouncing on the floor. But the ball can hit any other surface (back wall, side walls, ceiling) before or after hitting the front wall. This makes racquetball three-dimensional in a way that tennis or squash isn't.
+The court is 40 feet long, 20 feet wide, and 20 feet high — fully enclosed. The front wall is the primary target: every shot must hit the front wall before bouncing on the floor. But the ball can hit any other surface (back wall, side walls, ceiling) before or after hitting the front wall. This makes racquetball three-dimensional in a way that [tennis](/tennis) or [squash](/squash) isn't.
 
 The ball is a hollow rubber sphere about 2.25 inches in diameter, designed to bounce high and fast. The racquet is shorter than a tennis racquet (about 22 inches) with a wider face and a wrist strap (mandatory for safety — nobody wants a racquet flying around an enclosed space at full speed).
 
@@ -59,9 +59,9 @@ Despite its reputation as a power sport, racquetball rewards smart play as much 
 
 ## History
 
-Racquetball was invented in 1950 by Joe Sobek, a professional handball and tennis player from Greenwich, Connecticut. Sobek was looking for a fast, easy-to-learn sport that could be played on existing handball courts. He designed a short-strung racquet, created rules combining elements of handball and squash, and called the game "paddle rackets."
+Racquetball was invented in 1950 by Joe Sobek, a professional [handball](/handball) and tennis player from Greenwich, Connecticut. Sobek was looking for a fast, easy-to-learn sport that could be played on existing handball courts. He designed a short-strung racquet, created rules combining elements of handball and squash, and called the game "paddle rackets."
 
-The sport grew steadily through the 1960s and exploded in popularity in the 1970s and 1980s, driven by the fitness boom and the construction of dedicated racquetball courts in health clubs across America. At its peak in the mid-1980s, an estimated 14 million Americans played racquetball.
+The sport grew steadily through the 1960s and exploded in popularity in the 1970s and 1980s, driven by the [fitness](/fitness) boom and the [construction](/construction) of dedicated racquetball courts in health clubs across America. At its peak in the mid-1980s, an estimated 14 million Americans played racquetball.
 
 Participation declined through the 1990s and 2000s as fitness trends shifted, and many health clubs converted racquetball courts to other uses. Current estimates put active players at about 3.5-5 million in the U.S. The sport remains popular in Mexico, Bolivia, Colombia, and several other countries. The International Racquetball Federation organizes world championships and has pursued Olympic inclusion.
 
@@ -71,7 +71,7 @@ Racquetball is one of the most efficient workouts available. The constant moveme
 
 A study published in the *Journal of Sports Medicine and Physical Fitness* found that competitive racquetball players maintained heart rates of 75-85% of their maximum throughout matches — firmly in the cardiovascular training zone. The intermittent high-intensity nature (short bursts of all-out effort followed by brief recovery) mirrors the interval training that exercise scientists consider optimal for fitness.
 
-The sport is also joint-friendlier than running because the court surface provides cushioning and movements are multidirectional rather than repetitive. And because it's competitive and social, people tend to play longer and more consistently than they would exercise alone.
+The sport is also joint-friendlier than [running](/running) because the court surface provides cushioning and movements are multidirectional rather than repetitive. And because it's competitive and social, people tend to play longer and more consistently than they would exercise alone.
 
 ## Getting Started
 
@@ -79,4 +79,4 @@ Racquetball is one of the easiest racquet sports to pick up. The large ball boun
 
 All you need is a racquet ($20-$100), a ball ($3-$5), protective eyewear (mandatory — the ball can cause serious eye injuries in an enclosed space), and access to a court. Many gyms and recreation centers have courts available to members at no additional charge.
 
-The game rewards consistent play quickly. Within a few sessions, beginners can sustain rallies and start developing basic strategy. Within a few months, the chess-like aspects — shot selection, positioning, anticipation — start emerging. It's a sport that's easy to start and difficult to master, which is the best combination for long-term engagement.
+The game rewards consistent play quickly. Within a few sessions, beginners can sustain rallies and start developing basic strategy. Within a few months, the [chess](/chess)-like aspects — shot selection, positioning, anticipation — start emerging. It's a sport that's easy to start and difficult to master, which is the best combination for long-term engagement.

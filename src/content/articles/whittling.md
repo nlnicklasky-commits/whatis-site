@@ -5,7 +5,7 @@ description: "Whittling is the art of carving shapes from wood using a knife. Le
 category: everyday-concepts
 tags: ["whittling", "wood carving", "crafts", "woodworking", "knife skills", "hobbies"]
 heroImage: "/images/articles/whittling.webp"
-heroAlt: "Hands carving a small wooden figure with a whittling knife surrounded by wood shavings"
+heroAlt: "Editorial photograph representing the concept of whittling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The fundamental action in whittling is the paring cut — pushing the blade thro
 
 **V-cut** — Two angled cuts that meet to remove a V-shaped channel. Used for lettering, decorative lines, and defining edges.
 
-The key principle: always cut with the grain of the wood, not against it. Cutting against the grain causes the blade to dig in and split the wood unpredictably. The grain is visible as lines running along the wood's length — your knife should generally follow those lines rather than fight them.
+The key principle: always cut with the grain of the wood, not against it. Cutting against the grain causes the blade to dig in and split the wood unpredictably. The grain is visible as lines [running](/running) along the wood's length — your knife should generally follow those lines rather than fight them.
 
 ## Choosing Wood
 
@@ -75,7 +75,7 @@ Popular beginner knives include the Morakniv 120 ($12-$15), Flexcut KN13 ($20-$2
 
 Whittling projects range from the immediately practical to the surprisingly artistic.
 
-**Walking sticks** — Probably the oldest whittling project. Carve a comfortable grip, strip bark, add decorative elements. A good walking stick is useful and personal.
+**[Walking](/walking) sticks** — Probably the oldest whittling project. Carve a comfortable grip, strip bark, add decorative elements. A good walking stick is useful and personal.
 
 **Spoons and utensils** — Functional kitchen items carved from a single piece of wood. Spoon carving has experienced a revival in recent years, with dedicated communities and social media accounts.
 

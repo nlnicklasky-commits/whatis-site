@@ -5,7 +5,7 @@ description: "Philosophy is the study of fundamental questions about existence, 
 category: everyday-concepts
 tags: ["philosophy", "ethics", "metaphysics", "epistemology", "logic", "reason"]
 heroImage: "/images/articles/philosophy.webp"
-heroAlt: "A classical bust of a Greek philosopher set against an open book and soft light"
+heroAlt: "Editorial photograph representing the concept of philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,27 +37,27 @@ Philosophy is the systematic study of fundamental questions about existence, kno
 
 Philosophy organizes itself around a few core questions, each spawning its own branch:
 
-**Metaphysics** asks: What exists? What is the nature of reality? Does the external world exist independently of our minds? Do abstract objects like numbers exist? What is time? What is causation? Is there free will, or is everything determined by prior causes?
+**[Metaphysics](/metaphysics)** asks: What exists? What is the nature of reality? Does the external world exist independently of our minds? Do abstract objects like numbers exist? What is time? What is causation? Is there free will, or is everything determined by prior causes?
 
-**Epistemology** asks: What is knowledge? How do we acquire it? What can we actually know for certain? What's the difference between belief and justified belief? Can we trust our senses? These aren't idle puzzles — your answer to "How do I know what I know?" shapes how you evaluate evidence, make decisions, and assess claims.
+**[Epistemology](/epistemology)** asks: What is knowledge? How do we acquire it? What can we actually know for certain? What's the difference between belief and justified belief? Can we trust our senses? These aren't idle puzzles — your answer to "How do I know what I know?" shapes how you evaluate evidence, make decisions, and assess claims.
 
-**Ethics** asks: What's right and wrong? Are moral truths objective or culturally constructed? What makes an action good? What do we owe each other? Three major ethical frameworks compete for answers: consequentialism (judge actions by their outcomes), deontology (judge actions by whether they follow moral rules), and virtue ethics (judge character, not individual actions).
+**Ethics** asks: What's right and wrong? Are moral truths objective or culturally constructed? What makes an action good? What do we owe each other? Three major ethical frameworks compete for answers: consequentialism (judge actions by their outcomes), deontology (judge actions by whether they follow moral rules), and [virtue ethics](/virtue-ethics) (judge character, not individual actions).
 
 **Logic** studies the rules of valid reasoning. What makes an argument sound? How do you identify a fallacy? Logic isn't about opinions — it's about the structure of arguments. A logically valid argument can have false premises but still be structurally perfect. Understanding logic is like understanding grammar for thinking.
 
-**Aesthetics** asks: What is beauty? What makes something art? Can aesthetic judgments be objective, or are they purely subjective? If you've ever argued about whether a particular movie is genuinely good or just popular, you've done aesthetics.
+**[Aesthetics](/aesthetics)** asks: What is beauty? What makes something art? Can aesthetic judgments be objective, or are they purely subjective? If you've ever argued about whether a particular movie is genuinely good or just popular, you've done aesthetics.
 
 ## A Very Brief History
 
-Western philosophy begins in ancient Greece around the 6th century BCE. The Pre-Socratics — Thales, Heraclitus, Parmenides — asked what the fundamental substance of reality was. Thales said water. Heraclitus said fire (or rather, constant change). They were wrong about the specifics but revolutionary in the approach: they sought natural explanations rather than mythological ones.
+[Western philosophy](/western-philosophy) begins in ancient Greece around the 6th century BCE. The Pre-Socratics — Thales, Heraclitus, Parmenides — asked what the fundamental substance of reality was. Thales said water. Heraclitus said fire (or rather, constant change). They were wrong about the specifics but revolutionary in the approach: they sought natural explanations rather than mythological ones.
 
 **Socrates** (470-399 BCE) shifted philosophy's focus from nature to human life. He wandered Athens asking people to define justice, virtue, and knowledge — then systematically dismantled their answers through relentless questioning. He wrote nothing. Everything we know comes from his student Plato, which creates the awkward "Socratic problem" of figuring out which ideas are Socrates' and which are Plato's.
 
 **Plato** (428-348 BCE) argued that the physical world is a shadow of a higher reality — the world of Forms or Ideas. The perfect circle you imagine is more real, in Plato's view, than any circle you could draw. His *Republic* remains one of the most influential books ever written.
 
-**Aristotle** (384-322 BCE), Plato's student, disagreed with his teacher on nearly everything and built the most ambitious intellectual system in ancient history — logic, physics, biology, ethics, politics, poetics. His work dominated Western thought for nearly two thousand years.
+**Aristotle** (384-322 BCE), Plato's student, disagreed with his teacher on nearly everything and built the most ambitious intellectual system in ancient history — logic, physics, biology, ethics, [politics](/politics), poetics. His work dominated Western thought for nearly two thousand years.
 
-The medieval period fused philosophy with theology. Thinkers like Thomas Aquinas tried to reconcile Christian faith with Aristotelian reason. The results were impressively rigorous, whatever you think of the starting assumptions.
+The medieval period fused philosophy with [theology](/theology). Thinkers like Thomas Aquinas tried to reconcile Christian faith with Aristotelian reason. The results were impressively rigorous, whatever you think of the starting assumptions.
 
 The early modern period (roughly 1600-1800) produced the rationalists (Descartes, Spinoza, Leibniz), who trusted reason as the primary source of knowledge, and the empiricists (Locke, Berkeley, Hume), who insisted knowledge comes from sensory experience. Immanuel Kant attempted to synthesize both traditions — and created a system so complicated that philosophers are still arguing about what he meant.
 
@@ -65,17 +65,17 @@ The 19th and 20th centuries splintered philosophy into competing traditions. Exi
 
 ## Why It Gets a Bad Reputation
 
-Philosophy gets criticized for being impractical, abstract, and prone to jargon. Some of that criticism is fair. Academic philosophy can be forbiddingly technical and disconnected from everyday concerns. Reading Hegel feels less like education and more like punishment.
+Philosophy gets criticized for being impractical, abstract, and prone to jargon. Some of that criticism is fair. Academic philosophy can be forbiddingly technical and disconnected from everyday concerns. Reading Hegel feels less like [education](/education) and more like punishment.
 
 But the criticism usually misses the point. Philosophy's job isn't to give you answers the way a textbook does. Its job is to teach you how to think about questions that don't have easy answers — and those are exactly the questions that matter most.
 
-Every time you argue about whether an action was ethical, debate what makes a government legitimate, question whether AI can be conscious, or wonder what makes life meaningful, you're doing philosophy. You're just doing it informally, without the tools that formal training provides.
+Every time you argue about whether an action was ethical, debate what makes a [government](/government) legitimate, question whether AI can be conscious, or wonder what makes life meaningful, you're doing philosophy. You're just doing it informally, without the tools that formal training provides.
 
 ## Why It Actually Matters
 
 Philosophy trains specific cognitive skills that transfer to everything else:
 
-**Argument analysis.** Can you identify the premises of an argument, evaluate whether they support the conclusion, and spot logical fallacies? This matters in every profession — law, medicine, business, engineering, policy.
+**Argument analysis.** Can you identify the premises of an argument, evaluate whether they support the conclusion, and spot logical fallacies? This matters in every profession — law, medicine, business, [engineering](/engineering), policy.
 
 **Conceptual clarity.** What exactly do you mean by "freedom"? "Justice"? "Intelligence"? Most disagreements are actually about definitions. Philosophy teaches you to notice this and define your terms before arguing.
 

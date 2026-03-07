@@ -5,7 +5,7 @@ description: "Reinforcement learning trains AI agents through trial, error, and 
 category: technology
 tags: ["reinforcement learning", "machine learning", "ai", "deep learning", "agents", "rewards", "algorithms"]
 heroImage: "/images/articles/reinforcement-learning-hero.webp"
-heroAlt: "Diagram showing an AI agent interacting with an environment through actions and rewards"
+heroAlt: "Editorial photograph representing the concept of reinforcement learning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -107,7 +107,7 @@ Q-learning works beautifully for small problems. A grid world with 100 states an
 
 In 2013, researchers at DeepMind published a paper that changed the field: they used a neural network to approximate the Q-function instead of storing it in a table. The network takes a game screen (raw pixels) as input and outputs Q-values for each possible action. They called it a Deep Q-Network, or DQN.
 
-DQN learned to play 49 different Atari games from raw pixel input, reaching human-level performance on 29 of them — using the same architecture and hyperparameters for every game. The agent saw nothing but pixels and a score. No one told it the rules, objectives, or strategies. It figured them out through millions of games of trial and error.
+DQN learned to play 49 different Atari games from raw pixel input, reaching human-level performance on 29 of them — using the same [architecture](/architecture) and hyperparameters for every game. The agent saw nothing but pixels and a score. No one told it the rules, objectives, or strategies. It figured them out through millions of games of trial and error.
 
 Two key innovations made DQN work:
 
@@ -139,7 +139,7 @@ RL's most famous accomplishments make for a compelling timeline of increasing am
 
 ### TD-Gammon (1992)
 
-Gerald Tesauro trained a neural network to play backgammon using temporal-difference learning (a precursor to modern RL). TD-Gammon reached expert human level and discovered strategies that surprised top players. It was the first major demonstration that neural networks + RL could master a complex game.
+Gerald Tesauro trained a neural network to play backgammon using temporal-difference learning (a precursor to modern RL). TD-Gammon reached expert human level and discovered strategies that surprised top players. It was the first major demonstration that [neural networks](/neural-networks) + RL could master a complex game.
 
 ### Atari DQN (2013)
 
@@ -217,7 +217,7 @@ DeepMind reduced Google's data center cooling costs by 40% using RL to optimize 
 
 ### Drug Discovery and Healthcare
 
-RL is being applied to molecular design — searching for drug candidates by treating molecule construction as a sequential decision process. In treatment planning, RL agents learn optimal dosing strategies for chronic diseases, adapting treatment based on patient response over time.
+RL is being applied to molecular design — searching for drug candidates by treating molecule [construction](/construction) as a sequential decision process. In treatment planning, RL agents learn optimal dosing strategies for chronic diseases, adapting treatment based on patient response over time.
 
 ## Multi-Agent Reinforcement Learning
 

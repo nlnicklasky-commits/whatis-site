@@ -5,7 +5,7 @@ description: "Hobby electronics is the recreational pursuit of building, modifyi
 category: technology
 tags: ["hobby electronics", "electronics", "diy", "stem", "circuitry", "arduino", "raspberry pi"]
 heroImage: "/images/articles/hobby-electronics-hero.webp"
-heroAlt: "Workbench with breadboard, colorful wires, LEDs, an Arduino board, and soldering iron"
+heroAlt: "Editorial photograph representing the concept of hobby electronics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ The hobby has exploded in the past 15 years. The maker movement, affordable micr
 
 ## The Fundamentals: What You Need to Know
 
-Before diving into projects, you need a basic mental model of how electricity works. Don't worry—you don't need a physics degree. You need three concepts.
+Before diving into projects, you need a basic mental model of how [electricity](/electricity) works. Don't worry—you don't need a physics degree. You need three concepts.
 
 ### Voltage, Current, and Resistance
 
@@ -117,7 +117,7 @@ With an ESP32, you can build a weather station that posts data to a web dashboar
 
 The Raspberry Pi is different from Arduino and ESP32—it's a full computer running Linux, not just a microcontroller. It has USB ports, HDMI output, WiFi, Bluetooth, a camera interface, and 40 GPIO pins for [computer hardware](/computer-hardware) interaction.
 
-Raspberry Pi projects tend to be more complex: media centers, retro gaming consoles, network-attached storage servers, security cameras with AI-powered object detection, weather stations with web interfaces, and robots with computer vision. Programming is typically done in Python, though any Linux-compatible language works.
+Raspberry Pi projects tend to be more complex: media centers, retro gaming consoles, network-attached storage servers, security cameras with AI-powered object detection, weather stations with web interfaces, and robots with [computer vision](/computer-vision). Programming is typically done in Python, though any Linux-compatible language works.
 
 The Raspberry Pi Foundation's educational mission keeps prices low ($35 for a Pi 4, $5 for a Pi Zero) and documentation excellent. The community is massive—virtually any project you can imagine, someone has attempted and documented.
 
@@ -147,13 +147,13 @@ The FIRST Robotics community, Arduino-based robot kits, and battle robot competi
 
 ### Amateur Radio (Ham Radio)
 
-[Amateur radio](/amateur-radio) has been a gateway to electronics for over a century. Building your own radio transceiver—from a simple crystal radio to a sophisticated software-defined radio—teaches RF (radio frequency) electronics, antenna design, signal processing, and communication protocols.
+[Amateur radio](/amateur-radio) has been a gateway to electronics for over a century. Building your own radio transceiver—from a simple crystal radio to a sophisticated software-defined radio—teaches RF (radio frequency) electronics, antenna design, [signal processing](/signal-processing), and communication protocols.
 
-Modern amateur radio incorporates digital modes, satellite communication, and software-defined radio (SDR), blending traditional electronics skills with programming and signal processing.
+Modern amateur radio incorporates digital modes, [satellite communication](/satellite-communication), and software-defined radio (SDR), blending traditional electronics skills with programming and signal processing.
 
 ### Wearable Electronics
 
-Conductive thread, sewable LEDs, flexible PCBs, and small microcontrollers (like the Adafruit Flora or Gemma) enable electronics embedded in clothing and accessories. Light-up costumes, heated garments, sensor-equipped sportswear, and interactive fashion projects combine electronics with textile arts.
+Conductive thread, sewable LEDs, flexible PCBs, and small microcontrollers (like the Adafruit Flora or Gemma) enable electronics embedded in clothing and accessories. Light-up costumes, heated garments, sensor-equipped sportswear, and interactive fashion projects combine electronics with [textile arts](/textile-arts).
 
 ## Tools of the Trade
 

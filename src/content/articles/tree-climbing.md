@@ -5,7 +5,7 @@ description: "Tree climbing is the activity of ascending trees for recreation, s
 category: sports
 tags: ["tree climbing", "outdoor recreation", "arboriculture", "climbing", "adventure sports", "nature"]
 heroImage: "/images/articles/tree-climbing.webp"
-heroAlt: "A recreational tree climber secured with a harness ascending a large oak tree"
+heroAlt: "Editorial photograph representing the concept of tree climbing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Tree climbing is exactly what it sounds like — going up trees — but it's become something far more structured and sophisticated than the childhood scramble up a backyard maple. As a modern activity, tree climbing spans recreational climbing (using ropes and harnesses for fun), competitive sport (with international championships), professional arboriculture (tree care work), and scientific research (canopy studies in forests worldwide).
 
-The simplest version requires nothing but a climbable tree and your hands. The modern version uses engineered rope systems borrowed from rock climbing, caving, and industrial rope access — allowing people to safely reach heights of 100 feet or more in trees that would be impossible to free-climb.
+The simplest version requires nothing but a climbable tree and your hands. The modern version uses engineered rope systems borrowed from rock climbing, [caving](/caving), and industrial rope access — allowing people to safely reach heights of 100 feet or more in trees that would be impossible to free-climb.
 
 ## How Modern Tree Climbing Works
 
@@ -60,7 +60,7 @@ The equipment overlaps significantly with [rock climbing](/rock-climbing) but ha
 
 ## Recreational Tree Climbing
 
-The recreational side of tree climbing has grown steadily since the 1980s, when pioneers like Peter Jenkins (founder of Tree Climbers International) began teaching rope-based climbing to the public. Today, guided tree climbing experiences are offered at parks, nature centers, and adventure tourism operations worldwide.
+The recreational side of tree climbing has grown steadily since the 1980s, when pioneers like Peter Jenkins (founder of Tree Climbers International) began [teaching](/teaching) rope-based climbing to the public. Today, guided tree climbing experiences are offered at parks, nature centers, and adventure [tourism](/tourism) operations worldwide.
 
 What draws people to it? Partly the physical challenge — climbing 80 feet up a rope is a genuine workout. Partly the perspective — the canopy of a large tree is a completely different world from the ground, full of wildlife, epiphytes, and filtered light. And partly something harder to articulate: being *in* a tree, surrounded by living wood and leaves, produces a calm that climbers describe almost universally.
 
@@ -68,7 +68,7 @@ Some recreational climbers focus on ancient or exceptionally large trees. Old-gr
 
 ## Competitive Tree Climbing
 
-The International Tree Climbing Championship (ITCC), organized by the International Society of Arboriculture, has been running since 1976. It's primarily a competition for professional arborists, testing the skills they use in daily tree care work.
+The International Tree Climbing Championship (ITCC), organized by the International Society of Arboriculture, has been [running](/running) since 1976. It's primarily a competition for professional arborists, testing the skills they use in daily tree care work.
 
 Events include:
 

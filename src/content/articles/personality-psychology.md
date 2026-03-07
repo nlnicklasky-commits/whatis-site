@@ -5,7 +5,7 @@ description: "Personality psychology studies the patterns of thoughts, feelings,
 category: psychology
 tags: ["personality", "traits", "psychology", "individual differences", "human behavior", "self-awareness"]
 heroImage: "/images/articles/personality-psychology-hero.webp"
-heroAlt: "Artistic representation of diverse human profiles illustrating different personality dimensions"
+heroAlt: "Editorial photograph representing the concept of personality psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ The modern field emerged in the early 20th century through several competing app
 
 **Trait theory** — the approach that dominates modern personality psychology — began with Gordon Allport, who in the 1930s compiled a list of over 4,500 English personality-descriptive words. Raymond Cattell used factor analysis (a statistical technique for identifying underlying patterns in data) to reduce these to 16 personality factors. Hans Eysenck proposed an even simpler structure based on three dimensions: extraversion, neuroticism, and psychoticism.
 
-**Humanistic psychology**, championed by Abraham Maslow and Carl Rogers in the mid-20th century, emphasized personal growth, self-actualization, and the inherent human drive toward fulfilling one's potential. This perspective contributed the concept of self-concept and unconditional positive regard, which influenced therapeutic practice enormously, though its theories were harder to test empirically.
+**Humanistic psychology**, championed by Abraham Maslow and Carl Rogers in the mid-20th century, emphasized [personal growth](/personal-growth), self-actualization, and the inherent human drive toward fulfilling one's potential. This perspective contributed the concept of self-concept and unconditional positive regard, which influenced therapeutic practice enormously, though its theories were harder to test empirically.
 
 **Social-cognitive theory**, developed by Albert Bandura and Walter Mischel, emphasized the interaction between personality, behavior, and environment. Mischel's influential 1968 book *Personality and Assessment* argued that behavior was more influenced by situations than by stable personality traits — sparking the "person-situation debate" that consumed the field for decades.
 

@@ -5,7 +5,7 @@ description: "Organic farming produces food without synthetic pesticides, fertil
 category: everyday-concepts
 tags: ["organic farming", "sustainable agriculture", "permaculture", "soil health", "biodiversity", "pesticide-free"]
 heroImage: "/images/articles/organic-farming.webp"
-heroAlt: "Rows of healthy vegetables growing in rich dark soil on an organic farm"
+heroAlt: "Editorial photograph representing the concept of organic farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "In the U.S., a farm must follow USDA National Organic Program standards for at least 3 years (the transition period), during which no prohibited substances can be used. The farm then applies to a USDA-accredited certifying agent, undergoes inspection, and submits an organic system plan. Annual inspections and record-keeping are required to maintain certification. Certification costs $750-$3,000+ annually."
 ---
 
-# What Is Organic Farming?
+# What Is Organic [Farming](/farming)?
 
-Organic farming is an agricultural approach that produces food and fiber without synthetic pesticides, synthetic fertilizers, genetically modified organisms (GMOs), growth hormones, or routine antibiotics. Instead, it relies on crop rotation, composting, biological pest control, cover crops, and other practices that work with natural ecological processes rather than overriding them with chemicals. It's both a set of specific farming practices and a philosophy about how food production should relate to the environment.
+Organic farming is an agricultural approach that produces food and fiber without synthetic pesticides, synthetic fertilizers, genetically modified organisms (GMOs), growth hormones, or routine antibiotics. Instead, it relies on crop rotation, [composting](/composting), biological pest control, cover crops, and other practices that work with natural ecological processes rather than overriding them with chemicals. It's both a set of specific farming practices and a [philosophy](/philosophy) about how food production should relate to the environment.
 
 ## What "Organic" Actually Means
 
@@ -58,13 +58,13 @@ Organic farmers use a toolkit of practices to maintain soil fertility and manage
 
 **Biological pest control** uses natural predators, parasites, and pathogens to manage crop pests. Ladybugs eat aphids. Parasitic wasps attack caterpillars. Bacillus thuringiensis (Bt) — a naturally occurring soil bacterium — kills specific insect larvae. These methods target pests without wiping out beneficial insects.
 
-**Mechanical weed control** uses cultivation, hand weeding, mulching, and flame weeding instead of herbicides. This is one of the biggest cost differences — organic weed management is labor-intensive and more expensive than spraying.
+**Mechanical weed control** uses cultivation, hand weeding, mulching, and flame weeding instead of herbicides. This is one of the biggest cost differences — organic weed [management](/management) is labor-intensive and more expensive than spraying.
 
-## The Scale of Organic Agriculture
+## The Scale of Organic [Agriculture](/agriculture)
 
 Global organic farmland has grown dramatically. In 2022, approximately 76 million hectares worldwide were managed organically — roughly 1.6% of total agricultural land. Australia leads in total organic acreage (primarily grazing land), while India leads in number of organic producers.
 
-The U.S. organic market reached about $67 billion in sales in 2023. Organic products now account for roughly 6% of total U.S. food sales. The strongest categories are produce (fruits and vegetables), dairy, and eggs.
+The U.S. organic market reached about $67 billion in [sales](/sales) in 2023. Organic products now account for roughly 6% of total U.S. food sales. The strongest categories are produce (fruits and vegetables), dairy, and eggs.
 
 Growth has been steady at 5-10% annually for over two decades, consistently outpacing conventional food sales growth. But organic farming still represents a small fraction of total agricultural production, and the price premium (typically 10-50% above conventional) limits adoption.
 
@@ -72,9 +72,9 @@ Growth has been steady at 5-10% annually for over two decades, consistently outp
 
 **Reduced chemical exposure.** Organic produce consistently shows lower pesticide residues than conventional. While residues on conventional produce are generally within regulatory limits, some consumers and scientists argue that chronic low-level exposure, particularly to endocrine-disrupting chemicals, deserves more caution than current regulations provide.
 
-**Soil health.** Long-term research (including the Rodale Institute's 40+ year Farming Systems Trial) shows that organic management builds soil organic matter, improves water infiltration, and supports more diverse soil biology than conventional farming. Healthy soil stores more carbon, resists erosion better, and maintains productivity longer.
+**Soil health.** Long-term research (including the Rodale Institute's 40+ year Farming Systems Trial) shows that organic management builds soil organic matter, improves water infiltration, and supports more diverse soil [biology](/biology) than conventional farming. Healthy soil stores more carbon, resists erosion better, and maintains [productivity](/productivity) longer.
 
-**Biodiversity.** Organic farms support significantly more wildlife — 30% more species on average, according to a meta-analysis published in the Journal of Applied Ecology. Eliminating broad-spectrum pesticides allows beneficial insects, birds, and other organisms to thrive.
+**Biodiversity.** Organic farms support significantly more wildlife — 30% more species on average, according to a meta-analysis published in the Journal of Applied [Ecology](/ecology). Eliminating broad-spectrum pesticides allows beneficial insects, birds, and other organisms to thrive.
 
 **Water quality.** Eliminating synthetic fertilizer runoff reduces nitrogen and phosphorus pollution in waterways — a major contributor to algal blooms and aquatic dead zones.
 
@@ -90,7 +90,7 @@ Growth has been steady at 5-10% annually for over two decades, consistently outp
 
 ## The Middle Ground
 
-The organic-vs-conventional debate often generates more heat than light. The reality is that both systems have strengths and weaknesses, and the best practices from each can inform better agriculture overall.
+The organic-vs-conventional [debate](/debate) often generates more heat than light. The reality is that both systems have strengths and weaknesses, and the best practices from each can inform better agriculture overall.
 
 Integrated Pest Management (IPM), for instance, uses the minimum amount of pesticide necessary — including biological controls and cultural practices borrowed from organic methods — without eliminating synthetic options entirely. Regenerative agriculture focuses on soil health and carbon sequestration using practices drawn from both organic and conventional traditions.
 

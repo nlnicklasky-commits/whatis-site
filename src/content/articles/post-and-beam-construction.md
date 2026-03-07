@@ -5,7 +5,7 @@ description: "Post-and-beam construction uses large vertical posts and horizonta
 category: technology
 tags: ["construction", "timber framing", "woodworking", "architecture", "building techniques", "sustainable building"]
 heroImage: "/images/articles/post-and-beam-construction-hero.webp"
-heroAlt: "Interior of a post-and-beam home showing exposed timber frame structure and open floor plan"
+heroAlt: "Editorial photograph representing the concept of post-and-beam construction"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "Yes. Because the walls aren't structural, they can be filled with any insulation system — structural insulated panels (SIPs), spray foam, or thick batt insulation — without interruption by studs. SIP-enclosed post-and-beam homes regularly exceed conventional energy codes. The frame sits inside the insulated shell, staying visible inside while being fully protected."
 ---
 
-# What Is Post-and-Beam Construction?
+# What Is Post-and-Beam [Construction](/construction)?
 
 Post-and-beam construction is a building method that uses large vertical posts and horizontal beams to create the structural skeleton of a building. The frame carries all the structural loads — the weight of the roof, floors, snow, wind — while the walls between the posts serve only as enclosures. They keep the weather out but don't hold anything up.
 
@@ -47,7 +47,7 @@ The reason this system has persisted for millennia while countless other buildin
 
 Modern post-and-beam construction has evolved considerably from its ancient origins, but the fundamental idea — a skeleton of posts and beams that does the structural work while everything else is just infill — remains unchanged.
 
-## How It Works: The Structural Logic
+## How It Works: The Structural [Logic](/logic)
 
 ### Posts: The Vertical Members
 
@@ -81,15 +81,15 @@ Traditional timber framing, by contrast, uses hand-cut mortise-and-tenon joints 
 
 ### Open Floor Plans
 
-Because walls aren't structural, you can put them wherever you want — or leave them out entirely. Post-and-beam homes are famous for their great rooms with soaring ceilings, open kitchens flowing into living areas, and loft spaces overlooking main floors. The structure itself creates the spatial drama.
+Because walls aren't structural, you can put them wherever you want — or leave them out entirely. Post-and-beam homes are famous for their great rooms with soaring ceilings, open kitchens flowing into living areas, and loft spaces overlooking main floors. The structure itself creates the spatial [drama](/drama).
 
 Try getting a 24-foot clear span in a conventionally framed house. You'll need expensive engineered headers and probably a support column in the middle of your living room. In a post-and-beam house, a single properly sized beam handles it.
 
-### The Exposed Frame as Architecture
+### The Exposed Frame as [Architecture](/architecture)
 
 The structural frame is the aesthetic. Heavy timbers have warmth, character, and visual weight that drywall and paint can't match. Each piece of wood shows its grain, its color variations, its natural beauty. Joints — whether traditional mortise-and-tenon or modern metal connections — become design features.
 
-This is why post-and-beam interiors photograph so well and why they command premium prices in real estate markets. The structure isn't hidden behind finishes; it is the finish.
+This is why post-and-beam interiors photograph so well and why they command premium prices in [real estate](/real-estate) markets. The structure isn't hidden behind finishes; it is the finish.
 
 ### Design Flexibility
 
@@ -149,7 +149,7 @@ Hybrid structures combining timber posts and beams with steel connections or ste
 
 Concrete frame construction (posts and beams of reinforced concrete) dominates commercial and multi-family residential building worldwide. It's fireproof, handles enormous loads, and lasts essentially forever. But it's heavy, requires extensive formwork, generates significant carbon emissions in production, and isn't what most people want in their living room.
 
-The carbon comparison is actually where timber post-and-beam construction shines. Wood sequesters carbon — the CO2 absorbed during tree growth remains locked in the timber for the life of the building. Concrete and steel production are major sources of industrial CO2 emissions. As concern about embodied carbon in buildings grows, timber construction is getting renewed attention from architects and [environmental-engineering](/environmental-engineering) advocates.
+The carbon comparison is actually where timber post-and-beam construction shines. Wood sequesters carbon — the CO2 absorbed during tree growth remains locked in the timber for the life of the building. Concrete and [steel production](/steel-production) are major sources of industrial CO2 emissions. As concern about embodied carbon in buildings grows, timber construction is getting renewed attention from architects and [environmental-engineering](/environmental-engineering) advocates.
 
 ## Mass Timber: Post-and-Beam Goes Big
 

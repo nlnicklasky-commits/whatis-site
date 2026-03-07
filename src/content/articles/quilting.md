@@ -5,7 +5,7 @@ description: "Quilting is the craft of sewing layers of fabric together into a p
 category: arts-amp-culture
 tags: ["quilting", "sewing", "textile arts", "fabric", "crafts", "handmade"]
 heroImage: "/images/articles/quilting.webp"
-heroAlt: "Colorful patchwork quilt with geometric patterns spread across a bed"
+heroAlt: "Editorial photograph representing the concept of quilting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Quilting?
 
-Quilting is the process of sewing two or more layers of fabric together with a layer of padding in between, creating a thick, warm textile. The craft encompasses designing, cutting fabric into shapes, sewing those shapes into patterns, and stitching the layers together. It's one of the world's most widespread textile traditions, practiced on every continent for centuries, and it remains enormously popular — about 7.5 million American households include an active quilter.
+Quilting is the process of [sewing](/sewing) two or more layers of fabric together with a layer of padding in between, creating a thick, warm textile. The craft encompasses designing, cutting fabric into shapes, sewing those shapes into patterns, and stitching the layers together. It's one of the world's most widespread textile traditions, practiced on every continent for centuries, and it remains enormously popular — about 7.5 million American households include an active quilter.
 
 ## How It Works
 
@@ -59,17 +59,17 @@ The Gee's Bend quilts — made by African American women in an isolated Alabama 
 
 **Paper piecing** (or foundation piecing) sews fabric to a paper template for extremely precise points and angles. English paper piecing, where fabric is basted around paper shapes and then hand-stitched together, is the traditional method for hexagon quilts and is experiencing a revival as a portable hand-sewing project.
 
-**Free-motion quilting** involves dropping the feed dogs on a sewing machine and moving the fabric manually under the needle, creating flowing, organic designs. It's like drawing with thread — and like drawing, it takes practice to do well.
+**Free-motion quilting** involves dropping the feed dogs on a sewing machine and moving the fabric manually under the needle, creating flowing, organic designs. It's like [drawing](/drawing) with thread — and like drawing, it takes practice to do well.
 
 **Long-arm quilting** uses a specialized machine with a large frame that holds the quilt taut while the operator moves the machine head across the surface. Professional long-arm quilters can finish a full-sized quilt in a day. Computerized long-arms can execute programmed designs with perfect consistency.
 
-**Art quilting** pushes beyond functional bedcovers into wall-hung artwork. Art quilters use non-traditional materials, mixed media, surface design techniques (dyeing, painting, printing on fabric), and sculptural construction. The International Quilt Festival in Houston — the largest annual quilt show — devotes major gallery space to art quilts.
+**Art quilting** pushes beyond functional bedcovers into wall-hung artwork. Art quilters use non-traditional materials, mixed media, surface design techniques ([dyeing](/dyeing), [painting](/painting), printing on fabric), and sculptural [construction](/construction). The International Quilt Festival in Houston — the largest annual quilt show — devotes major gallery space to art quilts.
 
 ## Modern Quilting
 
-The modern quilting movement (emerging around 2010) has expanded what quilting looks like. Modern quilters use solid fabrics and negative space, minimize pattern density, embrace asymmetry, and incorporate contemporary graphic design principles. The aesthetic is cleaner and more minimalist than traditional quilting, appealing to people who love the craft but not the country-cottage look.
+The modern quilting movement (emerging around 2010) has expanded what quilting looks like. Modern quilters use solid fabrics and negative space, minimize pattern density, embrace asymmetry, and incorporate contemporary [graphic design](/graphic-design) principles. The aesthetic is cleaner and more minimalist than traditional quilting, appealing to people who love the craft but not the country-cottage look.
 
-Technology has changed quilting significantly. Digital design software helps quilters plan complex layouts. Rotary cutters and acrylic rulers made precise cutting faster. Online communities connect quilters globally — Instagram quilting accounts have hundreds of thousands of followers. YouTube tutorials have made self-teaching more accessible than ever.
+Technology has changed quilting significantly. Digital design software helps quilters plan complex layouts. Rotary cutters and acrylic rulers made precise cutting faster. Online communities connect quilters globally — Instagram quilting accounts have hundreds of thousands of followers. YouTube tutorials have made self-[teaching](/teaching) more accessible than ever.
 
 The quilting industry generates an estimated $4 billion annually in the United States alone. The demographics are shifting — while quilting skewed heavily toward older women historically, younger quilters and more men are entering the craft, drawn by the maker movement and the appeal of creating something tangible.
 
@@ -77,7 +77,7 @@ The quilting industry generates an estimated $4 billion annually in the United S
 
 People quilt for warmth, obviously. A good quilt is one of the coziest things you can sleep under. But warmth isn't the main reason most quilters quilt.
 
-The process is meditative. Cutting, piecing, and stitching require focused attention without being mentally exhausting. Many quilters describe the craft as active meditation — absorbing enough to quiet mental noise while leaving room for reflection.
+The process is meditative. Cutting, piecing, and stitching require focused attention without being mentally exhausting. Many quilters describe the craft as active [meditation](/meditation) — absorbing enough to quiet mental noise while leaving room for reflection.
 
 Quilts carry meaning. A baby quilt for a grandchild. A memory quilt made from a deceased person's clothing. A wedding quilt incorporating fabrics from meaningful garments. The time and intention embedded in a handmade quilt — often hundreds of hours — gives it emotional weight that purchased bedding can never match.
 

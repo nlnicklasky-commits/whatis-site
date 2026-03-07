@@ -5,7 +5,7 @@ description: "Porcelain making is the craft of creating fine ceramic ware from k
 category: arts-amp-culture
 tags: ["porcelain", "ceramics", "pottery", "kaolin", "kiln", "glaze"]
 heroImage: "/images/articles/porcelain-making.webp"
-heroAlt: "Artisan shaping a delicate porcelain vessel on a pottery wheel"
+heroAlt: "Editorial photograph representing the concept of porcelain making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Porcelain Making?
 
-Porcelain is a type of ceramic made from kaolin clay, feldspar, and silica, fired at temperatures so high that the materials fuse into a hard, white, translucent body. It's the finest and most demanding form of ceramics — thinner than stoneware, harder than earthenware, and capable of a luminous quality that earned it the name "white gold" in Europe. Making it well requires precise chemistry, extreme heat, and patience that borders on obsession.
+Porcelain is a type of ceramic made from kaolin clay, feldspar, and silica, fired at temperatures so high that the materials fuse into a hard, white, translucent body. It's the finest and most demanding form of [ceramics](/ceramics) — thinner than stoneware, harder than earthenware, and capable of a luminous quality that earned it the name "white gold" in Europe. Making it well requires precise [chemistry](/chemistry), extreme heat, and patience that borders on obsession.
 
 ## What Makes Porcelain Special
 
@@ -43,13 +43,13 @@ Three qualities distinguish porcelain from other ceramics:
 
 **Hardness.** Fired porcelain is extremely hard — harder than steel in some formulations. It's non-porous (it doesn't absorb water even without a glaze), resistant to chemicals, and highly durable. This combination of beauty and toughness is why porcelain has been used for everything from teacups to laboratory equipment to electrical insulators.
 
-## The Chinese Invention
+## The Chinese [Invention](/invention)
 
 The Chinese invented porcelain during the Han Dynasty (206 BCE-220 CE), though early examples were closer to proto-porcelain. True, fully vitrified porcelain emerged during the Tang Dynasty (618-907 CE) and reached its peak during the Song Dynasty (960-1279 CE) and Ming Dynasty (1368-1644 CE).
 
 The city of Jingdezhen in Jiangxi Province became the porcelain capital of the world, a title it held for over a thousand years. At its peak, Jingdezhen had over 3,000 kilns and employed hundreds of thousands of workers. The division of labor was extreme — a single piece might pass through 70 different specialists, each handling one step.
 
-Chinese porcelain was traded along the Silk Road and by sea to the Middle East, Africa, and eventually Europe. The blue-and-white porcelain of the Ming Dynasty — white bodies painted with cobalt blue designs — became one of the most desired luxury goods in world history. These pieces influenced ceramic traditions across Asia, the Middle East, and Europe.
+Chinese porcelain was traded along [the Silk Road](/silk-road) and by sea to the Middle East, Africa, and eventually Europe. The blue-and-white porcelain of the Ming Dynasty — white bodies painted with cobalt blue designs — became one of the most desired luxury goods in world history. These pieces influenced ceramic traditions across Asia, the Middle East, and Europe.
 
 ## Europe's Two-Century Obsession
 
@@ -67,18 +67,18 @@ The process hasn't changed as dramatically as you might expect:
 
 **Preparing the clay body.** Porcelain clay is a precise mixture — typically 50% kaolin, 25% feldspar, and 25% silica (quartz). The proportions vary by tradition and intended use. The materials are ground finely, mixed with water to form a slip (liquid clay), then filtered and aged. Some Chinese traditions aged clay for decades before use.
 
-**Forming.** Porcelain can be thrown on a potter's wheel, hand-built with coils or slabs, slip-cast in plaster molds (the most common method for production ware), or press-molded. Wheel-throwing porcelain is notoriously difficult — the clay is less plastic than stoneware, meaning it has less natural elasticity and is more prone to collapsing, tearing, or warping.
+**Forming.** Porcelain can be thrown on a potter's wheel, hand-built with coils or slabs, slip-cast in plaster molds (the most common method for production ware), or press-molded. Wheel-throwing porcelain is notoriously difficult — the clay is less plastic than stoneware, meaning it has less natural [elasticity](/elasticity) and is more prone to collapsing, tearing, or warping.
 
 **Drying.** Formed pieces dry slowly and evenly to prevent cracking. This stage requires patience — rushing it causes stress fractures that may not appear until firing.
 
 **First firing (bisque).** Pieces are fired at around 900-1,000°C to harden them enough for handling and glazing. At this stage, they're still porous and fragile.
 
-**Glazing and decorating.** Glazes — glass-forming mixtures of silica, flux, and colorants — are applied by dipping, spraying, or brushing. Underglaze painting (applied before the final glaze) is fired into the surface permanently. Overglaze painting (applied after glazing and fired at lower temperatures) sits on top of the glaze.
+**Glazing and [decorating](/decorating).** Glazes — glass-forming mixtures of silica, flux, and colorants — are applied by dipping, spraying, or brushing. Underglaze [painting](/painting) (applied before the final glaze) is fired into the surface permanently. Overglaze painting (applied after glazing and fired at lower temperatures) sits on top of the glaze.
 
 **Final firing (glost firing).** The critical step. Pieces are fired at 1,260-1,400°C — sometimes higher — in a kiln for 12-24 hours or more. At these temperatures, the clay body vitrifies, the glaze melts and fuses to the surface, and the piece shrinks by 12-15%. Kiln temperature must be controlled precisely; even 20°C of variation can ruin an entire batch.
 
 ## Still Alive Today
 
-Porcelain making continues both as an industrial process and an art form. Industrial porcelain is used for dinnerware, sanitaryware, electrical insulators, dental prosthetics, and laboratory equipment. Art porcelain ranges from traditional Chinese and European styles to experimental contemporary work.
+Porcelain making continues both as an industrial process and an art form. Industrial porcelain is used for dinnerware, sanitaryware, electrical insulators, dental [prosthetics](/prosthetics), and laboratory equipment. Art porcelain ranges from traditional Chinese and European styles to experimental contemporary work.
 
 Modern studio potters working in porcelain include artists who push the material to its extremes — paper-thin vessels, complex assembled forms, sculptural pieces that exploit porcelain's translucency with embedded lighting. The material's difficulty is part of its appeal for serious ceramicists. Getting porcelain to do what you want, at temperatures that can destroy everything in seconds, remains one of the most demanding challenges in any craft.

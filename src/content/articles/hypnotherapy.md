@@ -5,7 +5,7 @@ description: "Hypnotherapy uses guided hypnosis to address habits, anxiety, pain
 category: health-amp-wellness
 tags: ["hypnotherapy", "hypnosis", "therapy", "mental health", "anxiety"]
 heroImage: "/images/articles/hypnotherapy.webp"
-heroAlt: "Therapist guiding a relaxed patient through a hypnotherapy session in a calm office"
+heroAlt: "Editorial photograph representing the concept of hypnotherapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ About 10-15% of the population is highly hypnotizable, meaning they can experien
 
 ## A Surprisingly Respectable History
 
-Hypnosis has a colorful and somewhat embarrassing past. Franz Anton Mesmer, an 18th-century Austrian physician, claimed to cure diseases through "animal magnetism" — a supposed invisible fluid that flowed between bodies. Mesmer's theories were nonsense, but his technique (which involved putting patients into trance-like states) produced real effects. The French Royal Commission, led by Benjamin Franklin and Antoine Lavoisier, investigated Mesmer in 1784 and concluded that the effects were real but caused by imagination, not magnetism. They were basically right.
+Hypnosis has a colorful and somewhat embarrassing past. Franz Anton Mesmer, an 18th-century Austrian physician, claimed to cure diseases through "animal [magnetism](/magnetism)" — a supposed invisible fluid that flowed between bodies. Mesmer's theories were nonsense, but his technique (which involved putting patients into trance-like states) produced real effects. The French Royal Commission, led by Benjamin Franklin and Antoine Lavoisier, investigated Mesmer in 1784 and concluded that the effects were real but caused by imagination, not magnetism. They were basically right.
 
 The Scottish surgeon James Braid coined the term "hypnosis" in the 1840s (from the Greek "hypnos," meaning sleep — a misnomer, since hypnosis isn't sleep). Braid recognized that the phenomenon was psychological, not mystical, and began studying it systematically.
 
@@ -67,7 +67,7 @@ A typical hypnotherapy session runs 50 to 90 minutes and follows a fairly standa
 
 **Deepening.** Once you're in a light trance, the therapist uses additional techniques to deepen the state — counting down, asking you to imagine descending a staircase, or simply allowing time for relaxation to increase. Not everyone reaches the same depth, and that's fine. Even light hypnosis can be therapeutically useful.
 
-**Therapeutic work.** This is the core of the session, and it varies dramatically based on the treatment goal. For smoking cessation, the therapist might use direct suggestion ("you find the taste of cigarettes repulsive") and cognitive restructuring ("you are a non-smoker"). For pain management, the therapist might teach you to alter your perception of pain — imagining it as a dial you can turn down, or as a color that fades. For [anxiety](/behavioral-psychology), the therapist might guide you through imagined exposure to feared situations while maintaining deep relaxation.
+**Therapeutic work.** This is the core of the session, and it varies dramatically based on the treatment goal. For smoking cessation, the therapist might use direct suggestion ("you find the taste of cigarettes repulsive") and cognitive restructuring ("you are a non-smoker"). For pain [management](/management), the therapist might teach you to alter your perception of pain — imagining it as a dial you can turn down, or as a color that fades. For [anxiety](/behavioral-[psychology](/psychology)), the therapist might guide you through imagined exposure to feared situations while maintaining deep relaxation.
 
 **Emergence.** The therapist gradually brings you out of the hypnotic state, usually by counting up or suggesting that you'll feel alert and refreshed. Most people feel relaxed and calm afterward. Some report feeling mildly disoriented for a few minutes.
 
@@ -79,7 +79,7 @@ The scientific evidence for hypnotherapy is a mixed picture — strong for some 
 
 ### Where Evidence Is Strong
 
-**Pain management.** This is probably hypnotherapy's best-supported application. A 2019 meta-analysis published in *Neuroscience & Biobehavioral Reviews* found that hypnosis produced significant pain reduction across multiple types of pain, including surgical pain, cancer-related pain, and chronic conditions. Some hospitals now offer hypnosis as an adjunct to chemical anesthesia during procedures.
+**Pain management.** This is probably hypnotherapy's best-supported application. A 2019 meta-analysis published in *[Neuroscience](/neuroscience) & Biobehavioral Reviews* found that hypnosis produced significant pain reduction across multiple types of pain, including surgical pain, cancer-related pain, and chronic conditions. Some hospitals now offer hypnosis as an adjunct to chemical anesthesia during procedures.
 
 **Irritable Bowel Syndrome (IBS).** Gut-directed hypnotherapy — developed by Peter Whorwell at the University of Manchester — has shown remarkable results for IBS. Multiple randomized controlled trials have found that 70-80% of patients who complete a course of gut-directed hypnotherapy experience significant symptom improvement, and the benefits persist for years. The National Institute for Health and Care Excellence (NICE) in the UK lists hypnotherapy as a treatment option for IBS when other interventions fail.
 
@@ -103,7 +103,7 @@ It may be worth considering if you're dealing with chronic pain, IBS, smoking, o
 
 It's not appropriate for everyone. People with certain psychiatric conditions — particularly psychotic disorders like schizophrenia, severe dissociative disorders, or active substance abuse — should generally avoid hypnotherapy or pursue it only under close psychiatric supervision. The altered state of consciousness can potentially worsen some conditions.
 
-The biggest practical challenge is finding a qualified practitioner. Regulation varies enormously — in many jurisdictions, anyone can call themselves a "hypnotherapist" regardless of training. Look for practitioners who hold a license in a recognized health profession (psychology, medicine, social work, counseling) and have specific training in clinical hypnosis. Organizations like the American Society of Clinical Hypnosis and the Society for Clinical and Experimental Hypnosis maintain directories of qualified practitioners.
+The biggest practical challenge is finding a qualified practitioner. Regulation varies enormously — in many jurisdictions, anyone can call themselves a "hypnotherapist" regardless of training. Look for practitioners who hold a license in a recognized health profession (psychology, medicine, [social work](/social-work), counseling) and have specific training in clinical hypnosis. Organizations like the American Society of Clinical Hypnosis and the Society for Clinical and Experimental Hypnosis maintain directories of qualified practitioners.
 
 ## The Honest Assessment
 

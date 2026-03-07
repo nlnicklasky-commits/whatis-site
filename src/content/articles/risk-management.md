@@ -5,7 +5,7 @@ description: "Risk management is the process of identifying, analyzing, and resp
 category: business
 tags: ["finance", "risk management", "business", "insurance"]
 heroImage: "/images/articles/risk-management.webp"
-heroAlt: "A business professional analyzing a risk assessment matrix on a large display screen"
+heroAlt: "Editorial photograph representing the concept of risk management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
     a: "No. Eliminating all risk is impossible and would also eliminate all opportunity, since risk and reward are fundamentally linked. The goal of risk management is not zero risk but rather informed risk-taking — understanding which risks you face, reducing the ones that could cause unacceptable harm, and consciously accepting the remaining risks with contingency plans in place. Organizations that try to eliminate all risk typically become so cautious that they cannot compete effectively."
 ---
 
-# What Is Risk Management?
+# What Is Risk [Management](/management)?
 
 Risk management is the systematic process of figuring out what could go wrong, deciding how bad it would be if it did, and taking steps to prevent it — or at least survive it. Every organization does this, whether they call it risk management or not. The question is whether they do it deliberately and well, or haphazardly and badly.
 
@@ -45,7 +45,7 @@ A quick tour of recent history makes the case:
 - The COVID-19 pandemic exposed businesses without contingency plans for supply chain disruptions, remote work, or prolonged revenue loss. Companies with strong risk management frameworks adapted faster and survived in greater numbers.
 - The 2021 Colonial Pipeline ransomware attack shut down the largest fuel pipeline in the U.S. for six days, causing fuel shortages across the Southeast. The company paid a $4.4 million ransom. Better cybersecurity risk management could have prevented or minimized the incident.
 
-These are headline-level examples. But risk management matters just as much at smaller scales — a construction project that finishes on budget because weather delays were planned for, a restaurant that survives a slow season because cash reserves were maintained, a startup that pivots successfully because the founders anticipated market shifts.
+These are headline-level examples. But risk management matters just as much at smaller scales — a [construction](/construction) project that finishes on budget because weather delays were planned for, a restaurant that survives a slow season because cash reserves were maintained, a startup that pivots successfully because the founders anticipated market shifts.
 
 ## The Risk Management Process
 
@@ -57,7 +57,7 @@ You can't manage what you haven't identified. This step involves systematically 
 
 Common identification techniques include:
 
-**Brainstorming sessions** with cross-functional teams. Different perspectives catch different risks. The operations manager sees supply chain vulnerabilities the marketing director misses. The IT team spots cybersecurity gaps that finance doesn't think about.
+**Brainstorming sessions** with cross-functional teams. Different perspectives catch different risks. The operations manager sees supply chain vulnerabilities the [marketing](/marketing) director misses. The IT team spots cybersecurity gaps that [finance](/finance) doesn't think about.
 
 **Historical analysis.** What has gone wrong before? In this organization? In this industry? Lessons from past failures are one of the richest sources of risk identification — if organizations actually bother to review them.
 
@@ -79,9 +79,9 @@ Not all risks are created equal. A risk with a 90% chance of happening and a $10
 
 The classic tool is the **risk matrix** — a grid with likelihood on one axis and impact on the other, creating zones of risk severity. Risks in the high-likelihood, high-impact quadrant demand immediate attention. Low-likelihood, low-impact risks can often be accepted and monitored.
 
-**Quantitative analysis** goes further, assigning dollar values and probabilities to calculate expected monetary loss. Techniques include:
+**[Quantitative analysis](/quantitative-analysis)** goes further, assigning dollar values and probabilities to calculate expected monetary loss. Techniques include:
 - **Expected value** — probability multiplied by financial impact. A 10% chance of a $500,000 loss has an expected value of $50,000.
-- **Monte Carlo simulation** — running thousands of randomized scenarios to model the range of possible outcomes. This is standard in finance, engineering, and large-scale project management.
+- **Monte Carlo simulation** — [running](/running) thousands of randomized scenarios to model the range of possible outcomes. This is standard in finance, [engineering](/engineering), and large-scale [project management](/project-management).
 - **Value at Risk (VaR)** — widely used in finance to estimate the maximum expected loss over a given time period at a specified confidence level.
 
 ### Step 3: Risk Evaluation and Prioritization
@@ -100,7 +100,7 @@ For each prioritized risk, you choose a response strategy:
 
 **Mitigate** — Reduce the likelihood or impact. Install fire suppression systems (reduces impact of fire). Implement two-factor authentication (reduces likelihood of unauthorized access). Diversify suppliers (reduces impact of any single supplier failing). Most organizational risk management focuses on mitigation.
 
-**Transfer** — Shift the risk to another party. Insurance is the most common transfer mechanism. Contracts can transfer specific risks to vendors, partners, or customers. Hedging financial positions transfers market risk to counterparties.
+**Transfer** — Shift the risk to another party. [Insurance](/insurance) is the most common transfer mechanism. Contracts can transfer specific risks to vendors, partners, or customers. Hedging financial positions transfers market risk to counterparties.
 
 **Accept** — Acknowledge the risk and move forward without active treatment. This is appropriate when the cost of treating the risk exceeds the expected loss, or when the risk is minor enough that it doesn't warrant action. Acceptance should always be a conscious decision, not a default from inaction.
 
@@ -133,7 +133,7 @@ Risks fall into broad categories that apply across most organizations:
 
 ## Enterprise Risk Management (ERM)
 
-Traditional risk management often happens in silos — the finance team manages financial risks, IT manages cyber risks, operations manages operational risks. Enterprise Risk Management (ERM) attempts to integrate all risk management activities into a unified framework that gives leadership a complete picture of the organization's risk exposure.
+Traditional risk management often happens in silos — the finance team manages financial risks, IT manages cyber risks, operations manages operational risks. Enterprise Risk Management (ERM) attempts to integrate all risk management activities into a unified framework that gives [leadership](/leadership) a complete picture of the organization's risk exposure.
 
 The COSO ERM framework (developed by the Committee of Sponsoring Organizations of the Treadway Commission) is the most widely adopted standard. It connects risk management directly to strategy and performance, emphasizing that risk should inform decision-making at every level of the organization.
 

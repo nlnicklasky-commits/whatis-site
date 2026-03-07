@@ -5,7 +5,7 @@ description: "Forensic science applies scientific methods to criminal and civil 
 category: science
 tags: ["crime", "investigation", "evidence", "laboratory", "dna", "fingerprints", "justice"]
 heroImage: "/images/articles/forensic-science-hero.webp"
-heroAlt: "A forensic scientist in protective gear examining evidence under ultraviolet light in a crime lab"
+heroAlt: "Editorial photograph representing the concept of forensic science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Forensic Science?
 
-Forensic science is the application of scientific principles and methods to matters of law, encompassing the collection, preservation, analysis, and presentation of physical evidence in criminal and civil proceedings. It spans dozens of disciplines — from DNA analysis and fingerprint examination to toxicology, ballistics, and [digital forensics](/digital-forensics) — united by the common goal of using science to establish facts relevant to legal questions.
+Forensic science is the application of scientific principles and methods to matters of law, encompassing the collection, preservation, analysis, and presentation of physical evidence in criminal and civil proceedings. It spans dozens of disciplines — from DNA analysis and fingerprint examination to [toxicology](/toxicology), ballistics, and [digital forensics](/digital-forensics) — united by the common goal of using science to establish facts relevant to legal questions.
 
 ## The Crime Scene: Where It All Starts
 
@@ -45,7 +45,7 @@ Everything in forensic science flows from the crime scene. Mess this up, and the
 
 Before anyone touches anything, the scene must be thoroughly documented. This means photography — wide-angle shots establishing the scene, mid-range photos showing the spatial relationships between evidence, and close-ups of individual items with and without measurement scales. Video walkthroughs capture the overall scene. Detailed sketches record precise measurements because photographs can distort distances and perspectives.
 
-Modern scenes may also be documented with 3D laser scanning, creating a detailed digital model that can be revisited and measured long after the physical scene has been released. This technology — adapted from surveying and architectural applications — captures millions of spatial data points in minutes and allows investigators to virtually revisit the scene from any angle.
+Modern scenes may also be documented with 3D laser scanning, creating a detailed digital model that can be revisited and measured long after the physical scene has been released. This technology — adapted from [surveying](/surveying) and architectural applications — captures millions of spatial data points in minutes and allows investigators to virtually revisit the scene from any angle.
 
 ### Evidence Collection
 
@@ -91,7 +91,7 @@ This has led to controversies around probabilistic genotyping software, which us
 
 CODIS contains over 22 million offender profiles and more than 5 million forensic profiles (from crime scenes). Since its inception, it has produced over 700,000 investigative leads. When a crime scene DNA profile is uploaded and matches an existing offender profile, investigators have a suspect they might never have identified otherwise.
 
-Familial DNA searching — looking for partial matches that might indicate a relative of the offender is in the database — has solved high-profile cases including the Golden State Killer, identified through a genealogy database rather than CODIS.
+Familial DNA searching — looking for partial matches that might indicate a relative of the offender is in the database — has solved high-profile cases including the Golden State Killer, identified through a [genealogy](/genealogy) database rather than CODIS.
 
 But DNA databases raise privacy concerns. Who should be in the database? Just convicted felons? Anyone arrested? Everyone? Different jurisdictions draw the line differently, and the debate reflects fundamental tensions between public safety and privacy.
 
@@ -109,7 +109,7 @@ Fingerprint examiners compare prints using three levels of detail: the overall p
 
 The Automated Fingerprint Identification System (AFIS) — and its national version, IAFIS, maintained by the FBI — contains fingerprints from over 160 million individuals. When a crime scene fingerprint is entered, the system searches its database and returns a list of candidate matches, ranked by similarity.
 
-Critically, AFIS doesn't make identifications. It narrows the field. A trained examiner must then compare the candidates to the crime scene print and make the identification decision. This human element is both the system's strength (pattern recognition that computers still struggle with) and its weakness (subjective judgment subject to bias).
+Critically, AFIS doesn't make identifications. It narrows the field. A trained examiner must then compare the candidates to the crime scene print and make the identification decision. This human element is both the system's strength ([pattern recognition](/pattern-recognition) that computers still struggle with) and its weakness (subjective judgment subject to bias).
 
 ### Controversies and Reforms
 
@@ -123,13 +123,13 @@ Forensic toxicology determines whether drugs, alcohol, poisons, or other chemica
 
 ### Postmortem Toxicology
 
-When someone dies unexpectedly, the medical examiner collects blood, urine, vitreous humor (eye fluid), liver tissue, and sometimes other specimens for toxicological analysis. Immunoassay screening tests detect broad categories of substances, and positive results are confirmed and quantified using gas chromatography-mass spectrometry (GC-MS) or liquid chromatography-tandem mass spectrometry (LC-MS/MS).
+When someone dies unexpectedly, the medical examiner collects blood, urine, vitreous humor (eye fluid), liver tissue, and sometimes other specimens for toxicological analysis. Immunoassay screening tests detect broad categories of substances, and positive results are confirmed and quantified using gas [chromatography](/chromatography)-mass spectrometry (GC-MS) or liquid chromatography-tandem mass spectrometry (LC-MS/MS).
 
 Interpretation is where the complexity lies. A drug found in postmortem blood doesn't necessarily mean it caused death. The concentration matters, the person's tolerance matters, drug interactions matter, and postmortem redistribution (drugs moving between tissues after death) can alter concentrations. A competent forensic toxicologist considers all these factors when rendering an opinion.
 
 ### Impaired Driving
 
-Blood alcohol concentration (BAC) measurement for DUI cases is one of the highest-volume forensic analyses performed. Breath testing (using infrared spectroscopy) provides immediate roadside results, while blood testing in the laboratory provides more accurate confirmation.
+Blood alcohol concentration (BAC) measurement for DUI cases is one of the highest-volume forensic analyses performed. Breath testing (using infrared [spectroscopy](/spectroscopy)) provides immediate roadside results, while blood testing in the laboratory provides more accurate confirmation.
 
 The legal limit in most U.S. states is 0.08% BAC. At this concentration, the average person experiences reduced coordination, impaired judgment, and slowed reaction times. But individual variation is substantial — chronic heavy drinkers may show little impairment at 0.08%, while infrequent drinkers may be significantly impaired at 0.05%.
 
@@ -147,7 +147,7 @@ This discipline has faced scientific criticism. A 2009 National Academy of Scien
 
 ### Gunshot Residue
 
-When a firearm discharges, a cloud of particles containing lead, barium, and antimony is expelled from the barrel and action. These particles can land on the shooter's hands, clothing, and nearby surfaces. Detection of gunshot residue (GSR) using scanning electron microscopy with energy-dispersive X-ray spectroscopy (SEM/EDX) can indicate that a person was near a discharged firearm.
+When a firearm discharges, a cloud of particles containing lead, barium, and antimony is expelled from the barrel and action. These particles can land on the shooter's hands, clothing, and nearby surfaces. Detection of gunshot residue (GSR) using [scanning electron microscopy](/scanning-electron-microscopy) with energy-dispersive X-ray spectroscopy (SEM/EDX) can indicate that a person was near a discharged firearm.
 
 But GSR evidence has significant limitations. Particles can transfer from one surface to another (a police officer who handled a gun can transfer GSR to a suspect during arrest). Environmental contamination from other sources (fireworks, car brake pads) can produce similar particles. And GSR dissipates quickly — after a few hours of normal activity, most particles will have been lost from the hands.
 
@@ -205,7 +205,7 @@ Forensic science continues to evolve. **Rapid DNA** instruments can produce a DN
 
 **Forensic genealogy** uses DNA profiles uploaded to public genealogy databases to identify suspects through their relatives — the technique that identified the Golden State Killer. It raises profound privacy questions about whether people who voluntarily upload their DNA for ancestry research have consented to being part of a law enforcement search tool.
 
-**AI and machine learning** are being explored for pattern recognition tasks — automated fingerprint comparison, facial recognition from surveillance footage, and handwriting analysis. The promise is increased objectivity and consistency. The risk is automating biases present in training data.
+**AI and machine learning** are being explored for pattern recognition tasks — automated fingerprint comparison, facial recognition from surveillance footage, and [handwriting analysis](/handwriting-analysis). The promise is increased objectivity and consistency. The risk is automating biases present in training data.
 
 ## Key Takeaways
 

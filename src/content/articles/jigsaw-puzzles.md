@@ -5,7 +5,7 @@ description: "Jigsaw puzzles are pictures cut into interlocking pieces that you 
 category: everyday-concepts
 tags: ["jigsaw puzzles", "puzzles", "games", "hobbies", "brain training"]
 heroImage: "/images/articles/jigsaw-puzzles.webp"
-heroAlt: "Partially completed jigsaw puzzle on a table with colorful pieces scattered around"
+heroAlt: "Editorial photograph representing the concept of jigsaw puzzles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,21 +31,21 @@ faq:
 
 # What Is Jigsaw Puzzles?
 
-A jigsaw puzzle is an image — a photograph, painting, or illustration — printed on cardboard or wood, cut into interlocking pieces, and reassembled for entertainment. It is one of the simplest and most enduring forms of recreation: no batteries, no internet connection, no opponents required. Just you, a pile of cardboard pieces, and the satisfying click of each piece finding its place.
+A jigsaw puzzle is an image — a photograph, [painting](/painting), or [illustration](/illustration) — printed on cardboard or wood, cut into interlocking pieces, and reassembled for entertainment. It is one of the simplest and most enduring forms of recreation: no batteries, no internet connection, no opponents required. Just you, a pile of cardboard pieces, and the satisfying click of each piece finding its place.
 
 ## A Brief History
 
-The first jigsaw puzzles appeared around 1760 when John Spilsbury, a London mapmaker, mounted a map on wood and cut it along country borders as a geography teaching tool. These "dissected maps" were educational toys for wealthy children — handmade and expensive.
+The first jigsaw puzzles appeared around 1760 when John Spilsbury, a London mapmaker, mounted a map on wood and cut it along country borders as a [geography](/geography) [teaching](/teaching) tool. These "dissected maps" were educational toys for wealthy children — handmade and expensive.
 
 The name "jigsaw puzzle" is actually a misnomer. Early puzzles were cut with a marquetry saw or fret saw, not a jigsaw. The name stuck anyway. By the late 1800s, die-cutting technology allowed mass production on cardboard, making puzzles affordable for everyone.
 
-The Great Depression was, oddly, a golden age for jigsaw puzzles. They were cheap entertainment during hard times — a 25-cent puzzle could occupy a family for days. Weekly puzzle editions at newsstands attracted millions of customers. Sales peaked at 10 million puzzles per week in 1933.
+The Great Depression was, oddly, a golden age for jigsaw puzzles. They were cheap entertainment during hard times — a 25-cent puzzle could occupy a family for days. Weekly puzzle editions at newsstands attracted millions of customers. [Sales](/sales) peaked at 10 million puzzles per week in 1933.
 
 The COVID-19 pandemic triggered another boom. With people stuck at home, jigsaw puzzle sales increased 300 to 400% in early 2020. Major manufacturers sold out entirely. The appeal was the same as in the Depression: affordable, absorbing entertainment that does not require leaving the house.
 
 ## How They Are Made
 
-Modern jigsaw puzzles are printed on thick cardboard using offset lithography, then cut with steel dies (metal templates with sharp edges shaped like interlocking pieces). A single die can cut millions of puzzles before wearing out.
+Modern jigsaw puzzles are printed on thick cardboard using offset [lithography](/lithography), then cut with steel dies (metal templates with sharp edges shaped like interlocking pieces). A single die can cut millions of puzzles before wearing out.
 
 The piece shapes matter. **Grid-cut puzzles** use a regular grid with uniform tabs and blanks — cheaper to produce but less interesting to assemble. **Random-cut puzzles** (also called "fully interlocking") have unique, irregular pieces that only fit in one location — more challenging and satisfying.
 
@@ -63,7 +63,7 @@ Puzzling is not just fun — research suggests it exercises your brain in severa
 
 **Problem-solving** — developing strategies (start with edges, sort by color, work on distinct areas) mirrors general problem-solving approaches.
 
-A 2019 study published in *Frontiers in Aging Neuroscience* found that regular jigsaw puzzlers performed better across eight cognitive domains compared to non-puzzlers. While the study does not prove causation, it suggests that puzzling is at least correlated with preserved cognitive function.
+A 2019 study published in *Frontiers in Aging [Neuroscience](/neuroscience)* found that regular jigsaw puzzlers performed better across eight cognitive domains compared to non-puzzlers. While the study does not prove causation, it suggests that puzzling is at least correlated with preserved cognitive function.
 
 ## Strategy Tips
 
@@ -85,7 +85,7 @@ Why do people spend hours fitting together pictures they could simply look at? T
 
 **Tangible progress.** In a world of abstract, digital work, watching a physical picture emerge piece by piece provides concrete, visible evidence of accomplishment.
 
-**Mindfulness.** Puzzling requires present-moment attention. You cannot effectively puzzle while worrying about tomorrow. It is meditation disguised as recreation.
+**Mindfulness.** Puzzling requires present-moment attention. You cannot effectively puzzle while worrying about tomorrow. It is [meditation](/meditation) disguised as recreation.
 
 **Completion.** Placing the final piece produces a reliable dopamine hit. The picture is done. The chaos is resolved. Everything fits.
 

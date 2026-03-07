@@ -5,7 +5,7 @@ description: "Econometrics applies statistical and mathematical methods to econo
 category: finance
 tags: ["econometrics", "statistics", "economics", "economic modeling", "regression analysis", "forecasting", "economic policy"]
 heroImage: "/images/articles/econometrics-hero.webp"
-heroAlt: "Statistical regression output overlaying economic data charts and graphs"
+heroAlt: "Editorial photograph representing the concept of econometrics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Econometrics?
 
-Econometrics is the application of statistical methods, mathematical models, and computational techniques to economic data in order to test economic theories, estimate causal relationships, and produce forecasts. It sits at the intersection of economics, statistics, and mathematics, turning abstract economic ideas into testable, quantifiable propositions.
+Econometrics is the application of statistical methods, mathematical models, and computational techniques to economic data in order to test economic theories, estimate causal relationships, and produce forecasts. It sits at the intersection of economics, statistics, and [mathematics](/mathematics), turning abstract economic ideas into testable, quantifiable propositions.
 
 ## Why Economics Needed Its Own Statistics
 
@@ -59,7 +59,7 @@ Regression estimates the relationship between a dependent variable (the thing yo
 
 Y = β₀ + β₁X + ε
 
-Translation: Y (say, wages) equals some baseline value (β₀) plus some multiple (β₁) of X (say, years of education), plus an error term (ε) capturing everything else that affects wages.
+[Translation](/translation): Y (say, wages) equals some baseline value (β₀) plus some multiple (β₁) of X (say, years of education), plus an error term (ε) capturing everything else that affects wages.
 
 OLS finds the values of β₀ and β₁ that minimize the sum of squared differences between your predicted Y values and the actual Y values in your data. Geometrically, it finds the line of best fit through a scatter plot of data points.
 
@@ -109,7 +109,7 @@ This approach won Angrist a share of the 2021 Nobel Prize.
 
 Sometimes history provides experiments that economists can exploit. A policy change that affects some people but not others creates a "treatment group" and a "control group"—not by random assignment, but by circumstance.
 
-The most famous natural experiment in econometrics: David Card's study of the 1980 Mariel boatlift. When 125,000 Cuban immigrants suddenly arrived in Miami, it created a natural experiment in immigration economics. Card compared Miami's labor market to similar cities that didn't experience the influx, finding essentially no effect on wages or employment for native workers—a result that challenged conventional economic theory about immigration.
+The most famous natural experiment in econometrics: David Card's study of the 1980 Mariel boatlift. When 125,000 Cuban immigrants suddenly arrived in Miami, it created a natural experiment in immigration economics. Card compared Miami's labor market to similar cities that didn't experience the influx, finding essentially no effect on wages or employment for native workers—a result that challenged conventional [economic theory](/economic-theory) about immigration.
 
 ### Difference-in-Differences
 
@@ -139,11 +139,11 @@ Sometimes two non-stationary series move together in the long run—they share a
 
 ### ARCH and GARCH Models
 
-Financial time series have a peculiar property: periods of high volatility tend to cluster together. Robert Engle's ARCH (Autoregressive Conditional Heteroscedasticity) model and Tim Bollerslev's extension, GARCH, capture this volatility clustering. These models are standard tools in financial risk management—when a bank calculates your portfolio's Value at Risk, it's probably using a GARCH-type model.
+Financial time series have a peculiar property: periods of high volatility tend to cluster together. Robert Engle's ARCH (Autoregressive Conditional Heteroscedasticity) model and Tim Bollerslev's extension, GARCH, capture this volatility clustering. These models are standard tools in financial [risk management](/risk-management)—when a bank calculates your portfolio's Value at Risk, it's probably using a GARCH-type model.
 
 ### Vector Autoregression (VAR)
 
-When multiple time series influence each other (interest rates affect inflation, inflation affects interest rates), VAR models estimate the system simultaneously. Christopher Sims developed this approach and won the 2011 Nobel Prize. Central banks use VAR models extensively to understand how monetary policy changes ripple through the economy.
+When multiple time series influence each other (interest rates affect inflation, inflation affects interest rates), VAR models estimate the system simultaneously. Christopher Sims developed this approach and won the 2011 Nobel Prize. Central banks use VAR models extensively to understand how [monetary policy](/monetary-policy) changes ripple through the economy.
 
 ## Panel Data Methods
 
@@ -191,13 +191,13 @@ Where does econometric analysis actually show up in the real world?
 
 **Central banks** use econometric models to set interest rates, forecast inflation, and assess financial stability. The Federal Reserve's FRB/US model contains hundreds of equations estimated from decades of economic data.
 
-**Government policy.** Before implementing a policy (tax changes, healthcare reform, environmental regulation), governments estimate its likely effects using econometric analysis. The Congressional Budget Office "scores" proposed legislation partly using econometric models.
+**[Government](/government) policy.** Before implementing a policy (tax changes, healthcare reform, environmental regulation), governments estimate its likely effects using econometric analysis. The Congressional Budget Office "scores" proposed legislation partly using econometric models.
 
 **Finance.** Asset pricing models, risk management systems, and [algorithmic trading](/algorithms) strategies all rest on econometric foundations. Factor models that explain stock returns draw directly from regression analysis.
 
 **Tech companies.** A/B testing—the randomized experiments that decide which button color or headline performs better—is applied econometrics, whether the practitioners call it that or not. Tech companies employ economists trained in causal inference to measure the effects of platform changes on user behavior.
 
-**International development.** The World Bank, IMF, and development organizations use econometrics to evaluate aid programs, estimate the effects of trade agreements, and project economic growth in developing countries.
+**[International development](/international-development).** The World Bank, IMF, and development organizations use econometrics to evaluate aid programs, estimate the effects of trade agreements, and project economic growth in developing countries.
 
 ## Learning Econometrics
 

@@ -5,7 +5,7 @@ description: "Subatomic particles are the tiny building blocks smaller than atom
 category: science
 tags: ["physics", "subatomic particles", "quantum mechanics", "particle physics", "standard model"]
 heroImage: "/images/articles/subatomic-particles.webp"
-heroAlt: "Abstract visualization of subatomic particles colliding in a particle accelerator with colorful energy trails"
+heroAlt: "Editorial photograph representing the concept of subatomic particles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

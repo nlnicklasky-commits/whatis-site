@@ -5,7 +5,7 @@ description: "African history spans millions of years of human development, anci
 category: history
 tags: ["african history", "africa", "history", "civilizations", "colonialism"]
 heroImage: "/images/articles/african-history.webp"
-heroAlt: "Great Zimbabwe stone ruins with massive walls against an African savanna backdrop"
+heroAlt: "Editorial photograph representing the concept of african history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The oldest known *Homo sapiens* fossils come from Jebel Irhoud in Morocco (appro
 
 For the vast majority of human existence — roughly 290,000 of our 300,000 years — all humans lived in Africa. The out-of-Africa migration, beginning around 70,000 years ago, eventually populated every other continent. But Africa remained home to the most genetically diverse human populations on Earth. There's more genetic diversity within Africa than in the rest of the world combined. That's how long and how richly human [evolution](/evolutionary-biology) played out on the continent.
 
-Early African innovations include the oldest known art (shell beads from Blombos Cave, South Africa, ~75,000 years old), the earliest known mathematical notations (the Ishango bone from the Democratic Republic of Congo, ~20,000 years old), and the independent development of agriculture in multiple African regions.
+Early African innovations include the oldest known art (shell beads from Blombos Cave, South Africa, ~75,000 years old), the earliest known mathematical notations (the Ishango bone from the Democratic Republic of Congo, ~20,000 years old), and the independent development of [agriculture](/agriculture) in multiple African regions.
 
 ## Ancient Civilizations
 
@@ -53,7 +53,7 @@ Early African innovations include the oldest known art (shell beads from Blombos
 
 Ancient Egypt is the African civilization everyone knows — and too few people think of as African. The Nile Valley civilization emerged around 3100 BCE with the unification of Upper and Lower Egypt under King Narmer, and it persisted for over 3,000 years.
 
-Egypt's achievements are staggering: the Great Pyramid of Giza (built around 2560 BCE, the tallest human-made structure for 3,800 years), hieroglyphic writing, advanced mathematics and medicine, monumental architecture, and a bureaucratic state system that managed millions of people across hundreds of miles.
+Egypt's achievements are staggering: the Great Pyramid of Giza (built around 2560 BCE, the tallest human-made structure for 3,800 years), hieroglyphic writing, advanced mathematics and medicine, monumental [architecture](/architecture), and a bureaucratic state system that managed millions of people across hundreds of miles.
 
 But Egypt didn't exist in isolation. It was deeply connected to other African civilizations — trading with, fighting against, and being influenced by its neighbors to the south and west.
 
@@ -123,7 +123,7 @@ Different colonial powers operated differently. British "indirect rule" worked t
 
 ## Independence and After
 
-African independence movements gained momentum after World War II. African soldiers who'd fought for European freedom returned home unwilling to accept colonial subjugation. Pan-African intellectuals like Kwame Nkrumah, Leopold Senghor, Jomo Kenyatta, and Frantz Fanon articulated visions of African self-determination.
+African independence movements gained momentum after [World War II](/world-war-ii). African soldiers who'd fought for European freedom returned home unwilling to accept colonial subjugation. Pan-African intellectuals like Kwame Nkrumah, Leopold Senghor, Jomo Kenyatta, and Frantz Fanon articulated visions of African self-determination.
 
 Ghana became the first sub-Saharan African country to gain independence in 1957, with Nkrumah as its leader. The dam broke: 17 countries became independent in 1960 alone. By 1968, most of Africa was self-governing.
 
@@ -139,4 +139,4 @@ Nigeria has Africa's largest [economy](/economics) and a vibrant film industry (
 
 But challenges remain serious. Ongoing conflicts in the Sahel, the Horn of Africa, and parts of Central Africa affect millions. Income inequality is extreme in many countries. Climate change threatens agricultural systems that hundreds of millions depend on.
 
-Africa's population is the world's youngest and fastest-growing — projected to reach 2.5 billion by 2050. That demographic reality will shape global economics, politics, and culture for the rest of the century. Understanding African history isn't optional anymore — if it ever was. It's essential context for understanding the world that's coming.
+Africa's population is the world's youngest and fastest-growing — projected to reach 2.5 billion by 2050. That demographic reality will shape [global economics](/global-economics), politics, and culture for the rest of the century. Understanding African history isn't optional anymore — if it ever was. It's essential context for understanding the world that's coming.

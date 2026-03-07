@@ -5,7 +5,7 @@ description: "Currency trading is the buying and selling of national currencies 
 category: finance
 tags: ["currency trading", "forex", "foreign exchange", "finance", "investment", "trading", "currencies"]
 heroImage: "/images/articles/currency-trading-hero.webp"
-heroAlt: "Trading screen displaying currency exchange rates and candlestick charts"
+heroAlt: "Editorial photograph representing the concept of currency trading"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -69,7 +69,7 @@ Central banks are the heavyweights. The Federal Reserve, European Central Bank, 
 
 When the Bank of Japan buys massive quantities of US dollars with yen, it weakens the yen. When the Swiss National Bank sets a floor under EUR/CHF (as it did from 2011 to 2015), it's committing to unlimited currency buying. These interventions can move markets instantly.
 
-Central bank monetary policy---particularly interest rate decisions---is the single most important driver of exchange rates. Higher interest rates attract foreign capital (investors seeking higher returns), increasing demand for the currency and pushing its value up. This relationship between interest rates and currency values is the foundation of most currency trading strategies.
+Central bank [monetary policy](/monetary-policy)---particularly interest rate decisions---is the single most important driver of exchange rates. Higher interest rates attract foreign capital (investors seeking higher returns), increasing demand for the currency and pushing its value up. This relationship between interest rates and currency values is the foundation of most currency trading strategies.
 
 ### Commercial Banks
 
@@ -79,7 +79,7 @@ Banks profit from the spread---the difference between the bid price (what they'l
 
 ### Corporations
 
-Any company doing international business needs foreign exchange. A U.S. manufacturer buying components from Japan needs yen. A European automaker selling cars in the U.S. receives dollars that need converting to euros. A British airline buying fuel (priced in dollars) needs to manage GBP/USD exposure.
+Any company doing [international business](/international-business) needs foreign exchange. A U.S. manufacturer buying components from Japan needs yen. A European automaker selling cars in the U.S. receives dollars that need converting to euros. A British airline buying fuel (priced in dollars) needs to manage GBP/USD exposure.
 
 [Corporate finance](/corporate-finance) departments use the forex market to convert currencies for daily operations and to hedge future currency risk. If a German company knows it will receive $10 million from U.S. sales in six months, it can sell USD/EUR forward to lock in today's exchange rate, eliminating the risk that the dollar weakens before the money arrives.
 
@@ -115,7 +115,7 @@ Use is what makes forex trading both appealing and dangerous. In the U.S., retai
 
 Margin is the collateral required to maintain a leveraged position. If your broker requires 2% margin, you need $2,000 in your account to hold a $100,000 position. If the trade moves against you enough to deplete your margin, the broker issues a margin call---demanding additional funds or automatically closing your position.
 
-Here's the math that kills most retail traders: at 50:1 use, a 2% adverse move wipes out your entire margin. Currency pairs routinely move 1-2% in a single day. Without proper risk management, leveraged forex trading is a fast road to losing your capital.
+Here's the math that kills most retail traders: at 50:1 use, a 2% adverse move wipes out your entire margin. Currency pairs routinely move 1-2% in a single day. Without proper [risk management](/risk-management), leveraged forex trading is a fast road to losing your capital.
 
 ## What Moves Exchange Rates
 
@@ -153,15 +153,15 @@ Positioning data (like the CFTC's Commitments of Traders report) shows how lever
 
 ## Trading Strategies
 
-Currency traders employ various approaches, ranging from pure technical analysis to fundamental macroeconomic analysis.
+Currency traders employ various approaches, ranging from pure [technical analysis](/technical-analysis) to fundamental macroeconomic analysis.
 
 ### Technical Analysis
 
 Technical traders use price charts, patterns, and statistical indicators to identify trading opportunities. They look for trends (moving averages, trendlines), support and resistance levels (prices where buying or selling has historically concentrated), and momentum indicators (RSI, MACD, stochastics).
 
-The philosophy behind technical analysis is that all relevant information is already reflected in the price, and price movements follow recognizable patterns. Critics argue it's pattern recognition on random data. Proponents argue that because so many traders use technical analysis, the patterns become self-fulfilling---enough traders buying at a support level actually creates support.
+The philosophy behind technical analysis is that all relevant information is already reflected in the price, and price movements follow recognizable patterns. Critics argue it's [pattern recognition](/pattern-recognition) on random data. Proponents argue that because so many traders use technical analysis, the patterns become self-fulfilling---enough traders buying at a support level actually creates support.
 
-### Fundamental Analysis
+### [Fundamental Analysis](/fundamental-analysis)
 
 Fundamental traders analyze economic data, central bank policies, and geopolitical developments to form views on currency direction. They build economic models, follow central bank communications obsessively, and trade based on macroeconomic themes.
 
@@ -203,7 +203,7 @@ The forex industry has a well-documented fraud problem. Unregulated brokers, sig
 
 Currency trading isn't just about making money. The forex market performs essential economic functions.
 
-It enables international trade by providing the mechanism for converting currencies. Without forex markets, a Japanese company couldn't efficiently buy Brazilian soybeans or a French airline couldn't buy American aircraft.
+It enables [international trade](/international-trade) by providing the mechanism for converting currencies. Without forex markets, a Japanese company couldn't efficiently buy Brazilian soybeans or a French airline couldn't buy American aircraft.
 
 It provides price discovery for currencies, reflecting the collective judgment of millions of participants about each currency's relative value. These prices, in turn, affect import and export costs, inflation, tourism, and foreign investment flows.
 

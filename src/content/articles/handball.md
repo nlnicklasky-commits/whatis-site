@@ -5,7 +5,7 @@ description: "Handball is a fast-paced team sport where players throw a ball int
 category: sports
 tags: ["handball", "team sport", "sports", "ball game", "olympic sport", "agility"]
 heroImage: "/images/articles/handball.webp"
-heroAlt: "Handball player jumping to shoot at the goal during a competitive match"
+heroAlt: "Editorial photograph representing the concept of handball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Handball?
 
-Handball (also called team handball or Olympic handball) is a fast, physical team sport where two teams of seven players pass, dribble, and throw a ball, trying to score by launching it into the opposing team's goal. If you've never watched it, imagine a combination of basketball's passing and movement, soccer's goalkeeping, and the physicality of ice hockey — all played at a pace that barely lets you blink. It's the second most popular team sport in Europe (after soccer), an Olympic sport since 1972, and virtually unknown in the United States, which is one of the great curiosities of American sports culture.
+Handball (also called team handball or Olympic handball) is a fast, physical team sport where two teams of seven players pass, dribble, and throw a ball, trying to score by launching it into the opposing team's goal. If you've never watched it, imagine a combination of [basketball](/basketball)'s passing and movement, [soccer](/soccer)'s goalkeeping, and the physicality of [ice hockey](/ice-[hockey](/hockey)) — all played at a pace that barely lets you blink. It's the second most popular team sport in Europe (after soccer), an Olympic sport since 1972, and virtually unknown in the United States, which is one of the great curiosities of American sports culture.
 
 ## How the Game Works
 
@@ -67,7 +67,7 @@ Indoor handball joined the Olympic program permanently in 1972 (men) and 1976 (w
 
 In **Germany**, the Handball-Bundesliga draws thousands of fans per game and millions of TV viewers. The 2007 World Championship final, hosted in Germany, was watched by 20 million viewers domestically.
 
-**Denmark** treats handball as a near-religion — both the men's and women's national teams are perennial medal contenders. France, Spain, Sweden, Norway, and Hungary are also powerhouses.
+**Denmark** treats handball as a near-[religion](/religion) — both the men's and women's national teams are perennial medal contenders. France, Spain, Sweden, Norway, and Hungary are also powerhouses.
 
 **Egypt** and other North African nations have strong handball traditions — Egypt has hosted the World Championship and regularly fields competitive teams.
 

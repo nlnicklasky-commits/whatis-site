@@ -5,7 +5,7 @@ description: "Mountaineering is the sport of climbing mountains using specialize
 category: sports
 tags: ["mountaineering", "climbing", "mountains", "alpine", "outdoor recreation", "adventure sports"]
 heroImage: "/images/articles/mountaineering.webp"
-heroAlt: "Climbers roped together ascending a snow-covered mountain ridge at sunrise"
+heroAlt: "Editorial photograph representing the concept of mountaineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Mountaineering?
 
-Mountaineering is the sport of ascending mountains using a combination of hiking, scrambling, rock climbing, snow and ice climbing, and high-altitude survival skills. It's older than most organized sports — people have been climbing peaks for exploration, science, and personal challenge since at least the 18th century — and it remains one of the most physically and mentally demanding outdoor pursuits.
+Mountaineering is the sport of ascending mountains using a combination of [hiking](/hiking), scrambling, [rock climbing](/rock-climbing), snow and [ice climbing](/ice-climbing), and high-altitude [survival skills](/survival-skills). It's older than most organized sports — people have been climbing peaks for exploration, science, and personal challenge since at least the 18th century — and it remains one of the most physically and mentally demanding outdoor pursuits.
 
 The range is enormous. Mountaineering includes a guided trek up Mount Kilimanjaro (19,341 feet, no technical climbing required) and a siege-style expedition on K2 (28,251 feet, where roughly one climber dies for every four who summit). What connects these extremes is the goal: reaching a summit by whatever means the mountain demands.
 
@@ -49,15 +49,15 @@ The 20th century pushed mountaineering to the Himalayas. Everest (29,032 feet) w
 
 **Scrambling** — unroped climbing on steep terrain where hands are needed but technical gear isn't. Many mountain summits involve Class 3-4 scrambling. It's where most people get their first taste of moving on rock.
 
-**Ski mountaineering** — climbing peaks on skis (or with skis on your back) and skiing down. Combines mountaineering skills with backcountry skiing ability. Growing fast as a competitive discipline.
+**Ski mountaineering** — climbing peaks on skis (or with skis on your back) and [skiing](/skiing) down. Combines mountaineering skills with backcountry skiing ability. Growing fast as a competitive discipline.
 
 ## Essential Skills
 
 Mountaineering demands a wide skill set. No single day uses all of them, but a serious mountaineer needs competence in each.
 
-**Navigation** — reading topographic maps, using a compass and GPS, identifying features in whiteout conditions. GPS batteries die. Skills don't.
+**[Navigation](/navigation)** — reading topographic maps, using a compass and GPS, identifying features in whiteout conditions. GPS batteries die. Skills don't.
 
-**Snow travel** — walking in crampons (metal spikes attached to boots), using an ice axe for balance and self-arrest (stopping a fall on steep snow), and recognizing avalanche terrain. Self-arrest is the single most critical snow skill — if you slip on a 40-degree snow slope without it, you're not stopping.
+**Snow travel** — [walking](/walking) in crampons (metal spikes attached to boots), using an ice axe for balance and self-arrest (stopping a fall on steep snow), and recognizing avalanche terrain. Self-arrest is the single most critical snow skill — if you slip on a 40-degree snow slope without it, you're not stopping.
 
 **Glacier travel** — roped teams crossing glaciers with hidden crevasses. If someone breaks through a snow bridge into a crevasse, the rope team arrests the fall and executes a crevasse rescue. This requires practice.
 
@@ -79,7 +79,7 @@ Mountain equipment has improved dramatically, but the basics haven't changed con
 
 **Rope and protection** — active climbing ropes, harnesses, carabiners, and anchoring equipment for roped travel and technical climbing sections.
 
-**Layers** — a clothing system built around moisture management: base layer (wicking), mid layer (insulation), and shell (wind/waterproof). Cotton kills — it retains moisture and loses all insulating ability when wet.
+**Layers** — a clothing system built around moisture [management](/management): base layer (wicking), mid layer (insulation), and shell (wind/waterproof). Cotton kills — it retains moisture and loses all insulating ability when wet.
 
 ## Altitude and Its Effects
 
@@ -87,9 +87,9 @@ Above 8,000 feet, your body starts feeling the reduced oxygen. Above 14,000 feet
 
 Acute Mountain Sickness (AMS) causes headaches, nausea, fatigue, and poor sleep. It affects roughly 25% of people ascending above 8,000 feet too quickly. The treatment is simple: descend. The prevention is also simple: ascend gradually, typically no more than 1,000-1,500 feet of sleeping elevation gain per day above 10,000 feet.
 
-High Altitude Pulmonary Edema (HAPE) and High Altitude Cerebral Edema (HACE) are life-threatening conditions that require immediate descent. They can develop in anyone, regardless of fitness or previous altitude experience.
+High Altitude Pulmonary Edema (HAPE) and High Altitude Cerebral Edema (HACE) are life-threatening conditions that require immediate descent. They can develop in anyone, regardless of [fitness](/fitness) or previous altitude experience.
 
-## The Ethics of Modern Mountaineering
+## The [Ethics](/ethics) of Modern Mountaineering
 
 Commercial Everest expeditions have drawn criticism for decades. Guided clients pay $30,000-$100,000+ for a summit attempt, creating overcrowding, environmental damage, and situations where under-qualified climbers endanger themselves and others. The 2023 spring season saw over 600 summits — and traffic jams in the death zone.
 

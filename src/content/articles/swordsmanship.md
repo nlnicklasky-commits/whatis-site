@@ -5,7 +5,7 @@ description: "Swordsmanship is the art and skill of fighting with a sword. Learn
 category: sports
 tags: ["swordsmanship", "martial arts", "fencing", "sword", "combat", "history"]
 heroImage: "/images/articles/swordsmanship.webp"
-heroAlt: "Two fencers in protective gear crossing blades during a match"
+heroAlt: "Editorial photograph representing the concept of swordsmanship"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,13 +47,13 @@ European swordsmanship evolved from heavy medieval swords emphasizing cuts and p
 
 ### Japanese Swordsmanship (Kenjutsu)
 
-Japanese sword traditions are among the most formalized in the world. Schools (*ryu*) were founded by master swordsmen and passed down through generations of students. Each school had its own techniques, philosophy, and secret teachings.
+Japanese sword traditions are among the most formalized in the world. Schools (*ryu*) were founded by master swordsmen and passed down through generations of students. Each school had its own techniques, [philosophy](/philosophy), and secret teachings.
 
-The katana — Japan's iconic curved sword — was inseparable from the samurai identity. Training covered drawing (iaijutsu), cutting, sparring, and the mental and spiritual dimensions of combat. Miyamoto Musashi, author of *The Book of Five Rings* (1645), remains perhaps the most famous swordsman in [history](/japanese-history).
+The katana — Japan's iconic curved sword — was inseparable from the samurai identity. Training covered [drawing](/drawing) (iaijutsu), cutting, sparring, and the mental and spiritual dimensions of combat. Miyamoto Musashi, author of *The Book of Five Rings* (1645), remains perhaps the most famous swordsman in [history](/japanese-history).
 
 ### Chinese Swordsmanship
 
-Chinese martial arts include extensive sword techniques using both the jian (straight double-edged sword) and the dao (curved single-edged sword). These traditions are deeply integrated into broader martial arts systems like wushu, tai chi, and various kung fu styles.
+Chinese [martial arts](/martial-arts) include extensive sword techniques using both the jian (straight double-edged sword) and the dao (curved single-edged sword). These traditions are deeply integrated into broader martial arts systems like wushu, [tai chi](/tai-chi), and various kung fu styles.
 
 ### Other Traditions
 
@@ -83,9 +83,9 @@ HEMA has also sparked academic interest, with scholars studying fight manuals as
 
 Nobody needs to know how to fight with a sword. So why do people do it?
 
-**Physical fitness** — Sword fighting is a full-body workout. Fencing burns roughly 400 calories per hour, develops reflexes, improves coordination, and builds both aerobic and anaerobic fitness.
+**Physical [fitness](/fitness)** — Sword fighting is a full-body workout. Fencing burns roughly 400 calories per hour, develops reflexes, improves coordination, and builds both aerobic and anaerobic fitness.
 
-**Mental discipline** — Sword fighting demands intense focus, pattern recognition, and split-second decision-making. Fencers describe it as "physical chess."
+**Mental discipline** — Sword fighting demands intense focus, [pattern recognition](/pattern-recognition), and split-second decision-making. Fencers describe it as "physical [chess](/chess)."
 
 **Historical connection** — For HEMA and traditional martial arts practitioners, there's a genuine thrill in performing techniques described in centuries-old manuscripts, connecting with a living tradition that stretches back through [history](/military-history).
 

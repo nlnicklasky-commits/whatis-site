@@ -5,7 +5,7 @@ description: "Functional programming builds software using pure functions, immut
 category: technology
 tags: ["programming", "software development", "computer science", "pure functions", "immutability", "declarative programming"]
 heroImage: "/images/articles/functional-programming-hero.webp"
-heroAlt: "Abstract visualization of function composition with interconnected mathematical symbols"
+heroAlt: "Editorial photograph representing the concept of functional programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -99,13 +99,13 @@ This isn't just syntax sugar. Higher-order functions enable powerful abstraction
 
 If you have a function f that turns A into B, and a function g that turns B into C, you can compose them into a function h that turns A into C. Written mathematically: h = g(f(x)), or in composition notation: h = g . f.
 
-This is the fundamental building block of functional program architecture. Instead of complex class hierarchies with inheritance and method overriding, functional programs build complex behavior by composing simple functions.
+This is the fundamental building block of functional program [architecture](/architecture). Instead of complex class hierarchies with inheritance and method overriding, functional programs build complex behavior by composing simple functions.
 
 Unix pipes work this way: `cat file | grep "error" | sort | uniq -c | sort -rn`. Each command transforms its input and passes the result to the next. Each step is independent. The pipeline expresses the computation as a series of transformations.
 
 Functional programmers design software the same way. Data flows through a pipeline of transformations. Each transformation is a pure function. The program is the pipeline.
 
-## Functional Programming Languages
+## Functional [Programming Languages](/programming-languages)
 
 ### Haskell: The Academic Champion
 
@@ -203,7 +203,7 @@ This is probably the biggest practical barrier to pure functional programming in
 
 The concepts aren't inherently difficult, but they require unlearning deeply ingrained habits. If you've spent years thinking in for-loops, mutable variables, and class hierarchies, functional programming feels like learning to write with your other hand. Everything you know works — but the FP way is different.
 
-Terms like "monad," "functor," "applicative," and "monoid" come from category theory (abstract mathematics) and can be intimidating. The irony is that these concepts are often simpler than they sound — a monad is just a design pattern for chaining operations — but the mathematical jargon creates an unnecessary barrier.
+Terms like "monad," "functor," "applicative," and "monoid" come from category theory (abstract [mathematics](/mathematics)) and can be intimidating. The irony is that these concepts are often simpler than they sound — a monad is just a design pattern for chaining operations — but the mathematical jargon creates an unnecessary barrier.
 
 ### Team Adoption
 
@@ -233,6 +233,6 @@ Today, functional programming isn't a niche. It's a mainstream influence. Every 
 
 Functional programming builds software from pure functions that avoid shared mutable state and side effects. Its core principles — purity, immutability, first-class functions, and composition — produce code that's easier to test, reason about, and run concurrently.
 
-FP isn't a replacement for object-oriented programming — it's a complementary approach that excels in data transformation, concurrent systems, state management, and anywhere predictability and correctness matter more than raw performance. Most modern software development borrows from both paradigms.
+FP isn't a replacement for [object-oriented programming](/object-oriented-programming) — it's a complementary approach that excels in data transformation, concurrent systems, state management, and anywhere predictability and correctness matter more than raw performance. Most modern software development borrows from both paradigms.
 
 The most practical path for most developers isn't switching to Haskell. It's adopting functional patterns — pure functions, immutable data, function composition, and declarative transformations — within the languages and frameworks they already use. The benefits are real, immediate, and compound as functional thinking becomes second nature.

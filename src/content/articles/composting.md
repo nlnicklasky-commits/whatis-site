@@ -5,7 +5,7 @@ description: "Composting is the natural decomposition of organic matter into nut
 category: everyday-concepts
 tags: ["composting", "recycling", "waste management", "organic waste", "soil", "gardening"]
 heroImage: "/images/articles/composting.webp"
-heroAlt: "A wooden compost bin filled with decomposing kitchen scraps and garden waste"
+heroAlt: "Editorial photograph representing the concept of composting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,15 +55,15 @@ When conditions are right, microbial activity generates significant heat. A well
 
 **Tumbler composting** uses a rotating drum or barrel that makes turning easy. You load materials in, spin the tumbler every few days, and harvest compost from a door at the bottom. Tumblers are neat, pest-resistant, and faster than cold composting, though slower than a well-managed hot pile.
 
-**Bokashi** is a Japanese method that uses an anaerobic fermentation process with inoculated bran to pre-treat food waste — including meat and dairy that traditional composting avoids. The fermented material is then buried in soil or added to a traditional compost pile, where it breaks down rapidly.
+**Bokashi** is a Japanese method that uses an anaerobic [fermentation](/fermentation) process with inoculated bran to pre-treat food waste — including meat and dairy that traditional composting avoids. The fermented material is then buried in soil or added to a traditional compost pile, where it breaks down rapidly.
 
 ## What to Compost (And What to Skip)
 
 **Yes:** Fruit and vegetable scraps, coffee grounds and filters, tea bags (remove staples), eggshells, nut shells, shredded paper and cardboard, yard trimmings, grass clippings, leaves, straw, wood chips, sawdust (from untreated wood), dryer lint (from natural fibers), hair and fur.
 
-**No:** Meat, fish, bones, dairy products, cooking oil, pet waste from carnivores, diseased plants, treated or painted wood, coal ash, glossy or coated paper, anything with synthetic chemicals.
+**No:** Meat, fish, bones, dairy products, [cooking](/cooking) oil, pet waste from carnivores, diseased plants, treated or painted wood, coal ash, glossy or coated paper, anything with synthetic chemicals.
 
-The "no" list exists for practical reasons, not absolute biological ones. Meat will decompose — it just attracts rats and produces terrible odors in a home compost setting. Industrial composting facilities, which operate at higher temperatures and with more sophisticated management, can handle many of these materials.
+The "no" list exists for practical reasons, not absolute biological ones. Meat will decompose — it just attracts rats and produces terrible odors in a home compost setting. Industrial composting facilities, which operate at higher temperatures and with more sophisticated [management](/management), can handle many of these materials.
 
 ## Why It Matters — By the Numbers
 

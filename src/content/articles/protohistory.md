@@ -5,7 +5,7 @@ description: "Protohistory is the transitional period between prehistory and rec
 category: history
 tags: ["protohistory", "prehistory", "archaeology", "early history"]
 heroImage: "/images/articles/protohistory.webp"
-heroAlt: "Ancient clay tablets with early inscription marks next to archaeological digging tools"
+heroAlt: "Editorial photograph representing the concept of protohistory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Protohistory?
 
-Protohistory is the period in a culture's past when it had no writing system of its own but was described in the written records of other, literate civilizations — or when it used proto-writing systems that conveyed meaning without constituting a full language. It sits in the gray zone between prehistory (no written records at all) and history (written records from the culture itself).
+Protohistory is the period in a culture's past when it had no [writing](/writing) system of its own but was described in the written records of other, literate civilizations — or when it used proto-writing systems that conveyed meaning without constituting a full language. It sits in the gray zone between [prehistory](/prehistory) (no written records at all) and history (written records from the culture itself).
 
 ## The In-Between That Nobody Talks About
 
@@ -55,7 +55,7 @@ This is the most common type. A non-literate culture is documented by a literate
 
 **Germanic tribes** — Tacitus wrote *Germania* in 98 CE, describing the customs, beliefs, and social structures of peoples beyond the Roman frontier. It's one of the most important protohistoric texts in European studies. It's also clearly shaped by Tacitus's desire to critique Roman decadence by holding up "noble barbarians" as a contrast. You have to read between the lines.
 
-**The Scythians** — Herodotus described these Central Asian nomads in the 5th century BCE. His accounts of their horse-riding prowess, burial customs (including human sacrifice), and gold-working have been partially confirmed by archaeology — the frozen tombs of Pazyryk, for instance, match some of his descriptions remarkably well.
+**The Scythians** — Herodotus described these Central Asian nomads in the 5th century BCE. His accounts of their horse-riding prowess, burial customs (including human sacrifice), and gold-working have been partially confirmed by [archaeology](/archaeology) — the frozen tombs of Pazyryk, for instance, match some of his descriptions remarkably well.
 
 ### 2. Proto-Writing and Early Scripts
 
@@ -63,7 +63,7 @@ Some cultures developed notation systems that weren't full writing but recorded 
 
 **Quipu** — The Inca used knotted strings to record numerical data, and possibly narrative information. These aren't writing in the conventional sense, but they're not nothing either. Scholars are still debating exactly how much information quipu encoded.
 
-**Vinča symbols** — Found on pottery and artifacts from the Vinča culture of southeastern Europe (5700-4500 BCE), these symbols are too systematic to be purely decorative but haven't been deciphered as a writing system. Are they proto-writing? Ownership marks? Religious symbols? Nobody's sure.
+**Vinča symbols** — Found on [pottery](/pottery) and artifacts from the Vinča culture of southeastern Europe (5700-4500 BCE), these symbols are too systematic to be purely decorative but haven't been deciphered as a writing system. Are they proto-writing? Ownership marks? Religious symbols? Nobody's sure.
 
 **Rongorongo** — The undeciphered script of Easter Island. It may be one of the few independent inventions of writing in human history — or it may have been inspired by European writing encountered during Spanish contact in 1770. The jury is emphatically out.
 
@@ -79,7 +79,7 @@ Studying protohistory requires combining methods from both archaeology and histo
 
 **Bias in written sources.** When Greeks wrote about "barbarians," they filtered everything through their own cultural assumptions. Customs that seemed strange were described as savage or absurd. Religious practices were reinterpreted through Greek theological frameworks. Social structures were simplified or misrepresented. Reading protohistoric texts requires constant attention to what the writer didn't understand, didn't care about, or deliberately distorted.
 
-**Gaps between texts and evidence.** Archaeological evidence sometimes flatly contradicts written descriptions. Roman authors described Celtic societies as disorganized and primitive. Archaeological evidence reveals sophisticated metallurgy, extensive trade networks, complex social hierarchies, and planned settlements. The Romans weren't lying, exactly — they were seeing what they expected to see and ignoring what didn't fit their narrative.
+**Gaps between texts and evidence.** Archaeological evidence sometimes flatly contradicts written descriptions. Roman authors described Celtic societies as disorganized and primitive. Archaeological evidence reveals sophisticated metallurgy, extensive [trade](/trade) networks, complex social hierarchies, and planned settlements. The Romans weren't lying, exactly — they were seeing what they expected to see and ignoring what didn't fit their narrative.
 
 **Chronological fuzziness.** Protohistoric periods don't have precise start and end dates. Writing didn't arrive in a culture on a specific Tuesday. It spread gradually, was adopted unevenly, and took generations to become widespread. The boundary between protohistory and history is a gradient, not a line.
 
@@ -93,7 +93,7 @@ Northern and eastern Europe remained protohistoric much longer. Scandinavia didn
 
 ### South Asia
 
-The Vedic period of Indian history (roughly 1500-500 BCE) is often classified as protohistoric. The Vedas and other Sanskrit texts were composed and transmitted orally for centuries before being written down. They contain extensive information about society, religion, and daily life — but they're literary and religious texts, not historical records in the modern sense. Archaeological evidence from this period is extensive but doesn't always align neatly with the textual tradition.
+The Vedic period of [Indian history](/indian-history) (roughly 1500-500 BCE) is often classified as protohistoric. The Vedas and other [Sanskrit](/sanskrit) texts were composed and transmitted orally for centuries before being written down. They contain extensive information about society, [religion](/religion), and daily life — but they're literary and religious texts, not historical records in the modern sense. Archaeological evidence from this period is extensive but doesn't always align neatly with the textual tradition.
 
 ### Sub-Saharan Africa
 

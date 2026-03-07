@@ -5,7 +5,7 @@ description: "Horse racing is a competitive sport where thoroughbreds race on tr
 category: sports
 tags: ["horse racing", "sports", "thoroughbred", "equestrian", "betting", "Triple Crown"]
 heroImage: "/images/articles/horse-racing.webp"
-heroAlt: "Thoroughbred racehorses and jockeys thundering down a dirt track toward the finish line"
+heroAlt: "Editorial photograph representing the concept of horse racing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Horse Racing?
 
-Horse racing is a competitive sport in which horses — typically Thoroughbreds — race against each other on a track, with the first to cross the finish line winning. It has been called "the sport of kings," a nickname earned centuries ago when royal patronage supported breeding and racing operations across Europe. Today, it is a global industry worth over $100 billion annually, built on breeding, training, betting, and the raw spectacle of a 1,000-pound animal running at 40 mph.
+Horse racing is a competitive sport in which horses — typically Thoroughbreds — race against each other on a track, with the first to cross the finish line winning. It has been called "the sport of kings," a nickname earned centuries ago when royal patronage supported breeding and racing operations across Europe. Today, it is a global industry worth over $100 billion annually, built on breeding, training, betting, and the raw spectacle of a 1,000-pound animal [running](/running) at 40 mph.
 
 ## The Basics
 

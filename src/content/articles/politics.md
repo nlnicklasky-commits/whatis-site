@@ -5,7 +5,7 @@ description: "Politics is the process of making collective decisions, distributi
 category: everyday-concepts
 tags: ["government", "power", "decision-making", "society", "elections", "policy"]
 heroImage: "/images/articles/politics.webp"
-heroAlt: "Diverse crowd gathered at a public forum with speakers at a podium"
+heroAlt: "Editorial photograph representing the concept of politics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ Politics is the process by which groups of people make decisions, resolve confli
 
 ## More Than Elections
 
-Most people equate politics with elections, parties, and politicians. That's understandable — those are the most visible parts. But politics is much broader than what happens in government buildings.
+Most people equate politics with elections, parties, and politicians. That's understandable — those are the most visible parts. But politics is much broader than what happens in [government](/government) buildings.
 
-When your school board decides which textbooks to use, that's politics. When your homeowners association votes on whether to allow fences, that's politics. When employees negotiate a union contract or when countries negotiate a trade agreement, that's politics. Any time a group has to make a collective decision and people disagree about the right choice, you're in political territory.
+When your school board decides which textbooks to use, that's politics. When your homeowners association votes on whether to allow fences, that's politics. When employees negotiate a union contract or when countries negotiate a [trade](/trade) agreement, that's politics. Any time a group has to make a collective decision and people disagree about the right choice, you're in political territory.
 
 The ancient Greeks understood this. Their word *politika* referred to the affairs of the *polis* — the city-state — and for them, political participation was a defining feature of citizenship. Aristotle called humans *zoon politikon* — political animals — meaning we're wired for collective decision-making.
 
@@ -45,11 +45,11 @@ The ancient Greeks understood this. Their word *politika* referred to the affair
 
 Strip away all the specifics, and politics revolves around a handful of recurring questions:
 
-**Who has authority?** Every political system must decide who makes binding decisions. A single ruler? An elected legislature? A council of elders? A direct vote of all citizens? The answer defines the system — monarchy, democracy, oligarchy, theocracy — and each answer comes with its own advantages and problems.
+**Who has authority?** Every political system must decide who makes binding decisions. A single ruler? An elected legislature? A council of elders? A direct vote of all citizens? The answer defines the system — [monarchy](/monarchy), democracy, oligarchy, theocracy — and each answer comes with its own advantages and problems.
 
 **How is power distributed?** Even within a single system, power isn't equally distributed. Some people have more influence than others due to wealth, position, connections, information, or charisma. Understanding *real* power distribution — not just the formal rules — is essential to understanding how any political system actually functions.
 
-**Who benefits?** Every political decision creates winners and losers. A tax cut benefits some and costs others. Environmental regulation protects some interests while constraining others. The constant negotiation over who benefits and who bears costs is the engine of political conflict.
+**Who benefits?** Every political decision creates winners and losers. A tax cut benefits some and costs others. Environmental regulation protects some interests while constraining others. The constant [negotiation](/negotiation) over who benefits and who bears costs is the engine of political conflict.
 
 **What is legitimate?** Political systems depend on at least some degree of acceptance by the governed. When people believe the system is fundamentally fair and legitimate, it functions smoothly. When they don't, you get protests, revolutions, or quiet disengagement.
 
@@ -69,7 +69,7 @@ In a functioning democracy, the basic cycle goes something like this:
 
 Citizens have interests and opinions. **Political parties** organize those interests into platforms and nominate candidates. **Elections** determine who holds power. Elected officials make **policy** — laws, budgets, regulations. **Bureaucracies** implement those policies. Citizens evaluate the results and either re-elect incumbents or throw them out. Repeat.
 
-That's the clean version. The messy reality involves lobbying, gerrymandering, media spin, campaign finance, voter suppression, misinformation, personality cults, and a thousand other complications. But the basic mechanism — accountability through elections — is what distinguishes democratic politics from the alternatives.
+That's the clean version. The messy reality involves [lobbying](/lobbying), gerrymandering, media spin, campaign [finance](/finance), voter suppression, misinformation, personality cults, and a thousand other complications. But the basic mechanism — accountability through elections — is what distinguishes democratic politics from the alternatives.
 
 **Interest groups** and **lobbyists** represent specific constituencies (businesses, unions, environmental organizations, gun owners, etc.) and try to influence policy through persuasion, campaign contributions, and public pressure. The line between healthy democratic participation and corrupt influence-peddling is constantly debated.
 
@@ -77,7 +77,7 @@ That's the clean version. The messy reality involves lobbying, gerrymandering, m
 
 ## Why People Get Cynical
 
-Political cynicism is widespread, and honestly, it's not hard to understand why. Politicians make promises they don't keep. Wealthy interests have outsized influence. The gap between political rhetoric and policy outcomes is often enormous.
+Political cynicism is widespread, and honestly, it's not hard to understand why. Politicians make promises they don't keep. Wealthy interests have outsized influence. The gap between political [rhetoric](/rhetoric) and policy outcomes is often enormous.
 
 But here's the thing: cynicism about politics doesn't make politics go away. It just means the decisions get made by people who *aren't* cynical — or by people who benefit from your disengagement. Low voter turnout doesn't produce better outcomes; it typically produces outcomes that favor organized interests over the general public.
 

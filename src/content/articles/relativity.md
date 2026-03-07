@@ -5,7 +5,7 @@ description: "Relativity is Einstein's theory describing how space, time, and gr
 category: everyday-concepts
 tags: ["relativity", "Einstein", "physics", "spacetime", "gravity", "science"]
 heroImage: "/images/articles/relativity.webp"
-heroAlt: "Visualization of spacetime curvature around a massive object"
+heroAlt: "Editorial photograph representing the concept of relativity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Relativity?
 
-Relativity is Albert Einstein's theory of how space, time, mass, and energy relate to each other. It comes in two parts: special relativity (1905), which describes how physics works at high speeds, and general relativity (1915), which describes gravity as the curvature of spacetime itself. Together, they replaced Newton's 200-year-old understanding of the universe and revealed that space and time aren't the fixed, rigid stage we experience — they're flexible, interconnected, and stranger than anyone imagined.
+Relativity is Albert Einstein's theory of how space, time, mass, and energy relate to each other. It comes in two parts: special relativity (1905), which describes how [physics](/physics) works at high speeds, and [general relativity](/general-relativity) (1915), which describes gravity as the curvature of spacetime itself. Together, they replaced Newton's 200-year-old understanding of the universe and revealed that space and time aren't the fixed, rigid stage we experience — they're flexible, interconnected, and stranger than anyone imagined.
 
 ## Special Relativity (1905)
 
@@ -58,9 +58,9 @@ Special relativity handles constant-speed motion in flat space. General relativi
 
 Einstein's key insight was the **equivalence principle**: standing in a gravitational field feels identical to accelerating in a rocket. If you're in a closed elevator, you can't tell whether you're standing on Earth (gravity pulling you down) or in a rocket accelerating at 1g (the floor pushing you up). This equivalence led Einstein to a radical conclusion: gravity isn't a force at all. It's the curvature of spacetime caused by mass and energy.
 
-Imagine a heavy bowling ball on a stretched rubber sheet. The ball creates a dip, and smaller objects placed nearby roll toward it — not because the bowling ball is pulling them, but because the curved surface guides their motion. Mass curves spacetime similarly, and objects follow the straightest possible paths (called geodesics) through that curved space.
+Imagine a heavy [bowling](/bowling) ball on a stretched rubber sheet. The ball creates a dip, and smaller objects placed nearby roll toward it — not because the bowling ball is pulling them, but because the curved surface guides their motion. Mass curves spacetime similarly, and objects follow the straightest possible paths (called geodesics) through that curved space.
 
-Earth orbits the Sun not because the Sun pulls it with an invisible force (Newton's description) but because the Sun's mass curves spacetime, and Earth follows the curved geometry. The Moon orbits Earth for the same reason. Even light follows curved paths near massive objects — a phenomenon called **gravitational lensing** that has been confirmed repeatedly by telescopes observing light bending around galaxies.
+Earth orbits the Sun not because the Sun pulls it with an invisible force (Newton's description) but because the Sun's mass curves spacetime, and Earth follows the curved [geometry](/geometry). The Moon orbits Earth for the same reason. Even light follows curved paths near massive objects — a phenomenon called **gravitational lensing** that has been confirmed repeatedly by telescopes observing light bending around galaxies.
 
 **Gravitational time dilation.** Time runs slower in stronger gravitational fields. A clock at sea level ticks slightly slower than a clock on a mountaintop. The difference is tiny (a few microseconds per day) but measurable — and it matters for GPS satellites, which must correct for both their speed (special relativity) and their distance from Earth's gravity (general relativity).
 
@@ -74,6 +74,6 @@ Relativity tells us that our everyday experience of space and time — which fee
 
 The theory has been tested in hundreds of ways since 1905 and has never failed. Mercury's orbital anomaly (which Newton couldn't explain) matches general relativity's prediction exactly. Gravitational lensing, time dilation, gravitational redshift, frame dragging — all confirmed, all matching Einstein's equations to extraordinary precision.
 
-And yet relativity is incomplete. It describes the large-scale universe beautifully but is incompatible with quantum mechanics, which describes the small-scale universe equally well. Unifying the two — quantum gravity — remains the biggest unsolved problem in physics. Einstein spent the last 30 years of his life searching for this unification. We're still searching.
+And yet relativity is incomplete. It describes the large-scale universe beautifully but is incompatible with [quantum mechanics](/quantum-mechanics), which describes the small-scale universe equally well. Unifying the two — quantum gravity — remains the biggest unsolved problem in physics. Einstein spent the last 30 years of his life searching for this unification. We're still searching.
 
 What he did accomplish, though, was enough to change our understanding of reality itself. Before Einstein, space was a stage and time was a clock. After Einstein, space and time were the show.

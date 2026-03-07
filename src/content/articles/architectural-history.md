@@ -5,7 +5,7 @@ description: "Architectural history studies how buildings and structures have be
 category: history
 tags: ["architectural history", "architecture", "art history", "design", "historic preservation"]
 heroImage: "/images/articles/architectural-history.webp"
-heroAlt: "Side-by-side comparison of Gothic cathedral buttresses and a modern glass skyscraper"
+heroAlt: "Editorial photograph representing the concept of architectural history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,9 +59,9 @@ Egyptian architecture set early standards for monumental construction. The Great
 
 After Rome's fall, European architecture fragmented. But two major styles emerged that still define cityscapes across the continent.
 
-Romanesque architecture (roughly 800–1200 CE) used thick walls, round arches, and barrel vaults. Churches were massive, dark, and fortress-like. The style reflected an era of political instability and religious intensity. Buildings needed to feel permanent — anchored to the earth, resistant to attack, symbolizing an unshakable Church.
+[Romanesque architecture](/romanesque-architecture) (roughly 800–1200 CE) used thick walls, round arches, and barrel vaults. Churches were massive, dark, and fortress-like. The style reflected an era of political instability and religious intensity. Buildings needed to feel permanent — anchored to the earth, resistant to attack, symbolizing an unshakable Church.
 
-Gothic architecture (roughly 1150–1500 CE) was a structural revolution. Pointed arches, ribbed vaults, and flying buttresses transferred weight in new ways, allowing walls to become thinner and filled with stained glass. The result — soaring interiors flooded with colored light — was deliberately awe-inspiring. Chartres Cathedral's nave rises 37 meters, and its windows tell biblical stories in glass panels that still glow after 800 years.
+[Gothic architecture](/gothic-architecture) (roughly 1150–1500 CE) was a structural revolution. Pointed arches, ribbed vaults, and flying buttresses transferred weight in new ways, allowing walls to become thinner and filled with stained glass. The result — soaring interiors flooded with colored light — was deliberately awe-inspiring. Chartres Cathedral's nave rises 37 meters, and its windows tell biblical stories in glass panels that still glow after 800 years.
 
 Here's what most people miss about Gothic cathedrals: they were technological achievements as much as artistic ones. The flying buttress wasn't decorative — it was an engineering solution that redirected lateral forces outward, allowing walls that would otherwise collapse. Gothic builders were essentially proto-engineers working without [calculus](/calculus), stress analysis, or even consistent units of measurement. Many buildings did collapse during construction. The ones that survived represent successful experiments.
 

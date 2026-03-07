@@ -5,7 +5,7 @@ description: "The physics of time travel explores whether moving through time is
 category: science
 tags: ["physics of time travel", "time travel", "relativity", "time dilation", "wormholes"]
 heroImage: "/images/articles/the-physics-of-time-travel.webp"
-heroAlt: "An abstract visualization of spacetime curvature with clock faces distorted along a warped grid representing gravitational time dilation"
+heroAlt: "Editorial photograph representing the concept of the physics of time travel"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The physics of time travel is the study of whether movement through time — bey
 
 Right now, as you read this sentence, you're traveling through time at a rate of one second per second. Not impressive. But here's what Einstein showed us: that rate isn't fixed. It changes depending on how fast you're moving and how deep you sit in a gravitational field.
 
-This isn't science fiction. It's been measured.
+This isn't [science fiction](/science-fiction). It's been measured.
 
 Atomic clocks flown on jets run slightly slower than identical clocks left on the ground. GPS satellites, orbiting at 20,200 km altitude, experience time about 38 microseconds faster per day than ground-based clocks — partly because they're moving fast (which slows time) and partly because they're higher in Earth's gravitational field (which speeds time up). If GPS didn't correct for these relativistic effects, your navigation would drift by about 10 km per day.
 
@@ -53,7 +53,7 @@ The point is this: time travel to the future isn't hypothetical. It's just a que
 
 ## Einstein's Gift — Special Relativity and Time Dilation
 
-In 1905, a 26-year-old patent clerk named Albert Einstein published a paper titled "On the Electrodynamics of Moving Bodies." It contained no experiments, no observations, no data — just two postulates and their logical consequences. And it broke our understanding of time.
+In 1905, a 26-year-old patent clerk named Albert Einstein published a paper titled "On the [Electrodynamics](/electrodynamics) of Moving Bodies." It contained no experiments, no observations, no data — just two postulates and their logical consequences. And it broke our understanding of time.
 
 The two postulates:
 1. The laws of physics are the same in all inertial reference frames (frames moving at constant velocity relative to each other).
@@ -79,7 +79,7 @@ At everyday speeds — cars, planes, even rockets — v is so tiny compared to c
 
 So if you left Earth at 99% of light speed, traveled for what felt like one year to you, and came back, roughly 14 years would have passed on Earth. You'd have effectively traveled 13 years into the future.
 
-This is the twin paradox, first described by Paul Langevin in 1911 — though it's not actually a paradox. It's a genuine physical prediction, confirmed by particle physics (unstable muons created in the upper atmosphere live longer than they should because they're moving at nearly light speed) and by every precision clock experiment ever conducted.
+This is the twin paradox, first described by Paul Langevin in 1911 — though it's not actually a paradox. It's a genuine physical prediction, confirmed by [particle physics](/particle-physics) (unstable muons created in the upper atmosphere live longer than they should because they're moving at nearly light speed) and by every precision clock experiment ever conducted.
 
 ### The Speed Limit Problem
 
@@ -123,7 +123,7 @@ A wormhole is a hypothetical tunnel through spacetime connecting two separate po
 
 Einstein and Nathan Rosen described these structures mathematically in 1935 (they're sometimes called Einstein-Rosen bridges). But the original wormhole solutions were unstable — they'd snap shut faster than anything could traverse them.
 
-In 1988, Kip Thorne and his colleagues showed that a wormhole could theoretically be held open by "exotic matter" — matter with negative energy density. Quantum field theory actually permits negative energy densities in certain situations (the Casimir effect), but whether enough exotic matter could be gathered to stabilize a macroscopic wormhole is a completely open question.
+In 1988, Kip Thorne and his colleagues showed that a wormhole could theoretically be held open by "exotic matter" — matter with negative energy density. [Quantum field theory](/quantum-field-theory) actually permits negative energy densities in certain situations (the Casimir effect), but whether enough exotic matter could be gathered to stabilize a macroscopic wormhole is a completely open question.
 
 Here's where it gets really interesting. Thorne showed that if you took one end of a wormhole and accelerated it to near light speed, then brought it back, the time dilation between the two ends would create a time machine. You'd enter one end in the present and exit the other end in the past.
 
@@ -151,7 +151,7 @@ Nothing in general relativity forbids causal loops. They're just deeply unsettli
 
 This sounds like hand-waving, but it can be formulated mathematically, and it's consistent with general relativity. It does raise disturbing questions about free will, though.
 
-**The many-worlds interpretation.** Based on quantum mechanics, this suggests that traveling to the past creates a branching timeline. You end up in a different branch of reality — one where your actions are consistent because they're creating a new timeline rather than altering the existing one. Your original timeline continues unchanged. This is essentially the "parallel universes" solution beloved by science fiction.
+**The many-worlds interpretation.** Based on [quantum mechanics](/quantum-mechanics), this suggests that traveling to the past creates a branching timeline. You end up in a different branch of reality — one where your actions are consistent because they're creating a new timeline rather than altering the existing one. Your original timeline continues unchanged. This is essentially the "parallel universes" solution beloved by science fiction.
 
 **Hawking's chronology protection conjecture.** Stephen Hawking proposed in 1992 that the laws of physics prevent the creation of closed timelike curves on macroscopic scales. His argument used quantum field theory — specifically, that quantum vacuum fluctuations would become infinitely energetic near a time machine, destroying it before it could be used. He famously called this "making the world safe for historians."
 
@@ -163,7 +163,7 @@ Quantum mechanics adds strange wrinkles to the time travel question.
 
 **Quantum entanglement** connects particles across any distance — a measurement on one instantly affects the other, regardless of separation. Einstein called this "spooky action at a distance" and hated it. But it doesn't transmit information faster than light, so it's not directly useful for time travel. Or is it? Some speculative proposals suggest entanglement through wormholes (the ER=EPR conjecture, proposed by Juan Maldacena and Leonard Susskind in 2013) might connect quantum mechanics and wormhole physics in unexpected ways.
 
-**Quantum computing** theorist David Deutsch proposed in 1991 that closed timelike curves, if they exist, could be analyzed using quantum mechanics. His model suggests that time travel would send you to a parallel quantum branch rather than your own past — sidestepping the grandfather paradox entirely.
+**[Quantum computing](/quantum-computing)** theorist David Deutsch proposed in 1991 that closed timelike curves, if they exist, could be analyzed using quantum mechanics. His model suggests that time travel would send you to a parallel quantum branch rather than your own past — sidestepping the grandfather paradox entirely.
 
 **Post-selection** in quantum mechanics — filtering results to keep only certain outcomes — turns out to be mathematically equivalent to certain time travel scenarios. Seth Lloyd at MIT has explored "post-selected closed timelike curves" that behave like time machines while avoiding paradoxes. The interpretation is controversial, but the mathematics is sound.
 

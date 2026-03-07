@@ -5,7 +5,7 @@ description: "Bookbinding is the craft of assembling and securing printed or bla
 category: arts-amp-culture
 tags: ["bookbinding", "book", "crafts", "traditional craft", "book restoration", "printing"]
 heroImage: "/images/articles/bookbinding.webp"
-heroAlt: "Bookbinder's workbench with leather, thread, binding tools, and a half-bound volume"
+heroAlt: "Editorial photograph representing the concept of bookbinding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Bookbinding?
 
-Bookbinding is the craft of assembling pages and securing them within a protective cover to create a functional, durable, and often beautiful book. It encompasses everything from mass-produced paperback production to the fine art of hand-tooled leather bindings and the conservation of ancient manuscripts.
+Bookbinding is the craft of assembling pages and securing them within a protective cover to create a functional, durable, and often beautiful book. It encompasses everything from mass-produced paperback production to the [fine art](/fine-art) of hand-tooled leather bindings and the conservation of ancient manuscripts.
 
 ## From Scrolls to Codex
 
@@ -39,7 +39,7 @@ For most of recorded history, written documents existed as scrolls — continuou
 
 Early codex binding was straightforward: folded sheets (called gatherings or signatures) were sewn together through their folds and attached to wooden boards. Medieval bookbinding developed extraordinary sophistication — monasteries produced volumes with carved ivory covers, jeweled clasps, and gilded edges that were treasures in themselves.
 
-The invention of the printing press (Gutenberg, ~1440) created demand for faster binding methods, but hand bookbinding remained standard until the Industrial Revolution introduced machine binding in the 19th century. Today, commercial books are bound by machine, while hand bookbinding thrives as craft, art, and conservation practice.
+The [invention](/invention) of the printing press (Gutenberg, ~1440) created demand for faster binding methods, but hand bookbinding remained standard until the Industrial Revolution introduced machine binding in the 19th century. Today, commercial books are bound by machine, while hand bookbinding thrives as craft, art, and conservation practice.
 
 ## How Books Are Bound
 
@@ -49,7 +49,7 @@ The standard method for hardcover books. Pages are printed, folded into signatur
 
 ### Perfect Binding (Paperback)
 
-The spine edges of individual pages are roughened and glued together with a flexible adhesive, then wrapped in a card-stock cover. It's fast and cheap, which is why most mass-market paperbacks use it. The trade-off: perfect-bound books don't lie flat and can crack along the spine with heavy use.
+The spine edges of individual pages are roughened and glued together with a flexible adhesive, then wrapped in a card-stock cover. It's fast and cheap, which is why most mass-market paperbacks use it. The [trade](/trade)-off: perfect-bound books don't lie flat and can crack along the spine with heavy use.
 
 ### Coptic Binding
 
@@ -57,7 +57,7 @@ An ancient technique (named for Egyptian Christians who used it) where signature
 
 ### Japanese Stab Binding
 
-Single sheets are stacked (not folded into signatures) and bound by sewing through holes punched along the spine edge. Various stitch patterns (four-hole, hemp-leaf, tortoiseshell) create decorative effects. It's one of the simplest binding methods to learn and produces elegant results.
+Single sheets are stacked (not folded into signatures) and bound by [sewing](/sewing) through holes punched along the spine edge. Various stitch patterns (four-hole, hemp-leaf, tortoiseshell) create decorative effects. It's one of the simplest binding methods to learn and produces elegant results.
 
 ### Saddle Stitching
 
@@ -93,8 +93,8 @@ Common beginner projects include:
 - Zines (simple pamphlet stitch)
 - Guest books and wedding albums
 
-The skills transfer, too. Understanding paper grain, adhesive behavior, and structural engineering at book scale develops craft intelligence applicable to other areas of making.
+The skills transfer, too. Understanding paper grain, adhesive behavior, and [structural engineering](/structural-engineering) at book scale develops craft intelligence applicable to other areas of making.
 
 ## Why Physical Books Persist
 
-E-readers haven't killed physical books — print book sales have remained stable or grown in recent years. Something about a bound book — its weight, its smell, the tactile experience of turning pages — satisfies in ways that screens don't. Bookbinding, whether industrial or handmade, creates the physical object that carries that experience. The craft is ancient, the need is ongoing, and the satisfaction of making a book with your own hands is timeless.
+E-readers haven't killed physical books — print book [sales](/sales) have remained stable or grown in recent years. Something about a bound book — its weight, its smell, the tactile experience of turning pages — satisfies in ways that screens don't. Bookbinding, whether industrial or handmade, creates the physical object that carries that experience. The craft is ancient, the need is ongoing, and the satisfaction of making a book with your own hands is timeless.

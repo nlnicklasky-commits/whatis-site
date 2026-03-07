@@ -5,7 +5,7 @@ description: "Crab fishing is the commercial and recreational harvesting of crab
 category: everyday-concepts
 tags: ["crab fishing", "fishing", "seafood", "marine industry", "crab", "fishermen"]
 heroImage: "/images/articles/crab-fishing.webp"
-heroAlt: "A fishing vessel pulling crab pots from rough ocean waters in the early morning"
+heroAlt: "Editorial photograph representing the concept of crab fishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ Crab fishing is the harvesting of crabs from oceans, bays, and estuaries for com
 
 ## The Species That Matter
 
-Different crab species drive different fisheries, each with its own geography, season, and market.
+Different crab species drive different fisheries, each with its own [geography](/geography), season, and market.
 
 **Alaskan king crab** is the premium product — massive crabs (leg spans up to 6 feet, weights up to 24 pounds) harvested from the frigid waters around Alaska's Aleutian Islands. Red king crab is the most prized, with legs selling for $30-$60 per pound retail. The fishery was worth over $100 million annually at its peak, though recent population collapses have severely reduced quotas.
 
 **Snow crab** (opilio) is smaller and more abundant than king crab, harvested primarily in Alaska and Atlantic Canada. It's the crab you're most likely to encounter at a seafood buffet. Snow crab legs are thinner and sweeter than king crab, and they command $15-$30 per pound.
 
-**Dungeness crab** is the West Coast's signature species, named after the town of Dungeness, Washington. It's harvested from California to Alaska, with the season typically running November through June. Dungeness has a loyal following among Pacific Northwest and Bay Area crab lovers.
+**Dungeness crab** is the West Coast's signature species, named after the town of Dungeness, Washington. It's harvested from California to Alaska, with the season typically [running](/running) November through June. Dungeness has a loyal following among Pacific Northwest and Bay Area crab lovers.
 
 **Blue crab** supports the iconic Chesapeake Bay crab industry and is harvested along the entire Atlantic and Gulf Coasts. Blue crab is the basis of Maryland crab cakes, she-crab soup, and the summertime tradition of crab boils. The Chesapeake Bay alone produces roughly 50 million pounds annually.
 
@@ -65,7 +65,7 @@ The Bering Sea in winter produces some of the most treacherous conditions on Ear
 
 Between 1990 and 2019, the U.S. Coast Guard recorded over 100 deaths in the Bering Sea crab fleet alone. Safety improvements — mandatory safety training, immersion suits, emergency beacons, vessel stability requirements — have reduced fatality rates, but the job remains inherently dangerous.
 
-Fatigue amplifies every risk. During the compressed crab seasons (sometimes just days long under derby-style management), crews work 18-20 hour shifts with minimal sleep. That combination of exhaustion, heavy machinery, icy surfaces, and violent seas is a recipe for accidents.
+Fatigue amplifies every risk. During the compressed crab seasons (sometimes just days long under derby-style [management](/management)), crews work 18-20 hour shifts with minimal sleep. That combination of exhaustion, heavy machinery, icy surfaces, and violent seas is a recipe for accidents.
 
 ## The Sustainability Crisis
 

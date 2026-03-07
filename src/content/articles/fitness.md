@@ -5,7 +5,7 @@ description: "Fitness is your body's ability to perform physical tasks effective
 category: health-amp-wellness
 tags: ["health", "exercise", "physical activity", "nutrition", "wellness", "strength training"]
 heroImage: "/images/articles/fitness.webp"
-heroAlt: "A person running on a trail through a sunlit forest with athletic gear"
+heroAlt: "Editorial photograph representing the concept of fitness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ Your cardiovascular system is, frankly, the most important component for longevi
 
 How much force a muscle or muscle group can produce in a single maximum effort. Think of a one-rep max on a bench press or deadlift. Strength matters beyond the gym — it's what keeps you from throwing out your back picking up a suitcase, or what lets an 80-year-old get up from a chair unassisted.
 
-After age 30, you lose approximately 3% to 8% of your muscle mass per decade if you don't actively maintain it. After 60, that rate accelerates. This age-related muscle loss — called sarcopenia — is one of the primary reasons elderly people fall, fracture bones, and lose independence. Strength training is the only proven countermeasure.
+After age 30, you lose approximately 3% to 8% of your muscle mass per decade if you don't actively maintain it. After 60, that rate accelerates. This age-related muscle loss — called sarcopenia — is one of the primary reasons elderly people fall, fracture bones, and lose independence. [Strength training](/strength-training) is the only proven countermeasure.
 
 ### 3. Muscular Endurance
 
@@ -59,7 +59,7 @@ Different from strength. Endurance is the ability to sustain repeated muscular c
 
 ### 4. Flexibility
 
-The range of motion available at your joints. This varies enormously between individuals and is strongly influenced by genetics, age, activity level, and the specific joint in question. You might have excellent shoulder flexibility but tight hamstrings.
+The range of motion available at your joints. This varies enormously between individuals and is strongly influenced by [genetics](/genetics), age, activity level, and the specific joint in question. You might have excellent shoulder flexibility but tight hamstrings.
 
 Flexibility matters because restricted range of motion changes how you move, often creating compensatory patterns that lead to injury. Someone with tight hip flexors, for example, tends to overarch their lower back — a recipe for chronic pain.
 
@@ -75,7 +75,7 @@ When you exercise, you're deliberately stressing your body. That stress triggers
 
 ### What Happens During Cardio
 
-When you start running, cycling, or swimming at moderate intensity, your heart rate increases, your breathing deepens, and blood flow redirects from your digestive organs to your working muscles. Your muscles burn through their stored glycogen (glucose) and begin pulling more glucose from your bloodstream. If the activity continues long enough — typically beyond 20-30 minutes — your body increasingly shifts to burning fat for fuel.
+When you start running, [cycling](/cycling), or [swimming](/swimming) at moderate intensity, your heart rate increases, your breathing deepens, and blood flow redirects from your digestive organs to your working muscles. Your muscles burn through their stored glycogen (glucose) and begin pulling more glucose from your bloodstream. If the activity continues long enough — typically beyond 20-30 minutes — your body increasingly shifts to burning fat for fuel.
 
 Over weeks and months of consistent cardio, your heart actually grows larger and stronger. Resting heart rate drops — well-trained athletes often have resting rates below 50 beats per minute, compared to the average adult's 60-100. Your muscles develop more capillaries, improving oxygen delivery. Your [cells](/anatomy) produce more mitochondria — the tiny structures that generate energy.
 
@@ -97,7 +97,7 @@ That's the minimum for health benefits. More is generally better, up to a point 
 
 Here's the uncomfortable truth, though: only about 23% of American adults meet both the aerobic and strength guidelines, according to the CDC's National Health Interview Survey. Nearly 30% get no leisure-time physical activity at all.
 
-## Nutrition and Fitness
+## [Nutrition](/nutrition) and Fitness
 
 You can't out-exercise a bad diet. That's not a motivational poster — it's [basic biology](/biology). A single fast-food meal can contain 1,500 calories. Burning 1,500 calories through exercise takes roughly two hours of running. The math doesn't work in your favor.
 
@@ -105,15 +105,15 @@ The key nutritional principles for fitness are surprisingly straightforward:
 
 **Protein** supports muscle repair and growth. Current research suggests 1.6 to 2.2 grams per kilogram of body weight daily for people engaged in regular strength training. For a 70 kg (154 lb) person, that's 112 to 154 grams per day. Timing matters less than total daily intake, despite what supplement companies tell you.
 
-**Carbohydrates** are your primary fuel for high-intensity exercise. Low-carb diets can work for general health, but if you're doing serious training, you need carbs — particularly around workout times.
+**Carbohydrates** are your primary fuel for high-intensity exercise. [Low-carb diets](/low-carb-diets) can work for general health, but if you're doing serious training, you need carbs — particularly around workout times.
 
 **Fats** support hormone production (including testosterone), cell membrane integrity, and the absorption of fat-soluble vitamins. Don't cut them below 20-25% of total calories.
 
 **Hydration** affects performance more than most people realize. Just 2% dehydration — easily reached during an hour of intense exercise in warm conditions — can reduce endurance performance by up to 25%.
 
-## The Mental Health Connection
+## The [Mental Health](/mental-health) Connection
 
-The mental health benefits of exercise are, honestly, almost as impressive as the physical ones. Regular physical activity reduces symptoms of depression by 20-30% on average, according to multiple meta-analyses. It reduces anxiety. It improves sleep quality. It enhances [cognitive](/cognitive-psychology) function, including memory and attention.
+The mental health benefits of exercise are, honestly, almost as impressive as the physical ones. Regular physical activity reduces symptoms of depression by 20-30% on average, according to multiple meta-analyses. It reduces anxiety. It improves sleep quality. It enhances [cognitive](/cognitive-[psychology](/psychology)) function, including memory and attention.
 
 The mechanisms are well-documented: exercise increases production of brain-derived neurotrophic factor (BDNF), which supports the growth of new neurons. It triggers endorphin release. It reduces cortisol (the stress hormone) over time. It improves blood flow to the brain.
 

@@ -5,7 +5,7 @@ description: "Classical composition is the art of creating musical works in the 
 category: arts-amp-culture
 tags: ["classical composition", "music composition", "classical music", "orchestration", "music theory", "composers"]
 heroImage: "/images/articles/classical-composition.webp"
-heroAlt: "Handwritten music manuscript with a fountain pen on a composer's desk"
+heroAlt: "Editorial photograph representing the concept of classical composition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Classical Composition?
 
-Classical composition is the art of creating original musical works within the Western classical tradition — writing music intended for orchestras, chamber ensembles, choirs, solo instruments, or opera, using the systems of harmony, counterpoint, form, and orchestration developed over roughly a thousand years of European musical practice. It's one of the most intellectually demanding creative pursuits humans have devised.
+Classical composition is the art of creating original musical works within the Western classical tradition — writing music intended for orchestras, chamber ensembles, choirs, solo instruments, or opera, using the systems of [harmony](/harmony), counterpoint, form, and [orchestration](/orchestration) developed over roughly a thousand years of European musical practice. It's one of the most intellectually demanding creative pursuits humans have devised.
 
 ## Writing Music That Doesn't Exist Yet
 
 Here's what composers actually do: they imagine sound — complex, layered, temporally organized sound — and translate that imagination into written symbols that allow other musicians to recreate it. A symphonic score might specify what 80+ individual musicians should play at every moment across 40 minutes of music. The composer hears all of this in their head before anyone plays a note.
 
-This internal hearing — audiation — is the core skill of composition. Mozart famously described hearing complete works in his mind before writing them down. Beethoven composed some of his greatest music after going deaf, working entirely from internal sound. Not every composer experiences this as vividly, but the ability to imagine and manipulate sound mentally is what separates composition from musical arrangement or transcription.
+This internal hearing — audiation — is the core skill of composition. Mozart famously described hearing complete works in his mind before writing them down. Beethoven composed some of his greatest music after going deaf, working entirely from internal sound. Not every composer experiences this as vividly, but the ability to imagine and manipulate sound mentally is what separates composition from musical arrangement or [transcription](/transcription).
 
 ## The Building Blocks
 
@@ -65,7 +65,7 @@ Choosing which instruments play which parts. Orchestration transforms the same n
 
 Classical composition uses structural frameworks — forms — that organize musical material across time.
 
-**Sonata form** — The dominant form of the Classical period (1750-1820). An exposition presents two contrasting themes, a development section fragments and recombines them, and a recapitulation restates them. The interplay between thematic statement, transformation, and return creates satisfying structural architecture.
+**Sonata form** — The dominant form of the Classical period (1750-1820). An exposition presents two contrasting themes, a development section fragments and recombines them, and a recapitulation restates them. The interplay between thematic statement, transformation, and return creates satisfying structural [architecture](/architecture).
 
 **Fugue** — A contrapuntal form where a subject (theme) is introduced in one voice and systematically imitated by others, with episodes of free material between entries. Bach's *The Well-Tempered Clavier* contains 48 fugues exploring the form's possibilities.
 
@@ -79,11 +79,11 @@ Classical composition uses structural frameworks — forms — that organize mus
 
 Every composer works differently, but common approaches include:
 
-**Sketching** — Most composers begin with fragments: a melodic idea, a harmonic progression, a rhythmic pattern. Beethoven's sketchbooks show him wrestling with themes through dozens of revisions before arriving at their final forms. The "Ode to Joy" melody went through years of sketches before reaching its famous shape.
+**[Sketching](/sketching)** — Most composers begin with fragments: a melodic idea, a harmonic progression, a rhythmic pattern. Beethoven's sketchbooks show him [wrestling](/wrestling) with themes through dozens of revisions before arriving at their final forms. The "Ode to Joy" melody went through years of sketches before reaching its famous shape.
 
 **Developing** — Taking initial ideas and exploring their potential. What happens if the melody is inverted (turned upside down)? Augmented (played at half speed)? Harmonized differently? Combined with another idea? Development is where compositional craft lives.
 
-**Orchestrating** — Assigning parts to specific instruments. This requires deep knowledge of each instrument's range, capabilities, tone color, and limitations. Writing a passage that works on piano may not work for flute (breath limitations), violin (string crossing difficulties), or trumpet (endurance constraints).
+**Orchestrating** — Assigning parts to specific instruments. This requires deep knowledge of each instrument's range, capabilities, tone color, and limitations. Writing a passage that works on piano may not work for flute (breath limitations), violin (string crossing difficulties), or [trumpet](/trumpet) (endurance constraints).
 
 **Revising** — Most composers revise extensively. Brahms reportedly destroyed more music than he published. The gap between what you imagine and what you actually write on the page is where the hardest work happens.
 
@@ -93,11 +93,11 @@ The world of [classical music](/classical-music) composition today bears little 
 
 **Neo-Romantic** — Tonal, emotionally expressive music that reconnects with Romantic-era traditions. Jennifer Higdon, John Adams, and Morten Lauridsen write music that audiences and orchestras embrace.
 
-**Minimalist and post-minimalist** — Repetitive patterns that evolve slowly. Philip Glass, Steve Reich, and their descendants have made minimalism one of the most commercially successful contemporary classical styles.
+**Minimalist and post-minimalist** — Repetitive patterns that evolve slowly. Philip Glass, Steve Reich, and their descendants have made [minimalism](/minimalism) one of the most commercially successful contemporary classical styles.
 
 **Spectral music** — Compositions based on the analysis of sound spectra (the overtone content of individual notes). Developed by Gérard Grisey and Tristan Murail, spectral techniques influence many contemporary composers.
 
-**Electronic and hybrid** — Combining acoustic instruments with electronic sound. Kaija Saariaho, Mason Bates, and others integrate electronics into orchestral and chamber contexts.
+**Electronic and hybrid** — Combining acoustic instruments with electronic sound. Kaija Saariaho, Mason Bates, and others integrate [electronics](/electronics) into orchestral and chamber contexts.
 
 **Film and media scoring** — Many composers trained in classical composition work primarily in film, television, and video games. John Williams, Hans Zimmer, and a generation of game composers (Austin Wintory, Mick Gordon) write music heard by far larger audiences than concert composers typically reach.
 

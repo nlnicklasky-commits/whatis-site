@@ -5,7 +5,7 @@ description: "Qigong is an ancient Chinese practice combining slow movement, bre
 category: health-amp-wellness
 tags: ["qigong", "traditional chinese medicine", "meditation", "energy"]
 heroImage: "/images/articles/qigong.webp"
-heroAlt: "A person practicing qigong movements in a peaceful park at sunrise"
+heroAlt: "Editorial photograph representing the concept of qigong"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,17 +35,17 @@ faq:
 
 # What Is Qigong?
 
-Qigong (pronounced "chee-gong") is a centuries-old Chinese practice that combines slow, deliberate movement, controlled breathing, and focused meditation to promote physical and mental well-being. The word combines *qi* (vital energy or life force) and *gong* (skill or cultivation) — so qigong literally means "cultivating energy."
+Qigong (pronounced "chee-gong") is a centuries-old Chinese practice that combines slow, deliberate movement, controlled breathing, and focused [meditation](/meditation) to promote physical and mental well-being. The word combines *qi* (vital energy or life force) and *gong* (skill or cultivation) — so qigong literally means "cultivating energy."
 
 ## An Ancient Practice With Modern Staying Power
 
-Qigong has been around for a very long time. Archaeological evidence suggests proto-qigong practices existed in China as early as 5,000 years ago — a painted pottery vessel from the Majiayao culture (circa 3000 BCE) appears to depict a figure in a meditative posture with arms raised in a position resembling modern qigong movements.
+Qigong has been around for a very long time. Archaeological evidence suggests proto-qigong practices existed in China as early as 5,000 years ago — a painted [pottery](/pottery) vessel from the Majiayao culture (circa 3000 BCE) appears to depict a figure in a meditative posture with arms raised in a position resembling modern qigong movements.
 
-Written references appear in early Chinese texts. The *Huangdi Neijing* (Yellow Emperor's Classic of Internal Medicine), compiled around 200 BCE, describes breathing and movement exercises for maintaining health. The *Dao Yin Tu* — a silk painting from the Mawangdui tomb (168 BCE) — shows 44 figures performing exercises that look remarkably like modern qigong forms.
+Written references appear in early Chinese texts. The *Huangdi Neijing* (Yellow Emperor's Classic of Internal Medicine), compiled around 200 BCE, describes breathing and movement exercises for maintaining health. The *Dao Yin Tu* — a silk [painting](/painting) from the Mawangdui tomb (168 BCE) — shows 44 figures performing exercises that look remarkably like modern qigong forms.
 
-For most of its history, qigong was intertwined with traditional Chinese medicine, Daoist philosophy, Buddhist meditation, and martial arts training. Different lineages developed different styles, and much was passed down through direct teacher-student transmission rather than written instruction.
+For most of its history, qigong was intertwined with [traditional Chinese medicine](/traditional-chinese-medicine), Daoist [philosophy](/philosophy), Buddhist meditation, and [martial arts](/martial-arts) training. Different lineages developed different styles, and much was passed down through direct teacher-student transmission rather than written instruction.
 
-The modern qigong movement took shape in the 1950s when the Chinese government promoted simplified, health-focused forms as part of public health campaigns. The Cultural Revolution (1966-1976) suppressed traditional practices, but qigong resurged dramatically in the 1980s and 1990s. By the late 1990s, an estimated 60-100 million people in China were practicing some form of qigong.
+The modern qigong movement took shape in the 1950s when the Chinese [government](/government) promoted simplified, health-focused forms as part of [public health](/public-health) campaigns. The Cultural Revolution (1966-1976) suppressed traditional practices, but qigong resurged dramatically in the 1980s and 1990s. By the late 1990s, an estimated 60-100 million people in China were practicing some form of qigong.
 
 Today, qigong is practiced worldwide. It's found in hospitals, community centers, parks, and YouTube channels. The WHO included traditional Chinese medicine practices in its International Classification of Diseases (ICD-11) in 2019, reflecting growing global recognition.
 
@@ -119,7 +119,7 @@ That said, several areas show promising evidence.
 
 The barrier to entry is remarkably low. You don't need equipment, special clothing, a gym membership, or even much space. Here's a practical starting point.
 
-**Find instruction.** While self-teaching is possible (YouTube has thousands of qigong tutorials), a qualified teacher can correct your posture, adjust your breathing patterns, and answer questions that video can't. Local community centers, martial arts schools, and hospitals with integrative medicine programs often offer classes. The National Qigong Association maintains a directory of certified instructors.
+**Find instruction.** While self-[teaching](/teaching) is possible (YouTube has thousands of qigong tutorials), a qualified teacher can correct your posture, adjust your breathing patterns, and answer questions that video can't. Local community centers, martial arts schools, and hospitals with integrative medicine programs often offer classes. The National Qigong Association maintains a directory of certified instructors.
 
 **Start with Baduanjin.** The Eight Pieces of Brocade is the classic beginner sequence. Eight movements, about 15-20 minutes total, gentle enough for nearly anyone. Learn one or two movements at a time rather than trying to memorize the entire sequence immediately.
 

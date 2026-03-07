@@ -5,7 +5,7 @@ description: "Western esotericism is a collection of spiritual and philosophical
 category: philosophy
 tags: ["western esotericism", "occultism", "mysticism"]
 heroImage: "/images/articles/western-esotericism.webp"
-heroAlt: "An old manuscript page showing alchemical symbols and mystical diagrams alongside a candle"
+heroAlt: "Editorial photograph representing the concept of western esotericism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ Alchemical texts operate on at least two levels simultaneously. The physical ope
 
 This dual nature explains why alchemical texts are so baffling to read. They're deliberately written in symbolic language (*solve et coagula* -- dissolve and coagulate) that conceals practical knowledge within layers of allegory. Whether this was to protect trade secrets, avoid religious persecution, or reflect a genuine belief that the physical and spiritual processes were inseparable depends on which historian you ask.
 
-The famous Swiss physician Paracelsus (1493-1541) transformed alchemy by applying it to medicine. His work laid foundations for pharmacology and toxicology -- the science of using chemical substances to treat disease. The line between alchemy and early modern science is far blurrier than most people realize.
+The famous Swiss physician Paracelsus (1493-1541) transformed alchemy by applying it to medicine. His work laid foundations for [pharmacology](/pharmacology) and toxicology -- the science of using chemical substances to treat disease. The line between alchemy and early modern science is far blurrier than most people realize.
 
 ### Kabbalah
 
@@ -83,7 +83,7 @@ This framework profoundly influenced Christian [theology](/christianity), Islami
 
 ### Astrology
 
-Astrology in the Western esoteric tradition isn't the newspaper horoscope. It's a complex symbolic system connecting celestial movements to earthly events and human psychology. Whether you think it works or not, understanding its role in intellectual history matters.
+Astrology in the Western esoteric tradition isn't the newspaper horoscope. It's a complex symbolic system connecting celestial movements to earthly events and human psychology. Whether you think it works or not, understanding its role in [intellectual history](/intellectual-history) matters.
 
 From the 2nd century through the 17th century, astrology was considered a legitimate science. Johannes Kepler, who discovered the laws of planetary motion, was a practicing astrologer. So were Galileo and Tycho Brahe. The split between [astronomy](/astronomy) and astrology happened gradually during the Scientific Revolution, and it wasn't a clean break.
 
@@ -151,7 +151,7 @@ Many founders of modern science were deeply involved in esoteric thought. Newton
 
 The German historian of science Richard Westfall estimated that Newton wrote more about alchemy and theology than about [physics](/physics) and mathematics combined. The Scientific Revolution didn't emerge from a rejection of esoteric thinking; it emerged partly *from* esoteric thinking, retaining certain methods (systematic observation, experimentation) while discarding others (correspondences, spiritual causation).
 
-Today, some scholars argue that esotericism and science separated more recently and less completely than commonly assumed. The psychologist Carl Jung drew extensively on alchemical symbolism in developing his psychological theories. Quantum physics has been (sometimes irresponsibly) connected to mystical ideas about consciousness and interconnectedness.
+Today, some scholars argue that esotericism and science separated more recently and less completely than commonly assumed. The psychologist Carl Jung drew extensively on alchemical symbolism in developing his psychological theories. [Quantum physics](/quantum-physics) has been (sometimes irresponsibly) connected to mystical ideas about consciousness and interconnectedness.
 
 The distinction worth maintaining is methodological. Science requires repeatable experiments and falsifiable hypotheses. Esoteric traditions rely on personal experience, initiation, and symbolic interpretation. These are different ways of approaching reality, and forcing them into a single framework tends to distort both.
 

@@ -5,7 +5,7 @@ description: "Jukebox collecting is the hobby of acquiring, restoring, and prese
 category: everyday-concepts
 tags: ["jukebox collecting", "vintage", "music history", "antiques", "restoration"]
 heroImage: "/images/articles/jukebox-collecting.webp"
-heroAlt: "Colorful restored 1950s Wurlitzer jukebox glowing with neon lights"
+heroAlt: "Editorial photograph representing the concept of jukebox collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Jukebox Collecting?
 
-Jukebox collecting is the hobby of finding, buying, restoring, and displaying coin-operated music machines — primarily the colorful, chrome-laden models from the 1940s through 1970s that were once fixtures in diners, bars, and soda fountains across America. These machines are equal parts musical instrument, mechanical marvel, and design icon, and they attract collectors who appreciate the intersection of music, engineering, and visual art.
+Jukebox collecting is the hobby of finding, buying, restoring, and displaying coin-operated music machines — primarily the colorful, chrome-laden models from the 1940s through 1970s that were once fixtures in diners, bars, and soda fountains across America. These machines are equal parts musical instrument, mechanical marvel, and design icon, and they attract collectors who appreciate the intersection of music, [engineering](/engineering), and visual art.
 
 ## The Golden Age
 
@@ -55,7 +55,7 @@ A jukebox is a remarkably complex machine. When you drop a coin and press a sele
 4. An amplifier drives speakers built into the cabinet
 5. After the song plays, the mechanism returns the record and waits for the next selection
 
-All of this happens through a combination of cams, gears, solenoids, relays, and (in later models) solid-state electronics. The mechanical precision required is impressive — early jukeboxes had no electronics at all, using purely mechanical logic to select and play records.
+All of this happens through a combination of cams, gears, solenoids, relays, and (in later models) solid-state [electronics](/electronics). The mechanical precision required is impressive — early jukeboxes had no electronics at all, using purely mechanical [logic](/logic) to select and play records.
 
 ## Getting Started Collecting
 

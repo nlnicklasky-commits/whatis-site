@@ -5,7 +5,7 @@ description: "Maritime law governs activities on the sea, from shipping contract
 category: law
 tags: ["international law", "maritime law", "admiralty"]
 heroImage: "/images/articles/maritime-law.webp"
-heroAlt: "A large container ship entering a busy commercial port with cranes in the background"
+heroAlt: "Editorial photograph representing the concept of maritime law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,17 +55,17 @@ The United Nations Convention on the Law of the Sea (UNCLOS), adopted in 1982 an
 
 - **Territorial seas**: A nation controls waters up to 12 nautical miles from its coastline
 - **Contiguous zones**: Up to 24 nautical miles — a nation can enforce customs and immigration laws
-- **Exclusive Economic Zones (EEZs)**: Up to 200 nautical miles — a nation has rights over natural resources (fish, oil, minerals) but must allow freedom of navigation
+- **Exclusive Economic Zones (EEZs)**: Up to 200 nautical miles — a nation has rights over natural resources (fish, oil, minerals) but must allow freedom of [navigation](/navigation)
 - **The high seas**: Beyond any EEZ — open to all nations, governed by flag state laws
 - **The deep seabed**: Declared the "common heritage of mankind" — mineral resources are managed by the International Seabed Authority
 
-168 countries have ratified UNCLOS. The United States has not, though it generally follows its provisions as customary international law. The reasons for non-ratification are largely political — concerns about sovereignty and the deep seabed mining provisions.
+168 countries have ratified UNCLOS. The United States has not, though it generally follows its provisions as customary [international law](/international-law). The reasons for non-ratification are largely political — concerns about sovereignty and the deep seabed mining provisions.
 
 ### The IMO and Safety Standards
 
 The International Maritime Organization (IMO), a United Nations agency based in London, sets the technical standards that govern international shipping. Its key conventions include:
 
-**SOLAS** (Safety of Life at Sea) — Originally adopted after the *Titanic* disaster in 1914, and updated regularly since. It sets minimum safety standards for ship construction, equipment, and operation. If you've ever wondered why ships have lifeboats, fire detection systems, and mandatory distress signals, SOLAS is the reason.
+**SOLAS** (Safety of Life at Sea) — Originally adopted after the *Titanic* disaster in 1914, and updated regularly since. It sets minimum safety standards for ship [construction](/construction), equipment, and operation. If you've ever wondered why ships have lifeboats, fire detection systems, and mandatory distress signals, SOLAS is the reason.
 
 **MARPOL** (International Convention for the Prevention of Pollution from Ships) — Covers oil discharges, noxious substances, sewage, garbage, and air emissions from ships. The 2020 "IMO 2020" regulation slashed the permitted sulfur content in ship fuel from 3.5% to 0.5%, forcing the entire industry to switch fuels or install scrubbers.
 
@@ -123,7 +123,7 @@ Modern piracy is prosecuted under UNCLOS and national laws, but jurisdiction is 
 
 ### Territorial Disputes
 
-The South China Sea is the most visible example. China claims sovereignty over most of the sea based on historical usage — the so-called "nine-dash line." In 2016, an international arbitral tribunal ruled that China's claims had no legal basis under UNCLOS. China rejected the ruling. The dispute remains unresolved, with multiple countries' maritime claims overlapping and military tensions running high.
+The South China Sea is the most visible example. China claims sovereignty over most of the sea based on historical usage — the so-called "nine-dash line." In 2016, an international arbitral tribunal ruled that China's claims had no legal basis under UNCLOS. China rejected the ruling. The dispute remains unresolved, with multiple countries' maritime claims overlapping and military tensions [running](/running) high.
 
 Arctic shipping routes, newly accessible due to melting ice, are creating similar disputes. As the Northwest Passage and Northern Sea Route become navigable for longer seasons, questions about sovereignty, environmental protection, and transit rights are growing more urgent.
 

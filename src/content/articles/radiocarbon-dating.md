@@ -5,7 +5,7 @@ description: "Radiocarbon dating measures the decay of carbon-14 in organic mate
 category: everyday-concepts
 tags: ["radiocarbon dating", "archaeology", "carbon-14", "science", "dating methods", "geology"]
 heroImage: "/images/articles/radiocarbon-dating.webp"
-heroAlt: "Scientist analyzing an ancient sample in a radiocarbon dating laboratory"
+heroAlt: "Editorial photograph representing the concept of radiocarbon dating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Radiocarbon Dating?
 
-Radiocarbon dating is a scientific method for determining the age of organic materials — anything that was once alive — by measuring how much carbon-14 (a radioactive isotope of carbon) remains in the sample. Developed by Willard Libby in 1949 (earning him the 1960 Nobel Prize in Chemistry), it transformed archaeology, geology, and our understanding of human history by providing the first reliable way to assign actual dates to ancient objects.
+Radiocarbon dating is a [scientific method](/scientific-method) for determining the age of organic materials — anything that was once alive — by measuring how much carbon-14 (a radioactive isotope of carbon) remains in the sample. Developed by Willard Libby in 1949 (earning him the 1960 Nobel Prize in [Chemistry](/chemistry)), it transformed [archaeology](/archaeology), [geology](/geology), and our understanding of human history by providing the first reliable way to assign actual dates to ancient objects.
 
 ## The Science Behind It
 
@@ -70,7 +70,7 @@ Radiocarbon dating works on any material that was once part of a living organism
 - **Parchment and paper** — from documents
 - **Soil organic matter** — humus in soil layers
 
-What it *cannot* date: rocks, metals, ceramics (though organic residue on ceramics can be dated), synthetic materials, and anything older than about 50,000 years.
+What it *cannot* date: rocks, metals, [ceramics](/ceramics) (though organic residue on ceramics can be dated), synthetic materials, and anything older than about 50,000 years.
 
 ## How It Changed History
 
@@ -82,14 +82,14 @@ Major findings made possible by radiocarbon dating include:
 - Confirming that the Dead Sea Scrolls were written between roughly 300 BCE and 70 CE
 - Dating the Lascaux cave paintings to approximately 17,000 years ago
 - Establishing that humans reached the Americas at least 15,000 years ago (and probably earlier)
-- Dating the construction phases of Stonehenge
-- Revealing that agriculture developed independently at different times in different regions
+- Dating the [construction](/construction) phases of Stonehenge
+- Revealing that [agriculture](/agriculture) developed independently at different times in different regions
 
 ## The Bomb Curve
 
 Nuclear weapons testing in the 1950s and early 1960s nearly doubled the amount of carbon-14 in the atmosphere. After the Partial Nuclear Test Ban Treaty of 1963, atmospheric carbon-14 began declining as the excess was absorbed by the oceans and biosphere.
 
-This "bomb curve" has created an unexpected tool. Forensic scientists can use the sharp peak and subsequent decline in atmospheric carbon-14 to date biological materials (teeth, bone, brain tissue) from the second half of the 20th century with remarkable precision — sometimes to within 1-2 years. It's been used in criminal cases and to study cell turnover in human biology.
+This "bomb curve" has created an unexpected tool. Forensic scientists can use the sharp peak and subsequent decline in atmospheric carbon-14 to date biological materials (teeth, bone, brain tissue) from the second half of the 20th century with remarkable precision — sometimes to within 1-2 years. It's been used in criminal cases and to study cell turnover in human [biology](/biology).
 
 The bomb curve is also gradually making traditional radiocarbon dating harder, because fossil fuel emissions (which contain no carbon-14) are diluting atmospheric carbon-14 levels. By 2050, fresh organic material will have the same carbon-14 ratio as material from 1050 CE, potentially confusing future dating efforts. Scientists call this the "Suess effect," named after the chemist who first identified it.
 

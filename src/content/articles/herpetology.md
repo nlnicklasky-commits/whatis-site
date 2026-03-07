@@ -5,7 +5,7 @@ description: "Herpetology is the branch of zoology that studies reptiles and amp
 category: science
 tags: ["herpetology", "amphibians", "reptiles", "zoology", "conservation", "ecology", "snakes"]
 heroImage: "/images/articles/herpetology-hero.webp"
-heroAlt: "Close-up of a green tree frog perched on a branch with a blurred tropical forest background"
+heroAlt: "Editorial photograph representing the concept of herpetology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Herpetology?
 
-Herpetology is the branch of zoology dedicated to the scientific study of reptiles and amphibians—their biology, ecology, behavior, physiology, evolution, taxonomy, and conservation. The name comes from the Greek word *herpeton*, meaning "creeping animal," and the field covers an astonishingly diverse group of organisms that includes roughly 11,700 reptile species and 8,700 amphibian species worldwide.
+Herpetology is the branch of zoology dedicated to the scientific study of reptiles and amphibians—their biology, ecology, behavior, [physiology](/physiology), evolution, taxonomy, and conservation. The name comes from the Greek word *herpeton*, meaning "creeping animal," and the field covers an astonishingly diverse group of organisms that includes roughly 11,700 reptile species and 8,700 amphibian species worldwide.
 
 ## Two Groups, One Field
 
@@ -113,7 +113,7 @@ Because amphibians absorb chemicals through their permeable skin, breathe partly
 
 And crash they have. Amphibians are experiencing the most severe biodiversity crisis of any vertebrate group. About 41% of amphibian species are threatened with extinction—compared to 25% of mammals and 13% of birds. Since the 1960s, at least 200 amphibian species have gone extinct, and hundreds more have declined catastrophically.
 
-The primary culprit is the chytrid fungus *Batrachochytrium dendrobatidis* (Bd), which attacks the keratin in amphibian skin, disrupting their ability to absorb water and electrolytes. The disease has caused the decline or extinction of over 500 species across six continents—the worst disease-driven biodiversity loss in recorded history. The fungus likely spread globally through the international trade in African clawed frogs, which were widely used in pregnancy tests from the 1930s through the 1960s and carry the fungus without getting sick.
+The primary culprit is the chytrid fungus *Batrachochytrium dendrobatidis* (Bd), which attacks the keratin in amphibian skin, disrupting their ability to absorb water and electrolytes. The disease has caused the decline or extinction of over 500 species across six continents—the worst disease-driven biodiversity loss in recorded history. The fungus likely spread globally through the [international trade](/international-trade) in African clawed frogs, which were widely used in pregnancy tests from the 1930s through the 1960s and carry the fungus without getting sick.
 
 ### Biomedical Research
 
@@ -121,7 +121,7 @@ Amphibians and reptiles have contributed disproportionately to medical science. 
 
 The axolotl's regeneration abilities could eventually transform human medicine. Researchers have identified key genes and signaling pathways involved in limb regeneration, and some of these pathways are present (but dormant) in mammals. Activating them could theoretically enable humans to regrow damaged tissue.
 
-Reptile venoms remain a goldmine for drug discovery. Researchers have identified compounds with potential applications in pain management, blood clot treatment, cardiovascular disease, and even cancer therapy. The Gila monster venom peptide exendin-4 led to a class of diabetes drugs (GLP-1 receptor agonists) that has generated billions in revenue and genuinely improved millions of lives.
+Reptile venoms remain a goldmine for drug discovery. Researchers have identified compounds with potential applications in pain [management](/management), blood clot treatment, cardiovascular disease, and even cancer therapy. The Gila monster venom peptide exendin-4 led to a class of diabetes drugs (GLP-1 receptor agonists) that has generated billions in revenue and genuinely improved millions of lives.
 
 ### Ecosystem Services
 
@@ -139,7 +139,7 @@ Studying herps requires specialized techniques because many species are secretiv
 
 **Acoustic surveys** record frog calls to identify species and estimate population sizes. Each frog species has a distinctive call, and trained herpetologists can identify dozens of species by ear alone. Automated recording devices (called ARUs) can monitor frog communities continuously for months.
 
-**Mark-recapture studies** involve capturing animals, marking them individually (toe-clipping, PIT tags, or natural pattern recognition), releasing them, and later recapturing. The ratio of marked to unmarked animals in the second sample allows population size estimation.
+**Mark-recapture studies** involve capturing animals, marking them individually (toe-clipping, PIT tags, or natural [pattern recognition](/pattern-recognition)), releasing them, and later recapturing. The ratio of marked to unmarked animals in the second sample allows population size estimation.
 
 **Radio telemetry** tracks individual animals over time. Tiny radio transmitters implanted surgically or attached externally let researchers follow snakes, turtles, and large lizards through their daily and seasonal movements. This has revealed movement patterns, home ranges, and habitat use that were previously invisible.
 
@@ -153,7 +153,7 @@ eDNA is particularly valuable for rare, cryptic, or aquatic species. Finding an 
 
 Given the crisis facing amphibians and the declining status of many reptile species, conservation has become central to modern herpetology.
 
-**Captive breeding programs** maintain insurance populations for critically endangered species. The Houston Zoo's program for the Houston toad, the Amphibian Survival Alliance's work with various poison dart frogs, and New Zealand's tuatara breeding program are examples. Some species exist only in captivity—the Panamanian golden frog, for instance, is functionally extinct in the wild due to chytrid fungus.
+**Captive breeding programs** maintain [insurance](/insurance) populations for critically endangered species. The Houston Zoo's program for the Houston toad, the Amphibian Survival Alliance's work with various poison dart frogs, and New Zealand's tuatara breeding program are examples. Some species exist only in captivity—the Panamanian golden frog, for instance, is functionally extinct in the wild due to chytrid fungus.
 
 **Habitat protection** remains the most effective conservation strategy. Many herps have small ranges and specific habitat requirements—a single mountaintop, a particular spring system, a patch of old-growth forest. Protecting these habitats preserves not just the target species but entire communities.
 
@@ -167,7 +167,7 @@ Reptiles and amphibians have always occupied a peculiar place in human culture. 
 
 Fear of snakes—ophidiophobia—appears to be partially innate. Babies as young as 6 months show heightened attention to snake images compared to other stimuli, suggesting an evolutionary predisposition. This makes sense: our primate ancestors coexisted with venomous snakes for millions of years, and individuals who noticed and avoided snakes survived more often.
 
-This cultural baggage creates real conservation challenges. Many harmless snakes are killed on sight by people who can't distinguish them from venomous species—or who simply fear all snakes. Education programs that help people identify local species and understand their ecological roles have measurably reduced persecution in communities where they've been implemented.
+This cultural baggage creates real conservation challenges. Many harmless snakes are killed on sight by people who can't distinguish them from venomous species—or who simply fear all snakes. [Education](/education) programs that help people identify local species and understand their ecological roles have measurably reduced persecution in communities where they've been implemented.
 
 ## Key Takeaways
 

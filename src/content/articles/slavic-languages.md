@@ -5,7 +5,7 @@ description: "Slavic languages are a family of related languages spoken by over 
 category: language
 tags: ["slavic languages", "east slavic", "west slavic", "south slavic", "russian", "polish"]
 heroImage: "/images/articles/slavic-languages.webp"
-heroAlt: "A map of Eastern Europe with text samples in various Slavic languages and their scripts"
+heroAlt: "Editorial photograph representing the concept of slavic languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,17 +61,17 @@ Several features unite the Slavic family and distinguish it from other European 
 
 The Slavic world's most visible division is the alphabet split. Some languages use Cyrillic (Russian, Ukrainian, Serbian, Bulgarian, Macedonian, Belarusian). Others use Latin (Polish, Czech, Slovak, Croatian, Slovenian). This split makes the languages look more different on paper than they actually are in speech.
 
-The Cyrillic alphabet was developed in the 9th century by followers of Saints Cyril and Methodius, Byzantine missionaries who created the first Slavic alphabet (Glagolitic) to translate religious texts. Cyrillic evolved from this tradition and spread with Orthodox Christianity. The Latin alphabet arrived with Roman Catholic missionaries, attaching to the western Slavic peoples who aligned with Rome.
+The Cyrillic alphabet was developed in the 9th century by followers of Saints Cyril and Methodius, Byzantine missionaries who created the first Slavic alphabet (Glagolitic) to translate religious texts. Cyrillic evolved from this tradition and spread with Orthodox [Christianity](/christianity). The Latin alphabet arrived with Roman Catholic missionaries, attaching to the western Slavic peoples who aligned with Rome.
 
 The result is that Serbian and Croatian — which are mutually intelligible in speech — look entirely different written down. A sentence in Serbian Cyrillic and the same sentence in Croatian Latin are the same language in different clothes.
 
 ## Slavic Languages Today
 
-Russian remains the dominant Slavic language by speaker count and geopolitical significance. It's an official UN language and widely studied internationally — though the number of Russian language learners outside the former Soviet Union has fluctuated with geopolitical events.
+Russian remains the dominant Slavic language by speaker count and geopolitical significance. It's an official UN language and widely studied internationally — though the number of [Russian language](/russian-language) learners outside the former Soviet Union has fluctuated with geopolitical events.
 
 Polish has gained international visibility through Poland's EU membership and large diaspora populations in the UK, US, and elsewhere. Czech and Slovak maintain strong literary and cultural traditions despite small speaker populations.
 
-Ukrainian has experienced a surge of international interest and support since 2014, and especially since 2022. Efforts to distinguish Ukrainian language and culture from Russian have intensified, with increased Ukrainian-language publishing, media, and education.
+Ukrainian has experienced a surge of international interest and support since 2014, and especially since 2022. Efforts to distinguish Ukrainian language and culture from Russian have intensified, with increased Ukrainian-language [publishing](/publishing), media, and [education](/education).
 
 The smaller Slavic languages — Sorbian (about 30,000 speakers in Germany), Kashubian (about 100,000 in Poland), and Rusyn (disputed status, spoken in Central Europe) — face varying degrees of endangerment. Language revitalization efforts exist for several of these, with mixed results.
 

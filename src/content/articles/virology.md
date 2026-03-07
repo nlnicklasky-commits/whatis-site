@@ -5,7 +5,7 @@ description: "Virology is the study of viruses and viral diseases. Learn about v
 category: science
 tags: ["virology", "biology", "microbiology", "infectious disease", "vaccines"]
 heroImage: "/images/articles/virology.webp"
-heroAlt: "Colorized electron microscope image of virus particles with protein spikes visible on their surfaces"
+heroAlt: "Editorial photograph representing the concept of virology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,7 +51,7 @@ The typical virus is staggeringly small. Most range from 20 to 300 nanometers in
 
 ### Virus Structure
 
-Despite their simplicity, viruses have elegant architecture. The basic components:
+Despite their simplicity, viruses have elegant [architecture](/architecture). The basic components:
 
 **Genetic material** — either DNA or RNA, never both. This can be single-stranded or double-stranded, linear or circular. The genome size varies enormously: some viruses have fewer than 2,000 nucleotides (barely enough to encode a couple of proteins), while the giant Mimivirus genome contains over 1.2 million base pairs — larger than some bacteria.
 
@@ -90,7 +90,7 @@ The seven Baltimore classes:
 - **Class III:** Double-stranded RNA (dsRNA) — reoviruses, rotaviruses
 - **Class IV:** Positive-sense single-stranded RNA (+ssRNA) — coronaviruses, flaviviruses, picornaviruses
 - **Class V:** Negative-sense single-stranded RNA (-ssRNA) — influenza, Ebola, rabies
-- **Class VI:** Retroviruses (ssRNA with reverse transcription) — HIV
+- **Class VI:** Retroviruses (ssRNA with reverse [transcription](/transcription)) — HIV
 - **Class VII:** Pararetroviruses (dsDNA with reverse transcription) — hepatitis B
 
 The classification matters practically because the replication strategy determines which antiviral approaches will work. Drugs that inhibit reverse transcriptase work against retroviruses but are useless against DNA viruses. Understanding the Baltimore class immediately tells you something about how to fight the virus.
@@ -161,11 +161,11 @@ This extreme mutation rate drives several important phenomena:
 
 Contemporary virologists have an extraordinary toolkit.
 
-**Next-generation sequencing** can determine a virus's complete genetic sequence in hours. During the COVID-19 pandemic, genomic surveillance tracked the emergence and spread of variants in near-real-time, informing public health responses worldwide.
+**Next-generation sequencing** can determine a virus's complete genetic sequence in hours. During the COVID-19 pandemic, genomic surveillance tracked the emergence and spread of variants in near-real-time, informing [public health](/public-health) responses worldwide.
 
 **Reverse genetics** allows virologists to create viruses from synthetic DNA, manipulate individual genes, and study how specific mutations affect viral properties. This technology was essential for creating the live attenuated influenza vaccine.
 
-**Cryo-electron microscopy** (cryo-EM) can visualize virus structures at near-atomic resolution without crystallization. The structure of the SARS-CoV-2 spike protein — solved by cryo-EM within weeks of the virus's emergence — guided vaccine and drug development.
+**Cryo-[electron microscopy](/electron-microscopy)** (cryo-EM) can visualize virus structures at near-atomic resolution without crystallization. The structure of the SARS-CoV-2 spike protein — solved by cryo-EM within weeks of the virus's emergence — guided vaccine and drug development.
 
 **Metagenomics** surveys all genetic material in an environmental sample, revealing viruses that can't be grown in the lab. This has revealed that the vast majority of viral diversity on Earth remains undiscovered. The ocean alone contains an estimated 10^31 virus particles — more than the number of stars in the observable universe.
 

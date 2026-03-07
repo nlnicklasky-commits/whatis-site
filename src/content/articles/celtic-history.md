@@ -5,7 +5,7 @@ description: "Celtic history covers the Iron Age peoples who spread across Europ
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
 heroImage: "/images/articles/celtic-history.webp"
-heroAlt: "Ancient Celtic stone cross covered in interlace patterns standing in an Irish hillside"
+heroAlt: "Editorial photograph representing the concept of celtic history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The weird part is that the Celts never called themselves "Celts." That label com
 
 ## Identifying the Celts
 
-One of the trickiest things about Celtic history is figuring out who, exactly, we're talking about. The Celts didn't build monumental structures with inscriptions. They didn't have a writing system until relatively late. Most of what we know about early Celts comes from three sources: [archaeology](/archaeology), the writings of Greek and Roman observers, and later medieval Irish and Welsh texts.
+One of the trickiest things about Celtic history is figuring out who, exactly, we're talking about. The Celts didn't build monumental structures with inscriptions. They didn't have a [writing](/writing) system until relatively late. Most of what we know about early Celts comes from three sources: [archaeology](/archaeology), the writings of Greek and Roman observers, and later medieval Irish and Welsh texts.
 
 Archaeologists identify two major Celtic cultural periods. The Hallstatt culture (roughly 800–450 BCE), centered in what is now Austria, represents the earlier phase. It was characterized by iron-working technology, elaborate burial practices, and long-distance trade connections. Salt mining at Hallstatt itself was so productive that the site gives this entire cultural period its name.
 
@@ -55,9 +55,9 @@ Celtic society, based on what we can reconstruct, was organized around kinship g
 
 But reducing the Celts to warriors misses the picture. Their economy was sophisticated. They mined iron, gold, silver, and tin. Their agricultural techniques were advanced — Celtic farmers used iron plows and crop rotation systems. Their oppida (fortified towns) were sometimes enormous; Bibracte in Gaul covered over 300 acres and held thousands of people.
 
-The druids — the Celtic priestly and intellectual class — fascinated and frightened classical writers. Druids served as priests, judges, teachers, and political advisors. They maintained oral traditions, studied astronomy, and mediated disputes. Julius Caesar wrote that druid training could take up to 20 years. Since druids deliberately avoided writing down their knowledge, much of what they taught died with them.
+The druids — the Celtic priestly and intellectual class — fascinated and frightened classical writers. Druids served as priests, judges, teachers, and political advisors. They maintained oral traditions, studied [astronomy](/astronomy), and mediated disputes. Julius Caesar wrote that druid training could take up to 20 years. Since druids deliberately avoided writing down their knowledge, much of what they taught died with them.
 
-Celtic [religion](/comparative-religion) was polytheistic and closely tied to the natural world. Sacred groves, springs, rivers, and hills were centers of worship. Votive offerings — weapons, jewelry, even human remains — were deposited in rivers and bogs. The Gundestrup Cauldron, found in a Danish bog, is one of the most spectacular surviving examples of Celtic religious art, featuring deities, animals, and ritual scenes.
+Celtic [religion](/comparative-religion) was polytheistic and closely tied to the natural world. Sacred groves, [springs](/springs), rivers, and hills were centers of worship. Votive offerings — weapons, jewelry, even human remains — were deposited in rivers and bogs. The Gundestrup Cauldron, found in a Danish bog, is one of the most spectacular surviving examples of Celtic religious art, featuring deities, animals, and ritual scenes.
 
 ## Roman Conquest and Celtic Survival
 
@@ -79,7 +79,7 @@ Irish and Scottish monks also launched a remarkable missionary movement, establi
 
 Celtic law — particularly the Irish Brehon law system — was remarkably sophisticated. It addressed property rights, marriage, injury compensation, and social obligations with a detail and nuance that surprised later English observers. Women had legal rights under Brehon law — including property ownership and the right to divorce — that they wouldn't possess under English common law for centuries.
 
-Welsh literature preserved Celtic mythological traditions in works like the Mabinogion. Irish sagas — the Ulster Cycle, the Fenian Cycle — recorded stories of heroes, gods, and supernatural events that represent one of Europe's richest [literary](/linguistics) traditions.
+Welsh [literature](/literature) preserved Celtic mythological traditions in works like the Mabinogion. Irish sagas — the Ulster Cycle, the Fenian Cycle — recorded stories of heroes, gods, and supernatural events that represent one of Europe's richest [literary](/linguistics) traditions.
 
 ## Decline, Revival, and Modern Identity
 
@@ -87,7 +87,7 @@ The medieval Celtic world gradually gave way to expanding English, Norse, and No
 
 Celtic languages retreated steadily. By the 19th century, Welsh, Irish, and Scottish Gaelic were spoken mainly in rural areas, and Cornish had effectively died out. The continental Celtic languages had vanished centuries earlier.
 
-The Celtic Revival of the late 19th and early 20th centuries was a conscious effort to rescue Celtic culture from extinction. In Ireland, the Gaelic League promoted the Irish language. The Celtic literary revival, led by figures like W.B. Yeats and Lady Gregory, drew on Irish mythology for artistic inspiration. Similar movements occurred in Wales, Scotland, and Brittany.
+The Celtic Revival of the late 19th and early 20th centuries was a conscious effort to rescue Celtic culture from extinction. In Ireland, the Gaelic League promoted the Irish language. The Celtic literary revival, led by figures like W.B. Yeats and Lady Gregory, drew on Irish [mythology](/mythology) for artistic inspiration. Similar movements occurred in Wales, Scotland, and Brittany.
 
 Today, Celtic identity remains powerful in Ireland, Scotland, Wales, Cornwall, Brittany, and the Isle of Man. Welsh is spoken by roughly 880,000 people and is a required subject in Welsh schools. Irish has constitutional status in Ireland and is an official EU language. The revival of Cornish and Manx from near-extinction shows that Celtic cultural identity retains remarkable resilience.
 

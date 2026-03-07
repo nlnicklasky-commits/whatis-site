@@ -5,7 +5,7 @@ description: "Hobby machining is using lathes, mills, and other machine tools at
 category: everyday-concepts
 tags: ["hobby machining", "machining", "metalworking", "diy", "craftsmanship", "engineering"]
 heroImage: "/images/articles/hobby-machining.webp"
-heroAlt: "Mini lathe in a home workshop with metal shavings and precision tools"
+heroAlt: "Editorial photograph representing the concept of hobby machining"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Hobby machining is the practice of using machine tools — lathes, milling machi
 
 The appeal is pretty straightforward: once you can make parts, you can fix almost anything and build almost anything. Need a replacement knob for a 1960s amplifier that nobody manufactures anymore? Machine one. Want to build a miniature steam engine that actually runs? Machine every component. Have an idea for a gadget that does not exist? Prototype it in your shop.
 
-Hobby machinists tend to be problem-solvers and tinkerers. Many come from engineering, automotive, or trades backgrounds, but a growing number are self-taught — learning from YouTube videos, online forums, and a willingness to ruin a few pieces of aluminum before getting things right.
+Hobby machinists tend to be problem-solvers and tinkerers. Many come from [engineering](/engineering), automotive, or trades backgrounds, but a growing number are self-taught — learning from YouTube videos, online forums, and a willingness to ruin a few pieces of aluminum before getting things right.
 
-The community is surprisingly active. Publications like *Home Shop Machinist* magazine have been running since 1982. Online forums like Practical Machinist attract thousands of active members. And the maker movement has brought new energy and younger participants to what was once a niche hobby dominated by retirees.
+The community is surprisingly active. Publications like *Home Shop Machinist* magazine have been [running](/running) since 1982. Online forums like Practical Machinist attract thousands of active members. And the maker movement has brought new energy and younger participants to what was once a niche hobby dominated by retirees.
 
 ## The Essential Machines
 
@@ -57,7 +57,7 @@ More advanced hobbyists eventually add **CNC (Computer Numerical Control)** capa
 
 The most common materials in hobby machining are **aluminum** (easy to cut, forgiving of mistakes), **mild steel** (harder but still manageable), **brass** (machines beautifully and looks great), and various **plastics** like Delrin and nylon.
 
-Measuring is where machining separates from carpentry. Woodworking tolerances are typically 1/16 inch. Machining tolerances are often 0.001 inch (one thousandth) or tighter. You need different measuring tools:
+Measuring is where machining separates from [carpentry](/carpentry). [Woodworking](/woodworking) tolerances are typically 1/16 inch. Machining tolerances are often 0.001 inch (one thousandth) or tighter. You need different measuring tools:
 
 - **Calipers** measure outside and inside dimensions to 0.001 inch
 - **Micrometers** measure to 0.0001 inch (one ten-thousandth)

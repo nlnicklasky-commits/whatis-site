@@ -5,7 +5,7 @@ description: "Real estate law governs ownership, use, and transfer of land and b
 category: law
 tags: ["real estate", "property law", "legal", "conveyancing"]
 heroImage: "/images/articles/real-estate-law.webp"
-heroAlt: "A property deed document with a pen and house keys resting on a desk"
+heroAlt: "Editorial photograph representing the concept of real estate law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,15 +33,15 @@ faq:
     a: "Eminent domain is the government's power to take private property for public use, provided the owner receives 'just compensation' as required by the Fifth Amendment. Historically, this applied to roads, schools, and utilities. The 2005 Supreme Court case Kelo v. City of New London expanded it controversially, allowing government to take property and transfer it to private developers for economic development. Many states passed laws restricting this broader use after the public backlash."
 ---
 
-# What Is Real Estate Law?
+# What Is [Real Estate](/real-estate) Law?
 
-Real estate law is the body of legal rules, regulations, and principles governing ownership, use, transfer, and development of land and the structures built on it. It covers everything from buying your first house to zoning disputes, landlord-tenant conflicts, construction contracts, and environmental regulations affecting property use.
+Real estate law is the body of legal rules, regulations, and principles governing ownership, use, transfer, and development of land and the structures built on it. It covers everything from buying your first house to zoning disputes, landlord-tenant conflicts, [construction](/construction) contracts, and environmental regulations affecting property use.
 
 ## Why Land Is Legally Special
 
 Land has characteristics that make it fundamentally different from other types of property. It's immovable — you can't pick it up and take it with you. It's permanent — land doesn't wear out, get consumed, or depreciate to zero (buildings do; land doesn't). Every parcel is unique — no two pieces of land occupy the same physical space.
 
-These features have given real estate a special status in law for centuries. English common law — the ancestor of most American property law — treated land ownership as the most important form of wealth. The entire feudal system was organized around who controlled land. Remnants of that history still echo in modern property law. Terms like "fee simple," "estate," and "tenant" all trace back to medieval English land tenure.
+These features have given real estate a special status in law for centuries. English common law — the ancestor of most American [property law](/property-law) — treated land ownership as the most important form of wealth. The entire feudal system was organized around who controlled land. Remnants of that history still echo in modern property law. Terms like "fee simple," "estate," and "tenant" all trace back to medieval English land tenure.
 
 Today, real estate is the largest asset class in the world. The total value of global real estate exceeds $300 trillion, according to Savills Research. In the U.S. alone, residential real estate is worth roughly $45 trillion. With that much value at stake, the legal framework governing property rights is extensive and detailed.
 
@@ -69,7 +69,7 @@ Understanding the bundle of rights is the key to understanding almost every real
 
 ### Fee Simple Absolute
 
-The fullest form of ownership. You own the property outright, with the right to use it, sell it, lease it, or pass it to your heirs indefinitely. When most people say they "own" a house, they hold fee simple title. It's as close to unlimited ownership as the law allows — still subject to government restrictions like zoning, taxation, and eminent domain.
+The fullest form of ownership. You own the property outright, with the right to use it, sell it, lease it, or pass it to your heirs indefinitely. When most people say they "own" a house, they hold fee simple title. It's as close to unlimited ownership as the law allows — still subject to [government](/government) restrictions like zoning, taxation, and eminent domain.
 
 ### Life Estate
 
@@ -89,7 +89,7 @@ A deed is the legal document that transfers ownership of real property. It must 
 
 Not all deeds offer the same protection. A **general warranty deed** provides the strongest guarantees — the seller warrants that they have clear title, the right to sell, and that the property is free from encumbrances (except those specifically listed). A **quitclaim deed** provides no guarantees at all — the seller transfers whatever interest they have, if any. Quitclaim deeds are common between family members or in divorce settlements, but you'd never want one from a stranger.
 
-### Title Insurance
+### Title [Insurance](/insurance)
 
 Even with a thorough title search, defects can hide. Maybe a previous deed was forged. Maybe an unknown heir has a valid claim. Maybe a survey was wrong and the property boundaries aren't where everyone thinks they are. Title insurance protects the buyer (and the lender) against these risks. It's a one-time premium paid at closing, and it covers losses from title defects discovered later.
 
@@ -113,7 +113,7 @@ Property owners who want to deviate from zoning rules can apply for a **variance
 
 Roughly 36% of American households rent their homes. Landlord-tenant law governs these relationships, covering lease terms, security deposits, habitability requirements, eviction procedures, and tenant rights.
 
-Most states require landlords to maintain rental properties in "habitable" condition — meaning working plumbing, heat, electricity, structural integrity, and freedom from health hazards. The specific standards vary by state. When landlords fail to maintain habitability, tenants may have remedies including rent withholding, repair-and-deduct, or lease termination.
+Most states require landlords to maintain rental properties in "habitable" condition — meaning working [plumbing](/plumbing), heat, [electricity](/electricity), structural integrity, and freedom from health hazards. The specific standards vary by state. When landlords fail to maintain habitability, tenants may have remedies including rent withholding, repair-and-deduct, or lease termination.
 
 Eviction is a legal process, not a self-help remedy. A landlord can't change the locks, shut off utilities, or remove a tenant's belongings without going through the courts. The eviction process involves notice, a court filing, a hearing, and (if the landlord prevails) a court order enforced by the sheriff. Timelines range from a few weeks to several months depending on jurisdiction.
 
@@ -121,7 +121,7 @@ Eviction is a legal process, not a self-help remedy. A landlord can't change the
 
 Property ownership doesn't give you unlimited freedom to do what you want with your land. Environmental laws impose significant restrictions.
 
-The **Clean Water Act** regulates discharges into waterways and restricts development on wetlands. The **Thorough Environmental Response, Compensation, and Liability Act (CERCLA)** — commonly called Superfund — holds property owners liable for contamination cleanup, even if they didn't cause the contamination. If you buy a gas station and later discover the underground tanks leaked decades ago, you could be on the hook for remediation costs running into millions.
+The **Clean Water Act** regulates discharges into waterways and restricts development on wetlands. The **Thorough Environmental Response, Compensation, and Liability Act (CERCLA)** — commonly called Superfund — holds property owners liable for contamination cleanup, even if they didn't cause the contamination. If you buy a gas station and later discover the underground tanks leaked decades ago, you could be on the hook for remediation costs [running](/running) into millions.
 
 Environmental due diligence — typically a Phase I Environmental Site Assessment — is standard practice in commercial real estate transactions for exactly this reason.
 

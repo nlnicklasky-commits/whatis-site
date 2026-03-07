@@ -5,7 +5,7 @@ description: "Ballroom dancing is a set of partner dances performed socially and
 category: everyday-concepts
 tags: ["ballroom dancing", "dance", "partner dance", "waltz", "tango", "competitive dance"]
 heroImage: "/images/articles/ballroom-dancing.webp"
-heroAlt: "Elegant couple performing a waltz in formal attire on a polished dance floor"
+heroAlt: "Editorial photograph representing the concept of ballroom dancing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Ballroom Dancing?
 
-Ballroom dancing is a category of partner dances that are performed socially at gatherings, events, and dance halls, and competitively at all levels from local to international championships. The term encompasses specific dances — waltz, tango, foxtrot, cha-cha, samba, and others — each with its own rhythm, technique, and character.
+Ballroom dancing is a category of partner dances that are performed socially at gatherings, events, and [dance](/dance) halls, and competitively at all levels from local to international championships. The term encompasses specific dances — waltz, tango, foxtrot, cha-cha, samba, and others — each with its own rhythm, technique, and character.
 
 ## A Quick History
 
@@ -55,7 +55,7 @@ Each subsequent decade brought new dances from different cultures: the tango arr
 
 **Quickstep** — Essentially a fast foxtrot with added hops, skips, and runs. It's joyful and athletic, covering enormous amounts of floor space at high speed.
 
-**Viennese waltz** — A faster version of the waltz, danced at roughly twice the tempo. Couples spin continuously, creating a mesmerizing whirl. It's physically demanding — the constant rotation at speed requires serious [fitness](/fitness).
+**[Viennese waltz](/viennese-waltz)** — A faster version of the waltz, danced at roughly twice the tempo. Couples spin continuously, creating a mesmerizing whirl. It's physically demanding — the constant rotation at speed requires serious [fitness](/fitness).
 
 ### Latin Dances
 
@@ -79,7 +79,7 @@ The World DanceSport Federation is pursuing Olympic recognition for competitive 
 
 ## Health Benefits
 
-The health argument for ballroom dancing is surprisingly strong. A landmark 2003 study in the New England Journal of Medicine found that regular social dancing reduced the risk of dementia by 76% — more than any other physical or cognitive activity studied, including reading, swimming, and doing crossword puzzles. The researchers attributed this to the combination of physical movement, social interaction, musical engagement, and the real-time decision-making required to lead or follow.
+The health argument for ballroom dancing is surprisingly strong. A landmark 2003 study in the New England Journal of Medicine found that regular social dancing reduced the risk of dementia by 76% — more than any other physical or cognitive activity studied, including reading, [swimming](/swimming), and doing [crossword puzzles](/crossword-puzzles). The researchers attributed this to the combination of physical movement, social interaction, musical engagement, and the real-time decision-making required to lead or follow.
 
 Balance and fall prevention benefits are particularly relevant for older adults. Learning to move in partnership — responding to subtle cues of weight, direction, and timing — develops proprioception and [coordination](/anatomy) that directly reduces fall risk.
 

@@ -5,7 +5,7 @@ description: "The trumpet is a brass instrument played by buzzing into a mouthpi
 category: arts-amp-culture
 tags: ["trumpet", "brass instruments", "music", "jazz", "orchestra", "wind instruments"]
 heroImage: "/images/articles/trumpet.webp"
-heroAlt: "A polished brass trumpet resting on a dark velvet surface with sheet music in the background"
+heroAlt: "Editorial photograph representing the concept of trumpet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ Everything changed around 1815 when Heinrich Stolzel and Friedrich Bluhmel paten
 
 ## How the Thing Actually Works
 
-The physics are straightforward but the execution is not. Here's the basic chain of events:
+The [physics](/physics) are straightforward but the execution is not. Here's the basic chain of events:
 
 **Your lips do the work.** When you press your lips into the mouthpiece and blow, they vibrate — this is called the "buzz." The frequency of that buzz determines the base pitch. Tighter lips and faster air produce higher notes. Looser lips and slower air produce lower ones.
 
 **The tubing amplifies and shapes the sound.** The air column inside the trumpet vibrates sympathetically with your lip buzz, reinforcing certain frequencies and filtering others. The conical-to-cylindrical bore shape gives the trumpet its characteristic bright, cutting tone.
 
-**The valves change the plumbing.** Each of the three valves adds tubing when pressed:
+**The valves change the [plumbing](/plumbing).** Each of the three valves adds tubing when pressed:
 - First valve adds enough tubing to lower pitch by a whole step
 - Second valve lowers pitch by a half step
 - Third valve lowers pitch by one and a half steps
@@ -102,7 +102,7 @@ If you're considering learning trumpet, here's the honest version:
 
 The first few weeks will test your patience. Getting a consistent sound out of the mouthpiece alone (a common first exercise) takes most beginners several practice sessions. Don't panic — this is normal.
 
-A student-level trumpet costs between $300 and $800. Brands like Yamaha, Bach, and Jupiter make reliable beginner instruments. Don't buy the cheapest no-name trumpet you find online — poor construction leads to intonation problems that no amount of practice can fix.
+A student-level trumpet costs between $300 and $800. Brands like Yamaha, Bach, and Jupiter make reliable beginner instruments. Don't buy the cheapest no-name trumpet you find online — poor [construction](/construction) leads to intonation problems that no amount of practice can fix.
 
 Find a teacher, at least for the first few months. Trumpet embouchure habits formed early tend to stick, and bad habits are much harder to unlearn than to avoid in the first place.
 

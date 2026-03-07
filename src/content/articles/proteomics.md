@@ -5,7 +5,7 @@ description: "Proteomics studies all the proteins in a cell or organism at once.
 category: science
 tags: ["proteomics", "proteins", "mass spectrometry", "biochemistry", "molecular biology", "systems biology", "biomarkers"]
 heroImage: "/images/articles/proteomics-hero.webp"
-heroAlt: "Mass spectrometry data visualization showing protein identification peaks"
+heroAlt: "Editorial photograph representing the concept of proteomics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -71,7 +71,7 @@ The classic "central dogma" of [molecular biology](/molecular-biology) says: DNA
 
 These modifications don't show up in the genome at all. They're invisible to genomics and transcriptomics. Only proteomics can see them.
 
-**Protein-protein interactions** add another layer. Proteins rarely act alone — they form complexes, signaling cascades, and metabolic pathways. A protein's function often depends on which other proteins it interacts with, and those interactions change with conditions. Mapping these interaction networks is a major goal of proteomics.
+**Protein-protein interactions** add another layer. Proteins rarely act alone — they form complexes, signaling cascades, and [metabolic pathways](/metabolic-pathways). A protein's function often depends on which other proteins it interacts with, and those interactions change with conditions. Mapping these interaction networks is a major goal of proteomics.
 
 ## How Proteomics Works: The Technology
 
@@ -85,7 +85,7 @@ The typical proteomics workflow — called **bottom-up or shotgun proteomics** �
 
 **Step 2: Digestion.** Use an enzyme (typically trypsin) to cut the proteins into peptides — shorter fragments of 7-30 amino acids. This step is necessary because intact proteins are hard to analyze by mass spectrometry.
 
-**Step 3: Separation.** Liquid chromatography (LC) separates the complex peptide mixture. A typical sample might contain hundreds of thousands of different peptides — they need to be spread out in time so the mass spectrometer can analyze them sequentially. High-performance liquid chromatography (HPLC) achieves this separation over a gradient of 1-4 hours.
+**Step 3: Separation.** Liquid [chromatography](/chromatography) (LC) separates the complex peptide mixture. A typical sample might contain hundreds of thousands of different peptides — they need to be spread out in time so the mass spectrometer can analyze them sequentially. High-performance liquid chromatography (HPLC) achieves this separation over a gradient of 1-4 hours.
 
 **Step 4: Ionization.** Peptides are ionized — given an electrical charge — as they enter the mass spectrometer. Electrospray ionization (ESI) is the standard method, converting a liquid stream into a fine mist of charged droplets.
 
@@ -151,9 +151,9 @@ Proteomics is moving from research laboratories into clinical practice, though m
 
 ### Nutrition and Agriculture
 
-Proteomics characterizes protein composition in foods, identifies allergens, and monitors food quality. In agriculture, proteomics helps understand crop stress responses, improve plant breeding, and develop disease-resistant varieties.
+Proteomics characterizes protein composition in foods, identifies allergens, and monitors food quality. In agriculture, proteomics helps understand crop stress responses, improve [plant breeding](/plant-breeding), and develop disease-resistant varieties.
 
-### Environmental Science
+### [Environmental Science](/environmental-science)
 
 Environmental proteomics (metaproteomics) studies protein expression in environmental communities — ocean microbiomes, soil ecosystems, wastewater treatment systems. This reveals which organisms are active and what metabolic processes are occurring, providing insights invisible to DNA-based methods alone.
 
@@ -173,7 +173,7 @@ Comparing proteomes across conditions — healthy vs. diseased, treated vs. untr
 
 ### Machine Learning
 
-[Machine learning](/machine-learning) is increasingly central to proteomics analysis. Deep learning models predict peptide fragmentation patterns (Prosit, MS2PIP), chromatographic retention times, and protein structures. AI-driven analysis tools like DIA-NN are dramatically improving the depth and speed of proteomic data analysis.
+[Machine learning](/machine-learning) is increasingly central to proteomics analysis. [Deep learning](/deep-learning) models predict peptide fragmentation patterns (Prosit, MS2PIP), chromatographic retention times, and protein structures. AI-driven analysis tools like DIA-NN are dramatically improving the depth and speed of proteomic [data analysis](/data-analysis).
 
 ### Pathway and Network Analysis
 

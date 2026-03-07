@@ -5,7 +5,7 @@ description: "TIG welding uses a non-consumable tungsten electrode and inert gas
 category: technology
 tags: ["tig welding", "welding", "manufacturing", "metalworking", "fabrication"]
 heroImage: "/images/articles/tungsten-inert-gas-tig-welding.webp"
-heroAlt: "Close-up of a TIG welding torch creating a bright arc on a metal surface with a gloved hand holding filler rod"
+heroAlt: "Editorial photograph representing the concept of tungsten inert gas (tig) welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -89,7 +89,7 @@ The torch cup — the ceramic or glass nozzle that directs the shielding gas —
 
 ### The Foot Pedal
 
-This is the part that makes TIG welding feel like playing a musical instrument. The foot pedal gives the welder real-time control over amperage. Press harder, more heat. Ease off, less heat. This variable control is what allows TIG welders to work on everything from 0.5mm stainless steel sheet to 25mm thick [pressure vessels](/civil-engineering) — the same machine, just different pedal pressure.
+This is the part that makes TIG welding feel like playing a musical instrument. The foot pedal gives the welder real-time control over amperage. Press harder, more heat. Ease off, less heat. This variable control is what allows TIG welders to work on everything from 0.5mm stainless steel sheet to 25mm thick [pressure vessels](/civil-[engineering](/engineering)) — the same machine, just different pedal pressure.
 
 Some welders use a finger-tip control on the torch instead of a foot pedal, especially when welding in positions where foot access is awkward (overhead, cramped spaces, pipe work).
 
@@ -145,7 +145,7 @@ Even experienced TIG welders encounter defects. Knowing what causes them is half
 
 **Lack of fusion** occurs when the arc doesn't adequately melt the base metal. Too little amperage, too much travel speed, or improper torch angle are the usual culprits.
 
-**Cracking** can happen for metallurgical reasons (wrong filler metal, excessive cooling stress) or because the joint was contaminated. Stainless steel is particularly susceptible to hot cracking if the filler metal chemistry is wrong.
+**Cracking** can happen for metallurgical reasons (wrong filler metal, excessive cooling stress) or because the joint was contaminated. Stainless steel is particularly susceptible to hot cracking if the filler metal [chemistry](/chemistry) is wrong.
 
 ## TIG vs. Other Welding Processes
 
@@ -163,7 +163,7 @@ There's no shortcut to TIG proficiency. It's the most skill-intensive welding pr
 
 The typical learning progression goes something like this: you spend the first few weeks just trying to maintain a stable arc without contaminating the tungsten. Then you learn to add filler rod, which feels impossibly awkward because your non-dominant hand is doing something completely different from your dominant hand — while your foot is doing something different from both.
 
-Welding schools typically allocate 200-400 hours of practice for TIG proficiency. Self-taught welders often take longer. The AWS (American Welding Society) offers D17.1 certification for aerospace TIG welding, which is one of the most respected credentials in the trade.
+Welding schools typically allocate 200-400 hours of practice for TIG proficiency. Self-taught welders often take longer. The AWS (American Welding Society) offers D17.1 certification for aerospace TIG welding, which is one of the most respected credentials in the [trade](/trade).
 
 ### What Makes a Good TIG Welder
 
@@ -173,7 +173,7 @@ The trade pays well. Certified TIG welders in aerospace and nuclear industries t
 
 ## The Future of TIG
 
-TIG welding has been around since the 1940s, when Russell Meredith developed the process at Northrop Aircraft to weld magnesium airframes during World War II. The fundamental process hasn't changed much since — it's still tungsten, still inert gas, still an electric arc. But the equipment and applications keep evolving.
+TIG welding has been around since the 1940s, when Russell Meredith developed the process at Northrop Aircraft to weld magnesium airframes during [World War II](/world-war-ii). The fundamental process hasn't changed much since — it's still tungsten, still inert gas, still an electric arc. But the equipment and applications keep evolving.
 
 Automated and robotic TIG welding is expanding, especially in pipe welding and semiconductor fabrication. Advanced power supplies with waveform control let welders fine-tune AC characteristics in ways that weren't possible even ten years ago. And as new alloys and exotic materials enter [manufacturing](/algorithms), TIG remains the process most capable of welding them cleanly.
 

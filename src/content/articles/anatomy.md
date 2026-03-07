@@ -5,7 +5,7 @@ description: "Anatomy is the study of body structure in living organisms. Learn 
 category: science
 tags: ["anatomy", "physiology", "biology", "human body", "medicine", "structure", "gross anatomy"]
 heroImage: "/images/articles/anatomy-hero.webp"
-heroAlt: "Detailed anatomical illustration of the human body showing muscles, bones, and organs"
+heroAlt: "Editorial photograph representing the concept of anatomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -149,7 +149,7 @@ In 1977, German anatomist Gunther von Hagens invented plastination — a process
 
 ## Clinical Anatomy — Where It Gets Real
 
-Anatomy isn't just an academic exercise. It's the foundation of surgery, radiology, emergency medicine, and physical therapy. Every time a surgeon makes an incision, they're relying on anatomical knowledge to avoid cutting something they shouldn't.
+Anatomy isn't just an academic exercise. It's the foundation of surgery, radiology, [emergency medicine](/emergency-medicine), and [physical therapy](/physical-therapy). Every time a surgeon makes an incision, they're relying on anatomical knowledge to avoid cutting something they shouldn't.
 
 ### Surface Anatomy
 
@@ -167,7 +167,7 @@ Surgeons have to know about these variations. Cutting what you think is one arte
 
 ## Comparative and Evolutionary Anatomy
 
-Human anatomy doesn't exist in a vacuum. **Comparative anatomy** — studying structural similarities and differences across species — was one of the most powerful lines of evidence for evolution before [genetics](/genetics) and DNA analysis even existed.
+Human anatomy doesn't exist in a vacuum. **[Comparative anatomy](/comparative-anatomy)** — studying structural similarities and differences across species — was one of the most powerful lines of evidence for evolution before [genetics](/genetics) and DNA analysis even existed.
 
 The classic example is the vertebrate forelimb. Your arm, a whale's flipper, a bat's wing, and a cat's front leg all contain the same basic bones: humerus, radius, ulna, carpals, metacarpals, and phalanges. The proportions differ wildly — a bat's finger bones are enormously elongated to support the wing membrane — but the underlying blueprint is the same. These **homologous structures** point to a shared ancestor.
 
@@ -193,7 +193,7 @@ The field isn't static. Several developments are pushing anatomy in directions t
 
 **3D bioprinting** uses anatomical data to print tissue scaffolds and, increasingly, functional tissue. Researchers at Wake Forest Institute for Regenerative Medicine have printed ear cartilage, bone fragments, and muscle tissue that survived after implantation in animals. We're still years from printing whole organs, but the anatomical blueprints for doing so are getting more precise every year.
 
-**Artificial intelligence** is being applied to anatomical imaging. Deep learning algorithms can now identify anatomical structures in CT scans with accuracy approaching (and sometimes exceeding) that of trained radiologists. A 2021 study in *Nature Medicine* showed an AI system that could segment 104 anatomical structures from a CT scan in under a minute — a task that would take a human expert hours.
+**[Artificial intelligence](/artificial-intelligence)** is being applied to anatomical imaging. Deep learning algorithms can now identify anatomical structures in CT scans with accuracy approaching (and sometimes exceeding) that of trained radiologists. A 2021 study in *Nature Medicine* showed an AI system that could segment 104 anatomical structures from a CT scan in under a minute — a task that would take a human expert hours.
 
 ## Why Any of This Matters to You
 

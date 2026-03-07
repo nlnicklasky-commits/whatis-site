@@ -5,7 +5,7 @@ description: "Figure skating combines athletic jumps, spins, and footwork with a
 category: sports
 tags: ["ice skating", "olympics", "winter sports", "jumps", "spins", "choreography"]
 heroImage: "/images/articles/figure-skating.webp"
-heroAlt: "Figure skater performing a graceful spin on ice with arms extended"
+heroAlt: "Editorial photograph representing the concept of figure skating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Figure Skating?
 
-Figure skating is a sport in which individuals, pairs, or groups perform athletic and artistic movements on ice, including jumps, spins, footwork sequences, and lifts. It's named after the "figures" — precise patterns traced on ice — that skaters originally had to execute in competition. Those compulsory figures were dropped in 1990, but the name stuck. Today, figure skating is one of the most-watched Winter Olympic sports, drawing hundreds of millions of viewers worldwide.
+Figure skating is a sport in which individuals, pairs, or groups perform athletic and artistic movements on ice, including jumps, spins, footwork sequences, and lifts. It's named after the "figures" — precise patterns traced on ice — that skaters originally had to execute in competition. Those compulsory figures were dropped in 1990, but the name stuck. Today, figure skating is one of the most-watched Winter Olympic sports, [drawing](/drawing) hundreds of millions of viewers worldwide.
 
 ## The Disciplines
 
@@ -41,7 +41,7 @@ Figure skating includes four competitive disciplines at the Olympic level.
 
 **Pairs** involves a man and a woman performing together with elements unique to the discipline: throw jumps (where the man launches the woman into a jump), side-by-side jumps and spins, lifts, twist lifts (where the woman is thrown into the air, rotates, and is caught), and death spirals (where one partner pivots while the other spirals nearly parallel to the ice). Pairs requires extraordinary trust and synchronization.
 
-**Ice dance** also features a man and a woman but prohibits the throws and overhead lifts of pairs. Ice dance emphasizes rhythm, footwork, and interpretation of music. Think of it as ballroom dancing on ice — though that undersells the athleticism. Ice dance lifts are restricted in height but can involve breathtaking positions and rotational speed.
+**Ice [dance](/dance)** also features a man and a woman but prohibits the throws and overhead lifts of pairs. Ice dance emphasizes rhythm, footwork, and interpretation of music. Think of it as [ballroom dancing](/ballroom-dancing) on ice — though that undersells the athleticism. Ice dance lifts are restricted in height but can involve breathtaking positions and rotational speed.
 
 ## The Jumps
 
@@ -59,7 +59,7 @@ The biggest story in recent figure skating is the quad revolution. In the 1980s,
 
 Women followed. In 2019, Russian skaters began landing quad jumps and triple Axels routinely. Alexandra Trusova performed five quad jumps in a single free skate at the 2022 Olympics — a feat that seemed unimaginable a few years earlier.
 
-This technical escalation has sparked debate. Critics argue the emphasis on jumping degrades the artistic side of skating. The physical demands of quad jumping mean skaters peak very young — some top women's skaters are 15 or 16 — and injuries are common. The minimum age for senior competition was raised to 17 starting in the 2024-25 season, partly to address these concerns.
+This technical escalation has sparked [debate](/debate). Critics argue the emphasis on jumping degrades the artistic side of skating. The physical demands of quad jumping mean skaters peak very young — some top women's skaters are 15 or 16 — and injuries are common. The minimum age for senior competition was raised to 17 starting in the 2024-25 season, partly to address these concerns.
 
 ## Scoring
 
@@ -75,13 +75,13 @@ The system is more transparent than the old one, but it's not controversy-free. 
 
 Despite the emphasis on technical difficulty, artistry remains central to figure skating's appeal. The best programs tell stories. They make you feel something. Torvill and Dean's Bolero (1984), the most famous figure skating performance ever, earned perfect 6.0s from every judge for artistic impression. It's still mesmerizing to watch.
 
-Choosing and editing music, designing choreography that integrates with the technical elements, selecting costumes, and performing with emotional conviction — these are artistic skills that separate good skaters from great ones. A perfectly landed quad means nothing if the audience is bored.
+Choosing and [editing](/editing) music, designing choreography that integrates with the technical elements, selecting costumes, and performing with emotional conviction — these are artistic skills that separate good skaters from great ones. A perfectly landed quad means nothing if the audience is bored.
 
 ## The Culture
 
 Figure skating has a complicated cultural position. It's massively popular during Olympics years, drawing audiences in the hundreds of millions. Between Olympics, interest drops dramatically. The sport depends on its stars — Yuzuru Hanyu's retirement from competitive skating in 2022 was front-page news in Japan, where he's a national treasure.
 
-The sport has also grappled with issues of access and diversity. Equipment, coaching, and ice time are expensive — a competitive figure skating career can cost families $35,000-$50,000 per year or more. This creates barriers that disproportionately affect lower-income communities. Recent efforts to increase diversity and accessibility are ongoing but progress is slow.
+The sport has also grappled with issues of access and diversity. Equipment, [coaching](/coaching), and ice time are expensive — a competitive figure skating career can cost families $35,000-$50,000 per year or more. This creates barriers that disproportionately affect lower-income communities. Recent efforts to increase diversity and accessibility are ongoing but progress is slow.
 
 Judging controversies have plagued the sport repeatedly. The 2002 Salt Lake City scandal (where a French judge was pressured to swap scores) led to the IJS. The 2022 Kamila Valieva doping case at the Beijing Olympics raised questions about the treatment of underage athletes and the role of national federations.
 

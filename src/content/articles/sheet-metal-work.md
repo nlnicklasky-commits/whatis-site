@@ -5,7 +5,7 @@ description: "Sheet metal work is the process of forming flat metal sheets into 
 category: technology
 tags: ["sheet metal", "metalworking", "fabrication", "manufacturing", "bending", "welding", "industrial"]
 heroImage: "/images/articles/sheet-metal-work-hero.webp"
-heroAlt: "Worker operating a press brake to bend a sheet of steel in a fabrication shop"
+heroAlt: "Editorial photograph representing the concept of sheet metal work"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,7 +51,7 @@ Common sheet metals include:
 
 **Stainless steel** resists corrosion thanks to its chromium content (at least 10.5%). Used for kitchen equipment, medical devices, architectural features, and anywhere appearance and hygiene matter. More expensive and harder to work than mild steel.
 
-**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerospace-engineering), transportation, and electronics enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
+**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerospace-[engineering](/engineering)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
 
 **Galvanized steel** is mild steel coated with a thin layer of zinc to prevent rust. The standard material for HVAC ductwork, outdoor enclosures, and agricultural equipment.
 
@@ -119,7 +119,7 @@ Every experienced fabricator accounts for springback by overbending — if you n
 
 For long, uniform profiles — think rain gutters, roof panels, metal studs, C-channels — roll forming is the efficient choice. The sheet metal passes through a series of roller stations, each one adding a bit more bend until the final profile shape is achieved. Roll forming is continuous — you feed in flat coil and get finished profiles out the other end, potentially at speeds of 30-100 meters per minute.
 
-The tooling cost is high (each profile needs its own set of rollers), but the per-unit cost is extremely low at volume. This makes roll forming ideal for construction, [automotive](/automotive-engineering), and HVAC applications where you need miles of identical profiles.
+The tooling cost is high (each profile needs its own set of rollers), but the per-unit cost is extremely low at volume. This makes roll forming ideal for [construction](/construction), [automotive](/automotive-engineering), and HVAC applications where you need miles of identical profiles.
 
 ### Stamping and Deep Drawing
 
@@ -153,7 +153,7 @@ Welding fuses metal pieces together by melting the joint area (and usually addin
 
 Rivets, screws, bolts, and clinch joints provide non-welded joining. Rivets — particularly blind rivets (pop rivets) — are cheap, fast, and require access from only one side of the assembly. Aircraft construction relies heavily on riveting because aluminum alloys used in aircraft skins don't weld well (and because riveted joints have more predictable fatigue behavior than welded ones).
 
-Self-clinching fasteners — nuts, studs, and standoffs pressed into the sheet metal — provide threaded attachment points without welding. Electronics enclosures use them extensively for mounting circuit boards and cable management.
+Self-clinching fasteners — nuts, studs, and standoffs pressed into the sheet metal — provide threaded attachment points without welding. Electronics enclosures use them extensively for mounting circuit boards and cable [management](/management).
 
 ### Adhesive Bonding
 
@@ -203,9 +203,9 @@ Sheet metal is everywhere, and understanding where it shows up illustrates just 
 
 ## The Trade: Skills and Career
 
-Sheet metal work remains a skilled trade with strong employment prospects. The U.S. Bureau of Labor Statistics projects steady demand for sheet metal workers, with median annual wages around $55,000 and experienced workers in specialized sectors earning $75,000-$90,000 or more.
+Sheet metal work remains a skilled trade with strong employment prospects. The U.S. Bureau of Labor [Statistics](/statistics) projects steady demand for sheet metal workers, with median annual wages around $55,000 and experienced workers in specialized sectors earning $75,000-$90,000 or more.
 
-Apprenticeship programs — typically four to five years combining classroom instruction with paid on-the-job training — remain the primary entry path. Apprentices learn blueprint reading, mathematics (geometry and trigonometry are essential), material science, welding, layout and pattern development, and machine operation.
+Apprenticeship programs — typically four to five years combining classroom instruction with paid on-the-job training — remain the primary entry path. Apprentices learn blueprint reading, [mathematics](/mathematics) (geometry and [trigonometry](/trigonometry) are essential), material science, welding, layout and pattern development, and machine operation.
 
 The work is physical but increasingly technical. Today's sheet metal workers program CNC machines, interpret CAD drawings, and troubleshoot automated equipment. The stereotype of purely manual labor is outdated — the trade blends hand skills with technology in a way that few other occupations match.
 

@@ -5,7 +5,7 @@ description: "Civil rights history traces the struggle for legal equality and so
 category: history
 tags: ["civil rights", "civil rights movement", "african american history", "social justice", "equality"]
 heroImage: "/images/articles/civil-rights-history.webp"
-heroAlt: "Marchers carrying signs during a civil rights demonstration in the 1960s"
+heroAlt: "Editorial photograph representing the concept of civil rights history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ Between 1877 and 1950, an estimated 4,400 racial terror lynchings occurred acros
 
 ## The Modern Civil Rights Movement (1954–1968)
 
-Most historians mark the beginning of the modern movement with the Supreme Court's 1954 decision in *Brown v. Board of Education*, which struck down "separate but equal" in public schools. Chief Justice Earl Warren wrote the unanimous opinion, declaring that segregated schools were "inherently unequal."
+Most historians mark the beginning of the modern movement with the Supreme Court's 1954 decision in *Brown v. Board of [Education](/education)*, which struck down "separate but equal" in public schools. Chief Justice Earl Warren wrote the unanimous opinion, declaring that segregated schools were "inherently unequal."
 
 But a court ruling and actual desegregation were two very different things. Southern states resisted massively. In 1957, Arkansas Governor Orval Faubus used the National Guard to block nine Black students from entering Little Rock Central High School. President Eisenhower had to send the 101st Airborne Division to enforce the court order.
 
@@ -71,9 +71,9 @@ The boycott proved something crucial: economic pressure worked. When you organiz
 
 The 1960s brought an explosion of direct action tactics. On February 1, 1960, four Black college students sat at a whites-only Woolworth's lunch counter in Greensboro, North Carolina, and refused to leave. Within two months, sit-ins had spread to 55 cities across 13 states.
 
-Freedom Riders — interracial groups who rode interstate buses through the South to test desegregation rulings — faced horrific violence. In Anniston, Alabama, a mob firebombed a bus in 1961. In Birmingham, riders were beaten with pipes and baseball bats while police stood by.
+Freedom Riders — interracial groups who rode interstate buses through the South to test desegregation rulings — faced horrific violence. In Anniston, Alabama, a mob firebombed a bus in 1961. In Birmingham, riders were beaten with pipes and [baseball](/baseball) bats while police stood by.
 
-These weren't spontaneous acts. Organizations like the Southern Christian Leadership Conference (SCLC), the Student Nonviolent Coordinating Committee (SNCC), and the Congress of Racial Equality (CORE) planned and trained activists in nonviolent resistance. The strategy was deliberate: provoke a response that would expose the brutality of segregation to the nation and the world, especially through the new medium of television.
+These weren't spontaneous acts. Organizations like the Southern Christian [Leadership](/leadership) Conference (SCLC), the Student Nonviolent Coordinating Committee (SNCC), and the Congress of Racial Equality (CORE) planned and trained activists in nonviolent resistance. The strategy was deliberate: provoke a response that would expose the brutality of segregation to the nation and the world, especially through the new medium of television.
 
 ### Birmingham and the Turning Point
 
@@ -81,7 +81,7 @@ Birmingham, Alabama in 1963 was arguably the turning point. King and the SCLC ch
 
 Connor didn't disappoint. He ordered fire hoses and police dogs turned on peaceful protesters, including children. Images of teenagers being blasted by high-pressure water and attacked by German shepherds appeared on front pages worldwide. President Kennedy went on national television to call civil rights a "moral issue" and proposed what would become the Civil Rights Act.
 
-The March on Washington on August 28, 1963, drew an estimated 250,000 people to the National Mall. King delivered his "I Have a Dream" speech from the Lincoln Memorial. It remains one of the most quoted addresses in American history — and it put enormous pressure on Congress to act.
+The March on Washington on August 28, 1963, drew an estimated 250,000 people to the National Mall. King delivered his "I Have a Dream" speech from the Lincoln Memorial. It remains one of the most quoted addresses in [American history](/american-history) — and it put enormous pressure on Congress to act.
 
 ## The Legislation That Changed Everything
 
@@ -89,13 +89,13 @@ The Civil Rights Act of 1964 was a hard-fought victory. It passed only after a 5
 
 But voting remained a problem. In Mississippi, only 6.7% of eligible Black voters were registered in 1964. Literacy tests, poll taxes, and outright intimidation kept the rest away. The violence at the Edmund Pettus Bridge in Selma, Alabama on March 7, 1965 — "Bloody Sunday" — pushed Congress to pass the Voting Rights Act of 1965. Within a year, Black voter registration in Mississippi jumped to nearly 60%.
 
-The Fair Housing Act of 1968, passed just a week after King's assassination, prohibited discrimination in housing sales and rentals. Together, these three laws dismantled the legal architecture of segregation.
+The Fair Housing Act of 1968, passed just a week after King's assassination, prohibited discrimination in housing sales and rentals. Together, these three laws dismantled the legal [architecture](/architecture) of segregation.
 
 ## Beyond King: The Movement's Many Voices
 
-The civil rights movement was never a monolith. While King's philosophy of nonviolent resistance and integration is the most celebrated, other voices offered different visions.
+The civil rights movement was never a monolith. While King's [philosophy](/philosophy) of nonviolent resistance and integration is the most celebrated, other voices offered different visions.
 
-Malcolm X, a minister in the Nation of Islam, rejected integration in favor of Black self-determination and self-defense. His [philosophy](/comparative-religion) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
+Malcolm X, a minister in the Nation of Islam, rejected integration in favor of Black self-determination and [self-defense](/self-defense). His [philosophy](/comparative-religion) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
 
 The Black Power movement, popularized by Stokely Carmichael and the Black Panther Party, emphasized racial pride, community control, and — when necessary — armed self-defense. The Panthers also ran breakfast programs for children and health clinics in Black neighborhoods, though their story is often reduced to the guns and berets.
 

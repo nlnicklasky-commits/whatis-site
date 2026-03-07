@@ -5,7 +5,7 @@ description: "Hydrodynamics studies how fluids flow and the forces they produce.
 category: science
 tags: ["hydrodynamics", "fluid dynamics", "fluid mechanics", "water", "engineering", "oceanography", "physics"]
 heroImage: "/images/articles/hydrodynamics-hero.webp"
-heroAlt: "Visualization of fluid flow patterns around an object showing laminar and turbulent streamlines"
+heroAlt: "Editorial photograph representing the concept of hydrodynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,11 +55,11 @@ All of hydrodynamics rests on three conservation principles borrowed from [class
 
 **Conservation of mass** — fluid can't appear from nowhere or vanish. What flows into a region must either flow out or accumulate. For an incompressible fluid (a reasonable approximation for most liquids), this simplifies to the continuity equation: if a pipe narrows, the fluid must speed up proportionally. A garden hose nozzle works this way — squeeze the opening, and water exits faster.
 
-**Conservation of momentum** — Newton's second law applied to fluids. The forces on a fluid element (pressure, viscosity, gravity) determine how it accelerates. This gives the Navier-Stokes equations — the governing equations of fluid dynamics. For an incompressible Newtonian fluid:
+**Conservation of momentum** — Newton's second law applied to fluids. The forces on a fluid element (pressure, viscosity, gravity) determine how it accelerates. This gives the Navier-Stokes equations — the governing equations of [fluid dynamics](/fluid-dynamics). For an incompressible Newtonian fluid:
 
 The left side describes acceleration (how the fluid velocity changes in time and space). The right side lists the forces: pressure gradient, viscous stress, and body forces (gravity). Simple in principle. Impossibly complex in practice for most real flows.
 
-**Conservation of energy** — the first law of thermodynamics applied to flowing fluid. Energy exists as kinetic energy (motion), potential energy (height), pressure energy, and internal energy (heat). Bernoulli's equation — one of hydrodynamics' most useful results — is a simplified energy conservation statement for steady, inviscid (frictionless) flow along a streamline: total pressure (static + active + elevation) remains constant.
+**Conservation of energy** — the first law of [thermodynamics](/thermodynamics) applied to flowing fluid. Energy exists as kinetic energy (motion), potential energy (height), pressure energy, and internal energy (heat). Bernoulli's equation — one of hydrodynamics' most useful results — is a simplified energy conservation statement for steady, inviscid (frictionless) flow along a streamline: total pressure (static + active + elevation) remains constant.
 
 ### Bernoulli's Principle in Action
 
@@ -113,7 +113,7 @@ Invisible from the surface, internal waves form at boundaries between water laye
 
 ## Practical Applications
 
-### Ship Design and Naval Architecture
+### Ship Design and [Naval Architecture](/naval-architecture)
 
 Designing efficient ships is a hydrodynamic problem. A ship moving through water creates wave drag (energy lost to generating waves) and viscous drag (friction between the hull and water). The relative importance of each depends on speed and hull shape.
 
@@ -141,7 +141,7 @@ Blood flow in the cardiovascular system follows hydrodynamic principles. The hea
 
 Arterial aneurysms, atherosclerotic plaque formation, and artificial heart valve design all involve hydrodynamic analysis. Computational fluid dynamics (CFD) simulations of blood flow help surgeons plan complex vascular procedures and help engineers design better artificial hearts and valves.
 
-### Oceanography
+### [Oceanography](/oceanography)
 
 Ocean circulation — driven by wind, temperature gradients, salinity differences, and Earth's rotation — distributes heat, nutrients, and dissolved gases globally. The Gulf Stream alone transports about 30 sverdrups (30 million cubic meters per second) of warm water northward, keeping Western Europe significantly warmer than comparable latitudes in North America.
 
@@ -159,7 +159,7 @@ Three main approaches exist:
 
 **Large Eddy Simulation (LES)** resolves large-scale turbulent structures and models the effect of small scales using subgrid-scale models. It's a practical compromise for many engineering flows.
 
-**Reynolds-Averaged Navier-Stokes (RANS)** models all turbulent fluctuations and solves only for average flow quantities. It's the least computationally expensive and most widely used in industrial design — but its turbulence models introduce significant approximations.
+**Reynolds-Averaged Navier-Stokes (RANS)** models all turbulent fluctuations and solves only for average flow quantities. It's the least computationally expensive and most widely used in [industrial design](/industrial-design) — but its turbulence models introduce significant approximations.
 
 The progression from RANS to LES to DNS as computational power increases is one of [computational physics'](/computational-physics) clearest trend lines. Each decade brings previously infeasible simulations into practical reach.
 

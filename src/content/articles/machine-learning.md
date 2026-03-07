@@ -5,7 +5,7 @@ description: "Machine learning enables computers to learn patterns from data and
 category: technology
 tags: ["machine-learning", "artificial-intelligence", "data-science", "neural-networks", "deep-learning", "algorithms"]
 heroImage: "/images/articles/machine-learning-hero.webp"
-heroAlt: "Abstract visualization of neural network nodes and data connections in blue and purple tones"
+heroAlt: "Editorial photograph representing the concept of machine learning? how computers learn without being programmed"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

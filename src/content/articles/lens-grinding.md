@@ -5,7 +5,7 @@ description: "Lens grinding is the process of shaping glass or crystal into prec
 category: technology
 tags: ["lens grinding", "optics", "lenses", "telescope", "microscope", "precision manufacturing", "optical engineering"]
 heroImage: "/images/articles/lens-grinding-hero.webp"
-heroAlt: "Artisan grinding a glass lens on a precision polishing machine with optical tools nearby"
+heroAlt: "Editorial photograph representing the concept of lens grinding"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Every telescope that has revealed a distant galaxy, every microscope that has ex
 
 It's hard to overstate what lens grinding made possible. Before precision optics, the universe beyond unaided human vision was simply invisible. We didn't know bacteria existed. We didn't know Jupiter had moons. We didn't know our own blood was full of tiny cells.
 
-The invention of eyeglasses in 13th-century Italy—likely in Florence or Venice around 1286—was the first major application of ground lenses. Early spectacles used convex lenses to help farsighted readers, typically monks and scholars. The ability to continue reading and writing past age 40 had enormous implications for scholarship and administration. One historian estimated that eyeglasses effectively doubled the productive working life of literate Europeans.
+The [invention](/invention) of eyeglasses in 13th-century Italy—likely in Florence or Venice around 1286—was the first major application of ground lenses. Early spectacles used convex lenses to help farsighted readers, typically monks and scholars. The ability to continue reading and writing past age 40 had enormous implications for scholarship and administration. One historian estimated that eyeglasses effectively doubled the productive working life of literate Europeans.
 
 The telescope appeared around 1608, when Dutch spectacle maker Hans Lippershey (and possibly others independently) combined lenses to magnify distant objects. Galileo Galilei built his own improved version in 1609 and promptly discovered the moons of Jupiter, the phases of Venus, craters on the Moon, and countless stars invisible to the naked eye. Within a few decades, the geocentric model of the universe collapsed, and [astronomy](/astronomy) was transformed forever.
 
@@ -51,7 +51,7 @@ The microscope emerged around the same time. Antonie van Leeuwenhoek, a Dutch dr
 
 All of these world-changing discoveries rested on one skill: the ability to shape glass with sufficient precision.
 
-## The Physics of Lenses
+## The [Physics](/physics) of Lenses
 
 Understanding lens grinding requires some basic optics—don't worry, I'll keep it practical.
 
@@ -125,7 +125,7 @@ Spinoza likely died partly from his work—inhaling glass dust over years contri
 
 ### Joseph von Fraunhofer (1787-1826)
 
-Fraunhofer transformed lens making from craft to science. An orphan who survived a building collapse at age 11 (an event that brought him to the attention of a patron who funded his education), Fraunhofer developed new glass-making techniques that produced material of unprecedented optical quality. He invented the spectroscope and discovered the dark absorption lines in the solar spectrum that still bear his name.
+Fraunhofer transformed lens making from craft to science. An orphan who survived a building collapse at age 11 (an event that brought him to the attention of a patron who funded his [education](/education)), Fraunhofer developed new glass-making techniques that produced material of unprecedented optical quality. He invented the spectroscope and discovered the dark absorption lines in the solar spectrum that still bear his name.
 
 His achromatic telescope lenses were so superior to anything else available that they remained unmatched for decades after his death. The Dorpat refractor, with a Fraunhofer objective of 24 centimeters, was the world's finest telescope for over 20 years.
 
@@ -151,7 +151,7 @@ MRF can figure a surface from lambda/4 to lambda/20 in a single pass—work that
 
 ### Ion Beam Figuring
 
-For the most demanding applications—space telescopes, semiconductor lithography optics, gravitational wave detectors—ion beam figuring removes material atom by atom. A focused beam of argon ions sputters material from the optical surface with nanometer precision, guided by interferometric measurements.
+For the most demanding applications—space telescopes, semiconductor [lithography](/lithography) optics, gravitational wave detectors—ion beam figuring removes material atom by atom. A focused beam of argon ions sputters material from the optical surface with nanometer precision, guided by interferometric measurements.
 
 The mirrors for the James Webb Space Telescope's 18 primary mirror segments were figured using a combination of CNC grinding, polishing, and ion beam figuring. Each segment needed to be accurate to about 20 nanometers—roughly 1/10,000th the thickness of a human hair.
 
@@ -159,11 +159,11 @@ The mirrors for the James Webb Space Telescope's 18 primary mirror segments were
 
 Precision optics are everywhere, even if you don't notice them.
 
-**Smartphone cameras** contain multiple aspherical lens elements made from precision-molded glass or plastic. The camera module in a modern smartphone is an engineering marvel—multiple optical elements, each ground or molded to sub-micron precision, packed into a few cubic centimeters.
+**Smartphone cameras** contain multiple aspherical lens elements made from precision-molded glass or plastic. The camera module in a modern smartphone is an [engineering](/engineering) marvel—multiple optical elements, each ground or molded to sub-micron precision, packed into a few cubic centimeters.
 
 **Eyeglasses and contact lenses** are the most common precision optics in the world. About 75% of American adults use vision correction. Modern progressive lenses (no-line bifocals) have smoothly varying curvature across the lens surface—a computational and manufacturing challenge that would have been impossible a few decades ago.
 
-**Medical imaging** relies on precision optics in endoscopes, surgical microscopes, ophthalmoscopes, and imaging systems. The lenses in a modern surgical microscope provide magnification, illumination, and stereoscopic depth perception that enable surgeries on structures smaller than a millimeter.
+**[Medical imaging](/medical-imaging)** relies on precision optics in endoscopes, surgical microscopes, ophthalmoscopes, and imaging systems. The lenses in a modern surgical microscope provide magnification, illumination, and stereoscopic depth perception that enable surgeries on structures smaller than a millimeter.
 
 **Semiconductor lithography** uses the most precise optics ever made. The lenses in an extreme ultraviolet (EUV) lithography system—used to manufacture the most advanced computer chips—must be accurate to fractions of a nanometer. These are arguably the most precise manufactured objects in human history.
 
@@ -173,7 +173,7 @@ Precision optics are everywhere, even if you don't notice them.
 
 One of the remarkable things about lens grinding—particularly telescope mirror making—is that amateurs can produce optics rivaling professional quality. The physics of spherical grinding (the self-correcting tendency toward a sphere) means that patience and care matter more than expensive equipment.
 
-John Dobson, who popularized large amateur telescopes with his simple "Dobsonian" mount design, advocated grinding your own mirrors as the most satisfying way to enter [astronomy](/astronomy). The Stellafane convention in Vermont, running since 1926, brings together amateur telescope makers who compete to produce the finest optics.
+John Dobson, who popularized large amateur telescopes with his simple "Dobsonian" mount design, advocated grinding your own mirrors as the most satisfying way to enter [astronomy](/astronomy). The Stellafane convention in Vermont, [running](/running) since 1926, brings together amateur telescope makers who compete to produce the finest optics.
 
 The community is remarkably generous with knowledge. Detailed instructions for grinding a telescope mirror are freely available online and in classic books like Jean Texereau's *How to Make a Telescope* (1957). Local astronomy clubs often have mirror-grinding workshops with shared equipment.
 

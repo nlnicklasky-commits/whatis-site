@@ -5,7 +5,7 @@ description: "Editing is the process of refining written or visual content for c
 category: arts-amp-culture
 tags: ["editing", "writing", "publishing", "proofreading", "copyediting", "content creation"]
 heroImage: "/images/articles/editing.webp"
-heroAlt: "A manuscript page covered with red editing marks and margin notes on a desk"
+heroAlt: "Editorial photograph representing the concept of editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Editing?
 
-Editing is the process of reviewing and revising content — written text, film footage, audio recordings, or digital media — to improve its quality, clarity, accuracy, and effectiveness. In publishing, editing transforms a rough manuscript into a finished work. In film, editing assembles raw footage into a coherent story. In both cases, the editor serves as the critical intelligence between creator and audience, making sure the final product communicates what it intends to communicate.
+Editing is the process of reviewing and revising content — written text, film footage, audio recordings, or digital media — to improve its quality, clarity, accuracy, and effectiveness. In [publishing](/publishing), editing transforms a rough manuscript into a finished work. In film, editing assembles raw footage into a coherent story. In both cases, the editor serves as the critical intelligence between creator and audience, making sure the final product communicates what it intends to communicate.
 
 ## Types of Text Editing
 
@@ -39,9 +39,9 @@ Not all editing is the same, and confusing the types leads to frustration for bo
 
 **Developmental editing** (also called structural or substantive editing) addresses the big picture — organization, argument, pacing, character development, logical flow, and whether the piece actually works as a whole. A developmental editor might say: "Chapter 3 should come before Chapter 2," or "This argument has a logical gap," or "Your protagonist disappears for 80 pages." This is the most expensive and most valuable type of editing, and it happens first.
 
-**Line editing** works at the sentence and paragraph level — improving clarity, eliminating wordiness, strengthening transitions, varying sentence structure, and ensuring the voice is consistent. A line editor doesn't just fix errors; they make good [writing](/creative-writing) better. This is where prose goes from functional to polished.
+**Line editing** works at the sentence and paragraph level — improving clarity, eliminating wordiness, strengthening transitions, varying sentence structure, and ensuring the voice is consistent. A line editor doesn't just fix errors; they make good [writing](/creative-writing) better. This is where [prose](/prose) goes from functional to polished.
 
-**Copyediting** enforces consistency and correctness — grammar, spelling, punctuation, fact-checking, style guide compliance (AP, Chicago, APA), and internal consistency (did the character's name change spelling on page 47?). Copyeditors are the last line of defense against errors that embarrass publishers and confuse readers.
+**Copyediting** enforces consistency and correctness — [grammar](/grammar), spelling, punctuation, fact-checking, style guide compliance (AP, Chicago, APA), and internal consistency (did the character's name change spelling on page 47?). Copyeditors are the last line of defense against errors that embarrass publishers and confuse readers.
 
 **Proofreading** catches what slipped through everything else — typos, formatting inconsistencies, missing page numbers, widow/orphan lines, and the kinds of errors that spell-check doesn't catch ("their" vs. "there"). It's the final quality check before publication.
 
@@ -55,13 +55,13 @@ Good editors share certain cognitive traits that are worth understanding whether
 
 **Ego detachment.** An editor who rewrites passages to sound like themselves rather than the author is a bad editor. The goal is to make the author sound more like the best version of themselves — clearer, sharper, more compelling — while preserving their voice.
 
-**Pattern recognition.** Experienced editors spot recurring problems quickly — an author who uses passive voice habitually, a filmmaker who over-relies on close-ups, a podcaster who says "basically" every third sentence. Addressing patterns is more efficient than fixing individual instances.
+**[Pattern recognition](/pattern-recognition).** Experienced editors spot recurring problems quickly — an author who uses passive voice habitually, a filmmaker who over-relies on close-ups, a podcaster who says "basically" every third sentence. Addressing patterns is more efficient than fixing individual instances.
 
 **Knowing when to stop.** Over-editing strips personality from writing. Under-editing leaves problems that damage credibility. The judgment about how much to change — and what to leave alone — is the hardest part of editing. It improves only with experience.
 
-## Film and Video Editing
+## Film and [Video Editing](/video-editing)
 
-Film editing is often called the "invisible art" because good editing is felt but not noticed. Walter Murch, one of cinema's greatest editors (*Apocalypse Now*, *The English Patient*), wrote that the ideal cut is one the audience doesn't register — they simply feel a shift in emotion, rhythm, or attention.
+[Film editing](/film-editing) is often called the "invisible art" because good editing is felt but not noticed. Walter Murch, one of cinema's greatest editors (*Apocalypse Now*, *The English Patient*), wrote that the ideal cut is one the audience doesn't register — they simply feel a shift in emotion, rhythm, or attention.
 
 The basic unit is the cut — the transition from one shot to another. Where you cut, how long you hold a shot, and what shot follows determines pacing, emphasis, and emotional impact. Alfred Hitchcock demonstrated this brilliantly in the shower scene of *Psycho* (1960) — 70 cuts in 45 seconds, none showing the knife contacting the body, yet audiences "saw" the violence.
 
@@ -85,6 +85,6 @@ The limitation of self-editing is fundamental: you can't see your own blind spot
 
 The [publishing](/journalism) industry employs editors across books, magazines, newspapers, websites, and corporate communications. Entry typically starts with editorial assistant or associate roles ($35,000-$45,000) and progresses to editor, senior editor, and editorial director.
 
-Freelance editing offers flexibility but requires self-marketing and business management. The Editorial Freelancers Association provides rate guidelines: developmental editing runs $56-$70/hour, copyediting $36-$50/hour, and proofreading $31-$45/hour. Specialization (medical, legal, technical, academic) commands premium rates.
+Freelance editing offers flexibility but requires self-[marketing](/marketing) and business [management](/management). The Editorial Freelancers Association provides rate guidelines: developmental editing runs $56-$70/hour, copyediting $36-$50/hour, and proofreading $31-$45/hour. Specialization (medical, legal, technical, academic) commands premium rates.
 
 The profession is evolving. AI writing tools can catch grammar errors and suggest improvements, but they can't evaluate whether an argument works, whether a character feels real, or whether a joke lands. The mechanical aspects of editing are increasingly automated. The judgment aspects — which require human understanding of meaning, nuance, and audience — remain irreplaceable.

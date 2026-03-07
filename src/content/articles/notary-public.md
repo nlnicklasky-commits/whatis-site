@@ -5,7 +5,7 @@ description: "A notary public is a state-appointed official who witnesses signat
 category: everyday-concepts
 tags: ["notary public", "notarization", "legal documents", "witness", "fraud prevention", "public officer"]
 heroImage: "/images/articles/notary-public.webp"
-heroAlt: "A notary public stamping an official seal on a legal document"
+heroAlt: "Editorial photograph representing the concept of notary public"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Notary Public?
 
-A notary public is a person appointed by a state government to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
+A notary public is a person appointed by a [state government](/state-[government](/government)) to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
 
 ## Why Notarization Exists
 
@@ -88,7 +88,7 @@ The commission typically lasts four to ten years depending on the state. Renewal
 
 The biggest change in notary practice in decades is remote online notarization (RON). Instead of meeting in person, the signer connects with the notary via secure video conference. Identity is verified through knowledge-based authentication questions and credential analysis technology.
 
-Virginia was the first state to authorize RON in 2012. As of 2025, most states have passed RON legislation. The COVID-19 pandemic accelerated adoption dramatically — when people couldn't meet in person, remote notarization became essential for real estate closings, estate planning, and business transactions.
+Virginia was the first state to authorize RON in 2012. As of 2025, most states have passed RON legislation. The COVID-19 pandemic accelerated adoption dramatically — when people couldn't meet in person, remote notarization became essential for [real estate](/real-estate) closings, estate planning, and business transactions.
 
 RON platforms record the entire session on video, creating a more detailed record than traditional paper-based notarization. Critics argue that video verification is less reliable than in-person identification, but proponents counter that the recorded session actually provides better evidence if questions arise later.
 
@@ -100,6 +100,6 @@ RON platforms record the entire session on video, creating a more detailed recor
 
 **"Any document can be notarized."** A notary should refuse to notarize blank or incomplete documents, documents where the signer can't be identified, or documents where the signer appears to be under duress or lacking mental capacity.
 
-**"Notarization is the same everywhere."** In the U.S., notary authority is relatively limited. In civil law countries (much of Europe and Latin America), notaries are highly trained legal professionals — essentially specialized lawyers — with much broader authority to draft and authenticate legal documents.
+**"Notarization is the same everywhere."** In the U.S., notary authority is relatively limited. In [civil law](/civil-law) countries (much of Europe and Latin America), notaries are highly trained legal professionals — essentially specialized lawyers — with much broader authority to draft and authenticate legal documents.
 
 Notarization is one of those behind-the-scenes systems that keeps legal transactions honest. You might encounter it a handful of times in your life — buying a house, setting up a power of attorney, signing an affidavit — but when you need it, having an impartial witness who can confirm that you are who you say you are matters more than you'd expect.

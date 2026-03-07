@@ -5,7 +5,7 @@ description: "Sleep science studies why and how we sleep, covering sleep stages,
 category: health-amp-wellness
 tags: ["sleep", "neuroscience", "health", "circadian rhythm"]
 heroImage: "/images/articles/sleep-science.webp"
-heroAlt: "A brain scan visualization showing neural activity patterns during different sleep stages"
+heroAlt: "Editorial photograph representing the concept of sleep science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Sleep Science?
 
-Sleep science is the study of sleep — why we do it, what happens during it, and what goes wrong when we don't get enough. It draws on neuroscience, biology, psychology, and medicine to answer what turns out to be a surprisingly difficult question: why does every animal with a nervous system spend a significant portion of its life unconscious and vulnerable?
+Sleep science is the study of sleep — why we do it, what happens during it, and what goes wrong when we don't get enough. It draws on [neuroscience](/neuroscience), [biology](/biology), [psychology](/psychology), and medicine to answer what turns out to be a surprisingly difficult question: why does every animal with a nervous system spend a significant portion of its life unconscious and vulnerable?
 
 We still don't have a complete answer. But what researchers have uncovered in the past few decades is extraordinary — and a little unsettling if you're someone who routinely shortchanges your sleep.
 
@@ -53,7 +53,7 @@ Several theories compete, and most researchers now think sleep probably serves m
 
 **Energy conservation theory** argues that sleep evolved to reduce energy expenditure during periods when activity wasn't productive (like nighttime for visual hunters). This theory has some appeal from an evolutionary perspective but doesn't explain why the brain remains highly active during certain sleep stages.
 
-## The Architecture of a Night's Sleep
+## The [Architecture](/architecture) of a Night's Sleep
 
 Sleep isn't a single uniform state. It's a structured cycle of distinct stages, each with different brain activity patterns, and your brain moves through them in a predictable sequence.
 
@@ -73,7 +73,7 @@ Deep sleep is concentrated in the first half of the night. As you age, you get l
 
 ### REM Sleep: The Weird Part
 
-Rapid Eye Movement sleep is genuinely strange. Your eyes dart around behind closed lids. Your brain becomes almost as electrically active as when you're awake — sometimes more so. Yet your voluntary muscles are temporarily paralyzed (a phenomenon called atonia), presumably to prevent you from acting out your dreams.
+Rapid Eye Movement sleep is genuinely strange. Your eyes dart around behind closed lids. Your brain becomes almost as electrically active as when you're awake — sometimes more so. Yet your voluntary muscles are temporarily paralyzed (a phenomenon called atonia), presumably to prevent you from [acting](/acting) out your dreams.
 
 Most vivid dreaming occurs during REM sleep. You cycle into REM roughly every 90 minutes, with each REM period getting longer as the night progresses. The first REM episode might last 10 minutes; the last, near morning, can exceed 60 minutes. Total REM accounts for about 20-25% of adult sleep.
 
@@ -85,7 +85,7 @@ Your sleep-wake cycle is governed by an internal clock called the circadian rhyt
 
 The master clock is a tiny cluster of about 20,000 neurons called the suprachiasmatic nucleus (SCN), located in the hypothalamus directly above where the optic nerves cross. It receives light information from specialized cells in your retinas — not the rods and cones you see with, but a separate set of photosensitive ganglion cells containing a pigment called melanopsin, which is most sensitive to blue light (around 480 nanometers wavelength).
 
-This is why blue light from screens at night is genuinely disruptive. It's not marketing hype. Blue light hitting melanopsin-containing cells signals "daytime" to your SCN, which suppresses melatonin production and shifts your internal clock later. A 2014 study published in *PNAS* found that reading on a light-emitting e-reader before bed delayed melatonin onset by about 1.5 hours compared to reading a printed book.
+This is why blue light from screens at night is genuinely disruptive. It's not [marketing](/marketing) hype. Blue light hitting melanopsin-containing cells signals "daytime" to your SCN, which suppresses melatonin production and shifts your internal clock later. A 2014 study published in *PNAS* found that reading on a light-emitting e-reader before bed delayed melatonin onset by about 1.5 hours compared to reading a printed book.
 
 ### The Two-Process Model
 

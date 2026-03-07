@@ -5,7 +5,7 @@ description: "Screenwriting is the craft of writing scripts for film and televis
 category: arts-amp-culture
 tags: ["screenwriting", "screenplay", "film", "television", "script", "storytelling"]
 heroImage: "/images/articles/screenwriting.webp"
-heroAlt: "A screenplay manuscript with scene headings and dialogue visible on white paper"
+heroAlt: "Editorial photograph representing the concept of screenwriting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Screenwriting?
 
-Screenwriting is the craft of writing scripts for film, television, and other visual media. A screenplay isn't a novel. It isn't a play. It's a blueprint — a set of instructions that tells directors, actors, cinematographers, and editors what to put on screen. Everything you see in a movie started as words on a page, written by someone who had to imagine visually while working in text.
+Screenwriting is the craft of [writing](/writing) scripts for film, television, and other visual media. A screenplay isn't a novel. It isn't a play. It's a blueprint — a set of instructions that tells directors, actors, cinematographers, and editors what to put on screen. Everything you see in a movie started as words on a page, written by someone who had to imagine visually while working in text.
 
-The screenplay communicates three things: what you see (action), what you hear (dialogue and sound), and where it happens (scene headings). That's it. No internal thoughts. No literary prose. No commentary on themes. Just what the audience would experience if they were watching.
+The screenplay communicates three things: what you see (action), what you hear (dialogue and sound), and where it happens (scene headings). That's it. No internal thoughts. No literary [prose](/prose). No commentary on themes. Just what the audience would experience if they were watching.
 
 ## The Format That Won't Change
 
-Screenplay format is rigid, and there's a reason for that. Every page equals approximately one minute of screen time. This isn't a coincidence — the format was designed so producers, directors, and scheduling departments can estimate runtime, budgeting, and shooting schedules from the script itself.
+Screenplay format is rigid, and there's a reason for that. Every page equals approximately one minute of screen time. This isn't a coincidence — the format was designed so producers, directors, and [scheduling](/scheduling) departments can estimate runtime, [budgeting](/budgeting), and shooting schedules from the script itself.
 
 A scene starts with a slug line: **INT. COFFEE SHOP - DAY** (interior, location, time). Then action lines describe what happens — in present tense, always. "Sarah walks to the counter. She studies the menu, glances at her phone." Then dialogue, centered on the page under the character's name.
 
@@ -63,7 +63,7 @@ Bad movie dialogue sounds like people talking in complete sentences about exactl
 
 Aaron Sorkin writes highly stylized dialogue — rapid, witty, rhythmic. Nobody actually talks like a Sorkin character, but it works because it's consistently stylized within its world. The Coen Brothers write dialogue that sounds hyper-realistic — halting, repetitive, full of verbal tics. Different approaches, both effective.
 
-The key principle is subtext. Characters rarely say exactly what they want. A scene where two ex-lovers argue about whose turn it is to pick up the kids is really about power, regret, and unresolved feelings. The surface conversation about logistics carries the emotional weight underneath.
+The key principle is subtext. Characters rarely say exactly what they want. A scene where two ex-lovers argue about whose turn it is to pick up the kids is really about power, regret, and unresolved feelings. The surface conversation about [logistics](/logistics) carries the emotional weight underneath.
 
 One practical test: cover the character names above each line of dialogue. If you can't tell who's speaking from the voice alone, your characters don't have distinct enough voices. Each person should sound like themselves — different vocabulary, different rhythms, different relationship to honesty.
 
@@ -81,11 +81,11 @@ The Writers Guild of America (WGA) represents screenwriters and negotiates minim
 
 ## Television vs. Film
 
-Television writing is a different discipline from feature screenwriting, though the skills overlap.
+[Television writing](/television-writing) is a different discipline from feature screenwriting, though the skills overlap.
 
 Film is a writer's medium in theory and a director's medium in practice. The screenwriter creates the story, but once the script is sold, the director takes over creative control. In TV, the writer has more ongoing power — the showrunner (head writer and executive producer) is often the most powerful creative force on a show.
 
-TV writers' rooms are collaborative environments where a staff of 6-12 writers break stories, outline episodes, and draft scripts together. The room active matters enormously — chemistry between writers can make or break a show. This is fundamentally different from the solitary nature of feature screenwriting.
+TV writers' rooms are collaborative environments where a staff of 6-12 writers break stories, outline episodes, and draft scripts together. The room active matters enormously — [chemistry](/chemistry) between writers can make or break a show. This is fundamentally different from the solitary nature of feature screenwriting.
 
 The rise of streaming has blurred the distinction. Limited series (8-10 episodes telling one story) are essentially long films written in episodic chunks. This format has attracted feature film writers to television and created a hybrid form that didn't exist twenty years ago.
 
@@ -95,4 +95,4 @@ Read scripts. Seriously — read them. Published screenplays of movies you've se
 
 Write constantly. Your first screenplay will probably be bad. Your fifth will be better. Your tenth might actually be good. Screenwriting is a craft, and craft improves with repetition. Set a target — even two pages a day produces a feature script in two months.
 
-And watch movies differently. Pause at the 30-minute mark and identify the Act One turning point. Notice when scenes start and end — good screenwriters enter scenes as late as possible and leave as early as possible. Pay attention to what characters don't say. The education is right there on your screen.
+And watch movies differently. Pause at the 30-minute mark and identify the Act One turning point. Notice when scenes start and end — good screenwriters enter scenes as late as possible and leave as early as possible. Pay attention to what characters don't say. The [education](/education) is right there on your screen.

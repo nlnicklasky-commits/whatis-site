@@ -5,7 +5,7 @@ description: "Steel production is the process of converting iron ore into steel 
 category: technology
 tags: ["manufacturing", "steel production", "metallurgy", "iron", "engineering", "materials science"]
 heroImage: "/images/articles/steel-production.webp"
-heroAlt: "Molten steel being poured from a ladle in a modern steelmaking facility"
+heroAlt: "Editorial photograph representing the concept of steel production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Steel Production?
 
-Steel production is the industrial process of converting iron ore into steel — an alloy of iron and carbon that is the most widely used metal in the world. Roughly 1.9 billion metric tons of steel are produced globally each year, making it the backbone of construction, transportation, manufacturing, and infrastructure.
+Steel production is the industrial process of converting iron ore into steel — an alloy of iron and carbon that is the most widely used metal in the world. Roughly 1.9 billion metric tons of steel are produced globally each year, making it the backbone of [construction](/construction), transportation, manufacturing, and infrastructure.
 
 ## Why Steel Matters
 
@@ -97,7 +97,7 @@ The speed of this process is remarkable. From charging the furnace to tapping li
 
 The EAF takes a completely different approach. Instead of starting with iron ore, it melts steel scrap (and sometimes direct-reduced iron) using electric arcs generated between graphite electrodes and the metal charge. The arcs reach temperatures of about 3,500°C — hot enough to melt anything.
 
-About 30% of global steel production uses EAFs, and the percentage is growing. In the United States, EAFs produce about 70% of domestic steel, largely because America has abundant scrap supply and relatively cheap electricity.
+About 30% of global steel production uses EAFs, and the percentage is growing. In the United States, EAFs produce about 70% of domestic steel, largely because America has abundant scrap supply and relatively cheap [electricity](/electricity).
 
 EAFs have several advantages over blast furnaces. They can use 100% recycled steel, reducing raw material needs. They're more flexible — they can be started and stopped in hours, while a blast furnace runs continuously for years. They produce less CO₂, roughly 0.4 tons per ton of steel versus 1.8-2.0 tons for the blast furnace route. And they require much lower capital investment.
 
@@ -127,9 +127,9 @@ Solid steel from the caster is shaped into final products through rolling — pa
 
 **Hot rolling** happens above the steel's recrystallization temperature (typically 900-1,200°C). The steel is soft and can be deformed easily with less force. Hot-rolled products include structural beams, railroad rails, plate steel, and hot-rolled coils.
 
-**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-engineering) applications where surface quality matters.
+**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-[engineering](/engineering)) applications where surface quality matters.
 
-Other forming processes include forging (shaping with compressive force), extrusion (pushing through a die), drawing (pulling through a die to make wire), and tube making (welding a rolled strip or seamlessly piercing a solid billet).
+Other forming processes include forging (shaping with compressive force), extrusion (pushing through a die), [drawing](/drawing) (pulling through a die to make wire), and tube making (welding a rolled strip or seamlessly piercing a solid billet).
 
 ## Types of Steel
 
@@ -194,4 +194,4 @@ The modern steel industry began with Henry Bessemer's converter in 1856, which c
 
 The basic oxygen furnace, developed in the 1950s, combined the speed of the Bessemer process with the quality control of the open hearth. It replaced both within a few decades. Meanwhile, the electric arc furnace — originally a niche process for specialty steels — grew to handle 30% of global production as scrap supplies increased and electricity became cheaper.
 
-Today's steelmaking is a high-tech operation. Computer-controlled processes, real-time chemical analysis, and [data analysis](/data-analysis) optimization have pushed yields, quality, and efficiency to levels that earlier generations couldn't have imagined. Yet the fundamental chemistry — removing oxygen from iron ore and controlling carbon content — remains essentially what it's been for millennia. What's changed is the scale, speed, precision, and increasingly, the urgency to do it without carbon.
+Today's steelmaking is a high-tech operation. Computer-controlled processes, real-time chemical analysis, and [data analysis](/data-analysis) [optimization](/optimization) have pushed yields, quality, and efficiency to levels that earlier generations couldn't have imagined. Yet the fundamental chemistry — removing oxygen from iron ore and controlling carbon content — remains essentially what it's been for millennia. What's changed is the scale, speed, precision, and increasingly, the urgency to do it without carbon.

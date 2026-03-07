@@ -5,7 +5,7 @@ description: "Wilderness first aid is emergency medical care given in remote set
 category: health-amp-wellness
 tags: ["outdoor activities", "wilderness first aid", "emergency care", "hiking"]
 heroImage: "/images/articles/wilderness-first-aid.webp"
-heroAlt: "A hiker treating an injured companion on a remote mountain trail"
+heroAlt: "Editorial photograph representing the concept of wilderness first aid"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ That changes the math completely. In an urban setting, your job is mostly to kee
 
 Urban first aid protocols work beautifully when you're 10 minutes from an emergency room. They fall apart when you're three days into a backcountry hike.
 
-Consider a simple example: a sprained ankle. In the city, you'd follow RICE (rest, ice, compression, elevation), take some ibuprofen, and maybe visit urgent care. On a trail 15 miles from the nearest road? You need to assess whether that ankle is sprained or fractured, decide whether the person can walk out (and how to help them), determine if you need to send for rescue, and manage pain with whatever's in your first aid kit — all while accounting for weather, daylight, terrain, and group dynamics.
+Consider a simple example: a sprained ankle. In the city, you'd follow RICE (rest, ice, compression, elevation), take some ibuprofen, and maybe visit urgent care. On a trail 15 miles from the nearest road? You need to assess whether that ankle is sprained or fractured, decide whether the person can walk out (and how to help them), determine if you need to send for rescue, and manage pain with whatever's in your first aid kit — all while [accounting](/accounting) for weather, daylight, terrain, and group dynamics.
 
 Or consider a more serious scenario: a deep laceration. Standard first aid says apply pressure, bandage it, go to the ER for stitches. In the wilderness, you need to irrigate the wound thoroughly (infection risk is much higher when definitive care is days away), close it with wound closure strips or improvised sutures, monitor for infection over the next 24-72 hours, and potentially administer antibiotics if you carry them and have the training.
 
@@ -73,7 +73,7 @@ This is your rapid check for life-threatening conditions:
 
 ### Secondary Assessment
 
-Once life threats are managed, you do a head-to-toe physical exam. You're looking for injuries the patient may not have noticed (adrenaline masks pain remarkably well), assessing vital signs, and gathering a medical history. The SAMPLE mnemonic covers history:
+Once life threats are managed, you do a head-to-toe physical exam. You're looking for injuries the patient may not have noticed (adrenaline masks pain remarkably well), assessing vital signs, and gathering a [medical history](/medical-history). The SAMPLE mnemonic covers history:
 
 - **S**igns and symptoms
 - **A**llergies
@@ -86,7 +86,7 @@ Once life threats are managed, you do a head-to-toe physical exam. You're lookin
 
 ### Musculoskeletal Injuries
 
-Sprains, strains, and fractures dominate wilderness injury statistics. Ankle injuries alone account for a huge proportion of backcountry evacuations. The assessment challenge is distinguishing between a sprain and a fracture without an X-ray.
+Sprains, strains, and fractures dominate wilderness injury [statistics](/statistics). Ankle injuries alone account for a huge proportion of backcountry evacuations. The assessment challenge is distinguishing between a sprain and a fracture without an X-ray.
 
 Wilderness protocols use functional assessment: if a person can bear weight and walk, it's likely a sprain (or a stable fracture that can be walked on). If they can't bear weight, treat it as a fracture. Splint using available materials — SAM splints, trekking poles, sleeping pads, sticks wrapped in clothing. The goal is to immobilize the joint above and below the injury.
 
@@ -108,13 +108,13 @@ The key distinction in the field: confusion or altered mental status means heats
 
 ### Wound Management
 
-In the wilderness, infection is the primary concern with wounds — more so than in urban settings, because definitive care is delayed. The protocol is aggressive irrigation: flush the wound with at least a liter of clean water, using pressure (a syringe or a plastic bag with a pinhole). This mechanically removes bacteria and debris.
+In the wilderness, infection is the primary concern with wounds — more so than in urban settings, because definitive care is delayed. The protocol is aggressive [irrigation](/irrigation): flush the wound with at least a liter of clean water, using pressure (a syringe or a plastic bag with a pinhole). This mechanically removes bacteria and debris.
 
 After irrigation, close the wound with wound closure strips (Steri-Strips) or, if trained, improvised sutures. Apply antibiotic ointment and bandage. Then monitor for signs of infection over the following days: increasing redness, warmth, swelling, red streaks extending from the wound, or pus.
 
 ### Allergic Reactions and Anaphylaxis
 
-Insect stings, food allergies, and medication reactions can all cause anaphylaxis — a systemic allergic reaction that can close the airway and crash blood pressure within minutes. Epinephrine (via an EpiPen or similar auto-injector) is the treatment, and having one in your wilderness first aid kit is non-negotiable if anyone in your group has known severe allergies.
+Insect stings, food [allergies](/allergies), and medication reactions can all cause anaphylaxis — a systemic allergic reaction that can close the airway and crash blood pressure within minutes. Epinephrine (via an EpiPen or similar auto-injector) is the treatment, and having one in your wilderness first aid kit is non-negotiable if anyone in your group has known severe allergies.
 
 Even without known allergies, anaphylaxis can occur with a first-ever exposure. Wilderness first aid courses teach recognition (throat tightness, widespread hives, difficulty breathing, dizziness) and the proper use of epinephrine.
 
@@ -135,7 +135,7 @@ The two main certification levels are:
 
 **Wilderness First Aid (WFA):** A 16-hour course covering basic wilderness-specific skills. This is appropriate for recreational hikers, casual backpackers, and anyone who wants baseline competency. Major providers include NOLS Wilderness Medicine, the American Red Cross, SOLO, and the Wilderness Medicine Institute.
 
-**Wilderness First Responder (WFR):** A 70-80 hour course (typically 8-10 days) that's the industry standard for outdoor professionals. WFR training goes deep into patient assessment, long-term care, pharmacology, and evacuation. If you guide trips, lead groups, or spend significant time in remote areas, this is the standard you want.
+**Wilderness First Responder (WFR):** A 70-80 hour course (typically 8-10 days) that's the industry standard for outdoor professionals. WFR training goes deep into patient assessment, long-term care, [pharmacology](/pharmacology), and evacuation. If you guide trips, lead groups, or spend significant time in remote areas, this is the standard you want.
 
 Both certifications require renewal every two years, typically through a refresher course.
 

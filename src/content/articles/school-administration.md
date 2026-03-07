@@ -5,7 +5,7 @@ description: "School administration covers the leadership, management, and opera
 category: education
 tags: ["school management", "education", "school leadership", "principal", "superintendent", "educational administration"]
 heroImage: "/images/articles/school-administration.webp"
-heroAlt: "A school principal reviewing documents at a desk with a view of a school hallway"
+heroAlt: "Editorial photograph representing the concept of school administration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is School Administration?
 
-School administration is the organizational leadership and management of educational institutions — everything from setting academic policies and managing budgets to hiring teachers, ensuring student safety, and keeping the building's heating system from breaking down in January. It's the machinery that keeps a school functioning so that teaching and learning can actually happen.
+School administration is the organizational [leadership](/leadership) and [management](/management) of educational institutions — everything from setting academic policies and managing budgets to hiring teachers, ensuring student safety, and keeping the building's heating system from breaking down in January. It's the machinery that keeps a school functioning so that [teaching](/teaching) and learning can actually happen.
 
-If you've ever wondered who decides the school schedule, handles disciplinary issues, negotiates with the teachers' union, writes the budget, and also somehow shows up to every basketball game — that's school administration.
+If you've ever wondered who decides the school schedule, handles disciplinary issues, negotiates with the teachers' union, writes the budget, and also somehow shows up to every [basketball](/basketball) game — that's school administration.
 
 ## What Administrators Actually Do All Day
 
@@ -45,9 +45,9 @@ The core responsibilities break down into several areas.
 
 **Personnel management** takes enormous time. Hiring, evaluating, mentoring, and sometimes firing teachers. Managing support staff — custodians, cafeteria workers, bus drivers, administrative assistants. Handling conflicts. Processing paperwork. A medium-sized elementary school might have 40-60 employees, all reporting ultimately to the principal.
 
-**Budget and finance** is where idealism meets reality. Public school administrators work with limited budgets funded primarily through local property taxes and state allocations. A principal might have $50,000 in discretionary spending for a school of 500 students. That's $100 per student for everything beyond salaries and fixed costs. Deciding whether to buy new science textbooks or fix the gymnasium floor — that's a real trade-off administrators face.
+**Budget and [finance](/finance)** is where idealism meets reality. Public school administrators work with limited budgets funded primarily through local property taxes and state allocations. A principal might have $50,000 in discretionary spending for a school of 500 students. That's $100 per student for everything beyond salaries and fixed costs. Deciding whether to buy new science textbooks or fix the gymnasium floor — that's a real [trade](/trade)-off administrators face.
 
-**Student services** includes discipline, counseling, special education coordination, extracurricular activities, and maintaining a safe environment. Since about 2000, safety concerns have dramatically expanded this role. Active shooter drills, mental health support, anti-bullying programs, and pandemic response plans are now standard responsibilities.
+**Student services** includes discipline, counseling, [special education](/special-[education](/education)) coordination, extracurricular activities, and maintaining a safe environment. Since about 2000, safety concerns have dramatically expanded this role. Active shooter drills, [mental health](/mental-health) support, anti-bullying programs, and pandemic response plans are now standard responsibilities.
 
 **Community relations** means working with parents, local businesses, community organizations, and media. A school doesn't exist in isolation — it's embedded in a community whose support (and property tax dollars) the school depends on.
 
@@ -61,7 +61,7 @@ School administration has a clear chain of command, though the specifics vary by
 
 **Principals** run individual schools. They're the most visible administrators and arguably the most important — research consistently shows that principal quality is the second most important school-level factor affecting student achievement, after teacher quality. A 2021 study from the Wallace Foundation found that replacing a below-average principal with an above-average one could improve student achievement by 2-7 months of learning per year.
 
-**Assistant and vice principals** handle specific areas — often discipline, scheduling, or a particular grade level. In larger schools, these roles are essential for distributing the workload.
+**Assistant and vice principals** handle specific areas — often discipline, [scheduling](/scheduling), or a particular grade level. In larger schools, these roles are essential for distributing the workload.
 
 ## The Tensions Built Into the Job
 
@@ -81,7 +81,7 @@ School administration in 2025 looks nothing like it did in 1975. Several forces 
 
 **Data-driven decision making** now dominates. Administrators are expected to analyze test scores, attendance patterns, discipline data, and demographic trends to guide decisions. Many districts use data dashboards that track dozens of metrics in real time. This brings precision but also risks reducing complex human situations to numbers.
 
-**Technology management** is now a major responsibility. One-to-one device programs, learning management systems, cybersecurity, internet filtering, and remote learning infrastructure all fall on administrators' plates. Most received no training for this in their degree programs.
+**[Technology management](/technology-management)** is now a major responsibility. One-to-one device programs, learning management systems, cybersecurity, internet filtering, and remote learning infrastructure all fall on administrators' plates. Most received no training for this in their degree programs.
 
 **Mental health** has moved to the center of school administration. Student anxiety and depression rates have risen sharply — the CDC reported in 2023 that 42% of high school students felt persistently sad or hopeless. Administrators now coordinate counseling services, crisis intervention teams, and social-emotional learning programs that simply didn't exist a generation ago.
 

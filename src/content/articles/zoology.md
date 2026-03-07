@@ -5,7 +5,7 @@ description: "Zoology is the branch of biology that studies animals, their behav
 category: science
 tags: ["biology", "animals", "ecology", "wildlife", "evolution"]
 heroImage: "/images/articles/zoology.webp"
-heroAlt: "Diverse group of animals including a lion, eagle, and sea turtle representing the breadth of zoological study"
+heroAlt: "Editorial photograph representing the concept of zoology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

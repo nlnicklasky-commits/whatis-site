@@ -5,7 +5,7 @@ description: "Radar uses electromagnetic waves to detect objects, measure speed,
 category: technology
 tags: ["radar", "electromagnetic waves", "detection", "aviation", "military", "weather", "technology"]
 heroImage: "/images/articles/radar-technology-hero.webp"
-heroAlt: "Modern radar antenna dish rotating against a blue sky at an air traffic control facility"
+heroAlt: "Editorial photograph representing the concept of radar technology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Radar -- Radio Detection And Ranging -- is a technology that uses electromagneti
 
 Radar is one of those technologies that operates so quietly in the background that most people never think about it. But it's everywhere. Air traffic control tracking every commercial flight. Weather services mapping approaching storms. Police measuring your speed on the highway. Ships navigating through fog. Military systems guarding airspace. Your car's adaptive cruise control maintaining safe following distance. Even the moisture sensor in your microwave oven uses a tiny radar.
 
-The technology was born in the chaos of World War II, and it arguably did more to decide the outcome than any other single invention -- including the atomic bomb. Understanding radar means understanding a technology that shapes your daily life in ways you probably don't realize.
+The technology was born in the chaos of [World War II](/world-war-ii), and it arguably did more to decide the outcome than any other single invention -- including the atomic bomb. Understanding radar means understanding a technology that shapes your daily life in ways you probably don't realize.
 
 ## The Basic Principle: Echo Location
 
@@ -177,7 +177,7 @@ Radar's advantage over cameras: it works in rain, fog, darkness, and glare -- co
 
 ### Marine Radar
 
-Ships have carried radar since WWII. Marine radar detects other vessels, land, buoys, and obstacles in all weather conditions. It's the primary collision avoidance tool in maritime navigation.
+Ships have carried radar since WWII. Marine radar detects other vessels, land, buoys, and obstacles in all weather conditions. It's the primary collision avoidance tool in maritime [navigation](/navigation).
 
 Modern marine radar uses FMCW technology for higher resolution and lower power consumption compared to traditional magnetron-based systems.
 
@@ -254,7 +254,7 @@ Stealth aircraft and ships are designed to minimize radar reflections through sh
 
 Several trends are shaping radar's future:
 
-**Cognitive and adaptive radar** systems use artificial intelligence to adapt their waveforms, processing, and behavior in real time based on the environment. Instead of using a fixed waveform, cognitive radar optimizes its signals for each specific situation -- like having a radar that thinks.
+**Cognitive and adaptive radar** systems use [artificial intelligence](/artificial-intelligence) to adapt their waveforms, processing, and behavior in real time based on the environment. Instead of using a fixed waveform, cognitive radar optimizes its signals for each specific situation -- like having a radar that thinks.
 
 **Digital beamforming** fully digitizes the radar signal at each antenna element, enabling unprecedented flexibility in beam shaping, interference rejection, and simultaneous multi-function operation.
 
@@ -268,6 +268,6 @@ Several trends are shaping radar's future:
 
 Radar is the technology of using electromagnetic waves to detect, locate, and characterize objects at a distance. Born in the urgency of World War II, it has evolved from crude early-warning systems into a family of technologies that permeates modern life -- from air traffic control and weather forecasting to automotive safety and space surveillance.
 
-The core principle is simple: transmit a signal, receive its echo, and analyze the result. But the engineering required to do this reliably, precisely, and at enormous ranges represents some of the most sophisticated [electronics](/electronics) and signal processing ever developed.
+The core principle is simple: transmit a signal, receive its echo, and analyze the result. But the [engineering](/engineering) required to do this reliably, precisely, and at enormous ranges represents some of the most sophisticated [electronics](/electronics) and [signal processing](/signal-processing) ever developed.
 
-Radar's future is being shaped by digital technology, artificial intelligence, and quantum physics. But its fundamental value remains what it was in 1940: the ability to see what the human eye cannot -- through darkness, clouds, fog, and across distances that would otherwise leave us blind. That capability has saved countless lives and will continue to shape how we work through, defend, and understand our world.
+Radar's future is being shaped by digital technology, artificial intelligence, and [quantum physics](/quantum-physics). But its fundamental value remains what it was in 1940: the ability to see what the human eye cannot -- through darkness, clouds, fog, and across distances that would otherwise leave us blind. That capability has saved countless lives and will continue to shape how we work through, defend, and understand our world.

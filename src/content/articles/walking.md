@@ -5,7 +5,7 @@ description: "Walking is the most basic human exercise — free, low-impact, and
 category: health-amp-wellness
 tags: ["walking", "exercise", "fitness", "health", "physical activity"]
 heroImage: "/images/articles/walking.webp"
-heroAlt: "A person walking along a tree-lined path on a sunny morning"
+heroAlt: "Editorial photograph representing the concept of walking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Walking?
 
-Walking is the act of moving on foot at a natural pace — one foot in front of the other, with at least one foot on the ground at all times (that's technically what distinguishes it from running). It's the most fundamental form of human locomotion, the exercise your body was literally designed for, and arguably the single most underrated health intervention available.
+Walking is the act of moving on foot at a natural pace — one foot in front of the other, with at least one foot on the ground at all times (that's technically what distinguishes it from [running](/running)). It's the most fundamental form of human locomotion, the exercise your body was literally designed for, and arguably the single most underrated health intervention available.
 
 It's also free. No gym membership, no equipment, no instructor. Just shoes — and honestly, humans walked barefoot for most of history, so even those are optional.
 
@@ -55,7 +55,7 @@ The research on walking's health benefits is extensive, consistent, and frankly 
 
 ### Heart and Circulatory System
 
-Walking at a brisk pace (3-4 mph) qualifies as moderate-intensity aerobic exercise. Done regularly, it reduces resting heart rate, lowers blood pressure, and improves cholesterol profiles — specifically raising HDL ("good") cholesterol. A large-scale 2013 study published in *Arteriosclerosis, Thrombosis, and Vascular Biology* found that walking reduced the risk of heart disease by 9.3% — comparable to running's 4.5% reduction when matched for energy expenditure.
+Walking at a brisk pace (3-4 mph) qualifies as moderate-intensity aerobic exercise. Done regularly, it reduces resting heart rate, lowers blood pressure, and improves cholesterol profiles — specifically raising HDL ("good") cholesterol. A large-scale 2013 study published in *Arteriosclerosis, Thrombosis, and Vascular [Biology](/biology)* found that walking reduced the risk of heart disease by 9.3% — comparable to running's 4.5% reduction when matched for energy expenditure.
 
 The American Heart Association recommends 150 minutes of moderate-intensity activity per week. That's 30 minutes of brisk walking, five days a week. Hitting that target reduces cardiovascular disease risk by 30-40%.
 
@@ -67,7 +67,7 @@ A daily 30-minute walk burns about 150 calories. Over a year, assuming no change
 
 ### Mental Health
 
-This is where walking might matter most. A 2019 study in *JAMA Psychiatry* involving nearly 34,000 adults found that 15 minutes of running (or an hour of walking) per day was associated with a 26% lower risk of major depression. The effect held even after adjusting for other factors.
+This is where walking might matter most. A 2019 study in *JAMA [Psychiatry](/psychiatry)* involving nearly 34,000 adults found that 15 minutes of running (or an hour of walking) per day was associated with a 26% lower risk of major depression. The effect held even after adjusting for other factors.
 
 Walking outdoors compounds the benefit. Exposure to green spaces reduces cortisol levels (the stress hormone), improves mood, and enhances attention. A Stanford study found that a 90-minute nature walk reduced activity in the subgenual prefrontal cortex — a brain region associated with rumination and negative thought patterns — compared to walking along a highway.
 
@@ -75,9 +75,9 @@ Walking also improves cognitive function. A 2011 study found that older adults w
 
 ### Joint Health
 
-There's a persistent myth that walking wears out your knees. The evidence says the opposite. Moderate walking strengthens the muscles around your joints, improves cartilage nutrition (cartilage gets nutrients from the compression and release of movement, not from blood supply), and reduces the risk of osteoarthritis.
+There's a persistent myth that walking wears out your knees. The evidence says the opposite. Moderate walking strengthens the muscles around your joints, improves cartilage [nutrition](/nutrition) (cartilage gets nutrients from the compression and release of movement, not from blood supply), and reduces the risk of osteoarthritis.
 
-A 2019 study in the *Journal of Orthopaedic & Sports Physical Therapy* found that recreational walkers had lower rates of knee and hip arthritis than sedentary people. The caveat: if you already have joint problems, high-impact activities can aggravate them, which is exactly why walking — a low-impact exercise — is often the recommended activity.
+A 2019 study in the *Journal of Orthopaedic & Sports [Physical Therapy](/physical-therapy)* found that recreational walkers had lower rates of knee and hip arthritis than sedentary people. The caveat: if you already have joint problems, high-impact activities can aggravate them, which is exactly why walking — a low-impact exercise — is often the recommended activity.
 
 ### Blood Sugar Control
 
@@ -85,7 +85,7 @@ Walking after meals lowers blood sugar spikes. A 2016 study in *Diabetologia* fo
 
 ## The 10,000 Steps Myth
 
-Here's a fun fact: the 10,000-step target that dominates fitness trackers worldwide has no medical origin. It came from a 1965 Japanese marketing campaign for a pedometer called the Manpo-kei, which translates to "10,000 steps meter." The number was chosen because it sounded good, not because of any health research.
+Here's a fun fact: the 10,000-step target that dominates [fitness](/fitness) trackers worldwide has no medical origin. It came from a 1965 Japanese [marketing](/marketing) campaign for a pedometer called the Manpo-kei, which translates to "10,000 steps meter." The number was chosen because it sounded good, not because of any health research.
 
 Actual research paints a more nuanced picture. A 2019 study in *JAMA Internal Medicine* found that among older women, significant mortality benefits began at just 4,400 steps per day. Benefits continued to increase up to about 7,500 steps, then leveled off. For younger adults, research suggests benefits continue up to about 8,000-10,000 steps but show diminishing returns beyond that.
 

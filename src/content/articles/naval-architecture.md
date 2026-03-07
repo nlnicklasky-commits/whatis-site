@@ -5,7 +5,7 @@ description: "Naval architecture is the engineering of ships and marine vessels 
 category: technology
 tags: ["naval architecture", "marine engineering", "ship design", "vessel design", "hydrodynamics", "maritime technology"]
 heroImage: "/images/articles/naval-architecture-hero.webp"
-heroAlt: "Technical cross-section drawing of a large cargo ship showing hull structure and compartments"
+heroAlt: "Editorial photograph representing the concept of naval architecture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,11 +35,11 @@ faq:
     a: "Ships resist capsizing through stability — the tendency to return upright when tilted. This depends on the relationship between the center of gravity (where weight is concentrated) and the center of buoyancy (where the upward force of water acts). When designed correctly, tilting the ship shifts the center of buoyancy in a way that creates a restoring moment — a force that pushes the ship back upright."
 ---
 
-# What Is Naval Architecture?
+# What Is Naval [Architecture](/architecture)?
 
-Naval architecture is the engineering discipline concerned with the design, construction, and operation of ships and other marine vessels. If a structure floats and needs to move through water — or even just stay in one place on water without sinking — a naval architect probably designed it. Container ships, aircraft carriers, oil tankers, cruise liners, tugboats, sailboats, submarines, offshore drilling platforms, and even floating bridges all fall within the naval architect's domain.
+Naval architecture is the engineering discipline concerned with the design, [construction](/construction), and operation of ships and other marine vessels. If a structure floats and needs to move through water — or even just stay in one place on water without sinking — a naval architect probably designed it. Container ships, aircraft carriers, oil tankers, cruise liners, tugboats, sailboats, submarines, offshore drilling platforms, and even floating bridges all fall within the naval architect's domain.
 
-The field combines structural engineering (the hull has to be strong enough to survive ocean forces), fluid mechanics (the hull has to move efficiently through water), stability analysis (the ship can't capsize), and systems integration (propulsion, electrical, plumbing, ventilation, and cargo handling all have to work together in a harsh marine environment). It's one of the oldest engineering disciplines — humans have been designing boats for at least 10,000 years — and one of the most consequential. About 90% of world trade by volume moves by ship.
+The field combines [structural engineering](/structural-engineering) (the hull has to be strong enough to survive ocean forces), fluid mechanics (the hull has to move efficiently through water), stability analysis (the ship can't capsize), and systems integration (propulsion, electrical, plumbing, ventilation, and cargo handling all have to work together in a harsh marine environment). It's one of the oldest engineering disciplines — humans have been designing boats for at least 10,000 years — and one of the most consequential. About 90% of world trade by volume moves by ship.
 
 ## The Physics of Floating — Why Ships Don't Sink
 
@@ -67,9 +67,9 @@ A ship moving through water encounters several forms of resistance:
 
 Naval architects optimize hull shape for a vessel's specific operating profile. A container ship that cruises at 20 knots needs a different hull form than a bulk carrier that cruises at 14 knots. A planing speedboat has a fundamentally different hull concept — at high speed, it lifts partially out of the water, reducing wetted surface area and friction.
 
-The bulbous bow — that rounded protrusion at the waterline below the bow of most large ships — is a clever [aerodynamics](/aerodynamics)-style optimization adapted for water. It creates its own wave system that partially cancels the wave created by the main bow, reducing wave-making resistance by up to 15%. It works best at the design speed; at significantly different speeds, it may actually increase resistance.
+The bulbous bow — that rounded protrusion at the waterline below the bow of most large ships — is a clever [aerodynamics](/aerodynamics)-style [optimization](/optimization) adapted for water. It creates its own wave system that partially cancels the wave created by the main bow, reducing wave-making resistance by up to 15%. It works best at the design speed; at significantly different speeds, it may actually increase resistance.
 
-### Computational Fluid Dynamics
+### Computational [Fluid Dynamics](/fluid-dynamics)
 
 Modern hull design relies heavily on computational fluid dynamics (CFD) — computer simulations that model water flow around the hull. CFD allows naval architects to test thousands of hull variations digitally before building physical models or actual ships.
 
@@ -101,7 +101,7 @@ The Titanic's sinking in 1912 — where flooding exceeded the watertight bulkhea
 
 ### Loading and Stability
 
-Improperly loaded cargo can capsize a ship. This isn't theoretical — it happens. In 2019, the car carrier MV Golden Ray capsized in St. Simons Sound, Georgia, likely due to an error in ballast water management that compromised stability. The ship carried 4,200 vehicles, and salvage took over two years and cost an estimated $800 million.
+Improperly loaded cargo can capsize a ship. This isn't theoretical — it happens. In 2019, the car carrier MV Golden Ray capsized in St. Simons Sound, Georgia, likely due to an error in ballast [water management](/water-management) that compromised stability. The ship carried 4,200 vehicles, and salvage took over two years and cost an estimated $800 million.
 
 Naval architects provide ship operators with stability booklets — documents specifying the safe loading conditions for every possible cargo configuration. Loading computers onboard calculate real-time stability based on current cargo and ballast water distribution.
 
@@ -141,7 +141,7 @@ The maritime industry produces about 3% of global greenhouse gas emissions — c
 
 **LNG (liquefied natural gas)** engines reduce CO2 emissions by 20-25% and virtually eliminate sulfur oxide and particulate emissions compared to heavy fuel oil. About 300 LNG-fueled ships were in operation by 2024.
 
-**Methanol and ammonia** are being developed as carbon-neutral fuels (when produced from renewable energy). Maersk ordered 19 methanol-powered container ships, with the first delivered in 2024.
+**Methanol and ammonia** are being developed as carbon-neutral fuels (when produced from [renewable energy](/renewable-energy)). Maersk ordered 19 methanol-powered container ships, with the first delivered in 2024.
 
 **Wind-assisted propulsion** has returned — not as the primary power source, but as a supplement. Modern rotor sails (spinning cylinders that generate thrust from wind via the Magnus effect), rigid wing sails, and kite systems can reduce fuel consumption by 5-30% depending on routes and conditions.
 

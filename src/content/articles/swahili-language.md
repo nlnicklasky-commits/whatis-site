@@ -5,7 +5,7 @@ description: "Swahili is a Bantu language spoken by over 100 million people acro
 category: everyday-concepts
 tags: ["swahili language", "linguistics", "Africa", "Bantu", "language", "East Africa"]
 heroImage: "/images/articles/swahili-language.webp"
-heroAlt: "Colorful Swahili text on a signboard in an East African marketplace"
+heroAlt: "Editorial photograph representing the concept of swahili language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,9 +39,9 @@ If you know any Swahili words, you probably don't realize it. "Safari" (journey)
 
 Swahili belongs to the Bantu language family, which includes hundreds of related languages across sub-Saharan Africa. It originated along the East African coast — modern-day Kenya, Tanzania, and Mozambique — where Bantu-speaking communities had been settled for centuries.
 
-What makes Swahili distinctive is its history of contact and trade. Starting around the 8th century, Arab and Persian traders established commercial networks along the East [African](/african-history) coast. Swahili-speaking communities traded gold, ivory, and other goods, and this sustained contact infused the language with a substantial Arabic vocabulary — estimates suggest 20-30% of Swahili words have Arabic roots.
+What makes Swahili distinctive is its history of contact and [trade](/trade). Starting around the 8th century, Arab and Persian traders established commercial networks along the East [African](/african-history) coast. Swahili-speaking communities traded gold, ivory, and other goods, and this sustained contact infused the language with a substantial Arabic vocabulary — estimates suggest 20-30% of Swahili words have Arabic roots.
 
-The word "Swahili" itself comes from the Arabic *sawahil*, meaning "coasts" or "coastal people." But make no mistake: Swahili is structurally a Bantu language. Its grammar, verb system, and core vocabulary are Bantu through and through. The Arabic influence is primarily in vocabulary, particularly in words related to trade, religion, and administration.
+The word "Swahili" itself comes from the Arabic *sawahil*, meaning "coasts" or "coastal people." But make no mistake: Swahili is structurally a Bantu language. Its [grammar](/grammar), verb system, and core vocabulary are Bantu through and through. The Arabic influence is primarily in vocabulary, particularly in words related to trade, [religion](/religion), and administration.
 
 ## How It Spread
 
@@ -71,14 +71,14 @@ Good news for learners: Swahili is pronounced almost exactly as it's written. Ea
 
 ## Swahili Today
 
-Swahili is growing faster than almost any other African language. The African Union adopted it as an official language in 2004. Major tech companies (Google, Microsoft, Facebook) support Swahili in their products. BBC, Voice of America, and Deutsche Welle broadcast in Swahili. University programs teaching Swahili exist across Europe, Asia, and the Americas.
+Swahili is growing faster than almost any other African language. The African Union adopted it as an official language in 2004. Major tech companies (Google, Microsoft, Facebook) support Swahili in their products. BBC, Voice of America, and Deutsche Welle broadcast in Swahili. University programs [teaching](/teaching) Swahili exist across Europe, Asia, and the Americas.
 
-In East Africa, Swahili-language media — music, film, literature, and social media content — is booming. Bongo Flava (Tanzanian popular music) has a massive following. Swahili literature has produced internationally recognized writers, including Abdulrazak Gurnah, the 2021 Nobel Prize in Literature laureate, who writes in English but draws deeply from Swahili culture and language.
+In East Africa, Swahili-language media — music, film, [literature](/literature), and social media content — is booming. Bongo Flava (Tanzanian popular music) has a massive following. Swahili literature has produced internationally recognized writers, including Abdulrazak Gurnah, the 2021 Nobel Prize in Literature laureate, who writes in English but draws deeply from Swahili culture and language.
 
-The language is also expanding digitally. Swahili Wikipedia has over 75,000 articles. Natural language processing research increasingly includes Swahili, and its relatively regular grammar makes it well-suited for computational analysis.
+The language is also expanding digitally. Swahili Wikipedia has over 75,000 articles. [Natural language processing](/natural-language-processing) research increasingly includes Swahili, and its relatively regular grammar makes it well-suited for computational analysis.
 
 ## Why It Matters
 
 Swahili is significant not just for its speaker numbers but for what it represents: a genuinely African lingua franca that connects people across national and ethnic boundaries. In a continent with over 2,000 languages, having a widely shared language that isn't a colonial import (despite its Arabic borrowings, Swahili is fundamentally African) carries real cultural and political weight.
 
-Its continued growth suggests that Swahili's best days may be ahead of it. As African economies grow and regional integration deepens, the demand for a shared language of business, diplomacy, and culture is only increasing.
+Its continued growth suggests that Swahili's best days may be ahead of it. As African economies grow and regional integration deepens, the demand for a shared language of business, [diplomacy](/diplomacy), and culture is only increasing.

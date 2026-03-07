@@ -5,7 +5,7 @@ description: "Pool is a cue sport played on a felt-covered table with pockets. L
 category: everyday-concepts
 tags: ["pool billiards", "cue sports", "eight-ball", "nine-ball", "snooker", "recreation"]
 heroImage: "/images/articles/pool-billiards.webp"
-heroAlt: "Pool table with colorful billiard balls arranged for a break shot"
+heroAlt: "Editorial photograph representing the concept of pool (billiards)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "The name comes from 'pool rooms' — betting parlors in 19th-century America where patrons pooled their money for horse racing wagers. These establishments often had billiard tables for entertainment while waiting for race results. The game became so associated with these venues that the name stuck, even though the game itself has nothing to do with pooling money."
 ---
 
-# What Is Pool (Billiards)?
+# What Is Pool ([Billiards](/billiards))?
 
-Pool — more formally called pocket billiards — is a cue sport played on a rectangular, felt-covered table with six pockets. Players use a stick called a cue to strike a white cue ball, which then hits numbered object balls into the pockets. It's a game of geometry, physics, touch, and nerves, played everywhere from basement rec rooms to professional tournaments watched by millions.
+Pool — more formally called pocket billiards — is a cue sport played on a rectangular, felt-covered table with six pockets. Players use a stick called a cue to strike a white cue ball, which then hits numbered object balls into the pockets. It's a game of [geometry](/geometry), [physics](/physics), touch, and nerves, played everywhere from basement rec rooms to professional tournaments watched by millions.
 
 ## The Table and Equipment
 
@@ -47,11 +47,11 @@ The cue stick is typically 57-59 inches long, made from maple or other hardwoods
 
 **Eight-ball** is what most people think of as "pool." Two players (or teams) compete. After the break, the first player to legally pocket a ball claims that group — solids (1-7) or stripes (9-15). Each player then works to pocket all their balls, then legally pocket the 8-ball to win. Pocketing the 8-ball early, or scratching (pocketing the cue ball) while shooting the 8-ball, loses the game. Eight-ball accounts for probably 80% of all pool played worldwide.
 
-**Nine-ball** is the standard professional format. Only balls 1 through 9 are used. Players must contact the lowest-numbered ball on the table first, but can pocket any ball on any shot. The player who pockets the 9-ball wins — whether through running all nine balls in order or by a lucky combination shot. The element of luck makes nine-ball exciting to watch but somewhat controversial among purists.
+**Nine-ball** is the standard professional format. Only balls 1 through 9 are used. Players must contact the lowest-numbered ball on the table first, but can pocket any ball on any shot. The player who pockets the 9-ball wins — whether through [running](/running) all nine balls in order or by a lucky combination shot. The element of luck makes nine-ball exciting to watch but somewhat controversial among purists.
 
 **Straight pool** (14.1 continuous) is the traditional test of skill. Players score one point per ball pocketed and play to a predetermined total (usually 150 in professional play). When 14 balls are pocketed, they're re-racked while the cue ball and the 15th ball remain in play, and the shooting continues without interruption. Willie Mosconi set the record with a run of 526 consecutive balls in 1954.
 
-**Snooker** deserves mention even though it's technically a different game. Played on a much larger table (12 feet) with 22 balls, snooker requires extraordinary precision and is hugely popular in the UK, China, and Commonwealth countries. The top snooker players — Ronnie O'Sullivan, Stephen Hendry — are some of the most skilled athletes in any cue sport.
+**[Snooker](/snooker)** deserves mention even though it's technically a different game. Played on a much larger table (12 feet) with 22 balls, snooker requires extraordinary precision and is hugely popular in the UK, China, and Commonwealth countries. The top snooker players — Ronnie O'Sullivan, Stephen Hendry — are some of the most skilled athletes in any cue sport.
 
 ## The Physics Are Real
 

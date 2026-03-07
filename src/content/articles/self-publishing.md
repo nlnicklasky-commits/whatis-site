@@ -5,7 +5,7 @@ description: "Self-publishing lets authors produce and sell books without tradit
 category: arts-amp-culture
 tags: ["self-publishing", "author", "book publishing", "independent publishing", "ebooks", "print-on-demand"]
 heroImage: "/images/articles/self-publishing.webp"
-heroAlt: "An author reviewing a proof copy of their self-published book at a desk with a laptop"
+heroAlt: "Editorial photograph representing the concept of self-publishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Increasingly, yes. The stigma has faded dramatically since about 2010. Authors like Andy Weir (The Martian), Hugh Howey (Wool), and E.L. James (Fifty Shades of Grey) all started as self-published authors before getting major deals. Many genre fiction authors now choose self-publishing even when traditional deals are available, because the higher royalty rates and creative control are more attractive."
 ---
 
-# What Is Self-Publishing?
+# What Is Self-[Publishing](/publishing)?
 
-Self-publishing is the process of producing, distributing, and selling a book without going through a traditional publishing house. The author handles everything — or hires freelancers to handle it — from editing and cover design to distribution and marketing. The trade-off is straightforward: you do more work, but you keep more money and more control.
+Self-publishing is the process of producing, distributing, and selling a book without going through a traditional publishing house. The author handles everything — or hires freelancers to handle it — from [editing](/editing) and cover design to distribution and [marketing](/marketing). The [trade](/trade)-off is straightforward: you do more work, but you keep more money and more control.
 
 Until about 2007, self-publishing meant paying a vanity press thousands of dollars to print boxes of books you'd store in your garage. The quality was usually poor, distribution was nearly impossible, and the whole enterprise had a whiff of desperation. Then Amazon launched Kindle Direct Publishing, and everything changed.
 
@@ -39,9 +39,9 @@ Until about 2007, self-publishing meant paying a vanity press thousands of dolla
 
 The modern self-publishing process has several steps, and understanding each one matters.
 
-**Writing and revision** — obviously. But self-published authors often underestimate how many drafts a book needs. A good novel goes through at least three to five major revisions before it's ready for an editor. Rushing to publish a first draft is the most common mistake in the space.
+**[Writing](/writing) and revision** — obviously. But self-published authors often underestimate how many drafts a book needs. A good novel goes through at least three to five major revisions before it's ready for an editor. Rushing to publish a first draft is the most common mistake in the space.
 
-**Professional editing** comes in layers. Developmental editing examines structure, pacing, character, and plot — the big-picture stuff. Copy editing handles grammar, consistency, and clarity at the sentence level. Proofreading catches typos and formatting errors. You need at least copy editing and proofreading. Developmental editing is expensive but often makes the difference between a mediocre book and a good one.
+**Professional editing** comes in layers. Developmental editing examines structure, pacing, character, and plot — the big-picture stuff. Copy editing handles [grammar](/grammar), consistency, and clarity at the sentence level. Proofreading catches typos and formatting errors. You need at least copy editing and proofreading. Developmental editing is expensive but often makes the difference between a mediocre book and a good one.
 
 **Cover design** matters far more than most new authors realize. Readers absolutely judge books by their covers. A professional cover costs $300-1,500 and signals to potential buyers that this is a real book. A homemade cover screams amateur. Genre conventions are specific — a romance novel, a thriller, and a literary novel all have distinct visual languages, and your cover needs to speak the right one.
 
@@ -63,11 +63,11 @@ The catch: traditional publishers provide advances (upfront payments), marketing
 
 The self-published authors who earn significant income share a few patterns.
 
-**They write series.** Standalone novels are hard to build momentum with. Series — especially in genres like romance, science fiction, fantasy, mystery, and thriller — create built-in demand. A reader who loves book one buys books two through ten. The first book in a series is often priced low (or free) to pull readers in.
+**They write series.** Standalone novels are hard to build momentum with. Series — especially in genres like romance, [science fiction](/science-fiction), fantasy, mystery, and thriller — create built-in demand. A reader who loves book one buys books two through ten. The first book in a series is often priced low (or free) to pull readers in.
 
 **They publish frequently.** The Amazon algorithm rewards velocity. Authors who publish 3-6 books per year maintain visibility and keep their existing readers engaged. This pace isn't sustainable for everyone, but the correlation between publication frequency and income is strong.
 
-**They write in popular genres.** Literary fiction and poetry are tough markets for self-publishing because the audience is smaller and readers tend to rely on traditional gatekeepers (reviews, awards, bookstore recommendations). Romance, thriller, and science fiction readers are the most active ebook buyers and the most receptive to self-published authors.
+**They write in popular genres.** Literary fiction and [poetry](/poetry) are tough markets for self-publishing because the audience is smaller and readers tend to rely on traditional gatekeepers (reviews, awards, bookstore recommendations). Romance, thriller, and science fiction readers are the most active ebook buyers and the most receptive to self-published authors.
 
 **They treat it as a business.** Successful self-publishers track their advertising spend, analyze their Amazon categories and keywords, build email lists, and make data-driven decisions about pricing and promotions. The romantic image of the writer who just writes and watches the money roll in is almost never reality.
 

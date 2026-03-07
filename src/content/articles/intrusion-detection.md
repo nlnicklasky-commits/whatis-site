@@ -5,7 +5,7 @@ description: "Intrusion detection is the process of monitoring networks and syst
 category: technology
 tags: ["intrusion detection", "ids", "cybersecurity", "network security", "cyber threats", "security monitoring", "anomaly detection"]
 heroImage: "/images/articles/intrusion-detection-hero.webp"
-heroAlt: "Network security monitoring dashboard showing traffic analysis and alert indicators"
+heroAlt: "Editorial photograph representing the concept of intrusion detection"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,15 +63,15 @@ Once the baseline is established, the IDS monitors for deviations. A user who no
 
 The strength of anomaly detection is its ability to catch novel attacks — things that have no signature because they've never been seen before. It can detect insider threats, zero-day exploits, and unusual data exfiltration patterns.
 
-The weakness is false positives. Normal behavior changes all the time. An employee travels overseas (legitimate login from an unusual location). A software update changes network patterns. A marketing campaign drives unusual web traffic. Each deviation triggers an alert that an analyst must investigate. If the false positive rate is too high, analysts develop "alert fatigue" and start ignoring alerts — which is exactly how real attacks get missed.
+The weakness is false positives. Normal behavior changes all the time. An employee travels overseas (legitimate login from an unusual location). A software update changes network patterns. A [marketing](/marketing) campaign drives unusual web traffic. Each deviation triggers an alert that an analyst must investigate. If the false positive rate is too high, analysts develop "alert fatigue" and start ignoring alerts — which is exactly how real attacks get missed.
 
 ### Protocol Analysis
 
 Some IDS systems focus on understanding the protocols being used and detecting violations. HTTP traffic should follow HTTP rules. DNS queries should have certain characteristics. If traffic claims to be HTTP but contains non-HTTP data, something suspicious is happening.
 
-Protocol analysis is particularly effective at detecting protocol-level attacks — malformed packets designed to crash systems, tunneling (hiding forbidden traffic inside allowed protocols), and protocol anomalies that indicate exploitation attempts.
+Protocol analysis is particularly effective at detecting protocol-level attacks — malformed packets designed to crash systems, [tunneling](/tunneling) (hiding forbidden traffic inside allowed protocols), and protocol anomalies that indicate exploitation attempts.
 
-**Zeek** (formerly Bro), created by Vern Paxson at Berkeley in 1994, excels at protocol analysis. Rather than just matching patterns, Zeek deeply parses network protocols and generates rich metadata about network activity — connection logs, DNS queries, HTTP sessions, file transfers, SSL certificates, and more. Security analysts use this metadata for investigation and threat hunting.
+**Zeek** (formerly Bro), created by Vern Paxson at Berkeley in 1994, excels at protocol analysis. Rather than just matching patterns, Zeek deeply parses network protocols and generates rich metadata about network activity — connection logs, DNS queries, HTTP sessions, file transfers, SSL certificates, and more. Security analysts use this metadata for investigation and threat [hunting](/hunting).
 
 ## Types of Intrusion Detection Systems
 
@@ -91,7 +91,7 @@ A host-based IDS monitors activity on a single computer: system logs, file integ
 
 HIDS can detect attacks that don't cross the network — a malicious USB drive, a local privilege escalation, or file tampering. It can monitor encrypted traffic at the endpoint where it's decrypted. And it provides detailed visibility into what's happening on critical servers.
 
-The trade-off: you need to install and maintain HIDS software on every monitored system. On a network with thousands of servers and endpoints, that's significant management overhead. HIDS also consumes resources on the monitored system, which matters for performance-sensitive servers.
+The trade-off: you need to install and maintain HIDS software on every monitored system. On a network with thousands of servers and endpoints, that's significant [management](/management) overhead. HIDS also consumes resources on the monitored system, which matters for performance-sensitive servers.
 
 **OSSEC** (now Wazuh) is the most widely deployed open-source HIDS, monitoring file integrity, logs, and rootkit detection across thousands of endpoints.
 
@@ -149,7 +149,7 @@ Modern Security Information and Event Management (SIEM) systems — like Splunk,
 
 ## The Modern Detection Stack
 
-Intrusion detection has evolved from standalone IDS appliances into a multi-layered detection architecture.
+Intrusion detection has evolved from standalone IDS appliances into a multi-layered detection [architecture](/architecture).
 
 ### Network Detection and Response (NDR)
 
@@ -159,7 +159,7 @@ NDR platforms (Darktrace, ExtraHop, Vectra) analyze network traffic using machin
 
 XDR integrates detection across endpoints, network, email, cloud workloads, and identity systems into a single platform. Instead of investigating alerts from five different tools, analysts see correlated incidents across all data sources. CrowdStrike, Microsoft, Palo Alto Networks, and SentinelOne all offer XDR platforms.
 
-### Security Orchestration, Automation, and Response (SOAR)
+### Security [Orchestration](/orchestration), Automation, and Response (SOAR)
 
 SOAR platforms automate the response to common alert types. If the IDS detects a known phishing pattern, SOAR can automatically quarantine the email, block the sender's IP, scan endpoints for indicators of compromise, and create an incident ticket — all without human intervention. This addresses the volume problem by automating routine responses so analysts can focus on complex threats.
 
@@ -167,7 +167,7 @@ SOAR platforms automate the response to common alert types. If the IDS detects a
 
 Threat intelligence feeds provide up-to-date information about known malicious IPs, domains, file hashes, and attack techniques. Integrating threat intelligence with IDS dramatically improves detection accuracy — an alert about a connection to a known command-and-control server is much more actionable than a generic anomaly alert.
 
-The MITRE ATT&CK framework has become the standard language for describing attack techniques. It catalogs hundreds of specific tactics and techniques used by real-world attackers, organized by attack phase (initial access, execution, persistence, lateral movement, exfiltration). IDS rules and detection logic are increasingly mapped to ATT&CK techniques, providing a common reference point.
+The MITRE ATT&CK framework has become the standard language for describing attack techniques. It catalogs hundreds of specific tactics and techniques used by real-world attackers, organized by attack phase (initial access, execution, persistence, lateral movement, exfiltration). IDS rules and detection [logic](/logic) are increasingly mapped to ATT&CK techniques, providing a common reference point.
 
 ## Building a Detection Program
 
@@ -195,7 +195,7 @@ Detection quality should be measurable. Key metrics: mean time to detect (MTTD),
 
 Several trends are shaping where intrusion detection is headed.
 
-**AI-powered detection**: Machine learning models that learn normal behavior and identify anomalies are improving rapidly. Neural networks can process vastly more data than human-written rules and potentially catch subtle patterns that signatures miss. But AI also creates new attack surfaces — adversarial machine learning techniques can deliberately mislead ML-based detectors.
+**AI-powered detection**: Machine learning models that learn normal behavior and identify anomalies are improving rapidly. [Neural networks](/neural-networks) can process vastly more data than human-written rules and potentially catch subtle patterns that signatures miss. But AI also creates new attack surfaces — adversarial machine learning techniques can deliberately mislead ML-based detectors.
 
 **Cloud-native detection**: As workloads move to cloud platforms, detection must follow. Cloud-native IDS monitors API calls, container activity, serverless function execution, and cloud configuration changes — a fundamentally different data set than traditional network traffic.
 

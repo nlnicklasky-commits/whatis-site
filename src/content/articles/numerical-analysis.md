@@ -5,7 +5,7 @@ description: "Numerical analysis develops algorithms to approximate mathematical
 category: technology
 tags: ["numerical analysis", "mathematics", "algorithms", "approximation", "computational science", "engineering", "scientific computing"]
 heroImage: "/images/articles/numerical-analysis-hero.webp"
-heroAlt: "Computational mesh grid showing numerical simulation of fluid flow"
+heroAlt: "Editorial photograph representing the concept of numerical analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

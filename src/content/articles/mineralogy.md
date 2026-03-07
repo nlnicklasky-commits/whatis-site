@@ -5,7 +5,7 @@ description: "Mineralogy studies minerals, their structure, composition, propert
 category: science
 tags: ["mineralogy", "minerals", "geology", "crystals", "earth science", "geochemistry", "rocks"]
 heroImage: "/images/articles/mineralogy-hero.webp"
-heroAlt: "Collection of mineral specimens including quartz crystals and pyrite on a display table"
+heroAlt: "Editorial photograph representing the concept of mineralogy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ There are about 6,000 recognized mineral species, but here's a surprising fact: 
 
 The other 5,000+ minerals are rare—some found at only a single location on Earth, some in quantities measured in grams. But these rare minerals are far from irrelevant. Many contain critical elements for technology (lithium, cobalt, rare earth elements), and studying them reveals conditions deep inside Earth that we can't observe directly.
 
-Mineralogy is old. People have been fascinated by minerals since prehistory—flint tools, ochre pigments, obsidian trade networks. The ancient Greeks and Romans cataloged minerals, though their classification systems were based on practical uses (stones that attract iron, stones that burn) rather than scientific properties. Modern mineralogy began in the 18th century when scientists started systematically analyzing mineral compositions and crystal shapes.
+Mineralogy is old. People have been fascinated by minerals since [prehistory](/prehistory)—flint tools, ochre pigments, obsidian trade networks. The ancient Greeks and Romans cataloged minerals, though their classification systems were based on practical uses (stones that attract iron, stones that burn) rather than scientific properties. Modern mineralogy began in the 18th century when scientists started systematically analyzing mineral compositions and crystal shapes.
 
 ## What Makes Something a Mineral?
 
@@ -63,7 +63,7 @@ The definition is specific. A mineral must be:
 
 5. **Ordered atomic structure.** The atoms are arranged in a repeating three-dimensional pattern—a crystal lattice. This is what distinguishes minerals from amorphous materials like glass. Volcanic glass (obsidian) has the same chemical composition as several minerals but lacks the ordered structure, so it's technically not a mineral.
 
-## Crystal Systems and Atomic Architecture
+## Crystal Systems and Atomic [Architecture](/architecture)
 
 Mineral structure is everything. Two minerals can have identical chemical compositions but completely different properties because their atoms are arranged differently. Carbon is the classic example: arranged as diamond, it's the hardest natural substance. Arranged as graphite, it's one of the softest—soft enough to use as pencil lead.
 
@@ -148,9 +148,9 @@ When physical properties aren't enough:
 
 **Electron microprobe analysis** uses a focused electron beam to excite atoms in a mineral sample, causing them to emit characteristic X-rays. By analyzing these X-rays, scientists determine the exact chemical composition at specific points within a mineral grain—at spatial resolution better than 1 micrometer.
 
-**Raman spectroscopy** uses laser light to probe molecular vibrations in minerals. Each mineral has a unique Raman spectrum, making it a powerful identification tool. It's non-destructive and can be done through transparent containers—NASA has used Raman spectrometers on Mars rovers to identify minerals remotely.
+**Raman [spectroscopy](/spectroscopy)** uses laser light to probe molecular vibrations in minerals. Each mineral has a unique Raman spectrum, making it a powerful identification tool. It's non-destructive and can be done through transparent containers—NASA has used Raman spectrometers on Mars rovers to identify minerals remotely.
 
-**Optical microscopy** of thin sections (rock sliced to 30 micrometers thick, mounted on glass slides) remains fundamental. Under polarized light, minerals display characteristic colors, extinction angles, and interference patterns that trained mineralogists can identify on sight. This technique, essentially unchanged since the 19th century, is still the fastest way to characterize the mineral content of a rock.
+**Optical [microscopy](/microscopy)** of thin sections (rock sliced to 30 micrometers thick, mounted on glass slides) remains fundamental. Under polarized light, minerals display characteristic colors, extinction angles, and interference patterns that trained mineralogists can identify on sight. This technique, essentially unchanged since the 19th century, is still the fastest way to characterize the mineral content of a rock.
 
 ## Silicate Minerals: The Dominant Family
 
@@ -204,4 +204,4 @@ The field is also increasingly data-driven. The RRUFF database contains Raman sp
 
 Mineralogy is the science of Earth's most fundamental solid materials. Minerals—with their defined compositions and crystal structures—determine the properties of rocks, soils, ores, and gemstones. They record the conditions of their formation, from magma chambers to meteorite impacts, giving scientists a window into processes they can never directly observe.
 
-The field matters practically because minerals are the source of virtually every metal, construction material, and many chemicals that modern society depends on. And it matters scientifically because mineral diversity itself tells a story—of planetary evolution, tectonic activity, and even the history of life on Earth. Frankly, the fact that a rock on your desk contains a record of billion-year-old geological processes, readable to anyone with the right training and instruments, is one of the underappreciated wonders of science.
+The field matters practically because minerals are the source of virtually every metal, [construction](/construction) material, and many chemicals that modern society depends on. And it matters scientifically because mineral diversity itself tells a story—of planetary evolution, tectonic activity, and even the history of life on Earth. Frankly, the fact that a rock on your desk contains a record of billion-year-old geological processes, readable to anyone with the right training and instruments, is one of the underappreciated wonders of science.

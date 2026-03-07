@@ -5,7 +5,7 @@ description: "Loan management covers the full lifecycle of lending, from origina
 category: finance
 tags: ["loan management", "finance", "lending", "debt", "interest rates", "credit", "banking"]
 heroImage: "/images/articles/loan-management-hero.webp"
-heroAlt: "Illustration of financial documents, calculator, and loan amortization schedule"
+heroAlt: "Editorial photograph representing the concept of loan management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "Most lenders prefer a debt-to-income (DTI) ratio below 36%, with no more than 28% going to housing costs. A DTI above 43% makes it difficult to qualify for most conventional mortgages. Lower is better — it means you have more financial flexibility."
 ---
 
-# What Is Loan Management?
+# What Is Loan [Management](/management)?
 
 Loan management is the process of administering, tracking, and optimizing loans throughout their entire lifecycle — from the moment a borrower applies, through years of monthly payments, to the final payoff. It encompasses everything lenders do to manage their loan portfolios and everything borrowers do to handle their debt effectively.
 
@@ -53,7 +53,7 @@ Here's the part that catches people off guard: on a 30-year $200,000 mortgage at
 
 ### Annual Percentage Rate (APR)
 
-The APR includes the interest rate *plus* other costs of borrowing — origination fees, closing costs, mortgage insurance, and other charges — expressed as an annualized percentage. The APR is always equal to or higher than the base interest rate.
+The APR includes the interest rate *plus* other costs of borrowing — origination fees, closing costs, mortgage [insurance](/insurance), and other charges — expressed as an annualized percentage. The APR is always equal to or higher than the base interest rate.
 
 When comparing loan offers, APR is more useful than the interest rate alone because it captures the true cost of borrowing. A loan at 5.5% interest with $5,000 in fees might have a higher APR than a loan at 5.75% with no fees.
 
@@ -154,7 +154,7 @@ On a $300,000 mortgage at 6% for 30 years, paying an extra $300 per month saves 
 
 Check your loan terms for **prepayment penalties** — some loans (especially older mortgages and certain business loans) charge a fee for paying off early. Most modern consumer loans don't have prepayment penalties, but always verify.
 
-## Risk Management in Lending
+## [Risk Management](/risk-management) in Lending
 
 ### For Lenders
 
@@ -174,7 +174,7 @@ Lenders face several types of risk:
 
 **Variable rate exposure**: If a large portion of your debt has variable rates, rising interest rates could strain your [budget](/budgeting). Consider your exposure and whether fixing some rates makes sense.
 
-**Concentration risk**: Having all your debt in one category (e.g., all real estate) means trouble in that sector affects you disproportionately.
+**Concentration risk**: Having all your debt in one category (e.g., all [real estate](/real-estate)) means trouble in that sector affects you disproportionately.
 
 ## Technology and Modern Loan Management
 
@@ -186,7 +186,7 @@ The lending industry has been transformed by technology over the past two decade
 
 **Loan management software** handles servicing at scale. Platforms like Black Knight, Ellie Mae, and FIS track millions of loans, automate payment processing, generate regulatory reports, and flag compliance issues.
 
-**Blockchain** and smart contracts are beginning to appear in lending — potentially automating loan origination, payment processing, and collateral management through self-executing contracts. This is still early-stage but could significantly reduce costs and processing times.
+**[Blockchain](/blockchain)** and smart contracts are beginning to appear in lending — potentially automating loan origination, payment processing, and collateral management through self-executing contracts. This is still early-stage but could significantly reduce costs and processing times.
 
 **Open banking APIs** allow lenders to access borrower financial data directly (with permission), speeding up income verification and reducing fraud.
 
@@ -196,7 +196,7 @@ Lending is heavily regulated, for good reason — predatory lending practices ha
 
 **Truth in Lending Act (TILA)**: Requires lenders to disclose APR, total costs, and loan terms in a standardized format so borrowers can compare offers.
 
-**Equal Credit Opportunity Act (ECOA)**: Prohibits discrimination in lending based on race, religion, sex, marital status, age, or receipt of public assistance.
+**Equal Credit Opportunity Act (ECOA)**: Prohibits discrimination in lending based on race, [religion](/religion), sex, marital status, age, or receipt of public assistance.
 
 **Fair Debt Collection Practices Act (FDCPA)**: Limits what debt collectors can do — no harassment, no deception, no calling at unreasonable hours.
 

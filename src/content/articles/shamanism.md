@@ -5,7 +5,7 @@ description: "Shamanism is an ancient spiritual practice where practitioners ent
 category: philosophy
 tags: ["shamanism", "spirituality", "indigenous cultures", "healing", "altered states", "ritual", "anthropology"]
 heroImage: "/images/articles/shamanism-hero.webp"
-heroAlt: "Ceremonial drum and ritual objects used in shamanic practice surrounded by nature"
+heroAlt: "Editorial photograph representing the concept of shamanism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -57,7 +57,7 @@ The defining feature of shamanism — the element that separates shamans from ot
 
 Different cultures achieve this state through different means:
 
-**Rhythmic drumming and chanting** is the most common technique globally. The monotonous, repetitive beat of a frame drum at approximately 4 to 4.5 beats per second — corresponding to the brain's theta wave frequency — reliably induces trance states. Studies using EEG monitoring have confirmed that sustained rhythmic drumming shifts brain activity toward theta waves, which are associated with deep meditation, hypnagogic states, and increased mental imagery.
+**Rhythmic drumming and chanting** is the most common technique globally. The monotonous, repetitive beat of a frame drum at approximately 4 to 4.5 beats per second — corresponding to the brain's theta wave frequency — reliably induces trance states. Studies using EEG monitoring have confirmed that sustained rhythmic drumming shifts brain activity toward theta waves, which are associated with deep [meditation](/meditation), hypnagogic states, and increased mental imagery.
 
 **Psychoactive plants** are central to many traditions. Amazonian shamans use ayahuasca, a brew containing DMT (dimethyltryptamine). Mesoamerican traditions use psilocybin mushrooms, peyote cactus, and morning glory seeds. Siberian shamans historically used *Amanita muscaria* (fly agaric mushroom). African traditions use iboga root bark. Each substance produces distinct altered states, and the specific plant used shapes the character of the shamanic experience in that culture.
 
@@ -115,7 +115,7 @@ The shaman's initiation often involves a symbolic death and dismemberment. The i
 
 Indigenous American shamanic traditions are enormously diverse. The *curanderos* and *ayahuasceros* of the Amazon use plant medicine extensively. Plains Indian traditions emphasize vision quests and the sweat lodge. Pacific Northwest traditions include elaborate masked performances where shamans embody spirit beings. Mesoamerican traditions used psilocybin mushrooms — the Aztec word *teonanacatl* means "flesh of the gods."
 
-The Native American Church, founded in the late 19th century, blends Christian elements with traditional peyote ceremonies. It represents an adaptation of shamanic practice to the pressures of colonialism — preserving core elements while incorporating enough Christianity to gain legal protection (peyote use in the Church is federally protected in the United States).
+The Native American Church, founded in the late 19th century, blends Christian elements with traditional peyote ceremonies. It represents an adaptation of shamanic practice to the pressures of colonialism — preserving core elements while incorporating enough [Christianity](/christianity) to gain legal protection (peyote use in the Church is federally protected in the United States).
 
 ### East Asia
 
@@ -129,7 +129,7 @@ Mongolian shamanism (*tengerism*) is experiencing a revival after decades of Sov
 
 African shamanic traditions are among the most diverse on earth, reflecting the continent's immense cultural variety. The San (Bushmen) of southern Africa practice trance dancing — rhythmic group dancing that induces altered states in healers who then perform healing through touch. San rock art, some dating back 27,000 years, depicts trance dancers alongside spirit animals and geometric patterns consistent with visual phenomena experienced during altered states.
 
-West African traditions include the *nganga* healers of the Congo basin, who use divination, herbal medicine, and spirit communication. These traditions heavily influenced New World religions like Vodou, Candomble, and Santeria, which preserve shamanic elements within syncretic frameworks.
+West African traditions include the *nganga* healers of the Congo basin, who use divination, [herbal medicine](/herbal-medicine), and spirit communication. These traditions heavily influenced New [World religions](/world-religions) like Vodou, Candomble, and Santeria, which preserve shamanic elements within syncretic frameworks.
 
 ### Australia
 
@@ -147,19 +147,19 @@ Mircea Eliade argued that shamanism represents a universal "archaic technique of
 
 Anthropologist Michael Winkelman and others have argued that shamanic practices work because they exploit specific neurological mechanisms. Rhythmic drumming, psychedelic plants, fasting, and sensory deprivation all alter brain chemistry in ways that produce consistent types of experiences — visual imagery, feelings of disembodiment, encounters with entities.
 
-The geometric patterns (spirals, grids, zigzags) reported during early stages of trance match the "form constants" identified by neurologist Heinrich Kluver — patterns generated by the visual cortex's internal architecture, not by external stimuli. This suggests that at least some shamanic experiences are neurologically generated rather than culturally learned.
+The geometric patterns (spirals, grids, zigzags) reported during early stages of trance match the "form constants" identified by neurologist Heinrich Kluver — patterns generated by the visual cortex's internal [architecture](/architecture), not by external stimuli. This suggests that at least some shamanic experiences are neurologically generated rather than culturally learned.
 
 But — and this is important — saying experiences are neurologically generated doesn't necessarily mean they aren't real or meaningful. That's a philosophical question, not a scientific one.
 
 ### The Cultural Specificity Critique
 
-Other scholars argue that lumping diverse practices under "shamanism" obscures more than it reveals. Anthropologist Alice Kehoe has criticized the concept as a Western academic construction that misrepresents indigenous traditions. When you call a Korean *mudang*, a Siberian *saman*, and a Peruvian *curandero* all "shamans," you impose a category that none of these practitioners use for themselves.
+Other scholars argue that lumping diverse practices under "shamanism" obscures more than it reveals. Anthropologist Alice Kehoe has criticized the concept as a Western academic [construction](/construction) that misrepresents indigenous traditions. When you call a Korean *mudang*, a Siberian *saman*, and a Peruvian *curandero* all "shamans," you impose a category that none of these practitioners use for themselves.
 
 This criticism has merit. The specific worldviews, techniques, social roles, and spiritual frameworks differ enormously between cultures. What looks like the same thing from outside — a person entering a trance to heal someone — might have completely different meanings and mechanisms within different cultural systems.
 
 ## Neo-Shamanism and the Modern World
 
-Starting in the 1960s and accelerating through the 1980s, shamanic practices entered Western popular culture. This movement — often called neo-shamanism or core shamanism — raises both interesting possibilities and legitimate concerns.
+Starting in the 1960s and accelerating through the 1980s, shamanic practices entered Western [popular culture](/popular-culture). This movement — often called neo-shamanism or core shamanism — raises both interesting possibilities and legitimate concerns.
 
 ### Core Shamanism
 

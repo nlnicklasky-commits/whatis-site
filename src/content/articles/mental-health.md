@@ -5,7 +5,7 @@ description: "Mental health is your emotional, psychological, and social well-be
 category: health-amp-wellness
 tags: ["health", "mental health", "psychology", "wellness"]
 heroImage: "/images/articles/mental-health.webp"
-heroAlt: "Person sitting peacefully in nature with sunlight filtering through trees"
+heroAlt: "Editorial photograph representing the concept of mental health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,23 +49,23 @@ The weird part is that you can have a diagnosed mental illness and still have go
 
 ## What Shapes Your Mental Health
 
-Mental health isn't determined by any single factor. It's the product of a tangled web of biology, experience, and environment.
+Mental health isn't determined by any single factor. It's the product of a tangled web of [biology](/biology), experience, and environment.
 
-### Biology and Genetics
+### Biology and [Genetics](/genetics)
 
-Your brain chemistry matters. Neurotransmitters like serotonin, dopamine, and norepinephrine influence mood, motivation, sleep, and anxiety. When these systems malfunction — through genetic variation, injury, or disease — mental health problems can follow.
+Your brain [chemistry](/chemistry) matters. Neurotransmitters like serotonin, dopamine, and norepinephrine influence mood, motivation, sleep, and anxiety. When these systems malfunction — through genetic variation, injury, or disease — mental health problems can follow.
 
 The genetic component is real but often overstated. Having a parent with depression roughly doubles or triples your risk of developing depression yourself. But that's risk, not destiny. Genes load the gun; environment pulls the trigger, as the saying goes. Twin studies consistently show that genetics account for 30-50% of the risk for most common mental health conditions, leaving plenty of room for environmental factors.
 
 ### Early Life Experiences
 
-Childhood experiences leave deep marks on mental health — for better and worse. Secure attachment to caregivers, stable home environments, and responsive parenting build psychological resilience. Adverse childhood experiences (ACEs) — abuse, neglect, household dysfunction — significantly increase the risk of mental health problems later in life.
+Childhood experiences leave deep marks on mental health — for better and worse. Secure attachment to caregivers, stable home environments, and responsive [parenting](/parenting) build psychological resilience. Adverse childhood experiences (ACEs) — abuse, neglect, household dysfunction — significantly increase the risk of mental health problems later in life.
 
 The ACE Study, one of the largest investigations of childhood trauma's effects, found a dose-response relationship: the more adverse experiences a child endures, the higher their risk for depression, anxiety, substance abuse, and even physical health problems in adulthood. A person with four or more ACEs has roughly 4.6 times the risk of depression compared to someone with none.
 
 ### Social Determinants
 
-Poverty, discrimination, lack of education, unemployment, social isolation, and exposure to violence all affect mental health. These aren't just risk factors — they're structural forces that create and perpetuate mental health disparities across populations.
+Poverty, discrimination, lack of [education](/education), unemployment, social isolation, and exposure to violence all affect mental health. These aren't just risk factors — they're structural forces that create and perpetuate mental health disparities across populations.
 
 Consider this: people in the lowest income brackets are 1.5 to 3 times more likely to experience depression than those with higher incomes. That's not because poverty causes a chemical imbalance. It's because poverty creates chronic stress, limits access to healthcare, reduces social support, and constrains choices in ways that grind down psychological well-being.
 
@@ -97,7 +97,7 @@ Bipolar disorder (affecting about 40 million people globally) involves episodes 
 
 The good news — and there is plenty of good news — is that effective treatments exist for most mental health conditions.
 
-### Psychotherapy
+### [Psychotherapy](/psychotherapy)
 
 Talk therapy works. Multiple forms of psychotherapy have strong evidence behind them. Cognitive behavioral therapy (CBT) is probably the most studied — it teaches you to identify and change distorted thinking patterns that drive emotional distress. For depression and anxiety, CBT is as effective as medication for many people, and its benefits tend to last longer after treatment ends.
 
@@ -111,13 +111,13 @@ Antipsychotics manage symptoms of schizophrenia and bipolar disorder. Mood stabi
 
 ### Combined Approaches
 
-For moderate to severe conditions, the combination of therapy and medication is generally more effective than either alone. A 2014 meta-analysis in *World Psychiatry* found that combined treatment outperformed monotherapy for depression, anxiety disorders, and OCD.
+For moderate to severe conditions, the combination of therapy and medication is generally more effective than either alone. A 2014 meta-analysis in *World [Psychiatry](/psychiatry)* found that combined treatment outperformed monotherapy for depression, anxiety disorders, and OCD.
 
 ## The Stigma Problem
 
 Stigma remains one of the biggest barriers to mental health treatment. Despite decades of awareness campaigns, surveys consistently show that a significant portion of the population holds negative attitudes toward people with mental illness. A 2019 American Psychological Association survey found that 87% of American adults agreed that having a mental health disorder is nothing to be ashamed of — but nearly half said they would be uncomfortable living next door to someone with serious mental illness.
 
-This stigma has real consequences. It delays help-seeking (the average delay between symptom onset and treatment for mental health conditions is 11 years). It leads to discrimination in employment, housing, and insurance. And it causes people to hide their struggles, increasing isolation and worsening outcomes.
+This stigma has real consequences. It delays help-seeking (the average delay between symptom onset and treatment for mental health conditions is 11 years). It leads to discrimination in employment, housing, and [insurance](/insurance). And it causes people to hide their struggles, increasing isolation and worsening outcomes.
 
 The treatment gap is enormous. Globally, about 75% of people with mental health disorders in low-income countries receive no treatment at all. Even in high-income countries like the United States, nearly half of adults with mental illness don't receive treatment in any given year.
 
@@ -135,7 +135,7 @@ Individual self-care isn't a substitute for professional treatment when you need
 
 ## The Bigger Picture
 
-Mental health isn't a personal luxury — it's a public health issue with staggering economic implications. The WHO estimates that depression and anxiety disorders cost the global economy $1 trillion per year in lost productivity. For every $1 invested in scaled-up treatment for depression and anxiety, there is a return of $4 in better health and ability to work.
+Mental health isn't a personal luxury — it's a [public health](/public-health) issue with staggering economic implications. The WHO estimates that depression and anxiety disorders cost the global economy $1 trillion per year in lost [productivity](/productivity). For every $1 invested in scaled-up treatment for depression and anxiety, there is a return of $4 in better health and ability to work.
 
 The conversation around mental health has shifted substantially in recent years. More people are talking about it openly. More employers are offering mental health benefits. More schools are incorporating social-emotional learning. That's genuine progress.
 

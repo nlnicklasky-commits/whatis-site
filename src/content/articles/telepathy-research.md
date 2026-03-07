@@ -5,7 +5,7 @@ description: "Telepathy research is the scientific investigation of alleged mind
 category: science
 tags: ["telepathy research", "parapsychology", "esp", "extrasensory perception"]
 heroImage: "/images/articles/telepathy-research.webp"
-heroAlt: "Two human silhouettes facing each other with abstract neural connections illustrated between their heads against a dark background"
+heroAlt: "Editorial photograph representing the concept of telepathy research"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Let's be clear about the state of the field upfront: after more than a century o
 
 ### The Early Days
 
-The word "telepathy" was coined in 1882 by Frederic W.H. Myers, a Cambridge scholar and co-founder of the Society for Psychical Research (SPR) in London. The SPR was established specifically to apply scientific methods to claims of psychic phenomena — an unusual move at a time when such claims were typically the domain of séances and spiritualism.
+The word "telepathy" was coined in 1882 by Frederic W.H. Myers, a Cambridge scholar and co-founder of the Society for Psychical Research (SPR) in London. The SPR was established specifically to apply scientific methods to claims of psychic phenomena — an unusual move at a time when such claims were typically the domain of séances and [spiritualism](/spiritualism).
 
 Early investigations mostly involved collecting and analyzing anecdotal reports — people who claimed to have experienced telepathic episodes, often during emergencies or emotional events (a mother "knowing" her child was in danger, a twin feeling the other's pain). The SPR accumulated thousands of such reports and tried to evaluate them statistically, asking whether the number of accurate "impressions" exceeded what chance alone could explain.
 
@@ -71,7 +71,7 @@ The most sustained and rigorous line of telepathy experimentation began in the 1
 
 By chance, the hit rate should be 25% (1 in 4). The key question is whether receivers perform significantly above that baseline.
 
-Charles Honorton, the primary developer of the ganzfeld protocol, reported meta-analytic results showing a hit rate of about 35% — statistically significant and seemingly consistent across studies. This sparked the most important debate in the history of telepathy research.
+Charles Honorton, the primary developer of the ganzfeld protocol, reported meta-analytic results showing a hit rate of about 35% — statistically significant and seemingly consistent across studies. This sparked the most important [debate](/debate) in the history of telepathy research.
 
 ## The Great Ganzfeld Debate
 
@@ -93,7 +93,7 @@ The mainstream scientific objections to telepathy research fall into several cat
 
 For telepathy to work, some form of information would need to travel from one brain to another without passing through known sensory channels. There's no identified physical mechanism for this. The brain generates electromagnetic fields, but they're extremely weak — detectable only with sensitive equipment pressed directly against the scalp. They certainly don't carry encoded thoughts through walls.
 
-Some parapsychologists have proposed quantum entanglement as a possible mechanism, but physicists overwhelmingly reject this. Quantum entanglement doesn't transmit usable information (this is established physics, not a matter of opinion), and there's no evidence that quantum effects operate at the scale of neural processes in a way that could produce telepathy.
+Some parapsychologists have proposed quantum entanglement as a possible mechanism, but physicists overwhelmingly reject this. Quantum entanglement doesn't transmit usable information (this is established [physics](/physics), not a matter of opinion), and there's no evidence that quantum effects operate at the scale of neural processes in a way that could produce telepathy.
 
 The absence of a mechanism isn't proof that telepathy doesn't exist — science occasionally discovers phenomena before explaining them. But it does mean the evidence needs to be very strong to overcome the prior implausibility.
 
@@ -105,7 +105,7 @@ Skeptics see this as exactly what you'd expect if the effects are due to subtle 
 
 ### Publication Bias and the File Drawer Effect
 
-Positive results are more likely to be published than null results. If 20 labs run telepathy experiments and one gets a positive result by chance, that one lab publishes while the 19 null results go into file drawers. This creates a systematically distorted literature that makes effects look stronger and more consistent than they actually are.
+Positive results are more likely to be published than null results. If 20 labs run telepathy experiments and one gets a positive result by chance, that one lab publishes while the 19 null results go into file drawers. This creates a systematically distorted [literature](/literature) that makes effects look stronger and more consistent than they actually are.
 
 Parapsychologists are aware of this problem and have attempted to account for it in meta-analyses. But correcting for publication bias is difficult, and disagreements about how to do it properly have fueled ongoing disputes.
 

@@ -5,7 +5,7 @@ description: "Vocal performance is the art of singing or speaking before an audi
 category: arts-amp-culture
 tags: ["vocal performance", "singing", "performing arts", "stage presence", "music", "live performance"]
 heroImage: "/images/articles/vocal-performance.webp"
-heroAlt: "Singer performing under spotlight on stage with microphone, audience visible in the background"
+heroAlt: "Editorial photograph representing the concept of vocal performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Vocal Performance?
 
-Vocal performance is the art of using the human voice — through singing, speaking, or a combination — to communicate music, text, and emotion to an audience. It combines technical vocal skill with interpretive artistry, physical expression, and the ability to connect with listeners in real time. Whether it's an opera soprano filling a 3,000-seat theater without amplification or a pop singer working an arena crowd with a wireless microphone, vocal performance is about making the voice a vehicle for something that transcends the notes on the page.
+Vocal performance is the art of using the human voice — through [singing](/singing), speaking, or a combination — to communicate music, text, and emotion to an audience. It combines technical vocal skill with interpretive artistry, physical expression, and the ability to connect with listeners in real time. Whether it's an [opera](/opera) soprano filling a 3,000-seat theater without amplification or a pop singer working an arena crowd with a wireless microphone, vocal performance is about making the voice a vehicle for something that transcends the notes on the page.
 
 ## More Than Singing on Key
 
@@ -61,7 +61,7 @@ Microphone technique is central to pop performance. The microphone is an instrum
 
 ### Musical Theater
 
-Musical theater performance demands a unique combination: strong singing, clear diction (the audience must understand every word), acting ability (you're playing a character who happens to sing), and physical stamina (eight shows per week is standard on Broadway). The vocal style sits between classical technique and pop expression — powerful enough to project in a theater, natural enough to sound like a character speaking through song.
+Musical theater performance demands a unique combination: strong singing, clear diction (the audience must understand every word), [acting](/acting) ability (you're playing a character who happens to sing), and physical stamina (eight shows per week is standard on Broadway). The vocal style sits between classical technique and pop expression — powerful enough to project in a theater, natural enough to sound like a character speaking through song.
 
 ### Jazz
 
@@ -71,7 +71,7 @@ Jazz vocal performance emphasizes improvisation, swing feel, and sophisticated h
 
 Recorded music and live performance are fundamentally different experiences. A studio recording can be perfected through multiple takes, pitch correction, and mixing. A live performance happens once, in real time, with all its imperfections and unpredictability.
 
-This is what makes live vocal performance uniquely powerful. The audience is witnessing something unrepeatable. The singer is adapting to the room's acoustics, the audience's energy, and their own voice's condition that day. There's genuine risk — the voice might crack, the high note might not come, the lyrics might slip. That vulnerability is part of what makes live performance emotionally compelling.
+This is what makes live vocal performance uniquely powerful. The audience is witnessing something unrepeatable. The singer is adapting to the room's [acoustics](/acoustics), the audience's energy, and their own voice's condition that day. There's genuine risk — the voice might crack, the high note might not come, the lyrics might slip. That vulnerability is part of what makes live performance emotionally compelling.
 
 Great live performers understand this and lean into it rather than trying to replicate a studio recording. They take risks, extend notes, improvise, interact with the audience, and respond to the energy in the room. The result might not be technically "better" than the recording, but it's alive in a way that a recording can never be.
 
@@ -85,6 +85,6 @@ The path varies by genre but always requires:
 
 **Repertoire development** — Knowing what songs work for your voice, your style, and your audience. A strong repertoire is curated, not just accumulated.
 
-**Self-care** — The voice is the instrument, and unlike a guitar, you can't replace it. Sleep, hydration, vocal rest, and avoiding vocal abuse (screaming, excessive talking in noisy environments) are professional necessities.
+**Self-care** — The voice is the instrument, and unlike a [guitar](/guitar), you can't replace it. Sleep, hydration, vocal rest, and avoiding vocal abuse (screaming, excessive talking in noisy environments) are professional necessities.
 
 The human voice remains the most direct musical instrument — it carries the performer's emotion, personality, and physicality in a way that no other instrument can replicate. That directness is why vocal performance continues to be the most popular and emotionally impactful form of musical expression across every culture and era.

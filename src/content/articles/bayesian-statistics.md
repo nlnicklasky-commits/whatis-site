@@ -5,7 +5,7 @@ description: "Bayesian statistics is an approach to data analysis that updates p
 category: everyday-concepts
 tags: ["bayesian statistics", "statistics", "probability", "data science", "mathematics", "inference"]
 heroImage: "/images/articles/bayesian-statistics.webp"
-heroAlt: "Mathematical formula of Bayes theorem written on a chalkboard with probability distributions"
+heroAlt: "Editorial photograph representing the concept of bayesian statistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -79,7 +79,7 @@ With enough data, the posterior is dominated by the likelihood and barely affect
 
 **Medical diagnosis** — A positive test result doesn't mean you definitely have a disease. The [probability](/probability-theory) depends on the test's accuracy AND the base rate of the disease. Bayesian reasoning prevents the "base rate fallacy" — if a disease affects 1 in 10,000 people and the test has a 1% false positive rate, a positive result still means you probably don't have it.
 
-**[Machine learning](/machine-learning)** — Bayesian neural networks, Bayesian optimization, and Naive Bayes classifiers all apply Bayesian principles. These methods are particularly valuable when data is limited, because priors can encode existing knowledge.
+**[Machine learning](/machine-learning)** — Bayesian [neural networks](/neural-networks), Bayesian [optimization](/optimization), and Naive Bayes classifiers all apply Bayesian principles. These methods are particularly valuable when data is limited, because priors can encode existing knowledge.
 
 **A/B testing** — Bayesian A/B testing has gained popularity over traditional frequentist approaches because it directly answers "What's the probability that version B is better than version A?" rather than the more convoluted frequentist framing.
 
@@ -89,7 +89,7 @@ With enough data, the posterior is dominated by the likelihood and barely affect
 
 For most of the 20th century, Bayesian methods were theoretically appealing but practically impossible for complex problems. The math required integrating over high-dimensional probability distributions — calculations that were analytically intractable.
 
-The breakthrough came with Markov Chain Monte Carlo (MCMC) algorithms, particularly the Gibbs sampler (1984) and the Metropolis-Hastings algorithm. These methods use random sampling to approximate posterior distributions, making Bayesian computation feasible on modern computers.
+The breakthrough came with Markov Chain Monte Carlo (MCMC) [algorithms](/algorithms), particularly the Gibbs sampler (1984) and the Metropolis-Hastings algorithm. These methods use random sampling to approximate posterior distributions, making Bayesian computation feasible on modern computers.
 
 Software like Stan, PyMC, and JAGS has made Bayesian analysis accessible to researchers without advanced [mathematical](/mathematics) training. What once required custom code and mainframe computers now runs on a laptop in minutes.
 

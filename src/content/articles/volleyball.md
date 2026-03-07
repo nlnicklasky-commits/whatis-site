@@ -5,7 +5,7 @@ description: "Volleyball is a team sport where two sides hit a ball over a net. 
 category: sports
 tags: ["volleyball", "team sports", "Olympic sports", "beach volleyball", "athletics", "indoor sports"]
 heroImage: "/images/articles/volleyball.webp"
-heroAlt: "Volleyball player jumping to spike the ball over the net during an intense match"
+heroAlt: "Editorial photograph representing the concept of volleyball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ Volleyball is a team sport played on a rectangular court divided by a net, where
 
 ## Born in a YMCA Gym
 
-William G. Morgan invented volleyball in 1895 at a YMCA in Holyoke, Massachusetts. He was looking for a less physically demanding alternative to basketball (which James Naismith had invented just four years earlier at a nearby YMCA). Morgan originally called the game "Mintonette."
+William G. Morgan invented volleyball in 1895 at a YMCA in Holyoke, Massachusetts. He was looking for a less physically demanding alternative to [basketball](/basketball) (which James Naismith had invented just four years earlier at a nearby YMCA). Morgan originally called the game "Mintonette."
 
-The name changed to "volley ball" (two words, later combined) after a spectator noticed that players were volleying the ball back and forth over the net. The early rules were simple: any number of players, any number of contacts, and a net borrowed from tennis set at 6 feet 6 inches.
+The name changed to "volley ball" (two words, later combined) after a spectator noticed that players were volleying the ball back and forth over the net. The early rules were simple: any number of players, any number of contacts, and a net borrowed from [tennis](/tennis) set at 6 feet 6 inches.
 
 The sport spread rapidly through the YMCA's international network. By the 1920s, it had reached Asia, Europe, and South America. The FIVB (Federation Internationale de Volleyball) was founded in 1947, and volleyball became an Olympic sport at the 1964 Tokyo Games.
 
@@ -79,7 +79,7 @@ Beach volleyball uses the same basic rules but plays 2-on-2 on a sand court. The
 
 **Sand changes everything** — Moving in sand is exhausting. Jumping is harder. Sand affects ball trajectory. Wind affects serves and sets. The environment is a third opponent.
 
-**Strategy shifts** — With fewer players covering the court, shot selection and tactical serving become more important than raw power. Beach volleyball is often called a "chess match in the sand."
+**Strategy shifts** — With fewer players covering the court, shot selection and tactical serving become more important than raw power. Beach volleyball is often called a "[chess](/chess) match in the sand."
 
 Beach volleyball became an Olympic sport in 1996 and has grown into a major spectator sport, partly because the two-player format makes individual matchups more visible and the outdoor setting creates a distinctive atmosphere.
 
@@ -87,6 +87,6 @@ Beach volleyball became an Olympic sport in 1996 and has grown into a major spec
 
 Volleyball's accessibility is a big part of its global popularity. You need a net, a ball, and a relatively flat surface. The rules are simple enough for beginners to enjoy immediately. The sport accommodates any body type — you don't have to be 6'8" to play recreational volleyball, even if elite competition favors height.
 
-It's also uniquely social. Volleyball requires communication, teamwork, and spatial awareness — you're constantly coordinating with teammates about who takes the ball. The rally format creates natural drama (every point matters). And the three-touch limit forces cooperative play — you literally cannot play volleyball alone.
+It's also uniquely social. Volleyball requires communication, teamwork, and spatial awareness — you're constantly coordinating with teammates about who takes the ball. The rally format creates natural [drama](/drama) (every point matters). And the three-touch limit forces cooperative play — you literally cannot play volleyball alone.
 
 The sport's appeal spans cultures, ages, and skill levels in a way that few team sports match. Backyard barbecues, corporate leagues, Olympic finals — volleyball works at every level because its core mechanic (keep the ball off the ground, get it over the net) is simple, physical, and endlessly variable.

@@ -5,7 +5,7 @@ description: "Battery technology is the science of storing electrical energy in 
 category: technology
 tags: ["battery technology", "energy storage", "electrochemical", "lithium-ion", "rechargeable batteries", "electric vehicles", "renewable energy"]
 heroImage: "/images/articles/battery-technology-hero.webp"
-heroAlt: "Cross-section diagram of a lithium-ion battery cell showing anode, cathode, and electrolyte layers"
+heroAlt: "Editorial photograph representing the concept of battery technology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Battery Technology?
 
-Battery technology is the science and engineering of devices that store electrical energy in chemical form and convert it back to electricity on demand. A battery contains one or more electrochemical cells, each consisting of two electrodes (an anode and a cathode) separated by an electrolyte that allows ions to flow between them while blocking electron flow — forcing those electrons to travel through an external circuit, creating usable electric current.
+Battery technology is the science and [engineering](/engineering) of devices that store electrical energy in chemical form and convert it back to [electricity](/electricity) on demand. A battery contains one or more electrochemical cells, each consisting of two electrodes (an anode and a cathode) separated by an electrolyte that allows ions to flow between them while blocking electron flow — forcing those electrons to travel through an external circuit, creating usable electric current.
 
 ## How Batteries Actually Work
 
@@ -73,7 +73,7 @@ Gaston Plante invented the lead-acid battery, which became the first commerciall
 
 ### Nickel-Cadmium and Nickel-Metal Hydride
 
-NiCd batteries, commercialized in the 1950s, were the first practical rechargeable batteries for portable electronics. They suffered from the notorious "memory effect" — if you repeatedly recharged them before they were fully drained, they'd lose effective capacity. Nickel-metal hydride (NiMH) batteries, developed in the 1980s, offered higher energy density without the memory effect. NiMH batteries powered the first generation of hybrid vehicles, including the original Toyota Prius (1997).
+NiCd batteries, commercialized in the 1950s, were the first practical rechargeable batteries for portable [electronics](/electronics). They suffered from the notorious "memory effect" — if you repeatedly recharged them before they were fully drained, they'd lose effective capacity. Nickel-metal hydride (NiMH) batteries, developed in the 1980s, offered higher energy density without the memory effect. NiMH batteries powered the first generation of hybrid vehicles, including the original Toyota Prius (1997).
 
 ### The Lithium-Ion Revolution
 
@@ -109,7 +109,7 @@ Sodium-ion batteries use sodium instead of lithium — and sodium is roughly 1,0
 
 Lithium-ion cells come in three physical formats, each with trade-offs:
 
-**Cylindrical cells** (like the 18650 and the larger 4680) are the most mature format. They're mechanically strong, easy to manufacture at high speed, and provide good thermal management because the gaps between cylindrical cells allow coolant to flow. Tesla has championed the 4680 format (46mm diameter, 80mm tall), which offers roughly 5x the energy of an 18650 cell and is cheaper to produce per kWh.
+**Cylindrical cells** (like the 18650 and the larger 4680) are the most mature format. They're mechanically strong, easy to manufacture at high speed, and provide good thermal [management](/management) because the gaps between cylindrical cells allow coolant to flow. Tesla has championed the 4680 format (46mm diameter, 80mm tall), which offers roughly 5x the energy of an 18650 cell and is cheaper to produce per kWh.
 
 **Prismatic cells** are rectangular cans, typically larger than cylindrical cells. They pack more efficiently (no gaps) but can be more prone to swelling as gases form during cycling. BMW, Volkswagen, and many Chinese manufacturers favor prismatic formats.
 
@@ -127,7 +127,7 @@ Battery cell manufacturing is a precision process with dozens of steps, typicall
 
 4. **Testing and grading:** Every cell is tested for capacity, internal resistance, and self-discharge rate. Cells are sorted into grades — matched cells go together in battery packs for consistency.
 
-A single gigafactory — like Tesla's facility in Nevada or CATL's plants in China — can produce 35-100 GWh of cells per year. To put that in perspective, 100 GWh is enough for roughly 1.2 million EVs with 80 kWh packs. Global battery manufacturing capacity exceeded 2,500 GWh in 2025, with China accounting for roughly 75% of global production.
+A single gigafactory — like Tesla's facility in Nevada or CATL's plants in China — can produce 35-100 GWh of cells per year. To put that in perspective, 100 GWh is enough for roughly 1.2 million EVs with 80 kWh packs. Global battery manufacturing capacity exceeded 2,500 GWh in 2025, with China [accounting](/accounting) for roughly 75% of global production.
 
 ## The Electric Vehicle Connection
 
@@ -185,4 +185,4 @@ Recycling will eventually reduce dependence on virgin mining. When millions of f
 
 Battery technology touches almost every part of modern life. Your phone, laptop, electric toothbrush, wireless headphones, power tools, and increasingly your car and your home's energy system all depend on batteries. The quality of these batteries — how much energy they store, how fast they charge, how long they last, how safe they are, and how much they cost — directly shapes what's possible.
 
-The gap between fossil fuels and batteries in energy density is still enormous. But it's shrinking. And for a growing number of applications — from grid storage to passenger vehicles to consumer electronics — batteries are already good enough to win on economics, even before you factor in environmental benefits. The next decade of battery research won't just improve gadgets. It will determine how quickly the world can shift away from fossil fuels for electricity and transportation — arguably the most consequential [engineering](/aerospace-engineering) challenge of the 21st century.
+The gap between fossil fuels and batteries in energy density is still enormous. But it's shrinking. And for a growing number of applications — from grid storage to passenger vehicles to consumer electronics — batteries are already good enough to win on [economics](/economics), even before you factor in environmental benefits. The next decade of battery research won't just improve gadgets. It will determine how quickly the world can shift away from fossil fuels for electricity and transportation — arguably the most consequential [engineering](/aerospace-engineering) challenge of the 21st century.

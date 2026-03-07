@@ -5,7 +5,7 @@ description: "The viola is a string instrument slightly larger than a violin, pr
 category: arts-amp-culture
 tags: ["viola", "string instruments", "orchestra", "music", "classical music", "chamber music"]
 heroImage: "/images/articles/viola.webp"
-heroAlt: "A viola resting on its side on a dark velvet cloth showing its warm wood grain"
+heroAlt: "Editorial photograph representing the concept of viola"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Viola?
 
-The viola is a string instrument in the violin family — slightly larger than a violin, tuned a fifth lower, and producing a warm, dark tone that sits between the violin's brightness and the cello's depth. It reads the alto clef (the only standard orchestral instrument that does), plays a vital harmonic role in ensembles, and has endured centuries of being the butt of orchestra jokes despite being genuinely beautiful to listen to.
+The viola is a string instrument in the [violin](/violin) family — slightly larger than a violin, tuned a fifth lower, and producing a warm, dark tone that sits between the violin's brightness and the cello's depth. It reads the alto clef (the only standard orchestral instrument that does), plays a vital harmonic role in ensembles, and has endured centuries of being the butt of orchestra jokes despite being genuinely beautiful to listen to.
 
 ## The Middle Child of Strings
 
-The viola's position in the string family is both its strength and its historical curse. It's not the violin (flashy, melodic, soloistic). It's not the cello (rich, singing, emotionally direct). The viola is the middle voice — the one that fills in the harmony, connects the high and low registers, and provides the warmth that makes a string quartet or an orchestra section sound full rather than hollow.
+The viola's position in the string family is both its strength and its historical curse. It's not the violin (flashy, melodic, soloistic). It's not the cello (rich, [singing](/singing), emotionally direct). The viola is the middle voice — the one that fills in the [harmony](/harmony), connects the high and low registers, and provides the warmth that makes a string quartet or an orchestra section sound full rather than hollow.
 
 This harmonic role meant that for centuries, viola parts were often simpler than violin parts. Composers gave violins the melodies and violas the accompanying figures. This led to a vicious cycle: less demanding parts attracted less ambitious players, which reinforced composers' tendency to write simple viola parts.
 
@@ -75,6 +75,6 @@ Viola technique is fundamentally similar to violin technique — the same bow gr
 
 A large percentage of violists started on violin. Many switched in school orchestra because the section needed players — a practical decision that often becomes a lifelong passion. The viola rewards its players with a distinctive voice, in-demand ensemble skills (good violists are always needed), and a repertoire that, while smaller than the violin's, includes extraordinary works.
 
-The viola community is notably tight-knit and enthusiastic. There's a shared identity forged partly through those orchestra jokes — which, for the record, violists can tell better than anyone. The running gag is that violists chose their instrument, while violinists just didn't quit soon enough.
+The viola community is notably tight-knit and enthusiastic. There's a shared identity forged partly through those orchestra jokes — which, for the record, violists can tell better than anyone. The [running](/running) gag is that violists chose their instrument, while violinists just didn't quit soon enough.
 
 Competition for professional positions is less fierce than for violin — there are fewer applicants per seat in most orchestras. Freelance violists who can also play violin are particularly employable because they can fill either section. And the chamber music world values the viola's voice specifically for its ability to connect, blend, and provide warmth that no other instrument quite matches.

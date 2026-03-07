@@ -5,7 +5,7 @@ description: "Genetics studies genes, heredity, and variation in living organism
 category: science
 tags: ["genetics", "genes", "dna", "heredity", "molecular biology", "biotechnology", "evolution"]
 heroImage: "/images/articles/genetics-hero.webp"
-heroAlt: "Illustration of a DNA double helix structure with highlighted gene segments and base pairs"
+heroAlt: "Editorial photograph representing the concept of genetics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Humans have 23 pairs of chromosomes — 46 total. You get one set of 23 from you
 
 ### DNA: The Molecule of Life
 
-But what are chromosomes made of? That question took decades to answer. In 1944, Oswald Avery demonstrated that DNA (deoxyribonucleic acid) carries genetic information. Then in 1953, James Watson and Francis Crick — building on crucial X-ray crystallography data from Rosalind Franklin — described DNA's structure: the famous double helix.
+But what are chromosomes made of? That question took decades to answer. In 1944, Oswald Avery demonstrated that DNA (deoxyribonucleic acid) carries genetic information. Then in 1953, James Watson and Francis Crick — building on crucial [X-ray crystallography](/x-ray-crystallography) data from Rosalind Franklin — described DNA's structure: the famous double helix.
 
 DNA is a long molecule made of two strands twisted around each other. Each strand is a chain of nucleotides, and each nucleotide contains one of four bases: adenine (A), thymine (T), guanine (G), or cytosine (C). The two strands are held together by base pairing — A always pairs with T, G always pairs with C. This complementary pairing is what makes DNA replication possible: unzip the two strands, and each acts as a template for building its partner.
 
@@ -69,7 +69,7 @@ A gene is a segment of DNA that contains instructions for building a specific pr
 
 The flow of genetic information generally follows what Francis Crick called the "central dogma": DNA makes RNA makes protein.
 
-**Transcription**: When a gene needs to be expressed, an enzyme called RNA polymerase reads the DNA template and builds a complementary messenger RNA (mRNA) molecule. This is like making a working copy of one recipe from a massive cookbook.
+**[Transcription](/transcription)**: When a gene needs to be expressed, an enzyme called RNA polymerase reads the DNA template and builds a complementary messenger RNA (mRNA) molecule. This is like making a working copy of one recipe from a massive cookbook.
 
 **Translation**: The mRNA travels to ribosomes — the cell's protein-building machinery — where transfer RNA (tRNA) molecules read the mRNA three bases at a time (called codons) and deliver the corresponding amino acids. The amino acids link together to form a protein.
 
@@ -200,7 +200,7 @@ Genetics is advancing at a pace that would have been unimaginable even 20 years 
 
 **Gene drives** — genetic systems that spread through populations faster than normal inheritance — could potentially eliminate malaria-carrying mosquitoes or invasive species. They could also cause ecological catastrophe if deployed recklessly.
 
-**Synthetic biology**, powered by [biotechnology](/biotechnology), is engineering entirely new genetic circuits and even creating organisms with synthetic genomes. In 2010, Craig Venter's team created the first cell controlled by a completely synthetic genome.
+**[Synthetic biology](/synthetic-biology)**, powered by [biotechnology](/biotechnology), is engineering entirely new genetic circuits and even creating organisms with synthetic genomes. In 2010, Craig Venter's team created the first cell controlled by a completely synthetic genome.
 
 **Polygenic risk scores** — combining information from thousands of genetic variants — are improving predictions for complex diseases. They're not crystal balls, but they're getting better at identifying people who would benefit from early screening or preventive interventions.
 
@@ -208,4 +208,4 @@ Genetics is advancing at a pace that would have been unimaginable even 20 years 
 
 The field moves fast. What's advanced today will be routine in five years. But the fundamental principles — DNA encodes information, genes are inherited in predictable patterns, mutations drive variation, and regulation determines expression — remain the foundation everything else builds on.
 
-Understanding genetics isn't just for scientists. It affects your healthcare decisions, your understanding of ancestry, your food choices, and increasingly, public policy debates about privacy, equity, and the ethics of modifying life itself. The more you know about how your genes work, the better equipped you are to make sense of a world increasingly shaped by genetic science.
+Understanding genetics isn't just for scientists. It affects your healthcare decisions, your understanding of ancestry, your food choices, and increasingly, [public policy](/public-policy) debates about privacy, equity, and the ethics of modifying life itself. The more you know about how your genes work, the better equipped you are to make sense of a world increasingly shaped by genetic science.

@@ -5,7 +5,7 @@ description: "Economics is the social science that studies how people, firms, an
 category: finance
 tags: ["economics", "scarcity", "microeconomics", "macroeconomics", "supply and demand", "opportunity cost", "economic policy"]
 heroImage: "/images/articles/economics-hero.webp"
-heroAlt: "Collage of economic symbols including currency, charts, supply chains, and market activity"
+heroAlt: "Editorial photograph representing the concept of economics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -85,7 +85,7 @@ Marginal thinking means making decisions based on the additional (marginal) bene
 
 This is how rational decisions get made—at the margin. Total value and average value are often irrelevant to the decision at hand.
 
-## Microeconomics: The Small Picture
+## [Microeconomics](/microeconomics): The Small Picture
 
 Microeconomics studies the behavior of individual agents—consumers, firms, and specific markets.
 
@@ -123,7 +123,7 @@ Markets don't always work well. Several systematic failures justify some form of
 
 **Asymmetric information** occurs when one party in a transaction knows more than the other. Sellers of used cars know their car's history; buyers don't. Insurance buyers know their health risks better than insurers. This information gap distorts markets, sometimes severely.
 
-## Macroeconomics: The Big Picture
+## [Macroeconomics](/macroeconomics): The Big Picture
 
 Macroeconomics studies the economy as a whole, focusing on aggregates like total output, general price levels, and overall employment.
 
@@ -145,7 +145,7 @@ What causes inflation? Two main mechanisms:
 
 **Cost-push inflation** occurs when production costs increase—oil price spikes, supply chain disruptions, wage increases—and businesses pass those costs to consumers through higher prices.
 
-The Federal Reserve fights inflation primarily through interest rates. Higher rates make borrowing more expensive, which reduces spending, which reduces demand pressure on prices. This works, but with a lag (monetary policy affects inflation 12-18 months later) and at a cost (higher rates also slow economic growth and increase unemployment).
+The Federal Reserve fights inflation primarily through interest rates. Higher rates make borrowing more expensive, which reduces spending, which reduces demand pressure on prices. This works, but with a lag ([monetary policy](/monetary-policy) affects inflation 12-18 months later) and at a cost (higher rates also slow economic growth and increase unemployment).
 
 ### Unemployment
 
@@ -175,7 +175,7 @@ No country is an island—economically speaking.
 
 ### Trade
 
-International trade allows countries to specialize in what they produce most efficiently and trade for everything else. The US exports aircraft, [machinery](/automotive-engineering), and services; it imports electronics, vehicles, and consumer goods.
+[International trade](/international-trade) allows countries to specialize in what they produce most efficiently and trade for everything else. The US exports aircraft, [machinery](/automotive-[engineering](/engineering)), and services; it imports [electronics](/electronics), vehicles, and consumer goods.
 
 Free trade increases total economic output, but the gains aren't evenly distributed. When a factory moves overseas, the workers who lose their jobs bear concentrated costs while consumers enjoy slightly lower prices—diffuse benefits. This tension between aggregate efficiency and distributional fairness drives trade policy debates in every country.
 
@@ -213,7 +213,7 @@ Economics has real blind spots worth acknowledging.
 
 It struggles with inequality. Standard theory can tell you whether total output increases but not whether the distribution is fair—"fair" is a value judgment that economics can inform but not resolve.
 
-It handles environmental issues awkwardly. The natural environment provides services—clean air, pollination, climate stability—that don't have market prices. Economists have developed methods for valuing these (contingent valuation, replacement cost), but the fit is imperfect.
+It handles environmental issues awkwardly. The natural environment provides services—clean air, [pollination](/pollination), climate stability—that don't have market prices. Economists have developed methods for valuing these (contingent valuation, replacement cost), but the fit is imperfect.
 
 It underestimates the role of power. Standard models assume competitive markets where no participant has outsized influence. In practice, corporations lobby for favorable regulations, wealthy individuals shape political outcomes, and market power concentrates. Political economy—the study of how economics and politics interact—addresses this but receives less attention than it deserves.
 

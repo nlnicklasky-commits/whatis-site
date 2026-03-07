@@ -5,7 +5,7 @@ description: "Medieval history covers the period from roughly 500 to 1500 CE in 
 category: everyday-concepts
 tags: ["medieval history", "Middle Ages", "feudalism", "history", "European history", "crusades"]
 heroImage: "/images/articles/medieval-history.webp"
-heroAlt: "Stone castle ruins on a hillside with medieval architectural details visible"
+heroAlt: "Editorial photograph representing the concept of medieval history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Medieval history — the history of the Middle Ages — covers roughly a thousand years of European civilization, from the collapse of the Western Roman Empire in the 5th century to the dawn of the Renaissance and Age of Exploration in the 15th century. It's the era of castles and cathedrals, knights and peasants, crusades and plagues, feudal lords and monastic scholars.
 
-It's also been spectacularly misunderstood. Popular culture gives us either "dark ages" of ignorance and filth or a romanticized fantasy of noble knights and fair maidens. The reality was more interesting than either version — a period of genuine intellectual achievement, brutal violence, remarkable art, and social structures so different from our own that understanding them requires real effort.
+It's also been spectacularly misunderstood. [Popular culture](/popular-culture) gives us either "dark ages" of ignorance and filth or a romanticized fantasy of noble knights and fair maidens. The reality was more interesting than either version — a period of genuine intellectual achievement, brutal violence, remarkable art, and social structures so different from our own that understanding them requires real effort.
 
 ## The Early Middle Ages (500-1000)
 
 After Rome fell, Western Europe fragmented into smaller kingdoms ruled by Germanic peoples — Franks, Visigoths, Ostrogoths, Anglo-Saxons, and others. Central authority collapsed. Trade networks broke down. Cities shrank. Literacy declined outside the Church.
 
-But "collapse" doesn't mean "nothing happened." The early medieval period produced Charlemagne's Carolingian Empire (the largest Western European state since Rome), the spread of Christianity to northern Europe, the preservation of classical texts in monasteries (without which we'd have lost most of Greek and Roman literature), and the development of new agricultural techniques that would eventually support population growth.
+But "collapse" doesn't mean "nothing happened." The early medieval period produced Charlemagne's Carolingian Empire (the largest Western European state since Rome), the spread of [Christianity](/christianity) to northern Europe, the preservation of classical texts in monasteries (without which we'd have lost most of Greek and Roman [literature](/literature)), and the development of new agricultural techniques that would eventually support population growth.
 
 The Viking Age (roughly 793-1066) brought Norse raiders, traders, and settlers across Europe, from Ireland to Russia. Vikings founded Dublin, established the Kievan Rus state, colonized Iceland and Greenland, and briefly reached North America — 500 years before Columbus.
 
@@ -47,15 +47,15 @@ The Viking Age (roughly 793-1066) brought Norse raiders, traders, and settlers a
 
 This is when medieval Europe hit its stride. Population grew. Cities expanded. Trade revived. And a series of institutions emerged that would shape European civilization for centuries:
 
-**The feudal system.** Kings granted land to nobles, who granted land to lesser nobles, who ruled over peasants. Military obligation flowed upward; land and protection flowed downward. It wasn't as tidy as textbooks suggest — disputes over who owed what to whom were constant — but it provided a workable framework for organizing society without a strong central government.
+**The feudal system.** Kings granted land to nobles, who granted land to lesser nobles, who ruled over peasants. Military obligation flowed upward; land and protection flowed downward. It wasn't as tidy as textbooks suggest — disputes over who owed what to whom were constant — but it provided a workable framework for organizing society without a strong central [government](/government).
 
 **The Church.** The Catholic Church was the single most powerful institution in medieval Europe. It provided the shared cultural framework (Christianity), the educational system (cathedral and monastic schools, then universities), the legal system (canon law), the welfare system (hospitals, almshouses), and much of the artistic and architectural patronage. Popes and kings struggled for supremacy throughout the period.
 
-**Universities.** Bologna (1088), Paris (circa 1150), and Oxford (1096-1167) were among the first universities. They taught theology, law, medicine, and the liberal arts. Scholasticism — the rigorous application of logical reasoning to theological questions — produced thinkers like Thomas Aquinas, whose synthesis of Aristotelian philosophy and Christian theology remains influential.
+**Universities.** Bologna (1088), Paris (circa 1150), and Oxford (1096-1167) were among the first universities. They taught theology, law, medicine, and the liberal arts. [Scholasticism](/scholasticism) — the rigorous application of logical reasoning to theological questions — produced thinkers like Thomas Aquinas, whose synthesis of Aristotelian [philosophy](/philosophy) and Christian theology remains influential.
 
-**Gothic architecture.** The great cathedrals — Chartres, Notre-Dame, Canterbury, Cologne — are among humanity's most impressive architectural achievements. Flying buttresses allowed walls of stained glass that filled interiors with colored light. These buildings took decades or centuries to complete and remain standing nearly a thousand years later.
+**[Gothic architecture](/gothic-[architecture](/architecture)).** The great cathedrals — Chartres, Notre-Dame, Canterbury, Cologne — are among humanity's most impressive architectural achievements. Flying buttresses allowed walls of [stained glass](/stained-glass) that filled interiors with colored light. These buildings took decades or centuries to complete and remain standing nearly a thousand years later.
 
-**The Crusades** (1095-1291). Military campaigns to recapture the Holy Land from Muslim control. They were violent, politically complex, and culturally consequential — introducing Europeans to Arabic science, mathematics, and philosophy, and dramatically worsening Christian-Muslim relations for centuries to come.
+**The Crusades** (1095-1291). Military campaigns to recapture the Holy Land from Muslim control. They were violent, politically complex, and culturally consequential — introducing Europeans to Arabic science, [mathematics](/mathematics), and philosophy, and dramatically worsening Christian-Muslim relations for centuries to come.
 
 ## The Late Middle Ages (1300-1500)
 
@@ -69,7 +69,7 @@ But the late Middle Ages also produced remarkable cultural achievements. Dante w
 
 ## Daily Life
 
-For the roughly 90% of medieval Europeans who were peasants, daily life revolved around agriculture. You worked the lord's land and your own small plots. You ate bread, porridge, peas, beans, and (if you were lucky) some meat and cheese. You attended church regularly. Your world extended about as far as you could walk in a day.
+For the roughly 90% of medieval Europeans who were peasants, daily life revolved around [agriculture](/agriculture). You worked the lord's land and your own small plots. You ate bread, porridge, peas, beans, and (if you were lucky) some meat and cheese. You attended church regularly. Your world extended about as far as you could walk in a day.
 
 Life expectancy was low — roughly 30-35 years on average, though this is skewed by high infant mortality. If you survived childhood, living to 50 or 60 was common. Medical knowledge was limited, hygiene was poor by modern standards, and famine and epidemic disease were constant threats.
 

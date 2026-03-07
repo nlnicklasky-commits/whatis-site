@@ -5,7 +5,7 @@ description: "Sikhism is a monotheistic religion founded in 15th-century Punjab 
 category: philosophy
 tags: ["sikhism", "religion", "guru nanak", "punjab", "monotheism", "equality", "spirituality"]
 heroImage: "/images/articles/sikhism-hero.webp"
-heroAlt: "The Golden Temple (Harmandir Sahib) in Amritsar reflected in the surrounding sacred pool"
+heroAlt: "Editorial photograph representing the concept of sikhism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -69,17 +69,17 @@ Sikhism developed through a succession of ten human Gurus spanning from 1469 to 
 
 **Guru Nanak Dev Ji (1469-1539)** — Founded the faith. Composed the foundational hymns. Established the practices of sangat (congregation), pangat (eating together), and kirtan (devotional singing).
 
-**Guru Angad Dev Ji (1504-1552)** — Standardized the Gurmukhi script (used to write Punjabi and the Sikh scriptures). Promoted physical fitness and wrestling (*mall akhara*) alongside spiritual practice — the idea that body and spirit are both gifts to be developed.
+**Guru Angad Dev Ji (1504-1552)** — Standardized the Gurmukhi script (used to write Punjabi and the Sikh scriptures). Promoted physical fitness and [wrestling](/wrestling) (*mall akhara*) alongside spiritual practice — the idea that body and spirit are both gifts to be developed.
 
 **Guru Amar Das Ji (1479-1574)** — Institutionalized the langar, requiring even Emperor Akbar to sit on the floor and eat with common people before receiving an audience. Fought against the practice of sati (widow immolation) and advocated for women's rights to remarry.
 
-**Guru Ram Das Ji (1534-1581)** — Founded the city of Amritsar ("pool of nectar") and began construction of the sacred pool around which the Golden Temple would later be built. Composed the Lavan, the Sikh wedding hymn still used in every Sikh marriage ceremony.
+**Guru Ram Das Ji (1534-1581)** — Founded the city of Amritsar ("pool of nectar") and began [construction](/construction) of the sacred pool around which the Golden Temple would later be built. Composed the Lavan, the Sikh wedding hymn still used in every Sikh marriage ceremony.
 
 **Guru Arjan Dev Ji (1563-1606)** — Compiled the first edition of the Adi Granth (the precursor to the Guru Granth Sahib), gathering compositions from the previous Gurus alongside works by Hindu and Muslim saints. Completed the construction of Harmandir Sahib (the Golden Temple). Was martyred by the Mughal Emperor Jahangir — the first Sikh martyr.
 
 **Guru Hargobind Ji (1595-1644)** — Introduced the concept of *miri-piri*: that spiritual authority (*piri*) and temporal/political authority (*miri*) are inseparable. He wore two swords representing these twin authorities. This was a turning point — the Sikh community began developing a political and military dimension alongside its spiritual core.
 
-**Guru Har Rai Ji (1630-1661)** — Maintained a large cavalry and emphasized environmental stewardship, reportedly running an extensive herbal medicine dispensary and animal sanctuary.
+**Guru Har Rai Ji (1630-1661)** — Maintained a large cavalry and emphasized environmental stewardship, reportedly running an extensive [herbal medicine](/herbal-medicine) dispensary and animal sanctuary.
 
 **Guru Har Krishan Ji (1656-1664)** — Became Guru at age five and died of smallpox at eight, after reportedly tending to Delhi's sick during an epidemic. The youngest Guru, revered for his compassion.
 
@@ -127,7 +127,7 @@ Sikh theology is expressed most concisely in the *Mool Mantar* — the opening l
 
 *Ik Onkar Sat Naam Kartaa Purakh Nirbhau Nirvair Akaal Moorat Ajoonee Saibhang Gur Prasaad*
 
-Translation: "One Creator. Truth is the Name. Creative Being. Without Fear. Without Hatred. Timeless Form. Beyond Birth. Self-Existent. By the Guru's Grace."
+[Translation](/translation): "One Creator. Truth is the Name. Creative Being. Without Fear. Without Hatred. Timeless Form. Beyond Birth. Self-Existent. By the Guru's Grace."
 
 This encapsulates the Sikh understanding of God:
 
@@ -135,7 +135,7 @@ This encapsulates the Sikh understanding of God:
 
 **Immanent and transcendent simultaneously.** God is within creation (you can experience the divine in nature, in other people, in yourself) and beyond it (God exceeds anything that exists). This resolves the tension between pantheism and theism by embracing both.
 
-**Knowable through inner experience.** Sikhs don't rely on priests or intermediaries. Each person can experience God directly through meditation, devotion, and ethical living. The Guru Granth Sahib provides guidance, but the experience itself is personal.
+**Knowable through inner experience.** Sikhs don't rely on priests or intermediaries. Each person can experience God directly through [meditation](/meditation), devotion, and ethical living. The Guru Granth Sahib provides guidance, but the experience itself is personal.
 
 ### The Five Thieves
 
@@ -169,7 +169,7 @@ Worship services (*diwan*) center on kirtan — the singing of hymns from the Gu
 
 Every Gurdwara operates a langar — a free community kitchen that serves meals to anyone who walks in, regardless of religion, caste, wealth, or social status. Everyone sits together on the floor (*pangat*), eating the same vegetarian food.
 
-The Golden Temple's langar in Amritsar is the world's largest free kitchen, serving 50,000-100,000 meals daily. It operates 24 hours a day, 365 days a year, run almost entirely by volunteers. The logistics are remarkable: tons of flour, vegetables, and dal are prepared daily in massive pots, with an assembly line of volunteers cooking, serving, and cleaning.
+The Golden Temple's langar in Amritsar is the world's largest free kitchen, serving 50,000-100,000 meals daily. It operates 24 hours a day, 365 days a year, run almost entirely by volunteers. The [logistics](/logistics) are remarkable: tons of flour, vegetables, and dal are prepared daily in massive pots, with an assembly line of volunteers cooking, serving, and cleaning.
 
 Langar isn't charity — it's equality made physical. When a billionaire and a homeless person sit on the same floor eating the same food, abstract ideals about equality become concrete experience. This was Guru Nanak's genius: don't just preach equality, practice it at every meal.
 
@@ -177,9 +177,9 @@ Langar isn't charity — it's equality made physical. When a billionaire and a h
 
 Seva — voluntary service without expectation of reward — is a central Sikh practice. It can take any form: cooking in the langar, cleaning the Gurdwara, teaching, providing medical care, helping in disaster relief, or any act of service to the community.
 
-Sikh disaster response is remarkable. After natural disasters, Sikh organizations are often among the first to arrive with mobile kitchens, feeding affected communities regardless of faith. After Hurricane Harvey, the Sikh community set up langars in Houston within 24 hours. After the 2020 Delhi protests, Sikh volunteers fed thousands of demonstrators daily. This isn't organized charity in the Western NGO sense — it's spontaneous community mobilization driven by the seva ethic.
+Sikh disaster response is remarkable. After [natural disasters](/natural-disasters), Sikh organizations are often among the first to arrive with mobile kitchens, feeding affected communities regardless of faith. After Hurricane Harvey, the Sikh community set up langars in Houston within 24 hours. After the 2020 Delhi protests, Sikh volunteers fed thousands of demonstrators daily. This isn't organized charity in the Western NGO sense — it's spontaneous community mobilization driven by the seva ethic.
 
-## Sikhism and Social Justice
+## Sikhism and [Social Justice](/social-justice)
 
 Sikhism was born fighting inequality, and that fight continues.
 
@@ -195,7 +195,7 @@ Sikhism was born fighting inequality, and that fight continues.
 
 The Sikh diaspora has created thriving communities worldwide, particularly in Canada (where Sikhs make up about 2.1% of the population — the highest proportion outside India), the United Kingdom, the United States, Australia, and East Africa.
 
-Diaspora Sikhs have achieved remarkable prominence: Canada has had Sikh cabinet ministers and a Sikh leader of the NDP (a major political party). British Sikhs serve in Parliament and hold leadership positions across business, law, and medicine. In the United States, Nikki Haley (born Nimrata Randhawa to Sikh immigrant parents) served as governor of South Carolina and U.S. Ambassador to the United Nations.
+Diaspora Sikhs have achieved remarkable prominence: Canada has had Sikh cabinet ministers and a Sikh leader of the NDP (a major political party). British Sikhs serve in Parliament and hold [leadership](/leadership) positions across business, law, and medicine. In the United States, Nikki Haley (born Nimrata Randhawa to Sikh immigrant parents) served as governor of South Carolina and U.S. Ambassador to the United Nations.
 
 The diaspora also faces challenges. Sikh identity — particularly the turban — makes Sikhs visually distinctive, which has led to hate crimes and discrimination, especially after 9/11. The 2012 shooting at a Sikh Gurdwara in Oak Creek, Wisconsin, killed six worshippers. Mistaken identification as Muslims compounds the problem, though Sikh organizations note that the issue is bigotry itself, not merely mistaken identity.
 
@@ -203,7 +203,7 @@ The diaspora also faces challenges. Sikh identity — particularly the turban �
 
 The Sikh community faces both external challenges and internal debates.
 
-The legacy of 1984 — when the Indian government's Operation Blue Star stormed the Golden Temple to remove armed militants, and the subsequent anti-Sikh riots killed thousands — remains a profound wound. The demand for accountability and the question of Sikh political autonomy continue to shape internal community discussions and Sikh-Indian government relations.
+The legacy of 1984 — when the Indian [government](/government)'s Operation Blue Star stormed the Golden Temple to remove armed militants, and the subsequent anti-Sikh riots killed thousands — remains a profound wound. The demand for accountability and the question of Sikh political autonomy continue to shape internal community discussions and Sikh-Indian government relations.
 
 Internal debates include the role of caste (still present in practice despite theological rejection), the status of women (equal in scripture but not always in community practice), and how to maintain Sikh identity and practice in increasingly secular, globalized societies.
 

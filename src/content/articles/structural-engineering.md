@@ -5,7 +5,7 @@ description: "Structural engineering is the branch of engineering that designs b
 category: technology
 tags: ["engineering", "structural engineering", "construction", "civil engineering", "architecture", "materials science"]
 heroImage: "/images/articles/structural-engineering.webp"
-heroAlt: "A steel-framed building under construction with workers and cranes visible against a blue sky"
+heroAlt: "Editorial photograph representing the concept of structural engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,9 +53,9 @@ Understanding loads — the forces that act on structures — is where structura
 
 ### Dead Loads
 
-Dead loads are the permanent, constant weight of the structure itself: the steel beams, concrete slabs, walls, roofing, flooring, and all fixed equipment. These loads don't change over the structure's life (assuming you don't add floors to the building, which people occasionally try to do with unfortunate results).
+Dead loads are the permanent, constant weight of the structure itself: the steel beams, concrete slabs, walls, [roofing](/roofing), flooring, and all fixed equipment. These loads don't change over the structure's life (assuming you don't add floors to the building, which people occasionally try to do with unfortunate results).
 
-Dead loads are the most predictable type of loading and can be calculated accurately from construction drawings and material densities. A cubic meter of reinforced concrete weighs about 2,400 kg. A cubic meter of structural steel weighs about 7,850 kg. The structural engineer adds up the weight of every component and traces how gravity pulls it downward through the structure.
+Dead loads are the most predictable type of loading and can be calculated accurately from [construction](/construction) drawings and material densities. A cubic meter of reinforced concrete weighs about 2,400 kg. A cubic meter of structural steel weighs about 7,850 kg. The structural engineer adds up the weight of every component and traces how gravity pulls it downward through the structure.
 
 ### Live Loads
 
@@ -79,13 +79,13 @@ A critical concept is resonance. If the earthquake's dominant frequency matches 
 
 ### Other Loads
 
-**Snow loads** depend on climate, roof geometry, and whether snow can drift and accumulate. **Temperature changes** cause materials to expand and contract, generating forces in restrained structures. **Foundation settlement** — the gradual sinking of the ground under a structure — induces stresses if different parts settle by different amounts. **Impact loads** from vehicle collisions, falling objects, or explosions. **Hydrostatic pressure** from water against retaining walls, dams, and basements.
+**Snow loads** depend on climate, roof [geometry](/geometry), and whether snow can drift and accumulate. **Temperature changes** cause materials to expand and contract, generating forces in restrained structures. **Foundation settlement** — the gradual sinking of the ground under a structure — induces stresses if different parts settle by different amounts. **Impact loads** from vehicle collisions, falling objects, or explosions. **Hydrostatic pressure** from water against retaining walls, dams, and basements.
 
 Structural engineers must consider load combinations — multiple loads acting simultaneously. A building might experience dead load plus live load plus wind at the same time. Codes specify which combinations to check and what probability factors to apply.
 
 ## Structural Systems
 
-Different structures use different systems to carry loads. The choice depends on the building's height, span, function, materials, aesthetics, and budget.
+Different structures use different systems to carry loads. The choice depends on the building's height, span, function, materials, [aesthetics](/aesthetics), and budget.
 
 ### Frame Systems
 
@@ -113,7 +113,7 @@ Roof trusses span large spaces without interior columns. Bridge trusses carry tr
 
 ### Cable and Suspension Systems
 
-Cables carry loads in pure tension, which is the most efficient use of material (the entire cross-section carries stress uniformly). Suspension bridges use main cables draped between towers to support the deck through vertical hangers. Cable-stayed bridges use cables running directly from towers to the deck.
+Cables carry loads in pure tension, which is the most efficient use of material (the entire cross-section carries stress uniformly). Suspension bridges use main cables draped between towers to support the deck through vertical hangers. Cable-stayed bridges use cables [running](/running) directly from towers to the deck.
 
 The longest suspension bridge span is the 1915 Canakkale Bridge in Turkey (2,023 meters). These structures are marvels of structural engineering — they carry enormous loads using relatively small amounts of material by exploiting the efficiency of tension.
 
@@ -155,13 +155,13 @@ Software packages like SAP2000, ETABS, ANSYS, and ABAQUS allow engineers to crea
 
 But here's what experienced structural engineers know: the computer will cheerfully give you a precise wrong answer if you feed it a bad model. Garbage in, garbage out applies with particular force in structural engineering, where the consequences of errors are severe. Understanding structural behavior — knowing intuitively how forces flow, where stress concentrations occur, and which failure modes govern — remains essential, even (especially) in an age of powerful software.
 
-Building Information Modeling (BIM) takes this further, integrating structural analysis with architectural design, mechanical systems, and construction planning in a single 3D model. Clash detection — finding where structural elements conflict with ductwork or plumbing — happens digitally before construction, not on the job site.
+Building Information Modeling (BIM) takes this further, integrating structural analysis with architectural design, mechanical systems, and construction planning in a single 3D model. Clash detection — finding where structural elements conflict with ductwork or [plumbing](/plumbing) — happens digitally before construction, not on the job site.
 
 ## Notable Structural Failures and Lessons
 
 Structural engineering advances partly through success and partly through failure. Major failures drive code changes, research, and improved practice.
 
-The **Tacoma Narrows Bridge** (1940) collapsed due to wind-induced aeroelastic flutter — the bridge's deck oscillated with increasing amplitude until it tore itself apart. The failure led to fundamental changes in bridge aerodynamics and the requirement for wind tunnel testing.
+The **Tacoma Narrows Bridge** (1940) collapsed due to wind-induced aeroelastic flutter — the bridge's deck oscillated with increasing amplitude until it tore itself apart. The failure led to fundamental changes in bridge [aerodynamics](/aerodynamics) and the requirement for wind tunnel testing.
 
 The **Ronan Point apartment tower** (1968, London) suffered a progressive collapse when a gas explosion blew out a load-bearing wall panel on the 18th floor, causing floors above to collapse sequentially. This event introduced the concept of structural robustness — designing structures so that local failure doesn't trigger global collapse.
 

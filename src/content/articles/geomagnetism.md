@@ -5,7 +5,7 @@ description: "Geomagnetism is the study of Earth's magnetic field — its origin
 category: science
 tags: ["geomagnetism", "earth's magnetic field", "geophysics", "solar wind", "magnetosphere", "magnetic poles", "space weather"]
 heroImage: "/images/articles/geomagnetism-hero.webp"
-heroAlt: "Visualization of Earth's magnetic field lines extending from pole to pole with the magnetosphere deflecting solar wind"
+heroAlt: "Editorial photograph representing the concept of geomagnetism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -59,7 +59,7 @@ The outer core is in constant motion. Heat from the inner core (which releases l
 
 These flowing currents of molten iron — an excellent electrical conductor — generate electric currents. Those currents, in turn, generate magnetic fields. And here's the self-sustaining part: the magnetic fields influence the fluid flow, which generates more current, which sustains the magnetic field. This self-exciting dynamo is called the geodynamo.
 
-The geodynamo has been running for at least 3.5 billion years — possibly longer. Computer simulations of the geodynamo are among the most computationally demanding calculations in geophysics, requiring enormous supercomputer resources to model the turbulent, rotating, magnetized fluid dynamics of the outer core. These simulations — efforts in [computational physics](/computational-physics) at their most extreme — successfully reproduce many observed features of Earth's field, including its overall structure, its secular variation, and even spontaneous reversals.
+The geodynamo has been running for at least 3.5 billion years — possibly longer. Computer simulations of the geodynamo are among the most computationally demanding calculations in geophysics, requiring enormous supercomputer resources to model the turbulent, rotating, magnetized [fluid dynamics](/fluid-dynamics) of the outer core. These simulations — efforts in [computational physics](/computational-physics) at their most extreme — successfully reproduce many observed features of Earth's field, including its overall structure, its secular variation, and even spontaneous reversals.
 
 ## The Structure of Earth's Magnetic Field
 
@@ -111,7 +111,7 @@ Paleomagnetism — studying ancient magnetic fields recorded in rocks — has be
 
 When rocks form, their magnetic minerals record both the direction and inclination of the ambient field. The inclination tells you the latitude at which the rock formed (the field is vertical at the poles, horizontal at the equator, and at intermediate angles in between). By measuring the paleomagnetism of rocks of different ages from the same continent, geologists can track how that continent's latitude has changed over time.
 
-This paleomagnetic evidence was crucial for confirming plate tectonics. Rocks from Britain, for example, show that the British Isles were near the equator 400 million years ago, drifting northward over hundreds of millions of years. Indian rocks show the subcontinent racing northward from near the South Pole to its current position, colliding with Asia along the way.
+This paleomagnetic evidence was crucial for confirming [plate tectonics](/plate-tectonics). Rocks from Britain, for example, show that the British Isles were near the equator 400 million years ago, drifting northward over hundreds of millions of years. Indian rocks show the subcontinent racing northward from near the South Pole to its current position, colliding with Asia along the way.
 
 ### Apparent Polar Wander
 
@@ -129,7 +129,7 @@ Geomagnetic storms aren't just pretty lights. They have serious technological co
 
 **Power grids**: Geomagnetically induced currents (GICs) flow through long conductors — power transmission lines, pipelines, submarine cables. In 1989, a geomagnetic storm caused a cascading failure of the Hydro-Quebec power system, blacking out the entire province of Quebec for 9 hours, affecting 6 million people. A 2013 Lloyd's of London study estimated that a repeat of the 1859 Carrington Event (the strongest recorded geomagnetic storm) could cause $0.6-2.6 trillion in damages to the US power grid alone.
 
-**Satellites**: Energetic particles during storms damage satellite electronics, degrade solar panels, and can disable satellites entirely. Storm-driven atmospheric expansion increases drag on low-orbit satellites, altering their orbits unpredictably. SpaceX lost 40 Starlink satellites in February 2022 when a geomagnetic storm increased atmospheric drag during their initial orbit-raising maneuvers.
+**Satellites**: Energetic particles during storms damage satellite [electronics](/electronics), degrade solar panels, and can disable satellites entirely. Storm-driven atmospheric expansion increases drag on low-orbit satellites, altering their orbits unpredictably. SpaceX lost 40 Starlink satellites in February 2022 when a geomagnetic storm increased atmospheric drag during their initial orbit-raising maneuvers.
 
 **Communications and navigation**: Ionospheric disturbances during storms degrade GPS accuracy and disrupt high-frequency radio communications — particularly affecting aviation communications on polar routes.
 
@@ -149,7 +149,7 @@ Beyond fundamental science, geomagnetism has numerous practical uses.
 
 **Mineral exploration**: Magnetic surveys — from aircraft, ground stations, or satellites — detect variations in crustal magnetism that indicate different rock types and geological structures. These surveys help locate ore deposits, map buried geological contacts, and identify faults concealed beneath surface cover.
 
-**Archaeology**: Archaeomagnetic dating uses the known history of magnetic field changes to date archaeological features — kilns, hearths, burned structures — that acquired a magnetic signature when they were last heated. The technique complements radiocarbon dating and is particularly useful for dating pottery and fired structures.
+**[Archaeology](/archaeology)**: Archaeomagnetic dating uses the known history of magnetic field changes to date archaeological features — kilns, hearths, burned structures — that acquired a magnetic signature when they were last heated. The technique complements [radiocarbon dating](/radiocarbon-dating) and is particularly useful for dating pottery and fired structures.
 
 **Animal navigation**: Numerous species — from bacteria to birds to whales — sense and use the magnetic field for orientation and navigation. Understanding how they do this remains one of biology's intriguing mysteries. The leading hypothesis for birds involves a quantum mechanical process in a protein called cryptochrome in the retina — meaning birds might literally see the magnetic field as a visual overlay on their surroundings.
 
@@ -165,4 +165,4 @@ Several big questions drive current research.
 
 **How did the early magnetic field form?** The oldest paleomagnetic evidence suggests a field existed 3.5 billion years ago or earlier, but the energy sources driving the early dynamo — before the inner core started solidifying — remain debated.
 
-Geomagnetism connects [astronomy](/astronomy) (solar wind interactions) to [astrophysics](/astrophysics) (planetary dynamos) to geology (paleomagnetism and tectonics) to [chemistry](/chemistry) (core composition) to biology (animal navigation) to engineering (space weather effects). It's a field where quantum mechanics meets planetary physics, where ancient rocks tell stories about a restless, churning iron heart deep beneath our feet, and where understanding a phenomenon you can't see or feel turns out to be critical for protecting the technology-dependent civilization we've built on Earth's surface.
+Geomagnetism connects [astronomy](/astronomy) (solar wind interactions) to [astrophysics](/astrophysics) (planetary dynamos) to geology (paleomagnetism and tectonics) to [chemistry](/chemistry) (core composition) to biology (animal navigation) to engineering (space weather effects). It's a field where [quantum mechanics](/quantum-mechanics) meets planetary physics, where ancient rocks tell stories about a restless, churning iron heart deep beneath our feet, and where understanding a phenomenon you can't see or feel turns out to be critical for protecting the technology-dependent civilization we've built on Earth's surface.

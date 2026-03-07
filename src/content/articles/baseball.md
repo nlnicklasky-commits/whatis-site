@@ -5,7 +5,7 @@ description: "Baseball is a bat-and-ball team sport played between two teams of 
 category: everyday-concepts
 tags: ["baseball", "sports", "mlb", "bat-and-ball", "team sports", "pitching"]
 heroImage: "/images/articles/baseball.webp"
-heroAlt: "Baseball player at bat in a packed stadium with the pitcher in the background winding up"
+heroAlt: "Editorial photograph representing the concept of baseball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Baseball is a bat-and-ball sport played between two teams of nine players on a diamond-shaped field. One team bats (tries to hit a thrown ball and run around four bases to score runs) while the other pitches and fields (tries to get batters out). After nine innings of alternating offense and defense, the team with more runs wins.
 
-## Origins and Mythology
+## Origins and [Mythology](/mythology)
 
 The popular myth that Abner Doubleday invented baseball in Cooperstown, New York, in 1839 is exactly that — a myth. Baseball evolved gradually from various bat-and-ball games, primarily the English game of rounders and the American game of town ball. The first recorded baseball rules were written by Alexander Cartwright and the Knickerbocker Base Ball Club in 1845.
 
@@ -63,7 +63,7 @@ Stolen bases require reading the pitcher's movements, explosive acceleration, an
 
 ## The Analytics Revolution
 
-Baseball was the first major sport to be transformed by data analysis. The "Moneyball" approach, pioneered by the Oakland Athletics' front office in the early 2000s (and immortalized in Michael Lewis's 2003 book), used [statistical analysis](/statistics) to identify undervalued players and strategies.
+Baseball was the first major sport to be transformed by [data analysis](/data-analysis). The "Moneyball" approach, pioneered by the Oakland [Athletics](/athletics)' front office in the early 2000s (and immortalized in Michael Lewis's 2003 book), used [statistical analysis](/statistics) to identify undervalued players and strategies.
 
 Concepts that were once radical — on-base percentage matters more than batting average, strikeouts for pitchers matter less than preventing hard contact, launch angle and exit velocity predict hitting outcomes — are now mainstream. Every MLB team employs analysts, and technology like Statcast tracks the speed, spin, and trajectory of every pitch and batted ball in real time.
 
@@ -83,8 +83,8 @@ Japan's baseball culture is particularly intense. High school baseball tournamen
 
 ## Why Baseball Endures
 
-Baseball is slower than football, less continuous than basketball, and less dramatic moment-to-moment than soccer. Its critics call it boring. Its fans call it meditative.
+Baseball is slower than football, less continuous than [basketball](/basketball), and less dramatic moment-to-moment than [soccer](/soccer). Its critics call it boring. Its fans call it meditative.
 
-The sport's pace creates space for anticipation, conversation, and attention to detail that faster sports don't allow. Every pitch carries strategic weight. Every at-bat is a self-contained drama. And because teams play 162 games, the season unfolds like a novel rather than a short story — with subplots, character arcs, and a slow build toward October.
+The sport's pace creates space for anticipation, conversation, and attention to detail that faster sports don't allow. Every pitch carries strategic weight. Every at-bat is a self-contained [drama](/drama). And because teams play 162 games, the season unfolds like a novel rather than a short story — with subplots, character arcs, and a slow build toward October.
 
 The statistics add a layer that other sports can't match. Baseball has been tracking detailed individual performance data since the 1870s, creating a historical record that lets you compare players across eras with reasonable precision. Whether Ted Williams or Mike Trout was the better hitter is a question you can actually analyze — and argue about endlessly.

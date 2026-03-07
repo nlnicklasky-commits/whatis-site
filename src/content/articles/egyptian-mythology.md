@@ -5,7 +5,7 @@ description: "Egyptian mythology is the collection of myths, gods, and rituals f
 category: history
 tags: ["egyptian mythology", "ancient egypt", "mythology", "gods", "afterlife"]
 heroImage: "/images/articles/egyptian-mythology.webp"
-heroAlt: "Ancient Egyptian wall painting showing gods Osiris, Isis, and Horus with hieroglyphic inscriptions"
+heroAlt: "Editorial photograph representing the concept of egyptian mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Egyptian gods were often depicted with animal heads on human bodies (or sometimes full animal forms) because Egyptians associated specific animals with divine qualities. Horus had a falcon head because falcons were associated with the sky and kingship. Anubis had a jackal head because jackals were seen near cemeteries and associated with death. Thoth had an ibis head linked to wisdom. These weren't costumes — Egyptians understood that gods could manifest in many forms. The animal-human hybrid form was an artistic convention for representing divine beings whose true nature was beyond human comprehension."
 ---
 
-# What Is Egyptian Mythology?
+# What Is Egyptian [Mythology](/mythology)?
 
 Egyptian mythology is the body of myths, religious beliefs, and ritual practices developed by the ancient Egyptians over more than 3,000 years (roughly 3100 BCE to 30 BCE). It explained the creation of the world, the cycles of nature, the structure of the cosmos, and — perhaps most importantly — what happened after death.
 
@@ -41,7 +41,7 @@ Egyptian mythology is the body of myths, religious beliefs, and ritual practices
 
 Here's the first thing to understand about Egyptian mythology: it was never a single, unified system. There was no Egyptian Bible, no canonical version of the myths that everyone agreed on. Different cities had different creation stories. Different eras elevated different gods. Myths contradicted each other freely, and the Egyptians were apparently fine with that.
 
-This is confusing if you approach Egyptian mythology expecting the neat narrative structure of Greek mythology. Greek myths read like novels. Egyptian myths read more like a religious encyclopedia that was edited by different committees over three millennia — because that's essentially what they were.
+This is confusing if you approach Egyptian mythology expecting the neat narrative structure of [Greek mythology](/greek-mythology). Greek myths read like novels. Egyptian myths read more like a religious encyclopedia that was edited by different committees over three millennia — because that's essentially what they were.
 
 The sources we have include pyramid texts (the oldest religious texts in the world, carved inside pyramids starting around 2400 BCE), coffin texts (painted inside coffins during the Middle Kingdom), the Book of the Dead (New Kingdom papyrus scrolls), temple inscriptions, hymns, and magical spells. Piecing together a coherent mythology from these scattered sources is a bit like reconstructing a television series from randomly selected episodes.
 
@@ -79,11 +79,11 @@ The myth of Osiris is the closest thing Egyptian mythology has to a central narr
 
 Horus grew up in hiding and eventually challenged Set for the throne of Egypt. Their conflict (which involved some truly bizarre episodes — Set at one point tries to assault Horus, and Horus retaliates by tricking Set into eating lettuce contaminated with Horus's seed) was resolved by a tribunal of gods that awarded the kingship to Horus.
 
-This myth was central to Egyptian political theology. Every living pharaoh was identified with Horus; every dead pharaoh became Osiris. The myth justified the monarchy, explained death and resurrection, and provided the template for funerary rites.
+This myth was central to Egyptian political [theology](/theology). Every living pharaoh was identified with Horus; every dead pharaoh became Osiris. The myth justified the [monarchy](/monarchy), explained death and resurrection, and provided the template for funerary rites.
 
 ### Other Major Deities
 
-**Thoth** — ibis-headed god of wisdom, writing, and the moon. He invented hieroglyphs and served as the scribe of the gods. Scientists and scribes especially venerated him.
+**Thoth** — ibis-headed god of wisdom, [writing](/writing), and the moon. He invented hieroglyphs and served as the scribe of the gods. Scientists and scribes especially venerated him.
 
 **Anubis** — jackal-headed god of embalming and the dead. He guided souls through the underworld and oversaw the weighing of the heart.
 
@@ -113,6 +113,6 @@ Mummification was expensive. The full process cost what a laborer might earn in 
 
 ## Legacy
 
-Egyptian mythology endured for over 3,000 years — longer than Christianity has existed so far. It influenced Greek and Roman religion (Isis had temples throughout the Roman Empire), early Christianity (some scholars see parallels between the Osiris resurrection myth and Christian theology, though these connections are debated), and modern popular culture.
+Egyptian mythology endured for over 3,000 years — longer than [Christianity](/christianity) has existed so far. It influenced Greek and Roman religion (Isis had temples throughout the Roman Empire), early Christianity (some scholars see parallels between the Osiris resurrection myth and Christian theology, though these connections are debated), and modern [popular culture](/popular-culture).
 
 The discovery of Tutankhamun's tomb in 1922 by Howard Carter reignited global fascination with ancient Egypt. That fascination hasn't faded — Egyptian mythology continues to inspire films, novels, video games, and [archaeological](/archaeology) research. The myths themselves remain powerful because they grapple with questions that haven't changed: Where did we come from? What happens when we die? How should we live?

@@ -5,7 +5,7 @@ description: "Mammalogy is the study of mammals — their biology, behavior, eco
 category: science
 tags: ["mammalogy", "mammals", "zoology", "biology", "ecology", "conservation", "wildlife"]
 heroImage: "/images/articles/mammalogy-hero.webp"
-heroAlt: "Diverse mammals including a whale, elephant, bat, and wolf in their natural habitats"
+heroAlt: "Editorial photograph representing the concept of mammalogy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Mammalogy?
 
-Mammalogy is the branch of zoology focused on the study of mammals — the class Mammalia, comprising roughly 6,400 living species that include everything from 2-gram bumblebee bats to 150-ton blue whales. Mammalogists study mammalian anatomy, physiology, behavior, ecology, evolution, taxonomy, and conservation.
+Mammalogy is the branch of zoology focused on the study of mammals — the class Mammalia, comprising roughly 6,400 living species that include everything from 2-gram bumblebee bats to 150-ton blue whales. Mammalogists study mammalian [anatomy](/anatomy), [physiology](/physiology), behavior, ecology, evolution, [taxonomy](/taxonomy), and conservation.
 
 You are a mammal. So is your dog, the squirrel in your yard, the whale in the ocean, and the bat in your attic. We share a common ancestor from about 200 million years ago, and despite the enormous diversity since then, every mammal on Earth shares a few key features that define the group. Understanding what those features are — and how mammals came to dominate so many ecological niches — is what mammalogy is all about.
 
@@ -161,7 +161,7 @@ About 25% of mammal species are classified as threatened by the IUCN Red List. L
 
 **Poaching and wildlife trade**: Despite international bans, illegal killing continues. About 20,000 African elephants are killed annually for ivory. Rhino horn trade drives species toward extinction. Pangolins are the world's most trafficked mammals, killed for their scales (used in traditional medicine despite having no medicinal value — they're made of keratin, the same protein as your fingernails).
 
-**Climate change**: Shifting temperature and precipitation patterns are altering mammalian ranges, disrupting seasonal timing (breeding seasons, migration, hibernation), and changing vegetation communities that mammals depend on. Arctic species like polar bears face habitat loss as sea ice diminishes. Mountain-dwelling species face "summit trapping" — as habitats shift upslope, species run out of mountain.
+**Climate change**: Shifting temperature and precipitation patterns are altering mammalian ranges, disrupting seasonal timing (breeding seasons, migration, hibernation), and changing vegetation communities that mammals depend on. Arctic species like polar bears face habitat loss as sea ice diminishes. Mountain-dwelling species face "summit [trapping](/trapping)" — as habitats shift upslope, species run out of mountain.
 
 **Conservation successes** do exist. Gray wolf reintroduction to Yellowstone triggered a trophic cascade that restored river courses. Southern white rhino populations recovered from fewer than 50 to over 20,000 through intensive protection. Humpback whale populations have rebounded significantly since the 1986 whaling moratorium. California condor numbers increased from 22 to over 500 through captive breeding. These successes show that [conservation biology](/conservation-biology) works — when given sufficient resources and political will.
 
@@ -173,11 +173,11 @@ Modern mammalogists use an array of techniques:
 
 **GPS and satellite telemetry**: Collars and tags transmit real-time location data, revealing movement patterns, home ranges, migration routes, and habitat use. Tracking data has revealed that some wolves travel 70+ km in a single night and that Arctic caribou migrate over 5,000 km annually.
 
-**Genetics and genomics**: DNA from hair, feces, or tissue samples reveals population structure, genetic diversity, hybridization, and evolutionary relationships. Environmental DNA (eDNA) — DNA traces left in water or soil — can detect mammal species without ever seeing the animal.
+**[Genetics](/genetics) and genomics**: DNA from hair, feces, or tissue samples reveals population structure, genetic diversity, hybridization, and evolutionary relationships. Environmental DNA (eDNA) — DNA traces left in water or soil — can detect mammal species without ever seeing the animal.
 
 **Acoustic monitoring**: Autonomous recording units detect vocalizations of bats, whales, primates, and other vocal mammals. This allows continuous monitoring of populations and behavior across large areas.
 
-**Population modeling**: Statistical models estimate population size, growth rate, survival, and extinction risk. These models inform management decisions — how many individuals can be harvested sustainably, whether a population is viable long-term, and where conservation efforts should focus.
+**Population modeling**: Statistical models estimate population size, growth rate, survival, and extinction risk. These models inform [management](/management) decisions — how many individuals can be harvested sustainably, whether a population is viable long-term, and where conservation efforts should focus.
 
 ## Key Takeaways
 

@@ -5,7 +5,7 @@ description: "Web security protects websites and users from cyber threats like h
 category: everyday-concepts
 tags: ["web security", "cybersecurity", "hacking", "encryption", "data protection", "internet safety"]
 heroImage: "/images/articles/web-security.webp"
-heroAlt: "Lock icon overlaid on computer code representing secure web connection and encryption"
+heroAlt: "Editorial photograph representing the concept of web security"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Web Security?
 
-Web security is the practice of protecting websites, web applications, and web services from threats that could compromise data, functionality, or user trust. It covers everything from encrypting data in transit to preventing hackers from injecting malicious code into your login form. Given that virtually every business, government agency, and individual relies on web-based systems, web security is one of those fields where failure has immediate, tangible consequences — stolen money, exposed personal data, and destroyed reputations.
+Web security is the practice of protecting websites, web applications, and web services from threats that could compromise data, functionality, or user trust. It covers everything from encrypting data in transit to preventing hackers from injecting malicious code into your login form. Given that virtually every business, [government](/government) agency, and individual relies on web-based systems, web security is one of those fields where failure has immediate, tangible consequences — stolen money, exposed personal data, and destroyed reputations.
 
 ## The Threat Field
 
@@ -55,7 +55,7 @@ A classic SQL injection might enter `' OR 1=1 --` as a username. If the applicat
 
 ### Data Exposure
 
-Sometimes the vulnerability isn't a sophisticated attack — it's a misconfiguration. Databases left publicly accessible on the internet, API keys hardcoded into front-end JavaScript, error messages that reveal system architecture, and default credentials left unchanged all expose data without requiring any hacking skill.
+Sometimes the vulnerability isn't a sophisticated attack — it's a misconfiguration. Databases left publicly accessible on the internet, API keys hardcoded into front-end JavaScript, error messages that reveal system [architecture](/architecture), and default credentials left unchanged all expose data without requiring any hacking skill.
 
 ## Defense Strategies
 
@@ -63,7 +63,7 @@ Sometimes the vulnerability isn't a sophisticated attack — it's a misconfigura
 
 **HTTPS/TLS** encrypts all data between browser and server. It prevents eavesdropping on network traffic and verifies the server's identity through certificates. Implementing HTTPS is now trivial (Let's Encrypt provides free certificates) and is essentially mandatory — Google ranks HTTPS sites higher and browsers warn users about non-HTTPS sites.
 
-**Encryption at rest** protects stored data. Even if attackers access a database, properly encrypted data is unreadable without the encryption keys. Passwords should never be stored in plain text or with reversible encryption — they should be hashed using algorithms like bcrypt, scrypt, or Argon2.
+**Encryption at rest** protects stored data. Even if attackers access a database, properly encrypted data is unreadable without the encryption keys. Passwords should never be stored in plain text or with reversible encryption — they should be hashed using [algorithms](/algorithms) like bcrypt, scrypt, or Argon2.
 
 ### Input Validation and Sanitization
 
@@ -87,8 +87,8 @@ Most successful attacks exploit known vulnerabilities in software that hasn't be
 
 ## The Human Factor
 
-Technology can't fix everything. Phishing succeeds because humans make mistakes under pressure. Insider threats occur because people are trusted with access they misuse. Social engineering manipulates human psychology rather than system vulnerabilities.
+Technology can't fix everything. Phishing succeeds because humans make mistakes under pressure. Insider threats occur because people are trusted with access they misuse. [Social engineering](/social-engineering) manipulates human [psychology](/psychology) rather than system vulnerabilities.
 
-Security awareness training — teaching employees to recognize phishing emails, use strong passwords, and report suspicious activity — is one of the most cost-effective security measures an organization can implement. The weakest point in most security systems isn't the firewall or the encryption — it's the person who clicks a link in a convincing-looking email.
+Security awareness training — [teaching](/teaching) employees to recognize phishing emails, use strong passwords, and report suspicious activity — is one of the most cost-effective security measures an organization can implement. The weakest point in most security systems isn't the firewall or the encryption — it's the person who clicks a link in a convincing-looking email.
 
 Web security isn't a product you install or a checklist you complete. It's an ongoing practice — a continuous cycle of identifying threats, implementing defenses, monitoring for breaches, and adapting to new attack methods. The threat field changes constantly. The defenses have to change with it.

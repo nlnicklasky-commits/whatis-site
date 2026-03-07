@@ -5,7 +5,7 @@ description: "Microwave engineering deals with electromagnetic waves from 300 MH
 category: technology
 tags: ["microwave engineering", "electromagnetics", "rf engineering", "antennas", "radar", "telecommunications", "electronics"]
 heroImage: "/images/articles/microwave-engineering-hero.webp"
-heroAlt: "Microwave antenna dish and waveguide components on a communications tower"
+heroAlt: "Editorial photograph representing the concept of microwave engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Microwave Engineering?
 
-Microwave engineering is the branch of electrical engineering that deals with the design, analysis, and application of devices and systems operating at microwave frequencies—electromagnetic waves ranging from about 300 MHz to 300 GHz, with wavelengths between 1 meter and 1 millimeter.
+Microwave engineering is the branch of [electrical engineering](/electrical-engineering) that deals with the design, analysis, and application of devices and systems operating at microwave frequencies—electromagnetic waves ranging from about 300 MHz to 300 GHz, with wavelengths between 1 meter and 1 millimeter.
 
 ## Why Microwaves Are a Big Deal
 
@@ -177,7 +177,7 @@ Engineers use the Smith chart—a graphical tool invented by Phillip Smith in 19
 
 ### Electromagnetic Compatibility
 
-At microwave frequencies, everything radiates and everything couples. A poorly routed trace on a circuit board can act as an antenna, broadcasting interference. A gap in a shielding enclosure that's tiny at low frequencies might be a quarter wavelength at 10 GHz—and radiate like a slot antenna.
+At microwave frequencies, everything radiates and everything couples. A poorly routed trace on a circuit board can act as an antenna, [broadcasting](/broadcasting) interference. A gap in a shielding enclosure that's tiny at low frequencies might be a quarter wavelength at 10 GHz—and radiate like a slot antenna.
 
 Designing microwave systems that don't interfere with each other (or with themselves) requires meticulous attention to shielding, grounding, filtering, and layout. The FCC enforces strict limits on unintentional emissions, and meeting these standards is a significant part of microwave product development.
 
@@ -205,7 +205,7 @@ Several trends are reshaping the field.
 
 **Reconfigurable intelligent surfaces (RIS).** Large panels of electronically controlled reflecting elements that can redirect microwave signals in real time. RIS technology could dramatically improve wireless coverage in urban environments by bouncing signals around obstacles—essentially programming the propagation environment.
 
-**Quantum microwave devices.** Superconducting quantum bits (qubits) operate at microwave frequencies, typically 4-8 GHz. The field of quantum computing is, in many ways, a microwave engineering challenge—generating, routing, and measuring single microwave photons in cryogenic environments. This intersection of quantum physics and microwave engineering is one of the most active research areas in [computer-science](/computer-science) today.
+**Quantum microwave devices.** Superconducting quantum bits (qubits) operate at microwave frequencies, typically 4-8 GHz. The field of [quantum computing](/quantum-computing) is, in many ways, a microwave engineering challenge—generating, routing, and measuring single microwave photons in cryogenic environments. This intersection of [quantum physics](/quantum-physics) and microwave engineering is one of the most active research areas in [computer-science](/computer-science) today.
 
 ## Key Takeaways
 

@@ -5,7 +5,7 @@ description: "Computational linguistics combines linguistics and computer scienc
 category: technology
 tags: ["nlp", "ai", "linguistics", "computer science", "machine learning", "natural language processing", "data science"]
 heroImage: "/images/articles/computational-linguistics-hero.webp"
-heroAlt: "Abstract visualization of language processing with text fragments flowing through a neural network"
+heroAlt: "Editorial photograph representing the concept of computational linguistics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,9 +35,9 @@ faq:
     a: "For routine, high-volume content (product descriptions, weather reports, basic correspondence), machine translation is already replacing human translators. For literary translation, legal documents, medical texts, and culturally sensitive content, human translators remain essential. The most likely future is human-AI collaboration — machines produce drafts that humans refine — rather than full replacement."
 ---
 
-# What Is Computational Linguistics?
+# What Is Computational [Linguistics](/linguistics)?
 
-Computational linguistics is the scientific discipline that uses computational methods — algorithms, statistical models, and machine learning — to study and model human language. It sits at the intersection of linguistics, computer science, and artificial intelligence, aiming both to understand how language works and to build systems that can process, interpret, and generate natural language.
+Computational linguistics is the scientific discipline that uses computational methods — algorithms, statistical models, and machine learning — to study and model human language. It sits at the intersection of linguistics, [computer science](/computer-science), and [artificial intelligence](/artificial-intelligence), aiming both to understand how language works and to build systems that can process, interpret, and generate natural language.
 
 ## Language: The Hardest Easy Thing
 
@@ -55,7 +55,7 @@ Language understanding requires world knowledge, common sense reasoning, cultura
 
 ### The Rule-Based Era (1950s-1980s)
 
-Computational linguistics began with a bold prediction. In 1954, IBM and Georgetown University demonstrated a system that automatically translated 60 Russian sentences into English using a 250-word vocabulary and six grammar rules. The demonstration was largely hand-picked to work, but newspapers declared that machine translation would be solved within five years.
+Computational linguistics began with a bold prediction. In 1954, IBM and Georgetown University demonstrated a system that automatically translated 60 Russian sentences into English using a 250-word vocabulary and six grammar rules. The demonstration was largely hand-picked to work, but newspapers declared that machine [translation](/translation) would be solved within five years.
 
 It wasn't. Not even close.
 
@@ -77,15 +77,15 @@ Hidden Markov Models became the backbone of speech recognition. Naive Bayes clas
 
 The key insight: you don't need to understand language perfectly to build useful systems. Good-enough statistical approximations of language can handle most practical tasks.
 
-### The Deep Learning Era (2013-Present)
+### The [Deep Learning](/deep-learning) Era (2013-Present)
 
-The statistical era used hand-engineered features — humans decided which aspects of text were relevant, then built models using those features. Deep learning eliminated this step. Neural networks learn their own features directly from raw text.
+The statistical era used hand-engineered features — humans decided which aspects of text were relevant, then built models using those features. Deep learning eliminated this step. [Neural networks](/neural-networks) learn their own features directly from raw text.
 
 Word embeddings — dense vector representations of words learned from large text corpora — were the first breakthrough. Word2vec (2013) and GloVe (2014) showed that you could represent words as points in high-dimensional space where spatial relationships captured meaning. "King" minus "man" plus "woman" equals "queen." This wasn't programmed — the network discovered semantic relationships from patterns of word co-occurrence in billions of sentences.
 
 Recurrent neural networks (RNNs) and their variant, LSTMs (Long Short-Term Memory networks), could process sequences of words while maintaining a "memory" of earlier words. This made them natural fits for language tasks — translation, summarization, question answering.
 
-Then came the transformer architecture (Vaswani et al., 2017), and everything changed again.
+Then came the transformer [architecture](/architecture) (Vaswani et al., 2017), and everything changed again.
 
 ## The Transformer Revolution
 
@@ -183,7 +183,7 @@ Computational linguistics raises serious ethical questions that the field is sti
 
 **Privacy**: Language models can sometimes reproduce training data verbatim — including personal information, copyrighted text, and private communications that were scraped from the internet without consent.
 
-**Labor displacement**: As NLP systems improve, jobs involving routine language tasks — translation, transcription, content moderation, basic writing — face automation pressure. The transition may ultimately create new roles, but the near-term disruption affects real people.
+**Labor displacement**: As NLP systems improve, jobs involving routine language tasks — translation, [transcription](/transcription), content moderation, basic writing — face automation pressure. The transition may ultimately create new roles, but the near-term disruption affects real people.
 
 **Concentration of power**: Training state-of-the-art language models requires millions of dollars in computing resources. Only a handful of companies and institutions can afford this, creating a concentration of AI capability that raises questions about democratic access to technology.
 

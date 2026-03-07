@@ -5,7 +5,7 @@ description: "Information retrieval is the science of finding relevant content i
 category: technology
 tags: ["information retrieval", "search engines", "nlp", "data mining", "big data", "relevance", "indexing"]
 heroImage: "/images/articles/information-retrieval-hero.webp"
-heroAlt: "Search interface with query results illustrating information retrieval concepts"
+heroAlt: "Editorial photograph representing the concept of information retrieval"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Information Retrieval?
 
-Information retrieval (IR) is the science and practice of finding material — usually text documents — that satisfies an information need from within a large collection of unstructured or semi-structured data. When you type a query into Google, search your email for a message from last week, or ask a voice assistant a question, you're using an information retrieval system. The field combines computer science, linguistics, statistics, and cognitive science to solve one of computing's oldest and most important problems: how do you find the right information when there's too much to look through manually?
+Information retrieval (IR) is the science and practice of finding material — usually text documents — that satisfies an information need from within a large collection of unstructured or semi-structured data. When you type a query into Google, search your email for a message from last week, or ask a voice assistant a question, you're using an information retrieval system. The field combines [computer science](/computer-science), linguistics, statistics, and cognitive science to solve one of computing's oldest and most important problems: how do you find the right information when there's too much to look through manually?
 
 ## The Needle and the Haystack
 
@@ -97,7 +97,7 @@ Legal databases like LexisNexis and scientific databases like PubMed still suppo
 
 The breakthrough that made modern search possible. TF-IDF scores each term-document pair based on two factors:
 
-**Term frequency (TF)**: How often the term appears in this specific document. If "quantum" appears 15 times in a document about physics, that document is probably more relevant to a query about quantum mechanics than a document mentioning "quantum" once.
+**Term frequency (TF)**: How often the term appears in this specific document. If "quantum" appears 15 times in a document about physics, that document is probably more relevant to a query about [quantum mechanics](/quantum-mechanics) than a document mentioning "quantum" once.
 
 **Inverse document frequency (IDF)**: How rare the term is across the entire collection. A word that appears in almost every document ("the," "and," "is") has low IDF — it doesn't help distinguish relevant documents from irrelevant ones. A word that appears in only 50 out of a million documents ("neutrino") has high IDF — its presence strongly signals relevance to queries about that topic.
 
@@ -121,7 +121,7 @@ Google's transition from purely algorithmic ranking to ML-based ranking — begi
 
 ### Neural Information Retrieval
 
-The latest frontier. Dense retrieval models encode both queries and documents as dense vectors in a high-dimensional space, using neural networks trained on massive amounts of text. Relevance is computed as vector similarity — documents whose vector representations are close to the query's vector are considered relevant.
+The latest frontier. Dense retrieval models encode both queries and documents as dense vectors in a high-dimensional space, using [neural networks](/neural-networks) trained on massive amounts of text. Relevance is computed as vector similarity — documents whose vector representations are close to the query's vector are considered relevant.
 
 This approach understands meaning rather than just matching words. A query about "treating high blood pressure" can match documents about "hypertension management" even if neither set of words appears in the other — because the neural network has learned that these concepts are semantically equivalent.
 
@@ -173,7 +173,7 @@ Netflix recommending movies, Amazon suggesting products, Spotify creating playli
 
 ### Question Answering
 
-Going beyond returning relevant documents to directly answering questions. When you ask Google "How tall is the Eiffel Tower?" and get "330 meters" directly, that's a question-answering system built on IR foundations. The system retrieves candidate passages, then extracts or generates an answer — a process that connects IR to natural language processing and, increasingly, to large language models.
+Going beyond returning relevant documents to directly answering questions. When you ask Google "How tall is the Eiffel Tower?" and get "330 meters" directly, that's a question-answering system built on IR foundations. The system retrieves candidate passages, then extracts or generates an answer — a process that connects IR to [natural language processing](/natural-language-processing) and, increasingly, to large language models.
 
 ## The Evolution: From Keywords to Understanding
 

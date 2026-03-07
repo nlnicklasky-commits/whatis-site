@@ -5,7 +5,7 @@ description: "Entrepreneurship is the process of creating and running a new busi
 category: finance
 tags: ["entrepreneurship", "startup", "business", "risk-taking", "business plan", "economic growth", "venture"]
 heroImage: "/images/articles/entrepreneurship-hero.webp"
-heroAlt: "Person sketching a business plan on a whiteboard with charts and sticky notes"
+heroAlt: "Editorial photograph representing the concept of entrepreneurship"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -237,7 +237,7 @@ Several trends are reshaping entrepreneurship.
 
 **AI as co-founder:** [Artificial intelligence](/artificial-intelligence) tools are automating tasks that previously required employees — customer support, content creation, data analysis, even basic software development. This lets smaller teams accomplish more and reduces the capital required to start a company.
 
-**Climate-tech entrepreneurship:** As the economic consequences of climate change become more visible, opportunities in clean energy, carbon capture, sustainable agriculture, and climate adaptation are attracting significant entrepreneurial and investment activity.
+**Climate-tech entrepreneurship:** As the economic consequences of climate change become more visible, opportunities in clean energy, carbon capture, [sustainable agriculture](/sustainable-agriculture), and climate adaptation are attracting significant entrepreneurial and investment activity.
 
 **Creator economy:** Individual creators — YouTubers, newsletter writers, podcast hosts, online educators — are increasingly building genuine businesses around their audiences. The line between "creator" and "entrepreneur" is blurring.
 

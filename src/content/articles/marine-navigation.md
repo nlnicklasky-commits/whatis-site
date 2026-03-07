@@ -5,7 +5,7 @@ description: "Marine navigation is the science of directing a vessel safely acro
 category: everyday-concepts
 tags: ["marine navigation", "sailing", "GPS", "nautical", "seamanship", "maritime"]
 heroImage: "/images/articles/marine-navigation.webp"
-heroAlt: "Ship bridge showing navigation instruments including radar and electronic chart display"
+heroAlt: "Editorial photograph representing the concept of marine navigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "GPS (Global Positioning System) uses signals from a constellation of at least 24 satellites to determine position. Standard GPS accuracy is about 3-5 meters. Differential GPS (DGPS) and newer multi-constellation receivers (using GPS, GLONASS, Galileo, and BeiDou) can achieve accuracy under 1 meter. GPS has made navigation vastly easier but is vulnerable to jamming and spoofing, which is why backup skills remain important."
 ---
 
-# What Is Marine Navigation?
+# What Is Marine [Navigation](/navigation)?
 
 Marine navigation is the practice of determining a vessel's position and directing it safely from one point to another across water. It sounds straightforward. It's anything but. The ocean has no road signs, no lane markings, and — until very recently in human history — no reliable way to know exactly where you were.
 
-For thousands of years, finding your way at sea was one of humanity's greatest intellectual and practical challenges. It drove advances in astronomy, mathematics, cartography, and clock-making. It shaped empires. It killed plenty of people who got it wrong. And while GPS has made the mechanics much easier, understanding navigation remains essential for anyone who ventures beyond sight of land.
+For thousands of years, finding your way at sea was one of humanity's greatest intellectual and practical challenges. It drove advances in [astronomy](/astronomy), [mathematics](/mathematics), [cartography](/cartography), and clock-making. It shaped empires. It killed plenty of people who got it wrong. And while GPS has made the mechanics much easier, understanding navigation remains essential for anyone who ventures beyond sight of land.
 
 ## The Old Ways
 
@@ -55,7 +55,7 @@ The sextant, invented in 1731, remained the primary navigation instrument until 
 
 ### Coastal Piloting
 
-Near shore, navigators use visible landmarks — lighthouses, headlands, church steeples, distinctive buildings — combined with compass bearings and depth soundings (measuring the water depth) to fix position. Charts marked with these features have been essential tools since ancient times.
+Near shore, navigators use visible landmarks — [lighthouses](/lighthouses), headlands, church steeples, distinctive buildings — combined with compass bearings and depth soundings (measuring the water depth) to fix position. Charts marked with these features have been essential tools since ancient times.
 
 Buoys, channel markers, and navigational lights provide standardized guidance in harbors and coastal waters. The International Association of Lighthouse Authorities (IALA) maintains two buoyage systems that standardize what different markers mean, though confusingly, the two systems use opposite color conventions.
 
@@ -67,11 +67,11 @@ The Global Positioning System changed everything. A constellation of at least 24
 
 For maritime use, Differential GPS (DGPS) improves accuracy using shore-based reference stations. Modern receivers can simultaneously use multiple satellite constellations — GPS (U.S.), GLONASS (Russia), Galileo (EU), and BeiDou (China) — for even better accuracy and reliability.
 
-GPS makes position-fixing trivial. But it's not infallible. Signal jamming, spoofing (broadcasting false GPS signals), solar storms, and equipment failure can all compromise GPS. Several high-profile incidents — including ships grounding because they trusted GPS while ignoring other indicators — have reinforced the importance of backup navigation skills.
+GPS makes position-fixing trivial. But it's not infallible. Signal jamming, spoofing ([broadcasting](/broadcasting) false GPS signals), solar storms, and equipment failure can all compromise GPS. Several high-profile incidents — including ships grounding because they trusted GPS while ignoring other indicators — have reinforced the importance of backup navigation skills.
 
 ### Electronic Charts
 
-Paper nautical charts are being replaced by Electronic Chart Display and Information Systems (ECDIS), which overlay GPS position on digital charts in real time. Modern ECDIS integrates position, radar, AIS (Automatic Identification System) data showing other vessels, weather information, and route planning into a single display.
+Paper nautical charts are being replaced by Electronic Chart Display and [Information Systems](/information-systems) (ECDIS), which overlay GPS position on digital charts in real time. Modern ECDIS integrates position, radar, AIS (Automatic Identification System) data showing other vessels, weather information, and route planning into a single display.
 
 As of 2018, ECDIS is mandatory on most large commercial vessels under international regulations. Paper charts are still carried as backup on many ships.
 
@@ -81,7 +81,7 @@ Marine radar detects coastlines, other vessels, buoys, and weather formations by
 
 ### AIS
 
-The Automatic Identification System broadcasts a ship's identity, position, course, and speed to other vessels and shore stations. All commercial ships over 300 tons are required to carry AIS transponders. The system dramatically improves collision avoidance and maritime traffic management.
+The Automatic Identification System broadcasts a ship's identity, position, course, and speed to other vessels and shore stations. All commercial ships over 300 tons are required to carry AIS transponders. The system dramatically improves collision avoidance and maritime traffic [management](/management).
 
 ## Navigation in Practice
 

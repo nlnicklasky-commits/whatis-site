@@ -5,7 +5,7 @@ description: "Cuban history spans from the indigenous Taino people through Spani
 category: history
 tags: ["cuban history", "cuba", "cuban revolution", "fidel castro", "cold war"]
 heroImage: "/images/articles/cuban-history.webp"
-heroAlt: "Colorful vintage cars lining a Havana street with colonial architecture in the background"
+heroAlt: "Editorial photograph representing the concept of cuban history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Cuban History?
 
-Cuban history is the story of an island nation in the Caribbean that has been shaped by colonialism, slavery, revolution, and Cold War geopolitics far out of proportion to its small size. Located just 90 miles from Florida, Cuba's 110,000 square kilometers and approximately 11 million people have been at the center of some of modern history's most dramatic events — including a nuclear crisis that nearly ended civilization.
+Cuban history is the story of an island nation in the Caribbean that has been shaped by colonialism, slavery, revolution, and Cold War [geopolitics](/geopolitics) far out of proportion to its small size. Located just 90 miles from Florida, Cuba's 110,000 square kilometers and approximately 11 million people have been at the center of some of [modern history](/modern-history)'s most dramatic events — including a nuclear crisis that nearly ended civilization.
 
 ## Before Columbus: The Taino
 
@@ -51,7 +51,7 @@ Initially, Cuba served as a staging point for Spain's conquests of Mexico and So
 
 By the 18th century, sugar had become Cuba's economic engine. Sugar production required enormous amounts of labor, and that labor came from enslaved Africans. Between 1790 and 1867, an estimated 780,000 enslaved Africans were brought to Cuba. At its peak, enslaved people made up about 40% of Cuba's population. The sugar plantations were notoriously deadly — the average life expectancy of an enslaved worker on a Cuban sugar plantation was about seven years.
 
-Cuba didn't abolish slavery until 1886 — later than any other nation in the Western Hemisphere except Brazil. The legacy of slavery shaped Cuban demographics, culture, music, and religion in ways that persist today. Afro-Cuban religious practices like Santeria blend West African Yoruba traditions with Catholicism, a direct result of enslaved people preserving their spiritual practices under colonial and religious pressure.
+Cuba didn't abolish slavery until 1886 — later than any other nation in the Western Hemisphere except Brazil. The legacy of slavery shaped Cuban demographics, culture, music, and [religion](/religion) in ways that persist today. Afro-Cuban religious practices like Santeria blend West African Yoruba traditions with Catholicism, a direct result of enslaved people preserving their spiritual practices under colonial and religious pressure.
 
 ### Independence Wars
 
@@ -67,7 +67,7 @@ The U.S. had wanted Cuba for decades — John Quincy Adams wrote in 1823 that Cu
 
 The Spanish-American War lasted just a few months. Spain surrendered Cuba (along with Puerto Rico, Guam, and the Philippines). But Cuba didn't get real independence. The U.S. occupied the island until 1902 and forced Cuba to accept the Platt Amendment, which gave the U.S. the right to intervene in Cuban affairs and established the Guantanamo Bay naval base — which the U.S. still occupies today, over 120 years later.
 
-For the next six decades, Cuba was effectively a U.S. satellite. American companies controlled about 75% of Cuban arable land, most of the sugar industry, and the utilities. Havana became a playground for American tourists and a haven for organized crime. The Mafia operated casinos and hotels with the government's blessing. Cuba was [capitalist](/capitalism), but the profits mostly flowed to Americans and a small Cuban elite.
+For the next six decades, Cuba was effectively a U.S. satellite. American companies controlled about 75% of Cuban arable land, most of the sugar industry, and the utilities. Havana became a playground for American tourists and a haven for organized crime. The Mafia operated casinos and hotels with the [government](/government)'s blessing. Cuba was [capitalist](/capitalism), but the profits mostly flowed to Americans and a small Cuban elite.
 
 ## The Revolution (1953–1959)
 
@@ -91,7 +91,7 @@ The economy depended heavily on Soviet subsidies — roughly $4-6 billion annual
 
 ## The Special Period and After
 
-The 1990s were devastating. GDP dropped roughly 35%. Caloric intake fell below WHO minimums. Blackouts lasted 16 hours a day. Cubans lost an average of 20 pounds. The period forced significant economic reforms — Cuba opened to tourism, allowed some self-employment, and legalized the use of U.S. dollars.
+The 1990s were devastating. GDP dropped roughly 35%. Caloric intake fell below WHO minimums. Blackouts lasted 16 hours a day. Cubans lost an average of 20 pounds. The period forced significant economic reforms — Cuba opened to [tourism](/tourism), allowed some self-employment, and legalized the use of U.S. dollars.
 
 Fidel Castro remained in power until illness forced him to hand the presidency to his brother Raul in 2008. Raul implemented further economic reforms, expanded internet access, and in 2015, participated in the historic normalization of relations with the Obama administration.
 
@@ -101,6 +101,6 @@ In July 2021, Cuba experienced its largest protests in decades, with thousands t
 
 ## Cuba's Outsized Influence
 
-For a small island, Cuba has had a remarkable impact on world history. It nearly triggered nuclear war. It sent hundreds of thousands of soldiers and medical workers to Africa, helping movements from Angola to South Africa. Cuban doctors have served in over 60 countries. Cuban music — son, mambo, salsa — influenced popular music worldwide. Cuban baseball players have become some of the sport's greatest stars.
+For a small island, Cuba has had a remarkable impact on world history. It nearly triggered nuclear war. It sent hundreds of thousands of soldiers and medical workers to Africa, helping movements from Angola to South Africa. Cuban doctors have served in over 60 countries. Cuban music — son, mambo, salsa — influenced popular music worldwide. Cuban [baseball](/baseball) players have become some of the sport's greatest stars.
 
-Cuba's story is also a cautionary tale about the costs of both colonial exploitation and revolutionary authoritarianism. The country achieved genuine accomplishments in healthcare and education while denying basic political freedoms. It gained independence from the United States only to become dependent on the Soviet Union. It remains, more than 60 years after the revolution, a place where the promise and the reality of social transformation exist in uncomfortable tension.
+Cuba's story is also a cautionary tale about the costs of both colonial exploitation and revolutionary authoritarianism. The country achieved genuine accomplishments in healthcare and [education](/education) while denying basic political freedoms. It gained independence from the United States only to become dependent on the Soviet Union. It remains, more than 60 years after the revolution, a place where the promise and the reality of social transformation exist in uncomfortable tension.

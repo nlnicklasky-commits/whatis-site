@@ -5,7 +5,7 @@ description: "Sailing is the practice of using wind to propel a boat across wate
 category: sports
 tags: ["sailing", "sailboat", "yachting", "wind power", "nautical", "water sports"]
 heroImage: "/images/articles/sailing.webp"
-heroAlt: "Sailboat heeling in strong wind on open blue water"
+heroAlt: "Editorial photograph representing the concept of sailing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sailing?
 
-Sailing is the art and science of using wind to move a boat across water. It's one of humanity's oldest technologies — civilizations have been sailing for at least 5,000 years — and one of the few sports where you're essentially harnessing a natural force rather than fighting against one. A sailboat converts invisible air movement into forward motion through physics, geometry, and the sailor's judgment. No engine. No fuel. Just fabric, rope, and wind.
+Sailing is the art and science of using wind to move a boat across water. It's one of humanity's oldest technologies — civilizations have been sailing for at least 5,000 years — and one of the few sports where you're essentially harnessing a natural force rather than fighting against one. A sailboat converts invisible air movement into forward motion through [physics](/physics), [geometry](/geometry), and the sailor's judgment. No engine. No fuel. Just fabric, rope, and wind.
 
 ## The Physics (Briefly)
 
@@ -51,13 +51,13 @@ Downwind sailing is simpler — the wind pushes the sail from behind, and the bo
 
 **Catamarans and trimarans** — multi-hull boats with two or three hulls connected by a frame. Faster than monohulls because they don't need a heavy keel for stability — the wide stance provides it. Racing catamarans in the America's Cup now exceed 50 mph, which is terrifying when you realize there's no engine.
 
-**Tall ships** — the classic multi-masted sailing vessels. Square-rigged ships (with rectangular sails) powered global trade and warfare for centuries. A few survive as training vessels and museum ships. Sailing one is an unforgettable experience — and a reminder of how physically demanding sailing was before modern equipment.
+**Tall ships** — the classic multi-masted sailing vessels. Square-rigged ships (with rectangular sails) powered global [trade](/trade) and warfare for centuries. A few survive as training vessels and museum ships. Sailing one is an unforgettable experience — and a reminder of how physically demanding sailing was before modern equipment.
 
 ## Racing
 
 Competitive sailing ranges from casual Wednesday evening club races to the most expensive sporting competitions on Earth.
 
-**Olympic sailing** has been part of every modern Games since 1900. Events are held in various boat classes, from single-handed dinghies to two-person skiffs and mixed multihulls. Olympic sailing requires extraordinary skill in boat handling, tactics, weather reading, and physical fitness.
+**Olympic sailing** has been part of every modern Games since 1900. Events are held in various boat classes, from single-handed dinghies to two-person skiffs and mixed multihulls. Olympic sailing requires extraordinary skill in boat handling, tactics, weather reading, and physical [fitness](/fitness).
 
 **The America's Cup** — the oldest trophy in international sport (first contested in 1851, predating the modern Olympics). It's also the most expensive — recent campaigns have cost $100+ million per team. The boats are now 75-foot foiling monohulls that lift completely out of the water on hydrofoils, sailing at speeds exceeding 50 mph. It's spectacular, excessive, and intensely competitive.
 

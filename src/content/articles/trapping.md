@@ -5,7 +5,7 @@ description: "Trapping is the practice of capturing wild animals using mechanica
 category: everyday-concepts
 tags: ["trapping", "wildlife", "hunting", "fur trade", "conservation", "outdoors"]
 heroImage: "/images/articles/trapping.webp"
-heroAlt: "A humane live-capture trap set on a forest trail with autumn foliage"
+heroAlt: "Editorial photograph representing the concept of trapping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Trapping?
 
-Trapping is the practice of capturing wild animals using mechanical devices — traps, snares, and similar equipment — rather than direct pursuit. It's one of the oldest human activities, practiced for food, fur, predator control, wildlife management, and scientific research.
+Trapping is the practice of capturing wild animals using mechanical devices — traps, snares, and similar equipment — rather than direct pursuit. It's one of the oldest human activities, practiced for food, fur, predator control, [wildlife management](/wildlife-management), and scientific research.
 
-Trapping generates strong opinions. To some, it's an essential wildlife management tool and a traditional outdoor practice. To others, it's an unnecessary source of animal suffering. Understanding what trapping actually involves — the methods, the regulations, the purposes, and the controversies — helps make that debate more informed.
+Trapping generates strong opinions. To some, it's an essential wildlife management tool and a traditional outdoor practice. To others, it's an unnecessary source of animal suffering. Understanding what trapping actually involves — the methods, the regulations, the purposes, and the controversies — helps make that [debate](/debate) more informed.
 
 ## Methods
 
@@ -55,7 +55,7 @@ Loops of wire or cable that tighten around an animal. Neck snares can be lethal;
 
 ## History
 
-Trapping is deeply embedded in North American history. The fur trade — driven by European demand for beaver pelts — shaped the continent's exploration and settlement patterns from the 1600s through the 1800s. Trappers and fur traders (coureurs de bois, mountain men) were among the first Europeans to penetrate the interior of North America.
+Trapping is deeply embedded in [North American history](/north-american-history). The fur [trade](/trade) — driven by European demand for beaver pelts — shaped the continent's exploration and settlement patterns from the 1600s through the 1800s. Trappers and fur traders (coureurs de bois, mountain men) were among the first Europeans to penetrate the interior of North America.
 
 The beaver fur trade literally built empires. The Hudson's Bay Company, founded in 1670, controlled territory larger than Western Europe. Beaver pelts were so valuable they functioned as [currency](/american-history). The trade also devastated beaver populations and indigenous communities.
 
@@ -65,9 +65,9 @@ By the late 1800s, overharvesting had decimated many furbearer species. The cons
 
 **Fur harvest** — The most controversial use. Roughly 150,000 licensed trappers operate in the U.S. The global fur trade is worth billions, though it faces increasing opposition from animal welfare organizations and shifting consumer preferences.
 
-**Wildlife management** — State and federal wildlife agencies use trapping to control overabundant species, manage predators that threaten endangered species, remove invasive animals, and prevent wildlife-related damage to property and agriculture.
+**Wildlife management** — State and federal wildlife agencies use trapping to control overabundant species, manage predators that threaten endangered species, remove invasive animals, and prevent wildlife-related damage to property and [agriculture](/agriculture).
 
-**Scientific research** — Biologists use live-capture traps to study wildlife populations — attaching GPS collars, collecting samples, and monitoring [health](/conservation-biology).
+**Scientific research** — Biologists use live-capture traps to study wildlife populations — attaching GPS collars, collecting samples, and monitoring [health](/conservation-[biology](/biology)).
 
 **Nuisance wildlife control** — Removing animals (raccoons, skunks, coyotes, beavers) that cause property damage, threaten livestock, or create safety hazards.
 
@@ -83,7 +83,7 @@ The trapping debate is genuinely complex:
 
 In the U.S., trapping is regulated at the state level. Common regulations include:
 
-- Mandatory trapper education courses
+- Mandatory trapper [education](/education) courses
 - Species-specific seasons (timing and duration)
 - Trap-check requirements (every 24-48 hours in most states)
 - Restrictions on trap types near trails and residential areas

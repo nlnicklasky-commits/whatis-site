@@ -5,7 +5,7 @@ description: "Landscaping is the practice of modifying outdoor areas with plants
 category: everyday-concepts
 tags: ["landscaping", "gardening", "outdoor design", "yard maintenance", "hardscaping"]
 heroImage: "/images/articles/landscaping.webp"
-heroAlt: "Beautifully landscaped backyard with stone patio, flower beds, and manicured lawn"
+heroAlt: "Editorial photograph representing the concept of landscaping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,9 +53,9 @@ You do not need a design degree to field your yard, but understanding a few prin
 
 **Proportion and scale** — elements should be sized appropriately for the space. A six-foot ornamental grass in a four-foot-wide bed overwhelms it. A tiny fountain in a half-acre yard disappears. The most common mistake homeowners make is underestimating mature plant sizes — that cute three-foot shrub from the nursery might grow to twelve feet.
 
-**Focal points** — every field needs something that draws the eye. A specimen tree, a water feature, a sculpture, a colorful planting bed. Without focal points, the eye wanders without landing, and the space feels unfocused.
+**Focal points** — every field needs something that draws the eye. A specimen tree, a water feature, a [sculpture](/sculpture), a colorful planting bed. Without focal points, the eye wanders without landing, and the space feels unfocused.
 
-**Flow** — paths, sight lines, and transitions should guide movement naturally through the space. People should be able to see where to walk without signage. Curves feel more natural than straight lines in informal landscapes; straight lines and geometry suit formal designs.
+**Flow** — paths, sight lines, and transitions should guide movement naturally through the space. People should be able to see where to walk without signage. Curves feel more natural than straight lines in informal landscapes; straight lines and [geometry](/geometry) suit formal designs.
 
 ## The Planning Process
 
@@ -73,13 +73,13 @@ Good landscaping starts with a plan. Even a rough sketch on graph paper beats im
 
 Some landscaping work is straightforward for handy homeowners. Planting flower beds, laying mulch, installing simple edging, and basic maintenance are all learnable from YouTube tutorials and garden center advice.
 
-Other work genuinely requires professionals. Retaining walls over four feet tall usually need engineering. Grading and drainage involve understanding water flow patterns that affect your foundation. Electrical work for field lighting requires permits. Tree removal near structures or power lines is dangerous without training.
+Other work genuinely requires professionals. Retaining walls over four feet tall usually need [engineering](/engineering). Grading and drainage involve understanding water flow patterns that affect your foundation. Electrical work for field lighting requires permits. Tree removal near structures or power lines is dangerous without training.
 
 A reasonable middle ground: hire a field designer to create the plan ($500-3,000 for a residential design), then do the installation yourself where you can and hire contractors for the technical work.
 
 ## Sustainable Landscaping
 
-Traditional American landscaping — vast lawns, thirsty ornamental plants, chemical fertilizers, and gas-powered maintenance equipment — is increasingly questioned. The EPA estimates that field irrigation accounts for nearly one-third of residential water use in the United States, roughly 9 billion gallons per day.
+Traditional American landscaping — vast lawns, thirsty ornamental plants, chemical fertilizers, and gas-powered maintenance equipment — is increasingly questioned. The EPA estimates that field [irrigation](/irrigation) accounts for nearly one-third of residential water use in the United States, roughly 9 billion gallons per day.
 
 Sustainable alternatives are gaining ground:
 

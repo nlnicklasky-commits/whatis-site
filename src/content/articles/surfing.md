@@ -5,7 +5,7 @@ description: "Surfing is the sport of riding ocean waves on a board. Learn the b
 category: everyday-concepts
 tags: ["surfing", "ocean", "water sports", "waves", "balance", "beach culture"]
 heroImage: "/images/articles/surfing.webp"
-heroAlt: "A surfer riding a large wave with a clear blue sky behind"
+heroAlt: "Editorial photograph representing the concept of surfing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ That description is technically accurate. It's also completely inadequate. Surfi
 
 ## Ancient Origins
 
-Surfing didn't start in California. It started in Polynesia, possibly as far back as 3,000-4,000 years ago. The earliest documented accounts come from Hawaii, where surfing (*he'e nalu*, meaning "wave sliding") was deeply woven into the culture. Chiefs rode the best waves on the longest boards. Chants celebrated great rides. The construction of a surfboard involved sacred rituals.
+Surfing didn't start in California. It started in Polynesia, possibly as far back as 3,000-4,000 years ago. The earliest documented accounts come from Hawaii, where surfing (*he'e nalu*, meaning "wave sliding") was deeply woven into the culture. Chiefs rode the best waves on the longest boards. Chants celebrated great rides. The [construction](/construction) of a surfboard involved sacred rituals.
 
 When European missionaries arrived in Hawaii in the 1820s, they discouraged surfing as frivolous and un-Christian. The practice nearly died out. But in the early 1900s, a few Hawaiian watermen — most famously Duke Kahanamoku, an Olympic swimmer and surfer — revived the sport and introduced it to the rest of the world.
 
@@ -82,6 +82,6 @@ Surfing debuted at the 2020 Tokyo Olympics (held in 2021) and returned in 2024 i
 
 ## Why People Get Hooked
 
-The honest answer? It feels incredible. The combination of physical exertion, [balance](/exercise-physiology), immersion in nature, and the raw thrill of harnessing ocean energy creates a sensation unlike any other sport. Every wave is different. Every session is different. The ocean demands your full attention, which is — in a world of constant distraction — surprisingly therapeutic.
+The honest answer? It feels incredible. The combination of physical exertion, [balance](/exercise-[physiology](/physiology)), immersion in nature, and the raw thrill of harnessing ocean energy creates a sensation unlike any other sport. Every wave is different. Every session is different. The ocean demands your full attention, which is — in a world of constant distraction — surprisingly therapeutic.
 
-Surfers joke that they have an addiction. But research backs them up: studies show that time in the ocean reduces cortisol levels, improves mood, and activates the parasympathetic nervous system. It's exercise, meditation, and nature exposure rolled into one.
+Surfers joke that they have an addiction. But research backs them up: studies show that time in the ocean reduces cortisol levels, improves mood, and activates the parasympathetic nervous system. It's exercise, [meditation](/meditation), and nature exposure rolled into one.

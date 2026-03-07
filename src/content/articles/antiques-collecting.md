@@ -5,7 +5,7 @@ description: "Antiques collecting is the hobby and business of acquiring objects
 category: everyday-concepts
 tags: ["antiques", "collecting", "collectibles", "vintage", "history", "appraisal"]
 heroImage: "/images/articles/antiques-collecting.webp"
-heroAlt: "Collection of antique items including pocket watches, porcelain, and silverware on a wooden table"
+heroAlt: "Editorial photograph representing the concept of antiques collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,11 +49,11 @@ The motivations are surprisingly varied.
 
 **Aesthetic collectors** are drawn to craftsmanship. Before mass production, furniture was joined by hand, glass was mouth-blown, and textiles were woven on manual looms. The quality of materials and workmanship in many antiques simply exceeds what's commonly available today.
 
-**Investors** treat antiques as alternative assets. Rare pieces can appreciate significantly — a 2023 auction at Christie's saw a Ming Dynasty vase sell for over $8 million. But antiques as investments carry risks: markets shift, tastes change, and storage and insurance costs add up.
+**Investors** treat antiques as alternative assets. Rare pieces can appreciate significantly — a 2023 auction at Christie's saw a Ming Dynasty vase sell for over $8 million. But antiques as investments carry risks: markets shift, tastes change, and storage and [insurance](/insurance) costs add up.
 
-**Decorators** mix antiques into modern interiors for character and uniqueness. A Victorian writing desk in a contemporary apartment creates visual interest that no mass-market furniture can replicate.
+**Decorators** mix antiques into modern interiors for character and uniqueness. A Victorian [writing](/writing) desk in a contemporary apartment creates visual interest that no mass-market furniture can replicate.
 
-And then there are the people who just can't walk past a flea market without stopping. Collecting is genuinely addictive for some — the thrill of discovery, the possibility that the $10 painting at a garage sale might be worth thousands. It happens more often than you'd think.
+And then there are the people who just can't walk past a flea market without stopping. Collecting is genuinely addictive for some — the thrill of discovery, the possibility that the $10 [painting](/painting) at a garage sale might be worth thousands. It happens more often than you'd think.
 
 ## Major Collecting Categories
 
@@ -92,15 +92,15 @@ A verbal or written appraisal from a certified professional typically costs $50 
 
 ## Fakes, Reproductions, and Honest Mistakes
 
-The antiques world has a fakery problem. High-value categories — [art](/art-history), furniture, ceramics — attract forgers who can produce convincing replicas. A well-made reproduction of a Chippendale chair might fool a casual buyer, though an experienced appraiser will spot inconsistencies in construction methods, wood aging, and hardware.
+The antiques world has a fakery problem. High-value categories — [art](/art-history), furniture, ceramics — attract forgers who can produce convincing replicas. A well-made reproduction of a Chippendale chair might fool a casual buyer, though an experienced appraiser will spot inconsistencies in [construction](/construction) methods, wood aging, and hardware.
 
 Some fakes are legendary. The "Etruscan" terracotta warriors at the Metropolitan Museum of Art, acquired in the early 20th century, were eventually revealed as modern forgeries. Tom Keating, a British art restorer, forged over 2,000 paintings in 200 different styles before being caught.
 
-The best protection? Education. The more you know about your collecting area — construction techniques, materials, stylistic details, makers' marks — the harder you are to fool. Buying from reputable dealers who guarantee authenticity adds another layer of safety.
+The best protection? [Education](/education). The more you know about your collecting area — construction techniques, materials, stylistic details, makers' marks — the harder you are to fool. Buying from reputable dealers who guarantee authenticity adds another layer of safety.
 
 ## The Market Today
 
-The antiques market has shifted significantly in the past two decades. "Brown furniture" — traditional dark wood pieces from the 18th and 19th centuries — has generally declined in value as younger buyers prefer different aesthetics. Meanwhile, mid-century modern design (1940s-1960s) has exploded in popularity and price.
+The antiques market has shifted significantly in the past two decades. "Brown furniture" — traditional dark wood pieces from the 18th and 19th centuries — has generally declined in value as younger buyers prefer different [aesthetics](/aesthetics). Meanwhile, mid-century modern design (1940s-1960s) has exploded in popularity and price.
 
 Online selling has democratized the market. Items that might sit unsold in a rural antique shop can find buyers worldwide through [online platforms](/web-development). But online buying carries risks — you can't examine condition in person, and photos can be deceptive.
 

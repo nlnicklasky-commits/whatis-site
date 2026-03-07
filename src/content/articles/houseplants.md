@@ -5,7 +5,7 @@ description: "Houseplants are plants grown indoors for decoration, air quality, 
 category: everyday-concepts
 tags: ["houseplants", "plants", "indoor plants", "gardening", "horticulture", "home decor"]
 heroImage: "/images/articles/houseplants.webp"
-heroAlt: "Collection of indoor houseplants on shelves near a sunny window"
+heroAlt: "Editorial photograph representing the concept of houseplants"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,13 +37,13 @@ Houseplants are plants grown indoors — in pots, planters, or containers — pr
 
 The simplest answer: plants make rooms feel better. Research supports this at multiple levels.
 
-**Stress reduction.** A 2015 study in the *Journal of Physiological Anthropology* found that interacting with indoor plants reduced physiological stress markers (blood pressure, heart rate variability) compared to performing computer tasks. The effect was not enormous, but it was measurable and consistent.
+**Stress reduction.** A 2015 study in the *Journal of Physiological [Anthropology](/anthropology)* found that interacting with indoor plants reduced physiological stress markers (blood pressure, heart rate variability) compared to performing computer tasks. The effect was not enormous, but it was measurable and consistent.
 
-**Mood improvement.** Multiple studies show that people report feeling calmer, more focused, and more positive in rooms with plants. Offices with plants see higher reported job satisfaction and productivity. Hospitals where patients can see greenery report shorter recovery times.
+**Mood improvement.** Multiple studies show that people report feeling calmer, more focused, and more positive in rooms with plants. Offices with plants see higher reported job satisfaction and [productivity](/productivity). Hospitals where patients can see greenery report shorter recovery times.
 
 **Humidity.** Plants release moisture through transpiration, which can modestly increase indoor humidity — helpful in dry winter environments where heated air drops relative humidity to uncomfortable levels.
 
-**The air quality caveat.** NASA's famous 1989 Clean Air Study found that plants can remove formaldehyde, benzene, and other volatile organic compounds (VOCs). This study gets cited constantly in plant marketing. The catch? Those experiments used small sealed chambers, not real rooms. A 2019 review calculated that you would need hundreds of plants per room to meaningfully filter air at the rate a single open window provides. Plants are great, but they are not air purifiers.
+**The air quality caveat.** NASA's famous 1989 Clean Air Study found that plants can remove formaldehyde, benzene, and other volatile organic compounds (VOCs). This study gets cited constantly in plant [marketing](/marketing). The catch? Those experiments used small sealed chambers, not real rooms. A 2019 review calculated that you would need hundreds of plants per room to meaningfully filter air at the rate a single open window provides. Plants are great, but they are not air purifiers.
 
 ## The Most Popular Indoor Plants
 
@@ -77,7 +77,7 @@ Most houseplant deaths come down to three causes: overwatering, insufficient lig
 
 Something shifted culturally around 2016-2018. Houseplants went from a grandmotherly hobby to a millennial and Gen Z obsession. Instagram accounts dedicated to plant collections gained millions of followers. Rare plant varieties sold for staggering prices — a single variegated Monstera cutting fetched $38,000 in a New Zealand auction in 2020.
 
-The reasons are probably a mix of factors: housing trends (smaller apartments need life in them), mental health awareness (plants as affordable self-care), social media aesthetics (plants photograph well), and delayed homeownership (you can buy a plant when you cannot buy a house).
+The reasons are probably a mix of factors: housing trends (smaller apartments need life in them), [mental health](/mental-health) awareness (plants as affordable self-care), social media [aesthetics](/aesthetics) (plants photograph well), and delayed homeownership (you can buy a plant when you cannot buy a house).
 
 The market has matured since the pandemic peak. Prices for rare varieties have come down. Plant shops have opened in most cities. And the fundamental appeal remains: bringing something alive and growing into a space made of dead materials feels good in a way that is hard to articulate but easy to experience.
 

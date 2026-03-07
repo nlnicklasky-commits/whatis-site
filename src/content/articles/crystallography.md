@@ -5,7 +5,7 @@ description: "Crystallography determines crystal atomic structure using X-ray di
 category: science
 tags: ["crystallography", "crystals", "atomic structure", "x-ray diffraction", "materials science", "chemistry", "physics"]
 heroImage: "/images/articles/crystallography-hero.webp"
-heroAlt: "X-ray diffraction pattern showing concentric rings of bright spots on a dark background"
+heroAlt: "Editorial photograph representing the concept of crystallography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -111,17 +111,17 @@ In 1952, Rosalind Franklin produced "Photo 51"---an X-ray diffraction image of D
 
 James Watson and Francis Crick used this data (along with chemical knowledge from Erwin Chargaff about base pairing) to build their famous double helix model in 1953. Watson, Crick, and Maurice Wilkins received the 1962 Nobel Prize. Franklin had died of ovarian cancer in 1958 at age 37---likely caused by her extensive X-ray exposure---and Nobel Prizes aren't awarded posthumously.
 
-The DNA structure revealed how genetic information is stored and copied, launching the molecular biology revolution.
+The DNA structure revealed how genetic information is stored and copied, launching the [molecular biology](/molecular-biology) revolution.
 
 ### Protein Structures
 
 Max Perutz and John Kendrew solved the first protein crystal structures in the late 1950s---hemoglobin and myoglobin, respectively. These were monumental achievements. Proteins contain thousands of atoms in specific 3D arrangements, and determining those arrangements from diffraction data required years of work with room-sized computers.
 
-Today, the Protein Data Bank (PDB) contains over 215,000 experimentally determined structures, mostly from crystallography. These structures are the foundation of structural biology and drug design. When pharmaceutical companies design drugs to fit into a protein's active site, they're using crystallographic data to visualize that molecular pocket.
+Today, the Protein Data Bank (PDB) contains over 215,000 experimentally determined structures, mostly from crystallography. These structures are the foundation of [structural biology](/structural-biology) and drug design. When pharmaceutical companies design drugs to fit into a protein's active site, they're using crystallographic data to visualize that molecular pocket.
 
 ### Penicillin and Drug Design
 
-Dorothy Hodgkin determined the structure of penicillin in 1945 and vitamin B12 in 1956---both using X-ray crystallography. She won the 1964 Nobel Prize in Chemistry. Her work on penicillin's structure was initially controversial (the four-membered beta-lactam ring was considered too strained to exist), but the crystal structure settled the debate definitively.
+Dorothy Hodgkin determined the structure of penicillin in 1945 and vitamin B12 in 1956---both using [X-ray crystallography](/x-ray-crystallography). She won the 1964 Nobel Prize in Chemistry. Her work on penicillin's structure was initially controversial (the four-membered beta-lactam ring was considered too strained to exist), but the crystal structure settled the debate definitively.
 
 Structure-based drug design---designing drugs to fit the 3D shape of their target---is now standard in pharmaceutical development. HIV protease inhibitors, developed in the 1990s, were among the first major successes. Crystallographers determined the protease's structure, medicinal chemists designed molecules to block its active site, and the resulting drugs transformed HIV from a death sentence into a manageable condition.
 
@@ -139,13 +139,13 @@ While X-ray diffraction remains the primary method, several related techniques h
 
 Neutrons diffract off atomic nuclei rather than electrons. This makes neutron diffraction particularly valuable for locating hydrogen atoms (which have very few electrons and are nearly invisible to X-rays), distinguishing between elements with similar numbers of electrons, and studying magnetic structures.
 
-Neutron sources are expensive---they require nuclear reactors or spallation sources---so neutron crystallography is less common than X-ray work. But for specific problems, particularly in materials science and chemistry, it provides information X-rays can't.
+Neutron sources are expensive---they require nuclear reactors or spallation sources---so neutron crystallography is less common than X-ray work. But for specific problems, particularly in [materials science](/materials-science) and chemistry, it provides information X-rays can't.
 
 ### Electron Diffraction
 
 Electrons interact much more strongly with matter than X-rays, allowing very small crystals to be studied. Electron diffraction is particularly useful for nanocrystalline materials and thin films.
 
-The revolution in cryo-electron microscopy (cryo-EM) has transformed structural biology since about 2013. Cryo-EM determines structures of biological molecules frozen in thin films of ice---no crystals required. This bypasses crystallography's biggest bottleneck: growing good crystals.
+The revolution in cryo-[electron microscopy](/electron-microscopy) (cryo-EM) has transformed structural biology since about 2013. Cryo-EM determines structures of biological molecules frozen in thin films of ice---no crystals required. This bypasses crystallography's biggest bottleneck: growing good crystals.
 
 Single-particle cryo-EM now routinely achieves resolutions below 3 angstroms for large protein complexes, and the 2017 Nobel Prize in Chemistry recognized the technique's development. For large, flexible molecular complexes that resist crystallization, cryo-EM has become the method of choice.
 
@@ -169,7 +169,7 @@ Beyond biological molecules, crystallography is fundamental to understanding mat
 
 **Metals and alloys**: Crystal structure determines a metal's strength, ductility, hardness, and fatigue resistance. Steel's properties, for instance, depend on whether the iron is in a body-centered cubic (ferrite), face-centered cubic (austenite), or body-centered tetragonal (martensite) arrangement. Metallurgists use crystallographic analysis to optimize heat treatments and alloy compositions.
 
-**Ceramics**: High-temperature superconductors, piezoelectric materials, battery electrode materials---all are crystalline, and their properties depend on crystal structure. The discovery of high-temperature superconductivity in ceramic oxides (Nobel Prize 1987) was a crystallographic story: understanding the layered perovskite structure was essential to finding new superconducting compositions.
+**Ceramics**: High-temperature superconductors, piezoelectric materials, battery electrode materials---all are crystalline, and their properties depend on crystal structure. The discovery of high-temperature [superconductivity](/superconductivity) in ceramic oxides (Nobel Prize 1987) was a crystallographic story: understanding the layered perovskite structure was essential to finding new superconducting compositions.
 
 **Minerals and geology**: Crystallography is the foundation of mineralogy. There are approximately 5,900 known mineral species, each defined by its chemical composition and crystal structure. Geological processes---magma crystallization, metamorphism, weathering---produce specific crystal structures under specific conditions, and crystallographic analysis reveals the conditions under which rocks formed.
 
@@ -199,11 +199,11 @@ Some biological molecules---membrane proteins, large flexible complexes, intrins
 
 ## The Future
 
-Crystallography continues evolving. Time-resolved crystallography captures structural changes as they happen---watching chemical bonds break and form in real time. Micro-electron diffraction determines structures from crystals smaller than a micrometer. Machine learning accelerates every stage from crystal growth optimization to structure solution.
+Crystallography continues evolving. Time-resolved crystallography captures structural changes as they happen---watching chemical bonds break and form in real time. Micro-electron diffraction determines structures from crystals smaller than a micrometer. Machine learning accelerates every stage from crystal growth [optimization](/optimization) to structure solution.
 
 The integration of experimental crystallography with computational prediction---using tools like AlphaFold as starting models for experimental refinement---is creating a feedback loop that accelerates structural discovery.
 
-One thing remains constant: if you want to understand how matter behaves, you need to know how its atoms are arranged. Crystallography answers that question with unmatched precision. After more than a century, it remains one of science's most powerful tools for revealing the hidden architecture of the physical world.
+One thing remains constant: if you want to understand how matter behaves, you need to know how its atoms are arranged. Crystallography answers that question with unmatched precision. After more than a century, it remains one of science's most powerful tools for revealing the hidden [architecture](/architecture) of the physical world.
 
 ## Key Takeaways
 

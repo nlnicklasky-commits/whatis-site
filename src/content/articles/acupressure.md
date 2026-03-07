@@ -5,7 +5,7 @@ description: "Acupressure is a traditional Chinese healing practice that applies
 category: health-amp-wellness
 tags: ["acupressure", "traditional chinese medicine", "alternative medicine", "wellness"]
 heroImage: "/images/articles/acupressure.webp"
-heroAlt: "Practitioner applying finger pressure to acupressure points on a patient's hand"
+heroAlt: "Editorial photograph representing the concept of acupressure"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The practice dates back at least 2,000 years and operates on the same theoretica
 
 ## The Theory Behind Acupressure
 
-Traditional Chinese Medicine (TCM) rests on a fundamentally different model of the body than Western medicine. In TCM, health depends on the balanced flow of qi through 12 primary meridians — invisible channels that connect organs, tissues, and bodily functions. When qi flows freely, you're healthy. When it's blocked or imbalanced, symptoms appear.
+[Traditional Chinese Medicine](/traditional-chinese-medicine) (TCM) rests on a fundamentally different model of the body than Western medicine. In TCM, health depends on the balanced flow of qi through 12 primary meridians — invisible channels that connect organs, tissues, and bodily functions. When qi flows freely, you're healthy. When it's blocked or imbalanced, symptoms appear.
 
 Each meridian is associated with a specific organ system and contains multiple acupoints — there are over 360 classical acupoints mapped across the body. Acupressure practitioners press on specific points to release blockages, redirect energy flow, and trigger the body's self-healing responses.
 
@@ -55,7 +55,7 @@ Research on acupressure has produced a mixed but not entirely dismissive picture
 
 **Nausea relief** is acupressure's best-supported application. The P6 point (Neiguan), located on the inner wrist about three finger-widths below the wrist crease, has been studied extensively for nausea. A 2015 Cochrane review found that stimulation of P6 reduced postoperative nausea and vomiting compared to sham treatment. Commercial "sea bands" — elastic wristbands with a plastic button that presses on P6 — are sold specifically for motion sickness and morning sickness.
 
-**Pain management** also shows promise. A 2019 meta-analysis published in *Pain Management Nursing* found that acupressure significantly reduced pain intensity across multiple conditions, including menstrual pain, lower back pain, and labor pain. Effect sizes were moderate — not miraculous, but meaningful.
+**Pain [management](/management)** also shows promise. A 2019 meta-analysis published in *Pain Management [Nursing](/nursing)* found that acupressure significantly reduced pain intensity across multiple conditions, including menstrual pain, lower back pain, and labor pain. Effect sizes were moderate — not miraculous, but meaningful.
 
 **Anxiety and stress reduction.** Multiple small studies show that acupressure sessions reduce cortisol levels and self-reported anxiety. A 2020 systematic review in the *Journal of Clinical Nursing* concluded that acupressure had "significant effects on anxiety reduction in various clinical populations."
 
@@ -69,7 +69,7 @@ The quality of acupressure research is a problem across the board. Many studies 
 
 Several scientifically plausible mechanisms might explain acupressure's effects, even without invoking qi:
 
-- **Gate control theory of pain:** Pressure stimulation may activate large nerve fibers that "close the gate" to pain signals traveling to the brain.
+- **Gate [control theory](/control-theory) of pain:** Pressure stimulation may activate large nerve fibers that "close the gate" to pain signals traveling to the brain.
 - **Endorphin release:** Sustained pressure on certain points may trigger the release of endorphins — the body's natural painkillers.
 - **Autonomic nervous system regulation:** Pressure may activate the parasympathetic nervous system (the "rest and digest" response), reducing heart rate, blood pressure, and stress hormones.
 - **Fascial connections:** Some researchers have noted that many acupoints correspond to locations where connective tissue (fascia) converges, potentially creating mechanical connections between pressure points and distant body regions.
@@ -119,9 +119,9 @@ After a session, many people report feeling relaxed, slightly drowsy, and occasi
 
 How does acupressure compare to other hands-on therapies?
 
-**Massage therapy** focuses on manipulating muscles and soft tissue to reduce tension, improve circulation, and promote relaxation. Acupressure targets specific points based on meridian theory. In practice, the two overlap considerably — many massage therapists incorporate acupressure points, and many acupressure sessions feel like targeted massage.
+**[Massage therapy](/massage-therapy)** focuses on manipulating muscles and soft tissue to reduce tension, improve circulation, and promote relaxation. Acupressure targets specific points based on meridian theory. In practice, the two overlap considerably — many massage therapists incorporate acupressure points, and many acupressure sessions feel like targeted massage.
 
-**Reflexology** applies pressure specifically to the feet (and sometimes hands and ears), based on the idea that different foot zones correspond to different organs. The theoretical framework is different from acupressure, though both involve pressure-based treatment.
+**[Reflexology](/reflexology)** applies pressure specifically to the feet (and sometimes hands and ears), based on the idea that different foot zones correspond to different organs. The theoretical framework is different from acupressure, though both involve pressure-based treatment.
 
 **Trigger point therapy** targets tight, painful knots in muscles (myofascial trigger points). Interestingly, studies have found significant overlap between classical acupoints and myofascial trigger points — suggesting that different traditions may have independently identified the same physiologically significant locations.
 

@@ -5,7 +5,7 @@ description: "Workplace safety covers the policies, practices, and regulations t
 category: business
 tags: ["workplace safety", "business"]
 heroImage: "/images/articles/workplace-safety.webp"
-heroAlt: "Safety equipment including hard hat, goggles, and gloves arranged on a work surface"
+heroAlt: "Editorial photograph representing the concept of workplace safety"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -147,7 +147,7 @@ Workplace safety keeps evolving as work itself changes.
 
 **Wearable technology** is increasingly used to monitor worker fatigue, posture, environmental exposure, and vital signs in real time. Some construction companies use smart hard hats that detect impacts and alert supervisors.
 
-**Artificial intelligence** and [machine learning](/machine-learning) analyze safety data to predict where incidents are likely to occur, allowing proactive intervention rather than reactive investigation.
+**[Artificial intelligence](/artificial-intelligence)** and [machine learning](/machine-learning) analyze safety data to predict where incidents are likely to occur, allowing proactive intervention rather than reactive investigation.
 
 **Heat-related illness** is getting more attention as climate change drives more extreme temperatures. Outdoor workers in agriculture, construction, and delivery face growing risks, and OSHA has been developing federal heat standards.
 

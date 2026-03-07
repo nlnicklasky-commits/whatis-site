@@ -5,7 +5,7 @@ description: "Marine archeology studies human interaction with the sea through s
 category: history
 tags: ["archaeology", "marine archeology", "shipwrecks"]
 heroImage: "/images/articles/marine-archeology.webp"
-heroAlt: "A scuba diver carefully documenting artifacts on a centuries-old shipwreck site"
+heroAlt: "Editorial photograph representing the concept of marine archeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,25 +43,25 @@ Think of it as regular [archeology](/archaeology), but with the added challenge 
 
 For most of history, people who found things underwater either sold them, melted them down, or put them on a mantelpiece. Systematic underwater excavation didn't exist until the mid-20th century.
 
-The turning point came in the 1940s and 1950s. Jacques Cousteau and Emile Gagnan's development of the Aqua-Lung in 1943 gave researchers the freedom to work underwater for extended periods without being tethered to a surface air supply. Before that, diving was either breath-hold or hardhat — neither particularly conducive to careful scientific work.
+The turning point came in the 1940s and 1950s. Jacques Cousteau and Emile Gagnan's development of the Aqua-Lung in 1943 gave researchers the freedom to work underwater for extended periods without being tethered to a surface air supply. Before that, [diving](/diving) was either breath-hold or hardhat — neither particularly conducive to careful scientific work.
 
-The first truly rigorous underwater excavation is generally credited to George Bass, who led the excavation of a Bronze Age shipwreck at Cape Gelidonya, Turkey, in 1960. Bass insisted on applying the same methodical recording standards used on land — grid systems, photography, measured drawings, stratigraphic analysis. This was radical at the time. Most underwater "archeology" before Bass was essentially treasure hunting with academic pretensions.
+The first truly rigorous underwater excavation is generally credited to George Bass, who led the excavation of a Bronze Age shipwreck at Cape Gelidonya, Turkey, in 1960. Bass insisted on applying the same methodical recording standards used on land — grid systems, photography, measured drawings, stratigraphic analysis. This was radical at the time. Most underwater "archeology" before Bass was essentially treasure [hunting](/hunting) with academic pretensions.
 
-Bass went on to found the Institute of Nautical Archaeology at Texas A&M University in 1973, which remains one of the field's most important institutions.
+Bass went on to found the Institute of [Nautical Archaeology](/nautical-archaeology) at Texas A&M University in 1973, which remains one of the field's most important institutions.
 
 ## What Marine Archeologists Actually Study
 
 ### Shipwrecks
 
-This is what most people picture, and fair enough — shipwrecks are spectacular. But they're also extraordinary time capsules. A ship that sank quickly — in a storm, in battle, or after hitting a reef — essentially freezes a moment in time. The cargo, the crew's personal belongings, the ship's construction, the provisions in the hold: all of it tells a story.
+This is what most people picture, and fair enough — shipwrecks are spectacular. But they're also extraordinary time capsules. A ship that sank quickly — in a storm, in battle, or after hitting a reef — essentially freezes a moment in time. The cargo, the crew's personal belongings, the ship's [construction](/construction), the provisions in the hold: all of it tells a story.
 
-The Uluburun shipwreck, discovered off the Turkish coast in 1982 and dated to roughly 1300 BCE, carried copper and tin ingots, Canaanite jewelry, Egyptian scarabs, Mycenaean pottery, African ebony, and Baltic amber. A single ship with goods from at least seven different cultures. That wreck told us more about Late Bronze Age Mediterranean trade than decades of excavation on land.
+The Uluburun shipwreck, discovered off the Turkish coast in 1982 and dated to roughly 1300 BCE, carried copper and tin ingots, Canaanite jewelry, Egyptian scarabs, Mycenaean [pottery](/pottery), African ebony, and Baltic amber. A single ship with goods from at least seven different cultures. That wreck told us more about Late Bronze Age Mediterranean trade than decades of excavation on land.
 
 More recent wrecks tell different stories. The *Vasa*, a Swedish warship that sank in Stockholm harbor on its maiden voyage in 1628, revealed extraordinary details about 17th-century ship construction, crew diet, and even the heights and health conditions of individual sailors from skeletal remains.
 
 ### Submerged Settlements and Harbors
 
-Not everything underwater was originally meant to be there. Sea levels have risen roughly 120 meters since the last Ice Age, which means that coastlines from 10,000+ years ago are now deep underwater. Ancient harbors, fishing villages, and trade centers that once sat on dry land are now submerged.
+Not everything underwater was originally meant to be there. Sea levels have risen roughly 120 meters since the last Ice Age, which means that coastlines from 10,000+ years ago are now deep underwater. Ancient harbors, [fishing](/fishing) villages, and trade centers that once sat on dry land are now submerged.
 
 The ancient city of Dwarka off India's Gujarat coast, the submerged harbor of Caesarea Maritima in Israel, the underwater ruins near Alexandria, Egypt — these sites reveal how coastal civilizations built, traded, and lived.
 
@@ -101,7 +101,7 @@ Pulling an artifact out of seawater is only the beginning. Objects that have bee
 
 Wood is the classic problem. Waterlogged wood looks solid, but its internal structure has often been replaced by water. Let it dry and it will shrink, warp, and crack beyond recognition. The *Vasa's* hull timbers were sprayed with polyethylene glycol (PEG) for 17 years to slowly replace the water in the wood's cellular structure.
 
-Iron corrodes. Bronze develops mineralized layers. Ceramics may be stable, but the salt crystals trapped inside can expand and shatter them if they dry too quickly. Conservation is expensive, slow, and absolutely essential.
+Iron corrodes. Bronze develops mineralized layers. [Ceramics](/ceramics) may be stable, but the salt crystals trapped inside can expand and shatter them if they dry too quickly. Conservation is expensive, slow, and absolutely essential.
 
 ## The Treasure Hunting Problem
 
@@ -123,6 +123,6 @@ Machine learning is starting to help too. Algorithms trained on sonar imagery ca
 
 There's something like three million shipwrecks on the world's ocean floors, according to UNESCO estimates. Each one is a snapshot of a specific moment — a trading voyage, a naval engagement, a fishing trip that went wrong, a migration. Together, they form a record of human maritime activity stretching back thousands of years.
 
-Marine archeology fills gaps that land-based records can't. Ancient trade networks, the daily lives of sailors, the engineering of ship construction, the spread of diseases along maritime routes, the environmental conditions of past centuries — all of this is encoded in the material sitting on the seafloor.
+Marine archeology fills gaps that land-based records can't. Ancient trade networks, the daily lives of sailors, the [engineering](/engineering) of ship construction, the spread of diseases along maritime routes, the environmental conditions of past centuries — all of this is encoded in the material sitting on the seafloor.
 
 And frankly, there's something profound about touching a 3,000-year-old amphora in the same spot where it came to rest when the ship broke apart. The sea is a museum without walls, and marine archeologists are the curators trying to read its stories before they're lost to salvage, development, or simple decay.

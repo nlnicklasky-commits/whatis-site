@@ -5,7 +5,7 @@ description: "Printmaking is an art form where images are transferred from a pre
 category: arts-amp-culture
 tags: ["printmaking", "art", "woodcut", "etching", "lithography", "screen printing"]
 heroImage: "/images/articles/printmaking.webp"
-heroAlt: "Artist inking a carved woodblock for printmaking in a studio"
+heroAlt: "Editorial photograph representing the concept of printmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Printmaking?
 
-Printmaking is a family of artistic techniques in which an image is created on one surface (a block, plate, stone, or screen) and transferred — printed — onto another surface, usually paper. What makes it different from painting or drawing is reproducibility: from a single prepared surface, you can make multiple original artworks. Not copies — each print pulled from the plate is considered an original. This made printmaking the first mass medium for images, centuries before photography.
+Printmaking is a family of artistic techniques in which an image is created on one surface (a block, plate, stone, or screen) and transferred — printed — onto another surface, usually paper. What makes it different from [painting](/painting) or [drawing](/drawing) is reproducibility: from a single prepared surface, you can make multiple original artworks. Not copies — each print pulled from the plate is considered an original. This made printmaking the first mass medium for images, centuries before photography.
 
 ## The Four Families
 
@@ -43,7 +43,7 @@ The oldest method. You carve away the areas you *don't* want to print, leaving r
 
 **Woodcut** is the classic relief technique. The artist carves into a flat block of wood, typically with gouges and knives. Albrecht Durer's woodcuts from the early 1500s — *The Four Horsemen of the Apocalypse*, *Rhinoceros* — showed what the medium could achieve and remain technically stunning 500 years later.
 
-**Wood engraving** uses the end grain of hardwood (usually boxwood) rather than the plank side, allowing much finer detail. It was the standard illustration technique for newspapers and books from the 1800s until photography replaced it.
+**Wood [engraving](/engraving)** uses the end grain of hardwood (usually boxwood) rather than the plank side, allowing much finer detail. It was the standard [illustration](/illustration) technique for newspapers and books from the 1800s until photography replaced it.
 
 **Linocut** uses linoleum instead of wood. It's softer and easier to carve, making it popular with beginners and with artists who want bold, graphic results. Picasso made famous linocuts. Henri Matisse worked in the medium. It's probably the most accessible printmaking technique for someone working at home.
 
@@ -61,9 +61,9 @@ The opposite of relief. Instead of printing from raised surfaces, intaglio print
 
 ### Planographic
 
-The printing surface is flat — neither raised nor incised. The image is created through chemistry.
+The printing surface is flat — neither raised nor incised. The image is created through [chemistry](/chemistry).
 
-**Lithography** is the main planographic technique. Invented in 1796 by Alois Senefelder, it exploits the principle that oil and water don't mix. The artist draws on a flat limestone (or specially prepared aluminum plate) with a greasy crayon or ink. The stone is treated so that the greasy drawn areas attract printing ink while the blank areas attract water and repel ink.
+**[Lithography](/lithography)** is the main planographic technique. Invented in 1796 by Alois Senefelder, it exploits the principle that oil and water don't mix. The artist draws on a flat limestone (or specially prepared aluminum plate) with a greasy crayon or ink. The stone is treated so that the greasy drawn areas attract printing ink while the blank areas attract water and repel ink.
 
 Lithography can reproduce virtually any drawn or painted mark, which is why artists love it. Toulouse-Lautrec's posters, Munch's versions of *The Scream*, and Jasper Johns's flag prints are all lithographs. It's also the basis for commercial offset printing, which still produces most books and magazines.
 
@@ -71,9 +71,9 @@ Lithography can reproduce virtually any drawn or painted mark, which is why arti
 
 Ink passes through openings in a screen or stencil onto the paper below.
 
-**Screen printing** (serigraphy) uses a mesh screen stretched over a frame. Areas of the screen are blocked with a stencil or photo-emulsion, leaving open areas where ink can pass through. A squeegee pushes ink across the screen, forcing it through the open areas onto the paper.
+**[Screen printing](/screen-printing)** (serigraphy) uses a mesh screen stretched over a frame. Areas of the screen are blocked with a stencil or photo-emulsion, leaving open areas where ink can pass through. A squeegee pushes ink across the screen, forcing it through the open areas onto the paper.
 
-Andy Warhol's silk-screened portraits of Marilyn Monroe and Campbell's Soup cans made screen printing synonymous with Pop Art. It's also the standard method for printing on T-shirts, posters, and textiles. The bold, flat colors and graphic quality of screen printing have made it one of the most visually distinctive print techniques.
+Andy Warhol's silk-screened portraits of Marilyn Monroe and Campbell's Soup cans made screen printing synonymous with [Pop Art](/pop-art). It's also the standard method for printing on T-shirts, posters, and textiles. The bold, flat colors and graphic quality of screen printing have made it one of the most visually distinctive print techniques.
 
 ## Editions and Numbering
 
@@ -85,7 +85,7 @@ After the edition is complete, the plate is often "canceled" — scratched, defa
 
 ## Why Printmaking Matters
 
-Printmaking democratized images. Before print technology, images were unique — one painting, one drawing, owned by one person. Woodcuts in the 15th century made images reproducible for the first time. The Protestant Reformation spread partly through printed broadsheets and illustrated pamphlets. Scientific knowledge spread through printed diagrams. Political cartoons reached the public through prints.
+Printmaking democratized images. Before print technology, images were unique — one painting, one drawing, owned by one person. Woodcuts in the 15th century made images reproducible for the first time. The Protestant Reformation spread partly through printed broadsheets and illustrated pamphlets. Scientific knowledge spread through printed diagrams. [Political cartoons](/political-cartoons) reached the public through prints.
 
 Today, original printmaking remains a living art form. Art schools teach it. Galleries exhibit it. Collectors buy it. The physical qualities of a hand-pulled print — the texture of ink on paper, the impression of the plate edge, the slight variations between impressions — give prints a material presence that digital reproduction can't match.
 

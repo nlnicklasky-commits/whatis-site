@@ -5,7 +5,7 @@ description: "Knitting is the craft of creating fabric by interlocking loops of 
 category: arts-amp-culture
 tags: ["knitting", "fiber arts", "yarn", "craft", "textile", "hobby"]
 heroImage: "/images/articles/knitting.webp"
-heroAlt: "Hands knitting a colorful wool scarf with wooden needles"
+heroAlt: "Editorial photograph representing the concept of knitting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ From these basics, the complexity escalates quickly. Cables cross groups of stit
 
 ## How Old Is Knitting?
 
-Older than you would guess, but not as old as weaving. The earliest known knitted artifacts date to roughly the 11th century CE from Egypt — intricately patterned socks with separated toes. (The technique used in these early pieces is actually nalbinding, a predecessor to knitting that uses a single needle and short lengths of yarn.)
+Older than you would guess, but not as old as [weaving](/weaving). The earliest known knitted artifacts date to roughly the 11th century CE from Egypt — intricately patterned socks with separated toes. (The technique used in these early pieces is actually nalbinding, a predecessor to knitting that uses a single needle and short lengths of yarn.)
 
 True knitting — with two needles and a continuous strand — appeared in Europe by the 13th century. Knitting guilds in medieval Europe were exclusively male, and becoming a master knitter required six years of training. A journeyman's masterpiece might be a carpet with complex patterns and precise dimensions, knitted to exacting standards.
 
@@ -55,7 +55,7 @@ Yarn choice affects everything about the finished product — how it looks, how 
 
 **Wool** remains the gold standard. Sheep's wool is warm, elastic, naturally water-resistant, and forgiving to work with (stitches even out over time through a process called "blocking"). Merino wool is the softest. Shetland wool has great stitch definition. Icelandic wool is incredibly warm and lightweight.
 
-**Cotton** produces cool, breathable fabric ideal for summer garments and dishcloths. It has no elasticity, which makes it harder to knit evenly and means cotton garments can stretch out of shape.
+**Cotton** produces cool, breathable fabric ideal for summer garments and dishcloths. It has no [elasticity](/elasticity), which makes it harder to knit evenly and means cotton garments can stretch out of shape.
 
 **Acrylic** is synthetic, inexpensive, machine-washable, and available in every color imaginable. It does not breathe well and can feel plasticky, but modern acrylics have improved enormously. For baby items (frequent washing) and practice projects, acrylic makes perfect sense.
 
@@ -63,7 +63,7 @@ Yarn choice affects everything about the finished product — how it looks, how 
 
 **Blends** combine fibers to get the best properties of each. A merino-silk blend, for instance, gives wool's warmth and elasticity with silk's drape and sheen.
 
-## Tools of the Trade
+## Tools of the [Trade](/trade)
 
 **Straight needles** — the classic image: two pointed sticks with knobs on one end. Good for flat pieces like scarves and blanket panels.
 
@@ -75,7 +75,7 @@ Yarn choice affects everything about the finished product — how it looks, how 
 
 ## The Modern Knitting World
 
-Knitting experienced a massive revival in the early 2000s that has not faded. Ravelry, the social network for knitters and crocheters (launched 2007), has over 9 million registered users and hosts millions of free and paid patterns. Instagram knitting communities are enormous. Local yarn shops ("LYS" in knitter shorthand) serve as community gathering places.
+Knitting experienced a massive revival in the early 2000s that has not faded. Ravelry, the social network for knitters and crocheters (launched 2007), has over 9 million registered users and hosts millions of free and paid patterns. Instagram knitting communities are enormous. Local yarn shops ("LYS" in knitter [shorthand](/shorthand)) serve as community gathering places.
 
 The demographics have shifted. Knitting is no longer stereotyped as a grandmother's hobby — surveys show the fastest-growing demographic of new knitters is women aged 25-35. Men who knit are becoming more visible, though they remain a small minority.
 
@@ -85,6 +85,6 @@ The indie yarn industry has exploded. Small-batch dyers produce yarn in colors a
 
 The practical answer: you can make things. A hand-knitted sweater, made from good yarn in the right pattern, fits better, feels better, and lasts longer than most commercial knitwear. Custom socks are a revelation. Hats and scarves make perfect gifts.
 
-The honest answer: it is deeply satisfying. The repetitive motion is meditative — studies have linked knitting to reduced anxiety, lower blood pressure, and improved focus. There is tangible progress: you can see the fabric growing row by row. And the problem-solving aspect — figuring out construction, reading patterns, fixing mistakes — keeps your brain engaged.
+The honest answer: it is deeply satisfying. The repetitive motion is meditative — studies have linked knitting to reduced anxiety, lower blood pressure, and improved focus. There is tangible progress: you can see the fabric growing row by row. And the problem-solving aspect — figuring out [construction](/construction), reading patterns, fixing mistakes — keeps your brain engaged.
 
 The cost-per-hour of entertainment is remarkably low once you have basic supplies. A $10 skein of yarn and a $25 pattern can occupy you for 40-80 hours of knitting. Try matching that with most other hobbies.

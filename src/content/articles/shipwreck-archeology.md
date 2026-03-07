@@ -5,7 +5,7 @@ description: "Shipwreck archeology studies sunken vessels and their contents to 
 category: history
 tags: ["shipwreck", "archaeology", "underwater archaeology", "maritime history"]
 heroImage: "/images/articles/shipwreck-archeology.webp"
-heroAlt: "Divers examining the wooden hull of a centuries-old shipwreck on the ocean floor"
+heroAlt: "Editorial photograph representing the concept of shipwreck archeology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Shipwreck Archeology?
 
-Shipwreck archeology is the scientific study of sunken vessels, their cargo, and the people who sailed them. It sits at the intersection of [archaeology](/archaeology), oceanography, and maritime history, using the remains of lost ships as time capsules that reveal how people traded, traveled, fought, and lived on the water.
+Shipwreck archeology is the scientific study of sunken vessels, their cargo, and the people who sailed them. It sits at the intersection of [archaeology](/archaeology), [oceanography](/oceanography), and [maritime history](/maritime-history), using the remains of lost ships as time capsules that reveal how people traded, traveled, fought, and lived on the water.
 
 There are somewhere between 1 million and 3 million shipwrecks on the ocean floor right now. Less than 1% have been examined. Every one of them has a story.
 
@@ -59,7 +59,7 @@ If you're picturing Indiana Jones with scuba gear, slow down. Modern shipwreck a
 
 ### Finding the Wreck
 
-The first step is locating the site. Sometimes this starts with historical detective work — scouring shipping records, insurance claims, and newspaper accounts for reports of lost vessels. Other times, wrecks turn up by accident when fishermen snag their nets on something hard, or construction projects disturb the seabed.
+The first step is locating the site. Sometimes this starts with historical detective work — scouring shipping records, [insurance](/insurance) claims, and newspaper accounts for reports of lost vessels. Other times, wrecks turn up by accident when fishermen snag their nets on something hard, or [construction](/construction) projects disturb the seabed.
 
 Technology has transformed the search process. Side-scan sonar sends acoustic pulses across the seafloor and creates detailed images of anything sticking up from the bottom. Magnetometers detect iron objects buried in sediment. Sub-bottom profilers can "see" through layers of sand and mud to find buried structures. And multibeam sonar can produce 3D maps of the seafloor accurate to centimeters.
 
@@ -75,7 +75,7 @@ This documentation matters because once you move an artifact, its spatial contex
 
 Underwater excavation typically uses water dredges or airlifts — essentially underwater vacuum cleaners that suck sediment away from artifacts without damaging them. Archeologists work slowly, centimeter by centimeter, just as they would on land.
 
-The big difference is the environment. Divers face limited bottom time (especially at depth), cold water, poor visibility, currents, and the constant risk of disturbing delicate structures. At depths beyond about 40 meters, recreational scuba equipment isn't enough — teams use mixed-gas diving, saturation diving, or remotely operated vehicles.
+The big difference is the environment. Divers face limited bottom time (especially at depth), cold water, poor visibility, currents, and the constant risk of disturbing delicate structures. At depths beyond about 40 meters, recreational scuba equipment isn't enough — teams use mixed-gas [diving](/diving), saturation diving, or remotely operated vehicles.
 
 Every artifact brought to the surface needs immediate conservation. Waterlogged wood, for example, will crack and distort as it dries unless treated with polyethylene glycol (PEG) — the same process used on the Vasa, which required 17 years of spraying with PEG solution.
 
@@ -87,7 +87,7 @@ Some wrecks are more than archeological curiosities. They've reshaped our unders
 
 Discovered off southern Turkey in 1982, this Bronze Age merchant vessel carried one of the most extraordinary cargo loads ever found. Ten tons of copper ingots from Cyprus. One ton of tin from central Asia. Ebony from Egypt. Ivory. Amber from the Baltic. Gold jewelry. Hippopotamus teeth.
 
-The ship's cargo came from at least seven different cultures, proving that long-distance international trade networks were far more sophisticated in the Bronze Age than anyone had assumed. Eleven excavation campaigns between 1984 and 1994 — involving over 22,000 individual dives — recovered more than 17 tons of artifacts.
+The ship's cargo came from at least seven different cultures, proving that long-distance [international trade](/international-[trade](/trade)) networks were far more sophisticated in the Bronze Age than anyone had assumed. Eleven excavation campaigns between 1984 and 1994 — involving over 22,000 individual dives — recovered more than 17 tons of artifacts.
 
 ### The Antikythera Wreck (c. 70-60 BCE)
 
@@ -95,7 +95,7 @@ Greek sponge divers found this Roman-era wreck off the island of Antikythera in 
 
 ### The Titanic (1912)
 
-When Robert Ballard's team found the Titanic in 1985, it wasn't just a discovery — it was a cultural earthquake. The wreck confirmed that the ship had broken in two during the sinking (long disputed by survivors), and subsequent expeditions have recovered over 5,500 artifacts. The Titanic also sparked heated debate about the ethics of wreck exploration versus exploitation.
+When Robert Ballard's team found the Titanic in 1985, it wasn't just a discovery — it was a cultural earthquake. The wreck confirmed that the ship had broken in two during the sinking (long disputed by survivors), and subsequent expeditions have recovered over 5,500 artifacts. The Titanic also sparked heated [debate](/debate) about the [ethics](/ethics) of wreck exploration versus exploitation.
 
 ### The Whydah Gally (1717)
 

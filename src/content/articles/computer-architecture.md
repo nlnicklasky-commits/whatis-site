@@ -5,7 +5,7 @@ description: "Computer architecture defines how CPUs, memory, and I/O systems ar
 category: technology
 tags: ["computer science", "hardware", "processor", "memory", "system design", "computing", "engineering"]
 heroImage: "/images/articles/computer-architecture-hero.webp"
-heroAlt: "Diagram showing the internal structure of a CPU with data paths and control units"
+heroAlt: "Editorial photograph representing the concept of computer architecture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -187,7 +187,7 @@ But here's what most people miss: multi-core only helps if your software is actu
 
 SIMD lets a single instruction operate on multiple data elements simultaneously. Want to add corresponding elements of two arrays? Instead of adding them one pair at a time, SIMD processes 4, 8, or even 16 pairs in a single instruction.
 
-This is enormously useful for [computer graphics](/computer-graphics), signal processing, scientific computing, and [machine learning](/machine-learning). Intel's AVX-512 extension can process 512 bits (sixteen 32-bit floats) in a single instruction.
+This is enormously useful for [computer graphics](/computer-graphics), [signal processing](/signal-processing), scientific computing, and [machine learning](/machine-learning). Intel's AVX-512 extension can process 512 bits (sixteen 32-bit floats) in a single instruction.
 
 ### GPU Architecture: Massive Parallelism
 
@@ -251,7 +251,7 @@ How do you actually know if one architecture is better than another? It's surpri
 
 Architecture and software exist in a feedback loop. Architectural features are designed to accelerate common software patterns. Software evolves to exploit new architectural capabilities.
 
-When CPUs added SIMD instructions, compilers learned to auto-vectorize loops. When GPUs became programmable, an entire ecosystem of parallel computing frameworks ([CUDA, OpenCL](/app-development)) emerged. When [machine learning](/machine-learning) exploded, architects designed specialized matrix multiplication hardware.
+When CPUs added SIMD instructions, compilers learned to auto-vectorize loops. When GPUs became programmable, an entire ecosystem of [parallel computing](/parallel-computing) frameworks ([CUDA, OpenCL](/app-development)) emerged. When [machine learning](/machine-learning) exploded, architects designed specialized matrix multiplication hardware.
 
 Understanding this relationship is what separates good programmers from great ones. You don't need to design chips. But knowing that your data structure fits in L1 cache, that your loop is vectorizable, that your algorithm exploits branch prediction — that knowledge translates directly into code that runs faster on real hardware.
 
@@ -259,11 +259,11 @@ Understanding this relationship is what separates good programmers from great on
 
 Classical computer architecture is approaching physical limits. Transistors are now only a few nanometers wide — just dozens of atoms across. Quantum effects that once were irrelevant at larger scales now cause electrons to tunnel through barriers they shouldn't be able to cross.
 
-Quantum computing represents a fundamentally different architectural model. Instead of bits (0 or 1), quantum computers use qubits that can exist in superposition of states. Certain problems — factoring large numbers, simulating molecules, optimizing complex systems — could potentially be solved exponentially faster.
+[Quantum computing](/quantum-computing) represents a fundamentally different architectural model. Instead of bits (0 or 1), quantum computers use qubits that can exist in superposition of states. Certain problems — factoring large numbers, simulating molecules, optimizing complex systems — could potentially be solved exponentially faster.
 
 But quantum computers won't replace classical ones. They're not faster at everything — they're faster at specific mathematical problems. Your web browser, your spreadsheet, your video game will still run on classical architectures for the foreseeable future.
 
-Neuromorphic computing is another emerging approach, designing chips that mimic the structure of biological neural networks. IBM's TrueNorth and Intel's Loihi chips process information using artificial neurons and synapses, potentially handling pattern recognition and sensory processing with far less power than traditional architectures.
+Neuromorphic computing is another emerging approach, designing chips that mimic the structure of biological neural networks. IBM's TrueNorth and Intel's Loihi chips process information using artificial neurons and synapses, potentially handling [pattern recognition](/pattern-recognition) and sensory processing with far less power than traditional architectures.
 
 ## Key Takeaways
 

@@ -5,7 +5,7 @@ description: "Credit management controls how businesses and individuals handle c
 category: finance
 tags: ["credit management", "finance", "debt", "credit", "accounts receivable", "collections", "financial health"]
 heroImage: "/images/articles/credit-management-hero.webp"
-heroAlt: "Financial dashboard showing credit scores, payment histories, and risk indicators"
+heroAlt: "Editorial photograph representing the concept of credit management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,13 +35,13 @@ faq:
     a: "The 5 Cs are Character (borrower's reputation and track record), Capacity (ability to repay based on income and cash flow), Capital (borrower's own investment or net worth), Collateral (assets pledged as security), and Conditions (the purpose of the credit and economic environment). Lenders use this framework to evaluate creditworthiness for both business and consumer lending."
 ---
 
-# What Is Credit Management?
+# What Is Credit [Management](/management)?
 
-Credit management is the practice of granting credit to customers, setting the terms and conditions of that credit, collecting payments when they come due, and ensuring that credit risk---the possibility that a borrower won't repay---stays within acceptable limits. It applies to both businesses extending trade credit to other businesses and financial institutions lending to consumers, and it directly determines whether a company's revenue actually converts into cash.
+Credit management is the practice of granting credit to customers, setting the terms and conditions of that credit, collecting payments when they come due, and ensuring that credit risk---the possibility that a borrower won't repay---stays within acceptable limits. It applies to both businesses extending [trade](/trade) credit to other businesses and financial institutions lending to consumers, and it directly determines whether a company's revenue actually converts into cash.
 
 ## Why Credit Management Matters More Than You'd Think
 
-Here's a reality that catches many business owners off guard: revenue isn't cash. You can have $5 million in sales and still go bankrupt if your customers don't pay.
+Here's a reality that catches many business owners off guard: revenue isn't cash. You can have $5 million in [sales](/sales) and still go bankrupt if your customers don't pay.
 
 In the United States alone, businesses extend roughly $26 trillion in trade credit annually---more than the combined lending of the entire banking system. When one company sells goods or services to another and says "pay us in 30 days," that's trade credit. And every dollar of trade credit carries the risk that the customer never pays.
 
@@ -85,7 +85,7 @@ Credit scoring models---statistical formulas that weight various risk factors---
 
 Credit limits should reflect the customer's financial capacity and your risk exposure. A common rule of thumb: the credit limit shouldn't exceed 10% of the customer's net worth or one month of their purchases, whichever is lower. But rules of thumb are starting points, not gospel.
 
-Payment terms vary by industry convention and competitive pressure. Construction typically operates on longer terms (Net 60 or Net 90). Manufacturing commonly uses Net 30. Some industries---particularly those selling commodities---require payment on delivery.
+Payment terms vary by industry convention and competitive pressure. [Construction](/construction) typically operates on longer terms (Net 60 or Net 90). Manufacturing commonly uses Net 30. Some industries---particularly those selling commodities---require payment on delivery.
 
 ### Step 4: Ongoing Monitoring
 
@@ -191,9 +191,9 @@ Credit management looks very different across industries, because each industry 
 
 **Construction** faces unique challenges: long payment cycles (60-90 days is standard), progress billing, retention (5-10% of each payment held until project completion), and lien rights that create complex priority structures. Credit decisions in construction require understanding not just the customer but the entire project---who's the owner, who's the general contractor, and what's the payment chain?
 
-**Healthcare** deals with insurance claims, patient responsibility, and regulatory complexity. Hospitals must provide emergency treatment regardless of ability to pay, creating inherent bad debt exposure. Average healthcare collection rates run 50-70% of billed charges.
+**Healthcare** deals with [insurance](/insurance) claims, patient responsibility, and regulatory complexity. Hospitals must provide emergency treatment regardless of ability to pay, creating inherent bad debt exposure. Average healthcare collection rates run 50-70% of billed charges.
 
-**Manufacturing** often involves large orders, significant production lead times, and international customers. Letters of credit, credit insurance, and export factoring help manage risk in international trade. [Currency-trading](/currency-trading) risk adds another layer when selling to foreign buyers.
+**Manufacturing** often involves large orders, significant production lead times, and international customers. Letters of credit, credit insurance, and export factoring help manage risk in [international trade](/international-trade). [Currency-trading](/currency-trading) risk adds another layer when selling to foreign buyers.
 
 **Technology and SaaS** companies often collect annual subscription fees upfront, which shifts credit risk. But enterprise software deals with long sales cycles and deferred payment terms can create significant receivables. Revenue recognition rules under ASC 606 add accounting complexity.
 

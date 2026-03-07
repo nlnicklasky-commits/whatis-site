@@ -5,7 +5,7 @@ description: "Molecular biology studies the molecular basis of life—DNA, RNA, 
 category: science
 tags: ["molecular biology", "dna", "rna", "proteins", "genetics", "gene expression", "biology"]
 heroImage: "/images/articles/molecular-biology-hero.webp"
-heroAlt: "Double helix DNA strand with protein molecules in a laboratory visualization"
+heroAlt: "Editorial photograph representing the concept of molecular biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -61,7 +61,7 @@ The sugars and phosphates form the structural backbone. The bases point inward, 
 
 Two strands of DNA wind around each other in a right-handed helix, with about 10 base pairs per turn. The strands run in opposite directions (antiparallel). Human DNA contains about 3.2 billion base pairs, and if you stretched out all the DNA from a single cell, it would be about 2 meters long—compressed into a nucleus about 6 micrometers across. The packing ratio is staggering: roughly 10,000 to 1.
 
-Watson and Crick's work relied critically on X-ray crystallography data from Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's Photo 51—an X-ray diffraction image of DNA—provided the key evidence for the helical structure. Franklin died of ovarian cancer in 1958, and Watson, Crick, and Wilkins received the Nobel Prize in 1962. The question of proper credit for Franklin remains one of science's most significant attribution debates.
+Watson and Crick's work relied critically on [X-ray crystallography](/x-ray-[crystallography](/crystallography)) data from Rosalind Franklin and Maurice Wilkins at King's College London. Franklin's Photo 51—an X-ray diffraction image of DNA—provided the key evidence for the helical structure. Franklin died of ovarian cancer in 1958, and Watson, Crick, and Wilkins received the Nobel Prize in 1962. The question of proper credit for Franklin remains one of science's most significant attribution debates.
 
 ## DNA Replication: Copying the Blueprint
 
@@ -82,7 +82,7 @@ The whole operation moves at about 1,000 nucleotides per second in bacteria and 
 
 Francis Crick articulated the central dogma of molecular biology in 1958: genetic information flows from DNA to RNA to protein. This is a one-way information highway (with some important exceptions, which we'll get to).
 
-### Transcription: DNA to RNA
+### [Transcription](/transcription): DNA to RNA
 
 When a gene needs to be expressed—turned into a functional product—the cell first copies the DNA sequence into a messenger RNA (mRNA) molecule. This process is called transcription.
 
@@ -96,7 +96,7 @@ In bacteria, the mRNA is ready to use immediately. In eukaryotes (organisms with
 
 Splicing is particularly interesting because the same gene can be spliced in different ways to produce different proteins. This is called alternative splicing, and it explains how the human genome—with only about 20,000 protein-coding genes—can produce an estimated 80,000-100,000 different proteins. About 95% of human multi-exon genes undergo alternative splicing.
 
-### Translation: RNA to Protein
+### [Translation](/translation): RNA to Protein
 
 The mRNA travels to a ribosome—the cell's protein-manufacturing machine. The ribosome reads the mRNA three nucleotides at a time. Each three-nucleotide sequence (codon) specifies a particular amino acid according to the genetic code.
 
@@ -157,7 +157,7 @@ This cost reduction—roughly a millionfold in two decades, far faster than Moor
 
 ### Gene Editing: CRISPR-Cas9
 
-In 2012, Jennifer Doudna and Emmanuelle Charpentier demonstrated that the CRISPR-Cas9 system—adapted from a bacterial immune defense against viruses—could be programmed to cut DNA at virtually any desired location. They received the 2020 Nobel Prize in Chemistry.
+In 2012, Jennifer Doudna and Emmanuelle Charpentier demonstrated that the CRISPR-Cas9 system—adapted from a bacterial immune defense against viruses—could be programmed to cut DNA at virtually any desired location. They received the 2020 Nobel Prize in [Chemistry](/chemistry).
 
 CRISPR works by pairing a guide RNA (which specifies the target DNA sequence) with the Cas9 enzyme (which cuts the DNA at that location). Once the DNA is cut, the cell's repair machinery can be exploited to delete genes, correct mutations, or insert new sequences.
 
@@ -204,4 +204,4 @@ The molecular evidence overwhelmingly confirms evolutionary relationships inferr
 
 Molecular biology is the science that explains how life works at its most fundamental level—the interactions between DNA, RNA, and proteins that store genetic information, regulate its expression, and carry out the work of living cells. From the double helix to CRISPR gene editing, the field has transformed our understanding of heredity, disease, evolution, and what it means to be alive.
 
-The pace of discovery shows no signs of slowing. Single-cell sequencing reveals gene expression patterns in individual cells. Spatial transcriptomics maps gene activity within intact tissues. Synthetic biology engineers new biological systems from scratch. Each advance builds on the molecular framework established over the past 70 years—and each one opens questions that previous generations couldn't have imagined asking. If biology is the study of life, molecular biology is the study of life's source code. And we're still reading it.
+The pace of discovery shows no signs of slowing. Single-cell sequencing reveals gene expression patterns in individual cells. Spatial transcriptomics maps gene activity within intact tissues. [Synthetic biology](/synthetic-biology) engineers new biological systems from scratch. Each advance builds on the molecular framework established over the past 70 years—and each one opens questions that previous generations couldn't have imagined asking. If biology is the study of life, molecular biology is the study of life's source code. And we're still reading it.

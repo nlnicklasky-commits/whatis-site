@@ -5,7 +5,7 @@ description: "Traffic engineering is the branch of civil engineering focused on 
 category: technology
 tags: ["traffic engineering", "transportation", "civil engineering"]
 heroImage: "/images/articles/traffic-engineering.webp"
-heroAlt: "Overhead view of a complex highway interchange with flowing traffic at dusk"
+heroAlt: "Editorial photograph representing the concept of traffic engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -69,11 +69,11 @@ The frustrating thing is that once you've crossed into congested flow, the syste
 
 ### Shockwaves and Phantom Jams
 
-You've experienced this: you're driving on a highway and traffic suddenly stops. You crawl along for five minutes, then speeds pick back up. There's no accident, no construction, no reason at all for the slowdown. What happened?
+You've experienced this: you're driving on a highway and traffic suddenly stops. You crawl along for five minutes, then speeds pick back up. There's no accident, no [construction](/construction), no reason at all for the slowdown. What happened?
 
 These are traffic shockwaves, and they're one of the most studied phenomena in traffic engineering. A single driver braking — maybe reacting to a lane change, a glare, or just a moment of inattention — causes the following driver to brake harder (humans tend to overreact). The next driver brakes harder still. This cascade propagates backward through traffic at roughly 12 mph, creating a moving wave of stop-and-go congestion that can persist for hours and travel miles from where it started.
 
-Research at MIT and Nagoya University has shown that these waves are nearly inevitable once density exceeds about 85% of capacity. The math works a lot like fluid dynamics — and, yes, the same equations that describe waves in water can describe waves in traffic.
+Research at MIT and Nagoya University has shown that these waves are nearly inevitable once density exceeds about 85% of capacity. The math works a lot like [fluid dynamics](/fluid-dynamics) — and, yes, the same equations that describe waves in water can describe waves in traffic.
 
 ## Intersection Design: Where the Action Is
 
@@ -94,7 +94,7 @@ Modern signal systems don't operate independently. Coordinated signal systems �
 
 ### Adaptive Signal Control
 
-The latest generation of signal technology goes beyond pre-timed plans. Adaptive signal control systems — like SCATS (Sydney Coordinated Adaptive Traffic System), SCOOT (Split Cycle Offset Optimization Technique), and InSync — continuously adjust signal timing based on real-time traffic detection.
+The latest generation of signal technology goes beyond pre-timed plans. Adaptive signal control systems — like SCATS (Sydney Coordinated Adaptive Traffic System), SCOOT (Split Cycle Offset [Optimization](/optimization) Technique), and InSync — continuously adjust signal timing based on real-time traffic detection.
 
 These systems process data from loop detectors, video cameras, or radar sensors every few seconds and modify cycle lengths, green splits, and offsets to minimize overall delay. The [Federal Highway Administration](https://highways.dot.gov/) reports that adaptive signals typically reduce delays by 10-25% and stops by 10-20% compared to well-optimized pre-timed signals.
 
@@ -102,9 +102,9 @@ These systems process data from loop detectors, video cameras, or radar sensors 
 
 Roundabouts deserve their own section because they represent a fundamentally different approach to intersection control. Instead of stopping conflicting movements, roundabouts slow them down and merge them into a continuous circular flow.
 
-The safety benefits are remarkable. Because all traffic moves in the same direction at low speed, the most dangerous crash types — head-on and high-speed right-angle collisions — are physically impossible. The Insurance Institute for Highway Safety found that roundabouts reduce fatal and incapacitating injury crashes by 78-82% compared to signalized intersections.
+The safety benefits are remarkable. Because all traffic moves in the same direction at low speed, the most dangerous crash types — head-on and high-speed right-angle collisions — are physically impossible. The [Insurance](/insurance) Institute for Highway Safety found that roundabouts reduce fatal and incapacitating injury crashes by 78-82% compared to signalized intersections.
 
-Roundabouts also handle moderate traffic volumes with less delay than signals because there's no red phase — drivers yield rather than stop. Fuel consumption and emissions drop because vehicles don't idle at red lights. And they look better — the central island provides space for landscaping or public art.
+Roundabouts also handle moderate traffic volumes with less delay than signals because there's no red phase — drivers yield rather than stop. Fuel consumption and emissions drop because vehicles don't idle at red lights. And they look better — the central island provides space for [landscaping](/landscaping) or public art.
 
 The main downsides: they require more land than conventional intersections, they struggle with very high or very unbalanced traffic volumes, and they're confusing for drivers who haven't used them before (though crash data shows that even initially confused drivers are safer than at signalized intersections). Some designs also create challenges for pedestrians who are blind or have low vision, since there's no discrete crossing signal to rely on.
 
@@ -114,7 +114,7 @@ The physical design of roads — lane widths, curves, grades, sight distances �
 
 ### Design Speed and Geometric Standards
 
-Every road is designed for a specific speed. The design speed determines the minimum curve radius (sharper curves require lower speeds), maximum grade (steeper hills require more powerful braking), and minimum sight distance (drivers need to see far enough ahead to stop). These standards come from physics — the friction between tires and pavement, the effects of gravity on grades, human reaction time — and they're codified in the AASHTO Green Book (A Policy on Geometric Design of Highways and Streets).
+Every road is designed for a specific speed. The design speed determines the minimum curve radius (sharper curves require lower speeds), maximum grade (steeper hills require more powerful braking), and minimum sight distance (drivers need to see far enough ahead to stop). These standards come from [physics](/physics) — the friction between tires and pavement, the effects of gravity on grades, human reaction time — and they're codified in the AASHTO Green Book (A Policy on Geometric Design of Highways and Streets).
 
 Here's a detail that surprises most people: the design speed is often higher than the posted speed limit. A road posted at 45 mph might have a design speed of 50-55 mph, providing a safety margin. This margin acknowledges that people speed, and the road should remain forgiving even when they do.
 
@@ -152,7 +152,7 @@ Modern traffic engineering increasingly operates through technology layered on t
 
 ### Detection and Monitoring
 
-Traffic detection has evolved from pneumatic road tubes (the rubber hoses you sometimes see stretched across roads) to sophisticated sensor networks. Inductive loop detectors embedded in pavement remain the workhorse technology — reliable, accurate, and relatively cheap. But video detection (using computer vision to identify vehicles and pedestrians), radar, LiDAR, and Bluetooth/Wi-Fi travel time sensors are increasingly common.
+Traffic detection has evolved from pneumatic road tubes (the rubber hoses you sometimes see stretched across roads) to sophisticated sensor networks. Inductive loop detectors embedded in pavement remain the workhorse technology — reliable, accurate, and relatively cheap. But video detection (using [computer vision](/computer-vision) to identify vehicles and pedestrians), radar, LiDAR, and Bluetooth/Wi-Fi travel time sensors are increasingly common.
 
 Freeway management systems use detection data to calculate travel times, detect incidents, and activate variable message signs. Some systems — like Oregon's TripCheck and Caltrans's Performance Measurement System — process data from thousands of detectors in real time and publish travel conditions to the public through websites and apps.
 
@@ -170,6 +170,6 @@ Traffic engineering is broadening its focus. Historically, the profession optimi
 
 **Vision Zero** — a strategy originating in Sweden — aims for zero traffic deaths. It rejects the idea that traffic fatalities are an inevitable cost of mobility. Instead, it applies a systems approach: design roads so that human errors (which are inevitable) don't result in fatal outcomes.
 
-**Equity** is emerging as a core consideration. Low-income communities and communities of color disproportionately bear the burdens of traffic — higher crash rates, more air pollution from highways, longer commutes, and fewer safe walking and cycling options. Traffic engineers are increasingly asked to analyze and address these disparities.
+**Equity** is emerging as a core consideration. Low-income communities and communities of color disproportionately bear the burdens of traffic — higher crash rates, more air pollution from highways, longer commutes, and fewer safe [walking](/walking) and [cycling](/cycling) options. Traffic engineers are increasingly asked to analyze and address these disparities.
 
 The traffic signal you wait at tomorrow was designed, timed, and maintained by traffic engineers applying principles developed over more than a century. The fact that you barely think about it — that it mostly works — is the best evidence of how well the profession does its job. And the fact that 40,000 Americans still die on roads every year is the clearest evidence of how much work remains.

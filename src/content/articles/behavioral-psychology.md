@@ -5,7 +5,7 @@ description: "Behavioral psychology studies how behavior is learned through cond
 category: science
 tags: ["behavioral psychology", "behaviorism", "classical conditioning", "operant conditioning", "learning theory", "psychology", "reinforcement"]
 heroImage: "/images/articles/behavioral-psychology-hero.webp"
-heroAlt: "Laboratory setting with a Skinner box apparatus used to study operant conditioning in animals"
+heroAlt: "Editorial photograph representing the concept of behavioral psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,7 +33,7 @@ faq:
     a: "To some extent, yes. Behavioral techniques like exposure therapy, token economies, and systematic desensitization can change behavior without directly addressing thought patterns. However, modern psychology generally finds that combining behavioral and cognitive approaches produces better outcomes than either alone. Pure behaviorism's refusal to consider mental states is now seen as an unnecessary limitation."
 ---
 
-# What Is Behavioral Psychology?
+# What Is Behavioral [Psychology](/psychology)?
 
 Behavioral psychology — also called behaviorism — is the branch of psychology that studies observable behavior and the environmental factors that shape it. Rather than examining thoughts, feelings, or unconscious motivations, behavioral psychologists focus on what organisms actually do and how those actions are influenced by stimuli, consequences, and conditioning processes.
 
@@ -121,7 +121,7 @@ The experiment would be wildly unethical by modern standards. The child was neve
 
 By the 1960s and 1970s, behaviorism faced serious challenges from multiple directions.
 
-**Noam Chomsky's critique of language acquisition** was devastating. Skinner's 1957 book "Verbal Behavior" argued that language is learned through operant conditioning — children produce sounds, are reinforced for meaningful ones, and gradually shape their verbal repertoire. Chomsky's 1959 review argued this was hopelessly inadequate. Children produce sentences they've never heard before (ruling out simple imitation). They learn grammar far too quickly and with too little explicit correction to be explained by reinforcement alone. Chomsky proposed an innate language acquisition device — a biological capacity for grammar — that behaviorism simply couldn't account for.
+**Noam Chomsky's critique of [language acquisition](/language-acquisition)** was devastating. Skinner's 1957 book "Verbal Behavior" argued that language is learned through operant conditioning — children produce sounds, are reinforced for meaningful ones, and gradually shape their verbal repertoire. Chomsky's 1959 review argued this was hopelessly inadequate. Children produce sentences they've never heard before (ruling out simple imitation). They learn grammar far too quickly and with too little explicit correction to be explained by reinforcement alone. Chomsky proposed an innate language acquisition device — a biological capacity for grammar — that behaviorism simply couldn't account for.
 
 **Tolman's cognitive maps** showed that rats could learn the layout of a maze without reinforcement — a phenomenon called latent learning. When reinforcement was later introduced, they immediately demonstrated knowledge they'd acquired without any behavioral consequence. This directly contradicted the behaviorist claim that learning requires reinforcement.
 
@@ -133,17 +133,17 @@ By the 1960s and 1970s, behaviorism faced serious challenges from multiple direc
 
 Despite its theoretical limitations, behavioral psychology's practical applications are everywhere.
 
-### Clinical Psychology
+### [Clinical Psychology](/clinical-psychology)
 
-Cognitive-behavioral therapy (CBT) is the most widely practiced evidence-based psychotherapy, and its "behavioral" component comes directly from behaviorist principles. Exposure therapy for anxiety disorders — gradually confronting feared stimuli to extinguish the fear response — is pure classical conditioning theory applied clinically. Behavioral activation for depression — systematically increasing engagement in rewarding activities — is operant conditioning in therapeutic form.
+Cognitive-behavioral therapy (CBT) is the most widely practiced evidence-based [psychotherapy](/psychotherapy), and its "behavioral" component comes directly from behaviorist principles. Exposure therapy for anxiety disorders — gradually confronting feared stimuli to extinguish the fear response — is pure classical conditioning theory applied clinically. Behavioral activation for depression — systematically increasing engagement in rewarding activities — is operant conditioning in therapeutic form.
 
 ### Applied Behavior Analysis (ABA)
 
 ABA is the most evidence-based intervention for [autism](/anatomy) spectrum disorder. It uses systematic observation, data collection, and reinforcement strategies to teach new skills and reduce problematic behaviors. Early intensive behavioral intervention (EIBI) — 20-40 hours per week of ABA therapy starting before age 5 — has been shown to produce significant improvements in language, social skills, and adaptive behavior for many children.
 
-ABA is not without controversy. Critics argue it can be overly focused on compliance and "normalizing" behavior rather than understanding and accommodating neurodivergent perspectives. The field has evolved in response, with greater emphasis on child-directed goals and natural environment teaching.
+ABA is not without controversy. Critics argue it can be overly focused on compliance and "normalizing" behavior rather than understanding and accommodating neurodivergent perspectives. The field has evolved in response, with greater emphasis on child-directed goals and natural environment [teaching](/teaching).
 
-### Education
+### [Education](/education)
 
 Token economies — where desired behaviors earn tokens exchangeable for rewards — are operant conditioning systems used widely in classrooms and residential programs. Programmed instruction, which breaks material into small steps with immediate feedback, was directly developed from Skinner's research. Modern educational technology, including gamification and adaptive learning platforms, draws heavily on reinforcement schedules and shaping principles.
 

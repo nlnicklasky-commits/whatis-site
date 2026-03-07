@@ -5,7 +5,7 @@ description: "Digital forensics recovers and analyzes electronic evidence for le
 category: technology
 tags: ["digital forensics", "cybersecurity", "computer forensics", "investigation", "evidence", "law enforcement", "data recovery"]
 heroImage: "/images/articles/digital-forensics-hero.webp"
-heroAlt: "Forensic investigator examining digital evidence on multiple computer screens in a laboratory setting"
+heroAlt: "Editorial photograph representing the concept of digital forensics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -73,15 +73,15 @@ Analysis is where forensic skill really matters. Raw data becomes meaningful evi
 
 **Deleted file recovery** exploits the fact that deletion usually doesn't destroy data immediately. On traditional hard drives, the operating system marks the space as available but doesn't overwrite it. Forensic tools can recover complete files from these marked-but-not-overwritten areas. Even partial file recovery can be valuable—fragments of a document or image may contain critical evidence.
 
-**Metadata analysis** extracts hidden information embedded in files. Photos contain EXIF data recording the camera model, GPS coordinates, date, and time. Documents contain author names, revision histories, and editing timestamps. This metadata can place a person at a location, prove who created a document, or establish a timeline of events.
+**Metadata analysis** extracts hidden information embedded in files. Photos contain EXIF data recording the camera model, GPS coordinates, date, and time. Documents contain author names, revision histories, and [editing](/editing) timestamps. This metadata can place a person at a location, prove who created a document, or establish a timeline of events.
 
 **Registry analysis** (on Windows systems) reveals an extraordinary amount about system use. Which USB drives were connected and when. Which programs were installed and run. Which files were recently accessed. Network connections. User account activity. The Windows registry is essentially a detailed activity log that most users don't know exists.
 
-**Internet history analysis** examines browser histories, cookies, cached pages, download records, and search queries. Even in private/incognito mode, traces often remain—in DNS caches, system logs, or network equipment. Search queries have been particularly damaging in criminal cases, with suspects' pre-crime research becoming prosecution evidence.
+**[Internet history](/internet-history) analysis** examines browser histories, cookies, cached pages, download records, and search queries. Even in private/incognito mode, traces often remain—in DNS caches, system logs, or network equipment. Search queries have been particularly damaging in criminal cases, with suspects' pre-crime research becoming prosecution evidence.
 
 ### Step 4: Presentation
 
-Forensic findings must be communicated clearly to people who aren't technical—judges, juries, attorneys. This requires translating complex technical analysis into understandable narratives supported by verifiable evidence.
+Forensic findings must be communicated clearly to people who aren't technical—judges, juries, attorneys. This requires translating complex [technical analysis](/technical-analysis) into understandable narratives supported by verifiable evidence.
 
 Expert witnesses must explain their methods, defend their conclusions against cross-examination, and demonstrate that their techniques are scientifically sound and widely accepted. The Daubert standard (in U.S. federal courts) requires that expert testimony be based on sufficient facts, reliable methods, and properly applied techniques.
 
@@ -121,7 +121,7 @@ Network forensics analyzes network traffic to reconstruct events, identify intru
 
 **Log analysis** examines records from firewalls, routers, servers, and other network devices. These logs can show who accessed what systems, when, from where, and what they did. In corporate breach investigations, correlating logs across multiple systems often reveals the attacker's path through the network.
 
-**Intrusion detection** identifies unauthorized access by analyzing traffic patterns, known attack signatures, and behavioral anomalies. Post-incident, forensic analysis of intrusion detection logs helps reconstruct how attackers gained access and what they accessed.
+**[Intrusion detection](/intrusion-detection)** identifies unauthorized access by analyzing traffic patterns, known attack signatures, and behavioral anomalies. Post-incident, forensic analysis of intrusion detection logs helps reconstruct how attackers gained access and what they accessed.
 
 ## Memory Forensics
 
@@ -133,7 +133,7 @@ The challenge: RAM is volatile. Power off the computer and it's gone. Investigat
 
 ## Cloud Forensics
 
-Cloud computing creates unique forensic challenges. Data stored in cloud services may reside in different countries (with different legal jurisdictions), be shared across physical servers with other customers, and be accessible only through provider APIs with limited forensic capabilities.
+[Cloud computing](/cloud-computing) creates unique forensic challenges. Data stored in cloud services may reside in different countries (with different legal jurisdictions), be shared across physical servers with other customers, and be accessible only through provider APIs with limited forensic capabilities.
 
 **Legal process** for cloud data often involves subpoenas or warrants directed at cloud providers. Google, Microsoft, Apple, and others have legal teams and established processes for responding to law enforcement requests—but response times can be slow and data provided may be incomplete.
 
@@ -177,13 +177,13 @@ Key certifications include:
 - **AccessData Certified Examiner (ACE)** — focused on FTK tools
 - **Cellebrite Certified Operator (CCO)** — focused on mobile forensics
 
-Most positions require at minimum a bachelor's degree in computer science, cybersecurity, or a related field, plus specialized forensic training. Law enforcement forensic examiners typically attend agencies like the National Computer Forensics Institute (NCFI) or receive training through SANS, IACIS, or similar organizations.
+Most positions require at minimum a bachelor's degree in [computer science](/computer-science), cybersecurity, or a related field, plus specialized forensic training. Law enforcement forensic examiners typically attend agencies like the National Computer Forensics Institute (NCFI) or receive training through SANS, IACIS, or similar organizations.
 
 ## The Tools of the Trade
 
 **EnCase** and **FTK (Forensic Toolkit)** are the two dominant commercial platforms for disk forensics. They handle forensic imaging, file system analysis, keyword searching, email analysis, and reporting—basically the full investigation workflow.
 
-**Autopsy** is the leading open-source alternative, built on The Sleuth Kit. It's free, capable, and widely used in law enforcement and education.
+**Autopsy** is the leading open-source alternative, built on The Sleuth Kit. It's free, capable, and widely used in law enforcement and [education](/education).
 
 **Cellebrite UFED** and **MSAB XRY** dominate mobile device forensics, supporting extraction from thousands of device models.
 

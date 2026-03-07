@@ -5,7 +5,7 @@ description: "Political cartoons use humor, satire, and visual metaphors to comm
 category: arts-amp-culture
 tags: ["politics", "art", "satire", "journalism", "humor", "current events"]
 heroImage: "/images/articles/political-cartoons.webp"
-heroAlt: "Editorial cartoon with exaggerated caricatures of political figures"
+heroAlt: "Editorial photograph representing the concept of political cartoons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,19 +31,19 @@ faq:
 
 # What Is Political Cartoons?
 
-A political cartoon is a drawing — usually a single panel — that uses satire, caricature, and visual metaphor to comment on political events, leaders, or social issues. They're opinion pieces drawn instead of written. At their best, political cartoons distill a complex issue into a single image that hits harder than a thousand-word editorial.
+A political cartoon is a [drawing](/drawing) — usually a single panel — that uses satire, caricature, and visual metaphor to comment on political events, leaders, or social issues. They're opinion pieces drawn instead of written. At their best, political cartoons distill a complex issue into a single image that hits harder than a thousand-word editorial.
 
 ## The Art of Saying It With Pictures
 
-Political cartoons work because they bypass the part of your brain that processes arguments and go straight for the gut. A well-drawn cartoon about government waste doesn't present data and statistics. It shows a bloated figure in a suit lighting a cigar with a hundred-dollar bill. You get it instantly. You react before you've even finished processing what you're looking at.
+Political cartoons work because they bypass the part of your brain that processes arguments and go straight for the gut. A well-drawn cartoon about [government](/government) waste doesn't present data and [statistics](/statistics). It shows a bloated figure in a suit lighting a cigar with a hundred-dollar bill. You get it instantly. You react before you've even finished processing what you're looking at.
 
-The tools of the trade haven't changed much in centuries:
+The tools of the [trade](/trade) haven't changed much in centuries:
 
-**Caricature** — exaggerating physical features to make public figures instantly recognizable. Abraham Lincoln's height and beard. Nixon's jowls and ski-slope nose. Trump's hair. The exaggeration isn't just for laughs — it's a form of shorthand that lets the cartoonist communicate identity in a few pen strokes.
+**Caricature** — exaggerating physical features to make public figures instantly recognizable. Abraham Lincoln's height and beard. Nixon's jowls and ski-slope nose. Trump's hair. The exaggeration isn't just for laughs — it's a form of [shorthand](/shorthand) that lets the cartoonist communicate identity in a few pen strokes.
 
 **Visual metaphor** — representing abstract concepts through concrete images. Uncle Sam stands for the United States. A donkey represents Democrats; an elephant represents Republicans (both originated with Thomas Nast in the 1870s). A sinking ship represents a failing policy. These symbols are a shared visual vocabulary that cartoonists and audiences understand immediately.
 
-**Labeling** — sometimes the metaphor needs a little help. Cartoonists label figures, objects, and concepts to make sure the meaning is clear. It's a convention specific to editorial cartooning — you wouldn't label things in a fine art painting, but in a cartoon, clarity matters more than subtlety.
+**Labeling** — sometimes the metaphor needs a little help. Cartoonists label figures, objects, and concepts to make sure the meaning is clear. It's a convention specific to editorial [cartooning](/cartooning) — you wouldn't label things in a [fine art](/fine-art) [painting](/painting), but in a cartoon, clarity matters more than subtlety.
 
 **Irony and juxtaposition** — placing contradictory elements side by side to highlight hypocrisy or absurdity. A politician promising to protect the environment while standing in front of a clear-cut forest. A peace conference held in a room full of weapons. The contrast makes the point.
 
@@ -57,7 +57,7 @@ In America, Benjamin Franklin's "Join, or Die" (1754) — a snake cut into segme
 
 Thomas Nast (1840-1902) was arguably the most influential American political cartoonist. Working for *Harper's Weekly*, he created the Republican elephant and Democratic donkey, popularized the modern image of Santa Claus, and waged a visual war against Boss Tweed's corrupt Tammany Hall political machine in New York City. Tweed reportedly said, "Stop them damn pictures. I don't care so much what the papers say about me. My constituents can't read. But they can't help seeing them damn pictures."
 
-The 20th century produced cartoonists whose work shaped public opinion during wars, civil rights struggles, and political scandals. Herblock (Herbert Block) of *The Washington Post* won three Pulitzer Prizes over five decades. Bill Mauldin's World War II cartoons of weary soldiers "Willie and Joe" captured the grunt's-eye view of combat. Pat Oliphant's pointed caricatures ran in over 600 newspapers.
+The 20th century produced cartoonists whose work shaped public opinion during wars, civil rights struggles, and political scandals. Herblock (Herbert Block) of *The Washington Post* won three Pulitzer Prizes over five decades. Bill Mauldin's [World War II](/world-war-ii) cartoons of weary soldiers "Willie and Joe" captured the grunt's-eye view of combat. Pat Oliphant's pointed caricatures ran in over 600 newspapers.
 
 ## The Crisis in Cartooning
 
@@ -65,7 +65,7 @@ Here's the uncomfortable reality: professional editorial cartooning is in troubl
 
 In 2000, roughly 200 U.S. newspapers employed staff editorial cartoonists. By 2020, that number had dropped below 40. The reasons are mostly economic — newspapers are cutting costs everywhere — but there's a cultural element too. Political cartoons provoke, and provocation generates complaints. Some editors decided the headaches weren't worth it.
 
-The *New York Times* stopped running political cartoons entirely in 2019, after an international controversy over a syndicated cartoon depicting Israeli Prime Minister Benjamin Netanyahu. Several other major papers have followed suit.
+The *New York Times* stopped [running](/running) political cartoons entirely in 2019, after an international controversy over a syndicated cartoon depicting Israeli Prime Minister Benjamin Netanyahu. Several other major papers have followed suit.
 
 But political cartooning hasn't died — it's migrated. Cartoonists like Matt Bors, Jen Sorensen, and Ruben Bolling publish primarily online. Social media lets cartoonists reach millions without a newspaper gatekeeper. The format is evolving too — animated editorial cartoons, multi-panel web comics, and meme-influenced formats are expanding what "political cartoon" means.
 

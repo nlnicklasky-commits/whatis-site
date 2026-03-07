@@ -5,7 +5,7 @@ description: "Software engineering is the disciplined approach to designing, bui
 category: technology
 tags: ["software engineering", "programming", "software development", "computer science", "agile", "technology"]
 heroImage: "/images/articles/software-engineering.webp"
-heroAlt: "Software engineer working on code with multiple monitors showing development tools and terminal windows"
+heroAlt: "Editorial photograph representing the concept of software engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "A traditional path through a four-year computer science degree takes about four years. Coding bootcamps range from 3 to 12 months. Self-taught engineers vary widely. However, becoming proficient — not just employable — typically takes years of practice regardless of the educational path. The field evolves rapidly, so learning never really stops."
 ---
 
-# What Is Software Engineering?
+# What Is Software [Engineering](/engineering)?
 
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It treats software creation not as an art or a craft — though it contains elements of both — but as a disciplined process that can be planned, measured, and improved.
 
@@ -153,7 +153,7 @@ Software engineering is fundamentally a team activity, and many of its hardest p
 
 Brooks's observation that communication overhead grows with team size explains why small, focused teams consistently outperform large ones. A team of 5 has 10 communication channels. A team of 10 has 45. A team of 50 has 1,225. Each channel is a potential source of misunderstanding, delay, and conflict.
 
-Conway's Law (1967) adds another dimension: organizations tend to design systems that mirror their communication structures. If your frontend, backend, and database teams are separate, you'll end up with a three-tier architecture — regardless of whether that's the best technical choice. This observation has led some organizations to deliberately restructure teams around desired architectural outcomes.
+Conway's Law (1967) adds another dimension: organizations tend to design systems that mirror their communication structures. If your frontend, backend, and database teams are separate, you'll end up with a three-tier [architecture](/architecture) — regardless of whether that's the best technical choice. This observation has led some organizations to deliberately restructure teams around desired architectural outcomes.
 
 ### Technical Debt
 
@@ -194,6 +194,6 @@ Several trends are reshaping the discipline.
 
 **Formal methods gaining ground.** Mathematical techniques for proving software correctness — long considered too academic for industry — are finding practical applications. Amazon uses formal methods to verify critical components of AWS. TLA+ and Alloy are being adopted by engineers who need to build systems that simply cannot have bugs.
 
-**Sustainability.** The environmental footprint of software — data centers consume about 1-1.5% of global electricity — is starting to influence engineering decisions. "Green software engineering" considers energy efficiency as a first-class requirement alongside performance and cost.
+**Sustainability.** The environmental footprint of software — data centers consume about 1-1.5% of global [electricity](/electricity) — is starting to influence engineering decisions. "Green software engineering" considers energy efficiency as a first-class requirement alongside performance and cost.
 
 The discipline has come a long way from the 1968 NATO conference. Software engineering is still messy, still unpredictable, and still capable of producing spectacular failures. But the tools, methods, and accumulated knowledge are vastly better than they were. The challenge — as it has always been — is applying that knowledge consistently, even under deadline pressure, budget constraints, and the eternal temptation to just ship it and fix it later.

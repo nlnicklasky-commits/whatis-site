@@ -5,7 +5,7 @@ description: "Social psychology studies how people's thoughts, feelings, and beh
 category: psychology
 tags: ["social psychology", "psychology", "behavior", "social influence", "group dynamics", "cognitive bias"]
 heroImage: "/images/articles/social-psychology.webp"
-heroAlt: "Group of people interacting in a social setting, illustrating the dynamics that social psychologists study"
+heroAlt: "Editorial photograph representing the concept of social psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,7 +47,7 @@ This doesn't mean personality doesn't matter. It does. But social psychology con
 
 ## The Experiments That Changed Everything
 
-Social psychology is famous for its experiments, several of which have entered popular culture. These studies aren't just academic curiosities — they revealed truths about human nature that challenged comfortable assumptions.
+Social psychology is famous for its experiments, several of which have entered [popular culture](/popular-culture). These studies aren't just academic curiosities — they revealed truths about human nature that challenged comfortable assumptions.
 
 ### Solomon Asch and Conformity (1951)
 
@@ -145,13 +145,13 @@ Starting around 2011, social psychology faced a reckoning. Several high-profile 
 
 The poster child was Daryl Bem's 2011 paper claiming to find evidence for precognition (ESP). It was published in a top journal, met the field's statistical standards, and was almost certainly wrong. If the standard methods could produce evidence for psychic powers, something was broken.
 
-What followed was painful but productive. The field discovered that many published findings were based on small samples, flexible data analysis (running multiple tests and reporting only the significant ones), and publication bias (journals publishing positive results and rejecting null findings).
+What followed was painful but productive. The field discovered that many published findings were based on small samples, flexible [data analysis](/data-analysis) (running multiple tests and reporting only the significant ones), and publication bias (journals publishing positive results and rejecting null findings).
 
 The response has been substantial: pre-registration of hypotheses (stating what you'll test before you collect data), larger sample sizes, open data sharing, and registered reports (where journals accept studies based on methods before results are known). Major replication projects — like the Reproducibility Project and "Many Labs" studies — have systematically tested which classic findings hold up.
 
 The honest answer: some do, some don't. Conformity effects replicate well. The bystander effect holds up. Ego depletion (the idea that willpower is a limited resource) has not fared well. Priming effects (subtle cues unconsciously shaping behavior) have shown much weaker effects than originally claimed.
 
-This isn't a failure of social psychology — it's the scientific method working as intended. Finding out you were wrong is how science progresses.
+This isn't a failure of social psychology — it's the [scientific method](/scientific-method) working as intended. Finding out you were wrong is how science progresses.
 
 ## Applied Social Psychology
 

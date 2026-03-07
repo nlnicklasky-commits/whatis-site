@@ -5,7 +5,7 @@ description: "Sociolinguistics studies how language varies with social factors l
 category: language
 tags: ["sociolinguistics", "language", "dialects", "social class", "linguistics", "identity"]
 heroImage: "/images/articles/sociolinguistics.webp"
-heroAlt: "A diverse group of people in conversation representing different speech communities and dialects"
+heroAlt: "Editorial photograph representing the concept of sociolinguistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ The field's central insight is that language variation isn't random or accidenta
 
 ## Key Findings
 
-**Language varies by social class.** William Labov's famous 1962 study of New York City department stores found that sales clerks at higher-end stores (Saks Fifth Avenue) pronounced the "r" in words like "fourth floor" more consistently than clerks at lower-end stores (S. Klein). The "r" pronunciation was a class marker — more prestigious speakers used it more. Labov demonstrated that even tiny phonetic details correlate systematically with social position.
+**Language varies by social class.** William Labov's famous 1962 study of New York City department stores found that [sales](/sales) clerks at higher-end stores (Saks Fifth Avenue) pronounced the "r" in words like "fourth floor" more consistently than clerks at lower-end stores (S. Klein). The "r" pronunciation was a class marker — more prestigious speakers used it more. Labov demonstrated that even tiny phonetic details correlate systematically with social position.
 
 **Language varies by gender.** Research consistently shows that women tend to use more standard or prestigious language forms than men of the same social class. This doesn't mean women speak "better" — it means they're more attuned to linguistic prestige norms, possibly because language correctness is one of the tools available in contexts where other power resources are limited.
 
@@ -51,18 +51,18 @@ Sociolinguistics reveals uncomfortable truths about power and prejudice.
 
 **Standard languages are political constructions.** The "standard" version of any language is the dialect spoken by the socially dominant group. Standard American English reflects the speech patterns of educated, middle-class, largely white Americans — not because it's linguistically superior, but because its speakers hold institutional power. Other dialects — African American Vernacular English, Appalachian English, Chicano English — are equally systematic but socially stigmatized.
 
-**Linguistic discrimination is real.** Studies show that people judged to have "non-standard" accents face disadvantages in hiring, housing, education, and legal proceedings. A 2020 study found that landlords were significantly less likely to return calls from speakers with African American or Chicano-sounding voices. This discrimination operates on the basis of speech — which correlates with race and class — making it a stealth form of social prejudice.
+**Linguistic discrimination is real.** Studies show that people judged to have "non-standard" accents face disadvantages in hiring, housing, [education](/education), and legal proceedings. A 2020 study found that landlords were significantly less likely to return calls from speakers with African American or Chicano-sounding voices. This discrimination operates on the basis of speech — which correlates with race and class — making it a stealth form of social prejudice.
 
-**Language policies affect communities.** Decisions about which language is used in schools, government, and media have profound consequences. English-only policies in US schools historically punished Native American and Spanish-speaking children for using their home languages — contributing to language loss and cultural erosion. The linguistic field of a society reflects power relationships.
+**Language policies affect communities.** Decisions about which language is used in schools, [government](/government), and media have profound consequences. English-only policies in US schools historically punished Native American and Spanish-speaking children for using their home languages — contributing to language loss and cultural erosion. The linguistic field of a society reflects power relationships.
 
 ## Applications
 
-**Education** benefits from sociolinguistic research. Understanding that dialectal differences are not deficiencies helps teachers support students who speak non-standard varieties without stigmatizing their home language. Code-switching instruction — teaching students to use standard varieties in formal contexts while respecting their natural speech — is more effective than correcting students' language.
+**Education** benefits from sociolinguistic research. Understanding that dialectal differences are not deficiencies helps teachers support students who speak non-standard varieties without stigmatizing their home language. Code-switching instruction — [teaching](/teaching) students to use standard varieties in formal contexts while respecting their natural speech — is more effective than correcting students' language.
 
 **Legal settings** use sociolinguistic expertise. Forensic linguists analyze threatening texts, disputed confessions, and trademark disputes. Understanding how dialects affect jury perception of witnesses helps create fairer proceedings.
 
 **Healthcare** communication improves when providers understand linguistic diversity. Miscommunication between patients and doctors often stems from dialectal differences, cultural communication norms, or assumptions about what patients mean based on how they speak.
 
-**Technology** products require sociolinguistic awareness. Voice assistants, speech recognition systems, and natural language processing tools that only work with standard accents exclude millions of users. Training AI on diverse speech data is a sociolinguistic challenge as much as a technical one.
+**Technology** products require sociolinguistic awareness. Voice assistants, speech recognition systems, and [natural language processing](/natural-language-processing) tools that only work with standard accents exclude millions of users. Training AI on diverse speech data is a sociolinguistic challenge as much as a technical one.
 
 Sociolinguistics matters because language isn't just communication — it's identity, power, and belonging. How you speak shapes how the world treats you, and understanding that connection is the first step toward building a world where linguistic diversity is valued rather than punished.

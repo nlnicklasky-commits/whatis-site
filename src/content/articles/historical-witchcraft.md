@@ -5,7 +5,7 @@ description: "Historical witchcraft covers centuries of beliefs, accusations, an
 category: history
 tags: ["historical witchcraft", "witchcraft", "witch hunts", "early modern history", "folklore"]
 heroImage: "/images/articles/historical-witchcraft.webp"
-heroAlt: "Woodcut illustration of a witch trial scene from early modern Europe"
+heroAlt: "Editorial photograph representing the concept of historical witchcraft"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,15 +57,15 @@ The theological framework that emerged looked roughly like this: witches made pa
 
 ## The Peak of the Witch Trials: 1560-1660
 
-The worst period of witch-hunting in Europe lasted roughly a century, from about 1560 to 1660. During this window, an estimated 80,000 to 100,000 people were formally tried for witchcraft, and between 40,000 and 60,000 were executed — mostly by hanging in England and its colonies, by burning in continental Europe.
+The worst period of witch-[hunting](/hunting) in Europe lasted roughly a century, from about 1560 to 1660. During this window, an estimated 80,000 to 100,000 people were formally tried for witchcraft, and between 40,000 and 60,000 were executed — mostly by hanging in England and its colonies, by burning in continental Europe.
 
-Several factors drove the intensity during this period. The Protestant Reformation had shattered religious unity, and both Catholics and Protestants used witch-hunting to demonstrate their piety and authority. The Little Ice Age brought crop failures and economic hardship, creating anxiety that people channeled into accusations. Wars — including the devastating Thirty Years' War (1618-1648) — destabilized communities and institutions.
+Several factors drove the intensity during this period. The Protestant Reformation had shattered religious unity, and both Catholics and Protestants used witch-hunting to demonstrate their piety and authority. The Little Ice Age brought crop failures and economic hardship, creating anxiety that people channeled into accusations. Wars — including the devastating [Thirty Years' War](/thirty-years-war) (1618-1648) — destabilized communities and institutions.
 
 Germany was the epicenter. Roughly half of all European witch trial executions occurred in German-speaking territories. The fragmented political structure of the Holy Roman Empire meant there was no central authority to restrain local witch-hunting campaigns. In some small territories, the results were almost genocidal — the city of Bamberg executed roughly 600 alleged witches between 1626 and 1631, and Wurzburg executed a similar number.
 
 ### Who Was Accused?
 
-The profile of a typical accused witch varied by region, but some patterns held broadly. About 75% to 80% of the accused across Europe were women. They tended to be older — post-menopausal women living alone were disproportionately targeted. Many had reputations as difficult, argumentative, or socially marginal. Some practiced folk healing or midwifery.
+The profile of a typical accused witch varied by region, but some patterns held broadly. About 75% to 80% of the accused across Europe were women. They tended to be older — post-menopausal women living alone were disproportionately targeted. Many had reputations as difficult, argumentative, or socially marginal. Some practiced folk healing or [midwifery](/midwifery).
 
 But it wasn't exclusively women, and it wasn't exclusively the poor. In the Bamberg trials, victims included a sitting mayor, several priests, and wealthy citizens. In Iceland, roughly 90% of the accused were men. In Finland and Estonia, male accusations were also common.
 
@@ -77,7 +77,7 @@ The legal proceedings in witch trials were often nightmarish. In many continenta
 
 Confessions extracted under torture typically confirmed the theological framework. Yes, I made a pact with the devil. Yes, I attended a sabbath. Yes, I flew through the air on a broomstick. The content of confessions was remarkably uniform across regions — not because the events were real, but because interrogators asked leading questions drawn from the same theological texts.
 
-English witch trials operated somewhat differently. English common law generally prohibited judicial torture (with some exceptions), so confessions were harder to extract. English trials relied more heavily on witness testimony, swimming tests (the accused was thrown into water — floating indicated guilt), and the discovery of "witch's marks" on the body. The conviction rate in England was consequently lower than in many continental jurisdictions.
+English witch trials operated somewhat differently. English common law generally prohibited judicial torture (with some exceptions), so confessions were harder to extract. English trials relied more heavily on witness testimony, [swimming](/swimming) tests (the accused was thrown into water — floating indicated guilt), and the discovery of "witch's marks" on the body. The conviction rate in England was consequently lower than in many continental jurisdictions.
 
 ### Chain-Reaction Accusations
 
@@ -107,6 +107,6 @@ The last known legal execution for witchcraft in Europe was Anna Goldi in Switze
 
 The witch trials left deep marks on Western legal and cultural traditions. The Salem trials, in particular, became a metaphor for any form of mass accusation based on flimsy evidence — Arthur Miller's *The Crucible* (1953) explicitly used Salem as an allegory for McCarthyism.
 
-The study of witch trials has also shaped how historians think about [sociology](/sociology), gender, power, and mass psychology. Why do societies periodically turn on their own members? How do legal systems fail? What makes communities vulnerable to panic? These questions, first explored through the lens of witchcraft scholarship, remain urgently relevant.
+The study of witch trials has also shaped how historians think about [sociology](/sociology), gender, power, and mass [psychology](/psychology). Why do societies periodically turn on their own members? How do legal systems fail? What makes communities vulnerable to panic? These questions, first explored through the lens of witchcraft scholarship, remain urgently relevant.
 
 Modern scholarship has moved away from simple explanations. The witch trials weren't caused by any single factor — not ergot poisoning, not misogyny alone, not religious fanaticism in isolation. They emerged from a specific intersection of theological innovation, legal procedure, social stress, and political fragmentation. Understanding that complexity is the only way to understand why tens of thousands of people were killed for crimes that never happened.

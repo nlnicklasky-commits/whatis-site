@@ -5,7 +5,7 @@ description: "Sleight of hand is the art of using manual dexterity to perform ma
 category: arts-amp-culture
 tags: ["sleight of hand", "magic", "illusion", "close-up magic", "card tricks", "dexterity"]
 heroImage: "/images/articles/sleight-of-hand.webp"
-heroAlt: "A magician's hands performing a card flourish with cards fanning out in mid-air"
+heroAlt: "Editorial photograph representing the concept of sleight of hand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The phrase comes from the French "leger de main" — lightness of hand. But spee
 
 **The double lift** is essential to card magic. You lift two cards from the top of the deck as if lifting one, showing the audience what they believe is the top card. When you then place it face-down, you're actually placing only the top card — the card they saw is still on the deck. From this setup, countless effects become possible.
 
-**Switches** secretly exchange one object for another. A magician might switch a signed card for a duplicate, or trade a borrowed coin for a prepared one. These moves require timing, misdirection, and confidence.
+**Switches** secretly exchange one object for another. A magician might switch a signed card for a duplicate, or [trade](/trade) a borrowed coin for a prepared one. These moves require timing, misdirection, and confidence.
 
 ## Why Misdirection Matters More Than Speed
 
@@ -51,7 +51,7 @@ Here's what most people get wrong: they assume the hand is faster than the eye. 
 
 What you can do is manage their attention. Humans can only focus detailed attention on one thing at a time. A magician who looks at their left hand, makes a gesture with their left hand, and speaks about their left hand has effectively made their right hand invisible — not because it disappeared, but because nobody's watching it.
 
-Studies using eye-tracking technology confirm this. When a magician looks at a specific spot, the audience follows. When the magician makes a large dramatic gesture, smaller movements elsewhere go unnoticed. Misdirection is applied psychology.
+Studies using eye-tracking technology confirm this. When a magician looks at a specific spot, the audience follows. When the magician makes a large dramatic gesture, smaller movements elsewhere go unnoticed. Misdirection is applied [psychology](/psychology).
 
 ## The History
 

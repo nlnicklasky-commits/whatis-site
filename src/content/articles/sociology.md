@@ -5,7 +5,7 @@ description: "Sociology studies human societies, social institutions, and group 
 category: social-sciences
 tags: ["sociology", "society", "social institutions", "Durkheim", "Weber", "research methods"]
 heroImage: "/images/articles/sociology.webp"
-heroAlt: "A visual representation of social networks and community structures in a city setting"
+heroAlt: "Editorial photograph representing the concept of sociology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Sociology?
 
-Sociology is the systematic study of human societies — their structures, institutions, relationships, and processes of change. It examines how social forces shape individual lives, how groups form and function, how inequality persists across generations, and how institutions like family, education, religion, government, and economy organize collective life.
+Sociology is the systematic study of human societies — their structures, institutions, relationships, and processes of change. It examines how social forces shape individual lives, how groups form and function, how inequality persists across generations, and how institutions like family, [education](/education), [religion](/religion), [government](/government), and economy organize collective life.
 
 The sociological perspective asks a specific kind of question: not "why did this person fail?" but "why do people in this social position fail more often?" Not "why is this person religious?" but "what social conditions make religion more or less prevalent?" It shifts the analytical lens from individual choices to social patterns — and in doing so, reveals forces that are invisible at the individual level.
 
@@ -49,17 +49,17 @@ The sociological perspective asks a specific kind of question: not "why did this
 
 **Emile Durkheim** (1858-1917) established sociology as a distinct academic discipline with its own methods. His study of suicide — showing that suicide rates varied systematically across religions, marital statuses, and social groups — demonstrated that even the most seemingly individual act has social causes. He developed the concept of "social facts" — collective patterns that exist independently of any individual and constrain behavior.
 
-**Max Weber** (1864-1920) emphasized understanding social action through the meanings people attach to it. His work on bureaucracy, authority, religion, and capitalism shaped how sociologists think about power and institutions. His *The Protestant Ethic and the Spirit of Capitalism* argued that religious ideas (Calvinist work ethic) helped create the cultural conditions for capitalism — a bold claim connecting culture and economics.
+**Max Weber** (1864-1920) emphasized understanding social action through the meanings people attach to it. His work on bureaucracy, authority, religion, and [capitalism](/capitalism) shaped how sociologists think about power and institutions. His *The Protestant Ethic and the Spirit of Capitalism* argued that religious ideas (Calvinist work ethic) helped create the cultural conditions for capitalism — a bold claim connecting culture and [economics](/economics).
 
 **Karl Marx** (1818-1883) analyzed how economic systems create social classes with opposing interests. Workers produce value; owners capture it. This conflict, Marx argued, drives historical change. Whether or not you agree with Marx's prescriptions, his analysis of class, labor, and economic power remains deeply influential in sociology.
 
-## Research Methods
+## [Research Methods](/research-methods)
 
 Sociology uses both quantitative and qualitative methods, often combining them.
 
 **Surveys and statistical analysis** allow sociologists to identify patterns across large populations. Census data, opinion polls, and longitudinal studies reveal trends in inequality, mobility, attitudes, and behavior that are invisible at the individual level.
 
-**Ethnography and qualitative interviews** provide depth that statistics can't capture. Living within a community and conducting long, open-ended interviews reveals the texture of social life — how people actually experience their social conditions.
+**Ethnography and qualitative interviews** provide depth that [statistics](/statistics) can't capture. Living within a community and conducting long, open-ended interviews reveals the texture of social life — how people actually experience their social conditions.
 
 **Experiments** (both natural and designed) test causal claims. A "resume study" sending identical resumes with different names (testing racial discrimination in hiring) is a sociological experiment with powerful results — consistently finding significant discrimination.
 

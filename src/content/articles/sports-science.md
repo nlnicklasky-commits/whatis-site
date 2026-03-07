@@ -5,7 +5,7 @@ description: "Sports science applies biology, physics, and psychology to improve
 category: science
 tags: ["sports", "exercise science", "physiology", "biomechanics", "nutrition", "performance"]
 heroImage: "/images/articles/sports-science.webp"
-heroAlt: "An athlete running on a treadmill in a sports science lab while researchers monitor physiological data on screens"
+heroAlt: "Editorial photograph representing the concept of sports science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ faq:
 
 # What Is Sports Science?
 
-Sports science is the application of scientific principles — from [biology](/biology), physics, psychology, and nutrition — to understanding and improving athletic performance, preventing injury, and supporting recovery. It's the reason modern athletes are faster, stronger, and more durable than their predecessors, and it's why a 2024 Olympic gold medalist would demolish the record holders from 50 years ago in almost every measurable event.
+Sports science is the application of scientific principles — from [biology](/biology), physics, [psychology](/psychology), and nutrition — to understanding and improving athletic performance, preventing injury, and supporting recovery. It's the reason modern athletes are faster, stronger, and more durable than their predecessors, and it's why a 2024 Olympic gold medalist would demolish the record holders from 50 years ago in almost every measurable event.
 
-The field pulls together exercise physiology, [biomechanics](/biomechanics), sports psychology, sports nutrition, and strength and conditioning into a unified approach to human performance.
+The field pulls together [exercise physiology](/exercise-physiology), [biomechanics](/biomechanics), [sports psychology](/sports-psychology), sports nutrition, and strength and conditioning into a unified approach to human performance.
 
 ## Exercise Physiology: The Engine Room
 
@@ -53,7 +53,7 @@ Your muscles need adenosine triphosphate (ATP) to contract. Problem is, muscles 
 
 **Anaerobic glycolysis** breaks down glucose (from blood sugar or muscle glycogen) without oxygen, producing ATP and lactate as a byproduct. It kicks in during high-intensity efforts lasting roughly 10 seconds to 2 minutes — a 400-meter sprint, a wrestling scramble. The system produces ATP faster than aerobic metabolism but generates lactate that accumulates in muscles and blood, contributing to that burning sensation and eventual fatigue.
 
-**Aerobic metabolism** uses oxygen to break down carbohydrates, fats, and (to a lesser extent) proteins in the mitochondria. It's slower to produce ATP but can sustain effort for hours. Marathon running, cycling, and swimming are predominantly aerobic. The system is remarkably efficient — one molecule of glucose yields about 36 ATP through aerobic metabolism versus just 2 through anaerobic glycolysis.
+**Aerobic metabolism** uses oxygen to break down carbohydrates, fats, and (to a lesser extent) proteins in the mitochondria. It's slower to produce ATP but can sustain effort for hours. [Marathon running](/marathon-running), cycling, and swimming are predominantly aerobic. The system is remarkably efficient — one molecule of glucose yields about 36 ATP through aerobic metabolism versus just 2 through anaerobic glycolysis.
 
 In reality, all three systems operate simultaneously during any activity. The relative contribution of each depends on exercise intensity and duration. A sports scientist designing a training program needs to understand which systems dominate in their athlete's sport and train accordingly.
 
@@ -160,7 +160,7 @@ Keeping athletes healthy is arguably more important than making them faster. Tim
 
 Post-exercise recovery has become a science in itself. Evidence-based strategies include:
 
-- **Sleep** — the single most important recovery tool. Growth hormone peaks during deep sleep. Immune function improves. Cognitive function restores. Athletes need 8 to 10 hours per night, and research suggests that extra sleep actively improves performance — a Stanford study found that basketball players who extended sleep to 10 hours improved sprint times and free-throw accuracy.
+- **Sleep** — the single most important recovery tool. Growth hormone peaks during deep sleep. Immune function improves. Cognitive function restores. Athletes need 8 to 10 hours per night, and research suggests that extra sleep actively improves performance — a Stanford study found that [basketball](/basketball) players who extended sleep to 10 hours improved sprint times and free-throw accuracy.
 - **Nutrition timing** — consuming protein and carbohydrates within a few hours after training supports glycogen replenishment and muscle repair.
 - **Active recovery** — light movement (walking, easy cycling) promotes blood flow without adding training stress.
 - **Compression garments** — may modestly reduce muscle soreness and swelling after intense exercise.
@@ -171,7 +171,7 @@ Modern sports science generates enormous amounts of data. GPS trackers worn duri
 
 Professional sports teams employ data analysts alongside physiologists and coaches. The English Premier League, NBA, and NFL now use tracking systems that capture player positions and movements multiple times per second throughout every game and training session.
 
-This data enables individualized training — adjusting each athlete's load based on their specific response patterns, fatigue levels, and injury risk factors. It also enables tactical analysis, recruitment decisions, and performance benchmarking against historical data.
+This data enables individualized training — adjusting each athlete's load based on their specific response patterns, fatigue levels, and injury risk factors. It also enables [tactical analysis](/tactical-analysis), recruitment decisions, and performance benchmarking against historical data.
 
 The challenge is turning data into decisions. More data isn't automatically more useful. The best sports scientists are the ones who can identify the few metrics that actually matter for a given athlete and sport, ignore the noise, and communicate clearly with coaches who may not have scientific backgrounds.
 

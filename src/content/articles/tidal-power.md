@@ -5,7 +5,7 @@ description: "Tidal power generates electricity from the rise and fall of ocean 
 category: technology
 tags: ["tidal power", "renewable energy", "tidal energy", "hydropower"]
 heroImage: "/images/articles/tidal-power.webp"
-heroAlt: "A row of underwater tidal stream turbines anchored to the ocean floor with moving water flowing past their spinning blades"
+heroAlt: "Editorial photograph representing the concept of tidal power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,13 +37,13 @@ faq:
 
 # What Is Tidal Power?
 
-Tidal power is a form of renewable energy that converts the kinetic and potential energy of ocean tides into electricity. Tides are caused by the gravitational interaction between Earth, the moon, and the sun, making tidal power one of the few energy sources driven by astronomical forces rather than solar radiation — and the most predictable renewable energy source available.
+Tidal power is a form of [renewable energy](/renewable-energy) that converts the kinetic and potential energy of ocean tides into [electricity](/electricity). Tides are caused by the gravitational interaction between Earth, the moon, and the sun, making tidal power one of the few energy sources driven by astronomical forces rather than solar radiation — and the most predictable renewable energy source available.
 
 ## The Moon Is an Energy Source (Sort Of)
 
 Every 12 hours and 25 minutes, the ocean rises and falls. Billions of tons of seawater flow in and out of bays, estuaries, and coastlines with clockwork precision. This has been happening for 4.5 billion years. And for most of that time, all that energy was wasted — absorbed by friction against the seabed and shorelines, slowly (very slowly) pushing the moon away from Earth and slowing Earth's rotation.
 
-The idea of capturing some of that energy isn't new. Tide mills — grain mills powered by trapped tidal water — were used along the coasts of Europe as early as the 8th century CE. One on the River Fleet in London was recorded in the Domesday Book of 1086. These weren't fancy. Dam a tidal inlet, let the rising tide fill it, close a gate, then release the water through a mill wheel as the tide goes out. Simple, reliable, and entirely dependent on geography.
+The idea of capturing some of that energy isn't new. Tide mills — grain mills powered by trapped tidal water — were used along the coasts of Europe as early as the 8th century CE. One on the River Fleet in London was recorded in the Domesday Book of 1086. These weren't fancy. Dam a tidal inlet, let the rising tide fill it, close a gate, then release the water through a mill wheel as the tide goes out. Simple, reliable, and entirely dependent on [geography](/geography).
 
 Modern tidal power takes the same basic principle and scales it up dramatically. But the geography problem hasn't gone away. Not every coast has strong enough tides to make power generation worthwhile, which is why tidal power — despite being proven, predictable, and emissions-free — produces only about 0.02% of global electricity.
 
@@ -57,7 +57,7 @@ As Earth rotates under these bulges, coastlines experience two high tides and tw
 
 The sun creates its own tidal bulges — about 46% as strong as the moon's, despite being vastly more massive, because it's so much farther away. When the sun and moon align (new and full moons), their effects combine to produce spring tides — unusually high highs and low lows. When they're at right angles (quarter moons), the effects partially cancel, producing neap tides — modest tidal ranges.
 
-The actual tidal range at any given location depends heavily on coastal geography. Open ocean tides are modest — about 0.5-1 meter. But funnel-shaped bays and estuaries amplify tides dramatically. The Bay of Fundy in Nova Scotia holds the record at about 16 meters (53 feet) — a five-story building's worth of water rising and falling twice daily. The Severn Estuary in the UK sees about 14 meters. These extreme tidal ranges make the best sites for tidal power.
+The actual tidal range at any given location depends heavily on [coastal geography](/coastal-geography). Open ocean tides are modest — about 0.5-1 meter. But funnel-shaped bays and estuaries amplify tides dramatically. The Bay of Fundy in Nova Scotia holds the record at about 16 meters (53 feet) — a five-story building's worth of water rising and falling twice daily. The Severn Estuary in the UK sees about 14 meters. These extreme tidal ranges make the best sites for tidal power.
 
 ## Three Ways to Capture Tidal Energy
 
@@ -67,7 +67,7 @@ A tidal barrage is essentially a dam across a tidal estuary or inlet. Sluice gat
 
 The concept is proven. The La Rance Tidal Power Station in Brittany, France, has been operating since 1966 — nearly 60 years. Its 24 turbines span a 750-meter barrage across the Rance estuary, generating 240 MW of capacity and about 540 GWh per year. That's enough to power roughly 130,000 homes.
 
-The Sihwa Lake Tidal Power Station in South Korea, completed in 2011, generates 254 MW — slightly more capacity than La Rance. It was built into an existing seawall, reducing construction costs.
+The Sihwa Lake Tidal Power Station in South Korea, completed in 2011, generates 254 MW — slightly more capacity than La Rance. It was built into an existing seawall, reducing [construction](/construction) costs.
 
 Barrages work, but they have significant drawbacks:
 
@@ -81,7 +81,7 @@ Barrages work, but they have significant drawbacks:
 
 Tidal stream generators work like underwater wind turbines — they sit on the seabed in areas of strong tidal current and spin as water flows past. No dam required.
 
-This is the fastest-growing segment of tidal power. The technology borrows heavily from wind turbine engineering but faces different challenges — seawater is about 800 times denser than air, so a tidal turbine can generate equivalent power with much smaller blades and lower flow speeds. A tidal stream of 3 m/s (about 6 knots) carries as much energy per square meter as a wind blowing at roughly 27 m/s (60 mph).
+This is the fastest-growing segment of tidal power. The technology borrows heavily from wind turbine [engineering](/engineering) but faces different challenges — seawater is about 800 times denser than air, so a tidal turbine can generate equivalent power with much smaller blades and lower flow speeds. A tidal stream of 3 m/s (about 6 knots) carries as much energy per square meter as a wind blowing at roughly 27 m/s (60 mph).
 
 **MeyGen** in the Pentland Firth, Scotland — the strait between mainland Scotland and the Orkney Islands — is the world's largest tidal stream project. Its initial phase installed four 1.5 MW turbines on the seabed in 2016-2017, with plans to scale to 398 MW. The Pentland Firth experiences tidal currents up to 5 m/s, making it one of the best tidal energy sites in the world.
 
@@ -103,7 +103,7 @@ A tidal lagoon is an artificial enclosed area on the coast — not across an est
 
 The concept combines some advantages of both barrages and stream generators. Unlike barrages, lagoons don't block estuaries, so fish migration and sediment transport are less affected. Unlike stream generators, lagoons can store water and generate on demand (within tidal constraints), providing some flexibility in power timing.
 
-The proposed Swansea Bay Tidal Lagoon in Wales was the highest-profile lagoon project. It would have enclosed about 11.5 km2 of Swansea Bay behind a 9.5-km breakwater, generating 320 MW — enough for about 155,000 homes. The UK government ultimately declined to fund it in 2018, citing high costs relative to other renewable options.
+The proposed Swansea Bay Tidal Lagoon in Wales was the highest-profile lagoon project. It would have enclosed about 11.5 km2 of Swansea Bay behind a 9.5-km breakwater, generating 320 MW — enough for about 155,000 homes. The UK [government](/government) ultimately declined to fund it in 2018, citing high costs relative to other renewable options.
 
 Tidal lagoons remain an attractive concept but unproven at scale. No full-sized tidal lagoon has been built yet, though several are in planning stages in Wales, China, and South Korea.
 
@@ -158,7 +158,7 @@ But the environmental story isn't entirely clean.
 
 **Collision risk.** Marine animals — fish, seals, dolphins, porpoises — could collide with spinning turbine blades. Studies at operational sites suggest the risk is lower than initially feared (most animals detect and avoid turbines), but monitoring is ongoing, and the data is still limited.
 
-**Noise.** Underwater turbines generate noise that could affect marine mammals, which rely on sound for navigation and communication. The significance of this effect depends on species, turbine design, and background noise levels.
+**Noise.** Underwater turbines generate noise that could affect marine mammals, which rely on sound for [navigation](/navigation) and communication. The significance of this effect depends on species, turbine design, and background noise levels.
 
 **Sediment transport.** Barrages and lagoons alter sediment flows, potentially causing erosion in some areas and deposition in others. This affects downstream beaches, mudflats, and subtidal habitats.
 
@@ -176,6 +176,6 @@ Several trends favor tidal power's development:
 
 **Climate urgency.** As pressure to decarbonize electricity grids intensifies, every low-carbon source becomes more attractive. Tidal power's predictability — you know exactly how much power you'll get, years in advance — has real value for grid planning that intermittent sources can't match.
 
-**Hybrid projects.** Combining tidal power with other functions — coastal flood defense, harbor infrastructure, aquaculture — can spread costs and increase project value. A tidal lagoon that also protects a city from storm surges might justify its cost even if the electricity alone doesn't.
+**Hybrid projects.** Combining tidal power with other functions — coastal flood defense, harbor infrastructure, [aquaculture](/aquaculture) — can spread costs and increase project value. A tidal lagoon that also protects a city from storm surges might justify its cost even if the electricity alone doesn't.
 
 The ocean covers 70% of Earth's surface, and the tides will keep running for billions of years. Learning to tap that energy efficiently is worth the effort — even if the effort takes longer and costs more than the alternatives. Tides don't stop when the wind dies down or the sun sets. That kind of reliability has a value that goes beyond the price per kilowatt-hour.

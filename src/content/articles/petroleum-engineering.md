@@ -5,7 +5,7 @@ description: "Petroleum engineering applies science and technology to extract oi
 category: technology
 tags: ["oil and gas", "petroleum", "engineering", "drilling", "reservoir", "energy", "hydrocarbons"]
 heroImage: "/images/articles/petroleum-engineering-hero.webp"
-heroAlt: "Oil drilling rig operating at an extraction site with visible reservoir equipment"
+heroAlt: "Editorial photograph representing the concept of petroleum engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

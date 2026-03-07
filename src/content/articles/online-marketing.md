@@ -5,7 +5,7 @@ description: "Online marketing promotes products and services through digital ch
 category: technology
 tags: ["online marketing", "digital marketing", "seo", "social media marketing", "content marketing", "email marketing"]
 heroImage: "/images/articles/online-marketing-hero.webp"
-heroAlt: "Dashboard showing digital marketing analytics with multiple channel metrics"
+heroAlt: "Editorial photograph representing the concept of online marketing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Online Marketing?
 
-Online marketing is the practice of promoting products, services, or brands through digital channels — search engines, social media platforms, email, websites, mobile apps, and any other medium that operates over the internet. It's also called digital marketing, internet marketing, or web marketing, and it's been the dominant form of marketing since roughly 2019, when global digital ad spending surpassed traditional advertising for the first time.
+Online marketing is the practice of promoting products, services, or brands through digital channels — search engines, social media platforms, email, websites, mobile apps, and any other medium that operates over the internet. It's also called [digital marketing](/digital-marketing), internet marketing, or web marketing, and it's been the dominant form of marketing since roughly 2019, when global digital ad spending surpassed traditional advertising for the first time.
 
 The numbers tell the story: global digital advertising spending exceeded $600 billion in 2024 and continues growing at 10-15% annually. Google and Meta (Facebook's parent company) alone capture roughly 50% of global digital ad revenue. Over 5 billion people use the internet, and the average person spends nearly 7 hours online daily. If your marketing doesn't exist online, it barely exists at all.
 
@@ -53,7 +53,7 @@ Traditional marketing — TV ads, print ads, billboards, radio spots — broadca
 
 **Two-way communication.** Traditional marketing is a monologue. Online marketing enables conversation. Customers can respond to your social media posts, leave reviews, share your content, and engage directly with your brand. This changes the relationship between businesses and customers fundamentally.
 
-## Search Engine Optimization (SEO)
+## Search Engine [Optimization](/optimization) (SEO)
 
 SEO is the practice of optimizing your website and content to rank higher in search engine results — primarily Google, which handles over 90% of global searches.
 
@@ -81,7 +81,7 @@ Effective SEO involves several layers:
 
 **Content creation** — Publishing high-quality, original content that genuinely answers user questions. Google's emphasis on E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) means content should demonstrate real knowledge, not just keyword optimization.
 
-**Link building** — Earning backlinks from reputable websites through creating valuable content, public relations, guest posting, partnerships, and digital PR. This remains one of the most challenging aspects of SEO because you can't fully control what others link to.
+**Link building** — Earning backlinks from reputable websites through creating valuable content, [public relations](/public-relations), guest posting, partnerships, and digital PR. This remains one of the most challenging aspects of SEO because you can't fully control what others link to.
 
 ### SEO and AI
 
@@ -106,7 +106,7 @@ Facebook/Instagram (Meta), TikTok, LinkedIn, X (Twitter), and Snapchat all offer
 - **Awareness** — Reaching people who don't know your brand exists
 - **Retargeting** — Showing ads to people who've previously visited your website or engaged with your content
 - **Lookalike audiences** — Finding new customers who resemble your existing ones
-- **Visual storytelling** — Video and image formats that display products compellingly
+- **Visual [storytelling](/storytelling)** — Video and image formats that display products compellingly
 
 Meta's advertising platform is particularly powerful because of the depth of user data it holds: demographics, interests, behaviors, purchase history, life events, and social connections. This allows targeting precision that borders on unsettling — which is exactly why privacy regulations are tightening.
 
@@ -157,11 +157,11 @@ Social media marketing uses platforms like Instagram, TikTok, Facebook, LinkedIn
 
 Each platform has different demographics, content formats, and best practices:
 
-**Instagram** — Visual platform, strong with 18-44 demographics. Stories, Reels, and carousels perform best. Heavy emphasis on aesthetics and lifestyle positioning.
+**Instagram** — Visual platform, strong with 18-44 demographics. Stories, Reels, and carousels perform best. Heavy emphasis on [aesthetics](/aesthetics) and lifestyle positioning.
 
 **TikTok** — Short-form video, skewing younger (16-34). Algorithm-driven discovery means even new accounts can reach millions. Authenticity matters more than production value.
 
-**LinkedIn** — Professional network, dominant for B2B marketing. Thought leadership, industry insights, and career-related content perform well. Higher organic reach than most platforms.
+**LinkedIn** — Professional network, dominant for B2B marketing. Thought [leadership](/leadership), industry insights, and career-related content perform well. Higher organic reach than most platforms.
 
 **YouTube** — Long-form and short-form video. Functions as both a social platform and a search engine. Video SEO (titles, descriptions, tags, thumbnails) matters enormously.
 
@@ -181,7 +181,7 @@ Online marketing's greatest advantage — measurability — creates its own chal
 
 **Attribution** — Understanding which touchpoints contribute to a conversion. A customer might see a social media ad, visit your site via organic search a week later, click a retargeting ad the next day, and finally convert through an email. Which channel gets credit? Attribution modeling attempts to answer this, but it remains one of the hardest problems in marketing analytics.
 
-Google Analytics is the standard web analytics tool, used by over 50 million websites. Platform-specific analytics (Meta Business Suite, Google Search Console, email platform reporting) provide channel-specific data.
+Google Analytics is the standard [web analytics](/web-analytics) tool, used by over 50 million websites. Platform-specific analytics (Meta Business Suite, Google Search Console, email platform reporting) provide channel-specific data.
 
 ## The Privacy Shift
 

@@ -5,7 +5,7 @@ description: "Engineering history traces how humans have designed and built stru
 category: history
 tags: ["engineering history", "engineering", "technology", "industrial revolution"]
 heroImage: "/images/articles/engineering-history.webp"
-heroAlt: "Timeline collage showing ancient Roman aqueducts, steam engines, and modern skyscrapers"
+heroAlt: "Editorial photograph representing the concept of engineering history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ The Roman aqueduct system was equally impressive. Eleven major aqueducts supplie
 
 Meanwhile, Chinese engineers were solving their own problems with remarkable ingenuity. The Great Wall (various iterations from the 7th century BCE onward), the Grand Canal (begun in the 5th century BCE and still the world's longest canal at 1,776 km), and the development of cast iron a thousand years before Europe — these weren't minor achievements.
 
-Chinese engineers also invented the chain pump, the blast furnace, and the segmental arch bridge. Many of these innovations reached Europe centuries later via the Silk Road, sometimes being "reinvented" by Europeans who had no idea they were duplicating existing technology.
+Chinese engineers also invented the chain pump, the blast furnace, and the segmental arch bridge. Many of these innovations reached Europe centuries later via [the Silk Road](/silk-road), sometimes being "reinvented" by Europeans who had no idea they were duplicating existing technology.
 
 ## The Medieval Period — Not Actually Dark
 
@@ -79,7 +79,7 @@ The funny thing is, these medieval builders had no formal [mathematics](/calculu
 
 Leonardo da Vinci (1452-1519) is the poster child for Renaissance engineering, and deservedly so. His notebooks contain designs for flying machines, armored vehicles, bridges, and hydraulic systems — many of them remarkably close to functional. But da Vinci was more visionary than practical engineer. Most of his designs were never built.
 
-The real shift happened with Galileo Galilei (1564-1642), who applied mathematical analysis to engineering problems. His 1638 work *Two New Sciences* essentially founded the field of structural engineering by analyzing how beams resist breaking under load. For the first time, engineering was becoming a science rather than just a craft.
+The real shift happened with Galileo Galilei (1564-1642), who applied mathematical analysis to engineering problems. His 1638 work *Two New Sciences* essentially founded the field of [structural engineering](/structural-engineering) by analyzing how beams resist breaking under load. For the first time, engineering was becoming a science rather than just a craft.
 
 ## The Industrial Revolution Changes Everything
 
@@ -95,7 +95,7 @@ The numbers tell the story. Before steam, a water-powered mill might produce 100
 
 Abraham Darby's discovery that coke (processed coal) could replace charcoal in iron smelting — around 1709 — made iron cheap enough to use as a building material. The Iron Bridge at Coalbrookdale (1779) was the first major bridge built entirely of cast iron.
 
-Then came steel. Henry Bessemer's converter (1856) made steel production fast and affordable. Andrew Carnegie and others scaled it massively. By 1900, steel-framed buildings were reshaping city skylines. The Brooklyn Bridge (1883) and the Eiffel Tower (1889) showed the world what steel could do.
+Then came steel. Henry Bessemer's converter (1856) made [steel production](/steel-production) fast and affordable. Andrew Carnegie and others scaled it massively. By 1900, steel-framed buildings were reshaping city skylines. The Brooklyn Bridge (1883) and the Eiffel Tower (1889) showed the world what steel could do.
 
 ### Engineering Becomes a Profession
 
@@ -109,7 +109,7 @@ The pace of engineering progress in the 1900s is almost hard to comprehend. The 
 
 ### Electrification
 
-The National Academy of Engineering ranked electrification as the greatest engineering achievement of the 20th century, and it's hard to argue. Thomas Edison's Pearl Street Station (1882) supplied electricity to 85 customers in lower Manhattan. By 1930, about 70% of American homes had electricity. The entire structure of modern life — lighting, refrigeration, communication, computing — depends on this single infrastructure.
+The National Academy of Engineering ranked electrification as the greatest engineering achievement of the 20th century, and it's hard to argue. Thomas Edison's Pearl Street Station (1882) supplied electricity to 85 customers in lower Manhattan. By 1930, about 70% of American homes had electricity. The entire structure of modern life — lighting, [refrigeration](/refrigeration), communication, computing — depends on this single infrastructure.
 
 ### Aviation
 

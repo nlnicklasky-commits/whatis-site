@@ -5,7 +5,7 @@ description: "Speleology is the scientific study of caves, including their forma
 category: science
 tags: ["speleology", "caves", "geology", "karst", "underground", "earth science"]
 heroImage: "/images/articles/speleology.webp"
-heroAlt: "A massive limestone cave chamber with stalactites hanging from the ceiling and a researcher standing for scale"
+heroAlt: "Editorial photograph representing the concept of speleology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Speleology?
 
-Speleology is the scientific study of caves — their formation, physical structure, history, biology, and the geological processes that create and modify them over time. The word comes from the Greek *spelaion* (cave) and *logos* (study), and the discipline sits at the intersection of geology, hydrology, [chemistry](/chemistry), [biology](/biology), and climatology.
+Speleology is the scientific study of caves — their formation, physical structure, history, biology, and the geological processes that create and modify them over time. The word comes from the Greek *spelaion* (cave) and *logos* (study), and the discipline sits at the intersection of geology, [hydrology](/hydrology), [chemistry](/chemistry), [biology](/biology), and climatology.
 
 Caves are more than holes in rock. They're windows into Earth's history, reservoirs for groundwater, refuges for unique species found nowhere else, and archives of climate data stretching back hundreds of thousands of years.
 
@@ -82,7 +82,7 @@ Karst landscapes develop wherever soluble bedrock (usually limestone) is exposed
 - **Springs** — points where underground water returns to the surface, often in spectacular fashion. Florida's Silver Springs discharges about 2 billion liters per day.
 - **Dry valleys** — valleys that once carried surface streams before the water was captured underground.
 
-Approximately 15 to 20 percent of Earth's ice-free land surface is karst or near-karst terrain. This matters enormously for water resources — karst aquifers supply drinking water to roughly 25 percent of the world's population. Understanding cave hydrology is therefore not just academic; it's a public health necessity.
+Approximately 15 to 20 percent of Earth's ice-free land surface is karst or near-karst terrain. This matters enormously for water resources — karst aquifers supply drinking water to roughly 25 percent of the world's population. Understanding cave hydrology is therefore not just academic; it's a [public health](/public-health) necessity.
 
 ### The Vulnerability of Karst Aquifers
 
@@ -170,9 +170,9 @@ Caves are extraordinarily fragile environments. A stalactite that took 10,000 ye
 
 ### Threats
 
-**Vandalism** — breaking formations, spray-painting walls, leaving trash — is the most visible threat. Even touching formations can leave oils that discolify the rock permanently.
+**Vandalism** — breaking formations, spray-[painting](/painting) walls, leaving trash — is the most visible threat. Even touching formations can leave oils that discolify the rock permanently.
 
-**Development** — quarrying, construction, and road building destroy caves outright. Many significant caves worldwide have been partially or completely destroyed by limestone quarrying.
+**Development** — [quarrying](/quarrying), [construction](/construction), and road building destroy caves outright. Many significant caves worldwide have been partially or completely destroyed by limestone quarrying.
 
 **Pollution** — contaminants entering through the karst hydrogeological system can wipe out entire cave ecosystems. Agricultural runoff, sewage, and industrial waste all find their way underground in karst terrain.
 
@@ -184,7 +184,7 @@ Caves are extraordinarily fragile environments. A stalactite that took 10,000 ye
 
 The caving community generally follows the motto: "Take nothing but photographs, leave nothing but footprints." Most organized caving groups have strict ethics codes about formation protection, minimal impact practices, and gate installation at sensitive caves to control access.
 
-National parks and other protected areas preserve some of the world's most significant caves. Mammoth Cave National Park, Carlsbad Caverns, and Postojna Cave in Slovenia are among the best-protected cave systems globally. But the vast majority of caves have no formal protection at all.
+[National parks](/national-parks) and other protected areas preserve some of the world's most significant caves. Mammoth Cave National Park, Carlsbad Caverns, and Postojna Cave in Slovenia are among the best-protected cave systems globally. But the vast majority of caves have no formal protection at all.
 
 ## Why Caves Matter
 

@@ -5,7 +5,7 @@ description: "Aviation is the science and practice of flight. Learn about aerody
 category: technology
 tags: ["aviation", "flight", "aircraft", "airplanes", "aerodynamics", "aerospace", "pilot"]
 heroImage: "/images/articles/aviation-hero.webp"
-heroAlt: "Commercial airliner climbing through clouds during golden hour with sun reflecting off its fuselage"
+heroAlt: "Editorial photograph representing the concept of aviation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Aviation?
 
-Aviation is the science, engineering, and practice of designing, building, and operating aircraft for flight within Earth's atmosphere. It encompasses everything from the physics of how wings generate lift to the global network of airlines, airports, and air traffic control systems that move over 4 billion passengers per year.
+Aviation is the science, [engineering](/engineering), and practice of designing, building, and operating aircraft for flight within Earth's atmosphere. It encompasses everything from the physics of how wings generate lift to the global network of airlines, airports, and air traffic control systems that move over 4 billion passengers per year.
 
 ## The Physics of Getting Off the Ground
 
@@ -73,7 +73,7 @@ The speed of progress that followed is staggering. In 1903, they flew 120 feet. 
 
 Nothing accelerates technology like war. World War I transformed the airplane from a curiosity into a weapon in just four years. Biplanes evolved from unarmed reconnaissance platforms into fighters and bombers. Engine power jumped from 80 HP to over 300 HP. The war produced the first true fighter aces and established the airplane as a decisive military tool.
 
-World War II pushed aviation development even further. The Spitfire, P-51 Mustang, and Zero became icons. Radar was developed and integrated into air defense. Strategic bombing campaigns — controversial and devastating — demonstrated that airpower could shape the outcome of wars. And at the very end, the jet engine arrived. The German Me 262, operational in 1944, could fly at 540 mph — roughly 100 mph faster than any Allied piston fighter.
+[World War II](/world-war-ii) pushed aviation development even further. The Spitfire, P-51 Mustang, and Zero became icons. Radar was developed and integrated into air defense. Strategic bombing campaigns — controversial and devastating — demonstrated that airpower could shape the outcome of wars. And at the very end, the jet engine arrived. The German Me 262, operational in 1944, could fly at 540 mph — roughly 100 mph faster than any Allied piston fighter.
 
 ### The Jet Age
 
@@ -87,7 +87,7 @@ Supersonic commercial aviation arrived with the Concorde in 1976, which flew at 
 
 ### Airframes
 
-The airframe is the aircraft's structure — fuselage, wings, tail, and landing gear. Traditional construction uses aluminum alloys for their combination of light weight, strength, and corrosion resistance. The Boeing 787 Dreamliner, which entered service in 2011, shifted this model by using 50% carbon fiber reinforced polymer (CFRP) by weight. Carbon fiber is lighter and stronger than aluminum, doesn't fatigue the same way, and allows the cabin to be pressurized to a lower altitude equivalent, making passengers more comfortable.
+The airframe is the aircraft's structure — fuselage, wings, tail, and landing gear. Traditional [construction](/construction) uses aluminum alloys for their combination of light weight, strength, and corrosion resistance. The Boeing 787 Dreamliner, which entered service in 2011, shifted this model by using 50% carbon fiber reinforced polymer (CFRP) by weight. Carbon fiber is lighter and stronger than aluminum, doesn't fatigue the same way, and allows the cabin to be pressurized to a lower altitude equivalent, making passengers more comfortable.
 
 Wings are engineering marvels of compromise. They must generate enough lift for takeoff (when the aircraft is heaviest and slowest), remain efficient at cruising speed and altitude, and withstand enormous bending loads — the wings of a 787 can flex upward by 26 feet in extreme conditions. Winglets — the upturned tips on most modern airliners — reduce induced drag by about 4-5%, saving roughly 100,000 gallons of fuel per aircraft per year.
 
@@ -103,7 +103,7 @@ Engine efficiency has improved dramatically. The engines on the first 707 (Pratt
 
 ### Avionics and Navigation
 
-Avionics — aviation electronics — handle navigation, communication, flight management, and increasingly, automation. Modern airliners use GPS for primary navigation, supplemented by inertial reference systems (IRS) that track position through accelerometers and gyroscopes. The Flight Management System (FMS) can fly a pre-programmed route from shortly after takeoff to just before landing, including altitude changes, speed adjustments, and turns.
+Avionics — aviation [electronics](/electronics) — handle navigation, communication, flight management, and increasingly, automation. Modern airliners use GPS for primary navigation, supplemented by inertial reference systems (IRS) that track position through accelerometers and gyroscopes. The Flight Management System (FMS) can fly a pre-programmed route from shortly after takeoff to just before landing, including altitude changes, speed adjustments, and turns.
 
 Glass cockpits — where traditional mechanical gauges are replaced by digital screens — became standard starting in the 1980s. The displays are configurable, can show different information depending on the flight phase, and are easier for pilots to scan than a wall of individual gauges. A modern Airbus A350 cockpit has six large LCD screens that display everything from engine parameters to terrain maps to weather radar.
 
@@ -167,7 +167,7 @@ Boom Supersonic's Overture aims to carry 65-80 passengers at Mach 1.7 — cuttin
 
 ## Why Aviation Matters
 
-Aviation connects the world in a way no other transportation mode can. A flight from New York to London takes 7 hours. By ship, it takes 7 days. That speed enables international business, tourism, cultural exchange, humanitarian aid, and organ transplant delivery in ways that would simply be impossible otherwise.
+Aviation connects the world in a way no other transportation mode can. A flight from New York to London takes 7 hours. By ship, it takes 7 days. That speed enables [international business](/international-business), tourism, cultural exchange, humanitarian aid, and organ transplant delivery in ways that would simply be impossible otherwise.
 
 The industry directly and indirectly supports roughly 87 million jobs worldwide and contributes about $3.5 trillion to global GDP. For island nations, landlocked countries, and remote communities, aviation isn't a luxury — it's the primary connection to the global economy.
 

@@ -5,7 +5,7 @@ description: "Fantasy literature features imaginary worlds, magic, and mythical 
 category: arts-amp-culture
 tags: ["literature", "fiction", "magic", "imaginary worlds", "mythology", "speculative fiction"]
 heroImage: "/images/articles/fantasy-literature.webp"
-heroAlt: "Stack of fantasy novels with a dragon figurine and medieval sword"
+heroAlt: "Editorial photograph representing the concept of fantasy literature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Fantasy offers complete escape from ordinary reality while addressing universal themes — good versus evil, power and corruption, identity and belonging. The genre's flexibility allows authors to explore difficult real-world issues through metaphor. The global fantasy book market was valued at over $590 million in 2022."
 ---
 
-# What Is Fantasy Literature?
+# What Is Fantasy [Literature](/literature)?
 
 Fantasy literature is fiction that uses magic, supernatural phenomena, or imaginary worlds as central elements of the story. It's the genre of dragons and wizards, enchanted swords and cursed rings, prophecies and quests. And it's been one of the most commercially successful literary genres for decades — the global market generates hundreds of millions in annual revenue.
 
 ## Roots in Myth and Legend
 
-Fantasy didn't spring from nowhere. Its roots go back to the oldest stories humans ever told. The *Epic of Gilgamesh* (circa 2100 BCE), Homer's *Odyssey* (8th century BCE), and the Norse *Eddas* all feature supernatural beings, magical objects, and journeys into otherworldly places. Arthurian legends, with their sorcerers and enchantments, are essentially medieval fantasy.
+Fantasy didn't spring from nowhere. Its roots go back to the oldest stories humans ever told. The *Epic of Gilgamesh* (circa 2100 BCE), Homer's *Odyssey* (8th century BCE), and the Norse *Eddas* all feature supernatural beings, magical objects, and journeys into otherworldly places. Arthurian [legends](/legends), with their sorcerers and enchantments, are essentially medieval fantasy.
 
 The difference between those ancient stories and modern fantasy is intent. Ancient audiences believed (or at least half-believed) in the gods and monsters their stories described. Modern fantasy readers know the magic isn't real. The pleasure comes from the willing suspension of disbelief — entering a world that operates by different rules and seeing what happens.
 
@@ -53,7 +53,7 @@ C.S. Lewis, Tolkien's friend and colleague at Oxford, created Narnia — a more 
 
 Modern fantasy has fractured into dozens of subgenres, each with its own conventions and audience.
 
-**Epic/high fantasy** takes place in fully imagined secondary worlds with their own geography, politics, and magic systems. Tolkien set the standard. Robert Jordan's *Wheel of Time* (14 books), Brandon Sanderson's *Stormlight Archive*, and George R.R. Martin's *A Song of Ice and Fire* all belong here.
+**Epic/high fantasy** takes place in fully imagined secondary worlds with their own [geography](/geography), [politics](/politics), and magic systems. Tolkien set the standard. Robert Jordan's *Wheel of Time* (14 books), Brandon Sanderson's *Stormlight Archive*, and George R.R. Martin's *A Song of Ice and Fire* all belong here.
 
 **Urban fantasy** plants magical elements in modern cities. Jim Butcher's *Dresden Files* features a wizard detective in Chicago. Neil Gaiman's *Neverwhere* reveals a hidden magical London beneath the real one. The genre often blends fantasy with mystery or thriller structures.
 
@@ -61,7 +61,7 @@ Modern fantasy has fractured into dozens of subgenres, each with its own convent
 
 **Portal fantasy** sends characters from our world into a magical one — Narnia's wardrobe, Alice's rabbit hole, the tornado to Oz. It's been a staple since Lewis Carroll but remains popular in young adult fiction.
 
-**Grimdark** is the gritty, violent, morally gray wing of fantasy. No chosen ones, no clear heroes, lots of consequences. Martin's *Game of Thrones* popularized this approach, though the term itself is borrowed from the *Warhammer* tabletop game tagline: "In the grim darkness of the far future, there is only war."
+**Grimdark** is the gritty, violent, morally gray wing of fantasy. No chosen ones, no clear heroes, lots of consequences. Martin's *Game of Thrones* popularized this approach, though the term itself is borrowed from the *[Warhammer](/warhammer)* tabletop game tagline: "In the grim darkness of the far future, there is only war."
 
 ## The Tolkien Problem
 
@@ -73,7 +73,7 @@ The backlash started in the 1990s. Writers like Martin, Robin Hobb, and Steven E
 
 Fantasy catches criticism from literary establishment types who dismiss it as escapism. Ursula K. Le Guin had the best response: "The direction of escape is toward freedom." Fantasy's imaginary settings allow authors to explore racism, colonialism, gender, power, and class in ways that realistic fiction sometimes can't — because the metaphorical distance makes difficult ideas more approachable.
 
-Le Guin's own *Earthsea* series featured a dark-skinned protagonist decades before diversity in fantasy became a mainstream conversation. N.K. Jemisin's *Broken Earth* trilogy — the first three-peat Hugo Award winner — addresses environmental catastrophe and systemic oppression through a fantasy lens. Octavia Butler blended fantasy and science fiction to explore power dynamics and survival.
+Le Guin's own *Earthsea* series featured a dark-skinned protagonist decades before diversity in fantasy became a mainstream conversation. N.K. Jemisin's *Broken Earth* trilogy — the first three-peat Hugo Award winner — addresses environmental catastrophe and systemic oppression through a fantasy lens. Octavia Butler blended fantasy and [science fiction](/science-fiction) to explore power dynamics and survival.
 
 ## The Business of Fantasy
 

@@ -5,7 +5,7 @@ description: "Web design is the process of planning and creating websites, combi
 category: technology
 tags: ["web design", "design", "html", "css"]
 heroImage: "/images/articles/web-design.webp"
-heroAlt: "A designer working on a website mockup with layout grids and color palettes on screen"
+heroAlt: "Editorial photograph representing the concept of web design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -214,7 +214,7 @@ Trends come and go, but some recent shifts reflect genuine improvements in how w
 
 Web design offers several career trajectories depending on your interests and strengths.
 
-**Freelance web designer**: You work directly with clients, handling everything from initial consultation to final delivery. The freedom is appealing, but you're also doing sales, project management, and accounting. Freelance web designers in the U.S. earn between $50,000 and $100,000+ annually depending on experience and specialization.
+**Freelance web designer**: You work directly with clients, handling everything from initial consultation to final delivery. The freedom is appealing, but you're also doing sales, [project management](/project-management), and accounting. Freelance web designers in the U.S. earn between $50,000 and $100,000+ annually depending on experience and specialization.
 
 **In-house designer**: You work for a single company, maintaining and improving their web presence. The stability is nice, and you get to deeply understand one brand and audience. Salaries range from $55,000 to $95,000 at mid-level.
 

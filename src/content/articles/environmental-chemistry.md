@@ -5,7 +5,7 @@ description: "Environmental chemistry studies chemical processes in air, water, 
 category: science
 tags: ["environmental chemistry", "chemistry", "environment", "pollution", "climate change", "green chemistry", "sustainability"]
 heroImage: "/images/articles/environmental-chemistry-hero.webp"
-heroAlt: "Scientist collecting water samples from a river for chemical analysis"
+heroAlt: "Editorial photograph representing the concept of environmental chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Environmental Chemistry?
 
-Environmental chemistry is the study of chemical processes occurring in the environment — how chemical species are produced, how they move through air, water, and soil, how they react and transform, and how they affect living organisms and ecosystems. It sits at the intersection of [chemistry](/chemistry) and environmental science, applying chemical principles to understand and solve pollution, contamination, and sustainability challenges.
+Environmental chemistry is the study of chemical processes occurring in the environment — how chemical species are produced, how they move through air, water, and soil, how they react and transform, and how they affect living organisms and ecosystems. It sits at the intersection of [chemistry](/chemistry) and [environmental science](/environmental-science), applying chemical principles to understand and solve pollution, contamination, and sustainability challenges.
 
 ## Why Chemistry Is Central to Environmental Problems
 
@@ -91,7 +91,7 @@ POPs are synthetic chemicals that resist breakdown, accumulate in living organis
 
 PCBs (polychlorinated biphenyls) were widely used in electrical equipment from the 1930s to the 1970s. Despite being banned in most countries decades ago, they're still detected in virtually every ecosystem on Earth, including Arctic ice and deep-ocean sediments. Their persistence is extraordinary — half-lives range from months to decades depending on the specific PCB congener.
 
-The newer generation of "forever chemicals" — PFAS (per- and polyfluoroalkyl substances) — may be even more problematic. Used in nonstick cookware, firefighting foam, and waterproof textiles, PFAS contain carbon-fluorine bonds that are among the strongest in organic chemistry. They essentially don't break down under normal environmental conditions. As of 2024, PFAS contamination has been detected in the drinking water of an estimated 200 million Americans.
+The newer generation of "forever chemicals" — PFAS (per- and polyfluoroalkyl substances) — may be even more problematic. Used in nonstick cookware, [firefighting](/firefighting) foam, and waterproof textiles, PFAS contain carbon-fluorine bonds that are among the strongest in [organic chemistry](/organic-chemistry). They essentially don't break down under normal environmental conditions. As of 2024, PFAS contamination has been detected in the drinking water of an estimated 200 million Americans.
 
 ### Greenhouse Gases
 
@@ -117,7 +117,7 @@ The concentrations are typically very low (nanograms to micrograms per liter), b
 
 You can't manage what you can't measure. Environmental chemistry depends on increasingly sophisticated analytical tools.
 
-**Gas chromatography-mass spectrometry (GC-MS)** separates complex mixtures of volatile compounds and identifies them based on molecular mass. This is the workhorse technique for detecting pesticides, VOCs, and many organic pollutants.
+**Gas [chromatography](/chromatography)-mass spectrometry (GC-MS)** separates complex mixtures of volatile compounds and identifies them based on molecular mass. This is the workhorse technique for detecting pesticides, VOCs, and many organic pollutants.
 
 **Inductively coupled plasma mass spectrometry (ICP-MS)** measures trace metals at parts-per-trillion concentrations. It can determine mercury levels in a fish tissue sample with extraordinary precision.
 

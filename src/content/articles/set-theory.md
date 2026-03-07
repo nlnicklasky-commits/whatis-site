@@ -5,7 +5,7 @@ description: "Set theory is the mathematical study of collections of objects. Le
 category: everyday-concepts
 tags: ["set theory", "mathematics", "logic", "infinity", "Georg Cantor", "foundations"]
 heroImage: "/images/articles/set-theory.webp"
-heroAlt: "A Venn diagram showing overlapping sets with labeled elements on a whiteboard"
+heroAlt: "Editorial photograph representing the concept of set theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Set Theory?
 
-Set theory is the branch of mathematics that studies sets — collections of distinct objects considered as a whole. A set can contain anything: numbers, letters, people, ideas, or even other sets. The set of all even numbers. The set of planets in our solar system. The set of all words in this sentence. If you can define a clear rule for membership, you have a set.
+Set theory is the branch of [mathematics](/mathematics) that studies sets — collections of distinct objects considered as a whole. A set can contain anything: numbers, letters, people, ideas, or even other sets. The set of all even numbers. The set of planets in our solar system. The set of all words in this sentence. If you can define a clear rule for membership, you have a set.
 
 That sounds too simple to be important. But set theory is the foundation on which virtually all modern mathematics is built. Numbers, functions, geometric shapes, probability — all of these can be defined and constructed using sets. When mathematicians in the late 19th and early 20th centuries needed a rigorous foundation for mathematics, they built it from sets.
 
@@ -53,7 +53,7 @@ If you've ever used a Venn diagram, you've done set theory. The overlapping circ
 
 ## Georg Cantor and the Birth of Set Theory
 
-Georg Cantor (1845-1918) created set theory in the 1870s and 1880s, and in doing so made some of the most startling discoveries in the history of mathematics.
+Georg Cantor (1845-1918) created set theory in the 1870s and 1880s, and in doing so made some of the most startling discoveries in [the history of mathematics](/the-history-of-mathematics).
 
 Cantor asked a question that seemed absurd: are there different sizes of infinity? Common sense says no — infinity is infinity. But Cantor proved common sense wrong.
 
@@ -83,13 +83,13 @@ You use set theory constantly without calling it that.
 
 **Probability** is built on sets. The "sample space" is the set of all possible outcomes. An "event" is a subset of the sample space. Probability rules (addition, multiplication) are set operations in disguise.
 
-**Logic** maps directly onto set theory. "AND" corresponds to intersection. "OR" corresponds to union. "NOT" corresponds to complement. Boolean algebra — the foundation of all digital computing — is set theory applied to the values true and false.
+**[Logic](/logic)** maps directly onto set theory. "AND" corresponds to intersection. "OR" corresponds to union. "NOT" corresponds to complement. Boolean [algebra](/algebra) — the foundation of all digital computing — is set theory applied to the values true and false.
 
-**Computer science** uses sets everywhere: hash sets for fast membership testing, set operations in data processing, type systems that define sets of valid values. Programming languages like Python have built-in set data types with union, intersection, and difference operations.
+**[Computer science](/computer-science)** uses sets everywhere: hash sets for fast membership testing, set operations in data processing, type systems that define sets of valid values. [Programming languages](/programming-languages) like Python have built-in set data types with union, intersection, and difference operations.
 
 ## Why It Matters
 
-Set theory matters for two reasons. Practically, its concepts and operations show up across mathematics, computer science, logic, statistics, and data analysis. Understanding sets makes you better at thinking about categories, relationships, and logical structure.
+Set theory matters for two reasons. Practically, its concepts and operations show up across mathematics, computer science, logic, [statistics](/statistics), and [data analysis](/data-analysis). Understanding sets makes you better at thinking about categories, relationships, and logical structure.
 
 Philosophically, set theory reveals something deep about the nature of mathematics itself. The fact that you can build all of mathematics from a few axioms about collections is remarkable. And the fact that those axioms can't settle every mathematical question — that mathematical truth might be inherently incomplete — is one of the most profound discoveries of the 20th century.
 

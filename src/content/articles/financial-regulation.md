@@ -5,7 +5,7 @@ description: "Financial regulation is government oversight of banks, markets, an
 category: finance
 tags: ["regulation", "financial markets", "banking", "investment", "consumer protection", "systemic risk", "compliance"]
 heroImage: "/images/articles/financial-regulation-hero.webp"
-heroAlt: "Government regulatory building with financial district skyscrapers in background"
+heroAlt: "Editorial photograph representing the concept of financial regulation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Several features make financial markets uniquely prone to failure without oversi
 
 **Systemic risk**: Financial institutions are deeply interconnected. When one large bank fails, it may owe money to dozens of other banks. Their losses can cause them to fail too, creating a cascade. This interconnection means that individual institution risk becomes collective risk.
 
-**Moral hazard**: If banks believe the government will bail them out when they fail (because they're "too big to fail"), they have incentive to take larger risks. The potential gains are private; the potential losses are socialized.
+**Moral hazard**: If banks believe the [government](/government) will bail them out when they fail (because they're "too big to fail"), they have incentive to take larger risks. The potential gains are private; the potential losses are socialized.
 
 **Externalities**: A bank that makes irresponsible loans creates costs (foreclosures, community destabilization, lost tax revenue) that are borne by people outside the transaction.
 
@@ -67,7 +67,7 @@ The American financial regulatory system is famously fragmented—multiple agenc
 
 The Fed is the central bank of the United States, created in 1913 after the Panic of 1907 demonstrated the need for a lender of last resort. It has three main functions:
 
-**Monetary policy**: Setting interest rates and managing the money supply to promote maximum employment and stable prices. When the Fed raises the federal funds rate, borrowing becomes more expensive throughout the economy, slowing growth and reducing inflation. When it lowers rates, borrowing becomes cheaper, stimulating activity.
+**[Monetary policy](/monetary-policy)**: Setting interest rates and managing the money supply to promote maximum employment and stable prices. When the Fed raises the federal funds rate, borrowing becomes more expensive throughout the economy, slowing growth and reducing inflation. When it lowers rates, borrowing becomes cheaper, stimulating activity.
 
 **Bank supervision**: The Fed regulates and supervises bank holding companies and state-chartered banks that are members of the Federal Reserve System. After 2008, it gained enhanced authority over systemically important financial institutions (SIFIs)—the "too big to fail" banks.
 
@@ -99,7 +99,7 @@ Created by the Dodd-Frank Act in 2010, the CFPB is specifically focused on prote
 
 The CFPB writes rules that financial companies must follow, supervises companies for compliance, and takes enforcement actions against unfair, deceptive, or abusive practices. It has returned over $17.5 billion to consumers through enforcement actions since its creation.
 
-The bureau has been politically controversial since inception. Supporters argue it fills a critical gap in consumer protection. Critics argue it's overreaching and increases compliance costs that get passed to consumers. Its authority and leadership structure have been subjects of legal challenges.
+The bureau has been politically controversial since inception. Supporters argue it fills a critical gap in consumer protection. Critics argue it's overreaching and increases compliance costs that get passed to consumers. Its authority and [leadership](/leadership) structure have been subjects of legal challenges.
 
 ### The CFTC (Commodity Futures Trading Commission)
 
@@ -111,7 +111,7 @@ Financial regulation in the U.S. has evolved through crisis-response cycles: a f
 
 ### The Glass-Steagall Act (1933)
 
-Passed during the Great Depression, Glass-Steagall separated commercial banking (taking deposits, making loans) from investment banking (underwriting securities, trading). The logic: banks that gamble with depositors' money create unacceptable risks. Keep the boring, safe banking separate from the risky, speculative stuff.
+Passed during the Great Depression, Glass-Steagall separated commercial banking (taking deposits, making loans) from [investment banking](/investment-banking) (underwriting securities, trading). The logic: banks that gamble with depositors' money create unacceptable risks. Keep the boring, safe banking separate from the risky, speculative stuff.
 
 Glass-Steagall was gradually eroded through the 1980s and 1990s, then formally repealed by the Gramm-Leach-Bliley Act in 1999. This allowed the creation of financial supermarkets like Citigroup—combining commercial banking, investment banking, and insurance under one roof. Many economists (though not all) believe this repeal contributed to the conditions that caused the 2008 crisis.
 
@@ -136,7 +136,7 @@ SOX significantly increased the cost of being a public company—compliance cost
 
 The most sweeping financial regulation since the 1930s, passed in response to the 2008 crisis. At 2,300 pages, it's enormous. Key provisions:
 
-**Volcker Rule**: Prohibits banks from proprietary trading (making speculative investments with their own money) and limits their investments in hedge funds and private equity.
+**Volcker Rule**: Prohibits banks from proprietary trading (making speculative investments with their own money) and limits their investments in hedge funds and [private equity](/private-equity).
 
 **Capital and liquidity requirements**: Banks must hold more capital (a buffer against losses) and maintain adequate liquidity (cash and easily sellable assets) to survive a crisis.
 
@@ -174,7 +174,7 @@ The EU's approach tends to be more prescriptive than the U.S., with detailed rul
 
 Financial regulation has spawned an entire industry devoted to following the rules. Banks and financial firms employ thousands of compliance officers, lawyers, risk managers, and reporting specialists.
 
-Global spending on compliance in financial services exceeds $270 billion annually. Large banks like JPMorgan Chase employ over 30,000 people in compliance and risk management functions.
+Global spending on compliance in financial services exceeds $270 billion annually. Large banks like JPMorgan Chase employ over 30,000 people in compliance and [risk management](/risk-management) functions.
 
 Anti-money laundering (AML) compliance is particularly resource-intensive. Banks must monitor transactions for suspicious activity, verify customer identities (KYC—Know Your Customer), file suspicious activity reports (SARs), and screen transactions against sanctions lists. The U.S. financial system files over 4 million SARs annually.
 

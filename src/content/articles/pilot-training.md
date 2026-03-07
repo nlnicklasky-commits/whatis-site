@@ -5,7 +5,7 @@ description: "Pilot training is the process of learning to fly aircraft through 
 category: everyday-concepts
 tags: ["pilot training", "aviation", "flying", "career", "FAA", "aerospace"]
 heroImage: "/images/articles/pilot-training.webp"
-heroAlt: "A student pilot and instructor in a small aircraft cockpit during a training flight"
+heroAlt: "Editorial photograph representing the concept of pilot training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pilot Training?
 
-Pilot training is the structured process of learning to fly aircraft — from the physics of flight and navigation to the hands-on skills of takeoff, landing, and everything in between. It involves ground school (classroom instruction), actual flight hours with an instructor, solo flight practice, and passing both written knowledge tests and practical flight exams administered by the Federal Aviation Administration (FAA) in the United States or equivalent authorities in other countries.
+Pilot training is the structured process of learning to fly aircraft — from the [physics](/physics) of flight and [navigation](/navigation) to the hands-on skills of takeoff, landing, and everything in between. It involves ground school (classroom instruction), actual flight hours with an instructor, solo flight practice, and passing both written knowledge tests and practical flight exams administered by the Federal [Aviation](/aviation) Administration (FAA) in the United States or equivalent authorities in other countries.
 
 ## The License Ladder
 
@@ -51,12 +51,12 @@ Pilot certification follows a progression, each level building on the previous o
 
 Before you fly, you study. Ground school covers:
 
-- **Aerodynamics** — how wings generate lift, what causes stalls, how control surfaces work
+- **[Aerodynamics](/aerodynamics)** — how wings generate lift, what causes stalls, how control surfaces work
 - **Weather** — reading weather reports and forecasts, understanding fronts, turbulence, icing, and thunderstorms
 - **Navigation** — using charts, GPS, radio navigation aids (VOR, ILS), and dead reckoning
 - **Regulations** — FAA rules governing airspace, right-of-way, minimum altitudes, and required equipment
 - **Aircraft systems** — how engines, electrical systems, fuel systems, and instruments work
-- **Human factors** — spatial disorientation, fatigue, decision-making under pressure, and aeronautical decision making (ADM)
+- **[Human factors](/human-factors)** — spatial disorientation, fatigue, decision-making under pressure, and aeronautical decision making (ADM)
 
 Ground school is available through flight schools, community colleges, online courses, and self-study. The FAA written knowledge test covers this material with multiple-choice questions.
 
@@ -86,14 +86,14 @@ That's changing. Regional airline starting pay has more than doubled in recent y
 
 The traditional career progression:
 
-1. **Flight instructor** (CFI) — most new commercial pilots build hours by teaching. Pay is modest ($30,000-$50,000) but the hours accumulate steadily.
+1. **Flight instructor** (CFI) — most new commercial pilots build hours by [teaching](/teaching). Pay is modest ($30,000-$50,000) but the hours accumulate steadily.
 2. **Regional airline** — first officer at a regional carrier, flying routes for major airlines under contract. Starting pay: $60,000-$90,000.
 3. **Major airline** — captain or first officer at a major carrier (Delta, United, American, Southwest). Senior captains at major airlines earn $300,000-$400,000+ annually.
 
-Alternative paths include corporate aviation (flying private jets for companies or individuals), cargo airlines (FedEx, UPS — among the highest-paying flying jobs), military aviation (exceptional training, service commitment required), and specialized operations (firefighting, medevac, bush flying, agricultural aviation).
+Alternative paths include corporate aviation (flying private jets for companies or individuals), cargo airlines (FedEx, UPS — among the highest-paying flying jobs), military aviation (exceptional training, service commitment required), and specialized operations ([firefighting](/firefighting), medevac, bush flying, agricultural aviation).
 
 ## The Pilot Shortage
 
 The aviation industry faces a significant pilot shortage. Boeing projects the world will need 649,000 new pilots by 2042. Mandatory retirement at age 65, post-pandemic travel demand, fleet expansion, and a smaller pipeline of military-trained pilots are all contributing factors.
 
-For aspiring pilots, the shortage means better pay, more opportunities, and faster career progression than at any time in recent memory. The economics of becoming a pilot — long unfavorable — have shifted dramatically in the pilot's favor.
+For aspiring pilots, the shortage means better pay, more opportunities, and faster career progression than at any time in recent memory. The [economics](/economics) of becoming a pilot — long unfavorable — have shifted dramatically in the pilot's favor.

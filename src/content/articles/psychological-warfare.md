@@ -5,7 +5,7 @@ description: "Psychological warfare uses propaganda and manipulation to influenc
 category: history
 tags: ["psychological warfare", "psyops", "propaganda", "information warfare"]
 heroImage: "/images/articles/psychological-warfare.webp"
-heroAlt: "Scattered vintage propaganda leaflets and a radio transmitter on a military operations table"
+heroAlt: "Editorial photograph representing the concept of psychological warfare"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,13 +41,13 @@ The idea that you can defeat an enemy by breaking their will rather than their b
 
 The Roman Empire understood that spectacle was a form of psychological power. Triumphal processions through Rome — dragging defeated kings in chains before cheering crowds — served a purpose beyond entertainment. They demonstrated Roman invincibility to potential enemies, reinforced loyalty among subjects, and demoralized future opponents.
 
-But psychological warfare as a formal, organized military discipline is relatively modern. It emerged as a distinct field during World War I and was systematized during World War II. The reason is simple: mass media. Once you could reach millions of people through radio, leaflets dropped from aircraft, and film, the possibilities for influencing enemy morale became too significant to leave to chance.
+But psychological warfare as a formal, organized military discipline is relatively modern. It emerged as a distinct field during [World War I](/world-war-i) and was systematized during [World War II](/world-war-ii). The reason is simple: mass media. Once you could reach millions of people through radio, leaflets dropped from aircraft, and film, the possibilities for influencing enemy morale became too significant to leave to chance.
 
 ## World War I: The First Media War
 
 World War I saw the first large-scale use of modern propaganda as a weapon. Both sides quickly realized that industrial warfare required not just armies but entire populations committed to the fight. Governments needed to maintain civilian morale, justify enormous sacrifices, and demonize the enemy.
 
-Britain established Wellington House — a secret propaganda bureau — in 1914. Its output included the Bryce Report on alleged German atrocities in Belgium, which mixed genuine reports with exaggerations and fabrications to build international support. The German government was slower to organize propaganda efforts and arguably never matched British effectiveness.
+Britain established Wellington House — a secret propaganda bureau — in 1914. Its output included the Bryce Report on alleged German atrocities in Belgium, which mixed genuine reports with exaggerations and fabrications to build international support. The German [government](/government) was slower to organize propaganda efforts and arguably never matched British effectiveness.
 
 Leaflet drops became a standard tactic. Both sides dropped millions of leaflets over enemy lines, encouraging surrender, spreading demoralization, and exploiting grievances. The effectiveness was debatable — most soldiers treated enemy leaflets as curiosities or toilet paper. But some evidence suggests leaflets did influence surrender rates, particularly among troops already demoralized by combat conditions.
 
@@ -61,7 +61,7 @@ World War II was when psychological warfare came into its own as a military spec
 
 The United States created the Office of Strategic Services (OSS) — predecessor to the CIA — which included a Morale Operations Branch dedicated to "black propaganda" (material designed to appear as if it came from the enemy). The OSS produced fake German radio broadcasts, forged documents, and spread rumors designed to undermine Nazi morale.
 
-The British Political Warfare Executive (PWE) ran Soldatensender Calais — a radio station that pretended to be a German military broadcast. It mixed genuine German news (to build credibility) with subtle disinformation (to erode morale and trust in Nazi leadership). The station's format was so convincing that many German soldiers relied on it as a primary news source, unaware it was broadcasting from England.
+The British Political Warfare Executive (PWE) ran Soldatensender Calais — a radio station that pretended to be a German military broadcast. It mixed genuine German news (to build credibility) with subtle disinformation (to erode morale and trust in Nazi [leadership](/leadership)). The station's format was so convincing that many German soldiers relied on it as a primary news source, unaware it was [broadcasting](/broadcasting) from England.
 
 Leaflet operations reached enormous scale. The Allies dropped over 6 billion leaflets over Axis territory during the war. "Safe conduct" passes — leaflets guaranteeing that soldiers who surrendered would be treated according to the Geneva Convention — proved particularly effective. Captured German soldiers were frequently found carrying them.
 
@@ -79,7 +79,7 @@ The Cold War transformed psychological warfare from a wartime tactic into a perm
 
 **Radio Free Europe and Radio Liberty** — Funded by the CIA (covertly at first, openly later), these stations broadcast Western news and cultural programming into Soviet-bloc countries. Their effect is debated, but former Eastern Bloc citizens have described them as a crucial connection to the outside world.
 
-**The United States Information Agency (USIA)** — A government agency dedicated to public diplomacy, running cultural exchange programs, libraries, and publications worldwide. At its peak, it had over 200 posts in 150 countries.
+**The United States Information Agency (USIA)** — A government agency dedicated to public [diplomacy](/diplomacy), running cultural exchange programs, libraries, and publications worldwide. At its peak, it had over 200 posts in 150 countries.
 
 **Soviet active measures** — The KGB's Service A specialized in disinformation: forging documents, planting false stories in foreign media, and spreading conspiracy theories. One of the most successful was Operation INFEKTION (1983-1987), which spread the false claim that the U.S. government created the HIV/AIDS virus as a biological weapon. This story circulated globally and is still believed by some people today.
 
@@ -101,7 +101,7 @@ China's "50 Cent Army" — so named because participants were allegedly paid 50 
 
 The U.S. Army's Psychological Operations groups (part of Special Operations Command) are active-duty and reserve units that conduct tactical and strategic influence operations. They use loudspeakers, leaflets, radio, television, social media, and face-to-face engagement. The Army rebranded PSYOP as "Military Information Support Operations" (MISO) in 2010, partly because "psychological operations" sounded sinister. Many practitioners still use the old term.
 
-Modern psyops rely heavily on target audience analysis — understanding the cultural values, fears, media habits, and decision-making patterns of the people you're trying to influence. This is where psychology, anthropology, linguistics, and data science converge. A message that works in Kandahar won't work in Mogadishu. Cultural competence is not optional.
+Modern psyops rely heavily on target audience analysis — understanding the cultural values, fears, media habits, and decision-making patterns of the people you're trying to influence. This is where [psychology](/psychology), [anthropology](/anthropology), [linguistics](/linguistics), and [data science](/data-science) converge. A message that works in Kandahar won't work in Mogadishu. Cultural competence is not optional.
 
 ## The Ethical Minefield
 

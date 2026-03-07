@@ -5,7 +5,7 @@ description: "Physical education teaches movement skills, fitness, and healthy h
 category: sports
 tags: ["education", "fitness", "health", "sports", "movement", "wellness"]
 heroImage: "/images/articles/physical-education.webp"
-heroAlt: "Students participating in various physical activities in a school gymnasium"
+heroAlt: "Editorial photograph representing the concept of physical education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Common reasons include embarrassment about athletic ability, anxiety about being chosen last for teams, discomfort with changing clothes in locker rooms, bullying, overly competitive activities that favor naturally athletic students, and limited activity choices. Research shows that PE classes focused on personal improvement rather than competition, offering diverse activities, and creating supportive environments significantly improve student attitudes toward physical activity."
 ---
 
-# What Is Physical Education?
+# What Is Physical [Education](/education)?
 
 Physical education — PE, gym class, whatever your school called it — is the structured teaching of physical activity, movement skills, fitness concepts, and healthy lifestyle habits within a school setting. At its best, PE teaches kids how to move their bodies, builds habits that prevent chronic disease, and helps students discover physical activities they'll enjoy for life. At its worst, it's a traumatic experience involving dodgeball and public humiliation that turns people off exercise for decades.
 
@@ -43,7 +43,7 @@ Modern physical education has four main goals, according to SHAPE America (the S
 
 **Physical literacy.** This is the big concept in contemporary PE theory. Physical literacy means having the knowledge, skills, and confidence to be physically active for life. A physically literate person can participate in a variety of activities, understands the benefits of movement, and chooses to be active — not because a teacher requires it, but because they value it.
 
-**Social and emotional development.** Physical activity teaches cooperation, sportsmanship, leadership, emotional regulation, and resilience. Team sports require communication and conflict resolution. Individual activities build self-discipline and goal-setting. Learning to lose gracefully — and win gracefully — has real-world applications.
+**Social and emotional development.** Physical activity teaches cooperation, sportsmanship, [leadership](/leadership), emotional regulation, and resilience. Team sports require communication and [conflict resolution](/conflict-resolution). Individual activities build self-discipline and goal-setting. Learning to lose gracefully — and win gracefully — has real-world applications.
 
 ## The Evidence for PE
 
@@ -51,7 +51,7 @@ The case for physical education is overwhelming:
 
 **Physical health.** Childhood obesity affects roughly 20% of American children ages 6-19 (CDC data). Only 24% of American children meet the recommended 60 minutes of daily physical activity. Regular physical activity reduces risk of obesity, type 2 diabetes, cardiovascular disease, and certain cancers. These benefits start in childhood and compound over a lifetime.
 
-**Mental health.** Physical activity reduces symptoms of anxiety and depression in children and adolescents. A 2019 meta-analysis published in *JAMA Pediatrics* found that exercise programs significantly reduced depressive symptoms in youth. Exercise stimulates endorphin release, reduces cortisol levels, and improves sleep — all of which support mental well-being.
+**[Mental health](/mental-health).** Physical activity reduces symptoms of anxiety and depression in children and adolescents. A 2019 meta-analysis published in *JAMA [Pediatrics](/pediatrics)* found that exercise programs significantly reduced depressive symptoms in youth. Exercise stimulates endorphin release, reduces cortisol levels, and improves sleep — all of which support mental well-being.
 
 **Academic performance.** This one surprises people. Taking time away from academic subjects for PE doesn't hurt grades — it often improves them. The CDC's thorough review found that physical activity is associated with better concentration, improved memory, reduced disruptive behavior, and higher academic achievement. Active brains learn better than sedentary ones.
 
@@ -61,7 +61,7 @@ The case for physical education is overwhelming:
 
 Despite the evidence, PE has a reputation problem. Many adults remember gym class as their worst school experience. The reasons are predictable:
 
-**Overemphasis on team sports.** Traditional PE revolves around basketball, football, soccer, and volleyball. Great if you're athletic. Miserable if you're not. Students who struggle with competitive sports often conclude they're "not athletic" — when really they just haven't found an activity they enjoy. Activities like hiking, yoga, dance, martial arts, rock climbing, and swimming rarely appear in traditional PE.
+**Overemphasis on team sports.** Traditional PE revolves around [basketball](/basketball), football, soccer, and [volleyball](/volleyball). Great if you're athletic. Miserable if you're not. Students who struggle with competitive sports often conclude they're "not athletic" — when really they just haven't found an activity they enjoy. Activities like hiking, yoga, dance, [martial arts](/martial-arts), [rock climbing](/rock-climbing), and [swimming](/swimming) rarely appear in traditional PE.
 
 **Public performance anxiety.** Being chosen last for teams, having your fitness test results discussed openly, being unable to do a pull-up while the class watches — these experiences create lasting negative associations with physical activity. The kid who's humiliated in PE at age 10 may avoid exercise at age 40.
 

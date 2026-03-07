@@ -5,7 +5,7 @@ description: "A tea ceremony is a ritualized practice of preparing and serving t
 category: arts-amp-culture
 tags: ["tea ceremony", "japanese tea ceremony", "chanoyu", "gongfu cha", "tea", "culture"]
 heroImage: "/images/articles/tea-ceremony.webp"
-heroAlt: "A traditional Japanese tea ceremony with matcha being whisked in a ceramic bowl"
+heroAlt: "Editorial photograph representing the concept of tea ceremony"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,15 +33,15 @@ faq:
 
 A tea ceremony is a formalized practice of preparing and serving tea according to specific cultural traditions. While tea ceremonies exist in multiple cultures, the two most prominent are the Japanese *chanoyu* (or *sado/chado*, "the way of tea") and the Chinese *gongfu cha* ("tea with skill"). Both elevate a simple act — making tea — into a meditative, aesthetic, and social practice.
 
-The Japanese version, in particular, is far more than drinking tea. It's a carefully choreographed experience that integrates architecture, garden design, calligraphy, ceramics, flower arrangement, and [Zen Buddhism](/buddhism) into a single practice. Senator Robert Kennedy, after attending a ceremony in Kyoto, said he'd never experienced anything that combined simplicity and depth so effectively.
+The Japanese version, in particular, is far more than drinking tea. It's a carefully choreographed experience that integrates [architecture](/architecture), garden design, [calligraphy](/calligraphy), [ceramics](/ceramics), flower arrangement, and [Zen Buddhism](/buddhism) into a single practice. Senator Robert Kennedy, after attending a ceremony in Kyoto, said he'd never experienced anything that combined simplicity and depth so effectively.
 
 ## Japanese Tea Ceremony (Chanoyu)
 
 ### Origins
 
-Tea came to Japan from China around the 8th century. Zen Buddhist monks used matcha (powdered green tea) to maintain alertness during meditation. In the 15th and 16th centuries, tea masters — particularly Murata Juko, Takeno Joo, and most famously Sen no Rikyu (1522-1591) — transformed tea drinking into a complete aesthetic and spiritual practice.
+Tea came to Japan from China around the 8th century. Zen Buddhist monks used matcha (powdered green tea) to maintain alertness during [meditation](/meditation). In the 15th and 16th centuries, tea masters — particularly Murata Juko, Takeno Joo, and most famously Sen no Rikyu (1522-1591) — transformed tea drinking into a complete aesthetic and spiritual practice.
 
-Sen no Rikyu established the principles that still define chanoyu: *wa* (harmony), *kei* (respect), *sei* (purity), and *jaku* (tranquility). He championed *wabi-cha* — a style emphasizing rustic simplicity, imperfect beauty, and the appreciation of humble materials. A rough ceramic tea bowl worth a fortune sits alongside a simple bamboo whisk. That deliberate contrast is the point.
+Sen no Rikyu established the principles that still define chanoyu: *wa* ([harmony](/harmony)), *kei* (respect), *sei* (purity), and *jaku* (tranquility). He championed *wabi-cha* — a style emphasizing rustic simplicity, imperfect beauty, and the appreciation of humble materials. A rough ceramic tea bowl worth a fortune sits alongside a simple bamboo whisk. That deliberate contrast is the point.
 
 ### The Space
 
@@ -78,7 +78,7 @@ This isn't about tea. It's about paying attention to what's in front of you, tre
 
 ## Tea Ceremony Today
 
-In Japan, the three main tea schools (Urasenke, Omotesenke, Mushakojisenke) continue to teach millions of students. Tea ceremony is part of many Japanese people's cultural education and is practiced in community centers, universities, and private homes.
+In Japan, the three main tea schools (Urasenke, Omotesenke, Mushakojisenke) continue to teach millions of students. Tea ceremony is part of many Japanese people's cultural [education](/education) and is practiced in community centers, universities, and private homes.
 
 Outside Japan, tea ceremony has spread to cultural institutions worldwide. Many Japanese gardens, [museums](/aesthetics), and cultural centers offer demonstrations and classes. The practice has attracted students drawn to its meditative qualities, its aesthetic richness, and its complete contrast with the speed and noise of modern life.
 

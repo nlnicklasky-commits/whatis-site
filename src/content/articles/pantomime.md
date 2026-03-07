@@ -5,7 +5,7 @@ description: "Pantomime is a theatrical form combining comedy, music, and audien
 category: everyday-concepts
 tags: ["pantomime", "theater", "performing arts", "comedy", "british culture", "entertainment"]
 heroImage: "/images/articles/pantomime.webp"
-heroAlt: "A colorful pantomime stage with costumed performers and an engaged audience"
+heroAlt: "Editorial photograph representing the concept of pantomime"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pantomime?
 
-Pantomime — "panto" to the British — is a uniquely theatrical experience: a loud, funny, interactive stage show performed during the Christmas season, based on fairy tales and folk stories, featuring cross-dressing characters, corny jokes, musical numbers, slapstick comedy, and an audience that's actively encouraged to shout, boo, and sing along. It's the most popular form of live theater in Britain, selling more tickets annually than all West End musicals combined.
+Pantomime — "panto" to the British — is a uniquely theatrical experience: a loud, funny, interactive stage show performed during the Christmas season, based on [fairy tales](/fairy-tales) and folk stories, featuring cross-dressing characters, corny jokes, musical numbers, slapstick [comedy](/comedy), and an audience that's actively encouraged to shout, boo, and sing along. It's the most popular form of live theater in Britain, selling more tickets annually than all West End musicals combined.
 
 And if you've never experienced one, it's hard to describe how gloriously weird it is.
 
@@ -41,7 +41,7 @@ A typical pantomime takes a well-known story — Cinderella, Jack and the Beanst
 
 Several conventions make panto distinctive:
 
-**The Dame.** A male actor plays an older female character (Cinderella's stepmother, Jack's mother, etc.) in exaggerated drag with enormous wigs, outrageous costumes, and broad physical comedy. The Dame is always played for laughs, never for realism. Think pantomime tradition, not gender commentary.
+**The Dame.** A male actor plays an older female character (Cinderella's stepmother, Jack's mother, etc.) in exaggerated drag with enormous wigs, outrageous costumes, and broad [physical comedy](/physical-comedy). The Dame is always played for laughs, never for realism. Think pantomime tradition, not gender commentary.
 
 **The Principal Boy.** Traditionally, the male hero (Prince Charming, Jack, Aladdin) was played by a young woman in tights. This convention has faded in recent decades — many productions now cast men in male roles — but it persists in some traditional pantos.
 
@@ -63,7 +63,7 @@ The great Victorian pantomimes of the 19th century established most conventions 
 
 Contemporary pantomime is a massive industry. An estimated 200+ professional pantomimes are staged across Britain each year, with hundreds more amateur and semi-professional productions. Major productions feature television celebrities, pop stars, and established actors, often earning six-figure fees for the season.
 
-A big-budget professional panto is a genuine spectacle — elaborate sets, pyrotechnics, flying effects, lavish costumes, and live bands. Production values rival West End musicals, though the tone is deliberately silly.
+A big-budget professional panto is a genuine spectacle — elaborate sets, [pyrotechnics](/pyrotechnics), flying effects, lavish costumes, and live bands. Production values rival West End musicals, though the tone is deliberately silly.
 
 Amateur and school pantomimes, meanwhile, are a British cultural institution. Village halls and school auditoriums across the country stage their own pantos each Christmas, complete with homemade costumes, forgotten lines, and audiences full of grandparents. The production quality varies wildly, but the enthusiasm rarely does.
 

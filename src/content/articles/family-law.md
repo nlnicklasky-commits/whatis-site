@@ -5,7 +5,7 @@ description: "Family law governs legal relationships between family members, inc
 category: law
 tags: ["family law", "legal", "marriage", "divorce", "child custody", "adoption"]
 heroImage: "/images/articles/family-law.webp"
-heroAlt: "Gavel resting on a desk beside family-related legal documents and a small house figurine"
+heroAlt: "Editorial photograph representing the concept of family law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -127,7 +127,7 @@ Adoption creates a legal parent-child relationship where one didn't exist biolog
 
 **Agency adoption** involves working with a licensed public or private agency that matches prospective parents with children. **Independent (private) adoption** involves a direct arrangement, often through an attorney or intermediary. **Stepparent adoption** — where a stepparent adopts their spouse's child — is the most common type. **International adoption** involves adopting a child from another country, governed by both US law and the laws of the child's birth country, plus the Hague Convention on Intercountry Adoption.
 
-**Encourage care adoption** involves adopting children who have been removed from their biological families due to abuse or neglect and whose parents' rights have been terminated. There are currently about 117,000 children in US [encourage care](/behavioral-psychology) waiting to be adopted, according to the Children's Bureau.
+**Encourage care adoption** involves adopting children who have been removed from their biological families due to abuse or neglect and whose parents' rights have been terminated. There are currently about 117,000 children in US [encourage care](/behavioral-[psychology](/psychology)) waiting to be adopted, according to the Children's Bureau.
 
 ### The Legal Process
 

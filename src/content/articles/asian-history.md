@@ -5,7 +5,7 @@ description: "Asian history covers thousands of years of civilization across the
 category: history
 tags: ["asian history", "asia", "china", "india", "japan", "silk road"]
 heroImage: "/images/articles/asian-history.webp"
-heroAlt: "Panoramic view of the Great Wall of China stretching across green mountain ridges"
+heroAlt: "Editorial photograph representing the concept of asian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -59,7 +59,7 @@ The Vedic period (c. 1500–500 BCE) brought the Sanskrit texts that form the fo
 
 The Maurya Empire (322–185 BCE) under Ashoka achieved something rare — an enormous empire governed, at least in theory, by Buddhist principles of non-violence and tolerance. Ashoka's edicts, carved into rocks and pillars across the subcontinent, represent one of the earliest documented attempts to govern according to ethical principles rather than pure power.
 
-The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit literature and drama flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/calculus) and science.
+The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit [literature](/literature) and drama flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/calculus) and science.
 
 ### Japan, Korea, and Southeast Asia
 
@@ -67,7 +67,7 @@ Japan's history is marked by selective borrowing and adaptation. Beginning in th
 
 The samurai warrior class, the Shinto religious tradition, and the imperial institution (the world's oldest hereditary monarchy) gave Japan a cultural identity that resisted complete assimilation into Chinese models. The feudal period (roughly 1185–1868) saw Japan develop its own version of medieval society — with shoguns, daimyo lords, and an elaborate code of warrior ethics.
 
-Korea occupied a strategic position between China and Japan, absorbing influences from both while maintaining its own language, culture, and political identity. Korean innovations — movable metal type printing (invented roughly 200 years before Gutenberg), celadon ceramics, and the phonetic Hangul alphabet — demonstrate a civilization that was far from passive.
+Korea occupied a strategic position between China and Japan, absorbing influences from both while maintaining its own language, culture, and political identity. Korean innovations — movable metal type printing (invented roughly 200 years before Gutenberg), celadon [ceramics](/ceramics), and the phonetic Hangul alphabet — demonstrate a civilization that was far from passive.
 
 Southeast Asian kingdoms like Angkor (in modern Cambodia), Srivijaya (in modern Indonesia), and various Vietnamese dynasties built sophisticated states influenced by both Indian and Chinese traditions. Angkor Wat, constructed in the early 12th century, remains the largest religious monument in the world. These civilizations controlled critical maritime trade routes connecting the Indian Ocean and the Pacific.
 
@@ -87,13 +87,13 @@ The Qing dynasty (1644–1912) — founded by Manchu conquerors from the northea
 
 ### The Mughal Empire
 
-In India, the Mughal Empire (1526–1857) united much of the subcontinent under Muslim rulers of Central Asian origin. The Mughals produced extraordinary architecture — the Taj Mahal, the Red Fort, Fatehpur Sikri — and presided over an economy that produced roughly 25% of global GDP in the 17th century. Mughal India was wealthier than all of Europe combined.
+In India, the Mughal Empire (1526–1857) united much of the subcontinent under Muslim rulers of Central Asian origin. The Mughals produced extraordinary [architecture](/architecture) — the Taj Mahal, the Red Fort, Fatehpur Sikri — and presided over an economy that produced roughly 25% of global GDP in the 17th century. Mughal India was wealthier than all of Europe combined.
 
 The empire's sophisticated system of administration, tax collection, and religious tolerance (especially under Akbar) made it one of the most successful pre-modern states. Its gradual decline in the 18th century created the power vacuum that European colonial powers — particularly Britain — would exploit.
 
 ### The Ottoman Empire
 
-The Ottoman Empire (c. 1299–1922) controlled vast territories in West Asia, North Africa, and southeastern Europe. Istanbul (Constantinople) served as one of the world's great cities for centuries. Ottoman [architecture](/architectural-history), calligraphy, and administrative systems influenced the entire Middle East and beyond.
+The Ottoman Empire (c. 1299–1922) controlled vast territories in West Asia, North Africa, and southeastern Europe. Istanbul (Constantinople) served as one of the world's great cities for centuries. Ottoman [architecture](/architectural-history), [calligraphy](/calligraphy), and administrative systems influenced the entire Middle East and beyond.
 
 ## Colonialism and Its Aftermath
 
@@ -103,7 +103,7 @@ The British conquest of India was gradual — the East India Company controlled 
 
 Japan's response was unique. After Commodore Perry forced Japan to open to trade in 1853, the Meiji Restoration (1868) launched a crash modernization program. Within decades, Japan built a modern military, industrialized its economy, and defeated both China (1895) and Russia (1905) in wars — the first time an Asian power had defeated a European one in modern warfare.
 
-The 20th century brought decolonization across Asia. India gained independence in 1947 — along with the traumatic partition creating Pakistan. China's Communist revolution succeeded in 1949. Southeast Asian nations gained independence through negotiation, revolution, or both. The Korean and Vietnam Wars reflected Cold War rivalries playing out on Asian soil.
+The 20th century brought decolonization across Asia. India gained independence in 1947 — along with the traumatic partition creating Pakistan. China's Communist revolution succeeded in 1949. Southeast Asian nations gained independence through [negotiation](/negotiation), revolution, or both. The Korean and Vietnam Wars reflected Cold War rivalries playing out on Asian soil.
 
 ## Modern Asia
 

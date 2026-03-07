@@ -5,7 +5,7 @@ description: "Paleogeography maps where continents, oceans, and climates were in
 category: science
 tags: ["paleogeography", "plate tectonics", "continental drift", "earth history", "geology", "paleontology", "ancient geography"]
 heroImage: "/images/articles/paleogeography-hero.webp"
-heroAlt: "A reconstruction map of the supercontinent Pangaea showing ancient continental positions and ocean basins"
+heroAlt: "Editorial photograph representing the concept of paleogeography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,9 +45,9 @@ Paleogeography is built on one of the most powerful ideas in all of science: the
 
 Alfred Wegener proposed continental drift in 1912, pointing out that the coastlines of South America and Africa fit together like puzzle pieces, that identical fossils appeared on now-separated continents, and that geological formations matched across oceans. He was right about all of this. He was also ridiculed for decades because he couldn't explain the mechanism — what force could move entire continents?
 
-The answer came in the 1960s with plate tectonics. Earth's outer shell (the lithosphere) is divided into about 15 major plates that float on the partially molten asthenosphere below. Convection currents in the mantle — driven by Earth's internal heat — push these plates apart at mid-ocean ridges (where new crust forms), slide them past each other at transform faults (like the San Andreas), and drive them together at subduction zones (where one plate dives beneath another).
+The answer came in the 1960s with [plate tectonics](/plate-tectonics). Earth's outer shell (the lithosphere) is divided into about 15 major plates that float on the partially molten asthenosphere below. Convection currents in the mantle — driven by Earth's internal heat — push these plates apart at mid-ocean ridges (where new crust forms), slide them past each other at transform faults (like the San Andreas), and drive them together at subduction zones (where one plate dives beneath another).
 
-This isn't just a theory in the everyday sense of "guess." Plate tectonics is supported by an overwhelming convergence of evidence from [geology](/geology), [geophysics](/geophysics), paleontology, paleomagnetism, oceanography, and now direct GPS measurement. We can watch the continents move in real time. North America and Europe separate by about 2.5 centimeters per year — the Atlantic Ocean is literally growing while you read this.
+This isn't just a theory in the everyday sense of "guess." Plate tectonics is supported by an overwhelming convergence of evidence from [geology](/geology), [geophysics](/geophysics), paleontology, paleomagnetism, [oceanography](/oceanography), and now direct GPS measurement. We can watch the continents move in real time. North America and Europe separate by about 2.5 centimeters per year — the Atlantic Ocean is literally growing while you read this.
 
 ## Reading the Rocks: How Paleogeography Works
 
@@ -135,7 +135,7 @@ Australia separated from Antarctica around 45 million years ago, allowing the An
 
 The configuration of continents during the Pleistocene (the last 2.6 million years) was essentially the same as today, but sea levels fluctuated dramatically with the growth and retreat of ice sheets. During glacial maxima, sea level dropped about 120-130 meters below present levels.
 
-These sea-level drops exposed vast areas of continental shelf, creating land bridges that profoundly affected biogeography. The Bering Land Bridge connected Alaska and Siberia, allowing the migration of mammoths, bison, and eventually humans into the Americas. The Sunda Shelf connected the islands of Indonesia to mainland Southeast Asia. The English Channel was dry land, and you could walk from France to England.
+These sea-level drops exposed vast areas of continental shelf, creating land bridges that profoundly affected [biogeography](/biogeography). The Bering Land Bridge connected Alaska and Siberia, allowing the migration of mammoths, bison, and eventually humans into the Americas. The Sunda Shelf connected the islands of Indonesia to mainland Southeast Asia. The English Channel was dry land, and you could walk from France to England.
 
 These connections and disconnections shaped the distribution of plants, animals, and human populations in patterns still visible today. The [human geography](/human-geography) of the modern world was fundamentally shaped by Pleistocene paleogeography.
 

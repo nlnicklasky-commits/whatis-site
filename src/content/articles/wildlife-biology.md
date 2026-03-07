@@ -5,7 +5,7 @@ description: "Wildlife biology is the scientific study of wild animals and their
 category: science
 tags: ["wildlife biology", "ecology", "conservation"]
 heroImage: "/images/articles/wildlife-biology.webp"
-heroAlt: "A biologist in the field observing deer through binoculars in a forest clearing at dawn"
+heroAlt: "Editorial photograph representing the concept of wildlife biology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -63,7 +63,7 @@ The logistic growth model predicts that populations grow quickly when small, slo
 
 An animal's habitat isn't just "where it lives." It's the specific combination of food, water, cover, and space that a species needs to survive and reproduce. Wildlife biologists analyze habitat at multiple scales -- from the individual plant a bird nests in to the continental flyway it migrates along.
 
-Habitat fragmentation is one of the biggest threats to wildlife worldwide. When a continuous forest gets broken into isolated patches by roads, agriculture, or development, the fragments may be too small to support viable populations. Animals that need large territories (like grizzly bears or wolverines) are especially vulnerable. Edge effects -- changes in temperature, light, wind, and predation risk at habitat boundaries -- can extend deep into fragments, making them even less suitable.
+Habitat fragmentation is one of the biggest threats to wildlife worldwide. When a continuous forest gets broken into isolated patches by roads, [agriculture](/agriculture), or development, the fragments may be too small to support viable populations. Animals that need large territories (like grizzly bears or wolverines) are especially vulnerable. Edge effects -- changes in temperature, light, wind, and predation risk at habitat boundaries -- can extend deep into fragments, making them even less suitable.
 
 Wildlife corridor design has become a major focus area. By identifying and protecting strips of habitat that connect larger patches, biologists can help animals move between populations, find mates, and access seasonal resources. The Yellowstone to Yukon Conservation Initiative (Y2Y) is one of the most ambitious examples -- a plan to maintain connectivity for wildlife across 2,000 miles of the Rocky Mountains.
 
@@ -83,7 +83,7 @@ Migration research has been transformed by GPS tracking technology. We now know 
 
 **Radio telemetry and GPS tracking** have revolutionized wildlife research. A radio collar transmits a signal that researchers can track with an antenna. GPS collars record location data at set intervals and can transmit via satellite. Modern collars also record activity data, temperature, and even physiological parameters. The African Wildlife Foundation has used GPS collars to track elephant movements across multiple countries, revealing critical migration corridors.
 
-**Camera traps** -- motion-triggered cameras placed in the field -- provide data on species presence, behavior, and population density without human disturbance. They've been essential for studying secretive species like snow leopards, jaguars, and wolverines. A single camera trap study can generate thousands of images, which is why researchers increasingly use [machine learning](/machine-learning) algorithms to automate species identification.
+**Camera traps** -- motion-triggered cameras placed in the field -- provide data on species presence, behavior, and population density without human disturbance. They've been essential for studying secretive species like snow leopards, jaguars, and wolverines. A single camera trap study can generate thousands of images, which is why researchers increasingly use [machine learning](/machine-learning) [algorithms](/algorithms) to automate species identification.
 
 **Environmental DNA (eDNA)** is a newer technique that detects DNA shed by organisms into water or soil. By filtering water samples and analyzing the DNA, biologists can detect the presence of specific species without ever seeing the animals. This has been particularly useful for aquatic species and for detecting invasive species at low densities.
 
@@ -135,7 +135,7 @@ Wildlife management applies biological knowledge to maintain wildlife population
 
 ### Harvest Management
 
-Hunting and fishing are among the oldest human activities, and regulating harvest is a core function of wildlife agencies. In the U.S., the North American Model of Wildlife Conservation treats wildlife as a public trust resource, managed by government agencies for the benefit of all citizens.
+Hunting and fishing are among the oldest human activities, and regulating harvest is a core function of wildlife agencies. In the U.S., the North American Model of [Wildlife Conservation](/wildlife-conservation) treats wildlife as a public trust resource, managed by government agencies for the benefit of all citizens.
 
 Setting harvest regulations involves estimating population size, modeling population growth, determining a sustainable harvest level, and setting seasons and bag limits accordingly. Waterfowl management is particularly sophisticated -- the U.S. Fish and Wildlife Service uses continental-scale survey data (the Breeding Bird Survey, Midwinter Waterfowl Survey, and banding data) to set hunting seasons annually.
 

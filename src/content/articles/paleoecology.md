@@ -5,7 +5,7 @@ description: "Paleoecology reconstructs ancient ecosystems using fossils, sedime
 category: science
 tags: ["paleoecology", "ancient ecosystems", "paleontology", "ecology", "fossils", "paleoenvironments", "environmental history"]
 heroImage: "/images/articles/paleoecology-hero.webp"
-heroAlt: "A sediment core revealing layers of ancient pollen grains and fossils used to reconstruct past ecosystems"
+heroAlt: "Editorial photograph representing the concept of paleoecology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -71,7 +71,7 @@ By identifying diatom species in sediment cores, paleoecologists reconstruct the
 
 ### Foraminifera
 
-Foraminifera ("forams") are marine microorganisms with calcium carbonate shells. They're the workhorses of marine paleoecology and paleoclimatology. The oxygen isotope ratio in foram shells records the temperature of the water they grew in and the global ice volume at that time. The species composition of foram assemblages indicates water temperature, depth, and productivity.
+Foraminifera ("forams") are marine microorganisms with calcium carbonate shells. They're the workhorses of marine paleoecology and [paleoclimatology](/paleoclimatology). The oxygen isotope ratio in foram shells records the temperature of the water they grew in and the global ice volume at that time. The species composition of foram assemblages indicates water temperature, depth, and [productivity](/productivity).
 
 Foram-based records from deep-sea sediment cores have reconstructed ocean temperature variations over millions of years, producing the canonical "sawtooth" pattern of Pleistocene ice ages — gradual cooling followed by rapid warming, with a ~100,000-year cycle linked to orbital variations in Earth's path around the sun.
 
@@ -105,7 +105,7 @@ Individual proxies tell partial stories. The art of paleoecology lies in combini
 
 Consider reconstructing a lake ecosystem from 8,000 years ago. Pollen records reveal the surrounding forest composition. Diatom assemblages indicate water chemistry and clarity. Chironomid (midge) head capsules indicate water temperature. Cladoceran (water flea) remains indicate food web structure. Fish bones and scales indicate which fish species were present. Charcoal reveals fire frequency. Stable isotopes reveal nutrient cycling. Sediment chemistry reveals erosion rates and watershed stability.
 
-Layer all of these together and you get a remarkably detailed picture: the forest species, the lake's clarity and temperature, the food web from algae to fish, the fire regime, the nutrient status, and how all of these interacted. Change one variable — add agriculture to the watershed, for instance — and you can trace the cascading effects through every part of the ecosystem.
+Layer all of these together and you get a remarkably detailed picture: the forest species, the lake's clarity and temperature, the food web from algae to fish, the fire regime, the nutrient status, and how all of these interacted. Change one variable — add [agriculture](/agriculture) to the watershed, for instance — and you can trace the cascading effects through every part of the ecosystem.
 
 ## Major Discoveries in Paleoecology
 
@@ -127,7 +127,7 @@ The ecological consequences were enormous. Megaherbivores maintained open landsc
 
 Paleoecology provides the longest perspective on how humans modify ecosystems. The evidence is often surprising.
 
-Aboriginal Australians used fire to manage landscapes for at least 50,000 years, creating the fire-adapted bushland that Europeans later encountered and mistook for "wilderness." Amazonian peoples created terra preta (dark earth) — enriched soils that supported agriculture for millennia and remain more fertile than surrounding soils today. Native Americans managed forests through controlled burning so effectively that European colonizers described the eastern woodlands as "park-like" — not realizing the field was a product of intentional management.
+Aboriginal Australians used fire to manage landscapes for at least 50,000 years, creating the fire-adapted bushland that Europeans later encountered and mistook for "wilderness." Amazonian peoples created terra preta (dark earth) — enriched soils that supported agriculture for millennia and remain more fertile than surrounding soils today. Native Americans managed forests through controlled burning so effectively that European colonizers described the eastern woodlands as "park-like" — not realizing the field was a product of intentional [management](/management).
 
 The "Columbian Exchange" after 1492 shows up starkly in paleoecological records. The collapse of indigenous populations in the Americas (from roughly 60 million to about 6 million due to epidemic disease) led to forest regrowth so extensive that the resulting carbon uptake may have contributed to the Little Ice Age — a global cooling event detectable in ice core records.
 
@@ -147,7 +147,7 @@ Modern climate change gives paleoecology urgent contemporary relevance.
 
 Paleoecology has been transformed by technology and data sharing.
 
-**Radiocarbon dating** and other radiometric methods provide chronological control. Accelerator mass spectrometry can date samples as small as 0.5 milligrams of carbon, allowing precise dating of individual seeds, charcoal fragments, and insect remains.
+**[Radiocarbon dating](/radiocarbon-dating)** and other radiometric methods provide chronological control. Accelerator mass spectrometry can date samples as small as 0.5 milligrams of carbon, allowing precise dating of individual seeds, charcoal fragments, and insect remains.
 
 **Ancient DNA** extracted from sediments, ice, and fossils can identify species without any visible remains. Environmental DNA (eDNA) from lake sediments has reconstructed entire plant and animal communities from DNA molecules shed into the environment — a technique that works for sites where traditional fossils are poorly preserved.
 

@@ -5,7 +5,7 @@ description: "Economic theory is a set of principles and models that explain how
 category: finance
 tags: ["economic theory", "economics", "microeconomics", "macroeconomics", "supply and demand", "scarcity", "rational choice"]
 heroImage: "/images/articles/economic-theory-hero.webp"
-heroAlt: "Supply and demand curves crossing on a graph with economic concepts illustrated around it"
+heroAlt: "Editorial photograph representing the concept of economic theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ The classical economists—Adam Smith, David Ricardo, Thomas Malthus, John Stuar
 
 ### Adam Smith and the Division of Labor
 
-Smith's key insight went beyond the invisible hand. He observed that specialization—the division of labor—dramatically increases productivity. His famous pin factory example: one worker making pins alone might produce 20 per day. Ten workers, each specializing in one step of the process, could produce 48,000 per day. That's not 10 times more productive; it's 240 times more productive.
+Smith's key insight went beyond the invisible hand. He observed that specialization—the division of labor—dramatically increases [productivity](/productivity). His famous pin factory example: one worker making pins alone might produce 20 per day. Ten workers, each specializing in one step of the process, could produce 48,000 per day. That's not 10 times more productive; it's 240 times more productive.
 
 This insight explains trade between nations, the growth of cities, and the structure of modern corporations. Specialization creates efficiency. Trade allows everyone to benefit from everyone else's specialization. This is the foundation of comparative advantage.
 
@@ -63,7 +63,7 @@ Ricardo's theory of comparative advantage (1817) is perhaps the most counterintu
 
 Suppose the US can produce both wine and cloth more efficiently than Portugal. If the US is *relatively* better at cloth and Portugal is *relatively* better at wine, both countries benefit if the US specializes in cloth, Portugal specializes in wine, and they trade. Total output increases. Both countries consume more than they could in isolation.
 
-This principle applies everywhere—not just international trade. Should a surgeon who also happens to be a faster typist do her own typing? No. Her comparative advantage is surgery. Even though she types faster than her assistant, the time she spends typing is time not spent performing surgery, where her productivity advantage is vastly greater.
+This principle applies everywhere—not just [international trade](/international-trade). Should a surgeon who also happens to be a faster typist do her own typing? No. Her comparative advantage is surgery. Even though she types faster than her assistant, the time she spends typing is time not spent performing surgery, where her productivity advantage is vastly greater.
 
 ### Malthus and the Limits of Growth
 
@@ -81,7 +81,7 @@ This resolved the "diamond-water paradox" that had puzzled economists for centur
 
 The answer: price reflects marginal value, not total value. The *total* value of water is enormous, but the marginal value of one more glass (when water is abundant) is tiny. The *total* value of diamonds is debatable, but the marginal value of one more diamond (when diamonds are scarce) is high.
 
-This single insight—that economic decisions happen at the margin—underpins all of modern microeconomics. Should a firm hire one more worker? Only if the additional revenue from that worker exceeds the additional cost. Should you study one more hour for an exam? Only if the expected improvement in your grade exceeds the value of that hour spent doing something else.
+This single insight—that economic decisions happen at the margin—underpins all of modern [microeconomics](/microeconomics). Should a firm hire one more worker? Only if the additional revenue from that worker exceeds the additional cost. Should you study one more hour for an exam? Only if the expected improvement in your grade exceeds the value of that hour spent doing something else.
 
 ### General Equilibrium
 
@@ -105,11 +105,11 @@ The solution, Keynes argued, was government spending. When private demand collap
 
 ### The Keynesian-Monetarist Debate
 
-Milton Friedman challenged Keynes from a different angle. Yes, the Great Depression was a disaster. But it was caused not by insufficient demand but by catastrophic monetary policy—the Federal Reserve allowed the money supply to contract by one-third. The cure wasn't fiscal spending but proper monetary management.
+Milton Friedman challenged Keynes from a different angle. Yes, the Great Depression was a disaster. But it was caused not by insufficient demand but by catastrophic [monetary policy](/monetary-policy)—the Federal Reserve allowed the money supply to contract by one-third. The cure wasn't fiscal spending but proper monetary management.
 
 Friedman's monetarism emphasized a simple proposition: inflation is always and everywhere a monetary phenomenon. Print too much money, and prices rise. The money supply, not government spending, is what matters.
 
-This debate—fiscal policy versus monetary policy, Keynes versus Friedman—dominated macroeconomics for decades and still shapes policy arguments today. When the 2008 financial crisis hit, governments used *both* approaches: central banks slashed interest rates and expanded the money supply (monetarism), while governments passed stimulus packages (Keynesianism).
+This debate—fiscal policy versus monetary policy, Keynes versus Friedman—dominated [macroeconomics](/macroeconomics) for decades and still shapes policy arguments today. When the 2008 financial crisis hit, governments used *both* approaches: central banks slashed interest rates and expanded the money supply (monetarism), while governments passed stimulus packages (Keynesianism).
 
 ## Supply and Demand: The Core Model
 
@@ -147,7 +147,7 @@ Game theory explains price wars, arms races, auction design, and environmental t
 
 The prisoner's dilemma—the most famous game theory example—shows why rational self-interest can lead to collectively terrible outcomes. Two prisoners, unable to communicate, each face the choice of cooperating (staying silent) or defecting (testifying against the other). Individual rationality says defect. But if both defect, both get worse outcomes than if both cooperated. This structure appears everywhere: climate negotiations, price competition, arms control.
 
-### Behavioral Economics
+### [Behavioral Economics](/behavioral-economics)
 
 Traditional economic theory assumes rational agents who maximize their utility with perfect information and consistent preferences. Daniel Kahneman and Amos Tversky demonstrated, through hundreds of experiments, that real humans systematically deviate from this model.
 

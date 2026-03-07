@@ -5,7 +5,7 @@ description: "Product design turns user needs into functional, beautiful things 
 category: technology
 tags: ["product design", "industrial design", "user experience", "ux design", "product development", "design thinking"]
 heroImage: "/images/articles/product-design-hero.webp"
-heroAlt: "Sketches and prototypes showing the product design iteration process"
+heroAlt: "Editorial photograph representing the concept of product design"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,13 +35,13 @@ faq:
 
 # What Is Product Design?
 
-Product design is the process of identifying a user need or market opportunity and creating a product — digital or physical — that addresses it effectively, looks good, works reliably, and can be manufactured or deployed at scale. It sits at the intersection of user research, visual design, engineering, and business strategy.
+Product design is the process of identifying a user need or market opportunity and creating a product — digital or physical — that addresses it effectively, looks good, works reliably, and can be manufactured or deployed at scale. It sits at the intersection of user research, visual design, [engineering](/engineering), and [business strategy](/business-strategy).
 
 ## More Than Making Things Pretty
 
 Here's a misconception worth killing immediately: product design is not just about how something looks. A beautifully styled app that confuses every user who touches it is a design failure. A stunning chair that's uncomfortable is a design failure. A gorgeous car dashboard that distracts drivers is worse — it's a dangerous design failure.
 
-Good product design is primarily about how something *works*. The appearance matters — humans respond to aesthetics, and visual design communicates information about quality and function. But form follows function, or at least walks alongside it.
+Good product design is primarily about how something *works*. The appearance matters — humans respond to [aesthetics](/aesthetics), and visual design communicates information about quality and function. But form follows function, or at least walks alongside it.
 
 Dieter Rams, the legendary designer at Braun who influenced everything from Apple products to MUJI housewares, put it in his ten principles of good design. Good design is useful. Good design makes a product understandable. Good design is unobtrusive. Good design is honest. Notice how few of those principles mention appearance directly.
 
@@ -115,7 +115,7 @@ The best products go through dozens of iterations. The original iPhone went thro
 
 In tech companies, "product design" usually means designing software interfaces — apps, websites, dashboards, and platforms. Digital product designers work with:
 
-- **Information architecture**: How content and features are organized. Think of it as the blueprint of a building — users never see it directly, but it determines whether they can find what they need. [Information architecture](/information-architecture) is the invisible structure that makes or breaks a product.
+- **Information [architecture](/architecture)**: How content and features are organized. Think of it as the blueprint of a building — users never see it directly, but it determines whether they can find what they need. [Information architecture](/information-architecture) is the invisible structure that makes or breaks a product.
 
 - **Interaction design**: How users interact with the product. What happens when you tap a button, swipe a card, or scroll a feed? Every interaction should feel natural and provide clear feedback.
 
@@ -127,7 +127,7 @@ Digital products have one enormous advantage over physical ones: you can update 
 
 ### Physical Product Design
 
-Physical product design — often called [industrial design](/industrial-design) — deals with tangible objects. Furniture, appliances, vehicles, medical devices, consumer electronics, tools, packaging.
+Physical product design — often called [industrial design](/industrial-design) — deals with tangible objects. Furniture, appliances, vehicles, medical devices, consumer [electronics](/electronics), tools, packaging.
 
 Physical designers must consider:
 
@@ -135,7 +135,7 @@ Physical designers must consider:
 
 - **Manufacturing constraints**: A beautiful design that can't be manufactured affordably is worthless. Designers must understand production processes — injection molding, CNC machining, 3D printing, casting, assembly — and design for them.
 
-- **Ergonomics**: How the product fits the human body. A power tool must be comfortable for hours of use. A kitchen appliance must be operable by people of different sizes and abilities. [Human factors](/human-factors) research provides the data; designers translate it into form.
+- **[Ergonomics](/ergonomics)**: How the product fits the human body. A power tool must be comfortable for hours of use. A kitchen appliance must be operable by people of different sizes and abilities. [Human factors](/human-factors) research provides the data; designers translate it into form.
 
 - **Safety and compliance**: Physical products must meet safety standards, and in many industries (medical devices, automotive, aerospace), regulatory compliance is extensive and non-negotiable.
 
@@ -203,7 +203,7 @@ Product design has become one of the most in-demand career paths in tech. Compan
 - **Product Designer**: The generalist role — handles user research, interaction design, visual design, and prototyping. Most common title in tech.
 - **UX Designer**: Focuses specifically on the user experience — research, information architecture, and interaction design.
 - **UI Designer**: Focuses on visual design — colors, typography, layouts, component design.
-- **UX Researcher**: Specializes in user research — interviews, usability tests, surveys, and data analysis.
+- **UX Researcher**: Specializes in user research — interviews, usability tests, surveys, and [data analysis](/data-analysis).
 - **Design Manager/Director**: Leads design teams, sets design strategy, and bridges design with business objectives.
 - **Industrial Designer**: Designs physical products — form, materials, manufacturing processes.
 

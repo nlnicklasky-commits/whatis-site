@@ -5,7 +5,7 @@ description: "Forensic psychology applies psychological science to the legal sys
 category: science
 tags: ["psychology", "law", "justice system", "mental health", "criminal behavior", "expert testimony", "assessment"]
 heroImage: "/images/articles/forensic-psychology-hero.webp"
-heroAlt: "A psychologist reviewing case documents in an office with legal books and psychological assessment materials"
+heroAlt: "Editorial photograph representing the concept of forensic psychology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Forget the Hollywood version — the brooding profiler who gets inside serial ki
 
 The most common forensic psychological evaluation, by a considerable margin, is the competency to stand trial assessment. The legal standard (from the 1960 Supreme Court case *Dusky v. United States*) requires that a defendant have "sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding" and "a rational as well as factual understanding of the proceedings against him."
 
-Roughly 60,000 competency evaluations are ordered annually in the United States. The forensic psychologist interviews the defendant, reviews their psychiatric and medical history, administers standardized competency assessment instruments, and produces a written report for the court.
+Roughly 60,000 competency evaluations are ordered annually in the United States. The forensic psychologist interviews the defendant, reviews their psychiatric and [medical history](/medical-history), administers standardized competency assessment instruments, and produces a written report for the court.
 
 Here's what most people don't realize: being found incompetent isn't a get-out-of-jail-free card. Defendants found incompetent are typically committed to a treatment facility where clinicians attempt to restore their competency — often through medication, psychoeducation about the legal process, and therapy. If competency is restored, the trial proceeds. If it can't be restored (in cases of severe intellectual disability or dementia, for example), the charges may eventually be dismissed, but the person may be civilly committed.
 
@@ -67,9 +67,9 @@ It's one of the hardest evaluations in the field because you're retroactively as
 
 Can we predict whether someone will commit violence in the future? This question drives a huge portion of forensic psychological practice.
 
-Risk assessment is used in sentencing decisions, parole hearings, civil commitment proceedings, threat assessment for schools and workplaces, and management of sex offenders. The stakes are enormous: overestimate risk and an individual loses their liberty unnecessarily. Underestimate it and someone may be harmed.
+Risk assessment is used in sentencing decisions, parole hearings, civil commitment proceedings, threat assessment for schools and workplaces, and [management](/management) of sex offenders. The stakes are enormous: overestimate risk and an individual loses their liberty unnecessarily. Underestimate it and someone may be harmed.
 
-Modern risk assessment uses structured professional judgment (SPJ) tools that combine empirical risk factors with clinical judgment. The HCR-20 (Historical, Clinical, Risk Management) is one of the most widely used instruments. It evaluates 20 risk factors including history of violence, substance abuse, psychopathy, treatment response, and social support.
+Modern risk assessment uses structured professional judgment (SPJ) tools that combine empirical risk factors with clinical judgment. The HCR-20 (Historical, Clinical, [Risk Management](/risk-management)) is one of the most widely used instruments. It evaluates 20 risk factors including history of violence, substance abuse, psychopathy, treatment response, and social support.
 
 The important caveat: risk assessment estimates probability, not certainty. A person classified as "high risk" has a significantly elevated probability of future violence compared to the base rate — but most high-risk individuals will not actually reoffend. This statistical reality creates genuine ethical tension. How do you justify restricting someone's freedom based on probability rather than certainty?
 
@@ -87,11 +87,11 @@ Mock trials and focus groups are probably the most valuable trial consulting ser
 
 In contested custody cases, courts sometimes appoint a forensic psychologist to evaluate both parents and the child and provide recommendations about custody arrangements. These evaluations are among the most emotionally charged and professionally dangerous assignments in forensic psychology.
 
-The evaluator assesses each parent's psychological functioning, parenting capacity, and the quality of each parent-child relationship. They consider factors like mental health, substance use, domestic violence history, each parent's ability to support the child's relationship with the other parent, and the child's own preferences and needs.
+The evaluator assesses each parent's psychological functioning, parenting capacity, and the quality of each parent-child relationship. They consider factors like [mental health](/mental-health), substance use, domestic violence history, each parent's ability to support the child's relationship with the other parent, and the child's own preferences and needs.
 
 The challenge is that both parents are highly motivated to present themselves favorably and may coach their children. The evaluator must see through these presentations using multiple sources of information: clinical interviews, psychological testing, behavioral observations of parent-child interaction, collateral contacts (teachers, pediatricians, family members), and review of records.
 
-These evaluations are frequently challenged in court, and the psychologist must defend every conclusion with documented evidence. The APA's Guidelines for Child Custody Evaluations in Family Law Proceedings provide a framework, but the work remains inherently subjective in ways that make many forensic psychologists uncomfortable.
+These evaluations are frequently challenged in court, and the psychologist must defend every conclusion with documented evidence. The APA's Guidelines for Child Custody Evaluations in [Family Law](/family-law) Proceedings provide a framework, but the work remains inherently subjective in ways that make many forensic psychologists uncomfortable.
 
 ### Police and Public Safety Psychology
 
@@ -101,7 +101,7 @@ Forensic psychologists work with law enforcement in several capacities.
 
 **Fitness-for-duty evaluations** assess whether an officer currently serving can continue to perform their duties safely. These are triggered by specific concerns — an officer involved in a critical incident, one showing signs of substance abuse or psychological distress, or one whose behavior has raised concerns about judgment or stability.
 
-**Crisis negotiation support** applies psychological principles to hostage situations, barricaded subjects, and suicidal individuals. Forensic psychologists train negotiators in active listening, rapport building, and de-escalation techniques.
+**Crisis [negotiation](/negotiation) support** applies psychological principles to hostage situations, barricaded subjects, and suicidal individuals. Forensic psychologists train negotiators in active listening, rapport building, and de-escalation techniques.
 
 **Officer wellness programs** address the psychological toll of police work. Law enforcement officers have elevated rates of depression, PTSD, substance abuse, and suicide compared to the general population. Forensic psychologists develop and deliver mental health support programs.
 
@@ -145,7 +145,7 @@ Forensic psychologists research these biases and develop countermeasures: struct
 
 ## Ethical Minefields
 
-Forensic psychology is ethically complex in ways that clinical psychology isn't.
+Forensic psychology is ethically complex in ways that [clinical psychology](/clinical-psychology) isn't.
 
 **Dual role conflicts** arise because the forensic psychologist's client isn't necessarily the person being evaluated. In a competency evaluation, the court ordered the evaluation — the defendant is the examinee, not the client. This means the forensic psychologist has no therapeutic relationship with the person and must inform them that the evaluation is not confidential.
 

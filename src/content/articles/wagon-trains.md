@@ -5,7 +5,7 @@ description: "Wagon trains were organized groups of covered wagons that carried 
 category: history
 tags: ["american history", "wagon trains", "westward expansion", "frontier"]
 heroImage: "/images/articles/wagon-trains.webp"
-heroAlt: "A line of covered wagons crossing a wide open prairie under a big sky"
+heroAlt: "Editorial photograph representing the concept of wagon trains"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 A wagon train was an organized group of covered wagons that traveled together for safety and mutual support across the North American frontier, primarily during the 1840s through 1860s. These convoys carried hundreds of thousands of settlers from jumping-off points in Missouri to destinations in Oregon, California, Utah, and other western territories — a journey of roughly 2,000 miles that took four to six months to complete.
 
-The wagon train era is one of the most mythologized periods in American history. The reality was less romantic than the movies suggest — more dysentery than gunfights, more boredom than adventure — but the sheer scale of the migration was genuinely remarkable.
+The wagon train era is one of the most mythologized periods in [American history](/american-history). The reality was less romantic than the movies suggest — more dysentery than gunfights, more boredom than adventure — but the sheer scale of the migration was genuinely remarkable.
 
 ## Why People Left
 
@@ -45,9 +45,9 @@ Nobody loaded everything they owned into a wooden box on wheels and walked 2,000
 
 **Gold.** The discovery of gold at Sutter's Mill in California in January 1848 triggered the Gold Rush. By 1849, tens of thousands of "forty-niners" were heading west by every available route — wagon train, ship around Cape Horn, or overland through Panama.
 
-**Religion.** The Mormons, facing persecution in Illinois after the murder of their leader Joseph Smith in 1844, organized one of the most disciplined mass migrations in American history. Brigham Young led the first group of about 1,600 Mormons to the Salt Lake Valley in 1847.
+**[Religion](/religion).** The Mormons, facing persecution in Illinois after the murder of their leader Joseph Smith in 1844, organized one of the most disciplined mass migrations in American history. Brigham Young led the first group of about 1,600 Mormons to the Salt Lake Valley in 1847.
 
-**Just... starting over.** Plenty of emigrants were escaping debt, bad marriages, failed businesses, or simply wanted a fresh start in a place where their past didn't follow them. The frontier had always attracted people running from something.
+**Just... starting over.** Plenty of emigrants were escaping debt, bad marriages, failed businesses, or simply wanted a fresh start in a place where their past didn't follow them. The frontier had always attracted people [running](/running) from something.
 
 ## How a Wagon Train Came Together
 
@@ -67,19 +67,19 @@ Emigrant wagons were smaller, lighter, and simpler. A standard "prairie schooner
 
 Most wagons were pulled by oxen, not horses. This might seem counterintuitive, but oxen had real advantages: they were cheaper (about $25 per yoke versus $75 for a horse team), they could eat prairie grass instead of grain, they were less likely to be stolen by Native Americans (who preferred horses), and they were stronger and more durable, if slower.
 
-Here's a detail that surprises most people: almost nobody rode in the wagons. The wagons were for cargo, not passengers. Nearly everyone walked — men, women, and children old enough to keep up. Walking 2,000 miles in homemade shoes over five months. Think about that.
+Here's a detail that surprises most people: almost nobody rode in the wagons. The wagons were for cargo, not passengers. Nearly everyone walked — men, women, and children old enough to keep up. [Walking](/walking) 2,000 miles in homemade shoes over five months. Think about that.
 
 ## Life on the Trail
 
 A typical day started before dawn. Someone on guard duty fired a rifle or blew a horn around 4:00 AM. Breakfast was cooked over buffalo chip fires (yes, dried buffalo dung — wood was scarce on the plains). By 7:00 AM, the train was moving.
 
-The wagon train traveled until noon, stopped for a quick lunch ("nooning"), then continued until late afternoon — covering 12 to 20 miles on a good day. Evenings were spent cooking, repairing equipment, tending livestock, and standing guard duty. The wagons were typically circled at night — not primarily for defense against attacks, as movies suggest, but to create a corral for the livestock.
+The wagon train traveled until noon, stopped for a quick lunch ("nooning"), then continued until late afternoon — covering 12 to 20 miles on a good day. Evenings were spent [cooking](/cooking), repairing equipment, tending livestock, and standing guard duty. The wagons were typically circled at night — not primarily for defense against attacks, as movies suggest, but to create a corral for the livestock.
 
-The diet was monotonous: bacon, beans, biscuits, coffee. Fresh meat was available when buffalo herds were encountered, but hunting was inconsistent. Scurvy was a real risk on the longer journeys. Some emigrants packed vinegar or citric acid specifically to prevent it.
+The diet was monotonous: bacon, beans, biscuits, coffee. Fresh meat was available when buffalo herds were encountered, but [hunting](/hunting) was inconsistent. Scurvy was a real risk on the longer journeys. Some emigrants packed vinegar or citric acid specifically to prevent it.
 
 ### The Dangers Were Real, But Not What You Think
 
-Hollywood trained us to believe wagon trains were under constant attack by Native Americans. The actual statistics tell a different story. Between 1840 and 1860, an estimated 362 emigrants were killed by Native Americans along the overland trails — and approximately 426 Native Americans were killed by emigrants during the same period.
+Hollywood trained us to believe wagon trains were under constant attack by Native Americans. The actual [statistics](/statistics) tell a different story. Between 1840 and 1860, an estimated 362 emigrants were killed by Native Americans along the overland trails — and approximately 426 Native Americans were killed by emigrants during the same period.
 
 The real killers were mundane:
 

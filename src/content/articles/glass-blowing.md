@@ -5,7 +5,7 @@ description: "Glass blowing shapes molten glass into art and functional objects 
 category: arts-amp-culture
 tags: ["glass blowing", "glass art", "craft", "artisan", "molten glass", "glassware"]
 heroImage: "/images/articles/glass-blowing.webp"
-heroAlt: "Glassblower shaping glowing molten glass on the end of a blowpipe"
+heroAlt: "Editorial photograph representing the concept of glass blowing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Glass blowing is the technique of shaping molten glass by inflating it with air 
 
 The basic process sounds simple. It isn't.
 
-**Gathering** — the glassblower dips the end of a blowpipe into a furnace (running at about 2,000 degrees F) containing molten glass and rotates it to collect a "gather" of glass on the pipe's end. The constant rotation is critical — molten glass is affected by gravity and will drip off a stationary pipe.
+**Gathering** — the glassblower dips the end of a blowpipe into a furnace ([running](/running) at about 2,000 degrees F) containing molten glass and rotates it to collect a "gather" of glass on the pipe's end. The constant rotation is critical — molten glass is affected by gravity and will drip off a stationary pipe.
 
 **Blowing** — the glassblower blows a small puff of air through the pipe, creating a bubble inside the gather. The size and shape of this initial bubble determine the piece's final form. Inflation must be controlled — too much air and the glass wall thins dangerously.
 
@@ -55,17 +55,17 @@ Glass blowing was invented around 50 BCE in the Syrian-Palestinian region. Befor
 
 The Roman Empire spread glass blowing across its territory. Roman glassblowers achieved remarkable sophistication — cage cups (vessels surrounded by a cage of glass cut from the same piece), cameo glass (layered colored glass carved in relief), and millefiori (multi-colored glass patterns resembling flowers).
 
-After Rome, the center of glass making shifted to Venice — specifically to the island of Murano, where glassmakers were confined by law starting in 1291 (ostensibly for fire safety, practically to protect trade secrets). Murano glass became synonymous with the highest quality and most creative techniques. Murano glassblowers developed cristallo (exceptionally clear glass), lattimo (milk glass), and elaborate techniques still practiced today.
+After Rome, the center of glass making shifted to Venice — specifically to the island of Murano, where glassmakers were confined by law starting in 1291 (ostensibly for [fire safety](/fire-safety), practically to protect [trade](/trade) secrets). Murano glass became synonymous with the highest quality and most creative techniques. Murano glassblowers developed cristallo (exceptionally clear glass), lattimo (milk glass), and elaborate techniques still practiced today.
 
 ## The Studio Glass Movement
 
 Until the 1960s, glass blowing was an industrial craft — done in factories by teams of skilled workers producing functional ware. Individual artistic expression was secondary to production.
 
-Harvey Littleton and Dominick Labino changed this in 1962 with workshops at the Toledo Museum of Art demonstrating that glass could be blown in small studio settings, not just industrial facilities. This launched the **Studio Glass Movement** — artists working independently, using glass as an expressive medium comparable to painting or sculpture.
+Harvey Littleton and Dominick Labino changed this in 1962 with workshops at the Toledo Museum of Art demonstrating that glass could be blown in small studio settings, not just industrial facilities. This launched the **Studio Glass Movement** — artists working independently, using glass as an expressive medium comparable to [painting](/painting) or [sculpture](/sculpture).
 
 Dale Chihuly became the movement's most famous figure. His large-scale installations — thousands of blown glass elements assembled into chandeliers, gardens, and architectural works — brought glass art into museums, botanical gardens, and public spaces worldwide. His Tacoma Museum of Glass features a permanent collection of his work.
 
-Contemporary glass artists work in diverse styles. Lino Tagliapietra bridges traditional Murano mastery and modern aesthetics. Josiah McElheny creates conceptually driven installations. Deborah Czeresko won Netflix's *Blown Away* competition and makes work addressing political and social themes. The medium has expanded far beyond vessels into sculpture, installation, performance, and mixed-media work.
+Contemporary glass artists work in diverse styles. Lino Tagliapietra bridges traditional Murano mastery and modern [aesthetics](/aesthetics). Josiah McElheny creates conceptually driven installations. Deborah Czeresko won Netflix's *Blown Away* competition and makes work addressing political and social themes. The medium has expanded far beyond vessels into sculpture, installation, performance, and mixed-media work.
 
 ## Types of Glass Art
 
@@ -77,7 +77,7 @@ Contemporary glass artists work in diverse styles. Lino Tagliapietra bridges tra
 
 **Cast glass** pours or packs glass into molds and fires it in a kiln, producing solid sculptural forms.
 
-**Stained glass** cuts colored glass pieces and joins them with lead came or copper foil. It's the technique behind cathedral windows and Tiffany lamps.
+**[Stained glass](/stained-glass)** cuts colored glass pieces and joins them with lead came or copper foil. It's the technique behind cathedral windows and Tiffany lamps.
 
 ## Learning Glass Blowing
 

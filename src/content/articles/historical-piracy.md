@@ -5,7 +5,7 @@ description: Historical piracy is the practice of robbery and violence at sea, s
 category: history
 tags: ["historical piracy", "pirates", "maritime history", "golden age of piracy", "privateers"]
 heroImage: "/images/articles/historical-piracy.webp"
-heroAlt: "Wooden pirate ship with tattered sails on rough seas representing the Golden Age of Piracy"
+heroAlt: "Editorial photograph representing the concept of historical piracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Historical Piracy?
 
-Historical piracy is the act of robbery, violence, or criminal activity committed at sea, practiced from ancient times through the modern era. While piracy has existed as long as maritime trade itself — at least 3,000 years — the period most people picture, the Golden Age of roughly 1650-1730, represents just a fraction of this long and bloody history.
+Historical piracy is the act of robbery, violence, or criminal activity committed at sea, practiced from ancient times through the modern era. While piracy has existed as long as maritime [trade](/trade) itself — at least 3,000 years — the period most people picture, the Golden Age of roughly 1650-1730, represents just a fraction of this long and bloody history.
 
 ## Piracy Before the Skull and Crossbones
 
@@ -45,7 +45,7 @@ The ancient Mediterranean was crawling with them. Cilician pirates from what is 
 
 Viking raiders from the 8th to 11th centuries were, among other things, some of history's most effective pirates. They raided coastal monasteries, towns, and trade vessels across Europe. Their ships — longboats with shallow drafts — could sail up rivers and appear far inland. The terror they inspired was partly strategic; monks who heard Vikings were coming sometimes paid tribute without a fight.
 
-Chinese pirates operated on a massive scale. During the early 19th century, the pirate confederation led by Zheng Yi Sao (also known as Ching Shih) commanded roughly 1,800 vessels and 70,000-80,000 pirates — a fleet larger than many national navies. She was so powerful that the Chinese government eventually offered her amnesty rather than continue fighting. She retired wealthy and ran a gambling house. Frankly, her story deserves a dozen movies.
+Chinese pirates operated on a massive scale. During the early 19th century, the pirate confederation led by Zheng Yi Sao (also known as Ching Shih) commanded roughly 1,800 vessels and 70,000-80,000 pirates — a fleet larger than many national navies. She was so powerful that the Chinese [government](/government) eventually offered her amnesty rather than continue fighting. She retired wealthy and ran a gambling house. Frankly, her story deserves a dozen movies.
 
 The Barbary corsairs of North Africa raided European shipping and coastal towns from the 16th through the early 19th century. They captured an estimated 1-1.25 million Europeans and sold them into slavery. The United States fought two wars — the First and Second Barbary Wars (1801-1805 and 1815) — partly to stop these raids on American merchant vessels.
 
@@ -67,7 +67,7 @@ Forget the image of the tyrannical pirate captain barking orders while his terri
 
 **Pirate democracy.** Crews elected their captains by vote. They could also vote to remove them. The captain had absolute authority during battle — someone had to make snap decisions — but in all other matters, the crew voted on major decisions. Where to sail? Vote. Whether to attack a particular ship? Vote. How to divide the plunder? Already settled by the ship's articles.
 
-**Ship's articles.** Before sailing, crews signed written agreements — essentially constitutions — that specified the rules of the voyage. These articles covered division of plunder (the captain typically received 1.5-2 shares, common sailors 1 share each), compensation for injuries (losing a right arm might pay 600 pieces of eight, a left leg 400), behavior codes (no fighting onboard, no gambling, lights out at 8 PM), and desertion penalties.
+**Ship's articles.** Before [sailing](/sailing), crews signed written agreements — essentially constitutions — that specified the rules of the voyage. These articles covered division of plunder (the captain typically received 1.5-2 shares, common sailors 1 share each), compensation for injuries (losing a right arm might pay 600 pieces of eight, a left leg 400), behavior codes (no fighting onboard, no gambling, lights out at 8 PM), and desertion penalties.
 
 **The quartermaster.** This was the crew's elected representative — a check on the captain's power. The quartermaster settled disputes, distributed food and plunder, and represented the crew's interests. It's a power-sharing arrangement that most legitimate navies of the time would have found absurdly egalitarian.
 
@@ -83,7 +83,7 @@ Forget the image of the tyrannical pirate captain barking orders while his terri
 
 **Anne Bonny and Mary Read** sailed with Captain Jack Rackham ("Calico Jack") and fought alongside the male crew. When Rackham's ship was captured in 1720, Bonny and Read were reportedly the only crew members who fought while the male pirates hid below decks. At trial, both "pleaded their bellies" — claimed pregnancy to avoid execution. Read died in prison. Bonny's fate is unknown.
 
-## The Economics of Piracy
+## The [Economics](/economics) of Piracy
 
 Piracy was, at bottom, a [business](/capitalism). A violent, illegal business, but a business nonetheless.
 
@@ -91,7 +91,7 @@ The average pirate earned significantly more than a legitimate sailor — someti
 
 Stolen goods entered legitimate commerce through fences and corrupt merchants who bought pirate plunder at steep discounts and resold it. Colonial port towns — Port Royal in Jamaica, Nassau, Charleston — had thriving markets for goods with questionable provenance. Governors, merchants, and planters all benefited from the cheap goods that piracy supplied.
 
-The economic damage was substantial. Insurance rates for Caribbean shipping skyrocketed. Trade routes were disrupted. Some colonial economies were significantly affected by pirate activity. England, France, Spain, and the Netherlands all eventually decided that the costs of piracy outweighed any benefits from cheap stolen goods and authorized massive naval campaigns to suppress it.
+The economic damage was substantial. [Insurance](/insurance) rates for Caribbean shipping skyrocketed. Trade routes were disrupted. Some colonial economies were significantly affected by pirate activity. England, France, Spain, and the Netherlands all eventually decided that the costs of piracy outweighed any benefits from cheap stolen goods and authorized massive naval campaigns to suppress it.
 
 ## The End of the Golden Age
 

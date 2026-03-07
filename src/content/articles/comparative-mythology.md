@@ -5,7 +5,7 @@ description: "Comparative mythology studies shared themes and motifs across diff
 category: arts-amp-culture
 tags: ["comparative mythology", "mythology", "folklore", "archetypes", "cultural studies", "religious studies"]
 heroImage: "/images/articles/comparative-mythology.webp"
-heroAlt: "Ancient mythological symbols from different cultures arranged in a circular pattern"
+heroAlt: "Editorial photograph representing the concept of comparative mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,17 +39,17 @@ Here's what makes this field endlessly fascinating: cultures separated by thousa
 
 **Flood myths** appear in over 200 cultures worldwide. The Biblical Noah, the Mesopotamian Utnapishtim (from the Epic of Gilgamesh, written around 1800 BC), the Hindu Manu, and the Aztec Nata all survive catastrophic floods, often with divine warning. These stories share structural elements — a chosen survivor, a vessel, the destruction of the old world, a fresh start — that are too consistent to dismiss as coincidence.
 
-**Dying and rising gods** show up across the Mediterranean and Near East. Osiris (Egypt), Tammuz (Mesopotamia), Adonis (Greece), and Attis (Phrygia) all die and return. These myths are often tied to agricultural cycles — the death and rebirth of vegetation. Whether Christianity's resurrection narrative belongs in this category has been debated for over a century.
+**Dying and rising gods** show up across the Mediterranean and Near East. Osiris (Egypt), Tammuz (Mesopotamia), Adonis (Greece), and Attis (Phrygia) all die and return. These myths are often tied to agricultural cycles — the death and rebirth of vegetation. Whether [Christianity](/christianity)'s resurrection narrative belongs in this category has been debated for over a century.
 
 **Trickster figures** appear in nearly every [mythology](/mythology). Loki (Norse), Anansi (West African), Coyote (Native American), Hermes (Greek), and Sun Wukong (Chinese) are all cunning, rule-breaking characters who disrupt the established order. They're often responsible for bringing important gifts to humanity — fire, language, death — through deception.
 
-**World trees** or cosmic pillars connecting heaven, earth, and the underworld appear in Norse mythology (Yggdrasil), Mayan cosmology (the ceiba tree), Hindu tradition (the Ashvattha), and Siberian shamanic beliefs.
+**World trees** or cosmic pillars connecting heaven, earth, and the underworld appear in [Norse mythology](/norse-mythology) (Yggdrasil), Mayan cosmology (the ceiba tree), Hindu tradition (the Ashvattha), and Siberian shamanic beliefs.
 
 ## Why the Overlap?
 
 Scholars have proposed several explanations, and the truth likely involves all of them.
 
-**Common human psychology.** Carl Jung argued that myths arise from a "collective unconscious" — deep psychological structures shared by all humans. Archetypes like the Great Mother, the Wise Old Man, the Shadow, and the Hero emerge naturally from universal human experiences of birth, growth, conflict, and death. You don't need cultural contact to explain parallel myths — you just need human brains working similarly.
+**Common human [psychology](/psychology).** Carl Jung argued that myths arise from a "collective unconscious" — deep psychological structures shared by all humans. Archetypes like the Great Mother, the Wise Old Man, the Shadow, and the Hero emerge naturally from universal human experiences of birth, growth, conflict, and death. You don't need cultural contact to explain parallel myths — you just need human brains working similarly.
 
 **Shared ancestry.** Proto-Indo-European peoples (dating to roughly 4000-3000 BC) spread across Europe and South Asia, carrying their myths with them. This explains striking parallels between Greek, Norse, and Hindu mythologies — they literally descend from the same source. The sky god Zeus, the Norse god Tyr, and the Vedic god Dyaus Pitar all derive from the same Proto-Indo-European deity.
 
@@ -61,9 +61,9 @@ Scholars have proposed several explanations, and the truth likely involves all o
 
 **James George Frazer** published *The Golden Bough* in 1890, a massive comparative study that traced patterns of magic, religion, and myth across cultures. His work was pioneering but also problematic — he often forced disparate myths into a single evolutionary framework and viewed non-Western cultures through condescending colonial eyes. Still, the book opened the field.
 
-**Joseph Campbell** wrote *The Hero with a Thousand Faces* (1949), arguing that hero myths worldwide follow a single pattern — the "monomyth" or hero's journey. Departure, initiation, return. Campbell's work influenced George Lucas (who explicitly credited Campbell as an influence on *Star Wars*), and the hero's journey framework has become standard in screenwriting and storytelling courses.
+**Joseph Campbell** wrote *The Hero with a Thousand Faces* (1949), arguing that hero myths worldwide follow a single pattern — the "monomyth" or hero's journey. Departure, initiation, return. Campbell's work influenced George Lucas (who explicitly credited Campbell as an influence on *Star Wars*), and the hero's journey framework has become standard in [screenwriting](/screenwriting) and [storytelling](/storytelling) courses.
 
-**Claude Levi-Strauss** brought structural anthropology to myth study. He argued that myths operate through binary oppositions — nature vs. culture, raw vs. cooked, life vs. death — and that their structure matters more than their surface content. His approach was more rigorous than Campbell's but also more abstract.
+**Claude Levi-Strauss** brought structural [anthropology](/anthropology) to myth study. He argued that myths operate through binary oppositions — nature vs. culture, raw vs. cooked, life vs. death — and that their structure matters more than their surface content. His approach was more rigorous than Campbell's but also more abstract.
 
 **Mircea Eliade** examined myths as expressions of sacred time and space. His concept of "eternal return" — the idea that myths recreate primordial events, allowing participants to step outside ordinary time — influenced both religious studies and [philosophy](/philosophy).
 
@@ -77,6 +77,6 @@ There's also the political dimension. Colonial-era scholars often used comparati
 
 ## Why It Still Matters
 
-In a globally connected world, understanding how different cultures tell their foundational stories is practically useful. International business, diplomacy, and media all benefit from cultural literacy. Knowing that a [Chinese myth](/chinese-mythology) about the Monkey King means something very specific to Chinese audiences — and that it's not just "an Asian version of" some Western equivalent — prevents the kind of tone-deaf cultural blunders that regularly embarrass companies and governments.
+In a globally connected world, understanding how different cultures tell their foundational stories is practically useful. [International business](/international-business), diplomacy, and media all benefit from cultural literacy. Knowing that a [Chinese myth](/chinese-mythology) about the Monkey King means something very specific to Chinese audiences — and that it's not just "an Asian version of" some Western equivalent — prevents the kind of tone-deaf cultural blunders that regularly embarrass companies and governments.
 
 More personally, comparative mythology offers a reminder that human beings have been asking the same big questions forever — and answering them in fascinatingly different ways. That's humbling. And it's genuinely beautiful.

@@ -5,7 +5,7 @@ description: "Interviewing skills are techniques for performing well in job inte
 category: everyday-concepts
 tags: ["interviewing skills", "job search", "career", "communication", "hiring"]
 heroImage: "/images/articles/interviewing-skills.webp"
-heroAlt: "Professional handshake between interviewer and candidate in an office setting"
+heroAlt: "Editorial photograph representing the concept of interviewing skills"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Behavioral interview questions — "Tell me about a time when you dealt with a d
 
 **Result** — what happened? Quantify when possible. "Revenue increased 15%" is stronger than "things improved."
 
-Practice STAR responses for 8 to 10 scenarios covering common themes: leadership, conflict, failure, teamwork, problem-solving, and time pressure. You will not predict exact questions, but having practiced stories makes you adaptable.
+Practice STAR responses for 8 to 10 scenarios covering common themes: [leadership](/leadership), conflict, failure, teamwork, problem-solving, and time pressure. You will not predict exact questions, but having practiced stories makes you adaptable.
 
 ## During the Interview
 

@@ -5,7 +5,7 @@ description: "Interior design is planning and creating functional, beautiful ind
 category: arts-amp-culture
 tags: ["interior design", "design", "home decor", "space planning", "commercial design", "aesthetics"]
 heroImage: "/images/articles/interior-design.webp"
-heroAlt: "Stylish living room with modern furniture, natural light, and thoughtful material choices"
+heroAlt: "Editorial photograph representing the concept of interior design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The distinction between interior design and decoration matters. Decoration is ch
 
 An interior designer might reconfigure a kitchen layout so the workflow between refrigerator, sink, and stove is efficient (the "work triangle"). They might redesign an open office to reduce noise and increase privacy without sacrificing collaboration. They might select flooring materials that meet ADA requirements for wheelchair accessibility while fitting the aesthetic vision.
 
-The job requires knowledge of building codes, fire safety regulations, accessibility standards, HVAC systems, lighting design, acoustics, and materials science — in addition to the creative skills most people associate with the profession.
+The job requires knowledge of building codes, [fire safety](/fire-safety) regulations, accessibility standards, HVAC systems, [lighting design](/lighting-design), [acoustics](/acoustics), and [materials science](/materials-science) — in addition to the creative skills most people associate with the profession.
 
 ## Core Design Principles
 
@@ -63,7 +63,7 @@ Professional interior design follows a structured process:
 
 **Design development** — refining the chosen concept. Detailed drawings, specific material selections, lighting plans, and custom element designs.
 
-**Documentation** — producing construction drawings, specifications, and schedules that contractors need to execute the design.
+**Documentation** — producing [construction](/construction) drawings, specifications, and schedules that contractors need to execute the design.
 
 **Implementation** — overseeing installation, managing contractors, and ensuring the finished result matches the design intent.
 
@@ -83,7 +83,7 @@ Professional interior design follows a structured process:
 
 ## The Business of Interior Design
 
-The interior design industry generates roughly $17 billion annually in the U.S. Median salary for interior designers is about $62,000, though experienced designers at high-end firms or running successful practices can earn $150,000+.
+The interior design industry generates roughly $17 billion annually in the U.S. Median salary for interior designers is about $62,000, though experienced designers at high-end firms or [running](/running) successful practices can earn $150,000+.
 
 Most designers work in one of several settings: residential firms (designing homes), commercial firms (offices, hotels, restaurants, healthcare facilities), architectural firms (as part of larger project teams), or independent practice.
 

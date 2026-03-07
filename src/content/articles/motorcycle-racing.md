@@ -5,7 +5,7 @@ description: "Motorcycle racing is competitive motorsport on two wheels, from Mo
 category: sports
 tags: ["motorcycle racing", "motorsport", "motogp", "motocross", "road racing", "bike racing"]
 heroImage: "/images/articles/motorcycle-racing.webp"
-heroAlt: "Motorcycle racer leaning into a sharp corner on a professional racetrack"
+heroAlt: "Editorial photograph representing the concept of motorcycle racing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ The appeal is visceral. Watching a MotoGP rider drag a knee through a corner at 
 
 ### Road Racing
 
-**MotoGP** — the Formula 1 of motorcycles. The premier championship features purpose-built prototype machines with 250+ horsepower, ridden by the world's best on circuits across five continents. Valentino Rossi, Marc Marquez, and Giacomo Agostini are among the legends. Races are typically 25-28 laps on permanent circuits.
+**MotoGP** — the Formula 1 of motorcycles. The premier championship features purpose-built prototype machines with 250+ horsepower, ridden by the world's best on circuits across five continents. Valentino Rossi, Marc Marquez, and Giacomo Agostini are among the [legends](/legends). Races are typically 25-28 laps on permanent circuits.
 
 **World Superbike Championship (WSBK)** — uses modified production motorcycles rather than prototypes. Closer racing (since machines are more similar) and a strong connection to bikes you can actually buy make WSBK popular with fans.
 
@@ -47,7 +47,7 @@ The appeal is visceral. Watching a MotoGP rider drag a knee through a corner at 
 
 ### Motocross and Off-Road
 
-**Motocross (MX)** — racing on outdoor dirt circuits with jumps, whoops, and berms. Physically brutal — a 30-minute moto demands extreme fitness, strength, and bike control. The AMA Motocross Championship and FIM Motocross World Championship are the premier series.
+**Motocross (MX)** — racing on outdoor dirt circuits with jumps, whoops, and berms. Physically brutal — a 30-minute moto demands extreme [fitness](/fitness), strength, and bike control. The AMA Motocross Championship and FIM Motocross World Championship are the premier series.
 
 **Supercross** — motocross moved indoors to stadiums, with tighter courses, steeper jumps, and closer racing. Monster Energy Supercross fills NFL stadiums across the U.S.
 

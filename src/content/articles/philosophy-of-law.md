@@ -5,7 +5,7 @@ description: "Philosophy of law examines what law is, why it has authority, and 
 category: everyday-concepts
 tags: ["philosophy of law", "jurisprudence", "legal theory", "ethics", "justice", "natural law"]
 heroImage: "/images/articles/philosophy-of-law.webp"
-heroAlt: "A gavel resting beside a stack of aged law books with balanced scales of justice"
+heroAlt: "Editorial photograph representing the concept of philosophy of law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Every legal system rests on philosophical assumptions about authority, justice, rights, and punishment. When you ask 'Is this law fair?', 'Should I obey a law I disagree with?', or 'What makes someone's rights genuine?', you're asking philosophical questions about law. Court decisions on constitutional interpretation, civil rights, criminal punishment, and free speech all involve competing philosophical positions — even when judges don't explicitly acknowledge them."
 ---
 
-# What Is Philosophy of Law?
+# What Is [Philosophy](/philosophy) of Law?
 
-Philosophy of law — also called jurisprudence — is the branch of philosophy that asks fundamental questions about the nature, authority, and purpose of law. What makes something a law rather than just a command backed by force? Does law have to be moral to be valid? Why should anyone obey the law? What justifies punishing people who break it? These aren't questions that lawyers typically ask in courtrooms, but the answers shape every legal system on Earth.
+Philosophy of law — also called [jurisprudence](/jurisprudence) — is the branch of philosophy that asks fundamental questions about the nature, authority, and purpose of law. What makes something a law rather than just a command backed by force? Does law have to be moral to be valid? Why should anyone obey the law? What justifies punishing people who break it? These aren't questions that lawyers typically ask in courtrooms, but the answers shape every legal system on Earth.
 
 ## The Core Question
 
 Here's the problem that gets everything going: A mugger points a gun at you and says, "Give me your money." A tax collector says, "Give me your money." Both involve someone demanding your money under threat of consequences. What makes the second one legitimate and the first one criminal?
 
-The obvious answer — "because the government made a law" — just pushes the question back. What gives the government the authority to make laws? And are there limits on what laws it can make? Could a government legally require something monstrous?
+The obvious answer — "because the [government](/government) made a law" — just pushes the question back. What gives the government the authority to make laws? And are there limits on what laws it can make? Could a government legally require something monstrous?
 
 These aren't hypothetical questions. They were devastatingly real in Nazi Germany, apartheid South Africa, and the Jim Crow American South — all of which had legal systems that enforced horrific injustice through formally valid laws.
 
@@ -83,7 +83,7 @@ Philosophy of law grapples seriously with punishment. Why does society lock peop
 
 **Rehabilitation** — the purpose of the criminal justice system is to reform offenders into law-abiding citizens.
 
-Each justification leads to different policies. Retribution demands proportional sentences. Deterrence might justify harsh sentences for minor crimes if they effectively discourage others. Rehabilitation focuses on education and treatment rather than punishment. Most real legal systems awkwardly combine all four — which is why sentencing policy is so confused and contested.
+Each justification leads to different policies. Retribution demands proportional sentences. Deterrence might justify harsh sentences for minor crimes if they effectively discourage others. Rehabilitation focuses on [education](/education) and treatment rather than punishment. Most real legal systems awkwardly combine all four — which is why sentencing policy is so confused and contested.
 
 ## Rights
 
@@ -93,6 +93,6 @@ Natural rights theorists (Locke, the American founders) argue that rights are pr
 
 This matters enormously in practice. If rights are natural and pre-political, governments that violate them are illegitimate. If rights are social constructs, they're contingent — they depend on political decisions that could go differently.
 
-The Universal Declaration of Human Rights (1948) tries to have it both ways — declaring rights as inherent and universal while relying on international agreement to enforce them. The tension between these positions runs through every human rights debate today.
+The Universal Declaration of Human Rights (1948) tries to have it both ways — declaring rights as inherent and universal while relying on international agreement to enforce them. The tension between these positions runs through every human rights [debate](/debate) today.
 
 Philosophy of law might seem like an academic luxury. It isn't. Every time a court interprets a constitution, every time a citizen questions whether a law is just, every time a society debates who deserves punishment and how much — these are philosophical arguments playing out in real time, with real consequences for real people.

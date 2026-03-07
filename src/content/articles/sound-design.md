@@ -5,7 +5,7 @@ description: "Sound design creates and manipulates audio for film, theater, game
 category: arts-amp-culture
 tags: ["sound design", "audio", "film sound", "Foley", "game audio", "acoustics"]
 heroImage: "/images/articles/sound-design.webp"
-heroAlt: "A sound designer working at a mixing console with monitors and audio equipment in a studio"
+heroAlt: "Editorial photograph representing the concept of sound design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Sound Design?
 
-Sound design is the art and practice of creating, recording, manipulating, and organizing audio elements to support storytelling, atmosphere, and emotional impact in film, television, theater, video games, virtual reality, and other media. If you've ever watched a horror movie and felt dread from the soundscape before anything scary appeared on screen, you've experienced sound design doing its job.
+Sound design is the art and practice of creating, recording, manipulating, and organizing audio elements to support [storytelling](/storytelling), atmosphere, and emotional impact in film, television, theater, video games, [virtual reality](/virtual-reality), and other media. If you've ever watched a horror movie and felt dread from the soundscape before anything scary appeared on screen, you've experienced sound design doing its job.
 
-The term was coined in the 1970s when Walter Murch received the credit "sound designer" for his work on *Apocalypse Now*. Before that, the various sound-related roles in film (effects editing, Foley, mixing) existed but weren't unified under a single creative vision. Murch demonstrated that sound could be approached as holistically and creatively as cinematography — not just recording what happens, but designing what the audience hears.
+The term was coined in the 1970s when Walter Murch received the credit "sound designer" for his work on *Apocalypse Now*. Before that, the various sound-related roles in film (effects [editing](/editing), Foley, mixing) existed but weren't unified under a single creative vision. Murch demonstrated that sound could be approached as holistically and creatively as [cinematography](/cinematography) — not just recording what happens, but designing what the audience hears.
 
 ## How Sound Design Works in Film
 
@@ -45,7 +45,7 @@ Film sound has several layers, each handled by specialists but orchestrated by t
 
 **Foley** is the art of performing and recording everyday sounds in sync with the picture — footsteps, clothing rustle, object handling, eating. Named after Jack Foley, who pioneered the technique in the 1920s, Foley artists watch the film and perform each sound live, using creative substitutes when needed (coconut shells for horse hooves is the classic example).
 
-**Ambience and atmosphere** create the sonic environment. A forest scene needs birds, wind, insects, distant water. A city scene needs traffic, voices, sirens, air conditioning hum. These backgrounds are often barely noticed consciously but their absence would make the scene feel dead and artificial.
+**Ambience and atmosphere** create the sonic environment. A forest scene needs birds, wind, insects, distant water. A city scene needs traffic, voices, sirens, [air conditioning](/air-conditioning) hum. These backgrounds are often barely noticed consciously but their absence would make the scene feel dead and artificial.
 
 **Music** — while typically the composer's domain — is placed and mixed by the sound team. The interaction between music and sound effects is critical; they must complement rather than compete.
 
@@ -57,7 +57,7 @@ A footstep sound in a game needs dozens of variations (so it doesn't sound repet
 
 Middleware tools like Wwise and FMOD allow sound designers to create adaptive audio systems — soundscapes that shift based on gameplay state, player location, time of day, and narrative events. Music that seamlessly transitions from calm exploration to intense combat. Environmental sounds that change with weather, altitude, and proximity to different areas.
 
-## The Psychology of Sound
+## The [Psychology](/psychology) of Sound
 
 Sound design works partly because of how our brains process audio.
 

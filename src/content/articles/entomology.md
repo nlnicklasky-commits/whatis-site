@@ -5,7 +5,7 @@ description: "Entomology is the scientific study of insects. Learn about insect 
 category: science
 tags: ["entomology", "insects", "zoology", "biology", "pest control", "pollination", "biodiversity"]
 heroImage: "/images/articles/entomology-hero.webp"
-heroAlt: "Close-up photograph of a colorful beetle on a green leaf representing the study of entomology"
+heroAlt: "Editorial photograph representing the concept of entomology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

@@ -5,7 +5,7 @@ description: "Materials science studies how structure and composition determine 
 category: science
 tags: ["materials science", "engineering", "metals", "polymers", "ceramics", "composites", "nanotechnology"]
 heroImage: "/images/articles/materials-science-hero.webp"
-heroAlt: "Close-up of crystalline material structures under electron microscopy showing atomic lattice patterns"
+heroAlt: "Editorial photograph representing the concept of materials science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

@@ -5,7 +5,7 @@ description: "Negotiation is a dialogue between parties aimed at reaching an agr
 category: everyday-concepts
 tags: ["negotiation", "bargaining", "conflict resolution", "diplomacy", "agreement", "communication skills"]
 heroImage: "/images/articles/negotiation.webp"
-heroAlt: "Two professionals shaking hands across a table after reaching an agreement"
+heroAlt: "Editorial photograph representing the concept of negotiation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,7 +47,7 @@ Fisher and Ury's principled negotiation framework rests on four pillars:
 
 **Separate the people from the problem.** Emotions are real, and they mess things up. If the other side feels attacked personally, they'll dig in regardless of the merits. Address relationship issues directly and deal with substantive issues on their merits.
 
-**Focus on interests, not positions.** Behind every position is an underlying interest. Two sisters fighting over an orange might each want the whole thing — that's their position. But maybe one wants the juice and the other wants the peel for baking. Understanding interests unlocks solutions that positions conceal.
+**Focus on interests, not positions.** Behind every position is an underlying interest. Two sisters fighting over an orange might each want the whole thing — that's their position. But maybe one wants the juice and the other wants the peel for [baking](/baking). Understanding interests unlocks solutions that positions conceal.
 
 **Generate options for mutual gain.** Before deciding, brainstorm multiple possibilities. Don't negotiate with only one solution in mind. The more options on the table, the more likely you'll find one that satisfies everyone's key interests.
 
@@ -57,7 +57,7 @@ Fisher and Ury's principled negotiation framework rests on four pillars:
 
 BATNA — your Best Alternative to a Negotiated Agreement — is the single most important concept in negotiation theory. It's your plan B. What happens if you walk away from the table?
 
-If you're negotiating a job offer and you have two other strong offers, your BATNA is excellent. You can negotiate aggressively because walking away isn't a disaster. If this is the only company that called you back, your BATNA is weak, and you'll likely need to make concessions.
+If you're negotiating a job offer and you have two other strong offers, your BATNA is excellent. You can negotiate aggressively because [walking](/walking) away isn't a disaster. If this is the only company that called you back, your BATNA is weak, and you'll likely need to make concessions.
 
 The power in any negotiation flows to the party with the better BATNA. This is why preparation matters so much — you need to develop your alternatives before you sit down at the table, not during the conversation.
 
@@ -87,11 +87,11 @@ The best negotiators manage their emotions without suppressing them. They notice
 
 **Business.** Every contract, partnership, merger, and deal involves negotiation. Companies negotiate with suppliers, employees, customers, regulators, and each other. The stakes range from office supply contracts to billion-dollar acquisitions.
 
-**Diplomacy.** International treaties, trade agreements, and peace accords are negotiations at the highest level. The Camp David Accords, the Iran nuclear deal, and WTO trade rounds are all products of negotiation — often spanning years.
+**[Diplomacy](/diplomacy).** International treaties, [trade](/trade) agreements, and peace accords are negotiations at the highest level. The Camp David Accords, the Iran nuclear deal, and WTO trade rounds are all products of negotiation — often spanning years.
 
 **Legal disputes.** About 95% of civil cases settle before trial. Plea bargaining resolves the majority of criminal cases. Lawyers negotiate constantly.
 
-**Personal life.** Salary discussions, real estate transactions, even splitting household chores — negotiation is woven into daily existence whether you recognize it or not.
+**Personal life.** Salary discussions, [real estate](/real-estate) transactions, even splitting household chores — negotiation is woven into daily existence whether you recognize it or not.
 
 ## Getting Better at It
 

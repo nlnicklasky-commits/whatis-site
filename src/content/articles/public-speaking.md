@@ -5,7 +5,7 @@ description: "Public speaking is the act of presenting ideas to a live audience.
 category: everyday-concepts
 tags: ["public speaking", "communication skills", "presentation", "rhetoric", "oratory", "speaking"]
 heroImage: "/images/articles/public-speaking.webp"
-heroAlt: "Speaker presenting to an attentive audience in a conference hall"
+heroAlt: "Editorial photograph representing the concept of public speaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Public Speaking?
 
-Public speaking is the act of delivering a structured message to a live audience. It's one of the oldest human skills — predating writing by thousands of years — and one of the most feared. Surveys routinely show that people rank public speaking above snakes, heights, and even death on their list of fears. Jerry Seinfeld's joke about this is famous: "According to most studies, people's number one fear is public speaking. Number two is death. Does that sound right? This means at a funeral, the average person would rather be in the casket than doing the eulogy."
+Public speaking is the act of delivering a structured message to a live audience. It's one of the oldest human skills — predating [writing](/writing) by thousands of years — and one of the most feared. Surveys routinely show that people rank public speaking above snakes, heights, and even death on their list of fears. Jerry Seinfeld's joke about this is famous: "According to most studies, people's number one fear is public speaking. Number two is death. Does that sound right? This means at a funeral, the average person would rather be in the casket than doing the eulogy."
 
 ## Why It Matters
 
-Like it or not, the ability to speak clearly and persuasively in front of a group is one of the most valuable skills you can have. It affects your career (promotions, client presentations, team leadership), your community involvement (town halls, school boards, volunteer organizations), and your personal life (toasts, eulogies, ceremonies).
+Like it or not, the ability to speak clearly and persuasively in front of a group is one of the most valuable skills you can have. It affects your career (promotions, client presentations, team [leadership](/leadership)), your community involvement (town halls, school boards, volunteer organizations), and your personal life (toasts, eulogies, ceremonies).
 
 Research from the National Association of Colleges and Employers consistently ranks communication skills — with oral communication near the top — as the most desired qualification employers seek. A 2016 study published in *Training Industry Quarterly* found that executives spent an average of 4.4 hours per week on presentations and speeches.
 
@@ -52,7 +52,7 @@ The people who rise to leadership positions are, overwhelmingly, people who can 
 - **Body** — 2-3 main points, each supported by evidence, examples, or stories. More than three main points and the audience can't track them.
 - **Close** — summarize, call to action, or end with a memorable statement. Don't trail off. Don't say "that's all I got." End strong.
 
-**Stories beat statistics.** Data informs. Stories persuade. The most effective speakers combine both — use a statistic to establish a problem's scale, then tell a story that makes the statistic feel real. One person's experience is more emotionally compelling than a million data points, even though the data points represent a million experiences.
+**Stories beat [statistics](/statistics).** Data informs. Stories persuade. The most effective speakers combine both — use a statistic to establish a problem's scale, then tell a story that makes the statistic feel real. One person's experience is more emotionally compelling than a million data points, even though the data points represent a million experiences.
 
 ## Delivery
 

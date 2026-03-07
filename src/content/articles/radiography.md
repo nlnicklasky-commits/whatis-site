@@ -5,7 +5,7 @@ description: "Radiography uses X-rays and other radiation to create images of th
 category: technology
 tags: ["radiography", "x-ray", "medical imaging", "radiology", "healthcare", "diagnostic imaging", "radiation"]
 heroImage: "/images/articles/radiography-hero.webp"
-heroAlt: "Modern digital X-ray machine in a hospital radiology department with chest radiograph displayed"
+heroAlt: "Editorial photograph representing the concept of radiography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Radiography is the imaging technique that uses X-rays or other forms of penetrating radiation to create pictures of structures inside the body (or inside objects, in industrial applications). When you go to the hospital and get an "X-ray," you're getting a radiograph -- an image formed by passing X-ray beams through your body and capturing the radiation that emerges on the other side. Dense structures like bones absorb more X-rays and appear white. Soft tissues absorb less and appear in shades of gray. Air absorbs almost none and appears black.
 
-It's the oldest and most widely used form of medical imaging. Wilhelm Rontgen discovered X-rays in 1895, and within months, doctors were using them to see broken bones. Over 130 years later, radiography remains the first-line imaging tool in hospitals worldwide. Approximately 3.6 billion diagnostic X-ray examinations are performed globally each year -- that's nearly one for every two people on Earth.
+It's the oldest and most widely used form of [medical imaging](/medical-imaging). Wilhelm Rontgen discovered X-rays in 1895, and within months, doctors were using them to see broken bones. Over 130 years later, radiography remains the first-line imaging tool in hospitals worldwide. Approximately 3.6 billion diagnostic X-ray examinations are performed globally each year -- that's nearly one for every two people on Earth.
 
 And it goes far beyond broken bones. Radiography detects pneumonia, monitors heart failure, screens for breast cancer, guides surgical procedures, checks dental cavities, and even inspects aircraft wings for hidden cracks. It's a technology so embedded in medicine and industry that imagining life without it is genuinely difficult.
 
@@ -118,7 +118,7 @@ Dental X-rays detect cavities between teeth, bone loss from periodontal disease,
 
 - **Intraoral X-rays** (periapical, bitewing, occlusal) -- small film or sensors placed inside the mouth
 - **Panoramic X-rays** (orthopantomogram) -- a sweeping X-ray that captures the entire jaw in one image
-- **Cone-beam CT** -- a 3D imaging technique increasingly used for implant planning, orthodontics, and oral surgery
+- **Cone-beam CT** -- a 3D imaging technique increasingly used for implant planning, [orthodontics](/orthodontics), and oral surgery
 
 Dental X-rays use very low doses -- a full-mouth series delivers about 0.15 mSv, less than a day's worth of natural background radiation.
 
@@ -138,7 +138,7 @@ For nearly a century, radiographic images were captured on photographic film. X-
 
 Film radiography worked, but it had significant limitations:
 
-- Processing took minutes (wet chemistry in a darkroom)
+- Processing took minutes (wet [chemistry](/chemistry) in a darkroom)
 - Film could be over- or under-exposed, requiring repeat imaging
 - Images had to be physically stored and transported
 - Searching archives was slow and manual
@@ -170,7 +170,7 @@ DR advantages over film and CR:
 
 Picture Archiving and Communication Systems (PACS) store digital images and make them available throughout the hospital network instantly. A radiograph taken in the emergency department can be viewed by an orthopedic surgeon upstairs, a radiologist at home, or a specialist at another hospital -- simultaneously and in seconds.
 
-Teleradiology extends this further, transmitting images to radiologists anywhere in the world. This enables 24/7 radiology coverage (sending overnight studies to radiologists in different time zones) and specialist consultations for rare findings.
+Teleradiology extends this further, transmitting images to radiologists anywhere in the world. This enables 24/7 [radiology](/radiology) coverage (sending overnight studies to radiologists in different time zones) and specialist consultations for rare findings.
 
 ## The Radiographer: The Professional Behind the Image
 
@@ -220,7 +220,7 @@ Special care is taken with **children** (more sensitive to radiation due to rapi
 
 Radiography isn't just for hospitals. Industrial radiography inspects [materials](/materials-science) and structures for hidden defects:
 
-**Weld inspection** -- X-rays or gamma rays reveal cracks, porosity, inclusions, and incomplete fusion in welded joints. Critical applications include nuclear power plant piping, aircraft structures, oil and gas pipelines, and pressure vessels. Every weld in a nuclear reactor is radiographically inspected.
+**Weld inspection** -- X-rays or gamma rays reveal cracks, porosity, inclusions, and incomplete fusion in welded joints. Critical applications include [nuclear power](/nuclear-power) plant piping, aircraft structures, oil and gas pipelines, and pressure vessels. Every weld in a nuclear reactor is radiographically inspected.
 
 **Aerospace** -- radiographic inspection of turbine blades, composite structures, and wing assemblies detects manufacturing defects and fatigue damage. Both X-ray radiography and computed tomography are used.
 
@@ -228,11 +228,11 @@ Radiography isn't just for hospitals. Industrial radiography inspects [materials
 
 **Security screening** -- airport baggage scanners are radiographic systems that create X-ray images of luggage contents. Dual-energy systems can distinguish organic materials (plastics, food) from inorganic materials (metals, ceramics) by using two different X-ray energies.
 
-**Art and archaeology** -- radiography reveals hidden paintings beneath visible surfaces, the internal structure of sculptures, the contents of sealed containers, and the condition of ancient manuscripts too fragile to open. Mummy CT scans have revealed diseases, injuries, and cause of death in individuals who lived thousands of years ago.
+**Art and [archaeology](/archaeology)** -- radiography reveals hidden paintings beneath visible surfaces, the internal structure of sculptures, the contents of sealed containers, and the condition of ancient manuscripts too fragile to open. Mummy CT scans have revealed diseases, injuries, and cause of death in individuals who lived thousands of years ago.
 
 ## AI and the Future of Radiography
 
-Artificial intelligence is transforming radiography faster than almost any other area of medicine.
+[Artificial intelligence](/artificial-intelligence) is transforming radiography faster than almost any other area of medicine.
 
 ### AI-Assisted Diagnosis
 
@@ -249,7 +249,7 @@ These systems don't replace radiologists -- they function as a "second reader" t
 
 AI-powered image reconstruction algorithms can produce diagnostic-quality images from lower-dose exposures by using machine learning to reduce noise and enhance signal. This is particularly valuable for CT, where dose reduction is a major goal.
 
-### Workflow Optimization
+### Workflow [Optimization](/optimization)
 
 AI can triage imaging studies by urgency, automatically routing critical findings (like a collapsed lung or large stroke) to the top of the radiologist's worklist. This reduces the time between imaging and diagnosis for life-threatening conditions.
 

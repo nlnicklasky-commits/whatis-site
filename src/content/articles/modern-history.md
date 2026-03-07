@@ -5,7 +5,7 @@ description: "Modern history covers roughly 1500 CE to today. Learn how the Rena
 category: history
 tags: ["history", "modern era", "world history"]
 heroImage: "/images/articles/modern-history.webp"
-heroAlt: "Timeline montage showing the Renaissance, Industrial Revolution, and space age milestones"
+heroAlt: "Editorial photograph representing the concept of modern history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ Historians love to argue about periodization, and the start date for "modern" hi
 
 First, European exploration. When Portuguese sailors rounded the Cape of Good Hope in 1488 and Columbus crossed the Atlantic in 1492, they set in motion a process that would eventually connect every major civilization on Earth through trade, conflict, and exchange. Before 1500, the Americas, sub-Saharan Africa, East Asia, and Europe existed in relative isolation. After 1500, that isolation began to collapse — sometimes violently.
 
-Second, the printing press. Gutenberg's invention (around 1440) took a few decades to spread, but by 1500 there were an estimated 20 million printed volumes in Europe. Ideas could now move faster than any horseback messenger. The Protestant Reformation, which started in 1517 with Martin Luther's Ninety-Five Theses, would have been impossible without print.
+Second, the printing press. Gutenberg's [invention](/invention) (around 1440) took a few decades to spread, but by 1500 there were an estimated 20 million printed volumes in Europe. Ideas could now move faster than any horseback messenger. The Protestant Reformation, which started in 1517 with Martin Luther's Ninety-Five Theses, would have been impossible without print.
 
 Third, the rise of centralized states. Medieval Europe was a patchwork of feudal loyalties, church authority, and local custom. By the early 1500s, monarchs in England, France, and Spain were consolidating power, building professional armies, and creating bureaucracies that looked recognizably like modern governments.
 
-None of these changes happened on a single date. History doesn't work that way. But around 1500, enough things shifted simultaneously to justify drawing a line — however blurry — between "medieval" and "modern."
+None of these changes happened on a single date. History doesn't work that way. But around 1500, enough things shifted simultaneously to justify [drawing](/drawing) a line — however blurry — between "medieval" and "modern."
 
-## Early Modern History (1500-1800)
+## [Early Modern History](/early-modern-history) (1500-1800)
 
 ### The Age of Exploration and Colonialism
 
@@ -63,7 +63,7 @@ This wasn't just a European story, though. The Ottoman Empire controlled much of
 
 Between roughly 1543 (when Copernicus published *On the Revolutions of the Celestial Spheres*) and 1687 (when Newton published *Principia Mathematica*), the way educated Europeans understood the physical world changed completely. The Earth moved from the center of the universe to a planet orbiting the Sun. The laws of motion could be expressed mathematically. The human body could be studied through dissection rather than ancient texts.
 
-This matters for modern history because the Scientific Revolution established the principle that knowledge should be based on observation and experiment rather than authority and tradition. That principle — applied to politics, economics, and society — would eventually produce the Enlightenment and the political revolutions that followed.
+This matters for modern history because the Scientific Revolution established the principle that knowledge should be based on observation and experiment rather than authority and tradition. That principle — applied to [politics](/politics), [economics](/economics), and society — would eventually produce the Enlightenment and the political revolutions that followed.
 
 ### The Enlightenment
 
@@ -75,7 +75,7 @@ The practical results were explosive. The American Revolution (1776) produced th
 
 ### The Industrial Revolution
 
-If you want to understand why the modern world looks the way it does, start here. Beginning in Britain around 1760 and spreading across Europe and North America over the next century, industrialization replaced human and animal muscle with steam, then electricity, then petroleum.
+If you want to understand why the modern world looks the way it does, start here. Beginning in Britain around 1760 and spreading across Europe and North America over the next century, industrialization replaced human and animal muscle with steam, then [electricity](/electricity), then petroleum.
 
 The numbers tell the story. In 1800, roughly 90% of the world's population lived in rural areas. By 2007, more than half of humanity lived in cities. Global GDP per capita, which had barely budged for centuries, began climbing exponentially after 1800. Life expectancy in industrialized countries roughly doubled between 1800 and 1950.
 
@@ -89,9 +89,9 @@ Simultaneously, European powers scrambled to colonize the rest of the world. By 
 
 ### The World Wars (1914-1945)
 
-The two world wars are the defining catastrophe of modern history. World War I (1914-1918) killed approximately 20 million people, destroyed four empires (Ottoman, Austro-Hungarian, German, and Russian), and left a generation traumatized. The peace settlement was so deeply flawed that it essentially guaranteed a second conflict.
+The two world wars are the defining catastrophe of modern history. [World War I](/world-war-i) (1914-1918) killed approximately 20 million people, destroyed four empires (Ottoman, Austro-Hungarian, German, and Russian), and left a generation traumatized. The peace settlement was so deeply flawed that it essentially guaranteed a second conflict.
 
-World War II (1939-1945) killed 70-85 million people — roughly 3% of the world's population at the time. It included the Holocaust, the atomic bombings of Hiroshima and Nagasaki, and the complete destruction of multiple major cities. It also produced the United Nations, the Universal Declaration of Human Rights, and the postwar order that, however imperfect, has prevented a third world war for nearly 80 years.
+[World War II](/world-war-ii) (1939-1945) killed 70-85 million people — roughly 3% of the world's population at the time. It included the Holocaust, the atomic bombings of Hiroshima and Nagasaki, and the complete destruction of multiple major cities. It also produced the United Nations, the Universal Declaration of Human Rights, and the postwar order that, however imperfect, has prevented a third world war for nearly 80 years.
 
 ### Decolonization and the Cold War
 
@@ -122,6 +122,6 @@ The point is that "modern" is a relative term. What counts as modern depends on 
 
 Here's the blunt version: you can't understand anything about the world you live in — borders, governments, economies, technologies, conflicts, inequalities — without understanding modern history. Every current political crisis has roots in this period. Every institution you interact with was shaped by it.
 
-The past five centuries produced the nation-state system, industrial capitalism, democratic governance, human rights law, nuclear weapons, antibiotics, the internet, and climate change. These aren't abstractions. They're the conditions of your daily life.
+The past five centuries produced the nation-state system, industrial [capitalism](/capitalism), democratic governance, [human rights law](/human-rights-law), nuclear weapons, antibiotics, the internet, and climate change. These aren't abstractions. They're the conditions of your daily life.
 
 Studying modern history doesn't give you simple answers or clean narratives. The period is too messy, too contested, and too recent for that. But it does give you the context to ask better questions — which, frankly, is the most useful thing any kind of history can do.

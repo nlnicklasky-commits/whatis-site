@@ -5,7 +5,7 @@ description: "Sandblasting uses high-pressure abrasive media to clean, smooth, o
 category: technology
 tags: ["abrasive blasting", "surface cleaning", "surface preparation", "etching", "industrial process", "cleaning"]
 heroImage: "/images/articles/sandblasting-hero.webp"
-heroAlt: "Industrial sandblasting equipment spraying abrasive media against a metal surface"
+heroAlt: "Editorial photograph representing the concept of sandblasting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

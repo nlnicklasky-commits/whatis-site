@@ -5,7 +5,7 @@ description: "Public relations manages how organizations communicate with the pu
 category: everyday-concepts
 tags: ["public relations", "pr", "media relations", "communication", "reputation management", "crisis communication"]
 heroImage: "/images/articles/public-relations.webp"
-heroAlt: "PR professional managing media communications at a press event"
+heroAlt: "Editorial photograph representing the concept of public relations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Public Relations?
 
-Public relations is the strategic management of communication between an organization and the public. It's how companies, governments, nonprofits, and individuals shape their public image, manage their reputation, and build relationships with the audiences that matter to them. If advertising is a megaphone (you control the message, you pay for the space), PR is a conversation — you put information out, but you don't fully control what comes back.
+Public relations is the [strategic management](/strategic-[management](/management)) of communication between an organization and the public. It's how companies, governments, nonprofits, and individuals shape their public image, manage their reputation, and build relationships with the audiences that matter to them. If advertising is a megaphone (you control the message, you pay for the space), PR is a conversation — you put information out, but you don't fully control what comes back.
 
 ## What PR Actually Does
 
@@ -43,11 +43,11 @@ The Public Relations Society of America defines PR as "a strategic communication
 
 **Content creation.** Modern PR produces enormous amounts of content — blog posts, social media updates, newsletters, white papers, infographics, videos, podcasts. "Owned media" (content published on the organization's own channels) has become as important as earned media in many PR strategies.
 
-**Reputation management.** Long-term brand perception is shaped by consistent communication, community engagement, thought leadership (positioning executives as experts), and alignment between what an organization says and what it does. Reputation takes years to build and can be damaged in hours.
+**Reputation management.** Long-term brand perception is shaped by consistent communication, community engagement, thought [leadership](/leadership) (positioning executives as experts), and alignment between what an organization says and what it does. Reputation takes years to build and can be damaged in hours.
 
 **Internal communication.** Employee communication is a PR function in many organizations. Keeping employees informed, engaged, and aligned with the organization's mission affects morale, retention, and ultimately the organization's public image (unhappy employees talk).
 
-**Government relations (lobbying).** Some PR firms specialize in influencing government policy on behalf of clients. This overlaps with lobbying and involves building relationships with legislators, providing expert testimony, and shaping public opinion on policy issues.
+**[Government](/government) relations ([lobbying](/lobbying)).** Some PR firms specialize in influencing government policy on behalf of clients. This overlaps with lobbying and involves building relationships with legislators, providing expert testimony, and shaping public opinion on policy issues.
 
 ## A Brief History
 
@@ -55,7 +55,7 @@ Modern PR traces to the early 20th century. Ivy Lee, often called the father of 
 
 Edward Bernays (nephew of Sigmund Freud) took PR in a different direction. His 1928 book *Propaganda* argued that public opinion could be shaped through understanding and appealing to unconscious desires. He orchestrated stunts — like his famous "Torches of Freedom" campaign, which encouraged women to smoke by framing cigarettes as symbols of independence — that demonstrated PR's power to shape behavior.
 
-The post-World War II era saw PR grow into a major industry. Corporate PR departments expanded. PR firms multiplied. Television created new opportunities for managing public image. Political PR (now called political communication or "spin") became a profession.
+The post-[World War II](/world-war-ii) era saw PR grow into a major industry. Corporate PR departments expanded. PR firms multiplied. Television created new opportunities for managing public image. Political PR (now called political communication or "spin") became a profession.
 
 The internet and social media transformed PR again. Organizations can now communicate directly with audiences without media gatekeepers. But they also face a public that can talk back — and share criticism instantly with millions. The power active has shifted.
 
@@ -63,7 +63,7 @@ The internet and social media transformed PR again. Organizations can now commun
 
 PR has always carried a whiff of manipulation, and sometimes the whiff is warranted. The tobacco industry used PR to suppress information about smoking's health effects for decades. Oil companies funded PR campaigns to create doubt about climate science. Governments have used PR techniques for propaganda.
 
-The PR industry's response has been to establish ethical codes (the PRSA Code of Ethics emphasizes honesty, accuracy, and fair dealing) and to argue that transparent, honest PR is both more ethical and more effective than deception.
+The PR industry's response has been to establish ethical codes (the PRSA Code of [Ethics](/ethics) emphasizes honesty, accuracy, and fair dealing) and to argue that transparent, honest PR is both more ethical and more effective than deception.
 
 The honest assessment: PR is a tool, and tools can be used well or badly. A nonprofit using PR to raise awareness about human trafficking is doing fundamentally different work from a corporation using PR to hide environmental damage, even if both use similar techniques.
 

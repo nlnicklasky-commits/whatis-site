@@ -5,7 +5,7 @@ description: "Jewelry making is the craft of creating wearable ornaments from me
 category: arts-amp-culture
 tags: ["jewelry making", "metalsmithing", "gemstones", "crafts", "silversmithing"]
 heroImage: "/images/articles/jewelry-making.webp"
-heroAlt: "Jeweler's workbench with tools, silver wire, and a partially finished ring"
+heroAlt: "Editorial photograph representing the concept of jewelry making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Jewelry Making?
 
-Jewelry making is the craft of designing and constructing wearable ornaments — rings, necklaces, bracelets, earrings, brooches, and more — from metals, gemstones, beads, and other materials. It is one of humanity's oldest art forms, with the earliest known jewelry dating back over 100,000 years, and it ranges from simple bead-stringing to master-level goldsmithing requiring years of training.
+Jewelry making is the craft of designing and constructing wearable ornaments — rings, necklaces, bracelets, earrings, brooches, and more — from metals, gemstones, beads, and other materials. It is one of humanity's oldest art forms, with the earliest known jewelry dating back over 100,000 years, and it ranges from simple bead-stringing to master-level [goldsmithing](/goldsmithing) requiring years of training.
 
 ## The Main Techniques
 
@@ -39,13 +39,13 @@ Jewelry making is the craft of designing and constructing wearable ornaments —
 
 **Casting** creates pieces by pouring molten metal into molds. The **lost-wax** process — carving a model in wax, encasing it in plaster, burning out the wax, and pouring in metal — has been used for over 5,000 years. Modern casting uses rubber molds and centrifugal or vacuum casting machines for production quantities.
 
-**Wire wrapping** uses wire (typically sterling silver, copper, or gold-filled) bent and wrapped around stones and beads to create settings and structures without soldering. It is the most accessible entry point for beginners — you need only pliers, wire, and stones.
+**Wire wrapping** uses wire (typically sterling silver, copper, or gold-filled) bent and wrapped around stones and beads to create settings and structures without [soldering](/soldering). It is the most accessible entry point for beginners — you need only pliers, wire, and stones.
 
-**Beading** involves stringing beads on wire, cord, or thread. Seed bead weaving creates intricate patterns. Bead stringing with crimps and clasps makes finished necklaces and bracelets. Low barrier to entry, high creative potential.
+**Beading** involves stringing beads on wire, cord, or thread. Seed bead [weaving](/weaving) creates intricate patterns. Bead stringing with crimps and clasps makes finished necklaces and bracelets. Low barrier to entry, high creative potential.
 
 **Stone setting** is the specialized skill of securing gemstones in metal settings. Prong settings, bezel settings (a metal rim around the stone), channel settings, and pave settings each require different techniques and tools. Precise stone setting is one of the most difficult jewelry skills to master.
 
-**Enameling** applies colored glass powder to metal, then fires it in a kiln to create permanent, vivid color. Cloisonne, champleve, and plique-a-jour are traditional enameling techniques that produce stunning results.
+**[Enameling](/enameling)** applies colored glass powder to metal, then fires it in a kiln to create permanent, vivid color. Cloisonne, champleve, and plique-a-jour are traditional enameling techniques that produce stunning results.
 
 ## Essential Tools
 
@@ -63,7 +63,7 @@ For beading, you need beading wire or thread, crimps, clasps, and beads. Total c
 
 **Gemstones** — diamonds, sapphires, rubies, and emeralds are the "big four." Semi-precious stones (amethyst, garnet, topaz, turquoise, opal) are more affordable and offer incredible variety. Cabochons (smooth, rounded stones) are easier to set than faceted stones.
 
-**Alternative materials** — resin, polymer clay, wood, leather, recycled materials, glass, and ceramics all feature in contemporary jewelry design.
+**Alternative materials** — resin, polymer clay, wood, leather, recycled materials, glass, and [ceramics](/ceramics) all feature in contemporary jewelry design.
 
 ## From Hobby to Business
 
@@ -77,7 +77,7 @@ Many jewelry makers start as hobbyists and evolve into small business owners. Th
 
 The jewelry market is competitive but accessible. Handmade jewelry occupies a space between mass-produced fashion jewelry and high-end fine jewelry. Customers buy handmade jewelry for uniqueness, quality, and the story behind each piece.
 
-Realistic expectations matter. Most jewelry businesses start small and grow slowly. Making a living wage from jewelry requires either high volume, high price points, or supplementary income from teaching. But as a part-time business or passion project, jewelry making is deeply rewarding — you create beautiful objects that people wear against their skin, carry with them daily, and often attach deep personal meaning to.
+Realistic expectations matter. Most jewelry businesses start small and grow slowly. Making a living wage from jewelry requires either high volume, high price points, or supplementary income from [teaching](/teaching). But as a part-time business or passion project, jewelry making is deeply rewarding — you create beautiful objects that people wear against their skin, carry with them daily, and often attach deep personal meaning to.
 
 ## Getting Started
 

@@ -5,7 +5,7 @@ description: "Marathon running is the sport of racing 26.2 miles on foot. Learn 
 category: everyday-concepts
 tags: ["marathon running", "running", "endurance sports", "fitness", "athletics", "distance running"]
 heroImage: "/images/articles/marathon-running.webp"
-heroAlt: "Runners crossing a finish line at a large city marathon with spectators cheering"
+heroAlt: "Editorial photograph representing the concept of marathon running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "The average finish time in U.S. marathons is about 4 hours and 30 minutes. Men average around 4:22, women around 4:48. Elite runners finish in just over 2 hours — the men's world record is 2:00:35 by Kelvin Kiptum (2023), and the women's record is 2:09:56 by Ruth Chepngetich (2024). About 95% of finishers complete the race between 3 and 6 hours."
 ---
 
-# What Is Marathon Running?
+# What Is Marathon [Running](/running)?
 
-A marathon is a long-distance running race covering 26.2 miles (42.195 kilometers). It's the signature endurance event in athletics — the race that closes every Olympic Games, the centerpiece of major city running events from Boston to Tokyo, and a bucket-list challenge that roughly 1.1 million people worldwide complete each year.
+A marathon is a long-distance running race covering 26.2 miles (42.195 kilometers). It's the signature endurance event in [athletics](/athletics) — the race that closes every Olympic Games, the centerpiece of major city running events from Boston to Tokyo, and a bucket-list challenge that roughly 1.1 million people worldwide complete each year.
 
 Running 26.2 miles is a deeply unreasonable thing to ask of the human body. That's precisely why so many people are drawn to it.
 
@@ -55,7 +55,7 @@ Running a marathon is a full-body stress test. Here's what happens physiological
 
 **Immune suppression.** In the hours and days after a marathon, immune function drops temporarily, making runners more susceptible to upper respiratory infections.
 
-None of this is permanent. The body recovers fully, usually within 2-4 weeks. And here's the remarkable part: with proper training, the human body adapts to handle all of this quite efficiently. We evolved as persistence hunters, and our physiology is unusually well-suited to long-distance running compared to other mammals.
+None of this is permanent. The body recovers fully, usually within 2-4 weeks. And here's the remarkable part: with proper training, the human body adapts to handle all of this quite efficiently. We evolved as persistence hunters, and our [physiology](/physiology) is unusually well-suited to long-distance running compared to other mammals.
 
 ## Training
 
@@ -80,7 +80,7 @@ The six World Marathon Majors are the most prestigious races:
 - **Boston** (1897) — the oldest annual marathon, requiring a qualifying time for entry
 - **New York City** (1970) — the world's largest, with 50,000+ finishers
 - **Chicago** (1977) — known for its flat, fast course
-- **London** (1981) — the world's largest fundraising event (over $1 billion raised for charity)
+- **London** (1981) — the world's largest [fundraising](/fundraising) event (over $1 billion raised for charity)
 - **Berlin** (1974) — the fastest course, where most world records are set
 - **Tokyo** (2007) — the newest Major, with an extremely competitive entry lottery
 
@@ -98,7 +98,7 @@ The democratization of the marathon is one of the more interesting cultural shif
 
 Honestly, running a marathon isn't for everyone. It requires 4-5 months of consistent training, carries real injury risk (roughly 50% of marathon trainees experience a running-related injury during preparation), and the training consumes significant time — 6-10+ hours per week.
 
-But if the idea excites you, the barrier to entry is lower than most people think. You don't need to be fast. You don't need to be young. You don't need special genetics. You need decent health (get a medical clearance), patience, consistency, and the willingness to run when you'd rather not.
+But if the idea excites you, the barrier to entry is lower than most people think. You don't need to be fast. You don't need to be young. You don't need special [genetics](/genetics). You need decent health (get a medical clearance), patience, consistency, and the willingness to run when you'd rather not.
 
 The finish line of your first marathon is one of those rare experiences where the reality matches the hype. All the months of training, the early morning runs, the sore legs and self-doubt — they compress into a single, overwhelming moment when you cross that line. Most people cry. Almost everyone smiles.
 

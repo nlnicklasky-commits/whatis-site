@@ -5,7 +5,7 @@ description: "Organic chemistry studies carbon-based compounds, their structures
 category: science
 tags: ["organic chemistry", "carbon compounds", "functional groups", "chemical reactions", "synthesis", "biochemistry"]
 heroImage: "/images/articles/organic-chemistry-hero.webp"
-heroAlt: "Molecular model of a complex organic molecule with carbon, hydrogen, and oxygen atoms"
+heroAlt: "Editorial photograph representing the concept of organic chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -89,7 +89,7 @@ Nucleophiles are electron-rich species — they have electrons to give. Electrop
 
 In a substitution reaction, one group replaces another on a carbon atom. There are two main mechanisms.
 
-**SN2** (substitution, nucleophilic, bimolecular): The nucleophile attacks the carbon from the back side while the leaving group departs from the front. It happens in one step — a synchronized arrival and departure. Think of it like pushing one car out of a parking spot by driving another one in. SN2 reactions invert the stereochemistry (the 3D arrangement) of the carbon, which matters enormously in pharmaceutical chemistry where mirror-image molecules can have drastically different biological effects.
+**SN2** (substitution, nucleophilic, bimolecular): The nucleophile attacks the carbon from the back side while the leaving group departs from the front. It happens in one step — a synchronized arrival and departure. Think of it like pushing one car out of a parking spot by driving another one in. SN2 reactions invert the stereochemistry (the 3D arrangement) of the carbon, which matters enormously in [pharmaceutical chemistry](/pharmaceutical-chemistry) where mirror-image molecules can have drastically different biological effects.
 
 **SN1** (substitution, nucleophilic, unimolecular): The leaving group departs first, creating a positively charged carbon (carbocation). Then the nucleophile attacks. Two steps, with the rate depending only on the first step. SN1 reactions don't invert stereochemistry — the nucleophile can attack from either side, giving a mixture.
 
@@ -141,7 +141,7 @@ The global chemical industry produces hundreds of millions of tons of organic ch
 
 Petroleum refining is fundamentally organic chemistry — cracking large hydrocarbons into smaller ones, reforming straight chains into branched ones, and removing sulfur. The transition away from fossil fuels will require new organic chemistry for bio-based plastics, synthetic fuels, and advanced battery materials.
 
-## Spectroscopy: Identifying What You've Made
+## [Spectroscopy](/spectroscopy): Identifying What You've Made
 
 You can't see molecules directly. So how do organic chemists know what they've made? Through spectroscopy — using different types of electromagnetic radiation to probe molecular structure.
 
@@ -151,7 +151,7 @@ You can't see molecules directly. So how do organic chemists know what they've m
 
 **Infrared Spectroscopy (IR)**: Functional groups absorb infrared light at characteristic frequencies. A sharp absorption at 1700 cm^-1 signals a carbonyl group. A broad absorption around 3300 cm^-1 indicates an O-H or N-H bond. IR is quick and useful for confirming the presence or absence of specific functional groups.
 
-**X-ray Crystallography**: When you can grow a crystal of your compound, X-ray diffraction gives you the exact three-dimensional arrangement of every atom. This technique determined the structures of DNA (Rosalind Franklin's famous Photo 51), penicillin (Dorothy Hodgkin), and thousands of proteins. It's definitive but requires crystals, which aren't always easy to obtain.
+**[X-ray Crystallography](/x-ray-[crystallography](/crystallography))**: When you can grow a crystal of your compound, X-ray diffraction gives you the exact three-dimensional arrangement of every atom. This technique determined the structures of DNA (Rosalind Franklin's famous Photo 51), penicillin (Dorothy Hodgkin), and thousands of proteins. It's definitive but requires crystals, which aren't always easy to obtain.
 
 ## Organic Chemistry Meets Biology
 
@@ -175,7 +175,7 @@ Organic chemistry in 2026 looks very different from even a decade ago.
 
 **Machine learning for synthesis** uses [artificial intelligence](/artificial-intelligence) to predict reaction outcomes and plan synthetic routes. Programs like IBM's RXN for Chemistry and Synthia (from Merck) can suggest multi-step synthesis plans for target molecules in seconds — a task that once required a PhD chemist hours of thought. They're not perfect, but they're improving rapidly.
 
-**Bioorthogonal chemistry** develops reactions that work inside living cells without interfering with biological processes. Carolyn Bertozzi won the 2022 Nobel Prize for pioneering click chemistry and bioorthogonal reactions, enabling researchers to label and track specific molecules inside living organisms. This has applications in drug delivery, diagnostics, and understanding cell biology.
+**Bioorthogonal chemistry** develops reactions that work inside living cells without interfering with biological processes. Carolyn Bertozzi won the 2022 Nobel Prize for pioneering click chemistry and bioorthogonal reactions, enabling researchers to label and track specific molecules inside living organisms. This has applications in drug delivery, diagnostics, and understanding [cell biology](/cell-biology).
 
 **Organic electronics** uses conjugated organic molecules and polymers as semiconductors. Organic LEDs (OLEDs) are already in millions of smartphones and TVs. Organic solar cells and organic transistors are advancing rapidly, potentially enabling flexible, printable, and cheap electronic devices.
 
@@ -191,4 +191,4 @@ Understanding organic chemistry — even at a basic level — helps you make sen
 
 ## Key Takeaways
 
-Organic chemistry is the science of carbon-based compounds, covering their structure, reactions, synthesis, and properties. Carbon's unique ability to form four bonds in diverse arrangements creates a universe of over 100 million known molecules. Functional groups determine reactivity, stereochemistry determines biological activity, and spectroscopy reveals structure. The field underpins pharmaceuticals, materials science, energy, and biology — making it one of the most practically important sciences. Modern frontiers include green chemistry, AI-assisted synthesis, bioorthogonal chemistry, and organic electronics.
+Organic chemistry is the science of carbon-based compounds, covering their structure, reactions, synthesis, and properties. Carbon's unique ability to form four bonds in diverse arrangements creates a universe of over 100 million known molecules. Functional groups determine reactivity, stereochemistry determines biological activity, and spectroscopy reveals structure. The field underpins pharmaceuticals, [materials science](/materials-science), energy, and biology — making it one of the most practically important sciences. Modern frontiers include green chemistry, AI-assisted synthesis, bioorthogonal chemistry, and organic electronics.

@@ -5,7 +5,7 @@ description: "Telescope making is the craft of building optical telescopes by ha
 category: technology
 tags: ["telescope making", "amateur astronomy", "optics", "mirror grinding"]
 heroImage: "/images/articles/telescope-making.webp"
-heroAlt: "Hands carefully grinding a large glass mirror blank on a turntable in a workshop, with fine polishing compound visible"
+heroAlt: "Editorial photograph representing the concept of telescope making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -119,7 +119,7 @@ A mirror by itself is useless. You need a way to hold it, point it at things, an
 
 ### The Tube
 
-The simplest approach is a Sonotube — a cardboard concrete-forming tube available at construction supply stores. An 8-inch inner diameter Sonotube costs maybe $20 for an 8-foot length. You cut it to the right length (focal length plus a bit extra), paint the inside flat black to absorb stray light, and mount the mirror at the bottom.
+The simplest approach is a Sonotube — a cardboard concrete-forming tube available at [construction](/construction) supply stores. An 8-inch inner diameter Sonotube costs maybe $20 for an 8-foot length. You cut it to the right length (focal length plus a bit extra), paint the inside flat black to absorb stray light, and mount the mirror at the bottom.
 
 More ambitious builders use sheet metal, fiberglass, or even carbon fiber tubes. Some build truss-tube designs — an open framework that's lighter and more portable than a solid tube but requires a light shroud to keep stray light out.
 
@@ -185,9 +185,9 @@ You might think that with cheap mass-produced telescopes flooding the market, am
 
 Part of this is the maker movement — the same impulse that drives people to build [3D printers](/app-development), brew beer, and grow their own food. There's a cultural pushback against pure consumption. Making things matters to people.
 
-Part of it is practical. The largest apertures are still cheapest when homemade. And computerized telescope mounts — which you can build with Arduino boards and stepper motors — have added a new dimension to the hobby. Some makers are combining traditional mirror-grinding with modern electronics, creating telescopes with hand-figured optics and computer-controlled tracking.
+Part of it is practical. The largest apertures are still cheapest when homemade. And computerized telescope mounts — which you can build with Arduino boards and stepper motors — have added a new dimension to the hobby. Some makers are combining traditional mirror-grinding with modern [electronics](/electronics), creating telescopes with hand-figured optics and computer-controlled tracking.
 
-There's also an educational angle. Schools and science centers use telescope making as a teaching tool. Grinding a mirror teaches [optics](/acoustics), geometry, and patience. Building the mount teaches mechanical engineering. Using the finished telescope teaches [astronomy](/astronomy). It's a complete STEM project wrapped in a genuinely useful outcome.
+There's also an educational angle. Schools and science centers use telescope making as a teaching tool. Grinding a mirror teaches [optics](/acoustics), geometry, and patience. Building the mount teaches [mechanical engineering](/mechanical-engineering). Using the finished telescope teaches [astronomy](/astronomy). It's a complete STEM project wrapped in a genuinely useful outcome.
 
 ## Getting Started — What You Actually Need
 

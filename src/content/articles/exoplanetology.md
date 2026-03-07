@@ -5,7 +5,7 @@ description: "Exoplanetology is the study of planets orbiting stars beyond our S
 category: science
 tags: ["exoplanetology", "exoplanets", "astronomy", "space", "habitable zone", "astrobiology", "planet discovery"]
 heroImage: "/images/articles/exoplanetology-hero.webp"
-heroAlt: "Artist rendering of an exoplanet transiting in front of its host star"
+heroAlt: "Editorial photograph representing the concept of exoplanetology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,17 +35,17 @@ faq:
 
 # What Is Exoplanetology?
 
-Exoplanetology is the branch of [astronomy](/astronomy) and planetary science devoted to the study of exoplanets — planets that orbit stars other than our Sun. The field encompasses the detection, characterization, and classification of these worlds, along with the study of their atmospheres, compositions, orbital dynamics, and potential habitability. Since the first confirmed exoplanet discovery in 1992, the field has grown from a speculative pursuit into one of the most active areas of modern astrophysics.
+Exoplanetology is the branch of [astronomy](/astronomy) and [planetary science](/planetary-science) devoted to the study of exoplanets — planets that orbit stars other than our Sun. The field encompasses the detection, characterization, and classification of these worlds, along with the study of their atmospheres, compositions, orbital dynamics, and potential habitability. Since the first confirmed exoplanet discovery in 1992, the field has grown from a speculative pursuit into one of the most active areas of modern astrophysics.
 
 ## We Used to Think We Were Alone
 
-For most of human history, the question of whether other stars had planets was pure speculation. Some ancient Greek philosophers (Epicurus, Democritus) argued that infinite atoms should produce infinite worlds. Giordano Bruno suggested in the 16th century that stars were suns with their own planets — one of the ideas that got him burned at the stake in 1600. But without evidence, it remained philosophy.
+For most of human history, the question of whether other stars had planets was pure speculation. Some ancient Greek philosophers (Epicurus, Democritus) argued that infinite atoms should produce infinite worlds. Giordano Bruno suggested in the 16th century that stars were suns with their own planets — one of the ideas that got him burned at the stake in 1600. But without evidence, it remained [philosophy](/philosophy).
 
 By the late 20th century, astronomers suspected planets were common, but detecting them seemed almost impossible. A planet is tiny, dim, and right next to something enormously bright (its star). Trying to see an exoplanet directly is like trying to spot a firefly next to a lighthouse from a thousand miles away.
 
 And then, in rapid succession, the impossible became routine. The first exoplanet around a Sun-like star was confirmed in 1995. By 2014, the Kepler space telescope had identified thousands. Today, we know of over 5,700 confirmed exoplanets — and statistical analysis suggests that nearly every star in the galaxy has at least one planet. The Milky Way alone probably contains hundreds of billions of planets.
 
-That shift — from "we don't know if planets exist elsewhere" to "there are more planets than stars" — happened in about 30 years. It's one of the fastest revolutions in the history of science.
+That shift — from "we don't know if planets exist elsewhere" to "there are more planets than stars" — happened in about 30 years. It's one of the fastest revolutions in [the history of science](/the-history-of-science).
 
 ## How Do You Find Something You Can't See?
 
@@ -59,7 +59,7 @@ That wobble shifts the star's light spectrum slightly — toward blue when the s
 
 Michel Mayor and Didier Queloz used this method to discover 51 Pegasi b in 1995 — the first exoplanet found orbiting a Sun-like star. It was a Jupiter-mass planet orbiting its star every 4.2 days, astonishingly close. This "hot Jupiter" was nothing like anything in our solar system, and it was the first hint that planetary systems could be far more diverse than anyone expected.
 
-The radial velocity method is most sensitive to massive planets close to their stars (which produce the largest wobble). Detecting Earth-mass planets requires measuring velocity shifts of about 10 centimeters per second — like detecting someone walking slowly from light-years away.
+The radial velocity method is most sensitive to massive planets close to their stars (which produce the largest wobble). Detecting Earth-mass planets requires measuring velocity shifts of about 10 centimeters per second — like detecting someone [walking](/walking) slowly from light-years away.
 
 ### The Transit Method
 

@@ -5,7 +5,7 @@ description: "Geophysics applies physics to study Earth's structure, from seismi
 category: science
 tags: ["geophysics", "physics", "earth science", "seismology", "gravity", "geomagnetism", "plate tectonics"]
 heroImage: "/images/articles/geophysics-hero.webp"
-heroAlt: "Seismic wave visualization passing through Earth's layered interior structure"
+heroAlt: "Editorial photograph representing the concept of geophysics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -71,7 +71,7 @@ This precision reveals things invisible to casual observation. GPS stations alon
 
 Satellite geodesy measures Earth's gravitational field with enough precision to detect changes in groundwater storage, ice sheet mass, and even the weight of entire monsoon rainfalls. NASA's GRACE mission (Gravity Recovery and Climate Experiment) measured monthly changes in Earth's gravity field, revealing that Greenland loses about 280 billion tons of ice per year—a finding with profound implications for sea-level rise.
 
-### Geomagnetism: Earth's Magnetic Shield
+### [Geomagnetism](/geomagnetism): Earth's Magnetic Shield
 
 Earth generates a magnetic field through the motion of liquid iron in the outer core—a process called the geodynamo. This field extends thousands of kilometers into space, forming the magnetosphere that shields the planet from solar wind and cosmic radiation. Without it, the solar wind would strip away Earth's atmosphere. Mars likely lost much of its atmosphere after its magnetic field died.
 
@@ -79,7 +79,7 @@ Geophysicists study Earth's magnetic field because it reveals information about 
 
 The field flips polarity irregularly—north becomes south and vice versa. This has happened hundreds of times over Earth's history, with intervals ranging from tens of thousands to millions of years. The last reversal occurred about 780,000 years ago. During a reversal, the field weakens significantly, potentially increasing radiation exposure at the surface. We don't know when the next one will happen, but the current field has weakened about 10% over the past 200 years.
 
-Paleomagnetism—studying ancient magnetic field directions preserved in rocks—provided key evidence for plate tectonics. When lava cools, magnetic minerals align with Earth's field and lock in that direction permanently. By measuring these fossil magnetic orientations, geophysicists showed that continents have moved thousands of kilometers over geological time.
+Paleomagnetism—studying ancient magnetic field directions preserved in rocks—provided key evidence for [plate tectonics](/plate-tectonics). When lava cools, magnetic minerals align with Earth's field and lock in that direction permanently. By measuring these fossil magnetic orientations, geophysicists showed that continents have moved thousands of kilometers over geological time.
 
 ### Gravity: Weighing the Earth
 
@@ -99,7 +99,7 @@ Heat flow varies geographically. It's highest at mid-ocean ridges (where new cru
 
 ### Electromagnetic Methods
 
-Earth's subsurface conducts electricity, and different materials conduct differently. By measuring how electromagnetic fields interact with the subsurface—either using natural electromagnetic signals or by injecting current into the ground—geophysicists can map underground structures.
+Earth's subsurface conducts [electricity](/electricity), and different materials conduct differently. By measuring how electromagnetic fields interact with the subsurface—either using natural electromagnetic signals or by injecting current into the ground—geophysicists can map underground structures.
 
 **Magnetotellurics** uses natural electromagnetic fluctuations (caused by solar wind interactions with the magnetosphere and by lightning) to image the deep crust and upper mantle. **Electrical resistivity** surveys inject current between electrodes and measure how it spreads through the ground, revealing layers with different compositions or fluid content.
 
@@ -123,13 +123,13 @@ Mining companies use gravity surveys, magnetic surveys, electromagnetic methods,
 
 In many parts of the world, finding reliable groundwater supplies is a matter of survival. Geophysical methods—particularly electrical resistivity and seismic refraction—can locate aquifers, estimate their extent, and even assess water quality (saltwater has much lower resistivity than freshwater).
 
-### Environmental and Engineering
+### Environmental and [Engineering](/engineering)
 
-Environmental geophysics locates buried waste, maps contamination plumes, and assesses ground conditions for construction. Before building a bridge, tunnel, or skyscraper, engineers need to know what's underground—the depth to bedrock, the presence of voids or weak zones, groundwater conditions. Geophysical surveys provide this information non-invasively and often more cheaply than drilling.
+Environmental geophysics locates buried waste, maps contamination plumes, and assesses ground conditions for [construction](/construction). Before building a bridge, tunnel, or skyscraper, engineers need to know what's underground—the depth to bedrock, the presence of voids or weak zones, groundwater conditions. Geophysical surveys provide this information non-invasively and often more cheaply than drilling.
 
 ## Plate Tectonics: Geophysics' Greatest Story
 
-The theory of plate tectonics—that Earth's surface is divided into rigid plates that move, collide, and separate—is arguably the greatest scientific achievement of the 20th century in earth science. And it came almost entirely from geophysical evidence.
+The theory of plate tectonics—that Earth's surface is divided into rigid plates that move, collide, and separate—is arguably the greatest scientific achievement of the 20th century in [earth science](/earth-science). And it came almost entirely from geophysical evidence.
 
 The key evidence accumulated over decades:
 
@@ -215,7 +215,7 @@ Geophysics still has major unsolved problems.
 
 Geophysics affects your life more than you probably realize. The earthquake safety of your building depends on geophysical hazard maps. The fuel in your car was likely found using seismic surveys. The GPS on your phone relies on geodetic measurements of Earth's shape. Weather forecasts incorporate geophysical data about ocean temperatures and atmospheric conditions. Even your tap water may come from aquifers located using geophysical methods.
 
-The field also contributes to addressing global challenges: [climate change](/climatology) monitoring, natural disaster preparedness, sustainable resource management, and space exploration all depend heavily on geophysical science.
+The field also contributes to addressing global challenges: [climate change](/climatology) monitoring, natural [disaster preparedness](/disaster-preparedness), sustainable [resource management](/resource-management), and space exploration all depend heavily on geophysical science.
 
 ## Key Takeaways
 

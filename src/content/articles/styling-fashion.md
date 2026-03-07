@@ -5,7 +5,7 @@ description: "Fashion styling is the art of selecting and arranging clothing and
 category: arts-amp-culture
 tags: ["styling fashion", "fashion", "wardrobe", "personal styling", "editorial", "visual arts"]
 heroImage: "/images/articles/styling-fashion.webp"
-heroAlt: "A fashion stylist arranging outfits on a clothing rack in a studio"
+heroAlt: "Editorial photograph representing the concept of styling (fashion)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -63,12 +63,12 @@ Brands hire stylists for product photography, e-commerce shoots, catalogs, and a
 
 Good stylists aren't just people with good taste (though that helps). They need:
 
-- **Visual literacy** — Understanding color theory, proportion, silhouette, and how fabrics photograph
+- **Visual literacy** — Understanding [color theory](/color-theory), proportion, silhouette, and how fabrics photograph
 - **Trend awareness** — Knowing what's current without being a slave to trends
 - **Body knowledge** — Understanding how different cuts, fabrics, and proportions work on different body types
 - **Research skills** — Finding specific vintage pieces, tracking down that one accessory, knowing which designer makes what
 - **Communication** — Translating a client's vague feelings ("I want to look powerful but approachable") into concrete clothing choices
-- **Logistics** — Managing garment pulls, returns, budgets, and tight timelines
+- **[Logistics](/logistics)** — Managing garment pulls, returns, budgets, and tight timelines
 
 ## A Brief History
 

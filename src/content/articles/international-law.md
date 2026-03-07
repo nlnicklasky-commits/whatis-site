@@ -5,7 +5,7 @@ description: "International law is the set of rules governing relations between 
 category: law
 tags: ["international law", "treaties", "customary law", "un", "human rights", "diplomacy"]
 heroImage: "/images/articles/international-law.webp"
-heroAlt: "Flags of multiple nations outside an international court building"
+heroAlt: "Editorial photograph representing the concept of international law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,11 +39,11 @@ International law is the body of rules, agreements, and principles that govern h
 
 ## The Weird Thing About International Law
 
-Here's the fundamental paradox that makes international law fascinating — and frustrating. Domestic law has a government behind it. If you break the law in the United States, police arrest you, courts try you, and prisons hold you. There's a clear hierarchy: legislature, executive, judiciary.
+Here's the fundamental paradox that makes international law fascinating — and frustrating. Domestic law has a [government](/government) behind it. If you break the law in the United States, police arrest you, courts try you, and prisons hold you. There's a clear hierarchy: legislature, executive, judiciary.
 
 International law has none of that. There's no world government. No international police force. No automatic enforcement mechanism. The 193 sovereign states in the world answer, ultimately, to themselves.
 
-So how does international law work at all? The honest answer is: imperfectly, but better than you'd expect. States follow international law most of the time — not because they're forced to, but because cooperation is usually in their interest. Trade is more profitable with agreed-upon rules. Diplomacy is more effective when embassies are protected. Wars are less catastrophic when combatants follow the Geneva Conventions.
+So how does international law work at all? The honest answer is: imperfectly, but better than you'd expect. States follow international law most of the time — not because they're forced to, but because cooperation is usually in their interest. Trade is more profitable with agreed-upon rules. [Diplomacy](/diplomacy) is more effective when embassies are protected. Wars are less catastrophic when combatants follow the Geneva Conventions.
 
 The system works roughly 90% of the time. It's the other 10% — the invasions, the atrocities, the broken treaties — that makes headlines and leads people to question whether international law is "real" law at all.
 
@@ -57,7 +57,7 @@ Treaties are written agreements between states. They're the most straightforward
 
 The sheer volume of treaties is staggering. The United Nations Treaty Collection contains over 560 major multilateral treaties and tens of thousands of bilateral ones. They cover everything from postal regulations (the Universal Postal Union dates to 1874) to nuclear weapons (the Non-Proliferation Treaty of 1968) to climate change (the Paris Agreement of 2015).
 
-Treaty-making follows a standard process: negotiation, signature, and ratification. Signature indicates agreement in principle. Ratification — usually requiring legislative approval — creates the legal obligation. This distinction matters. The US signed the Kyoto Protocol in 1998 but never ratified it, meaning it was never legally bound by its terms.
+Treaty-making follows a standard process: [negotiation](/negotiation), signature, and ratification. Signature indicates agreement in principle. Ratification — usually requiring legislative approval — creates the legal obligation. This distinction matters. The US signed the Kyoto Protocol in 1998 but never ratified it, meaning it was never legally bound by its terms.
 
 ### Customary International Law
 
@@ -73,7 +73,7 @@ When treaties and custom don't provide an answer, courts can look to general pri
 
 ## The United Nations System
 
-The UN isn't a world government, but it's the closest thing we have to one. Established in 1945 after the devastation of World War II, the United Nations provides the institutional framework for much of modern international law.
+The UN isn't a world government, but it's the closest thing we have to one. Established in 1945 after the devastation of [World War II](/world-war-ii), the United Nations provides the institutional framework for much of modern international law.
 
 The **General Assembly** includes all 193 member states, each with one vote. Its resolutions aren't legally binding, but they shape norms and signal international consensus. The General Assembly adopted the Universal Declaration of Human Rights in 1948 — not a binding treaty, but arguably the most influential document in human rights history.
 
@@ -83,7 +83,7 @@ The **International Court of Justice** (ICJ) is the UN's principal judicial orga
 
 The **International Law Commission** does the unglamorous but essential work of codifying and developing international law. It drafts treaty texts and studies legal questions referred to it by the General Assembly. Much of modern treaty law traces back to ILC drafts.
 
-## Human Rights Law
+## [Human Rights Law](/human-rights-law)
 
 The development of international human rights law after World War II represents one of the most significant shifts in international law's history. Before 1945, how a state treated its own citizens was largely considered an internal matter. The Holocaust changed that.
 
@@ -108,7 +108,7 @@ Key principles include:
 
 Violations of these rules can constitute war crimes, prosecutable before the International Criminal Court (ICC) or national courts. The ICC, established by the Rome Statute in 2002, has jurisdiction over genocide, crimes against humanity, war crimes, and the crime of aggression. As of 2024, it has 124 member states — though notably, the US, Russia, and China are not among them.
 
-## International Trade Law
+## [International Trade](/international-trade) Law
 
 Trade law might be the area where international law has the most direct impact on daily life. The rules governing international trade affect the price of your coffee, the availability of your medication, and the job market in your city.
 
@@ -122,11 +122,11 @@ The system has its critics. Developing countries argue that WTO rules favor weal
 
 The compliance puzzle is central to international law theory. Without a world police force, why do states follow the rules?
 
-Several theories offer partial answers. **Realism** says states follow international law when it serves their interests and ignore it when it doesn't — the law is just a reflection of power. **Liberalism** emphasizes that democracies and economically interdependent states have strong incentives to cooperate through legal frameworks. **Constructivism** argues that international law shapes state identity and interests — states comply because they've internalized norms about what it means to be a "good" member of the international community.
+Several theories offer partial answers. **Realism** says states follow international law when it serves their interests and ignore it when it doesn't — the law is just a reflection of power. **[Liberalism](/liberalism)** emphasizes that democracies and economically interdependent states have strong incentives to cooperate through legal frameworks. **Constructivism** argues that international law shapes state identity and interests — states comply because they've internalized norms about what it means to be a "good" member of the international community.
 
 In practice, compliance happens for all these reasons and more. Reputation matters — states that consistently violate international law find it harder to negotiate future agreements. Reciprocity matters — if you violate a treaty, the other side may do the same. Institutional inertia matters — once bureaucracies are set up to comply with international obligations, compliance becomes the default.
 
-The compliance rate for international law as a whole is actually quite high. Most international law — the rules governing postal service, aviation, maritime navigation, diplomatic relations, trade — is followed routinely because compliance serves everyone's interests. It's the hard cases — territorial disputes, human rights abuses, the use of force — where compliance breaks down.
+The compliance rate for international law as a whole is actually quite high. Most international law — the rules governing postal service, aviation, maritime [navigation](/navigation), diplomatic relations, trade — is followed routinely because compliance serves everyone's interests. It's the hard cases — territorial disputes, human rights abuses, the use of force — where compliance breaks down.
 
 ## The Limits of International Law
 
@@ -136,7 +136,7 @@ The veto power of the five permanent Security Council members means that any gre
 
 ## Emerging Challenges
 
-International law is struggling to keep pace with new realities. Cyberwarfare operates in a legal gray zone — when does a cyberattack constitute an "armed attack" justifying self-defense? Climate change raises questions of intergenerational justice and state responsibility for emissions. [Artificial intelligence](/artificial-intelligence) in weapons systems challenges the laws of war's requirement for human judgment in targeting decisions.
+International law is struggling to keep pace with new realities. Cyberwarfare operates in a legal gray zone — when does a cyberattack constitute an "armed attack" justifying [self-defense](/self-defense)? Climate change raises questions of intergenerational justice and state responsibility for emissions. [Artificial intelligence](/artificial-intelligence) in weapons systems challenges the laws of war's requirement for human judgment in targeting decisions.
 
 Space law, governed primarily by the 1967 Outer Space Treaty, was written when only two countries could reach orbit. Now private companies launch rockets, and questions about mining asteroids and claiming territory are no longer hypothetical.
 

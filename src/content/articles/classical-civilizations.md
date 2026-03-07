@@ -5,7 +5,7 @@ description: "Classical civilizations refers to the ancient Greek and Roman soci
 category: history
 tags: ["classical civilizations", "ancient greece", "ancient rome", "philosophy", "western civilization"]
 heroImage: "/images/articles/classical-civilizations.webp"
-heroAlt: "Ancient Greek temple columns against a blue Mediterranean sky"
+heroAlt: "Editorial photograph representing the concept of classical civilizations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Classical Civilizations?
 
-Classical civilizations is the academic study of the ancient Greek and Roman societies that flourished from roughly 800 BCE to 476 CE, whose contributions to government, philosophy, literature, art, and law became foundational to Western culture. The field encompasses everything from Athenian democracy to Roman engineering, from Homeric epic to Stoic ethics.
+Classical civilizations is the academic study of the ancient Greek and Roman societies that flourished from roughly 800 BCE to 476 CE, whose contributions to [government](/government), [philosophy](/philosophy), [literature](/literature), art, and law became foundational to Western culture. The field encompasses everything from Athenian democracy to Roman [engineering](/engineering), from Homeric epic to Stoic ethics.
 
 ## Why Greece and Rome? Why Not Everywhere Else?
 
@@ -97,7 +97,7 @@ The Roman Empire at its height — around 117 CE under Trajan — stretched from
 
 Roman [engineering](/civil-engineering) was extraordinary. The road system eventually covered 80,000 kilometers — some roads are still in use 2,000 years later. Aqueducts carried fresh water over long distances using gravity alone. The Pont du Gard in France stands 49 meters tall and was built without mortar.
 
-Concrete was arguably Rome's most important invention. Roman concrete — made with volcanic ash — is more durable than modern Portland cement. The Pantheon's unreinforced concrete dome, built around 125 CE, is still the largest of its kind. Engineers today are studying Roman concrete to figure out why it gets *stronger* over time.
+Concrete was arguably Rome's most important [invention](/invention). Roman concrete — made with volcanic ash — is more durable than modern Portland cement. The Pantheon's unreinforced concrete dome, built around 125 CE, is still the largest of its kind. Engineers today are studying Roman concrete to figure out why it gets *stronger* over time.
 
 The Romans also developed apartment buildings, central heating (hypocausts), public toilets, sewage systems, and a postal service. The urban infrastructure of a major Roman city was, in some ways, not matched in Europe until the 19th century.
 
@@ -107,7 +107,7 @@ The Western Roman Empire fell in 476 CE when the Germanic chieftain Odoacer depo
 
 The Catholic Church preserved Latin, Roman administrative structures, and classical texts. Monasteries copied manuscripts that would otherwise have been lost. [Roman law](/business-law) became the basis for the legal systems of continental Europe. Latin evolved into French, Spanish, Italian, Portuguese, and Romanian.
 
-The Islamic world also preserved and expanded on classical knowledge. Arab scholars translated Greek philosophy, mathematics, and medicine, adding their own contributions. When these texts returned to Western Europe during the 12th century, they sparked a renaissance of classical learning.
+The Islamic world also preserved and expanded on classical knowledge. Arab scholars translated Greek philosophy, [mathematics](/mathematics), and medicine, adding their own contributions. When these texts returned to Western Europe during the 12th century, they sparked a renaissance of classical learning.
 
 ## Studying Classical Civilizations Today
 

@@ -5,7 +5,7 @@ description: "Quantitative easing is a central bank policy of buying financial a
 category: finance
 tags: ["quantitative easing", "monetary policy", "central banking", "federal reserve", "interest rates", "inflation"]
 heroImage: "/images/articles/quantitative-easing-hero.webp"
-heroAlt: "Federal Reserve building with financial data overlays showing bond yields and money supply"
+heroAlt: "Editorial photograph representing the concept of quantitative easing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantitative Easing?
 
-Quantitative easing (QE) is an unconventional [monetary policy](/monetary-policy) tool in which a central bank creates new money electronically and uses it to purchase financial assets—typically government bonds—from the open market. The goal is to increase the money supply, lower long-term interest rates, and stimulate economic activity when conventional interest rate cuts have already been pushed to their limit. Since 2008, central banks around the world have used QE on an unprecedented scale, purchasing trillions of dollars, euros, pounds, and yen worth of assets. It has become one of the most important—and most debated—economic policy tools of the 21st century.
+Quantitative easing (QE) is an unconventional [monetary policy](/monetary-policy) tool in which a central bank creates new money electronically and uses it to purchase financial assets—typically [government](/government) bonds—from the open market. The goal is to increase the money supply, lower long-term interest rates, and stimulate economic activity when conventional interest rate cuts have already been pushed to their limit. Since 2008, central banks around the world have used QE on an unprecedented scale, purchasing trillions of dollars, euros, pounds, and yen worth of assets. It has become one of the most important—and most debated—economic policy tools of the 21st century.
 
 ## Why QE Exists: The Zero-Bound Problem
 
@@ -69,7 +69,7 @@ When the Fed buys massive quantities of bonds, it drives up bond prices (increas
 
 ### Step 5: Wealth Effects and Portfolio Rebalancing
 
-With bond yields pushed down, investors seeking returns shift money into riskier assets—stocks, corporate bonds, real estate. This pushes up asset prices, creating a "wealth effect": people who own stocks and real estate feel wealthier and spend more. Companies find it easier and cheaper to raise capital by issuing bonds or stock. This channel is controversial but appears to be significant.
+With bond yields pushed down, investors seeking returns shift money into riskier assets—stocks, corporate bonds, [real estate](/real-estate). This pushes up asset prices, creating a "wealth effect": people who own stocks and real estate feel wealthier and spend more. Companies find it easier and cheaper to raise capital by issuing bonds or stock. This channel is controversial but appears to be significant.
 
 ## The History of QE
 
@@ -117,7 +117,7 @@ This is the trillion-dollar question—literally. The honest answer: partially, 
 
 **Did QE cause the post-2021 inflation surge?** The Fed's massive COVID-era QE was followed by the highest inflation in 40 years—consumer prices rose 9.1% year-over-year in June 2022. But disentangling QE's contribution from supply chain disruptions, fiscal stimulus (direct government payments to households), and energy price shocks is extremely difficult.
 
-Some economists argue that QE created the monetary conditions for inflation, pointing to the dramatic expansion of the money supply. Others argue that supply-side factors (pandemic disruptions, the Ukraine war's effect on energy prices) drove most of the inflation, and QE's contribution was secondary. The debate continues, and the answer probably involves both factors.
+Some economists argue that QE created the monetary conditions for inflation, pointing to the dramatic expansion of the money supply. Others argue that supply-side factors (pandemic disruptions, the Ukraine war's effect on energy prices) drove most of the inflation, and QE's contribution was secondary. The [debate](/debate) continues, and the answer probably involves both factors.
 
 **Did QE actually boost lending?** Banks accumulated massive excess reserves during QE, but lending growth was sluggish, particularly after 2008. Banks seemed to sit on reserves rather than lend them out—partly because demand for loans was weak (businesses and consumers were deleveraging) and partly because tighter post-crisis regulation made banks more cautious.
 
@@ -155,7 +155,7 @@ QE blurs the line between monetary policy and fiscal policy. When a central bank
 
 Unwinding QE—reducing the central bank's balance sheet—is called quantitative tightening (QT). In theory, it's the mirror image of QE: the central bank either sells assets or lets them mature without reinvesting the proceeds. Money flows from the financial system back to the central bank and effectively ceases to exist.
 
-The Fed began QT in October 2017, letting up to $50 billion per month in securities roll off its balance sheet. It halted in September 2019 after a sudden spike in overnight lending rates (the "repo market crisis") suggested the financial system was running low on reserves. The balance sheet had shrunk from $4.5 trillion to about $3.7 trillion—a reduction, but nowhere near pre-crisis levels.
+The Fed began QT in October 2017, letting up to $50 billion per month in securities roll off its balance sheet. It halted in September 2019 after a sudden spike in overnight lending rates (the "repo market crisis") suggested the financial system was [running](/running) low on reserves. The balance sheet had shrunk from $4.5 trillion to about $3.7 trillion—a reduction, but nowhere near pre-crisis levels.
 
 The Fed launched a second, faster QT in June 2022, allowing up to $95 billion per month in securities to mature without replacement. As of early 2026, the balance sheet has been reduced significantly but remains well above pre-pandemic levels.
 
@@ -183,6 +183,6 @@ Several questions will define QE's future:
 
 **Will QE be needed again?** If interest rates remain relatively low by historical standards, the next recession may again push rates to zero, requiring another round of QE. Having done it multiple times doesn't necessarily mean we've perfected it.
 
-**Are there better alternatives?** Some economists advocate for "helicopter money" (direct transfers to citizens), negative interest rates, or yield curve control (setting explicit targets for long-term rates) as alternatives to QE. Each has its own trade-offs and complications.
+**Are there better alternatives?** Some economists advocate for "helicopter money" (direct transfers to citizens), negative interest rates, or yield curve control (setting explicit targets for long-term rates) as alternatives to QE. Each has its own [trade](/trade)-offs and complications.
 
 Quantitative easing started as an experimental last resort in Japan and became the dominant monetary policy response to two of the 21st century's biggest [economic](/economics) crises. It prevented financial collapses, lowered borrowing costs, and supported recovery—while also raising asset prices disproportionately, potentially contributing to inflation, and stretching the limits of central bank authority. Whether history judges it as a necessary innovation or a dangerous experiment depends largely on what happens next—and on whether the [macroeconomics](/macroeconomics) profession can develop a clearer understanding of its effects before it's deployed again.

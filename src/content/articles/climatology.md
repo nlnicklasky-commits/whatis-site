@@ -5,7 +5,7 @@ description: "Climatology is the scientific study of climate patterns, causes, a
 category: science
 tags: ["climatology", "climate change", "earth science", "meteorology", "global warming", "climate", "environmental science"]
 heroImage: "/images/articles/climatology-hero.webp"
-heroAlt: "Satellite view of Earth showing cloud patterns and ocean currents from space"
+heroAlt: "Editorial photograph representing the concept of climatology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Climatology?
 
-Climatology is the scientific study of climate—the long-term patterns of temperature, precipitation, humidity, wind, and other atmospheric conditions that characterize a region over periods of decades to millions of years. Unlike meteorology, which forecasts tomorrow's weather, climatology examines why the Sahara is a desert, why monsoons drench South Asia every summer, and how Earth's climate has shifted between ice ages and warm periods throughout its 4.5-billion-year history. As human activity increasingly alters the global climate system, climatology has become one of the most consequential sciences of the 21st century.
+Climatology is the scientific study of climate—the long-term patterns of temperature, precipitation, humidity, wind, and other atmospheric conditions that characterize a region over periods of decades to millions of years. Unlike [meteorology](/meteorology), which forecasts tomorrow's weather, climatology examines why the Sahara is a desert, why monsoons drench South Asia every summer, and how Earth's climate has shifted between ice ages and warm periods throughout its 4.5-billion-year history. As human activity increasingly alters the global climate system, climatology has become one of the most consequential sciences of the 21st century.
 
 ## Climate vs. Weather: The Crucial Distinction
 
@@ -109,7 +109,7 @@ Thermometers, rain gauges, barometers, and wind vanes have provided direct measu
 
 The temperature record since 1850 is the primary evidence for recent warming—and it's been analyzed independently by multiple groups (NASA, NOAA, UK Met Office, Berkeley Earth) using different methods, all reaching the same conclusion: Earth's average surface temperature has risen approximately 1.1 degrees Celsius since the pre-industrial era.
 
-### Paleoclimatology: Reading Ancient Climate
+### [Paleoclimatology](/paleoclimatology): Reading Ancient Climate
 
 To understand climate before thermometers existed, climatologists use proxy records—natural systems that preserve climate information.
 
@@ -191,9 +191,9 @@ A 1.1-degree average warming might not sound like much. But global averages conc
 
 ## Climatology as a Career and Field
 
-Climatologists work in universities, government agencies (NASA, NOAA, EPA, national weather services worldwide), international organizations (IPCC, WMO), private consulting firms, and increasingly in the private sector (insurance companies need climate risk assessment, energy companies need climate projections for planning).
+Climatologists work in universities, [government](/government) agencies (NASA, NOAA, EPA, national weather services worldwide), international organizations (IPCC, WMO), private consulting firms, and increasingly in the private sector (insurance companies need climate risk assessment, energy companies need climate projections for planning).
 
-The field draws on physics, [chemistry](/chemistry), mathematics, computer science, and statistics. Modern climatology is heavily computational—running and analyzing climate models requires strong programming skills and statistical literacy.
+The field draws on physics, [chemistry](/chemistry), [mathematics](/mathematics), [computer science](/computer-science), and statistics. Modern climatology is heavily computational—running and analyzing climate models requires strong programming skills and statistical literacy.
 
 The Intergovernmental Panel on Climate Change (IPCC), established in 1988, coordinates climate science worldwide. Its assessment reports, produced roughly every 6-7 years, represent the most thorough synthesis of climate science available. The Sixth Assessment Report (2021-2023) involved hundreds of scientists from dozens of countries reviewing thousands of peer-reviewed studies.
 

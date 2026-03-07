@@ -5,7 +5,7 @@ description: "Real estate development is the process of creating value by improv
 category: business
 tags: ["real estate", "development", "property", "construction"]
 heroImage: "/images/articles/real-estate-development.webp"
-heroAlt: "An aerial view of a mixed-use development under construction with cranes and partially completed buildings"
+heroAlt: "Editorial photograph representing the concept of real estate development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
     a: "Entitlements are the legal approvals required before you can build. They include zoning changes, building permits, environmental clearances, subdivision approvals, and variances. Getting entitlements is often the hardest and most time-consuming part of development. A piece of land with entitlements in place is worth significantly more than the same land without them — sometimes 2-5 times more."
 ---
 
-# What Is Real Estate Development?
+# What Is [Real Estate](/real-estate) Development?
 
-Real estate development is the process of creating value by transforming land and buildings — buying raw or underused land, envisioning what could be built on it, securing the necessary approvals, arranging financing, overseeing construction, and delivering a finished product to buyers or tenants. It sits at the intersection of finance, construction, design, law, and local politics.
+Real estate development is the process of creating value by transforming land and buildings — buying raw or underused land, envisioning what could be built on it, securing the necessary approvals, arranging financing, overseeing [construction](/construction), and delivering a finished product to buyers or tenants. It sits at the intersection of [finance](/finance), construction, design, law, and local [politics](/politics).
 
 ## Not Just Building Things
 
@@ -73,9 +73,9 @@ This is where projects live or die. Entitlements are the legal permissions to bu
 
 Community opposition (sometimes called NIMBYism — "Not In My Back Yard") can stall or kill projects. Public hearings, design review boards, environmental impact reports, and appeals all add time and uncertainty. Smart developers engage with the community early, but there's no guarantee of success.
 
-### Step 5: Design and Engineering
+### Step 5: Design and [Engineering](/engineering)
 
-Architects design the building. Civil engineers design the site work (grading, drainage, utilities). Structural engineers ensure the building won't fall down. MEP engineers design mechanical, electrical, and plumbing systems. Each discipline produces detailed construction documents — the blueprints that contractors will build from.
+Architects design the building. Civil engineers design the site work (grading, drainage, utilities). Structural engineers ensure the building won't fall down. MEP engineers design mechanical, electrical, and [plumbing](/plumbing) systems. Each discipline produces detailed construction documents — the blueprints that contractors will build from.
 
 Design is iterative. The architect's initial concept gets refined as engineers identify constraints, costs are estimated, and market feedback is incorporated. The goal is a design that's attractive, functional, buildable, and affordable.
 
@@ -93,13 +93,13 @@ Development financing is complex and layered. A typical capital stack includes:
 
 ### Step 7: Construction
 
-The developer selects a general contractor (GC) through competitive bidding or negotiation. The GC manages the actual building process, coordinating dozens of subcontractors — concrete, framing, electrical, plumbing, HVAC, roofing, finishing.
+The developer selects a general contractor (GC) through competitive bidding or [negotiation](/negotiation). The GC manages the actual building process, coordinating dozens of subcontractors — concrete, framing, electrical, plumbing, HVAC, [roofing](/roofing), finishing.
 
 Construction timelines range from months (for a simple residential project) to years (for a skyscraper or large mixed-use development). Cost overruns are the developer's constant nightmare. Steel prices spike, labor shortages cause delays, unexpected soil conditions require design changes, a subcontractor goes bankrupt mid-project.
 
 The developer doesn't swing hammers. They manage the process: tracking budget, monitoring schedule, resolving disputes, making decisions, and staying in communication with lenders who release funds in stages as construction milestones are met (this is called "draw schedule" financing).
 
-### Step 8: Marketing, Leasing, and Sales
+### Step 8: [Marketing](/marketing), Leasing, and Sales
 
 Depending on the project type, the developer either sells completed units (condos, houses) or leases space (apartments, offices, retail). Marketing often begins during construction — "pre-sales" or "pre-leasing" reduces financial risk because you have commitments before the building is finished.
 
@@ -121,7 +121,7 @@ The project is "stabilized" when it reaches target occupancy — usually 90-95% 
 
 ## Risk — The Defining Feature
 
-Real estate development is risky in ways that buying existing property isn't. You're spending money for years before generating any revenue. Market conditions can shift between the day you start and the day you finish. Construction costs are notoriously hard to predict. Government approvals are never guaranteed.
+Real estate development is risky in ways that buying existing property isn't. You're spending money for years before generating any revenue. Market conditions can shift between the day you start and the day you finish. Construction costs are notoriously hard to predict. [Government](/government) approvals are never guaranteed.
 
 The 2008 financial crisis devastated developers. Projects started during the boom years of 2005-2007 were completed into a market with collapsed demand, frozen credit markets, and plunging property values. Many developers went bankrupt. Some projects sat half-built for years.
 

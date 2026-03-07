@@ -5,7 +5,7 @@ description: "Classical guitar is a nylon-stringed acoustic instrument with cent
 category: arts-amp-culture
 tags: ["classical guitar", "guitar", "music", "classical music", "flamenco", "nylon strings"]
 heroImage: "/images/articles/classical-guitar.webp"
-heroAlt: "A classical guitar resting against a wooden chair in a warmly lit practice room"
+heroAlt: "Editorial photograph representing the concept of classical guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Classical Guitar?
 
-Classical guitar is a style of guitar playing — and a specific type of instrument — rooted in centuries of Western art music tradition. The instrument uses nylon strings (historically gut strings) and is played with the fingers rather than a pick, producing a warm, resonant tone that's distinct from steel-string acoustic or electric guitars.
+Classical guitar is a style of guitar playing — and a specific type of instrument — rooted in centuries of [Western art](/western-art) music tradition. The instrument uses nylon strings (historically gut strings) and is played with the fingers rather than a pick, producing a warm, resonant tone that's distinct from steel-string acoustic or electric guitars.
 
 ## A Quick History That Isn't So Quick
 
@@ -39,7 +39,7 @@ The guitar's ancestors go way back. We're talking 4,000 years, at least. Ancient
 
 Torres redesigned the guitar's body around 1850, making it larger and introducing a fan-bracing pattern beneath the soundboard. This gave the instrument more volume and a richer tone — basically turning it from a parlor curiosity into something that could fill a concert hall. His design became the template that builders still follow today.
 
-Before Torres, the guitar had been overshadowed by the [piano](/piano) and [violin](/violin) in serious music circles. It was considered a drawing-room instrument, nice for accompanying songs but not quite worthy of the concert stage. That perception started shifting in the early 1900s when Andres Segovia began performing solo recitals and commissioning new works from major composers.
+Before Torres, the guitar had been overshadowed by the [piano](/piano) and [violin](/violin) in serious music circles. It was considered a [drawing](/drawing)-room instrument, nice for accompanying songs but not quite worthy of the concert stage. That perception started shifting in the early 1900s when Andres Segovia began performing solo recitals and commissioning new works from major composers.
 
 Segovia's influence is hard to overstate. He took an instrument most classical musicians dismissed and made it impossible to ignore. By the mid-20th century, classical guitar had earned a permanent spot in conservatories worldwide.
 
@@ -67,15 +67,15 @@ Classical guitar has a surprisingly deep library of music spanning several centu
 
 The Baroque period (1600-1750) produced music by Gaspar Sanz, Robert de Visee, and others writing for the five-course Baroque guitar. Then came the Classical period with Fernando Sor, Mauro Giuliani, and Dionisio Aguado — these guys basically wrote the textbook on guitar technique.
 
-The 20th century brought an explosion of new repertoire. Composers who'd never touched a guitar started writing for it: Heitor Villa-Lobos (whose 12 Etudes are standard repertoire), Manuel de Falla, Joaquin Rodrigo (his *Concierto de Aranjuez* is probably the most famous guitar concerto ever written), and Benjamin Britten.
+The 20th century brought an explosion of new repertoire. Composers who'd never touched [a guitar](/guitar) started writing for it: Heitor Villa-Lobos (whose 12 Etudes are standard repertoire), Manuel de Falla, Joaquin Rodrigo (his *Concierto de Aranjuez* is probably the most famous guitar concerto ever written), and Benjamin Britten.
 
-Today, new works continue to expand the catalog. Composers like Leo Brouwer, Roland Dyens, and Nikita Koshkin have pushed the instrument into modern and avant-garde territory. You'll hear everything from extended techniques (tapping the body, playing harmonics in unusual ways) to influences from [jazz](/jazz-music) and world music traditions.
+Today, new works continue to expand the catalog. Composers like Leo Brouwer, Roland Dyens, and Nikita Koshkin have pushed the instrument into modern and avant-garde territory. You'll hear everything from extended techniques (tapping the body, playing harmonics in unusual ways) to influences from [jazz](/jazz-music) and [world music](/world-music) traditions.
 
 ## Flamenco — The Fiery Cousin
 
 Flamenco guitar shares DNA with classical guitar, but the two have very different personalities. Flamenco uses a lighter guitar (often with cypress back and sides, and a lower action), and the technique emphasizes percussive effects — rasgueados (rapid strumming with individual fingers), golpe (tapping the soundboard), and alzapua (thumb technique).
 
-The sound is rawer, more aggressive, more rhythmically driven. Classical guitar tends toward refinement and tonal beauty. Flamenco goes for emotional intensity and rhythmic fire. Many guitarists study both, and the cross-pollination between the two styles has produced some extraordinary music.
+The sound is rawer, more aggressive, more rhythmically driven. Classical guitar tends toward refinement and tonal beauty. Flamenco goes for emotional intensity and rhythmic fire. Many guitarists study both, and the cross-[pollination](/pollination) between the two styles has produced some extraordinary music.
 
 ## Learning Classical Guitar Today
 

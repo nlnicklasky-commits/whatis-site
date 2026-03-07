@@ -5,7 +5,7 @@ description: "Angling is the sport of catching fish using a hook, line, and rod.
 category: sports
 tags: ["angling", "fishing", "sport fishing", "recreational fishing", "fish hook", "fly fishing"]
 heroImage: "/images/articles/angling.webp"
-heroAlt: "Person casting a fishing line into a calm lake at sunrise with mountains in the background"
+heroAlt: "Editorial photograph representing the concept of angling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Angling?
 
-Angling is the practice of catching fish using a hook attached to a line, typically cast with a rod and reel. It's one of the oldest and most popular recreational activities in the world, with an estimated 50 million Americans fishing at least once a year.
+Angling is the practice of catching fish using a hook attached to a line, typically cast with a rod and reel. It's one of the oldest and most popular recreational activities in the world, with an estimated 50 million Americans [fishing](/fishing) at least once a year.
 
 ## Ancient Hooks, Modern Obsession
 
 People have been angling for thousands of years. Fish hooks made from bone and shell date back at least 40,000 years. Ancient Egyptians depicted recreational fishing in tomb paintings around 2000 BCE, and the Chinese were using silk lines and iron hooks by roughly 400 BCE.
 
-The first real book on sport fishing — *The Compleat Angler* by Izaak Walton — was published in 1653 and has never gone out of print. Walton treated angling as meditation, philosophy, and nature study all wrapped into one activity. That romantic view of fishing persists today, even as the gear has become absurdly sophisticated.
+The first real book on sport fishing — *The Compleat Angler* by Izaak Walton — was published in 1653 and has never gone out of print. Walton treated angling as [meditation](/meditation), [philosophy](/philosophy), and nature study all wrapped into one activity. That romantic view of fishing persists today, even as the gear has become absurdly sophisticated.
 
-The modern fishing industry generates over $48 billion annually in the U.S. alone. That figure includes rods, reels, boats, electronics, bait, clothing, travel, and the roughly 800,000 jobs that recreational fishing supports. Not bad for sitting by the water with a stick and some string.
+The modern fishing industry generates over $48 billion annually in the U.S. alone. That figure includes rods, reels, boats, [electronics](/electronics), bait, clothing, travel, and the roughly 800,000 jobs that recreational fishing supports. Not bad for sitting by the water with a stick and some string.
 
 ## The Main Types of Angling
 
@@ -59,7 +59,7 @@ Surf casting — standing on a beach and casting into the waves — is popular a
 
 Fly fishing is the art-school cousin of conventional angling. Instead of using weighted lures or bait, fly anglers cast nearly weightless artificial flies made from feathers, fur, and thread. The casting technique is completely different — you're throwing the line itself, not the lure, using a rhythmic back-and-forth motion that takes genuine practice to master.
 
-Trout streams in Montana, salmon rivers in Scotland, bonefish flats in the Bahamas — fly fishing has a geography of its own. There's also an entire subculture of fly tying, where anglers handcraft their own flies to imitate specific insects. It gets obsessive. And oddly meditative.
+Trout streams in Montana, salmon rivers in Scotland, bonefish flats in the Bahamas — fly fishing has a [geography](/geography) of its own. There's also an entire subculture of fly tying, where anglers handcraft their own flies to imitate specific insects. It gets obsessive. And oddly meditative.
 
 ### Ice Fishing
 
@@ -97,4 +97,4 @@ But angling does face [environmental](/ecology) challenges. Overfishing of certa
 
 Here's the honest truth: you can start fishing with about $30 worth of gear from any sporting goods store. A basic spinning rod and reel combo, some hooks, a bobber, a few weights, and a container of worms will catch fish in virtually any pond or lake.
 
-The learning curve is gentle. Cast out, wait, set the hook when you feel a bite. Everything after that — reading water, matching hatches, understanding seasonal patterns, mastering different techniques — is a lifetime of learning that people find genuinely addictive. There's always another species to target, another technique to try, another body of water to explore. Which is probably why Izaak Walton was still writing about it 370 years ago.
+The learning curve is gentle. Cast out, wait, set the hook when you feel a bite. Everything after that — reading water, matching hatches, understanding seasonal patterns, mastering different techniques — is a lifetime of learning that people find genuinely addictive. There's always another species to target, another technique to try, another body of water to explore. Which is probably why Izaak Walton was still [writing](/writing) about it 370 years ago.

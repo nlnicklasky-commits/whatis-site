@@ -5,7 +5,7 @@ description: "Historical conspiracy theories are alternative explanations for pa
 category: everyday-concepts
 tags: ["historical conspiracy theories", "history", "critical thinking", "misinformation", "skepticism"]
 heroImage: "/images/articles/historical-conspiracy-theories.webp"
-heroAlt: "Vintage corkboard covered in newspaper clippings connected by red string"
+heroAlt: "Editorial photograph representing the concept of historical conspiracy theories"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Historical Conspiracy Theories?
 
-Historical conspiracy theories are alternative explanations for past events that propose hidden agents, secret plots, or covered-up truths behind what actually happened. They reject official or mainstream accounts in favor of narratives involving powerful groups acting in secret to shape history. Some turned out to be true. Most did not.
+Historical conspiracy theories are alternative explanations for past events that propose hidden agents, secret plots, or covered-up truths behind what actually happened. They reject official or mainstream accounts in favor of narratives involving powerful groups [acting](/acting) in secret to shape history. Some turned out to be true. Most did not.
 
 ## The Difference Between Conspiracy and Conspiracy Theory
 
-This distinction matters. A **conspiracy** is a real, documented plan by a group to do something secretive or harmful. They happen all the time. Watergate was a conspiracy. The Enron accounting scandal was a conspiracy. The NSA mass surveillance revealed by Edward Snowden was a conspiracy. These are verified by evidence, investigations, and admissions.
+This distinction matters. A **conspiracy** is a real, documented plan by a group to do something secretive or harmful. They happen all the time. Watergate was a conspiracy. The Enron [accounting](/accounting) scandal was a conspiracy. The NSA mass surveillance revealed by Edward Snowden was a conspiracy. These are verified by evidence, investigations, and admissions.
 
 A **conspiracy theory** is a proposed explanation that alleges a conspiracy *without* sufficient evidence — or against the weight of available evidence. It fills gaps in understanding with speculation about hidden actors and suppressed information.
 
-The tricky part? Sometimes conspiracy theories turn out to be true. The U.S. government really did conduct mind control experiments (MKUltra). Tobacco companies really did conspire to hide evidence that smoking causes cancer. The Gulf of Tonkin incident really was exaggerated to justify the Vietnam War. History gives conspiracy theorists just enough wins to keep the enterprise going.
+The tricky part? Sometimes conspiracy theories turn out to be true. The U.S. [government](/government) really did conduct mind control experiments (MKUltra). Tobacco companies really did conspire to hide evidence that smoking causes cancer. The Gulf of Tonkin incident really was exaggerated to justify the Vietnam War. History gives conspiracy theorists just enough wins to keep the enterprise going.
 
 ## Famous Historical Examples
 
@@ -47,15 +47,15 @@ The tricky part? Sometimes conspiracy theories turn out to be true. The U.S. gov
 
 **The Moon landing "hoax" (1969)** claims NASA faked the Apollo 11 landing, usually on a movie set. Proponents point to flag movement in the vacuum of space, missing stars in photographs, and duplicate backgrounds. Every objection has been thoroughly debunked — the flag had a horizontal rod, cameras were set for bright surfaces (washing out stars), and the "duplicate backgrounds" are different hills at different distances. About 6% of Americans still believe the landings were faked.
 
-**The Illuminati** started as a real Bavarian secret society founded in 1776, dissolved by government order in 1785. The conspiracy theory version claims they survived and secretly control governments, banks, and media worldwide. This theory has been running for over 200 years, absorbing new targets (the Federal Reserve, the United Nations, various tech companies) as it goes.
+**The Illuminati** started as a real Bavarian secret society founded in 1776, dissolved by government order in 1785. The conspiracy theory version claims they survived and secretly control governments, banks, and media worldwide. This theory has been [running](/running) for over 200 years, absorbing new targets (the Federal Reserve, the United Nations, various tech companies) as it goes.
 
 **Ancient aliens** theories propose that extraterrestrial visitors built the pyramids, Stonehenge, and other ancient monuments — because, the reasoning goes, ancient humans could not have managed it themselves. This theory, popularized by Erich von Daniken's 1968 book *Chariots of the Gods*, is frankly insulting to the civilizations that actually did the work. The Egyptians left detailed records of how they built the pyramids. We have the quarry marks, the workers' villages, the administrative papyri.
 
 ## Why Conspiracy Theories Stick
 
-The psychology behind conspiracy belief is well-studied, and it is more nuanced than "people are gullible."
+The [psychology](/psychology) behind conspiracy belief is well-studied, and it is more nuanced than "people are gullible."
 
-**Pattern recognition gone wrong.** Your brain is wired to detect patterns — it is one of humanity's most useful cognitive abilities. But the same system that helped our ancestors spot a predator in tall grass also sees meaningful connections in random data. Coincidences feel like evidence.
+**[Pattern recognition](/pattern-recognition) gone wrong.** Your brain is wired to detect patterns — it is one of humanity's most useful cognitive abilities. But the same system that helped our ancestors spot a predator in tall grass also sees meaningful connections in random data. Coincidences feel like evidence.
 
 **Proportionality bias.** People expect big events to have big causes. A lone, troubled individual assassinating a president feels insufficient to explain the magnitude of the event. A massive conspiracy involving powerful agencies feels more proportional. This is not logical, but it is deeply human.
 

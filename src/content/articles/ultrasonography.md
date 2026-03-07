@@ -5,7 +5,7 @@ description: "Ultrasonography uses high-frequency sound waves to create images i
 category: health-amp-wellness
 tags: ["ultrasonography", "ultrasound", "medical imaging", "diagnostics"]
 heroImage: "/images/articles/ultrasonography.webp"
-heroAlt: "A medical ultrasound transducer on a patient's abdomen showing a fetal image on the monitor"
+heroAlt: "Editorial photograph representing the concept of ultrasonography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 # What Is Ultrasonography?
 
-Ultrasonography is a medical imaging technique that uses high-frequency sound waves — well above what your ears can hear — to produce real-time pictures of structures inside the body. If you've ever seen a grainy black-and-white image of a baby in the womb, you've seen an ultrasound. But pregnancy monitoring is just one of dozens of applications. Doctors use ultrasound to examine the heart, liver, kidneys, blood vessels, thyroid, and much more — all without a single incision or dose of radiation.
+Ultrasonography is a [medical imaging](/medical-imaging) technique that uses high-frequency sound waves — well above what your ears can hear — to produce real-time pictures of structures inside the body. If you've ever seen a grainy black-and-white image of a baby in the womb, you've seen an ultrasound. But pregnancy monitoring is just one of dozens of applications. Doctors use ultrasound to examine the heart, liver, kidneys, blood vessels, thyroid, and much more — all without a single incision or dose of radiation.
 
 ## How Sound Becomes a Picture
 
-The basic physics are surprisingly elegant.
+The basic [physics](/physics) are surprisingly elegant.
 
-An ultrasound machine contains a device called a transducer (the thing the technician presses against your skin). Inside the transducer are special crystals — usually made of lead zirconate titanate — that vibrate when electricity hits them, producing sound waves at frequencies between 1 and 20 megahertz (MHz). For reference, human hearing tops out around 20,000 Hz. Ultrasound starts at 1,000,000 Hz. You can't hear any of it.
+An ultrasound machine contains a device called a transducer (the thing the technician presses against your skin). Inside the transducer are special crystals — usually made of lead zirconate titanate — that vibrate when [electricity](/electricity) hits them, producing sound waves at frequencies between 1 and 20 megahertz (MHz). For reference, human hearing tops out around 20,000 Hz. Ultrasound starts at 1,000,000 Hz. You can't hear any of it.
 
 These sound waves travel into your body. When they hit a boundary between two different tissues — say, the edge of a kidney or a pocket of fluid — some of the sound bounces back to the transducer. The crystals work in reverse too: incoming sound waves make them vibrate, generating tiny electrical signals. A computer measures the strength and timing of those return echoes and builds an image.
 
@@ -59,11 +59,11 @@ This is why the same ultrasound machine often uses different transducers for dif
 
 ## A Brief History of Seeing with Sound
 
-Ultrasound's roots go back to the Titanic — or more accurately, to the response to it. After the ship sank in 1912, engineers raced to develop underwater detection systems. Paul Langevin built an early sonar device during World War I, using piezoelectric crystals to send and receive sound waves underwater.
+Ultrasound's roots go back to the Titanic — or more accurately, to the response to it. After the ship sank in 1912, engineers raced to develop underwater detection systems. Paul Langevin built an early sonar device during [World War I](/world-war-i), using piezoelectric crystals to send and receive sound waves underwater.
 
 Medical applications came decades later. In the late 1940s and 1950s, researchers in several countries independently began experimenting with ultrasound for medical diagnosis. Karl Theodore Dussik in Austria attempted to image brain tumors with ultrasound as early as 1942, though his results were inconclusive.
 
-The real breakthrough came from Ian Donald, a Scottish obstetrician, in the late 1950s. Donald was fascinated by industrial ultrasound equipment used to detect flaws in metal. He borrowed a device from a shipbuilding company, pointed it at a patient's abdomen, and managed to distinguish between a benign cyst and a solid tumor. His 1958 paper in *The Lancet* is considered a landmark in medical ultrasound history.
+The real breakthrough came from Ian Donald, a Scottish obstetrician, in the late 1950s. Donald was fascinated by industrial ultrasound equipment used to detect flaws in metal. He borrowed a device from a [shipbuilding](/shipbuilding) company, pointed it at a patient's abdomen, and managed to distinguish between a benign cyst and a solid tumor. His 1958 paper in *The Lancet* is considered a landmark in medical ultrasound history.
 
 By the 1970s, real-time ultrasound machines were commercially available. By the 1980s, prenatal ultrasound was routine in most developed countries. Today, ultrasound machines range from room-sized hospital units to handheld devices the size of a smartphone that cost under $2,000.
 
@@ -73,7 +73,7 @@ The list is longer than most people expect.
 
 ### Obstetrics and Gynecology
 
-This is the application everyone knows. Prenatal ultrasound confirms pregnancy, estimates gestational age, checks for multiple pregnancies, monitors fetal growth, evaluates the placenta, and screens for certain abnormalities. Most pregnant women in developed countries receive at least two ultrasound exams — one in the first trimester (to confirm dating and viability) and one around 18-22 weeks (the "anatomy scan" that checks major organ systems).
+This is the application everyone knows. Prenatal ultrasound confirms pregnancy, estimates gestational age, checks for multiple pregnancies, monitors fetal growth, evaluates the placenta, and screens for certain abnormalities. Most pregnant women in developed countries receive at least two ultrasound exams — one in the first trimester (to confirm dating and viability) and one around 18-22 weeks (the "[anatomy](/anatomy) scan" that checks major organ systems).
 
 Ultrasound is also used in gynecology to evaluate ovarian cysts, uterine fibroids, endometrial thickness, and causes of pelvic pain or abnormal bleeding.
 
@@ -95,7 +95,7 @@ Doppler ultrasound measures blood flow. It can detect blood clots in the legs (d
 
 ### Musculoskeletal
 
-Sports medicine doctors and orthopedists increasingly use ultrasound to evaluate tendons, ligaments, muscles, and joints. It's particularly good for rotator cuff tears, tennis elbow, carpal tunnel syndrome, and plantar fasciitis. Because it's real-time, doctors can watch tendons move as the patient flexes or extends — something MRI can't easily do.
+Sports medicine doctors and orthopedists increasingly use ultrasound to evaluate tendons, ligaments, muscles, and joints. It's particularly good for rotator cuff tears, [tennis](/tennis) elbow, carpal tunnel syndrome, and plantar fasciitis. Because it's real-time, doctors can watch tendons move as the patient flexes or extends — something MRI can't easily do.
 
 ### Guided Procedures
 
@@ -111,7 +111,7 @@ This might be ultrasound's most underappreciated use. Doctors routinely use real
 
 **4D ultrasound** is 3D in real time — essentially a 3D video. It looks impressive, but its clinical value beyond standard 2D imaging is debated.
 
-**Transesophageal echocardiography (TEE)** involves swallowing a small ultrasound probe to get extremely detailed images of the heart from behind, bypassing the ribs and lungs that can obstruct transthoracic views. It's used during heart surgery and to detect blood clots in the heart.
+**Transesophageal echocardiography (TEE)** involves swallowing a small ultrasound probe to get extremely detailed images of the heart from behind, bypassing the ribs and lungs that can obstruct transthoracic views. It's used during heart [surgery](/surgery) and to detect blood clots in the heart.
 
 **Endoscopic ultrasound (EUS)** combines endoscopy with ultrasound, placing the transducer inside the gastrointestinal tract to image the pancreas, bile ducts, and surrounding structures. It's particularly valuable for staging certain cancers.
 
@@ -129,7 +129,7 @@ Ultrasound technology is moving fast in a few specific directions.
 
 **Miniaturization** is the most visible trend. Handheld, phone-connected devices like the Butterfly iQ (FDA-cleared in 2017) put diagnostic ultrasound in a doctor's coat pocket. These devices cost a fraction of traditional machines and are increasingly used in emergency rooms, ambulances, and resource-limited settings.
 
-**Artificial intelligence** is being applied to image interpretation. AI algorithms can now measure fetal biometry, detect cardiac abnormalities, and identify gallstones with accuracy that matches experienced sonographers. This could be especially valuable in areas where trained ultrasonographers are scarce.
+**[Artificial intelligence](/artificial-intelligence)** is being applied to image interpretation. AI [algorithms](/algorithms) can now measure fetal biometry, detect cardiac abnormalities, and identify gallstones with accuracy that matches experienced sonographers. This could be especially valuable in areas where trained ultrasonographers are scarce.
 
 **Contrast-enhanced ultrasound (CEUS)** uses microbubble contrast agents injected into the bloodstream to dramatically improve imaging of blood flow in organs. It's increasingly used to characterize liver tumors without the radiation of CT or the cost of MRI.
 

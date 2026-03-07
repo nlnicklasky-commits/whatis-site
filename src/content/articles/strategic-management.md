@@ -5,7 +5,7 @@ description: "Strategic management is how organizations set goals, analyze compe
 category: business
 tags: ["management", "strategic management", "business strategy", "planning"]
 heroImage: "/images/articles/strategic-management.webp"
-heroAlt: "Business team reviewing strategy documents and charts on a conference table"
+heroAlt: "Editorial photograph representing the concept of strategic management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,23 +65,23 @@ Before you can make strategic decisions, you need to understand the playing fiel
 
 - **The Resource-Based View (RBV)**, developed by Jay Barney, argues that competitive advantage comes from resources and capabilities that are Valuable, Rare, costly to Imitate, and supported by the Organization (the VRIO framework). Disney's brand, Apple's design capabilities, and Toyota's production system are examples of VRIO resources.
 
-- **Value chain analysis** (another Porter contribution) breaks down a company's activities into primary activities (operations, logistics, marketing, service) and support activities (HR, technology, procurement), looking for sources of competitive advantage in each.
+- **Value chain analysis** (another Porter contribution) breaks down a company's activities into primary activities (operations, [logistics](/logistics), [marketing](/marketing), service) and support activities (HR, technology, procurement), looking for sources of competitive advantage in each.
 
 ### 2. Strategy Formulation
 
 This is where actual decisions get made. Strategy formulation happens at three levels:
 
-**Corporate strategy** — What businesses should we be in? This is the big-picture question for diversified companies. Should General Electric be in healthcare, aviation, and energy, or should it focus? (GE eventually chose to break up into three separate companies.) Options include vertical integration, diversification, mergers and acquisitions, and strategic alliances.
+**Corporate strategy** — What businesses should we be in? This is the big-picture question for diversified companies. Should General Electric be in healthcare, [aviation](/aviation), and energy, or should it focus? (GE eventually chose to break up into three separate companies.) Options include vertical integration, diversification, mergers and acquisitions, and strategic alliances.
 
-**Business strategy** — How do we compete within a particular business? Porter's generic strategies are the classic framework here:
+**[Business strategy](/business-strategy)** — How do we compete within a particular business? Porter's generic strategies are the classic framework here:
 
-- **Cost leadership** — Be the lowest-cost producer (Walmart, Ryanair)
+- **Cost [leadership](/leadership)** — Be the lowest-cost producer (Walmart, Ryanair)
 - **Differentiation** — Offer something unique that customers value (Apple, Tesla)
 - **Focus** — Concentrate on a narrow market segment, competing on either cost or differentiation (Rolls-Royce, Trader Joe's)
 
 The trap is trying to do everything — being "stuck in the middle," in Porter's terminology. Companies that don't make clear choices about how to compete usually get beaten by companies that do.
 
-**Functional strategy** — How should individual departments (marketing, operations, finance, HR) support the business strategy? If the business strategy is cost leadership, the operations strategy should emphasize efficiency, lean manufacturing, and economies of scale. If it's differentiation, R&D and marketing might deserve the lion's share of resources.
+**Functional strategy** — How should individual departments (marketing, operations, [finance](/finance), HR) support the business strategy? If the business strategy is cost leadership, the operations strategy should emphasize efficiency, [lean manufacturing](/lean-manufacturing), and economies of scale. If it's differentiation, R&D and marketing might deserve the lion's share of resources.
 
 ### 3. Strategy Implementation
 
@@ -114,7 +114,7 @@ Strategic management theory has evolved through several phases:
 
 **The Blue Ocean Strategy (2005)** — W. Chan Kim and Renee Mauborgne argued that companies should stop fighting over existing market space ("red oceans") and instead create uncontested market space ("blue oceans"). Cirque du Soleil is the classic example — they created something that wasn't quite circus and wasn't quite theater, avoiding competition with either.
 
-**The Adaptive/Agile School (2010s-present)** — In rapidly changing environments, traditional strategic planning (three-to-five-year plans) is increasingly irrelevant by the time it's finished. This school emphasizes experimentation, rapid iteration, and the ability to pivot quickly — borrowing heavily from technology startup methodology.
+**The Adaptive/Agile School (2010s-present)** — In rapidly changing environments, traditional [strategic planning](/strategic-planning) (three-to-five-year plans) is increasingly irrelevant by the time it's finished. This school emphasizes experimentation, rapid iteration, and the ability to pivot quickly — borrowing heavily from technology startup methodology.
 
 ## Common Strategic Mistakes
 

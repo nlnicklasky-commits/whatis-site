@@ -5,7 +5,7 @@ description: "Human factors engineering designs systems around human abilities a
 category: technology
 tags: ["human factors", "ergonomics", "user-centered design", "usability", "safety", "cognitive psychology", "system design"]
 heroImage: "/images/articles/human-factors-hero.webp"
-heroAlt: "Ergonomic workstation with adjustable monitor, keyboard tray, and task lighting designed for comfort"
+heroAlt: "Editorial photograph representing the concept of human factors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ Human factors emerged largely from catastrophic failures — events where the ga
 
 During WWII, pilots were crashing perfectly functional aircraft at alarming rates. Not in combat — during routine operations. They were landing with wheels up, retracting flaps instead of landing gear, and misreading instruments.
 
-The military's initial response was predictable: better pilot training. But psychologist Alphonse Chapanis noticed something that training couldn't fix: the controls for flaps and landing gear looked and felt identical, and they were located right next to each other. Pilots under stress were grabbing the wrong lever.
+The military's initial response was predictable: better [pilot training](/pilot-training). But psychologist Alphonse Chapanis noticed something that training couldn't fix: the controls for flaps and landing gear looked and felt identical, and they were located right next to each other. Pilots under stress were grabbing the wrong lever.
 
 Chapanis's solution was elegant: shape-code the controls. Put a small wheel shape on the landing gear lever and a flap shape on the flap lever. Pilots could tell which was which by touch alone. Landing gear accidents dropped dramatically. No retraining needed — just a design change that matched the system to human capabilities.
 
@@ -108,7 +108,7 @@ Chair design illustrates the complexity. A good office chair supports the lumbar
 
 This branch studies how humans process information, make decisions, maintain attention, and form mental models of systems. It's where human factors overlaps most with [cognitive psychology](/cognitive-psychology).
 
-**Attention** is limited. Despite popular belief, multitasking is largely a myth — humans don't do two cognitive tasks simultaneously; they switch between them rapidly, with performance costs at each switch. Studies show that task-switching can reduce productivity by up to 40%. For safety-critical operations, the implication is clear: design systems to minimize required multitasking.
+**Attention** is limited. Despite popular belief, multitasking is largely a myth — humans don't do two cognitive tasks simultaneously; they switch between them rapidly, with performance costs at each switch. Studies show that task-switching can reduce [productivity](/productivity) by up to 40%. For safety-critical operations, the implication is clear: design systems to minimize required multitasking.
 
 **Working memory** holds about 4 items for about 20 seconds without rehearsal. Any interface that requires users to remember more than 4 pieces of information simultaneously is overloading working memory. Phone numbers, social security numbers, and credit card numbers are all chunked into groups of 3-4 digits for this reason.
 
@@ -122,7 +122,7 @@ The third pillar addresses how organizations, teams, and work processes affect h
 
 Research shows that 12-hour shifts increase error rates compared to 8-hour shifts, that rotating shifts (alternating between day and night) are more disruptive than fixed schedules, and that sleep debt accumulates and cannot be recovered on a single night off.
 
-Team communication is another organizational factor. Crew Resource Management (CRM) in aviation — a structured approach to team communication, workload management, and authority gradient flattening — has measurably reduced aviation accidents. Before CRM, junior crew members sometimes failed to speak up about problems because of authority dynamics. CRM explicitly trains crews to voice concerns and captains to listen to them.
+Team communication is another organizational factor. Crew [Resource Management](/resource-management) (CRM) in aviation — a structured approach to team communication, workload management, and authority gradient flattening — has measurably reduced aviation accidents. Before CRM, junior crew members sometimes failed to speak up about problems because of authority dynamics. CRM explicitly trains crews to voice concerns and captains to listen to them.
 
 ## Design Principles That Save Lives
 
@@ -171,7 +171,7 @@ You encounter human factors design — good and bad — constantly.
 
 **Software**: The [algorithms](/algorithms) behind autocorrect, predictive text, and search suggestions are human factors applications. They anticipate human input errors and reduce the cost of mistakes. Email systems that detect the word "attached" but no attachment prompt you before sending — a simple forcing function that prevents a common error.
 
-**Architecture**: Building codes that require push bars on exit doors (not pull handles) reflect decades of data on panic behavior. During fires, panicked crowds push toward exits. If the door requires pulling, people crush against it. Push bars ensure the crowd's natural behavior opens the door.
+**[Architecture](/architecture)**: Building codes that require push bars on exit doors (not pull handles) reflect decades of data on panic behavior. During fires, panicked crowds push toward exits. If the door requires pulling, people crush against it. Push bars ensure the crowd's natural behavior opens the door.
 
 ## The Economics of Getting It Wrong
 
@@ -208,7 +208,7 @@ Age-inclusive design benefits younger users too. Larger text, better contrast, s
 
 **Human-AI teaming** is the field's most pressing frontier. As [artificial intelligence](/artificial-intelligence) systems take on more decision-making roles, human factors must determine how to divide responsibilities between humans and AI, how to calibrate trust (neither over-trusting nor under-trusting AI recommendations), and how to maintain meaningful human control over automated systems.
 
-**Neuroergonomics** combines neuroscience with ergonomics, using brain imaging and physiological measures to assess cognitive workload, fatigue, and stress in real time. Future systems could detect when an operator is overloaded and redistribute tasks accordingly.
+**Neuroergonomics** combines [neuroscience](/neuroscience) with ergonomics, using brain imaging and physiological measures to assess cognitive workload, fatigue, and stress in real time. Future systems could detect when an operator is overloaded and redistribute tasks accordingly.
 
 **Resilience engineering** shifts focus from preventing failures to building systems that can adapt when unexpected situations arise. Rather than designing for every foreseeable scenario, resilience engineering designs for adaptability — giving humans the tools, authority, and information to improvise when things go wrong in ways nobody predicted.
 

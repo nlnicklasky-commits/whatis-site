@@ -5,7 +5,7 @@ description: Heraldry is the system of designing, displaying, and regulating coa
 category: history
 tags: ["heraldry", "coats of arms", "medieval", "genealogy", "symbols"]
 heroImage: "/images/articles/heraldry.webp"
-heroAlt: "Colorful medieval coat of arms shield with lions, eagles, and heraldic symbols on a stone castle wall"
+heroAlt: "Editorial photograph representing the concept of heraldry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,15 +41,15 @@ Heraldry is the formal system for designing, displaying, describing, and regulat
 
 The origin story of heraldry is surprisingly practical. Picture a medieval battlefield around 1100-1150 CE. Knights wore full armor — chain mail, then later plate armor — covering them head to toe. Helmets obscured faces. In the chaos of battle, you couldn't tell friend from foe. Commanders couldn't identify their own troops. Knights couldn't find their liege lords. It was a mess.
 
-The solution was painting distinctive designs on shields. A knight could display his personal emblem — a lion, a cross, a series of stripes — on his shield, his horse's covering (the caparison), and his surcoat (the cloth worn over armor, which is why coats of arms are called *coats* of arms). Suddenly, identity was visible from a distance. Your allies could find you. Your enemies knew who they were fighting. Heralds — the officials who organized tournaments and battles — could identify participants by their arms.
+The solution was [painting](/painting) distinctive designs on shields. A knight could display his personal emblem — a lion, a cross, a series of stripes — on his shield, his horse's covering (the caparison), and his surcoat (the cloth worn over armor, which is why coats of arms are called *coats* of arms). Suddenly, identity was visible from a distance. Your allies could find you. Your enemies knew who they were fighting. Heralds — the officials who organized tournaments and battles — could identify participants by their arms.
 
 This battlefield ID system rapidly evolved into something much more elaborate. By the late 12th century, heraldic designs were becoming hereditary — passed from father to son, modified slightly for younger sons and branches of the family. What started as practical military identification became a complex system of family identity, legal status, and social prestige.
 
 ## The Rules of the Game
 
-Heraldry has a formal vocabulary and a surprisingly strict set of rules. The language used to describe coats of arms is called *blazon* — a highly specific terminology derived mainly from Norman French. When you "blazon" a coat of arms, you describe it in a standardized way that any trained heraldist anywhere can interpret and reproduce.
+Heraldry has a formal vocabulary and a surprisingly strict set of rules. The language used to describe coats of arms is called *blazon* — a highly specific terminology derived mainly from Norman French. When you "blazon" a [coat of arms](/coat-of-arms), you describe it in a standardized way that any trained heraldist anywhere can interpret and reproduce.
 
-Here's a quick example. The Royal Arms of England are blazoned as: "Gules, three lions passant guardant Or." Translation: a red shield with three gold lions walking and facing the viewer. If you handed that description to a heraldic artist in Tokyo, London, or Buenos Aires, they'd all produce essentially the same design.
+Here's a quick example. The Royal Arms of England are blazoned as: "Gules, three lions passant guardant Or." [Translation](/translation): a red shield with three gold lions [walking](/walking) and facing the viewer. If you handed that description to a heraldic artist in Tokyo, London, or Buenos Aires, they'd all produce essentially the same design.
 
 ### Tinctures (Colors)
 
@@ -117,7 +117,7 @@ Corporate heraldry is a growing niche. Companies that want a coat of arms — fo
 
 ## The Weird and Wonderful Side
 
-Heraldry has produced some genuinely bizarre designs over the centuries. There are arms featuring snails, dead trees, severed heads, and — in one famous Swedish example — a goat holding a battle axe. The arms of the town of Baarle-Nassau in the Netherlands feature a skeleton. A 15th-century Italian family's arms depict a bear juggling balls.
+Heraldry has produced some genuinely bizarre designs over the centuries. There are arms featuring snails, dead trees, severed heads, and — in one famous Swedish example — a goat holding a battle axe. The arms of the town of Baarle-Nassau in the Netherlands feature a skeleton. A 15th-century Italian family's arms depict a bear [juggling](/juggling) balls.
 
 "Canting arms" — visual puns on the bearer's name — are a beloved tradition. The Bowes family bears bows. The Shelley family shows shells. The city of Berlin bears a bear (*Bar* in German). These wordplay arms range from clever to groan-inducing, and heraldic enthusiasts adore them.
 

@@ -5,7 +5,7 @@ description: "Archaeology is the study of human history through physical remains
 category: science
 tags: ["archaeology", "anthropology", "history", "artifact", "excavation", "prehistory", "paleontology"]
 heroImage: "/images/articles/archaeology-hero.webp"
-heroAlt: "An excavation site with carefully exposed ancient pottery shards and stone tools in layered soil"
+heroAlt: "Editorial photograph representing the concept of archaeology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -47,7 +47,7 @@ Here's the popular image: a sun-baked figure in a fedora brushes sand off a gold
 
 Real archaeology is painstaking, methodical, and — frankly — often tedious. For every hour spent excavating, archaeologists spend dozens cataloging finds, analyzing soil samples, writing reports, and arguing about what it all means. The glamour-to-paperwork ratio is heavily skewed toward paperwork.
 
-But that methodical approach is exactly what makes archaeology powerful. Unlike treasure hunting (which destroys context to grab objects), archaeology treats the *relationships* between things as more important than the things themselves. A gold coin is interesting. A gold coin found in a specific layer of soil, next to specific pottery types, inside a structure with a known construction date — that tells a story.
+But that methodical approach is exactly what makes archaeology powerful. Unlike treasure hunting (which destroys context to grab objects), archaeology treats the *relationships* between things as more important than the things themselves. A gold coin is interesting. A gold coin found in a specific layer of soil, next to specific pottery types, inside a structure with a known [construction](/construction) date — that tells a story.
 
 The fundamental principle is this: once you dig something up, you can never un-dig it. Excavation is destruction. Every site is excavated exactly once. That's why archaeologists document obsessively — measured drawings, photographs, 3D scans, GPS coordinates, soil descriptions. The records become the permanent archive once the physical site is gone.
 
@@ -59,7 +59,7 @@ Ancient civilizations noticed remnants of their predecessors. Nabonidus, the las
 
 The Renaissance sparked renewed interest in the classical past. Italian scholars began studying Roman ruins, and the excavation of Pompeii and Herculaneum starting in the 1740s generated enormous public excitement. But these early excavations were essentially treasure hunts — workers tunneled into sites, grabbed the good stuff, and left.
 
-The shift toward scientific method came gradually in the 19th century. Three developments were critical:
+The shift toward [scientific method](/scientific-method) came gradually in the 19th century. Three developments were critical:
 
 **Stratigraphy.** Geologists established that rock layers are deposited sequentially — deeper means older. Archaeologists applied the same logic to cultural deposits. A tool found three meters deep is generally older than one found at one meter. This sounds obvious now, but it was a breakthrough.
 
@@ -89,7 +89,7 @@ Modern technology lets archaeologists see underground without digging.
 
 **Magnetometry** detects subtle variations in Earth's magnetic field caused by buried materials — especially fired clay, like kilns or hearths, which is strongly magnetic.
 
-**LiDAR** (Light Detection and Ranging) fires laser pulses from aircraft and measures the reflections to create detailed 3D terrain maps. Its most spectacular application has been in Central America, where LiDAR penetrated jungle canopy to reveal vast, previously unknown Maya cities. In 2018, a LiDAR survey in Guatemala found more than 60,000 structures hidden beneath the forest — completely rewriting estimates of Maya population and urban development.
+**LiDAR** (Light Detection and Ranging) fires laser pulses from aircraft and measures the reflections to create detailed 3D terrain maps. Its most spectacular application has been in Central America, where LiDAR penetrated jungle canopy to reveal vast, previously unknown Maya cities. In 2018, a LiDAR survey in Guatemala found more than 60,000 structures hidden beneath the forest — completely rewriting estimates of Maya population and [urban development](/urban-development).
 
 ### Accidental Discovery
 
@@ -141,7 +141,7 @@ Relative dating tells you *sequence* — what came before what — but not exact
 
 Absolute dating provides actual ages (within margins of error).
 
-**Radiocarbon dating (carbon-14)** revolutionized archaeology after its development by Willard Libby in 1949 (which won him the Nobel Prize in Chemistry in 1960). Living organisms absorb carbon-14 from the atmosphere. After death, C-14 decays at a known rate — half-life of approximately 5,730 years. By measuring the remaining C-14 in organic material (wood, bone, charcoal, shell), you can determine when the organism died. The method works up to about 50,000 years ago.
+**[Radiocarbon dating](/radiocarbon-dating) (carbon-14)** revolutionized archaeology after its development by Willard Libby in 1949 (which won him the Nobel Prize in Chemistry in 1960). Living organisms absorb carbon-14 from the atmosphere. After death, C-14 decays at a known rate — half-life of approximately 5,730 years. By measuring the remaining C-14 in organic material (wood, bone, charcoal, shell), you can determine when the organism died. The method works up to about 50,000 years ago.
 
 **Dendrochronology** (tree-ring dating) counts and matches annual growth rings in wood. Overlapping sequences of ring patterns have been built up going back over 10,000 years in some regions. When applicable, it provides dates precise to the exact year — sometimes even the season.
 
@@ -165,7 +165,7 @@ This studies periods and places where written records exist, using material evid
 
 James Deetz's study of colonial New England, for example, showed that material culture (house layouts, pottery, gravestones) changed in ways that written records never mentioned, revealing shifts in worldview that people couldn't or didn't articulate in words.
 
-### Underwater Archaeology
+### [Underwater Archaeology](/underwater-archaeology)
 
 Shipwrecks, submerged settlements, and underwater cultural heritage require specialized techniques — diving, submersibles, and underwater excavation tools. The Mary Rose (Henry VIII's flagship, sunk in 1545 and raised in 1982) and the Titanic (explored starting in 1985) are famous examples, but underwater archaeology also studies ancient harbors, flooded prehistoric landscapes, and submerged indigenous sites.
 
@@ -177,7 +177,7 @@ Focuses on human remains. Skeletal analysis reveals age at death, sex, stature, 
 
 Studies past environments and human-environment interactions. What did ancient landscapes look like? How did climate change affect societies? When did humans start modifying their environment? This subfield uses pollen analysis, animal and plant remains, soil chemistry, and isotopic analysis.
 
-### Cultural Resource Management (CRM)
+### Cultural [Resource Management](/resource-management) (CRM)
 
 This is where most archaeologists work. In many countries (including the US, under laws like the National Historic Preservation Act), construction projects must assess their impact on archaeological sites. CRM firms conduct surveys, test excavations, and full excavations ahead of development. It's not as romantic as academic archaeology, but it protects thousands of sites that would otherwise be destroyed without documentation.
 
@@ -193,7 +193,7 @@ A few finds have fundamentally reshaped our understanding of the past.
 
 **Terracotta Army (1974).** Farmers digging a well near Xi'an, China, found the first of over 8,000 life-sized clay soldiers, each with unique facial features, guarding the tomb of Emperor Qin Shi Huang (died 210 BCE). The scale of the find was almost unbelievable.
 
-**Gobekli Tepe (1990s excavation).** This site in southeastern Turkey features massive stone circles built around 9600 BCE — before agriculture, before pottery, before permanent settlements. It upended the assumption that monumental architecture required settled agricultural societies. Hunter-gatherers built it, suggesting that the desire for communal ritual spaces may have *driven* the transition to farming, not the other way around.
+**Gobekli Tepe (1990s excavation).** This site in southeastern Turkey features massive stone circles built around 9600 BCE — before agriculture, before pottery, before permanent settlements. It upended the assumption that monumental [architecture](/architecture) required settled agricultural societies. Hunter-gatherers built it, suggesting that the desire for communal ritual spaces may have *driven* the transition to farming, not the other way around.
 
 ## Controversies and Ethics
 

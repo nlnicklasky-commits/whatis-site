@@ -5,7 +5,7 @@ description: "British history spans thousands of years from ancient Celtic tribe
 category: history
 tags: ["british history", "england", "scotland", "wales", "british empire"]
 heroImage: "/images/articles/british-history.webp"
-heroAlt: "Tower of London viewed from the Thames, a symbol of centuries of British political power"
+heroAlt: "Editorial photograph representing the concept of british history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -67,7 +67,7 @@ Scotland followed its own path during this era. The Wars of Scottish Independenc
 
 The Tudor dynasty (1485–1603) is probably the most dramatized period in British history, and honestly, it earns the attention. Henry VIII's break with Rome in the 1530s — initially motivated by his desire to annul his marriage to Catherine of Aragon — triggered the English Reformation. The consequences were staggering: the dissolution of monasteries, the creation of the Church of England, and religious conflicts that would burn for centuries.
 
-Elizabeth I's reign (1558–1603) saw England emerge as a serious European power. The defeat of the Spanish Armada in 1588, the flourishing of English literature through Shakespeare and Marlowe, and the first English attempts at colonization in the Americas all happened during her 45-year rule. Not bad for a queen whose legitimacy was questioned from the day she was born.
+Elizabeth I's reign (1558–1603) saw England emerge as a serious European power. The defeat of the Spanish Armada in 1588, the flourishing of [English literature](/english-literature) through Shakespeare and Marlowe, and the first English attempts at colonization in the Americas all happened during her 45-year rule. Not bad for a queen whose legitimacy was questioned from the day she was born.
 
 ## Civil War, Revolution, and Union
 
@@ -81,7 +81,7 @@ The Acts of Union in 1707 formally joined England and Scotland into Great Britai
 
 Between roughly 1750 and 1900, Britain transformed the world — and itself — more dramatically than perhaps any nation in [history](/archaeology). Two revolutions happened nearly simultaneously.
 
-The Industrial Revolution, beginning in the mid-18th century, turned Britain from an agricultural society into the world's first industrial [economy](/economics). Textile mills, steam engines, railways, and factories created enormous wealth and equally enormous suffering. Cities like Manchester and Birmingham exploded in population. Working conditions were often appalling — children as young as five worked in mines and factories.
+The Industrial Revolution, beginning in the mid-18th century, turned Britain from an agricultural society into the world's first industrial [economy](/economics). Textile mills, [steam engines](/steam-engines), railways, and factories created enormous wealth and equally enormous suffering. Cities like Manchester and Birmingham exploded in population. Working conditions were often appalling — children as young as five worked in mines and factories.
 
 Meanwhile, the British Empire expanded relentlessly. By the Victorian era (1837–1901), Britain controlled territories on every inhabited continent. India, large portions of Africa, Canada, Australia, Hong Kong — the sun literally never set on the British Empire. This brought vast wealth to Britain through [international trade](/international-trade) and [capitalism](/capitalism), but at tremendous cost to colonized peoples. The legacies of empire — both positive and negative — remain deeply contested today.
 
@@ -97,7 +97,7 @@ The postwar period brought radical change. The Labour government of 1945 created
 
 ## Scotland, Wales, and the Question of Identity
 
-British history has never been just English history, though it's often told that way. Scotland maintained its own legal system, education system, and church even after the 1707 union. Wales preserved its language and distinct cultural identity despite centuries of English dominance.
+British history has never been just [English history](/english-history), though it's often told that way. Scotland maintained its own legal system, education system, and church even after the 1707 union. Wales preserved its language and distinct cultural identity despite centuries of English dominance.
 
 Devolution in the late 1990s created separate parliaments for Scotland, Wales, and Northern Ireland, giving these nations greater self-governance. The 2014 Scottish independence referendum — which resulted in a 55% vote to remain in the UK — showed that questions of national identity within Britain remain very much alive.
 
@@ -105,7 +105,7 @@ The Brexit vote in 2016, where England and Wales voted to leave the European Uni
 
 ## Why British History Still Matters
 
-You might wonder why the history of a relatively small island matters so much. The short answer: influence. The English language, common law legal systems, parliamentary democracy, the Industrial Revolution, and the legacies of empire connect British history to virtually every country on Earth.
+You might wonder why the history of a relatively small island matters so much. The short answer: influence. The [English language](/english-language), common law legal systems, parliamentary democracy, the Industrial Revolution, and the legacies of empire connect British history to virtually every country on Earth.
 
 Understanding British history helps you make sense of everything from American [constitutional law](/jurisprudence) to Indian politics to Australian cultural identity. It explains why English is the global lingua franca, why so many countries drive on the left, and why the Commonwealth of Nations still exists.
 

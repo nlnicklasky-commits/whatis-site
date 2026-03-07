@@ -5,7 +5,7 @@ description: "Sewing joins fabric using needle and thread to create clothing, re
 category: arts-amp-culture
 tags: ["sewing", "craft", "textile arts", "fabric", "needlework", "tailoring"]
 heroImage: "/images/articles/sewing.webp"
-heroAlt: "A sewing machine stitching colorful fabric with thread spools and scissors nearby"
+heroAlt: "Editorial photograph representing the concept of sewing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Sewing?
 
-Sewing is the craft of joining pieces of fabric or other materials using needle and thread — either by hand or with a sewing machine. It's one of the oldest human technologies, predating agriculture, pottery, and metalworking. The bone needles found in archaeological sites date back 50,000 years, suggesting that sewing animal hides for clothing was among our earliest technical skills.
+Sewing is the craft of joining pieces of fabric or other materials using needle and thread — either by hand or with a sewing machine. It's one of the oldest human technologies, predating [agriculture](/agriculture), [pottery](/pottery), and [metalworking](/metalworking). The bone needles found in archaeological sites date back 50,000 years, suggesting that sewing animal hides for clothing was among our earliest technical skills.
 
-Today, sewing encompasses everything from mending a torn seam to constructing haute couture gowns. It's both a practical life skill (everyone should know how to sew a button) and a creative art form with depth that surprises people who haven't tried it.
+Today, sewing encompasses everything from mending a torn seam to constructing [haute couture](/haute-couture) gowns. It's both a practical life skill (everyone should know how to sew a button) and a creative art form with depth that surprises people who haven't tried it.
 
 ## The Fundamentals
 
@@ -45,7 +45,7 @@ All sewing comes down to a few basic concepts.
 
 **Cutting** matters more than most beginners realize. Fabric has a grain — the direction of the woven threads. Cutting with the grain produces stable, predictable results. Cutting against it can cause stretching, twisting, and garments that hang badly. Pattern pieces include grain line markers for exactly this reason.
 
-**Pressing** (ironing during construction) is what separates amateur sewing from professional results. Pressing seams open, pressing darts flat, pressing hems before stitching — these steps take time but make the finished garment look dramatically better. Professional seamstresses say you spend as much time pressing as sewing. They're not exaggerating.
+**Pressing** (ironing during [construction](/construction)) is what separates amateur sewing from professional results. Pressing seams open, pressing darts flat, pressing hems before stitching — these steps take time but make the finished garment look dramatically better. Professional seamstresses say you spend as much time pressing as sewing. They're not exaggerating.
 
 ## Essential Tools
 
@@ -63,11 +63,11 @@ You don't need much to start sewing, but the right tools matter.
 
 ## Types of Sewing
 
-**Garment sewing** is what most people think of — making clothing. It ranges from simple pull-on pants (a great beginner project) to tailored jackets with multiple layers of structure. Garment sewing requires understanding fabric behavior, body shape, and the engineering of how flat fabric wraps around a three-dimensional body.
+**Garment sewing** is what most people think of — making clothing. It ranges from simple pull-on pants (a great beginner project) to tailored jackets with multiple layers of structure. Garment sewing requires understanding fabric behavior, body shape, and the [engineering](/engineering) of how flat fabric wraps around a three-dimensional body.
 
-**Quilting** joins fabric pieces into patterned layers, then stitches through all layers to create a warm, decorative textile. It's both an art form and a community — quilting guilds and groups meet regularly in most towns. Modern quilting has exploded with contemporary designs and bold colors far from the traditional flower-and-calico aesthetic.
+**[Quilting](/quilting)** joins fabric pieces into patterned layers, then stitches through all layers to create a warm, decorative textile. It's both an art form and a community — quilting guilds and groups meet regularly in most towns. Modern quilting has exploded with contemporary designs and bold colors far from the traditional flower-and-calico aesthetic.
 
-**Home decor sewing** covers curtains, cushion covers, tablecloths, duvet covers, and upholstery. These projects are often simpler than garments (straight seams, no fitting) and produce immediately useful results. Curtains are a classic first project — straight rectangles with hems.
+**Home decor sewing** covers curtains, cushion covers, tablecloths, duvet covers, and [upholstery](/upholstery). These projects are often simpler than garments (straight seams, no fitting) and produce immediately useful results. Curtains are a classic first project — straight rectangles with hems.
 
 **Mending and alterations** is the most practical application. Hemming pants, replacing zippers, taking in or letting out seams, patching holes — these skills save money and extend the life of clothing. The visible mending movement has even turned repairs into an art form, with colorful patches and decorative stitching.
 

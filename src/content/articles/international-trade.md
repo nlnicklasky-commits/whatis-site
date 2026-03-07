@@ -5,7 +5,7 @@ description: "International trade is the exchange of goods and services between 
 category: finance
 tags: ["international trade", "trade", "exports", "imports", "comparative advantage", "tariffs", "free trade"]
 heroImage: "/images/articles/international-trade-hero.webp"
-heroAlt: "Global map with shipping routes and trade flow arrows connecting continents"
+heroAlt: "Editorial photograph representing the concept of international trade"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ But that explains only a fraction of actual trade. Most trade happens between co
 
 David Ricardo answered this question in 1817 with what might be the single most important insight in [economics](/economics): comparative advantage.
 
-The concept is counterintuitive. Even if one country is better at making *everything*, both countries still benefit from trade. What matters isn't absolute productivity — it's relative productivity.
+The concept is counterintuitive. Even if one country is better at making *everything*, both countries still benefit from trade. What matters isn't absolute [productivity](/productivity) — it's relative productivity.
 
 Imagine two countries: the US and Mexico. Suppose the US can produce both cars and corn more efficiently than Mexico. Why would the US buy anything from Mexico?
 
@@ -69,7 +69,7 @@ This explains a huge amount of trade patterns. Bangladesh's garment industry —
 
 Some trade exists simply because producing at large scale is more efficient. It wouldn't make sense for every country to manufacture its own commercial aircraft. The fixed costs of design, tooling, and testing are so enormous that only a few producers (Boeing, Airbus) can spread those costs across enough units to make it work.
 
-This explains why small countries like South Korea and Taiwan became electronics powerhouses — by specializing intensely and producing at massive scale for the global market rather than their small domestic markets.
+This explains why small countries like South Korea and Taiwan became [electronics](/electronics) powerhouses — by specializing intensely and producing at massive scale for the global market rather than their small domestic markets.
 
 ## What Gets Traded
 
@@ -88,11 +88,11 @@ The composition has shifted dramatically over time. In 1950, raw materials and a
 
 ### Services Trade
 
-Non-physical stuff: financial services, tourism, transportation, telecommunications, consulting, software, education. Global services trade reached about $6.8 trillion in 2022.
+Non-physical stuff: financial services, tourism, transportation, telecommunications, consulting, software, [education](/education). Global services trade reached about $6.8 trillion in 2022.
 
 Services trade is growing faster than goods trade and is increasingly important for advanced economies. The US runs a substantial surplus in services trade (roughly $250 billion annually), driven by financial services, software, and intellectual property licensing — even while running a large deficit in goods trade.
 
-Digital services trade — cloud computing, streaming, software-as-a-service — is the fastest-growing segment and creates thorny policy questions about taxation, data sovereignty, and jurisdiction.
+Digital services trade — [cloud computing](/cloud-computing), streaming, software-as-a-service — is the fastest-growing segment and creates thorny policy questions about taxation, data sovereignty, and jurisdiction.
 
 ## The Mechanics of Trade
 
@@ -102,7 +102,7 @@ How does trade actually happen? It's more complicated than "company sends stuff 
 
 Every country has a customs authority that controls what enters and exits. Imported goods must clear customs, which involves classifying the product (using the Harmonized System — a global standardized coding system), assessing applicable tariffs, checking compliance with regulations, and collecting duties.
 
-Tariffs are taxes on imports. A 25% tariff on imported steel means the importer pays 25% of the steel's value to the government. The average tariff rate globally has fallen from about 15% in the early 1990s to under 5% today, but significant barriers remain — especially for agricultural products, where tariffs above 100% still exist in some countries.
+Tariffs are taxes on imports. A 25% tariff on imported steel means the importer pays 25% of the steel's value to the [government](/government). The average tariff rate globally has fallen from about 15% in the early 1990s to under 5% today, but significant barriers remain — especially for agricultural products, where tariffs above 100% still exist in some countries.
 
 ### Non-Tariff Barriers
 
@@ -116,7 +116,7 @@ International transactions are more complex than domestic ones because buyer and
 
 Letters of credit — guaranteed by banks — solve this problem. The buyer's bank guarantees payment to the seller once shipping documents confirm the goods were sent. This mechanism has been the backbone of trade finance for centuries. About $10 trillion in annual trade moves using letters of credit and related instruments.
 
-### Shipping and Logistics
+### Shipping and [Logistics](/logistics)
 
 Physical trade requires moving things, and the logistics are staggering. A container ship carrying 24,000 twenty-foot equivalent units (TEUs) can transport roughly 100,000 tons of cargo. The cost of shipping a container from Shanghai to Los Angeles — about 6,500 nautical miles — can be as low as a few thousand dollars, making it economically viable to ship products halfway around the world.
 
@@ -182,7 +182,7 @@ The US ran a goods trade deficit of about $1.18 trillion in 2022 — meaning it 
 
 Trade deficits aren't necessarily bad. The US runs a deficit partly because American consumers have high purchasing power and want to buy foreign goods. It also runs a deficit because the US dollar is the world's reserve currency — foreign countries need dollars, so they sell goods to the US and hold the dollar proceeds as reserves.
 
-Countries with high savings rates (Germany, China, Japan) tend to run surpluses. Countries with lower savings and higher consumption (the US, UK) tend to run deficits. This is an accounting identity, not a moral judgment.
+Countries with high savings rates (Germany, China, Japan) tend to run surpluses. Countries with lower savings and higher consumption (the US, UK) tend to run deficits. This is an [accounting](/accounting) identity, not a moral judgment.
 
 ### When Deficits Matter
 
@@ -202,7 +202,7 @@ The most striking impact: hundreds of millions lifted out of extreme poverty, pr
 
 Modern products are rarely made in one country. A Boeing 787 Dreamliner contains parts from over 100 suppliers in 12 countries. This supply chain complexity creates efficiency but also vulnerability — a disruption anywhere in the chain affects the entire product.
 
-The concept of trade in "value added" rather than gross goods reveals interesting patterns. When China exports a $1,000 iPhone, only about $10 of value was actually added in China (assembly). Most of the value comes from components made in Japan, South Korea, Taiwan, and designs from the US. Traditional trade statistics that attribute the full $1,000 to China dramatically overstate the actual economic relationship.
+The concept of trade in "value added" rather than gross goods reveals interesting patterns. When China exports a $1,000 iPhone, only about $10 of value was actually added in China (assembly). Most of the value comes from components made in Japan, South Korea, Taiwan, and designs from the US. Traditional trade [statistics](/statistics) that attribute the full $1,000 to China dramatically overstate the actual economic relationship.
 
 ### Winners and Losers
 

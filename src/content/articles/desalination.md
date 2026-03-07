@@ -5,7 +5,7 @@ description: "Desalination removes salt from seawater to produce fresh drinking 
 category: science
 tags: ["desalination", "water treatment", "reverse osmosis", "water scarcity", "engineering", "environment", "technology"]
 heroImage: "/images/articles/desalination-hero.webp"
-heroAlt: "Desalination plant with large pipes and filtration systems near a coastline"
+heroAlt: "Editorial photograph representing the concept of desalination"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Desalination?
 
-Desalination is the process of removing dissolved salts and other minerals from seawater or brackish water to produce fresh water suitable for human consumption, irrigation, or industrial use. With 97.5% of Earth's water being saltwater and freshwater supplies under increasing pressure from population growth, [agriculture](/agriculture), and climate change, desalination has grown from a niche technology into a critical water infrastructure serving over 300 million people in more than 150 countries.
+Desalination is the process of removing dissolved salts and other minerals from seawater or brackish water to produce fresh water suitable for human consumption, [irrigation](/irrigation), or industrial use. With 97.5% of Earth's water being saltwater and freshwater supplies under increasing pressure from population growth, [agriculture](/agriculture), and climate change, desalination has grown from a niche technology into a critical water infrastructure serving over 300 million people in more than 150 countries.
 
 ## The Water Problem Desalination Solves
 
@@ -57,7 +57,7 @@ Reverse osmosis accounts for about 69% of global desalination capacity and growi
 
 **Reverse osmosis**: Apply enough pressure to the salty side, and you force water to move in the opposite direction—through the membrane, leaving salt behind. For seawater, you need about 55-80 bar of pressure (roughly 55-80 times atmospheric pressure) to overcome the osmotic pressure and push water through.
 
-The membranes are engineering marvels. Modern RO membranes are thin-film composite structures—a polyamide layer just 200 nanometers thick on a polysulfone support—rolled into spiral-wound modules about a meter long. Each module contains about 40 square meters of membrane surface. A large desalination plant might contain tens of thousands of these modules.
+The membranes are [engineering](/engineering) marvels. Modern RO membranes are thin-film composite structures—a polyamide layer just 200 nanometers thick on a polysulfone support—rolled into spiral-wound modules about a meter long. Each module contains about 40 square meters of membrane surface. A large desalination plant might contain tens of thousands of these modules.
 
 The process flow:
 
@@ -74,7 +74,7 @@ A state-of-the-art RO plant consumes about 3-4 kilowatt-hours per cubic meter of
 
 Thermal methods boil seawater, capture the steam (which is salt-free), and condense it into freshwater. It's conceptually simple—humans have been distilling water for centuries—but doing it efficiently at scale requires clever engineering.
 
-**Multi-Stage Flash (MSF)** distillation heats seawater and then introduces it into a series of chambers (stages) at progressively lower pressures. At each stage, some water "flashes" into steam because the lower pressure reduces the boiling point. Steam is condensed and collected. Modern MSF plants have 20-40 stages, each extracting a bit more freshwater.
+**Multi-Stage Flash (MSF)** [distillation](/distillation) heats seawater and then introduces it into a series of chambers (stages) at progressively lower pressures. At each stage, some water "flashes" into steam because the lower pressure reduces the boiling point. Steam is condensed and collected. Modern MSF plants have 20-40 stages, each extracting a bit more freshwater.
 
 MSF is the oldest modern desalination technology, developed in the 1960s. It's less efficient than RO (consuming 10-16 kWh/m³ equivalent) but extremely reliable and well-suited to the Middle East, where cheap natural gas and oil provide abundant heat energy. Saudi Arabia's Ras Al Khair plant, the world's largest desalination facility, uses both MSF and RO and produces 1.025 million cubic meters per day.
 
@@ -120,11 +120,11 @@ This cost gap is narrowing. In the early 2000s, desalinated water cost $1.50-$5.
 
 ### Energy Consumption
 
-Desalination is energy-hungry. Global desalination consumes roughly 75 terawatt-hours of electricity annually—comparable to the total electricity consumption of a country like Chile. As capacity grows, so does the energy demand.
+Desalination is energy-hungry. Global desalination consumes roughly 75 terawatt-hours of [electricity](/electricity) annually—comparable to the total electricity consumption of a country like Chile. As capacity grows, so does the energy demand.
 
 The source of that energy matters enormously. Desalination powered by coal-fired electricity has a very different carbon footprint than desalination powered by solar panels. The Middle East's reliance on natural gas for desalination energy produces significant greenhouse gas emissions. Conversely, solar-powered desalination—increasingly viable as photovoltaic costs drop—could provide nearly carbon-free water.
 
-The theoretical minimum energy for desalinating seawater is about 1.06 kWh/m³ (set by thermodynamics). Current best practice is 3-4 kWh/m³. There's still room for improvement, but we're getting closer to the physical limit.
+The theoretical minimum energy for desalinating seawater is about 1.06 kWh/m³ (set by [thermodynamics](/thermodynamics)). Current best practice is 3-4 kWh/m³. There's still room for improvement, but we're getting closer to the physical limit.
 
 ### Brine Disposal
 
@@ -163,13 +163,13 @@ This newer approach uses electrically charged electrodes to attract and hold sal
 
 ### Solar Desalination
 
-Direct solar desalination uses solar heat to evaporate water without electricity. Simple solar stills have existed for centuries, but modern versions using nanotechnology and engineered surfaces achieve much higher efficiency. MIT researchers have developed solar-powered desalination systems that produce freshwater at costs competitive with tap water in some settings, though scaling these systems remains challenging.
+Direct solar desalination uses solar heat to evaporate water without electricity. Simple solar stills have existed for centuries, but modern versions using [nanotechnology](/nanotechnology) and engineered surfaces achieve much higher efficiency. MIT researchers have developed solar-powered desalination systems that produce freshwater at costs competitive with tap water in some settings, though scaling these systems remains challenging.
 
 ### Biomimetic Membranes
 
-Inspired by aquaporins—the protein channels that cells use to transport water—researchers are developing biomimetic membranes that could be more selective and energy-efficient than current synthetic membranes. Nature solved the desalination problem billions of years ago in cell biology; the challenge is replicating that solution at industrial scale.
+Inspired by aquaporins—the protein channels that cells use to transport water—researchers are developing biomimetic membranes that could be more selective and energy-efficient than current synthetic membranes. Nature solved the desalination problem billions of years ago in [cell biology](/cell-biology); the challenge is replicating that solution at industrial scale.
 
-## The Geopolitics of Desalination
+## The [Geopolitics](/geopolitics) of Desalination
 
 Water scarcity creates geopolitical tension. Rivers crossing national boundaries—the Nile, the Jordan, the Tigris and Euphrates—are constant sources of diplomatic friction. Desalination changes this active by creating water supplies independent of shared natural sources.
 
@@ -179,7 +179,7 @@ But desalination creates new dependencies. Countries relying heavily on desalina
 
 ## Where Desalination Is Heading
 
-The trajectory is clear: more capacity, lower costs, and increasing integration with renewable energy.
+The trajectory is clear: more capacity, lower costs, and increasing integration with [renewable energy](/renewable-energy).
 
 Global desalination capacity is projected to grow at 7-9% annually through 2030. The fastest growth is in Asia (China, India, Southeast Asia) and Africa, where water stress is most acute and population growth is highest.
 

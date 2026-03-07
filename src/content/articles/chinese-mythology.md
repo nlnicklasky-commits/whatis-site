@@ -5,7 +5,7 @@ description: "Chinese mythology is the collection of myths, legends, and folk ta
 category: arts-amp-culture
 tags: ["Chinese mythology", "mythology", "folklore", "China", "legends", "Daoism"]
 heroImage: "/images/articles/chinese-mythology.webp"
-heroAlt: "Traditional Chinese dragon sculpture against a temple backdrop with red lanterns"
+heroAlt: "Editorial photograph representing the concept of chinese mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Partly. The novel Journey to the West (西游记, 1592) is based on the historical pilgrimage of the Tang Dynasty monk Xuanzang, who traveled to India (629-645 CE) to obtain Buddhist scriptures. The real journey was documented in Xuanzang's own accounts. The novel adds the mythological companions — Sun Wukong (Monkey King), Zhu Bajie (Pigsy), and Sha Wujing (Sandy) — and transforms the historical journey into a supernatural adventure."
 ---
 
-# What Is Chinese Mythology?
+# What Is Chinese [Mythology](/mythology)?
 
-Chinese mythology is the vast body of myths, legends, and folk narratives developed across China's 5,000+ year civilization — encompassing creation stories, divine pantheons, heroic epics, and supernatural tales drawn from Daoism, Buddhism, Confucianism, and ancient folk religion. Unlike Greek or Norse mythology, which exist as relatively bounded systems, Chinese mythology is a living, layered tradition that has continuously absorbed and transformed material across millennia.
+Chinese mythology is the vast body of myths, legends, and folk narratives developed across China's 5,000+ year civilization — encompassing creation stories, divine pantheons, heroic epics, and supernatural tales drawn from Daoism, [Buddhism](/buddhism), [Confucianism](/confucianism), and ancient folk [religion](/religion). Unlike Greek or [Norse mythology](/norse-mythology), which exist as relatively bounded systems, Chinese mythology is a living, layered tradition that has continuously absorbed and transformed material across millennia.
 
 ## A Mythology That Never Stopped Growing
 
-Most mythological traditions are associated with specific historical periods. Greek mythology belongs to the ancient world. Norse mythology belongs to the Viking age. Chinese mythology doesn't work that way. It has been continuously produced, modified, and reinterpreted from the earliest oracle bone inscriptions (circa 1200 BCE) through the great novels of the Ming Dynasty (1368-1644) to contemporary media.
+Most mythological traditions are associated with specific historical periods. [Greek mythology](/greek-mythology) belongs to the ancient world. Norse mythology belongs to the Viking age. Chinese mythology doesn't work that way. It has been continuously produced, modified, and reinterpreted from the earliest oracle bone inscriptions (circa 1200 BCE) through the great novels of the Ming Dynasty (1368-1644) to contemporary media.
 
 This means Chinese mythology is enormous and internally inconsistent. Different regions, different time periods, and different religious traditions produced different (sometimes contradictory) versions of the same stories. The Jade Emperor's backstory varies depending on whether you're reading a Daoist text, a Buddhist text, or a folk tale. Nüwa is either the creator of humanity, a flood-taming heroine, or both, depending on the source.
 
@@ -51,7 +51,7 @@ When Pangu died, his body became the world: his breath became wind and clouds, h
 
 ### Nüwa Creates Humanity
 
-Nüwa (女娲), a goddess with a human upper body and serpent's tail, created humans from yellow clay. She carefully shaped the first people by hand, but the work was slow. To speed things up, she dragged a rope through mud and let the droplets become people. The hand-shaped people became nobles; the mud-flicked people became commoners. Make of that social commentary what you will.
+Nüwa (女娲), a goddess with a human upper body and serpent's tail, created humans from yellow clay. She carefully shaped the first people by hand, but the work was slow. To speed things up, she dragged a rope through mud and let the droplets become people. The hand-shaped people became nobles; the mud-flicked people became commoners. Make of that [social commentary](/social-commentary) what you will.
 
 Nüwa also repaired the sky after the water god Gonggong smashed one of the pillars supporting heaven, causing catastrophic floods and fire. She melted five-colored stones to patch the sky and cut off the legs of a giant turtle to replace the broken pillar. The sky was never quite right afterward — it tilts to the northwest, which is why Chinese rivers flow southeast.
 
@@ -59,7 +59,7 @@ Nüwa also repaired the sky after the water god Gonggong smashed one of the pill
 
 ### The Jade Emperor
 
-The supreme ruler of heaven in Chinese folk religion. The Jade Emperor (玉皇大帝) governs a celestial bureaucracy modeled on the Chinese imperial court — complete with ministries, officials, and paperwork. Gods in Chinese mythology hold positions the way officials hold government posts. They can be promoted, demoted, or fired. This bureaucratic model is unique among world mythologies.
+The supreme ruler of heaven in Chinese folk religion. The Jade Emperor (玉皇大帝) governs a celestial bureaucracy modeled on the Chinese imperial court — complete with ministries, officials, and paperwork. Gods in Chinese mythology hold positions the way officials hold [government](/government) posts. They can be promoted, demoted, or fired. This bureaucratic model is unique among world mythologies.
 
 ### Sun Wukong (The Monkey King)
 
@@ -89,6 +89,6 @@ This spirit world isn't mythology in the past-tense sense — millions of people
 
 ## Why Chinese Mythology Matters Now
 
-Chinese mythology is experiencing a global moment. Films (*Ne Zha*, 2019, the highest-grossing Chinese animated film), video games (*Black Myth: Wukong*, 2024), literature (Ken Liu's translations of Chinese science fiction), and manga/anime influenced by Chinese sources are introducing these stories to worldwide audiences.
+Chinese mythology is experiencing a global moment. Films (*Ne Zha*, 2019, the highest-grossing Chinese animated film), video games (*Black Myth: Wukong*, 2024), [literature](/literature) (Ken Liu's translations of Chinese [science fiction](/science-fiction)), and manga/anime influenced by Chinese sources are introducing these stories to worldwide audiences.
 
 The mythology's appeal is the same thing that makes it complex: it's enormous, varied, and weird in ways that Western mythologies aren't. Gods as bureaucrats. Monkeys who challenge heaven. Creation through self-sacrifice. A spirit world that mirrors the human one, complete with paperwork and performance reviews. It's a mythological tradition as vast and layered as the civilization that produced it.

@@ -5,7 +5,7 @@ description: "Rheumatology is the medical specialty focused on diagnosing and tr
 category: health-amp-wellness
 tags: ["medical", "rheumatology", "arthritis", "autoimmune"]
 heroImage: "/images/articles/rheumatology.webp"
-heroAlt: "A doctor examining a patient's hands and joints for signs of arthritis in a medical office"
+heroAlt: "Editorial photograph representing the concept of rheumatology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -90,7 +90,7 @@ But here's the catch: these tests are suggestive, not definitive. A positive ANA
 
 **Imaging** adds another layer. X-rays show bone erosion and joint space narrowing. MRI reveals soft tissue inflammation, including synovitis and bone marrow edema that X-rays miss. Ultrasound is now more popular in rheumatology offices because it can detect joint inflammation in real time during the examination.
 
-**Joint aspiration** — drawing fluid from an inflamed joint with a needle — is definitive for crystal diseases. Under a polarized light microscope, monosodium urate crystals (gout) look needle-shaped, while calcium pyrophosphate crystals (pseudogout) appear rhomboid. This is one of the few truly "gold standard" diagnostic tests in rheumatology.
+**Joint aspiration** — [drawing](/drawing) fluid from an inflamed joint with a needle — is definitive for crystal diseases. Under a polarized light microscope, monosodium urate crystals (gout) look needle-shaped, while calcium pyrophosphate crystals (pseudogout) appear rhomboid. This is one of the few truly "gold standard" diagnostic tests in rheumatology.
 
 ## Treatment Approaches
 
@@ -108,7 +108,7 @@ The real game-changer arrived in 1998 with the approval of etanercept (Enbrel), 
 
 The results can be dramatic. Patients who weren't responding to methotrexate sometimes achieve near-complete disease control on biologics. Joint damage that was previously considered inevitable can be prevented or significantly slowed.
 
-The downside: biologics are expensive. A year's supply can cost $20,000 to $70,000 without insurance. They also suppress the immune system, increasing infection risk. And they require administration by injection or IV infusion rather than simple oral dosing.
+The downside: biologics are expensive. A year's supply can cost $20,000 to $70,000 without [insurance](/insurance). They also suppress the immune system, increasing infection risk. And they require administration by injection or IV infusion rather than simple oral dosing.
 
 As of 2024, there are over 20 FDA-approved biologic and targeted synthetic DMARDs, with more in development. The field is moving fast.
 
@@ -126,9 +126,9 @@ The shortage exists because the training pipeline is long (3 years of internal m
 
 Chronic illness is hard. Rheumatic diseases add specific challenges: unpredictable flares, fatigue that goes beyond normal tiredness, visible joint deformity, and the invisible burden of chronic pain. Many patients look healthy on the outside while dealing with significant disability.
 
-Self-management strategies that research supports include regular low-impact exercise (swimming, walking, cycling), maintaining a healthy weight to reduce joint stress, physical and occupational therapy, adequate sleep, and stress management. Smoking cessation is particularly important — smoking worsens RA and reduces treatment effectiveness.
+Self-[management](/management) strategies that research supports include regular low-impact exercise ([swimming](/swimming), [walking](/walking), [cycling](/cycling)), maintaining a healthy weight to reduce joint stress, physical and [occupational therapy](/occupational-therapy), adequate sleep, and stress management. Smoking cessation is particularly important — smoking worsens RA and reduces treatment effectiveness.
 
-The mental health dimension is significant. Depression affects roughly 20% of RA patients and up to 40% of lupus patients. Rheumatologists increasingly recognize that treating the disease without addressing its psychological impact leaves patients only partially cared for.
+The [mental health](/mental-health) dimension is significant. Depression affects roughly 20% of RA patients and up to 40% of lupus patients. Rheumatologists increasingly recognize that treating the disease without addressing its psychological impact leaves patients only partially cared for.
 
 ## The Outlook
 

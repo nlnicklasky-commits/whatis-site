@@ -5,7 +5,7 @@ description: "Screen printing pushes ink through a stenciled mesh to create desi
 category: arts-amp-culture
 tags: ["screen printing", "silk screen", "printing", "textile printing", "art print", "stencil"]
 heroImage: "/images/articles/screen-printing.webp"
-heroAlt: "A screen printer pulling a squeegee across a mesh screen with bright ink on a t-shirt below"
+heroAlt: "Editorial photograph representing the concept of screen printing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ Screen printing's origins trace back to China's Song Dynasty (960-1279 AD), wher
 
 The modern version emerged in the early 1900s. Commercial screen printing took off after the development of photo-reactive stencil materials in the 1910s and 1920s, which allowed photographic images to be printed rather than just hand-cut designs.
 
-The real cultural moment came in the 1960s when Andy Warhol adopted screen printing as his primary medium. His silk-screened portraits of Marilyn Monroe, Campbell's Soup cans, and other pop culture subjects turned a commercial printing technique into fine art. Warhol deliberately embraced the mechanical, reproducible nature of screen printing — it fit his philosophy that art and commerce weren't as separate as people pretended.
+The real cultural moment came in the 1960s when Andy Warhol adopted screen printing as his primary medium. His silk-screened portraits of Marilyn Monroe, Campbell's Soup cans, and other pop culture subjects turned a commercial printing technique into [fine art](/fine-art). Warhol deliberately embraced the mechanical, reproducible nature of screen printing — it fit his [philosophy](/philosophy) that art and commerce weren't as separate as people pretended.
 
 ## Why It Still Dominates
 

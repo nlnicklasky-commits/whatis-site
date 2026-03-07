@@ -5,7 +5,7 @@ description: "Warhammer is a tabletop miniature wargame franchise by Games Works
 category: everyday-concepts
 tags: ["warhammer", "tabletop gaming", "miniatures", "Games Workshop", "strategy", "sci-fi fantasy"]
 heroImage: "/images/articles/warhammer.webp"
-heroAlt: "Painted Warhammer 40K Space Marine miniatures arranged in battle formation on a gaming table"
+heroAlt: "Editorial photograph representing the concept of warhammer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Warhammer?
 
-Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main game systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop gaming properties in the world.
+Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main game systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop [gaming](/gaming) properties in the world.
 
 ## The Two Universes
 
@@ -67,11 +67,11 @@ The skill ceiling is enormous. Beginners can produce table-ready miniatures with
 
 Advanced painters use techniques like blending, non-metallic metal effects, object-source lighting, and freehand detail that can turn a 28mm miniature into a museum-quality work of art. Painting competitions at events like Golden Demon and Crystal Brush showcase work that's genuinely stunning.
 
-The therapeutic aspect of miniature painting is widely reported — the focused, repetitive, hands-on nature of the work produces a meditative state that many hobbyists describe as their primary stress relief.
+The therapeutic aspect of [miniature painting](/miniature-painting) is widely reported — the focused, repetitive, hands-on nature of the work produces a meditative state that many hobbyists describe as their primary stress relief.
 
 ## The Lore
 
-Warhammer's fictional universes are supported by hundreds of novels, codex books, short stories, and audio dramas published by Black Library (Games Workshop's publishing arm). The lore is extraordinarily deep — decades of accumulated world-building have created settings rich enough to support serious narrative fiction.
+Warhammer's fictional universes are supported by hundreds of novels, codex books, short stories, and audio dramas published by Black Library (Games Workshop's [publishing](/publishing) arm). The lore is extraordinarily deep — decades of accumulated world-building have created settings rich enough to support serious narrative fiction.
 
 Dan Abnett's Gaunt's Ghosts series and the Horus Heresy series (a 54-book saga about the events leading to the Emperor's internment on the Golden Throne) are particularly well-regarded. The fiction attracts readers who never play the tabletop game.
 

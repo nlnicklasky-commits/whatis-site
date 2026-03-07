@@ -5,7 +5,7 @@ description: "Boxing is a combat sport where two opponents fight using only thei
 category: everyday-concepts
 tags: ["boxing", "combat sports", "fighting", "martial arts", "fitness", "athletics"]
 heroImage: "/images/articles/boxing.webp"
-heroAlt: "Two boxers in a ring exchanging punches under bright overhead lights"
+heroAlt: "Editorial photograph representing the concept of boxing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Boxing is a combat sport in which two competitors throw punches at each other wi
 
 Boxing is often called "the sweet science" — a phrase attributed to British journalist Pierce Egan in the 1820s and popularized by A.J. Liebling's 1956 book of the same name. The name captures something important: beneath the apparent brutality, boxing is deeply strategic.
 
-A skilled boxer manages distance, timing, angles, and rhythm. They set traps — throwing patterns designed to create openings for power shots. They read opponents' habits and adjust mid-fight. The mental chess match between two elite boxers is as compelling as the physical confrontation.
+A skilled boxer manages distance, timing, angles, and rhythm. They set traps — throwing patterns designed to create openings for power shots. They read opponents' habits and adjust mid-fight. The mental [chess](/chess) match between two elite boxers is as compelling as the physical confrontation.
 
-Modern boxing rules derive from the Marquess of Queensberry Rules, published in 1867. These introduced timed rounds, mandatory gloves, the 10-count for knockdowns, and the prohibition of wrestling holds. Before Queensberry, bare-knuckle boxing under London Prize Ring Rules allowed throws, holds, and rounds that lasted until someone went down.
+Modern boxing rules derive from the Marquess of Queensberry Rules, published in 1867. These introduced timed rounds, mandatory gloves, the 10-count for knockdowns, and the prohibition of [wrestling](/wrestling) holds. Before Queensberry, bare-knuckle boxing under London Prize Ring Rules allowed throws, holds, and rounds that lasted until someone went down.
 
 ## The Fundamentals
 
@@ -65,7 +65,7 @@ Great boxers are defined as much by what they don't get hit by as by what they l
 
 - **Blocking/parrying** — Using gloves and arms to absorb or deflect punches
 - **Slipping** — Moving the head laterally to let punches pass
-- **Bobbing and weaving** — Ducking under hooks with a U-shaped head movement
+- **Bobbing and [weaving](/weaving)** — Ducking under hooks with a U-shaped head movement
 - **Footwork** — Moving out of range entirely
 - **Clinching** — Holding the opponent to stop action (technically illegal, universally practiced)
 
@@ -77,7 +77,7 @@ Professional boxing's organizational structure is notoriously fragmented. Four m
 
 Amateur boxing (including Olympic boxing) uses different scoring systems and shorter bouts. Olympic boxing has been a core sport since 1904, producing legendary champions like Muhammad Ali (then Cassius Clay, 1960 gold medal), Sugar Ray Leonard, and Vasyl Lomachenko.
 
-## The Legends
+## The [Legends](/legends)
 
 Boxing's [history](/sports-history) is inseparable from its legendary fighters.
 

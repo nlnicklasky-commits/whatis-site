@@ -5,7 +5,7 @@ description: "Scaffolding is a temporary structure that gives workers safe acces
 category: technology
 tags: ["scaffold", "construction", "building", "work platform", "safety", "temporary structure"]
 heroImage: "/images/articles/scaffolding-hero.webp"
-heroAlt: "Steel tube-and-coupler scaffolding surrounding a building under construction"
+heroAlt: "Editorial photograph representing the concept of scaffolding"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Scaffolding?
 
-Scaffolding is a temporary elevated structure that provides workers with safe access to the exterior (or interior) of a building or other structure during construction, maintenance, repair, or demolition. It consists of platforms supported by a framework of tubes, boards, frames, or other structural members, along with guardrails, toe boards, and access ladders or stairs.
+Scaffolding is a temporary elevated structure that provides workers with safe access to the exterior (or interior) of a building or other structure during [construction](/construction), maintenance, repair, or demolition. It consists of platforms supported by a framework of tubes, boards, frames, or other structural members, along with guardrails, toe boards, and access ladders or stairs.
 
 About 65% of the construction workforce—roughly 2.3 million people in the U.S. alone—works on scaffolding at some point during their careers. It's so common on job sites that it almost fades into the background, which is exactly when complacency makes it dangerous. Scaffold-related falls remain one of the leading causes of construction worker deaths worldwide.
 
@@ -47,7 +47,7 @@ Scaffolding is ancient. Really ancient. When paleontologists examined the cave p
 
 The ancient Egyptians used scaffolding to build the pyramids, though the exact methods are debated. Medieval cathedral builders erected massive wooden scaffold systems that sometimes took years to assemble before stonework could even begin. The Sistine Chapel ceiling? Michelangelo painted it from scaffolding he designed himself—a flat platform system suspended from the walls rather than resting on the floor, so the chapel could remain in use below.
 
-The modern scaffolding industry was shaped by a 1913 invention: Daniel Palmer-Jones patented the first scaffold coupler in London. This simple device—a clamp connecting two steel tubes at right angles—meant that scaffolding no longer depended on lashed bamboo or wooden poles. Standardized steel tubes and couplers created a building system that could be configured for virtually any structure. Palmer-Jones's company, Scaffolding Great Britain, essentially created the industry as it exists today.
+The modern scaffolding industry was shaped by a 1913 [invention](/invention): Daniel Palmer-Jones patented the first scaffold coupler in London. This simple device—a clamp connecting two steel tubes at right angles—meant that scaffolding no longer depended on lashed bamboo or wooden poles. Standardized steel tubes and couplers created a building system that could be configured for virtually any structure. Palmer-Jones's company, Scaffolding Great Britain, essentially created the industry as it exists today.
 
 ## Types of Scaffolding
 
@@ -57,7 +57,7 @@ There's no one-size-fits-all scaffold. Different situations demand different sys
 
 This is what most people picture when they hear "scaffolding"—a structure built from the ground up.
 
-**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The trade-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-engineering) projects with unusual geometry, and heavy-duty applications.
+**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The trade-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-[engineering](/engineering)) projects with unusual geometry, and heavy-duty applications.
 
 **Frame scaffolding** (also called fabricated frame) uses pre-welded rectangular frames that stack and lock together. Cross-braces pin between frames for lateral stability. It's the fastest scaffold to erect and the most common type on residential and light commercial construction in North America. A crew of two can erect 40-60 frames per hour. The downside is limited configurability—frames come in standard sizes, and adapting to irregular buildings requires filler pieces and creativity.
 
@@ -85,7 +85,7 @@ Sometimes you can't build from the ground up. Suspended scaffolding hangs from t
 
 ## The Engineering Behind Scaffolding
 
-Scaffolding might look like tubes bolted together, but there's serious structural engineering involved—especially as heights and loads increase.
+Scaffolding might look like tubes bolted together, but there's serious [structural engineering](/structural-engineering) involved—especially as heights and loads increase.
 
 ### Load Analysis
 
@@ -141,7 +141,7 @@ That said, bamboo scaffolding has limitations. It can't be standardized with the
 
 ## Safety: Why It Matters More Than You Think
 
-Scaffolding safety statistics are sobering. In the U.S., falls from scaffolding account for approximately 60 deaths and 4,500 injuries every year, according to OSHA data. Worldwide, the numbers are far worse—particularly in countries with less rigorous safety enforcement. [Biomechanics](/biomechanics) research has shown that falls from even modest heights (2-3 meters) can cause fatal injuries, especially when the victim strikes protruding objects on the way down.
+Scaffolding safety [statistics](/statistics) are sobering. In the U.S., falls from scaffolding account for approximately 60 deaths and 4,500 injuries every year, according to OSHA data. Worldwide, the numbers are far worse—particularly in countries with less rigorous safety enforcement. [Biomechanics](/biomechanics) research has shown that falls from even modest heights (2-3 meters) can cause fatal injuries, especially when the victim strikes protruding objects on the way down.
 
 ### The Leading Causes of Scaffold Accidents
 
@@ -215,7 +215,7 @@ The scaffolding industry is going digital, albeit more slowly than some other co
 
 **3D laser scanning** of existing buildings creates precise digital models that scaffold designers use to configure systems that fit perfectly. This is particularly valuable for complex refurbishment projects where as-built drawings don't exist or are inaccurate.
 
-**Scaffold management software** tracks component inventory, inspection records, modification history, and compliance documentation. On large projects with thousands of scaffold bays, keeping track of what's been inspected, what's been modified, and what's been approved for loading is a genuine logistical challenge that software handles far better than paper forms.
+**Scaffold [management](/management) software** tracks component inventory, inspection records, modification history, and compliance documentation. On large projects with thousands of scaffold bays, keeping track of what's been inspected, what's been modified, and what's been approved for loading is a genuine logistical challenge that software handles far better than paper forms.
 
 ## Scaffolding Alternatives
 

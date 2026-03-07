@@ -5,7 +5,7 @@ description: "Physical chemistry applies physics principles to chemical systems,
 category: everyday-concepts
 tags: ["physical chemistry", "thermodynamics", "kinetics", "quantum chemistry", "science", "molecules"]
 heroImage: "/images/articles/physical-chemistry.webp"
-heroAlt: "Laboratory equipment with molecular models and energy diagrams illustrating chemical principles"
+heroAlt: "Editorial photograph representing the concept of physical chemistry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Physical Chemistry?
 
-Physical chemistry is the branch of chemistry that uses the principles and methods of physics — thermodynamics, quantum mechanics, statistical mechanics, and kinetics — to understand how chemical systems behave at the molecular level. While organic chemistry asks "What molecules can we make?" and analytical chemistry asks "What's in this sample?", physical chemistry asks "Why do chemicals behave the way they do?" and "Can we predict what will happen?"
+Physical chemistry is the branch of chemistry that uses the principles and methods of physics — [thermodynamics](/thermodynamics), [quantum mechanics](/quantum-mechanics), [statistical mechanics](/statistical-mechanics), and kinetics — to understand how chemical systems behave at the molecular level. While [organic chemistry](/organic-chemistry) asks "What molecules can we make?" and analytical chemistry asks "What's in this sample?", physical chemistry asks "Why do chemicals behave the way they do?" and "Can we predict what will happen?"
 
 ## What It Actually Studies
 
@@ -47,26 +47,26 @@ The Gibbs free energy equation — probably the most important equation in chemi
 
 Kinetics investigates reaction mechanisms — the step-by-step molecular events that turn reactants into products. A reaction that looks simple on paper (A + B → C) might involve dozens of intermediate steps, each with its own speed. Understanding these mechanisms is crucial for controlling reactions, designing catalysts, and developing drugs.
 
-The Arrhenius equation connects reaction rate to temperature — reactions go faster when hotter because molecules have more energy to overcome the activation energy barrier. This relationship is why refrigeration preserves food (slowing chemical degradation) and why your car engine needs a spark plug (providing activation energy).
+The Arrhenius equation connects reaction rate to temperature — reactions go faster when hotter because molecules have more energy to overcome the activation energy barrier. This relationship is why [refrigeration](/refrigeration) preserves food (slowing chemical degradation) and why your car engine needs a spark plug (providing activation energy).
 
-**Quantum chemistry** applies quantum mechanics to atoms and molecules. At the atomic scale, particles behave as waves, energy is quantized (comes in discrete packets), and electrons exist in probability clouds rather than fixed orbits. Quantum chemistry uses the Schrödinger equation to calculate molecular properties from first principles — bond lengths, bond angles, energies, and spectroscopic behavior.
+**[Quantum chemistry](/quantum-chemistry)** applies quantum mechanics to atoms and molecules. At the atomic scale, particles behave as waves, energy is quantized (comes in discrete packets), and electrons exist in probability clouds rather than fixed orbits. Quantum chemistry uses the Schrödinger equation to calculate molecular properties from first principles — bond lengths, bond angles, energies, and spectroscopic behavior.
 
 This matters practically because quantum calculations let you predict molecular properties before making the molecule. Drug designers use quantum chemistry to model how potential drug molecules will bind to target proteins. Materials scientists predict the properties of novel materials computationally. This "in silico" approach saves enormous amounts of laboratory time and money.
 
-## Spectroscopy
+## [Spectroscopy](/spectroscopy)
 
 Physical chemists are obsessed with spectroscopy — the study of how matter interacts with electromagnetic radiation. When light hits a molecule, different things happen depending on the wavelength:
 
 - **Microwave radiation** rotates molecules — rotational spectroscopy reveals bond lengths and molecular geometry
 - **Infrared radiation** vibrates molecular bonds — IR spectroscopy identifies functional groups and molecular structure
 - **Visible/UV radiation** excites electrons — UV-Vis spectroscopy reveals electronic structure and concentration
-- **X-rays** diffract off crystal lattices — X-ray crystallography reveals three-dimensional molecular structure
+- **X-rays** diffract off crystal lattices — [X-ray crystallography](/x-ray-[crystallography](/crystallography)) reveals three-dimensional molecular structure
 
 NMR (nuclear magnetic resonance) spectroscopy — which exploits the quantum mechanical spin of atomic nuclei — is arguably the most powerful structural tool in chemistry. It's the same physics behind MRI machines in hospitals, just applied to molecules instead of bodies.
 
 ## Statistical Mechanics
 
-Statistical mechanics bridges the gap between individual molecules and bulk properties. You can't track 10^23 individual molecules (that's roughly the number in a glass of water). But you can use probability and statistics to predict how they'll behave collectively.
+Statistical mechanics bridges the gap between individual molecules and bulk properties. You can't track 10^23 individual molecules (that's roughly the number in a glass of water). But you can use probability and [statistics](/statistics) to predict how they'll behave collectively.
 
 Temperature, pressure, and volume — the properties you measure in a lab — emerge from the collective behavior of astronomically large numbers of particles. Statistical mechanics explains how. It connects quantum-level molecular properties to the thermodynamic quantities you actually measure.
 
@@ -80,6 +80,6 @@ These aren't exotic topics. Catalytic converters in cars, non-stick coatings on 
 
 ## Why It Matters
 
-Physical chemistry is the theoretical backbone of chemistry. It tells you *why* things happen, not just *what* happens. That predictive power is what makes modern chemistry possible — from designing drugs that fit precisely into enzyme active sites, to engineering batteries with higher energy density, to understanding how pollutants behave in the atmosphere.
+Physical chemistry is the theoretical backbone of chemistry. It tells you *why* things happen, not just *what* happens. That predictive power is what makes modern chemistry possible — from designing drugs that fit precisely into enzyme active sites, to [engineering](/engineering) batteries with higher energy density, to understanding how pollutants behave in the atmosphere.
 
 It's demanding. The math is real, the concepts are abstract, and the learning curve is steep. But physical chemistry is where chemistry stops being a collection of observations and starts being a science that can predict the behavior of matter from fundamental principles.

@@ -5,7 +5,7 @@ description: "Wildfire management involves preventing, suppressing, and using fi
 category: science-technology
 tags: ["wildfire management", "firefighting", "prescribed burns", "forestry", "natural disasters", "ecology"]
 heroImage: "/images/articles/wildfire-management.webp"
-heroAlt: "Firefighters monitoring a controlled prescribed burn in a pine forest"
+heroAlt: "Editorial photograph representing the concept of wildfire management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Wildfire Management?
 
-Wildfire management is the practice of preventing, detecting, controlling, and strategically using fire across landscapes to protect human communities, infrastructure, and natural ecosystems. It's not simply firefighting — though that's the most visible part. Modern wildfire management includes prescribed burning, fuel reduction, land-use planning, community preparedness, and the increasingly uncomfortable acknowledgment that some ecosystems need fire and that trying to eliminate it entirely made things worse.
+Wildfire management is the practice of preventing, detecting, controlling, and strategically using fire across landscapes to protect human communities, infrastructure, and natural ecosystems. It's not simply [firefighting](/firefighting) — though that's the most visible part. Modern wildfire management includes prescribed burning, fuel reduction, land-use planning, community preparedness, and the increasingly uncomfortable acknowledgment that some ecosystems need fire and that trying to eliminate it entirely made things worse.
 
 ## Fire Is Natural (and Necessary)
 
 Here's the thing most people don't realize: many North American ecosystems evolved with fire. Ponderosa pine forests, longleaf pine savannas, tallgrass prairies, chaparral, and many other plant communities need periodic burning to stay healthy. Fire clears dead material, returns nutrients to soil, triggers seed germination in fire-adapted species, and prevents shade-tolerant species from overtaking fire-dependent ones.
 
-Indigenous peoples across North America managed landscapes with fire for thousands of years. They burned to promote food plants, improve hunting grounds, maintain travel corridors, and reduce wildfire risk near settlements. Early European explorers described landscapes shaped by intentional burning — open, park-like forests and productive grasslands maintained by fire.
+Indigenous peoples across North America managed landscapes with fire for thousands of years. They burned to promote food plants, improve [hunting](/hunting) grounds, maintain travel corridors, and reduce wildfire risk near settlements. Early European explorers described landscapes shaped by intentional burning — open, park-like forests and productive grasslands maintained by fire.
 
-When European colonization disrupted Indigenous fire practices and the U.S. government adopted aggressive fire suppression in the early 1900s, fuel began accumulating. Forests that had burned every 5-15 years went decades without fire. Dead wood, brush, and dense understory growth piled up. The result: when fires did occur, they burned far more intensely than the low-severity fires these ecosystems had evolved with.
+When European colonization disrupted Indigenous fire practices and the U.S. [government](/government) adopted aggressive fire suppression in the early 1900s, fuel began accumulating. Forests that had burned every 5-15 years went decades without fire. Dead wood, brush, and dense understory growth piled up. The result: when fires did occur, they burned far more intensely than the low-severity fires these ecosystems had evolved with.
 
 ## The Suppression Paradox
 
@@ -53,7 +53,7 @@ The Yellowstone fires of 1988, which burned 793,000 acres despite $120 million i
 
 Today's wildfire management operates on three tracks: prevention, suppression, and prescribed fire.
 
-**Prevention** — Reducing the chances of fire starting and limiting damage when it does. This includes public education (Smoky Bear has been at it since 1944), building codes in fire-prone areas, vegetation management around structures (defensible space), and infrastructure improvements like burying power lines.
+**Prevention** — Reducing the chances of fire starting and limiting damage when it does. This includes public [education](/education) (Smoky Bear has been at it since 1944), building codes in fire-prone areas, vegetation management around structures (defensible space), and infrastructure improvements like burying power lines.
 
 **Suppression** — Fighting fires that threaten lives and property. Modern suppression uses ground crews (hotshots, hand crews), engines, bulldozers, aircraft (air tankers, helicopters), and increasingly sophisticated weather forecasting and fire behavior modeling. The U.S. spends roughly $3-4 billion annually on wildfire suppression, up from about $1 billion in the 1990s.
 

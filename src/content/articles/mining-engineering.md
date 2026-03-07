@@ -5,7 +5,7 @@ description: "Mining engineering is the discipline of extracting minerals from t
 category: technology
 tags: ["mining engineering", "mining", "geology", "mineral extraction", "underground mining", "surface mining", "engineering"]
 heroImage: "/images/articles/mining-engineering-hero.webp"
-heroAlt: "Large open-pit mine with haul trucks and excavators removing ore from terraced benches"
+heroAlt: "Editorial photograph representing the concept of mining engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Mining Engineering?
 
-Mining engineering is the engineering discipline concerned with the discovery, extraction, and processing of minerals from the earth. It combines principles from [geology](/geology), mechanical engineering, civil [engineering](/engineering), and environmental science to design and operate mines that are safe, economically viable, and as environmentally responsible as possible.
+Mining engineering is the engineering discipline concerned with the discovery, extraction, and processing of minerals from the earth. It combines principles from [geology](/geology), [mechanical engineering](/mechanical-engineering), civil [engineering](/engineering), and [environmental science](/environmental-science) to design and operate mines that are safe, economically viable, and as environmentally responsible as possible.
 
 ## Civilization Runs on Mining
 
@@ -141,7 +141,7 @@ Raw ore from the mine is rarely pure enough to sell directly. Mineral processing
 
 ## Mine Safety: A Hard-Won Progress
 
-Mining has historically been one of the most dangerous occupations. In the early 1900s, the US mining industry averaged over 3,000 fatalities per year. In 1907, 362 miners died in a single disaster at the Monongah mine in West Virginia—the worst mining accident in American history.
+Mining has historically been one of the most dangerous occupations. In the early 1900s, the US mining industry averaged over 3,000 fatalities per year. In 1907, 362 miners died in a single disaster at the Monongah mine in West Virginia—the worst mining accident in [American history](/american-history).
 
 Since then, safety has improved dramatically. The Federal Mine Safety and Health Act of 1977 and subsequent regulations established mandatory inspections, safety standards, and miner training. US mining fatalities dropped from 272 in 1977 to 24 in 2023—a 91% reduction despite significant increases in production.
 
@@ -187,6 +187,6 @@ Asteroids contain enormous quantities of metals—a single asteroid, 16 Psyche, 
 
 ## Key Takeaways
 
-Mining engineering is the discipline that turns geological knowledge into the raw materials civilization depends on. It combines geology, mechanical and civil engineering, environmental science, and economics to extract minerals safely and efficiently from incredibly challenging environments.
+Mining engineering is the discipline that turns geological knowledge into the raw materials civilization depends on. It combines geology, mechanical and [civil engineering](/civil-engineering), environmental science, and economics to extract minerals safely and efficiently from incredibly challenging environments.
 
 The field faces genuine tensions—society demands more minerals (especially for clean energy transition) while also demanding less environmental impact. Meeting both requirements simultaneously is the defining challenge for the next generation of mining engineers. The solutions will involve more automation, better environmental management, and probably some entirely new extraction methods we haven't perfected yet. What won't change is the fundamental need—modern life without mining isn't a thing.

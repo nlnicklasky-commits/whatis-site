@@ -5,7 +5,7 @@ description: "Shoemaking is the craft of designing and constructing footwear fro
 category: everyday-concepts
 tags: ["shoemaking", "footwear", "shoes", "craft", "leatherwork", "fashion"]
 heroImage: "/images/articles/shoemaking.webp"
-heroAlt: "A cobbler hand-stitching a leather shoe on a wooden last in a workshop"
+heroAlt: "Editorial photograph representing the concept of shoemaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,11 +45,11 @@ The traditional shoemaking process involves several distinct stages, each requir
 
 **Cutting** (or "clicking" in British terminology) requires precision and material knowledge. Leather isn't uniform — different parts of a hide have different thickness, stretch, and grain patterns. The cutter must select the right area of the hide for each component. The vamp (front) needs firm, even leather. The quarters (sides) need some flexibility. A skilled cutter wastes minimal material while ensuring quality.
 
-**Closing** is the process of stitching the upper components together — creating the part of the shoe that wraps around the foot. This involves sewing multiple pieces of leather (and lining) into a single three-dimensional form. It's precision sewing — stitches must be even, seams must align, and the whole thing needs to be clean enough that the finished shoe looks seamless.
+**Closing** is the process of stitching the upper components together — creating the part of the shoe that wraps around the foot. This involves [sewing](/sewing) multiple pieces of leather (and lining) into a single three-dimensional form. It's precision sewing — stitches must be even, seams must align, and the whole thing needs to be clean enough that the finished shoe looks seamless.
 
 **Lasting** shapes the assembled upper over the last. The leather is pulled, stretched, and tacked into place, forcing the flat material to conform to the foot-shaped form. This step takes real physical strength and finesse — too much tension and the leather tears or distorts; too little and the shoe won't hold its shape.
 
-**Sole attachment** is where different construction methods diverge. Goodyear welted shoes have the sole stitched to a welt (a strip of leather running around the shoe's perimeter), which is stitched to the upper — creating a sandwich that can be disassembled for resoling. Blake-stitched shoes have the sole stitched directly through the insole. Cemented (glued) construction is fastest and cheapest but can't be resoled.
+**Sole attachment** is where different [construction](/construction) methods diverge. Goodyear welted shoes have the sole stitched to a welt (a strip of leather [running](/running) around the shoe's perimeter), which is stitched to the upper — creating a sandwich that can be disassembled for resoling. Blake-stitched shoes have the sole stitched directly through the insole. Cemented (glued) construction is fastest and cheapest but can't be resoled.
 
 **Finishing** includes trimming, polishing, burnishing edges, applying color, and final quality inspection. A well-finished shoe has edges that look like single pieces of material rather than layered components. This finishing work is what makes a high-quality shoe look qualitatively different from a cheap one.
 
@@ -57,9 +57,9 @@ The traditional shoemaking process involves several distinct stages, each requir
 
 The oldest known shoe is a leather moccasin found in an Armenian cave, dated to about 3500 BC. But footwear almost certainly predates this — simpler sandals and wrappings of hide or plant fiber likely go back tens of thousands of years.
 
-Shoemaking became a specialized trade in medieval Europe. The Worshipful Company of Cordwainers (shoemakers) was established in London in 1272. The name "cordwainer" comes from Cordoba, Spain, which produced the finest goat leather in medieval Europe.
+Shoemaking became a specialized [trade](/trade) in medieval Europe. The Worshipful Company of Cordwainers (shoemakers) was established in London in 1272. The name "cordwainer" comes from Cordoba, Spain, which produced the finest goat leather in medieval Europe.
 
-For centuries, shoes were made entirely by hand — one pair at a time, by a single craftsperson. The Industrial Revolution changed everything. Jan Ernst Matzeliger's lasting machine (patented 1883) mechanized the most labor-intensive step, increasing production from 50 pairs per day by hand to 700 by machine. This single invention made affordable shoes available to ordinary people for the first time.
+For centuries, shoes were made entirely by hand — one pair at a time, by a single craftsperson. The Industrial Revolution changed everything. Jan Ernst Matzeliger's lasting machine (patented 1883) mechanized the most labor-intensive step, increasing production from 50 pairs per day by hand to 700 by machine. This single [invention](/invention) made affordable shoes available to ordinary people for the first time.
 
 Today, global shoe production exceeds 24 billion pairs annually. China produces about 60% of the world's shoes. The vast majority are factory-made with cemented construction — fast, cheap, and disposable.
 
@@ -73,7 +73,7 @@ Italy's shoemaking tradition centers in regions like Marche, where firms like Sa
 
 ## Why Handmade Shoes Matter
 
-The difference between a bespoke shoe and a mass-produced one isn't just status — it's engineering.
+The difference between a bespoke shoe and a mass-produced one isn't just status — it's [engineering](/engineering).
 
 A custom shoe fits your specific foot. If your left foot is slightly larger (most people's are), the left shoe is slightly larger. If you have a high arch, the shoe supports it. If you have bunions, the shoe accommodates them. This precision fit means dramatically better comfort, reduced foot problems, and a shoe that looks better because it actually matches the foot inside it.
 

@@ -5,7 +5,7 @@ description: "Science journalism translates research findings into stories the p
 category: everyday-concepts
 tags: ["science", "journalism", "science communication", "research", "public understanding", "scientific literacy"]
 heroImage: "/images/articles/science-journalism.webp"
-heroAlt: "A journalist interviewing a researcher in a laboratory setting with scientific equipment visible"
+heroAlt: "Editorial photograph representing the concept of science journalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Yes. Many successful science journalists have backgrounds in English, communications, or general journalism. What matters more is the ability to learn quickly, ask good questions, read research papers, and write clearly. That said, a science background helps enormously — you can spot errors, understand methods, and evaluate claims that a non-specialist might miss."
 ---
 
-# What Is Science Journalism?
+# What Is Science [Journalism](/journalism)?
 
 Science journalism is the practice of reporting on scientific research, discoveries, and developments for a general audience. It bridges the gap between the laboratory and the living room — taking complex, jargon-heavy findings published in academic journals and turning them into stories that non-specialists can actually understand and care about.
 
-Done well, it's one of the most important forms of journalism that exists. Decisions about climate policy, vaccination, genetic engineering, and artificial intelligence all depend on the public having at least a basic understanding of the science involved. Science journalists are the primary channel through which most people encounter scientific information.
+Done well, it's one of the most important forms of journalism that exists. Decisions about climate policy, vaccination, genetic [engineering](/engineering), and [artificial intelligence](/artificial-intelligence) all depend on the public having at least a basic understanding of the science involved. Science journalists are the primary channel through which most people encounter scientific information.
 
-## The Translation Problem
+## The [Translation](/translation) Problem
 
 The fundamental challenge of science journalism is translation. A research paper might conclude: "We observed a statistically significant (p < 0.05) inverse correlation between daily flavonoid intake and all-cause mortality risk in a prospective cohort of 159,000 participants over 18 years, with a hazard ratio of 0.82 (95% CI: 0.76-0.89)."
 
@@ -53,7 +53,7 @@ A journalist identifies a story — maybe a new paper in *Nature*, a presentatio
 
 This independent commentary is crucial. A study's authors naturally emphasize their findings' importance. Outside experts provide context: Is this study well-designed? Does it contradict existing evidence? How significant is the finding, really? A good science journalist gets at least two to three independent perspectives.
 
-Then comes writing — explaining the findings clearly while accurately conveying uncertainty, limitations, and context. The best science journalists resist the urge to overclaim. Instead of "Scientists Discover Cure for Cancer," they write "New Drug Shows Promise in Early-Stage Trials Against Specific Tumor Type." Less exciting, but honest.
+Then comes [writing](/writing) — explaining the findings clearly while accurately conveying uncertainty, limitations, and context. The best science journalists resist the urge to overclaim. Instead of "Scientists Discover Cure for Cancer," they write "New Drug Shows Promise in Early-Stage Trials Against Specific Tumor Type." Less exciting, but honest.
 
 ## The Hype Cycle Problem
 
@@ -71,9 +71,9 @@ Despite these problems, excellent science journalism exists and makes a real dif
 
 The *New York Times* science section, *Scientific American*, *Nature News*, *STAT*, and *Ars Technica* consistently produce rigorous, engaging science coverage. Individual journalists like Ed Yong (who won a Pulitzer for his COVID-19 reporting), Carl Zimmer, and Rebecca Skloot have shown that complex science can be told as compelling narrative without sacrificing accuracy.
 
-Long-form science journalism — the kind that takes months to report — can be extraordinary. Rebecca Skloot's *The Immortal Life of Henrietta Lacks* took 10 years to research and write. It told the story of the HeLa cell line, exploring science, ethics, race, and medicine simultaneously. It sold over 2.5 million copies, proving that the public hunger for well-told science stories is real.
+Long-form science journalism — the kind that takes months to report — can be extraordinary. Rebecca Skloot's *The Immortal Life of Henrietta Lacks* took 10 years to research and write. It told the story of the HeLa cell line, exploring science, [ethics](/ethics), race, and medicine simultaneously. It sold over 2.5 million copies, proving that the public hunger for well-told science stories is real.
 
-The COVID-19 pandemic, for all its problems, demonstrated why science journalism matters. Publications that had invested in science reporting could explain mRNA vaccine technology, interpret case fatality rates, and evaluate public health measures. Those that hadn't often spread confusion.
+The COVID-19 pandemic, for all its problems, demonstrated why science journalism matters. Publications that had invested in science reporting could explain mRNA vaccine technology, interpret case fatality rates, and evaluate [public health](/public-health) measures. Those that hadn't often spread confusion.
 
 ## The Digital Era's Impact
 

@@ -5,7 +5,7 @@ description: "Bioengineering applies engineering principles to biological system
 category: technology
 tags: ["bioengineering", "biomedical engineering", "medical devices", "tissue engineering", "prosthetics", "bioinformatics", "healthcare technology"]
 heroImage: "/images/articles/bioengineering-hero.webp"
-heroAlt: "Researcher in a lab examining a 3D-printed tissue scaffold under magnification"
+heroAlt: "Editorial photograph representing the concept of bioengineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Bioengineering is really an umbrella covering several distinct but overlapping f
 
 **Biomechanics** studies the mechanical properties and behavior of biological systems — from the forces on a knee joint during running to the fluid dynamics of blood flow through arteries. (This field has its [own article](/biomechanics).)
 
-**Bioinformatics** applies computational methods to biological data — particularly genomic, proteomic, and metabolomic datasets. It sits at the intersection of biology, computer science, and statistics.
+**Bioinformatics** applies computational methods to biological data — particularly genomic, proteomic, and metabolomic datasets. It sits at the intersection of biology, [computer science](/computer-science), and statistics.
 
 **Neural engineering** interfaces engineered systems with the nervous system. Brain-computer interfaces, cochlear implants, and deep brain stimulation for Parkinson's disease are all neural engineering.
 
@@ -67,7 +67,7 @@ Medical devices represent the most established domain of bioengineering. The fie
 
 The ability to see inside the human body without cutting it open has transformed medicine more than almost any other technology.
 
-**X-ray** — discovered by Wilhelm Roentgen in 1895 — was the first medical imaging modality. X-rays pass through soft tissue but are absorbed by bone, creating shadow images. CT (computed tomography) scanning, developed in the 1970s by Godfrey Hounsfield and Allan Cormack (who shared the 1979 Nobel Prize), takes multiple X-ray images from different angles and uses [algorithms](/algorithms) to reconstruct cross-sectional slices.
+**X-ray** — discovered by Wilhelm Roentgen in 1895 — was the first [medical imaging](/medical-imaging) modality. X-rays pass through soft tissue but are absorbed by bone, creating shadow images. CT (computed tomography) scanning, developed in the 1970s by Godfrey Hounsfield and Allan Cormack (who shared the 1979 Nobel Prize), takes multiple X-ray images from different angles and uses [algorithms](/algorithms) to reconstruct cross-sectional slices.
 
 **MRI** (magnetic resonance imaging) uses strong magnetic fields and radiofrequency pulses to excite hydrogen atoms in the body, then measures the signals they emit as they relax. Different tissues relax at different rates, creating contrast without radiation. The engineering challenge is immense: clinical MRI machines generate magnetic fields 30,000 to 60,000 times stronger than Earth's magnetic field, requiring superconducting magnets cooled with liquid helium to -269 degrees Celsius.
 
@@ -85,7 +85,7 @@ The ability to see inside the human body without cutting it open has transformed
 
 ## Tissue Engineering: Growing Spare Parts
 
-The premise of tissue engineering sounds like science fiction: take cells from a patient, grow them on a scaffold, and create a replacement tissue or organ. The reality is more complex, but real progress is being made.
+The premise of tissue engineering sounds like [science fiction](/science-fiction): take cells from a patient, grow them on a scaffold, and create a replacement tissue or organ. The reality is more complex, but real progress is being made.
 
 ### How It Works
 
@@ -109,7 +109,7 @@ Growing a kidney or a heart remains the holy grail — and the biggest unsolved 
 
 Organoids — miniature, simplified versions of organs grown from stem cells — offer a nearer-term application. Researchers have grown brain organoids, kidney organoids, liver organoids, and gut organoids that recapitulate key features of the real organs. These aren't transplantable, but they're invaluable for drug testing, disease modeling, and studying development.
 
-## Genetic Engineering and Synthetic Biology
+## Genetic Engineering and [Synthetic Biology](/synthetic-biology)
 
 The ability to read, edit, and write DNA has created an entirely new branch of bioengineering.
 
@@ -144,7 +144,7 @@ Connecting engineered devices to the nervous system is one of bioengineering's m
 
 **Deep brain stimulation (DBS)** implants electrodes deep in the brain to deliver electrical pulses that modulate neural circuit activity. FDA-approved for Parkinson's disease, essential tremor, and dystonia, DBS is being investigated for depression, OCD, and addiction. The mechanism isn't fully understood — which is unusual for an FDA-approved therapy — but the clinical results are often dramatic.
 
-## Bioinformatics and Computational Biology
+## Bioinformatics and [Computational Biology](/computational-biology)
 
 The explosion of biological data — from genome sequencing, proteomics, metabolomics, and clinical records — has made computation central to bioengineering. The Human Genome Project (completed in 2003) cost about $3 billion and took 13 years. Today, a human genome can be sequenced in hours for under $200.
 

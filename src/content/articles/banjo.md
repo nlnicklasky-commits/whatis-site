@@ -5,7 +5,7 @@ description: "The banjo is a stringed instrument with a thin membrane stretched 
 category: everyday-concepts
 tags: ["banjo", "musical instrument", "bluegrass", "folk music", "string instrument", "country music"]
 heroImage: "/images/articles/banjo.webp"
-heroAlt: "Close-up of a five-string banjo with mother-of-pearl inlays on the fingerboard"
+heroAlt: "Editorial photograph representing the concept of banjo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Banjo?
 
-The banjo is a stringed musical instrument featuring a thin membrane (historically animal skin, now usually plastic) stretched over a circular frame, producing a bright, percussive, twangy tone unlike any other instrument. Most commonly associated with American bluegrass, folk, and country music, the banjo has African origins and a complicated cultural history.
+The banjo is a stringed musical instrument featuring a thin membrane (historically animal skin, now usually plastic) stretched over a circular frame, producing a bright, percussive, twangy tone unlike any other instrument. Most commonly associated with American bluegrass, folk, and [country music](/country-music), the banjo has African origins and a complicated cultural history.
 
 ## African Roots, American Identity
 
@@ -45,7 +45,7 @@ This history created a painful irony. The banjo, an African instrument, became s
 
 The banjo's distinctive sound comes from its drum-like body. A plastic or skin head is stretched over a wooden or metal rim (called the pot), creating a resonating membrane. When strings are plucked, vibrations transfer through the bridge to the head, which amplifies them — much like a drum amplifies a stick hit.
 
-This design produces a sharp attack and quick decay — the note rings out brightly but doesn't sustain as long as a [guitar](/classical-guitar) or mandolin. The result is that characteristic "plunky" banjo sound that cuts through ensemble textures.
+This design produces a sharp attack and quick decay — the note rings out brightly but doesn't sustain as long as a [guitar](/classical-guitar) or [mandolin](/mandolin). The result is that characteristic "plunky" banjo sound that cuts through ensemble textures.
 
 The five-string banjo — the most popular type — has a unique feature: the fifth string starts at the fifth fret rather than the headstock. It's typically tuned to a high G and functions as a drone, ringing out at the same pitch regardless of what the other fingers are doing. This drone creates the banjo's hypnotic, rolling quality and connects it to the drone traditions of West African music and, interestingly, to instruments like the Indian sitar.
 
@@ -65,7 +65,7 @@ Clawhammer is the primary banjo style in old-time Appalachian music, where the b
 
 ### Melodic and Single-String
 
-These modern techniques, developed by Bill Keith and others in the 1960s, allow banjo players to pick out scale-based melodies note by note — something the rolling Scruggs style doesn't easily accommodate. These styles expanded the banjo's repertoire into jazz, classical, and world music contexts.
+These modern techniques, developed by Bill Keith and others in the 1960s, allow banjo players to pick out scale-based melodies note by note — something the rolling Scruggs style doesn't easily accommodate. These styles expanded the banjo's repertoire into jazz, classical, and [world music](/world-music) contexts.
 
 ## The Banjo in Culture
 
@@ -73,18 +73,18 @@ The banjo has worn many cultural hats:
 
 In **bluegrass** (1940s onward), the banjo shares lead duties with fiddle, guitar, mandolin, and bass in a fast-paced, acoustic genre pioneered by Bill Monroe.
 
-In **old-time music**, the banjo and fiddle form the core of a tradition stretching back to 18th-century Appalachia — dance music played at gatherings, preserving melodies that sometimes trace to the British Isles and Africa alike.
+In **old-time music**, the banjo and fiddle form the core of a tradition stretching back to 18th-century Appalachia — [dance](/dance) music played at gatherings, preserving melodies that sometimes trace to the British Isles and Africa alike.
 
 In **jazz** (1890s-1930s), four-string tenor and plectrum banjos provided rhythmic accompaniment in early Dixieland bands before being largely replaced by the guitar.
 
 In **folk revival** (1950s-1960s), Pete Seeger's banjo became an icon of protest music. His long-necked banjo, custom-built to play in lower keys that suited his voice, inspired a generation of folk musicians.
 
-Bela Fleck has arguably done more than anyone to expand the banjo's range — playing jazz, classical, African, and electronic music on an instrument most people still associate exclusively with country porches. His work with the Flecktones and his collaborations with African musicians have demonstrated that the banjo is far more versatile than its stereotypes suggest.
+Bela Fleck has arguably done more than anyone to expand the banjo's range — playing jazz, classical, African, and [electronic music](/electronic-music) on an instrument most people still associate exclusively with country porches. His work with the Flecktones and his collaborations with African musicians have demonstrated that the banjo is far more versatile than its stereotypes suggest.
 
 ## Getting Started
 
 A decent beginner banjo costs $200-400 — cheaper than most acoustic guitars of comparable quality. Clawhammer is generally easier to start with, since the basic strum pattern can be learned in a few hours. Scruggs style takes longer but has more instructional resources available, including extensive YouTube tutorials.
 
-The open G tuning of the five-string banjo (G-D-G-B-D) means that strumming all the strings without fretting any produces a pleasant chord — unlike a guitar, where open strings sound dissonant. This makes the banjo friendlier to absolute beginners than you'd expect from an instrument with such a distinctive (and technically demanding) sound.
+The open G tuning of the five-string banjo (G-D-G-B-D) means that strumming all the strings without fretting any produces a pleasant chord — unlike [a guitar](/guitar), where open strings sound dissonant. This makes the banjo friendlier to absolute beginners than you'd expect from an instrument with such a distinctive (and technically demanding) sound.
 
 If you've ever tapped your foot to [bluegrass](/blues-music) or felt a jolt of energy from a banjo breakdown, the instrument might be calling you. It has a way of doing that.

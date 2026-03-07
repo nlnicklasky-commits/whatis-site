@@ -5,7 +5,7 @@ description: "Ice skating is gliding on ice using bladed boots. Learn about figu
 category: sports
 tags: ["ice skating", "skates", "figure skating", "speed skating", "ice hockey", "winter sports"]
 heroImage: "/images/articles/ice-skating.webp"
-heroAlt: "Figure skater performing a spin on gleaming ice under arena lights"
+heroAlt: "Editorial photograph representing the concept of ice skating"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Ice Skating?
 
-Ice skating is moving across ice on metal-bladed boots, using the blade's thin edge to glide with remarkably little friction. It is one of the oldest winter activities — archaeological evidence suggests that people in Scandinavia skated on bone blades as early as 3000 BCE — and it remains one of the most popular, encompassing everything from casual laps around a rink to Olympic-level figure skating and speed skating.
+Ice skating is moving across ice on metal-bladed boots, using the blade's thin edge to glide with remarkably little friction. It is one of the oldest winter activities — archaeological evidence suggests that people in Scandinavia skated on bone blades as early as 3000 BCE — and it remains one of the most popular, encompassing everything from casual laps around a rink to Olympic-level [figure skating](/figure-skating) and speed skating.
 
 ## Why Ice Is Slippery (It Took Science a While)
 
@@ -43,11 +43,11 @@ The current understanding: ice surfaces naturally have a thin quasi-liquid layer
 
 **Recreational skating** — the most common form. You show up at a rink, rent skates, and glide around listening to music. It is accessible, social, and low-pressure. Indoor rinks maintain ice year-round. Outdoor rinks — from Central Park's Wollman Rink to frozen ponds — add seasonal charm.
 
-**Figure skating** — the artistic and athletic discipline that combines skating skill with jumps, spins, and choreographed programs set to music. Olympic figure skating includes singles (men's and women's), pairs, and ice dance. The technical elements are staggering — a triple axel requires rotating 3.5 times in the air within about 0.7 seconds, generating forces of up to 8 times body weight on landing.
+**Figure skating** — the artistic and athletic discipline that combines skating skill with jumps, spins, and choreographed programs set to music. Olympic figure skating includes singles (men's and women's), pairs, and ice [dance](/dance). The technical elements are staggering — a triple axel requires rotating 3.5 times in the air within about 0.7 seconds, generating forces of up to 8 times body weight on landing.
 
 **Speed skating** — pure racing on ice. Long-track speed skating uses a 400-meter oval; short-track uses a 111-meter oval shared by multiple skaters simultaneously. Long-track skaters reach speeds of 35+ mph. The Netherlands dominates long-track historically, winning more Olympic medals in the sport than any other country.
 
-**Ice hockey skating** — a specific style emphasizing quick starts, stops, tight turns, and backward skating. Hockey skates differ from figure skates — shorter blades, no toe picks, more ankle support. Hockey players are among the most agile skaters in any discipline.
+**[Ice hockey](/ice-[hockey](/hockey)) skating** — a specific style emphasizing quick starts, stops, tight turns, and backward skating. Hockey skates differ from figure skates — shorter blades, no toe picks, more ankle support. Hockey players are among the most agile skaters in any discipline.
 
 **Synchronized skating** — teams of 12 to 20 skaters performing choreographed routines in formation. Think figure skating meets marching band. It is not currently an Olympic event but has a dedicated competitive circuit.
 
@@ -68,12 +68,12 @@ The first time on ice is humbling for almost everyone. Your ankles wobble, your 
 **Beginner tips:**
 
 - **Bend your knees.** The single most important instruction. Straight legs = unstable. Bent knees lower your center of gravity and improve balance dramatically.
-- **March before you glide.** Take small, flat-footed steps like walking. Once you feel stable, let each step glide slightly longer.
+- **March before you glide.** Take small, flat-footed steps like [walking](/walking). Once you feel stable, let each step glide slightly longer.
 - **Learn to fall.** You will fall. Bend your knees, lean forward slightly, and try to fall to the side rather than backward. Protect your head — wrist guards and a helmet are smart for beginners.
 - **Look forward, not down.** Your balance follows your eyes. Looking at the ice shifts your weight forward and makes falls more likely.
 - **Use the wall sparingly.** The boards are a crutch. Push away from them as soon as you can manage short glides independently.
 
-Most rinks offer group lessons for both children and adults. A series of 6 to 8 lessons will teach you the basics: forward skating, stopping (the snowplow stop is usually first), backward gliding, and simple turns.
+Most rinks offer group lessons for both children and adults. A series of 6 to 8 lessons will teach you the basics: forward skating, stopping (the snowplow stop is usually first), backward [gliding](/gliding), and simple turns.
 
 ## Figure Skating — The Premier Ice Sport
 

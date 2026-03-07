@@ -5,7 +5,7 @@ description: "Wrestling is a combat sport where two opponents grapple for contro
 category: sports
 tags: ["wrestling", "combat sports", "Olympic sports", "grappling", "martial arts", "athletics"]
 heroImage: "/images/articles/wrestling.webp"
-heroAlt: "Two wrestlers grappling on a competition mat during an intense match"
+heroAlt: "Editorial photograph representing the concept of wrestling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ A typical freestyle or Greco-Roman match consists of two 3-minute periods. Wrest
 
 **Points** — If no pin or technical superiority occurs, the wrestler with more points wins. Takedowns (bringing your opponent from standing to the mat under your control) score 2-5 points depending on execution. Exposure (turning your opponent so their back faces the mat at less than 90 degrees) scores 2-3 points. Reversals (escaping a controlled position and taking control) score points. Penalties against your opponent also add to your score.
 
-**Weight classes** divide competition into fair matchups. Olympic freestyle has six men's and six women's weight classes. Collegiate wrestling has 10 weight classes. Weight management — making weight for a specific class — has historically been controversial, with some wrestlers using extreme dehydration to compete in lower classes.
+**Weight classes** divide competition into fair matchups. Olympic freestyle has six men's and six women's weight classes. Collegiate wrestling has 10 weight classes. Weight [management](/management) — making weight for a specific class — has historically been controversial, with some wrestlers using extreme dehydration to compete in lower classes.
 
 ## The Physical Demands
 

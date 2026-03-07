@@ -5,7 +5,7 @@ description: "Irrigation is supplying water to crops through artificial channels
 category: agriculture
 tags: ["irrigation", "agriculture", "water management", "farming", "food production"]
 heroImage: "/images/articles/irrigation.webp"
-heroAlt: "Center-pivot irrigation system spraying water across a green agricultural field"
+heroAlt: "Editorial photograph representing the concept of irrigation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Irrigation is the artificial application of water to land for growing crops. It 
 
 Rain is unreliable. It falls at the wrong time, in the wrong amount, in the wrong place. Irrigation decouples food production from weather uncertainty. A farmer with irrigation can grow crops in deserts, extend growing seasons, and produce consistent yields regardless of rainfall patterns.
 
-The math is stark: agriculture consumes about 70% of all freshwater withdrawn globally. In arid regions like the western United States, the Middle East, and Central Asia, that figure exceeds 85%. Water scarcity is therefore not just an environmental issue — it is a food security issue.
+The math is stark: [agriculture](/agriculture) consumes about 70% of all freshwater withdrawn globally. In arid regions like the western United States, the Middle East, and Central Asia, that figure exceeds 85%. Water scarcity is therefore not just an environmental issue — it is a food security issue.
 
 ## Methods — From Ancient to Modern
 
@@ -63,7 +63,7 @@ These ancient systems demonstrate that irrigation is not just a modern convenien
 
 **Water depletion.** The Ogallala Aquifer — which irrigates one-fifth of U.S. cropland across eight Great Plains states — is being pumped far faster than it recharges. Some areas have already exhausted accessible groundwater. Similar depletion affects aquifers in India, China, and the Middle East.
 
-**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing productivity. Proper drainage and flushing can manage the problem but add cost.
+**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing [productivity](/productivity). Proper drainage and flushing can manage the problem but add cost.
 
 **Energy costs.** Pumping water — especially from deep wells — requires significant energy. In California's Central Valley, irrigation pumping accounts for a substantial portion of agricultural operating costs.
 

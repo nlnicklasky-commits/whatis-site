@@ -5,7 +5,7 @@ description: "Spiritualism is the belief that the living can communicate with th
 category: philosophy
 tags: ["spiritualism", "philosophy", "religion", "mediumship", "paranormal", "history"]
 heroImage: "/images/articles/spiritualism.webp"
-heroAlt: "A dimly lit Victorian-era seance room with people seated around a table and candles providing soft illumination"
+heroAlt: "Editorial photograph representing the concept of spiritualism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ faq:
 
 Spiritualism is the belief system — and in some forms, organized religion — centered on the claim that the spirits of the dead continue to exist and can communicate with the living, typically through individuals called mediums. Originating in the United States in the late 1840s, Spiritualism grew into a mass movement that at its peak attracted millions of followers in North America and Europe.
 
-Whether you view it as genuine contact with an afterlife or as a case study in human psychology and wishful thinking, Spiritualism's influence on religion, science, culture, and the study of consciousness has been enormous.
+Whether you view it as genuine contact with an afterlife or as a case study in human [psychology](/psychology) and wishful thinking, Spiritualism's influence on religion, science, culture, and the study of consciousness has been enormous.
 
 ## The Hydesville Rappings: Where It Started
 
@@ -63,9 +63,9 @@ Spiritualism offered something more concrete: the claim that you could actually 
 
 ### The Scientific Moment
 
-The 1840s-1890s were also a period of astonishing scientific discovery. The telegraph (1844) proved that invisible signals could travel through wires. [Electricity](/electronics) and magnetism were being unified. The idea that invisible forces could transmit information was no longer supernatural — it was front-page news.
+The 1840s-1890s were also a period of astonishing scientific discovery. The telegraph (1844) proved that invisible signals could travel through wires. [Electricity](/electronics) and [magnetism](/magnetism) were being unified. The idea that invisible forces could transmit information was no longer supernatural — it was front-page news.
 
-Spiritualists explicitly drew parallels between telegraphy and mediumship. If electricity could carry messages along wires, why couldn't some analogous force carry messages from the spirit world? The analogy was wrong, but it was persuasive in an era when the boundaries of physics seemed to be expanding weekly.
+Spiritualists explicitly drew parallels between telegraphy and mediumship. If [electricity](/electricity) could carry messages along wires, why couldn't some analogous force carry messages from the spirit world? The analogy was wrong, but it was persuasive in an era when the boundaries of physics seemed to be expanding weekly.
 
 ### The Religious Context
 
@@ -162,12 +162,12 @@ Spiritualism as a mass movement peaked around 1870-1920. Several factors drove i
 
 **The rise of psychology** — as [psychology](/cognitive-psychology) became a scientific discipline, many phenomena attributed to spirits were reinterpreted as products of the unconscious mind. Automatic writing became "dissociation." Trance mediumship became "altered states of consciousness." The spirits were explained away without the spirits.
 
-**World War I** — the massive death toll (roughly 17 million) briefly revived interest in Spiritualism (Arthur Conan Doyle, creator of the hyper-rational Sherlock Holmes, was a devoted Spiritualist partly due to wartime bereavement). But the revival was temporary.
+**[World War I](/world-war-i)** — the massive death toll (roughly 17 million) briefly revived interest in Spiritualism (Arthur Conan Doyle, creator of the hyper-rational Sherlock Holmes, was a devoted Spiritualist partly due to wartime bereavement). But the revival was temporary.
 
 ### What Remains
 
 Spiritualism never disappeared. The NSAC continues to operate churches across the United States. Spiritualist churches in the UK number in the hundreds. In Brazil, Spiritism — a related tradition founded by Allan Kardec in France in the 1850s, which adds reincarnation to the basic Spiritualist framework — has tens of millions of adherents and significant cultural influence.
 
-The broader cultural legacy is harder to measure but arguably more significant. Spiritualism helped normalize the idea that the afterlife could be investigated empirically rather than accepted on faith. It helped push the scientific study of consciousness and unusual mental states. It gave women public platforms before they had the vote. And it raised questions about the relationship between mind, brain, and identity that neuroscience and [philosophy](/aesthetics) still grapple with today.
+The broader cultural legacy is harder to measure but arguably more significant. Spiritualism helped normalize the idea that the afterlife could be investigated empirically rather than accepted on faith. It helped push the scientific study of consciousness and unusual mental states. It gave women public platforms before they had the vote. And it raised questions about the relationship between mind, brain, and identity that [neuroscience](/neuroscience) and [philosophy](/aesthetics) still grapple with today.
 
 Whether the spirits were real or not — and the overwhelming weight of scientific evidence says they weren't — the humans who believed in them changed the world in ways that were entirely real.

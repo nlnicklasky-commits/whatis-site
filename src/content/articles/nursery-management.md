@@ -5,7 +5,7 @@ description: "Nursery management is the practice of growing and caring for plant
 category: everyday-concepts
 tags: ["nursery management", "horticulture", "plant propagation", "gardening", "agriculture", "plant health"]
 heroImage: "/images/articles/nursery-management.webp"
-heroAlt: "Rows of potted plants and seedlings inside a commercial greenhouse nursery"
+heroAlt: "Editorial photograph representing the concept of nursery management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "The top challenges include pest and disease management, weather unpredictability, labor availability and costs, inventory management (plants are perishable and have specific growing timelines), water management and regulations, and market timing — you need plants ready when customers want to buy, which means planning months or years in advance."
 ---
 
-# What Is Nursery Management?
+# What Is Nursery [Management](/management)?
 
-Nursery management is the business and science of growing plants — trees, shrubs, flowers, vegetables, and ornamentals — in controlled conditions for commercial sale, landscaping, reforestation, or transplanting. A plant nursery is essentially a factory where the product is alive, growing, and sensitive to weather, disease, pests, and timing. Managing one well requires equal parts botany, business sense, and careful planning.
+Nursery management is the business and science of growing plants — trees, shrubs, flowers, vegetables, and ornamentals — in controlled conditions for commercial sale, [landscaping](/landscaping), reforestation, or transplanting. A plant nursery is essentially a factory where the product is alive, growing, and sensitive to weather, disease, pests, and timing. Managing one well requires equal parts botany, business sense, and careful planning.
 
 ## What Nurseries Actually Do
 
-A nursery's job is to take plants from their earliest stages — seeds, cuttings, or tissue cultures — and grow them to a size and condition suitable for sale. This sounds simple, but the logistics are surprisingly complex.
+A nursery's job is to take plants from their earliest stages — seeds, cuttings, or tissue cultures — and grow them to a size and condition suitable for sale. This sounds simple, but the [logistics](/logistics) are surprisingly complex.
 
-Consider a container nursery growing ornamental shrubs. You need to select varieties that match market demand. Source seed or cuttings from reliable suppliers. Propagate them in controlled conditions. Transplant them into progressively larger containers as they grow. Manage irrigation, fertilization, pest control, and pruning throughout a growing cycle that might span two to five years. Time the growing cycle so plants reach saleable size during peak buying season. Then market, sell, and ship living inventory that degrades in quality every day it sits unsold.
+Consider a container nursery growing ornamental shrubs. You need to select varieties that match market demand. Source seed or cuttings from reliable suppliers. Propagate them in controlled conditions. Transplant them into progressively larger containers as they grow. Manage [irrigation](/irrigation), fertilization, pest control, and [pruning](/pruning) throughout a growing cycle that might span two to five years. Time the growing cycle so plants reach saleable size during peak buying season. Then market, sell, and ship living inventory that degrades in quality every day it sits unsold.
 
 That's the core challenge: plants don't wait for customers. They grow on their own schedule, and your business has to work around theirs.
 
@@ -49,7 +49,7 @@ That's the core challenge: plants don't wait for customers. They grow on their o
 
 **Liner nurseries** specialize in the earliest stage — producing small "liner" plants (young rooted cuttings or seedlings) that other nurseries buy and grow to finished size. They're essentially wholesale propagators.
 
-**Forestry nurseries** produce tree seedlings for reforestation, conservation, and timber production. The U.S. Forest Service and state forestry agencies operate large seedling nurseries, and private forestry nurseries supply the timber industry.
+**[Forestry](/forestry) nurseries** produce tree seedlings for reforestation, conservation, and timber production. The U.S. Forest Service and state forestry agencies operate large seedling nurseries, and private forestry nurseries supply the timber industry.
 
 **Tissue culture laboratories** propagate plants using small pieces of plant tissue grown in sterile conditions on nutrient media. This technique produces large quantities of genetically identical plants and is especially useful for orchids, ferns, and disease-free fruit tree rootstocks.
 
@@ -63,13 +63,13 @@ Getting new plants started is the fundamental skill.
 
 **Grafting** joins a piece of one plant (the scion) to the root system of another (the rootstock). Fruit trees are almost always grafted — you get the fruit variety you want on roots that provide disease resistance, size control, or soil adaptation. It's a skilled technique that takes practice to master.
 
-**Division** splits an established plant into multiple sections, each with its own roots and shoots. Perennials, grasses, and many houseplants are commonly propagated this way.
+**Division** splits an established plant into multiple sections, each with its own roots and shoots. Perennials, grasses, and many [houseplants](/houseplants) are commonly propagated this way.
 
 ## The Business Side
 
-Running a nursery profitably requires careful financial management. Margins are often thin — 20-40% gross margin is typical for wholesale nurseries, with retail nurseries earning more but facing higher overhead.
+[Running](/running) a nursery profitably requires careful financial management. Margins are often thin — 20-40% gross margin is typical for wholesale nurseries, with retail nurseries earning more but facing higher overhead.
 
-**Inventory management** is uniquely difficult because your inventory is alive. Plants grow whether you've sold them or not. Overgrown plants may need to be potted up into larger containers (increasing your costs) or discounted to move them. Plants that get root-bound, disease-stressed, or damaged by weather become unsaleable. Shrinkage rates of 5-15% are normal.
+**[Inventory management](/inventory-management)** is uniquely difficult because your inventory is alive. Plants grow whether you've sold them or not. Overgrown plants may need to be potted up into larger containers (increasing your costs) or discounted to move them. Plants that get root-bound, disease-stressed, or damaged by weather become unsaleable. Shrinkage rates of 5-15% are normal.
 
 **Seasonal cash flow** is another challenge. In most of the U.S., the heavy buying season runs from March through June. Nurseries need to carry inventory and labor costs through slower months while planning production years in advance.
 
@@ -81,7 +81,7 @@ Keeping plants healthy is critical. A disease outbreak can wipe out an entire cr
 
 Integrated Pest Management (IPM) is the standard approach — combining cultural practices (proper spacing, sanitation, resistant varieties), biological controls (beneficial insects, microbial agents), and chemical treatments as a last resort. Organic nurseries limit themselves to approved biological and mineral-based controls.
 
-Water management is closely tied to plant health. Overwatering promotes root disease. Underwatering stresses plants and reduces quality. Modern nurseries use drip irrigation, overhead sprinklers, or ebb-and-flow bench systems, often controlled by timers or soil moisture sensors.
+[Water management](/water-management) is closely tied to plant health. Overwatering promotes root disease. Underwatering stresses plants and reduces quality. Modern nurseries use drip irrigation, overhead sprinklers, or ebb-and-flow bench systems, often controlled by timers or soil moisture sensors.
 
 ## The Industry Today
 

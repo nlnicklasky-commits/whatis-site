@@ -5,7 +5,7 @@ description: "Slate roofing uses natural stone tiles split from metamorphic rock
 category: technology
 tags: ["slate roofing", "roofing", "construction", "building materials", "natural stone", "architecture", "durability"]
 heroImage: "/images/articles/slate-roofing-hero.webp"
-heroAlt: "Close-up of a slate tile roof showing the overlapping pattern and natural stone texture"
+heroAlt: "Editorial photograph representing the concept of slate roofing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,9 +35,9 @@ faq:
     a: "Major sources include Spain (the world's largest producer, supplying about 90% of natural roofing slate globally), Wales, Vermont and Pennsylvania in the United States, Brazil, China, and Canada. Different quarries produce slate with distinct colors, textures, and durability characteristics. The geological conditions at each source determine the slate's quality and expected lifespan."
 ---
 
-# What Is Slate Roofing?
+# What Is Slate [Roofing](/roofing)?
 
-Slate roofing is the use of natural stone tiles — split from metamorphic rock called slate — to create a waterproof roof covering. It is the most durable roofing material available, with properly installed slate roofs routinely lasting 100 to 200 years. Some slate roofs on European churches and castles have been in continuous service for over five centuries. While asphalt shingles dominate modern residential construction due to lower upfront cost, slate remains the gold standard for longevity, fire resistance, and aesthetic beauty in roofing.
+Slate roofing is the use of natural stone tiles — split from metamorphic rock called slate — to create a waterproof roof covering. It is the most durable roofing material available, with properly installed slate roofs routinely lasting 100 to 200 years. Some slate roofs on European churches and castles have been in continuous service for over five centuries. While asphalt shingles dominate modern residential [construction](/construction) due to lower upfront cost, slate remains the gold standard for longevity, fire resistance, and aesthetic beauty in roofing.
 
 ## The Stone Itself
 
@@ -63,7 +63,7 @@ Spain currently supplies roughly 90% of the world's roofing slate, primarily fro
 
 Slate has been used for roofing since at least the 12th century in Wales, where the abundant local quarries made it the obvious choice. Welsh slate roofing expanded dramatically during the Industrial Revolution — the Penrhyn Quarry in North Wales was the world's largest slate quarry in the 19th century, employing 3,000 workers and producing enough slate to roof buildings across the British Empire.
 
-In the United States, commercial slate quarrying began in the 1780s in eastern Pennsylvania. By the late 1800s, slate was the dominant roofing material for quality construction across the northeastern states. Many Victorian, Colonial Revival, and Tudor-style homes from this era still wear their original slate roofs — well over a century later and counting.
+In the United States, commercial slate [quarrying](/quarrying) began in the 1780s in eastern Pennsylvania. By the late 1800s, slate was the dominant roofing material for quality construction across the northeastern states. Many Victorian, Colonial Revival, and Tudor-style homes from this era still wear their original slate roofs — well over a century later and counting.
 
 The decline of slate roofing began in the mid-20th century with the introduction of asphalt shingles. Asphalt was cheaper, lighter, faster to install, and required less skilled labor. By the 1960s, asphalt shingles had captured the vast majority of the residential roofing market. Slate retreated to high-end residential, institutional, and historic preservation work.
 
@@ -101,7 +101,7 @@ Valley flashing — in the V-shaped channels where two roof planes meet — is p
 
 Traditional slate roofs were installed over skip sheathing — horizontal boards spaced a few inches apart — which allowed air circulation beneath the slates and reduced moisture buildup. Many historic slate roofs on skip sheathing have performed excellently for over a century.
 
-Modern building codes typically require solid sheathing (plywood or OSB) with a waterproof underlayment. This is more conservative but introduces the risk of trapping moisture between the slate and the deck if ventilation is inadequate. Good attic ventilation is essential with any roofing system but especially important with slate, where the long-term health of the underlayment matters.
+Modern building codes typically require solid sheathing (plywood or OSB) with a waterproof underlayment. This is more conservative but introduces the risk of [trapping](/trapping) moisture between the slate and the deck if ventilation is inadequate. Good attic ventilation is essential with any roofing system but especially important with slate, where the long-term health of the underlayment matters.
 
 ## Installation: A Dying Art
 
@@ -109,7 +109,7 @@ Slate roofing installation is a specialized skill that relatively few modern roo
 
 ### The Slate Roofer's Tools
 
-A **slate hammer** (or slater's hammer) is a specialized tool with a flat striking face for nailing, a sharp edge for trimming slates to size, and a pointed claw for pulling nails. A good slater's hammer is the single most important tool in the trade.
+A **slate hammer** (or slater's hammer) is a specialized tool with a flat striking face for nailing, a sharp edge for trimming slates to size, and a pointed claw for pulling nails. A good slater's hammer is the single most important tool in the [trade](/trade).
 
 A **slate cutter** is a heavy, guillotine-like tool for cutting slates to precise dimensions. For angular cuts and small adjustments, a **slate knife** or the hammer's cutting edge is used.
 
@@ -119,7 +119,7 @@ A **ripper** (or slate hook) is a flat metal tool slid under installed slates to
 
 A slate roof is installed from the eaves (bottom) to the ridge (top). The first course — the **starter course** — is laid with slates upside down (thick edge up) along the eave, providing a solid surface beneath the joints of the first visible course.
 
-Each subsequent course is nailed into place, maintaining consistent exposure, staggering joints (so no joint in one course aligns with a joint in the course below), and maintaining proper headlap. The roofer works from scaffolding or roof brackets — never standing directly on newly installed slates, which could crack them.
+Each subsequent course is nailed into place, maintaining consistent exposure, staggering joints (so no joint in one course aligns with a joint in the course below), and maintaining proper headlap. The roofer works from [scaffolding](/scaffolding) or roof brackets — never standing directly on newly installed slates, which could crack them.
 
 At the ridge, slates from both sides meet and are covered by ridge tiles — either cut from slate, formed from copper, or made from other compatible materials.
 

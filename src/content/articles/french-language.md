@@ -5,7 +5,7 @@ description: "French is a Romance language spoken by 321 million people worldwid
 category: philosophy
 tags: ["french language", "linguistics", "romance languages", "france", "francophone", "language learning", "culture"]
 heroImage: "/images/articles/french-language-hero.webp"
-heroAlt: "A vintage French dictionary open on a table with the Eiffel Tower visible through a window"
+heroAlt: "Editorial photograph representing the concept of the french language"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ French is a Romance language descended from Vulgar Latin, spoken by approximatel
 
 French didn't spring into existence. It grew — slowly, messily, and with plenty of political nudging — from the Latin spoken by Roman soldiers and settlers in Gaul starting around 50 BCE.
 
-But here's the thing: it wasn't the polished, literary Latin of Cicero and Virgil that became French. It was *Vulgar Latin* — the everyday, spoken-in-the-streets version that differed from region to region and was rarely written down. When the Roman Empire collapsed in the 5th century, these regional varieties continued evolving independently, gradually becoming the distinct Romance languages: French, Spanish, Italian, Portuguese, Romanian, and others.
+But here's the thing: it wasn't the polished, literary Latin of Cicero and Virgil that became French. It was *Vulgar Latin* — the everyday, spoken-in-the-streets version that differed from region to region and was rarely written down. When the Roman Empire collapsed in the 5th century, these regional varieties continued evolving independently, gradually becoming the distinct [Romance languages](/romance-languages): French, Spanish, Italian, Portuguese, Romanian, and others.
 
 The Franks — a Germanic tribe that conquered Gaul in the 5th and 6th centuries — added their own layer. They gave the language its name (Francia became France, and *franceis* became *francais*) along with several hundred Germanic words. That's why French sounds noticeably different from its Romance siblings. The French "r" (that guttural uvular sound), some of the nasal vowels, and various vocabulary items trace back to Frankish influence.
 
@@ -71,7 +71,7 @@ This is also when French conquered European diplomacy. The Treaty of Westphalia 
 
 The French Revolution accelerated linguistic unification. The new republic viewed regional languages and dialects as obstacles to national unity. In 1794, the revolutionary government declared that only French could be used in public affairs. Over the next century, mandatory public education — conducted entirely in French — systematically displaced regional languages.
 
-By 1900, French was the undisputed language of diplomacy, high culture, and international communication. But the 20th century brought competition. English rose dramatically after World War II, driven by American economic and cultural power. French lost its status as *the* international language but remained one of the most important.
+By 1900, French was the undisputed language of diplomacy, high culture, and international communication. But the 20th century brought competition. English rose dramatically after [World War II](/world-war-ii), driven by American economic and cultural power. French lost its status as *the* international language but remained one of the most important.
 
 ## How French Actually Works
 
@@ -135,23 +135,23 @@ French maintains a presence in Southeast Asia (Vietnam, Laos, Cambodia), legacy 
 
 ### Literature
 
-French literature is — let's just say it — one of humanity's greatest intellectual achievements. From the medieval romances of Chretien de Troyes through the philosophical satires of Voltaire, the realist novels of Balzac and Flaubert, the existentialism of Sartre and Camus, to contemporary voices like Annie Ernaux (Nobel Prize, 2022), French literature has continuously shaped global thought.
+French literature is — let's just say it — one of humanity's greatest intellectual achievements. From the medieval romances of Chretien de Troyes through the philosophical satires of Voltaire, the realist novels of Balzac and Flaubert, the [existentialism](/existentialism) of Sartre and Camus, to contemporary voices like Annie Ernaux (Nobel Prize, 2022), French literature has continuously shaped global thought.
 
 France has won more Nobel Prizes in Literature (16) than any other country. French literary movements — Romanticism, Naturalism, Surrealism, Existentialism — didn't just influence French culture. They reshaped how the entire world thinks about art, meaning, and human experience.
 
 ### Philosophy
 
-French is a language of philosophy in a way few other languages can claim. Descartes wrote *Cogito, ergo sum* in Latin, but his *Discourse on the Method* (1637) was written in French — a radical choice that made [philosophy](/aesthetics) accessible beyond the university. Rousseau's social contract theory, Voltaire's advocacy for civil liberties, Montesquieu's separation of powers — these ideas, written in French, became the intellectual foundations of modern democracy.
+French is a language of philosophy in a way few other languages can claim. Descartes wrote *Cogito, ergo sum* in Latin, but his *Discourse on the Method* (1637) was written in French — a radical choice that made [philosophy](/aesthetics) accessible beyond the university. Rousseau's [social contract theory](/social-contract-theory), Voltaire's advocacy for civil liberties, Montesquieu's separation of powers — these ideas, written in French, became the intellectual foundations of modern democracy.
 
 The 20th century continued the tradition. Existentialism (Sartre, de Beauvoir, Camus), structuralism (Levi-Strauss, Barthes), post-structuralism (Foucault, Derrida) — these movements were conceived and articulated in French before being translated worldwide.
 
-### Cuisine and Gastronomy
+### Cuisine and [Gastronomy](/gastronomy)
 
 The French language is inseparable from food culture. Auguste Escoffier codified French cuisine in the late 19th century, and his terminology became the global standard. Every professional kitchen worldwide uses French terms: *saute*, *braise*, *julienne*, *mise en place*, *sous chef*, *sommelier*.
 
 This isn't just about vocabulary — it reflects a genuine French cultural commitment to gastronomy. France was the first country to have its culinary tradition inscribed on UNESCO's Intangible Cultural Heritage list (2010). The language carries this cultural weight.
 
-### Diplomacy and International Law
+### Diplomacy and [International Law](/international-law)
 
 For over three centuries, French was *the* language of diplomacy. Treaties were written in French. Diplomatic correspondence was conducted in French. The phrase *lingua franca* literally means "Frankish language."
 
@@ -200,7 +200,7 @@ French isn't dying — it's shifting. European French-speaking populations are s
 
 By 2050, projections suggest 700-750 million French speakers worldwide. If those numbers hold, French would be the fourth most spoken language globally. But there's a catch: many of those speakers use French alongside local languages, and the quality and consistency of French-language education varies enormously across African nations.
 
-Technology is also reshaping French. AI translation, voice assistants, and [computational linguistics](/computational-linguistics) tools increasingly handle French well. This could either reduce the motivation to learn French (since machines can translate) or increase access to French-language content and culture.
+Technology is also reshaping French. AI [translation](/translation), voice assistants, and [computational linguistics](/computational-linguistics) tools increasingly handle French well. This could either reduce the motivation to learn French (since machines can translate) or increase access to French-language content and culture.
 
 The influence of English continues to worry French language advocates. Anglicisms infiltrate daily French at an accelerating pace — *le weekend*, *le parking*, *le streaming*, *le meeting*. Whether this represents natural linguistic evolution or cultural erosion depends on your perspective.
 

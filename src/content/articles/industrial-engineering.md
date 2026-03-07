@@ -5,7 +5,7 @@ description: "Industrial engineering optimizes complex systems of people, materi
 category: everyday-concepts
 tags: ["industrial engineering", "manufacturing", "optimization", "lean", "Six Sigma"]
 heroImage: "/images/articles/industrial-engineering.webp"
-heroAlt: "Factory floor with automated assembly line and efficiency monitoring screens"
+heroAlt: "Editorial photograph representing the concept of industrial engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Mechanical engineering focuses on designing physical devices — engines, robots, HVAC systems. Industrial engineering focuses on designing the systems and processes in which those machines operate — factory layouts, production schedules, supply chains, and human-machine interaction."
 ---
 
-# What Is Industrial Engineering?
+# What Is Industrial [Engineering](/engineering)?
 
 Industrial engineering is the engineering discipline focused on optimizing complex systems and processes. While other engineers design products, industrial engineers design the systems that produce, deliver, and support those products. The unofficial motto: eliminate waste, reduce variation, increase efficiency.
 
@@ -37,7 +37,7 @@ Industrial engineering is the engineering discipline focused on optimizing compl
 
 Most engineering disciplines work with physical things. Industrial engineering works with systems of things *and* people. The human element is what makes it distinct. People are unpredictable, get tired, make errors, and have opinions. Designing systems that account for human behavior while maximizing efficiency is the core challenge.
 
-Frederick Winslow Taylor introduced "scientific management" in the early 1900s, using time studies to improve factory productivity. His methods were controversial — workers felt treated like machines — but his insight that work processes can be measured and improved systematically launched the field.
+Frederick Winslow Taylor introduced "scientific [management](/management)" in the early 1900s, using time studies to improve factory [productivity](/productivity). His methods were controversial — workers felt treated like machines — but his insight that work processes can be measured and improved systematically launched the field.
 
 Today, industrial engineering applies those principles to everything from manufacturing and healthcare to logistics, finance, and the military.
 
@@ -47,9 +47,9 @@ Today, industrial engineering applies those principles to everything from manufa
 
 **Six Sigma** uses statistical methods to reduce process defects and variation. A "six sigma" process produces fewer than 3.4 defects per million opportunities. Practitioners earn certification levels — Green Belt, Black Belt, Master Black Belt.
 
-**Operations research** applies mathematical modeling to decision-making. Linear programming, queuing theory, simulation, and optimization algorithms answer questions like "how should we schedule 500 flights to minimize delays?"
+**[Operations research](/operations-research)** applies [mathematical modeling](/mathematical-modeling) to decision-making. [Linear programming](/linear-programming), queuing theory, simulation, and [optimization](/optimization) algorithms answer questions like "how should we schedule 500 flights to minimize delays?"
 
-**Ergonomics** designs work environments that fit human capabilities — workstation layout, tool design, cognitive load management, safety systems.
+**[Ergonomics](/ergonomics)** designs work environments that fit human capabilities — workstation layout, tool design, cognitive load management, safety systems.
 
 **Quality management** uses statistical process control and continuous improvement to maintain product and service quality.
 
@@ -67,6 +67,6 @@ Today, industrial engineering applies those principles to everything from manufa
 
 ## The Career
 
-Industrial engineering is one of the most versatile engineering degrees. The combination of engineering, business, statistics, and human factors makes graduates adaptable across industries. The median salary of $96,000 reflects strong demand, and job growth exceeds 12% — faster than average for engineering.
+Industrial engineering is one of the most versatile engineering degrees. The combination of engineering, business, statistics, and [human factors](/human-factors) makes graduates adaptable across industries. The median salary of $96,000 reflects strong demand, and job growth exceeds 12% — faster than average for engineering.
 
-Many industrial engineers eventually move into management, where systems thinking proves valuable for organizational leadership. The degree is also strong preparation for MBA programs and operations-focused business careers.
+Many industrial engineers eventually move into management, where systems thinking proves valuable for organizational [leadership](/leadership). The degree is also strong preparation for MBA programs and operations-focused business careers.

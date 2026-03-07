@@ -5,7 +5,7 @@ description: "Bodybuilding is the practice of progressive resistance training to
 category: everyday-concepts
 tags: ["bodybuilding", "fitness", "weight training", "muscle", "nutrition", "strength"]
 heroImage: "/images/articles/bodybuilding.webp"
-heroAlt: "Muscular athlete performing a dumbbell curl in a well-equipped gym"
+heroAlt: "Editorial photograph representing the concept of bodybuilding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Bodybuilding?
 
-Bodybuilding is the practice of using progressive resistance training (weight lifting) to develop and control the musculature of the body for aesthetic purposes. Unlike powerlifting (which measures strength) or Olympic weightlifting (which tests explosive power), bodybuilding is judged entirely on how the body looks — muscle size, symmetry, definition, and stage presentation.
+Bodybuilding is the practice of using progressive resistance training (weight lifting) to develop and control the musculature of the body for aesthetic purposes. Unlike [powerlifting](/powerlifting) (which measures strength) or Olympic [weightlifting](/weightlifting) (which tests explosive power), bodybuilding is judged entirely on how the body looks — muscle size, symmetry, definition, and stage presentation.
 
 ## A Brief History of Getting Big
 
@@ -47,9 +47,9 @@ This process requires three things:
 
 **Progressive overload** — Gradually increasing the weight, volume, or intensity of training over time. Your body adapts to current demands, so you must continually increase the stimulus to keep growing.
 
-**Adequate nutrition** — Muscle growth requires a caloric surplus (eating more calories than you burn) and sufficient protein (most research recommends 0.7-1.0 grams per pound of body weight daily). Without adequate nutrition, your body lacks the raw materials to build new tissue.
+**Adequate [nutrition](/nutrition)** — Muscle growth requires a caloric surplus (eating more calories than you burn) and sufficient protein (most research recommends 0.7-1.0 grams per pound of body weight daily). Without adequate nutrition, your body lacks the raw materials to build new tissue.
 
-**Recovery** — Muscles grow during rest, not during training. Adequate sleep (7-9 hours), rest days between training sessions for the same muscle group (typically 48-72 hours), and stress management all support recovery.
+**Recovery** — Muscles grow during rest, not during training. Adequate sleep (7-9 hours), rest days between training sessions for the same muscle group (typically 48-72 hours), and stress [management](/management) all support recovery.
 
 ## Training Approaches
 
@@ -88,7 +88,7 @@ Natural bodybuilding — competing without performance-enhancing drugs — produ
 
 ## Beyond Competition
 
-Most people who train in a bodybuilding style never compete. They train for [health](/fitness), aesthetics, confidence, and the mental health benefits of regular exercise. And the benefits are real:
+Most people who train in a bodybuilding style never compete. They train for [health](/fitness), [aesthetics](/aesthetics), confidence, and the [mental health](/mental-health) benefits of regular exercise. And the benefits are real:
 
 - Increased muscle mass improves metabolic rate, insulin sensitivity, and bone density
 - Resistance training reduces risk of type 2 diabetes, cardiovascular disease, and age-related muscle loss (sarcopenia)
@@ -101,6 +101,6 @@ Most people who train in a bodybuilding style never compete. They train for [hea
 
 Bodybuilding has its own subculture — gym slang ("gains," "cutting," "bulking"), aesthetic ideals, social media communities, and supplementation rituals. The industry generates enormous revenue through supplements, coaching, content, and apparel.
 
-Social media has both democratized and distorted bodybuilding. Instagram and TikTok fitness influencers provide training education (sometimes good, often questionable) while also promoting unrealistic physique standards. The bodies displayed on social media often reflect genetics, drugs, lighting, angles, and photo editing in combinations that beginners may not recognize.
+Social media has both democratized and distorted bodybuilding. Instagram and TikTok fitness influencers provide training [education](/education) (sometimes good, often questionable) while also promoting unrealistic physique standards. The bodies displayed on social media often reflect genetics, drugs, lighting, angles, and photo editing in combinations that beginners may not recognize.
 
 The healthiest approach? Train consistently, eat well, sleep enough, and judge your progress against your own starting point rather than against someone else's heavily curated highlight reel. The gym mirror is the only comparison that matters.

@@ -5,7 +5,7 @@ description: "Proverbs are short, memorable sayings that express common truths o
 category: arts-amp-culture
 tags: ["proverbs", "sayings", "wisdom", "folklore", "culture", "oral tradition"]
 heroImage: "/images/articles/proverbs.webp"
-heroAlt: "Ancient book of proverbs with handwritten wisdom on aged pages"
+heroAlt: "Editorial photograph representing the concept of proverbs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,15 +57,15 @@ Every culture has proverbs, and comparing them reveals both universal human conc
 
 **On wisdom and foolishness:** "A fool and his money are soon parted" (English). "When the wise man points at the moon, the fool looks at the finger" (Chinese). "The fool speaks, the wise man listens" (Ethiopian).
 
-Some proverbs reflect specific environments. Inuit proverbs reference ice, dogs, and hunting. Pacific Islander proverbs reference ocean, fish, and canoes. Desert cultures reference water scarcity. The universal truths get expressed through local landscapes.
+Some proverbs reflect specific environments. Inuit proverbs reference ice, dogs, and [hunting](/hunting). Pacific Islander proverbs reference ocean, fish, and canoes. Desert cultures reference water scarcity. The universal truths get expressed through local landscapes.
 
-And sometimes proverbs from different cultures directly contradict each other. "Look before you leap" vs. "He who hesitates is lost." "Many hands make light work" vs. "Too many cooks spoil the broth." This isn't a bug — it's a feature. Proverbs don't provide a single system of philosophy. They provide context-dependent wisdom. The right proverb depends on the situation.
+And sometimes proverbs from different cultures directly contradict each other. "Look before you leap" vs. "He who hesitates is lost." "Many hands make light work" vs. "Too many cooks spoil the broth." This isn't a bug — it's a feature. Proverbs don't provide a single system of [philosophy](/philosophy). They provide context-dependent wisdom. The right proverb depends on the situation.
 
 ## A Brief History
 
 The oldest known proverbs are Sumerian, dating to approximately 2500 BCE. They were written on clay tablets and sound remarkably modern: "You can have a lord, you can have a king, but the man to fear is the tax collector."
 
-Ancient Egypt produced extensive wisdom literature, including the Instruction of Ptahhotep (~2400 BCE) and the Instruction of Amenemope (~1200 BCE). Some of these Egyptian sayings closely parallel proverbs in the biblical Book of Proverbs, suggesting either borrowing or a shared Near Eastern tradition.
+Ancient Egypt produced extensive wisdom [literature](/literature), including the Instruction of Ptahhotep (~2400 BCE) and the Instruction of Amenemope (~1200 BCE). Some of these Egyptian sayings closely parallel proverbs in the biblical Book of Proverbs, suggesting either borrowing or a shared Near Eastern tradition.
 
 The biblical Book of Proverbs, traditionally attributed to King Solomon (though compiled over centuries), is the most famous proverb collection in the Western world. It contains practical advice on almost every aspect of daily life — money, relationships, work, speech, drinking, laziness, and pride.
 

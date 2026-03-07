@@ -5,7 +5,7 @@ description: "Portuguese is a Romance language spoken by over 250 million people
 category: arts-amp-culture
 tags: ["portuguese language", "romance languages", "brazil", "portugal", "lusophone", "linguistics"]
 heroImage: "/images/articles/portuguese-language.webp"
-heroAlt: "Map highlighting Portuguese-speaking countries across the world"
+heroAlt: "Editorial photograph representing the concept of portuguese language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,15 +39,15 @@ Portuguese evolved from Vulgar Latin — the everyday spoken Latin of Roman sold
 
 The Moorish occupation of Iberia (711-1249 CE) added Arabic vocabulary — Portuguese has about 1,000 words of Arabic origin, including *aldeia* (village), *azulejo* (tile), and *alfândega* (customs house).
 
-Portuguese began to distinguish itself from other Iberian Romance languages around the 9th-10th century in the region of Galicia (now split between northwest Spain and northern Portugal). Galician-Portuguese was a single language until roughly the 14th century, when political separation between Portugal and Galicia caused them to diverge. Galician is still spoken in Spain and remains closely related to Portuguese.
+Portuguese began to distinguish itself from other Iberian [Romance languages](/romance-languages) around the 9th-10th century in the region of Galicia (now split between northwest Spain and northern Portugal). Galician-Portuguese was a single language until roughly the 14th century, when political separation between Portugal and Galicia caused them to diverge. Galician is still spoken in Spain and remains closely related to Portuguese.
 
-The founding of Portugal as an independent kingdom in 1139 and the establishment of Lisbon as the capital in 1255 gave Portuguese its own political and cultural center. The language was standardized through literature, royal decrees, and — eventually — the explorations that carried it around the world.
+The founding of Portugal as an independent kingdom in 1139 and the establishment of Lisbon as the capital in 1255 gave Portuguese its own political and cultural center. The language was standardized through [literature](/literature), royal decrees, and — eventually — the explorations that carried it around the world.
 
 ## How It Spread
 
 The Portuguese Empire was the first global empire, and the language traveled with it.
 
-Starting in the 15th century, Portuguese explorers reached West Africa, India, Southeast Asia, China, Japan, and Brazil. Everywhere they established colonies or trading posts, they left the language behind. By the 16th century, Portuguese was the lingua franca of maritime trade from Africa to the Far East.
+Starting in the 15th century, Portuguese explorers reached West Africa, India, Southeast Asia, China, Japan, and Brazil. Everywhere they established colonies or trading posts, they left the language behind. By the 16th century, Portuguese was the lingua franca of maritime [trade](/trade) from Africa to the Far East.
 
 **Brazil** is the big one. Pedro Alvares Cabral claimed it for Portugal in 1500, and over the next three centuries, Portuguese became the language of the colony — mixing with indigenous Tupi languages and West African languages brought by enslaved people. Brazil gained independence in 1822, and today, with 210 million people, it's home to roughly 80% of all Portuguese speakers. Brazilian Portuguese has become the dominant form of the language globally.
 
@@ -67,7 +67,7 @@ To speakers of other Romance languages, Portuguese sounds distinctive — and so
 
 **Brazilian vs. European sound.** The difference is immediately obvious to any Portuguese speaker. Brazilian Portuguese pronounces vowels more openly, sounds more melodic, and has a rhythm some linguists describe as syllable-timed (each syllable gets roughly equal time). European Portuguese is stress-timed and sounds faster because unstressed syllables are compressed.
 
-## Grammar Highlights
+## [Grammar](/grammar) Highlights
 
 Portuguese grammar is largely typical of Romance languages — gendered nouns, verb conjugations, articles — but has some distinctive features:
 
@@ -81,7 +81,7 @@ Portuguese grammar is largely typical of Romance languages — gendered nouns, v
 
 Portuguese is growing. The UN projects that by 2050, Portuguese speakers could number 400 million, driven by population growth in Brazil and Portuguese-speaking Africa. Mozambique and Angola in particular have rapidly growing, young populations.
 
-The language is increasingly studied internationally. Japan — which has a large Brazilian immigrant community — has significant Portuguese-language education. In Africa, Portuguese is expanding as a language of business and diplomacy.
+The language is increasingly studied internationally. Japan — which has a large Brazilian immigrant community — has significant Portuguese-language [education](/education). In Africa, Portuguese is expanding as a language of business and [diplomacy](/diplomacy).
 
 The Community of Portuguese Language Countries (CPLP), founded in 1996, works to promote the language and strengthen ties between Lusophone nations. A spelling reform agreement, adopted in stages since 2009, aims to standardize written Portuguese across countries — though implementation has been controversial.
 

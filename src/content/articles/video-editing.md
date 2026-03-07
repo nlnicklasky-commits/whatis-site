@@ -5,7 +5,7 @@ description: "Video editing is the process of selecting, arranging, and modifyin
 category: arts-amp-culture
 tags: ["video editing", "filmmaking", "post-production", "editing software", "content creation", "media"]
 heroImage: "/images/articles/video-editing.webp"
-heroAlt: "A video editor working at a multi-monitor setup with timeline and color grading panels visible"
+heroAlt: "Editorial photograph representing the concept of video editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Video editing is the process of taking raw footage and shaping it into a coheren
 
 Good editing is invisible. When a movie scene grips you emotionally, you don't think "that was a great cut at 1:23:47." You just feel the tension, the joy, the horror. The editor's job is to serve the story so seamlessly that the audience forgets someone is making decisions about what they see and when they see it.
 
-Walter Murch, one of cinema's most respected editors (Apocalypse Now, The English Patient), described editing as "a dance between the analytical and the emotional." You're simultaneously making logical decisions about narrative structure and intuitive decisions about rhythm and feeling. The best editors do both naturally.
+Walter Murch, one of cinema's most respected editors (Apocalypse Now, The English Patient), described editing as "a [dance](/dance) between the analytical and the emotional." You're simultaneously making logical decisions about narrative structure and intuitive decisions about rhythm and feeling. The best editors do both naturally.
 
 ## The Basic Cuts
 
@@ -49,9 +49,9 @@ Every piece of edited video is built from a small set of fundamental techniques:
 
 **Cross-dissolve** — One shot gradually fades into another. Traditionally used to indicate passage of time or a change in location. Overusing dissolves makes a video feel dated — it was the default transition in amateur video for years.
 
-**Jump cut** — A cut within the same shot that removes a section of time, creating a visible "jump." Once considered a mistake, jump cuts are now standard in YouTube content and modern filmmaking (Jean-Luc Godard pioneered their artistic use in 1960's *Breathless*).
+**Jump cut** — A cut within the same shot that removes a section of time, creating a visible "jump." Once considered a mistake, jump cuts are now standard in YouTube content and modern [filmmaking](/filmmaking) (Jean-Luc Godard pioneered their artistic use in 1960's *Breathless*).
 
-**Montage** — A sequence of short shots compressed together to convey passage of time, build emotion, or deliver information quickly. Training montages, travel sequences, and cooking compilations are all montage.
+**Montage** — A sequence of short shots compressed together to convey passage of time, build emotion, or deliver information quickly. Training montages, travel sequences, and [cooking](/cooking) compilations are all montage.
 
 ## The Editing Workflow
 
@@ -77,11 +77,11 @@ Pacing — the speed at which information and emotion are delivered to the viewe
 
 Action sequences use quick cuts (sometimes less than a second per shot) to create excitement. Dramatic conversations use longer takes to let performances breathe. The best editors vary their pacing constantly, because sustained speed feels exhausting and sustained slowness feels boring.
 
-A practical example: most YouTube videos cut every 3-8 seconds because internet audiences expect fast pacing. A dialogue scene in a drama might hold a shot for 15-30 seconds. A Terrence Malick film might hold a field shot for a full minute. None of these is "right" — they serve different purposes for different audiences.
+A practical example: most YouTube videos cut every 3-8 seconds because internet audiences expect fast pacing. A dialogue scene in a [drama](/drama) might hold a shot for 15-30 seconds. A Terrence Malick film might hold a field shot for a full minute. None of these is "right" — they serve different purposes for different audiences.
 
 ## The Software Field
 
-**DaVinci Resolve** — The most interesting story in editing software. Blackmagic Design offers a genuinely professional editing, color grading, visual effects, and audio suite for free. The paid Studio version ($295, one-time) adds advanced features, but the free version is more powerful than most paid competitors. It's become the standard recommendation for anyone starting out.
+**DaVinci Resolve** — The most interesting story in editing software. Blackmagic Design offers a genuinely professional editing, color grading, [visual effects](/visual-effects), and audio suite for free. The paid Studio version ($295, one-time) adds advanced features, but the free version is more powerful than most paid competitors. It's become the standard recommendation for anyone starting out.
 
 **Adobe Premiere Pro** — Subscription-based ($22.99/month) and deeply integrated with After Effects, Photoshop, and other Adobe tools. The industry standard for commercial, corporate, and independent work.
 

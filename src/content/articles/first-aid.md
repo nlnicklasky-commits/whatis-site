@@ -5,7 +5,7 @@ description: "First aid is emergency care given before professional medical help
 category: everyday-concepts
 tags: ["first aid", "emergency care", "CPR", "medical training", "health", "safety"]
 heroImage: "/images/articles/first-aid.webp"
-heroAlt: "Open first aid kit with bandages, antiseptic, and medical supplies"
+heroAlt: "Editorial photograph representing the concept of first aid"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -68,7 +68,7 @@ For infants under one year, the technique is different: five back blows (between
 
 ### Burns
 
-For minor burns: cool the burn under cool (not cold) running water for at least 10 minutes. Don't use ice, butter, or toothpaste — these common folk remedies actually make burns worse. Cover with a sterile bandage.
+For minor burns: cool the burn under cool (not cold) [running](/running) water for at least 10 minutes. Don't use ice, butter, or toothpaste — these common folk remedies actually make burns worse. Cover with a sterile bandage.
 
 For severe burns: call 911. Don't remove burned clothing stuck to skin. Don't apply water to large burns (risk of hypothermia). Cover loosely with clean, dry cloth and wait for professional help.
 

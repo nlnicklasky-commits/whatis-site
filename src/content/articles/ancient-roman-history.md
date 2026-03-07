@@ -5,7 +5,7 @@ description: "Ancient Roman history traces Rome's growth from a small Italian vi
 category: history
 tags: ["ancient rome", "roman history", "roman republic", "roman empire", "julius caesar"]
 heroImage: "/images/articles/ancient-roman-history.webp"
-heroAlt: "The Roman Colosseum at sunset with warm golden light on its ancient stone arches"
+heroAlt: "Editorial photograph representing the concept of ancient roman history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ What makes Rome fascinating isn't just its size or duration. It's how Rome kept 
 
 Rome's origin story involves twin brothers, a she-wolf, and fratricide. According to legend, Romulus and Remus were abandoned as infants, nursed by a wolf, and Romulus killed Remus before founding the city in 753 BCE. It's a myth, obviously — but Romans took it seriously, and it tells you something about how they saw themselves. Tough. Willing to do hard things.
 
-The reality is less dramatic. Rome began as a cluster of hilltop villages along the Tiber River in central Italy. For its first two centuries, it was ruled by kings — including several Etruscan rulers who brought urban planning and engineering knowledge.
+The reality is less dramatic. Rome began as a cluster of hilltop villages along the Tiber River in central Italy. For its first two centuries, it was ruled by kings — including several Etruscan rulers who brought [urban planning](/urban-planning) and engineering knowledge.
 
 In 509 BCE, the Romans overthrew their last king, Tarquinius Superbus, and established a republic. This was the defining political act of early Rome. They developed such a hatred of monarchy that "king" remained a dirty word in Roman politics for five hundred years.
 
@@ -93,7 +93,7 @@ Entertainment was a political tool. "Bread and circuses," as the poet Juvenal pu
 
 Roman religion borrowed heavily from the Greeks but added its own character. The state religion centered on rituals and sacrifices to ensure divine favor for Rome. As the empire expanded, it absorbed countless local religions. [Christianity](/christianity) began as one of many small cults in the eastern provinces before Constantine legalized it in 313 CE and it eventually became the empire's official religion.
 
-Latin, the language of Rome, evolved into the Romance languages — French, Spanish, Italian, Portuguese, and Romanian. Even English, a Germanic language, gets roughly 60% of its vocabulary from Latin roots, mostly through French after the Norman Conquest.
+Latin, the language of Rome, evolved into the [Romance languages](/romance-languages) — French, Spanish, Italian, Portuguese, and Romanian. Even English, a Germanic language, gets roughly 60% of its vocabulary from Latin roots, mostly through French after the Norman Conquest.
 
 ## Decline and Fall (180–476 CE)
 

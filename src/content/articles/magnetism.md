@@ -5,7 +5,7 @@ description: "Magnetism is a force from moving electric charges. Learn about mag
 category: science
 tags: ["magnetism", "physics", "magnetic fields", "electromagnetism", "ferromagnetism", "magnets", "science"]
 heroImage: "/images/articles/magnetism-hero.webp"
-heroAlt: "Iron filings aligned along magnetic field lines around a bar magnet"
+heroAlt: "Editorial photograph representing the concept of magnetism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Magnetism?
 
-Magnetism is a fundamental force of nature arising from the motion of electric charges. It produces magnetic fields that can attract or repel certain materials, exert forces on moving charges, and interact with electric fields. Along with electricity, magnetism forms one half of [electromagnetism](/electromagnetism) — one of the four fundamental forces governing the universe.
+Magnetism is a fundamental force of nature arising from the motion of electric charges. It produces magnetic fields that can attract or repel certain materials, exert forces on moving charges, and interact with electric fields. Along with [electricity](/electricity), magnetism forms one half of [electromagnetism](/electromagnetism) — one of the four fundamental forces governing the universe.
 
 You interact with magnetism every second of your life, even if you don't realize it. The Earth's magnetic field shields you from solar radiation. The electric motors in your car, your refrigerator, and your phone's vibration mechanism all use magnets. Your hard drive (if you still have a spinning one) stores data magnetically. MRI machines generate images of your internal organs using powerful magnets. Magnetism is everywhere — and understanding it explains a surprising amount of the technology we take for granted.
 
@@ -129,7 +129,7 @@ The field extends far into space, forming the **magnetosphere** — a protective
 
 Earth's magnetic poles have flipped hundreds of times over geological history. The north magnetic pole becomes the south, and vice versa. The last reversal occurred about 780,000 years ago (the Brunhes-Matuyama reversal). Reversals take a few thousand years to complete and are recorded in volcanic rocks — as lava cools, iron minerals align with the current field direction, locking in a permanent record.
 
-We know the field is currently weakening — it's declined about 9% over the past 200 years. Whether this signals an impending reversal is debated. If a reversal occurs, the transition period would likely see a weakened and chaotic field, potentially increasing radiation exposure and disrupting [electronics](/electronics) systems that rely on magnetic navigation.
+We know the field is currently weakening — it's declined about 9% over the past 200 years. Whether this signals an impending reversal is debated. If a reversal occurs, the transition period would likely see a weakened and chaotic field, potentially increasing radiation exposure and disrupting [electronics](/electronics) systems that rely on magnetic [navigation](/navigation).
 
 ### Magnetic Navigation
 
@@ -155,7 +155,7 @@ A modern HDD stores data at densities exceeding 1 terabit per square inch — me
 
 Magnetic tape storage, despite seeming old-fashioned, remains the most cost-effective medium for archival data. Major cloud providers and enterprises store exabytes of cold data on tape.
 
-### Medical Imaging (MRI)
+### [Medical Imaging](/medical-imaging) (MRI)
 
 Magnetic Resonance Imaging uses powerful magnets (typically 1.5 or 3 tesla) to align hydrogen atoms in your body, then uses radio waves to disturb that alignment. As atoms return to their aligned state, they emit signals that vary by tissue type. A computer reconstructs these signals into detailed images.
 
@@ -165,7 +165,7 @@ The superconducting magnets in MRI machines require cooling with liquid helium t
 
 ### Particle Accelerators
 
-The Large Hadron Collider at CERN uses 1,232 superconducting dipole magnets (each 15 meters long, generating 8.3 tesla) to bend proton beams around its 27-kilometer ring. These magnets, cooled to 1.9 kelvin (colder than outer space), are among the most sophisticated engineering achievements in history.
+The Large Hadron Collider at CERN uses 1,232 superconducting dipole magnets (each 15 meters long, generating 8.3 tesla) to bend proton beams around its 27-kilometer ring. These magnets, cooled to 1.9 kelvin (colder than outer space), are among the most sophisticated [engineering](/engineering) achievements in history.
 
 Smaller particle accelerators used in hospitals for radiation therapy also rely on magnets to steer and focus particle beams with millimeter precision.
 
@@ -185,7 +185,7 @@ At the deepest level, magnetism is a quantum mechanical phenomenon. Here's why.
 
 Electrons have an intrinsic property called **spin** — a form of angular momentum with no classical analogue. This spin gives each electron a tiny magnetic moment, making it a miniature magnet. In most materials, electron spins point in random directions and cancel out. In ferromagnetic materials, quantum mechanical interactions (the exchange interaction) cause neighboring spins to align parallel, producing bulk magnetism.
 
-The exchange interaction has no classical explanation — it arises from the Pauli exclusion principle and the quantum mechanical nature of electron wavefunctions. This is why magnetism puzzled physicists for centuries: there is simply no way to explain permanent magnets using classical physics alone. As Niels Bohr and J.H. van Leeuwen proved in the 1920s (the Bohr-van Leeuwen theorem), classical statistical mechanics predicts that no material should exhibit any net magnetization. Magnetism is fundamentally quantum.
+The exchange interaction has no classical explanation — it arises from the Pauli exclusion principle and the quantum mechanical nature of electron wavefunctions. This is why magnetism puzzled physicists for centuries: there is simply no way to explain permanent magnets using classical physics alone. As Niels Bohr and J.H. van Leeuwen proved in the 1920s (the Bohr-van Leeuwen theorem), classical [statistical mechanics](/statistical-mechanics) predicts that no material should exhibit any net magnetization. Magnetism is fundamentally quantum.
 
 Orbital angular momentum — the motion of electrons around nuclei — also contributes to magnetic moments, though in most solids, spin dominates.
 
@@ -203,4 +203,4 @@ The 20th century added quantum mechanical understanding (explaining why magnets 
 
 Magnetism is a fundamental force arising from the motion of electric charges and the quantum mechanical spin of electrons. It manifests in several forms — ferromagnetism, paramagnetism, diamagnetism — depending on how a material's electrons interact. United with electricity through Maxwell's equations, magnetism underlies electric motors, generators, data storage, medical imaging, and countless other technologies.
 
-What makes magnetism remarkable is the gap between its everyday familiarity (fridge magnets, compasses) and its deep strangeness (no classical explanation exists for permanent magnetism — it's pure quantum mechanics). It's a force you've known since childhood that turns out to be far weirder and more wonderful than you probably imagined.
+What makes magnetism remarkable is the gap between its everyday familiarity (fridge magnets, compasses) and its deep strangeness (no classical explanation exists for permanent magnetism — it's pure [quantum mechanics](/quantum-mechanics)). It's a force you've known since childhood that turns out to be far weirder and more wonderful than you probably imagined.

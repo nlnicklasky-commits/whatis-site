@@ -5,7 +5,7 @@ description: "Turkish is a Turkic language spoken by over 80 million people. Lea
 category: everyday-concepts
 tags: ["turkish language", "linguistics", "Turkic languages", "agglutinative", "vowel harmony", "language"]
 heroImage: "/images/articles/turkish-language.webp"
-heroAlt: "Turkish text on a blue mosque wall in Istanbul with ornate tile patterns"
+heroAlt: "Editorial photograph representing the concept of turkish language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,11 +65,11 @@ One of the most dramatic language reforms in history happened in Turkey on Novem
 
 The Arabic script was a poor fit for Turkish. Arabic has many consonants but few vowels; Turkish has a rich eight-vowel system and vowel harmony that needs to be visible on the page. The new Latin-based alphabet with 29 letters (including special characters like ç, ş, ğ, ı, o, u) represented Turkish sounds far more accurately.
 
-Ataturk personally traveled across Turkey teaching the new alphabet, chalk and blackboard in hand. Within five years, literacy rates had jumped dramatically. The flip side was cultural: generations of Ottoman literature, government records, and personal correspondence became unreadable to most Turks seemingly overnight.
+Ataturk personally traveled across Turkey [teaching](/teaching) the new alphabet, chalk and blackboard in hand. Within five years, literacy rates had jumped dramatically. The flip side was cultural: generations of Ottoman [literature](/literature), [government](/government) records, and personal correspondence became unreadable to most Turks seemingly overnight.
 
 ## What Makes Turkish Distinctive
 
-**No grammatical gender.** Turkish uses "o" for he, she, and it. This occasionally creates ambiguity in translation but simplifies the grammar considerably.
+**No grammatical gender.** Turkish uses "o" for he, she, and it. This occasionally creates ambiguity in [translation](/translation) but simplifies the grammar considerably.
 
 **Subject-object-verb word order.** Where English says "I ate the apple," Turkish says the equivalent of "I the apple ate." This takes adjustment for English speakers but is the most common word order among the world's languages.
 

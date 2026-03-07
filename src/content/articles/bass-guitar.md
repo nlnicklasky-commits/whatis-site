@@ -5,7 +5,7 @@ description: "The bass guitar is a stringed instrument that produces low-frequen
 category: arts-amp-culture
 tags: ["bass guitar", "musical instrument", "low frequency", "rhythm section", "electric bass", "funk"]
 heroImage: "/images/articles/bass-guitar.webp"
-heroAlt: "Electric bass guitar in sunburst finish leaning against an amplifier in a studio"
+heroAlt: "Editorial photograph representing the concept of bass guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Bass Guitar?
 
-The bass guitar is an electric (or occasionally acoustic) stringed instrument that produces the low-frequency tones forming the rhythmic and harmonic foundation of modern music. If the drums are the heartbeat, the bass is the pulse — connecting rhythm to harmony in virtually every genre from rock and jazz to funk, hip-hop, and electronic music.
+The bass guitar is an electric (or occasionally acoustic) stringed instrument that produces the low-frequency tones forming the rhythmic and harmonic foundation of modern music. If the drums are the heartbeat, the bass is the pulse — connecting rhythm to [harmony](/harmony) in virtually every genre from rock and jazz to funk, hip-hop, and [electronic music](/electronic-music).
 
 ## Leo Fender's Big Idea
 
@@ -57,7 +57,7 @@ The most common technique. The bassist plucks strings with the index and middle 
 
 ### Pick (Plectrum)
 
-Using a guitar pick produces a brighter, more aggressive attack. Punk, rock, and metal bassists often prefer picks for their cutting tone and consistent attack. Paul McCartney and Chris Squire are famous pick players.
+Using [a guitar](/guitar) pick produces a brighter, more aggressive attack. Punk, rock, and metal bassists often prefer picks for their cutting tone and consistent attack. Paul McCartney and Chris Squire are famous pick players.
 
 ### Slap and Pop
 

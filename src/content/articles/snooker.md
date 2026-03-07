@@ -5,7 +5,7 @@ description: "Snooker is a cue sport played on a large table with 22 balls, dema
 category: everyday-concepts
 tags: ["snooker", "cue sports", "billiards", "pool", "precision", "strategy"]
 heroImage: "/images/articles/snooker.webp"
-heroAlt: "A snooker player leaning over a green baize table lining up a shot with a cue"
+heroAlt: "Editorial photograph representing the concept of snooker"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Snooker is a cue sport played on a large baize-covered table (12 feet by 6 feet) where players use a cue stick to pot (pocket) colored balls in a specific sequence to score points. It uses 22 balls — 15 reds worth 1 point each, plus yellow (2), green (3), brown (4), blue (5), pink (6), and black (7), along with the white cue ball.
 
-Invented by British Army officers in India around 1875, snooker has grown into a globally televised sport with millions of followers. It's chess on felt — a game where physical precision and strategic planning combine in equal measure.
+Invented by British Army officers in India around 1875, snooker has grown into a globally televised sport with millions of followers. It's [chess](/chess) on felt — a game where physical precision and [strategic planning](/strategic-planning) combine in equal measure.
 
 ## The Rules
 
@@ -53,12 +53,12 @@ The tactical dimension adds another layer. "Snookering" your opponent — leavin
 
 ## The Greats
 
-Ronnie O'Sullivan is widely considered the most naturally talented player in snooker history. His speed of play, ambidextrous ability (he plays equally well left- and right-handed), and record seven World Championship titles make him the sport's dominant figure. He's also its most mercurial personality — walking away from matches, making controversial statements, and playing with a casual brilliance that infuriates and captivates in equal measure.
+Ronnie O'Sullivan is widely considered the most naturally talented player in snooker history. His speed of play, ambidextrous ability (he plays equally well left- and right-handed), and record seven World Championship titles make him the sport's dominant figure. He's also its most mercurial personality — [walking](/walking) away from matches, making controversial statements, and playing with a casual brilliance that infuriates and captivates in equal measure.
 
 Stephen Hendry dominated the 1990s with seven World Championships, playing an aggressive attacking style that changed how the game was approached. Steve Davis owned the 1980s. And the current era features a deep field including Judd Trump, Mark Selby, and a growing contingent of Chinese players like Ding Junhui and Zhao Xintong who are reshaping the sport's global profile.
 
 ## The Crucible
 
-The World Snooker Championship has been held at the Crucible Theatre in Sheffield, England, since 1977. The intimate 980-seat venue creates an atmosphere unlike any other sporting event — players compete in near-silence, with audiences close enough to hear the click of ball on ball. The 17-day tournament is snooker's pinnacle, and its drama has produced some of sports television's most memorable moments.
+The World Snooker Championship has been held at the Crucible Theatre in Sheffield, England, since 1977. The intimate 980-seat venue creates an atmosphere unlike any other sporting event — players compete in near-silence, with audiences close enough to hear the click of ball on ball. The 17-day tournament is snooker's pinnacle, and its [drama](/drama) has produced some of sports television's most memorable moments.
 
-Snooker may never achieve the global reach of football or tennis, but within its niche, it offers a viewing experience — strategic depth, physical precision, individual personality, and sustained dramatic tension — that's genuinely unique among competitive sports.
+Snooker may never achieve the global reach of football or [tennis](/tennis), but within its niche, it offers a viewing experience — strategic depth, physical precision, individual personality, and sustained dramatic tension — that's genuinely unique among competitive sports.

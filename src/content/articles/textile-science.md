@@ -5,7 +5,7 @@ description: "Textile science studies the properties, production, and performanc
 category: science
 tags: ["textile science", "fiber science", "textile engineering", "fabric"]
 heroImage: "/images/articles/textile-science.webp"
-heroAlt: "Close-up view of different textile fibers under magnification showing natural cotton and synthetic polyester strands"
+heroAlt: "Editorial photograph representing the concept of textile science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Textile Science?
 
-Textile science is the interdisciplinary study of fibers, yarns, fabrics, and finished textile products, encompassing their physical and chemical properties, manufacturing processes, performance characteristics, and end-use applications. It draws on polymer [chemistry](/chemistry), materials science, mechanical engineering, and biology to understand how textiles are made, why they behave the way they do, and how to improve them.
+Textile science is the interdisciplinary study of fibers, yarns, fabrics, and finished textile products, encompassing their physical and chemical properties, manufacturing processes, performance characteristics, and end-use applications. It draws on polymer [chemistry](/chemistry), [materials science](/materials-science), [mechanical engineering](/mechanical-engineering), and biology to understand how textiles are made, why they behave the way they do, and how to improve them.
 
 ## The Stuff You Wear Is Surprisingly Complicated
 
@@ -51,7 +51,7 @@ A textile begins with fiber. Everything else — yarn, fabric, garments — is b
 
 Natural fibers come from plants, animals, or minerals. They've been used for at least 30,000 years — flax fibers found in a cave in Georgia (the country, not the state) date to roughly 34,000 years ago.
 
-**Cotton** dominates natural fiber production, accounting for about 25% of all fiber used worldwide. The cotton fiber is actually a single plant cell — a seed hair that grows from the cotton boll. Each fiber is a hollow tube of nearly pure cellulose, twisted in a natural spiral called convolution. This twist is what makes cotton spinnable — the fibers lock together when twisted into yarn.
+**Cotton** dominates natural fiber production, [accounting](/accounting) for about 25% of all fiber used worldwide. The cotton fiber is actually a single plant cell — a seed hair that grows from the cotton boll. Each fiber is a hollow tube of nearly pure cellulose, twisted in a natural spiral called convolution. This twist is what makes cotton spinnable — the fibers lock together when twisted into yarn.
 
 Cotton's popularity comes from its comfort properties: it absorbs moisture well (about 7-8% of its weight), feels soft against skin, and allows air circulation. Its weakness is wrinkle resistance — cellulose chains rearrange when wet, then lock into new positions as they dry, creating creases. That's why cotton shirts wrinkle and polyester ones don't.
 
@@ -81,7 +81,7 @@ These occupy a middle ground — they're made from natural polymers (usually cel
 
 **Rayon** (viscose) is made by dissolving wood pulp in caustic soda and carbon disulfide, then extruding the solution through a spinneret into an acid bath. The result is a soft, drapey fiber that feels like cotton or silk. The process is old (patented in 1894) and environmentally problematic — carbon disulfide is toxic.
 
-**Lyocell** (Tencel) is a newer process that dissolves wood pulp in a non-toxic organic solvent (NMMO) in a closed-loop system that recovers 99.5% of the solvent. It produces a strong, biodegradable fiber with excellent moisture management. It's arguably the most environmentally responsible semi-synthetic fiber available.
+**Lyocell** (Tencel) is a newer process that dissolves wood pulp in a non-toxic organic solvent (NMMO) in a closed-loop system that recovers 99.5% of the solvent. It produces a strong, biodegradable fiber with excellent moisture [management](/management). It's arguably the most environmentally responsible semi-synthetic fiber available.
 
 ## From Fiber to Fabric — The Manufacturing Chain
 
@@ -130,7 +130,7 @@ Finishing includes everything done to fabric after dyeing: softening, wrinkle-re
 
 Textile science extends far beyond clothing. Technical textiles — engineered for function rather than fashion — make up about 30% of global textile production by value.
 
-**Geotextiles** stabilize soil in construction and road building. **Medical textiles** include surgical sutures (often polyester or nylon), wound dressings, artificial blood vessels, and hernia repair meshes. **Protective textiles** range from Kevlar body armor (para-aramid fiber, five times stronger than steel by weight) to firefighter turnout gear (Nomex, which doesn't melt or burn).
+**Geotextiles** stabilize soil in [construction](/construction) and road building. **Medical textiles** include surgical sutures (often polyester or nylon), wound dressings, artificial blood vessels, and hernia repair meshes. **Protective textiles** range from Kevlar body armor (para-aramid fiber, five times stronger than steel by weight) to firefighter turnout gear (Nomex, which doesn't melt or burn).
 
 Smart textiles incorporate electronic or responsive elements:
 

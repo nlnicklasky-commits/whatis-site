@@ -5,7 +5,7 @@ description: "Public policy is the set of government actions, laws, and regulati
 category: politics
 tags: ["public policy", "government", "policy making", "public administration", "law", "social issues"]
 heroImage: "/images/articles/public-policy.webp"
-heroAlt: "Policy documents and legislation spread across a conference table"
+heroAlt: "Editorial photograph representing the concept of public policy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Public Policy?
 
-Public policy is what governments do (and choose not to do) about public problems. It encompasses the laws, regulations, executive orders, court rulings, budgets, and administrative actions that government uses to address issues like healthcare, education, crime, the environment, the economy, and national defense. If politics is about who decides, public policy is about what they decide — and whether it actually works.
+Public policy is what governments do (and choose not to do) about public problems. It encompasses the laws, regulations, executive orders, court rulings, budgets, and administrative actions that [government](/government) uses to address issues like healthcare, [education](/education), crime, the environment, the economy, and national defense. If [politics](/politics) is about who decides, public policy is about what they decide — and whether it actually works.
 
 ## The Policy Cycle
 
 Political scientists describe the policy process as a cycle, though "messy loop" would be more accurate.
 
-**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked health insurance for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
+**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked [health insurance](/health-[insurance](/insurance)) for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
 
 **Agenda setting.** Getting a problem onto the political agenda — the list of issues decision-makers are actively considering — requires political will, public attention, or both. John Kingdon's "multiple streams" model suggests that policy change happens when three things align: a recognized problem, a viable solution, and political willingness to act. When these streams converge (often triggered by a crisis or election), a "policy window" opens.
 
-**Policy formulation.** Once an issue is on the agenda, options are developed. This happens in legislative committees, executive agencies, think tanks, academic institutions, and advocacy organizations. Formulation involves research, negotiation, compromise, and — inevitably — conflict between competing interests and values.
+**Policy formulation.** Once an issue is on the agenda, options are developed. This happens in legislative committees, executive agencies, think tanks, academic institutions, and advocacy organizations. Formulation involves research, [negotiation](/negotiation), compromise, and — inevitably — conflict between competing interests and values.
 
 **Adoption.** The formal decision to implement a policy — passing a law, issuing an executive order, finalizing a regulation. In democratic systems, this usually requires some combination of legislative votes, executive approval, and (sometimes) judicial review. The Affordable Care Act took over a year of legislative negotiation. Some policies are adopted quickly in response to crises.
 
@@ -51,7 +51,7 @@ Political scientists describe the policy process as a cycle, though "messy loop"
 
 ## Types of Public Policy
 
-**Regulatory policy** sets rules for private behavior — environmental regulations, workplace safety standards, financial market rules, food safety requirements. Regulation creates winners and losers (a factory that must install pollution controls bears costs; the community downstream benefits from cleaner water), which is why regulatory policy is always contested.
+**Regulatory policy** sets rules for private behavior — environmental regulations, [workplace safety](/workplace-safety) standards, financial market rules, food safety requirements. Regulation creates winners and losers (a factory that must install pollution controls bears costs; the community downstream benefits from cleaner water), which is why regulatory policy is always contested.
 
 **Distributive policy** provides benefits to specific groups or regions — agricultural subsidies, infrastructure projects, research grants, tax deductions for homeownership. These are popular politically because the benefits are concentrated (the recipients know and appreciate them) while the costs are spread thinly across all taxpayers.
 
@@ -65,7 +65,7 @@ Several structural factors make effective public policy difficult:
 
 **Incomplete information.** Policy makers rarely have all the information they need. How will people respond to a new tax? What will the environmental impact of a regulation be in 20 years? How much will a program cost? Projections are necessary but always uncertain.
 
-**Competing values.** Policy choices involve trade-offs between legitimate values. Freedom vs. safety. Efficiency vs. equity. Individual rights vs. collective welfare. Economic growth vs. environmental protection. There's often no objectively "right" answer — just different priorities.
+**Competing values.** Policy choices involve [trade](/trade)-offs between legitimate values. Freedom vs. safety. Efficiency vs. equity. Individual rights vs. collective welfare. Economic growth vs. environmental protection. There's often no objectively "right" answer — just different priorities.
 
 **Unintended consequences.** Policies create effects their designers didn't anticipate. Rent control (intended to keep housing affordable) can reduce housing supply. Welfare programs (intended to help the poor) can create work disincentives. Drug prohibition (intended to reduce drug use) can create black markets and incarceration crises. Anticipating unintended consequences is one of the hardest aspects of policy design.
 

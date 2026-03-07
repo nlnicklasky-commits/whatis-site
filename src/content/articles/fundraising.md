@@ -5,7 +5,7 @@ description: "Fundraising is the organized effort to collect voluntary contribut
 category: finance
 tags: ["non-profit", "charity", "donations", "philanthropy", "grants", "campaigns", "fundraising strategies"]
 heroImage: "/images/articles/fundraising-hero.webp"
-heroAlt: "Volunteers organizing a community fundraising event with donation boxes and banners"
+heroAlt: "Editorial photograph representing the concept of fundraising"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,15 +35,15 @@ faq:
 
 # What Is Fundraising?
 
-Fundraising is the organized process of soliciting and collecting voluntary financial contributions from individuals, businesses, foundations, and government agencies to support a cause, organization, or project. In the United States alone, charitable giving totaled approximately $557 billion in 2023, with individual donors accounting for about 67% of that total. Fundraising is both an art and a discipline — part relationship building, part storytelling, part financial management.
+Fundraising is the organized process of soliciting and collecting voluntary financial contributions from individuals, businesses, foundations, and [government](/government) agencies to support a cause, organization, or project. In the United States alone, charitable giving totaled approximately $557 billion in 2023, with individual donors accounting for about 67% of that total. Fundraising is both an art and a discipline — part relationship building, part [storytelling](/storytelling), part financial [management](/management).
 
 ## Why People Give (And Why They Don't)
 
 Before you can ask people for money effectively, you need to understand why they say yes. And more importantly, why they say no.
 
-The psychology of giving is surprisingly well-studied. Here's what the research consistently shows:
+The [psychology](/psychology) of giving is surprisingly well-studied. Here's what the research consistently shows:
 
-**People give to people, not to organizations.** The most powerful fundraising appeal isn't a statistic about how many people lack clean water. It's the story of one specific person who lacks clean water — with a name, a face, and a life you can imagine. Psychologist Paul Slovic's research demonstrated that people donate more when presented with a single identifiable victim than when shown statistics about millions of affected people. Paradoxically, adding statistics to the individual story *reduces* giving.
+**People give to people, not to organizations.** The most powerful fundraising appeal isn't a statistic about how many people lack clean water. It's the story of one specific person who lacks clean water — with a name, a face, and a life you can imagine. Psychologist Paul Slovic's research demonstrated that people donate more when presented with a single identifiable victim than when shown [statistics](/statistics) about millions of affected people. Paradoxically, adding statistics to the individual story *reduces* giving.
 
 **People give when they're asked.** The number one reason people don't give isn't stinginess or lack of interest. It's that nobody asked them. According to multiple surveys, 85% of people who were asked to donate did so. This finding alone explains why professional fundraising exists — the ask matters more than almost anything else.
 

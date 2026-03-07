@@ -5,7 +5,7 @@ description: "SEO is the practice of improving your website's visibility in sear
 category: technology
 tags: ["seo", "search engine optimization", "digital marketing", "google", "web traffic", "keywords", "ranking"]
 heroImage: "/images/articles/seo-search-engine-optimization-hero.webp"
-heroAlt: "Search engine results page with analytics graphs showing rising organic traffic"
+heroAlt: "Editorial photograph representing the concept of seo (search engine optimization)"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "Social media activity doesn't directly influence Google rankings — Google has confirmed this. However, social sharing can indirectly help SEO by driving traffic, increasing brand awareness, and creating opportunities for others to discover and link to your content."
 ---
 
-# What Is SEO (Search Engine Optimization)?
+# What Is SEO (Search Engine [Optimization](/optimization))?
 
 SEO — search engine optimization — is the practice of improving a website's visibility in organic (unpaid) search engine results. When someone types a question into Google and your page appears near the top, that's SEO at work. According to BrightEdge research, organic search drives 53% of all trackable website traffic, making it the single largest source of web visits for most businesses.
 
@@ -119,9 +119,9 @@ Off-page SEO is primarily about **backlinks** — links from other websites to y
 
 **Link quality matters infinitely more than link quantity.** One editorial link from a respected publication in your industry is worth more than a thousand low-quality directory listings. Google's algorithms (particularly the Penguin update lineage) can identify and ignore or penalize manipulative link-building practices.
 
-How do you earn quality links? By creating content worth linking to. Original research, thorough guides, useful tools, and genuinely new insights attract links naturally. Data journalism — publishing original statistics or survey results — is particularly effective because other writers cite data sources.
+How do you earn quality links? By creating content worth linking to. Original research, thorough guides, useful tools, and genuinely new insights attract links naturally. Data [journalism](/journalism) — publishing original statistics or survey results — is particularly effective because other writers cite data sources.
 
-**Digital PR** combines traditional public relations with SEO strategy. You create newsworthy content — a study, a report, an interactive tool — and pitch it to journalists and bloggers. When they cover your story and link to your site, you gain both referral traffic and SEO authority.
+**Digital PR** combines traditional [public relations](/public-relations) with SEO strategy. You create newsworthy content — a study, a report, an interactive tool — and pitch it to journalists and bloggers. When they cover your story and link to your site, you gain both referral traffic and SEO authority.
 
 **Guest posting** — writing articles for other sites with a link back to yours — works when done genuinely. Writing for respected publications in your field builds both your authority and your backlink profile. Writing for low-quality sites that exist solely to sell links can get you penalized.
 
@@ -147,7 +147,7 @@ Google Hummingbird (2013) improved Google's ability to understand natural langua
 
 ### The Intelligence Era: AI and Understanding (2015-Present)
 
-RankBrain (2015) introduced machine learning into the ranking algorithm, helping Google interpret ambiguous queries. BERT (2019) applied natural language processing to understand the context of words in a query — understanding that "no" in "visa requirements for traveling to Japan with no passport" completely changes the meaning.
+RankBrain (2015) introduced machine learning into the ranking algorithm, helping Google interpret ambiguous queries. BERT (2019) applied [natural language processing](/natural-language-processing) to understand the context of words in a query — understanding that "no" in "visa requirements for traveling to Japan with no passport" completely changes the meaning.
 
 The Helpful Content Update (2022) and its successors evaluate entire websites, not just individual pages. If a significant portion of your site contains unhelpful content created primarily for search engines, your entire site can be demoted — even pages that are genuinely useful.
 
@@ -173,7 +173,7 @@ Online stores face unique SEO challenges that deserve separate attention.
 
 **Category page structure** determines how search engines understand your product hierarchy. Clean, logical category URLs (site.com/shoes/running/trail) outperform flat structures. Each category page should have unique introductory content explaining what the category contains.
 
-**Faceted navigation** — filtering by size, color, price, brand — creates a crawling nightmare if not handled carefully. Every filter combination can generate a unique URL, potentially creating thousands of nearly identical pages. Proper use of canonical tags, noindex directives, and URL parameter handling prevents this from draining your crawl budget.
+**Faceted [navigation](/navigation)** — filtering by size, color, price, brand — creates a crawling nightmare if not handled carefully. Every filter combination can generate a unique URL, potentially creating thousands of nearly identical pages. Proper use of canonical tags, noindex directives, and URL parameter handling prevents this from draining your crawl budget.
 
 **Schema markup** for products enables rich results with prices, availability, and ratings directly in search results. These enhanced listings have significantly higher click-through rates than plain text results.
 

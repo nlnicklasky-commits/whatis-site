@@ -5,7 +5,7 @@ description: "Radio astronomy studies the universe through radio waves, revealin
 category: science
 tags: ["radio astronomy", "astronomy", "radio waves", "telescopes", "astrophysics", "cosmology", "space"]
 heroImage: "/images/articles/radio-astronomy-hero.webp"
-heroAlt: "Array of large radio telescope dishes pointed at the night sky in a desert landscape"
+heroAlt: "Editorial photograph representing the concept of radio astronomy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -51,7 +51,7 @@ Jansky had discovered that the universe broadcasts radio waves. He published his
 
 ### Reber's One-Man Revolution
 
-The person who took Jansky seriously was Grote Reber, an amateur radio enthusiast in Wheaton, Illinois. In 1937, Reber built a 9.4-meter parabolic dish antenna in his backyard -- the first purpose-built radio telescope. For nearly a decade, he was the only radio astronomer in the world.
+The person who took Jansky seriously was Grote Reber, an [amateur radio](/amateur-radio) enthusiast in Wheaton, Illinois. In 1937, Reber built a 9.4-meter parabolic dish antenna in his backyard -- the first purpose-built radio telescope. For nearly a decade, he was the only radio astronomer in the world.
 
 Reber mapped the radio sky, confirming Jansky's discovery and finding additional radio sources. He published his results in [astrophysics](/astrophysics) journals, gradually gaining the attention of professional astronomers. By the end of World War II -- which had produced enormous advances in radar and radio technology -- the scientific community was ready to take radio astronomy seriously.
 
@@ -95,7 +95,7 @@ The ultimate expression of VLBI is the **Event Horizon Telescope (EHT)**, which 
 
 ## The Great Discoveries of Radio Astronomy
 
-Radio astronomy has produced some of the most important discoveries in the history of science.
+Radio astronomy has produced some of the most important discoveries in [the history of science](/the-history-of-science).
 
 ### The Cosmic Microwave Background (1965)
 
@@ -163,11 +163,11 @@ And scattered across the sky, hundreds of known radio sources -- supernova remna
 
 ### The Square Kilometre Array (SKA)
 
-The SKA is the largest radio telescope project ever undertaken. Under construction across two continents -- Australia (SKA-Low, optimized for low frequencies) and South Africa (SKA-Mid, for medium frequencies) -- the SKA will have a total collecting area approaching one square kilometer.
+The SKA is the largest radio telescope project ever undertaken. Under [construction](/construction) across two continents -- Australia (SKA-Low, optimized for low frequencies) and South Africa (SKA-Mid, for medium frequencies) -- the SKA will have a total collecting area approaching one square kilometer.
 
 When completed (first science expected in the late 2020s), the SKA will be 50 times more sensitive than any existing radio telescope. Its science goals include:
 
-- Testing general relativity using pulsars near the galactic center
+- Testing [general relativity](/general-relativity) using pulsars near the galactic center
 - Mapping hydrogen across cosmic time to understand galaxy evolution
 - Studying the "Cosmic Dawn" when the first stars and galaxies formed
 - Searching for biosignatures in exoplanetary systems
@@ -199,7 +199,7 @@ The astronomical community works with [telecommunications](/electromagnetism) re
 
 Modern radio telescopes produce enormous data volumes. The SKA will generate approximately 600 petabytes of data per year. Processing this data requires supercomputing facilities, advanced algorithms, and new approaches to data management and analysis.
 
-Machine learning is increasingly used in radio astronomy for source detection, classification, and interference removal. The computational demands of radio astronomy are pushing advances in high-performance computing and data science.
+Machine learning is increasingly used in radio astronomy for source detection, classification, and interference removal. The computational demands of radio astronomy are pushing advances in high-performance computing and [data science](/data-science).
 
 ## Key Takeaways
 

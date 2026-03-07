@@ -5,7 +5,7 @@ description: "Design patterns are reusable solutions to common software problems
 category: technology
 tags: ["design patterns", "software engineering", "programming", "object-oriented", "architecture", "code reuse", "best practices"]
 heroImage: "/images/articles/design-patterns-hero.webp"
-heroAlt: "Abstract diagram showing interconnected software components following design pattern structures"
+heroAlt: "Editorial photograph representing the concept of design patterns"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ In 1994, four authors—Erich Gamma, Richard Helm, Ralph Johnson, and John Vliss
 
 But here's the thing most people don't realize: the Gang of Four didn't invent patterns. They borrowed the concept from Christopher Alexander, an architect (the building kind, not the software kind) who noticed that the same spatial arrangements kept solving the same human problems across cultures and centuries. A window seat that catches afternoon light. A courtyard that encourages gathering. Alexander called these recurring solutions "patterns" and argued they could be documented and reused.
 
-The Gang of Four applied this thinking to software. And it stuck—hard. By the early 2000s, knowing your design patterns was practically a job requirement. Sometimes that was helpful. Sometimes it led to absurd over-engineering. More on that later.
+The Gang of Four applied this thinking to software. And it stuck—hard. By the early 2000s, knowing your design patterns was practically a job requirement. Sometimes that was helpful. Sometimes it led to absurd over-[engineering](/engineering). More on that later.
 
 ## The Three Categories
 
@@ -63,7 +63,7 @@ The problem? Singletons introduce global state, which makes testing painful and 
 
 **Abstract Factory** takes this further by providing an interface for creating families of related objects. A UI toolkit might have a Windows factory that produces Windows-style buttons, scrollbars, and menus, and a Mac factory that produces Mac-style equivalents. Your application code works with abstract interfaces and never knows which platform it's running on.
 
-**Builder** separates the construction of a complex object from its representation. If you've ever dealt with constructors that take 15 parameters, Builder is your friend. Instead of `new Pizza(true, false, true, "large", "thin", true, false, 3)`, you get `Pizza.builder().large().thinCrust().pepperoni().mushrooms().build()`. Much more readable. Much harder to mess up.
+**Builder** separates the [construction](/construction) of a complex object from its representation. If you've ever dealt with constructors that take 15 parameters, Builder is your friend. Instead of `new Pizza(true, false, true, "large", "thin", true, false, 3)`, you get `Pizza.builder().large().thinCrust().pepperoni().mushrooms().build()`. Much more readable. Much harder to mess up.
 
 **Prototype** creates new objects by cloning existing ones. When object creation is expensive—maybe it involves database queries or complex calculations—you can create a prototype once and copy it whenever you need a similar object. JavaScript's prototype-based inheritance is a language-level implementation of this idea.
 
@@ -75,7 +75,7 @@ Structural patterns are about composition—how you assemble objects and classes
 
 **Decorator** adds behavior to individual objects without affecting other objects of the same class. Think of a coffee shop: you start with basic coffee, then add milk (decorator), then add sugar (decorator), then add whipped cream (decorator). Each decorator wraps the previous one, adding new behavior while preserving the original interface. Java's I/O streams use this pattern extensively—`BufferedReader` wrapping `InputStreamReader` wrapping `FileInputStream`.
 
-**Facade** provides a simplified interface to a complex subsystem. Your media player might have separate subsystems for audio decoding, video rendering, subtitle parsing, and screen management. A Facade wraps all of that behind a simple `play()`, `pause()`, `stop()` interface. The complexity still exists, but callers don't need to know about it.
+**Facade** provides a simplified interface to a complex subsystem. Your media player might have separate subsystems for audio decoding, video rendering, subtitle parsing, and screen [management](/management). A Facade wraps all of that behind a simple `play()`, `pause()`, `stop()` interface. The complexity still exists, but callers don't need to know about it.
 
 **Composite** lets you treat individual objects and groups of objects uniformly. File systems use this: a directory can contain files and other directories, but you can ask any of them for their size, name, or permissions using the same interface. UI frameworks use Composite constantly—a panel contains buttons and other panels, and you can render, resize, or hide any of them the same way.
 
@@ -91,7 +91,7 @@ Behavioral patterns manage communication and responsibility between objects. The
 
 **Observer** defines a subscription mechanism where objects (observers) register to be notified when another object (the subject) changes state. This is everywhere—event listeners in UI frameworks, pub/sub messaging, reactive programming. When you add a click handler to a button in JavaScript, you're using Observer. When you subscribe to state changes in a Redux store, Observer again.
 
-**Strategy** lets you define a family of [algorithms](/algorithms) and swap them at runtime. A sorting function might accept different comparison strategies. A payment system might support multiple payment processors. A navigation app might switch between driving, walking, and transit route calculations. The key insight: extract the varying behavior into its own interface, and inject the specific implementation you need.
+**Strategy** lets you define a family of [algorithms](/algorithms) and swap them at runtime. A sorting function might accept different comparison strategies. A payment system might support multiple payment processors. A [navigation](/navigation) app might switch between driving, walking, and transit route calculations. The key insight: extract the varying behavior into its own interface, and inject the specific implementation you need.
 
 **Command** encapsulates a request as an object, letting you parameterize, queue, log, and undo operations. Every undo/redo system you've ever used is built on Command. Each action becomes an object with `execute()` and `undo()` methods. Store them in a stack, and you've got undo history.
 
@@ -115,7 +115,7 @@ Patterns shine in specific situations, and recognizing those situations is more 
 
 **When you're integrating systems.** Adapter, Facade, and Proxy are workhorses for making incompatible systems talk to each other. Legacy integration, third-party library wrapping, API gateway design—structural patterns handle these constantly.
 
-**When you're solving a problem someone else has already solved.** This sounds obvious, but it's the whole point. If you're building an undo system, reach for Command. If you're building a plugin architecture, reach for Strategy or Observer. Don't reinvent the wheel with a custom solution when a well-tested pattern exists.
+**When you're solving a problem someone else has already solved.** This sounds obvious, but it's the whole point. If you're building an undo system, reach for Command. If you're building a plugin [architecture](/architecture), reach for Strategy or Observer. Don't reinvent the wheel with a custom solution when a well-tested pattern exists.
 
 ## When Patterns Hurt
 
@@ -139,7 +139,7 @@ In languages like Python, JavaScript, and Ruby, some patterns become trivially s
 
 This doesn't mean patterns are irrelevant in active languages—it means they're often implemented differently. The *concept* of separating concerns, managing dependencies, and controlling object creation still applies. The implementation just looks different.
 
-### Patterns in Functional Programming
+### Patterns in [Functional Programming](/functional-programming)
 
 Functional programming brings its own pattern vocabulary. Monads handle side effects and chaining operations. Functors map operations over wrapped values. Higher-order functions replace most behavioral patterns entirely. If you're working in Haskell, Scala, or even modern JavaScript with a functional style, the GoF patterns are less directly applicable—but the underlying principles remain.
 

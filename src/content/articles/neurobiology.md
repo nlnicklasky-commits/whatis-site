@@ -5,7 +5,7 @@ description: "Neurobiology studies how the nervous system works at the cellular 
 category: science
 tags: ["neurobiology", "neuroscience", "brain", "nervous system", "neurons", "synapses", "brain function"]
 heroImage: "/images/articles/neurobiology-hero.webp"
-heroAlt: "Microscopic view of neurons with glowing synaptic connections illustrating neural communication"
+heroAlt: "Editorial photograph representing the concept of neurobiology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -91,7 +91,7 @@ Most synapses use chemical messengers called neurotransmitters. Here's the seque
 6. These receptors open ion channels or trigger intracellular signaling cascades
 7. The postsynaptic neuron's membrane voltage changes — either toward firing (excitation) or away from it (inhibition)
 
-The whole process converts an electrical signal to a chemical signal and back to an electrical signal. Why not just pass electricity directly? Because chemical synapses allow for signal modification. The strength of a synapse can be turned up or down, and this adjustability is the basis of learning and memory.
+The whole process converts an electrical signal to a chemical signal and back to an electrical signal. Why not just pass [electricity](/electricity) directly? Because chemical synapses allow for signal modification. The strength of a synapse can be turned up or down, and this adjustability is the basis of learning and memory.
 
 ### Electrical Synapses
 
@@ -201,9 +201,9 @@ By inserting light-sensitive proteins into specific neuron types, researchers ca
 
 ### CRISPR in Neurobiology
 
-Gene editing allows researchers to create precise genetic modifications in neurons and study the consequences. Want to know what happens when a specific receptor is absent from a specific neuron type? CRISPR can answer that question with an efficiency that would have seemed like science fiction 15 years ago. This connects directly to [biotechnology](/biotechnology) advances in gene editing.
+Gene editing allows researchers to create precise genetic modifications in neurons and study the consequences. Want to know what happens when a specific receptor is absent from a specific neuron type? CRISPR can answer that question with an efficiency that would have seemed like [science fiction](/science-fiction) 15 years ago. This connects directly to [biotechnology](/biotechnology) advances in gene editing.
 
-### Two-Photon Microscopy
+### Two-Photon [Microscopy](/microscopy)
 
 This imaging technique lets researchers watch individual synapses in the living brain, tracking structural changes over days to weeks. Watching dendritic spines grow and retract as an animal learns a new skill provides direct visual evidence of structural plasticity.
 

@@ -5,7 +5,7 @@ description: "Latticework is a framework of crossed strips forming a grid patter
 category: everyday-concepts
 tags: ["latticework", "architecture", "garden design", "woodworking", "decorative arts"]
 heroImage: "/images/articles/latticework.webp"
-heroAlt: "White wooden lattice panel with climbing roses growing through the diamond pattern"
+heroAlt: "Editorial photograph representing the concept of latticework"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ Garden latticework is probably the most familiar form. Lattice panels serve as:
 
 Standard garden lattice comes in 4x8-foot panels at hardware stores for $15-50 depending on material. Cedar lattice costs more but resists rot naturally. Pressure-treated pine is cheaper but may warp over time. Vinyl lattice requires zero maintenance but looks like what it is — plastic.
 
-## In Architecture
+## In [Architecture](/architecture)
 
 Latticework has served architectural purposes for centuries across cultures.
 
@@ -65,11 +65,11 @@ Mashrabiya screens are assembled from hundreds of individually turned wooden spi
 
 **European latticework** — wooden lattice has been used in European gardens since at least the Renaissance. French formal gardens (Versailles) incorporated elaborate lattice structures called *treillage* — architectural frameworks of lattice that created outdoor rooms, tunnels, and theatrical backdrops.
 
-## In Engineering
+## In [Engineering](/engineering)
 
 Lattice structures appear throughout engineering because the pattern is remarkably strong for its weight.
 
-**Lattice trusses** — used in bridges, cranes, and building construction. The crossed members form triangles (the strongest geometric shape for distributing force), creating structures that span long distances with minimal material.
+**Lattice trusses** — used in bridges, cranes, and building [construction](/construction). The crossed members form triangles (the strongest geometric shape for distributing force), creating structures that span long distances with minimal material.
 
 **Lattice towers** — electrical transmission towers, communication masts, and observation towers typically use lattice construction. The open framework resists wind loads better than a solid structure (wind passes through rather than pushing against it) while using a fraction of the material.
 
@@ -77,9 +77,9 @@ Lattice structures appear throughout engineering because the pattern is remarkab
 
 ## Making Your Own
 
-Building a basic lattice panel is straightforward woodworking. Cut strips of uniform width (typically 1/4 to 3/4 inch thick, 1-1/2 inches wide). Lay out one set of parallel strips. Weave a second set at 45 or 90 degrees through the first set. Fasten at each intersection with small nails, staples, or waterproof glue. Frame the panel for rigidity.
+Building a basic lattice panel is straightforward [woodworking](/woodworking). Cut strips of uniform width (typically 1/4 to 3/4 inch thick, 1-1/2 inches wide). Lay out one set of parallel strips. Weave a second set at 45 or 90 degrees through the first set. Fasten at each intersection with small nails, staples, or waterproof glue. Frame the panel for rigidity.
 
-The weaving is the time-consuming part — every other strip must go over-under-over-under through the cross strips. For large panels, building a jig (a framework that holds the first set of strips in place while you weave) saves enormous time and frustration.
+The [weaving](/weaving) is the time-consuming part — every other strip must go over-under-over-under through the cross strips. For large panels, building a jig (a framework that holds the first set of strips in place while you weave) saves enormous time and frustration.
 
 Custom-built lattice allows you to choose your strip width, spacing, angle, and wood species — producing a result that looks noticeably better than mass-produced panels. Cedar strips with wider spacing create an elegant, airy look that mass-market lattice cannot match.
 

@@ -5,7 +5,7 @@ description: "Firefighting is the practice of extinguishing fires and rescuing p
 category: everyday-concepts
 tags: ["emergency services", "public safety", "fire", "rescue", "first responders", "hazardous materials"]
 heroImage: "/images/articles/firefighting.webp"
-heroAlt: "Firefighters in full gear spraying water on a burning building"
+heroAlt: "Editorial photograph representing the concept of firefighting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Firefighting?
 
-Firefighting is the organized effort to extinguish fires, rescue people and animals from dangerous situations, and respond to emergencies including medical calls, hazardous material incidents, and natural disasters. The United States has approximately 1.1 million firefighters serving about 29,700 fire departments. They respond to roughly 1.4 million fires per year — but fires are actually a shrinking portion of their work. About 65% of fire department calls are now medical emergencies.
+Firefighting is the organized effort to extinguish fires, rescue people and animals from dangerous situations, and respond to emergencies including medical calls, hazardous material incidents, and [natural disasters](/natural-disasters). The United States has approximately 1.1 million firefighters serving about 29,700 fire departments. They respond to roughly 1.4 million fires per year — but fires are actually a shrinking portion of their work. About 65% of fire department calls are now medical emergencies.
 
 ## What Firefighters Actually Do
 
@@ -67,11 +67,11 @@ Firefighting is consistently ranked among the most dangerous occupations. Betwee
 
 Cancer is an emerging crisis. Firefighters have a 9% higher incidence of cancer diagnoses and a 14% higher cancer mortality rate compared to the general population, according to a National Institute for Occupational Safety and Health study. Exposure to carcinogens in smoke — including benzene, formaldehyde, and polycyclic aromatic hydrocarbons — accumulates over a career. Modern synthetic building materials produce far more toxic smoke than natural materials, making contemporary fires more chemically hazardous than fires 50 years ago.
 
-Mental health is another growing concern. Repeated exposure to traumatic events — deaths, injuries, child abuse — contributes to higher rates of PTSD, depression, and suicide among firefighters. The stigma around mental health in fire service culture is slowly diminishing, but support systems are still inadequate in many departments.
+[Mental health](/mental-health) is another growing concern. Repeated exposure to traumatic events — deaths, injuries, child abuse — contributes to higher rates of PTSD, depression, and suicide among firefighters. The stigma around mental health in fire service culture is slowly diminishing, but support systems are still inadequate in many departments.
 
 ## The Station Life
 
-Firefighters typically work 24-hour shifts followed by 48 hours off, though schedules vary by department. During a shift, firefighters live at the station — sleeping, cooking, eating, training, and maintaining equipment together.
+Firefighters typically work 24-hour shifts followed by 48 hours off, though schedules vary by department. During a shift, firefighters live at the station — sleeping, [cooking](/cooking), eating, training, and maintaining equipment together.
 
 The firehouse culture is intensely communal. Crews that eat, sleep, and face danger together develop deep bonds. Meals are communal affairs, with each firefighter contributing to cooking. Equipment checks and maintenance fill downtime between calls.
 

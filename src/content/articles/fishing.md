@@ -5,7 +5,7 @@ description: "Fishing is the practice of catching fish for food, sport, or livel
 category: sports
 tags: ["angling", "seafood", "fisheries", "recreation", "commercial fishing", "sustainability"]
 heroImage: "/images/articles/fishing.webp"
-heroAlt: "Person fly fishing in a mountain river at golden hour"
+heroAlt: "Editorial photograph representing the concept of fishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Fishing is the activity of catching fish and other aquatic organisms, whether fo
 
 Fishing exists in two distinct forms that share a name but differ in almost every other way.
 
-**Recreational fishing** (angling) is a hobby, sport, and meditative practice for roughly 50 million Americans and hundreds of millions worldwide. It's about the experience — being outdoors, testing skill against fish, enjoying time on the water. Many recreational anglers practice catch-and-release, returning fish to the water after landing them.
+**Recreational fishing** ([angling](/angling)) is a hobby, sport, and meditative practice for roughly 50 million Americans and hundreds of millions worldwide. It's about the experience — being outdoors, testing skill against fish, enjoying time on the water. Many recreational anglers practice catch-and-release, returning fish to the water after landing them.
 
 **Commercial fishing** is an industry that feeds billions. Commercial operations range from individual fishermen working small boats to industrial trawlers processing tons of fish at sea. It's one of the most physically dangerous occupations in the world — the fatality rate for commercial fishermen is about 40 times the national average for all workers.
 
@@ -73,15 +73,15 @@ The commercial fishing industry is massive and complex. Major methods include:
 
 **Purse seining** encircles schools of fish (often tuna or sardines) with a large net that closes at the bottom like a drawstring purse. It's efficient but can capture dolphins and other marine mammals along with target species.
 
-**Aquaculture** (fish farming) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
+**[Aquaculture](/aquaculture)** ([fish farming](/fish-[farming](/farming))) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
 
 ## The Sustainability Problem
 
 The ocean isn't infinite, and we've been treating it like it is. About 35% of global fish stocks are currently overfished, according to the FAO. Some formerly abundant species have been fished to near-collapse.
 
-The Atlantic cod fishery off Newfoundland was one of the world's richest for 500 years. Industrial trawlers depleted it so severely that the Canadian government imposed a total fishing moratorium in 1992. Thirty years later, the stock still hasn't fully recovered. Forty thousand people lost their livelihoods overnight.
+The Atlantic cod fishery off Newfoundland was one of the world's richest for 500 years. Industrial trawlers depleted it so severely that the Canadian [government](/government) imposed a total fishing moratorium in 1992. Thirty years later, the stock still hasn't fully recovered. Forty thousand people lost their livelihoods overnight.
 
-Sustainable fishing management involves setting science-based catch limits, enforcing regulations, reducing bycatch, protecting spawning areas, and combating illegal fishing (which accounts for an estimated 20% of global catch). Progress is uneven — some fisheries are well-managed, while others face minimal oversight.
+Sustainable fishing [management](/management) involves setting science-based catch limits, enforcing regulations, reducing bycatch, protecting spawning areas, and combating illegal fishing (which accounts for an estimated 20% of global catch). Progress is uneven — some fisheries are well-managed, while others face minimal oversight.
 
 ## Why People Fish
 

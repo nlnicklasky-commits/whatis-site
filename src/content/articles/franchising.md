@@ -5,7 +5,7 @@ description: "Franchising lets you run a business using an established brand's s
 category: finance
 tags: ["business", "entrepreneurship", "business model", "licensing", "brand", "expansion", "investment"]
 heroImage: "/images/articles/franchising-hero.webp"
-heroAlt: "A row of identical franchise storefronts along a busy commercial street"
+heroAlt: "Editorial photograph representing the concept of franchising"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -54,7 +54,7 @@ This tension — between entrepreneurial independence and corporate control — 
 The initial franchise fee is just the beginning. Here's what a typical franchise investment actually looks like:
 
 - **Franchise fee**: $20,000 to $50,000 for most brands (some luxury or high-performing brands charge $100,000+)
-- **Build-out costs**: Construction, renovation, or lease improvements for your location
+- **Build-out costs**: [Construction](/construction), renovation, or lease improvements for your location
 - **Equipment**: Everything from kitchen equipment to POS systems to signage
 - **Inventory**: Initial stock of products and supplies
 - **Working capital**: Cash to cover operating expenses until the business becomes self-sustaining (usually 3-12 months)
@@ -189,7 +189,7 @@ Walk away if you see any of these:
 
 ## The History of Franchising
 
-Franchising isn't new. Isaac Singer used franchise-like distribution for sewing machines in the 1850s. But modern franchising took off after World War II, when returning veterans with savings and ambition met entrepreneurs with business concepts ready to scale.
+Franchising isn't new. Isaac Singer used franchise-like distribution for sewing machines in the 1850s. But modern franchising took off after [World War II](/world-war-ii), when returning veterans with savings and ambition met entrepreneurs with business concepts ready to scale.
 
 Ray Kroc's expansion of McDonald's starting in 1954 is the canonical franchise story. Kroc didn't invent the McDonald brothers' restaurant — he recognized that their system could be replicated everywhere. By standardizing every aspect of operations (from cooking times to napkin placement), he created a model where any competent operator could produce consistent results. By 1960, McDonald's had 200 locations. Today, there are over 40,000 worldwide, with about 93% operated by franchisees.
 
@@ -197,7 +197,7 @@ The franchise boom of the 1960s and 1970s brought both legitimate opportunities 
 
 ## Franchising by the Numbers
 
-Some statistics that frame the industry:
+Some [statistics](/statistics) that frame the industry:
 
 - The U.S. has approximately 4,000 franchise brands operating across 300+ industries
 - Fast food accounts for about 20% of franchise units but dominates public perception
@@ -218,7 +218,7 @@ If the franchise model appeals to you but the constraints don't, consider:
 
 **Cooperative business models**: Multiple independent businesses pool resources for purchasing, marketing, and branding. Think Ace Hardware or Best Western. You maintain independence while benefiting from group scale.
 
-Each has its own [business strategy](/business-strategy) tradeoffs. Franchising sits in a specific spot on the spectrum between complete independence and employment — offering more support than going it alone but less freedom than true entrepreneurship.
+Each has its own [business strategy](/business-strategy) tradeoffs. Franchising sits in a specific spot on the spectrum between complete independence and employment — offering more support than going it alone but less freedom than true [entrepreneurship](/entrepreneurship).
 
 ## The Future of Franchising
 

@@ -5,7 +5,7 @@ description: "Optics is the branch of physics studying light behavior, including
 category: science
 tags: ["optics", "light", "physics", "reflection", "refraction", "lenses", "mirrors"]
 heroImage: "/images/articles/optics-hero.webp"
-heroAlt: "Light rays refracting through a glass prism, splitting into a spectrum of colors"
+heroAlt: "Editorial photograph representing the concept of optics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

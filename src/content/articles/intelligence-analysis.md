@@ -5,7 +5,7 @@ description: "Intelligence analysis is evaluating information to support decisio
 category: everyday-concepts
 tags: ["intelligence analysis", "national security", "critical thinking", "geopolitics", "data analysis"]
 heroImage: "/images/articles/intelligence-analysis.webp"
-heroAlt: "Analyst reviewing satellite imagery and data on multiple monitors"
+heroAlt: "Editorial photograph representing the concept of intelligence analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -56,7 +56,7 @@ Intelligence operates through a defined process:
 - **Devil's advocacy** — deliberately constructing the strongest possible counterargument to the prevailing view.
 - **Key assumptions check** — explicitly listing and questioning the assumptions underlying an assessment.
 
-These techniques exist because intelligence failures — the Bay of Pigs, WMDs in Iraq, 9/11 — often resulted not from insufficient information but from flawed analysis of available information. Confirmation bias, mirror imaging (assuming adversaries think like you), and groupthink have produced some of the most consequential analytic failures in modern history.
+These techniques exist because intelligence failures — the Bay of Pigs, WMDs in Iraq, 9/11 — often resulted not from insufficient information but from flawed analysis of available information. Confirmation bias, mirror imaging (assuming adversaries think like you), and groupthink have produced some of the most consequential analytic failures in [modern history](/modern-history).
 
 ## The U.S. Intelligence Community
 
@@ -80,8 +80,8 @@ Intelligence analysis faces inherent tensions:
 
 **Speed vs. accuracy.** Decision-makers often need answers immediately. Analysis takes time. Rushing produces errors. Waiting too long makes analysis irrelevant. Every analyst navigates this tension daily.
 
-## Beyond Government
+## Beyond [Government](/government)
 
-Intelligence analysis skills apply far beyond government. Corporate intelligence, competitive analysis, financial risk assessment, investigative journalism, and cybersecurity all use similar methods. The analytical frameworks — evaluating source reliability, considering alternative hypotheses, managing uncertainty — are valuable in any field that requires making decisions with imperfect information.
+Intelligence analysis skills apply far beyond government. Corporate intelligence, competitive analysis, financial risk assessment, investigative [journalism](/journalism), and cybersecurity all use similar methods. The analytical frameworks — evaluating source reliability, considering alternative hypotheses, managing uncertainty — are valuable in any field that requires making decisions with imperfect information.
 
 For those interested in the field, the key skill is not knowing secrets — it is thinking clearly about ambiguous information. That is trainable, and it is valuable everywhere.

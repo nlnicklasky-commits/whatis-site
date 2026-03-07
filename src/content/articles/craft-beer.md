@@ -5,7 +5,7 @@ description: "Craft beer is beer made by small, independent breweries focused on
 category: everyday-concepts
 tags: ["craft beer", "beer", "brewing", "microbrewery", "independent brewery", "ale"]
 heroImage: "/images/articles/craft-beer.webp"
-heroAlt: "A flight of craft beers in various colors arranged on a wooden paddle at a taproom"
+heroAlt: "Editorial photograph representing the concept of craft beer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,17 +39,17 @@ To understand craft beer, you need to understand what came before it. After Proh
 
 The craft movement started small. Fritz Maytag bought the struggling Anchor Brewing Company in San Francisco in 1965 and began making flavorful, traditional beers. Jack McAuliffe founded New Albion Brewing in 1976 — often called the first modern American microbrewery. Ken Grossman started Sierra Nevada in 1980, and his Pale Ale became arguably the most influential craft beer ever brewed.
 
-Homebrewing legalization in 1978 (signed by President Carter) provided the pipeline. Thousands of enthusiasts began [brewing](/beer-brewing) at home, developing skills and palates that many eventually turned professional. Charlie Papazian's *The Complete Joy of Home Brewing* (1984) became the movement's bible.
+Homebrewing legalization in 1978 (signed by President Carter) provided the pipeline. Thousands of enthusiasts began [brewing](/beer-brewing) at home, developing skills and palates that many eventually turned professional. Charlie Papazian's *The Complete Joy of [Home Brewing](/home-brewing)* (1984) became the movement's bible.
 
 ## What Qualifies as "Craft"
 
-The Brewers Association — the trade group representing small brewers — defines a craft brewery using three criteria:
+The Brewers Association — the [trade](/trade) group representing small brewers — defines a craft brewery using three criteria:
 
 **Small:** Annual production of 6 million barrels or less (about 3% of the U.S. market).
 
 **Independent:** Less than 25% of the brewery is owned or controlled by an alcohol industry member that isn't itself craft.
 
-**Traditional:** The majority of its total beverage alcohol volume is in beers with traditional or creative brewing ingredients and fermentation.
+**Traditional:** The majority of its total beverage alcohol volume is in beers with traditional or creative brewing ingredients and [fermentation](/fermentation).
 
 These definitions are debated constantly. When a beloved craft brewery gets acquired by a multinational (Goose Island by Anheuser-Busch, Wicked Weed by the same), craft purists feel betrayed. The acquiring companies argue the beer doesn't change. Critics counter that the business dynamics do — shelf space allocated to pseudo-craft brands squeezes genuinely independent breweries.
 
@@ -57,7 +57,7 @@ These definitions are debated constantly. When a beloved craft brewery gets acqu
 
 Craft beer's greatest contribution is variety. Where macro-breweries offered light lager, craft offers dozens of distinct styles.
 
-**India Pale Ale (IPA)** dominates craft sales — roughly 40% of craft beer sold is some form of IPA. Originally brewed strong and hoppy for the journey from England to India, the American IPA has become its own thing entirely, showcasing American hop varieties (Citra, Mosaic, Simcoe) that produce tropical fruit, pine, and citrus flavors.
+**India Pale Ale (IPA)** dominates craft [sales](/sales) — roughly 40% of craft beer sold is some form of IPA. Originally brewed strong and hoppy for the journey from England to India, the American IPA has become its own thing entirely, showcasing American hop varieties (Citra, Mosaic, Simcoe) that produce tropical fruit, pine, and citrus flavors.
 
 **Stout and porter** offer roasted, chocolate, and coffee flavors from dark malts. Guinness is the world's most famous stout, but craft versions push the style further — imperial stouts aged in bourbon barrels, pastry stouts with vanilla and cocoa, milk stouts with lactose for sweetness.
 
@@ -67,7 +67,7 @@ Craft beer's greatest contribution is variety. Where macro-breweries offered lig
 
 **Lagers** aren't just for macro breweries. Craft-brewed pilsners, helles, and Marzen demonstrate that simple, clean beer made with quality ingredients is anything but boring. The rise of "craft lager" represents a maturation of the market — after years of extreme flavors, many drinkers are circling back to balance and drinkability.
 
-## The Economics
+## The [Economics](/economics)
 
 Craft beer is a $29 billion industry in the United States (2023). But the growth story has gotten more complicated.
 

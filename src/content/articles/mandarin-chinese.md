@@ -5,7 +5,7 @@ description: "Mandarin Chinese is the most spoken language in the world, with ov
 category: everyday-concepts
 tags: ["mandarin chinese", "language", "Chinese", "tonal language", "linguistics", "world languages"]
 heroImage: "/images/articles/mandarin-chinese.webp"
-heroAlt: "Chinese characters written in calligraphy on rice paper with a brush and ink"
+heroAlt: "Editorial photograph representing the concept of mandarin chinese"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ If you've ever heard that "Chinese" is the world's most spoken language, what pe
 
 Here's something that confuses many Westerners: "Chinese" isn't one language. It's a family of related but often mutually unintelligible varieties. A Mandarin speaker from Beijing and a Cantonese speaker from Guangzhou can't understand each other's speech — the difference is roughly comparable to the gap between Spanish and Romanian.
 
-The major Chinese language groups include:
+The major [Chinese language](/chinese-language) groups include:
 
 - **Mandarin** — spoken natively across most of northern and southwestern China, about 920 million speakers
 - **Wu** — includes Shanghainese, about 80 million speakers
@@ -65,7 +65,7 @@ Getting tones wrong isn't just an accent issue — it's saying a different word.
 
 For English speakers, tones are probably the hardest part of learning Mandarin. Your brain isn't wired to treat pitch as meaningful at the word level. It takes months of practice before tones start to feel natural rather than forced.
 
-## The Writing System
+## The [Writing](/writing) System
 
 Chinese characters (hanzi) are the oldest continuously used writing system in the world, dating back over 3,000 years to oracle bone inscriptions from the Shang Dynasty (circa 1200 BCE).
 
@@ -79,7 +79,7 @@ China uses **simplified characters**, introduced in the 1950s and 1960s to incre
 
 Learning to read and write Chinese is a massive time investment. While English-speaking children become functionally literate by age 7 or 8, Chinese students continue learning new characters throughout their school years. It's estimated that mastering enough characters for comfortable reading takes roughly twice as many study hours as learning an alphabetic writing system.
 
-## Grammar: Simpler Than You'd Think
+## [Grammar](/grammar): Simpler Than You'd Think
 
 Here's the good news for learners: Mandarin grammar is, in many ways, simpler than English.
 
@@ -97,15 +97,15 @@ The difficult parts of grammar include measure words (classifiers used between n
 
 ## Pinyin: The Bridge
 
-Pinyin is the standard romanization system for Mandarin, using Latin letters with tone marks to represent pronunciation. It was developed in China in the 1950s and is used for teaching, input on computers and phones, and transcribing Chinese names and places in international contexts.
+Pinyin is the standard romanization system for Mandarin, using Latin letters with tone marks to represent pronunciation. It was developed in China in the 1950s and is used for [teaching](/teaching), input on computers and phones, and transcribing Chinese names and places in international contexts.
 
 When you type Chinese on a phone or computer, you typically type pinyin and then select the correct characters from a list. This system has had an interesting side effect — some younger Chinese people report being better at *recognizing* characters than *writing* them by hand, since digital input requires recognition but not production.
 
 ## Why Learn Mandarin?
 
-The pragmatic case is strong. China has the world's second-largest economy. Mandarin is a working language of international business, diplomacy, and science. Over 1 billion potential conversation partners. Major demand for Mandarin speakers in business, government, and education.
+The pragmatic case is strong. China has the world's second-largest economy. Mandarin is a working language of [international business](/international-business), [diplomacy](/diplomacy), and science. Over 1 billion potential conversation partners. Major demand for Mandarin speakers in business, [government](/government), and [education](/education).
 
-But there are other reasons. The language opens a window into a 5,000-year literary and philosophical tradition. Classical Chinese poetry, the Confucian and Taoist texts, modern Chinese literature — these become accessible (eventually) when you can read the original language.
+But there are other reasons. The language opens a window into a 5,000-year literary and philosophical tradition. Classical Chinese [poetry](/poetry), the Confucian and Taoist texts, modern Chinese [literature](/literature) — these become accessible (eventually) when you can read the original language.
 
 Learning Mandarin also rewires your brain in interesting ways. Research suggests that tonal language speakers develop stronger pitch discrimination and that character-based literacy activates different brain regions than alphabetic reading.
 

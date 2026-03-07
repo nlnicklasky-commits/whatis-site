@@ -5,7 +5,7 @@ description: "Painting is the practice of applying pigment to a surface to creat
 category: arts-amp-culture
 tags: ["painting", "art", "art medium", "visual arts", "pigment", "canvas"]
 heroImage: "/images/articles/painting.webp"
-heroAlt: "An artist's palette with vibrant oil paints and brushes beside a partially completed canvas"
+heroAlt: "Editorial photograph representing the concept of painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Painting is the act of applying pigment — ground colored material suspended in
 
 Every painting involves three components: pigment (the color), binder (what holds the pigment together and attaches it to the surface), and support (what you paint on).
 
-**Pigments** historically came from natural sources — ground minerals (lapis lazuli for blue, cinnabar for red), earth (ochre, sienna, umber), plants (indigo), and even insects (cochineal for carmine red). Modern chemistry has expanded the palette enormously with synthetic pigments that are brighter, more lightfast, and cheaper than many natural alternatives.
+**Pigments** historically came from natural sources — ground minerals (lapis lazuli for blue, cinnabar for red), earth (ochre, sienna, umber), plants (indigo), and even insects (cochineal for carmine red). Modern [chemistry](/chemistry) has expanded the palette enormously with synthetic pigments that are brighter, more lightfast, and cheaper than many natural alternatives.
 
 **Binders** define the paint medium:
 - **Oil** (usually linseed): oil paint, slow-drying, rich, blendable
@@ -59,11 +59,11 @@ Ancient Egyptian painting used flat, symbolic figures with strict conventions ab
 
 Medieval European painting served the church. Illuminated manuscripts and altarpieces used gold leaf and rich colors to depict sacred scenes. Naturalism mattered less than spiritual meaning.
 
-The **Renaissance** (14th-17th centuries) brought perspective, anatomical accuracy, and oil painting technique. Giotto's spatial experiments led to Masaccio's perspective, which led to Leonardo's sfumato, which led to Titian's color — each generation building on the last.
+The **Renaissance** (14th-17th centuries) brought perspective, anatomical accuracy, and [oil painting](/oil-painting) technique. Giotto's spatial experiments led to Masaccio's perspective, which led to Leonardo's sfumato, which led to Titian's color — each generation building on the last.
 
-**Impressionism** (1860s-1880s) broke with academic traditions. Monet, Renoir, and Degas painted outdoors, capturing light effects with visible brushstrokes and pure color. Critics hated it initially. Now it's probably the most popular art movement in history.
+**[Impressionism](/impressionism)** (1860s-1880s) broke with academic traditions. Monet, Renoir, and Degas painted outdoors, capturing light effects with visible brushstrokes and pure color. Critics hated it initially. Now it's probably the most popular art movement in history.
 
-**Modern art** (roughly 1900-1970) exploded painting's rules. Cubism fractured form. Expressionism prioritized emotion over representation. Abstract art abandoned recognizable subjects entirely. Minimalism reduced painting to its essentials — color, surface, edge.
+**[Modern art](/modern-art)** (roughly 1900-1970) exploded painting's rules. Cubism fractured form. Expressionism prioritized emotion over representation. Abstract art abandoned recognizable subjects entirely. [Minimalism](/minimalism) reduced painting to its essentials — color, surface, edge.
 
 **Contemporary painting** does everything at once. Photorealism coexists with pure abstraction. Street art influences gallery work. Digital tools create new possibilities. The question "Is painting dead?" gets asked every decade and answered the same way: no.
 
@@ -77,11 +77,11 @@ The **Renaissance** (14th-17th centuries) brought perspective, anatomical accura
 
 **Brushwork** — how paint is applied — carries emotional weight. Smooth, invisible brushwork feels calm and controlled. Thick, visible strokes feel energetic and immediate. The texture of paint on a surface (impasto, glazing, scumbling) adds a physical dimension that reproduction can't capture.
 
-**Observation** is the most underrated painting skill. Learning to see accurately — really see, not just glance — is the foundation. Most drawing and painting errors aren't problems of hand coordination. They're problems of perception. People paint what they think they see (a symbol of a face) rather than what's actually there (specific shapes of light and shadow).
+**Observation** is the most underrated painting skill. Learning to see accurately — really see, not just glance — is the foundation. Most [drawing](/drawing) and painting errors aren't problems of hand coordination. They're problems of perception. People paint what they think they see (a symbol of a face) rather than what's actually there (specific shapes of light and shadow).
 
 ## Why Painting Persists in a Digital Age
 
-Photography was supposed to kill painting. It didn't. Digital art was supposed to replace it. It hasn't. Every generation predicts painting's death, and every generation is wrong.
+Photography was supposed to kill painting. It didn't. [Digital art](/digital-art) was supposed to replace it. It hasn't. Every generation predicts painting's death, and every generation is wrong.
 
 Painting persists because it does something no other medium replicates. A painting is a physical object with texture, weight, and scale that demands in-person encounter. Reproductions flatten paintings into images. Standing in front of a large Rothko, you feel the color enveloping you. Looking at a photo of the same painting on your phone, you feel nothing comparable.
 

@@ -5,7 +5,7 @@ description: "Supply chain management coordinates the flow of goods from raw mat
 category: business
 tags: ["management", "supply chain", "logistics", "operations"]
 heroImage: "/images/articles/supply-chain-management.webp"
-heroAlt: "Aerial view of a busy shipping port with cargo containers and cranes"
+heroAlt: "Editorial photograph representing the concept of supply chain management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -51,15 +51,15 @@ Supply chain management typically breaks down into five interconnected areas:
 
 **Sourcing** — Finding and managing suppliers. This includes negotiating contracts, evaluating supplier quality and reliability, and deciding whether to single-source (cheaper, riskier) or multi-source (more expensive, more resilient).
 
-**Manufacturing** — Converting raw materials into finished products. This encompasses production scheduling, quality control, and capacity management.
+**Manufacturing** — Converting raw materials into finished products. This encompasses production [scheduling](/scheduling), quality control, and capacity management.
 
-**Delivery** — The logistics piece. Transportation, warehousing, order fulfillment, and last-mile delivery. For many companies, this is where the largest portion of supply chain costs sits.
+**Delivery** — The [logistics](/logistics) piece. Transportation, warehousing, order fulfillment, and last-mile delivery. For many companies, this is where the largest portion of supply chain costs sits.
 
-**Returns** — Handling defective products, customer returns, and recycling or disposal. This "reverse logistics" is often an afterthought, but it can represent significant costs.
+**Returns** — Handling defective products, customer returns, and [recycling](/recycling) or disposal. This "reverse logistics" is often an afterthought, but it can represent significant costs.
 
 ## A Brief History of How We Got Here
 
-Supply chains have existed as long as trade has. The Silk Road was a supply chain. The East India Company ran supply chains. But the discipline of *managing* supply chains as an integrated system is surprisingly young.
+Supply chains have existed as long as trade has. The [Silk Road](/silk-road) was a supply chain. The East India Company ran supply chains. But the discipline of *managing* supply chains as an integrated system is surprisingly young.
 
 Before the 1980s, most companies treated procurement, manufacturing, and distribution as separate departments with separate goals. The purchasing department wanted the cheapest raw materials. The manufacturing floor wanted the longest production runs. The distribution team wanted the most flexible delivery options. These goals often conflicted, and nobody was optimizing the whole system.
 
@@ -95,9 +95,9 @@ Modern supply chain management runs on data. Here's what that looks like in prac
 
 **Warehouse Management Systems (WMS)** — Software that optimizes storage locations, picking routes, and shipping processes within warehouses. Amazon's fulfillment centers are essentially giant WMS-driven robots that happen to employ humans.
 
-**Transportation Management Systems (TMS)** — Route optimization, carrier selection, freight auditing, and shipment tracking. For companies shipping thousands of loads per week, a good TMS can reduce transportation costs by 5% to 15%.
+**Transportation Management Systems (TMS)** — Route [optimization](/optimization), carrier selection, freight auditing, and shipment tracking. For companies shipping thousands of loads per week, a good TMS can reduce transportation costs by 5% to 15%.
 
-**Demand Forecasting** — Statistical models and machine learning algorithms that predict what customers will want, when, and in what quantities. Walmart's forecasting system processes 2.5 petabytes of data to predict demand across 4,700 U.S. stores.
+**Demand Forecasting** — Statistical models and [machine learning](/machine-learning) [algorithms](/algorithms) that predict what customers will want, when, and in what quantities. Walmart's forecasting system processes 2.5 petabytes of data to predict demand across 4,700 U.S. stores.
 
 **IoT and Sensors** — GPS trackers on containers, temperature sensors in cold chain logistics, RFID tags on pallets. These provide real-time visibility into where goods are and what condition they're in.
 
@@ -107,7 +107,7 @@ The past five years have been a crash course in supply chain fragility. The list
 
 - **COVID-19 (2020-2022):** Factory shutdowns, shipping container shortages, port congestion. The cost of shipping a container from Asia to North America went from about $1,500 to over $20,000.
 - **Suez Canal blockage (2021):** The Ever Given container ship ran aground and blocked $9.6 billion in daily trade for six days.
-- **Semiconductor shortage (2020-2023):** A single product category — chips — caused production disruptions across automotive, electronics, and industrial manufacturing. Ford alone estimated $3.1 billion in lost profits in 2021.
+- **Semiconductor shortage (2020-2023):** A single product category — chips — caused production disruptions across automotive, [electronics](/electronics), and industrial manufacturing. Ford alone estimated $3.1 billion in lost profits in 2021.
 - **Russia-Ukraine conflict (2022-present):** Disrupted grain exports, energy supplies, and key mineral supply chains.
 
 These events exposed a fundamental weakness in global supply chains: concentration risk. When 92% of the world's most advanced semiconductors are manufactured in Taiwan (by TSMC), a single geopolitical event could paralyze global electronics production.
@@ -135,7 +135,7 @@ This means that any serious corporate sustainability effort has to address the s
 - **Modal shifts** — moving freight from trucks to rail or ships, which produce fewer emissions per ton-mile
 - **Carbon tracking** across every tier of the supply chain
 
-The EU's Carbon Border Adjustment Mechanism (CBAM), which began phased implementation in 2023, puts a carbon price on imports based on their production emissions. This makes supply chain carbon accounting not just a nice-to-have, but a regulatory requirement for companies selling into European markets.
+The EU's Carbon Border Adjustment Mechanism (CBAM), which began phased implementation in 2023, puts a carbon price on imports based on their production emissions. This makes supply chain carbon [accounting](/accounting) not just a nice-to-have, but a regulatory requirement for companies selling into European markets.
 
 ## Key Metrics That Actually Matter
 
@@ -151,6 +151,6 @@ Supply chain performance comes down to a handful of numbers:
 
 The discipline is in the middle of several simultaneous shifts. AI-driven demand forecasting is getting remarkably accurate — some systems now predict demand with 95%+ accuracy for stable product categories. Digital twins — virtual replicas of entire supply chains — let companies simulate disruptions and test responses before they happen.
 
-Autonomous vehicles and drones are starting to appear in last-mile delivery and warehouse operations. Blockchain is being piloted for traceability — tracking a food product from farm to fork or verifying that minerals weren't sourced from conflict zones.
+Autonomous vehicles and drones are starting to appear in last-mile delivery and warehouse operations. [Blockchain](/blockchain) is being piloted for traceability — tracking a food product from farm to fork or verifying that minerals weren't sourced from conflict zones.
 
 But perhaps the biggest shift is philosophical. For 30 years, the supply chain profession optimized relentlessly for cost and efficiency. The disruptions of the early 2020s proved that the cheapest supply chain isn't always the best one. Resilience — the ability to absorb shocks and recover quickly — is now valued alongside efficiency. That rebalancing will define supply chain strategy for the next decade.

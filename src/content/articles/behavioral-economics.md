@@ -5,7 +5,7 @@ description: "Behavioral economics studies how psychological factors and cogniti
 category: everyday-concepts
 tags: ["behavioral economics", "economics", "psychology", "cognitive bias", "decision making", "nudge theory"]
 heroImage: "/images/articles/behavioral-economics.webp"
-heroAlt: "Brain and dollar sign illustration showing the intersection of psychology and economic choice"
+heroAlt: "Editorial photograph representing the concept of behavioral economics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,11 +45,11 @@ These aren't random errors. They're systematic patterns, and understanding them 
 
 ## The Key Figures
 
-**Daniel Kahneman and Amos Tversky** conducted the foundational research in the 1970s and 1980s, documenting how people systematically misjudge probabilities, overweight losses relative to gains, and rely on mental shortcuts (heuristics) that produce predictable errors. Their prospect theory (1979) demonstrated that people feel losses roughly twice as intensely as equivalent gains — losing $100 hurts about as much as gaining $200 feels good.
+**Daniel Kahneman and Amos Tversky** conducted the foundational research in the 1970s and 1980s, documenting how people systematically misjudge probabilities, overweight losses relative to gains, and rely on mental shortcuts ([heuristics](/heuristics)) that produce predictable errors. Their prospect theory (1979) demonstrated that people feel losses roughly twice as intensely as equivalent gains — losing $100 hurts about as much as gaining $200 feels good.
 
-**Richard Thaler** took these psychological findings and applied them to economic behavior. His work on "mental accounting" (people treat money differently depending on which mental "account" it sits in), the endowment effect (people overvalue things they own), and self-control problems (the gap between what you intend to do and what you actually do) built behavioral economics into a recognized discipline.
+**Richard Thaler** took these psychological findings and applied them to economic behavior. His work on "mental [accounting](/accounting)" (people treat money differently depending on which mental "account" it sits in), the endowment effect (people overvalue things they own), and self-control problems (the gap between what you intend to do and what you actually do) built behavioral economics into a recognized discipline.
 
-Thaler's book *Nudge* (2008, co-authored with Cass Sunstein) popularized the idea that choice architecture — how options are presented — can guide better decisions without restricting freedom. Governments worldwide adopted "nudge units" after its publication.
+Thaler's book *Nudge* (2008, co-authored with Cass Sunstein) popularized the idea that choice [architecture](/architecture) — how options are presented — can guide better decisions without restricting freedom. Governments worldwide adopted "nudge units" after its publication.
 
 ## Major Biases and Effects
 
@@ -59,7 +59,7 @@ People feel losses about twice as strongly as equivalent gains. This explains wh
 
 ### Anchoring
 
-The first number you encounter in a decision disproportionately influences your judgment. Real estate agents show expensive houses first to make the target property seem reasonable by comparison. Retailers display an original price next to the sale price because the anchor makes the discount feel significant regardless of whether the original price was genuine.
+The first number you encounter in a decision disproportionately influences your judgment. [Real estate](/real-estate) agents show expensive houses first to make the target property seem reasonable by comparison. Retailers display an original price next to the sale price because the anchor makes the discount feel significant regardless of whether the original price was genuine.
 
 ### Present Bias
 
@@ -85,7 +85,7 @@ Nudges — small changes in choice architecture that steer behavior — have bee
 
 **Energy conservation** programs that show households how their energy use compares to neighbors reduce consumption by 1-3% — modest individually but significant at scale.
 
-The UK's Behavioural Insights Team (the "Nudge Unit"), established in 2010, was the first government unit dedicated to applying behavioral insights to policy. Similar units now operate in over 200 government agencies worldwide.
+The UK's Behavioural Insights Team (the "Nudge Unit"), established in 2010, was the first [government](/government) unit dedicated to applying behavioral insights to policy. Similar units now operate in over 200 government agencies worldwide.
 
 ## Criticisms
 

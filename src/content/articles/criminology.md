@@ -5,7 +5,7 @@ description: "Criminology is the scientific study of crime, criminals, and the c
 category: everyday-concepts
 tags: ["criminology", "crime", "criminal justice", "sociology", "law", "deviance"]
 heroImage: "/images/articles/criminology.webp"
-heroAlt: "A researcher examining crime statistics and case files at a desk"
+heroAlt: "Editorial photograph representing the concept of criminology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,23 +31,23 @@ faq:
 
 # What Is Criminology?
 
-Criminology is the scientific study of crime — its causes, consequences, prevention, and the societal response to it. Unlike [detective fiction](/detective-fiction), which focuses on solving individual crimes, criminology examines patterns: Why do crime rates differ between neighborhoods? What turns a teenager into a career criminal — or doesn't? Do prisons reduce crime, and at what cost? These questions sit at the intersection of sociology, psychology, law, and public policy.
+Criminology is the scientific study of crime — its causes, consequences, prevention, and the societal response to it. Unlike [detective fiction](/detective-fiction), which focuses on solving individual crimes, criminology examines patterns: Why do crime rates differ between neighborhoods? What turns a teenager into a career criminal — or doesn't? Do prisons reduce crime, and at what cost? These questions sit at the intersection of [sociology](/sociology), [psychology](/psychology), law, and public policy.
 
 ## The Big Theories
 
 Criminologists have proposed dozens of theories to explain why crime happens. None explains everything, but several have significantly shaped policy and understanding.
 
-**Classical theory** (Cesare Beccaria, 1764) assumes people are rational actors who weigh costs and benefits. Crime occurs when the expected benefit exceeds the expected punishment. This theory underpins deterrence-based policies — harsher sentences, visible policing, surveillance. The logic is intuitive but incomplete: plenty of crime happens impulsively, and many criminals don't rationally calculate consequences.
+**Classical theory** (Cesare Beccaria, 1764) assumes people are rational actors who weigh costs and benefits. Crime occurs when the expected benefit exceeds the expected punishment. This theory underpins deterrence-based policies — harsher sentences, visible policing, surveillance. The [logic](/logic) is intuitive but incomplete: plenty of crime happens impulsively, and many criminals don't rationally calculate consequences.
 
 **Social disorganization theory** (Shaw and McKay, 1942) argues that crime concentrates in neighborhoods with weak social institutions — high residential turnover, poverty, family disruption, and lack of community organizations. The theory explains why crime rates remain high in certain areas regardless of who lives there. It's the neighborhood's structure, not the individuals, that produces crime.
 
 **Strain theory** (Robert Merton, 1938) proposes that crime results from the gap between culturally valued goals (wealth, status) and legitimate means of achieving them. When people can't reach success through approved channels, some turn to illegitimate ones. This theory explains property crime and drug dealing more convincingly than violent crime.
 
-**Social learning theory** (Sutherland's differential association, later Akers) argues that criminal behavior is learned through interaction with others — primarily in intimate personal groups. If your peer group rewards criminal behavior and attitudes, you're more likely to adopt them. This explains why crime runs in social networks without requiring individual pathology.
+**Social learning theory** (Sutherland's differential association, later Akers) argues that criminal behavior is learned through interaction with others — primarily in intimate personal groups. If your peer group rewards criminal behavior and attitudes, you're more likely to adopt them. This explains why crime runs in social networks without requiring individual [pathology](/pathology).
 
 **Labeling theory** shifts the focus from the criminal to society's reaction. Howard Becker (1963) argued that deviance isn't inherent in an act — it's a label applied by those in power. Once someone is labeled "criminal," they may internalize that identity, making future crime more likely. This theory helps explain why the criminal justice system can actually increase criminality.
 
-**Biosocial criminology** integrates biological factors — genetics, neurotransmitter levels, brain injuries, prenatal exposure to toxins — with social ones. Twin studies show that identical twins are more concordant in criminal behavior than fraternal twins, suggesting a genetic component. But genes interact with environment — a genetic predisposition toward impulsivity matters most in environments that offer few constructive outlets.
+**Biosocial criminology** integrates biological factors — [genetics](/genetics), neurotransmitter levels, brain injuries, prenatal exposure to toxins — with social ones. Twin studies show that identical twins are more concordant in criminal behavior than fraternal twins, suggesting a genetic component. But genes interact with environment — a genetic predisposition toward impulsivity matters most in environments that offer few constructive outlets.
 
 ## The Data Problem
 
@@ -61,15 +61,15 @@ Property crime has also declined dramatically, though public perception often do
 
 The U.S. criminal justice system processes roughly 10 million arrests annually. About 2 million people are incarcerated at any given time — the highest incarceration rate in the world (roughly 5 times the rate of Western Europe).
 
-Mass incarceration has generated intense criminological debate. Research suggests that prison reduces crime through incapacitation (people can't commit crimes against the public while locked up) but has limited deterrent effect (potential criminals rarely consider sentence lengths when deciding to offend). The social costs — family disruption, community destabilization, economic damage — are enormous.
+Mass incarceration has generated intense criminological [debate](/debate). Research suggests that prison reduces crime through incapacitation (people can't commit crimes against the public while locked up) but has limited deterrent effect (potential criminals rarely consider sentence lengths when deciding to offend). The social costs — family disruption, community destabilization, economic damage — are enormous.
 
 Racial disparities in the system are well-documented and troubling. Black Americans are incarcerated at roughly five times the rate of white Americans. This disparity persists even when controlling for offense type and criminal history, suggesting systemic factors beyond individual behavior.
 
 ## Prevention vs. Punishment
 
-Criminological research increasingly supports prevention over reactive punishment. Programs that target risk factors early — childhood intervention, mental health services, substance abuse treatment, economic opportunity — tend to reduce crime more cost-effectively than incarceration.
+Criminological research increasingly supports prevention over reactive punishment. Programs that target risk factors early — childhood intervention, [mental health](/mental-health) services, substance abuse treatment, economic opportunity — tend to reduce crime more cost-effectively than incarceration.
 
-The Perry Preschool Project, which provided intensive early childhood education to at-risk children in the 1960s, tracked participants for decades. By age 40, participants had significantly lower arrest rates, higher earnings, and more stable families than the control group. The estimated return on investment was $7-12 for every $1 spent.
+The Perry Preschool Project, which provided intensive early childhood [education](/education) to at-risk children in the 1960s, tracked participants for decades. By age 40, participants had significantly lower arrest rates, higher earnings, and more stable families than the control group. The estimated return on investment was $7-12 for every $1 spent.
 
 Drug courts, which divert non-violent drug offenders into treatment rather than prison, have shown consistent positive results — lower recidivism, lower cost, and better outcomes for participants compared to traditional prosecution.
 

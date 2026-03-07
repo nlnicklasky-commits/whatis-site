@@ -5,7 +5,7 @@ description: "Hedge fund management involves running pooled investment funds tha
 category: everyday-concepts
 tags: ["hedge fund management", "investing", "finance", "alternative investments", "portfolio management"]
 heroImage: "/images/articles/hedge-fund-management.webp"
-heroAlt: "Trading screens displaying financial charts and market data in a hedge fund office"
+heroAlt: "Editorial photograph representing the concept of hedge fund management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Yes, though the level of risk varies enormously by strategy. Some hedge funds use heavy leverage and concentrated bets that can produce catastrophic losses. Others employ conservative, market-neutral strategies designed to produce steady returns with limited downside. The lack of regulatory transparency makes it harder for investors to assess risk accurately."
 ---
 
-# What Is Hedge Fund Management?
+# What Is Hedge Fund [Management](/management)?
 
-Hedge fund management is the business of running pooled investment vehicles that use strategies most regular mutual funds cannot — short selling, use, derivatives, arbitrage, and concentrated bets. The "hedge" in the name originally referred to hedging risk, but many modern hedge funds are really about chasing outsized returns for wealthy investors willing to accept higher risk and lower liquidity.
+Hedge fund management is the business of [running](/running) pooled investment vehicles that use strategies most regular mutual funds cannot — short selling, use, derivatives, arbitrage, and concentrated bets. The "hedge" in the name originally referred to hedging risk, but many modern hedge funds are really about chasing outsized returns for wealthy investors willing to accept higher risk and lower liquidity.
 
 ## How Hedge Funds Differ from Regular Funds
 
@@ -55,7 +55,7 @@ Hedge fund strategies range from conservative to wildly aggressive. Here are the
 
 **Event-driven** strategies focus on specific corporate events: mergers, acquisitions, bankruptcies, restructurings. Merger arbitrage — buying the target company and shorting the acquirer — is a classic example.
 
-**Quantitative ("quant")** funds use mathematical models and algorithms to identify trading opportunities. Renaissance Technologies, founded by mathematician Jim Simons, is the poster child. Its Medallion Fund generated average annual returns of 66% (before fees) from 1988 to 2018. Those numbers are almost absurdly good, and nobody outside the firm fully understands how they do it.
+**Quantitative ("quant")** funds use mathematical models and [algorithms](/algorithms) to identify trading opportunities. Renaissance Technologies, founded by mathematician Jim Simons, is the poster child. Its Medallion Fund generated average annual returns of 66% (before fees) from 1988 to 2018. Those numbers are almost absurdly good, and nobody outside the firm fully understands how they do it.
 
 **Distressed debt** funds buy the bonds or loans of companies in financial trouble — at steep discounts — and attempt to profit through restructuring, litigation, or recovery.
 
@@ -65,17 +65,17 @@ A typical hedge fund has a small team relative to the money it manages. A $2 bil
 
 The **portfolio manager** (PM) makes the final investment decisions. In smaller funds, the PM is often the founder. In larger firms, multiple PMs may each run their own "book" within the fund.
 
-**Analysts** do the research — financial modeling, industry analysis, company visits, data crunching. Junior analysts at top funds often work 70 to 80-hour weeks.
+**Analysts** do the research — [financial modeling](/financial-modeling), industry analysis, company visits, data crunching. Junior analysts at top funds often work 70 to 80-hour weeks.
 
-**Risk managers** monitor the fund's exposure and ensure it stays within defined parameters. After the 2008 financial crisis, risk management became much more formalized.
+**Risk managers** monitor the fund's exposure and ensure it stays within defined parameters. After the 2008 financial crisis, [risk management](/risk-management) became much more formalized.
 
-**Operations and compliance** staff handle the back-office work — trade settlement, regulatory filings, investor reporting. This is the unglamorous side that keeps funds from running afoul of regulators.
+**Operations and compliance** staff handle the back-office work — [trade](/trade) settlement, regulatory filings, investor reporting. This is the unglamorous side that keeps funds from running afoul of regulators.
 
 ## The Performance Reality
 
 Here is what the hedge fund industry does not love to advertise: on average, hedge funds have underperformed simple index funds for over a decade. Warren Buffett famously won a million-dollar bet in 2017 that the S&P 500 would outperform a basket of hedge funds over ten years. He was right, and it was not even close.
 
-The average hedge fund returned about 7.4% annually from 2009 to 2019. The S&P 500 returned roughly 13.5% over the same period. After accounting for those steep fees, many hedge fund investors would have been better off buying a Vanguard index fund.
+The average hedge fund returned about 7.4% annually from 2009 to 2019. The S&P 500 returned roughly 13.5% over the same period. After [accounting](/accounting) for those steep fees, many hedge fund investors would have been better off buying a Vanguard index fund.
 
 But averages hide enormous variation. The top-performing funds generate returns that blow index funds away. The bottom performers lose money. The challenge for investors is identifying which funds will be in the top group — and that is extremely difficult to do in advance.
 

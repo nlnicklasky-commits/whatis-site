@@ -5,7 +5,7 @@ description: "Pharmacy is the science of preparing, dispensing, and managing med
 category: health-amp-wellness
 tags: ["pharmacist", "medications", "drugs", "healthcare"]
 heroImage: "/images/articles/pharmacy.webp"
-heroAlt: "A pharmacist reviewing a prescription label behind a counter filled with organized medication bottles"
+heroAlt: "Editorial photograph representing the concept of pharmacy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Pharmacy?
 
-Pharmacy is the health science concerned with the preparation, dispensing, and appropriate use of medications. It bridges the gap between the laboratory where drugs are developed and the patient who takes them — ensuring that the right drug reaches the right person, at the right dose, at the right time, with the fewest possible risks.
+Pharmacy is the [health science](/health-science) concerned with the preparation, dispensing, and appropriate use of medications. It bridges the gap between the laboratory where drugs are developed and the patient who takes them — ensuring that the right drug reaches the right person, at the right dose, at the right time, with the fewest possible risks.
 
 The profession is ancient. The first known pharmacopoeia — a book listing drugs and their uses — dates to around 1550 BCE in Egypt. But modern pharmacy as a distinct discipline separated from medicine in the mid-1800s, and it has evolved dramatically since.
 
@@ -62,7 +62,7 @@ Medication non-adherence is a massive problem. The World Health Organization est
 
 This is where the profession gets interesting. Clinical pharmacists work in hospitals, clinics, and specialty practices, making drug therapy recommendations directly to physicians. They round with medical teams, adjust dosages based on lab values, and manage complex medication regimens for patients with multiple conditions.
 
-In many hospitals, clinical pharmacists run anticoagulation clinics (managing blood thinners like warfarin), diabetes management programs, and pain management consultations. They're embedded in the care team, not behind a counter.
+In many hospitals, clinical pharmacists run anticoagulation clinics (managing blood thinners like warfarin), [diabetes management](/diabetes-[management](/management)) programs, and pain management consultations. They're embedded in the care team, not behind a counter.
 
 ## Pharmacy Education
 
@@ -70,19 +70,19 @@ Becoming a pharmacist requires serious academic commitment.
 
 ### The PharmD Pathway
 
-In the U.S., the standard credential is the Doctor of Pharmacy (PharmD), a four-year doctoral program. Most pharmacy schools require at least two years of prerequisite undergraduate coursework — heavy on [chemistry](/chemistry), [biology](/biology), and mathematics — though many applicants complete a full bachelor's degree first.
+In the U.S., the standard credential is the Doctor of Pharmacy (PharmD), a four-year doctoral program. Most pharmacy schools require at least two years of prerequisite undergraduate coursework — heavy on [chemistry](/chemistry), [biology](/biology), and [mathematics](/mathematics) — though many applicants complete a full bachelor's degree first.
 
-Pharmacy school curriculum covers pharmacology (how drugs work), medicinal chemistry (why they're structured the way they are), pharmacokinetics (how the body absorbs, distributes, metabolizes, and eliminates drugs), therapeutics (which drugs to use for which conditions), and pharmacy law.
+Pharmacy school curriculum covers [pharmacology](/pharmacology) (how drugs work), [medicinal chemistry](/medicinal-chemistry) (why they're structured the way they are), pharmacokinetics (how the body absorbs, distributes, metabolizes, and eliminates drugs), therapeutics (which drugs to use for which conditions), and pharmacy law.
 
 Students also complete rotations — extended clinical placements in community pharmacies, hospitals, and specialty settings. These rotations typically occupy the entire final year of the program.
 
 ### Licensing
 
-After earning a PharmD, graduates must pass two exams: the NAPLEX (North American Pharmacist Licensure Examination), which tests pharmacy knowledge and clinical skills, and the MPJE (Multistate Pharmacy Jurisprudence Examination), which covers state-specific pharmacy law. Some states have additional requirements.
+After earning a PharmD, graduates must pass two exams: the NAPLEX (North American Pharmacist Licensure Examination), which tests pharmacy knowledge and clinical skills, and the MPJE (Multistate Pharmacy [Jurisprudence](/jurisprudence) Examination), which covers state-specific pharmacy law. Some states have additional requirements.
 
 ### Residencies and Specialization
 
-Pharmacists who want to work in clinical settings often complete one or two years of post-graduate residency training. Board certification is available in specialties including oncology, critical care, infectious diseases, psychiatry, pediatrics, and ambulatory care.
+Pharmacists who want to work in clinical settings often complete one or two years of post-graduate residency training. Board certification is available in specialties including oncology, critical care, infectious diseases, psychiatry, [pediatrics](/pediatrics), and ambulatory care.
 
 ## The Different Settings
 
@@ -102,7 +102,7 @@ The work is often more clinically complex than community practice. Hospital phar
 
 ### Specialty and Other Settings
 
-Pharmacists also work in pharmaceutical industry research and development, regulatory affairs at the FDA, poison control centers, managed care organizations (deciding which drugs health plans will cover), academia, and public health agencies. The variety is broader than most people expect.
+Pharmacists also work in pharmaceutical industry research and development, regulatory affairs at the FDA, poison control centers, managed care organizations (deciding which drugs health plans will cover), academia, and [public health](/public-health) agencies. The variety is broader than most people expect.
 
 ## How Drug Development Connects to Pharmacy
 

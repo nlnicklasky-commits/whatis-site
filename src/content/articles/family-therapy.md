@@ -5,7 +5,7 @@ description: "Family therapy is a type of psychotherapy that treats the family u
 category: health-amp-wellness
 tags: ["therapy", "counseling", "psychotherapy", "family dynamics", "mental health"]
 heroImage: "/images/articles/family-therapy.webp"
-heroAlt: "A family sitting together on a couch during a therapy session with a counselor"
+heroAlt: "Editorial photograph representing the concept of family therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Family Therapy?
 
-Family therapy is a form of psychotherapy that treats the family as an interconnected system rather than focusing on one individual's problems in isolation. Instead of asking "what's wrong with this person," it asks "what's happening between these people" — and that shift in perspective changes everything.
+Family therapy is a form of [psychotherapy](/psychotherapy) that treats the family as an interconnected system rather than focusing on one individual's problems in isolation. Instead of asking "what's wrong with this person," it asks "what's happening between these people" — and that shift in perspective changes everything.
 
 ## Why Treat the Family, Not Just the Individual?
 
@@ -43,13 +43,13 @@ Here's the thing most people don't consider: your behavior doesn't exist in a va
 
 Family therapists call this "systems thinking." The family is a system, and every part affects every other part. Pull one thread and the whole fabric moves. This isn't just theory — research published in the *Journal of Marital and Family Therapy* found that treating the family system produces longer-lasting results for many conditions than treating individuals alone.
 
-That's a pretty big deal. It means that sometimes the most effective way to help a child with [anxiety](/cognitive-psychology) isn't just to work with the child — it's to change how the entire family communicates.
+That's a pretty big deal. It means that sometimes the most effective way to help a child with [anxiety](/cognitive-[psychology](/psychology)) isn't just to work with the child — it's to change how the entire family communicates.
 
 ## A Brief History
 
-Family therapy as a formal discipline emerged in the 1950s, though its roots stretch back further. Before then, the dominant model in psychotherapy was psychoanalysis — one patient, one therapist, one couch. Families were deliberately excluded from treatment.
+Family therapy as a formal discipline emerged in the 1950s, though its roots stretch back further. Before then, the dominant model in psychotherapy was [psychoanalysis](/psychoanalysis) — one patient, one therapist, one couch. Families were deliberately excluded from treatment.
 
-Several researchers independently started questioning that model around the same time. Gregory Bateson's research on communication patterns in families of schizophrenia patients at the Palo Alto VA Hospital was pioneering work in the field. Murray Bowen at the National Institute of Mental Health began hospitalizing entire families to study their interactions. Salvador Minuchin developed structural family therapy while working with disadvantaged families in New York.
+Several researchers independently started questioning that model around the same time. Gregory Bateson's research on communication patterns in families of schizophrenia patients at the Palo Alto VA Hospital was pioneering work in the field. Murray Bowen at the National Institute of [Mental Health](/mental-health) began hospitalizing entire families to study their interactions. Salvador Minuchin developed structural family therapy while working with disadvantaged families in New York.
 
 By the 1970s, family therapy had become a recognized specialty. The American Association for Marriage and Family Therapy (AAMFT), founded in 1942 as a marriage counseling organization, expanded its scope to encompass family systems work. Today, over 50,000 licensed marriage and family therapists practice in the United States alone.
 
@@ -92,7 +92,7 @@ Then the real work begins. A typical session might involve:
 - **Direct observation.** The therapist asks the family to discuss a contentious topic and watches how they interact. Who interrupts? Who shuts down? Who plays peacemaker?
 - **Communication exercises.** Learning to use "I" statements instead of "you" accusations, practicing active listening, expressing feelings without blame.
 - **Enactments.** The therapist coaches family members through a difficult conversation in real time, pausing to redirect when patterns go sideways.
-- **Psychoeducation.** Teaching the family about [developmental](/developmental-psychology) stages, attachment theory, or the neuroscience of stress responses — whatever knowledge helps them understand their situation.
+- **Psychoeducation.** Teaching the family about [developmental](/developmental-psychology) stages, attachment theory, or the [neuroscience](/neuroscience) of stress responses — whatever knowledge helps them understand their situation.
 
 Sessions usually last 50 to 90 minutes and occur weekly, though some models use longer sessions or marathon formats for intensive intervention.
 
@@ -128,7 +128,7 @@ Not all therapists are trained in family systems work. Look for credentials that
 
 The AAMFT maintains a [therapist locator](https://www.aamft.org/) on their website. Your insurance provider's directory will also list in-network family therapists.
 
-Chemistry matters more than credentials, though. The best family therapist in the world won't help if your family can't connect with them. Most therapists offer an initial consultation — use it. Ask about their approach, their experience with your specific issues, and how they handle it when family members resist the process.
+[Chemistry](/chemistry) matters more than credentials, though. The best family therapist in the world won't help if your family can't connect with them. Most therapists offer an initial consultation — use it. Ask about their approach, their experience with your specific issues, and how they handle it when family members resist the process.
 
 ## The Bigger Picture
 

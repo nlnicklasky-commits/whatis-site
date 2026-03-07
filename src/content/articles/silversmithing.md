@@ -5,7 +5,7 @@ description: "Silversmithing is the craft of shaping silver into jewelry, vessel
 category: arts-amp-culture
 tags: ["silversmithing", "silver", "metalworking", "jewelry making", "craft", "artisanship"]
 heroImage: "/images/articles/silversmithing.webp"
-heroAlt: "A silversmith hammering a silver vessel on an anvil in a workshop with tools visible"
+heroAlt: "Editorial photograph representing the concept of silversmithing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Silversmithing?
 
-Silversmithing is the craft of working with silver to create functional and decorative objects — from jewelry and flatware to bowls, candlesticks, and ceremonial pieces. It involves heating, hammering, cutting, soldering, and polishing silver into desired forms, using techniques that have been refined over roughly 5,000 years of continuous practice.
+Silversmithing is the craft of working with silver to create functional and decorative objects — from jewelry and flatware to bowls, candlesticks, and ceremonial pieces. It involves heating, hammering, cutting, [soldering](/soldering), and polishing silver into desired forms, using techniques that have been refined over roughly 5,000 years of continuous practice.
 
 Silver has properties that make it uniquely suited to craftwork. It's malleable enough to be hammered into thin sheets without cracking. It conducts heat beautifully (useful for tea services). It takes a polish that reflects more light than any other metal. And it's just rare enough to be valued without being inaccessible — gold's elegant, more approachable cousin.
 
@@ -39,13 +39,13 @@ Silver has properties that make it uniquely suited to craftwork. It's malleable 
 
 **Raising** is the traditional method for creating hollow forms — bowls, cups, vases. You start with a flat silver disc and hammer it over a series of stakes (shaped metal forms), gradually working the flat sheet into a three-dimensional vessel. It's slow, physical work — a single bowl might require thousands of hammer blows over several days. Each round of hammering hardens the metal, requiring periodic annealing (heating to soften) before continuing.
 
-**Forging** shapes solid silver pieces by hammering on an anvil. Forks, spoons, handles, and structural elements are typically forged. The silversmith starts with a silver ingot or thick wire and hammers it into the desired cross-section and profile.
+**[Forging](/forging)** shapes solid silver pieces by hammering on an anvil. Forks, spoons, handles, and structural elements are typically forged. The silversmith starts with a silver ingot or thick wire and hammers it into the desired cross-section and profile.
 
 **Soldering** joins silver pieces using a lower-melting-point silver alloy. Multiple grades of silver solder exist — hard, medium, easy, and extra-easy — each melting at a different temperature. This allows complex constructions where you solder joints in sequence from hardest (highest temperature) to easiest, without re-melting earlier joints.
 
 **Chasing and repousse** create decorative relief patterns. Repousse works from the back — pushing the metal outward with punches and a hammer. Chasing works from the front — refining the design by pushing metal inward. Together, they create the elaborate surface decoration seen on historical silverwork.
 
-**Engraving** cuts fine lines into the surface using sharp tools called gravers or burins. Monograms, inscriptions, and decorative patterns are all engraving work. It requires steady hands and years of practice — one slip ruins the piece.
+**[Engraving](/engraving)** cuts fine lines into the surface using sharp tools called gravers or burins. Monograms, inscriptions, and decorative patterns are all engraving work. It requires steady hands and years of practice — one slip ruins the piece.
 
 ## Historical Significance
 
@@ -71,11 +71,11 @@ Silver is currently priced around $25-30 per ounce (fluctuating with commodity m
 
 ## Modern Silversmithing
 
-Contemporary silversmithing bridges traditional techniques and modern technology. Many smiths use traditional raising, forging, and chasing alongside laser welding, CAD design, and 3D printing (for creating wax models for casting). The combination allows precision and complexity that would be extremely difficult by hand alone.
+Contemporary silversmithing bridges traditional techniques and modern technology. Many smiths use traditional raising, forging, and chasing alongside laser [welding](/welding), CAD design, and 3D printing (for creating wax models for casting). The combination allows precision and complexity that would be extremely difficult by hand alone.
 
-The market for handmade silver has actually grown with interest in artisan goods. Etsy and similar platforms give silversmiths direct access to customers. Craft fairs and galleries sell one-of-a-kind pieces to buyers who want something unique. The "maker movement" has brought new people into metalworking who might never have considered it a generation ago.
+The market for handmade silver has actually grown with interest in artisan goods. Etsy and similar platforms give silversmiths direct access to customers. Craft fairs and galleries sell one-of-a-kind pieces to buyers who want something unique. The "maker movement" has brought new people into [metalworking](/metalworking) who might never have considered it a generation ago.
 
-Education options range from university programs (Cranbrook Academy, Rhode Island School of Design, Rochester Institute of Technology) to community workshops and online tutorials. Many professional silversmiths offer intensive workshops — a weekend course can teach you basic soldering, forming, and finishing.
+[Education](/education) options range from university programs (Cranbrook Academy, Rhode Island School of Design, Rochester Institute of Technology) to community workshops and online tutorials. Many professional silversmiths offer intensive workshops — a weekend course can teach you basic soldering, forming, and finishing.
 
 ## Getting Started
 

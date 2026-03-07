@@ -5,7 +5,7 @@ description: "Biogeography studies the distribution of species and ecosystems ac
 category: everyday-concepts
 tags: ["biogeography", "biology", "geography", "ecology", "evolution", "species distribution"]
 heroImage: "/images/articles/biogeography.webp"
-heroAlt: "World map showing different biomes and species distribution patterns across continents"
+heroAlt: "Editorial photograph representing the concept of biogeography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Biogeography?
 
-Biogeography is the scientific study of the distribution of species and ecosystems across Earth's surface and through geological time. It asks a deceptively simple question: why do particular organisms live where they do? The answers involve plate tectonics, climate change, [evolution](/evolutionary-biology), ocean currents, mountain ranges, and millions of years of history.
+Biogeography is the scientific study of the distribution of species and ecosystems across Earth's surface and through geological time. It asks a deceptively simple question: why do particular organisms live where they do? The answers involve [plate tectonics](/plate-tectonics), climate change, [evolution](/evolutionary-biology), ocean currents, mountain ranges, and millions of years of history.
 
 ## The Question That Started Everything
 
@@ -63,7 +63,7 @@ When a geographic barrier divides a previously continuous population — a mount
 
 ### Extinction
 
-Species disappear from areas they once inhabited. North America once had camels, horses, and ground sloths. They went extinct roughly 10,000-12,000 years ago (likely due to human hunting and climate change), dramatically reshaping the continent's fauna. Understanding past distributions requires the [fossil record](/paleontology) — and accepting that present distributions are snapshots of an ongoing process.
+Species disappear from areas they once inhabited. North America once had camels, horses, and ground sloths. They went extinct roughly 10,000-12,000 years ago (likely due to human [hunting](/hunting) and climate change), dramatically reshaping the continent's fauna. Understanding past distributions requires the [fossil record](/paleontology) — and accepting that present distributions are snapshots of an ongoing process.
 
 ### Climate and Habitat
 
@@ -96,4 +96,4 @@ Climate change is reshaping biogeographic patterns in real time. Species are shi
 
 Invasive species — organisms introduced to regions where they have no natural predators — disrupt established biogeographic patterns. Rats on Pacific islands, cane toads in Australia, and zebra mussels in North American lakes represent cases where human-assisted dispersal has devastating [ecological](/ecology) consequences.
 
-Biogeography helps predict which species are most vulnerable and which areas most need protection. It connects geology, evolution, ecology, and climate science into a framework for understanding life's distribution — and for making informed decisions about conservation in a rapidly changing world.
+Biogeography helps predict which species are most vulnerable and which areas most need protection. It connects [geology](/geology), evolution, ecology, and climate science into a framework for understanding life's distribution — and for making informed decisions about conservation in a rapidly changing world.

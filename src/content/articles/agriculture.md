@@ -5,7 +5,7 @@ description: "Agriculture is the practice of cultivating crops and raising lives
 category: science
 tags: ["agriculture", "farming", "cultivation", "livestock", "crops", "agronomy", "food production"]
 heroImage: "/images/articles/agriculture-hero.webp"
-heroAlt: "Aerial view of green farmland with crop rows stretching toward the horizon"
+heroAlt: "Editorial photograph representing the concept of agriculture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

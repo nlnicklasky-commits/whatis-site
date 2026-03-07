@@ -5,7 +5,7 @@ description: "UX design shapes how people interact with products and services. L
 category: technology
 tags: ["user experience", "ux design", "design", "usability", "human-computer interaction", "product design"]
 heroImage: "/images/articles/user-experience-ux-design.webp"
-heroAlt: "Designer working on wireframes and user flow diagrams spread across a desk with sticky notes and a laptop"
+heroAlt: "Editorial photograph representing the concept of user experience (ux) design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ UX design is the practice of shaping how people interact with products, services
 
 The term "user experience" was coined by Don Norman at Apple in 1993, but the underlying ideas are much older. Henry Dreyfuss, the industrial designer who shaped everything from Bell telephones to Honeywell thermostats in the 1950s, was doing UX work decades before the term existed. His 1955 book *Designing for People* argued that products should be designed around human capabilities and limitations — a radical idea in an era when products were designed for manufacturing efficiency first and human use second.
 
-The human-computer interaction (HCI) field, which emerged in the 1970s and 1980s at Xerox PARC, Stanford, and MIT, brought psychological research into computing. When Xerox researchers developed the first graphical user interface — with a mouse, windows, icons, and menus — they weren't just building technology. They were applying cognitive psychology to make computers usable by ordinary people, not just programmers.
+The human-computer interaction (HCI) field, which emerged in the 1970s and 1980s at Xerox PARC, Stanford, and MIT, brought psychological research into computing. When Xerox researchers developed the first graphical user interface — with a mouse, windows, icons, and menus — they weren't just building technology. They were applying [cognitive psychology](/cognitive-psychology) to make computers usable by ordinary people, not just programmers.
 
 Apple's Macintosh (1984) brought these ideas to consumers. The iPhone (2007) brought them to everyone. And the explosion of digital products since then has created an entire profession dedicated to making sure those products actually work for the people using them.
 
@@ -59,7 +59,7 @@ You can't design a good experience for people you don't understand. UX research 
 
 **Usability testing** puts a prototype or existing product in front of users and asks them to complete specific tasks while thinking aloud. The researcher watches where they struggle, where they get confused, and where they succeed. Jakob Nielsen's research at the Nielsen Norman Group has shown that testing with just 5 users typically reveals about 85% of usability problems — you don't need hundreds of participants.
 
-**Quantitative methods** — analytics, A/B tests, surveys — complement qualitative research by revealing patterns at scale. Analytics might show you that 40% of users abandon a checkout flow at step 3. Interviews will tell you why.
+**Quantitative methods** — analytics, A/B tests, surveys — complement [qualitative research](/qualitative-research) by revealing patterns at scale. Analytics might show you that 40% of users abandon a checkout flow at step 3. Interviews will tell you why.
 
 ### Information Architecture
 
@@ -85,7 +85,7 @@ Interaction design defines how users interact with interface elements — what h
 
 **Feedback** — confirming that an action has been received. When you tap a button and nothing visibly happens for 2 seconds, you tap again. And again. Now you've submitted the form three times. Good feedback is immediate and clear: a button changes color, a loading spinner appears, a success message confirms completion.
 
-**State management** — handling the different conditions an interface can be in. An empty state (no content yet), an error state (something went wrong), a loading state (working on it), a success state (done). Each state needs its own [design](/design-patterns), and failing to design for error and empty states is one of the most common UX mistakes.
+**State [management](/management)** — handling the different conditions an interface can be in. An empty state (no content yet), an error state (something went wrong), a loading state (working on it), a success state (done). Each state needs its own [design](/design-patterns), and failing to design for error and empty states is one of the most common UX mistakes.
 
 **Progressive disclosure** — showing only what's needed at each step, revealing complexity gradually. Tax software that shows you every possible field on a single screen would be overwhelming. Guiding you through questions one at a time, with help text available if needed, is progressive disclosure.
 
@@ -116,7 +116,7 @@ A predictive model from the 1950s that still shapes every interface you use: the
 
 The time it takes to make a decision increases with the number of options. A menu with 5 items is faster to use than one with 25. This principle argues for simplicity and progressive disclosure. Present the most common options first. Hide rarely-used features behind "Advanced" or "More Options."
 
-There's a practical limit, though. Breaking a 10-item menu into 3 sub-menus of 3-4 items each might satisfy Hick's Law in theory but adds navigation cost. Good designers balance decision complexity with navigation depth.
+There's a practical limit, though. Breaking a 10-item menu into 3 sub-menus of 3-4 items each might satisfy Hick's Law in theory but adds [navigation](/navigation) cost. Good designers balance decision complexity with navigation depth.
 
 ## UX in Practice
 
@@ -124,7 +124,7 @@ There's a practical limit, though. Breaking a 10-item menu into 3 sub-menus of 3
 
 UX design exists within a broader product development ecosystem. In a typical tech company, UX designers work alongside:
 
-- **Product managers** who define what to build and why (business strategy, market fit, prioritization)
+- **Product managers** who define what to build and why ([business strategy](/business-strategy), market fit, prioritization)
 - **Engineers/developers** who build the actual product
 - **Data analysts** who measure outcomes and user behavior
 - **Content strategists/writers** who craft the words users read
@@ -165,7 +165,7 @@ The FTC has taken enforcement action against some dark patterns, and the EU's GD
 
 UX design has grown from a niche specialty to a mainstream profession. The U.S. Bureau of Labor Statistics doesn't track "UX designer" separately, but related categories (web designers, software developers) show strong growth. LinkedIn has consistently ranked UX design among the top in-demand skills.
 
-**Entry paths vary.** Some UX designers come from graphic design, some from psychology, some from computer science, some from entirely unrelated fields. Bootcamps (3-6 months) provide accelerated training, though the quality varies enormously. Traditional paths include degrees in HCI, information science, or design.
+**Entry paths vary.** Some UX designers come from [graphic design](/graphic-design), some from psychology, some from [computer science](/computer-science), some from entirely unrelated fields. Bootcamps (3-6 months) provide accelerated training, though the quality varies enormously. Traditional paths include degrees in HCI, information science, or design.
 
 **Portfolio is everything.** Hiring managers want to see your process — the research, the problem definition, the iterations, the testing — not just polished final screens. A case study that shows how you identified a problem, explored multiple solutions, tested with users, and refined based on feedback is worth more than a beautiful interface with no context.
 

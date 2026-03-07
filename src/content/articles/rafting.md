@@ -5,7 +5,7 @@ description: "Rafting is a water sport where groups ride inflatable rafts throug
 category: sports
 tags: ["rafting", "whitewater", "water sports", "outdoor recreation", "adventure", "rivers"]
 heroImage: "/images/articles/rafting.webp"
-heroAlt: "Group of rafters paddling through whitewater rapids on a river"
+heroAlt: "Editorial photograph representing the concept of rafting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ A whitewater raft is an inflatable boat made from durable, multi-layered PVC or 
 
 The guide sits at the back (stern) and steers using a large oar or by giving paddle commands to the crew. When the guide calls "Forward!" everyone paddles forward. "Back paddle!" means reverse. "Left back!" means the left side paddles backward while the right continues forward, turning the raft. "Hold on!" means grab the safety line and brace — you're about to hit something big.
 
-The teamwork aspect is what makes rafting distinct from kayaking or canoeing. You can't control a raft alone — everyone must paddle in sync and respond to commands quickly. A raft full of people working together can carve precise lines through complex rapids. A raft full of people paddling randomly is going wherever the river wants.
+The teamwork aspect is what makes rafting distinct from kayaking or [canoeing](/canoeing). You can't control a raft alone — everyone must paddle in sync and respond to commands quickly. A raft full of people working together can carve precise lines through complex rapids. A raft full of people paddling randomly is going wherever the river wants.
 
 ## The Rapid Classification System
 
@@ -51,7 +51,7 @@ The International Scale of River Difficulty classifies rapids from Class I to Cl
 
 **Class III** — intermediate. Irregular waves, narrow passages, moderate drops. Significant maneuvering in fast current. This is where most commercial rafting trips operate — exciting enough to be thrilling, manageable enough to be safe with a guide.
 
-**Class IV** — advanced. Intense, powerful rapids requiring precise boat handling. Large waves, hydraulics (holes in the water created by water flowing over obstacles), and complicated routes. Scouting from shore before running the rapid is common. Falls out of the raft happen, and swimmers face genuine danger.
+**Class IV** — advanced. Intense, powerful rapids requiring precise boat handling. Large waves, [hydraulics](/hydraulics) (holes in the water created by water flowing over obstacles), and complicated routes. Scouting from shore before [running](/running) the rapid is common. Falls out of the raft happen, and swimmers face genuine danger.
 
 **Class V** — expert. Extremely long, obstructed, or violent rapids with serious drops. Rescue is difficult and the consequences of mistakes can include injury or death. Only experienced boaters with proper safety equipment and backup should attempt Class V.
 

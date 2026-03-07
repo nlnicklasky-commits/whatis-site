@@ -5,7 +5,7 @@ description: "QED is the quantum theory of light and matter, and the most precis
 category: science
 tags: ["quantum electrodynamics", "qed", "physics", "quantum field theory", "feynman diagrams", "particle physics"]
 heroImage: "/images/articles/quantum-electrodynamics-hero.webp"
-heroAlt: "Feynman diagram showing electron-photon interactions in quantum electrodynamics"
+heroAlt: "Editorial photograph representing the concept of quantum electrodynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantum Electrodynamics?
 
-Quantum electrodynamics -- universally called QED -- is the quantum field theory that describes how light and matter interact. More precisely, it's the relativistic quantum theory of [electromagnetism](/electromagnetism): how electrically charged particles (primarily electrons and positrons) exchange photons, the particles of light. It's the most accurately tested theory in the history of science, with predictions verified to more than 10 decimal places.
+Quantum electrodynamics -- universally called QED -- is the quantum field theory that describes how light and matter interact. More precisely, it's the relativistic quantum theory of [electromagnetism](/electromagnetism): how electrically charged particles (primarily electrons and positrons) exchange photons, the particles of light. It's the most accurately tested theory in [the history of science](/the-history-of-science), with predictions verified to more than 10 decimal places.
 
 Richard Feynman, one of QED's architects, described it as "the jewel of physics -- our proudest possession." And frankly, he wasn't exaggerating. QED explains everything from why atoms don't collapse to how lasers work, from the color of the sky to the chemistry that makes life possible. It does all this with a mathematical framework so precise that its predictions match experiments with an accuracy no other scientific theory has ever achieved.
 
@@ -43,9 +43,9 @@ Richard Feynman, one of QED's architects, described it as "the jewel of physics 
 
 To appreciate QED, you need to understand the crisis it resolved. By the 1930s, physics had two spectacularly successful but fundamentally incompatible theories.
 
-### Quantum Mechanics
+### [Quantum Mechanics](/quantum-mechanics)
 
-[Quantum mechanics](/quantum-chemistry), developed in the 1920s, described the behavior of atoms and subatomic particles. It explained the periodic table, chemical bonding, and the structure of atoms. But it was non-relativistic -- it didn't account for Einstein's special relativity. When particles move close to the speed of light, quantum mechanics gives wrong answers.
+[Quantum mechanics](/quantum-chemistry), developed in the 1920s, described the behavior of atoms and [subatomic particles](/subatomic-particles). It explained the periodic table, chemical bonding, and the structure of atoms. But it was non-relativistic -- it didn't account for Einstein's special relativity. When particles move close to the speed of light, quantum mechanics gives wrong answers.
 
 ### Special Relativity and Classical Electromagnetism
 
@@ -129,7 +129,7 @@ Even the [color of objects](/optics) is ultimately a QED phenomenon. Atoms absor
 
 One of QED's most dramatic predictions is that particles can be created from pure energy and destroyed back into energy. An electron and a positron can annihilate each other, producing two gamma-ray photons. Conversely, a high-energy photon near a nucleus can create an electron-positron pair from nothing.
 
-These processes have been observed in countless experiments at particle physics laboratories worldwide and form the basis of technologies like PET (positron emission tomography) medical imaging.
+These processes have been observed in countless experiments at [particle physics](/particle-physics) laboratories worldwide and form the basis of technologies like PET (positron emission tomography) medical imaging.
 
 ## The Fine Structure Constant: Nature's Favorite Number
 

@@ -5,7 +5,7 @@ description: "Basket weaving is the craft of interlacing flexible materials like
 category: arts-amp-culture
 tags: ["basket weaving", "basketry", "traditional craft", "fiber art", "handmade", "natural materials"]
 heroImage: "/images/articles/basket-weaving.webp"
-heroAlt: "Hands weaving a traditional basket from natural willow reeds showing the interlacing pattern"
+heroAlt: "Editorial photograph representing the concept of basket weaving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,11 +65,11 @@ Gullah sweetgrass baskets from the Lowcountry of South Carolina represent a livi
 
 ### Japanese Bamboo Art
 
-Japanese bamboo basketry (*take zaiku*) reached extraordinary artistic heights. Some pieces are displayed in major [art museums](/art-history) worldwide, valued as sculpture rather than craft. The distinction between "craft" and "art" in Japanese bamboo work was formally recognized when master weavers were designated Living National Treasures.
+Japanese bamboo basketry (*take zaiku*) reached extraordinary artistic heights. Some pieces are displayed in major [art museums](/art-history) worldwide, valued as [sculpture](/sculpture) rather than craft. The distinction between "craft" and "art" in Japanese bamboo work was formally recognized when master weavers were designated Living National Treasures.
 
 ### European Willow Baskets
 
-Willow basketry has been practiced in Europe since at least the Bronze Age. The English village of Stoke Gregory in Somerset remains a center of willow growing and weaving. Traditional forms — shopping baskets, lobster pots, bee skeps, wattle fencing — were essential to rural life until mass production made them obsolete for everyday use.
+Willow basketry has been practiced in Europe since at least the Bronze Age. The English village of Stoke Gregory in Somerset remains a center of willow growing and weaving. Traditional forms — shopping baskets, lobster pots, bee skeps, wattle [fencing](/fencing) — were essential to rural life until mass production made them obsolete for everyday use.
 
 ## The Materials Matter
 
@@ -83,10 +83,10 @@ In a world of plastic bins and cardboard boxes, handmade baskets might seem like
 
 **Sustainability** — Baskets are made from renewable, biodegradable materials. With plastic waste concern, objects that return to the earth after use have renewed appeal.
 
-**Meditation and mindfulness** — The repetitive, rhythmic nature of weaving is genuinely calming. Many contemporary weavers describe the craft as a form of [moving meditation](/mental-health), similar to knitting or pottery.
+**[Meditation](/meditation) and mindfulness** — The repetitive, rhythmic nature of weaving is genuinely calming. Many contemporary weavers describe the craft as a form of [moving meditation](/mental-health), similar to [knitting](/knitting) or pottery.
 
 **Cultural preservation** — Communities worldwide are working to keep basketry traditions alive, recognizing them as carriers of cultural knowledge, [history](/anthropology), and identity.
 
-**Art** — Contemporary basket artists push the form in directions that ancestral weavers might not recognize but would probably appreciate: sculptural installations, mixed-media pieces, architectural-scale works that blur the line between craft and fine art.
+**Art** — Contemporary basket artists push the form in directions that ancestral weavers might not recognize but would probably appreciate: sculptural installations, mixed-media pieces, architectural-scale works that blur the line between craft and [fine art](/fine-art).
 
 The internet joke about "underwater basket weaving" as the archetypal useless class has done the craft a disservice. Basket weaving is one of humanity's most ancient and universal technologies. It requires genuine skill, botanical knowledge, physical dexterity, and aesthetic judgment. And when you finish a basket, you have something beautiful, functional, and made entirely by hand from materials that grew from the ground. Not bad for a "useless" hobby.

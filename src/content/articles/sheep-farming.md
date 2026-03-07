@@ -5,7 +5,7 @@ description: "Sheep farming raises sheep for wool, meat, and milk. Learn about b
 category: everyday-concepts
 tags: ["sheep", "farming", "agriculture", "wool", "lamb", "mutton"]
 heroImage: "/images/articles/sheep-farming.webp"
-heroAlt: "A flock of sheep grazing on green rolling hills with a shepherd and dog in the background"
+heroAlt: "Editorial photograph representing the concept of sheep farming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Sheep typically live 10-12 years, though some reach 15-20. Productive breeding life for ewes is usually 6-8 years, after which fertility and milk production decline. Lambs raised for meat are typically processed at 4-10 months. Wool sheep are kept longer since they produce fleece annually. The oldest verified sheep lived to 29 years."
 ---
 
-# What Is Sheep Farming?
+# What Is Sheep [Farming](/farming)?
 
-Sheep farming is the agricultural practice of raising domestic sheep (*Ovis aries*) for their wool, meat (lamb and mutton), milk, and hides. It's one of the oldest forms of livestock agriculture — sheep were among the first animals domesticated, around 10,000 years ago in Mesopotamia — and it remains a significant industry worldwide, with over 1.2 billion sheep raised across every inhabited continent.
+Sheep farming is the agricultural practice of raising domestic sheep (*Ovis aries*) for their wool, meat (lamb and mutton), milk, and hides. It's one of the oldest forms of livestock [agriculture](/agriculture) — sheep were among the first animals domesticated, around 10,000 years ago in Mesopotamia — and it remains a significant industry worldwide, with over 1.2 billion sheep raised across every inhabited continent.
 
 The appeal is straightforward. Sheep convert grass — which humans can't eat — into wool, meat, and milk — which humans value. They thrive on marginal land too rough or steep for crops. They're relatively small, manageable, and hardy. And unlike cattle, a small-scale farmer can start with a handful of sheep and modest acreage.
 
@@ -45,7 +45,7 @@ Sheep farming follows a seasonal rhythm driven by breeding, lambing, shearing, a
 
 **Shearing** happens once annually, typically in spring before hot weather. An experienced shearer can shear a sheep in 2-3 minutes, removing the fleece in one piece. Each sheep produces 5-15 pounds of raw wool depending on breed. Shearing is necessary for the sheep's welfare — unshorn sheep overheat, develop skin problems, and become immobilized by matted wool.
 
-**Grazing management** occupies most of the year. Sheep are excellent grazers — they eat close to the ground and can thrive on grasses, clover, and weeds that cattle ignore. Rotational grazing (moving sheep between paddocks every few days) keeps pastures healthy and reduces parasite load. Good pasture management is the foundation of profitable sheep farming.
+**Grazing [management](/management)** occupies most of the year. Sheep are excellent grazers — they eat close to the ground and can thrive on grasses, clover, and weeds that cattle ignore. Rotational grazing (moving sheep between paddocks every few days) keeps pastures healthy and reduces parasite load. Good pasture management is the foundation of profitable sheep farming.
 
 ## The Breeds
 
@@ -53,19 +53,19 @@ There are over 1,000 sheep breeds worldwide, selected over centuries for differe
 
 **Meat breeds** (Suffolk, Hampshire, Dorset, Texel) grow fast, produce heavy lambs with well-muscled carcasses, and are the backbone of commercial lamb production. Suffolk sheep — with their distinctive black faces — are probably the most common meat breed in the United States.
 
-**Wool breeds** (Merino, Rambouillet, Corriedale) produce fine, high-quality fleece prized by textile makers. Merino sheep, originally from Spain, produce the finest commercial wool — fibers as thin as 15-20 microns compared to 30-40 microns for coarser breeds. Australia's massive sheep industry is built largely on Merino genetics.
+**Wool breeds** (Merino, Rambouillet, Corriedale) produce fine, high-quality fleece prized by textile makers. Merino sheep, originally from Spain, produce the finest commercial wool — fibers as thin as 15-20 microns compared to 30-40 microns for coarser breeds. Australia's massive sheep industry is built largely on Merino [genetics](/genetics).
 
 **Dairy breeds** (East Friesian, Lacaune, Awassi) are milked to produce sheep cheese — including Roquefort, Pecorino Romano, and Manchego. Sheep milk has roughly twice the fat and protein content of cow's milk, making it excellent for cheesemaking. This is a smaller niche in the US but large in Europe and the Middle East.
 
 **Heritage and hair breeds** (Icelandic, Shetland, Katahdin, Dorper) serve various purposes. Hair sheep (like Katahdin) shed their coats naturally and don't need shearing — appealing for low-maintenance operations. Heritage breeds often produce specialty wool and meat valued by artisan producers.
 
-## The Economics
+## The [Economics](/economics)
 
 Sheep farming economics are tight. Here's a rough breakdown for a typical US operation.
 
-Revenue comes from three sources: lamb sales (by far the largest), wool sales, and breeding stock sales. A lamb sold at market brings roughly $150-300 depending on weight and market conditions. Wool from one sheep brings $5-30 depending on breed and quality. Breeding stock (quality ewes and rams) brings premium prices — $300-1,000 per animal.
+Revenue comes from three sources: lamb [sales](/sales) (by far the largest), wool sales, and breeding stock sales. A lamb sold at market brings roughly $150-300 depending on weight and market conditions. Wool from one sheep brings $5-30 depending on breed and quality. Breeding stock (quality ewes and rams) brings premium prices — $300-1,000 per animal.
 
-Costs include feed (especially winter hay when pastures are dormant), veterinary care, fencing, predator protection, shearing fees ($5-10 per head), and land costs. Feed alone can eat 40-60% of revenue.
+Costs include feed (especially winter hay when pastures are dormant), veterinary care, [fencing](/fencing), predator protection, shearing fees ($5-10 per head), and land costs. Feed alone can eat 40-60% of revenue.
 
 The math works out when you have enough sheep, good genetics, low death loss, and efficient management. A flock below about 100 ewes rarely generates meaningful income. Larger operations — 500+ ewes — can be viable full-time enterprises, especially in regions with low land costs and good grazing.
 

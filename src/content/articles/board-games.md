@@ -5,7 +5,7 @@ description: "Board games are tabletop games played on a marked surface with pie
 category: everyday-concepts
 tags: ["board games", "tabletop games", "strategy", "games", "entertainment", "family games"]
 heroImage: "/images/articles/board-games.webp"
-heroAlt: "Collection of modern board games spread across a table with dice, cards, and game pieces"
+heroAlt: "Editorial photograph representing the concept of board games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Board Games?
 
-Board games are structured games played on a flat surface (a board) using pieces, cards, dice, or other components according to defined rules. They range from ancient games of pure [strategy](/strategy-games) like chess and Go to modern designer games with complex mechanics and thematic storytelling. An estimated 5,000+ new board games are published annually, and the hobby is experiencing a genuine renaissance.
+Board games are structured games played on a flat surface (a board) using pieces, cards, dice, or other components according to defined rules. They range from ancient games of pure [strategy](/strategy-games) like chess and Go to modern designer games with complex mechanics and thematic [storytelling](/storytelling). An estimated 5,000+ new board games are published annually, and the hobby is experiencing a genuine renaissance.
 
 ## 5,000 Years of Sitting Around a Table
 
@@ -53,7 +53,7 @@ The result has been explosive growth. BoardGameGeek (the hobby's central databas
 
 ### Strategy Games
 
-Games where decisions determine outcomes more than luck. **Worker placement** games (*Agricola*, *Viticulture*) have players assign workers to limited action spaces. **Engine-building** games (*Wingspan*, *Terraforming Mars*) have players construct systems that become increasingly productive. **Area control** games (*Root*, *Twilight Imperium*) involve competing for territory.
+Games where decisions determine outcomes more than luck. **Worker placement** games (*Agricola*, *Viticulture*) have players assign workers to limited action spaces. **Engine-building** games (*Wingspan*, *[Terraforming](/terraforming) Mars*) have players construct systems that become increasingly productive. **Area control** games (*Root*, *Twilight Imperium*) involve competing for territory.
 
 ### Party Games
 
@@ -79,11 +79,11 @@ Several factors explain the modern board game boom:
 
 **Design quality improved dramatically.** Modern board games are simply better designed than most games from previous decades. Tighter rules, better-balanced mechanics, more interesting decisions, and shorter play times make games more enjoyable.
 
-**Production quality soared.** Modern board games feature gorgeous artwork, detailed miniatures, premium components, and thoughtful graphic design. They're objects you want to display, not hide in a closet.
+**Production quality soared.** Modern board games feature gorgeous artwork, detailed miniatures, premium components, and thoughtful [graphic design](/graphic-design). They're objects you want to display, not hide in a closet.
 
 **YouTube and social media.** Shows like *Tabletop* (Wil Wheaton) and channels like Shut Up & Sit Down introduced millions of viewers to modern gaming. Watching people play a game — and enjoy it — is surprisingly compelling content.
 
-**Kickstarter.** The crowdfunding platform allowed small designers to bring niche games to market without traditional publishing deals. This diversified the hobby enormously.
+**Kickstarter.** The crowdfunding platform allowed small designers to bring niche games to market without traditional [publishing](/publishing) deals. This diversified the hobby enormously.
 
 ## The Social Dimension
 
@@ -95,7 +95,7 @@ Research in [psychology](/psychology) supports the social and cognitive benefits
 
 ## Getting Started
 
-If your board game experience is limited to Monopoly and Scrabble, the modern hobby will surprise you. Good entry points include *Catan* (trading and building), *Ticket to Ride* (route-building, very easy to learn), *Azul* (pattern-building, beautiful components), *Codenames* (party/word game), and *Pandemic* (cooperative strategy).
+If your board game experience is limited to Monopoly and [Scrabble](/scrabble), the modern hobby will surprise you. Good entry points include *Catan* (trading and building), *Ticket to Ride* (route-building, very easy to learn), *Azul* (pattern-building, beautiful components), *Codenames* (party/word game), and *Pandemic* (cooperative strategy).
 
 Board game cafes let you try before you buy. Local game stores often host open game nights. Online communities like BoardGameGeek provide reviews, recommendations, and forums. The hobby is remarkably welcoming to newcomers — experienced gamers generally love teaching new players.
 

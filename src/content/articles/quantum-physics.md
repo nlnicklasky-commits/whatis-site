@@ -5,7 +5,7 @@ description: "Quantum physics studies matter and energy at atomic scales, where 
 category: everyday-concepts
 tags: ["quantum physics", "physics", "atoms", "science", "wave function", "subatomic"]
 heroImage: "/images/articles/quantum-physics.webp"
-heroAlt: "Atomic model visualization with electrons orbiting a nucleus"
+heroAlt: "Editorial photograph representing the concept of quantum physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Quantum physics is the branch of science that studies how nature works at its sm
 
 ## From Classical to Quantum
 
-For over 200 years, classical physics — Newton's mechanics, Maxwell's electromagnetism — described the universe with remarkable precision. You could calculate where a cannonball would land, predict eclipses centuries ahead, and design bridges that wouldn't collapse. The universe was mechanical, predictable, and made intuitive sense.
+For over 200 years, classical physics — Newton's mechanics, Maxwell's [electromagnetism](/electromagnetism) — described the universe with remarkable precision. You could calculate where a cannonball would land, predict eclipses centuries ahead, and design bridges that wouldn't collapse. The universe was mechanical, predictable, and made intuitive sense.
 
 Then physicists looked at atoms.
 
@@ -57,7 +57,7 @@ At quantum scales, nature operates by rules that contradict everyday experience:
 
 ## The Standard Model
 
-Quantum physics has been extended into quantum field theory, which describes particles as excitations of underlying fields. The Standard Model of particle physics — built on quantum field theory — accounts for all known fundamental particles and three of the four fundamental forces (electromagnetic, weak nuclear, and strong nuclear; gravity remains stubbornly outside the framework).
+Quantum physics has been extended into [quantum field theory](/quantum-field-theory), which describes particles as excitations of underlying fields. The Standard Model of [particle physics](/particle-physics) — built on quantum field theory — accounts for all known fundamental particles and three of the four fundamental forces (electromagnetic, weak nuclear, and strong nuclear; gravity remains stubbornly outside the framework).
 
 The Standard Model predicts the existence of 17 fundamental particles:
 - Six quarks (which combine to form protons and neutrons)
@@ -71,13 +71,13 @@ The Standard Model is spectacularly successful experimentally — its prediction
 
 Quantum physics isn't just theory — it's the engine of modern technology.
 
-**Transistors and semiconductors.** Every computer chip is a quantum device. The behavior of electrons in semiconductor materials (silicon, germanium) is governed by quantum mechanics. The band gap — the energy range where no electron states exist — is a quantum property that makes transistors possible.
+**Transistors and semiconductors.** Every computer chip is a quantum device. The behavior of electrons in semiconductor materials (silicon, germanium) is governed by [quantum mechanics](/quantum-mechanics). The band gap — the energy range where no electron states exist — is a quantum property that makes transistors possible.
 
-**Lasers.** Stimulated emission — where a photon causes an excited atom to emit an identical photon — is a quantum process. Lasers are used in telecommunications (fiber optics), manufacturing (cutting and welding), medicine (surgery), and consumer electronics (Blu-ray players, barcode scanners).
+**Lasers.** Stimulated emission — where a photon causes an excited atom to emit an identical photon — is a quantum process. Lasers are used in telecommunications ([fiber optics](/fiber-optics)), manufacturing (cutting and welding), medicine (surgery), and consumer electronics (Blu-ray players, barcode scanners).
 
-**Quantum computing.** Classical computers use bits (0 or 1). Quantum computers use qubits, which can be in superposition of 0 and 1 simultaneously. For certain problems — drug molecule simulation, cryptography, optimization — quantum computers can in principle process information exponentially faster. IBM, Google, and numerous startups are racing to build practical quantum computers.
+**[Quantum computing](/quantum-computing).** Classical computers use bits (0 or 1). Quantum computers use qubits, which can be in superposition of 0 and 1 simultaneously. For certain problems — drug molecule simulation, [cryptography](/cryptography), optimization — quantum computers can in principle process information exponentially faster. IBM, Google, and numerous startups are racing to build practical quantum computers.
 
-**Quantum cryptography.** Quantum key distribution uses the properties of entanglement and measurement disturbance to create theoretically unbreakable encryption. Any attempt to eavesdrop on the quantum key necessarily disturbs it, revealing the intrusion. China launched the first quantum communication satellite in 2016.
+**[Quantum cryptography](/quantum-cryptography).** Quantum key distribution uses the properties of entanglement and measurement disturbance to create theoretically unbreakable encryption. Any attempt to eavesdrop on the quantum key necessarily disturbs it, revealing the intrusion. China launched the first quantum communication satellite in 2016.
 
 ## The Unsolved Questions
 
@@ -85,7 +85,7 @@ Despite its success, quantum physics leaves major questions unanswered:
 
 **The measurement problem.** Why does observation collapse the wave function? What counts as "measurement"? Interpretations range from the Copenhagen interpretation (measurement causes collapse) to Many Worlds (every measurement splits the universe) to objective collapse theories (wave functions collapse on their own after reaching certain thresholds). No experiment has distinguished between them.
 
-**Quantum gravity.** General relativity describes gravity as the curvature of spacetime. Quantum mechanics describes the other three forces as quantum fields. Merging these two frameworks into a theory of quantum gravity is the biggest unsolved problem in physics. String theory and loop quantum gravity are leading candidates, but neither has been experimentally confirmed.
+**Quantum gravity.** [General relativity](/general-relativity) describes gravity as the curvature of spacetime. Quantum mechanics describes the other three forces as quantum fields. Merging these two frameworks into a theory of quantum gravity is the biggest unsolved problem in physics. [String theory](/string-theory) and loop quantum gravity are leading candidates, but neither has been experimentally confirmed.
 
 **The nature of reality.** What does quantum physics tell us about what the universe actually *is*? Is the wave function a real physical thing or just a mathematical tool? Do particles have properties before we measure them? These questions remain genuinely open after a century of debate.
 

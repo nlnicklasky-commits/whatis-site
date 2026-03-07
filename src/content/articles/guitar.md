@@ -5,7 +5,7 @@ description: "The guitar is a stringed instrument played by strumming or pluckin
 category: arts-amp-culture
 tags: ["guitar", "musical instrument", "strings", "music", "acoustic guitar", "electric guitar"]
 heroImage: "/images/articles/guitar.webp"
-heroAlt: "Acoustic guitar leaning against an amplifier with an electric guitar nearby"
+heroAlt: "Editorial photograph representing the concept of a guitar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is a Guitar?
 
-A guitar is a stringed musical instrument, typically with six strings, played by strumming or plucking with the right hand while pressing strings against frets on the neck with the left hand. It's the most popular instrument in the world — an estimated 50 million Americans play guitar, and it dominates popular music across virtually every genre. Rock, blues, country, folk, jazz, classical, pop, metal, funk, bossa nova, flamenco — the guitar shows up everywhere because it's portable, affordable, versatile enough to play melody, harmony, and rhythm simultaneously, and — this matters — it looks cool.
+A guitar is a stringed musical instrument, typically with six strings, played by strumming or plucking with the right hand while pressing strings against frets on the neck with the left hand. It's the most popular instrument in the world — an estimated 50 million Americans play guitar, and it dominates popular music across virtually every genre. Rock, blues, country, folk, jazz, classical, pop, metal, funk, bossa nova, flamenco — the guitar shows up everywhere because it's portable, affordable, versatile enough to play melody, [harmony](/harmony), and rhythm simultaneously, and — this matters — it looks cool.
 
 ## How It Works
 
@@ -45,17 +45,17 @@ On an electric guitar, the strings vibrate over **magnetic pickups** — magnets
 
 ## Acoustic Guitars
 
-**Steel-string acoustics** are the most common type in North America. The steel strings produce a bright, loud, ringing tone suitable for strumming chords and fingerpicking. Body shapes affect sound — dreadnoughts (large bodies) produce booming volume and bass, while smaller concert and parlor guitars have a more focused, balanced tone.
+**Steel-string [acoustics](/acoustics)** are the most common type in North America. The steel strings produce a bright, loud, ringing tone suitable for strumming chords and fingerpicking. Body shapes affect sound — dreadnoughts (large bodies) produce booming volume and bass, while smaller concert and parlor guitars have a more focused, balanced tone.
 
-**Classical (nylon-string) guitars** use nylon strings (historically gut), producing a warmer, softer tone. The neck is wider, the body shape standardized. Classical guitar technique uses fingernails rather than picks. This is the guitar of flamenco, classical repertoire, and bossa nova.
+**Classical (nylon-string) guitars** use nylon strings (historically gut), producing a warmer, softer tone. The neck is wider, the body shape standardized. [Classical guitar](/classical-guitar) technique uses fingernails rather than picks. This is the guitar of flamenco, classical repertoire, and bossa nova.
 
 **Twelve-string guitars** pair each standard string with a thinner string tuned an octave higher (or in unison for the two highest pairs). The result is a shimmering, chorus-like sound — think the opening of "Hotel California" or "Stairway to Heaven."
 
 ## Electric Guitars
 
-The electric guitar emerged in the 1930s when musicians needed more volume to compete with horns and drums in big bands and dance halls. Early attempts electrified hollow-body guitars, but feedback (the amplified sound re-entering the pickups) was a problem. Leo Fender's 1950 **Telecaster** and 1954 **Stratocaster** — solid-body guitars — solved the feedback issue and defined the instrument's future.
+The electric guitar emerged in the 1930s when musicians needed more volume to compete with horns and drums in big bands and [dance](/dance) halls. Early attempts electrified hollow-body guitars, but feedback (the amplified sound re-entering the pickups) was a problem. Leo Fender's 1950 **Telecaster** and 1954 **Stratocaster** — solid-body guitars — solved the feedback issue and defined the instrument's future.
 
-Gibson's **Les Paul** (1952) offered a different approach: a heavier body, humbucker pickups (which cancel electrical hum), and a warmer, thicker tone. The Fender vs. Gibson debate is rock's version of Chevy vs. Ford — both are excellent, and preference is largely personal.
+Gibson's **Les Paul** (1952) offered a different approach: a heavier body, humbucker pickups (which cancel electrical hum), and a warmer, thicker tone. The Fender vs. Gibson [debate](/debate) is rock's version of Chevy vs. Ford — both are excellent, and preference is largely personal.
 
 What makes electric guitar endlessly versatile is the signal chain between the pickups and the speaker. **Effects pedals** alter the signal in dozens of ways: **distortion/overdrive** (the crunchy sound of rock and blues), **delay** (echoes), **reverb** (room ambiance), **chorus** (thickening the sound), **wah** (a sweeping filter — think Jimi Hendrix), **phaser**, **flanger**, and many more. A guitarist with five pedals can produce wildly different sounds for different songs.
 

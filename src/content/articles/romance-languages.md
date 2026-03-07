@@ -5,7 +5,7 @@ description: "Romance languages are a family of languages descended from Latin, 
 category: language
 tags: ["latin", "vulgar latin", "spanish", "french", "italian", "portuguese"]
 heroImage: "/images/articles/romance-languages.webp"
-heroAlt: "Map of Europe and the Americas showing Romance language regions"
+heroAlt: "Editorial photograph representing the concept of romance languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,17 +35,17 @@ Romance languages are a family of languages that all descended from Latin — sp
 
 ## From Latin to Many
 
-The Roman Empire at its peak (2nd century CE) stretched from Britain to Mesopotamia, and Latin was spoken — in various forms — across this entire territory. But it wasn't one uniform Latin. Soldiers in Gaul spoke differently from merchants in Hispania, who spoke differently from farmers in Dacia (modern Romania). Local languages influenced pronunciation and vocabulary. Geography isolated communities.
+The Roman Empire at its peak (2nd century CE) stretched from Britain to Mesopotamia, and Latin was spoken — in various forms — across this entire territory. But it wasn't one uniform Latin. Soldiers in Gaul spoke differently from merchants in Hispania, who spoke differently from farmers in Dacia (modern Romania). Local languages influenced pronunciation and vocabulary. [Geography](/geography) isolated communities.
 
 When the Western Roman Empire fell in 476 CE, the political unity that had maintained some linguistic standardization disappeared. Over the following centuries, the regional varieties of Latin diverged further and further, influenced by Germanic, Celtic, Slavic, Arabic, and other languages depending on the region. By roughly the 8th-9th century, the spoken languages had diverged enough that speakers in different regions could no longer understand each other easily. Latin continued as a written and ecclesiastical language, but everyday speech had become something new — French, Spanish, Italian, and the rest.
 
 ## The Major Romance Languages
 
-**Spanish** (Castilian) — the most spoken Romance language, with about 475 million native speakers. Originated in the Kingdom of Castile in northern Spain and spread worldwide through colonization. It's the official language of 20 countries and the second most spoken native language in the world (after Mandarin Chinese). Spanish retained more of Latin's vowel system than French and borrowed significantly from Arabic during the Moorish occupation of Iberia (711-1492).
+**Spanish** (Castilian) — the most spoken Romance language, with about 475 million native speakers. Originated in the Kingdom of Castile in northern Spain and spread worldwide through colonization. It's the official language of 20 countries and the second most spoken native language in the world (after [Mandarin Chinese](/mandarin-chinese)). Spanish retained more of Latin's vowel system than French and borrowed significantly from Arabic during the Moorish occupation of Iberia (711-1492).
 
-**Portuguese** — about 260 million native speakers, with Brazil accounting for roughly 80% of them. Closely related to Spanish (they share about 89% lexical similarity) but with distinct pronunciation and some grammatical differences. Portuguese preserved Latin's nasal vowels and developed a complex vowel system that makes it sound quite different from Spanish.
+**Portuguese** — about 260 million native speakers, with Brazil [accounting](/accounting) for roughly 80% of them. Closely related to Spanish (they share about 89% lexical similarity) but with distinct pronunciation and some grammatical differences. Portuguese preserved Latin's nasal vowels and developed a complex vowel system that makes it sound quite different from Spanish.
 
-**French** — about 80 million native speakers, but about 300 million total speakers across 29 countries. French diverged more dramatically from Latin than its siblings — extensive sound changes (including the loss of many unstressed syllables) make French look and sound less "Latin" than Spanish or Italian. French also incorporated significant Frankish (Germanic) vocabulary and grammar, reflecting the Franks' political dominance in early medieval Gaul.
+**French** — about 80 million native speakers, but about 300 million total speakers across 29 countries. French diverged more dramatically from Latin than its siblings — extensive sound changes (including the loss of many unstressed syllables) make French look and sound less "Latin" than Spanish or Italian. French also incorporated significant Frankish (Germanic) vocabulary and [grammar](/grammar), reflecting the Franks' political dominance in early medieval Gaul.
 
 **Italian** — about 65 million native speakers, primarily in Italy and parts of Switzerland. Of the major Romance languages, Italian is arguably the closest to Latin in vocabulary and grammar. Standard Italian is based on the Tuscan dialect, largely because Dante, Petrarch, and Boccaccio wrote their masterworks in Tuscan in the 13th-14th centuries.
 

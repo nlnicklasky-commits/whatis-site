@@ -5,7 +5,7 @@ description: "Plasma physics studies ionized gas — the fourth state of matter 
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"
-heroAlt: "Glowing plasma streams in a laboratory fusion experiment showing ionized gas behavior"
+heroAlt: "Editorial photograph representing the concept of plasma physics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -77,7 +77,7 @@ The scientific study of plasma began with gas discharge experiments in the 18th 
 
 Langmuir, working at General Electric in the 1920s, studied gas discharges systematically and developed much of the foundational theory. He identified the concept of electron temperature, plasma oscillations, and the sheath — the thin boundary layer where plasma meets a solid surface.
 
-The field exploded in importance after World War II for two reasons: nuclear weapons and fusion energy. Understanding the plasma behavior in thermonuclear explosions required plasma physics. And the dream of controlled fusion — harnessing the energy source of the Sun — drove massive investment in plasma research that continues today.
+The field exploded in importance after [World War II](/world-war-ii) for two reasons: nuclear weapons and fusion energy. Understanding the plasma behavior in thermonuclear explosions required plasma physics. And the dream of controlled fusion — harnessing the energy source of the Sun — drove massive investment in plasma research that continues today.
 
 ## The Physics of Plasma: Key Concepts
 
@@ -115,7 +115,7 @@ The problem, of course, is the plasma.
 
 The leading approach uses powerful magnetic fields to confine plasma in donut-shaped devices called tokamaks. The plasma circulates inside the donut, guided by magnetic fields that keep it away from the walls (touching the walls would cool the plasma instantly and contaminate it).
 
-The current flagship project is ITER (International Thermonuclear Experimental Reactor), under construction in southern France. It's the most expensive science experiment in history — estimated cost over $25 billion — and involves cooperation between 35 nations. ITER aims to produce 500 megawatts of fusion power from 50 megawatts of heating input, demonstrating a tenfold energy gain. First plasma is expected in the early 2030s.
+The current flagship project is ITER (International Thermonuclear Experimental Reactor), under [construction](/construction) in southern France. It's the most expensive science experiment in history — estimated cost over $25 billion — and involves cooperation between 35 nations. ITER aims to produce 500 megawatts of fusion power from 50 megawatts of heating input, demonstrating a tenfold energy gain. First plasma is expected in the early 2030s.
 
 Stellarators, an alternative to tokamaks, use complex, twisted magnetic field geometries that don't require the plasma to carry its own current. Germany's Wendelstein 7-X stellarator, which began operating in 2015, has demonstrated promising confinement results. The engineering is more complex than a tokamak, but stellarators may offer advantages in steady-state operation.
 
@@ -141,7 +141,7 @@ The Sun continuously emits a stream of plasma — the solar wind — that fills 
 
 But the shield isn't perfect. During solar storms, when the Sun emits coronal mass ejections (huge blobs of plasma at millions of miles per hour), the magnetosphere can be overwhelmed. Charged particles pour into the upper atmosphere, creating spectacular auroras but also disrupting satellite communications, GPS signals, and power grids.
 
-The 1989 Quebec blackout — caused by a geomagnetic storm that induced currents in power transmission lines — left 6 million people without electricity for 9 hours. A repeat of the 1859 Carrington Event — the largest recorded solar storm — would cause an estimated $1-2 trillion in damage to modern infrastructure. Understanding and predicting space weather is a critical application of plasma physics.
+The 1989 Quebec blackout — caused by a geomagnetic storm that induced currents in power transmission lines — left 6 million people without [electricity](/electricity) for 9 hours. A repeat of the 1859 Carrington Event — the largest recorded solar storm — would cause an estimated $1-2 trillion in damage to modern infrastructure. Understanding and predicting space weather is a critical application of plasma physics.
 
 ### Astrophysical Jets and Accretion
 
@@ -195,7 +195,7 @@ Fusion energy is closer to reality than ever. Private investment, new supercondu
 
 Space weather prediction is becoming critical as society grows more dependent on satellites, GPS, and power grids vulnerable to geomagnetic storms. The increasing number of satellites in low Earth orbit (tens of thousands, counting megaconstellations like Starlink) amplifies the stakes.
 
-Plasma-based technologies continue expanding into manufacturing, medicine, agriculture (yes — plasma-treated seeds show improved germination), and environmental remediation (plasma can break down pollutants in water and air).
+Plasma-based technologies continue expanding into manufacturing, medicine, [agriculture](/agriculture) (yes — plasma-treated seeds show improved germination), and environmental remediation (plasma can break down pollutants in water and air).
 
 And fundamental plasma physics continues to reveal surprises. Turbulence in plasma, magnetic reconnection, particle acceleration to extreme energies — these remain partially understood phenomena that challenge our deepest physical theories.
 

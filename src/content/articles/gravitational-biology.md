@@ -5,7 +5,7 @@ description: "Gravitational biology studies how gravity affects living organisms
 category: science
 tags: ["gravitational biology", "gravity", "microgravity", "space biology", "astrobiology", "physiology", "space exploration"]
 heroImage: "/images/articles/gravitational-biology-hero.webp"
-heroAlt: "Astronaut conducting biological experiments aboard a space station in microgravity"
+heroAlt: "Editorial photograph representing the concept of gravitational biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Gravitational Biology?
 
-Gravitational biology is the scientific study of how gravitational forces affect the development, physiology, behavior, and evolution of living organisms. It examines everything from how plant roots know to grow downward to what happens to astronaut bones after months in space. As a field, it sits at the intersection of [biology](/biology), [physics](/biophysics), and space science—and it is now more important as humanity prepares for long-duration space missions to the Moon and Mars.
+Gravitational biology is the scientific study of how gravitational forces affect the development, [physiology](/physiology), behavior, and evolution of living organisms. It examines everything from how plant roots know to grow downward to what happens to astronaut bones after months in space. As a field, it sits at the intersection of [biology](/biology), [physics](/biophysics), and [space science](/space-science)—and it is now more important as humanity prepares for long-duration space missions to the Moon and Mars.
 
 ## Why Gravity Matters to Life
 
@@ -139,7 +139,7 @@ Space research is expensive. A kilogram of cargo to the ISS costs roughly $20,00
 
 **Random positioning machines (RPMs)** take this further by tumbling samples in three dimensions with randomized speed and direction changes.
 
-**Parabolic flights** (on specially modified aircraft that fly repeated dive-and-climb profiles) produce roughly 20 seconds of genuine freefall per parabola—enough for short-term experiments on cells, small organisms, and human physiology.
+**Parabolic flights** (on specially modified aircraft that fly repeated dive-and-climb profiles) produce roughly 20 seconds of genuine freefall per parabola—enough for short-term experiments on cells, small organisms, and [human physiology](/human-physiology).
 
 **Drop towers** provide 2-10 seconds of freefall in evacuated vertical shafts. The Bremen Drop Tower in Germany offers 4.74 seconds of microgravity at better quality than parabolic flights.
 
@@ -165,7 +165,7 @@ Gravitational biology research has produced surprising applications on Earth.
 
 **Muscle wasting**: Spaceflight muscle atrophy is similar to muscle wasting in bedridden patients and the elderly. Exercise countermeasures developed for astronauts have applications in rehabilitation medicine.
 
-**Drug development**: Growing cells and tissues in simulated microgravity produces 3D structures that better mimic real organs than traditional flat cell cultures. This has applications in drug testing and tissue engineering.
+**Drug development**: Growing cells and tissues in simulated microgravity produces 3D structures that better mimic real organs than traditional flat cell cultures. This has applications in drug testing and tissue [engineering](/engineering).
 
 **Protein crystallization**: Many proteins form higher-quality crystals in microgravity (because convection doesn't disrupt crystal growth). Better crystals enable better structural analysis, which aids drug design. Several pharmaceutical companies have experimented with growing protein crystals on the ISS.
 

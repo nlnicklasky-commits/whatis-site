@@ -5,7 +5,7 @@ description: "Educational history studies how teaching, learning, and schooling 
 category: history
 tags: ["educational history", "education", "pedagogy", "curriculum", "schooling"]
 heroImage: "/images/articles/educational-history.webp"
-heroAlt: "Historical classroom scene showing students at wooden desks with a teacher writing on a chalkboard"
+heroAlt: "Editorial photograph representing the concept of educational history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Educational History?
 
-Educational history is the study of how human societies have taught, learned, and organized schooling across time and cultures. It examines the institutions, ideas, methods, and social forces that shaped education from ancient civilizations to the present — and it reveals that almost nothing about modern schooling is as inevitable or permanent as it seems.
+Educational history is the study of how human societies have taught, learned, and organized schooling across time and cultures. It examines the institutions, ideas, methods, and social forces that shaped [education](/education) from ancient civilizations to the present — and it reveals that almost nothing about modern schooling is as inevitable or permanent as it seems.
 
 ## School Wasn't Always Like This
 
@@ -57,7 +57,7 @@ Egypt had a similar system. The "House of Life" attached to temples taught readi
 
 Ancient Athens is where many modern educational ideas first appeared. Socrates developed the method of teaching through questioning (the Socratic method) — still used in law schools today. Plato founded the Academy around 387 BCE, possibly the first institution of higher learning in the Western world. Aristotle, Plato's student, founded the Lyceum and emphasized empirical observation.
 
-Athenian education was informal by modern standards. There was no compulsory attendance, no government-run system, and no curriculum in the modern sense. Wealthy families hired tutors or sent their sons to private teachers. Girls were generally excluded from formal education (Sparta was a notable exception, at least for physical training).
+Athenian education was informal by modern standards. There was no compulsory attendance, no [government](/government)-run system, and no curriculum in the modern sense. Wealthy families hired tutors or sent their sons to private teachers. Girls were generally excluded from formal education (Sparta was a notable exception, at least for physical training).
 
 Rome adopted and adapted Greek educational practices. Roman schools taught reading, writing, rhetoric, and grammar. The ideal of the educated orator — someone who could speak persuasively on any topic — drove Roman curriculum. Quintilian's *Institutio Oratoria* (around 95 CE), a 12-volume work on education, remained influential for centuries and argued against corporal punishment — a startlingly modern position for its time.
 
@@ -69,11 +69,11 @@ The exams were grueling. Candidates spent days in individual examination cells, 
 
 ## The Medieval Period
 
-After Rome's fall in Western Europe, the Catholic Church became the primary institution of education. Monasteries preserved and copied texts. Cathedral schools trained future clergy. The curriculum centered on the seven liberal arts: the trivium (grammar, rhetoric, logic) and the quadrivium (arithmetic, geometry, music, astronomy).
+After Rome's fall in Western Europe, the Catholic Church became the primary institution of education. Monasteries preserved and copied texts. Cathedral schools trained future clergy. The curriculum centered on the seven liberal arts: the trivium (grammar, rhetoric, logic) and the quadrivium (arithmetic, [geometry](/geometry), music, [astronomy](/astronomy)).
 
 The first universities emerged in the 12th and 13th centuries — Bologna (1088), Paris (circa 1150), Oxford (1167). They were initially loose associations of scholars and students, not the campus-based institutions we know today. Students were often teenagers. Lectures were the primary teaching method because books were hand-copied and enormously expensive — a single text might cost what a laborer earned in a year.
 
-Islamic civilization, meanwhile, developed an extensive educational system. The madrasa (school) network spread across the Muslim world from the 9th century onward. Al-Azhar University in Cairo, founded in 970 CE, is often cited as the oldest continuously operating degree-granting institution. Islamic scholars preserved and built upon Greek, Persian, and Indian knowledge in [mathematics](/algebra), astronomy, medicine, and philosophy during a period when much of that knowledge was unavailable in Europe.
+Islamic civilization, meanwhile, developed an extensive educational system. The madrasa (school) network spread across the Muslim world from the 9th century onward. Al-Azhar University in Cairo, founded in 970 CE, is often cited as the oldest continuously operating degree-granting institution. Islamic scholars preserved and built upon Greek, Persian, and Indian knowledge in [mathematics](/algebra), astronomy, medicine, and [philosophy](/philosophy) during a period when much of that knowledge was unavailable in Europe.
 
 ## The Modern Education Revolution
 
@@ -95,7 +95,7 @@ Maria Montessori developed her child-centered educational method in Rome in 1907
 
 The struggle for equal educational access is a central theme of modern educational history, particularly in the United States. The Supreme Court's Brown v. Board of Education decision in 1954 declared racially segregated schools unconstitutional. Implementation was slow, fiercely resisted, and incomplete — many American schools remain effectively segregated by race and income today.
 
-Title IX (1972) prohibited sex discrimination in federally funded education programs, dramatically expanding opportunities for women in [higher education](/developmental-psychology) and athletics. The Individuals with Disabilities Education Act (1975) guaranteed free appropriate public education for children with disabilities.
+Title IX (1972) prohibited sex discrimination in federally funded education programs, dramatically expanding opportunities for women in [higher education](/developmental-[psychology](/psychology)) and [athletics](/athletics). The Individuals with Disabilities Education Act (1975) guaranteed free appropriate public education for children with disabilities.
 
 Globally, the push for universal education continues. UNESCO reports that about 244 million children and youth worldwide were out of school in 2021 — down from over 380 million in 2000, but still enormous.
 
@@ -103,6 +103,6 @@ Globally, the push for universal education continues. UNESCO reports that about 
 
 Several fundamental debates persist. Should education focus on academic content or practical skills? Should it primarily serve individual development or society's economic needs? How should technology be integrated — and what are its limits? How do you measure educational quality without reducing learning to test scores?
 
-The COVID-19 pandemic, which closed schools for over 1.6 billion students worldwide in 2020, exposed deep inequalities in access to digital learning and raised urgent questions about what schools provide beyond academics — socialization, meals, supervision, mental health support.
+The COVID-19 pandemic, which closed schools for over 1.6 billion students worldwide in 2020, exposed deep inequalities in access to digital learning and raised urgent questions about what schools provide beyond academics — socialization, meals, supervision, [mental health](/mental-health) support.
 
 Educational history doesn't answer these questions, but it provides essential context. Every current debate has precedents. Every proposed reform echoes something tried before. Knowing that history won't give you the right answer — but it'll help you avoid confidently proposing something that's already been tried and failed.

@@ -5,7 +5,7 @@ description: "Pulmonology is the medical specialty focused on the lungs and resp
 category: health-amp-wellness
 tags: ["pulmonology", "respiratory system", "lungs", "asthma"]
 heroImage: "/images/articles/pulmonology.webp"
-heroAlt: "Detailed medical illustration of healthy human lungs showing bronchial tree and alveoli"
+heroAlt: "Editorial photograph representing the concept of pulmonology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ faq:
 
 Pulmonology is the branch of medicine that deals with diseases and conditions of the respiratory system — your lungs, airways, and the structures that help you breathe. A pulmonologist is a physician who specializes in diagnosing, treating, and managing these conditions, from common problems like asthma to life-threatening diseases like lung cancer.
 
-## Your Lungs: An Engineering Marvel You Barely Notice
+## Your Lungs: An [Engineering](/engineering) Marvel You Barely Notice
 
-You take roughly 22,000 breaths per day. Each one pulls air through your nose or mouth, down the trachea, through progressively smaller bronchial tubes, and into roughly 480 million tiny air sacs called alveoli. If you could spread all those alveoli flat, they'd cover about 70 square meters — roughly the size of half a tennis court. That massive surface area exists for one purpose: gas exchange. Oxygen crosses from the air into your blood. Carbon dioxide goes the other direction.
+You take roughly 22,000 breaths per day. Each one pulls air through your nose or mouth, down the trachea, through progressively smaller bronchial tubes, and into roughly 480 million tiny air sacs called alveoli. If you could spread all those alveoli flat, they'd cover about 70 square meters — roughly the size of half a [tennis](/tennis) court. That massive surface area exists for one purpose: gas exchange. Oxygen crosses from the air into your blood. Carbon dioxide goes the other direction.
 
 The whole process takes about three seconds per breath and happens without any conscious effort. Your brainstem's respiratory center handles the timing, adjusting your breathing rate based on blood CO2 levels. You can override it temporarily — holding your breath, breathing faster — but eventually the brainstem takes back control. (Try holding your breath long enough and your body will force you to inhale. It's not optional.)
 
@@ -53,7 +53,7 @@ Respiratory diseases are among the leading causes of death and disability worldw
 
 About 262 million people worldwide have asthma. Your airways become inflamed, swell, and produce extra mucus, making it harder to breathe. Triggers vary widely — allergens like pollen and dust mites, exercise, cold air, stress, respiratory infections.
 
-The weird thing about asthma is that the airways are structurally normal between attacks. The inflammation comes and goes, which is why it's classified as a reversible airway disease. Treatment revolves around two categories of inhalers: controllers (daily anti-inflammatory medications, usually inhaled corticosteroids) and rescuers (short-acting bronchodilators like albuterol for acute symptoms).
+The weird thing about asthma is that the airways are structurally normal between attacks. The inflammation comes and goes, which is why it's classified as a reversible airway disease. Treatment revolves around two categories of inhalers: controllers (daily anti-inflammatory medications, usually inhaled corticosteroids) and rescuers (short-[acting](/acting) bronchodilators like albuterol for acute symptoms).
 
 About 80-90% of asthma patients can achieve good control with proper medication and trigger avoidance. But asthma kills approximately 455,000 people annually, mostly in low- and middle-income countries where medication access is limited.
 
@@ -71,7 +71,7 @@ Pneumonia fills the alveoli with fluid or pus, blocking gas exchange. It can be 
 
 Bacterial pneumonia responds to antibiotics. Viral pneumonia (including COVID-19 pneumonia) is trickier — antiviral medications exist for some pathogens, but treatment is often supportive. Severe cases require hospitalization and sometimes mechanical ventilation.
 
-The pneumococcal vaccine prevents the most common bacterial cause. It's one of those public health interventions that's remarkably effective and remarkably underused.
+The pneumococcal vaccine prevents the most common bacterial cause. It's one of those [public health](/public-health) interventions that's remarkably effective and remarkably underused.
 
 ### Lung Cancer
 
@@ -91,7 +91,7 @@ Many pulmonologists subspecialize in sleep medicine. Obstructive sleep apnea (OS
 
 Diagnosis involves a sleep study (polysomnography), and the primary treatment is continuous positive airway pressure (CPAP) — a mask that delivers pressurized air to keep the airway open. About 50% of patients struggle with CPAP adherence, which is one of the field's ongoing frustrations.
 
-## Diagnostic Tools of the Trade
+## Diagnostic Tools of the [Trade](/trade)
 
 Pulmonologists rely on a specific toolkit to figure out what's wrong with your lungs.
 
@@ -121,7 +121,7 @@ For respiratory failure, machines take over the work of breathing. Non-invasive 
 
 ### Pulmonary Rehabilitation
 
-This structured program combines exercise training, education, and behavioral techniques for patients with chronic lung disease. It doesn't cure anything, but it significantly improves exercise tolerance, reduces breathlessness, and enhances quality of life. Studies show it reduces hospital readmissions for COPD by about 25%.
+This structured program combines exercise training, [education](/education), and behavioral techniques for patients with chronic lung disease. It doesn't cure anything, but it significantly improves exercise tolerance, reduces breathlessness, and enhances quality of life. Studies show it reduces hospital readmissions for COPD by about 25%.
 
 ## Becoming a Pulmonologist
 

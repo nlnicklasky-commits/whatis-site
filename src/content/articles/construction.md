@@ -5,7 +5,7 @@ description: "Construction is the process of building structures and infrastruct
 category: everyday-concepts
 tags: ["engineering", "architecture", "building", "infrastructure", "project management", "trades"]
 heroImage: "/images/articles/construction.webp"
-heroAlt: "A construction site with cranes and steel framework rising against a clear sky"
+heroAlt: "Editorial photograph representing the concept of construction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ Construction is the process of creating physical structures and infrastructure �
 
 ## From Mud Bricks to Skyscrapers
 
-Humans have been building since before recorded history. The oldest known constructed structure is Gobekli Tepe in Turkey, dating to roughly 9500 BC — massive stone pillars erected by people who hadn't even invented agriculture yet. The Egyptian pyramids (2560 BC), Roman aqueducts, medieval cathedrals, and Chinese fortifications all represent construction achievements that remain impressive by modern standards.
+Humans have been building since before recorded history. The oldest known constructed structure is Gobekli Tepe in Turkey, dating to roughly 9500 BC — massive stone pillars erected by people who hadn't even invented [agriculture](/agriculture) yet. The Egyptian pyramids (2560 BC), Roman aqueducts, medieval cathedrals, and Chinese fortifications all represent construction achievements that remain impressive by modern standards.
 
-The industrial revolution transformed construction just as it transformed everything else. Steel framing made skyscrapers possible — the Home Insurance Building in Chicago (1885) is generally considered the first. Portland cement (invented in 1824) and reinforced concrete enabled structures of unprecedented scale. Power tools replaced hand tools. Cranes grew larger. Projects grew faster.
+The industrial revolution transformed construction just as it transformed everything else. Steel framing made skyscrapers possible — the Home [Insurance](/insurance) Building in Chicago (1885) is generally considered the first. Portland cement (invented in 1824) and reinforced concrete enabled structures of unprecedented scale. Power tools replaced hand tools. Cranes grew larger. Projects grew faster.
 
-Modern construction continues to evolve. 3D-printed buildings, modular prefabrication, drone-based surveying, and Building Information Modeling (BIM) software are changing how structures get designed and built. But the fundamental process — putting materials together to create something useful — hasn't changed in 11,000 years.
+Modern construction continues to evolve. 3D-printed buildings, modular prefabrication, drone-based [surveying](/surveying), and Building Information Modeling (BIM) software are changing how structures get designed and built. But the fundamental process — putting materials together to create something useful — hasn't changed in 11,000 years.
 
 ## The Phases of a Project
 
@@ -49,7 +49,7 @@ Every construction project, from a garden shed to a skyscraper, follows roughly 
 
 **Pre-construction** involves finalizing budgets, hiring subcontractors, ordering materials, and preparing the site. This is where the general contractor coordinates the dozens of specialized trades that will work on the project.
 
-**Construction** is the visible phase — the cranes, the crews, the gradual emergence of a structure from the ground. It typically proceeds in a predictable sequence: excavation and foundation, structural framing, mechanical/electrical/plumbing (MEP) rough-in, exterior cladding, interior finishes.
+**Construction** is the visible phase — the cranes, the crews, the gradual emergence of a structure from the ground. It typically proceeds in a predictable sequence: excavation and foundation, structural framing, mechanical/electrical/[plumbing](/plumbing) (MEP) rough-in, exterior cladding, interior finishes.
 
 **Post-construction** includes final inspections, punch list completion (fixing deficiencies), commissioning of building systems, and handover to the owner. Warranty periods typically extend 1 to 2 years after completion.
 
@@ -71,7 +71,7 @@ Safety has improved dramatically over the decades. Hard hats, safety harnesses, 
 
 But the industry's fundamental nature — heavy materials, heights, heavy equipment, weather exposure — means risk can never be eliminated entirely. Construction workers earn higher-than-average wages partly as compensation for this inherent danger.
 
-## The Economics
+## The [Economics](/economics)
 
 The numbers are staggering. Global construction spending exceeds $13 trillion annually. The U.S. construction industry alone generated $2.1 trillion in 2023 and employed about 8 million workers.
 

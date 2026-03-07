@@ -5,7 +5,7 @@ description: "Macrobiotics is a dietary and lifestyle philosophy rooted in Easte
 category: health-amp-wellness
 tags: ["nutrition", "macrobiotics", "wellness", "whole grains", "Eastern philosophy"]
 heroImage: "/images/articles/macrobiotics.webp"
-heroAlt: "A traditional Japanese-style meal with brown rice, miso soup, steamed vegetables, and pickled sides"
+heroAlt: "Editorial photograph representing the concept of macrobiotics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
     a: "While both emphasize plant foods, macrobiotics occasionally includes fish and is built on a broader philosophy involving yin-yang balance, cooking methods, and lifestyle practices beyond food choices. Veganism is defined purely by avoiding all animal products. Macrobiotics also avoids certain plant foods (nightshades, tropical fruits, refined flour) that veganism permits."
 ---
 
-Macrobiotics is a dietary and lifestyle system based on the idea that food choices and daily habits should create balance between opposing natural forces — what Eastern philosophy calls yin and yang. In practice, it means eating mostly whole grains, vegetables, beans, and sea vegetables while avoiding processed foods, most animal products, sugar, and artificial additives.
+Macrobiotics is a dietary and lifestyle system based on the idea that food choices and daily habits should create balance between opposing natural forces — what [Eastern philosophy](/eastern-philosophy) calls yin and yang. In practice, it means eating mostly whole grains, vegetables, beans, and sea vegetables while avoiding processed foods, most animal products, sugar, and artificial additives.
 
-The word comes from the Greek *makros* (great) and *bios* (life). Hippocrates used the term around 400 BCE to describe people who were healthy and long-lived. The modern macrobiotic movement, though, is primarily a 20th-century creation — blending traditional Japanese dietary practices with philosophical principles about balance, harmony, and the relationship between food and health.
+The word comes from the Greek *makros* (great) and *bios* (life). Hippocrates used the term around 400 BCE to describe people who were healthy and long-lived. The modern macrobiotic movement, though, is primarily a 20th-century creation — blending traditional Japanese dietary practices with philosophical principles about balance, [harmony](/harmony), and the relationship between food and health.
 
 ## Origins and Key Figures
 
 Modern macrobiotics traces back to two Japanese thinkers who believed that diet was the foundation of physical health, mental clarity, and even world peace. That's a big claim for a bowl of brown rice, but they were serious about it.
 
-**George Ohsawa** (born Nyoichi Sakurazawa, 1893-1966) developed the philosophy in the early 20th century, drawing on Japanese folk medicine, Chinese yin-yang theory, and his own experience recovering from tuberculosis through dietary changes. Ohsawa wrote prolifically, traveled extensively, and promoted macrobiotics in Europe and North America. His approach was sometimes extreme — his strictest dietary level consisted of nothing but brown rice and water, which caused serious health problems for some followers.
+**George Ohsawa** (born Nyoichi Sakurazawa, 1893-1966) developed the philosophy in the early 20th century, [drawing](/drawing) on Japanese folk medicine, Chinese yin-yang theory, and his own experience recovering from tuberculosis through dietary changes. Ohsawa wrote prolifically, traveled extensively, and promoted macrobiotics in Europe and North America. His approach was sometimes extreme — his strictest dietary level consisted of nothing but brown rice and water, which caused serious health problems for some followers.
 
 **Michio Kushi** (1926-2014) brought macrobiotics to the United States in the 1950s and became its most influential Western advocate. Based in Boston, Kushi moderated Ohsawa's more extreme positions, developed educational programs, and wrote dozens of books. He founded the East West Journal (later renamed Natural Health), the Kushi Institute, and Erewhon, one of America's first natural food stores. More than anyone else, Kushi shaped the version of macrobiotics that most people encounter today.
 
@@ -63,7 +63,7 @@ Macrobiotics classifies foods along this spectrum:
 
 The standard macrobiotic diet emphasizes foods in the moderate middle — whole grains and vegetables — while minimizing extremes in either direction. The reasoning isn't strictly nutritional in the Western scientific sense. It's based on a philosophical framework about energetic balance that predates modern [biology](/biology) and [chemistry](/chemistry).
 
-Whether the yin-yang classification of foods has any physiological basis is a fair question. Mainstream nutrition science doesn't support the specific classifications. But the practical dietary recommendations — eat more whole grains and vegetables, less sugar and processed food — align with a great deal of conventional nutrition research.
+Whether the yin-yang classification of foods has any physiological basis is a fair question. Mainstream [nutrition](/nutrition) science doesn't support the specific classifications. But the practical dietary recommendations — eat more whole grains and vegetables, less sugar and processed food — align with a great deal of conventional nutrition research.
 
 ## What a Macrobiotic Diet Looks Like
 
@@ -81,7 +81,7 @@ The standard macrobiotic diet follows a roughly consistent template, though indi
 
 **Avoided or minimized** — dairy, most meat and poultry, sugar, honey, chocolate, coffee, alcohol, tropical fruits, refined flour, artificial additives, frozen and canned foods, and foods grown with chemical pesticides or fertilizers.
 
-## Cooking Methods and Lifestyle Practices
+## [Cooking](/cooking) Methods and Lifestyle Practices
 
 Macrobiotics isn't just about what you eat — it's about how you prepare and consume food, which is where it diverges most clearly from conventional nutrition advice.
 
@@ -91,7 +91,7 @@ Macrobiotics isn't just about what you eat — it's about how you prepare and co
 
 **Chewing** — Ohsawa famously recommended chewing each bite 50-100 times. While that sounds extreme, the idea that thorough chewing aids digestion has some scientific support. Slower eating is also associated with reduced calorie intake and better satiety signaling.
 
-**Lifestyle practices** complement the diet: regular physical activity (walking is preferred over intense exercise), contact with nature, avoiding synthetic clothing and household chemicals, maintaining regular sleep patterns, and cultivating gratitude and positive relationships. These recommendations overlap considerably with what modern wellness research supports.
+**Lifestyle practices** complement the diet: regular physical activity (walking is preferred over intense exercise), contact with nature, avoiding synthetic clothing and household chemicals, maintaining regular sleep patterns, and cultivating gratitude and positive relationships. These recommendations overlap considerably with what modern [wellness](/wellness) research supports.
 
 ## The Evidence: What Science Says
 
@@ -103,7 +103,7 @@ The scientific evidence for macrobiotics is limited and mixed — a frustrating 
 
 **Nutritional adequacy:** Studies have identified potential deficiencies in macrobiotic diets, particularly in vitamin B12, vitamin D, calcium, iron, and omega-3 fatty acids. A Dutch study of macrobiotic children found lower growth rates and nutritional deficiencies compared to children on standard diets. These risks are manageable with careful planning and supplementation but are real concerns — especially for children and pregnant women.
 
-**Comparative research:** No large-scale randomized controlled trials have compared macrobiotic diets to other dietary approaches for specific health outcomes. The evidence base is mostly observational studies, case reports, and comparisons between macrobiotic practitioners and general population health statistics. This makes strong claims in either direction — "macrobiotics is the healthiest diet" or "macrobiotics is dangerous" — unsupported.
+**Comparative research:** No large-scale randomized controlled trials have compared macrobiotic diets to other dietary approaches for specific health outcomes. The evidence base is mostly observational studies, case reports, and comparisons between macrobiotic practitioners and general population health [statistics](/statistics). This makes strong claims in either direction — "macrobiotics is the healthiest diet" or "macrobiotics is dangerous" — unsupported.
 
 ## Criticisms and Legitimate Concerns
 

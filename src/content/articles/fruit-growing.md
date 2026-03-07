@@ -5,7 +5,7 @@ description: "Fruit growing is the cultivation of fruit-bearing plants for food 
 category: everyday-concepts
 tags: ["agriculture", "horticulture", "fruits", "farming", "orchard", "vineyard"]
 heroImage: "/images/articles/fruit-growing.webp"
-heroAlt: "Apple orchard with ripe red fruit hanging from branches in sunlight"
+heroAlt: "Editorial photograph representing the concept of fruit growing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Fruit growing — also called pomology (for tree fruits) or more broadly fruit c
 
 ## The Basics
 
-Fruit plants come in several forms, each with different requirements and management approaches.
+Fruit plants come in several forms, each with different requirements and [management](/management) approaches.
 
 **Tree fruits** include apples, pears, peaches, plums, cherries, citrus, mangoes, and avocados. Orchards are long-term investments — most fruit trees take 3-8 years to begin producing and can remain productive for decades. Apple orchards can produce for 50+ years with proper care.
 
@@ -53,7 +53,7 @@ Why graft? Because fruit trees grown from seed don't produce fruit identical to 
 
 **Rootstock selection** determines tree size. Dwarf rootstocks produce trees 6-10 feet tall — easier to manage and harvest, faster to produce, but shorter-lived. Semi-dwarf rootstocks produce 12-16 foot trees. Standard rootstocks produce full-size trees (25+ feet) that take longer to produce but live longest.
 
-**Pollination** is critical for most fruit trees. Many apple varieties, for example, require cross-pollination from a different apple variety blooming at the same time. Commercial orchards rent honeybee hives during bloom — a $300+ million industry in the United States alone. The decline of wild pollinators has made managed pollination increasingly important and expensive.
+**[Pollination](/pollination)** is critical for most fruit trees. Many apple varieties, for example, require cross-pollination from a different apple variety blooming at the same time. Commercial orchards rent honeybee hives during bloom — a $300+ million industry in the United States alone. The decline of wild pollinators has made managed pollination increasingly important and expensive.
 
 ## Commercial Fruit Production
 
@@ -65,13 +65,13 @@ Modern commercial fruit growing is a sophisticated agricultural operation.
 
 **Pest and disease management** is a constant challenge. Apples alone face codling moth, apple scab, fire blight, mildew, and dozens of other threats. Integrated Pest Management (IPM) combines monitoring, biological controls, cultural practices, and targeted chemical treatments to minimize both pest damage and pesticide use.
 
-**Harvesting** for most tree fruits remains labor-intensive. Despite decades of research into mechanical harvesting, most fresh-market apples, peaches, and citrus are still picked by hand. This makes labor availability and cost major factors in fruit production economics. In the U.S., a significant portion of fruit harvest labor is performed by migrant workers.
+**Harvesting** for most tree fruits remains labor-intensive. Despite decades of research into mechanical harvesting, most fresh-market apples, peaches, and citrus are still picked by hand. This makes labor availability and cost major factors in fruit production [economics](/economics). In the U.S., a significant portion of fruit harvest labor is performed by migrant workers.
 
 ## The Variety Problem
 
 Here's something most consumers don't realize: the grocery store represents a tiny fraction of existing fruit diversity. Over 7,500 apple varieties are grown worldwide, but most stores stock 5-10. Commercial production concentrates on varieties that ship well, store well, look uniform, and yield consistently — not necessarily the ones that taste best.
 
-**Heirloom and heritage varieties** — older cultivars that predate commercial agriculture — are experiencing a revival. Farmers markets, specialty growers, and home orchardists are rediscovering varieties like Arkansas Black apples, Blenheim apricots, and Tristar strawberries that commercial agriculture abandoned because they didn't ship or store well — despite being spectacularly delicious.
+**Heirloom and heritage varieties** — older cultivars that predate commercial [agriculture](/agriculture) — are experiencing a revival. Farmers markets, specialty growers, and home orchardists are rediscovering varieties like Arkansas Black apples, Blenheim apricots, and Tristar strawberries that commercial agriculture abandoned because they didn't ship or store well — despite being spectacularly delicious.
 
 The genetic narrowing of commercial fruit production carries risks. When a few varieties dominate, a single disease can devastate the entire crop. The Gros Michel banana, which dominated global markets until the 1950s, was nearly wiped out by Panama disease. The Cavendish banana that replaced it now faces the same threat from a new strain of the same fungus.
 
@@ -85,4 +85,4 @@ Home fruit growing is accessible and rewarding, even in small spaces.
 
 **Dwarf fruit trees** — apple, pear, peach, cherry — fit in suburban yards and can even grow in large containers. A single dwarf apple tree can produce 3-6 bushels per year.
 
-The learning curve is real but manageable. Pruning (essential for tree health and fruit production), pest identification, watering schedules, and fertilization all require learning. But the reward — eating fruit you grew, picked ripe from the tree, at peak flavor — is hard to match from any grocery store.
+The learning curve is real but manageable. [Pruning](/pruning) (essential for tree health and fruit production), pest identification, watering schedules, and fertilization all require learning. But the reward — eating fruit you grew, picked ripe from the tree, at peak flavor — is hard to match from any grocery store.

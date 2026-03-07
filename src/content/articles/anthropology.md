@@ -5,7 +5,7 @@ description: "Anthropology is the study of humans—past and present—across cu
 category: science
 tags: ["anthropology", "archaeology", "sociology", "humanity", "culture", "ethnography", "social science"]
 heroImage: "/images/articles/anthropology-hero.webp"
-heroAlt: "A diverse group of archaeological and cultural artifacts representing the study of human societies"
+heroAlt: "Editorial photograph representing the concept of anthropology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -53,7 +53,7 @@ Today, around 400 colleges and universities in the United States alone offer ant
 
 Most anthropology departments, especially in North America, organize around four subfields. This "four-field approach" is distinctive. No other discipline tries to hold together the study of ancient bones, living communities, extinct languages, and buried cities under one roof.
 
-### Cultural Anthropology
+### [Cultural Anthropology](/cultural-anthropology)
 
 This is what most people picture when they hear "anthropology" — researchers living with communities, learning their customs, and writing detailed accounts of daily life. The core method is **ethnography**, which means spending extended time (often a year or more) embedded in a community, participating in activities, conducting interviews, and observing patterns that insiders might take for granted.
 
@@ -71,7 +71,7 @@ Biological anthropologists study everything from 3.2-million-year-old Lucy (the 
 
 - **Paleoanthropology** — studying hominin fossils to trace human evolution
 - **Primatology** — studying our closest living relatives (chimps, gorillas, bonobos) to understand shared behaviors
-- **Forensic anthropology** — identifying human remains for legal investigations (yes, *Bones* was loosely based on real work)
+- **[Forensic anthropology](/forensic-anthropology)** — identifying human remains for legal investigations (yes, *Bones* was loosely based on real work)
 - **Human biology** — examining how living humans adapt to different environments, altitudes, diets, and diseases
 
 One of the field's biggest recent discoveries came in 2013 when researchers found *Homo naledi* in a South African cave system — a previously unknown hominin species that existed alongside early *Homo sapiens*. The find contained over 1,500 fossil elements from at least 15 individuals, making it one of the richest hominin fossil sites ever discovered.
@@ -112,7 +112,7 @@ The Human Relations Area Files (HRAF), a database at Yale University containing 
 
 ### Scientific Methods
 
-Biological anthropologists and archaeologists use lab techniques you'd find in any hard science department. Radiocarbon dating can determine the age of organic materials up to about 50,000 years old. Ancient DNA analysis has revealed previously unknown human migrations — like the discovery that modern Europeans descend partly from a ghost population of Ancient North Eurasians that nobody knew existed until genetic analysis revealed them in 2014.
+Biological anthropologists and archaeologists use lab techniques you'd find in any hard science department. [Radiocarbon dating](/radiocarbon-dating) can determine the age of organic materials up to about 50,000 years old. Ancient DNA analysis has revealed previously unknown human migrations — like the discovery that modern Europeans descend partly from a ghost population of Ancient North Eurasians that nobody knew existed until genetic analysis revealed them in 2014.
 
 Stable isotope analysis of bones and teeth can tell researchers what ancient people ate, where they grew up, and whether they migrated during their lifetimes. It's remarkable — a single tooth can contain a chemical autobiography.
 
@@ -162,7 +162,7 @@ Genevieve Bell, trained as an anthropologist at Stanford, became one of Intel's 
 
 ### Public Health and Medicine
 
-Medical anthropology is one of the fastest-growing subfields. During the 2014-2016 Ebola outbreak in West Africa, anthropologists were critical to the response — they helped public health teams understand local burial practices that were spreading the disease, and they found culturally appropriate alternatives that communities would actually accept. The WHO now routinely includes anthropologists in epidemic response teams.
+[Medical anthropology](/medical-anthropology) is one of the fastest-growing subfields. During the 2014-2016 Ebola outbreak in West Africa, anthropologists were critical to the response — they helped public health teams understand local burial practices that were spreading the disease, and they found culturally appropriate alternatives that communities would actually accept. The WHO now routinely includes anthropologists in epidemic response teams.
 
 Understanding how different cultures think about illness, healing, and the body turns out to be essential for effective healthcare. This is true domestically too — anthropologists study health disparities, patient experiences, and the culture of hospitals themselves.
 
@@ -202,7 +202,7 @@ Anthropology in 2026 is wrestling with several big questions.
 
 **Multispecies anthropology** — A growing number of anthropologists study the relationships between humans and other species — not just as resources or symbols, but as beings with their own social lives that intersect with ours. How do dairy farmers relate to their cows? How do mushroom foragers understand the fungi they seek? It sounds quirky, but it's producing genuinely new insights about how humans fit into broader ecological systems.
 
-**AI and algorithms** — Anthropologists have turned their attention to artificial intelligence, studying how [algorithms](/algorithms) encode cultural assumptions, how AI systems affect communities, and how different societies respond to automation. The field brings a useful perspective here — asking not just "what can this technology do?" but "what does it mean to the people living with it?"
+**AI and algorithms** — Anthropologists have turned their attention to [artificial intelligence](/artificial-intelligence), studying how [algorithms](/algorithms) encode cultural assumptions, how AI systems affect communities, and how different societies respond to automation. The field brings a useful perspective here — asking not just "what can this technology do?" but "what does it mean to the people living with it?"
 
 **Decolonizing the discipline** — Efforts to center indigenous voices, return control of research to studied communities, and rewrite curricula that still lean heavily on European theoretical frameworks continue to reshape the field. More anthropology departments now employ scholars from the Global South, and some programs require students to learn a non-European language.
 

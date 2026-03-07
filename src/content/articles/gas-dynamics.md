@@ -5,7 +5,7 @@ description: "Gas dynamics studies how gases behave when they move at high speed
 category: science
 tags: ["gas dynamics", "fluid dynamics", "aerodynamics", "supersonic flow", "shock waves", "aerospace engineering", "thermodynamics"]
 heroImage: "/images/articles/gas-dynamics-hero.webp"
-heroAlt: "Schlieren photograph showing shock waves forming around a supersonic aircraft model in a wind tunnel"
+heroAlt: "Editorial photograph representing the concept of gas dynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Gas Dynamics?
 
-Gas dynamics — also called compressible flow or compressible fluid dynamics — is the branch of fluid mechanics that studies the motion of gases when density changes are significant, typically at speeds approaching or exceeding the speed of sound. While everyday low-speed flows treat air as essentially incompressible (like water), gas dynamics deals with the regime where air compresses, heats up, expands, and generates shock waves. It is the fundamental science behind rocket propulsion, supersonic flight, wind tunnel design, and high-speed industrial processes.
+Gas dynamics — also called compressible flow or compressible [fluid dynamics](/fluid-dynamics) — is the branch of fluid mechanics that studies the motion of gases when density changes are significant, typically at speeds approaching or exceeding the speed of sound. While everyday low-speed flows treat air as essentially incompressible (like water), gas dynamics deals with the regime where air compresses, heats up, expands, and generates shock waves. It is the fundamental science behind rocket propulsion, supersonic flight, wind tunnel design, and high-speed industrial processes.
 
 ## Why Gas Behavior Changes at High Speed
 
@@ -47,7 +47,7 @@ At that speed, you're moving as fast as the pressure waves the air uses to "comm
 
 At the speed of sound, those signals can't outrun the object. The air ahead has no warning. It can't gently redirect — it slams into the approaching surface, compresses violently, and heats up. Density can double, triple, or increase even more. Temperature rises hundreds of degrees. Shock waves form — thin regions where pressure, temperature, and density jump almost instantaneously.
 
-This is the domain of gas dynamics. And the physics are genuinely different from low-speed [aerodynamics](/aerodynamics).
+This is the domain of gas dynamics. And the [physics](/physics) are genuinely different from low-speed [aerodynamics](/aerodynamics).
 
 ## The Mach Number: Everything Depends on It
 
@@ -61,7 +61,7 @@ The speed of sound isn't constant — it depends on temperature. At sea level on
 
 The flow regime changes dramatically with Mach number:
 
-- **Incompressible**: M < 0.3. Density changes are negligible. Regular fluid mechanics applies. Driving, cycling, most wind.
+- **Incompressible**: M < 0.3. Density changes are negligible. Regular fluid mechanics applies. Driving, [cycling](/cycling), most wind.
 - **Subsonic**: 0.3 < M < 0.8. Some compression effects appear but no shock waves. Commercial aircraft cruise here (typically Mach 0.78-0.85).
 - **Transonic**: 0.8 < M < 1.2. Mixed subsonic and supersonic regions. Shock waves form on parts of the aircraft. This is the trickiest regime to analyze — and where the "sound barrier" lives.
 - **Supersonic**: 1.2 < M < 5. Flow is entirely supersonic. Well-defined shock wave patterns. Fighter jets, Concorde (M 2.04), rifle bullets.
@@ -136,7 +136,7 @@ Understanding supersonic flow requires testing, and wind tunnels remain essentia
 
 **Blowdown tunnels** use pressurized air released through a test section. They're cheaper to build but run for limited durations (seconds to minutes). Most university tunnels are blowdown designs.
 
-**Continuous tunnels** recirculate air using compressors or ejectors. They can run indefinitely but require massive power consumption. The Arnold Engineering Development Complex in Tennessee operates the world's largest wind tunnel facility, capable of testing full-scale jet engines at simulated flight conditions.
+**Continuous tunnels** recirculate air using compressors or ejectors. They can run indefinitely but require massive power consumption. The Arnold [Engineering](/engineering) Development Complex in Tennessee operates the world's largest wind tunnel facility, capable of testing full-scale jet engines at simulated flight conditions.
 
 **Shock tunnels** produce hypersonic flow (Mach 5-25+) for milliseconds by using a shock wave to heat and pressurize a driver gas. These brief test times are sufficient because the flow establishes almost instantly, and modern instruments capture data in microseconds.
 
@@ -179,7 +179,7 @@ The strong bow shock ahead of the vehicle converts kinetic energy into thermal e
 Gas dynamics shows up in surprising industrial contexts:
 
 - **Steam turbines**: High-speed steam in power plants behaves compressibly, and turbine blade design uses the same [classical mechanics](/classical-mechanics) and gas dynamics principles as jet engines.
-- **Natural gas pipelines**: Long-distance gas transport involves compressible flow with friction, heat transfer, and compressor stations.
+- **Natural gas pipelines**: Long-distance gas transport involves compressible flow with friction, [heat transfer](/heat-transfer), and compressor stations.
 - **Pressure relief valves**: Emergency depressurization of vessels produces choked flow through valves, governed by gas dynamics.
 - **Laser cutting and welding**: High-pressure assist gas jets interact with material surfaces at supersonic speeds.
 
@@ -193,7 +193,7 @@ Gas dynamics rests on three conservation laws applied to compressible flow:
 
 1. **Conservation of mass** (continuity equation): Mass flowing in equals mass flowing out
 2. **Conservation of momentum** (momentum equation, derived from Newton's second law): Forces equal rate of change of momentum
-3. **Conservation of energy** (energy equation, from the first law of thermodynamics): Energy is conserved across changes in velocity, pressure, temperature, and height
+3. **Conservation of energy** (energy equation, from the first law of [thermodynamics](/thermodynamics)): Energy is conserved across changes in velocity, pressure, temperature, and height
 
 Combined with an equation of state (usually the ideal gas law: p = rhoRT for moderate conditions), these equations form a complete system. For one-dimensional, steady, isentropic flow, they yield elegant closed-form solutions. For multi-dimensional, unsteady, viscous flows with shock waves, they require numerical methods and powerful computers.
 

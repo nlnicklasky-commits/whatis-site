@@ -5,7 +5,7 @@ description: "Taekwondo is a Korean martial art known for powerful kicks and fas
 category: sports
 tags: ["taekwondo", "martial arts", "Korean", "Olympics", "self-defense", "kicks"]
 heroImage: "/images/articles/taekwondo.webp"
-heroAlt: "A taekwondo practitioner performing a high spinning kick in a white uniform"
+heroAlt: "Editorial photograph representing the concept of taekwondo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ With an estimated 80 million practitioners in over 200 countries, it's one of th
 
 ## Origins
 
-Taekwondo's history is somewhat contested, but the broad story goes like this: After Korea's liberation from Japanese occupation in 1945, several Korean martial arts schools (*kwans*) emerged, drawing on traditional Korean kicking techniques, Japanese karate (which many Korean martial artists had studied during the occupation), and Chinese martial arts influences.
+Taekwondo's history is somewhat contested, but the broad story goes like this: After Korea's liberation from Japanese occupation in 1945, several Korean martial arts schools (*kwans*) emerged, [drawing](/drawing) on traditional Korean kicking techniques, Japanese karate (which many Korean martial artists had studied during the occupation), and Chinese martial arts influences.
 
 In the 1950s and 1960s, General Choi Hong Hi and other martial arts leaders worked to unify these schools under a single name. "Taekwondo" was officially adopted in 1955. The art subsequently split into two main organizations: the International Taekwon-Do Federation (ITF, founded by General Choi) and the World Taekwondo (WT, formerly WTF, based at the Kukkiwon in Seoul).
 
-The WT style is what you see in the Olympics. ITF-style taekwondo has different rules and scoring systems. Both share the same fundamental techniques but differ in competition format, forms, and organizational philosophy.
+The WT style is what you see in the Olympics. ITF-style taekwondo has different rules and scoring systems. Both share the same fundamental techniques but differ in competition format, forms, and organizational [philosophy](/philosophy).
 
 ## The Techniques
 
@@ -84,14 +84,14 @@ Taekwondo uses a colored belt ranking system to mark student progression:
 - **Red** — Danger, as skill increases and must be controlled
 - **Black** — Maturity and proficiency
 
-Black belts are ranked in *Dan* levels from 1st through 9th (or 10th in some organizations). Higher Dan ranks require years of practice, teaching, and contribution to the [art](/martial-arts).
+Black belts are ranked in *Dan* levels from 1st through 9th (or 10th in some organizations). Higher Dan ranks require years of practice, [teaching](/teaching), and contribution to the [art](/martial-arts).
 
 ## Benefits of Training
 
-- **Fitness** — Taekwondo builds cardiovascular endurance, flexibility, strength, and coordination
+- **[Fitness](/fitness)** — Taekwondo builds cardiovascular endurance, flexibility, strength, and coordination
 - **Discipline** — Structured training, respect for instructors, and adherence to tenets (courtesy, integrity, perseverance, self-control, indomitable spirit) develop character
 - **Confidence** — Progressing through belts and mastering difficult techniques builds genuine self-assurance
-- **Flexibility** — The kicking emphasis makes taekwondo practitioners some of the most flexible [athletes](/exercise-physiology) in martial arts
+- **Flexibility** — The kicking emphasis makes taekwondo practitioners some of the most flexible [athletes](/exercise-[physiology](/physiology)) in martial arts
 
 ## Getting Started
 

@@ -5,7 +5,7 @@ description: "Claymation is a stop-motion animation technique using clay figures
 category: arts-amp-culture
 tags: ["claymation", "stop-motion", "animation", "clay", "film", "art"]
 heroImage: "/images/articles/claymation.webp"
-heroAlt: "Colorful clay figures arranged on a miniature set ready for stop-motion filming"
+heroAlt: "Editorial photograph representing the concept of claymation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -71,7 +71,7 @@ Claymation has a physical quality that CGI struggles to replicate. You can see f
 
 There's also something about knowing that every frame was created by human hands. When you watch a Pixar film, you're impressed by the technical achievement. When you watch a claymation film, you're impressed by the human effort. Both reactions are valid, but they're different.
 
-Studios like Aardman have found that audiences — especially younger ones — actually prefer the tactile look of claymation for certain types of stories. The warmth of the medium matches the warmth of the storytelling.
+Studios like Aardman have found that audiences — especially younger ones — actually prefer the tactile look of claymation for certain types of stories. The warmth of the medium matches the warmth of the [storytelling](/storytelling).
 
 ## Trying It Yourself
 

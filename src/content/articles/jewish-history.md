@@ -5,7 +5,7 @@ description: "Jewish history spans over 3,500 years from ancient Israel through 
 category: history
 tags: ["judaism", "jewish history", "diaspora", "israel", "antisemitism", "torah"]
 heroImage: "/images/articles/jewish-history.webp"
-heroAlt: "Ancient Torah scroll partially unrolled on a wooden table with a silver yad pointer"
+heroAlt: "Editorial photograph representing the concept of jewish history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,9 +55,9 @@ In exile, Judaism transformed. Without a temple, the focus shifted to scripture,
 
 The Persian conquest of Babylon under Cyrus the Great in 539 BCE allowed Jews to return to Jerusalem and rebuild the Temple (completed around 516 BCE). The Second Temple period lasted over 500 years and saw enormous developments in Jewish thought and practice.
 
-Under Greek rule (from Alexander the Great's conquest in 332 BCE), Jewish culture confronted Hellenism — Greek language, philosophy, and customs. Some Jews embraced Greek culture; others resisted fiercely. The Maccabean Revolt (167-160 BCE) against the Seleucid king Antiochus IV, who had desecrated the Temple and banned Jewish religious practices, produced the independent Hasmonean kingdom and the festival of Hanukkah.
+Under Greek rule (from Alexander the Great's conquest in 332 BCE), Jewish culture confronted Hellenism — Greek language, [philosophy](/philosophy), and customs. Some Jews embraced Greek culture; others resisted fiercely. The Maccabean Revolt (167-160 BCE) against the Seleucid king Antiochus IV, who had desecrated the Temple and banned Jewish religious practices, produced the independent Hasmonean kingdom and the festival of Hanukkah.
 
-Rome took control of Judea in 63 BCE. The relationship was volatile. King Herod the Great (reigned 37-4 BCE) rebuilt the Temple on a massive scale — the Western Wall that stands today is a retaining wall from Herod's construction. But Roman taxation, religious insensitivity, and political oppression fueled resentment.
+Rome took control of Judea in 63 BCE. The relationship was volatile. King Herod the Great (reigned 37-4 BCE) rebuilt the Temple on a massive scale — the Western Wall that stands today is a retaining wall from Herod's [construction](/construction). But Roman taxation, religious insensitivity, and political oppression fueled resentment.
 
 ## Destruction and Diaspora
 
@@ -65,13 +65,13 @@ The Great Jewish Revolt against Rome (66-73 CE) ended catastrophically. Roman le
 
 A second revolt, the Bar Kokhba Rebellion (132-135 CE), was equally disastrous. The Romans killed an estimated 580,000 Jews, banned Jews from Jerusalem, renamed the province "Syria Palaestina" (from which "Palestine" derives), and attempted to erase Jewish connection to the land.
 
-With the Temple gone and the population scattered, Judaism reinvented itself. The rabbinical tradition — centered on study, interpretation, and legal reasoning rather than temple sacrifice — became the dominant form. The Mishnah (compiled around 200 CE) and the Talmud (completed around 500 CE in its Babylonian version) codified centuries of oral law and rabbinical debate. These texts became the intellectual framework of Jewish life for the next 1,500 years.
+With the Temple gone and the population scattered, Judaism reinvented itself. The rabbinical tradition — centered on study, interpretation, and legal reasoning rather than temple sacrifice — became the dominant form. The Mishnah (compiled around 200 CE) and the Talmud (completed around 500 CE in its Babylonian version) codified centuries of oral law and rabbinical [debate](/debate). These texts became the intellectual framework of Jewish life for the next 1,500 years.
 
 ## Medieval Jewish Life
 
 Medieval Jews lived as minorities in both [Christian](/christianity) Europe and the Islamic world. Their experiences in these two civilizations differed significantly — though neither was consistently safe.
 
-In the Islamic world, Jews had the status of *dhimmi* — protected minorities who could practice their religion but faced legal restrictions and special taxes. The treatment varied enormously by time and place, but the Islamic world was generally more tolerant than Christendom. The "Golden Age" of Jewish culture in Muslim Spain (roughly 900-1200 CE) produced extraordinary scholarship: Maimonides (1138-1204), the greatest medieval Jewish philosopher, wrote his masterwork *Guide for the Perplexed* in Arabic while serving as physician to the Sultan of Egypt.
+In the Islamic world, Jews had the status of *dhimmi* — protected minorities who could practice their [religion](/religion) but faced legal restrictions and special taxes. The treatment varied enormously by time and place, but the Islamic world was generally more tolerant than Christendom. The "Golden Age" of Jewish culture in Muslim Spain (roughly 900-1200 CE) produced extraordinary scholarship: Maimonides (1138-1204), the greatest medieval Jewish philosopher, wrote his masterwork *Guide for the Perplexed* in Arabic while serving as physician to the Sultan of Egypt.
 
 In Christian Europe, conditions were harder and deteriorated over time. Jews were barred from owning land and excluded from most guilds, pushing them into commerce, moneylending, and other occupations Christians considered undesirable. This economic role made them simultaneously necessary and resented.
 
@@ -111,7 +111,7 @@ Israel today is home to roughly 7 million Jews — about 45% of the world's Jewi
 
 ## Why Jewish History Matters
 
-Jewish history is disproportionately significant relative to the Jewish people's small numbers — roughly 0.2% of the world's population. Judaism gave the world monotheism, which directly shaped [Christianity](/christianity) and Islam. Jewish legal and ethical thought influenced Western philosophy and law. Jewish contributions to science, literature, music, and intellectual life are extraordinary.
+Jewish history is disproportionately significant relative to the Jewish people's small numbers — roughly 0.2% of the world's population. Judaism gave the world monotheism, which directly shaped [Christianity](/christianity) and [Islam](/islam). Jewish legal and ethical thought influenced [Western philosophy](/western-philosophy) and law. Jewish contributions to science, [literature](/literature), music, and intellectual life are extraordinary.
 
 Understanding Jewish history also means confronting the darkest aspects of human behavior — persecution, expulsion, genocide — and asking how civilized societies could produce such outcomes. The Holocaust in particular raises questions about human nature, institutional responsibility, and the fragility of rights that remain urgently relevant.
 

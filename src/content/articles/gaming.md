@@ -5,7 +5,7 @@ description: "Gaming is interactive electronic entertainment played on consoles,
 category: everyday-concepts
 tags: ["gaming", "video games", "esports", "interactive entertainment", "game culture", "hobby"]
 heroImage: "/images/articles/gaming.webp"
-heroAlt: "Gamer playing at a desk setup with RGB lighting and multiple monitors"
+heroAlt: "Editorial photograph representing the concept of gaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Gaming?
 
-Gaming is the activity of playing electronic games — on consoles, computers, mobile devices, or virtual reality headsets. It's the world's largest entertainment industry by revenue, generating approximately $184 billion in 2023, more than the global film ($100 billion) and music ($26 billion) industries combined. About 3.3 billion people worldwide play video games, making gaming not just a hobby but a dominant cultural force.
+Gaming is the activity of playing electronic games — on consoles, computers, mobile devices, or [virtual reality](/virtual-reality) headsets. It's the world's largest entertainment industry by revenue, generating approximately $184 billion in 2023, more than the global film ($100 billion) and music ($26 billion) industries combined. About 3.3 billion people worldwide play video games, making gaming not just a hobby but a dominant cultural force.
 
 ## A Quick History
 
 Video gaming began in the 1970s with arcade machines like Pong (1972) and Space Invaders (1978). Home consoles arrived with the Atari 2600 (1977), bringing gaming into living rooms. The industry nearly died in the crash of 1983 (too many bad games flooding the market), then was resurrected by the Nintendo Entertainment System (NES) in 1985.
 
-The 1990s saw the console wars between Nintendo (Super NES), Sega (Genesis), and eventually Sony (PlayStation). PC gaming established itself with genres consoles couldn't match — strategy games, first-person shooters, and massively multiplayer online games.
+The 1990s saw the console wars between Nintendo (Super NES), Sega (Genesis), and eventually Sony (PlayStation). PC gaming established itself with genres consoles couldn't match — [strategy games](/strategy-games), first-person shooters, and massively multiplayer online games.
 
 The 2000s brought online gaming mainstream. Xbox Live (2002) made console online multiplayer standard. World of Warcraft (2004) peaked at 12 million subscribers. Mobile gaming exploded after the iPhone's App Store launched in 2008 — suddenly, everyone had a gaming device in their pocket.
 
@@ -55,7 +55,7 @@ The 2010s and 2020s brought games-as-service models, battle royale games (Fortni
 
 ## Genres
 
-Gaming genres are as diverse as film or literature genres.
+Gaming genres are as diverse as film or [literature](/literature) genres.
 
 **Action games** emphasize physical challenges — reflexes, timing, hand-eye coordination. Platformers (Mario), beat-em-ups, and hack-and-slash games fall here.
 
@@ -63,7 +63,7 @@ Gaming genres are as diverse as film or literature genres.
 
 **First-person shooters (FPS)** put you behind a gun in first-person perspective. Call of Duty, Halo, and Counter-Strike are pillars of the genre. Online competitive FPS gaming is enormous.
 
-**Strategy games** emphasize planning and resource management. Civilization, StarCraft, and XCOM represent different strategy subgenres (4X, real-time, tactical).
+**Strategy games** emphasize planning and [resource management](/resource-management). Civilization, StarCraft, and XCOM represent different strategy subgenres (4X, real-time, tactical).
 
 **Indie games** aren't a genre but a production category — games made by small teams without major publisher backing. Indie games often take creative risks that AAA studios won't. Celeste, Hollow Knight, Hades, and Undertale are beloved indie titles.
 
@@ -77,9 +77,9 @@ Gaming culture is massive, diverse, and sometimes contentious.
 
 **Streaming** transformed gaming into a spectator activity. Twitch alone has millions of daily viewers watching others play games. Top streamers are celebrities with seven-figure incomes. The parasocial relationships between streamers and audiences raise interesting psychological questions.
 
-**Esports** turned gaming into a professional sport. League of Legends World Championship draws over 100 million viewers. Esports athletes train 8-12 hours daily, have coaches and analysts, and compete for prize pools in the tens of millions. Some universities offer esports scholarships.
+**Esports** turned gaming into a professional sport. League of [Legends](/legends) World Championship draws over 100 million viewers. Esports athletes train 8-12 hours daily, have coaches and analysts, and compete for prize pools in the tens of millions. Some universities offer esports scholarships.
 
-**Speedrunning** — completing games as fast as possible through skill, glitch exploitation, and route optimization — has developed its own thriving community. Games Done Quick charity events have raised over $40 million.
+**Speedrunning** — completing games as fast as possible through skill, glitch exploitation, and route [optimization](/optimization) — has developed its own thriving community. Games Done Quick charity events have raised over $40 million.
 
 ## The Business Model Problem
 
@@ -91,7 +91,7 @@ The free-to-play model itself is controversial. While it democratizes access (an
 
 ## Games as Art
 
-The "are games art?" debate is essentially settled. Yes. Games like *Journey*, *The Last of Us*, *Disco Elysium*, and *What Remains of Edith Finch* have demonstrated that games can achieve emotional and artistic depth comparable to any other medium. The Museum of Modern Art added games to its permanent collection in 2012.
+The "are games art?" [debate](/debate) is essentially settled. Yes. Games like *Journey*, *The Last of Us*, *Disco Elysium*, and *What Remains of Edith Finch* have demonstrated that games can achieve emotional and artistic depth comparable to any other medium. The Museum of [Modern Art](/modern-art) added games to its permanent collection in 2012.
 
 What games offer that other media can't is **interactivity** — the player doesn't just observe a story, they participate in it. The choices you make in a game create a personal narrative experience that passive media can't replicate. When a game makes you feel guilty for a choice *you* made (not one you watched a character make), that's something only interactive media can achieve.
 

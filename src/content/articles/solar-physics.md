@@ -5,7 +5,7 @@ description: "Solar physics studies the Sun's structure, behavior, and effects o
 category: science
 tags: ["solar physics", "astronomy", "astrophysics", "space weather", "physics", "sun"]
 heroImage: "/images/articles/solar-physics.webp"
-heroAlt: "Close-up image of the Sun showing sunspots and solar prominences against the glowing solar surface"
+heroAlt: "Editorial photograph representing the concept of solar physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The Sun sits about 150 million kilometers from Earth — one astronomical unit, 
 
 And what we've seen is extraordinary. The Sun is not a calm, steady ball of light. It's a roiling, turbulent, magnetically violent object that produces explosions dwarfing any nuclear weapon by a factor of billions. It ejects billions of tons of material into space. Its magnetic field reverses polarity every 11 years. And despite being studied for centuries, it still presents major unsolved problems that keep thousands of physicists busy.
 
-The Sun's statistics are staggering. Mass: 1.989 x 10^30 kilograms — 333,000 times Earth's mass. Diameter: 1.39 million kilometers — 109 times Earth's. Surface temperature: about 5,500 degrees Celsius. Core temperature: about 15 million degrees Celsius. Luminosity: 3.828 x 10^26 watts. Every second, it converts about 600 million tons of hydrogen into helium, releasing energy equivalent to exploding 92 billion megatons of TNT. And it's been doing this for 4.6 billion years.
+The Sun's [statistics](/statistics) are staggering. Mass: 1.989 x 10^30 kilograms — 333,000 times Earth's mass. Diameter: 1.39 million kilometers — 109 times Earth's. Surface temperature: about 5,500 degrees Celsius. Core temperature: about 15 million degrees Celsius. Luminosity: 3.828 x 10^26 watts. Every second, it converts about 600 million tons of hydrogen into helium, releasing energy equivalent to exploding 92 billion megatons of TNT. And it's been doing this for 4.6 billion years.
 
 ## The Interior: Where the Action Starts
 
@@ -160,7 +160,7 @@ When a fast CME hits Earth's magnetosphere, it compresses the magnetic field on 
 
 The 1859 Carrington Event — the most powerful geomagnetic storm in recorded history — was caused by a massive CME reaching Earth in just 17.6 hours (most take 1-3 days). Telegraph systems worldwide failed. Operators received shocks. Some telegraph equipment functioned without batteries, powered by the induced electric currents.
 
-A Carrington-level event today would be catastrophic for modern infrastructure. A 2013 Lloyd's of London study estimated potential damages at $0.6-2.6 trillion for the United States alone. Power grids, satellite systems, GPS, aviation communications, and undersea cables would all be affected. Recovery could take months to years for heavily damaged transformers.
+A Carrington-level event today would be catastrophic for modern infrastructure. A 2013 Lloyd's of London study estimated potential damages at $0.6-2.6 trillion for the United States alone. Power grids, satellite systems, GPS, [aviation](/aviation) communications, and undersea cables would all be affected. Recovery could take months to years for heavily damaged transformers.
 
 ### The Solar Wind
 
@@ -174,13 +174,13 @@ The solar wind interacts with every body in the solar system. Planets with stron
 
 Solar physics isn't just academic curiosity. Space weather — the state of the near-Earth space environment driven by solar activity — directly affects modern technology.
 
-**Satellites.** Energetic particles from solar storms damage satellite electronics, degrade solar panels, and disrupt [communications](/amateur-radio).
+**Satellites.** Energetic particles from solar storms damage satellite [electronics](/electronics), degrade solar panels, and disrupt [communications](/amateur-radio).
 
 **Aviation.** During strong solar storms, airlines reroute polar flights because of increased radiation exposure and GPS degradation.
 
 **Power grids.** Geomagnetically induced currents can damage large transformers that take months to replace.
 
-**GPS and navigation.** Ionospheric disturbances from solar activity introduce positioning errors.
+**GPS and [navigation](/navigation).** Ionospheric disturbances from solar activity introduce positioning errors.
 
 NOAA's Space Weather Prediction Center forecasts space weather much like the National Weather Service forecasts terrestrial weather — monitoring the Sun, predicting CME arrival times, and issuing warnings when storms are expected.
 

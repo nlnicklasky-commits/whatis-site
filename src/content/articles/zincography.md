@@ -5,7 +5,7 @@ description: "Zincography is a printmaking technique using zinc plates instead o
 category: arts-amp-culture
 tags: ["printmaking", "lithography", "art history", "printing techniques", "graphic arts", "historical printing"]
 heroImage: "/images/articles/zincography.webp"
-heroAlt: "A zinc printing plate with an etched design sitting on a press bed ready for inking"
+heroAlt: "Editorial photograph representing the concept of zincography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Zincography?
 
-Zincography is a printmaking technique that uses zinc plates instead of traditional limestone to create lithographic prints. The chemistry is the same as standard lithography — it relies on the fact that oil and water repel each other — but swapping heavy stone slabs for thin metal plates made the process faster, cheaper, and scalable enough for industrial printing.
+Zincography is a [printmaking](/printmaking) technique that uses zinc plates instead of traditional limestone to create lithographic prints. The [chemistry](/chemistry) is the same as standard [lithography](/lithography) — it relies on the fact that oil and water repel each other — but swapping heavy stone slabs for thin metal plates made the process faster, cheaper, and scalable enough for industrial printing.
 
 The term might sound obscure, but zincography's impact is hard to overstate. It was the bridge between artisanal stone lithography and modern offset printing — the technology that still produces most of the world's books, magazines, packaging, and printed materials today.
 
@@ -43,7 +43,7 @@ The term might sound obscure, but zincography's impact is hard to overstate. It 
 
 To understand zincography, you first need the basics of lithography.
 
-Alois Senefelder invented lithography in 1796 in Munich, and the concept was genuinely clever. Unlike relief printing (where raised surfaces hold ink) or intaglio (where ink fills engraved grooves), lithography prints from a completely flat surface. It works because of chemistry, not topography.
+Alois Senefelder invented lithography in 1796 in Munich, and the concept was genuinely clever. Unlike relief printing (where raised surfaces hold ink) or intaglio (where ink fills engraved grooves), lithography prints from a completely flat surface. It works because of chemistry, not [topography](/topography).
 
 Here's the process: you draw an image on a smooth limestone slab using greasy materials — special crayons, a liquid called tusche, or greasy ink. Then you treat the stone with a mixture of gum arabic and dilute acid. This does two things: it makes the non-image areas hydrophilic (water-attracting) and fixes the greasy image areas so they remain oleophilic (oil-attracting).
 
@@ -67,7 +67,7 @@ Zincography follows the same general steps as stone lithography, with modificati
 
 **Plate preparation.** The zinc plate is grained — its surface is roughened using abrasives to create a texture that holds water. This graining is similar to the natural grain of limestone but is produced mechanically.
 
-**Drawing.** The artist draws directly on the plate using lithographic crayons, tusche, or other greasy media. The image can also be transferred from a separate drawing using a transfer process.
+**[Drawing](/drawing).** The artist draws directly on the plate using lithographic crayons, tusche, or other greasy media. The image can also be transferred from a separate drawing using a transfer process.
 
 **Chemical processing.** The plate is treated with an etch — a solution of gum arabic and a mild acid (usually phosphoric acid for zinc, rather than the nitric acid used for stone). This treatment desensitizes the non-image areas, making them attract water and repel ink, while stabilizing the greasy image areas.
 
@@ -87,7 +87,7 @@ This accident became offset lithography, and it revolutionized printing. By the 
 
 ## Zincography as Art
 
-While zincography's biggest impact was commercial, it also found a place in fine art printmaking.
+While zincography's biggest impact was commercial, it also found a place in [fine art](/fine-art) printmaking.
 
 Several notable artists worked with zinc plates, including Henri de Toulouse-Lautrec, who produced some of his famous poster designs on zinc. The material offered certain advantages for artists — zinc plates were easier to rework than stone, more affordable to experiment with, and lighter to transport.
 

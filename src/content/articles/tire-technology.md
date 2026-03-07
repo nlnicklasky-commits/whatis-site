@@ -5,7 +5,7 @@ description: "Tire technology is the engineering behind how tires are designed, 
 category: technology
 tags: ["tire technology", "tires", "rubber", "automotive engineering"]
 heroImage: "/images/articles/tire-technology.webp"
-heroAlt: "Cross-section of a modern radial tire showing internal layers and tread pattern"
+heroAlt: "Editorial photograph representing the concept of tire technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Tire Technology?
 
-Tire technology is the engineering discipline focused on designing, manufacturing, and optimizing pneumatic tires for vehicles. It spans rubber chemistry, structural engineering, tread design, and materials science — all working together to keep roughly 1.4 billion vehicles on the road connected to the ground through four palm-sized contact patches.
+Tire technology is the engineering discipline focused on designing, manufacturing, and optimizing pneumatic tires for vehicles. It spans rubber chemistry, [structural engineering](/structural-engineering), tread design, and [materials science](/materials-science) — all working together to keep roughly 1.4 billion vehicles on the road connected to the ground through four palm-sized contact patches.
 
 ## The Only Thing Between You and the Road
 
@@ -61,7 +61,7 @@ The jump to automobiles happened fast. By 1895, Andre and Edouard Michelin fitte
 
 ### The Radial Revolution
 
-For the first half of the 20th century, tires used bias-ply construction. The internal fabric layers (plies) ran diagonally across the tire, crisscrossing at roughly 30-degree angles. This made tires stiff and somewhat bouncy. They also generated a lot of heat at highway speeds, which shortened their lifespan.
+For the first half of the 20th century, tires used bias-ply [construction](/construction). The internal fabric layers (plies) ran diagonally across the tire, crisscrossing at roughly 30-degree angles. This made tires stiff and somewhat bouncy. They also generated a lot of heat at highway speeds, which shortened their lifespan.
 
 Michelin introduced the radial tire in 1946. Instead of diagonal plies, radial tires have cord layers running perpendicular to the direction of travel (from bead to bead), with additional steel belts running around the circumference. This design lets the sidewall flex independently of the tread — the tread stays flat on the road even during cornering, and the sidewall absorbs bumps without affecting the contact patch.
 
@@ -202,7 +202,7 @@ Tires present a serious environmental challenge. Globally, about 1 billion tires
 
 - **Tire-derived fuel**: About 40% are burned for energy in cement kilns and power plants. Tires have a higher energy content than coal — about 15,000 BTUs per pound.
 - **Ground rubber**: About 25% are shredded into crumb rubber for playground surfaces, athletic tracks, and rubberized asphalt.
-- **Civil engineering**: About 10% are used whole in retaining walls, breakwaters, and erosion control.
+- **[Civil engineering](/civil-engineering)**: About 10% are used whole in retaining walls, breakwaters, and erosion control.
 - **Landfill**: Despite regulations, roughly 15% still end up in landfills or stockpiles.
 
 Then there's tire wear. As tires roll, they shed tiny particles of rubber. Research published in the journal *Nature Communications* in 2020 estimated that tire wear generates about 6 million tons of particles globally per year. These microplastics enter waterways, soil, and eventually the ocean. Some studies suggest tire wear particles are the largest single source of microplastic pollution in the ocean — bigger than synthetic clothing fibers or plastic bag fragments.
@@ -219,6 +219,6 @@ The tire industry is evolving faster right now than at any point since the radia
 
 **Sustainable materials** will increasingly replace petroleum-based components. The race to develop viable alternatives to traditional synthetic rubber — from dandelion rubber to bio-based butadiene — is accelerating, driven by both regulation and consumer demand.
 
-**Electric vehicle optimization** is reshaping tire design. EVs are heavier than equivalent combustion vehicles (battery weight), deliver instant torque (which accelerates tread wear), and demand lower rolling resistance for maximum range. Tire makers are developing EV-specific models with reinforced sidewalls, low-noise tread patterns, and compounds optimized for the unique demands of electric powertrains.
+**Electric vehicle [optimization](/optimization)** is reshaping tire design. EVs are heavier than equivalent combustion vehicles (battery weight), deliver instant torque (which accelerates tread wear), and demand lower rolling resistance for maximum range. Tire makers are developing EV-specific models with reinforced sidewalls, low-noise tread patterns, and compounds optimized for the unique demands of electric powertrains.
 
 The humble tire — something most people think about only when it goes flat — is actually one of the most sophisticated engineered products you interact with daily. Every time you drive to the grocery store, four patches of incredibly optimized rubber are keeping you connected to the road, managing forces, shedding water, and absorbing impacts. And the technology behind them keeps getting better.

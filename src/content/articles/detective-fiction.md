@@ -5,7 +5,7 @@ description: "Detective fiction is a genre centered on solving crimes through in
 category: arts-amp-culture
 tags: ["detective fiction", "arts-amp-culture"]
 heroImage: "/images/articles/detective-fiction.webp"
-heroAlt: "A magnifying glass resting on an open mystery novel beside a dim desk lamp"
+heroAlt: "Editorial photograph representing the concept of detective fiction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,15 +43,15 @@ Arthur Conan Doyle's Sherlock Holmes, beginning with *A Study in Scarlet* (1887)
 
 The 1920s-1940s are called detective fiction's Golden Age, dominated by British writers who treated murder as an elegant intellectual puzzle.
 
-**Agatha Christie** is the best-selling novelist of all time (behind only Shakespeare and the Bible). Her detectives — Hercule Poirot and Miss Marple — solved crimes through psychological insight rather than physical investigation. *And Then There Were None* (1939) has sold over 100 million copies. *The Murder of Roger Ackroyd* (1926) features a twist so audacious that it still sparks debate.
+**Agatha Christie** is the best-selling novelist of all time (behind only Shakespeare and the Bible). Her detectives — Hercule Poirot and Miss Marple — solved crimes through psychological insight rather than physical investigation. *And Then There Were None* (1939) has sold over 100 million copies. *The Murder of Roger Ackroyd* (1926) features a twist so audacious that it still sparks [debate](/debate).
 
 **Dorothy L. Sayers** created Lord Peter Wimsey, an aristocratic detective whose mysteries combined puzzle-solving with serious literary ambition. **Ellery Queen** (the joint pseudonym of cousins Frederic Dannay and Manfred Bennington Lee) challenged readers directly, pausing before the solution with a "Challenge to the Reader" section.
 
-The Golden Age established the "fair play" tradition — all clues necessary to solve the mystery must be available to the reader. The mystery should be solvable, at least in retrospect. This contract between author and reader distinguishes classical detective fiction from other crime writing.
+The Golden Age established the "fair play" tradition — all clues necessary to solve the mystery must be available to the reader. The mystery should be solvable, at least in retrospect. This contract between author and reader distinguishes classical detective fiction from other crime [writing](/writing).
 
 ## The Hard-Boiled Alternative
 
-While British writers were crafting elegant drawing-room puzzles, American writers developed something grittier.
+While British writers were crafting elegant [drawing](/drawing)-room puzzles, American writers developed something grittier.
 
 **Dashiell Hammett** (*The Maltese Falcon*, 1930) and **Raymond Chandler** (*The Big Sleep*, 1939) created the hard-boiled detective — a cynical, tough, morally ambiguous investigator working in a corrupt urban world. Their detectives (Sam Spade, Philip Marlowe) weren't drawing-room intellectuals. They got punched, shot at, and disillusioned. The crimes weren't puzzles to solve but symptoms of a sick society.
 
@@ -67,7 +67,7 @@ Contemporary detective fiction has expanded far beyond its Anglo-American origin
 
 **Domestic noir** (Gillian Flynn, Paula Hawkins) places crime within intimate relationships — marriages, families, friendships. *Gone Girl* (2012) became a cultural phenomenon by making the detective story personal and deeply uncomfortable.
 
-**Diverse voices** are reshaping the genre. Walter Mosley's Easy Rawlins series explores mid-century Black Los Angeles through crime fiction. Attica Locke's Texas-set mysteries examine racial politics. S.A. Cosby writes rural Southern noir featuring Black protagonists. These writers expand what detective fiction can say and who it speaks to.
+**Diverse voices** are reshaping the genre. Walter Mosley's Easy Rawlins series explores mid-century Black Los Angeles through crime fiction. Attica Locke's Texas-set mysteries examine racial [politics](/politics). S.A. Cosby writes rural Southern noir featuring Black protagonists. These writers expand what detective fiction can say and who it speaks to.
 
 ## Why We Love Mysteries
 
@@ -83,6 +83,6 @@ Detective fiction satisfies several deep psychological needs.
 
 ## The Enduring Appeal
 
-Detective fiction is the most popular fiction genre globally, accounting for roughly 25% of all fiction sales. The format has proven endlessly adaptable — from Victorian London to contemporary Tokyo, from cozy village mysteries to gritty urban crime sagas, from locked-room puzzles to psychological thrillers.
+Detective fiction is the most popular fiction genre globally, [accounting](/accounting) for roughly 25% of all fiction [sales](/sales). The format has proven endlessly adaptable — from Victorian London to contemporary Tokyo, from cozy village mysteries to gritty urban crime sagas, from locked-room puzzles to psychological thrillers.
 
 The fundamental appeal hasn't changed since Poe: something is wrong. Someone must figure out what happened. And the reader gets to watch — and participate — as the truth emerges. That's a simple formula, and after nearly two centuries, it shows no signs of wearing out.

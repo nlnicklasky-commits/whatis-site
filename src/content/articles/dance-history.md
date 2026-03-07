@@ -5,7 +5,7 @@ description: "Dance history traces the evolution of dance forms across cultures 
 category: arts-amp-culture
 tags: ["dance history", "arts-amp-culture"]
 heroImage: "/images/articles/dance-history.webp"
-heroAlt: "Historical illustrations showing different dance forms from various eras side by side"
+heroAlt: "Editorial photograph representing the concept of dance history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ Dance history is the study of how [dance](/dance) has developed, transformed, an
 
 ## Before Written Records
 
-Dance is almost certainly older than agriculture, older than pottery, older than any form of art that leaves physical traces. We know this because every human society dances, and because the neurological capacity for rhythmic movement appears to be hardwired. The urge to move together in time preceded civilization.
+Dance is almost certainly older than [agriculture](/agriculture), older than pottery, older than any form of art that leaves physical traces. We know this because every human society dances, and because the neurological capacity for rhythmic movement appears to be hardwired. The urge to move together in time preceded civilization.
 
-The earliest physical evidence comes from cave paintings. The Bhimbetka rock shelters in India (roughly 9,000 years old) show figures in what appear to be dance formations. Egyptian tomb paintings (3000 BC onward) depict dancers at banquets, funerals, and religious ceremonies. Ancient Greek pottery shows dancers in elaborate formations, and the Greeks considered dance a form of education — Plato wrote that the well-educated citizen should be proficient in dance.
+The earliest physical evidence comes from cave paintings. The Bhimbetka rock shelters in India (roughly 9,000 years old) show figures in what appear to be dance formations. Egyptian tomb paintings (3000 BC onward) depict dancers at banquets, funerals, and religious ceremonies. Ancient Greek pottery shows dancers in elaborate formations, and the Greeks considered dance a form of [education](/education) — Plato wrote that the well-educated citizen should be proficient in dance.
 
 ## Court Dance and the Birth of Ballet
 
@@ -47,7 +47,7 @@ In medieval and Renaissance Europe, dance moved from peasant celebrations to ari
 
 Ballet technique developed over centuries. Pierre Beauchamp codified the five basic positions. Jean-Georges Noverre advocated for "ballet d'action" — ballet that told stories through movement rather than just displaying technique. By the 19th century, the Romantic ballet era produced *Giselle* (1841) and *Swan Lake* (1877), establishing the art form's most enduring works.
 
-## The Modern Dance Revolution
+## The [Modern Dance](/modern-dance) Revolution
 
 By 1900, some dancers felt that ballet had become rigid, elitist, and disconnected from genuine human emotion. They rebelled.
 
@@ -55,7 +55,7 @@ By 1900, some dancers felt that ballet had become rigid, elitist, and disconnect
 
 **Martha Graham** (1894-1991) developed the first fully codified modern dance technique. Her method centered on contraction and release — the breath-driven movement of the torso that became modern dance's answer to ballet's turnout. Graham's company, founded in 1926, remains active. Her choreographic works (*Appalachian Spring*, *Lamentation*, *Night Journey*) are masterpieces that defined American concert dance.
 
-**Merce Cunningham** (1919-2009) pushed further, separating dance from music and narrative. His collaborations with composer John Cage used chance procedures — flipping coins to determine choreographic sequences. The result was dance freed from storytelling, valued purely for its movement qualities.
+**Merce Cunningham** (1919-2009) pushed further, separating dance from music and narrative. His collaborations with composer John Cage used chance procedures — flipping coins to determine choreographic sequences. The result was dance freed from [storytelling](/storytelling), valued purely for its movement qualities.
 
 ## Social Dance Revolutions
 
@@ -71,7 +71,7 @@ The **waltz** was scandalous when it emerged in Vienna around 1780 — the first
 
 ## Dance on Screen
 
-Film and television transformed dance's reach and aesthetics. Fred Astaire and Ginger Rogers brought ballroom elegance to Depression-era audiences. Gene Kelly added athletic dynamism. Bob Fosse created a film dance style — angular, isolated, darkly sexual — that influenced decades of music videos.
+Film and television transformed dance's reach and [aesthetics](/aesthetics). Fred Astaire and Ginger Rogers brought ballroom elegance to Depression-era audiences. Gene Kelly added athletic dynamism. Bob Fosse created a film dance style — angular, isolated, darkly sexual — that influenced decades of music videos.
 
 *Flashdance* (1983), *Dirty Dancing* (1987), and *Step Up* (2006) made dance movies a reliable commercial genre. Television competitions (*So You Think You Can Dance*, *Dancing with the Stars*, *World of Dance*) brought diverse dance styles to mainstream audiences.
 
@@ -79,7 +79,7 @@ Music videos became the primary vehicle for popular dance from the 1980s onward.
 
 ## Preserving the Ephemeral
 
-Dance history faces a unique challenge: dance is ephemeral. Unlike [music](/music-history) (which has notation), painting (which has canvases), and literature (which has books), dance vanishes the moment the dancer stops moving.
+Dance history faces a unique challenge: dance is ephemeral. Unlike [music](/music-history) (which has notation), [painting](/painting) (which has canvases), and [literature](/literature) (which has books), dance vanishes the moment the dancer stops moving.
 
 Before film, dances were preserved through notation systems — Beauchamp-Feuillet notation (1700), Laban notation (1928), and Benesh notation (1955). These systems encode movement on paper, but learning to read them requires specialized training, and they can't capture the subtle qualities of individual performers.
 

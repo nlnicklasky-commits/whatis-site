@@ -5,7 +5,7 @@ description: "Restaurant management is the practice of running a food service bu
 category: business
 tags: ["hospitality", "restaurant management", "food service"]
 heroImage: "/images/articles/restaurant-management.webp"
-heroAlt: "A busy restaurant kitchen during dinner service with chefs plating dishes under warm lighting"
+heroAlt: "Editorial photograph representing the concept of restaurant management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
     a: "No degree is strictly required — many successful restaurant managers worked their way up from entry-level positions. However, degrees in hospitality management, business administration, or culinary arts can accelerate career growth. The Bureau of Labor Statistics notes that employers increasingly prefer candidates with postsecondary education, especially for positions at larger establishments or chain restaurants."
 ---
 
-# What Is Restaurant Management?
+# What Is Restaurant [Management](/management)?
 
-Restaurant management is the business of running a food service operation — everything from hiring cooks and setting menu prices to keeping bathrooms clean and responding to one-star Yelp reviews. It's one of the most demanding management jobs in any industry, requiring a mix of financial savvy, people skills, operational precision, and the ability to stay calm when the kitchen catches fire. Sometimes literally.
+Restaurant management is the business of [running](/running) a food service operation — everything from hiring cooks and setting menu prices to keeping bathrooms clean and responding to one-star Yelp reviews. It's one of the most demanding management jobs in any industry, requiring a mix of financial savvy, people skills, operational precision, and the ability to stay calm when the kitchen catches fire. Sometimes literally.
 
-The restaurant industry in the United States generates over $1 trillion in annual sales and employs roughly 15.5 million people, making it the nation's second-largest private employer. Behind every successful restaurant is a manager (or management team) juggling dozens of variables simultaneously — and doing it seven days a week, often for 50 to 70 hours.
+The restaurant industry in the United States generates over $1 trillion in annual sales and employs roughly 15.5 million people, making it the nation's second-largest private employer. Behind every successful restaurant is a manager (or management team) [juggling](/juggling) dozens of variables simultaneously — and doing it seven days a week, often for 50 to 70 hours.
 
 ## The Financial Reality
 
@@ -45,13 +45,13 @@ The average profit margin for a full-service restaurant ranges from 3% to 9%. Th
 
 Three major costs eat up most of that revenue:
 
-**Food costs** typically run 28-35% of revenue. This is the cost of every ingredient that goes into every dish. A $20 pasta plate might contain $6 worth of ingredients. Managing food cost means controlling portions, negotiating vendor prices, minimizing waste, and engineering the menu so that high-profit and low-profit items balance out.
+**Food costs** typically run 28-35% of revenue. This is the cost of every ingredient that goes into every dish. A $20 pasta plate might contain $6 worth of ingredients. Managing food cost means controlling portions, negotiating vendor prices, minimizing waste, and [engineering](/engineering) the menu so that high-profit and low-profit items balance out.
 
-**Labor costs** consume another 25-35%. This includes wages, benefits, payroll taxes, and workers' compensation insurance. The tight labor market since 2020 has pushed wages up significantly — the average hourly wage for restaurant workers increased over 25% between 2019 and 2023. Managing labor means careful scheduling, cross-training staff, and minimizing overtime without understaffing during rush periods.
+**Labor costs** consume another 25-35%. This includes wages, benefits, payroll taxes, and workers' compensation [insurance](/insurance). The tight labor market since 2020 has pushed wages up significantly — the average hourly wage for restaurant workers increased over 25% between 2019 and 2023. Managing labor means careful [scheduling](/scheduling), cross-training staff, and minimizing overtime without understaffing during rush periods.
 
 **Occupancy costs** — rent, utilities, insurance, property taxes — take another 6-10%. In expensive urban markets, rent alone can consume 10% or more of revenue.
 
-Add those up and you're already at 59-80% of revenue before accounting for marketing, supplies, repairs, technology, credit card processing fees, and the endless small expenses that accumulate. The math explains why 60% of restaurants close within their first year. There's almost no room for error.
+Add those up and you're already at 59-80% of revenue before [accounting](/accounting) for [marketing](/marketing), supplies, repairs, technology, credit card processing fees, and the endless small expenses that accumulate. The math explains why 60% of restaurants close within their first year. There's almost no room for error.
 
 ## Operations: Where It All Happens
 
@@ -91,7 +91,7 @@ Every menu item falls into one of four categories:
 - **Puzzles** — Low popularity, high profitability. Each sale is great for your margins, but not enough people order them. Better menu placement, server recommendations, or renaming can help.
 - **Dogs** — Low popularity, low profitability. Consider removing them unless they fill a necessary niche (a kid's menu item, a dietary accommodation).
 
-Menu psychology matters too. Where an item appears on the menu affects how likely people are to order it. Eye-tracking studies show that diners look at the upper-right area of a two-panel menu first. Removing dollar signs from prices increases average spending — $24 feels less like "money" than $24.00. Descriptions with sensory language ("slow-braised," "hand-pulled," "wood-fired") increase sales by 27% compared to plain descriptions, according to research from the University of Illinois.
+Menu [psychology](/psychology) matters too. Where an item appears on the menu affects how likely people are to order it. Eye-tracking studies show that diners look at the upper-right area of a two-panel menu first. Removing dollar signs from prices increases average spending — $24 feels less like "money" than $24.00. Descriptions with sensory language ("slow-braised," "hand-pulled," "wood-fired") increase sales by 27% compared to plain descriptions, according to research from the University of Illinois.
 
 ## Staffing: The Perpetual Challenge
 
@@ -121,7 +121,7 @@ The technology stack for a modern restaurant has expanded dramatically:
 
 **Reservation and table management** platforms (OpenTable, Resy, Yelp Reservations) manage bookings, predict no-shows, and optimize seating. Some use AI to estimate dining duration and maximize table turns.
 
-**Inventory management** software tracks ingredient usage, alerts managers when stocks are low, and can automatically generate purchase orders. This reduces both waste (from over-ordering) and shortages (from under-ordering).
+**[Inventory management](/inventory-management)** software tracks ingredient usage, alerts managers when stocks are low, and can automatically generate purchase orders. This reduces both waste (from over-ordering) and shortages (from under-ordering).
 
 ## What Makes Restaurants Succeed
 

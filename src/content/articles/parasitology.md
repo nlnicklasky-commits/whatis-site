@@ -5,7 +5,7 @@ description: "Parasitology studies parasites and their hosts. Learn about the ma
 category: science
 tags: ["parasitology", "parasites", "infectious diseases", "epidemiology", "public health", "biology", "protozoa"]
 heroImage: "/images/articles/parasitology-hero.webp"
-heroAlt: "Microscopic view of a parasitic organism with labeled anatomical structures"
+heroAlt: "Editorial photograph representing the concept of parasitology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -127,7 +127,7 @@ Diagnosing parasitic infections ranges from straightforward to maddeningly diffi
 
 ### Diagnostic Methods
 
-**Microscopy** remains the gold standard for many parasitic infections. Examining blood smears for malaria parasites, stool samples for helminth eggs, or skin biopsies for microfilariae requires experienced microscopists and basic laboratory equipment — which is why it works in resource-limited settings where many parasitic diseases are most common.
+**[Microscopy](/microscopy)** remains the gold standard for many parasitic infections. Examining blood smears for malaria parasites, stool samples for helminth eggs, or skin biopsies for microfilariae requires experienced microscopists and basic laboratory equipment — which is why it works in resource-limited settings where many parasitic diseases are most common.
 
 **Serology** (detecting antibodies against parasites in blood) is useful for infections where parasites aren't readily visible, but antibodies can persist long after infection clears, making it difficult to distinguish past from current infections.
 
@@ -151,9 +151,9 @@ Drug resistance is a persistent worry. Parasites evolve resistance to drugs just
 
 Controlling parasitic diseases requires more than drugs. Successful programs integrate multiple approaches.
 
-**Vector control** targets the insects that transmit parasites. Insecticide-treated bed nets and indoor residual spraying have dramatically reduced malaria transmission in many regions. Biological control methods, environmental management (draining standing water), and genetic approaches (releasing sterile or genetically modified mosquitoes) complement chemical approaches.
+**Vector control** targets the insects that transmit parasites. Insecticide-treated bed nets and indoor residual spraying have dramatically reduced malaria transmission in many regions. Biological control methods, environmental [management](/management) (draining standing water), and genetic approaches (releasing sterile or genetically modified mosquitoes) complement chemical approaches.
 
-**Water and sanitation** improvements break transmission cycles of waterborne parasites like Schistosoma, Giardia, and Guinea worm. The near-eradication of Guinea worm — from 3.5 million cases in 1986 to 14 in 2023 — was achieved primarily through water filtration and health education, without any drug or vaccine.
+**Water and sanitation** improvements break transmission cycles of waterborne parasites like Schistosoma, Giardia, and Guinea worm. The near-eradication of Guinea worm — from 3.5 million cases in 1986 to 14 in 2023 — was achieved primarily through water filtration and health [education](/education), without any drug or vaccine.
 
 **Mass drug administration** (MDA) treats entire at-risk populations regardless of individual infection status. This approach has been used successfully against lymphatic filariasis, onchocerciasis, and soil-transmitted helminths. The London Declaration on Neglected Tropical Diseases (2012) committed pharmaceutical companies to donating billions of treatment doses.
 
@@ -181,4 +181,4 @@ The push to eliminate specific parasitic diseases — including malaria, lymphat
 
 ## Key Takeaways
 
-Parasitology is the study of organisms that live on or inside other organisms at the host's expense. It covers protozoa (malaria, sleeping sickness, toxoplasmosis), helminths (worms including roundworms, flukes, and tapeworms), and ectoparasites (ticks, lice, fleas). Parasitic diseases affect billions of people worldwide, particularly in tropical regions, causing enormous suffering and economic damage. The field's complexity — from intricate multi-host life cycles to sophisticated immune evasion strategies — makes parasitology one of biology's most challenging and rewarding disciplines. Progress in control and elimination depends on integrated approaches combining drugs, vaccines, vector control, sanitation, and sustained public health investment.
+Parasitology is the study of organisms that live on or inside other organisms at the host's expense. It covers protozoa (malaria, sleeping sickness, toxoplasmosis), helminths (worms including roundworms, flukes, and tapeworms), and ectoparasites (ticks, lice, fleas). Parasitic diseases affect billions of people worldwide, particularly in tropical regions, causing enormous suffering and economic damage. The field's complexity — from intricate multi-host life cycles to sophisticated immune evasion strategies — makes parasitology one of biology's most challenging and rewarding disciplines. Progress in control and elimination depends on integrated approaches combining drugs, vaccines, vector control, sanitation, and sustained [public health](/public-health) investment.

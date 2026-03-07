@@ -5,7 +5,7 @@ description: "Cryptozoology studies animals whose existence is unproven, like Bi
 category: everyday-concepts
 tags: ["cryptozoology", "cryptids", "bigfoot", "loch ness monster", "yeti", "pseudoscience"]
 heroImage: "/images/articles/cryptozoology.webp"
-heroAlt: "A misty forest scene evoking the mystery of undiscovered creatures"
+heroAlt: "Editorial photograph representing the concept of cryptozoology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Cryptozoology is the study of animals whose existence has not been proven by mai
 
 ## The Name and the Concept
 
-The term was coined by Belgian-French zoologist Bernard Heuvelmans in the late 1950s, from the Greek "kryptos" (hidden) and "zoology" (study of animals). Heuvelmans argued that the world's oceans, forests, and mountains were vast enough to harbor species unknown to Western science. His 1955 book *On the Track of Unknown Animals* became the field's foundational text.
+The term was coined by Belgian-French zoologist Bernard Heuvelmans in the late 1950s, from the Greek "kryptos" (hidden) and "[zoology](/zoology)" (study of animals). Heuvelmans argued that the world's oceans, forests, and mountains were vast enough to harbor species unknown to Western science. His 1955 book *On the Track of Unknown Animals* became the field's foundational text.
 
 The basic premise isn't crazy. Scientists describe roughly 15,000 new species each year. In 2003, a new species of beaked whale was identified. In 2017, a new orangutan species was confirmed in Sumatra. The oceans remain largely unexplored below a few hundred meters. The idea that unknown large animals might exist somewhere isn't inherently absurd.
 
@@ -43,7 +43,7 @@ The problem is the gap between "unknown species might exist" and "Bigfoot is rea
 
 ## The Greatest Hits
 
-**Bigfoot / Sasquatch:** A large, bipedal, ape-like creature supposedly inhabiting the forests of the Pacific Northwest and other North American regions. The most famous evidence is the 1967 Patterson-Gimlin film, showing a large figure walking through a California forest clearing. Debate over the film's authenticity continues — believers consider it compelling; skeptics point to the suspiciously human-like gait and the fact that no body, bones, or definitive DNA evidence has ever been recovered despite millions of hikers, hunters, and trail cameras covering the same territory.
+**Bigfoot / Sasquatch:** A large, bipedal, ape-like creature supposedly inhabiting the forests of the Pacific Northwest and other North American regions. The most famous evidence is the 1967 Patterson-Gimlin film, showing a large figure [walking](/walking) through a California forest clearing. [Debate](/debate) over the film's authenticity continues — believers consider it compelling; skeptics point to the suspiciously human-like gait and the fact that no body, bones, or definitive DNA evidence has ever been recovered despite millions of hikers, hunters, and trail cameras covering the same territory.
 
 **Loch Ness Monster:** Allegedly inhabiting Scotland's Loch Ness, "Nessie" is typically described as a large, long-necked creature, sometimes compared to a plesiosaur (a marine reptile that went extinct 66 million years ago). The famous 1934 "Surgeon's Photograph" was revealed as a hoax in 1994. Multiple sonar surveys and a thorough 2019 environmental DNA study found no evidence of any large unknown animal in the loch — though the eDNA study did detect significant quantities of eel DNA, suggesting unusually large eels might explain some sightings.
 
@@ -55,7 +55,7 @@ The problem is the gap between "unknown species might exist" and "Bigfoot is rea
 
 The persistence of cryptid belief, despite the lack of evidence, reveals interesting things about human [psychology](/critical-thinking).
 
-**Pattern recognition overdrive.** Our brains are wired to detect agents and threats in ambiguous stimuli. A shadow in the forest, a wake on a lake surface, an unusual sound at night — the brain's default is to interpret ambiguous input as a potential creature rather than nothing at all. False positives were evolutionarily cheap; false negatives were potentially fatal.
+**[Pattern recognition](/pattern-recognition) overdrive.** Our brains are wired to detect agents and threats in ambiguous stimuli. A shadow in the forest, a wake on a lake surface, an unusual sound at night — the brain's default is to interpret ambiguous input as a potential creature rather than nothing at all. False positives were evolutionarily cheap; false negatives were potentially fatal.
 
 **Cultural reinforcement.** Every culture has stories of mysterious creatures in the wilderness. These stories shape expectations, which shape perception. If you enter the Pacific Northwest forest expecting to see Bigfoot, you're more likely to interpret ambiguous sights and sounds as Bigfoot-related.
 
@@ -69,7 +69,7 @@ Mainstream [biology](/biology) is skeptical of cryptozoology for straightforward
 
 **Breeding populations.** A single Bigfoot or Nessie can't exist — species require breeding populations to survive. A viable population of large primates would need at least several hundred individuals, all somehow avoiding detection by cameras, hunters, hikers, and wildlife biologists for over a century.
 
-**Physical evidence.** Large animals leave physical evidence — bones, teeth, fur, feces, kills, nests, tracks. Despite millions of trail cameras deployed across North America and extensive surveying of Loch Ness, no definitive physical evidence of any major cryptid has been recovered.
+**Physical evidence.** Large animals leave physical evidence — bones, teeth, fur, feces, kills, nests, tracks. Despite millions of trail cameras deployed across North America and extensive [surveying](/surveying) of Loch Ness, no definitive physical evidence of any major cryptid has been recovered.
 
 **Ecological requirements.** A population of large primates in the Pacific Northwest would need an enormous food supply and would leave observable ecological impacts. No such impacts have been documented.
 

@@ -5,7 +5,7 @@ description: "The Viennese waltz is a fast, elegant ballroom dance in 3/4 time. 
 category: arts-amp-culture
 tags: ["viennese waltz", "ballroom dance", "dance", "waltz", "classical music", "performing arts"]
 heroImage: "/images/articles/viennese-waltz.webp"
-heroAlt: "Elegantly dressed couple performing a Viennese waltz in a grand ballroom with chandeliers"
+heroAlt: "Editorial photograph representing the concept of viennese waltz"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Viennese Waltz?
 
-The Viennese waltz is a fast, spinning ballroom dance performed in 3/4 time at roughly 180 beats per minute. It's the original waltz — the one that scandalized 18th-century Europe, launched a music dynasty (the Strauss family), and remains one of the most elegant and physically demanding ballroom dances. If you've seen footage of couples sweeping across a grand ballroom floor at the Vienna Opera Ball, that's Viennese waltz.
+The Viennese waltz is a fast, spinning ballroom [dance](/dance) performed in 3/4 time at roughly 180 beats per minute. It's the original waltz — the one that scandalized 18th-century Europe, launched a music dynasty (the Strauss family), and remains one of the most elegant and physically demanding ballroom dances. If you've seen footage of couples sweeping across a grand ballroom floor at the Vienna [Opera](/opera) Ball, that's Viennese waltz.
 
 ## The Dance That Shocked Europe
 
@@ -53,7 +53,7 @@ The Viennese waltz is structurally simple — far simpler than most ballroom dan
 
 **Change steps** — Transitional steps that allow the couple to switch between natural and reverse turns without breaking flow.
 
-That's essentially it. The Viennese waltz uses fewer figures than any other competitive ballroom dance. The simplicity is deceptive — executing these figures at speed, maintaining frame, staying on balance, and moving in harmony with a partner and the other couples on the floor is extraordinarily demanding.
+That's essentially it. The Viennese waltz uses fewer figures than any other competitive ballroom dance. The simplicity is deceptive — executing these figures at speed, maintaining frame, staying on balance, and moving in [harmony](/harmony) with a partner and the other couples on the floor is extraordinarily demanding.
 
 **The frame** — Partners maintain a closed hold with significant physical connection through the upper body. The man's right hand sits on the woman's left shoulder blade. Her left hand rests on his upper arm. Their joined hands extend to the side. This frame must stay stable through continuous rotation at high speed — any collapse in frame throws off the entire partnership.
 
@@ -75,7 +75,7 @@ The event embodies a specifically Viennese cultural identity. In a city that pro
 
 ## Competitive Viennese Waltz
 
-In competitive ballroom dancing, the Viennese waltz is one of the five Standard (or "Ballroom") dances, alongside the waltz, tango, foxtrot, and quickstep. It's considered one of the more challenging competitive dances despite its limited figure vocabulary.
+In competitive [ballroom dancing](/ballroom-dancing), the Viennese waltz is one of the five Standard (or "Ballroom") dances, alongside the waltz, tango, foxtrot, and quickstep. It's considered one of the more challenging competitive dances despite its limited figure vocabulary.
 
 The challenge lies in continuous rotation at high speed while maintaining impeccable frame, balance, and floor craft (navigating around other couples). Competitive couples cover the entire ballroom floor in sweeping counterclockwise circuits, with their rotation occurring within that larger orbit — it's rotation within rotation, and the spatial awareness required is significant.
 

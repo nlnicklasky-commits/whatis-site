@@ -5,7 +5,7 @@ description: "Speed reading is a set of techniques for reading faster while reta
 category: everyday-concepts
 tags: ["speed reading", "reading", "literacy", "study skills", "productivity", "learning"]
 heroImage: "/images/articles/speed-reading.webp"
-heroAlt: "An open book with pages fanning out quickly suggesting rapid reading motion"
+heroAlt: "Editorial photograph representing the concept of speed reading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Speed Reading?
 
-Speed reading refers to a collection of techniques designed to increase reading speed beyond the normal 200-300 words per minute that most adults manage. The practice has been promoted since the 1950s, when Evelyn Wood — a schoolteacher from Utah — claimed she could read at 2,700 words per minute and began teaching her methods commercially. Since then, speed reading has been a fixture of self-improvement culture, promising that you can read three, five, or even ten times faster with the right techniques.
+Speed reading refers to a collection of techniques designed to increase reading speed beyond the normal 200-300 words per minute that most adults manage. The practice has been promoted since the 1950s, when Evelyn Wood — a schoolteacher from Utah — claimed she could read at 2,700 words per minute and began [teaching](/teaching) her methods commercially. Since then, speed reading has been a fixture of self-improvement culture, promising that you can read three, five, or even ten times faster with the right techniques.
 
 Here's the honest version: some speed reading principles genuinely help. Others are scientifically questionable at best. And the most extreme claims — reading 1,000+ words per minute with full comprehension — are almost certainly impossible, based on what we know about how the human visual system and brain process text.
 
@@ -59,7 +59,7 @@ The bottleneck isn't your eyes — it's your brain. Language processing takes ti
 
 The review found that the average college-educated reader can't exceed about 500-600 words per minute with genuine comprehension of moderately complex text. Beyond that, comprehension drops predictably. People who claim to read at 1,000+ wpm are almost certainly skimming — getting the gist but missing details, nuance, and inferential connections.
 
-That said, many people read slower than they need to. The same research suggests that most adults can improve their reading speed by 20-50% through better attention management, vocabulary development, and practice. That's not the tenfold improvement speed reading courses promise, but it's real and meaningful.
+That said, many people read slower than they need to. The same research suggests that most adults can improve their reading speed by 20-50% through better attention [management](/management), vocabulary development, and practice. That's not the tenfold improvement speed reading courses promise, but it's real and meaningful.
 
 ## What Actually Helps
 

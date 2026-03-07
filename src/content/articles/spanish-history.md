@@ -5,7 +5,7 @@ description: "Spanish history covers millennia of invasions, empires, and cultur
 category: history
 tags: ["spanish history", "spain", "european history", "reconquista"]
 heroImage: "/images/articles/spanish-history.webp"
-heroAlt: "View of the Alhambra palace in Granada with the Sierra Nevada mountains behind"
+heroAlt: "Editorial photograph representing the concept of spanish history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The Iberian Peninsula has been inhabited for a very long time. The cave painting
 
 The Celts moved into the northern and central parts of the peninsula, mixing with the indigenous Iberians to create the Celtiberian culture. Carthage controlled much of the south and east — Cartagena, in southeastern Spain, is literally named after Carthage.
 
-Then Rome showed up. The Second Punic War (218-201 BCE) brought Roman legions to Iberia, and over the next two centuries, Rome gradually conquered the entire peninsula. They called it Hispania — which is where "Spain" comes from. Roman rule lasted roughly 600 years and left behind roads, aqueducts, Latin (which evolved into Spanish, Catalan, Galician, and Portuguese), Roman law, and Christianity.
+Then Rome showed up. The Second Punic War (218-201 BCE) brought Roman legions to Iberia, and over the next two centuries, Rome gradually conquered the entire peninsula. They called it Hispania — which is where "Spain" comes from. Roman rule lasted roughly 600 years and left behind roads, aqueducts, Latin (which evolved into Spanish, Catalan, Galician, and Portuguese), [Roman law](/roman-law), and [Christianity](/christianity).
 
 When the Western Roman Empire collapsed in the 5th century, Germanic tribes — the Visigoths chief among them — filled the vacuum. The Visigothic Kingdom ruled most of Iberia from roughly 500 to 711 CE, adopting Catholicism and Roman legal traditions.
 
@@ -63,7 +63,7 @@ The Christian kingdoms of northern Spain — Castile, Aragon, Leon, Navarre, Por
 
 But the trend line was clear. Key moments include the Battle of Las Navas de Tolosa (1212), which broke Almohad power, and the union of Castile and Aragon through the marriage of Isabella I and Ferdinand II in 1469. This power couple — known as the Catholic Monarchs — completed the Reconquista by conquering Granada, the last Muslim kingdom on the peninsula, on January 2, 1492.
 
-That same year, 1492, was extraordinarily consequential. The Catholic Monarchs expelled Spain's Jewish population (the Alhambra Decree), and Christopher Columbus, sailing under the Spanish flag, reached the Americas. Spain was about to become the most powerful country in the world.
+That same year, 1492, was extraordinarily consequential. The Catholic Monarchs expelled Spain's Jewish population (the Alhambra Decree), and Christopher Columbus, [sailing](/sailing) under the Spanish flag, reached the Americas. Spain was about to become the most powerful country in the world.
 
 ## The Spanish Empire and the Golden Age
 
@@ -81,7 +81,7 @@ Spain's decline was long and painful. The War of the Spanish Succession (1701-17
 
 Napoleon's invasion in 1808 triggered the Peninsular War and ignited independence movements across Spanish America. Between 1810 and 1825, virtually every mainland colony in the Americas broke free. By 1898, when Spain lost Cuba, Puerto Rico, the Philippines, and Guam to the United States in the Spanish-American War, the empire was effectively finished.
 
-The 19th century in Spain was a mess — a revolving door of constitutions, civil wars (the Carlist Wars), military coups, a brief republic, and a restored monarchy. The country industrialized far more slowly than Britain, France, or Germany. Regional identities — Catalan, Basque, Galician — asserted themselves against centralizing forces from Madrid.
+The 19th century in Spain was a mess — a revolving door of constitutions, civil wars (the Carlist Wars), military coups, a brief republic, and a restored [monarchy](/monarchy). The country industrialized far more slowly than Britain, France, or Germany. Regional identities — Catalan, Basque, Galician — asserted themselves against centralizing forces from Madrid.
 
 ## The Civil War and Franco
 
@@ -95,8 +95,8 @@ Franco won. Approximately 500,000 people died in the war, and another 500,000 fl
 
 The transition to democracy after Franco's death — *La Transicion* — is remarkable for how smoothly it went. King Juan Carlos I, whom Franco had groomed as his successor, surprised nearly everyone by actively supporting democratization.
 
-The 1978 Constitution established Spain as a parliamentary monarchy with significant regional autonomy. Spain joined NATO in 1982, the European Economic Community (now the EU) in 1986, and adopted the euro in 1999. The economy boomed, particularly in construction and tourism.
+The 1978 Constitution established Spain as a parliamentary monarchy with significant regional autonomy. Spain joined NATO in 1982, the European Economic Community (now the EU) in 1986, and adopted the euro in 1999. The economy boomed, particularly in [construction](/construction) and [tourism](/tourism).
 
-The 2008 financial crisis hit Spain hard — unemployment peaked at 26% in 2013. Political tensions over Catalan independence surged in 2017, when the regional government held an unauthorized independence referendum and briefly declared independence before Madrid imposed direct rule.
+The 2008 financial crisis hit Spain hard — unemployment peaked at 26% in 2013. Political tensions over Catalan independence surged in 2017, when the regional [government](/government) held an unauthorized independence referendum and briefly declared independence before Madrid imposed direct rule.
 
 Today, Spain is the EU's fourth-largest economy, a major tourist destination (over 83 million international visitors in 2019), and a country still grappling with its complex past — from debates over Franco-era monuments to the ongoing question of how much autonomy regions like Catalonia and the Basque Country should have.

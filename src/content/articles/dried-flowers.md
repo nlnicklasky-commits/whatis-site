@@ -5,7 +5,7 @@ description: "Dried flowers are preserved blooms used in arrangements, crafts, a
 category: everyday-concepts
 tags: ["dried flowers", "everyday-concepts"]
 heroImage: "/images/articles/dried-flowers.webp"
-heroAlt: "A bouquet of dried lavender, roses, and grasses arranged in a rustic ceramic vase"
+heroAlt: "Editorial photograph representing the concept of dried flowers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Dried flowers are natural blooms that have been preserved through drying methods
 
 The dried flower revival started around 2018-2019 and accelerated during the pandemic, when people spent more time at home and fresh flower deliveries became unreliable. Instagram and Pinterest drove the trend — dried arrangements photograph beautifully in that warm, earthy, boho-adjacent style that dominates social media interiors.
 
-But the appeal goes beyond aesthetics. Dried flowers are sustainable — no water, no refrigerated transport, no weekly replacements. They're economical — a $30 dried arrangement lasts a year or more. And they're available year-round, regardless of season. A fresh peony bouquet is possible only in May-June. Dried peonies work in December.
+But the appeal goes beyond [aesthetics](/aesthetics). Dried flowers are sustainable — no water, no refrigerated transport, no weekly replacements. They're economical — a $30 dried arrangement lasts a year or more. And they're available year-round, regardless of season. A fresh peony bouquet is possible only in May-June. Dried peonies work in December.
 
 The global dried flower market reached approximately $3.4 billion in 2023 and continues growing. Farms that once sold only fresh-cut flowers now dedicate acreage to flowers specifically grown for drying. It's a genuine industry shift.
 
@@ -51,7 +51,7 @@ The upside-down position matters — it keeps stems straight and encourages peta
 
 The results are remarkable — roses keep their deep reds, [delphiniums](/gardening) retain their blues, and peonies preserve their blush pink. The downside is fragility. Silica-gel-dried flowers are more brittle than air-dried ones and need careful handling.
 
-**Pressing** creates flat, two-dimensional preserved flowers perfect for framing, card making, resin art, and herbarium collections. Place flowers between sheets of parchment or blotting paper, insert into a heavy book, stack additional weight on top, and wait 2-4 weeks. A dedicated flower press with tightening hardware produces more consistent results.
+**Pressing** creates flat, two-dimensional preserved flowers perfect for framing, [card making](/card-making), resin art, and herbarium collections. Place flowers between sheets of parchment or blotting paper, insert into a heavy book, stack additional weight on top, and wait 2-4 weeks. A dedicated flower press with tightening hardware produces more consistent results.
 
 **Glycerin preservation** replaces a plant's water with glycerin, maintaining flexibility. Mix one part glycerin with two parts hot water, place stems in the solution, and wait 2-3 weeks. Eucalyptus preserved this way stays supple and fragrant for years. The color shifts (usually to deeper, warmer tones) but the texture remains almost fresh.
 

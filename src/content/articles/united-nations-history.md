@@ -5,7 +5,7 @@ description: "United Nations history traces the founding and evolution of the UN
 category: history
 tags: ["united nations history", "un", "international relations", "peacekeeping"]
 heroImage: "/images/articles/united-nations-history.webp"
-heroAlt: "The United Nations headquarters building in New York City with member nation flags"
+heroAlt: "Editorial photograph representing the concept of united nations history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 # What Is United Nations History?
 
-The United Nations is an international organization created after World War II with one overriding goal: to stop countries from doing to each other what they'd just spent six years doing. It was founded in 1945 by 51 nations, and today it includes 193 member states — essentially every recognized country on Earth. Whether the UN has actually succeeded in its mission is one of the great ongoing debates in international relations. The answer, honestly, is "sort of."
+The United Nations is an international organization created after [World War II](/world-war-ii) with one overriding goal: to stop countries from doing to each other what they'd just spent six years doing. It was founded in 1945 by 51 nations, and today it includes 193 member states — essentially every recognized country on Earth. Whether the UN has actually succeeded in its mission is one of the great ongoing debates in [international relations](/international-relations). The answer, honestly, is "sort of."
 
 ## The League of Nations: The First Try That Failed
 
 You can't understand the UN without understanding what came before it.
 
-After World War I, U.S. President Woodrow Wilson championed the League of Nations — an international body designed to settle disputes through negotiation rather than war. The League was established in 1920 as part of the Treaty of Versailles. It had some early successes, resolving border disputes between Sweden and Finland and between Greece and Bulgaria.
+After [World War I](/world-war-i), U.S. President Woodrow Wilson championed the League of Nations — an international body designed to settle disputes through [negotiation](/negotiation) rather than war. The League was established in 1920 as part of the Treaty of Versailles. It had some early successes, resolving border disputes between Sweden and Finland and between Greece and Bulgaria.
 
 But the League had fatal weaknesses. The United States never joined — the Senate rejected the Treaty of Versailles in 1920, largely over concerns about sovereignty. Without the world's largest economy and emerging superpower, the League lacked credibility. It also had no military force and no effective way to punish aggressors.
 
@@ -73,7 +73,7 @@ The veto power of the five permanent members (the P5) is the most controversial 
 
 **The Secretariat** handles day-to-day operations, headed by the Secretary-General. The Secretary-General is often described as "the world's most impossible job" — they must advocate for international cooperation while navigating the competing interests of 193 governments. Notable Secretaries-General include Dag Hammarskjold (who died in a plane crash during a peace mission to the Congo in 1961), Kofi Annan (who won the Nobel Peace Prize in 2001), and the current holder, Antonio Guterres.
 
-**The International Court of Justice** (ICJ), based in The Hague, settles legal disputes between states. **The Economic and Social Council** (ECOSOC) coordinates economic and social work. **The Trusteeship Council** oversaw decolonization of trust territories and suspended operations in 1994 after its last trust territory (Palau) gained independence.
+**The International Court of Justice** (ICJ), based in The Hague, settles legal disputes between states. **The Economic and Social Council** (ECOSOC) coordinates economic and [social work](/social-work). **The Trusteeship Council** oversaw decolonization of trust territories and suspended operations in 1994 after its last trust territory (Palau) gained independence.
 
 ## The Cold War Years: Paralysis and Workarounds
 
@@ -87,7 +87,7 @@ Peacekeeping — which isn't actually mentioned in the Charter — became the UN
 
 ## Decolonization and the Expanding Membership
 
-One of the UN's most significant effects was accelerating decolonization. The Charter affirmed the principle of self-determination, and the General Assembly passed the Declaration on the Granting of Independence to Colonial Countries and Peoples in 1960. As colonies gained independence, they joined the UN, transforming its membership and politics.
+One of the UN's most significant effects was accelerating decolonization. The Charter affirmed the principle of self-determination, and the General Assembly passed the Declaration on the Granting of Independence to Colonial Countries and Peoples in 1960. As colonies gained independence, they joined the UN, transforming its membership and [politics](/politics).
 
 In 1945, the UN had 51 members. By 1965, it had 117. By 1990, it had 159. Today, 193. This explosion in membership shifted the General Assembly's center of gravity from the Western powers to the developing world, producing demands for a "New International Economic Order" in the 1970s and ongoing calls to reform the Security Council to reflect 21st-century realities rather than the power dynamics of 1945.
 
@@ -95,11 +95,11 @@ In 1945, the UN had 51 members. By 1965, it had 117. By 1990, it had 159. Today,
 
 The UN's record is genuinely mixed, and honest assessment requires acknowledging both extremes.
 
-**Clear successes:** The World Health Organization (a UN specialized agency) coordinated the eradication of smallpox in 1980 — arguably the greatest public health achievement in history. UNICEF has vaccinated billions of children. The UN refugee agency (UNHCR) has assisted tens of millions of displaced people. UN peacekeepers helped end conflicts in Namibia, Mozambique, El Salvador, and Cambodia.
+**Clear successes:** The World Health Organization (a UN specialized agency) coordinated the eradication of smallpox in 1980 — arguably the greatest [public health](/public-health) achievement in history. UNICEF has vaccinated billions of children. The UN refugee agency (UNHCR) has assisted tens of millions of displaced people. UN peacekeepers helped end conflicts in Namibia, Mozambique, El Salvador, and Cambodia.
 
 **Devastating failures:** The UN stood by during the Rwandan genocide in 1994, when roughly 800,000 Tutsis were killed in 100 days. Dutch UN peacekeepers in Srebrenica failed to prevent the massacre of over 8,000 Bosnian Muslim men and boys in 1995. The Oil-for-Food Programme in Iraq (1995-2003) was riddled with corruption. Sexual abuse by UN peacekeepers has been documented in multiple missions.
 
-**The gray zone:** The Universal Declaration of Human Rights (1948) set a global standard that governments routinely violate but can no longer ignore. The Paris Agreement on climate change (2015) was negotiated under UN auspices but lacks enforcement mechanisms. The UN Sustainable Development Goals set ambitious targets that most countries won't meet.
+**The gray zone:** The Universal Declaration of Human Rights (1948) set a global standard that governments routinely violate but can no longer ignore. The Paris Agreement on climate change (2015) was negotiated under UN auspices but lacks enforcement mechanisms. The UN [Sustainable Development](/sustainable-development) Goals set ambitious targets that most countries won't meet.
 
 ## Reform: Everybody Agrees It's Needed, Nobody Agrees How
 
@@ -111,6 +111,6 @@ The result is gridlock. The UN celebrated its 75th anniversary in 2020 with esse
 
 ## What the UN Actually Is
 
-The UN isn't a world government. It can't tax anyone, it can't compel anyone, and its armies are borrowed from member states who can pull them out whenever they want. It's a forum — a place where countries talk instead of fight, and where the world's problems get addressed imperfectly rather than not at all.
+The UN isn't a world [government](/government). It can't tax anyone, it can't compel anyone, and its armies are borrowed from member states who can pull them out whenever they want. It's a forum — a place where countries talk instead of fight, and where the world's problems get addressed imperfectly rather than not at all.
 
 Is that enough? Probably not. But compare it to the alternative: the League of Nations died, and what followed was the deadliest war in human history. The UN has survived for 80 years, and for all its flaws, a third world war hasn't happened. That's not nothing. It's just not everything.

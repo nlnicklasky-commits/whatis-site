@@ -5,7 +5,7 @@ description: "Film direction is the art of guiding a movie's creative vision, fr
 category: everyday-concepts
 tags: ["film direction", "filmmaking", "cinema", "directing", "movies", "storytelling"]
 heroImage: "/images/articles/film-direction.webp"
-heroAlt: "Film director looking through a camera viewfinder on a movie set"
+heroAlt: "Editorial photograph representing the concept of film direction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,11 +41,11 @@ The short answer: everything creative. The longer answer is more nuanced.
 
 **On set**, the director runs the show. They block scenes (determining where actors stand and move), decide camera placement and movement, direct actors' performances, and call "action" and "cut." A single scene might require dozens of takes and multiple camera setups. The director decides when a take is good enough — or when to keep pushing.
 
-**Post-production** involves working with the editor to assemble the final cut. This is where the film truly takes shape. A scene that seemed brilliant on set might be cut entirely. Pacing, rhythm, and emotional arc are refined through editing. The director also oversees sound design, music, and visual effects.
+**Post-production** involves working with the editor to assemble the final cut. This is where the film truly takes shape. A scene that seemed brilliant on set might be cut entirely. Pacing, rhythm, and emotional arc are refined through [editing](/editing). The director also oversees [sound design](/sound-design), music, and [visual effects](/visual-effects).
 
 The level of control varies enormously. In the studio system, directors sometimes have limited final-cut authority — the studio can recut the film. Independent directors usually have more control but less money. The "director's cut" exists as a concept because studios and directors often disagree about the final product.
 
-## Visual Storytelling
+## Visual [Storytelling](/storytelling)
 
 The director's primary tool isn't dialogue — it's the image. Where you put the camera, how you frame the shot, what you include and exclude, how long you hold a shot, and how you cut between shots all communicate meaning.
 
@@ -69,7 +69,7 @@ The best directors adjust their approach to each actor. Some performers need pre
 
 **Alfred Hitchcock** planned everything meticulously. His storyboards were so detailed that shooting was almost mechanical — he'd already made every creative decision. His films are masterclasses in suspense, visual storytelling, and audience manipulation.
 
-**Stanley Kubrick** was legendarily perfectionist. He'd shoot scenes 50, 70, even 100 times until he got exactly what he wanted. His films span genres — science fiction (*2001*), horror (*The Shining*), war (*Full Metal Jacket*) — but share a cold, precise visual style and obsessive attention to detail.
+**Stanley Kubrick** was legendarily perfectionist. He'd shoot scenes 50, 70, even 100 times until he got exactly what he wanted. His films span genres — [science fiction](/science-fiction) (*2001*), horror (*The Shining*), war (*Full Metal Jacket*) — but share a cold, precise visual style and obsessive attention to detail.
 
 **Akira Kurosawa** influenced virtually every action filmmaker after him. His use of weather, movement within the frame, and editing rhythm in films like *Seven Samurai* and *Rashomon* became templates for Hollywood directors from George Lucas to Steven Spielberg.
 

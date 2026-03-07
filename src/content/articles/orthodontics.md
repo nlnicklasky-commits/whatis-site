@@ -5,7 +5,7 @@ description: "Orthodontics is the dental specialty focused on correcting misalig
 category: health-amp-wellness
 tags: ["orthodontics", "braces", "dentistry", "oral health"]
 heroImage: "/images/articles/orthodontics.webp"
-heroAlt: "Close-up of dental braces on teeth with an orthodontist examining alignment"
+heroAlt: "Editorial photograph representing the concept of orthodontics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Orthodontics?
 
-Orthodontics is the branch of dentistry that diagnoses, prevents, and treats misaligned teeth and jaws. If your teeth are crooked, your bite doesn't line up, or your jaw sits in an unusual position, an orthodontist is the specialist trained to fix it.
+Orthodontics is the branch of [dentistry](/dentistry) that diagnoses, prevents, and treats misaligned teeth and jaws. If your teeth are crooked, your bite doesn't line up, or your jaw sits in an unusual position, an orthodontist is the specialist trained to fix it.
 
 ## More Than Just Straight Teeth
 
@@ -43,7 +43,7 @@ Most people associate orthodontics with teenagers wearing braces. Fair enough �
 
 Misaligned teeth aren't just an appearance issue. They create real functional problems. Teeth that don't meet properly can make chewing less efficient, put uneven stress on your jaw joints, and create hard-to-clean pockets where cavities and gum disease thrive. A bad bite — what orthodontists call a malocclusion — can contribute to headaches, jaw pain, and even speech difficulties.
 
-The numbers tell the story: roughly 50% to 75% of the population has some degree of malocclusion, according to studies published in the *American Journal of Orthodontics and Dentofacial Orthopedics*. Not everyone needs treatment, but a significant chunk does.
+The numbers tell the story: roughly 50% to 75% of the population has some degree of malocclusion, according to studies published in the *American Journal of Orthodontics and Dentofacial [Orthopedics](/orthopedics)*. Not everyone needs treatment, but a significant chunk does.
 
 ## A Brief History (It Goes Back Further Than You'd Think)
 
@@ -77,7 +77,7 @@ Metal braces handle virtually any case — severe crowding, complex bite problem
 
 ### Ceramic Braces
 
-Same mechanics as metal braces, but the brackets are made from tooth-colored ceramic or porcelain. They blend in better, which appeals to adults and image-conscious teens. The trade-off: ceramic brackets are slightly larger, more brittle (they can chip), and the elastic ties can stain with coffee, tea, or curry.
+Same mechanics as metal braces, but the brackets are made from tooth-colored ceramic or porcelain. They blend in better, which appeals to adults and image-conscious teens. The [trade](/trade)-off: ceramic brackets are slightly larger, more brittle (they can chip), and the elastic ties can stain with coffee, tea, or curry.
 
 ### Lingual Braces
 
@@ -87,7 +87,7 @@ Brackets bonded to the back (tongue side) of the teeth instead of the front. Com
 
 This is where the field has shifted dramatically since the late 1990s. Invisalign, the first major clear aligner brand, launched in 1999 and fundamentally changed how many patients think about orthodontics. Instead of brackets and wires, you wear a series of custom-molded clear plastic trays — each one slightly different — that gradually shift your teeth.
 
-You swap trays every one to two weeks, wear them 20 to 22 hours a day, and remove them for eating and brushing. The appeal is obvious: they're nearly invisible, you can eat whatever you want, and oral hygiene is much easier than with braces.
+You swap trays every one to two weeks, wear them 20 to 22 hours a day, and remove them for eating and brushing. The appeal is obvious: they're nearly invisible, you can eat whatever you want, and oral [hygiene](/hygiene) is much easier than with braces.
 
 The limitations are real, though. Aligners handle mild to moderate crowding and spacing well. They struggle with complex vertical movements, significant tooth rotations, and severe bite corrections. Compliance is also a factor — if you don't wear them consistently, they don't work. And the cost tends to run higher than traditional braces, typically $3,000 to $8,000 versus $3,000 to $7,000 for metal.
 
@@ -117,7 +117,7 @@ The honest truth that many patients learn the hard way: retainers are forever. O
 
 Let's be blunt: orthodontics is expensive. In the United States, thorough treatment runs between $3,000 and $10,000 depending on the case complexity, the type of appliance, your geographic location, and the orthodontist's experience.
 
-Many orthodontic offices offer payment plans that spread the cost over the treatment period. Dental insurance, when it includes orthodontic benefits, typically covers $1,000 to $2,000 — helpful but rarely enough to cover the full bill. Flexible spending accounts and health savings accounts can help with the tax burden.
+Many orthodontic offices offer payment plans that spread the cost over the treatment period. Dental [insurance](/insurance), when it includes orthodontic benefits, typically covers $1,000 to $2,000 — helpful but rarely enough to cover the full bill. Flexible spending accounts and health savings accounts can help with the tax burden.
 
 The direct-to-consumer aligner market — companies like SmileDirectClub (which filed for bankruptcy in 2023) and byte — tried to undercut traditional orthodontic fees by offering remote treatment without in-person visits. The approach generated enormous controversy within the profession. The American Association of Orthodontists argued that moving teeth without proper diagnosis and supervision posed real risks, including root damage and worsened bite problems.
 
@@ -127,14 +127,14 @@ An orthodontist isn't just a dentist who decided to do braces. After completing 
 
 About 6% of dentists are orthodontists — roughly 11,000 practicing in the United States. General dentists can and do provide some orthodontic treatment (particularly clear aligners), but complex cases generally warrant a specialist.
 
-The distinction matters more than some patients realize. An orthodontist has spent thousands of additional hours studying biomechanics, bone biology, and craniofacial growth. That expertise shows up most in difficult cases — the ones where a general approach won't cut it and you need someone who can think in three dimensions about how teeth, bone, and muscle all interact.
+The distinction matters more than some patients realize. An orthodontist has spent thousands of additional hours studying [biomechanics](/biomechanics), bone [biology](/biology), and craniofacial growth. That expertise shows up most in difficult cases — the ones where a general approach won't cut it and you need someone who can think in three dimensions about how teeth, bone, and muscle all interact.
 
 ## What's Changed and What's Coming
 
 Digital technology has reshaped orthodontic practice over the past two decades. Intraoral scanners have largely replaced goopy impression material. 3D printing creates custom brackets and aligners. Cone-beam CT scans provide three-dimensional views of the teeth, roots, and surrounding bone that flat X-rays can't match.
 
-Temporary anchorage devices (TADs) — tiny titanium screws placed into the jawbone — have expanded what's possible without jaw surgery. They give orthodontists a fixed anchor point to pull teeth against, enabling movements that were previously impossible or required headgear.
+Temporary anchorage devices (TADs) — tiny titanium screws placed into the jawbone — have expanded what's possible without jaw [surgery](/surgery). They give orthodontists a fixed anchor point to pull teeth against, enabling movements that were previously impossible or required headgear.
 
 The field is also grappling with accelerated treatment methods. Devices that use light vibration or micro-perforations in bone claim to speed up tooth movement by 30% to 50%. The evidence is mixed, and many orthodontists remain cautious.
 
-Whatever the technology, the fundamental goal hasn't changed since Edward Angle's day: teeth that fit together properly, function well, and — yes — look good. The fact that we can do it with less discomfort, better aesthetics, and more precision than ever before? That's just the bonus.
+Whatever the technology, the fundamental goal hasn't changed since Edward Angle's day: teeth that fit together properly, function well, and — yes — look good. The fact that we can do it with less discomfort, better [aesthetics](/aesthetics), and more precision than ever before? That's just the bonus.

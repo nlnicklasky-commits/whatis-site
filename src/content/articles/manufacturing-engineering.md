@@ -5,7 +5,7 @@ description: "Manufacturing engineering designs and optimizes production process
 category: technology
 tags: ["manufacturing engineering", "manufacturing", "production", "automation", "quality control", "industrial engineering", "processes"]
 heroImage: "/images/articles/manufacturing-engineering-hero.webp"
-heroAlt: "Modern manufacturing floor with robotic arms assembling products on a production line"
+heroAlt: "Editorial photograph representing the concept of manufacturing engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

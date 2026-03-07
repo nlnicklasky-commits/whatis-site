@@ -5,7 +5,7 @@ description: "Miniature painting is the art of painting small-scale figures and 
 category: arts-amp-culture
 tags: ["miniature painting", "tabletop gaming", "model painting", "art", "hobby", "Warhammer"]
 heroImage: "/images/articles/miniature-painting.webp"
-heroAlt: "Close-up of a hand painting intricate details on a small fantasy miniature figure"
+heroAlt: "Editorial photograph representing the concept of miniature painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,23 +29,23 @@ faq:
     a: "Historical miniatures depict real military units, vehicles, and figures from specific periods — Napoleonic infantry, WWII tanks, Roman legionaries. Fantasy and sci-fi miniatures come from fictional universes like Warhammer 40,000, Dungeons & Dragons, and Star Wars. The painting techniques are similar, but historical painters prioritize accuracy while fantasy painters have more creative freedom with color and effects."
 ---
 
-# What Is Miniature Painting?
+# What Is Miniature [Painting](/painting)?
 
 Miniature painting is the art of applying paint to small-scale figures — typically 25-35mm tall — to bring them to life with color, shading, and fine detail. These miniatures might be fantasy warriors, historical soldiers, sci-fi aliens, or any other small sculpted figure. The painter's job is to turn a gray piece of plastic, metal, or resin into something that looks like a tiny, fully realized person, creature, or vehicle.
 
-It's both a standalone art form and a practical hobby closely tied to tabletop gaming. The Warhammer franchise alone generates over $500 million in annual revenue, and a huge portion of that involves miniatures that need painting. But many painters never play games at all — they paint purely for the artistic satisfaction.
+It's both a standalone art form and a practical hobby closely tied to tabletop [gaming](/gaming). The [Warhammer](/warhammer) franchise alone generates over $500 million in annual revenue, and a huge portion of that involves miniatures that need painting. But many painters never play games at all — they paint purely for the artistic satisfaction.
 
 ## Two Traditions
 
 ### Historical Miniature Painting
 
-Military modelers have been painting miniature soldiers since the 18th century, when tin soldiers were popular toys and wargaming tools. Historical painters research uniforms, equipment, and heraldry meticulously, aiming for accuracy to specific periods and units. The scale community is serious — competitions like the World Expo of Miniatures draw entrants who spend hundreds of hours on single figures.
+Military modelers have been painting miniature soldiers since the 18th century, when tin soldiers were popular toys and [wargaming](/wargaming) tools. Historical painters research uniforms, equipment, and [heraldry](/heraldry) meticulously, aiming for accuracy to specific periods and units. The scale community is serious — competitions like the World Expo of Miniatures draw entrants who spend hundreds of hours on single figures.
 
 ### Fantasy and Sci-Fi Miniature Painting
 
 This exploded in the 1970s-80s with the growth of tabletop gaming — Dungeons & Dragons, Warhammer, and their many descendants. Games Workshop's Warhammer 40,000 and Age of Sigmar are the largest miniature wargames, with millions of players worldwide who build, paint, and play with armies of miniature figures.
 
-The painting quality in this space ranges enormously — from "three colors and a wash" tabletop standards to award-winning display pieces that rival fine art in their technical execution.
+The painting quality in this space ranges enormously — from "three colors and a wash" tabletop standards to award-winning display pieces that rival [fine art](/fine-art) in their technical execution.
 
 ## Core Techniques
 

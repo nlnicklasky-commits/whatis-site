@@ -5,7 +5,7 @@ description: "Brazilian Jiu-Jitsu (BJJ) is a grappling martial art focused on gr
 category: everyday-concepts
 tags: ["brazilian jiu jitsu", "martial arts", "grappling", "self-defense", "mma", "combat sports"]
 heroImage: "/images/articles/brazilian-jiu-jitsu.webp"
-heroAlt: "Two BJJ practitioners in gis grappling on the mat with one attempting a submission hold"
+heroAlt: "Editorial photograph representing the concept of brazilian jiu-jitsu"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Brazilian Jiu-Jitsu (BJJ) is a grappling-based martial art that specializes in g
 
 ## The Gracie Story
 
-BJJ's history begins in Japan, passes through South America, and explodes worldwide through mixed martial arts.
+BJJ's history begins in Japan, passes through South America, and explodes worldwide through mixed [martial arts](/martial-arts).
 
 In the early 1900s, Japanese judoka and jiu-jitsu practitioner Mitsuyo Maeda emigrated to Brazil. He taught his art to Carlos Gracie, who along with his brothers — particularly the smaller Helio Gracie — adapted the techniques to emphasize ground fighting over standing throws. Helio, who was physically slight, refined techniques that worked even when facing larger opponents, developing what became Brazilian Jiu-Jitsu.
 
@@ -82,15 +82,15 @@ The belt system (white through black) reflects the long development timeline. A 
 
 BJJ is a mandatory skill in modern [mixed martial arts](/self-defense). The UFC's early years proved that fighters without ground skills were vulnerable to submission. Today, every serious MMA fighter trains BJJ extensively, even if their primary discipline is striking.
 
-The relationship runs both ways — MMA has influenced BJJ training. Competition BJJ now includes more wrestling-based takedowns, more leg lock attacks, and more athleticism than the traditional Gracie self-defense curriculum.
+The relationship runs both ways — MMA has influenced BJJ training. Competition BJJ now includes more [wrestling](/wrestling)-based takedowns, more leg lock attacks, and more athleticism than the traditional Gracie self-defense curriculum.
 
-## Health and Fitness Benefits
+## Health and [Fitness](/fitness) Benefits
 
 BJJ provides a full-body workout that burns 500-1,000 calories per hour depending on intensity. It develops cardiovascular endurance, functional strength (particularly grip, core, and hip strength), flexibility, and body awareness.
 
-The [physical demands](/exercise-physiology) are significant. BJJ stresses joints — particularly the neck, shoulders, elbows, and knees — and injuries are common with years of training. Cauliflower ear (permanent ear deformation from repeated friction and impact) is a recognizable badge among long-term practitioners.
+The [physical demands](/exercise-[physiology](/physiology)) are significant. BJJ stresses joints — particularly the neck, shoulders, elbows, and knees — and injuries are common with years of training. Cauliflower ear (permanent ear deformation from repeated friction and impact) is a recognizable badge among long-term practitioners.
 
-Mental health benefits are widely reported. The intense focus required during rolling — where a momentary lapse in attention means getting submitted — functions as forced meditation. Many practitioners describe BJJ as the only time their mind is completely quiet, because the demands of the moment overwhelm everything else.
+[Mental health](/mental-health) benefits are widely reported. The intense focus required during rolling — where a momentary lapse in attention means getting submitted — functions as forced [meditation](/meditation). Many practitioners describe BJJ as the only time their mind is completely quiet, because the demands of the moment overwhelm everything else.
 
 ## The Community
 

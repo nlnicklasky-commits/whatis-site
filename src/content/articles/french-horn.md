@@ -5,7 +5,7 @@ description: "The French horn is a brass instrument known for its warm, rich ton
 category: arts-amp-culture
 tags: ["musical instrument", "brass", "orchestra", "music performance", "classical music", "horn"]
 heroImage: "/images/articles/french-horn.webp"
-heroAlt: "Polished French horn resting on a dark velvet background"
+heroAlt: "Editorial photograph representing the concept of french horn"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The **hand in the bell** is unique to the horn. Before valves were invented (ear
 
 ## History
 
-The horn evolved from hunting horns — simple coiled tubes used to signal during hunts. The French court's elaborate hunting traditions (hence "French" horn) made the instrument fashionable, and composers began writing for it in the late 17th century.
+The horn evolved from [hunting](/hunting) horns — simple coiled tubes used to signal during hunts. The French court's elaborate hunting traditions (hence "French" horn) made the instrument fashionable, and composers began [writing](/writing) for it in the late 17th century.
 
 Early orchestral horns had no valves. Players selected different-length crooks (curved tube sections) to change the instrument's key and used hand-stopping to fill in notes between the natural harmonics. This "natural horn" technique required extraordinary skill and produced an uneven, characterful tone — some notes were bright and open, others muffled and stopped.
 
@@ -65,9 +65,9 @@ The horn appears in numerous contexts beyond the symphony orchestra.
 
 **Film music** uses the horn extensively. John Williams's *Star Wars* theme, Howard Shore's *Lord of the Rings* scores, and Hans Zimmer's *Inception* soundtrack all feature prominent horn writing. The horn's ability to convey grandeur, nobility, and epic scale makes it a film composer's go-to instrument for heroic themes.
 
-**Wind ensembles and brass quintets** feature horns prominently. In a brass quintet (two trumpets, horn, trombone, tuba), the horn provides the crucial middle voice that glues the ensemble together.
+**Wind ensembles and brass quintets** feature horns prominently. In a brass quintet (two trumpets, horn, [trombone](/trombone), [tuba](/tuba)), the horn provides the crucial middle voice that glues the ensemble together.
 
-**Jazz** occasionally features the horn, though it's relatively rare. Julius Watkins pioneered jazz horn playing in the 1950s, and Tom Varner continued pushing the instrument into improvised music. The horn's difficulty and its association with classical music have limited its jazz presence.
+**Jazz** occasionally features the horn, though it's relatively rare. Julius Watkins pioneered jazz horn playing in the 1950s, and Tom Varner continued pushing the instrument into improvised music. The horn's difficulty and its association with [classical music](/classical-music) have limited its jazz presence.
 
 ## Playing the Horn
 

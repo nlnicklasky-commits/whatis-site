@@ -5,7 +5,7 @@ description: "Circuit design is the process of creating electronic circuits that
 category: technology
 tags: ["circuit design", "electrical engineering", "electronics", "circuits", "schematics", "pcb", "digital"]
 heroImage: "/images/articles/circuit-design-hero.webp"
-heroAlt: "Close-up of a printed circuit board with electronic components and copper traces"
+heroAlt: "Editorial photograph representing the concept of circuit design"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,13 +35,13 @@ faq:
 
 # What Is Circuit Design?
 
-Circuit design is the engineering process of creating electronic circuits—interconnected arrangements of components like resistors, capacitors, transistors, and integrated circuits—that perform specific electrical functions. From the processor in your phone to the control system in a satellite, every electronic device begins as a circuit design: a schematic drawn on paper or screen that defines how electricity flows to accomplish a particular task.
+Circuit design is the [engineering](/engineering) process of creating electronic circuits—interconnected arrangements of components like resistors, capacitors, transistors, and integrated circuits—that perform specific electrical functions. From the processor in your phone to the control system in a satellite, every electronic device begins as a circuit design: a schematic drawn on paper or screen that defines how [electricity](/electricity) flows to accomplish a particular task.
 
 ## Why Circuits Matter: Electricity With Purpose
 
 Electricity by itself doesn't do much useful. It flows. That's about it. The magic happens when you control that flow—directing it through specific paths, amplifying it, switching it, filtering it, converting it. That's what circuits do. They give electricity a job.
 
-Your phone contains billions of transistors arranged in precise circuits. Your car's engine management system uses circuits to time fuel injection within milliseconds. The charger plugged into your wall uses a circuit to convert 120V AC from the outlet into 5V DC for your device. Even something as simple as a flashlight is a circuit—battery, switch, LED, wires forming a closed loop.
+Your phone contains billions of transistors arranged in precise circuits. Your car's engine [management](/management) system uses circuits to time fuel injection within milliseconds. The charger plugged into your wall uses a circuit to convert 120V AC from the outlet into 5V DC for your device. Even something as simple as a flashlight is a circuit—battery, switch, LED, wires forming a closed loop.
 
 Circuit design is the discipline of figuring out which components to use, how to connect them, and how to ensure the resulting circuit does what it's supposed to do reliably. It's equal parts physics, engineering, and problem-solving.
 
@@ -81,7 +81,7 @@ Every circuit is built from a surprisingly small set of basic components. Knowin
 
 **Diodes** allow current to flow in only one direction. They protect circuits from reverse voltage, convert AC to DC (rectification), emit light (LEDs), and regulate voltage (Zener diodes). A simple rectifier circuit uses four diodes arranged in a bridge configuration to convert AC wall power into DC.
 
-**Transistors** are the workhorses of electronics. In their simplest role, they act as electrically controlled switches—a small signal at the control terminal turns a larger current on or off. In analog circuits, they amplify signals. In digital circuits, billions of them implement logic functions. The two main families are bipolar junction transistors (BJTs) and field-effect transistors (FETs/MOSFETs).
+**Transistors** are the workhorses of [electronics](/electronics). In their simplest role, they act as electrically controlled switches—a small signal at the control terminal turns a larger current on or off. In analog circuits, they amplify signals. In digital circuits, billions of them implement logic functions. The two main families are bipolar junction transistors (BJTs) and field-effect transistors (FETs/MOSFETs).
 
 A single transistor can amplify a weak microphone signal to drive a speaker. Arrange a few transistors together, and you get a logic gate. Combine logic gates, and you build a processor. Modern smartphone processors contain around 15 billion transistors, each smaller than a virus.
 
@@ -141,7 +141,7 @@ Analog circuits process continuous signals—voltages and currents that vary smo
 
 Analog design is often called a "black art" because it requires deep intuition about how circuits behave. Small effects—transistor parameter variations, temperature coefficients, parasitic capacitances—can significantly affect performance. An analog designer must understand and account for effects that digital designers can safely ignore.
 
-Operational amplifiers (op-amps) are the fundamental building blocks of analog design. By configuring an op-amp with different feedback networks, you can build amplifiers, filters, oscillators, comparators, and mathematical computing circuits. A single op-amp IC costs less than a dollar but can perform sophisticated signal processing.
+Operational amplifiers (op-amps) are the fundamental building blocks of analog design. By configuring an op-amp with different feedback networks, you can build amplifiers, filters, oscillators, comparators, and mathematical computing circuits. A single op-amp IC costs less than a dollar but can perform sophisticated [signal processing](/signal-processing).
 
 ### Digital Design
 
@@ -149,7 +149,7 @@ Digital circuits work with discrete signals—typically just two voltage levels 
 
 Digital design is more systematic than analog. Logic gates (AND, OR, NOT, XOR) combine according to Boolean [algebra](/algebra) to implement any logical function. Complex digital systems are designed using hardware description languages (HDL) like Verilog or VHDL, which describe circuit behavior in code that's then synthesized into actual gate-level circuits.
 
-FPGAs (Field-Programmable Gate Arrays) contain millions of configurable logic elements that can be programmed to implement virtually any digital function. They bridge the gap between software flexibility and hardware speed, and they're used in telecommunications, military systems, medical imaging, and high-frequency trading.
+FPGAs (Field-Programmable Gate Arrays) contain millions of configurable logic elements that can be programmed to implement virtually any digital function. They bridge the gap between software flexibility and hardware speed, and they're used in telecommunications, military systems, [medical imaging](/medical-imaging), and high-frequency trading.
 
 ### Mixed-Signal Design
 

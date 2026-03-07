@@ -5,7 +5,7 @@ description: "Neurolinguistics studies how the brain processes language, from sp
 category: science
 tags: ["neurolinguistics", "language", "brain", "neuroscience", "linguistics", "aphasia", "cognitive science"]
 heroImage: "/images/articles/neurolinguistics-hero.webp"
-heroAlt: "Brain diagram highlighting language processing regions with speech waveforms in the background"
+heroAlt: "Editorial photograph representing the concept of neurolinguistics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ You do this without effort. You don't consciously decode grammar or look up word
 
 Consider what's required to understand a single sentence. Your brain must segment continuous sound (or text) into discrete words. Retrieve each word's meaning from a mental dictionary of roughly 50,000-100,000 entries. Determine the grammatical relationships between words. Resolve ambiguities (does "bank" mean a financial institution or a river's edge?). Integrate the sentence's meaning with everything else you know. And do all of this fast enough to keep up with speech arriving at 150-200 words per minute.
 
-No computer does this as well as a human brain. Despite massive advances in [artificial intelligence](/artificial-intelligence) and [computational linguistics](/computational-linguistics), language processing remains an area where human brains outperform machines in naturalness, flexibility, and contextual understanding.
+No computer does this as well as a human brain. Despite massive advances in [artificial intelligence](/artificial-intelligence) and [computational linguistics](/computational-[linguistics](/linguistics)), language processing remains an area where human brains outperform machines in naturalness, flexibility, and contextual understanding.
 
 Neurolinguistics wants to know how.
 
@@ -89,7 +89,7 @@ The anterior temporal lobe acts as a "semantic hub," integrating information fro
 
 The left inferior frontal gyrus (including Broca's area) handles syntactic processing — building and parsing grammatical structures. It's especially active during complex sentences with embedded clauses or unusual word orders.
 
-This region also performs selection among competing alternatives — choosing the right word when several are activated, or selecting the correct interpretation of an ambiguous sentence. This executive function connects language processing to the broader cognitive control network studied in [cognitive psychology](/cognitive-psychology).
+This region also performs selection among competing alternatives — choosing the right word when several are activated, or selecting the correct interpretation of an ambiguous sentence. This executive function connects language processing to the broader cognitive control network studied in [cognitive psychology](/cognitive-[psychology](/psychology)).
 
 The premotor cortex and supplementary motor area plan and execute the motor sequences for speech — coordinating the roughly 100 muscles involved in articulating speech sounds. Speaking requires some of the most rapid and precise motor control the human body performs.
 
@@ -159,7 +159,7 @@ This means bilingual speakers constantly manage interference between languages. 
 
 Do different languages occupy different brain regions? Mostly no. First and second languages, when both are acquired early and proficiently, activate largely overlapping brain areas. But late-acquired second languages may recruit additional frontal regions — reflecting the extra processing effort required.
 
-Remarkably, sign languages activate the same left-hemisphere language network as spoken languages. Broca's area is active during sign language production, and damage there impairs signing just as it impairs speech. This demonstrates that the brain's language network is modality-independent — it processes linguistic structure regardless of whether that structure is conveyed through sound, sign, or text.
+Remarkably, sign languages activate the same left-hemisphere language network as spoken languages. Broca's area is active during [sign language](/sign-language) production, and damage there impairs signing just as it impairs speech. This demonstrates that the brain's language network is modality-independent — it processes linguistic structure regardless of whether that structure is conveyed through sound, sign, or text.
 
 ## Language Development
 
@@ -167,7 +167,7 @@ Children acquire language with astonishing speed and minimal instruction. By age
 
 ### The Critical Period
 
-Young children's brains are optimized for language acquisition. Neural plasticity — the brain's ability to reorganize itself — is highest in early childhood, and language acquisition exploits this plasticity. Children exposed to language before about age 7 typically achieve native-like proficiency. After this "critical period," language acquisition becomes progressively harder.
+Young children's brains are optimized for [language acquisition](/language-acquisition). Neural plasticity — the brain's ability to reorganize itself — is highest in early childhood, and language acquisition exploits this plasticity. Children exposed to language before about age 7 typically achieve native-like proficiency. After this "critical period," language acquisition becomes progressively harder.
 
 The critical period has been demonstrated by tragic natural experiments. Deaf children who receive cochlear implants before age 3 develop near-normal language; those implanted after age 7 have significantly worse outcomes. The neural circuits for language, if not stimulated during the critical period, partially lose their capacity for language acquisition.
 
@@ -203,7 +203,7 @@ Dyslexia affects about 5-10% of people and involves difficulty with reading desp
 
 How does the brain represent meaning? This is one of the deepest questions in the field.
 
-Recent research using [machine learning](/machine-learning) to decode brain activity has produced remarkable results. Alexander Huth and colleagues at UC Berkeley used fMRI to create "semantic maps" showing how different concepts are represented across the cortical surface. They found that meanings are distributed across the cortex in a systematic pattern — with related concepts activating neighboring regions — creating a kind of semantic geography of the brain.
+Recent research using [machine learning](/machine-learning) to decode brain activity has produced remarkable results. Alexander Huth and colleagues at UC Berkeley used fMRI to create "semantic maps" showing how different concepts are represented across the cortical surface. They found that meanings are distributed across the cortex in a systematic pattern — with related concepts activating neighboring regions — creating a kind of semantic [geography](/geography) of the brain.
 
 Even more strikingly, researchers can now use neural network language models to predict brain activity during language comprehension. The internal representations of large language models show surprising correspondence to patterns of brain activity measured during reading and listening — suggesting that brains and [artificial intelligence](/artificial-intelligence) systems may discover similar solutions to the problem of language processing.
 

@@ -5,7 +5,7 @@ description: "Leatherworking is the craft of cutting, shaping, and stitching ani
 category: arts-amp-culture
 tags: ["leatherworking", "crafts", "leather", "tooling", "tanning", "handmade goods"]
 heroImage: "/images/articles/leatherworking.webp"
-heroAlt: "Hands stitching a leather wallet on a wooden workbench with crafting tools nearby"
+heroAlt: "Editorial photograph representing the concept of leatherworking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ You take a piece of tanned hide. You cut it. You punch holes. You stitch it toge
 
 ## A Very Old Craft
 
-Archaeological evidence places leather use back to at least 5,000 BCE. Ancient Egyptians used leather for sandals, gloves, and even buckets. The Romans built their military machine partly on leather — armor, shields, tents, and horse tack. Medieval European guilds elevated leatherworking to a respected trade, with tanners, curriers, and saddlers each occupying distinct niches.
+Archaeological evidence places leather use back to at least 5,000 BCE. Ancient Egyptians used leather for sandals, gloves, and even buckets. The Romans built their military machine partly on leather — armor, shields, tents, and horse tack. Medieval European guilds elevated leatherworking to a respected [trade](/trade), with tanners, curriers, and saddlers each occupying distinct niches.
 
 The weird part is how the craft nearly died out as a hobby. Industrial manufacturing in the 19th and 20th centuries moved leather goods production into factories. For decades, leatherworking was mostly a professional trade. Then the internet happened. YouTube tutorials and online forums sparked a massive revival starting around 2010, and now it's one of the fastest-growing craft hobbies worldwide.
 
@@ -47,7 +47,7 @@ Before you can work leather, someone has to tan it — the process of turning ra
 
 **Vegetable tanning** uses natural tannins from tree bark, primarily oak and chestnut. It takes weeks or even months. The result is firm, thick leather with a warm brown color that develops a beautiful patina over time. This is the leather you want for tooling, carving, and most traditional crafts.
 
-**Chrome tanning** uses chromium salts and takes just hours. It produces softer, more flexible leather in a wider range of colors. About 80-85% of the world's leather is chrome-tanned. It's what you'll find in most shoes, garments, and upholstery.
+**Chrome tanning** uses chromium salts and takes just hours. It produces softer, more flexible leather in a wider range of colors. About 80-85% of the world's leather is chrome-tanned. It's what you'll find in most shoes, garments, and [upholstery](/upholstery).
 
 There's also brain tanning, oil tanning, and various combination methods, but vegetable and chrome cover the vast majority of what you'll encounter.
 
@@ -59,7 +59,7 @@ Sounds simple. It's not. Leather doesn't behave like paper or fabric. A dull bla
 
 ### Stitching
 
-Hand-stitching leather uses a technique called saddle stitching, where two needles pass through the same hole from opposite sides. This creates a stitch that's actually stronger than machine sewing — if one thread breaks, the other side holds. A machine lockstitch, by contrast, unravels if a single thread snaps.
+Hand-stitching leather uses a technique called saddle stitching, where two needles pass through the same hole from opposite sides. This creates a stitch that's actually stronger than machine [sewing](/sewing) — if one thread breaks, the other side holds. A machine lockstitch, by contrast, unravels if a single thread snaps.
 
 The process is slow. A skilled hand-stitcher might manage 4-6 stitches per minute on thick leather. But the result is a neat, angled stitch line that's become a hallmark of quality leatherwork.
 
@@ -67,7 +67,7 @@ The process is slow. A skilled hand-stitcher might manage 4-6 stitches per minut
 
 This is where leather becomes art. Using metal stamps and a mallet, you can press patterns into moistened vegetable-tanned leather. The leather holds the impression permanently as it dries. Carving goes further — you cut designs into the surface with a swivel knife, then use stamps to add depth, texture, and shading.
 
-Western-style floral carving is probably the most recognized tradition, but geometric patterns, Celtic knotwork, and figurative designs are all common. Some artisans create pieces that honestly look more like sculpture than leatherwork.
+Western-style floral carving is probably the most recognized tradition, but geometric patterns, Celtic knotwork, and figurative designs are all common. Some artisans create pieces that honestly look more like [sculpture](/sculpture) than leatherwork.
 
 ### Edge Finishing
 
@@ -89,7 +89,7 @@ The rabbit hole of tool acquisition is real. Ask any leatherworker. Their tool c
 
 The range is enormous. Beginners typically start with flat goods — card holders, bookmarks, key fobs. Then they move to folded items like wallets and passport covers. Bags come next, followed by more complex projects like watch straps, belts, journal covers, and sheaths.
 
-At the advanced end, you'll find saddlery, shoe-making, leather armor for historical reenactment, and sculptural art pieces. Some leatherworkers specialize narrowly — making only custom holsters, or only dog collars, or only briefcases. Others dabble in everything.
+At the advanced end, you'll find saddlery, shoe-making, leather armor for [historical reenactment](/historical-reenactment), and sculptural art pieces. Some leatherworkers specialize narrowly — making only custom holsters, or only dog collars, or only briefcases. Others dabble in everything.
 
 ## The Modern Revival
 

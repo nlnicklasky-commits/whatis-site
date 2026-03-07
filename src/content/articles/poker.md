@@ -5,7 +5,7 @@ description: "Poker is a family of card games combining skill, strategy, and psy
 category: everyday-concepts
 tags: ["poker", "card games", "gambling", "strategy", "Texas Hold'em", "bluffing"]
 heroImage: "/images/articles/poker.webp"
-heroAlt: "Poker chips and playing cards spread across a green felt table"
+heroAlt: "Editorial photograph representing the concept of poker"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Poker?
 
-Poker is a family of card games where players bet on the strength of their hands — the specific combination of cards they hold. It combines probability, psychology, strategy, and deception in a way no other card game quite matches. You're not just playing your cards. You're playing the people across the table.
+Poker is a family of [card games](/card-games) where players bet on the strength of their hands — the specific combination of cards they hold. It combines probability, [psychology](/psychology), strategy, and deception in a way no other card game quite matches. You're not just playing your cards. You're playing the people across the table.
 
 ## The Basics
 
@@ -76,7 +76,7 @@ The beauty of Hold'em is that you see five of seven total cards — but you only
 
 Here's what separates poker from most other games: information is hidden, and players can lie.
 
-In chess, you see every piece on the board. In poker, you see your own cards and whatever community cards are showing — that's it. Your opponent's hand is a mystery, and they're actively trying to mislead you about it.
+In [chess](/chess), you see every piece on the board. In poker, you see your own cards and whatever community cards are showing — that's it. Your opponent's hand is a mystery, and they're actively trying to mislead you about it.
 
 **Bluffing** is the most famous element. You bet big with a weak hand, hoping everyone folds. But pure bluffing is actually rare among good players. More common is the "semi-bluff" — betting with a hand that isn't the best right now but has potential to improve (like four cards to a flush).
 
@@ -92,7 +92,7 @@ Poker is built on probability, and serious players think in terms of odds consta
 
 **Expected value (EV)** is the average profit or loss of a decision over many repetitions. A play with positive EV makes money over time; a play with negative EV loses money over time. Professional players evaluate every decision in EV terms.
 
-**Position** matters enormously. The player who acts last in a betting round has an informational advantage — they've seen everyone else's decisions before making their own. Being "in position" (acting after your opponents) is worth roughly 10-15% of a player's win rate in most studies.
+**Position** matters enormously. The player who acts last in a betting round has an informational advantage — they've seen everyone else's decisions before making their own. Being "in position" ([acting](/acting) after your opponents) is worth roughly 10-15% of a player's win rate in most studies.
 
 ## A Brief History
 
@@ -108,4 +108,4 @@ In 2017, a Carnegie Mellon AI called Libratus defeated four top professional pok
 
 These were significant milestones because poker — with its hidden information and need for deception — was considered a harder problem for AI than chess or Go. The AI didn't just calculate odds; it learned to bluff, vary its strategy, and exploit opponent tendencies.
 
-Professional players now study AI-generated strategies (called "GTO" — game theory optimal) to improve their own play. The irony: a game defined by human psychology is increasingly shaped by inhuman calculation.
+Professional players now study AI-generated strategies (called "GTO" — [game theory](/game-theory) optimal) to improve their own play. The irony: a game defined by human psychology is increasingly shaped by inhuman calculation.

@@ -5,7 +5,7 @@ description: "Drumming is the art of creating rhythm by striking drums and percu
 category: arts-amp-culture
 tags: ["drumming", "arts-amp-culture"]
 heroImage: "/images/articles/drumming.webp"
-heroAlt: "A drummer performing on a full drum kit with cymbals under stage lighting"
+heroAlt: "Editorial photograph representing the concept of drumming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,17 +31,17 @@ faq:
 
 # What Is Drumming?
 
-Drumming is the practice of creating rhythm by striking drums, cymbals, and percussion instruments with hands, sticks, mallets, or brushes. It's the oldest form of music-making — predating melody and harmony by thousands of years — and it remains the rhythmic foundation of virtually every musical genre. From a toddler banging a pot with a spoon to a jazz drummer navigating polyrhythmic patterns at 300 beats per minute, drumming is rhythm made physical.
+Drumming is the practice of creating rhythm by striking drums, cymbals, and percussion instruments with hands, sticks, mallets, or brushes. It's the oldest form of music-making — predating melody and [harmony](/harmony) by thousands of years — and it remains the rhythmic foundation of virtually every musical genre. From a toddler banging a pot with a spoon to a jazz drummer navigating polyrhythmic patterns at 300 beats per minute, drumming is rhythm made physical.
 
 ## The Oldest Music
 
 Drums are among the oldest known instruments. Archaeological evidence suggests that drums existed at least 8,000 years ago — animal skins stretched over hollow logs or clay vessels. But drumming almost certainly predates manufactured drums. Clapping hands, stamping feet, and striking any available surface — these are drumming too, and humans were probably doing them before they were fully human.
 
-Every culture on Earth drums. West African djembe ensembles, Japanese taiko groups, Brazilian samba batucadas, Native American pow-wow drummers, Indian tabla players, and Indonesian gamelan orchestras represent distinct drumming traditions that developed independently over millennia. The universality isn't coincidence — rhythm is hardwired into our neurology. Your heartbeat is a drum. Your walking gait is a rhythm. Drumming externalizes something your body already does.
+Every culture on Earth drums. West African djembe ensembles, Japanese taiko groups, Brazilian samba batucadas, Native American pow-wow drummers, Indian tabla players, and Indonesian gamelan orchestras represent distinct drumming traditions that developed independently over millennia. The universality isn't coincidence — rhythm is hardwired into our [neurology](/neurology). Your heartbeat is a drum. Your [walking](/walking) gait is a rhythm. Drumming externalizes something your body already does.
 
 ## The Modern Drum Kit
 
-The drum kit (or drum set) is a 20th-century American invention. Before it existed, marching bands and orchestras used separate percussionists for each instrument — one person on bass drum, another on snare, another on cymbals. Around 1900, New Orleans musicians began combining these instruments so a single player could play them simultaneously, driven partly by economics (one drummer is cheaper than three) and partly by the demands of the emerging [jazz](/jazz) idiom.
+The drum kit (or drum set) is a 20th-century American [invention](/invention). Before it existed, marching bands and orchestras used separate percussionists for each instrument — one person on bass drum, another on snare, another on cymbals. Around 1900, New Orleans musicians began combining these instruments so a single player could play them simultaneously, driven partly by [economics](/economics) (one drummer is cheaper than three) and partly by the demands of the emerging [jazz](/jazz) idiom.
 
 The standard five-piece kit — bass drum, snare drum, three toms, hi-hat, ride cymbal, and crash cymbals — was largely established by the 1930s-1940s. Gene Krupa, Buddy Rich, and Max Roach were among the first drummers to make the kit a solo instrument rather than merely a timekeeping device.
 
@@ -69,7 +69,7 @@ Today's kits vary enormously. A jazz drummer might use a small four-piece kit wi
 
 ## Drumming and the Brain
 
-Neuroscience research shows that drumming engages more areas of the brain simultaneously than almost any other activity. Both hemispheres are active (independent limb coordination). Motor cortex, auditory cortex, prefrontal cortex, and cerebellum work together in real time.
+[Neuroscience](/neuroscience) research shows that drumming engages more areas of the brain simultaneously than almost any other activity. Both hemispheres are active (independent limb coordination). Motor cortex, auditory cortex, prefrontal cortex, and cerebellum work together in real time.
 
 A landmark study at the Karolinska Institute in Stockholm found that drummers who kept better time also scored higher on intelligence tests measuring problem-solving ability. The researchers suggested that rhythmic precision correlates with the efficiency of information processing in the brain.
 

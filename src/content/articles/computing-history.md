@@ -5,7 +5,7 @@ description: "Computing history traces the evolution of calculating machines fro
 category: history
 tags: ["computers", "technology history", "digital age", "invention", "information technology"]
 heroImage: "/images/articles/computing-history.webp"
-heroAlt: "A timeline showing computing devices from vacuum tubes to modern microprocessors"
+heroAlt: "Editorial photograph representing the concept of computing history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 Computing history is the study of how humans developed machines to perform calculations, process information, and eventually build the interconnected digital world we live in today. It spans from ancient counting devices like the abacus through mechanical calculators, room-sized vacuum tube computers, and the silicon microprocessors that now fit billions of transistors onto chips smaller than your fingernail.
 
-## Before Electricity: Counting and Calculating
+## Before [Electricity](/electricity): Counting and Calculating
 
 Humans have been building tools to help with math for thousands of years. The abacus, used in Mesopotamia as early as 2700 BCE, is essentially a manual calculator — and skilled operators can still use one faster than someone punching numbers into a handheld calculator.
 
@@ -45,11 +45,11 @@ The first mechanical calculator that could actually do arithmetic automatically 
 
 But the real visionary was Charles Babbage. In the 1830s, this eccentric English mathematician designed the Analytical Engine — a mechanical device that included most of the logical features of a modern computer: a processing unit (he called it the "mill"), memory (the "store"), input via punch cards, and the ability to be programmed for different tasks.
 
-Babbage never finished building it — he had trouble with funding and kept redesigning instead of completing. But his collaborator Ada Lovelace saw something no one else did. She wrote detailed notes on how the Analytical Engine could be programmed, including what's widely considered the first computer [algorithm](/algorithms) — a method for calculating Bernoulli numbers. She also speculated that the machine could compose music and manipulate symbols beyond pure mathematics. In the 1840s, she was imagining artificial intelligence.
+Babbage never finished building it — he had trouble with funding and kept redesigning instead of completing. But his collaborator Ada Lovelace saw something no one else did. She wrote detailed notes on how the Analytical Engine could be programmed, including what's widely considered the first computer [algorithm](/algorithms) — a method for calculating Bernoulli numbers. She also speculated that the machine could compose music and manipulate symbols beyond pure [mathematics](/mathematics). In the 1840s, she was imagining artificial intelligence.
 
 ## The Electronic Revolution
 
-The jump from mechanical to electronic computing happened during World War II, driven by urgent military needs: breaking codes, calculating artillery trajectories, and designing nuclear weapons.
+The jump from mechanical to electronic computing happened during [World War II](/world-war-ii), driven by urgent military needs: breaking codes, calculating artillery trajectories, and designing nuclear weapons.
 
 ### Codebreaking and Colossus
 
@@ -61,7 +61,7 @@ The Colossus machines, built at Bletchley Park starting in 1943, were the first 
 
 In the U.S., the Electronic Numerical Integrator and Computer (ENIAC) was completed at the University of Pennsylvania in 1945. It weighed 30 tons, filled an entire room, used 18,000 vacuum tubes, and consumed 150 kilowatts of power. Programming it meant physically rewiring the machine — plugging and unplugging cables for each new problem. Six women, known as the "ENIAC Programmers," did much of this work, though they received almost no recognition at the time.
 
-The next critical step was the stored-program concept — the idea that the program itself should be stored in the computer's memory alongside the data, rather than hardwired. John von Neumann described this architecture in his 1945 report on EDVAC, and the Manchester Baby ran the first stored program on June 21, 1948. Virtually every computer since has followed this basic design.
+The next critical step was the stored-program concept — the idea that the program itself should be stored in the computer's memory alongside the data, rather than hardwired. John von Neumann described this [architecture](/architecture) in his 1945 report on EDVAC, and the Manchester Baby ran the first stored program on June 21, 1948. Virtually every computer since has followed this basic design.
 
 ## The Transistor Changes Everything
 
@@ -83,7 +83,7 @@ Steve Wozniak and Steve Jobs launched Apple Computer in 1976 with the Apple I, h
 
 IBM entered the market in 1981 with the IBM PC. Crucially, IBM used an open architecture — anyone could make compatible hardware and software. This decision, possibly more than any other, shaped the computing industry. It created the PC clone market and ensured that IBM-compatible computers (running Microsoft's DOS, and later Windows) would dominate personal computing for decades.
 
-## Networking and the Internet
+## [Networking](/networking) and the Internet
 
 Computers that couldn't talk to each other had limited usefulness. The [data structures](/data-structures) and protocols needed for networking evolved through the 1960s and 1970s.
 
@@ -97,7 +97,7 @@ The first web browser with a graphical interface, Mosaic, launched in 1993. Nets
 
 The iPhone's release in 2007 marked another inflection point. Smartphones put a computer in everyone's pocket — one more powerful than anything that existed before the 1990s. The App Store (2008) created a new software ecosystem. Within a few years, mobile internet usage surpassed desktop.
 
-Cloud computing — the idea of renting computing power and storage from massive data centers rather than owning your own hardware — transformed business computing. Amazon Web Services launched in 2006 and now powers a significant chunk of the internet.
+[Cloud computing](/cloud-computing) — the idea of renting computing power and storage from massive data centers rather than owning your own hardware — transformed business computing. Amazon Web Services launched in 2006 and now powers a significant chunk of the internet.
 
 [Machine learning](/machine-learning) and [artificial intelligence](/artificial-intelligence), powered by massive datasets and specialized hardware (particularly GPUs), became practical at scale in the 2010s. Large language models, image generators, and AI assistants emerged as perhaps the most significant computing development since the internet itself.
 

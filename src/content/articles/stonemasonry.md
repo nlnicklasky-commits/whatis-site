@@ -5,7 +5,7 @@ description: "Stonemasonry is the craft of cutting, shaping, and building with s
 category: everyday-concepts
 tags: ["stonemasonry", "masonry", "construction", "craft", "architecture", "stone"]
 heroImage: "/images/articles/stonemasonry.webp"
-heroAlt: "A stonemason fitting cut stones into a wall with mortar"
+heroAlt: "Editorial photograph representing the concept of stonemasonry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Stonemasonry?
 
-Stonemasonry is the craft of shaping, cutting, and assembling stone to create structures — walls, buildings, bridges, monuments, and decorative features. It's one of the oldest construction trades in human history, and despite modern building materials, it remains very much alive.
+Stonemasonry is the craft of shaping, cutting, and assembling stone to create structures — walls, buildings, bridges, monuments, and decorative features. It's one of the oldest [construction](/construction) trades in human history, and despite modern building materials, it remains very much alive.
 
 Walk through any European city center, and nearly every building you admire was put together by stonemasons. The pyramids, the Colosseum, Notre-Dame, the U.S. Capitol — all stonemasonry. The material endures in a way that wood, steel, and concrete simply don't.
 
@@ -39,7 +39,7 @@ Walk through any European city center, and nearly every building you admire was 
 
 ### Banker Masons
 
-Banker masons work at a bench (historically called a "banker") in a workshop. They cut, shape, and dress stone to precise specifications before it goes to the building site. This is the more refined side of the trade — creating moldings, window surrounds, column capitals, and carved decorative elements.
+Banker masons work at a bench (historically called a "banker") in a workshop. They cut, shape, and dress stone to precise specifications before it goes to the building site. This is the more refined side of the [trade](/trade) — creating moldings, window surrounds, column capitals, and carved decorative elements.
 
 The name comes from the heavy wooden workbench, not anything financial. Though historically, banker masons were indeed among the better-paid construction workers.
 
@@ -49,9 +49,9 @@ Fixer masons install the stone on-site. They set stones in mortar, align courses
 
 ## Types of Stonework
 
-**Rubble masonry** uses rough, uncut stones fitted together with mortar. It's the most common type historically — think old farmhouse walls and field boundaries. The stones are irregular, and the mason's skill lies in selecting and arranging them for stability.
+**Rubble [masonry](/masonry)** uses rough, uncut stones fitted together with mortar. It's the most common type historically — think old farmhouse walls and field boundaries. The stones are irregular, and the mason's skill lies in selecting and arranging them for stability.
 
-**Ashlar masonry** uses precisely cut rectangular blocks with smooth faces and tight joints. This is the polished, formal look you see on government buildings and cathedrals. It requires much more preparation but creates a cleaner, stronger wall.
+**Ashlar masonry** uses precisely cut rectangular blocks with smooth faces and tight joints. This is the polished, formal look you see on [government](/government) buildings and cathedrals. It requires much more preparation but creates a cleaner, stronger wall.
 
 **Dry stone masonry** uses no mortar at all. The stones are carefully selected and fitted so that gravity and friction hold everything in place. Dry stone walls across Britain, Ireland, and New England have stood for centuries — a proof to the skill involved.
 
@@ -67,7 +67,7 @@ Stonemasonry skills allowed ancient civilizations to create structures that are 
 
 Medieval stonemasons formed some of the earliest [trade guilds](/freemasonry), with elaborate systems of apprenticeship, journeyman status, and master certification. These guilds protected trade secrets and maintained quality standards. The Freemasons, now a fraternal organization, trace their symbolic origins to these medieval stone guilds.
 
-During the Gothic period (12th-16th centuries), masons pushed stone construction to extraordinary heights — literally. Cathedrals like Chartres and Cologne used flying buttresses and pointed arches to create structures that seem to defy physics. The technical knowledge required was passed down through generations of master masons.
+During the Gothic period (12th-16th centuries), masons pushed stone construction to extraordinary heights — literally. Cathedrals like Chartres and Cologne used flying buttresses and pointed arches to create structures that seem to defy [physics](/physics). The technical knowledge required was passed down through generations of master masons.
 
 ## Stonemasonry Today
 

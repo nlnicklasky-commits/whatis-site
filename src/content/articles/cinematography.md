@@ -5,7 +5,7 @@ description: "Cinematography is the art of visual storytelling through motion pi
 category: arts-amp-culture
 tags: ["cinematography", "filmmaking", "camera", "visual storytelling", "movies", "directing"]
 heroImage: "/images/articles/cinematography.webp"
-heroAlt: "Film set with a cinematographer operating a large cinema camera on a dolly track"
+heroAlt: "Editorial photograph representing the concept of cinematography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
 
 Cinematography is the art and craft of creating the visual images in a motion picture — controlling how every frame looks through decisions about lighting, camera placement, lens selection, camera movement, color, and composition. If a director tells a story, the cinematographer decides what that story *looks* like. The best cinematography is invisible — you feel its effect without noticing its technique.
 
-## Painting With Light
+## [Painting](/painting) With Light
 
-The word "cinematography" comes from the Greek *kinema* (movement) and *graphein* (to write) — literally "writing with motion." But ask any cinematographer what they actually work with and they'll say light. Light is the raw material. The [camera](/camera-operation) is just the tool that captures it.
+The word "cinematography" comes from the Greek *kinema* (movement) and *graphein* (to write) — literally "[writing](/writing) with motion." But ask any cinematographer what they actually work with and they'll say light. Light is the raw material. The [camera](/camera-operation) is just the tool that captures it.
 
 Every visual choice a cinematographer makes is fundamentally about light: its direction (front, side, back, top, bottom), its quality (hard/direct or soft/diffused), its color (warm, cool, neutral), its intensity (bright or dim), and its contrast (the ratio between the brightest and darkest areas in the frame).
 
@@ -79,9 +79,9 @@ The lighting department on a feature film can deploy dozens of fixtures:
 
 ## Camera Movement
 
-How the camera moves — or doesn't — profoundly affects storytelling.
+How the camera moves — or doesn't — profoundly affects [storytelling](/storytelling).
 
-**Static shots** — Camera doesn't move. Creates stability, objectivity, or tension depending on context. Ozu Yasujirō built an entire filmmaking philosophy around static compositions.
+**Static shots** — Camera doesn't move. Creates stability, objectivity, or tension depending on context. Ozu Yasujirō built an entire [filmmaking](/filmmaking) [philosophy](/philosophy) around static compositions.
 
 **Pan and tilt** — Camera pivots horizontally (pan) or vertically (tilt) from a fixed position. Used to follow action or reveal information.
 

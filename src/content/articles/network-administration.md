@@ -5,7 +5,7 @@ description: "Network administration is the management of computer networks — 
 category: technology
 tags: ["network administration", "it", "networking", "cybersecurity", "system administration", "network security"]
 heroImage: "/images/articles/network-administration-hero.webp"
-heroAlt: "Server room with blinking network switches and organized ethernet cable runs"
+heroAlt: "Editorial photograph representing the concept of network administration"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -89,7 +89,7 @@ Network administrators manage IP addressing through several mechanisms:
 
 **DNS (Domain Name System)** translates human-readable names (like google.com) into IP addresses (like 142.250.80.46). DNS is often called the "phone book of the internet." Network administrators typically manage internal DNS servers that resolve internal hostnames and forward external queries to public DNS resolvers.
 
-**Subnetting** divides a large network into smaller segments. This improves performance (reducing broadcast traffic), enhances security (isolating sensitive systems), and simplifies management. A typical corporate network might have separate subnets for workstations, servers, printers, VoIP phones, guest Wi-Fi, and IoT devices.
+**Subnetting** divides a large network into smaller segments. This improves performance (reducing broadcast traffic), enhances security (isolating sensitive systems), and simplifies [management](/management). A typical corporate network might have separate subnets for workstations, servers, printers, VoIP phones, guest Wi-Fi, and IoT devices.
 
 ### How Data Gets From A to B
 
@@ -130,11 +130,11 @@ When things break — and they always break — the network administrator diagno
 4. **Test the theory.** Verify the hypothesis through targeted testing. Swap a cable, try a different port, temporarily modify a firewall rule.
 5. **Resolve and document.** Fix the issue and document what happened, what caused it, and how it was resolved. Documentation prevents the same problem from stumping someone next time.
 
-The best network administrators develop pattern recognition over years of experience — they've seen hundreds of failure modes and can often diagnose the problem from the symptoms within minutes.
+The best network administrators develop [pattern recognition](/pattern-recognition) over years of experience — they've seen hundreds of failure modes and can often diagnose the problem from the symptoms within minutes.
 
 ### Security
 
-Network security is an increasingly large part of the network administrator's role. Responsibilities include:
+[Network security](/network-security) is an increasingly large part of the network administrator's role. Responsibilities include:
 
 **Firewall management** — configuring rules that control what traffic can enter and leave the network. The principle of least privilege applies: block everything by default, then allow only what's necessary.
 
@@ -144,7 +144,7 @@ Network security is an increasingly large part of the network administrator's ro
 
 **Patching** — keeping firmware on network devices updated. Unpatched vulnerabilities are a primary attack vector. The challenge is that patching network equipment often requires downtime — and networks are expected to run 24/7.
 
-**Intrusion detection and prevention** — monitoring for suspicious activity. IDS/IPS systems analyze network traffic patterns, compare them against known attack signatures, and can automatically block detected threats.
+**[Intrusion detection](/intrusion-detection) and prevention** — monitoring for suspicious activity. IDS/IPS systems analyze network traffic patterns, compare them against known attack signatures, and can automatically block detected threats.
 
 The line between network administration and [cybersecurity](/cryptography) is now more blurry. Many organizations expect network administrators to handle both.
 
@@ -167,7 +167,7 @@ Good documentation is invaluable during outages (when stress is high and clear t
 
 The common early narrative was that cloud would eliminate the need for network administrators. In reality, it changed the job. Instead of managing only on-premises networks, administrators now manage hybrid environments: on-premises infrastructure connected to multiple cloud providers (AWS, Azure, Google Cloud) via dedicated connections or VPN tunnels.
 
-Cloud networking introduces new concepts: virtual private clouds (VPCs), security groups, network ACLs, cloud load balancers, transit gateways, and software-defined networking. These aren't physical devices you can walk up to and reboot — they're software constructs managed through web consoles and APIs.
+Cloud [networking](/networking) introduces new concepts: virtual private clouds (VPCs), security groups, network ACLs, cloud load balancers, transit gateways, and software-defined networking. These aren't physical devices you can walk up to and reboot — they're software constructs managed through web consoles and APIs.
 
 The net effect: network administrators need their traditional skills *plus* cloud networking knowledge. The job got harder, not easier.
 
@@ -201,7 +201,7 @@ Several trends are reshaping the field.
 
 **Automation and Infrastructure as Code (IaC).** Manually configuring devices doesn't scale. Tools like Ansible, Terraform, and Python scripting allow administrators to define network configurations in code, version-control them, and deploy them consistently across hundreds of devices. "If you're doing it manually, you're doing it wrong" is becoming the field's mantra — though reality lags behind the aspiration.
 
-**Zero Trust architecture.** The traditional security model — "trust everything inside the network, block everything outside" — is dead. Zero Trust assumes no device or user is inherently trustworthy, requiring authentication and authorization for every access request regardless of network location. Implementing Zero Trust is a major ongoing project for network teams.
+**Zero Trust [architecture](/architecture).** The traditional security model — "trust everything inside the network, block everything outside" — is dead. Zero Trust assumes no device or user is inherently trustworthy, requiring authentication and authorization for every access request regardless of network location. Implementing Zero Trust is a major ongoing project for network teams.
 
 **AI-assisted operations (AIOps).** [Machine learning](/machine-learning) models analyzing network telemetry data can detect anomalies, predict failures before they occur, and suggest optimizations. Cisco, Juniper, and Arista all offer AI-enhanced network management platforms. These tools augment human administrators rather than replacing them — at least for now.
 

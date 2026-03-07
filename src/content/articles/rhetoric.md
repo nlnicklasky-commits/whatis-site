@@ -5,7 +5,7 @@ description: "Rhetoric is the art of persuasive communication through language. 
 category: arts-amp-culture
 tags: ["rhetoric", "persuasion", "communication", "Aristotle", "speech", "writing"]
 heroImage: "/images/articles/rhetoric.webp"
-heroAlt: "Ancient Greek amphitheater where orators practiced rhetoric"
+heroAlt: "Editorial photograph representing the concept of rhetoric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,11 +47,11 @@ Effective rhetoric combines all three. Pure logos can be cold and unpersuasive. 
 
 ## The Classical Tradition
 
-In Athens and Rome, rhetoric was a core part of education — as fundamental as reading and mathematics. Citizens were expected to argue their own cases in court and participate in democratic assemblies. The ability to speak persuasively was a survival skill.
+In Athens and Rome, rhetoric was a core part of [education](/education) — as fundamental as reading and [mathematics](/mathematics). Citizens were expected to argue their own cases in court and participate in democratic assemblies. The ability to speak persuasively was a survival skill.
 
 **The five canons of rhetoric** (from the Roman tradition) describe the complete process of creating a speech:
 
-1. **Invention** (*inventio*) — finding what to say. Developing arguments, identifying evidence, analyzing the audience.
+1. **[Invention](/invention)** (*inventio*) — finding what to say. Developing arguments, identifying evidence, analyzing the audience.
 2. **Arrangement** (*dispositio*) — organizing the material. Introduction, statement of the case, arguments, refutation, conclusion.
 3. **Style** (*elocutio*) — choosing the right words, sentence structures, and figures of speech. Plain style for instruction, middle style for persuasion, grand style for moving emotions.
 4. **Memory** (*memoria*) — techniques for memorizing speeches (before teleprompters). The "memory palace" technique comes from classical rhetoric.
@@ -65,7 +65,7 @@ Rhetoric employs specific techniques — figures of speech and strategies — th
 
 **Antithesis** — juxtaposing contrasting ideas. "Ask not what your country can do for you — ask what you can do for your country" (Kennedy). The contrast makes both sides memorable.
 
-**Tricolon** — a series of three parallel elements. "Government of the people, by the people, for the people" (Lincoln). Three feels complete and satisfying in a way that two doesn't.
+**Tricolon** — a series of three parallel elements. "[Government](/government) of the people, by the people, for the people" (Lincoln). Three feels complete and satisfying in a way that two doesn't.
 
 **Rhetorical questions** — questions asked for effect, not information. "Can we do better? You bet we can." The question engages the audience and guides their thinking.
 
@@ -75,13 +75,13 @@ Rhetoric employs specific techniques — figures of speech and strategies — th
 
 You might think rhetoric is an ancient art with little modern relevance. You'd be wrong. Rhetoric is everywhere — it's just not always labeled.
 
-**Advertising** is applied rhetoric. Every ad uses ethos (celebrity endorsements, expert recommendations), pathos (fear, desire, humor, nostalgia), and logos (statistics, comparisons, demonstrations). The entire advertising industry is a massive exercise in persuasion.
+**Advertising** is applied rhetoric. Every ad uses ethos (celebrity endorsements, expert recommendations), pathos (fear, desire, humor, nostalgia), and logos ([statistics](/statistics), comparisons, demonstrations). The entire advertising industry is a massive exercise in persuasion.
 
-**Politics** runs on rhetoric. Campaign speeches, debate performances, policy framing, political messaging — all are rhetorical activities. When a politician calls an estate tax a "death tax," that's a rhetorical choice that frames the issue emotionally.
+**[Politics](/politics)** runs on rhetoric. Campaign speeches, [debate](/debate) performances, policy framing, political messaging — all are rhetorical activities. When a politician calls an estate tax a "death tax," that's a rhetorical choice that frames the issue emotionally.
 
 **Legal argument** is rhetoric. Lawyers construct arguments using evidence (logos), establish credibility (ethos), and appeal to juries' emotions (pathos). Courtroom persuasion follows patterns Aristotle would recognize instantly.
 
-**Content creation** — blog posts, social media, newsletters, YouTube videos — all employ rhetorical strategies. A thumbnail designed to make you click is using pathos. A creator building trust over time is building ethos. An explainer video walking through evidence is using logos.
+**Content creation** — blog posts, social media, newsletters, YouTube videos — all employ rhetorical strategies. A thumbnail designed to make you click is using pathos. A creator building trust over time is building ethos. An explainer video [walking](/walking) through evidence is using logos.
 
 ## Why It Matters
 

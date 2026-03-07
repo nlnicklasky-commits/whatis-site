@@ -5,7 +5,7 @@ description: "Cognitive neuroscience studies how brain structures and neural act
 category: science
 tags: ["cognitive neuroscience", "neuroscience", "psychology", "brain", "cognition", "neuroimaging", "mental processes"]
 heroImage: "/images/articles/cognitive-neuroscience-hero.webp"
-heroAlt: "Stylized illustration of a human brain with highlighted neural pathways and cognitive regions"
+heroAlt: "Editorial photograph representing the concept of cognitive neuroscience"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -131,7 +131,7 @@ For most of the 20th century, scientists believed the adult brain was essentiall
 
 The brain rewires itself constantly. London taxi drivers, who memorize the city's labyrinthine street layout, develop measurably larger hippocampi than bus drivers who follow fixed routes. Musicians who practice intensively show expanded cortical representations for their instrument's hand. Stroke patients can recover lost functions as other brain regions take over from damaged ones.
 
-This isn't just academically interesting — it's the foundation of rehabilitation. If the brain couldn't change, physical therapy after a stroke would be pointless. Understanding neuroplasticity has directly improved clinical outcomes for millions of patients.
+This isn't just academically interesting — it's the foundation of rehabilitation. If the brain couldn't change, [physical therapy](/physical-therapy) after a stroke would be pointless. Understanding neuroplasticity has directly improved clinical outcomes for millions of patients.
 
 ### The Default Mode Network
 
@@ -169,13 +169,13 @@ Schizophrenia, autism spectrum disorders, addiction — cognitive neuroscience h
 
 Here's where things get interesting for the tech world. Cognitive neuroscience and [machine learning](/machine-learning) have a complicated, productive relationship.
 
-Early artificial neural networks were loosely inspired by biological neurons. The basic unit — take inputs, apply weights, sum them up, pass through an activation function — was a simplified model of what real neurons do. Deep learning architectures like convolutional neural networks were directly inspired by the visual cortex's hierarchical processing, where simple features are combined into increasingly complex representations.
+Early artificial [neural networks](/neural-networks) were loosely inspired by biological neurons. The basic unit — take inputs, apply weights, sum them up, pass through an activation function — was a simplified model of what real neurons do. Deep learning architectures like convolutional neural networks were directly inspired by the visual cortex's hierarchical processing, where simple features are combined into increasingly complex representations.
 
 But the relationship goes both ways. Machine learning now helps cognitive neuroscientists analyze brain data. When you record activity from millions of voxels in an fMRI scan or thousands of electrodes in an EEG, [algorithms](/algorithms) are essential for finding meaningful patterns. Multivariate pattern analysis (MVPA) uses machine learning to decode what someone is thinking from their brain activity — literally reading minds, in a limited sense.
 
 Researchers have used these techniques to reconstruct images that participants are viewing, decode speech that participants are imagining, and even predict decisions before participants are consciously aware they've made them. It's not telepathy, and it requires controlled laboratory conditions, but it's real and getting better.
 
-Reinforcement learning — a major branch of AI — was directly inspired by how dopamine neurons signal reward prediction errors. The same mathematical framework (temporal difference learning) describes both how your brain learns from rewards and how AI agents learn to play games.
+[Reinforcement learning](/reinforcement-learning) — a major branch of AI — was directly inspired by how dopamine neurons signal reward prediction errors. The same mathematical framework (temporal difference learning) describes both how your brain learns from rewards and how AI agents learn to play games.
 
 ## Current Frontiers
 
@@ -193,7 +193,7 @@ The field moved from laboratory demonstrations to FDA-approved clinical devices 
 
 The "hard problem" of consciousness — explaining why subjective experience exists at all — remains unsolved. But cognitive neuroscience is making progress on the "easy problems" — identifying which neural processes correlate with conscious versus unconscious processing.
 
-Two competing theories dominate the field. Global Workspace Theory proposes that consciousness arises when information is broadcast widely across the brain, making it available to multiple cognitive systems simultaneously. Integrated Information Theory proposes that consciousness corresponds to integrated information in a system — the degree to which a system is both differentiated (many possible states) and integrated (unified as a whole).
+Two competing theories dominate the field. Global Workspace Theory proposes that consciousness arises when information is broadcast widely across the brain, making it available to multiple cognitive systems simultaneously. Integrated [Information Theory](/information-theory) proposes that consciousness corresponds to integrated information in a system — the degree to which a system is both differentiated (many possible states) and integrated (unified as a whole).
 
 Large-scale adversarial collaborations are now testing these theories head-to-head, with pre-registered experiments designed to distinguish between their predictions. This is science at its best — competing theories making different predictions, tested rigorously.
 
@@ -205,7 +205,7 @@ If brain scans can detect lies more reliably than polygraphs (and the evidence i
 
 Cognitive enhancement raises fairness issues. If brain stimulation can improve memory or attention, should students use it before exams? Should employers require it? Should it be regulated like performance-enhancing drugs in sports?
 
-Neuromarketing — using brain imaging to optimize advertising — already exists. Companies scan consumers' brains to identify which ads produce the strongest emotional responses. Is this manipulation? Or just better market research?
+Neuromarketing — using brain imaging to optimize advertising — already exists. Companies scan consumers' brains to identify which ads produce the strongest emotional responses. Is this manipulation? Or just better [market research](/market-research)?
 
 These questions don't have easy answers. But cognitive neuroscience is advancing fast enough that society needs to start developing frameworks for addressing them now — not after the technology is already widespread.
 

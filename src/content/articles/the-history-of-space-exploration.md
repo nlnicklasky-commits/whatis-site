@@ -5,7 +5,7 @@ description: "The history of space exploration covers the journey from early roc
 category: history
 tags: ["space exploration", "space race", "nasa", "rockets", "satellites"]
 heroImage: "/images/articles/the-history-of-space-exploration.webp"
-heroAlt: "Rocket launching into space with Earth visible in the background"
+heroAlt: "Editorial photograph representing the concept of the history of space exploration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is The History of Space Exploration?
 
-The history of space exploration is the story of how humans went from staring at the sky and making up stories about it to actually going there. It took thousands of years of dreaming, about 50 years of serious engineering, and several trillion dollars — but we pulled it off. Sort of. We've been to the Moon six times and haven't gone back in over 50 years. We've landed robots on Mars but haven't sent people. The story is impressive and frustrating in equal measure.
+The history of space exploration is the story of how humans went from staring at the sky and making up stories about it to actually going there. It took thousands of years of dreaming, about 50 years of serious [engineering](/engineering), and several trillion dollars — but we pulled it off. Sort of. We've been to the Moon six times and haven't gone back in over 50 years. We've landed robots on Mars but haven't sent people. The story is impressive and frustrating in equal measure.
 
 ## Rockets: The Part Most People Skip
 
@@ -43,7 +43,7 @@ The Chinese invented gunpowder around the 9th century CE and were firing "fire a
 
 The theoretical groundwork for spaceflight came from three men working independently in three countries, none of whom ever met.
 
-**Konstantin Tsiolkovsky** (1857–1935), a self-taught Russian teacher who was nearly deaf, worked out the mathematics of rocket propulsion in the 1890s. His **rocket equation** — which relates a rocket's velocity change to its exhaust velocity and mass ratio — is still the fundamental equation of spaceflight. He envisioned multi-stage rockets, space stations, and even interplanetary travel. He published these ideas in Russian journals that almost nobody read.
+**Konstantin Tsiolkovsky** (1857–1935), a self-taught Russian teacher who was nearly deaf, worked out the [mathematics](/mathematics) of rocket propulsion in the 1890s. His **rocket equation** — which relates a rocket's velocity change to its exhaust velocity and mass ratio — is still the fundamental equation of spaceflight. He envisioned multi-stage rockets, space stations, and even interplanetary travel. He published these ideas in Russian journals that almost nobody read.
 
 **Robert Goddard** (1882–1945) in the United States built and launched the world's first liquid-fueled rocket on March 16, 1926, from a farm in Auburn, Massachusetts. It flew for 2.5 seconds, reaching an altitude of 12.5 meters. The *New York Times* mocked him for supposedly not understanding that rockets can't work in a vacuum (they were wrong — the *Times* issued a correction in 1969, the day after Apollo 11 launched).
 
@@ -53,7 +53,7 @@ The theoretical groundwork for spaceflight came from three men working independe
 
 The first object to reach space was a weapon.
 
-During World War II, Nazi Germany developed the **V-2 rocket** under **Wernher von Braun** at the Peenemunde research center. The V-2 was a ballistic missile that could reach altitudes over 100 km — technically space. It killed about 9,000 civilians when fired at London and Antwerp. Meanwhile, roughly 12,000 concentration camp prisoners died building V-2s at the underground Mittelwerk factory.
+During [World War II](/world-war-ii), Nazi Germany developed the **V-2 rocket** under **Wernher von Braun** at the Peenemunde research center. The V-2 was a ballistic missile that could reach altitudes over 100 km — technically space. It killed about 9,000 civilians when fired at London and Antwerp. Meanwhile, roughly 12,000 concentration camp prisoners died building V-2s at the underground Mittelwerk factory.
 
 This is the uncomfortable origin story of space exploration. After the war, both the U.S. and the Soviet Union scrambled to capture German rocket scientists and [technology](/the-history-of-technology). Von Braun surrendered to the Americans and was brought to the U.S. under Operation Paperclip, where he eventually became the architect of NASA's Moon program. His past was quietly glossed over. Tom Lehrer's sardonic song captured it perfectly: "Once the rockets are up, who cares where they come down? / That's not my department, says Wernher von Braun."
 
@@ -61,7 +61,7 @@ This is the uncomfortable origin story of space exploration. After the war, both
 
 On October 4, 1957, the Soviet Union launched **Sputnik 1** — a polished metal sphere, 58 cm in diameter, weighing 83.6 kg, that did nothing but transmit a steady beep-beep-beep as it orbited Earth every 96 minutes. It was, technologically speaking, not very impressive.
 
-Its impact was seismic. Americans panicked. If the Soviets could put a satellite in orbit, they could put a nuclear warhead anywhere on Earth. The response was massive: the creation of NASA in 1958, a dramatic increase in science education funding, and a national commitment to catching up.
+Its impact was seismic. Americans panicked. If the Soviets could put a satellite in orbit, they could put a nuclear warhead anywhere on Earth. The response was massive: the creation of NASA in 1958, a dramatic increase in science [education](/education) funding, and a national commitment to catching up.
 
 The Soviets kept racking up firsts. **Laika** the dog became the first animal in orbit (November 1957 — she died within hours, though the Soviets didn't admit this for decades). **Yuri Gagarin** became the first human in space on April 12, 1961. **Valentina Tereshkova** became the first woman in space in June 1963. **Alexei Leonov** performed the first spacewalk in March 1965 — and nearly died when his spacesuit inflated in the vacuum and he couldn't fit back through the airlock.
 
@@ -93,11 +93,11 @@ Meanwhile, uncrewed missions explored the solar system with spectacular results.
 
 ## The New Space Age
 
-The 21st century brought a shift from government monopoly to commercial spaceflight.
+The 21st century brought a shift from [government](/government) monopoly to commercial spaceflight.
 
 **SpaceX**, founded by Elon Musk in 2002, developed reusable rockets that dramatically reduced launch costs. The first successful landing of an orbital booster in December 2015 was a watershed moment. SpaceX's **Crew Dragon** began carrying NASA astronauts to the ISS in 2020, ending U.S. dependence on Russian Soyuz vehicles.
 
-**Blue Origin** (Jeff Bezos) and **Virgin Galactic** (Richard Branson) entered the suborbital tourism market. China's space program achieved its own milestones: a crewed space station (**Tiangong**), a lunar rover on the far side of the Moon (Chang'e 4, 2019), and Mars rover (Zhurong, 2021).
+**Blue Origin** (Jeff Bezos) and **Virgin Galactic** (Richard Branson) entered the suborbital [tourism](/tourism) market. China's space program achieved its own milestones: a crewed space station (**Tiangong**), a lunar rover on the far side of the Moon (Chang'e 4, 2019), and Mars rover (Zhurong, 2021).
 
 India's space agency **ISRO** sent an orbiter to Mars in 2014 on its first attempt — and did it for $74 million, less than the budget of the movie *Gravity*.
 

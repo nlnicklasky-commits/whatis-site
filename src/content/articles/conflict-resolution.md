@@ -5,7 +5,7 @@ description: "Conflict resolution is the process of settling disputes peacefully
 category: everyday-concepts
 tags: ["peacebuilding", "negotiation", "mediation", "communication", "dispute resolution", "psychology"]
 heroImage: "/images/articles/conflict-resolution.webp"
-heroAlt: "Two people shaking hands across a table with a mediator seated between them"
+heroAlt: "Editorial photograph representing the concept of conflict resolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ The issue is never whether conflict will happen. It's how it gets handled. Manag
 
 ## The Core Approaches
 
-**Direct negotiation** is the simplest approach — the parties talk directly to each other and work toward agreement. Most everyday conflicts get resolved this way (or don't get resolved this way). Effective negotiation requires both parties to listen, express their interests clearly, and be willing to explore solutions that satisfy both sides.
+**Direct [negotiation](/negotiation)** is the simplest approach — the parties talk directly to each other and work toward agreement. Most everyday conflicts get resolved this way (or don't get resolved this way). Effective negotiation requires both parties to listen, express their interests clearly, and be willing to explore solutions that satisfy both sides.
 
 The Harvard Negotiation Project's "Getting to Yes" framework (Fisher and Ury, 1981) transformed how people think about negotiation. Its key insight: focus on interests, not positions. A position is what someone says they want ("I want that office"). An interest is why they want it ("I need quiet space to concentrate"). When you understand interests, creative solutions become possible — maybe there's a quiet office neither party considered, or noise-canceling headphones solve the actual problem.
 
@@ -61,13 +61,13 @@ Professional mediation has a remarkably high success rate. The American Arbitrat
 
 **Emotional regulation** matters because conflict triggers fight-or-flight responses. Your heart rate increases, cortisol floods your system, and your prefrontal cortex (the rational thinking part) gets sidelined. Learning to recognize these physiological responses and manage them — taking a pause, breathing, stepping back — preserves your ability to think clearly when you need it most.
 
-**Reframing** transforms how a conflict is understood. "You never listen to me" is an attack. "I feel unheard when I bring up scheduling issues" is a reframing that expresses the same frustration without triggering defensiveness. The shift from "you" to "I" language isn't just a therapy cliche — it genuinely changes the trajectory of difficult conversations.
+**Reframing** transforms how a conflict is understood. "You never listen to me" is an attack. "I feel unheard when I bring up [scheduling](/scheduling) issues" is a reframing that expresses the same frustration without triggering defensiveness. The shift from "you" to "I" language isn't just a therapy cliche — it genuinely changes the trajectory of difficult conversations.
 
 **Separating people from problems** prevents disagreements about ideas from becoming personal attacks. You can disagree strongly with someone's proposal without questioning their intelligence, character, or motives. This distinction is easy to understand and hard to maintain under pressure.
 
 ## Conflict in Organizations
 
-Workplace conflict costs U.S. businesses an estimated $359 billion annually in lost productivity, according to CPP Global research. Managers spend an average of 4.3 hours per week dealing with conflict — that's over 20% of management time.
+Workplace conflict costs U.S. businesses an estimated $359 billion annually in lost [productivity](/productivity), according to CPP Global research. Managers spend an average of 4.3 hours per week dealing with conflict — that's over 20% of [management](/management) time.
 
 Organizations handle conflict through formal and informal systems. HR departments, employee assistance programs, ombudspersons, and grievance procedures provide structured channels. Training programs in [communication](/critical-thinking) and conflict management build individual skills. The most effective organizations create cultures where productive disagreement is encouraged and personal conflict is addressed early.
 
@@ -75,7 +75,7 @@ The Thomas-Kilmann Conflict Mode Instrument, used by millions of professionals, 
 
 ## International Conflict Resolution
 
-At the geopolitical scale, conflict resolution involves diplomacy, treaties, international law, peacekeeping, and — when everything else fails — intervention.
+At the geopolitical scale, conflict resolution involves [diplomacy](/diplomacy), treaties, [international law](/international-law), peacekeeping, and — when everything else fails — intervention.
 
 The United Nations was founded in 1945 with conflict prevention and resolution as core missions. Its track record is mixed but non-trivial — UN peacekeeping operations have been deployed in over 70 countries, and research suggests they significantly reduce the likelihood of conflict recurrence.
 

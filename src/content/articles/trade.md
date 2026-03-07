@@ -5,7 +5,7 @@ description: "Trade is the voluntary exchange of goods, services, or money betwe
 category: finance
 tags: ["trade", "economics", "commerce", "international trade"]
 heroImage: "/images/articles/trade.webp"
-heroAlt: "Aerial view of a busy container port with cargo ships and stacked shipping containers"
+heroAlt: "Editorial photograph representing the concept of trade"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Trade is the voluntary exchange of goods, services, or money between two or more
 
 ## The Oldest Economic Activity
 
-Humans have been trading for at least 150,000 years. Archaeologists have found obsidian tools hundreds of miles from their volcanic sources, seashells used as ornaments far inland, and flint blades distributed across distances that no single group could have traveled. Long before money, writing, or even agriculture — people traded.
+Humans have been trading for at least 150,000 years. Archaeologists have found obsidian tools hundreds of miles from their volcanic sources, seashells used as ornaments far inland, and flint blades distributed across distances that no single group could have traveled. Long before money, writing, or even [agriculture](/agriculture) — people traded.
 
 Why? Because trade solves a fundamental problem. No individual, family, village, or country can efficiently produce everything it needs. Specialization makes everyone more productive, but specialization only works if you can exchange your surplus for things you don't produce yourself. A wheat farmer doesn't need 10,000 bushels of wheat. She needs wheat, plus tools, clothing, medical care, and a thousand other things. Trade turns her specialized production into access to everything else.
 
@@ -61,13 +61,13 @@ But here's where it gets interesting. David Ricardo showed in 1817 that trade be
 
 Say Portugal can produce both wine and cloth more efficiently than England. Portugal is better at everything. Should they bother trading? Ricardo said yes, absolutely. If Portugal is *relatively* more efficient at wine than at cloth, it should specialize in wine and let England handle cloth — even though Portugal could make cloth better. By focusing on its comparative advantage, Portugal gets more total output, and so does England.
 
-This insight — counterintuitive and frequently misunderstood — is the theoretical foundation for virtually all arguments in favor of free trade. It's been called the only proposition in economics that is both true and non-obvious.
+This insight — counterintuitive and frequently misunderstood — is the theoretical foundation for virtually all arguments in favor of free trade. It's been called the only proposition in [economics](/economics) that is both true and non-obvious.
 
 ### The Heckscher-Ohlin Model
 
 In the 20th century, Swedish economists Eli Heckscher and Bertil Ohlin expanded trade theory by asking: what determines comparative advantage? Their answer: countries export goods that intensively use their abundant factors of production. Land-rich countries export agricultural products. Capital-rich countries export manufactured goods. Labor-abundant countries export labor-intensive products.
 
-This model explains a lot of real-world trade patterns. Bangladesh exports garments (labor-intensive). Saudi Arabia exports oil (resource-intensive). Japan exports electronics and vehicles (capital and technology-intensive). The pattern isn't perfect — plenty of trade doesn't fit the model neatly — but it captures the broad strokes.
+This model explains a lot of real-world trade patterns. Bangladesh exports garments (labor-intensive). Saudi Arabia exports oil (resource-intensive). Japan exports [electronics](/electronics) and vehicles (capital and technology-intensive). The pattern isn't perfect — plenty of trade doesn't fit the model neatly — but it captures the broad strokes.
 
 ## A 10,000-Year Tour of Trade History
 
@@ -81,7 +81,7 @@ Ancient maritime trade was equally impressive. Phoenician merchants sailed the e
 
 European exploration from the 15th century onward was driven overwhelmingly by trade. Columbus wasn't looking for new continents — he was looking for a shorter trade route to Asia's spices. The Portuguese rounded Africa for the same reason. The Dutch East India Company, founded in 1602, was essentially a trading corporation with its own army and navy, and it became the most valuable company in history (adjusted for inflation).
 
-Mercantilism — the dominant economic philosophy from roughly 1500-1800 — viewed trade as a zero-sum game. Nations competed to export more than they imported, hoarding gold and silver as measures of wealth. Colonies existed to supply raw materials and consume manufactured goods from the mother country. This philosophy drove European colonialism and shaped global trade patterns for centuries.
+Mercantilism — the dominant economic [philosophy](/philosophy) from roughly 1500-1800 — viewed trade as a zero-sum game. Nations competed to export more than they imported, hoarding gold and silver as measures of wealth. Colonies existed to supply raw materials and consume manufactured goods from the mother country. This philosophy drove European colonialism and shaped global trade patterns for centuries.
 
 ### The Free Trade Revolution
 
@@ -91,9 +91,9 @@ The late 19th century saw a massive expansion of global trade, enabled by steams
 
 ### The 20th Century: Collapse and Rebuilding
 
-World War I shattered the first era of globalization. The interwar period brought rising protectionism, culminating in the Smoot-Hawley Tariff Act of 1930, which raised U.S. tariffs to historically high levels. Trading partners retaliated. Global trade collapsed by roughly 65% between 1929 and 1934, deepening the Great Depression.
+[World War I](/world-war-i) shattered the first era of globalization. The interwar period brought rising protectionism, culminating in the Smoot-Hawley Tariff Act of 1930, which raised U.S. tariffs to historically high levels. Trading partners retaliated. Global trade collapsed by roughly 65% between 1929 and 1934, deepening the Great Depression.
 
-The lesson was painful but clear: protectionist spirals make everyone poorer. After World War II, the victorious allies created institutions to prevent a repeat — the General Agreement on Tariffs and Trade (GATT, 1947), the International Monetary Fund, and the World Bank. Over eight rounds of GATT negotiations between 1947 and 1994, average tariffs among developed nations fell from about 40% to under 5%.
+The lesson was painful but clear: protectionist spirals make everyone poorer. After [World War II](/world-war-ii), the victorious allies created institutions to prevent a repeat — the General Agreement on Tariffs and Trade (GATT, 1947), the International Monetary Fund, and the World Bank. Over eight rounds of GATT negotiations between 1947 and 1994, average tariffs among developed nations fell from about 40% to under 5%.
 
 GATT evolved into the [World Trade Organization](https://www.wto.org/) in 1995, which now has 164 member countries and handles trade disputes through a formalized legal process. Like it or not, the rules-based trading system the WTO oversees is the most ambitious attempt in history to manage global commerce.
 
@@ -108,13 +108,13 @@ Global merchandise trade totaled approximately $25 trillion in 2022, according t
 - **Agricultural products** account for about 10% — food, raw materials, beverages.
 - **Services** include financial services, tourism, shipping, telecommunications, and intellectual property licensing.
 
-The geography of trade has shifted dramatically. In 1980, developing countries accounted for about 25% of world exports. By 2022, that share exceeded 45%, driven overwhelmingly by East Asia — particularly China, which became the world's largest exporter of goods in 2009.
+The [geography](/geography) of trade has shifted dramatically. In 1980, developing countries accounted for about 25% of world exports. By 2022, that share exceeded 45%, driven overwhelmingly by East Asia — particularly China, which became the world's largest exporter of goods in 2009.
 
 ### Supply Chains: Trade in Pieces
 
 Modern trade isn't just finished products crossing borders. A single product might cross borders multiple times during production. Apple's iPhone is designed in California, uses components from over 40 countries, and is assembled in China. A "German" car might contain a Mexican transmission, a Chinese battery, a Japanese display, and Hungarian wiring harnesses.
 
-These global supply chains mean that trade statistics can be misleading. When China exports a $1,000 iPhone, only about $25 of that value was actually added in China (mostly assembly labor). The rest went to component manufacturers in Korea, Japan, Taiwan, and elsewhere. Looking at gross trade flows overstates the role of the final exporter and understates the role of component suppliers.
+These global supply chains mean that trade [statistics](/statistics) can be misleading. When China exports a $1,000 iPhone, only about $25 of that value was actually added in China (mostly assembly labor). The rest went to component manufacturers in Korea, Japan, Taiwan, and elsewhere. Looking at gross trade flows overstates the role of the final exporter and understates the role of component suppliers.
 
 The COVID-19 pandemic exposed the fragility of long supply chains. When factories in one country shut down, production lines thousands of miles away ground to a halt. Semiconductor shortages alone cost the global auto industry an estimated $210 billion in 2021. This experience prompted many companies and governments to rethink supply chain strategies — "nearshoring" production closer to home, diversifying suppliers, and stockpiling critical components.
 
@@ -141,7 +141,7 @@ The Peterson Institute for International Economics estimates that trade liberali
 
 But "aggregate welfare" hides a lot of pain. When a factory closes because production moved overseas, the aggregate economy might be better off, but the workers at that factory are not. The gains from trade are diffuse (slightly lower prices for millions of consumers) while the losses are concentrated (devastated communities, displaced workers, declining regions).
 
-Economist David Autor's research on the "China shock" found that U.S. regions most exposed to Chinese import competition between 1990 and 2007 experienced significantly higher unemployment, lower wages, and increased reliance on government assistance. The affected communities hadn't recovered even a decade later.
+Economist David Autor's research on the "China shock" found that U.S. regions most exposed to Chinese import competition between 1990 and 2007 experienced significantly higher unemployment, lower wages, and increased reliance on [government](/government) assistance. The affected communities hadn't recovered even a decade later.
 
 National security arguments for protection are also taken seriously. Countries may reasonably want domestic production capacity for military equipment, critical medicines, semiconductors, and essential infrastructure. Depending on imports for these items means depending on trade relationships that could be disrupted by conflict or political disagreement.
 

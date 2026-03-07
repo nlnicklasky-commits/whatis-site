@@ -5,7 +5,7 @@ description: "Deep learning uses multi-layered neural networks to learn patterns
 category: technology
 tags: ["deep learning", "neural networks", "ai", "machine learning", "computer vision", "nlp", "tensorflow"]
 heroImage: "/images/articles/deep-learning-hero.webp"
-heroAlt: "Neural network diagram showing interconnected layers of nodes processing data"
+heroAlt: "Editorial photograph representing the concept of deep learning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Deep Learning?
 
-Deep learning is a subset of [machine learning](/machine-learning) that uses artificial neural networks with multiple layers to progressively extract higher-level features from raw input data. A deep learning model processing an image, for example, might detect edges in the first layer, shapes in the second, object parts in the third, and complete objects in the fourth—all without being explicitly programmed to look for any of these features.
+Deep learning is a subset of [machine learning](/machine-learning) that uses artificial [neural networks](/neural-networks) with multiple layers to progressively extract higher-level features from raw input data. A deep learning model processing an image, for example, might detect edges in the first layer, shapes in the second, object parts in the third, and complete objects in the fourth—all without being explicitly programmed to look for any of these features.
 
 ## From Perceptrons to GPT: A Quick History
 
@@ -51,9 +51,9 @@ The story of deep learning stretches back further than most people realize—and
 
 **2006**: Hinton (again) introduced deep belief networks and techniques for training very deep networks effectively. This is often cited as the beginning of modern deep learning.
 
-**2012**: The real explosion. Alex Krizhevsky's AlexNet—a deep convolutional neural network—won the ImageNet competition by a staggering margin, reducing the error rate from 26% to 16%. This wasn't an incremental improvement; it was a model shift. The computer vision community pivoted to deep learning almost overnight.
+**2012**: The real explosion. Alex Krizhevsky's AlexNet—a deep convolutional neural network—won the ImageNet competition by a staggering margin, reducing the error rate from 26% to 16%. This wasn't an incremental improvement; it was a model shift. The [computer vision](/computer-vision) community pivoted to deep learning almost overnight.
 
-**2017**: The Google team published "Attention Is All You Need," introducing the Transformer architecture. This became the foundation for GPT, BERT, and essentially every large language model that followed.
+**2017**: The Google team published "Attention Is All You Need," introducing the Transformer [architecture](/architecture). This became the foundation for GPT, BERT, and essentially every large language model that followed.
 
 **2022-present**: Large language models (ChatGPT, Claude, Gemini) and image generation models (DALL-E, Stable Diffusion, Midjourney) brought deep learning into mainstream public awareness. Suddenly, everyone's grandparents had an opinion about neural networks.
 
@@ -121,7 +121,7 @@ CNNs are designed for grid-like data—primarily images. Instead of connecting e
 
 The architecture mirrors how biological vision works—V1 cortex cells detect edges, V2 detects shapes, and higher areas recognize objects. CNNs learn a similar hierarchy without being told to.
 
-Key applications: image classification (is this a cat or a dog?), object detection (where are the cars in this photo?), medical imaging (is this X-ray showing a fracture?), facial recognition, autonomous vehicle vision, and satellite image analysis.
+Key applications: image classification (is this a cat or a dog?), object detection (where are the cars in this photo?), [medical imaging](/medical-imaging) (is this X-ray showing a fracture?), facial recognition, autonomous vehicle vision, and satellite image analysis.
 
 Notable architectures: AlexNet (2012), VGGNet (2014), GoogLeNet/Inception (2014), ResNet (2015—introduced skip connections that enabled training networks with 152+ layers), and EfficientNet (2019).
 
@@ -180,7 +180,7 @@ Deep learning dominates computer vision. Specific applications:
 - **Manufacturing**: Inspecting products for defects on assembly lines at speeds impossible for human inspectors.
 - **Agriculture**: Drone-based crop monitoring, disease detection, and yield prediction using satellite imagery.
 
-### Natural Language Processing
+### [Natural Language Processing](/natural-language-processing)
 
 Language is where deep learning has made its most visible public impact.
 
@@ -200,7 +200,7 @@ Language is where deep learning has made its most visible public impact.
 - **Protein structure prediction**: DeepMind's AlphaFold predicted structures for nearly all known proteins, solving a 50-year grand challenge in biology.
 - **Drug discovery**: Deep learning identifies potential drug candidates by analyzing molecular structures, reducing the time from target identification to lead compound.
 - **Climate modeling**: Neural networks accelerate climate simulations and improve weather prediction accuracy.
-- **Materials science**: Predicting properties of new materials before synthesizing them.
+- **[Materials science](/materials-science)**: Predicting properties of new materials before synthesizing them.
 
 ## The Hardware Story
 
@@ -244,11 +244,11 @@ Large language models generate text that sounds confident and plausible but is f
 
 **Multimodal models** process multiple data types (text, images, audio, video) in a single architecture. GPT-4V, Gemini, and similar models understand images alongside text, and this trend toward unified models across modalities is accelerating.
 
-**Smaller, efficient models** are getting attention as the costs of massive models become apparent. Techniques like distillation (training a small model to mimic a large one), quantization (reducing numerical precision), and pruning (removing unnecessary connections) make deep learning practical on mobile devices and edge hardware.
+**Smaller, efficient models** are getting attention as the costs of massive models become apparent. Techniques like [distillation](/distillation) (training a small model to mimic a large one), quantization (reducing numerical precision), and pruning (removing unnecessary connections) make deep learning practical on mobile devices and edge hardware.
 
 **Agent-based systems** use deep learning models as reasoning engines within larger systems that can take actions—searching the web, writing code, using tools, and making plans. This moves beyond question-answering toward autonomous task completion.
 
-**Neuroscience-inspired architectures** look beyond Transformers. Spiking neural networks, which more closely model biological neurons, and state-space models like Mamba offer alternatives with different computational tradeoffs.
+**[Neuroscience](/neuroscience)-inspired architectures** look beyond Transformers. Spiking neural networks, which more closely model biological neurons, and state-space models like Mamba offer alternatives with different computational tradeoffs.
 
 ## Key Takeaways
 

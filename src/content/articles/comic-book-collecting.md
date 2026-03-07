@@ -5,7 +5,7 @@ description: "Comic book collecting is the hobby of acquiring, preserving, and t
 category: everyday-concepts
 tags: ["comic book collecting", "comics", "collectibles", "hobbies", "graphic novels", "superheroes"]
 heroImage: "/images/articles/comic-book-collecting.webp"
-heroAlt: "Long boxes of comic books with colorful spines organized in a collector's room"
+heroAlt: "Editorial photograph representing the concept of comic book collecting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Comic Book Collecting?
 
-Comic book collecting is the hobby of acquiring, organizing, preserving, and sometimes trading comic books. Collectors pursue comics for many reasons — nostalgia, artistic appreciation, investment potential, or the simple joy of hunting for specific issues. The hobby supports a global market worth an estimated $1.3 billion annually.
+Comic book collecting is the hobby of acquiring, organizing, preserving, and sometimes trading comic books. Collectors pursue comics for many reasons — nostalgia, artistic appreciation, investment potential, or the simple joy of [hunting](/hunting) for specific issues. The hobby supports a global market worth an estimated $1.3 billion annually.
 
 ## The Quick History
 
@@ -87,7 +87,7 @@ CBCS (Comic Book Certification Service) offers an alternative grading service wi
 
 **Online marketplaces** — eBay, MyComicShop, and ComicConnect — offer the largest selection but require caution about seller reputation and accurate condition descriptions. Heritage Auctions handles the high-end market, where individual comics sell for thousands to millions.
 
-**Estate sales and garage sales** are where legendary finds happen. Someone's grandparent's attic occasionally yields Golden or Silver Age books that have sat undisturbed for decades. It's increasingly rare, but it does still happen.
+**Estate [sales](/sales) and garage sales** are where legendary finds happen. Someone's grandparent's attic occasionally yields Golden or Silver Age books that have sat undisturbed for decades. It's increasingly rare, but it does still happen.
 
 ## The Digital Question
 

@@ -5,7 +5,7 @@ description: "Psychophysics studies the relationship between physical stimuli an
 category: science
 tags: ["psychophysics", "perception", "sensory science", "thresholds", "absolute threshold", "gustav fechner"]
 heroImage: "/images/articles/psychophysics-hero.webp"
-heroAlt: "Gradient of light intensities showing perceptual thresholds and stimulus detection"
+heroAlt: "Editorial photograph representing the concept of psychophysics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ Psychophysics is the scientific study of the relationship between physical stimu
 
 ## The Birth of Quantitative Psychology
 
-Psychophysics holds a special place in the history of science: it was the first successful attempt to apply mathematical measurement to mental experience. Before Fechner, most philosophers and scientists considered the mind unmeasurable. Immanuel Kant had explicitly declared that psychology could never become a proper science because mental phenomena couldn't be quantified.
+Psychophysics holds a special place in [the history of science](/the-history-of-science): it was the first successful attempt to apply mathematical measurement to mental experience. Before Fechner, most philosophers and scientists considered the mind unmeasurable. Immanuel Kant had explicitly declared that psychology could never become a proper science because mental phenomena couldn't be quantified.
 
 Fechner disagreed. He was a physicist who had suffered a nervous breakdown, spent years in a dark room recovering, and emerged with a philosophical obsession: proving that mind and matter were two aspects of the same reality. His tool for this project was measurement.
 
@@ -121,7 +121,7 @@ The field has evolved far beyond threshold measurement, though classical methods
 
 Modern psychophysics often uses adaptive procedures that adjust stimulus difficulty based on the participant's previous responses. Get a trial right, and the next one gets harder. Get it wrong, and it gets easier. These staircase methods converge efficiently on the threshold, requiring fewer trials than classical approaches.
 
-QUEST, developed by Andrew Watson and Denis Pelli in 1983, uses Bayesian statistics to optimally select each stimulus level based on all previous responses. It can estimate a threshold in as few as 20-40 trials—an enormous efficiency gain.
+QUEST, developed by Andrew Watson and Denis Pelli in 1983, uses [Bayesian statistics](/bayesian-statistics) to optimally select each stimulus level based on all previous responses. It can estimate a threshold in as few as 20-40 trials—an enormous efficiency gain.
 
 ### Multisensory Integration
 
@@ -145,7 +145,7 @@ Your phone screen, your monitor, your TV—all designed with psychophysical prin
 
 Apple's "Retina" display was explicitly designed around psychophysical data—the pixel density exceeds the eye's resolving ability at typical viewing distances. The HDR (High Active Range) standard for televisions is based on psychophysical data about brightness discrimination. Every display specification that mentions "perceptually uniform" is drawing on psychophysics.
 
-### Audio Engineering
+### [Audio Engineering](/audio-engineering)
 
 The entire field of audio engineering relies on psychophysical principles. The equal-loudness contours (Fletcher-Munson curves) show that human hearing sensitivity varies dramatically with frequency—we're most sensitive around 2-5 kHz (where speech consonants live) and much less sensitive at very low and very high frequencies. Audio equipment design, compression algorithms (like MP3), and concert hall [acoustics](/acoustics) all use these curves.
 
@@ -171,7 +171,7 @@ Modern psychophysics often pairs perceptual measurements with neural recordings,
 
 Single-neuron recordings in animals performing psychophysical tasks have revealed that detection thresholds correspond to specific patterns of neural activity. A monkey's ability to detect a faint visual motion signal correlates tightly with the firing rate of neurons in area MT (a motion-processing area). The neural threshold and the behavioral threshold align remarkably closely.
 
-This work has established that psychophysical thresholds aren't arbitrary—they reflect fundamental limits imposed by neural noise and signal processing architecture.
+This work has established that psychophysical thresholds aren't arbitrary—they reflect fundamental limits imposed by neural noise and [signal processing](/signal-processing) architecture.
 
 ### Ideal Observer Analysis
 
@@ -189,6 +189,6 @@ Still, psychophysics has established something important: subjective experience 
 
 ## Why It Endures
 
-Psychophysics is one of the oldest branches of experimental [psychology](/psychology)—predating almost everything else in the field. And it endures because its core question never goes out of date: How does the physical world map onto human experience? Every new technology that presents information to human senses reopens this question. Every medical imaging advance requires psychophysical evaluation. Every display, speaker, or haptic device is designed against psychophysical benchmarks.
+Psychophysics is one of the oldest branches of experimental [psychology](/psychology)—predating almost everything else in the field. And it endures because its core question never goes out of date: How does the physical world map onto human experience? Every new technology that presents information to human senses reopens this question. Every [medical imaging](/medical-imaging) advance requires psychophysical evaluation. Every display, speaker, or haptic device is designed against psychophysical benchmarks.
 
 The methods Fechner invented in 1860 have been refined, extended, and mathematically sophisticated by generations of researchers. But the fundamental approach—carefully controlling physical stimuli, precisely measuring human responses, and fitting mathematical models to the relationship—remains as productive now as it was then. In a field where theories come and go, psychophysics' empirical methods have proven remarkably durable. The question of how mind meets matter may never be fully answered, but psychophysics has given us the tools to characterize that meeting point with extraordinary precision.

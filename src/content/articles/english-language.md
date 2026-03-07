@@ -5,7 +5,7 @@ description: "English is a global language spoken by over 1.5 billion people. Ex
 category: everyday-concepts
 tags: ["english language", "linguistics", "global language", "communication", "grammar", "vocabulary"]
 heroImage: "/images/articles/english-language.webp"
-heroAlt: "An open English dictionary with reading glasses resting on the pages"
+heroAlt: "Editorial photograph representing the concept of english language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is English Language?
 
-English is a West Germanic language that originated in early medieval England, evolved through centuries of invasion, colonization, and cultural exchange, and became — through a combination of historical accident, imperial power, and technological timing — the closest thing to a universal language the world has ever had. Roughly 1.5 billion people speak it, making it the most widely spoken language on Earth. It's the dominant language of international business, science, aviation, diplomacy, entertainment, and the internet.
+English is a West Germanic language that originated in early medieval England, evolved through centuries of invasion, colonization, and cultural exchange, and became — through a combination of historical accident, imperial power, and technological timing — the closest thing to a universal language the world has ever had. Roughly 1.5 billion people speak it, making it the most widely spoken language on Earth. It's the dominant language of [international business](/international-business), science, [aviation](/aviation), [diplomacy](/diplomacy), entertainment, and the internet.
 
 ## A Brief, Violent History
 
@@ -49,9 +49,9 @@ English began when Germanic tribes — Angles, Saxons, and Jutes — invaded Bri
 
 English became a global language through empire. The British Empire, at its peak in the early 20th century, controlled roughly 25% of the world's land surface. English was imposed or adopted as an administrative language across North America, Australia, South Asia, Southeast Asia, Africa, and the Caribbean.
 
-After World War II, American economic and cultural dominance reinforced English's global position. Hollywood, rock and roll, Silicon Valley, Wall Street, and American universities exported English alongside their products and ideas. The internet, initially an English-language network, cemented the pattern.
+After [World War II](/world-war-ii), American economic and cultural dominance reinforced English's global position. Hollywood, rock and roll, Silicon Valley, Wall Street, and American universities exported English alongside their products and ideas. The internet, initially an English-language network, cemented the pattern.
 
-Today, English functions as the world's lingua franca — the language used for communication between people who don't share a native language. A Brazilian scientist publishing research, a Japanese pilot communicating with air traffic control, a German executive negotiating with Korean partners — all use English. It's not necessarily the best language for the job; it's the one that most people can work with.
+Today, English functions as the world's lingua franca — the language used for communication between people who don't share a native language. A Brazilian scientist [publishing](/publishing) research, a Japanese pilot communicating with air traffic control, a German executive negotiating with Korean partners — all use English. It's not necessarily the best language for the job; it's the one that most people can work with.
 
 ## Why English Is Weird
 
@@ -63,7 +63,7 @@ English has several structural features that make it simultaneously easy to star
 
 **Phrasal verbs** are a nightmare for learners. "Put up with" means tolerate. "Put off" means postpone. "Put down" means insult (or euthanize). "Put out" means extinguish (or be annoyed). The preposition completely changes the verb's meaning, and the combinations must be memorized individually.
 
-**No formal grammar authority** governs English. French has the Académie française. Spanish has the Real Academia Española. English has... dictionaries that observe what people actually say and write. The Oxford English Dictionary records usage; it doesn't prescribe correctness. This means English evolves faster than most languages — new words enter constantly, rules shift through usage, and "errors" become standard within a generation.
+**No formal [grammar](/grammar) authority** governs English. French has the Académie française. Spanish has the Real Academia Española. English has... dictionaries that observe what people actually say and write. The Oxford English Dictionary records usage; it doesn't prescribe correctness. This means English evolves faster than most languages — new words enter constantly, rules shift through usage, and "errors" become standard within a generation.
 
 ## The Dialects
 
@@ -81,10 +81,10 @@ Approximately 60% of internet content is in English, though this percentage is d
 
 This created a feedback loop: more content in English attracted more English-speaking users, which attracted more English content. Social media, however, has diversified the internet linguistically — platforms like TikTok, WhatsApp, and regional social networks support hundreds of languages.
 
-English's internet dominance raises questions about digital equity. Non-English speakers have access to less online information, fewer search results, and fewer [educational](/education) resources. Machine translation is narrowing this gap, but the asymmetry remains significant.
+English's internet dominance raises questions about digital equity. Non-English speakers have access to less online information, fewer search results, and fewer [educational](/education) resources. Machine [translation](/translation) is narrowing this gap, but the asymmetry remains significant.
 
 ## The Future of English
 
-English will likely remain the world's primary international language for decades, but its dominance isn't guaranteed forever. Mandarin Chinese and Spanish are growing in global importance. Machine translation may eventually reduce the need for a single lingua franca.
+English will likely remain the world's primary international language for decades, but its dominance isn't guaranteed forever. [Mandarin Chinese](/mandarin-chinese) and Spanish are growing in global importance. Machine translation may eventually reduce the need for a single lingua franca.
 
 What's certain is that English will continue changing. Every generation worries that the language is deteriorating — but "deterioration" is really just evolution. Shakespeare would be baffled by modern English. Modern speakers would be baffled by Shakespeare's pronunciation. Language is alive, and living things change. That's not a flaw. That's the whole point.

@@ -5,7 +5,7 @@ description: "Marksmanship is the skill of accurately shooting firearms or other
 category: sports
 tags: ["marksmanship", "shooting sports", "target shooting", "firearms", "Olympic sports", "precision"]
 heroImage: "/images/articles/marksmanship.webp"
-heroAlt: "Competitive shooter aiming a rifle at a target range with safety equipment"
+heroAlt: "Editorial photograph representing the concept of marksmanship"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Marksmanship?
 
-Marksmanship is the skill of accurately shooting a firearm, bow, or other projectile weapon at a target. In its competitive form, it's one of the oldest Olympic sports and among the most demanding tests of concentration, control, and consistency that athletics offers.
+Marksmanship is the skill of accurately shooting a firearm, bow, or other projectile weapon at a target. In its competitive form, it's one of the oldest Olympic sports and among the most demanding tests of concentration, control, and consistency that [athletics](/athletics) offers.
 
 Here's what makes marksmanship unusual as a sport: the physical actions are simple. You stand (or kneel, or lie prone), hold a weapon, aim, and press a trigger. A child can understand the mechanics in five minutes. But doing it with the precision required at competitive levels — placing shots within a circle smaller than a dime at 50 meters, repeatedly, under tournament pressure — demands a combination of mental discipline, body control, and practiced technique that takes years to develop.
 
@@ -59,7 +59,7 @@ Shotgun disciplines involve shooting at flying clay targets (called "birds" or "
 
 **Skeet** — targets cross in front of the shooter from two fixed towers. The angles are known, but the timing and crossing patterns create unique challenges.
 
-**Sporting clays** — various stations simulating different hunting scenarios. Often called "golf with a shotgun."
+**Sporting clays** — various stations simulating different [hunting](/hunting) scenarios. Often called "golf with a shotgun."
 
 ## The Mental Game
 
@@ -94,9 +94,9 @@ Becoming a proficient marksman requires:
 
 **Live fire practice.** Regular range sessions to apply fundamentals with actual ammunition and develop comfort with recoil and noise.
 
-**Physical conditioning.** Surprisingly, fitness matters in precision shooting. Core stability helps maintain position. Cardiovascular fitness keeps your heart rate lower under stress. Flexibility aids position shooting.
+**Physical conditioning.** Surprisingly, [fitness](/fitness) matters in precision shooting. Core stability helps maintain position. Cardiovascular fitness keeps your heart rate lower under stress. Flexibility aids position shooting.
 
-**Mental training.** Visualization, meditation, and pressure inoculation (practicing under simulated competitive stress) are standard parts of elite shooter training programs.
+**Mental training.** Visualization, [meditation](/meditation), and pressure inoculation (practicing under simulated competitive stress) are standard parts of elite shooter training programs.
 
 ## Safety
 

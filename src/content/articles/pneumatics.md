@@ -5,7 +5,7 @@ description: "Pneumatics uses compressed air to create mechanical motion. Learn 
 category: technology
 tags: ["engineering", "automation", "compressed air", "industrial", "technology", "mechanics", "control systems"]
 heroImage: "/images/articles/pneumatics-hero.webp"
-heroAlt: "Industrial pneumatic cylinders and compressed air lines in a factory setting"
+heroAlt: "Editorial photograph representing the concept of pneumatics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

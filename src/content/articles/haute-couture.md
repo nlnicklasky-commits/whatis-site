@@ -5,7 +5,7 @@ description: "Haute couture is custom-made high fashion governed by strict Frenc
 category: everyday-concepts
 tags: ["haute couture", "fashion", "luxury", "design", "Paris fashion"]
 heroImage: "/images/articles/haute-couture.webp"
-heroAlt: "Elaborate haute couture gown with hand-sewn beading on a dressmaker mannequin"
+heroAlt: "Editorial photograph representing the concept of haute couture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ This is not a casual label. The French Ministry of Industry, through the Chambre
 - **Present a collection of at least 25 original designs** twice per year (January and July) during Paris Couture Week
 - **Create made-to-order garments** with one or more fittings for private clients
 
-Break these rules and you lose the designation. It is not a style or an aesthetic — it is a regulated standard, more like an appellation for wine than a marketing term.
+Break these rules and you lose the designation. It is not a style or an aesthetic — it is a regulated standard, more like an appellation for wine than a [marketing](/marketing) term.
 
 As of 2025, only about 15 to 17 houses hold full member status. The list includes names you would expect: Chanel, Dior, Givenchy, Jean Paul Gaultier, Valentino, Schiaparelli. A few guest and correspondent members — often newer or international designers — also show during couture week but under different classification.
 
@@ -53,7 +53,7 @@ A single haute couture gown can take 800 to 2,000 hours to produce. That is not 
 
 **Pattern making** starts from scratch for each client. The house builds a custom dress form (or uses a mannequin adjusted to the client's exact measurements). There are typically three to five fittings, each involving modifications down to the millimeter.
 
-**Handwork** is where the real time accumulates. Embroidery, beading, featherwork, and other embellishments are done entirely by hand, often by specialized artisan workshops called *metiers d'art*. Chanel owns several of these workshops — Lesage for embroidery, Lemarie for feathers and flowers, Massaro for shoes — specifically to preserve these craft traditions.
+**Handwork** is where the real time accumulates. [Embroidery](/embroidery), beading, featherwork, and other embellishments are done entirely by hand, often by specialized artisan workshops called *metiers d'art*. Chanel owns several of these workshops — Lesage for embroidery, Lemarie for feathers and flowers, Massaro for shoes — specifically to preserve these craft traditions.
 
 The result? Prices that start around $10,000 for a relatively simple piece and frequently exceed $100,000. Some elaborate gowns top $500,000. The client base is estimated at fewer than 4,000 people worldwide.
 
@@ -67,7 +67,7 @@ The 1960s nearly killed it. Ready-to-wear fashion exploded, youth culture reject
 
 ## Why It Still Exists
 
-Here is the honest truth: almost no fashion house makes money from couture itself. The economics do not work when you are paying 20 seamstresses for months to produce one dress for one person.
+Here is the honest truth: almost no fashion house makes money from couture itself. The [economics](/economics) do not work when you are paying 20 seamstresses for months to produce one dress for one person.
 
 So why bother? Because haute couture functions as the ultimate brand-building exercise. Those spectacular runway shows — which cost $1 million or more to stage — generate massive media coverage that sells perfume, handbags, cosmetics, and ready-to-wear clothing. When Dior shows a $300,000 ballgown at couture week, they are really selling $50 lipsticks and $3,000 bags to millions of consumers who will never set foot in the atelier.
 
@@ -75,7 +75,7 @@ The shows also serve as laboratories. Ideas that debut on the couture runway oft
 
 ## The Artisans Behind the Seams
 
-The real story of haute couture is not the designers — it is the *petites mains* (literally "little hands"), the highly skilled artisans who execute the work. These craftspeople train for years in specific disciplines: embroidery, pleating, tailoring, millinery, glove-making. Many work in the same ateliers their entire careers.
+The real story of haute couture is not the designers — it is the *petites mains* (literally "little hands"), the highly skilled artisans who execute the work. These craftspeople train for years in specific disciplines: embroidery, pleating, [tailoring](/tailoring), [millinery](/millinery), glove-making. Many work in the same ateliers their entire careers.
 
 France has recognized several of these workshops as *Entreprises du Patrimoine Vivant* (Living Heritage Companies), acknowledging their role in preserving traditional craft skills. The concern is real — as older artisans retire, finding young replacements willing to do painstaking handwork for modest pay gets harder. Some houses have started their own training programs to address the gap.
 
@@ -83,4 +83,4 @@ France has recognized several of these workshops as *Entreprises du Patrimoine V
 
 Today's couture week looks quite different from its mid-century heyday. Social media has turned runway shows into global spectacles. Celebrity clients — who receive dresses for free in exchange for wearing them to red-carpet events — have become crucial marketing tools. And some designers, like Iris van Herpen, use 3D printing and laser cutting alongside traditional handwork, pushing the definition of "craftsmanship" into new territory.
 
-The tension between tradition and experimentation is what keeps haute couture interesting. It is simultaneously the most conservative and the most experimental corner of fashion — bound by century-old regulations but free from commercial pressure to produce wearable, sellable clothing. When a couture designer sends a model down the runway in an unwearable sculpture made of optical fibers, they are asking a question about what clothing can be. That question, more than the garments themselves, is what haute couture is really about.
+The tension between tradition and experimentation is what keeps haute couture interesting. It is simultaneously the most conservative and the most experimental corner of fashion — bound by century-old regulations but free from commercial pressure to produce wearable, sellable clothing. When a couture designer sends a model down the runway in an unwearable [sculpture](/sculpture) made of optical fibers, they are asking a question about what clothing can be. That question, more than the garments themselves, is what haute couture is really about.

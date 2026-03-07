@@ -5,7 +5,7 @@ description: "Islam is a monotheistic religion founded in 7th-century Arabia, pr
 category: religion
 tags: ["islam", "religion", "monotheism", "Quran", "Muslim", "five pillars"]
 heroImage: "/images/articles/islam.webp"
-heroAlt: "Ornate mosque interior with geometric tile patterns and arched doorways"
+heroAlt: "Editorial photograph representing the concept of islam"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Islam?
 
-Islam is a monotheistic religion founded by the Prophet Muhammad in 7th-century Arabia. With nearly 1.9 billion followers — about 24% of the global population — it is the world's second-largest religion and the fastest-growing. The word "Islam" means "submission" (to the will of God), and a Muslim is "one who submits." The religion centers on the belief in one God (Allah in Arabic) and the teachings revealed through Muhammad, recorded in the Quran.
+Islam is a monotheistic [religion](/religion) founded by the Prophet Muhammad in 7th-century Arabia. With nearly 1.9 billion followers — about 24% of the global population — it is the world's second-largest religion and the fastest-growing. The word "Islam" means "submission" (to the will of God), and a Muslim is "one who submits." The religion centers on the belief in one God (Allah in Arabic) and the teachings revealed through Muhammad, recorded in the Quran.
 
 ## Core Beliefs
 
-Islam shares its monotheistic foundation with Judaism and Christianity. Muslims regard Abraham, Moses, and Jesus as prophets — but consider Muhammad the final prophet who received God's complete and uncorrupted message.
+Islam shares its monotheistic foundation with Judaism and [Christianity](/christianity). Muslims regard Abraham, Moses, and Jesus as prophets — but consider Muhammad the final prophet who received God's complete and uncorrupted message.
 
 **Tawhid** (oneness of God) is the central theological concept. God is singular, unique, all-powerful, and merciful. There is no intermediary between God and humanity. No saints, no priesthood, no divine incarnation.
 
-**The Quran** is the holy text, believed to be the literal word of God as revealed to Muhammad through the angel Gabriel over 23 years (610-632 CE). Written in Arabic, it contains 114 chapters (suras) covering theology, law, ethics, and narrative. Muslims consider the Arabic text sacred — translations are considered interpretations, not the Quran itself.
+**The Quran** is the holy text, believed to be the literal word of God as revealed to Muhammad through the angel Gabriel over 23 years (610-632 CE). Written in Arabic, it contains 114 chapters (suras) covering [theology](/theology), law, [ethics](/ethics), and narrative. Muslims consider the Arabic text sacred — translations are considered interpretations, not the Quran itself.
 
 **The Hadith** are records of Muhammad's sayings, actions, and approvals. They supplement the Quran and form the basis for much Islamic law and practice. Major hadith collections (Bukhari, Muslim, Abu Dawud) were compiled 150-200 years after Muhammad's death.
 
@@ -53,11 +53,11 @@ Islam shares its monotheistic foundation with Judaism and Christianity. Muslims 
 
 ## A Brief History
 
-Muhammad was born around 570 CE in Mecca. At age 40, he reported receiving revelations from God through the angel Gabriel. His message of monotheism and social justice challenged Mecca's polytheistic establishment. After years of persecution, Muhammad and his followers migrated to Medina in 622 CE — an event called the Hijra that marks the beginning of the Islamic calendar.
+Muhammad was born around 570 CE in Mecca. At age 40, he reported receiving revelations from God through the angel Gabriel. His message of monotheism and [social justice](/social-justice) challenged Mecca's polytheistic establishment. After years of persecution, Muhammad and his followers migrated to Medina in 622 CE — an event called the Hijra that marks the beginning of the Islamic calendar.
 
-In Medina, Muhammad established the first Muslim community, combining religious leadership with political governance. By 630 CE, he returned to Mecca in triumph and unified much of the Arabian Peninsula under Islam. He died in 632 CE.
+In Medina, Muhammad established the first Muslim community, combining religious [leadership](/leadership) with political governance. By 630 CE, he returned to Mecca in triumph and unified much of the Arabian Peninsula under Islam. He died in 632 CE.
 
-After Muhammad's death, Islam expanded with extraordinary speed. Within a century, Muslim empires stretched from Spain to Central Asia. The Umayyad Caliphate (661-750) and Abbasid Caliphate (750-1258) presided over a golden age of science, philosophy, medicine, and art. Scholars preserved and expanded upon Greek, Persian, and Indian knowledge — contributions that later helped spark the European Renaissance.
+After Muhammad's death, Islam expanded with extraordinary speed. Within a century, Muslim empires stretched from Spain to Central Asia. The Umayyad Caliphate (661-750) and Abbasid Caliphate (750-1258) presided over a golden age of science, [philosophy](/philosophy), medicine, and art. Scholars preserved and expanded upon Greek, Persian, and Indian knowledge — contributions that later helped spark the European Renaissance.
 
 The **Ottoman Empire** (1299-1922) was the last major Muslim imperial power, controlling much of the Middle East, North Africa, and southeastern Europe for over 600 years.
 
@@ -71,11 +71,11 @@ The split between Sunni and Shia Islam is the most significant internal division
 
 ## Islamic Law (Sharia)
 
-Sharia is a system of religious law derived from the Quran, Hadith, scholarly consensus, and analogical reasoning. It covers personal conduct, family law, commerce, criminal justice, and governance.
+Sharia is a system of religious law derived from the Quran, Hadith, scholarly consensus, and analogical reasoning. It covers personal conduct, [family law](/family-law), commerce, criminal justice, and governance.
 
 How sharia is applied varies enormously. Some Muslim-majority countries (Saudi Arabia, Iran) implement sharia as state law. Others (Turkey, Tunisia) have secular legal systems. Most Muslims worldwide practice sharia as personal religious guidance — governing prayer, diet, fasting, and charitable giving — within the legal frameworks of their respective countries.
 
-The popular Western image of sharia as exclusively harsh criminal punishments is misleading. Criminal law is a small fraction of sharia. The vast majority concerns worship, family matters, business ethics, and personal conduct.
+The popular Western image of sharia as exclusively harsh criminal punishments is misleading. Criminal law is a small fraction of sharia. The vast majority concerns worship, family matters, [business ethics](/business-ethics), and personal conduct.
 
 ## Islam Today
 

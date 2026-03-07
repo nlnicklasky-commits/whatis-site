@@ -5,7 +5,7 @@ description: "Wood finishing applies coatings to protect and beautify wood surfa
 category: everyday-concepts
 tags: ["wood finishing", "woodworking", "staining", "varnish", "furniture", "DIY"]
 heroImage: "/images/articles/wood-finishing.webp"
-heroAlt: "Brush applying a warm-toned wood stain to a smooth oak tabletop surface"
+heroAlt: "Editorial photograph representing the concept of wood finishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Wood Finishing?
 
-Wood finishing is the process of applying protective and decorative coatings to wood surfaces — the final step that transforms raw wood into something that resists moisture, wear, and time while looking its best. It's arguably the most underappreciated skill in woodworking. You can build a flawless piece of furniture with perfect joinery, and a bad finish will make it look amateur. A great finish on modest construction looks professional. The finish is what people see and touch.
+Wood finishing is the process of applying protective and decorative coatings to wood surfaces — the final step that transforms raw wood into something that resists moisture, wear, and time while looking its best. It's arguably the most underappreciated skill in [woodworking](/woodworking). You can build a flawless piece of furniture with perfect joinery, and a bad finish will make it look amateur. A great finish on modest [construction](/construction) looks professional. The finish is what people see and touch.
 
 ## Why Wood Needs Finishing
 

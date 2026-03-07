@@ -5,7 +5,7 @@ description: "Hygiene is the set of practices that prevent disease and maintain 
 category: health-amp-wellness
 tags: ["hygiene", "cleanliness", "health", "public health", "disease prevention"]
 heroImage: "/images/articles/hygiene.webp"
-heroAlt: "Person washing hands thoroughly with soap and water under a running faucet"
+heroAlt: "Editorial photograph representing the concept of hygiene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,13 +43,13 @@ Before we talk about soap and sanitizer, it helps to understand what you're actu
 
 The problems start when pathogenic microorganisms — the ones that cause disease — get where they shouldn't be. This happens through several routes: direct contact with an infected person, touching contaminated surfaces, ingesting contaminated food or water, or inhaling airborne droplets. Hygiene practices work by interrupting these transmission routes.
 
-Handwashing, for example, isn't about killing germs through some magical property of soap. Soap is a surfactant — it breaks the surface tension of water and lifts oils from your skin. Many pathogens, including coronaviruses, are held together by lipid (fat) membranes. Soap literally tears those membranes apart. The mechanical action of rubbing your hands together further dislodges microbes, and water rinses them away. It's chemistry, not magic — and it's absurdly effective. The CDC estimates that proper handwashing could prevent roughly 1 in 3 cases of diarrheal illness and 1 in 5 respiratory infections.
+Handwashing, for example, isn't about killing germs through some magical property of soap. Soap is a surfactant — it breaks the surface tension of water and lifts oils from your skin. Many pathogens, including coronaviruses, are held together by lipid (fat) membranes. Soap literally tears those membranes apart. The mechanical action of rubbing your hands together further dislodges microbes, and water rinses them away. It's [chemistry](/chemistry), not magic — and it's absurdly effective. The CDC estimates that proper handwashing could prevent roughly 1 in 3 cases of diarrheal illness and 1 in 5 respiratory infections.
 
 ## A Very Brief History of Staying Clean
 
 Humans have practiced some form of hygiene for as long as we've been human. Archaeological evidence suggests that even early hominids selected living sites near clean water. Ancient civilizations varied widely in their approach, though.
 
-Ancient Rome was obsessed with bathing. The public baths (thermae) were massive engineering projects — the Baths of Caracalla, completed around 216 CE, could hold an estimated 1,600 bathers simultaneously. Romans bathed daily if possible, used olive oil as a cleansing agent (scraped off with a curved tool called a strigil), and built aqueducts and sewer systems that were engineering marvels. The Cloaca Maxima, Rome's main sewer, is still partly in use 2,500 years after construction.
+Ancient Rome was obsessed with bathing. The public baths (thermae) were massive [engineering](/engineering) projects — the Baths of Caracalla, completed around 216 CE, could hold an estimated 1,600 bathers simultaneously. Romans bathed daily if possible, used olive oil as a cleansing agent (scraped off with a curved tool called a strigil), and built aqueducts and sewer systems that were engineering marvels. The Cloaca Maxima, Rome's main sewer, is still partly in use 2,500 years after [construction](/construction).
 
 Medieval Europe gets a bad reputation for hygiene, but the reality is more nuanced. Bathhouses existed in most European cities through the 13th and 14th centuries. Islamic civilization during the same period maintained extraordinarily high standards of personal cleanliness — the hammam (public bath) was a social institution, and Islamic legal traditions prescribed specific hygiene practices. Clean water, dental care, and regular bathing were religious obligations.
 
@@ -65,7 +65,7 @@ The medical establishment largely rejected him. He couldn't explain the mechanis
 
 Louis Pasteur's germ theory of disease (developed through the 1860s) and Robert Koch's identification of specific pathogens — including the tuberculosis bacterium in 1882 and the cholera bacterium in 1883 — provided the scientific framework that Semmelweis had lacked. Once people understood that specific microorganisms caused specific diseases, hygiene practices could be designed rationally rather than based on guesswork or superstition.
 
-Joseph Lister applied Pasteur's principles to surgery, introducing antiseptic technique in the late 1860s. Surgical mortality dropped dramatically. By the end of the 19th century, the connection between [biology](/biology), cleanliness, and disease prevention was firmly established.
+Joseph Lister applied Pasteur's principles to [surgery](/surgery), introducing antiseptic technique in the late 1860s. Surgical mortality dropped dramatically. By the end of the 19th century, the connection between [biology](/biology), cleanliness, and disease prevention was firmly established.
 
 ## Personal Hygiene — What Actually Matters
 
@@ -87,9 +87,9 @@ The core principles are straightforward. **Clean**: wash hands, surfaces, and pr
 
 The "danger zone" — temperatures between 40°F and 140°F (4°C and 60°C) — is where bacteria multiply most rapidly. Food left in this range for more than two hours (one hour if the ambient temperature is above 90°F) should be discarded. This is why buffets use chafing dishes and ice trays — they're keeping food out of the danger zone.
 
-## Public Health Hygiene — Infrastructure Saves Lives
+## [Public Health](/public-health) Hygiene — Infrastructure Saves Lives
 
-Individual hygiene practices matter, but the biggest gains in human health came from infrastructure-level interventions. Clean water supply, sewage treatment, and waste management have probably saved more lives than any medical treatment in history.
+Individual hygiene practices matter, but the biggest gains in human health came from infrastructure-level interventions. Clean water supply, sewage treatment, and [waste management](/waste-management) have probably saved more lives than any medical treatment in history.
 
 Before modern sanitation, cities were death traps. In 19th-century London, the Thames was an open sewer, and cholera epidemics killed tens of thousands. John Snow's famous 1854 investigation — tracing a cholera outbreak to a contaminated water pump on Broad Street — demonstrated that waterborne diseases could be controlled by cleaning up the water supply. The subsequent construction of London's sewer system, designed by Joseph Bazalgette and completed in the 1860s, eliminated cholera from the city.
 
@@ -101,7 +101,7 @@ In 1989, epidemiologist David Strachan noticed something odd: children with more
 
 Subsequent research has broadly supported this idea, though with important nuances. The issue isn't personal hygiene per se — washing your hands doesn't cause asthma. The problem seems to be the overall reduction in microbial diversity in modern environments: smaller families, less time outdoors, more antibiotic use, C-section births (which bypass exposure to maternal vaginal microbiome), and highly sanitized indoor environments.
 
-This connects to growing research on the [human microbiome](/human-nutrition) and its relationship to immune function. The takeaway isn't that you should stop washing your hands — that would be foolish. It's that some exposure to environmental microbes, particularly in early childhood, appears to be beneficial for immune development. Let kids play in dirt. Get a dog. Don't sterilize everything.
+This connects to growing research on the [human microbiome](/human-[nutrition](/nutrition)) and its relationship to immune function. The takeaway isn't that you should stop washing your hands — that would be foolish. It's that some exposure to environmental microbes, particularly in early childhood, appears to be beneficial for immune development. Let kids play in dirt. Get a dog. Don't sterilize everything.
 
 ## Hygiene in the 21st Century
 

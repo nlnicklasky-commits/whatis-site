@@ -5,7 +5,7 @@ description: "Land law governs the ownership, use, and transfer of real property
 category: law
 tags: ["property law", "land law", "real estate", "land ownership", "conveyancing"]
 heroImage: "/images/articles/land-law.webp"
-heroAlt: "Aerial view of parceled farmland with boundary fences and property markers"
+heroAlt: "Editorial photograph representing the concept of land law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,9 +39,9 @@ Land law is the branch of law that governs the ownership, use, transfer, and reg
 
 ## Why Land Is Different
 
-Property law covers everything you can own — your car, your phone, your furniture. But land law is a special category, and for good reason. Land doesn't move. It can't be manufactured. There's a fixed supply of it. And nearly every human activity — living, working, farming, building — requires it.
+[Property law](/property-law) covers everything you can own — your car, your phone, your furniture. But land law is a special category, and for good reason. Land doesn't move. It can't be manufactured. There's a fixed supply of it. And nearly every human activity — living, working, [farming](/farming), building — requires it.
 
-These facts create problems that don't exist with other types of property. If two people claim the same car, one of them is probably wrong. If two people claim rights to the same piece of land, they might both be right — one might own the surface, another the mineral rights below it, a third might have an easement to cross it, and the government might have zoning restrictions on what can be built there.
+These facts create problems that don't exist with other types of property. If two people claim the same car, one of them is probably wrong. If two people claim rights to the same piece of land, they might both be right — one might own the surface, another the mineral rights below it, a third might have an easement to cross it, and the [government](/government) might have zoning restrictions on what can be built there.
 
 Land law exists to sort out these overlapping, sometimes conflicting claims. It's older than almost any other area of law — land disputes predate written legal codes — and it remains one of the most practically important. If you've ever bought a house, signed a lease, or argued with a neighbor about a fence, you've encountered land law.
 
@@ -67,7 +67,7 @@ Easements can be created by express agreement, implied from the circumstances (l
 
 ### Covenants
 
-Restrictive covenants are promises about how land will (or won't) be used. Your deed might contain a covenant prohibiting commercial use, requiring certain architectural standards, or banning certain types of construction. Homeowner association rules are essentially a modern form of restrictive covenants.
+Restrictive covenants are promises about how land will (or won't) be used. Your deed might contain a covenant prohibiting commercial use, requiring certain architectural standards, or banning certain types of [construction](/construction). Homeowner association rules are essentially a modern form of restrictive covenants.
 
 Covenants created decades ago sometimes cause problems. Historical restrictive covenants that prohibited sale to racial minorities were commonplace in the United States through the mid-20th century. The Supreme Court ruled such covenants unenforceable in *Shelley v. Kraemer* (1948), but many still technically appear in property records.
 
@@ -75,7 +75,7 @@ Covenants created decades ago sometimes cause problems. Historical restrictive c
 
 A mortgage is a security interest in land — you borrow money to buy the property, and the lender holds a legal interest in it as collateral. If you stop making payments, the lender can foreclose — take possession and sell the property to recover the debt.
 
-Mortgages are the mechanism that makes homeownership possible for most people. Without them, you'd need to pay cash for a house. The modern mortgage system, combined with [government](/business-law) programs like FHA insurance and the secondary mortgage market (Fannie Mae, Freddie Mac), transformed homeownership from an elite privilege into a middle-class norm. Roughly 65% of American households own their homes, and most of them are leveraged through a mortgage.
+Mortgages are the mechanism that makes homeownership possible for most people. Without them, you'd need to pay cash for a house. The modern mortgage system, combined with [government](/business-law) programs like FHA [insurance](/insurance) and the secondary mortgage market (Fannie Mae, Freddie Mac), transformed homeownership from an elite privilege into a middle-class norm. Roughly 65% of American households own their homes, and most of them are leveraged through a mortgage.
 
 The 2008 financial crisis demonstrated what happens when the mortgage system breaks down. Subprime lending, securitization of risky mortgages, and inadequate regulation combined to create a housing bubble whose collapse triggered a global recession. Over 3.8 million foreclosure filings were processed in 2010 alone.
 
@@ -101,7 +101,7 @@ Zoning is controversial. Supporters argue it prevents incompatible uses from con
 
 One of land law's most counterintuitive doctrines is adverse possession — the idea that you can gain ownership of land by using it openly, continuously, and without permission for a statutory period (typically 10-20 years).
 
-The logic is pragmatic. If a landowner abandons property or ignores someone else's use of it for decades, the law eventually transfers ownership to the person actually using the land. This prevents productive land from being tied up by absent owners and rewards actual use.
+The [logic](/logic) is pragmatic. If a landowner abandons property or ignores someone else's use of it for decades, the law eventually transfers ownership to the person actually using the land. This prevents productive land from being tied up by absent owners and rewards actual use.
 
 The requirements are strict. Possession must be actual (you physically use the land), open (the true owner could discover it), continuous (no significant gaps), exclusive (you treat it as your own), and hostile (without the owner's permission). Meeting all these requirements for the statutory period transfers title — even without any agreement from the original owner.
 
@@ -125,6 +125,6 @@ The Fifth Amendment to the US Constitution permits takings but requires "just co
 
 Land law faces new pressures. Climate change creates questions about property rights in flood zones, coastal erosion areas, and fire-prone regions. Should the government compensate landowners whose property becomes unusable due to climate-related regulations? Who bears the risk when sea levels rise?
 
-Digital technology raises new issues too. Drones flying over private property — is that trespass? How high up do your property rights extend? (The traditional answer — *usque ad coelum*, "up to the heavens" — has been modified by the reality of aviation.)
+Digital technology raises new issues too. Drones flying over private property — is that trespass? How high up do your property rights extend? (The traditional answer — *usque ad coelum*, "up to the heavens" — has been modified by the reality of [aviation](/aviation).)
 
 The fundamental tension in land law — between individual property rights and collective needs, between stability and flexibility, between protecting existing owners and allowing new development — isn't going away. These are the same tensions humans have grappled with since the first person put a fence around a piece of ground and said "this is mine." Land law is the ongoing effort to resolve them, and it's never finished.

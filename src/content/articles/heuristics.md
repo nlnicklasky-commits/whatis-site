@@ -5,7 +5,7 @@ description: "Heuristics are mental shortcuts your brain uses to make quick deci
 category: everyday-concepts
 tags: ["heuristics", "psychology", "decision making", "cognitive science", "mental shortcuts"]
 heroImage: "/images/articles/heuristics.webp"
-heroAlt: "Branching decision tree diagram illustrating mental shortcut pathways"
+heroAlt: "Editorial photograph representing the concept of heuristics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Heuristics are mental shortcuts — quick, practical rules your brain uses to ma
 
 Your brain processes roughly 11 million bits of sensory information per second. Your conscious mind can handle about 50. That gap — between what comes in and what you can deliberately process — is why heuristics exist. Without shortcuts, you would be paralyzed by the simplest decisions.
 
-Imagine evaluating every possible route to work each morning. Factoring in traffic patterns, road construction, weather, time of day, fuel efficiency, accident probability. You could optimize perfectly if you had unlimited time and data. But you don't. So you take the route that worked yesterday. That is a heuristic, and it works fine 95% of the time.
+Imagine evaluating every possible route to work each morning. Factoring in traffic patterns, road [construction](/construction), weather, time of day, fuel efficiency, accident probability. You could optimize perfectly if you had unlimited time and data. But you don't. So you take the route that worked yesterday. That is a heuristic, and it works fine 95% of the time.
 
-Psychologists Daniel Kahneman and Amos Tversky formalized this concept in their landmark 1974 paper "Judgment Under Uncertainty." They identified several specific heuristics people use — and showed that while these shortcuts are generally useful, they sometimes produce predictable, systematic errors. That research eventually earned Kahneman the 2002 Nobel Prize in Economics.
+Psychologists Daniel Kahneman and Amos Tversky formalized this concept in their landmark 1974 paper "Judgment Under Uncertainty." They identified several specific heuristics people use — and showed that while these shortcuts are generally useful, they sometimes produce predictable, systematic errors. That research eventually earned Kahneman the 2002 Nobel Prize in [Economics](/economics).
 
 ## The Big Three Heuristics
 
@@ -53,7 +53,7 @@ This heuristic explains why people fear shark attacks (about 5 deaths per year w
 
 **Anchoring** happens when an initial piece of information disproportionately influences your judgment. In one famous experiment, Kahneman and Tversky spun a rigged wheel that always landed on either 10 or 65, then asked people to estimate the percentage of African countries in the United Nations. People who saw 10 guessed around 25%. People who saw 65 guessed around 45%. A completely random number shifted their estimates by 20 percentage points.
 
-Car salespeople, real estate agents, and salary negotiators exploit anchoring constantly. The first number thrown out — however arbitrary — shapes the entire negotiation.
+Car salespeople, [real estate](/real-estate) agents, and salary negotiators exploit anchoring constantly. The first number thrown out — however arbitrary — shapes the entire [negotiation](/negotiation).
 
 ## More Heuristics You Use Daily
 
@@ -61,7 +61,7 @@ Beyond the big three, researchers have identified dozens of additional shortcuts
 
 **The recognition heuristic** — if you recognize one option but not another, you assume the recognized one is more important. Asked which city is larger, Milwaukee or Munich, most Americans pick Munich simply because they have heard of it more often. (They are right, but for the wrong reasons.)
 
-**The affect heuristic** — your emotional reaction to something influences your risk assessment. If you feel positively about nuclear power, you perceive its risks as low and benefits as high. If you feel negatively, the opposite. Your emotions steer your analysis rather than the other way around.
+**The affect heuristic** — your emotional reaction to something influences your risk assessment. If you feel positively about [nuclear power](/nuclear-power), you perceive its risks as low and benefits as high. If you feel negatively, the opposite. Your emotions steer your analysis rather than the other way around.
 
 **Satisficing** — instead of finding the best option, you pick the first one that is "good enough." Herbert Simon coined this term in the 1950s. When choosing a restaurant, you probably do not evaluate every option in town. You pick the first one that meets your basic criteria (close, affordable, decent reviews) and go.
 
@@ -77,9 +77,9 @@ The gap between heuristic and reality is where [cognitive biases](/cognitive-bia
 
 ## The Other Side — When Heuristics Outperform Analysis
 
-Here is what the "heuristics are bad" narrative misses: in many real-world situations, simple heuristics actually outperform complex analysis.
+Here is what the "heuristics are bad" narrative misses: in many real-world situations, simple heuristics actually outperform [complex analysis](/complex-analysis).
 
-Gerd Gigerenzer, a German psychologist, has spent decades showing that "fast and frugal" heuristics often make better predictions than elaborate statistical models. His research found that a simple rule — "pick the option you recognize" — predicted the outcomes of Wimbledon matches and German soccer league results more accurately than expert rankings or computer models.
+Gerd Gigerenzer, a German psychologist, has spent decades showing that "fast and frugal" heuristics often make better predictions than elaborate statistical models. His research found that a simple rule — "pick the option you recognize" — predicted the outcomes of Wimbledon matches and German [soccer](/soccer) league results more accurately than expert rankings or computer models.
 
 Why? Because complex models can overfit to noise in the data. A simple heuristic that ignores most information but focuses on the right signal can be more accurate precisely *because* it ignores irrelevant details.
 

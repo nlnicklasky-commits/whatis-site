@@ -5,7 +5,7 @@ description: "Home education (homeschooling) is parent-directed learning outside
 category: everyday-concepts
 tags: ["home education", "homeschooling", "education", "child development", "learning", "curriculum"]
 heroImage: "/images/articles/home-education.webp"
-heroAlt: "Child studying at a kitchen table with textbooks and a parent guiding a lesson"
+heroAlt: "Editorial photograph representing the concept of home education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "This is the most common concern, and research suggests it is largely unfounded for most homeschoolers. Homeschooled children typically socialize through co-ops, sports leagues, community classes, religious groups, and neighborhood activities. Studies show they participate in an average of 5.2 social activities per week. The quality of social interaction matters more than the setting."
 ---
 
-# What Is Home Education?
+# What Is Home [Education](/education)?
 
 Home education — more commonly called homeschooling — is the practice of educating children at home (or in non-school settings) rather than sending them to a public or private school. Parents or guardians direct the learning, choosing curricula, methods, and schedules. About 3.3 million students in the U.S. were homeschooled as of 2023, roughly 6% of the school-age population — a number that jumped significantly during the COVID-19 pandemic and has not returned to pre-pandemic levels.
 
 ## Why Families Choose It
 
-The reasons are more varied than most people assume. According to the National Center for Education Statistics, the top motivations include:
+The reasons are more varied than most people assume. According to the National Center for Education [Statistics](/statistics), the top motivations include:
 
 **Dissatisfaction with school environment** — concerns about bullying, school safety, negative peer pressure, or the quality of instruction. This is consistently the most-cited reason.
 
@@ -43,9 +43,9 @@ The reasons are more varied than most people assume. According to the National C
 
 **Academic flexibility** — children who are significantly ahead or behind grade level, who have learning differences, or who pursue intensive activities (competitive sports, performing arts, travel) that conflict with school schedules.
 
-**Health concerns** — children with chronic illnesses, immune deficiencies, or mental health conditions that make traditional schooling difficult.
+**Health concerns** — children with chronic illnesses, immune deficiencies, or [mental health](/mental-health) conditions that make traditional schooling difficult.
 
-**Philosophy** — families who simply believe children learn better through self-directed exploration, real-world experiences, and one-on-one instruction than through classroom-based education.
+**[Philosophy](/philosophy)** — families who simply believe children learn better through self-directed exploration, real-world experiences, and one-on-one instruction than through classroom-based education.
 
 ## The Major Approaches
 
@@ -53,7 +53,7 @@ Homeschooling is not one thing. The methods vary enormously:
 
 **Traditional/structured** — follows a packaged curriculum that mirrors school at home. Textbooks, worksheets, tests, grade levels. Companies like Abeka, Saxon, and Sonlight provide complete programs. This is the most school-like approach.
 
-**Classical education** — based on the medieval trivium: grammar (facts and foundations), logic (critical thinking), and rhetoric (articulate expression). Heavy on reading classic literature, learning Latin, and developing rigorous reasoning skills. The *Well-Trained Mind* by Susan Wise Bauer is the standard reference.
+**Classical education** — based on the medieval trivium: [grammar](/grammar) (facts and foundations), logic ([critical thinking](/critical-thinking)), and [rhetoric](/rhetoric) (articulate expression). Heavy on reading classic [literature](/literature), learning Latin, and developing rigorous reasoning skills. The *Well-Trained Mind* by Susan Wise Bauer is the standard reference.
 
 **Charlotte Mason** — emphasizes "living books" (well-written, narrative-driven texts rather than textbooks), nature study, narration (children retelling what they have learned), and short lessons to maintain attention. Named after a 19th-century British educator.
 
@@ -65,11 +65,11 @@ Homeschooling is not one thing. The methods vary enormously:
 
 There is no standard homeschool day, which is sort of the point. But a common pattern for families using structured curricula might look like:
 
-Morning: core academics — math, language arts, science. Focused instruction takes less time than classroom teaching because there is no time spent on transitions, attendance, discipline, or waiting for other students. Most homeschoolers complete formal academics in 2 to 4 hours.
+Morning: core academics — math, language arts, science. Focused instruction takes less time than classroom [teaching](/teaching) because there is no time spent on transitions, attendance, discipline, or waiting for other students. Most homeschoolers complete formal academics in 2 to 4 hours.
 
 Afternoon: electives, projects, physical activity, music practice, or free time. Many homeschoolers participate in co-ops — groups of homeschooling families that meet regularly for classes, labs, field trips, and social activities.
 
-The flexibility is the biggest structural advantage. A child who struggles with math can spend extra time on it without falling behind in other subjects. A child who is passionate about marine biology can spend an entire month on it. Sick days, family trips, and schedule changes do not require permission slips.
+The flexibility is the biggest structural advantage. A child who struggles with math can spend extra time on it without falling behind in other subjects. A child who is passionate about [marine biology](/marine-biology) can spend an entire month on it. Sick days, family trips, and schedule changes do not require permission slips.
 
 ## The Socialization Question
 

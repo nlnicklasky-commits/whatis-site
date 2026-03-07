@@ -5,7 +5,7 @@ description: "Investment banking helps companies raise capital, execute mergers,
 category: finance
 tags: ["investment banking", "finance", "m&a", "capital markets", "underwriting", "ipo", "financial advisory"]
 heroImage: "/images/articles/investment-banking-hero.webp"
-heroAlt: "Modern financial district skyline with glass towers reflecting market data"
+heroAlt: "Editorial photograph representing the concept of investment banking"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -100,7 +100,7 @@ Investment banks have a rigid hierarchy that hasn't changed much in decades. Und
 
 Analysts are the workhorses. Fresh out of college, they build financial models, create pitch presentations, conduct research, and handle the quantitative grunt work. They work the longest hours (80-100 per week is common), earn the least (relative to their hours), and do the work that makes deals possible.
 
-Most analyst programs run two to three years. Many analysts leave afterward for private equity, hedge funds, or business school. Investment banking at the analyst level is often viewed as a two-year apprenticeship rather than a career.
+Most analyst programs run two to three years. Many analysts leave afterward for [private equity](/private-equity), hedge funds, or business school. Investment banking at the analyst level is often viewed as a two-year apprenticeship rather than a career.
 
 ### Associate (Years 3-6)
 
@@ -148,17 +148,17 @@ Not all investment banks are created equal. The industry has a clear pecking ord
 
 Understanding where investment banking came from helps explain where it is today.
 
-Investment banking's roots trace to the 18th century, when merchant banks in London financed international trade. In America, the industry emerged in the mid-1800s when firms like J.P. Morgan & Co. helped finance the railroads that connected the continent.
+Investment banking's roots trace to the 18th century, when merchant banks in London financed [international trade](/international-trade). In America, the industry emerged in the mid-1800s when firms like J.P. Morgan & Co. helped finance the railroads that connected the continent.
 
 The Glass-Steagall Act of 1933 forced the separation of commercial banking (taking deposits, making loans) and investment banking (underwriting securities, advising on deals). This created pure-play investment banks like Morgan Stanley (spun off from J.P. Morgan) and ensured that depositors' money wasn't used for speculative trading.
 
-For six decades, this separation defined American [finance](/finance). Investment banks were partnerships where the partners' own money was at risk, which encouraged prudent risk management. Partners couldn't just walk away from losses—their personal wealth was on the line.
+For six decades, this separation defined American [finance](/finance). Investment banks were partnerships where the partners' own money was at risk, which encouraged prudent [risk management](/risk-management). Partners couldn't just walk away from losses—their personal wealth was on the line.
 
 That changed when investment banks went public. Goldman Sachs was the last major holdout, going public in 1999. Once firms were playing with shareholders' money instead of their own, risk-taking increased dramatically. Some people argue this structural shift contributed directly to the 2008 financial crisis.
 
 ### The 2008 Crisis and Its Aftermath
 
-The financial crisis of 2008 was an existential event for investment banking. Bear Stearns collapsed and was acquired by JPMorgan for $10 per share (down from $170 a year earlier). Lehman Brothers filed for the largest bankruptcy in American history—$639 billion in assets. Merrill Lynch was forced into a shotgun merger with Bank of America.
+The financial crisis of 2008 was an existential event for investment banking. Bear Stearns collapsed and was acquired by JPMorgan for $10 per share (down from $170 a year earlier). Lehman Brothers filed for the largest bankruptcy in [American history](/american-history)—$639 billion in assets. Merrill Lynch was forced into a shotgun merger with Bank of America.
 
 Goldman Sachs and Morgan Stanley—the last two standalone investment banks—converted to bank holding companies to access Federal Reserve emergency lending. The era of the independent investment bank was effectively over.
 
@@ -216,7 +216,7 @@ These criticisms don't negate the real value investment banking provides. Capita
 
 Technology is reshaping the industry, though perhaps more slowly than skeptics predicted.
 
-**Automation** is handling more routine tasks. Financial modeling, data analysis, and document preparation are increasingly assisted by AI tools. Junior bankers who once spent all night building spreadsheets now spend some of that time reviewing AI-generated models—though the review still requires deep expertise.
+**Automation** is handling more routine tasks. Financial modeling, [data analysis](/data-analysis), and document preparation are increasingly assisted by AI tools. Junior bankers who once spent all night building spreadsheets now spend some of that time reviewing AI-generated models—though the review still requires deep expertise.
 
 **Direct listings and SPACs** briefly challenged the traditional IPO model, giving companies alternative paths to public markets. Spotify and Slack went public through direct listings, bypassing the underwriting process entirely. SPACs (Special Purpose Acquisition Companies) surged in 2020-2021 before collapsing due to poor performance and regulatory scrutiny.
 

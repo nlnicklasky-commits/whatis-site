@@ -12,7 +12,7 @@ tags:
   - instinct
   - animal science
 heroImage: /images/articles/animal-behavior-hero.webp
-heroAlt: "A wolf pack exhibiting social behavior in a snowy forest clearing"
+heroAlt: "Editorial photograph representing the concept of animal behavior"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -65,7 +65,7 @@ Around the same time, researchers in North America were approaching the subject 
 
 If you only learn one thing about animal behavior as a science, make it this: Niko Tinbergen proposed in 1963 that any behavior can be understood by asking four distinct questions.
 
-**1. Causation (mechanism).** What internal and external stimuli trigger the behavior? When a moth flies toward a porch light, the mechanism involves the moth's navigation system, which evolved to use the moon as a reference point. Artificial lights hijack that system.
+**1. Causation (mechanism).** What internal and external stimuli trigger the behavior? When a moth flies toward a porch light, the mechanism involves the moth's [navigation](/navigation) system, which evolved to use the moon as a reference point. Artificial lights hijack that system.
 
 **2. Development (ontogeny).** How does the behavior change as the animal grows? A songbird's singing, for example, starts as unstructured babbling in juveniles and gradually refines into the adult song through a combination of practice, neural maturation, and hearing adult tutors.
 
@@ -109,7 +109,7 @@ Communication is one of the most fascinating aspects of animal behavior. Animals
 
 **Electric signals** are used by some fish species. Electric eels are the famous example, but weakly electric fish like the African elephant fish generate mild electric fields to sense their environment and communicate with each other in murky water.
 
-The question of whether any animal communication constitutes true "language" remains hotly debated. The strongest candidates are great apes trained in sign language (Washoe the chimpanzee learned roughly 350 signs) and dolphins given artificial language systems. But most researchers draw a line between communication (transmitting information) and language (which requires grammar, syntax, and the ability to discuss abstract or hypothetical things). The gap between the most complex animal communication and the simplest human language is still enormous — though it may be smaller than we once assumed.
+The question of whether any animal communication constitutes true "language" remains hotly debated. The strongest candidates are great apes trained in [sign language](/sign-language) (Washoe the chimpanzee learned roughly 350 signs) and dolphins given artificial language systems. But most researchers draw a line between communication (transmitting information) and language (which requires grammar, syntax, and the ability to discuss abstract or hypothetical things). The gap between the most complex animal communication and the simplest human language is still enormous — though it may be smaller than we once assumed.
 
 ## Social Lives and Group Dynamics
 
@@ -125,7 +125,7 @@ Some animals are loners. Leopards, many spider species, and most octopuses live 
 
 The question of altruism puzzled evolutionary biologists for a long time. Why would a ground squirrel give an alarm call that attracts a predator's attention? Why do worker bees sacrifice their lives to sting intruders? W.D. Hamilton's kin selection theory (1964) provided the key insight: organisms can increase the spread of their genes by helping relatives. A worker bee shares 75% of her genes with her sisters, so protecting the colony is genetically "selfish" even if individually costly. Hamilton summarized it with a now-famous quip: "I would lay down my life for two brothers or eight cousins."
 
-Reciprocal altruism explains cooperation between non-relatives. Vampire bats share blood meals with roostmates who failed to feed — but they keep track of who reciprocates and stop sharing with cheaters. This kind of bookkeeping requires good memory and individual recognition, which might explain why vampire bats have unusually large brains for their body size.
+Reciprocal altruism explains cooperation between non-relatives. Vampire bats share blood meals with roostmates who failed to feed — but they keep track of who reciprocates and stop sharing with cheaters. This kind of [bookkeeping](/bookkeeping) requires good memory and individual recognition, which might explain why vampire bats have unusually large brains for their body size.
 
 ## Mating, Courtship, and Reproductive Strategies
 
@@ -143,7 +143,7 @@ Sexual selection — Darwin's "other" theory, which he considered almost as impo
 
 How animals find food and move through their environment involves some genuinely remarkable [cognitive abilities](/cognitive-bias).
 
-**Optimal foraging theory** predicts that animals should maximize energy gained per unit of time spent feeding. And they often do — with impressive precision. Great tits feeding nestlings adjust their prey selection based on distance from the nest, chick hunger level, and prey availability, closely matching the predictions of mathematical optimization models.
+**Optimal foraging theory** predicts that animals should maximize energy gained per unit of time spent feeding. And they often do — with impressive precision. Great tits feeding nestlings adjust their prey selection based on distance from the nest, chick hunger level, and prey availability, closely matching the predictions of mathematical [optimization](/optimization) models.
 
 **Tool use** was once considered uniquely human. That idea is long dead. Chimpanzees use sticks to fish for termites, stones to crack nuts, and leaves as sponges. New Caledonian crows manufacture hooked tools from pandanus leaves. Sea otters crack shellfish open on rocks balanced on their bellies. Dolphins in Shark Bay, Australia, wear sponges on their snouts to protect against stingray barbs while foraging on the seafloor — a behavior passed from mother to daughter, making it a genuine cultural tradition.
 
@@ -175,7 +175,7 @@ Understanding animal behavior has real consequences outside of academia.
 
 **Agriculture and animal welfare** benefit directly. Chickens in enriched environments with perches and dust baths show fewer stress behaviors and better immune function than those in barren battery cages. Understanding cattle [behavior](/agriculture) has led to better handling facilities that reduce both animal stress and worker injuries — Temple Grandin's work on curved chute systems, based on natural cattle movement patterns, is used in over half of North American beef processing plants.
 
-**Medicine** draws on animal behavior research too. Studying self-medication in wild animals (chimpanzees eating specific plants when ill, for instance) has pointed researchers toward potential pharmaceutical compounds. The study of animal sleep patterns — from the eight-minute naps of giraffes to the months-long hibernation of bears — has informed human sleep research and even space medicine.
+**Medicine** draws on animal behavior research too. Studying self-medication in wild animals (chimpanzees eating specific plants when ill, for instance) has pointed researchers toward potential pharmaceutical compounds. The study of animal sleep patterns — from the eight-minute naps of giraffes to the months-long hibernation of bears — has informed human sleep research and even [space medicine](/space-medicine).
 
 **Robotics and AI** increasingly borrow from animal behavior. Swarm algorithms based on ant colony optimization solve complex routing problems. Robot locomotion designs draw inspiration from [animal movement](/aerodynamics) patterns — the way a cockroach handles uneven terrain, or how a gecko's feet grip surfaces. Even social robot design incorporates principles from animal communication research.
 

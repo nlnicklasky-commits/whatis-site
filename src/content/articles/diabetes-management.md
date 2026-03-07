@@ -5,7 +5,7 @@ description: "Diabetes management is the ongoing process of controlling blood su
 category: health-amp-wellness
 tags: ["diabetes management", "diabetes", "blood sugar", "insulin", "health"]
 heroImage: "/images/articles/diabetes-management.webp"
-heroAlt: "Blood glucose monitor and insulin pen on a table next to a healthy meal"
+heroAlt: "Editorial photograph representing the concept of diabetes management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Poorly managed diabetes leads to chronically elevated blood sugar, which damages blood vessels and nerves over time. Complications include heart disease (the leading cause of death in people with diabetes), kidney failure, blindness from retinopathy, nerve damage causing pain or numbness in the feet, and poor wound healing that can lead to amputations. The risk of these complications drops dramatically with good blood sugar control."
 ---
 
-# What Is Diabetes Management?
+# What Is Diabetes [Management](/management)?
 
 Diabetes management is the continuous process of keeping blood glucose levels within a target range through a combination of medication, dietary choices, physical activity, and self-monitoring. It's not a one-time fix — it's a daily practice that people with diabetes follow for the rest of their lives.
 
@@ -51,7 +51,7 @@ Before you can manage diabetes, you need to know which kind you're dealing with.
 
 **Type 1 diabetes** is an autoimmune condition. Your immune system attacks and destroys the insulin-producing beta cells in your pancreas. No beta cells, no insulin. No insulin, no way for glucose to enter your cells. It typically appears in childhood or adolescence, though it can strike at any age. About 5-10% of all diabetes cases are Type 1.
 
-**Type 2 diabetes** is a metabolic disorder. Your body still makes insulin, but your cells have become resistant to it — they don't respond properly. Your pancreas tries to compensate by producing more insulin, but eventually it can't keep up. Type 2 accounts for about 90-95% of diabetes cases and is strongly linked to obesity, physical inactivity, and genetics.
+**Type 2 diabetes** is a metabolic disorder. Your body still makes insulin, but your cells have become resistant to it — they don't respond properly. Your pancreas tries to compensate by producing more insulin, but eventually it can't keep up. Type 2 accounts for about 90-95% of diabetes cases and is strongly linked to obesity, physical inactivity, and [genetics](/genetics).
 
 **Gestational diabetes** appears during pregnancy in women who didn't have diabetes before. It usually resolves after delivery, but it significantly increases the mother's risk of developing Type 2 diabetes later — about 50% will develop Type 2 within 5-10 years.
 
@@ -73,7 +73,7 @@ The difference a CGM makes is striking. A 2017 study in the Journal of the Ameri
 
 **Insulin** is non-negotiable for Type 1 and often necessary for Type 2. Modern insulin therapy is far more sophisticated than it was a century ago when Frederick Banting and Charles Best first extracted insulin from a dog's pancreas in 1921.
 
-Today's insulins come in several categories: rapid-acting (works in 15 minutes, lasts 3-5 hours), short-acting (30 minutes, lasts 6-8 hours), intermediate-acting (2-4 hours onset, lasts 12-18 hours), and long-acting (1-2 hours onset, lasts up to 24+ hours). Most people with Type 1 use a combination — long-acting for baseline coverage and rapid-acting before meals.
+Today's insulins come in several categories: rapid-[acting](/acting) (works in 15 minutes, lasts 3-5 hours), short-acting (30 minutes, lasts 6-8 hours), intermediate-acting (2-4 hours onset, lasts 12-18 hours), and long-acting (1-2 hours onset, lasts up to 24+ hours). Most people with Type 1 use a combination — long-acting for baseline coverage and rapid-acting before meals.
 
 Insulin pumps deliver rapid-acting insulin continuously through a small catheter under the skin. Combined with a CGM, some modern pumps can automatically adjust insulin delivery based on glucose readings — so-called hybrid closed-loop systems or "artificial pancreas" technology. They're not fully autonomous yet, but they're getting close.
 
@@ -92,13 +92,13 @@ Carbohydrate counting is the most precise approach. People using insulin calcula
 
 The glycemic index (GI) ranks carbohydrates by how quickly they raise blood sugar. White bread (GI of about 75) spikes glucose faster than lentils (GI of about 32). Choosing lower-GI foods can help smooth out blood sugar swings.
 
-But here's what most people miss: it's not just about carbs. Fat and protein slow gastric emptying, which delays glucose absorption. A pizza with its combination of carbs, fat, and protein will raise blood sugar differently than the same number of carbs from rice. This is why [nutrition](/dietetics) education is so critical for people with diabetes — the interactions are more complex than simple carb-counting suggests.
+But here's what most people miss: it's not just about carbs. Fat and protein slow gastric emptying, which delays glucose absorption. A pizza with its combination of carbs, fat, and protein will raise blood sugar differently than the same number of carbs from rice. This is why [nutrition](/dietetics) [education](/education) is so critical for people with diabetes — the interactions are more complex than simple carb-counting suggests.
 
 ### Physical Activity
 
 Exercise improves insulin sensitivity. During moderate activity, your muscles can absorb glucose without needing insulin — they essentially bypass the normal mechanism. This effect lasts for 24-48 hours after exercise.
 
-The American Diabetes Association recommends at least 150 minutes per week of moderate-intensity aerobic activity (brisk walking, cycling, swimming) plus two to three sessions of resistance training. Both types of exercise help, and the combination is better than either alone.
+The American Diabetes Association recommends at least 150 minutes per week of moderate-intensity aerobic activity (brisk [walking](/walking), [cycling](/cycling), [swimming](/swimming)) plus two to three sessions of resistance training. Both types of exercise help, and the combination is better than either alone.
 
 There's a catch for people using insulin: exercise can cause blood sugar to drop too low (hypoglycemia), especially if insulin doses aren't adjusted. This is why monitoring before, during, and after exercise matters. Some people need to eat a small snack before working out. Others reduce their insulin dose on exercise days.
 
@@ -114,13 +114,13 @@ This is the part that doesn't get enough attention. Diabetes is relentless. Ther
 
 Diabetes distress — the emotional burden of living with and managing the disease — affects 18-45% of people with diabetes, depending on the study. It's distinct from clinical depression, though the two can overlap. Burnout is real: people get tired of counting carbs, pricking fingers, calculating doses, and worrying about complications.
 
-Mental health support should be part of every diabetes management plan, but in practice, it's often overlooked. If you're managing diabetes and feeling overwhelmed, that's not weakness — it's a predictable response to a genuinely demanding condition.
+[Mental health](/mental-health) support should be part of every diabetes management plan, but in practice, it's often overlooked. If you're managing diabetes and feeling overwhelmed, that's not weakness — it's a predictable response to a genuinely demanding condition.
 
 ## Technology Is Changing the Game
 
 The last decade has seen remarkable advances. CGMs have gone from bulky, prescription-only devices to sleek sensors you can buy over the counter in some countries. Insulin pumps have gotten smaller and smarter. Smartphone apps track glucose, carbs, insulin doses, and exercise in one place.
 
-The most exciting development is automated insulin delivery (AID) — systems that combine a CGM and an insulin pump with an algorithm that adjusts insulin delivery in real time. The Medtronic 780G, Tandem Control-IQ, and Omnipod 5 are current examples. They don't eliminate the need for user input (you still have to announce meals and handle pump site changes), but they dramatically reduce the cognitive burden of management.
+The most exciting development is automated insulin delivery (AID) — systems that combine a CGM and an insulin pump with [an algorithm](/algorithms) that adjusts insulin delivery in real time. The Medtronic 780G, Tandem Control-IQ, and Omnipod 5 are current examples. They don't eliminate the need for user input (you still have to announce meals and handle pump site changes), but they dramatically reduce the cognitive burden of management.
 
 Looking ahead, researchers are working on glucose-responsive "smart" insulins that activate only when blood sugar rises, encapsulated beta cell transplants that could restore natural insulin production, and even gene therapies targeting the autoimmune process in Type 1 diabetes. None are ready for widespread use yet, but the pipeline is genuinely promising.
 

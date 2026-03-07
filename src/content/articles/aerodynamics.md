@@ -5,7 +5,7 @@ description: "Aerodynamics is the study of how air moves around objects. Learn a
 category: science
 tags: ["aerodynamics", "physics", "engineering", "flight", "lift", "drag", "fluid dynamics"]
 heroImage: "/images/articles/aerodynamics-hero.webp"
-heroAlt: "Airflow visualization around an aircraft wing showing lift and drag forces"
+heroAlt: "Editorial photograph representing the concept of aerodynamics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Here's something that trips people up: air has weight. A cubic meter of air at s
 
 Physicists classify air as a fluid. Not because it's wet, but because it flows. Fluids are any substance that deforms continuously under shear stress — a fancy way of saying they move out of the way when you push through them, then fill in behind you. Water does this. Honey does this (slowly). Air does this too. And that's precisely why the same fundamental equations describe both water flowing around a submarine and air flowing around a fighter jet.
 
-The study of fluids in motion falls under fluid dynamics, and aerodynamics is the specific branch dealing with gases — primarily air. Every principle you'll encounter here traces back to the behavior of air as a fluid: it has mass, it has viscosity, it exerts pressure, and it can be compressed.
+The study of fluids in motion falls under [fluid dynamics](/fluid-dynamics), and aerodynamics is the specific branch dealing with gases — primarily air. Every principle you'll encounter here traces back to the behavior of air as a fluid: it has mass, it has viscosity, it exerts pressure, and it can be compressed.
 
 ## The Four Forces That Govern Flight
 
@@ -135,11 +135,11 @@ At highway speeds, aerodynamic drag is the dominant force opposing a car's motio
 
 In Formula 1, aerodynamics is arguably more important than engine power. Cars generate enormous downforce — at high speeds, an F1 car produces enough downforce to theoretically drive upside down on a ceiling. The front and rear wings, diffuser, bargeboards, and countless small elements create a carefully orchestrated pressure field that pushes the car into the track, increasing tire grip and cornering speed. Teams spend tens of millions annually on aerodynamic development, using both wind tunnels and [computational fluid dynamics](/machine-learning) simulations.
 
-### Architecture and Civil Engineering
+### [Architecture](/architecture) and [Civil Engineering](/civil-engineering)
 
 Tall buildings must withstand wind loads that increase dramatically with height. Wind speed at the top of a 300-meter skyscraper can be double what it is at ground level. The shape of a building matters: sharp-cornered rectangular buildings experience vortex shedding — alternating low-pressure vortices that cause the building to sway back and forth. The Taipei 101 tower famously houses a 730-ton tuned mass damper (a giant steel pendulum) to counteract wind-induced swaying.
 
-Bridge design is deeply aerodynamic. The 1940 collapse of the Tacoma Narrows Bridge — nicknamed "Galloping Gertie" — remains the most famous aerodynamic failure in structural engineering. Moderate 64 km/h (40 mph) winds excited the bridge's natural frequency, causing violent oscillations that tore it apart just four months after opening. Every major bridge designed since then includes extensive wind tunnel testing.
+Bridge design is deeply aerodynamic. The 1940 collapse of the Tacoma Narrows Bridge — nicknamed "Galloping Gertie" — remains the most famous aerodynamic failure in [structural engineering](/structural-engineering). Moderate 64 km/h (40 mph) winds excited the bridge's natural frequency, causing violent oscillations that tore it apart just four months after opening. Every major bridge designed since then includes extensive wind tunnel testing.
 
 ### Sports
 
@@ -147,7 +147,7 @@ A baseball curveball works because of aerodynamics. When a pitcher throws with t
 
 Golf ball dimples are an aerodynamic masterstroke. A smooth golf ball hit by a pro would travel about 130 yards. A dimpled ball travels roughly 290 yards — more than double. The dimples create a turbulent boundary layer that clings to the ball longer, reducing the low-pressure wake behind it and cutting drag by about 50%.
 
-Cycling at competitive speeds is almost entirely about aerodynamics. A cyclist's body accounts for roughly 80% of total drag. The aerodynamic tuck position, skin suits, aero helmets, and deep-section wheels all aim to reduce the rider's drag coefficient. In time trials, the difference between first and tenth place can come down to aerodynamic optimization measured in watts.
+Cycling at competitive speeds is almost entirely about aerodynamics. A cyclist's body accounts for roughly 80% of total drag. The aerodynamic tuck position, skin suits, aero helmets, and deep-section wheels all aim to reduce the rider's drag coefficient. In time trials, the difference between first and tenth place can come down to aerodynamic [optimization](/optimization) measured in watts.
 
 ### Wind Energy
 
@@ -157,13 +157,13 @@ The Betz limit, derived from actuator disk theory in 1919 by Albert Betz, states
 
 ## Computational Aerodynamics: When Math Replaced Wind Tunnels
 
-For most of aviation history, aerodynamic testing meant building a physical model and sticking it in a wind tunnel. That changed with the rise of computational fluid dynamics (CFD) in the 1970s and 1980s.
+For most of [aviation history](/aviation-history), aerodynamic testing meant building a physical model and sticking it in a wind tunnel. That changed with the rise of computational fluid dynamics (CFD) in the 1970s and 1980s.
 
 CFD divides the air around an object into millions of tiny cells and solves the Navier-Stokes equations — the fundamental equations of fluid motion — at each cell. A modern CFD simulation of a complete aircraft might use 100 million cells and run for days on supercomputers. The results provide detailed maps of pressure, velocity, and temperature across every surface — data that would require thousands of wind tunnel sensors to replicate.
 
-But CFD hasn't killed wind tunnels. The Navier-Stokes equations are notoriously difficult — in fact, proving whether smooth solutions always exist is one of the seven Millennium Prize Problems in mathematics, with a $1 million bounty from the Clay Mathematics Institute. CFD uses approximations, and those approximations can be wrong in subtle ways. Wind tunnels provide ground truth. Modern aerodynamic development uses both: CFD to explore the design space quickly and cheaply, wind tunnels to validate the most promising designs.
+But CFD hasn't killed wind tunnels. The Navier-Stokes equations are notoriously difficult — in fact, proving whether smooth solutions always exist is one of the seven Millennium Prize Problems in [mathematics](/mathematics), with a $1 million bounty from the Clay Mathematics Institute. CFD uses approximations, and those approximations can be wrong in subtle ways. Wind tunnels provide ground truth. Modern aerodynamic development uses both: CFD to explore the design space quickly and cheaply, wind tunnels to validate the most promising designs.
 
-The integration of [machine learning](/machine-learning) with CFD is a growing frontier. Neural networks trained on wind tunnel and CFD data can predict aerodynamic forces in milliseconds rather than hours, enabling real-time optimization during design. Some research groups have used generative models to design entirely new airfoil shapes that outperform anything a human engineer has created.
+The integration of [machine learning](/machine-learning) with CFD is a growing frontier. [Neural networks](/neural-networks) trained on wind tunnel and CFD data can predict aerodynamic forces in milliseconds rather than hours, enabling real-time optimization during design. Some research groups have used generative models to design entirely new airfoil shapes that outperform anything a human engineer has created.
 
 ## A Brief History of People Fighting Air
 
@@ -189,7 +189,7 @@ Urban air mobility — flying taxis and delivery drones — presents entirely ne
 
 Even in ground transportation, the push for electric vehicle efficiency makes aerodynamics more critical. EVs don't waste energy as heat the way internal combustion engines do, so aerodynamic drag represents a larger fraction of total energy consumption. Every 10% reduction in drag coefficient adds roughly 14 km (about 9 miles) of range to a typical EV — a meaningful improvement when range anxiety remains a barrier to adoption.
 
-Hypersonic flight — speeds above Mach 5 — is the next frontier. At these speeds, the air temperature around a vehicle can exceed 2,000 degrees Celsius, hot enough to dissociate air molecules into plasma. Managing this thermal environment is an aerodynamic and materials science challenge that militaries and space agencies worldwide are actively pursuing.
+Hypersonic flight — speeds above Mach 5 — is the next frontier. At these speeds, the air temperature around a vehicle can exceed 2,000 degrees Celsius, hot enough to dissociate air molecules into plasma. Managing this thermal environment is an aerodynamic and [materials science](/materials-science) challenge that militaries and space agencies worldwide are actively pursuing.
 
 ## Key Takeaways
 

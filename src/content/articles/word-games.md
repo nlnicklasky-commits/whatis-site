@@ -5,7 +5,7 @@ description: "Word games are puzzles and competitions based on language and voca
 category: everyday-concepts
 tags: ["word games", "puzzles", "Scrabble", "crosswords", "Wordle", "language"]
 heroImage: "/images/articles/word-games.webp"
-heroAlt: "Scrabble tiles arranged on a game board spelling out various words"
+heroAlt: "Editorial photograph representing the concept of a word game"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is a Word Game?
 
-A word game is any game, puzzle, or competition in which the primary activity involves forming, finding, guessing, or manipulating words. This covers an enormous range — from crossword puzzles in the morning paper to cutthroat Scrabble tournaments, from Wordle's daily five-letter guess to the anagram chaos of Bananagrams. Word games have been entertaining humans for centuries, and they've only gotten more popular as digital platforms made them instantly accessible to anyone with a phone.
+A word game is any game, puzzle, or competition in which the primary activity involves forming, finding, guessing, or manipulating words. This covers an enormous range — from [crossword puzzles](/crossword-puzzles) in the morning paper to cutthroat [Scrabble](/scrabble) tournaments, from Wordle's daily five-letter guess to the anagram chaos of Bananagrams. Word games have been entertaining humans for centuries, and they've only gotten more popular as digital platforms made them instantly accessible to anyone with a phone.
 
 ## The Big Ones
 
@@ -69,20 +69,16 @@ Wordle's genius is constraint. One puzzle per day, same for everyone, and you ca
 
 **Spelling Bee** — The New York Times' daily puzzle gives you seven letters, one of which is mandatory, and asks you to find as many words as possible using those letters. The hunt for the "pangram" (a word using all seven letters) becomes genuinely obsessive.
 
-**Hangman** — One player thinks of a word, the other guesses letters one at a time. Incorrect guesses progressively draw a stick figure. Simple enough for children, but the underlying strategy (letter frequency analysis, word pattern recognition) is surprisingly deep.
+**Hangman** — One player thinks of a word, the other guesses letters one at a time. Incorrect guesses progressively draw a stick figure. Simple enough for children, but the underlying strategy (letter frequency analysis, word [pattern recognition](/pattern-recognition)) is surprisingly deep.
 
 ## Why They Work
 
 Word games hit a sweet spot in the brain. They require vocabulary knowledge (long-term memory), pattern recognition (spatial reasoning), and strategic thinking (probability, planning) simultaneously. The satisfaction of finding the right word — whether it's a crossword answer that suddenly clicks or a Scrabble bingo that earns 80 points — triggers a genuine dopamine response.
 
-They also scale perfectly with skill level. A beginner can enjoy filling in Monday crossword clues. An expert can spend an hour wrestling with a Saturday puzzle's cryptic wordplay. The game grows with you.
+They also scale perfectly with skill level. A beginner can enjoy filling in Monday crossword clues. An expert can spend an hour [wrestling](/wrestling) with a Saturday puzzle's cryptic wordplay. The game grows with you.
 
 The social dimension matters too. Word games create shared experiences — the office Wordle discussion, the family Scrabble rivalry, the crossword exchange between partners over morning coffee. Language is inherently social, and games built around language inherit that quality.
 
 ## The Digital Shift
 
-Word games have transitioned to digital platforms more successfully than most game categories. Crossword apps offer thousands of puzzles from dozens of publishers. Scrabble and its clones work perfectly on phones. Wordle proved that a web-based word game could capture global attention.
-
-Digital platforms also created communities — online Scrabble clubs, crossword constructor forums, Wordle strategy discussions — that would have been impossible when word games existed only on paper and boards.
-
-But the paper crossword still appears in newspapers. Scrabble boards still sell by the millions. The physical versions persist alongside the digital ones because the tactile experience — pen on paper, tiles clicking on a board — has its own satisfaction that pixels can't quite replicate.
+Word games have transitioned to digital platforms more successfully than most game categories. Crossword apps offer thousands of puzzles from dozens of publishers. Sc

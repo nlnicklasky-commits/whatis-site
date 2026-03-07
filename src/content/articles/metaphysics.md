@@ -5,7 +5,7 @@ description: "Metaphysics is the branch of philosophy studying the fundamental n
 category: everyday-concepts
 tags: ["metaphysics", "philosophy", "ontology", "reality", "existence", "consciousness"]
 heroImage: "/images/articles/metaphysics.webp"
-heroAlt: "Abstract cosmic scene with light and matter representing fundamental reality questions"
+heroAlt: "Editorial photograph representing the concept of metaphysics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Metaphysics?
 
-Metaphysics is the branch of philosophy that investigates the fundamental nature of reality — what exists, what it means for something to exist, and how the basic categories of being relate to one another. It asks the biggest, most stubbornly unanswerable questions humans can formulate: Why is there something rather than nothing? What is consciousness? Do we have free will? Is the mind separate from the body? What is time?
+Metaphysics is the branch of [philosophy](/philosophy) that investigates the fundamental nature of reality — what exists, what it means for something to exist, and how the basic categories of being relate to one another. It asks the biggest, most stubbornly unanswerable questions humans can formulate: Why is there something rather than nothing? What is consciousness? Do we have free will? Is the mind separate from the body? What is time?
 
-The name comes from Aristotle — sort of. His students compiled his works on "first philosophy" (the study of being as being) and placed them after ("meta") his writings on physics. "Metaphysics" literally means "after physics," though the discipline addresses questions that come *before* physics in a logical sense — questions about what reality fundamentally is, before you start measuring it.
+The name comes from Aristotle — sort of. His students compiled his works on "first philosophy" (the study of being as being) and placed them after ("meta") his writings on [physics](/physics). "Metaphysics" literally means "after physics," though the discipline addresses questions that come *before* physics in a logical sense — questions about what reality fundamentally is, before you start measuring it.
 
 ## The Core Questions
 
@@ -49,7 +49,7 @@ This is the most basic metaphysical question. What kinds of things are real? Phy
 
 ### Free Will
 
-Do you genuinely choose your actions, or are they determined by prior causes (brain states, genetics, environment) beyond your control? This question has implications for morality, law, and personal responsibility.
+Do you genuinely choose your actions, or are they determined by prior causes (brain states, [genetics](/genetics), environment) beyond your control? This question has implications for morality, law, and personal responsibility.
 
 **Determinism** says every event is caused by prior events according to natural laws. If you knew every particle's position and velocity, you could predict every future event — including every human decision.
 
@@ -77,7 +77,7 @@ Is time real, or is it a feature of human perception? Does the past still exist?
 
 **Growing block theory** says the past and present exist, but the future doesn't — yet.
 
-Einstein's relativity theory has implications here. The relativity of simultaneity — the fact that observers in different reference frames disagree about which events are simultaneous — arguably supports eternalism over presentism. But metaphysicians continue to debate whether physics settles the question.
+Einstein's [relativity](/relativity) theory has implications here. The relativity of simultaneity — the fact that observers in different reference frames disagree about which events are simultaneous — arguably supports eternalism over presentism. But metaphysicians continue to [debate](/debate) whether physics settles the question.
 
 ## A Brief History
 
@@ -89,15 +89,15 @@ Kant argued in the 18th century that metaphysics had overreached — that we can
 
 Logical positivists in the early 20th century declared metaphysics meaningless — if a claim can't be verified empirically, it says nothing. This anti-metaphysical attitude dominated analytic philosophy for decades.
 
-But metaphysics came back. Starting in the 1960s-70s, philosophers like Saul Kripke, David Lewis, and W.V.O. Quine rehabilitated metaphysical inquiry using rigorous logical tools. Today, metaphysics is a thriving field within analytic philosophy, and its questions intersect productively with physics, cognitive science, and computer science.
+But metaphysics came back. Starting in the 1960s-70s, philosophers like Saul Kripke, David Lewis, and W.V.O. Quine rehabilitated metaphysical inquiry using rigorous logical tools. Today, metaphysics is a thriving field within analytic philosophy, and its questions intersect productively with physics, cognitive science, and [computer science](/computer-science).
 
 ## Why It Matters
 
 You might wonder why anyone argues about whether the past exists or what makes you "you." These seem like impractical questions with no real-world consequences. But metaphysical assumptions underpin everything:
 
-- **Law and ethics** depend on assumptions about free will and personal identity
+- **Law and [ethics](/ethics)** depend on assumptions about free will and personal identity
 - **Science** depends on metaphysical assumptions about causation, natural laws, and the reality of unobservable entities
-- **Artificial intelligence** research engages with questions about consciousness and what it means to "think"
+- **[Artificial intelligence](/artificial-intelligence)** research engages with questions about consciousness and what it means to "think"
 - **Personal decision-making** is shaped by your beliefs about whether the future is open or determined
 
 Everyone has a metaphysics — a set of assumptions about what's real and how reality works. Most people just haven't examined theirs. Philosophy doesn't give you definitive answers to metaphysical questions. But it teaches you to ask them more carefully — and to recognize when your unexamined assumptions are doing work you haven't noticed.

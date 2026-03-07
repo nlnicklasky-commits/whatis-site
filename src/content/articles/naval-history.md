@@ -5,7 +5,7 @@ description: "Naval history studies how sea power shaped civilizations, wars, an
 category: history
 tags: ["naval history", "maritime history", "sea power", "naval warfare"]
 heroImage: "/images/articles/naval-history.webp"
-heroAlt: "Historic naval battle scene with tall ships exchanging cannon fire at sea"
+heroAlt: "Editorial photograph representing the concept of naval history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 Naval history is the study of how organized naval forces — war fleets, merchant marines, and the infrastructure supporting them — have shaped the course of human civilization. It covers everything from the first known sea battle (roughly 1210 BCE, between the Hittites and Cyprus) to today's aircraft carrier strike groups and submarine-launched ballistic missiles.
 
-But naval history isn't just about battles. It's about trade routes that built empires, blockades that starved nations into submission, technological revolutions that made entire classes of warships obsolete overnight, and the simple, brutal fact that whoever controls the sea controls the movement of goods, armies, and ideas.
+But naval history isn't just about battles. It's about [trade](/trade) routes that built empires, blockades that starved nations into submission, technological revolutions that made entire classes of warships obsolete overnight, and the simple, brutal fact that whoever controls the sea controls the movement of goods, armies, and ideas.
 
 ## Ancient Naval Power
 
@@ -43,11 +43,11 @@ But naval history isn't just about battles. It's about trade routes that built e
 
 The Mediterranean Sea was the birthplace of Western naval warfare. The Egyptians, Phoenicians, Greeks, and Romans all built fleets, and control of Mediterranean waters determined which civilizations thrived and which didn't.
 
-The **Phoenicians** (roughly 1500-300 BCE) were probably the ancient world's finest sailors. Operating from city-states in modern Lebanon, they established colonies across the Mediterranean — most famously Carthage in North Africa. They developed the bireme (a warship with two banks of oars) and pioneered celestial navigation techniques.
+The **Phoenicians** (roughly 1500-300 BCE) were probably the ancient world's finest sailors. Operating from city-states in modern Lebanon, they established colonies across the Mediterranean — most famously Carthage in North Africa. They developed the bireme (a warship with two banks of oars) and pioneered celestial [navigation](/navigation) techniques.
 
 **Ancient Greece** produced the trireme, a warship powered by 170 rowers arranged in three tiers. Fast, maneuverable, and armed with a bronze-sheathed battering ram at the prow, the trireme was the dominant warship of the 5th century BCE.
 
-The Battle of **Salamis** in 480 BCE was arguably the most consequential naval engagement in Western history. The Greek fleet — about 370 triremes, mostly Athenian — lured the much larger Persian fleet of Xerxes into the narrow strait between Salamis Island and the mainland. In the confined waters, Persian numbers were useless. The Greeks destroyed roughly 300 Persian ships and broke Xerxes' invasion. If Salamis had gone differently, the flowering of Athenian democracy, philosophy, and culture that followed might never have happened.
+The Battle of **Salamis** in 480 BCE was arguably the most consequential naval engagement in Western history. The Greek fleet — about 370 triremes, mostly Athenian — lured the much larger Persian fleet of Xerxes into the narrow strait between Salamis Island and the mainland. In the confined waters, Persian numbers were useless. The Greeks destroyed roughly 300 Persian ships and broke Xerxes' invasion. If Salamis had gone differently, the flowering of Athenian democracy, [philosophy](/philosophy), and culture that followed might never have happened.
 
 **Rome** came late to naval power but adapted fast. During the First Punic War (264-241 BCE), the Romans — primarily a land power — had to build a fleet from scratch to fight Carthage. They developed the *corvus*, a boarding bridge that let them turn sea battles into infantry fights, playing to their strength. Rome eventually destroyed Carthage's naval supremacy, and after the Battle of Actium in 31 BCE, the Mediterranean became essentially a Roman lake for the next four centuries.
 
@@ -63,13 +63,13 @@ Then, in one of history's great what-ifs, the Ming court decided to stop. By 143
 
 The introduction of cannons to warships in the 14th and 15th centuries transformed naval warfare. Instead of ramming and boarding — the dominant tactics since ancient times — ships could now destroy each other at range. This changed everything about ship design: vessels needed to be larger to carry heavy guns, structurally stronger to absorb recoil, and arranged with broadside gun decks that maximized firepower.
 
-The **galleon**, developed in the 16th century, became the standard European warship — a multi-decked sailing vessel carrying 20-70+ cannons. Galleons carried the Spanish treasure fleets, fought the English in 1588 (the Spanish Armada), and projected European power across the world's oceans.
+The **galleon**, developed in the 16th century, became the standard European warship — a multi-decked [sailing](/sailing) vessel carrying 20-70+ cannons. Galleons carried the Spanish treasure fleets, fought the English in 1588 (the Spanish Armada), and projected European power across the world's oceans.
 
 ### The Rise of the Royal Navy
 
-Britain's Royal Navy dominated the world's oceans from roughly the mid-17th century through World War I — a span of about 250 years. This wasn't inevitable. The Dutch were the leading naval power through much of the 1600s, and France repeatedly challenged British supremacy.
+Britain's Royal Navy dominated the world's oceans from roughly the mid-17th century through [World War I](/world-war-i) — a span of about 250 years. This wasn't inevitable. The Dutch were the leading naval power through much of the 1600s, and France repeatedly challenged British supremacy.
 
-What made the Royal Navy different was institutional. Britain invested in dockyards, supply chains, officer training, and — critically — the fiscal infrastructure to pay for it all. The Bank of England, founded in 1694, let the British government borrow money at lower interest rates than its rivals, which meant it could sustain naval spending through long wars. It's not the most exciting explanation, but government bonds won as many naval wars as cannons did.
+What made the Royal Navy different was institutional. Britain invested in dockyards, supply chains, officer training, and — critically — the fiscal infrastructure to pay for it all. The Bank of England, founded in 1694, let the British [government](/government) borrow money at lower interest rates than its rivals, which meant it could sustain naval spending through long wars. It's not the most exciting explanation, but government bonds won as many naval wars as cannons did.
 
 The defining moment was **Trafalgar** (October 21, 1805). Admiral Horatio Nelson's fleet destroyed the combined Franco-Spanish fleet off the coast of Spain, killing French hopes of invading Britain and establishing British naval supremacy for the rest of the century. Nelson himself was killed by a French sharpshooter during the battle — his death made him Britain's greatest naval hero and the subject of an oversized column in London's Trafalgar Square.
 
@@ -97,7 +97,7 @@ World War I's biggest naval lesson was that submarines could threaten even the m
 
 The **Battle of Jutland** (May 31, 1916) was the war's only major fleet engagement. Britain lost more ships and more men, but the German High Seas Fleet retreated to port and never seriously challenged the Royal Navy again. As one British journalist put it: the German fleet had assaulted its jailer but was still in jail.
 
-### World War II — Carriers and the Pacific
+### [World War II](/world-war-ii) — Carriers and the Pacific
 
 World War II proved that aircraft carriers had replaced battleships as the dominant weapons at sea. The attack on Pearl Harbor (December 7, 1941) and the sinking of the British battleships *Prince of Wales* and *Repulse* by Japanese aircraft three days later demonstrated that surface ships without air cover were vulnerable to destruction from above.
 

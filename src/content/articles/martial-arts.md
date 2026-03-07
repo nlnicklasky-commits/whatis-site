@@ -5,7 +5,7 @@ description: "Martial arts are codified fighting systems practiced for self-defe
 category: sports
 tags: ["martial arts", "self-defense", "combat sports", "karate", "judo", "fitness"]
 heroImage: "/images/articles/martial-arts.webp"
-heroAlt: "Two martial artists in white gi sparring in a traditional dojo"
+heroAlt: "Editorial photograph representing the concept of martial arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Martial Arts?
 
-Martial arts are structured systems of combat practices — techniques for fighting, self-defense, and (in many traditions) personal development. They exist in virtually every culture, from Chinese kung fu to Brazilian capoeira to Filipino escrima, and they've been practiced for thousands of years.
+Martial arts are structured systems of combat practices — techniques for fighting, [self-defense](/self-defense), and (in many traditions) personal development. They exist in virtually every culture, from Chinese kung fu to Brazilian capoeira to Filipino escrima, and they've been practiced for thousands of years.
 
-The term "martial" comes from Mars, the Roman god of war. But modern martial arts are about much more than fighting. For most practitioners, martial arts are a fitness discipline, a mental practice, a competitive sport, a cultural tradition, or some combination of all four. About 3.6 million Americans practiced martial arts in 2020, and the number has been growing steadily.
+The term "martial" comes from Mars, the Roman god of war. But modern martial arts are about much more than fighting. For most practitioners, martial arts are a [fitness](/fitness) discipline, a mental practice, a competitive sport, a cultural tradition, or some combination of all four. About 3.6 million Americans practiced martial arts in 2020, and the number has been growing steadily.
 
 ## Major Styles
 
@@ -41,9 +41,9 @@ The world of martial arts is enormous — there are hundreds of named styles. He
 
 ### Striking Arts
 
-**Karate** — a Japanese art emphasizing punches, kicks, and blocks, practiced in a structured progression through belt ranks. Multiple styles exist (Shotokan, Goju-Ryu, Wado-Ryu), each with different emphasis. Karate joined the Olympics in 2020.
+**Karate** — a [Japanese art](/japanese-art) emphasizing punches, kicks, and blocks, practiced in a structured progression through belt ranks. Multiple styles exist (Shotokan, Goju-Ryu, Wado-Ryu), each with different emphasis. Karate joined the Olympics in 2020.
 
-**Taekwondo** — a Korean art known for its spectacular high kicks and spinning techniques. An Olympic sport since 2000 and one of the most widely practiced martial arts globally, with an estimated 70+ million practitioners.
+**[Taekwondo](/taekwondo)** — a Korean art known for its spectacular high kicks and spinning techniques. An Olympic sport since 2000 and one of the most widely practiced martial arts globally, with an estimated 70+ million practitioners.
 
 **Muay Thai** — Thai boxing, which allows punches, kicks, elbows, and knee strikes, plus clinch fighting. Known as the "art of eight limbs." Muay Thai fighters are among the toughest combat athletes in the world.
 
@@ -53,15 +53,15 @@ The world of martial arts is enormous — there are hundreds of named styles. He
 
 **Judo** — a Japanese art focused on throws and groundwork, developed by Jigoro Kano in 1882. Kano's genius was creating a system where smaller practitioners could defeat larger opponents through technique and use. Olympic sport since 1964.
 
-**Brazilian Jiu-Jitsu (BJJ)** — ground-fighting art that uses joint locks and chokeholds to submit opponents. Developed in Brazil by the Gracie family, BJJ became globally famous through early UFC events that demonstrated its effectiveness. A 150-pound BJJ black belt can control and submit a much larger untrained opponent.
+**[Brazilian Jiu-Jitsu](/brazilian-jiu-jitsu) (BJJ)** — ground-fighting art that uses joint locks and chokeholds to submit opponents. Developed in Brazil by the Gracie family, BJJ became globally famous through early UFC events that demonstrated its effectiveness. A 150-pound BJJ black belt can control and submit a much larger untrained opponent.
 
-**Wrestling** — one of the oldest sports in existence, with roots in ancient Greece and nearly every other civilization. Freestyle and Greco-Roman wrestling are Olympic disciplines. Collegiate wrestling is a major U.S. sport.
+**[Wrestling](/wrestling)** — one of the oldest sports in existence, with roots in ancient Greece and nearly every other civilization. Freestyle and Greco-Roman wrestling are Olympic disciplines. Collegiate wrestling is a major U.S. sport.
 
 ### Hybrid and Traditional Arts
 
-**Kung fu (Chinese martial arts)** — a vast category including hundreds of styles: Wing Chun, Shaolin, Tai Chi, Hung Gar, and many more. Chinese martial arts emphasize both external (physical technique) and internal (breathing, energy flow) practice.
+**Kung fu (Chinese martial arts)** — a vast category including hundreds of styles: Wing Chun, Shaolin, [Tai Chi](/tai-chi), Hung Gar, and many more. Chinese martial arts emphasize both external (physical technique) and internal (breathing, energy flow) practice.
 
-**Aikido** — a Japanese art focused on redirecting an attacker's energy through circular movements, joint locks, and throws. Founded by Morihei Ueshiba, aikido is philosophically oriented toward harmony rather than destruction.
+**Aikido** — a Japanese art focused on redirecting an attacker's energy through circular movements, joint locks, and throws. Founded by Morihei Ueshiba, aikido is philosophically oriented toward [harmony](/harmony) rather than destruction.
 
 **Krav Maga** — developed for the Israeli military, emphasizing practical self-defense against real-world attacks. Krav Maga isn't concerned with tradition or sport — it focuses on neutralizing threats as efficiently as possible.
 
@@ -73,7 +73,7 @@ Martial arts have ancient roots. Chinese martial arts traditions date back at le
 
 Formalized training systems developed differently across cultures:
 
-- In **Japan**, the samurai class developed jujutsu, kenjutsu (swordsmanship), and other combat arts. After the samurai era ended, these evolved into modern arts like judo, aikido, and kendo.
+- In **Japan**, the samurai class developed jujutsu, kenjutsu ([swordsmanship](/swordsmanship)), and other combat arts. After the samurai era ended, these evolved into modern arts like judo, aikido, and kendo.
 - In **China**, Buddhist and Taoist monasteries (especially Shaolin) became centers for martial arts development, blending combat training with spiritual practice.
 - In **Korea**, indigenous martial traditions combined with Japanese and Chinese influences to produce taekwondo and hapkido in the 20th century.
 - In **Southeast Asia**, arts like Muay Thai, silat, and arnis developed from both military training and cultural traditions.
@@ -88,7 +88,7 @@ Most people who train martial arts never fight anyone. The benefits they seek ar
 
 **Mental discipline.** The structured, progressive nature of martial arts training builds focus, patience, and persistence. The belt system provides clear milestones. The training environment demands respect, attentiveness, and self-control.
 
-**Stress relief.** Hitting pads, grappling, or running through kata (forms) provides a physical outlet for stress. Many practitioners describe training as meditative — their mind clears when they're focused on technique.
+**Stress relief.** Hitting pads, grappling, or [running](/running) through kata (forms) provides a physical outlet for stress. Many practitioners describe training as meditative — their mind clears when they're focused on technique.
 
 **Confidence.** Knowing you can defend yourself — or at least having practiced managing physical confrontation — changes how you carry yourself. This isn't about aggression; it's about calmness that comes from competence.
 

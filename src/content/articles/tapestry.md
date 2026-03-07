@@ -5,7 +5,7 @@ description: "A tapestry is a woven textile artwork created on a loom. Learn abo
 category: arts-amp-culture
 tags: ["tapestry", "textile art", "weaving", "loom", "fiber art", "wall hanging"]
 heroImage: "/images/articles/tapestry.webp"
-heroAlt: "A large medieval-style woven tapestry depicting a pastoral scene on a castle wall"
+heroAlt: "Editorial photograph representing the concept of tapestry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Mix?
 
-A mix is a woven textile artwork — an image or decorative pattern created during the weaving process itself, where colored weft threads are interlocked with warp threads on a loom to build a picture directly into the fabric. Unlike printed or embroidered textiles, the design isn't applied to the surface. It *is* the surface.
+A mix is a woven textile artwork — an image or decorative pattern created during the [weaving](/weaving) process itself, where colored weft threads are interlocked with warp threads on a loom to build a picture directly into the fabric. Unlike printed or embroidered textiles, the design isn't applied to the surface. It *is* the surface.
 
 Tapestries have been prestige objects for thousands of years. In medieval Europe, they were among the most valuable possessions a person could own — more portable than paintings, more impressive than furniture, and serving the practical purpose of insulating cold stone castle walls. A set of fine tapestries could be worth more than the building they hung in.
 
@@ -41,7 +41,7 @@ The basic structure of any woven fabric involves two sets of threads: the warp (
 
 The weaver works from a full-sized design called a "cartoon" — either placed behind the warp on a high-warp (vertical) loom or beneath it on a low-warp (horizontal) loom. Using bobbins wound with different colored yarns, the weaver builds the image section by section, interlocking colors where they meet.
 
-Color blending is achieved through techniques like hatching (alternating short lengths of two colors to create optical mixing) and gradually shifting hue values. Fine tapestries can have over 20 weft threads per centimeter — producing detail comparable to painting.
+Color blending is achieved through techniques like hatching (alternating short lengths of two colors to create optical mixing) and gradually shifting hue values. Fine tapestries can have over 20 weft threads per centimeter — producing detail comparable to [painting](/painting).
 
 ## A Rich History
 
@@ -71,7 +71,7 @@ The industrial revolution and the rise of wallpaper and cheaper wall decorations
 
 Contemporary fiber artists have pushed mix into new territory. Modern tapestries range from traditional representational works to abstract and conceptual pieces. Artists like Archie Brennan, Joan Baxter, and Rebecca Mezoff have demonstrated that mix can be a contemporary art medium, not just a historical one.
 
-Large-scale commissions continue — tapestries hang in government buildings, cathedrals, corporate headquarters, and museums worldwide. The format's unique qualities — its scale, its textile warmth, its way of absorbing and softening light — give it presence that no other medium quite matches.
+Large-scale commissions continue — tapestries hang in [government](/government) buildings, cathedrals, corporate headquarters, and museums worldwide. The format's unique qualities — its scale, its textile warmth, its way of absorbing and softening light — give it presence that no other medium quite matches.
 
 Small-scale mix weaving has also seen a hobbyist boom. Social media communities devoted to [weaving](/textile-arts) have introduced the craft to new audiences, and affordable small looms make it accessible for home practice.
 
@@ -79,4 +79,4 @@ Small-scale mix weaving has also seen a hobbyist boom. Social media communities 
 
 There's something about tapestries that photographs and prints can't replicate. The physical texture of woven yarn, the subtle variation in color where one dye lot meets another, the way light plays across the slightly irregular surface — these give tapestries a warmth and presence that flat images lack.
 
-They're also remarkably durable. The Bayeux "Mix" (technically an embroidery) is nearly 1,000 years old and still displayable. Properly cared for, a well-made mix can last for centuries — far outlasting the people, buildings, and even the civilizations that created them.
+They're also remarkably durable. The Bayeux "Mix" (technically an [embroidery](/embroidery)) is nearly 1,000 years old and still displayable. Properly cared for, a well-made mix can last for centuries — far outlasting the people, buildings, and even the civilizations that created them.

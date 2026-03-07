@@ -5,7 +5,7 @@ description: "Engine repair is the process of diagnosing and fixing mechanical p
 category: technology
 tags: ["engine repair", "automotive", "mechanics", "internal combustion engine", "vehicle maintenance", "diagnostics", "repair"]
 heroImage: "/images/articles/engine-repair-hero.webp"
-heroAlt: "Mechanic working on an exposed engine block in an automotive repair shop"
+heroAlt: "Editorial photograph representing the concept of engine repair"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,12 +45,12 @@ Before you can understand engine repair, you need a basic picture of what an eng
 
 An internal combustion engine converts chemical energy (fuel) into mechanical energy (rotation) through a four-stroke cycle:
 
-1. **Intake**: The piston moves down, drawing in a fuel-air mixture through the intake valve
+1. **Intake**: The piston moves down, [drawing](/drawing) in a fuel-air mixture through the intake valve
 2. **Compression**: The piston moves up, compressing the mixture to roughly 1/10th its original volume
 3. **Power**: A spark plug ignites the compressed mixture, and the expanding gases force the piston down with enormous force
 4. **Exhaust**: The piston moves back up, pushing burned gases out through the exhaust valve
 
-This cycle repeats 1,000-6,000+ times per minute in each cylinder. A four-cylinder engine running at 3,000 RPM performs 6,000 combustion events per minute. The temperatures inside the combustion chamber exceed 2,500 degrees Celsius during the power stroke. The pressures reach 50-70 bar. This all happens inside an aluminum or cast-iron block that weighs maybe 100 kg and costs a few thousand dollars.
+This cycle repeats 1,000-6,000+ times per minute in each cylinder. A four-cylinder engine [running](/running) at 3,000 RPM performs 6,000 combustion events per minute. The temperatures inside the combustion chamber exceed 2,500 degrees Celsius during the power stroke. The pressures reach 50-70 bar. This all happens inside an aluminum or cast-iron block that weighs maybe 100 kg and costs a few thousand dollars.
 
 When you think about it that way, it's kind of remarkable that engines last as long as they do. But wear, heat, contamination, and material fatigue eventually cause failures. That's where engine repair comes in.
 
@@ -120,7 +120,7 @@ When internal engine damage is extensive, two options exist: rebuild or replace.
 
 ### Engine Rebuild
 
-A rebuild involves disassembling the engine completely, inspecting every component, machining or replacing worn parts, and reassembling with new gaskets, seals, bearings, and rings. The block is bored to correct cylinder wear. The crankshaft is ground to specification. The cylinder head is reconditioned with new valve guides, seats, and springs.
+A rebuild involves disassembling the engine completely, inspecting every component, machining or replacing worn parts, and reassembling with new gaskets, seals, bearings, and rings. The block is bored to correct cylinder wear. The crankshaft is ground to specification. The cylinder head is reconditioned with new valve guides, seats, and [springs](/springs).
 
 A properly rebuilt engine should perform like new and last as long as the original. Cost typically runs $2,500-$7,000 depending on the engine type and the extent of damage.
 
@@ -138,7 +138,7 @@ The choice depends on the vehicle's value, the owner's plans for keeping it, and
 
 ## Modern Engine Complexity
 
-### Electronic Engine Management
+### Electronic Engine [Management](/management)
 
 Modern engines are controlled by an engine control unit (ECU) — a dedicated computer that manages fuel injection, ignition timing, variable valve timing, turbocharger boost, emissions controls, and dozens of other parameters. The ECU receives data from 30+ sensors and makes decisions thousands of times per second.
 
@@ -156,7 +156,7 @@ Systems like Honda's VTEC, Toyota's VVT-i, and BMW's VANOS adjust valve timing b
 
 ## The Technician's Skill Set
 
-Engine repair has evolved from a purely mechanical trade to one requiring significant technical education.
+Engine repair has evolved from a purely mechanical [trade](/trade) to one requiring significant technical [education](/education).
 
 ### ASE Certification
 
@@ -199,7 +199,7 @@ The cost of all scheduled maintenance over an engine's lifetime is typically a f
 
 ## The EV Transition and Engine Repair's Future
 
-Electric vehicles have dramatically fewer moving parts than internal combustion engines — an EV powertrain has roughly 20 moving parts versus 2,000+ in a conventional drivetrain. No oil to change, no timing belts, no spark plugs, no exhaust system. Battery, motor, and power electronics require different skills than traditional engine work.
+Electric vehicles have dramatically fewer moving parts than internal combustion engines — an EV powertrain has roughly 20 moving parts versus 2,000+ in a conventional drivetrain. No oil to change, no timing belts, no spark plugs, no exhaust system. Battery, motor, and power [electronics](/electronics) require different skills than traditional engine work.
 
 But the transition will take decades. The US has about 290 million registered vehicles, and even with aggressive EV adoption, internal combustion vehicles will dominate the fleet through the 2030s and beyond. The average vehicle age is 12.6 years and rising. Engine repair skills will be needed for a very long time — but the profession is unmistakably evolving toward an electrified future.
 

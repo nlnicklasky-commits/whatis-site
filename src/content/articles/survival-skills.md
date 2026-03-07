@@ -5,7 +5,7 @@ description: "Survival skills are techniques for staying alive in emergencies or
 category: health-amp-wellness
 tags: ["outdoor recreation", "survival skills", "wilderness", "emergency preparedness"]
 heroImage: "/images/articles/survival-skills.webp"
-heroAlt: "Person building a debris shelter in a forest clearing with natural materials"
+heroAlt: "Editorial photograph representing the concept of survival skills"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
 
 # What Is Survival Skills?
 
-Survival skills are the practical techniques and knowledge that keep you alive when normal support systems — shelter, grocery stores, emergency services, GPS — aren't available. That might mean being lost in the backcountry after a wrong turn on a hiking trail. It might mean a natural disaster that cuts off your neighborhood for days. Or it might mean something as simple as your car breaking down on a remote road in winter.
+Survival skills are the practical techniques and knowledge that keep you alive when normal support systems — shelter, grocery stores, emergency services, GPS — aren't available. That might mean being lost in the backcountry after a wrong turn on a [hiking](/hiking) trail. It might mean a natural disaster that cuts off your neighborhood for days. Or it might mean something as simple as your car breaking down on a remote road in winter.
 
-The uncomfortable truth is that most people in developed countries have almost zero ability to meet their own basic needs without infrastructure. Turn off the electricity, the water supply, and the grocery delivery app, and things get serious fast.
+The uncomfortable truth is that most people in developed countries have almost zero ability to meet their own basic needs without infrastructure. Turn off the [electricity](/electricity), the water supply, and the grocery delivery app, and things get serious fast.
 
 ## The Priority Framework: What Will Kill You First
 
@@ -135,14 +135,14 @@ Here's what most survival guides bury at the end but should put first: mindset d
 
 The military uses the acronym SURVIVAL: Size up the situation, Undue haste makes waste, Remember where you are, Vanquish fear and panic, Improvise and improve, Value living, Act like the natives, Learn basic skills.
 
-The most important piece? Don't panic. Panic leads to running when you should stay put, drinking unsafe water when you should purify it, and exhausting yourself when you should conserve energy. Sit down. Breathe. Assess your situation. Make a plan. Then act on it.
+The most important piece? Don't panic. Panic leads to [running](/running) when you should stay put, drinking unsafe water when you should purify it, and exhausting yourself when you should conserve energy. Sit down. Breathe. Assess your situation. Make a plan. Then act on it.
 
 ## Building a Basic Emergency Kit
 
 You don't need to prepare for the apocalypse. A small kit that covers the essentials can fit in a coat pocket:
 
 - Ferro rod and tinder
-- Water purification tablets or a mini filter
+- [Water purification](/water-purification) tablets or a mini filter
 - Emergency mylar blanket
 - Small knife or multitool
 - Whistle (sound carries farther than your voice and requires less energy)

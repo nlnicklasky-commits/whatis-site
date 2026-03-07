@@ -5,7 +5,7 @@ description: "Hospitality management covers running hotels, restaurants, and tou
 category: everyday-concepts
 tags: ["hospitality management", "hotels", "restaurants", "tourism", "customer service", "business"]
 heroImage: "/images/articles/hospitality-management.webp"
-heroAlt: "Luxury hotel lobby with a reception desk and concierge assisting guests"
+heroAlt: "Editorial photograph representing the concept of hospitality management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Hospitality refers to the businesses that serve guests directly — hotels, restaurants, bars, resorts, event venues. Tourism is the broader ecosystem that drives travel — transportation, attractions, destination marketing, travel agencies. They overlap significantly, and many professionals work across both."
 ---
 
-# What Is Hospitality Management?
+# What Is Hospitality [Management](/management)?
 
 Hospitality management is the business of making people feel welcome — specifically, managing the operations of hotels, restaurants, resorts, event venues, and other businesses that serve travelers and guests. The global hospitality industry employs roughly 330 million people and generates over $4.7 trillion in revenue annually, making it one of the world's largest economic sectors.
 
@@ -41,7 +41,7 @@ If you picture a hotel manager standing behind a desk in a nice suit, you have a
 
 **Financial management** — setting room rates, managing food costs, controlling labor expenses, forecasting demand, and hitting profit targets. Hotels operate on surprisingly thin margins — after expenses, a typical hotel keeps 30 to 40% of revenue as gross operating profit.
 
-**People management** — hiring, training, scheduling, and motivating large teams of employees who often work unusual hours for modest pay. Employee turnover in hospitality averages 70 to 80% annually — far higher than most industries. Keeping good people is one of the hardest parts of the job.
+**People management** — hiring, training, [scheduling](/scheduling), and motivating large teams of employees who often work unusual hours for modest pay. Employee turnover in hospitality averages 70 to 80% annually — far higher than most industries. Keeping good people is one of the hardest parts of the job.
 
 **Guest satisfaction** — handling complaints, resolving problems, and ensuring that every guest interaction reflects well on the property. One bad review on TripAdvisor or Google can cost thousands in lost bookings.
 
@@ -51,17 +51,17 @@ If you picture a hotel manager standing behind a desk in a nice suit, you have a
 
 **Hotels and lodging** — from budget motels to luxury resorts. The industry is dominated by major brands (Marriott, Hilton, IHG, Hyatt) that typically do not own the buildings — they manage them under franchise or management agreements. Marriott International oversees about 8,700 properties without owning most of them.
 
-**Restaurants and food service** — the largest hospitality sector by employment. Full-service restaurants, fast casual, catering, institutional food service (hospitals, universities), and bars all fall under this umbrella. Restaurant management involves tight margins (average profit margin of 3 to 9%), perishable inventory, and relentless pace.
+**Restaurants and food service** — the largest hospitality sector by employment. Full-service restaurants, fast casual, catering, institutional food service (hospitals, universities), and bars all fall under this umbrella. [Restaurant management](/restaurant-management) involves tight margins (average profit margin of 3 to 9%), perishable inventory, and relentless pace.
 
-**Events and meetings** — conferences, weddings, corporate retreats, and conventions. Event managers coordinate venues, catering, audio-visual equipment, transportation, and logistics. A large convention can generate millions in economic impact for a host city.
+**Events and meetings** — conferences, weddings, corporate retreats, and conventions. Event managers coordinate venues, catering, audio-visual equipment, transportation, and [logistics](/logistics). A large convention can generate millions in economic impact for a host city.
 
-**Travel and tourism** — cruise lines, airlines, tour operators, destination marketing organizations, and travel technology companies. This sector connects the demand side (travelers) with the supply side (hospitality businesses).
+**Travel and [tourism](/tourism)** — cruise lines, airlines, tour operators, destination [marketing](/marketing) organizations, and travel technology companies. This sector connects the demand side (travelers) with the supply side (hospitality businesses).
 
 ## Skills That Matter
 
 Hospitality is a people business. Technical knowledge matters, but interpersonal skills separate good managers from great ones:
 
-**Emotional intelligence** — reading situations, managing difficult conversations, staying calm under pressure. A guest screaming about a billing error needs empathy first and solutions second.
+**[Emotional intelligence](/emotional-intelligence)** — reading situations, managing difficult conversations, staying calm under pressure. A guest screaming about a billing error needs empathy first and solutions second.
 
 **Multitasking** — a restaurant manager might handle a staffing shortage, a health inspection, a supplier delivery, and an unhappy customer within the same hour. The ability to switch contexts without dropping anything is essential.
 

@@ -5,7 +5,7 @@ description: "Vegan cooking prepares food without any animal products. Learn abo
 category: food-amp-drink
 tags: ["vegan cooking", "plant-based", "food", "nutrition", "cooking techniques", "recipes"]
 heroImage: "/images/articles/vegan-cooking.webp"
-heroAlt: "Colorful vegan buddha bowl with roasted vegetables, quinoa, avocado, and tahini dressing"
+heroAlt: "Editorial photograph representing the concept of vegan cooking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,7 +65,7 @@ Without butter, cream, and cheese, richness comes from:
 
 **Avocado** — Provides creamy fat in dressings, sauces, and as a topping.
 
-**Coconut** — Coconut milk and cream add richness to curries, soups, and desserts. Coconut oil works for sauteing and baking.
+**Coconut** — Coconut milk and cream add richness to curries, soups, and desserts. Coconut oil works for sauteing and [baking](/baking).
 
 **Good olive oil** — A finishing drizzle of quality olive oil adds the kind of richness that makes simple vegetables taste luxurious.
 

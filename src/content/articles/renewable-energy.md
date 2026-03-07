@@ -5,7 +5,7 @@ description: "Renewable energy comes from sources that replenish naturally like 
 category: technology
 tags: ["renewable energy", "solar", "wind", "hydropower", "clean energy", "sustainability", "climate"]
 heroImage: "/images/articles/renewable-energy-hero.webp"
-heroAlt: "Wind turbines and solar panels generating electricity in a green landscape"
+heroAlt: "Editorial photograph representing the concept of renewable energy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,9 +41,9 @@ faq:
 
 Renewable energy is energy generated from natural sources that replenish themselves over short timescales — sunlight, wind, water flow, geothermal heat, and biomass. Unlike fossil fuels (coal, oil, natural gas), which took millions of years to form and are being depleted far faster than they can regenerate, renewable sources are essentially inexhaustible on human timescales. The sun will keep shining for another 5 billion years. Wind will blow as long as the sun heats the atmosphere unevenly. Rivers will flow as long as the water cycle continues.
 
-Here is the number that puts renewables in perspective: the sun delivers roughly 173,000 terawatts of energy to Earth's surface continuously. Total human energy consumption is about 18 terawatts. We receive nearly 10,000 times more solar energy than we use. The challenge was never whether renewable energy could meet human needs — the challenge was learning to capture, convert, store, and distribute it affordably. And frankly, that challenge has been largely solved for electricity generation, which is why renewables are the fastest-growing energy source on the planet.
+Here is the number that puts renewables in perspective: the sun delivers roughly 173,000 terawatts of energy to Earth's surface continuously. Total human energy consumption is about 18 terawatts. We receive nearly 10,000 times more solar energy than we use. The challenge was never whether renewable energy could meet human needs — the challenge was learning to capture, convert, store, and distribute it affordably. And frankly, that challenge has been largely solved for [electricity](/electricity) generation, which is why renewables are the fastest-growing energy source on the planet.
 
-In 2023, renewables accounted for roughly 30% of global electricity generation, up from about 20% in 2010. Solar and wind alone generated more electricity than nuclear power for the first time. The International Energy Agency projects that renewables will surpass coal as the world's largest source of electricity by 2027.
+In 2023, renewables accounted for roughly 30% of global electricity generation, up from about 20% in 2010. Solar and wind alone generated more electricity than [nuclear power](/nuclear-power) for the first time. The International Energy Agency projects that renewables will surpass coal as the world's largest source of electricity by 2027.
 
 ## Solar Energy: Capturing Starlight
 
@@ -105,7 +105,7 @@ Hydropower is the world's largest source of renewable electricity, generating ab
 
 A dam blocks a river, creating a reservoir. Water released through the dam drives turbines that generate electricity. The amount of power depends on two factors: the volume of water flow and the height it falls (the "head"). Large dams like Three Gorges (China, 22.5 GW), Itaipu (Brazil/Paraguay, 14 GW), and Grand Coulee (U.S., 6.8 GW) are among the most powerful electricity generators on Earth.
 
-Hydropower's advantages are significant: it produces no direct emissions during operation, provides reliable baseload power, can ramp up and down quickly to match demand, and reservoirs serve multiple purposes (flood control, irrigation, recreation). The energy payback is excellent — a well-sited dam produces many times more energy over its lifetime than was required to build it.
+Hydropower's advantages are significant: it produces no direct emissions during operation, provides reliable baseload power, can ramp up and down quickly to match demand, and reservoirs serve multiple purposes (flood control, [irrigation](/irrigation), recreation). The energy payback is excellent — a well-sited dam produces many times more energy over its lifetime than was required to build it.
 
 But the environmental and social costs can be severe. Dams flood valleys, displace communities (Three Gorges displaced 1.3 million people), block fish migration (Pacific salmon populations have been devastated by Columbia River dams), alter downstream ecosystems, and trap sediment that would naturally replenish floodplains and deltas. The environmental case for large new dams is increasingly contested.
 
@@ -143,7 +143,7 @@ Modern bioenergy applications include ethanol from corn or sugarcane (blended wi
 
 ## The Grid Integration Challenge
 
-Adding large amounts of variable renewable energy to an electrical grid designed around dispatchable fossil fuel and nuclear plants creates real engineering challenges.
+Adding large amounts of variable renewable energy to an electrical grid designed around dispatchable fossil fuel and nuclear plants creates real [engineering](/engineering) challenges.
 
 ### The Duck Curve
 
@@ -153,7 +153,7 @@ Grid operators must maintain reliable supply through this steep ramp. Battery st
 
 ### Transmission Infrastructure
 
-The best renewable resources are often far from population centers. Wind is strongest on the Great Plains and offshore. Solar is most productive in deserts. Getting this electricity to cities requires long-distance transmission lines — and building transmission is slow, expensive, and politically contentious. The permitting and construction timeline for a new high-voltage transmission line in the U.S. averages 7-10 years.
+The best renewable resources are often far from population centers. Wind is strongest on the Great Plains and offshore. Solar is most productive in deserts. Getting this electricity to cities requires long-distance transmission lines — and building transmission is slow, expensive, and politically contentious. The permitting and [construction](/construction) timeline for a new high-voltage transmission line in the U.S. averages 7-10 years.
 
 Inadequate transmission is one of the biggest bottlenecks for renewable deployment. In the U.S., over 2,600 GW of generation projects (mostly solar and wind) are stuck in interconnection queues — waiting for permission to connect to the grid. Building transmission faster is arguably more important for the energy transition than improving solar or wind technology.
 
@@ -179,7 +179,7 @@ The levelized cost of energy (LCOE) — the total lifetime cost divided by total
 
 New solar and onshore wind are now cheaper than new coal almost everywhere and competitive with or cheaper than new natural gas in most markets. In many regions, building new renewables is cheaper than continuing to fuel existing coal plants.
 
-This cost advantage is the primary driver of renewable deployment. It is also why the energy transition, once dependent on government mandates and subsidies, increasingly proceeds on market economics alone. Investors build renewable projects because they are profitable, not (just) because they are green.
+This cost advantage is the primary driver of renewable deployment. It is also why the energy transition, once dependent on [government](/government) mandates and subsidies, increasingly proceeds on market economics alone. Investors build renewable projects because they are profitable, not (just) because they are green.
 
 ## Jobs and Economic Impact
 
@@ -207,6 +207,6 @@ These impacts are real but must be weighed against the alternative. Fossil fuels
 
 Renewable energy — from solar, wind, hydropower, geothermal, and biomass — is energy derived from naturally replenishing sources. Solar PV and onshore wind have experienced cost declines of 86% and 67% respectively since 2010, making them the cheapest sources of new electricity in most markets worldwide.
 
-Renewables provided roughly 30% of global electricity in 2023, with deployment accelerating rapidly. The main challenges are intermittency (solved increasingly through storage, grid interconnection, and demand management), transmission infrastructure (the biggest bottleneck in many countries), and materials supply chains.
+Renewables provided roughly 30% of global electricity in 2023, with deployment accelerating rapidly. The main challenges are intermittency (solved increasingly through storage, grid interconnection, and demand [management](/management)), transmission infrastructure (the biggest bottleneck in many countries), and materials supply chains.
 
 The energy transition from fossil fuels to renewables is now driven primarily by economics rather than policy mandates — new renewables are simply cheaper than new fossil fuel generation in most places. The remaining questions are not whether this transition will happen, but how fast, how the costs and benefits will be distributed, and whether the pace is sufficient to meet [climatology](/climatology) targets for limiting global warming.

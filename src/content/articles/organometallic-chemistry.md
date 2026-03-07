@@ -5,7 +5,7 @@ description: "Organometallic chemistry studies compounds with metal-carbon bonds
 category: science
 tags: ["organometallic chemistry", "catalysis", "organic synthesis", "metal-carbon bond", "inorganic chemistry", "homogeneous catalysis"]
 heroImage: "/images/articles/organometallic-chemistry-hero.webp"
-heroAlt: "3D rendering of a metallocene organometallic compound with a metal atom sandwiched between two cyclopentadienyl rings"
+heroAlt: "Editorial photograph representing the concept of organometallic chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Organometallic Chemistry?
 
-Organometallic chemistry is the study of compounds that contain at least one direct bond between a metal atom and a carbon atom. That single definition opens up an enormous and surprisingly practical field — one responsible for the plastics in your home, many of the drugs in your medicine cabinet, and some of the most important chemical processes in industrial history.
+Organometallic chemistry is the study of compounds that contain at least one direct bond between a metal atom and a carbon atom. That single definition opens up an enormous and surprisingly practical field — one responsible for the plastics in your home, many of the drugs in your medicine cabinet, and some of the most important chemical processes in [industrial history](/industrial-history).
 
 ## The Metal-Carbon Bond: Why It Matters
 
@@ -135,7 +135,7 @@ The field is responding in several ways:
 
 **Photoredox catalysis** uses light to drive catalytic cycles, often enabling reactions at room temperature that would otherwise require heating. Combined with organometallic catalysis, photoredox methods achieve transformations impossible with either approach alone. David MacMillan (2021 Nobel Prize) pioneered many of these combined approaches.
 
-**Electrocatalysis** uses electrical current instead of chemical oxidants or reductants. This ties organometallic chemistry to renewable energy — reactions driven by solar-generated electricity rather than petroleum-derived reagents. The connection to [electrochemistry](/electrochemistry) is increasingly important.
+**Electrocatalysis** uses electrical current instead of chemical oxidants or reductants. This ties organometallic chemistry to [renewable energy](/renewable-energy) — reactions driven by solar-generated electricity rather than petroleum-derived reagents. The connection to [electrochemistry](/electrochemistry) is increasingly important.
 
 ## Applications Beyond the Lab
 
@@ -147,7 +147,7 @@ OLED displays use organometallic iridium and platinum compounds as phosphorescen
 
 Solar energy research uses organometallic dyes in dye-sensitized solar cells and organometallic perovskites in perovskite solar cells — a rapidly advancing technology that could dramatically reduce the cost of [alternative energy](/alternative-energy).
 
-Medical imaging relies on gadolinium complexes (MRI contrast agents), technetium complexes (nuclear medicine), and platinum compounds (cisplatin and its derivatives remain among the most widely used cancer chemotherapy drugs, with global sales exceeding $2 billion annually).
+[Medical imaging](/medical-imaging) relies on gadolinium complexes (MRI contrast agents), technetium complexes (nuclear medicine), and platinum compounds (cisplatin and its derivatives remain among the most widely used cancer chemotherapy drugs, with global sales exceeding $2 billion annually).
 
 ## Why Organometallic Chemistry Matters
 

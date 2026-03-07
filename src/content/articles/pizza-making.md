@@ -5,7 +5,7 @@ description: "Pizza making is the craft of preparing dough, sauce, and toppings 
 category: everyday-concepts
 tags: ["cooking", "food", "pizza", "baking", "dough", "culinary"]
 heroImage: "/images/articles/pizza-making.webp"
-heroAlt: "A pizza maker stretching fresh dough by hand with ingredients and a wood-fired oven in the background"
+heroAlt: "Editorial photograph representing the concept of pizza making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Pizza Making?
 
-Pizza making is the craft of combining flour, water, yeast, and salt into dough, topping it with sauce, cheese, and whatever else you like, and baking it at high heat until the crust is crisp outside and tender inside. It sounds simple because the concept is simple. But the difference between mediocre pizza and great pizza — the kind that makes you close your eyes and stop talking — comes down to details: dough hydration, fermentation time, oven temperature, sauce balance, and the specific mozzarella sitting on top. Pizza is a masterclass in how simple ingredients, handled with care, produce something greater than their parts.
+Pizza making is the craft of combining flour, water, yeast, and salt into dough, topping it with sauce, cheese, and whatever else you like, and [baking](/baking) it at high heat until the crust is crisp outside and tender inside. It sounds simple because the concept is simple. But the difference between mediocre pizza and great pizza — the kind that makes you close your eyes and stop talking — comes down to details: dough hydration, [fermentation](/fermentation) time, oven temperature, sauce balance, and the specific mozzarella sitting on top. Pizza is a masterclass in how simple ingredients, handled with care, produce something greater than their parts.
 
 ## The Dough (Where Everything Starts)
 
@@ -61,7 +61,7 @@ The process: mix the dough, let it bulk ferment for a few hours at room temperat
 
 **Neapolitan.** The original. Thin center, puffy cornicione (rim), cooked in 60-90 seconds at 800-900°F in a wood-fired oven. The Associazione Verace Pizza Napoletana (AVPN) specifies exact requirements: "00" flour, San Marzano tomatoes, fresh mozzarella di bufala, hand-stretched (never rolled), and baked in a wood-fired dome oven. The result is soft, slightly charred, and meant to be eaten with a knife and fork.
 
-**New York style.** Large, thin, foldable slices with a crispy-chewy crust. Made with high-gluten bread flour, low-moisture mozzarella, and cooked in a gas deck oven at 550-600°F for 8-12 minutes. The dough is typically hand-tossed and stretched larger than Neapolitan. New York pizza is street food — grab a slice, fold it, eat while walking.
+**New York style.** Large, thin, foldable slices with a crispy-chewy crust. Made with high-gluten bread flour, low-moisture mozzarella, and cooked in a gas deck oven at 550-600°F for 8-12 minutes. The dough is typically hand-tossed and stretched larger than Neapolitan. New York pizza is street food — grab a slice, fold it, eat while [walking](/walking).
 
 **Detroit style.** Thick, rectangular, baked in a blue steel pan (originally automotive parts trays). The dough is high-hydration and proofed in the pan, creating a focaccia-like interior. Wisconsin brick cheese is spread to the edges, creating a caramelized, crispy cheese crust along the sides. Sauce goes on top of the cheese (called "racing stripes"). It's crunchy, chewy, and addictive.
 
@@ -71,7 +71,7 @@ The process: mix the dough, let it bulk ferment for a few hours at room temperat
 
 ## Sauce and Toppings
 
-**Sauce.** The simplest Neapolitan sauce is uncooked crushed San Marzano tomatoes with salt. That's it. The heat of the oven does the cooking. New York-style sauce is typically cooked briefly with garlic, oregano, and olive oil. The principle: let the tomatoes taste like tomatoes. Over-seasoned sauce overwhelms everything.
+**Sauce.** The simplest Neapolitan sauce is uncooked crushed San Marzano tomatoes with salt. That's it. The heat of the oven does the [cooking](/cooking). New York-style sauce is typically cooked briefly with garlic, oregano, and olive oil. The principle: let the tomatoes taste like tomatoes. Over-seasoned sauce overwhelms everything.
 
 **Cheese.** Fresh mozzarella (fior di latte or mozzarella di bufala) for Neapolitan. Low-moisture mozzarella for New York and most American styles — it melts evenly, browns nicely, and doesn't release as much water. Provolone, fontina, pecorino, ricotta, and Parmesan all have their places.
 
@@ -83,6 +83,6 @@ You don't need a wood-fired oven. You need patience and heat.
 
 Use a pizza steel or stone, preheated for at least 45-60 minutes at your oven's maximum temperature (usually 500-550°F). The steel or stone stores heat and transfers it rapidly to the dough bottom, mimicking the hot floor of a professional oven. A cast iron skillet works too — preheat it inverted on the oven rack.
 
-Stretch the dough by hand. Gravity and gentle pulling from the edges. Never use a rolling pin — it crushes the air bubbles that fermentation created. If the dough springs back, let it rest for 10 minutes and try again. Gluten relaxes with time.
+Stretch the dough by hand. Gravity and gentle pulling from the edges. Never use a rolling pin — it crushes the air bubbles that fermentation created. If the dough [springs](/springs) back, let it rest for 10 minutes and try again. Gluten relaxes with time.
 
 And make the dough the day before. That 24 hours in the refrigerator is the single step that will improve your pizza more than any equipment purchase ever could.

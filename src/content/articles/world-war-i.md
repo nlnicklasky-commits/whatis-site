@@ -5,7 +5,7 @@ description: "World War I (1914-1918) was a global conflict that killed 20 milli
 category: history
 tags: ["wwi", "great war", "european history", "military history"]
 heroImage: "/images/articles/world-war-i.webp"
-heroAlt: "A black and white photograph of soldiers in a muddy trench during World War I"
+heroAlt: "Editorial photograph representing the concept of world war i"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -75,17 +75,17 @@ The psychological toll was devastating. "Shell shock" — what we now call PTSD 
 
 **Verdun (February-December 1916):** Germany targeted the French fortress city of Verdun, not to capture it but to "bleed France white" through attrition. The 10-month battle produced approximately 700,000 casualties (roughly split between both sides) and achieved nothing strategically. The French rallying cry — "*Ils ne passeront pas*" ("They shall not pass") — became a symbol of desperate resistance.
 
-**The Somme (July-November 1916):** Britain launched this offensive partly to relieve pressure on Verdun. On the first day — July 1, 1916 — the British suffered 57,470 casualties, including 19,240 killed. It remains the bloodiest single day in British military history. The battle ground on for five months, producing over 1 million total casualties for a territorial gain of about six miles.
+**The Somme (July-November 1916):** Britain launched this offensive partly to relieve pressure on Verdun. On the first day — July 1, 1916 — the British suffered 57,470 casualties, including 19,240 killed. It remains the bloodiest single day in British [military history](/military-history). The battle ground on for five months, producing over 1 million total casualties for a territorial gain of about six miles.
 
 **Passchendaele (July-November 1917):** Fought in Belgium, this battle is remembered for its mud. Heavy rain turned the battlefield into a swamp that literally swallowed men, horses, and equipment. Approximately 475,000 casualties for five miles of gained ground.
 
 ## The Eastern Front
 
-The Eastern Front was more mobile than the West but equally brutal. Russia's massive army could field millions of soldiers but suffered from poor equipment, incompetent leadership, and a crumbling supply system.
+The Eastern Front was more mobile than the West but equally brutal. Russia's massive army could field millions of soldiers but suffered from poor equipment, incompetent [leadership](/leadership), and a crumbling supply system.
 
 Germany and Austria-Hungary won significant victories — the Battle of Tannenberg in August 1914 destroyed two Russian armies — but the sheer size of the front (over 1,000 miles) prevented a decisive knockout. The Brusilov Offensive in 1916, Russia's most successful operation, broke the Austrian line and inflicted 1.6 million casualties on the Central Powers but ultimately couldn't be sustained.
 
-By 1917, the Russian military was falling apart. Soldiers deserted en masse. The February Revolution of 1917 overthrew the Tsar, and the October Revolution brought the Bolsheviks to power. Lenin's new government signed the Treaty of Brest-Litovsk in March 1918, surrendering huge amounts of territory to end Russia's involvement in the war.
+By 1917, the Russian military was falling apart. Soldiers deserted en masse. The February Revolution of 1917 overthrew the Tsar, and the October Revolution brought the Bolsheviks to power. Lenin's new [government](/government) signed the Treaty of Brest-Litovsk in March 1918, surrendering huge amounts of territory to end Russia's involvement in the war.
 
 ## New Technology, New Horrors
 
@@ -123,4 +123,4 @@ The League of Nations, President Wilson's dream of collective security, was esta
 
 World War I destroyed the 19th-century order — the world of empires, aristocratic privilege, and faith in inevitable progress — and replaced it with something harder and more uncertain. The borders it drew in the Middle East (the Sykes-Picot Agreement) still shape conflicts today. The political instability it created in Germany and Russia led directly to Nazism and Stalinism.
 
-The war also changed culture permanently. The literature, art, and poetry that emerged — Wilfred Owen, Siegfried Sassoon, Erich Maria Remarque's *All Quiet on the Western Front* — expressed a disillusionment that hadn't existed in Western culture before 1914. The belief that war was glorious, that sacrifice was noble, that leaders could be trusted — all of this died in the mud of the Western Front.
+The war also changed culture permanently. The [literature](/literature), art, and [poetry](/poetry) that emerged — Wilfred Owen, Siegfried Sassoon, Erich Maria Remarque's *All Quiet on the Western Front* — expressed a disillusionment that hadn't existed in Western culture before 1914. The belief that war was glorious, that sacrifice was noble, that leaders could be trusted — all of this died in the mud of the Western Front.

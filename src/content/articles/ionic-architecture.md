@@ -5,7 +5,7 @@ description: "The Ionic order is a style of classical Greek architecture known f
 category: arts-amp-culture
 tags: ["ionic architecture", "classical orders", "greek architecture", "roman architecture", "volutes", "columns"]
 heroImage: "/images/articles/ionic-architecture.webp"
-heroAlt: "Close-up of an Ionic column capital showing detailed scroll-shaped volutes"
+heroAlt: "Editorial photograph representing the concept of ionic architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "A volute is the spiral scroll-shaped ornament that defines the Ionic capital — the decorated top section of the column. Ionic capitals typically have two volutes on the front and back, connected by a curved element called the bolster on the sides. The volute may have originated from the natural spiral of a nautilus shell or a ram's horn."
 ---
 
-# What Is Ionic Architecture?
+# What Is Ionic [Architecture](/architecture)?
 
 The Ionic order is one of three classical orders of ancient Greek architecture, distinguished by its scroll-shaped capitals (volutes), slender proportions, and refined decorative details. Developed in the eastern Greek world — Ionia, along the coast of modern Turkey — around the 6th century BCE, the Ionic order represented elegance and intellectual refinement, contrasting with the sturdy simplicity of the Doric order. Its influence on Western architecture is immense and ongoing.
 
@@ -39,7 +39,7 @@ Ancient Greek architects developed three standardized systems for designing colu
 
 **Doric** — the oldest and simplest. Thick columns with no base, plain capitals, and a frieze with alternating triglyphs (grooved panels) and metopes (sculpted or plain panels). The Parthenon is the most famous Doric building. The Greeks associated Doric with masculine strength.
 
-**Ionic** — more slender and decorative. Columns have molded bases, shaft fluting with flat edges (fillets), and the distinctive scroll-shaped volute capitals. The frieze is typically a continuous band of sculpture rather than the alternating panels of Doric. The Greeks associated Ionic with feminine grace.
+**Ionic** — more slender and decorative. Columns have molded bases, shaft fluting with flat edges (fillets), and the distinctive scroll-shaped volute capitals. The frieze is typically a continuous band of [sculpture](/sculpture) rather than the alternating panels of Doric. The Greeks associated Ionic with feminine grace.
 
 **Corinthian** — the most ornate. Capitals are decorated with carved acanthus leaves in a bell-shaped arrangement. It appeared later (mid-5th century BCE) and was used less by the Greeks than by the Romans, who loved its decorative richness.
 
@@ -49,7 +49,7 @@ The Romans added two more: **Tuscan** (plainer than Doric) and **Composite** (co
 
 **The column** is slender — roughly 9 diameters tall, compared to 6-7 for Doric. This creates a lighter, more elegant visual effect. The shaft has 24 flutes (shallow vertical grooves) separated by flat strips called fillets, giving a refined texture.
 
-**The capital** is what makes Ionic instantly recognizable. Two large volutes spiral outward from either side, framing a central channel. The volute's curves follow precise geometric construction — typically based on interconnected circle segments. Below the volutes, an egg-and-dart molding provides additional decoration.
+**The capital** is what makes Ionic instantly recognizable. Two large volutes spiral outward from either side, framing a central channel. The volute's curves follow precise geometric [construction](/construction) — typically based on interconnected circle segments. Below the volutes, an egg-and-dart molding provides additional decoration.
 
 **The base** (absent in Doric) consists of stacked circular moldings — typically a torus (convex ring), scotia (concave channel), and another torus. This gives the column a clear visual foundation.
 

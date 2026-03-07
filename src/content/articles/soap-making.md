@@ -5,7 +5,7 @@ description: "Soap making is the craft of creating soap from oils and lye throug
 category: everyday-concepts
 tags: ["soap making", "craft", "saponification", "handmade", "chemistry", "natural products"]
 heroImage: "/images/articles/soap-making.webp"
-heroAlt: "Handmade soap bars in various colors and textures arranged on a wooden surface with dried herbs"
+heroAlt: "Editorial photograph representing the concept of soap making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Soap Making?
 
-Soap making is the process of creating soap by combining fats or oils with an alkaline solution (lye) in a chemical reaction called saponification. The lye breaks down the fat molecules, which then reassemble as soap (a salt of fatty acids) and glycerin. Despite sounding intimidating — yes, lye is caustic — the chemistry is straightforward, and the craft has been practiced for at least 4,000 years.
+Soap making is the process of creating soap by combining fats or oils with an alkaline solution (lye) in a chemical reaction called saponification. The lye breaks down the fat molecules, which then reassemble as soap (a salt of fatty acids) and glycerin. Despite sounding intimidating — yes, lye is caustic — the [chemistry](/chemistry) is straightforward, and the craft has been practiced for at least 4,000 years.
 
 The modern handmade soap movement has boomed since the early 2000s, driven by interest in natural products, ingredient transparency, and the satisfaction of making something useful from basic materials. A bar of handmade soap costs about $1-2 in ingredients but sells for $5-8 at farmers' markets — making it both a satisfying hobby and a viable small business for many crafters.
 
@@ -55,7 +55,7 @@ Cold process is the traditional method and the one most serious soap makers pref
 
 **Step 3:** Pour the lye solution into the oils and blend with a stick blender until the mixture reaches "trace" — a pudding-like consistency where a drizzle on the surface leaves a visible trail.
 
-**Step 4:** Add fragrance, color, and any extras (oatmeal, honey, dried flowers). Pour into molds.
+**Step 4:** Add fragrance, color, and any extras (oatmeal, honey, [dried flowers](/dried-flowers)). Pour into molds.
 
 **Step 5:** Insulate the molds for 24-48 hours while saponification completes. Unmold, cut into bars, and cure for 4-6 weeks on a drying rack.
 
@@ -69,7 +69,7 @@ Lye (sodium hydroxide) is seriously caustic. It burns skin on contact and can ca
 
 **Never add water to lye** — always add lye to water, slowly. The reverse can cause a violent boiling reaction.
 
-**Keep vinegar nearby** (it neutralizes lye on skin) and have access to running water. If lye contacts skin, rinse immediately with water for at least 15 minutes.
+**Keep vinegar nearby** (it neutralizes lye on skin) and have access to [running](/running) water. If lye contacts skin, rinse immediately with water for at least 15 minutes.
 
 **Keep children and pets away** during the soap making process.
 

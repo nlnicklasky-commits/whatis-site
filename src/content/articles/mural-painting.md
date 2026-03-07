@@ -5,7 +5,7 @@ description: "Mural painting is the art of creating large-scale artwork directly
 category: arts-amp-culture
 tags: ["mural painting", "murals", "wall art", "fresco", "public art", "art history"]
 heroImage: "/images/articles/mural-painting.webp"
-heroAlt: "Artist on scaffolding painting a large colorful mural on the side of a building"
+heroAlt: "Editorial photograph representing the concept of mural painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,11 +29,11 @@ faq:
     a: "Professional muralists typically charge $15-$50 per square foot for exterior murals and $20-$75+ per square foot for interior work. A 10x20-foot exterior mural might cost $3,000-$10,000. Large-scale projects with complex designs, multiple stories, or difficult access can run $50,000-$500,000+. Community murals with volunteer participation cost less. Factors include design complexity, surface preparation, height, and the artist's reputation."
 ---
 
-# What Is Mural Painting?
+# What Is Mural [Painting](/painting)?
 
-Mural painting is the creation of artwork directly on walls, ceilings, or other large permanent surfaces. Unlike easel paintings that hang on walls, murals are part of the wall — they're painted onto the surface itself, or in some cases applied as panels integrated into the architecture. The word comes from the Latin *murus*, meaning wall.
+Mural painting is the creation of artwork directly on walls, ceilings, or other large permanent surfaces. Unlike easel paintings that hang on walls, murals are part of the wall — they're painted onto the surface itself, or in some cases applied as panels integrated into the [architecture](/architecture). The word comes from the Latin *murus*, meaning wall.
 
-Humans have been painting on walls since before recorded history. The cave paintings at Lascaux (roughly 17,000 years old) and Altamira (36,000 years old) are, in the simplest sense, murals. The tradition has never stopped. From ancient Egyptian tombs to Renaissance churches to the sides of buildings in any modern city, wall painting is one of the oldest and most persistent forms of artistic expression.
+Humans have been painting on walls since before recorded history. The cave paintings at Lascaux (roughly 17,000 years old) and Altamira (36,000 years old) are, in the simplest sense, murals. The tradition has never stopped. From ancient Egyptian tombs to Renaissance churches to the sides of buildings in any modern city, [wall painting](/wall-painting) is one of the oldest and most persistent forms of artistic expression.
 
 ## Techniques
 
@@ -49,9 +49,9 @@ Humans have been painting on walls since before recorded history. The cave paint
 
 ## The Mexican Muralist Movement
 
-No discussion of mural painting is complete without the Mexican muralists — Diego Rivera, David Alfaro Siqueiros, and Jose Clemente Orozco. In the 1920s-30s, these artists transformed public walls into political statements, creating massive murals depicting Mexican history, social inequality, and revolutionary ideals.
+No discussion of mural painting is complete without the Mexican muralists — Diego Rivera, David Alfaro Siqueiros, and Jose Clemente Orozco. In the 1920s-30s, these artists transformed public walls into political statements, creating massive murals depicting [Mexican history](/mexican-history), social inequality, and revolutionary ideals.
 
-Rivera's murals at the National Palace in Mexico City cover thousands of square feet and tell the entire history of Mexico from pre-Columbian civilizations to the post-revolutionary era. His 1933 commission for Rockefeller Center in New York was famously destroyed because it included a portrait of Lenin — a moment that crystallized the tension between art, politics, and patronage.
+Rivera's murals at the National Palace in Mexico City cover thousands of square feet and tell the entire history of Mexico from pre-Columbian civilizations to the post-revolutionary era. His 1933 commission for Rockefeller Center in New York was famously destroyed because it included a portrait of Lenin — a moment that crystallized the tension between art, [politics](/politics), and patronage.
 
 Siqueiros pushed technical boundaries, using industrial paints, spray guns, and new materials. Orozco's work at Dartmouth College and the Hospicio Cabanas in Guadalajara ranks among the most powerful political art of the 20th century.
 
@@ -59,9 +59,9 @@ The Mexican muralists proved that wall painting could be a vehicle for social ch
 
 ## Renaissance Masterworks
 
-The Italian Renaissance produced the most celebrated murals in Western art. Giotto's frescoes in the Scrovegni Chapel in Padua (1305) broke from Byzantine flatness, introducing naturalistic human figures and emotional depth. Masaccio's frescoes in the Brancacci Chapel (1425-27) demonstrated perspective and three-dimensional form.
+The Italian Renaissance produced the most celebrated murals in [Western art](/western-art). Giotto's frescoes in the Scrovegni Chapel in Padua (1305) broke from Byzantine flatness, introducing naturalistic human figures and emotional depth. Masaccio's frescoes in the Brancacci Chapel (1425-27) demonstrated perspective and three-dimensional form.
 
-Then came Michelangelo. The Sistine Chapel ceiling (1508-1512) — 5,800 square feet of fresco painted while lying on scaffolding — remains the standard against which all murals are measured. He returned 25 years later to paint *The Last Judgment* on the altar wall, a darker, more turbulent work that shocked Rome.
+Then came Michelangelo. The Sistine Chapel ceiling (1508-1512) — 5,800 square feet of fresco painted while lying on [scaffolding](/scaffolding) — remains the standard against which all murals are measured. He returned 25 years later to paint *The Last Judgment* on the altar wall, a darker, more turbulent work that shocked Rome.
 
 Raphael's *School of Athens* (1509-1511) in the Vatican's Stanza della Segnatura gathers the great philosophers of antiquity in an idealized architectural space. It's a masterclass in composition, perspective, and figure painting — all executed in buon fresco.
 

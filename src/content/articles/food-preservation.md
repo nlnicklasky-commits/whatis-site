@@ -5,7 +5,7 @@ description: "Food preservation extends the shelf life of food through technique
 category: everyday-concepts
 tags: ["food science", "food safety", "preservation", "shelf life", "canning", "freezing"]
 heroImage: "/images/articles/food-preservation.webp"
-heroAlt: "Mason jars filled with preserved fruits and vegetables on wooden shelves"
+heroAlt: "Editorial photograph representing the concept of food preservation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -55,7 +55,7 @@ Nicolas Appert figured out that sealing food in containers and heating it would 
 
 ### Freezing
 
-Freezing slows microbial growth to near zero and dramatically slows enzymatic and chemical reactions. At 0 degrees F (-18 degrees C), food is effectively in suspended animation.
+Freezing slows microbial growth to near zero and dramatically slows enzymatic and chemical reactions. At 0 degrees F (-18 degrees C), food is effectively in suspended [animation](/animation).
 
 The key to quality is freezing speed. Slow freezing creates large ice crystals that rupture cell walls, producing mushy textures when thawed. Flash freezing (used industrially) creates tiny ice crystals that minimize cell damage. Home freezers freeze slowly, which is why commercially frozen vegetables often have better texture than home-frozen ones.
 
@@ -63,9 +63,9 @@ The key to quality is freezing speed. Slow freezing creates large ice crystals t
 
 Removing moisture inhibits microbial growth — most bacteria need at least 20% moisture to survive. Sun drying, air drying, oven drying, and electric dehydrators all accomplish this.
 
-Jerky, dried fruits, pasta, herbs, and grains are all preserved through moisture removal. Freeze-drying (lyophilization) is the premium method — freezing food, then sublimating the ice directly to vapor under vacuum. It preserves texture, flavor, and nutrients better than heat drying, but it's expensive. Backpacking meals and astronaut food use this method.
+Jerky, dried fruits, pasta, herbs, and grains are all preserved through moisture removal. Freeze-drying (lyophilization) is the premium method — freezing food, then sublimating the ice directly to vapor under vacuum. It preserves texture, flavor, and nutrients better than heat drying, but it's expensive. [Backpacking](/backpacking) meals and astronaut food use this method.
 
-### Fermentation
+### [Fermentation](/fermentation)
 
 Fermentation uses controlled microbial activity to preserve food. Specific "friendly" bacteria or yeasts are encouraged while harmful ones are suppressed.
 
@@ -73,7 +73,7 @@ Fermentation uses controlled microbial activity to preserve food. Specific "frie
 
 **Alcoholic fermentation** (yeast converting sugar to alcohol) preserves wine, beer, and cider. **Acetic acid fermentation** (bacteria converting alcohol to vinegar) produces vinegar, which is itself a preservative.
 
-Fermented foods have experienced a massive popularity surge since the 2010s, driven by interest in gut health and probiotics. Research connecting gut microbiome health to immune function, mental health, and metabolic diseases has boosted demand for fermented products.
+Fermented foods have experienced a massive popularity surge since the 2010s, driven by interest in gut health and probiotics. Research connecting gut microbiome health to immune function, [mental health](/mental-health), and metabolic diseases has boosted demand for fermented products.
 
 ### Salt Curing and Smoking
 
@@ -93,4 +93,4 @@ But here's the safety warning: home preservation done wrong can be dangerous. Im
 
 ## Why It Matters
 
-Food preservation underlies modern civilization in ways we rarely think about. Without it, cities couldn't exist — you can't feed millions of people without stored, shipped, preserved food. Without it, seasonal surpluses would rot while people starved months later. The ability to store food is as foundational to human society as agriculture itself.
+Food preservation underlies modern civilization in ways we rarely think about. Without it, cities couldn't exist — you can't feed millions of people without stored, shipped, preserved food. Without it, seasonal surpluses would rot while people starved months later. The ability to store food is as foundational to human society as [agriculture](/agriculture) itself.

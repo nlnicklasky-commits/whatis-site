@@ -5,7 +5,7 @@ description: "Carbohydrate chemistry studies the structure, synthesis, and react
 category: science
 tags: ["carbohydrate chemistry", "organic chemistry", "biochemistry", "sugars", "glucose", "polysaccharides", "monosaccharides"]
 heroImage: "/images/articles/carbohydrate-chemistry-hero.webp"
-heroAlt: "3D molecular model of a glucose molecule showing carbon, hydrogen, and oxygen atoms"
+heroAlt: "Editorial photograph representing the concept of carbohydrate chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Carbohydrate Chemistry?
 
-Carbohydrate chemistry is the branch of organic chemistry and biochemistry that studies the structure, properties, synthesis, and reactions of carbohydrates — a class of molecules composed of carbon, hydrogen, and oxygen that includes sugars, starches, cellulose, and glycans. These molecules are the most abundant organic compounds on Earth and serve as the primary energy source for most living organisms.
+Carbohydrate chemistry is the branch of [organic chemistry](/organic-chemistry) and [biochemistry](/biochemistry) that studies the structure, properties, synthesis, and reactions of carbohydrates — a class of molecules composed of carbon, hydrogen, and oxygen that includes sugars, starches, cellulose, and glycans. These molecules are the most abundant organic compounds on Earth and serve as the primary energy source for most living organisms.
 
 ## Why Carbohydrates Matter More Than You Think
 
@@ -69,7 +69,7 @@ Carbohydrate chemistry gets complicated fast because of stereochemistry — the 
 
 D-glucose is the biologically important form. L-glucose, its mirror image, tastes sweet but your body can't metabolize it — enzymes are stereospecific, meaning they only work on one mirror form. A few companies have actually explored L-sugars as zero-calorie sweeteners.
 
-Emil Fischer worked out the stereochemistry of sugars in the 1890s and won the Nobel Prize in 1902 for it. He developed Fischer projections — a way to draw three-dimensional sugar molecules on a flat page — that chemistry students still use today. It was a tour de force of logical deduction, performed before X-ray crystallography or any way to directly see molecular structures.
+Emil Fischer worked out the stereochemistry of sugars in the 1890s and won the Nobel Prize in 1902 for it. He developed Fischer projections — a way to draw three-dimensional sugar molecules on a flat page — that chemistry students still use today. It was a tour de force of logical deduction, performed before [X-ray crystallography](/x-ray-crystallography) or any way to directly see molecular structures.
 
 ### Ring Forms — Sugars Aren't Straight Chains
 
@@ -105,7 +105,7 @@ Amylose forms helical structures that can trap iodine molecules — that's why i
 
 Cotton fiber is about 90% cellulose. A cotton T-shirt is basically a woven mat of glucose chains. Paper manufacturing is largely about separating cellulose fibers from wood and rearranging them into sheets.
 
-**Chitin** is the structural polysaccharide in arthropod exoskeletons (insects, crustaceans) and fungal cell walls. It's similar to cellulose but with an acetylamine group replacing one hydroxyl. The second most abundant natural polysaccharide after cellulose, chitin is being researched for wound healing, water purification, and biodegradable packaging.
+**Chitin** is the structural polysaccharide in arthropod exoskeletons (insects, crustaceans) and fungal cell walls. It's similar to cellulose but with an acetylamine group replacing one hydroxyl. The second most abundant natural polysaccharide after cellulose, chitin is being researched for wound healing, [water purification](/water-purification), and biodegradable packaging.
 
 ## Reactions That Matter
 
@@ -127,7 +127,7 @@ The specific sugars involved change the outcome. Reducing sugars (glucose, fruct
 
 Heat pure sugar above 170°C and it begins to decompose and recombine through a series of complex reactions called caramelization. Unlike the Maillard reaction, this doesn't require amino acids — just sugar and heat. Different sugars caramelize at different temperatures, producing different flavors and colors.
 
-### Fermentation
+### [Fermentation](/fermentation)
 
 Yeast converts glucose and fructose into ethanol and carbon dioxide through fermentation. This is the basis of all brewing, winemaking, and bread leavening. The biochemistry involves the glycolysis pathway — a series of ten enzyme-catalyzed reactions that break glucose into pyruvate, which is then converted to ethanol and CO₂.
 
@@ -187,7 +187,7 @@ High-fructose corn syrup production — converting corn starch to glucose with a
 
 ### Glycomics
 
-If genomics studies genes and proteomics studies proteins, glycomics studies glycans. It's arguably the most complex "-omics" field because glycan structures aren't directly encoded in DNA. They're built by enzymes, and the same protein can carry different glycans depending on cell type, health status, and environmental conditions.
+If genomics studies genes and [proteomics](/proteomics) studies proteins, glycomics studies glycans. It's arguably the most complex "-omics" field because glycan structures aren't directly encoded in DNA. They're built by enzymes, and the same protein can carry different glycans depending on cell type, health status, and environmental conditions.
 
 Cancer cells often display abnormal glycan patterns. Detecting these changes could enable earlier cancer diagnosis. Several glycan-based biomarkers are in clinical trials.
 
@@ -201,4 +201,4 @@ How did the first carbohydrates form on early Earth before life existed? The for
 
 ## The Bottom Line
 
-Carbohydrate chemistry sits at the intersection of organic chemistry, biochemistry, materials science, and medicine. These molecules — from the simplest glucose unit to the most complex glycan — are fundamental to life, industry, and technology. The next time someone dismisses carbohydrates as just bread and pasta, you'll know better. You'll know that cellulose builds the forests, glycans coat your cells, fermentation produces your beer, and glucose powers your brain. Not bad for a molecule that's just carbon, hydrogen, and oxygen arranged the right way.
+Carbohydrate chemistry sits at the intersection of organic chemistry, biochemistry, [materials science](/materials-science), and medicine. These molecules — from the simplest glucose unit to the most complex glycan — are fundamental to life, industry, and technology. The next time someone dismisses carbohydrates as just bread and pasta, you'll know better. You'll know that cellulose builds the forests, glycans coat your cells, fermentation produces your beer, and glucose powers your brain. Not bad for a molecule that's just carbon, hydrogen, and oxygen arranged the right way.

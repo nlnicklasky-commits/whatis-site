@@ -5,7 +5,7 @@ description: "Aerospace engineering designs aircraft and spacecraft. Learn how a
 category: technology
 tags: ["aerospace engineering", "engineering", "aviation", "spacecraft", "aeronautics", "astronautics", "rockets"]
 heroImage: "/images/articles/aerospace-engineering-hero.webp"
-heroAlt: "Rocket launching into a clear sky representing aerospace engineering"
+heroAlt: "Editorial photograph representing the concept of aerospace engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -151,7 +151,7 @@ Flight testing is where designs meet reality. Test pilots and flight test engine
 
 ### Systems Integration
 
-Modern aerospace vehicles are enormously complex systems. A commercial airliner has millions of parts, hundreds of miles of wiring, and dozens of interconnected subsystems — hydraulics, avionics, environmental control, fuel, electrical power, and more. Making all of these work together reliably is systems engineering, and it's one of the most challenging aspects of the field.
+Modern aerospace vehicles are enormously complex systems. A commercial airliner has millions of parts, hundreds of miles of wiring, and dozens of interconnected subsystems — hydraulics, avionics, environmental control, fuel, electrical power, and more. Making all of these work together reliably is [systems engineering](/systems-engineering), and it's one of the most challenging aspects of the field.
 
 The James Webb Space Telescope is a perfect example. It involved over 300 single-point failures — any one of which could have ended the $10 billion mission. Every component had to work, in sequence, with no opportunity for repair. That kind of integration work requires extraordinary attention to detail and rigorous testing protocols.
 
@@ -177,7 +177,7 @@ NASA employs about 18,000 civil servants, with additional tens of thousands of c
 
 ### Adjacent Industries
 
-Aerospace skills transfer remarkably well. Automotive companies hire aerospace engineers for [aerodynamics](/aerodynamics) work. Energy companies want them for wind turbine design. Tech companies recruit them for drone development and autonomous systems. Finance firms even hire them for quantitative analysis — the math skills translate directly.
+Aerospace skills transfer remarkably well. Automotive companies hire aerospace engineers for [aerodynamics](/aerodynamics) work. Energy companies want them for wind turbine design. Tech companies recruit them for drone development and autonomous systems. Finance firms even hire them for [quantitative analysis](/quantitative-analysis) — the math skills translate directly.
 
 ## The Role of Software and AI
 
@@ -219,7 +219,7 @@ If you're considering this field, here's the practical reality.
 
 ### Education
 
-A bachelor's degree in aerospace engineering is the standard entry point. Strong programs exist at schools like MIT, Georgia Tech, Purdue, the University of Michigan, Stanford, Caltech, and many others worldwide. The curriculum is math-intensive: [calculus](/calculus), differential equations, linear algebra, numerical methods, and statistics form the foundation. On top of that, you'll study [aerodynamics](/aerodynamics), propulsion, structures, control systems, and orbital mechanics.
+A bachelor's degree in aerospace engineering is the standard entry point. Strong programs exist at schools like MIT, Georgia Tech, Purdue, the University of Michigan, Stanford, Caltech, and many others worldwide. The curriculum is math-intensive: [calculus](/calculus), [differential equations](/differential-equations), linear algebra, numerical methods, and statistics form the foundation. On top of that, you'll study [aerodynamics](/aerodynamics), propulsion, structures, control systems, and orbital mechanics.
 
 A master's degree opens doors to more specialized roles and research positions. A PhD is typically needed for academic research or very specialized R&D positions. Many engineers pursue graduate degrees part-time while working — defense contractors and NASA often provide tuition assistance.
 

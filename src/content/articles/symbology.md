@@ -5,7 +5,7 @@ description: "Symbology is the study of symbols and their meanings across cultur
 category: arts-amp-culture
 tags: ["symbology", "symbols", "semiotics", "culture", "religion", "art history"]
 heroImage: "/images/articles/symbology.webp"
-heroAlt: "A collection of ancient and modern symbols carved in stone and printed on paper"
+heroAlt: "Editorial photograph representing the concept of symbology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Nations, ethnic groups, and communities create symbols of identity. National fla
 
 ### Literary and Artistic Symbols
 
-Art and literature are saturated with symbolic meaning. A skull represents mortality. A dove represents peace. Water represents purification or transformation. Artists use symbols to add depth and layers of meaning that reward closer examination.
+Art and [literature](/literature) are saturated with symbolic meaning. A skull represents mortality. A dove represents peace. Water represents purification or transformation. Artists use symbols to add depth and layers of meaning that reward closer examination.
 
 ### Modern Corporate Symbols
 
@@ -73,9 +73,9 @@ Logos are modern symbols, designed to condense a brand's identity into a single 
 
 ## Symbology as a Field
 
-Academic symbology draws from multiple disciplines: art history, religious studies, [anthropology](/linguistics), psychology, literary criticism, and semiotics (the broader study of signs and meaning). Carl Jung's work on archetypes — universal symbolic patterns he believed were embedded in the collective unconscious — has been particularly influential.
+Academic symbology draws from multiple disciplines: [art history](/art-history), religious studies, [anthropology](/linguistics), [psychology](/psychology), [literary criticism](/literary-criticism), and semiotics (the broader study of signs and meaning). Carl Jung's work on archetypes — universal symbolic patterns he believed were embedded in the collective unconscious — has been particularly influential.
 
-The study of symbols also has practical applications in branding, graphic design, user interface design, and cross-cultural communication. Understanding what symbols mean to different audiences prevents embarrassing (or offensive) mistakes.
+The study of symbols also has practical applications in branding, [graphic design](/graphic-design), user interface design, and cross-cultural communication. Understanding what symbols mean to different audiences prevents embarrassing (or offensive) mistakes.
 
 ## Why Symbols Persist
 

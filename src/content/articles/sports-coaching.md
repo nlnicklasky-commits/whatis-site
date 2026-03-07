@@ -5,7 +5,7 @@ description: "Sports coaching is the practice of guiding athletes to improve per
 category: sports
 tags: ["sports coaching", "athlete development", "training", "coaching philosophy", "mentorship", "youth sports"]
 heroImage: "/images/articles/sports-coaching.webp"
-heroAlt: "A coach on a field demonstrating technique to a group of athletes during a training session"
+heroAlt: "Editorial photograph representing the concept of sports coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,21 +31,21 @@ faq:
 
 # What Is Sports Coaching?
 
-Sports coaching is the practice of instructing, guiding, and mentoring athletes to improve their skills, physical conditioning, tactical understanding, and competitive performance. It sounds straightforward — teach people to play sports better. But anyone who's coached or been coached knows it's far more complicated than that. Coaching sits at the intersection of teaching, psychology, leadership, sports science, and human relationships, and the best coaches are skilled at all of them.
+Sports coaching is the practice of instructing, guiding, and mentoring athletes to improve their skills, physical conditioning, tactical understanding, and competitive performance. It sounds straightforward — teach people to play sports better. But anyone who's coached or been coached knows it's far more complicated than that. Coaching sits at the intersection of [teaching](/teaching), [psychology](/psychology), [leadership](/leadership), [sports science](/sports-science), and human relationships, and the best coaches are skilled at all of them.
 
-An estimated 8.5 million people coach sports in the United States alone, from volunteer parents running Saturday morning soccer to head coaches of professional franchises managing rosters worth hundreds of millions of dollars. The contexts differ wildly, but the core challenge is the same: help athletes get better.
+An estimated 8.5 million people coach sports in the United States alone, from volunteer parents [running](/running) Saturday morning [soccer](/soccer) to head coaches of professional franchises managing rosters worth hundreds of millions of dollars. The contexts differ wildly, but the core challenge is the same: help athletes get better.
 
 ## What Coaches Actually Do
 
-The job involves far more than drawing plays on a whiteboard.
+The job involves far more than [drawing](/drawing) plays on a whiteboard.
 
 **Practice design** is where coaching happens day to day. A well-designed practice maximizes skill development, physical conditioning, and tactical learning within limited time. The best coaches plan practice with the same rigor a teacher plans a lesson — clear objectives, progressive difficulty, immediate feedback, and purposeful repetition. A common estimate: 80% of a season's development happens in practice, not games.
 
-**Game-day management** is the visible part. In-game decisions — substitutions, tactical adjustments, play-calling, timeouts — get scrutinized by fans and media. But the reality is that game-day coaching matters less than most people think. By game time, the preparation is done. The team is either ready or it isn't. Good game-day coaching creates small edges; good practice coaching creates the foundation.
+**Game-day [management](/management)** is the visible part. In-game decisions — substitutions, tactical adjustments, play-calling, timeouts — get scrutinized by fans and media. But the reality is that game-day coaching matters less than most people think. By game time, the preparation is done. The team is either ready or it isn't. Good game-day coaching creates small edges; good practice coaching creates the foundation.
 
 **Player development** means identifying each athlete's strengths and weaknesses and designing training to maximize their potential. This requires individualization — what works for one player doesn't work for another. A coach might need to push one athlete harder and ease up on another, even in the same drill. Reading what each person needs and adjusting is one of the hardest coaching skills.
 
-**Recruiting and talent evaluation** dominate at the college and professional levels. College coaches spend enormous time identifying, evaluating, and persuading high school athletes to attend their school. Professional coaches participate in draft evaluation, free agent assessment, and roster construction. Getting the right players often matters more than coaching them brilliantly.
+**Recruiting and talent evaluation** dominate at the college and professional levels. College coaches spend enormous time identifying, evaluating, and persuading high school athletes to attend their school. Professional coaches participate in draft evaluation, free agent assessment, and roster [construction](/construction). Getting the right players often matters more than coaching them brilliantly.
 
 ## Coaching Philosophy
 

@@ -5,7 +5,7 @@ description: "Civil law is the body of law governing disputes between private pa
 category: everyday-concepts
 tags: ["civil law", "law", "legal system", "courts", "contracts", "justice"]
 heroImage: "/images/articles/civil-law.webp"
-heroAlt: "Gavel and scales of justice on a wooden desk in a courtroom setting"
+heroAlt: "Editorial photograph representing the concept of civil law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Civil law is the branch of law that governs disputes between private parties —
 
 Before going further, a clarification. "Civil law" means two different things depending on context, and the confusion trips up even law students.
 
-**Meaning 1: Private law.** The body of law governing relationships between private parties. Contract law, tort law, property law, family law. This is civil law as opposed to criminal law. Every legal system has this distinction.
+**Meaning 1: Private law.** The body of law governing relationships between private parties. [Contract law](/contract-law), [tort law](/tort-law), [property law](/property-law), [family law](/family-law). This is civil law as opposed to criminal law. Every legal system has this distinction.
 
-**Meaning 2: The civil law tradition.** A legal tradition based on thorough written codes, originating in Roman law and developed primarily in continental Europe. This is civil law as opposed to common law (the tradition developed in England, based on judicial precedent and case law). About 60% of the world's countries use the civil law tradition; about 30% use common law.
+**Meaning 2: The civil law tradition.** A legal tradition based on thorough written codes, originating in [Roman law](/roman-law) and developed primarily in continental Europe. This is civil law as opposed to common law (the tradition developed in England, based on judicial precedent and case law). About 60% of the world's countries use the civil law tradition; about 30% use common law.
 
 This article focuses primarily on the first meaning — civil law as the body of private law — while touching on the second where relevant.
 
@@ -49,7 +49,7 @@ This article focuses primarily on the first meaning — civil law as the body of
 
 When two parties make an agreement and one fails to honor it, contract law provides the framework for resolution. A valid contract requires offer, acceptance, consideration (something of value exchanged), and mutual assent. When these elements exist and one party breaches, the other can sue for damages (monetary compensation for losses) or specific performance (a court order to fulfill the contract).
 
-Contract disputes are the most common type of civil litigation. Business-to-business conflicts, employment disputes, real estate transactions gone wrong, consumer complaints, and construction disagreements all fall under contract law.
+Contract disputes are the most common type of civil litigation. Business-to-business conflicts, employment disputes, [real estate](/real-estate) transactions gone wrong, consumer complaints, and [construction](/construction) disagreements all fall under contract law.
 
 ### Tort Law
 
@@ -63,7 +63,7 @@ A tort is a civil wrong — an act or omission that causes harm to another perso
 
 ### Property Law
 
-Governs ownership, use, and transfer of real property (land and buildings) and personal property (everything else). Property disputes include boundary disagreements, landlord-tenant conflicts, easement disputes (rights to use another's property), zoning challenges, and eminent domain (government taking of private property for public use, with required compensation).
+Governs ownership, use, and transfer of real property (land and buildings) and personal property (everything else). Property disputes include boundary disagreements, landlord-tenant conflicts, easement disputes (rights to use another's property), zoning challenges, and eminent domain ([government](/government) taking of private property for public use, with required compensation).
 
 ### Family Law
 

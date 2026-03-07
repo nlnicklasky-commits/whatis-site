@@ -5,7 +5,7 @@ description: "Soil science studies the formation, classification, and properties
 category: science
 tags: ["soil science", "earth science", "agriculture", "ecology", "geology", "environmental science"]
 heroImage: "/images/articles/soil-science.webp"
-heroAlt: "Soil profile showing distinct horizons from dark topsoil through lighter subsoil to bedrock"
+heroAlt: "Editorial photograph representing the concept of soil science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -176,7 +176,7 @@ Irrigation in arid regions often leads to salt accumulation in the soil. Water e
 
 ### Compaction
 
-Heavy machinery on agricultural fields and construction sites compresses soil, destroying the pore structure that water and roots need. Compacted soil has reduced infiltration (increasing runoff and erosion), restricted root growth, and decreased biological activity.
+Heavy machinery on agricultural fields and [construction](/construction) sites compresses soil, destroying the pore structure that water and roots need. Compacted soil has reduced infiltration (increasing runoff and erosion), restricted root growth, and decreased biological activity.
 
 ### Contamination
 
@@ -184,7 +184,7 @@ Industrial chemicals, heavy metals, pesticides, and petroleum products contamina
 
 ### Sealing
 
-Urban development covers soil with impermeable surfaces — buildings, roads, parking lots. Sealed soil can't grow food, infiltrate water, or support ecosystems. Europe loses an estimated 1,000 square kilometers of soil to sealing every year.
+[Urban development](/urban-development) covers soil with impermeable surfaces — buildings, roads, parking lots. Sealed soil can't grow food, infiltrate water, or support ecosystems. Europe loses an estimated 1,000 square kilometers of soil to sealing every year.
 
 ## Soil and Climate: The Carbon Connection
 

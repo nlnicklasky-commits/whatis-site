@@ -5,7 +5,7 @@ description: "Coastal geography studies the landforms, processes, and ecosystems
 category: science
 tags: ["coastal geography", "geography", "coastlines", "oceans", "erosion", "landforms", "environmental science"]
 heroImage: "/images/articles/coastal-geography-hero.webp"
-heroAlt: "Dramatic coastal cliffs meeting turquoise ocean water with waves breaking on shore"
+heroAlt: "Editorial photograph representing the concept of coastal geography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
     a: "Yes, but with tradeoffs. Hard engineering (seawalls, groynes, breakwaters) can protect specific locations but often worsen erosion elsewhere by interrupting natural sediment flow. Soft engineering (beach nourishment, dune restoration, managed retreat) works with natural processes but requires ongoing investment. The most effective approaches typically combine both methods with long-term planning."
 ---
 
-# What Is Coastal Geography?
+# What Is Coastal [Geography](/geography)?
 
 Coastal geography is the study of the active zone where land meets the ocean—examining the physical processes, landforms, ecosystems, and human interactions that shape coastlines around the world. Coastlines cover approximately 1.6 million kilometers globally and are among the most geologically active and ecologically productive environments on Earth. With roughly 40% of the world's population living within 100 kilometers of a coast, and with sea levels rising due to climate change, understanding how coastlines form, change, and respond to human activity has become critically important.
 
@@ -131,19 +131,19 @@ Coastlines support some of Earth's most ecologically important and productive ec
 
 Coral reefs occupy less than 0.1% of the ocean floor but support approximately 25% of all marine species. They're built by colonies of tiny animals (coral polyps) that secrete calcium carbonate skeletons over thousands of years. The Great Barrier Reef, extending 2,300 km along Australia's northeast coast, is the largest biological structure on Earth.
 
-Coral reefs are extremely sensitive to temperature. When water temperatures exceed the coral's tolerance (even 1-2 degrees Celsius above normal for extended periods), corals expel the symbiotic algae that give them color and provide most of their nutrition—a process called bleaching. If temperatures don't return to normal quickly, the coral dies. Mass bleaching events have become dramatically more frequent as ocean temperatures rise, with 2023 and 2024 seeing the most widespread bleaching ever recorded.
+Coral reefs are extremely sensitive to temperature. When water temperatures exceed the coral's tolerance (even 1-2 degrees Celsius above normal for extended periods), corals expel the symbiotic algae that give them color and provide most of their [nutrition](/nutrition)—a process called bleaching. If temperatures don't return to normal quickly, the coral dies. Mass bleaching events have become dramatically more frequent as ocean temperatures rise, with 2023 and 2024 seeing the most widespread bleaching ever recorded.
 
 ### Mangroves
 
-Mangrove forests grow in tropical and subtropical coastal areas, tolerating salt water and tidal flooding. Their tangled root systems trap sediment, build land, protect coastlines from storm surges, and provide nursery habitat for fish and shellfish. Despite these benefits, roughly 35% of the world's mangroves have been lost since the 1980s—cleared for aquaculture, coastal development, and timber.
+Mangrove forests grow in tropical and subtropical coastal areas, tolerating salt water and tidal flooding. Their tangled root systems trap sediment, build land, protect coastlines from storm surges, and provide nursery habitat for fish and shellfish. Despite these benefits, roughly 35% of the world's mangroves have been lost since the 1980s—cleared for [aquaculture](/aquaculture), coastal development, and timber.
 
 ### Salt Marshes
 
 Salt marshes occupy sheltered coastal areas in temperate regions—estuaries, lagoons, and behind barrier islands. They're extraordinarily productive ecosystems that filter pollutants, absorb flood energy, store carbon, and provide habitat for birds, fish, and invertebrates. Salt marshes store carbon at rates 10-50 times higher than tropical forests on an area basis, making them important [climatology](/climatology) considerations.
 
-## Coastal Management: The Human Response
+## Coastal [Management](/management): The Human Response
 
-With billions of people living near coastlines and trillions of dollars of infrastructure at risk, managing coastal change is a major engineering and policy challenge.
+With billions of people living near coastlines and trillions of dollars of infrastructure at risk, managing coastal change is a major [engineering](/engineering) and policy challenge.
 
 ### Hard Engineering
 
@@ -161,9 +161,9 @@ Hard engineering works—seawalls do protect what's behind them. But it's expens
 
 Newer approaches work with natural processes rather than against them.
 
-**Beach nourishment** involves pumping or trucking sand onto eroding beaches. It maintains beach width, protects property, and supports recreation and tourism. But the nourished sand erodes too—typically requiring replenishment every 5-10 years. Miami Beach has been nourished multiple times since 1975.
+**Beach nourishment** involves pumping or trucking sand onto eroding beaches. It maintains beach width, protects property, and supports recreation and [tourism](/tourism). But the nourished sand erodes too—typically requiring replenishment every 5-10 years. Miami Beach has been nourished multiple times since 1975.
 
-**Dune restoration** rebuilds and vegetates coastal sand dunes that act as natural buffers against storms. Healthy dune systems absorb wave energy, reduce flooding, and provide habitat. Planting native dune grasses and installing sand fencing encourages natural dune growth.
+**Dune restoration** rebuilds and vegetates coastal sand dunes that act as natural buffers against storms. Healthy dune systems absorb wave energy, reduce flooding, and provide habitat. Planting native dune grasses and installing sand [fencing](/fencing) encourages natural dune growth.
 
 **Managed retreat** acknowledges that some coastlines can't be defended economically and allows the coast to erode naturally—relocating buildings, roads, and infrastructure inland. This is politically difficult (people don't want to move) but increasingly necessary as sea levels rise and storm intensity increases.
 

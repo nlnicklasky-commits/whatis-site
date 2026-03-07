@@ -5,7 +5,7 @@ description: "Tax law is the body of legal rules governing how governments impos
 category: finance
 tags: ["tax law", "taxation", "income tax", "sales tax", "property tax", "tax deductions", "tax credits", "tax evasion"]
 heroImage: "/images/articles/tax-law.webp"
-heroAlt: "A scale of justice beside a stack of financial documents and a calculator, representing the intersection of law and taxation"
+heroAlt: "Editorial photograph representing the concept of tax law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,9 +41,9 @@ If taxes are the price of civilization — as Oliver Wendell Holmes famously put
 
 ## The Purpose of Tax Law
 
-Governments need money to function. Roads, schools, military, courts, public health systems — none of it is free. Taxes are the primary mechanism by which governments fund these activities, and tax law provides the legal framework for that process.
+Governments need money to function. Roads, schools, military, courts, [public health](/public-health) systems — none of it is free. Taxes are the primary mechanism by which governments fund these activities, and tax law provides the legal framework for that process.
 
-But tax law does far more than just fill government coffers. It serves at least four distinct purposes:
+But tax law does far more than just fill [government](/government) coffers. It serves at least four distinct purposes:
 
 **Revenue generation** — the obvious one. The U.S. federal government collected approximately $4.4 trillion in tax revenue in fiscal year 2023. State and local governments collected trillions more.
 
@@ -61,7 +61,7 @@ Tax law covers a surprisingly wide range of levies. Here are the major categorie
 
 This is the one most people know. Income tax is levied on money you earn — wages, salaries, investment returns, business profits. In the U.S., the federal income tax system is progressive, with 2024 rates ranging from 10% to 37% across seven brackets.
 
-Here's something many people get wrong: tax brackets are marginal, not flat. If you're in the 24% bracket, that doesn't mean all your income is taxed at 24%. Only the income within that bracket's range gets the 24% rate. The income below it is taxed at lower rates. This distinction matters enormously and is one of the most common misconceptions in personal finance.
+Here's something many people get wrong: tax brackets are marginal, not flat. If you're in the 24% bracket, that doesn't mean all your income is taxed at 24%. Only the income within that bracket's range gets the 24% rate. The income below it is taxed at lower rates. This distinction matters enormously and is one of the most common misconceptions in [personal finance](/personal-finance).
 
 Most U.S. states also impose their own income taxes, with rates and structures varying wildly. States like California and New York have top rates above 10%. States like Texas, Florida, and Washington have no state income tax at all.
 
@@ -73,7 +73,7 @@ Internationally, many countries use a Value-Added Tax (VAT) instead. VAT is coll
 
 ### Property Tax
 
-Property tax is levied on real estate (and sometimes personal property like vehicles) based on assessed value. It's the primary funding source for local governments, school districts, and fire departments across the United States. If you own a home, you're familiar with this one — and you probably have opinions about it.
+Property tax is levied on [real estate](/real-estate) (and sometimes personal property like vehicles) based on assessed value. It's the primary funding source for local governments, school districts, and fire departments across the United States. If you own a home, you're familiar with this one — and you probably have opinions about it.
 
 Property tax rates vary dramatically by location. New Jersey has effective rates averaging over 2.2% of property value. Hawaii averages under 0.3%. The difference on a $400,000 home is roughly $7,600 per year — which is why property taxes significantly affect where people choose to live.
 
@@ -115,7 +115,7 @@ You choose between taking a flat standard deduction ($14,600 for single filers i
 
 ## How Tax Law Is Made
 
-In the United States, tax legislation must originate in the House of Representatives (per Article I, Section 7 of the Constitution). The House Ways and Means Committee and the Senate Finance Committee are the key bodies that draft tax legislation. The Joint Committee on Taxation provides technical analysis.
+In the United States, tax legislation must originate in the House of Representatives (per Article I, Section 7 of the Constitution). The House Ways and Means Committee and the Senate Finance Committee are the key bodies that draft tax legislation. The Joint Committee on Taxation provides [technical analysis](/technical-analysis).
 
 Once Congress passes a tax bill and the President signs it, the Internal Revenue Service (IRS) writes regulations implementing the law. These regulations fill in details that the statute leaves vague or ambiguous. Courts — particularly the U.S. Tax Court — resolve disputes about interpretation.
 
@@ -175,7 +175,7 @@ Tax law never stands still. Current debates center on:
 
 **Wealth taxes** — proposals to tax unrealized capital gains or net worth directly have gained political attention but face both constitutional questions and practical enforcement challenges.
 
-**AI and enforcement** — the IRS is investing in artificial intelligence and [data analysis](/data-analysis) tools to identify non-compliance patterns, particularly among high-income taxpayers and large corporations. The Inflation Reduction Act of 2022 allocated approximately $80 billion in additional IRS funding over 10 years, with a significant portion directed toward enforcement.
+**AI and enforcement** — the IRS is investing in [artificial intelligence](/artificial-intelligence) and [data analysis](/data-analysis) tools to identify non-compliance patterns, particularly among high-income taxpayers and large corporations. The Inflation Reduction Act of 2022 allocated approximately $80 billion in additional IRS funding over 10 years, with a significant portion directed toward enforcement.
 
 ## Why You Should Care
 

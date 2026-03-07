@@ -5,7 +5,7 @@ description: "Osteology is the scientific study of bones and the skeletal system
 category: science
 tags: ["osteology", "bones", "skeletal system", "anatomy", "archaeology", "forensic science", "physical anthropology"]
 heroImage: "/images/articles/osteology-hero.webp"
-heroAlt: "A detailed anatomical skeleton displayed for scientific study with labeled bone structures"
+heroAlt: "Editorial photograph representing the concept of osteology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Osteology is the scientific study of bones. That two-word definition covers an e
 
 ## Bone as Living Tissue
 
-The first thing to understand about bones is that they're not dead scaffolding. Bones are living, metabolically active organs that constantly remodel themselves throughout life.
+The first thing to understand about bones is that they're not dead [scaffolding](/scaffolding). Bones are living, metabolically active organs that constantly remodel themselves throughout life.
 
 ### What Bones Are Made Of
 
@@ -65,13 +65,13 @@ Three cell types maintain bone tissue:
 
 Your entire skeleton is replaced roughly every 7-10 years through this remodeling process. The bones you have now are not the same physical bones you had a decade ago.
 
-### Bone Architecture
+### Bone [Architecture](/architecture)
 
 Bones aren't solid throughout. They come in two structural forms:
 
 **Cortical (compact) bone** forms the dense outer shell. Under a microscope, it's organized into concentric cylinders called osteons (or Haversian systems), each centered on a blood vessel. This architecture maximizes strength while maintaining blood supply.
 
-**Trabecular (spongy) bone** fills the interior of flat bones, vertebrae, and the ends of long bones. It consists of a lattice of thin struts (trabeculae) oriented along the lines of mechanical stress. This is not random — the trabeculae align themselves to resist the forces the bone actually experiences, a phenomenon first described by Julius Wolff in 1892 (Wolff's Law). An X-ray of the proximal femur reveals trabecular patterns that match the stress lines predicted by engineering analysis perfectly.
+**Trabecular (spongy) bone** fills the interior of flat bones, vertebrae, and the ends of long bones. It consists of a lattice of thin struts (trabeculae) oriented along the lines of mechanical stress. This is not random — the trabeculae align themselves to resist the forces the bone actually experiences, a phenomenon first described by Julius Wolff in 1892 (Wolff's Law). An X-ray of the proximal femur reveals trabecular patterns that match the stress lines predicted by [engineering](/engineering) analysis perfectly.
 
 This adaptive architecture means bones literally sculpt themselves to handle the loads placed on them. Tennis players develop thicker cortical bone in their dominant arm. Astronauts lose bone density in space because the absence of gravity removes the mechanical stimulus for bone maintenance. Your bones are a record of the forces your body has experienced.
 
@@ -95,7 +95,7 @@ Intervertebral discs between vertebrae are fibrocartilage cushions that allow fl
 
 Long bones (femur, tibia, humerus, radius, ulna) are the structural pillars of the limbs. Each has a shaft (diaphysis) of thick cortical bone surrounding a medullary cavity filled with marrow, and two ends (epiphyses) covered with articular cartilage for smooth joint movement.
 
-The femur is the longest and strongest bone in the body. It can withstand compressive forces of about 1,700 pounds before fracturing. Its neck angle (about 125 degrees in adults) is an adaptation for efficient bipedal walking — a feature that [physical anthropology](/physical-anthropology) uses to distinguish human from non-human fossils and to track the evolution of upright walking.
+The femur is the longest and strongest bone in the body. It can withstand compressive forces of about 1,700 pounds before fracturing. Its neck angle (about 125 degrees in adults) is an adaptation for efficient bipedal walking — a feature that [physical anthropology](/physical-[anthropology](/anthropology)) uses to distinguish human from non-human fossils and to track the evolution of upright walking.
 
 ### The Hand
 
@@ -143,7 +143,7 @@ Ancient bones record disease with surprising detail. Tuberculosis leaves charact
 
 Growth arrest lines (Harris lines) visible in X-rays of long bones record episodes of illness or malnutrition during childhood — each line represents a period when growth stopped and then resumed. These lines provide a record of childhood stress in populations that left no written history.
 
-The transition from hunting-gathering to agriculture — one of the most significant changes in human history — left clear signatures in skeletal remains. Early farming populations show increased dental cavities (from carbohydrate-rich diets), shorter stature (from nutritional deficiency), more infectious disease (from increased population density and proximity to animals), and more arthritis in specific joints (from repetitive agricultural labor).
+The transition from hunting-gathering to [agriculture](/agriculture) — one of the most significant changes in human history — left clear signatures in skeletal remains. Early farming populations show increased dental cavities (from carbohydrate-rich diets), shorter stature (from nutritional deficiency), more infectious disease (from increased population density and proximity to animals), and more arthritis in specific joints (from repetitive agricultural labor).
 
 ### Activity and Occupation
 
@@ -165,7 +165,7 @@ The vertebrate skeleton follows a remarkably conserved basic plan. A whale's fli
 
 The fossil record of vertebrate skeletons documents major evolutionary transitions: the emergence of jaws in early fish, the transition from water to land (the famous *Tiktaalik* fossil shows intermediate fin-limb structures), the development of the mammalian middle ear from reptilian jaw bones, and the evolution of human bipedalism shown in fossils like *Australopithecus afarensis* ("Lucy") with her intermediate pelvis and femur anatomy.
 
-Paleoanthropology — the study of human evolution — relies heavily on osteology. The shape of a pelvis, the angle of a femur, the curvature of a spine, the position of the foramen magnum (the hole where the spinal cord enters the skull), and the size of a braincase all contribute to understanding how and when our ancestors began walking upright, using tools, and developing larger brains.
+[Paleoanthropology](/paleoanthropology) — the study of [human evolution](/human-evolution) — relies heavily on osteology. The shape of a pelvis, the angle of a femur, the curvature of a spine, the position of the foramen magnum (the hole where the spinal cord enters the skull), and the size of a braincase all contribute to understanding how and when our ancestors began walking upright, using tools, and developing larger brains.
 
 ## Clinical Osteology: Bones in Medicine
 

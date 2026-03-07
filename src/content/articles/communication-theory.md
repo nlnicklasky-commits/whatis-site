@@ -5,7 +5,7 @@ description: "Communication theory studies how messages are created, transmitted
 category: science
 tags: ["communication theory", "communication", "linguistics", "sociology", "psychology", "media", "information"]
 heroImage: "/images/articles/communication-theory-hero.webp"
-heroAlt: "Diagram showing interconnected channels of communication between diverse groups of people"
+heroAlt: "Editorial photograph representing the concept of communication theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,11 +35,11 @@ faq:
 
 # What Is Communication Theory?
 
-Communication theory is the academic field that studies how information, meaning, and messages are produced, transmitted, received, and interpreted across all forms of human interaction — from face-to-face conversation to mass media to digital platforms. It draws on linguistics, psychology, sociology, philosophy, and information science to explain why communication works when it does, and why it breaks down when it doesn't.
+Communication theory is the academic field that studies how information, meaning, and messages are produced, transmitted, received, and interpreted across all forms of human interaction — from face-to-face conversation to mass media to digital platforms. It draws on [linguistics](/linguistics), [psychology](/psychology), sociology, [philosophy](/philosophy), and information science to explain why communication works when it does, and why it breaks down when it doesn't.
 
 ## The Shannon-Weaver Model: Where It All Started
 
-In 1948, Claude Shannon — a mathematician at Bell Labs — published "A Mathematical Theory of Communication," and accidentally launched an entire academic discipline. Shannon wasn't trying to understand human conversation. He was trying to solve an engineering problem: how to transmit telephone signals efficiently over noisy wires.
+In 1948, Claude Shannon — a mathematician at Bell Labs — published "A Mathematical Theory of Communication," and accidentally launched an entire academic discipline. Shannon wasn't trying to understand human conversation. He was trying to solve an [engineering](/engineering) problem: how to transmit telephone signals efficiently over noisy wires.
 
 His model was elegantly simple. A sender encodes a message, transmits it through a channel, and a receiver decodes it. Along the way, noise can corrupt the signal. Shannon's genius was quantifying information mathematically — measuring it in bits — and proving theoretical limits on how much information a channel could carry.
 
@@ -91,7 +91,7 @@ People aren't passive recipients. They actively choose media to satisfy specific
 
 This theory explains why different people consume the same media for different reasons. Two people might watch the same political debate — one for information about policy, the other for entertainment value. The gratification sought determines how the message is interpreted.
 
-Social media makes uses and gratifications especially relevant. People use Instagram for self-presentation, Twitter/X for information and argument, TikTok for entertainment, LinkedIn for professional networking. The platform choice reflects the gratification being sought, and platforms are designed to maximize those specific gratifications.
+Social media makes uses and gratifications especially relevant. People use Instagram for self-presentation, Twitter/X for information and argument, TikTok for entertainment, LinkedIn for professional [networking](/networking). The platform choice reflects the gratification being sought, and platforms are designed to maximize those specific gratifications.
 
 ### Cultivation Theory
 
@@ -133,7 +133,7 @@ Aristotle's *Rhetoric*, written around 350 BCE, identified three modes of persua
 
 **Ethos** — the speaker's credibility. You're more persuaded by someone you trust and respect. This is why advertisers use celebrity endorsements, why academic papers cite prestigious journals, and why politicians emphasize their experience.
 
-**Pathos** — emotional appeal. Fear, hope, anger, compassion — emotions drive action more reliably than logic alone. Public health campaigns use fear (smoking kills), charities use compassion (pictures of suffering children), and political campaigns use anger (the other side is destroying everything you love).
+**Pathos** — emotional appeal. Fear, hope, anger, compassion — emotions drive action more reliably than logic alone. [Public health](/public-health) campaigns use fear (smoking kills), charities use compassion (pictures of suffering children), and political campaigns use anger (the other side is destroying everything you love).
 
 **Logos** — logical argument. Evidence, statistics, reasoning — the rational case for a position. Scientific papers, legal briefs, and policy analyses rely primarily on logos.
 
@@ -151,7 +151,7 @@ Digital communication has challenged virtually every existing theory. The intern
 
 **Asynchronous communication** — email, text messages, social media posts — lacks the real-time feedback that transactional models emphasize. When you send a text, you can't see the recipient's facial expression. This creates ambiguity that leads to misinterpretation. The addition of emojis, reaction buttons, and read receipts represents attempts to restore some of the nonverbal cues that text strips away.
 
-**Participatory media** blurs the line between producer and consumer. On YouTube, TikTok, and podcasting platforms, anyone can be a broadcaster. This democratizes communication but also fragments audiences and undermines the gatekeeping function that traditional media served — for better and worse.
+**Participatory media** blurs the line between producer and consumer. On YouTube, TikTok, and [podcasting](/podcasting) platforms, anyone can be a broadcaster. This democratizes communication but also fragments audiences and undermines the gatekeeping function that traditional media served — for better and worse.
 
 ## Nonverbal Communication
 

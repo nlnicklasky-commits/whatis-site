@@ -5,7 +5,7 @@ description: "Digital photography captures images using electronic sensors inste
 category: arts-amp-culture
 tags: ["digital photography", "arts-amp-culture"]
 heroImage: "/images/articles/digital-photography.webp"
-heroAlt: "A DSLR camera on a tripod capturing a landscape at golden hour"
+heroAlt: "Editorial photograph representing the concept of digital photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,7 +45,7 @@ The whole process takes milliseconds. Modern cameras can repeat it 20-30 times p
 
 Kodak engineer Steve Sasson built the first digital camera in 1975. It weighed 8 pounds, took 23 seconds to record one image, and produced a 0.01-megapixel black-and-white photo. Kodak's executives looked at it and essentially said: "That's cute, but nobody would want digital photos."
 
-This turned out to be one of the worst predictions in business history. Kodak, which dominated photography for a century, filed for bankruptcy in 2012 — destroyed by the technology its own engineer invented.
+This turned out to be one of the worst predictions in [business history](/business-history). Kodak, which dominated photography for a century, filed for bankruptcy in 2012 — destroyed by the technology its own engineer invented.
 
 The consumer digital camera market took off around 2000-2005. Canon's EOS 300D (2003) brought affordable DSLRs to enthusiasts. But the real earthquake was the iPhone in 2007. When smartphones included decent cameras, standalone point-and-shoot cameras essentially died. By 2023, humans were taking approximately 1.4 trillion photos per year — more photos per day than were taken during the entire 19th century.
 
@@ -73,9 +73,9 @@ Three settings control how much light reaches the sensor, and understanding thei
 
 Digital photography shifted significant creative work from capture to post-processing. When you shoot in RAW format, the image file contains all the data the sensor recorded — far more than what the camera's screen preview shows.
 
-Adobe Lightroom and Capture One are the dominant editing platforms. Adjustments like [exposure](/camera-operation), white balance, contrast, and color grading are non-destructive — you can always revert. This flexibility is a genuine advantage over film, where exposure decisions were largely final at the moment of capture.
+Adobe Lightroom and Capture One are the dominant [editing](/editing) platforms. Adjustments like [exposure](/camera-operation), white balance, contrast, and color grading are non-destructive — you can always revert. This flexibility is a genuine advantage over film, where exposure decisions were largely final at the moment of capture.
 
-The ethics of post-processing generate ongoing debate. Adjusting exposure and color balance? Universally accepted. Removing a distracting power line? Generally fine. Adding clouds that weren't there? That's where photojournalism draws the line. Heavily retouching skin in portraits? Increasingly controversial. Each genre of photography has developed its own norms about acceptable manipulation.
+The [ethics](/ethics) of post-processing generate ongoing [debate](/debate). Adjusting exposure and color balance? Universally accepted. Removing a distracting power line? Generally fine. Adding clouds that weren't there? That's where photojournalism draws the line. Heavily retouching skin in portraits? Increasingly controversial. Each genre of photography has developed its own norms about acceptable manipulation.
 
 ## What Makes a Good Photo
 
@@ -83,6 +83,6 @@ Technical quality matters less than most beginners think. Composition — how yo
 
 The rule of thirds (placing subjects at intersection points of a 3x3 grid) is a solid starting point. Leading lines draw the viewer's eye through the image. Framing uses foreground elements to create depth. Negative space gives the subject room to breathe.
 
-Light is everything. Photographers obsess over golden hour (the hour after sunrise and before sunset) because the warm, angled light is simply more flattering and dramatic than harsh midday sun. But learning to see light in any condition — how it falls on faces, where shadows create depth, when backlight creates drama — is the skill that separates snapshots from photographs.
+Light is everything. Photographers obsess over golden hour (the hour after sunrise and before sunset) because the warm, angled light is simply more flattering and dramatic than harsh midday sun. But learning to see light in any condition — how it falls on faces, where shadows create depth, when backlight creates [drama](/drama) — is the skill that separates snapshots from photographs.
 
 The best camera is the one you have with you. A technically perfect photo of a boring subject is still boring. A slightly noisy, imperfectly composed phone photo of a meaningful moment is priceless. Digital photography's greatest gift is making that moment capturable for everyone, instantly, at essentially zero cost per image.

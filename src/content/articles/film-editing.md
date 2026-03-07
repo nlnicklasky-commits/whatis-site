@@ -5,7 +5,7 @@ description: "Film editing is the art of selecting and assembling footage into a
 category: arts-amp-culture
 tags: ["film", "cinema", "post-production", "editing", "filmmaking", "movie making"]
 heroImage: "/images/articles/film-editing.webp"
-heroAlt: "Editor working at a computer with film timeline and multiple monitors"
+heroAlt: "Editorial photograph representing the concept of film editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Typically 10 weeks to 6 months or longer for a major feature film. The editor usually starts assembling footage during filming and continues through post-production. The first rough cut (assembly) might run 3-4 hours for a 2-hour film. Refining it to final length involves dozens of iterations, test screenings, and feedback sessions."
 ---
 
-# What Is Film Editing?
+# What Is Film [Editing](/editing)?
 
 Film editing is the process of selecting, arranging, and assembling recorded footage into a coherent and compelling motion picture. It's often called the "invisible art" because when editing is done well, you don't notice it — you just experience the story. When it's done badly, everything feels off. Scenes drag. Conversations feel awkward. Action sequences become confusing. Editing is the difference between raw footage and a movie.
 
@@ -51,7 +51,7 @@ The process follows a general sequence, though every film is different.
 
 **Fine cut** is the polishing phase. Frame-by-frame adjustments are made. Reaction shots are timed precisely. Sound transitions are smoothed. The pacing of every scene is refined until the film flows naturally.
 
-**Final cut** incorporates color correction, sound mixing, visual effects, and music. It's the version that reaches audiences. Who has final cut authority — the director or the studio — is one of Hollywood's most contested issues.
+**Final cut** incorporates color correction, sound mixing, [visual effects](/visual-effects), and music. It's the version that reaches audiences. Who has final cut authority — the director or the studio — is one of Hollywood's most contested issues.
 
 ## Key Techniques
 
@@ -59,7 +59,7 @@ The process follows a general sequence, though every film is different.
 
 **Montage** compresses time and information. The training montage, the travel montage, the falling-in-love montage — these are editing conventions that communicate long processes in seconds. Soviet montage theory (Eisenstein, Pudovkin, Kuleshov) went further, arguing that meaning itself is created through the collision of shots.
 
-**Cross-cutting** (parallel editing) alternates between two or more storylines happening simultaneously, creating tension and drawing connections. Christopher Nolan used extensive cross-cutting in *Inception* to interweave action across multiple dream levels.
+**Cross-cutting** (parallel editing) alternates between two or more storylines happening simultaneously, creating tension and [drawing](/drawing) connections. Christopher Nolan used extensive cross-cutting in *Inception* to interweave action across multiple dream levels.
 
 **Jump cuts** deliberately break continuity, creating a jarring, energetic effect. Jean-Luc Godard popularized them in *Breathless* (1960). They're now standard in YouTube videos and music videos.
 
@@ -83,6 +83,6 @@ This can create tension. Directors are often attached to footage they fought to 
 
 ## Why Editing Matters
 
-Editing determines your experience of every movie, television show, and video you watch. The tension in a thriller, the timing of comedy, the emotional arc of a drama — all are shaped in the editing room. The phrase "we'll fix it in post" is a filmmaking cliché because editing genuinely can transform problematic footage into something that works.
+Editing determines your experience of every movie, television show, and video you watch. The tension in a thriller, the timing of [comedy](/comedy), the emotional arc of a [drama](/drama) — all are shaped in the editing room. The phrase "we'll fix it in post" is a [filmmaking](/filmmaking) cliché because editing genuinely can transform problematic footage into something that works.
 
 But editing can't create what doesn't exist. No amount of clever cutting can save a performance that was never captured, an emotion that was never felt, or a story that was never properly conceived. Editing is powerful, but it works best as the final refinement of strong material — not as a rescue operation for weak material.

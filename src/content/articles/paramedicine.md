@@ -5,7 +5,7 @@ description: "Paramedicine is the field of emergency pre-hospital medical care. 
 category: health-amp-wellness
 tags: ["paramedicine", "paramedic", "ems", "emergency medicine"]
 heroImage: "/images/articles/paramedicine.webp"
-heroAlt: "Paramedics loading a patient into an ambulance with emergency medical equipment visible"
+heroAlt: "Editorial photograph representing the concept of paramedicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -47,13 +47,13 @@ Everything changed in 1966 when the National Academy of Sciences published a lan
 
 The report triggered a wave of reform. The Department of Transportation established the first national EMT training curriculum in 1969. And in 1969-1970, a handful of cities — including Miami, Seattle, Los Angeles, and Columbus — began experimenting with "paramedic" programs: highly trained emergency workers who could deliver advanced care in the field.
 
-The television show *Emergency!* (1972-1979), which followed a Los Angeles County Fire Department paramedic unit, did more for public awareness of paramedicine than any government report. Within years of the show's debut, communities across the country were demanding paramedic services. The profession exploded.
+The television show *Emergency!* (1972-1979), which followed a Los Angeles County Fire Department paramedic unit, did more for public awareness of paramedicine than any [government](/government) report. Within years of the show's debut, communities across the country were demanding paramedic services. The profession exploded.
 
 ## What Paramedics Actually Do
 
 The scope of paramedic practice has expanded dramatically since those early days. Here's what a modern paramedic can do — the specific list varies by state and by the medical protocols they operate under.
 
-**Airway management.** Paramedics can insert endotracheal tubes (a tube through the mouth into the trachea to secure breathing), use supraglottic airway devices, perform needle cricothyrotomy (making an emergency airway through the neck) in extreme cases, and manage ventilators.
+**Airway [management](/management).** Paramedics can insert endotracheal tubes (a tube through the mouth into the trachea to secure breathing), use supraglottic airway devices, perform needle cricothyrotomy (making an emergency airway through the neck) in extreme cases, and manage ventilators.
 
 **Cardiac care.** They read and interpret 12-lead electrocardiograms, administer cardiac medications like epinephrine and amiodarone, perform synchronized cardioversion and defibrillation, and — in some systems — initiate therapeutic hypothermia after cardiac arrest.
 
@@ -61,13 +61,13 @@ The scope of paramedic practice has expanded dramatically since those early days
 
 **Trauma care.** Needle decompression for tension pneumothorax (relieving a collapsed lung in the field), tourniquet application for severe hemorrhage, spinal immobilization, fracture splinting, and wound management.
 
-**Medical assessment.** Point-of-care blood glucose testing, 12-lead ECG interpretation, basic blood chemistry analysis, and physical examination skills that rival many emergency department nurses.
+**Medical assessment.** Point-of-care blood glucose testing, 12-lead ECG interpretation, basic blood [chemistry](/chemistry) analysis, and physical examination skills that rival many emergency department nurses.
 
 That's a lot of clinical capability for someone working in the back of a bouncing truck at 2 AM with no physician physically present.
 
 ## The Chain of Survival
 
-Paramedicine doesn't exist in isolation. It's one link in what emergency medicine calls the "chain of survival" — a series of time-critical steps that determine whether someone having a cardiac arrest, a stroke, or a major trauma lives or dies.
+Paramedicine doesn't exist in isolation. It's one link in what [emergency medicine](/emergency-medicine) calls the "chain of survival" — a series of time-critical steps that determine whether someone having a cardiac arrest, a stroke, or a major trauma lives or dies.
 
 **Early recognition and 911 activation.** Bystanders calling for help.
 
@@ -85,11 +85,11 @@ The entire chain only works if every link holds. A paramedic can deliver flawles
 
 Becoming a paramedic isn't quick. The progression typically works like this:
 
-**EMT-Basic (EMT-B):** The entry point. About 120 to 150 hours of training covering basic anatomy, patient assessment, CPR, splinting, oxygen administration, and patient transport. You can complete this in a semester-long course or an intensive 2-3 week program.
+**EMT-Basic (EMT-B):** The entry point. About 120 to 150 hours of training covering basic [anatomy](/anatomy), patient assessment, CPR, splinting, oxygen administration, and patient transport. You can complete this in a semester-long course or an intensive 2-3 week program.
 
 **Advanced EMT (AEMT):** An intermediate level adding some medication administration, IV access, and advanced assessment skills. Not all states use this level.
 
-**Paramedic:** The advanced level. Training runs 1,200 to 1,800 hours, typically over one to two years. The curriculum covers advanced anatomy and physiology, pharmacology, cardiology, trauma management, pediatric and obstetric emergencies, and extensive clinical rotations in hospitals and on ambulances.
+**Paramedic:** The advanced level. Training runs 1,200 to 1,800 hours, typically over one to two years. The curriculum covers advanced anatomy and [physiology](/physiology), [pharmacology](/pharmacology), cardiology, trauma management, pediatric and obstetric emergencies, and extensive clinical rotations in hospitals and on ambulances.
 
 After completing a paramedic program, you must pass the National Registry of Emergency Medical Technicians (NREMT) certification exam — a computer-adaptive test that is, by most accounts, genuinely difficult. Pass rates for first-time test takers hover around 68% to 72%.
 
@@ -101,7 +101,7 @@ Paramedicine has a burnout crisis, and the numbers are alarming.
 
 **Pay.** The median salary for paramedics and EMTs in the United States was roughly $38,930 in 2023. That's for a job requiring specialized training, life-and-death decision-making, exposure to infectious diseases, and brutal shift schedules. Many paramedics work second jobs to pay their bills. In some areas, fast food managers earn more than the paramedics responding to their employees' emergencies.
 
-**Mental health.** Paramedics see things most people never will — dead children, mutilated accident victims, suicides, the aftermath of violence. The cumulative toll is staggering. Studies show that PTSD rates among paramedics range from 11% to 37%, depending on the study, compared to about 3.5% in the general population. Suicide rates among EMS workers are significantly higher than the national average.
+**[Mental health](/mental-health).** Paramedics see things most people never will — dead children, mutilated accident victims, suicides, the aftermath of violence. The cumulative toll is staggering. Studies show that PTSD rates among paramedics range from 11% to 37%, depending on the study, compared to about 3.5% in the general population. Suicide rates among EMS workers are significantly higher than the national average.
 
 **Physical toll.** Back injuries from lifting patients, exposure to bloodborne pathogens, assault by agitated or intoxicated patients, and the chronic sleep disruption of rotating shifts all grind down paramedics' bodies over time. The career lifespan in EMS is notoriously short — many leave the field within 5 to 10 years.
 
@@ -123,7 +123,7 @@ The American model — fire department-based or private ambulance services staff
 
 **United Kingdom:** The National Health Service runs ambulance services staffed by paramedics who complete a three-year university degree. British paramedics have a broader scope of practice than many American counterparts, including the ability to treat and release patients on scene rather than transporting everyone to the hospital.
 
-**France:** The SAMU system sends physicians directly to the scene in specially equipped vehicles. The French philosophy is to bring the hospital to the patient rather than rushing the patient to the hospital.
+**France:** The SAMU system sends physicians directly to the scene in specially equipped vehicles. The French [philosophy](/philosophy) is to bring the hospital to the patient rather than rushing the patient to the hospital.
 
 **Australia:** State-run ambulance services staffed by university-educated paramedics. Australian paramedicine became a registered health profession in 2018, giving paramedics similar professional status to nurses and physiotherapists.
 
@@ -139,4 +139,4 @@ Telemedicine integration allows paramedics in the field to video-consult with em
 
 The push for paramedics to earn bachelor's degrees and gain professional registration (as has happened in the UK, Australia, and South Africa) reflects a profession that wants to be recognized for what it has become — not what it was in the hearse-and-siren days.
 
-Whether pay and working conditions catch up to the expanding scope of practice is the trillion-dollar question. You can give paramedics more skills, more education, and more responsibility. But if you don't pay them enough to stay in the profession, none of it matters.
+Whether pay and working conditions catch up to the expanding scope of practice is the trillion-dollar question. You can give paramedics more skills, more [education](/education), and more responsibility. But if you don't pay them enough to stay in the profession, none of it matters.

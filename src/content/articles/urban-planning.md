@@ -5,7 +5,7 @@ description: "Urban planning is the process of managing city growth through land
 category: technology
 tags: ["urban planning", "city planning", "zoning", "land use", "infrastructure", "transportation"]
 heroImage: "/images/articles/urban-planning.webp"
-heroAlt: "City map with colored zoning overlay showing residential, commercial, and industrial districts"
+heroAlt: "Editorial photograph representing the concept of urban planning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,9 +41,9 @@ Urban planning is the technical and political process of managing the developmen
 
 Cities without planning existed for most of human history. Medieval cities grew organically — narrow streets following animal paths, buildings crowding together, tanneries next to bakeries, slaughterhouses beside homes. The results were often vibrant and walkable, but also prone to fire, disease, and congestion.
 
-The modern planning profession emerged from specific crises. London's devastating cholera outbreaks in the 1850s (traced by John Snow to contaminated water sources) demonstrated that public health required coordinated infrastructure. The Great Fire of London in 1666 showed that dense, unregulated construction was a catastrophic fire risk. The Industrial Revolution's factory towns — with workers crammed into airless tenements next to belching smokestacks — made the case that some separation of land uses was necessary.
+The modern planning profession emerged from specific crises. London's devastating cholera outbreaks in the 1850s (traced by John Snow to contaminated water sources) demonstrated that [public health](/public-health) required coordinated infrastructure. The Great Fire of London in 1666 showed that dense, unregulated [construction](/construction) was a catastrophic fire risk. The Industrial Revolution's factory towns — with workers crammed into airless tenements next to belching smokestacks — made the case that some separation of land uses was necessary.
 
-In the United States, the landmark 1926 Supreme Court case *Village of Euclid v. Ambler Realty Co.* established that zoning was a legitimate exercise of government power. The decision upheld a suburb's right to restrict industrial development, and it set the legal foundation for the zoning systems that now govern virtually every city and town in the country.
+In the United States, the landmark 1926 Supreme Court case *Village of Euclid v. Ambler Realty Co.* established that zoning was a legitimate exercise of [government](/government) power. The decision upheld a suburb's right to restrict industrial development, and it set the legal foundation for the zoning systems that now govern virtually every city and town in the country.
 
 But here's the tension that runs through all of planning: every regulation that protects one interest restricts another. Zoning that keeps factories away from homes also keeps apartments away from houses. Height limits that preserve neighborhood character also limit housing supply. Environmental reviews that protect wetlands also add years and millions of dollars to project timelines. Planning is perpetually balancing competing values, and someone always loses.
 
@@ -68,7 +68,7 @@ Traditional Euclidean zoning — named after the Euclid Supreme Court case, not 
 
 Also called a general plan or master plan, the thorough plan is a community's long-range vision document. It typically covers a 10-20 year horizon and addresses land use, transportation, housing, parks, economic development, and environmental protection.
 
-The process of creating a thorough plan involves months (sometimes years) of public meetings, surveys, data analysis, and political negotiation. The result is a document that expresses community priorities — more housing here, protect farmland there, extend transit this way, preserve historic buildings in that neighborhood.
+The process of creating a thorough plan involves months (sometimes years) of public meetings, surveys, [data analysis](/data-analysis), and political [negotiation](/negotiation). The result is a document that expresses community priorities — more housing here, protect farmland there, extend transit this way, preserve historic buildings in that neighborhood.
 
 In most states, zoning must be consistent with the thorough plan. This means the plan has indirect legal force — it doesn't tell you what you can build on your property, but it guides the zoning code that does.
 
@@ -78,11 +78,11 @@ The practical effectiveness of thorough plans varies enormously. Some plans gath
 
 Transportation planning decides where roads, transit lines, bike networks, and pedestrian facilities go. These decisions are among the most consequential in planning, because transportation infrastructure lasts for generations and shapes development patterns long after it's built.
 
-The Interstate Highway System, authorized in 1956, was the largest public works project in American history. It profoundly reshaped [urban development](/urban-development) by making suburban living practical for millions. But it also demolished urban neighborhoods, induced automobile dependency, and undermined public transit systems that had been functioning well.
+The Interstate Highway System, authorized in 1956, was the largest public works project in [American history](/american-history). It profoundly reshaped [urban development](/urban-development) by making suburban living practical for millions. But it also demolished urban neighborhoods, induced automobile dependency, and undermined public transit systems that had been functioning well.
 
-Modern transportation planning increasingly follows a "complete streets" philosophy that accommodates all users — drivers, transit riders, cyclists, and pedestrians — rather than prioritizing cars exclusively. The National Association of City Transportation Officials (NACTO) publishes design guides that have influenced street design in hundreds of cities.
+Modern transportation planning increasingly follows a "complete streets" [philosophy](/philosophy) that accommodates all users — drivers, transit riders, cyclists, and pedestrians — rather than prioritizing cars exclusively. The National Association of City Transportation Officials (NACTO) publishes design guides that have influenced street design in hundreds of cities.
 
-**Transportation demand management** — strategies to reduce driving without building new roads — includes congestion pricing (charging tolls on busy roads during peak hours), parking management, transit incentives, and land use policies that reduce trip lengths. London's congestion charge, introduced in 2003, reduced driving in central London by about 30% and generates revenue that funds transit improvements.
+**Transportation demand [management](/management)** — strategies to reduce driving without building new roads — includes congestion pricing (charging tolls on busy roads during peak hours), parking management, transit incentives, and land use policies that reduce trip lengths. London's congestion charge, introduced in 2003, reduced driving in central London by about 30% and generates revenue that funds transit improvements.
 
 ### Environmental Planning
 

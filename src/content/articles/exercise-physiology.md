@@ -5,7 +5,7 @@ description: "Exercise physiology studies how your body responds and adapts to p
 category: health-amp-wellness
 tags: ["exercise physiology", "exercise", "sports science", "health", "fitness"]
 heroImage: "/images/articles/exercise-physiology.webp"
-heroAlt: "Athlete on a treadmill connected to physiological monitoring equipment in a lab"
+heroAlt: "Editorial photograph representing the concept of exercise physiology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
     a: "Some changes occur within days — improved insulin sensitivity and mood can appear after a single workout. Cardiovascular improvements (lower resting heart rate, better endurance) typically become measurable within 2-4 weeks of consistent training. Significant muscle hypertrophy (growth) usually requires 6-8 weeks of resistance training. Maximum aerobic capacity (VO2 max) improvements plateau after about 3-6 months of training for most people."
 ---
 
-# What Is Exercise Physiology?
+# What Is Exercise [Physiology](/physiology)?
 
 Exercise physiology is the study of how your body responds to physical activity — both the immediate changes that happen during a workout and the long-term adaptations that occur with regular training. It explains why your heart rate climbs when you sprint, why muscles grow when you lift weights, and why trained athletes can do things that would send an untrained person to the hospital.
 
@@ -49,13 +49,13 @@ The catch? You only have enough PCr for about 10 seconds of maximum effort. Afte
 
 ### The Glycolytic System (10 Seconds to 2 Minutes)
 
-For high-intensity efforts lasting longer than 10 seconds — a 400-meter run, a wrestling match, a hard set of 15 reps — your muscles rely primarily on glycolysis, the breakdown of glucose (from blood sugar or stored glycogen) into ATP. This process doesn't require oxygen (it's anaerobic), which is why it kicks in quickly.
+For high-intensity efforts lasting longer than 10 seconds — a 400-meter run, a [wrestling](/wrestling) match, a hard set of 15 reps — your muscles rely primarily on glycolysis, the breakdown of glucose (from blood sugar or stored glycogen) into ATP. This process doesn't require oxygen (it's anaerobic), which is why it kicks in quickly.
 
 The downside is that glycolysis produces lactate and hydrogen ions as byproducts. Those hydrogen ions lower muscle pH, creating the burning sensation you feel during intense exercise. Contrary to popular belief, lactate itself isn't the villain — it's actually recycled as fuel. The acidity is what forces you to slow down or stop.
 
 ### The Oxidative System (2+ Minutes)
 
-For anything lasting more than a couple minutes — jogging, cycling, swimming laps — your aerobic system takes over. It breaks down carbohydrates, fats, and even small amounts of protein using oxygen, producing far more ATP per molecule of fuel than the other systems. One molecule of glucose yields about 36-38 ATP through aerobic metabolism versus just 2 ATP from anaerobic glycolysis.
+For anything lasting more than a couple minutes — jogging, cycling, [swimming](/swimming) laps — your aerobic system takes over. It breaks down carbohydrates, fats, and even small amounts of protein using oxygen, producing far more ATP per molecule of fuel than the other systems. One molecule of glucose yields about 36-38 ATP through aerobic metabolism versus just 2 ATP from anaerobic glycolysis.
 
 The trade-off is speed. Aerobic energy production is slower, which is why you can't sprint a marathon. But it's sustainable for hours because the fuel supply (especially fat) is virtually unlimited. Even a lean athlete with 10% body fat carries roughly 30,000-40,000 calories of stored fat — enough for about 20 marathons.
 
@@ -95,7 +95,7 @@ You have two primary types of muscle fibers:
 
 **Type II (fast-twitch)** fibers produce more force and contract faster but fatigue quickly. Sprinters and power athletes typically have more of these. Type II fibers can be further divided into Type IIa (moderately fast, somewhat fatigue-resistant) and Type IIx (very fast, fatigues rapidly).
 
-Your ratio of Type I to Type II fibers is largely determined by genetics. Training can shift the characteristics of Type II subtypes somewhat, but you can't fundamentally convert Type I fibers into Type II or vice versa. This is one reason some people are natural sprinters and others are natural distance runners.
+Your ratio of Type I to Type II fibers is largely determined by [genetics](/genetics). Training can shift the characteristics of Type II subtypes somewhat, but you can't fundamentally convert Type I fibers into Type II or vice versa. This is one reason some people are natural sprinters and others are natural distance runners.
 
 ## Training Adaptations
 
@@ -103,7 +103,7 @@ Your ratio of Type I to Type II fibers is largely determined by genetics. Traini
 
 The body adapts to stress. If you expose your [muscles](/anatomy) and cardiovascular system to loads slightly beyond what they're accustomed to, they respond by getting stronger, more efficient, or more enduring. This is the overload principle, and it's the foundation of all training.
 
-But there's a critical nuance: adaptation happens during recovery, not during exercise. The workout provides the stimulus. Sleep, nutrition, and rest provide the environment for growth. Overtraining — pushing too hard without adequate recovery — actually degrades performance and increases injury risk.
+But there's a critical nuance: adaptation happens during recovery, not during exercise. The workout provides the stimulus. Sleep, [nutrition](/nutrition), and rest provide the environment for growth. Overtraining — pushing too hard without adequate recovery — actually degrades performance and increases injury risk.
 
 ### Cardiovascular Adaptations
 

@@ -5,7 +5,7 @@ description: "Go is an ancient strategy board game where players place stones to
 category: everyday-concepts
 tags: ["go game", "board games", "strategy", "ancient games", "Japan", "China"]
 heroImage: "/images/articles/go-game.webp"
-heroAlt: "Go board with black and white stones arranged in a game in progress"
+heroAlt: "Editorial photograph representing the concept of go (game)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Go (Game)?
 
-Go is a strategy board game for two players who take turns placing black and white stones on a grid, attempting to surround more territory than their opponent. The rules are extraordinarily simple — you can teach them in five minutes. The strategy is extraordinarily deep — people have been studying it for over 4,000 years and haven't exhausted it. This combination of simplicity and depth is what makes Go unique among board games and why it's often described as the most intellectually demanding game humans have invented.
+Go is a strategy board game for two players who take turns placing black and white stones on a grid, attempting to surround more territory than their opponent. The rules are extraordinarily simple — you can teach them in five minutes. The strategy is extraordinarily deep — people have been studying it for over 4,000 years and haven't exhausted it. This combination of simplicity and depth is what makes Go unique among [board games](/board-games) and why it's often described as the most intellectually demanding game humans have invented.
 
 ## The Rules (All of Them)
 
@@ -57,15 +57,15 @@ The game also features a fundamental tension between **influence** (stones that 
 
 ## History
 
-Go (called *weiqi* in Chinese, *baduk* in Korean, and *igo* in Japanese) originated in China at least 2,500 years ago, with traditions claiming origins over 4,000 years ago. Confucius mentioned it. It was one of the four accomplishments expected of Chinese scholars (along with calligraphy, painting, and music).
+Go (called *weiqi* in Chinese, *baduk* in Korean, and *igo* in Japanese) originated in China at least 2,500 years ago, with traditions claiming origins over 4,000 years ago. Confucius mentioned it. It was one of the four accomplishments expected of Chinese scholars (along with [calligraphy](/calligraphy), [painting](/painting), and music).
 
-The game reached Korea and Japan by the 5th-7th centuries CE. In Japan, Go became deeply embedded in culture. The Tokugawa shogunate (1603-1868) established four Go houses (schools) that competed for government patronage. Professional players held honored positions in society. The title of *Meijin* (master) could only be held by one person at a time.
+The game reached Korea and Japan by the 5th-7th centuries CE. In Japan, Go became deeply embedded in culture. The Tokugawa shogunate (1603-1868) established four Go houses (schools) that competed for [government](/government) patronage. Professional players held honored positions in society. The title of *Meijin* (master) could only be held by one person at a time.
 
 Modern professional Go is concentrated in East Asia. China, South Korea, and Japan each have professional Go associations with hundreds of ranked players. Top professionals are celebrities — their games are broadcast live on television with expert commentary.
 
 ## AlphaGo and AI
 
-For decades, Go was considered the last great bastion against artificial intelligence. Chess fell to IBM's Deep Blue in 1997, but Go's vastly larger search space and reliance on intuitive pattern recognition seemed to resist computational approaches.
+For decades, Go was considered the last great bastion against [artificial intelligence](/artificial-intelligence). [Chess](/chess) fell to IBM's Deep Blue in 1997, but Go's vastly larger search space and reliance on intuitive [pattern recognition](/pattern-recognition) seemed to resist computational approaches.
 
 Then DeepMind's AlphaGo defeated European champion Fan Hui in October 2015 and world champion Lee Sedol in March 2016. The match — particularly Game 4, where Lee Sedol played a brilliant move that even AlphaGo's creators acknowledged was extraordinary — captivated millions of viewers worldwide.
 
@@ -77,7 +77,7 @@ The impact on human Go has been profound. Professional players now study AI move
 
 Go is easy to start and infinitely deep to continue. Beginners on 9x9 boards can learn the basic flow of the game in a single session. The progression to 13x13 and eventually 19x19 introduces new strategic layers — the full-size board requires balancing attention across a much larger space.
 
-**Ranking** uses a system similar to martial arts. Beginners start around 30-25 kyu. Players advance through kyu ranks (decreasing numbers) until reaching 1 kyu, then enter dan ranks (increasing numbers: 1 dan, 2 dan, etc.). Amateur ranks go to 7 dan. Professional ranks go to 9 dan (the highest title).
+**Ranking** uses a system similar to [martial arts](/martial-arts). Beginners start around 30-25 kyu. Players advance through kyu ranks (decreasing numbers) until reaching 1 kyu, then enter dan ranks (increasing numbers: 1 dan, 2 dan, etc.). Amateur ranks go to 7 dan. Professional ranks go to 9 dan (the highest title).
 
 **Online platforms** (OGS, KGS, Fox Go) allow playing against opponents of any level worldwide. AI tools (KataGo, Leela Zero) provide game analysis and review.
 
@@ -85,4 +85,4 @@ Go is easy to start and infinitely deep to continue. Beginners on 9x9 boards can
 
 ## Why Go Endures
 
-Go has survived for over 4,000 years because it achieves something almost no other game has: a depth-to-rules ratio that seems infinite. The rules are simple enough for a child to learn. The strategy is deep enough to sustain a lifetime of study. And the aesthetic pleasure of a well-played game — the balance of stones on the board, the elegance of a strong position, the beauty of an unexpected move — gives Go a quality that transcends competition. It's a game, an art form, and a meditation, all on a wooden board.
+Go has survived for over 4,000 years because it achieves something almost no other game has: a depth-to-rules ratio that seems infinite. The rules are simple enough for a child to learn. The strategy is deep enough to sustain a lifetime of study. And the aesthetic pleasure of a well-played game — the balance of stones on the board, the elegance of a strong position, the beauty of an unexpected move — gives Go a quality that transcends competition. It's a game, an art form, and a [meditation](/meditation), all on a wooden board.

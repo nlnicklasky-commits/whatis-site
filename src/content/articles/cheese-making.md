@@ -5,7 +5,7 @@ description: "Cheese making is the process of transforming milk into cheese thro
 category: everyday-concepts
 tags: ["cheese making", "cheese", "dairy", "food science", "fermentation", "culinary arts"]
 heroImage: "/images/articles/cheese-making.webp"
-heroAlt: "Wheels of aged cheese on wooden shelves in a traditional cheese cave"
+heroAlt: "Editorial photograph representing the concept of cheese making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Cheese making is the process of converting milk into cheese — concentrating mi
 
 The basic idea behind cheese is elegant: milk contains protein (casein), fat, water, sugar (lactose), and minerals. Cheese making separates the protein and fat from the water, concentrates them, and then — through aging — transforms them into something far more complex than raw milk could ever be.
 
-Ten pounds of milk produces roughly one pound of cheese. All that concentration means cheese packs enormous flavor and nutrition into a small package. Parmigiano-Reggiano contains about 30% protein and 30% fat by weight, plus concentrated calcium and B vitamins. It's a survival food that our ancestors figured out long before they understood why it worked.
+Ten pounds of milk produces roughly one pound of cheese. All that concentration means cheese packs enormous flavor and [nutrition](/nutrition) into a small package. Parmigiano-Reggiano contains about 30% protein and 30% fat by weight, plus concentrated calcium and B vitamins. It's a survival food that our ancestors figured out long before they understood why it worked.
 
-The oldest direct evidence of cheese making comes from pottery fragments in Poland dating to about 5500 BCE — residues show milk fats were processed through perforated ceramic vessels (essentially cheese strainers). Cheese making likely began even earlier, probably when someone stored milk in a bag made from an animal stomach, and the residual stomach enzymes curdled the milk. Happy accident.
+The oldest direct evidence of cheese making comes from [pottery](/pottery) fragments in Poland dating to about 5500 BCE — residues show milk fats were processed through perforated ceramic vessels (essentially cheese strainers). Cheese making likely began even earlier, probably when someone stored milk in a bag made from an animal stomach, and the residual stomach enzymes curdled the milk. Happy accident.
 
 ## The Basic Process
 
@@ -49,9 +49,9 @@ Starter cultures (specific strains of bacteria) are added to warm milk. These ba
 
 ### Step 2: Coagulation
 
-Rennet — an enzyme mixture traditionally from calf stomachs, now more commonly produced through fermentation — is added. Rennet causes casein proteins to link together, forming a gel-like mass called curd. The milk goes from liquid to something resembling tofu in about 30-45 minutes.
+Rennet — an enzyme mixture traditionally from calf stomachs, now more commonly produced through [fermentation](/fermentation) — is added. Rennet causes casein proteins to link together, forming a gel-like mass called curd. The milk goes from liquid to something resembling tofu in about 30-45 minutes.
 
-### Step 3: Cutting and Cooking the Curd
+### Step 3: Cutting and [Cooking](/cooking) the Curd
 
 The curd is cut into pieces (smaller pieces for harder cheeses, larger for softer ones). Cutting releases whey — the watery liquid that separates from the curds. The curds are then gently heated, which expels more whey and firms the curds. Higher cooking temperatures produce drier, harder cheese.
 
@@ -85,6 +85,6 @@ Aging rooms (caves, cellars, or climate-controlled rooms) typically maintain 50-
 
 The U.S. artisan cheese movement has exploded since the early 2000s. The American Cheese Society's annual competition received over 1,900 entries from 260 companies in recent years. Small producers making cheese from their own herds' milk (farmstead cheese) now compete with — and often beat — European cheeses that have centuries of tradition behind them.
 
-The economics are challenging. Artisan cheese requires quality milk ($20-30 per hundredweight), aging space (capital-intensive and slow to generate revenue), and significant labor. A wheel of cheese aged for two years ties up capital and space for two years before generating a single dollar of revenue. But the premium prices ($15-$40+ per pound for artisan cheese vs. $5-8 for commodity cheese) can make the math work.
+The [economics](/economics) are challenging. Artisan cheese requires quality milk ($20-30 per hundredweight), aging space (capital-intensive and slow to generate revenue), and significant labor. A wheel of cheese aged for two years ties up capital and space for two years before generating a single dollar of revenue. But the premium prices ($15-$40+ per pound for artisan cheese vs. $5-8 for commodity cheese) can make the math work.
 
 Cheese making connects you to one of humanity's oldest food technologies — the same fundamental process that Neolithic farmers used to preserve surplus milk is what produces the wheel of aged cheddar in your local cheese shop. The bacteria have been refined, the temperature control improved, and the science understood. But you're still persuading milk to transform itself, one controlled spoilage at a time.

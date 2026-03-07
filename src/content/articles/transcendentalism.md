@@ -5,7 +5,7 @@ description: "Transcendentalism was a 19th-century American philosophical moveme
 category: everyday-concepts
 tags: ["transcendentalism", "philosophy", "Emerson", "Thoreau", "individualism", "nature"]
 heroImage: "/images/articles/transcendentalism.webp"
-heroAlt: "A serene New England forest reflecting the nature-focused ideals of transcendentalism"
+heroAlt: "Editorial photograph representing the concept of transcendentalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Transcendentalism was an American philosophical, literary, and spiritual movement that flourished in New England during the 1830s-1850s. Its core conviction: human beings are fundamentally good, nature is sacred, and genuine truth comes from individual intuition rather than religious institutions, social conventions, or pure rational analysis.
 
-The movement produced some of the most quoted writing in [American](/american-history) literature, influenced the environmental movement, inspired nonviolent resistance worldwide, and helped define American cultural identity. Not bad for a small group of writers and thinkers in a Massachusetts town.
+The movement produced some of the most quoted [writing](/writing) in [American](/american-history) [literature](/literature), influenced the environmental movement, inspired nonviolent resistance worldwide, and helped define American cultural identity. Not bad for a small group of writers and thinkers in a Massachusetts town.
 
 ## The Core Ideas
 
@@ -51,7 +51,7 @@ The "transcendent" in transcendentalism refers to knowledge that transcends (goe
 
 ### Institutional Skepticism
 
-Transcendentalists distrusted organized religion, political parties, and social conventions. They saw institutions as inherently corrupting, imposing conformity on individuals who should be thinking and living according to their own inner light.
+Transcendentalists distrusted organized [religion](/religion), political parties, and social conventions. They saw institutions as inherently corrupting, imposing conformity on individuals who should be thinking and living according to their own inner light.
 
 ## The Key Figures
 
@@ -78,11 +78,11 @@ The movement's most important woman and one of America's first professional lite
 Transcendentalism emerged during a period of rapid change in America — industrialization, westward expansion, religious revival, and growing tension over slavery. The movement was partly a reaction against:
 
 - **Rationalism** — The Enlightenment emphasis on pure reason felt spiritually hollow to the transcendentalists
-- **Unitarianism** — Even this liberal form of Christianity felt too institutional and intellectually dry
+- **Unitarianism** — Even this liberal form of [Christianity](/christianity) felt too institutional and intellectually dry
 - **Materialism** — The growing commercial culture of the 1830s-40s prioritized wealth over wisdom
 - **Conformity** — Social pressure to fit in conflicted with the transcendentalist emphasis on individual expression
 
-The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philosophy-of-education) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
+The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philosophy-of-[education](/education)) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
 
 ## The Legacy
 
@@ -96,4 +96,4 @@ Transcendentalism's direct influence is visible across American culture:
 
 **Progressive education** — Bronson Alcott's experimental schools, based on respect for children's inherent wisdom, anticipated progressive education movements by decades.
 
-The transcendentalists were idealistic, sometimes impractical, and occasionally naive. But their fundamental insight — that nature, individual conscience, and spiritual intuition matter as much as logic, commerce, and institutional authority — remains powerful and relevant.
+The transcendentalists were idealistic, sometimes impractical, and occasionally naive. But their fundamental insight — that nature, individual conscience, and spiritual intuition matter as much as [logic](/logic), commerce, and institutional authority — remains powerful and relevant.

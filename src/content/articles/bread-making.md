@@ -5,7 +5,7 @@ description: "Bread making is the process of combining flour, water, salt, and a
 category: everyday-concepts
 tags: ["bread making", "baking", "bread", "yeast", "sourdough", "gluten"]
 heroImage: "/images/articles/bread-making.webp"
-heroAlt: "Hands kneading bread dough on a floured wooden surface with rising loaves nearby"
+heroAlt: "Editorial photograph representing the concept of bread making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Bread Making?
 
-Bread making is the process of mixing flour, water, salt, and a leavening agent (yeast or [sourdough](/sourdough) starter) into dough, then shaping and baking it. Archaeological evidence suggests humans have been making bread for at least 14,000 years — long before agriculture, when flatbreads were baked from ground wild grains on heated stones.
+Bread making is the process of mixing flour, water, salt, and a leavening agent (yeast or [sourdough](/sourdough) starter) into dough, then shaping and baking it. Archaeological evidence suggests humans have been making bread for at least 14,000 years — long before [agriculture](/agriculture), when flatbreads were baked from ground wild grains on heated stones.
 
 ## The Simplest Recipe, the Deepest Craft
 
@@ -41,7 +41,7 @@ The gap between "edible bread" and "extraordinary bread" is where the craft live
 
 ## The Science
 
-Bread making is applied [food chemistry](/food-chemistry). Here's what's actually happening:
+Bread making is applied [food chemistry](/food-[chemistry](/chemistry)). Here's what's actually happening:
 
 **Mixing** — Flour meets water. Proteins in the flour (glutenin and gliadin) hydrate and begin forming gluten, an elastic, stretchy network. This network is the skeleton of your bread.
 

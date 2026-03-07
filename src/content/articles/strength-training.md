@@ -5,7 +5,7 @@ description: "Strength training builds muscle and bone density through resistanc
 category: health-amp-wellness
 tags: ["fitness", "strength training", "exercise", "muscle building"]
 heroImage: "/images/articles/strength-training.webp"
-heroAlt: "Person performing a barbell squat in a well-equipped gym"
+heroAlt: "Editorial photograph representing the concept of strength training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -85,7 +85,7 @@ Yes, lifting weights helps your heart. Resistance training lowers resting blood 
 
 ### Mental Health
 
-The evidence here is strong and growing. A 2018 meta-analysis in JAMA Psychiatry analyzed 33 clinical trials and concluded that resistance exercise significantly reduced depressive symptoms, regardless of health status. The effect size was comparable to antidepressant medication in some studies.
+The evidence here is strong and growing. A 2018 meta-analysis in JAMA [Psychiatry](/psychiatry) analyzed 33 clinical trials and concluded that resistance exercise significantly reduced depressive symptoms, regardless of health status. The effect size was comparable to antidepressant medication in some studies.
 
 ## How to Structure a Program
 

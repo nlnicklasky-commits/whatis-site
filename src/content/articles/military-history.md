@@ -5,7 +5,7 @@ description: "Military history studies warfare, strategy, and armed forces acros
 category: history
 tags: ["history", "military history", "warfare"]
 heroImage: "/images/articles/military-history.webp"
-heroAlt: "Historical battlefield with cannons and fortifications under a dramatic sky"
+heroAlt: "Editorial photograph representing the concept of military history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Military history has a reputation problem. For a long time — centuries, really
 
 This approach, sometimes dismissed as "drums and trumpets" history, isn't without value. Understanding why the Persians lost at Salamis or how the German blitzkrieg overwhelmed France in 1940 matters. Battles do change history. But focusing only on combat misses most of what war actually involves.
 
-The "new military history" that emerged from the 1960s and 1970s expanded the lens dramatically. It asked different questions: What was it like to be a common soldier in the trenches of World War I? How did war affect civilian populations? What role did logistics, intelligence, and industrial production play? How did race, gender, and class shape military experiences? How did societies mobilize for war, and how did war change those societies?
+The "new military history" that emerged from the 1960s and 1970s expanded the lens dramatically. It asked different questions: What was it like to be a common soldier in the trenches of [World War I](/world-war-i)? How did war affect civilian populations? What role did [logistics](/logistics), intelligence, and industrial production play? How did race, gender, and class shape military experiences? How did societies mobilize for war, and how did war change those societies?
 
 Today, military history is a genuinely broad field — one that intersects with political, social, economic, cultural, and technological history.
 
@@ -53,13 +53,13 @@ The earliest organized warfare we can document archaeologically dates to roughly
 
 The key innovations of ancient warfare were organizational, not technological. The Persian Empire mobilized armies of over 100,000 soldiers from dozens of ethnic groups across a vast territory — a logistical achievement as impressive as any tactical one. Alexander the Great's Macedonian army combined heavy infantry (the phalanx), cavalry, light troops, and siege engineers into a combined-arms force of extraordinary effectiveness.
 
-Rome took military organization to another level. The Roman legionary was a professional soldier — recruited, trained, equipped, and paid by the state — serving a 20-25 year enlistment. The legion's organization (subdivided into cohorts, centuries, and contubernia) provided tactical flexibility that the rigid phalanx couldn't match. Roman military engineering — roads, bridges, fortified camps, siege works — was unmatched in the ancient world.
+Rome took military organization to another level. The Roman legionary was a professional soldier — recruited, trained, equipped, and paid by the state — serving a 20-25 year enlistment. The legion's organization (subdivided into cohorts, centuries, and contubernia) provided tactical flexibility that the rigid phalanx couldn't match. Roman military [engineering](/engineering) — roads, bridges, fortified camps, siege works — was unmatched in the ancient world.
 
 ### Medieval Warfare
 
 The fall of Rome in the west didn't eliminate organized warfare — it changed its character. European medieval warfare was dominated by the armored mounted knight, a one-man weapons platform that required expensive equipment (horse, armor, weapons), years of training, and a feudal economic system to support him.
 
-Castles transformed warfare too. Stone fortifications were incredibly difficult to capture with medieval technology. A well-supplied castle could hold out for months or years against a besieging army. This made warfare predominantly about sieges rather than battles — a fact that movies and popular culture tend to overlook.
+Castles transformed warfare too. Stone fortifications were incredibly difficult to capture with medieval technology. A well-supplied castle could hold out for months or years against a besieging army. This made warfare predominantly about sieges rather than battles — a fact that movies and [popular culture](/popular-culture) tend to overlook.
 
 The Mongol Empire (13th-14th centuries) demonstrated a radically different approach. Mongol cavalry — light, fast, disciplined, and operating across vast distances — conquered the largest contiguous land empire in history. Genghis Khan's armies used mobility, terror, intelligence networks, and sophisticated operational coordination to defeat opponents who often outnumbered them.
 
@@ -69,7 +69,7 @@ Gunpowder, arriving in Europe from China in the 14th century, eventually ended t
 
 The "military revolution" of the 16th and 17th centuries (a concept debated endlessly by historians but useful as shorthand) saw the emergence of standing professional armies, centralized state financing of warfare, fortification systems designed to resist cannons (the star fort), and naval warfare centered on cannon-armed sailing ships.
 
-This era produced some of the most destructive conflicts in European history relative to population. The Thirty Years' War (1618-1648) killed an estimated 8 million people — roughly 20% of the German population. The scale of destruction wouldn't be matched until the world wars.
+This era produced some of the most destructive conflicts in [European history](/european-history) relative to population. The [Thirty Years' War](/thirty-years-war) (1618-1648) killed an estimated 8 million people — roughly 20% of the German population. The scale of destruction wouldn't be matched until the world wars.
 
 Napoleon revolutionized warfare again in the early 19th century. His innovations were partly organizational (the army corps system, which divided armies into self-contained units capable of independent action), partly tactical (massed artillery fire, combined-arms coordination), and partly political (mass conscription, enabled by the French Revolution's nationalist ideology).
 
@@ -83,7 +83,7 @@ World War I (1914-1918) was industrial warfare at its most horrifying. Machine g
 
 ### Mechanized and Total War
 
-World War II (1939-1945) combined mechanized warfare (tanks, aircraft, submarines operating in coordinated campaigns) with industrial mobilization on a scale never seen before — and, hopefully, never again.
+[World War II](/world-war-ii) (1939-1945) combined mechanized warfare (tanks, aircraft, submarines operating in coordinated campaigns) with industrial mobilization on a scale never seen before — and, hopefully, never again.
 
 The numbers are numbing. Roughly 70-85 million dead. Entire cities destroyed by aerial bombardment. The Holocaust. Nuclear weapons used on Hiroshima and Nagasaki. The distinction between combatant and civilian, already eroding in World War I, essentially collapsed.
 
@@ -111,7 +111,7 @@ A distinction worth understanding: strategy is the big picture — why you're fi
 
 The Prussian theorist Carl von Clausewitz, writing in the 1830s, made the most famous observation about strategy: "War is the continuation of politics by other means." In other words, military force is a tool serving political objectives, not an end in itself. When political objectives are unclear or unrealistic, military force tends to fail no matter how well it's employed tactically. Vietnam and Iraq are textbook examples.
 
-Sun Tzu's *The Art of War* (5th century BCE) takes a different angle: the supreme art of war is defeating the enemy without fighting. Deception, intelligence, psychological warfare, and strategic positioning matter more than brute force.
+Sun Tzu's *The Art of War* (5th century BCE) takes a different angle: the supreme art of war is defeating the enemy without fighting. Deception, intelligence, [psychological warfare](/psychological-warfare), and strategic positioning matter more than brute force.
 
 Both perspectives remain foundational. Military academies worldwide still assign Clausewitz and Sun Tzu, and the tensions between their approaches — when to fight and when to avoid fighting, how to connect military means to political ends — remain live questions.
 
@@ -121,4 +121,4 @@ Here's the practical case: wars keep happening. Understanding how they start, ho
 
 The broader case is that military history illuminates human nature under extreme pressure. How do ordinary people behave when they're terrified? How do societies mobilize for collective action? What drives people to extraordinary courage — or terrible cruelty? These are questions that war answers more starkly than almost any other human experience.
 
-Military history isn't a celebration of violence. Done well, it's the opposite — a careful, evidence-based accounting of war's costs that makes it harder to romanticize conflict and easier to understand its consequences.
+Military history isn't a celebration of violence. Done well, it's the opposite — a careful, evidence-based [accounting](/accounting) of war's costs that makes it harder to romanticize conflict and easier to understand its consequences.

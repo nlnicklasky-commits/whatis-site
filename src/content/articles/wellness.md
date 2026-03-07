@@ -5,7 +5,7 @@ description: "Wellness is the active pursuit of overall health across physical, 
 category: health-amp-wellness
 tags: ["wellness", "health", "well-being", "self-care"]
 heroImage: "/images/articles/wellness.webp"
-heroAlt: "A calm scene with healthy food, running shoes, and a journal on a wooden table"
+heroAlt: "Editorial photograph representing the concept of wellness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ The World Health Organization defined health back in 1948 as "a state of complet
 
 ## A Short History of a Long Idea
 
-The concept of wellness isn't new. Ancient healing traditions — Ayurveda (dating back 5,000 years in India), Traditional Chinese Medicine, and Greek medicine under Hippocrates — all treated health as a balance among physical, mental, and spiritual elements. Hippocrates told his patients to eat well and exercise. He was basically a wellness influencer 2,400 years early.
+The concept of wellness isn't new. Ancient healing traditions — Ayurveda (dating back 5,000 years in India), [Traditional Chinese Medicine](/traditional-chinese-medicine), and Greek medicine under Hippocrates — all treated health as a balance among physical, mental, and spiritual elements. Hippocrates told his patients to eat well and exercise. He was basically a wellness influencer 2,400 years early.
 
-The modern wellness movement has more specific origins. In the 1950s, Halbert Dunn, a physician and statistician at the U.S. Public Health Service, coined the term "high-level wellness." His 1961 book argued that health existed on a continuum — from premature death at one end to "high-level wellness" at the other — and that most medicine focused only on treating disease rather than promoting optimal functioning.
+The modern wellness movement has more specific origins. In the 1950s, Halbert Dunn, a physician and statistician at the U.S. [Public Health](/public-health) Service, coined the term "high-level wellness." His 1961 book argued that health existed on a continuum — from premature death at one end to "high-level wellness" at the other — and that most medicine focused only on treating disease rather than promoting optimal functioning.
 
 In the 1970s, Don Ardell and John Travis built on Dunn's work, creating wellness centers and assessment tools. Travis's "Illness-Wellness Continuum" became a foundational model: it showed that neutrality (no symptoms, no disease) sat in the middle, with illness on one side and higher levels of wellness on the other. The implication was clear — being "not sick" wasn't the finish line.
 
@@ -61,7 +61,7 @@ None of this is controversial. The gap between knowing what to do and actually d
 
 Emotional wellness is the ability to understand, express, and manage your feelings — including difficult ones like anger, sadness, and anxiety. It doesn't mean being happy all the time. Emotionally well people still feel bad; they just have the tools to process those feelings without being overwhelmed.
 
-Key practices include stress management (which could mean meditation, therapy, journaling, or just talking to a friend), self-awareness, boundary-setting, and — this one matters more than people think — allowing yourself to feel negative emotions without judgment. Suppressing emotions doesn't eliminate them. It just delays and intensifies them.
+Key practices include stress [management](/management) (which could mean [meditation](/meditation), therapy, journaling, or just talking to a friend), self-awareness, boundary-setting, and — this one matters more than people think — allowing yourself to feel negative emotions without judgment. Suppressing emotions doesn't eliminate them. It just delays and intensifies them.
 
 ### Social Wellness
 
@@ -73,7 +73,7 @@ Social wellness means having meaningful relationships, a sense of belonging, and
 
 Intellectual wellness involves keeping your mind engaged — learning new skills, reading, solving problems, engaging with ideas. It's the dimension that keeps your brain sharp and your life interesting.
 
-The research on cognitive engagement is compelling. The "cognitive reserve" hypothesis suggests that people who continuously challenge their minds build neural pathways that provide a buffer against age-related cognitive decline. A 2013 study in *Neurology* found that people who engaged in intellectually stimulating activities throughout life had slower rates of cognitive decline in old age.
+The research on cognitive engagement is compelling. The "cognitive reserve" hypothesis suggests that people who continuously challenge their minds build neural pathways that provide a buffer against age-related cognitive decline. A 2013 study in *[Neurology](/neurology)* found that people who engaged in intellectually stimulating activities throughout life had slower rates of cognitive decline in old age.
 
 ### Spiritual Wellness
 
@@ -107,17 +107,17 @@ Here's where things get tricky. The core of wellness — exercise, sleep, nutrit
 
 **Well-supported:** Regular physical activity, adequate sleep, Mediterranean-style diets, mindfulness meditation, cognitive behavioral therapy, strong social relationships, moderate alcohol consumption (or none), not smoking.
 
-**Mixed evidence:** Many supplements (some help specific deficiencies; most do nothing for well-nourished people), acupuncture (some evidence for pain management; less for other claims), yoga for specific conditions (strong for back pain and anxiety; weaker for other claims).
+**Mixed evidence:** Many supplements (some help specific deficiencies; most do nothing for well-nourished people), [acupuncture](/acupuncture) (some evidence for pain management; less for other claims), yoga for specific conditions (strong for back pain and anxiety; weaker for other claims).
 
-**Little or no evidence:** Detox cleanses (your liver and kidneys handle detoxification), crystal healing, most "superfood" marketing claims, colonic irrigation, ear candling.
+**Little or no evidence:** Detox cleanses (your liver and kidneys handle detoxification), crystal healing, most "superfood" [marketing](/marketing) claims, colonic [irrigation](/irrigation), ear candling.
 
 The wellness industry's financial incentives don't always align with scientific evidence. A product that genuinely works — like walking 30 minutes a day — is free and therefore unprofitable. A $90 adaptogenic mushroom blend with vague health claims generates revenue. This creates a natural bias toward selling products and away from recommending the free, boring basics.
 
 ## Practical Wellness: What Actually Works
 
-If you strip away the marketing, the supplements, and the Instagram aesthetics, wellness comes down to a handful of habits that research consistently supports:
+If you strip away the marketing, the supplements, and the Instagram [aesthetics](/aesthetics), wellness comes down to a handful of habits that research consistently supports:
 
-**Move your body regularly.** 150 minutes of moderate activity per week. Walking counts. So does gardening, dancing, or playing with your kids.
+**Move your body regularly.** 150 minutes of moderate activity per week. Walking counts. So does [gardening](/gardening), dancing, or playing with your kids.
 
 **Sleep 7-9 hours.** Non-negotiable. Sleep deprivation undermines every other dimension of wellness.
 

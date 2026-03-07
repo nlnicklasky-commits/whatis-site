@@ -5,7 +5,7 @@ description: "Evolutionary biology studies how life changes over generations thr
 category: science
 tags: ["evolutionary biology", "evolution", "biology", "natural selection", "genetics", "adaptation", "speciation"]
 heroImage: "/images/articles/evolutionary-biology-hero.webp"
-heroAlt: "Fossil record showing progression of ancient organisms illustrating evolutionary change"
+heroAlt: "Editorial photograph representing the concept of evolutionary biology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -136,13 +136,13 @@ Fossils document the progression of life from simple to complex forms, with tran
 
 The fossil record isn't complete (fossilization is rare), but what exists consistently matches evolutionary predictions. You never find a rabbit fossil in Precambrian rock, as J.B.S. Haldane noted.
 
-### Comparative Anatomy
+### [Comparative Anatomy](/comparative-anatomy)
 
 Homologous structures — the human arm, whale flipper, bat wing, and horse leg all share the same bone arrangement (humerus, radius, ulna, carpals, metacarpals, phalanges) despite serving different functions. This makes sense if they inherited the arrangement from a common ancestor and modified it for different uses. It makes no sense if each was designed independently.
 
 Vestigial structures — the human appendix, wisdom teeth, whale pelvis bones, flightless bird wings — are remnants of structures that served functions in ancestors but no longer do. Evolution predicts these; independent design doesn't.
 
-### Molecular Biology
+### [Molecular Biology](/molecular-biology)
 
 DNA comparisons reveal exactly the patterns evolutionary theory predicts. Closely related species have more similar DNA than distantly related ones. The family tree derived from DNA matches the family tree derived from [anatomy](/anatomy) and the fossil record. Shared "broken" genes (pseudogenes) in related species — like the gene for vitamin C synthesis, broken in the same way in all primates — provide powerful evidence for common descent.
 
@@ -156,7 +156,7 @@ We watch evolution happen. Bacteria evolve antibiotic resistance. Insects evolve
 
 Richard Lenski's Long-Term Evolution Experiment, running since 1988 with *E. coli*, has documented evolution of new metabolic capabilities, increased fitness, and other evolutionary changes over more than 75,000 generations.
 
-## Human Evolution
+## [Human Evolution](/human-evolution)
 
 Humans are products of evolution like every other species. The evidence is extensive:
 
@@ -188,7 +188,7 @@ A few persistent misunderstandings worth clearing up:
 
 **Individuals don't evolve.** Populations evolve. An individual organism doesn't change its genes during its lifetime (mutations in body cells aside). Evolution is a population-level phenomenon.
 
-**Evolution doesn't violate the second law of thermodynamics.** Earth isn't a closed system — it receives energy from the sun. Local decreases in entropy (increasing biological complexity) are powered by solar energy input, fully consistent with thermodynamics.
+**Evolution doesn't violate the second law of [thermodynamics](/thermodynamics).** Earth isn't a closed system — it receives energy from the sun. Local decreases in entropy (increasing biological complexity) are powered by solar energy input, fully consistent with thermodynamics.
 
 ## The Future of Evolutionary Biology
 

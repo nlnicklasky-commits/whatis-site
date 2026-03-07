@@ -5,7 +5,7 @@ description: "Beer brewing is the process of making beer by steeping grain in wa
 category: everyday-concepts
 tags: ["beer brewing", "brewing", "beer", "hops", "malt", "yeast"]
 heroImage: "/images/articles/beer-brewing.webp"
-heroAlt: "Copper brewing kettles in a craft brewery with steam rising and bags of grain nearby"
+heroAlt: "Editorial photograph representing the concept of beer brewing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Beer's simplicity is deceptive. Four ingredients — water, grain, hops, and yea
 
 **Malt** — grain (usually barley) that has been germinated and then kiln-dried — provides fermentable sugars and flavor. Pale malts give light color and mild flavor. Crystal malts add caramel sweetness. Roasted malts produce the dark color and coffee/chocolate notes in stouts and porters. The degree of kilning determines the malt's character.
 
-**Hops** — the cone-shaped flowers of *Humulus lupulus* — provide bitterness to balance malt sweetness, plus flavor and aroma ranging from floral and citrusy to piney and tropical. Hops added early in the boil contribute bitterness; hops added late contribute aroma. The craft beer revolution dramatically increased hop variety and usage.
+**Hops** — the cone-shaped flowers of *Humulus lupulus* — provide bitterness to balance malt sweetness, plus flavor and aroma ranging from floral and citrusy to piney and tropical. Hops added early in the boil contribute bitterness; hops added late contribute aroma. The [craft beer](/craft-beer) revolution dramatically increased hop variety and usage.
 
 **Yeast** — single-celled fungi that eat sugar and produce alcohol and CO2 — is where the magic happens. Different yeast strains produce different flavor compounds (esters, phenols), and the choice between ale yeast and lager yeast is the most fundamental decision in brewing.
 

@@ -5,7 +5,7 @@ description: "Tai chi is a Chinese martial art practiced with slow, flowing move
 category: everyday-concepts
 tags: ["tai chi", "martial arts", "meditation", "exercise", "Chinese culture", "wellness"]
 heroImage: "/images/articles/tai-chi.webp"
-heroAlt: "A group of people practicing tai chi in a park at sunrise"
+heroAlt: "Editorial photograph representing the concept of tai chi"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Tai Chi?
 
-Tai chi (also written as taiji or t'ai chi ch'uan) is a Chinese martial art practiced with slow, deliberate, flowing movements coordinated with deep breathing and mental focus. From the outside, it looks like meditation in motion — and in many ways, that's exactly what it is.
+Tai chi (also written as taiji or t'ai chi ch'uan) is a Chinese martial art practiced with slow, deliberate, flowing movements coordinated with deep breathing and mental focus. From the outside, it looks like [meditation](/meditation) in motion — and in many ways, that's exactly what it is.
 
 But here's what most people miss: every graceful movement in tai chi is a martial technique. That slow arm sweep is a block. That gentle weight shift is setting up a throw. That delicate hand gesture is targeting a pressure point. Tai chi is a martial art dressed in the clothing of moving meditation, and it works beautifully as both.
 
@@ -39,7 +39,7 @@ But here's what most people miss: every graceful movement in tai chi is a martia
 
 Tai chi's origin story is partly historical, partly legendary. The traditional account attributes its creation to Zhang Sanfeng, a Taoist monk who supposedly lived in the 12th or 13th century and was inspired by watching a crane fight a snake. That's almost certainly mythological.
 
-The verifiable history begins with the Chen family in Chenjiagou village, Henan Province, in the 17th century. Chen Wangting (1580-1660) is generally credited with developing the Chen-style tai chi that all later styles descend from. The practice blended martial techniques with principles from [Chinese](/chinese-history) philosophy, traditional medicine, and Taoist meditation.
+The verifiable history begins with the Chen family in Chenjiagou village, Henan Province, in the 17th century. Chen Wangting (1580-1660) is generally credited with developing the Chen-style tai chi that all later styles descend from. The practice blended martial techniques with principles from [Chinese](/chinese-history) [philosophy](/philosophy), traditional medicine, and Taoist meditation.
 
 ## The Major Styles
 
@@ -57,7 +57,7 @@ A compact, smaller-frame style with a distinctive forward-leaning posture. Empha
 
 ### Sun Style
 
-The newest major style, created by Sun Lutang in the early 20th century. It incorporates elements of other internal martial arts (xingyi and bagua) and uses a higher stance and agile footwork. Often recommended for beginners and those with mobility limitations.
+The newest major style, created by Sun Lutang in the early 20th century. It incorporates elements of other internal [martial arts](/martial-arts) (xingyi and bagua) and uses a higher stance and agile footwork. Often recommended for beginners and those with mobility limitations.
 
 ## How Practice Works
 
@@ -77,13 +77,13 @@ Tai chi has more scientific research backing its health benefits than almost any
 
 **Fall prevention** — Multiple systematic reviews confirm tai chi reduces falls in older adults by 20-40%. A 2019 study in *JAMA Internal Medicine* found tai chi more effective than conventional exercise programs for fall prevention.
 
-**Pain management** — Research shows benefits for osteoarthritis, fibromyalgia, and chronic low back pain. The American College of Rheumatology conditionally recommends tai chi for knee and hip osteoarthritis.
+**Pain [management](/management)** — Research shows benefits for osteoarthritis, fibromyalgia, and chronic low back pain. The American College of [Rheumatology](/rheumatology) conditionally recommends tai chi for knee and hip osteoarthritis.
 
 **Cardiovascular health** — Studies show tai chi lowers blood pressure, improves heart rate variability, and reduces cardiovascular risk factors.
 
-**Mental health** — Research supports benefits for depression, anxiety, and stress reduction. A 2020 systematic review found tai chi significantly reduced depressive symptoms.
+**[Mental health](/mental-health)** — Research supports benefits for depression, anxiety, and stress reduction. A 2020 systematic review found tai chi significantly reduced depressive symptoms.
 
-**Balance and mobility** — Consistent improvements in balance, gait speed, and functional mobility, particularly in [older adults](/exercise-physiology).
+**Balance and mobility** — Consistent improvements in balance, gait speed, and functional mobility, particularly in [older adults](/exercise-[physiology](/physiology)).
 
 **Cognitive function** — Emerging evidence suggests tai chi may improve memory, executive function, and processing speed.
 

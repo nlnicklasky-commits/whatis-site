@@ -5,7 +5,7 @@ description: "Paleozoology studies fossil animals to reconstruct ancient ecosyst
 category: science
 tags: ["paleozoology", "fossil animals", "paleontology", "zoology", "animal evolution", "paleoecology"]
 heroImage: "/images/articles/paleozoology-hero.webp"
-heroAlt: "Collection of fossil animal specimens including trilobites, ammonites, and vertebrate bones"
+heroAlt: "Editorial photograph representing the concept of paleozoology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

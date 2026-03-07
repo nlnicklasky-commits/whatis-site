@@ -5,7 +5,7 @@ description: "Roman law is the legal system of ancient Rome that shaped Western 
 category: history
 tags: ["roman legal system", "ancient law", "jurisprudence", "civil law"]
 heroImage: "/images/articles/roman-law.webp"
-heroAlt: "Ancient Roman stone tablets and scrolls representing the foundations of Roman legal tradition"
+heroAlt: "Editorial photograph representing the concept of roman law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Roman law is the legal system developed in ancient Rome between roughly 753 BCE and 565 CE, spanning the Kingdom, Republic, and Empire periods. Its principles — contracts, property rights, due process, legal equality — form the backbone of most Western legal systems today, and frankly, a surprising number of non-Western ones too.
 
-You probably interact with concepts from Roman law daily without realizing it. Signed a contract recently? Roman idea. Own property? Roman framework. Got sued? The entire structure of civil litigation traces back to Roman courts. About 150 countries today operate under civil law systems directly descended from Roman jurisprudence.
+You probably interact with concepts from Roman law daily without realizing it. Signed a contract recently? Roman idea. Own property? Roman framework. Got sued? The entire structure of civil litigation traces back to Roman courts. About 150 countries today operate under [civil law](/civil-law) systems directly descended from Roman [jurisprudence](/jurisprudence).
 
 ## How Roman Law Actually Started
 
@@ -43,7 +43,7 @@ They weren't always fair.
 
 The plebeians pushed back. After years of political struggle, they demanded written laws. The result was the Twelve Tables, created around 450 BCE. A commission of ten men traveled to Athens to study Greek law, came back, and produced twelve bronze tablets inscribed with Rome's first written legal code.
 
-The content was practical — rules about property boundaries, inheritance, debt collection, assault, and funeral rites. Nothing philosophical. But the act of writing laws down and displaying them publicly was radical. It meant ordinary people could point to a specific rule and say, "You're breaking this law." That shift — from secret priestly knowledge to public written code — changed everything.
+The content was practical — rules about property boundaries, inheritance, debt collection, assault, and funeral rites. Nothing philosophical. But the act of [writing](/writing) laws down and displaying them publicly was radical. It meant ordinary people could point to a specific rule and say, "You're breaking this law." That shift — from secret priestly knowledge to public written code — changed everything.
 
 The Twelve Tables weren't sophisticated by later standards. Some provisions were harsh. If you owed someone money and couldn't pay, your creditor could legally chain you up. But they established a principle that would echo through millennia: law should be knowable, public, and applied consistently.
 
@@ -59,15 +59,15 @@ The jurists developed key distinctions that still matter today:
 
 - **Jus civile** — law for Roman citizens, covering domestic matters like marriage, inheritance, and contracts between citizens
 - **Jus gentium** — law of nations, governing interactions with foreigners and based on principles considered universally fair
-- **Jus naturale** — natural law, the idea that certain rights exist by nature, independent of any government
+- **Jus naturale** — natural law, the idea that certain rights exist by nature, independent of any [government](/government)
 
-That last category is particularly interesting. The Stoic [philosophy](/stoicism) popular among educated Romans taught that reason governed the universe, and that rational humans could discover universal moral principles. This philosophical conviction — that some laws are higher than any human decree — fed directly into later ideas about human rights, constitutional limits on power, and international law.
+That last category is particularly interesting. The Stoic [philosophy](/stoicism) popular among educated Romans taught that reason governed the universe, and that rational humans could discover universal moral principles. This philosophical conviction — that some laws are higher than any human decree — fed directly into later ideas about human rights, constitutional limits on power, and [international law](/international-law).
 
 ## The Imperial Period and Professional Law
 
 When Augustus established the Empire in 27 BCE, law changed again. The emperor became the ultimate source of legal authority. Imperial decrees, called *constitutiones*, carried the force of law. But the jurists didn't disappear — they became even more important.
 
-The great jurists of the imperial era produced staggering amounts of legal writing. Gaius, Papinian, Ulpian, Paul, and Modestinus — these five were so respected that a law in 426 CE (the "Law of Citations") declared their writings could be cited as authoritative in court, with disputes settled by majority opinion.
+The great jurists of the imperial era produced staggering amounts of [legal writing](/legal-writing). Gaius, Papinian, Ulpian, Paul, and Modestinus — these five were so respected that a law in 426 CE (the "Law of Citations") declared their writings could be cited as authoritative in court, with disputes settled by majority opinion.
 
 Some of their ideas are worth pausing on:
 
@@ -75,7 +75,7 @@ Some of their ideas are worth pausing on:
 
 **Obligations and contracts.** The Romans identified four sources of legal obligations: contracts, quasi-contracts, delicts (wrongs), and quasi-delicts. They classified contracts into categories based on how they formed — by agreement, by delivery of a thing, by words, or by writing. If you've taken a contracts class in law school, this framework will look very familiar.
 
-**Property distinctions.** Roman law distinguished between ownership (*dominium*) and possession, between movable and immovable property, and between private and public property. These categories structure property law in most countries today.
+**Property distinctions.** Roman law distinguished between ownership (*dominium*) and possession, between movable and immovable property, and between private and public property. These categories structure [property law](/property-law) in most countries today.
 
 ## Justinian's Big Project
 
@@ -92,7 +92,7 @@ It had four parts:
 
 The Digest alone contained about 9,000 excerpts from 39 different jurists. Tribonian's commission reportedly reviewed over 2,000 books totaling 3 million lines of text to produce it. The organizational effort was staggering.
 
-Here's the weird part: this compilation almost disappeared. In western Europe, as the Roman Empire collapsed, legal education declined. But the Corpus Juris Civilis survived in the Byzantine Empire and was rediscovered in western Europe around 1070 CE in Bologna, Italy. Its rediscovery kicked off a legal revolution.
+Here's the weird part: this compilation almost disappeared. In western Europe, as the Roman Empire collapsed, legal [education](/education) declined. But the Corpus Juris Civilis survived in the Byzantine Empire and was rediscovered in western Europe around 1070 CE in Bologna, Italy. Its rediscovery kicked off a legal revolution.
 
 ## The Revival — Bologna and Beyond
 
@@ -129,7 +129,7 @@ Some Roman innovations are so deeply embedded in modern law that we forget they 
 
 **Precedent.** While Roman law wasn't a precedent-based system like common law, the jurists regularly cited earlier opinions and decisions. The practice of looking to past interpretations for guidance is older than people think.
 
-**Good faith.** The concept of *bona fides* — that parties to a contract should deal honestly with each other — became a foundational principle. It appears in virtually every modern contract law system.
+**Good faith.** The concept of *bona fides* — that parties to a contract should deal honestly with each other — became a foundational principle. It appears in virtually every modern [contract law](/contract-law) system.
 
 **Unjust enrichment.** If you benefit at someone else's expense without legal justification, you have to give it back. The Romans called this a quasi-contract, and the principle remains active in every Western legal system.
 

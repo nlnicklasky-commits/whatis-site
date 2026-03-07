@@ -5,7 +5,7 @@ description: "Management information systems (MIS) use technology to help organi
 category: technology
 tags: ["management information systems", "mis", "information technology", "business", "data management", "erp", "decision support"]
 heroImage: "/images/articles/management-information-systems-hero.webp"
-heroAlt: "Dashboard display showing business analytics, data charts, and organizational information flow"
+heroAlt: "Editorial photograph representing the concept of management information systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ SAP, Oracle, and Microsoft Dynamics dominate the ERP market. SAP alone runs the 
 
 **Customer Relationship Management (CRM)**: Systems that manage interactions with customers and prospects. Salesforce is the dominant player, with over 150,000 customers. CRM tracks every customer touchpoint — sales calls, emails, support tickets, purchases — providing a 360-degree view of each customer relationship.
 
-**Supply Chain Management (SCM)**: Software that coordinates the flow of materials, information, and finances across the supply chain — from raw material suppliers through manufacturing to final delivery. Effective SCM reduces inventory costs, shortens lead times, and improves responsiveness to demand changes. This intersects heavily with [logistics](/logistics) operations.
+**[Supply Chain Management](/supply-chain-management) (SCM)**: Software that coordinates the flow of materials, information, and finances across the supply chain — from raw material suppliers through manufacturing to final delivery. Effective SCM reduces inventory costs, shortens lead times, and improves responsiveness to demand changes. This intersects heavily with [logistics](/logistics) operations.
 
 **Business Intelligence (BI) and Analytics**: Tools that transform raw data into actionable insights. BI platforms (Tableau, Power BI, Looker) create dashboards, reports, and visualizations that help managers understand what's happening in the business. Advanced analytics applies statistical and machine learning techniques to predict future trends and optimize decisions.
 
@@ -181,7 +181,7 @@ The cybersecurity workforce gap exceeds 3.4 million unfilled positions globally 
 
 ### Artificial Intelligence and Machine Learning
 
-AI is transforming MIS from passive information delivery to active decision support. Chatbots handle customer inquiries. Machine learning models detect fraud in financial transactions. Natural language processing extracts insights from unstructured text. Computer vision automates quality inspection in manufacturing.
+AI is transforming MIS from passive information delivery to active decision support. Chatbots handle customer inquiries. Machine learning models detect fraud in financial transactions. [Natural language processing](/natural-language-processing) extracts insights from unstructured text. Computer vision automates quality inspection in manufacturing.
 
 The integration of AI into business processes is creating demand for MIS professionals who understand both the capabilities and limitations of AI — people who can identify where AI adds value, manage data pipelines, interpret model outputs, and ensure responsible deployment.
 

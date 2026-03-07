@@ -5,7 +5,7 @@ description: "Gemology is the science of identifying, grading, and valuing gemst
 category: everyday-concepts
 tags: ["gemology", "gemstones", "diamonds", "minerals", "jewelry", "geology"]
 heroImage: "/images/articles/gemology.webp"
-heroAlt: "Cut and polished gemstones of various colors displayed on dark velvet"
+heroAlt: "Editorial photograph representing the concept of gemology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Gemology?
 
-Gemology (also spelled gemmology) is the scientific study of gemstones — their identification, grading, evaluation, and origin determination. It combines elements of geology, mineralogy, chemistry, physics, and optics to understand what makes a gem valuable, how to distinguish natural from synthetic stones, and how to detect treatments and imitations. In a market where a single stone can be worth millions of dollars, the gemologist's expertise is the difference between confidence and catastrophe.
+Gemology (also spelled gemmology) is the scientific study of gemstones — their identification, grading, evaluation, and origin determination. It combines elements of [geology](/geology), [mineralogy](/mineralogy), [chemistry](/chemistry), [physics](/physics), and [optics](/optics) to understand what makes a gem valuable, how to distinguish natural from synthetic stones, and how to detect treatments and imitations. In a market where a single stone can be worth millions of dollars, the gemologist's expertise is the difference between confidence and catastrophe.
 
 ## What Makes a Gem
 
@@ -51,7 +51,7 @@ A gemstone is any mineral, rock, or organic material that's been cut and polishe
 
 Beyond the Big Three, dozens of gem species are commercially significant: tourmaline, garnet, spinel, tanzanite, aquamarine, opal, jade, alexandrite, and many more. Some are discovered recently — Paraiba tourmaline, found in Brazil in 1989, is a neon blue-green stone that immediately became one of the most valuable gems per carat.
 
-**Organic gems** include pearl (formed inside mollusks), amber (fossilized tree resin), coral, and jet (fossilized wood). These aren't minerals but are treated as gemstones by the trade.
+**Organic gems** include pearl (formed inside mollusks), amber (fossilized tree resin), coral, and jet (fossilized wood). These aren't minerals but are treated as gemstones by the [trade](/trade).
 
 ## The Science
 
@@ -89,4 +89,4 @@ Consumer attitudes have shifted rapidly. Lab-grown diamonds represented approxim
 
 The GIA Graduate Gemologist (GG) diploma is the gold standard credential, requiring approximately 6-12 months of study covering gem identification, diamond grading, and colored stone grading. Other programs include the Gemmological Association of Great Britain (FGA) and the American Gem Society.
 
-Career paths include retail jewelry, auction houses, gem laboratories, mining companies, insurance appraisal, and independent dealing. The combination of science, aesthetics, and commerce makes gemology unusual — and for those drawn to the sparkle, genuinely fascinating.
+Career paths include retail jewelry, auction houses, gem laboratories, mining companies, [insurance](/insurance) appraisal, and independent dealing. The combination of science, [aesthetics](/aesthetics), and commerce makes gemology unusual — and for those drawn to the sparkle, genuinely fascinating.

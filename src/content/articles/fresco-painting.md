@@ -5,7 +5,7 @@ description: "Fresco painting applies pigment to wet plaster, creating durable w
 category: everyday-concepts
 tags: ["fresco painting", "mural art", "Renaissance art", "Michelangelo", "wall painting", "art history"]
 heroImage: "/images/articles/fresco-painting.webp"
-heroAlt: "Ornate fresco painting on a domed cathedral ceiling with vibrant colors"
+heroAlt: "Editorial photograph representing the concept of fresco painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,23 +29,23 @@ faq:
     a: "Michelangelo painted the Sistine Chapel ceiling from 1508 to 1512 — roughly four years. He worked on scaffolding about 60 feet above the floor, painting overhead in an awkward posture that permanently damaged his back and neck. The ceiling covers approximately 5,800 square feet and includes over 300 figures."
 ---
 
-# What Is Fresco Painting?
+# What Is Fresco [Painting](/painting)?
 
 Fresco painting is a mural technique where pigments are applied to freshly laid wet plaster (called *intonaco*). As the plaster dries, a chemical reaction bonds the pigments into the wall surface itself — the colors literally become part of the wall. This makes true fresco (buon fresco) one of the most durable painting techniques ever developed. Roman frescoes in Pompeii, buried under volcanic ash in 79 CE, still show vivid colors nearly two thousand years later.
 
 ## How It Works
 
-The chemistry is elegantly simple. Wet plaster contains calcium hydroxide. As it dries, it absorbs carbon dioxide from the air and converts to calcium carbonate — essentially, it turns back into limestone. Pigments applied to wet plaster get trapped in this crystalline matrix as it forms. The result is color that's embedded in stone rather than sitting on a surface.
+The [chemistry](/chemistry) is elegantly simple. Wet plaster contains calcium hydroxide. As it dries, it absorbs carbon dioxide from the air and converts to calcium carbonate — essentially, it turns back into limestone. Pigments applied to wet plaster get trapped in this crystalline matrix as it forms. The result is color that's embedded in stone rather than sitting on a surface.
 
 The process demands speed and precision. The plasterer applies a fresh section of intonaco each day — only as much as the painter can complete before the plaster dries (typically 8-12 hours, called a *giornata* — "a day's work"). Once the plaster sets, you can't paint into it anymore. You get one shot.
 
-This means the painter must work confidently and decisively. There's no going back. You can't repaint a section like you can with oil painting. Mistakes are permanent — or require chipping away the plaster and starting that section over.
+This means the painter must work confidently and decisively. There's no going back. You can't repaint a section like you can with [oil painting](/oil-painting). Mistakes are permanent — or require chipping away the plaster and starting that section over.
 
 **Pigment selection** is limited. Only mineral pigments that are stable in the alkaline environment of wet lime plaster work for true fresco. Earth pigments (ochres, siennas, umbers), along with some synthetic minerals, are standard. Some colors — like blue — are chemically incompatible with wet plaster and must be applied *a secco* (on dry plaster) afterward. This is why blue areas in frescoes often deteriorate faster than other colors.
 
 ## The Process Step by Step
 
-**Arriccio** — the rough base coat of plaster is applied to the wall. On this surface, the painter creates a full-scale preparatory drawing called a **sinopia** (named after the red pigment from Sinope, Turkey, traditionally used for these drawings). Some sinopias, revealed when deteriorated frescoes were removed for conservation, are stunning works of art in their own right.
+**Arriccio** — the rough base coat of plaster is applied to the wall. On this surface, the painter creates a full-scale preparatory [drawing](/drawing) called a **sinopia** (named after the red pigment from Sinope, Turkey, traditionally used for these drawings). Some sinopias, revealed when deteriorated frescoes were removed for conservation, are stunning works of art in their own right.
 
 **Cartoons** — in the Renaissance, painters increasingly used full-scale cartoons (detailed drawings on paper) instead of sinopias. The cartoon was pressed against the wet plaster and the outlines transferred by either pricking holes along the lines and dusting charcoal through them (pouncing) or incising the lines directly into the wet plaster with a stylus.
 
@@ -55,11 +55,11 @@ This means the painter must work confidently and decisively. There's no going ba
 
 ## The Greatest Frescoes
 
-**The Sistine Chapel ceiling** (1508-1512) by Michelangelo is the most famous fresco in the world. Over 5,800 square feet of ceiling, Michelangelo painted nine scenes from Genesis, including the iconic *Creation of Adam*. He worked on scaffolding of his own design, painting overhead in a position that left him with permanent physical problems. The recent restoration (1980-1999) revealed colors far more vivid than centuries of candle soot had obscured.
+**The Sistine Chapel ceiling** (1508-1512) by Michelangelo is the most famous fresco in the world. Over 5,800 square feet of ceiling, Michelangelo painted nine scenes from Genesis, including the iconic *Creation of Adam*. He worked on [scaffolding](/scaffolding) of his own design, painting overhead in a position that left him with permanent physical problems. The recent restoration (1980-1999) revealed colors far more vivid than centuries of candle soot had obscured.
 
-**Raphael's School of Athens** (1509-1511) in the Vatican's Apostolic Palace depicts ancient Greek philosophers gathered in an idealized classical architecture. Plato (painted with Leonardo da Vinci's face) and Aristotle stand at the center. It's a masterpiece of perspective, composition, and humanist idealism.
+**Raphael's School of Athens** (1509-1511) in the Vatican's Apostolic Palace depicts ancient Greek philosophers gathered in an idealized classical [architecture](/architecture). Plato (painted with Leonardo da Vinci's face) and Aristotle stand at the center. It's a masterpiece of perspective, composition, and humanist idealism.
 
-**Giotto's Scrovegni Chapel** frescoes (c. 1305) in Padua represent a turning point in Western art. Giotto's figures show emotion, weight, and spatial depth that broke from the flat, stylized Byzantine tradition. Many art historians consider these frescoes the beginning of the Renaissance.
+**Giotto's Scrovegni Chapel** frescoes (c. 1305) in Padua represent a turning point in [Western art](/western-art). Giotto's figures show emotion, weight, and spatial depth that broke from the flat, stylized Byzantine tradition. Many art historians consider these frescoes the beginning of the Renaissance.
 
 **Pompeian frescoes** (before 79 CE) preserve an extraordinary record of Roman painting. Styles range from architectural illusions (paintings that look like extensions of the room) to mythological scenes, garden views, and still lifes. They demonstrate that fresco technique was highly developed well before the Renaissance.
 

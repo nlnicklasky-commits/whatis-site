@@ -5,7 +5,7 @@ description: "Volcanology is the study of volcanoes, lava, magma, and eruptions.
 category: science
 tags: ["volcanology", "geology", "earth science", "natural hazards"]
 heroImage: "/images/articles/volcanology.webp"
-heroAlt: "Active volcano erupting at night with glowing lava flows and ash plume against a dark sky"
+heroAlt: "Editorial photograph representing the concept of volcanology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -131,7 +131,7 @@ Satellite-based thermal sensors detect heat anomalies at volcanic craters — ne
 
 ### Integration
 
-No single monitoring technique is sufficient. Modern volcano observatories — like the USGS Cascades Volcano Observatory, the Hawaiian Volcano Observatory, and Japan's volcano monitoring network — integrate seismic, deformation, gas, thermal, and visual data into multi-parameter systems. Machine learning is increasingly used to identify patterns across these datasets that human analysts might miss.
+No single monitoring technique is sufficient. Modern volcano observatories — like the USGS Cascades Volcano Observatory, the Hawaiian Volcano Observatory, and Japan's volcano monitoring network — integrate seismic, deformation, gas, thermal, and visual data into multi-parameter systems. [Machine learning](/machine-learning) is increasingly used to identify patterns across these datasets that human analysts might miss.
 
 ## Famous Eruptions in History
 
@@ -151,15 +151,15 @@ Volcanic eruptions affect climate through two main mechanisms.
 
 **Stratospheric aerosols.** Large eruptions inject sulfur dioxide into the stratosphere (above ~15 km altitude), where it converts to sulfuric acid aerosol droplets. These aerosols reflect incoming sunlight, cooling the planet. The effect is temporary — the aerosols settle out within 1-3 years — but significant. Pinatubo's cooling effect was measurable by satellite.
 
-**Long-term carbon cycling.** Over geological timescales, volcanic CO₂ emissions are a major input to Earth's carbon cycle. Without volcanic outgassing, atmospheric CO₂ would eventually be drawn down by weathering and biological processes. Volcanoes maintain the greenhouse effect that keeps Earth habitable. However, current human CO₂ emissions are roughly 100 times greater than all volcanic CO₂ emissions combined — so volcanoes aren't causing modern climate change.
+**Long-term carbon [cycling](/cycling).** Over geological timescales, volcanic CO₂ emissions are a major input to Earth's carbon cycle. Without volcanic outgassing, atmospheric CO₂ would eventually be drawn down by weathering and biological processes. Volcanoes maintain the greenhouse effect that keeps Earth habitable. However, current human CO₂ emissions are roughly 100 times greater than all volcanic CO₂ emissions combined — so volcanoes aren't causing modern climate change.
 
 ## Volcanology as a Career
 
-Volcanology is a specialization within [earth science](/earth-science) and [geophysics](/geophysics). Most volcanologists hold a PhD in geology, geophysics, geochemistry, or a related field. The educational path typically includes a bachelor's in geology or physics, followed by graduate research focused on volcanic processes.
+Volcanology is a specialization within [earth science](/earth-science) and [geophysics](/geophysics). Most volcanologists hold a PhD in geology, geophysics, [geochemistry](/geochemistry), or a related field. The educational path typically includes a bachelor's in geology or physics, followed by graduate research focused on volcanic processes.
 
-The work combines fieldwork (often in remote and sometimes dangerous locations), laboratory analysis (petrology, geochemistry, isotope analysis), and computational modeling. Field volcanologists collect samples from active craters, deploy monitoring instruments, and map volcanic deposits. Some of the field conditions are genuinely extreme — working near active lava flows, climbing active volcanoes, or sampling gases from fumaroles at temperatures exceeding 600°C.
+The work combines fieldwork (often in remote and sometimes dangerous locations), laboratory analysis ([petrology](/petrology), geochemistry, isotope analysis), and computational modeling. Field volcanologists collect samples from active craters, deploy monitoring instruments, and map volcanic deposits. Some of the field conditions are genuinely extreme — working near active lava flows, climbing active volcanoes, or sampling gases from fumaroles at temperatures exceeding 600°C.
 
-Employment opportunities exist at universities, government geological surveys (USGS, British Geological Survey, GNS Science New Zealand), volcano observatories, and increasingly in the insurance and risk assessment industries.
+Employment opportunities exist at universities, [government](/government) geological surveys (USGS, British Geological Survey, GNS Science New Zealand), volcano observatories, and increasingly in the [insurance](/insurance) and risk assessment industries.
 
 The field has a notable mortality rate. Since 1979, over 30 volcanologists have been killed by volcanic eruptions while conducting fieldwork — including the husband-and-wife team Maurice and Katia Krafft, killed by a pyroclastic flow at Mount Unzen in Japan in 1991. The risks are real, and volcanologists are acutely aware that the phenomena they study can kill them.
 

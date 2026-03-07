@@ -5,7 +5,7 @@ description: "Biophysics uses physics methods to study biological systems. Learn
 category: science
 tags: ["biophysics", "physics", "biology", "molecular biology", "protein folding", "cell membrane", "sensory perception"]
 heroImage: "/images/articles/biophysics-hero.webp"
-heroAlt: "Computer simulation of a protein molecule folding into its three-dimensional structure"
+heroAlt: "Editorial photograph representing the concept of biophysics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,11 +39,11 @@ Biophysics is the interdisciplinary science that applies the theories, methods, 
 
 ## Why Biology Needs Physics
 
-Biology is full of phenomena that look like engineering problems in disguise. Cells pump ions against concentration gradients — that's thermodynamics. DNA stores information in a linear code — that's information theory. Muscles convert chemical energy to mechanical work — that's a heat engine. Photoreceptors detect individual photons — that's quantum mechanics.
+Biology is full of phenomena that look like engineering problems in disguise. Cells pump ions against concentration gradients — that's thermodynamics. DNA stores information in a linear code — that's [information theory](/information-theory). Muscles convert chemical energy to mechanical work — that's a heat engine. Photoreceptors detect individual photons — that's quantum mechanics.
 
 For most of biology's history, these physical aspects were acknowledged but not deeply explored. Biologists focused on identifying the molecules and describing what they did. Biophysicists go further, asking how and why the physics makes it work.
 
-Here's a concrete example. Every biology student learns that hemoglobin carries oxygen in the blood. A biochemist can tell you the molecular structure of hemoglobin and the chemistry of oxygen binding. A biophysicist asks: Why does hemoglobin bind oxygen cooperatively — why does binding the first oxygen molecule make binding the second, third, and fourth progressively easier? The answer involves allosteric conformational changes, free energy landscapes, and statistical mechanics. Understanding this physics explains why hemoglobin is so efficient at loading oxygen in the lungs and unloading it in the tissues — a property that a simple "it binds oxygen" description completely misses.
+Here's a concrete example. Every biology student learns that hemoglobin carries oxygen in the blood. A biochemist can tell you the molecular structure of hemoglobin and the chemistry of oxygen binding. A biophysicist asks: Why does hemoglobin bind oxygen cooperatively — why does binding the first oxygen molecule make binding the second, third, and fourth progressively easier? The answer involves allosteric conformational changes, free energy landscapes, and [statistical mechanics](/statistical-mechanics). Understanding this physics explains why hemoglobin is so efficient at loading oxygen in the lungs and unloading it in the tissues — a property that a simple "it binds oxygen" description completely misses.
 
 ## The Physics of Protein Folding
 
@@ -71,7 +71,7 @@ The forces driving folding include:
 
 ### AlphaFold and Computational Prediction
 
-DeepMind's AlphaFold system, which uses deep learning to predict protein structures from amino acid sequences, effectively solved the structure prediction problem in 2020-2021. AlphaFold's predictions match experimental structures with remarkable accuracy for most proteins. This was a biophysics milestone — and it was enabled by training on decades of experimentally determined structures from X-ray crystallography and cryo-EM.
+DeepMind's AlphaFold system, which uses deep learning to predict protein structures from amino acid sequences, effectively solved the structure prediction problem in 2020-2021. AlphaFold's predictions match experimental structures with remarkable accuracy for most proteins. This was a biophysics milestone — and it was enabled by training on decades of experimentally determined structures from [X-ray crystallography](/x-ray-crystallography) and cryo-EM.
 
 But structure prediction isn't the same as understanding folding. AlphaFold tells you what the final shape is; it doesn't explain the physics of how the protein gets there. Understanding the folding pathway — including misfolding and aggregation — still requires biophysical approaches like molecular dynamics simulation, single-molecule experiments, and [computational modeling](/algorithms).
 
@@ -153,7 +153,7 @@ The dose-response relationship for radiation effects — how much damage occurs 
 
 ## Emerging Frontiers
 
-**Cryo-electron microscopy (cryo-EM)** has revolutionized structural biology over the past decade. By flash-freezing molecules in solution and imaging them with an electron microscope, researchers can determine structures at near-atomic resolution without crystallization. The 2017 Nobel Prize in Chemistry was awarded for cryo-EM development. It has become the go-to method for large molecular complexes and membrane proteins that are difficult to crystallize.
+**Cryo-[electron microscopy](/electron-microscopy) (cryo-EM)** has revolutionized [structural biology](/structural-biology) over the past decade. By flash-freezing molecules in solution and imaging them with an electron microscope, researchers can determine structures at near-atomic resolution without crystallization. The 2017 Nobel Prize in Chemistry was awarded for cryo-EM development. It has become the go-to method for large molecular complexes and membrane proteins that are difficult to crystallize.
 
 **Optogenetics** uses light-sensitive proteins (originally from algae) genetically inserted into neurons to control neural activity with light. A flash of blue light can activate a specific set of neurons; a flash of yellow light can silence them. This has transformed neuroscience by allowing researchers to establish causal relationships between neural activity and behavior.
 

@@ -5,7 +5,7 @@ description: "Off-roading is driving vehicles on unpaved terrain like trails, sa
 category: everyday-concepts
 tags: ["off roading", "4x4", "adventure", "outdoor recreation", "vehicles", "trail driving"]
 heroImage: "/images/articles/off-roading.webp"
-heroAlt: "A rugged 4x4 vehicle navigating a rocky mountain trail with dust clouds behind it"
+heroAlt: "Editorial photograph representing the concept of off-roading"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ The appeal goes beyond driving, though. Off-roading takes you to places most peo
 
 **Sand driving** requires different techniques — lower tire pressure for flotation, maintaining momentum, and avoiding sudden stops. The dunes of Glamis (Imperial Sand Dunes in California) are the most famous U.S. sand driving destination.
 
-**Overlanding** is long-distance off-road travel, typically self-supported with camping gear, water, food, and recovery equipment. Think multi-day or multi-week trips through remote backcountry. The Pan-American Highway, the Trans-Sahara routes, and Australia's Outback tracks are classic overlanding journeys.
+**Overlanding** is long-distance off-road travel, typically self-supported with [camping](/camping) gear, water, food, and recovery equipment. Think multi-day or multi-week trips through remote backcountry. The Pan-American Highway, the Trans-Sahara routes, and Australia's Outback tracks are classic overlanding journeys.
 
 ## The Vehicles
 
@@ -83,11 +83,11 @@ The responsible off-road community takes this seriously. The "Tread Lightly!" pr
 - Avoid sensitive areas (wetlands, archaeological sites, wildlife habitat)
 - Do your part by leaving trails cleaner than you found them
 
-Staying on marked trails is the single most important rule. One vehicle cutting a new path through a meadow or desert crust can create erosion damage that takes decades to heal. The Bureau of Land Management and Forest Service designate specific areas and trails for off-road use precisely to concentrate impact and protect the rest.
+Staying on marked trails is the single most important rule. One vehicle cutting a new path through a meadow or desert crust can create erosion damage that takes decades to heal. The Bureau of Land [Management](/management) and Forest Service designate specific areas and trails for off-road use precisely to concentrate impact and protect the rest.
 
 ## The Culture
 
-Off-roading has a strong community culture. Jeep drivers wave at each other on the road (it's called the "Jeep wave"). Trail runs often involve groups of vehicles running together, helping each other through obstacles, and camping at the trailhead.
+Off-roading has a strong community culture. Jeep drivers wave at each other on the road (it's called the "Jeep wave"). Trail runs often involve groups of vehicles [running](/running) together, helping each other through obstacles, and camping at the trailhead.
 
 Online forums and social media have expanded the community enormously. YouTube channels documenting trail runs and vehicle builds attract millions of viewers. Events like the Easter Jeep Safari in Moab, Utah, draw thousands of participants annually.
 

@@ -5,7 +5,7 @@ description: "Film production is the process of making a movie, from initial con
 category: arts-amp-culture
 tags: ["film", "cinema", "movie making", "filmmaking", "production", "pre-production"]
 heroImage: "/images/articles/film-production.webp"
-heroAlt: "Busy film set with camera crew, lighting rigs, and actors in position"
+heroAlt: "Editorial photograph representing the concept of film production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Film Production?
 
-Film production is the entire process of creating a motion picture — from the initial idea through scripting, financing, filming, editing, and distribution. It's an enormous undertaking that combines art, technology, business, and logistics on a scale few other creative endeavors match. A major studio film involves hundreds or thousands of people working for years to produce two hours of entertainment. Even a small independent film requires coordinating dozens of specialists across multiple phases.
+Film production is the entire process of creating a motion picture — from the initial idea through scripting, financing, filming, [editing](/editing), and distribution. It's an enormous undertaking that combines art, technology, business, and [logistics](/logistics) on a scale few other creative endeavors match. A major studio film involves hundreds or thousands of people working for years to produce two hours of entertainment. Even a small independent film requires coordinating dozens of specialists across multiple phases.
 
 ## The Five Phases
 
@@ -65,13 +65,13 @@ Principal photography for a studio film usually runs 40-100 shooting days. Indep
 
 After filming wraps, the footage goes to the editing room. The editor (often already assembling footage during production) creates the rough cut, then refines it through multiple versions.
 
-Post-production also includes: visual effects (which can take months for effects-heavy films), sound design (creating and mixing all audio elements), music scoring, color grading (adjusting the film's color palette), and titling.
+Post-production also includes: [visual effects](/visual-effects) (which can take months for effects-heavy films), [sound design](/sound-design) (creating and mixing all audio elements), music scoring, color grading (adjusting the film's color palette), and titling.
 
 For blockbusters, visual effects can dominate post-production. A film like *Avatar* or any Marvel movie might spend over a year in post-production, with hundreds of VFX artists at multiple studios around the world working simultaneously.
 
 ### Distribution
 
-The finished film needs to reach audiences. For studio films, the distributor (usually the studio itself) plans the release strategy: which territories, which date, how many screens, how much marketing budget.
+The finished film needs to reach audiences. For studio films, the distributor (usually the studio itself) plans the release strategy: which territories, which date, how many screens, how much [marketing](/marketing) budget.
 
 Marketing a major film costs $100-200 million — sometimes more than the production itself. Trailers, posters, social media campaigns, press junkets, and premiere events all build awareness. Opening weekend box office heavily influences a film's financial fate.
 
@@ -79,7 +79,7 @@ Distribution channels include theatrical release, streaming platforms, digital p
 
 ## The Money
 
-Film financing is complicated. Studio films are funded from corporate budgets, which means the studio bears the financial risk but keeps most of the profit. Independent films piece together financing from multiple sources — private investors, tax incentives, pre-sales of distribution rights, grants, and sometimes crowdfunding.
+Film financing is complicated. Studio films are funded from corporate budgets, which means the studio bears the financial risk but keeps most of the profit. Independent films piece together financing from multiple sources — private investors, tax incentives, pre-[sales](/sales) of distribution rights, grants, and sometimes crowdfunding.
 
 Most films lose money. Depending on the study, 60-80% of theatrical releases fail to recoup their costs in theatrical release alone. Hollywood's business model depends on a few massive hits subsidizing many flops. A single Marvel film earning $2 billion can cover the losses of ten mid-budget disappointments.
 

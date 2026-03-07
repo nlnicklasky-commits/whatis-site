@@ -5,7 +5,7 @@ description: "Mime is a theatrical art form that tells stories through body move
 category: everyday-concepts
 tags: ["mime", "performing arts", "theater", "physical theater", "Marcel Marceau", "silent performance"]
 heroImage: "/images/articles/mime.webp"
-heroAlt: "Mime performer in white face paint and striped shirt gesturing expressively"
+heroAlt: "Editorial photograph representing the concept of mime"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ The art form relies on the extraordinary expressiveness of the human body. Every
 
 ## Ancient Roots
 
-Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated physical comedy and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
+Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated [physical comedy](/physical-[comedy](/comedy)) and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
 
 Modern mime took shape in early 19th-century Paris. Jean-Gaspard Deburau created the character of Pierrot — the sad, white-faced, silent figure — at the Theatre des Funambules. This established the visual template that most people associate with mime today.
 
-Etienne Decroux (1898-1991) transformed mime from entertainment into a serious artistic discipline. His "corporeal mime" treated the body as an instrument of dramatic expression, developing a systematic technique as rigorous as classical ballet. Decroux trained Jacques Lecoq and Marcel Marceau, who would become the art form's most famous practitioners.
+Etienne Decroux (1898-1991) transformed mime from entertainment into a serious artistic discipline. His "corporeal mime" treated the body as an instrument of dramatic expression, developing a systematic technique as rigorous as classical [ballet](/ballet). Decroux trained Jacques Lecoq and Marcel Marceau, who would become the art form's most famous practitioners.
 
 ## The Techniques
 
@@ -51,7 +51,7 @@ The "invisible wall," the "rope pull," the "trapped in a box" — these signatur
 
 ### Isolation and Segmentation
 
-Moving one part of the body while keeping others perfectly still. This creates striking visual effects — a head that seems to float independently, hands that move while the body remains frozen. Decroux's technique developed this into a thorough system of body articulation.
+Moving one part of the body while keeping others perfectly still. This creates striking [visual effects](/visual-effects) — a head that seems to float independently, hands that move while the body remains frozen. Decroux's technique developed this into a thorough system of body articulation.
 
 ### Weight and Resistance
 
@@ -65,14 +65,14 @@ Beyond illusion, mime communicates character and emotional states through postur
 
 Marcel Marceau (1923-2007) was mime's greatest ambassador. His character Bip — a striped-shirt, battered-top-hat figure — performed worldwide for over 60 years, introducing millions of people to silent physical theater. Marceau could make audiences laugh, cry, and gasp within a single performance.
 
-His influence extended far beyond mime. Michael Jackson's moonwalk was inspired by Marceau's "Walking Against the Wind." Johnny Depp studied with Marceau. Robin Williams cited him as a major influence. Marceau proved that silence could be as powerful as any speech.
+His influence extended far beyond mime. Michael Jackson's moonwalk was inspired by Marceau's "[Walking](/walking) Against the Wind." Johnny Depp studied with Marceau. Robin Williams cited him as a major influence. Marceau proved that silence could be as powerful as any speech.
 
 ## Mime Today
 
 Street mime — the white-faced performer doing "trapped in a box" on a sidewalk — is what most people think of, and frankly, it's given the art form a somewhat corny reputation. But professional physical theater has evolved well beyond the stereotypes.
 
-Contemporary practitioners like Bill Irwin, Mummenschanz, and Blue Man Group draw on mime techniques while pushing into new territory. Physical theater companies use mime alongside dance, circus, puppetry, and multimedia. Jacques Lecoq's school in Paris trained a generation of performers who brought physical storytelling into mainstream theater.
+Contemporary practitioners like Bill Irwin, Mummenschanz, and Blue Man Group draw on mime techniques while pushing into new territory. Physical theater companies use mime alongside [dance](/dance), circus, [puppetry](/puppetry), and multimedia. Jacques Lecoq's school in Paris trained a generation of performers who brought physical [storytelling](/storytelling) into mainstream theater.
 
-Mime techniques are also fundamental to actor training. Most drama schools include physical theater and movement courses that draw directly from mime traditions. Clown training, mask work, and physical comedy all build on skills that mime developed and systematized.
+Mime techniques are also fundamental to actor training. Most [drama](/drama) schools include physical theater and movement courses that draw directly from mime traditions. Clown training, mask work, and physical comedy all build on skills that mime developed and systematized.
 
 The pure, traditional form — one performer, no props, no words — remains the most demanding test of physical expression in the performing arts. When it's done well, it reminds you that the human body, all by itself, is the original storytelling instrument.

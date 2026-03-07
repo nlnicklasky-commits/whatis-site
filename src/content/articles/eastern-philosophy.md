@@ -5,7 +5,7 @@ description: "Eastern philosophy encompasses the philosophical traditions of Asi
 category: everyday-concepts
 tags: ["eastern philosophy", "everyday-concepts"]
 heroImage: "/images/articles/eastern-philosophy.webp"
-heroAlt: "A serene Zen garden with carefully raked sand patterns and natural stones"
+heroAlt: "Editorial photograph representing the concept of eastern philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Absolutely. Many Western practitioners adopt meditation, mindfulness, Stoic-Taoist ethical practices, and Buddhist psychological insights without accepting metaphysical claims about reincarnation, karma, or deities. Secular Buddhism is a growing movement that applies Buddhist psychological practices to mental health without religious framework. Similarly, many people practice yoga's philosophical principles (non-attachment, present-moment awareness) without Hindu religious belief. The philosophical insights stand independently of their religious contexts."
 ---
 
-# What Is Eastern Philosophy?
+# What Is Eastern [Philosophy](/philosophy)?
 
-Eastern philosophy refers broadly to the philosophical traditions that developed in Asia — primarily in India, China, and Japan — over the past 3,000+ years. The major traditions include Hinduism, Buddhism, Taoism (Daoism), Confucianism, and their many branches. While Western philosophy (rooted in ancient Greece) has dominated academic philosophy departments, Eastern philosophical traditions have shaped the lives, governments, arts, and daily practices of billions of people across the largest continent on Earth.
+Eastern philosophy refers broadly to the philosophical traditions that developed in Asia — primarily in India, China, and Japan — over the past 3,000+ years. The major traditions include [Hinduism](/hinduism), [Buddhism](/buddhism), Taoism (Daoism), [Confucianism](/confucianism), and their many branches. While [Western philosophy](/western-philosophy) (rooted in ancient Greece) has dominated academic philosophy departments, Eastern philosophical traditions have shaped the lives, governments, arts, and daily practices of billions of people across the largest continent on Earth.
 
 ## The Indian Traditions
 
@@ -55,11 +55,11 @@ The Buddha's most radical claim: there is no permanent self (anatta/anatman). Wh
 
 Chinese philosophy developed largely independently from Indian philosophy, with different questions and different assumptions.
 
-**Confucianism** (founded by Kong Fuzi/Confucius, 551-479 BC) is primarily concerned with social harmony, ethical conduct, and good governance. Confucius lived during a period of political chaos and violence in China, and his philosophy addresses a practical question: how do we build a stable, just society?
+**Confucianism** (founded by Kong Fuzi/Confucius, 551-479 BC) is primarily concerned with social [harmony](/harmony), ethical conduct, and good governance. Confucius lived during a period of political chaos and violence in China, and his philosophy addresses a practical question: how do we build a stable, just society?
 
 The answer, for Confucius, centers on relationships. The Five Relationships (ruler-subject, parent-child, husband-wife, elder-younger, friend-friend) each carry specific reciprocal obligations. If everyone fulfills their relational duties, society functions harmoniously. The concept of *ren* (benevolence, humaneness) — treating others with empathy and decency — underlies all of it.
 
-*Li* (ritual propriety, social norms) provides the structure. Confucius believed that performing social rituals — greetings, ceremonies, customs — with sincerity cultivates virtuous character. You don't just act politely; acting politely makes you a more polite person. The practice shapes the practitioner.
+*Li* (ritual propriety, social norms) provides the structure. Confucius believed that performing social rituals — greetings, ceremonies, customs — with sincerity cultivates virtuous character. You don't just act politely; [acting](/acting) politely makes you a more polite person. The practice shapes the practitioner.
 
 **Taoism** (Daoism), associated with Laozi and Zhuangzi (roughly 4th-3rd century BC), takes an almost opposite approach. Where Confucianism emphasizes social structure, Taoism emphasizes naturalness and spontaneity.
 
@@ -75,11 +75,11 @@ Japanese philosophy drew from both Chinese (Confucianism, Taoism) and Indian (Bu
 
 **Zen Buddhism** (Chan in Chinese) emphasizes direct experience over intellectual understanding. Enlightenment (satori) can't be achieved through studying texts or logical analysis — it requires meditation practice (zazen) and sometimes paradoxical questions (koans) designed to short-circuit conceptual thinking. "What is the sound of one hand clapping?" isn't a riddle with an answer; it's a tool for breaking through rational thought.
 
-Japanese aesthetic concepts — *wabi-sabi* (beauty in imperfection and impermanence), *mono no aware* (the bittersweet awareness of transience), *ma* (the meaningful use of empty space) — express philosophical ideas through art, architecture, and daily life rather than through formal arguments.
+Japanese aesthetic concepts — *wabi-sabi* (beauty in imperfection and impermanence), *mono no aware* (the bittersweet awareness of transience), *ma* (the meaningful use of empty space) — express philosophical ideas through art, [architecture](/architecture), and daily life rather than through formal arguments.
 
 ## Why Eastern Philosophy Matters Now
 
-Eastern philosophical concepts have penetrated Western culture deeply, even when people don't recognize their origins. Mindfulness programs in hospitals and corporations draw from Buddhist [meditation](/meditation) practices. Environmental philosophy echoes Taoist ideas about harmony with nature. Cognitive behavioral therapy shares structural similarities with Buddhist psychology's analysis of how thought patterns create suffering.
+Eastern philosophical concepts have penetrated Western culture deeply, even when people don't recognize their origins. Mindfulness programs in hospitals and corporations draw from Buddhist [meditation](/meditation) practices. Environmental philosophy echoes Taoist ideas about harmony with nature. Cognitive behavioral therapy shares structural similarities with Buddhist [psychology](/psychology)'s analysis of how thought patterns create suffering.
 
 The most important contribution might be this: Eastern philosophy generally treats philosophical understanding as inseparable from practice. You don't just think about non-attachment — you practice it through meditation. You don't just theorize about virtue — you develop it through ritual. Philosophy isn't an academic exercise; it's a way of living.
 

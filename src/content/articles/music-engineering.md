@@ -5,7 +5,7 @@ description: "Music engineering is the technical craft behind recorded sound —
 category: technology
 tags: ["music engineering", "audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering"]
 heroImage: "/images/articles/music-engineering-hero.webp"
-heroAlt: "Professional mixing console with illuminated faders in a recording studio"
+heroAlt: "Editorial photograph representing the concept of music engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ A modern pop song might have 80 to 200 individual tracks: drums (each mic is a s
 
 The mixing engineer makes hundreds of decisions per song:
 
-**Level balancing.** How loud is the vocal relative to the drums? How present is the bass guitar? These seem like simple volume adjustments, but they're constantly shifting throughout the song. A vocal that sits perfectly during a verse might get buried during a loud chorus without automation — automated volume changes over time.
+**Level balancing.** How loud is the vocal relative to the drums? How present is the [bass guitar](/bass-guitar)? These seem like simple volume adjustments, but they're constantly shifting throughout the song. A vocal that sits perfectly during a verse might get buried during a loud chorus without automation — automated volume changes over time.
 
 **Equalization (EQ).** Every instrument occupies certain frequency ranges. A bass guitar might dominate the 60-250 Hz range. A vocal might be clearest around 2-4 kHz. When instruments overlap in frequency, they compete and create mud. EQ lets the engineer carve space for each element — cut some 250 Hz from the vocal to make room for the guitar, boost some 3 kHz on the vocal to add clarity and presence.
 
@@ -103,7 +103,7 @@ The introduction of microphones, vacuum tube amplifiers, and electrical cutting 
 
 ### The Magnetic Tape Revolution (1945-1975)
 
-Magnetic tape recording, developed in Germany during World War II and brought to the U.S. afterward, changed everything. For the first time, recordings could be edited — physically cut with a razor blade and spliced back together. Multitrack tape recorders, pioneered by Les Paul in the late 1940s, allowed musicians to record parts separately and combine them later.
+Magnetic tape recording, developed in Germany during [World War II](/world-war-ii) and brought to the U.S. afterward, changed everything. For the first time, recordings could be edited — physically cut with a razor blade and spliced back together. Multitrack tape recorders, pioneered by Les Paul in the late 1940s, allowed musicians to record parts separately and combine them later.
 
 By the 1960s, studios had 4-track and then 8-track machines. The Beatles' *Sgt. Pepper's Lonely Hearts Club Band* (1967) was recorded on a 4-track machine — every instrument and vocal had to be "bounced" (combined) to free up tracks, which is why the engineering on that album was so remarkable.
 
@@ -153,7 +153,7 @@ The DAW is the central tool of modern music engineering. Here's how the major pl
 
 **Logic Pro** (Apple) is popular among producers and songwriter-engineers. Its built-in virtual instruments and effects are exceptionally good for the price (a one-time purchase of $199, versus Pro Tools' subscription model). It's Mac-only, which limits its reach.
 
-**Ableton Live** dominates electronic music production and live performance. Its session view — where clips can be triggered and combined in real time — is unique among DAWs. Many electronic producers and DJs use Ableton exclusively.
+**Ableton Live** dominates [electronic music](/electronic-music) production and live performance. Its session view — where clips can be triggered and combined in real time — is unique among DAWs. Many electronic producers and DJs use Ableton exclusively.
 
 **FL Studio** (Image-Line) is beloved in hip-hop, trap, and EDM production. Its pattern-based workflow feels intuitive for beat-making. It has a lifetime free updates policy, which is unusual in the software industry.
 
@@ -179,7 +179,7 @@ The plugin market is enormous — there are estimated to be over 15,000 audio pl
 
 The field has branched into numerous specializations, each with distinct skill sets.
 
-### Live Sound Engineering
+### Live [Sound Engineering](/sound-engineering)
 
 Concert and event audio is a completely different discipline from studio work. Live sound engineers manage massive PA systems, deal with feedback, mix in real time with no ability to undo mistakes, and work in acoustically unpredictable venues. The pressure is intense — there are no second takes at a live show.
 
@@ -191,11 +191,11 @@ Television, radio, and streaming audio require engineers who understand broadcas
 
 ### Game Audio
 
-Video game audio engineering is a growing field that combines music engineering with interactive programming. Game audio must respond to player actions in real time — music intensifies during combat, ambient sounds change based on environment, and spatial audio places sounds accurately in 3D space. Game audio engineers work with middleware like Wwise and FMOD alongside game engines.
+Video game [audio engineering](/audio-engineering) is a growing field that combines music engineering with interactive programming. Game audio must respond to player actions in real time — music intensifies during combat, ambient sounds change based on environment, and spatial audio places sounds accurately in 3D space. Game audio engineers work with middleware like Wwise and FMOD alongside game engines.
 
 ### Podcast and Voice Production
 
-The podcast explosion created massive demand for audio engineers who specialize in voice recording, dialogue editing, and podcast production. While the technical requirements are simpler than music production, the skills — clean recording, noise reduction, EQ for voice clarity, and loudness compliance — are specific and valuable.
+The podcast explosion created massive demand for audio engineers who specialize in voice recording, dialogue editing, and podcast production. While the technical requirements are simpler than [music production](/music-production), the skills — clean recording, noise reduction, EQ for voice clarity, and loudness compliance — are specific and valuable.
 
 ### Immersive Audio
 
@@ -207,7 +207,7 @@ Apple Music reported that by 2024, over 10,000 songs were available in Spatial A
 
 How do you actually become a music engineer? There's no single path.
 
-**Formal education** — programs at Berklee College of Music, Full Sail University, SAE Institute, Middle Tennessee State University, and others offer structured curricula covering [acoustics](/acoustics), electronics, studio technique, music theory, and business. These programs provide expensive but valuable networking, mentorship, and studio access.
+**Formal education** — programs at Berklee College of Music, Full Sail University, SAE Institute, Middle Tennessee State University, and others offer structured curricula covering [acoustics](/acoustics), electronics, studio technique, [music theory](/music-theory), and business. These programs provide expensive but valuable networking, mentorship, and studio access.
 
 **Apprenticeship** — the traditional path. Start as an intern or assistant engineer at a studio. Make coffee, set up microphones, coil cables, observe sessions. Gradually take on more responsibility. This approach has produced many legendary engineers, but opportunities have shrunk as major studios have closed.
 

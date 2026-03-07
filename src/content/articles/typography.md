@@ -5,7 +5,7 @@ description: "Typography is the art of arranging type to make text readable and 
 category: arts-amp-culture
 tags: ["typography", "design", "typefaces", "fonts", "graphic design", "visual communication"]
 heroImage: "/images/articles/typography.webp"
-heroAlt: "Large wooden letterpress letters arranged artistically on a white surface"
+heroAlt: "Editorial photograph representing the concept of typography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ Typography is the art and technique of arranging type — selecting typefaces, s
 
 ## Not Just "Picking a Font"
 
-People tend to reduce typography to font selection, which is like reducing cooking to choosing ingredients. The ingredients matter, sure. But what you do with them matters more.
+People tend to reduce typography to font selection, which is like reducing [cooking](/cooking) to choosing ingredients. The ingredients matter, sure. But what you do with them matters more.
 
 Typography encompasses everything about how text appears: the typeface, the size, the weight (light, regular, bold), the spacing between letters (tracking), the spacing between specific letter pairs (kerning), the spacing between lines (leading), the line length, the alignment, the color, the contrast with the background, and how all of these interact with each other and with surrounding visual elements.
 
@@ -45,7 +45,7 @@ Change any one of these variables and the text reads differently. Not just aesth
 
 ### Serif
 
-Serif typefaces have small lines or strokes attached to the ends of their main strokes. Think Times New Roman, Garamond, or Georgia. The serifs create a horizontal flow that guides the eye along a line of text, which is why serif faces have traditionally dominated book and newspaper publishing.
+Serif typefaces have small lines or strokes attached to the ends of their main strokes. Think Times New Roman, Garamond, or Georgia. The serifs create a horizontal flow that guides the eye along a line of text, which is why serif faces have traditionally dominated book and newspaper [publishing](/publishing).
 
 There's a persistent myth that serifs make text more readable. The evidence is mixed — what matters more is familiarity and context. Serif typefaces feel traditional, established, and scholarly because we associate them with books and serious publications.
 
@@ -57,7 +57,7 @@ The Bauhaus and Swiss design movements of the 20th century championed sans-serif
 
 ### Script and Display
 
-Script typefaces mimic handwriting or calligraphy. They range from elegant (Edwardian Script) to casual (Comic Sans — which, despite its reputation, was actually well-designed for its intended purpose: speech bubbles in a children's software program).
+Script typefaces mimic handwriting or [calligraphy](/calligraphy). They range from elegant (Edwardian Script) to casual (Comic Sans — which, despite its reputation, was actually well-designed for its intended purpose: speech bubbles in a children's software program).
 
 Display typefaces are designed for headlines, logos, and large-format use. They're often too distinctive or elaborate for body text but grab attention at large sizes. Think of the typeface used for a movie poster — that's display type.
 
@@ -97,7 +97,7 @@ Printed text is fixed — the size, typeface, and layout are permanent once prin
 
 This variability has pushed web typography toward flexibility. Responsive design adjusts type size and layout based on screen dimensions. Variable fonts allow smooth weight and width adjustments. System fonts load instantly but limit design options; web fonts look better but add loading time.
 
-Screen resolution also matters. Before high-density (Retina) displays became common, fine serif details and thin strokes broke down at small sizes on screen. This is why early web design favored sans-serif fonts — they survived low-resolution rendering better. Today's screens are sharp enough that the distinction matters less.
+Screen resolution also matters. Before high-density (Retina) displays became common, fine serif details and thin strokes broke down at small sizes on screen. This is why early [web design](/web-design) favored sans-serif fonts — they survived low-resolution rendering better. Today's screens are sharp enough that the distinction matters less.
 
 ## Why You Should Care
 

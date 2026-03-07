@@ -5,7 +5,7 @@ description: "Instrument making is the craft of building musical instruments by 
 category: arts-amp-culture
 tags: ["instrument making", "musical instruments", "luthiery", "acoustics", "craftsmanship", "music technology"]
 heroImage: "/images/articles/instrument-making.webp"
-heroAlt: "Luthier hand-carving the top plate of a violin in a sunlit workshop"
+heroAlt: "Editorial photograph representing the concept of instrument making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,25 +31,25 @@ faq:
 
 # What Is Instrument Making?
 
-Instrument making is the craft of building musical instruments by hand — selecting materials, shaping them with precision, and assembling them into objects that convert physical energy into organized sound. It sits at the intersection of woodworking, acoustics, engineering, and art. A well-made instrument can last centuries and improve with age, making it one of the few crafts where the product genuinely becomes more valuable over time.
+Instrument making is the craft of building musical instruments by hand — selecting materials, shaping them with precision, and assembling them into objects that convert physical energy into organized sound. It sits at the intersection of [woodworking](/woodworking), [acoustics](/acoustics), [engineering](/engineering), and art. A well-made instrument can last centuries and improve with age, making it one of the few crafts where the product genuinely becomes more valuable over time.
 
 ## The Science and the Mystery
 
-Every acoustic instrument is, fundamentally, a vibration amplifier. A string vibrates. A reed vibrates. A drumhead vibrates. But those vibrations alone are nearly inaudible. The instrument's body — the violin's hollow box, the guitar's sound chamber, the piano's soundboard — amplifies and shapes those vibrations into the sound you hear.
+Every acoustic instrument is, fundamentally, a vibration amplifier. A string vibrates. A reed vibrates. A drumhead vibrates. But those vibrations alone are nearly inaudible. The instrument's body — the [violin](/violin)'s hollow box, the guitar's sound chamber, the piano's soundboard — amplifies and shapes those vibrations into the sound you hear.
 
-The physics is well understood in principle. A thinner top plate vibrates more freely, producing louder sound. The internal volume determines which frequencies are amplified. The wood's density, stiffness, and damping properties all affect tone. Bracing patterns control how the top flexes. Bridge placement determines string length and tension.
+The [physics](/physics) is well understood in principle. A thinner top plate vibrates more freely, producing louder sound. The internal volume determines which frequencies are amplified. The wood's density, stiffness, and damping properties all affect tone. Bracing patterns control how the top flexes. Bridge placement determines string length and tension.
 
 And yet — despite all this knowledge — the best instruments retain an element of unpredictability. Two guitars built from the same tree, to the same specifications, by the same maker, will sound different. The grain varies. Moisture content differs subtly. The way glue joints settle is never quite identical. This is why great instrument making remains a craft rather than pure engineering. Experience and intuition fill the gap between theory and practice.
 
-## Luthiery — Stringed Instruments
+## [Luthiery](/luthiery) — Stringed Instruments
 
 The most celebrated instrument-making tradition is **luthiery** — building stringed instruments. The golden age was Cremona, Italy, in the 17th and 18th centuries, where the Amati, Guarneri, and Stradivari families produced violins, violas, and cellos of legendary quality.
 
 Antonio Stradivari (1644-1737) made roughly 1,100 instruments, of which about 650 survive. Their sound has been described as richer, more complex, and more projecting than nearly any modern instrument — though blind listening tests occasionally fail to distinguish Strads from top contemporary violins. Theories about the "Stradivarius secret" range from the wood's chemical treatment to the varnish composition to the mini ice age that produced unusually dense timber. Nobody has conclusively cracked it.
 
-Modern violin making continues this tradition. Schools in Cremona, Newark (England), and elsewhere train luthiers in classical methods. A professional violin maker produces 4 to 8 instruments per year, each requiring 200 to 300 hours. Prices range from $5,000 for a competent workshop instrument to $50,000+ for a recognized master's work.
+Modern [violin making](/violin-making) continues this tradition. Schools in Cremona, Newark (England), and elsewhere train luthiers in classical methods. A professional violin maker produces 4 to 8 instruments per year, each requiring 200 to 300 hours. Prices range from $5,000 for a competent workshop instrument to $50,000+ for a recognized master's work.
 
-**Guitar making** (guitarreria) is the most accessible branch of luthiery. Acoustic guitar construction involves selecting tonewoods (spruce or cedar for the top, rosewood or mahogany for back and sides), shaping bracing patterns, and achieving the right balance between structural integrity and acoustic responsiveness. Classical guitar maker Antonio de Torres established the modern form in the 1850s; steel-string guitar building evolved separately in America.
+**Guitar making** (guitarreria) is the most accessible branch of luthiery. Acoustic guitar [construction](/construction) involves selecting tonewoods (spruce or cedar for the top, rosewood or mahogany for back and sides), shaping bracing patterns, and achieving the right balance between structural integrity and acoustic responsiveness. [Classical guitar](/classical-guitar) maker Antonio de Torres established the modern form in the 1850s; steel-string guitar building evolved separately in America.
 
 ## Other Instrument Traditions
 
@@ -69,7 +69,7 @@ Modern violin making continues this tradition. Schools in Cremona, Newark (Engla
 
 **Ebony** is the traditional material for fingerboards — extremely hard, smooth, and resistant to wear from string contact.
 
-**Rosewood** — valued for guitar backs and sides, but international trade restrictions (CITES regulations) have pushed makers toward alternative species like walnut, sapele, and ovangkol.
+**Rosewood** — valued for guitar backs and sides, but [international trade](/international-trade) restrictions (CITES regulations) have pushed makers toward alternative species like walnut, sapele, and ovangkol.
 
 **Carbon fiber and synthetics** are increasingly used for instruments that must withstand extreme conditions — outdoor performance, travel, humid climates. Purists resist them; pragmatists appreciate their durability and consistency.
 

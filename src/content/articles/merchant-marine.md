@@ -5,7 +5,7 @@ description: "The merchant marine is a nation's commercial shipping fleet and th
 category: everyday-concepts
 tags: ["merchant marine", "shipping", "maritime", "cargo", "global trade", "seafaring"]
 heroImage: "/images/articles/merchant-marine.webp"
-heroAlt: "Large cargo container ship sailing through open ocean waters"
+heroAlt: "Editorial photograph representing the concept of merchant marine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Merchant Marine?
 
-The merchant marine is a country's fleet of commercial ships and the civilian sailors who crew them. These are the cargo ships, container vessels, oil tankers, bulk carriers, and other commercial craft that move goods across the world's oceans. About 80-90% of global trade by volume moves by sea, making the merchant marine the invisible backbone of the world economy.
+The merchant marine is a country's fleet of commercial ships and the civilian sailors who crew them. These are the cargo ships, container vessels, oil tankers, bulk carriers, and other commercial craft that move goods across the world's oceans. About 80-90% of global [trade](/trade) by volume moves by sea, making the merchant marine the invisible backbone of the world economy.
 
 When you buy a phone made in China, coffee from Colombia, or a car with German parts, that product almost certainly crossed an ocean on a merchant vessel. The global merchant fleet comprises roughly 60,000 ships, crewed by about 1.9 million seafarers from dozens of countries.
 
@@ -51,7 +51,7 @@ When you buy a phone made in China, coffee from Colombia, or a car with German p
 
 Merchant mariners are the civilians who operate commercial vessels. Crew positions follow a traditional hierarchy:
 
-**Deck department** — responsible for navigation, cargo operations, and ship maintenance. Headed by the captain (master) and chief mate. Officers hold Coast Guard licenses; able-bodied seamen perform the physical work.
+**Deck department** — responsible for [navigation](/navigation), cargo operations, and ship maintenance. Headed by the captain (master) and chief mate. Officers hold Coast Guard licenses; able-bodied seamen perform the physical work.
 
 **Engine department** — responsible for propulsion, power generation, and mechanical systems. Headed by the chief engineer. Modern ships have massive diesel engines producing 50,000-100,000+ horsepower.
 
@@ -61,17 +61,17 @@ Life at sea is isolating. Typical contracts run 4-6 months on, 2-3 months off. Y
 
 ## History
 
-Merchant shipping is as old as civilization. Phoenician traders sailed the Mediterranean 3,000 years ago. The Silk Road had its maritime equivalent in Indian Ocean trade routes connecting China, India, Arabia, and East Africa centuries before European exploration.
+Merchant shipping is as old as civilization. Phoenician traders sailed the Mediterranean 3,000 years ago. [The Silk Road](/silk-road) had its maritime equivalent in Indian Ocean trade routes connecting China, India, Arabia, and East Africa centuries before European exploration.
 
 The age of sail (roughly 1500-1850) was the golden era of the merchant marine. Clipper ships raced tea from China. East India Companies commanded private fleets larger than most navies. Maritime trade built empires.
 
 Steam power transformed the industry in the mid-1800s. Steel hulls replaced wood. Ships grew larger and faster. Scheduled ocean liner service connected continents with reliable timetables.
 
-In World War II, the U.S. merchant marine suffered the highest casualty rate of any service — about 1 in 26 merchant mariners was killed, higher than any branch of the military. They delivered the supplies that made victory possible, running convoys through submarine-infested waters.
+In [World War II](/world-war-ii), the U.S. merchant marine suffered the highest casualty rate of any service — about 1 in 26 merchant mariners was killed, higher than any branch of the military. They delivered the supplies that made victory possible, [running](/running) convoys through submarine-infested waters.
 
 The container revolution of the 1960s-1980s transformed the industry again. Containerization slashed loading and unloading times from days to hours, dramatically reducing shipping costs and enabling the globalized economy we live in today.
 
-## The Economics
+## The [Economics](/economics)
 
 Maritime shipping is astonishingly efficient. Moving a container of goods from Shanghai to New York by sea costs roughly $2,000-5,000 — for 20 tons of cargo traveling 11,000 miles. That works out to pennies per item for most consumer goods. Shipping adds roughly 1-2% to the retail price of most products.
 

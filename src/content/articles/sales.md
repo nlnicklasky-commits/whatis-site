@@ -5,7 +5,7 @@ description: "Sales is the process of persuading someone to exchange money for a
 category: business
 tags: ["sales", "selling", "business", "customer service"]
 heroImage: "/images/articles/sales.webp"
-heroAlt: "Two business professionals shaking hands over a deal in a modern office setting"
+heroAlt: "Editorial photograph representing the concept of sales"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Sales is the process of identifying potential buyers, understanding their needs, and persuading them to exchange money for a product or service. Every business on Earth depends on it — you can build the greatest product ever made, but if nobody buys it, you don't have a business. You have a hobby.
 
-The global sales profession employs roughly 14.5 million people in the United States alone, according to the Bureau of Labor Statistics. Total global B2B (business-to-business) sales exceed $20 trillion annually. Whether you're a solo freelancer or a Fortune 500 corporation, sales is the activity that keeps the lights on.
+The global sales profession employs roughly 14.5 million people in the United States alone, according to the Bureau of Labor [Statistics](/statistics). Total global B2B (business-to-business) sales exceed $20 trillion annually. Whether you're a solo freelancer or a Fortune 500 corporation, sales is the activity that keeps the lights on.
 
 ## What Sales Actually Involves
 
@@ -43,7 +43,7 @@ Fundamentally, selling is problem-solving. A customer has a need, a pain point, 
 
 The process typically follows these stages:
 
-**1. Prospecting.** Finding potential customers. This might mean cold calling, attending industry events, following up on marketing leads, asking for referrals, or researching companies that fit your ideal customer profile. Most salespeople spend 20-30% of their time on prospecting, though many wish they spent more.
+**1. Prospecting.** Finding potential customers. This might mean cold calling, attending industry events, following up on [marketing](/marketing) leads, asking for referrals, or researching companies that fit your ideal customer profile. Most salespeople spend 20-30% of their time on prospecting, though many wish they spent more.
 
 **2. Qualifying.** Not every prospect is a good fit. Qualifying means determining whether someone actually needs your product, has the budget to buy it, has the authority to make the decision, and has a timeline for purchasing. Good salespeople qualify ruthlessly — spending time on unqualified prospects is the single biggest time-waster in the profession.
 
@@ -61,11 +61,11 @@ The process typically follows these stages:
 
 Sales divides broadly into two categories, and they operate very differently.
 
-**B2C (Business-to-Consumer)** is selling to individual people. Retail, car dealerships, real estate, insurance — these are B2C. Transactions tend to be faster, more emotional, and driven by individual preferences. A person buying a car might decide in a day based on how the test drive felt. B2C sales cycles can be minutes (a retail purchase) to months (buying a house).
+**B2C (Business-to-Consumer)** is selling to individual people. Retail, car dealerships, [real estate](/real-estate), [insurance](/insurance) — these are B2C. Transactions tend to be faster, more emotional, and driven by individual preferences. A person buying a car might decide in a day based on how the test drive felt. B2C sales cycles can be minutes (a retail purchase) to months (buying a house).
 
 **B2B (Business-to-Business)** is selling to organizations. Software, manufacturing equipment, consulting services, office supplies — these are B2B. Transactions involve multiple decision-makers, longer timelines, higher price points, and more rational evaluation. A company buying enterprise software might take 6-18 months, involve a dozen stakeholders, and require formal proposals, pilots, and committee approvals.
 
-The skills overlap, but the emphasis differs. B2C rewards rapport-building, storytelling, and urgency. B2B rewards patience, strategic thinking, and the ability to manage complex organizational dynamics.
+The skills overlap, but the emphasis differs. B2C rewards rapport-building, [storytelling](/storytelling), and urgency. B2B rewards patience, strategic thinking, and the ability to manage complex organizational dynamics.
 
 ## The Evolution of Sales — From Peddlers to Software
 
@@ -95,9 +95,9 @@ Over the decades, practitioners and researchers have developed structured approa
 
 No single methodology works everywhere. The best salespeople adapt their approach based on the situation, the customer, and the complexity of the sale.
 
-## The Psychology of Buying
+## The [Psychology](/psychology) of Buying
 
-Here's what most people miss about sales: the decision to buy is rarely purely rational. Even in B2B, where purchases are justified with spreadsheets and ROI calculations, emotion drives the initial decision and logic justifies it afterward.
+Here's what most people miss about sales: the decision to buy is rarely purely rational. Even in B2B, where purchases are justified with spreadsheets and ROI calculations, emotion drives the initial decision and [logic](/logic) justifies it afterward.
 
 Robert Cialdini's research identified six principles of influence that affect purchasing decisions:
 
@@ -140,6 +140,6 @@ After decades of research and practice, some patterns are clear:
 
 Sales skills aren't just for salespeople. Every time you convince your boss to approve a project, negotiate a raise, pitch an idea, or even decide where to eat dinner with friends, you're selling.
 
-The ability to understand what someone else needs, communicate your position clearly, handle objections gracefully, and reach an agreement — these are life skills. Whether you sell for a living or never plan to, understanding how sales works makes you better at persuasion, negotiation, and human interaction generally.
+The ability to understand what someone else needs, communicate your position clearly, handle objections gracefully, and reach an agreement — these are life skills. Whether you sell for a living or never plan to, understanding how sales works makes you better at persuasion, [negotiation](/negotiation), and human interaction generally.
 
 And if you do sell for a living? It's one of the few professions where your compensation directly reflects your ability. No hiding behind a team. No waiting for annual reviews. You close deals, you earn. That clarity — terrifying to some, exhilarating to others — is what makes sales unlike any other career.

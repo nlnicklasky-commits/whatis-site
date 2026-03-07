@@ -5,7 +5,7 @@ description: "Sports writing covers athletic events, athletes, and sports cultur
 category: arts-amp-culture
 tags: ["sports writing", "journalism", "sports media", "sportswriting", "athletic storytelling", "reporting"]
 heroImage: "/images/articles/sports-writing.webp"
-heroAlt: "A journalist typing on a laptop in a press box overlooking a sports stadium"
+heroAlt: "Editorial photograph representing the concept of sports writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Sports Writing?
 
-Sports writing is journalism and literary nonfiction focused on athletic competition, the people who play and coach sports, and the cultural significance of sports in society. It ranges from the game recap you read on your phone at midnight to longform narratives about athletes that rival the best magazine writing produced in any subject area.
+Sports writing is [journalism](/journalism) and literary nonfiction focused on athletic competition, the people who play and coach sports, and the cultural significance of sports in society. It ranges from the game recap you read on your phone at midnight to longform narratives about athletes that rival the best magazine writing produced in any subject area.
 
-The craft has been around as long as organized sports. Newspapers began covering boxing and horse racing in the 1800s. The "Golden Age of Sports Writing" in the 1920s produced writers like Grantland Rice and Ring Lardner who elevated sports coverage from results to storytelling. Today, sports writing spans game coverage, analysis, investigative reporting, features, opinion columns, and statistical analysis — published through newspapers, websites, podcasts, newsletters, and social media.
+The craft has been around as long as organized sports. Newspapers began covering [boxing](/boxing) and [horse racing](/horse-racing) in the 1800s. The "Golden Age of Sports Writing" in the 1920s produced writers like Grantland Rice and Ring Lardner who elevated sports coverage from results to [storytelling](/storytelling). Today, sports writing spans game coverage, analysis, investigative reporting, features, opinion columns, and statistical analysis — published through newspapers, websites, podcasts, newsletters, and social media.
 
 ## The Forms
 
@@ -41,11 +41,11 @@ Sports writing isn't one thing. It's several distinct forms, each with different
 
 **Game coverage** is the foundation — reporting what happened. The traditional game story answered who won, how they won, what the key plays were, and what players and coaches said afterward. This form has evolved significantly because by the time anyone reads a game story, they already know the score. Modern game stories focus less on play-by-play and more on why the result happened, what it means, and what comes next.
 
-**Beat reporting** means covering a specific team daily — attending every practice, press conference, game, and media availability throughout the season. Beat reporters are the primary sources of news about their team: roster moves, injuries, lineup changes, contract negotiations, and coaching decisions. It's a grind — 200+ events per year, constant travel, and the pressure to break news before competitors.
+**Beat reporting** means covering a specific team daily — attending every practice, press conference, game, and media availability throughout the season. Beat reporters are the primary sources of news about their team: roster moves, injuries, lineup changes, contract negotiations, and [coaching](/coaching) decisions. It's a grind — 200+ events per year, constant travel, and the pressure to break news before competitors.
 
-**Feature writing** is where sports writing becomes literature. A great sports feature profile might spend weeks or months with a subject, exploring their life, motivations, struggles, and humanity far beyond the playing field. Wright Thompson's profiles for ESPN, Gary Smith's work in Sports Illustrated, and Tom Junod's features for Esquire represent the form at its best — writing that transcends sports entirely.
+**Feature writing** is where sports writing becomes [literature](/literature). A great sports feature profile might spend weeks or months with a subject, exploring their life, motivations, struggles, and humanity far beyond the playing field. Wright Thompson's profiles for ESPN, Gary Smith's work in Sports Illustrated, and Tom Junod's features for Esquire represent the form at its best — writing that transcends sports entirely.
 
-**Analysis and opinion** have exploded with the internet. Columns, podcasts, newsletters, and social media threads offer interpretation, argument, and debate about sports decisions, trends, and controversies. The best analysts combine deep sport knowledge with strong writing — they help you understand what you're watching and why it matters.
+**Analysis and opinion** have exploded with the internet. Columns, podcasts, newsletters, and social media threads offer interpretation, argument, and [debate](/debate) about sports decisions, trends, and controversies. The best analysts combine deep sport knowledge with strong writing — they help you understand what you're watching and why it matters.
 
 **Investigative reporting** holds sports institutions accountable. The Spotlight team's work on the Penn State scandal, the investigations into FIFA corruption, and reporting on concussion risks in football are examples of sports journalism that created real-world consequences. This work requires traditional investigative skills — cultivating sources, obtaining documents, verifying facts — applied to the sports world.
 
@@ -69,7 +69,7 @@ Newspapers employed thousands of sports writers through the 1990s and early 2000
 
 Digital-native outlets filled some of the gap. The Athletic launched in 2016 with a subscription model, hiring beat writers across dozens of markets. It was acquired by the New York Times in 2022 for $550 million. Substack and other newsletter platforms enabled individual writers to build audiences directly — some established sports writers earn six figures from reader-supported newsletters.
 
-Social media, particularly Twitter/X, changed how sports news breaks and spreads. Reporters live-tweet games, break news on social media, and engage with audiences directly. The speed expectation has accelerated — a trade rumor that once had hours of lead time now requires posting within minutes.
+Social media, particularly Twitter/X, changed how sports news breaks and spreads. Reporters live-tweet games, break news on social media, and engage with audiences directly. The speed expectation has accelerated — a [trade](/trade) rumor that once had hours of lead time now requires posting within minutes.
 
 ## Why It Still Matters
 

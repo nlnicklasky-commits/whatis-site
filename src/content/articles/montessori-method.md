@@ -5,7 +5,7 @@ description: "The Montessori Method is a child-centered educational approach emp
 category: everyday-concepts
 tags: ["montessori method", "education", "child development", "Maria Montessori", "learning", "pedagogy"]
 heroImage: "/images/articles/montessori-method.webp"
-heroAlt: "Children working independently with colorful Montessori learning materials in a bright classroom"
+heroAlt: "Editorial photograph representing the concept of montessori method"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ In 1907, she opened the Casa dei Bambini (Children's House) in a low-income Rome
 
 **Freedom within limits.** Children choose their own activities and work at their own pace, but within a structured framework. There are rules — you must handle materials respectfully, complete activities before replacing them, and not disrupt others. Freedom doesn't mean chaos.
 
-**Mixed-age grouping.** Classes typically span three-year age ranges (3-6, 6-9, 9-12). Younger children learn from older ones; older children reinforce knowledge by teaching. This mirrors how learning works in families and communities.
+**Mixed-age grouping.** Classes typically span three-year age ranges (3-6, 6-9, 9-12). Younger children learn from older ones; older children reinforce knowledge by [teaching](/teaching). This mirrors how learning works in families and communities.
 
 **Uninterrupted work periods.** Children get long blocks of time (typically 2-3 hours) for self-directed work, rather than short periods broken by bells. This allows deep concentration and flow — what Montessori called "normalization."
 
@@ -71,7 +71,7 @@ This unstructured-looking environment is actually highly structured — but the 
 
 The research is generally positive. Montessori students consistently perform as well as or better than conventionally educated peers on academic measures, and typically outperform on measures of social skills, creativity, and executive function (the ability to plan, focus, and manage tasks).
 
-The caveats: study quality varies, and comparing Montessori with conventional education is complicated by self-selection (families who choose Montessori may differ systematically from those who don't). The strongest studies use lottery-based admission to Montessori programs, which eliminates selection bias. These studies generally show modest to significant advantages for Montessori students.
+The caveats: study quality varies, and comparing Montessori with conventional [education](/education) is complicated by self-selection (families who choose Montessori may differ systematically from those who don't). The strongest studies use lottery-based admission to Montessori programs, which eliminates selection bias. These studies generally show modest to significant advantages for Montessori students.
 
 ## Criticism
 

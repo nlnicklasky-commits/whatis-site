@@ -5,7 +5,7 @@ description: "Billiards is a family of cue sports played on a felt-covered table
 category: everyday-concepts
 tags: ["billiards", "pool", "snooker", "cue sports", "8-ball", "9-ball"]
 heroImage: "/images/articles/billiards.webp"
-heroAlt: "Billiards table with colorful balls arranged in triangle formation and a cue stick nearby"
+heroAlt: "Editorial photograph representing the concept of billiards"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Billiards?
 
-Billiards is a broad term for cue sports — games played on a rectangular felt-covered table where players use a tapered stick (a cue) to strike balls. The family includes pool (pocket billiards), snooker, and carom billiards, each with distinct rules, equipment, and competitive traditions. An estimated 40 million Americans play pool at least occasionally.
+Billiards is a broad term for cue sports — games played on a rectangular felt-covered table where players use a tapered stick (a cue) to strike balls. The family includes pool (pocket billiards), [snooker](/snooker), and carom billiards, each with distinct rules, equipment, and competitive traditions. An estimated 40 million Americans play pool at least occasionally.
 
 ## From Lawn to Table
 
@@ -45,7 +45,7 @@ By the 1800s, billiards was enormously popular across Europe and America, played
 
 The most widely played cue sport in the world. Fifteen object balls (seven solids, seven stripes, and the 8-ball) are racked in a triangle. After the break, each player claims either solids or stripes based on the first ball legally pocketed. You must pocket all seven of your group, then sink the 8-ball to win. Scratching (pocketing the cue ball) on the 8-ball loses the game.
 
-8-ball is what most people play in bars, basements, and rec rooms. The rules vary slightly from house to house — "bar rules" versus "official rules" is an eternal debate — but the basic structure is universal.
+8-ball is what most people play in bars, basements, and rec rooms. The rules vary slightly from house to house — "bar rules" versus "official rules" is an eternal [debate](/debate) — but the basic structure is universal.
 
 ### 9-Ball Pool
 
@@ -75,7 +75,7 @@ The [geometry](/geometry) and physics are learnable, but the execution requires 
 
 ## Pool Culture
 
-Pool halls have a complicated cultural reputation — partly social gathering places, partly associated with gambling and misspent youth. The 1961 film *The Hustler* (and its 1986 sequel *The Color of Money*) cemented pool's image as a game of skill, hustle, and personal drama.
+Pool halls have a complicated cultural reputation — partly social gathering places, partly associated with gambling and misspent youth. The 1961 film *The Hustler* (and its 1986 sequel *The Color of Money*) cemented pool's image as a game of skill, hustle, and personal [drama](/drama).
 
 Professional pool has struggled for mainstream recognition despite remarkable athletic skill. Efren Reyes (Philippines), widely considered the greatest pool player ever, could execute shots that looked physically impossible. The Philippines and Taiwan produce disproportionate numbers of world-class players relative to their populations.
 

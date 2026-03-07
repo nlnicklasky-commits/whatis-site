@@ -5,7 +5,7 @@ description: "Electricity is the flow of electric charge that powers modern life
 category: everyday-concepts
 tags: ["electricity", "everyday-concepts"]
 heroImage: "/images/articles/electricity.webp"
-heroAlt: "Lightning bolts striking across a dark sky above power transmission towers"
+heroAlt: "Editorial photograph representing the concept of electricity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,7 +39,7 @@ At the atomic level, electricity is about electrons — the tiny negatively char
 
 Apply a voltage (an electrical "pressure"), and these free electrons start drifting in one direction. That drift is electric current. The individual electrons move surprisingly slowly — only about 0.1 millimeters per second in a typical wire. But the electromagnetic field that pushes them propagates at nearly the speed of light, which is why your light turns on instantly when you flip the switch. It's like a long tube full of marbles — push one marble in one end, and a marble pops out the other end almost immediately, even though no single marble traveled the full distance.
 
-**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/digital-logic).
+**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/digital-[logic](/logic)).
 
 ## A Quick History
 
@@ -55,7 +55,7 @@ Ancient Greeks noticed that rubbing amber with fur attracted light objects — t
 
 ## How Power Gets to You
 
-The journey from generation to your outlet is a remarkable engineering system.
+The journey from generation to your outlet is a remarkable [engineering](/engineering) system.
 
 **Generation** happens at power plants where turbines spin generators (or solar panels convert photons to electrons). A large coal or nuclear plant generates 500-1,000 megawatts — enough for roughly 500,000 homes.
 
@@ -73,9 +73,9 @@ The electricity mix is changing faster than at any point since electrification b
 
 **Fossil fuels** (coal, natural gas, oil) still generate roughly 60% of global electricity, burning fuel to heat water to spin turbines. Natural gas has been replacing coal because it produces fewer emissions (though still substantial). Coal-fired generation has declined by roughly 30% in the US since 2010.
 
-**Nuclear power** generates about 10% of global electricity through nuclear fission — splitting uranium atoms releases enormous heat. A single uranium fuel pellet (the size of a pencil eraser) contains the energy equivalent of one ton of coal. Nuclear produces no direct carbon emissions but generates radioactive waste requiring thousands of years of storage.
+**[Nuclear power](/nuclear-power)** generates about 10% of global electricity through nuclear fission — splitting uranium atoms releases enormous heat. A single uranium fuel pellet (the size of a pencil eraser) contains the energy equivalent of one ton of coal. Nuclear produces no direct carbon emissions but generates radioactive waste requiring thousands of years of storage.
 
-**[Renewable sources](/alternative-energy)** are growing rapidly. Solar PV costs have dropped 90% since 2010. Wind power costs have dropped 70%. In 2023, renewables (including hydro) generated approximately 30% of global electricity, and the share is accelerating. The International Energy Agency projects that renewables will generate over 50% of global electricity by 2030.
+**[Renewable sources](/alternative-energy)** are growing rapidly. Solar PV costs have dropped 90% since 2010. [Wind power](/wind-power) costs have dropped 70%. In 2023, renewables (including hydro) generated approximately 30% of global electricity, and the share is accelerating. The International Energy Agency projects that renewables will generate over 50% of global electricity by 2030.
 
 ## Safety
 

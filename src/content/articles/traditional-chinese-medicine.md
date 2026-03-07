@@ -5,7 +5,7 @@ description: "Traditional Chinese Medicine (TCM) is an ancient health system usi
 category: everyday-concepts
 tags: ["traditional chinese medicine", "TCM", "acupuncture", "herbal medicine", "health", "wellness"]
 heroImage: "/images/articles/traditional-chinese-medicine.webp"
-heroAlt: "Traditional Chinese medicine herbs and acupuncture needles on a wooden surface"
+heroAlt: "Editorial photograph representing the concept of traditional chinese medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Traditional Chinese Medicine?
 
-Traditional Chinese Medicine (TCM) is a system of health practices that originated in [China](/chinese-history) over 2,000 years ago. It includes acupuncture, herbal medicine, tui na (therapeutic massage), dietary therapy, and exercises like tai chi and qigong. TCM is practiced by millions of people worldwide and represents one of the most complete traditional medical systems still in active use.
+Traditional Chinese Medicine (TCM) is a system of health practices that originated in [China](/chinese-history) over 2,000 years ago. It includes acupuncture, [herbal medicine](/herbal-medicine), tui na (therapeutic massage), dietary therapy, and exercises like [tai chi](/tai-chi) and [qigong](/qigong). TCM is practiced by millions of people worldwide and represents one of the most complete traditional medical systems still in active use.
 
 TCM operates from a fundamentally different framework than Western medicine. Rather than targeting specific diseases and pathogens, it focuses on restoring balance within the body — balancing yin and yang, ensuring the smooth flow of qi (vital energy), and harmonizing the body's organ systems.
 
@@ -77,7 +77,7 @@ However, herbal medicine also carries risks. Some products contain toxic substan
 
 ### Tui Na (Therapeutic Massage)
 
-Manual therapy techniques including pressing, kneading, and stretching, applied along meridians and at acupuncture points. Similar in some ways to Western massage therapy but guided by TCM diagnostic principles.
+Manual therapy techniques including pressing, kneading, and stretching, applied along meridians and at acupuncture points. Similar in some ways to Western [massage therapy](/massage-therapy) but guided by TCM diagnostic principles.
 
 ### Dietary Therapy
 
@@ -100,4 +100,4 @@ TCM occupies a contested space between traditional wisdom and evidence-based med
 
 **Critics** argue that the theoretical framework (qi, meridians, five elements) has no scientific basis, that many TCM practices lack rigorous evidence, and that the "ancient wisdom" argument is a logical fallacy — age doesn't equal validity. They advocate for extracting proven treatments from TCM while discarding unproven ones.
 
-The pragmatic middle ground, adopted by many researchers and the [WHO](/pharmacology), is to evaluate individual TCM practices on their evidence rather than accepting or rejecting the entire system wholesale. Some practices will prove effective; others won't. The scientific method, not tradition, should determine which is which.
+The pragmatic middle ground, adopted by many researchers and the [WHO](/pharmacology), is to evaluate individual TCM practices on their evidence rather than accepting or rejecting the entire system wholesale. Some practices will prove effective; others won't. The [scientific method](/scientific-method), not tradition, should determine which is which.

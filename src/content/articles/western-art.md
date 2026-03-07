@@ -5,7 +5,7 @@ description: "Western art spans thousands of years of visual culture from ancien
 category: arts-culture
 tags: ["western art", "art history", "painting", "sculpture", "fine arts", "visual culture"]
 heroImage: "/images/articles/western-art.webp"
-heroAlt: "Gallery wall displaying paintings from different periods of Western art history"
+heroAlt: "Editorial photograph representing the concept of western art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Western art is the visual art tradition that developed in Europe and, later, the
 
 Western art's origin story starts in Greece around the 8th century BCE. The Greeks were obsessed with the human body — its proportions, its movement, its idealized beauty. Their sculpture evolved from stiff, symmetrical figures (the Archaic period's kouros statues) to astonishingly lifelike works. The Parthenon marbles, carved around 447-432 BCE, show figures with weight, tension, and flowing drapery that still impresses today.
 
-The Romans inherited Greek aesthetics and added their own priorities: portraiture that captured actual faces (wrinkles and all, unlike the Greeks' idealized versions), engineering-scale architecture, and decorative painting. The frescoes at Pompeii, preserved under volcanic ash since 79 CE, show sophisticated use of color, perspective, and trompe l'oeil effects that wouldn't be matched for over a thousand years.
+The Romans inherited Greek [aesthetics](/aesthetics) and added their own priorities: portraiture that captured actual faces (wrinkles and all, unlike the Greeks' idealized versions), [engineering](/engineering)-scale [architecture](/architecture), and decorative painting. The frescoes at Pompeii, preserved under volcanic ash since 79 CE, show sophisticated use of color, perspective, and trompe l'oeil effects that wouldn't be matched for over a thousand years.
 
 ## The Medieval Shift
 
@@ -45,7 +45,7 @@ When the Roman Empire collapsed, Western art changed direction dramatically. Med
 
 Figures in medieval paintings appear flat and stylized. Sizes indicate importance, not spatial position — Christ is the largest figure, then saints, then ordinary people. Backgrounds are gold leaf rather than landscapes. This wasn't because medieval artists couldn't draw realistically. It was a deliberate choice: the physical world mattered less than the spiritual message.
 
-Byzantine mosaics, illuminated manuscripts, and Gothic cathedral sculpture all followed this logic. The stained glass windows at Chartres Cathedral (begun 1194) weren't decoration — they were theology in colored light, teaching Bible stories to a mostly illiterate population.
+Byzantine mosaics, illuminated manuscripts, and Gothic cathedral sculpture all followed this logic. The [stained glass](/stained-glass) windows at Chartres Cathedral (begun 1194) weren't decoration — they were theology in colored light, teaching Bible stories to a mostly illiterate population.
 
 ## The Renaissance Changed Everything
 
@@ -53,11 +53,11 @@ Starting in Florence around 1400, artists began looking at the ancient world aga
 
 **Linear perspective** — Filippo Brunelleschi demonstrated around 1415 that parallel lines converge at a vanishing point. Leon Battista Alberti published the theory in 1435. Suddenly, painters could create convincing illusions of three-dimensional space on flat surfaces.
 
-**Anatomy** — Leonardo da Vinci dissected over 30 human corpses to understand how muscles attached to bones. His drawings of human anatomy were more accurate than most medical textbooks of his era. This knowledge shows in every figure he painted.
+**Anatomy** — Leonardo da Vinci dissected over 30 human corpses to understand how muscles attached to bones. His drawings of [human anatomy](/human-anatomy) were more accurate than most medical textbooks of his era. This knowledge shows in every figure he painted.
 
-**Oil painting** — Developed in the Netherlands by artists like Jan van Eyck (active 1420s-1441), oil paint allowed layered glazing that created luminous, detailed surfaces impossible with the egg-tempera medium that preceded it.
+**[Oil painting](/oil-painting)** — Developed in the Netherlands by artists like Jan van Eyck (active 1420s-1441), oil paint allowed layered glazing that created luminous, detailed surfaces impossible with the egg-tempera medium that preceded it.
 
-The list of Renaissance masters reads like a greatest-hits album: Leonardo, Michelangelo, Raphael, Titian, Botticelli, Dürer. The Sistine Chapel ceiling (1508-1512) alone contains over 300 figures painted by Michelangelo lying on scaffolding 60 feet above the floor.
+The list of Renaissance masters reads like a greatest-hits album: Leonardo, Michelangelo, Raphael, Titian, Botticelli, Dürer. The Sistine Chapel ceiling (1508-1512) alone contains over 300 figures painted by Michelangelo lying on [scaffolding](/scaffolding) 60 feet above the floor.
 
 ## Baroque Drama and Enlightenment Elegance
 
@@ -65,7 +65,7 @@ The Baroque period (roughly 1600-1750) turned up the emotional volume. Caravaggi
 
 This was art designed to provoke emotional responses — awe in Catholic churches, pride in Dutch merchant homes, power in French palaces. Versailles, built under Louis XIV, is Baroque excess made architectural: 700 rooms, 2,000 acres of gardens, and enough gold leaf to wallpaper a small country.
 
-The 18th century brought Rococo (lighter, more decorative) and then Neoclassicism (a return to Greek and Roman restraint). Jacques-Louis David painted The Death of Socrates (1787) and The Oath of the Horatii (1784) as political statements disguised as ancient history — classical virtue as a critique of aristocratic decadence. Two years later, the French Revolution began.
+The 18th century brought Rococo (lighter, more decorative) and then [Neoclassicism](/neoclassicism) (a return to Greek and Roman restraint). Jacques-Louis David painted The Death of Socrates (1787) and The Oath of the Horatii (1784) as political statements disguised as ancient history — classical virtue as a critique of aristocratic decadence. Two years later, the French Revolution began.
 
 ## Romanticism Through Impressionism
 
@@ -89,7 +89,7 @@ Pop Art (Warhol, Lichtenstein) in the 1960s embraced commercial imagery. Minimal
 
 ## Where It Stands Now
 
-Contemporary Western art resists easy categorization. Installation art fills entire rooms. Performance art uses the artist's body as medium. Digital art exists as code. Street art (Banksy being the most famous example) questions who art is for and where it belongs.
+Contemporary Western art resists easy categorization. Installation art fills entire rooms. [Performance art](/performance-art) uses the artist's body as medium. [Digital art](/digital-art) exists as code. Street art (Banksy being the most famous example) questions who art is for and where it belongs.
 
 The art market has become its own spectacle. Global auction sales topped $65 billion in 2022. A banana duct-taped to a wall (Maurizio Cattelan's Comedian) sold for $6.2 million in 2024. Whether that's brilliant commentary or absurd excess depends on who you ask.
 

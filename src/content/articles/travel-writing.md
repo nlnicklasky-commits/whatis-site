@@ -5,7 +5,7 @@ description: "Travel writing captures the experience of places through narrative
 category: arts-amp-culture
 tags: ["travel writing", "writing", "travel", "journalism", "creative nonfiction", "literature"]
 heroImage: "/images/articles/travel-writing.webp"
-heroAlt: "A writer's notebook and pen resting on a café table overlooking a foreign cityscape"
+heroAlt: "Editorial photograph representing the concept of travel writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Travel Writing?
 
-Travel writing is the art of capturing the experience of a place — its sights, sounds, people, food, history, and atmosphere — through narrative prose. It's not just describing where you went. It's making readers feel like they've been there, or making them desperately want to go.
+Travel writing is the art of capturing the experience of a place — its sights, sounds, people, food, history, and atmosphere — through narrative [prose](/prose). It's not just describing where you went. It's making readers feel like they've been there, or making them desperately want to go.
 
 The genre is older than you might think. Herodotus was writing about his travels through Egypt and Persia in the 5th century BCE. Marco Polo's accounts of China captivated medieval Europe. Ibn Battuta covered roughly 75,000 miles across Africa, Asia, and Europe in the 14th century. The impulse to travel and then tell people about it is ancient.
 
@@ -47,7 +47,7 @@ Practical, information-dense, designed to help travelers make decisions. Where t
 
 ### The Magazine Feature
 
-Typically 2,000-5,000 words combining narrative storytelling with practical information. A feature about Oaxaca might weave personal experience, food culture, history, and restaurant recommendations into a single piece. Publications like *Travel + Leisure*, *Condé Nast Traveler*, and *National Geographic Traveler* set the standard.
+Typically 2,000-5,000 words combining narrative [storytelling](/storytelling) with practical information. A feature about Oaxaca might weave personal experience, food culture, history, and restaurant recommendations into a single piece. Publications like *Travel + Leisure*, *Condé Nast Traveler*, and *National Geographic Traveler* set the standard.
 
 ### The Travel Blog
 
@@ -65,7 +65,7 @@ Bad travel writing: "The food was amazing and the people were friendly." Good tr
 
 ### Honesty
 
-The worst travel writing reads like a tourism brochure — everything is "stunning," "breathtaking," and "unforgettable." Real places have flaws, frustrations, and complexities. The writer who admits to getting hopelessly lost, eating a terrible meal, or feeling lonely in a crowd is more trustworthy (and more interesting) than one who presents every destination as paradise.
+The worst travel writing reads like a [tourism](/tourism) brochure — everything is "stunning," "breathtaking," and "unforgettable." Real places have flaws, frustrations, and complexities. The writer who admits to getting hopelessly lost, eating a terrible meal, or feeling lonely in a crowd is more trustworthy (and more interesting) than one who presents every destination as paradise.
 
 ### Sense of Place
 
@@ -95,13 +95,13 @@ Travel writing carries responsibilities that casual travelers don't face.
 
 **Start with what you know.** You don't need to fly to Patagonia to write travel pieces. Your own city, seen through fresh eyes, is a perfectly valid subject. Some of the best [travel photography](/travel-photography) and travel writing focuses on the writer's own backyard.
 
-**Find a fresh angle.** Nobody needs another generic article about Paris. But an article about the Parisian laundromat culture, or the economics of boulangeries, or what it's like to work through Paris in a wheelchair — those stories haven't been told a thousand times.
+**Find a fresh angle.** Nobody needs another generic article about Paris. But an article about the Parisian laundromat culture, or the [economics](/economics) of boulangeries, or what it's like to work through Paris in a wheelchair — those stories haven't been told a thousand times.
 
 **Submit work.** Local newspapers, regional magazines, online publications, and literary journals all publish travel writing. The pay varies wildly — from nothing to several dollars per word — but getting published builds clips, credibility, and discipline.
 
 ## The Digital Shift
 
-The internet transformed travel writing in ways that are still playing out. Print travel magazines have shrunk. Guidebook sales have declined as travelers rely on Google Maps, TripAdvisor, and [blogs](/blogging). Social media reduced many travel stories to a single Instagram photo with a caption.
+The internet transformed travel writing in ways that are still playing out. Print travel magazines have shrunk. Guidebook [sales](/sales) have declined as travelers rely on Google Maps, TripAdvisor, and [blogs](/blogging). Social media reduced many travel stories to a single Instagram photo with a caption.
 
 But there's a countertrend. Readers hungry for substance — for writing that does more than list the "Top 10 Things to Do" — are finding it in literary travel magazines, Substack newsletters, podcasts, and long-form online publications. The appetite for well-told stories about places hasn't disappeared. The distribution channels have just changed.
 

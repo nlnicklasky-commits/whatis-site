@@ -5,7 +5,7 @@ description: "Baking is the method of cooking food using dry heat in an oven. Le
 category: everyday-concepts
 tags: ["baking", "cooking", "culinary arts", "bread", "cakes", "pastries"]
 heroImage: "/images/articles/baking.webp"
-heroAlt: "Assortment of freshly baked goods including bread rolls, croissants, and cookies on a cooling rack"
+heroAlt: "Editorial photograph representing the concept of baking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Baking?
 
-Baking is the method of cooking food by surrounding it with dry heat in an enclosed space, typically an oven. It transforms raw ingredients — flour, sugar, eggs, butter, leavening agents — into bread, cakes, pastries, cookies, and dozens of other foods through a series of chemical reactions that are far more interesting than most people realize.
+Baking is the method of [cooking](/cooking) food by surrounding it with dry heat in an enclosed space, typically an oven. It transforms raw ingredients — flour, sugar, eggs, butter, leavening agents — into bread, cakes, pastries, cookies, and dozens of other foods through a series of chemical reactions that are far more interesting than most people realize.
 
 ## Chemistry You Can Eat
 
@@ -49,7 +49,7 @@ The key [chemical reactions](/chemistry) in baking include:
 
 ## The Essential Ingredients
 
-**Flour** provides structure. All-purpose flour works for most home baking. Bread flour has more protein (12-14%) for stronger gluten. Cake flour has less protein (7-9%) for tenderer results. Whole wheat flour adds nutrition and flavor but absorbs more liquid and produces denser results.
+**Flour** provides structure. All-purpose flour works for most home baking. Bread flour has more protein (12-14%) for stronger gluten. Cake flour has less protein (7-9%) for tenderer results. Whole wheat flour adds [nutrition](/nutrition) and flavor but absorbs more liquid and produces denser results.
 
 **Fat** — butter, oil, shortening — tenderizes by coating gluten strands and preventing them from forming long, tough networks. Fat also carries flavor (butter is roughly 80% fat and 15% water, which is why it tastes different from oil) and contributes to browning.
 
@@ -61,7 +61,7 @@ The key [chemical reactions](/chemistry) in baking include:
 
 ## Major Categories of Baked Goods
 
-**Bread** — From sandwich loaves to [artisan sourdough](/artisan-bread-making), bread relies on yeast or sourdough fermentation for both rise and flavor. The world's most consumed baked good by far.
+**Bread** — From sandwich loaves to [artisan sourdough](/artisan-bread-making), bread relies on yeast or [sourdough](/sourdough) fermentation for both rise and flavor. The world's most consumed baked good by far.
 
 **Cakes** — Tender, sweet, often layered. The creaming method (beating butter and sugar to incorporate air) is the foundation technique for butter cakes. Sponge cakes rely on whipped eggs for leavening instead.
 

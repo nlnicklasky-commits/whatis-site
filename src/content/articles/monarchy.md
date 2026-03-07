@@ -5,7 +5,7 @@ description: "Monarchy is a form of government ruled by a king or queen. Learn a
 category: everyday-concepts
 tags: ["monarchy", "government", "royalty", "political systems", "constitutional monarchy", "history"]
 heroImage: "/images/articles/monarchy.webp"
-heroAlt: "Royal crown resting on a velvet cushion in a ceremonial hall"
+heroAlt: "Editorial photograph representing the concept of monarchy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Monarchy?
 
-Monarchy is a form of government in which a single person — a king, queen, emperor, or sultan — serves as head of state, usually for life, with the position inherited through a royal family. It's the oldest form of government still in practice, with roots stretching back to the earliest civilizations, and it remains surprisingly common. Forty-three countries are monarchies today, and they include some of the world's wealthiest and most democratic nations.
+Monarchy is a form of [government](/government) in which a single person — a king, queen, emperor, or sultan — serves as head of state, usually for life, with the position inherited through a royal family. It's the oldest form of government still in practice, with roots stretching back to the earliest civilizations, and it remains surprisingly common. Forty-three countries are monarchies today, and they include some of the world's wealthiest and most democratic nations.
 
 The word comes from Greek: "monos" (single) + "arkhein" (to rule). One ruler. Simple in concept. Enormously varied in practice.
 
@@ -63,9 +63,9 @@ Defenders argue that constitutional monarchy provides: a nonpartisan head of sta
 
 Critics counter that hereditary privilege is fundamentally undemocratic; that maintaining royal households is expensive (the UK monarchy costs about $100 million annually); that the institution reinforces class hierarchy; and that any symbolic benefits could be provided by an elected president.
 
-## The Economics
+## The [Economics](/economics)
 
-Does monarchy pay for itself? The UK claims it does — tourism associated with the monarchy generates roughly $2.7 billion annually, and the Crown Estate (royal properties) contributes about $400 million per year to the government. But these numbers are debatable — tourists visit Versailles (no monarchy) as readily as Buckingham Palace.
+Does monarchy pay for itself? The UK claims it does — [tourism](/tourism) associated with the monarchy generates roughly $2.7 billion annually, and the Crown Estate (royal properties) contributes about $400 million per year to the government. But these numbers are debatable — tourists visit Versailles (no monarchy) as readily as Buckingham Palace.
 
 Scandinavian monarchies are far cheaper. The Norwegian royal household costs about $25 million annually — roughly $5 per citizen — and enjoys 80%+ approval ratings.
 
@@ -73,4 +73,4 @@ Scandinavian monarchies are far cheaper. The Norwegian royal household costs abo
 
 Monarchy's long-term trajectory is toward further constitutional limitation or abolition. Several Caribbean nations have recently moved to become republics, removing the British monarch as head of state. Australia periodically debates the same question. Anti-monarchy movements exist in virtually every remaining monarchy.
 
-But reports of monarchy's death are premature. The institution has survived by adapting — from divine-right absolutism to constitutional ceremony — and may continue adapting. As long as nations value continuity, tradition, and a head of state who stands above partisan politics, constitutional monarchy will have defenders. Whether a hereditary position is the best way to achieve these goals remains an open and legitimate debate.
+But reports of monarchy's death are premature. The institution has survived by adapting — from divine-right absolutism to constitutional ceremony — and may continue adapting. As long as nations value continuity, tradition, and a head of state who stands above partisan [politics](/politics), constitutional monarchy will have defenders. Whether a hereditary position is the best way to achieve these goals remains an open and legitimate [debate](/debate).

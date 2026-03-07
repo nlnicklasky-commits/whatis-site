@@ -5,7 +5,7 @@ description: "Ethology is the scientific study of animal behavior in natural con
 category: science
 tags: ["ethology", "animal behavior", "zoology", "biology", "ecology", "instinct", "learning"]
 heroImage: "/images/articles/ethology-hero.webp"
-heroAlt: "Wolf pack displaying social behavior in their natural habitat"
+heroAlt: "Editorial photograph representing the concept of ethology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -172,7 +172,7 @@ Some insights have held up well. Infant attachment theory, developed by John Bow
 
 Other claims — particularly about the "instinctive" basis of human aggression — have been more controversial. Lorenz's 1963 book *On Aggression* argued that humans have an innate aggressive drive. Critics pointed out that human aggression varies enormously across cultures and circumstances, suggesting that cultural and social factors matter at least as much as biology.
 
-Modern human behavioral ecology and evolutionary psychology continue to apply ethological thinking to human behavior, but with greater awareness of cultural complexity and the risks of biological determinism.
+Modern human behavioral ecology and [evolutionary psychology](/evolutionary-psychology) continue to apply ethological thinking to human behavior, but with greater awareness of cultural complexity and the risks of biological determinism.
 
 ## How to Become an Ethologist
 
@@ -183,9 +183,9 @@ Most professional ethologists hold PhDs in biology, zoology, psychology, or a re
 - Graduate school (MS and/or PhD) specializing in animal behavior
 - Postdoctoral research before academic positions
 
-Field research skills are essential — patience, observational acuity, physical endurance, comfort with remote conditions, and the ability to work independently for extended periods. Statistical competence is non-negotiable; modern behavioral research involves sophisticated quantitative analysis.
+Field research skills are essential — patience, observational acuity, physical endurance, comfort with remote conditions, and the ability to work independently for extended periods. Statistical competence is non-negotiable; modern behavioral research involves sophisticated [quantitative analysis](/quantitative-analysis).
 
-Career options include university research and teaching, zoo and aquarium science, wildlife conservation, animal welfare organizations, and consulting on human-animal interactions.
+Career options include university research and teaching, zoo and aquarium science, [wildlife conservation](/wildlife-conservation), animal welfare organizations, and consulting on human-animal interactions.
 
 ## Why Ethology Matters
 
@@ -193,7 +193,7 @@ Ethology matters because understanding animal behavior tells us something import
 
 Every behavior you observe in an animal — from a spider spinning a web to a whale singing across ocean basins — is the product of millions of years of natural selection. These behaviors are solutions to survival problems: finding food, avoiding predators, attracting mates, raising offspring. Understanding them reveals the logic of evolution in action.
 
-Ethology also matters practically. Conservation, agriculture, veterinary medicine, and even urban planning benefit from behavioral knowledge. And by understanding the evolutionary roots of behavior — including our own — we gain perspective on what it means to be an animal species navigating a complex world.
+Ethology also matters practically. Conservation, agriculture, [veterinary medicine](/veterinary-medicine), and even [urban planning](/urban-planning) benefit from behavioral knowledge. And by understanding the evolutionary roots of behavior — including our own — we gain perspective on what it means to be an animal species navigating a complex world.
 
 ## Key Takeaways
 

@@ -5,7 +5,7 @@ description: "Camera operation is the art and technical skill of capturing image
 category: arts-amp-culture
 tags: ["camera", "photography", "videography", "exposure", "composition", "lenses"]
 heroImage: "/images/articles/camera-operation.webp"
-heroAlt: "Camera operator adjusting settings on a professional DSLR camera with a large lens"
+heroAlt: "Editorial photograph representing the concept of camera operation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Camera Operation?
 
-Camera operation is the technical skill and creative practice of capturing still images or moving video using photographic equipment. It encompasses understanding exposure settings, lens selection, composition, lighting, focus, and the visual storytelling that transforms raw captures into compelling images or footage.
+Camera operation is the technical skill and creative practice of capturing still images or moving video using photographic equipment. It encompasses understanding exposure settings, lens selection, composition, lighting, focus, and the visual [storytelling](/storytelling) that transforms raw captures into compelling images or footage.
 
 ## The Fundamental Principle
 
@@ -69,7 +69,7 @@ Good composition is partly learned (studying other photographers' work, practici
 
 The lens matters more than the camera body for image quality and creative control.
 
-**Wide-angle lenses** (14-35mm) capture broad scenes, exaggerate perspective, and create a sense of space. Used for landscapes, architecture, and environmental portraiture.
+**Wide-angle lenses** (14-35mm) capture broad scenes, exaggerate perspective, and create a sense of space. Used for landscapes, [architecture](/architecture), and environmental portraiture.
 
 **Standard lenses** (35-70mm) approximate human visual perspective. The 50mm lens — cheap, sharp, and versatile — is the classic learning lens.
 
@@ -95,6 +95,6 @@ Professional camera operation persists because dedicated equipment offers contro
 
 ## Career Paths
 
-Camera operators work in numerous contexts: photojournalism, wedding and portrait photography, commercial and advertising photography, film and television production, documentary production, sports photography, scientific and medical imaging, and real estate photography. The Bureau of Labor Statistics reports approximately 143,000 professional photographers in the U.S., with additional demand for video camera operators in film and broadcasting.
+Camera operators work in numerous contexts: photojournalism, wedding and [portrait photography](/portrait-photography), commercial and advertising photography, film and [television production](/television-production), documentary production, [sports photography](/sports-photography), scientific and [medical imaging](/medical-imaging), and [real estate](/real-estate) photography. The Bureau of Labor Statistics reports approximately 143,000 professional photographers in the U.S., with additional demand for video camera operators in film and [broadcasting](/broadcasting).
 
 The barrier to entry has never been lower — a smartphone and a good eye are sufficient to start. But professional-level work requires understanding light, composition, and equipment at a depth that takes years to develop. The camera is just a tool. The photographer is the artist.

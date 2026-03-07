@@ -5,7 +5,7 @@ description: "Geometry is the branch of mathematics studying shapes, sizes, posi
 category: science
 tags: ["geometry", "mathematics", "shapes", "spatial relationships", "euclidean geometry", "algebra", "trigonometry"]
 heroImage: "/images/articles/geometry-hero.webp"
-heroAlt: "Geometric shapes and spatial constructions illustrating key concepts in geometry"
+heroAlt: "Editorial photograph representing the concept of geometry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

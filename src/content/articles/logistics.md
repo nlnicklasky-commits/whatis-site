@@ -5,7 +5,7 @@ description: "Logistics manages the flow of goods from origin to destination. Le
 category: technology
 tags: ["logistics", "supply chain", "transportation", "warehousing", "distribution", "operations", "freight"]
 heroImage: "/images/articles/logistics-hero.webp"
-heroAlt: "Aerial view of a busy shipping port with containers, trucks, and cargo ships"
+heroAlt: "Editorial photograph representing the concept of logistics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -43,7 +43,7 @@ Think about the last thing you ordered online. Between clicking "buy" and openin
 
 Global logistics is a roughly $10 trillion industry — yes, trillion — representing about 12% of global GDP. In the United States alone, the logistics sector employs over 6 million people and spends about $2.3 trillion annually moving and storing goods.
 
-When logistics works, nobody notices. When it breaks, everyone does. The COVID-19 pandemic made this viscerally clear: empty store shelves, months-long waits for electronics, skyrocketing shipping costs, and a global "supply chain crisis" that dominated headlines for over a year.
+When logistics works, nobody notices. When it breaks, everyone does. The COVID-19 pandemic made this viscerally clear: empty store shelves, months-long waits for [electronics](/electronics), skyrocketing shipping costs, and a global "supply chain crisis" that dominated headlines for over a year.
 
 The 2021 Suez Canal blockage by the Ever Given container ship — a single vessel stuck sideways in a canal — disrupted an estimated $9.6 billion in trade per day and created ripple effects lasting months. That's how interconnected and fragile the global logistics network can be.
 
@@ -73,9 +73,9 @@ Warehouses aren't just empty buildings where stuff sits. Modern warehouses are s
 
 **Cold chain** logistics maintains temperature-controlled environments for perishable goods — food, pharmaceuticals, chemicals. The cold chain is one of the most complex and expensive areas of logistics. A single temperature excursion can destroy millions of dollars in pharmaceutical products.
 
-**Warehouse management systems (WMS)** software tracks every item's location, manages pick paths for workers, coordinates receiving and shipping, and maintains inventory accuracy. Without WMS, modern e-commerce would be impossible.
+**Warehouse [management](/management) systems (WMS)** software tracks every item's location, manages pick paths for workers, coordinates receiving and shipping, and maintains inventory accuracy. Without WMS, modern e-commerce would be impossible.
 
-### Inventory Management
+### [Inventory Management](/inventory-management)
 
 Inventory is money sitting on shelves. Too much inventory ties up capital and risks obsolescence. Too little means stockouts — lost sales and unhappy customers. Getting the balance right is one of the central challenges in logistics.
 
@@ -100,7 +100,7 @@ Each link affects the others. A sourcing decision to buy from a cheaper overseas
 
 **Supply chain visibility** — knowing where every product is at every moment — has become a major focus. Technologies like IoT sensors, GPS tracking, and [blockchain](/blockchain) are closing visibility gaps. When you track a package on your phone and see it moving in real time, that's supply chain visibility at the consumer level. Companies apply the same principle across their entire product flow.
 
-## The Economics of Logistics
+## The [Economics](/economics) of Logistics
 
 ### Cost Structure
 
@@ -142,7 +142,7 @@ Sorting systems automatically route packages based on destination, size, and wei
 
 ### Data and Analytics
 
-Logistics generates enormous data volumes — shipment records, GPS traces, sensor readings, demand patterns, carrier performance metrics. Analyzing this data drives optimization.
+Logistics generates enormous data volumes — shipment records, GPS traces, sensor readings, demand patterns, carrier performance metrics. Analyzing this data drives [optimization](/optimization).
 
 **Route optimization** [algorithms](/algorithms) find the best paths for delivery vehicles, considering distance, traffic, time windows, vehicle capacity, and driver schedules. UPS's ORION system saves the company an estimated $400 million annually through route optimization. A reduction of just one mile per driver per day saves the company $50 million per year.
 
@@ -218,4 +218,4 @@ Logistics is the art and science of moving goods from where they are to where th
 
 The field is being transformed by technology — automation, data analytics, IoT, and [artificial intelligence](/artificial-intelligence) — but its fundamental challenge remains the same: bridging the gap between supply and demand across space and time.
 
-What makes logistics fascinating is its invisibility when working and its devastating impact when failing. The system that delivers your package in two days involves dozens of companies, thousands of workers, and millions of dollars in infrastructure — all orchestrated to make a $20 purchase arrive at your door as if by magic. That orchestration is logistics.
+What makes logistics fascinating is its invisibility when working and its devastating impact when failing. The system that delivers your package in two days involves dozens of companies, thousands of workers, and millions of dollars in infrastructure — all orchestrated to make a $20 purchase arrive at your door as if by magic. That [orchestration](/orchestration) is logistics.

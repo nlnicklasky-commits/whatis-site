@@ -5,7 +5,7 @@ description: "Creative writing is original composition that uses imagination and
 category: arts-amp-culture
 tags: ["creative writing", "writing", "fiction", "poetry", "storytelling", "literature"]
 heroImage: "/images/articles/creative-writing.webp"
-heroAlt: "A writer's desk with an open notebook, pen, and scattered draft pages"
+heroAlt: "Editorial photograph representing the concept of creative writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Creative Writing?
 
-Creative writing is original written work that prioritizes artistic expression, imagination, and literary craft over purely informational or commercial purposes. It encompasses fiction, [poetry](/poetry), memoir, personal essay, playwriting, and screenwriting — basically any writing where how you say something matters as much as what you say.
+Creative writing is original written work that prioritizes artistic expression, imagination, and literary craft over purely informational or commercial purposes. It encompasses fiction, [poetry](/poetry), memoir, personal essay, [playwriting](/playwriting), and screenwriting — basically any writing where how you say something matters as much as what you say.
 
 ## The Line Between Creative and Everything Else
 
@@ -41,7 +41,7 @@ When Toni Morrison writes "124 was spiteful" to open *Beloved*, she's not delive
 
 ## The Major Forms
 
-**Fiction** tells invented stories. The novel (typically 50,000-120,000 words), the short story (1,000-10,000 words), and flash fiction (under 1,000 words) are the primary forms. Each demands different skills — novels require sustained narrative architecture; short stories demand compression and precision; flash fiction is more like poetry in prose form.
+**Fiction** tells invented stories. The novel (typically 50,000-120,000 words), the short story (1,000-10,000 words), and flash fiction (under 1,000 words) are the primary forms. Each demands different skills — novels require sustained narrative [architecture](/architecture); short stories demand compression and precision; flash fiction is more like poetry in prose form.
 
 **Poetry** uses language at its most concentrated. Line breaks, rhythm, sound, imagery, and metaphor carry meaning in ways prose typically doesn't. Poetry ranges from formal (sonnets, villanelles, haiku) to free verse to experimental forms that challenge the very definition of poetry. Despite its reputation as niche, poetry collections have seen growing sales in recent years, partly driven by social media poets like Rupi Kaur.
 
@@ -69,7 +69,7 @@ There's no single correct process, but most experienced writers follow some vers
 
 **Feedback** — sharing work with trusted readers, workshop groups, or editors. External perspective catches blind spots that the writer can't see. Learning to receive criticism productively is one of the hardest and most important skills a writer develops.
 
-**Submission or publication** — sending work to literary journals, agents, publishers, or self-publishing platforms. This step terrifies most writers and requires both courage and thick skin. Rejection is normal — even famous authors accumulated hundreds of rejections before their first publication.
+**Submission or publication** — sending work to literary journals, agents, publishers, or [self-publishing](/self-publishing) platforms. This step terrifies most writers and requires both courage and thick skin. Rejection is normal — even famous authors accumulated hundreds of rejections before their first publication.
 
 ## Reading as Writing Practice
 
@@ -81,14 +81,14 @@ Stephen King reads 70-80 books per year. Most professional writers read at a sim
 
 ## Making a Living
 
-Let's be honest about the economics. Very few creative writers support themselves solely through their creative work. The median income from writing for published authors is well below the poverty line. Most writers who "make a living writing" do so through adjacent work — teaching, [journalism](/journalism), freelance copywriting, editing, or speaking.
+Let's be honest about the economics. Very few creative writers support themselves solely through their creative work. The median income from writing for published authors is well below the poverty line. Most writers who "make a living writing" do so through adjacent work — teaching, [journalism](/journalism), freelance [copywriting](/copywriting), editing, or speaking.
 
 This isn't new. William Faulkner wrote screenplays in Hollywood. Toni Morrison worked as an editor at Random House. Wallace Stevens was an insurance executive. The romantic image of the full-time writer supported by book sales alone describes a tiny fraction of published authors.
 
-That said, writing can generate income — particularly for genre fiction writers (romance, thriller, science fiction) who publish frequently, and for self-published authors who treat their writing as a business. The paths to sustainable creative writing careers are more varied than ever.
+That said, writing can generate income — particularly for genre fiction writers (romance, thriller, [science fiction](/science-fiction)) who publish frequently, and for self-published authors who treat their writing as a business. The paths to sustainable creative writing careers are more varied than ever.
 
 ## Why It Matters
 
-Creative writing does something that no other form of communication does quite as well: it lets you inhabit another consciousness. When you read [fiction](/comparative-literature) or memoir, you experience the world through someone else's perceptions, feelings, and circumstances. Neuroscience research has shown that reading narrative fiction activates brain regions associated with empathy and social cognition.
+Creative writing does something that no other form of communication does quite as well: it lets you inhabit another consciousness. When you read [fiction](/comparative-literature) or memoir, you experience the world through someone else's perceptions, feelings, and circumstances. [Neuroscience](/neuroscience) research has shown that reading narrative fiction activates brain regions associated with empathy and social cognition.
 
 This capacity — to imagine beyond your own experience — is arguably one of humanity's most important abilities. Creative writing, at its best, exercises and expands it. That's not a small contribution to the world.

@@ -5,7 +5,7 @@ description: "Japanese mythology includes Shinto creation stories, kami spirits,
 category: everyday-concepts
 tags: ["japanese mythology", "Shinto", "kami", "folklore", "Japanese culture"]
 heroImage: "/images/articles/japanese-mythology.webp"
-heroAlt: "Torii gate at a forest shrine with morning mist representing the spirit world"
+heroAlt: "Editorial photograph representing the concept of japanese mythology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,9 +29,9 @@ faq:
     a: "Very much so. Shinto shrines are visited by roughly 80 million people during New Year alone. Mythology pervades Japanese popular culture — anime like 'Spirited Away,' 'Naruto,' and 'Inuyasha' draw heavily on mythological themes. Seasonal festivals (matsuri) reenact mythological events. And the imperial family's legitimacy still formally derives from descent from Amaterasu."
 ---
 
-# What Is Japanese Mythology?
+# What Is Japanese [Mythology](/mythology)?
 
-Japanese mythology is the collection of creation stories, divine narratives, and supernatural tales drawn primarily from Shinto (Japan's indigenous religion) and Buddhist traditions, recorded in texts dating to the 8th century CE but reflecting much older oral traditions. These myths explain how the world was created, how the Japanese islands formed, where the imperial lineage began, and how humans should relate to the countless spirits (kami) that inhabit the natural world.
+Japanese mythology is the collection of creation stories, divine narratives, and supernatural tales drawn primarily from Shinto (Japan's indigenous [religion](/religion)) and Buddhist traditions, recorded in texts dating to the 8th century CE but reflecting much older oral traditions. These myths explain how the world was created, how the Japanese islands formed, where the imperial lineage began, and how humans should relate to the countless spirits (kami) that inhabit the natural world.
 
 ## Creation — The Cosmic Couple
 
@@ -51,7 +51,7 @@ After escaping Yomi, Izanagi purifies himself. From his washing emerge three of 
 
 **Susanoo** — the storm god, born from his nose. Wild, destructive, and charismatic, Susanoo is the mythological trickster. His conflict with Amaterasu drives one of the most important myths.
 
-After Susanoo's disruptive behavior in heaven (destroying rice paddies, flaying a pony and hurling it through Amaterasu's weaving hall), Amaterasu retreats into a cave — plunging the world into darkness. The other gods lure her out through a comic performance by the goddess Ame-no-Uzume, whose ribald dancing makes the assembled deities laugh so loudly that Amaterasu emerges from curiosity. Light returns to the world.
+After Susanoo's disruptive behavior in heaven (destroying rice paddies, flaying a pony and hurling it through Amaterasu's [weaving](/weaving) hall), Amaterasu retreats into a cave — plunging the world into darkness. The other gods lure her out through a comic performance by the goddess Ame-no-Uzume, whose ribald dancing makes the assembled deities laugh so loudly that Amaterasu emerges from curiosity. Light returns to the world.
 
 Exiled from heaven, Susanoo descends to the province of Izumo, where he slays the eight-headed serpent **Yamata no Orochi** and discovers the legendary sword Kusanagi in one of its tails.
 
@@ -63,17 +63,17 @@ Shinto shrines mark places where kami are particularly present. The **torii gate
 
 ## Buddhist Additions
 
-When Buddhism arrived in Japan in the 6th century CE, it brought its own mythology — heavens and hells, bodhisattvas, demons, and cosmic cycles. Rather than displacing Shinto mythology, Buddhism merged with it. Kami were reinterpreted as local manifestations of Buddhist deities. Temples and shrines often shared the same grounds.
+When [Buddhism](/buddhism) arrived in Japan in the 6th century CE, it brought its own mythology — heavens and hells, bodhisattvas, demons, and cosmic cycles. Rather than displacing Shinto mythology, Buddhism merged with it. Kami were reinterpreted as local manifestations of Buddhist deities. Temples and shrines often shared the same grounds.
 
 This syncretism produced unique Japanese Buddhist figures like **Jizo** — a bodhisattva who protects children, travelers, and the souls of deceased infants. Small Jizo statues, dressed in red bibs and caps, are found along roadsides and in cemeteries throughout Japan.
 
 ## Yokai — The Supernatural Bestiary
 
-Japanese folklore is populated by **yokai** — supernatural creatures ranging from terrifying to comical:
+Japanese [folklore](/folklore) is populated by **yokai** — supernatural creatures ranging from terrifying to comical:
 
 **Kappa** — river-dwelling creatures with a dish of water on their heads. Mischievous and dangerous, they can be defeated by bowing — the kappa bows back, spilling its head-water and losing its power.
 
-**Tengu** — long-nosed or bird-beaked mountain spirits associated with martial arts and mischief. Originally feared as demons, they gradually became protective spirits.
+**Tengu** — long-nosed or bird-beaked mountain spirits associated with [martial arts](/martial-arts) and mischief. Originally feared as demons, they gradually became protective spirits.
 
 **Kitsune** — foxes with shape-shifting abilities, often appearing as beautiful women. They serve the rice god Inari and can be either benevolent or malicious.
 

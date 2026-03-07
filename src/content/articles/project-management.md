@@ -5,7 +5,7 @@ description: "Project management is how teams plan, execute, and deliver work on
 category: technology
 tags: ["project management", "pmp", "agile", "scrum", "project planning", "risk management", "time management"]
 heroImage: "/images/articles/project-management-hero.webp"
-heroAlt: "Gantt chart and project timeline with team collaboration elements"
+heroAlt: "Editorial photograph representing the concept of project management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,13 +35,13 @@ faq:
     a: "Common tools include Jira and Asana for task tracking, Microsoft Project for scheduling, Confluence for documentation, Slack for communication, and Miro for visual collaboration. The specific tools matter less than having clear processes for planning, tracking, and communicating."
 ---
 
-# What Is Project Management?
+# What Is Project [Management](/management)?
 
 Project management is the discipline of planning, organizing, securing resources, and overseeing the execution of work to achieve specific goals within defined constraints — typically scope, time, and cost. It's the difference between a team flailing at a vague goal and a team methodically delivering a concrete result.
 
 ## Why Projects Fail (And Why Project Management Exists)
 
-Here's a sobering number: according to the Standish Group's research, about 66% of software projects end up challenged (over budget, late, or with fewer features than planned) or outright failed. The construction industry isn't much better — large infrastructure projects average 28% over budget and 33% late, according to McKinsey research.
+Here's a sobering number: according to the Standish Group's research, about 66% of software projects end up challenged (over budget, late, or with fewer features than planned) or outright failed. The [construction](/construction) industry isn't much better — large infrastructure projects average 28% over budget and 33% late, according to McKinsey research.
 
 Projects don't usually fail because the people working on them are incompetent. They fail because of preventable management problems: unclear requirements, poor communication, unrealistic timelines, scope creep, missing stakeholder alignment, and inadequate risk planning.
 
@@ -73,9 +73,9 @@ Before planning, you need to define *what* you're doing and *why*. The initiatin
 
 Planning is where the real work of project management begins. A solid plan doesn't guarantee success, but inadequate planning virtually guarantees failure.
 
-**Work breakdown structure (WBS)** decomposes the project into manageable pieces. A WBS for building a house might break down into: foundation, framing, electrical, plumbing, interior finishing, landscaping. Each of these breaks down further — electrical includes wiring, panel installation, fixture installation, inspection.
+**Work breakdown structure (WBS)** decomposes the project into manageable pieces. A WBS for building a house might break down into: foundation, framing, electrical, plumbing, interior finishing, [landscaping](/landscaping). Each of these breaks down further — electrical includes wiring, panel installation, fixture installation, inspection.
 
-**Scheduling** sequences the work items and estimates durations. Critical path analysis identifies the longest chain of dependent tasks — the sequence that determines the minimum project duration. Any delay on the critical path delays the entire project.
+**[Scheduling](/scheduling)** sequences the work items and estimates durations. Critical path analysis identifies the longest chain of dependent tasks — the sequence that determines the minimum project duration. Any delay on the critical path delays the entire project.
 
 **Resource planning** determines who does what. Do you have enough developers? Does the database engineer have bandwidth? Will you need to hire contractors? Resource conflicts are one of the most common causes of project delays.
 
@@ -129,7 +129,7 @@ The traditional, sequential approach. Requirements are fully defined upfront, th
 
 - Individuals and interactions over processes and tools
 - Working software over documentation
-- Customer collaboration over contract negotiation
+- Customer collaboration over contract [negotiation](/negotiation)
 - Responding to change over following a plan
 
 Agile delivers work in short iterations (typically 2-4 weeks), each producing a potentially shippable increment. Requirements can evolve throughout the project as the team learns from each iteration.
@@ -154,7 +154,7 @@ The methodology wars of the 2000s and 2010s have largely settled. The consensus 
 
 **Lean project management**, adapted from [lean manufacturing](/lean-manufacturing) principles, focuses on eliminating waste, maximizing value, and continuous improvement.
 
-## Risk Management: Expecting the Unexpected
+## [Risk Management](/risk-management): Expecting the Unexpected
 
 Every project faces uncertainty. Risk management doesn't eliminate uncertainty — it makes you prepared for it.
 
@@ -209,7 +209,7 @@ Project managers spend 75-90% of their time communicating, according to PMI rese
 
 The most important communication skill is translating between audiences. Engineers need technical detail. Executives need business impact. Clients need reassurance. The PM must speak all these languages fluently.
 
-### Leadership Without Authority
+### [Leadership](/leadership) Without Authority
 
 Most project managers don't directly manage their team members. The developers, designers, and specialists report to functional managers, not the PM. This means PMs must lead through influence rather than authority — a skill that's harder than it sounds.
 
@@ -251,7 +251,7 @@ Construction uses traditional Waterfall-style management heavily. Building codes
 
 Healthcare projects — implementing electronic health records, building hospital wings, developing medical devices — face intense regulatory requirements. Every change must be documented, validated, and approved through formal change control. The stakes are literally life and death.
 
-### Government
+### [Government](/government)
 
 Government projects are notorious for failure. The FBI's Virtual Case File system, the UK's NHS IT program, and Healthcare.gov's launch are cautionary tales. Government PM faces unique challenges: procurement regulations, political pressures, multi-year timelines, and the difficulty of firing underperformers in civil service environments.
 

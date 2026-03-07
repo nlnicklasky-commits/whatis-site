@@ -5,7 +5,7 @@ description: "The Thirty Years' War (1618-1648) devastated Central Europe and re
 category: history
 tags: ["thirty years war", "european history", "peace of westphalia", "holy roman empire"]
 heroImage: "/images/articles/thirty-years-war.webp"
-heroAlt: "Seventeenth-century battlefield painting showing armies with pikes and muskets in Central Europe"
+heroAlt: "Editorial photograph representing the concept of thirty years' war"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Thirty Years' War?
 
-The Thirty Years' War (1618–1648) was the most destructive conflict in European history before the 20th century. What started as a religious dispute in Bohemia spiraled into a continent-wide catastrophe that killed millions, depopulated entire regions of Central Europe, and fundamentally reshaped how nations relate to each other. The peace treaty that ended it — the Peace of Westphalia — created the modern concept of state sovereignty that still governs international relations today.
+The Thirty Years' War (1618–1648) was the most destructive conflict in [European history](/european-history) before the 20th century. What started as a religious dispute in Bohemia spiraled into a continent-wide catastrophe that killed millions, depopulated entire regions of Central Europe, and fundamentally reshaped how nations relate to each other. The peace treaty that ended it — the Peace of Westphalia — created the modern concept of state sovereignty that still governs [international relations](/international-relations) today.
 
 ## It Started with People Being Thrown Out of a Window
 
@@ -45,9 +45,9 @@ But the defenestration was a symptom, not the cause. The real tensions had been 
 
 ## The Kindling: A Century of Religious Tension
 
-The Protestant Reformation, launched by Martin Luther in 1517, had split Western Christianity. By 1618, the Holy Roman Empire — a patchwork of roughly 300 semi-independent states covering most of Central Europe — was a mess of competing faiths and political ambitions.
+The Protestant Reformation, launched by Martin Luther in 1517, had split Western [Christianity](/christianity). By 1618, the Holy Roman Empire — a patchwork of roughly 300 semi-independent states covering most of Central Europe — was a mess of competing faiths and political ambitions.
 
-The Peace of Augsburg (1555) had tried to settle things with a simple principle: *cuius regio, eius religio* — "whose area, his religion." Each prince could choose Catholicism or Lutheranism for his territory. It worked. For a while.
+The Peace of Augsburg (1555) had tried to settle things with a simple principle: *cuius regio, eius religio* — "whose area, his [religion](/religion)." Each prince could choose Catholicism or Lutheranism for his territory. It worked. For a while.
 
 But the deal had problems. It didn't include Calvinism, which was spreading rapidly. It didn't address what happened when a ruler converted. And it assumed that religious boundaries would stay stable — which they absolutely did not.
 
@@ -55,7 +55,7 @@ By 1600, both sides were forming armed alliances. The Protestant Union (1608) an
 
 ## Four Phases of Escalation
 
-Historians typically divide the war into four overlapping phases, each drawing in more combatants and raising the stakes.
+Historians typically divide the war into four overlapping phases, each [drawing](/drawing) in more combatants and raising the stakes.
 
 ### The Bohemian Phase (1618–1625)
 
@@ -85,7 +85,7 @@ But Gustavus Adolphus died at Lützen, shot while leading a cavalry charge in he
 
 France's entry in 1635 made the war's true nature impossible to ignore. France was a Catholic country, led by Cardinal Richelieu — a Catholic clergyman. And it was fighting against the Catholic Habsburgs.
 
-Why? Power. Richelieu saw the Habsburgs (who controlled Spain, Austria, and much of Italy and the Low Countries) as France's greatest threat. Religion was the pretext; geopolitics was the reason. France allied with Protestant Sweden and the Protestant Dutch Republic against Catholic Spain and Catholic Austria.
+Why? Power. Richelieu saw the Habsburgs (who controlled Spain, Austria, and much of Italy and the Low Countries) as France's greatest threat. Religion was the pretext; [geopolitics](/geopolitics) was the reason. France allied with Protestant Sweden and the Protestant Dutch Republic against Catholic Spain and Catholic Austria.
 
 The final phase was grinding, brutal, and indecisive. Armies marched back and forth across Germany, living off the land and leaving devastation in their wake. There were no knockout blows — just years of attrition until all sides were exhausted.
 
@@ -101,11 +101,11 @@ Contemporary accounts are harrowing. Hans Jakob Christoffel von Grimmelshausen's
 
 ## The Peace of Westphalia: Inventing the Modern World
 
-By the mid-1640s, everyone was exhausted. Negotiations began in the Westphalian cities of Münster and Osnabrück in 1644, involving 109 delegations representing virtually every European power. It took four years of agonizing negotiation to reach agreement.
+By the mid-1640s, everyone was exhausted. Negotiations began in the Westphalian cities of Münster and Osnabrück in 1644, involving 109 delegations representing virtually every European power. It took four years of agonizing [negotiation](/negotiation) to reach agreement.
 
 The Peace of Westphalia, signed in 1648, established several principles that still shape international relations:
 
-**State sovereignty.** Each of the roughly 300 states within the Holy Roman Empire gained the right to conduct their own foreign policy, make alliances, and declare war. The emperor's authority became largely ceremonial. More broadly, the treaties established that sovereign states were the basic units of international politics — a principle that remains foundational today.
+**State sovereignty.** Each of the roughly 300 states within the Holy Roman Empire gained the right to conduct their own [foreign policy](/foreign-policy), make alliances, and declare war. The emperor's authority became largely ceremonial. More broadly, the treaties established that sovereign states were the basic units of international [politics](/politics) — a principle that remains foundational today.
 
 **Religious toleration (sort of).** The settlement expanded the Augsburg formula to include Calvinism alongside Lutheranism and Catholicism. Rulers could still choose their territory's official religion, but subjects of a different faith were guaranteed the right to practice privately and to emigrate without losing their property.
 
@@ -117,7 +117,7 @@ The Peace of Westphalia, signed in 1648, established several principles that sti
 
 The Thirty Years' War is often overlooked in popular memory, overshadowed by the world wars of the 20th century. That's a mistake, because its consequences shaped the world you live in.
 
-The Westphalian system — the idea that the world is made up of sovereign nation-states that have exclusive authority within their borders — remains the operating principle of international law. When the United Nations Charter affirms the "sovereign equality" of member states, it's drawing on principles first articulated in 1648.
+The Westphalian system — the idea that the world is made up of sovereign nation-states that have exclusive authority within their borders — remains the operating principle of [international law](/international-law). When the United Nations Charter affirms the "sovereign equality" of member states, it's drawing on principles first articulated in 1648.
 
 The war also demonstrated, with horrible clarity, what happens when religious absolutism merges with political power. The lesson — that states function better when they separate theological disputes from governance — directly influenced the Enlightenment thinkers who shaped modern liberal democracy. John Locke's *Letter Concerning Toleration* (1689) was written in the long shadow of the Thirty Years' War.
 

@@ -5,7 +5,7 @@ description: "Paleobiology studies ancient life through fossils, combining biolo
 category: science
 tags: ["paleobiology", "paleontology", "fossils", "evolution", "paleoecology", "ancient life", "biology"]
 heroImage: "/images/articles/paleobiology-hero.webp"
-heroAlt: "Fossilized skeleton of an ancient marine reptile embedded in layered sedimentary rock"
+heroAlt: "Editorial photograph representing the concept of paleobiology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

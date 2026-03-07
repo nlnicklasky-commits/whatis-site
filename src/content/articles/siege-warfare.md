@@ -5,7 +5,7 @@ description: "Siege warfare is the military strategy of surrounding and attackin
 category: history
 tags: ["siege warfare", "military history", "fortifications", "medieval warfare"]
 heroImage: "/images/articles/siege-warfare.webp"
-heroAlt: "A medieval castle under siege with trebuchets launching projectiles at high stone walls"
+heroAlt: "Editorial photograph representing the concept of siege warfare"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,9 +35,9 @@ faq:
 
 # What Is Siege Warfare?
 
-Siege warfare is the military strategy of isolating and attacking a fortified position — a castle, a walled city, a fortress — until the defenders surrender, are overrun, or are relieved by an outside force. For most of recorded history, it was the dominant form of warfare. Pitched battles get the glory in history books, but sieges decided more wars.
+Siege warfare is the [military strategy](/military-strategy) of isolating and attacking a fortified position — a castle, a walled city, a fortress — until the defenders surrender, are overrun, or are relieved by an outside force. For most of recorded history, it was the dominant form of warfare. Pitched battles get the glory in history books, but sieges decided more wars.
 
-The logic is simple. Attackers surround the stronghold, cut off supplies, and wait. Defenders hold out as long as they can, hoping for reinforcements or for the besiegers to run out of patience, food, or money. The tension between these two imperatives — breaking in versus holding out — drove centuries of military engineering on both sides.
+The [logic](/logic) is simple. Attackers surround the stronghold, cut off supplies, and wait. Defenders hold out as long as they can, hoping for reinforcements or for the besiegers to run out of patience, food, or money. The tension between these two imperatives — breaking in versus holding out — drove centuries of military [engineering](/engineering) on both sides.
 
 ## The Ancient Origins
 
@@ -47,7 +47,7 @@ The earliest documented siege techniques appear in Mesopotamian and Egyptian rec
 
 The ancient Greeks contributed the concept of circumvallation — building a complete wall around the besieged city to prevent escape or resupply. Alexander the Great's siege of Tyre in 332 BCE is one of the most audacious examples. The island city sat half a mile offshore, so Alexander ordered his army to build a causeway across the water. It took seven months. When he finally took the city, he enslaved or executed most of the population. Ancient siege warfare was not gentle.
 
-The Romans perfected siege engineering. Their assault on Masada in 73-74 CE involved building a massive ramp up the side of a 400-meter cliff plateau in the Judean desert. Roman sieges were characterized by their methodical, engineering-heavy approach: they'd construct elaborate camps, siege towers, ramps, and tunnels with the discipline of a construction project. Julius Caesar's siege of Alesia in 52 BCE featured both circumvallation (a wall facing inward to contain the defenders) and contravallation (a wall facing outward to repel a relief army). He was essentially besieged and besieging simultaneously.
+The Romans perfected siege engineering. Their assault on Masada in 73-74 CE involved building a massive ramp up the side of a 400-meter cliff plateau in the Judean desert. Roman sieges were characterized by their methodical, engineering-heavy approach: they'd construct elaborate camps, siege towers, ramps, and tunnels with the discipline of a [construction](/construction) project. Julius Caesar's siege of Alesia in 52 BCE featured both circumvallation (a wall facing inward to contain the defenders) and contravallation (a wall facing outward to repel a relief army). He was essentially besieged and besieging simultaneously.
 
 ## Medieval Siege — The Golden Age
 
@@ -75,7 +75,7 @@ Besieging armies had several options, and they often used all of them simultaneo
 
 **Trebuchets** were the heavy artillery of the medieval world. A counterweight trebuchet could hurl a 150-kilogram stone 300 meters with surprising accuracy. During the siege of Stirling Castle in 1304, Edward I built a massive trebuchet called "Warwolf" — reportedly requiring 30 wagons to transport. The garrison tried to surrender before it was even finished, but Edward insisted on firing it at least once.
 
-Trebuchets weren't just for throwing rocks. Besiegers launched dead animals over walls to spread disease, and there are documented cases of severed heads being flung as psychological warfare.
+Trebuchets weren't just for throwing rocks. Besiegers launched dead animals over walls to spread disease, and there are documented cases of severed heads being flung as [psychological warfare](/psychological-warfare).
 
 ### Holding Out — The Defender's Response
 
@@ -95,7 +95,7 @@ The introduction of gunpowder artillery in the 14th and 15th centuries didn't im
 
 Early cannons were unreliable and slow. But by the late 1400s, they'd improved enough to shatter medieval walls that had resisted everything else for centuries. When Charles VIII of France invaded Italy in 1494, his bronze cannons demolished Italian fortifications that had stood for generations. The campaign stunned Europe.
 
-The response was the *trace italienne* — a new style of fortification featuring low, thick, angled walls backed by earth, with triangular bastions projecting outward to eliminate dead zones. These star-shaped forts could absorb cannon fire that would have shattered a medieval tower. They dominated military architecture from the 16th through 19th centuries.
+The response was the *trace italienne* — a new style of fortification featuring low, thick, angled walls backed by earth, with triangular bastions projecting outward to eliminate dead zones. These star-shaped forts could absorb cannon fire that would have shattered a medieval tower. They dominated military [architecture](/architecture) from the 16th through 19th centuries.
 
 Siege warfare adapted rather than disappeared. Vauban, Louis XIV's military engineer, turned siege operations into nearly a science in the late 1600s. His system of parallel trenches, approaching the fortress in a zigzag pattern, was so methodical that he could reportedly predict within days how long a siege would take. He conducted or directed over 50 successful sieges.
 
@@ -103,7 +103,7 @@ Siege warfare adapted rather than disappeared. Vauban, Louis XIV's military engi
 
 You might think siege warfare ended with the age of castles, but the concept never really vanished.
 
-The American Civil War featured extended siege operations at Vicksburg (1863) and Petersburg (1864-65). World War I was, in many ways, one enormous mutual siege along the Western Front — trenches, barbed wire, artillery, and the slow grinding down of defensive positions.
+The American Civil War featured extended siege operations at Vicksburg (1863) and Petersburg (1864-65). [World War I](/world-war-i) was, in many ways, one enormous mutual siege along the Western Front — trenches, barbed wire, artillery, and the slow grinding down of defensive positions.
 
 The Siege of Leningrad (1941-1944) lasted 872 days and killed an estimated 1.5 million people, mostly from starvation. Sarajevo was besieged for 1,425 days during the Bosnian War (1992-1996), the longest siege of a capital city in modern warfare.
 

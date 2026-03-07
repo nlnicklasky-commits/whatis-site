@@ -5,7 +5,7 @@ description: "Inorganic chemistry studies compounds not based on carbon-hydrogen
 category: science
 tags: ["inorganic chemistry", "chemistry", "elements", "compounds", "catalysis", "material science", "periodic table"]
 heroImage: "/images/articles/inorganic-chemistry-hero.webp"
-heroAlt: "Colorful transition metal compound solutions in laboratory flasks"
+heroAlt: "Editorial photograph representing the concept of inorganic chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ The distinction between organic and inorganic chemistry goes back to the early 1
 
 Today, the boundary is more of a convention than a hard rule. Organic chemistry focuses on carbon-hydrogen chemistry and its derivatives. Inorganic chemistry handles everything else — which, when you consider there are 118 known elements and carbon is just one of them, means inorganic chemistry covers a staggeringly broad territory.
 
-Then there are the boundary-crossers. Organometallic chemistry studies compounds with metal-carbon bonds. Bioinorganic chemistry examines the role of metals in biological systems. These subdisciplines exist precisely because the organic-inorganic boundary doesn't hold up under close scrutiny.
+Then there are the boundary-crossers. [Organometallic chemistry](/organometallic-chemistry) studies compounds with metal-carbon bonds. Bioinorganic chemistry examines the role of metals in biological systems. These subdisciplines exist precisely because the organic-inorganic boundary doesn't hold up under close scrutiny.
 
 ## The Periodic Table: Inorganic Chemistry's Map
 
@@ -87,7 +87,7 @@ Picture a metal ion sitting in solution. It has empty orbitals — spaces where 
 
 The geometry of these compounds depends on how many ligands attach. Two ligands typically create a linear arrangement. Four can be tetrahedral or square planar. Six create an octahedral structure. These geometries aren't just academic — they determine the compound's color, magnetism, reactivity, and biological function.
 
-Alfred Werner won the Nobel Prize in 1913 for figuring out the three-dimensional structures of coordination compounds. His work was remarkable because he deduced correct structures using only chemical analysis — decades before X-ray crystallography could directly confirm molecular shapes.
+Alfred Werner won the Nobel Prize in 1913 for figuring out the three-dimensional structures of coordination compounds. His work was remarkable because he deduced correct structures using only chemical analysis — decades before [X-ray crystallography](/x-ray-crystallography) could directly confirm molecular shapes.
 
 ### Crystal Field Theory and Beyond
 
@@ -151,7 +151,7 @@ Silicon — the second most abundant element in Earth's crust — forms the basi
 
 Gallium arsenide, indium phosphide, and silicon carbide are compound semiconductors used in specialized applications — LEDs, solar cells, high-frequency electronics. Each represents decades of inorganic chemistry research to grow pure crystals and understand defect behavior.
 
-### Battery Technology
+### [Battery Technology](/battery-technology)
 
 The lithium-ion batteries powering your phone, laptop, and potentially your car are products of inorganic [electrochemistry](/electrochemistry). The cathode in most lithium-ion batteries is a lithium transition metal oxide — lithium cobalt oxide (LiCoO₂) in phones, lithium iron phosphate (LiFePO₄) or lithium nickel manganese cobalt oxide (NMC) in electric vehicles.
 
@@ -209,7 +209,7 @@ Several frontiers are driving inorganic chemistry forward.
 
 ## Key Takeaways
 
-Inorganic chemistry is the study of compounds not based on carbon-hydrogen bonds, covering the vast majority of the periodic table. It encompasses coordination chemistry, catalysis, solid-state materials, bioinorganic systems, and environmental chemistry. Its applications touch nearly every aspect of modern life — from the semiconductors in your electronics to the catalysts in your car's exhaust system to the metal ions keeping your blood oxygenated.
+Inorganic chemistry is the study of compounds not based on carbon-hydrogen bonds, covering the vast majority of the periodic table. It encompasses coordination chemistry, catalysis, solid-state materials, bioinorganic systems, and [environmental chemistry](/environmental-chemistry). Its applications touch nearly every aspect of modern life — from the semiconductors in your electronics to the catalysts in your car's exhaust system to the metal ions keeping your blood oxygenated.
 
 The field sits at the intersection of physics, [biology](/biology), [geology](/geology), and engineering. Its practical impact — through catalysis alone — is incalculable. And its future directions — artificial photosynthesis, quantum materials, sustainable chemistry — address some of the most pressing challenges facing civilization.
 

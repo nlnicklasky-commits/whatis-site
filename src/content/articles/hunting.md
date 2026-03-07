@@ -5,7 +5,7 @@ description: "Hunting is pursuing and taking wild animals for food, conservation
 category: everyday-concepts
 tags: ["hunting", "wildlife management", "conservation", "outdoor recreation", "game meat", "subsistence"]
 heroImage: "/images/articles/hunting.webp"
-heroAlt: "Hunter in camouflage walking through an autumn forest at dawn with a rifle"
+heroAlt: "Editorial photograph representing the concept of hunting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Hunting?
 
-Hunting is the practice of pursuing, capturing, or killing wild animals, typically for food, wildlife management, or recreation. Humans have hunted for at least 2 million years — it is one of the oldest human activities and shaped our evolution, our social structures, and our relationship with the natural world. Today, hunting is heavily regulated, culturally contested, and — paradoxically — one of the largest funding sources for wildlife conservation.
+Hunting is the practice of pursuing, capturing, or killing wild animals, typically for food, [wildlife management](/wildlife-management), or recreation. Humans have hunted for at least 2 million years — it is one of the oldest human activities and shaped our evolution, our social structures, and our relationship with the natural world. Today, hunting is heavily regulated, culturally contested, and — paradoxically — one of the largest funding sources for [wildlife conservation](/wildlife-conservation).
 
 ## Why People Hunt
 
@@ -41,9 +41,9 @@ The motivations have changed over millennia but have not disappeared:
 
 **Wildlife management.** In much of North America, large predators (wolves, mountain lions) have been reduced or eliminated. Without predation, prey species — particularly white-tailed deer — overpopulate. Overpopulated deer destroy forests by eating young trees, cause thousands of car accidents annually, and spread diseases like chronic wasting disease. Regulated hunting keeps populations in balance with their habitat.
 
-**Conservation funding.** This one surprises people. The Pittman-Robertson Act of 1937 placed an 11% excise tax on firearms and ammunition, directing the revenue to state wildlife agencies for habitat restoration and research. Since its passage, the act has generated over $15 billion. Add hunting license fees and tag sales, and hunters collectively contribute roughly $1.6 billion per year to conservation — far more than any other group.
+**Conservation funding.** This one surprises people. The Pittman-Robertson Act of 1937 placed an 11% excise tax on firearms and ammunition, directing the revenue to state wildlife agencies for habitat restoration and research. Since its passage, the act has generated over $15 billion. Add hunting license fees and tag [sales](/sales), and hunters collectively contribute roughly $1.6 billion per year to conservation — far more than any other group.
 
-**Recreation and tradition.** Many hunters describe the experience as being deeply in nature — waking before dawn, sitting silently for hours, observing animal behavior, testing skills against an animal's senses. The actual killing is a small fraction of the time spent. Family traditions, particularly in rural communities, run generations deep.
+**Recreation and tradition.** Many hunters describe the experience as being deeply in nature — waking before dawn, sitting silently for hours, observing [animal behavior](/animal-behavior), testing skills against an animal's senses. The actual killing is a small fraction of the time spent. Family traditions, particularly in rural communities, run generations deep.
 
 ## How Hunting Is Regulated
 
@@ -53,15 +53,15 @@ Modern hunting in the U.S. is one of the most heavily regulated outdoor activiti
 
 **Bag limits** control how many animals a hunter can take. You might get one deer tag per season, or three ducks per day. Limits are calculated based on population surveys and biological modeling.
 
-**Licensing** requires hunters to purchase state hunting licenses and species-specific tags. Most states also require hunter education courses — usually 8 to 12 hours of instruction covering safety, ethics, regulations, and wildlife identification.
+**Licensing** requires hunters to purchase state hunting licenses and species-specific tags. Most states also require hunter [education](/education) courses — usually 8 to 12 hours of instruction covering safety, [ethics](/ethics), regulations, and wildlife identification.
 
-**Method restrictions** limit what weapons and techniques are legal. Many states have separate seasons for archery, muzzleloader, and modern firearms. Certain methods — spotlighting deer at night, hunting from vehicles, baiting — are prohibited in most jurisdictions.
+**Method restrictions** limit what weapons and techniques are legal. Many states have separate seasons for [archery](/archery), muzzleloader, and modern firearms. Certain methods — spotlighting deer at night, hunting from vehicles, baiting — are prohibited in most jurisdictions.
 
 **Federal oversight** covers migratory birds (managed by the U.S. Fish and Wildlife Service under the Migratory Bird Treaty Act) and endangered species (protected under the Endangered Species Act). You cannot legally hunt any species listed as endangered or threatened.
 
 ## The Major Types
 
-**Big game hunting** — deer, elk, moose, bear, and wild boar. Deer hunting is by far the most popular, with about 10 million deer hunters in the U.S. Elk and moose hunting often requires drawing a limited tag through a lottery system.
+**Big game hunting** — deer, elk, moose, bear, and wild boar. Deer hunting is by far the most popular, with about 10 million deer hunters in the U.S. Elk and moose hunting often requires [drawing](/drawing) a limited tag through a lottery system.
 
 **Waterfowl hunting** — ducks, geese, and other migratory birds. Requires a federal duck stamp ($25) in addition to state licenses. Waterfowl hunting drove early conservation efforts — Ducks Unlimited, founded in 1937, has conserved over 15 million acres of wetland habitat.
 
@@ -71,11 +71,11 @@ Modern hunting in the U.S. is one of the most heavily regulated outdoor activiti
 
 **Small game** — rabbit, squirrel, and similar species. Often the starting point for new hunters due to long seasons, liberal bag limits, and proximity to populated areas.
 
-## The Ethics Debate
+## The Ethics [Debate](/debate)
 
 Hunting generates genuine ethical disagreement that deserves honest engagement rather than dismissal from either side.
 
-**The case for hunting:** Regulated hunting is arguably more humane than industrial animal agriculture. A deer that lives wild for three years and is killed by a well-placed shot has a better life than a cow raised in a feedlot. Hunting connects people to the realities of food production. And the conservation funding model — where hunters pay for habitat that benefits all wildlife — is one of the most successful conservation mechanisms in history.
+**The case for hunting:** Regulated hunting is arguably more humane than industrial animal [agriculture](/agriculture). A deer that lives wild for three years and is killed by a well-placed shot has a better life than a cow raised in a feedlot. Hunting connects people to the realities of food production. And the conservation funding model — where hunters pay for habitat that benefits all wildlife — is one of the most successful conservation mechanisms in history.
 
 **The case against hunting:** Killing sentient animals for recreation raises valid moral questions. The "fair chase" ideal is not always honored — some commercial hunting operations offer guaranteed kills in fenced enclosures. Trophy hunting — killing animals primarily for display — is hard to justify on conservation grounds despite industry claims. And the argument that hunting is necessary for population control glosses over the fact that human activity (eliminating predators, fragmenting habitat) created the overpopulation problem in the first place.
 

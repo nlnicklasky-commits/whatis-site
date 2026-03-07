@@ -5,7 +5,7 @@ description: "Neural networks are computing systems inspired by the human brain 
 category: everyday-concepts
 tags: ["neural networks", "machine learning", "artificial intelligence", "deep learning", "data science", "algorithms"]
 heroImage: "/images/articles/neural-networks.webp"
-heroAlt: "Abstract visualization of interconnected nodes and layers representing a neural network"
+heroAlt: "Editorial photograph representing the concept of neural networks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Neural Networks?
 
-A neural network is a computing system loosely inspired by the structure of biological brains. It consists of layers of interconnected nodes (artificial neurons) that process information by passing signals between each other, adjusting the strength of those connections as they learn from data. They're the engine behind most modern AI — from voice assistants and image recognition to language translation and self-driving cars.
+A neural network is a computing system loosely inspired by the structure of biological brains. It consists of layers of interconnected nodes (artificial neurons) that process information by passing signals between each other, adjusting the strength of those connections as they learn from data. They're the engine behind most modern AI — from voice assistants and image recognition to language [translation](/translation) and self-driving cars.
 
 ## The Basic Idea
 
-Imagine you're trying to teach a computer to recognize handwritten digits — the numbers 0 through 9. You could try writing explicit rules: "If the image has a closed loop at the top and a vertical line below, it's a 9." But handwriting varies wildly. Rules that work for your handwriting might fail for someone else's.
+Imagine you're trying to teach a computer to recognize handwritten digits — the numbers 0 through 9. You could try [writing](/writing) explicit rules: "If the image has a closed loop at the top and a vertical line below, it's a 9." But handwriting varies wildly. Rules that work for your handwriting might fail for someone else's.
 
 Neural networks take a different approach. Instead of programming rules, you show the network thousands of examples of handwritten digits along with their correct labels. The network processes each image, makes a guess, checks whether it was right, and adjusts its internal connections to do better next time. After seeing enough examples, it learns to recognize digits it's never seen before — often with over 99% accuracy.
 
@@ -51,19 +51,19 @@ A neural network is organized into layers.
 
 **The output layer** produces the final answer. For digit recognition, it might have 10 nodes — one for each digit — and the node with the highest value is the network's guess.
 
-The magic is in the weights. Initially, they're set randomly, so the network's guesses are essentially random too. But during training, an algorithm called backpropagation calculates how much each weight contributed to the error and adjusts it accordingly. Do this millions of times across thousands of examples, and the weights gradually converge on values that produce accurate predictions.
+The magic is in the weights. Initially, they're set randomly, so the network's guesses are essentially random too. But during training, [an algorithm](/algorithms) called backpropagation calculates how much each weight contributed to the error and adjusts it accordingly. Do this millions of times across thousands of examples, and the weights gradually converge on values that produce accurate predictions.
 
-The math behind this is mostly calculus and linear algebra — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
+The math behind this is mostly [calculus](/calculus) and [linear algebra](/linear-[algebra](/algebra)) — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
 
 ## Types of Neural Networks
 
 **Feedforward networks** are the simplest type. Data flows in one direction — input to output — with no loops. Good for straightforward classification tasks.
 
-**Convolutional Neural Networks (CNNs)** are designed for images. They use filters that scan across an image, detecting features like edges, textures, and shapes at different scales. Each layer detects increasingly complex features — early layers find edges, middle layers find shapes, deep layers recognize objects. CNNs power facial recognition, medical imaging analysis, and self-driving car vision systems.
+**Convolutional Neural Networks (CNNs)** are designed for images. They use filters that scan across an image, detecting features like edges, textures, and shapes at different scales. Each layer detects increasingly complex features — early layers find edges, middle layers find shapes, deep layers recognize objects. CNNs power facial recognition, [medical imaging](/medical-imaging) analysis, and self-driving car vision systems.
 
 **Recurrent Neural Networks (RNNs)** process sequential data by maintaining a form of memory. They're suited for time-series data, speech, and text where order matters. A variation called LSTM (Long Short-Term Memory) solves the problem of RNNs forgetting information over long sequences.
 
-**Transformers** are the architecture behind modern language models like GPT and BERT. Instead of processing sequences step by step, they use an attention mechanism that lets them consider all parts of the input simultaneously, weighing which parts are most relevant to each other. This parallelism makes them much faster to train than RNNs and better at capturing long-range relationships in text.
+**Transformers** are the [architecture](/architecture) behind modern language models like GPT and BERT. Instead of processing sequences step by step, they use an attention mechanism that lets them consider all parts of the input simultaneously, weighing which parts are most relevant to each other. This parallelism makes them much faster to train than RNNs and better at capturing long-range relationships in text.
 
 **Generative Adversarial Networks (GANs)** pit two networks against each other. One generates fake data (images, for example), and the other tries to distinguish fakes from real examples. Through this competition, the generator gets better at creating realistic output. GANs produce the eerily realistic AI-generated faces you've probably seen online.
 
@@ -75,11 +75,11 @@ Then came the "AI winter." In 1969, Marvin Minsky and Seymour Papert published *
 
 The revival came with backpropagation (popularized by Rumelhart, Hinton, and Williams in 1986), which made training multi-layer networks practical. But hardware limitations kept networks small.
 
-The real explosion started around 2012, when a deep CNN called AlexNet crushed the competition in the ImageNet image recognition challenge. The combination of massive datasets, powerful GPUs, and better training techniques made deep learning suddenly practical. Since then, the field has accelerated at an astonishing pace.
+The real explosion started around 2012, when a deep CNN called AlexNet crushed the competition in the ImageNet image recognition challenge. The combination of massive datasets, powerful GPUs, and better training techniques made [deep learning](/deep-learning) suddenly practical. Since then, the field has accelerated at an astonishing pace.
 
 ## What They're Good At (And What They're Not)
 
-Neural networks excel at pattern recognition in large datasets. Image classification, speech recognition, language translation, game playing, protein structure prediction — tasks where the patterns are complex but abundant data is available.
+Neural networks excel at [pattern recognition](/pattern-recognition) in large datasets. Image classification, speech recognition, language translation, game playing, protein structure prediction — tasks where the patterns are complex but abundant data is available.
 
 They struggle with tasks requiring small data, logical reasoning, understanding causation (they learn correlations, not causes), and explaining their decisions. A neural network might correctly identify a tumor in an X-ray but can't explain which features it used — a serious problem in medical and legal applications.
 

@@ -5,7 +5,7 @@ description: "Gerontology is the scientific study of aging and its effects on in
 category: health-amp-wellness
 tags: ["gerontology", "aging", "elderly care", "health", "sociology"]
 heroImage: "/images/articles/gerontology.webp"
-heroAlt: "An elderly person walking through a park, representing the study of healthy aging"
+heroAlt: "Editorial photograph representing the concept of gerontology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -41,7 +41,7 @@ Gerontology is the scientific study of aging — the biological, psychological, 
 
 Here's a number that should get your attention: by 2050, roughly 2.1 billion people worldwide will be over age 60, according to WHO projections. That's more than double the 2020 figure of about 1 billion. In Japan, already the world's oldest country, over 29% of the population is 65 or older. Italy, Germany, and Portugal aren't far behind.
 
-This demographic shift isn't happening because of some mysterious biological change. Two things drove it: people stopped dying young (thanks to improved sanitation, vaccines, antibiotics, and better nutrition) and started having fewer children (thanks to contraception, women's education, and urbanization). The combination — longer lives plus fewer births — produces an aging population.
+This demographic shift isn't happening because of some mysterious biological change. Two things drove it: people stopped dying young (thanks to improved sanitation, vaccines, antibiotics, and better [nutrition](/nutrition)) and started having fewer children (thanks to contraception, women's [education](/education), and urbanization). The combination — longer lives plus fewer births — produces an aging population.
 
 The implications are enormous. Healthcare systems designed for younger populations face crushing demand. Pension and social security programs built on the assumption that many workers support few retirees become financially unsustainable as the ratio flips. Labor markets shrink. Family structures change as more people spend decades caring for aging parents.
 
@@ -73,7 +73,7 @@ Nobody has a complete answer for why [biological](/biology) organisms age. Sever
 
 The honest answer is that aging probably involves elements of all these theories. It's almost certainly not a single mechanism with a single cause.
 
-## The Psychology of Aging
+## The [Psychology](/psychology) of Aging
 
 ### Cognitive Changes
 
@@ -105,7 +105,7 @@ Research by Becca Levy at Yale has shown that ageism has measurable health conse
 
 ### Long-Term Care
 
-The long-term care system in most countries is — to be blunt — a mess. In the United States, the average annual cost of a private room in a nursing home exceeds $100,000. Medicare doesn't cover long-term custodial care. Medicaid does, but only after you've spent down nearly all your assets. Long-term care insurance exists but is expensive and increasingly difficult to find as insurers exit the market.
+The long-term care system in most countries is — to be blunt — a mess. In the United States, the average annual cost of a private room in a [nursing](/nursing) home exceeds $100,000. Medicare doesn't cover long-term custodial care. Medicaid does, but only after you've spent down nearly all your assets. Long-term care [insurance](/insurance) exists but is expensive and increasingly difficult to find as insurers exit the market.
 
 About 70% of people turning 65 will need some form of long-term care during their remaining years. Most of that care is provided informally by family members — primarily daughters and daughters-in-law — who often sacrifice their own careers, health, and financial security to care for aging parents.
 
@@ -141,6 +141,6 @@ The question is whether technology supplements human care or replaces it. A sens
 
 ## The Bottom Line
 
-Gerontology sits at the intersection of science, medicine, psychology, economics, and ethics. Its central questions — why do we age, how do we age well, and how should societies support aging populations — affect literally everyone, because (if you're fortunate) you will grow old.
+Gerontology sits at the intersection of science, medicine, psychology, [economics](/economics), and ethics. Its central questions — why do we age, how do we age well, and how should societies support aging populations — affect literally everyone, because (if you're fortunate) you will grow old.
 
 The field's most important insight might be the simplest: aging isn't just a medical problem to be solved. It's a human experience to be understood, supported, and — when possible — improved. Getting that right, at both the individual and societal level, is one of the great challenges of our time.

@@ -5,7 +5,7 @@ description: "Pre-Columbian history covers the Americas before 1492, from early 
 category: history
 tags: ["pre-columbian history", "indigenous americas", "mesoamerica", "maya", "inca"]
 heroImage: "/images/articles/pre-columbian-history.webp"
-heroAlt: "The ancient Maya pyramid of Kukulkan at Chichen Itza rising above the surrounding jungle"
+heroAlt: "Editorial photograph representing the concept of pre-columbian history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ If people were in the Americas that early, they probably didn't walk through an 
 
 The earliest Americans were hunter-gatherers who spread across two continents with remarkable speed. Within a few thousand years of arrival, humans occupied environments ranging from Arctic tundra to tropical rainforest to high-altitude plateaus.
 
-Agriculture developed independently in the Americas — probably multiple times. Mesoamericans domesticated maize (corn) from a wild grass called teosinte around 9,000 years ago in what is now southern Mexico. This was one of the most improbable feats of plant breeding in human history: teosinte looks almost nothing like modern corn, and the genetic changes required to transform one into the other are enormous. South Americans independently domesticated potatoes, quinoa, and dozens of other crops.
+[Agriculture](/agriculture) developed independently in the Americas — probably multiple times. Mesoamericans domesticated maize (corn) from a wild grass called teosinte around 9,000 years ago in what is now southern Mexico. This was one of the most improbable feats of [plant breeding](/plant-breeding) in human history: teosinte looks almost nothing like modern corn, and the genetic changes required to transform one into the other are enormous. South Americans independently domesticated potatoes, quinoa, and dozens of other crops.
 
 The development of agriculture enabled settled life, population growth, and eventually the emergence of complex civilizations.
 
@@ -65,7 +65,7 @@ Mesoamerica — roughly modern-day central Mexico through northern Central Ameri
 
 Often called the "mother culture" of Mesoamerica (though this label is debated), the Olmec built the region's first complex society along the Gulf Coast of Mexico. They're best known for their colossal stone heads — massive basalt sculptures, some weighing over 20 tons, carved with individual portrait features that suggest they depicted specific rulers.
 
-The Olmec likely developed the first writing system and calendar in the Americas, though surviving examples are limited. Their religious iconography — jaguar imagery, the feathered serpent — influenced virtually every subsequent Mesoamerican civilization.
+The Olmec likely developed the first writing system and calendar in the Americas, though surviving examples are limited. Their religious [iconography](/iconography) — jaguar imagery, the feathered serpent — influenced virtually every subsequent Mesoamerican civilization.
 
 ### The Maya (c. 2000 BCE-1500s CE)
 
@@ -75,11 +75,11 @@ What the Maya achieved is extraordinary by any standard:
 
 **Writing.** The Maya script is the only fully developed writing system created in the pre-Columbian Americas. It's a logo-syllabic system — combining symbols that represent whole words with symbols that represent syllables — with over 800 known glyphs. Maya texts record histories, astronomical observations, ritual instructions, and political propaganda. The decipherment of Maya script, largely accomplished between the 1950s and 1990s, is one of the great intellectual achievements of modern scholarship.
 
-**Mathematics.** The Maya independently invented the concept of zero — centuries before it reached Europe from India. Their number system was vigesimal (base-20) rather than decimal, and it was efficient enough to perform the complex calculations their astronomy required.
+**[Mathematics](/mathematics).** The Maya independently invented the concept of zero — centuries before it reached Europe from India. Their number system was vigesimal (base-20) rather than decimal, and it was efficient enough to perform the complex calculations their [astronomy](/astronomy) required.
 
 **Astronomy.** Maya astronomers calculated the length of the solar year to 365.2420 days. The actual figure is 365.2422 days — an error of roughly 0.0001%. They tracked Venus's synodic period to within two hours of the modern measurement. They did this without telescopes, without metal tools, and without the mathematical notation that European astronomers relied on.
 
-**Architecture.** Cities like Tikal, Palenque, Calakmul, and Copan featured massive stone pyramids, elaborate palace complexes, ball courts, and sophisticated water management systems. Tikal's Temple IV rises 70 meters above the jungle floor. At its peak around 700 CE, Tikal may have housed 60,000-100,000 people.
+**[Architecture](/architecture).** Cities like Tikal, Palenque, Calakmul, and Copan featured massive stone pyramids, elaborate palace complexes, ball courts, and sophisticated [water management](/water-[management](/management)) systems. Tikal's Temple IV rises 70 meters above the jungle floor. At its peak around 700 CE, Tikal may have housed 60,000-100,000 people.
 
 The Maya "collapse" — the abandonment of major southern lowland cities between roughly 800 and 1000 CE — is one of history's great puzzles. Drought, warfare, overpopulation, environmental degradation, and political fragmentation all likely contributed. But the Maya didn't disappear. Millions of Maya people live in Mexico, Guatemala, Belize, and Honduras today, and Maya languages are still spoken by approximately 6 million people.
 
@@ -87,7 +87,7 @@ The Maya "collapse" — the abandonment of major southern lowland cities between
 
 The Aztecs (who called themselves the Mexica) built the last great Mesoamerican empire in just under a century. Their capital, Tenochtitlan, was founded on an island in Lake Texcoco in 1325. By 1519, when Hernan Cortes arrived, it had a population of roughly 200,000-300,000 — larger than any city in Spain.
 
-Tenochtitlan was an engineering marvel. Built on artificial islands (*chinampas*), connected by causeways and canals, with aqueducts delivering fresh water from the mainland, the city astonished the Spanish conquistadors. Bernal Diaz del Castillo, who accompanied Cortes, wrote that "we were amazed and said that it was like the enchantments they tell of in the legend of Amadis... some of our soldiers even asked whether the things that we saw were not a dream."
+Tenochtitlan was an [engineering](/engineering) marvel. Built on artificial islands (*chinampas*), connected by causeways and canals, with aqueducts delivering fresh water from the mainland, the city astonished the Spanish conquistadors. Bernal Diaz del Castillo, who accompanied Cortes, wrote that "we were amazed and said that it was like the enchantments they tell of in the legend of Amadis... some of our soldiers even asked whether the things that we saw were not a dream."
 
 The Aztec Empire controlled much of central Mexico through a tributary system. Conquered peoples paid tribute in goods — cacao, cotton, feathers, gold, jade, and captives for sacrifice. Human sacrifice was a real and significant practice in Aztec religion, though its scale has been debated. Spanish accounts, which had obvious motivations to exaggerate, described tens of thousands of sacrifices per year. Modern archaeological evidence confirms that sacrifice occurred on a large scale, but the exact numbers remain uncertain.
 
@@ -111,7 +111,7 @@ What they had instead:
 
 ### Other South American Cultures
 
-The Inca get the most attention, but South America hosted many other significant cultures. The Moche of northern Peru (100-700 CE) produced stunning ceramics and metalwork. The Nazca created enormous geoglyphs — the famous Nazca Lines — visible only from the air. Tiwanaku, near Lake Titicaca, was a major ceremonial center and state that influenced Andean cultures for centuries. The Muisca people of Colombia practiced a ceremony involving gold offerings that gave rise to the legend of El Dorado.
+The Inca get the most attention, but South America hosted many other significant cultures. The Moche of northern Peru (100-700 CE) produced stunning [ceramics](/ceramics) and metalwork. The Nazca created enormous geoglyphs — the famous Nazca Lines — visible only from the air. Tiwanaku, near Lake Titicaca, was a major ceremonial center and state that influenced Andean cultures for centuries. The Muisca people of Colombia practiced a ceremony involving gold offerings that gave rise to the legend of El Dorado.
 
 ## North of Mexico
 

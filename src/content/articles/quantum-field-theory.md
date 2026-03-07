@@ -5,7 +5,7 @@ description: "Quantum field theory describes the universe as fields, not particl
 category: science
 tags: ["quantum field theory", "physics", "particle physics", "standard model", "quantum mechanics", "fields"]
 heroImage: "/images/articles/quantum-field-theory-hero.webp"
-heroAlt: "Abstract visualization of quantum fields with particle excitations in spacetime"
+heroAlt: "Editorial photograph representing the concept of quantum field theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 Quantum field theory (QFT) is the theoretical framework that combines quantum mechanics with special relativity to describe the fundamental particles and forces of nature. In QFT, the basic entities aren't particles -- they're fields that extend throughout all of space and time. What we call "particles" are really localized excitations (vibrations) of these fields. An electron is a ripple in the electron field. A photon is a ripple in the electromagnetic field. Everything you've ever seen, touched, or measured is made of field excitations.
 
-This is probably the most important idea in modern [physics](/experimental-physics), and most people have never heard of it. Quantum mechanics gets all the popular attention. General relativity gets the cool visualizations. But quantum field theory is the framework that actually describes how the universe works at its most fundamental level. It's the mathematical backbone of the Standard Model -- the theory that accounts for every particle and every force (except gravity) we've ever observed.
+This is probably the most important idea in modern [physics](/experimental-physics), and most people have never heard of it. Quantum mechanics gets all the popular attention. [General relativity](/general-relativity) gets the cool visualizations. But quantum field theory is the framework that actually describes how the universe works at its most fundamental level. It's the mathematical backbone of the Standard Model -- the theory that accounts for every particle and every force (except gravity) we've ever observed.
 
 ## Why We Need Quantum Field Theory
 
@@ -174,11 +174,11 @@ In the 1970s, Kenneth Wilson developed the renormalization group -- a framework 
 
 Wilson's insight: a quantum field theory is always an effective description valid up to some energy scale. We don't need to know what happens at infinite energy to make predictions at accessible energies. The renormalization group shows how the effective description changes as you move between scales.
 
-This understanding revolutionized not just particle physics but also statistical mechanics, condensed matter physics, and even parts of [applied mathematics](/applied-mathematics).
+This understanding revolutionized not just particle physics but also [statistical mechanics](/statistical-mechanics), condensed matter physics, and even parts of [applied mathematics](/applied-mathematics).
 
 ## Quantum Field Theory Beyond Particle Physics
 
-QFT isn't just for fundamental particles. It's become the language of modern theoretical physics:
+QFT isn't just for fundamental particles. It's become the language of modern [theoretical physics](/theoretical-physics):
 
 ### Condensed Matter Physics
 

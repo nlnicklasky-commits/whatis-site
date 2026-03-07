@@ -5,7 +5,7 @@ description: "Calisthenics is a form of exercise using your own body weight for 
 category: health-amp-wellness
 tags: ["calisthenics", "bodyweight", "exercise", "fitness", "strength training"]
 heroImage: "/images/articles/calisthenics.webp"
-heroAlt: "Athlete performing a muscle-up on outdoor parallel bars in a park"
+heroAlt: "Editorial photograph representing the concept of calisthenics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,17 +33,17 @@ faq:
     a: "You can start with zero equipment — push-ups, squats, and lunges require nothing. However, a pull-up bar is strongly recommended since pulling exercises are essential for balanced development. Parallel bars and gymnastic rings are useful but optional."
 ---
 
-Calisthenics is a form of strength training that uses your own body weight as resistance — push-ups, pull-ups, squats, dips, and their countless variations. The word comes from the Greek "kalos" (beautiful) and "sthenos" (strength), and that etymology captures something real: calisthenics builds a kind of functional, balanced strength that looks as good as it performs.
+Calisthenics is a form of [strength training](/strength-training) that uses your own body weight as resistance — push-ups, pull-ups, squats, dips, and their countless variations. The word comes from the Greek "kalos" (beautiful) and "sthenos" (strength), and that [etymology](/etymology) captures something real: calisthenics builds a kind of functional, balanced strength that looks as good as it performs.
 
 No gym membership. No expensive equipment. No waiting for machines. Just you, gravity, and progressively harder movements. That simplicity is both the appeal and, frankly, the reason people underestimate it.
 
 ## A Surprisingly Ancient Practice
 
-Calisthenics isn't a modern fitness trend. Ancient Greek soldiers trained with bodyweight exercises to prepare for combat. Spartan warriors — among the most feared fighters in history — built their legendary conditioning through calisthenics, not weight rooms. The [human anatomy](/anatomy) hasn't changed since then, and neither have the basic principles.
+Calisthenics isn't a modern [fitness](/fitness) trend. Ancient Greek soldiers trained with bodyweight exercises to prepare for combat. Spartan warriors — among the most feared fighters in history — built their legendary conditioning through calisthenics, not weight rooms. The [human anatomy](/anatomy) hasn't changed since then, and neither have the basic principles.
 
 Roman legionnaires practiced bodyweight drills as part of their military training. Indian wrestlers have used bodyweight exercises called "dands" (a type of push-up) and "bethaks" (squats) for centuries. Shaolin monks trained with bodyweight movements that developed both martial ability and physical conditioning.
 
-In the 19th century, Friedrich Ludwig Jahn — sometimes called the "father of gymnastics" — popularized structured calisthenics in Germany, building outdoor exercise parks (turnplätze) where citizens could train. This movement spread across Europe and eventually to America, where calisthenics became a standard part of physical education.
+In the 19th century, Friedrich Ludwig Jahn — sometimes called the "father of [gymnastics](/gymnastics)" — popularized structured calisthenics in Germany, building outdoor exercise parks (turnplätze) where citizens could train. This movement spread across Europe and eventually to America, where calisthenics became a standard part of [physical education](/physical-education).
 
 The modern calisthenics movement, which exploded in popularity around 2010-2015, draws heavily from street workout culture — athletes training on outdoor bars and performing impressive feats of strength with nothing but their bodies. YouTube and social media helped spread the movement globally.
 

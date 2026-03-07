@@ -5,7 +5,7 @@ description: "Parkour is the athletic discipline of moving through environments 
 category: everyday-concepts
 tags: ["parkour", "freerunning", "movement", "athletics", "urban sport", "fitness"]
 heroImage: "/images/articles/parkour.webp"
-heroAlt: "An athlete performing a precision jump between concrete structures in an urban environment"
+heroAlt: "Editorial photograph representing the concept of parkour"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Parkour?
 
-Parkour is the physical discipline of moving through an environment — typically urban — by running, jumping, climbing, vaulting, rolling, and swinging over obstacles in your path. The goal is efficient, fluid movement from one point to another. A wall isn't an obstacle — it's something to vault over. A gap between buildings is something to jump across. A railing is something to swing under. Parkour treats the built environment as a playground and the human body as the only equipment needed to move through it.
+Parkour is the physical discipline of moving through an environment — typically urban — by [running](/running), jumping, climbing, vaulting, rolling, and swinging over obstacles in your path. The goal is efficient, fluid movement from one point to another. A wall isn't an obstacle — it's something to vault over. A gap between buildings is something to jump across. A railing is something to swing under. Parkour treats the built environment as a playground and the human body as the only equipment needed to move through it.
 
 ## Where It Came From
 
 Parkour was developed in the late 1980s and 1990s by David Belle in Lisses, a suburb of Paris. Belle's father, Raymond Belle, was a firefighter and military athlete who trained in the natural movement methods developed by Georges Hebert — a French naval officer who, in the early 20th century, created a training system inspired by the movement abilities of indigenous peoples he'd observed.
 
-Hebert's method (*methode naturelle*) emphasized practical physical skills: running, jumping, climbing, swimming, lifting, throwing, and defending. Raymond Belle adapted these for his own training, and David Belle took the principles further, developing a systematic approach to obstacle navigation in urban environments.
+Hebert's method (*methode naturelle*) emphasized practical physical skills: running, jumping, climbing, [swimming](/swimming), lifting, throwing, and defending. Raymond Belle adapted these for his own training, and David Belle took the principles further, developing a systematic approach to obstacle [navigation](/navigation) in urban environments.
 
-The name "parkour" comes from *parcours du combattant* — the obstacle course used in French military training — adapted to remove the military context. Belle and his childhood friends, forming a group called the Yamakasi, trained together in Lisses, developing techniques for navigating the concrete, metal, and glass of suburban architecture.
+The name "parkour" comes from *parcours du combattant* — the obstacle course used in French military training — adapted to remove the military context. Belle and his childhood friends, forming a group called the Yamakasi, trained together in Lisses, developing techniques for navigating the concrete, metal, and glass of suburban [architecture](/architecture).
 
 ## The Core Movements
 
@@ -49,13 +49,13 @@ Parkour techniques are functional — each one solves a specific movement proble
 
 **Jumps** cover gaps and reach elevated surfaces. The precision jump lands on a specific target — a wall edge, a rail, a ledge — with control. The running precision adds speed. The arm jump catches the top of a wall at full extension for pulling up. Gap jumps cross spaces between structures.
 
-**Climbing** techniques get you up walls, buildings, and structures efficiently. The wall run uses momentum to gain height on a vertical surface. The cat leap catches a wall edge from a jump. Climbing in parkour is about speed and energy conservation, not the slow, deliberate approach of rock climbing.
+**Climbing** techniques get you up walls, buildings, and structures efficiently. The wall run uses momentum to gain height on a vertical surface. The cat leap catches a wall edge from a jump. Climbing in parkour is about speed and energy conservation, not the slow, deliberate approach of [rock climbing](/rock-climbing).
 
-**Rolling** disperses impact energy when landing from height. The parkour roll is a shoulder roll performed diagonally across the back — not a gymnastics forward roll. Done correctly, it can reduce landing forces from drops of 8-12 feet to manageable levels.
+**Rolling** disperses impact energy when landing from height. The parkour roll is a shoulder roll performed diagonally across the back — not a [gymnastics](/gymnastics) forward roll. Done correctly, it can reduce landing forces from drops of 8-12 feet to manageable levels.
 
 **Swinging** uses railings, bars, and branches to redirect momentum. The underbar swings feet-first under a horizontal bar. Laches (swinging releases from one bar to catch another) are advanced movements borrowed from primate locomotion.
 
-## The Philosophy
+## The [Philosophy](/philosophy)
 
 Parkour isn't just a collection of cool moves. Belle and other founders emphasize philosophy and mindset alongside physical technique.
 
@@ -75,7 +75,7 @@ Outdoor training remains central to parkour's identity, though. The discipline i
 
 ## The Cultural Impact
 
-Parkour exploded into popular culture through viral videos, documentaries (most notably *Jump London* in 2003), and film sequences. The opening chase scene in *Casino Royale* (2006), featuring Sebastien Foucan, introduced parkour to millions. Video games like *Mirror's Edge* and *Assassin's Creed* built entire gameplay mechanics around parkour-inspired movement.
+Parkour exploded into [popular culture](/popular-culture) through viral videos, documentaries (most notably *Jump London* in 2003), and film sequences. The opening chase scene in *Casino Royale* (2006), featuring Sebastien Foucan, introduced parkour to millions. Video games like *Mirror's Edge* and *Assassin's Creed* built entire gameplay mechanics around parkour-inspired movement.
 
 YouTube and social media have been both beneficial and problematic for the discipline. Beneficial because they've spread awareness and attracted new practitioners worldwide. Problematic because they incentivize dangerous stunts for views — people attempting rooftop jumps without the years of progressive training that make such movements survivable.
 

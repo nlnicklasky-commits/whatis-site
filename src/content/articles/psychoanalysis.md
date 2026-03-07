@@ -5,7 +5,7 @@ description: "Psychoanalysis is a theory of the mind and a therapy method founde
 category: health-amp-wellness
 tags: ["psychoanalysis", "sigmund freud", "unconscious mind", "psychotherapy"]
 heroImage: "/images/articles/psychoanalysis.webp"
-heroAlt: "A leather therapy couch in a book-lined study with warm lighting and antique furnishings"
+heroAlt: "Editorial photograph representing the concept of psychoanalysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ Psychoanalysis is both a theory of how the human mind works and a method of trea
 
 ## Freud and the Birth of a Discipline
 
-Sigmund Freud (1856-1939) didn't invent the idea of the unconscious mind. Philosophers and writers had discussed unconscious mental processes for centuries. But Freud systematized these ideas into a clinical method and a theoretical framework that influenced everything from psychiatry to literature to how ordinary people think about themselves.
+Sigmund Freud (1856-1939) didn't invent the idea of the unconscious mind. Philosophers and writers had discussed unconscious mental processes for centuries. But Freud systematized these ideas into a clinical method and a theoretical framework that influenced everything from [psychiatry](/psychiatry) to [literature](/literature) to how ordinary people think about themselves.
 
 Freud trained as a neurologist in Vienna. His early work involved studying patients with "hysteria" — physical symptoms (paralysis, blindness, pain) with no apparent physical cause. Working with Josef Breuer, he discovered that when patients talked about emotionally distressing experiences they'd forgotten or suppressed, their symptoms often improved. The "talking cure," as one patient called it, was born.
 
@@ -87,7 +87,7 @@ Defense mechanisms are among Freud's most enduring contributions. They've been s
 
 Here's where Freud gets controversial — and, let's be honest, weird.
 
-Freud proposed that children pass through a series of stages in which sexual energy (libido) focuses on different body zones: the oral stage (birth to 18 months), the anal stage (18 months to 3 years), the phallic stage (3-6 years), a latency period (6 to puberty), and the genital stage (puberty onward). Getting "stuck" at any stage — through trauma or inadequate parenting — could produce adult personality problems.
+Freud proposed that children pass through a series of stages in which sexual energy (libido) focuses on different body zones: the oral stage (birth to 18 months), the anal stage (18 months to 3 years), the phallic stage (3-6 years), a latency period (6 to puberty), and the genital stage (puberty onward). Getting "stuck" at any stage — through trauma or inadequate [parenting](/parenting) — could produce adult personality problems.
 
 The Oedipus complex, Freud's most famous (and infamous) idea, belongs to the phallic stage: the child supposedly desires the opposite-sex parent and sees the same-sex parent as a rival. Resolution of this conflict leads to identification with the same-sex parent and internalization of moral standards.
 
@@ -97,9 +97,9 @@ Most modern psychologists reject the specifics of psychosexual development. The 
 
 Psychoanalytic treatment is distinctive. Classical analysis involves:
 
-**Free association** — The patient says whatever comes to mind, without filtering or censoring. The logic is that if you relax conscious control over your speech, unconscious material will surface in the associations between ideas. What seems random often isn't.
+**Free association** — The patient says whatever comes to mind, without filtering or censoring. The [logic](/logic) is that if you relax conscious control over your speech, unconscious material will surface in the associations between ideas. What seems random often isn't.
 
-**Dream analysis** — Freud called dreams "the royal road to the unconscious." Dreams, he argued, represent disguised wish fulfillments. The manifest content (what you remember) conceals latent content (the unconscious meaning). A dream about flying might represent a desire for freedom or escape. Modern sleep research doesn't fully support Freud's specific dream theory, but the idea that dreams reflect emotional processing has gained some support.
+**[Dream analysis](/dream-analysis)** — Freud called dreams "the royal road to the unconscious." Dreams, he argued, represent disguised wish fulfillments. The manifest content (what you remember) conceals latent content (the unconscious meaning). A dream about flying might represent a desire for freedom or escape. Modern sleep research doesn't fully support Freud's specific dream theory, but the idea that dreams reflect emotional processing has gained some support.
 
 **Transference** — The patient begins relating to the analyst as if the analyst were a significant figure from the patient's past — a parent, a partner, an authority figure. Freud initially saw transference as an obstacle. He later realized it was the most powerful therapeutic tool available, because it recreated problematic relationship patterns live in the room, where they could be observed, discussed, and understood.
 
@@ -111,7 +111,7 @@ Psychoanalytic treatment is distinctive. Classical analysis involves:
 
 Freud was not easy to get along with. He demanded loyalty, excommunicated dissidents, and treated theoretical disagreements as personal betrayals. The result was a series of splits that spawned entirely new schools of thought.
 
-**Carl Jung** broke with Freud in 1913 over the role of sexuality (Jung thought Freud overemphasized it) and developed analytical psychology, with its concepts of archetypes, the collective unconscious, and personality types (introversion/extraversion).
+**Carl Jung** broke with Freud in 1913 over the role of sexuality (Jung thought Freud overemphasized it) and developed analytical [psychology](/psychology), with its concepts of archetypes, the collective unconscious, and personality types (introversion/extraversion).
 
 **Alfred Adler** split even earlier (1911), arguing that the primary human drive was not sexual but social — specifically, the striving for superiority and the effects of inferiority feelings. His ideas about birth order, lifestyle, and social interest remain influential.
 
@@ -119,7 +119,7 @@ Freud was not easy to get along with. He demanded loyalty, excommunicated dissid
 
 **Donald Winnicott** developed concepts like the "good enough mother" (perfect parenting isn't necessary; adequate parenting is), the "transitional object" (the security blanket or teddy bear that helps a child manage separation), and the "true self" versus "false self."
 
-**Jacques Lacan** brought psychoanalysis into dialogue with structural linguistics and philosophy, producing work that is either brilliantly original or deliberately obscure, depending on whom you ask. His influence in France and Latin America remains enormous.
+**Jacques Lacan** brought psychoanalysis into dialogue with structural [linguistics](/linguistics) and [philosophy](/philosophy), producing work that is either brilliantly original or deliberately obscure, depending on whom you ask. His influence in France and Latin America remains enormous.
 
 ## The Criticism — And What Survives
 

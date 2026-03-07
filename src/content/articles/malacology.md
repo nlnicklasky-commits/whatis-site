@@ -5,7 +5,7 @@ description: "Malacology is the study of mollusks like snails, clams, and octopu
 category: science
 tags: ["malacology", "mollusks", "biology", "zoology", "shells", "marine biology", "invertebrates"]
 heroImage: "/images/articles/malacology-hero.webp"
-heroAlt: "Collection of diverse seashells and a live octopus arranged on a marine background"
+heroAlt: "Editorial photograph representing the concept of malacology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -117,7 +117,7 @@ The evolutionary relationship between mollusk classes is still debated. Molecula
 
 Mollusks play critical ecological roles that are often underappreciated.
 
-**Water filtration**: Bivalves filter enormous volumes of water. Mussel beds in rivers and oyster reefs in estuaries are natural water purification systems. The loss of bivalve populations directly degrades water quality.
+**Water filtration**: Bivalves filter enormous volumes of water. Mussel beds in rivers and oyster reefs in estuaries are natural [water purification](/water-purification) systems. The loss of bivalve populations directly degrades water quality.
 
 **Reef formation**: Oyster reefs provide complex three-dimensional habitat, reduce wave energy (protecting shorelines), and support diverse communities of fish, crabs, and other organisms. Oyster reef restoration is now a major conservation strategy, with projects in Chesapeake Bay, the Gulf of Mexico, and other regions.
 
@@ -131,7 +131,7 @@ Mollusks play critical ecological roles that are often underappreciated.
 
 Mollusks are among the most threatened animal groups — and one of the least noticed.
 
-Freshwater mollusks are in particularly dire straits. In North America, about 70% of freshwater mussel species are endangered or vulnerable, making them the most imperiled animal group on the continent. Causes include habitat destruction, pollution, dam construction (which alters flow regimes), and invasive species.
+Freshwater mollusks are in particularly dire straits. In North America, about 70% of freshwater mussel species are endangered or vulnerable, making them the most imperiled animal group on the continent. Causes include habitat destruction, pollution, dam [construction](/construction) (which alters flow regimes), and invasive species.
 
 The invasive zebra mussel (Dreissena polymorpha), introduced to North America from the Caspian Sea region in the 1980s via ballast water, has devastated native mussel populations while clogging water intake pipes and costing billions in damage. A single female zebra mussel can produce up to one million eggs per year.
 
@@ -143,15 +143,15 @@ On land, island snails have suffered catastrophic extinctions. The Hawaiian Isla
 
 The relationship between humans and mollusks stretches back tens of thousands of years.
 
-**Food**: Shellfish have been a human food source since prehistory. Archaeological shell middens — massive accumulations of discarded shells — mark ancient coastal settlements worldwide. Today, the global mollusk aquaculture and fishery industry is worth over $30 billion annually. Oysters, mussels, clams, scallops, squid, and octopus are dietary staples in many cultures.
+**Food**: Shellfish have been a human food source since prehistory. Archaeological shell middens — massive accumulations of discarded shells — mark ancient coastal settlements worldwide. Today, the global mollusk [aquaculture](/aquaculture) and fishery industry is worth over $30 billion annually. Oysters, mussels, clams, scallops, squid, and octopus are dietary staples in many cultures.
 
 **Shells as currency**: Cowrie shells served as currency across Africa, South Asia, and the Pacific for thousands of years. The money cowrie (Monetaria moneta) — hence its Latin name — was one of the most widely used currencies in human history.
 
 **Purple dye**: The Phoenicians extracted Tyrian purple dye from the hypobranchial glands of murex sea snails. It required roughly 12,000 snails to produce 1.5 grams of dye. The dye was so expensive that purple became associated with royalty — a connection that persists in cultural symbolism today.
 
-**Biomedical research**: Beyond conotoxin-derived drugs, mollusks contribute to biomedical research in several ways. The giant axon of the squid (up to 1 mm in diameter — 100 times larger than typical nerve fibers) was the model system in which Hodgkin and Huxley worked out how nerve impulses propagate, earning the 1963 Nobel Prize in Physiology or Medicine. Nacre (mother of pearl) is being studied as a template for bone repair materials due to its remarkable mechanical properties.
+**Biomedical research**: Beyond conotoxin-derived drugs, mollusks contribute to biomedical research in several ways. The giant axon of the squid (up to 1 mm in diameter — 100 times larger than typical nerve fibers) was the model system in which Hodgkin and Huxley worked out how nerve impulses propagate, earning the 1963 Nobel Prize in [Physiology](/physiology) or Medicine. Nacre (mother of pearl) is being studied as a template for bone repair materials due to its remarkable mechanical properties.
 
-**Materials science**: The structure of abalone shell nacre — alternating layers of aragonite tablets and protein — has inspired engineers designing tough, lightweight composite materials. The adhesive used by mussels to stick to rocks in pounding surf is being studied for surgical adhesives and underwater bonding applications.
+**[Materials science](/materials-science)**: The structure of abalone shell nacre — alternating layers of aragonite tablets and protein — has inspired engineers designing tough, lightweight composite materials. The adhesive used by mussels to stick to rocks in pounding surf is being studied for surgical adhesives and underwater bonding applications.
 
 ## Key Takeaways
 

@@ -5,7 +5,7 @@ description: "Water aerobics is group exercise performed in a pool, using water 
 category: health-amp-wellness
 tags: ["fitness", "water aerobics", "aquatic exercise", "swimming"]
 heroImage: "/images/articles/water-aerobics.webp"
-heroAlt: "A group of people exercising together in a swimming pool during a water aerobics class"
+heroAlt: "Editorial photograph representing the concept of water aerobics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Water Aerobics?
 
-Water aerobics is a form of group exercise performed in a swimming pool, where participants use the natural resistance of water to build strength, improve cardiovascular fitness, and increase flexibility — all while experiencing roughly 90% less impact on joints compared to land-based exercise.
+Water aerobics is a form of group exercise performed in a [swimming](/swimming) pool, where participants use the natural resistance of water to build strength, improve cardiovascular [fitness](/fitness), and increase flexibility — all while experiencing roughly 90% less impact on joints compared to land-based exercise.
 
 If you've ever tried to run through waist-deep water, you already understand the basic principle. Water resists movement in every direction, turning simple motions like arm raises and leg kicks into legitimate resistance training. Add music, a group format, and an instructor shouting encouragement from the pool deck, and you've got water aerobics.
 
@@ -51,11 +51,11 @@ Water has some genuinely useful physical properties that make it an excellent ex
 
 A standard water aerobics class runs 45 to 60 minutes and follows a structure that will feel familiar if you've ever taken a group fitness class on land.
 
-**Warm-up (5-10 minutes):** Easy walking or jogging in place, gentle arm movements, stretching. The goal is to raise your heart rate gradually and get comfortable in the water.
+**Warm-up (5-10 minutes):** Easy [walking](/walking) or jogging in place, gentle arm movements, stretching. The goal is to raise your heart rate gradually and get comfortable in the water.
 
 **Cardio segment (15-25 minutes):** This is the heart of the class. Movements include water jogging, jumping jacks, cross-country ski motions, high-knee marches, and lateral shuffles. The instructor typically choreographs these to music, building intensity over the segment.
 
-**Strength training (10-15 minutes):** Using water resistance, foam dumbbells, pool noodles, or resistance gloves, participants perform exercises targeting major muscle groups — arm curls, chest presses, leg lifts, squats. Some classes use kickboards or aqua barbells for added resistance.
+**[Strength training](/strength-training) (10-15 minutes):** Using water resistance, foam dumbbells, pool noodles, or resistance gloves, participants perform exercises targeting major muscle groups — arm curls, chest presses, leg lifts, squats. Some classes use kickboards or aqua barbells for added resistance.
 
 **Cool-down (5-10 minutes):** Slower movements, stretching, and deep breathing. The water's buoyancy makes stretching easier and more comfortable than on land, allowing greater range of motion.
 
@@ -87,7 +87,7 @@ A 2007 Cochrane Review found that aquatic exercise produced clinically meaningfu
 
 For older adults, balance is a life-or-death issue. Falls are the leading cause of injury death in people over 65. Water aerobics improves balance through a mechanism that seems paradoxical: the water makes you slightly unstable, forcing your core stabilizing muscles to work constantly. Over time, this translates to better balance on land.
 
-A 2015 study in *Archives of Gerontology and Geriatrics* found that a 12-week water aerobics program reduced fall risk by 33% in older adults compared to a control group.
+A 2015 study in *Archives of [Gerontology](/gerontology) and Geriatrics* found that a 12-week water aerobics program reduced fall risk by 33% in older adults compared to a control group.
 
 ### Mental Health
 
@@ -129,7 +129,7 @@ Shallow-water aerobics (chest to waist depth) is the most common format. You sta
 
 Deep-water aerobics (no floor contact) is a different experience entirely. Wearing a flotation belt, you run, cycle, and perform exercises while suspended. This is truly zero-impact — your joints bear no weight at all. It's also significantly more challenging cardiovascularly because your body has to stabilize itself without a solid surface.
 
-Competitive runners and triathletes often use deep-water running to maintain fitness during injury recovery. Research shows that deep-water running can maintain VO2 max for up to 6 weeks — long enough to recover from most running injuries without losing fitness.
+Competitive runners and triathletes often use deep-water [running](/running) to maintain fitness during injury recovery. Research shows that deep-water running can maintain VO2 max for up to 6 weeks — long enough to recover from most running injuries without losing fitness.
 
 ## Getting Started
 

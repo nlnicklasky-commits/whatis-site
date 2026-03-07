@@ -5,7 +5,7 @@ description: "A biography is a detailed written account of a person's life, expl
 category: everyday-concepts
 tags: ["biography", "literature", "writing", "nonfiction", "history", "memoir"]
 heroImage: "/images/articles/biography.webp"
-heroAlt: "Stack of biography books on a desk with reading glasses and a notebook"
+heroAlt: "Editorial photograph representing the concept of biography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Biography?
 
-A biography is a nonfiction account of a person's life written by someone other than the subject. It reconstructs an individual's experiences, character, relationships, and significance using research, interviews, letters, diaries, and other primary sources. The genre sits at the intersection of [history](/natural-history), literature, and psychology — simultaneously documenting what happened and interpreting why it mattered.
+A biography is a nonfiction account of a person's life written by someone other than the subject. It reconstructs an individual's experiences, character, relationships, and significance using research, interviews, letters, diaries, and other primary sources. The genre sits at the intersection of [history](/natural-history), [literature](/literature), and [psychology](/psychology) — simultaneously documenting what happened and interpreting why it mattered.
 
 ## An Ancient Form
 
-The impulse to tell the stories of remarkable lives is ancient. Plutarch's *Parallel Lives* (1st century CE) paired Greek and Roman leaders to explore moral character through biography. These weren't just historical records — they were arguments about virtue, leadership, and human nature.
+The impulse to tell the stories of remarkable lives is ancient. Plutarch's *Parallel Lives* (1st century CE) paired Greek and Roman leaders to explore moral character through biography. These weren't just historical records — they were arguments about virtue, [leadership](/leadership), and human nature.
 
-Medieval biography focused primarily on saints' lives (hagiography), where the purpose was moral instruction rather than historical accuracy. Renaissance biographers began treating their subjects as complex individuals rather than moral examples. Giorgio Vasari's *Lives of the Most Excellent Painters, Sculptors, and Architects* (1550) essentially invented art history through biographical storytelling.
+Medieval biography focused primarily on saints' lives ([hagiography](/hagiography)), where the purpose was moral instruction rather than historical accuracy. Renaissance biographers began treating their subjects as complex individuals rather than moral examples. Giorgio Vasari's *Lives of the Most Excellent Painters, Sculptors, and Architects* (1550) essentially invented [art history](/art-history) through biographical [storytelling](/storytelling).
 
 James Boswell's *Life of Samuel Johnson* (1791) is often cited as the first modern biography — a massive, detailed, intimate portrait based on decades of personal observation and conversation. Boswell's achievement set the standard: get close to your subject, gather everything, and recreate the person on the page.
 
@@ -83,7 +83,7 @@ Biographies serve multiple purposes beyond entertainment.
 
 Biography remains one of the strongest nonfiction categories. Bestseller lists consistently feature lives of presidents, entertainers, scientists, and historical figures. Podcasts like *Revisionist History* and documentary series apply biographical storytelling to new media.
 
-The genre faces new challenges too. Social media means that contemporary subjects leave enormous digital trails — but curated online personas may be less revealing than private letters. Privacy concerns, legal issues around defamation, and the speed of modern publishing cycles all affect how biographies get written and published.
+The genre faces new challenges too. Social media means that contemporary subjects leave enormous digital trails — but curated online personas may be less revealing than private letters. Privacy concerns, legal issues around defamation, and the speed of modern [publishing](/publishing) cycles all affect how biographies get written and published.
 
 Celebrity memoirs (often ghostwritten) dominate bookstore shelves, blurring the line between biography and autobiography while raising questions about whose life stories get told and whose don't.
 

@@ -5,7 +5,7 @@ description: "Chivalry was the medieval code of conduct for knights, blending ma
 category: history
 tags: ["chivalry", "medieval history", "knighthood", "middle ages", "code of conduct"]
 heroImage: "/images/articles/chivalry.webp"
-heroAlt: "Medieval knight in full armor on horseback carrying a lance and heraldic shield"
+heroAlt: "Editorial photograph representing the concept of chivalry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -57,7 +57,7 @@ Chivalry as a formal code developed gradually during the 11th through 13th centu
 
 **The religious dimension** added Christian moral obligations. The Crusades (beginning in 1095) were the ultimate expression of this: holy warfare in which martial skill served religious purpose. The ideal knight was a Christian warrior, defending the faith, protecting pilgrims, and fighting God's enemies. The military orders — Templars, Hospitallers, Teutonic Knights — combined monastic discipline with martial training, creating organizations that were simultaneously religious orders and fighting forces.
 
-**The courtly dimension** introduced refinement, education, and romantic love. A knight should be literate (or at least educated), able to compose poetry, practice courtesy, and demonstrate graceful behavior in social settings. The rough warrior was supposed to become a gentleman — a transformation that the courts of France, in particular, promoted enthusiastically.
+**The courtly dimension** introduced refinement, [education](/education), and romantic love. A knight should be literate (or at least educated), able to compose poetry, practice courtesy, and demonstrate graceful behavior in social settings. The rough warrior was supposed to become a gentleman — a transformation that the courts of France, in particular, promoted enthusiastically.
 
 Ramon Llull's "Book of the Order of Chivalry" (c. 1275) codified many of these ideals. A knight, Llull wrote, should defend the faith, protect the weak, practice justice, exercise temperance, and be truthful. The [ethical](/ethics) framework was essentially Christian virtue applied to the warrior class.
 
@@ -79,15 +79,15 @@ Tournaments — organized martial competitions between knights — were where ch
 
 Early tournaments (11th-12th centuries) were essentially organized battles — large groups of knights fighting across open countryside, with real weapons and real injuries. They were bloody, chaotic, and extremely dangerous. Knights could be killed, captured for ransom, or financially ruined by losing their horses and equipment.
 
-Over time, tournaments became more regulated and theatrical. The joust — individual combat between two mounted knights separated by a barrier — replaced mass combat as the signature event. Rules limited weapons, scoring systems were developed, and the spectacle became increasingly elaborate. By the 14th and 15th centuries, tournaments were extravagant courtly events with pageantry, heraldic display, and enormous expense.
+Over time, tournaments became more regulated and theatrical. The joust — individual combat between two mounted knights separated by a barrier — replaced mass combat as the signature event. Rules limited weapons, scoring systems were developed, and the spectacle became increasingly elaborate. By the 14th and 15th centuries, tournaments were extravagant courtly events with [pageantry](/pageantry), heraldic display, and enormous expense.
 
-Heraldry itself — the system of distinctive symbols and colors on shields and banners — developed largely because knights in full armor were unrecognizable without identifying marks. Your coat of arms wasn't just decoration; it was your identity on the battlefield and in the tournament.
+[Heraldry](/heraldry) itself — the system of distinctive symbols and colors on shields and banners — developed largely because knights in full armor were unrecognizable without identifying marks. Your [coat of arms](/coat-of-arms) wasn't just decoration; it was your identity on the battlefield and in the tournament.
 
 ## The Gap Between Ideal and Reality
 
-The most important thing to understand about chivalry: the ideal and the reality were often wildly different. Medieval warfare was savage. Chevauchees — deliberate campaigns of destruction targeting civilian populations — were standard military practice. During the Hundred Years' War, English and French knights routinely burned villages, slaughtered livestock, and terrorized peasants as a deliberate military strategy.
+The most important thing to understand about chivalry: the ideal and the reality were often wildly different. Medieval warfare was savage. Chevauchees — deliberate campaigns of destruction targeting civilian populations — were standard military practice. During the Hundred Years' War, English and French knights routinely burned villages, slaughtered livestock, and terrorized peasants as a deliberate [military strategy](/military-strategy).
 
-The Crusades, supposedly the highest expression of chivalric warfare, produced some of history's worst atrocities. The sack of Jerusalem in 1099 involved the massacre of thousands of Muslim and Jewish inhabitants. The Fourth Crusade's sack of Constantinople in 1204 targeted fellow Christians. Chivalric rhetoric barely concealed the reality of conquest, plunder, and killing.
+The Crusades, supposedly the highest expression of chivalric warfare, produced some of history's worst atrocities. The sack of Jerusalem in 1099 involved the massacre of thousands of Muslim and Jewish inhabitants. The Fourth Crusade's sack of Constantinople in 1204 targeted fellow Christians. Chivalric [rhetoric](/rhetoric) barely concealed the reality of conquest, plunder, and killing.
 
 Chivalric protections were also profoundly limited in scope. The code primarily governed how knights treated other knights and noble persons. Peasants, merchants, and non-Christians received far less consideration. A knight who showed mercy to a captured noble opponent (who could pay ransom) might show none to common soldiers or civilians.
 
@@ -101,6 +101,6 @@ By the 15th and 16th centuries, chivalry was becoming nostalgic rather than prac
 
 But chivalry didn't disappear. It transformed. The concept of the "gentleman" — educated, courteous, brave, honest, protective of the vulnerable — is essentially chivalry adapted for civilian life. The code of honor that governed European dueling culture through the 18th and 19th centuries descended directly from chivalric honor codes. The Geneva Conventions, which regulate the treatment of prisoners and civilians in warfare, echo the chivalric principle that martial power should be governed by moral rules.
 
-Even the modern use of "chivalry" in dating contexts — holding doors, paying for meals — descends, in attenuated form, from the courtly love tradition. Whether that's positive (showing respect) or problematic (implying women need protection) is a legitimate contemporary debate.
+Even the modern use of "chivalry" in dating contexts — holding doors, paying for meals — descends, in attenuated form, from the courtly love tradition. Whether that's positive (showing respect) or problematic (implying women need protection) is a legitimate contemporary [debate](/debate).
 
 The deeper legacy is the [philosophical](/stoicism) idea that strength should serve virtue. That power without moral guidance is merely dangerous. That the strong have special obligations to the weak. You don't have to be a medieval knight to find that idea worth holding onto. Chivalry at its best wasn't about armor and horses. It was about the relationship between power and responsibility — a question that never goes out of date.

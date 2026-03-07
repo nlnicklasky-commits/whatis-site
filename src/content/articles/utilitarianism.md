@@ -5,7 +5,7 @@ description: "Utilitarianism is the ethical theory that the right action is the 
 category: philosophy
 tags: ["utilitarianism", "ethics", "philosophy", "moral theory", "consequentialism"]
 heroImage: "/images/articles/utilitarianism.webp"
-heroAlt: "An old-fashioned balance scale with symbols of happiness and suffering being weighed against each other"
+heroAlt: "Editorial photograph representing the concept of utilitarianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Jeremy Bentham (1748-1832) didn't invent the idea that happiness matters morally
 
 Bentham's starting point was psychological: humans are governed by two masters, pleasure and pain. Everything we do, we do to seek pleasure or avoid pain. This isn't a moral claim — it's an observation about human nature. The moral claim comes next: since pleasure and pain are what ultimately matter to people, they should be what matter to morality. The right action is the one that maximizes pleasure and minimizes pain across all affected parties.
 
-Bentham proposed what he called the "felicific calculus" — a method for quantifying pleasure and pain along seven dimensions: intensity, duration, certainty, propinquity (how soon), fecundity (likelihood of producing more pleasure), purity (likelihood of not producing pain), and extent (how many people are affected). You'd calculate the net pleasure for each possible action and choose the one with the highest score.
+Bentham proposed what he called the "felicific [calculus](/calculus)" — a method for quantifying pleasure and pain along seven dimensions: intensity, duration, certainty, propinquity (how soon), fecundity (likelihood of producing more pleasure), purity (likelihood of not producing pain), and extent (how many people are affected). You'd calculate the net pleasure for each possible action and choose the one with the highest score.
 
 The idea of reducing morality to arithmetic struck many of Bentham's contemporaries as absurd. And frankly, the felicific calculus doesn't work in practice — how do you compare the intensity of one person's pleasure to the duration of another's? But the underlying principle — that moral decisions should consider the well-being of everyone affected, impartially and equally — was genuinely radical for the late 18th century.
 
@@ -53,7 +53,7 @@ Bentham took his own ideas seriously. He advocated for animal welfare (arguing t
 
 John Stuart Mill (1806-1873), the son of Bentham's close friend James Mill, grew up steeped in utilitarian thinking. His 1863 book *Utilitarianism* refined Bentham's ideas in ways that made the theory more sophisticated — and arguably more defensible.
 
-Mill's key departure from Bentham was the distinction between higher and lower pleasures. Bentham had treated all pleasures as equal in kind — the pleasure of poetry and the pleasure of pushpin (a children's game) were the same type of thing, differing only in quantity. Mill disagreed. Some pleasures, he argued, are qualitatively superior to others. Intellectual, aesthetic, and moral pleasures are inherently more valuable than physical pleasures, regardless of quantity.
+Mill's key departure from Bentham was the distinction between higher and lower pleasures. Bentham had treated all pleasures as equal in kind — the pleasure of [poetry](/poetry) and the pleasure of pushpin (a children's game) were the same type of thing, differing only in quantity. Mill disagreed. Some pleasures, he argued, are qualitatively superior to others. Intellectual, aesthetic, and moral pleasures are inherently more valuable than physical pleasures, regardless of quantity.
 
 His test for distinguishing higher from lower pleasures was experiential: anyone who has experienced both types of pleasure and is capable of appreciating both will prefer the higher. "It is better to be Socrates dissatisfied than a fool satisfied," Mill wrote. A person who has experienced both philosophical reflection and mindless entertainment will recognize that the former is more deeply satisfying, even if the latter is more immediately pleasant.
 
@@ -87,7 +87,7 @@ Developed most notably by R.M. Hare and Peter Singer, preference utilitarianism 
 
 This avoids the awkward question of what counts as pleasure and whether some pleasures are "higher" than others. Instead, it respects what people actually want, whatever that may be. If you prefer a quiet life of contemplation and I prefer extreme sports, neither preference is inherently superior — what matters is whether our preferences are satisfied.
 
-Preference utilitarianism has been influential in applied [ethics](/aesthetics) and economic theory (welfare economics is largely built on preference satisfaction). But it faces its own problems: Should we satisfy sadistic preferences? Uninformed preferences (you want X but would want Y if you knew all the facts)? Adaptive preferences (the oppressed person who has "learned" to prefer oppression)?
+Preference utilitarianism has been influential in applied [ethics](/aesthetics) and [economic theory](/economic-theory) (welfare [economics](/economics) is largely built on preference satisfaction). But it faces its own problems: Should we satisfy sadistic preferences? Uninformed preferences (you want X but would want Y if you knew all the facts)? Adaptive preferences (the oppressed person who has "learned" to prefer oppression)?
 
 ### Negative Utilitarianism
 
@@ -131,7 +131,7 @@ Despite its philosophical difficulties, utilitarian reasoning pervades practical
 
 ### Public Policy
 
-Cost-benefit analysis — the standard method for evaluating government regulations — is applied utilitarianism. The EPA calculates the health benefits of reducing air pollution (measured in "statistical lives saved" and illness prevented) against the compliance costs to industry. If benefits exceed costs, the regulation is justified.
+Cost-benefit analysis — the standard method for evaluating [government](/government) regulations — is applied utilitarianism. The EPA calculates the health benefits of reducing air pollution (measured in "statistical lives saved" and illness prevented) against the compliance costs to industry. If benefits exceed costs, the regulation is justified.
 
 The assigned value of a statistical life in U.S. regulatory analysis is approximately $10-12 million (as of 2024). This number sounds cold, but it enables concrete comparisons. Should we spend $50 million to add guardrails that would prevent an estimated 3 deaths per year? The utilitarian math says yes.
 
@@ -149,11 +149,11 @@ The movement has directed hundreds of millions of dollars toward high-impact int
 
 Utilitarian thinking shapes debates about punishment. A utilitarian cares about punishment only insofar as it produces good outcomes: deterrence (discouraging future crime), incapacitation (preventing criminals from reoffending while imprisoned), and rehabilitation (helping offenders become productive members of society). Retribution — punishing criminals because they "deserve" it — has no place in strict utilitarian thinking unless it happens to produce good consequences.
 
-This puts utilitarianism in conflict with strong moral intuitions about justice. If a crime wave could be stopped by publicly executing a scapegoat (even knowing they're innocent), utilitarian math might support it. Most people recoil from this, which is either evidence that utilitarianism is wrong or evidence that our [moral intuitions](/cognitive-bias) are unreliable guides. The debate continues.
+This puts utilitarianism in conflict with strong moral intuitions about justice. If a crime wave could be stopped by publicly executing a scapegoat (even knowing they're innocent), utilitarian math might support it. Most people recoil from this, which is either evidence that utilitarianism is wrong or evidence that our [moral intuitions](/cognitive-bias) are unreliable guides. The [debate](/debate) continues.
 
 ## Why Utilitarianism Won't Go Away
 
-For all its problems, utilitarianism endures because the alternatives have problems too. Deontological ethics (follow moral rules regardless of consequences) struggles to explain why we should follow rules when doing so clearly produces terrible outcomes. Virtue ethics (be a virtuous person) struggles to provide concrete guidance in complex situations. Rights-based theories can't resolve conflicts between competing rights without appealing to something like consequences.
+For all its problems, utilitarianism endures because the alternatives have problems too. Deontological ethics (follow moral rules regardless of consequences) struggles to explain why we should follow rules when doing so clearly produces terrible outcomes. [Virtue ethics](/virtue-ethics) (be a virtuous person) struggles to provide concrete guidance in complex situations. Rights-based theories can't resolve conflicts between competing rights without appealing to something like consequences.
 
 Utilitarianism has a simplicity and a democratic equality — every person's well-being counts the same — that remains deeply appealing. Its demand that we look at outcomes, consider everyone affected, and try to do the most good is hard to reject entirely, even if the strict theory leads to uncomfortable places.
 

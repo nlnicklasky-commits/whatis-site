@@ -5,7 +5,7 @@ description: "Physical comedy uses the body to generate laughter through falls, 
 category: arts-amp-culture
 tags: ["comedy", "humor", "slapstick", "performance", "entertainment", "clowning"]
 heroImage: "/images/articles/physical-comedy.webp"
-heroAlt: "A performer in mid-pratfall with exaggerated expression, capturing the art of physical comedy"
+heroAlt: "Editorial photograph representing the concept of physical comedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Several theories explain this. Henri Bergson's theory suggests we laugh when humans behave mechanically — a person tripping reveals their body acting like a rigid machine rather than a flexible being. Superiority theory argues we laugh because we feel momentarily superior to the person who fell. Incongruity theory says the unexpected disruption of normal movement creates a cognitive surprise that triggers laughter. Relief theory suggests the fall creates brief tension (is the person hurt?) followed by relief (they're fine) that releases as laughter."
 ---
 
-# What Is Physical Comedy?
+# What Is Physical [Comedy](/comedy)?
 
 Physical comedy is the art of making people laugh using the body — through falls, exaggerated gestures, facial expressions, timing of movement, visual gags, and the deliberate misuse of objects and space. It's the oldest form of comedy, predating written language, and arguably the most universal. A person slipping on a banana peel is funny in every culture, and explaining why is harder than you'd think.
 
@@ -43,7 +43,7 @@ The tool that gave slapstick its name — the *batacchio* or slapstick — was a
 
 ## The Silent Film Golden Age
 
-Physical comedy reached its artistic peak during the silent film era (1910s-1920s), when the absence of dialogue forced comedians to communicate entirely through movement, expression, and visual storytelling.
+Physical comedy reached its artistic peak during the silent film era (1910s-1920s), when the absence of dialogue forced comedians to communicate entirely through movement, expression, and visual [storytelling](/storytelling).
 
 **Charlie Chaplin** (1889-1977) created the Little Tramp — the bowler hat, cane, oversized shoes, tight coat, and distinctive waddle that became the most recognized image in early cinema. Chaplin's genius was combining physical comedy with genuine emotion. The Tramp falls down, gets kicked, and gets up again — and you laugh, but you also feel something. His physical timing was flawless, trained by years of British music hall performance.
 
@@ -67,7 +67,7 @@ Physical comedy works through several psychological mechanisms:
 
 ## The Trained Body
 
-Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese opera, which includes martial arts, acrobatics, and dance. Rowan Atkinson (Mr. Bean) studied electrical engineering but had an instinctive physical control that's almost eerie to watch.
+Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese [opera](/opera), which includes [martial arts](/martial-arts), acrobatics, and [dance](/dance). Rowan Atkinson (Mr. Bean) studied [electrical engineering](/electrical-[engineering](/engineering)) but had an instinctive physical control that's almost eerie to watch.
 
 The skills involved include:
 
@@ -83,6 +83,6 @@ The tradition continues, though the forms evolve. Jim Carrey's elastic facial ex
 
 Jackie Chan merged martial arts with physical comedy, creating a genre where the line between action and humor dissolves completely. His carefully choreographed fight-comedy sequences — where he uses ladders, chairs, and whatever's handy as both weapons and comedic props — owe as much to Keaton as to Bruce Lee.
 
-Animation is pure physical comedy unleashed from the laws of physics. Looney Tunes, Tom and Jerry, and modern animated films can stretch, squash, and deform characters in ways live performers can't — which is why physical comedy in animation often pushes further than any human body could go.
+[Animation](/animation) is pure physical comedy unleashed from the laws of [physics](/physics). Looney Tunes, Tom and Jerry, and modern animated films can stretch, [squash](/squash), and deform characters in ways live performers can't — which is why physical comedy in animation often pushes further than any human body could go.
 
 Physical comedy endures because it bypasses language, culture, and intellectual pretension. A person slipping on ice is funny whether you're watching in Tokyo, Lagos, or Buenos Aires. The body's vulnerability, its stubborn refusal to cooperate with our intentions, and our collective ability to laugh about that — these are among the most human things about us.

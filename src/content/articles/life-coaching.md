@@ -5,7 +5,7 @@ description: "Life coaching is a goal-oriented practice where a trained coach he
 category: health-amp-wellness
 tags: ["personal development", "life coaching", "wellness", "psychology", "goal setting"]
 heroImage: "/images/articles/life-coaching.webp"
-heroAlt: "Two people sitting across from each other in a bright room having a focused coaching conversation"
+heroAlt: "Editorial photograph representing the concept of life coaching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,9 +49,9 @@ Between sessions, the client takes action. Coaching without action between sessi
 
 Life coaching didn't emerge from nowhere. It grew from several converging streams.
 
-Sports coaching is the most obvious ancestor. The idea that a knowledgeable outsider can observe your performance, identify blind spots, and push you to improve has deep roots in athletics. Timothy Gallwey's *The Inner Game of Tennis* (1974) was an early crossover — applying coaching principles to mental performance rather than just physical technique.
+[Sports coaching](/sports-coaching) is the most obvious ancestor. The idea that a knowledgeable outsider can observe your performance, identify blind spots, and push you to improve has deep roots in athletics. Timothy Gallwey's *The Inner Game of Tennis* (1974) was an early crossover — applying coaching principles to mental performance rather than just physical technique.
 
-The human potential movement of the 1960s and 1970s contributed ideas about self-actualization, personal responsibility, and the belief that people have untapped capacity for growth. Werner Erhard's est training programs and Abraham Maslow's hierarchy of needs both influenced early coaching philosophy.
+The human potential movement of the 1960s and 1970s contributed ideas about self-actualization, personal responsibility, and the belief that people have untapped capacity for growth. Werner Erhard's est training programs and Abraham Maslow's hierarchy of needs both influenced early coaching [philosophy](/philosophy).
 
 Thomas Leonard, often called the "father of personal coaching," founded Coach University in 1992 and the International Coach Federation (ICF) in 1995. He systematized coaching methods and began training others in the approach. Before Leonard, coaching happened informally. After him, it became a profession — with training programs, ethical standards, and credential systems.
 
@@ -59,7 +59,7 @@ Thomas Leonard, often called the "father of personal coaching," founded Coach Un
 
 Understanding coaching means understanding what it's not. The boundaries matter — a lot.
 
-**Coaching vs. therapy.** Therapists diagnose and treat mental health conditions. They're licensed by state or national boards, follow clinical protocols, and often explore past experiences and trauma. Coaches don't diagnose anything. They work with people who are generally functioning well but want to achieve specific goals or make changes. A good coach recognizes when a client needs therapy and refers them. A bad coach tries to handle problems beyond their training.
+**Coaching vs. therapy.** Therapists diagnose and treat [mental health](/mental-health) conditions. They're licensed by state or national boards, follow clinical protocols, and often explore past experiences and trauma. Coaches don't diagnose anything. They work with people who are generally functioning well but want to achieve specific goals or make changes. A good coach recognizes when a client needs therapy and refers them. A bad coach tries to handle problems beyond their training.
 
 **Coaching vs. consulting.** Consultants analyze problems and provide expert solutions. They tell you what to do based on their specialized knowledge. Coaches don't position themselves as the expert on your life. They believe you have the answers — their job is to help you find and act on them. This philosophical difference sounds subtle but shapes the entire relationship.
 
@@ -71,7 +71,7 @@ What coaches actually do falls into several categories. They help you get clear 
 
 Is there actual evidence that coaching works? The short answer: yes, but with caveats.
 
-A meta-analysis published in *The Journal of Positive Psychology* in 2013 examined 18 studies and found that coaching had significant positive effects on performance, well-being, coping skills, and goal-directed self-regulation. Another study in *Consulting Psychology Journal* found that executive coaching produced a 529% return on investment, plus significant intangible benefits.
+A meta-analysis published in *The Journal of Positive [Psychology](/psychology)* in 2013 examined 18 studies and found that coaching had significant positive effects on performance, well-being, coping skills, and goal-directed self-regulation. Another study in *Consulting Psychology Journal* found that executive coaching produced a 529% return on investment, plus significant intangible benefits.
 
 The mechanisms aren't mysterious. Coaching draws on well-established principles from [behavioral psychology](/behavioral-psychology) and [cognitive psychology](/cognitive-psychology). Setting specific goals improves performance — that's decades of research. Accountability increases follow-through. Reframing limiting beliefs reduces self-sabotage. Regular reflection improves self-awareness. Coaching packages these evidence-based principles into a structured relationship.
 
@@ -81,11 +81,11 @@ But the research also has limitations. Many studies have small sample sizes, lac
 
 The coaching world has spawned numerous specializations, each focusing on different aspects of life and performance.
 
-**Executive coaching** works with leaders and managers in organizational settings. It focuses on leadership development, communication skills, strategic thinking, and managing workplace relationships. This is the most established and best-researched form of coaching, partly because companies are willing to pay for it and measure results. It intersects significantly with [business administration](/business-administration).
+**Executive coaching** works with leaders and managers in organizational settings. It focuses on [leadership](/leadership) development, communication skills, strategic thinking, and managing workplace relationships. This is the most established and best-researched form of coaching, partly because companies are willing to pay for it and measure results. It intersects significantly with [business administration](/business-administration).
 
 **Career coaching** helps people with job transitions, career direction, interview preparation, and professional development. Career coaches may use assessments, help build resumes, or coach through the emotional aspects of career change.
 
-**Health and wellness coaching** focuses on behavior change related to physical health — exercise, nutrition, stress management, sleep. Some health coaches work within medical systems alongside doctors and nutritionists. This area overlaps with what you'd find in discussions of [nutrition](/nutrition) and preventive health.
+**Health and wellness coaching** focuses on behavior change related to physical health — exercise, nutrition, stress [management](/management), sleep. Some health coaches work within medical systems alongside doctors and nutritionists. This area overlaps with what you'd find in discussions of [nutrition](/nutrition) and preventive health.
 
 **Relationship coaching** helps individuals or couples improve their relationship skills, communication patterns, and interpersonal dynamics. It differs from couples therapy in that it's forward-focused and doesn't address clinical issues like trauma or mental health conditions.
 

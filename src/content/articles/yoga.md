@@ -5,7 +5,7 @@ description: "Yoga is an ancient practice combining physical postures, breathing
 category: health-amp-wellness
 tags: ["mindfulness", "meditation", "fitness", "spirituality", "wellness"]
 heroImage: "/images/articles/yoga.webp"
-heroAlt: "Person practicing a yoga pose on a mat outdoors with mountains in the background"
+heroAlt: "Editorial photograph representing the concept of yoga"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Yoga?
 
-Yoga is a mind-body practice that originated in ancient India and combines physical postures (asanas), controlled breathing (pranayama), and meditation or relaxation techniques. In the West, it's primarily known as a form of exercise emphasizing flexibility, strength, and balance — but its roots go much deeper than your local studio's 60-minute vinyasa class.
+Yoga is a mind-body practice that originated in ancient India and combines physical postures (asanas), controlled breathing (pranayama), and [meditation](/meditation) or [relaxation techniques](/relaxation-techniques). In the West, it's primarily known as a form of exercise emphasizing flexibility, strength, and balance — but its roots go much deeper than your local studio's 60-minute vinyasa class.
 
 Over 300 million people practice yoga worldwide. In the United States alone, roughly 36 million people practiced yoga in 2023, up from 20 million in 2012. It's one of the fastest-growing health practices on the planet.
 
@@ -58,9 +58,9 @@ Here's the thing most Western practitioners don't realize: asana — the physica
 
 ## How Yoga Came West
 
-Yoga's journey from Indian ashrams to American strip malls is a fascinating story of cultural translation, marketing genius, and genuine health benefits.
+Yoga's journey from Indian ashrams to American strip malls is a fascinating story of cultural [translation](/translation), [marketing](/marketing) genius, and genuine health benefits.
 
-Swami Vivekananda introduced yoga philosophy to Western audiences at the 1893 Parliament of Religions in Chicago. But he barely discussed physical postures — his yoga was intellectual and spiritual.
+Swami Vivekananda introduced yoga [philosophy](/philosophy) to Western audiences at the 1893 Parliament of Religions in Chicago. But he barely discussed physical postures — his yoga was intellectual and spiritual.
 
 The physical practice arrived later. Tirumalai Krishnamacharya, often called "the father of modern yoga," developed a physically vigorous practice in Mysore, India, in the 1920s and 1930s. His students — B.K.S. Iyengar, K. Pattabhi Jois, T.K.V. Desikachar, and Indra Devi — each developed their own styles and brought them to the West.
 
@@ -94,13 +94,13 @@ Yoga research has exploded in recent decades. The National Institutes of Health 
 
 **Flexibility and strength.** This one's obvious, but the data confirms it. A 2016 study in the *International Journal of Yoga* found significant improvements in flexibility after just 10 weeks of practice. Certain styles (particularly Ashtanga and vinyasa) build genuine muscular strength — holding Warrior II for 30 seconds will make your thighs believe in exercise.
 
-**Back pain.** The American College of Physicians recommends yoga as a first-line treatment for chronic low back pain. A 2017 study in the *Annals of Internal Medicine* found that yoga was as effective as physical therapy for reducing pain and improving function.
+**Back pain.** The American College of Physicians recommends yoga as a first-line treatment for chronic low back pain. A 2017 study in the *Annals of Internal Medicine* found that yoga was as effective as [physical therapy](/physical-therapy) for reducing pain and improving function.
 
 **Stress and anxiety.** Multiple meta-analyses confirm that yoga reduces cortisol levels, lowers blood pressure, and decreases self-reported stress. A 2018 review in *Psychoneuroendocrinology* found consistent cortisol reduction across 42 studies. The breathing and meditation components appear to activate the parasympathetic nervous system — your body's "rest and digest" mode.
 
 **Heart health.** A 2014 review in the *European Journal of Preventive Cardiology* examined 37 randomized controlled trials and found that yoga improved cardiovascular risk factors including blood pressure, heart rate, cholesterol, and body mass index. The effects were comparable to conventional exercise.
 
-**Mental health.** Research published in the *British Journal of Sports Medicine* (2023) found that yoga was more effective than counseling for reducing symptoms of depression. A Harvard Medical School review noted that yoga increases GABA (gamma-aminobutyric acid) levels in the brain — low GABA is associated with depression and anxiety disorders.
+**[Mental health](/mental-health).** Research published in the *British Journal of Sports Medicine* (2023) found that yoga was more effective than counseling for reducing symptoms of depression. A Harvard Medical School review noted that yoga increases GABA (gamma-aminobutyric acid) levels in the brain — low GABA is associated with depression and anxiety disorders.
 
 **Sleep.** A 2020 meta-analysis in the *Journal of Clinical Sleep Medicine* found that yoga improved sleep quality across 19 studies, with the strongest effects in older adults and women.
 
@@ -112,7 +112,7 @@ What yoga probably doesn't do: cure cancer, reverse aging, or replace necessary 
 
 If you've never done yoga, the prospect of walking into a studio full of people in expensive leggings who can touch their toes to their foreheads is... intimidating. Here's the practical stuff.
 
-**You don't need to be flexible.** This is the biggest myth. You don't need to be strong to start strength training, and you don't need to be flexible to start yoga. Every pose can be modified.
+**You don't need to be flexible.** This is the biggest myth. You don't need to be strong to start [strength training](/strength-training), and you don't need to be flexible to start yoga. Every pose can be modified.
 
 **Wear comfortable clothes.** Nothing fancy required. Anything you can move freely in works. Skip anything too loose that might fall over your head in a forward fold.
 
@@ -130,9 +130,9 @@ If you've never done yoga, the prospect of walking into a studio full of people 
 
 Yoga's explosion in the West raises legitimate questions. A practice rooted in Hindu, Buddhist, and Jain spiritual traditions has been repackaged, secularized, and sold back to consumers by a predominantly white wellness industry. "Goat yoga" and "beer yoga" exist. Many practitioners know nothing about yoga's philosophical foundations.
 
-Indian scholars and practitioners have raised valid concerns. The Indian government launched International Yoga Day (June 21, recognized by the UN since 2015) partly to reassert yoga's cultural origins. Some argue that separating yoga's physical practices from their spiritual context distorts and diminishes the tradition.
+Indian scholars and practitioners have raised valid concerns. The Indian [government](/government) launched International Yoga Day (June 21, recognized by the UN since 2015) partly to reassert yoga's cultural origins. Some argue that separating yoga's physical practices from their spiritual context distorts and diminishes the tradition.
 
-Others take a more pragmatic view: yoga has always evolved and adapted across cultures. The physical practice taught in most Western studios owes as much to European gymnastics traditions of the early 20th century as to ancient Indian texts. Cultural exchange is messy, and rigid gatekeeping serves no one.
+Others take a more pragmatic view: yoga has always evolved and adapted across cultures. The physical practice taught in most Western studios owes as much to European [gymnastics](/gymnastics) traditions of the early 20th century as to ancient Indian texts. Cultural exchange is messy, and rigid gatekeeping serves no one.
 
 Where you land on this is up to you. But understanding yoga's origins — even if your practice is purely physical — seems like basic respect.
 

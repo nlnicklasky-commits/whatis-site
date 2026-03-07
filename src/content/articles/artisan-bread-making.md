@@ -5,7 +5,7 @@ description: "Artisan bread making is the craft of producing handmade bread usin
 category: everyday-concepts
 tags: ["artisan bread", "bread making", "baking", "sourdough", "fermentation", "cooking"]
 heroImage: "/images/articles/artisan-bread-making.webp"
-heroAlt: "Freshly baked artisan sourdough loaf with a deeply scored crust on a wooden cutting board"
+heroAlt: "Editorial photograph representing the concept of artisan bread making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,7 +29,7 @@ faq:
     a: "Not really. You need an oven, a mixing bowl, and your hands. A Dutch oven dramatically improves crust quality by trapping steam during baking. A kitchen scale helps with accuracy. A bench scraper is useful for handling sticky dough. But people baked excellent bread for thousands of years without any specialized equipment."
 ---
 
-# What Is Artisan Bread Making?
+# What Is Artisan [Bread Making](/bread-making)?
 
 Artisan bread making is the craft of producing bread by hand using traditional techniques — long fermentation, simple ingredients, and manual shaping — rather than the industrial processes that produce most commercial bread. The result is typically bread with more complex flavor, chewier texture, and crustier exterior than anything you'll find in a plastic bag at the supermarket.
 
@@ -45,7 +45,7 @@ The [food chemistry](/food-chemistry) involved is genuinely fascinating. During 
 
 Commercial bread production optimizes for speed, consistency, and shelf life. Dough conditioners accelerate gluten development. Extra yeast shortens fermentation. Preservatives extend the window before the bread goes stale. The result is a perfectly uniform product that — let's be honest — often tastes like not much at all.
 
-Artisan baking inverts those priorities. It optimizes for flavor and texture, accepting that each loaf will be slightly different, that the process takes longer, and that the bread won't last a week on the counter. A typical artisan bread timeline:
+Artisan [baking](/baking) inverts those priorities. It optimizes for flavor and texture, accepting that each loaf will be slightly different, that the process takes longer, and that the bread won't last a week on the counter. A typical artisan bread timeline:
 
 1. **Mixing** — Combining ingredients, usually by hand or in a stand mixer
 2. **Autolyse** — Letting the flour hydrate before adding salt (30-60 minutes)
@@ -54,7 +54,7 @@ Artisan baking inverts those priorities. It optimizes for flavor and texture, ac
 5. **Proofing** — A final rise before baking (1-4 hours, or overnight in the refrigerator)
 6. **Baking** — High heat, often with steam, to achieve a crispy crust
 
-The whole process might span 24 to 48 hours. You're not working the entire time — most of those hours, the dough is just sitting there while biology does its thing. But you do need to be around to fold, shape, and bake at the right moments.
+The whole process might span 24 to 48 hours. You're not working the entire time — most of those hours, the dough is just sitting there while [biology](/biology) does its thing. But you do need to be around to fold, shape, and bake at the right moments.
 
 ## Key Bread Types
 
@@ -78,7 +78,7 @@ Using whole wheat, rye, spelt, or other whole grain flours produces denser, more
 
 The COVID-19 pandemic triggered a sourdough explosion. Stuck at home, millions of people started maintaining sourdough starters and baking bread. Flour sold out in grocery stores. Instagram filled with photos of scored loaves. The term "sourdough starter" spiked to all-time highs on Google Trends in April 2020.
 
-The trend stuck for many people because the process is genuinely satisfying. Making bread from scratch — from living cultures and basic ingredients — connects you to one of humanity's oldest [food traditions](/food-science). Archaeological evidence shows bread baking dating back at least 14,000 years, long before agriculture. Early flatbreads were baked on hot stones. The deliberate cultivation of yeast for leavened bread appears by around 3000 BCE in ancient Egypt.
+The trend stuck for many people because the process is genuinely satisfying. Making bread from scratch — from living cultures and basic ingredients — connects you to one of humanity's oldest [food traditions](/food-science). Archaeological evidence shows bread baking dating back at least 14,000 years, long before [agriculture](/agriculture). Early flatbreads were baked on hot stones. The deliberate cultivation of yeast for leavened bread appears by around 3000 BCE in ancient Egypt.
 
 ## Common Mistakes and How to Fix Them
 
@@ -86,7 +86,7 @@ The trend stuck for many people because the process is genuinely satisfying. Mak
 
 **Flat loaf that spread instead of rising?** Likely over-fermented (the gluten structure broke down) or the dough wasn't shaped tightly enough to hold its form.
 
-**Gummy interior?** The bread wasn't baked long enough, or you cut into it before it had cooled completely. Bread continues cooking internally after it comes out of the oven — wait at least an hour before slicing, no matter how torturous that wait feels.
+**Gummy interior?** The bread wasn't baked long enough, or you cut into it before it had cooled completely. Bread continues [cooking](/cooking) internally after it comes out of the oven — wait at least an hour before slicing, no matter how torturous that wait feels.
 
 **Pale, soft crust?** You need more heat and steam. Baking in a preheated Dutch oven solves both problems: the enclosed space traps moisture from the dough itself, creating the steam that gives artisan bread its signature blistered, caramelized crust.
 

@@ -5,7 +5,7 @@ description: "Cartography is the science and art of making maps, from ancient ha
 category: science
 tags: ["cartography", "maps", "geography", "gis", "mapping", "geographic information", "spatial data"]
 heroImage: "/images/articles/cartography-hero.webp"
-heroAlt: "Vintage world map with compass rose and geographic contour lines"
+heroAlt: "Editorial photograph representing the concept of cartography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -113,7 +113,7 @@ Today, most world maps in schools use either Robinson or Winkel Tripel projectio
 
 ## Modern Cartography — Digital Everything
 
-### Geographic Information Systems (GIS)
+### Geographic [Information Systems](/information-systems) (GIS)
 
 GIS transformed cartography from an art studio practice to a computational discipline. A GIS stores geographic data as layers — one layer for roads, one for buildings, one for elevation, one for population density — that can be combined, analyzed, and visualized.
 
@@ -127,7 +127,7 @@ GIS processing relies heavily on spatial [algorithms](/algorithms) — computati
 
 Satellite imagery has revolutionized cartography. Landsat (launched 1972, still operating) provides continuous coverage of the entire Earth's surface. Sentinel satellites from the European Space Agency offer even higher resolution. Commercial providers like Maxar deliver imagery with 30-centimeter resolution — enough to distinguish individual cars.
 
-This data enables near-real-time mapping of deforestation, urban growth, glacier retreat, agricultural conditions, and natural disasters. Before satellite imagery, updating maps of remote areas required expensive ground surveys or aerial photography. Now, algorithms process satellite data automatically, detecting changes and updating maps.
+This data enables near-real-time mapping of deforestation, urban growth, glacier retreat, agricultural conditions, and [natural disasters](/natural-disasters). Before satellite imagery, updating maps of remote areas required expensive ground surveys or aerial photography. Now, algorithms process satellite data automatically, detecting changes and updating maps.
 
 ### GPS and Location Services
 
@@ -145,7 +145,7 @@ During natural disasters, OSM's Humanitarian OpenStreetMap Team (HOT) mobilizes 
 
 [Machine learning](/machine-learning) is automating tasks that once required human cartographers. Algorithms can now extract building footprints from satellite imagery, classify land use, detect road networks, and even generate map labels automatically.
 
-Facebook (now Meta) used neural networks to map every building in Africa — over 600 million structures — from satellite imagery. This data improved population estimates, infrastructure planning, and disaster response in areas that had never been systematically mapped.
+Facebook (now Meta) used [neural networks](/neural-networks) to map every building in Africa — over 600 million structures — from satellite imagery. This data improved population estimates, [infrastructure planning](/infrastructure-planning), and disaster response in areas that had never been systematically mapped.
 
 ## How to Read a Map (Most People Can't, Really)
 
@@ -183,11 +183,11 @@ Google's Location History, Uber's rider data, fitness apps' route tracking — t
 
 ### Contested Territories
 
-Maps of disputed borders are politically charged. How you draw the line between India and Pakistan in Kashmir, between Israel and Palestine, between China and Taiwan — these cartographic choices carry diplomatic consequences. Google Maps actually shows different borders depending on where you access it from, reflecting local government requirements.
+Maps of disputed borders are politically charged. How you draw the line between India and Pakistan in Kashmir, between Israel and Palestine, between China and Taiwan — these cartographic choices carry diplomatic consequences. Google Maps actually shows different borders depending on where you access it from, reflecting local [government](/government) requirements.
 
 ## The Future of Maps
 
-Cartography is moving from static documents to living, real-time systems. Digital twins — detailed 3D models of cities updated in real time — are being built for urban planning, autonomous vehicle navigation, and emergency response. Indoor mapping extends cartography inside buildings — airports, hospitals, shopping centers.
+Cartography is moving from static documents to living, real-time systems. Digital twins — detailed 3D models of cities updated in real time — are being built for [urban planning](/urban-planning), autonomous vehicle navigation, and emergency response. Indoor mapping extends cartography inside buildings — airports, hospitals, shopping centers.
 
 Augmented reality will overlay map information directly on your visual field. Instead of looking down at a map, you'll see navigation arrows floating in your actual view of the street. Apple's AR navigation, Google's Live View, and similar products are early versions of this.
 

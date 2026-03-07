@@ -5,7 +5,7 @@ description: "Accounting is the system for recording, summarizing, and reporting
 category: finance
 tags: ["accounting", "finance", "bookkeeping", "financial statements", "gaap", "business", "economics"]
 heroImage: "/images/articles/accounting-hero.webp"
-heroAlt: "Ledger book with financial statements and a calculator on a desk"
+heroAlt: "Editorial photograph representing the concept of accounting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -45,7 +45,7 @@ Accounting is the systematic process of recording, classifying, summarizing, and
 
 Okay, maybe not *the* oldest. But accounting has been around far longer than most people realize. The earliest accounting records date back over 7,000 years to ancient Mesopotamia, where merchants used clay tablets to track grain and livestock trades. The word "account" itself comes from the Old French *aconter*, meaning "to reckon."
 
-But the real turning point came in 1494, when an Italian friar and mathematician named Luca Pacioli published *Summa de Arithmetica*. In it, he described the double-entry bookkeeping system—a method where every transaction is recorded in two places: as a debit in one account and a credit in another. This wasn't Pacioli's invention (Venetian merchants had been using it for at least a century), but he was the first to write it down systematically.
+But the real turning point came in 1494, when an Italian friar and mathematician named Luca Pacioli published *Summa de Arithmetica*. In it, he described the double-entry [bookkeeping](/bookkeeping) system—a method where every transaction is recorded in two places: as a debit in one account and a credit in another. This wasn't Pacioli's invention (Venetian merchants had been using it for at least a century), but he was the first to write it down systematically.
 
 Here's the thing: that 500-year-old system? It's still the foundation of virtually all modern accounting. Every entry in QuickBooks, every line on a Fortune 500 balance sheet, every transaction in your bank's database uses double-entry bookkeeping. Pacioli's framework survived the industrial revolution, the invention of computers, and the rise of global [finance](/finance). That's a remarkable track record.
 
@@ -107,7 +107,7 @@ Many experienced investors say the cash flow statement is the most important of 
 
 Accounting isn't one job. It branches into specialized fields, each serving different purposes.
 
-### Financial Accounting
+### [Financial Accounting](/financial-accounting)
 
 This is the public-facing side. Financial accountants prepare the statements described above, following strict rules (GAAP in the US, IFRS internationally) so that outsiders—investors, regulators, lenders—can trust the numbers. The goal is standardization. When you compare Coca-Cola's revenue to PepsiCo's, the numbers mean the same thing because both follow the same rules.
 
@@ -180,7 +180,7 @@ The downside? Accrual accounting is more complex and can obscure cash flow probl
 
 ## Technology's Impact on Accounting
 
-Accounting has changed more in the last 30 years than in the previous 300. Spreadsheets replaced paper ledgers. Enterprise software replaced spreadsheets. Cloud computing replaced on-premise servers. And now artificial intelligence is beginning to automate routine tasks.
+Accounting has changed more in the last 30 years than in the previous 300. Spreadsheets replaced paper ledgers. Enterprise software replaced spreadsheets. [Cloud computing](/cloud-computing) replaced on-premise servers. And now [artificial intelligence](/artificial-intelligence) is beginning to automate routine tasks.
 
 Software like QuickBooks, Xero, and FreshBooks handles basic bookkeeping for millions of small businesses. Enterprise Resource Planning (ERP) systems from SAP, Oracle, and Microsoft integrate accounting with every other business function. [Machine learning](/machine-learning) algorithms can now categorize transactions, flag anomalies, and even generate preliminary financial reports.
 
@@ -204,7 +204,7 @@ These scandals led directly to stronger regulations—Sarbanes-Oxley, Dodd-Frank
 
 The path into accounting is relatively straightforward compared to many professions.
 
-A bachelor's degree in accounting is the standard entry point. Coursework covers financial accounting, cost accounting, tax, auditing, and business law. Most programs take four years.
+A bachelor's degree in accounting is the standard entry point. Coursework covers financial accounting, cost accounting, tax, auditing, and [business law](/business-law). Most programs take four years.
 
 For those aiming for the CPA designation—which opens the most doors—there's an extra hurdle. Most states require 150 credit hours (about five years of college), passing the Uniform CPA Examination (a four-part test covering auditing, business environment, financial accounting, and regulation), and one to two years of supervised work experience.
 

@@ -5,7 +5,7 @@ description: "Performance art is a live art form where the artist's body and act
 category: arts-amp-culture
 tags: ["performance art", "contemporary art", "live art", "conceptual art", "art performance", "body art"]
 heroImage: "/images/articles/performance-art.webp"
-heroAlt: "An artist performing a live piece in a gallery space with an attentive audience"
+heroAlt: "Editorial photograph representing the concept of performance art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Performance Art?
 
-Performance art is a form of artistic expression in which the artist's actions, body, and presence — performed live before an audience — constitute the artwork itself. There's no canvas, no sculpture, no object to hang on a wall. The art is what happens in a specific time and place, experienced by whoever is present, and then it's gone. It can be scripted or improvised, solo or collaborative, minutes long or stretching over days. What defines it is that the artist's live action is the medium.
+Performance art is a form of artistic expression in which the artist's actions, body, and presence — performed live before an audience — constitute the artwork itself. There's no canvas, no [sculpture](/sculpture), no object to hang on a wall. The art is what happens in a specific time and place, experienced by whoever is present, and then it's gone. It can be scripted or improvised, solo or collaborative, minutes long or stretching over days. What defines it is that the artist's live action is the medium.
 
 ## What It Looks Like (Or Doesn't)
 
@@ -43,17 +43,17 @@ Some performances are quiet and meditative. Others are confrontational. Some inv
 
 Performance art didn't appear from nowhere. Its roots trace through several 20th-century movements.
 
-**Futurism** (1909 onward) staged provocative evenings combining poetry, music, and confrontation. Futurist performances were designed to shock bourgeois audiences and disrupt expectations about what art could be.
+**Futurism** (1909 onward) staged provocative evenings combining [poetry](/poetry), music, and confrontation. Futurist performances were designed to shock bourgeois audiences and disrupt expectations about what art could be.
 
-**Dada** (1916 onward) took this further. Hugo Ball's sound poems at the Cabaret Voltaire in Zurich — nonsensical syllables performed in elaborate costumes — deliberately rejected rational meaning. Dada performances attacked the conventions of art, language, and logic.
+**Dada** (1916 onward) took this further. Hugo Ball's sound poems at the [Cabaret](/cabaret) Voltaire in Zurich — nonsensical syllables performed in elaborate costumes — deliberately rejected rational meaning. Dada performances attacked the conventions of art, language, and [logic](/logic).
 
-**The Bauhaus** (1919-1933) integrated performance into its art curriculum. Oskar Schlemmer's *Triadic Ballet* used geometric costumes that transformed the human body into abstract sculptural forms.
+**The Bauhaus** (1919-1933) integrated performance into its art curriculum. Oskar Schlemmer's *Triadic [Ballet](/ballet)* used geometric costumes that transformed the human body into abstract sculptural forms.
 
 **Happenings** (late 1950s-60s), coined by Allan Kaprow, were structured but loosely scripted events that blurred the line between art and life. Participants followed instructions that produced unpredictable outcomes. Kaprow insisted that happenings should occur once and never be repeated.
 
 **Fluxus** (1960s onward) merged art and everyday life through simple, often humorous performances. Yoko Ono's instruction pieces — "Draw a map to get lost" — were performances in conceptual form.
 
-By the late 1960s and 1970s, performance art had established itself as a distinct discipline, separate from theater, dance, and visual art while borrowing from all three.
+By the late 1960s and 1970s, performance art had established itself as a distinct discipline, separate from theater, [dance](/dance), and visual art while borrowing from all three.
 
 ## Why the Body?
 
@@ -69,9 +69,9 @@ This was especially important for feminist artists. Carolee Schneemann, Adrian P
 
 **Chris Burden's** early work was deliberately provocative. In *Shoot* (1971), a friend shot him in the arm from 15 feet away. In *Trans-fixed* (1974), he was nailed to a Volkswagen Beetle. These works forced audiences to confront violence, danger, and the limits of what art could or should include.
 
-**Joseph Beuys** expanded performance into what he called "social sculpture" — the idea that art could reshape society itself. His performances often incorporated unusual materials (fat, felt, animals) and drew on his personal mythology.
+**Joseph Beuys** expanded performance into what he called "social sculpture" — the idea that art could reshape society itself. His performances often incorporated unusual materials (fat, felt, animals) and drew on his personal [mythology](/mythology).
 
-**Yves Klein's** *Anthropometries* (1960) used nude models as "living brushes," pressing their paint-covered bodies against canvases while an orchestra played and an audience watched in formal attire. It was performance, painting, and spectacle simultaneously.
+**Yves Klein's** *Anthropometries* (1960) used nude models as "living brushes," pressing their paint-covered bodies against canvases while an orchestra played and an audience watched in formal attire. It was performance, [painting](/painting), and spectacle simultaneously.
 
 ## The Documentation Problem
 

@@ -5,7 +5,7 @@ description: "Natural medicine uses plants, nutrition, and lifestyle changes to 
 category: health-amp-wellness
 tags: ["natural medicine", "naturopathy", "alternative medicine", "herbal medicine"]
 heroImage: "/images/articles/natural-medicine.webp"
-heroAlt: "Assorted dried herbs, tincture bottles, and mortar and pestle on a wooden table"
+heroAlt: "Editorial photograph representing the concept of natural medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Natural Medicine?
 
-Natural medicine is a broad category of health practices that use substances and techniques found in nature — plants, minerals, nutrition, physical therapies, and lifestyle modifications — to prevent and treat illness. It includes everything from herbal teas your grandmother swore by to standardized plant extracts tested in randomized clinical trials.
+Natural medicine is a broad category of health practices that use substances and techniques found in nature — plants, minerals, [nutrition](/nutrition), physical therapies, and lifestyle modifications — to prevent and treat illness. It includes everything from herbal teas your grandmother swore by to standardized plant extracts tested in randomized clinical trials.
 
 The term covers a lot of ground, and that's part of the problem with discussing it clearly. "Natural medicine" can mean a well-researched herbal remedy with solid clinical evidence, or it can mean an unproven product sold with vague health claims on a website with questionable design. The difference matters enormously.
 
@@ -41,19 +41,19 @@ The term covers a lot of ground, and that's part of the problem with discussing 
 
 Humans have been using plants as medicine for as long as we've been human — and probably longer. A 60,000-year-old Neanderthal burial site in Iraq (Shanidar Cave) contained pollen from medicinal plants, suggesting that even our evolutionary cousins may have used herbal remedies.
 
-Every major civilization developed its own system of plant-based medicine. Traditional Chinese Medicine (TCM) has been documented for over 2,000 years. India's Ayurvedic system dates back at least 3,000 years. Greek and Roman physicians — Hippocrates, Dioscorides, Galen — catalogued hundreds of medicinal plants. Indigenous peoples across every continent developed extensive pharmacological knowledge passed down through oral traditions.
+Every major civilization developed its own system of plant-based medicine. [Traditional Chinese Medicine](/traditional-chinese-medicine) (TCM) has been documented for over 2,000 years. India's Ayurvedic system dates back at least 3,000 years. Greek and Roman physicians — Hippocrates, Dioscorides, Galen — catalogued hundreds of medicinal plants. Indigenous peoples across every continent developed extensive pharmacological knowledge passed down through oral traditions.
 
 Here's the thing most people miss: modern pharmaceutical medicine grew directly out of these traditions. Aspirin comes from willow bark, which was used for pain relief for thousands of years. Morphine comes from the opium poppy. Digoxin, a heart medication still used today, comes from foxglove. The anti-malaria drug artemisinin was derived from sweet wormwood, used in Chinese medicine for centuries. Roughly 25% of modern drugs are derived from or inspired by natural plant compounds, according to the World Health Organization.
 
 ## Categories of Natural Medicine
 
-### Herbal Medicine
+### [Herbal Medicine](/herbal-medicine)
 
 This is the largest and oldest category. Herbal medicine uses whole plants, plant extracts, or plant-derived preparations to treat health conditions. Some common examples:
 
 - **Echinacea** — taken for colds and immune support. Evidence is mixed; some studies show modest benefit in reducing cold duration, others show no effect.
 - **Turmeric (curcumin)** — used for inflammation. The active compound curcumin has strong anti-inflammatory properties in lab studies, but it's poorly absorbed by the body. Bioavailability remains a challenge.
-- **Ginger** — used for nausea. This one has good evidence. Multiple clinical trials support ginger's effectiveness for pregnancy-related nausea, motion sickness, and post-surgery nausea.
+- **Ginger** — used for nausea. This one has good evidence. Multiple clinical trials support ginger's effectiveness for pregnancy-related nausea, motion sickness, and post-[surgery](/surgery) nausea.
 - **Valerian root** — used for sleep and anxiety. Some evidence supports mild effectiveness for insomnia, though studies are inconsistent.
 - **St. John's wort** — used for mild to moderate depression. European studies show effectiveness comparable to some antidepressants for mild depression, but it interacts badly with many medications.
 
@@ -70,7 +70,7 @@ Where nutritional medicine gets controversial is in mega-dose supplementation �
 
 ### Mind-Body Practices
 
-These include meditation, yoga, tai chi, guided imagery, and breathing exercises. The evidence base here is surprisingly strong for certain applications:
+These include [meditation](/meditation), yoga, [tai chi](/tai-chi), guided imagery, and breathing exercises. The evidence base here is surprisingly strong for certain applications:
 
 - **Meditation and mindfulness** — reduces stress, anxiety, and chronic pain in multiple randomized trials
 - **Yoga** — improves lower back pain, anxiety, and quality of life for cancer patients
@@ -110,7 +110,7 @@ Natural medicines carry real risks that are often understated by their advocates
 
 ## The Regulation Gap
 
-In the United States, herbal supplements are regulated under the Dietary Supplement Health and Education Act (DSHEA) of 1994. This law treats supplements differently from drugs:
+In the United States, herbal supplements are regulated under the Dietary Supplement Health and [Education](/education) Act (DSHEA) of 1994. This law treats supplements differently from drugs:
 
 - Supplements don't require FDA approval before being sold
 - Manufacturers are responsible for their own safety testing
@@ -127,7 +127,7 @@ The most promising development in this space is integrative medicine — an appr
 
 Major academic medical centers, including the Mayo Clinic, Cleveland Clinic, and MD Anderson Cancer Center, now have integrative medicine departments. They don't reject natural medicine wholesale or accept it uncritically. Instead, they evaluate what works, identify what's safe to combine with conventional treatments, and monitor patients using both approaches.
 
-This model makes sense. A cancer patient might receive chemotherapy (conventional) while also using acupuncture for nausea, meditation for anxiety, and ginger tea for stomach discomfort (natural). These approaches aren't contradictory — they address different aspects of the patient's experience.
+This model makes sense. A cancer patient might receive chemotherapy (conventional) while also using [acupuncture](/acupuncture) for nausea, meditation for anxiety, and ginger tea for stomach discomfort (natural). These approaches aren't contradictory — they address different aspects of the patient's experience.
 
 ## Making Informed Choices
 
@@ -143,4 +143,4 @@ If you're interested in natural medicine, here's a practical framework:
 
 **Don't replace proven treatments.** For serious conditions, use natural medicine as a complement to — not a replacement for — evidence-based conventional care.
 
-Natural medicine is neither a miracle cure nor a collection of fairy tales. It's a broad field with genuine science, genuine risks, and a lot of territory in between. The smart approach is the same one that applies to all medical decisions: look at the evidence, weigh the risks, and make informed choices.
+Natural medicine is neither a miracle cure nor a collection of [fairy tales](/fairy-tales). It's a broad field with genuine science, genuine risks, and a lot of territory in between. The smart approach is the same one that applies to all medical decisions: look at the evidence, weigh the risks, and make informed choices.

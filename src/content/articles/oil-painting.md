@@ -5,7 +5,7 @@ description: "Oil painting uses pigments mixed with drying oils to create art on
 category: arts-amp-culture
 tags: ["oil painting", "art medium", "painting techniques", "fine art", "linseed oil", "pigments"]
 heroImage: "/images/articles/oil-painting.webp"
-heroAlt: "Close-up of thick oil paint being applied to canvas with visible brushstrokes and rich color"
+heroAlt: "Editorial photograph representing the concept of oil painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Some oil painting materials can be hazardous. Certain pigments contain heavy metals like cadmium and lead. Solvents like turpentine and mineral spirits produce fumes that can irritate lungs and skin. However, modern alternatives exist — water-mixable oil paints, low-odor solvents, and safer pigment substitutes make oil painting much safer than it used to be. Good ventilation and avoiding skin contact with solvents are essential precautions."
 ---
 
-# What Is Oil Painting?
+# What Is Oil [Painting](/painting)?
 
-Oil painting is an art technique that uses pigments suspended in drying oils — most commonly linseed oil — to create images on canvas, wood panels, or other surfaces. It's been the dominant medium in Western art for over 500 years, prized for its rich color, versatile handling, and luminous depth. Nearly every masterpiece you can name from the Renaissance through the 19th century — the Mona Lisa, Starry Night, Girl with a Pearl Earring — was painted in oils.
+Oil painting is an art technique that uses pigments suspended in drying oils — most commonly linseed oil — to create images on canvas, wood panels, or other surfaces. It's been the dominant medium in [Western art](/western-art) for over 500 years, prized for its rich color, versatile handling, and luminous depth. Nearly every masterpiece you can name from the Renaissance through the 19th century — the Mona Lisa, Starry Night, Girl with a Pearl Earring — was painted in oils.
 
 ## How It Works
 
-The chemistry is straightforward. Ground pigments (finely powdered colored materials) are mixed with a drying oil to create a paste. When applied to a surface, the oil doesn't evaporate like water — it oxidizes, gradually polymerizing into a tough, flexible film that binds the pigment particles in place.
+The [chemistry](/chemistry) is straightforward. Ground pigments (finely powdered colored materials) are mixed with a drying oil to create a paste. When applied to a surface, the oil doesn't evaporate like water — it oxidizes, gradually polymerizing into a tough, flexible film that binds the pigment particles in place.
 
 This oxidation process is slow. Depending on the oil used, pigment, and thickness of application, oil paint can take days, weeks, or even months to dry completely. And that slowness is the medium's greatest gift to artists.
 
@@ -79,7 +79,7 @@ By the 16th century, oil on canvas had replaced egg tempera on wood panel as the
 
 ## Why Oil Painting Endures
 
-Photography, digital art, and faster media like acrylics haven't killed oil painting — not even close. Art supply companies report steady demand. MFA programs still teach it. Galleries still show it. Collectors still buy it.
+Photography, [digital art](/digital-art), and faster media like acrylics haven't killed oil painting — not even close. Art supply companies report steady demand. MFA programs still teach it. Galleries still show it. Collectors still buy it.
 
 The medium endures because it does things nothing else can. The physical presence of thick paint on canvas. The way glazed layers create internal light. The surface that records every decision the artist made. A finished oil painting is an object in a way that a digital image or a print isn't — it has weight, texture, and a physical relationship with the viewer that flat reproductions can't capture.
 

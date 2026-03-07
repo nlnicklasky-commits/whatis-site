@@ -5,7 +5,7 @@ description: "Prehistoric man refers to human ancestors who lived before written
 category: history
 tags: ["prehistoric man", "human evolution", "archaeology", "paleoanthropology"]
 heroImage: "/images/articles/prehistoric-man.webp"
-heroAlt: "Reconstruction of early human ancestors gathered around a campfire in a rocky landscape"
+heroAlt: "Editorial photograph representing the concept of prehistoric man"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 # What Is Prehistoric Man?
 
-Prehistoric man is a broad term for the human species and their close ancestors who lived before the invention of writing — roughly the first 99.5% of our lineage's history. This includes dozens of hominin species spanning about 7 million years, from the earliest bipedal apes in Africa to the Homo sapiens who painted cave walls in France 30,000 years ago.
+Prehistoric man is a broad term for the human species and their close ancestors who lived before the [invention](/invention) of [writing](/writing) — roughly the first 99.5% of our lineage's history. This includes dozens of hominin species spanning about 7 million years, from the earliest bipedal apes in Africa to the Homo sapiens who painted cave walls in France 30,000 years ago.
 
 ## Why "Prehistoric Man" Is a Tricky Term
 
@@ -57,7 +57,7 @@ By about 4.4 million years ago, *Ardipithecus ramidus* — "Ardi" — was living
 
 From roughly 4 million to 2 million years ago, the australopithecines dominated the hominin story. The most famous is *Australopithecus afarensis* — Lucy's species — who lived in East Africa between 3.9 and 2.9 million years ago. Lucy herself, discovered in 1974 by Donald Johanson's team in Ethiopia, was only about 3.5 feet tall but walked fully upright.
 
-The australopithecines had small brains (about 400-550 cubic centimeters, roughly a third of modern humans), large jaws, and bodies adapted for both walking and climbing. They weren't making complex tools, but they were doing something no other primate lineage managed: committing fully to life on two legs.
+The australopithecines had small brains (about 400-550 cubic centimeters, roughly a third of modern humans), large jaws, and bodies adapted for both [walking](/walking) and climbing. They weren't making complex tools, but they were doing something no other primate lineage managed: committing fully to life on two legs.
 
 ### Enter the Genus Homo
 
@@ -65,7 +65,7 @@ Around 2.8 million years ago, the genus *Homo* appears in the fossil record. *Ho
 
 *Homo erectus* changed everything. Appearing about 1.9 million years ago, this species had a larger brain (600-1,100 cc), a more modern body plan, and — here's the big one — wanderlust. *Homo erectus* was the first hominin to leave Africa, spreading to Georgia, Indonesia, and China. Fossils from Dmanisi, Georgia, date to about 1.8 million years ago. That's astonishingly early.
 
-*Homo erectus* also controlled fire, though exactly when is hotly debated. Evidence from Wonderwerk Cave in South Africa suggests fire use about 1 million years ago. The Gesher Benot Ya'aqov site in Israel shows controlled fire use around 790,000 years ago. Either way, cooking food was a game-changer — it made calories more accessible and may have driven brain growth.
+*Homo erectus* also controlled fire, though exactly when is hotly debated. Evidence from Wonderwerk Cave in South Africa suggests fire use about 1 million years ago. The Gesher Benot Ya'aqov site in Israel shows controlled fire use around 790,000 years ago. Either way, [cooking](/cooking) food was a game-changer — it made calories more accessible and may have driven brain growth.
 
 ## Tools Tell the Story
 
@@ -85,7 +85,7 @@ No discussion of prehistoric humans is complete without Neanderthals, and no gro
 
 About 1-4% of the DNA of non-African modern humans comes from Neanderthals. That's not just a curiosity. Neanderthal genes affect our immune systems, skin and hair traits, and even our susceptibility to certain diseases. They're not a separate story from ours. They're part of it.
 
-Neanderthals disappeared about 40,000 years ago, shortly after modern humans arrived in Europe. Whether we outcompeted them, absorbed them through interbreeding, or they fell victim to climate change — or some combination — remains one of paleoanthropology's biggest open questions.
+Neanderthals disappeared about 40,000 years ago, shortly after modern humans arrived in Europe. Whether we outcompeted them, absorbed them through interbreeding, or they fell victim to climate change — or some combination — remains one of [paleoanthropology](/paleoanthropology)'s biggest open questions.
 
 ## Out of Africa — Twice (At Least)
 
@@ -107,14 +107,14 @@ When did prehistoric humans start *thinking* like us? This is one of the hardest
 
 The evidence we do have is tantalizing. Ochre pigments were used in Africa as far back as 300,000 years ago. Shell beads from Blombos Cave, South Africa, date to about 75,000 years ago. Geometric engravings on ochre from the same site are about 100,000 years old. Cave paintings in Europe — Chauvet, Lascaux, Altamira — date from about 36,000 to 17,000 years ago.
 
-But here's what most people miss: Neanderthals were painting caves too. Red hand stencils and geometric designs in Spanish caves have been dated to over 65,000 years ago — before modern humans arrived in Europe. If those dates hold up, symbolic art isn't uniquely *sapiens*.
+But here's what most people miss: Neanderthals were [painting](/painting) caves too. Red hand stencils and geometric designs in Spanish caves have been dated to over 65,000 years ago — before modern humans arrived in Europe. If those dates hold up, symbolic art isn't uniquely *sapiens*.
 
 Language is even harder to pin down. The hyoid bone (involved in speech) is present in Neanderthals, and the FOXP2 gene (associated with language ability) is shared between us and them. Most researchers now think some form of language predates the split between our species, meaning it's at least 500,000 years old. But we may never know for certain.
 
 ## Why Any of This Matters
 
-Studying prehistoric man isn't just academic. It tells us what we are as a species — what's hardwired and what's cultural, what's ancient and what's recent. The fact that humans cooperated in large groups, cared for injured individuals, and created art for tens of thousands of years before civilization tells you something about human nature that no modern psychology study can.
+Studying prehistoric man isn't just academic. It tells us what we are as a species — what's hardwired and what's cultural, what's ancient and what's recent. The fact that humans cooperated in large groups, cared for injured individuals, and created art for tens of thousands of years before civilization tells you something about human nature that no modern [psychology](/psychology) study can.
 
-It also provides perspective. Modern humans have existed for about 300,000 years. Agriculture started about 12,000 years ago. Cities, about 6,000 years ago. The iPhone, 2007. We spent the vast majority of our existence as small-band hunter-gatherers. That's the environment our brains and bodies evolved for — and understanding that context sheds light on everything from diet to mental health to social behavior.
+It also provides perspective. Modern humans have existed for about 300,000 years. [Agriculture](/agriculture) started about 12,000 years ago. Cities, about 6,000 years ago. The iPhone, 2007. We spent the vast majority of our existence as small-band hunter-gatherers. That's the environment our brains and bodies evolved for — and understanding that context sheds light on everything from diet to [mental health](/mental-health) to social behavior.
 
 Prehistoric man isn't a primitive prelude to "real" history. It's the main event. Everything since is an epilogue.

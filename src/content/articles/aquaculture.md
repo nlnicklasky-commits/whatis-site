@@ -5,7 +5,7 @@ description: "Aquaculture is the farming of fish, shellfish, and aquatic plants.
 category: science
 tags: ["aquaculture", "farming", "fish farming", "fisheries", "mariculture", "seafood", "agriculture"]
 heroImage: "/images/articles/aquaculture-hero.webp"
-heroAlt: "Fish farm pens floating in a calm coastal bay with mountains in the background"
+heroAlt: "Editorial photograph representing the concept of aquaculture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Aquaculture?
 
-Aquaculture is the controlled breeding, raising, and harvesting of aquatic organisms — including fish, shellfish, seaweed, and other species — in freshwater, saltwater, or brackish environments. Often called "fish farming," aquaculture is now the world's fastest-growing food production sector and has surpassed wild-capture fisheries as the primary source of seafood consumed by humans.
+Aquaculture is the controlled breeding, raising, and harvesting of aquatic organisms — including fish, shellfish, seaweed, and other species — in freshwater, saltwater, or brackish environments. Often called "[fish farming](/fish-farming)," aquaculture is now the world's fastest-growing food production sector and has surpassed wild-capture fisheries as the primary source of seafood consumed by humans.
 
 ## Not Just Fish Ponds
 
@@ -47,7 +47,7 @@ When most people hear "aquaculture," they picture salmon pens bobbing in a Norwe
 
 Freshwater ponds in China raising carp. Shrimp farms carved into former mangrove forests in Southeast Asia. Oyster beds in Chesapeake Bay. Seaweed farms stretched across shallow Indonesian waters. Trout raceways fed by cold mountain streams in Idaho. Indoor recirculating systems in downtown Chicago growing tilapia with 95% water reuse.
 
-The common thread is control. Unlike wild fishing, where you take what nature provides, aquaculture means you're managing the organism's environment, diet, reproduction, and growth. That control is both the source of aquaculture's efficiency and the root of its controversies.
+The common thread is control. Unlike wild [fishing](/fishing), where you take what nature provides, aquaculture means you're managing the organism's environment, diet, reproduction, and growth. That control is both the source of aquaculture's efficiency and the root of its controversies.
 
 ## A History That Goes Back Further Than You'd Expect
 
@@ -55,7 +55,7 @@ Humans have been farming aquatic animals for a very long time.
 
 The oldest evidence of aquaculture comes from Australia, where Aboriginal Australians built elaborate stone fish traps at Budj Bim at least 6,600 years ago — and possibly as far back as 8,000 years. These weren't simple weirs. They were engineered canal systems that trapped, held, and fattened eels over extended periods. In 2019, the Budj Bim Cultural Field became a UNESCO World Heritage Site, partly because of these ancient aquaculture systems.
 
-Chinese records describe carp farming as early as 2500 BCE. Fan Li, a Chinese politician and businessman, wrote what may be the first aquaculture manual around 475 BCE — "The Classic of Fish Culture." His advice on stocking densities, pond management, and breeding was remarkably sophisticated for the era.
+Chinese records describe carp farming as early as 2500 BCE. Fan Li, a Chinese politician and businessman, wrote what may be the first aquaculture manual around 475 BCE — "The Classic of Fish Culture." His advice on stocking densities, pond [management](/management), and breeding was remarkably sophisticated for the era.
 
 Romans farmed oysters and fish in coastal ponds. Medieval European monks raised carp in monastery ponds for Lenten meals (when meat was forbidden but fish was allowed — a theological loophole that shaped European aquaculture for centuries).
 
@@ -101,7 +101,7 @@ This is the high-tech end of the spectrum. RAS facilities are essentially indoor
 
 RAS can be built anywhere — urban warehouses, desert locations, landlocked countries. They eliminate concerns about escapes into wild ecosystems and allow precise environmental control. The catch? They're expensive to build and operate. Energy costs for pumping and filtration are significant.
 
-Several companies are betting big on land-based RAS for salmon farming, aiming to produce Atlantic salmon close to major consumer markets like the US and Japan. Whether the economics work at scale remains an open question as of 2026.
+Several companies are betting big on land-based RAS for salmon farming, aiming to produce Atlantic salmon close to major consumer markets like the US and Japan. Whether the [economics](/economics) work at scale remains an open question as of 2026.
 
 ### Flow-Through and Raceway Systems
 
@@ -149,7 +149,7 @@ The environmental verdict really depends on *what* you're farming and *how* you'
 
 Farming tilapia in a well-managed pond? Probably fine. Farming mussels on a longline? Actively beneficial. Farming salmon in open net pens in a migration route for wild salmon? Legitimately problematic. Destroying mangroves to build shrimp ponds? Ecological vandalism.
 
-The industry is improving. Certification programs like the Aquaculture Stewardship Council (ASC) set environmental and social standards. Feed formulations increasingly replace fish meal with plant proteins, insects, and single-cell organisms. Better genetics reduce disease susceptibility. Integrated multi-trophic aquaculture (IMTA) combines species — for example, growing seaweed and shellfish near fish cages to absorb waste nutrients.
+The industry is improving. Certification programs like the Aquaculture Stewardship Council (ASC) set environmental and social standards. Feed formulations increasingly replace fish meal with plant proteins, insects, and single-cell organisms. Better [genetics](/genetics) reduce disease susceptibility. Integrated multi-trophic aquaculture (IMTA) combines species — for example, growing seaweed and shellfish near fish cages to absorb waste nutrients.
 
 ## The Feed Challenge
 
@@ -164,7 +164,7 @@ Emerging feed ingredients include:
 - **Insect meal** from black soldier fly larvae, which can be raised on food waste
 - **Single-cell proteins** from bacteria, yeast, or microalgae
 - **Algal oil** as a replacement for fish oil
-- **Fermentation-derived proteins** using industrial bioprocessing
+- **[Fermentation](/fermentation)-derived proteins** using industrial bioprocessing
 
 If these alternatives scale up, they could break aquaculture's remaining dependence on wild fish — which would be a genuine game-changer for sustainability.
 
@@ -176,17 +176,17 @@ The World Health Organization recommends eating fish at least twice per week. Wi
 
 Concerns about farmed fish quality are mostly overstated but not entirely baseless. Farmed salmon has higher fat content than wild salmon (because farmed fish get steady meals and less exercise), which means both more omega-3s and more total calories. Contaminant levels (PCBs, dioxins, mercury) vary by source but are generally well below safety thresholds in countries with functioning regulatory systems.
 
-Antibiotic use in aquaculture is a legitimate public health concern — it contributes to antimicrobial resistance. However, many countries have significantly tightened regulations. Norway, the world's second-largest salmon producer, reduced antibiotic use in aquaculture by 99% between 1987 and 2020 through vaccines, better management, and stricter rules.
+Antibiotic use in aquaculture is a legitimate [public health](/public-health) concern — it contributes to antimicrobial resistance. However, many countries have significantly tightened regulations. Norway, the world's second-largest salmon producer, reduced antibiotic use in aquaculture by 99% between 1987 and 2020 through vaccines, better management, and stricter rules.
 
 ## The Future of Fish Farming
 
 Several trends are reshaping the industry.
 
-**Offshore aquaculture** is moving farms further from shore, into deeper, more exposed waters. Norway's SalMar installed the world's first offshore fish farm — Ocean Farm 1 — in 2017. It holds up to 1.5 million fish in a 68-meter-diameter structure designed to withstand open-ocean conditions. Deeper water means better waste dispersal, fewer disease problems, and less conflict with coastal users. But the engineering challenges and costs are significant.
+**Offshore aquaculture** is moving farms further from shore, into deeper, more exposed waters. Norway's SalMar installed the world's first offshore fish farm — Ocean Farm 1 — in 2017. It holds up to 1.5 million fish in a 68-meter-diameter structure designed to withstand open-ocean conditions. Deeper water means better waste dispersal, fewer disease problems, and less conflict with coastal users. But the [engineering](/engineering) challenges and costs are significant.
 
 **Land-based RAS** continues to attract investment. Companies in the US, Norway, Japan, and elsewhere are building massive indoor salmon farms close to consumer markets. If successful, this could reduce transportation emissions and give producers complete environmental control. Capital costs exceeding $500 million per facility, though, mean the financial risk is substantial.
 
-**Genetic improvement** through selective breeding (and potentially gene editing) is accelerating growth rates, disease resistance, and feed efficiency. AquaBounty's AquAdvantage salmon, genetically modified to grow twice as fast as conventional Atlantic salmon, received FDA approval in 2015 and began commercial sales in 2021.
+**Genetic improvement** through selective breeding (and potentially gene [editing](/editing)) is accelerating growth rates, disease resistance, and feed efficiency. AquaBounty's AquAdvantage salmon, genetically modified to grow twice as fast as conventional Atlantic salmon, received FDA approval in 2015 and began commercial sales in 2021.
 
 **Integrated multi-trophic aquaculture (IMTA)** mimics natural ecosystems by farming multiple species together. Waste from fish feeds seaweed and shellfish, which filter the water. The concept is ecologically elegant and is gaining traction in Canada, China, and Northern Europe.
 

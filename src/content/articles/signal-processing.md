@@ -5,7 +5,7 @@ description: "Signal processing is the field of engineering and mathematics that
 category: technology
 tags: ["signal processing", "electronics", "digital signals", "analog signals", "filtering", "fourier transform", "dsp"]
 heroImage: "/images/articles/signal-processing-hero.webp"
-heroAlt: "Oscilloscope display showing waveform analysis with frequency spectrum visualization"
+heroAlt: "Editorial photograph representing the concept of signal processing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -105,7 +105,7 @@ Active analog filters — the Sallen-Key, multiple feedback, and state-variable 
 
 The phase-locked loop (PLL) — a circuit that locks onto and tracks a frequency in a noisy signal — is one of analog processing's cleverest inventions. PLLs are used in radio receivers to tune in stations, in communication systems to synchronize clocks, and in frequency synthesizers to generate precise frequencies from a single reference oscillator. Your phone's cellular modem uses PLLs. So does GPS. So does every digital clock that keeps accurate time.
 
-## Digital Signal Processing
+## [Digital Signal Processing](/digital-signal-processing)
 
 The transition from analog to digital signal processing — starting in the 1960s and accelerating through the 1980s — transformed the field. Digital processing offers advantages that analog can't match: perfect reproducibility, arbitrary precision, easy reconfiguration, and the ability to implement algorithms that have no analog equivalent.
 
@@ -157,7 +157,7 @@ Signal processing is invisible precisely because it works so well. Here's where 
 
 **Video compression** (H.264, H.265/HEVC, AV1) adds temporal processing — exploiting the fact that most of a video frame is similar to the previous frame. Motion estimation algorithms find how blocks of pixels have moved between frames, and only the differences are encoded. Without video compression, streaming a 4K video would require about 12 Gbps of bandwidth — roughly 1,000 times more than the compressed stream actually uses.
 
-**Medical imaging** — CT scans, MRI, and ultrasound — relies on signal processing at every step. CT reconstruction uses the inverse Radon transform (a cousin of the Fourier transform) to create cross-sectional images from X-ray projections. MRI reconstruction uses the inverse 2D Fourier transform to convert spatial frequency data into anatomical images. Ultrasound uses beamforming — processing signals from multiple transducer elements to focus the sound beam and form images.
+**[Medical imaging](/medical-imaging)** — CT scans, MRI, and ultrasound — relies on signal processing at every step. CT reconstruction uses the inverse Radon transform (a cousin of the Fourier transform) to create cross-sectional images from X-ray projections. MRI reconstruction uses the inverse 2D Fourier transform to convert spatial frequency data into anatomical images. Ultrasound uses beamforming — processing signals from multiple transducer elements to focus the sound beam and form images.
 
 ### Communications
 
@@ -183,15 +183,15 @@ Some of the most powerful signal processing techniques adapt their behavior base
 
 **Adaptive filters** adjust their coefficients in real time to minimize an error signal. The Least Mean Squares (LMS) algorithm, developed by Bernard Widrow and Ted Hoff in 1960, is the most widely used adaptive algorithm — running in billions of devices for echo cancellation, noise cancellation, and channel equalization.
 
-**Kalman filtering** combines noisy measurements with a mathematical model of the system being measured to produce optimal estimates of the system's state. GPS receivers use Kalman filters to combine satellite signals with motion models, smoothing out measurement noise and providing accurate position estimates even when some satellites are temporarily obscured. Aircraft autopilots, spacecraft navigation, and financial modeling all use Kalman filtering.
+**Kalman filtering** combines noisy measurements with a mathematical model of the system being measured to produce optimal estimates of the system's state. GPS receivers use Kalman filters to combine satellite signals with motion models, smoothing out measurement noise and providing accurate position estimates even when some satellites are temporarily obscured. Aircraft autopilots, spacecraft navigation, and [financial modeling](/financial-modeling) all use Kalman filtering.
 
 **Spectral estimation** determines the frequency content of a signal from finite, noisy observations. Methods range from simple periodograms (just compute the FFT and look at the magnitude) to sophisticated parametric models (AR, ARMA) and modern techniques like the MUSIC algorithm that can resolve closely-spaced frequencies with remarkable precision.
 
 ## The Intersection with Machine Learning
 
-Signal processing and [machine learning](/machine-learning) have converged dramatically in the past decade. Deep neural networks now perform tasks — speech recognition, image classification, natural language processing — that were previously done with hand-designed signal processing algorithms.
+Signal processing and [machine learning](/machine-learning) have converged dramatically in the past decade. Deep neural networks now perform tasks — speech recognition, image classification, [natural language processing](/natural-language-processing) — that were previously done with hand-designed signal processing algorithms.
 
-But the relationship is symbiotic, not adversarial. Signal processing provides the preprocessing (filtering, normalization, feature extraction) that makes raw data usable by ML models. ML provides pattern recognition capabilities that exceed what classical signal processing can achieve for complex, nonlinear problems.
+But the relationship is symbiotic, not adversarial. Signal processing provides the preprocessing (filtering, normalization, feature extraction) that makes raw data usable by ML models. ML provides [pattern recognition](/pattern-recognition) capabilities that exceed what classical signal processing can achieve for complex, nonlinear problems.
 
 Modern systems often combine both: a signal processing front end (filtering, FFT, feature extraction) feeds a machine learning back end (neural network, support vector machine, random forest). The signal processing cleans and structures the data; the ML interprets it.
 
@@ -199,7 +199,7 @@ The engineers who understand both disciplines — who can design a filter and tr
 
 ## Why Signal Processing Matters
 
-Signal processing is the invisible infrastructure of modern technology. Without it, there's no wireless communication, no digital music, no medical imaging, no radar, no digital photography, no voice assistants, no video streaming. The theory was developed by mathematicians and engineers over the past two centuries, and it works so well that most people never think about it.
+Signal processing is the invisible infrastructure of modern technology. Without it, there's no wireless communication, no digital music, no medical imaging, no radar, no [digital photography](/digital-photography), no voice assistants, no video streaming. The theory was developed by mathematicians and engineers over the past two centuries, and it works so well that most people never think about it.
 
 The field continues to evolve. Compressed sensing promises to reconstruct signals from far fewer measurements than traditional sampling theory requires. Quantum signal processing explores how quantum computation might accelerate signal processing algorithms. Graph signal processing extends classical techniques to signals defined on networks and irregular structures.
 

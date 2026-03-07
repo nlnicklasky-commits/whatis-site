@@ -5,7 +5,7 @@ description: "Urban development is the process of building, expanding, and impro
 category: technology
 tags: ["urban development", "city planning", "infrastructure", "housing", "real estate"]
 heroImage: "/images/articles/urban-development.webp"
-heroAlt: "City skyline showing construction cranes and a mix of completed and under-construction buildings along a waterfront"
+heroAlt: "Editorial photograph representing the concept of urban development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The simple answer: because people move to where the opportunities are. In 1950, 
 
 This migration isn't random. Cities offer higher wages, more diverse employment, better access to education and healthcare, and social networks that are hard to replicate in rural areas. Economists call these benefits "agglomeration effects" — the idea that concentrating people and businesses in close proximity makes everyone more productive. A programmer in San Francisco has access to more potential employers, collaborators, and mentors than a programmer in rural Nebraska. A restaurant in Manhattan can draw from a customer base of millions. This economic gravity pulls people toward cities, and urban development is the physical response to that pull.
 
-But growth creates problems. More people need more housing, more water, more electricity, more roads, more schools. When urban development fails to keep up with population growth — a common situation in the developing world — you get informal settlements, overcrowding, inadequate sanitation, and the kind of grinding poverty that urbanization was supposed to escape.
+But growth creates problems. More people need more housing, more water, more [electricity](/electricity), more roads, more schools. When urban development fails to keep up with population growth — a common situation in the developing world — you get informal settlements, overcrowding, inadequate sanitation, and the kind of grinding poverty that urbanization was supposed to escape.
 
 ## The Building Blocks of Urban Development
 
@@ -51,9 +51,9 @@ But growth creates problems. More people need more housing, more water, more ele
 
 Housing is the largest land use in most cities and the development type that affects the most people. The central challenge is straightforward to state and incredibly difficult to solve: build enough housing, of sufficient quality, at prices people can actually afford.
 
-**Market-rate housing** is developed by private firms seeking profit. In strong market cities (New York, San Francisco, London, Sydney), private developers can profitably build luxury apartments and condominiums. The harder question is whether this new construction helps affordability overall. The "filtering" theory says yes — new housing at any price point frees up older units that become available to lower-income households. Evidence for filtering is mixed. It works over long time horizons (decades), but in the short term, new luxury development can accelerate neighborhood price increases.
+**Market-rate housing** is developed by private firms seeking profit. In strong market cities (New York, San Francisco, London, Sydney), private developers can profitably build luxury apartments and condominiums. The harder question is whether this new [construction](/construction) helps affordability overall. The "filtering" theory says yes — new housing at any price point frees up older units that become available to lower-income households. Evidence for filtering is mixed. It works over long time horizons (decades), but in the short term, new luxury development can accelerate neighborhood price increases.
 
-**Affordable housing** — subsidized units available below market rates — requires government intervention because private markets don't naturally produce housing for people who can't afford market prices. In the U.S., the primary federal tool is the Low-Income Housing Tax Credit (LIHTC), which has financed about 3.6 million affordable units since 1986. Local tools include inclusionary zoning (requiring developers to include affordable units in market-rate projects), public housing, and housing vouchers.
+**Affordable housing** — subsidized units available below market rates — requires [government](/government) intervention because private markets don't naturally produce housing for people who can't afford market prices. In the U.S., the primary federal tool is the Low-Income Housing Tax Credit (LIHTC), which has financed about 3.6 million affordable units since 1986. Local tools include inclusionary zoning (requiring developers to include affordable units in market-rate projects), public housing, and housing vouchers.
 
 **The housing shortage is real and measurable.** A 2023 analysis by Freddie Mac estimated the U.S. housing deficit at about 3.8 million units. California alone needs an estimated 2.5 million new homes by 2030. The gap between housing production and demand explains much of the affordability crisis in high-cost cities — too many people competing for too few units pushes prices up.
 
@@ -69,15 +69,15 @@ How people move through a city shapes everything about it. Transportation invest
 
 ### Utilities and Services
 
-The invisible infrastructure — water supply, sewerage, stormwater management, electricity, natural gas, telecommunications — is less glamorous than buildings and transit but equally essential.
+The invisible infrastructure — water supply, sewerage, stormwater [management](/management), electricity, natural gas, telecommunications — is less glamorous than buildings and transit but equally essential.
 
-Many American cities have aging utility infrastructure that needs replacement. The American Society of [Civil Engineers](/civil-engineering) gives U.S. infrastructure a C- grade overall. Water main breaks cause an estimated 6 billion gallons of treated water loss per day. Sewer overflows discharge untreated wastewater during storms. Fixing these systems costs billions, but the cost of not fixing them is higher — the EPA estimates that the U.S. needs about $625 billion in water infrastructure investment over the next 20 years.
+Many American cities have aging utility infrastructure that needs replacement. The American Society of [Civil Engineers](/civil-[engineering](/engineering)) gives U.S. infrastructure a C- grade overall. Water main breaks cause an estimated 6 billion gallons of treated water loss per day. Sewer overflows discharge untreated wastewater during storms. Fixing these systems costs billions, but the cost of not fixing them is higher — the EPA estimates that the U.S. needs about $625 billion in water infrastructure investment over the next 20 years.
 
 ## How Urban Development Happens
 
 ### The Development Process
 
-A typical real estate development project follows a rough sequence:
+A typical [real estate development](/real-estate-development) project follows a rough sequence:
 
 1. **Site acquisition** — finding and purchasing land (or securing a long-term lease)
 2. **Feasibility analysis** — estimating construction costs, projected revenues, and financing terms to determine if the project makes financial sense
@@ -125,11 +125,11 @@ While developed-country cities face challenges of renewal and retrofitting, many
 
 Lagos, Nigeria, grows by an estimated 3,000 people per day. Dhaka, Bangladesh, has a population density of roughly 36,000 people per square kilometer — about 25 times denser than Los Angeles. Jakarta, Kinshasa, Mumbai — all adding millions of residents against a backdrop of limited government capacity and financing.
 
-The results are often informal settlements — sometimes called slums or favelas — where residents build their own housing without formal land tenure, planning approval, or utility connections. About 1 billion people worldwide live in informal settlements. These neighborhoods are often dismissed as failures, but they also demonstrate remarkable self-organization and entrepreneurship. The question is whether governments can work with informal development rather than against it — providing services, securing land tenure, and upgrading incrementally rather than bulldozing and displacing.
+The results are often informal settlements — sometimes called slums or favelas — where residents build their own housing without formal land tenure, planning approval, or utility connections. About 1 billion people worldwide live in informal settlements. These neighborhoods are often dismissed as failures, but they also demonstrate remarkable self-organization and [entrepreneurship](/entrepreneurship). The question is whether governments can work with informal development rather than against it — providing services, securing land tenure, and upgrading incrementally rather than bulldozing and displacing.
 
 ## Smart Cities and Technology
 
-The "smart city" concept — using sensors, data, and digital technology to improve urban management — has attracted enormous investment and attention. Applications include real-time traffic management, predictive maintenance of infrastructure, energy grid optimization, and digital government services.
+The "smart city" concept — using sensors, data, and digital technology to improve urban management — has attracted enormous investment and attention. Applications include real-time traffic management, predictive maintenance of infrastructure, energy grid [optimization](/optimization), and digital government services.
 
 The reality is more modest than the marketing. Many "smart city" projects have underdelivered, particularly when technology companies drive the agenda rather than responding to actual community needs. Sidewalk Labs' planned smart neighborhood on Toronto's waterfront was cancelled in 2020 after community opposition over data privacy and governance concerns.
 

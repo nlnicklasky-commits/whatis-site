@@ -5,7 +5,7 @@ description: "Physics is the science of matter, energy, and the fundamental forc
 category: science
 tags: ["science", "universe", "matter", "energy", "forces", "quantum mechanics", "relativity"]
 heroImage: "/images/articles/physics-hero.webp"
-heroAlt: "Abstract visualization of atomic particles and energy waves representing the fundamental nature of physics"
+heroAlt: "Editorial photograph representing the concept of physics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

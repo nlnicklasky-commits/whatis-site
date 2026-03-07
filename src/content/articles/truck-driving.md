@@ -5,7 +5,7 @@ description: "Truck driving is the profession of operating large commercial vehi
 category: everyday-concepts
 tags: ["truck driving", "transportation", "logistics", "CDL", "careers", "freight"]
 heroImage: "/images/articles/truck-driving.webp"
-heroAlt: "A semi-truck driving on an open highway through rolling green countryside"
+heroAlt: "Editorial photograph representing the concept of truck driving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -88,15 +88,15 @@ The sleeper cab — a small living space behind the driver's seat — is your ho
 
 ### The Physical Toll
 
-Studies consistently show truck drivers have higher rates of obesity, diabetes, heart disease, sleep apnea, and musculoskeletal problems compared to the general population. The combination of prolonged sitting, irregular sleep, limited exercise opportunities, and poor dietary options creates serious [health](/exercise-physiology) risks. The DOT physical every two years catches some conditions, but prevention is difficult given the lifestyle constraints.
+Studies consistently show truck drivers have higher rates of obesity, diabetes, heart disease, sleep apnea, and musculoskeletal problems compared to the general population. The combination of prolonged sitting, irregular sleep, limited exercise opportunities, and poor dietary options creates serious [health](/exercise-[physiology](/physiology)) risks. The DOT physical every two years catches some conditions, but prevention is difficult given the lifestyle constraints.
 
 ## The Business Side
 
 ### Company Drivers vs. Owner-Operators
 
-**Company drivers** work for a trucking company that provides the truck, insurance, fuel, and maintenance. You show up and drive. The company handles the business side. Pay is predictable but lower.
+**Company drivers** work for a trucking company that provides the truck, [insurance](/insurance), fuel, and maintenance. You show up and drive. The company handles the business side. Pay is predictable but lower.
 
-**Owner-operators** own or lease their truck and either run their own authority (finding their own freight) or contract with carriers. Gross income is higher, but expenses are enormous — fuel, insurance, maintenance, tires, permits, and truck payments easily consume 60-75% of revenue. A successful owner-operator is running a small business, not just driving a truck.
+**Owner-operators** own or lease their truck and either run their own authority (finding their own freight) or contract with carriers. Gross income is higher, but expenses are enormous — fuel, insurance, maintenance, tires, permits, and truck payments easily consume 60-75% of revenue. A successful owner-operator is [running](/running) a small business, not just driving a truck.
 
 ### The Driver Shortage
 

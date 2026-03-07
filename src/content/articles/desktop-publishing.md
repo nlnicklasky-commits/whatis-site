@@ -5,7 +5,7 @@ description: "Desktop publishing (DTP) uses software to create print and digital
 category: technology
 tags: ["desktop publishing", "graphic design", "typography", "layout", "print", "publishing", "dtp"]
 heroImage: "/images/articles/desktop-publishing-hero.webp"
-heroAlt: "Computer screen showing a professional page layout with text columns, images, and typography controls"
+heroAlt: "Editorial photograph representing the concept of desktop publishing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -33,9 +33,9 @@ faq:
     a: "Absolutely. Many successful desktop publishers are self-taught. Start with free tools like Scribus or Canva, learn basic typography rules (font pairing, hierarchy, white space), and practice by recreating layouts you admire. Online courses on platforms like Skillshare and Coursera cover DTP fundamentals thoroughly. The key is practice and developing your eye for good layout."
 ---
 
-# What Is Desktop Publishing?
+# What Is Desktop [Publishing](/publishing)?
 
-Desktop publishing (DTP) is the use of personal computers and specialized software to create page layouts that combine text, images, and graphics for both print and digital distribution. It gives individuals and small teams the ability to produce professional-quality documents—books, magazines, brochures, posters, and more—without the expensive typesetting equipment and specialized labor that publishing once required.
+Desktop publishing (DTP) is the use of personal computers and specialized software to create page layouts that combine text, images, and graphics for both print and digital distribution. It gives individuals and small teams the ability to produce professional-quality documents—books, magazines, brochures, posters, and more—without the expensive [typesetting](/typesetting) equipment and specialized labor that publishing once required.
 
 ## The Revolution That Changed Everything
 
@@ -91,7 +91,7 @@ Alignment—left, right, centered, justified—affects both readability and visu
 
 ### Professional Tools
 
-**Adobe InDesign** dominates professional desktop publishing and has since it replaced QuarkXPress as the industry standard around 2002. It handles multi-page documents, sophisticated typography, color management, and output for both print and digital. If you're producing books, magazines, or corporate publications professionally, InDesign is almost certainly what you'll use.
+**Adobe InDesign** dominates professional desktop publishing and has since it replaced QuarkXPress as the industry standard around 2002. It handles multi-page documents, sophisticated typography, color [management](/management), and output for both print and digital. If you're producing books, magazines, or corporate publications professionally, InDesign is almost certainly what you'll use.
 
 **Affinity Publisher** emerged as a serious challenger—one-time purchase instead of Adobe's subscription model, with professional-grade features. It's gained significant traction among independent publishers and designers who refuse to pay monthly Adobe fees.
 
@@ -117,7 +117,7 @@ Print demands precision that digital doesn't. You need to understand bleed (exte
 
 **Prepress** is the process of preparing files for the printing press. This includes converting to CMYK, embedding fonts, flattening transparency, creating printer spreads (arranging pages for folding), and generating press-quality PDFs. Getting prepress wrong means expensive reprints—so DTP professionals take this seriously.
 
-Different printing methods have different requirements. Offset lithography (for large runs) needs plate-ready files. Digital printing (for short runs) is more forgiving. Large-format printing (banners, signage) has its own resolution and file size requirements.
+Different printing methods have different requirements. Offset [lithography](/lithography) (for large runs) needs plate-ready files. Digital printing (for short runs) is more forgiving. Large-format printing (banners, signage) has its own resolution and file size requirements.
 
 ### Digital Publishing
 
@@ -153,9 +153,9 @@ Items that belong together should be visually close together. A caption should b
 
 ### Books
 
-Book interior design follows conventions that have evolved over centuries. Front matter (title page, copyright, table of contents), body text with consistent chapter openings, and back matter (index, bibliography, colophon). Typography for long-form reading prioritizes comfort—serif fonts around 10-12 points, generous leading, ample margins, proper hyphenation.
+Book [interior design](/interior-design) follows conventions that have evolved over centuries. Front matter (title page, copyright, table of contents), body text with consistent chapter openings, and back matter (index, bibliography, colophon). Typography for long-form reading prioritizes comfort—serif fonts around 10-12 points, generous leading, ample margins, proper hyphenation.
 
-Book cover design is a separate discipline entirely, combining illustration or photography with typography to create something that works as a thumbnail online and a physical object in a bookstore.
+Book cover design is a separate discipline entirely, combining [illustration](/illustration) or photography with typography to create something that works as a thumbnail online and a physical object in a bookstore.
 
 ### Magazines and Newspapers
 
@@ -175,13 +175,13 @@ Annual reports, proposals, training manuals, product catalogs—these are less g
 
 DTP skills are marketable in several ways. Freelance designers handle projects for multiple clients. In-house designers work within organizations producing internal and external materials. Print shop operators combine DTP with production management. Self-publishers use DTP to bring their own books to market.
 
-The rise of self-publishing, in particular, has made DTP knowledge valuable for authors. Services like Amazon KDP require press-ready PDF interiors. Authors who can produce their own layouts save thousands in design fees per book. The learning curve is real, but it's a one-time investment that pays off across multiple titles.
+The rise of [self-publishing](/self-publishing), in particular, has made DTP knowledge valuable for authors. Services like Amazon KDP require press-ready PDF interiors. Authors who can produce their own layouts save thousands in design fees per book. The learning curve is real, but it's a one-time investment that pays off across multiple titles.
 
 ## Where DTP Meets Web Design
 
 Desktop publishing and web design share DNA—both arrange text and images to communicate effectively—but they diverge in important ways. Print is fixed; web is fluid. Print controls exact appearance; web negotiates with browsers, screen sizes, and user preferences. Print uses points and picas; web uses pixels, ems, and percentages.
 
-Still, DTP principles transfer directly to web work. Typography hierarchy, grid systems, white space management, and color theory apply in both domains. Many web designers started in print and brought those fundamentals with them. Understanding [aesthetics](/aesthetics) and visual design principles serves you regardless of the output medium.
+Still, DTP principles transfer directly to web work. Typography hierarchy, grid systems, white space management, and [color theory](/color-theory) apply in both domains. Many web designers started in print and brought those fundamentals with them. Understanding [aesthetics](/aesthetics) and visual design principles serves you regardless of the output medium.
 
 ## The Future of Desktop Publishing
 

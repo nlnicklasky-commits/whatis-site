@@ -5,7 +5,7 @@ description: "Portuguese history spans from ancient Lusitania to a global mariti
 category: history
 tags: ["portuguese history", "portugal", "age of discovery", "european history"]
 heroImage: "/images/articles/portuguese-history.webp"
-heroAlt: "The Tower of Belem on the Tagus River in Lisbon, a symbol of Portugal's maritime era"
+heroAlt: "Editorial photograph representing the concept of portuguese history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ The land that became Portugal was inhabited long before anyone called it that. C
 
 The Lusitanians deserve special mention. They resisted Roman conquest fiercely under their leader Viriathus, who waged guerrilla warfare against Roman legions from roughly 147 to 139 BCE. The Romans eventually subdued them — partly through military force, partly through assassinating Viriathus — and incorporated the territory into the province of Lusitania. The name stuck, and modern Portuguese still sometimes call themselves *Lusitanos*.
 
-Roman rule lasted roughly five centuries and left deep marks: roads, bridges, Latin (which evolved into Portuguese), legal traditions, and Christianity. The Temple of Diana in Evora, dating to the 1st century CE, still stands as a reminder.
+Roman rule lasted roughly five centuries and left deep marks: roads, bridges, Latin (which evolved into Portuguese), legal traditions, and [Christianity](/christianity). The Temple of Diana in Evora, dating to the 1st century CE, still stands as a reminder.
 
 ## The Medieval Kingdom Takes Shape
 
@@ -51,7 +51,7 @@ Roman rule lasted roughly five centuries and left deep marks: roads, bridges, La
 
 After Rome fell, the Iberian Peninsula saw Visigothic rule followed by Muslim conquest. In 711 CE, Umayyad forces crossed from North Africa and swept through most of Iberia within a few years. Muslim rule in what is now Portugal lasted roughly 500 years in the south (the Algarve wasn't fully reconquered until 1249).
 
-The Muslim period wasn't simply an occupation. It brought architectural advances (still visible in southern Portugal), agricultural innovations (irrigation systems, new crops like citrus and rice), and intellectual contributions in mathematics, medicine, and philosophy. Place names across Portugal preserve Arabic origins — *Algarve* comes from the Arabic *al-Gharb*, meaning "the west."
+The Muslim period wasn't simply an occupation. It brought architectural advances (still visible in southern Portugal), agricultural innovations ([irrigation](/irrigation) systems, new crops like citrus and rice), and intellectual contributions in [mathematics](/mathematics), medicine, and philosophy. Place names across Portugal preserve Arabic origins — *Algarve* comes from the Arabic *al-Gharb*, meaning "the west."
 
 The Christian reconquest moved gradually southward over centuries. The critical moment for Portuguese independence came through an unlikely figure: Henry of Burgundy, a French nobleman who received the County of Portugal as a reward for helping in the Reconquista. His son, Afonso Henriques, took things further — declaring himself King of Portugal in 1139 after a victory against the Moors at the Battle of Ourique.
 
@@ -61,7 +61,7 @@ By 1249, Portugal had completed its reconquest of the Algarve, making it the fir
 
 The 1385 Battle of Aljubarrota secured Portuguese independence from Castilian claims. King Joao I, founder of the Avis dynasty, won a decisive victory against a much larger Castilian force, aided by English longbowmen supplied through the Treaty of Windsor (1386) — the oldest active alliance between two nations in the world.
 
-This period also saw the development of Portuguese identity through language, literature, and institutions. The University of Coimbra, founded in 1290, became one of Europe's great centers of learning.
+This period also saw the development of Portuguese identity through language, [literature](/literature), and institutions. The University of Coimbra, founded in 1290, became one of Europe's great centers of learning.
 
 ## The Age of Discovery
 
@@ -99,7 +99,7 @@ Portugal regained independence in 1640 through the Restoration War, crowning the
 
 ### The Brazilian Gold Rush
 
-In the late 1600s and 1700s, massive gold and diamond deposits were discovered in Brazil's Minas Gerais region. The resulting wealth funded some of Portugal's most spectacular architecture — the Mafra Palace, the Clerigos Tower in Porto, and the gold-encrusted churches that still dazzle visitors.
+In the late 1600s and 1700s, massive gold and diamond deposits were discovered in Brazil's Minas Gerais region. The resulting wealth funded some of Portugal's most spectacular [architecture](/architecture) — the Mafra Palace, the Clerigos Tower in Porto, and the gold-encrusted churches that still dazzle visitors.
 
 But the wealth was poorly invested. Instead of building domestic industry, Portugal imported manufactured goods from Britain and exported raw materials. The 1703 Methuen Treaty, which gave British textiles preferential access to Portugal in exchange for preferential treatment of Portuguese wine in Britain, reinforced this pattern of dependence.
 
@@ -107,7 +107,7 @@ But the wealth was poorly invested. Instead of building domestic industry, Portu
 
 On November 1, 1755, a massive earthquake — estimated at magnitude 8.5-9.0 — struck Lisbon, followed by a tsunami and widespread fires. An estimated 30,000-50,000 people died. The disaster destroyed about 85% of Lisbon's buildings, including irreplaceable libraries, archives, and royal palaces.
 
-The reconstruction, led by the Marquis of Pombal, was remarkable. Pombal rebuilt central Lisbon on a rational grid plan with earthquake-resistant construction techniques — one of the first examples of urban planning driven by disaster engineering. The earthquake also prompted philosophical debates across Europe about divine providence and the nature of evil, famously satirized in Voltaire's *Candide*.
+The reconstruction, led by the Marquis of Pombal, was remarkable. Pombal rebuilt central Lisbon on a rational grid plan with earthquake-resistant [construction](/construction) techniques — one of the first examples of [urban planning](/urban-planning) driven by disaster [engineering](/engineering). The earthquake also prompted philosophical debates across Europe about divine providence and the nature of evil, famously satirized in Voltaire's *Candide*.
 
 ## The Modern Era
 
@@ -117,13 +117,13 @@ The 19th century brought turmoil: Napoleonic invasions (1807-1811), the transfer
 
 ### The Estado Novo (1933-1974)
 
-Antonio de Oliveira Salazar, an economics professor turned dictator, created the Estado Novo — a corporatist authoritarian state that lasted 41 years. Salazar maintained neutrality during World War II (while quietly selling tungsten to both sides), suppressed political opposition through secret police (PIDE), and clung to colonial possessions in Africa long after other European powers had decolonized.
+Antonio de Oliveira Salazar, an economics professor turned dictator, created the Estado Novo — a corporatist authoritarian state that lasted 41 years. Salazar maintained neutrality during [World War II](/world-war-ii) (while quietly selling tungsten to both sides), suppressed political opposition through secret police (PIDE), and clung to colonial possessions in Africa long after other European powers had decolonized.
 
 Colonial wars in Angola (from 1961), Guinea-Bissau (from 1963), and Mozambique (from 1964) drained Portugal's resources and eroded military loyalty to the regime. By the early 1970s, Portugal was spending nearly half its national budget on colonial warfare.
 
 ### The Carnation Revolution and Democracy
 
-On April 25, 1974, a group of young military officers — the Armed Forces Movement (MFA) — overthrew the regime in a nearly bloodless coup. The signal to begin was the broadcasting of the song "Grandola, Vila Morena" on Lisbon radio. Civilians flooded the streets, placing red carnations in soldiers' rifle barrels. Almost no shots were fired.
+On April 25, 1974, a group of young military officers — the Armed Forces Movement (MFA) — overthrew the regime in a nearly bloodless coup. The signal to begin was the [broadcasting](/broadcasting) of the song "Grandola, Vila Morena" on Lisbon radio. Civilians flooded the streets, placing red carnations in soldiers' rifle barrels. Almost no shots were fired.
 
 The revolution brought democracy, decolonization, and eventually European integration. Portugal joined the European Economic Community in 1986, and EU membership brought infrastructure investment, economic modernization, and a new orientation toward Europe rather than the former empire.
 

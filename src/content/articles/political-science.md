@@ -5,7 +5,7 @@ description: "Political science studies how governments, power structures, and p
 category: everyday-concepts
 tags: ["politics", "government", "power", "public policy", "international relations", "political theory"]
 heroImage: "/images/articles/political-science.webp"
-heroAlt: "Capitol building with books and charts representing political analysis"
+heroAlt: "Editorial photograph representing the concept of political science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Political Science?
 
-Political science is the systematic study of politics, government, power, and public policy. It examines how societies make collective decisions, how governments are structured and why they function the way they do, how leaders gain and exercise power, and how citizens relate to the state. If politics is the game, political science is the attempt to understand the rules — including the unwritten ones.
+Political science is the systematic study of politics, government, power, and [public policy](/public-policy). It examines how societies make collective decisions, how governments are structured and why they function the way they do, how leaders gain and exercise power, and how citizens relate to the state. If politics is the game, political science is the attempt to understand the rules — including the unwritten ones.
 
 ## What Political Scientists Actually Study
 
@@ -39,13 +39,13 @@ The field breaks into several major subfields, each looking at politics from a d
 
 **American politics** (or whatever your home country is) focuses on domestic political institutions, elections, parties, public opinion, and policy. This is where you find scholars studying why Congress can't pass legislation, how gerrymandering affects elections, or why voter turnout is lower in the U.S. than in most other democracies (spoiler: it's partly institutional, partly cultural, partly because we hold elections on Tuesdays).
 
-**Comparative politics** examines political systems across countries. Why are some countries democratic and others authoritarian? Why do some democracies use proportional representation while others use winner-take-all? How do different welfare state models affect inequality? Comparing systems reveals patterns you'd never notice looking at just one country.
+**[Comparative politics](/comparative-politics)** examines political systems across countries. Why are some countries democratic and others authoritarian? Why do some democracies use proportional representation while others use winner-take-all? How do different welfare state models affect inequality? Comparing systems reveals patterns you'd never notice looking at just one country.
 
-**International relations** studies how countries interact — alliances, conflicts, trade, diplomacy, international organizations. The big questions: Why do wars happen? How do international institutions like the UN actually work (or fail to)? What drives countries to cooperate or compete? Major theoretical frameworks include realism (states pursue power), liberalism (institutions and trade promote peace), and constructivism (ideas and norms shape state behavior).
+**[International relations](/international-relations)** studies how countries interact — alliances, conflicts, trade, diplomacy, international organizations. The big questions: Why do wars happen? How do international institutions like the UN actually work (or fail to)? What drives countries to cooperate or compete? Major theoretical frameworks include realism (states pursue power), liberalism (institutions and trade promote peace), and constructivism (ideas and norms shape state behavior).
 
-**Political theory** (or political philosophy) grapples with fundamental questions about justice, rights, freedom, equality, and obligation. What makes a government legitimate? When is civil disobedience justified? What do we owe each other as members of a society? This subfield stretches from Plato and Aristotle through Locke, Rousseau, and Marx to contemporary thinkers like John Rawls and Amartya Sen.
+**Political theory** (or [political philosophy](/political-philosophy)) grapples with fundamental questions about justice, rights, freedom, equality, and obligation. What makes a government legitimate? When is civil disobedience justified? What do we owe each other as members of a society? This subfield stretches from Plato and Aristotle through Locke, Rousseau, and Marx to contemporary thinkers like John Rawls and Amartya Sen.
 
-**Public policy** and **public administration** examine how governments create and implement policies. How do you design a healthcare system? What makes environmental regulation effective or ineffective? How do bureaucracies actually function? This is political science's most practical subfield — it directly informs how governments operate.
+**Public policy** and **[public administration](/public-administration)** examine how governments create and implement policies. How do you design a healthcare system? What makes environmental regulation effective or ineffective? How do bureaucracies actually function? This is political science's most practical subfield — it directly informs how governments operate.
 
 ## The Methods
 
@@ -53,17 +53,17 @@ Political science uses a mix of approaches:
 
 **Quantitative methods** — statistical analysis of data. Voting records, survey results, economic indicators, conflict datasets. If you want to know whether economic conditions predict election outcomes, you run regression analyses on decades of data. The answer, by the way, is yes — but less reliably than most pundits assume.
 
-**Qualitative methods** — case studies, interviews, historical analysis, textual interpretation. If you want to understand *why* a particular revolution happened, you dig into the specific history, interview participants, and analyze documents. Numbers can tell you *what* happened; qualitative research helps explain *why*.
+**Qualitative methods** — case studies, interviews, historical analysis, textual interpretation. If you want to understand *why* a particular revolution happened, you dig into the specific history, interview participants, and analyze documents. Numbers can tell you *what* happened; [qualitative research](/qualitative-research) helps explain *why*.
 
-**Formal theory** — mathematical models of strategic interaction, often using game theory. If two countries are negotiating a trade deal, formal models can predict outcomes based on each side's incentives, information, and alternatives. These models simplify reality dramatically, but the simplification can reveal dynamics that narrative descriptions miss.
+**Formal theory** — mathematical models of strategic interaction, often using [game theory](/game-theory). If two countries are negotiating a trade deal, formal models can predict outcomes based on each side's incentives, information, and alternatives. These models simplify reality dramatically, but the simplification can reveal dynamics that narrative descriptions miss.
 
 **Experimental methods** — increasingly, political scientists run experiments, both in labs and in the field. Randomized controlled trials test whether specific interventions (voter mobilization efforts, civic education programs, institutional reforms) actually work.
 
-## A Brief Intellectual History
+## A Brief [Intellectual History](/intellectual-history)
 
 Political science as an academic discipline is roughly 150 years old, but political thinking stretches back millennia.
 
-Aristotle studied the constitutions of 158 Greek city-states around 335 BCE — arguably the first comparative politics research. Machiavelli's *The Prince* (1513) stripped political analysis of moral idealism and examined how power actually works. Hobbes, Locke, and Rousseau developed social contract theory in the 17th and 18th centuries, laying philosophical foundations for modern democracy.
+Aristotle studied the constitutions of 158 Greek city-states around 335 BCE — arguably the first comparative politics research. Machiavelli's *The Prince* (1513) stripped political analysis of moral idealism and examined how power actually works. Hobbes, Locke, and Rousseau developed [social contract theory](/social-contract-theory) in the 17th and 18th centuries, laying philosophical foundations for modern democracy.
 
 The formal academic discipline emerged in the late 1800s. Columbia University established the first department of political science in 1880. The American Political Science Association was founded in 1903.
 
@@ -75,7 +75,7 @@ Since the 1980s, the field has diversified. Rational choice theory applies econo
 
 Political science has genuine predictive successes. Models based on economic fundamentals predict presidential election outcomes with reasonable accuracy — political scientist Allan Lichtman has correctly predicted 9 of the last 10 presidential elections using his "Keys to the White House" framework.
 
-Research on democratic peace theory — the finding that established democracies almost never go to war with each other — is one of the most strong findings in international relations. It's influenced actual foreign policy, though scholars still debate exactly *why* it holds.
+Research on democratic peace theory — the finding that established democracies almost never go to war with each other — is one of the most strong findings in international relations. It's influenced actual [foreign policy](/foreign-policy), though scholars still debate exactly *why* it holds.
 
 Where political science struggles: predicting specific events. Almost no political scientists predicted the collapse of the Soviet Union. Most didn't predict the Arab Spring. Individual elections frequently surprise the models. Political behavior is shaped by culture, psychology, random events, and individual choices in ways that resist systematic prediction.
 

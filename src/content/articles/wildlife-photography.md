@@ -5,7 +5,7 @@ description: "Wildlife photography captures images of animals in their natural h
 category: arts-culture
 tags: ["wildlife photography", "photography", "nature", "camera gear", "animals", "outdoor photography"]
 heroImage: "/images/articles/wildlife-photography.webp"
-heroAlt: "Photographer with a long telephoto lens crouched in tall grass photographing wildlife"
+heroAlt: "Editorial photograph representing the concept of wildlife photography"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Wildlife Photography?
 
-Wildlife photography is the practice of capturing images of wild animals in their natural environments — from backyard songbirds to African elephants, from coral reef fish to Arctic wolves. It sits at the intersection of technical photography skill, field naturalism, physical endurance, and often extraordinary patience. The best wildlife photographs reveal animal behavior, beauty, or ecology in ways that text alone can't communicate, and they've been instrumental in building public support for conservation.
+Wildlife photography is the practice of capturing images of wild animals in their natural environments — from backyard songbirds to African elephants, from coral reef fish to Arctic wolves. It sits at the intersection of technical photography skill, field naturalism, physical endurance, and often extraordinary patience. The best wildlife photographs reveal [animal behavior](/animal-behavior), beauty, or [ecology](/ecology) in ways that text alone can't communicate, and they've been instrumental in building public support for conservation.
 
 ## Why It's Hard
 
@@ -65,7 +65,7 @@ You need two things that cost money: a camera body with fast, accurate autofocus
 
 ## The Behavioral Knowledge
 
-Great wildlife photography requires understanding animal behavior at least as much as camera technique. Knowing that a heron will shake its head before striking at a fish, that an eagle circles three times before diving, or that a fox checks the wind before approaching a den — this behavioral knowledge lets you anticipate moments rather than react to them.
+Great wildlife photography requires understanding animal behavior at least as much as camera technique. Knowing that a heron will shake its head before striking at a fish, that an eagle circles three times before [diving](/diving), or that a fox checks the wind before approaching a den — this behavioral knowledge lets you anticipate moments rather than react to them.
 
 The best wildlife photographers are naturalists first and photographers second. They study their subjects extensively, often focusing on a single species or ecosystem for months or years. They know what time of day animals are active, what weather conditions trigger specific behaviors, what seasonal events (migration, breeding, feeding) create photographic opportunities.
 
@@ -73,7 +73,7 @@ This knowledge also keeps you safe. Understanding bear body language prevents da
 
 ## Ethics Matter
 
-Wildlife photography carries ethical responsibilities that field or portrait photography doesn't.
+Wildlife photography carries ethical responsibilities that field or [portrait photography](/portrait-photography) doesn't.
 
 **Don't disturb.** The photograph isn't worth stressing, displacing, or harming the animal. This means maintaining appropriate distances (especially from nests and dens during breeding season), avoiding bait that alters natural behavior, and leaving when an animal shows signs of agitation.
 

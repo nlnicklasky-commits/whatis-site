@@ -5,7 +5,7 @@ description: "The history of philosophy follows 2,600 years of human thought on 
 category: history
 tags: ["history of philosophy", "philosophy", "ancient philosophy", "ethics", "metaphysics"]
 heroImage: "/images/articles/the-history-of-philosophy.webp"
-heroAlt: "Marble bust of a Greek philosopher alongside stacks of philosophy books from different eras"
+heroAlt: "Editorial photograph representing the concept of the history of philosophy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 The history of philosophy is the record of humanity's most persistent attempt to figure out what's going on. What exists? What can we know? How should we live? What makes a society just? These questions emerged independently across multiple civilizations around 2,600 years ago, and — here's the thing — we're still arguing about most of them.
 
-Philosophy isn't a body of settled knowledge the way chemistry is. It's more like a conversation that's been going on for millennia, where the questions matter as much as the answers. Many of the disciplines we now consider separate — [science](/the-history-of-science), psychology, linguistics, political science — originally spun off from philosophy when they developed their own methods.
+Philosophy isn't a body of settled knowledge the way chemistry is. It's more like a conversation that's been going on for millennia, where the questions matter as much as the answers. Many of the disciplines we now consider separate — [science](/the-history-of-science), psychology, [linguistics](/linguistics), [political science](/political-science) — originally spun off from philosophy when they developed their own methods.
 
 ## The Axial Age: Multiple Traditions Ignite
 
@@ -49,11 +49,11 @@ In **China**, **Confucius** (551–479 BCE) developed an ethical philosophy cent
 
 ## Athens: The Big Three
 
-Western philosophy's center of gravity, for better or worse, has always been three guys from Athens.
+[Western philosophy](/western-philosophy)'s center of gravity, for better or worse, has always been three guys from Athens.
 
 **Socrates** (470–399 BCE) wrote nothing down. Everything we know comes from his students, mainly Plato. His method was to ask questions — relentless, probing questions that exposed contradictions in people's beliefs. He claimed to know nothing himself, which was either genuine humility or supreme irony (scholars still argue about this). Athens executed him for "corrupting the youth" and "introducing new gods." He accepted the sentence and drank hemlock.
 
-**Plato** (428–348 BCE), Socrates' student, wrote dialogues that are still read as both philosophy and literature. His **Theory of Forms** proposed that the physical world is just shadows — imperfect copies of perfect, eternal Forms that exist in a higher reality. The chair you're sitting in is an imperfect instance of the Form of Chair. This sounds wild, but it influenced everything from Christian theology to modern mathematics.
+**Plato** (428–348 BCE), Socrates' student, wrote dialogues that are still read as both philosophy and literature. His **Theory of Forms** proposed that the physical world is just shadows — imperfect copies of perfect, eternal Forms that exist in a higher reality. The chair you're sitting in is an imperfect instance of the Form of Chair. This sounds wild, but it influenced everything from Christian theology to modern [mathematics](/mathematics).
 
 Plato's *Republic* remains one of the most important works of [political philosophy](/the-history-of-political-science). His allegory of the cave — prisoners chained in a cave, mistaking shadows on the wall for reality — is one of the most famous images in all of philosophy.
 
@@ -75,7 +75,7 @@ The medieval period saw philosophers grappling with how to reconcile religious f
 
 In the **Islamic world**, this produced extraordinary work. **Al-Kindi** (c. 801–873) argued that philosophy and Islam were compatible. **Avicenna** (Ibn Sina, 980–1037) developed a sophisticated metaphysics that influenced both Islamic and Christian thought. His proof for God's existence from the concept of necessary being was one of the most rigorous attempts in medieval philosophy. **Averroes** (Ibn Rushd, 1126–1198) wrote detailed commentaries on Aristotle that were so influential in Europe that he was simply called "The Commentator."
 
-In **Christian Europe**, the dominant project was **Scholasticism** — the systematic attempt to reconcile Christian theology with Aristotelian philosophy. **Thomas Aquinas** (1225–1274) was the master of this, producing the massive *Summa Theologica*. His "Five Ways" — five arguments for God's existence — are still discussed in every philosophy of religion course.
+In **Christian Europe**, the dominant project was **[Scholasticism](/scholasticism)** — the systematic attempt to reconcile Christian theology with Aristotelian philosophy. **Thomas Aquinas** (1225–1274) was the master of this, producing the massive *Summa Theologica*. His "Five Ways" — five arguments for God's existence — are still discussed in every [philosophy of religion](/philosophy-of-religion) course.
 
 **Indian philosophy** continued developing through this period, with major schools including **Advaita Vedanta** (Shankara, 8th century — reality is ultimately one undifferentiated consciousness) and **Vishishtadvaita** (Ramanuja, 11th century — reality is one but qualified by diversity).
 
@@ -103,7 +103,7 @@ Philosophy in the 1900s split into two broad traditions.
 
 **Analytic philosophy** (dominant in English-speaking countries) focused on language, logic, and clarity. **Bertrand Russell** and **Ludwig Wittgenstein** analyzed the logical structure of language. The logical positivists tried to eliminate metaphysics entirely by declaring non-verifiable statements meaningless. Wittgenstein later reversed course, arguing that meaning comes from use in social contexts — "language games."
 
-**Continental philosophy** (dominant in France and Germany) maintained philosophy's connection to literature, history, and lived experience. **Martin Heidegger** asked about the meaning of Being itself. **Jean-Paul Sartre** declared that existence precedes essence — you're not born with a purpose; you create one. **Simone de Beauvoir** applied existentialism to gender, arguing "one is not born, but rather becomes, a woman."
+**Continental philosophy** (dominant in France and Germany) maintained philosophy's connection to literature, history, and lived experience. **Martin Heidegger** asked about the meaning of Being itself. **Jean-Paul Sartre** declared that existence precedes essence — you're not born with a purpose; you create one. **Simone de Beauvoir** applied [existentialism](/existentialism) to gender, arguing "one is not born, but rather becomes, a woman."
 
 **Michel Foucault** analyzed how power shapes what counts as knowledge. **Jacques Derrida** questioned whether texts have fixed meanings. The postmodernists challenged the grand narratives of progress, reason, and truth that had shaped Western philosophy since the Enlightenment.
 

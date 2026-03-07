@@ -5,7 +5,7 @@ description: "Industrial history traces how manufacturing, technology, and labor
 category: history
 tags: ["industrial history", "industrial revolution", "economic history", "technology", "labor history"]
 heroImage: "/images/articles/industrial-history.webp"
-heroAlt: "Historic factory with smokestacks and workers during the industrial era"
+heroAlt: "Editorial photograph representing the concept of industrial history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ Then, in a relatively short span, everything changed. And the story of *how* it 
 
 It started in Britain, and it started with textiles. The spinning jenny (1764), the water frame (1769), and the spinning mule (1779) mechanized cotton spinning, multiplying output by orders of magnitude. A single mule could do the work of 200 hand spinners.
 
-But machines need power. Water wheels worked, but only near rivers. The real breakthrough was James Watt's improved steam engine in the 1770s. Steam power could go anywhere — and it did. Factories sprouted in cities, near coal mines, along canals. By 1800, Britain had over 2,500 steam engines driving mills, mines, and machinery.
+But machines need power. Water wheels worked, but only near rivers. The real breakthrough was James Watt's improved steam engine in the 1770s. Steam power could go anywhere — and it did. Factories sprouted in cities, near coal mines, along canals. By 1800, Britain had over 2,500 [steam engines](/steam-engines) driving mills, mines, and machinery.
 
 The numbers are staggering. British cotton production increased from 2 million pounds in 1760 to 366 million pounds by 1840. Iron production quintupled between 1780 and 1830. Coal output doubled, then doubled again. The factory system wasn't just a new way of making things — it was an entirely different relationship between people, work, and time.
 
@@ -81,7 +81,7 @@ Henry Bessemer's converter (1856) made steel cheap. Before Bessemer, steel cost 
 
 Electricity changed the game again. Thomas Edison's Pearl Street Station began supplying electricity in Manhattan in 1882. Within a generation, electric motors replaced steam engines in factories, electric lights replaced gas lamps in cities, and entirely new industries — telecommunications, recorded music, cinema — became possible.
 
-Chemical engineering produced synthetic dyes, fertilizers, explosives, and pharmaceuticals. Germany dominated this field, and companies like BASF, Bayer, and Hoechst (founded in the 1860s) became industrial giants. The connection between [chemistry](/chemistry) and industrial output became inseparable.
+[Chemical engineering](/chemical-engineering) produced synthetic dyes, fertilizers, explosives, and pharmaceuticals. Germany dominated this field, and companies like BASF, Bayer, and Hoechst (founded in the 1860s) became industrial giants. The connection between [chemistry](/chemistry) and industrial output became inseparable.
 
 The assembly line deserves its own mention. Henry Ford didn't invent the automobile — Karl Benz did that in 1886. But Ford's moving assembly line (1913) reduced the time to build a Model T from 12 hours to 93 minutes. The car's price dropped from $850 to $260. A product that had been a luxury became accessible to ordinary workers. That's the second industrial revolution in miniature: making things cheaper, faster, and at a scale previously unimaginable.
 
@@ -93,7 +93,7 @@ Early resistance was often violent and direct. The Luddites smashed textile mach
 
 Over time, resistance became organized. Trade unions formed, fought for recognition, and gradually won concessions. The Trades Union Congress was founded in Britain in 1868. In the United States, the American Federation of Labor (AFL) organized skilled workers from 1886 onward. The Congress of Industrial Organizations (CIO) brought industrial unionism to mass-production workers in the 1930s.
 
-Key victories came slowly: the eight-hour workday (normalized by the early 20th century), workplace safety regulations, workers' compensation, the abolition of child labor. Each required decades of organizing, strikes, and — frequently — bloodshed. The Triangle Shirtwaist Factory fire of 1911, which killed 146 garment workers in New York, became a turning point for workplace safety legislation in the United States.
+Key victories came slowly: the eight-hour workday (normalized by the early 20th century), [workplace safety](/workplace-safety) regulations, workers' compensation, the abolition of child labor. Each required decades of organizing, strikes, and — frequently — bloodshed. The Triangle Shirtwaist Factory fire of 1911, which killed 146 garment workers in New York, became a turning point for workplace safety legislation in the United States.
 
 ## Industrialization Goes Global
 
@@ -111,7 +111,7 @@ Numerical control machines appeared in the 1950s. Industrial robots entered fact
 
 The consequences for labor were dramatic. Manufacturing employment in the United States peaked at about 19.5 million jobs in 1979 and has declined steadily since, falling to about 12.9 million by 2023 — even as manufacturing output (measured by value) roughly doubled. Machines didn't eliminate manufacturing; they eliminated manufacturing *jobs*. The gap between those two facts is one of the defining political tensions of our era.
 
-Now we're in what some call the Fourth Industrial Revolution — [artificial intelligence](/artificial-intelligence), robotics, the Internet of Things, biotechnology, and [machine learning](/machine-learning) all blurring the lines between physical, digital, and biological systems. Whether this represents a genuine break from previous patterns or simply their continuation is a debate for historians to settle — probably decades from now.
+Now we're in what some call the Fourth Industrial Revolution — [artificial intelligence](/artificial-intelligence), robotics, the Internet of Things, [biotechnology](/biotechnology), and [machine learning](/machine-learning) all blurring the lines between physical, digital, and biological systems. Whether this represents a genuine break from previous patterns or simply their continuation is a debate for historians to settle — probably decades from now.
 
 ## Why Industrial History Matters
 

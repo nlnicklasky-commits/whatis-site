@@ -5,7 +5,7 @@ description: "Zentangle is a structured drawing method using repetitive patterns
 category: arts-amp-culture
 tags: ["art", "drawing", "mindfulness", "relaxation", "creative expression", "pattern art"]
 heroImage: "/images/articles/zentangle.webp"
-heroAlt: "A hand-drawn Zentangle tile featuring intricate black ink patterns on white paper"
+heroAlt: "Editorial photograph representing the concept of zentangle"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Zentangle?
 
-Zentangle is a structured method of creating art by drawing repetitive patterns — called "tangles" — within small, defined spaces. Created in 2004 by Rick Roberts (a former monk) and Maria Thomas (a lettering artist), it was designed as an accessible, meditative drawing practice that anyone can do, regardless of artistic skill.
+Zentangle is a structured method of creating art by [drawing](/drawing) repetitive patterns — called "tangles" — within small, defined spaces. Created in 2004 by Rick Roberts (a former monk) and Maria Thomas (a lettering artist), it was designed as an accessible, meditative drawing practice that anyone can do, regardless of artistic skill.
 
 The whole concept rests on a simple observation: when you focus on drawing one deliberate stroke at a time, your mind quiets down. You stop worrying about the outcome. You stop thinking about your to-do list. For a little while, your entire world shrinks to the tip of a pen touching paper. That's not an accident — it's the point.
 
@@ -97,7 +97,7 @@ Each tangle is broken down into simple steps — usually 3 to 6 sequential strok
 
 ## Why People Do This
 
-The mental health benefits are the main draw for most practitioners. And the evidence, while still limited, is encouraging.
+The [mental health](/mental-health) benefits are the main draw for most practitioners. And the evidence, while still limited, is encouraging.
 
 Drawing repetitive patterns requires enough focus to occupy your conscious mind but not so much that it's stressful. This puts you in a state that psychologists sometimes call "flow" — fully absorbed in an activity, not self-conscious, not distracted. It's the same state that runners, musicians, and rock climbers describe.
 
@@ -108,7 +108,7 @@ Reported benefits include:
 - **Better sleep.** Many people Zentangle before bed as a wind-down ritual.
 - **Increased confidence.** Creating something beautiful — even when you think you "can't draw" — is surprisingly powerful.
 
-Some therapists and counselors have incorporated Zentangle into their practice. It's used in hospitals, assisted living facilities, schools, and corporate wellness programs. A 2016 study in the journal *Art Therapy* found that structured drawing activities like Zentangle significantly reduced anxiety in adult participants.
+Some therapists and counselors have incorporated Zentangle into their practice. It's used in hospitals, assisted living facilities, schools, and corporate [wellness](/wellness) programs. A 2016 study in the journal *Art Therapy* found that structured drawing activities like Zentangle significantly reduced anxiety in adult participants.
 
 To be clear: Zentangle isn't therapy, and its creators don't market it as such. But as a tool for managing everyday stress and quieting a busy mind, it works for a lot of people.
 

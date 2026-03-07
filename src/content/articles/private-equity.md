@@ -5,7 +5,7 @@ description: "Private equity firms buy companies with borrowed money, restructur
 category: finance
 tags: ["private equity", "investment", "leveraged buyout", "finance", "capital markets", "financial services"]
 heroImage: "/images/articles/private-equity-hero.webp"
-heroAlt: "Abstract visualization of capital flowing through private investment structures"
+heroAlt: "Editorial photograph representing the concept of private equity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -63,7 +63,7 @@ This is like buying a house with a 30% down payment and a 70% mortgage — excep
 
 Now Apex goes to work. They might replace management, cut costs, sell off underperforming divisions, invest in technology, make add-on acquisitions, renegotiate supplier contracts, or expand into new markets. The goal is to increase the company's profitability and value.
 
-Some PE firms are genuinely skilled at operational improvement. They bring in experienced executives, implement better systems, and make investments that the previous owners couldn't or wouldn't make. Others primarily focus on financial engineering — loading the company with debt, cutting costs aggressively, and extracting dividends.
+Some PE firms are genuinely skilled at operational improvement. They bring in experienced executives, implement better systems, and make investments that the previous owners couldn't or wouldn't make. Others primarily focus on financial [engineering](/engineering) — loading the company with debt, cutting costs aggressively, and extracting dividends.
 
 ### Step 4: Exit and Collect
 
@@ -99,7 +99,7 @@ Critics point out that this fee structure creates a heads-I-win, tails-you-lose 
 
 ### The Early Days (1940s-1970s)
 
-Private equity in its modern form traces back to the post-World War II era. In 1946, the American Research and Development Corporation (ARDC) became one of the first institutional private equity firms, eventually making a legendary investment in Digital Equipment Corporation that turned $70,000 into $355 million.
+Private equity in its modern form traces back to the post-[World War II](/world-war-ii) era. In 1946, the American Research and Development Corporation (ARDC) became one of the first institutional private equity firms, eventually making a legendary investment in Digital Equipment Corporation that turned $70,000 into $355 million.
 
 But PE as we know it really began in the 1970s when firms like KKR (Kohlberg Kravis Roberts), founded in 1976, started doing leveraged buyouts systematically. The idea was simple but revolutionary: use debt to amplify returns on equity investments in mature companies.
 
@@ -115,7 +115,7 @@ The junk bond market collapsed in the early 1990s, Milken went to prison, and PE
 
 The 2000s saw private equity grow into a massive global industry. By 2025, global PE assets under management exceeded $8 trillion — more than the GDP of every country except the United States and China. The largest firms — Blackstone, Apollo, KKR, Carlyle, TPG — became publicly traded companies themselves, managing hundreds of billions.
 
-Private equity expanded beyond traditional leveraged buyouts into growth equity, infrastructure, real estate, credit, and insurance. The industry became less about corporate raiding and more about institutional [investment management](/investment-management).
+Private equity expanded beyond traditional leveraged buyouts into growth equity, infrastructure, [real estate](/real-estate), credit, and insurance. The industry became less about corporate raiding and more about institutional [investment management](/investment-management).
 
 But controversies persisted. PE ownership has been linked to higher bankruptcy rates, job losses in some sectors, and — most controversially — problems in healthcare, where PE-owned hospitals and medical practices have been accused of prioritizing profits over patient care.
 
@@ -127,7 +127,7 @@ The classic PE strategy. Buy a mature company using significant debt, improve it
 
 ### Growth Equity
 
-Growth equity sits between venture capital and traditional PE. These investments go to established companies that need capital to expand but don't want to go public yet. Unlike LBOs, growth equity deals typically use little or no debt, and the PE firm takes a minority stake. This is the friendlier side of private equity.
+Growth equity sits between [venture capital](/venture-capital) and traditional PE. These investments go to established companies that need capital to expand but don't want to go public yet. Unlike LBOs, growth equity deals typically use little or no debt, and the PE firm takes a minority stake. This is the friendlier side of private equity.
 
 ### Distressed Investing
 
@@ -173,7 +173,7 @@ This is the big question, and the honest answer is: both.
 
 PE firms point to real successes. They provide capital to companies that need it. They professionalize family businesses that have outgrown their founders. They bring operational expertise, management talent, and strategic vision. Companies like Hilton Hotels, Dollar General, and Dunkin' Donuts thrived under PE ownership and emerged as stronger businesses.
 
-Academic research shows that PE-owned companies often increase productivity, invest in technology, and — in aggregate — don't destroy more jobs than they create. A 2019 study by economists Steven Davis, John Haltiwanger, and others found that PE buyouts led to modest net job losses (about 4.4% over two years) at target firms, but these were offset by job creation at new establishments opened by PE-owned firms.
+Academic research shows that PE-owned companies often increase [productivity](/productivity), invest in technology, and — in aggregate — don't destroy more jobs than they create. A 2019 study by economists Steven Davis, John Haltiwanger, and others found that PE buyouts led to modest net job losses (about 4.4% over two years) at target firms, but these were offset by job creation at new establishments opened by PE-owned firms.
 
 ### The Case Against PE
 

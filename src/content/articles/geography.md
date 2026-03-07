@@ -5,7 +5,7 @@ description: "Geography is the study of places, landscapes, environments, and th
 category: science
 tags: ["geography", "physical geography", "human geography", "maps", "spatial analysis", "earth science", "environment"]
 heroImage: "/images/articles/geography-hero.webp"
-heroAlt: "Globe showing diverse landscapes including mountains, rivers, deserts, and ocean coastlines"
+heroAlt: "Editorial photograph representing the concept of geography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ The ancient Greeks understood this. Eratosthenes — who calculated Earth's circ
 
 Tobler's First Law of Geography captures the discipline's central insight: "Everything is related to everything else, but near things are more related than distant things." This deceptively simple statement underlies everything from disease spread to property values to species distributions.
 
-## Physical Geography: How the Earth Works
+## [Physical Geography](/physical-geography): How the Earth Works
 
 Physical geography studies the natural world — the processes and patterns that create Earth's physical field.
 
@@ -87,7 +87,7 @@ Water shapes geography profoundly. River systems drain continents, creating the 
 
 Groundwater, invisible beneath the surface, sustains ecosystems and [agriculture](/agriculture) in regions where surface water is scarce. The Ogallala Aquifer beneath the American Great Plains irrigates about 30% of US cropland. It's being depleted far faster than it recharges — a geographic crisis in slow motion.
 
-The global water cycle connects atmosphere, ocean, land, and biosphere in a continuous loop of evaporation, precipitation, and flow. Understanding this cycle is essential for water resource management, flood prediction, and climate modeling.
+The global water cycle connects atmosphere, ocean, land, and biosphere in a continuous loop of evaporation, precipitation, and flow. Understanding this cycle is essential for water [resource management](/resource-management), flood prediction, and climate modeling.
 
 ## Human Geography: How People Shape the World
 
@@ -125,7 +125,7 @@ Cultural landscapes — the visible imprint of human activity on the physical en
 
 Political geography studies how political structures — borders, territories, governance systems — interact with geographic space. National boundaries rarely follow neat physical features. Many modern borders, particularly in Africa and the Middle East, were drawn by colonial powers with little regard for ethnic, linguistic, or geographic realities — creating political tensions that persist today.
 
-Geopolitics examines how geography influences international relations. Control of strategic waterways (Strait of Hormuz, Strait of Malacca, Suez Canal) confers enormous power. Landlocked countries face economic disadvantages. Natural barriers like mountains and deserts historically limited conquest and cultural exchange.
+Geopolitics examines how geography influences [international relations](/international-relations). Control of strategic waterways (Strait of Hormuz, Strait of Malacca, Suez Canal) confers enormous power. Landlocked countries face economic disadvantages. Natural barriers like mountains and deserts historically limited conquest and cultural exchange.
 
 ## Geographic Methods and Tools
 
@@ -139,7 +139,7 @@ The Landsat program has provided continuous Earth observation since 1972 — a 5
 
 ### GIS and Spatial Analysis
 
-Geographic Information Systems — computer systems for storing, analyzing, and visualizing spatial [data](/data-analysis) — have become geography's primary analytical tool. GIS allows geographers to overlay multiple data layers, perform spatial statistics, model scenarios, and produce maps that communicate complex information effectively.
+Geographic [Information Systems](/information-systems) — computer systems for storing, analyzing, and visualizing spatial [data](/data-analysis) — have become geography's primary analytical tool. GIS allows geographers to overlay multiple data layers, perform spatial statistics, model scenarios, and produce maps that communicate complex information effectively.
 
 The integration of GIS with [data science](/data-science) and [artificial intelligence](/artificial-intelligence) is expanding what geographic analysis can accomplish. Machine learning algorithms process satellite imagery to classify land cover, detect changes, and extract features at speeds impossible for human analysts.
 

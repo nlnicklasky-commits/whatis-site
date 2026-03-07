@@ -5,7 +5,7 @@ description: "Arabic is a Semitic language spoken by over 400 million people, kn
 category: arts-amp-culture
 tags: ["arabic language", "arabic", "language", "linguistics", "middle east", "semitic"]
 heroImage: "/images/articles/arabic-language.webp"
-heroAlt: "Beautiful Arabic calligraphy in gold ink on a dark background showing flowing script"
+heroAlt: "Editorial photograph representing the concept of arabic language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -65,11 +65,11 @@ Egyptian Arabic has become the most widely understood dialect, largely because o
 
 During Europe's medieval period, Arabic-speaking scholars preserved and extended Greek philosophical and scientific works. The [mathematics](/mathematics) the modern world uses — including the numeral system (ironically called "Arabic numerals," though they originated in India) — was transmitted to Europe through Arabic-language scholarship.
 
-Key contributions include al-Khwarizmi's foundational work on [algebra](/algebra) (the word itself comes from his book title), Ibn Sina's *Canon of Medicine* (the standard medical text in European universities for 500 years), and al-Haytham's *Book of Optics*, which established the scientific method for studying light. Arabic was the international language of [science](/natural-history) and philosophy for roughly 500 years.
+Key contributions include al-Khwarizmi's foundational work on [algebra](/algebra) (the word itself comes from his book title), Ibn Sina's *Canon of Medicine* (the standard medical text in European universities for 500 years), and al-Haytham's *Book of Optics*, which established the [scientific method](/scientific-method) for studying light. Arabic was the international language of [science](/natural-history) and philosophy for roughly 500 years.
 
 ## Learning Arabic Today
 
-Arabic's complexity discourages some potential learners, but the rewards are substantial. The U.S. government classifies Arabic as a critical-needs language, and demand for Arabic speakers in diplomacy, intelligence, business, and journalism consistently exceeds supply.
+Arabic's complexity discourages some potential learners, but the rewards are substantial. The U.S. [government](/government) classifies Arabic as a critical-needs language, and demand for Arabic speakers in diplomacy, intelligence, business, and [journalism](/journalism) consistently exceeds supply.
 
 Learners face a strategic choice: study MSA first (useful for reading and formal contexts but not street conversation) or dive into a dialect (immediately practical but limited to one region). Many programs now teach both simultaneously, which is demanding but effective.
 
@@ -81,6 +81,6 @@ But the structure has its own elegance. Arabic words are built on three-letter r
 
 Arabic is the fourth most used language on the internet, and social media has created new forms of written Arabic. Young Arabic speakers frequently write dialect (not MSA) using a mix of Arabic script and Latin letters with numbers substituting for Arabic sounds that don't exist in the Latin alphabet (3 = ع, 7 = ح, for example). This system, called "Arabizi" or "Arabish," drives purists crazy but reflects the practical reality of [digital communication](/digital-marketing).
 
-Tech companies have invested heavily in Arabic natural language processing, but the language's complexity — right-to-left rendering, connected letters, absent short vowels, and dialectal variation — makes it significantly harder to process computationally than European languages.
+Tech companies have invested heavily in Arabic [natural language processing](/natural-language-processing), but the language's complexity — right-to-left rendering, connected letters, absent short vowels, and dialectal variation — makes it significantly harder to process computationally than European languages.
 
 Arabic isn't just a language. It's a doorway to understanding one of the world's great civilizations, a literary tradition spanning 1,400 years, and a living culture of 400 million people. The script is gorgeous. The grammar is fiendishly logical. And the coffee you'll drink while studying it — *qahwa*, another Arabic loanword — is excellent.

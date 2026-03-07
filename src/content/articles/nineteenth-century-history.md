@@ -5,7 +5,7 @@ description: "The 19th century brought industrialization, revolutions, and the r
 category: everyday-concepts
 tags: ["nineteenth century history", "industrial revolution", "colonialism", "nation-states", "modernization", "world history"]
 heroImage: "/images/articles/nineteenth-century-history.webp"
-heroAlt: "A steam locomotive pulling through an industrial landscape representing 19th-century progress"
+heroAlt: "Editorial photograph representing the concept of nineteenth-century history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -39,21 +39,21 @@ The Industrial Revolution had been building since the late 18th century, but the
 
 The numbers tell the story. Britain's coal production went from 10 million tons in 1800 to 225 million tons by 1900. Iron production increased 30-fold. The railway network grew from zero miles in 1825 to over 18,000 miles by 1850. Steam power replaced muscle power across every industry.
 
-This wasn't just an economic shift. It was a social earthquake. Millions of people moved from farms to factories, from villages to cities. Manchester's population grew from 25,000 in 1772 to over 300,000 by 1850. Working conditions in early factories were appalling — 14-hour days, child labor, dangerous machinery, no safety regulations. Friedrich Engels documented the misery in *The Condition of the Working Class in England* (1845), and the conditions he described helped inspire Karl Marx's critique of capitalism.
+This wasn't just an economic shift. It was a social earthquake. Millions of people moved from farms to factories, from villages to cities. Manchester's population grew from 25,000 in 1772 to over 300,000 by 1850. Working conditions in early factories were appalling — 14-hour days, child labor, dangerous machinery, no safety regulations. Friedrich Engels documented the misery in *The Condition of the Working Class in England* (1845), and the conditions he described helped inspire Karl Marx's critique of [capitalism](/capitalism).
 
-A Second Industrial Revolution kicked off around 1870, powered by electricity, steel, chemicals, and petroleum. This phase produced the telephone (1876), the light bulb (1879), the automobile (1886), and radio (1890s). By 1900, the technological gap between industrialized and non-industrialized nations was vast and growing.
+A Second Industrial Revolution kicked off around 1870, powered by [electricity](/electricity), steel, chemicals, and petroleum. This phase produced the telephone (1876), the light bulb (1879), the automobile (1886), and radio (1890s). By 1900, the technological gap between industrialized and non-industrialized nations was vast and growing.
 
 ## Revolutions and Nation-Building
 
 The 19th century was also the age of revolution and nationalism.
 
-The century opened with the aftermath of the French Revolution and the Napoleonic Wars. Napoleon's armies carried revolutionary ideas — citizenship, legal equality, secular governance — across Europe before his final defeat at Waterloo in 1815. The Congress of Vienna tried to stuff the revolutionary genie back in the bottle by restoring monarchies and drawing borders, but it didn't hold.
+The century opened with the aftermath of the French Revolution and the [Napoleonic Wars](/napoleonic-wars). Napoleon's armies carried revolutionary ideas — citizenship, legal equality, secular governance — across Europe before his final defeat at Waterloo in 1815. The Congress of Vienna tried to stuff the revolutionary genie back in the bottle by restoring monarchies and drawing borders, but it didn't hold.
 
 1848 was the year everything blew up. Revolutions swept across France, Germany, Austria, Hungary, Italy, and beyond. Most were crushed or fizzled, but they planted seeds. The desire for national self-determination — the idea that each "nation" (defined by language, culture, or ethnicity) deserved its own state — would reshape the map.
 
-Italy unified between 1859 and 1871, cobbled together from a patchwork of kingdoms and papal states. Germany unified in 1871 under Prussian leadership after defeating France in the Franco-Prussian War. Both unifications were messy, incomplete, and carried consequences that would echo into the 20th century.
+Italy unified between 1859 and 1871, cobbled together from a patchwork of kingdoms and papal states. Germany unified in 1871 under Prussian [leadership](/leadership) after defeating France in the Franco-Prussian War. Both unifications were messy, incomplete, and carried consequences that would echo into the 20th century.
 
-In the Americas, Latin American nations achieved independence from Spain and Portugal between 1810 and 1830. The United States fought its Civil War (1861-1865) — the bloodiest conflict in American history, with over 620,000 dead — resolving (through force) whether the nation would remain united and whether slavery would survive. It didn't.
+In the Americas, Latin American nations achieved independence from Spain and Portugal between 1810 and 1830. The United States fought its Civil War (1861-1865) — the bloodiest conflict in [American history](/american-history), with over 620,000 dead — resolving (through force) whether the nation would remain united and whether slavery would survive. It didn't.
 
 ## The Age of Empire
 
@@ -69,13 +69,13 @@ The human costs were staggering. King Leopold II's exploitation of the Congo kil
 
 The 19th century produced a cascade of ideas that fundamentally changed how humans understood themselves and the world.
 
-Charles Darwin's *On the Origin of Species* (1859) proposed evolution by natural selection — arguably the most consequential scientific idea since Copernicus. It upended religious assumptions, reshaped biology, and influenced everything from philosophy to economics.
+Charles Darwin's *On the Origin of Species* (1859) proposed evolution by natural selection — arguably the most consequential scientific idea since Copernicus. It upended religious assumptions, reshaped [biology](/biology), and influenced everything from [philosophy](/philosophy) to [economics](/economics).
 
 Karl Marx and Friedrich Engels published *The Communist Manifesto* (1848) and *Das Kapital* (1867), providing a systematic critique of capitalism and a vision of class struggle that would inspire revolutionary movements for the next 150 years.
 
-Louis Pasteur and Robert Koch established the germ theory of disease in the 1860s-80s, replacing centuries of wrong ideas about miasma and bad air. This single insight saved more lives than any other in medical history.
+Louis Pasteur and Robert Koch established the germ theory of disease in the 1860s-80s, replacing centuries of wrong ideas about miasma and bad air. This single insight saved more lives than any other in [medical history](/medical-history).
 
-Michael Faraday and James Clerk Maxwell worked out the principles of electromagnetism. Dmitri Mendeleev organized the periodic table of elements (1869). Sigmund Freud published his theories of the unconscious mind in the 1890s.
+Michael Faraday and James Clerk Maxwell worked out the principles of [electromagnetism](/electromagnetism). Dmitri Mendeleev organized the periodic table of elements (1869). Sigmund Freud published his theories of the unconscious mind in the 1890s.
 
 ## Social Movements
 

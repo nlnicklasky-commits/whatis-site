@@ -5,7 +5,7 @@ description: "Exploration history traces humanity's drive to map the unknown, fr
 category: everyday-concepts
 tags: ["exploration history", "discovery", "navigation", "geography", "expeditions", "colonialism"]
 heroImage: "/images/articles/exploration-history.webp"
-heroAlt: "Antique compass and aged map spread across a wooden table"
+heroAlt: "Editorial photograph representing the concept of exploration history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,9 +37,9 @@ Exploration history is the study of how humans have ventured into unknown territ
 
 Long before European ships crossed the Atlantic, humans were exploring. The first major exploration happened around 70,000 years ago when Homo sapiens migrated out of Africa, eventually reaching every continent except Antarctica. These weren't planned expeditions — they were slow migrations driven by climate, food, and population pressure. But they were exploration nonetheless.
 
-The Polynesians pulled off something arguably more impressive. Between roughly 1500 BCE and 1200 CE, they colonized the entire Pacific Ocean — from Hawaii to New Zealand to Easter Island — using double-hulled canoes and navigation techniques based on stars, wave patterns, and bird behavior. No compasses. No charts. Just extraordinary skill and audacity.
+The Polynesians pulled off something arguably more impressive. Between roughly 1500 BCE and 1200 CE, they colonized the entire Pacific Ocean — from Hawaii to New Zealand to Easter Island — using double-hulled canoes and [navigation](/navigation) techniques based on stars, wave patterns, and bird behavior. No compasses. No charts. Just extraordinary skill and audacity.
 
-The Phoenicians were sailing the Mediterranean by 1500 BCE. Chinese admiral Zheng He commanded enormous treasure fleets through the Indian Ocean between 1405 and 1433, reaching East Africa decades before any European. Ibn Battuta, a Moroccan scholar, traveled roughly 75,000 miles across Africa, Asia, and Europe in the 14th century — three times the distance Marco Polo covered.
+The Phoenicians were [sailing](/sailing) the Mediterranean by 1500 BCE. Chinese admiral Zheng He commanded enormous treasure fleets through the Indian Ocean between 1405 and 1433, reaching East Africa decades before any European. Ibn Battuta, a Moroccan scholar, traveled roughly 75,000 miles across Africa, Asia, and Europe in the 14th century — three times the distance Marco Polo covered.
 
 ## The Age of Exploration
 
@@ -53,11 +53,11 @@ The Spanish conquest that followed was swift and brutal. Hernan Cortes toppled t
 
 The motives were rarely pure curiosity. Historians often summarize them as "God, gold, and glory," and that's pretty accurate.
 
-**Trade** was the primary economic driver. European merchants wanted direct access to Asian spices — pepper, cinnamon, cloves — which were worth more by weight than gold. The Ottoman Empire controlled the overland routes, so finding sea routes became an economic imperative.
+**[Trade](/trade)** was the primary economic driver. European merchants wanted direct access to Asian spices — pepper, cinnamon, cloves — which were worth more by weight than gold. The Ottoman Empire controlled the overland routes, so finding sea routes became an economic imperative.
 
 **Competition** between European powers fueled expansion. Once Portugal started establishing trade posts in Africa and Asia, Spain, England, France, and the Netherlands rushed to claim their own territories. The 1494 Treaty of Tordesillas literally divided the non-European world between Spain and Portugal — without consulting anyone who lived there.
 
-**Technology** made it possible. The magnetic compass (borrowed from China), the astrolabe, improved ship designs like the Portuguese caravel, and better cartography all contributed. But technology alone doesn't explain why Europe explored so aggressively while China — which had the capability — pulled back.
+**Technology** made it possible. The magnetic compass (borrowed from China), the astrolabe, improved ship designs like the Portuguese caravel, and better [cartography](/cartography) all contributed. But technology alone doesn't explain why Europe explored so aggressively while China — which had the capability — pulled back.
 
 ## The Human Cost
 
@@ -69,7 +69,7 @@ Modern exploration history grapples seriously with these realities. The "Age of 
 
 ## Scientific Exploration
 
-By the 18th and 19th centuries, exploration shifted toward scientific goals — at least partly. Captain James Cook's three Pacific voyages (1768-1779) carried botanists, astronomers, and artists alongside sailors. Alexander von Humboldt spent five years in South America (1799-1804) studying everything from volcanoes to electric eels, essentially founding the field of biogeography.
+By the 18th and 19th centuries, exploration shifted toward scientific goals — at least partly. Captain James Cook's three Pacific voyages (1768-1779) carried botanists, astronomers, and artists alongside sailors. Alexander von Humboldt spent five years in South America (1799-1804) studying everything from volcanoes to electric eels, essentially founding the field of [biogeography](/biogeography).
 
 The 19th century saw a race to fill in the remaining blank spaces on the map. David Livingstone and Henry Morton Stanley in central Africa. Lewis and Clark crossing North America. Roald Amundsen reaching the South Pole in 1911, beating Robert Falcon Scott by 34 days (Scott's entire return party died).
 

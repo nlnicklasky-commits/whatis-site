@@ -5,7 +5,7 @@ description: "Protein chemistry studies how proteins are built, fold into shapes
 category: science
 tags: ["protein chemistry", "proteins", "amino acids", "protein folding", "enzymes", "biochemistry", "molecular biology"]
 heroImage: "/images/articles/protein-chemistry-hero.webp"
-heroAlt: "3D rendering of a protein molecule showing its folded structure and amino acid chains"
+heroAlt: "Editorial photograph representing the concept of protein chemistry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,7 +55,7 @@ Your body can synthesize 11 of the 20 standard amino acids. The other 9 — call
 
 ## The Four Levels of Protein Structure
 
-Protein chemistry organizes protein architecture into four hierarchical levels. Understanding these levels is crucial because a protein's structure determines its function — and misfolding at any level can cause disease.
+Protein chemistry organizes protein [architecture](/architecture) into four hierarchical levels. Understanding these levels is crucial because a protein's structure determines its function — and misfolding at any level can cause disease.
 
 ### Primary Structure: The Sequence
 
@@ -125,11 +125,11 @@ Understanding protein misfolding isn't just academic — it's driving drug devel
 
 ### AlphaFold: The AI Revolution
 
-For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — X-ray crystallography, NMR spectroscopy, cryo-electron microscopy — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
+For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — [X-ray crystallography](/x-ray-[crystallography](/crystallography)), NMR spectroscopy, cryo-[electron microscopy](/electron-microscopy) — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
 
 In 2020, DeepMind's AlphaFold AI system solved the structure prediction problem. At the Critical Assessment of Structure Prediction (CASP14) competition, AlphaFold predicted protein structures with accuracy matching experimental methods — a result that stunned the scientific community.
 
-By 2022, AlphaFold had predicted structures for over 200 million proteins — essentially every protein from every organism whose genome had been sequenced. This database, freely available, is accelerating research in drug design, enzyme engineering, and evolutionary biology. It's not an exaggeration to call it one of the most impactful applications of AI to date.
+By 2022, AlphaFold had predicted structures for over 200 million proteins — essentially every protein from every organism whose genome had been sequenced. This database, freely available, is accelerating research in drug design, enzyme engineering, and [evolutionary biology](/evolutionary-biology). It's not an exaggeration to call it one of the most impactful applications of AI to date.
 
 ## Enzymes: Proteins That Make Chemistry Happen
 
@@ -151,13 +151,13 @@ Studying how fast enzymes work — enzyme kinetics — reveals critical informat
 - At high concentrations, the enzyme is saturated — every enzyme molecule already has a substrate bound — and the rate plateaus at a maximum velocity (Vmax).
 - The Michaelis constant (Km) represents the substrate concentration at which the reaction rate is half of Vmax — a measure of how tightly the enzyme binds its substrate.
 
-This framework, developed in 1913 by Leonor Michaelis and Maud Menten, remains fundamental to [biochemistry](/biochemistry) and pharmacology. Drug design often targets enzymes by creating molecules that bind more tightly than the natural substrate (competitive inhibitors) or that alter the enzyme's shape (allosteric inhibitors).
+This framework, developed in 1913 by Leonor Michaelis and Maud Menten, remains fundamental to [biochemistry](/biochemistry) and [pharmacology](/pharmacology). Drug design often targets enzymes by creating molecules that bind more tightly than the natural substrate (competitive inhibitors) or that alter the enzyme's shape (allosteric inhibitors).
 
 ## Analytical Techniques: How We Study Proteins
 
 ### X-ray Crystallography
 
-The workhorse of structural biology for 60+ years. A protein is crystallized, then bombarded with X-rays. The diffraction pattern reveals the positions of atoms in the crystal. Over 170,000 protein structures in the Protein Data Bank were determined by X-ray crystallography.
+The workhorse of [structural biology](/structural-biology) for 60+ years. A protein is crystallized, then bombarded with X-rays. The diffraction pattern reveals the positions of atoms in the crystal. Over 170,000 protein structures in the Protein Data Bank were determined by X-ray crystallography.
 
 The catch: the protein must form crystals, which many proteins refuse to do. Membrane proteins and large, flexible complexes are particularly recalcitrant.
 

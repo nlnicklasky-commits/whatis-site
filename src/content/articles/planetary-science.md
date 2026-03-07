@@ -5,7 +5,7 @@ description: "Planetary science studies planets, moons, and other bodies in our 
 category: science
 tags: ["astronomy", "planets", "space", "solar system", "exoplanets", "astrobiology", "geology"]
 heroImage: "/images/articles/planetary-science-hero.webp"
-heroAlt: "Composite image of planets in the solar system studied by planetary scientists"
+heroAlt: "Editorial photograph representing the concept of planetary science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -101,7 +101,7 @@ Small bodies are planetary science's time capsules --- relatively unchanged sinc
 
 **Comets** are icy bodies from the outer solar system. When they approach the Sun, their ices sublimate, creating spectacular tails. ESA's Rosetta mission orbited comet 67P/Churyumov-Gerasimenko in 2014-2016, landing the Philae probe on its surface and discovering organic molecules, including the amino acid glycine.
 
-**Kuiper Belt objects**, including Pluto and Eris, orbit beyond Neptune. New Horizons' flyby of Pluto in 2015 revealed a far more complex world than expected: nitrogen glaciers, possible cryovolcanoes, a thin atmosphere, and a probable subsurface ocean. Pluto's "heart" (Sputnik Planitia), a vast basin of nitrogen ice, became one of the most iconic images in space exploration history.
+**Kuiper Belt objects**, including Pluto and Eris, orbit beyond Neptune. New Horizons' flyby of Pluto in 2015 revealed a far more complex world than expected: nitrogen glaciers, possible cryovolcanoes, a thin atmosphere, and a probable subsurface ocean. Pluto's "heart" (Sputnik Planitia), a vast basin of nitrogen ice, became one of the most iconic images in space [exploration history](/exploration-history).
 
 ## Exoplanets: Other Solar Systems
 
@@ -136,13 +136,13 @@ These models make testable predictions about asteroid compositions, Kuiper Belt 
 
 This is the question that captures public imagination and drives significant funding. Planetary science approaches it through astrobiology --- the study of life's potential in the universe.
 
-The search focuses on liquid water (essential for all known life), energy sources (sunlight, chemical energy, tidal heating), and organic chemistry. Multiple solar system bodies meet these criteria to varying degrees: Mars, Europa, Enceladus, Titan, and possibly Venus's cloud deck.
+The search focuses on liquid water (essential for all known life), energy sources (sunlight, chemical energy, tidal heating), and [organic chemistry](/organic-chemistry). Multiple solar system bodies meet these criteria to varying degrees: Mars, Europa, Enceladus, Titan, and possibly Venus's cloud deck.
 
 Finding even microbial life beyond Earth would change everything. It would mean life isn't a one-time accident but a natural outcome of the right conditions --- implying that the universe could be teeming with it.
 
 ### What Happens to Planets Over Time?
 
-Planetary evolution is a central theme. Earth, Venus, and Mars started with similar compositions and sizes but diverged radically. Earth kept its water and developed plate tectonics. Venus underwent a runaway greenhouse effect. Mars lost its atmosphere and surface water. Understanding why --- what tipped each planet toward its current state --- is critical for understanding whether Earth-like conditions are common or rare in the universe.
+Planetary evolution is a central theme. Earth, Venus, and Mars started with similar compositions and sizes but diverged radically. Earth kept its water and developed [plate tectonics](/plate-tectonics). Venus underwent a runaway greenhouse effect. Mars lost its atmosphere and surface water. Understanding why --- what tipped each planet toward its current state --- is critical for understanding whether Earth-like conditions are common or rare in the universe.
 
 ## How We Explore
 

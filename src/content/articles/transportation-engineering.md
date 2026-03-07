@@ -5,7 +5,7 @@ description: "Transportation engineering designs and maintains systems that move
 category: technology
 tags: ["transportation engineering", "civil engineering", "infrastructure"]
 heroImage: "/images/articles/transportation-engineering.webp"
-heroAlt: "Split image showing a highway interchange, train tracks, and an airport runway illustrating multimodal transportation"
+heroAlt: "Editorial photograph representing the concept of transportation engineering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Transportation Engineering?
 
-Transportation engineering is the branch of [civil engineering](/civil-engineering) concerned with the planning, design, construction, operation, and maintenance of systems that move people and goods. It covers highways, railroads, airports, ports, transit systems, pipelines, and pedestrian and bicycle infrastructure — essentially, every physical system humans use to get from one place to another.
+Transportation engineering is the branch of [civil engineering](/civil-engineering) concerned with the planning, design, [construction](/construction), operation, and maintenance of systems that move people and goods. It covers highways, railroads, airports, ports, transit systems, pipelines, and pedestrian and bicycle infrastructure — essentially, every physical system humans use to get from one place to another.
 
 ## Moving the World, One System at a Time
 
@@ -55,9 +55,9 @@ Transportation engineering breaks down into several overlapping specialties, eac
 
 This is the largest subspecialty by far. Highway engineers design everything from rural two-lane roads to 16-lane urban freeways. The work includes:
 
-**Geometric design** — determining the horizontal and vertical alignment of a road. This means deciding curve radii, sight distances, lane widths, shoulder widths, superelevation (banking of curves), and grades. Every decision follows standards published in the AASHTO Green Book, which are derived from vehicle dynamics, human factors research, and decades of crash data.
+**Geometric design** — determining the horizontal and vertical alignment of a road. This means deciding curve radii, sight distances, lane widths, shoulder widths, superelevation (banking of curves), and grades. Every decision follows standards published in the AASHTO Green Book, which are derived from vehicle dynamics, [human factors](/human-factors) research, and decades of crash data.
 
-The physics behind geometric design is straightforward — a vehicle on a curve needs centripetal force to maintain its path, and that force comes from tire friction and road banking. But applying these principles to real terrain, with real budget constraints and real environmental impacts, is anything but simple. A mountain highway might require dozens of horizontal curves, each designed for a specific speed and sight distance, transitioning smoothly between straight sections and curves using spiral curves that gradually increase curvature.
+The [physics](/physics) behind geometric design is straightforward — a vehicle on a curve needs centripetal force to maintain its path, and that force comes from tire friction and road banking. But applying these principles to real terrain, with real budget constraints and real environmental impacts, is anything but simple. A mountain highway might require dozens of horizontal curves, each designed for a specific speed and sight distance, transitioning smoothly between straight sections and curves using spiral curves that gradually increase curvature.
 
 **Pavement design** — choosing the pavement structure and materials. There are two basic types: flexible (asphalt) and rigid (concrete). Asphalt is cheaper to construct and easier to repair but has a shorter lifespan (15-20 years). Concrete costs more upfront but lasts 30-40 years and performs better under heavy truck traffic. The design process considers traffic loading (especially heavy trucks — one 80,000-pound truck does as much pavement damage as roughly 10,000 passenger cars), climate, subgrade soil conditions, and drainage.
 
@@ -90,13 +90,13 @@ Airport engineering covers runway design, taxiway layout, terminal planning, air
 
 Airport pavement takes a beating. A Boeing 747 exerts pavement loads of about 800 psi through its landing gear. Compare that to about 30 psi from a passenger car. Airport pavements are therefore much thicker — often 18-24 inches of Portland cement concrete over compacted base layers.
 
-The airside (runways, taxiways, aprons) and landside (terminals, parking, access roads) present different engineering challenges. Airside design is governed by FAA Advisory Circulars and requires extensive safety analysis. Landside design involves the same traffic engineering and roadway design principles as any major facility, plus complex pedestrian flow analysis for terminal buildings.
+The airside (runways, taxiways, aprons) and landside (terminals, parking, access roads) present different engineering challenges. Airside design is governed by FAA Advisory Circulars and requires extensive safety analysis. Landside design involves the same [traffic engineering](/traffic-engineering) and roadway design principles as any major facility, plus complex pedestrian flow analysis for terminal buildings.
 
 ### Railroad Engineering
 
 Rail engineering covers track design, signaling, grade crossings, and terminal facilities. The rail network moves about 40% of U.S. freight by ton-miles — more than any other mode. Railroads are energy-efficient: a single freight train can move a ton of cargo about 480 miles on one gallon of fuel, roughly four times the efficiency of trucks.
 
-Track structure consists of rails, ties (wooden, concrete, or steel), ballast (crushed stone), and subgrade. Rail weight ranges from 90 pounds per yard on light-duty lines to 141 pounds per yard on heavy mainlines. Track geometry — the alignment, profile, cross-level, and gauge — is maintained to precise tolerances. A quarter-inch deviation in gauge can derail a train.
+Track structure consists of rails, ties (wooden, concrete, or steel), ballast (crushed stone), and subgrade. Rail weight ranges from 90 pounds per yard on light-duty lines to 141 pounds per yard on heavy mainlines. Track [geometry](/geometry) — the alignment, profile, cross-level, and gauge — is maintained to precise tolerances. A quarter-inch deviation in gauge can derail a train.
 
 High-speed rail, which operates at speeds above 150 mph, requires entirely different engineering standards: smoother alignments, larger curve radii, slab track (replacing ballast with concrete for stability), and advanced signaling. The only true high-speed rail line in North America is Amtrak's Acela service in the Northeast Corridor, with a maximum speed of 150 mph — modest compared to France's TGV (200 mph) or Japan's Shinkansen (200 mph) or China's CRH (220 mph).
 
@@ -140,7 +140,7 @@ The U.S. freight system is a multimodal network:
 - **Trucks** carry about 72% of freight by value and 65% by weight. They dominate short-haul and door-to-door delivery.
 - **Railroads** carry about 28% by weight but only 5% of shipments by number. They dominate long-haul bulk commodities: coal, grain, chemicals, intermodal containers.
 - **Water** (inland waterways, coastal shipping, and Great Lakes) carries about 8% by weight — heavy, low-value cargo like petroleum, aggregate, and grain.
-- **Air** carries less than 1% by weight but about 5% by value — high-value, time-sensitive goods like electronics, pharmaceuticals, and e-commerce packages.
+- **Air** carries less than 1% by weight but about 5% by value — high-value, time-sensitive goods like [electronics](/electronics), pharmaceuticals, and e-commerce packages.
 - **Pipelines** carry about 15% by weight — petroleum products and natural gas.
 
 Transportation engineers design the facilities where these modes connect: intermodal terminals, port container yards, distribution centers, and truck-rail transfer points. Efficient intermodal connections are critical because most freight trips involve multiple modes — a container might travel by ship from Shanghai to Long Beach, by rail from Long Beach to Chicago, and by truck from Chicago to a warehouse in Indianapolis.
@@ -157,10 +157,10 @@ Transportation accounts for about 29% of U.S. greenhouse gas emissions — the l
 
 **Vehicle electrification** is the most visible strategy. Transportation engineers are designing charging infrastructure — where to put chargers, how to power them, how to integrate them with the electrical grid. A nationwide network of DC fast chargers every 50 miles along interstate highways (as envisioned by the National Electric Vehicle Infrastructure program) requires careful site selection, electrical capacity analysis, and traffic operations planning.
 
-**Mode shift** — getting people out of single-occupancy vehicles and into transit, cycling, or walking — requires infrastructure investment. Protected bike lanes, pedestrian-friendly street designs, and transit expansion all fall under transportation engineering. Cities that have invested in these systems (Copenhagen, Amsterdam, Tokyo) demonstrate that mode shift is possible at scale, but it requires sustained commitment and good engineering.
+**Mode shift** — getting people out of single-occupancy vehicles and into transit, [cycling](/cycling), or walking — requires infrastructure investment. Protected bike lanes, pedestrian-friendly street designs, and transit expansion all fall under transportation engineering. Cities that have invested in these systems (Copenhagen, Amsterdam, Tokyo) demonstrate that mode shift is possible at scale, but it requires sustained commitment and good engineering.
 
 **Freight efficiency** improvements include longer and heavier trucks (controversial but efficient), aerodynamic improvements, platooning (trucks following closely in coordinated groups to reduce air resistance), and shifting more freight to rail and water — both far more energy-efficient than trucking per ton-mile.
 
 **Resilient design** is becoming essential as climate change increases the frequency and intensity of extreme weather. Roads designed for historical flood levels may be inadequate for future conditions. Coastal infrastructure faces rising seas. Permafrost thawing threatens roads and runways in Alaska and northern Canada. Transportation engineers are incorporating climate projections into design standards — a fundamental shift from the historical practice of designing for past conditions.
 
-Transportation engineering is, ultimately, about connections. Every road, rail line, runway, and bike path connects people to opportunities — jobs, education, healthcare, social life. The quality of those connections shapes economic productivity, social equity, environmental health, and quality of life. Getting them right is one of the most important — and most underappreciated — engineering challenges of our time.
+Transportation engineering is, ultimately, about connections. Every road, rail line, runway, and bike path connects people to opportunities — jobs, [education](/education), healthcare, social life. The quality of those connections shapes economic [productivity](/productivity), social equity, environmental health, and quality of life. Getting them right is one of the most important — and most underappreciated — engineering challenges of our time.

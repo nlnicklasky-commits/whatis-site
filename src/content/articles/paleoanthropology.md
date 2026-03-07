@@ -5,7 +5,7 @@ description: "Paleoanthropology studies human evolution through fossil evidence.
 category: everyday-concepts
 tags: ["paleoanthropology", "human evolution", "fossils", "archaeology", "hominids", "anthropology"]
 heroImage: "/images/articles/paleoanthropology.webp"
-heroAlt: "A scientist carefully examining an ancient hominid skull fossil in a laboratory setting"
+heroAlt: "Editorial photograph representing the concept of paleoanthropology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Paleoanthropology?
 
-Paleoanthropology is the scientific study of human evolution — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines physical anthropology, archaeology, geology, and genetics to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
+Paleoanthropology is the scientific study of [human evolution](/human-evolution) — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines [physical anthropology](/physical-[anthropology](/anthropology)), [archaeology](/archaeology), [geology](/geology), and [genetics](/genetics) to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
 
 ## What the Fossil Record Shows
 
@@ -65,7 +65,7 @@ Paleoanthropologists work with frustratingly incomplete evidence. Fossilization 
 
 **Radiometric dating** (potassium-argon, uranium-series, and carbon-14 methods) provides age estimates for fossils and archaeological sites. The accuracy varies by method, but modern techniques can date volcanic rocks to within thousands of years over spans of millions.
 
-**Ancient DNA** has revolutionized the field since the early 2000s. Svante Paabo's lab (awarded the 2022 Nobel Prize in Physiology or Medicine) extracted and sequenced Neanderthal DNA, revealing interbreeding with modern humans. DNA from a finger bone found in Denisova Cave, Siberia, revealed an entirely new hominid species — the Denisovans — unknown from traditional fossil evidence.
+**Ancient DNA** has revolutionized the field since the early 2000s. Svante Paabo's lab (awarded the 2022 Nobel Prize in [Physiology](/physiology) or Medicine) extracted and sequenced Neanderthal DNA, revealing interbreeding with modern humans. DNA from a finger bone found in Denisova Cave, Siberia, revealed an entirely new hominid species — the Denisovans — unknown from traditional fossil evidence.
 
 **Isotopic analysis** of teeth and bones reveals diet, geographic origin, and seasonal movement patterns. Strontium isotopes in tooth enamel can tell you where an individual grew up. Carbon isotopes indicate whether the diet was based on C3 plants (fruits, leaves) or C4 plants (grasses, sedges).
 

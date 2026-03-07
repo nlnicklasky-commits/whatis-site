@@ -5,7 +5,7 @@ description: "Welding is a fabrication process that joins materials, usually met
 category: technology
 tags: ["welding", "manufacturing", "metalwork"]
 heroImage: "/images/articles/welding.webp"
-heroAlt: "A welder in protective gear creating bright sparks while joining metal pieces together"
+heroAlt: "Editorial photograph representing the concept of welding"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,9 +45,9 @@ Humans have been welding for far longer than most people realize. Forge welding 
 
 But modern welding as we know it started in the 1800s. Sir Humphry Davy demonstrated the electric arc in 1800, and by the 1880s, Russian engineer Nikolai Benardos patented carbon arc welding -- the first electric welding process. Gas welding using oxyacetylene torches appeared around 1903 and became the dominant method for the first half of the 20th century.
 
-World War I and World War II massively accelerated welding technology. The demand for ships, tanks, aircraft, and weapons drove rapid improvements in welding processes and equipment. The Liberty ships of WWII were the first major vessels built primarily with welding rather than riveting -- though some early ones famously cracked because engineers were still learning how welded steel structures behaved in cold water.
+World War I and [World War II](/world-war-ii) massively accelerated welding technology. The demand for ships, tanks, aircraft, and weapons drove rapid improvements in welding processes and equipment. The Liberty ships of WWII were the first major vessels built primarily with welding rather than riveting -- though some early ones famously cracked because engineers were still learning how welded steel structures behaved in cold water.
 
-The postwar era brought shielded metal arc welding (SMAW), gas metal arc welding (GMAW/MIG), gas tungsten arc welding (GTAW/TIG), and flux-cored arc welding (FCAW). Each solved specific problems and opened new applications. Today, welding is a $25+ billion global industry used in virtually every sector of manufacturing and construction.
+The postwar era brought shielded metal arc welding (SMAW), gas metal arc welding (GMAW/MIG), gas tungsten arc welding (GTAW/TIG), and flux-cored arc welding (FCAW). Each solved specific problems and opened new applications. Today, welding is a $25+ billion global industry used in virtually every sector of manufacturing and [construction](/construction).
 
 ## How Welding Works: The Fundamentals
 
@@ -83,7 +83,7 @@ Gas Metal Arc Welding, universally called MIG (Metal Inert Gas) welding, feeds a
 
 The wire electrode serves double duty as both the electrical conductor that creates the arc and the filler metal that builds up the joint. Wire feed speed and voltage are the primary settings, and modern MIG machines are surprisingly user-friendly -- some even have auto-set features that dial in parameters based on material thickness.
 
-MIG welding works well on steel, stainless steel, and aluminum (with the right wire and gas). It's the go-to process for automotive fabrication, structural steel, [manufacturing](/manufacturing-engineering) production lines, and general-purpose shop work. Its main limitation is wind sensitivity -- the shielding gas can blow away outdoors, creating poor welds.
+MIG welding works well on steel, stainless steel, and aluminum (with the right wire and gas). It's the go-to process for automotive fabrication, structural steel, [manufacturing](/manufacturing-[engineering](/engineering)) production lines, and general-purpose shop work. Its main limitation is wind sensitivity -- the shielding gas can blow away outdoors, creating poor welds.
 
 ### Stick Welding (SMAW)
 
@@ -105,7 +105,7 @@ The tradeoff? TIG is slow and demands significant skill. It requires both hands 
 
 Flux-cored welding looks like MIG welding -- wire-fed through a gun -- but the wire is hollow and filled with flux instead of being solid. Some FCAW processes also use external shielding gas (dual-shield), while others rely entirely on the flux for protection (self-shielded).
 
-Self-shielded FCAW is the field welder's best friend. It handles wind, works on thicker materials, and deposits metal faster than stick welding. It's dominant in structural steel erection, shipbuilding, and heavy fabrication. The welds aren't as pretty as MIG or TIG, but they're strong and efficient.
+Self-shielded FCAW is the field welder's best friend. It handles wind, works on thicker materials, and deposits metal faster than stick welding. It's dominant in structural steel erection, [shipbuilding](/shipbuilding), and heavy fabrication. The welds aren't as pretty as MIG or TIG, but they're strong and efficient.
 
 ## Specialized Welding Processes
 
@@ -119,14 +119,14 @@ Beyond the big four, several specialized processes serve specific applications.
 
 **Friction Stir Welding (FSW)** doesn't melt the base metal at all. Instead, a spinning tool generates friction heat that softens the material into a plastic state, and the tool "stirs" the two pieces together. Invented in 1991 by The Welding Institute in the UK, FSW is widely used for aluminum structures -- including aircraft fuselages and rocket fuel tanks.
 
-**Underwater Welding** involves either wet welding (directly in water, using modified stick welding) or dry welding (in a sealed hyperbaric chamber at depth). Underwater welders repair ships, offshore oil platforms, bridges, and dams. It's one of the most dangerous and highest-paying welding specialties, with divers earning $50,000 to $150,000+ annually depending on depth and conditions.
+**[Underwater Welding](/underwater-welding)** involves either wet welding (directly in water, using modified stick welding) or dry welding (in a sealed hyperbaric chamber at depth). Underwater welders repair ships, offshore oil platforms, bridges, and dams. It's one of the most dangerous and highest-paying welding specialties, with divers earning $50,000 to $150,000+ annually depending on depth and conditions.
 
 ## Joint Types and Weld Positions
 
 Welding joints fall into five basic configurations:
 
 - **Butt joint**: Two pieces placed edge-to-edge. The most common joint type, used for plates, pipes, and structural members.
-- **Lap joint**: Two pieces overlapping. Common in sheet metal work and structural connections.
+- **Lap joint**: Two pieces overlapping. Common in [sheet metal work](/sheet-metal-work) and structural connections.
 - **T-joint**: One piece perpendicular to another, forming a T shape. Used in structural frames and brackets.
 - **Corner joint**: Two pieces meeting at a corner. Common in box structures and frames.
 - **Edge joint**: Two pieces laid parallel with their edges welded together. Used for sheet metal and light structural work.

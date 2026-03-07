@@ -5,7 +5,7 @@ description: "Molecular gastronomy applies scientific methods to cooking, creati
 category: everyday-concepts
 tags: ["molecular gastronomy", "food science", "cooking", "culinary arts", "chemistry", "modernist cuisine"]
 heroImage: "/images/articles/molecular-gastronomy.webp"
-heroAlt: "Chef preparing spherified liquid drops using molecular gastronomy techniques"
+heroAlt: "Editorial photograph representing the concept of molecular gastronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Yes. Basic kits with sodium alginate, calcium chloride, agar-agar, and a syringe cost $20-40. You can make fruit caviar, flavored foams, and gelled sauces with minimal equipment. YouTube tutorials abound. It's a fun way to explore food science without needing a professional kitchen."
 ---
 
-# What Is Molecular Gastronomy?
+# What Is Molecular [Gastronomy](/gastronomy)?
 
-Molecular gastronomy is the application of scientific principles and techniques to cooking — understanding *why* food behaves the way it does and using that knowledge to create new textures, flavors, and experiences. It's where the chemistry lab meets the kitchen, and the results can be genuinely startling: olive oil that shatters like glass, cocktails served as edible spheres, foams that taste like bacon, and desserts that look like eggs but taste like mango.
+Molecular gastronomy is the application of scientific principles and techniques to [cooking](/cooking) — understanding *why* food behaves the way it does and using that knowledge to create new textures, flavors, and experiences. It's where the [chemistry](/chemistry) lab meets the kitchen, and the results can be genuinely startling: olive oil that shatters like glass, cocktails served as edible spheres, foams that taste like bacon, and desserts that look like eggs but taste like mango.
 
 The term was coined in 1988 by Hungarian physicist Nicholas Kurti and French chemist Herve This. Kurti famously lamented, "I think it is a sad reflection on our civilization that while we can and do measure the temperature in the atmosphere of Venus, we do not know what goes on inside our souffles."
 
 ## The Science
 
-Every cooking technique is chemistry and physics. Searing meat triggers the Maillard reaction (amino acids and sugars combining under heat to create hundreds of flavor compounds). Whisking egg whites traps air bubbles in a protein network. Emulsification suspends fat droplets in water. Molecular gastronomy simply makes these processes explicit and manipulates them deliberately.
+Every cooking technique is chemistry and [physics](/physics). Searing meat triggers the Maillard reaction (amino acids and sugars combining under heat to create hundreds of flavor compounds). Whisking egg whites traps air bubbles in a protein network. Emulsification suspends fat droplets in water. Molecular gastronomy simply makes these processes explicit and manipulates them deliberately.
 
 Key scientific principles used include:
 
@@ -75,6 +75,6 @@ The movement's defenders argue that every culinary technique was once new — ro
 
 ## At Home
 
-You don't need a laboratory. Basic molecular gastronomy kits are cheap and fun. Start with fruit caviar (spherification), flavored foams (lecithin), or agar gels. The internet is full of accessible tutorials. It's essentially food science for curious cooks — and the results, when they work, are genuinely impressive at dinner parties.
+You don't need a laboratory. Basic molecular gastronomy kits are cheap and fun. Start with fruit caviar (spherification), flavored foams (lecithin), or agar gels. The internet is full of accessible tutorials. It's essentially [food science](/food-science) for curious cooks — and the results, when they work, are genuinely impressive at dinner parties.
 
 The lasting contribution of molecular gastronomy isn't the foam or the liquid nitrogen — it's the mindset. Understanding *why* cooking works the way it does makes you a better cook, whether you're making sous vide short ribs or scrambled eggs.

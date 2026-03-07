@@ -5,7 +5,7 @@ description: "Forestry is the science and practice of managing forests for timbe
 category: science
 tags: ["forests", "conservation", "sustainability", "ecology", "timber", "natural resources", "environmental science"]
 heroImage: "/images/articles/forestry-hero.webp"
-heroAlt: "A managed forest with a mix of mature trees and young growth under a sunlit canopy"
+heroAlt: "Editorial photograph representing the concept of forestry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Forestry?
 
-Forestry is the science, art, and practice of managing forests, woodlands, and associated resources for human benefit and ecological health. It encompasses growing, protecting, and harvesting trees, managing wildlife habitat, protecting watersheds, storing carbon, providing recreation, and maintaining the biological diversity of forest ecosystems. Forests cover roughly 31% of Earth's land area — about 4.06 billion hectares — making forestry one of the most geographically significant land management disciplines.
+Forestry is the science, art, and practice of managing forests, woodlands, and associated resources for human benefit and ecological health. It encompasses growing, protecting, and harvesting trees, managing wildlife habitat, protecting watersheds, storing carbon, providing recreation, and maintaining the biological diversity of forest ecosystems. Forests cover roughly 31% of Earth's land area — about 4.06 billion hectares — making forestry one of the most geographically significant land [management](/management) disciplines.
 
 ## Why Forests Matter (By the Numbers)
 
@@ -49,7 +49,7 @@ Those numbers make the management of forests one of the most consequential human
 
 Humans have managed forests for millennia — Indigenous peoples worldwide used fire, selective harvesting, and other techniques to shape forest composition long before European colonization. But forestry as a formal science originated in 18th-century Germany, where sustained yield management developed out of concern over timber shortages.
 
-The German model — plant trees in organized stands, thin them at intervals, harvest at maturity, and replant — spread across Europe and eventually to North America. Gifford Pinchot, trained in European forestry, became the first chief of the U.S. Forest Service in 1905. His philosophy — "the greatest good for the greatest number for the longest time" — defined American forestry for generations.
+The German model — plant trees in organized stands, thin them at intervals, harvest at maturity, and replant — spread across Europe and eventually to North America. Gifford Pinchot, trained in European forestry, became the first chief of the U.S. Forest Service in 1905. His [philosophy](/philosophy) — "the greatest good for the greatest number for the longest time" — defined American forestry for generations.
 
 But the 20th century revealed the limitations of purely utilitarian forestry. Clear-cutting practices left devastated landscapes. Monoculture plantations proved vulnerable to pests and disease. Old-growth forests disappeared at alarming rates. Aldo Leopold's "land ethic" (1949) and the environmental movement of the 1960s-70s pushed forestry toward a more ecological approach.
 
@@ -95,7 +95,7 @@ Growing trees is only half the job. Protecting them from fire, pests, disease, a
 
 Fire and forests have coexisted for millions of years. Many forest types — ponderosa pine forests of the western U.S., longleaf pine savannas of the Southeast, boreal forests of Canada — are fire-dependent ecosystems that require periodic burning to maintain their health and composition.
 
-A century of fire suppression in the United States created a paradox: by preventing small, frequent fires, we allowed fuel to accumulate to the point where fires, when they inevitably occurred, were catastrophic. The 2020 California fire season burned over 4.2 million acres and destroyed more than 10,000 structures. The 2023 Canadian wildfire season burned over 18 million hectares — the worst in Canadian history.
+A century of fire suppression in the United States created a paradox: by preventing small, frequent fires, we allowed fuel to accumulate to the point where fires, when they inevitably occurred, were catastrophic. The 2020 California fire season burned over 4.2 million acres and destroyed more than 10,000 structures. The 2023 Canadian wildfire season burned over 18 million hectares — the worst in [Canadian history](/canadian-history).
 
 Modern forest fire management includes:
 
@@ -159,13 +159,13 @@ As of 2024, approximately 440 million hectares of forest worldwide are certified
 
 Trees in cities are managed under a specialized branch of forestry with its own challenges and priorities.
 
-Urban trees provide measurable benefits: shade reduces air conditioning costs (a single mature tree can reduce cooling costs for a nearby building by 20-30%), tree-lined streets increase property values by 10-20%, urban canopy reduces stormwater runoff, and tree cover correlates with lower rates of heat-related illness and death.
+Urban trees provide measurable benefits: shade reduces [air conditioning](/air-conditioning) costs (a single mature tree can reduce cooling costs for a nearby building by 20-30%), tree-lined streets increase property values by 10-20%, urban canopy reduces stormwater runoff, and tree cover correlates with lower rates of heat-related illness and death.
 
-But urban trees face unique stresses: compacted soil, limited root space, road salt, air pollution, heat island effects, construction damage, and conflicts with underground utilities. Managing urban forests requires different skills and knowledge than managing wildland forests.
+But urban trees face unique stresses: compacted soil, limited root space, road salt, air pollution, heat island effects, [construction](/construction) damage, and conflicts with underground utilities. Managing urban forests requires different skills and knowledge than managing wildland forests.
 
 Tree risk assessment is a critical urban forestry function. Dead branches over sidewalks, root decay undermining structural stability, trees weakened by storm damage — urban foresters must identify and manage these risks to protect public safety while preserving the benefits that urban trees provide.
 
-## The Economics of Forestry
+## The [Economics](/economics) of Forestry
 
 Forestry is a long-game business. You plant a tree today and harvest it 25-100 years from now. This time horizon creates unique economic challenges.
 
@@ -173,7 +173,7 @@ The concept of **sustained yield** — managing the forest so that annual harves
 
 **Timber stumpage prices** vary enormously by species, quality, and market conditions. High-quality black walnut veneer logs have sold for over $20,000 per thousand board feet. Construction-grade pine lumber typically trades at $300-$600 per thousand board feet. The difference — orders of magnitude — drives foresters to grow high-value products when possible.
 
-Increasingly, forests generate income from non-timber sources: carbon credits (paid for storing carbon), conservation easements (paid for maintaining forest cover), hunting leases, recreation fees, and payments for watershed protection.
+Increasingly, forests generate income from non-timber sources: carbon credits (paid for storing carbon), conservation easements (paid for maintaining forest cover), [hunting](/hunting) leases, recreation fees, and payments for watershed protection.
 
 ## Key Takeaways
 

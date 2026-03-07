@@ -5,7 +5,7 @@ description: "Cocktail making is the art and science of mixing drinks. Learn abo
 category: everyday-concepts
 tags: ["cocktail making", "mixology", "cocktails", "drinks", "bartending", "culinary arts"]
 heroImage: "/images/articles/cocktail-making.webp"
-heroAlt: "A bartender pouring a layered cocktail through a strainer into a coupe glass"
+heroAlt: "Editorial photograph representing the concept of cocktail making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"

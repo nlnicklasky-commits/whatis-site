@@ -5,7 +5,7 @@ description: "Amateur radio (ham radio) explained: licensing, frequencies, equip
 category: technology
 tags: ["amateur radio", "ham radio", "radio", "shortwave", "electronics", "communication", "fcc"]
 heroImage: "/images/articles/amateur-radio-hero.webp"
-heroAlt: "Amateur radio operator at a desk with a transceiver, microphone, and antenna equipment"
+heroAlt: "Editorial photograph representing the concept of amateur radio"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,13 +41,13 @@ Amateur radio -- often called ham radio -- is a licensed radio service that lets
 
 ## How Did We Get Here? A Quick History
 
-The story of amateur radio starts before broadcasting even existed. In the early 1900s, after Guglielmo Marconi demonstrated transatlantic wireless telegraphy in 1901, hobbyists started building their own spark-gap transmitters in basements and garages. These early experimenters were literally inventing radio communication alongside the professionals.
+The story of amateur radio starts before [broadcasting](/broadcasting) even existed. In the early 1900s, after Guglielmo Marconi demonstrated transatlantic wireless telegraphy in 1901, hobbyists started building their own spark-gap transmitters in basements and garages. These early experimenters were literally inventing radio communication alongside the professionals.
 
 By 1912, there were enough amateur operators causing interference with military and commercial stations that the U.S. passed the Radio Act of 1912 -- the first legislation to regulate radio. Amateurs got pushed to wavelengths below 200 meters (above 1.5 MHz), which the government considered useless. Here's the twist: those "useless" frequencies turned out to be fantastic for long-distance communication. In 1923, amateurs achieved the first two-way transatlantic shortwave contact, proving that short wavelengths could bounce off the ionosphere and travel thousands of miles. The professionals had gotten it wrong.
 
-World War II shut down amateur radio in most countries, but operators flooded into military communications roles. Their skills were genuinely critical to the war effort. After the war ended, ham radio exploded in popularity. The post-war decades saw massive growth, technical innovation driven by surplus military equipment, and the establishment of amateur radio as a serious public service.
+[World War II](/world-war-ii) shut down amateur radio in most countries, but operators flooded into military communications roles. Their skills were genuinely critical to the war effort. After the war ended, ham radio exploded in popularity. The post-war decades saw massive growth, technical innovation driven by surplus military equipment, and the establishment of amateur radio as a serious public service.
 
-The hobby has continued evolving through every major technology shift -- transistors replacing vacuum tubes in the 1960s, digital modes emerging in the 1980s, software-defined radios appearing in the 2000s, and internet-linked repeater systems connecting operators globally. What started as spark gaps and crystal sets now includes satellite communication, moon-bounce signals, and digital protocols that pull signals out of noise floors that would make voice communication impossible.
+The hobby has continued evolving through every major technology shift -- transistors replacing vacuum tubes in the 1960s, digital modes emerging in the 1980s, software-defined radios appearing in the 2000s, and internet-linked repeater systems connecting operators globally. What started as spark gaps and crystal sets now includes [satellite communication](/satellite-communication), moon-bounce signals, and digital protocols that pull signals out of noise floors that would make voice communication impossible.
 
 ## The License System: Your Ticket to the Airwaves
 
@@ -59,15 +59,15 @@ The FCC offers three license classes, each granting progressively more privilege
 
 This is where everyone starts. The exam covers basic radio theory, regulations, operating practices, and electronic fundamentals -- 35 multiple-choice questions, and you need 26 correct to pass. A Technician license gives you full access to frequencies above 30 MHz, which means you can use VHF and UHF bands for local and regional communication through repeaters. You also get limited privileges on some HF (shortwave) bands.
 
-Most people study for a few weeks using free online resources or a book like the ARRL License Manual. The pass rate is high. You don't need an engineering degree -- you need basic understanding and some memorization.
+Most people study for a few weeks using free online resources or a book like the ARRL License Manual. The pass rate is high. You don't need an [engineering](/engineering) degree -- you need basic understanding and some memorization.
 
 ### General Class
 
-The General license opens up the HF bands, and that's where the real magic happens. HF signals bounce off the ionosphere and can travel worldwide. With a General license and a modest antenna, you can talk to someone in Japan, Brazil, or South Africa from your backyard. The exam adds 35 more questions covering radio wave propagation, HF operating practices, and more advanced electronics.
+The General license opens up the HF bands, and that's where the real magic happens. HF signals bounce off the ionosphere and can travel worldwide. With a General license and a modest antenna, you can talk to someone in Japan, Brazil, or South Africa from your backyard. The exam adds 35 more questions covering radio wave propagation, HF operating practices, and more advanced [electronics](/electronics).
 
 ### Amateur Extra
 
-The top tier. Extra class licensees get access to every amateur frequency, including exclusive sub-bands where you'll find less crowding and often better operators. The exam is the hardest -- 50 questions covering advanced electronics, signal processing, and radio theory. About 20% of U.S. amateurs hold an Extra class license.
+The top tier. Extra class licensees get access to every amateur frequency, including exclusive sub-bands where you'll find less crowding and often better operators. The exam is the hardest -- 50 questions covering advanced electronics, [signal processing](/signal-processing), and radio theory. About 20% of U.S. amateurs hold an Extra class license.
 
 License exams are administered by volunteer examiners (other licensed amateurs) through organizations like the ARRL VEC. You can find exam sessions at local ham clubs, hamfests, and increasingly online. The FCC charges a $35 application fee, though the exam sessions themselves are often free or just a few dollars.
 
@@ -75,7 +75,7 @@ Once licensed, you receive a call sign -- a unique identifier like W1AW or KD9XY
 
 ## The Radio Spectrum: A Massive Playground
 
-One thing that surprises newcomers is just how much spectrum amateur radio operators can access. The ITU (International Telecommunication Union) allocates amateur bands from 1.8 MHz all the way up to 275 GHz. That's an enormous range, and different frequencies behave in completely different ways.
+One thing that surprises newcomers is just how much spectrum amateur radio operators can access. The ITU (International [Telecommunication](/telecommunication) Union) allocates amateur bands from 1.8 MHz all the way up to 275 GHz. That's an enormous range, and different frequencies behave in completely different ways.
 
 ### HF Bands (1.8-30 MHz)
 
@@ -141,7 +141,7 @@ Designed for vehicle installation, mobile radios offer more power (typically 50 
 
 ### HF Transceivers
 
-This is the heart of a serious amateur station. An HF transceiver covers the shortwave bands and lets you communicate worldwide. Entry-level HF radios like the Icom IC-7300 or Yaesu FT-891 cost $700-1,200. Premium models from Elecraft, Flex Radio, or the Icom IC-7851 can exceed $10,000 and include features like software-defined architecture, built-in spectrum displays, and exceptional receiver performance.
+This is the heart of a serious amateur station. An HF transceiver covers the shortwave bands and lets you communicate worldwide. Entry-level HF radios like the Icom IC-7300 or Yaesu FT-891 cost $700-1,200. Premium models from Elecraft, Flex Radio, or the Icom IC-7851 can exceed $10,000 and include features like software-defined [architecture](/architecture), built-in spectrum displays, and exceptional receiver performance.
 
 ### Antennas
 

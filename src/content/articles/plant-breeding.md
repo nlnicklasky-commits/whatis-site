@@ -5,7 +5,7 @@ description: "Plant breeding is the science of changing plant genetics to develo
 category: technology
 tags: ["agriculture", "plants", "genetics", "crops", "breeding", "food security", "biotechnology"]
 heroImage: "/images/articles/plant-breeding-hero.webp"
-heroAlt: "Rows of experimental crop varieties growing in a plant breeding research field"
+heroAlt: "Editorial photograph representing the concept of plant breeding"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

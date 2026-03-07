@@ -5,7 +5,7 @@ description: "Hydroponics is soilless plant growing using nutrient-rich water. L
 category: technology
 tags: ["hydroponics", "soilless growing", "agriculture", "gardening", "controlled environment", "urban farming", "nutrients"]
 heroImage: "/images/articles/hydroponics-hero.webp"
-heroAlt: "Rows of green lettuce growing in a hydroponic system with nutrient solution visible"
+heroAlt: "Editorial photograph representing the concept of hydroponics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -55,17 +55,17 @@ The Hanging Gardens of Babylon (if they existed — historians still argue about
 
 Scientific hydroponics began in the 1600s when Jan Baptist van Helmont ran his famous willow tree experiment, growing a tree in a measured quantity of soil and proving that most of the tree's mass came from water, not soil. By the 1800s, German botanists Julius von Sachs and Wilhelm Knop had identified the specific mineral elements plants need and grown plants entirely in nutrient solutions.
 
-The term "hydroponics" itself was coined in 1937 by William Frederick Gericke at the University of California, Berkeley. He grew tomato vines 25 feet tall in mineral nutrient solutions, generating massive public interest. During World War II, the U.S. military used hydroponic systems to grow fresh vegetables for troops on barren Pacific islands where soil-based farming was impossible.
+The term "hydroponics" itself was coined in 1937 by William Frederick Gericke at the University of California, Berkeley. He grew tomato vines 25 feet tall in mineral nutrient solutions, generating massive public interest. During [World War II](/world-war-ii), the U.S. military used hydroponic systems to grow fresh vegetables for troops on barren Pacific islands where soil-based farming was impossible.
 
 ## How Plants Eat: The Science Behind It
 
-To understand hydroponics, you need to understand plant nutrition. It's simpler than you might think.
+To understand hydroponics, you need to understand plant [nutrition](/nutrition). It's simpler than you might think.
 
 Plants need 17 essential elements to grow. Three come from air and water: carbon, hydrogen, and oxygen. The remaining 14 come from the growing medium — or in hydroponics, from the nutrient solution.
 
 The "macronutrients" needed in larger quantities are nitrogen (N), phosphorus (P), potassium (K), calcium (Ca), magnesium (Mg), and sulfur (S). The "micronutrients" — needed in tiny amounts but still essential — include iron, manganese, boron, zinc, copper, molybdenum, chlorine, and nickel.
 
-In soil, these elements exist in mineral form, bound to particles, dissolved in soil water, or cycling through organic matter decomposition. Plants can only absorb them in specific ionic forms dissolved in water. So even in soil, plants are essentially eating through a hydroponic process at the root level — they absorb dissolved ions from soil water, not chunks of dirt.
+In soil, these elements exist in mineral form, bound to particles, dissolved in soil water, or [cycling](/cycling) through organic matter decomposition. Plants can only absorb them in specific ionic forms dissolved in water. So even in soil, plants are essentially eating through a hydroponic process at the root level — they absorb dissolved ions from soil water, not chunks of dirt.
 
 Hydroponics cuts out the middleman. Instead of hoping the soil contains the right minerals in the right forms at the right concentrations, you mix a precise nutrient solution. You control everything.
 
@@ -119,7 +119,7 @@ Aeroponics delivers the best oxygen exposure of any system, often producing the 
 
 The passive approach. A plant sits in a net pot above a container of nutrient solution. The roots grow down into the solution, but a deliberate air gap is maintained between the solution surface and the net pot. As the plant drinks the solution, the water level drops, and the exposed upper roots absorb oxygen from the air gap.
 
-No pumps. No electricity. No moving parts. Just a container, a lid, a net pot, and nutrient solution. The Kratky method was developed by B.A. Kratky at the University of Hawaii and is perfect for beginners and small-scale growers. Its limitation: it works best for smaller, faster-growing crops like lettuce and herbs. Large, long-season crops exhaust the nutrient supply before reaching maturity.
+No pumps. No [electricity](/electricity). No moving parts. Just a container, a lid, a net pot, and nutrient solution. The Kratky method was developed by B.A. Kratky at the University of Hawaii and is perfect for beginners and small-scale growers. Its limitation: it works best for smaller, faster-growing crops like lettuce and herbs. Large, long-season crops exhaust the nutrient supply before reaching maturity.
 
 ## Growing Media: Soil Substitutes
 
@@ -147,13 +147,13 @@ The most visible trend in commercial hydroponics is vertical farming — stackin
 
 Vertical farms use 95% less water than field [agriculture](/agriculture) and can be located in urban areas, dramatically reducing transportation distances and food waste. A vertical farm in Newark, New Jersey can deliver lettuce to Manhattan grocery stores within hours of harvest, compared to the 5-7 day journey for lettuce trucked from California.
 
-The catch? Energy costs. Indoor lighting consumes enormous electricity. Even with highly efficient LED systems, energy typically represents 25-30% of a vertical farm's operating costs. This is why most vertical farms focus on high-value, fast-growing crops like leafy greens and herbs rather than calorie-dense staples like wheat or rice. The economics simply don't work for low-value crops that need months of lighting.
+The catch? Energy costs. Indoor lighting consumes enormous electricity. Even with highly efficient LED systems, energy typically represents 25-30% of a vertical farm's operating costs. This is why most vertical farms focus on high-value, fast-growing crops like leafy greens and herbs rather than calorie-dense staples like wheat or rice. The [economics](/economics) simply don't work for low-value crops that need months of lighting.
 
 ### Greenhouse Hydroponics
 
 The Netherlands produces $11.2 billion in agricultural exports annually — second only to the United States — from a country smaller than West Virginia. How? Largely through greenhouse hydroponics. Dutch greenhouse tomato yields average 150 pounds per square meter per year, roughly 10 times the open-field average.
 
-Greenhouse operations use natural sunlight supplemented by artificial lighting, dramatically reducing energy costs compared to fully indoor vertical farms. Climate control — heating, cooling, humidity management, CO2 enrichment — creates optimal growing conditions year-round.
+Greenhouse operations use natural sunlight supplemented by artificial lighting, dramatically reducing energy costs compared to fully indoor vertical farms. Climate control — heating, cooling, humidity [management](/management), CO2 enrichment — creates optimal growing conditions year-round.
 
 ### Container Farms
 
@@ -181,7 +181,7 @@ Indoor and greenhouse hydroponic systems dramatically reduce pesticide use. No s
 
 Here's the uncomfortable truth. Indoor hydroponic systems — especially vertical farms — consume substantial energy for lighting, climate control, and pumping. If that energy comes from fossil fuels, the carbon footprint per calorie can exceed conventional [agriculture](/agriculture).
 
-The equation changes with renewable energy. A vertical farm powered by solar or wind energy has a dramatically lower environmental impact. But as of 2026, most grid electricity still involves significant fossil fuel generation in most regions.
+The equation changes with [renewable energy](/renewable-energy). A vertical farm powered by solar or wind energy has a dramatically lower environmental impact. But as of 2026, most grid electricity still involves significant fossil fuel generation in most regions.
 
 ### Waste and Materials
 
@@ -223,7 +223,7 @@ Hydroponics won't single-handedly solve food security — it's currently too exp
 
 **Year-round growing**: Hydroponics eliminates seasonal limitations. A greenhouse in Minnesota can produce tomatoes in January. This matters for food access in northern regions that currently depend entirely on imported produce during winter.
 
-**Disaster resilience**: Container farms and modular hydroponic systems can be deployed rapidly after natural disasters, providing fresh food production capacity while conventional agriculture recovers.
+**Disaster resilience**: Container farms and modular hydroponic systems can be deployed rapidly after [natural disasters](/natural-disasters), providing fresh food production capacity while conventional agriculture recovers.
 
 ## The Future of Hydroponics
 

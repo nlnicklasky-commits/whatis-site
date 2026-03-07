@@ -5,7 +5,7 @@ description: "Hair styling shapes and arranges hair using cutting, coloring, and
 category: everyday-concepts
 tags: ["hair styling", "haircut", "hairstyles", "beauty", "fashion", "grooming"]
 heroImage: "/images/articles/hair-styling.webp"
-heroAlt: "Hairstylist cutting and styling a client's hair in a modern salon"
+heroAlt: "Editorial photograph representing the concept of hair styling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ Hair is made primarily of **keratin**, a tough structural protein. Each strand h
 
 **Hydrogen bonds** within the hair's cortex are responsible for temporary styling. When you wet hair, hydrogen bonds break. When hair dries in a new shape (wrapped around a roller, blown straight with a brush, set in pin curls), new hydrogen bonds form in that position. Humidity reverses this — moisture breaks the hydrogen bonds and the hair reverts to its natural pattern. That's why straightened hair puffs up in humid weather.
 
-**Disulfide bonds** are the stronger bonds that heat tools and chemical treatments target. Flat irons and curling irons (at 300-450°F) temporarily rearrange disulfide bonds. Chemical straighteners (relaxers) and permanent waves break and reform these bonds permanently, restructuring the hair at a molecular level.
+**Disulfide bonds** are the stronger bonds that heat tools and chemical treatments target. Flat irons and [curling](/curling) irons (at 300-450°F) temporarily rearrange disulfide bonds. Chemical straighteners (relaxers) and permanent waves break and reform these bonds permanently, restructuring the hair at a molecular level.
 
 ## Cutting
 
@@ -81,10 +81,10 @@ Hair color is a massive category — roughly 75% of American women and an increa
 
 ## The Profession
 
-Becoming a licensed cosmetologist requires 1,000-2,000 hours of training (varies by state), followed by a licensing exam. Barber licensing has similar requirements. The training covers cutting, coloring, chemical treatments, sanitation, skin care, and business practices.
+Becoming a licensed cosmetologist requires 1,000-2,000 hours of training (varies by state), followed by a licensing exam. Barber licensing has similar requirements. The training covers cutting, coloring, chemical treatments, sanitation, [skin care](/skin-care), and business practices.
 
-Average salon stylist income is $30,000-$50,000 per year, though top stylists in major markets can earn $100,000+. Many stylists work as independent contractors renting chairs in established salons, which means they're essentially running their own small business — handling their own client acquisition, scheduling, supplies, and taxes.
+Average salon stylist income is $30,000-$50,000 per year, though top stylists in major markets can earn $100,000+. Many stylists work as independent contractors renting chairs in established salons, which means they're essentially [running](/running) their own small business — handling their own client acquisition, [scheduling](/scheduling), supplies, and taxes.
 
 The profession is physically demanding — standing for 8-10 hours, repetitive arm and hand motions, and chemical exposure are occupational realities. Career longevity depends on ergonomic awareness and physical maintenance.
 
-Hair styling sits at the intersection of craft, art, science, and personal connection. The best stylists understand hair biology, color theory, face shape geometry, and current trends — and they listen to what their clients actually want, which is the most important skill of all.
+Hair styling sits at the intersection of craft, art, science, and personal connection. The best stylists understand hair [biology](/biology), [color theory](/color-theory), face shape [geometry](/geometry), and current trends — and they listen to what their clients actually want, which is the most important skill of all.

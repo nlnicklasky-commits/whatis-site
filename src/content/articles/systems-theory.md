@@ -5,7 +5,7 @@ description: "Systems theory is the study of how complex wholes emerge from inte
 category: science
 tags: ["philosophy", "systems theory", "complexity", "cybernetics", "interdisciplinary science", "systems thinking"]
 heroImage: "/images/articles/systems-theory.webp"
-heroAlt: "An abstract illustration of interconnected circles and arrows forming a complex feedback system against a neutral background"
+heroAlt: "Editorial photograph representing the concept of systems theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -63,7 +63,7 @@ Running in parallel with Bertalanffy's work was cybernetics, pioneered by mathem
 
 Wiener's key insight: systems regulate themselves through feedback loops. A thermostat measures temperature and adjusts heating accordingly. Your body measures blood sugar and adjusts insulin accordingly. An anti-aircraft gun (Wiener's original research context during WWII) tracks a target's trajectory and adjusts aim accordingly. The specific machinery differs, but the control principle is identical.
 
-Cybernetics attracted a remarkable interdisciplinary group. The Macy Conferences (1946-1953) brought together mathematicians, engineers, neuroscientists, anthropologists, and psychologists — including Wiener, John von Neumann, Claude Shannon, Margaret Mead, and Gregory Bateson. These conversations seeded ideas that would eventually produce artificial intelligence, cognitive science, and modern control theory.
+Cybernetics attracted a remarkable interdisciplinary group. The Macy Conferences (1946-1953) brought together mathematicians, engineers, neuroscientists, anthropologists, and psychologists — including Wiener, John von Neumann, Claude Shannon, Margaret Mead, and Gregory Bateson. These conversations seeded ideas that would eventually produce [artificial intelligence](/artificial-intelligence), cognitive science, and modern control theory.
 
 ### Other Foundational Contributions
 
@@ -71,7 +71,7 @@ Several other intellectual streams fed into systems theory:
 
 **Information theory** — Claude Shannon's mathematical theory of communication (1948) provided tools for quantifying information, uncertainty, and the capacity of channels. These concepts proved broadly applicable beyond telecommunications.
 
-**Operations research** — developed during WWII to optimize military logistics, operations research applied mathematical modeling to complex organizational problems. It demonstrated that systems-level analysis could produce practically useful results.
+**Operations research** — developed during WWII to optimize military logistics, operations research applied [mathematical modeling](/mathematical-modeling) to complex organizational problems. It demonstrated that systems-level analysis could produce practically useful results.
 
 **Ecology** — the study of ecosystems was inherently systems-oriented, analyzing how species, energy flows, nutrient cycles, and environmental factors interact as wholes.
 
@@ -162,7 +162,7 @@ Gregory Bateson extended systems thinking into [communication](/communication-th
 
 ### Software and Computing
 
-Software architecture is deeply systems-oriented. Large software systems are composed of interacting modules, and the interactions between modules are often more important (and more problematic) than the modules themselves. Design patterns, microservice architectures, and distributed systems all embody systems principles.
+[Software architecture](/software-architecture) is deeply systems-oriented. Large software systems are composed of interacting modules, and the interactions between modules are often more important (and more problematic) than the modules themselves. Design patterns, microservice architectures, and distributed systems all embody systems principles.
 
 The internet itself is a system of systems — [networks](/cloud-computing) of networks, with emergent properties like resilience (it routes around damage), scaling behaviors, and vulnerability to cascading failures.
 

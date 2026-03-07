@@ -5,7 +5,7 @@ description: "Conchology is the study of mollusk shells — their structure, cla
 category: science
 tags: ["biology", "molluscs", "shells", "marine life", "zoology", "natural history", "biodiversity"]
 heroImage: "/images/articles/conchology-hero.webp"
-heroAlt: "Collection of colorful seashells including spiral gastropods, bivalves, and a nautilus shell"
+heroAlt: "Editorial photograph representing the concept of conchology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Conchology?
 
-Conchology is the scientific study of mollusk shells — their form, structure, classification, geographic distribution, and evolutionary history. It examines the hard external coverings produced by snails, clams, oysters, nautiluses, and other shelled mollusks, representing one of the oldest branches of natural history and one of the most visually striking areas of zoological study.
+Conchology is the scientific study of mollusk shells — their form, structure, classification, geographic distribution, and evolutionary history. It examines the hard external coverings produced by snails, clams, oysters, nautiluses, and other shelled mollusks, representing one of the oldest branches of [natural history](/natural-history) and one of the most visually striking areas of zoological study.
 
 ## Shells Have Fascinated Humans for Thousands of Years
 
@@ -49,7 +49,7 @@ Ancient Romans used murex shells to produce Tyrian purple dye, worth more than g
 
 Conchology as a formal discipline emerged during the Age of Enlightenment. Martin Lister published the first systematic shell catalog in 1685. George Perry, Lamarck, and later the brothers Adams produced increasingly systematic classifications through the 1700s and 1800s. Shell collecting became enormously popular in Victorian England — "conchylomania" gripped the upper classes, and rare specimens sold for staggering sums at auction.
 
-Today, conchology sits at the intersection of biology, paleontology, art, and amateur naturalism. About 100,000 living mollusk species have been described, and they produce an astonishing variety of shell forms.
+Today, conchology sits at the intersection of biology, [paleontology](/paleontology), art, and amateur naturalism. About 100,000 living mollusk species have been described, and they produce an astonishing variety of shell forms.
 
 ## What Exactly Is a Shell?
 
@@ -63,7 +63,7 @@ Mollusk shells are made primarily of calcium carbonate (CaCO3) in two crystallin
 
 **Calcite** — a less common but more stable crystal form. Some shells, like oysters, are primarily calcite. Others have both — an outer calcite layer for hardness and an inner aragonite (nacre) layer for toughness.
 
-The organic component — about 1-5% of the shell by weight — includes proteins (like conchiolin) and polysaccharides that serve as scaffolding for crystal deposition. This organic matrix controls crystal orientation, size, and arrangement, producing the shell's final structure.
+The organic component — about 1-5% of the shell by weight — includes proteins (like conchiolin) and polysaccharides that serve as [scaffolding](/scaffolding) for crystal deposition. This organic matrix controls crystal orientation, size, and arrangement, producing the shell's final structure.
 
 ### How Shells Grow
 
@@ -145,7 +145,7 @@ Coral and shell records have been critical for understanding past climate variab
 
 ### Biomimetics
 
-Shell structures inspire engineering. The brick-and-mortar structure of nacre has inspired tough, lightweight composite materials. The spiral geometry of shells informs architectural designs. The self-healing properties of some shell structures suggest approaches for self-repairing materials.
+Shell structures inspire [engineering](/engineering). The brick-and-mortar structure of nacre has inspired tough, lightweight composite materials. The spiral geometry of shells informs architectural designs. The self-healing properties of some shell structures suggest approaches for self-repairing materials.
 
 Cone snail venom peptides have produced pharmaceuticals and are being investigated for treatments for pain, epilepsy, and cardiovascular disease. Over 100 conotoxin-derived compounds are in various stages of pharmaceutical research.
 
@@ -167,7 +167,7 @@ Shell collecting is one of the most accessible natural history hobbies. You can 
 
 ### Ethics and Conservation
 
-Collecting raises ethical questions. Taking live mollusks affects populations. Some species are endangered and legally protected. The Convention on International Trade in Endangered Species (CITES) restricts trade in certain mollusks, including giant clams and some queen conch populations.
+Collecting raises ethical questions. Taking live mollusks affects populations. Some species are endangered and legally protected. The Convention on [International Trade](/international-trade) in Endangered Species (CITES) restricts trade in certain mollusks, including giant clams and some queen conch populations.
 
 Responsible collectors follow guidelines: take dead shells when possible, never collect more than you need, respect local regulations, and avoid protected species. Many serious conchologists have shifted toward photography and observation rather than physical collection of living specimens, especially for [conservation-sensitive species](/conservation-biology).
 
@@ -189,7 +189,7 @@ Pteropods — tiny swimming snails called "sea butterflies" — are particularly
 
 ### Habitat Destruction
 
-Coastal development, pollution, and destructive fishing practices destroy mollusk habitats. Oyster reefs along the U.S. East Coast have declined by an estimated 85% from historical levels. Freshwater mussel populations — among the most endangered animals in North America — have been devastated by dam construction, sedimentation, and pollution.
+Coastal development, pollution, and destructive fishing practices destroy mollusk habitats. Oyster reefs along the U.S. East Coast have declined by an estimated 85% from historical levels. Freshwater mussel populations — among the most endangered animals in North America — have been devastated by dam [construction](/construction), sedimentation, and pollution.
 
 ### Overexploitation
 
@@ -201,7 +201,7 @@ Invasive mollusks cause enormous economic and ecological damage. Zebra mussels (
 
 ## Why Conchology Still Matters
 
-With genetic sequencing and molecular biology dominating modern research, studying physical shells might seem old-fashioned. It's not.
+With genetic sequencing and [molecular biology](/molecular-biology) dominating modern research, studying physical shells might seem old-fashioned. It's not.
 
 Shells remain the primary identification tool for the vast majority of mollusk species. DNA barcoding is powerful but requires tissue samples and laboratory equipment. A knowledgeable conchologist can identify most species from a photograph. In field surveys, museum curation, paleontology, and environmental monitoring, shell-based identification is irreplaceable.
 
@@ -213,6 +213,6 @@ The mollusks that build these shells are the second-largest animal phylum (after
 
 Conchology studies the shells produced by mollusks — structures of calcium carbonate that serve as protection, buoyancy control, and a permanent record of the animal's life. From the logarithmic spiral of a nautilus to the iridescent nacre of an abalone, shells combine scientific significance with genuine beauty.
 
-The field connects to paleontology (fossil shells reveal evolutionary history and date rock layers), climate science (shell chemistry records ocean temperatures), medicine (cone snail venoms produce pharmaceuticals), and materials science (nacre inspires engineering). And shell collecting remains one of the most accessible and rewarding ways to engage with [natural history and biology](/animal-behavior).
+The field connects to paleontology (fossil shells reveal evolutionary history and date rock layers), climate science (shell chemistry records ocean temperatures), medicine (cone snail venoms produce pharmaceuticals), and [materials science](/materials-science) (nacre inspires engineering). And shell collecting remains one of the most accessible and rewarding ways to engage with [natural history and biology](/animal-behavior).
 
 Mollusks and their shells face real threats from ocean acidification, habitat loss, and overexploitation. Understanding what conchology teaches us about these organisms is part of understanding — and protecting — the ocean ecosystems they help sustain.

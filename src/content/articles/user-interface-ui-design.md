@@ -5,7 +5,7 @@ description: "UI design is the process of creating visual interfaces for softwar
 category: everyday-concepts
 tags: ["user interface ui design", "UI", "design", "software", "apps", "visual design"]
 heroImage: "/images/articles/user-interface-ui-design.webp"
-heroAlt: "A designer working on app interface mockups displayed across multiple screens and devices"
+heroAlt: "Editorial photograph representing the concept of user interface (ui) design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is User Interface (UI) Design?
 
-UI design is the practice of creating the visual and interactive elements that people see and interact with when using software — the buttons, menus, icons, forms, typography, colors, animations, and layouts that make up an application's surface. It's the layer between the user and the system's functionality. Good UI design makes software feel intuitive. Bad UI design makes people want to throw their devices out the window.
+UI design is the practice of creating the visual and interactive elements that people see and interact with when using software — the buttons, menus, icons, forms, [typography](/typography), colors, animations, and layouts that make up an application's surface. It's the layer between the user and the system's functionality. Good UI design makes software feel intuitive. Bad UI design makes people want to throw their devices out the window.
 
 ## The Visual Layer of Software
 
@@ -57,7 +57,7 @@ Every user action should produce a visible response. Click a button and it shoul
 
 ### Accessibility
 
-About 15% of the world's population lives with some form of disability. UI design that ignores accessibility excludes hundreds of millions of potential users. Practical requirements include sufficient color contrast (WCAG guidelines specify minimum ratios), keyboard navigation support, screen reader compatibility, and text sizing that users can adjust.
+About 15% of the world's population lives with some form of disability. UI design that ignores accessibility excludes hundreds of millions of potential users. Practical requirements include sufficient color contrast (WCAG guidelines specify minimum ratios), keyboard [navigation](/navigation) support, screen reader compatibility, and text sizing that users can adjust.
 
 Accessibility isn't charity — it's good design. Curb cuts were designed for wheelchair users but benefit everyone pushing a stroller, pulling luggage, or riding a bike. Similarly, accessible UI design benefits all users through clearer layouts, better contrast, and more predictable interactions.
 
@@ -69,11 +69,11 @@ UI designers don't start by opening design software. They start by understanding
 
 ### Wireframing
 
-Low-fidelity sketches or digital wireframes establish the layout and structure without visual polish. Wireframes are deliberately ugly — gray boxes, placeholder text, no color. This forces decisions about information architecture and flow before anyone gets attached to how a specific button looks.
+Low-fidelity sketches or digital wireframes establish the layout and structure without visual polish. Wireframes are deliberately ugly — gray boxes, placeholder text, no color. This forces decisions about [information architecture](/information-architecture) and flow before anyone gets attached to how a specific button looks.
 
 ### Visual Design
 
-This is where the interface gets its identity. Color palette, typography, iconography, spacing, and imagery come together. The visual design needs to align with the brand's identity while serving functional goals. A banking app and a social media app might follow the same usability principles but look completely different because their brand contexts differ.
+This is where the interface gets its identity. Color palette, typography, [iconography](/iconography), spacing, and imagery come together. The visual design needs to align with the brand's identity while serving functional goals. A banking app and a social media app might follow the same usability principles but look completely different because their brand contexts differ.
 
 ### Prototyping
 
@@ -101,8 +101,8 @@ These patterns work because users already understand them. A toggle switch doesn
 
 ## The Career Path
 
-UI design careers typically start with a portfolio demonstrating visual design skills and problem-solving ability. Formal education in graphic design, interaction design, or HCI (human-computer interaction) helps but isn't required — many successful UI designers are self-taught or career-changers.
+UI design careers typically start with a portfolio demonstrating visual design skills and problem-solving ability. Formal [education](/education) in [graphic design](/graphic-design), interaction design, or HCI (human-computer interaction) helps but isn't required — many successful UI designers are self-taught or career-changers.
 
 Entry-level UI designers earn $50,000-$75,000 in the U.S. Senior designers and design leads at major tech companies can earn $150,000-$250,000 or more. The field has grown consistently as businesses recognize that interface quality directly affects user retention, conversion rates, and customer satisfaction.
 
-The tools change fast — Photoshop gave way to Sketch, which gave way to Figma — but the underlying principles stay remarkably stable. Understanding visual hierarchy, spacing, typography, and color theory will serve you regardless of which software is popular in any given year.
+The tools change fast — Photoshop gave way to Sketch, which gave way to Figma — but the underlying principles stay remarkably stable. Understanding visual hierarchy, spacing, typography, and [color theory](/color-theory) will serve you regardless of which software is popular in any given year.

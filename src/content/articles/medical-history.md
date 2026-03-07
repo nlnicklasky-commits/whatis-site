@@ -5,7 +5,7 @@ description: "Medical history traces the evolution of medicine from ancient herb
 category: history
 tags: ["medicine", "medical history", "healthcare"]
 heroImage: "/images/articles/medical-history.webp"
-heroAlt: "A display of historical medical instruments alongside a modern stethoscope and prescription pad"
+heroAlt: "Editorial photograph representing the concept of medical history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,7 +37,7 @@ faq:
 
 Medical history is the study of how human understanding and treatment of disease, injury, and health have evolved over time. It tracks the long, uneven, sometimes horrifying journey from trepanation (drilling holes in skulls) and bloodletting to organ transplants, mRNA vaccines, and gene therapy.
 
-What makes medical history so gripping is the gap between intentions and outcomes. For most of recorded history, doctors were as likely to kill you as cure you. Treatments based on completely wrong theories — bleeding, purging, mercury ingestion — persisted for centuries because there was no systematic way to test whether they worked. The scientific method applied to medicine is, historically speaking, brand new. And it changed everything.
+What makes medical history so gripping is the gap between intentions and outcomes. For most of recorded history, doctors were as likely to kill you as cure you. Treatments based on completely wrong theories — bleeding, purging, mercury ingestion — persisted for centuries because there was no systematic way to test whether they worked. The [scientific method](/scientific-method) applied to medicine is, historically speaking, brand new. And it changed everything.
 
 ## Ancient Medicine: Spirits, Herbs, and Observation
 
@@ -59,7 +59,7 @@ This theory was wrong. But it was wrong in an important way: it was a naturalist
 
 ### Galen and Roman Medicine
 
-Claudius Galen (129-216 CE), a Greek physician working in Rome, built on Hippocratic theory and added extensive anatomical observations — mostly from dissecting animals, since human dissection was generally forbidden. Galen's writings on [anatomy](/anatomy), physiology, and pharmacology were so authoritative that they dominated Western medicine for over 1,300 years.
+Claudius Galen (129-216 CE), a Greek physician working in Rome, built on Hippocratic theory and added extensive anatomical observations — mostly from dissecting animals, since human dissection was generally forbidden. Galen's writings on [anatomy](/anatomy), physiology, and [pharmacology](/pharmacology) were so authoritative that they dominated Western medicine for over 1,300 years.
 
 The problem was that Galen was sometimes wrong — about blood circulation, about organ function, about anatomy that differed between humans and the pigs and apes he dissected — and his authority was so absolute that nobody corrected the errors for a millennium and a half.
 
@@ -107,25 +107,25 @@ Before October 16, 1846, surgery was torture. On that date, dentist William Mort
 
 Chloroform followed quickly. Within a few years, painless surgery became standard. This wasn't just humane — it allowed surgeons to work slowly and carefully instead of racing against the patient's tolerance for pain. Operations that would have been impossible became routine.
 
-### Public Health
+### [Public Health](/public-health)
 
-John Snow's 1854 investigation of a cholera outbreak in London — tracking cases to a contaminated water pump on Broad Street — is one of the founding stories of epidemiology. Snow mapped the cases, identified the pattern, and had the pump handle removed. The outbreak subsided.
+John Snow's 1854 investigation of a cholera outbreak in London — tracking cases to a contaminated water pump on Broad Street — is one of the founding stories of [epidemiology](/epidemiology). Snow mapped the cases, identified the pattern, and had the pump handle removed. The outbreak subsided.
 
 Public health measures — clean water, sanitation, vaccination, quarantine — saved more lives in the 19th and early 20th centuries than any drug or surgical technique. Life expectancy in England roughly doubled between 1800 and 1950, and most of that gain came from public health improvements, not clinical medicine.
 
 ## The 20th Century: Antibiotics, Imaging, and More
 
-Alexander Fleming's 1928 discovery of penicillin — a mold that killed bacteria — opened the antibiotic era. By World War II, penicillin was saving soldiers' lives from wound infections that would have been death sentences in previous wars. Streptomycin (1943) treated tuberculosis. Antibiotics transformed medicine's ability to fight bacterial disease.
+Alexander Fleming's 1928 discovery of penicillin — a mold that killed bacteria — opened the antibiotic era. By [World War II](/world-war-ii), penicillin was saving soldiers' lives from wound infections that would have been death sentences in previous wars. Streptomycin (1943) treated tuberculosis. Antibiotics transformed medicine's ability to fight bacterial disease.
 
-Medical imaging progressed from Wilhelm Roentgen's discovery of X-rays (1895) through ultrasound (1950s), CT scans (1971), MRI (1977), and PET scans (1970s). For the first time, doctors could see inside a living body without cutting it open.
+[Medical imaging](/medical-imaging) progressed from Wilhelm Roentgen's discovery of X-rays (1895) through ultrasound (1950s), CT scans (1971), MRI (1977), and PET scans (1970s). For the first time, doctors could see inside a living body without cutting it open.
 
-Organ transplantation moved from fantasy to routine. The first successful kidney transplant (1954), heart transplant (1967), and liver transplant (1967) each represented breakthroughs that required advances in surgery, immunology, and pharmacology simultaneously.
+Organ transplantation moved from fantasy to routine. The first successful kidney transplant (1954), heart transplant (1967), and liver transplant (1967) each represented breakthroughs that required advances in surgery, [immunology](/immunology), and pharmacology simultaneously.
 
 The development of the polio vaccine by Jonas Salk (1955) and Albert Sabin (1961) effectively eliminated a disease that had paralyzed tens of thousands of children annually. Smallpox was eradicated entirely in 1980 — the only human disease to achieve that distinction — through a global vaccination campaign coordinated by the WHO.
 
 ## Current Frontiers
 
-Genomic medicine, CRISPR gene editing, immunotherapy for cancer, mRNA vaccine platforms (proven during the COVID-19 pandemic), artificial intelligence for diagnostic imaging — the pace of change is extraordinary.
+Genomic medicine, CRISPR gene editing, immunotherapy for cancer, mRNA vaccine platforms (proven during the COVID-19 pandemic), [artificial intelligence](/artificial-intelligence) for diagnostic imaging — the pace of change is extraordinary.
 
 But medical history also teaches humility. Antibiotic resistance is growing because we overused the drugs that saved us. Health inequities persist along lines of race, income, and geography. The next pandemic is a question of when, not if. And for all our technological sophistication, the leading causes of death in wealthy countries — heart disease, cancer, stroke — remain stubbornly difficult to prevent.
 

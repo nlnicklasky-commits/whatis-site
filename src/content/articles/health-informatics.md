@@ -5,7 +5,7 @@ description: "Health informatics applies IT to healthcare, managing electronic r
 category: technology
 tags: ["health informatics", "healthcare", "information technology", "ehr", "data analytics", "medical technology", "digital health"]
 heroImage: "/images/articles/health-informatics-hero.webp"
-heroAlt: "Digital interface showing health data dashboards and electronic medical records on a screen"
+heroAlt: "Editorial photograph representing the concept of health informatics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,7 +35,7 @@ faq:
 
 # What Is Health Informatics?
 
-Health informatics is the interdisciplinary field that applies information science, computer science, and data analytics to the acquisition, storage, retrieval, and use of healthcare information. It bridges the gap between clinical medicine and technology, designing systems that help doctors make better decisions, patients manage their own care, and researchers discover patterns across millions of medical records.
+Health informatics is the interdisciplinary field that applies information science, [computer science](/computer-science), and data analytics to the acquisition, storage, retrieval, and use of healthcare information. It bridges the gap between clinical medicine and technology, designing systems that help doctors make better decisions, patients manage their own care, and researchers discover patterns across millions of medical records.
 
 ## From Paper Charts to Digital Everything
 
@@ -51,7 +51,7 @@ Health informatics isn't one thing. It's an umbrella covering several overlappin
 
 ### Electronic Health Records (EHRs)
 
-EHRs are the backbone. An electronic health record is a digital version of everything a healthcare provider knows about you: your medical history, diagnoses, medications, lab results, imaging reports, immunization records, allergies, and treatment plans.
+EHRs are the backbone. An electronic health record is a digital version of everything a healthcare provider knows about you: your [medical history](/medical-history), diagnoses, medications, lab results, imaging reports, immunization records, allergies, and treatment plans.
 
 But here's what makes EHRs more than just digital filing cabinets: they're active systems. A well-designed EHR alerts the prescribing physician if a new medication interacts dangerously with something the patient already takes. It flags abnormal lab values. It reminds providers about overdue screenings. It calculates drug dosages based on patient weight and kidney function.
 
@@ -115,7 +115,7 @@ Health data is extraordinarily sensitive. Your medical records reveal conditions
 
 ### HIPAA and Its Limits
 
-The Health Insurance Portability and Accountability Act (HIPAA), enacted in 1996, established federal protections for health information. It requires healthcare organizations to implement physical, administrative, and technical safeguards for patient data.
+The [Health Insurance](/health-insurance) Portability and Accountability Act (HIPAA), enacted in 1996, established federal protections for health information. It requires healthcare organizations to implement physical, administrative, and technical safeguards for patient data.
 
 But HIPAA has significant gaps. It only applies to "covered entities" (healthcare providers, health plans, clearinghouses) and their business associates. Your fitness tracker data? Not covered. The health information you share with a wellness app? Probably not covered. Genetic data you send to a consumer testing company? Also not covered unless they happen to be a HIPAA-covered entity.
 
@@ -147,7 +147,7 @@ The CDC's data modernization initiative, launched with $1 billion in funding, ai
 
 ## Nursing Informatics
 
-Nurses are the largest group of healthcare professionals, and they interact with health information systems more than anyone else. Nursing informatics focuses on how technology supports nursing practice—from documentation workflows to medication administration systems.
+Nurses are the largest group of healthcare professionals, and they interact with health [information systems](/information-systems) more than anyone else. Nursing informatics focuses on how technology supports nursing practice—from documentation workflows to medication administration systems.
 
 Barcode medication administration (BCMA) is a nursing informatics success story. Before BCMA, medication errors during administration were alarmingly common. Now, nurses scan a barcode on the patient's wristband and the medication, and the system confirms it's the right drug, right dose, right patient, right time, right route. Studies show BCMA reduces medication administration errors by 41-50%.
 

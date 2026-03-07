@@ -5,7 +5,7 @@ description: "Scent training teaches dogs to detect specific odors using their p
 category: everyday-concepts
 tags: ["dog training", "scent detection", "nose work", "canine", "olfaction", "dog behavior"]
 heroImage: "/images/articles/scent-training-dogs.webp"
-heroAlt: "A focused dog sniffing a set of scent containers during a nose work training session"
+heroAlt: "Editorial photograph representing the concept of scent training (dogs)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -61,9 +61,9 @@ The basic process follows a progression that starts dead simple and gets gradual
 
 A dog's nose is genuinely one of nature's most impressive instruments. Each nostril can smell independently, giving dogs a kind of "stereo smell" that helps them locate odor sources directionally. When a dog sniffs, air flows through a complex system of turbinate bones covered in olfactory tissue — and they can sniff up to 5 times per second.
 
-Here's a fact that puts it in perspective: dogs can detect some odors at concentrations of one part per trillion. That's roughly equivalent to finding a single drop of liquid in 20 Olympic-sized swimming pools. Research published through the NIH has shown dogs can detect certain cancers, low blood sugar levels in diabetics, and even the onset of seizures — all through smell alone.
+Here's a fact that puts it in perspective: dogs can detect some odors at concentrations of one part per trillion. That's roughly equivalent to finding a single drop of liquid in 20 Olympic-sized [swimming](/swimming) pools. Research published through the NIH has shown dogs can detect certain cancers, low blood sugar levels in diabetics, and even the onset of seizures — all through smell alone.
 
-The Jacobson's organ (or vomeronasal organ) adds another layer. Located in the roof of a dog's mouth, it detects pheromones and other chemical signals that regular olfactory receptors miss. When you see a dog doing that weird lip-curling thing? They're pushing scent molecules toward this organ.
+The Jacobson's organ (or vomeronasal organ) adds another layer. Located in the roof of a dog's mouth, it detects pheromones and other chemical signals that regular olfactory receptors miss. When you see a dog doing that weird lip-[curling](/curling) thing? They're pushing scent molecules toward this organ.
 
 ## Types of Scent Work
 
@@ -81,7 +81,7 @@ Scent training branches into several distinct disciplines.
 
 You don't need fancy equipment or professional instruction to begin. Here's a simple approach that works.
 
-Start with the "muffin tin game." Place treats in a few cups of a muffin tin and cover all cups with tennis balls. Let your dog figure out which cups have treats by sniffing. It's basic, but it teaches the fundamental concept — use your nose to find the good stuff.
+Start with the "muffin tin game." Place treats in a few cups of a muffin tin and cover all cups with [tennis](/tennis) balls. Let your dog figure out which cups have treats by sniffing. It's basic, but it teaches the fundamental concept — use your nose to find the good stuff.
 
 Next, try the "box search." Set out 6 to 10 cardboard boxes, one containing a treat. Let your dog sniff each box and reward them when they indicate the right one. Gradually make it harder — smaller boxes, more options, treats hidden inside containers within the box.
 

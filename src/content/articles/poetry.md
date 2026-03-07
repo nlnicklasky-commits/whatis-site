@@ -5,7 +5,7 @@ description: "Poetry is a literary form that uses rhythm, imagery, and condensed
 category: arts-amp-culture
 tags: ["literature", "writing", "verse", "rhyme", "rhythm", "expression"]
 heroImage: "/images/articles/poetry.webp"
-heroAlt: "Open book of poetry with highlighted verses on a wooden desk"
+heroAlt: "Editorial photograph representing the concept of poetry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,11 +31,11 @@ faq:
 
 # What Is Poetry?
 
-Poetry is a form of literary expression that uses concentrated language, rhythm, sound, and imagery to convey meaning and emotion. It's the oldest form of literature — older than prose, older than written language itself, since poems were memorized and recited long before anyone wrote them down. And despite periodic declarations that poetry is dead, it keeps stubbornly being written, read, and performed.
+Poetry is a form of literary expression that uses concentrated language, rhythm, sound, and imagery to convey meaning and emotion. It's the oldest form of [literature](/literature) — older than [prose](/prose), older than written language itself, since poems were memorized and recited long before anyone wrote them down. And despite periodic declarations that poetry is dead, it keeps stubbornly being written, read, and performed.
 
 ## What Makes It Poetry
 
-Ask ten poets to define poetry and you'll get twelve answers. But a few things distinguish poetry from other writing.
+Ask ten poets to define poetry and you'll get twelve answers. But a few things distinguish poetry from other [writing](/writing).
 
 **Line breaks matter.** This is the simplest and most concrete distinction. Prose fills the page margin to margin. Poetry breaks lines deliberately, and where the line breaks fall affects meaning, rhythm, and emphasis. A line break can create suspense, surprise, or ambiguity. It can make you pause where you wouldn't pause in conversation.
 
@@ -51,9 +51,9 @@ Emily Dickinson wrote: "After great pain, a formal feeling comes." That's eight 
 
 **Sonnet** — 14 lines, typically in iambic pentameter (ten syllables per line, alternating unstressed and stressed). Shakespeare wrote 154 of them. The Petrarchan (Italian) sonnet has an octave and sestet; the Shakespearean (English) sonnet has three quatrains and a couplet. Sonnets are still widely written — the form's tight constraints force creative problem-solving.
 
-**Haiku** — a Japanese form of 17 syllables in three lines (5-7-5 in the English adaptation). Traditional haiku capture a moment in nature with a seasonal reference. Matsuo Basho's famous example: "An old silent pond / A frog jumps into the pond / Splash! Silence again." The form's brevity demands precision.
+**[Haiku](/haiku)** — a Japanese form of 17 syllables in three lines (5-7-5 in the English adaptation). Traditional haiku capture a moment in nature with a seasonal reference. Matsuo Basho's famous example: "An old silent pond / A frog jumps into the pond / Splash! Silence again." The form's brevity demands precision.
 
-**Free verse** — no regular meter, no rhyme scheme, no fixed line length. The poet decides the structure of each poem individually. Walt Whitman popularized it in English with *Leaves of Grass* (1855), and it's been the dominant form in English-language poetry since the mid-20th century. Free verse isn't formless — good free verse has its own internal logic of rhythm and structure.
+**Free verse** — no regular meter, no rhyme scheme, no fixed line length. The poet decides the structure of each poem individually. Walt Whitman popularized it in English with *Leaves of Grass* (1855), and it's been the dominant form in English-language poetry since the mid-20th century. Free verse isn't formless — good free verse has its own internal [logic](/logic) of rhythm and structure.
 
 **Blank verse** — unrhymed iambic pentameter. Shakespeare's plays are mostly in blank verse. Milton's *Paradise Lost* is blank verse. It sounds like elevated speech — rhythmic but not sing-songy.
 
@@ -65,7 +65,7 @@ Emily Dickinson wrote: "After great pain, a formal feeling comes." That's eight 
 
 The oldest surviving poem is the *Epic of Gilgamesh*, written in cuneiform on clay tablets around 2100 BCE in ancient Mesopotamia. Homer's *Iliad* and *Odyssey* (roughly 8th century BCE) were oral poems — performed, not read — that form the foundation of Western literature.
 
-Classical Chinese poetry flourished during the Tang Dynasty (618-907 CE). Li Bai and Du Fu wrote poems that are still memorized by Chinese schoolchildren. Japanese poetry developed the tanka and haiku traditions. Persian poets like Rumi, Hafiz, and Omar Khayyam produced works that remain bestsellers in translation.
+Classical Chinese poetry flourished during the Tang Dynasty (618-907 CE). Li Bai and Du Fu wrote poems that are still memorized by Chinese schoolchildren. Japanese poetry developed the tanka and haiku traditions. Persian poets like Rumi, Hafiz, and Omar Khayyam produced works that remain bestsellers in [translation](/translation).
 
 In English, the tradition runs from Chaucer (14th century) through Shakespeare and the Metaphysical Poets (17th century), the Romantics — Wordsworth, Keats, Shelley, Byron (early 19th century) — through the modernists — Eliot, Pound, Stevens, Moore (early 20th century) — to the wild diversity of contemporary poetry.
 

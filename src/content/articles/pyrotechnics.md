@@ -5,7 +5,7 @@ description: "Pyrotechnics is the science and craft of creating controlled fire,
 category: science
 tags: ["pyrotechnics", "fireworks", "chemistry", "combustion", "explosives", "special effects", "safety"]
 heroImage: "/images/articles/pyrotechnics-hero.webp"
-heroAlt: "Colorful fireworks bursting against a dark night sky showing various pyrotechnic effects"
+heroAlt: "Editorial photograph representing the concept of pyrotechnics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -49,7 +49,7 @@ The earliest known written formula for gunpowder appears in the *Wujing Zongyao*
 
 ### Spread to Europe
 
-Gunpowder reached Europe by the 13th century, probably through trade routes and Mongol invasions. Roger Bacon described gunpowder in 1267, and by the 14th century, European militaries were using cannons. But recreational fireworks developed more slowly in Europe. Italian pyrotechnicians in the Renaissance became the acknowledged masters of the art, developing elaborate displays for royal celebrations and religious festivals.
+Gunpowder reached Europe by the 13th century, probably through [trade](/trade) routes and Mongol invasions. Roger Bacon described gunpowder in 1267, and by the 14th century, European militaries were using cannons. But recreational fireworks developed more slowly in Europe. Italian pyrotechnicians in the Renaissance became the acknowledged masters of the art, developing elaborate displays for royal celebrations and religious festivals.
 
 The Ruggieri family in Italy (and later France) elevated fireworks to an art form in the 18th century. Their displays for the French court combined music, choreography, and pyrotechnics in ways that anticipate modern synchronized firework shows. When the Bastille was stormed in 1789, the Ruggieris were still the leading pyrotechnicians in France—and managed to maintain their business through the Revolution.
 
@@ -101,7 +101,7 @@ Stars are arranged inside the firework shell around a central bursting charge. W
 
 A professional firework shell is an impressive piece of engineering, assembled by hand with precision that directly determines whether the effect is beautiful or deadly.
 
-### Shell Construction
+### Shell [Construction](/construction)
 
 An aerial shell consists of:
 
@@ -111,7 +111,7 @@ An aerial shell consists of:
 
 3. **A bursting charge** at the center that shatters the shell and ignites the stars.
 
-4. **Stars** arranged in patterns around the bursting charge. The geometry of star placement determines the burst pattern—a ring, a sphere, a heart, a smiley face, or a willow cascade.
+4. **Stars** arranged in patterns around the bursting charge. The [geometry](/geometry) of star placement determines the burst pattern—a ring, a sphere, a heart, a smiley face, or a willow cascade.
 
 5. **A shell casing** (traditionally heavy paper reinforced with string) that provides structural integrity during launch and shatters cleanly at burst.
 
@@ -179,6 +179,6 @@ What makes pyrotechnics uniquely fascinating is that it sits exactly at the inte
 
 The best pyrotechnic displays are genuine art. The annual Nagaoka Festival fireworks in Japan, the Fallas celebrations in Valencia, Spain, and the Montreal International Fireworks Competition showcase pyrotechnics at its highest artistic level, where technical mastery serves aesthetic vision.
 
-At the same time, every choice in a pyrotechnic composition is a chemical engineering decision. The particle size of the metal fuel determines burn rate—fine powder burns fast (flash); coarse granules burn slowly (long-lasting sparks). The ratio of fuel to oxidizer determines flame temperature and gas production. The binder composition affects mechanical strength, moisture resistance, and ignition sensitivity.
+At the same time, every choice in a pyrotechnic composition is a [chemical engineering](/chemical-engineering) decision. The particle size of the metal fuel determines burn rate—fine powder burns fast (flash); coarse granules burn slowly (long-lasting sparks). The ratio of fuel to oxidizer determines flame temperature and gas production. The binder composition affects mechanical strength, moisture resistance, and ignition sensitivity.
 
 Getting all these variables right—simultaneously achieving the desired color, effect duration, brightness, and safety profile—is what makes pyrotechnics both a science and a craft. There are no shortcuts, and the margin for error is measured in the difference between a beautiful display and a catastrophe. It's this combination of beauty and danger, of artistic ambition and chemical precision, that has kept humans fascinated with controlled fire for over a thousand years—and will likely keep us watching the sky with wonder for a thousand more.

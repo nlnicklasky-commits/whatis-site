@@ -5,7 +5,7 @@ description: "Storytelling is the ancient art of sharing narratives to entertain
 category: arts-amp-culture
 tags: ["storytelling", "narrative", "oral tradition", "literature", "communication", "culture"]
 heroImage: "/images/articles/storytelling.webp"
-heroAlt: "A person telling a story by firelight to a captivated audience"
+heroAlt: "Editorial photograph representing the concept of storytelling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,7 +33,7 @@ faq:
 
 Storytelling is the act of constructing and sharing narratives — sequences of events, real or imagined, structured to engage an audience. It's how humans have transmitted knowledge, preserved culture, entertained each other, and made sense of the world for at least 40,000 years.
 
-That's not a metaphor. The oldest known cave paintings in Indonesia, dated to roughly 44,000 years ago, depict scenes that appear to tell a story — figures hunting animals in a sequential narrative. Before writing, before agriculture, before cities, humans were telling stories.
+That's not a metaphor. The oldest known cave paintings in Indonesia, dated to roughly 44,000 years ago, depict scenes that appear to tell a story — figures [hunting](/hunting) animals in a sequential narrative. Before [writing](/writing), before [agriculture](/agriculture), before cities, humans were telling stories.
 
 ## Why We're Wired for It
 
@@ -65,14 +65,14 @@ Great storytellers control the audience's emotional experience — building tens
 
 Oral storytelling traditions exist in every culture on Earth. West African griots maintained entire genealogies and histories through spoken narrative. Australian Aboriginal Dreamtime stories encode both spiritual beliefs and practical geographic information — some describe geological events from 10,000+ years ago. Homer's *Iliad* and *Odyssey* existed as oral performances for centuries before they were written down.
 
-The invention of writing around 3200 BC didn't replace oral storytelling — it added new possibilities. Written stories could be stored, copied, and transmitted across vast distances. The printing press (1440) democratized storytelling further. Then came film, radio, television, and the internet — each new medium expanding who could tell stories and who could hear them.
+The [invention](/invention) of writing around 3200 BC didn't replace oral storytelling — it added new possibilities. Written stories could be stored, copied, and transmitted across vast distances. The printing press (1440) democratized storytelling further. Then came film, radio, television, and the internet — each new medium expanding who could tell stories and who could hear them.
 
 ## Where Storytelling Lives Now
 
 - **Entertainment** — Movies, TV, novels, podcasts, video games, theater. The global entertainment industry is essentially a storytelling industry.
-- **Business** — Marketing, branding, and sales all run on stories. A product feature list doesn't sell. A story about how the product changes someone's life does.
-- **Education** — Teachers who frame lessons as narratives see better retention and engagement. Case studies in business and law schools are structured as stories for exactly this reason.
-- **Journalism** — The best [journalism](/communication-theory) doesn't just report facts; it tells the story of why those facts matter to real people.
+- **Business** — [Marketing](/marketing), branding, and [sales](/sales) all run on stories. A product feature list doesn't sell. A story about how the product changes someone's life does.
+- **[Education](/education)** — Teachers who frame lessons as narratives see better retention and engagement. Case studies in business and law schools are structured as stories for exactly this reason.
+- **[Journalism](/journalism)** — The best [journalism](/communication-theory) doesn't just report facts; it tells the story of why those facts matter to real people.
 - **Personal connection** — When you meet someone new and they ask, "What do you do?" your answer is a story. First dates, job interviews, family dinners — storytelling is how we present ourselves and connect with others.
 
 ## The Difference Between Good and Great

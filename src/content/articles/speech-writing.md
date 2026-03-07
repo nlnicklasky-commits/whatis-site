@@ -5,7 +5,7 @@ description: "Speech writing is the craft of composing speeches for public deliv
 category: arts-amp-culture
 tags: ["speech writing", "rhetoric", "public speaking", "persuasion", "communication", "oratory"]
 heroImage: "/images/articles/speech-writing.webp"
-heroAlt: "A person at a podium delivering a speech to an audience in a formal setting"
+heroAlt: "Editorial photograph representing the concept of speech writing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,15 +29,15 @@ faq:
     a: "Memorable speeches typically share a few traits: a clear central message (one big idea, not five), vivid concrete language rather than abstractions, emotional resonance (stories, not statistics alone), rhetorical devices like repetition and contrast, and a strong closing. Martin Luther King Jr.'s 'I Have a Dream' speech uses anaphora (repeating the same phrase), vivid imagery, and builds to an emotional crescendo — techniques any speechwriter can study and apply."
 ---
 
-# What Is Speech Writing?
+# What Is Speech [Writing](/writing)?
 
 Speech writing is the craft of composing words meant to be spoken aloud to an audience. That distinction — written to be spoken, not read — changes everything about how you write. Sentences need to be shorter. Ideas need to land on first hearing because your audience can't reread a paragraph. Rhythm matters in ways it doesn't on a page. And the words need to sound like they're coming from a specific human being, not a committee.
 
-Humans have been giving speeches for thousands of years. Aristotle wrote *Rhetoric* in the 4th century BCE, laying out principles of persuasion that speechwriters still follow today. But modern professional speech writing — one person writing words that another person delivers — is largely a 20th-century development, driven by the demands of political communication and corporate leadership.
+Humans have been giving speeches for thousands of years. Aristotle wrote *[Rhetoric](/rhetoric)* in the 4th century BCE, laying out principles of persuasion that speechwriters still follow today. But modern professional speech writing — one person writing words that another person delivers — is largely a 20th-century development, driven by the demands of political communication and corporate [leadership](/leadership).
 
 ## The Fundamental Difference
 
-Writing for the ear is different from writing for the eye. Read this sentence: "The implementation of the aforementioned policy will facilitate the optimization of operational outcomes." You can parse it on a page. But speak it to an audience and watch their eyes glaze. Now try: "This policy will make things work better." Same meaning. Completely different impact when spoken.
+Writing for the ear is different from writing for the eye. Read this sentence: "The implementation of the aforementioned policy will facilitate the [optimization](/optimization) of operational outcomes." You can parse it on a page. But speak it to an audience and watch their eyes glaze. Now try: "This policy will make things work better." Same meaning. Completely different impact when spoken.
 
 Spoken language favors short sentences, concrete words, active voice, and natural rhythm. It avoids jargon, complex subordinate clauses, and words that are hard to pronounce or easy to stumble over. A good speechwriter reads every draft aloud — if you trip on a phrase, the speaker will too.
 
@@ -49,7 +49,7 @@ Most effective speeches follow a three-part structure that Aristotle would recog
 
 **The opening** needs to grab attention immediately. You have about 30 seconds before the audience decides whether to listen or zone out. Start with a story, a surprising fact, a provocative question, or a bold statement. Never start with "Thank you for having me" followed by three minutes of throat-clearing pleasantries. Get to it.
 
-**The body** delivers your core message — ideally one main point supported by evidence, stories, and examples. Three supporting points is a natural pattern for audiences to follow (it's not an accident that "life, liberty, and the pursuit of happiness" has three items). Each point should have a concrete illustration — audiences remember stories 22 times more than facts alone, according to research by cognitive psychologist Jerome Bruner.
+**The body** delivers your core message — ideally one main point supported by evidence, stories, and examples. Three supporting points is a natural pattern for audiences to follow (it's not an accident that "life, liberty, and the pursuit of happiness" has three items). Each point should have a concrete [illustration](/illustration) — audiences remember stories 22 times more than facts alone, according to research by cognitive psychologist Jerome Bruner.
 
 **The closing** is what people remember. End with a call to action, a return to your opening story (creating a satisfying frame), or a memorable line that captures your entire message. Kennedy's "Ask not what your country can do for you — ask what you can do for your country" is a closing that outlived the speech, the presidency, and the era.
 
@@ -61,7 +61,7 @@ These are the speechwriter's tools, and they're worth knowing by name.
 
 **Antithesis** — placing contrasting ideas in parallel structure. "One small step for man, one giant leap for mankind." The contrast sharpens both ideas.
 
-**Tricolon** — grouping ideas in threes. "Government of the people, by the people, for the people." Three items feel complete in a way that two or four don't.
+**Tricolon** — grouping ideas in threes. "[Government](/government) of the people, by the people, for the people." Three items feel complete in a way that two or four don't.
 
 **Rhetorical questions** engage the audience mentally without requiring answers. "Can we do better? Must we accept this? Will our children forgive us if we don't act?" Each question forces the listener to answer internally.
 
@@ -69,7 +69,7 @@ These are the speechwriter's tools, and they're worth knowing by name.
 
 ## Professional Speech Writing
 
-The profession is larger than most people realize. Beyond political speechwriters (the most visible), corporations, nonprofits, universities, and trade associations all employ people who write speeches for leaders.
+The profession is larger than most people realize. Beyond political speechwriters (the most visible), corporations, nonprofits, universities, and [trade](/trade) associations all employ people who write speeches for leaders.
 
 A White House speechwriter might earn $90,000-150,000. Corporate speechwriters at Fortune 500 companies earn similar ranges. Freelance speechwriters charge $5,000-25,000 per speech for senior executives, more for major keynotes.
 
@@ -85,6 +85,6 @@ Know your audience. A speech to engineers at a technical conference is different
 
 One message. Not three, not five. One. If you can't state your core message in a single sentence, you haven't figured out what your speech is about yet.
 
-Stories over statistics. Numbers inform; stories persuade. Use a specific example — one person's experience, one vivid moment — to make your abstract point concrete. Then, if you need the statistics, they'll land harder because the audience already cares.
+Stories over [statistics](/statistics). Numbers inform; stories persuade. Use a specific example — one person's experience, one vivid moment — to make your abstract point concrete. Then, if you need the statistics, they'll land harder because the audience already cares.
 
 Practice out loud. Every draft sounds different spoken than it reads on screen. Time yourself. Cut anything that doesn't serve your one message. If the speech is 20 minutes and could be 12 — make it 12. No audience in history has complained that a speech was too short.

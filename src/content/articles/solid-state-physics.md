@@ -5,7 +5,7 @@ description: "Solid-state physics studies how atoms arranged in solids create th
 category: science
 tags: ["solid-state physics", "physics", "semiconductors", "crystals", "quantum mechanics", "materials science"]
 heroImage: "/images/articles/solid-state-physics.webp"
-heroAlt: "A crystal lattice structure showing atoms arranged in a repeating three-dimensional pattern with electron orbitals"
+heroAlt: "Editorial photograph representing the concept of solid-state physics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -71,7 +71,7 @@ Common crystal structures include:
 
 How do we know what crystal structures look like? We can't see individual atoms with visible light — the wavelength is too large. But X-rays have wavelengths comparable to atomic spacings (about 0.1 nanometers), and when X-rays pass through a crystal, the regular arrangement of atoms creates an interference pattern — a diffraction pattern — that reveals the crystal structure.
 
-Max von Laue won the 1914 Nobel Prize for discovering X-ray diffraction. William Henry Bragg and William Lawrence Bragg (father and son) won in 1915 for showing how to use diffraction patterns to determine crystal structures. Their Bragg equation — n times wavelength equals 2d sin theta — remains the fundamental relationship in crystallography.
+Max von Laue won the 1914 Nobel Prize for discovering X-ray diffraction. William Henry Bragg and William Lawrence Bragg (father and son) won in 1915 for showing how to use diffraction patterns to determine crystal structures. Their Bragg equation — n times wavelength equals 2d sin theta — remains the fundamental relationship in [crystallography](/crystallography).
 
 X-ray diffraction has since revealed the structures of proteins (including DNA's double helix), viruses, minerals, and every material in the semiconductor industry. It's arguably the most productive experimental technique in 20th-century science.
 
@@ -109,7 +109,7 @@ Put n-type and p-type silicon together, and you get a p-n junction — the basis
 
 Electrons aren't the only important particles in a solid. The atoms themselves vibrate around their equilibrium positions, and these vibrations carry thermal energy through the material.
 
-Quantum mechanics tells us that these lattice vibrations are quantized — they come in discrete packets of energy called **phonons**, analogous to how light comes in packets called photons. A phonon isn't a real particle — it's a quantum of vibration energy — but it behaves like one in many ways. Phonons carry momentum, scatter off defects and boundaries, and interact with electrons.
+[Quantum mechanics](/quantum-mechanics) tells us that these lattice vibrations are quantized — they come in discrete packets of energy called **phonons**, analogous to how light comes in packets called photons. A phonon isn't a real particle — it's a quantum of vibration energy — but it behaves like one in many ways. Phonons carry momentum, scatter off defects and boundaries, and interact with electrons.
 
 ### Thermal Conductivity
 
@@ -145,7 +145,7 @@ Magnetic materials are everywhere. Permanent magnets in speakers, motors, and ge
 
 The data density of magnetic storage has increased by a factor of about 100 million since IBM's first hard drive in 1956. That progress depended almost entirely on solid-state physics — understanding domain structures, developing new magnetic alloys, and exploiting quantum effects like giant magnetoresistance (which earned Albert Fert and Peter Gruenberg the 2007 Nobel Prize).
 
-## Superconductivity: Zero Resistance
+## [Superconductivity](/superconductivity): Zero Resistance
 
 Cool certain materials below a critical temperature, and their electrical resistance drops to exactly zero. Not "very small." Zero. Current flows forever without any energy loss.
 
@@ -179,7 +179,7 @@ Solid-state physics is far from finished. Several areas are producing discoverie
 
 **Two-dimensional materials**, starting with graphene (a single layer of carbon atoms isolated in 2004 by Andre Geim and Konstantin Novoselov, earning them the 2010 Nobel Prize), have opened an entirely new field. Graphene conducts electricity better than copper, is stronger than steel, and is transparent. Stacking different 2D materials creates "van der Waals heterostructures" with designable properties.
 
-**Quantum computing** relies on solid-state physics to create and control qubits — quantum bits. Superconducting circuits (used by IBM and Google), semiconductor quantum dots, and topological qubits all require deep solid-state physics expertise.
+**[Quantum computing](/quantum-computing)** relies on solid-state physics to create and control qubits — quantum bits. Superconducting circuits (used by IBM and Google), semiconductor quantum dots, and topological qubits all require deep solid-state physics expertise.
 
 **Perovskite solar cells** use a class of crystal structures that can be made cheaply from solution processing. Their efficiency has jumped from 3.8% in 2009 to over 33% in tandem configurations by 2023 — the fastest improvement of any solar technology in history.
 

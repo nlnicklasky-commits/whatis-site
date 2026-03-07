@@ -5,7 +5,7 @@ description: "Lacrosse is a team sport played with sticks and a ball, originatin
 category: everyday-concepts
 tags: ["lacrosse", "team sports", "Native American", "stick sports", "athletics"]
 heroImage: "/images/articles/lacrosse.webp"
-heroAlt: "Lacrosse player cradling the ball in a mesh stick during a game on a green field"
+heroAlt: "Editorial photograph representing the concept of lacrosse"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Lacrosse?
 
-Lacrosse is a team sport in which players use a long-handled stick with a mesh pocket (the crosse) to catch, carry, and throw a small rubber ball, trying to score by shooting it into the opposing team's goal. It is fast, physical, and strategic — often described as a combination of hockey, soccer, and basketball, played with sticks.
+Lacrosse is a team sport in which players use a long-handled stick with a mesh pocket (the crosse) to catch, carry, and throw a small rubber ball, trying to score by shooting it into the opposing team's goal. It is fast, physical, and strategic — often described as a combination of [hockey](/hockey), [soccer](/soccer), and [basketball](/basketball), played with sticks.
 
 But before it was any of those things, lacrosse was sacred.
 
@@ -59,7 +59,7 @@ The game evolved into several distinct versions:
 
 A lacrosse game starts with a face-off — two players crouch over the ball at midfield and fight for possession when the whistle blows. From there, it is organized chaos at high speed.
 
-**Offense** revolves around passing, cutting, and dodging. Players cradle the ball in their stick's pocket (rotating the wrist to keep the ball secure while running), pass to teammates, and look for shooting opportunities. Offensive sets involve picks, cuts, and ball movement designed to create mismatches — a faster attacker against a slower defender, or a shooting lane through traffic.
+**Offense** revolves around passing, cutting, and dodging. Players cradle the ball in their stick's pocket (rotating the wrist to keep the ball secure while [running](/running)), pass to teammates, and look for shooting opportunities. Offensive sets involve picks, cuts, and ball movement designed to create mismatches — a faster attacker against a slower defender, or a shooting lane through traffic.
 
 **Defense** uses body positioning, stick checks (hitting the opponent's stick to dislodge the ball), and body checks (hitting the ball carrier with the shoulder or torso). Defensive players carry longer sticks — 52-72 inches versus 40-42 for attackers — giving them greater reach for checks and interceptions.
 
@@ -79,7 +79,7 @@ Lacrosse was added to the Olympic program for the 2028 Los Angeles Games — ret
 
 The stick is the most important piece of equipment. Attack sticks have shorter shafts and tighter pockets for ball control. Defensive sticks have longer shafts for checking range. Goalies use sticks with wide heads and deep pockets.
 
-Players also wear helmets with face masks (men's), gloves, arm pads, shoulder pads (men's), and cleats. Goalies add chest protectors and throat guards. The ball is solid rubber, about the size of a tennis ball but denser — roughly 5 ounces.
+Players also wear helmets with face masks (men's), gloves, arm pads, shoulder pads (men's), and cleats. Goalies add chest protectors and throat guards. The ball is solid rubber, about the size of a [tennis](/tennis) ball but denser — roughly 5 ounces.
 
 ## Why It Hooks People
 

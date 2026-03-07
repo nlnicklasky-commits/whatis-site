@@ -5,7 +5,7 @@ description: "Statistical mechanics connects the microscopic behavior of atoms a
 category: science
 tags: ["physics", "statistical mechanics", "thermodynamics", "entropy", "Boltzmann", "quantum mechanics"]
 heroImage: "/images/articles/statistical-mechanics.webp"
-heroAlt: "Visualization of gas molecules moving at different velocities inside a container"
+heroAlt: "Editorial photograph representing the concept of statistical mechanics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -120,9 +120,9 @@ Fixed temperature, volume, and particle number. The system exchanges energy with
 
 ### The Grand Canonical Ensemble
 
-Fixed temperature, volume, and chemical potential. The system exchanges both energy and particles with a reservoir. This ensemble is essential for understanding [chemistry](/chemistry), semiconductor physics, and quantum gases where particle number fluctuates.
+Fixed temperature, volume, and chemical potential. The system exchanges both energy and particles with a reservoir. This ensemble is essential for understanding [chemistry](/chemistry), [semiconductor physics](/semiconductor-physics), and quantum gases where particle number fluctuates.
 
-The remarkable thing? For large systems (and "large" means anything bigger than a few hundred particles), all three ensembles give the same predictions for average quantities. The fluctuations differ, but the averages converge. This equivalence of ensembles is one of the most reassuring results in theoretical physics.
+The remarkable thing? For large systems (and "large" means anything bigger than a few hundred particles), all three ensembles give the same predictions for average quantities. The fluctuations differ, but the averages converge. This equivalence of ensembles is one of the most reassuring results in [theoretical physics](/theoretical-physics).
 
 ## Classical vs. Quantum Statistical Mechanics
 

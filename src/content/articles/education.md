@@ -5,7 +5,7 @@ description: "Education is the process of acquiring knowledge, skills, and value
 category: everyday-concepts
 tags: ["education", "learning", "pedagogy", "schooling", "knowledge", "skills"]
 heroImage: "/images/articles/education.webp"
-heroAlt: "Students in a bright classroom engaged in collaborative learning with books and laptops"
+heroAlt: "Editorial photograph representing the concept of education"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is Education?
 
-Education is the structured process through which individuals acquire knowledge, skills, values, beliefs, and habits — typically through teaching, training, research, or self-directed study. It happens in schools, universities, workplaces, homes, and increasingly online. About 1.5 billion students are enrolled in formal education worldwide at any given time, and global spending on education exceeds $5 trillion annually. It's one of the largest human enterprises in existence.
+Education is the structured process through which individuals acquire knowledge, skills, values, beliefs, and habits — typically through [teaching](/teaching), training, research, or self-directed study. It happens in schools, universities, workplaces, homes, and increasingly online. About 1.5 billion students are enrolled in formal education worldwide at any given time, and global spending on education exceeds $5 trillion annually. It's one of the largest human enterprises in existence.
 
 ## A Very Brief History
 
-For most of human history, education was informal — children learned by watching, imitating, and participating in adult activities. Hunting, farming, cooking, building, and social customs were transmitted through direct experience and oral tradition. This worked well for small, stable societies.
+For most of human history, education was informal — children learned by watching, imitating, and participating in adult activities. [Hunting](/hunting), [farming](/farming), [cooking](/cooking), building, and social customs were transmitted through direct experience and oral tradition. This worked well for small, stable societies.
 
-Formal education emerged with writing. Sumerian scribal schools (c. 3000 BC) taught reading, writing, and mathematics to boys destined for administrative roles. Egyptian temple schools educated priests. Greek academies — Plato's Academy (founded c. 387 BC) and Aristotle's Lyceum (c. 335 BC) — established the model of teacher-led philosophical inquiry that [universities](/philosophy) still follow.
+Formal education emerged with [writing](/writing). Sumerian scribal schools (c. 3000 BC) taught reading, writing, and [mathematics](/mathematics) to boys destined for administrative roles. Egyptian temple schools educated priests. Greek academies — Plato's Academy (founded c. 387 BC) and Aristotle's Lyceum (c. 335 BC) — established the model of teacher-led philosophical inquiry that [universities](/philosophy) still follow.
 
 The modern public education system is surprisingly recent. Prussia introduced compulsory schooling in 1763, primarily to create literate, obedient citizens and soldiers. The United States followed with public school systems in the 1830s-1850s, led by education reformer Horace Mann. Britain passed its Elementary Education Act in 1870. By the early 20th century, most industrialized nations had compulsory primary education.
 
@@ -47,7 +47,7 @@ The expansion continues. Global literacy has risen from roughly 12% in 1820 to o
 
 Most national education systems follow a similar structure, though details vary enormously.
 
-**Primary education** (ages 5-11 roughly) teaches foundational literacy, numeracy, and social skills. Curricula typically include reading, writing, mathematics, science, social studies, arts, and physical education. Teaching methods at this level emphasize activity, play, and developing curiosity.
+**Primary education** (ages 5-11 roughly) teaches foundational literacy, numeracy, and social skills. Curricula typically include reading, writing, mathematics, science, social studies, arts, and [physical education](/physical-education). Teaching methods at this level emphasize activity, play, and developing curiosity.
 
 **Secondary education** (ages 11-18) builds on foundations with increasingly specialized and complex content. Students typically encounter distinct subject teachers, standardized testing, and (in many countries) tracking — sorting students into academic, vocational, or general pathways based on performance or interest. The effectiveness and fairness of tracking remains fiercely debated.
 
@@ -89,7 +89,7 @@ Globally, UNESCO reports that 244 million children and youth are still out of sc
 
 ## The Future of Education
 
-Technology is reshaping education faster than institutions can adapt. Online learning platforms (Coursera, Khan Academy, edX) offer university-level courses to anyone with internet access. AI tutoring systems provide personalized instruction at scale. Virtual reality creates immersive learning environments impossible in physical classrooms.
+Technology is reshaping education faster than institutions can adapt. Online learning platforms (Coursera, Khan Academy, edX) offer university-level courses to anyone with internet access. AI tutoring systems provide personalized instruction at scale. [Virtual reality](/virtual-reality) creates immersive learning environments impossible in physical classrooms.
 
 But technology alone isn't a solution. Research consistently shows that the quality of teaching matters more than the delivery medium. A great teacher with a chalkboard outperforms mediocre software with a brilliant interface. The technology question isn't "can we replace teachers?" — it's "how can we amplify what great teachers do?"
 

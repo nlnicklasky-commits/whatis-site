@@ -5,7 +5,7 @@ description: "Integer programming is an optimization method where variables must
 category: technology
 tags: ["integer programming", "optimization", "operations research", "mathematical modeling", "discrete optimization", "linear programming"]
 heroImage: "/images/articles/integer-programming-hero.webp"
-heroAlt: "Abstract visualization of a mathematical optimization solution space with grid points"
+heroAlt: "Editorial photograph representing the concept of integer programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -41,7 +41,7 @@ Think about it this way. If you're deciding how many trucks to send on delivery 
 
 These are the kinds of problems integer programming was built to solve.
 
-## Starting from Linear Programming
+## Starting from [Linear Programming](/linear-programming)
 
 To understand integer programming, you first need to understand linear programming (LP) — its continuous-variable cousin.
 
@@ -173,7 +173,7 @@ Portfolio optimization with minimum lot sizes (you can't buy half a share — we
 
 ## The Computational Frontier
 
-Integer programming sits at the intersection of mathematics, computer science, and [applied mathematics](/applied-mathematics). Several research frontiers are pushing the field forward.
+Integer programming sits at the intersection of mathematics, [computer science](/computer-science), and [applied mathematics](/applied-mathematics). Several research frontiers are pushing the field forward.
 
 ### Decomposition Methods
 
@@ -189,7 +189,7 @@ This is the hot frontier. Can [machine learning](/machine-learning) learn to mak
 
 Google's DeepMind published influential work in 2021 showing that neural networks could learn branching strategies that outperformed hand-crafted heuristics. This area is evolving rapidly.
 
-### Quantum Computing
+### [Quantum Computing](/quantum-computing)
 
 Certain optimization problems map naturally onto quantum computing architectures. Quantum annealing (used by D-Wave systems) directly solves binary optimization problems. Gate-based quantum computers could theoretically provide speedups for some IP formulations. As of 2026, practical quantum advantage for integer programming hasn't been convincingly demonstrated for problems of realistic size, but the potential is there.
 
@@ -197,7 +197,7 @@ Certain optimization problems map naturally onto quantum computing architectures
 
 If you want to get into integer programming, here's a practical path.
 
-**Start with linear programming.** You need to understand LP before IP makes sense. Any operations research textbook covers the basics — the simplex method, duality, sensitivity analysis. [Calculus](/calculus) and linear algebra background helps but isn't strictly necessary for applied work.
+**Start with linear programming.** You need to understand LP before IP makes sense. Any [operations research](/operations-research) textbook covers the basics — the simplex method, duality, sensitivity analysis. [Calculus](/calculus) and linear algebra background helps but isn't strictly necessary for applied work.
 
 **Learn to formulate models.** The skill of translating a word problem into mathematical variables, constraints, and an objective function is the core competency. Practice with classic problems: knapsack, assignment, traveling salesman, facility location.
 
@@ -209,6 +209,6 @@ If you want to get into integer programming, here's a practical path.
 
 Integer programming is a mathematical optimization technique that handles problems where decision variables must be whole numbers — representing real-world constraints like yes/no decisions, indivisible resources, and discrete choices. It's dramatically harder to solve than continuous linear programming due to its combinatorial nature, but modern algorithms and solvers have made previously intractable problems routinely solvable.
 
-The field underpins logistics, scheduling, network design, energy systems, and financial planning across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
+The field underpins logistics, scheduling, network design, energy systems, and [financial planning](/financial-planning) across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
 
 If optimization interests you, integer programming is where theory meets practice in the most impactful way. The problems are mathematically deep, computationally challenging, and practically everywhere.

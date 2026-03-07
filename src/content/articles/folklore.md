@@ -5,7 +5,7 @@ description: "Folklore is the traditional beliefs, stories, customs, and practic
 category: everyday-concepts
 tags: ["folklore", "mythology", "traditions", "oral history", "cultural heritage", "legends"]
 heroImage: "/images/articles/folklore.webp"
-heroAlt: "Ancient storyteller surrounded by listeners around a campfire at night"
+heroAlt: "Editorial photograph representing the concept of folklore"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Folklore?
 
-Folklore is the collective body of traditions, beliefs, stories, customs, and creative expressions that are passed down within a community — usually orally or through practice rather than through books or formal education. It includes fairy tales, myths, legends, jokes, proverbs, superstitions, folk songs, folk dances, folk art, traditional remedies, and hundreds of other forms. If a community shares it, and it's transmitted informally, it's probably folklore.
+Folklore is the collective body of traditions, beliefs, stories, customs, and creative expressions that are passed down within a community — usually orally or through practice rather than through books or formal [education](/education). It includes [fairy tales](/fairy-tales), myths, [legends](/legends), jokes, [proverbs](/proverbs), superstitions, folk songs, folk dances, [folk art](/folk-art), traditional remedies, and hundreds of other forms. If a community shares it, and it's transmitted informally, it's probably folklore.
 
 ## Broader Than You Think
 
@@ -39,11 +39,11 @@ Most people hear "folklore" and think of old fairy tales and myths. That's a sli
 
 **Verbal lore** — stories, jokes, proverbs, riddles, tongue twisters, insults, blessings, curses, and speechmaking traditions. That joke your uncle tells at every Thanksgiving? Folklore.
 
-**Material lore** — folk art, folk architecture, traditional food, traditional clothing, quilting patterns, pottery styles. The way your grandmother makes her pie crust — the specific technique passed from her grandmother — is material folklore.
+**Material lore** — folk art, folk [architecture](/architecture), traditional food, traditional clothing, [quilting](/quilting) patterns, pottery styles. The way your grandmother makes her pie crust — the specific technique passed from her grandmother — is material folklore.
 
 **Customary lore** — rituals, festivals, games, gestures, superstitions, calendar customs. Knocking on wood to avoid bad luck, throwing rice at weddings, blowing out birthday candles and making a wish — all folklore.
 
-**Performative lore** — folk music, folk dance, folk drama, storytelling traditions. When kids play "Ring Around the Rosie" (a rhyme possibly dating to the 1880s or earlier), they're performing folklore.
+**Performative lore** — [folk music](/folk-music), folk dance, folk drama, [storytelling](/storytelling) traditions. When kids play "Ring Around the Rosie" (a rhyme possibly dating to the 1880s or earlier), they're performing folklore.
 
 The word "folklore" was coined in 1846 by English scholar William Thoms as a replacement for "popular antiquities." He wanted a single term for the traditional knowledge and practices of ordinary people.
 
@@ -53,7 +53,7 @@ Stories are folklore's most prominent form, and they come in several recognized 
 
 **Myths** are sacred narratives about gods, creation, and the fundamental nature of reality. Myths were (or are) believed to be true by the cultures that tell them. Greek myths about Zeus, Hindu stories of Vishnu, Norse tales of Odin — these aren't entertainment. They're explanatory frameworks for how the world works.
 
-**Legends** are stories set in the recognizable world and told as if they happened — but without the sacred character of myths. King Arthur, Robin Hood, Johnny Appleseed. Legends often contain a kernel of historical truth wrapped in elaboration and invention.
+**Legends** are stories set in the recognizable world and told as if they happened — but without the sacred character of myths. King Arthur, Robin Hood, Johnny Appleseed. Legends often contain a kernel of historical truth wrapped in elaboration and [invention](/invention).
 
 **Fairy tales** (or wonder tales) feature magical elements in a generic setting — "once upon a time, in a land far away." They're not believed to be true and aren't set in specific historical contexts. Cinderella, Hansel and Gretel, Jack and the Beanstalk.
 

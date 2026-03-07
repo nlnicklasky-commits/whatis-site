@@ -5,7 +5,7 @@ description: "Organizational behavior studies how people act in workplaces and w
 category: everyday-concepts
 tags: ["organizational behavior", "ob", "workplace psychology", "human resources", "leadership", "team dynamics"]
 heroImage: "/images/articles/organizational-behavior.webp"
-heroAlt: "A diverse team collaborating around a conference table in a modern office setting"
+heroAlt: "Editorial photograph representing the concept of organizational behavior"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Organizational Behavior?
 
-Organizational behavior (OB) is the academic study of how people behave within organizations — how individuals act, how groups function, and how organizational structures and cultures shape both. It draws from psychology, sociology, anthropology, and economics to explain why workplaces work the way they do and, ideally, how to make them work better.
+Organizational behavior (OB) is the academic study of how people behave within organizations — how individuals act, how groups function, and how organizational structures and cultures shape both. It draws from [psychology](/psychology), [sociology](/sociology), [anthropology](/anthropology), and [economics](/economics) to explain why workplaces work the way they do and, ideally, how to make them work better.
 
 If you've ever wondered why some teams click while others implode, why certain managers inspire loyalty and others inspire resignation letters, or why company culture feels so different from one workplace to the next — those are all OB questions.
 
@@ -43,7 +43,7 @@ OB examines behavior at three nested levels:
 
 **Group level.** How do teams form, develop, and perform? What causes conflict, and how is it resolved? How do group norms emerge, and why do smart individuals sometimes make terrible decisions as a group?
 
-**Organizational level.** How do structure, culture, politics, and change affect behavior across the entire organization? Why do mergers so often fail? How does organizational design affect communication and decision-making?
+**Organizational level.** How do structure, culture, [politics](/politics), and change affect behavior across the entire organization? Why do mergers so often fail? How does organizational design affect communication and decision-making?
 
 ## Key Concepts at the Individual Level
 
@@ -51,15 +51,15 @@ OB examines behavior at three nested levels:
 
 Maslow's hierarchy of needs (1943) proposed that people are motivated by unmet needs in a sequence — physiological, safety, social, esteem, self-actualization. It's intuitive but empirically shaky.
 
-Herzberg's two-factor theory (1959) distinguished between "hygiene factors" (pay, conditions, job security) that prevent dissatisfaction and "motivators" (achievement, recognition, responsibility, growth) that create genuine satisfaction. The takeaway: paying people well prevents complaints, but it doesn't inspire great work.
+Herzberg's two-factor theory (1959) distinguished between "[hygiene](/hygiene) factors" (pay, conditions, job security) that prevent dissatisfaction and "motivators" (achievement, recognition, responsibility, growth) that create genuine satisfaction. The takeaway: paying people well prevents complaints, but it doesn't inspire great work.
 
 Self-determination theory (Deci and Ryan) identifies three core psychological needs: autonomy (control over your work), competence (feeling effective), and relatedness (connection to others). When these are met, people are intrinsically motivated. When they're blocked, people disengage.
 
 Daniel Pink's synthesis in *Drive* (2009) popularized these ideas: autonomy, mastery, and purpose drive performance better than carrots and sticks, especially for creative or complex work.
 
-**Job satisfaction** is linked to but distinct from motivation. Satisfied workers are less likely to quit and less likely to be absent, but the relationship between satisfaction and productivity is weaker than most people assume. You can be happy at work without being productive, and productive without being happy.
+**Job satisfaction** is linked to but distinct from motivation. Satisfied workers are less likely to quit and less likely to be absent, but the relationship between satisfaction and [productivity](/productivity) is weaker than most people assume. You can be happy at work without being productive, and productive without being happy.
 
-**Personality** influences workplace behavior more than many organizations acknowledge. The Big Five personality traits — openness, conscientiousness, extraversion, agreeableness, and neuroticism — predict job performance (especially conscientiousness), leadership emergence (extraversion), and team dynamics.
+**Personality** influences workplace behavior more than many organizations acknowledge. The Big Five personality traits — openness, conscientiousness, extraversion, agreeableness, and neuroticism — predict job performance (especially conscientiousness), [leadership](/leadership) emergence (extraversion), and team dynamics.
 
 ## Group Dynamics
 
@@ -89,10 +89,10 @@ The gap between espoused values and underlying assumptions is where organization
 
 OB has studied leadership extensively and still hasn't found a simple formula. Early theories looked for traits (height, intelligence, charisma). Then behavioral theories focused on what leaders do. Contingency theories argued that the best leadership style depends on the situation. Transformational leadership theory (Burns, Bass) distinguished between transactional leaders (who manage through rewards and punishments) and transformational leaders (who inspire through vision, challenge, and individual consideration).
 
-The current consensus: leadership is situational, relational, and learned. The best leaders adapt their style to the needs of their team and situation. And while certain traits (emotional intelligence, integrity, cognitive ability) help, leadership effectiveness is more about behavior than personality.
+The current consensus: leadership is situational, relational, and learned. The best leaders adapt their style to the needs of their team and situation. And while certain traits ([emotional intelligence](/emotional-intelligence), integrity, cognitive ability) help, leadership effectiveness is more about behavior than personality.
 
 ## Why OB Matters
 
 Organizations that ignore OB insights pay for it — in turnover, low productivity, failed change initiatives, toxic cultures, and disengaged employees. Gallup consistently reports that roughly 65% of U.S. workers are not engaged at work, costing an estimated $350 billion annually in lost productivity.
 
-The organizations that get this right — that design meaningful work, build effective teams, develop capable leaders, and maintain healthy cultures — outperform their peers consistently. OB doesn't provide magic formulas, but it does provide evidence-based insights about what works and what doesn't. Ignoring those insights is like ignoring the weather forecast before sailing — you might be fine, but you're gambling unnecessarily.
+The organizations that get this right — that design meaningful work, build effective teams, develop capable leaders, and maintain healthy cultures — outperform their peers consistently. OB doesn't provide magic formulas, but it does provide evidence-based insights about what works and what doesn't. Ignoring those insights is like ignoring the weather forecast before [sailing](/sailing) — you might be fine, but you're gambling unnecessarily.

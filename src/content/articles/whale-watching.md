@@ -5,7 +5,7 @@ description: "Whale watching is the observation of whales and dolphins in their 
 category: lifestyle
 tags: ["whale watching", "marine life", "ecotourism", "whales", "ocean wildlife", "nature"]
 heroImage: "/images/articles/whale-watching.webp"
-heroAlt: "Humpback whale breaching out of the ocean with a whale watching boat in the background"
+heroAlt: "Editorial photograph representing the concept of whale watching"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Whale Watching?
 
-Whale watching is the practice of observing whales, dolphins, and porpoises in their natural ocean habitat — typically from boats, but also from shore or aircraft. What started as a novelty in the 1950s has become a global tourism industry worth over $2.1 billion annually, operating in 119 countries and territories. About 13 million people go whale watching every year. The appeal isn't complicated: few experiences in nature match seeing a 40-ton animal launch itself out of the ocean.
+Whale watching is the practice of observing whales, dolphins, and porpoises in their natural ocean habitat — typically from boats, but also from shore or aircraft. What started as a novelty in the 1950s has become a global [tourism](/tourism) industry worth over $2.1 billion annually, operating in 119 countries and territories. About 13 million people go whale watching every year. The appeal isn't complicated: few experiences in nature match seeing a 40-ton animal launch itself out of the ocean.
 
 ## How It Became a Thing
 
@@ -39,7 +39,7 @@ The first commercial whale watching trip happened in 1955, when a fisherman in S
 
 The timing was significant. Commercial whaling was still legal and active in the 1950s, but public attitudes were shifting. By the 1970s, the "Save the Whales" movement had turned cetaceans into symbols of conservation. Whale watching grew alongside that cultural shift — a way to appreciate animals that previous generations had hunted to near extinction.
 
-The industry expanded rapidly through the 1980s and 1990s. Whale watching revenues now exceed the economic value of commercial whaling in virtually every country where both exist. Iceland, which resumed limited commercial whaling in 2003, earns far more from whale watching tourism than from whale meat sales — a fact that anti-whaling advocates cite frequently.
+The industry expanded rapidly through the 1980s and 1990s. Whale watching revenues now exceed the economic value of commercial whaling in virtually every country where both exist. Iceland, which resumed limited commercial whaling in 2003, earns far more from whale watching tourism than from whale meat [sales](/sales) — a fact that anti-whaling advocates cite frequently.
 
 ## What You Might See
 
@@ -79,7 +79,7 @@ Seasickness is the practical enemy. Open ocean swells and diesel fumes on a rock
 
 ## The Conservation Connection
 
-Whale watching creates economic incentives for conservation. When a humpback whale is worth more alive and swimming past tourist boats than dead and processed, communities that might otherwise support whaling have financial reasons to protect whale populations instead.
+Whale watching creates economic incentives for conservation. When a humpback whale is worth more alive and [swimming](/swimming) past tourist boats than dead and processed, communities that might otherwise support whaling have financial reasons to protect whale populations instead.
 
 This argument has real weight. Whale watching in the Dominican Republic generates roughly $20 million annually from humpback whale tourism. In Tonga, whale swimming tourism (a controversial subset of whale watching) provides significant income to a developing nation. These economic realities influence national positions on whaling at the International Whaling Commission.
 

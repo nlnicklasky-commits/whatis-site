@@ -5,7 +5,7 @@ description: "Checkers (draughts) is a two-player strategy board game played on 
 category: everyday-concepts
 tags: ["checkers", "draughts", "board games", "strategy", "games", "puzzles"]
 heroImage: "/images/articles/checkers.webp"
-heroAlt: "Red and black checkers pieces arranged on a wooden checkerboard during a game"
+heroAlt: "Editorial photograph representing the concept of checkers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,7 +53,7 @@ Different countries developed their own variants. International draughts (10x10 
 
 **The importance of tempo** — In checkers, having to move can be a disadvantage (zugzwang). Forcing your opponent to move when every available move weakens their position is a fundamental winning technique. This is why experienced players sometimes sacrifice pieces — the resulting position gives them tempo control.
 
-**King-hunting** — Getting one king while your opponent has none is usually decisive. Preventing your opponent from kinging while pushing your own pieces forward is a constant tension.
+**King-[hunting](/hunting)** — Getting one king while your opponent has none is usually decisive. Preventing your opponent from kinging while pushing your own pieces forward is a constant tension.
 
 **Shot plays** — Elaborate combinations where a series of forced jumps (mandatory captures) result in winning material or position. A good shot play can be 5-8 jumps deep, sacrificing pieces early to set up devastating captures later. These sequences are the most exciting plays in competitive checkers.
 
@@ -75,6 +75,6 @@ Competitive checkers has a rich tradition, particularly in the United States, Un
 
 The game's accessibility is its greatest cultural strength. You need a board and 24 pieces — simpler equipment than almost any other strategy game. Every kid who grew up playing checkers with a grandparent understands the game's social role: it's structured interaction, shared activity, and gentle competition in a format that works across age differences.
 
-Digital checkers remains popular too. Online platforms host millions of games annually. And because the game is solved, computer opponents can be calibrated to any skill level — a teaching tool that [chess](/chess) programs, working in an unsolved game, can't quite match at the theoretical level.
+Digital checkers remains popular too. Online platforms host millions of games annually. And because the game is solved, computer opponents can be calibrated to any skill level — a [teaching](/teaching) tool that [chess](/chess) programs, working in an unsolved game, can't quite match at the theoretical level.
 
-Checkers won't give you the status of chess mastery or the narrative drama of [backgammon's](/backgammon) dice-driven swings. What it offers is something rarer: a game whose rules take five minutes to learn and whose strategy rewards a lifetime of study, played on equipment that costs almost nothing. That's a remarkable design achievement for something invented before anyone kept records.
+Checkers won't give you the status of chess mastery or the narrative [drama](/drama) of [backgammon's](/backgammon) dice-driven swings. What it offers is something rarer: a game whose rules take five minutes to learn and whose strategy rewards a lifetime of study, played on equipment that costs almost nothing. That's a remarkable design achievement for something invented before anyone kept records.

@@ -5,7 +5,7 @@ description: "Software testing is the process of evaluating software to find bug
 category: technology
 tags: ["software testing", "quality assurance", "software engineering", "debugging", "automation", "programming"]
 heroImage: "/images/articles/software-testing.webp"
-heroAlt: "Terminal window showing passing and failing test results with green checkmarks and red X marks"
+heroAlt: "Editorial photograph representing the concept of software testing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -128,7 +128,7 @@ Usability testing typically involves five to eight participants (research by Jak
 
 ### Accessibility Testing
 
-Can people with disabilities use the software? Accessibility testing verifies compliance with standards like WCAG (Web Content Accessibility Guidelines) — checking that screen readers can parse the interface, keyboard navigation works, color contrast is sufficient, and alternative text is provided for images.
+Can people with disabilities use the software? Accessibility testing verifies compliance with standards like WCAG (Web Content Accessibility Guidelines) — checking that screen readers can parse the interface, keyboard [navigation](/navigation) works, color contrast is sufficient, and alternative text is provided for images.
 
 Tools like axe, WAVE, and Lighthouse automate some accessibility checks. But automated tools catch only about 30% of accessibility issues — the rest require manual testing, ideally involving people who actually use assistive technologies.
 
@@ -208,7 +208,7 @@ The phrase "testing in production" used to be a joke. Now it's a legitimate stra
 
 - **Feature flags** — deploying new code behind toggles so you can enable it for a small percentage of users
 - **Canary deployments** — routing a fraction of traffic to new code and comparing error rates
-- **Chaos engineering** — deliberately injecting failures (Netflix's Chaos Monkey randomly kills production servers) to verify resilience
+- **Chaos [engineering](/engineering)** — deliberately injecting failures (Netflix's Chaos Monkey randomly kills production servers) to verify resilience
 - **A/B testing** — running two versions simultaneously and measuring which performs better
 
 These don't replace pre-production testing. They complement it, catching problems that only manifest under real-world conditions — traffic patterns, data distributions, and user behaviors that are hard to simulate.

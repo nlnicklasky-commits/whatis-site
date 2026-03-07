@@ -5,7 +5,7 @@ description: "Human resources (HR) manages hiring, employee relations, benefits,
 category: everyday-concepts
 tags: ["human resources", "hr", "employment", "recruitment", "talent management", "workplace"]
 heroImage: "/images/articles/human-resources.webp"
-heroAlt: "HR professionals reviewing candidate profiles during a team meeting"
+heroAlt: "Editorial photograph representing the concept of human resources"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Human Resources?
 
-Human resources — universally abbreviated to HR — is the department within an organization that manages everything related to the people who work there. Hiring, firing, payroll, benefits, training, conflict resolution, legal compliance, and workplace culture all fall under the HR umbrella. If your company has employees, someone needs to handle the human side of having employees. That someone is HR.
+Human resources — universally abbreviated to HR — is the department within an organization that manages everything related to the people who work there. Hiring, firing, payroll, benefits, training, [conflict resolution](/conflict-resolution), legal compliance, and workplace culture all fall under the HR umbrella. If your company has employees, someone needs to handle the human side of having employees. That someone is HR.
 
 ## What HR Actually Does
 
@@ -39,15 +39,15 @@ The scope is broader than most people realize until they work in it:
 
 **Recruitment and hiring.** Writing job descriptions, posting positions, screening resumes, coordinating interviews, extending offers, and onboarding new hires. In a tight labor market, recruiting alone can consume a massive amount of HR's time. The average corporate job posting receives 250 applications. Someone has to process them.
 
-**Compensation and benefits.** Designing salary structures, administering health insurance, managing retirement plans (401k, pensions), handling paid time off, and ensuring pay practices comply with equal pay laws. Benefits administration is surprisingly complex — a mid-size company might work with a dozen different vendors for insurance, retirement, wellness programs, and employee assistance.
+**Compensation and benefits.** Designing salary structures, administering [health insurance](/health-insurance), managing retirement plans (401k, pensions), handling paid time off, and ensuring pay practices comply with equal pay laws. Benefits administration is surprisingly complex — a mid-size company might work with a dozen different vendors for insurance, retirement, [wellness](/wellness) programs, and employee assistance.
 
 **Employee relations.** Mediating workplace conflicts, investigating complaints (including harassment and discrimination claims), counseling managers on personnel issues, and sometimes having difficult conversations nobody else wants to have. This is often the most emotionally demanding part of the job.
 
 **Compliance.** Ensuring the organization follows federal, state, and local employment laws — which are numerous, complex, and constantly changing. The Fair Labor Standards Act, Title VII of the Civil Rights Act, the Americans with Disabilities Act, FMLA, OSHA regulations, and state-specific laws all create obligations that HR must track and implement.
 
-**Training and development.** Onboarding programs, skills training, leadership development, diversity and inclusion initiatives, and compliance training (sexual harassment prevention, safety protocols). Some companies invest heavily here; others treat it as a checkbox exercise.
+**Training and development.** Onboarding programs, skills training, [leadership](/leadership) development, diversity and inclusion initiatives, and compliance training (sexual harassment prevention, safety protocols). Some companies invest heavily here; others treat it as a checkbox exercise.
 
-**Performance management.** Designing review processes, coaching managers on giving feedback, managing performance improvement plans, and — when necessary — handling terminations. Firing someone legally and humanely requires careful documentation and procedure.
+**Performance [management](/management).** Designing review processes, [coaching](/coaching) managers on giving feedback, managing performance improvement plans, and — when necessary — handling terminations. Firing someone legally and humanely requires careful documentation and procedure.
 
 ## The Evolution of HR
 
@@ -63,7 +63,7 @@ Let's address the elephant in the room: many employees do not trust HR. This dis
 
 HR is paid by the company. Its primary obligation is to the organization. When an employee reports a problem — a toxic manager, harassment, discrimination — HR's response must balance the employee's welfare against the company's legal exposure, financial interests, and operational needs. These interests do not always align.
 
-The best HR departments understand that employee well-being and organizational health are usually aligned. Companies that treat people badly lose talent, face lawsuits, and develop toxic cultures that hurt productivity. Protecting employees *is* protecting the company. But this alignment is not always perfect, and in those gray areas, employees have legitimate reasons to be cautious about what they share with HR.
+The best HR departments understand that employee well-being and organizational health are usually aligned. Companies that treat people badly lose talent, face lawsuits, and develop toxic cultures that hurt [productivity](/productivity). Protecting employees *is* protecting the company. But this alignment is not always perfect, and in those gray areas, employees have legitimate reasons to be cautious about what they share with HR.
 
 Practical advice: document everything independently. If you report a serious issue to HR, also keep your own records (dates, witnesses, communications). Hope for the best, prepare for the possibility that the organization's interests will take priority.
 
@@ -78,9 +78,9 @@ Modern HR relies increasingly on data to make decisions:
 
 ## Careers in HR
 
-HR offers diverse career paths. Some people start in recruiting and stay — talent acquisition is essentially a sales role that appeals to outgoing, relationship-oriented personalities. Others gravitate toward compensation and benefits (analytical, detail-oriented), training and development (teaching-oriented), or labor relations (for those who enjoy negotiation and legal complexity).
+HR offers diverse career paths. Some people start in recruiting and stay — talent acquisition is essentially a sales role that appeals to outgoing, relationship-oriented personalities. Others gravitate toward compensation and benefits (analytical, detail-oriented), training and development ([teaching](/teaching)-oriented), or labor relations (for those who enjoy [negotiation](/negotiation) and legal complexity).
 
-The professional certification most recognized in the field is the SHRM-CP (Certified Professional) or SHRM-SCP (Senior Certified Professional), offered by the Society for Human Resource Management. PHR and SPHR certifications from HRCI are also widely respected.
+The professional certification most recognized in the field is the SHRM-CP (Certified Professional) or SHRM-SCP (Senior Certified Professional), offered by the Society for Human [Resource Management](/resource-management). PHR and SPHR certifications from HRCI are also widely respected.
 
 ## Why HR Matters
 

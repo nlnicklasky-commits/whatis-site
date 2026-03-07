@@ -5,7 +5,7 @@ description: "Data mining extracts patterns from large datasets using statistics
 category: technology
 tags: ["data mining", "machine learning", "data science", "pattern recognition", "analytics", "algorithms", "big data"]
 heroImage: "/images/articles/data-mining-hero.webp"
-heroAlt: "Abstract visualization of patterns being extracted from a large dataset"
+heroAlt: "Editorial photograph representing the concept of data mining"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -67,7 +67,7 @@ Once clean, data often needs to be transformed into formats suitable for mining 
 
 - **Normalization**: Scaling numeric values to a common range so one feature doesn't dominate others
 - **Aggregation**: Combining data points (daily sales into weekly totals, for example)
-- **Feature construction**: Creating new variables from existing ones (combining "purchase date" and "birth date" to get "customer age at purchase")
+- **Feature [construction](/construction)**: Creating new variables from existing ones (combining "purchase date" and "birth date" to get "customer age at purchase")
 - **Dimensionality reduction**: Reducing the number of variables while preserving important information, using techniques like Principal Component Analysis (PCA)
 
 ### Data Mining (The Actual Mining Part)
@@ -92,7 +92,7 @@ Classification assigns data points to predefined categories based on their chara
 
 **Support Vector Machines (SVMs)** find the boundary that best separates different classes, maximizing the margin between them. They work well with high-dimensional data and are particularly effective when you have clear class boundaries.
 
-**Neural networks** learn complex, non-linear relationships through layers of interconnected nodes. They're powerful for difficult classification problems but harder to interpret—you can see what the network predicts, but explaining why it made a particular classification is often challenging.
+**[Neural networks](/neural-networks)** learn complex, non-linear relationships through layers of interconnected nodes. They're powerful for difficult classification problems but harder to interpret—you can see what the network predicts, but explaining why it made a particular classification is often challenging.
 
 Real-world examples: email spam filtering (spam or not spam), medical diagnosis (malignant or benign), credit approval (approve or deny), and fraud detection (legitimate or fraudulent).
 
@@ -126,7 +126,7 @@ Amazon's recommendation engine ("customers who bought this also bought...") is p
 
 Anomaly detection (also called outlier detection) identifies data points that don't fit the expected pattern. Instead of finding what's common, you're finding what's unusual.
 
-This has obvious applications in fraud detection—a credit card transaction that doesn't match the cardholder's typical behavior. But it's also used in network security (unusual traffic patterns may indicate an attack), manufacturing (sensor readings outside normal ranges may indicate equipment failure), and healthcare (patient vitals that deviate from expected patterns).
+This has obvious applications in fraud detection—a credit card transaction that doesn't match the cardholder's typical behavior. But it's also used in [network security](/network-security) (unusual traffic patterns may indicate an attack), manufacturing (sensor readings outside normal ranges may indicate equipment failure), and healthcare (patient vitals that deviate from expected patterns).
 
 Methods range from simple statistical approaches (flagging values more than three standard deviations from the mean) to sophisticated [machine learning](/machine-learning) techniques like isolation forests and autoencoders.
 
@@ -174,7 +174,7 @@ General Electric reported that predictive maintenance using data mining reduced 
 
 ### Science and Research
 
-Astronomers mine telescope data to discover new celestial objects. Biologists mine genomic data to identify disease-related genes. Physicists at CERN mine particle collision data to discover new subatomic particles. The 2012 discovery of the Higgs boson required mining data from approximately 600 million particle collisions per second.
+Astronomers mine telescope data to discover new celestial objects. Biologists mine genomic data to identify disease-related genes. Physicists at CERN mine particle collision data to discover new [subatomic particles](/subatomic-particles). The 2012 discovery of the Higgs boson required mining data from approximately 600 million particle collisions per second.
 
 ## Tools and Technologies
 
@@ -252,7 +252,7 @@ Several trends are reshaping the field.
 
 **Graph mining** analyzes network and relationship data (social networks, biological networks, communication networks) to find patterns in how entities connect and interact.
 
-**Quantum computing** promises to accelerate certain mining algorithms exponentially. While practical quantum data mining is still years away, early research suggests dramatic speedups for specific problems like optimization and pattern matching.
+**[Quantum computing](/quantum-computing)** promises to accelerate certain mining algorithms exponentially. While practical quantum data mining is still years away, early research suggests dramatic speedups for specific problems like [optimization](/optimization) and pattern matching.
 
 ## Key Takeaways
 

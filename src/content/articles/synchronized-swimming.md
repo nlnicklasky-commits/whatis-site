@@ -5,7 +5,7 @@ description: "Synchronized swimming (artistic swimming) combines swimming, dance
 category: sports
 tags: ["synchronized swimming", "artistic swimming", "water sports", "Olympics", "dance", "athletics"]
 heroImage: "/images/articles/synchronized-swimming.webp"
-heroAlt: "Synchronized swimmers performing a formation in a competition pool"
+heroAlt: "Editorial photograph representing the concept of synchronized swimming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Synchronized Swimming?
 
-Synchronized swimming — officially renamed "artistic swimming" in 2017 — is a sport that combines swimming, dance, and gymnastics performed in water, set to music. Athletes execute choreographed routines featuring lifts, spins, formations, and acrobatic elements while keeping precise synchronization with their partners.
+Synchronized swimming — officially renamed "artistic swimming" in 2017 — is a sport that combines swimming, [dance](/dance), and [gymnastics](/gymnastics) performed in water, set to music. Athletes execute choreographed routines featuring lifts, spins, formations, and acrobatic elements while keeping precise synchronization with their partners.
 
 From the surface, it looks graceful and effortless. Underneath, swimmers are treading water furiously, holding their breath, executing powerful kicks, and lifting teammates above their heads — all while smiling. It's one of the most deceptively difficult sports in existence.
 
@@ -51,7 +51,7 @@ All of this happens in water at least 3 meters (10 feet) deep. There is no touch
 
 Artistic [swimming](/swimming) requires an unusual combination of abilities:
 
-**Aerobic fitness** — Performing a 4-minute routine at high intensity while holding your breath for extended periods demands extraordinary cardiovascular conditioning.
+**Aerobic [fitness](/fitness)** — Performing a 4-minute routine at high intensity while holding your breath for extended periods demands extraordinary cardiovascular conditioning.
 
 **Strength** — Lifts require explosive leg power. Holding positions requires core strength. Treading water for extended periods requires leg endurance.
 
@@ -73,7 +73,7 @@ Synchronization is paramount in both categories. Even a split-second timing diff
 
 ## A Brief History
 
-Water ballet — performing choreographed movements in water — has been around since at least the early 1900s. Annette Kellerman, an Australian swimmer, pioneered aquatic performances in the 1910s. But the sport really took shape through Esther Williams, whose spectacular aquatic films in the 1940s and 1950s brought synchronized swimming to massive audiences.
+Water [ballet](/ballet) — performing choreographed movements in water — has been around since at least the early 1900s. Annette Kellerman, an Australian swimmer, pioneered aquatic performances in the 1910s. But the sport really took shape through Esther Williams, whose spectacular aquatic films in the 1940s and 1950s brought synchronized swimming to massive audiences.
 
 Competitive synchronized swimming was formalized in the 1940s and 1950s. It debuted as an Olympic demonstration sport in 1948 and became a full Olympic medal event in 1984 at the Los Angeles Games.
 

@@ -5,7 +5,7 @@ description: "Taoism is an ancient Chinese philosophy and religion centered on t
 category: philosophy
 tags: ["taoism", "chinese philosophy", "tao", "wu wei", "yin and yang", "nature", "simplicity", "qi"]
 heroImage: "/images/articles/taoism.webp"
-heroAlt: "Misty mountain peaks in China with a winding river below, evoking the flow and harmony central to Taoist philosophy"
+heroAlt: "Editorial photograph representing the concept of taoism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -49,7 +49,7 @@ The tradition traces its origins primarily to two figures: Laozi and Zhuangzi.
 
 **Zhuangzi** (also written Chuang Tzu) lived around the 4th century BCE and left behind a collection of brilliantly witty, paradoxical essays and parables. His famous butterfly dream — where he wakes up unsure whether he's a man who dreamed he was a butterfly, or a butterfly dreaming it's a man — remains one of [philosophy's](/philosophy) most memorable thought experiments.
 
-These two texts — the *Tao Te Ching* and the *Zhuangzi* — form the philosophical bedrock. But Taoism didn't stay purely philosophical. Over centuries it absorbed folk religion, ritual practices, alchemy, martial arts, traditional Chinese medicine, and cosmological theories. By the 2nd century CE, organized religious Taoism had emerged with temples, priests, scriptures, and institutional structures.
+These two texts — the *Tao Te Ching* and the *Zhuangzi* — form the philosophical bedrock. But Taoism didn't stay purely philosophical. Over centuries it absorbed folk religion, ritual practices, alchemy, martial arts, [traditional Chinese medicine](/traditional-chinese-medicine), and cosmological theories. By the 2nd century CE, organized religious Taoism had emerged with temples, priests, scriptures, and institutional structures.
 
 ## The Tao Itself: What Exactly Is It?
 

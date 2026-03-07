@@ -5,7 +5,7 @@ description: "Nuclear power generates electricity from atomic fission. Learn how
 category: technology
 tags: ["nuclear power", "nuclear energy", "fission", "nuclear reactor", "electricity generation", "clean energy", "uranium"]
 heroImage: "/images/articles/nuclear-power-hero.webp"
-heroAlt: "Nuclear power plant with steam rising from cooling towers at sunset"
+heroAlt: "Editorial photograph representing the concept of nuclear power"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Nuclear Power?
 
-Nuclear power is the generation of electricity using heat from controlled nuclear fission reactions — the splitting of heavy atomic nuclei, primarily uranium-235, inside a reactor. As of 2025, around 440 nuclear reactors operate in 32 countries, producing roughly 10% of the world's electricity and about 25% of all low-carbon electricity globally.
+Nuclear power is the generation of [electricity](/electricity) using heat from controlled nuclear fission reactions — the splitting of heavy atomic nuclei, primarily uranium-235, inside a reactor. As of 2025, around 440 nuclear reactors operate in 32 countries, producing roughly 10% of the world's electricity and about 25% of all low-carbon electricity globally.
 
 ## The Basic Idea Is Surprisingly Simple
 
@@ -71,7 +71,7 @@ In a boiling water reactor (BWR), water boils directly in the reactor vessel, an
 
 Either way, once the steam passes through the turbine, it enters a condenser where it cools back to liquid water and returns to be heated again. The cooling water for the condenser comes from a river, lake, ocean, or cooling tower — those iconic hourglass-shaped concrete structures you associate with nuclear plants.
 
-Interestingly, those cooling towers aren't unique to nuclear plants. Coal and gas plants use them too. They're just heat exchangers. But they've become the universal symbol of nuclear power in popular culture.
+Interestingly, those cooling towers aren't unique to nuclear plants. Coal and gas plants use them too. They're just heat exchangers. But they've become the universal symbol of nuclear power in [popular culture](/popular-culture).
 
 ## The Safety Record — Actual Numbers, Not Feelings
 
@@ -94,7 +94,7 @@ This doesn't mean nuclear is without risk. It means the risk is lower than alter
 
 A partial meltdown at Three Mile Island Unit 2 in Pennsylvania was caused by a stuck valve, misleading instruments, and operator confusion. About half the reactor core melted. Radioactive gases were released, but studies by the NRC, EPA, and multiple independent researchers found no detectable health effects on the surrounding population.
 
-Zero deaths. Zero injuries. But the psychological impact was enormous. It effectively stopped new nuclear construction in the United States for three decades.
+Zero deaths. Zero injuries. But the psychological impact was enormous. It effectively stopped new nuclear [construction](/construction) in the United States for three decades.
 
 ### Chernobyl (1986)
 
@@ -212,7 +212,7 @@ Nuclear power triggers strong opinions. Some environmentalists champion it as es
 
 Here's what I'd suggest: look at the numbers yourself. Compare deaths per TWh. Compare lifecycle emissions per kWh. Compare land use per MW. Compare capacity factors. Compare waste volumes. Then compare costs — both the cost of building nuclear and the cost of not having it when you need reliable, low-carbon baseload power.
 
-The data supports a clear conclusion: nuclear power is one of the safest, cleanest, most reliable forms of energy generation humans have developed. Its challenges — cost, construction time, waste management, and public perception — are real but solvable. The question isn't whether nuclear technology works. It's whether we choose to use it.
+The data supports a clear conclusion: nuclear power is one of the safest, cleanest, most reliable forms of energy generation humans have developed. Its challenges — cost, construction time, [waste management](/waste-management), and public perception — are real but solvable. The question isn't whether nuclear technology works. It's whether we choose to use it.
 
 That choice will shape how the world generates electricity for the rest of this century. Understanding nuclear power — really understanding it, beyond headlines and emotions — puts you in a position to evaluate that choice with clear eyes.
 

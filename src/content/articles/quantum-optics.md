@@ -5,7 +5,7 @@ description: "Quantum optics studies light at the single-photon level, where qua
 category: science
 tags: ["quantum optics", "photons", "quantum mechanics", "lasers", "quantum information", "optics", "physics"]
 heroImage: "/images/articles/quantum-optics-hero.webp"
-heroAlt: "Single photon being split by a beam splitter in a quantum optics experiment"
+heroAlt: "Editorial photograph representing the concept of quantum optics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -117,7 +117,7 @@ The key quantum feature: the two photons can be entangled in polarization. Neith
 
 ### Bell Tests: Ruling Out Classical Explanations
 
-Could the correlations be explained classically -- maybe the photons had definite polarizations all along, and we just didn't know them? John Bell showed in 1964 that this "hidden variable" explanation makes different predictions from quantum mechanics. Specifically, classical hidden variables obey Bell's inequality, while quantum mechanics violates it.
+Could the correlations be explained classically -- maybe the photons had definite polarizations all along, and we just didn't know them? John Bell showed in 1964 that this "hidden variable" explanation makes different predictions from [quantum mechanics](/quantum-mechanics). Specifically, classical hidden variables obey Bell's inequality, while quantum mechanics violates it.
 
 Starting with Alain Aspect's experiments in 1982 and continuing through increasingly sophisticated tests, quantum optics experiments have consistently violated Bell's inequality, ruling out classical explanations. The 2022 Nobel Prize in Physics went to Alain Aspect, John Clauser, and Anton Zeilinger for exactly these experiments.
 
@@ -142,7 +142,7 @@ This is genuine teleportation of a quantum state, not science fiction teleportat
 
 Despite using "instantaneous" entanglement correlations, quantum teleportation cannot transmit information faster than light. Bob's photon is in a completely random state until he receives Alice's classical message, which travels at light speed. Without that message, he can't reconstruct the original state. The classical channel is essential, and it's limited by the speed of light.
 
-## Cavity Quantum Electrodynamics
+## Cavity [Quantum Electrodynamics](/quantum-electrodynamics)
 
 Cavity QED studies the interaction between light and atoms inside optical cavities -- tiny resonant chambers that confine photons. When a single atom is placed in a very high-quality cavity, the coupling between atom and cavity photon can become so strong that they form a hybrid quantum system.
 
@@ -204,6 +204,6 @@ The field is moving fast in several directions:
 
 Quantum optics is the science of light at the quantum level -- individual photons, their quantum states, and their interactions with matter. It began with Planck and Einstein's discovery that light is quantized and has evolved into one of the most productive branches of modern physics.
 
-The field has produced technologies that pervade modern life (lasers, [fiber-optic](/fiber-optics) communications) and enabled some of the most precise measurements ever achieved (gravitational wave detection, atomic clocks). It's the experimental foundation for quantum information science, providing the tools for quantum cryptography, photonic quantum computing, and quantum teleportation.
+The field has produced technologies that pervade modern life (lasers, [fiber-optic](/fiber-optics) communications) and enabled some of the most precise measurements ever achieved (gravitational wave detection, atomic clocks). It's the experimental foundation for quantum information science, providing the tools for [quantum cryptography](/quantum-cryptography), photonic quantum computing, and quantum teleportation.
 
 Perhaps most importantly, quantum optics has provided the clearest experimental demonstrations of quantum mechanics' strangest features: wave-particle duality, entanglement, and the measurement problem. Through increasingly precise and ingenious experiments, quantum opticians have shown that the quantum description of light isn't just mathematically convenient -- it's how the universe actually works. And from that understanding, an entire technological revolution is emerging.

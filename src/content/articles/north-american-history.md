@@ -5,7 +5,7 @@ description: "North American history spans thousands of years, from Indigenous c
 category: history
 tags: ["north american history", "american history", "canadian history", "indigenous peoples"]
 heroImage: "/images/articles/north-american-history.webp"
-heroAlt: "Historical map of North America showing early colonial settlements and Indigenous territories"
+heroAlt: "Editorial photograph representing the concept of north american history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,9 +33,9 @@ faq:
     a: "The American Revolution (1775-1783) reshaped the entire continent. Around 60,000 to 100,000 Loyalists fled to British North America (modern Canada), dramatically increasing its English-speaking population. The revolution also disrupted Indigenous alliances — many nations had sided with the British — and the new United States quickly began expanding westward into Indigenous territories. Mexico, still under Spanish rule, would fight its own independence war starting in 1810."
 ---
 
-# What Is North American History?
+# What Is North [American History](/american-history)?
 
-North American history is the study of human events, cultures, and societies across the continent — from the Arctic reaches of northern Canada to the deserts of Mexico, and everything in between. It covers at least 15,000 years of Indigenous civilizations, several centuries of European colonization, and the formation of modern nations that continue to shape global politics today.
+North American history is the study of human events, cultures, and societies across the continent — from the Arctic reaches of northern Canada to the deserts of Mexico, and everything in between. It covers at least 15,000 years of Indigenous civilizations, several centuries of European colonization, and the formation of modern nations that continue to shape global [politics](/politics) today.
 
 ## Before Columbus: Thousands of Years You Probably Didn't Learn About
 
@@ -45,13 +45,13 @@ The earliest confirmed human presence in North America dates to roughly 15,000 y
 
 ### Cahokia and the Mississippian World
 
-Around 1050 CE, the city of Cahokia — near present-day St. Louis, Missouri — held somewhere between 10,000 and 20,000 residents. That made it larger than London at the time. The site's central feature, Monks Mound, stands about 30 meters tall and covers more ground area than the Great Pyramid of Giza. Cahokia was the hub of Mississippian culture, a network of chiefdoms stretching across much of the eastern half of the continent, connected by trade routes along the Mississippi, Ohio, and Missouri rivers.
+Around 1050 CE, the city of Cahokia — near present-day St. Louis, Missouri — held somewhere between 10,000 and 20,000 residents. That made it larger than London at the time. The site's central feature, Monks Mound, stands about 30 meters tall and covers more ground area than the Great Pyramid of Giza. Cahokia was the hub of Mississippian culture, a network of chiefdoms stretching across much of the eastern half of the continent, connected by [trade](/trade) routes along the Mississippi, Ohio, and Missouri rivers.
 
 ### The Southwest and the Pacific Coast
 
 In the American Southwest, the Ancestral Puebloans (sometimes called Anasazi, though many Pueblo peoples consider that term problematic) built remarkable cliff dwellings at Mesa Verde and multi-story apartment complexes at Chaco Canyon. Their road network stretched hundreds of miles across the desert.
 
-Along the Pacific Coast, nations like the Tlingit, Haida, and Coast Salish developed wealthy, stratified societies based on salmon fishing and cedar woodworking — without agriculture. Their potlatch ceremonies involved the redistribution of enormous quantities of goods, a social system that baffled and alarmed European observers.
+Along the Pacific Coast, nations like the Tlingit, Haida, and Coast Salish developed wealthy, stratified societies based on salmon [fishing](/fishing) and cedar [woodworking](/woodworking) — without [agriculture](/agriculture). Their potlatch ceremonies involved the redistribution of enormous quantities of goods, a social system that baffled and alarmed European observers.
 
 ### The Haudenosaunee Confederacy
 
@@ -85,7 +85,7 @@ The 18th and 19th centuries saw North America's political map redrawn repeatedly
 
 The thirteen British colonies declared independence in 1776 and won the ensuing war by 1783 with help from France. The new United States adopted its Constitution in 1789, creating a federal republic that — frankly — was a radical experiment. Most of Europe's political thinkers gave it about ten years before it collapsed.
 
-The revolution's ripple effects spread across the continent. Between 60,000 and 100,000 Loyalists fled to British North America, reshaping Canada's demographics. Indigenous nations that had allied with Britain — particularly in the Ohio Valley and Great Lakes region — found themselves abandoned by their ally in the peace treaty. The new American government immediately began eyeing western expansion.
+The revolution's ripple effects spread across the continent. Between 60,000 and 100,000 Loyalists fled to British North America, reshaping Canada's demographics. Indigenous nations that had allied with Britain — particularly in the Ohio Valley and Great Lakes region — found themselves abandoned by their ally in the peace treaty. The new American [government](/government) immediately began eyeing western expansion.
 
 ### Mexico's Independence and Turmoil
 
@@ -111,7 +111,7 @@ The American Civil War (1861-1865) remains the deadliest conflict in U.S. histor
 
 ## The 20th Century: Wars, Rights, and Borders
 
-Both World Wars reshaped North America. The United States emerged from World War II as a global superpower. Canada established itself as a middle power with strong international institutions. Mexico industrialized rapidly under policies like import substitution.
+Both World Wars reshaped North America. The United States emerged from [World War II](/world-war-ii) as a global superpower. Canada established itself as a middle power with strong international institutions. Mexico industrialized rapidly under policies like import substitution.
 
 The Civil Rights Movement of the 1950s and 1960s — led by figures like Martin Luther King Jr., Rosa Parks, Fannie Lou Hamer, and John Lewis — dismantled legal segregation in the United States. The movement's tactics and moral framework influenced Indigenous rights movements across the continent, Quebec's Quiet Revolution, and feminist organizing in all three countries.
 
@@ -121,6 +121,6 @@ The North American Free Trade Agreement (NAFTA), implemented in 1994 and replace
 
 ## Why This History Matters Now
 
-North American history isn't just a record of past events — it directly shapes present-day politics, economics, and culture. Debates about immigration, Indigenous sovereignty, racial justice, and national identity all trace back to specific historical decisions, treaties, and conflicts.
+North American history isn't just a record of past events — it directly shapes present-day politics, [economics](/economics), and culture. Debates about immigration, Indigenous sovereignty, racial justice, and national identity all trace back to specific historical decisions, treaties, and conflicts.
 
 Understanding that history — the full version, not the sanitized textbook edition — is how you make sense of the continent you live on. The borders, the demographics, the wealth distribution, the cultural tensions — none of it appeared from nowhere. Every bit of it has a story, and most of those stories are messier, more interesting, and more relevant than you might expect.

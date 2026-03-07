@@ -5,7 +5,7 @@ description: "Textile design is the creation of patterns, prints, and structures
 category: arts-amp-culture
 tags: ["textile design", "fabric design", "pattern design", "weave", "print", "knitting"]
 heroImage: "/images/articles/textile-design.webp"
-heroAlt: "A designer working on colorful fabric pattern samples at a studio desk"
+heroAlt: "Editorial photograph representing the concept of textile design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -33,13 +33,13 @@ faq:
 
 Textile design is the creative discipline of designing the visual appearance, texture, and structure of fabrics. It encompasses everything from the bold floral print on a summer dress to the subtle weave pattern of a wool suit, the texture of your bath towel, and the technical fabric in a car seat.
 
-Every piece of fabric you touch was designed by someone. The pattern, the color, the weight, the drape, the hand-feel — none of these happen by accident. Textile designers make deliberate choices about all of them, balancing aesthetics with function and manufacturing constraints.
+Every piece of fabric you touch was designed by someone. The pattern, the color, the weight, the drape, the hand-feel — none of these happen by accident. Textile designers make deliberate choices about all of them, balancing [aesthetics](/aesthetics) with function and manufacturing constraints.
 
 ## The Three Main Disciplines
 
 ### Print Design
 
-Creating surface patterns that are applied to finished fabric through screen printing, digital printing, block printing, or transfer printing. Print designers create repeating patterns (the design tiles seamlessly in all directions), placement prints (a single design for a specific position on a garment), and engineered prints (designed to follow the garment's shape).
+Creating surface patterns that are applied to finished fabric through [screen printing](/screen-printing), digital printing, block printing, or transfer printing. Print designers create repeating patterns (the design tiles seamlessly in all directions), placement prints (a single design for a specific position on a garment), and engineered prints (designed to follow the garment's shape).
 
 A good repeat pattern — one that tiles endlessly without visible seams — is harder to create than it looks. The designer must manage the repeat unit, color palette, scale, and the relationship between motifs so that the eye moves naturally across the surface without catching on awkward joins.
 
@@ -51,13 +51,13 @@ Woven design requires understanding the technical capabilities of looms. Modern 
 
 ### Knit Design
 
-Creating the structure and pattern of knitted fabrics. Knit design involves choosing stitch types, yarn weights, and construction methods that determine how the fabric stretches, drapes, and feels. From fine jersey for t-shirts to chunky cable knits for sweaters, knit design is a distinct specialization.
+Creating the structure and pattern of knitted fabrics. Knit design involves choosing stitch types, yarn weights, and [construction](/construction) methods that determine how the fabric stretches, drapes, and feels. From fine jersey for t-shirts to chunky cable knits for sweaters, knit design is a distinct specialization.
 
 ## The Design Process
 
-1. **Research and inspiration** — Designers begin with mood boards, trend research, color forecasting, and inspiration from nature, art, architecture, and culture.
+1. **Research and inspiration** — Designers begin with mood boards, trend research, color forecasting, and inspiration from nature, art, [architecture](/architecture), and culture.
 
-2. **Sketching and development** — Initial ideas are explored through hand drawing, painting, or digital illustration. Multiple colorways (the same pattern in different color combinations) are developed.
+2. **[Sketching](/sketching) and development** — Initial ideas are explored through hand drawing, painting, or digital [illustration](/illustration). Multiple colorways (the same pattern in different color combinations) are developed.
 
 3. **Technical specification** — The design is prepared for production with exact color codes (Pantone references), repeat dimensions, and construction details.
 
@@ -67,8 +67,8 @@ Creating the structure and pattern of knitted fabrics. Knit design involves choo
 
 ## Where Textile Design Appears
 
-- **Fashion** — From haute couture [prints](/fashion-history) to everyday clothing fabrics
-- **Home furnishings** — Upholstery, curtains, rugs, bedding, wallpaper
+- **Fashion** — From [haute couture](/haute-couture) [prints](/fashion-history) to everyday clothing fabrics
+- **Home furnishings** — [Upholstery](/upholstery), curtains, rugs, bedding, wallpaper
 - **Automotive** — Car seat fabrics, headliners, and interior trim
 - **Technical textiles** — Medical textiles, protective clothing, aerospace materials
 - **Digital** — Pattern design for digital products, backgrounds, and packaging

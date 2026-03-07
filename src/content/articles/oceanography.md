@@ -5,7 +5,7 @@ description: "Oceanography studies the ocean's physics, chemistry, biology, and 
 category: science
 tags: ["oceanography", "ocean", "marine science", "marine biology", "climate change", "ecology", "marine geology"]
 heroImage: "/images/articles/oceanography-hero.webp"
-heroAlt: "Cross-section view of ocean layers showing marine life and geological features"
+heroAlt: "Editorial photograph representing the concept of oceanography"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -111,7 +111,7 @@ The ocean hosts an estimated 700,000+ species, of which roughly 230,000 have bee
 
 ### The Sunlit Surface
 
-The **euphotic zone** — the top 200 meters where enough light penetrates for photosynthesis — is where most ocean productivity occurs. Phytoplankton (microscopic photosynthetic organisms) produce roughly half of Earth's oxygen and form the base of marine food webs. They're the most important organisms most people have never heard of.
+The **euphotic zone** — the top 200 meters where enough light penetrates for photosynthesis — is where most ocean [productivity](/productivity) occurs. Phytoplankton (microscopic photosynthetic organisms) produce roughly half of Earth's oxygen and form the base of marine food webs. They're the most important organisms most people have never heard of.
 
 Phytoplankton blooms can be seen from space — massive green patches visible in satellite imagery. They're triggered by nutrient availability (particularly nitrogen, phosphorus, and iron), light, and temperature. These blooms support zooplankton, which feed small fish, which feed larger fish, marine mammals, and seabirds. The classic marine food chain.
 
@@ -129,11 +129,11 @@ Coral reefs are the ocean's rainforests — supporting about 25% of all marine s
 
 Reefs face multiple threats. Rising ocean temperatures cause **coral bleaching** — when stressed corals expel the symbiotic algae (zooxanthellae) that provide them with food and color. Major bleaching events in 2016, 2017, 2020, and 2024 affected reefs worldwide. The Great Barrier Reef experienced unprecedented back-to-back bleaching events.
 
-Ocean acidification threatens reef construction itself. As carbonate ion concentrations decrease, corals struggle to build new skeleton material fast enough to keep up with erosion and bioerosion. Some projections suggest many reefs could shift from net construction to net dissolution before 2100.
+Ocean acidification threatens reef [construction](/construction) itself. As carbonate ion concentrations decrease, corals struggle to build new skeleton material fast enough to keep up with erosion and bioerosion. Some projections suggest many reefs could shift from net construction to net dissolution before 2100.
 
 ## Geological Oceanography: The Ocean Floor
 
-### Plate Tectonics and the Seafloor
+### [Plate Tectonics](/plate-tectonics) and the Seafloor
 
 The ocean floor is geologically young — no older than about 200 million years. This was one of the key discoveries supporting plate tectonics theory. Oceanic crust is continuously created at mid-ocean ridges (where tectonic plates spread apart) and destroyed at subduction zones (where one plate dives beneath another).
 
@@ -161,7 +161,7 @@ The Argo float network — over 4,000 autonomous floats distributed across the g
 
 AUVs, gliders, and drifters are increasingly doing work that once required expensive ship time. A single research vessel costs $30,000-100,000 per day to operate. An autonomous glider can survey for months on a single battery charge.
 
-The Saildrone — an autonomous surface vehicle powered by wind and solar energy — can operate for months, carrying sensors for meteorology, oceanography, and fisheries. Fleets of Saildrones have surveyed Arctic sea ice, tracked hurricanes, and monitored fish stocks.
+The Saildrone — an autonomous surface vehicle powered by wind and solar energy — can operate for months, carrying sensors for [meteorology](/meteorology), oceanography, and fisheries. Fleets of Saildrones have surveyed Arctic sea ice, tracked hurricanes, and monitored fish stocks.
 
 ### DNA Sequencing
 

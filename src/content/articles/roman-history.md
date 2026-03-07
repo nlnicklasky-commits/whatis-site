@@ -5,7 +5,7 @@ description: "Roman history spans over 1,200 years, from a small Italian village
 category: history
 tags: ["ancient rome", "roman empire", "roman republic", "classical history"]
 heroImage: "/images/articles/roman-history.webp"
-heroAlt: "The ruins of the Roman Forum at golden hour with ancient columns and arches against a warm sky"
+heroAlt: "Editorial photograph representing the concept of roman history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,11 +37,11 @@ faq:
 
 Roman history is the story of how a cluster of mud huts on the banks of the Tiber River grew into the most powerful state the ancient world ever produced — and then, over centuries, fell apart. It spans roughly 1,200 years if you count from Rome's traditional founding in 753 BC to the fall of the Western Roman Empire in 476 AD. Include the Eastern (Byzantine) Empire and the timeline stretches to 1453 AD. Either way, it's one of the longest-running political narratives in human history.
 
-What makes Rome endlessly fascinating isn't just the scale. It's that so many modern institutions — law, government, language, engineering, military organization — trace directly back to Roman innovations. When you walk into a courtroom, vote in an election, drive on a paved road, or speak a Romance language, you're using Roman inventions. The empire is gone. Its fingerprints are everywhere.
+What makes Rome endlessly fascinating isn't just the scale. It's that so many modern institutions — law, [government](/government), language, [engineering](/engineering), military organization — trace directly back to Roman innovations. When you walk into a courtroom, vote in an election, drive on a paved road, or speak a Romance language, you're using Roman inventions. The empire is gone. Its fingerprints are everywhere.
 
 ## The Kingdom: 753-509 BC
 
-According to legend, Rome was founded by Romulus and Remus — twin brothers raised by a she-wolf. Romulus killed Remus, named the city after himself, and became its first king. That's mythology. The archaeological reality is less dramatic but still interesting.
+According to legend, Rome was founded by Romulus and Remus — twin brothers raised by a she-wolf. Romulus killed Remus, named the city after himself, and became its first king. That's [mythology](/mythology). The archaeological reality is less dramatic but still interesting.
 
 The earliest settlement on the Palatine Hill dates to roughly the 8th century BC — consistent with the traditional founding date. Rome began as one of many Latin communities in central Italy, situated at a strategic crossing point on the Tiber. The location gave it control over trade routes between the Etruscans to the north and the Greek colonies to the south.
 
@@ -63,7 +63,7 @@ In times of extreme crisis, the Republic could appoint a **dictator** — a sing
 
 ### Expansion and Conquest
 
-The Republic's growth was relentless. By 270 BC, Rome controlled the entire Italian peninsula. The three Punic Wars against Carthage (264-146 BC) established Rome as the dominant power in the western Mediterranean. The most famous episode — Hannibal crossing the Alps with war elephants in 218 BC and devastating Roman armies for 15 years — is one of military history's greatest stories. Rome ultimately won, and Carthage was literally erased from the map in 146 BC.
+The Republic's growth was relentless. By 270 BC, Rome controlled the entire Italian peninsula. The three Punic Wars against Carthage (264-146 BC) established Rome as the dominant power in the western Mediterranean. The most famous episode — Hannibal crossing the Alps with war elephants in 218 BC and devastating Roman armies for 15 years — is one of [military history](/military-history)'s greatest stories. Rome ultimately won, and Carthage was literally erased from the map in 146 BC.
 
 By the mid-1st century BC, Rome controlled an enormous territory: Spain, North Africa, Greece, much of the Middle East, and southern Gaul (France). This expansion brought enormous wealth flooding into Rome — along with hundreds of thousands of enslaved people, political instability, and growing inequality.
 
@@ -87,7 +87,7 @@ The first two centuries of the Empire — roughly from Augustus to Marcus Aureli
 
 At its peak under Emperor Trajan (around 117 AD), the Roman Empire covered about 5 million square kilometers and contained an estimated 55-70 million people — roughly 20% of the world's population. It stretched from Scotland to Mesopotamia, from the Rhine to the Sahara.
 
-The infrastructure was staggering. Over 400,000 kilometers of roads connected the empire — including 80,000 kilometers of paved highways. Aqueducts carried fresh water into cities from dozens of kilometers away. Rome's Cloaca Maxima (main sewer) was so well built that parts of it still function today, over 2,500 years after construction.
+The infrastructure was staggering. Over 400,000 kilometers of roads connected the empire — including 80,000 kilometers of paved highways. Aqueducts carried fresh water into cities from dozens of kilometers away. Rome's Cloaca Maxima (main sewer) was so well built that parts of it still function today, over 2,500 years after [construction](/construction).
 
 ### Daily Life in Rome
 
@@ -95,19 +95,19 @@ The city of Rome itself held roughly 1 million people by the 1st century AD — 
 
 Roman daily life was more familiar than you might expect. People lived in apartment blocks (insulae) that could reach six or seven stories. They ate at fast-food restaurants (thermopolia) — the ruins at Pompeii include dozens. They watched entertainment at the Colosseum, which seated 50,000 and featured gladiatorial combat, animal hunts, and mock naval battles. They bathed daily at public bathhouses that served as social clubs.
 
-But the familiarity has limits. Roman society ran on enslaved labor. Estimates suggest that 25-40% of Italy's population was enslaved during the late Republic and early Empire. Slavery was integral to agriculture, mining, domestic service, education (many tutors were enslaved Greeks), and entertainment (gladiators were typically enslaved or condemned criminals).
+But the familiarity has limits. Roman society ran on enslaved labor. Estimates suggest that 25-40% of Italy's population was enslaved during the late Republic and early Empire. Slavery was integral to [agriculture](/agriculture), mining, domestic service, [education](/education) (many tutors were enslaved Greeks), and entertainment (gladiators were typically enslaved or condemned criminals).
 
 ### The Crisis and Decline
 
 After the death of Marcus Aurelius in 180 AD, things got rough. The 3rd century brought a period historians call the Crisis of the Third Century (235-284 AD): 50 years of civil war, economic collapse, plague, and border incursions. In one 50-year stretch, Rome had over 25 emperors — most died violently.
 
-Emperor Diocletian (284-305 AD) stabilized the situation by splitting the empire into four administrative regions, each with its own ruler. Constantine I (306-337 AD) reunified it temporarily, moved the capital to Constantinople (modern Istanbul), and made Christianity legal with the Edict of Milan in 313 AD. By the end of the 4th century, Christianity was the empire's official religion — a remarkable rise for a faith that had been persecuted just decades earlier.
+Emperor Diocletian (284-305 AD) stabilized the situation by splitting the empire into four administrative regions, each with its own ruler. Constantine I (306-337 AD) reunified it temporarily, moved the capital to Constantinople (modern Istanbul), and made [Christianity](/christianity) legal with the Edict of Milan in 313 AD. By the end of the 4th century, Christianity was the empire's official religion — a remarkable rise for a faith that had been persecuted just decades earlier.
 
 But the Western Empire continued to weaken. The economy deteriorated. The army increasingly relied on Germanic mercenaries whose loyalty was questionable. The administrative bureaucracy grew unwieldy. And wave after wave of migrating peoples — Visigoths, Vandals, Huns, Ostrogoths — pressured and eventually breached the borders.
 
 In 410 AD, the Visigoths sacked Rome. It was the first time the city had been captured in 800 years. In 455, the Vandals sacked it again, more thoroughly. In 476, the Germanic chieftain Odoacer deposed the last Western Roman emperor, a teenager named Romulus Augustulus, and the Western Empire officially ended.
 
-The Eastern Empire, however, continued as the Byzantine Empire for nearly another millennium, preserving Roman law, Greek culture, and Christian theology until Constantinople fell to the Ottoman Turks in 1453.
+The Eastern Empire, however, continued as the Byzantine Empire for nearly another millennium, preserving [Roman law](/roman-law), Greek culture, and Christian theology until Constantinople fell to the Ottoman Turks in 1453.
 
 ## Rome's Lasting Impact
 
@@ -115,7 +115,7 @@ The specific ways Rome shaped the modern world are almost too numerous to list, 
 
 **Law.** Roman legal principles — innocent until proven guilty, the right to a fair trial, the concept of legal precedent, the distinction between public and private law — form the basis of legal systems across Europe, Latin America, and much of the world. The Justinian Code, compiled in the 6th century in Constantinople, was rediscovered during the Renaissance and directly influenced modern European law.
 
-**Language.** Latin evolved into the Romance languages: French, Spanish, Italian, Portuguese, and Romanian. Even English, a Germanic language, derives roughly 60% of its vocabulary from Latin (mostly through French after the Norman Conquest of 1066). Legal, medical, and scientific terminology is overwhelmingly Latin-derived.
+**Language.** Latin evolved into the [Romance languages](/romance-languages): French, Spanish, Italian, Portuguese, and Romanian. Even English, a Germanic language, derives roughly 60% of its vocabulary from Latin (mostly through French after the Norman Conquest of 1066). Legal, medical, and scientific terminology is overwhelmingly Latin-derived.
 
 **Engineering.** Roman concrete — a mixture of volcanic ash, lime, and seawater — was stronger than anything produced until the 19th century. The Pantheon's unreinforced concrete dome, built in 125 AD, remains the world's largest. Roman roads, bridges, and aqueducts demonstrated engineering principles that weren't matched for over a thousand years after Rome's fall.
 

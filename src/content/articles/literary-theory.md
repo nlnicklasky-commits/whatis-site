@@ -5,7 +5,7 @@ description: "Literary theory provides frameworks for interpreting texts. Learn 
 category: everyday-concepts
 tags: ["literary theory", "criticism", "structuralism", "deconstruction", "humanities", "interpretation"]
 heroImage: "/images/articles/literary-theory.webp"
-heroAlt: "Abstract representation of intersecting ideas with books and philosophical symbols"
+heroAlt: "Editorial photograph representing the concept of literary theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,15 +31,15 @@ faq:
 
 # What Is Literary Theory?
 
-Literary theory is the body of ideas and methods that scholars use to interpret literature. If literary criticism is the act of analyzing a specific text, literary theory is the toolkit you bring to that analysis — the set of assumptions, questions, and frameworks that shape what you notice and how you make sense of it.
+Literary theory is the body of ideas and methods that scholars use to interpret [literature](/literature). If [literary criticism](/literary-criticism) is the act of analyzing a specific text, literary theory is the toolkit you bring to that analysis — the set of assumptions, questions, and frameworks that shape what you notice and how you make sense of it.
 
-That might sound dry. It's actually one of the most contentious fields in the humanities. People have built entire careers arguing about whether the author's intention matters, whether a text has a fixed meaning, or whether literature can be separated from politics. These aren't just academic debates — they shape how we teach, read, and understand stories.
+That might sound dry. It's actually one of the most contentious fields in the humanities. People have built entire careers arguing about whether the author's intention matters, whether a text has a fixed meaning, or whether literature can be separated from [politics](/politics). These aren't just academic debates — they shape how we teach, read, and understand stories.
 
 ## Why Theory Exists
 
 For most of literary history, criticism was fairly informal. You read a work, judged whether it was good, and explained why — drawing on taste, knowledge, and rhetorical skill. Aristotle's *Poetics* (circa 335 BCE) is the earliest surviving example, analyzing tragedy through concepts like catharsis, plot structure, and character.
 
-But in the 20th century, scholars started asking harder questions. *How* do we decide what a text means? *Whose* reading counts? *What assumptions* are we making when we call something "great literature"? Literary theory emerged from these questions, borrowing heavily from philosophy, linguistics, psychology, sociology, and political thought.
+But in the 20th century, scholars started asking harder questions. *How* do we decide what a text means? *Whose* reading counts? *What assumptions* are we making when we call something "great literature"? Literary theory emerged from these questions, borrowing heavily from [philosophy](/philosophy), [linguistics](/linguistics), [psychology](/psychology), [sociology](/sociology), and political thought.
 
 The result is a field with more schools of thought than most people can keep track of. Here are the big ones.
 
@@ -47,7 +47,7 @@ The result is a field with more schools of thought than most people can keep tra
 
 Structuralism, which dominated the 1950s and 1960s, argued that literature works like a language — it follows systems of rules and conventions that exist beneath the surface of individual texts. Drawing on the linguistics of Ferdinand de Saussure, structuralists like Roland Barthes and Claude Levi-Strauss analyzed the underlying patterns, codes, and binary oppositions that organize stories.
 
-A structuralist might point out that fairy tales across cultures share the same basic character functions (the hero, the villain, the helper, the donor) regardless of their surface details. Vladimir Propp's *Morphology of the Folktale* (1928) identified 31 narrative functions that appear in Russian fairy tales — and remarkably, in folk narratives worldwide.
+A structuralist might point out that [fairy tales](/fairy-tales) across cultures share the same basic character functions (the hero, the villain, the helper, the donor) regardless of their surface details. Vladimir Propp's *Morphology of the Folktale* (1928) identified 31 narrative functions that appear in Russian fairy tales — and remarkably, in folk narratives worldwide.
 
 The strength of structuralism is its ability to reveal patterns. Its weakness? It can reduce literature to a system of codes, missing what makes individual works distinctive, surprising, or emotionally powerful.
 
@@ -77,9 +77,9 @@ Postmodern literature — think Thomas Pynchon, Don DeLillo, Salman Rushdie — 
 
 One of the most influential and controversial ideas in literary theory came from Roland Barthes's 1967 essay "The Death of the Author." Barthes argued that once a text is written, the author's intentions become irrelevant. The text belongs to the reader, who creates meaning through the act of reading.
 
-This was partly a reaction against the practice of explaining literature by referring to the author's biography and stated intentions. Barthes wanted to free interpretation from the tyranny of "what the author meant."
+This was partly a reaction against the practice of explaining literature by referring to the author's [biography](/biography) and stated intentions. Barthes wanted to free interpretation from the tyranny of "what the author meant."
 
-Michel Foucault complicated this further with "What Is an Author?" (1969), arguing that the "author" is a cultural construction that shapes how we read and value texts.
+Michel Foucault complicated this further with "What Is an Author?" (1969), arguing that the "author" is a cultural [construction](/construction) that shapes how we read and value texts.
 
 These ideas remain controversial. Many readers — and quite a few scholars — feel that completely ignoring authorial intent throws away useful information. But Barthes's essay permanently changed how the relationship between author, text, and reader is understood.
 

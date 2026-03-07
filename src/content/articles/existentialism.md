@@ -5,7 +5,7 @@ description: "Existentialism is a philosophy centered on individual freedom, cho
 category: everyday-concepts
 tags: ["existentialism", "philosophy", "freedom", "Sartre", "Kierkegaard", "meaning"]
 heroImage: "/images/articles/existentialism.webp"
-heroAlt: "Person standing alone on a vast empty road stretching into the horizon"
+heroAlt: "Editorial photograph representing the concept of existentialism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,13 +37,13 @@ Existentialism is a philosophical movement built on one uncomfortable idea: you'
 
 The phrase most associated with existentialism is Jean-Paul Sartre's "existence precedes essence." In plain language, that means you exist first, and *then* you define who you are through your choices. A hammer has an essence before it exists — someone designs it with a purpose. But you? You showed up without instructions.
 
-This flips centuries of Western philosophy on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
+This flips centuries of [Western philosophy](/western-[philosophy](/philosophy)) on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
 
 And here's the kicker: you can't escape this. Even refusing to choose is a choice. Sartre called this being "condemned to be free."
 
 ## Where It Started
 
-Most histories trace existentialism back to Soren Kierkegaard, a Danish philosopher writing in the 1840s. Kierkegaard was frustrated with Hegel's abstract philosophical systems, which he felt ignored what it actually feels like to be a living, deciding, anxious human being. His big contribution was emphasizing subjective experience — the inner life of the individual — over grand theoretical frameworks.
+Most histories trace existentialism back to Soren Kierkegaard, a Danish philosopher [writing](/writing) in the 1840s. Kierkegaard was frustrated with Hegel's abstract philosophical systems, which he felt ignored what it actually feels like to be a living, deciding, anxious human being. His big contribution was emphasizing subjective experience — the inner life of the individual — over grand theoretical frameworks.
 
 Friedrich Nietzsche, writing a few decades later, added another crucial ingredient. His famous declaration that "God is dead" wasn't a celebration. It was a warning. If the traditional foundation for morality and meaning disappears, what do you replace it with? Nietzsche's answer: you create your own values. He called this the task of the "Ubermensch" — the person who builds meaning from scratch.
 
@@ -51,9 +51,9 @@ Neither Kierkegaard nor Nietzsche used the word "existentialism." That came late
 
 ## The 20th Century Explosion
 
-Existentialism really took off in the 1940s and 1950s, mostly in France. World War II had just demonstrated — in the most visceral way imaginable — that civilization's guarantees were fragile. The Holocaust, the atomic bomb, the sheer scale of destruction. People were ready for a philosophy that acknowledged absurdity and confronted meaninglessness head-on.
+Existentialism really took off in the 1940s and 1950s, mostly in France. [World War II](/world-war-ii) had just demonstrated — in the most visceral way imaginable — that civilization's guarantees were fragile. The Holocaust, the atomic bomb, the sheer scale of destruction. People were ready for a philosophy that acknowledged absurdity and confronted meaninglessness head-on.
 
-**Jean-Paul Sartre** became the public face of existentialism. His 1943 work *Being and Nothingness* laid out the philosophical foundations, but it was his 1946 lecture "Existentialism Is a Humanism" that made the ideas accessible. Sartre emphasized radical freedom, personal responsibility, and "bad faith" — his term for the self-deception people use to avoid confronting their freedom.
+**Jean-Paul Sartre** became the public face of existentialism. His 1943 work *Being and Nothingness* laid out the philosophical foundations, but it was his 1946 lecture "Existentialism Is a [Humanism](/humanism)" that made the ideas accessible. Sartre emphasized radical freedom, personal responsibility, and "bad faith" — his term for the self-deception people use to avoid confronting their freedom.
 
 **Simone de Beauvoir** applied existentialist thinking to gender. Her 1949 book *The Second Sex* argued that women weren't born into a fixed feminine nature — they were made into "women" by social forces. "One is not born, but rather becomes, a woman." This was existentialism applied to lived experience, and it basically launched second-wave feminism.
 
@@ -79,13 +79,13 @@ The biggest misconception about existentialism is that it's depressing. Gloomy F
 
 Existentialism is actually aggressively optimistic in a weird way. Yes, there's no built-in meaning. But that means you get to create it. You're not trapped by destiny or fate. Every moment is a chance to choose differently. Sartre explicitly said existentialism is a form of humanism — it puts humans in the driver's seat.
 
-The other common mistake is confusing it with nihilism. Nihilism says nothing matters. Existentialism says nothing matters *until you make it matter.* That's a huge difference.
+The other common mistake is confusing it with [nihilism](/nihilism). Nihilism says nothing matters. Existentialism says nothing matters *until you make it matter.* That's a huge difference.
 
 ## Existentialism Beyond Philosophy
 
-The movement's influence spread far beyond academic philosophy. In literature, Fyodor Dostoevsky (a proto-existentialist) and Franz Kafka explored existential themes decades before the movement had a name. Samuel Beckett's *Waiting for Godot* and Ralph Ellison's *Invisible Man* are drenched in existentialist ideas.
+The movement's influence spread far beyond academic philosophy. In [literature](/literature), Fyodor Dostoevsky (a proto-existentialist) and Franz Kafka explored existential themes decades before the movement had a name. Samuel Beckett's *Waiting for Godot* and Ralph Ellison's *Invisible Man* are drenched in existentialist ideas.
 
-In psychology, existential therapy emerged as a distinct approach. Irvin Yalom, Rollo May, and Viktor Frankl (whose *Man's Search for Meaning* chronicled finding purpose in a concentration camp) all drew on existentialist ideas. The core therapeutic question: what gives *your* life meaning?
+In [psychology](/psychology), existential therapy emerged as a distinct approach. Irvin Yalom, Rollo May, and Viktor Frankl (whose *Man's Search for Meaning* chronicled finding purpose in a concentration camp) all drew on existentialist ideas. The core therapeutic question: what gives *your* life meaning?
 
 Film, music, and pop culture absorbed existentialism too. From Ingmar Bergman's movies to the Coen Brothers, from the lyrics of The Cure to the philosophy behind *The Matrix* — existential themes show up everywhere once you start looking.
 

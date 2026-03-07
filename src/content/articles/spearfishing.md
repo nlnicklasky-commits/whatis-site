@@ -5,7 +5,7 @@ description: "Spearfishing is an ancient method of fishing using a spear or spea
 category: sports
 tags: ["spearfishing", "freediving", "underwater hunting", "marine", "fishing", "ocean"]
 heroImage: "/images/articles/spearfishing.webp"
-heroAlt: "A spearfisher diving underwater with a speargun near a rocky reef with fish visible"
+heroAlt: "Editorial photograph representing the concept of spearfishing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,9 +31,9 @@ faq:
 
 # What Is Spearfishing?
 
-Spearfishing is the practice of hunting fish underwater using a spear, speargun, or pole spear while freediving (breath-hold diving) or, in some areas, while scuba diving. It's one of the oldest methods of fishing in human history — archaeological evidence shows humans have been spearing fish for at least 16,000 years — and it remains a popular recreational activity and competitive sport worldwide.
+Spearfishing is the practice of [hunting](/hunting) fish underwater using a spear, speargun, or pole spear while freediving (breath-hold [diving](/diving)) or, in some areas, while [scuba diving](/scuba-diving). It's one of the oldest methods of [fishing](/fishing) in human history — archaeological evidence shows humans have been spearing fish for at least 16,000 years — and it remains a popular recreational activity and competitive sport worldwide.
 
-Unlike rod-and-reel fishing, spearfishing puts you directly in the fish's environment. You dive beneath the surface, locate your quarry, approach it (fish are wary of divers), and take a precise shot. It combines the skills of freediving, hunting, marine knowledge, and underwater navigation into a single demanding activity.
+Unlike rod-and-reel fishing, spearfishing puts you directly in the fish's environment. You dive beneath the surface, locate your quarry, approach it (fish are wary of divers), and take a precise shot. It combines the skills of freediving, hunting, marine knowledge, and underwater [navigation](/navigation) into a single demanding activity.
 
 ## How It Works
 

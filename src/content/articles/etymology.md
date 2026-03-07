@@ -5,7 +5,7 @@ description: "Etymology is the study of word origins and how their meanings evol
 category: everyday-concepts
 tags: ["etymology", "everyday-concepts"]
 heroImage: "/images/articles/etymology.webp"
-heroAlt: "An open vintage dictionary showing word origins with a magnifying glass on the page"
+heroAlt: "Editorial photograph representing the concept of etymology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,19 +31,19 @@ faq:
 
 # What Is Etymology?
 
-Etymology is the study of the origins, history, and evolution of words — tracing how they were born, what they originally meant, how their meanings shifted over centuries, and how they traveled between languages. The word "etymology" itself comes from the Greek *etymon* (true sense of a word) and *logos* (study). It's linguistic archaeology: digging through layers of historical usage to uncover the buried stories inside everyday words.
+Etymology is the study of the origins, history, and evolution of words — tracing how they were born, what they originally meant, how their meanings shifted over centuries, and how they traveled between languages. The word "etymology" itself comes from the Greek *etymon* (true sense of a word) and *logos* (study). It's linguistic [archaeology](/archaeology): digging through layers of historical usage to uncover the buried stories inside everyday words.
 
 ## Why Words Have Stories
 
-Every word you use arrived in your vocabulary through a specific historical path. Some paths are short — "selfie" was coined around 2002 and entered dictionaries by 2013. Others are ancient — "mother" traces back roughly 6,000 years to the Proto-Indo-European root *mehter, and cognates appear in Sanskrit (*matar*), Latin (*mater*), Greek (*meter*), German (*Mutter*), Russian (*mat'*), and dozens of other languages. The word survived the collapse of civilizations, the migration of peoples across continents, and the evolution of entirely new languages.
+Every word you use arrived in your vocabulary through a specific historical path. Some paths are short — "selfie" was coined around 2002 and entered dictionaries by 2013. Others are ancient — "mother" traces back roughly 6,000 years to the Proto-Indo-European root *mehter, and cognates appear in [Sanskrit](/sanskrit) (*matar*), Latin (*mater*), Greek (*meter*), German (*Mutter*), Russian (*mat'*), and dozens of other languages. The word survived the collapse of civilizations, the migration of peoples across continents, and the evolution of entirely new languages.
 
-Understanding [etymology](/english-language) reveals connections invisible on the surface. "Salary" comes from the Latin *salarium* — payment for salt, because Roman soldiers were partly paid in salt (or paid an allowance to buy it). This tells you something about Roman economics and the historical value of salt. "Candidate" comes from *candidatus* — "clothed in white" — because Roman political candidates wore white togas to symbolize purity. "Sinister" simply meant "left" in Latin — the association with evil reflects ancient prejudice against left-handedness.
+Understanding [etymology](/english-language) reveals connections invisible on the surface. "Salary" comes from the Latin *salarium* — payment for salt, because Roman soldiers were partly paid in salt (or paid an allowance to buy it). This tells you something about Roman [economics](/economics) and the historical value of salt. "Candidate" comes from *candidatus* — "clothed in white" — because Roman political candidates wore white togas to symbolize purity. "Sinister" simply meant "left" in Latin — the association with evil reflects ancient prejudice against left-handedness.
 
 ## How Etymology Works
 
 Etymologists trace words backward through time using several methods.
 
-**Comparative linguistics** compares words across related languages to reconstruct ancestral forms. If English "father," German *Vater*, Latin *pater*, Greek *pater*, and Sanskrit *pitar* all share similar sounds and meanings, linguists conclude they descended from a common Proto-Indo-European root — even though no written records of Proto-Indo-European exist. The reconstruction is done through systematic sound correspondences (Grimm's Law and related principles describe regular patterns of consonant shifts between language families).
+**Comparative [linguistics](/linguistics)** compares words across related languages to reconstruct ancestral forms. If English "father," German *Vater*, Latin *pater*, Greek *pater*, and Sanskrit *pitar* all share similar sounds and meanings, linguists conclude they descended from a common Proto-Indo-European root — even though no written records of Proto-Indo-European exist. The reconstruction is done through systematic sound correspondences (Grimm's Law and related principles describe regular patterns of consonant shifts between language families).
 
 **Historical documentation** traces words through written records. The Oxford English Dictionary, the most thorough historical dictionary of English, documents the earliest known written usage of each word and traces how meanings evolved over time. An OED entry might show a word first appearing in a 1382 manuscript with one meaning, shifting in the 1500s, and acquiring its modern sense by the 1700s.
 
@@ -65,7 +65,7 @@ Words evolve in predictable patterns.
 
 [English](/english-language) has the largest vocabulary of any language — over 170,000 current words in the OED — largely because it borrows shamelessly from every language it contacts.
 
-The core vocabulary (pronouns, numbers, basic verbs, family terms) remains Germanic. But English absorbed thousands of Norse words during the Viking invasions (they, their, them, sky, egg, knife, window). The Norman Conquest poured French vocabulary into English — government, justice, army, literature, cuisine, fashion. Latin and Greek contributed scientific, legal, and academic terminology. Later borrowings came from every corner of the globe.
+The core vocabulary (pronouns, numbers, basic verbs, family terms) remains Germanic. But English absorbed thousands of Norse words during the Viking invasions (they, their, them, sky, egg, knife, window). The Norman Conquest poured French vocabulary into English — [government](/government), justice, army, [literature](/literature), cuisine, fashion. Latin and Greek contributed scientific, legal, and academic terminology. Later borrowings came from every corner of the globe.
 
 The result is a language with extraordinary synonym richness. English often has three words for the same concept: one Germanic, one French, one Latin. *Rise/mount/ascend. Ask/question/interrogate. Kingly/royal/regal.* The Germanic word tends to be the most common and informal, the French word middle-register, and the Latin word the most formal. This layering gives English writers unusual flexibility in register and tone.
 
@@ -73,7 +73,7 @@ The result is a language with extraordinary synonym richness. English often has 
 
 Etymology isn't just academic curiosity — it improves your understanding of language in practical ways.
 
-**Vocabulary building** accelerates when you recognize roots. If you know that *bio* means "life" and *graph* means "writing," you can decode biography (life writing), biography, autobiography, and biographer without a dictionary. Latin and Greek roots appear in thousands of English words; learning 50-100 common roots unlocks comprehension of hundreds of unfamiliar words.
+**Vocabulary building** accelerates when you recognize roots. If you know that *bio* means "life" and *graph* means "[writing](/writing)," you can decode [biography](/biography) (life writing), biography, autobiography, and biographer without a dictionary. Latin and Greek roots appear in thousands of English words; learning 50-100 common roots unlocks comprehension of hundreds of unfamiliar words.
 
 **[Spelling](/education)** makes more sense with etymology. "Pneumonia" starts with a P because the Greek root *pneumon* (lung) starts with P — Greeks pronounced the P, English speakers dropped it. "Debt" has a silent B because Renaissance scholars inserted it to reflect the Latin *debitum*, even though the word entered English from French *dette* without a B. Knowing why a spelling exists makes it easier to remember.
 

@@ -5,7 +5,7 @@ description: "Mechanical engineering designs and builds machines, engines, and s
 category: technology
 tags: ["mechanical engineering", "engineering", "machines", "thermodynamics", "mechanics", "design", "manufacturing"]
 heroImage: "/images/articles/mechanical-engineering-hero.webp"
-heroAlt: "Detailed technical drawing of gears and mechanical components overlaid on a blueprint"
+heroAlt: "Editorial photograph representing the concept of mechanical engineering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

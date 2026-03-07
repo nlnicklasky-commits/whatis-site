@@ -5,7 +5,7 @@ description: "Image processing is manipulating digital images using algorithms t
 category: everyday-concepts
 tags: ["image processing", "computer vision", "digital imaging", "photography", "algorithms"]
 heroImage: "/images/articles/image-processing.webp"
-heroAlt: "Split screen showing an original photograph and its digitally enhanced version"
+heroAlt: "Editorial photograph representing the concept of image processing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Image Processing?
 
-Image processing is the use of algorithms and mathematical operations to transform, enhance, or analyze digital images. Every time your phone automatically adjusts a photo's brightness, a medical scanner reveals a tumor, or a satellite maps deforestation, image processing is doing the work. It sits between raw image data and useful visual information.
+Image processing is the use of [algorithms](/algorithms) and mathematical operations to transform, enhance, or analyze digital images. Every time your phone automatically adjusts a photo's brightness, a medical scanner reveals a tumor, or a satellite maps deforestation, image processing is doing the work. It sits between raw image data and useful visual information.
 
 ## How Digital Images Work
 
@@ -58,7 +58,7 @@ A 12-megapixel smartphone photo contains 12 million pixels, each with three colo
 
 ## Advanced Techniques
 
-**Segmentation** divides an image into meaningful regions — separating a subject from its background, identifying organs in a medical scan, or delineating land use types in satellite imagery. Techniques range from simple thresholding (everything above a brightness value is foreground, everything below is background) to complex machine learning approaches.
+**Segmentation** divides an image into meaningful regions — separating a subject from its background, identifying organs in a medical scan, or delineating land use types in satellite imagery. Techniques range from simple thresholding (everything above a brightness value is foreground, everything below is background) to complex [machine learning](/machine-learning) approaches.
 
 **Feature extraction** identifies distinctive patterns — corners, edges, textures, shapes — that can be used for matching, recognition, or classification. SIFT (Scale-Invariant Feature Transform) and ORB (Oriented FAST and Rotated BRIEF) are popular algorithms.
 
@@ -68,23 +68,23 @@ A 12-megapixel smartphone photo contains 12 million pixels, each with three colo
 
 ## Real-World Applications
 
-**Medical imaging** is one of the most impactful applications. X-rays, MRIs, CT scans, and ultrasounds all produce raw data that requires processing to become diagnostic images. Image processing enhances contrast, reduces noise, reconstructs 3D volumes from 2D slices, and — increasingly — uses AI to flag potential abnormalities. A 2020 study in *Nature Medicine* showed deep learning-based image analysis matching radiologist accuracy in detecting breast cancer from mammograms.
+**[Medical imaging](/medical-imaging)** is one of the most impactful applications. X-rays, MRIs, CT scans, and ultrasounds all produce raw data that requires processing to become diagnostic images. Image processing enhances contrast, reduces noise, reconstructs 3D volumes from 2D slices, and — increasingly — uses AI to flag potential abnormalities. A 2020 study in *Nature Medicine* showed [deep learning](/deep-learning)-based image analysis matching radiologist accuracy in detecting breast cancer from mammograms.
 
-**Satellite and aerial imagery** powers everything from Google Maps to climate research to agriculture. Image processing classifies land cover types, measures vegetation health (using near-infrared bands), tracks urban growth, and monitors environmental changes over decades.
+**Satellite and aerial imagery** powers everything from Google Maps to climate research to [agriculture](/agriculture). Image processing classifies land cover types, measures vegetation health (using near-infrared bands), tracks urban growth, and monitors environmental changes over decades.
 
 **Manufacturing quality control** uses cameras and image processing to inspect products at production speed — detecting defects, verifying dimensions, reading serial numbers, and checking assembly completeness. Automated visual inspection is faster and more consistent than human inspectors.
 
 **Autonomous vehicles** process camera feeds in real time to detect lane markings, traffic signs, pedestrians, other vehicles, and obstacles. This requires processing 30+ frames per second with millisecond latency — a demanding computational challenge.
 
-**Photography** — every digital camera applies image processing. Demosaicing (converting raw sensor data into a full-color image), white balance, lens distortion correction, noise reduction, and tone mapping all happen automatically. Smartphone computational photography pushes this further with HDR merging, night mode, portrait mode bokeh, and AI scene optimization.
+**Photography** — every digital camera applies image processing. Demosaicing (converting raw sensor data into a full-color image), white balance, lens distortion correction, noise reduction, and tone mapping all happen automatically. Smartphone computational photography pushes this further with HDR merging, night mode, portrait mode bokeh, and AI scene [optimization](/optimization).
 
 ## The Deep Learning Shift
 
 Traditional image processing uses hand-crafted algorithms — a human designs the mathematical operations based on understanding of the problem. Deep learning flips this: you feed the system thousands or millions of example images, and it learns the appropriate processing operations automatically.
 
-This shift has been dramatic. Convolutional neural networks (CNNs) now outperform traditional methods at tasks like object detection, image classification, semantic segmentation, and image super-resolution. Tools like OpenCV increasingly integrate deep learning alongside traditional methods.
+This shift has been dramatic. Convolutional [neural networks](/neural-networks) (CNNs) now outperform traditional methods at tasks like object detection, image classification, semantic segmentation, and image super-resolution. Tools like OpenCV increasingly integrate deep learning alongside traditional methods.
 
-The trade-off is interpretability. A Gaussian blur is mathematically transparent — you know exactly what it does and why. A neural network that achieves better results is often a black box — it works, but explaining *why* it works is difficult.
+The [trade](/trade)-off is interpretability. A Gaussian blur is mathematically transparent — you know exactly what it does and why. A neural network that achieves better results is often a black box — it works, but explaining *why* it works is difficult.
 
 ## Getting Started
 

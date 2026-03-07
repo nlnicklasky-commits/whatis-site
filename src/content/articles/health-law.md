@@ -5,7 +5,7 @@ description: Health law is the body of legal rules governing healthcare delivery
 category: law
 tags: ["health law", "healthcare", "medical ethics", "patient rights", "regulation"]
 heroImage: "/images/articles/health-law.webp"
-heroAlt: "Legal scales of justice beside a stethoscope representing the intersection of law and healthcare"
+heroAlt: "Editorial photograph representing the concept of health law"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ faq:
 
 # What Is Health Law?
 
-Health law is the body of legal rules, regulations, and ethical principles governing the delivery of healthcare, the rights of patients, the obligations of medical providers, and the regulation of public health. It touches everything from your doctor's office to pharmaceutical boardrooms to government pandemic responses.
+Health law is the body of legal rules, regulations, and ethical principles governing the delivery of healthcare, the rights of patients, the obligations of medical providers, and the regulation of [public health](/public-health). It touches everything from your doctor's office to pharmaceutical boardrooms to [government](/government) pandemic responses.
 
 ## Where Law Meets Medicine
 
 The relationship between law and medicine is, frankly, uncomfortable. Doctors want to heal people. Lawyers want accountability and rules. These goals overlap sometimes and collide other times. But the collision produces something necessary — a framework that protects patients from harm, ensures access to care, holds providers accountable for mistakes, and balances competing interests in a system where the stakes are literally life and death.
 
-Health law isn't a single statute or code. It's a vast, overlapping web of federal and state laws, constitutional provisions, administrative regulations, court decisions, and professional ethics guidelines. In the United States alone, the healthcare system accounts for roughly 18% of GDP — about $4.5 trillion annually as of 2023 — and every dollar that moves through that system is governed by some form of legal rule.
+Health law isn't a single statute or code. It's a vast, overlapping web of federal and state laws, constitutional provisions, administrative regulations, court decisions, and professional [ethics](/ethics) guidelines. In the United States alone, the healthcare system accounts for roughly 18% of GDP — about $4.5 trillion annually as of 2023 — and every dollar that moves through that system is governed by some form of legal rule.
 
 If that sounds overwhelming, that's because it is. Even health law specialists don't know all of it. The field is enormous.
 
@@ -57,11 +57,11 @@ There are exceptions. Emergency situations where the patient is unconscious allo
 
 ### Privacy and Confidentiality
 
-HIPAA — the Health Insurance Portability and Accountability Act of 1996 — is the law most Americans have heard of, even if they misunderstand what it does. HIPAA established national standards for protecting individually identifiable health information, called Protected Health Information (PHI).
+HIPAA — the [Health Insurance](/health-insurance) Portability and Accountability Act of 1996 — is the law most Americans have heard of, even if they misunderstand what it does. HIPAA established national standards for protecting individually identifiable health information, called Protected Health Information (PHI).
 
 The Privacy Rule restricts who can see your medical records. The Security Rule requires electronic health data to be protected through administrative, physical, and technical safeguards. The Breach Notification Rule demands that covered entities inform you if your data is compromised.
 
-Here's what HIPAA doesn't do: it doesn't prevent your employer from asking if you're vaccinated. It doesn't stop your neighbor from talking about your health. It doesn't apply to fitness trackers or health apps (unless they're connected to a covered entity). HIPAA applies specifically to healthcare providers, health plans, and healthcare clearinghouses — and to their business associates. The popular understanding of HIPAA as a blanket medical privacy law is significantly overstated.
+Here's what HIPAA doesn't do: it doesn't prevent your employer from asking if you're vaccinated. It doesn't stop your neighbor from talking about your health. It doesn't apply to [fitness](/fitness) trackers or health apps (unless they're connected to a covered entity). HIPAA applies specifically to healthcare providers, health plans, and healthcare clearinghouses — and to their business associates. The popular understanding of HIPAA as a blanket medical privacy law is significantly overstated.
 
 ### Malpractice and Medical Liability
 
@@ -99,7 +99,7 @@ New drugs go through preclinical testing (lab and animal studies), then three ph
 
 Drug pricing remains a massive legal and political issue. The United States is the only major developed country that doesn't directly negotiate or regulate drug prices at the national level, though the Inflation Reduction Act of 2022 authorized Medicare to negotiate prices on a limited number of drugs starting in 2026.
 
-Patent law and the drug approval process intersect in ways that affect prices dramatically. Brand-name manufacturers use patents and regulatory exclusivity periods to maintain monopoly pricing. Generic competition eventually drives prices down — generic drugs cost 80-85% less on average — but "patent thickets" and regulatory strategies can delay generic entry for years.
+[Patent law](/patent-law) and the drug approval process intersect in ways that affect prices dramatically. Brand-name manufacturers use patents and regulatory exclusivity periods to maintain monopoly pricing. Generic competition eventually drives prices down — generic drugs cost 80-85% less on average — but "patent thickets" and regulatory strategies can delay generic entry for years.
 
 ## Bioethics and Emerging Issues
 
@@ -109,7 +109,7 @@ Health law increasingly grapples with questions that didn't exist a generation a
 
 **Telemedicine regulation** expanded dramatically during the COVID-19 pandemic when emergency waivers allowed providers to practice across state lines and prescribe controlled substances via video calls. Many of those emergency provisions have expired, creating a patchwork of state regulations that frustrates both providers and patients.
 
-**Artificial intelligence in medicine** raises novel liability questions. If an AI system misdiagnoses a patient, who's liable — the doctor who relied on it, the hospital that deployed it, or the company that built it? Current [law](/business-law) doesn't have clear answers, and legislators are scrambling to catch up with technology that's already being used in clinical settings.
+**[Artificial intelligence](/artificial-intelligence) in medicine** raises novel liability questions. If an AI system misdiagnoses a patient, who's liable — the doctor who relied on it, the hospital that deployed it, or the company that built it? Current [law](/business-law) doesn't have clear answers, and legislators are scrambling to catch up with technology that's already being used in clinical settings.
 
 **End-of-life decisions** remain legally fraught. Medical aid in dying is legal in 10 states and Washington, D.C. as of 2024. The legal requirements vary but typically include terminal diagnosis with less than six months to live, multiple requests, mental competency evaluations, and waiting periods. The ethical and legal debates around end-of-life autonomy show no signs of resolution.
 
@@ -119,4 +119,4 @@ You might never need a lawyer for a car accident. You might never face a crimina
 
 It determines whether you can get insurance, what it covers, and how much you pay. It protects your medical records from being shared without your permission. It ensures that the drugs you take have been tested for safety. It gives you the right to make your own medical decisions and to hold providers accountable when they make mistakes.
 
-Health law is also where some of the most contentious social debates play out — abortion, end-of-life care, vaccination mandates, mental health treatment, drug policy. These aren't just legal questions. They're questions about what kind of society we want to live in and how much authority we're willing to give governments, corporations, and medical professionals over our bodies and our lives.
+Health law is also where some of the most contentious social debates play out — abortion, end-of-life care, vaccination mandates, [mental health](/mental-health) treatment, drug policy. These aren't just legal questions. They're questions about what kind of society we want to live in and how much authority we're willing to give governments, corporations, and medical professionals over our bodies and our lives.

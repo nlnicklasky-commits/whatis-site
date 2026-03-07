@@ -5,7 +5,7 @@ description: "Low-carb diets restrict carbohydrate intake to promote fat burning
 category: health-amp-wellness
 tags: ["nutrition", "low-carb diets", "health", "weight loss", "metabolism"]
 heroImage: "/images/articles/low-carb-diets.webp"
-heroAlt: "A plate of grilled salmon with avocado and leafy greens representing a typical low-carb meal"
+heroAlt: "Editorial photograph representing the concept of low-carb diets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ To understand low-carb diets, you need to understand what carbohydrates do in yo
 
 Here's where it gets relevant: insulin also inhibits fat burning. When insulin levels are high (which happens after carb-heavy meals), your body preferentially burns glucose and stores fat. When insulin levels drop (which happens when you restrict carbs), your body shifts to burning stored fat for fuel.
 
-This metabolic shift is the core mechanism behind low-carb diets. Reduce carbs, reduce insulin, increase fat burning. The biochemistry is real — the question is how much it matters for actual health outcomes compared to simply eating fewer total calories.
+This metabolic shift is the core mechanism behind low-carb diets. Reduce carbs, reduce insulin, increase fat burning. The [biochemistry](/biochemistry) is real — the question is how much it matters for actual health outcomes compared to simply eating fewer total calories.
 
 When carbs are restricted severely (below about 50 grams per day), the liver begins converting fatty acids into ketone bodies — an alternative fuel source that your brain and muscles can use instead of glucose. This state, called ketosis, is the basis of ketogenic diets. It's a normal physiological process, not dangerous, though it's often confused with diabetic ketoacidosis (a dangerous condition in type 1 diabetes that involves both high ketones and dangerously high blood sugar).
 
@@ -57,11 +57,11 @@ Not all low-carb diets are the same. They vary significantly in how many carbs t
 
 **Atkins diet** — developed by Dr. Robert Atkins in the 1970s, this approach starts with severe carb restriction (20 grams/day in the "induction" phase) and gradually increases carbs as you approach your goal weight. The most recent version (Atkins 20) has four phases, ending at roughly 80-100 grams of daily carbs.
 
-**Paleo diet** — not strictly low-carb, but often results in lower carb intake because it eliminates grains, legumes, and processed foods. The rationale: eat what our Paleolithic ancestors ate. Critics point out that our ancestors' diets varied enormously by geography and season, and that modern produce barely resembles its ancient counterparts.
+**Paleo diet** — not strictly low-carb, but often results in lower carb intake because it eliminates grains, legumes, and processed foods. The rationale: eat what our Paleolithic ancestors ate. Critics point out that our ancestors' diets varied enormously by [geography](/geography) and season, and that modern produce barely resembles its ancient counterparts.
 
 **South Beach diet** — created by cardiologist Dr. Arthur Agatston, this plan emphasizes "good carbs" (whole grains, vegetables) over "bad carbs" (refined sugars, white flour) and "good fats" (unsaturated) over "bad fats" (saturated and trans). It's more moderate than keto or Atkins.
 
-**Carnivore diet** — the extreme end, consisting entirely of animal products. Zero carbs, zero fiber, zero plants. Proponents claim dramatic health improvements. The scientific evidence is essentially nonexistent, and most nutrition researchers are deeply skeptical.
+**Carnivore diet** — the extreme end, consisting entirely of animal products. Zero carbs, zero fiber, zero plants. Proponents claim dramatic health improvements. The scientific evidence is essentially nonexistent, and most [nutrition](/nutrition) researchers are deeply skeptical.
 
 ## What the Research Actually Shows
 
@@ -69,9 +69,9 @@ This is where things get interesting — and contested.
 
 **Weight loss:** Low-carb diets produce faster initial weight loss than low-fat diets. That's consistently shown across studies. However, much of the early rapid loss is water weight (remember those carb-water bonds). Over 6-12 months, the weight loss difference between low-carb and low-fat diets narrows considerably. A 2018 Stanford study (DIETFITS) found that after 12 months, neither low-carb nor low-fat dieters lost significantly more weight — what mattered most was adherence. The diet you can actually stick with beats the theoretically superior one you abandon after three weeks.
 
-**Blood sugar and diabetes:** This is probably where low-carb diets have their strongest evidence. Multiple studies show that carb restriction improves blood sugar control in people with type 2 diabetes, often allowing medication reduction. A 2019 study in *Diabetes Therapy* found that a supervised very low-carb diet reversed type 2 diabetes in 60% of participants after one year. The American Diabetes Association now recognizes low-carb diets as a valid approach for diabetes management.
+**Blood sugar and diabetes:** This is probably where low-carb diets have their strongest evidence. Multiple studies show that carb restriction improves blood sugar control in people with type 2 diabetes, often allowing medication reduction. A 2019 study in *Diabetes Therapy* found that a supervised very low-carb diet reversed type 2 diabetes in 60% of participants after one year. The American Diabetes Association now recognizes low-carb diets as a valid approach for [diabetes management](/diabetes-management).
 
-**Cardiovascular markers:** Here the picture is mixed. Low-carb diets typically improve triglycerides and HDL cholesterol — both good things. But they sometimes raise LDL cholesterol, especially on high-saturated-fat versions. Whether the LDL increase matters depends on context. Some researchers argue that the pattern of LDL changes on low-carb diets (larger, less atherogenic particles) is less concerning than the numbers suggest. Others disagree. The debate connects directly to what [lipidology](/lipidology) specialists study.
+**Cardiovascular markers:** Here the picture is mixed. Low-carb diets typically improve triglycerides and HDL cholesterol — both good things. But they sometimes raise LDL cholesterol, especially on high-saturated-fat versions. Whether the LDL increase matters depends on context. Some researchers argue that the pattern of LDL changes on low-carb diets (larger, less atherogenic particles) is less concerning than the numbers suggest. Others disagree. The [debate](/debate) connects directly to what [lipidology](/lipidology) specialists study.
 
 **Inflammation and metabolic syndrome:** Several studies show improvements in inflammatory markers and metabolic syndrome criteria (waist circumference, blood pressure, triglycerides, fasting glucose) on low-carb diets. Metabolic syndrome affects roughly 35% of American adults, making this particularly relevant.
 
@@ -115,7 +115,7 @@ People with **significant weight to lose** often find low-carb diets easier to f
 
 People with **metabolic syndrome** — elevated waist circumference, blood pressure, blood sugar, and triglycerides — often see multiple markers improve on carb restriction.
 
-People who are **already lean, highly active, or performing high-intensity athletics** may not benefit and could even see performance declines, particularly in activities requiring glycolytic energy (sprints, heavy weightlifting, HIIT).
+People who are **already lean, highly active, or performing high-intensity [athletics](/athletics)** may not benefit and could even see performance declines, particularly in activities requiring glycolytic energy (sprints, heavy [weightlifting](/weightlifting), HIIT).
 
 ## The Practical Bottom Line
 

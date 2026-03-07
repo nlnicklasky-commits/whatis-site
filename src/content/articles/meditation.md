@@ -5,7 +5,7 @@ description: "Meditation is a practice of focused attention and awareness traini
 category: everyday-concepts
 tags: ["meditation", "mindfulness", "mental health", "wellness", "stress relief", "contemplation"]
 heroImage: "/images/articles/meditation.webp"
-heroAlt: "Person sitting cross-legged in a peaceful outdoor setting practicing meditation"
+heroAlt: "Editorial photograph representing the concept of meditation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -53,11 +53,11 @@ A practice from the Buddhist tradition where you systematically direct feelings 
 
 ### Body Scan
 
-Systematically moving your attention through different parts of your body, noticing sensations without trying to change them. This is often used for stress relief, pain management, and as an introduction to mindfulness practice.
+Systematically moving your attention through different parts of your body, noticing sensations without trying to change them. This is often used for stress relief, pain [management](/management), and as an introduction to mindfulness practice.
 
 ### Movement Meditation
 
-Meditation combined with gentle physical activity — walking meditation, tai chi, qigong, and certain yoga practices. These are useful for people who find sitting still difficult.
+Meditation combined with gentle physical activity — [walking](/walking) meditation, [tai chi](/tai-chi), [qigong](/qigong), and certain yoga practices. These are useful for people who find sitting still difficult.
 
 ## What the Science Says
 

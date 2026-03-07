@@ -5,7 +5,7 @@ description: "Semantics is the study of meaning in language — how words, phras
 category: language
 tags: ["semantics", "linguistics", "meaning", "language", "philosophy of language", "lexical semantics"]
 heroImage: "/images/articles/semantics.webp"
-heroAlt: "A diagram showing relationships between words and their meanings with connecting arrows"
+heroAlt: "Editorial photograph representing the concept of semantics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Semantics?
 
-Semantics is the branch of linguistics that studies meaning — how words, phrases, sentences, and texts convey information, and how that meaning is constructed, interpreted, and sometimes misunderstood. If syntax is the grammar of how words fit together, semantics is the study of what those arrangements actually mean.
+Semantics is the branch of [linguistics](/linguistics) that studies meaning — how words, phrases, sentences, and texts convey information, and how that meaning is constructed, interpreted, and sometimes misunderstood. If [syntax](/syntax) is the [grammar](/grammar) of how words fit together, semantics is the study of what those arrangements actually mean.
 
 It sounds abstract. It isn't. Every time you understand a joke, catch a double meaning, argue over definitions, or notice that two sentences say the same thing in different ways, you're doing semantics — you're reasoning about meaning. The field just does it systematically.
 
@@ -39,7 +39,7 @@ It sounds abstract. It isn't. Every time you understand a joke, catch a double m
 
 Semantics asks questions that seem simple until you try to answer them rigorously.
 
-**What does a word mean?** Take "bank." It means the edge of a river. It also means a financial institution. It also means a shot in billiards. How does a single sequence of sounds carry multiple unrelated meanings? And how do you know which meaning someone intends? (Context, mostly — but that opens up another set of questions.)
+**What does a word mean?** Take "bank." It means the edge of a river. It also means a financial institution. It also means a shot in [billiards](/billiards). How does a single sequence of sounds carry multiple unrelated meanings? And how do you know which meaning someone intends? (Context, mostly — but that opens up another set of questions.)
 
 **How do words combine to create meaning?** "The dog bit the man" and "The man bit the dog" contain identical words but mean very different things. The meaning depends on structure — which noun is doing the biting. This principle, called compositionality, says the meaning of a complex expression is determined by the meanings of its parts and the rules for combining them.
 
@@ -53,9 +53,9 @@ The field splits into several sub-areas, each examining meaning from a different
 
 **Lexical semantics** studies the meanings of individual words and the relationships between them. Synonyms (big/large), antonyms (hot/cold), hyponyms (dog is a hyponym of animal), and polysemous words (words with multiple related meanings) are all lexical semantic phenomena. This subfield is the backbone of dictionary-making and thesaurus design.
 
-**Compositional semantics** (also called formal semantics) studies how word meanings combine into phrase and sentence meanings. It uses formal logic to represent meaning precisely — turning natural language into logical formulas that can be evaluated as true or false in a given situation. This is deeply technical work that draws heavily on mathematics and philosophy.
+**Compositional semantics** (also called formal semantics) studies how word meanings combine into phrase and sentence meanings. It uses formal [logic](/logic) to represent meaning precisely — turning natural language into logical formulas that can be evaluated as true or false in a given situation. This is deeply technical work that draws heavily on [mathematics](/mathematics) and [philosophy](/philosophy).
 
-**Conceptual semantics** asks how meaning relates to mental representation. When you hear the word "dog," what happens in your mind? Do you form a mental image? Activate a definition? Access a prototype (a typical example)? Different theories give different answers, and the debate connects semantics to cognitive science and psychology.
+**Conceptual semantics** asks how meaning relates to mental representation. When you hear the word "dog," what happens in your mind? Do you form a mental image? Activate a definition? Access a prototype (a typical example)? Different theories give different answers, and the [debate](/debate) connects semantics to cognitive science and [psychology](/psychology).
 
 **Cross-linguistic semantics** examines how languages carve up meaning differently. Russian has separate basic color terms for light blue (goluboy) and dark blue (siniy) — two words where English has one. Does this mean Russian speakers perceive color differently? Research suggests they actually do discriminate between blues slightly faster, which tells us something fascinating about the relationship between language and thought.
 
@@ -73,7 +73,7 @@ These aren't edge cases. Natural language is riddled with meanings that emerge f
 
 **Search engines** depend on semantic analysis. When you search for "apple," Google needs to determine whether you mean the fruit or the company. Modern search engines use distributional semantics — analyzing how words appear in context across billions of documents — to infer meaning. This is why Google understands that "best phone" and "top smartphone" are asking similar questions.
 
-**Machine translation** is fundamentally a semantic challenge. Translating "time flies like an arrow" from English requires understanding the metaphor — otherwise you might search for insects that fly similarly to arrows. The reason machine translation has improved so dramatically in recent years is that AI models have gotten much better at capturing semantic relationships, even if they don't truly "understand" meaning the way humans do.
+**Machine [translation](/translation)** is fundamentally a semantic challenge. Translating "time flies like an arrow" from English requires understanding the metaphor — otherwise you might search for insects that fly similarly to arrows. The reason machine translation has improved so dramatically in recent years is that AI models have gotten much better at capturing semantic relationships, even if they don't truly "understand" meaning the way humans do.
 
 **Advertising** exploits semantics constantly. "Up to 50% off" technically includes 1% off. "Helps prevent cavities" doesn't claim to prevent them. "Part of a balanced breakfast" means almost nothing. These phrases are carefully constructed to imply more than they state — a gap between semantic content and pragmatic inference that marketers exploit expertly.
 

@@ -5,7 +5,7 @@ description: "Landscape painting is the art of depicting natural scenery on canv
 category: arts-amp-culture
 tags: ["landscape painting", "art history", "painting", "nature", "fine art", "plein air"]
 heroImage: "/images/articles/landscape-painting.webp"
-heroAlt: "Oil painting of a mountain lake scene with golden sunset light and reflected trees"
+heroAlt: "Editorial photograph representing the concept of landscape painting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -29,13 +29,13 @@ faq:
     a: "Notable landscape painters include Claude Lorrain (idealized classical landscapes), John Constable (English countryside), J.M.W. Turner (atmospheric light and weather), Caspar David Friedrich (Romantic sublime), the Hudson River School painters (Thomas Cole, Frederic Church), Claude Monet (Impressionist light studies), and the Chinese master painters Fan Kuan, Guo Xi, and Ma Yuan."
 ---
 
-# What Is Field Painting?
+# What Is Field [Painting](/painting)?
 
 Field painting is the genre of visual art dedicated to depicting natural scenery — mountains, rivers, forests, fields, skies, oceans, and the interplay of light across all of them. It sounds straightforward, but the history of field painting is really a history of how different cultures have seen nature itself: as divine creation, as philosophical metaphor, as raw material for emotion, as scientific subject, as escape, as threat.
 
 ## China Got There First
 
-Western art history sometimes tells the story of field painting as if it began with the Dutch Golden Age or the Romantics. It did not. Chinese artists were producing sophisticated field paintings a thousand years before Europeans considered field a serious subject.
+Western [art history](/art-history) sometimes tells the story of field painting as if it began with the Dutch Golden Age or the Romantics. It did not. Chinese artists were producing sophisticated field paintings a thousand years before Europeans considered field a serious subject.
 
 Chinese field painting (*shanshui* — literally "mountain-water") emerged as a major art form during the Tang dynasty (618-907 CE) and reached extraordinary heights during the Song dynasty (960-1279). Painters like Fan Kuan, Guo Xi, and Ma Yuan created works of enormous scale and philosophical depth.
 
@@ -69,13 +69,13 @@ Church's *Niagara* (1857) and Bierstadt's *Among the Sierra Nevada* (1868) are e
 
 The relationship between these paintings and westward expansion is complicated. The artists celebrated a wilderness that was simultaneously being settled, logged, and taken from indigenous peoples. Their paintings preserved idealized visions of landscapes that were already changing.
 
-## Impressionism and Light
+## [Impressionism](/impressionism) and Light
 
 The Impressionists (1860s-1880s) reinvented field painting by focusing obsessively on light and its effects.
 
 **Claude Monet** painted the same subjects repeatedly under different conditions — haystacks at dawn, noon, and sunset; Rouen Cathedral in morning fog and afternoon sun; water lilies across decades of seasons. His goal was not to paint objects but to capture specific, fleeting moments of light.
 
-The invention of portable paint tubes in the 1840s made outdoor painting practical. The Impressionists worked *en plein air* (outdoors), painting directly from nature rather than composing in studios. This gave their work an immediacy and freshness that studio painting could not match.
+The [invention](/invention) of portable paint tubes in the 1840s made outdoor painting practical. The Impressionists worked *en plein air* (outdoors), painting directly from nature rather than composing in studios. This gave their work an immediacy and freshness that studio painting could not match.
 
 ## Field After Photography
 

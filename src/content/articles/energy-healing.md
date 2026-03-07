@@ -5,7 +5,7 @@ description: "Energy healing is a set of practices claiming to channel healing e
 category: everyday-concepts
 tags: ["energy healing", "everyday-concepts"]
 heroImage: "/images/articles/energy-healing.webp"
-heroAlt: "A practitioner holding hands near a person lying on a massage table in a calm setting"
+heroAlt: "Editorial photograph representing the concept of energy healing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Energy Healing?
 
-Energy healing is a broad category of alternative therapeutic practices based on the belief that practitioners can channel, direct, or manipulate a subtle energy force to promote physical, emotional, or spiritual healing in patients. Forms include Reiki, therapeutic touch, pranic healing, qigong healing, and crystal healing, among many others. An estimated 3.7 million Americans used some form of energy healing in the past year, according to the National Center for Complementary and Integrative Health (NCCIH). The practices are popular, widely available, and deeply controversial.
+Energy healing is a broad category of alternative therapeutic practices based on the belief that practitioners can channel, direct, or manipulate a subtle energy force to promote physical, emotional, or spiritual healing in patients. Forms include [Reiki](/reiki), therapeutic touch, pranic healing, [qigong](/qigong) healing, and crystal healing, among many others. An estimated 3.7 million Americans used some form of energy healing in the past year, according to the National Center for Complementary and Integrative Health (NCCIH). The practices are popular, widely available, and deeply controversial.
 
 ## The Core Claim
 
@@ -45,13 +45,13 @@ The critical question is whether this energy field actually exists. As of 2025, 
 
 **Reiki** is the most widely practiced form in the West. Developed by Mikao Usui in Japan in 1922, Reiki teaches that practitioners are attuned (through training and initiation ceremonies) to channel "universal life energy" through their hands into the recipient. Sessions typically last 60-90 minutes, with the practitioner placing hands on or near the body in a series of positions. Reiki training has three levels; the highest ("Master") qualifies practitioners to teach others.
 
-**Therapeutic Touch (TT)** was developed in the 1970s by Dolores Krieger, a nursing professor at New York University. TT practitioners pass their hands over the patient's body — usually without physical contact — to assess and modify the "energy field." It was adopted in some nursing programs and hospital settings, making it one of the most institutionally accepted energy healing forms.
+**Therapeutic Touch (TT)** was developed in the 1970s by Dolores Krieger, a [nursing](/nursing) professor at New York University. TT practitioners pass their hands over the patient's body — usually without physical contact — to assess and modify the "energy field." It was adopted in some nursing programs and hospital settings, making it one of the most institutionally accepted energy healing forms.
 
 A famous 1998 study published in *JAMA* tested whether TT practitioners could actually detect the energy field they claimed to work with. The study, designed by 9-year-old Emily Rosa for a science fair project (making it the youngest researcher published in a major medical journal), found that practitioners could detect the field at rates no better than random chance — about 44% accuracy when 50% would be expected by guessing.
 
 **Pranic healing** teaches that the body has a "pranic" (energy) body that extends beyond the physical body. Practitioners scan this field with their hands, identify problem areas, and use sweeping and energizing techniques to clear and rebalance it. It's practiced globally, particularly in the Philippines and Southeast Asia.
 
-**Qigong healing** extends the Chinese practice of [qigong](/eastern-philosophy) (coordinated breathing, movement, and meditation) into a healing modality where practitioners project *qi* toward patients. It's the most physically active form of energy healing, as practitioners often perform exercises alongside therapeutic work.
+**Qigong healing** extends the Chinese practice of [qigong](/eastern-[philosophy](/philosophy)) (coordinated breathing, movement, and meditation) into a healing modality where practitioners project *qi* toward patients. It's the most physically active form of energy healing, as practitioners often perform exercises alongside therapeutic work.
 
 **Crystal healing** uses specific stones and crystals placed on or around the body, based on the belief that crystals have energetic properties that influence health. Different crystals are associated with different effects — rose quartz for emotional healing, amethyst for spiritual awareness, black tourmaline for protection. No scientific mechanism for crystal healing has been identified.
 
@@ -79,7 +79,7 @@ The primary danger of energy healing isn't the practice itself — lying on a ta
 
 **Financial exploitation.** Energy healing sessions cost $60-$200 per session. Reiki Master training can cost $1,000-$10,000. For practices without demonstrated efficacy, these costs raise ethical questions.
 
-**Magical thinking.** Encouraging belief in undetectable energies and unsupported mechanisms may undermine critical thinking about health claims generally, making people more vulnerable to other pseudoscientific health marketing.
+**Magical thinking.** Encouraging belief in undetectable energies and unsupported mechanisms may undermine [critical thinking](/critical-thinking) about health claims generally, making people more vulnerable to other pseudoscientific health [marketing](/marketing).
 
 ## A Reasonable Position
 

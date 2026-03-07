@@ -5,7 +5,7 @@ description: "Minimalism is a lifestyle and design philosophy focused on reducin
 category: everyday-concepts
 tags: ["minimalism", "lifestyle", "design", "simplicity", "decluttering", "intentional living"]
 heroImage: "/images/articles/minimalism.webp"
-heroAlt: "Clean minimalist living room with simple furniture and neutral tones"
+heroAlt: "Editorial photograph representing the concept of minimalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Minimalism?
 
-Minimalism is a philosophy — in art, design, and lifestyle — that values simplicity, intentionality, and the removal of excess. Strip away what's unnecessary. Keep what matters. Whether you're talking about a Donald Judd sculpture, a Japanese zen garden, or someone decluttering their closet, the core principle is the same: less, but better.
+Minimalism is a [philosophy](/philosophy) — in art, design, and lifestyle — that values simplicity, intentionality, and the removal of excess. Strip away what's unnecessary. Keep what matters. Whether you're talking about a Donald Judd [sculpture](/sculpture), a Japanese zen garden, or someone decluttering their closet, the core principle is the same: less, but better.
 
 The word gets applied to so many things that it's practically meaningless without context. So let's separate the threads.
 
@@ -45,7 +45,7 @@ Minimalist music, pioneered by Steve Reich, Philip Glass, and Terry Riley, appli
 
 ## Minimalism in Design
 
-Minimalist design principles pervade modern architecture, product design, and graphic design. The Bauhaus school ("less is more," per Ludwig Mies van der Rohe) and Japanese aesthetic traditions (wabi-sabi, ma) both contributed to a design sensibility that values clean lines, negative space, restrained color, and functional clarity.
+Minimalist design principles pervade modern [architecture](/architecture), [product design](/product-design), and [graphic design](/graphic-design). The Bauhaus school ("less is more," per Ludwig Mies van der Rohe) and Japanese aesthetic traditions (wabi-sabi, ma) both contributed to a design sensibility that values clean lines, negative space, restrained color, and functional clarity.
 
 Apple's product design under Jony Ive was perhaps the most commercially successful application of minimalist principles — removing buttons, simplifying interfaces, stripping hardware to essential forms. Japanese brands like Muji ("no-brand quality goods") and Uniqlo apply minimalism to everyday consumer products.
 
@@ -55,14 +55,14 @@ In architecture, minimalism produces buildings of striking simplicity — Tadao 
 
 The lifestyle movement took off in the early 2010s, driven by writers and documentarians like Joshua Fields Millburn and Ryan Nicodemus ("The Minimalists"), Marie Kondo (whose "KonMari" method asks whether possessions "spark joy"), and various bloggers documenting their own simplification journeys.
 
-The lifestyle version of minimalism argues that modern consumer culture encourages accumulation — buying more stuff, filling more space, working more hours to afford more things — without corresponding increases in happiness. The minimalist response: own less, spend less, work less (or differently), and redirect your time and energy toward relationships, experiences, and personal growth.
+The lifestyle version of minimalism argues that modern consumer culture encourages accumulation — buying more stuff, filling more space, working more hours to afford more things — without corresponding increases in happiness. The minimalist response: own less, spend less, work less (or differently), and redirect your time and energy toward relationships, experiences, and [personal growth](/personal-growth).
 
 Practical minimalist practices include:
 
 - **Decluttering** — removing possessions that don't serve a purpose or bring genuine satisfaction
 - **Intentional purchasing** — buying less but choosing higher quality
 - **Digital minimalism** — reducing screen time, app usage, and information overload
-- **Time management** — saying no to commitments that don't align with your priorities
+- **[Time management](/time-[management](/management))** — saying no to commitments that don't align with your priorities
 - **Financial simplification** — reducing expenses, avoiding debt, and building financial freedom
 
 ## The Critiques

@@ -5,7 +5,7 @@ description: "International development works to reduce poverty and improve livi
 category: everyday-concepts
 tags: ["international development", "poverty reduction", "global health", "sustainable development", "ngos", "humanitarian aid"]
 heroImage: "/images/articles/international-development.webp"
-heroAlt: "Community health workers and villagers gathered around a clean water project"
+heroAlt: "Editorial photograph representing the concept of international development"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -43,7 +43,7 @@ These numbers have improved dramatically over the past 30 years. The share of th
 
 Development assistance flows through several channels:
 
-**Bilateral aid** — government-to-government transfers. The U.S. gives aid through USAID, the UK through its Foreign, Commonwealth and Development Office, Japan through JICA, and so on. Bilateral aid is the largest channel, accounting for about 70% of total ODA.
+**Bilateral aid** — [government](/government)-to-government transfers. The U.S. gives aid through USAID, the UK through its Foreign, Commonwealth and Development Office, Japan through JICA, and so on. Bilateral aid is the largest channel, [accounting](/accounting) for about 70% of total ODA.
 
 **Multilateral aid** — contributions to international organizations like the World Bank, UN agencies, and regional development banks. These organizations pool resources and provide financing, technical expertise, and policy advice.
 
@@ -57,9 +57,9 @@ Development practitioners have learned — sometimes painfully — what works an
 
 **Health interventions** produce some of the highest returns. Insecticide-treated bed nets reduce malaria cases by 50% and cost about $2 each. Childhood vaccinations prevent roughly 3.5 million deaths annually. Oral rehydration therapy (essentially sugar, salt, and water) has saved an estimated 70 million lives from diarrheal diseases since the 1970s.
 
-**Education** — particularly for girls — has cascading positive effects. Each additional year of schooling increases a girl's future earnings by 10-20%. Educated women have fewer children, and those children are healthier and better educated. The return on investment is extraordinary.
+**[Education](/education)** — particularly for girls — has cascading positive effects. Each additional year of schooling increases a girl's future earnings by 10-20%. Educated women have fewer children, and those children are healthier and better educated. The return on investment is extraordinary.
 
-**Infrastructure** — roads, electricity, telecommunications, and water systems create the conditions for economic growth. A village connected by road to markets can sell its agricultural products; without a road, it cannot.
+**Infrastructure** — roads, [electricity](/electricity), telecommunications, and water systems create the conditions for economic growth. A village connected by road to markets can sell its agricultural products; without a road, it cannot.
 
 **Institutional reform** — property rights, rule of law, transparent governance, and anti-corruption measures create environments where economic activity can flourish. Countries with better institutions grow faster, attract more investment, and deliver services more effectively.
 
@@ -73,16 +73,16 @@ Development has attracted fierce criticism, some of it justified:
 
 **Tied aid.** Much bilateral aid requires recipients to purchase goods and services from the donor country, reducing value and limiting local economic development.
 
-**Measurement problems.** Demonstrating that aid caused a specific outcome — rather than coinciding with it — is genuinely difficult. Development economics has increasingly adopted randomized controlled trials (RCTs) to measure impact, an approach pioneered by Abhijit Banerjee and Esther Duflo (2019 Nobel Prize winners).
+**Measurement problems.** Demonstrating that aid caused a specific outcome — rather than coinciding with it — is genuinely difficult. Development [economics](/economics) has increasingly adopted randomized controlled trials (RCTs) to measure impact, an approach pioneered by Abhijit Banerjee and Esther Duflo (2019 Nobel Prize winners).
 
-## The Sustainable Development Goals
+## The [Sustainable Development](/sustainable-development) Goals
 
 The SDGs, adopted in 2015, represent the current global consensus on development priorities. Seventeen goals cover poverty, hunger, health, education, gender equality, water, energy, economic growth, infrastructure, inequality, cities, consumption, climate, oceans, biodiversity, institutions, and partnerships.
 
-Progress toward the 2030 targets is mixed. Some goals (renewable energy, internet access) are advancing well. Others (hunger, inequality, climate) are falling behind or moving backward. The COVID-19 pandemic pushed an estimated 97 million additional people into extreme poverty, setting back years of progress.
+Progress toward the 2030 targets is mixed. Some goals ([renewable energy](/renewable-energy), internet access) are advancing well. Others (hunger, inequality, climate) are falling behind or moving backward. The COVID-19 pandemic pushed an estimated 97 million additional people into extreme poverty, setting back years of progress.
 
 ## Looking Forward
 
-The development field is evolving. Cash transfers — giving money directly to poor people, no strings attached — have shown strong results in multiple studies and challenge the assumption that poor people need experts to spend money wisely. Climate adaptation is becoming central to development planning. And the growing recognition that development is about politics and power — not just technical solutions — is reshaping how practitioners think about their work.
+The development field is evolving. Cash transfers — giving money directly to poor people, no strings attached — have shown strong results in multiple studies and challenge the assumption that poor people need experts to spend money wisely. Climate adaptation is becoming central to development planning. And the growing recognition that development is about [politics](/politics) and power — not just technical solutions — is reshaping how practitioners think about their work.
 
 The fundamental question remains: how do societies transition from poverty to prosperity? History shows it is possible — virtually every wealthy country was poor within the last two centuries. The challenge is accelerating that transition while avoiding the environmental destruction that accompanied past development paths.

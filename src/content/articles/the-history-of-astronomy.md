@@ -5,7 +5,7 @@ description: "The history of astronomy traces humanity's study of the cosmos fro
 category: history
 tags: ["history of astronomy", "astronomy", "cosmology", "copernicus", "galileo"]
 heroImage: "/images/articles/the-history-of-astronomy.webp"
-heroAlt: "Historical illustration of Copernicus's heliocentric model of the solar system"
+heroAlt: "Editorial photograph representing the concept of the history of astronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -45,13 +45,13 @@ Long before anyone understood what stars actually were, humans used them. The sk
 
 The Babylonians were the first systematic astronomers we have records for. By about 1800 BCE, they were recording planetary positions, eclipses, and star risings on cuneiform tablets. Their motivations were largely practical and religious — predicting eclipses was politically important (eclipses were considered omens), and tracking the movements of Venus and Jupiter helped time agricultural and ceremonial calendars.
 
-The Babylonians developed the sexagesimal (base-60) number system we still use for measuring time and angles — 60 seconds in a minute, 360 degrees in a circle. They identified the zodiac constellations and developed mathematical models that could predict planetary positions with surprising accuracy. A set of tablets called the MUL.APIN (c. 1100 BCE) lists stars, constellations, and the dates of their risings and settings.
+The Babylonians developed the sexagesimal (base-60) number system we still use for measuring time and angles — 60 seconds in a minute, 360 degrees in a circle. They identified the [zodiac](/zodiac) constellations and developed mathematical models that could predict planetary positions with surprising accuracy. A set of tablets called the MUL.APIN (c. 1100 BCE) lists stars, constellations, and the dates of their risings and settings.
 
 By around 300 BCE, Babylonian astronomers had developed mathematical schemes — essentially algebraic equations applied to planetary positions over time — that could predict lunar eclipses and planetary positions decades in advance. A 2016 paper in Science showed that some of these methods anticipated techniques usually credited to 14th-century European mathematicians.
 
 ### Ancient Egypt
 
-Egyptian astronomy was heavily practical. They used the heliacal rising of Sirius (the brightest star in the sky) to predict the annual flooding of the Nile — the single most important event in Egyptian agriculture. Their civil calendar of 365 days, established by about 2500 BCE, was the most accurate calendar in the ancient world. They also aligned the Great Pyramids of Giza with remarkable precision — the sides face almost exactly north, south, east, and west.
+Egyptian astronomy was heavily practical. They used the heliacal rising of Sirius (the brightest star in the sky) to predict the annual flooding of the Nile — the single most important event in Egyptian [agriculture](/agriculture). Their civil calendar of 365 days, established by about 2500 BCE, was the most accurate calendar in the ancient world. They also aligned the Great Pyramids of Giza with remarkable precision — the sides face almost exactly north, south, east, and west.
 
 ### Ancient Greece (600 BCE-200 CE)
 
@@ -63,7 +63,7 @@ The Greeks transformed astronomy from observation and prediction into something 
 
 **Aristarchus of Samos** (c. 310-230 BCE) proposed that Earth orbits the Sun — the first known heliocentric model. He also attempted to measure the relative distances to the Sun and Moon. His heliocentric idea was rejected in favor of the geocentric view, and it would take 1,800 years for someone to seriously revive it.
 
-**Hipparchus** (c. 190-120 BCE) created the first thorough star catalog (about 850 stars), discovered the precession of the equinoxes (Earth's rotational axis slowly wobbles), and developed trigonometry largely for astronomical calculations.
+**Hipparchus** (c. 190-120 BCE) created the first thorough star catalog (about 850 stars), discovered the precession of the equinoxes (Earth's rotational axis slowly wobbles), and developed [trigonometry](/trigonometry) largely for astronomical calculations.
 
 **Ptolemy** (c. 100-170 CE) compiled Greek astronomical knowledge into the *Almagest*, a 13-volume work that became the authoritative astronomical text for 1,400 years. His geocentric model — Earth at the center, planets moving in circles and epicycles (circles within circles) — was mathematically complex but produced reasonably accurate predictions. That accuracy is why it lasted so long.
 
@@ -71,11 +71,11 @@ The Greeks transformed astronomy from observation and prediction into something 
 
 After the fall of Rome, the center of astronomical work shifted to the Islamic world. Muslim scholars translated Greek and Indian astronomical texts into Arabic, preserving them when originals were lost in Europe.
 
-But they didn't just preserve — they improved. Al-Khwarizmi (c. 780-850) developed astronomical tables that refined Ptolemy's predictions. Al-Battani (858-929) corrected Ptolemy's measurement of the solar year to within 2 minutes of the modern value. Ibn al-Haytham (965-1040) wrote critiques of Ptolemaic astronomy and developed the scientific method of experimentation.
+But they didn't just preserve — they improved. Al-Khwarizmi (c. 780-850) developed astronomical tables that refined Ptolemy's predictions. Al-Battani (858-929) corrected Ptolemy's measurement of the solar year to within 2 minutes of the modern value. Ibn al-Haytham (965-1040) wrote critiques of Ptolemaic astronomy and developed the [scientific method](/scientific-method) of experimentation.
 
 The Maragha observatory in Persia (built 1259) and Ulugh Beg's observatory in Samarkand (built 1420) were the most advanced astronomical facilities in the world. Ulugh Beg's star catalog, containing over 1,000 stars with positions measured to unprecedented accuracy, remained unsurpassed until Tycho Brahe's work 150 years later.
 
-Critically, Islamic astronomers developed mathematical techniques — particularly the Tusi couple, devised by Nasir al-Din al-Tusi (1201-1274) — that converted circular motion into linear motion. This same mathematical device appears in Copernicus's work three centuries later, and historians debate whether Copernicus learned of it through transmitted texts.
+Critically, Islamic astronomers developed mathematical techniques — particularly the Tusi couple, devised by Nasir al-Din al-Tusi (1201-1274) — that converted circular motion into linear motion. This same mathematical device appears in Copernicus's work three centuries later, and historians [debate](/debate) whether Copernicus learned of it through transmitted texts.
 
 ## The Copernican Revolution (1543-1687)
 
@@ -97,7 +97,7 @@ Using Tycho's exquisitely precise observations of Mars, Kepler discovered that p
 
 ### Galileo Galilei (1564-1642)
 
-In 1609, Galileo heard about a Dutch invention that made distant objects appear closer — the telescope. He built his own, improved it, and pointed it at the sky. What he saw demolished the old cosmology.
+In 1609, Galileo heard about a Dutch [invention](/invention) that made distant objects appear closer — the telescope. He built his own, improved it, and pointed it at the sky. What he saw demolished the old [cosmology](/cosmology).
 
 The Moon had mountains and craters — it wasn't a perfect sphere. Jupiter had four moons orbiting it — not everything revolved around Earth. Venus showed phases like the Moon — proving it orbited the Sun, not Earth. The Milky Way resolved into countless individual stars.
 
@@ -107,7 +107,7 @@ Galileo's support for heliocentrism brought him into conflict with the Catholic 
 
 Newton tied it all together. His *Principia Mathematica* (1687) showed that the same force that makes an apple fall from a tree — gravity — keeps the Moon in orbit and the planets circling the Sun. Kepler's laws, which had been empirical observations, became mathematical consequences of Newton's gravitational theory.
 
-With Newton, astronomy became physics. The sky wasn't a separate domain with its own rules — it followed the same laws as everything on Earth.
+With Newton, astronomy became [physics](/physics). The sky wasn't a separate domain with its own rules — it followed the same laws as everything on Earth.
 
 ## The Expanding Universe (19th-20th Century)
 
@@ -119,7 +119,7 @@ In 1814, Joseph von Fraunhofer noticed dark lines in the solar spectrum. By the 
 
 By the early 20th century, astronomers argued about whether "nebulae" — fuzzy patches of light — were clouds within our galaxy or separate galaxies entirely. In 1924, Edwin Hubble used the 100-inch telescope at Mount Wilson to show that the Andromeda "nebula" was actually a galaxy roughly 2.5 million light-years away — far outside the Milky Way.
 
-In 1929, Hubble made an even more staggering discovery: distant galaxies are moving away from us, and the farther away they are, the faster they're receding. The universe is expanding. Running the expansion backward implied everything started from a single point — the Big Bang, a term coined (mockingly) by Fred Hoyle in 1949.
+In 1929, Hubble made an even more staggering discovery: distant galaxies are moving away from us, and the farther away they are, the faster they're receding. The universe is expanding. [Running](/running) the expansion backward implied everything started from a single point — the Big Bang, a term coined (mockingly) by Fred Hoyle in 1949.
 
 ### The Space Age
 

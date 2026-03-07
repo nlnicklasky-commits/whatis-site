@@ -5,7 +5,7 @@ description: "Real estate covers land, buildings, and natural resources attached
 category: finance
 tags: ["real estate", "property", "housing", "investment", "commercial property", "residential", "finance"]
 heroImage: "/images/articles/real-estate-hero.webp"
-heroAlt: "Aerial view of residential and commercial properties in a growing city"
+heroAlt: "Editorial photograph representing the concept of real estate"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"

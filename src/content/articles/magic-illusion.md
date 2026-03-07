@@ -5,7 +5,7 @@ description: "Magic (illusion) is the performing art of creating seemingly impos
 category: arts-amp-culture
 tags: ["magic illusion", "performing arts", "sleight of hand", "misdirection", "entertainment", "stagecraft"]
 heroImage: "/images/articles/magic-illusion.webp"
-heroAlt: "Magician performing a card trick with playing cards fanning out mid-air"
+heroAlt: "Editorial photograph representing the concept of magic (illusion)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Magic (Illusion)?
 
-Magic — in the entertainment sense, not the supernatural one — is the performing art of producing effects that appear to violate the known laws of physics. Making objects vanish. Reading minds. Cutting someone in half and putting them back together. Levitating. Escaping from locked boxes underwater. None of it is real, and everyone in the audience knows that. But when it's done well, the gap between "I know it's a trick" and "I have no idea how that works" produces a feeling of genuine wonder.
+Magic — in the entertainment sense, not the supernatural one — is the performing art of producing effects that appear to violate the known laws of [physics](/physics). Making objects vanish. Reading minds. Cutting someone in half and putting them back together. Levitating. Escaping from locked boxes underwater. None of it is real, and everyone in the audience knows that. But when it's done well, the gap between "I know it's a trick" and "I have no idea how that works" produces a feeling of genuine wonder.
 
 That feeling is the point. Not the puzzle. Not the secret. The wonder.
 
@@ -51,9 +51,9 @@ Magicians guard their secrets fiercely — the Magic Circle, founded in London i
 
 The most important principle. Misdirection isn't just "look over here while I do something over there." It's the art of controlling attention — what the audience notices, what they remember, and what they assume. A skilled magician directs your attention exactly where they want it, not through crude distraction, but through natural-seeming actions, eye contact, and narrative framing.
 
-Neuroscience research has confirmed what magicians have known for centuries: human attention is narrow, selective, and easily manipulated. Studies on inattentional blindness show that people can completely miss obvious events when their attention is directed elsewhere.
+[Neuroscience](/neuroscience) research has confirmed what magicians have known for centuries: human attention is narrow, selective, and easily manipulated. Studies on inattentional blindness show that people can completely miss obvious events when their attention is directed elsewhere.
 
-### Sleight of Hand
+### [Sleight of Hand](/sleight-of-hand)
 
 Physical manipulation of objects — cards, coins, balls, and other small items — too quickly or subtly for the audience to detect. A good card move looks like nothing happened. The card was in the right hand; now it's in the left; at no point did you see it move.
 
@@ -73,16 +73,16 @@ Magicians exploit specific features of human cognition. We fill in gaps in perce
 
 **Parlor magic** — performed for small to medium groups. Think dinner parties, corporate events, private shows.
 
-**Stage magic** — large-scale illusions for theater audiences. This includes the big stuff: vanishing elephants, sawing people in half, levitations, and elaborate production numbers. Stage illusions often involve assistants, complex apparatus, and significant engineering.
+**Stage magic** — large-scale illusions for theater audiences. This includes the big stuff: vanishing elephants, sawing people in half, levitations, and elaborate production numbers. Stage illusions often involve assistants, complex apparatus, and significant [engineering](/engineering).
 
 **Mentalism** — the simulation of psychic abilities. Mind reading, prediction, telekinesis. Mentalism often presents itself as "real" rather than as a trick, which creates interesting ethical questions about deception.
 
-**Escapology** — the art of escaping from restraints, locked containers, and seemingly impossible confinements. Houdini's specialty. The drama comes from genuine physical danger (or the appearance of it).
+**Escapology** — the art of escaping from restraints, locked containers, and seemingly impossible confinements. Houdini's specialty. The [drama](/drama) comes from genuine physical danger (or the appearance of it).
 
 ## Magic Today
 
 Live magic is experiencing a genuine renaissance. Penn & Teller have held a Las Vegas residency for over 20 years. David Blaine's street magic specials redefined how television audiences experience magic. Derren Brown's mentalism shows sell out theaters worldwide. YouTube and TikTok have created new audiences and new stars — some magic creators have millions of followers.
 
-The magic community is also increasingly diverse and self-reflective. Female magicians, long underrepresented, are gaining visibility. The ethics of deception in mentalism are being debated more openly. And the relationship between magic and science — particularly cognitive neuroscience — is producing genuinely interesting research into how human perception and attention work.
+The magic community is also increasingly diverse and self-reflective. Female magicians, long underrepresented, are gaining visibility. The [ethics](/ethics) of deception in mentalism are being debated more openly. And the relationship between magic and science — particularly [cognitive neuroscience](/cognitive-neuroscience) — is producing genuinely interesting research into how human perception and attention work.
 
 Magic remains one of the few art forms that can make an entire room of adults gasp in unison. That's not a small thing.

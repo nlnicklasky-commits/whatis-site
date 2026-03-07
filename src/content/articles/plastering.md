@@ -5,7 +5,7 @@ description: "Plastering is the craft of applying plaster to walls and ceilings 
 category: everyday-concepts
 tags: ["construction", "building", "plaster", "walls", "ceilings", "craft"]
 heroImage: "/images/articles/plastering.webp"
-heroAlt: "A skilled plasterer applying a smooth coat of plaster to a wall with a steel trowel"
+heroAlt: "Editorial photograph representing the concept of plastering"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,13 +35,13 @@ Plastering is the craft of applying plaster — a mixture of calcium-based compo
 
 ## The Materials
 
-**Gypsum plaster** is the most common type in modern construction. Gypsum (calcium sulfate dihydrate) is heated to drive off water, creating plaster of Paris. When mixed with water again, it recrystallizes and hardens — a chemical reaction, not just drying. Gypsum plaster sets quickly (20-90 minutes depending on the formula), is easy to work, and produces a smooth white surface. It's not waterproof, so it's limited to interior use.
+**Gypsum plaster** is the most common type in modern [construction](/construction). Gypsum (calcium sulfate dihydrate) is heated to drive off water, creating plaster of Paris. When mixed with water again, it recrystallizes and hardens — a chemical reaction, not just drying. Gypsum plaster sets quickly (20-90 minutes depending on the formula), is easy to work, and produces a smooth white surface. It's not waterproof, so it's limited to interior use.
 
 **Lime plaster** is the traditional material, used for millennia before gypsum became standard. Made from limestone that's been burned (calcined) to produce quicklime, then slaked with water to create lime putty, it's mixed with sand to make plaster. Lime plaster sets slowly — it cures through carbonation, absorbing carbon dioxide from the air and gradually reverting to calcium carbonate (essentially turning back into limestone). This process takes weeks to months.
 
 Lime plaster has properties that make it superior to gypsum in certain applications: it's flexible (it moves slightly with the building without cracking), breathable (it allows moisture to pass through, preventing trapped dampness), and self-healing (small cracks can re-seal as dissolved lime migrates with moisture and re-carbonates). Historic preservation almost always uses lime plaster.
 
-**Cement plaster** (stucco, when used on exteriors) combines Portland cement with sand and water. It's stronger and more water-resistant than either gypsum or lime plaster, making it suitable for exterior surfaces. It sets hard and brittle — less forgiving of building movement than lime plaster.
+**Cement plaster** ([stucco](/stucco), when used on exteriors) combines Portland cement with sand and water. It's stronger and more water-resistant than either gypsum or lime plaster, making it suitable for exterior surfaces. It sets hard and brittle — less forgiving of building movement than lime plaster.
 
 **Clay plaster** uses natural clay as the binder, mixed with sand and often straw or other fibers. It's the oldest plaster type and is experiencing a revival in green building. Clay plaster is non-toxic, regulates humidity naturally, and has a warm, earthy aesthetic.
 
@@ -81,4 +81,4 @@ But plaster has real advantages:
 
 The tradeoff is cost. Wet plastering costs 3-5 times more than drywall, almost entirely due to labor. In new construction where budget matters, drywall wins. In historic restoration, high-end custom homes, and buildings where quality justifies cost, plaster remains the superior finish.
 
-Plastering is a trade where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an oil painting — both cover the wall, but one has a quality the other doesn't.
+Plastering is a [trade](/trade) where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an [oil painting](/oil-[painting](/painting)) — both cover the wall, but one has a quality the other doesn't.

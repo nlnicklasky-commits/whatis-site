@@ -5,7 +5,7 @@ description: "Social network analysis maps and measures relationships between pe
 category: science
 tags: ["social network analysis", "graph theory", "sociology", "data science", "network science", "research methods"]
 heroImage: "/images/articles/social-network-analysis.webp"
-heroAlt: "Network graph visualization showing interconnected nodes and edges representing social relationships"
+heroAlt: "Editorial photograph representing the concept of social network analysis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -63,7 +63,7 @@ An edge connects two nodes and represents some kind of relationship. Edges come 
 
 **Weighted vs. unweighted.** You might simply record whether two people are connected (unweighted) or measure the strength of their connection — how many emails they exchange per month, how much trade flows between two countries, how often two authors cite each other (weighted). Weighted networks capture nuance that binary connections miss.
 
-**Signed.** Some networks include positive and negative ties. You might like some people and dislike others. International relations networks include both alliances and hostilities. Signed network analysis gets mathematically complex but captures important dynamics — like the finding that "the enemy of my enemy is my friend" tends to hold in real networks.
+**Signed.** Some networks include positive and negative ties. You might like some people and dislike others. [International relations](/international-relations) networks include both alliances and hostilities. Signed network analysis gets mathematically complex but captures important dynamics — like the finding that "the enemy of my enemy is my friend" tends to hold in real networks.
 
 ### The Network as a Whole
 

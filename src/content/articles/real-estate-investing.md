@@ -5,7 +5,7 @@ description: "Real estate investing means buying property to generate income or 
 category: finance
 tags: ["real estate investing", "investment", "rental property", "reits", "passive income", "property", "finance"]
 heroImage: "/images/articles/real-estate-investing-hero.webp"
-heroAlt: "Row of rental properties representing a real estate investment portfolio"
+heroAlt: "Editorial photograph representing the concept of real estate investing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
@@ -35,9 +35,9 @@ faq:
     a: "Absolutely. Property values can decline, tenants can stop paying rent, unexpected repairs can wipe out returns, and high leverage amplifies losses. During the 2008 crisis, some investors lost everything when property values crashed below their mortgage balances. Real estate is not a guaranteed path to wealth—it requires research, prudent financing, and active management."
 ---
 
-# What Is Real Estate Investing?
+# What Is [Real Estate](/real-estate) Investing?
 
-Real estate investing is the purchase, ownership, management, or sale of property for profit. It is one of the oldest wealth-building strategies in human history, and for good reason — real estate has created more millionaires than any other asset class, according to multiple studies including data from the IRS and the Federal Reserve's Survey of Consumer Finances.
+Real estate investing is the purchase, ownership, [management](/management), or sale of property for profit. It is one of the oldest wealth-building strategies in human history, and for good reason — real estate has created more millionaires than any other asset class, according to multiple studies including data from the IRS and the Federal Reserve's Survey of Consumer Finances.
 
 But let's be honest about something upfront: real estate investing is not the passive, easy money machine that late-night infomercials and social media influencers promise. It is a business. It involves capital, risk, management headaches, legal complexity, and market timing. Some people build extraordinary wealth through real estate. Others lose their shirts. The difference usually comes down to education, discipline, and realistic expectations.
 
@@ -163,7 +163,7 @@ Gross rental income minus all expenses equals cash flow. But "all expenses" is w
 - **Maintenance and repairs** (budget 1-2% of property value per year)
 - **Capital expenditures** (roof, HVAC, foundation — budget an additional 5-10% of rent)
 - **Vacancy** (5-10% of gross rent, depending on market)
-- **Property management** (8-10% of rent if hiring a manager)
+- **[Property management](/property-management)** (8-10% of rent if hiring a manager)
 
 A common mistake is calculating cash flow using only the mortgage payment and ignoring everything else. A property with $1,800/month rent and a $1,400 mortgage payment does not produce $400/month cash flow. After taxes, insurance, maintenance reserves, vacancy, and management, the actual cash flow might be $100/month — or negative.
 
@@ -182,7 +182,7 @@ Individually, each return might seem modest. A property might cash flow 5%, appr
 
 Banks use DSCR to evaluate whether a property can support its debt. It is Net Operating Income divided by total debt service (mortgage payments). A DSCR of 1.25 means the property generates 25% more income than needed to cover loan payments. Banks typically require 1.2-1.25 minimum. Below 1.0 means the property cannot cover its debt from income alone — a red flag.
 
-## Risk Management: What Can Go Wrong
+## [Risk Management](/risk-management): What Can Go Wrong
 
 Real estate investing has real risks. Understanding and managing them separates successful investors from failed ones.
 
@@ -214,7 +214,7 @@ Rent control, eviction moratoriums, zoning changes, and new tax regulations can 
 
 Most successful real estate investors build wealth gradually over 15-25 years. The typical path looks something like this:
 
-**Years 1-3**: Buy your first property (often through house hacking). Learn the business. Make some mistakes. Develop systems for tenant screening, maintenance, and bookkeeping.
+**Years 1-3**: Buy your first property (often through house hacking). Learn the business. Make some mistakes. Develop systems for tenant screening, maintenance, and [bookkeeping](/bookkeeping).
 
 **Years 3-7**: Acquire 3-5 more properties. Refinance early purchases that have appreciated. Develop relationships with lenders, contractors, and property managers. Cash flow is reinvested into more acquisitions.
 

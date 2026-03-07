@@ -5,7 +5,7 @@ description: "Stellar astronomy is the study of stars, from their birth in nebul
 category: science
 tags: ["astronomy", "stellar astronomy", "stars", "astrophysics", "nuclear fusion", "cosmology"]
 heroImage: "/images/articles/stellar-astronomy.webp"
-heroAlt: "A cluster of stars in various colors against the deep black of space with a glowing nebula in the background"
+heroAlt: "Editorial photograph representing the concept of stellar astronomy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -73,7 +73,7 @@ Once a star begins stable hydrogen fusion, it enters the main sequence — the l
 
 ### The Hertzsprung-Russell Diagram
 
-The H-R diagram is stellar astronomy's most important chart. It plots stars by luminosity (vertical axis) versus surface temperature or spectral class (horizontal axis, running hot to cool from left to right). Main sequence stars fall along a diagonal band from hot, luminous blue stars at the upper left to cool, dim red stars at the lower right.
+The H-R diagram is stellar astronomy's most important chart. It plots stars by luminosity (vertical axis) versus surface temperature or spectral class (horizontal axis, [running](/running) hot to cool from left to right). Main sequence stars fall along a diagonal band from hot, luminous blue stars at the upper left to cool, dim red stars at the lower right.
 
 Your position on the main sequence depends almost entirely on one thing: mass. Everything else — luminosity, temperature, radius, lifetime, color — follows from mass. This is called the mass-luminosity relation, and for main sequence stars, luminosity scales roughly as mass to the 3.5 power: L ∝ M^3.5. A star ten times the Sun's mass shines about 3,000 times brighter.
 

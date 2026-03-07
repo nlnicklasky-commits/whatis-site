@@ -5,7 +5,7 @@ description: "Geopolitics studies how geography, resources, and territorial cont
 category: history
 tags: ["geopolitics", "international relations", "geography", "political science", "global power"]
 heroImage: "/images/articles/geopolitics.webp"
-heroAlt: "A world map with highlighted trade routes, chokepoints, and strategic regions"
+heroAlt: "Editorial photograph representing the concept of geopolitics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -35,11 +35,11 @@ faq:
 
 # What Is Geopolitics?
 
-Geopolitics is the study of how geography — physical terrain, natural resources, climate, and location — shapes the power, strategy, and behavior of nations on the world stage. It examines why countries fight over certain territories, how access to resources drives foreign policy, and why the map itself is often the best explanation for why nations act the way they do.
+Geopolitics is the study of how [geography](/geography) — physical terrain, natural resources, climate, and location — shapes the power, strategy, and behavior of nations on the world stage. It examines why countries fight over certain territories, how access to resources drives [foreign policy](/foreign-policy), and why the map itself is often the best explanation for why nations act the way they do.
 
 ## Geography as Destiny
 
-The core premise of geopolitics is disarmingly simple: where you are determines what you can do. A country surrounded by mountains has natural defenses but limited trade access. A nation with deep-water ports can project naval power. A state sitting atop oil reserves has economic use. A landlocked country without navigable rivers faces structural disadvantages no amount of good governance can fully overcome.
+The core premise of geopolitics is disarmingly simple: where you are determines what you can do. A country surrounded by mountains has natural defenses but limited [trade](/trade) access. A nation with deep-water ports can project naval power. A state sitting atop oil reserves has economic use. A landlocked country without navigable rivers faces structural disadvantages no amount of good governance can fully overcome.
 
 This isn't determinism — geography doesn't make decisions. People do. But geography sets the menu of options available. Russia's obsession with warm-water ports, America's advantage of ocean buffers on both flanks, China's vulnerability along its long land borders — none of these are accidents. They're consequences of the map.
 
@@ -57,11 +57,11 @@ Was he right? Partially. The Heartland's importance has shifted as technology ev
 
 American naval officer Alfred Thayer Mahan argued the opposite thesis in his 1890 book *The Influence of Sea Power upon History*. For Mahan, control of the oceans — not landmasses — was the key to global dominance. He pointed to Britain's rise as proof: a small island nation became the world's greatest empire by building the strongest navy and controlling maritime trade routes.
 
-Mahan's ideas directly influenced U.S. foreign policy. The American push to build the Panama Canal, acquire Hawaii and the Philippines, and develop a two-ocean navy all followed Mahan's logic. Today, the U.S. Navy's global presence — roughly 300 ships operating across every ocean — is a living expression of Mahan's thesis.
+Mahan's ideas directly influenced U.S. foreign policy. The American push to build the Panama Canal, acquire Hawaii and the Philippines, and develop a two-ocean navy all followed Mahan's [logic](/logic). Today, the U.S. Navy's global presence — roughly 300 ships operating across every ocean — is a living expression of Mahan's thesis.
 
 ### Nicholas Spykman and the Rimland
 
-Nicholas Spykman, writing in the 1940s, proposed a compromise. He argued that neither the Heartland nor the oceans alone determined global power. Instead, the key zone was the "Rimland" — the coastal periphery of Eurasia, from Western Europe through the Middle East to East Asia. Control the Rimland, and you contain the Heartland while dominating maritime trade.
+Nicholas Spykman, [writing](/writing) in the 1940s, proposed a compromise. He argued that neither the Heartland nor the oceans alone determined global power. Instead, the key zone was the "Rimland" — the coastal periphery of Eurasia, from Western Europe through the Middle East to East Asia. Control the Rimland, and you contain the Heartland while dominating maritime trade.
 
 American Cold War strategy — NATO in Europe, alliances with Japan and South Korea, military presence in the Persian Gulf — reads like a Spykman playbook. The U.S. essentially built a chain of alliances around Eurasia's coastline to contain Soviet (Heartland) expansion.
 

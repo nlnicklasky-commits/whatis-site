@@ -5,7 +5,7 @@ description: Herbal medicine is the use of plants and plant extracts to prevent,
 category: health-amp-wellness
 tags: ["herbal medicine", "herbalism", "naturopathy", "traditional medicine", "natural remedies"]
 heroImage: "/images/articles/herbal-medicine.webp"
-heroAlt: "Dried herbs and medicinal plants arranged on a wooden table with mortar and pestle for preparation"
+heroAlt: "Editorial photograph representing the concept of herbal medicine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -37,17 +37,17 @@ faq:
 
 Herbal medicine is the practice of using plants — their leaves, roots, flowers, seeds, bark, or extracts — to prevent, treat, or manage health conditions. It's the oldest form of medicine in human history, practiced on every inhabited continent, and it remains the primary healthcare system for an estimated 80% of the world's population, according to the World Health Organization.
 
-## The Oldest Pharmacy on Earth
+## The Oldest [Pharmacy](/pharmacy) on Earth
 
 Humans have been using plants as medicine for at least 60,000 years. Archaeological evidence from a Neanderthal burial site in Shanidar Cave, Iraq, found pollen from medicinal plants — yarrow, chamomile, and others — deliberately placed with the body. Whether this was medicine, ritual, or both, it suggests that the connection between plants and healing is older than our own species.
 
-Every ancient civilization developed sophisticated herbal pharmacopoeias. The Egyptians used garlic, juniper, and frankincense. The *Ebers Papyrus*, dating to about 1550 BCE, lists over 800 herbal prescriptions. Traditional Chinese Medicine, which dates back at least 2,500 years, catalogs thousands of plant-based remedies in texts like the *Shennong Ben Cao Jing*. India's Ayurvedic system, similarly ancient, relies heavily on herbs like turmeric, ashwagandha, and holy basil. The Greek physician Dioscorides compiled *De Materia Medica* around 70 CE — a reference that remained the standard European pharmacological text for over 1,500 years.
+Every ancient civilization developed sophisticated herbal pharmacopoeias. The Egyptians used garlic, juniper, and frankincense. The *Ebers Papyrus*, dating to about 1550 BCE, lists over 800 herbal prescriptions. [Traditional Chinese Medicine](/traditional-chinese-medicine), which dates back at least 2,500 years, catalogs thousands of plant-based remedies in texts like the *Shennong Ben Cao Jing*. India's Ayurvedic system, similarly ancient, relies heavily on herbs like turmeric, ashwagandha, and holy basil. The Greek physician Dioscorides compiled *De Materia Medica* around 70 CE — a reference that remained the standard European pharmacological text for over 1,500 years.
 
 Here's the part that's easy to forget: modern medicine grew out of herbal medicine. Not alongside it. From it. The distinction between "traditional" and "modern" medicine is recent — maybe 150 years old. Before that, all medicine was plant-based medicine.
 
 ## How Herbal Medicine Actually Works (When It Works)
 
-Plants are [chemistry](/chemistry) factories. Through millions of years of evolution, they've developed an extraordinary array of chemical compounds — alkaloids, flavonoids, terpenes, saponins, glycosides — many of which have real, measurable effects on human physiology.
+Plants are [chemistry](/chemistry) factories. Through millions of years of evolution, they've developed an extraordinary array of chemical compounds — alkaloids, flavonoids, terpenes, saponins, glycosides — many of which have real, measurable effects on [human physiology](/human-physiology).
 
 When you take aspirin, you're taking a synthetic version of salicin, a compound originally derived from willow bark. Digitalis, the heart medication, comes from foxglove. Morphine comes from opium poppies. Quinine, the malaria drug, comes from cinchona bark. Taxol, a chemotherapy drug, was discovered in Pacific yew tree bark. Roughly 25% of modern pharmaceuticals are derived from plant compounds, and many more were inspired by plant chemistry.
 
@@ -62,7 +62,7 @@ Some well-studied examples:
 
 ## The Wild West of Regulation
 
-Here's where things get uncomfortable. In the United States, herbal products are classified as dietary supplements under the 1994 Dietary Supplement Health and Education Act (DSHEA). This means they occupy a regulatory gray zone that would astonish most consumers.
+Here's where things get uncomfortable. In the United States, herbal products are classified as dietary supplements under the 1994 Dietary Supplement Health and [Education](/education) Act (DSHEA). This means they occupy a regulatory gray zone that would astonish most consumers.
 
 Pharmaceutical drugs must prove they're safe and effective through rigorous clinical trials before the FDA allows them on the market. Dietary supplements — including herbal products — face no such requirement. Manufacturers can sell herbal supplements without demonstrating safety, efficacy, or even that the bottle contains what the label claims. The FDA can only intervene *after* a product causes harm — a reactive approach that critics call dangerously inadequate.
 
@@ -86,9 +86,9 @@ One concern with some Ayurvedic products is contamination with heavy metals — 
 
 ### Western Herbalism
 
-European and American herbal traditions draw from Greek, Roman, and medieval sources, supplemented by Native American ethnobotany. The "Doctrine of Signatures" — the medieval idea that a plant's appearance reveals its medicinal use (walnuts look like brains, so they must treat brain conditions) — was pre-scientific nonsense, but many useful plants were identified through centuries of trial and error.
+European and American herbal traditions draw from Greek, Roman, and medieval sources, supplemented by Native American [ethnobotany](/ethnobotany). The "Doctrine of Signatures" — the medieval idea that a plant's appearance reveals its medicinal use (walnuts look like brains, so they must treat brain conditions) — was pre-scientific nonsense, but many useful plants were identified through centuries of trial and error.
 
-Modern Western herbalism varies enormously in sophistication. Some practitioners are well-trained in [botany](/botany), pharmacology, and clinical assessment. Others rely on folklore, anecdote, and wishful thinking. The quality gap is real and consequential.
+Modern Western herbalism varies enormously in sophistication. Some practitioners are well-trained in [botany](/botany), [pharmacology](/pharmacology), and clinical assessment. Others rely on [folklore](/folklore), anecdote, and wishful thinking. The quality gap is real and consequential.
 
 ## The Safety Question
 
@@ -110,7 +110,7 @@ Here's the honest situation: most herbal remedies haven't been subjected to the 
 
 Some organizations are trying. The NIH's National Center for Complementary and Integrative Health (NCCIH) funds research on herbal products. Germany's Commission E has produced evidence-based monographs. The Cochrane Collaboration has reviewed evidence for various herbs.
 
-But the gap between what's sold and what's proven remains enormous. Thousands of herbal products line store shelves with vague health claims that have never been tested in controlled trials. This doesn't mean they don't work — absence of evidence isn't evidence of absence. But it means consumers are often making decisions based on tradition, marketing, and hope rather than data.
+But the gap between what's sold and what's proven remains enormous. Thousands of herbal products line store shelves with vague health claims that have never been tested in controlled trials. This doesn't mean they don't work — absence of evidence isn't evidence of absence. But it means consumers are often making decisions based on tradition, [marketing](/marketing), and hope rather than data.
 
 ## Where Herbal Medicine Is Heading
 

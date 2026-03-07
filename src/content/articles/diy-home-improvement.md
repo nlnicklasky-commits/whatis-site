@@ -5,7 +5,7 @@ description: "DIY home improvement means tackling home repairs and upgrades your
 category: everyday-concepts
 tags: ["diy home improvement", "everyday-concepts"]
 heroImage: "/images/articles/diy-home-improvement.webp"
-heroAlt: "A person painting a wall with a roller while surrounded by tools and home improvement supplies"
+heroAlt: "Editorial photograph representing the concept of diy home improvement"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2025-07-15"
@@ -31,13 +31,13 @@ faq:
 
 # What Is DIY Home Improvement?
 
-DIY home improvement is the practice of maintaining, repairing, and upgrading your home yourself rather than hiring professional contractors. It ranges from simple tasks (painting a room, fixing a leaky faucet) to ambitious projects (building a deck, renovating a bathroom). Americans spend roughly $450 billion annually on home improvement, and an estimated 40-50% of that spending goes to DIY projects.
+DIY home improvement is the practice of maintaining, repairing, and upgrading your home yourself rather than hiring professional contractors. It ranges from simple tasks ([painting](/painting) a room, fixing a leaky faucet) to ambitious projects (building a deck, renovating a bathroom). Americans spend roughly $450 billion annually on home improvement, and an estimated 40-50% of that spending goes to DIY projects.
 
 ## Why People DIY
 
 The motivations are a mix of practical and psychological.
 
-**Money is the obvious one.** A contractor charges $2,000-$5,000 to paint a home's interior. The paint itself costs $200-$500. If you have a weekend and a roller, the math is compelling. Similarly, a basic bathroom vanity replacement costs $800-$1,500 installed by a pro — or $200-$500 if you do it yourself, assuming the plumbing connections stay the same.
+**Money is the obvious one.** A contractor charges $2,000-$5,000 to paint a home's interior. The paint itself costs $200-$500. If you have a weekend and a roller, the math is compelling. Similarly, a basic bathroom vanity replacement costs $800-$1,500 installed by a pro — or $200-$500 if you do it yourself, assuming the [plumbing](/plumbing) connections stay the same.
 
 **Control matters too.** When you hire someone, you negotiate schedules, communicate preferences, and hope they execute your vision. When you do it yourself, the result is exactly what you wanted (or at least exactly what you're capable of).
 
@@ -55,7 +55,7 @@ Some home improvements are straightforward enough that paying a professional is 
 
 **[Decorating](/decorating) and cosmetic updates** — installing new hardware (cabinet pulls, doorknobs), swapping light fixtures, adding shelving, laying peel-and-stick tile, hanging wallpaper or installing accent walls — offer high visual impact with low skill requirements.
 
-**Landscaping basics** — planting beds, mulching, building simple raised garden beds, installing field lighting — are well within DIY reach. A professional field installation costing $5,000 might cost $500-$1,000 in materials if you do the labor yourself.
+**[Landscaping](/landscaping) basics** — planting beds, mulching, building simple raised garden beds, installing field lighting — are well within DIY reach. A professional field installation costing $5,000 might cost $500-$1,000 in materials if you do the labor yourself.
 
 **Flooring installation** varies by type. Floating floors (laminate, luxury vinyl plank) are designed for DIY installation — they click together without glue or nails. Tile requires more skill (cutting, mortar, leveling) but is learnable. Hardwood installation generally benefits from professional experience.
 
@@ -63,13 +63,13 @@ Some home improvements are straightforward enough that paying a professional is 
 
 Not everything should be a DIY project, and knowing the boundary prevents expensive (or dangerous) mistakes.
 
-**[Electrical](/electricity) work beyond basic switch and outlet replacement** carries real danger. Working in a breaker panel, running new circuits, or wiring a subpanel can result in electrocution, fire, or code violations that void your homeowner's insurance. Licensed electricians exist for excellent reasons.
+**[Electrical](/electricity) work beyond basic switch and outlet replacement** carries real danger. Working in a breaker panel, running new circuits, or wiring a subpanel can result in electrocution, fire, or code violations that void your homeowner's [insurance](/insurance). Licensed electricians exist for excellent reasons.
 
-**Structural modifications** — removing or modifying load-bearing walls, cutting new doorways, adding support beams — require engineering knowledge. Get this wrong and your ceiling sags, your floors slope, or worse. A structural engineer's assessment ($300-$500) is cheap insurance.
+**Structural modifications** — removing or modifying load-bearing walls, cutting new doorways, adding support beams — require [engineering](/engineering) knowledge. Get this wrong and your ceiling sags, your floors slope, or worse. A structural engineer's assessment ($300-$500) is cheap insurance.
 
 **Major plumbing** — moving drain lines, working on the main sewer connection, installing gas lines — involves systems where errors cause flooding, sewage backup, or gas leaks. Drain slope requirements (1/4 inch per foot, typically) and venting regulations are easy to violate if you don't understand plumbing code.
 
-**Roofing** on anything steeper than a low pitch is physically dangerous and technically demanding. Falls from roofs are the leading cause of construction fatalities. Professional roofers have safety equipment, insurance, and the speed that comes from doing the same work daily.
+**[Roofing](/roofing)** on anything steeper than a low pitch is physically dangerous and technically demanding. Falls from roofs are the leading cause of [construction](/construction) fatalities. Professional roofers have safety equipment, insurance, and the speed that comes from doing the same work daily.
 
 ## The Toolkit
 
