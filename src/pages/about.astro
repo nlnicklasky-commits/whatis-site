@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+---
+
+<BaseLayout
+  title="About"
+  description="WhatIs.site is an educational content platform with 1,600+ articles explaining concepts across technology, science, finance, philosophy, history, and more."
+  canonicalUrl={`${siteUrl}/about`}
+>
+  <!-- Organization Schema -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": `About ${siteName}`,
+    "url": `${siteUrl}/about`,
+    "mainEntity": {
+      "@type": "Organization",
+      "name": siteName,
+      "url": siteUrl,
+      "logo": `${siteUrl}/logo.svg`,
+      "description": "An educational content platform providing clear, human-written explanations."
+    }
+  })} />
+
+  <article class="max-w-3xl mx-auto px-4 py-16">
+    <h1 class="font-heading text-4xl font-bold text-gray-900 mb-8">About {siteName}</h1>
+
+    <div class="prose prose-lg max-w-none">
+      <p>
+        {siteName} is an educational content platform with over 1,600 articles that explain concepts, ideas, and terms
+        across technology, science, finance, philosophy, history, and more. Our goal is simple: make knowledge accessible.
+      </p>
+
+      <h2>Our Approach</h2>
+      <p>
+        Every article on {siteName} is written to be read by a real person — not optimized for bots or stuffed with keywords.
+        We write the way a smart friend would explain something: clearly, with specific facts and examples, and without unnecessary jargon.
+      </p>
+      <p>
+        Articles are organized into three depth tiers. Tier 1 articles (3,000-5,000 words) provide definitive, comprehensive coverage.
+        Tier 2 articles (2,000-3,000 words) offer thorough treatment of a topic. Tier 3 articles (1,200-2,000 words) give clear,
+        concise overviews. Every article includes frequently asked questions and citations to authoritative external sources.
+      </p>
+
+      <h2>Editorial Standards</h2>
+      <p>
+        We take accuracy seriously. Articles cite reputable sources — government agencies, academic institutions, peer-reviewed research,
+        and established reference works. Each article includes external source links so readers can verify claims and explore further.
+      </p>
+      <p>
+        Content is reviewed for factual accuracy, readability, and completeness. We update articles when information changes
+        and display both the original publication date and last-modified date on every article.
+      </p>
+
+      <h2>What We Cover</h2>
+      <p>
+        Our articles span 25+ categories including Technology, Science, Mathematics, Finance, Philosophy, History, Psychology,
+        Health & Wellness, Economics, Law, Arts & Culture, Business, Engineering, and many more. Whether you're a student
+        researching a topic, a professional brushing up on fundamentals, or just curious about how something works — we've
+        got you covered.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Have a question, correction, or article suggestion? We'd love to hear from you.
+        Reach us at <a href="mailto:hello@whatis.site">hello@whatis.site</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

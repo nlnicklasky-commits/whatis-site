@@ -26,6 +26,9 @@ const categories = [
           {cat.label}
         </a>
       ))}
+      <a href="/categories" class="text-gray-400 hover:text-primary transition-colors">
+        More &rarr;
+      </a>
     </nav>
 
     <!-- Mobile menu button -->
@@ -46,6 +49,8 @@ const categories = [
       {categories.map(cat => (
         <a href={`/category/${cat.slug}`} class="text-gray-600 hover:text-primary py-1">{cat.label}</a>
       ))}
+      <a href="/categories" class="text-primary font-medium py-1">All Categories &rarr;</a>
+      <a href="/about" class="text-gray-600 hover:text-primary py-1">About</a>
     </nav>
   </div>
 </header>

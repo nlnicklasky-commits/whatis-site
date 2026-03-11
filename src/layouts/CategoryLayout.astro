@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import AdSlot from '../components/AdSlot.astro';
+import categoriesData from '../data/categories.json';
 
 interface Props {
   category: string;
@@ -12,7 +13,10 @@ interface Props {
 const { category, description, articles } = Astro.props;
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
 const canonicalUrl = `${siteUrl}/category/${category}`;
-const displayName = category.replace(/-/g, ' ').replace(/\bamp\b/g, '&').replace(/\b\w/g, c => c.toUpperCase());
+
+// Use canonical category labels from categories.json
+const categoryMap = Object.fromEntries(categoriesData.map((c: { slug: string; label: string }) => [c.slug, c.label]));
+const displayName = categoryMap[category] || category.replace(/-/g, ' ').replace(/\bamp\b/g, '&').replace(/\b\w/g, (c: string) => c.toUpperCase());
 ---
 
 <BaseLayout

@@ -46,10 +46,7 @@ const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   <link rel="manifest" href="/site.webmanifest" />
   <meta name="theme-color" content="#2563eb" />
 
-  <!-- Preconnect to font CDNs -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <!-- Inter font is self-hosted via @font-face in global.css — no external dependency -->
 
   <slot name="head" />
 </head>

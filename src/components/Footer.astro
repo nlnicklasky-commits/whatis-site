@@ -1,33 +1,28 @@
 ---
+import categoriesData from '../data/categories.json';
+
 const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
 const year = new Date().getFullYear();
 
-const categoryGroups = [
-  { label: 'Knowledge', items: [
-    { name: 'Technology', slug: 'technology' },
-    { name: 'Science', slug: 'science' },
-    { name: 'Mathematics', slug: 'mathematics' },
-    { name: 'Philosophy', slug: 'philosophy' },
-  ]},
-  { label: 'Society', items: [
-    { name: 'History', slug: 'history' },
-    { name: 'Economics', slug: 'economics' },
-    { name: 'Psychology', slug: 'psychology' },
-    { name: 'Law', slug: 'law' },
-  ]},
-  { label: 'Life', items: [
-    { name: 'Health', slug: 'health-amp-wellness' },
-    { name: 'Finance', slug: 'finance' },
-    { name: 'Food & Drink', slug: 'food-amp-drink' },
-    { name: 'Sports', slug: 'sports' },
-  ]},
+// Show ALL categories across 4 columns for maximum internal linking
+const allCats = categoriesData.map((c: { slug: string; label: string }) => ({
+  name: c.label,
+  slug: c.slug,
+}));
+
+const colSize = Math.ceil(allCats.length / 4);
+const columns = [
+  { label: 'Knowledge', items: allCats.slice(0, colSize) },
+  { label: 'Society', items: allCats.slice(colSize, colSize * 2) },
+  { label: 'Culture', items: allCats.slice(colSize * 2, colSize * 3) },
+  { label: 'More', items: allCats.slice(colSize * 3) },
 ];
 ---
 
 <footer class="bg-gray-50 border-t border-gray-200 mt-16">
   <div class="max-w-5xl mx-auto px-4 py-12">
-    <div class="grid gap-8 md:grid-cols-4">
-      <div>
+    <div class="grid gap-8 md:grid-cols-5">
+      <div class="md:col-span-1">
         <a href="/" class="flex items-center gap-2 font-heading text-lg font-bold text-gray-900">
           <img src="/logo.svg" alt="" width="24" height="24" class="shrink-0" />
           {siteName}
@@ -35,14 +30,18 @@ const categoryGroups = [
         <p class="mt-2 text-sm text-gray-500 leading-relaxed">
           Clear, human-written explanations of the concepts that shape our world.
         </p>
+        <div class="mt-4 flex flex-col gap-1.5 text-sm">
+          <a href="/about" class="text-gray-500 hover:text-primary transition-colors">About</a>
+          <a href="/categories" class="text-gray-500 hover:text-primary transition-colors">All Categories</a>
+        </div>
       </div>
 
-      {categoryGroups.map(group => (
+      {columns.map(group => (
         <div>
-          <h3 class="font-heading text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">
+          <h3 class="font-heading text-xs font-semibold text-gray-900 uppercase tracking-wider mb-3">
             {group.label}
           </h3>
-          <ul class="space-y-2 text-sm">
+          <ul class="space-y-1.5 text-sm">
             {group.items.map(item => (
               <li>
                 <a href={`/category/${item.slug}`} class="text-gray-500 hover:text-primary transition-colors">

@@ -1,20 +1,176 @@
 # WhatIs.site
 
-> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more.
+> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more. Over 1,612 articles covering 25 categories.
 
 ## Categories
 
-- [Technology](/category/technology): How digital tools and innovations actually work
-- [Science](/category/science): The natural world explained
-- [Mathematics](/category/mathematics): Numbers, patterns, and logic
-- [Finance](/category/finance): Money, markets, and economic decisions
-- [Philosophy](/category/philosophy): The big questions about existence and knowledge
-- [History](/category/history): People and events that shaped the world
-- [Psychology](/category/psychology): How the human mind works
-- [Health & Wellness](/category/health-amp-wellness): The human body and medicine
-- [Economics](/category/economics): How societies allocate resources
-- [Law](/category/law): Legal concepts and systems
+- [Technology](/category/technology): How the tools, systems, and innovations shaping our digital world actually work — from AI and blockchain to cloud computing and cybersecurity.
+- [Science](/category/science): The natural world explained — physics, chemistry, biology, astronomy, and the scientific method itself.
+- [Mathematics](/category/mathematics): Numbers, patterns, and logic. From basic arithmetic concepts to the abstract structures that underpin modern science.
+- [Finance](/category/finance): Money, markets, and economic decisions. Understanding the financial systems that affect everyday life.
+- [Philosophy](/category/philosophy): The big questions — existence, knowledge, ethics, logic, and the nature of mind. Ideas that have shaped how we think.
+- [History](/category/history): People, events, and movements that shaped the world we live in. From ancient civilizations to the modern era.
+- [Psychology](/category/psychology): How the human mind works — behavior, cognition, emotion, development, and the science behind why we do what we do.
+- [Health & Wellness](/category/health-amp-wellness): The human body, medicine, nutrition, and mental health. Understanding what keeps us healthy and what happens when things go wrong.
+- [Economics](/category/economics): How societies allocate resources, from supply and demand to macroeconomic policy and international trade.
+- [Law](/category/law): Legal concepts, systems, and principles — from constitutional law to criminal justice and intellectual property.
+- [Arts & Culture](/category/arts-amp-culture): Creative expression across mediums — visual art, literature, film, architecture, and the cultural movements that define eras.
+- [Social Sciences](/category/social-sciences): The study of human society — sociology, anthropology, political science, and how people organize themselves.
+- [Everyday Concepts](/category/everyday-concepts): Common terms and ideas you encounter daily, explained clearly so they actually make sense.
+- [Business](/category/business): How organizations operate — management, strategy, entrepreneurship, and the mechanics of running a company.
+- [Education](/category/education): Learning, teaching, and educational systems — from pedagogy and curricula to the philosophy of education.
+- [Sports](/category/sports): Athletics, competition, and the games we play — rules, history, and the science of physical performance.
+- [Music](/category/music): Sound, rhythm, and harmony. From music theory fundamentals to genres, instruments, and the physics of sound.
+- [Food & Drink](/category/food-amp-drink): Culinary concepts, cooking techniques, ingredients, and the science behind what we eat and drink.
+- [Language](/category/language): How human language works — linguistics, grammar, semantics, and the remarkable system we use to communicate.
+- [Engineering](/category/engineering): Applying science to solve real problems — civil, mechanical, electrical, and software engineering concepts.
+- [Biology & Medicine](/category/biology-amp-medicine): Life sciences and medical knowledge — from cellular biology to clinical medicine and public health.
+- [Geography](/category/geography): The Earth's landscapes, climates, peoples, and places — physical and human geography explained.
+- [Religion](/category/religion): World religions, spiritual practices, and belief systems — their histories, teachings, and cultural impact.
+- [Politics](/category/politics): Government, power, and public policy — how political systems work and the ideologies that drive them.
+- [Marketing](/category/marketing): How businesses reach and persuade audiences — branding, advertising, digital marketing, and consumer behavior.
 
-## Popular Articles
+## Top Articles by Category
 
-<!-- Updated as articles are published -->
+### Technology
+
+- [What Is Machine Learning? How Computers Learn Without Being Programmed](/machine-learning)
+- [What Is Aircraft Mechanics?](/aircraft-mechanics)
+- [What Is Agile Software Development?](/agile-software-development)
+- [What Is Amateur Radio?](/amateur-radio)
+- [What Is Flight Simulation?](/flight-simulation)
+
+### Science
+
+- [What Is Semiconductor Physics?](/semiconductor-physics)
+- [What Is Algebra?](/algebra)
+- [What Is Acoustics?](/acoustics)
+- [What Is Anatomy?](/anatomy)
+- [What Is River Ecology?](/river-ecology)
+
+### Finance
+
+- [What Is Microeconomics?](/microeconomics)
+- [What Is Investment Management?](/investment-management)
+- [What Is Contract Law?](/contract-law)
+- [What Is Accounting?](/accounting)
+- [What Is Inventory Management?](/inventory-management)
+
+### Philosophy
+
+- [What Is Pragmatism?](/pragmatism)
+- [What Is Buddhism?](/buddhism)
+- [What Is Sikhism?](/sikhism)
+- [What Is Religion?](/religion)
+- [What Is Stoicism?](/stoicism)
+
+### History
+
+- [What Is The Silk Road?](/silk-road)
+- [What Is African History?](/african-history)
+- [What Is American History?](/american-history)
+- [What Is Ancient Egyptian History?](/ancient-egyptian-history)
+- [What Is Alchemy?](/alchemy)
+
+### Psychology
+
+- [What Is Experimental Psychology?](/experimental-psychology)
+- [What Is Emotional Intelligence?](/emotional-intelligence)
+- [What Is Personality Psychology?](/personality-psychology)
+- [What Is Educational Psychology?](/educational-psychology)
+- [What Is Organizational Psychology?](/organizational-psychology)
+
+### Health & Wellness
+
+- [What Is Acupuncture?](/acupuncture)
+- [What Is Allergies?](/allergies)
+- [What Is Acupressure?](/acupressure)
+- [What Is Sexual Health?](/sexual-health)
+- [What Is Self-Defense?](/self-defense)
+
+### Law
+
+- [What Is International Law?](/international-law)
+- [What Is Law?](/law)
+- [What Is Land Law?](/land-law)
+- [What Is Penology?](/penology)
+- [What Is Legal Writing?](/legal-writing)
+
+### Arts & Culture
+
+- [What Is Acting?](/acting)
+- [What Is Playwriting?](/playwriting)
+- [What Is Poetry?](/poetry)
+- [What Is Saxophone?](/saxophone)
+- [What Is Screenwriting?](/screenwriting)
+
+### Social Sciences
+
+- [What Is Sociology?](/sociology)
+- [What Is Social Dynamics?](/social-dynamics)
+- [What Is Social Work?](/social-work)
+- [What Is Social Anthropology?](/social-anthropology)
+
+### Everyday Concepts
+
+- [What Is Scent Training (Dogs)?](/scent-training-dogs)
+- [What Is Plate Tectonics?](/plate-tectonics)
+- [What Is Yogurt Making?](/yogurt-making)
+- [What Is Zero-Waste Living?](/zero-waste-living)
+- [What Is Scheduling?](/scheduling)
+
+### Business
+
+- [What Is Sales?](/sales)
+- [What Is Risk Management?](/risk-management)
+- [What Is Supply Chain Management?](/supply-chain-management)
+- [What Is Visual Merchandising?](/visual-merchandising)
+- [What Is Retail Management?](/retail-management)
+
+### Education
+
+- [What Is Special Education?](/special-education)
+- [What Is Second Language Acquisition?](/second-language-acquisition)
+- [What Is School Administration?](/school-administration)
+- [What Is Student Government?](/student-government)
+
+### Sports
+
+- [What Is Scuba Diving?](/scuba-diving)
+- [What Is Yachting?](/yachting)
+- [What Is Triathlon?](/triathlon)
+- [What Is Running?](/running)
+- [What Is American Football?](/american-football)
+
+### Food & Drink
+
+- [What Is Vegan Cooking?](/vegan-cooking)
+- [What Is Vegetarian Cooking?](/vegetarian-cooking)
+
+### Language
+
+- [What Is Russian Language?](/russian-language)
+- [What Is Sanskrit?](/sanskrit)
+- [What Is Sign Language?](/sign-language)
+- [What Is Semantics?](/semantics)
+- [What Is Romance Languages?](/romance-languages)
+
+### Religion
+
+- [What Is Quakerism?](/quakerism)
+- [What Is Prophecy?](/prophecy)
+- [What Is Islam?](/islam)
+- [What Is Tantra?](/tantra)
+- [What Is Talmudic Law?](/talmudic-law)
+
+### Politics
+
+- [What Is Public Policy?](/public-policy)
+- [What Is Marxism?](/marxism)
+- [What Is Lobbying?](/lobbying)
+- [What Is Public Administration?](/public-administration)
+- [What Is Foreign Policy?](/foreign-policy)
+
+## About
+
+WhatIs.site is an educational content platform. Each article is structured with a clear definition in the opening paragraph, detailed sections, frequently asked questions, and citations to authoritative sources. Content is designed to be citation-worthy and quotable.

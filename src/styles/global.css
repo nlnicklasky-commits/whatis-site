@@ -2,6 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Self-hosted Inter font — eliminates Google Fonts external dependency for faster LCP */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/inter-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/inter-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/inter-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/inter-700.woff2') format('woff2');
+}
+
 @layer base {
   :root {
     --color-primary: #2563eb;
@@ -46,5 +76,22 @@
 
   .category-badge {
     @apply inline-block bg-blue-50 text-blue-700 px-2.5 py-0.5 rounded-full text-sm font-medium;
+  }
+
+  /* Ad slot CLS protection — reserve space before ads load */
+  .ad-slot[data-ad-position="header-leaderboard"] {
+    min-height: 90px;
+  }
+  .ad-slot[data-ad-position="in-content"] {
+    min-height: 250px;
+  }
+  .ad-slot[data-ad-position="sidebar-sticky"] {
+    min-height: 600px;
+  }
+  .ad-slot[data-ad-position="end-of-article"] {
+    min-height: 250px;
+  }
+  .ad-slot[data-ad-position="mobile-anchor"] {
+    min-height: 50px;
   }
 }

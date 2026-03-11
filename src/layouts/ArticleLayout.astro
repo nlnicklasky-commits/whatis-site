@@ -5,10 +5,15 @@ import TableOfContents from '../components/TableOfContents.astro';
 import FAQ from '../components/FAQ.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import AdSlot from '../components/AdSlot.astro';
+import categories from '../data/categories.json';
 
 const { frontmatter, headings } = Astro.props;
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
 const canonicalUrl = `${siteUrl}/${frontmatter.slug}`;
+
+// Decode category slugs to display names
+const categoryMap = Object.fromEntries(categories.map((c: { slug: string; label: string }) => [c.slug, c.label]));
+const displayCategory = categoryMap[frontmatter.category] || frontmatter.category.replace(/-/g, ' ').replace(/\bamp\b/g, '&');
 ---
 
 <BaseLayout
@@ -17,19 +22,30 @@ const canonicalUrl = `${siteUrl}/${frontmatter.slug}`;
   canonicalUrl={canonicalUrl}
   ogImage={`${siteUrl}${frontmatter.heroImage}`}
 >
-  <!-- Article Schema -->
+  <!-- Article Schema (with speakable for voice assistants / GEO) -->
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Article",
+    "@id": canonicalUrl,
     "headline": frontmatter.title,
     "description": frontmatter.description,
-    "author": { "@type": "Organization", "name": frontmatter.author || "WhatIs Editorial" },
-    "publisher": { "@type": "Organization", "name": "WhatIs.site" },
+    "author": { "@type": "Organization", "name": frontmatter.author || "WhatIs Editorial", "url": siteUrl },
+    "publisher": {
+      "@type": "Organization",
+      "name": "WhatIs.site",
+      "url": siteUrl,
+      "logo": { "@type": "ImageObject", "url": `${siteUrl}/logo.svg` }
+    },
     "datePublished": frontmatter.datePublished,
     "dateModified": frontmatter.dateModified,
     "image": `${siteUrl}${frontmatter.heroImage}`,
     "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
     "wordCount": frontmatter.wordCount,
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".prose > p:first-of-type", ".prose h2", ".prose > p:nth-of-type(2)"]
+    },
+    "isAccessibleForFree": true,
   })} />
 
   <!-- FAQ Schema -->
@@ -53,12 +69,19 @@ const canonicalUrl = `${siteUrl}/${frontmatter.slug}`;
     <header class="mb-8">
       <div class="mb-4 flex flex-wrap items-center gap-3 text-sm text-gray-500">
         <a href={`/category/${frontmatter.category}`} class="category-badge hover:bg-blue-100 transition-colors">
-          {frontmatter.category.replace(/-/g, ' ')}
+          {displayCategory}
         </a>
         <span>{frontmatter.readingTime} min read</span>
         <time datetime={frontmatter.datePublished}>
           {new Date(frontmatter.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
+        {frontmatter.dateModified && frontmatter.dateModified !== frontmatter.datePublished && (
+          <span class="text-gray-400">
+            (Updated <time datetime={frontmatter.dateModified}>
+              {new Date(frontmatter.dateModified).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+            </time>)
+          </span>
+        )}
       </div>
 
       <img
