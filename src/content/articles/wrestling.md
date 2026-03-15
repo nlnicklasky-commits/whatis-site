@@ -31,7 +31,7 @@ faq:
 
 # What Is Wrestling?
 
-Wrestling is a combat sport in which two opponents attempt to control each other through grappling — using throws, takedowns, holds, and pins to establish physical dominance without striking. It's arguably the oldest sport in human history, with depictions dating back over 5,000 years in cave paintings, Egyptian tomb illustrations, and Sumerian sculptures. It was in the original ancient Greek Olympics in 708 BCE and has been in every modern Olympics since 1896. Two people testing their strength, technique, and will against each other — it doesn't get more fundamental than that.
+Wrestling is a combat sport in which two opponents attempt to control each other through grappling — using throws, takedowns, holds, and pins to establish physical dominance without striking. It's arguably the oldest sport in human history, with depictions dating back over 5,000 years in cave paintings, Egyptian tomb illustrations, and Sumerian sculptures. It was in the original ancient Greek Olympics in 708 BCE and has been in every modern Olympics since 1896. Two people testing their strength, technique, and will against each other — it doesn't get more fundamental than that. Wrestling relates to various [martial-arts](/martial-arts) traditions, demands exceptional [fitness](/fitness), connects to broader [sports-history](/sports-history), and compares to [boxing](/boxing) and [judo](/judo).
 
 ## The Olympic Styles
 

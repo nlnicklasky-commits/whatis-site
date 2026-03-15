@@ -31,9 +31,9 @@ faq:
 
 # What Is Loom [Weaving](/weaving)?
 
-Loom weaving is the process of interlacing two sets of threads at right angles to each other — one set held taut on a frame (the warp) and another passed through it (the weft) — to create fabric. Every piece of woven cloth you've ever worn, slept under, or wiped your hands on was made this way, either by hand or by machine.
+Loom weaving is the process of interlacing two sets of threads at right angles to each other — one set held taut on a frame (the warp) and another passed through it (the weft) — to create fabric. Every piece of woven cloth you've ever worn, slept under, or wiped your hands on was made this way, either by hand or by machine. Weaving connects to [textiles](/textiles) design and production, and relates closely to [knitting](/knitting) as alternative fabric-creation methods.
 
-Hand weaving on a loom is one of humanity's oldest technologies. Evidence of woven textiles dates back to at least 5000 BCE, though weaving almost certainly predates that — organic fibers rot, so the archaeological record is incomplete. What we know for certain is that by the time the earliest civilizations were [writing](/writing) things down, weaving was already well-established.
+Hand weaving on a loom is one of humanity's oldest technologies. Evidence of woven textiles dates back to at least 5000 BCE, though weaving almost certainly predates that — organic fibers rot, so the archaeological record is incomplete. What we know for certain is that by the time the earliest civilizations were [writing](/writing) things down, weaving was already well-established. The craft is studied in [art-history](/art-history) and [fashion](/fashion-history) contexts, representing an important [fashion-design](/fashion-design) foundation.
 
 ## How Weaving Works
 

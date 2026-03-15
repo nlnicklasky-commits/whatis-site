@@ -1,14 +1,16 @@
 # WhatIs.site — Full Article Index
 
-> Complete index of all 1,612 articles on WhatIs.site, organized by category with descriptions.
+> Complete index of all 1,615 articles on WhatIs.site, organized by category with descriptions.
 
 ## Technology
 
 How the tools, systems, and innovations shaping our digital world actually work — from AI and blockchain to cloud computing and cybersecurity.
 
 - [What Is Machine Learning? How Computers Learn Without Being Programmed](/machine-learning): Machine learning enables computers to learn patterns from data and make decisions without explicit programming. Explore how it works and why it matters.
+- [What Is Cybersecurity?](/cybersecurity): Cybersecurity protects systems, networks, and data from digital attacks. Learn about threats, defense strategies, careers, and why it matters.
 - [What Is Aircraft Mechanics?](/aircraft-mechanics): Aircraft mechanics keeps planes flying safely through inspection, repair, and maintenance governed by strict FAA regulations and A&P certification. Discover ...
 - [What Is Agile Software Development?](/agile-software-development): Agile software development explained: its origins, core values, frameworks like Scrum and Kanban, and why most tech teams have adopted it since 2001. Discove...
+- [What Is Cryptocurrency?](/cryptocurrency): Cryptocurrency is digital money secured by cryptography on decentralized networks. Learn how crypto works, key types, blockchain basics, and real-world uses.
 - [What Is Amateur Radio?](/amateur-radio): Amateur radio (ham radio) explained: licensing, frequencies, equipment, emergency use, and why millions worldwide still transmit over the airwaves. Discover ...
 - [What Is Flight Simulation?](/flight-simulation): Flight simulation recreates the experience of flying aircraft using software and hardware, serving pilot training, aerospace engineering, and entertainment.
 - [What Is Motion Graphics?](/motion-graphics): Motion graphics combine animation and graphic design to create moving visuals for ads, films, apps, and explainer videos. Here's how it all works. Discover t...
@@ -206,6 +208,7 @@ How the tools, systems, and innovations shaping our digital world actually work 
 
 The natural world explained — physics, chemistry, biology, astronomy, and the scientific method itself.
 
+- [What Is Climate Change?](/climate-change): Climate change is the long-term shift in global temperatures and weather patterns. Learn about causes, effects, scientific evidence, and solutions.
 - [What Is Semiconductor Physics?](/semiconductor-physics): Semiconductor physics explains how materials like silicon conduct electricity selectively, enabling transistors, chips, and every modern electronic device.
 - [What Is Algebra?](/algebra): Algebra explained clearly: variables, equations, functions, and why this branch of math matters far beyond the classroom. Discover the key facts, history, an...
 - [What Is Acoustics?](/acoustics): Acoustics is the science of sound: how it's produced, transmitted, and received. Learn about sound waves, architectural acoustics, noise control, and more.

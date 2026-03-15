@@ -31,7 +31,7 @@ faq:
 
 # What Is Rock Climbing?
 
-Rock climbing is the sport of ascending natural rock formations or artificial climbing walls using your hands, feet, and body, typically with the assistance of specialized safety equipment. It's a combination of physical strength, technique, problem-solving, and mental fortitude — every route is a puzzle you solve with your body. Climbing was included in the Olympics for the first time at Tokyo 2020, and the sport has grown explosively, with over 1,000 climbing gyms in the U.S. and an estimated 10 million Americans who climb at least occasionally.
+Rock climbing is the sport of ascending natural rock formations or artificial climbing walls using your hands, feet, and body, typically with the assistance of specialized safety equipment. It's a combination of physical strength, technique, problem-solving, and mental fortitude — every route is a puzzle you solve with your body. Climbing was included in the Olympics for the first time at Tokyo 2020, and the sport has grown explosively, with over 1,000 climbing gyms in the U.S. and an estimated 10 million Americans who climb at least occasionally. Rock climbing engages [fitness](/fitness) and [strength-training](/strength-training) needs while also involving understanding of [geology](/geology), [physics](/physics), and related to [yoga](/yoga) for flexibility.
 
 ## The Types of Climbing
 

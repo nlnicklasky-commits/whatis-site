@@ -31,7 +31,7 @@ faq:
 
 # What Is Irrigation?
 
-Irrigation is the artificial application of water to land for growing crops. It is one of the oldest and most important agricultural technologies — civilizations have practiced it for at least 8,000 years, and it remains essential today. Irrigated land covers about 20% of the world's cultivated area but produces roughly 40% of the world's food. Without irrigation, feeding 8 billion people would be impossible.
+Irrigation is the artificial application of water to land for growing crops. It is one of the oldest and most important agricultural technologies — civilizations have practiced it for at least 8,000 years, and it remains essential today. Irrigated land covers about 20% of the world's cultivated area but produces roughly 40% of the world's food. Without irrigation, feeding 8 billion people would be impossible. Modern irrigation represents a major intersection of [engineering](/engineering), environmental [sustainability](/sustainability), and [hydrology](/hydrology).
 
 ## Why Irrigation Matters
 
@@ -63,7 +63,7 @@ These ancient systems demonstrate that irrigation is not just a modern convenien
 
 **Water depletion.** The Ogallala Aquifer — which irrigates one-fifth of U.S. cropland across eight Great Plains states — is being pumped far faster than it recharges. Some areas have already exhausted accessible groundwater. Similar depletion affects aquifers in India, China, and the Middle East.
 
-**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing [productivity](/productivity). Proper drainage and flushing can manage the problem but add cost.
+**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing productivity. Proper drainage and flushing can manage the problem but add cost. These soil challenges are studied in [soil-science](/soil-science) and relate to [ecology](/ecology) impacts.
 
 **Energy costs.** Pumping water — especially from deep wells — requires significant energy. In California's Central Valley, irrigation pumping accounts for a substantial portion of agricultural operating costs.
 

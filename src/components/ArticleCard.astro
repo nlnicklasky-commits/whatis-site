@@ -33,6 +33,7 @@ const displayCategory = categoryMap[data.category] || data.category.replace(/-/g
     class="w-full aspect-video object-cover bg-gray-100"
     loading="lazy"
     decoding="async"
+    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
     onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
   />
   <div class="p-4">

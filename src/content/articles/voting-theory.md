@@ -31,7 +31,7 @@ faq:
 
 # What Is Voting Theory?
 
-Voting theory — also called [social choice theory](/social-choice-theory) — is the mathematical and philosophical study of how collective decisions are made through voting. It examines different voting systems, analyzes their properties, identifies paradoxes and failures, and asks a deceptively simple question: when a group of people with different preferences need to make a collective choice, what's the fairest way to do it?
+Voting theory — also called [social choice theory](/social-choice-theory) — is the mathematical and philosophical study of how collective decisions are made through voting. It examines different voting systems, analyzes their properties, identifies paradoxes and failures, and asks a deceptively simple question: when a group of people with different preferences need to make a collective choice, what's the fairest way to do it? Voting theory bridges [game-theory](/game-theory), [democracy](/democracy) principles, [statistics](/statistics), and [political-science](/political-science).
 
 The answer, it turns out, is that there is no perfect answer. But some methods are considerably better than others.
 

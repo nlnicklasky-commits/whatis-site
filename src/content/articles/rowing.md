@@ -31,7 +31,7 @@ faq:
 
 # What Is Rowing?
 
-Rowing is the sport of propelling a narrow boat through water using oars, powered entirely by the athletes' bodies. It's one of the oldest competitive sports — ancient civilizations raced boats, and modern rowing has been an Olympic sport since the 1900 Games (though it was scheduled for 1896, rough seas cancelled the event). Rowing is also one of the most physically demanding endurance sports in existence, engaging nearly every muscle group in a coordinated effort that combines raw power with precise timing.
+Rowing is the sport of propelling a narrow boat through water using oars, powered entirely by the athletes' bodies. It's one of the oldest competitive sports — ancient civilizations raced boats, and modern rowing has been an Olympic sport since the 1900 Games (though it was scheduled for 1896, rough seas cancelled the event). Rowing is also one of the most physically demanding endurance sports in existence, engaging nearly every muscle group in a coordinated effort that combines raw power with precise timing. Rowing connects to [exercise](/exercise-physiology) science, water sports like [swimming](/swimming), and broader aspects of [aerodynamics](/aerodynamics) and [sports-history](/sports-history).
 
 ## How It Works
 

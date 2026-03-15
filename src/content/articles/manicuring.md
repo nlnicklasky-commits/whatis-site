@@ -31,7 +31,7 @@ faq:
 
 # What Is Manicuring?
 
-Manicuring is the cosmetic treatment of fingernails and hands — shaping, buffing, polishing, and caring for nails and the surrounding skin. The word comes from the Latin "manus" (hand) and "cura" (care). It's one of the oldest grooming practices, with evidence of nail coloring dating back to ancient China around 3000 BCE, where members of the ruling class stained their nails with mixtures of beeswax, egg whites, and flower petals.
+Manicuring is the cosmetic treatment of fingernails and hands — shaping, buffing, polishing, and caring for nails and the surrounding skin. The word comes from the Latin "manus" (hand) and "cura" (care). It's one of the oldest grooming practices, with evidence of nail coloring dating back to ancient China around 3000 BCE, where members of the ruling class stained their nails with mixtures of beeswax, egg whites, and flower petals. Manicuring falls within the broader categories of [aesthetics](/aesthetics), personal [hygiene](/hygiene), and [fashion](/fashion-history) expression, and involves understanding the [chemistry](/chemistry) of nail products and treatments.
 
 Today, the nail care industry generates over $11 billion annually in the United States alone. There are roughly 56,000 nail salons in the country, employing over 400,000 workers. What started as simple grooming has become a major beauty category and, through nail art, a genuine form of creative expression.
 
@@ -63,7 +63,7 @@ The whole process takes 30-60 minutes for a basic manicure, longer for specializ
 
 **Dip powder.** Nails are coated with adhesive and dipped into colored acrylic powder. The result is durable and chip-resistant, lasting 3-4 weeks. No UV light needed for curing.
 
-**Nail art.** Decorative designs applied to nails — anything from simple stripes and dots to elaborate hand-painted scenes, 3D embellishments, foils, chrome effects, and encapsulated designs. Nail art has exploded on social media, with some nail technicians building massive followings through their creative work.
+**Nail art.** Decorative designs applied to nails — anything from simple stripes and dots to elaborate hand-painted scenes, 3D embellishments, foils, chrome effects, and encapsulated designs. Nail art has exploded on social media, with some nail technicians building massive followings through their creative work, turning it into a legitimate form of [art](/fine-art).
 
 ## The Salon Industry
 

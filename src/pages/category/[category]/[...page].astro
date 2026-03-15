@@ -1,13 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
-import CategoryLayout from '../../layouts/CategoryLayout.astro';
-import categoriesData from '../../data/categories.json';
+import CategoryLayout from '../../../layouts/CategoryLayout.astro';
+import categoriesData from '../../../data/categories.json';
 
-export async function getStaticPaths() {
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
   const articles = await getCollection('articles');
   const categories = [...new Set(articles.map(a => a.data.category))];
 
-  return categories.map(category => {
+  return categories.flatMap(category => {
     const categoryArticles = articles
       .filter(a => a.data.category === category)
       .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
@@ -16,15 +16,22 @@ export async function getStaticPaths() {
     const description = catInfo?.description ||
       `Explore our collection of articles about ${category.replace(/-/g, ' ')}.`;
 
-    return {
+    return paginate(categoryArticles, {
       params: { category },
-      props: { articles: categoryArticles, description },
-    };
+      props: { description },
+      pageSize: 30,
+    });
   });
 }
 
 const { category } = Astro.params;
-const { articles, description } = Astro.props;
+const { description } = Astro.props;
+const page = Astro.props.page;
 ---
 
-<CategoryLayout category={category!} description={description} articles={articles} />
+<CategoryLayout
+  category={category!}
+  description={description}
+  articles={page.data}
+  page={page}
+/>

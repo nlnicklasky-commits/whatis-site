@@ -35,7 +35,7 @@ faq:
 
 Nephrology is the branch of internal medicine that deals with the kidneys — their normal function, their diseases, and what happens when they fail. The word comes from the Greek *nephros* (kidney) and *logos* (study), and if you've ever had a blood test that checked your "kidney function," you've already brushed up against the edges of this specialty.
 
-Your kidneys don't get much attention until something goes wrong with them. They sit quietly behind your abdominal organs, about the size of your fists, doing work that would kill you within days if it stopped. Roughly 37 million Americans have chronic kidney disease, and most of them don't know it. That gap between how important kidneys are and how little people think about them is basically the story of nephrology.
+Your kidneys don't get much attention until something goes wrong with them. They sit quietly behind your abdominal organs, about the size of your fists, doing work that would kill you within days if it stopped. Roughly 37 million Americans have chronic kidney disease, and most of them don't know it. That gap between how important kidneys are and how little people think about them is basically the story of nephrology. Understanding kidney function requires knowledge of human [anatomy](/anatomy) and [physiology](/physiology), as well as [pharmacology](/pharmacology) for medication management and [dialysis](/dialysis) techniques.
 
 ## What Your Kidneys Actually Do
 

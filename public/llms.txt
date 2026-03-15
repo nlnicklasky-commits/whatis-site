@@ -1,6 +1,6 @@
 # WhatIs.site
 
-> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more. Over 1,612 articles covering 25 categories.
+> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more. Over 1,615 articles covering 25 categories.
 
 ## Categories
 
@@ -35,18 +35,18 @@
 ### Technology
 
 - [What Is Machine Learning? How Computers Learn Without Being Programmed](/machine-learning)
+- [What Is Cybersecurity?](/cybersecurity)
 - [What Is Aircraft Mechanics?](/aircraft-mechanics)
 - [What Is Agile Software Development?](/agile-software-development)
-- [What Is Amateur Radio?](/amateur-radio)
-- [What Is Flight Simulation?](/flight-simulation)
+- [What Is Cryptocurrency?](/cryptocurrency)
 
 ### Science
 
+- [What Is Climate Change?](/climate-change)
 - [What Is Semiconductor Physics?](/semiconductor-physics)
 - [What Is Algebra?](/algebra)
 - [What Is Acoustics?](/acoustics)
 - [What Is Anatomy?](/anatomy)
-- [What Is River Ecology?](/river-ecology)
 
 ### Finance
 

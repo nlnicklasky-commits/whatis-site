@@ -87,10 +87,14 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
       <img
         src={frontmatter.heroImage}
         alt={frontmatter.heroAlt}
-        width="720"
-        height="405"
+        width="1200"
+        height="675"
         class="w-full rounded-lg mb-8 aspect-video object-cover"
         loading="eager"
+        fetchpriority="high"
+        decoding="async"
+        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 720px"
+        srcset={`${frontmatter.heroImage} 400w, ${frontmatter.heroImage} 720w, ${frontmatter.heroImage} 1200w`}
         onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
       />
     </header>

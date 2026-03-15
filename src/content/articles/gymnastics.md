@@ -31,7 +31,7 @@ faq:
 
 # What Is Gymnastics?
 
-Gymnastics is a sport that combines strength, flexibility, balance, coordination, and artistry, performed on specialized apparatus or on the floor. It's one of the original Olympic sports — included in the first modern Games in Athens in 1896 — and consistently one of the most watched events at every Olympics since. What makes gymnastics unique among sports is the combination of athletic demands: a gymnast needs the explosive power of a sprinter, the flexibility of a dancer, the strength-to-weight ratio of a rock climber, and the spatial awareness of a diver, all expressed through routines that are simultaneously athletic performances and artistic compositions.
+Gymnastics is a sport that combines strength, flexibility, balance, coordination, and artistry, performed on specialized apparatus or on the floor. It's one of the original Olympic sports — included in the first modern Games in Athens in 1896 — and consistently one of the most watched events at every Olympics since. What makes gymnastics unique among sports is the combination of athletic demands: a gymnast needs the explosive power of a sprinter, the flexibility of a dancer, the strength-to-weight ratio of a [rock climber](/rock-climbing), and the spatial awareness of a diver, all expressed through routines that are simultaneously athletic performances and artistic compositions. The sport itself falls under broader [athletics](/athletics) categories and shares considerable overlap with [yoga](/yoga) for flexibility training and general [fitness](/fitness) development.
 
 ## The Disciplines
 

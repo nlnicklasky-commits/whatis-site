@@ -31,7 +31,7 @@ faq:
 
 # What Is Nihilism?
 
-Nihilism is the philosophical position that life has no inherent meaning, purpose, or objective value. Nothing matters in any ultimate sense — no moral truths, no cosmic purpose, no grand design. It's one of the most unsettling ideas in [philosophy](/philosophy), and it's been misunderstood more often than almost any other philosophical concept.
+Nihilism is the philosophical position that life has no inherent meaning, purpose, or objective value. Nothing matters in any ultimate sense — no moral truths, no cosmic purpose, no grand design. It's one of the most unsettling ideas in [philosophy](/philosophy), and it's been misunderstood more often than almost any other philosophical concept. Related to [existentialism](/existentialism), [ethics](/ethics), and broader questions in [metaphysics](/metaphysics), nihilism also intersects with [psychology](/psychology) when considering how people cope with meaninglessness.
 
 ## What People Get Wrong
 

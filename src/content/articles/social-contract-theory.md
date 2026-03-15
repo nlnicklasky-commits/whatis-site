@@ -31,7 +31,7 @@ faq:
 
 # What Is [Social](/[social](/social-choice-theory)-democracy) Contract Theory?
 
-Social contract theory is the philosophical idea that legitimate political authority comes from an agreement — explicit or implied — between individuals and their [government](/government). People consent to give up certain freedoms and follow certain rules in exchange for the benefits of organized society: security, order, property protection, and collective services they couldn't provide alone.
+Social contract theory is the philosophical idea that legitimate political authority comes from an agreement — explicit or implied — between individuals and their [government](/government). People consent to give up certain freedoms and follow certain rules in exchange for the benefits of organized society: security, order, property protection, and collective services they couldn't provide alone. This theory bridges [ethics](/ethics), [political-philosophy](/political-philosophy), [democracy](/democracy), [law](/law), and [human-rights](/human-rights-law) concepts.
 
 Nobody actually signed this contract. It's a thought experiment — a way of asking: "Why should anyone obey a government? What makes political authority legitimate?" The answer, according to social contract theorists, is consent. Government is justified because rational people would agree to it, given the alternative.
 

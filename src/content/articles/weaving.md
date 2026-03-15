@@ -31,7 +31,7 @@ faq:
 
 # What Is Weaving?
 
-Weaving is the process of interlacing two sets of threads — the warp (vertical threads held under tension) and the weft (horizontal threads passed through the warp) — to create fabric. It's one of humanity's oldest technologies, predating [pottery](/pottery) and metallurgy, and it remains fundamental to how we make clothing, textiles, and decorative fabrics. Every piece of woven fabric you own — your jeans, your bed sheets, your dish towels — was created through the same basic principle: threads crossing over and under other threads.
+Weaving is the process of interlacing two sets of threads — the warp (vertical threads held under tension) and the weft (horizontal threads passed through the warp) — to create fabric. It's one of humanity's oldest technologies, predating [pottery](/pottery) and metallurgy, and it remains fundamental to how we make clothing, textiles, and decorative fabrics. Every piece of woven fabric you own — your jeans, your bed sheets, your dish towels — was created through the same basic principle: threads crossing over and under other threads. Weaving connects to [textiles](/textiles) technology, [art-history](/art-history), [fashion](/fashion-history), and relates to [knitting](/knitting) and [dyeing](/dyeing) techniques.
 
 ## The Fundamental Mechanic
 

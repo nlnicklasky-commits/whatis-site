@@ -31,7 +31,7 @@ faq:
 
 # What Is Parliamentary Procedure?
 
-Parliamentary procedure is a set of rules and conventions for conducting meetings, managing [debate](/debate), and [making](/artisan-bread-making) group decisions in an orderly, fair, and efficient manner. It ensures that everyone gets a chance to speak, that the majority rules while the minority is heard, and that meetings actually produce decisions rather than devolving into chaos. If you've ever been in a meeting where nobody knows who's talking, nothing gets decided, and everyone leaves frustrated — that's what parliamentary procedure prevents.
+Parliamentary procedure is a set of rules and conventions for conducting meetings, managing [debate](/debate), and making group decisions in an orderly, fair, and efficient manner. It ensures that everyone gets a chance to speak, that the majority rules while the minority is heard, and that meetings actually produce decisions rather than devolving into chaos. If you've ever been in a meeting where nobody knows who's talking, nothing gets decided, and everyone leaves frustrated — that's what parliamentary procedure prevents. Parliamentary procedure is fundamental to [democracy](/democracy) and represents a key aspect of [leadership](/leadership) and [political-science](/political-science) practice.
 
 ## Why It Exists
 
@@ -114,4 +114,4 @@ A good chair keeps meetings moving without steamrolling. A bad chair either lose
 
 If you've never sat through a contentious board meeting, parliamentary procedure might seem like bureaucratic overkill. But when real money, real decisions, and real disagreements are on the table — selecting officers, approving budgets, changing bylaws — having clear, agreed-upon rules for making decisions is the difference between an organization that functions and one that fractures.
 
-The rules aren't the point. Fair, efficient decision-making is the point. Parliamentary procedure is just the technology humans developed to get there.
+The rules aren't the point. Fair, efficient decision-making is the point. Parliamentary procedure is just the technology humans developed to get there, rooted in concepts of [government](/government) and fair [justice](/justice-system) practices across organizations.

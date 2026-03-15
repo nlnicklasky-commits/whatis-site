@@ -8,22 +8,42 @@ interface Props {
   category: string;
   description: string;
   articles: any[];
+  page?: {
+    data: any[];
+    currentPage: number;
+    lastPage: number;
+    total: number;
+    url: {
+      prev: string | undefined;
+      next: string | undefined;
+      current: string;
+    };
+  };
 }
 
-const { category, description, articles } = Astro.props;
+const { category, description, articles, page } = Astro.props;
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
-const canonicalUrl = `${siteUrl}/category/${category}`;
+const currentPage = page?.currentPage || 1;
+const canonicalUrl = currentPage === 1
+  ? `${siteUrl}/category/${category}`
+  : `${siteUrl}/category/${category}/${currentPage}`;
 
 // Use canonical category labels from categories.json
 const categoryMap = Object.fromEntries(categoriesData.map((c: { slug: string; label: string }) => [c.slug, c.label]));
 const displayName = categoryMap[category] || category.replace(/-/g, ' ').replace(/\bamp\b/g, '&').replace(/\b\w/g, (c: string) => c.toUpperCase());
+
+const totalArticles = page?.total || articles.length;
+const lastPage = page?.lastPage || 1;
 ---
 
 <BaseLayout
-  title={`${displayName} Articles`}
+  title={currentPage > 1 ? `${displayName} Articles — Page ${currentPage}` : `${displayName} Articles`}
   description={description}
   canonicalUrl={canonicalUrl}
 >
+  {page?.url.prev && <link slot="head" rel="prev" href={page.url.prev} />}
+  {page?.url.next && <link slot="head" rel="next" href={page.url.next} />}
+
   <div class="max-w-5xl mx-auto px-4 py-12">
     <header class="mb-12">
       <nav class="text-sm text-gray-500 mb-4">
@@ -33,7 +53,9 @@ const displayName = categoryMap[category] || category.replace(/-/g, ' ').replace
       </nav>
       <h1 class="font-heading text-4xl font-bold text-gray-900 mb-4 capitalize">{displayName}</h1>
       <p class="text-lg text-gray-600 max-w-prose">{description}</p>
-      <p class="mt-2 text-sm text-gray-400">{articles.length} articles</p>
+      <p class="mt-2 text-sm text-gray-400">
+        {totalArticles} articles{lastPage > 1 && ` — Page ${currentPage} of ${lastPage}`}
+      </p>
     </header>
 
     <AdSlot position="header-leaderboard" />
@@ -43,5 +65,49 @@ const displayName = categoryMap[category] || category.replace(/-/g, ' ').replace
         <ArticleCard article={article} />
       ))}
     </div>
+
+    {lastPage > 1 && (
+      <nav class="mt-12 flex items-center justify-center gap-2" aria-label="Pagination">
+        {page?.url.prev ? (
+          <a
+            href={page.url.prev}
+            class="px-4 py-2 rounded-lg border border-gray-200 text-gray-700 hover:bg-gray-50 transition-colors"
+          >
+            Previous
+          </a>
+        ) : (
+          <span class="px-4 py-2 rounded-lg border border-gray-100 text-gray-300 cursor-not-allowed">
+            Previous
+          </span>
+        )}
+
+        {Array.from({ length: lastPage }, (_, i) => i + 1).map((num) => (
+          <a
+            href={num === 1 ? `/category/${category}` : `/category/${category}/${num}`}
+            class={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+              num === currentPage
+                ? 'bg-blue-600 text-white'
+                : 'border border-gray-200 text-gray-700 hover:bg-gray-50'
+            }`}
+            aria-current={num === currentPage ? 'page' : undefined}
+          >
+            {num}
+          </a>
+        ))}
+
+        {page?.url.next ? (
+          <a
+            href={page.url.next}
+            class="px-4 py-2 rounded-lg border border-gray-200 text-gray-700 hover:bg-gray-50 transition-colors"
+          >
+            Next
+          </a>
+        ) : (
+          <span class="px-4 py-2 rounded-lg border border-gray-100 text-gray-300 cursor-not-allowed">
+            Next
+          </span>
+        )}
+      </nav>
+    )}
   </div>
 </BaseLayout>

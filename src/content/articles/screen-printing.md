@@ -31,7 +31,7 @@ faq:
 
 # What Is Screen Printing?
 
-Screen printing is a printing technique where ink is pushed through a fine mesh screen onto a surface below — fabric, paper, wood, glass, metal, or plastic. A stencil on the mesh blocks ink in certain areas and allows it through in others, creating the printed image. Each color requires a separate screen, and multi-color designs are built up one layer at a time.
+Screen printing is a printing technique where ink is pushed through a fine mesh screen onto a surface below — fabric, paper, wood, glass, metal, or plastic. A stencil on the mesh blocks ink in certain areas and allows it through in others, creating the printed image. Each color requires a separate screen, and multi-color designs are built up one layer at a time. Screen printing sits at the intersection of [graphic-design](/graphic-design), [textiles](/textiles), and fine [art-history](/art-history), with techniques related to [photography](/photography) for image separation.
 
 It's one of the oldest printing methods still in heavy commercial use, and for good reason. Screen printing produces vivid, durable prints on almost any surface, at a cost per unit that drops sharply with volume. Your favorite band t-shirt? Almost certainly screen printed.
 
