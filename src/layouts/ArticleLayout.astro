@@ -21,6 +21,7 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
   description={frontmatter.description}
   canonicalUrl={canonicalUrl}
   ogImage={`${siteUrl}${frontmatter.heroImage}`}
+  ogType="article"
 >
   <!-- Article Schema (with speakable for voice assistants / GEO) -->
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
@@ -94,7 +95,6 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
         fetchpriority="high"
         decoding="async"
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 720px"
-        srcset={`${frontmatter.heroImage} 400w, ${frontmatter.heroImage} 720w, ${frontmatter.heroImage} 1200w`}
         onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
       />
     </header>
@@ -138,7 +138,7 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
             <ul>
               {frontmatter.externalSources.map((src: { title: string; url: string }) => (
                 <li>
-                  <a href={src.url} target="_blank" rel="noopener">{src.title}</a>
+                  <a href={src.url} target="_blank" rel="noopener noreferrer">{src.title}</a>
                 </li>
               ))}
             </ul>

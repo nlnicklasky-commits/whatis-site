@@ -8,9 +8,10 @@ interface Props {
   description: string;
   canonicalUrl: string;
   ogImage?: string;
+  ogType?: string;
 }
 
-const { title, description, canonicalUrl, ogImage } = Astro.props;
+const { title, description, canonicalUrl, ogImage, ogType = 'website' } = Astro.props;
 const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
 const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
 ---
@@ -28,7 +29,7 @@ const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalUrl} />
-  <meta property="og:type" content="article" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:site_name" content={siteName} />
   <meta property="og:image" content={ogImage || `${siteUrl}/og-image.png`} />
 

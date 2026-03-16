@@ -44,6 +44,25 @@ const lastPage = page?.lastPage || 1;
   {page?.url.prev && <link slot="head" rel="prev" href={page.url.prev} />}
   {page?.url.next && <link slot="head" rel="next" href={page.url.next} />}
 
+  <!-- CollectionPage + ItemList Schema -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${displayName} Articles`,
+    "description": description,
+    "url": canonicalUrl,
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": articles.length,
+      "itemListElement": articles.map((article: any, index: number) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "url": `${siteUrl}/${article.data?.slug || article.slug}`,
+        "name": article.data?.title || article.title,
+      }))
+    }
+  })} />
+
   <div class="max-w-5xl mx-auto px-4 py-12">
     <header class="mb-12">
       <nav class="text-sm text-gray-500 mb-4">
